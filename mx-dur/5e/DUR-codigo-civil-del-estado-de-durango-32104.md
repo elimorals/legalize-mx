@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1979-11-18"
+last_updated: "1981-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1981.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -2499,17 +2499,17 @@ ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1981)</small>
 
-ART. 724.- El valor máximo de los bienes inembargables afectos al Patrimonio de la Familia será de:
+ART. 724.- El valor máximo de los bienes inmuebles afectos al patrimonio de la familia será de:
 
-I.- Treinta mil pesos para los Municipios de: Durango, Gómez Palacios y Lerdo.
+I.- $ 500,000.00 para los Municipios de Durango, Gómez Palacio y Lerdo.
 
-II.- Veinte Mil pesos para los Municipios de: Guadalupe Victoria, Canatlán, Santiago Papasquiaro, Vicente Guerrero y Nombre de Dios.
+II.- $ 300,000.00 para los Municipios de Guadalupe Victoria, Canatlán, Santiago Papasquiaro, Vicente Guerrero, El Oro y Cuencamé.
 
-III.- Diez mil pesos para los demás Municipios del Estado.
+III.- $ 150,000.00 para los demás Municipios del Estado.
 
-Para justificar los valores anteriormente citados, se atenderá a los Fiscales registrados.
+Para justificar los valores anteriormente ctados (sic) se atenderá a los fiscales registrados.
 
 ART. 725.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectos.
 
@@ -9280,3 +9280,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE NOVIEMBRE DE 1979.
 
 UNICO.- El presente Decreto entrará en vigor en todo el Estado el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1981.
+
+UNICO.- El presente Decreto surtirá sus efectos quince días después de su publicación en el Periódico Oficial del Estado.
