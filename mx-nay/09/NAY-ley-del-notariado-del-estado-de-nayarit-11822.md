@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-del-estado-de-nayarit-11822"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1987-01-28"
+last_updated: "1995-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, Miércoles 28 de Enero de 1987.
 
@@ -207,9 +207,11 @@ II.- Si su intervención en la autentificación del acto o del hecho ponen en pe
 
 III.Si no se anticipan o garantizan las cantidades necesarias para hacer los pagos de los derechos o impuestos que las operaciones causen en favor de la Federación, del Estado o Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 25.
 
-Las funciones del Notario son incompatibles con el desempeño de cargos públicos, de elección popular, del mandato judicial y con la de ministro de cualquier culto. El Notario podrá:
+Las funciones del Notario son incompatibles con el desempeño de cargos públicos, de elección popular, del mandato judicial y con la de ministro de cualquier culto. Se exceptúan las funciones de carácter electoral. El notario podrá:
 
 I.- Aceptar cargos de instrucción publica y de beneficencia privada o pública;
 
@@ -1082,3 +1084,9 @@ El Secretario Gral. de Gobierno
 LIC. RAFAEL PÉREZ CÁRDENAS. Rubrica.
 
 EMILIO M. GONZALEZ.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto iniciaI su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
