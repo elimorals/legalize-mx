@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-de-personas-con-discapacidad-en-164
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-18"
-last_updated: "2000-02-18"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA ATENCION DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de febrero de 2000.
 
@@ -215,6 +215,10 @@ La Dirección de Seguridad Pública Municipal podrá convenir con los responsabl
 
 III.- Impulsar el diseño e instrumentación de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso público.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+IV.- Recoger los medios de identificación para personas con discapacidad, a quien haga uso indebido de ellas, turnar dichas identificaciones a la brevedad posible al departamento de servicios médicos municipales para los efectos previstos en el segundo párrafo del artículo 13 de este mismo Reglamento, además de aplicar la sanción prevista en el artículo 147, punto 329 del Reglamento de Tránsito para este Municipio.
+
 ### CAPÍTULO SÉPTIMO. PROMOCIÓN DEL TURISMO Y LA RECREACIÓN
 
 ###### Artículo 22.
@@ -264,3 +268,9 @@ Tercero.- Los concesionarios del servicio público de pasajeros, deberán dar cu
 LIC. MARIO LUIS CORRAL CALIGARIS
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
