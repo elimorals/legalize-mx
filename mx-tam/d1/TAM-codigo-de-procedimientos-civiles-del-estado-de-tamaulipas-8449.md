@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1998-08-29"
+last_updated: "1999-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -1449,7 +1449,7 @@ I.- Si el juez ante quien se promueve se considera competente para conocer del j
 
 Si la resolución fuere negando su competencia, será apelable en ambos efectos;
 
-II.- Si el juez reconoce su competencia mandará librar oficio requiriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
+II.- Si el juez reconoce su competencia mandará librar oficio requeriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
 
 III.- Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento, y remitirá inmediatamente los autos originales al superior, con citación de las partes;
 
@@ -3091,7 +3091,9 @@ I.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que 
 
 II.- La solicitud puede ser escrita o verbal, en ella se señalarán las causas en que se funda, el domicilio, en que se desea habitar, la existencia de hijos menores y las demás circunstancias del caso.
 
-III.- El Juez podrá practicar las diligencias que a su criterio sean necesarias, antes de dictar la resolución.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
+III.- El juez podrá practicar las diligencias que a su criterio sean necesarias, antes de dictar la resolución. En el caso de violencia intrafamiliar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
 
 IV.- Presentada la solicitud, el Juez sin más trámite resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular.
 
@@ -3105,11 +3107,11 @@ VII.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha pre
 
 VIII.- En la misma resolución el Juez ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias al solicitante, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 431.
 
-El cónyuge que se separó tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+Los derechos contemplados en el presente Capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
 
@@ -3643,7 +3645,7 @@ La ejecución sólo se suspenderá cuando el demandado presente certificado lega
 
 ###### ARTICULO 509.
 
-El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará el orden establecido en el artículo 678.
+El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará al orden establecido en el artículo 678.
 
 ###### ARTICULO 510.
 
@@ -4007,7 +4009,7 @@ Recibida la demanda, el juez dispondrá lo siguiente:
 
 I.- Que se notifique al Ministerio Público;
 
-II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
+II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos, o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
 
 III.- Si se trata de demencia dispondrá que dos psiquiatras, o si no los hay en el lugar, que dos peritos médicos examinen al incapacitado y emitan opinión acerca de sus condiciones. Si se está en alguno de los demás casos a que se refiere la primera parte del artículo 568, para el diagnostico únicamente se recurrirá a los médicos. En cualquiera de estas situaciones, el tutor puede nombrar otro para que tome parte en el examen y se oiga su dictamen. Puede el juez, además, requerir opinión preliminar a aquéllos;
 
@@ -6335,7 +6337,7 @@ El notario dará a conocer estas declaraciones por medio de dos publicaciones qu
 
 ###### ARTICULO 831.
 
-La tramitación de intestamentarías ante notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, lo pidan de común acuerdo, no exista controversia y los intereses del fisco estén garantizados, sin perjuicio de lo que se dispone en el artículo siguiente.
+La tramitación de intestamentarías ante notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados mayores de edad, lo pidan de común acuerdo, no exista controversia y los intereses del fisco estén garantizados, sin perjuicio de lo que se dispone en el artículo siguiente.
 
 ###### ARTICULO 832.
 
@@ -7045,7 +7047,7 @@ II.- La apelación en el efecto devolutivo no suspende la ejecución de la resol
 
 > <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
 
-III.- No obstante lo dispuesto en la fracción anterior, para ejecutar las resoluciones deberá otorgarse previamente caución para responder de los perjuicios que puedan ocasionarse a la contraria con motivo de la ejecución provisional. Esta podrá llevarse adelante sin necesidad de caución cuando se trate de sentencia sobre alimentos y en los demás casos en que la ley lo disponga. Si la caución es otorgada por el actor, su monto comprenderá la devolución de la cosa que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causasen al demandado, si el superior revoca la resolución. Si se otorgare por el demandado, su monto cubrirá el pago de lo juzgado y sentenciado, o el cumplimiento, si se está en el caso de hacer o no hacer. La calificación de la caución será hecha por el juez, quien se sujetará a las disposiciones de este Código. La liquidación de los daños y perjuicios se formulará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa;
+III.- No obstante lo dispuesto en la fracción anterior, para ejecutar las resoluciones deberá otorgarse previamente caución para responder de los perjuicios que puedan ocasionarse a la contraria con motivo de la ejecución provisional. Esta podrá llevarse adelante sin necesidad de caución cuando se trate de sentencia sobre alimentos y en los demás casos en que la ley lo disponga. Si la caución es otorgada por el autor, su monto comprenderá la devolución de la cosa que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causasen al demandado, si el superior revoca la resolución. Si se otorgare por el demandado, su monto cubrirá el pago de lo juzgado y sentenciado, o el cumplimiento, si se está en el caso de hacer o no hacer. La calificación de la caución será hecha por el juez, quien se sujetará a las disposiciones de este Código. La liquidación de los daños y perjuicios se formulará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa;
 
 IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, se remitirá al superior copia de la resolución apelada, con razón de su notificación, y, además, testimonio de lo que señale el apelante, con las adiciones que haga la contraria, y las que el juez estime necesarias. El apelante deberá hacer el señalamiento de constancias en el escrito en que interponga el recurso o dentro del tercer día de su admisión. Transcurrido este término sin haberlo solicitado, se le denegará el testimonio, y se tendrá por firme la resolución apelada; y,
 
@@ -7073,7 +7075,7 @@ En los casos a que se refiere el artículo anterior, se suspenderá la ejecució
 
 ###### ARTICULO 943.
 
-No obstante la admisión de la apelación en ambos efectos, el que obtuvo sentencia favorable de condena puede pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución suficiente para garantizar la reposición de las cosas al estado que guardaban antes de la ejecución de la medida, así como los daños y perjuicios que se ocasionen a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin requerirse fianza. El remate o adjudicación no podrán llevarse adelante, pero sí podrán tener verificativo las diligencias previas como avalúo, incidentes de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revocare la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, y también la compensará íntegramente en caso de que la cosa embargada no le fuese restituida; en uno y otro caso se hará efectiva la caución.
+No obstante la admisión de la apelación en ambos efectos, el que obtuvo sentencia favorable de condena puede pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución suficiente para garantizar la reposición de las cosas al estado que guardaban antes de la ejecución de la medida, así como los daños y perjuicios que se ocasionen a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esta parte se ejecutará sin requerirse fianza. El remate o adjudicación no podrán llevarse adelante, pero sí podrán tener verificativo las diligencias previas como avalúo, incidentes de liquidación de sentencia y otras similares. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revocare la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, y también la compensará íntegramente en caso de que la cosa embargada no le fuese restituída; en uno y otro caso se hará efectiva la caución.
 
 ###### ARTICULO 944.
 
@@ -7262,3 +7264,9 @@ P.O. 29 DE AGOSTO DE 1998
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
