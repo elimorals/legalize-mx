@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-15543"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "1999-12-31"
+last_updated: "2001-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 2001.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1999.
 
@@ -491,13 +491,15 @@ IV.- Otros que se presten de conformidad con lo que establezca el Gobierno del E
 
 Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socio económicas de los usuarios.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 40.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que dispongan la Legislación Fiscal del Estado y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+Las cuotas de recuperación que se recauden por la prestación de servicios de salud, se ajustarán a lo que dispongan la Legislación Fiscal del Estado y el Convenio de Coordinación Fiscal que se celebre en la materia con el Ejecutivo Federal.
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir el cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico social, conforme a las disposiciones del Gobierno del Estado.
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico social, conforme a las disposiciones del Gobierno del Estado. En caso de que el usuario sea de 60 años o más y no se encuentre dentro de los casos anteriores, gozarán del 60% de descuento en las cuotas de recuperación que le corresponda.
 
 ###### ARTICULO 41.
 
@@ -2786,3 +2788,11 @@ LIC. LEONEL EFRAÍN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODIMIRO AMAYA TELLEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 19 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
