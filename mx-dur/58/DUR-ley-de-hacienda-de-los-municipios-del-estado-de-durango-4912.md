@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1996-12-19"
+last_updated: "1997-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -1029,9 +1029,11 @@ B).- Ganado Porcino 0.013
 
 C).- Ganado menor 0.013
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 110.
 
-Por el resello de carnes frescas o refrigeradas de ganado o aves sacrificadas, fuera de los rastros municipales, para su introducción al mercado, se pagarán las cuotas siguientes:
+Por el resello de carnes frescas o refrigeradas de ganado o aves sacrificadas, fuera de los Rastros Municipales para su introducción al mercado, se pagarán las cuotas siguientes:
 
 T A R I F A NUMERO DE SALARIOS
 
@@ -1049,7 +1051,13 @@ B).- Ganado porcino por canal 0.040
 
 C).- Ganado ovicaprino por canal 0.053
 
-D).- Aves, con excepción de guajolotes por cada una 0.005
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+
+D).- Aves, Ajuste de Tarifas de Derecho
+
+de Resello, con excepción de guajolotes
+
+por cada una 0.0004
 
 E).- Guajolotes por cada uno 0.008
 
@@ -3290,3 +3298,7 @@ P.O. 19 DE DICIEMBRE DE 1996.
 DECRETO No. 230.
 
 U N I C O.- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 1997.
+
+U N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
