@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "1999-12-22"
+last_updated: "2000-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -107,7 +107,17 @@ ARTICULO 3 BIS.- Durante los tres primeros meses de cada ejercicio, las particip
 
 En el mes de abril, el Estado realizará un ajuste sobre las participaciones pagadas durante los meses de enero a marzo, efectuando el cálculo con los coeficientes que se determinen con la información que al efecto proporcionen los Municipios sobre la recaudación de predial que hayan obtenido en el ejercicio inmediato anterior. Dicha información será proporcionada por los Municipios a la Secretaría de Finanzas y Administración, a mas tardar el último día del mes de febrero de cada año, certificada por la Contaduría Mayor de Hacienda del H. Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DEL 2000)</small>
+
+Si algún municipio no entregara la información en el plazo establecido en el párrafo anterior, se le considerará el importe de la recaudación con que se efectuó el último cálculo de los coeficientes a que se refiere el párrafo anterior.
+
 El Estado, dentro de los dos meses siguientes, aplicará las cantidades que hubiera afectado provisionalmente al Fondo y formulará de inmediato las liquidaciones o descuentos que procedan.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DEL 2000)</small>
+
+###### ARTICULO 4.
+
+Las participaciones que corresponden a los municipios derivadas del impuesto federal sobre tenencia o uso de vehículos, se distribuirán en proporción a la recaudación que se obtenga de dicho impuesto conforme al domicilio declarado por el contribuyente al efectuar su pago.
 
 ###### ARTICULO 4o.
 
@@ -300,3 +310,13 @@ Fracción III 10% 12% 14% 16% 18%
 ###### ARTICULO TERCERO.
 
 Para lo dispuesto en el segundo párrafo del artículo 3 Bis, el coeficiente provisional para los meses de enero a marzo del año 2000, se calculará con la información de la recaudación de predial del año 1998 que se haya considerado por la Secretaría de Hacienda y Crédito Público, para la determinación de las participaciones del Fondo de Fomento Municipal.
+
+P.O. 21 DE DICIEMBRE DEL 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor a partir del 1º de enero del año 2001.
+
+###### ARTICULO SEGUNDO.
+
+Las cantidades que le corresponda percibir al Estado y los Municipios del mismo, por concepto de incentivos por la realización de los trámites de inscripción de vehículos de procedencia extranjera, en ningún caso podrán destinarse a gasto corriente.
