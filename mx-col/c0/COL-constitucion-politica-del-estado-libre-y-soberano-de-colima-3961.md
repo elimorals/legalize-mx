@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1954-04-10"
+last_updated: "1954-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 1954.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -157,9 +157,11 @@ V.- No ser Presidente Municipal en el lugar donde hayan de celebrarse las elecci
 
 VI.- Vivir del producto de un trabajo honesto, sea éste manual o intelectual y tener una preparación suficiente para desempeñar este cargo.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1954)</small>
+
 ###### Artículo 25.
 
-El cargo de Diputado es incompatible con cualquiera comisión o empleo del Gobierno Federal o del Estado, por los cuales se disfrute sueldo, salvo que la comisión o empleo sea del ramo de instrucción Pública. En consecuencia, los Diputados Propietarios desde el día de su elección hasta el día en que concluya su encargo, y los Suplentes que estuvieren en el ejercicio de sus funciones, no pueden aceptar ninguno de dichos empleo (sic) o Comisión, sin previa licencia del Congreso; quedando, una vez obtenida ésta, separado de sus funciones de Diputado, por todo el tiempo que dure la comisión o empleo que se les confiera, si fuere del Estado; y de una manera permanente si el empleo o comisión fuere federal.
+El cargo de diputado es incompatible con cualquier comisión o empleo del Gobierno Federal o del Estado, por los cuales se disfrute sueldo salvo que la comisión o empleo sea del ramo de Educación Pública. En consecuencia, los Diputados Propietarios desde el día de su elección hasta el día que concluya su encargo; y los Suplentes que estuvieren en el ejercicio de sus funciones, no pueden aceptar ninguno de dichos empleos o comisión, sin previa licencia del Congreso, quedando una vez obtenida ésta, separado de sus funciones de diputados, por todo el tiempo que dure la comisión o empleo que se les confiera, si fuere del Estado; y de una manera permanente si el empleo o comisión fuere Federal.
 
 ###### Artículo 26.
 
@@ -961,7 +963,7 @@ Los Ayuntamientos son cuerpos meramente deliberantes, y sus acuerdos y resolucio
 
 Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las Municipalidades, en los Pueblos y en las Rancherías, a las Autoridades que designe la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1942)</small>
+(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1942) (REPUBLICADO, P.O. 4 DE SEPTIEMBRE DE 1954)
 
 ## TITULO VII
 
@@ -1399,9 +1401,9 @@ II.- Si son extranjeros:
 
 (b) Inscribir el nacimiento de sus hijos en las oficinas del Registro Civil, y manifestar en las oficinas respectivas el capital, industria, profesión o trabajo de que subsistan en los casos que lo prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 1954)</small>
 
-(c) Hacer que sus hijos o pupilos menores de quince años, concurran a las escuelas públicas o privadas incorporadas, para obtener la instrucción primaria elemental, durante el tiempo que marque la Ley de Instrucción en el Estado.
+(c) Hacer que sus hijos o pupilos menores de quince años, concurran a las Escuelas Públicas o Privadas para obtener la instrucción primaria elemental, durante el tiempo que marque la Ley de Educación Pública en el Estado.
 
 ###### Artículo 10.
 
@@ -1662,5 +1664,9 @@ DECRETO NO. 129, QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 68, 70, 72, 74, 75
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE ABRIL DE 1954.
+
+Este decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 1954.
 
 Este decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
