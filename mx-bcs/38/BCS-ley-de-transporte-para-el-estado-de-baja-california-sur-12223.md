@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2002-03-20"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -157,9 +157,9 @@ C) Autorización de rutas de transporte urbano colectivo;
 
 D) Diseño y proyección del trazo de rutas de transporte urbano colectivo que requiera la población; y
 
-> <small>(ADICIONADA, B.O. 31 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-IV. Conocer y resolver las solicitudes relativas al servicio particular de Transporte, y expedir los permisos correspondientes;
+IV. Intervenir en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial, y conocer y resolver las solicitudes relativas al servicio particular de transporte y expedir los permisos correspondientes;
 
 V. Las demás atribuciones en materia de transporte que les confiera esta Ley y otras disposiciones legales y reglamentarias.
 
@@ -1044,3 +1044,13 @@ B.O. 20 DE MARZO DE 2002.
 PRIMERO.- La presente reforma entrará en vigor a los treinta días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Gobierno del Estado de Baja California Sur, deberá adecuar el Reglamento para la Ley de Transporte para el Estado de Baja California Sur, a la presente reforma, antes de los treinta días otorgados para su entrada vigor (sic) y publicarlo en su Boletín Oficial.
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
