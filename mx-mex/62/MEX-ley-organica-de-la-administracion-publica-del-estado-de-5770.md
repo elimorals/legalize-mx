@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2001-12-13"
+last_updated: "2001-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -191,11 +191,15 @@ XII. Secretaría de Comunicaciones y Transportes;
 
 XIII. Secretaría de Ecología.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+XIV. Secretaría de Desarrollo Metropolitano
+
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
 
-Las secretarías a que se refieren las fracciones II a XIII de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las secretarías a que se refieren las fracciones II a XIV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -295,7 +299,7 @@ III. Dirigir los programas y acciones de desarrollo social instrumentados por el
 
 IV. Concertar programas prioritarios para la atención de grupos indígenas y habitantes de zonas rurales y urbanas marginadas;
 
-V. Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
+V.Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
 
 VI. Proponer e impulsar acciones y obras para el desarrollo regional en la Entidad, en coordinación con las dependencias y organismos auxiliares del Ejecutivo Estatal y los municipios;
 
@@ -829,6 +833,38 @@ XVI. Organizar y fomentar la producción artesanal en el Estado, vigilando que s
 
 XVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 36 Bis.
+
+La Secretaría de Desarrollo Metropolitano es la dependencia encargada de promover, coordinar y evaluar, en el ámbito del territorio estatal, las acciones y programas orientados al desarrollo armónico y sustentable de las zonas metropolitanas.
+
+A esta Secretaría de (sic) corresponde el despacho de los siguientes asuntos:
+
+I. Ampliar y fortalecer los mecanismos de coordinación con los gobiernos Federal, del Distrito Federal, de las entidades federativas vecinas y de los municipios conurbados, para atender de manera integral los asuntos de carácter metropolitano;
+
+II. Promover, coordinar y evaluar con las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, las acciones y programas orientados al desarrollo de las zonas metropolitanas o de conurbación en la entidad;
+
+III. Convocar a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal, a participar directamente en alguna comisión metropolitana, cuando así resulte necesario;
+
+IV. Coordinar y promover con los representantes de la entidad en las comisiones metropolitanas, que los programas y acciones de éstas se vinculen con los objetivos y estrategias del Plan de Desarrollo del Estado de México, a través de un enfoque metropolitano;
+
+V. Fortalecer, promover y evaluar los mecanismos de coordinación para planear los trabajos de las comisiones metropolitanas;
+
+VI. Integrar y coordinar los trabajos de las comisiones metropolitanas que correspondan a las dependencias, organismos auxiliares, fideicomisos públicos y órganos de la Administración Pública Estatal;
+
+VII. Coordinar y dirigir los trabajos de las dependencias estatales en las comisiones metropolitanas, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+
+VIII. Promover, coordinar, vigilar y evaluar los proyectos de inversión metropolitanos, estratégicos de obras y acciones estatales y en materia intermunicipal, cuando así se convenga con los municipios involucrados;
+
+IX. Realizar investigaciones y estudios para apoyar las actividades que realiza la Administración Pública Estatal en las zonas metropolitanas de la entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
+
+X. Asesorar cuando así lo soliciten, a los municipios conurbados en asuntos de carácter metropolitano y de coordinación regional e intermunicipal, para que fortalezcan sus programas de infraestructura y equipamiento urbano;
+
+XI. Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter metropolitanos, procurando la promoción de la identidad mexiquense;
+
+XII. Las demás que le señalen otras disposiciones legales.
+
 ###### Artículo 37.
 
 La Secretaría de Administración es el órgano encargado de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
@@ -1023,7 +1059,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno,-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -1152,6 +1188,16 @@ SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil dos.
 TERCERO.- Se derogan las disposiciones que se opongan a las del presente decreto.
 
 CUARTO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerá lo necesario para el cumplimiento del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2001
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los recursos humanos, materiales y financieros a cargo de la Coordinación General de Asuntos metropolitanos, pasarán a formar parte de la Secretaría de Desarrollo Metropolitano.
+
+CUARTO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
