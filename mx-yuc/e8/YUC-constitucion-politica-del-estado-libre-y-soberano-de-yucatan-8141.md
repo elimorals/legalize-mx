@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1989-12-19"
+last_updated: "1990-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 1990.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -463,9 +463,9 @@ XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento inte
 
 XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- autorizar en cada caso al Ejecutivo para vender bienes de la propiedad del Estado, en los términos y con las condiciones que fije el mismo Congreso;
+XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -569,7 +569,7 @@ XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere
 
 > <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva;
+XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva.
 
 > <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -1928,3 +1928,17 @@ D.O. 19 DE DICIEMBRE DE 1989.
 PRIMERO.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 4 DE JULIO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+En un plazo no mayor de sesenta días deberá expedirse la Ley Reglamentaria del precepto Constitucional reformado.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial el Gobierno del Estado.
