@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-antes-ley-del-2771"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-20"
-last_updated: "1989-04-02"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL HOSPITAL HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 20 de diciembre de 1987.
 
@@ -239,9 +239,11 @@ El Consejo Técnico no tendrá facultades ejecutivas y se limitará a dar opini�
 
 Los gastos correspondientes a la operación del Hospital se cubrirán con sus ingresos de acuerdo a las políticas administrativas aprobadas por los órganos de gobierno.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 21.
 
-La Tesorería General del Estado tendrá amplias facultades de control respecto de la administración de los fondos que ingresen al Hospital.
+La Secretaría de Finanzas tendrá amplias facultades de control respecto de la administración de los fondos que ingresen al Hospital.
 
 ###### ARTICULO 22.
 
@@ -322,5 +324,9 @@ P.O. 18 DE DICIEMBRE DE 1988.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE ABRIL DE 1989.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
