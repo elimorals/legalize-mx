@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-4579"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-28"
-last_updated: "1997-12-27"
+last_updated: "1998-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 1994.
 
@@ -327,9 +327,9 @@ ARTICULO 21
 
 2.- Habrá dos tipos de partidos políticos en Chihuahua, los que tengan registro nacional y los que tengan registro estatal.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-3.- Para que una organización tenga el carácter de partido político estatal, pueda ejercer los derechos y gozar de las prerrogativas establecidas en esta Ley, se requiere que se constituya y obtenga su registro ante el Instituto Estatal Electoral, de acuerdo a los requisitos y procedimientos que señala este ordenamiento. En el caso de los partidos políticos nacionales, bastará que éstos tengan su registro como tales en el Instituto Federal Electoral o en el órgano que en su caso lo sustituya, y que lo notifiquen al Instituto Estatal Electoral, que sin más trámite los registrará para todos los efectos de esta Ley.
+3.- Para que una organización tenga el carácter de partido político estatal, pueda ejercer los derechos y gozar de las prerrogativas establecidas en esta Ley, se requiere que se constituya y obtenga su registro ante el Instituto Estatal Electoral, de acuerdo a los requisitos y procedimientos que señala este ordenamiento. En el caso de los partidos políticos nacionales, será necesario que éstos tengan su registro como tales en el Instituto Federal Electoral o en el Organo que en su caso lo sustituya, y que lo notifiquen al Instituto Estatal Electoral, que sin más trámite los registrará para todos los efectos de esta Ley; además, deberá cumplir en lo conducente con lo establecido en el artículo 40, numeral uno.
 
 4.- Los partidos políticos con registro tienen personalidad jurídica para todos los efectos legales, gozan de derechos y prerrogativas quedando sujetos a las obligaciones que se establecen en esta Ley, a partir de dicho registro.
 
@@ -729,7 +729,13 @@ Las agrupaciones políticas presentarán informes anuales cuando reciban financi
 
 ARTICULO 40
 
-1.- Los partidos políticos tendrán derecho al financiamiento público anual para el desarrollo de sus actividades ordinarias permanentes, siempre y cuando acrediten la vigencia de su registro al 31 de diciembre del año anterior.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+1.- Los partidos políticos tendrán derecho al financiamiento público anual, con cargo al erario estatal, para el desarrollo de sus actividades ordinarias permanente (sic), siempre y cuando acrediten:
+
+a) La vigencia de su registro al 31 de diciembre del año anterior, y
+
+b) Haber obtenido por lo menos el 2% de la votación estatal emitida en la elección de diputados de mayoría relativa, en el proceso electoral local inmediato anterior.
 
 2.- Los partidos políticos, durante la segunda quincena del mes enero de cada año, deberán solicitar al consejero presidente del Instituto Estatal Electoral, constancia que acredite la vigencia de su registro a la fecha anteriormente señalada.
 
@@ -743,9 +749,13 @@ ARTICULO 40
 
 7.- La distribución del financiamiento público anual se sujetará a las siguientes bases:
 
-a) El cincuenta por ciento se les distribuirá por partes iguales;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) El cincuenta por ciento restante se les distribuirá en proporción directa al número de votos obtenido en la elección de diputados de mayoría relativa inmediata anterior; y
+a) El treinta por ciento del financiamiento público se entregará en forma igualitaria a los partidos políticos con representación en el Congreso Local y que cumplan con lo establecido en la presente ley y demás disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+b) El setenta por ciento restante, se distribuirá en proporción directa según el porcentaje de la votación estatal válida emitida, que hubiese recibido cada partido con representación en el Congreso en la elección de diputados locales de mayoría relativa inmediata anterior; y
 
 c) Cuando dos o más partidos políticos hayan participado bajo convenio de coalición, lo correspondiente al financiamiento público a que tengan derecho en base a los votos válidos obtenidos como coalición, se les distribuirá por partes iguales, como tantos partidos hayan formado la coalición, salvo disposición expresa en contrario de los partidos políticos interesados, prevista en el propio convenio de coalición.
 
@@ -3934,3 +3944,9 @@ P.O. 27 DE DICIEMBRE DE 1997.
 DECRETO No. 836/97 I P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1 de enero del año mil novecientos noventa y nueve.
