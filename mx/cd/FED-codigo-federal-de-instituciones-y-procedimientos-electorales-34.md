@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-instituciones-y-procedimientos-electorales-34
 country: "mx"
 rank: "codigo"
 publication_date: "1990-08-15"
-last_updated: "1991-01-03"
+last_updated: "1992-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-08-14"
 
 CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1992.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 15 de agosto de 1990.
 
@@ -4641,6 +4641,30 @@ b) Para la elección, o en su caso insaculación, de los Magistrados se seguirá
 
 c) Al hacer la elección, o en su caso la insaculación, de los Magistrados suplentes, la Cámara de Diputados determinará el orden en que los nombrados suplirán las ausencias definitivas de los propietarios.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1992)</small>
+
+Decimoséptimo.- Para las elecciones federales a celebrarse a partir de 1994, se estará a lo siguiente:
+
+I. Se expedirá una Nueva Credencial para Votar con fotografía. Para el efecto deberá realizarse una actualización y depuración integral del Padrón Electoral, cuyos procedimientos técnicos, así como la forma de participación de los partidos políticos en la supervisión y vigilancia de estas actividades, serán adoptados por la Comisión Nacional de Vigilancia del Registro Federal de Electores.
+
+II. En las nuevas credenciales se podrá omitir el número de las demarcaciones distritales, con el propósito de hacer posible, a partir del seccionamiento, su utilización en procesos electorales ulteriores. Las secciones electorales se numerarán progresivamente por cada entidad federativa.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1992)</small>
+
+Decimoctavo.- Para las elecciones federales a celebrarse en el año de 1994, se aplicarán las reglas que a continuación se indican:
+
+I.- Se establece la obligación de los ciudadanos de acudir a los módulos que determine el Instituto Federal Electoral, a fin de obtener su Nueva Credencial para Votar con fotografía, debiendo identificarse de acuerdo a los medios que para sufragar precisa el artículo 217 del presente Código, o por los procedimientos que determine la Comisión Nacional de Vigilancia. La constancia de entrega de la credencial con la referencia de los medios identificatorios, quedará en el expediente del ciudadano.
+
+Para el efecto se llevará a cabo una amplia campaña de comunicación a fin de convocar y orientar a los ciudadanos.
+
+II.- Conforme al calendario de actividades previsto en este Código, se elaborarán cada una de las listas nominales, tanto para su revisión como para su entrega a los Consejos Locales, con dos apartados: 1) Con los ciudadanos que hayan obtenido su Nueva Credencial para Votar con fotografía hasta el cierre de la inscripción en el Padrón que concluye el 28 de febrero de 1994; y 2) Con los nombres de los ciudadanos inscritos en el Padrón Electoral que no hayan obtenido su Nueva Credencial para Votar con fotografía.
+
+Además de cumplir con lo dispuesto por el artículo 156 de esta Ley, las listas nominales se exhibirán en los módulos.
+
+III.- Los ciudadanos podrán obtener en los módulos su Nueva Credencial para Votar con fotografía hasta el 17 de julio de 1994, siempre y cuando estén inscritos en el Padrón Electoral.
+
+IV.- Para los efectos del párrafo 1 del artículo 217 de este Código, sólo podrán emitir su voto los ciudadanos que habiendo obtenido su Nueva Credencial para Votar con fotografía, la exhiban el día de la jornada electoral, y aparezcan en cualquiera de los dos apartados de la lista nominal.
+
 TRANSITORIO DEL DECRETO DE PUBLICACION.
 
 PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -4654,3 +4678,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 3 DE ENERO DE 1991.
 
 UNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
