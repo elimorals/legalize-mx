@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2000-12-22"
+last_updated: "2002-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 ---
 # CODIGO MUNICIPAL DE QUERETARO
 
-CODIGO MUNICIPAL DE QUERETARO
+CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
+ÚLTIMA REFORMA APROBADA: 26 DE MARZO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -783,9 +783,9 @@ IV. Programar y realizar las adquisiciones y el suministro de los bienes de las 
 
 V. Programar y prestar los servicios generales a las dependencias del Municipio;
 
-VI. Implementar y tener actualizado el inventario de los bienes muebles propiedad del Municipio, así como de las entidades y organismos del sector desconcentrado y descentralizado;
+VI. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO, APROBACIÓN 26 DE MARZO DE 2002)
 
-VII. Administrar y asegurar la conservación y mantenimiento de los bienes muebles o inmuebles de patrimonio municipal;
+VII. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO, APROBACIÓN 26 DE MARZO DE 2002)
 
 VIII. Proponer los contratos de celebración de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales para que sean realizados por la Secretaría de Gobierno Municipal y firmado por los Síndicos;
 
@@ -2527,21 +2527,17 @@ Para la debida procedencia de lo relativo a este artículo, se observará lo dis
 
 ###### ARTICULO 244.
 
-Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia; ejecución de medidas de seguridad; determinación de infracciones administrativas, de comisión de delitos y sus sanciones; y procedimientos y recursos administrativos en asuntos de competencia municipal.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO III. Medidas de Seguridad
 
 ###### ARTICULO 245.
 
-El Ayuntamiento podrá realizar, por conducto de personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevarse a cabo para verificar el cumplimiento de este ordenamiento.
-
-Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada, expedida por la autoridad municipal competente en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 246.
 
-En toda visita de inspección se levantará acta, en la que se hará constar en forma circunstanciada, los hechos u omisiones que se hubiesen presentado durante la diligencia.
-
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para manifestar lo que a su derecho convenga, en relación con los hechos asentados en el acta.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO I. Permisos y Licencias
 
@@ -3041,7 +3037,7 @@ La autoridad municipal, una vez autorizada la presentación de cualquier espect�
 
 ###### ARTICULO 303.
 
-Las Autoridades Municipales ejercerán las funciones de vigilancia e inspección que correspondan y aplicarán las sanciones que en este reglamento se establecen, sin perjuicio de otros ordenamientos.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 304.
 
@@ -3129,7 +3125,7 @@ En caso de oposición violenta por parte de los empresarios, de sus empleados, o
 
 ###### ARTICULO 314.
 
-Tendrán libre acceso a los espectáculos de cualquier índole, los inspectores municipales encargados de la aplicación de este apartado, y auxiliares comisionados expresamente por el jefe de la oficina de la materia.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO VI. De los Espectadores
 
@@ -3965,9 +3961,7 @@ El propietario o su representante deberá llevar una bitácora de obra, autoriza
 
 ###### ARTICULO 432.
 
-El Ayuntamiento podrá realizar inspecciones de obra y verificación de la ejecución apegada al proyecto autorizado y a los lineamientos que establece este apartado todas la veces que lo considere necesario, debiendo presentar al propietario, ejecutor responsable de obra o quien en su lugar atienda la diligencia, la orden de inspección y la acreditación de los inspectores de acuerdo con los artículos 256 y 257 del Reglamento de Construcción.
-
-Una vez desahogada la diligencia se asentará el resultado en la bitácora respectiva.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 433.
 
@@ -5347,43 +5341,43 @@ Al igual que en el sacrificio de ganado, la administración del rastro, se reser
 
 ###### ARTICULO 585.
 
-Las funciones de inspección sanitaria corresponden a la Dirección de Salud del Estado.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 586.
 
-La inspección deberá efectuarse al ganado en pie destinado al sacrificio en los corrales del Rastro, sujetándose a la Ley General de Salud y demás disposiciones reglamentarias y administrativas en vigor.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 587.
 
-El impuesto que cause la inspección sanitaria se pagará conforme a lo establecido en la Ley General de Salud.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 588.
 
-El control sanitario del ganado que entre al rastro municipal, se realizará por médicos veterinarios quienes determinarán la calidad de la carne para el consumo humano.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 589.
 
-Las canales de animales sacrificados se someterán también a inspección sanitaria, posteriormente sellados y autorizados para su consumo.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 590.
 
-Las vísceras, una vez lavadas e inspeccionadas por el personal del servicio sanitario, serán selladas para su consumo.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 591.
 
-En el caso de animales sacrificados que previa inspección sanitaria constituyan un riesgo para el consumo humano, serán incinerados en los hornos crematorios.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 592.
 
-No se permitirá el acceso al público en los lugares donde se practique la inspección sanitaria.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 593.
 
-La inspección sanitaria, también se llevará a cabo en los mercados de canales y vísceras, con el objeto de verificar que se reúnan las condiciones de higiene y salud tanto en las mesas como en los productos.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 594.
 
-Queda estrictamente prohibida la matanza de ganado (hembra) que se encuentren preñadas; el usuario que no respete esta disposición será sancionado con una multa que le imponga la Tesorería Municipal y hasta la cancelación de su licencia.
+(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO IX. Del Transporte Sanitario de Carnes
 
@@ -8460,3 +8454,29 @@ QUINTO.- Las presentes reformas y adiciones, iniciarán su vigencia a partir del
 SEXTO.- Comuníquese a la Secretaría de Gobierno Municipal, Tesorería Municipal y Delegaciones Municipales.
 
 SÉPTIMO.- Publíquese por una sola ocasión en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 16 DE NOVIEMBRE DE 2001.
+
+REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO.
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan los artículos 244, 245, 246, 303, 314, 432 y 585 a 594 del Código Municipal de Querétaro, además de todas las disposiciones reglamentarias de igual o menor jerarquía, que contravengan al presente reglamento.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO TERCERO.
+
+Publíquese por una sola ocasión en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal
+
+APROBACIÓN 26 DE MARZO DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO”.]
+
+PRIMERO. Se derogan (sic) el artículo 75 fracciones VI y VII del Código Municipal de Querétaro.
+
+SEGUNDO. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente ordenamiento.
