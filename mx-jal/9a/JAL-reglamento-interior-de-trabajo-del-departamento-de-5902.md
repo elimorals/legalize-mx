@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-trabajo-del-departamento-de-5902"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-12-24"
-last_updated: "1981-12-24"
+last_updated: "1999-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE TRABAJO DEL DEPARTAMENTO DE SEGURIDAD PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el jueves 24 de diciembre de 1981.
 
@@ -1043,7 +1043,9 @@ a) Como policía preventivo y policía de servicios especiales:
 
 l. Ser mexicano por nacimiento.
 
-II. Ser mayor de 18 años y menor de 35.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1999)</small>
+
+II. Ser mayor de 18 años y menor de 45.
 
 III. Haber terminado la instrucción primaria.
 
@@ -1138,3 +1140,11 @@ Lic. Alfonso de Alba Martín.
 El Jefe del Departamento de Seguridad Pública en el Estado.
 
 Mayor Eduardo Ramírez Santamaría.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 1999.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo.- Las personas que ingresen al servicio deberán cumplir los demás requisitos exigidos por la Ley y sus reglamentos respectivos.
