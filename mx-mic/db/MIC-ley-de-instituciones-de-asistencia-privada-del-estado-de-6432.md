@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-instituciones-de-asistencia-privada-del-estado-de-6432"
 country: "mx"
 rank: "ley"
 publication_date: "1979-09-10"
-last_updated: "1979-09-10"
+last_updated: "2004-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 9 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el Lunes 10 de septiembre de 1979.
 
@@ -926,3 +928,31 @@ Por tanto, mando se publique y observe.
 Palacio del Poder Ejecutivo.- Morelia, Michoacán, 10 de septiembre de 1979.- El Gobernador Constitucional del Estado, Lic. Carlos Torres Manzo.
 
 - El Secretario General de Gobierno, Lic. Ausencio Chávez Hernández.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Instituciones de Asistencia Privada del Estado de Michoacán de Ocampo, aprobada por el Congreso del Estado mediante decreto número 126 de fecha 10 de septiembre de 1979, publicada en el Periódico Oficial del Estado, el 10 de septiembre de 1979, Segunda Sección.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de asistencia privada existentes, que hayan sido constituidas o autorizadas y registradas por la Junta de este ramo, continuarán funcionando con la misma declaratoria de autorización y bajo el mismo número de registro que les haya otorgado dicha Junta, sin necesidad de uno nuevo.
+
+###### ARTÍCULO CUARTO.
+
+Las personas morales de interés público constituidas por particulares, que actualmente se encuentran operando y desarrollen actividades de asistencia privada y no cuenten con autorización y registro de la Junta, deberán regularizar su situación jurídica de conformidad con esta Ley, para lo cual contarán con seis meses, a partir de la publicación de la misma. La Junta dictará las medidas conducentes para apoyarlas en sus gestiones.
+
+###### ARTÍCULO QUINTO.
+
+Los integrantes de la Junta que están en funciones seguirán desempeñando su cargo hasta el término de su designación o, en su caso, del periodo para el que fueron electos cuidando de someter su actuación a este ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+Las vacantes definitivas de los vocales que actualmente están fungiendo como tales, serán cubiertas por aquellos candidatos que en el mismo proceso de elección hayan obtenido el mayor número de votos en orden descendente, según el caso.
