@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2001-10-12"
+last_updated: "2003-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -355,11 +355,17 @@ III. Recibir las participaciones federales, que serán cubiertas a los municipio
 
 IV. Elaborar, aprobar, ejecutar y publicar el Plan Municipal de Desarrollo, de conformidad con la ley de la materia y en los términos que la misma establezca;
 
-V. Aprobar los presupuestos de egresos según los ingresos disponibles, y conforme a las leyes que para tal efecto expida el Congreso del Estado;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-VI. Revisar y aprobar las cuentas públicas que mensual y anualmente le presente la Comisión de Hacienda y Patrimonio Municipal;
+V. Aprobar los presupuestos de egresos según los ingresos disponibles, conforme a las leyes que para tal efecto expida el Congreso del Estado. Anexo al presupuesto de egresos, se aprobará la plantilla de personal, que contendrá categoría, nombre del titular y percepciones;
 
-VII. Presentar al Congreso del Estado, para su revisión, sus cuentas públicas, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+VI. Revisar y aprobar los estados financieros mensuales y la Cuenta Pública anual que le presente la Comisión de Hacienda y Patrimonio Municipal;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+VII. Presentar al Congreso del Estado, para su revisión, sus estados financieros mensuales y la Cuenta Pública anual, de conformidad con las disposiciones legales aplicables;
 
 VIII. Determinar y cobrar las contribuciones que las leyes del Estado establezcan a su favor, las cuales no podrán establecer exenciones ni subsidios a favor de persona o institución alguna. Sólo estarán exentos del pago de contribuciones a que se refiere el párrafo anterior los bienes de dominio público de la Federación, del Estado y de los municipios;
 
@@ -423,7 +429,7 @@ XXVI. Acordar la integración de las Comisiones Municipales, de conformidad con 
 
 XXVII. Formular, aprobar y administrar, en términos de las disposiciones legales aplicables, la zonificación y planes de desarrollo urbano municipal;
 
-XVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
+XXVIII. Participar, en términos de las disposiciones legales aplicables, en la creación y administración de sus reservas territoriales, así como autorizar, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, e intervenir en la regularización de la tenencia de la tierra urbana;
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
@@ -517,9 +523,17 @@ XXI. Rendir al Ayuntamiento, en el mes de diciembre, un informe anual sobre el e
 
 XXII. Promover la educación cívica y la celebración de ceremonias públicas conforme al calendario cívico oficial;
 
-XXIII. Presidir el Consejo Municipal de Protección Civil; y
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
+XXIII. Presidir el Consejo Municipal de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
+
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que esté fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE ABRIL DE 2003)</small>
+
+XXV. Las demás que expresamente le confieran esta ley y demás leyes del Estado.
 
 ### CAPÍTULO VI. DE LOS REGIDORES
 
@@ -533,7 +547,9 @@ II. Representar legalmente al Ayuntamiento;
 
 III. Vigilar las labores de la Tesorería y promover la gestión de los negocios de la Hacienda Municipal;
 
-IV. Vigilar que con oportunidad se presente la cuenta pública al Congreso del Estado;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+IV. Vigilar que, con oportunidad, se presenten los estados financieros mensuales y la Cuenta Pública anual al Congreso del Estado;
 
 V. Realizar los actos que le encomiende el Ayuntamiento;
 
@@ -663,9 +679,13 @@ II. Vigilar que la recaudación en todos los ramos que forman la Hacienda Munici
 
 III. Revisar y firmar los cortes de caja mensuales de la Tesorería Municipal;
 
-IV. Formular los proyectos anuales de ingresos y egresos y presentarlos al Ayuntamiento, en su oportunidad, de conformidad con lo dispuesto por esta ley y demás disposiciones aplicables;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-V. Revisar las cuentas que deba rendir la Tesorería y presentarlas al Ayuntamiento con las observaciones que juzgue convenientes;
+IV. Formular los proyectos anuales de ingresos y egresos, así como de la plantilla de personal, para que sean presentados al Ayuntamiento en su oportunidad, de conformidad con lo establecido por esta ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+V. Revisar los estados financieros mensuales y la Cuenta Pública anual que deba rendir la Tesorería y presentarlos al Ayuntamiento con las observaciones que juzgue convenientes;
 
 VI. Vigilar la debida actualización del inventario de los bienes y derechos del Municipio;
 
@@ -1101,7 +1121,9 @@ XI. Pagar las primas relativas a las fianzas suficientes para garantizar el pago
 
 XII. Presentar, el primer día de cada mes, el corte de caja del movimiento de caudales del mes anterior con la intervención de la Comisión de Hacienda y Patrimonio Municipal. De este documento remitirán una copia al Congreso del Estado, así como a los Ediles que lo soliciten y, en su caso, contestar a éstos, por escrito y en el término de diez días hábiles, las dudas que tuvieren;
 
-XIII. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del anterior para su glosa preventiva, debiendo aquél remitirla al Congreso del Estado dentro de los diez días siguientes;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XIII. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, los estados financieros del mes inmediato anterior para su glosa preventiva, debiendo aquél remitirla al Congreso del Estado dentro de los diez días siguientes, así como la Cuenta Pública anual conforme a las disposiciones legales vigentes;
 
 XIV. Remitir, dentro de los tres primeros meses de cada año, al Congreso del Estado los padrones de todos los ingresos sujetos a pagos periódicos;
 
@@ -1497,11 +1519,11 @@ En la segunda quincena del mes de agosto los servidores públicos mencionados en
 
 Durante el mes de septiembre el Ayuntamiento, en sesión de Cabildo, discutirá dichos proyectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 107.
 
-En el curso del mes de octubre de cada año, los Ayuntamientos remitirán por triplicado, al Congreso del Estado, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos. En caso de que aquél haga observaciones, las comunicará al Ayuntamiento a más tardar el día 30 de noviembre. Si no cumplieren con la remisión, el Congreso tendrá por presentados los proyectos del año anterior y podrá ajustarlos en la medida que estime necesario.
+En el curso del mes de octubre de cada año, los Ayuntamientos remitirán por triplicado al Congreso del Estado, el proyecto anual de ley de ingresos, el Presupuesto de Egresos y un ejemplar de la plantilla de personal. Las observaciones que correspondan se comunicarán a los Ayuntamientos, a más tardar el día 15 de diciembre. Si no cumplieren con la remisión, el Congreso tendrá por presentados los proyectos del año anterior y podrá ajustarlos en la medida que estime necesario.
 
 Cuando el proyecto anual de ley de ingresos sea elaborado por un Ayuntamiento cuyo ejercicio concluya en ese mismo año, las nuevas autoridades podrán enviar sus puntos de vista en los primeros quince días del mes de enero.
 
@@ -2268,3 +2290,13 @@ G.O. 12 DE OCTUBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO.- Por única vez, la discusión de los proyectos presupuestales de ingresos y egresos a que se refiere el último párrafo del artículo 106 de la Ley Orgánica del Municipio Libre, correspondientes al ejercicio fiscal del año 2002, podrá realizarse, en sesión de Cabildo, a más tardar el 18 de octubre de 2001.
+
+G.O. 22 DE ABRIL DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
