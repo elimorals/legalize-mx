@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procesos-electorales-del-estado-de-20104
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-30"
-last_updated: "2003-10-28"
+last_updated: "2003-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 30 de octubre de 2000.
 
@@ -273,87 +273,95 @@ Los partidos políticos estatales que tuvieren su registro suspendido o cancelad
 
 ### CAPÍTULO PRIMERO. DE LA ELECCIÓN E INTEGRACIÓN DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 25.
 
-El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta nueve Diputados asignados por el principio de representación proporcional, de conformidad con la Constitución Política del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada distrito electoral en que se divide el territorio del Estado, y en su caso, hasta nueve Diputados electos por el principio de representación proporcional en una circunscripción estatal, de conformidad con la Constitución Política del Estado y el procedimiento previsto en el presente Título. Cada Diputado propietario tendrá un suplente.
 
 ### CAPÍTULO SEGUNDO. DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
+(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
 ###### ARTÍCULO 26.
 
-Tendrán derecho a la asignación de Diputados por el principio de representación proporcional, los partidos políticos o coaliciones que cumplan con los presupuestos siguientes:
+Para que los partidos políticos o coaliciones tengan derecho a la asignación de diputados por el principio de representación proporcional, deberán reunir los siguientes requisitos:
 
-I. Participar con candidatos a Diputados por el principio de mayoría relativa, en por lo menos el cincuenta por ciento de los distritos electorales, y
+I. Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
 
-II. Haber obtenido por lo menos el cuatro por ciento de la Votación Estatal Emitida en la elección de Diputados.
+II. Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados por el principio de representación proporcional, y
+
+III. Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 27.
 
-Para los efectos de la asignación de Diputados, de conformidad con el Artículo 15 de la Constitución Política del Estado y de esta Ley, se entiende por:
+El Instituto Estatal Electoral una vez verificados los requisitos del Artículo anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
 
-I. Votación Estatal Emitida: es el número total de votos sufragados en la elección de diputados, menos los votos nulos;
+En caso de que el número de partidos políticos o coaliciones sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse.
 
-II. Votación Estatal Válida: es la suma de los votos obtenidos por los partidos políticos o coaliciones que hayan logrado por lo menos el cuatro por ciento de la Votación Estatal Emitida;
-
-III. Votación Estatal de cada Partido o Coalición: es el número total de votos obtenidos por cada partido político o coalición en el Estado;
-
-IV. Porcentaje de Votación Estatal de cada Partido Político o Coalición: es el resultado que se obtiene de multiplicar, la Votación Estatal de cada Partido Político o Coalición por cien y dividiéndolo entre la Votación Estatal Válida;
-
-V. Expectativa de Integración al Congreso del Estado de cada Partido Político o Coalición: es el resultado que se obtiene de multiplicar, el Porcentaje de Votación Estatal de cada Partido Político o Coalición por el total de integrantes del Congreso, dividiéndolo entre cien;
-
-VI. Diputaciones Obtenidas de Mayoría por cada Partido Político o Coalición: es el número de diputaciones de mayoría por cada partido político o coalición, y
-
-VII. Determinación de Asignación de Diputados de Representación Proporcional para cada Partido Político o Coalición: es el que se obtiene de restar, a la Expectativa de Integración al Congreso del Estado de cada Partido Político o Coalición, el número de diputaciones obtenidas de mayoría y en su caso, la asignación hecha conforme al inciso c), de la fracción III del Artículo 15 de la Constitución Política del Estado.
+(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
 
 ###### ARTÍCULO 28.
 
-El Consejo Estatal Electoral asignará diputaciones por el principio de representación proporcional a los partidos políticos o coaliciones con derecho a ello, mediante el procedimiento siguiente:
+Si después de asignadas las diputaciones señaladas en artículo anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones, en los siguientes términos:
 
-I. Determinará qué partidos políticos o coaliciones cumplen con lo establecido en el Artículo 26 de esta Ley;
+I. Se obtendrá el porcentaje de votación de los partidos políticos o coaliciones que reúnan los requisitos que señala el artículo 26 de esta Ley, mediante el siguiente procedimiento:
 
-II. Determinará el Porcentaje de Votación Estatal de cada Partido Político o Coalición;
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
-III. Primeramente asignará un Diputado en los términos del inciso c), de la fracción III del Artículo 15 de la Constitución Política del Estado.
+a) Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representación proporcional, que reúnan los requisitos, y
 
-En caso de que el número de partidos políticos o coaliciones sea mayor que el de Diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
+b) La votación de cada partido se dividirá entre la sumatoria obtenida en el inciso anterior y se multiplicará por cien;
 
-IV. Posteriormente y en el supuesto de que aún existieran diputaciones por asignar se procederá de la manera siguiente:
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+II. Se procederá a multiplicar el porcentaje de votación obtenido en la elección de Diputados por el principio de representación proporcional de cada partido político o coalición, por veinticinco;
 
-a) Determinará la Expectativa de Integración al Congreso de cada Partido Político o Coalición;
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+III. Al resultado obtenido en la fracción anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme al Artículo anterior;
 
-b) Determinará el número de diputaciones que corresponda a cada partido político o coalición conforme a lo establecido en la fracción VII del Artículo 27 de esta Ley;
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+IV. Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en la fracción anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político o coalición, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse el número de enteros que corresponda al partido político o coalición, en los términos de la fracción I de este Artículo, y
 
-c) Asignará a los partidos políticos o coaliciones, alternadamente, tantas diputaciones como números enteros haya obtenido en la operación realizada conforme a la fracción VII del Artículo 27 de esta Ley, y
+V. Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en la fracción anterior.
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
-d) Si después de efectuadas las operaciones anteriores aún existieran diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir los números enteros que sirvieron como base en la asignación anterior.
+Ningún partido político o coalición podrá tener más de dieciséis Diputados por ambos principios.
 
-Ningún partido político o coalición podrá contar con más de dieciséis diputaciones por ambos principios.
+(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
 ###### ARTÍCULO 29.
 
-El Consejo Estatal Electoral hará la asignación de Diputados a cada partido político o coalición conforme al resultado obtenido en el Artículo 28 de esta Ley, en los siguientes términos:
+El Consejo Estatal Electoral hará la asignación de Diputados a cada partido político o coalición conforme al resultado obtenido en los Artículos 27 y 28 de esta Ley, en los siguientes términos:
 
 I. Determinará que candidatos a Diputados de cada partido político o coalición no obtuvieron la constancia de mayoría;
 
-II. Elaborará una lista en orden descendente de cada partido político o coalición con los candidatos que no hayan obtenido la constancia de mayoría, de acuerdo a su porcentaje de votación válida en el distrito respectivo. El porcentaje se tomará hasta diezmilésimas, sin redondear la última cifra;
+II. Elaborará una lista en orden descendente de cada partido político o coalición con los candidatos que no hayan obtenido la constancia de mayoría, de acuerdo a su porcentaje de votación válida en el distrito respectivo. El porcentaje se tomará hasta diezmilésimas (sic), sin redondear la última cifra;
 
-III. Hará la asignación de Diputados a cada partido político o coalición conforme al orden descendente que se observe en la lista;
+III. Si dos o más candidatos de un partido político o coalición tienen el mismo porcentaje en la lista, hasta antes del séptimo lugar, el Consejo Estatal Electoral solicitará al partido político o coalición, para que dentro de las veinticuatro horas siguientes a que sea notificado, determine el lugar que le corresponderá;
 
-IV. Si dos o más candidatos de un partido político o coalición tienen el mismo porcentaje en la lista, y el número de diputaciones que le reste sea inferior, el Consejo Estatal Electoral le solicitará que dentro de las veinticuatro horas siguientes a que sea notificado, determine a quien de los candidatos le corresponde la asignación;
+IV. Si dentro del plazo señalado en la fracción anterior el partido político o coalición no da respuesta, el Consejo Estatal Electoral procederá a determinarlo mediante sorteo;
 
-V. Si dentro del plazo señalado en la fracción anterior el partido político o coalición no da respuesta, el Consejo Estatal Electoral procederá a determinarlo mediante sorteo, y
+V. Una vez determinada la lista anterior se procederá a intercalarla con la que hubiere registrado cada partido político o coalición en los términos de la fracción II del Artículo 284 de esta Ley;
 
-VI. En caso de que la asignación recaiga en quien este inhabilitado o no reúna los requisitos para ser electo la asignación deberá ser cubierta por el suplente de la fórmula respectiva. Si éste último también resulta inhabilitado o no reúne los requisitos para ser electo, se asignará aquella fórmula de candidatos del mismo partido político que siga en el orden de la lista.
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+VI. La intercalación iniciará con el que ocupe el primer lugar de acuerdo a la lista obtenida de la fracción II de este Artículo, seguido de quien ocupe el primer lugar en la lista registrada de conformidad con la fracción II del Artículo 284 de esta Ley, continuando de manera alternada, en el orden de prelación resultante, en cada caso, hasta lograr una lista de nueve diputaciones a asignar.
+
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+En caso de que un partido político o coalición obtenga doce o más diputaciones por el principio de mayoría relativa, la lista se integrará sólo con aquellos candidatos que no obtengan constancia de mayoría, junto con los registrados en los términos de la fracción II del A (sic) 284 de esta Ley, respetando en todo momento lo señalado en el párrafo anterior, con excepción de los lugares que no podrán ser ocupados por aquéllos, recorriendo en dichos espacios a éstos, y
+
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+VII. En caso de que la asignación recaiga en quien esté inhabilitado o no reúna los requisitos para ser electo, la asignación deberá ser cubierta por el suplente de la fórmula respectiva. Si éste último también resulta inhabilitado o no reúne los requisitos para ser electo, se asignará aquella fórmula de candidatos del mismo partido político que siga en el orden de la lista.
+
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
 Las vacantes de propietarios de Diputados por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la fórmula respectiva. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula del mismo partido que sigue en el orden de la lista que para efectos de asignación haya elaborado el Consejo Estatal Electoral.
 
@@ -871,7 +879,9 @@ d) Diez por ciento del monto total, veinte días antes de la jornada electoral.
 
 Cuando un partido político, participe parcialmente en una o varias elecciones, el Consejo Estatal Electoral se sujetará a lo siguiente:
 
-I. Del total del monto del financiamiento público estatal de campaña a distribuir se considerará por partes iguales a cada una de las elecciones;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+I. Del total del monto del financiamiento público estatal de campaña a distribuir se considerará por partes iguales a las elecciones de Gobernador, Munícipes y Diputados de Mayoría Relativa, según corresponda:
 
 II. Determinará el monto que le corresponde a cada partido político, de conformidad con la fracción anterior y lo dispuesto por el Artículo 69 de esta Ley, para cada tipo de elección;
 
@@ -1251,11 +1261,15 @@ Si una vez registrada la coalición para la elección de Gobernador del Estado, 
 
 A la coalición le serán asignados Diputados y Munícipes por el principio de representación proporcional que le corresponda, como si se tratara de un solo partido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 100.
 
 La coalición que registre candidatos a Diputados de mayoría relativa o a Munícipes, exclusivamente, deberá sujetarse a lo siguiente:
 
-I. Postular y registrar fórmulas de candidatos a Diputados, cuando menos en la mitad de los distritos, o planillas de candidatos a Munícipes cuando menos en la mitad de los municipios de la entidad;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+I. Postular y registrar fórmulas de candidatos a Diputados, cuando menos en la mitad de los distritos, así como la lista a que se refiere la fracción II del Artículo 284 de la Ley, o planillas de candidatos a Munícipes cuando menos en la mitad de los municipios de la entidad;
 
 II. Acreditar ante los Consejos Electorales respectivos, tantos representantes como corresponde a un sólo partido político. La coalición actuará como tal y, por lo tanto, la representación de la misma sustituye a la de los partidos políticos coaligados en todos los órganos electorales. Lo anterior se aplicará para todos los efectos, aún cuando los partidos políticos no se hubieren coaligado para otras elecciones en el mismo proceso electoral;
 
@@ -1465,13 +1479,21 @@ Dentro de los cinco días siguientes a la toma de protesta ante el Congreso del 
 
 Si transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría calificada del Congreso del Estado.
 
+(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
+Dentro de los cuarenta y ocho horas siguientes a la designación del Consejero Presidente, el Consejo Estatal Electoral sesionará, a efecto de que aquél rinda protesta de ley correspondiente.
+
+(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
+En caso de renuncia del Consejero Presidente, los Consejeros Ciudadanos una vez recibida ésta, sesionarán dentro de las veinticuatro horas siguientes a efecto de proceder en los términos de este artículo, para nombrar al Consejero Presidente que lo habrá de sustituir, a efecto de terminar el período de aquél.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO 119.
 
 El Consejo Estatal Electoral se reunirá el catorce de febrero del año de la elección, a efecto de celebrar sesión de instalación en la que procederá a:
 
-I. Rendir protesta de Ley al Consejero Presidente;
+I. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2003)
 
 II. Tomar la protesta a los representantes de los partidos políticos que integran el Consejo;
 
@@ -1501,7 +1523,9 @@ II. De Reglamentos y Asuntos Jurídicos, y
 
 III. De Fiscalización, Presupuesto y Administración.
 
-Podrá integrar las comisiones especiales que considere necesarias para el desempeño de sus atribuciones.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+Podrá integrar las comisiones especiales que considere necesarias para el desempeño de sus atribuciones. Las comisiones permanentes, así como la señalada en la fracción II del Artículo 140 de esta Ley, serán integradas dentro de los tres días posteriores a la toma de protesta del Consejero Presidente.
 
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, opinión, dictamen o proyecto de resolución, según sea la naturaleza del asunto turnado, fundando y motivándolos, en el que consideren las opiniones de los partidos políticos y las pruebas que se hubiesen presentado, cuando sea el caso. Cuando sea necesario conocer su opinión, los representantes de los partidos políticos serán invitados a reuniones de trabajo de las comisiones, previas a la elaboración del proyecto de dictamen, y en su momento a las sesiones donde se presente.
 
@@ -1517,7 +1541,9 @@ II. Expedir los reglamentos y acuerdos necesarios para hacer efectivo el cumplim
 
 III. Garantizar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto, así como conocer de los informes específicos que estime necesario solicitarles;
 
-IV. Designar a los Consejeros Ciudadanos Numerarios y Supernumerarios de los Consejos Distritales Electorales, mediante el voto de las dos terceras partes de sus integrantes con derecho a ello, así como al Consejero Presidente de cada uno de los Consejos Distritales Electorales, de entre los propios Consejeros, a propuesta del Director General del Instituto Estatal Electoral;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+IV. Designar a los Consejeros Ciudadanos Numerarios y Supernumerarios de los Consejos Distritales Electorales, mediante el voto de las dos terceras partes de sus integrantes con derecho a ello, a propuesta de la comisión respectiva, así como al Consejero Presidente de cada uno de los Consejos Distritales Electorales, de entre los propios Consejeros, a propuesta del Consejero Presidente del Consejo Estatal Electoral;
 
 V. Designar al Director General del Instituto Estatal Electoral y al Director General del Registro Estatal de Electores, por el voto de las dos terceras partes de sus integrantes con derecho a ello, a propuesta del Consejero Presidente;
 
@@ -1549,11 +1575,15 @@ XVIII. Ordenar la impresión de los Listados Nominales de Electores con imagen p
 
 XIX. Aprobar los trabajos de integración, actualización, depuración y revisión del Padrón Estatal Electoral y las Listas Nominales de Electores;
 
-XX. Registrar las candidaturas a Gobernador del Estado, munícipes, lista de diputados y las de regidores por el principio de representación proporcional;
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
+XX. Registrar la candidatura a Gobernador del Estado, Munícipes y la lista de Diputados por el principio de representación proporcional;
 
 XXI. Recibir supletoriamente las solicitudes de registro de fórmulas de candidatos a diputados por el principio de mayoría relativa, y remitirlas al Consejo Distrital Electoral competente;
 
-XXII. Asignar diputados por el principio de representación proporcional;
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
+XXII. Realizar el cómputo estatal de la elección de Diputados por el principio de representación proporcional y asignar las diputaciones correspondientes;
 
 XXIII. Informar al Congreso del Estado sobre el otorgamiento de las constancias de asignación de diputados por el principio de representación proporcional;
 
@@ -1653,7 +1683,9 @@ VI. Firmar, junto con el Presidente del Consejo, todos los acuerdos, certificaci
 
 VII. Expedir copia certificada, previo cotejo y compulsa de todos aquellos documentos que obren en el archivo del Consejo;
 
-VIII. Integrar los expedientes con las actas de los cómputos distritales de las elecciones de gobernador y munícipes, y
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+VIII. Integrar los expedientes con las actas de los cómputos distritales de las elecciones de gobernador, munícipes y diputados por el principio de representación proporcional, y
 
 IX. Las demás que disponga esta Ley.
 
@@ -1931,9 +1963,11 @@ IX. Las demás que disponga esta Ley.
 
 ### CAPÍTULO PRIMERO. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 138.
 
-Los Consejos Distritales Electorales son los encargados, en el ámbito de su competencia, de la preparación, organización, desarrollo, vigilancia y cómputo de las elecciones de Gobernador, Diputados y Munícipes.
+Los Consejos Distritales Electorales son los encargados, en el ámbito de su competencia, de la preparación, organización, desarrollo, vigilancia y cómputo de las elecciones de Gobernador, Munícipes y Diputados, por ambos principios.
 
 En cada Distrito Electoral en que se divida el territorio del Estado funcionará un Consejo, con residencia en la cabecera del mismo.
 
@@ -2051,9 +2085,13 @@ XI. Realizar el cómputo distrital de las elecciones de Gobernador, Munícipes y
 
 XII. Hacer la declaración de validez de la elección y consecuentemente autorizar la expedición de constancias de mayoría en la elección de Diputados por el principio de mayoría relativa, así como informar de esta actividad al Consejo Estatal Electoral;
 
-XIII. Enviar al Consejo Estatal Electoral las actas levantadas sobre el cómputo distrital de las elecciones de Gobernador, Munícipes y Diputados;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-XIV. Preparar la memoria técnica del proceso electoral en el Distrito Electoral correspondiente, remitiéndola a la Dirección General del Instituto Estatal Electoral, dentro de los sesenta días siguientes al de la jornada electoral, y
+XIII. Enviar al Consejo Estatal Electoral las actas levantadas sobre el cómputo distrital de las elecciones de Gobernador, Munícipes y Diputados, por ambos principios;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+XIV. Preparar la memoria técnica del proceso electoral en el Distrito Electoral correspondiente, remitiéndola a la Dirección General del Instituto Estatal Electoral, antes de la entrada en receso en los términos del Artículo 146 de esta Ley, y
 
 XV. Las demás que disponga esta Ley.
 
@@ -3399,7 +3437,9 @@ El cómputo y resultado de las elecciones, declaración de validez y entrega de 
 
 I. La remisión de la documentación, expedientes y paquetes electorales a los Consejos Distritales Electorales;
 
-II. La realización de los cómputos de las elecciones de Diputados, Munícipes y Gobernador, y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+II. La realización de los cómputos de las elecciones de Diputados por el Principio de Mayoría Relativa, Munícipes, Gobernador y Diputados por el Principio de Representación Proporcional, y
 
 III. Declaración de validez y entrega de constancias de mayoría relativa en la elección de Diputados, Munícipes y Gobernador.
 
@@ -3473,7 +3513,9 @@ II. La de Munícipes se hará por planillas completas integradas por propietario
 
 III. La de Gobernador del Estado, será unipersonal.
 
-Los propietarios y suplentes de la fórmula de Diputados y de la planilla de Munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto validamente emitidos.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+Los propietarios y suplentes de la fórmula de Diputados, de la lista de Diputados y de la planilla de Munícipes, a elegirse por el principio de mayoría relativa y por el principio de representación proporcional, serán considerados separadamente, salvo para los efectos del voto válidamente emitidos.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2003)</small>
 
@@ -3495,13 +3537,17 @@ Los partidos políticos o coaliciones, a partir del día siete al veintiuno de m
 
 I. Las fórmulas de candidatos a Diputados por el principio de mayoría relativa, ante el Consejo Distrital Electoral correspondiente, y
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
-II. Las candidaturas a Gobernador y planillas completas de Munícipes, ante el Consejo Estatal Electoral.
+II. Las candidaturas a Gobernador, planillas completas de Munícipes y la lista de cuatro candidatos a Diputados por el principio de representación proporcional, ante el Consejo Estatal Electoral.
 
 Los partidos políticos o coaliciones, dentro del plazo señalado en este Artículo, podrán modificar o sustituir las solicitudes presentadas.
 
 De la solicitud de registro de candidatos a diputados, se enviará copia al Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+En ningún caso, un partido político o coalición podrá registrar más de dos candidatos a Diputados por ambos principios, con excepción de los señalados en la fracción II del Artículo 29 de esta Ley.
 
 ###### ARTÍCULO 285.
 
@@ -3967,9 +4013,11 @@ IV. La fijación de letreros o anuncios en el lugar de ubicación de cada casill
 
 El Secretario Fedatario del Consejo Distrital Electoral, previa razón que asiente, entregará una copia de la lista a cada uno de los representantes acreditados de los partidos políticos.
 
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
 ###### ARTÍCULO 322.
 
-En cada Municipio del Estado se instalará una casilla especial, únicamente para la recepción del voto de los electores en la elección de Gobernador, que se encuentren transitoriamente fuera del Municipio correspondiente a su domicilio. El Consejo Estatal Electoral aprobará la integración y ubicación de las casillas especiales, aplicando las reglas establecidas en el presente capítulo, y apoyándose en la información con que cuenten los Consejos Distritales Electorales.
+En cada Municipio del Estado se instalará una casilla especial, únicamente para la recepción del voto de los electores en la (sic) elecciones de Gobernador y de Diputados por el principio de representación proporcional, que se encuentren transitoriamente fuera del Municipio correspondiente a su domicilio. El Consejo Estatal Electoral aprobará la integración y ubicación de las casillas especiales, aplicando las reglas establecidas en el presente Capítulo, y apoyándose en la información con que cuenten los Consejos Distritales Electorales.
 
 ### CAPÍTULO QUINTO. DEL RÉGIMEN DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS ANTE LAS MESAS DIRECTIVAS DE CASILLA Y REPRESENTANTES GENERALES
 
@@ -4257,17 +4305,13 @@ III. Color o combinaciones de colores y emblema del partido político o coalici�
 
 IV. Apellidos paterno, materno y nombre completo del candidato o candidatos;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
 
-V. En la elección de Diputados por mayoría relativa, un recuadro por cada partido político o coalición, que contengan la fórmula de candidatos propietarios y suplentes;
+V. En la elección de Diputados, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Diputado por el principio de mayoría relativa a propietario y el de su suplente, postulado por cada partido político o coalición; al reverso la lista de los candidatos a Diputados por el principio de representación proporcional, señalando el carácter de propietarios y suplentes;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-VI. En la elección de Munícipes:
-
-a) Para la planilla, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Presidente Municipal y el de su suplente, postulado por cada partido político o coalición; al reverso el nombre de los candidatos a Síndico Procurador y el de los dos Regidores, señalando el carácter de propietarios y suplentes, y
-
-b) Para Regidores por mayoría relativa, un recuadro por cada partido político o coalición, que contengan la fórmula de candidatos propietarios y suplentes;
+VI. En la elección de Munícipes, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Presidente Municipal y el de su suplente, postulado por cada partido político o coalición; al reverso el nombre de los candidatos a Síndico Procurador y el de los Regidores, señalando el carácter de propietarios y suplentes, y (sic)
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4365,9 +4409,13 @@ El Consejo Distrital Electoral, en el caso de que alguno de los representantes d
 
 Los Presidentes de las Mesas Directivas de Casilla especiales recibirán la documentación y materiales a que se refiere el Artículo 339 de esta Ley, con excepción de la Lista Nominal de Electores con imagen, en lugar de la cual recibirán las formas e instrumentos especiales para identificar y anotar los datos de la credencial estatal electoral de los electores, que estando transitoriamente fuera de su Municipio, voten en la casilla.
 
-El número de boletas para la elección de Gobernador que reciban no será superior a setecientos cincuenta.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-En las elecciones de Munícipes y Diputados, serán igual al número de funcionarios propietarios de la casilla, así como de los representantes acreditados por los partidos políticos ante la misma.
+El número de boletas que reciban para las elecciones de Gobernador y de Diputados por el principio de representación proporcional, no será superior a setecientos cincuenta, respectivamente.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+En la elección de Munícipes, serán igual al número de funcionarios propietarios de la casilla, así como de los representantes acreditados por los partidos políticos ante la misma.
 
 ###### ARTÍCULO 342.
 
@@ -4607,15 +4655,19 @@ Los representantes de los partidos políticos o coaliciones, podrán presentar a
 
 Ninguna autoridad podrá detener a los integrantes de las Mesas Directivas de Casilla o a los representantes de los partidos políticos o coalición durante el día de la elección, salvo en el caso de flagrante delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 365.
 
-En las casillas especiales se recibirá la votación de Gobernador, de los electores que transitoriamente se encuentren fuera de su Municipio, y se aplicarán, además de las reglas establecidas en los artículos anteriores de este Capítulo, las siguientes:
+En las casillas especiales se recibirá la votación de Gobernador y de Diputados por el principio de representación proporcional, de los electores que transitoriamente se encuentren fuera de su Municipio, y se aplicarán, además de las reglas establecidas en los artículos anteriores de este Capítulo, las siguientes:
 
 I. El ciudadano además de exhibir su Credencial Estatal de Elector a requerimiento del Presidente de la Mesa Directiva de Casilla, deberá mostrar el pulgar izquierdo para constatar que no ha votado en otra casilla;
 
 II. El Secretario de la Mesa Directiva, verificará la vigencia de la Credencial Estatal de Elector en el instrumento que le fue proporcionado por el Consejo Distrital Electoral y procederá a asentar en el acta de electores en tránsito, los datos de la misma, y
 
-III. Una vez asentados los datos anteriores, se procederá a entregarle la boleta correspondiente a la elección, recabando la firma del elector.
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+III. Una vez asentados los datos anteriores, se procederá a entregarle la boleta correspondiente a la elección de Gobernador, y en su caso, para la de Diputados, esta última deberá ser sellada previamente con la leyenda "Representación Proporcional" o "R.P.", recabando la firma del elector.
 
 ###### ARTÍCULO 366.
 
@@ -4673,9 +4725,17 @@ El orden en que se llevará el escrutinio y cómputo, será el siguiente:
 
 I. De Gobernador;
 
-II. De Munícipes, y
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-III. De Diputados de mayoría relativa.
+II. De Munícipes;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+III. De Diputados de mayoría relativa, y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+IV. Para el caso de las casillas especiales, el de Diputados de representación proporcional.
 
 ###### ARTÍCULO 372.
 
@@ -4708,6 +4768,10 @@ b) El número de votos que sean nulos, y
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
 VI. El Secretario anotará en hojas por separado, los resultados de cada una de las operaciones señaladas en los incisos de la fracción anterior, los que una vez verificados, transcribirá en el apartado correspondiente del acta de la jornada electoral.
+
+(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+En el caso del escrutinio y cómputo de la elección de diputados, en las casillas especiales se computarán de manera separada las boletas que se encuentre (sic) selladas en los términos de la fracción III del Artículo 365 de esta Ley, asentándose los resultados, en los términos de la fracción VI de este Artículo.
 
 ###### ARTÍCULO 373.
 
@@ -4813,7 +4877,7 @@ Solo podrán portar armas el día de la elección los miembros de la fuerza púb
 
 ###### ARTÍCULO 386.
 
-El día de la elección y el anterior, no se permitirá la venta de bebidas embriagantes. Las autoridades competentes tomarán las medidas pertinentes para hacer efectiva esta disposición.
+(DEROGADO, P.O. 14 DE NOVIEMBRE DE 2003)
 
 ###### ARTÍCULO 387.
 
@@ -4899,13 +4963,17 @@ Para la captura y suma de los resultados preliminares, deberá de disponerse de 
 
 ### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DE LAS ELECCIONES EN LOS CONSEJOS DISTRITALES
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 393.
 
-El cómputo distrital, es el procedimiento por el cual el Consejo Distrital Electoral determina, mediante la suma de los resultados anotados en el apartado correspondiente de las actas de la jornada electoral de las Mesas Directivas de Casilla, la votación obtenida en el Distrito para la elección de Diputados, Munícipes y Gobernador.
+El cómputo distrital, es el procedimiento por el cual el Consejo Distrital Electoral determina, mediante la suma de los resultados anotados en el apartado correspondiente de las actas de la jornada electoral de las Mesas Directivas de Casilla, la votación obtenida en el Distrito para la elección de Diputados por el principio de mayoría relativa, Munícipes, Gobernador y Diputados por el principio de representación proporcional.
+
+(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
 
 ###### ARTÍCULO 394.
 
-Los Consejos Distritales Electorales tendrán, a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral y hasta siete días, inclusive, para hacer el cómputo de las elecciones de Diputados, Munícipes y Gobernador, preservando éste orden sucesivo.
+Los Consejos Distritales Electorales tendrán, a partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral y hasta siete días, inclusive, para hacer el cómputo de las elecciones de Diputados por el principio de mayoría relativa, Munícipes, Gobernador y Diputados por el principio de representación proporcional, preservando este orden sucesivo.
 
 ###### ARTÍCULO 395.
 
@@ -4929,9 +4997,11 @@ IV. Auxiliares electorales que al efecto se designen, para que puedan sustituirs
 
 Los Consejos Distritales deberán contar con los elementos humanos, materiales, técnicos y financieros, necesarios para la realización del cómputo en forma permanente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 396.
 
-El cómputo distrital de las elecciones de Diputados, Munícipes o Gobernador, se realizará sucesivamente, bajo el procedimiento siguiente:
+El cómputo distrital de las elecciones de Diputados por el principio de mayoría relativa, Munícipes, Gobernador o Diputados por el principio de representación proporcional, se realizará sucesivamente, bajo el procedimiento siguiente:
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -4949,21 +5019,31 @@ III. Cuando existan errores aritméticos, irregularidades o alteraciones evident
 
 IV. Posteriormente, se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva, y
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 V. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo distrital de la elección de Diputados, Munícipes o Gobernador, según se trate, y se asentará en el acta correspondiente.
 
-Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo de la elección de Diputados, Munícipes o Gobernador, y los incidentes que ocurrieren durante la misma.
+(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004)
+
+En el caso del cómputo de la elección de Diputados por el principio de representación proporcional, en los distritos donde se haya instalado una casilla especial, se procederá a añadir al resultado del cómputo de diputados por el principio de mayoría relativa, el resultado que se tuviere en la casilla para aquélla elección; la sumatoria constituirá el cómputo distrital de la elección de diputados por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+Se harán constar en el acta circunstanciada de la sesión, los resultados del cómputo de la elección de Diputados por el principio de mayoría relativa, Munícipes o Gobernador, y en su caso la de Diputados por el principio de representación proporcional, así como los incidentes que ocurrieren durante la misma.
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 397.
 
-Concluido el cómputo para la elección de Diputados, se emitirá la declaración de validez y acto seguido, el Consejero Presidente del Consejo Distrital Electoral, expedirá la constancia de mayoría a quién hubiese obtenido el triunfo.
+Concluido el cómputo para la elección de Diputados por el principio de mayoría relativa, se emitirá la declaración de validez y acto seguido, el Consejero Presidente del Consejo Distrital Electoral, expedirá la constancia de mayoría a quién hubiese obtenido el triunfo.
 
-El Consejo Distrital Electoral, una vez concluidos los cómputos distritales de las elecciones de Munícipes o Gobernador, enviará copia de las actas de cómputo respectivas, al Consejo Estatal Electoral.
+El Consejo Distrital Electoral, una vez concluidos los cómputos distritales de las elecciones de Munícipes, en su caso de Gobernador y de Diputados por el principio de representación proporcional, enviará copia de las actas de cómputo respectivas, al Consejo Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 398.
 
-Los Consejeros Presidentes de los Consejos Distritales Electorales, fijarán en el exterior de los locales en que se ubiquen éstos últimos, al término del cómputo, los resultados de la elección de Diputados, Munícipes y Gobernador en el distrito.
+Los Consejeros Presidentes de los Consejos Distritales Electorales, fijarán en el exterior de los locales en que se ubiquen éstos últimos, al término del cómputo, los resultados de la elección de Diputados por el principio de mayoría relativa, de Munícipes de Gobernador y de Diputados por el principio de representación proporcional, en el distrito.
 
 ###### ARTÍCULO 399.
 
@@ -4985,9 +5065,11 @@ Los Consejos Distritales Electorales, una vez que los resultados de la elección
 
 Los Consejeros Presidentes de los Consejos Distritales Electorales, remitirán al Congreso del Estado copia certificada de las constancias de mayoría de la fórmula de candidatos a Diputado que la hubiesen obtenido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 401.
 
-El Consejero Presidente del Consejo Distrital Electoral respectivo, integrará los expedientes del cómputo distrital de la elección de Munícipes y Gobernador, con los siguientes documentos:
+El Consejero Presidente del Consejo Distrital Electoral respectivo, integrará los expedientes del cómputo distrital de la elección de Munícipes, Gobernador y Diputados por el principio de representación proporcional, con los siguientes documentos:
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -5003,23 +5085,33 @@ Los Consejeros Presidentes de los Consejos Distritales correspondientes, conserv
 
 ### CAPÍTULO CUARTO. DE LOS CÓMPUTOS DE LAS ELECCIONES EN EL CONSEJO ESTATAL ELECTORAL
 
+> <small>(REFORMADO P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 403.
 
-El cómputo para Munícipes y Gobernador, es el procedimiento por el cual el Consejo Estatal Electoral determina, mediante la suma de los resultados anotados en las actas de los cómputos distritales, la votación obtenida para la elección de Munícipes y de Gobernador.
+El cómputo para Munícipes, Gobernador y Diputados por el principio de representación proporcional, es el, procedimiento por el cual el Consejo Estatal Electoral determina, mediante la suma de los resultados anotados en las actas de los cómputos distritales, la votación obtenida para la elección de Munícipes, de Gobernador y de Diputados por el principio de representación proporcional.
 
-El Consejo Estatal Electoral, celebrará sesión a más tardar quince días posteriores a la jornada electoral, para hacer el cómputo de las elecciones de Gobernador y Munícipes.
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+
+El Consejo Estatal Electoral, celebrará sesión a más tardar quince días posteriores a la jornada electoral, para hacer el cómputo de las elecciones de Munícipes, Gobernador y Diputados por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 404.
 
 Concluido el cómputo de las elecciones, el Consejo Estatal Electoral procederá a:
 
-I. Emitir la declaración de validez de la elección de Munícipes y extender la constancia de mayoría a la planilla que haya obtenido el mayor número de votos, y
+I. Emitir la declaración de validez de la elección de Munícipes y extender la constancia de mayoría a la planilla que haya obtenido el mayor número de votos;
 
-II. Declarar la validez de la elección de Gobernador y extender la constancia de mayoría al candidato que haya obtenido mayor número de votos.
+II. Declarar la validez de la elección de Gobernador y extender la constancia de mayoría al candidato que haya obtenido mayor número de votos, y
+
+III. Declarar la validez de la elección de Diputados por el principio de representación proporcional y extender las constancias de asignación proporcional.
+
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
 
 ###### ARTÍCULO 405.
 
-El Consejero Presidente del Consejo Estatal Electoral, integrará para cada elección un expediente de cómputo de la elección de Munícipes y de Gobernador, con los siguientes documentos originales o copias certificadas, según el caso:
+El Consejero Presidente del Consejo Estatal Electoral, integrará para cada elección un expediente de cómputo de la elección de Munícipes, de Gobernador y de Diputados por el principio de representación proporcional, con los siguientes documentos originales o copias certificadas, según el caso:
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
@@ -5029,19 +5121,23 @@ I. Las actas de las sesiones de cómputo;
 
 II. Las actas circunstanciadas de las sesiones de cómputo;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-III. Las constancias de mayoría expedidas, y
+III. Las constancias de mayoría expedidas, y de las de asignación proporcional, y
 
 > <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
 
 IV. Su informe sobre el desarrollo del proceso electoral.
 
-El Consejo Estatal Electoral, notificará al Congreso del Estado la expedición de las constancias de mayoría de las elecciones de Munícipes y de Gobernador.
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+El Consejo Estatal Electoral, notificará al Congreso del Estado la expedición de las constancias de mayoría de las elecciones de Munícipes y de Gobernador y de las constancias de asignación proporcional.
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 406.
 
-El Consejero Presidente del Consejo Estatal Electoral, fijará en el exterior del local, al término de la sesión de los cómputos, los resultados de cada una de las elecciones de Munícipes y de Gobernador.
+El Consejero Presidente del Consejo Estatal Electoral, fijará en el exterior del local, al término de la sesión de los cómputos, los resultados de cada una de las elecciones de Munícipes, de Gobernador y de Diputados por el principio de representación proporcional.
 
 ###### ARTÍCULO 407.
 
@@ -5051,9 +5147,11 @@ El Consejo Estatal Electoral, acordará la fecha y modo en que habrán de ser de
 
 ### CAPÍTULO QUINTO. DE LAS CONSTANCIAS DE ASIGNACIÓN PROPORCIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 408.
 
-En los términos de los Artículos 15 y 78 de la Constitución Política del Estado, el Consejo Estatal Electoral procederá a la asignación de Diputados y Munícipes electos por el principio de representación proporcional, conforme a lo dispuesto en esta Ley.
+En los términos de los Artículos 15 y 79 de la Constitución Política del Estado, el Consejo Estatal Electoral procederá a la asignación de Diputados y Munícipes electos por el principio de representación proporcional, conforme a lo dispuesto en esta Ley.
 
 En caso, de presentarse impugnaciones, el Consejo Estatal Electoral, hará la asignación una vez que cause estado.
 
@@ -5073,11 +5171,19 @@ La nulidad de los resultados obtenidos en las casillas electorales, decretada po
 
 I. Los resultados del cómputo de la elección impugnada;
 
-II. La elección en un Distrito Electoral para la fórmula de Diputados de mayoría relativa;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
-III. La elección en un Municipio para Ayuntamiento, y
+II. La elección en un Distrito Electoral para la fórmula de Diputados de mayoría relativa, o de la fórmula de Diputados por el principio de representación proporcional;
 
-IV. La elección en el Estado para Gobernador.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+III. La elección de Diputados por el principio de representación proporcional;
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+IV. La elección en un Municipio para Ayuntamiento, y
+
+V. La elección en el Estado para Gobernador.
 
 ###### ARTÍCULO 411.
 
@@ -5107,21 +5213,25 @@ XI. Ejercer violencia física o presión sobre los miembros de la Mesa Directiva
 
 XII. Existir irregularidades graves, sustanciales, de forma generalizada, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo, que en forma evidente pongan en duda la certeza de la votación y estas sean determinantes para el resultado de la misma, la votación recibida será nula, si además se acredita alguno de los supuestos de las fracciones anteriores.
 
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 412.
 
-Procede la nulidad de la elección de Diputados de mayoría relativa en un distrito electoral, en los siguientes supuestos:
+Procede la nulidad de la elección de Diputados:
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+I. Por el principio de mayoría relativa en un distrito electoral, cuando:
 
-I. Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas instaladas en el distrito;
+a) Alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el veinte por ciento de las casillas instaladas en el distrito;
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+b) No se instale el veinte por ciento de las casillas en el distrito, y
 
-II. Cuando no se instale el veinte por ciento de las casillas en el distrito, y
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-> <small>(F. DE E., P.O. 5 DE ENERO DE 2001)</small>
+c) Por causas supervinientes, los dos integrantes de la fórmula de Diputados electos dejen de reunir los requisitos para ocupar el cargo, y
 
-III. Cuando por causas supervinientes, los dos integrantes de la fórmula de Diputados electos dejen de reunir los requisitos para ocupar el cargo.
+> <small>(F. DE E., P.O. 12 DE MARZO DE 2004)</small>
+
+II. Por el principio de representación proporcional, cuando por causas supervinientes, los dos integrantes de la fórmula de Diputados electos dejen de reunir los requisitos para ocupar el cargo.
 
 ###### ARTÍCULO 413.
 
@@ -5249,7 +5359,9 @@ I. El Cómputo del Consejo Distrital Electoral de la elección de Diputados, por
 
 II. El cómputo del Consejo Estatal Electoral de las elecciones de Munícipes o Gobernador, por nulidad de la votación recibida en una o varias casillas;
 
-III. El cómputo, por error aritmético, en los Consejos respectivos, de la elección de Diputados, Munícipes y Gobernador;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+III. El cómputo, por error aritmético, en los Consejos respectivos, de la elección de Diputados por el principio de mayoría relativa o de representación proporcional, Munícipes y Gobernador;
 
 IV. La declaración de validez y el otorgamiento de la constancia de mayoría, por nulidad de la elección de Diputados, Munícipes o Gobernador, por los supuestos previstos en los artículos 412, 413 y 414 de esta Ley;
 
@@ -5259,7 +5371,9 @@ VI. La declaración de validez de la elección de Munícipes y el otorgamiento d
 
 VII. La declaración de validez de la elección de Gobernador y el otorgamiento de la constancia de mayoría, que realice el Consejo Estatal Electoral;
 
-VIII. La asignación de Diputados por el principio de representación proporcional, que realice el Consejo Estatal Electoral, y
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003) (F. DE E., P.O. 2 DE ENERO DE 2004)
+
+VIII. La constancia de asignación de Diputados por el principio de representación proporcional y la declaración de validez de esta elección, que realice el Consejo Estatal Electoral, y
 
 IX. La asignación de regidores por el principio de representación proporcional, que efectúe el Consejo Estatal Electoral.
 
@@ -6354,3 +6468,25 @@ Los Partidos políticos que a la fecha de entrada en vigor de las presentes refo
 ###### ARTÍCULO QUINTO.
 
 Los reglamentos interiores de los Consejos Electorales y de las Direcciones Generales del Instituto Estatal Electoral en vigor, deberán adecuarse, a más tardar en el mes de marzo del 2004.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 225.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 238.
+
+###### ARTICULO PRIMERO.
+
+Para que las presentes reformas entren en vigor, previamente se deberá hacer la declaratoria correspondiente a la reforma de los Artículos 14 y 15 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+###### ARTICULO TERCERO.
+
+Los reglamentos interiores de los Consejos Electorales y Direcciones Generales del Instituto Estatal Electoral en vigor, deberán adecuarse, a más tardar el mes de marzo del 2004.
