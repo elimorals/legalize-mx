@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1953-09-06"
+last_updated: "1954-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1953.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -131,21 +131,19 @@ Son habitantes del Estado, las personas que residen en su territorio.
 
 La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1954)</small>
 
 ###### Artículo 12.
 
-Son derechos de los habitantes del Estado:
+Son derechos de los habitantes del Estado, varones y mujeres:
 
-I.- Votar en las elecciones populares, siempre que el individuo sea mexicano en ejercicio de sus derechos, y no sea ministro de algún culto ni pertenezca al estado eclesiástico.
+I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos, a excepción de los ministros de algún culto o de los que pertenezcan al estado eclesiástico.
 
 Para el ejercicio de este derecho, los habitantes necesitan tener una residencia en el Estado, no menor de seis meses, y
 
 II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la Ley relativa, exijan para cada caso.
 
-En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
-
-En igualdad de circunstancias, los originarios del Estado serán preferidos para el desempeño de cualquier empleo público.
+Los originarios del Estado serán preferidos para el desempeño de cualquier empleo público.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -543,7 +541,9 @@ II.- Presentar cada año al Congreso, a más tardar el día quince de noviembre,
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
-IV.- Informar anualmente al Congreso, el día primero de octubre, en sesión especial convocada para ese objeto, sobre el estado general de su administración;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1954)</small>
+
+IV.- Informar anualmente al Congreso, el día 16 de septiembre, en sesión especial convocada para ese objeto, sobre el estado general de la administración.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -1138,5 +1138,17 @@ P.O. 1 DE FEBRERO DE 1953.
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 6 DE SEPTIEMBRE DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 23 DE MAYO DE 1954.
+
+DECRETO NÚMERO 18, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 23 DE MAYO DE 1954.
+
+DECRETO NÚMERO 19, POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
