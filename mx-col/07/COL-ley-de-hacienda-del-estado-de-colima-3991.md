@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1999-01-05"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -227,7 +227,7 @@ No están obligados a presentar declaración anual, los contribuyentes eventuale
 
 ###### Artículo 21.
 
-El calculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
+El cálculo del impuesto se hará sobre el total de los ingresos que obtengan durante el año, a los cuales se podrán hacer las deducciones autorizadas en este capítulo, aplicándole al resultado la tasa que señala el Artículo 15 de esta Ley; contra el resultado anterior, se acreditará el importe de los pagos provisionales efectuados, en los términos de este capítulo.
 
 ###### Artículo 22.
 
@@ -491,6 +491,8 @@ El servidor público que preste algún servicio, en contravención a lo dispuest
 
 ### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 48.
 
 Por los servicios prestados en la Dirección General de Gobierno se pagarán los derechos siguientes:
@@ -509,7 +511,9 @@ II.- Por nombramiento de Notario Interino y/o Adscrito 110.000
 
 III.- Por autorización de protocolo, abierto o especial 4,500
 
-IV.- Por legalización de firmas, por cada una 1,800
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Por legalización de firmas o apostilla, por cada una 1.800
 
 V.- Expedición de copias certificadas del Duplicado de Libros del Registro Civil, cada una 0.900
 
@@ -527,7 +531,7 @@ VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.500
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.350
 
-X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
+X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
@@ -563,9 +567,9 @@ XX.- Por la revalidación anual de los servicios privados de seguridad 40.000
 
 XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 1.750
 
-XXII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
+XXII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-XXIII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
+XXIII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -575,9 +579,9 @@ XXIV.- Anuencia para palenques de gallos 19.000
 
 XXV.- Anuencia para compra-venta, transporte, manejo, almacenamiento de explosivos y juegos pirotécnicos 9,000
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XXVI.- Otras anuencias 3,830
+XXVI.- Otras anuencias, por día 3.830
 
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -586,6 +590,8 @@ XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.000
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
 XXVIII.- Autorización para registro de documentos 1.000
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -705,9 +711,9 @@ e).- Por cada vehículo exclusivo funerario 16.200
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-Los derechos que establece esta fracción, deberán cubrirse durante los meses de enero a marzo de cada año.
+Los derechos que establece esta fracción, deberán cubrirse durante los meses de enero y febrero de cada año.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -801,15 +807,17 @@ Por los servicios prestados en la Dirección General de Prevención y Readaptaci
 
 I.- Por la expedición de certificado de no antecedentes penales. 0.900
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 52.
 
-Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio.
+Por los servicios prestados en la Dirección del Registro Público de la Propiedad y el Comercio.
 
 Número de días de salario mínimo
 
-I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre el de operación, el catastral y el de avalúo bancario actualizados:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre el de operación, el catastral y el de avalúo bancario:
 
 a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
 
@@ -861,7 +869,9 @@ g).- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de sal
 
 h).- Cuando el valor de la operación sea mayor al equivalente de 6,477 días de salario mínimo, se pagará sobre el monto del crédito, el 0.25%
 
-i).- Por los créditos de habilitación o avío destinados a fines agropecuarios o de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 1.000
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+i).- Por los créditos de habilitación o avío destinados a fines Agropecuarios, agroindustriales y de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 1.000
 
 j).- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado, deduciendo del resultado el derecho pagado cuando se inscribió el crédito original
 
@@ -1077,7 +1087,9 @@ a).- Copia certificada en heliográfica o fotostática de planos generales de:
 
 5.- OTRAS POBLACIONES 2.250
 
-b).- Copia fotostática certificada de un predio con acotaciones 1.350
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b).- Copia fotostática certificada de un predio con Acotaciones 3.600
 
 c).- Copia heliográfica certificada de plano manzanero 3.600
 
@@ -1122,6 +1134,26 @@ j).- Copia fotostática de planos de predios rústicos:
 3.- De 3-00-01 a 5-00-00 hectáreas 20.000
 
 4.- Más de 5-00-00 hectáreas 25,000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+k).- Por cada copia de tarjetas de registro a solicitud del interesado 2.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+l).- Por cada copia de traslado de dominio a solicitud del interesado 2.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+m).- Por expedición de copias de avalúos catastrales 3.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+n).- Por expedición de planos de predios urbanos con medidas, superficie y nombre de calles:
+
+1.- Sin nombres de colindantes 3.600
+
+2.- Con nombres de colindantes 4.600
 
 II.- Certificaciones:
 
@@ -1345,23 +1377,29 @@ más, por cada lote producto de la relotificación 2.500
 
 más, por cada lote producto de la relotificación 1.500
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-6A.- Corredor mixto y mixto central densidad baja 80.000
+6A.- Corredor mixto y mixto central intensidad baja 80.000
 
 más, por cada lote producto de la relotificación 4.000
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-6B.- Corredor mixto y mixto central densidad media 70.000
+6B.- Corredor mixto y mixto central intensidad media 70.000
 
 más, por cada lote producto de la relotificación 3.500
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-6C.- Corredor mixto y mixto centra densidad alta 60.000
+6C.- Corredor mixto y mixto central intensidad alta 60.000
 
 más, por cada lote producto de la relotificación 3.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+6D.- Corredor mixto y mixto central intensidad máxima 50.000
+
+mas, por cada lote producto de la relotificación 2.500
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1381,23 +1419,29 @@ más, por cada lote producto de la relotificación 3.000
 
 más, por cada lote producto de la relotificación 2.500
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-9A.- Corredor comercial y de servicios central, intensidad baja 90,000
+9A.- Corredor comercial y de servicios intensidad baja 90,000
 
 más por cada lote producto de la relotificación 4.500
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-9B.- Corredor comercial y de servicios central, intensidad media 80.000
+9B.- Corredor comercial y de servicios intensidad media 80.000
 
 más, por cada lote producto de la relotificación 4.000
 
-> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-9C.- Corredor comercial y de servicios central, intensidad alta. 70.000
+9C.- Corredor comercial y de servicios intensidad alta 70.000
 
 más, por cada lote producto de la relotificación 3,500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+9D.- Corredor comercial y de servicios intensidad máxima 60.000
+
+mas, por cada lote producto de la relotificación 3.000
 
 10.- Comercial y de servicios regional 75.000
 
@@ -1407,9 +1451,23 @@ más, por cada lote producto de la relotificación 4.000
 
 más, por cada lote producto de la relotificación 3.000
 
-12.- Industrial 30.000
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12.- Industria ligera y de bajo impacto 30.000
 
 más, por cada lote producto de la relotificación 1.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12A.- Industria mediana y de mediano impacto 40.000
+
+más, por cada lote producto de la relotificación 2.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12B.- Industria pesada y de alto impacto y riesgo 60.000
+
+más, por cada lote producto de la relotificación 3.000
 
 13.- Habitacional campestre 80.000
 
@@ -1434,6 +1492,36 @@ más, por cada lote producto de la relotificación 4.000
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 17.- Turístico intensidad alta 50.000
+
+más, por cada lote producto de la relotificación 3.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+18.- Turístico intensidad mínima 110.000
+
+más, por cada lote producto de la relotificación 6.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19.- Comercial y de servicios central intensidad baja 85.000
+
+más, por cada lote producto de la relotificación 4.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19A.- Comercial y de servicios central intensidad media 75.000
+
+más, por cada lote producto de la relotificación 4.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19B.- Comercial y de servicios central intensidad alta 65.000
+
+más, por cada lote producto de la relotificación 3.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19C.- Comercial y de servicios central intensidad máxima 55.000
 
 más, por cada lote producto de la relotificación 3.000
 
@@ -1477,6 +1565,12 @@ más, por cada lote producto de la subdivisión 5.000
 
 más, por cada lote producto de la subdivisión 3.500
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+6D.- Corredor mixto y mixto central intensidad máxima 5.000
+
+Más, por cada lote producto de la subdivisión 2.500
+
 7.- Comercial y de servicios de barrio, intensidad baja 12.000
 
 más, por cada lote producto de la subdivisión 6.000
@@ -1489,17 +1583,29 @@ más, por cada lote producto de la subdivisión 4.500
 
 más, por cada lote producto de la subdivisión 3.000
 
-9A.- Corredor Comercial y de servicios central, intensidad baja 15.000
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-más, por cada lote producto de la subdivisión 7.500
+9A.- Corredor comercial y de servicios, intensidad baja 16.000
 
-9B.- Corredor Comercial y de servicios central, intensidad media 12.000
+más, por cada lote producto de la subdivisión 8.000
 
-más, por cada lote producto de la subdivisión 6.000
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-9C.- Corredor Comercial y de servicios central, intensidad alta 9.000
+9B.- Corredor comercial y de servicios intensidad media 13.000
 
-más, por cada lote producto de la subdivisión 4.500
+más, por cada lote producto de la subdivisión 6.500
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+9C.- Corredor comercial y de servicios intensidad alta 10.000
+
+más, por cada lote producto de la subdivisión 5.000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+9D.- Corredor comercial y de servicios intensidad máxima 7.000
+
+más, por cada lote producto de la subdivisión 3.500
 
 10.- Comercial y de servicios regional 15.000
 
@@ -1509,9 +1615,23 @@ más, por cada lote producto de la subdivisión 7.500
 
 más, por cada lote producto de la subdivisión 6.000
 
-12.- Industrial 6.000
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12.- Industrial ligera y de bajo impacto 6.000
 
 más, por cada lote producto de la subdivisión 3.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12A.- Industria media y de mediano impacto 8.000
+
+más, por cada lote producto de la subdivisión 4.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+12B.- Industria pesada y de alto impacto y riesgo 10.000
+
+más, por cada lote producto de la subdivisión 5.000
 
 13.- Habitacional campestre 15.000
 
@@ -1533,6 +1653,36 @@ más, por cada lote producto de la subdivisión 7.000
 
 más, por cada lote producto de la subdivisión 5.000
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+18.- Turismo intensidad mínima 22.000
+
+más, por cada lote producto de la subdivisión 11.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19.- Comercial y de servicios central intensidad baja 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19A.- Comercial y de servicios central intensidad media 12.000
+
+más, por cada lote producto de la subdivisión 6.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19B.- Comercial y de servicios central intensidad alta 9.000
+
+más, por cada lote producto de la subdivisión 4.500
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+19C.- Comercial y de servicios central intensidad máxima 6.000
+
+más, por cada lote producto de la subdivisión 3.000
+
 d).- Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
 
 e).- De equipamiento e infraestructura primaria de los centros de población:
@@ -1553,11 +1703,11 @@ i).- Edificios Multifamiliares, cuando superen las 20 unidades 10.000
 
 j).- Proyectos de Hotelería cuando superan las 30 habitaciones 25.000
 
-II.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
+II.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
+III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
+IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 V.- Por la autorización para la constitución de condominios se pagará:
 
@@ -1601,7 +1751,7 @@ más, por cada unidad que integre el condominio 40.000
 
 más, por cada unidad que integre el condominio 45.000
 
-5.- (DEROGADO, P.O. 5 DE ENERO DE 1999)
+5.- (DEROGADO, P.O. 5 DE ENERO DE 1999)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1653,13 +1803,23 @@ más, por cada unidad que integre el condominio 35.000
 
 ###### Artículo 56.
 
-Por los servicios prestados en la Dirección General de Fomento Agropecuario:
+Por los servicios prestados en la Dirección de Apoyo a Productores:
 
-I.- Manutención por cada cabeza de ganado recogido en la vía pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro. 1.000
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I.- Manutención por cada cabeza de ganado recogido en la vía Pública, cada día o fracción que permanezca en los lugares públicos destinados a su encierro 0.500
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cabeza de ganado recogido de la vía pública y trasladado a los lugares destinados para su encierro 10.000
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III.- Expedición de patente con vigencia por tiempo indefinido 2.000
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IV.- Expedición de credencial de identificación con vigencia por Tres años 1.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1752,6 +1912,10 @@ b).- Licenciatura:
 1.- Primera oportunidad 1.799
 
 2.- Segunda oportunidad 2.249
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+3.- Tercera oportunidad 2.500
 
 IV.- Por expedición de duplicados de certificados de estudios 0.900
 
@@ -1851,13 +2015,13 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 ### CAPITULO UNICO
 
-### CAPITULO UNICO
-
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
 Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -1969,6 +2133,8 @@ Estarán exentas del pago de productos, las publicaciones que se hagan en el Per
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 69.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Estado por concepto de:
@@ -2021,8 +2187,6 @@ XIII.- Otros ingresos no especificados.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
-
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
@@ -2072,6 +2236,12 @@ De 1 hasta 25 centavos a la unidad inmediata anterior.
 De 26 hasta 75 centavos a la media unidad del peso.
 
 De 76 centavos en adelante a la unidad inmediata superior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 78.
+
+En la prestación de servicios de inscripción de documentos, de gravámenes, de operaciones de crédito, de fraccionamientos y relotificación de los mismos por parte de la Dirección del Registro Público de la Propiedad y del Comercio, cuando el objeto sea la promoción y enajenación de viviendas con valor de hasta el equivalente a 16.1 días de salario mínimo general de la zona económica del Estado de Colima elevado al año, o de lotes con servicios y que en cualquiera de los casos, la superficie del terreno no exceda de 120 metros cuadrados, se causarán los derechos previstos en el artículo 52 de esta Ley, aplicando a la cantidad que resulte de multiplicar el importe del salario mínimo por el número de unidades que señale la fracción o inciso correspondiente, el factor de 0.20.
 
 ## TRANSITORIOS
 
@@ -2184,3 +2354,23 @@ P.O. 5 DE ENERO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de 1999, y deberá publicarse en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes del Impuesto Sobre Ejercicio de Profesiones no estarán obligados a presentar la declaración del ejercicio de 1999, siendo por lo tanto optativa su presentación.
+
+###### ARTICULO TERCERO.
+
+Durante el ejercicio fiscal 2000, los propietarios de vehículos que cuenten con placas de circulación expedidas del 1º de enero de 1992 al 31 de diciembre de 1999, estarán obligados al pago de los derechos que establece el artículo 50, fracción IV, incisos a), b) y d) de la presente Ley.
+
+Al importe que resulte conforme al párrafo anterior, se le deducirá el equivalente a dos días de salario mínimo, que corresponde al derecho por el concepto de "renovación de tarjeta de circulación", cuyo importe se pagó o debió pagarse en 1998. Dicha bonificación se aplicará inclusive a quienes hubieran obtenido placas de circulación por alta de vehículos durante 1998 y 1999.
+
+###### ARTICULO CUARTO.
+
+En el ejercicio fiscal 2000, el pago de derechos por la renovación anual de la calcomanía fiscal vehicular y por la dotación de placas de circulación por término de vigencia o canje, podrá efectuarse sin recargos hasta el 30 de abril del citado año.
