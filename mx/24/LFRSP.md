@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1994-01-10"
+last_updated: "1995-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 1995.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -80,7 +80,7 @@ III.- Las dependencias del Ejecutivo Federal;
 
 IV.- El Departamento del Distrito Federal;
 
-V.- La Suprema Corte de Justicia de la Nación;
+V.- (DEROGADA POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)
 
 VI.- El Tribunal Superior de Justicia del Distrito Federal;
 
@@ -502,9 +502,11 @@ La Secretaría, el superior jerárquico y todos los servidores públicos tienen 
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación o presentación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 51.
 
-La Suprema Corte de Justicia de la Nación y el Tribunal Superior de Justicia del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de las correspondientes leyes orgánicas del Poder Judicial.
+El Tribunal Superior de Justicia del Distrito Federal establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente Capítulo, en los términos de las correspondientes leyes orgánicas del Poder Judicial.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -800,7 +802,9 @@ III.- El derecho de los particulares a solicitar la indemnización de daños y p
 
 La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades de la Administración Pública Federal, así como de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., en los términos de esta Ley y demás disposiciones aplicables.
 
-Las atribuciones que este Título otorga a la Secretaría, se confieren en el ámbito de sus respectivas competencias, tanto a la Suprema Corte de Justicia de la Nación y Tribunal Superior de Justicia del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
+> <small>(REFORMADO POR ARTICULO OCTAVO TRANSITORIO DEL DECRETO QUE CREA LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, D.O.F. 26 DE MAYO DE 1995)</small>
+
+Las atribuciones que este Título otorga a la Secretaría, se confieren en el ámbito de sus respectivas competencias, tanto al Tribunal Superior de Justicia del Distrito Federal, como a las Cámaras de Senadores y Diputados del Congreso de la Unión y Asamblea de Representantes del Distrito Federal.
 
 Para los efectos del párrafo que antecede, las citadas autoridades conforme a la legislación respectiva, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
@@ -971,3 +975,13 @@ PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil nov
 ...
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 26 DE MAYO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+OCTAVO.- Se derogan los artículos 3o., 51 y 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente en lo que se refiere a la Suprema Corte de Justicia.
