@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1987-07-08"
+last_updated: "1987-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 8 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -375,7 +375,9 @@ V. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseña
 
 VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado y organizar el servicio social en la entidad.
 
-VII. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
+
+VII. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades, así como organizar y dirigir el Archivo Histórico del Estado.
 
 VIII. Impulsar las actividades de difusión y fomento cultural.
 
@@ -561,7 +563,9 @@ XIII. Organizar y controlar la oficialía de partes.
 
 XIV. Administrar los talleres gráficos del Estado.
 
-XV. Administrar el archivo histórico y el general del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1987)</small>
+
+XV. Administrar el Archivo General del Poder Ejecutivo del Estado.
 
 XVI. Elaborar e implantar programas de mejoramiento administrativo en coordinación con las demás dependencias del ejecutivo, que permita revisar permanentemente los sistemas, métodos y procedimientos de trabajo que se requieran para adecuar la organización administrativa a los programas de Gobierno.
 
@@ -631,7 +635,7 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 ###### Artículo 48.
 
-El Estado podrá participar en la integración del capital social de aquellas empresas cuyo objeto tienda a complimentar los planes y programas de Gobierno o a satisfacer las necesidades sociales existentes en la entidad.
+El Estado podrá participar en la integración del capital social de aquellas empresas cuyo objeto tienda a cumplimentar los planes y programas de Gobierno o a satisfacer las necesidades sociales existentes en la entidad.
 
 En la integración del capital social de estas empresas, podrán participar los particulares y los grupos sociales interesados. Los funcionarios del Gobierno del Estado y de los organismos descentralizados, en ningún caso podrán participar en la integración del capital social de estas empresas.
 
@@ -653,7 +657,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno.- Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno.-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -680,3 +684,9 @@ P.O. 8 DE JULIO DE 1987
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+P.O. 14 DE SEPTIEMBRE DE 1987
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno " del Estado.
