@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-transito-del-estado-de-puebla-7742"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-09-30"
-last_updated: "1989-08-25"
+last_updated: "1993-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO DE TRANSITO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1993.
 
 Reglamento promulgado por el Poder Ejecutivo del Estado de Puebla, el jueves 30 de septiembre de 1976.
 
@@ -1316,7 +1316,7 @@ El servicio foráneo de segunda clase del transporte público de personas, es aq
 
 ###### ARTÍCULO 148.
 
-EI servicio urbano de transporte de pasajeros, es aquel que se presta dentro del perímetro urbanizado de las poblaciones del Estado, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
+El servicio urbano de transporte de pasajeros, es aquel que se presta dentro del perímetro urbanizado de las poblaciones del Estado, en vehículos cerrados con asientos en condiciones aceptables de comodidad, higiene y rapidez, a juicio de la Dirección de Tránsito.
 
 El servicio suburbano de transporte de pasajeros, es aquel que se presta a poblaciones menores, colonias y barrios localizados fuera del perímetro urbanizado, pero dentro del Municipio, en vehículos cerrados, con asientos, en las mismas condiciones señaladas en el párrafo anterior, a juicio de la Dirección de Tránsito.
 
@@ -2132,647 +2132,547 @@ En los casos en que el recurso se promueva contra una resolución del Ejecutivo 
 
 Las audiencias a que este título se refiere se celebrarán con o sin la comparecencia del recurrente.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE 1993)</small>
 
-###### ARTÍCULO 241.
+###### ARTICULO 241.
 
-Las violaciones al Reglamento de Tránsito que a continuación se expresan, se sancionarán conforme al siguiente:
+Las violaciones al Reglamento de Tránsito que a continuación se expresan; se sancionarán de acuerdo a la falta cometida, con el pago de la multa correspondiente al importe de los días de salario mínimo general vigente en el Estado de Puebla, señalados en el siguiente:
 
 TABULADOR DE INFRACCIONES
 
-l.- DE LAS CONCESIONES.
+I.- DE LAS AUTORIZACIONES Y PERMISOS.
 
 1.- Realizar servicio público de transporte
 
-sin la autorización correspondiente.
-
-ARTICULO 143 $ 2,000.00 a $ 6,000.00
+sin la autorización correspondiente. Artículo 143 20 días.
 
 2.- Carecer de autorización especial, los
 
-camiones que excedan de la carga y
+camiones que exceden de la carga y
 
-dimensión que fija el Reglamento.
+dimensiones que fija el Reglamento. Artículo 37,
 
-ARTICULO37 $ 1,000.00 a $ 3,000.00
+párrafo segundo 8 días.
 
-3.- Carecer de permiso para transporte de
+3.- Carecer del permiso para transporte de carga,
 
-carga, los camiones, camionetas y
+los camiones, camionetas y automóviles
 
-automóviles particulares que hagan
-
-este servicio. ARTICULO 38 $ 1,000.00 a $ 3,000.00
+particulares que hagan ese servicio. Artículo 38 16 días.
 
 4.- Carecer de autorización para transportar
 
-maquinaria u objetos cuyo peso pueda
+maquinaria u objetos cuyo peso puedan entorpecer
 
-entorpecer la libre circulación o causar
+la libre circulación o causar daño al pavimento.
 
-daño al pavimento. ARTÍCULOS 8° y 49 $ 2,000.00 a $ 6,000.00
+Artículo 8 y 49 12 días.
 
-II.-DE LA CIRCULACIÓN.
+II.- DE LA CIRCULACION
 
-5.- Conducir vehículos en estado de
+5.- Conducir vehículos en estado de ebriedad o
 
-ebriedad o bajo el influjo de drogas o
+bajo el influjo de drogas o enervantes. Artículo 99 24 días.
 
-enervantes. ARTICULO 99, ARRESTO
+Arresto hasta de 36 horas o multa de … 24 días sin perjuicio de cancelar, en su caso, la licencia del conductor. En todo caso se detendrá el vehículo, para ser devuelto al interesado al día siguiente.
 
-HASTA DE 35 HORAS o multa de $ 5,000.00 a $ 15,000.00
+6.- Conducir vehículos sin los anteojos anotados
 
-Sin perjuicio de cancelar en su caso, la licencia del conductor. En todo caso se detendrá el vehículo para ser devuelto al interesado al día siguiente.
+en la licencia. Artículo 70 2 días.
 
-6.- Conducir vehículos sin los anteojos
+7.- Utilizar la vía pública para juegos con vehículos
 
-anotados en la licencia. ARTICULO 70 $ 500.00 a $ 1,500.00
+no reglamentados. Artículo 83 4 días.
 
-7.- Utilizar la vía pública para juegos con
+8.- Llevar a su izquierda o entre sus manos alguna
 
-vehículos no reglamentados. ARTICULO 83 $ 2,000.00 a $ 6,000.00
+persona, bulto o permitir alguna intromisión sobre
 
-8.- Llevar a su izquierda o entre sus manos
-
-alguna persona, bulto o permitir alguna
-
-intromisión sobre el control de la dirección.
-
-ARTICULO 100 $ 1,000.00 a $ 3,000.00
+el control de dirección. Artículo 100 16 días.
 
 9.- Transitar sobre las banquetas, rayas
 
-longitudinales; dentro de una isleta o
+longitudinales; dentro de una isleta o zona de
 
-zona de seguridad para peatones;
+seguridad para peatones; rebasar en alto la
 
-rebasar en alto la zona de peatones o
+zona de peatones o el alineamiento de los
 
-el alineamiento de los edificios.
+edificios. Artículo 102 3 días.
 
-ARTICULO 102 $ 500.00 a $ 1,500.00
+10.- Dar vuelta en "U" en lugares no permitidos.
 
-10.- Dar vuelta en "U" en lugares no
+Artículo 104 3 días.
 
-permitidos. ARTICULO 104 $ 500.00 a $ 1,500.00
+11.- Detener la marcha del vehículo sin pegarse
 
-11.- Detener la marcha del vehículo sin
+a la banqueta de estacionamiento o no hacer
 
-pegarse a la banqueta de estacionamiento,
+las señales necesarias para ello. Articulo 106 7 días.
 
-o no hacer las señales necesarias para
+12.- Reparar vehículos en la vía pública fuera
 
-ello. ARTICULO 106 $ 200.00 a $ 600.00
+de los casos permitidos. Artículo 110 4 días.
 
-12.- Reparar vehículos en la vía pública,
+13.- Abandonar el vehículo en la vía pública, con
 
-fuera de los casos permitidos.
+el motor en movimiento. Artículo 111 2 días.
 
-ARTICULO 110 $ 1,000.00 a $ 3,000.00
+14.- Dar marcha atrás en una intersección; en
 
-13.- Abandonar el vehículo en la vía
+una calle por más de 10 metros o
 
-pública con el motor en movimiento.
-
-ARTICULO 111 $ 500.00 a $ 1,500.00
-
-14.- Dar marcha atrás en una intersección;
-
-en una calle por más de 10 Mts. O
-
-interfiriendo el tránsito. ARTICULO 113 $ 500.00 a $ 1,500.00
+interfiriendo el tránsito. Artículo 113 3 días.
 
 15.- Avanzar sobre una intersección
 
-interrumpiendo la circulación.
+interrumpiendo la circulación. Artículo 122 4 días.
 
-ARTICULO 122 $ 500.00 a $ 1,500.00
+16.- Entrar o salir vehículos fuera de los lugares
 
-16.- Entrar o salir vehículos fuera de los
+señalados en las vías de acceso controladas.
 
-lugares señalados, en las vías públicas
+(Estadios, almacenes, etc). Artículo 125 1 día.
 
-de acceso controladas. (Estadios,
+17.- No ceder el paso a los peatones que se
 
-Almacenes, etc.) ARTÍCULO 125 $ 300.00 a $ 900.00
+encuentran sobre la superficie de rodamiento.
 
-17.- No ceder el paso a los peatones que
+Artículo 129 2 días.
 
-se encuentran sobre la superficie de
+18.- No ceder el paso a los vehículos de
 
-rodamiento. ARTICULO 129 $ 500.00 a $ 1,500.00
+servicios de ambulancias, policía, tránsito,
 
-18.-No ceder el paso a los vehículos del
+bomberos y transporte militar. Artículo 116
 
-servicio de Ambulancia, Policía, Tránsito,
-
-Bomberos y Transporte Militar.
-
-ARTÍCULOS 116 fracción III y 120 $ 1,000.00 a $ 3,000.00
+fracción III y 120 4 días.
 
 19.- Circular con las puertas de seguridad
 
-abiertas. ARTICULO 135 $ 1,000.00 a $ 3,000.00
+abiertas. Artículo 135 2 días.
 
-20.- Llevar pasajeros en el exterior del
+20.- Llevar pasajeros en el exterior del vehículo.
 
-vehículo. ARTÍCULOS 85 y 137 $ 2,000.00 a $ 6,000.00
+Artículo 137 4 días.
 
-21.- Hacer paradas, los vehículos de
+21.- No hacer la parada a los usuarios o hacerla
 
-servicio público de pasajeros, en lugares
+a la mitad del arroyo. Artículo 136 4 días.
 
-no autorizados. ARTICULO 136 $ 300.00 a $ 900.00
+22.- Hacer paradas, los vehículos de servicio
 
-22.- No hacer la parada a los usuarios o
+público de pasajeros en lugares no autorizados.
 
-hacerla a la mitad del arroyo. ARTICULO 136 $ 500.00 a $ 1,500.00
+Artículo 136 8 días.
 
-23.-Circular o realizar maniobras de carga
+23.- Circular o realizar maniobras de carga o
 
-o descarga fuera de las zonas y horas
+descarga fuera de las zonas y horas permitidas.
 
-permitidas. ARTICULO 206 $ 300.00 a $ 900.00
+Artículo 206 4 días.
 
-24.-Cargar combustible con el motor
+24.- Cargar combustibles con el motor
 
-funcionando o con pasaje a bordo.
+funcionando o con pasaje a bordo. Artículo 12 6 días.
 
-ARTÍCULO 112 $ 500.00 a $ 1,500.00
+25.- No llevar la tarifa autorizada. Artículo 35
 
-25.-No llevar la tarifa autorizada.
+fracción II y 134 2 días.
 
-ARTÍCULOS 35 fracción II y 134 $ 1,000.00 a $ 3,000.00
+26.- Causar daño a la vía pública. Artículo 7 4 días.
 
-26.-Causar daño a la vía pública.
+27.- Romper, los autobuses, el cordón de
 
-ARTICULO 7° $ 300.00 a $ 900.00
+circulación sin causa justificada. Artículo 101 3 días.
 
-27.-Romper los autobuses, el cordón de
+28.- Tocar el claxon o bocinas en lugar prohibido
 
-circulación, sin causa justificada.
+o en forma ofensiva. Artículo 128 2 días.
 
-ARTÍCULO 101 $ 300.00 a $ 900.00
+29.- Interrumpir desfiles. Artícu10 102 fracción III 4 días.
 
-28.- Tocar el claxon o bocina en lugar
+III.- DE LAS CONDICIONES, DISPOSITIVOS Y ACCESORIOS NECESARIOS PARA CIRCULAR.
 
-prohibido o en forma ofensiva.
+30.- Carecer de claxon, bocina o timbre. Artículo 34
 
-ARTICULO 128 $ 300.00 a $ 900.00
+fracción II 2 días.
 
-29.- Interrumpir desfiles. ARTICULO 102
+31.- Emplear sirena o silbato accionado con el
 
-fracción III $ 300.00 a $ 900.00
+escape del vehículo. Artículo 34 fracción II 4 días.
 
-III.-DE LAS CONDICIONES, DISPOSITIVOS Y ACCESORIOS NECESARIOS PARA CIRCULAR.
+32.- Carecer de velocímetro o frenos en buenas
 
-30.- Carecer de claxon, bocina o timbre.
+condiciones. Artículo 34 fracciones III y VI 8 días.
 
-ARTICULO 34 fracción II $ 300.00 a $ 900.00
+33.- Carecer de las luces reglamentarias para
 
-31.- Emplear sirena o silbato accionado
+circular. Artículo 34 fracción IV 3días.
 
-con el escape del vehículo. ARTICULO
+34.- Carecer de herramienta para casos de
 
-34 fracción II $ 500.00 a $ 1,500.00
+emergencia o de la llanta auxiliar. Artículo 34
 
-32.- Carecer de velocímetro o frenos en
+fracción V 1 día.
 
-buenas condiciones. ARTICULO 34
+35.- Carecer de espejo retroscópico o limpiadores.
 
-fracciones III y VI $ 500.00 a $ 1,500.00
+Artículo 34 fracciones VII y IX 1día.
 
-33.-Carecer de las luces reglamentarias
+36.- Carecer de botiquín, extinguidor, faroles o
 
-para circular. ARTICULO 34 fracción IV $ 500.00 a $ 1,500.00
+banderas rojas de señalamiento en los casos
 
-34.- Carecer de herramienta para casos
+exigidos por el Reglamento. Artículo 34
 
-de emergencia, o de la llanta auxiliar.
+fracción XII 4 días.
 
-ARTICULO 34 fracción V $ 500.00 a $ 1,500.00
+37.- Usar en vehículos particulares, los colores
 
-35.- Carecer del espejo retroscópico o
+reservados por el Reglamento para otros
 
-limpiadores. ARTICULO 34 fracciones
+vehículos. Artículo 90 4días.
 
-VII y IX $ 300.00 a $ 900.00
+38.- No usar los colores autorizados los
 
-36.- Carecer de botiquín, extinguidor,
+vehículos que para servicios especiales señala
 
-faroles o banderas rojas de señalamiento
+el Reglamento. Artículo 35 fracción I, 36 fracción III
 
-en los casos exigidos por el Reglamento.
-
-ARTICULO 34 fracción XII $ 300.00 a $ 900.00
-
-37.- Usar en vehículos particulares, los
-
-colores reservados por el Reglamento
-
-para otros vehículos. ARTICULO 9° $ 2,000.00 a $ 6,000.00
-
-38.- No usar los colores autorizados, los
-
-vehículos que para servicios especiales
-
-señala el Reglamento. ARTÍCULOS 35
-
-fracción I, 36 fracción III párrafo segundo
-
-y 46 $ 1,000.00 a $ 3,000.00
+párrafo 20. y 46 4 días.
 
 39.- Carecer de las inscripciones o leyendas
 
-exigidas. ARTÍCULOS 35 párrafo segundo,
+exigidas. Artículos 35 párrafo segundo, 36
 
-36 fracciones II, III y IV, y 39, en su parte
+fracciones II, III, IV y 39 parte relativa 3 días.
 
-relativa $ 300.00 a $ 900.00
+40.- Carecer los autobuses de pasajeros y
 
-40.-Carecer los autobuses de pasajeros y
+vehículos similares, de asientos, cristales, timbre,
 
-vehículos similares, de asientos, cristales,
+pasamanos y de más accesorios en buen estado
 
-timbre, pasamanos y demás accesorios
+para seguridad y comodidad de los usuarios.
 
-en buen estado, para seguridad y
+Artículo 39 4días.
 
-comodidad de los usuarios. ARTICULO 39 $ 1,000.00 a $ 3,000.00
+41.- Carecer de una o ambas defensas. Artículo 34
 
-41.-Carecer de una o ambas defensas.
+fracción VIII 1día.
 
-ARTICULO 34 fracción VIII $ 300.00 a $ 900.00
+42.- Carecer de canastilla o compartimiento para
 
-42.-Carecer de canastilla o compartimiento
+bultos o equipaje, los autobuses interurbanos o
 
-para bultos o equipaje, los autobuses
+foráneos. Artículo 44 4 días.
 
-interurbanos o foráneos. ARTICULO 44 $ 300.00 a $ 900.00
+43.- Carecer de lona protectora los transportes
 
-43.-Carecer de lona protectora los
+de materiales para construcción. Artículo 46 3 días.
 
-transportes de materiales de construcción.
+44.- Carecer de rejillas sobre las ventanillas,
 
-ARTICULO 46 $ 500.00 a $ 1,500.00
+los transportes para escolares. Artículo 46
 
-44.-Carecer de rejilla sobre las ventanillas
+párrafo cuarto. 2 días.
 
-los transportes para escolares. ARTICULO
+45.- Usar propaganda luminosa o dispositivos
 
-46 párrafo Cuarto. $ 1,000.00 a $ 3,000.00
+reflejantes que causen deslumbramiento.
 
-45.-Usar propaganda luminosa o
+Artículo 98 fracción III 1 día.
 
-dispositivos reflejantes que causen
+46.- Producir ruido o humo excesivo. Artículo 34
 
-deslumbramiento. ARTICULO 98 fracción III $ 300.00 a $ 900.00
+fracción X 4 días.
 
-46.-Producir ruido o humo excesivos.
+IV.- DE LA VELOCIDAD
 
-ARTICULO 34, fracción X $ 1,000.00 a $ 3,000.00
+47.- Circular a mayor velocidad de la marcada
 
-IV.-DE LA VELOCIDAD.
+en los señalamientos. Artículo 6 4 días.
 
-47.-Circular a mayor velocidad de la que
+48.- No disminuir la velocidad a 20 kms. Por
 
-marcan los señalamientos. ARTICULO 6° $ 1,000.00 a $ 3,000.00
+hora en las intersecciones que carezcan de
 
-48.- No disminuir la velocidad a 20
+señalamiento. Artículo 115 4 días.
 
-kilómetros por hora en las intersecciones
+49.- No disminuir la velocidad a 10 kms. Por
 
-que carezcan del señalamiento.
+hora al circular frente a escuelas, hospitales,
 
-ARTICULO 115 $ 1,000.00 a $ 3,000.00
+lugares de espectáculos y demás centros de
 
-49.- No disminuir la velocidad a 10
+reunión, en las horas que son frecuentados.
 
-kilómetros por hora al circular frente a
+Artículo 115 4 días.
 
-Escuelas, Hospitales, lugares de
+50.- Adelantar a otro vehículo que circule a la
 
-espectáculos y demás centros de
+velocidad máxima permitida, en curvas,
 
-reunión, en las horas que son
+bocacalles y cruceros. Artículo 124 4 días.
 
-frecuentados. ARTICULO 115 $ 1,000.00 a $ 3,000.00
-
-50.- Adelantar a otro vehículo que circule
-
-a la velocidad máxima permitida, en curvas
-
-bocacalles y cruceros, ARTÍCULO 124 $ 1,000,00 a $ 3,000.00
-
-V.-DE LAS SEÑALES.
+V.- DE LAS SEÑALES.
 
 51.- No hacer el conductor las señales
 
-reglamentarias y en la forma oportuna,
+reglamentarias y en forma oportuna, al
 
-al detener o disminuir la velocidad o al
+detener o disminuir la velocidad o al dar
 
-dar vuelta a la derecha o a la izquierda.
+vuelta a la derecha o a la izquierda. Artículo 87
 
-ARTICULO 87 y 88 $ 300.00 a $ 900.00
+y 88. 2 días.
 
-52.- No obedecer la señal de "ALTO".
+52.- No obedecer la señal de alto. Artículo 90
 
-ARTÍCULOS 90, 93 fracción III y 97
-
-fracciones I y IV $ 500.00 a $ 1,500.00
+y 93, fracción III y 97 fracciones I y IV 4 días.
 
 53.- No obedecer la señal que indique el
 
-sentido de la circulación. ARTICULO 90 $ 1,000.00 a $ 3,000.00
+sentido de circulación. Artículo 90 8 días.
 
 54.- Colocar cualquier tipo de propaganda,
 
 anuncios y objetos, sobre las señales o
 
-dispositivos de tránsito. ARTICULO 98
+dispositivos de tránsito. Artículo 98
 
-fracciones I y II $ 500.00 a $ 1,500.00
+fracciones I y II 4 días.
 
-55.-Destruir la señales o dispositivos de
+55.- Destruir las señales o dispositivos de
 
-tránsito; o cambiarlas de lugar. ARTICULO
+Tránsito o cambiarlas de lugar. Artículo 98
 
-98 fracción IV $ 1,000.00 a $ 3,000.00
+fracción IV 8 días.
 
-VI.-DEL ESTACIONAMIENTO.
+VI.- DEL ESTACIONAMIENTO.
 
-56.-Estacíonarse en forma distinta a la
+56.- Estacionarse en forma distinta a la
 
-autorizada. ARTICULO107 $ 500.00 a $ 1,500.00
+autorizada. Artículo 107 2 días.
 
-57.-Estacionarse en doble o triple fila.
+57.- Estacionarse en doble o triple fila. Artículo 107 3 días.
 
-ARTICULO 107 $ 500.00 a $ 1,500.00.
+58.- Estacionarse fuera de los lugares permitidos.
 
-58.-Estacionarse fuera de los lugares
+###### Artículo 108.
 
-permitidos. ARTICULO 108 $ 500.00 a $ 1,500.00
+3 días.
 
-59.-Estacionarse a menos de 10 Mts. De
+59.- Estacionarse a menos de 10 mts. De
 
-las esquinas que no tengan limitación
+Esquinas que no tengan limitación marcada.
 
-marcada. ARTICULO108; de un hidrante
+Artículo 108; de un hidrante o toma de agua,
 
-o toma de agua, de un letrero de alto o
+de un letrero de alto o señal de control de
 
-señal de control, de la entrada de Bomberos,
+la entrada de bomberos, Tránsito o Policía.
 
-Tránsito o Policía. ARTICULO189 $ 300.00 a $ 900.00
+Articulo 189 3 días.
 
-60.-Estacionarse en o cerca de una curva
+60.- Estacionarse en o cerca de una curva o
 
-o cima. ARTICULO108; sobre un puente o
+cima. Artículo 108; sobre un puente o paso a
 
-paso a desnivel. ARTICULO 189 $ 500.00 a $ 1,500.00
+desnivel. Artículo 189 4 días.
 
-61.-Estacionarse en una intersección.
+61.- Estacionarse en una intersección. Artículo 189 8 días.
 
-ARTICULO189 $ 500.00 a $ 1,500.00
+62.- Estacionarse en el cruce o zona de peatones.
 
-62.-Estacionarse en el cruce o zona de
+ArtículoI89 3 días.
 
-peatones. ARTICULO189 $ 500.00 a $ 1,500.00
+63.- Estacionarse frente a un entrada o salida
 
-63.-Estacionarse frente a una entrada o
+de vehículos causando molestias. Artículo 189 3 días.
 
-salida de vehículos causando molestias.
+64.- Estacionarse en vías angostas impidiendo
 
-ARTICULO189 $ 500.00 a $ 1,500.00
+la circulación sobre las banquetas. Artículo 189 8 días.
 
-64.-Estacionarse en vías angostas
+65.- Estacionarse dentro de una distancia de
 
-impidiendo la circulación o sobre las
+20 mts. del cruce del ferrocarril. Artículo 189 4 días.
 
-banquetas. ARTICULO189 $ 500.00 a $ 1,500.00
+66.- Estacionarse a menos de 50 mts. del lugar
 
-65.- Estacionarse dentro de una distancia
+donde estén operando los carros de bomberos.
 
-de 20 metros del cruce del ferrocarril.
+Artículo 189 2 días.
 
-ARTICULO189 $ 500.00 a $ 1,500.00
+67.- Estacionarse más del tiempo permitido en
 
-66.- Estacionarse a menos de 50 metros
+los lugares autorizados. Artículo 187 y 190 3 días.
 
-del lugar donde están operando los carros
-
-de Bomberos. ARTICULO 189 $ 300.00 a $ 900.00
-
-67.- Estacionarse más del tiempo permitido
-
-en lugares autorizados. ARTÍCULOS 187
-
-y 190 $ 300.00 a $ 900.00
-
-VII.-DE LOS ESTACIONAMIENTOS.
+VII.- DE LOS ESTACIONAMIENTOS
 
 68.- No colocar la señal que indique
 
 "NO HAY LUGAR" u otra similar, cuando
 
-el estacionamiento haya cubierto su
+el estacionamiento haya cubierto su máxima
 
-máxima capacidad. ARTICULO193 $ 500.00 a $ 1,500.00
+capacidad. Artículo 193 2días.
 
-69.- No colocar en lugar visible el cuadro
+69.- No colocar en lugar visible el cuadro que
 
-que indique el cupo, tarifa autorizada y
+indique el cupo, tarifa autorizada y horario de
 
-horario de servicio. ARTICULO 196 $ 1,000.00 a $ 3,000.00
+servicio. Artículo 196 2 días.
 
-70.- Admitir vehículos en número mayor
+70.- Admitir vehículos en número mayor al
 
-al autorizado. ARTICULO 193 $ 1,000.00 a $ 3,000.00
+autorizado. Artículo 193 2 días.
 
-71.-No contar con el equipo Reglamentario
+71.-No contar con el equipo reglamentario contra
 
-contra incendio, el cual deberá estar en
+incendio en buenas condiciones. Artículo 192
 
-buenas condiciones de uso. ARTICULO 192
+fracción II 8 días.
 
-fracción II $ 500.00 a $ 1,500.00
+72.- Carecer del número necesario de
 
-72.-Carecer del número necesario de
+acomodadores con licencia de chofer y de
 
-acomodadores con licencia de chofer y
+banderero. Artículo 192 fracciones III y VIII 8 días.
 
-de bandereros. ARTICULO 192 fracciones
+VIII.- DE LAS PLACAS, CALCOMANÍAS TARJETAS DE CIRCULACIÓN.
 
-III y VIII $ 500.00 a $ 1,500.00
+73.- Circular sin placas correspondientes.
 
-VIII.- DE LAS PLACAS, CALCOMANÍAS Y TARJETAS DE CIRCULACIÓN.
+Artículo 12 8 días.
 
-73.-Circular sin las placas correspondientes.
+Tratándose de moto 2 días.
 
-ARTICULO 12 $ 1,500.00 a $ 4,500.00
+O bicicleta 1día.
 
-TRATÁNDOSE DE MOTOCICLETAS $ 300.00 a $900.00
+74.- Circular con placas que no corresponden
 
-TRATÁNDOSE DE BICICLETAS $100.00 a $ 300.00
-
-74.-Circular con placas que no correspondan
-
-al vehículo. ARTICULO 25 $ 2,000.00 a $ 6,000.00
+al vehículo. Artículo 25 24 días.
 
 75.- Permitir el uso de las placas en otros
 
-vehículos. ARTICULO 25 $ 2,000.00 a $ 6,000.00
+vehículos. Artículo 25 24días.
 
-76.- No llevar las placas adecuadamente
+76.- No llevar las placas adecuamente en el
 
-en el lugar destinado para ese objeto.
+lugar destinado para ese objeto. Artículo 29 2 días.
 
-ARTICULO 29 $ 500.00 a $ 1,500.00
-
-77.- Falta de tarjeta de circulación.
-
-ARTICULO 12 $ 300.00 a $ 900.00
+77.- Falta de tarjeta de circulación. Artículo 12 3 días.
 
 78.- No llevar la calcomanía de identificación
 
-en el lugar señalado. ARTICULO 12 y 29 $ 300.00 a $ 900.00
+en el lugar señalado. Artículo 12 y29 1día.
 
-79.- Usar indebidamente las placas de
+79.- Por canje extemporáneo de placas. Artículo 28 16 días.
 
-demostración. ARTICULO 28 $ 1,000.00 a $ 3,000.00
+80.- Por canje extemporáneo de placas. Artículo 33. 4 días.
 
-80.-Por canje extemporáneo de placas.
+IX.- DE LA VARIACIÓN DE LAS CARACTERÍSTICAS DISTINTIVAS DE LOS VEHÍCULOS
 
-ARTICULO 33 $ 300.00 a $ 900.00
+81.- Alterar el número del motor o del chasis.
 
-IX.-DE LA VARIACIÓN DE LAS CARACTERÍSTICAS DISTINTIVAS DE LOS VEHÍCULOS.
+Artículo 17 80 días.
 
-81.-Alterar el número de motor o del chasis.
+82.- No dar aviso oportuno del cambio o remarque
 
-ARTICULO 17 $ 2,000.00 a $ 6,000.00
+del número del motor o chasis. Artículo 17 40 días.
 
-82.-No dar aviso oportuno del cambio de
+83.- Alterar o destruir parcialmente las placas que
 
-número del motor o del chasis. ARTICULO 17 $ 1,000.00 a $ 3.000.00
+identifiquen el vehículo. Artículo 30 4 días.
 
-83.-Alterar o destruir, parcialmente las
+84.- Llevar sobre las placas o anexas a ellas,
 
-placas que identifican al vehículo.
+objetos o inscripciones que impidan ver con
 
-ARTÍCULO 30 $ 1,000.00 a $ 3,000.00
+claridad sus características. Artículo 30 2 días.
 
-84.-Llevar sobre las placas, o anexas a ellas,
+85.- No dar aviso oportuno en los casos de
 
-objetos o instrucciones que impidan ver con
+fallecimiento del propietario o poseedor de un
 
-claridad sus características. ARTÍCULO 30 $ 500.00 a $ 1,500.00
+vehículo; de compra-venta o depósito legal.
 
-85.-No dar aviso oportuno en los siguientes casos;
+Artículo 13 y 25 2 días.
 
-a) Del fallecimiento del propietario o poseedor del vehículo.
+X.- DE LAS LICENCIAS
 
-b) Del cambio del propietario del vehículo.
+86.- Conducir vehículos o permitir que se haga sin la licencia o permiso correspondiente. Artículos 60, 66, 67, 69,72, 73 Y 75.
 
-c) Del cambio de domicilio del propietario del vehículo.
+Licencia de motociclista 3 días.
 
-d) Del cambio de color del vehículo.
+Licencia de automovilista 6 días
 
-ARTÍCULOS 13 y 25 $ 500.00 a $ 1,500.00
+Licencia para conducir camioneta 7 días
 
-X.-DE LAS LICENCIAS.
+Licencia para conducir camión 7 días.
 
-86.- Conducir vehículos o permitir que se haga sin la licencia o permiso correspondiente. ARTÍCULOS 60, 66, 67, 69, 72, 73 Y 75, tales como:
+87.- Conducir vehículos de pasajeros o de carga
 
-a) De motociclista $ 500.00 a $ 1,500.00
+sin la antigüedad de dos años como chofer, o
 
-b) De automovilista $ 1,000.00 a $ 3,000.00
+permitir conducción del vehículo a quienes no
 
-c) De conductor de camioneta $ 2,000.00 a $ 6,000.00
+tienen este requisito. Artículo 64 8 días.
 
-d) De conductor de camión $ 2,000.00 a $ 6,000.00
+88.- Refrendo extemporáneo de licencia.
 
-87.-Conducir vehículos de pasajeros o de
+Artículo 69 2 días.
 
-carga careciendo de la autorización
+XI.- DE LA FUGA
 
-correspondiente o permitir la conducción
+89.- La fuga del conductor se sancionará con
 
-del vehículo a quienes no llenen este
+multa de. Artículo 230 16 días.
 
-requisito. ARTICULO 64 $ 1,000.00 a $ 3,000.00
+En caso de existir lesionados, la fuga se
 
-88.-Refrendo extemporáneo de licencias.
+sancionará con multa de. Artículo 130 40 días.
 
-ARTICULO 69 $ 200.00 a $ 600.00
+XII.- DEL TRANSPORTE
 
-XI.-DE LA FUGA.
-
-89.-Fuga del conductor. ARTICULO 230 $ 1,000.00 a $ 3,000.00
-
-En caso de existir lesionados la fuga se
-
-sancionará con multa de $ 2,000.00 a $ 6,000.00
-
-XII.- DEL TRANSPORTE.
-
-90.-Transportar en vehículos destinados a
+90.- Transportar en vehículos destinados a
 
 pasajeros, animales, bultos u otros objetos
 
-que causen molestias a los pasajeros.
+que causen molestias a los pasajeros. Artículo 43 4 días.
 
-ARTICULO 43 $ 300.00 a $ 900.00
+91.- Transportar vísceras, líquidos y suspensiones
 
-91.- Transportar vísceras, líquidos y
+en vehículos no acondicionados para ello.
 
-suspensiones en vehículos no
+Artículo 46 párrafo 20 y 30 8 días.
 
-acondicionados para ello. ARTICULO 46
+92.- Transportar materias u objetos repugnantes
 
-párrafos Segundo y Tercero $ 1,000.00 a $ 3,000.00
+a la vista o al olfato, sin las precauciones
 
-92.-Transportar materias u objetos
+necesarias y el permiso correspondiente.
 
-repugnantes a la vista o al olfato sin
+Artículo 50 8 días.
 
-las precauciones necesarias y el
+93.- Transportar materias inflamables o explosivas,
 
-permiso correspondiente. ARTICULO 50 $ 1,000.00 a $ 3,000.00
+sin las precauciones debidas y la autorización
 
-93.-Transportar materia inflamable o
+correspondiente. Artículos 51 y 52 20 días.
 
-explosiva sin las precauciones debidas
-
-y la autorización correspondiente.
-
-ARTÍCULOS 51 y 52 $ 2,000.00 a $ 6,000.00
-
-94.-Transportar objetos que rebasen las
+94.- Transportar objetos que rebasen las
 
 dimensiones autorizadas sin las señales
 
-correspondientes. ARTICULO 53 $ 1,000.00 a $ 3,000.00
+correspondientes. Artículo 53 8 días.
 
-95.- Transportar ganado bravo o bestias
+95.- Transportar ganado bravo o bestias peligrosas
 
-peligrosas sin las precauciones debidas.
-
-ARTICULO 58 $ 2,000.00 a $ 6,000.00
-
-XIII.-DE LAS REVISTAS.
-
-96.- No pasar oportunamente la revista,
-
-los vehículos señalados en el Reglamento.
-
-ARTICULOS35 fracción III y 41 $ 500.00 a $ 1,500.00
-
-97.-Por olvido de los documentos necesarios
-
-para circular o para efectuar el servicio
-
-autorizado. ARTÍCULOS 12, 38, 60 y 163 $ 300.00 a $ 900.00
+sin las precauciones debidas. Artículo 58 8 días.
 
 ###### Artículo 242.
 
@@ -2831,3 +2731,7 @@ Las licencias en vigor al llegar a su término de vigencia, se refrendarán o ca
 ###### ARTICULO CUARTO.
 
 Si algún conductor quisiera cambiar su licencia por el nuevo modelo antes de su vencimiento, previos los pagos establecidos podrá hacerlo considerándose refrendo y en la nueva autorización se le fijarán tres años de vigencia a partir de la fecha de exedición (sic) del nuevo documento.
+
+P.O. 21 DE SEPTIEMBRE DE 1993.
+
+ÚNICO.- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
