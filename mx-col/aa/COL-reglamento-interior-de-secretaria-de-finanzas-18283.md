@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-secretaria-de-finanzas-18283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-16"
-last_updated: "2004-10-02"
+last_updated: "2005-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 16 de septiembre de 2000.
 
@@ -53,43 +53,53 @@ b) Secretaría, a la Secretaría de Finanzas;
 
 c) Secretario, al titular de la Secretaría de Finanzas;
 
-d) Unidades Administrativas, a las Direcciones de: Ingresos, Egresos, Contabilidad y Registro de Deuda, Presupuesto y Evaluación Hacendaria, Auditoría Fiscal, Catastro, a la Coordinación General Administrativa y a la Unidad de Asesoría Financiera; y
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
 
-e) Titulares de Unidades Administrativas a los Directores, al Coordinador General y al Jefe de la Unidad.
+d).- Unidades Administrativas, a las Direcciones de: Ingresos, Egresos, Contabilidad y Registro de Deuda, Presupuesto y Evaluación Hacendaría, Auditoría Fiscal y Catastro; a la Dirección General Jurídica; a la Coordinación General Administrativa, a la Coordinación de Informática y a la Unidad de Asesoría Financiera; y
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+e).- Titulares de Unidades Administrativas, al Director General, a los Directores, a los Coordinadores y a los Jefe de las Unidad de Asesoría Financiera.
 
 Las denominaciones que por simplificación aquí se señalan, son enunciativas y no limitan u obligan a su utilización invariable.
 
-En razón de la naturaleza y trascendencia de las funciones que se desarrollan en las Receptorías de Rentas, dependientes de la Dirección de Ingresos, se señalarán las facultades y obligaciones de sus titulares de manera específica.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 3º.
 
 Para el desarrollo de sus funciones, la Secretaría contará, además del Despacho del Secretario, con las siguientes Unidades Administrativas:
 
-DIRECCION DE INGRESOS
+I.- Dirección de Ingresos;
 
-DIRECCION DE EGRESOS, CONTABILIDAD Y REGISTRO DE DEUDA
+II.- Dirección de Egresos, Contabilidad y Registro de Deuda;
 
-DIRECCION DE PRESUPUESTO Y EVALUACION HACENDARIA
+III.- Dirección de Presupuesto y Evaluación Hacendaría;
 
-DIRECCION DE AUDITORIA FISCAL
+IV.- Dirección de Auditoría Fiscal;
 
-DIRECCION DE CATASTRO
+V.- Dirección General Jurídica;
 
-COORDINACION GENERAL ADMINISTRATIVA
+VI.- Dirección de Catastro;
 
-UNIDAD DE ASESORIA FINANCIERA
+VII.- Coordinación General Administrativa;
 
-RECEPTORIAS DE RENTAS
+VIII.- Coordinación de Informática;
 
-El Secretario también podrá contar con asesores técnicos que le elaboren análisis hacendarios que le apoyen en el cumplimiento de sus facultades o atribuciones, de acuerdo al presupuesto de egresos que se autorice.
+IX.- Unidad de Asesoría Financiera; y
+
+X.- Receptorías de Rentas
+
+El Secretario también podrá contar con asesores que le elaboren análisis técnicos que le apoyen en el cumplimiento de sus facultades o atribuciones.
 
 ###### ARTICULO 4º.
 
 Los titulares de las Unidades Administrativas de la Secretaría, desempeñarán su cargo con base en los ordenamientos señalados en el Artículo 1º de este Reglamento de manera enunciativa, pero no limitativa.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
 
-Para los efectos del párrafo anterior, son autoridades fiscales, además del Secretario de Finanzas, los titulares de la Dirección de Ingresos, de la Dirección de Auditoría Fiscal y de las Receptorías de Rentas.
+Para los efectos del párrafo anterior, son autoridades fiscales, además del Secretario de Finanzas, los titulares de la Dirección de Ingresos, de la Dirección de Auditoría Fiscal, de la Dirección General Jurídica y de las Receptorías de Rentas.
 
 ### CAPITULO II. DE LAS FACULTADES DEL SECRETARIO
 
@@ -115,7 +125,9 @@ VI.- Aprobar la organización y operación de las Unidades Administrativas, y at
 
 VII.- Establecer las Unidades de Asesoría o Apoyo Técnico que se requieran para el mejor funcionamiento de la Secretaría;
 
-VIII.- Expedir los manuales de organización, procedimientos y servicios al público de la Secretaría, en coordinación con la Oficialía Mayor de Gobierno;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+VIII.- Expedir los manuales de organización, procedimientos y servicios al público de la Secretaría, en coordinación con la Secretaría de Administración;
 
 IX.- Planear y proyectar el presupuesto de ingresos, base para la elaboración e integración del presupuesto de egresos de cada ejercicio fiscal;
 
@@ -125,9 +137,17 @@ XI.- Presentar al Gobernador del Estado los anteproyectos de ley de ingresos, pr
 
 XII.- Someter anualmente a la consideración del Gobernador, la política fiscal y financiera estatal;
 
-XIII.- Tramitar anualmente por acuerdo expreso del Gobernador, los proyectos de leyes de ingresos, presupuesto de egresos del estado y demás ordenamientos necesarios para que la Secretaría desarrolle las funciones a su cargo;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XIV.- Autorizar y en su caso, firmar, previa anuencia del Gobernador, los convenios, acuerdos, contratos u operaciones crediticias que celebre el Gobierno del Estado con otras dependencias, entidades, instituciones bancarias o con personas físicas o morales en general, en todos aquellos casos en que se comprometa el patrimonio económico o el erario del Estado. En materia de cheques o pagos electrónicos con cargo a las cuentas del gobierno estatal, autorizar las firmas que mancomunadamente deban girarlos o liberarlos;
+XIII.- Elaborar y presentar, a través de la Secretaria General de Gobierno, los proyectos de ley de ingresos y presupuesto de egresos del estado, así como de los demás ordenamientos necesarios para que la Secretaría desarrolle las funciones a su cargo;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XIV.- Autorizar y en su caso, firmar, previa anuencia del Gobernador, los convenios, acuerdos, contratos u operaciones crediticias que celebre el Gobierno del Estado con otras dependencias, entidades, instituciones bancarias o con personas físicas o morales en general, en todos aquellos casos en que se comprometa el patrimonio económico o el erario del Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XIV BIS.- Determinar las instituciones bancarias en que operarán las cuentas de la Secretaría, y autorizar o revocar los nombres y firmas de los funcionarios que mancomunadamente deberán firmar los cheques y en su caso las transferencias y pagos electrónicos;
 
 XV.- Expedir lineamientos sobre asuntos de su competencia que sea necesario conozcan las demás dependencias, organismos y entidades y proporcionarles la información y cooperación técnica correspondiente;
 
@@ -137,25 +157,41 @@ XVII.- Gestionar los apoyos extraordinarios o financiamientos necesarios, ante e
 
 XVIII.- Suscribir, conjuntamente con el Gobernador y las autoridades federales o municipales correspondientes, convenios de coordinación o colaboración en materia administrativa, financiera, fiscal o hacendaria en general;
 
-XIX.- Celebrar convenios y contratos relativos a los servicios bancarios que deba utilizar el gobierno estatal;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XX.- Suscribir las garantías que legalmente deban otorgarse a nombre del gobierno estatal, cuando se satisfagan los requisitos legales correspondientes;
+XIX.- Celebrar convenios y contratos relativos a los servicios bancarios que deba utilizar el gobierno estatal, así como con otros organismos públicos o privados para la recaudación de ingresos estatales o federales coordinados;
 
-XXI.- Autorizar los sistemas de recaudación y administración de impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos, aprovechamientos y, en general, de todo ingreso que corresponda al Estado en los términos de las leyes respectivas; así como los sistemas de programación del gasto y su ejercicio presupuestal, priorizando la liberación de recursos en función de disponibilidades financieras y urgencias de las acciones;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XX.- Suscribir las garantías y avales que legalmente deban otorgarse por el gobierno estatal, cuando se satisfagan los requisitos legales correspondientes;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXI.- Autorizar los sistemas de recaudación y administración de impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos, aprovechamientos y, en general, de todo ingreso que corresponda al Estado en los términos de las leyes respectivas; así como los sistemas de programación del gasto y su ejercicio presupuestal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE FEBRERO DE 2005)</small>
 
 XXII.- Designar al personal de la Secretaría como participante o representante en las comisiones, congresos, consejos, organizaciones, y ante las instituciones federales, estatales, municipales y privadas a que haya lugar;
 
-XXIII.- Autorizar a las instituciones de crédito o a las Receptorías de Rentas del Estado para recibir declaraciones y contribuciones federales y sus accesorios, que conforme a los convenios respectivos procedan;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XXIV.- Resolver sobre las solicitudes de condonación o reducción de las multas impuestas en el ejercicio las facultades de comprobación del cumplimiento de obligaciones fiscales estatales y federales coordinadas;
+XXIII.- Autorizar a las Receptorías de Rentas, a las instituciones de crédito, así como a otros organismos públicos o privados para recibir declaraciones y contribuciones federales y sus accesorios, que conforme a los convenios respectivos procedan;
 
-XXV.- Las demás que le confiera el Gobernador o le faculten las disposiciones legales vigentes y que no estén de manera expresa señaladas en este artículo.
+XXIV.- (DEROGADA, P.O. 19 DE FEBRERO DE 2005)
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXV.- Las demás que con ese carácter le confiera el Gobernador o le faculten las disposiciones legales vigentes y que no estén de manera expresa señaladas en este artículo.
 
 ### CAPITULO III. FUNCIONES Y RESPONSABILIDADES GENERALES DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 7º.
 
-Al frente de cada Unidad Administrativa habrá un titular responsable, quien principalmente se auxiliará para delegar funciones y responsabilidades del personal que jerárquicamente les siga, llámense: coordinadores, subdirectores, jefes de departamento, de oficina y demás servidores públicos que las necesidades del servicio requieran y figuren en el Presupuesto de Egresos del Estado de manera específica o general.
+Al frente de cada Unidad Administrativa habrá un titular responsable, quien principalmente se auxiliará para delegar funciones y responsabilidades del personal que jerárquicamente les siga, llámense: coordinadores, subdirectores, jefes de departamento, de oficina y demás servidores públicos que las necesidades del servicio requieran, atendiendo en todo caso la disponibilidad presupuestal de la dependencia.
+
+Los titulares de: la Dirección de Ingresos, la Dirección de Auditoría Fiscal, la Dirección General Jurídica y las Receptorías de Rentas, están facultados para administrar contribuciones federales en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, para lo cual ejercerán las atribuciones señaladas en el presente Reglamento Interior y aplicarán las disposiciones legales que correspondan, considerándose en su actuación como autoridades fiscales federales, en congruencia con lo dispuesto por la Ley de Coordinación Fiscal.
 
 ###### ARTICULO 8º.
 
@@ -163,7 +199,9 @@ Corresponde a los titulares de las Unidades Administrativas, las funciones espec
 
 I.- Proponer al Secretario los planes y programas anuales de trabajo del área a su cargo para su revisión y autorización;
 
-II.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las acciones correspondientes a su área de responsabilidad;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+II.- Planear y programar las acciones correspondientes a su área, así como organizar, dirigir, controlar y evaluar el desempeño de su personal;
 
 III.- Informar mensual y anualmente al Secretario sobre el avance, cumplimiento y desviaciones más significativas de los objetivos y metas programadas por área de trabajo;
 
@@ -187,103 +225,103 @@ XII.- Cumplir y hacer cumplir las leyes, decretos, reglamentos, convenios, acuer
 
 XIII.- Mantener oportunamente informado al Secretario sobre los asuntos de su competencia general o particular, así como los que expresamente se les haya encomendado;
 
-XIV.- Suscribir los documentos correspondientes al ejercicio de sus atribuciones, así como todos los demás que por delegación o suplencia le correspondan;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XIV.- Expedir constancias y certificaciones de la información que obra en la unidad administrativa previo pago de los derechos correspondientes, siempre que no se trate de información reservada de conformidad con las leyes respectivas;
 
 XV.- Desempeñar las comisiones que le sean encomendadas por el Secretario y mantenerle oportunamente informado sobre el desarrollo y resultados de las mismas;
 
 XVI.- Cumplir y vigilar el cumplimiento de las disposiciones administrativas dictadas por el Secretario;
 
-XVII.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como todos los demás que por delegación o suplencia les correspondan, incluso podrán revocar los actos que ellos emitan, o los emitidos por las Unidades Administrativas que de ellos dependan, y
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XVIII.-Las demás que les sean conferidas por otras disposiciones legales, así como las que expresa y legalmente les señale el Secretario.
+XVII.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como todos los demás que por delegación o suplencia les correspondan, incluso podrán revocar los actos que ellos emitan, sin perjuicio de lo establecido por las disposiciones fiscales aplicables, o los emitidos por los servidores públicos o las Unidades Administrativas que operativamente de ellos dependan, así como proporcionar a las autoridades competentes, datos e informes que la Unidad Administrativa posea en el ejercicio de sus atribuciones, siempre que no se trate de información reservada de conformidad con las leyes respectivas; y
+
+XVIII.- Las demás que les sean conferidas por otras disposiciones legales, así como las que expresa y legalmente les señale el Secretario.
 
 ### CAPITULO IV. FUNCIONES Y RESPONSABILIDADES ESPECIFICAS DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 9º.
 
-Son funciones y responsabilidades del Director de Ingresos, las siguientes:
+El Director de Ingresos tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario, el programa anual de trabajo del área;
 
-II.- Aplicar las disposiciones jurídicas en materia de ingresos y la política que sobre la misma le señale el Secretario;
+II.- Programar, recaudar, vigilar y gestionar el correcto y oportuno ingreso de los recursos financieros y tributarios provenientes de la aplicación de la Ley de Ingresos del Estado y otros conceptos que deba percibir el Gobierno Estatal por cuenta propia y ajena, aplicando las disposiciones fiscales que correspondan y la política fiscal que señale el Secretario;
 
-III.- Encontrar y establecer las mejores estrategias para incrementar los ingresos fiscales del Estado, tanto los provenientes de las participaciones y aportaciones federales, como de las fuentes locales;
+III.- Encontrar y establecer las mejores estrategias para incrementar los ingresos fiscales del Estado;
 
-IV.- Integrar los elementos y proponer las bases para la formulación del anteproyecto anual de la Ley de Ingresos y demás ordenamientos legales del ámbito tributario;
+IV.- Integrar los elementos y proponer las bases para la formulación del anteproyecto anual de la Ley de Ingresos y proporcionar a la Dirección General Jurídica los correspondientes a los demás ordenamientos fiscales que requieran modificación para el mejor ejercicio de sus atribuciones;
 
 V.- Participar en el análisis de los convenios y acuerdos que se celebren con el Gobierno Federal o los Municipios, en materia de coordinación o concurrencia fiscal, así como de colaboración administrativa;
 
-VI.- Calcular las disponibilidades de ingreso y compromisos de gasto del Estado, con base en la información que proporcione la Secretaría de Hacienda y Crédito Público, las propias fuentes financieras de la Secretaría, los convenios o acuerdos con las diferentes Dependencias federales, la de los Poderes Ejecutivo y Judicial locales, así como la de Dependencias y Entidades Paraestatales;
+VI.- Calcular las disponibilidades de ingreso, con base en la información que proporcione la Secretaría de Hacienda y Crédito Público, las propias fuentes financieras de la Secretaría, los convenios o acuerdos con las diferentes Dependencias federales, la de los Poderes Ejecutivo y Judicial locales, así como la de Dependencias y Entidades Paraestatales;
 
-VII.- Expedir las credenciales y constancias de identificación al personal actuante en el ejercicio de las facultades previstas en las leyes fiscales del Estado y en los convenios o acuerdos celebrados con la Federación o los Ayuntamientos;
+VII.- Expedir las constancias de identificación al personal adscrito a la Dirección a su cargo;
 
-VIII.- Participar en la elaboración del anteproyecto del Presupuesto de Egresos y elaborar el anteproyecto de la Ley de Ingresos, Ley de Hacienda y demás disposiciones en materia fiscal;
+VIII.- Elaborar el anteproyecto de Ley de Ingresos del Estado y participar en la elaboración del anteproyecto del Presupuesto de Egresos y demás proyectos de iniciativas de decreto que conformen el paquete económico anual, en materia de su competencia;
 
-IX.- Programar y elaborar el sistema de estadística económica fiscal, en coordinación con otras dependencias del Poder Ejecutivo y Unidades Administrativas de la Secretaría;
+IX.- Elaborar el sistema de estadística económica fiscal, en coordinación con otras dependencias del Poder Ejecutivo y Unidades Administrativas de la Secretaría;
 
-X.- Realizar estudios en materia de recaudación, sobre los factores que influyen en el cumplimiento de las obligaciones fiscales de los contribuyentes y proponer medidas para alcanzar mayores índices en los ingresos;
+X.- Realizar estudios en materia de recaudación, sobre los factores que influyen en el cumplimiento de las obligaciones fiscales de los contribuyentes y proponer medidas para alcanzar mayores niveles de ingresos;
 
 XI.- Colaborar en la formulación de la política de estímulos fiscales, en paralelo con las áreas comprometidas con esta tarea;
 
 XII.- Proporcionar orientación técnica a los contribuyentes respecto al cumplimiento de sus obligaciones fiscales y realizar campañas de difusión en materia fiscal, resolviendo en el ámbito de su competencia las consultas que sobre situaciones reales y concretas le planteen los interesados individualmente, conforme a las disposiciones legales aplicables y la normatividad emitida al efecto por las autoridades competentes;
 
-XIII.- Integrar y mantener actualizados los padrones de contribuyentes; así como el de vehículos a los que se expidan placas de circulación en la jurisdicción territorial del Estado, para incorporar este último al Sistema Integral de Información Tributaria;
+XIII.- Integrar, controlar, vigilar y mantener actualizado del Registro Estatal de Contribuyentes, el padrón de vehículos a los que se expidan placas de circulación en la jurisdicción territorial del Estado y los padrones de contribuyentes respecto de las contribuciones federales y municipales coordinadas;
 
-XIV.- Participar en el diseño de las formas oficiales de recaudación e implantar los sistemas, procedimientos y métodos en las Receptorías de Rentas;
+XIV.- Diseñar las formas oficiales de recaudación y someterlas a la aprobación del Secretario, tramitando lo necesario para su publicación y puesta en operación; así como implantar los sistemas, procedimientos y métodos en las Receptorías de Rentas;
 
 XV.- Dirigir las labores de verificación del cumplimiento de las obligaciones fiscales por parte de los contribuyentes y propietarios de vehículos con placas de circulación expedidas por el Gobierno del Estado de Colima;
 
-XVI.- Efectuar la glosa diaria de la documentación comprobatoria de los ingresos que se operen en las Receptorías de Rentas del Estado; así como informar sobre las cuentas correspondientes a la Secretaría de Hacienda y Crédito Público por el movimiento de recaudación de los impuestos federales establecidos en convenio;
+XVI.- Efectuar la glosa diaria de la documentación comprobatoria de los ingresos que se operen en las Receptorías de Rentas y demás instituciones autorizadas para su recepción;
 
-XVII.- Vigilar que las Receptorías de Rentas apliquen en forma oportuna y con apego a las disposiciones legales que lo rigen, el procedimiento administrativo de ejecución para recuperar los créditos fiscales de los contribuyentes incumplidos;
+XVII.- Vigilar que las Receptorías de Rentas requieran en forma oportuna a los diversos obligados, el cumplimiento de las obligaciones fiscales omitidas y apliquen con apego a las disposiciones legales que lo rigen, el procedimiento administrativo de ejecución para recuperar los créditos fiscales a cargo de los contribuyentes incumplidos;
 
 XVIII.- Revisar las declaraciones y recibos de pago de contribuciones, para determinar que se hubiesen elaborado y efectuado correctamente, ordenando a las Receptorías de Rentas correspondientes el cobro de las diferencias que procedan;
 
-XIX.- Atender y en su caso autorizar, por acuerdo del Secretario: las solicitudes de pago de créditos fiscales de manera diferida o en parcialidades, con garantía del interés fiscal; las solicitudes de devolución de impuestos o de cantidades pagadas indebidamente al Estado; de condonación o reducción de multas impuestas por las Receptorías de Rentas; así como del reconocimiento de créditos en contra de éste para efectos de su compensación, derivados de contribuciones estatales o federales coordinadas;
+XIX.- Autorizar las solicitudes de pago de créditos fiscales de manera diferida o en parcialidades, con garantía del interés fiscal, así como las de reconocimiento de créditos estatales o federales coordinados en contra del Estado, y revocar dichas autorizaciones en términos de las leyes estatales y federales aplicables, para efectos de su compensación;
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+XX.- Verificar y autorizar las solicitudes de devolución presentadas por concepto de saldos a favor, pago de lo indebido o pago en exceso, requiriendo la documentación, datos e informes necesarios para determinar su procedencia; así como determinar y cobrar las diferencias por devoluciones improcedentes e imponer las multas que correspondan, tanto en materia estatal como federal;
 
-XIX BIS.- Revocar las autorizaciones para pagar los créditos fiscales a plazos, ya sean en forma diferida o en parcialidades, cuando el contribuyente se coloque en las causales establecidas por las disposiciones fiscales aplicables, tanto en materia de ingresos estatales como de federales coordinados e instruir al jefe de la oficina ejecutora correspondiente, para que proceda a exigir el saldo insoluto del adeudo y los accesorios causados, por medio del procedimiento administrativo de ejecución;
+XXI.- Revisar y autorizar en su caso, la cancelación de créditos fiscales estatales o federales coordinados, por incosteables, incobrables o tratarse de contribuyentes insolventes; expedir los acuerdos de suspensión o baja de contribuyentes no localizados; y, declarar la prescripción de los referidos créditos previo dictamen técnico de la Dirección General Jurídica;
 
-XX.- Revisar y autorizar en su caso, la cancelación de créditos fiscales estatales o federales coordinados, así como los acuerdos de suspensión o baja de contribuyentes no localizados;
+XXII.- Enviar oportunamente a las Receptorías de Rentas los padrones y documentos de gestión relativos a contribuyentes que tengan su domicilio en los municipios de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+XXIII.- Custodiar las garantías del interés fiscal, las formas valoradas, valores calcomanías fiscales vehiculares y demás bienes y documentos que se encuentren bajo su responsabilidad o se le confíen para su guarda;
 
-XXI.- Hacer efectivos, a través del procedimiento administrativo de ejecución, los documentos suscritos a favor del erario estatal y otros cuyo cobro esté encomendado a la Secretaría, que para este efecto se equipararán a créditos fiscales, de acuerdo con las prevenciones respectivas de la materia, excepto cuando su exigibilidad se rija por disposiciones no fiscales; así como las fianzas que se hubieren otorgado a favor de la Secretaría para garantizar el pago de créditos fiscales y otras obligaciones distintas de las fiscales;
+XXIV.- Recibir, tramitar y, en su caso, aceptar el pago en especie conforme a las disposiciones de la materia;
 
-XXII.- Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en su caso, ordenar la ampliación correspondiente;
+XXV.- Requerir, calificar y aceptar, en su caso, las garantías que se otorguen, respecto de créditos fiscales sobre los que se deba resolver acerca del pago diferido o en parcialidades, así como a los que les aplique el Procedimiento Administrativo de Ejecución, autorizar su sustitución, requerir su ampliación y cancelarlas cuando proceda, y vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad;
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+XXVI.- Determinar la instalación de cajas recaudadoras desconcentradas de las Receptorías de Rentas para facilitar a los contribuyentes el pago de sus obligaciones fiscales;
 
-XXII BIS.- Recibir, tramitar y, en su caso, aceptar el pago en especio conforme a las disposiciones de la materia;
+XXVII.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos;
 
-XXIII.- Revisar y validar los expedientes de remate o adjudicación al fisco estatal de bienes embargados a los contribuyentes;
+XXVIII.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
 
-XXIV.- Determinar la instalación de cajas recaudadoras desconcentradas de las Receptorías de Rentas para facilitar a los contribuyentes el pago de sus obligaciones fiscales;
+XXIX.- Revisar los montos de las ministraciones, sus ajustes, las fechas de radicación y compensación de las participaciones federales a que tiene derecho el Estado, así como las aportaciones, subsidios y apoyos federales de acuerdo con la Ley de Coordinación Fiscal, decretos, convenios y acuerdos respectivos;
 
-XXV.- Recibir de la Dirección de Auditoría Fiscal, las resoluciones que determinen créditos fiscales a cargo de contribuyentes con motivo del ejercicio de las facultades de comprobación en materia de ingresos estatales, así como federales y municipales coordinados y determinar su notificación en los términos de las leyes fiscales aplicables;
+XXX.- Vigilar que se otorguen las fianzas suficientes para garantizar el manejo de los fondos públicos por parte de los servidores públicos que tengan a su cargo el manejo de recursos financieros;
 
-XXVI.- Intervenir en los juicios de carácter fiscal en que tenga interés la hacienda pública del estado, así como en la resolución de los recursos administrativos;
+XXXI.- Atender y dar respuesta a las diversas promociones que por escrito se presenten ante la Dirección de Ingresos, respecto de asuntos que sean de su competencia;
 
-XXVII.- Revisar los montos de las ministraciones, sus ajustes, las fechas de radicación y compensación de las participaciones federales a que tiene derecho el Estado, así como las aportaciones federales de acuerdo con la Ley de Coordinación Fiscal, convenios y acuerdos respectivos;
+XXXII.- Proponer al Secretario las instituciones de crédito u otros organismos públicos o privados con los cuales pueda celebrarse convenios para la recaudación de ingresos estatales o federales coordinados;
 
-XXVIII.- Vigilar que se otorguen las fianzas suficientes para garantizar el manejo de los fondos públicos por parte de los servidores públicos que tengan a su cargo el manejo de recursos financieros;
+XXXIII.- Proponer a la Dirección de Auditoría Fiscal la práctica de visitas domiciliarias, así como colaborar conjuntamente con ella en los programas de revisión a los contribuyentes;
 
-XXIX.- Resolver los recursos o medios de defensa administrativos que se interpongan en contra de actos o resoluciones de la Dirección de Ingresos o de las Receptorías de Rentas; así como de las diversas promociones que por escrito se presenten ante esta Dirección, respecto de asuntos que sean de su competencia;
+XXXIV.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el Registro Estatal Vehicular, en la forma y términos establecidos en el Convenio de Colaboración Administrativa en Materia Fiscal Federal;
 
-XXX.- Mantener permanentemente actualizados los padrones de contribuyentes;
+XXXV.- Llevar a cabo visitas a las Receptorías de Rentas, con el propósito de realizar reuniones de trabajo con el personal, intercambiar experiencias, refrendar criterios, consolidar confianza laboral y en general asesorar y actualizar en técnicas y procedimientos a seguir para incrementar la eficiencia y la eficacia en la recaudación;
 
-XXXI.- Proponer al área de fiscalización la práctica de visitas domiciliarias, así como colaborar conjuntamente con esta área en los programas de revisión a los contribuyentes;
+XXXVI.- Registrar la recaudación de los ingresos propios y coordinados y formular la liquidación y rendición de la Cuenta Mensual Comprobada de Ingresos Coordinados a la Secretaría de Hacienda y Crédito Público;
 
-XXXII.- Diseñar e instrumentar campañas de difusión, cursos y conferencias para contribuyentes o personal de los Ayuntamientos, de los Poderes Legislativo y Judicial, de entidades paraestatales o de la propia Secretaría, para dar a conocer las disposiciones fiscales y su aplicación;
+XXXVII.- Mantener estrecha comunicación con la Coordinación de Informática de la Secretaría, buscando el mejoramiento permanente de los procesos informáticos del área de ingresos, de tal manera que se simplifiquen trámites, se agilice el servicio a los contribuyentes, se mejore la confiabilidad en la información, se racionalicen recursos, se maximice la eficiencia recaudatoria y por consiguiente se eleven los ingresos públicos; y
 
-XXXIII.- Llevar a cabo visitas a las Receptorías de Rentas, con el propósito de realizar reuniones de trabajo con el personal, intercambiar experiencias, refrendar criterios, consolidar confianza laboral y en general asesorar y actualizar en técnicas y procedimientos a seguir para desarrollar la eficiencia y la eficacia en la recaudación;
-
-XXXIV.- Registrar la recaudación de los ingresos propios y coordinados y formular la liquidación y rendición de la cuenta comprobada a la Secretaría de Hacienda y Crédito Público;
-
-XXXV.- Coordinar los procesos informáticos del área de ingresos, de tal manera que se simplifiquen trámites, se agilice el servicio a los contribuyentes, se mejore la confiabilidad en la información, se racionalicen recursos, se maximice la eficiencia recaudatoria y por consiguiente se eleven los índices de ingresos públicos; y
-
-XXXVI.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
+XXXVIII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
 
 ###### ARTICULO 10.
 
@@ -321,7 +359,7 @@ VII. Un Departamento de Informática;
 
 VIII.- Una Unidad de Apoyo a la Cobranza;
 
-IX.- Un Departamento de Informática
+IX.- (DEROGADA, P.O. 19 DE FEBRERO DE 2005)
 
 X.- Una Unidad de Coordinación con Municipios
 
@@ -333,33 +371,35 @@ XI.- Una Unidad de Asesoría Jurídica; y
 
 X (SIC).- Las Receptorías de Rentas.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 11.
 
-Son funciones y responsabilidades del Director de Egresos, Contabilidad y Registro de Deuda, las siguientes:
+El Director de Egresos, Contabilidad y Registro de Deuda tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario, el programa anual de trabajo del área;
 
-II.- Elaborar normatividades, formatos y propuestas de iniciativas de reforma de ordenamientos legales en materia de egresos, contabilidad y registro de deuda;
+II.- Elaborar normatividad, formatos y propuestas de iniciativas de reforma de ordenamientos legales en materia de egresos, contabilidad y registro de deuda, para someterlos a la aprobación del Secretario, previa validación de la Dirección General Jurídica;
 
-III.- Procesar la nómina de los servidores públicos con oportunidad, conforme a la plantilla autorizada y elaborar los cheques o pagos electrónicos correspondientes a servicios personales;
+III.- Recibir y analizar la documentación comprobatoria para el procesamiento de cheques o pagos por medios electrónicos;
 
-IV.- Autorizar los pagos a proveedores de bienes y servicios del Gobierno del Estado de acuerdo con los soportes documentales respectivos y presupuesto autorizado, mediante cheque o pago electrónico, cuando así se haya convenido;
+IV.- Elaborar los cheques y realizar las transferencias electrónicas para liberar los pagos a los servidores públicos del Poder Ejecutivo del Estado, en base a la nómina autorizada por la Secretaría de Administración;
 
-V.- Liberar las participaciones a los Municipios y las transferencias en general a los Poderes Legislativo y Judicial, a instituciones, entidades y organismos del Estado, de conformidad a las disposiciones legales y presupuesto autorizado;
+V.- Autorizar los pagos a proveedores de bienes y servicios del Gobierno del Estado de acuerdo con los soportes documentales respectivos y presupuesto autorizado, mediante cheque o pago electrónico, cuando así se hayan convenido;
 
-VI.- Coordinar actividades diarias con la Dirección de Presupuesto y Evaluación Hacendaria para eficientar sus funciones;
+VI.- Firmar los cheques o realizar los abonos electrónicos correspondientes, mancomunadamente con los servidores públicos autorizados para ello;
 
-VII.- Establecer criterios uniformes para la interpretación y registro contable de todos los movimientos que se realicen y se relacionen con la cuenta pública del Estado;
+VII.- Liberar las participaciones a los Municipios y las transferencias en general a los Poderes Legislativo y Judicial, a instituciones, entidades y organismos del Estado, de conformidad a las disposiciones legales y presupuesto autorizado;
 
-VIII.- Rendir cuenta comprobada del movimiento de fondos y solventar las glosas que formule el Congreso del Estado por conducto de su órgano de vigilancia;
+VIII.- Establecer criterios uniformes para la interpretación y registro contable de todos los movimientos que se realicen y se relacionen con la cuenta pública del Estado;
 
-IX.- Determinar, registrar y enterar las retenciones de impuestos u otros conceptos que corresponda efectuar al Gobierno Estatal conforme a las leyes, convenios o acuerdos correspondientes;
+IX.- Rendir cuenta comprobada del movimiento de fondos y solventar las glosas que formule el Congreso del Estado por conducto de su órgano de vigilancia;
 
-X.- Registrar los ingresos provenientes de las participaciones federales, de la recaudación y generación de los ingresos propios, de la colaboración administrativa, de las aportaciones federales y de los créditos públicos;
+X.- Determinar, registrar y enterar las retenciones de impuestos u otros conceptos que corresponda efectuar al Gobierno Estatal conforme a las leyes, convenios o acuerdos correspondientes;
 
-XI.- Formular la liquidación y rendición de la cuenta comprobada a la Secretaría de Hacienda y Crédito Público;
+XI.- Registrar los ingresos provenientes de las participaciones federales, de la recaudación y generación de los ingresos propios, de la colaboración administrativa, de las aportaciones federales y de los créditos públicos;
 
-XII.- Elaborar la cuenta pública y demás estados financieros que prevean las disposiciones legales;
+XII.- Elaborar la cuenta pública y demás estados financieros que prevean las disposiciones legales, así como formular la liquidación y rendición de la cuenta comprobada a la Secretaría de Hacienda y Crédito Público;
 
 XIII.- Realizar el registro, control y pago de las participaciones y fondos de aportaciones federales que correspondan a los Municipios del Estado, de conformidad con lo establecido en la Ley de Coordinación Fiscal y convenios respectivos;
 
@@ -367,31 +407,33 @@ XIV.- Efectuar las conciliaciones bancarias, aclaraciones y ajustes contables co
 
 XV.- Registrar y controlar las amortizaciones y servicio de la deuda pública directa, así como de la contingente, analizar su evolución y formular informes mensuales;
 
-XVI.- Controlar todas las operaciones financieras procedentes realizadas por el Gobierno del Estado y solicitar el envío oportuno de los documentos fuente de las oficinas donde se generen, a fin de mantener actualizada y confiable la contabilidad de la hacienda pública estatal;
+XVI.- Establecer sistemas de control de todas las operaciones financieras realizadas por el Gobierno del Estado y solicitar el envío oportuno de los documentos fuente de las oficinas donde se generen, a fin de mantener actualizada y confiable la contabilidad de la hacienda pública estatal;
 
 XVII.- Controlar y documentar la concentración de los informes de ingresos estatales y federales, así como de los fondos correspondientes y demás documentación comprobatoria;
 
 XVIII.- Elaborar los flujos diario, mensual y anual de efectivo de caja, así como los ajustes de los mismos;
 
-XIX.- Custodiar los títulos de propiedad, de créditos y valores que correspondan al Gobierno del Estado;
+XIX.- Establecer y mantener permanentemente actualizado, un sistema de tesorería que permita llevar el control y la administración financiera de los recursos, fondos y valores propiedad del Gobierno del Estado, y aquellos que siendo de terceros estén transitoriamente bajo la custodia y control de la Secretaría.
 
-XX.- Recibir y analizar la documentación comprobatoria para el procesamiento de cheques o pagos por medios electrónicos;
+Dicho sistema deberá contemplar entre otras, las siguientes acciones:
 
-XXI.- Programar los pagos respectivos, previa instrucción del Secretario o de los servidores públicos que aquél autorice;
+a) Programar los pagos que procedan;
 
-XXII.- Elaborar y entregar los cheques a los beneficiarios en los días y horas establecidas;
+b) Elaborar y entregar los cheques a los beneficiarios en los días y horas establecidas;
 
-XXIII.- Firmar los cheques o realizar los abonos electrónicos correspondientes, mancomunadamente con los servidores públicos autorizados para ello;
+c) Controlar las chequeras y elaborar los informes diarios de caja y bancos;
 
-XXIV.- Controlar las chequeras y elaborar los informes diarios de caja y bancos;
+d) Recibir y revisar los cheques, el efectivo y otros valores a favor del Estado; y
 
-XXV.- Recibir y revisar los cheques, el efectivo y otros valores a favor del Estado;
+e) Cancelar los cheques expedidos a cargo de la Secretaría que contengan irregularidades o sean improcedentes en su emisión, realizando en su caso la reposición correspondiente.
 
-XXVI.- Cancelar los cheques expedidos a cargo de la Secretaría que contengan irregularidades o sean improcedentes en su emisión, realizando en su caso la reposición correspondiente;
+XX.- Coadyuvar en la administración de las inversiones provenientes de los ingresos en general;
 
-XXVII.- Coadyuvar en la administración de las inversiones provenientes de los ingresos en general; y
+XXI.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
 
-XXVIII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
+XXII.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
+
+XXIII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
 
 ###### ARTICULO 12.
 
@@ -405,59 +447,53 @@ III.- Un Departamento de Contabilidad y Registro de Deuda
 
 IV.- Un Departamento de Caja General
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 13.
 
-Son funciones y responsabilidades del Director de Presupuesto y Evaluación Hacendaria, las siguientes:
+El Director de Presupuesto y Evaluación Hacendaria tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario, el programa anual de trabajo del área;
 
-II.- Elaborar normatividades, formatos y propuestas de iniciativas de reforma de ordenamientos legales en materia presupuestal y de gasto, y someterlos a la aprobación del Secretario;
+II.- Elaborar normatividades, formatos y propuestas de iniciativas de reforma de ordenamientos legales en materia presupuestal y de gasto, y someterlos a la aprobación del Secretario, previa validación de la Dirección General Jurídica;
 
 III.- Solicitar oportunamente para su estudio e integración, los datos referentes al presupuesto de las dependencias, organismos y entidades paraestatales, a fin de formular el anteproyecto anual de Presupuesto de Egresos;
 
-IV.- Conocer oportunamente los indicadores y cifras básicas para la elaboración del anteproyecto de la Ley de Ingresos e integrar y elaborar el anteproyecto del Presupuesto de Egresos del Estado;
+IV.- Integrar y elaborar el anteproyecto del Presupuesto de Egresos del Estado a partir de las cifras de la Ley de Ingresos;
 
 V.- Calendarizar el ejercicio presupuestal y vigilar que se cumpla, a fin de salvaguardar la disponibilidad de recursos para cada programa autorizado;
 
 VI.- Vigilar el correcto ejercicio del presupuesto en términos de ley y conforme a los programas aprobados, e informar al Secretario sobre las variaciones más significativas a fin de que se dicten las medidas pertinentes para corregirlas;
 
-VII.- Autorizar, registrar y controlar el ejercicio presupuestal de las dependencias de acuerdo a lo programado, e informar sobre sus avances, manteniendo actualizados los registros presupuestales y disponibilidades;
+VII.- Autorizar, registrar y controlar el ejercicio presupuestal de las dependencias, entidades y organismos de acuerdo a lo programado, e informar sobre sus avances, manteniendo actualizados los registros presupuestales y disponibilidades;
 
 VIII.- Efectuar el análisis y evaluación de los flujos de efectivo, correlacionarlo con los compromisos financieros que se tengan a corto y mediano plazo, efectuando las proyecciones necesarias para determinar posibles déficit o superávit y fundamentar las recomendaciones necesarias;
 
-IX.- Efectuar los estudios necesarios para identificar las debilidades y fortalezas de las diferentes áreas que integran la Secretaría y en su caso diseñar y proponer las acciones para abatir las primeras e incrementar las segundas;
+IX.- Recibir la información sobre cancelaciones, suspensiones, ampliaciones y todo movimiento que afecte las partidas presupuestales, modificar sus registros y comunicarlo a las instancias correspondientes;
 
-X.- Recibir la información sobre cancelaciones, suspensiones, ampliaciones y todo movimiento que afecte las partidas presupuestales, modificar sus registros y comunicarlo a las instancias correspondientes;
+X.- Autorizar, previo acuerdo del Secretario, las transferencias, cancelaciones, suspensiones, ampliaciones o cualquier otro movimiento en las partidas presupuestales respectivas;
 
-XI.- Autorizar, previo acuerdo del Secretario, las transferencias, cancelaciones, suspensiones, ampliaciones o cualquier otro movimiento en las partidas presupuestales respectivas;
+XI.- Asesorar a las dependencias, organismos o entidades sobre la formulación de sus anteproyectos de presupuesto, así como del ejercicio del gasto;
 
-XII.- Asesorar a las dependencias, organismos o entidades sobre la formulación de sus anteproyectos de presupuesto, así como del ejercicio del gasto;
+XII.- Determinar el monto de las participaciones que conforme a la ley corresponden a los municipios de la entidad;
 
-XIII.- Coordinar actividades con la Dirección de Egresos, Contabilidad y Registro de Deuda;
+XIII.- Estudiar las alternativas de cambiar el presupuesto tradicional a presupuesto por programas u otra opción que mejore la asignación y ejercicio de los recursos presupuestales;
 
-XIV.- Determinar el monto de las participaciones que conforme a la ley corresponden a los municipios de la entidad;
+XIV.- Mantener estrecha comunicación con la Coordinación de Informática de la Secretaría, buscando el mejoramiento permanente de los procesos informáticos del área a su cargo, de tal manera que se simplifiquen trámites, se mejore la confiabilidad en la información, se racionalicen recursos y se maximice la eficiencia en la administración presupuestal;
 
-XV.- Estudiar las alternativas de cambiar el presupuesto tradicional a presupuesto por programas u otra opción que mejore la asignación y ejercicio de los recursos presupuestales;
+XV.- Evaluar el nivel de atención que brindan las diferentes áreas de la Secretaría a sus usuarios, tanto internos como externos, proponiendo las medidas necesarias para incrementar la eficiencia y oportunidad de respuesta;
 
-XVI.- Desarrollar sistemas de información y de procesamiento electrónico de datos, en coordinación con las diferentes áreas de la Secretaría y demás dependencias;
+XVI.- Analizar el comportamiento histórico de los ingresos y egresos del Estado, para apoyar la toma de decisiones en el fortalecimiento de ingresos y financiamiento del gasto, tanto por la vía de recursos fiscales como por contratación de deuda;
 
-XVII.- Evaluar el nivel de atención que brindan las diferentes áreas de la Secretaría a sus usuarios, tanto internos como externos, proponiendo las medidas necesarias para incrementar la eficiencia y oportunidad de respuesta; y
+XVII.- Señalar preventivamente las insuficiencias financieras que pudieren ocurrir, derivadas de los distintos planes, programas, proyectos y compromisos en general del Gobierno del Estado al efectuar los análisis de disponibilidades presupuestales durante el transcurso de cada ejercicio presupuestal;
 
-XVIII.- Efectuar el análisis y evaluación del perfil de la deuda pública directa y contingente, su comportamiento, programas de pago, tanto del principal como de intereses y accesorios, correlacionando todo ello con las disponibilidades financieras del Estado para proponer las medidas necesarias que propicien su adecuada amortización y la reducción en los costos de la misma;
+XVIII.- Emitir las validaciones sobre suficiencia presupuestal, a las dependencias, entidades y organismos, respecto a convenios, acuerdos o cualquier documento que implique un compromiso presupuestal para el Gobierno del Estado;
 
-XIX.- Analizar el comportamiento histórico de los ingresos y egresos del Estado, para apoyar la toma de decisiones en el fortalecimiento de ingresos y financiamiento del gasto, tanto por la vía de recursos fiscales como por contratación de deuda;
+XIX.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
 
-XX.- Señalar preventivamente las insuficiencias financieras que pudieren ocurrir, derivadas de los distintos planes, programas, proyectos y compromisos en general del Gobierno del Estado al efectuar los análisis de disponibilidades presupuestales durante el transcurso de cada ejercicio presupuestal;
+XX.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
 
-XXI.- Planear la armonización de actividades de las áreas que conforman la Secretaría para eficientar sus resultados;
-
-XXII.- Analizar y dar opinión sobre los convenios, acuerdos o cualquier documento que implique un compromiso financiero para el Gobierno del Estado;
-
-XXIII.- Determinar la información y documentación necesaria para realizar las actividades de análisis y evaluación hacendaria, identificar las fuentes de las que se obtendrá, su periodicidad, presentación y características;
-
-XXIV.- Efectuar el análisis y evaluación de las finanzas estatales de manera integral; y
-
-XXV.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
+XXI.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
 
 ###### ARTICULO 14.
 
@@ -467,53 +503,57 @@ I.- Un Departamento de Formulación y Programación Presupuestal.
 
 II.- Un Departamento de Evaluación Hacendaria.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 15.
 
-Son funciones y responsabilidades del Director de Auditoria Fiscal, las siguientes:
+El Director de Auditoría Fiscal tendrá las siguientes, funciones y responsabilidades:
 
-I.- Someter a la aprobación del Secretario, el programa anual de trabajo del área;
+I.- Formular y proponer al Secretario de Finanzas, los programas, objetivos y metas de fiscalización anual, de conformidad con la política fiscal del Estado y el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público;
 
 II.- Elaborar instructivos, manuales, y programas para la fiscalización a contribuyentes relativos a impuestos estatales y federales coordinados;
 
 III.- Aplicar las políticas, programas, sistemas, procedimientos y métodos de trabajo, establecidos por la Secretaría y en lo conducente por la Secretaría de Hacienda y Crédito Público, en materia de comprobación del cumplimiento de las obligaciones fiscales por parte de los contribuyentes, en lo referente a contribuciones estatales, así como federales y municipales coordinadas;
 
-IV.- Dirigir en forma permanente la labor de difusión, orientación y asesoría en materia fiscal;
+IV.- Expedir constancias de identificación del personal adscrito a su cargo;
 
-V.- Ordenar y practicar visitas, auditorías, inspecciones y verificaciones en el domicilio fiscal o establecimientos de los contribuyentes, de los responsables solidarios y de los terceros relacionados con ellos, así como en las oficinas de la propia Dirección de Auditoría Fiscal, para comprobar el cumplimiento de las disposiciones fiscales en materia de impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos, aprovechamientos y accesorios, previstos en las leyes fiscales del Estado, así como de impuestos, derechos, aprovechamientos federales y municipales coordinados y sus accesorios; emitir los oficios de observaciones y el de conclusión de la revisión, expedir el oficio de prórroga sobre el plazo en que se deben concluir las visitas domiciliarias y auditorías, ordenar y practicar actos de verificación de vehículos y mercancía de procedencia extranjera en los términos de los convenios respectivos y proceder al embargo precautorio de los mismos cuando no se acredite su legal importación, tenencia o estancia en el país; así como expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones o verificaciones a que se refiere esta fracción. Así como, habilitar las horas y días inhábiles para la práctica de visitas domiciliarias;
+V.- Ordenar y practicar visitas, auditorías, inspecciones y verificaciones en el domicilio fiscal o establecimientos de los contribuyentes, de los responsables solidarios y de los terceros relacionados con ellos, así como en las oficinas de la propia Dirección de Auditoría Fiscal, para comprobar el cumplimiento de las disposiciones fiscales en materia de contribuciones, aprovechamientos y sus accesorios, previstos en las leyes fiscales del Estado, así como de impuestos, derechos, aprovechamientos federales y municipales coordinados y sus accesorios; emitir los oficios de observaciones y el de conclusión de la revisión, expedir el oficio de prórroga sobre el plazo en que se deben concluir las visitas domiciliarias y auditorías,
 
-VI.- Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados y comprobar el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos, aprovechamientos y sus accesorios, previstos en las leyes fiscales del Estado, así como de impuestos, derechos, aprovechamientos y accesorios federales y municipales coordinados;
+VI.- Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados y comprobar el cumplimiento de sus obligaciones fiscales en materia de contribuciones, aprovechamientos y sus accesorios, previstos en las leyes fiscales del Estado, así como de impuestos, derechos, aprovechamientos y accesorios federales y municipales coordinados;
 
 VII.- Requerir a los contribuyentes, responsables solidarios y terceros con ellos relacionados, así como solicitar a los Contadores Públicos autorizados que hayan formulado dictámenes para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones y avisos, papeles de trabajo, los datos, otros documentos e informes. Recabar de los servidores públicos federales, estatales y municipales y de los fedatarios los informes y datos que tengan con motivo de sus funciones, para proceder a su revisión con el fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en las dos fracciones anteriores, así como autorizar o negar prórrogas para su presentación;
 
-VIII.- Revisar los dictámenes formulados por contador público registrado, sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes, para comprobar el cumplimiento de las disposiciones fiscales relativas a impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos, aprovechamientos y sus accesorios, previstos en las leyes fiscales del Estado, así como de impuestos, derechos, aprovechamientos y accesorios federales y municipales coordinados, en términos de los convenios de colaboración respectivos;
+VIII.- Revisar los dictámenes formulados por contador público registrado, sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes, para comprobar el cumplimiento de las disposiciones fiscales relativas a impuestos, derechos, aprovechamientos y accesorios federales coordinados, en términos de los convenios de colaboración respectivos;
 
-IX.- Determinar en cantidad líquida los créditos fiscales estatales, así como federales y municipales coordinados, por concepto de impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos y aprovechamientos, actualización en su caso y accesorios legales a cargo de los contribuyentes responsables solidarios y demás obligados en términos de las leyes fiscales aplicables, como consecuencia de omisiones en el cumplimiento de obligaciones fiscales detectadas en el ejercicio de las facultades de comprobación; dar a conocer al visitado los hechos u omisiones imputables a éste, conocidos con motivo de la revisión de gabinete, de dictámenes o visita domiciliaria que practique, así como la determinación de sus consecuencias legales, haciéndolos constar en el oficio de observaciones o en la última acta parcial que se formule;
+IX.- Determinar en cantidad líquida los créditos fiscales estatales, así como federales y municipales coordinados, por concepto de contribuciones, aprovechamientos, actualización en su caso y accesorios legales a cargo de los contribuyentes, responsables solidarios y demás obligados en términos de las leyes fiscales aplicables, como consecuencia de omisiones en el cumplimiento de obligaciones fiscales detectadas en el ejercicio de las facultades de comprobación;
 
-X.- Investigar e informar sobre la presunta comisión de delitos fiscales de que tenga conocimiento con motivo de sus funciones;
+X.- Ordenar y practicar actos de verificación de vehículos y mercancía de procedencia extranjera en los términos de los convenios respectivos y proceder al embargo precautorio de los mismos cuando no se acredite su legal importación, tenencia o estancia en el país;
 
-XI.- Recibir, estudiar y proponer al Secretario las resoluciones sobre las inconformidades que presenten los contribuyentes;
+XI.- Ordenar y practicar visitas domiciliarias de inspección para comprobar el cumplimiento de las obligaciones de los contribuyentes en materia de expedición de comprobantes fiscales y el uso de máquinas registradoras de comprobación fiscal;
 
-XII.- Orientar a los contribuyentes a quienes se les hubieran fincado créditos fiscales de carácter estatal, federal o municipal coordinados, sobre los trámites para el pago diferido o en parcialidades, turnando el expediente formado a la Dirección de Ingresos para la autorización correspondiente;
+XII.- Determinar las infracciones e imponer las sanciones que correspondan por infracción a las disposiciones fiscales estatales y federales, en las materias de su competencia;
 
-XIII.- Imponer las sanciones que correspondan por infracción a las disposiciones fiscales, en las materias de su competencia;
+XIII.- Dar a conocer a los contribuyentes, responsables solidarios, terceros relacionados con ellos y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo del ejercicio de las facultades de comprobación, a través de las actas que al efecto se levanten o del oficio de observaciones;
 
-XIV.- En los casos de presunta comisión de delitos fiscales, proporcionar al Secretario los elementos necesarios para que, en su caso, presente ante el Ministerio Público la denuncia correspondiente o haga la declaratoria de que el fisco estatal ha sufrido o pudo haber sufrido perjuicio;
+XIV.- Ordenar y realizar la notificación de requerimientos, resoluciones y cualquier acto administrativo que derive del ejercicio de sus atribuciones, en términos de las disposiciones fiscales estatales y federales aplicables;
 
 XV.- Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XVI.-Notificar sus propios actos y resoluciones relacionados con el ejercicio de las facultades de comprobación;
+XVI.- Turnar a la Dirección de Ingresos para su registro, control y seguimiento de pago, copias de las resoluciones emitidas por la Dirección, en las que se imponen sanciones y se determinan créditos fiscales a los contribuyentes o responsables solidarios, así como de las constancias de notificación respectivas;
 
-XVII.- Expedir certificados de constancias de los expedientes relativos a los asuntos de su competencia;
+XVII.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
 
-XVIII.- Expedir los oficios que acrediten la personalidad del personal que interviene en actos de fiscalización estatal o coordinada con la Federación;
+XVIII.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos;
 
-XIX.- Tramitar y resolver las consideraciones que promuevan los contribuyentes, así como los recursos administrativos que interpongan en contra de las resoluciones que emitan las autoridades fiscales adscritas a su dirección, así como las previstas en las leyes fiscales federales, cuya administración o resolución tenga delegada de conformidad con los convenios de coordinación fiscal respectivos;
+XIX.- Imponer las medidas de apremio establecidas en las leyes fiscales y solicitar el auxilio de la fuerza pública, cuando los contribuyentes, responsables solidarios, terceros relacionados con ellos y demás obligados, se opongan u obstaculicen el ejercicio de las facultades de la autoridad fiscal de conformidad con lo dispuesto por la legislación fiscal estatal y federal;
 
-XX.- Ordenar el embargo precautorio de los bienes o negociaciones en los casos que el Código Fiscal de la Federación establezca procedente a las autoridades fiscales, en tratándose de actos de fiscalización que lleve a cabo de conformidad con el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Colima que se encuentre vigente al momento de su emisión;
+XX.- Recibir, tramitar y resolver las promociones presentadas por los contribuyentes, responsables solidarios, terceros y demás obligados, durante el ejercicio de las facultades de comprobación, en los términos de las disposiciones fiscales estatales y federales aplicables;
 
-XXI.- Representar al Secretario en todas las obligaciones y compromisos del área de su responsabilidad, derivados del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y del Convenio de Colaboración Administrativa en Materia Fiscal Federal y de los anexos que los complementan, así como en los nuevos que pudieren celebrarse; y
+XXI.- Ordenar y practicar el embargo precautorio para asegurar el interés fiscal, así como dejarlo sin efecto cuando proceda, en el ejercicio de sus funciones;
 
-XXII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
+XXII.- Habilitar las horas y días inhábiles para la práctica de visitas domiciliarias, notificaciones, embargo precautorio, diligencias administrativas y demás actuaciones, en términos de las disposiciones fiscales estatales y federales aplicables; y
+
+XXIII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
 
 ###### ARTICULO 16.
 
@@ -523,9 +563,9 @@ La Dirección de Auditoría Fiscal, además del Despacho del Director, se integr
 
 I.- Una Subdirección;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-II.- Un Departamento Jurídico;
+II.- Un Departamento de Procedimientos Legales;
 
 III.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2003)
 
@@ -545,9 +585,95 @@ VI.- Un Departamento de Apoyo y Servicios Generales; y
 
 VII.- Un Departamento de Programación.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+ARTICULO 16 A.- El Director General Jurídico tendrá las siguientes funciones y responsabilidades:
+
+I.- Fungir como consultor jurídico de la Secretaría y de sus Unidades Administrativas;
+
+II. Revisar y validar la sustentación jurídica de los convenios, contratos o acuerdos en que la Secretaría sea parte o tenga injerencia alguna, así como revisar y dictaminar su celebración y alcances legales en aquellos que se le proponga celebrar por otras personas físicas o morales;
+
+III. Formular proyectos de iniciativas de Leyes, Decretos, Reglamentos, Acuerdos, Circulares, Manuales, Convenios, Bases de Colaboración y demás instrumentos jurídicos que el Secretario ordene;
+
+IV. Planear y ejecutar los programas de desarrollo y capacitación técnico jurídico de la Secretaría en materia hacendaría;
+
+V. Intervenir en el levantamiento de actas administrativas que lleven a cabo las distintas Unidades Administrativas de la Secretaria, en las que se hagan constar hechos que puedan constituir delitos fiscales o responsabilidad de los servidores públicos;
+
+VI. Vigilar de manera permanente que los actos o resoluciones que emitan las Unidades Administrativas de la Secretaría, se realicen o emitan estrictamente apegados a derecho;
+
+VII. Proporcionar asistencia técnico-jurídica a las Unidades Administrativas de la Secretaría;
+
+VIII. Resolver las consultas que formulen los interesados sobre situaciones reales y concretas, en relación a la aplicación de las disposiciones legales que regulan las contribuciones estatales, así como federales y municipales, coordinadas en su caso;
+
+IX. Diseñar e instrumentar campañas de difusión, cursos y conferencias para contribuyentes o personal de los Ayuntamientos, de los Poderes Legislativo y Judicial, de entidades paraestatales o de la propia Secretaría, para dar a conocer las disposiciones fiscales y su aplicación;
+
+X. Revisar y validar los expedientes de remate o adjudicación al fisco estatal de bienes embargados a los contribuyentes, integrados en las Receptorías de Rentas con motivo de la aplicación del Procedimiento Administrativo de Ejecución;
+
+XI.- Revisar de manera integral el marco jurídico fiscal del Estado, para llevar a cabo su actualización conforme a las necesidades vigentes, realizando los estudios de legislación comparada necesarios;
+
+XII.- Establecer el criterio de interpretación que las unidades administrativas de la Secretaría deban seguir respecto de las disposiciones fiscales;
+
+XIII.- Participar, con su opinión jurídica, en la elaboración de las formas oficiales de: avisos, declaraciones, manifestaciones y demás documentos requeridos por las disposiciones fiscales;
+
+XIV.- Integrar y mantener permanentemente actualizado el Compendio de Legislación Fiscal del Estado, así como divulgarlo de manera oportuna a través de ediciones impresas, dispositivos magnéticos y la página Web de la Secretaría;
+
+XV.- Participar en el análisis de los convenios y acuerdos que se celebren con el Gobierno Federal o los Municipios, en materia de coordinación o concurrencia fiscal, así como de colaboración administrativa;
+
+XVI.- Representar legalmente a la Secretaría y a sus Unidades Administrativas en los juicios y procesos de cualquier orden que se ventilen ante los tribunales judiciales y administrativos locales y federales, en que aquélla sea parte, como demandada, demandante, tercero perjudicado o autoridad responsable;
+
+XVII.- Intervenir ante los tribunales cuando se afecte la hacienda pública, así como ante autoridades judiciales, administrativas y fiscales, federales, estatales y municipales en su caso y coadyuvar con las dependencias y entidades del Poder Ejecutivo del Estado en la misma materia;
+
+XVIII.- Designar a los abogados hacendarios para que comparezcan como delegados en los procesos o juicios que se ventilen ante los Tribunales Judiciales y Administrativos Estatales y Federales competentes;
+
+XIX.- Tramitar y resolver los recursos administrativos interpuestos contra los actos y resoluciones del Secretario y demás autoridades fiscales de la Secretaría, ya sea en el ejercicio de las facultades previstas en las leyes fiscales del Estado, como de las facultades derivadas de la suscripción de convenios de coordinación y colaboración administrativa en materia fiscal federal;
+
+XX.- Contestar las demandas en contra de los actos o resoluciones derivados del ejercicio de las facultades que establecen las disposiciones fiscales federales y estatales e intervenir como parte en los juicios promovidos ante los tribunales administrativos y judiciales cuando le corresponda la responsabilidad de su defensa;
+
+XXI.- Proponer los términos de los informes previos y justificados que en Juicio de Amparo deban rendir el Secretario y los servidores públicos de las Unidades Administrativas en los asuntos competencia de la Secretaría; intervenir como tercero perjudicado; proponer los términos de los recursos que procedan; así como formular, en general, todas las promociones que en dichos juicios se requieran;
+
+XXII.- Conocer y resolver sobre las solicitudes de condonación de multas por infracciones a las disposiciones fiscales estatales y federales aplicables;
+
+XXIII.- Representar los intereses del fisco en los remates de bienes embargados, convocados por autoridad Judicial o Administrativa;
+
+XXIV.- Expedir y ejecutar el requerimiento de pago a las instituciones de fianzas por pólizas otorgadas a favor de la Secretaría o cualquier otra dependencia del Poder Ejecutivo, y aquellas que sean otorgadas ante las autoridades judiciales. En su oportunidad, solicitar el remate de valores propiedad de afianzadoras para hacer efectiva la fianza, así como cancelar la póliza, previa acreditación del cumplimiento de la obligación garantizada;
+
+XXV.- Allanarse y transigir en los juicios que deriven del ejercicio de las facultades conferidas en la Legislación Estatal, relativos a ingresos ordinarios estatales, así como en el Convenio de Colaboración Administrativa en Materia Fiscal Federal relativos a ingresos coordinados, atendiendo en todo caso la normatividad correspondiente;
+
+XXVI.- Promover y presentar denuncias, querellas y declaratorias de perjuicio, en su caso, ante la autoridad competente, otorgar perdón y presentar desistimientos, así como el allanamiento, en los asuntos que se afecte el interés fiscal o a la Hacienda Pública, sin perjuicio de la competencia de otras autoridades;
+
+XXVII.- Dar el aviso a las autoridades competentes sobre probables hechos delictivos de que tenga conocimiento la Secretaría, derivado del ejercicio de las facultades establecidas en las disposiciones fiscales estatales y federales;
+
+XXVIII.- Ordenar y, en su caso, realizar la notificación de resoluciones y cualquier acto administrativo que deriven del ejercicio de sus atribuciones, en términos de las disposiciones fiscales estatales y federales aplicables y las que se deriven de la aplicación de los convenios de coordinación o de colaboración, respectivos;
+
+XXIX.- Expedir las constancias de identificación del personal a su cargo, así como las que lo acrediten como notificadores, para el debido ejercicio de sus atribuciones;
+
+XXX.- Imponer a los notificadores de la Secretaría, las sanciones previstas en el Código Fiscal del Estado y en el Código Fiscal de la Federación, por practicar ilegalmente notificaciones, cuando las mismas se dejen sin efectos;
+
+XXXI.- Dictaminar sobre la prescripción de créditos fiscales que le solicite la Dirección de Ingresos de la Secretaria;
+
+XXXII.- Presentar al Secretario los proyectos de planteamiento y propuestas para el fortalecimiento del federalismo hacendario estatal y federal;
+
+XXXIII.- Ejercer, en el ámbito de su competencia, las atribuciones y funciones derivadas del Sistema Nacional de Coordinación Fiscal y el Sistema Estatal de Coordinación Hacendaria, así como de los convenios y acuerdos que se celebren en el marco de dichos sistemas con los ayuntamientos y los organismos auxiliares;
+
+XXXIV.- Participar en los grupos y comisiones para estudio y desahogo de asuntos relacionados con la coordinación hacendaría estatal y municipal, que el Secretario asigne;
+
+XXXV.- Coordinar, analizar y evaluar los distintos programas que implican la obtención de recursos federales para el Estado y participar de manera activa, cuando sea requerida, junto con la dependencia estatal correspondiente, en las negociaciones que se realicen con las autoridades federales, relacionadas con dichos programas;
+
+XXXVI.- Participar en representación de «La Secretaria», en la formulación de programas informáticos para el registro, control y seguimiento de los programas, convenios y contratos que implican recursos compartidos entre la Federación y el Estado;
+
+XXXVII.- Determinar con la Coordinación de Informática los requerimientos de desarrollo de sistemas y programas que permitan el aprovechamiento de intercambio de información con la distintas Unidades Administrativas de la Secretaria, para el mejor proveer de sus funciones; y
+
+XXXVIII.- Las demás que le atribuyan expresamente el Secretario y otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+ARTICULO 16 B.- Para el ejercicio de sus funciones y cumplimiento de responsabilidades, el Director General Jurídico contará con el personal necesario para su apoyo, pudiendo delegar para el eficiente y eficaz desarrollo de éstas, las que considere pertinentes, a través de comunicación interna que las especifique.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 17.
 
-Son funciones y responsabilidades del Director de Catastro, las siguientes:
+El Director de Catastro tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario, el programa anual de trabajo del área;
 
@@ -575,7 +701,15 @@ XII.- Proporcionar a las instituciones y organismos oficiales que tengan atribuc
 
 XIII.- Requerir de las dependencias e instituciones de carácter federal, estatal o municipal, así como de los particulares, los datos, documentos e informes que sean necesarios para la información y conservación del catastro;
 
-XIV.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XIV.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XV.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
+
+XVI.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario.
 
 ###### ARTICULO 18.
 
@@ -587,17 +721,23 @@ II.- Un Departamento de Informática
 
 III.- Un Departamento de Revisión de Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 19.
 
-Son funciones y responsabilidades del Coordinador General Administrativo, las siguientes:
+El Coordinador General Administrativo tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario el programa anual de trabajo del área;
 
 II.- Establecer mecanismos que busquen la racionalidad de recursos humanos, financieros, materiales y patrimoniales;
 
-III.- Diseñar mecanismos de control y evaluación de resultados oportunos;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-IV.- Mantener comunicación permanente con los titulares responsables de las diversas áreas de la Secretaría;
+III.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+IV.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
 
 V.- Conocer directamente todas las áreas dependientes de la Secretaría, sus potencialidades y necesidades;
 
@@ -611,9 +751,13 @@ IX.- Determinar conjuntamente con el titular de cada área de la Secretaría las
 
 X.- Controlar el inventario general de insumos, bines (sic) materiales y patrimoniales de las áreas de la Secretaría;
 
-XI.- Vigilar que los procedimientos de selección, contratación, capacitación y control de personal dependiente de la secretaría se ajusten a los lineamientos generales y particulares establecidos;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XII.- Tramitar ante la Oficialía Mayor de Gobierno, los movimientos que se operen en la plantilla del personal de la Secretaría por altas, bajas, permutas, permisos, licencias e incapacidades;
+XI.- Vigilar que los procedimientos de selección, contratación, capacitación y control de personal dependiente de la Secretaría se ajusten a los lineamientos generales y particulares establecidos;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XII.- Tramitar ante la Secretaría de Administración, los movimientos que se operen en la plantilla del personal de la Secretaría por altas, bajas, permutas, permisos, licencias e incapacidades;
 
 XIII.- Controlar la puntualidad y asistencia del personal de la Secretaría;
 
@@ -633,7 +777,9 @@ XX.- Vigilar el ejercicio de presupuesto autorizado a la Secretaría, para en ca
 
 XXI.- Coordinar la capacitación integral del personal de la Secretaría en acuerdo con los titulares de las áreas que la conforman;
 
-XXII.- Autorizar las comisiones laborales del personal de la Secretaria a otras dependencias, organismos o entidades paraestatatales (sic) por acuerdo del Secretario o entre las áreas de la Secretaría, a petición de los titulares de las mismas;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXII.- Autorizar las comisiones laborales del personal de la Secretaria a otras dependencias, organismos o entidades paraestatales por acuerdo del Secretario o entre las áreas de la Secretaría, a petición de los titulares de las mismas;
 
 XXIII.- Firmar los cheques o realizar los abonos electrónicos correspondientes, mancomunadamente con los servidores públicos autorizados para ello; y
 
@@ -643,33 +789,81 @@ XXIV.- Las demás que legalmente le encomiende el Secretario.
 
 Para el ejercicio de sus funciones y cumplimiento de responsabilidades, el Coordinador General Administrativo contará con el personal necesario para su apoyo, pudiendo delegar para el eficiente y eficaz desarrollo de estas, las que considere pertinentes, a través de comunicación interna que las especifique.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+ARTICULO 20 A.- El Coordinador de Informática tendrá las siguientes funciones y responsabilidades:
+
+I.- Definir la estrategia de desarrollo informático que la Secretaría de Finanzas deberá seguir para la sistematización de información a través del uso de las tecnologías de información, de comunicaciones y del Internet;
+
+II.- Representar a la Secretaría ante las autoridades del Gobierno Estatal, Municipal y Federal en todos los aspectos que se relacionen con las tecnologías de información, comunicaciones e internet;
+
+III.- Promover ante las diferentes áreas de la Secretaría, el uso de tecnologías de información, comunicaciones e internet, como un instrumento para modernizar, eficientar y agilizar los procesos, trámites y servicios que se prestan al interior del gobierno y a la ciudadanía en general;
+
+IV.- Determinar y autorizar la adquisición y actualización de hardware y software al interior de la Secretaría, que garantice la actualización permanente de los recursos informáticos considerando los avances tecnológicos y las necesidades para el desarrollo óptimo de sus Unidades Administrativas;
+
+V.- Dar a conocer a los titulares de las diferentes unidades administrativas de la Secretaría, los avances que se estén obteniendo en los esquemas de trabajo en materia de modernización y automatización, para que se hagan del conocimiento de los usuarios que de ellos dependen;
+
+VI.- Definir conjuntamente con las áreas informáticas y administrativas de la Secretaría, el plan operativo de desarrollo informático anual y sexenal y que este se integre al Plan Estatal de Desarrollo;
+
+VII.- Definir conjuntamente con los titulares de las unidades administrativas de la Secretaría, un calendario de proyectos y la prioridad en que deberán ser desarrollados de conformidad con las necesidades de la dependencia y la cantidad de recursos destinados para su realización;
+
+VIII.- Asesorar a los responsables de informática de las diferentes áreas de la Secretaria en las actividades relacionadas con el análisis, diseño, programación y puesta en marcha de los nuevos sistemas que se desarrollen, así como en las modificaciones que se realicen a los ya existentes;
+
+IX.- Coordinar la participación de las diferentes áreas informáticas de la Secretaría para el aprovechamiento y optimización de los recursos informáticos;
+
+X.- Definir los estándares en las estructuras de datos que faciliten el desarrollo de las aplicaciones y el intercambio de información por los diferentes sistemas automatizados, desarrolladas en la Secretaría;
+
+XI.- Definir los mecanismos de intercambio de información con otras dependencias y órdenes de gobierno;
+
+XII.- Definir el estándar de la plataforma de desarrollo de sistemas y programas a través del estudio técnico necesario para determinar el manejador más conveniente;
+
+XIII.- Determinar las herramientas de desarrollo de sistemas, con base en la evaluación de las mismas y de las necesidades de las unidades administrativas de la Secretaría, procurando en todo caso homologarlos en toda la dependencia;
+
+XIV.- Definir y supervisar las plataformas de comunicaciones de datos y voz que se requieran conforme a las necesidades y requerimientos de las áreas de la Secretaría;
+
+XV.- Determinar los esquemas de soporte técnico en los equipos de cómputo, de comunicaciones y de Internet;
+
+XVI.- Integrar y mantener permanentemente actualizada la página Web de la Secretaría de Finanzas como medio de información y contacto permanente con la ciudadanía, con las solicitudes que le formulen las diferentes unidades administrativas de la Secretaría, la información que las mismas le proporcionen y la iniciativa propia del Coordinador y sus subalternos;
+
+XVII.- Establecer los programas y esquemas de capacitación para el personal técnico de las áreas de informática así como del personal operativo de las diferentes áreas de la Secretaria;
+
+XVIII.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
+
+XIX.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
+
+XX.- Las demás que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
+ARTICULO 20 B.- Para el ejercicio de sus funciones y cumplimiento de responsabilidades, el Coordinador de Informática contará con el personal necesario para su apoyo, pudiendo delegar para el eficiente y eficaz desarrollo de éstas, las que considere pertinentes, a través de comunicación interna que las especifique.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 21.
 
-Son funciones y responsabilidades del jefe de la Unidad de Asesoria Financiera.
+El Jefe de la Unidad de Asesoría Financiera tendrá las siguientes funciones y responsabilidades:
 
 I.- Someter a la aprobación del Secretario el programa anual de trabajo del área;
 
-II.- Optimizar los recursos financieros disponibles del Gobierno del Estado, realizando los movimientos necesarios ante las instituciones bancarias de la localidad y eligiendo a la que ofrezca mejores rendimientos y servicios;
+II.- Invertir de manera óptima los recursos financieros disponibles del Gobierno del Estado, realizando los movimientos necesarios ante las instituciones bancarias de la localidad y eligiendo a la que ofrezca mejores rendimientos y servicios;
 
-III.- Formular un registro diario de las cotizaciones por institución bancaria, que justifique las decisiones asumidas en el manejo de las inversiones;
+III.- Formular un registro diario de las cotizaciones por institución bancaria, que justifique las decisiones asumidas en el manejo de las inversiones, y mantener actualizadas las disponibilidades y condiciones crediticias que ofrecen dichas instituciones, para acciones planeadas o situaciones emergentes del Gobierno del Estado;
 
 IV.- Girar las instrucciones a los (sic) instituciones bancarias para liberar los recursos requeridos por la Dirección (sic) Presupuesto y Egresos o por la Caja General;
 
-V.- Atender a los ejecutivos bancarios, analizar los diferentes servicios que ofrecen y proponer al Secretario los que considere más convenientes;
+V.- Proponer al Secretario los servicios más convenientes que ofrecen las instituciones bancarias, a partir de un análisis comparativo;
 
-VI.- Consultar disponibilidad de inversiones y realizar los movimientos financieros más convenientes;
+VI.- Establecer los controles necesarios para cuantificar diariamente las disponibilidades financieras;
 
-VII.- Estudiar permanentemente todas las alternativas de operaciones financieras por medios electrónicos para comparar con los disponibles en la Secretaría, refrendando o sustituyendo su utilización por el que resulte más conveniente en términos de rentabilidad financiera y funcionalidad;
+VII.- Tramitar ante las instituciones bancarias el registro de firmas autorizadas por el Secretario;
 
-VIII.- Establecer los controles necesarios para cuantificar diariamente las disponibilidades financieras;
+VIII.- Firmar los cheques o realizar los abonos electrónicos correspondientes, mancomunadamente con los servidores públicos autorizados para ello;
 
-IX.- Mantener actualizadas las disponibilidades y condiciones crediticias de las diferentes instituciones bancarias, para acciones planeadas o situaciones emergentes del Gobierno del Estado;
+IX.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
 
-X.- Firmar los cheques o realizar los abonos electrónicos correspondientes, mancomunadamente con los servidores públicos autorizados para ello;
+X.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos; y
 
-XI.- Tramitar ante las instituciones bancarias el registro de firmas autorizadas por el Secretario; y
-
-XII.- Las demás que legalmente le encomiende el Secretario.
+XI.- Las demás que legalmente le encomiende el Secretario.
 
 ###### ARTICULO 22.
 
@@ -681,17 +875,23 @@ Para el ejercicio de sus funciones y cumplimiento de responsabilidades, el Jefe 
 
 Al frente de cada Receptoría de Rentas habrá un Receptor de Rentas, quien tendrá las siguientes funciones y responsabilidades:
 
-I.- Cumplir y hacer cumplir las disposiciones legales, fiscales y administrativas, que faculten la recaudación de ingresos fiscales de carácter estatal, federales y municipales, en los casos procedentes;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-II.- Recaudar, concentrar, custodiar, vigilar y enterar los ingresos provenientes de la aplicación de leyes fiscales estatales o federales en los casos permitidos;
+I.- Cumplir y hacer cumplir las disposiciones legales, fiscales y administrativas, en materia de recaudación de ingresos de carácter estatal, federal y municipal, en los casos procedentes;
 
-III.- Mantener actualizados los padrones de contribuyentes de impuestos estatales y federales, así como ordenar y practicar visitas de verificación del cumplimiento de obligaciones de esas materias;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+II.- Recaudar, concentrar, custodiar, vigilar y depositar en las cuentas bancarias de la Secretaría, los ingresos provenientes de la aplicación de leyes fiscales estatales y federales;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+III.- Mantener actualizados los padrones de contribuyentes de su jurisdicción, operando los movimientos de inscripción o alta, modificaciones, baja y cancelación, de conformidad con las disposiciones legales y administrativas aplicables, así como ordenar y practicar visitas de verificación del cumplimiento de las obligaciones fiscales relacionadas con la presentación de solicitudes y avisos al Registro Estatal de Contribuyentes y al Registro Federal de Contribuyentes;
 
 IV.- Recaudar, concentrar, custodiar, vigilar y situar los fondos provenientes de la aplicación de la Ley de Ingresos del Estado, y los que, por otros conceptos, el erario estatal tenga derecho a percibir por cuenta propia o ajena, así como establecer la mecánica de recaudación, vigilando sus índices;
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-IV BIS.- Vigilar que los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios, cumplan con la obligación de presentar declaraciones, así como solicitar los datos, informes o documentos para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias;
+IV BIS.- Vigilar que los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios, cumplan con la obligación de presentar declaraciones;
 
 V.- Emitir y notificar los requerimientos para exigir la presentación de declaraciones de los contribuyentes obligados a ello en términos de las leyes fiscales del estado y de las leyes federales o municipales cuando se trate de ingresos coordinados, que no lo hubieran hecho dentro de los plazos señalados en las disposiciones fiscales y, en su caso, el pago de las contribuciones omitidas, su actualización y los accesorios legales;
 
@@ -709,9 +909,9 @@ c).- Cuando se haga uso del pago en parcialidades sin tener derecho a ello, o si
 
 d).- Por los cheques recibidos para el pago de contribuciones que sean presentados en tiempo y no sean pagados por las instituciones bancarias.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-VII.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, a fin de hacer efectivos los créditos fiscales y sus accesorios, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales; así como las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas otorgadas a favor de la Secretaría, para garantizar los créditos fiscales y otras obligaciones distintas a las fiscales; enajenar fuera de remate bienes embargados, así como expedir el documento que ampare la enajenación de los bienes rematados y, proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente;
+VII.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, a fin de hacer efectivos los créditos fiscales y sus accesorios, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales, así como las garantías constituidas para asegurar el interés fiscal, para garantizar los créditos fiscales y otras obligaciones distintas a las fiscales; enajenar fuera de remate bienes embargados, expedir el documento que ampare la enajenación de los bienes rematados; proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente; y, declarar el abandono a favor del fisco, de los bienes y cantidades de dinero reclamados por los contribuyentes o por los responsables solidarios;
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
@@ -721,7 +921,9 @@ VIII.- Imponer las multas previstas en las leyes fiscales aplicables por present
 
 IX.- Embargar precautoriamente bienes o negociaciones para asegurar los intereses del fisco, ya sea respecto de créditos estatales, federales o municipales coordinados, cuando se den los supuestos previstos en las leyes fiscales respectivas;
 
-X.- Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en su caso, ordenar la ampliación de las mismas;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+X.- Requerir, calificar y aceptar, en su caso, las garantías que se otorguen, respecto de créditos fiscales sobre los que se les aplique el Procedimiento Administrativo de Ejecución, autorizar su sustitución, requerir su ampliación y cancelarlas cuando proceda, y vigilar que dichas garantías sean suficientes tanto al momento de su aceptación como con posterioridad;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
@@ -737,21 +939,33 @@ XIV.- Recibir toda clase de manifestaciones y avisos de los contribuyentes oblig
 
 XV.- Ordenar y llevar a cabo los actos de verificación del cumplimiento de las obligaciones fiscales previstas en la legislación fiscal estatal y de las relacionadas con la presentación de avisos al Registro Estatal Vehicular, así como los que deban realizarse por virtud de los convenios de coordinación y de colaboración administrativa celebrados entre el Gobierno del Estado y los gobiernos federal y municipales, imponiendo las sanciones que resulten procedentes por violación a las leyes respectivas;
 
-XVI.- Proporcionar orientación técnica a los contribuyentes respecto al cumplimiento de sus obligaciones fiscales y resolver en el ámbito de su competencia las consultas que sobre situaciones reales y concretas le planteen los interesados individualmente, conforme a las disposiciones legales aplicables y la normatividad emitida al efecto por las autoridades competentes;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XVII.- Gestionar oportunamente para que a través de la Dirección de Ingresos les envíen los padrones correspondientes a su jurisdicción, así como todos los documentos relacionados con el cobro de impuestos y sus accesorios;
+XVI.- Proporcionar orientación a los contribuyentes respecto al cumplimiento de sus obligaciones fiscales y resolver en el ámbito de su competencia las consultas que sobre situaciones reales y concretas le planteen los interesados individualmente, conforme a las disposiciones legales aplicables y la normatividad emitida al efecto por las autoridades competentes;
 
-XVIII.- Coadyuvar a la incorporación de los pequeños contribuyentes en el registro fiscal correspondiente;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
 
-XIX.- Imponer a los contribuyentes las sanciones que correspondan por rectificación aritmética en declaraciones y en general por las infracciones fiscales en que incurran, y en su caso, ordenar y vigilar su notificación y cobro;
+XVII.- Hacer constar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los expedientes relativos a los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XVIII.- Ordenar y practicar embargos en la vía administrativa, como medio para garantizar el interés fiscal;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XIX.- Determinar las infracciones e imponer las sanciones cuando se incumpla con lo establecido en las disposiciones fiscales estatales y federales en el marco de su competencia;
 
 XX.- Designar a los notificadores, ejecutores y verificadores para la práctica de diligencias;
 
-XXI.- Sugerir al Director de Ingresos las revisiones a contribuyentes que se consideren necesarias;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXI.- Sugerir al Director de Auditoría Fiscal y al Director de Ingresos las revisiones a contribuyentes que se consideren necesarias;
 
 XXII.- Efectuar el corte diario de caja y comprobar que el total de ingresos registrados en la misma coincida con el depósito efectuado en la institución bancaria correspondiente;
 
-XXIII.- Depositar íntegramente la recaudación diaria de las contribuciones en las instituciones bancarias correspondientes;
+XXIII.- (DEROGADA, P.O. 19 DE FEBRERO DE 2005)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE FEBRERO DE 2005)</small>
 
 XXIV.- Recabar oportunamente de las instituciones bancarias autorizadas para la recepción de declaraciones y pagos de contribuciones, la documentación comprobatoria y efectuar el registro de los pagos en la cuenta de cada contribuyente, vigilando que los depósitos efectuados coincidan con los montos de recaudación obtenidos;
 
@@ -765,9 +979,17 @@ XXVIII.- Coadyuvar con los datos e informes necesarios para integrar el registro
 
 XXIX.- Depurar e integrar los expedientes para la cancelación de los créditos fiscales y acuerdos de suspensión o baja de contribuyentes no localizados;
 
-XXX.- Vigilar que el personal adscrito a las Receptorías de Rentas cumpla con las normas legales, administrativas y disciplinarias vigentes, y
+XXX.- Vigilar que el personal adscrito a las Receptorías de Rentas cumpla con las normas legales, administrativas y disciplinarias vigentes, y (sic)
 
-XXXI.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario o el Director de Ingresos.
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXXI.- Levantar Actas Administrativas, con la intervención de la Dirección General Jurídica que en su caso se requiera, relativas a los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+XXXII.- Informar a la Dirección General Jurídica de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales, o responsabilidad de los servidores públicos;
+
+XXXIII.- Las demás que establezcan las leyes, reglamentos, decretos, convenios, acuerdos, circulares o las que expresa y legalmente le señale el Secretario o el Director de Ingresos.
 
 ###### ARTICULO 24.
 
@@ -791,23 +1013,27 @@ III.-La Receptoría de Rentas de Tecomán, tiene como jurisdicción los Municipi
 
 IV.- La Receptoría de Rentas de Villa de Alvarez, tiene como jurisdicción los municipios de Villa de Alvarez, Comala y Minatitlán;
 
-V.- Las Receptorías de rentas ubicadas en las oficinas de las Direcciones de Transportes y del Registro Público de la Propiedad y del Comercio, son coadyuvantes de las Receptorías señaladas en las tres fracciones anteriores en las labores de recepción de pagos e integración y depuración de padrones y no podrán emitir requerimientos o resoluciones para exigir el cumplimiento de las disposiciones fiscales, ni para sancionar su incumplimiento.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2005)</small>
+
+V.- Las Receptorías de Rentas ubicadas en las oficinas de las Direcciones de Transportes y del Registro Público de la Propiedad y del Comercio, son coadyuvantes de las Receptorías señaladas en las fracciones anteriores en las labores de recepción de pagos e integración y depuración de padrones y no podrán emitir requerimientos o resoluciones para exigir el cumplimiento de las disposiciones fiscales, ni para sancionar su incumplimiento.
 
 Las jurisdicciones de las Receptorías de Rentas podrán ser modificadas con el hecho de publicar por una sola vez en dos de los periódicos locales de mayor circulación los cambios a considerar, ya sea por la creación de nuevas Receptorías o por reasignación de jurisdicciones, o por ambas. Posteriormente, se deberán realizar las modificaciones correspondientes en el presente Reglamento.
 
 ### CAPITULO VI. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-El Secretario será suplido en sus ausencias por los Directores de: Ingresos; de Presupuesto y Evaluación Hacendaria; de Auditoría Fiscal; de Catastro y de Egresos, Contabilidad y Registro de Deuda. En los juicios de amparo en que deba intervenir como Titular la Secretaria, así como en las controversias constitucionales o acciones de inconstitucionalidad o, en general, en cualquier otro procedimiento jurisdiccional, será suplido por los Servidores Públicos antes señalados, en el orden indicado o de acuerdo al asunto de competencia.
+El Secretario será suplido en sus ausencias por los Directores de: Presupuesto y Evaluación Hacendaria; Ingresos; de Auditoría Fiscal; de Egresos, Contabilidad y Registro de Deuda; de Catastro, y Director General Jurídico, en función de la competencia especifica de cada Unidad Administrativa.
 
 ###### ARTICULO 27.
 
-Los Titulares de las Unidades Administrativas serán suplidos en sus ausencias por el personal inmediato en rango de organigrama que de ellos dependan, o los que en un momento determinado tengan a bien designar, dependiendo de los asuntos de competencia.
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
 ###### ARTICULO 28.
 
-Los Jefes de Unidad, Coordinadores, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos, serán suplidos en sus ausencias por los que funcionalmente le sigan en nivel de responsabilidad.
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
 ### CAPITULO VII. DISPOSICIONES COMPLEMENTARIAS
 
@@ -817,35 +1043,29 @@ Las facultades que en este Reglamento se establecen serán ejercidas en materia 
 
 ###### ARTICULO 30.
 
-El cobro de toda clase de créditos en favor del Gobierno Estatal y la percepción de fondos por otros conceptos a nombre propio o por cuenta ajena, se hará por conducto de la Caja General o de las Receptorías de Rentas. Los cobros y las percepciones provenientes de la recaudación se justificarán de acuerdo a las disposiciones legales o resoluciones de autoridad competente, y se comprobarán con la impresión de la máquina registradora o la expedición de los recibos oficiales correspondientes, debiendo simultáneamente registrarse en la contabilidad del organismo receptor.
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
 ###### ARTICULO 31.
 
-Se equiparan a créditos fiscales las obligaciones determinadas en cantidad líquida en favor del erario estatal, excepto cuando el origen y la exigibilidad de las mismas se rijan por otras leyes.
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
 ###### ARTICULO 32.
 
-Todos los fondos que perciba la Secretaría en favor del Gobierno estatal por conducto de cualquier autoridad y organismos auxiliares o subalternos, deberán concentrarse en la Caja General, en la forma que dispongan las leyes o instrucciones que dicte para tal efecto el Secretario.
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
 ###### ARTICULO 33.
 
-Los Titulares de las Unidades Administrativas y a quienes ellos designen están facultados para:
+(DEROGADO, P.O. 19 DE FEBRERO DE 2005)
 
-I.- Aplicar, cuando proceda, las medidas de apremio de ley;
-
-II.- Certificar copias de documentos y constancias de los expedientes relativos a los asuntos de su competencia;
-
-III.- Realizar las acciones necesarias, apegadas a ley para hacer eficiente y eficaz su función.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 34.
 
 Las comunicaciones oficiales expedidas por la Secretaría serán suscritas de la siguiente manera:
 
-I.- Las dirigidas al Titular del Poder Ejecutivo del Estado, por el Secretario;
+I.- Las dirigidas al Titular del Poder Ejecutivo del Estado, así como a los titulares de las dependencias de los Gobiernos Federal, Estatal o Municipal, por el Secretario;
 
-II.- Las dirigidas a los titulares de las dependencias de los Gobiernos Federal, Estatal o Municipal, por el Secretario, y
-
-III.- Las dirigidas a los contribuyentes, por el Secretario o los Titulares de las Unidades de la propia Secretaría, en la materia de su competencia o por quienes estos designen.
+II.- Las dirigidas a los contribuyentes, por el Secretario o los Titulares de las Unidades de la propia Secretaría, en la materia de su competencia.
 
 T R A N S I T O R I OS:
 
@@ -876,3 +1096,25 @@ UNICO.- El presente decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 4 de octubre e 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE FEBRERO DE 2005.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los recursos de revocación y solicitudes de condonación de multas, que se encuentren pendientes de resolver en las Direcciones de Ingresos y de Auditoria Fiscal a la entrada en vigor del presente Decreto, serán turnados por esas Unidades Administrativas a la Dirección General Jurídica para que en términos de lo establecido en el artículo 16° A, de este Reglamento Interior resuelva lo conducente.
+
+De igual manera, los juicios de nulidad y de amparo que se encuentren pendientes de resolución, serán turnados por las mismas Unidades Administrativas a la Dirección General Jurídica, para que ésta continúe con su trámite.
+
+En los casos a que se refieren los dos párrafos anteriores, la entrega se hará levantando las actas correspondientes en términos de las disposiciones legales aplicables.
+
+###### ARTICULO TERCERO.
+
+Las Unidades Administrativas que con motivo de las reformas a este Reglamento dejen de ser competentes para atender y resolver asuntos que regularmente venían resolviendo, deberán turnarlos con los antecedentes del caso a la Unidad Administrativa que resulte competente conforme este Decreto.
+
+###### ARTICULO CUARTO.
+
+El personal que con motivo de las reformas al presente Reglamento, sea reubicado en una Unidad Administrativa diversa a la que estaba adscrito, se integrará de manera formal a su nueva área, para lo cual la Coordinación General Administrativa realizará los trámites que correspondan.
