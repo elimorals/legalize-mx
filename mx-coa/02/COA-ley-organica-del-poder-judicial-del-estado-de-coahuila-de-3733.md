@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1996-07-02"
+last_updated: "1997-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -65,7 +65,15 @@ c).- Penales; y
 
 d).- Mixtos, cuando deban conocer de dos o más materias;
 
-IV.- (DEROGADA, P.O. 2 DE JULIO DE 1996)
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+IV.- Por los Juzgados Locales Letrados, que en razón de la materia serán:
+
+a).- Civiles;
+
+b).- Penales; y
+
+c).- Mixtos, cuando deban conocer de ambas materias;
 
 V.- Por los Juzgados de Conciliación; y
 
@@ -74,6 +82,10 @@ VI.- Por los demás órganos que se creen en las leyes, con cualquier otra denom
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Los árbitros voluntarios no ejercerán autoridad pública; pero conocerán del asunto o asuntos que les encomienden los interesados, de acuerdo a las reglas y restricciones que fijen las Leyes y según los términos de los compromisos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+El Consejo de la Judicatura del Estado de Coahuila tendrá la competencia y atribuciones que señale la presente ley.
 
 ###### ARTICULO 3o.
 
@@ -221,11 +233,29 @@ VI.- Dirimir cualquier controversia que se suscite entre las Salas del Tribunal;
 
 VII.- Resolver, en única instancia, las demandas que por responsabilidad civil se presenten contra los magistrados del Tribunal Superior;
 
-VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, en términos del Capítulo IV del Título Décimo de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-IX.- Conocer de las denuncias de contradicción sobre criterios sustentados por las Salas y por los Tribunales Unitarios de Distrito, procurando su uniformidad.
+VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, excepto la que sea competencia del Consejo de la Judicatura, en los términos del capítulo IV del título décimo de esta ley;
 
-Las resoluciones que sobre el particular pronuncie el Pleno, sólo tendrán el efecto de fijar el criterio de interpretación y no afectará las situaciones jurídicas concretas derivadas de las resoluciones dictadas en los procesos en que hubiese ocurrido la contradicción;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+IX.- Conocer de las denuncias de contradicción sobre criterios sustentados por las salas y por los tribunales unitarios de distrito, o entre éstos, procurando su uniformidad.
+
+Las resoluciones que sobre el particular pronuncie el Pleno del Tribunal Superior de Justicia, tendrán el carácter de tesis de jurisprudencia de observancia obligatoria para todos los tribunales unitarios y juzgados del Estado, cualquiera que sea su denominación. La que surtirá su efecto a los tres días del día en que se publique en el Boletín de Información Judicial o en el Periódico Oficial del Estado, según ocurra primero. Para su decisión, el Pleno no estará obligado a observar alguno de los criterios en contradicción, sino que podrá establecer un tercero.
+
+La tesis de jurisprudencia dejará de surtir efecto, cuando se interrumpa por otra en contrario del propio Pleno, aprobada por las dos terceras partes de los magistrados, por lo menos. O bien, cuando se interrumpa por otra en contrario de la Suprema Corte de Justicia de la Nación o de alguno de los tribunales colegiados del circuito federal en que se comprenda al Estado; así como por nueva disposición constitucional o legal aplicables.
+
+El Pleno del Tribunal Superior de Justicia, a propuesta de su Presidente, emitirá el reglamento bajo el cual se depurarán y glosarán las tesis. Estará a cargo del Pleno aprobar la glosa de la tesis y ordenar que se publique dentro de los sesenta días siguientes al día en que se resuelva la denuncia de contradicción. En cualquier caso, el Pleno del Tribunal deberá enviar al Periódico Oficial del Estado para su publicación la tesis glosada, quince días antes de que venza el plazo anterior.
+
+La denuncia de contradicción de criterios podrá formularse por cualquier persona; por el Procurador General de Justicia del Estado o integrantes de su dependencia previamente autorizados por él mediante oficio que envíe al Pleno; o por cualquier organismo u asociación legalmente constituida, por conducto de su representante legal debidamente acreditado. También podrán formular la denuncia los Jueces; Tribunales Unitarios; Salas del Tribunal Superior de Justicia o cualquiera de los Magistrados de éste.
+
+La denuncia de contradicción se presentará ante la Secretaría del Pleno. La que le dará vista en la primera sesión ordinaria de cada mes, en la que se encargará la ponencia en estricto turno a uno de los Magistrados adscritos a la Sala de la materia sobre la que verse permanentemente la contradicción. Quien deberá formular la ponencia dentro de los sesenta días siguientes.
+
+Cuando la denuncia de contradicción se refiera a criterios sustentados exclusivamente en materia civil o penal, ya sea de carácter sustantivo o procesal, y en la votación para resolver sobre ellas exista empate, tendrá calidad el sentido en que hayan votado la mayoría de los magistrados de la Sala de la materia que corresponda.
+
+Las tesis de jurisprudencia no afectarán las situaciones jurídicas concretas derivadas de las resoluciones dictadas en los procesos en que hubiese ocurrido la contradicción.
+
+Los tribunales unitarios de Distrito y las Salas del Tribunal Superior de Justicia, deberán remitir mensualmente a la Presidencia del Tribunal Superior de Justicia los criterios debidamente glosados que estimen relevantes, aprobados por la Sala o magistrado que corresponda, sustentados en las resoluciones dictadas en los procesos en que hayan conocido. La Presidencia del Tribunal publicará trimestralmente en el Boletín Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia del Pleno. De todas suertes, podrá denunciarse contradicción de criterios sin que se hayan glosado, aprobado o publicado;
 
 X.- Elegir al Presidente del Tribunal Superior, que lo será también del Pleno;
 
@@ -233,19 +263,21 @@ XI.- Realizar los cambios que sean necesarios entre los magistrados numerarios, 
 
 XII.- Exigir del presidente del Tribunal el fiel cumplimiento de sus obligaciones y la responsabilidad en que incurra de acuerdo a la Ley, en el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+XIII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
-XIII.- Nombrar y remover, en los términos que señala esta ley, a los Magistrados de Distrito, Jueces de Primera Instancia y de Conciliación, Secretario del Pleno y demás personal del Tribunal Superior que no dependa de las Salas;
-
-XIV.- Señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales subalternos, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares en donde existan varios Juzgados de Primera Instancia;
+XIV.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
 XV.- Señalar la adscripción de los magistrados para la integración de cada una de las Salas;
 
-XVI.- Otorgar estímulos y recompensas, conforme a las disposiciones de esta Ley, al personal judicial que lo merezca por el desempeño de su trabajo en el ejercicio de sus cargos;
+XVI.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
-XVII.- Discutir, aprobar y modificar, según proceda, el proyecto de presupuesto anual de egresos que proponga el presidente del Tribunal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-XVIII.- Acordar el aumento de las Salas del Tribunal Superior y el aumento o supresión de otros órganos, así como la planta de servidores públicos de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan los recursos financieros del Poder Judicial;
+XVII.- Discutir, aprobar y modificar, según proceda, el proyecto de Presupuesto Anual de Egresos que corresponda a las Salas del Tribunal Superior de Justicia, a propuesta del Presidente del Tribunal;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XVIII.- Acordar el aumento o supresión de las Salas del Tribunal Superior, así como la planta de servidores públicos adscritos a ellas, cuando las necesidades del servicio lo requieran y lo permita el presupuesto asignado al Tribunal Superior de Justicia. Los secretarios de estudio y cuenta de cada magistrado, serán designados y removidos libremente por el magistrado que corresponda. Sin perjuicio de que, en el último supuesto, los secretarios conserven el derecho de escalafón si sirvieron por más de un año y se les dé preferencia, si se encuentran en condiciones de igualdad con otros, para su designación en otros cargos;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
 
@@ -255,35 +287,33 @@ En este caso los magistrados supernumerarios percibirán los mismos emolumentos 
 
 Los acuerdos a que se refiere esta fracción y la que antecede, serán publicados previamente en el Periódico Oficial del Estado, para que surtan sus efectos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-XX.- Ordenar a sus miembros la práctica de visitas ordinarias y extraordinarias a los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia y de Conciliación, cuando lo estime necesario a los lugares de reclusión o de readaptación, con objeto de proveer a una mejor administración de justicia.
+XX.- Solicitar al Consejo de la Judicatura la práctica de visitas ordinarias o extraordinarias a los tribunales unitarios de distrito, juzgados y, cuando lo estime necesario, a los lugares de reclusión o de readaptación, con objeto de proveer a una mejor administración de justicia;
 
-En el caso de los Juzgados de Conciliación, la práctica de visitas podrán encomendarse a los Jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-XXI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia;
+XXI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia, siempre que no se trate de la competencia del Consejo de la Judicatura;
 
-XXII.- Conceder licencias y permisos en los términos del Capítulo I, Título octavo de esta Ley.
-
-Las licencias y los magistrados del Tribunal Superior serán concedidas por el Congreso y en sus recesos, por la Diputación Permanente;
+XXII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
 XXIII.- Fijar en el último Pleno del año, el calendario de labores del Poder Judicial correspondiente al siguiente año, precisando los períodos de vacaciones, los días inhábiles y aquellos días en que no habrá actuaciones;
 
 XXIV.- Aprobar anualmente las listas de personas que podrán ejercer los cargos de síndicos e interventores en los juicios de concurso; albaceas e interventores en los juicios sucesorios; depositarios y demás auxiliares de la administración de justicia que deban designarse en los asuntos que se tramiten ante los tribunales, en los términos del Capítulo Primero del Título Décimo Tercero;
 
-XXV.- Fijar los emolumentos que deban percibir los magistrados supernumerarios, cuando conozcan de uno o varios asuntos determinados;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXV.- Fijar los emolumentos que deban percibir los magistrados supernumerarios, cuando conozcan de uno o varios asuntos determinados, excepto cuando la asignación de funciones competa al Consejo de la Judicatura;
 
 XXVI.- Atender las excitativas de justicia, a petición fundada de parte;
 
-XXVII.- Supervisar el funcionamiento de los órganos que integran el Poder Judicial; así como el desempeño de sus servidores públicos y dictar las providencias necesarias para el mejoramiento de la administración de Justicia;
+XXVII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
-XXVIII.- Designar al oficial mayor y al secretario particular de la Presidencia del Tribunal, a propuesta del Presidente del Pleno, así como al demás personal de ambas dependencias;
+XXVIII.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
-XXIX.- Aprobar el Reglamento Interior del Tribunal y de las Salas;
+XXIX.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA P.O. 2 DE JULIO DE 1996)</small>
-
-XXX.- Aprobar el Reglamento Interior de los Tribunales Unitarios de Distrito, Juzgados, y demás dependencias del Poder Judicial;
+XXX.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 1997)
 
 XXXI.- Las demás que le confieran las leyes.
 
@@ -323,29 +353,37 @@ V.- Presidir las sesiones que celebre el Tribunal Pleno; dirigir los debates con
 
 VI.- Convocar a sesiones extraordinarias, así como a la instalación de la Sala Auxiliar en materia electoral, y hacer la declaratoria de inicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-VII.- Formular anualmente el proyecto de presupuesto de egresos del Poder Judicial, o su ampliación cuando la materia electoral de que deba conocer así lo requiera; y someterlo a la consideración del Pleno. Aprobado éste, el Presidente deberá proponerlo al Ejecutivo, para los efectos del artículo 152, de la Constitución Política;
+VII.- Formular anualmente el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno o del Consejo de la Judicatura, según proceda, previendo las ampliaciones pertinentes cuando deba instalarse la Sala Auxiliar Electoral, y sin perjuicio de proponer otras ampliaciones cuando así sea necesario;
 
 VIII.- Establecer las políticas generales, supervisar la administración de los recursos humanos y el ejercicio del Presupuesto de Egresos que se fije para el Poder Judicial, así como los del Fondo de Mejoramiento de la Administración de Justicia;
 
 IX.- Rendir ante el Congreso del Estado, en el mes de enero de cada año, un informe sobre los movimientos de ingresos y egresos del año anterior, tanto del Presupuesto de Egresos como del Fondo para el Mejoramiento de la Administración de Justicia;
 
-X.- Rendir, en la última sesión del año, un informe anual al Pleno sobre las actividades desarrolladas por el Poder Judicial;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+X.- Rendir, en sesión conjunta que se celebre en el mes de diciembre, un informe anual al Pleno del Tribunal Superior de Justicia y al Consejo de la Judicatura, sobre las actividades desarrolladas por el Poder Judicial;
 
 XI.- Recibir las quejas motivadas por demoras o faltas en el despacho de los negocios de las Salas; integrando los expedientes respectivos, emitiendo opinión y turnándolos al Pleno para su conocimiento y resolución;
 
-XII.- Dar cuenta al Tribunal Pleno de las demandas de responsabilidad civil que se presenten en contra de los Magistrados del Tribunal Superior;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XII.- Dar cuenta al Tribunal Pleno de las demandas de responsabilidad civil que se presenten en contra de los magistrados del Tribunal Superior, así como al Consejo de la Judicatura respecto de las que se presenten en contra de los demás servidores públicos del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
 
 XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada, hasta por quince días, a los Magistrados Unitarios de Distrito, a los Jueces y a los demás empleados del Tribunal, que no dependan de las Salas;
 
-XIV.- Someter a la consideración del Pleno, las solicitudes de licencias de los servidores del Poder Judicial, cuando excedan de quince días;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XIV.- Someter a consideración del Consejo de la Judicatura las solicitudes de licencias de los funcionarios públicos del Poder Judicial distintos de los magistrados del Tribunal Superior de Justicia, cuando excedan de un mes;
 
 XV.- Comunicar al Gobernador del Estado, al Congreso y al Consejo de la Judicatura, las faltas absolutas de los magistrados del Tribunal Superior, para los efectos de que se haga designación;
 
-XVI.- Comunicar al Consejo de la judicatura las faltas temporales que excedan de quince días o las absolutas de los integrantes del Poder Judicial con puestos escalafonarios, para que se cubra la vacante en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XVI.- Comunicar al Consejo de la Judicatura las faltas temporales que excedan de un mes o las absolutas cuya cobertura le competa, para que se cubra la vacante en los términos de esta Ley;
 
 XVII.- Llevar el turno de los magistrados supernumerarios, haciendo las designaciones correspondientes para suplir las faltas que ocurran en el Pleno;
 
@@ -373,23 +411,35 @@ XXVIII.- Vigilar el buen funcionamiento de la Biblioteca y del Archivo Judicial;
 
 XXIX.- Autorizar el registro, en la Secretaría del Pleno, de los títulos de abogados o licenciados en derecho, cuando ejerzan la profesión en el territorio del Estado;
 
-XXX.- Llevar el control estadístico de juicios iniciados, en trámite y concluidos y dar cuenta al Pleno de los informes mensuales que rindan los magistrados de Distrito, jueces de Primera Instancia y de Conciliación, así como los Presidentes de los Consejos Tutelares para Menores;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXX.- Llevar el control estadístico y de evaluación de juicios iniciados, en trámite y concluidos. Y dar cuenta al Pleno de los informes mensuales que rindan las Salas del Tribunal Superior de Justicia y al Consejo de la judicatura de los que rindan los Magistrados de Distrito y jueces, así como de las evaluaciones respectivas;
 
 XXXI.- Tener bajo su control el servicio de vigilancia de los edificios donde residan las diversas oficinas del Poder Judicial;
 
 XXXII.- Ejercer funciones de contralor general del Poder Judicial;
 
-XXXIII.- Expedir oportunamente los nombramientos que acuerde el Tribunal Pleno;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXXIII.- Expedir oportunamente los nombramientos que acuerden el Tribunal Pleno o el Consejo de la Judicatura, en su caso;
 
 XXXIV.- Integrar comisiones entre los magistrados del Tribunal Superior, para llevar a cabo estudios especiales, organizar seminarios y conferencias para la capacitación de los miembros del Poder Judicial e integrar secciones editoriales de la Revista de Información Judicial o de otras publicaciones;
 
 XXXV.- Ejercer la jurisdicción disciplinaria que le corresponda, en los términos del Título Décimo de esta Ley; y
 
-XXXVI.- Las demás que determinen las Leyes y le confiera el Pleno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXXVI.- Designar y remover libremente al Oficial Mayor, al Secretario Particular de la Presidencia del Tribunal, al Director del Archivo General del Poder Judicial y demás personal de esas dependencias;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXXVII.- Las demás que determinen las Leyes y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 15.
 
-La Presidencia del Tribunal Superior de Justicia dispondrá del número de empleados que sean necesarios para el despacho de los asuntos de su competencia y que fije el presupuesto anual.
+La Presidencia del Tribunal Superior de Justicia dispondrá del número de empleados que sean necesarios para el despacho de los asuntos de su competencia y que fije el presupuesto anual, cuyos nombramientos y readscripciones serán efectuados libremente por el Presidente del Tribunal Superior de Justicia, así como sus remociones cuando se trate de personal de confianza.
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
@@ -465,7 +515,7 @@ I.- Calificar los impedimentos, recusaciones y excusas de los magistrados de los
 
 II.- Dirimir los conflictos de competencia que se susciten entre los magistrados de los Tribunales Unitarios; los que surgieren entre los demás órganos judiciales subalternos, que correspondan a jurisdicciones de distintos Tribunales Unitarios de Distrito; en estos casos, atendiendo a la materia que tenga asignada cada Sala.
 
-Si el conflicto surgiere en asuntos de materia tutelar para menores, conocerá del asunto la Sala Familiar;
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 III.- Elegir al Presidente de la Sala;
 
@@ -505,9 +555,9 @@ III.- En primera instancia de las causas civiles en que el Estado sea parte;
 
 IV.- En única instancia, de las demandas de responsabilidad civil presentadas contra los Magistrados de los Tribunales Unitarios de Distrito y Jueces de Primera Instancia;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 1991)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-V.- De los Recursos de Apelación que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+V.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 1996)</small>
 
@@ -525,7 +575,9 @@ I.- De los recursos de apelación contra sentencias definitivas pronunciadas por
 
 II.- En única instancia, de las demandas de responsabilidad civil presentadas en contra de los magistrados de los Tribunales Unitarios de Distrito y jueces, derivadas de su actuación en procesos penales;
 
-III.- De los recursos de apelación, cuya competencia corresponda al Tribunal Unitario, a petición fundada del propio Tribunal o de oficio por sus características especiales el asunto lo amerite; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+III.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
 
 IV.- De los demás asuntos que determinen las leyes.
 
@@ -543,7 +595,9 @@ Para el desempeño de sus funciones cada Sala tendrá los Secretarios de acuerdo
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES, DE LO FAMILIAR, PENALES Y MIXTOS
 
-### CAPITULO VII
+### CAPITULO VII. DE LOS JUECES LOCALES LETRADOS CIVILES, PENALES Y MIXTOS
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VIII. DE LOS JUECES DE CONCILIACION
 
@@ -567,9 +621,17 @@ A los Tribunales Unitarios de Distrito quedarán adscritos, para los asuntos de 
 
 Corresponde a los Tribunales Unitarios de Distrito, el conocimiento de los siguientes asuntos:
 
-I.- De los recursos de apelación y de queja respecto de autos y sentencias interlocutorias dictadas por los jueces de Primera Instancia que estén adscritos a su circunscripción territorial, en asuntos civiles, penales y familiares; así como del recurso de apelación extraordinaria en todos los casos previstos por la Ley.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-II.- De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia de su adscripción;
+I.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias dictadas por los Jueces de Primera Instancia que estén adscritos a su circunscripción territorial, en asuntos civiles, familiares y penales; así como del recurso de apelación extraordinaria en todos los casos previstos por la ley.
+
+De los recursos de apelación de sentencias definitivas dictadas por los Jueces Locales Letrados en Materia Civil de su circunscripción territorial. Con excepción de los Juicios Mercantiles cuya cuantía no exceda de 182 días de salario mínimo general vigente en la fecha de interposición en el lugar que se ventile el procedimiento; así como de los recursos de apelación y de queja respecto de autos y sentencias interlocutorias dictadas por los mismos.
+
+Del recurso de apelación interpuesto ante los juzgados Locales Letrados en Materia Penal, en aquellos casos en que sea procedente;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+II.- De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia y Locales Letrados de su adscripción;
 
 III.- De los conflictos de competencia que se susciten entre los diversos órganos judiciales de su adscripción;
 
@@ -627,9 +689,9 @@ En los Juzgados de Primera Instancia, habrá un juez que será el titular del ó
 
 Los jueces de Primera Instancia en Materia Civil, conocerán:
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; excepto los mercantiles que correspondan al conocimiento de un Juez de Conciliación, en los términos de esta Ley y aquéllos en que se controviertan cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los Jueces de lo Familiar.
+I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; Excepto los mercantiles que correspondan al conocimiento de un juez local letrado en los términos de esta Ley, y aquellos en que se controviertan cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los jueces de lo familiar;
 
 II.- De los juicios hereditarios y de sus conexidades, así como de las acciones de petición de herencia;
 
@@ -647,11 +709,15 @@ VII.- De los negocios de la competencia de los jueces de Primera Instancia en Ma
 
 VIII.- De los demás asuntos que le encomienden las Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 34.
 
-Los jueces de Primera Instancia en Materia Penal conocerán:
+Los Jueces de Primera Instancia en Materia Penal conocerán:
 
-I.- De los procesos por delitos del orden común;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+I.- De los procesos por delitos del orden común, que tengan establecida una pena de prisión máxima superior a cinco años, así como de aquellos otros delitos que se encuentren excluidos del beneficio procesal de penalidad alternativa, o en los casos de delitos conexos, concurso procesal, material o ideal de delitos, cuando uno o más de los delitos se encuentren en los supuestos anteriores;
 
 II.- De los asuntos de lo familiar por incompetencia subjetiva del juez de esa materia, los jueces penales solamente conocerán si también el juez civil del mismo lugar está impedido;
 
@@ -713,37 +779,55 @@ Los jueces de Primera Instancia deberán rendir al Tribunal Superior de Justicia
 
 En los Juzgados de Primera Instancia habrá los Secretarios de estudio y cuenta que las necesidades del servicio requieran y autorice el Presupuesto de Egresos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO II. DE LA CARRERA JUDICIAL
 
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Existirán, en los distritos en que determine el Consejo de la Judicatura, el número de juzgados locales letrados civiles, penales y mixtos, en atención a las necesidades del servicio y a la disposición presupuestal.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 41.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Cuando en un mismo lugar se establezcan dos o más juzgados locales letrados con igual competencia, o juzgados de primera instancia civiles, penales o mixtos, para la asignación de los asuntos que habrán de conocer, el Consejo de la Judicatura determinará el sistema de recepción y distribución de éstos, el que se publicará en el periódico oficial del Gobierno del Estado y en los estrados de los juzgados.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 42.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Los juzgados locales letrados estarán a cargo de un juez designado por el Consejo de la judicatura y contarán con el número de secretarios, actuarios y empleados que requieran, conforme a las necesidades del servicio y que autorice el presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 43.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Los jueces Locales Letrados en Materia Civil conocerán:
+
+I.- De los juicios civiles cuya cuantía sea mayor de 151 días y no exceda de 500 días de salario mínimo general, vigente en la Capital del Estado;
+
+II.- De los juicios mercantiles cuya cuantía no exceda de 500 días de salario mínimo general vigente en la capital del Estado, en la fecha en que se presente la demanda.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 44.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Los Jueces Locales Letrados en Materia Penal conocerán, de los procesos penales por delitos cuya pena máxima de prisión sea hasta de cinco años, o de aquellos que se encuentren amparados con el beneficio procesal de penalidad alternativa o solo con sanción que no sea privativa de la libertad.
+
+Paro los efectos de establecer la competencia conforme al párrafo anterior, no se incluirán los delitos en los que la pena legal máxima de prisión se reduzca a cinco años o menos, por invocarse modalidad, circunstancia modificativa atenuante, exceso, error vencible o imputabilidad disminuida. Ni tampoco de aquellos delitos que se encuentran excluidos del beneficio procesal de penalidad alternativa conforme a la fracción VIII del artículo 55 del Código Penal.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 45.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Los Jueces Locales Letrados Mixtos conocerán de los asuntos a que se refieren los artículos 43 y 44 de esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 46.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Son facultades y obligaciones de los jueces Locales Letrados, en la esfera de su competencia, las establecidas en los artículos 37, fracciones V, VI, VII, VIII y IX, y 38 de esta Ley.
 
 ### CAPITULO III. DE LAS DESIGNACIONES
 
@@ -761,15 +845,15 @@ I.- Intervenir en los negocios civiles cuya cuantía no exceda de 150 días de s
 
 Si no se lograra la conciliación, los jueces emitirán opinión a verdad sabida y buena fe guardada, sobre cual de las partes tiene la razón, haciéndolo saber a los interesados. Si esta opinión no fuera objetada en el término de 3 días se tendrá como resolución definitiva.
 
-En caso contrario, reservarán el derecho a los interesados.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+En caso contrario, reservarán el derecho a los interesados a fin de que lo hagan valer ante el juez competente.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1991)</small>
 
 Los convenios celebrados ante los Jueces de Conciliación tendrán efecto de sentencia ejecutoriada y en caso de que no sea voluntariamente cumplida, será ejecutada por el propio Juez del Conocimiento.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1991)</small>
-
-El Juez de Conciliación cuando sólo exista uno o el Juez Primero de Conciliación, cuando haya varios en la cabecera de los Distritos Judiciales, así como los jueces de conciliación de las cabeceras municipales que satisfagan el requisito previsto en la Fracción V del Artículo 87, conocerá además, dentro de la circunscripción territorial de su municipio, de los Juicios Mercantiles cuya cuantía no exceda de 183 días de salario mínimo general vigente en la fecha y lugar en que se presente la demanda.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 II.- Dar aviso al Ministerio Público, de los hechos que se presuman delictuosos ocurridos dentro del territorio en que actúen;
 
@@ -781,9 +865,15 @@ V.- Recoger las armas, instrumentos y demás objetos que hayan servido para la c
 
 VI.- Dar fe de las huellas materiales que dejaren los hechos delictuosos, dictando las medidas necesarias para que no desaparezcan, en tanto la autoridad competente tome las medidas que correspondan;
 
-VII.- Practicar las diligencias que les encomienden los jueces de Primera Instancia; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+VII.- Practicar las diligencias que les encomienden los jueces de Primera Instancia y Locales y Letrados; y
 
 VIII.- Las demás que les fije la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+De las diligencias y medidas a que se refieren las fracciones anteriores, se levantará acta circunstanciada, que autorizarán dos testigos de asistencia.
 
 ### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
 
@@ -905,19 +995,45 @@ Estará integrado por el presidente del Tribunal Superior de Justicia, quien lo 
 
 En el caso de que haya dos o más magistrados de distrito, o dos o más jueces de Primera instancia con la misma antigüedad, integrará el Consejo de la Judicatura el de mayor edad, según corresponda.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 57.
 
-Para el desempeño de sus funciones, el Consejo de la Judicatura expedirá su propio reglamento interior, tomando en consideración las bases siguientes:
+Son atribuciones del Consejo de la Judicatura las siguientes:
 
-I.- Sesionará cuando menos una vez cada tres meses y cuantas veces sea convocado por sus presidente;
+I.- Nombrar y remover en los términos que señale la ley, a los Magistrados Unitarios de Distrito, Jueces de Primera Instancia, Jueces Locales Letrados, de Conciliación y demás personal del Poder Judicial que no dependa de las Salas o de la Presidencia del Tribunal Superior de Justicia;
 
-II.- Para la validez de su acuerdo será necesaria la asistencia de la mayoría de sus integrantes;
+II.- Crear, a propuesta del Presidente del Tribunal, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, más órganos jurisdiccionales subalternos, cuyos titulares están facultado (sic) a nombrar según la fracción anterior;
 
-III.- El presidente tendrá voto de calidad;
+III.- A propuesta del Presidente del Tribunal, señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales subalternos, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios juzgados de primera instancia;
 
-IV.- El Consejo de la Judicatura, por conducto del presidente del Tribunal Superior, podrá solicitar el auxilio de los magistrados de los Tribunales Unitarios de Distrito y de los Jueces de Primera Instancia. Ese mismo auxilio podrá solicitarlo el Ministerio Público a través del procurador general de justicia y de los colegios de abogados y notarios, a través de sus respectivos presidentes; y
+IV.- Discutir, aprobar y modificar según proceda el proyecto del Presupuesto de Egresos que proponga el Presidente del Tribunal Superior, con excepción del que corresponde al Tribunal Superior de Justicia y sus Salas;
 
-V.- Contará con un secretario que deberá satisfacer los mismos requisitos que los secretarios de estudio y cuenta.
+V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorías especiales, o las visitas de inspección ordinarias a los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia, Locales Letrados y de Conciliación. Y cuando lo estime necesario, a los lugares de reclusión o de readaptación. Con objeto de proveer a una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima.
+
+En el caso de los Juzgados Locales Letrados y de Conciliación, la práctica de visitas también podrá encomendarse a los Magistrados Unitarios de Distrito o Jueces de Primera Instancia;
+
+VI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia, con excepción de aquellas que sean competencia del Pleno del Tribunal Superior de Justicia;
+
+VII.- Fijar los emolumentos que deban percibir los magistrados supernumerarios, cuando conozcan de uno o varios asuntos determinados, excepto cuando las funciones se les asignen por el Pleno del Tribunal Superior de Justicia, en la esfera de su competencia;
+
+VIII.- Supervisar el funcionamiento de los órganos que integran al Poder Judicial, así como el desempeño de sus servidores públicos y dictar las providencias necesarias para el mejoramiento de la administración de justicia, con excepción del Pleno del Tribunal;
+
+IX.- Fijar los criterios generales de evaluación mensual de juicios iniciados, en trámite y concluidos en el Poder Judicial. Basados, por lo menos, en el rendimiento, eficiencia y eficacia. Y, en su caso, previa ponderación de las evaluaciones respectivas, tomar las providencias que estime necesarias, con excepción del Pleno del Tribunal;
+
+X.- Fijar los criterios generales del contenido programático sobre el que deban versar los exámenes de mérito que deban sustentar los aspirantes a algún cargo del Poder Judicial. Así como para la elaboración, convocatoria, instrumentación y evaluación objetiva y personal de aquellos. Cuya aplicación podrá supervisar colegiadamente o por comisionados. Por sí, o junto con la Presidencia del Tribunal Superior;
+
+XI.- Expedir su reglamento interior, discutir y, en su caso aprobar, los reglamentos que sean necesarios para regular el funcionamiento del Poder Judicial y de sus órganos, que se le presenten por el Presidente del mismo; y
+
+XII.- Las demás que le asigne esta ley y demás disposiciones aplicables;
+
+El Consejo de Judicatura sesionará cuando menos una vez al mes, y cuando se convoque por su Presidente o por más de tres de sus miembros.
+
+Para que haya quórum legal en sus sesiones, se requerirá la asistencia de su Presidente y de la mayoría de sus integrantes. A falta del primero, el quórum legal será de las dos terceras partes de sus integrantes. Sus acuerdos se tomarán por mayoría de los votos de los presentes. Cuando haya empate, tendrá calidad el sentido en que haya votado el Presidente.
+
+El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior de Justicia, podrá solicitar el auxilio de los Magistrados del Tribunal Superior de Justicia, de los Magistrados de los Tribunales Unitarios de Distrito y de los jueces, cualquiera que sea su denominación, para el mejor cumplimiento de sus funciones.
+
+El Consejo de la Judicatura contará con un Secretario de Acuerdo y Trámite, con los Secretarios de Estudio y Cuenta, y demás personal que sean necesarios y autorice el presupuesto. Los secretarios deberán satisfacer los mismos requisitos que esta ley señala para los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, respectivamente, quienes tendrán el escalafón que corresponde a los secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, del Tribunal Unitario de Distrito.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -925,17 +1041,9 @@ V.- Contará con un secretario que deberá satisfacer los mismos requisitos que 
 
 Cuando deban designarse magistrados del Tribunal Superior de Justicia, propondrá al Gobernador del Estado, la lista de candidatos, que no podrá ser menor de tres para cada magistrado numerario o supernumerario. Para la formulación de estas listas, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos del artículo 13 de la Constitución Política del Estado, prefiriendo en todo caso, a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
-
 ###### ARTICULO 59.
 
-El Consejo de la Judicatura emitirá opinión fundada en el improrrogable de cinco días, en todos los casos de nombramientos que deba hacer el Pleno del Tribunal Superior de Justicia, de Magistrados de los Tribunales Unitarios de Distrito y de Jueces de Primera Instancia.
-
-Cuando la opinión del Consejo de la Judicatura sea unánimemente adversa a una propuesta, el Pleno del Tribunal Superior sólo podrá sostenerla mediante el voto de las dos terceras partes de sus integrantes.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
-
-Si el Consejo de la Judicatura no emite opinión dentro del término a que se refiere el primer párrafo de este artículo, el Pleno del tribunal procederá a hacer la designación correspondiente.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 60.
 
@@ -981,37 +1089,43 @@ XI.- Los servidores de la administración de justicia de carrera disfrutarán de
 
 XII.- Salvo caso de renuncia voluntaria, cese o jubilación por causa justificada, la carrera judicial termina a los 70 años, en cuya edad la jubilación será forzosa.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 63.
 
-Las vacantes que se registren en los cargos de Magistrados de Tribunales Unitarios y Jueces de Primera Instancia, así como la de Secretario, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas por escalafón, teniendo en cuenta la capacidad y aptitud del aspirante; su eficacia en sus actividades anteriores; las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento y calidad de su trabajo, en el ejercicio de los cargos que haya desempeñado; las calificaciones que haya obtenido en el Instituto de Especialización Judicial; y en igualdad de circunstancias, su antigüedad en el servicio; sin perjuicio de que también puedan cubrirse las vacantes con personas que, aunque no presten su servicio al Poder Judicial, los hayan prestado con eficiencia y probidad notorias o por personas que sean merecedoras por su honradez, competencia y antecedentes. En todo caso, unos y otros deberán sustentar y aprobar el examen de méritos correspondiente.
+Las vacantes o nuevas plazas que se registren en los cargos de magistrados de tribunales unitarios, jueces de primera instancia, jueces locales letrados, así como la de secretarios, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas de acuerdo al turno correspondiente y, en su caso, por escalafón, teniendo en cuenta la capacidad y aptitud del aspirante; las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento, eficiencia y eficacia de su trabajo, en el ejercicio de los cargos que haya desempeñado; las calificaciones que haya obtenido en el Instituto de Especialización Judicial; y en igualdad de circunstancias, su antigüedad en el servicio; sin perjuicio de que, según el turno, también puedan cubrirse las vacantes con personas que sean merecedoras por su honradez, competencia y antecedentes.
+
+Respecto de los que también se valorará, si fuere el caso, los cursos que hubieren tomado. En todo caso, unos y otros deberán sustentar y aprobar el examen de méritos correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 64.
 
 El orden de escalafón en los cargos judiciales, es el siguiente:
 
-a).- Actuario de Juzgado de Primera Instancia;
+a).- Actuario de Juzgado Local Letrado;
 
-b).- Actuario del Tribunal Unitario de Distrito;
+b).- Actuario de Juzgado de Primera Instancia;
 
-c).- Actuario del Tribunal Superior de Justicia;
+c).- Actuario del Tribunal Unitario de Distrito;
 
-d).- Secretario de Juzgado de Primera Instancia;
+d).- Actuario de las Salas del Tribunal Superior de Justicia;
 
-e).- Secretario de acuerdo y trámite y de estudio y cuenta del Tribunal Unitario de Distrito;
+e).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta de Juzgado Local Letrado;
 
-f).- Secretario de acuerdo y trámite de las Salas del Tribunal Superior de Justicia;
+f).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta de Juzgado de Primera Instancia;
 
-g).- Secretario de estudio y cuenta de las Salas y Secretario del Pleno del Tribunal Superior de Justicia;
+g).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta del Tribunal Unitario de Distrito;
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+h).- Jueces Locales Letrados;
 
-h).- Juez de Primera Instancia; e,
+i).- Secretario de Acuerdo y Trámite de las Salas del Tribunal;
 
-i).- Magistrado del Tribunal Unitario.
+j).- Secretario de Estudio y Cuenta de las Salas y Secretario del Pleno del Tribunal Superior de Justicia;
 
-Los jueces de Conciliación no tendrán derecho a ascenso por escalafón; sin embargo, podrá hacer aplicación para obtener una categoría superior a partir de Secretario de Juzgado de Primera Instancia siempre y cuando reúnan los requisitos que para la misma exija la Ley y sustenten y aprueben el examen de méritos correspondiente, debiendo tomarse en consideración en todo caso la eficiencia y probidad con que se hayan desempeñado.
+k).- Juez de Primera Instancia; y
+
+l).- Magistrado del Tribunal Unitario.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -1139,21 +1253,41 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 V.- Sustentar y aprobar el examen de méritos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 84.
 
-Los magistrados de los Tribunales Unitarios de Distrito y los jueces de Primera Instancia, serán nombrados por el Pleno del Tribunal Superior de Justicia del Estado.
+Los magistrados de los tribunales unitarios de distrito, los jueces de primera instancia y los jueces locales letrados, serán nombrados por el Consejo de la Judicatura, con base en el procedimiento y requisitos que establezca la ley y demás disposiciones aplicables.
 
-Se establecen dos turnos para los nombramientos de magistrados y jueces comprendidos en los escalafones correspondientes a las especialidades.
+Se establecen dos turnos para los nombramientos de magistrados y jueces para cada una de las especialidades correspondientes.
 
-El Primer Turno, en el que se cubrirán el 70% de las vacantes por ascensos, con sujeción estricta al escalafón previa la aprobación del examen de méritos.
+El Primer Turno, en el que se cubrirá el 70% de las vacantes por ascensos, con sujeción estricta al escalafón, criterios legales de selección y previa la aprobación del examen de méritos.
 
-Segundo Turno, en el que se cubrirán el 30% de las vacantes entre quienes reúnan méritos sobresalientes y excepcionales en el ejercicio libre de la profesión o en otro ramo del gobierno distinto al judicial, siempre y cuando aprueben el examen de méritos.
+Segundo Turno, en el que se cubrirán el 30% de las vacantes con personas que no presten sus servicios al Poder Judicial. Pero que en otro ramo del gobierno distinto al judicial los hayan prestado con eficiencia y probidad. O por personas que sean merecedoras por su honradez, competencia y antecedentes en el ejercicio de la profesión, siempre y cuando unos y otros aprueben el examen de méritos.
 
-Cuando no haya aspirantes en propuestas para cubrir las vacantes del Segundo Turno, se estará a lo dispuesto para el primer turno.
+Cuando se produzca una vacante o se cree plaza nueva, se atenderá al turno de la especialidad que corresponda en estricto orden. Si se agota el turno sin que se cubra la vacante o plaza nueva, se pasará al turno siguiente.
+
+La lista de los turnos por especialidades y el estado en que se encuentren se llevará por la Secretaría de Acuerdo y Trámite del Consejo de la Judicatura, la que dará cuenta de estos al Presidente del Tribunal Superior y al Consejo de la Judicatura. En las convocatorias para exámenes de mérito y después de las designaciones, se dará a conocer la lista y el estado en que se encuentren los turnos, o su actualización, en los estrados de los juzgados, tribunales unitarios, Salas y Presidencia del Tribunal Superior de Justicia.
+
+Cuando los turnos estén vacantes, hasta en tanto se acuerde o realice debido procedimiento de selección y en caso de cargo vacante o plaza nueva, se designará a un interino.
+
+Se procederá de la misma forma señalada en los párrafos anteriores, tratándose de nombramientos de secretarios de tribunales unitarios y de juzgados de primera instancia. Así como para los nombramientos de secretarios de juzgados locales letrados.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 85.
 
-(DEROGADO, P.O. 2 DE JULIO DE 1996)
+Para ser designado juez local letrado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y coahuilense en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener veinticinco años de edad y no más de sesenta y cinco el día de la designación;
+
+III.- Tener título oficial de abogado y haber ejercido la profesión dos años por lo menos;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena mayor a un año de prisión; siendo motivo de inhabilitación del cargo cualquiera que haya sido la pena si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público; y
+
+V.- Sustentar y aprobar el examen de mérito.
 
 ###### ARTICULO 86.
 
@@ -1217,9 +1351,9 @@ Los Secretarios, cualquiera que sea su categoría, y los actuarios, serán nombr
 
 Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-Los Magistrados de Distrito, los J ueces de Primera Instancia, lo harán ante el Tribunal Superior de Justicia.
+Los Magistrados de Distrito, los Jueces de Primera Instancia y Locales Letrados, lo harán ante el Consejo de la Judicatura o su Presidente.
 
 Los jueces de Conciliación protestarán ante el ayuntamiento del municipio en que residan.
 
@@ -1287,7 +1421,7 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 
 ### CAPITULO V. DE LA VALORACION DEL SERVICIO
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 103.
 
@@ -1310,6 +1444,8 @@ Al iniciarse cada período de sesiones, el Tribunal lo comunicará a los Poderes
 Lo mismo se observará en el caso de nuevas designaciones de Magistrados del Tribunal Superior.
 
 ### CAPITULO I. DEL ARCHIVO JUDICIAL
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 106.
 
@@ -1455,33 +1591,65 @@ VI.- A las personas autorizadas por el Titular, para fines docentes o de investi
 
 La vigilancia judicial tiene por objeto velar por que la justicia se administre oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la Administración de Justicia y puntual desempeño de sus deberes.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 120.
 
-La vigilancia judicial se ejercerá por el Pleno del Tribunal Superior de Justicia, por su presidente, o por los jueces de Primera Instancia, en quienes aquellos deleguen esta función por lo que hace a los Juzgados de Conciliación.
+La Visitaduría Judicial General es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento de las Salas Colegidas, los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia, Locales Letrados y de Conciliación, así como para supervisar las conductas de los integrantes de estos órganos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 121.
 
-La vigilancia judicial se ejercerá principalmente por medio de visitas generales y especiales.
+El Visitador Judicial será designado y removido libremente por el Consejo de la Judicatura, a propuesta de su Presidente.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+El Visitador deberá satisfacer los requisitos siguientes: contar con treinta y cinco años de edad o más; gozar de buena reputación; no haber sido condenado por delito con pena privativa de libertad; tener título de licenciado en derecho legalmente expedido y práctica profesional de cuando menos cinco años.
 
-Las visitas generales se practicarán a cada dependencia judicial por lo menos una vez al año, y tendrán por objeto comprobar la asistencia del personal; su comportamiento y rendimiento; el orden y exactitud de los datos contenidos en los libros y expedientes; el correcto manejo de los títulos valores; y la existencia de los efectos que correspondan a cada asunto; así como el estado de la oficina y condiciones de trabajo. Se recibirá en audiencia a los interesados que deseen hacer planteamientos relacionados con la administración de justicia; a cuyo efecto estas visitas serán anunciadas con toda anticipación.
+El Consejo de la Judicatura establecerá, a propuesta del Presidente, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño del Visitador para efectos de lo dispuesto en esta ley en materia de responsabilidad.
+
+Corresponde a la Visitaduría Judicial General, formular y proponer al Consejo de la Judicatura, por conducto de su Presidente, los criterios generales de evaluación mensual, semestral y anual de juicios iniciados, en trámite y concluidos en el Poder Judicial, basados, por lo menos, en el rendimiento, eficiencia y eficacia; así como llevar el control de las evaluaciones y verificar la autenticidad de los datos que se proporcionen en los informes estadísticos correspondientes. Igualmente, informar de ello periódicamente y cuando sea necesario al Consejo, por conducto de su Presidente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 122.
 
-De cada visita se levantará un acta, en la que se asentarán las conclusiones del caso. Con el original se dará cuenta al Pleno, dejándose una copia en poder del servidor público visitado y otra en poder del visitador.
+El Visitador Judicial General se auxiliará en el desempeño de sus funciones por los visitadores judiciales que sean necesarios y el personal que prevea el presupuesto y acuerde el Consejo de la Judicatura; ejercerá sus funciones de conformidad con las disposiciones generales que emita el Consejo de la Judicatura para tal efecto y conforme a las instrucciones del Presidente del Tribunal. El Consejo de la Judicatura fijará los criterios de selección de los visitadores judiciales.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+El Visitador Judicial General deberá informar con la debida oportunidad al Presidente del Tribunal, de las visitas ordinarias de inspección que se vayan a practicar a fin de que se proceda a fijar el correspondiente aviso en los estrados del órgano, con una anticipación mínima de quince días. Para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias.
 
-Si del acta resultaren irregularidades, se iniciará el procedimiento respectivo, a fin de hacer efectiva la sanción disciplinaria que corresponda.
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-En el acta de visita se consignarán no sólo las irregularidades resultantes, sino también, se dejará constancia de los aspectos positivos que merezcan ser destacados.
+ARTICULO 122 A.- En las visitas ordinarias el Visitador Judicial General o los visitadores judiciales, considerando las particularidades de cada órgano, realizarán, además de lo que específicamente determine el Consejo de la Judicatura, lo siguiente:
+
+I.- Solicitar la lista del personal para comprobar su asistencia;
+
+II.- Verificar que los valores estén debidamente guardados, ya sea en la caja de seguridad del órgano visitado, o en alguna institución de crédito;
+
+III.- Comprobar que se encuentren debidamente asegurados los instrumentos y objetos de delito;
+
+IV.- Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
+
+V.- Hacer constar el número de asuntos que hayan ingresado al órgano visitado durante el tiempo que comprenda la visita. Y determinar si los procesados que disfrutan de libertad caucional han cumplido con la obligación de presentarse en los plazos fijos, y el estado en que se encuentran los procesos en suspenso con relación al término de prescripción de la acción penal;
+
+VI.- Examinar los expedientes a fin de verificar: que se lleven con arreglo a la ley; que las resoluciones y acuerdos hayan sido dictados y cumplidos oportunamente; que las notificaciones y diligencias se efectúen en los plazos legales; que los exhortos y despachos hayan sido diligenciados; y que se observen los términos constitucionales y demás garantías que la Constitución Política de los Estados Unidos Mexicanos y la ley otorga a los procesados, víctimas y ofendidos.
+
+Cuando el visitador advierta que en un proceso se venció el término para dictar sentencia o pronunciar otra resolución, recomendará que ésta se pronuncie a la brevedad posible. En cada uno de los expedientes revisados, se pondrá la constancia respectiva, y
+
+VII.- Revisar que se haya cumplido con la ley en los juicios de amparo en que el órgano visitado sea autoridad responsable;
+
+De toda visita de inspección deberá levantarse acta circunstanciada. En la cual se hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, y la firma del juez o magistrado que corresponda y la del visitador.
+
+Una copia del acta levantada por el visitador se entregará al titular del órgano visitado y el original se remitirá a la Presidencia del Tribunal Superior de Justicia y al Consejo de la Judicatura, para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 122 B.- El Consejo de la Judicatura, por conducto del Presidente del Tribunal, podrá ordenar al titular de la Visitaduría Judicial General la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a su supervisión.
 
 ### CAPITULO IV. DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 123.
 
-El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y la conducta profesional observada por los Magistrados, los Jueces así como por el Secretario del Pleno y el oficial mayor, en el desempeño de sus funciones, teniendo a la vista en cada caso, su hoja de servicios y el resultado de las visitas practicadas.
+El Pleno del Tribunal se encargará de ponderar periódicamente los méritos y la conducta profesional observada por los Magistrados integrantes de las Salas Colegiadas; el Consejo de la Judicatura lo hará respecto del resto del personal al servicio del Poder Judicial, con excepción del Secretario del Pleno, Secretaría Particular, Dirección del Archivo General del Poder Judicial y del Oficial Mayor, cuya evaluación será hecha por el Presidente del Tribunal.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
@@ -1489,11 +1657,13 @@ El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y 
 
 El Presidente del Tribunal Superior de Justicia, los Magistrados, y los Jueces, harán una evaluación periódica de la actuación de sus Secretarios, actuarios, y demás servidores que laboren en sus respectivas dependencias.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 125.
 
-Las evaluaciones serán concentradas en la Presidencia del Tribunal Superior de Justicia, y una vez analizadas por el Pleno para los efectos a que hubiere lugar, se anotarán en la hoja de servicios de cada servidor público de la Administración de justicia.
+Las evaluaciones de los miembros del Poder Judicial serán concentradas en la Presidencia del Tribunal Superior de Justicia, y una vez analizadas por el órgano competente para los efectos a que tenga lugar, se anotarán en la hoya (sic) de servicios de cada servidor público de la Administración de Justicia.
 
-El presidente comunicará sus resultados al Consejo de la Judicatura.
+El Presidente comunicará sus resultados al Consejo de la Judicatura.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -1511,17 +1681,19 @@ Si todos los magistrados de una Sala estuvieren impedidos para conocer, pasará 
 
 Si un magistrado del Tribunal Unitario de Distrito dejare de conocer de un asunto por impedimento, recusación o excusa, pasará el negocio al Tribunal Unitario de Distrito más cercano.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 127.
 
-Si un juez de Primera Instancia dejare de conocer de un negocio por excusa, recusación o impedimento, se observará lo dispuesto por el artículo 38 de esta Ley.
+Cuando por excusa, recusación o impedimento un juez de primera instancia en materia civil, deje de conocer de un negocio, pasará éste al de la misma materia en el propio Distrito Judicial; y si éste y los demás jueces de primera instancia en materia civil dejaren de conocer el negocio, pasará al conocimiento del Juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y si éste estuviere impedido, pasará al siguiente juez de Primera Instancia de lo Familiar en el propio distrito, si lo hubiere; y si éste último dejare de conocer por las causas antes dichas, lo remitirá al juez de primera instancia en materia civil o mixto más próximo.
+
+Cuando por excusa o recusación, un juez en materia de lo familiar o en materia penal, deje de conocer de un negocio, se seguirá una tramitación análoga a la que se precisa en el párrafo anterior. En la inteligencia de que siempre se preferirá el juez en turno de la materia a que concierna el asunto, cuando en el lugar haya varios jueces.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 128.
 
-Cuando por excusa, recusación o impedimento un juez de Primera Instancia en Materia Civil, deje de conocer de un negocio pasará éste al de la misma materia en el propio distrito judicial; y si éste y los demás jueces de Primera Instancia en Materia Civil dejaren de conocer el negocio, pasará al conocimiento del juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y si éste estuviere impedido, pasará al juez Segundo de Primera Instancia de lo Familiar, en el propio distrito, si lo hubiere; y si éste último dejare de conocer por las causas antes dichas, lo remitirá al juez Primero de Primera Instancia en Materia Penal; y si éste y los demás jueces de Primera Instancia en Materia Penal dejaren de conocer, pasará al juez de Primera Instancia en Materia Civil o mixto más próximo.
-
-Cuando por excusa o recusación, un juez de Materia de lo Familiar o en Materia Penal, deje de conocer de un negocio, se seguirá una tramitación análoga a la que se precisa en el párrafo anterior, en la inteligencia en la que siempre será preferido el Juez en turno del Ramo a que concierna el asunto, cuando en el lugar haya varios jueces.
-
-En el caso de que los jueces de Primera Instancia más próximos dejaren de conoce (sic) de un negocio por las causas antes indicadas, seguirán conociendo los jueces de la misma categoría que estuvieren más próximos.
+Si un juez local letrado dejare de conocer de un negocio por excusa, recusación o impedimento, conocerá, en los lugares en que existan dos o más jueces locales letrados, el que le siga en número, y en aquellos en que sólo exista un juez, el asunto pasará al juez de primera instancia de la materia que corresponda, y agotados estos o en su defecto, al juez local letrado más cercano.
 
 ###### ARTICULO 129.
 
@@ -1533,7 +1705,7 @@ En casos de excusa, recusación o impedimento de los Secretarios, éstos serán 
 
 ###### ARTICULO 130.
 
-El Archivo General del Poder Judicial dependerá del Tribunal Superior de Justicia y se integrará con el siguiente personal; Un Jefe con título de abogado, un Secretario y demás servidores públicos que señale el Presupuesto de Egresos. El presidente dictará las medidas que estime convenientes, y por medio de una comisión o directamente, practicará visitas semestrales ordinarias y extraordinarias, cuando lo considere necesario.
+El Archivo General del Poder Judicial dependerá de la Presidencia del Tribunal Superior de Justicia y se integrará con el siguiente personal; Un Director quien preferentemente deberá contar con título de abogado, un Secretario y demás servidores públicos que señale el Presupuesto de Egresos. El Presidente dictará las medidas que estime convenientes, y por medio de la Visitaduría Judicial General o las comisiones que para el efecto designe, practicará visitas semestrales ordinarias, y las extraordinarias que considere necesario.
 
 ###### ARTICULO 131.
 
@@ -1595,15 +1767,21 @@ Cualquier defecto o irregularidad que advierta el jefe del archivo en los expedi
 
 Se crea el Instituto de Especialización Judicial con el propósito de preparar y capacitar al personal del Poder Judicial del Estado y a quienes deseen ingresar a la carrera judicial.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+Cuando se valoren los méritos para acceder a un cargo dentro del Poder Judicial, en condiciones iguales o análogas, se dará preferencia a quién haya cursado y aprobado en el Instituto disciplinas relacionadas con el escalafón o con la materia del cargo que corresponda. A menos que quién no lo haya hecho, acredite haber aprobado otras análogas, o cursado un grado académico superior al de Licenciado en Derecho, relacionado con la materia del cargo al que pretende acceder.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 142.
 
-La Dirección del Instituto de Especialización Judicial, esta a cargo del presidente del Tribunal Superior de Justicia y contará con un consejo que se integrará por un magistrado de cada Sala del Tribunal, el Magistrado del Tribunal Unitario del Primer Distrito, un juez de Primera Instancia de cada materia de la Capital del Estado y dos catedráticos que designe la Dirección de la Facultad de Jurisprudencia.
+La Dirección del Instituto de Especialización Judicial, estará a cargo de la persona que designe el Presidente del Consejo de este Instituto. El Consejo se integrará por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, un magistrado de cada Sala del Tribunal, el magistrado del Tribunal Unitario del Primer Distrito, un Juez de Primera Instancia de cada materia de la Capital del Estado y dos catedráticos que designe la Dirección de la Facultad de Jurisprudencia. Dicho Director podrá ser removido libremente por el órgano facultado para designarlo.
 
-En la primera sesión del año que se verifique en el Instituto, los Magistrados del Tribunal Superior elegirán de entre ellos, el que deba fungir como presidente del Consejo, quien podrá ser reelecto.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 143.
 
-La organización interna y el funcionamiento, los programas y planes de estudio; los requisitos de ingreso y sistemas de evaluación, serán precisados en el estatuto que expida el Pleno del Tribunal Superior de Justicia.
+La organización interna y el funcionamiento, los programas y planes de estudios, los requisitos de ingresos y sistemas de evaluación, serán precisados en el estatuto que expida el Consejo de la Judicatura, oyendo la opinión del Consejo del Instituto de Especialización Judicial.
 
 ### CAPITULO I. DE LOS PERMISOS, LICENCIAS Y VACACIONES
 
@@ -1613,9 +1791,11 @@ La organización interna y el funcionamiento, los programas y planes de estudio;
 
 El Tribunal Superior de Justicia, contará con servicio de biblioteca, en los términos que disponga el reglamento interior.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 145.
 
-La Dirección de la biblioteca estará a cargo de un bibliotecario, quien será nombrado por el Pleno del Tribunal.
+La Dirección de la biblioteca estará a cargo de un bibliotecario, quien será nombrado por el Presidente del Tribunal.
 
 ###### ARTICULO 146.
 
@@ -1637,15 +1817,13 @@ VI.- Las demás que señalen las leyes y los reglamentos respectivos.
 
 #### SECCION PRIMERA. DE LA ADMINISTRACION DEL FONDO
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 147.
 
 La Oficina del Fondo para el Mejoramiento de la Administración de Justicia estará integrada por:
 
-I.- Un contador;
-
-II.- Un auxiliar de contabilidad; y
-
-III.- Los demás empleados que fije el Presupuesto de Egresos.
+El personal administrativo y contable que sea necesario para garantizar su eficiente y eficaz aplicación a los fines a los que los términos de la presente ley esta destinada.
 
 ###### ARTICULO 148.
 
@@ -1659,9 +1837,11 @@ III.- Los intereses provenientes de cualquier tipo de depósito que entreguen al
 
 IV.- En general los ingresos que se produzcan por la administración de valores o por cualquier otra prestación autorizada en la Ley.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 149.
 
-Son funciones del contador encargado de la Oficina del Fondo:
+En auxilio del Consejo de la Judicatura y para el mejor cumplimiento de la administración del fondo para el mejoramiento de la administración de justicia que esta ley encomienda al Presidente del Tribunal, éste contará con un administrador, que deberá ser perito en ciencias administrativas, y quien tendrá a su cargo, ilustrativa pero no limitativamente las siguientes funciones:
 
 I.- La contabilización de la documentación relativa al Fondo;
 
@@ -1669,17 +1849,21 @@ I.- La contabilización de la documentación relativa al Fondo;
 
 II.- El manejo de los fondos recibidos de las autoridades judiciales por concepto de fianzas, multas o cauciones;
 
-III.- Elaborar informes semestrales acerca de la posición financiera que guarde el Fondo durante el período comprendido de 1o de enero al 30 de junio y del 1o de julio al 31 de diciembre de cada año; y
+III.- Elaborar informes semestrales acerca de la posición financiera que guarde el Fondo durante el período comprendido del 1° de enero al 30 de junio y del 1° de julio al 31 de diciembre de cada año; y
 
-IV.- Colaborar con la administración del Tribunal Superior de Justicia en las actividades que el Pleno, el presidente del Tribunal o el Reglamento Interior, le asignen con relación a las funciones propias de su competencia.
+IV.- Colaborar con la administración del Tribunal Superior de Justicia en las actividades que el Pleno, el Presidente del Tribunal o el Reglamento Interior, le asignen con relación a las funciones propias de su competencia.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 150.
 
-La administración del Fondo estará a cargo del Tribunal Pleno, por conducto del Presidente, invirtiendo en la adquisición de títulos valores de renta fija, que deberán ser nominativos y a favor del Tribunal Superior de Justicia.
+La administración del fondo estará a cargo del Consejo de la Judicatura por conducto de su Presidente, debiendo invertirse en la adquisición de títulos valores de renta fija, que deberán ser nominativos y a favor del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 151.
 
-El Pleno ordenará que cuando menos se celebre una auditoría anual, para verificar el manejo del fondo; dicha auditoría se practicará por la persona que designe el propio Pleno, preferentemente la Secretaría de Finanzas del Estado.
+El Presidente del Tribunal ordenará que se practique una auditoría, que cuando menos deberá ser anual, para verificar el manejo del fondo. Dicha auditoría se practicará por quien designe el Consejo de la Judicatura a propuesta de su Presidente.
 
 #### SECCION SEGUNDA. DEL DESTINO DEL FONDO PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA
 
@@ -1693,7 +1877,9 @@ II.- A la adquisición de los bienes materiales requeridos para la administraci�
 
 III.- A la capacitación y mejoramiento profesional de los integrantes del Poder Judicial;
 
-IV.- A sufragar los gastos necesarios para la participación de magistrados, jueces, integrantes de los consejos Tutelares y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, confrontaciones y mejoramiento de la administración de justicia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+IV.- A sufragar los gastos necesarios para la participación de magistrados, integrantes del Consejo de la Judicatura, jueces, y demás personal que estime conveniente, en congresos, seminarios y reuniones que tengan por objeto evaluaciones, encuentros y mejoramiento de la Administración de Justicia;
 
 V.- Sufragar los gastos que por estímulos y recompensas se entreguen a los funcionarios y empleados del Poder Judicial; y
 
@@ -1701,7 +1887,7 @@ VI.- Los demás objetivos que se acuerden por el Pleno.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 153.
 
@@ -1731,7 +1917,7 @@ En todo lo relativo a la Administración del Boletín, el Consejo Editorial tend
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 156.
 
@@ -1759,13 +1945,13 @@ Los servidores públicos de la administración de justicia tienen derecho a lice
 
 Los permisos y las licencias serán concedidos por el superior jerárquico del solicitante.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 161.
 
-Los Magistrados, jueces, secretarios, actuarios y demás servidores de la administración de justicia, disfrutarán anualmente de dos períodos de vacaciones, de diez días hábiles cada uno, en la época que determine el Pleno del Tribunal Superior de Justicia.
+En la época que determinen el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura en la esfera de sus competencias, los magistrados, jueces, secretarios, actuarios y demás servidores de la administración de justicia, disfrutarán anualmente de dos períodos de vacaciones de diez días hábiles cada uno.
 
-Los días de vacaciones suplementarios a que en lo individual tengan derecho los servidores públicos de base, les serán concedidos por el titular de la dependencia, de acuerdo con las necesidades del servicio y en los términos de la Ley de la materia.
+Los días de vacaciones suplementarios a que en lo individual tengan derecho los servidores públicos de base se les concederán por el titular de la dependencia de acuerdo con las necesidades del servicio y en los términos de la Ley de la materia.
 
 ### CAPITULO IV. DE LA RESPONSABILIDAD ADMINISTRATIVA
 
@@ -1797,27 +1983,31 @@ IV.- Por destitución, mediante resolución firme.
 
 ## TITULO NOVENO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS TEMPORALES Y ABSOLUTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 165.
 
-Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no excedan de 15 días, serán suplidas por el Magistrado Decano correspondiente.
+Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no excedan de treinta días, serán suplidas por el magistrado decano correspondiente.
 
-Si la ausencia excede de 15 días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
+Si la ausencia excede de treinta días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
 
 ###### ARTICULO 166.
 
 Las faltas temporales de los magistrados del Tribunal Superior, serán suplidas por los magistrados supernumerarios en el orden de su designación y de acuerdo con el turno que lleve el presidente del Pleno.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 167.
 
-Las faltas temporales de los Magistrados de los Tribunales Unitarios, Jueces de Primera Instancia, serán suplidas por los respectivos Secretarios de Acuerdos. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación de interino o definitivo, según el caso.
+Las faltas temporales de los magistrados de los tribunales unitarios de distrito, jueces de primera instancia y jueces locales letrados, serán suplidas por los respectivos secretarios de acuerdo y trámite que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares hasta en tanto se hace nueva designación de interino o definitivo, según el caso.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 168.
 
-Las faltas temporales del secretario del Pleno cuando no excedan de quince días, serán suplidas por el oficial mayor. Las que excedan de este término o sean absolutas, motivarán designación de interino o definitivo, según corresponda.
+Las faltas temporales del Secretario del Pleno, cuando no excedan de un mes quince días, serán suplidas por el Secretario de Estudio y Cuenta de mayor antigüedad de las Salas del Tribunal Superior de Justicia. En caso de igualdad de condiciones, se suplirá por quien, de entre los que puedan hacerlo, designe el Presidente del Tribunal.
+
+Si las faltas exceden del término a que se refiere el párrafo anterior, o son absolutas, motivarán la designación por el Pleno del Interino o definitivo que corresponda.
 
 ###### ARTICULO 169.
 
@@ -1825,9 +2015,11 @@ Las faltas temporales de los secretarios de las Salas, cuando no excedan de quin
 
 Si la ausencia excede de quince días o es absoluta, se hará la designación del secretario interino o definitivo correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 170.
 
-Las faltas temporales de los secretarios de los juzgados de Primera Instancia serán suplidas por el secretario de estudio y Cuenta si lo hay, en caso contrario por el actuario de mayor antigüedad.
+Las faltas temporales de los secretarios de los juzgados de primera instancia y locales letrados serán suplidas por el secretario de estudio y cuenta si lo hay, en caso contrario por el actuario de mayor antigüedad.
 
 ###### ARTICULO 171.
 
@@ -1839,7 +2031,7 @@ Toda ausencia de los jueces de Conciliación será suplida por la persona que de
 
 ###### ARTICULO 172.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la Administración de Justicia; a los Magistrados del Tribunal Superior de Justicia; a los Magistrados de los Tribunales Unitarios de Distrito; a los jueces de Primera Instancia y de Conciliación; y en general; a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
+Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la administración de justicia: a los magistrados del Tribunal Superior de Justicia; a los magistrados de los tribunales unitarios de distrito; a los jueces de primera instancia; a los jueces locales letrados; y en general a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
 
 ###### ARTICULO 173.
 
@@ -1861,7 +2053,7 @@ Todo ciudadano o persona moral, por conducto de sus órganos de representación,
 
 ###### ARTICULO 175.
 
-Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados de los Tribunales Unitarios de Distrito; y los Jueces de Primera Instancia.
+Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los tribunales unitarios de distrito; los jueces de primera instancia y los jueces locales letrados.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -2131,27 +2323,47 @@ Cuando la destitución del cargo, empleo o comisión, afecte a un servidor públ
 
 #### SECCION CUARTA. DE LA APLICACION DE LAS SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 199.
 
-La jurisdicción disciplinaria se ejercerá:
+La jurisdicción disciplinaria, se ejercerá en única instancia:
 
-I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente;
+I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente o de los magistrados de las Salas;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+II.- Por el Consejo de la judicatura, cuando se trate de quejas en contra de los magistrados unitarios o jueces;
 
-II.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de los Magistrados integrantes de las Salas, Magistrados de Distrito, y Jueces;
+III.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de personal de la Presidencia o de sus dependencias;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+IV.- Por los Presidentes de las Salas que corresponda, magistrados unitarios de distrito y jueces, cuando se trate de quejas en contra de los secretarios o actuarios;
 
-III.- Por el Presidente de la Sala, Magistrados de Distrito, y Jueces, cuando se trate de quejas en contra de los Secretarios; y
+V.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos y la falta solo amerite apercibimiento o amonestación.
 
-IV.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos, y la falta sólo amerite como sanción, apercibimiento o amonestación.
+Cuando los mismos hechos o siendo estos conexos, originen quejas en contra de servidores de distinto rango, conocerá de todas las faltas el órgano superior jerárquico del servidor de más rango.
+
+En el supuesto de la fracción II de este artículo, corresponderá al Presidente del Consejo instruir el procedimiento, asistido del Secretario del mismo, hasta ponerlo en estado de resolución.
 
 ###### ARTICULO 200.
 
 Contra el presunto autor de alguna de las faltas previstas en la Sección Segunda de este Capítulo, se procederá de oficio o en virtud de queja presentada por escrito, ante la autoridad que corresponda, en los términos del artículo anterior.
 
 Las quejas anónimas, o aquellas que no sean ratificadas, no producirán efecto alguno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+En toda queja o al iniciar el procedimiento de oficio, se hará constar en qué se hace consistir el o los motivos concretos de la o las faltas y cuál o cuáles se estiman cometidas; sin lo que el procedimiento será improcedente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+También serán improcedentes las quejas o la iniciación oficiosa de procedimientos en contra de resoluciones de naturaleza estrictamente jurisdiccional, a menos que se pronuncien en contra de precepto legal o jurisprudencial aplicable, claro y terminante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+La resolución de improcedencia la pronunciará el órgano al que le corresponda resolver el fondo, la que podrá dictar en cualquier momento del procedimiento. En el supuesto de la fracción II de este artículo, el Presidente del Consejo podrá dar cuenta a éste de la causal de improcedencia. Sin perjuicio de que en defecto de lo anterior, el Consejo la declare al momento de entrar a resolver el fondo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+
+Cuando a quien se atribuya la falta, por cualquier motivo deje definitivamente el cargo, el procedimiento se declarará sin materia, cualquiera que sea el estado en que se encuentre.
 
 ###### ARTICULO 201.
 
@@ -2191,35 +2403,15 @@ Se levantará acta circunstanciada de las diligencias que se practiquen, mismas 
 
 ###### ARTICULO 206.
 
-Las resoluciones dictadas por las autoridades que sustancien el procedimiento disciplinario, podrán ser impugnadas por los afectados, mediante el recurso de revisión que se interpondrá:
-
-I.- Ante el titular de la dependencia a que pertenece el servidor público, cuando la sanción se hubiere impuesto por un Secretario de Acuerdos;
-
-II.- Ante la Presidencia del Tribunal Superior de Justicia, cuando se trate de un secretario; y
-
-III.- Ante el Pleno del Tribunal Superior de Justicia, cuando el servidor público sancionado tenga el carácter de titular de una dependencia del Poder Judicial.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 207.
 
-La interposición del recurso de revisión, deberá hacerse por escrito dentro de los 5 días siguientes a la fecha en que se verifique personalmente la resolución recurrida, y se admitirá en el efecto suspensivo, sin requisito alguno.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 208.
 
-El recurso de revisión se tramitará en la forma siguiente:
-
-I.- En el escrito en que se interponga, se expresarán los agravios que a juicio del recurrente le cause la resolución impugnada, proponiendo las pruebas que considere necesarias;
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-II.- La autoridad revisora solicitará el envío del expediente relativo y acordará sobre la admisión del recurso y de las pruebas ofrecidas deshechando (sic) de plano las que no considere idóneas;
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-III.- Las pruebas admitidas se deshogarán (sic) en un plazo de cinco días, que podrá ampliarse por una sola vez, a solicitud del recurrente, por el término de cinco días; y
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-IV.- Concluído el período probatorio, la autoridad revisora emitirá resolución dentro de los ocho días siguientes, notificándola a los interesados.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 209.
 
@@ -2652,3 +2844,43 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de aquel en qu
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas, adiciones y derogaciones a los diversos artículos de la Ley Orgánica del Poder Judicial, del Código de Procedimientos Civiles y del Código de Procedimientos Penales, con relación a los Juzgados Locales Letrados, entrarán en vigor el primero de mayo de mil novecientos noventa y ocho, sin perjuicio del acuerdo que emitan el Consejo de la judicatura para la instalación de cada uno de los Juzgados Locales Letrados, Civiles, Penales y Mixtos, según se estime conveniente. Mismo que deberá ser publicado en el Periódico Oficial del Estado. Con relación a todas las restantes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Los jueces de primera instancia seguirán conociendo de los asuntos que les competen a los Juzgados Locales Letrados, hasta en tanto cada uno de estos se instalen. Pero en los asuntos que se inicien a partir de la vigencia de estas reformas, aquellos se ajustarán al procedimiento señalado en éstas.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos radicados en los Juzgados de Primera Instancia en Materia Civil, Penal o Mixtos que por razón de la cuantía ya no les corresponda conocer, conforme a las disposiciones de estas reformas, deberán ser remitidos a la brevedad posible al Juzgado Local Letrado de su circunscripción, una vez que éste se instale, para que este último continúe su trámite y resolución.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que al momento de entrar en vigor la presente ley se encuentren citados para sentencia, cuya competencia corresponda a los Jueces Locales Letrados en Materia Civil, Penal o Mixta, se resolverán por el tribunal que citó el negocio para la sentencia relativa.
+
+###### ARTICULO CUARTO.
+
+En los distritos judiciales en los que aún no se establezcan Juzgados Locales Letrados en materia civil, penal o mixta, los jueces de primera instancia de esas materias asumirán la competencia de aquellos.
+
+###### ARTICULO QUINTO.
+
+Los asuntos radicados con anterioridad a la entrada en vigor de la presente ley en los Juzgados de Conciliación de las cabeceras de distrito judicial, relativos a juicio ejecutivos mercantiles, se substanciarán y resolverán por dichos juzgados.
+
+###### ARTICULO SEXTO.
+
+Todos los procedimientos disciplinarios que se encuentren sin concluir o sin resolver en el Tribunal Pleno que no sean de su competencia con base en estas reformas deberán ser remitidos por conducto de la Presidencia del Tribunal Superior, al Consejo de la Judicatura, para que en este último se continúe su trámite y/o resolución.
+
+###### ARTICULO SEPTIMO.
+
+Respecto a los secretarios de estudio y cuenta de cada magistrado, que actualmente se encuentren en funciones, les serán aplicables las disposiciones de la Ley Orgánica del Poder Judicial, antes de estas reformas.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos de formar jurisprudencia obligatoria, las denuncias de contradicción de criterios solo podrán versar sobre las contradicciones que surjan por resoluciones que se pronuncien a partir de que inicie su vigencia estas reformas; así como sobre aquellos criterios que se sustenten en las resoluciones que se dicten a partir del inicio de vigencia de estas reformas, con relación a criterios aplicables sostenidos en resoluciones pronunciadas dentro de los seis últimos años anteriores al año de inicio de vigencia de estas reformas.
+
+###### ARTICULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas, modificaciones y adiciones.
