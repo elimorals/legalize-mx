@@ -4,7 +4,7 @@ identifier: "OAX-decreto-por-el-que-se-crea-el-organismo-publico-41970"
 country: "mx"
 rank: "decreto"
 publication_date: "2004-11-27"
-last_updated: "2004-11-27"
+last_updated: "2005-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 DECRETO QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO: "COORDINACION PARA EL RESGUARDO DE VALORES BIBLIOGRAFICOS Y DOCUMENTALES OAXAQUEÑOS"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 5 DE FEBRERO DE 2005.
 
 Decreto publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de noviembre de 2004.
 
@@ -255,7 +255,7 @@ El Director General ejercerá las atribuciones a que se refiere el artículo ant
 
 El Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que requiera y que le sean autorizados, conforme al presupuesto de egresos y a la normatividad aplicable.
 
-### CAPÍTULO CUARTO (SIC)
+### CAPÍTULO CUARTO
 
 EL PATRONATO.
 
@@ -295,9 +295,11 @@ III. Efectuará continuamente auditorías; y,
 
 IV. Presentará a la Junta de Gobierno y al Director General los informes resultantes de las auditorías y exámenes de evaluaciones que efectúe.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 18.
 
-Las relaciones laborales entre la Coordinación y sus trabajadores se regirán por el apartado “A” del artículo 123 Constitucional.
+Las relaciones laborales entre la Coordinación y sus trabajadores y empleados, se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -324,3 +326,11 @@ SECRETARIO DE ADMINISTRACIÓN.
 LIC. CELESTINO MANUEL ALONSO ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El PRESENTE DECRETO ENTRARA EN VIGOR El DIA DE SU PUBLICACIÓN EN El PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
