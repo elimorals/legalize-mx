@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1997-03-24"
+last_updated: "1998-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -551,11 +551,11 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 41.
 
-El Congreso tendrá dos períodos ordinarios de sesiones; el primero comenzará el día 1º de Octubre y concluirá el día 31 de Diciembre; el segundo se iniciará el día 1º de Abril y concluirá el día 30 de Junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
+El Congreso tendrá dos períodos ordinarios de sesiones: el primero comenzará el día 1o. de Octubre y concluirá el día 20 de Diciembre; el segundo se iniciará el día 1o. de Abril y concluirá el día 30 de Junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1259,15 +1259,15 @@ Las personas que hayan ocupado el cargo de magistrado del Tribunal Superior de J
 
 Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Gozar de buena reputación.
 
@@ -2068,3 +2068,9 @@ UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación e
 P.O. 24 DE MARZO DE 1997.
 
 Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
