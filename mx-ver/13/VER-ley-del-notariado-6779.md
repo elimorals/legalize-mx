@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1971-12-30"
+last_updated: "1974-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 1974.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -131,21 +131,21 @@ Pueden autorizarse permutas de Notarías siempre que a juicio del Ejecutivo del 
 
 ### Capítulo Tercero. ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 14.
 
-Para obtener Patente de Aspirante al Ejercicio del Notariado se deberán satisfacer los requisitos siguientes:
+Para obtener Patente al Ejercicio del Notariado se deberán satisfacer los requisitos siguientes:
 
-I.- Llenar los requisitos de las fracciones I, IV, V, VII, VIII, IX y X del artículo 37 de esta Ley.
+I.- Llenar los requisitos de las fracciones I, IV, V, VI, VIII, IX y X del artículo 37 de esta Ley.
 
 II.- Tener 21 años cumplidos y no más de 60.
 
-III.- Ser Licenciado en Derecho con título registrado en el Departamento de Profesiones del Estado.
+III.- Ser Licenciado en Derecho con Título registrado conforme a la Ley del Ejercicio Profesional para el Estado.
 
 IV.- Ser aprobado en el examen que establece esta Ley.
 
-Los requisitos anteriores se comprobarán en los términos establecidos por el artículo 38. Toda la documentación se exhibirá por duplicado.
+Los requisitos anteriores se comprobarán en los términos establecidos por el artículo 38. Tal documentación se exhibirá por duplicado.
 
 ###### ARTICULO 15.
 
@@ -275,11 +275,11 @@ los (sic) requisitos que fijan las fracciones I y II del artículo anterior se c
 
 Al ser notificado el Presidente del Colegio de Notarios para la recepción de la información testimonial a que se refiere el artículo anterior, convocará al Consejo Directivo para que sus miembros manifiesten si están conformes con la pretensión del promovente o si conocen a ciencia cierta alguna circunstancia que la contradiga, en el concepto de que estarán obligados a suministrar al Consejo Directivo cuantos datos tengan sobre el particular. El Colegio acreditará el Delegado correspondiente y en caso de que hubiere oposición fundada de algún Consejero, acordará las preguntas que deben hacerse a los testigos y proporcionará al Delegado los elementos de prueba que acrediten la objeción, para que los haga valer en el procedimiento.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 31 DE AGOSTO DE 1974)</small>
 
 ###### ARTICULO 40.
 
-Cuando estuviere vacante una Notaría o cuando fuere creada por el Ejecutivo del Estado, a solicitud del Colegio de Notarios, la Secretaría de Gobierno publicará un anuncio por tres veces consecutivas en la 'Gaceta Oficial" del Estado, convocando a los Aspirantes al Ejercicio del Notariado que pretendan obtener por oposición el nombramiento de Notario; el mismo anuncio se publicará también por tres veces consecutivas en el periódico de más circulación del Estado. En el plazo de treinta días contados a partir de la última publicación, los pretendientes presentarán por duplicado al Ejecutivo del Estado su solicitud con la documentación que acredite los particulares del artículo 37. En las solicitudes se anotará la fecha y hora de su presentación y las que satisfagan los requisitos anotados se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos.
+Cuando estuviere vacante una Notaría o cuando fuera creada por el Ejecutivo del Estado, a solicitud del Colegio de Notarios, la Secretaría de Gobierno publicará un anuncio por tres veces consecutivas en la "Gaceta Oficial" del Estado, convocando a los Aspirantes al Ejercicio del Notariado que pretendan obtener por Oposición el Nombramiento de Notario; el mismo anuncio se publicará también por tres veces consecutivas en el periódico de más circulación del Estado. En el plazo de 30 días contados a partir de la última publicación, los pretendientes presentarán por duplicado al Ejecutivo del Estado su solicitud con la documentación que acredita los particulares del artículo 37. En las solicitudes se anotará la fecha y hora de su presentación. Sólo se aprobarán las que satisfagan los requisitos anotados y las que fueren aprobadas se turnarán al Colegio de Notarios enviándole un tanto de ellas y de los documentos anexos.
 
 ###### ARTICULO 41.
 
@@ -1163,9 +1163,11 @@ La Comisión instructora tomará sus decisiones por mayoría de votos; si hubier
 
 La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en la "Gaceta Oficial" del Estado.
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 1974)</small>
+
 ###### ARTICULO 2°.
 
-Al sobrevenir vacantes en las Notarías que funcionen al entrar en vigor la presente Ley, el Ejecutivo se abstendrá de convocar a exámenes de oposición para proveer esas vacantes, si en la demarcación Notarial correspondiente, el número de Notarías excediera del límite señalado en el artículo 2° de esta Ley. En este caso, el Ejecutivo declarará la clausura de la Notaría y su deposito en el Archivo General de Notarías.
+Al sobrevenir vacantes en las Notarías actualmente en funciones, aun cuando excedan del límite señalado en el artículo 2°, de esta Ley, seguirán funcionando y serán despachadas por la persona que se designe conforme a las disposiciones relativas de este ordenamiento.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1971)</small>
 
@@ -1216,3 +1218,9 @@ Quedan en vigor y en sus términos todas las demás disposiciones de la Ley del 
 ###### ARTICULO SEGUNDO.
 
 Esta Ley entrará en vigor tres días después de su publicación.
+
+G.O. 31 DE AGOSTO DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
