@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2002-12-19"
+last_updated: "2003-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE JULIO DE 2003.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -745,7 +745,13 @@ Son sujetos de este impuesto, los adquirentes de bienes inmuebles, en los térmi
 
 La base del impuesto será el valor que resulte mayor entre los siguientes:
 
-a).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2002)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 7 DE JULIO DE 2003)</small>
+
+a).- El consignado en avalúo por una institución de crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición respectiva.
+
+Las tesorerías municipales podrán revisar y calificar los avalúos a que se refiere el párrafo anterior, y en caso de determinar que éstos no se apegan a los precios reales del valor comercial del terreno y demás avalúos unitarios comerciales de construcción en que sea elaborado el dictamen correspondiente, dichas dependencias municipales podrán rechazarlos, previo avalúo expedido por perito debidamente reconocido por la Comisión Nacional Bancaria y de Valores, o por el Instituto Catastral y Registral del Estado, según sea convenido por las partes.
+
+Si se demuestra que el avalúo presentado por el obligado al pago del impuesto, es inferior a los precios reales y valores unitarios comerciales, tanto del terreno como de la construcción, en cuyo caso los gastos de peritaje correrán por su cuenta; mientras que, si dichos precios o valores resultan ser correctos, los gastos serán a cargo de la Tesorería Municipal.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -757,9 +763,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Una vez presentada la manifestación de traslado de dominio correspondiente y verificado que el inmueble aparece a nombre del enajenante en los archivos y constancias catastrales, la Tesorería Municipal deberá recibir, de inmediato, el pago del impuesto, sin mayores trámites.
+> <small>(DEROGADO ULTIMO PARRAFO, B.O. 7 DE JULIO DE 2003)</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1467,7 +1471,7 @@ II.- La autorización;
 
 III.- La supervisión de las obras de urbanización;
 
-IV.- La modificación de fraccionamientos ya autorizados, en los términos del articulo 107 de la Ley de Desarrollo Urbano para el Estado de Sonora;
+IV.- La modificación de fraccionamientos ya autorizados, en los términos del artículo 107 de la Ley de Desarrollo Urbano para el Estado de Sonora;
 
 V.- La expedición de licencias de uso de suelo. Debiendo considerarse, además, el caso de fraccionamientos habitacionales o comerciales bajo el régimen de condominio;
 
@@ -1799,7 +1803,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-Il.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2668,3 +2672,9 @@ El segundo párrafo del artículo 59 de la Ley de Hacienda Municipal contenido e
 ###### ARTICULO SEGUNDO.
 
 El resto de las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 7 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
