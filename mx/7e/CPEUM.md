@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1987-08-10"
+last_updated: "1988-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 1988.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1552,7 +1552,9 @@ VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley 
 
 IX.- (DEROGADA, D.O.F. 21 DE OCTUBRE DE 1966)
 
-X.- Dirigir las negociaciones diplomáticas y celebrar tratados con las potencias extranjeras, sometiéndolos a la ratificación del Congreso Federal.
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 1988)</small>
+
+X.- Dirigir la política exterior y celebrar tratados internacionales, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales.
 
 > <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
@@ -3743,3 +3745,7 @@ DECRETO QUE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 Y ADICIONA LA FRACCION XX
 ###### ARTICULO UNICO.
 
 La presente reforma y adición a la Constitución Política de los Estados Unidos Mexicanos entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE MAYO DE 1988.
+
+UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
