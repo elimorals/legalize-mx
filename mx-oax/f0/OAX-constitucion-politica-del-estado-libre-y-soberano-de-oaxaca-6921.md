@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1949-02-05"
+last_updated: "1949-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1949.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -77,11 +77,17 @@ Ninguna detención podrá exceder del término de tres días sin que se justifiq
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1949)</small>
+
 ###### ARTICULO 8°.
 
-En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
+En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
 
-I. Inmediatamente que lo solicite será puesto en libertad bajo de (sic) fianza hasta de diez mil pesos, según sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito no merezca ser castigado con una pena mayor de cinco años de prisión, y sin más requisitos que poner la suma de dinero respectivo a disposición de la autoridad, u otorgar caución hipotecaria o personal bastante para asegurarla, a elección del acusado;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 1949)</small>
+
+I. Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
+
+En ningún caso la fianza o caución será mayor de $250,000.00 Doscientos Cincuenta Mil Pesos, a no ser que se trate de un delito que presente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
 
 II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto;
 
@@ -1482,5 +1488,9 @@ DECRETO No. 82, QUE MODIFICA LOS ARTICULOS 98 Y 101 DE LA CONSTITUCION POLITICA 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 5 DE FEBRERO DE 1949.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 23 DE JULIO DE 1949.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
