@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-8247"
 country: "mx"
 rank: "ley"
 publication_date: "1977-07-04"
-last_updated: "1991-07-15"
+last_updated: "1994-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 1994.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 4 de julio de 1977.
 
@@ -61,9 +61,11 @@ Las funciones notariales podrán ser revocadas, suspendidas o limitadas en los c
 
 El ejercicio del Notariado o de la Escribanía es incompatible con todo cargo, comisión o empleo público retribuido o gratuito, salvo cuando conciernan a la enseñanza, a la beneficiencia (sic) pública, a la función electoral y a la de jurados o cuando así lo resuelva el Ejecutivo del Estado. Los Notarios podrán desempeñar los cargos de Director y Secretario del Archivo Notarial.
 
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 1994)</small>
+
 ###### Artículo 6.
 
-En el Estado podrán funcionar hasta ochenta y tres Notarías, según los requerimientos de la Entidad.
+En el Estado podrán funcionar hasta cien Notarías, según los requerimientos de la Entidad.
 
 ###### Artículo 7.
 
@@ -153,11 +155,11 @@ Los Notarios Públicos podrán ejercer sus funciones en cualquier lugar del Esta
 
 El cargo de Notario Público es vitalicio, salvo lo dispuesto expresamente por esta Ley.
 
-> <small>(F. DE E., D.O. 27 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, D.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 24.
 
-Los Notarios Públicos, al entrar en funciones, deberán residir en la cabecera municipal que el Ejecutivo del Estado les señale, al otorgarles la patente respectiva, de entre las siguientes: Mérida, Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú. Corresponderán a la ciudad de Mérida las Notarías Públicas numeradas de la uno a la seTenta y cuatro y las restantes hasta llegar al número de ochenta y tres, a las cabeceras municipales de Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú, respectivamente.
+Los Notarios Públicos, al entrar en funciones, deberán residir en la cabecera municipal que el Ejecutivo del Estado les señale al otorgarles la Patente respectiva. A la ciudad de Mérida corresponderán las Notarías Públicas numeradas de la uno a la ochenta y cinco; las cabeceras de los municipios de Progreso, Motul, Izamal, Valladolid y Tizimín, contarán con dos Notarías cada uno; a los municipios de Ticul, Tekax, Hunucmá, Maxcanú y Peto, se les asignará una Notaría.
 
 ###### Artículo 25.
 
@@ -919,7 +921,7 @@ Los Escribanos Públicos usarán un sello circular, de treinta y cinco milímetr
 
 Del Ejercicio de las Funciones de los Escribanos.
 
-(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985) (F. DE E., D.O. 27 DE JULIO DE 1977)
+(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1985)(F. DE E., D.O. 27 DE JULIO DE 1977)
 
 ###### Artículo 170.
 
@@ -1080,3 +1082,9 @@ Los Escribanos Públicos que estén desempeñando cumplidamente su cargo, tendr�
 D.O. 15 DE JULIO DE 1991.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 3 DE ENERO DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se concede a los Notarios Públicos un plazo de treinta días, a contar de la vigencia de este Decreto, para celebrar los convenios a que se refiere el Capítulo V de la Ley del Notariado del Estado de Yucatán.
