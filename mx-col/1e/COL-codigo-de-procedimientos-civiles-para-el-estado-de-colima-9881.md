@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1970-05-30"
+last_updated: "1975-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DEL 1975.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1069,45 +1069,65 @@ ART. 203.- Si es instrumento público o privado reconocido y contiene cantidad i
 
 La liquidación se hace sumariamente con un escrito de cada parte y la resolución del juez, sin ulterior recurso más que el de responsabilidad.
 
-### CAPITULO III. Separación o depósito de personas como actos prejudiciales
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 204.- La mujer casada que viviendo al lado de su marido, intente demandarlo o acusarlo, puede pedir su separación o su propio depósito.
+### CAPITULO III. Separación de personas como acto prejudicial
 
-ART. 205.- El marido que viviendo con su mujer intente demandarla o acusarla, puede pedir previamente la separación.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 206.- Sólo los jueces de Primera Instancia pueden decretar la separación o el depósito de que hablan los artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar podrá decretar la separación o el depósito provisionalmente, remitiendo las diligencias al competente.
+ART. 204.- El que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de lo Civil.
 
-ART. 207.- La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 208.- Presentada la solicitud se trasladará el juez al domicilio conyugal y, sin que se halle presente el marido hará comparecer a la mujer para que manifieste si ratifica o no el escrito presentado. Hecha la ratificación el juez dictará las siguientes disposiciones: 1º- Separar a los cónyuges; 2º- Señalar el domicilio de la mujer en su caso; 3º- Designar desde luego la persona que haya de encargarse del depósito si así procediere.
+ART. 205.- Sólo los Jueces de lo Civil pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
-Asimismo, atentas las circunstancias del caso, podrá limitarse a disponer la permanencia de la mujer en la casa conyugal si en ello estuviere de acuerdo el marido, previniendo a éste para que se abstenga de concurrir a la misma. El juez podrá, sin embargo dictar otras disposiciones que estime pertinentes atendiendo a las circunstancias del caso, o variar las disposiciones decretadas, en virtud de causa justa o por acuerdo de los cónyuges ratificada en la presencia judicial.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 209.- Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente trasladará a la mujer de la casa del domicilio conyugal y la llevará al domicilio que se hubiere designado, o a la casa del depositario.
+ART. 206.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y de las demás circunstancias del caso.
 
-ART. 210.- En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudentes a efecto de evitar las molestias contra la mujer y depositario.
+ART. 207.- El Juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
 
-ART. 211.- En caso de depósito, la casa en donde se deposite a la mujer casada será designada por ésta y el depositario que proponga deberá ser persona de notoria honorabilidad y buenas costumbres, todo a juicio del juez.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 212.- Si los consortes tuvieran hijos menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo, en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+ART. 208.- Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular.
 
-Cualquier reclamación de los consortes sobre el depósito de los hijos, se substanciará en los términos del artículo 431 de este Código, sin ulterior recurso.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 213.- Al día siguiente de constituído el depósito o la separación, mandará el juez intimar al marido o a la mujer en su caso, apercibiéndolos de que si, dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito o la separación y será restituída la mujer al domicilio conyugal.
+ART. 209.- El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si lo estima partinente (sic) según las circunstancias del caso.
 
-Esta providencia se notificará en forma legal a la mujer y al marido.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 214.- Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+ART. 210.- En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda o la acusación, que podrá ser de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del Juez, podrá concederse por una sola vez una prórroga por igual término.
 
-ART. 215.- El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 216.- Las pretensiones que puedan formularse por la mujer, por el marido o por el depositario sobre variación del depósito o cualesquiera otros incidentes a que éste pueda dar lugar, serán resueltos por el juez, el que podrá: citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, a petición de parte, si las circunstancias lo ameritan bajo su responsabilidad y sin substanciación especial; y, resolverá con carácter provisional lo que proceda respecto a entrega de ropa u otros objetos, subsistencias de la mujer y de los menores y lo demás que juzgue oportuno. Podrá también dictar las medidas que se requieran para que no se causen molestias a la mujer.
+ART. 211.- En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-ART. 217.- No acreditándose haberse intentado la demanda o presentada la acusación dentro del término señalado por el artículo 213 de esta ley, el juez levantará el depósito o la separación, restituirá a la mujer al domicilio conyugal y prevendrá al marido para que lo haga por sí mismo.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-ART. 218.- Si el juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el juicio su curso legal.
+ART. 212.- El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+ART. 213.- La inconformidad de alguno de los cónyuges sobre la resolución o disposiciones decretadas, se tramitará en los términos del artículo 431 sin ulterior recurso.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+ART. 214.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes:
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+ART. 215.- El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+ART. 216.- Si el juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
+
+ART. 217.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
+
+ART. 218.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -2435,7 +2455,9 @@ ART. 543.- Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyan el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
 
-II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del juez;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 1975)</small>
+
+II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos no siendo de lujo, a juicio del Juez;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -2863,7 +2885,9 @@ Divorcio por mutuo consentimiento
 
 ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-ART. 674.- Hecha la solicitud citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados y de la mujer, y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+ART. 674.- Hecha la solicitud citará el Juez a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los 8 y antes de los 15 días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dure el procedimiento dictando las medidas necesarias de aseguramiento.
 
 ART. 675.- Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación, y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial, y decidirá sobre el convenio presentado.
 
@@ -3749,11 +3773,31 @@ Pueden pedir la declaración de minoridad los funcionarios encargados de ello po
 
 ART. 902.- Si a la petición de declaración de minoridad se acompaña la certificación del registro civil, se hará la declaración de plano. En caso contrario, se citará inmediatamente a una audiencia dentro del tercer día, a la que concurrirán el menor si fuere posible y el Ministerio Público. En ella, con o sin la asistencia de éste y por las certificaciones del registro civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquellas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
-ART. 903.- La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
-El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, mujer, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. Si hubiere abuelos maternos y paternos se preferirá a los varones, y en caso de ser del mismo sexo, los que lo sean por parte de padre a los que lo fueren por parte de la madre.
+ART. 903.- La declaración de incapacidad por causa de demencia, se acreditará en juicio sumario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el Juez.
 
-En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
+Como diligencias prejudiciales se practicarán las siguientes:
+
+I.- Recibida la demanda de interdicción, el Juez ordenará las medidas tutelares conducentes al aseguramiento de la persona y bienes del señalado como incapacitado; ordenará que la persona que auxilie a aquél de cuya interdicción se trata lo ponga a disposición de los médicos alienistas en el plazo de 72 horas para que sea sometido a examen; ordenará que el afectado sea oído personalmente o representado durante este procedimiento; y que la persona bajo cuya guarda se encuentra el indicado como incapaz se abstenga de disponer de los bienes del incapacitado siempre que, a la demanda se acompañe certificado de un médico alienista o informe fidedigno de la persona que lo auxilia u otro medio de convicción que justifique la necesidad de estas medidas.
+
+II.- Los médicos que practiquen el examen deberán ser designados por el Juez y serán de preferencia alienistas. Dicho examen se hará en presencia del Juez, previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público.
+
+III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el Juez proveerá las siguientes medidas:
+
+a).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes: si tuvieren la aptitud necesaria para desempeñarlos; padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el Juez con todo escrúpulo deba nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
+
+b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
+
+c).- Proveer legalmente de la patria potestad o tutela a las personas que tuvieren bajo su guarda al presunto incapacitado.
+
+De la resolución en que se dicten las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo.
+
+IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el Juez designará peritos terceros en discordia.
+
+V.- Hecho lo anterior el Juez citará a una audiencia, en la cual, si estuvieren conformes el tutor y el Ministerio Público con el solicitante de la interdicción, dictará resolución declarando o no ésta.
+
+Si en dicha audiencia hubiere oposición de parte, se sustanciará en juicio sumario con intervención del Ministerio Público.
 
 ART. 904.- En el juicio a que se refiere el artículo anterior se observarán las siguientes reglas:
 
@@ -3943,9 +3987,17 @@ II.- El permiso para contraer con su marido o para obligarse solidariamente a se
 
 III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
 
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 1975)</small>
+
+IV.- El permiso para que los cónyuges celebren contrato entre ellos o para obligarse solidariamente o ser fiador uno del otro en los casos del artículo 175 del Código Civil.
+
+V.- (sic)
+
 ART. 938.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+
+El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
@@ -4172,3 +4224,7 @@ P.O. 30 DE MAYO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Colima".
