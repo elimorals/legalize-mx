@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1970-12-22"
+last_updated: "1974-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE SEPTIEMBRE DE 1974.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -629,9 +629,11 @@ Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con test
 
 Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen, en el ejercicio de la abogacía.
 
+> <small>(REFORMADO, G.O. 3 DE SEPTIEMBRE DE 1974)</small>
+
 ARTICULO 101
 
-Los procuradores y los abogados patronos serán responsables solidariamente con las partes que representen o patrocinen, hasta del cincuenta por ciento de las costas y multas, en caso de condenación.
+Los abogados patronos serán responsables solidariamente con las partes que representen o patrocinen, hasta del cincuenta por ciento de las costas y multas, en caso de condenación, cuando actúen con temeridad, negligencia o torpeza notorias, probadas en el incidente respectivo.
 
 ARTICULO 102
 
@@ -657,9 +659,11 @@ ARTICULO 106
 
 Presentada la regulación de costas, se emplazará a las partes para una audiencia que deberá efectuarse a más tardar dentro de cinco días, en la cual se dictará la resolución que proceda. Si nada expusiere la parte demandada, se aprobará la regulación, siempre que esté de acuerdo con el arancel y salvo lo dispuesto en la segunda parte del artículo 104, que de oficio estimará el juez.
 
+> <small>(REFORMADO, G.O. 3 DE SEPTIEMBRE DE 1974)</small>
+
 ARTICULO 107
 
-Por ningún motivo, sean cuales fueren los trabajos ejecutados y gastos expensados en un negocio, podrán exceder las costas del veinte por ciento sobre el interés del mismo. Los jueces deberán de oficio reducir la cantidad que importe la regulación, ajustándola a dicho veinte por ciento. Si el valor total del negocio no consistiere en cantidad líquida o que pueda liquidarse, se hará la valuación correspondiente por medio de peritos.
+Sean cuales fueren los trabajos ejecutados, no podrán exceder los honorarios de los abogados del veinte por ciento sobre la cuantía del negocio. Los Jueces deberán de oficio reducir la cantidad que importe la regulación ajustándola al expresado porcentaje. Si el valor total del negocio no consistiere en cantidad líquida o que pueda liquidarse, se hará la valuación correspondiente por medio de peritos.
 
 ARTICULO 108
 
@@ -5006,3 +5010,7 @@ Publíquese en la "Gaceta Oficial" del Estado.
 G.O. 22 DE DICIEMBRE DE 1970.
 
 La presente Ley surtirá sus efectos legales, a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 3 DE SEPTIEMBRE DE 1974.
+
+UNICO.- Esta Ley entrará en vigor después de la fecha de su publicación en la "Gaceta Oficial" del Estado.
