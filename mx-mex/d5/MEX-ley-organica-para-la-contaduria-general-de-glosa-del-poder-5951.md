@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-para-la-contaduria-general-de-glosa-del-poder-5951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-15"
-last_updated: "2004-04-06"
+last_updated: "2004-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY ORGANICA PARA LA CONTADURIA GENERAL DE GLOSA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO, PUBLICADO EN LA GACETA DEL GOBIERNO EL 26 DE AGOSTO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de octubre de 1991.
 
@@ -608,3 +610,31 @@ SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicació
 TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
 
 CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente en que la reforma constitucional cause sus efectos legales.
+
+TERCERO.- Se abroga la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México, publicada en el Periódico Oficial Gaceta del Gobierno el 15 de octubre de 1991.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en este decreto.
+
+QUINTO.- Toda referencia a la Contaduría General de Glosa en las disposiciones legales o administrativas, contratos, convenios o actos, expedidas o celebrados con anterioridad a la vigencia del presente decreto, se entenderá hecha al Organo Superior de Fiscalización del Estado de México.
+
+SEXTO.- Los procedimientos iniciados por la Contaduría General de Glosa, que se encuentren en trámite al entrar en vigor este ordenamiento, se resolverán por el Organo Superior de Fiscalización, conforme a las disposiciones de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
+
+SEPTIMO.- Dentro de un plazo, que no exceda de ciento veinte días naturales, contados a partir de la vigencia de la presente Ley, la Legislatura del Estado designará al Auditor Superior del Estado de México. En tanto se nombra al Auditor Superior, dicha función será ejercida de manera provisional por el Contador General de Glosa de la Legislatura.
+
+OCTAVO.- El Organo Superior de Fiscalización dentro del plazo que no exceda de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, expedirá su Reglamento interior y lo someterá a la consideración de la Comisión de Vigilancia.
+
+NOVENO.- Las cuentas públicas del Estado y Municipios relativas al ejercicio fiscal de dos mil cuatro, serán revisadas, fiscalizadas y calificadas, de acuerdo con las disposiciones aplicables de la Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México y demás leyes en la materia aplicables.
+
+DECIMO.- La H. Legislatura del Estado de México proveerá lo necesario para determinar el presupuesto necesario para la operación del Organo Superior de Fiscalización.
+
+DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la Contaduría General de Glosa pasarán a formar parte de la Comisión de Vigilancia de la Legislatura del Estado.
+
+DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
+
+DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento de sus fines.
