@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-consejos-tutelares-para-menores-infractores-en-5465"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-08"
-last_updated: "1979-02-08"
+last_updated: "1988-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de febrero de 1979.
 
@@ -53,19 +53,27 @@ El Consejo Tutelar actuará preventivamente, cuando los menores manifiesten algu
 
 ### CAPITULO II. ORGANIZACION Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 4.
 
-Habrá un Consejo Tutelar en el Estado de Hidalgo con residencia en la Capital del Estado el Pleno se formará por el Presidente y los Consejeros integrantes de las Salas.
+Habrá un Consejo Tutelar en el Estado de Hidalgo, con residencia en la Capital del Estado, el Consejo Tutelar funcionará en Pleno o en Salas.
+
+El Pleno se integrará por el Presidente y por los Consejeros de las Salas que lo componen.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 5.
 
-El Consejo contará con el número de Salas que determina el Presupuesto respectivo, cada Sala se integrará con sus Consejeros Numerarios, hombres y mujeres que serán un Licenciado en derecho, que la presidirá, un Médico y un Profesor, especialista en infractores.
+El Consejo Tutelar contará con el número de Salas que determine el presupuesto respectivo. Cada una se integrará con tres Consejeros numerarios, que serán un licenciado en derecho, que la presidirá, un médico y un profesor, especialista en menores infractores.
 
-Los mismos requisitos se observarán se observarán en el caso de los Consejeros Supernumerarios.
+Los mismos requisitos se observarán para los Consejeros supernumerarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 6.
 
-El personal del Consejo Tutelar y de sus organismos auxiliares se integrarán con:
+El personal del Consejo Tutelar y de sus organismos auxiliares se integrará por:
 
 I.- Un Presidente,
 
@@ -81,19 +89,23 @@ VI.- Los Consejeros Auxiliares de los Municipios del Estado y,
 
 VII.- El personal técnico y administrativo que determine el presupuesto.
 
-Se considerará de confianza el personal a que se refieren las Fracciones I a VI.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
 
-Para el cumplimiento de sus funciones, el Consejo Tutelar podrá solicitar el auxilio de las Dependencias del Gobierno Estatal y del Gobierno Federal, en la medida de las atribuciones de éstas.
+Se considerará de confianza el personal a que se refieren las fracciones I a VI.
 
-Además dichas Dependencias del gobierno Estatal y del Gobierno Federal, auxiliarán al Consejo Tutelar para la realización de sus planes y programas de carácter social.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
+Para el cumplimiento de sus funciones, el Consejo Tutelar podrá solicitar el auxilio de la Secretaría de Gobernación y de otras dependencias del Poder Ejecutivo del Estado, en la esfera de las atribuciones que les correspondan, así como promover la celebración de los acuerdos de coordinación que resulten convenientes con autoridades federales de competencia análoga.
 
 ###### Artículo 7.
 
 El Procurador de la Defensa del menor y la Familia en el Estado de Hidalgo, funge como Jefe de Promotores y con sus auxiliares integra el Cuerpo de Promotores.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 8.
 
-El Presidente del Consejo y los demás Consejeros serán designados por el Patronato del DIF Hidalgo, el Director General del Sistema para el Desarrollo integral de la Familia Hidalgo, nombrará a los demás funcionarios y empleados del Consejo y de sus Instituciones Auxiliares.
+El Presidente del Consejo Tutelar y los demás Consejeros serán designados y removidos por el Gobernador, a propuesta del Secretario de Gobernación, y durarán en su encargo seis años. Este último designará y removerá a los demás servidores públicos del Consejo y de sus instituciones auxiliares.
 
 ###### Artículo 9.
 
@@ -223,7 +235,9 @@ II.- Recibir instancias, quejas e informes de quienes ejercen la Patria Potestad
 
 III.- Visitar a los menores internos de los Centros de Observación y examinar las condiciones en que se encuentren, poniendo en conocimiento del Jefe de Promotores y del Presidente del Consejo, las irregularidades que adviertan para su inmediata corrección;
 
-IV.- Visitar los Centros de Tratamiento y Observación, la ejecución de las medidas impuestas, dando cuenta a la autoridad competente de las irregularidades que encuentren, para los mismos efectos de la fracción anterior; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1988)</small>
+
+IV.- Visitar los Centros de Observación y Tratamiento, para examinar la correcta ejecución de las medidas impuestas, dando cuenta a la Autoridad competente de las irregularidades que adviertan, para que sean corregidas desde luego; y
 
 V.- Vigilar que los menores no sean detenidos en lugares destinados para la reclusión de adultos, y denunciar ante la autoridad correspondiente, las contravenciones que sobre el particular adviertan.
 
@@ -263,9 +277,11 @@ El Presidente del Consejo, será suplido en sus faltas temporales que no excedan
 
 Los nombramientos del Consejero Secretario de Acuerdos, de Promotor y de Director Técnico de los Centros, son incompatibles en el ejercicio de cualquiera otros cargos en la Administración de Justicia en el Ministerio Público y en la Defensoría de Oficio, Federales o del Fuero Común., así como en el desempeño de funciones policiales.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 24.
 
-Los funcionarios y empleados del Consejo y del Centro de Observación y tratamiento, forman parte del Sistema para el Desarrollo Integral de la Familia Hidalgo.
+Los servidores públicos del Consejo Tutelar y del Centro de Observación y tratamiento, forman parte de la Secretaría de Gobernación.
 
 ###### Artículo 25.
 
@@ -297,7 +313,7 @@ No se permitirá el acceso del público a las diligencias que celebren ante el I
 
 ###### Artículo 31.
 
-En las resoluciones en que se aplique alguna medida al menor, las Salas y el Pleno asentarán la causa del procedimiento, los resultados de las pruebas practicadas, valorándolas conforme a las reglas de la sana crítica y las observaciones que se hubiesen formulado sobre la personalidad de aquel estableciendo su diagnóstico, los fundamentos legales, u técnicos de la determinación y la medida acordada.
+En las resoluciones en que se aplique alguna medida al menor, las Salas y el Pleno asentarán la causa del procedimientos, los resultados de las pruebas practicadas, valorándolas conforme a las reglas de la sana crítica y las observaciones que se hubiesen formulado sobre la personalidad de aquel estableciendo su diagnóstico, los fundamentos legales, u técnicos de la determinación y la medida acordada.
 
 ###### Artículo 32.
 
@@ -361,15 +377,21 @@ En caso de modificación, la resolución se integrará por escrito dentro de los
 
 En vista de complejidad del caso el Consejero Instructor podrá solicitar de la Sala que se amplié por una sola vez, el plazo concedido a la instrucción, se dejará constancia de la prórroga que se otorgue, la que nunca podrá exceder de 15 días.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 45.
 
-El Promotor deberá informar al Presidente del Consejo cuando no se presente proyecto de resolución en algún caso, dentro del plazo fijado en la presente Ley. De inmediato requerirá el Presidente del Consejero Instructor la presentación de su proyecto de resolución dentro de los 5 días siguientes al recibo de la excitativa, el Promotor lo hará saber al Presidente del Consejo, quien dará cuanta al pleno, el cual discrecionalmente descuchando (sic) al Instructor y al Promotor dejará nuevo plazo improrrogable para que éste someta el proyecto de resolución al conocimiento de la Sala o dispondrá, si lo cree conveniente el cambio de Instructor.
+El Promotor deberá informar al Presidente del Consejo cuando no se presente proyecto de resolución en algún caso, dentro del plazo fijado en la presente Ley. De inmediato requerirá el Presidente al Consejero Instructor la presentación de su proyecto.
 
-Cuando un Consejero hubiese sido sustituido por 2 veces en el curso de 1 mes conforme a éste precepto, se pondrá el hecho en conocimiento del Patronato del DIF Hidalgo, quién lo apercibirá. En caso de reincidencia será separado temporal o definitivamente de su cargo.
+En igual forma actuará el Presidente cuando por otros medios llegue a su conocimiento la omisión o demora en la presentación del proyecto. Si el instructor no somete a la Sala proyecto de resolución dentro de los cinco días siguientes al recibo de la excitativa, el Promotor lo hará saber al Presidente del Consejo, quien dará cuenta al Pleno, el cual, discrecionalmente y escuchando al instructor, fijará nuevo plazo prorrogable para que éste someta el proyecto de resolución al conocimiento de la Sala o dispondrá, si lo cree conveniente, el cambio de instructor.
+
+Cuando un Consejero hubiese sido sustituido por dos veces en el curso de un mes conforme a éste precepto, se pondrá el hecho en conocimiento del Secretario de Gobernación, quién lo apercibirá. En caso de reincidencia será separado temporal o definitivamente de su cargo.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 46.
 
-La ejecución de las medidas impuestas por el Consejo Tutelar corresponde al Patronato del Sistema para el Desarrollo Integral de la Familia Hidalgo, el que no podrá modificar la naturaleza de aquellas, sin embargo esta Autoridad formulará cuando lo estime pertinente, las recomendaciones para los fines de la revisión.
+La ejecución de las medidas impuestas por el Consejo Tutelar corresponde a la Secretaría de Gobernación, la que no podrá modificar la naturaleza de aquellas. La misma informará al Consejo sobre los resultados del tratamiento y formulará la instancia y las recomendaciones que estime pertinentes para los fines de la revisión.
 
 ### CAPITULO V. OBSERVACION
 
@@ -387,11 +409,13 @@ El personal de los Centros de Observación, practicará los estudios que sean re
 
 ### CAPITULO VI. PROCEDIMIENTO ANTE EL CONSEJO TUTELAR AUXILIAR
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 50.
 
-Los Consejeros Auxiliares conocerán exclusivamente de infracciones a los Reglamentos de Policía y Buen Gobierno, y de conductas constitutivas de golpes, amenazas, injurias; lesiones que no pongan en peligro la vida y tarden en sanar menos de quince días, y daño en propiedad ajena culposo hasta la cantidad de 2 mil pesos.
+Los Consejeros Auxiliares conocerán exclusivamente de infracciones a los reglamentos de policía y buen gobierno y de conductas constitutivas de golpes, amenazas, injurias; lesiones que no pongan en peligro la vida y tarden en sanar menos de quince días, y daño en propiedad ajena culposo hasta por la cantidad equivalente a 2 veces el salario mínimo vigente en el lugar en que se cometa el hecho.
 
-Cuando el caso de que se trate revista especial complejidad o amerite estudio de personalidad de imposición de medidas diversas de la amonestación, o cuando se trate de reincidente, el Consejo Auxiliar lo remitirá al Tutelar a efecto de que se tome conocimiento de él conforme al procedimiento ordinario.
+Cuando el caso de que se trate revista especial complejidad o amerite estudio de personalidad de imposición de medidas diversas de la amonestación, o cuando se trate de reincidente, el Consejo Auxiliar lo remitirá al tutelar, a efecto de que se tome conocimiento de él conforme al procedimiento ordinario"
 
 ###### Artículo 51.
 
@@ -417,15 +441,19 @@ Los Consejeros Auxiliares rendirán informe de sus actividades al Consejo Tutela
 
 La Sala revisará las medidas que hubieren impuesto tomando en cuenta los resultados obtenidos mediante el tratamiento aplicado. Como consecuencia de la revisión, la Sala ratificará modificará o hará cesar la medida disponiendo en éste último caso, la liberación incondicional del menor.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 56.
 
-La revisión se practicará de oficio, cada 6 meses, podrá realizarse después de 3 meses cuando existan circunstancias que lo exijan, a Juicio de la Sala, o cuando lo solicite el Patronato del Sistema para el Desarrollo Integral de la Familia Hidalgo.
+La revisión se practicará de oficio cada 6 meses. Podrá realizarse después de tres meses cuando existan circunstancias que lo exijan a Juicio de la Sala, o cuando lo solicite la Secretaria de Gobernación.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 57.
 
-Para los efectos de la revisión, el Presidente del Consejo, recabará y turnará a la Sala informes sobre los resultados del tratamiento y recomendación fundada que emitirá la Dirección Técnica del Consejo Tutelar.
+Para los efectos de la revisión, el Presidente del Consejo recabará y turnará a la Sala Informes sobre los resultados del tratamiento, así como recomendación fundada que emita el personal técnico del propio Consejo.
 
-La Sala resolverá tomando en cuenta este informe y recomendación, los que rinde el Consejero Supervisor, el Promotor y los demás elementos de juicio que estime pertinente considerar.
+La Sala resolverá, tomando en cuenta tales elementos, los informes que rindan el Consejero supervisor y el promotor, o los demás que estime pertinente considerar.
 
 ### CAPITULO VIII. IMPUGNACION
 
@@ -522,3 +550,15 @@ Diputado Presidente:- Lic. Alberto Aranda Del Villar. Diputado Secretario:- Lic.
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la Ciudad de Pachuca de Soto. Hgo.- El C. Gobernador Constitucional del Estado, LIC. JORGE ROJO LUGO.- El C Secretario General de Gobierno.- LIC. JESUS MURILLO KARAM.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1988.
+
+PRIMERO.- Este Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+SEGUNDO.- Los Consejeros que se encuentren en funciones al entrar en vigor las presentes reformas y los que se designen hasta antes del 31 de Marzo de 1993 durarán en sus cargos hasta el 30 de abril de dicho año, salvo que fueren removidos.
+
+TERCERO.- La adscripción de los servidores públicos de base del Consejo Tutelar y del Centro de Observación y Tratamiento a la Secretaría de Gobernación no afectará los derechos laborales que tengan adquiridos.
+
+CUARTO.- En los casos de daños en propiedad ajena culposo cometidos hasta la fecha en que entre en vigor el presente decreto, en que conforme a la reforma al Artículo 50 deba conocer el Consejo Auxiliar, si este ya existiere se abocará a su conocimiento siempre que no se hubieren remitido al Consejo Tutelar.
