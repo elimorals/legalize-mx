@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-control-331
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-02-20"
-last_updated: "1985-02-20"
+last_updated: "1987-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=331&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-02-18"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CADAVERES DE SERES HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1987.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de febrero de 1985.
 
@@ -53,9 +53,11 @@ REGLAMENTO de la Ley General de Salud en materia de control sanitario de la disp
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 1o.
 
-Este Reglamento tiene por objeto proveer, en la esfera administrativa, al cumplimiento de la Ley General de Salud, en lo que se refiere al control sanitario de la disposición de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos con fines terapéuticos, de investigación y de docencia. Es de aplicación en toda la República y sus disposiciones son de orden público e interés social.
+Este Reglamento tiene por objeto proveer, en la esfera administrativa, al cumplimiento de la Ley General de Salud, en lo que se refiere al control sanitario de la disposición de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, con fines terapéuticos, de investigación y de docencia. Es de aplicación en toda la República y sus disposiciones son de orden público e interés social.
 
 ###### ARTICULO 2o.
 
@@ -65,77 +67,87 @@ Cuando en este Reglamento se haga referencia a la "Ley" y a la "Secretaría", se
 
 La aplicación de este Reglamento compete a la Secretaría. Los gobiernos de las Entidades Federativas, en los términos de los Acuerdos de Coordinación que suscriban con dicha Dependencia, podrán participar en la prestación de los servicios a que el mismo se refiere.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 4o.
 
-Corresponde a la Secretaría emitir las normas técnicas a que se sujetará, en todo el territorio nacional, la disposición de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos.
+Corresponde a la Secretaría emitir las normas técnicas a que se sujetará, en todo el territorio nacional, la disposición de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos.
 
 Asimismo, compete a la Secretaría la emisión de los instructivos, circulares y formas que se requieran para la aplicación del presente reglamento.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 5o.
 
-La Secretaría fomentará, propiciará y desarrollará programas de estudio e investigación relacionados con la disposición de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos, particularmente en lo que respecta a transplantes, transfusiones y otros procedimientos terapéuticos.
+La Secretaría fomentará, propiciará y desarrollará programas de estudio e investigación relacionados con la disposición de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, particularmente en lo que respecta a transplantes, transfusiones y otros procedimientos terapéuticos.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 6o.
 
 Para los efectos de este Reglamento, se entiende por:
 
-> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
+I.- Aféresis: El procedimiento que tiene por objeto la separación de componentes de la sangre provenientes de un solo disponente de sangre humana, mediante centrifugación directa o con máquinas de flujo continuo o discontinuo;
 
-I.- Aféresis: El Procedimiento practicado por instituciones médicas que cuenten con bancos de sangre o servicios de transfusión, para la separación de componentes de la sangre prevenientes (sic) de un solo proveedor, mediante centrifugación directa o con máquinas de flujo continuo o discontinuo;
+II.- Banco de Organos y Tejidos: Todo establecimiento autorizado que tenga como finalidad primordial la obtención de órganos y tejidos para su preservación y suministro terapéutico;
 
-II.- Banco de Organos y Tejidos: Todo establecimiento que tenga como finalidad, primordial la obtención de órganos y tejidos para su preservación y suministro terapéutico;
+III.- Banco de Sangre: El establecimiento autorizado para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
 
-III.- Banco de Sangre: El establecimiento autorizado para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus derivados;
-
-IV.- Banco de Plasma: El establecimiento autorizado para la obtención de plasma mediante el sistema de aféresis;
+IV.- Banco de Plasma: El establecimiento autorizado para fraccionar sangre obtenida de los Bancos de Sangre autorizados mediante el procedimiento de aféresis, y para la conservación del plasma que resulte;
 
 V.- Cadáver: El cuerpo humano en el que se haya comprobado la pérdida de la vida;
 
-VI.- Concentrados celulares: Las células que se obtienen de la sangre dentro de su plazo de vigencia;
+VI.- Componentes de la sangre: Las fracciones específicas obtenidas mediante el procedimiento de aféresis;
 
-VII.- Derivados de la sangre: Los productos obtenidos de la misma, que tengan aplicación terapéutica, diagnóstica o en investigación;
+VII.- Concentrados celulares: Las células que se obtienen de la sangre dentro de su plazo de vigencia;
 
-VIII.- Destino final: La conservación permanente, inhumación o desintegración, en condiciones sanitarias permitidas por la Ley y este Reglamento, de órganos, tejidos y sus derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos;
+VIII.- Derivados de la sangre: Los productos obtenidos de la sangre mediante un proceso industrial, que tengan aplicación terapéutica, diagnóstica, preventiva o en investigación;
 
-IX.- Disponente: Quien autorice, de acuerdo con la Ley y este Reglamento, la disposición de órganos, tejidos y sus derivados, productos y cadáveres;
+IX.- Destino final: La conservación permanente, inhumación o desintegración en condiciones sanitarias permitidas por la Ley y este Reglamento, de órganos, tejidos y sus componentes y derivados, productos y cadáveres de seres humanos, incluyendo los embriones y fetos;
 
-X.- Disposición de órganos, tejidos y cadáveres y sus productos: El conjunto de actividades relativas a la obtención, preservación, preparación, utilización, suministro y destino final de órganos, tejidos y sus derivados, productos y cadáveres, incluyendo los de embriones y fetos, con fines terapéuticos, de dolencia o de investigación;
+X.- Disponente: Quien autorice, de acuerdo con la Ley y este Reglamento, la disposición de órganos, tejidos, productos y cadáveres;
 
-XI.- Embrión: El producto de la concepción hasta la decimotercera semana de gestación;
+XI.- Disposición de órganos, tejidos y cadáveres y sus productos: El conjunto de actividades relativas a la obtención, preservación, preparación, utilización, suministro y destino final de órganos, tejidos y sus componentes y derivados, productos y cadáveres, incluyendo los de embriones y fetos, con fines terapéuticos, de docencia o de investigación;
 
-XII.- Feto: El producto de la concepción a partir de la decimotercera semana de gestación;
+XII.- Disponente de Sangre Humana: La persona que suministra gratuitamente su sangre en cualquiera de las siguientes formas:
 
-XIII.- Organo: Entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño del mismo trabajo fisiológico;
+A) A un paciente a solicitud del médico tratante o del establecimiento hospitalario, o
 
-XIV.- Plasma humano normal: La fracción específica separada de los elementos figurados de un sangre transfundible;
+B) Atendiendo a un llamado general y sin tener en cuenta a qué persona pueda destinarse, o bien sea utilizada para la obtención de componentes y derivados de la sangre;
 
-XV.- Producto: Todo tejido o substancia excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales, considerándose como productos la placenta y los anexos de la piel;
+XIII.- Embrión: El producto de la concepción hasta la décimo tercera semana de gestación;
 
-XVI.- Proveedor de sangre autorizado: Disponente originario que suministre habitualmente su sangre, mediante alguna otro prestación y que cuente con permiso de la Secretaría;
+XIV.- Feto: El producto de la concepción a partir de la décimo tercera semana de gestación, hasta su expulsión del seno materno;
 
-XVII.- Proveedor de sangre eventual: Disponente originario que, ocasionalmente, suministra gratuitamente su sangre o componentes de ésta, en cualquiera de las siguientes formas;
+XV.- Obtención de sangre: Actividades relativas a la extracción de sangre humana;
 
-A).- A un paciente hospitalizado, a solicitud del médico tratante o como requisito de hospitalización, o
+XVI.- Organo: Entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño del mismo trabajo fisiológico;
 
-B).- En un acto voluntario, atendiendo un llamado y sin tomar en cuenta a qué persona pueda destinarse la sangre.
+XVII.- Plasma Humano: El componente específico separado de las células de la sangre;
 
-XVIII.- Proveedor de plasma autorizado: Disponente originario incorporado a un programa de plasmaféresis mediante alguna contraprestación, y que cuenta con permiso de la Secretaría;
+XVIII.- Producto: Todo tejido o substancia excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados como productos, la placenta y los anexos de la piel;
 
-XIX.- Puesto móvil de sangrado: Vehículo o establecimiento no fijo que cuenta con los elementos necesarios para captar sangre de proveedores eventuales y que funciona bajo la responsabilidad de un banco de sangre del sector público;
+XIX.- Puesto de Sangrado: Establecimiento móvil o fijo que cuenta con los elementos necesarios exclusivamente para extraer sangre de disponentes de sangre humana y que funciona bajo la responsabilidad de un Banco de Sangre autorizado;
 
-XX.- Receptor: la persona a quien se trasplantará o se le haya trasplantado un órgano o tejido o transfundido sangre mediante procedimientos terapéuticos;
+XX.- Receptor: La persona a quien se trasplantará o se le haya trasplantado un órgano o tejido o transfundido sangre o sus componentes mediante procedimientos terapéuticos;
 
-XXI.- Sangre humana transfundible: El tejido recolectado en recipientes con anticoagulantes, en condiciones que permitan su utilización durante el tiempo de vigencia, de acuerdo al anticoagulante usado;
+XXI.- Sangre: El Tejido hemático con todos sus elementos;
 
-XXII.- Servicio de transfusión: El establecimiento autorizado para el manejo, conservación y aplicación de sangre humana y sus derivados, obtenidos de un banco de sangre;
+XXII.- Sangre humana transfundible: El tejido hemático recolectado en recipientes con anticoagulantes, en condiciones que permitan su utilización durante el tiempo de vigencia, de acuerdo al anticoagulante usado;
 
-XXIII.- Tejido: Entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función, y
+XXIII.- Servicio de transfusión: El establecimiento autorizado para el manejo, conservación y aplicación de sangre humana y sus componentes, obtenidos de un banco de sangre;
 
-XXIV.- Terapéutica: La rama de la medicina que establece los principios aplicables y los medicamentos o medios para el tratamiento de las enfermedades en forma racional.
+XXIV.- Tejido: Entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función. La sangre será considerada como tejido;
+
+XXV.- Terapéutica: La rama de la medicina que establece los principios aplicables y los medicamentos o medios para el tratamiento de las enfermedades en forma racional, y
+
+XXVI.- Transfusión: Procedimiento a través del cual se suministra sangre o cualquiera de sus componentes a un ser humano, solamente con fines terapéuticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 7o.
 
-Serán considerados destinos finales de órganos, tejidos, productos y cadáveres de seres humanos:
+Será considerado destino final de órganos, tejidos, productos y cadáveres de seres humanos:
 
 I.- La inhumación;
 
@@ -151,15 +163,19 @@ VI.- El embalsamamiento permanente con fines análogos a los de la fracción ant
 
 VII.- La conservación permanente de órganos y tejidos mediante substancias fijadoras para fines de docencia, y
 
-VIII.- Los demás que tengan como fin la conservación o desintegración en condiciones sanitarias, que autorice la Secretaría.
+> <small>(REFORMADA, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+
+VIII.- Los demás que tengan como fin la conservación permanente o desintegración en condiciones sanitarias, que autorice la Secretaría.
 
 ###### ARTICULO 8o.
 
 Corresponde a la Secretaría controlar, programar, coordinar, supervisar y evaluar las actividades a que se refiere este Reglamento, organizar y operar servicios y vigilar su funcionamiento, dentro del marco del Sistema Nacional de Salud, teniendo en consideración que en caso de conflicto entre los intereses individuales y los de la sociedad, prevalecerán los dos de ésta, en los términos de la Ley y del presente ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 9o.
 
-En ningún caso se podrá disponer de órganos, tejidos y sus derivados, productos y cadáveres, en contra de la voluntad del disponente originario.
+En ningún caso se podrá disponer de órganos, tejidos, productos y cadáveres, en contra de la voluntad del disponente originario.
 
 ### CAPITULO II. De los Disponentes
 
@@ -171,9 +187,11 @@ En los términos de la Ley y de este Reglamento, los disponentes pueden ser orig
 
 Es disponente originario la persona con respecto a su propio cuerpo y los productos del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 12.
 
-El disponente originario podrá, en cualquier tiempo, revocar el consentimiento que haya otorgado para fines de disposición de sus órganos, tejidos y sus derivados, productos o de su propio cadáver, sin que exista responsabilidad de su parte.
+El disponente originario podrá en cualquier tiempo revocar el consentimiento que haya otorgado para fines de disposición de sus órganos, tejidos, productos o de su propio cadáver, sin que exista responsabilidad de su parte.
 
 En caso de que el disponente originario no haya revocado su consentimiento en vida, no tendrá validez la revocación que, en su caso, hagan los disponentes secundarios a que se refiere el artículo siguiente.
 
@@ -195,21 +213,23 @@ VI.- Las instituciones educativas con respecto a los órganos, tejidos y cadáve
 
 VII.- Los además a quienes las disposiciones generales aplicables les confieren tal carácter, con las condiciones y requisitos que se señalan en las mismas.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 14.
 
-Los disponentes secundarios a que se refiere el artículo anterior, podrán otorgar su consentimiento para la disposición del cadáver, órganos, tejidos y sus derivados, así como de productos del disponente originario, en los términos de la Ley y este reglamento.
+Los disponentes secundarios a que se refiere el artículo anterior, podrán otorgar su consentimiento para la disposición del cadáver, de órganos y tejidos, así como de productos del disponente originario, en los términos de la Ley y este Reglamento.
 
-> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
-
-Cuando el Ministerio Público haya ordenado la necropsia, y en ausencia de los disponentes secundarios a que se refiere la fracción I del artículo anterior, la autoridad sanitaria podrá autorizar la disposición de órganos y tejidos para efectos de trasplante, de conformidad con las normas técnicas que emita la Secretaría.
+De conformidad con la propia ley, en los casos en que la autoridad competente ordene la necropsia no se requerirá de autorización o consentimiento alguno para la disposición de órganos y tejidos, debiéndose sujetar a las normas técnicas que se expidan.
 
 ###### ARTICULO 15.
 
 La preferencia entre los disponentes secundarios a que se refiere la fracción I del artículo 13, se definirá conforme a las reglas de parentesco que establece el Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 16.
 
-Tratándose de trasplantes, el disponente originario del que se tomen órganos y tejidos deberá:
+Tratándose de trasplantes entre vivos, el disponente originario del que se tomen órganos y tejidos deberá:
 
 I.- Tener más de dieciocho años de edad y menos de sesenta;
 
@@ -220,6 +240,10 @@ III.- Tener compatibilidad con el receptor, de conformidad con las pruebas médi
 IV.- Haber recibido información completa sobre los riesgos de la operación y las consecuencias de la extirpación del órgano, en su caso, así como las probabilidades de éxito para el receptor, y
 
 V.- Haber expresado su voluntad por escrito, libre de coacción física o moral, otorgada ante dos testigos idóneos o ante un notario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D. O. 26 DE NOVIEMBRE DE 1987)</small>
+
+Tratándose de trasplantes de médula ósea, la Secretaría podrá, en su caso, eximir al disponente originario del requisito a que se refiere la fracción I de este artículo. Al efecto deberán presentarse ante la Secretaría los estudios y diagnósticos terapéuticos que ésta determine y, cuando proceda, el consentimiento de los representantes legales del disponente, a quienes también se les deberá proporcionar la información a que se refiere la fracción IV de este artículo.
 
 ### CAPITULO III. De la Disposición de Organos, Tejidos y Productos
 
@@ -235,9 +259,13 @@ En el caso de trasplantes no será admisible la sección hecha por un solo médi
 
 Los procedimientos para la conservación de órganos y tejidos con fines terapéuticos, serán establecidos en las normas técnicas que emita la Secretaría.
 
+> <small>(REFORMADO, D.O. F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 19.
 
-El Ministerio Público podrá autorizar la toma de órganos, tejidos o productos, para fines terapéuticos, de los cadáveres de personas conocidas o que hayan sido reclamados y que se encuentren a su disposición, de conformidad con las normas técnicas que al efecto emita la secretaría y siempre que no exista disposición en contrario, a título testamentario, del disponente originario y se cuente con la anuencia de los disponentes secundarios a que se refieren las fracciones I y V del artículo 13 de este Reglamento.
+El ministerio público podrá autorizar la disposición de órganos, tejidos o productos de los cadáveres de personas conocidas o que hayan sido reclamados y que se encuentren a su disposición, de conformidad con las normas técnicas que al efecto emita la Secretaría y siempre que no exista disposición en contrario, a título testamentario, del disponente originario y se cuente con anuencia de los disponentes secundarios a que se refieren las fracciones I y V del artículo 13 de este Reglamento.
+
+Para llevar a cabo actos de disposición de órganos y tejidos en cualquiera de los supuestos contemplados en el párrafo que antecede para fines terapéuticos, se requiere previa solicitud por escrito que se haga de acuerdo a las disposiciones de este Reglamento y a las normas técnicas que expida la Secretaría.
 
 ###### ARTICULO 20.
 
@@ -245,17 +273,21 @@ Los establecimientos de salud, previa autorización de la Secretaría, podrán i
 
 #### SECCION SEGUNDA. De la Disposición de Organos y Tejidos Para Fines Terapéuticos
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 21.
 
-La disposición de órganos y tejidos para fines terapéuticos será a título gratuito, con la excepción que establecen los artículos 332 de la Ley y 6o., fracciones XVI y XVIII de este Reglamento.
+La disposición de órganos y tejidos para fines terapéuticos será a título gratuito.
 
 ###### ARTICULO 22.
 
 Se prohibe el comercio de órganos o tejidos desprendidos o seccionados por intervención quirúrgica, accidente o hecho ilícito.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 23.
 
-El trasplante de órgano único no regenerable, esencial para la conservación de la vida, sólo podrá hacerse obteniéndolo de un cadáver.
+El trasplante de órgano único no regenerable, esencial para la conservación de la vida, sólo podrá hacerse obteniéndolo de un cadáver. Para efectos de este Reglamento, los ojos serán considerados como órgano único.
 
 ###### ARTICULO 24.
 
@@ -305,7 +337,7 @@ IV.- Haber expresado su voluntad por escrito, una vez enterado del objeto de la 
 
 V.- Ser compatible con el disponente originario del que se vaya a tomar el órgano o tejido.
 
-Los médicos responsables del trasplante, procurarán que el receptor no tenga la edad de sesenta años al momento del trasplante.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 26.
 
@@ -335,13 +367,17 @@ XI.- Lugar y fecha en que se emite, y
 
 XII.- Nombre, firma y domicilio de los testigos si se trata de documento privado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 27.
 
-Cuando por causa de minoridad o incapacidad del receptor, éste no pueda expresar su voluntad para la realización del trasplante, éste podrá ser autorizado por los disponentes secundarios a que se refieren las fracciones I y V del artículo 13 de este Reglamento, siempre y cuando aquellos hayan previamente recibido información completa sobre las probabilidades de éxito terapéutico.
+Cuando por causa de minoridad, incapacidad o imposibilidad física del receptor, éste no pueda expresar su voluntad para la realización del trasplante, la intervención podrá ser consentida por las personas a que se refiere la fracción I del artículo 13 de este Reglamento, o por los representantes legales de menores o incapaces, siempre y cuando hayan previamente recibido información completa sobre las probabilidades de éxito terapéutico.
 
 La autorización a que se refiere el párrafo anterior, deberá reunir los requisitos que procedan del artículo 26, además del señalamiento del vínculo existente con el receptor.
 
-En caso de urgencia, el consentimiento podrá ser otorgado por el primer disponente secundario de los citados en la fracción I del artículo 13 de este Reglamento, que esté presente, y a falta de ello, por el Comité Interno de Trasplantes de la institución hospitalaria de que trate.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+En caso de urgencia para la realización del trasplante, el consentimiento podrá ser otorgado por la primera persona de las mencionadas en la fracción I del artículo 13 de este Reglamento que esté presente y, a falta de ello por el Comité Interno de Trasplantes de la institución hospitalaria de que se trate.
 
 ###### ARTICULO 28.
 
@@ -355,15 +391,21 @@ III.- No haber padecido tumores malignos con riesgo de metástasis al órgano qu
 
 IV.- No haber presentado infecciones graves y otros padecimientos que pudieren, a juicio médico, afectar al receptor o comprometer el éxito del trasplante.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 29.
 
-La obtención, guarda, conservación, preparación y utilización de órganos, tejidos y productos de seres humanos vivos, o de cadáveres, para fines terapéuticos, de investigación científica o de docencia, sólo podrá hacerse en instituciones autorizadas para ello.
+La obtención, guarda, conservación, preparación y utilización de órganos, tejidos, sus componentes y productos de seres humanos vivos, o de cadáveres, para fines terapéuticos, de investigación científica o de docencia, sólo podrá hacerse en instituciones autorizadas para ello.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 30.
 
-Los bancos de órganos y tejidos podrán ser de:
+Los bancos de órganos, tejidos y sus componentes podrán ser de:
 
-I.- Córneas y escleróticas;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+I.- Ojos;
 
 II.- Hígados;
 
@@ -377,13 +419,19 @@ VI.- Páncreas;
 
 VII.- Paratiroides;
 
-VIII.- Piel y faneras;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+VIII.- Piel;
 
 IX.- Riñones;
 
-X.- Sangre y sus derivados;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
-XI.- Tímpanos;
+X.- Sangre y sus componentes;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+XI.- Plasma;
 
 XII.- Vasos sanguíneos, y
 
@@ -395,7 +443,9 @@ Los bancos podrán ser de una o varias clases de órganos o tejidos a que se ref
 
 Los responsables de los bancos de órganos y tejidos facilitarán los procedimientos de trasplante y al efecto desarrollarán las siguientes funciones:
 
-I.- Selección de disponentes originarios;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+I.- Participar en la selección de disponentes originarios;
 
 II.- Obtención y guarda de órganos y tejidos;
 
@@ -405,15 +455,21 @@ IV.- Distribución, y
 
 V.- Las demás similares a las anteriores que determine la Secretaría.
 
-También se podrán desarrollar actividades de investigación científica y de docencia en lo relativo a sus funciones, así como actividades de adiestramiento de su personal.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+También podrán desarrollar las actividades de investigación científica y de docencia en lo relativo a sus funciones, así como actividades de adiestramiento de su personal.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 32.
 
-Los bancos de órganos y tejidos deberán funcionar en coordinación con un establecimiento de salud de los Sectores Público, Social o Privado.
+Los bancos de órganos y tejidos deberán funcionar en coordinación con uno o varios establecimientos de salud de los sectores público, social o privado.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 33.
 
-Los requisitos de servicios, organización, funcionamiento y de ingeniería sanitaria de los bancos de órganos y tejidos, serán fijados por la Secretaría mediante normas técnicas y por instructivos o circulares, los que serán publicados en la Gaceta Sanitaria.
+Los requisitos de servicios, organización, funcionamiento e ingeniería sanitaria de los bancos de órganos y tejidos, serán fijados por la Secretaría mediante normas técnicas y por instructivos o circulares, los que serán publicados en la Gaceta Sanitaria.
 
 ###### ARTICULO 34.
 
@@ -443,7 +499,9 @@ I.- Coordinar la distribución de órganos y tejidos en todo el territorio nacio
 
 II.- Establecer y aplicar procedimientos para facilitar, en todo el territorio nacional, la obtención de órganos y tejidos de seres humanos;
 
-III.- Llevar un registro de disponentes originarios de órganos y tejidos y de proveedores autorizados y eventuales de sangre;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+III.- Llevar un registro de disponentes originarios de órganos y tejidos y de disponentes de sangre humana;
 
 IV.- Estudiar, conocer y proporcionar información de todos los aspectos relacionados con la disposición de órganos y tejidos de seres humanos;
 
@@ -455,19 +513,25 @@ VI.- Las demás similares a las anteriores que señale la Secretaría.
 
 Los establecimientos que realicen actos de disposición de órganos y tejidos con fines terapéuticos, rendirán un informe de sus actividades a los Registros Nacionales de Trasplantes y de Transfusiones, a que alude el artículo anterior, en los términos, forma y periodicidad que señale la Secretaría.
 
-#### SECCION TERCERA. De la Disposición de Sangre y sus Derivados
+> <small>(REFORMADA LA DENOMINACION, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+
+#### SECCION TERCERA. De la Disposición de Sangre y sus Componentes
 
 ###### ARTICULO 38.
 
 En el caso de disposición de sangre, no es necesario que el disponente exprese su voluntad por escrito.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 39.
 
-La sangre obtenida de proveedores eventuales en ningún caso podrá ser objeto de actos de comercio.
+La sangre en ningún caso podrá ser objeto de actos de comercio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 40.
 
-Los bancos de sangre y plasma, así como los servicios de transfusión, deberán contar con los siguientes servicios:
+Los bancos de sangre deberán contar con los siguientes servicios:
 
 I.- Sala de espera;
 
@@ -475,25 +539,65 @@ II.- Exámenes médicos;
 
 III.- Laboratorio clínico;
 
-IV.- Sangrado o aplicación de la sangre y sus fracciones;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
-V.- Conservación;
+IV.- Obtención de la sangre;
 
-VI.- Control administrativo y suministro de derivados, y
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
-VII.- Instalaciones sanitarias adecuadas.
+V.- Fraccionamiento y conservación;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+VI.- Aplicación de la sangre o de uno o varios de sus componentes;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+VII.- Control administrativo y suministro, y
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+VIII.- Instalaciones sanitarias adecuadas.
+
+(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE NOVIEMBRE DE 1987
+
+Los bancos de plasma contarán exclusivamente con los servicios a que se refieren las fracciones III, V, VII y VIII de este artículo.
+
+(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE NOVIEMBRE DE 1987
+
+Los servicios de transfusión contarán con los servicios a que se refieren las fracciones II, III, V, VI, VII y VIII de este artículo.
 
 ###### ARTICULO 41.
 
 Los requisitos de servicios, organización, funcionamiento y de ingeniería sanitaria de los bancos de sangre y plasma, así como de los servicios de transfusión, serán fijados por la Secretaría mediante normas técnicas y por instructivos o circulares, publicados en la Gaceta Sanitaria.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 42.
 
-El material para la obtención, conservación y aplicación de la sangre o fracciones, deberá ser desechable y reunir las condiciones de control de calidad que establezca la Secretaría en las normas técnicas que expida.
+El material para la obtención y conservación, así como para la aplicación de sangre o componentes y derivados de la misma deberá ser desechable y reunir las condiciones de control de calidad que establezca la Secretaría en las normas técnicas que expida.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 43.
 
-Los bancos de sangre, bancos de plasma y servicios de transfusión, deberán contar con reactivos para la dosificación de hemoglobina, identificación de antígenos de la hepatitis B, serología para la lues y, demás reactivos que determine la Secretaría con base en los avances científicos sobre la materia.
+Los bancos de sangre deberán contar con reactivos para la realización de los análisis siguientes:
+
+I.- Dosificación de hemoglobina o hematocrito, o ambas;
+
+II.- Identificación de grupos sanguíneos;
+
+III.- Compatibilidad sanguínea;
+
+IV.- Detección de sífilis;
+
+V.- Detección de hepatitis transmisible por transfusión sanguínea;
+
+VI.- Detección de virus de inmunodeficiencia humana (VIH) o de sus anticuerpos, y
+
+VII.- Otros reactivos que determine la Secretaría en las normas técnicas que expida.
+
+Los servicios de transfusión deberán contar con los reactivos a que se refieren las fracciones I, II, III y VII de este artículo.
 
 ###### ARTICULO 44.
 
@@ -501,7 +605,7 @@ Para el control de calidad, los bancos de sangre, de plasma y servicios de trans
 
 ###### ARTICULO 45.
 
-El propietario y el médico responsable de los bancos de órganos y tejidos y de los de sangre y plasma, así como de los servicios de transfusión, tendrán, mancomunadamente, la responsabilidad civil y administrativa de las actividades que se desarrollen en dichos establecimientos.
+EI propietario y el médico responsable de los bancos de órganos y tejidos y de los de sangre y plasma, así como de los servicios de transfusión, tendrán, mancomunadamente, la responsabilidad civil y administrativa de las actividades que se desarrollen en dichos establecimientos.
 
 ###### ARTICULO 46.
 
@@ -511,43 +615,45 @@ La Secretaría fijará el plazo de vigencia de la sangre y sus componentes a fin
 
 Los médicos responsables de un banco de sangre o de plasma y de los servicios de transfusión, reunirán los requisitos que establece este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 48.
 
-El médico responsable a que se refiere el artículo anterior, deberá realizar o supervisar las actividades siguientes:
+El médico responsable de un Banco de Sangre, deberá realizar o supervisar las actividades siguientes:
 
-I.- Contabilizar la sangre componentes y derivados que se obtengan;
+I.- Contabilizar la sangre y componentes que se obtengan de la misma.
 
-II.- Anotar las cantidades extraídas a cada proveedor y las fechas de extracciones, tanto en el expediente de éste, como en el libro de control autorizado por la Secretaría;
+II.- Anotar las cantidades extraídas a cada disponente de sangre humana y las fechas de extracciones, en el libro de control autorizado por la Secretaría;
 
-III.- Practicar a los proveedores de sangre autorizados y eventuales un examen médico y los análisis de laboratorio siguientes:
+III.- Practicar a los disponentes de sangre humana un examen médico y los análisis de laboratorio siguientes:
 
-A).- Grupo sanguíneo ABO en eritrocitos y suero;
+A).- Grupo Sanguíneo ABO en eritrocitos y suero;
 
-B).- Antígeno RH° (D);
+B).- Antígeno Rh° (D);
 
-C).- Hemoglobina, hematocrito o ambas,
+C).- Hemoglobina, hematocrito o ambas;
 
 D).- Prueba para la detección de sífilis;
 
-E).- Antígeno de la hepatitis B, y
+E).- Prueba para la detección de hepatitis transmitible por transfusión sanguínea;
 
-F).- Dosificación de proteínas en caso de plasmaféresis.
+F).- Dosificación de proteínas en caso de plasmaféresis, y
 
-IV.- Exigir el permiso expedido por la Secretaría al proveedor de sangre o de plasma autorizado;
+G).- Prueba para la detección del Virus de Inmunodeficiencia Humana (VIH) o de sus anticuerpos.
 
-V.- Comprobar que el proveedor cumpla con las condiciones requerida para ser sangrado;
+IV.- Comprobar que el disponente de sangre humana cumpla con las condiciones requeridas para que de él se obtenga sangre;
 
-VI.- Que las extracciones guarden un intervalo mínimo de cuarenta y cinco días para sangre total y de quince días para plasma;
+V.- Orientar a los disponentes de sangre humana respecto de la conveniencia de que las extracciones de sangre guarden un intervalo mínimo de 45 días;
 
-VII.- Advertir a los proveedores autorizados de los peligros a que están expuestos, si no efectúan sus disposiciones de sangre de acuerdo con lo que marque el instructivo que al respecto les será entregado;
+VI.- Enviar informes periódicos de ingresos y egresos de sangre y de componentes de la misma, a la Secretaría, en los términos que fijen las normas técnicas correspondientes;
 
-> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
+VII.- Dar aviso inmediato a la Secretaría cuando deje de ser responsable del establecimiento;
 
-VIII.- Recoger el permiso a los proveedores autorizados cuando los resultados de los exámenes médicos y de laboratorio exigidos por el presente Reglamento, revelen que no reúnen los requisitos necesarios para serlo, y enviarlo a la Secretaría, para su revocación o suspensión temporal;
+VIII.- Notificar en forma inmediata a la Secretaría la detección del Virus de la Inmunodeficiencia Humana o de anticuerpos contra éste, y
 
-IX.- Enviar informes periódicos de ingresos y egresos de sangre total y sus fracciones a la Secretaría, en los términos que fijen las normas técnicas correspondientes, y
+IX.- Denunciar ante la autoridad sanitaria cualquier acto de comercio de sangre.
 
-X.- Dar aviso inmediato a la Secretaría cuando deje de ser responsable del establecimiento.
+Los médicos responsables de los bancos de plasma y de los servicios de transfusión deberán realizar y supervisar las actividades contenidas en las fracciones I, VI y VII.
 
 ###### ARTICULO 49.
 
@@ -557,23 +663,33 @@ Los hospitales, sanatorios, clínicas, maternidades y en general los establecimi
 
 Todo establecimiento industrial que obtenga derivados de la sangre deberá proveerse de ésta a través de un banco de sangre o un banco de plasma autorizados.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 51.
 
-Los establecimientos de atención médica que requieran sangre de proveedores eventuales, deberán practicarles un examen médico y los análisis de laboratorio que señalen las normas técnicas aplicables.
+Los establecimientos de atención médica que requieran de disponentes de sangre humana, deberán practicarles a éstos un examen médico y los análisis de laboratorio que señalen las normas técnicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 52.
 
-Los directores de las instituciones de salud y los médicos tratantes, informarán a la Secretaría sobre los casos de enfermedades que se presuma hayan sido transmitidas por la transfusión de sangre o sus fracciones.
+Los directores de las instituciones de salud y los médicos tratantes darán aviso a la Secretaría sobre los casos de enfermedades que se presuma hayan sido transmitidas por la transfusión de sangre o sus componentes y derivados. Cuando se presente el Síndrome de Inmunodeficiencia Adquirida en un paciente receptor de sangre, sus componentes o derivados, la notificación a que se refiere este artículo se deberá hacer en forma inmediata aportando la información a su alcance respecto a la fuente de donde se obtuvo la sangre transfundida.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 53.
 
-La preparación, almacenamiento y etiquetado de la sangre y sus fracciones, cumplirán con los requisitos que exijan el presente Reglamento y las normas técnicas e instructivos que emita la Secretaría.
+La preparación, almacenamiento y etiquetado de la sangre y sus componentes, cumplirán con los requisitos que exijan este Reglamento y las normas técnicas e instructivos que emita la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 54.
 
-Las transfusiones deberán efectuarse previa tipificación del receptor y del proveedor de los grupos ABO y RH (D) y con la realización de las pruebas de compatibilidad que señalen las normas técnicas que emita la Secretaría.
+Las transfusiones deberán efectuarse previa tipificación del receptor de los grupos ABO y RH° (D) y con la realización de las pruebas de compatibilidad respectivas.
 
-La transfusión deberá realizarla el personal médico y de enfermería que actúe bajo la supervisión del médico responsable.
+La transfusión deberá llevarse a cabo por el personal médico y de enfermería que actúe bajo la supervisión del médico responsable y realizarse con sujeción a lo que señalen las normas técnicas que emita la Secretaría.
+
+Las transfusiones de sangre solamente se realizarán con propósitos terapéuticos, de conformidad con las normas técnicas que expida la Secretaría. Se prohibe la realización de transfusiones de sangre o de sus componentes al disponente de la misma sangre, salvo cuando se trate de necesidades terapéuticas y la transfusión se realice en un establecimiento hospitalario.
 
 ###### ARTICULO 55.
 
@@ -583,9 +699,15 @@ De cada unidad de sangre o sus fracciones se tendrá una muestra piloto que se c
 
 #### SECCION CUARTA. De la Disposición de Productos
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 56.
 
-El empleo de productos de seres humanos como materia prima con fines industriales, se ajustara a las disposiciones sanitarias que regulen el proceso de que se trate.
+Para efectos de este Reglamento, además de los señalados en la fracción XVIII del artículo 6o. del mismo ordenamiento, serán considerados como productos del cuerpo humano las excretas y las células germinales.
+
+Los productos de seres humanos, excepto las células germinales, podrán emplearse como materia prima con fines industriales, de conformidad con las disposiciones sanitarias que regulen el proceso de que se trate.
+
+La disposición de células germinales se llevará a cabo de conformidad con lo que señalen las normas técnicas que al efecto emita la Secretaría.
 
 ###### ARTICULO 57.
 
@@ -605,9 +727,11 @@ La disposición de cadáveres para efectos de investigación o docencia sólo po
 
 La disposición de cadáveres de personas desconocidas, estará sujeta a lo que señale el Ministerio Público, de conformidad con las disposiciones legales aplicables, este Reglamento y las normas técnicas que al efecto emita la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 61.
 
-Tratándose de cadáveres de personas conocidas en los cuales el Ministerio Público o la autoridad judicial hayan ordenado la práctica de la necropsia, se requerirá permiso escrito para su utilización con fines de trasplante, investigación o docencia, otorgado por los disponentes secundarios, de conformidad con lo dispuesto por los Artículos 13, 14 y demás aplicables de este Reglamento.
+Tratándose de cadáveres de personas conocidas en los cuales el Ministerio Público o la autoridad judicial hayan ordenado la práctica de la necropsia, su utilización con fines de investigación o docencia se realizará de conformidad con lo dispuesto por este Reglamento y las normas técnicas correspondientes; si la utilización es con fines de transplante, se estará además a lo dispuesto por el artículo 325 de la Ley y se requerirá solicitud por escrito de la institución o banco de órganos y tejidos interesado, así como informar a la autoridad sanitaria.
 
 ###### ARTICULO 62.
 
@@ -835,7 +959,7 @@ Las instituciones educativas serán responsables del uso adecuado y ético de lo
 
 La Secretaría expedirá, previo el cumplimiento de los requisitos correspondientes, las licencias, permisos y tarjetas de control sanitarios a que se refiere el presente Reglamento.
 
-> <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
+> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
 
 ###### ARTICULO 90.
 
@@ -843,11 +967,15 @@ Requieren de Licencia Sanitaria:
 
 I.- Los establecimientos médicos públicos, sociales y privados, que realicen trasplantes;
 
-II.- Los bancos de órganos y tejidos y los de sangre y plasma;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+II.- Los bancos de órganos y tejidos, los de sangre y los de plasma;
 
 III.- Los servicios de transfusión;
 
-IV.- Los establecimientos dedicados a la obtención, manejo y suministro de productos o derivados de la sangre;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+IV.- Los establecimientos dedicados a la obtención, manejo y suministro de productos del cuerpo humano;
 
 V.- Las instituciones educativas que dispongan de cadáveres para fines de investigación o docencia, y
 
@@ -861,7 +989,9 @@ Los establecimientos a que se refiere la fracción I del artículo anterior, ade
 
 Los establecimientos mencionados en la fracción I del artículo 90 de este Reglamento deberán reunir los siguientes requisitos:
 
-I.- Además de realizar actividades de atención médica, tener especialidad en la materia de transplantes;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+I.- Además de realizar actividades de atención médica, contar con la especialidad médica o quirúrgica correlativa a los transplantes a realizar;
 
 II.- Contar con un laboratorio de patología clínica y de anatomía patológica;
 
@@ -871,15 +1001,19 @@ IV.- Tener sala de recuperación y unidad de cuidados intensivos;
 
 V.- Tener personal médico especializado en el tipo de intervención a realizar y personal médico de apoyo con experiencia en el área;
 
-> <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
+> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
 
 VI.- Contar con medicamentos, equipo e instrumental médico quirúrgico adecuados, y
 
-VII.- Los demás que señale este Reglamento.
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+VII.- Los demás que señale este Reglamento y las normas técnicas que emita la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 93.
 
-Los bancos de órganos y tejidos y los de sangre y plasma, así como los servicios de transfusión mencionados en las fracciones II y III del artículo 90 de este Reglamento, deberán reunir los siguientes requisitos:
+Los bancos de órganos y tejidos, los de sangre y los de plasma, así como los servicios de transfusión mencionados en las fracciones II y III del artículo 90 de este Reglamento, deberán reunir los siguientes requisitos:
 
 I.- Por lo que hace al personal:
 
@@ -905,15 +1039,19 @@ E).- Instalaciones sanitarias adecuadas.
 
 IV.- En el caso de los bancos de sangre y plasma, así como de los servicios de transfusión deberán contar con los servicios a que se refiere el artículo 40 de este Reglamento, y
 
-V.- Los demás que señale este Reglamento.
+> <small>(REFORMADA, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
-Estos establecimientos podrán contar además con sección de fraccionamiento de la sangre.
+V.- Los demás que señale este Reglamento y las normas técnicas que expida la Secretaría.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 94.
 
 Los establecimientos señalados en la fracción IV del artículo 90 deberán reunir los siguientes requisitos:
 
-I.- Contar con un personal capacitado para el manejo y suministro de productos o derivados;
+> <small>(REFORMADA, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+
+I.- Contar con un personal capacitado para el manejo y suministro de productos del cuerpo humano;
 
 II.- Contar con equipo e instrumental adecuados;
 
@@ -921,7 +1059,9 @@ III.- Contar con instalaciones sanitarias adecuadas;
 
 IV.- Contar con un profesional responsable del servicio, y
 
-V.- Los demás que señale este Reglamento.
+> <small>(REFORMADA, D. O. 26 DE NOVIEMBRE DE 1987)</small>
+
+V.- Los demás que señale este Reglamento y las normas técnicas.
 
 ###### ARTICULO 95.
 
@@ -941,13 +1081,17 @@ V.- Los demás que señale este Reglamento.
 
 Los vehículos mencionados en la fracción VI del artículo 90 de este Reglamento, deberán reunir los siguientes requisitos:
 
-I.- Que su uso sea exclusivo para el traslado de cadáveres;
+> <small>(REFORMADA, D.O.F 26 DE NOVIEMBRE DE 1987)</small>
+
+I.- Que su uso sea exclusivo para el traslado de cadáveres o sus partes;
 
 II.- Estar premanentemente (sic) aseados y desinfectados;
 
 III.- Contar con un compartimiento en donde se deposite el cadáver o parte de él, el cual deberá estar totalmente aislado del resto del vehículo y cerrado al exterior y, en caso de tener ventanas, éstas tendrán vidrio opaco, y
 
-IV.- Los demás que señalen este Reglamento.
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+IV.- Los demás que señalen este Reglamento y las normas técnicas que emita la Secretaría.
 
 ###### ARTICULO 97.
 
@@ -967,13 +1111,21 @@ Las licencias podrán ser revisadas por la Secretaría en cualquier momento.
 
 Requieren permiso sanitario:
 
-I.- Los responsables de los establecimientos e instituciones que realicen actos de disposición de órganos, tejidos y sus derivados, productos y cadáveres;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
-II.- La internación en el territorio nacional, de órganos, tejidos, cadáveres de seres humanos;
+I.- Los responsables de los establecimientos e instituciones que realicen actos de disposición de órganos, tejidos y sus componentes y derivados, productos y cadáveres;
 
-III.- La exportación de hemoderivados;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
-IV.- El traslado de cadáveres o de restos áridos de una Entidad Federativa a otra o al Extranjero;
+II.- La internación o salida del territorio nacional, de órganos, tejidos, cadáveres y restos áridos de seres humanos;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+III.- La internación o salida del territorio nacional de la sangre, sus componentes y derivados;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+IV.- El traslado de cadáveres y restos áridos de una Entidad Federativa a otra;
 
 V.- El embalsamamiento;
 
@@ -981,7 +1133,7 @@ VI.- La inhumación o cremación de cadáveres durante las primeras doce horas p
 
 VII.- La exhumación antes de los plazos establecidos en el artículo 67 de este Reglamento;
 
-VIII.- Los proveedores autorizados de sangre y de plasma;
+VIII.- (DEROGADA, D.O.F. 26 DE NOVIEMBRE DE 1987)
 
 IX.- La obtención, conservación, utilización, preparación, suministro y exportación o importación de productos de seres humanos para la realización de procedimientos industriales;
 
@@ -1011,7 +1163,7 @@ C).- Información sobre el receptor de los órganos o tejidos, en su caso, o del
 
 II.- En el caso de cadáveres:
 
-> <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
+> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
 
 A).- Presentación del certificado y acta de a defunción y comprobante de embalsamiento, traducidos al español, en su caso, certificados por las autoridades consulares mexicanas;
 
@@ -1019,15 +1171,25 @@ B).- Presentación del permiso de traslado internacional otorgado por la autorid
 
 C).- Los demás que fijen los Tratados y Convenciones Internacionales y demás disposiciones aplicables.
 
-III.- En el caso de hemoderivados:
+> <small>(REFORMADA, D. O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+III.- En el caso de restos áridos:
 
 A).- Certificación de la autoridad sanitaria del país de origen traducida, en su caso, al español, certificada por la autoridad consular mexicana, sobre las condiciones y características de los hemoderivados, y
 
 B).- Documentación constitutiva de la institución educativa o establecimiento de atención médica que realice la internación e información de la que vaya a utilizar los hemoderivados.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 103.
 
-La Secretaría concederá el permiso a que se refiere la fracción III del artículo 100 de este Reglamento, únicamente cuando los requerimientos de hemoderivados en el país estén satisfechos.
+La Secretaría concederá el permiso de internación o salida a que se refiere la fracción III del artículo 100 siempre que se reúnan los siguientes requisitos:
+
+I.- Certificación de la autoridad sanitaria del país de origen traducida, en su caso, al español, certificada por la autoridad consular mexicana, sobre las condiciones y características de la sangre, sus componentes o derivados.
+
+II.- Documentación constitutiva de la institución educativa o establecimiento de atención médica que realice la internación, e información de la que vaya a utilizar la sangre, sus componentes o derivados.
+
+La salida del territorio nacional de los derivados de la sangre será autorizada por la Secretaría únicamente cuando los requerimientos de estos productos en el país estén satisfechos, salvo casos de emergencia que calificará la Secretaría.
 
 ###### ARTICULO 104.
 
@@ -1049,7 +1211,9 @@ A).- Comprobante de inhumación;
 
 B).- Información sobre la vía aérea, marítima o terrestre que se utilizará, y
 
-C).- Destino de los restos áridos.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
+C).- Especificación del destino de los restos áridos.
 
 ###### ARTICULO 105.
 
@@ -1103,15 +1267,7 @@ No se expedirá el permiso a que se refiere el artículo anterior, cuando la exh
 
 ###### ARTICULO 112.
 
-Para obtener el permiso sanitario mencionado en la fracción VIII del artículo 100 de este Reglamento, el interesado deberá:
-
-I.- Manifestar por escrito su aceptación voluntaria para ser proveedor y acatar las disposiciones del presente Reglamento e instructivos sobre la materia;
-
-Il.- Ser mayor de l8 años de edad y menor de 55.
-
-III.- Pesar más de 55 Kgrs., y
-
-IV.- Obtener resultados satisfactorios del examen medico y de laboratorio que la Secretaría le practique.
+(DEROGADO, D.O.F. 26 DE NOVIEMBRE DE 1987)
 
 > <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
 
@@ -1153,9 +1309,11 @@ IV.- Cuando las modificaciones sean para mejorar la organización.
 
 En los anteriores casos bastará con dar aviso a la Secretaría dentro de los quince días siguientes a la fecha en que sucedan. La inobservancia del aviso hará incurrir al titular de la autorización, en la causal prevista en la fracción IV del artículo 122 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 119.
 
-El permiso sanitario a que alude la fracción I del artículo l00 de este Reglamento, se otorgará por un tiempo mínimo de dos años. El permiso mencionado en la fracción VIII del artículo l00 citado, tendrá una vigencia anual. En ambos casos, la vigencia se iniciará a partir de la fecha de la expedición del permiso.
+El permiso sanitario a que alude la fracción I del artículo 100 de este Reglamento, se otorgará por un tiempo mínimo de dos años. La vigencia se iniciará a partir de la fecha de expedición del permiso.
 
 El término del permiso a que se refiere la fracción I del artículo 100 mencionado, podrá prorrogarse por un tiempo igual al de su vigencia, siempre que se siga cumpliendo con los requisitos señalados en la Ley, en este Reglamento y en las demás disposiciones aplicables. La solicitud correspondiente deberá presentarse ante la Secretaría con un mínimo de treinta días de anticipación a la fecha del vencimiento del permiso.
 
@@ -1195,17 +1353,21 @@ IX. Cuando lo solicite el interesado, y
 
 X.- En los demás casos que determine la Secretaría, en los términos de la Ley y de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 123.
 
-La suspensión definitiva de servicios de los bancos de órganos y tejidos, dejará sin materia las autorizaciones concedidas y causarán la revocación de las mismas.
+Cuando los bancos de órganos, tejidos y sus componentes dejen de prestar en forma definitiva sus servicios, se dejará sin materia las autorizaciones concedidas y causará la revocación de las mismas.
 
-En estos casos, se deberá notificar a la Secretaría dentro de los diez días hábiles siguientes a la suspensión, adjuntándose las autorizaciones respectivas.
+En estos casos, se deberá notificar a la Secretaría dentro de los diez días hábiles siguientes a la fecha en que se deje de prestar en forma definitiva los servicios, adjuntándose las autorizaciones respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 124.
 
-La suspensión temporal de servicios de los bancos de órganos y tejidos, deberá notificarse a la Secretaría dentro de los cinco días hábiles siguientes al en que suceda, informando los motivos de la suspensión y su duración.
+Cuando los bancos de órganos, tejidos y sus componentes suspendan temporalmente sus servicios deberán notificarlo a la Secretaría dentro de los cinco días hábiles siguientes al en que suceda, informando los motivos de la suspensión y duración.
 
-> <small>(F. DE E., D. O. 9 DE JULIO DE 1985)</small>
+> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
 
 La suspensión mayor de sesenta días naturales se considerará como definitiva; no obstante, la Secretaría podrá conceder un plazo mayor cuando existan causas que, a su juicio, lo justifique.
 
@@ -1294,3 +1456,9 @@ Los actos y procedimientos administrativos relacionados con la materia de este R
 Se abrogan el Reglamento Federal Para la Disposición de Organos, Tejidos y Cadáveres de Seres Humanos, de dieciséis de agosto de mil novecientos setenta y seis, publicado en el Diario Oficial de la Federación el veinticinco de octubre del mismo año; el Reglamento de Bancos de Sangre, Servicios de Transfusión y Derivados de la Sangre, de cuatro de octubre de mil novecientos sesenta y uno, publicado en el Diario Oficial de la Federación el ocho de noviembre del mismo año y el Reglamento Federal de Cementerios, Inhumaciones, Exhumaciones, Conservación y Traslación de Cadáveres de veintiocho de febrero de mil novecientos veintiocho, publicado en el Diario Oficial de la Federación el doce de marzo del mismo año. Asimismo, se derogan las demás disposiciones administrativas que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de febrero de mil novecientos ochenta y cinco.-Miguel de la Madrid H.-Rúbrica.-El Secretario de Salud, Guillermo Soberón Acevedo.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 26 DE NOVIEMBRE DE 1987.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
