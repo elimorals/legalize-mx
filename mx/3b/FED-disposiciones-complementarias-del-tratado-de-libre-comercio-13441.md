@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-06-15"
+last_updated: "2000-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,23 +18,15 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINAN LAS MERCANCIAS COMPRENDIDAS EN LAS FRACCIONES Y CON LAS TASAS ARANCELARIAS QUE SE INDICAN
+DECRETO POR EL QUE SE CREAN Y MODIFICAN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DEL IMPUESTO GENERAL DE IMPORTACION Y SE REFORMA EL APENDICE DEL DIVERSO QUE ESTABLECE LA TASA APLICABLE PARA 2000 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, COLOMBIA, VENEZUELA, COSTA RICA, BOLIVIA, CHILE Y NICARAGUA, PUBLICADO EL 31 DE DICIEMBRE DE 1999
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federacion, el jueves 15 de junio de 2000.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de julio de 2000.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracción X de la Ley de Comercio Exterior; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y 8 del Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, y
+ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 4o. fracción I y 14 de la Ley de Comercio Exterior, he tenido a bien expedir el siguiente
 
-CONSIDERANDO
-
-Que el Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, dispone en su artículo 8 que se aplicará la tasa prevista en el apéndice a ese Decreto, a las mercancías identificadas con el código “S”, siempre y cuando no se rebase el cupo mínimo de importación especificado para cada fracción en la lista de México, contenida en el anexo 302.2 del Tratado de Libre Comercio de América del Norte;
-
-Que conforme a los registros estadísticos de las autoridades aduaneras, la importación de algunas mercancías originarias de Canadá, comprendidas en el anexo 302.2 del Tratado de Libre Comercio de América del Norte, ha rebasado el volumen total de importación de cupo mínimo fijado en dicho Tratado, y
-
-Que para el efecto de que el arancel preferencial aplicable sea el listado en el artículo 8 del referido Decreto, corresponde a la Secretaría de Comercio y Fomento Industrial publicar en el Diario Oficial de la Federación que se ha rebasado el cupo mínimo; por lo que he tenido a bien expedir el siguiente:
-
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINAN LAS MERCANCIAS COMPRENDIDAS EN LAS FRACCIONES Y CON LAS TASAS ARANCELARIAS QUE SE INDICAN
+DECRETO
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -336,8 +328,20 @@ II.- Para propósitos de determinar el carácter esencial de un bien de conformi
 
 Para propósitos de la aplicación del artículo cuarto, sólo los materiales nacionales y extranjeros que estén clasificados en las disposiciones arancelarias a partir de las cuales no está permitido el cambio arancelario en la regla dispuesta para el bien en el Anexo de Reglas Específicas, se tomarán en consideración al determinar las partes o materiales que confieren el carácter esencial del bien.
 
+###### ARTÍCULO 1.
+
+Se crean y modifican diversos aranceles de la Tarifa de la Ley del Impuesto General de Importación, en los términos siguientes:
+
+(VEASE ARCHIVO ANEXO)
+
+###### ARTÍCULO 2.
+
+Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, únicamente las fracciones arancelarias siguientes:
+
+(VEASE ARCHIVO ANEXO)
+
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo tendrá vigencia a partir del día siguiente al de su publicación en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2000.
+ÚNICO.- El presente Decreto estará en vigor a partir del día siguiente de su publicación.
 
-México, D.F., a 18 de mayo de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
