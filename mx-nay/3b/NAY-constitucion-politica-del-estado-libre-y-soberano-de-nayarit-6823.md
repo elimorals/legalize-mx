@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1981-12-26"
+last_updated: "1982-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -355,17 +355,17 @@ El Congreso del Estado se renovará cada tres años contados desde el 18 de Agos
 
 La Legislatura del Estado celebrará anualmente dos Períodos de Sesiones Ordinarias: Uno que contará desde el 18 de Agosto hasta el día 17 de Noviembre y otro que comenzará el 18 de Febrero terminando el 17 de Mayo. Cada uno de estos períodos podrá prorrogarse hasta por un mes si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes de los ciudadanos Diputados.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
 
 ###### Art. 37.
 
-Durante el periodo ordinario de sesiones de cada año, de toda preferencia la Legislatura se ocupará del examen y votación de los Presupuestos del Estado, y a decretar las contribuciones para cubrirlos.
+Durante el Primer Periodo Ordinario de Sesiones de cada año, la Legislatura se ocupará preferentemente del examen y votación de las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios para el año siguiente, decretando las contribuciones para cubrirlos.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1982)</small>
 
 ###### Art. 38.
 
-En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros treinta días de este Periodo y se decretarán los Presupuestos de Ingresos y Egresos Municipales para el año siguiente.
+En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros 30 días de este Periodo.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
@@ -1465,7 +1465,7 @@ P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940.
+P.O. 27 DE NOVIEMBRE DE 1940
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1634,3 +1634,9 @@ P.O. 26 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Organo del Estado.
+
+P.O. 9 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
