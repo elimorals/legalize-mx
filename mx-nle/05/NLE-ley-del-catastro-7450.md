@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1995-12-29"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -87,25 +87,31 @@ e).- Las personas o instituciones privadas cuya colaboración se requiera.
 
 La Junta Central Catastral se integrará por tres representantes oficiales que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente, Secretario y Vocal, un representante de la Cámara de Propietarios de Bienes Raíces en el Estado, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C., y un representante por parte del Municipio que corresponda, con el carácter de vocales. Se nombrarán suplentes para los integrantes de la Junta Central Catastral, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
 
-En las sesiones donde se revisen y aprueben nuevos valores unitarios de construcción aplicables a cada zona catastral, el representante del Municipio se elegirá por mayoría de votos de entre los representantes de los Municipios de cada zona catastral.
+> <small>(DEROGADO SEGUNDO PARRAFO, P. O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Central Catastral, tendrá el carácter de permanente y auxiliará en la Dirección de Catastro en la formulación de los proyectos de bases generales de valores por unidades tipo.
+La Junta Central Catastral, tendrá el carácter de permanente y se encargará de fijar los criterios generales aplicables en el Estado y de revisar los valores que determine la Junta Municipal Catastral en los que exista desacuerdo de los particulares, siendo auxiliada al efecto por la Dirección de Catastro.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+La Dirección de Catastro formulará los proyectos de Bases Generales de Valores por Unidades Tipo, mismos que serán revisados y aprobados en las sesiones de las Juntas Municipales Catastrales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 6o.
 
-Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado, quienes tendrán el carácter de Presidente, Secretario y Vocal; por dos representantes de la Cámara de Propietarios o de otra Asociación de Propietarios en los lugares en donde la Cámara no tenga Delegación, y un representante por parte del Municipio que corresponda, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Secretaria de Finanzas y Tesorería General del Estado o las Delegaciones de Finanzas Estatales harán las designaciones de los representantes de los particulares para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios, de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los de los particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
+Las Juntas Municipales Catastrales se integrarán por tres representantes oficiales, que designará el Tesorero Municipal, quienes tendrán el carácter de Presidente, Secretario y Vocal; por un representante de la Cámara de Propietarios de Bienes Raíces en el Estado o de otra Asociación de Propietarios en los lugares en donde dicha Cámara no tenga Delegación, un representante del Instituto Mexicano de Valuación de Nuevo León, A. C. y un representante de la Secretaría de Finanzas y Tesorería General del Estado, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería Municipal hará las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los los (SIC) particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+En las sesiones de estas Juntas se revisarán los valores que proponga la Dirección de Catastro y aprobarán los nuevos valores unitarios de construcción aplicables a la circunscripción territorial de su Municipio, los que podrán equiparse a los de aquellos Municipios que integran la zona catastral correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 7o.
 
-Las Juntas Municipales Catastrales tendrán función auxiliar a la Dirección de Catastro en la formulación de Bases Generales de Valores por Unidades Tipo.
+Es facultad de las Juntas Municipales Catastrales la revisión y aprobación de las Bases Generales de Valores por Unidades Tipo y de los valores unitarios de construcción.
+
+En los Municipios en donde no exista la integración de las Juntas Municipales, será la Junta Central la que realizará las funciones señaladas en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -155,9 +161,9 @@ En las zonas urbanas, y suburbanas la unidad de superficie que se tome para el a
 
 Para determinar las Bases Generales de Valores por Unidades Tipo en las diferentes clases de construcciones, se seguirán las normas que a continuación se expresan: I.- Se harán clasificaciones por tipos de edificaciones permanentes y provisionales según los materiales empleados, calidad de mano de obra, usos comercial, industrial, residencial y especiales, así como la productividad media por año en cada región catastral; y, II.- Se fijará el valor por metro cuadrado o cúbico de superficie cubierta, en la forma que el Reglamento de esta Ley lo determine.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Para efecto de determinar las Bases Generales de Valores por Unidades Tipo aplicables a la construcción, el Estado se dividirá en 5 Zonas Catastrales, en las cuales los valores consignados en las Bases Generales serán los mismos para todos los municipios que se encuentren comprendidos en la zona respectiva.
+Para efecto de determinar las Bases Generales de Valores por Unidades Tipo aplicables a la construcción, el Estado se dividirá en 5 Zonas Catastrales, en las cuales los valores consignados en las Bases Generales, podrán equiparse para todos los Municipios que se encuentren comprendidos en la Zona respectiva.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -167,7 +173,7 @@ I.- ZONA 1, que comprende los municipios de Apodaca, General Escobedo, Guadalupe
 
 II.- ZONA 2, que comprende los municipios de Allende, Anáhuac, Cadereyta Jiménez, García, General Terán, Juárez, Linares, Montemorelos, Sabinas Hidalgo y Santiago.
 
-III.- ZONA 3, que comprende los municipios de Cerralvo, China, Ciénega de Flores, General Bravo, General Zuazua, Hidalgo , Hualahuises, Pesquería y Salinas Victoria.
+III.- ZONA 3, que comprende los municipios de Cerralvo, China, Ciénega de Flores, General Bravo, General Zuazua, Hidalgo, Hualahuises, Pesquería y Salinas Victoria.
 
 IV.- ZONA 4, que comprende los municipios de Abasolo, Agualeguas, Bustamante, Carmen, Doctor Coss, Doctor González, General Treviño, Los Aldamas, Los Herreras, Los Ramones, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Vallecillo y Villaldama.
 
@@ -219,11 +225,11 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 Los valores de los predios a los que ya se hubiese determinado un valor catastral, podrán ser actualizados cuando en el predio se hagan construcciones, reconstrucciones, ampliaciones o mejoras, o se modifique el uso del suelo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 23o.
 
-Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro auxiliada por la Junta Central Catastral, fijará, en base al tipo de fraccionamiento, a su ubicación e infraestructura, el valor por unidad tipo (metros cuadrados), que servirá para el cálculo del valor catastral.
+Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro formulará y propondrá, en base al tipo de fraccionamiento, a su ubicación o infraestructura, el valor por unidad tipo en metros cuadrados, mismo que será revisado y aprobado por la Junta Municipal Catastral que corresponda o la Junta Central según sea el caso y que servirá para el cálculo del valor catastral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -241,7 +247,7 @@ Se faculta a la Dirección de Catastro para, con el auxilio de la Junta Central 
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 26o.
 
@@ -305,6 +311,12 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
+###### ARTICULO 26.
+
+Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para la determinación del Impuesto Predial en el Estado y no podrán ser modificados para los mismos fines, a menos que se pruebe que su determinación no se hizo conforme a lo previsto en los citados ordenamientos. A falta de manifestación oportuna de los contribuyentes, la Dirección de Catastro procederá a formular los avalúos, sin perjuicio de la sanción que procediere y en caso de que no exista valor autorizado de dicho sector, tales valores serán revisados y aprobados por la Junta Municipal Catastral que corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 31.
 
 Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o no sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
@@ -315,11 +327,13 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones, avisos, solicitudes, planos, o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, solicitudes, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando le sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de $75.00 a $150.00. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre $45.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V, se les aplicará una multa de 3.5 a 6.5 cuotas. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre 3 cuotas o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+
+Para efectos del presente artículo al hacer referencia a cuota, se entenderá por ésta, el equivalente a un salario mínimo general diario vigente en la zona geográfica del Municipio de que se trate.
 
 T R A N S I T O R I O S :
 
@@ -418,6 +432,12 @@ En los términos previstos por los artículos 20 y 21 de la Ley del Catastro del
 ###### ARTICULO 17o.
 
 En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1996 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina de hasta un 30% respecto de los terrenos y en las construcciones de un 20%. En el resto de los Municipios del Estado, se aplicará un incremento de hasta el 20% y del 10%, en terrenos y construcciones, respectivamente. En ningún caso los valores catastrales podrán rebasar los valores reales de los inmuebles.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 18o.
+
+En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año de 1997 se aplicará un incremento en las Bases Generales de Valores por Unidades Tipo y en los valores catastrales de los predios ubicados en el Estado, de hasta un 5% respecto de los terrenos y en las construcciones de un 10%. En ningún caso los valores catastrales podrán rebasar los valores reales de los inmuebles.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -580,3 +600,7 @@ P.O. 29 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+UNICO:- El presente decreto entrará en vigor el 1º de Enero de 1997.
