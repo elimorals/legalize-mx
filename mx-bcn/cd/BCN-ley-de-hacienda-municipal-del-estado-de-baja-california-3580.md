@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1994-03-11"
+last_updated: "1995-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -710,6 +710,10 @@ El valor del inmueble que resulte de actualizar el precio pactado por el factor 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)</small>
 
 En todo caso, se aplicará una deducción equivalente a un salario mínimo general elevado al año, que rija en el Estado en el momento en que se realice el acto generador.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1995)</small>
+
+El valor del inmueble podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará la deducción a que se refiere el párrafo anterior.
 
 Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -2202,3 +2206,9 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Las Asociaciones Religiosas constituídas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de Inmuebles y Transmisión de Dominio, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
+
+P.O. 13 DE ENERO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
