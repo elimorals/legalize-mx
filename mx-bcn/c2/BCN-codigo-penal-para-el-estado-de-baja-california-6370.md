@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2004-06-18"
+last_updated: "2004-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2153,11 +2153,17 @@ Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u o
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2003)</small>
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 298, PUBLICADO EN EL P.O. 16 DE JULIO DE 2004, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2004)</small>
 
 ###### Artículo 242
 
-BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la fuerza física o moral, así como la omisión grave de cumplir con un deber, en contra de su cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa-habitación, y que con ello quebrante el respeto, la dignidad, tranquilidad, seguridad y concordia familiar, imposibilitando o haciendo intolerable la convivencia familiar o les provoque trastornos psicoemocionales, se le impondrá de seis meses a seis años de prisión, multa por veinticuatro a trescientos días; y la privación del ejercicio de la patria potestad; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
+BIS.- Tipo y punibilidad.- Al que ejerza dolosamente de manera reiterada la violencia física o moral, o incurra en la omisión grave de cumplir con un deber, en contra de su cónyuge, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, adoptante o adoptado, se le impondrá de seis meses a seis años de prisión y multa de veinticuatro a trescientos días, y en su caso, la suspensión o pérdida del ejercicio de la patria potestad atendiendo a la gravedad de la conducta a juicio del juzgador; sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2004)</small>
+
+Las mismas penas se aplicarán al que realice cualquiera de las conductas a que se refiere este precepto, en contra de su concubina o concubino, pariente colateral o afín hasta el cuarto grado, y que habiten en la misma casa.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -2169,21 +2175,17 @@ b) Otorgar caución de no ofender.
 
 c) Sujeción a tratamiento psicológico especializado.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2004)</small>
 
-Hay violencia cuando se emplea fuerza física, amenazas u omisión grave, que importen peligro de perder la vida, la honra, la libertad, la salud física o mental.
+Para efectos de este delito, la violencia física o moral se ejerce cuando el sujeto activo ejecute actos materiales o verbales en contra de la integridad física, psíquica o ambas, de alguno de los miembros de la familia a que se refiere este Artículo.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2004)</small>
 
-Se quebranta el respeto, la dignidad, tranquilidad, seguridad y concordia familiar con los actos u omisiones que realice un miembro de la familia ejerciendo de manera reiterada la fuerza física o amenazas, así como la omisión grave, en contra de otro miembro de la misma, y que conforme a la educación, cultura, posición socio-económica en que se desenvuelve la familia imposibilite o haga intolerable la convivencia familiar.
+La manera reiterada en la conducta de este delito, se entenderá cuando el sujeto activo haya incurrido, dentro del período de seis meses, en la comisión de dos o más actos de violencia física o moral u omisión grave de cumplir con un deber, en contra de algún miembro de la familia y que de ello se registren antecedentes penales, policiales o en la Procuraduría para la Defensa del Menor y la Familia o demás instituciones públicas encargadas de atender asuntos en materia de menores o la familia.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2004)</small>
 
-Para los efectos de este delito, se entenderá por manera reiterada, la conducta de aquel sujeto que registre antecedentes penales o policiales por la comisión de dos o más actos de violencia física o psicológica en contra de algún miembro de la familia que habite en la misma casa.
-
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2003)</small>
-
-Este delito se perseguirá de oficio.
+Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso la denuncia correspondiente también podrá ser presentada por cualquiera de las instituciones públicas encargadas de atender asuntos en materia de menores o la familia.
 
 ###### Artículo 225.
 
@@ -3782,3 +3784,7 @@ P.O. 28 DE MAYO DE 2004.
 P.O. 18 DE JUNIO DE 2004.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2004.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
