@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1984-02-09"
+last_updated: "1986-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 1986.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -471,11 +471,11 @@ Tomando en cuenta las circunstancias del delito y las propias del delincuente y 
 
 ### CAPITULO XII. DECOMISO Y APLICACION DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 60.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito se decomisarán al reo según el criterio del Juez, sólo cuando aquél fuere sancionado por delito doloso, con excepción de las armas y de los bienes obtenidos por enriquecimiento ilícito que serán decomisados en todo caso. Tratándose de armas se les dará el destino dispuesto por la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, o en los ordenamientos que resulten aplicables.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito se decomisarán al reo según el criterio del Juez, sólo cuando aquél fuere sancionado por delito doloso, con excepción de las armas, los inmuebles utilizados en los casos previstos por los artículos 285 y 286 de este Código y de los bienes obtenidos por enriquecimiento ilícito que serán decomisados en todo caso. Tratándose de armas se les dará el destino dispuesto por la Ley Federal de Armas de Fuego y Explosivos y su Reglamento, o en los ordenamientos que resulten aplicables.
 
 Si dichos objetos pertenecen a otra persona, no se decomisarán conforme a las prevenciones de este artículo, cuando hayan sido empleados sin conocimiento de su dueño.
 
@@ -765,17 +765,21 @@ Las demás sanciones prescribirán en un término igual al de su duración y las
 
 Comete el delito de homicidio el que priva de la vida a otro.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 109.
 
-Al responsable de homicidio doloso que, no tenga señalada una sanción especial en este Código, se le impondrán de seis a quince años de prisión y multa hasta de veinte mil pesos.
+Al responsable de homicidio doloso que no tenga señalada una sanción especial en este Código se le impondrán de ocho a quince años de prisión y multa hasta de cien mil pesos.
 
 ###### ARTICULO 110.
 
 Al responsable de homicidio calificado, se le impondrán de quince a treinta años de prisión y multa hasta de cuarenta mil pesos.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 111.
 
-Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quien o quienes son los homicidas, a todos se les impondrán de cuatro a diez años de prisión si el delito fuere simple, pero si se tratare de un homicidio calificado, la sanción será de seis a veinte años de prisión y multa en ambos casos hasta de treinta mil pesos.
+Cuando en la comisión de un homicidio intervengan dos o más sujetos y no constare quien o quienes son los homicidas, a todos se les impondrán de siete a doce años de prisión si el delito fuere simple, pero si se tratara de un homicidio calificado, la sanción será de diez a veinticinco años de prisión y multa en ambos casos hasta de cien mil pesos.
 
 ###### ARTICULO 112.
 
@@ -981,6 +985,8 @@ V.-Cuando se produzca por tres o más agentes.
 
 ### CAPITULO V. ASALTO
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 143.
 
 Al que sustraiga o retenga a una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo sexual o para casarse, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
@@ -1003,9 +1009,11 @@ No se procederá contra el raptor, si no por queja de la persona ofendida o de s
 
 ###### ARTICULO 147.
 
-Al que en lugar desprotegido haga uso de la violencia física o moral sobre una persona, con el propósito de causar un mal, obtener un lucro o de lograr su asentimiento para cualquier fin, se le sancionará con prisión de uno a seis años y multa hasta de veinte mil pesos.
+Al que haga uso de la violencia física o moral sobre una persona con el propósito de causar un mal, obtener un lucro o de lograr su asentimiento para cualquier fin, se le sancionará con prisión de seis a diez años y multa hasta de cien mil pesos.
 
-A quienes asalten un poblado, se les sancionará con prisión de diez a treinta años y multa hasta de cincuenta mil pesos.
+Si la conducta determinada en el párrafo precedente tiene lugar en cualquier vía de comunicación, vecinal o carretero, se sancionará con prisión de ocho a doce años de prisión y multa hasta de doscientos mil pesos.
+
+A quienes asalten un poblado se les sancionará con prisión de diez a treinta años y multa hasta de doscientos mil pesos.
 
 ### CAPITULO VII. ATAQUES A LA LIBERTAD DE REUNION Y DE
 
@@ -1121,6 +1129,8 @@ II.-Si el hecho imputado está declarado cierto por sentencia firme y al acusado
 
 ### CAPITULO I. ROBO
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 164.
 
 Al que impute a otro un hecho determinado, que la ley califique como delito, si este hecho es falso, se le impondrán de seis meses a cinco años de prisión y multa hasta de seis mil pesos.
@@ -1134,6 +1144,8 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia ni se lib
 Cuando esté pendiente el proceso que se instruya por el delito imputado, se suspenderá el ejercicio de la acción de calumnia hasta que se dicte resolución irrevocable que ponga fin a dicho proceso.
 
 ### CAPITULO II. ABIGEATO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 167.
 
@@ -1161,91 +1173,127 @@ Siempre que sea condenado el responsable de un delito de difamación o calumnia,
 
 No servirá de excusa en la difamación o en la calumnia, que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en el Estado, en la República o en otro país.
 
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ## TITULO VI. DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ### CAPITULO III. ABUSO DE CONFIANZA
 
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 173.
 
-Al que se apodere de una cosa total o parcialmente ajena, mueble, sin consentimiento de quien pueda disponer de la misma conforme a la ley, con ánimo de dominio, lucro o uso, se sancionará de la siguiente manera:
+Al que se apodere de una cosa total o parcialmente ajena, mueble, sin consentimiento de quien pueda disponer de la misma conforme a la Ley, con ánimo de dominio, lucro o uso, se sancionará de la siguiente manera:
 
-I.- Si el apoderamiento fuere con ánimo de dominio o de lucro y el valor de lo robado no excediere de cincuenta mil pesos, con prisión de tres a siete años y multa hasta diez mil pesos.
+I.- Si el apoderamiento fuere con ánimo de dominio o de lucro, y el valor de lo robado no excediere de cien veces el salario, con prisión de un mes a cinco años y multa hasta de cien veces dicho salario.
 
-Para estimar la cuantía del robo se atenderá únicamente al valor de cambio de lo (sic) cosa robada Si éste no pudiera determinarse o por su naturaleza no fuera posible fijar su valor o cantidad, se aplicará de un mes a cuatro años de prisión y multa hasta de seis mil pesos; y
+Cuando excediere de cien pero no de doscientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de ciento ochenta veces el salario.
 
-II.-Si el apoderamiento de la cosa se realizó con ánimo de uso, se impondrán prisión de un mes a tres años y multa hasta de cinco mil pesos. Además, el responsable pagará al ofendido como reparación del daño, el doble del alquiler o arrendamiento de la cosa usada.
+Cuando excediere de doscientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces el salario.
+
+Para estimar la cuantía del robo se atenderá únicamente al valor de cambio de la cosa robada Si éste no pudiera determinarse o por su naturaleza no fuera posible fijar su valor o cantidad, se aplicará de un mes a cuatro años de prisión y multa hasta de cien veces el salario.
+
+II.-Si el apoderamiento de la cosa se realizó con ánimo de uso, se impondrán prisión de un mes a siete años y multa hasta de cien veces el salario. Además, el responsable pagará al ofendido como reparación del daño, el doble del alquiler o arrendamiento de la cosa usada.
+
+III.-Si el apoderamiento fuere con ánimo de dominio o de lucro de un vehículo automotor, con prisión de seis a diez años y multa hasta de doscientas veces el salario.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 174.
 
-Al que se apodere de una cosa perdida con intención de dominio, lucro o uso, se le impondrán de un mes a cinco años de prisión y multa hasta de seis mil pesos.
+Al que se apodere de una cosa perdida con intención de dominio, lucro o uso, se le impondrán de un mes a cinco años de prisión y multa hasta de cincuenta veces el salario.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 175.
 
 Se equiparan al robo y se sancionará como tal:
 
-I.-La sustracción de una cosa mueble, ejecutada por el dueño, si la cosa se halla en poder de otro a título de prenda o de depósito decretado por una autoridad, o hecho con su intervención o mediante contrato; y
+I.-La sustracción de una cosa mueble, ejecutada por el dueño, si la cosa se halla en poder de otro a título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato; y
 
 II.-El aprovechamiento de energía eléctrica o de algún fluido, sin consentimiento de la persona que legalmente pueda disponer de él.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 176.
 
-Además de las sanciones que correspondan conforme al artículo 173, se aplicarán al responsable de robo de tres meses a cuatro años de prisión, cuando:
+Además de las sanciones que correspondan conforme al artículo 173, se aplicarán al responsable de robo:
 
-I.-Se ejecute con violencia en las personas o en las cosas, o bien se ejerza esta para proporcionarse la fuga o defender lo robado
+I.-De tres a cuatro años de prisión, cuando:
 
-II.-Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias;
+a).-Lo cometa un dependiente o doméstico contra su patrón o alguno de la familia de éste en cualquier parte;
 
-III.-Lo cometa un dependiente o doméstico contra su patrón o alguno de la familia de éste en cualquier parte;
+b).-Lo cometa un huésped, comensal o acompañante de éstos.
 
-IV.-Lo cometa un huésped o comensal o alguno de su familia o de los sirvientes que lo acompañen, en la casa donde recibe hospitalidad, obsequio o agasajo;
+c).-Lo realice el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquier otra persona;
 
-V.-Lo realice el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquier otra persona;
+d).-Lo cometan los dueños o empleados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público y en los bienes de los huéspedes o clientes;
 
-VI.-Lo cometan los dueños o empleados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público y en los bienes de los huéspedes o clientes;
+e).-Lo cometan los obreros, artesanos, aprendices o discípulos en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación oficina, bodega u otros lugares a los que tengan libre entrada con el carácter indicado;
 
-VII.-Lo cometan los obreros, artesanos, aprendices o discípulos en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación, oficina, bodega u otros lugares a los que tengan libre entrada con el carácter indicado;
+f).-Se aprovechen las condiciones de confusión que se produzcan por catástrofe o desorden público; y
 
-VIII.-Se aprovechen las condiciones de confusión que se produzcan por catástrofe o desorden público; y
+g).-Se efectúe por varias personas.
 
-IX.-Se efectúe por varias personas.
+II.-De cinco a diez años de prisión, cuando:
+
+a).-Se ejecute con violencia física o moral en las personas o en las cosas, o bien se ejerza ésta para proporcionarse la fuga o defender lo robado, y
+
+b).-Se cometa en lugar cerrado, habitado o destinado para habitación o sus dependencias, o en establecimientos comerciales o bodegas.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 177.
 
-Se procederá a instancia del ofendido, cuando el robo se cometa por un ascendiente contra su descendiente o por éste contra aquél, entre cónyuges, concubinos, entre adoptante y adoptado o por un padrastro contra su hijastro o viceversa. En caso de parentesco por consanguinidad en línea colateral y por afinidad, sólo se requerirá querella cuando se trate de parientes hasta el tercer grado.
+A quien en el medio rural, robe algún instrumento o máquina de labranza, o alámbre utilizado para cercar o frutos cosechados o por cosechar, se le sancionará de la siguiente manera:
+
+I.-Si el valor de lo robado no excediere de cien veces el salario, con prisión de dos meses a cinco años y multa hasta de cincuenta veces dicho salario; y
+
+II.-Si el valor de lo robado, excediere de cien veces el salario, con prisión de dos a diez años y multa hasta de quinientas veces el salario.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 178.
 
-Se impondrán de dos meses a cinco años de prisión y multa hasta de cinco mil pesos a quien en el medio rural, robe algún instrumento o máquina de labranza, o alambre utilizado para cercar o frutos cosechados o por cosechar, cuyo valor no exceda de cinco mil pesos. Excediendo de esta cantidad, la sanción será de dos a diez años de prisión y multa hasta de veinte mil pesos.
+Las mismas sanciones establecidas en el artículo anterior, se aplicarán al que robe una colmena, las abejas o sus productos.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 179.
 
-Las mismas sanciones establecidas en el artículo anterior se aplicarán al que robe una colmena, las abejas o sus productos.
+Para la aplicación de las sanciones, se tendrá por consumado el robo aún cuando el ladrón abandone la cosa robada o lo desapoderen de ella.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ### CAPITULO IV. FRAUDE
 
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 180.
 
-Para la aplicación de las sanciones, se tendrá por consumado el robo aún cuando el ladrón abandone la cosa robada o lo desapoderen de ella.
+Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, en el medio rural, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán prisión de tres a diez años y multa hasta de doscientas veces el salario.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 181.
 
-Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, en el medio rural, sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán prisión de tres a diez años y multa hasta de cincuenta mil pesos.
+Al que sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquiera ganado producto de abigeato, o comercie en pieles o carnes u otros derivados obtenidos del abigeato, se le impondrán prisión de cuatro a doce años y multa hasta de trescientas veces el salario.
+
+A las autoridades que intervengan en esas operaciones, si no tomaron las mismas medidas, se les impondrán las sanciones que señala el artículo 180.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 182.
 
-Al que sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquiera ganado producto de abigeato, o comercie en pieles o carnes u otros derivados obtenidos del abigeato, se le impondrán prisión de cuatro a doce años y multa hasta de cien mil pesos
+Al que transporte ganado, carne, pieles u otros derivados obtenidos de abigeato, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrán de seis meses a tres años de prisión y multa hasta de cien veces el salario.
 
-A las autoridades que intervengan en esas operaciones, si no tomaron las mismas medidas, se les impondrán las sanciones que señala el artículo 181.
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 183.
 
-Al que transporte ganado, carne, pieles u otros derivados obtenidos de abigeato, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrán de seis meses a tres años de prisión y multa hasta de sesenta mil pesos.
-
-### CAPITULO V. ADMINISTRACION FRAUDULENTA
-
-###### ARTICULO 184.
-
-Se impondrán prisión de seis meses a cuatro años y multa hasta de veinte mil pesos:
+Se impondrán prisión de seis meses a cuatro años y multa hasta de cincuenta veces el salario:
 
 I.-A los que desfiguren o borren las marcas de animales vivos o pieles;
 
@@ -1257,127 +1305,211 @@ IV.-A los que contramarquen o contraseñen animales ajenos en cualquier parte, s
 
 V.-A los que expidan certificados falsos para obtener guías simulando ventas o hagan conducir animales que no sean de su propiedad sin estar debidamente autorizados para ello, o hagan uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros.
 
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO V. ADMINISTRACION FRAUDULENTA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 184.
+
+Al que con ánimo de dominio, lucro o uso, con perjuicio de tercero disponga para si o para otro, de un documento que importe obligación liberación o transmisión de derechos o de cualquier otra cosa mueble, total o parcialmente ajena, de la cual se le haya transferido la posesión derivada, se le impondrán de seis meses a siete años de prisión y multa hasta de doscientas veces el salario.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 185.
-
-Es aplicable al delito de abigeato lo dispuesto en el artículo 177.
-
-###### ARTICULO 186.
-
-Al que con anímo de dominio, lucro o uso, con perjuicio de tercero disponga para sí o para otro, de un documento que importe obligación, liberación o transmisión de derechos o de cualquier otra cosa mueble, total o parcialmente ajena, de la cual se le haya transferido la posesión derivada, se le impondrán de seis meses a siete años de prisión y multa hasta de veinte mil pesos.
-
-### CAPITULO VI. EXTORSION
-
-###### ARTICULO 187.
 
 Se aplicarán las mismas sanciones previstas para el abuso de confianza, al dueño que disponga de una cosa mueble, si no tiene la libre disposición de la misma a virtud de cualquier título legítimo.
 
-### CAPITULO VII. USURA
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
-###### ARTICULO 188.
+###### ARTICULO 186.
 
 El delito de abuso de confianza se perseguirá por querella del ofendido o de sus legítimos representantes.
 
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 187.
+
+Al que engañando a alguien o aprovechándose del error en que éste se encuentra, obtenga alguna cosa total o parcialmente ajena con ánimo de dominio, lucro, o uso, se le sancionará de la siguiente manera:
+
+I.-Si el valor de la cosa no excediere de cien veces el salario, con prisión de uno a cinco años y multa hasta de cien veces dicho salario;
+
+II.-Cuando excediere de cien pero no de doscientas veces el salario, la sanción será de tres a siete años de prisión y multa hasta de ciento ochenta veces el salario, y
+
+III.-Cuando el valor de la cosa excediere de doscientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces el salario.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO VII. USURA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 188.
+
+Al que por cualquier razón tuviere a su cargo la administración o el cuidado de bienes ajenos y perjudicará al titular de éstos, alterando las cuentas o condiciones de los contratos, suponiendo operaciones o gastos o exagerando los que hubiere hecho, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrán de seis meses a seis años y multa hasta de trescientos veces el salario.
+
+Cuando el monto del perjuicio que se cause sea superior a quinientas veces el salario, la sanción será de cuatro a diez años de prisión y multa hasta de quinientas veces dicho salario.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ### CAPITULO VIII. DESPOJO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 189.
 
-Al que engañando a alguien o aprovechándose del error en que éste se encuentra, obtenga alguna cosa total o parcialmente ajena con anímo de dominio, lucro o uso, se le impondrán de seis meses a nueve años de prisión y multa hasta de cuarenta mil pesos.
+Al que obligue a otro a hacer, tolerar o dejar de hacer algo contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro, un lucro indebido, se le aplicarán prisión de tres a siete años y multa hasta de cuatrocientas veces el salario.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ### CAPITULO IX. DAÑOS
 
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 190.
 
-Es aplicable al fraude los dispuesto en el artículo 177.
+Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia en una persona, obtenga para sí o para otro un interés evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales, se le impondrán prisión de seis meses a seis años y multa hasta de dos tantos de los intereses devengados en exceso.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
 
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 191.
 
-Al que por cualquier razón tuviere a su cargo la administración o el cuidado de bienes ajenos y perjudicara al titular de éstos, alterando las cuentas o condiciones de los contratos, suponiendo operaciones o gastos o exagerando los que hubiere hecho, ocultando o reteniendo valores o empleándolos indebidamente, se le impondrán prisión de seis meses a seis años y multa hasta de treinta mil pesos.
+Se aplicarán prisión de seis meses a siete años y multa hasta de trescientas veces el salario, al que sin consentimiento de quien tenga derecho a otorgarlo o engañando a éste:
 
-###### ARTICULO 192.
-
-Al que obligue a otro a hacer, tolerar o dejar de hacer algo contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le aplicarán prisión de dos a seis años y multa hasta de cuarenta mil pesos.
-
-###### ARTICULO 193.
-
-Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia en una persona, obtenga para sí o para otro un interés evidentemente desproporcionado con la naturaleza de la operación o de los usos comerciales, se le impondrán prisión de seis meses a tres años y multa hasta de dos tantos de los intereses devengados en exceso.
-
-### CAPITULO I. ABANDONO DE FAMILIARES
-
-###### ARTICULO 194.
-
-Se aplicarán prisión de seis meses a siete años y multa hasta de veinte mil pesos, al que sin consentimiento de quien tenga derecho a otorgarlo o engañando a éste:
-
-I.- Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca.
+I.-Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca;
 
 II.-Ocupe un inmueble de su propiedad, en los casos en que no pueda disponer o usar de él, por hallarse en poder de otra persona por alguna causa legítima o ejerza actos de dominio que lesionen derechos del ocupante;
 
-III.-Al que desviare, derivare o hiciere uso de las aguas propias o ajenas, en los casos en que la ley no lo permita, así como el uso de un derecho real sobre las aguas que no le pertenezcan; y
+III.-Al que desviare, derivare o hiciere uso de las aguas propias o ajenas, en los casos en que la Ley no lo permita, así como el uso de un derecho real sobre las aguas que no le pertenezcan; y
 
 IV.-Al que ejerza actos de dominio que lesionen derechos legítimos del ocupante de dichas aguas.
 
-###### ARTICULO 195.
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 192.
 
 Las sanciones se impondrán aunque el derecho a la posesión sea dudoso o esté en disputa.
 
-Si el despojo se realiza por dos o más personas, además de las sanciones señaladas en e artículo 194 se aplicará a los autores intelectuales o a quienes dirijan invasiones, de uno a seis años de prisión.
+Si el despojo se realiza por dos o más personas, además de las sanciones señaladas en e artículo 191 se aplicará a los autores intelectuales o a quienes dirijan invasiones, de uno a seis años de prisión.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 193.
+
+Cuando la ocupación no se haya ejecutado con violencia y él o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes de que el Ministerio Público deduzca la acción persecutoria, no se impondrá sanción alguna.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO XI. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 194.
+
+Al que por cualquier medio destruya o deteriore una cosa total o parcialmente ajena o propia, en perjuicio de tercero, se le impondrán prisión de tres meses a siete años y multa hasta de cien veces el salario.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 195
+
+La prisión podrá aumentarse hasta diez años y la multa hasta quinientas veces el salario, si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 196.
 
-Cuando la ocupación no se haya ejecutado con violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes de que el Ministerio Público deduzca la acción persecutoria, no se impondrá sanción alguna.
+El delito de daños cometido culposamente sólo se perseguirá a petición del legitimado para hacerlo, más si los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito, se perseguirá de oficio.
 
-### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO I. IMCUMPLIMIENTO DE LA OBLIGACION DE DAR ALIMENTOS Y
+
+ABANDONO DE FAMILIARES
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 197.
 
-Lo dispuesto en el artículo 177 será aplicable en este delito.
+Al que después de la ejecución del delito y sin haber participado en él, con ánimo de dominio, lucro o uso, adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o no tomó las medidas indispensables para cerciorarse de la legítima procedencia, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán:
 
-### CAPITULO III. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
+I.-Si es con ánimo de dominio o uso de seis meses a cuatro años de prisión y multa hasta de cincuenta veces el salario;
+
+II.-Si es con ánimo de lucro con prisión de cuatro a ocho años y multa hasta de doscientas veces el salario; y
+
+III.-Tratándose de un vehículo automotor, o sus partes, o sus accesorios, si es con ánimo de dominio, uso o lucro, de siete a doce años de prisión y multa hasta de trescientas veces el salario.
+
+Se equipara al encubrimiento por receptación, el borrar, modificar o de cualquier forma intervenir, para alterar los números de serie o de motor de un vehículo, o las características de éste, o la documentación con que se ampare o pretendan ampararlo, con fines de dominio, lucro o uso.
+
+> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
 
 ###### ARTICULO 198.
 
-Al que por cualquier medio destruya o deteriore una cosa total o parcialmente ajena o propia, en perjuicio de tercero, se le impondrán prisión de tres meses a siete años y multa hasta de veinte mil pesos.
+Para los efectos de este Título, se entiende por salario, el salario mínimo general que esté vigente en la zona y en el tiempo en que se cometió el delito.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 199.
 
-La prisión podrá aumentarse hasta diez años y la multa hasta cien mil pesos, si el daño recae en bienes de valor científico, artístico, cultural o de utilidad pública.
+Se procederá a instancia del ofendido, cuando, sin darse la violencia física o moral en las personas para la ejecución o fuga, los delitos de robo, abigeato, fraude, administración fraudulenta, despojo o daños, se cometan por un ascendiente contra su descendencia o por éste contra aquél, entre cónyuges, concubinos, entre adoptante y adoptado o por un padrastro contra su hijastro o viceversa. En caso de parentesco por consaguinidad en línea colateral y por afinidad, sólo se requerirá querella cuando se trate de parientes hasta el tercer grado.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 200.
 
-El delito de daños sólo se perseguirá a petición del legitimado para hacerlo, más si los daños se ocasionaren con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, así como cuando aquél se diese a la fuga y no auxiliare a la víctima del delito, se perseguirá de oficio.
+Las sanciones previstas para los delitos de robo, abigeato, fraude, administración fraudulenta, usura, despojo, daños y encubrimiento por receptación, se disminuirán en una tercera parte cuando se repare el daño causado antes de que se dicte sentencia. Lo dispuesto en este artículo no procederá, cuando el responsable sea reincidente o cuando se trate de robo calificado en términos de la fracción II del artículo 176 de este Código, o el delito de que se trate se haya cometido con violencia a las personas, durante su ejecución o fuga.
 
 ## TITULO VII. DELITOS CONTRA LA FAMILIA
 
-### CAPITULO IV. BIGAMIA
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO III. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
 ###### ARTICULO 201.
 
-Al que después de la ejecución del delito y sin haber participado en él, con ánimo de lucro adquiera, reciba u oculte el producto del delito a sabiendas que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o al que ayude a otro para los mismos fines, se le aplicarán de seis meses a cuatro años de prisión y multa hasta de veinte mil pesos.
+Al que sin motivo justificado deje de cumplir con la obligación de dar alimentos a sus hijos, se le impondrán de uno a seis años de prisión, multa hasta de treinta mil pesos y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 202.
 
-Al que sin motivo justificado abandone a sus hijos, a su cónyuge o a la persona quien legalmente tenga el deber de dar alimentos, sin recursos para atender a sus necesidades de subsistencia, se le impondrán de tres meses a dos años de prisión, multa hasta de tres mil pesos y si el juez lo estima conveniente, suspensión o privación de derechos de familia.
+Al que sin motivo justificado abandone, a persona distinta a sus hijos, a quien legalmente tenga el deber de dar alimentos, sin recursos para atender a sus necesidades de subsistencia, se le impondrán de tres meses a cuatro años de prisión, multa hasta de veinte mil pesos y si el Juez lo estima conveniente, suspensión o privación de derechos de familia.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 203.
 
-Este delito se perseguirá a petición del ofendido o de su legítimo representante y a falta de éste, la acción se iniciará por el Ministerio Público, a reserva de que el juez designe un tutor especial para los efectos de este precepto.
+Estos delitos se perseguirán a petición del ofendido o de su legítimo representante y a falta de éste, la acción se iniciará por el Ministerio Público, a reserva de que el Juez designe un tutor especial para los efectos de este precepto.
+
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 204.
 
 Para que el perdón concedido por el ofendido o por su representante legítimo, pueda producir la libertad del imputado, deberá éste pagar todas las cantidades que hubiese dejado de ministrar por concepto de alimentos y garantizar que en lo sucesivo, pagará la cantidad que le corresponda.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 205.
 
-No se sancionará al obligado a proporcionar los medios indispensables de subsistencia, a que se refiere el artículo 202, si antes de dictarse sentencia que cause ejecutoria, cumple con las prestaciones debidas.
+No procederá el perdón, para quien habiendo sido perdonado anteriormente por la comisión de los delitos previstos en este Capítulo, vuelva a ser procesado por los mismos.
 
-### CAPITULO V. MATRIMONIOS ILEGALES
+### CAPITULO IV. BIGAMIA
 
 ###### ARTICULO 206.
 
 Al familiar de un menor de doce años de edad o de un incapacitado de comprender, o al que por instrucciones de aquél, lo sustraiga de la custodia o guarda de quien legítimamente la tenga, o bien lo retenga sin la voluntad de éste, se le impondrán de uno a seis años de prisión y multa hasta de cinco mil pesos.
 
-### CAPITULO VI. INCESTO
+### CAPITULO V. MATRIMONIOS ILEGALES
 
 ###### ARTICULO 207.
 
@@ -1391,13 +1523,13 @@ III.-Mediante ocultación, sustitución o exposición de un recién nacido, pret
 
 IV.-Usurpe el estado civil o la filiación de otro con el fin de adquirir derechos de familia que no le corresponden.
 
-### CAPITULO I. CONTRA LA ECOLOGIA
+### CAPITULO VI. INCESTO
 
 ###### ARTICULO 208.
 
 Al que contrajere nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrán de seis meses a cinco años de prisión y multa hasta de diez mil pesos. Las mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO II. ESTRAGOS
+### CAPITULO I. CONTRA LA ECOLOGIA
 
 ###### ARTICULO 209.
 
@@ -1405,7 +1537,7 @@ Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la exi
 
 Las mismas sanciones se impondrán al encargado del Registro Civil que teniendo conocimiento del impedimento, autorice la celebración del matrimonio.
 
-### CAPITULO III. ASOCIACION DELICTUOSA
+### CAPITULO II. ESTRAGOS
 
 ###### ARTICULO 210.
 
@@ -1419,29 +1551,29 @@ Se aplicarán las últimas sanciones en caso de que la cópula sea entre hermano
 
 SEGURIDAD COLECTIVA
 
+### CAPITULO III. ASOCIACION DELICTUOSA
+
+###### ARTICULO 211.
+
+Se impondrán de uno a cuatro años de prisión y multa hasta de cincuenta mil pesos, al que por cualquier medio provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción local, o produzca un daño en la atmósfera o difunda una enfermedad de las plantas o de los animales, con peligro de la salud pública o de la riqueza ecológica del Estado.
+
 ### CAPITULO IV
 
 PROVOCACION A COMETER UN DELITO,
 
 APOLOGIA DE ESTE O DE ALGUN VICIO
 
-###### ARTICULO 211.
-
-Se impondrán de uno a cuatro años de prisión y multa hasta de cincuenta mil pesos, al que por cualquier medio provoque la contaminación, degradación, esterilización o envenenamiento de las tierras y aguas de jurisdicción local, o produzca un daño en la atmósfera o difunda una enfermedad de las plantas o de los animales, con peligro de la salud pública o de la riqueza ecológica del Estado.
-
-### CAPITULO I. DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
-
 ###### ARTICULO 212.
 
 Al que mediante incendio, explosión, inundación o por cualquiera otra causa, creare un peligro común para los bienes o para las personas, se le impondrán prisión de uno a siete años y multa hasta de veinte mil pesos.
 
-### CAPITULO II. VIOLACION DE CORRESPONDENCIA
+### CAPITULO I. DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE
 
 ###### ARTICULO 213.
 
 Al que de manera permanente formare parte de una asociación o banda de tres o más personas, destinada a delinquir, se le impondrán de uno a siete años de prisión y multa hasta de cinco mil pesos.
 
-### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
+### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
 ###### ARTICULO 214.
 
@@ -1451,7 +1583,7 @@ Al que provoque públicamente a cometer un delito o haga la apología de éste o
 
 DE TRANSPORTE Y DE LAS VIAS DE COMUNICACION
 
-### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
+### CAPITULO III. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
 ###### ARTICULO 215.
 
@@ -1471,7 +1603,7 @@ Al que ponga en movimiento un vehículo de motor o maquinaria similar y su despl
 
 Al que destruya, inutilice, quite o cambie un dispositivo o señal de seguridad de una vía de comunicación estatal, se le aplicarán las sanciones del artículo anterior.
 
-### CAPITULO II. FALSIFICACION DE DOCUMENTOS
+### CAPITULO I. FALSIFICACION DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
 
 ###### ARTICULO 219.
 
@@ -1485,7 +1617,7 @@ II.-Al que indebidamente intercepte una comunicación escrita que no le esté di
 
 No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, abran o intercepten las comunicaciones escritas o dirigidas a sus hijos menores de edad o a las personas que se hallen bajo su tutela o guarda.
 
-### CAPITULO III. USO DE DOCUMENTO FALSO
+### CAPITULO II. FALSIFICACION DE DOCUMENTOS
 
 ###### ARTICULO 221.
 
@@ -1499,7 +1631,7 @@ Si este delito se comete por conductores de vehículos de transporte público de
 
 ## TITULO X. DELITOS DE FALSEDAD Y CONTRA LA FE PUBLICA
 
-### CAPITULO IV. USURPACION DE PROFESION
+### CAPITULO III. USO DE DOCUMENTO FALSO
 
 ###### ARTICULO 222.
 
@@ -1513,7 +1645,7 @@ III.-Enajene o a sabiendas haga uso de llaves, sellos, contraseñas o marcas fal
 
 IV.-Al que procurándose los verdaderos sellos, contraseñas, marcas o estampillas haga uso indebido de ellos.
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO IV. USURPACION DE PROFESION
 
 ###### ARTICULO 223.
 
@@ -1543,13 +1675,13 @@ IV.-Al médico que certifique falsamente que una persona tiene una enfermedad u 
 
 Cuando alguno de los delitos previstos en este Capítulo, sea ejecutado por un funcionario público, éste será sancionado además con privación del empleo o cargo.
 
-### CAPITULO II. CORRUPCION DE MENORES
+### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
 
 ###### ARTICULO 226.
 
 Al que a sabiendas hiciere uso de un documento falso o alterado, se le impondrán prisión de seis meses a cuatro años y multa hasta de cinco mil pesos.
 
-### CAPITULO III. LENOCINIO
+### CAPITULO II. CORRUPCION DE MENORES
 
 ###### ARTICULO 227.
 
@@ -1557,13 +1689,13 @@ Al que ejerza actos propios de una profesión sin tener el título correspondien
 
 ## TITULO XI. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO I. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO III. LENOCINIO
 
 ###### ARTICULO 228.
 
 Al que fabrique, publique, reproduzca, transporte o posea escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, películas cinematográficas u otros objetos obscenos, con el fin de distribuirlos o exponerlos públicamente y, al que ejecute o haga ejecutar en público exhibiciones obscenas, se le aplicarán de seis meses a un año de prisión y multa hasta de cinco mil pesos.
 
-### CAPITULO II. DELITOS CONTRA EL RESPETO A LOS MUERTOS
+### CAPITULO I. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 229.
 
@@ -1581,7 +1713,7 @@ Al que emplee menores de dieciséis años en cantinas o algún centro de vicio, 
 
 Al empleado que permita el acceso de menores de edad a salas en que se exhiban películas o se monten espectáculos clasificados de no aptos para aquéllos, se le sancionará con prisión de uno a seis meses y multa hasta de mil pesos.
 
-### CAPITULO I. CONSPIRACION
+### CAPITULO II. DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
 ###### ARTICULO 233.
 
@@ -1597,7 +1729,7 @@ En caso de que el explotado sea menor de edad, se aumentarán las sanciones prev
 
 ## TITULO XII. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO II. REBELION
+### CAPITULO I. CONSPIRACION
 
 ###### ARTICULO 236.
 
@@ -1613,7 +1745,7 @@ III.-Al que exhume un cadáver sin observar los requisitos legales o con violaci
 
 IV.-Al que sustraiga o esparza las cenizas de un cadáver o restos humanos ilegalmente.
 
-### CAPITULO III. SEDICION
+### CAPITULO II. REBELION
 
 ###### ARTICULO 237.
 
@@ -1627,13 +1759,13 @@ III.-Al que viole o vilipendie el lugar donde repose un cadáver, restos humanos
 
 ## TITULO XIII. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPITULO IV. MOTIN
+### CAPITULO III. SEDICION
 
 ###### ARTICULO 238.
 
 Siempre que dos o más personas resuelvan de concierto, cometer alguno de los delitos de que tratan los capítulos II, III y IV de este Título, y acuerden los medios para producirlos, se les impondrán de uno a siete años de prisión, multa hasta de diez mil pesos y suspensión de sus derechos políticos hasta por tres años.
 
-### CAPITULO V. TERRORISMO
+### CAPITULO IV. MOTIN
 
 ###### ARTICULO 239.
 
@@ -1687,7 +1819,7 @@ Los rebeldes no serán responsables de los homicidios o de las lesiones inferida
 
 No se aplicará sanción a los rebeldes que depongan las armas antes de ser tomados prisioneros.
 
-### CAPITULO VI. SABOTAJE
+### CAPITULO V. TERRORISMO
 
 ###### ARTICULO 247.
 
@@ -1701,15 +1833,13 @@ III.-Abolir o reformar la Constitución Política del Estado o las instituciones
 
 IV.-Separar o impedir el desempeño de su cargo a algún funcionario público, estatal o municipal.
 
-### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+### CAPITULO VI. SABOTAJE
 
 ###### ARTICULO 248.
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cinco mil pesos y suspensión de derechos políticos hasta por dos años.
 
-### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
-
-> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
+### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
 
 ###### ARTICULO 249.
 
@@ -1717,7 +1847,7 @@ Al que utilizando explosivos, substancias tóxicas, armas de fuego o por incendi
 
 Al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades, se le impondrán de uno a nueve años de prisión y multa hasta de veinte mil pesos.
 
-### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
+### CAPITULO I. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1731,7 +1861,7 @@ II.-Elementos fundamentales de instituciones de docencia o investigación; o
 
 III.-Recursos esenciales que el Estado destine para el mantenimiento del orden público.
 
-### CAPITULO III. COALICION
+### CAPITULO II. ABUSO DE AUTORIDAD O INCUMPLIMIENTO DEL DEBER LEGAL
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1747,7 +1877,7 @@ La suspensión de derechos políticos, para efectos de los delitos de este Títu
 
 ## TITULO XIV. DELITOS CONTRA LA FUNCION PUBLICA
 
-### CAPITULO IV. COHECHO
+### CAPITULO III. COALICION
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1763,7 +1893,7 @@ III.-Que ejerza funciones públicas distintas de aquellas para las que fue desig
 
 IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada y con perjuicio del servicio, si el abandono ocurre dentro de los treinta días posteriores a la presentación de la renuncia.
 
-### CAPITULO V. PECULADO
+### CAPITULO IV. COHECHO
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1787,15 +1917,15 @@ VI.-Teniendo a su cargo fondos públicos les dé, a sabiendas, una aplicación p
 
 VII.-Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público; haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o algún tercero.
 
-### CAPITULO VI. EXACCION ILEGAL
+### CAPITULO V. PECULADO
 
-> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 255.
 
 Se impondrán prisión de seis meses a seis años y multa hasta de cincuenta mil pesos, a los servidores públicos que se coaliguen para tomar medidas contrarias a una Ley, Reglamento o disposición de carácter general para impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. EXACCION ILEGAL
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1809,7 +1939,7 @@ II.-Al que dé u ofrezca dinero o dádivas a las personas a que se refiere la fr
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
-### CAPITULO VIII. TRAFICO DE INFLUENCIA
+### CAPITULO VII. INTIMIDACION
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1823,7 +1953,7 @@ I.-El servidor público que a título personal e indebidamente utilice fondos p�
 
 II.-Cualquier persona que sin tener el carácter del servidor público y estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPITULO IX. ENRIQUECIMIENTO ILICITO
+### CAPITULO VIII. TRAFICO DE INFLUENCIA
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1835,7 +1965,7 @@ No se sancionarán a los servidores públicos municipales que, otorgando el comp
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO X. USURPACION DE FUNCIONES
+### CAPITULO IX. ENRIQUECIMIENTO ILICITO
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1849,7 +1979,7 @@ II.-Que con motivo de la querella, denuncia o información a que hace referencia
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
+### CAPITULO X. USURPACION DE FUNCIONES
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1863,7 +1993,7 @@ II.-Sin estar autorizado para ello y aprovechando el empleo, cargo o comisión q
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPITULO XI. VARIACION DE NOMBRE O DOMICILIO
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1873,7 +2003,7 @@ Se sancionarán con prisión de seis meses a diez años y multa hasta de cien mi
 
 Se aplicará la misma sanción a quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley.
 
-### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO XII. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1881,7 +2011,7 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Se impondrán de seis meses a seis años y multa hasta de cincuenta mil pesos, a quien indebidamente se atribuyere y ejerciere funciones públicas.
 
-### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
+### CAPITULO XIII. QUEBRANTAMIENTO DE SELLOS
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1891,9 +2021,7 @@ Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pes
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
-
-DE ESTE TITULO
+### CAPITULO XIV. ULTRAJES A LA AUTORIDAD
 
 > <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1903,13 +2031,17 @@ Se impondrán de seis meses a un año de prisión y multa hasta de cinco mil pes
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de diez mil pesos, al que impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden legítima, cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta de un año.
 
-### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPITULO XV. DISPOSICIONES COMUNES PARA LOS DELITOS
+
+DE ESTE TITULO
+
+> <small>(REFORMADO Y REUBICADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 265.
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de dos mil pesos, al que quebrante los sellos puestos por orden de la autoridad competente.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### ARTICULO 266.
 
@@ -1917,7 +2049,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cinco mil p
 
 > <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 267.
 
@@ -1929,7 +2061,7 @@ Se impondrán las mismas sanciones previstas para el delito de que se trate o cu
 
 ## TITULO XV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO III. FALSAS DENUNCIAS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 268.
 
@@ -1947,15 +2079,13 @@ Al que se retracte espontáneamente de sus falsas declaraciones rendidas ante la
 
 Las sanciones serán de dos a diez años de prisión y multa hasta de quince mil pesos para el testigo falso, cuando al imputado se le imponga sanción privativa de libertad no siendo responsable del delito por el que se le juzgó y, en el testimonio falso, se hubiese fundado principalmente la sentencia.
 
-### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 272.
 
 Al que simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cinco mil pesos.
 
-### CAPITULO VI
-
-QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
+### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 273.
 
@@ -1969,7 +2099,9 @@ No se procederá contra el delincuente sino después de que haya pronunciado sen
 
 Las disposiciones relativas al delito de calumnia son aplicables, en lo conducente, a la falsa denuncia o querella calumniosa que reglamenta este capítulo.
 
-### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPITULO VI
+
+QUEBRANTO DE LA SANCION DE PRIVACION, SUSPENSION O INHABILITACION DE DERECHOS.
 
 ###### ARTICULO 276.
 
@@ -1991,6 +2123,8 @@ Si la reaprehensión del evadido se lograre por gestiones del responsable de la 
 
 Al evadido no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas o en las cosas, en cuyo caso la sanción será de seis meses a tres años de prisión y multa hasta de tres mil pesos.
 
+### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
 ###### ARTICULO 281.
 
 Al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse a la acción de ésta, u ocultare, alterare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrán de seis meses a tres años de prisión y multa hasta de cinco mil pesos.
@@ -2005,9 +2139,17 @@ b).-El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 c).-Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
+### CAPITULO I. FRACCIONAMIENTO INDEBIDO
+
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 283.
 
 Al que quebrante una sanción de privación, supensión (sic) o inhabilitación de derechos, se le impondrá hasta veinte mil pesos de multa. En caso de reincidencia se duplicará la multa y se impondrá prisión de seis meses a dos años.
+
+### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
+
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 284.
 
@@ -2022,6 +2164,42 @@ III.-Alegue a sabiendas hechos falsos;
 IV.-Use de cualquier recurso, incidente o medio notoriamente improcedente o ilegales, para dilatar o suspender un juicio; y
 
 V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha aprovechar su parte.
+
+> <small>(ADICIONADO CON LOS CAPITULO Y ARTICULOS QUE LO INTEGRAN, 23 DE SEPTIEMBRE DE 1986)</small>
+
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TITULO
+
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+
+## TITULO XVI. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 285.
+
+Se impondrán de cinco a diez años de prisión y multa hasta el importe de mil días de salario mínimo de la zona, al que sin contar con el permiso o la licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 286.
+
+Se aplicarán de cinco a diez años de prisión y multa hasta el importe de mil días de salario mínimo de la zona, al que sin contar con el permiso o la licencia de la autoridad competente, o cuando existiendo éste, no se hayan satisfecho los requisitos en él señalados:
+
+I.-Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
+
+II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 287.
+
+Estos delitos se perseguirán a querella del particular afectado o de la autoridad facultada para conceder el permiso o la licencia correspondiente, quienes podrán otorgar el perdón judicial, cuando el infractor satisfaga los requisitos de la Ley aplicable y sus reglamentos, acredite la reparación de los daños que pudiera haber causado y pague las multas que se le impongan.
+
+> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 288.
+
+Los Notarios Públicos u otros funcionarios fedatarios que autoricen convenios que contravengan las disposiciones de este Título, serán sancionados con la suspensión definitiva de su cargo. Igual sanción se aplicará a los encargados de los Registrados Públicos de la Propiedad que inscriban documentos relativos en que no conste la autorización para su otorgamiento.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2048,3 +2226,17 @@ Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Of
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la misma.
+
+G.O. 23 DE SEPTIEMBRE DE 1986.
+
+LEY NUMERO 348 QUE REFORMA LOS ARTICULOS 109, 111, 147; EL TITULO VI Y EL CAPITULO I DEL TITULO VII DEL LIBRO SEGUNDO DEL CODIGO PENAL PARA EL ESTADO
+
+Artículo Primero.-Estas reformas entrarán en vigor treinta días después de su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
+
+Artículo Segundo.-Se derogan todas las disposiciones que se opongan a lo dispuesto de esta Ley.
+
+G.O. 23 DE SEPTIEMBRE DE 1986.
+
+DECRETO NUM. 349 QUE REFORMA EL ARTICULO 60 Y ADICIONA CON UN TITULO XVI EL CODIGO PENAL
+
+Artículo Unico.-La presente Ley entrará en vigor a los quince días posteriores a su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
