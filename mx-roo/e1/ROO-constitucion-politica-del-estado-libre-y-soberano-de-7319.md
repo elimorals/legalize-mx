@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2003-11-28"
+last_updated: "2003-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1959,6 +1959,8 @@ I. Los recursos que integran la hacienda municipal serán ejercidos en forma dir
 
 II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que oportunamente envíe cada uno de ellos, en los términos de la presente Constitución y de la Ley de Hacienda que al efecto se expida.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE DICIEMBRE DE 2003.]</small>
+
 Los Ayuntamientos, propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
 
 III. En todo caso los municipios percibirán:
@@ -2589,6 +2591,12 @@ En el caso del inciso a) del Artículo 147 de la presente, dentro del plazo señ
 
 En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO TERCERO.
+
+Para los efectos de lo dispuesto en el Segundo Párrafo de la Fracción Segunda del Artículo 153 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, los Ayuntamientos que conforman el Estado de Quintana Roo, deberán de cumplir dicha disposición constitucional a partir del año 2004.
+
 P.O. 28 DE NOVIEMBRE DE 2003.
 
 ###### ARTICULO PRIMERO.
@@ -2598,3 +2606,9 @@ Las reformas contenidas en el presente Decreto entrarán en vigor al día siguie
 ###### ARTICULO SEGUNDO.
 
 Los actuales Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Instituto Electoral de Quintana Roo, así como el Magistrado Presidente y los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, continuarán en sus cargos en los términos previstos en la reforma al artículo 49, fracción II, párrafo séptimo, de la Constitución Política del Estado Libre y Soberano de Quintana Roo, contenida en el presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
