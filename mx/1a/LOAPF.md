@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1985-12-26"
+last_updated: "1986-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -1218,95 +1218,87 @@ II.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ### CAPITULO UNICO. De la Administración Pública Paraestatal
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
+
 ## TITULO TERCERO. De la Administración Pública Paraestatal
 
 ###### ARTICULO 45.
 
-Dentro de la administración pública paraestatal serán considerados como organismos descentralizados las instituciones creadas por disposición del Congreso de la Unión, o en su caso por el Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la forma o estructura legal que adopten.
+Son organismos descentralizados las entidades creadas por ley o decreto del Congreso de la Unión o por decreto del Ejecutivo Federal, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 46.
 
-Dentro de la Administración Pública Paraestatal se consideran empresas de participación estatal mayoritaria, incluidas las instituciones nacionales de crédito y organizaciones auxiliares, las sociedades nacionales de crédito, y las instituciones nacionales de seguros y de fianzas, aquellas que satisfagan alguno de los siguientes requisitos:
+Son empresas de participación estatal mayoritaria las siguientes:
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+I.- Las sociedades nacionales de crédito constituidas en los términos de su legislación específica;
 
-a) Que el Gobierno Federal, el Gobierno del Distrito Federal, uno o más organismos descentralizados, otra u otras empresas de participación estatal mayoritaria, una o más instituciones nacionales de crédito u organizaciones auxiliares nacionales de crédito; una o varias instituciones nacionales de seguros o de fianzas, o uno o más fideicomisos a que se refiere la fracción III del Artículo 3o. de esta Ley, considerando conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social;
+II.- Las Sociedades de cualquier otra naturaleza incluyendo las organizaciones auxiliares nacionales de crédito; así como las instituciones nacionales de seguros y fianzas, en que se satisfagan alguno o varios de los siguientes requisitos:
 
-b) Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Federal; o
+A) Que el Gobierno Federal o una o más entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
 
-c) Que al Gobierno Federal corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de gobierno, designar al presidente, al director, al gerente, o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración o de la junta directiva u órgano de gobierno equivalente.
+B) Que en la constitución de su capital se hagan figurar títulos representativos de capital social de serie especial que sólo puedan ser suscritas por el Gobierno Federal; o
+
+C) Que al Gobierno Federal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al presidente o director general, o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno.
+
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la Administración Pública Federal o servidores Públicos Federales que participen en razón de sus cargos o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 47.
 
-Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de las mencionadas en el inciso a) del artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+En los fideicomisos constituidos por el gobierno federal, la Secretaría de Programación y Presupuesto fungirá como fideicomitente único de la Administración Pública Centralizada.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 48.
 
-Para los efectos de esta Ley, serán empresas de participación estatal minoritaria las sociedades en las que uno o más organismos descentralizados u otra, u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes de capital que representen menos del 50% y hasta el 25% de aquél.
+A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, el Presidente de la República las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades en relación con la esfera de competencia que ésta y otras leyes atribuyen a las Secretarías de Estado y Departamentos Administrativos.
 
-La vigilancia de la participación estatal estará a cargo de un Comisario designado por el Titular de la Secretaría coordinadora del sector correspondiente, escuchando la opinión del Secretario de la Contraloría General de la Federación.
-
-Las relaciones de las empresas de participación estatal minoritaria con la Administración Pública Federal, serán las que determine la Ley.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 49.
 
-Los fideicomisos a que se refiere esta Ley serán los establecidos por la Administración Pública Centralizada así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este propio ordenamiento.
+La intervención a que se refiere el artículo anterior se realizará a través de la dependencia que corresponda según el agrupamiento que por sectores haya realizado el propio Ejecutivo, la cual fungirá como coordinadora del sector respectivo.
 
-La Secretaría de Programación y Presupuesto representará como fideicomitente único a la Administración Pública Centralizada, en los fideicomisos que ésta constituya.
+Corresponde a los coordinadores de sector coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y participar en los órganos de gobierno de las entidades agrupadas en el sector a su cargo, conforme a lo dispuesto en las leyes.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de la dependencia coordinadora podrá agruparlas en subsectores, cuando así convenga para facilitar su coordinación y dar congruencia al funcionamiento de las citadas entidades.
 
-ARTICULO 49 BIS.- Las entidades a que se refiere este Capítulo, deberán inscribirse en el Registro de la Administración Pública Paraestatal que llevará la Secretaría de Programación y Presupuesto.
+ARTICULO 49 BIS.- (DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
-> <small>(F. DE E., D.O.F. 18 DE ABRIL DE 1984)</small>
-
-Los Directores, Gerentes, o quienes desempeñen funciones similares, de las entidades paraestatales que no cumplan con esta obligación, serán responsables en los términos de la Ley.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 50.
 
-El Presidente de la República estará facultado para determinar agrupamientos de entidades de la Administración Pública Paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo Federal en cumplimiento de las disposiciones legales aplicables, se realicen a través de la Secretaría de Estado o Departamento Administrativo que en cada caso designe como coordinador del sector correspondiente.
-
-Las Secretarías de Estado o Departamentos Administrativos organizarán a las entidades paraestatales bajo su coordinación, agrupándolas en subsectores cuando convenga, atendiendo a la naturaleza de sus actividades.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público, de Programación y Presupuesto y de la Contraloría General de la Federación, sin perjuicio de las atribuciones que competan a las coordinadoras de sector
 
 ###### ARTICULO 51.
 
-Corresponderá a las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores a que se refiere el artículo anterior; conducir la programación, coordinar y evaluar la operación de las entidades de la Administración Paraestatal que determine el Ejecutivo Federal.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 52.
 
-Cuando los nombramientos de Presidente o miembros de los consejos, juntas directivas o equivalentes, en las entidades de la Administración Pública Paraestatal, correspondan al Gobierno Federal y sus dependencias, el Presidente de la República dará a los coordinadores de sector las bases para la designación de los funcionarios que proceda.
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 53.
 
-El Ejecutivo Federal, en los casos que proceda, determinará qué funcionarios habrán de ejercer las facultades que implique la titularidad de las acciones que formen parte del capital social de las entidades de la administración paraestatal. A falta de dicha determinación el titular de la Secretaría de Estado o Departamento Administrativo a que corresponda la coordinación de sector respectivo hará esta designación.
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 54.
 
-Las entidades de la administración pública paraestatal deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que le soliciten.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 55.
 
-Los consejos de administración, juntas directivas o equivalentes, serán responsables de la programación estratégica y de la supervisión de la marcha normal de las entidades del sector paraestatal; los coordinadores de sector podrán, cuando lo juzguen necesario establecer comités técnicos especializados dependientes de los consejos de administración, con funciones de apoyo en el desarrollo de estas actividades.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ###### ARTICULO 56.
 
-Corresponde a los Coordinadores de Sector promover el establecimiento y la vigilancia del funcionamiento de comités mixtos de productividad en las entidades de la Administración Pública Federal, con la participación de representantes de los trabajadores y de la administración de la entidad que atenderán problemas de administración y organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
+(DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
 ## TRANSITORIOS
 
@@ -1389,6 +1381,12 @@ SEGUNDO.- Cuando en esta y otras Leyes, reglamentos, decretos, acuerdos y demás
 TERCERO.- La Secretaría de Salud procederá gradualmente a sustituir el registro e identificación de los equipos y bienes sujetos actualmente a la custodia y uso de la anterior Secretaría de Salubridad y Asistencia.
 
 D.O.F. 26 DE DICIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MAYO DE 1986.
 
 ###### ARTICULO UNICO.
 
