@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-catastro-del-estado-de-chiapas-4170"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-18"
-last_updated: "1995-08-02"
+last_updated: "2002-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE CATASTRO DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1995.
+> <small>N. DE E. LA PRESENTE LEY HA SIDRO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado el miércoles 18 de marzo de 1987.
 
@@ -848,3 +850,15 @@ P.O. 2 DE AGOSTO DE 1995
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 23 DE DICIEMBRE DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Catastro del Estado de Chiapas, publicada en el Periódico Oficial del Estado numero 11 de fecha 30 de enero de 1987.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+CUARTO.- A la entrada en vigencia de la presente Ley quedan sin efecto los convenios en materia catastral suscritos por el Ejecutivo del Estado y los municipios.
+
+QUINTO.- El Titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de esta Ley, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente Ley.
