@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1934-07-21"
+last_updated: "1935-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1935.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -209,9 +209,11 @@ Las faltas de asistencia de los Recaudadores de Rentas, serán cubiertas por la 
 
 Cuando por cualquier circunstancia el experto en ingeniería falte por más de tres sesiones consecutivas, se comunicará al Gobernador del Estado para que tome las medidas que estime prudentes.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1935)</small>
+
 ###### Artículo 18.
 
-Las Juntas Regionales Catastrales deberán para su funcionamiento, contar con la asistencia total de sus miembros. Las decisiones serán tomadas por mayoría de votos.
+Las Juntas Regionales Catastrales, deberán contar para su funcionamiento, con mayoría de los miembros que la integran. Las decisiones serán tomadas por mayoría de votos de los asistentes a cada sesión.
 
 ###### Artículo 19.
 
@@ -257,11 +259,11 @@ Los representantes particulares en la Junta Central del Catastro, deberán ser m
 
 Cuando alguna institución particular de las que deben hacer la designación de los representantes a que se refiere el artículo 19 en su parte final, se niegue a hacerlo, el Gobernador del Estado deberá elegirlo de una lista de cincuenta de los principales causantes del impuesto predial en el Estado.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 1935)</small>
+
 ###### Artículo 24.
 
-La Junta Central del Catastro, deberá contar para su funcionamiento, con la asistencia total de los miembros que la integran.
-
-Las decisiones de la Junta Central del Catastro serán tomadas por mayoría de votos. En caso de empate, el Presidente de la misma tendrá voto de calidad.
+La Junta Central de Catastro, deberá contar para su funcionamiento, con la asistencia de seis de sus miembros, cuando menos. Las decisiones de la Junta Central del Catastro serán tomadas por mayoría de votos. En caso de empate, el Presidente de la misma tendrá voto de calidad.
 
 ###### Artículo 25.
 
@@ -368,5 +370,9 @@ LIC. ENRIQUE GONZÁLEZ FLORES.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE JULIO DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
+
+P.O. 4 DE MAYO DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
