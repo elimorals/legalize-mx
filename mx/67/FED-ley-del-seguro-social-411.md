@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1979-12-31"
+last_updated: "1980-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1498,11 +1498,11 @@ Los trabajadores incorporados al sistema de porcentaje a que se refiere al artí
 
 El Instituto otorgará a los pensionados comprendidos en este capítulo, un aguinaldo anual equivalente a quince días del importe de la pensión que perciban.
 
-> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 168.
 
-La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a mil seiscientos pesos mensuales.
+La pensión de invalidez, de vejez o de cesantía en edad avanzada, no podrá ser inferior a dos mil doscientos pesos mensuales.
 
 ###### ARTICULO 169.
 
@@ -2613,3 +2613,27 @@ SE TRANSCRIBE EL ARTICULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIE
 La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
 
 ...
+
+D.O.F. 19 DE DICIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Las pensiones por incapacidad permanente total, invalidez, vejez y cesantía en edad avanzada en curso de pago al día inmediato anterior a la fecha en que entre en vigor este Decreto, se beneficiarán con un aumento de seiscientos pesos mensuales, independientemente de las limitaciones que, respecto de la suma de dichas pensiones, las asignaciones familiares y las ayudas asistenciales, se hubiesen aplicado con base en el artículo 169 de la Ley, y sin perjuicio del incremento proporcional por las diferencias que conforme al artículo 66 resulten procedentes en las pensiones de incapacidad permanente total.
+
+El aumento a que se refiere el párrafo anterior surtirá sus efectos a partir del 1o. de septiembre de 1980 o del día en que nació el derecho a su disfrute, cuando éste quede comprendido entre el propio 1o. de septiembre de 1980 y la fecha en que se publique este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Las pensiones de viudez, orfandad y ascendientes, así como las pensiones por incapacidad permanente parcial cualquiera que fuese su valuación, se incrementarán en la proporción que corresponda, tomando como base el aumento de seiscientos pesos a que se ha hecho mérito.
+
+###### ARTICULO TERCERO.
+
+Las asignaciones familiares y ayudas asistenciales que se hubiesen otorgado con base en el artículo 169 de la Ley, se revisarán para incrementarlas conservando la proporción que actualmente guardan respecto de la pensión de la que derivan de acuerdo con los procedimientos aplicables a estos casos.
+
+###### ARTICULO CUARTO.
+
+El Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejorías económicas consignadas en este Decreto, en un plazo no mayor de sesenta días, a partir de la entrada en vigor del mismo.
+
+###### ARTICULO QUINTO.
+
+El presente decreto entrará en vigor en toda la República el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
