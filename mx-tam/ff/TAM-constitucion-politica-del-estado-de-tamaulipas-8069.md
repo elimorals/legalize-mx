@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1989-04-22"
+last_updated: "1993-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -453,9 +453,9 @@ El Congreso tendrá dos períodos de Sesiones Ordinarios cada año: El primero i
 
 Durante el primer período Ordinario de Sesiones, el Congreso se ocupará preferentemente de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O.21 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
 
-I.- Salvo lo dispuesto en la fracción I del artículo siguiente, de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo, antes del quince de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación presentará el Tesorero General por conducto del Ejecutivo para la fecha antes indicada, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos y leyes reformatorias dictadas posteriormente; si los gastos están justificados y si hay lugar a exigir alguna responsabilidad;
+I.- Salvo lo dispuesto en la Fracción I del Artículo siguiente, de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales correspondientes al año anterior, las que le serán remitidas por conducto del Ejecutivo antes del quince de febrero de cada año, así como examinar y calificar la recaudación y distribución de los fondos públicos del Estado en el mismo período, cuya documentación presentará el Secretario de Hacienda por conducto del Ejecutivo.
 
 II. De estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
@@ -643,7 +643,9 @@ XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosper
 
 XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes.
 
-XL. Conceder o negar al Gobernador licencia temporal para separarse de su puesto y para salir del Estado, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+
+XL. Conceder o negar al Gobernador, licencia temporal para separarse de su cargo por más de 30 días y permiso para salir del territorio del Estado por más de 15 días, y designar a la persona que deba suplirlo interinamente en los casos que así se requiera;
 
 XLI. Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
@@ -675,7 +677,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -953,9 +955,11 @@ Si al abrirse el período de sesiones ordinarias estuviere corriendo término de
 
 Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+
 ###### Art. 87.
 
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Comisión Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrará un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Si la licencia no excede de ocho días, no se designará substituto, y el Secretario General se encargará del Poder Ejecutivo.
+En los casos de licencia temporal concedida al Gobernador, el Congreso o la Diputación Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrarán un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Las ausencias del Gobernador en períodos que no excedan de 30 días serán cubiertas por el Secretario de Gobierno, encargado del despacho; cuando excedan de dicho término, el H. Congreso o la Diputación Permanente decide el interino.
 
 ###### Art. 88.
 
@@ -1109,39 +1113,57 @@ V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cos
 
 VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
 
-VII. Expedir ordenes de recaudación o pago, sino por conducto de la Tesorería General.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+
+VII.- Expedir órdenes de recaudación o pago, sino por conducto de la Secretaría de Hacienda;
 
 VIII. Impedir o retardar la instalación del Congreso.
 
-IX. Salir del territorio del Estado por más de cuarenta y ocho horas, sin permiso del Congreso o de la Diputación Permanente.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+
+IX.- Salir del territorio del Estado por más de quince días, sin permiso del Congreso o de la Diputación Permanente;
 
 X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
 
-### CAPITULO II. Del Secretario General de Gobierno
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ENERO DE 1993)</small>
+
+### CAPITULO II. De la Administración Pública
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 93.
 
-Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
+La Administración Pública Estatal será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, la cual establecerá la competencia de las Secretarías y la Procuraduría General de Justicia y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo en su operación.
+
+Las Secretarías que integren la Administración Pública Estatal conforme al párrafo anterior, promoverán: La modernización permanente de sus sistemas y procedimientos de trabajo, la transparencia en el ejercicio de la función pública, la eficiencia que evite la duplicdad (sic) o dispersión de funciones y aprovecharán óptimamente los recursos a su alcance a fin de responder a los reclamos de la ciudadanía y favorecer el desarrollo integral del Estado.
+
+Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
+
+Los Secretarios del Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 94.
 
+Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno".
+
 Para ser Secretario General de Gobierno, se requiere:
 
-I. Ser ciudadano mexicano en ejercicio de sus derechos.
+I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
-II. Ser mayor de treinta años de edad.
+II.- Ser mayor de treinta años de edad;
 
-III. Ser abogado con título expedido por alguna escuela oficial.
+III.- Ser abogado con título expedido por autoridad o Institución autorizada para ello;
 
-IV. No ser militar ni ministro de algún culto, esté o no en ejercicio.
+IV.- No ser militar ni ministro de algún culto, esté o no en ejercicio;
 
-V. No haber sido condenado por delito infamante. La calificación la hace el H. Congreso.
+V.- No haber sido condenado por delito infamante. La calificación la hace el H. Congreso.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 95.
 
-Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que subscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
+Los Decretos, Reglamentos, Acuerdos, Circulares, Ordenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en ejercicio de sus funciones constitucionales, deben ser firmados por el Secretario General, sin este requisito no surtirán efectos legales.
 
 ###### Art. 96.
 
@@ -1155,11 +1177,11 @@ El Secretario General de Gobierno sólo podrá litigar en negocios propios o de 
 
 El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 99.
 
-El Ejecutivo a su vez, tendrá un "Subsecretario General de Gobierno", cuyas funciones serán las de coadyuvar con la Secretaría del Ramo y quien en ausencia temporal del titular de esta última, lo suplirá con las prerrogativas, obligaciones y responsabilidades que disponen los artículos 95, 96, 97 y 98 del presente Capítulo. Las faltas temporales del Subsecretario de Gobierno se suplirán por el Oficial Mayor.
+La ausencia temporal del Secretario General de Gobierno será cubierta por uno de los Subsecretarios del ramo, con las prerrogativas, obligaciones y responsabilidades que establecen los Artículos 95, 96, 97 y 98 de esta Constitución.
 
 ## TITULO VI. DEL PODER JUDICIAL
 
@@ -1623,11 +1645,11 @@ El sistema educativo estatal se constituye por la educación que impartan el Est
 
 En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 141.
 
-La Dirección Técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Dirección General del Educación y Cultura, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
+La Dirección Técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Secretaría de Educación, Cultura y Deporte, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -1705,43 +1727,71 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 1993)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios, Procurador General de Justicia, Tesorero General y Directores Generales de la Administración Pública estatal, los Jueces, los Directores Generales o sus equivalentes de los organismos descentralizados, y los integrantes de los Ayuntamientos.
-
-Asimismo, el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos de juicio político, en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso, previa declaración de las dos terceras partes de sus integrantes, procederá a la acusación respectiva ante el Pleno del Supremo Tribunal de Justicia del Estado.
-
-Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en Jurado de Sentencia, aplicará, en su caso, la sanción correspondiente mediante resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con la audiencia del acusado.
-
-Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
+Podrán ser sujetos de Juicio Político los Diputados al Congreso Local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces, los Titulares de las Entidades Paraestatales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
+Asimismo, el Gobernador del Estado, los Diputados al Congreso Local y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos de juicio político, en los términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso, previa declaración de las dos terceras partes de sus integrantes, procederá a la acusación respectiva ante el Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en Jurado de Sentencia, aplicará, en su caso, la sanción correspondiente mediante resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con la audiencia del acusado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 1993)</small>
+
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretarios, Procurador General de Justicia, Tesorero General y Directores Generales de la Administración Pública Estatal, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso Local, los Magistrados del Supremo Tribunal de Justicia, los Secretarios del Ejecutivo, Procurador General de Justicia, los Jueces y Titulares de las Entidades Paraestatales por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo de la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Pleno del Supremo Tribunal de Justicia del Estado, en los términos del Artículo 151, resolviendo con base en la legislación penal aplicable.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 Las declaraciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su cargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -1803,9 +1853,11 @@ Ningún empleado o funcionario público percibirá más de un sueldo, excepción
 
 Los empleados y funcionarios que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+
 ###### Art. 162.
 
-La Tesorería General del Estado y Oficinas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretarlo (sic) General de Gobierno. Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
+La Secretaría de Hacienda del Estado y áreas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretario General de Gobierno. Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
 ###### Art. 163.
 
@@ -2392,3 +2444,9 @@ P.O. 22 DE ABRIL DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 5 de Febrero de 1993.
