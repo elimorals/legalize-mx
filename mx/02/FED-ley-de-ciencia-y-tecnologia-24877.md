@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2002-06-05"
+last_updated: "2004-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,15 +21,13 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
 DECRETO por el que se expiden la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia
-
-de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
@@ -77,9 +75,7 @@ I. Incrementar la capacidad científica, tecnológica y la formación de investi
 
 II. Promover el desarrollo y la vinculación de la ciencia básica y la innovación tecnológica asociadas a la actualización y mejoramiento de la calidad de la educación y la expansión de las fronteras del conocimiento, así como convertir a la ciencia y la tecnología en un elemento fundamental de la cultura general de la sociedad;
 
-III. Incorporar el desarrollo y la innovación tecnológica a los procesos productivos para incrementar
-
-la productividad y la competitividad que requiere el aparato productivo nacional;
+III. Incorporar el desarrollo y la innovación tecnológica a los procesos productivos para incrementar la productividad y la competitividad que requiere el aparato productivo nacional;
 
 IV. Integrar esfuerzos de los diversos sectores, tanto de los generadores como de los usuarios del conocimiento científico y tecnológico, para impulsar áreas de conocimiento estratégicas para el desarrollo del país;
 
@@ -194,6 +190,12 @@ El Consejo General podrá crear comités intersectoriales y de vinculación para
 Para garantizar la eficaz incorporación de las políticas y programas prioritarios en los anteproyectos de programas operativos y presupuestos anuales, así como para la revisión integral y de congruencia global del anteproyecto de presupuesto federal en lo relativo a ciencia y tecnología y asegurar la ejecución de los instrumentos específicos de apoyo que determine el Consejo General, se integrará un comité intersecretarial que será coordinado de manera conjunta por la Secretaría de Hacienda y Crédito Público, a nivel subsecretario, y por el Secretario Ejecutivo, al que asistirán los subsecretarios o funcionarios de nivel equivalente de la Administración Pública Federal encargados de las funciones de investigación científica y desarrollo tecnológico de cada sector. El anteproyecto de presupuesto consolidado de ciencia y tecnología se presentará a consideración del Consejo General para su inclusión en el Proyecto de Presupuesto de Egresos de la Federación.
 
 El Comité Intersecretarial a que se refiere el párrafo anterior, se apoyará en un Secretario Técnico con funciones permanentes, designado conjuntamente por la Secretaría de Hacienda y Crédito Público y el CONACyT.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 9 BIS.
+
+El Ejecutivo Federal y el Gobierno de cada Entidad Federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la investigación científica y desarrollo tecnológico. El monto anual que el Estado-Federación, entidades federativas y municipios-destinen a las actividades de investigación científica y desarrollo tecnológico, deberá ser tal que el gasto nacional en este rubro no podrá ser menor al 1% del producto interno bruto del país mediante los apoyos, mecanismos e instrumentos previstos en la presente Ley.
 
 ###### Artículo 10.
 
@@ -828,3 +830,11 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para dar cabal cumplimiento a esta disposición, y en atención al principio de subsidiariedad, los presupuestos de ingresos y egresos del Estado - Federación, entidades federativas y municipios - contemplarán un incremento gradual anual, a fin de alcanzar en el año 2006, recursos equivalentes al uno por ciento del producto interno bruto que considera el presente Decreto.
