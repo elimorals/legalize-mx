@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2004-07-12"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -713,7 +713,9 @@ XIX. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero o se a
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-XXI. Recibir la protesta del Gobernador, de los diputados, de los magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Tribunal Estatal Electoral, del Contador General de Glosa y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Tribunal Estatal Electoral, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
 
 El Gobernador del Estado protestará en los siguientes términos:
 
@@ -761,25 +763,35 @@ C). A los miembros sustitutos de los ayuntamientos para cubrir las faltas absolu
 
 Los integrantes de los concejos municipales y de los ayuntamientos provisionales, así como los miembros sustitutos de los ayuntamientos, deberán cumplir los requisitos de elegibilidad establecidos para los miembros de los ayuntamientos;
 
-XXX. Expedir anualmente, a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes, como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
 La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley, y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior o en la ley que estableció el empleo;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XXXI. Expedir la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado, quien deberá tomar en cuenta las propuestas de los municipios;
+XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XXXII. Recibir, revisar, fiscalizar y calificar cada año las cuentas públicas del Estado y municipios. Para tal efecto contará con un órgano técnico que se denominará Contaduría General de Glosa;
+XXXII. Recibir, revisar, fiscalizar y calificar a más tardar el 31 de julio las cuentas públicas del Estado y de los Municipios del año anterior, mismas que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión.
 
-XXXIII. Revisar, por conducto de la Contaduría General de Glosa, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los municipios;
+El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los integrantes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
-XXXIV. Fiscalizar la administración de los ingresos y egresos de los municipios y de sus organismos auxiliares;
+El Auditor Superior de Fiscalización durará en su encargo 4 años, pudiendo ser ratificado hasta por 4 años más, por el voto de las dos terceras partes de los integrantes de la Legislatura.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XXXV. Fincar las responsabilidades que resulten de la revisión, fiscalización y calificación de las cuentas públicas del Estado y de los municipios y del ejercicio del gasto de los ayuntamientos;
+XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización.
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XXXV. Determinar por conducto del Órgano Superior de Fiscalización, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, asimismo a través del propio Órgano fincar las responsabilidades resarcitorias que correspondan y promover en términos de ley, la imposición de otras responsabilidades y sanciones ante las autoridades competentes.
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
 
@@ -1027,13 +1039,13 @@ XVII. Conceder el indulto necesario y por gracia y conmutar las penas privativas
 
 XVIII. Rendir a la Legislatura del Estado, el cinco de septiembre de cada año, un informe acerca del estado que guarde la administración pública;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XIX. Enviar cada año a la Legislatura, antes del 5 de diciembre, los proyectos de leyes de ingresos y presupuestos de egresos del Estado que deberán regir en el año fiscal inmediato siguiente y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de julio;
+XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de mayo;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-XX. Enviar cada año a la Legislatura, antes del 5 de diciembre, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los ayuntamientos y que regirá en el año fiscal inmediato siguiente;
+XX. Enviar cada año a la Legislatura a más tardar el 21 de noviembre o el 20 de diciembre, cuando inicie el periodo constitucional el Ejecutivo Federal, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los Ayuntamientos y que regirá en el año fiscal inmediato siguiente;
 
 XXI. Cuidar la recaudación y buena administración de la Hacienda Pública del Estado;
 
@@ -1591,7 +1603,9 @@ Las leyes del Estado no podrán establecer exenciones o subsidios en favor de pe
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señalen la (sic) leyes de la materia.
 
-Los ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones al presupuesto de egresos. Estas sesiones nunca excederán al 15 de febrero y tendrán como único objeto, concordar el presupuesto de egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el presupuesto de egresos municipal en forma definitiva, se dispondrá por el presidente municipal su promulgación y publicación, teniendo la obligación de enviar la ratificación o modificación en su caso, de dicho presupuesto de egresos, a la Contaduría General de Glosa, a más tardar el día 25 de febrero de cada año.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+Los Ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos. Estas sesiones nunca excederán al 15 de febrero y tendrán como único objeto, concordar el Presupuesto de Egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el Presupuesto de Egresos Municipal en forma definitiva, se dispondrá, por el Presidente Municipal, su promulgación y publicación, teniendo la obligación de enviar la ratificación, o modificaciones en su caso, de dicho Presupuesto de Egresos, al Órgano Superior de Fiscalización, a más tardar el día 25 de febrero de cada año.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
 
@@ -1683,7 +1697,9 @@ El manejo de los recursos económicos estatales y municipales se sujetará a las
 
 Todos los pagos que efectúe el Gobierno se harán mediante orden escrita en la que se expresará la partida del presupuesto a cargo de la cual se hacen éstos.
 
-La Contaduría General de Glosa del Poder Legislativo, la Secretaría de la Contraloría del Estado y las contralorías de los ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este título, conforme a sus respectivas competencias.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+El Órgano Superior de Fiscalización, la Secretaría de la Contraloría del Estado y las Contralorías de los Ayuntamientos, vigilarán el cumplimiento de lo dispuesto en este título, conforme a sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2568,3 +2584,15 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Sala Constitucional iniciará el ejercicio de sus funciones 90 días después de la entrada en vigor del presente decreto.
 
 CUARTO.- El Consejo de la Judicatura proveerá lo necesario para la instalación y funcionamiento de la Sala Constitucional.
+
+G.G. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- Publíquese este decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación.
+
+TERCERO.- Hasta en tanto se expida la Ley respectiva la contaduría general de glosa, ejercerá sus funciones con arreglo a la ley orgánica para la Contaduría General de glosa.
+
+CUARTO.- Cuando en algún ordenamiento legal se haga referencia a la Contaduría General de Glosa, se entenderá por esta al Órgano Superior de Fiscalización.
+
+QUINTO.- En tanto no se nombre al Auditor Superior de Fiscalización, el Contador General de Glosa será el titular del Órgano Superior de Fiscalización de manera provisional.
