@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1992-09-23"
+last_updated: "1994-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3403,223 +3403,225 @@ El Inspector General de Policía convocará periódicamente a los Comandantes de
 
 La organización de los distintos servicios de la Policía, así como todo lo relativo al escalafón, licencias, antigüedades, postergas, recompensas, escuelas de Policía, uniformes y divisas, retiros, pensiones y seguros de los miembros de la Policía se sujetarán a reglamentos especiales que formulará el Ejecutivo del Estado.
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
+
 # LIBRO SEXTO
+
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 ## TITULO UNICO. DE LA DELINCUENCIA DE MENORES
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
+
 ### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 ###### ARTICULO 624.
 
-En el Estado de Chihuahua, los menores de dieciocho años no contraen responsabilidad criminal por las infracciones que cometan a las leyes del Estado. En consecuencia, no podrán ser perseguidos criminalmente ni sometidos a proceso ante las autoridades judiciales comunes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 625.
 
-Los menores de dieciocho años que infrinjan las leyes de defensa social o los reglamentos, circulares y demás disposiciones gubernativas de observancia general, quedan por este hecho bajo la protección del poder público, quien previos los estudios e investigaciones necesarias, dictará las medidas conducentes a encauzar su educación y alejarlos de la delincuencia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 626.
 
-Las funciones encomendadas al Estado en el artículo que antecede, las realizará por medio de los tribunales para menores, los que serán competentes para conocer dentro del territorio de su respectiva jurisdicción, de los casos de menores que infrinjan los estatutos jurídicos en los términos del artículo de referencia, y para aplicar las disposiciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 627.
 
-El ejercicio de la patria potestad o de la tutela, quedará sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que dicte el poder público de acuerdo con el presente Código. En su caso, el Ministerio Público ejercitará ante los tribunales correspondientes, las acciones que sean necesarias para expeditar el cumplimiento de las funciones y medidas tomadas por los tribunales para menores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 628.
 
-Los tribunales para menores desarrollarán su acción en forma tutelar y de protección para los menores, y coadyuvarán con las personas que sobre éstos ejerzan la patria potestad o la tutela, ya sea que dichas personas soliciten su intervención, o que el Tribunal para Menores las estime incapacitadas para ejercitarlas, o bien, en los casos de menores abandonados, incorregibles o inadaptados a la vida social.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 629.
 
-En materia de prevención social, los tribunales para menores desarrollarán su acción cooperando eficazmente y buscando la colaboración de todos los establecimientos escolares oficiales y particulares, y de todas las instituciones de servicio social.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 630.
 
-La base del procedimiento de los tribunales para menores será la observación previa del menor desde sus aspectos físico y mental, social y pedagógico, a fin de determinar las medidas a que debe ser sometido para su educación y readaptación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 631.
 
-Este Código deja al recto criterio y a la prudencia de los tribunales para menores, la forma de investigar la infracción imputada al menor, y la de estudiar la responsabilidad de éste, sin sujetarse a procedimiento alguno similar al judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 632.
 
-Los tribunales en el desempeño de sus funciones podrán adoptar medidas de carácter médico, de amonestación, de vigilancia, de guarda, de educación, de educación correccional, de corrección, de reforma, etc.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 633.
 
-Nunca podrá recluirse o internarse a un menor de dieciocho años en los locales o departamentos destinados a adultos, o en compañía de éstos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 634.
 
-La autoridad o agente de la policía a quien corresponda hacer la consignación del menor, lo conducirá, dentro de las veinticuatro horas siguientes a su aprehensión, al Tribunal para Menores respectivo, el que, desde luego, procederá en la forma prescrita por este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 635.
 
-La infracción de los dos artículos anteriores es causa grave de responsabilidad, debiendo los tribunales para menores y la Dirección de Gobernación cuidar de su cumplimiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 636.
 
-Toda falta que se cometa por particulares a los tribunales para menores o a sus miembros en el ejercicio de sus funciones, podrán ser corregidos por éstos por medio de multas de uno a quinientos pesos, o arresto hasta por treinta y seis horas. Cuando la falta la cometa alguna autoridad o el titular o empleados de una institución, el Tribunal para Menores denunciará el hecho al superior jerárquico respectivo, quien tendrá la obligación de corregir la falta conforme a sus facultades legales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 637.
 
-Todas las autoridades del Estado, todas las instituciones oficiales o privadas y los individuos en particular, que habiten en el territorio del Estado, tienen la obligación de auxiliar a los tribunales para menores en el desempeño de sus funciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 638.
 
-El Estado cuidará del sostenimiento, tratamiento de readaptación y vigilancia de los menores que en alguna forma se encuentren bajo el control de los tribunales para menores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 639.
 
-Si en el hecho que constituye la infracción intervienen menores de dieciocho años y mayores de esta edad, conocerán de él, por lo que respecta a los primeros, el tribunal para menores que corresponda, y por lo que respecta a los segundos, la autoridad común respectiva.
-
-La edad de unos y otros se fijará, para los efectos de este Código, atendiendo a la edad cronológica que indique el acta del Registro Civil respectiva, y a falta de ésta, por dictamen pericial. Sin embargo, en los casos dudosos o urgentes, y atendiendo a las condiciones idiosincrásicas del menor, el Tribunal para Menores resolverá según su criterio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 640.
 
-No será obstáculo para que un tribunal para menores continúe el procedimiento iniciado, el hecho de que el menor cumpla dieciocho años, sino que deberá seguir conociendo del caso hasta que emita su dictamen imponiendo las medidas que sean procedentes, las que desde luego se pondrán en ejecución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 641.
 
-Si al conocerse el dictamen del tribunal o bien, durante el tiempo de ejecución de las medidas en él decretadas, el menor cumple dieciocho años, el tribunal para menores que conoció del caso y la autoridad o personas encargadas de la ejecución de aquéllas, decidirán, tratándose de medidas de internación, si debe cumplirlas el menor en el establecimiento destinado a adultos, disponiendo en este evento, todo lo conducente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 642.
 
-En el caso del artículo anterior, el director del establecimiento para adultos a donde haya sido remitido el menor que cumplió dieciocho años, deberá informar periódicamente y cuantas veces lo solicite el Tribunal para Menores o la autoridad ejecutora, acerca de la conducta y demás particularidades que observe en el citado sujeto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 643.
 
-Las resoluciones de los tribunales para menores, relatarán sucintamente los hechos que las funden, y expresarán con toda claridad las medidas que deberán adoptarse respecto del menor, y en su caso, las normas a que deberá ser sometido, basándose en la naturaleza del hecho constitutivo de la infracción, o simplemente de la consignación al tribunal, en las conclusiones que arrojen los estudios practicados sobre la personalidad del menor y determinarán las obligaciones económicas que los padres y tutores deben reportar para el sostenimiento, atención médica, educación y readaptación del menor. En contra de esas resoluciones no cabrá ningún recurso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 644.
 
-De toda resolución de los tribunales para menores, se enviará copia a la autoridad ejecutora, a fin de que ésta vigile el cumplimiento de tales medidas. Cuando éstas consistan en internación del menor en algún establecimiento, se enviará copia, además al Director de él, así como de los estudios practicados, a fin de que se oriente la vida del menor de acuerdo con las indicaciones de éstos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 645.
 
-Sin perjuicio de lo establecido en el párrafo final del artículo 643 los tribunales para menores podrán variar sus resoluciones, substituyendo la medida que hubieren dictado por otra de las enumeradas en el artículo 632 de este Código, cuando las circunstancias del caso lo ameriten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 646.
 
-También podrán suspender la ejecución de la medida de internación, o simplemente su duración, y fijar un término de prueba, previa consulta a la autoridad ejecutora, cuando en carácter del menor y su anterior conducta permitan presumir que esta medida lo enmendará y apartará de la comisión de nuevas infracciones. Si durante el período de prueba el menor quebrantara las reglas de conducta impuestas por el Tribunal respectivo, o si de cualquier otro modo faltare a la confianza en él depositada, se hará efectiva la internación; y en caso contrario, se tendrá por no impuesta.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 647.
 
-Siempre que la averiguación practicada respecto a un menor, aparezca que fue inducido, aconsejado o ayudado para que cometiera la infracción, por uno o varios adultos, el Tribunal para Menores que conoce del caso, hará una compulsa de todas las constancias relativas y remitirá el testimonio al representante del Ministerio Público que corresponda, a efecto de que este funcionario proceda de acuerdo con sus atribuciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 648.
 
-Cuando de la averiguación practicada aparezca negligencia punible por parte de los padres, tutores o encargados de la custodia de los menores responsables, el Tribunal para Menores quedará facultado para determinar la responsabilidad económica de dichas personas y estará autorizado para decretar el embargo de sus bienes, a fin de cubrir esa responsabilidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 649.
 
-Si el estado del menor exige un tratamiento especial por ser un enfermo físico, mental, etc., podrá el Tribunal entregarlo a su familia o a otra digna de confianza, siempre que garantice ampliamente que lo someterá al tratamiento indicado, dándole para el efecto, instrucciones precisas. En caso contrario ordenará su ingreso a un establecimiento adecuado de la asistencia pública, remitiéndole copia de la resolución y de los estudios mencionados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 650.
 
-En los casos en que un menor no esté pervertido y se encuentre moralmente abandonado, el Tribunal para Menores respectivo, ordenará su ingreso a un establecimiento de educación particular, de la beneficencia privada, de la asistencia pública o dependiente del Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 651.
 
-Si la medida adoptada por el Tribunal fuere la de internación en un establecimiento que no existe en el lugar, podrá ser enviado al más próximo que cuente con la institución indicada. Los gastos de sostenimiento, educación y atención médica del menor serán satisfechos por el Estado, debiendo contribuir el Ayuntamiento correspondiente con la cuota de cinco pesos diarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 652.
 
-Toda cuestión que no esté prevista en este Código, la resolverán los tribunales para menores, según su criterio, debiendo siempre tener presentes las finalidades y propósitos de acción propios de la institución y los establecidos en la ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 ### CAPITULO III. DEL PROCEDIMIENTO
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION PRIMERA. ORGANIZACION
 
 ###### ARTICULO 653.
 
-Se establece en la Capital del Estado un Tribunal Central para Menores que tendrá jurisdicción en todo el Estado, y especialmente, en el Municipio de Chihuahua, y dependerá directamente del Poder Ejecutivo del Estado, sujetándose ambos en sus relaciones recíprocas, a las disposiciones de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
-En la cabecera de cada Municipalidad, con excepción de la de Chihuahua, habrá un Tribunal Municipal para Menores, con jurisdicción en el territorio de la misma, y que en su acción técnica-jurídica se sujetará a las instrucciones generales que reciba del Tribunal Central para Menores.
-
-En la cabecera de cada Sección Municipal habrá una Comisión Auxiliar de Protección de Menores, cuyas funciones serán de simple colaboración con los Tribunales para Menores.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION SEGUNDA. DEL TRIBUNAL CENTRAL PARA MENORES Y SUS INSTITUCIONES AUXILIARES
 
 ###### ARTICULO 654.
 
-El Tribunal Central para Menores tendrá jurisdicción sobre los Tribunales Municipales para Menores y podrá encomendar a éstos últimos, las investigaciones de los casos cuyo conocimiento se hubiere avocado, y en cualquier momento podrá revisar los fallos pronunciados por éstos, dictando en su lugar las medidas que estime adecuadas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 655.
 
-El Gobernador del Estado, por conducto de la Dirección de Gobernación, hará los nombramientos de los Jueces del Tribunal Central para Menores, el que será colegiado y estará integrado por tres miembros, uno de los cuales deberá tener hechos estudios especializados en psicología y que serán: un médico, un abogado y un maestro, los tres con título legal, mexicanos por nacimiento, mayores de veinticinco años, procurando que uno de ellos sea del sexo femenino.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 656.
 
-La Presidencia del Tribunal Central será rotativa, por turnos, y cada Presidente durará en su encargo seis meses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 657.
 
-El Tribunal será auxiliado en sus funciones por un Secretario de Acuerdos, el que será nombrado y removido libremente por el propio Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 658.
 
-Los Jueces del Tribunal Central para Menores concurrirán diariamente al despacho de los asuntos que se presenten al conocimiento del mismo, así como a las sesiones a que sean citados por el Presidente, para dictar las resoluciones definitivas en cada caso, las que se tomarán por mayoría de votos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 659.
 
-El Tribunal Central para Menores tendrá anexa una Escuela de Rehabilitación Social para Menores, en la que serán internados los menores que hayan sido consignados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 660.
 
-La Escuela de Rehabilitación Social para Menores tendrá, además del internado, cuatro departamentos que se denominarán: Departamento de Investigación Social, Departamento Pedagógico, Departamento Médico y Departamento Psicológico, los que se encargarán de llevar a cabo respectivamente, los estudios técnicos a que se refiere el artículo 630 de este Código.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 661.
 
-La Escuela de Rehabilitación Social para Menores estará bajo el control de un Director que tendrá para el desempeño de sus funciones, los ayudantes y vigilantes que sean necesarios, y dictará todas las disposiciones administrativas y técnicas tendientes al eficaz funcionamiento de la misma, y cumplirá en su caso, las órdenes que reciba del Tribunal Central; sin embargo, el control técnico de los cuatro Departamentos queda al cuidado directo del propio Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 662.
 
-Los ayudantes y vigilantes adscritos a la Dirección de la Escuela de Rehabilitación Social para Menores serán nombrados y removidos libremente por el Tribunal Central.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 663.
 
-El Tribunal Central para Menores contará asimismo con un Departamento de Trabajo Social integrado por personas adiestradas en trabajo social, cuyo número será determinado de acuerdo a las necesidades del Tribunal y a lo que señale el presupuesto respectivo. Cuando sean dos o más sus integrantes, uno desempeñará el cargo de jefe o coordinador del mismo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 664.
 
-El Departamento de Trabajo Social tendrá las siguientes funciones:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
-a).- Abrir un expediente a cada menor en el cual se anotarán sus datos personales, familiares y extrafamiliares.
-
-b).- Orientar a los padres de familia en la forma como deben tratar a sus hijos en relación con el comportamiento de éstos.
-
-c).- Establecer medios de comunicación entre la comunidad y el Tribunal para que éste conozca ampliamente las limitaciones y necesidades que aquejan a la sociedad con el fin de prevenir la delincuencia.
-
-d).- Elaborar programas junto con el Director de la Escuela de Rehabilitación y el Presidente del Tribunal para la prevención de la delincuencia de menores.
-
-e).- Las demás que le señale el Presidente del Tribunal.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION TERCERA. DE LOS TRIBUNALES MUNICIPALES PARA MENORES
 
 ###### ARTICULO 665.
 
-Los Tribunales Municipales para Menores serán colegiados y se integrarán en la misma forma que el Tribunal Central. Si en el Municipio no existieren profesionistas en las ramas requeridas, el Ayuntamiento lo hará saber al Tribunal Central enviando ternas integradas por personas del lugar, de las de mayor ilustración y reconocida buena conducta, y el Tribunal Central para Menores decidirá quienes de entre ellos integrarán el Tribunal, cuidando que preferentemente quede formado por personas idóneas y de uno u otro sexo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 666.
 
-Los Ayuntamientos están obligados a proporcionar al Tribunal Municipal, local y medios adecuados para el desempeño de sus labores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 667.
 
-La presidencia y la secretaría de los Tribunales Municipales para Menores serán rotativas y por turnos mensuales entre los mismos miembros del Tribunal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 668.
 
-Los miembros de los Tribunales Municipales para Menores tendrán las mismas obligaciones que este Código señala para los del Tribunal Central.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 669.
 
-Cuando dos Tribunales Municipales para Menores pretendan tener jurisdicción para conocer de un caso determinado, será competente para conocer el que haya prevenido entendiéndose prorrogada su jurisdicción en caso de que no la tuviere originalmente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 670.
 
-Las Comisiones Auxiliares de Protección para Menores se integrarán por el Presidente de la Sección Municipal respectiva, por el Juez de Paz del mismo lugar y por el maestro de escuela de mayor jerarquía; será Presidente de ella el Juez de Paz, y desempeñará la Secretaría el maestro que integre la Comisión. Estos cargos se entenderán para los efectos legales como concejiles.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 ### CAPITULO I. FINALIDADES
 
@@ -3627,57 +3629,59 @@ Las Comisiones Auxiliares de Protección para Menores se integrarán por el Pres
 
 ###### ARTICULO 671.
 
-Tan luego como un menor haya sido puesto a disposición del Tribunal, será matriculado en la Escuela de Rehabilitación Social para Menores, y aquél procederá a efectuar los estudios correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 672.
 
-El acuerdo del Tribunal se hará conocer inmediatamente al Director de la Escuela de Rehabilitación Social para Menores a quien se remitirá el menor, en su caso, para su debida internación, observación y vigilancia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 673.
 
-La internación del menor durará el tiempo que sea necesario para su observación y estudio, el que nunca excederá de veinte días, salvo que el Presidente del Tribunal, al ordenar la práctica del estudio correspondiente, acuerde que permanezca en su domicilio o en otro lugar adecuado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 674.
 
-Concluido el estudio de la personalidad del menor y del hecho que motivó la consignación, los estudios respectivos serán recogidos por el Director de la Escuela de Rehabilitación Social para Menores, quien los remitirá desde luego al Juez que conoce del caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 675.
 
-Recibido el expediente por el Juez, hará el proyecto de dictamen que será presentado al pleno, el que, previo estudio del expediente, dictará su resolución definitiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 676.
 
-Los Jueces del Tribunal para Menores deberán practicar a la Escuela de Rehabilitación las visitas que consideren convenientes para vigilar la debida aplicación de los tratamientos que hayan señalado en sus resoluciones; para escuchar las quejas que presenten los menores internados o sus familiares acerca del trato que reciban y para recomendar al Director de la Escuela las medidas de higiene o de trato moral y social que consideren convenientes para la rehabilitación de los menores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
 #### SECCION SEGUNDA. DE LOS TRIBUNALES MUNICIPALES PARA MENORES
 
 ###### ARTICULO 677.
 
-Inmediatamente que un menor quede a disposición del Tribunal, el Presidente de éste procederá a practicar un reconocimiento general, y decidirá de acuerdo con la gravedad del caso, si debe dejarse al menor en libertad, previa amonestación, si debe efectuarse el estudio integral de su personalidad, o si debe pasar al Tribunal Central para Menores para su estudio y dictamen.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 678.
 
-En el segundo caso del artículo anterior, cada uno de los Jueces procederá inmediatamente, dentro de su especialidad, a investigar la personalidad del menor desde los puntos de vista social, médico, psicológico y pedagógico.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 679.
 
-Concluido el estudio integral de la personalidad del menor, el Presidente del Tribunal citará a una audiencia en la que, reunidos sus tres miembros, determinarán de acuerdo con el artículo 632 de este Código, las medidas que deben adoptarse en cada caso. De esta resolución, así como de los informes técnicos que se hubieren formulado, se remitirá una copia al Tribunal Central para los efectos de estadística, control técnico y revisión del fallo, en su caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 680.
 
-En el último caso del artículo 677, se harán desde luego, las investigaciones que el Tribunal Central no pueda efectuar, y se remitirán con el expediente respectivo al mismo tiempo que el menor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 681.
 
-Al iniciarse cada caso, por leve que sea el motivo de la consignación, se matriculará al menor, apuntando todos los datos que el Tribunal Central hubiere acordado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 682.
 
-El Presidente del Tribunal Municipal dará aviso de cada iniciación al Tribunal Central y dispondrá lo que juzgue conveniente respecto a la internación provisional del menor en un establecimiento adecuado o que permanezca en su domicilio, cuidando en todo caso que la observación del menor no se entorpezca con motivo de su determinación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 ###### ARTICULO 683.
 
-En el Tribunal Central para Menores se elaborará la estadística general de los Tribunales para Menores en el Estado.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)
 
 # LIBRO SEPTIMO
 
@@ -9211,7 +9215,7 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
@@ -9265,11 +9269,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
@@ -9389,7 +9389,11 @@ Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación, dis
 
 Las declaratorias de conurbación para que surtan sus efectos serán publicadas por una sola vez en el Periódico Oficial del Estado y en dos periódicos de mayor circulación en la localidad que corresponda, debiendo inscribirse en la Oficina del Registro Público de la Propiedad respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -11254,3 +11258,11 @@ UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicaci
 P.O. 23 DE SEPTIEMBRE DE 1992.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE FEBRERO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- ESTA LEY ENTRARA EN VIGOR A LOS VEINTE DIAS SIGUIENTES DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN LAS DISPOSICIONES CONTENIDAS EN EL LIBRO SEXTO, TERCERA PARTE, DEL CODIGO ADMINISTRATIVO DEL ESTADO.
