@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1996-12-16"
+last_updated: "1997-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1095,9 +1095,29 @@ No serán procedentes conforme a la fracción I del artículo 154, las declaraci
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO III
+### CAPITULO II BIS
 
-DE LOS PRELIMINARES DE LA CONSIGNACION.
+DEL DEPOSITO DE MENORES.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+Artículo 180 Bis I.- Los menores que sean maltratados por parte de quienes ejerzan sobre ellos la patria potestad, tutela o los tengan bajo su custodia, podrán ser depositados provisionalmente a juicio del Juez, en el domicilio de un familiar o en una institución idónea, por resolución que él dicte.
+
+El ejercicio de tal acción corresponde indistintamente a quienes se señalan en el artículo 414 del Código Civil vigente en el Estado, quienes deberán de aportar los medios de prueba idóneos, y solo a falta o negativa de éstos por el Ministerio Público.
+
+Una vez presentada la solicitud de depósito del menor se trasladará el Juez al domicilio donde habita, previa citación de quien lo haya tenido bajo su custodia; hará comparecer a quien haya solicitado el depósito del menor, sin que se encuentre presente el maltratador, para que manifieste si ratifica o no su solicitud, excepto cuando se trate del maltratador y el Ministerio en su caso el Juez decretará el depósito del menor en el lugar mas conveniente a su juicio.
+
+En el mismo acto de la diligencia el Juez mandará intimar a quien lo hubiere solicitado, de que si en el término de treinta días no acredita haber intentado la demanda, acusación o querella, el depósito quedará sin efecto así como a quien haya tenido la custodia para que no moleste al menor ni a quien hubiere solicitado su depósito, apercibiéndolo de procederse en su contra a lo que hubiere lugar.
+
+Independientemente de lo anterior, el Juez puede decretar las medidas que estime procedentes a efecto de evitar molestias al solicitante y en su caso a los habitantes del domicilio o institución que se haya señalado para el depósito del menor.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+Artículo 180 Bis II.- Los menores que hayan sido sustraídos o retenidos ilícitamente en un lugar distinto de su domicilio legal, si fueren mayores de siete años, previamente se oirá su parecer para ser depositados provisionalmente en el domicilio de sus abuelos maternos o paternos indistintamente, de un familiar o en una institución idónea.
+
+En los casos señalados en este artículo se seguirá el mismo procedimiento previsto en el artículo que antecede.
+
+Contra el acuerdo que conceda el depósito de menores conforme al artículo anterior y éste, no procede ningún recurso, contra el que lo deniegue procede el recurso de apelación en ambos efectos.
 
 ###### Artículo 166.
 
@@ -1195,13 +1215,15 @@ No acreditándose haber intentado la demanda o acusación dentro del término se
 
 Si el juez que decretó la separación provisional no fuera el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuera competente, quien las confirmará o proveerá lo conducente.
 
+> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ENERO DE 1997)</small>
+
+### CAPITULO III
+
+DE LOS PRELIMINARES DE LA CONSIGNACION.
+
 ### CAPITULO IV
 
 DE LAS PROVIDENCIAS PRECAUTORIAS.
-
-### CAPITULO V
-
-DE LA SUSPENSION DE LA OBRA NUEVA.
 
 ###### Artículo 181.
 
@@ -1245,13 +1267,13 @@ Cuando el acreedor se rehusare en el acto de la diligencia a recibir la cosa, co
 
 El depositario que se constituya en estas diligencias será designado por el juez.
 
+### CAPITULO V
+
+DE LA SUSPENSION DE LA OBRA NUEVA.
+
 ### CAPITULO I
 
 REGLAS GENERALES.
-
-### CAPITULO II
-
-DEL TERMINO PROBATORIO.
 
 ###### Artículo 191.
 
@@ -1357,9 +1379,9 @@ Aquél contra quien se hubiere decretado un embargo precautorio, que es revocado
 
 En la indemnización a que se refiere el artículo anterior no quedan comprendidas las costas en caso de condenación.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA CONFESION.
+DEL TERMINO PROBATORIO.
 
 ###### Artículo 214.
 
@@ -1399,17 +1421,17 @@ La resolución que conceda la autorización para continuar la obra será apelabl
 
 En el mismo auto en que se decrete la suspensión de la obra, el juez prevendrá al solicitante que dentro del término de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construído; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y de una multa de veinticinco a mil pesos según la importancia de la obra.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA PRUEBA INSTRUMENTAL.
+DE LA CONFESION.
 
 ## TITULO QUINTO
 
 DE LA PRUEBA.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA PRUEBA PERICIAL.
+DE LA PRUEBA INSTRUMENTAL.
 
 ###### Artículo 223.
 
@@ -1511,9 +1533,9 @@ VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, y, en gene
 
 VIII.- Presunciones.
 
-### CAPITULO VI
+### CAPITULO V
 
-DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
+DE LA PRUEBA PERICIAL.
 
 ###### Artículo 240.
 
@@ -1617,9 +1639,9 @@ Las diligencias de prueba practicadas en otros juzgados en virtud de requerimien
 
 En los términos y para los efectos del artículo 49, los jueces nunca tendrán limitación temporal en materia de prueba.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DE LA PRUEBA TESTIMONIAL.
+DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
 
 ###### Artículo 260.
 
@@ -1747,9 +1769,9 @@ Las autoridades, las corporaciones oficiales y los establecimientos que forman p
 
 En caso de enfermedad legalmente comprobada del que deba declarar, el tribunal se trasladará al domicilio de aquél, donde se efectuará la diligencia en presencia de la otra parte si asistiere.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS Y DEMAS ELEMENTOS.
+DE LA PRUEBA TESTIMONIAL.
 
 ###### Artículo 287.
 
@@ -1871,9 +1893,9 @@ Los telegramas se tendrán como documentos públicos o privados según que sean 
 
 Si la parte contra quien se produce la prueba negare la autenticidad del telegrama, se procederá a la comprobación, y al efecto, se pedirá el original a la oficina que lo trasmitió, en la que quedará copia del mismo telegrama autorizado por el jefe de dicha oficina.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DE LAS PRESUNCIONES.
+DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS Y DEMAS ELEMENTOS.
 
 ###### Artículo 309.
 
@@ -1961,9 +1983,9 @@ IV.- Si los precios de plaza o de los costos de construcción dieren un resultad
 
 V.- En todo avalúo decidirán los peritos los gastos de conservación, cultivo y reparaciones ordinarias, fijándolos por las constancias que se les suministren, y a falta de ellas, por las reglas de su arte y por las costumbres del lugar.
 
-### CAPITULO X
+### CAPITULO IX
 
-DEL VALOR DE LAS PRUEBAS.
+DE LAS PRESUNCIONES.
 
 ###### Artículo 321.
 
@@ -1981,9 +2003,9 @@ Del reconocimiento se levantará un acta que firmarán todos los que a él concu
 
 Cuando fuere necesario se levantarán planos, se marcarán las señas de los objetos que hayan sido reconocidos y se tomarán fotografías de los lugares en que se practique la diligencia, a solicitud de parte o a juicio del juez.
 
-### CAPITULO XI
+### CAPITULO X
 
-DE LAS TACHAS.
+DEL VALOR DE LAS PRUEBAS.
 
 ###### Artículo 324.
 
@@ -2127,7 +2149,9 @@ Cada uno de los litigantes puede presentar hasta cinco testigos, y el juez podr�
 
 El juez tendrá cuidado de calificar los interrogatorios en los términos de este Capítulo y contra sus decisiones a este respecto, no habrá recurso alguno.
 
-### CAPITULO UNICO
+### CAPITULO XI
+
+DE LAS TACHAS.
 
 ###### Artículo 352.
 
@@ -2145,9 +2169,7 @@ La parte que presente esos medios de prueba deberá ministrar al tribunal los ap
 
 Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
-### CAPITULO I
-
-REGLAS GENERALES.
+### CAPITULO UNICO
 
 ###### Artículo 355.
 
@@ -2169,9 +2191,9 @@ No se admite prueba contra la presunción legal cuando la ley lo prohibe expresa
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA SENTENCIA EJECUTORIADA.
+REGLAS GENERALES.
 
 ###### Artículo 360.
 
@@ -2327,9 +2349,9 @@ La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a
 
 No tendrán ningún valor legal las pruebas rendidas con infracción de lo dispuesto en los capítulos anteriores de este título.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LA ACLARACION.
+DE LA SENTENCIA EJECUTORIADA.
 
 ###### Artículo 389.
 
@@ -2373,9 +2395,9 @@ El incidente de tachas suspende el término para los alegatos.
 
 DE LOS ALEGATOS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA REVOCACION.
+DE LA ACLARACION.
 
 ###### Artículo 398.
 
@@ -2391,9 +2413,9 @@ Pasado el término a que se refiere el artículo anterior el juez dictará su se
 
 DE LAS SENTENCIAS.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA APELACION.
+DE LA REVOCACION.
 
 ###### Artículo 400.
 
@@ -2429,9 +2451,9 @@ III.- A continuación, bajo la palabra CONSIDERANDO, consignará clara y concisa
 
 IV.- Pronunciará, por último, la parte resolutiva en los términos prevenidos en los artículos anteriores haciéndose la correspondiente declaración sobre costas.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA DENEGADA APELACION.
+DE LA APELACION.
 
 ###### Artículo 406.
 
@@ -2467,9 +2489,9 @@ No será necesario hacer declaración alguna para que las resoluciones causen ej
 
 DE LOS RECURSOS.
 
-### CAPITULO I
+### CAPITULO IV
 
-DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
+DE LA DENEGADA APELACION.
 
 ###### Artículo 410.
 
@@ -2507,9 +2529,9 @@ Siempre que los jueces o tribunales resuelvan que no procede la aclaración que 
 
 La interposición del recurso de aclaración interrumpe el término señalado para hacer uso del recurso de apelación.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
+DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
 
 ###### Artículo 419.
 
@@ -2527,9 +2549,9 @@ La promoción se hará saber a las otras partes para que dentro de tres días co
 
 Contra el auto en que se decida si se concede o no la revocación no se admitirá recurso alguno.
 
-### CAPITULO I
+### CAPITULO II
 
-DEL SECUESTRO JUDICIAL.
+DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
 
 ###### Artículo 423.
 
@@ -2679,9 +2701,9 @@ Todas las notificaciones de la segunda instancia, se harán en la forma que prev
 
 La revisión de las sentencias recaídas en los casos y procedimientos señalados en el artículo 956, de este Código y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la Segunda Instancia con intervención del Ministerio Público. Y aunque las partes no expresaren agravios la Sala de lo Familiar examinará la legalidad de la sentencia de Primera Instancia, observándose en lo conducente las formalidades previstas por el Artículo 448 de este Código, quedando entre tanto sin ejecutarse aquélla.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LOS REMATES.
+DEL SECUESTRO JUDICIAL.
 
 ###### Artículo 453.
 
@@ -2711,9 +2733,9 @@ Si la denegada apelación se declara inmprocedente (sic), el tribunal impondrá 
 
 DE LA EJECUCION DE LAS SENTENCIAS.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LOS INCIDENTES EN GENERAL.
+DE LOS REMATES.
 
 ###### Artículo 459.
 
@@ -2845,9 +2867,9 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA ACUMULACION DE AUTOS.
+DE LOS INCIDENTES EN GENERAL.
 
 ###### Artículo 486.
 
@@ -2917,7 +2939,9 @@ Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la
 
 DEL SECUESTRO Y DE LOS REMATES.
 
-### CAPITULO UNICO
+### CAPITULO II
+
+DE LA ACUMULACION DE AUTOS.
 
 ###### Artículo 496.
 
@@ -3343,9 +3367,7 @@ VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
 
 DE LOS INCIDENTES.
 
-### CAPITULO UNICO.
-
-REGLAS GENERALES PARA TODOS LOS JUICIOS.
+### CAPITULO UNICO
 
 ###### Artículo 561.
 
@@ -3379,9 +3401,9 @@ La sentencia de los incidentes será apelable en los casos en que lo fuere la se
 
 La sentencia de los incidentes sobre nulidad por defecto en el emplazamiento y falta de personalidad será apelable en ambos efectos.
 
-### CAPITULO I
+### CAPITULO UNICO.
 
-DEL JUICIO ORDINARIO.
+REGLAS GENERALES PARA TODOS LOS JUICIOS.
 
 ###### Artículo 568.
 
@@ -3485,9 +3507,9 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 
 DE LAS TERCERIAS.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL JUICIO EJECUTIVO.
+DEL JUICIO ORDINARIO.
 
 ###### Artículo 584.
 
@@ -3581,9 +3603,9 @@ Los impedimentos del juez en una tercería, ya en razón de competencia o por cu
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTERDICTOS.
+DEL JUICIO EJECUTIVO.
 
 ###### Artículo 603.
 
@@ -3635,9 +3657,9 @@ DE LA JURISDICCION CONTENCIOSA.
 
 ## TITULO PRIMERO
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INTERDICTO DE OBRA PELIGROSA.
+DE LOS INTERDICTOS.
 
 ###### Artículo 612.
 
@@ -3777,11 +3799,9 @@ La reconvención y la compensación, lo mismo que las excepciones opuestas con e
 
 DE LOS JUICIOS.
 
-### CAPITULO V
+### CAPITULO IV
 
-DEL JUICIO SUMARIO DE ALIMENTOS.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+DEL INTERDICTO DE OBRA PELIGROSA.
 
 ###### Artículo 638.
 
@@ -3815,9 +3835,11 @@ Respecto al término extraordinario de prueba se observará lo dispuesto en los 
 
 Las partes alegarán, de buena prueba en los términos a que se refieren los artículos 398 y 399 y se dictará la sentencia que corresponda dentro del término legal.
 
-### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
+### CAPITULO V
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
+DEL JUICIO SUMARIO DE ALIMENTOS.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 #### SECCION PRIMERA. DE LOS TITULOS QUE MOTIVAN EJECUCION Y DE LOS
 
@@ -4053,11 +4075,9 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declare infundada la oposición, el opositor será condenado en las costas y al pago de una multa equivalente al cinco por ciento sobre el interés del pleito, cuya multa se aplicará por mitad, al acreedor y al Fisco del Estado.
 
-### CAPITULO VII
+### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
 
-DEL JUICIO DE MENOR CUANTIA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 692.
 
@@ -4147,9 +4167,11 @@ Sea cual fuere la sentencia, contendrá siempre la expresión de que se dicta re
 
 Los documentos que se hubieren presentado en juicio deben devolverse a las partes, quedanlo (sic) en autos razón pormenorizada de ellos.
 
-### CAPITULO I
+### CAPITULO VII
 
-REGLAS GENERALES.
+DEL JUICIO DE MENOR CUANTIA.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 712.
 
@@ -4209,13 +4231,13 @@ El juez, en caso de que decrete la demolición dispondrá que se haga bajo la di
 
 En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio Público.
 
+### CAPITULO I
+
+REGLAS GENERALES.
+
 ### CAPITULO II
 
 DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
-
-### CAPITULO III
-
-DE LA ADMINISTRACION DEL CONCURSO.
 
 ###### Artículo 724.
 
@@ -4287,13 +4309,13 @@ De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
 
+### CAPITULO III
+
+DE LA ADMINISTRACION DEL CONCURSO.
+
 ### CAPITULO IV
 
 REGLAS COMUNES DEL DEUDOR.
-
-### CAPITULO I
-
-REGLAS GENERALES.
 
 ###### Artículo 733.
 
@@ -4369,9 +4391,9 @@ La impugnación contra las demás resoluciones que se dicten durante el procedim
 
 En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto no se opongan a lo dispuesto en el presente Capítulo.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS TESTAMENTARIAS.
+REGLAS GENERALES.
 
 ###### Artículo 743.
 
@@ -4417,9 +4439,9 @@ DE LA JURISDICCION MIXTA.
 
 DE LOS CONCURSOS.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTESTADOS.
+DE LAS TESTAMENTARIAS.
 
 ###### Artículo 749.
 
@@ -4473,9 +4495,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas. Si no lo presentare lo hará el síndico.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INVENTARIO Y AVALUO.
+DE LOS INTESTADOS.
 
 ###### Artículo 755.
 
@@ -4563,9 +4585,9 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una sesión (sic) de bienes solo hubiere acreedores hipotecarios se observarán las disposiciones contenidas en el título primero, tercera parte del libro cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA ADMINISTRACION.
+DEL INVENTARIO Y AVALUO.
 
 ###### Artículo 771.
 
@@ -4605,9 +4627,9 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido mediante los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 773.
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
+DE LA ADMINISTRACION.
 
 ###### Artículo 778.
 
@@ -4619,9 +4641,9 @@ Es también parte y podrá intervenir personalmente en las cuestiones relativas 
 
 JUICIOS SUCESORIOS.
 
-### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
+### CAPITULO VI
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
+DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
 
 ###### Artículo 779.
 
@@ -4817,9 +4839,9 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formulación.
 
-### CAPITULO VII
+### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
 
-DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 808.
 
@@ -4863,9 +4885,9 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevista por el artículo 808 podrán los herederos nombrar interventor conforme a la facultad que les concede al artículo 1625 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1628 del mismo Código.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA TRAMITACION POR NOTARIOS.
+DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 817.
 
@@ -4903,9 +4925,9 @@ En la misma sentencia resolverá quien es el albacea que será nombrado por el j
 
 La sentencia a que se refifere (sic) el artículo anterior será apelable en ambos efectos y la de segunda instancia causará ejecutoria para los que hubieren sido parte en el juicio.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL TESTAMENTO PUBLICO CERRADO.
+DE LA TRAMITACION POR NOTARIOS.
 
 ###### Artículo 825.
 
@@ -4983,9 +5005,9 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 El avalúo de los bienes servirá de base para fijar definitivamente la competencia del juez que deba conocer los de juicios sucesorios. Si esto ameritare que conozca del juicio otra autoridad distinta de la que conocía, se remitirá el expediente a quien corresponda, quedando válidas y subsistentes las actuaciones anteriores.
 
-### CAPITULO X
+### CAPITULO IX
 
-DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
+DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 841.
 
@@ -5089,9 +5111,9 @@ El auto que aprueba o reprueba la cuenta es apelable en ambos efectos.
 
 Concluído y aprobado el inventario el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO XI
+### CAPITULO X
 
-DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
+DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
 
 ###### Artículo 863.
 
@@ -5221,9 +5243,9 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos c
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO XII
+### CAPITULO XI
 
-DEL TESTAMENTO MILITAR.
+DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
 
 ###### Artículo 879 Bis.
 
@@ -5263,9 +5285,9 @@ La resolución que decida la oposición será apelable en ambos efectos.
 
 Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeción a lo previsto en los párrafos anteriores.
 
-### CAPITULO XIII
+### CAPITULO XII
 
-DEL TESTAMENTO MARITIMO.
+DEL TESTAMENTO MILITAR.
 
 ###### Artículo 880.
 
@@ -5287,9 +5309,9 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- Tratándose de la sucesión del patrimonio familiar, formado con los bienes a que se refiere el Artículo 734 del Código Civil del Estado, con la certificación de la defunción del autor de la herencia se acompañará el título que acredita la constitución del patrimonio de familia; y el Juez, de Oficio y sin más trámites que oír el parecer del Ministerio Público, dictará resolución en la que reconozca la calidad al heredero designado en la cláusula testamentaria y decrete la adjudicación en su favor de los bienes materia del patrimonio de familia. Dicha resolución servirá de título de propiedad al heredero y adjudicatario testamentario, ordenándose por la propia Autoridad Judicial su inscripción en el Registro Público de la Propiedad con las anotaciones que correspondan en el Título antecedente, todo lo cual se deberá efectuar en un plazo que nunca exceda de treinta días.
 
-### CAPITULO XIV
+### CAPITULO XIII
 
-EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
+DEL TESTAMENTO MARITIMO.
 
 ###### Artículo 881.
 
@@ -5313,9 +5335,9 @@ Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (s
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo. Esto se hará cuando no hubiere controversia alguna.
 
-### CAPITULO I
+### CAPITULO XIV
 
-DISPOSICIONES GENERALES.
+EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 886.
 
@@ -5335,9 +5357,9 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1391 y 1393 del Código Civil.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
+DISPOSICIONES GENERALES.
 
 ###### Artículo 890.
 
@@ -5351,9 +5373,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1458 
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
 
 ###### Artículo 893.
 
@@ -5381,11 +5403,9 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1572 d
 
 De la resolución que niegue la declaración solicitada puede apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA ADOPCION.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
 ###### Artículo 897.
 
@@ -5397,19 +5417,21 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS INFORMACIONES AD-PERPETUAM.
+DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 899.
 
 Hechas las publicaciones que ordena el artículo 1487 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a éste que lo envíe.
 
-### CAPITULO VI
+### CAPITULO V
 
-APEO Y DESLINDE.
+DE LAS INFORMACIONES AD-PERPETUAM.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 900.
 
@@ -5425,9 +5447,9 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
-### CAPITULO VII
+### CAPITULO VI
 
-DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
+APEO Y DESLINDE.
 
 ###### Artículo 902.
 
@@ -5487,11 +5509,9 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 Los actos de jurisdicción voluntaria a que haga mención este Código, se sujetarán a lo dispuesto en este Capítulo.
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
 
 ###### Artículo 914.
 
@@ -5607,11 +5627,11 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-DISPOSICIONES GENERALES.
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 927.
 
@@ -5669,9 +5689,9 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL ACUERDO DE ARBITRAJE.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -5719,9 +5739,9 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 401 y 405 fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-### CAPITULO III
+### CAPITULO II
 
-COMPOSICION DEL TRIBUNAL ARBITRAL.
+DEL ACUERDO DE ARBITRAJE.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -5779,9 +5799,9 @@ Las informaciones se protocalizarán ante el Notario que designe el promovente, 
 
 En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
+COMPOSICION DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -5841,9 +5861,9 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
+DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -5873,9 +5893,9 @@ DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 
 > <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
+DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -5943,11 +5963,11 @@ DEL ARBITRAJE.
 
 > <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
-IMPUGNACION DEL LAUDO.
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 958.
 
@@ -5969,11 +5989,11 @@ Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
-RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+IMPUGNACION DEL LAUDO.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 960.
 
@@ -6024,6 +6044,12 @@ Los Ayuntamientos podrán sujetar al arbitraje los negocios a su cargo con autor
 Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO VIII
+
+RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 964.
 
@@ -6537,7 +6563,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -6714,3 +6740,11 @@ P.O. 16 DE DICIEMBRE DE 1996.
 ###### ARTICULO TERCERO
 
 - Los asuntos que se encuentren en trámite al entrar en vigor este decreto, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos hasta su conclusión.
+
+P.O. 22 DE ENERO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
