@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1983-12-31"
+last_updated: "1985-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE SEPTIEMBRE DE 1985.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -433,11 +433,11 @@ LA DIRECCION GENERAL DE GOBERNACION
 
 Por los servicios prestados por la Secretaría de Gobierno se causarán y pagarán los derechos siguientes:
 
-I.-Por legalización de firmas ……………………………………...……………………….. $ 300.00
+I.-Por legalización de firmas ………………………………………………………………….. $ 300.00
 
-II.-Por registro y diligenciación de exhortos ………………………………………….…… " 500.00
+II.-Por registro y diligenciación de exhortos …………………………………………….…… " 500.00
 
-III.-Legalización de firmas de certificados y expedición de copias de Actas de Registro Civil…………………………………………………………………………………………… " 300.00
+III.-Legalización de firmas de certificados y expedición de copias de Actas de Registro Civil………………………………………………………………………………………………… " 300.00
 
 ###### ARTICULO 46.
 
@@ -453,67 +453,67 @@ Por los servicios prestados por la Tesorería General del Estado, se causarán y
 
 I.-Del Departamento de Impuesto Predial y Catastro;
 
-a).-Por la expedición de constancias de no adeudo ……………………………………… $ 150.00
+a).-Por la expedición de constancias de no adeudo ………………………………………… $ 150.00
 
-b).-Por la expedición de certificados de valor catastral vigente …………………..………." 150.00
+b).-Por la expedición de certificados de valor catastral vigente ……………………..………." 150.00
 
-c).-Por la expedición de constancias no especificas ………………………………..………" 150.00
+c).-Por la expedición de constancias no especificas …………………………………..………" 150.00
 
-d).-Por la certificación de planos expedidos por el Departamento, Independientemente del precio que se señale por la venta del mismo ………………………………………………………..." 200.00
+d).-Por la certificación de planos expedidos por el Departamento, Independientemente del precio que se señale por la venta del mismo …………………………………………………………..." 200.00
 
 II.-Del registro Público de la Propiedad.
 
 > <small>(F. DE E., G.O. 28 DE ENERO DE 1984)</small>
 
-a).-Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en lo siguientes incisos, por cada uno de ellos, sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación, por cada $ 100.00 o fracción ………………………………………………………………………………………………………." 0.75
+a).-Por la inscripción de documentos que contengan actos jurídicos relativos, a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en lo siguientes incisos, por cada uno de ellos, sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación, por cada $ 100.00 o fracción ……………………………………………………………………………………………………………." 0.75
 
 Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
 
-I.-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores……………………………………………………………………………………....$ 700.00
+I.-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores…………………………………………………………………………………………....$ 700.00
 
-2.-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución del régimen de propiedad en condominio y disolución de sociedad conyugal ……………………..……" 500.00
+2.-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución del régimen de propiedad en condominio y disolución de sociedad conyugal ………………………………………..……" 500.00
 
-b).-Por la inscripción de documentos relativos a fianzas, hipotecas; reconocimientos de adeudos, créditos refaccionarios, de habilitación o avío, mutuo con interés simple, garantizados con prenda o hipoteca, en el Registro Público de la Propiedad o en el de Comercio en su caso por cada $100.00 o fracción ……………………………………………………………………………" 0.40
+b).-Por la inscripción de documentos relativos a fianzas, hipotecas; reconocimientos de adeudos, créditos refaccionarios, de habilitación o avío, mutuo con interés simple, garantizados con prenda o hipoteca, en el Registro Público de la Propiedad o en el de Comercio en su caso por cada $100.00 o fracción ………………………………………………………………………………………………" 0.40
 
 Si alguno de los contratos anteriores son otorgados por Instituciones de Crédito, se estará a lo establecido en el artículo 157 de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares.
 
-c).-Por el registro de actas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la Autoridad Judicial o Administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 100.00 o fracción …………. $ 1.00
+c).-Por el registro de actas y demás diligencias relativas a embargos o cédulas hipotecarias decretadas por la Autoridad Judicial o Administrativa sobre el monto de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $ 100.00 o fracción ………………………. $ 1.00
 
-d).-Por la inscripción de arrendamientos hasta por 5 años, sobre el importe total de la renta durante el tiempo estipulado en el contrato por cada $ 100.00 o fracción ……............ " 1.00
+d).-Por la inscripción de arrendamientos hasta por 5 años, sobre el importe total de la renta durante el tiempo estipulado en el contrato por cada $ 100.00 o fracción ……………….…............ " 1.00
 
-1.-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes por cada $ 100.00 o fracción …………….…" 0.50
+1.-Si excede de cinco años, además de pagar la cuota señalada anteriormente se cobrará sobre el monto de las rentas de los años siguientes por cada $ 100.00 o fracción ………………….…" 0.50
 
-2.-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años por cada $ 100.00 o fracción ………………………………………........................." 2.00
+2.-Si el arrendamiento es por tiempo indefinido, sobre el importe total de la renta correspondiente a dos años por cada $ 100.00 o fracción ……………………………………….............................." 2.00
 
-e).-Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles …………………...………." 300.00
+e).-Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles …………………...……………." 300.00
 
-f).-Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales, de obra a precio alzado, aparcería agrícola o ganadera, y renta vitalicia …………………………………………………………………….…………" 500.00
+f).-Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales, de obra a precio alzado, aparcería agrícola o ganadera, y renta vitalicia …………………………………………………………………………………………….…………" 500.00
 
 g).-Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles, o de aumento de capital sobre el importe del capital o su aumento:
 
-1.-Hasta $ 100,000.00 ………………………………….………………………………..……" 0.20
+1.-Hasta $ 100,000.00 ………………………………….……………………………………..……" 0.20
 
-2.-Por lo que exceda de $ 1000,000.00 por cada $ 100.00 o fracción ………………….." 0.20
+2.-Por lo que exceda de $ 1000,000.00 por cada $ 100.00 o fracción ……………………….." 0.20
 
-3.-Por la inscripción de actas y estatutos constitutivos, de Sociedades Cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa, sobre el capital social, por cada $ 100.00 o fracción ……………………………$ 0.15
+3.-Por la inscripción de actas y estatutos constitutivos, de Sociedades Cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa, sobre el capital social, por cada $ 100.00 o fracción …………………………………$ 0.15
 
-4.-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital ………………………………………………………..." 1,000.00
+4.-Por la inscripción de documentos que modifiquen el acta constitutiva de sociedad siempre y cuando no se aumente el capital ……………………………………………………………..." 1,000.00
 
-5.-Por la inscripción de actas constitutivas y modificación de Asociaciones Civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles ………………………………………………………………………………….." 500.00
+5.-Por la inscripción de actas constitutivas y modificación de Asociaciones Civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles ………………………………………………………………………………………….." 500.00
 
-6.-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles …………………………………." 500.00
+6.-Por la disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles ………………………………………." 500.00
 
-7.-Por la inscripción de poderes y su cancelación ………………………………………" 500.00
+7.-Por la inscripción de poderes y su cancelación ……………………………………………" 500.00
 
-8.-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $100.00 o fracción ………………………………………………………………………….." 0.45
+8.-Por la inscripción de documentos relativos a la enajenación de bienes muebles por cada $100.00 o fracción ……………………………………………………………………..…………….." 0.45
 
-Si no tienen valor señalado y éste no puede determinarse se causará ……….…………" 500.00
+Si no tienen valor señalado y éste no puede determinarse se causará …………..…………" 500.00
 
 h).-Por la inscripción de la constitución del fideicomiso traslativo de dominio o transmisión de dominio en ejecución de fideicomiso sobre el mayor valor que resulte de comparar el valor catastral o provisional en su caso con el consignado en la operación por cada $ 100.00 o fracción …." 0.75
 
-Por la inscripción de la constitución del fideicomiso no translativo de dominio cuando se determine su valor por cada $ 100.00 o fracción …………………………………………" 0.35
+Por la inscripción de la constitución del fideicomiso no translativo de dominio cuando se determine su valor por cada $ 100.00 o fracción ………………………………………………………………" 0.35
 
-Cuando en el acto inscribible no se determine su valor ………………………………." 1,000.00
+Cuando en el acto inscribible no se determine su valor ……………………………………." 1,000.00
 
 La cancelación de cualquiera de los actos anteriores causará el 25% de la cantidad pagada por su inscripción.
 
@@ -523,15 +523,15 @@ j).-Por la modificación o rectificación de documentos ya registrados, en que n
 
 Cuando las rectificaciones sean de aumento a las obligaciones contraidas con anterioridad, los derechos se cobrarán sobre la diferencia en demasía que resulte de tales rectificaciones, aplicando el inciso que corresponda en la presente fracción.
 
-k).-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción……………………………………………………….$ 150.00
+k).-Por toda anotación o cancelación cuando no sea de las que deben hacerse al mismo tiempo como consecuencia de la inscripción…………………………………………………………….$ 150.00
 
-l).-Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria de no inscripción de inmuebles, de limitación de dominio……………………………………………………………………………………...." 300.00.
+l).-Por la expedición de certificados de gravámenes o libertad de éstos, de inscripciones de inmuebles, de afectación agraria de no inscripción de inmuebles, de limitación de dominio……………………………………………………………………………………………...." 300.00.
 
-1).-Por el de no poseer bienes ……………………………………………………………..." 100.00
+1).-Por el de no poseer bienes …………………………………………………………………..." 100.00
 
-2).-Por cualquier otro que se expida y que no esté comprendido anteriormente …….…" 300.00
+2).-Por cualquier otro que se expida y que no esté comprendido anteriormente ……….…" 300.00
 
-3).-Por la expedición de copias certificadas, por cada hoja ……………..……………….." 150.00
+3).-Por la expedición de copias certificadas, por cada hoja ……………..……………….….." 150.00
 
 m).-Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre las cuotas señaladas en esta fracción;
 
@@ -559,7 +559,7 @@ n).-Por cada inscripción de documentos cuyo valor sea indeterminado, si la oper
 
 10.-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
 
-III.-Por la certificación de documentos públicos que hayan sido expedidos por la Tesorería General del Estado, por hoja ……………………………………………………………. $ 150.00
+III.-Por la certificación de documentos públicos que hayan sido expedidos por la Tesorería General del Estado, por hoja ………………………………………………………………………………. $ 150.00
 
 ### CAPITULO SEPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL
 
@@ -569,35 +569,35 @@ PODER JUDICIAL DEL ESTADO
 
 Por los servicios prestados por la Dirección General de Tránsito, se causarán y cobrarán los derechos siguientes:
 
-I.-Expedición de licencias de automovilistas considerados de segunda, con duración de dos años, incluyendo examen de capacidad y médico ……………………………………….$ 1,000.00
+I.-Expedición de licencias de automovilistas considerados de segunda, con duración de dos años, incluyendo examen de capacidad y médico ………………………………………………….$ 1,000.00
 
-II.-Expedición de licencias de primera para choferes, o conductores de vehículos. Con duración de dos años, incluyendo examen de capacidad y médico ………………………………" 1,400.00
+II.-Expedición de licencias de primera para choferes, o conductores de vehículos. Con duración de dos años, incluyendo examen de capacidad y médico ………………………………………" 1,400.00
 
-III.-Expedición de licencias para motociclistas con duración de dos años, incluyendo examen de capacidad y médico …………………………………………………………………….." 1,000.00
+III.-Expedición de licencias para motociclistas con duración de dos años, incluyendo examen de capacidad y médico …………………………………………………………………………….." 1,000.00
 
-IV.-Expedición o revalidación de permisos para ocupar zonas de estacionamiento del servicio urbano incluyendo carros de alquiler, que se fijen por las oficinas correspondientes, de acuerdo con el Reglamento de Tránsito por vehículos, anualmente ……………………………..." 600.00
+IV.-Expedición o revalidación de permisos para ocupar zonas de estacionamiento del servicio urbano incluyendo carros de alquiler, que se fijen por las oficinas correspondientes, de acuerdo con el Reglamento de Tránsito por vehículos, anualmente ………………………………………..." 600.00
 
-V.-Permisos de estacionamiento para vehículos de servicios particulares que se fijen por la Oficina correspondiente, de acuerdo con las disposiciones relativas del Reglamento de Tránsito, por cada año y por cajón ……………………………………………………………….$..1,400.00
+V.-Permisos de estacionamiento para vehículos de servicios particulares que se fijen por la Oficina correspondiente, de acuerdo con las disposiciones relativas del Reglamento de Tránsito, por cada año y por cajón ………………………………………………………………………………….$..1,400.00
 
-VI.-a).-Permisos especiales para manejar sin licencia hasta por el término de quince días ………………………………………………………………………………………………..." 400.00
+VI.-a).-Permisos especiales para manejar sin licencia hasta por el término de quince días ………………………………………………………………………………………………………..." 400.00
 
-b).-Permisos especiales para manejar a personas mayores de 16 y menores de 18 años, durante tres meses …………………………………………………………………………………." 400.00
+b).-Permisos especiales para manejar a personas mayores de 16 y menores de 18 años, durante tres meses …………………………………………………………………………………………." 400.00
 
-c).-Permisos especiales, hasta por 30 días a personas para aprender a manejar …… " 400.00
+c).-Permisos especiales, hasta por 30 días a personas para aprender a manejar ……… " 400.00
 
 VII.-Por la dotación de placas para la circulación de vehículos de motor y otros;
 
 a).-De servicio particular y de demostración, anualmente ……………………………….. " 1,500.00
 
-b).-De servicio público de pasajeros o carga; de alquiler, anualmente ……………..." 1,000.00
+b).-De servicio público de pasajeros o carga; de alquiler, anualmente …………………..." 1,000.00
 
-c).-Maquinaria de construcción y tractores agrícolas, anualmente …………………….." 800.00
+c).-Maquinaria de construcción y tractores agrícolas, anualmente ………………………….." 800.00
 
-d).-Para motocicletas, aun las de demostración y prueba, anualmente ………………" 800.00
+d).-Para motocicletas, aun las de demostración y prueba, anualmente ……………………" 800.00
 
-c).-Para carros de mano, carretas y demás vehículos que no usen motor de combustión interna, anualmente …………………………………………………………………………………..." 200.00
+c).-Para carros de mano, carretas y demás vehículos que no usen motor de combustión interna, anualmente ………………………………………………………………………………………..." 200.00
 
-f).-Por el permiso provisional para la circulación sin placas, por períodos de cinco días sin exceder de 30 días, por día ………………………………………………………………." 20.00
+f).-Por el permiso provisional para la circulación sin placas, por períodos de cinco días sin exceder de 30 días, por día …………………………………………………………………………………." 20.00
 
 La expedición de placas y tarjetas de circulación a que se refieren los incisos a), b) y c) de esta fracción, se hará por bienios, cobrándose el derecho correspondiente a dos anualidades.
 
@@ -605,21 +605,23 @@ Si la expedición de las placas y tarjetas de circulación, se efectúa durante 
 
 VIII.-Por la prestación de otros servicios.
 
-a).-Expedición de constancias de no infracción ………………………………………… " 200.00
+a).-Expedición de constancias de no infracción ……………………………………………… " 200.00
 
-b).-Baja de automóviles …………………………………………………………………….." 200.00
+b).-Baja de automóviles ………………………………………………………………………….." 200.00
 
-c).-Por modificaciones a la tarjeta de circulación ……………………………………….." 400.00
+c).-Por modificaciones a la tarjeta de circulación …………………………………………….." 400.00
 
-d).-Por modificaciones de los datos en la licencia para manejar vehículos de motor ….." 600.00
+d).-Por modificaciones de los datos en la licencia para manejar vehículos de motor …….." 600.00
 
-e).-Duplicado de licencias para conducir vehículos de motor …………………………….." 600.00
+e).-Duplicado de licencias para conducir vehículos de motor ………………………………..." 600.00
 
-f).-Duplicado de tarjetas de circulación ……………………………………………………." 400.00
+f).-Duplicado de tarjetas de circulación …………………………………………………………." 400.00
 
 ### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
 
 DE ENSEÑANZA MEDIA
+
+> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
 
 ###### ARTICULO 49.
 
@@ -627,19 +629,149 @@ Por servicios prestados por la Dirección General de Gobernación, se causarán 
 
 I.-Por legalización de firmas comprenden:
 
-a).-Certificados de Registro Civil ……………………………………………………………$ 300.00
+a).-Certificados de Registro Civil …………………………………………………………………$ 300.00
 
-b).-Testimonios notariales y escrituras públicas …………………………………………..." 500.00
+b).-Testimonios notariales y escrituras públicas ………………………………………………..." 500.00
 
-c).-Firmas de funcionarios de Gobierno del Estado ………………………………………." 300.00
+c).-Firmas de funcionarios de Gobierno del Estado ……………………………………………." 300.00
 
-II.-Por registro de exhortos de trámite ……………………………………………………..." 500.00
+II.-Por registro de exhortos de trámite …………………………………………………………..." 500.00
 
-III.-Por diligenciación de exhortos de trámite ………………………………………………" 500.00
+III.-Por diligenciación de exhortos de trámite ……………………………………………………" 500.00
 
 IV.-Por la expedición de constancias sobre antecedentes penales en el Casillero Judicial. " 300.00
 
-### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
+### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
+
+DIRECCION GENERAL DE EDUCACION POPULAR
+
+(ADICONADO, G.O. 12 DE SEPTIEMBRE DE 1985)
+
+ARTICULO 53 BIS.-Por los servicios prestados por la Dirección General de Educación Popular se causarán y cobrarán los siguientes derechos
+
+TARIFAS:
+
+1 2 3
+
+1.- Inscripción licenciatura en educación básica $ 6,700.00 4,000.00
+
+2.- Inscripción de educación normal básica 3,000.00 2,000.00
+
+3.- Expedición de certificado de estudios
+
+completos e incompletos 1,000.00 1,000.00 1,000.00
+
+4.- Expedición de carta de pasante 2,000.00
+
+5.- Expedición de título profesional 7,000.00 7,000.00
+
+6.- Duplicado del acta de examen profesional 1,000.00 1,000.00
+
+7.- Examen extraordinario 400.00 400.00
+
+8.- Examen a título de suficiencia 800.00 800.00
+
+9.- Examen de regularización 1,000.00 1,000.00
+
+10.- Examen de última oportunidad 1,500.00 1,500.00
+
+11.- Expedición de constancia servicio social 200.00
+
+12.- Expedición de constancia de no examen
+
+profesional 200.00
+
+13.- Expedición de constancia de calificación 500.00 500.00
+
+14.- Duplicado de credencial 200.00 200.00
+
+15.- Duplicado de boleta de calificación 200.00 200.00
+
+16.- Certificación de copia fotostática de titulo
+
+profesional 200.00 200.00 200.00
+
+17.- Certificación de copia fotostática de acta
+
+de nacimiento 200.00 200.00 200.00
+
+18.- Certificación de título de profesor de
+
+educación primaria (lugar y fecha de examen
+
+profesional) 1,000.00
+
+19.- Certificación de copia fotostática de
+
+certificado de secundaria 200.00 200.00 200.00
+
+20.- Expedición a punto y raya de carta de
+
+pasante 2,000.00 2,000.00 2,000.00
+
+21.- Expedición a punto y raya de título
+
+profesional 2,000.00 2,000.00 2,000.00
+
+22.- Expedición de constancias de
+
+equivalencia y revisión de estudios 1,000.00
+
+23.- Expedición de certificado de equivalencia
+
+de estudios 2,000.00
+
+24.- Certificación de firmas a boletas, acta de
+
+examen, constancia de escolaridad y carta de
+
+buena conducta 200.00
+
+25.- Certificación de boletas de educación
+
+primaria 200.00
+
+26.- Reexpedición de certificado de educación
+
+primaria 200.00
+
+27.- Expedición de constancia de educación
+
+primaria 300.00
+
+28.- Expedición de constancias de educación
+
+preescolar 100.00
+
+29.- Incorporación de escuelas primarias
+
+particulares 100,000.00
+
+30.- Incorporación de jardines de niños
+
+particulares 100,000.00
+
+31.- Cuota anual de escuelas primarias
+
+y jardines de niños particulares 5% del pago
+
+total de
+
+inscripción y
+
+colegiaturas
+
+32.- Examen a título de suficiencia de
+
+educación primaria $ 1,000,000.00
+
+Serán sujetos de la tarifa número (1) quienes soliciten los servicios anteriormente descritos a las escuelas normales: Enrique C. Rébsamen, Carlos A. Carrillo, Juan Enríquez y Manuel R. Gutiérrez; a la Universidad Pedagógica Veracruzana y al Instituto de Regularización Pedagógica.
+
+A la tarifa No. (2) quienes soliciten los servicios a los Centros de Estudios Superiores de Educación Rural: Luis H. Monroy y Rafael Ramiréz.
+
+A la tarifa No. (3) quedarán sujetos quienes soliciten los servicios descritos, a las oficinas de Educación Popular.
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
 
 ###### ARTICULO 50.
 
@@ -701,57 +833,57 @@ Solamente se atenderán peticiones del depositante o destinatario por cada una �
 
 ABONADOS (Foráneos y urbanos):
 
-Por derecho de enlace telefónico mensualmente, más el importe de telegramas y conferencias que depositen o celebren de conformidad con las tarifas en vigor ………………………..225.00
+Por derecho de enlace telefónico mensualmente, más el importe de telegramas y conferencias que depositen o celebren de conformidad con las tarifas en vigor ………………………………..225.00
 
 Subscritos urbanos
 
-Anualmente …………………………………………………………………………………450.00
+Anualmente …………………………………………………………………………………………450.00
 
-### CAPITULO UNICO
+### CAPITULO DECIMO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
 
 ###### ARTICULO 51.
 
-Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción ……………………......................................$. 30.00
+Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción …………………………......................................$. 30.00
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Dirección General de Enseñanza Media se causarán y pagarán los Derechos siguientes:
+Por los servicios prestados por la Dirección General de Enseñanza Media se causarán y pagarán los derechos siguientes:
 
-CONCEPTO Bachilleres Secundaria Otras
+BACHILLERES SECUNDARIA OTRAS
 
-I.-Inscripción $ 400.00 $ 360.00 $ 360.00
+I.-Inscripción $ 600.00 $ 540.00 $ 540.00
 
-II.-Cuota de Incorporación 400.00 400.00 400.00
+II.- Cuota de incorporación 1,000.00 900.00 950.00
 
-III.-Revalidación de Estudios por materia 30.00 30.00 30.00
+III.- Revalidación de estudios por materia 60.00 60.00 60.00
 
-IV.-Examen Extraordinario de Regularización 180.00 180.00 180.00
+IV.- Examen extraordinario de regularización 350.00 350.00 350.00
 
-V.-Examen a Título de Suficiencia 360.00 360.00 360.00
+V.- Examen a título de suficiencia 700.00 700.00 700.00
 
-VI.-Expedición de Certificados 360.00 360.00 360.00
+VI.- Expedición de certificados 550.00 550.00 550.00
 
-VII.-Copias de Documentos 75.00 75.00 75.00
+VII.- Copias de documentos 120.00 120.00 120.00
 
-> <small>(F. DE E. G.O. 28 DE ENERO DE 1984)</small>
+VIII.- Diploma 450.00
 
-VIII.-Diploma de bachilleres 300.00
+IX.- Legalización de copias fotostáticas 120.00 120.00 120.00
 
-IX.-Legalización de copias fotostáticas 75.00 75.00 75.00
+X.- Examen final de aptitudes 540.00
 
-X.-Examen Final de Aptitud 360.00
+XI.- Certificado o diploma de aptitud 450.00
 
-XI.-Certificado ó Diploma de Aptitud 300.00
+XII.- Examen de Admisión 500.00 500.00 500.00
 
-XII.-Examen de Admisión 300.00 300.00 300.00
-
-XIII.-Cuota de Servicios Administrativos 360.00 360.00 360.00
+XIII.- Cuota de servicios administrativos 540.00 540.00 540.00
 
 ###### ARTICULO 53.
 
 Las escuelas oficiales y las particulares incorporadas al Sistema de Enseñanza Media en el Estado, cobrarán los Derechos a que se refiere el artículo anterior. Las cuotas por concepto de Colegiaturas de las escuelas particulares, deberán ser sometidas a la autorización de la Dirección General de Enseñanza Media, acompañadas de un estudio socio económico al respecto y no podrán exceder del 50% de las cuotas correspondientes al año lectivo anterior.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
 
 ### CAPITULO UNICO
 
@@ -770,6 +902,8 @@ II.-Por los certificados y copias certificadas distintas a las señaladas en los
 Las cuotas señaladas en este Título para certificados o copias certificadas se entienden referidas a documentos que se expiden en hojas de papel que no excedan de 35 centímetros de largo por 24 centímetros de ancho y no deben contener más de 80 renglones en junto, por ambos lados, los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones, causarán doble cuota.
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 56.
 
@@ -1014,3 +1148,21 @@ DADA en el Salón de Sesiones de la Honorable Quincuagésima Tercera Legislatura
 Por tanto, mando se imprima, promulgue, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 30 de diciembre de 1983. Lic. AGUSTIN ACOSTA LAGUNES.- Rúbrica.- El Secretario de Gobierno, Lic. IGNACIO MORALES LECHUGA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 12 DE SEPTIEMBRE DE 1985.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 12 DE SEPTIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
