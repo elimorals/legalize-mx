@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1998-10-19"
+last_updated: "1999-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 1999.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -33,7 +33,7 @@ Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la U
 
 (REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 Disposiciones preliminares
 
@@ -6505,7 +6505,7 @@ ARTICULO 1,254.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SO
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO III(sic). ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ARTICULO 1,256.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
@@ -9743,6 +9743,8 @@ ARTICULO 2,397.- Las partes no pueden, bajo pena de nulidad, convenir de anteman
 
 ARTICULO 2,398.- Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación y de veinte años para las fincas destinadas al comercio o a la industria.
@@ -9761,9 +9763,13 @@ ARTICULO 2,404.- Se prohibe a los Magistrados, a los Jueces y a cualesquiera otr
 
 ARTICULO 2,405.- Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,406.- El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formalidad se imputará al arrendador.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,407.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -9782,6 +9788,8 @@ ARTICULO 2,411.- Los arrendamientos de bienes nacionales, municipales o de estab
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ARTICULO 2,412.- El arrendador está obligado, aunque no haya pacto expreso:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -9879,6 +9887,8 @@ ARTICULO 2,446.- Si la misma cosa se ha dado en arrendamiento separadamente a do
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
@@ -9891,6 +9901,8 @@ ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuan
 
 Del arrendamiento de fincas urbanas destinadas a la Habitación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,448.- Las disposiciones contenidas en los artículos 2448-A, 2448-B, 2448-G y 2448-H son de orden público e interés social, por tanto son irrenunciables y en consecuencia cualquier estipulación en contrario se tendrá por no puesta.
@@ -9899,9 +9911,13 @@ ARTICULO 2,448.- Las disposiciones contenidas en los artículos 2448-A, 2448-B, 
 
 ARTICULO 2,448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad correspondiente como necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -9910,6 +9926,8 @@ ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fin
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -9957,9 +9975,11 @@ Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hi
 
 No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,448 I.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+(REFORMADO, D.O.F. 21 DE JULIO DE 1993)N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.
 
 ARTICULO 2,448 J.- En el caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
 
@@ -9975,17 +9995,29 @@ V.- La compra-venta realizada en contravención de lo dispuesto en este artícul
 
 En caso de que el arrendatario no cumpla con las condiciones establecidas en las fracciones II o III de este artículo, precluirá su derecho.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,448 K.- Si varios arrendatarios hicieren uso del derecho de preferencia a que se refiere el artículo anterior, será preferido el que tenga mayor antigüedad arrendando parte del inmueble y, en caso de ser igual, el que primero exhiba la cantidad exigible en los términos de la fracción II del artículo anterior, salvo convenio en contrario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,448 L.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,449.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,450.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,451.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,452.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -10032,6 +10064,8 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ### CAPITULO V. Del arrendamiento de fincas rústicas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,453.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -10097,6 +10131,8 @@ ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,478.- Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dado a la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
@@ -10133,21 +10169,33 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,484.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2478 y 2479.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,485.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,486.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 ARTICULO 2,487.- Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del artículo 2478. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,488.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,489.- El arrendador puede exigir la rescisión del contrato:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -10157,13 +10205,19 @@ II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
 IV.- Por daños graves a la cosa arrendada imputables al arrendatario; y
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
 V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -10175,11 +10229,15 @@ II.- Por la pérdida total o parcial de la cosa arrendada en los términos de lo
 
 III.- Por la existencia de defectos o vicios ocultos de la cosa, anteriores al arrendamiento y desconocidos por el arrendatario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
+
 ARTICULO 2,491.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,492.- Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pretenda hacer al (sic) arrendatario, podrá éste pedir la rescisión del contrato.
 
 ARTICULO 2,493.- Si el usufructuario no manifestó su calidad de tal al hacer el arrendamiento, y por haberse consolidado la propiedad con el usufructo, exige el propietario la desocupación de la finca, tiene el arrendatario derecho para demandar al arrendador la indemnización de daños y perjuicios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 ARTICULO 2,494.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
@@ -10985,7 +11043,7 @@ ARTICULO 2,768.- La deuda de juego o de apuesta prohibidos no puede compensarse,
 
 ARTICULO 2,769.- El que hubiere firmado una obligación que en realidad tenía por causa una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz, la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
 
-ARTICULO 2,770.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2,765.
+ARTICULO 2,770.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor (sic) debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2,765.
 
 ARTICULO 2,771.- Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una participación legítima, y en el segundo, los de una transacción.
 
@@ -12043,7 +12101,7 @@ ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca qu
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
+(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
 ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
 
@@ -12062,6 +12120,8 @@ III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE AL DECRETO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 17 DE ABRIL DE 1999.</small>
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -12757,9 +12817,13 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
+
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
 PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
@@ -12770,6 +12834,8 @@ I.- No se encuentren arrendados al 19 de octubre de 1993;
 II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o
 
 III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TEXTO, REMITIRSE A LOS ARTICULOS DEL DECRETO PUBLICADO EN LA G.O. DE 17 DE ABRIL DE 1999.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 1998)</small>
 
@@ -12832,3 +12898,7 @@ Las adopciones realizadas con anterioridad a la entrada en vigor del presente De
 D.O.F. 19 DE OCTUBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+G.O. 17 DE ABRIL DE 1999.
+
+UNICO.- El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
