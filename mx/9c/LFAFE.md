@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "1981-12-31"
+last_updated: "1985-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -58,17 +58,17 @@ III.- La Secretaría de la Defensa Nacional, y
 
 IV.- A las demás autoridades federales en los casos de su competencia.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 3.
 
-Las autoridades de los Estados, Municipios y del Distrito Federal en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y sus Reglamentos les señalan.
+Las autoridades de los Estados, del Distrito Federal y de los Municipios, en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y su Reglamento señalan.
 
 ###### ARTICULO 4.
 
 Corresponde al Ejecutivo de la Unión por conducto de las Secretarías de Gobernación y de la Defensa Nacional, dentro de las respectivas atribuciones que esta Ley y su Reglamento les señalen, el control de todas las armas en el país, para cuyo efecto se llevará un Registro Federal de Armas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 5.
 
@@ -118,13 +118,19 @@ III.- Escopetas en todos sus calibres y modelos, excepto las de cañón de longi
 
 IV.- Escopetas de 3 cañones en los calibres autorizados en la fracción anterior, con un cañón para cartuchos metálicos de distinto calibre.
 
-V.- Rifles de alto poder, de repetición o de funcionamiento semi-automático, no convertibles en automáticos, con la excepción de carabinas calibre .30" M-1 y M-2; fusiles, mosquetones y carabinas calibres 7 y 7.62 mm. y fusiles Garand calibre .30".
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+V.- Rifles de alto poder, de repetición o de funcionamiento semi-automático, no convertibles en automáticos, con la excepción de carabinas calibre, 30", fusil, mosquetones y carabinas calibre .223", 7 y 7.62 mm. y fusiles Garand calibre .30".
 
 VI.- Rifles de alto poder de calibres superiores a los señalados en el inciso anterior, con permiso especial para su empleo en el extranjero, en cacería de piezas mayores no existentes en la fauna nacional.
 
-VII.- Las demás armas de características deportivas de acuerdo con las normas legales de cacería, aplicables por la Secretaría de Agricultura y Ganadería, así como los reglamentos nacionales e internacionales para tiro de competencia.
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de esta Ley, únicamente como complemento del atuendo charro, cuando concurran a actos sociales u oficiales y eventos de ese deporte.
+VII.- Las demás armas de características deportivas de acuerdo con las normas legales de cacería, aplicables por las Secretarías de Estado u Organismos que tengan injerencia, así como los reglamentos nacionales e internacionales para tiro de competencia.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+A las personas que practiquen el deporte de la charrería podrá autorizárseles revólveres de mayor calibre que el de los señalados en el artículo 9o. de esta Ley, únicamente como complemento del atuendo charro, debiendo llevarlos descargados.
 
 ###### ARTICULO 11.
 
@@ -134,7 +140,9 @@ a).- Revólveres calibre .357" Magnum y los superiores a .38" Especial.
 
 b).- Pistolas calibre 9 mm. Parabellum, Luger y similares, las .38" Super y Comando, y las de calibres superiores.
 
-c).- Fusiles, mosquetones, carabinas y tercerolas en calibre 7 mm., 7.62 mm., 30" M-1 y M-2.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+c).- Fusiles, mosquetones, carabinas y tercerolas en calibre .223", 7 mm., 7.62 mm. y carabinas calibre .30" en todos sus modelos.
 
 d).- Pistolas, carabinas y fusiles con sistema de ráfaga, sub-ametralladoras, metralletas y ametralladoras en todos sus calibres.
 
@@ -156,15 +164,15 @@ l).- Artificios de guerra, gases y substancias químicas de aplicación exclusiv
 
 En general, todas las armas, municiones y materiales destinados exclusivamente para la guerra.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-Las de este destino, previa la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios.
+Las de este destino, mediante la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 12.
 
-Son armas prohibidas, para los efectos de esta Ley, las ya señaladas en el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
+Son armas prohibidas, para los efectos de esta Ley, las ya señaladas en el Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
 
 ###### ARTICULO 13.
 
@@ -172,9 +180,11 @@ No se considerarán como armas prohibidas los utensilios, herramientas o instrum
 
 Cuando esos instrumentos sean portados por necesidades de trabajo o para el ejercicio de un deporte, se deberá demostrar, en su caso, esas circunstancias.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 14.
 
-El extravío, robo, destrucción o decomiso de un arma que se posea o porte, debe hacerse del conocimiento de la Secretaría de la Defensa Nacional, en los términos y por los conductos que establezcan los Reglamentos de esta Ley.
+El extravío, robo, destrucción, aseguramiento o decomiso de un arma que se posea o se porte, debe hacerse del conocimiento de la Secretaría de la Defensa Nacional, en los términos y por los conductos que establezca el Reglamento de esta Ley.
 
 ### CAPITULO SEGUNDO. Posesión de armas en el domicilio
 
@@ -188,19 +198,23 @@ Por cada arma se extenderá constancia de su registro.
 
 Para los efectos del control de la posesión de armas, las personas físicas deben manifestar, un único domicilio de residencia permanente para sí y sus familiares.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 17.
 
-Toda persona que adquiera una o más armas, está obligada a manifestarlo a la Secretaría de la Defensa Nacional en un plazo de treinta días. La manifestación se hará por escrito, indicando calibre, modelo y matrícula si la tuviere.
+Toda persona que adquiera una o más armas, está obligada a manifestarlo a la Secretaría de la Defensa Nacional en un plazo de treinta días. La manifestación se hará por escrito, indicando, marca, calibre, modelo y matrícula si la tuviera.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 18.
 
-Los funcionarios, empleados públicos y jefes de los cuerpos de policía federales, del Distrito Federal, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
+Los servidores públicos y jefes de los cuerpos de policía federales, del Distrito Federal, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de la Defensa Nacional tendrá la facultad de determinar en cada caso, qué armas para tiro y cacería de las señaladas en el artículo 10, por sus características balísticas, pueden poseerse y en qué lugar o lugares, así como las dotaciones de municiones correspondientes. Respecto a las armas de cacería, se requerirá previamente la opinión de la Secretaría de Agricultura y Ganadería.
+La Secretaría de la Defensa Nacional tendrá la facultad de determinar en cada caso, qué armas para tiro o cacería de las señaladas en el artículo 10, por sus características, pueden poseerse, así como las dotaciones de municiones correspondientes. Respecto a las armas de cacería, se requerirá previamente la opinión de las Secretarías de Estado u Organismos que tengan injerencia.
 
 Las solicitudes de autorización se harán directamente o por conducto del Club o Asociación.
 
@@ -256,9 +270,9 @@ IV. Que no hayan sido condenados por delito cometido con el empleo de armas, y
 
 V. Que por la naturaleza de sus empleos u ocupaciones, por las circunstancias especiales del lugar en que vivan, o por otros motivos justificados acrediten, a juicio de la Secretaría de la Defensa Nacional, la necesidad de portar armas.
 
-> <small>(F. DE E., D.O.F. 25 DE ENERO DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
-Para actividades deportivas, de tiro o cacería, también podrán expedirse licencias particulares, por una o varias armas, sólo si los interesados son miembros de algún club o asociación registrados y cumplen los requisitos señalados en las cuatro primeras fracciones de este artículo.
+Para actividades deportivas, de tiro o cacería, también podrán expedirse licencias particulares, por una o varias armas, sólo si los interesados son miembros de algún club o asociación registrados y cumplen los requisitos señalados en las primeras fracciones de este artículo.
 
 ###### ARTICULO 27.
 
@@ -268,11 +282,11 @@ A los extranjeros sólo se les podrá autorizar la portación de armas cuando, a
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 29.
 
-Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación o del Distrito Federal y que para el cumplimiento de sus obligaciones requieran la portación de armas. Estas licencias podrán ser colectivas o individuales.
+Las licencias oficiales se expedirán a quienes desempeñen cargos o empleos de la Federación y del Distrito Federal y de las Entidades Federativas y que para el cumplimiento de sus obligaciones requieran, en opinión de la autoridad competente, la portación de armas. Estas licencias podrán ser colectivas o individuales.
 
 Las licencias colectivas se expedirán a los Cuerpos de Policía, estrictamente por el número de personas que figuren en las nóminas de pago respectivas. En este caso, las credenciales equivalen a las licencias individuales y serán expedidas por las autoridades de quienes dependan. Los jefes de estos cuerpos remitirán a la Secretaría de la Defensa Nacional en la forma que señale el Reglamento, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de su misión.
 
@@ -414,6 +428,10 @@ o).- Nitrocarbonitratos (explosivos al nitrato de amonio);
 
 p).- Ciclonita (R.D.X.).
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+q).- En general, toda substancia, mezcla o compuesto con propiedades explosivas.
+
 IV.- ARTIFICIOS:
 
 a).- Iniciadores;
@@ -425,6 +443,10 @@ c).- Mechas de seguridad;
 d).- Cordones detonantes;
 
 e).- Pirotécnicos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+f).- Cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos.
 
 V.- SUBSTANCIAS QUIMICAS RELACIONADAS CON EXPLOSIVOS:
 
@@ -438,6 +460,10 @@ d).- Magnesio en polvo;
 
 e).- Fósforo.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+f).- Todas aquellas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
+
 ###### ARTICULO 42.
 
 Los permisos específicos a que se refiere el artículo 37 de esta Ley, pueden ser:
@@ -448,9 +474,11 @@ II.- Ordinarios, que se expedirán en cada caso para realizar operaciones mercan
 
 III.- Extraordinarios, que se otorgarán a quienes de manera eventual tengan necesidad de efectuar alguna de las operaciones a que este Título se refiere.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría de la Defensa Nacional podrá negar, suspender o cancelar discrecionalmente los permisos a que se refiere el artículo anterior, cuando las actividades amparadas con los permisos entrañen peligro para la seguridad de las personas o puedan alterar la tranquilidad o el orden público.
+La Secretaría de la Defensa Nacional podrá negar, suspender o cancelar discrecionalmente los permisos a que se refiere el artículo anterior, cuando las actividades amparadas con los permisos entrañen peligro para la seguridad de las personas, instalaciones, o puedan alterar la tranquilidad o el orden público.
 
 ###### ARTICULO 44.
 
@@ -538,9 +566,11 @@ Cuando las armas, objetos y materiales de importación o exportación comercial 
 
 Los particulares que adquieran armas o municiones en el extranjero, deberán solicitar el permiso extraordinario para retirarlas del dominio fiscal.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 59.
 
-Las importaciones temporales de armas y municiones de turistas cinegéticos y deportistas de tiro, deberán estar amparadas por el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deban cumplir de acuerdo con el Reglamento de esta Ley.
+Las importaciones y exportaciones temporales de armas y municiones de turistas cinegéticos y deportistas de tiro, deberán estar amparadas por el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deban cumplir de acuerdo con el Reglamento de esta Ley.
 
 ### CAPITULO CUARTO. Del Transporte
 
@@ -620,9 +650,11 @@ Los titulares de permisos generales están obligados a conservar, por el términ
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 77.
 
-Serán sancionados con multa de $ 50.00 a $ 500.00 o, por su falta de pago, con el arresto correspondiente, que en ningún caso excederá de 15 días:
+Serán sancionados con pena de uno a diez días multa, o por falta de pago con el arresto correspondiente, que en ningún caso excederá de 36 horas.
 
 I.- Quienes posean armas en lugar no autorizado o que no sea su domicilio;
 
@@ -634,13 +666,21 @@ IV.- Quienes infrinjan lo dispuesto en el Artículo 36 de esta Ley. En este caso
 
 Para los efectos de la imposición de las sanciones a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 78.
 
-La Secretaría de la Defensa Nacional y demás autoridades facultadas para ello, recogerán las armas a todas aquellas personas que las porten sin licencia, o sin llevarla consigo y a quienes teniéndola, hayan hecho mal uso de ellas.
+La Secretaría de la Defensa Nacional y las demás autoridades facultadas para ello, recogerán las armas, previa expedición obligatoria del recibo correspondiente, a todas aquellas personas que las porten sin licencia o sin llevar ésta consigo y a quienes teniéndola hayan hecho mal uso de las armas.
 
 Las armas recogidas quedarán depositadas donde designe la propia Secretaría a disposición de la autoridad competente.
 
-El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de una multa de $ 200.00 y la exhibición de la licencia.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de cuatro días multa y la exhibición de la licencia. El plazo para exhibir la licencia fenecerá en quince días.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+Para los efectos del pago de la multa antes mencionada, se turnará la infracción a la brevedad razonable, a la autoridad fiscal federal correspondiente.
 
 ###### ARTICULO 79.
 
@@ -656,27 +696,49 @@ Se suspenderá la licencia de portación de armas destinadas al deporte de tiro 
 
 Se cancelará la propia licencia cuando su tenedor infrinja alguno de los deberes que le señale esta Ley y su Reglamento, o cuando deje de pertenecer al Club o Asociación del que fuere miembro.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 81.
 
-Se impondrá de dos meses a dos años de prisión o multa de $ 100.00 a $ 2,000.00 a quienes porten armas sin tener expedida la licencia correspondiente.
+Se aplicarán las sanciones que señala el Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, a quienes porten armas sin tener expedida la licencia correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 82.
 
-Se impondrá de dos meses a dos años de prisión o multa de $ 200.00 a $ 2,000.00 a quienes por una sola vez transmitan la propiedad de un arma por compraventa, donación o permuta, sin el permiso correspondiente.
+Se impondrá de dos meses a dos años de prisión o de cuatro a cuarenta días multa, a quienes transmitan la propiedad de un arma por compraventa, donación o permuta, sin el permiso correspondiente.
 
 La transmisión de la propiedad de dos o más armas, o por dos o más veces, sin permiso, se sancionará conforme al artículo 85 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 83.
 
-Se impondrá de seis meses a tres años de prisión y multa de $ 100.00 a $ 3,000.00 a:
+Al que sin el permiso correspondiente porte un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
 
-I.- Quienes porten armas prohibidas o de las de uso exclusivo del Ejército, Armada o Fuerza Aérea; y
+I.- Con prisión de seis meses a tres años y de uno a diez días multa, cuando se trate de las armas comprendidas en los incisos a), b), i) del artículo 11 de esta Ley.
 
-II.- Quienes sin el permiso correspondiente hicieren acopio de armas.
+II.- Con prisión de dos a nueve años y de dos a quince días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+###### ARTICULO 83 Bis.
+
+Al que sin el permiso correspondiente hiciere acopio de armas, se le sancionará:
+
+I.- Con prisión de uno a tres años y de dos a quince días multa, si las armas están comprendidas en los incisos a), b), i) del artículo 11 de esta Ley; y
+
+II.- Con prisión de dos a diez años y de tres a veinte días multa, si se trata de cualquiera otra de las armas comprendidas en el artículo 11 de esta Ley.
+
+Por acopio debe entenderse la posesión de más de cinco armas de las de uso exclusivo del Ejercito, Armada y Fuerza Aérea.
+
+Para la aplicación de la sanción por delitos de portación o acopio de armas, el Juez deberá tomar en cuenta la actividad a que se dedica el autor, sus antecedentes y las circunstancias en que fue detenido.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
 ###### ARTICULO 84.
 
-Se impondrá de uno a quince años de prisión y multa de $ 100.00 a $ 100,000.00:
+Se impondrá de uno a quince años de prisión y de dos a quinientos días multa:
 
 I.- Al que introduzca en la República, en forma clandestina, armas, municiones, explosivos y materiales de uso exclusivo de las fuerzas armadas o sujetos a control, de acuerdo con esta Ley; asimismo al que participe en la introducción;
 
@@ -684,9 +746,11 @@ II.- Al funcionario o empleado público, que estando obligado por sus funciones 
 
 III.- A quien adquiera los objetos a que se refiere la fracción I para fines mercantiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 85.
 
-Se impondrá de seis meses a seis años de prisión y multa de $ 100.00 a $ 20,000.00:
+Se impondrá de seis meses a seis años de prisión y de dos a cuatrocientos días multa:
 
 I.- A los comerciantes en armas, municiones y explosivos, que los adquieran sin comprobar la procedencia legal de los mismos;
 
@@ -696,17 +760,21 @@ III.- A los comerciantes en armas que sin dicho permiso vendan, donen o permuten
 
 IV.- A quienes dispongan indebidamente de las armas con que se haya dotado a los cuerpos de policía federales, estatales o municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 86.
 
-Se impondrá de tres meses a tres años de prisión y multa de $ 100.00 a $ 10,000.00 a quienes, sin el permiso respectivo:
+Se impondrá de tres meses a tres años de prisión y de dos a doscientos días multa, a quienes sin el permiso respectivo:
 
 I.- Compren explosivos, y
 
 II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 87.
 
-Se impondrá de un mes a dos años de prisión y multa de $ 100.00 a $ 5,000.00 a quienes:
+Se impondrá de un mes a dos años de prisión y de dos a cien días multa, a quienes:
 
 I.- Manejen fábricas, plantas industriales, talleres, almacenes y demás establecimientos que se dediquen a las actividades reguladas por esta Ley, sin ajustarse a las condiciones de seguridad a que estén obligados;
 
@@ -724,9 +792,17 @@ Las armas materia de los delitos señalados en este capítulo, serán decomisada
 
 Por la infracción de cualquiera de las normas de la presente Ley, independientemente de las sanciones establecidas en este Capítulo, la Secretaría de la Defensa Nacional podrá, en los términos que señale el Reglamento, suspender o cancelar los permisos que haya otorgado.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 90.
 
-Las demás infracciones a la presente Ley o sus Reglamentos, no expresamente previstas, podrán sancionarse con multa de $ 50.00 a $ 10,000.00.
+Las demás infracciones a la presente Ley o su Reglamento, no expresamente previstas, podrán sancionarse con la pena de uno a doscientos días multa.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+###### ARTICULO 91.
+
+Para la aplicación de la sanción pecuniaria en días multa, se estará a lo dispuesto en el artículo 29 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 ## TRANSITORIOS
 
@@ -783,3 +859,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 La presente Ley entrará en vigor el día 1o. de enero de 1982.
 
 ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos;.
+
+D.O.F. 8 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
