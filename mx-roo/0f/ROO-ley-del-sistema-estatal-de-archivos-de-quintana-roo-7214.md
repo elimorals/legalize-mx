@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-sistema-estatal-de-archivos-de-quintana-roo-7214"
 country: "mx"
 rank: "ley"
 publication_date: "1986-05-15"
-last_updated: "1986-05-15"
+last_updated: "2001-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DEL SISTEMA ESTATAL DE ARCHIVOS DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE DOCUMENTACION DEL ESTADO DE QUINTANA ROO, PUBLICADA EN P.O. DE 28 DE DICIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de mayo de 1986.
 
@@ -88,3 +90,27 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 Salón de Sesiones del Poder Legislativo en la ciudad de Chetumal, capital del Estado de Quintana Roo a los diecisiete días del mes de abril de mil novecientos ochenta y seis.- Diputado Presidente, Lic. Rodolfo Romero Euán.- Diputada Secretaria, Profra. Ligia Álvarez y Manzano.
 
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo a los dieciocho días del mes de abril de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, Lic. Pedro Joaquín Coldwell.- El Secretario de Gobierno, Lic. Esteban Maqueo Coral.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. DE 28 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Archivos de Quintana Roo, de fecha 17 de abril de 1986, publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, en fecha 15 de mayo de ese mismo año y en consecuencia los órganos creados en dicha Ley.
+
+###### ARTICULO TERCERO.
+
+Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+El Comité Técnico de Documentación, deberá instalarse en su primera sesión ordinaria, en un plazo no mayor de 30 días, contados a partir de la entrada en vigor de la presente Ley, siendo obligación del Secretario Técnico del mismo el proveer lo conducente para tal fin.
+
+###### ARTICULO QUINTO.
+
+Cuando en alguna disposición legal se haga referencia a la Ley General de Archivos del Estado de Quintana Roo, se entenderá por ésta a la Ley del Sistema de Documentación del Estado de Quintana Roo.
