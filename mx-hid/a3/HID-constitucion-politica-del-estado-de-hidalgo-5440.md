@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1973-06-01"
+last_updated: "1973-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -317,11 +317,11 @@ Después de verificadas las elecciones en cada periodo constitucional, los ciuda
 
 Las resoluciones así dictadas y todas las que prevengan del Congreso erigido en Colegio Electoral, serán definitivas e irrevocables; y ningún poder, autoridad o funcionario podrá revisar ni poner en duda los títulos de legitimidad de cualquier funcionario declarado electo por el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1973)</small>
 
 ###### Artículo 25.
 
-El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1o. de marzo y concluirá el 15 de mayo, y el segundo se iniciará el 15 de octubre y concluirá el 31 de diciembre. Se reunirá en sesiones extraordinarias cuando fuere convocado por la Diputación Permanente.
+El Congreso se reunirá en sesiones ordinarias y extraordinarias. Tendrá cada año dos períodos de sesiones ordinarias; el primero de iniciará el 1o. de marzo y concluirá el 25 de mayo, y el segundo se iniciará el 15 de noviembre y concluirá el 21 de febrero del año siguiente. Se reunirá en sesiones extraordinarias cuando fuere convocado por la Diputación Permanente.
 
 ###### Artículo 26.
 
@@ -333,13 +333,15 @@ La Legislatura no puede abrir sus sesiones ordinarias o extraordinarias, ni deli
 
 Los diputados que falten a las sesiones sin causa justificada o sin licencia de la Legislatura por más de diez veces, serán sustituidos por los suplentes hasta el período inmediato.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1973)</small>
+
 ## TITULO VI. DE LOS MUNICIPIOS
 
 ### CAPITULO I. DEL GOBERNADOR
 
 ###### Artículo 28.
 
-Durante el primer período de sesiones ordinarias, el Congreso se ocupara preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y municipales correspondientes al año anterior; y en el segundo, y para que rijan en el año siguiente, se ocupara preferentemente de dictar la Ley de Ingresos del Estado y de los Municipios, y de aprobar el Presupuesto de Egresos del Estado que el Gobernador deberá estar al Congreso el segundo día de este periodo.
+Durante las sesiones ordinarias, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y Municipales correspondientes al año anterior y dictar la Ley de Ingresos del Estado y de los Municipios y estudiar, modificar o aprobar en su caso, el Presupuesto de Egresos del Estado que el Gobernador deberá de enviar al Congreso oportunamente.
 
 ###### Artículo 29.
 
@@ -595,7 +597,9 @@ IV. Pedir al Congreso de la Unión el consentimiento a que se refiere la fracci�
 
 V. Informar al Congreso por conducto del Secretario General sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite;
 
-VI. Hacer que se remita al Congreso el 15 de marzo de cada año, la Cuenta General del Estado correspondiente al año anterior;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1973)</small>
+
+VI. Hacer que se remita al Congreso, el 15 de enero de cada año, la cuenta general del Estado, correspondiente al año anterior;
 
 VII. Facilitar al Poder Judicial los elementos necesarios para el ejercicio expedito de sus funciones;
 
@@ -637,7 +641,9 @@ XXV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con la
 
 XXVI. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes;
 
-XXVII. Asistir al H. Congreso el día 1o. de marzo de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1973)</small>
+
+XXVII. Asistir al H. Congreso el día 20 de febrero de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública;
 
 XVIII (sic). Solicitar del Congreso autorización para el arreglo de límites con los Estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigir al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General;
 
@@ -1224,3 +1230,7 @@ Unico. Este Decreto entrará en vigor a partir de su publicación en el Periódi
 P.O. 1 DE JUNIO DE 1973.
 
 Unico.- Este Decreto entrará en vigor el día 3 de junio del presente año, en que se conmemora el CXII Aniversario del sacrificio de Don Melchor Ocampo.
+
+P.O. 24 DE DICIEMBRE DE 1973.
+
+Unico.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
