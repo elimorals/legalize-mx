@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-tribunal-fiscal-administrativo-del-estado-5515
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-31"
-last_updated: "1981-12-31"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1981.
 
@@ -73,17 +73,21 @@ V.- Las demás que señale el Código Fiscal del Estado y las demás Leyes.
 
 Las sesiones del Tribunal serán públicas, salvo en los casos en que la moral o el interés público exijan que sean secretas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 5º.
 
-El Tribunal funcionará en pleno o unitario. Se compondrá de tres magistrados numerarios y los supernumerarios que el servicio requiera, a juicio del pleno.
+El tribunal funcionará en pleno y en salas unitarias, una fiscal y otra administrativa. Se compondrá de tres magistrados numerarios y los supernumerarios que el servicio requiera, a juicio del pleno.
 
 ###### ARTICULO 6º.
 
 El nombramiento de los Magistrados será directamente a cargo del C. Gobernador del Estado, con aprobación del Congreso del Estado o de la Diputación Permanente en su caso, en los términos que señala la Constitución Política de la Entidad.
 
+> <small>(REFORMADO, 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 7º.
 
-Los Magistrados del Tribunal Fiscal Administrativo serán inamovibles y solo podrán ser privados de sus puestos, cuando observen mala conducta de acuerdo con el procedimiento señalado en la Constitución Local previo juicio de responsabilidad.
+Los Magistrados del Tribunal Fiscal Administrativo, serán inamovibles y sólo podrán ser separados del cargo en los casos y mediante el procedimiento señalado en el título décimo en la Constitución Política del Estado y en la correspondiente Ley de responsabilidades de los servidores públicos del Estado de Hidalgo.
 
 ###### ARTICULO 8º.
 
@@ -105,9 +109,11 @@ f) No haber sido condenado por sentencia irrevocable, por delito intencional que
 
 El Tribunal tendrá un Presidente que durará en su cargo un año y podrá ser reelecto. La Presidencia recaerá siempre en un Magistrado Numerario.
 
+> <small>(REFORMADO, 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 10.
 
-La designación del Presidente del Tribunal Administrativo se hará por el pleno del Tribunal en la segunda quincena del mes de abril de cada año.
+La designación del Presidente del Tribunal Fiscal Administrativo se hará por el pleno del Tribunal en la 2a. quincena del mes de abril de cada año.
 
 ###### ARTICULO 11.
 
@@ -175,7 +181,9 @@ II.- Establecer las reglas para la distribución de los negocios entre los diver
 
 III.- Conceder licencias a los Magistrados en los términos de esta ley.
 
-IV.- Nombrar, remover y conceder licencias a los Secretarios, Actuarios y Personal Administrativo.
+> <small>(REFORMADA, 30 DE DICIEMBRE DE 1983)</small>
+
+IV.- Nombrar, remover y conceder licencias a los Secretarios y Actuarios.
 
 V.- Formular anualmente el proyecto de Presupuesto del Tribunal para ser remitido al Ejecutivo del Estado.
 
@@ -239,17 +247,23 @@ IV.- Los que nieguen o reduzcan las pensiones y demás prestaciones sociales que
 
 V.- Los que se dicten en materia de pensiones civiles son con cargo al erario estatal o municipal u otro similar, y
 
-VI.- Las que se dicten salvo interpretación y cumplimiento de contratos de obras públicas celebrados por dependencias del ejecutivo del Estado, municipal u organismos autónomos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-VII.- Las que señalan los Colegios Fiscales, Estatal y Municipal.
+VI.- Las que se dicten sobre interpretación y cumplimiento de contratos de obras públicas celebrados por dependencias del Ejecutivo del Estado, municipal u organismos autónomos.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+VII.- Las que señalan los códigos fiscales, estatales y municipales.
 
 En materia fiscal, las instancias o peticiones que se formulen deberán ser resueltas en el término que la Ley fije a falta de este, el de noventa días, el silencio de las Autoridades se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
 
 ### CAPITULO QUINTO. DEL MAGISTRADO DE LA RAMA ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 25.
 
-Son atribuciones de los Magistrados de esta rama, conocer de los juicios que se promuevan contra:
+Son atribuciones del magistrado de la rama administrativa, conocer de los juicios que se promuevan contra:
 
 I.- Los actos que las autoridades del Gobierno Estatal, o Municipal, dicten, ordenen, ejecuten o traten de ejecutar en agravio de los particulares.
 
@@ -273,7 +287,9 @@ Corresponde al Secretario General:
 
 I.- Acordar con el Presidente lo relativo a las sesiones del Tribunal en Pleno.
 
-II.- Dar cuenta en las sesiones plenarias y tomar la rotación de los magistrados, conociendo las decisiones que en las mismas se acuerden.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Dar cuenta en las sesiones plenarias y tomar la votación de los magistrados, asentando las decisiones que en las mismas se acuerden, en el acta relativa, autorizando con su firma las actuaciones del pleno.
 
 III.- Tramitar y firmar la correspondencia administrativa del Tribunal, que no corresponda al Presidente ni a los Magistrados del ramo respectivo.
 
@@ -333,9 +349,11 @@ En aquellos casos en que por alguna causa no haya actuario, el secretario con do
 
 VACACIONES Y GUARDIAS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 32.
 
-El tribunal de lo Contencioso Administrativo, tendrá dos periodos de vacaciones de 10 días hábiles cada uno. Deberán coincidir con los periodos de la Administración Pública Estatal y Municipal.
+El Tribunal Fiscal Administrativo tendrá dos períodos de vacaciones de 10 días hábiles cada uno, que deberán coincidir con los períodos oficiales locales.
 
 ###### ARTICULO 33.
 
@@ -347,15 +365,7 @@ Antes de iniciar un período de vacaciones, se designará el personal necesario 
 
 ###### ARTICULO 35.
 
-Serán causas de nulidad de los actos impugnados:
-
-I.- Incompetencia del funcionario o empleado que haya dictado el acuerdo o que haya tramitado el procedimiento impugnado.
-
-II.- Omisión o incumplimiento de las formalidades que legalmente deba revestir la resolución o el procedimiento impugnado.
-
-III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida.
-
-IV.- Desvío de poder, tratándose de sanciones.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 ## TITULO SEGUNDO (SIC). DEL PROCEDIMIENTO
 
@@ -417,7 +427,11 @@ b) Toda autoridad que dicte, ordene, ejecute o trate de ejecutar las resolucione
 
 c) El particular a quien favorezca la resolución cuya nulidad pide la autoridad administrativa.
 
-III.- El tercero, que dentro del procedimiento administrativo aparezca como titular de un derecho incompatible con el que pretenda el actor. No podrán las autoridades que figuran como parte en el juicio de nulidad, acreditar representantes en las audiencias para rendir pruebas y alegar.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- El tercero que dentro del procedimiento aparezca como titular de un derecho incompatible con el que pretenda el actor.
+
+Podrán las autoridades que figuran como parte en el juicio de nulidad, acreditar representantes en las audiencias para rendir pruebas y alegar.
 
 DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
@@ -519,7 +533,9 @@ VII.- La descripción de los hechos y de ser posible los fundamentos de derechos
 
 VIII.- Las pruebas que el promovente ofrezca.
 
-IX.- Acompañar las copias para el trabajo; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+IX.- Acompañar las copias para el traslado; y
 
 X.- La firma del actor, si éste no supiere o no pudiere firmar, la hará un tercero a su ruego, poniendo el primero su huella digital.
 
@@ -579,9 +595,23 @@ Procede la acumulación, aunque las partes sean diversas, y se invoquen distinta
 
 La acumulación se tramitará de oficio o a petición de parte, en una audiencia en la que se hará la relación de los autos, se escucharán los alegatos y el Magistrado dictará la determinación que corresponda, en tanto se resuelven, se suspenderá el procedimiento en los juicios respectivos.
 
-### CAPITULO SEXTO. IMPROCEDENCIA Y SOBRESEIMIENTO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO SEPTIMO. DE LA SUSPENSION
+### CAPITULO QUINTO BIS. CAUSAS DE NULIDAD
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 66 BIS.- Serán causas de nulidad de los actos impugnados:
+
+I.- Incompetencia del funcionario o empleado que haya dictado el acuerdo o que haya tramitado el procedimiento impugnado.
+
+II.- Omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el procedimiento impugnado.
+
+III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida.
+
+IV.- Desvío de poder, tratándose de sanciones.
+
+### CAPITULO SEXTO. IMPROCEDENCIA Y SOBRESEIMIENTO
 
 ###### ARTICULO 67.
 
@@ -619,7 +649,7 @@ III.- Cuando el demandante muera durante el juicio si el acto impugnado sólo af
 
 IV.- Cuando la autoridad demandada haya satisfecho la pretensión del actor.
 
-### CAPITULO OCTAVO. DE LA (SIC) PRUEBAS
+### CAPITULO SEPTIMO. DE LA SUSPENSION
 
 ###### ARTICULO 69.
 
@@ -681,7 +711,7 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 Contra esta resolución sólo procederá el recurso de reclamación.
 
-### CAPITULO NOVENO. DE LA SENTENCIA Y SU CUMPLIMIENTO
+### CAPITULO OCTAVO. DE LA (SIC) PRUEBAS
 
 ###### ARTICULO 79.
 
@@ -789,7 +819,7 @@ La falta de asistencia de las partes a esta audiencia, no impedirá su celebraci
 
 Una vez recibidos los alegatos se propondrán los puntos resolutivos y el Magistrado resolverá el juicio en la misma audiencia. Sólo cuando deban tomarse en cuenta gran número de constancias, podrá reservarse el fallo definitivo para un término no mayor de diez días. En todos los casos se deberá redactar y engrosar la sentencia.
 
-### CAPITULO DECIMO. DE LOS RECURSOS
+### CAPITULO NOVENO. DE LA SENTENCIA Y SU CUMPLIMIENTO
 
 ###### ARTICULO 93.
 
@@ -804,6 +834,8 @@ III.- Los puntos resolutivos en los que se expresarán los actos cuya validez se
 ###### ARTICULO 94.
 
 De ser fundada la demanda, las sentencias dejarán sin efecto el acto impugnado y las autoridades responsables quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieran sido indebidamente afectados o desconocidos, en los términos que establezca la sentencia.
+
+### CAPITULO DECIMO. DE LOS RECURSOS
 
 ###### ARTICULO 95.
 
@@ -832,6 +864,10 @@ Contra las sentencias definitivas dictadas por los Magistrados de las ramas fisc
 Las resoluciones dictadas por el Tribunal en Pleno causan estado por ministerio de Ley.
 
 T R A N S I T O R I O S
+
+###### Artículo 1º.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
 
 ###### ARTICULO 2º.
 
@@ -880,3 +916,27 @@ EL TESORERO GENERAL DEL ESTADO
 C.P. JORGE NIKAIDO GALLARDO
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### Artículo 2º.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+###### Artículo 3º.
+
+Toda vez que se encuentren en vigor los convenios de adhesión al sistema nacional de coordinación fiscal y sus anexos y el de colaboración administrativa en materia fiscal federal, continúa suspendido el cobro de los siguientes impuestos contenidos en la Ley de Hacienda del Estado:
+
+I.- Impuesto sobre productos agrícolas y ganaderos.
+
+II.- Impuesto al comercio y a la Industria.
+
+III.- Impuesto sobre productos de capitales.
+
+IV.- Impuesto sobre honorarios por actividades profesionales y ejercicios lucrativos.
+
+###### Artículo 4º.
+
+Continúa suspendido el cobro de los derechos estatales que señala el Decreto No. 120, de fecha 29 de junio de 1983 publicado en el Periódico Oficial del Estado, de fecha 4 de julio de 1983, en virtud de estar en vigor la coordinación que en materia de derechos suscritos por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público.
