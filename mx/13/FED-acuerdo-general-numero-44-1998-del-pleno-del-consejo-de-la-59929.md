@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-44-1998-del-pleno-del-consejo-de-la-5992
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-12-15"
-last_updated: "2003-09-12"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59929&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-02"
 
 ACUERDO GENERAL NUMERO 44/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ACUERDO GENERAL 58/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 12 DE SEPTIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO SEÑALADO POR EL ACUERDO GENERAL 91/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 16 DE DICIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
@@ -728,3 +728,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Los Juzgados de Distrito Itinerantes que actualmente apoyan a juzgados de Distrito que hayan sido inspeccionados, serán visitados conforme lo determine el Visitador General.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- Las visitas ordinarias de inspección a juzgados de Distrito itinerantes que se hubieran programado para realizarse durante el año dos mil tres, con posterioridad a la entrada en vigor del Acuerdo General 75/2003, quedarán sustituidas por el informe correspondiente de terminación de sus funciones de apoyo a diverso órgano jurisdiccional.
+
+TERCERO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
