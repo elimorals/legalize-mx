@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1984-08-10"
+last_updated: "1986-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1986.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -255,9 +255,11 @@ II.- 0.75% para cubrir íntegramente el seguro de accidentes del trabajo y enfer
 
 III.- 6% para cubrir las prestaciones señaladas en las Fracciones III a XI y XIII a XIV del Artículo 4o.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 22.
 
-El Estado y organismos públicos incorporados harán entregas quincenales al Instituto por conducto de sus respectivas Tesorerías o Departamentos correspondientes, del monto de las cantidades que correspondan por concepto de las cuotas y aportaciones a que se refieren los artículos 16 y 21. También entregarán quincenalmente el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos derivados de la aplicación de esta Ley.
+El Estado y Organismos Públicos Incorporados, harán entregas quincenales al Instituto por conducto de sus respectivas Tesorerías y Departamentos correspondientes, del monto de las cantidades que correspondan por concepto de las cuotas y aportaciones a que se refieren los Artículos 16 y 21. Cuando no se enteren las cuotas y aportaciones dentro del plazo señalado, por el Estado y Organismos Públicos Incorporados, éstos cubrirán al Instituto recargos moratorios que acuerde la Junta Directiva. También entregarán quincenalmente el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos de la aplicación de esta Ley.
 
 ### CAPITULO TERCERO
 
@@ -281,37 +283,35 @@ II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trab
 
 Al principiar la enfermedad y al concederse la licencia respectiva, tanto el trabajador como el Estado y organismos públicos incorporados en que labore, deberán dar el aviso correspondiente al Instituto.
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 24.
 
-También tendrán derecho a los servicios que señala la Fracción I del Artículo 23, en caso de enfermedad, los familiares del trabajador y del pensionista que enseguida se señalan:
+También tendrán derecho a los servicios que señale la Fracción I del Artículo 23, en caso de enfermedad, los familiares del trabajador y del pensionista que enseguida se señalan:
 
 I.- La esposa, siempre que no trabaje;
 
-II.- El esposo, si está incapacitado para trabajar;
+II.- El esposo si está incapacitado para trabajar;
 
-III.- La concubina, si el trabajador tiene cuando menos cinco años contínuos de vivir con ella, si han procreado hijos, además de que es condición indispensable que el trabajador esté libre de matrimonio;
+III.- La concubina, si el trabajador tiene cuando menos cinco años contínuos de vivir con ella, si han procreado hijos, además que es condición indispensable que el trabajador esté libre de matrimonio;
 
-IV.- Los hijos menores de dieciocho años, solteros y que no trabajen y los mayores de esa edad, que se compruebe estén estudiando, dependiendo para ello del trabajador o del pensionista y por el término razonable necesario para concluir los estudios, sin que en ningún caso exceda de veinticinco años de edad;
+IV.- Los hijos menores de dieciocho años, solteros y que no trabajen y los mayores de esa edad, que se compruebe estén estudiando, dependiendo para ello, del trabajador o pensionista y por el término razonable necesario para concluir los estudios, sin que en ningún caso, exceda de veinticinco años de edad;
 
 V.- La madre, si no trabaja;
 
 VI.- El padre, si está incapacitado para trabajar;
 
-VII.- Las hermanas menores de dieciocho años que no estén casadas y que no trabajen.
+VII.- Las hermanas y hermanos menores de dieciocho años que no estén casados y que no trabajen;
 
-Los familiares que se mencionan en este artículo, tendrán el derecho antes establecidos si reúnen los siguientes requisitos:
+VIII.- A los hijos mayores de 18 años que estén sujetos a estado de interdicción previa declaración de incapacidad de ejercicio por un médico del Instituto.
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
+Los familiares que se mencionan en este Artículo tendrán los derechos antes establecidos si reúnen los siguientes requisitos:
 
-a).- Que dependan económicamente del trabajador o del pensionista;
+a).- Que dependan económicamente del trabajador o del pensionista.
 
-b).- Que el trabajador o el pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23;
+b).- Que el trabajador o pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23.
 
-c).- Que dichos familiares no tengan derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra.
-
-El Instituto señalará la forma en que deberán de acreditarse los diversos supuestos contenidos en el presente artículo.
+c).- Que dichos familiares no tengan derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra. El Instituto, señalará la forma en que deberán de acreditarse los diversos supuestos contenidos en el presente Artículo.
 
 ###### ARTICULO 25.
 
@@ -341,9 +341,17 @@ En caso de incumplimiento por parte del enfermo a la orden del Instituto de some
 
 Seguro de Maternidad.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1986)</small>
+
 ###### ARTICULO 27.
 
-La mujer trabajadora, la esposa del trabajador o del pensionista, o a falta de la esposa, la concubina de uno u otro, tendrán derecho a asistencia obstétrica necesaria a partir del día en que los Servicios Médicos del Instituto certifiquen el estado de embarazo.
+La mujer trabajadora, la esposa del trabajador o del pensionista, o a falta de la esposa, la concubina de uno u otro, según las condiciones de las Fracciones I y III del Artículo 24, tendrán derecho a las siguientes prestaciones:
+
+I.- Asistencia obstétrica, necesaria a partir del día en que los servicios médicos del Instituto, certifiquen el estado de embarazo.
+
+II.- Ayuda para lactancia, cuando según dictamen médico exista incapacidad física para amamantar al hijo. Esta ayuda será proporcionada en especie hasta por un lapso de seis meses, con posterioridad al nacimiento y se entregará a la madre, o a falta de ésta a la persona encargada de alimentar al niño.
+
+III.- Una canastilla de maternidad, al nacer el hijo, cuyo contenido y costo será señalada periódicamente por el Instituto.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
 
@@ -895,11 +903,11 @@ Las obligaciones que en favor del Instituto señala la presente Ley a cargo del 
 
 Pago Póstumo.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1986)</small>
 
 ###### ARTICULO 94.
 
-El Instituto tendrá a su cargo el pago póstumo de la cantidad de $75,000.00 (SETENTA Y CINCO MIL PESOS MONEDA NACIONAL), que se entregará a la muerte de los trabajadores incorporados al propio Instituto o a los beneficiarios que éstos designen y a falta de designación, a sus herederos legítimos. Si la muerte ocurre por accidente, ésta suma se duplicará.
+El Instituto tendrá a su cargo el pago póstumo, por muerte natural, accidental y muerte accidental colectiva, que se entregará al fallecimiento de los trabajadores incorporados al propio Instituto o a sus beneficiarios que éstos designen; y a falta de designación, a sus herederos legítimos. El monto del pago de esta prestación estará sujeto a las disposiciones que dicte la Junta Directiva.
 
 ###### ARTICULO 95.
 
@@ -1410,3 +1418,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 10 DE AGOSTO DE 1984.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
