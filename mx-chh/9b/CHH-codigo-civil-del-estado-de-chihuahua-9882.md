@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-03-09"
+last_updated: "2002-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1697,6 +1697,8 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
+### CAPITULO V. DE LA ADOPCION
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 A) DISPOSICIONES GENERALES
@@ -1766,8 +1768,6 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
-
-### CAPITULO V. DE LA ADOPCION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -9779,7 +9779,13 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 2892.- Los lugares en que deba existir una Oficina del Registro Público serán fijados por el Código Administrativo del Estado, el cual determinará asimismo el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
-2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
+2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados o resguardados en soporte magnético u óptico decodificados o reproducibles de cualquier forma por un sistema informático.
+
+También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en las diferentes secciones del Registro; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+
+La autoridad registral queda exceptuada de la obligación establecida en el párrafo anterior respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1469.
 
@@ -10212,3 +10218,9 @@ Corresponde a los Oficiales del Registro Civil de las cabeceras municipales de m
 P.O. 9 DE MARZO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
