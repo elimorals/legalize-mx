@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2002-10-12"
+last_updated: "2004-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -143,7 +143,9 @@ El gobernador, los diputados del Congreso del Estado y los magistrados del Poder
 
 Corresponde al Congreso del Estado, substanciar el procedimiento relativo al juicio político, actuando como jurado de sentencia.
 
-La Comisión de Responsabilidades del propio Congreso, con el auxilio de su órgano técnico jurídico de estudio y cuenta, será la competente para substanciar el procedimiento, encargándose además, del examen previo de denuncia del juicio político, funcionando como órgano de instrucción y órgano de acusación.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+
+La Comisión de Responsabilidades del propio Congreso, con el auxilio de su órgano técnico de Responsabilidades, será la competente para substanciar el procedimiento, encargándose además del examen previo de denuncia del juicio político, funcionando como órgano de instrucción y órgano de acusación.
 
 ###### Artículo 9º.
 
@@ -187,13 +189,17 @@ VI. Firma autógrafa del denunciante o los denunciantes.
 
 #### Sección Segunda. Del examen previo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+
 ###### Artículo 12.
 
-El escrito de denuncia deberá presentarse ante la Oficialía de Partes del Congreso del Estado y ratificarse en forma personal dentro de los tres días hábiles siguientes a su presentación, ante el órgano técnico jurídico de estudio y cuenta de la Comisión de Responsabilidades.
+El Escrito de denuncia deberá presentarse ante la Oficialía de Partes del Congreso del Estado y ratificarse en forma personal dentro de los tres días hábiles siguientes a su presentación, ante el órgano técnico de Responsabilidades de la Comisión de Responsabilidades.
 
 Cuando la denuncia no sea ratificada dentro del plazo previsto, se tendrá como no interpuesta.
 
-Una vez ratificada la denuncia, no procede el desistimiento. El órgano técnico jurídico de estudio y cuenta de la Comisión de Responsabilidades la remitirá al pleno de la Asamblea para su conocimiento y para que, previo acuerdo, sea turnada a la Comisión de Responsabilidades.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+
+Una vez ratificada la denuncia, no procede el desistimiento. El órgano técnico de Responsabilidades la remitirá al Pleno de la Asamblea para su conocimiento y para que, previo acuerdo, sea turnada a la Comisión de Responsabilidades.
 
 ###### Artículo 13.
 
@@ -393,17 +399,21 @@ Para declarar que ha lugar a ejercitar la acción penal, es necesario que exista
 
 Cuando el ministerio público concluya una averiguación previa y determine ejercitar la acción penal en contra de alguno de los servidores públicos contemplados en el primer párrafo del artículo 31 del presente ordenamiento, como requisito de procedibilidad del ejercicio de la acción penal correspondiente, el procurador general de justicia del Estado deberá solicitar, ante el Congreso del Estado, la declaración de procedencia de juicio penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
+
 ###### Artículo 35.
 
-El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Oficialía Mayor del Congreso del Estado y deberá reunir los siguientes requisitos:
+El escrito de solicitud de declaración de procedencia de juicio penal se presentará por duplicado en la Secretaría General del Congreso del Estado y deberá reunir los siguientes requisitos:
 
 I. Deberá estar firmado por el procurador general de justicia en el Estado; y
 
 II. Deberá estar acompañado con copias certificadas del expediente completo que contenga la averiguación previa, incluyendo la determinación del ejercicio de la acción penal.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+
 ###### Artículo 36.
 
-Una vez presentado el escrito, el oficial mayor del Congreso lo remitirá al pleno de la Asamblea para que ésta la turne a la Comisión de Responsabilidades.
+Una vez presentado el escrito, el Secretario General del Congreso, lo remitirá al Pleno de la Asamblea para que éste la turne a la Comisión de Responsabilidades.
 
 ###### Artículo 37.
 
@@ -489,9 +499,11 @@ Cuando alguno de los servidores públicos mencionados en el artículo anterior h
 
 Las declaraciones y resoluciones definitivas del Congreso del Estado en materia de juicio político y declaración de procedencia de juicio penal, son inatacables.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+
 ###### Artículo 47.
 
-La Oficialía Mayor del Congreso del Estado enviará a la Asamblea, por riguroso turno, las denuncias o acusaciones que se presenten.
+La Secretaría General del Congreso del Estado enviará a la Asamblea, por riguroso turno, las denuncias o acusaciones que se presenten.
 
 ###### Artículo 48.
 
@@ -513,31 +525,49 @@ El juez de primera instancia, el ministerio público o la autoridad municipal re
 
 Para la práctica de las diligencias, todas las comunicaciones se entregarán personalmente o, en su defecto, se enviarán por correo, en pieza certificada y con acuse de recibo.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2004)</small>
 
 ###### Artículo 52.
 
-Los diputados miembros del Congreso y los empleados integrantes del órgano técnico jurídico de estudio y cuenta, que hayan de intervenir en algún acto dentro del procedimiento, deberán excusarse y en su caso ser recusados, sólo cuando tuvieren con el denunciado o con el denunciante alguno de los siguientes vínculos:
+Los Diputados miembros del Congreso y los empleados integrantes del Órgano Técnico de responsabilidades, que hayan de intervenir en algún acto del procedimiento, deberán excusarse y en su caso ser recusados, sólo cuando tuvieren con el denunciado o con el denunciante alguno de los siguientes vínculos:
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
 
 I. Parentesco hasta el cuarto grado en cualquier línea;
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 II. Amistad estrecha;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
 
 III. Enemistad manifiesta;
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 IV. Ser denunciante o defensor en el procedimiento de que se trate;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
 
 V. Relación laboral de subordinación;
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 VI. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal, de alguno de los interesados;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
 
 VII. Ser o haber sido tutor o curador de alguno de los interesados, o administrador de sus bienes por cualquier título; o
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2002)</small>
+
 VIII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el funcionario ha aceptado la herencia o el legado o ha hecho alguna manifestación en ese sentido;
 
-> <small>(F. DE E. P.O. 19 DE NOVIEMBRE DE 2002)</small>
+(REFORMADO, P.O. 12 DE OCTUBRE DE 2002) (F. DE E. P.O. 19 DE NOVIEMBRE DE 2002)
 
 Sólo con expresión de causa podrá recusarse a cualquiera de los diputados o a los miembros del órgano técnico jurídico de estudio y cuenta del Congreso del Estado que deban participar en actos del procedimiento.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2002)</small>
 
 La recusación podrá hacerse valer por escrito presentado por el servidor público denunciado, cualquier miembro de la Comisión de Responsabilidades o por el denunciante, desde el momento en que el denunciado es emplazado, hasta la fecha en que se cite para la audiencia en la que el Congreso se erigirá en jurado de sentencia, en el caso de juicio político, o en jurado de procedencia, en los casos de declaración de procedencia de juicio penal.
 
@@ -753,7 +783,9 @@ II. En el Poder Legislativo:
 
 a) La Asamblea legislativa, mediante la aprobación de los dictámenes provenientes de las comisiones de tesorería, inspección, responsabilidades y especiales que para el efecto se integren, para aplicar las sanciones a que se refiere el artículo 64 de esta ley, y será la única facultada para aplicar la destitución con inhabilitación;
 
-b) El titular de la Comisión de Tesorería, el oficial mayor, y contador mayor de hacienda, de acuerdo a lo que al efecto regulen sus leyes y reglamentos, podrán imponer el apercibimiento, amonestación, suspensión en el empleo hasta por tres días y la sanción pecuniaria cuando de su aplicación no se exceda de cien veces el salario mínimo diario vigente en la zona económica, y en los demás casos la Asamblea.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2004)</small>
+
+b) El titular de la Comisión de Administración, el Secretario General, y auditor superior del estado, de acuerdo a lo que al efecto regulen sus leyes y reglamentos, podrán imponer el apercibimiento, amonestación, suspensión en el empleo hasta por tres días y la sanción pecuniaria cuando de su aplicación no se exceda de cien veces el salario mínimo diario vigente en la zona económica, y en los demás casos la Asamblea;
 
 III. En el Poder Judicial, incluyéndose los organismos jurisdiccionales autónomos, por los órganos que determinen sus propias leyes orgánicas y reglamentos;
 
@@ -873,7 +905,9 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Tienen obligación de presentar la declaración de situación patrimonial:
 
-I. En el Poder Legislativo, ante el Congreso del Estado, atendiendo a lo dispuesto por su Ley Orgánica: los diputados, el oficial mayor, el contador mayor de hacienda, los directores, jefes de departamento, supervisores y auditores, así como los demás servidores públicos que determine el Congreso del Estado;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
+
+I. En el Poder Legislativo, ante el Congreso del Estado, atendiendo a lo dispuesto por su Ley Orgánica: Los Diputados, el Secretario General, el Auditor Superior, los Directores, Jefes de Departamento, Supervisores, Auditores, Coordinadores y encargados de valores así como, los demás servidores públicos que determine el Congreso del Estado;
 
 II. En el Poder Ejecutivo, ante la Contraloría del Estado:
 
@@ -897,9 +931,11 @@ i) Los demás servidores públicos que determine el titular del Ejecutivo.
 
 III. En el Poder Judicial, ante el órgano que determine su Ley Orgánica: los magistrados, los consejeros generales, los oficiales mayores y jueces de primera instancia, secretarios, así como directores y subdirectores, y los demás que determine el pleno del Consejo General del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
 
-IV. En los gobiernos municipales, ante el Congreso del Estado por conducto del Ayuntamiento: los presidentes municipales o presidentes de los concejos municipales, regidores o concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales de registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
+IV. En los Gobiernos Municipales, ante el Congreso del Estado por conducto de los Ayuntamientos: Los presidentes municipales o presidentes de los concejos municipales, regidores, concejales, síndicos, secretarios generales, tesoreros, encargados de la hacienda municipal, subtesoreros, secretarios, directores, subdirectores, delegados municipales, contralores, jefes y subjefes de departamento, jefes y subjefes de oficina, comandantes, oficiales mayores, oficiales del registro civil, supervisores, auditores, subauditores generales, contadores y subcontadores en general, administradores y, cajeros generales, cajeros pagadores e inspectores y los demás servidores públicos que se establezcan para tal efecto en los reglamentos municipales.
+
+Tendrán también la obligación de presentar su declaración, los servidores de los organismos públicos descentralizados municipales que sean equiparables a los que señala la fracción II inciso h) del presente artículo;
 
 V. En el Tribunal de Arbitraje y Escalafón, por conducto de su presidente: los magistrados, secretarios y oficiales notificadores o sus equivalentes, ante el órgano que determinen su Ley Orgánica y sus reglamentos;
 
@@ -1110,3 +1146,7 @@ TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración 
 P.O. 12 DE OCTUBRE DE 2002.
 
 Único.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE MAYO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
