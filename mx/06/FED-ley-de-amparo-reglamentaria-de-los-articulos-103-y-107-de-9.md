@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2000-06-09"
+last_updated: "2001-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -299,7 +299,7 @@ Se exceptúan de lo previsto en el párrafo anterior, los términos relativos al
 
 Las resoluciones deben ser notificadas a más tardar dentro del día siguiente al en que se hubiesen pronunciado, y se asentará la razón que corresponda inmediatamente después de dicha resolución.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE. E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 El agraviado y el tercero perjudicado podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento, pedir se dicte sentencia para evitar la consumación del término de caducidad o sobreseimiento por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. En las materias civil, mercantil o administrativa, la persona autorizada conforme a la primera parte de este párrafo, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de abogado, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización; pero las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere este párrafo.
 
@@ -1169,9 +1169,9 @@ VIII.- Contra las autoridades responsables, con relación a los juicios de ampar
 
 IX.- Contra actos de las autoridades responsables, en los casos de la competencia de los Tribunales Colegiados de Circuito, en amparo directo, por exceso o defecto en la ejecución de la sentencia en que se haya concedido el amparo al quejoso;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
 
-X.- Contra las resoluciones que pronuncien los jueces de Distrito en el caso previsto en la parte final del artículo 105 de este ordenamiento;
+X.- Contra las resoluciones que se dicten en el incidente de cumplimiento substituto de las sentencias de amparo a que se refiere el artículo 105 de este ordenamiento, así como contra la determinación sobre la caducidad en el procedimiento tendiente al cumplimiento de las sentencias de amparo a que se refiere el segundo párrafo del artículo 113, y
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
@@ -1207,15 +1207,19 @@ En los casos a que se refieren las fracciones II, III y IV del artículo 95, la 
 
 Dada entrada al recurso, se requerirá a la autoridad contra la que se haya interpuesto para que rinda informe con justificación sobre la materia de la queja, dentro del término de tres días. Transcurrido éste, con informe o sin él, se dará vista al Ministerio Público por igual término, y dentro de los tres días siguientes se dictará la resolución que proceda.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 99.
 
-En los casos de las fracciones I, VI y X del artículo 95, el recurso de queja se interpondrá por escrito directamente ante el tribunal colegiado de Circuito que corresponda, acompañando una copia para cada una de las autoridades contra quienes se promueva.
+En los casos de las fracciones I y VI del artículo 95, el recurso de queja se interpondrá por escrito directamente ante el tribunal colegiado de circuito que corresponda, acompañando una copia para cada una de las autoridades contra quienes se promueva.
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 En los casos de las fracciones V, VII, VIII y IX del mismo artículo 95, el recurso de queja se interpondrá por escrito, directamente ante el tribunal que conoció o debió conocer de la revisión, acompañando una copia para cada una de las autoridades contra quienes se promueva y para cada una de las partes en el juicio.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2001)</small>
+
+En los casos de cumplimiento substituto de las sentencias de amparo a que se refiere la fracción X del artículo 95, el recurso de queja se interpondrá por escrito, directamente ante el tribunal colegiado de circuito o ante la Sala de la Suprema Corte de Justicia, según corresponda, acompañando una copia para cada una de las autoridades contra quienes se promueva y para cada una de las partes en el juicio.
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -1279,9 +1283,17 @@ Cuando no se obedeciere la ejecutoria, a pesar de los requerimientos a que se re
 
 Cuando la parte interesada no estuviere conforme con la resolución que tenga por cumplida la ejecutoria, se enviará también, a petición suya, el expediente a la Suprema Corte de Justicia. Dicha petición deberá presentarse dentro de los cinco días siguientes al de la notificación de la resolución correspondiente; de otro modo, ésta se tendrá por consentida.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 2001)</small>
 
-El quejoso podrá solicitar que se dé por cumplida la ejecutoria mediante el pago de los daños y perjuicios que haya sufrido. El juez de Distrito, oyendo incidentalmente a las partes interesadas, resolverá lo conducente. En caso de que proceda, determinará la forma y cuantía de la restitución.
+Cuando la naturaleza del acto lo permita, el Pleno de la Suprema Corte de Justicia, una vez que hubiera determinado el incumplimiento o la repetición del acto reclamado, podrá disponer de oficio el cumplimiento substituto de la sentencia de amparo, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiera obtener el quejoso.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2001)</small>
+
+Una vez que el Pleno determine el cumplimiento substituto, remitirá los autos al juez de distrito o al tribunal de circuito que haya conocido del amparo, para que incidentalmente resuelvan el modo o cuantía de la restitución.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2001)</small>
+
+Siempre que la naturaleza del acto lo permita, el quejoso podrá solicitar ante el juez de distrito o tribunal de circuito que haya conocido del amparo, el cumplimiento substituto de la ejecutoria, quien resolverá de manera incidental lo conducente y, en su caso, el modo o cuantía de la restitución.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -1338,6 +1350,14 @@ En los casos a que se refiere el artículo 106 de esta ley, si la Sala que conce
 ###### ARTICULO 113.
 
 No podrá archivarse ningún juicio de amparo sin que quede enteramente cumplida la sentencia en que se haya concedido al agraviado la protección constitucional o apareciere que ya no hay materia para la ejecución. El Ministerio Público cuidará del cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2001)</small>
+
+Los procedimientos tendientes al cumplimiento de las sentencias de amparo caducarán por inactividad procesal o la falta de promoción de parte interesada durante el término de trescientos días, incluidos los inhábiles. En estos casos el juez o tribunal, de oficio o a petición de parte, resolverá sobre la caducidad y ordenará que la resolución que la declare se notifique a las partes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 2001)</small>
+
+Sólo los actos y promociones que revelen un interés del recurrente por la prosecución del procedimiento interrumpen el término de caducidad.
 
 ## TITULO SEGUNDO. DEL JUICIO DE AMPARO ANTE LOS JUZGADOS DE DISTRITO
 
@@ -1671,7 +1691,7 @@ Al tercero perjudicado se le entregará copia de la demanda por conducto del act
 
 Los jueces de Distrito o las autoridades judiciales que conozcan de los juicios de amparo, con arreglo a esta ley, deberán resolver si admiten o desechan las demandas de amparo dentro del término de veinticuatro horas, contadas desde la en que fueron presentadas.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 ###### ARTICULO 149.
 
@@ -1685,7 +1705,7 @@ Las autoridades responsables deberán rendir su informe con justificación expon
 
 Cuando la autoridad responsable no rinda su informe con justificación se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo del quejoso la prueba de los hechos que determinen su inconstitucionalidad cuando dicho acto no sea violatorio de garantías en sí mismo, sino que su constitucionalidad o inconstitucionalidad dependa de los motivos, datos o pruebas en que se haya fundado el propio acto.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 Si la autoridad responsable no rinde informe con justificación, o lo hace sin remitir, en su caso, la copia certificada a que se refiere el párrafo segundo de este artículo, el juez de Distrito le impondrá, en la sentencia respectiva, una multa de diez a ciento cincuenta días de salario. No se considerará como omisión sancionable, aquélla que ocurra debido al retardo en la toma de conocimiento del emplazamiento, circunstancia que deberá demostrar la autoridad responsable.
 
@@ -2874,3 +2894,7 @@ TERCERO.- La (sic) resoluciones de la autoridad judicial en las que se hubiere p
 D.O.F. 9 DE JUNIO DE 2000.
 
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MAYO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
