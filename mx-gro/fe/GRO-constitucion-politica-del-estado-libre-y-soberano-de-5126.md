@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1988-08-23"
+last_updated: "1988-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1988.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -547,7 +547,9 @@ I.- Ser ciudadano guerrerense en ejercicio pleno de sus derechos.
 
 II.- Tener veintiún años de edad cumplidos el día de la elección.
 
-III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+
+III.- Ser originario del Distrito que pretenda representar o tener una residencia efectiva en el mismo no menor de 5 años inmediatamente anteriores al día de la elección. Tanto los 6 Diputados de representación proporcional que pueda obtener el Partido mayoritario como máximo y los 6 que correspondan a los minoritarios, deberán ser originarios o tener esa residencia efectiva en la circunscripción plurinominal respectiva.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1986)</small>
 
@@ -724,6 +726,10 @@ XVII (sic).- En caso de declararse desaparecido un Ayuntamiento por las causas q
 XXVIII.- En el supuesto caso de tenerse que realizar nuevas elecciones, se nombrará un Consejo Municipal provisional que fungirá hasta en tanto toma posesión el nuevo Ayuntamiento. Si no se verificaran las nuevas elecciones por causas no imputables al Congreso, éste podrá ratificar el nombramiento del Consejo Municipal que se hubiere designado provisionalmente, para que con carácter definitivo, cubra el término legal que correspondería al Ayuntamiento que debió ser electo.
 
 XXIX.- Resolver las licencias o renuncias por causas graves de sus propios miembros, de los integrantes de los Ayuntamientos, del Gobernador y de los Magistrados del Tribunal Superior de Justicia. En el caso de las licencias que se concedan a los Magistrados del Tribunal Superior de Justicia, solo conocerá cuando éstas excedan de dos meses.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+
+XXIX Bis.- Hacer comparecer a los presidentes Municipales a efecto de informar sobre la marcha general de la administración y sobre cualquier asunto relacionado con ésta.
 
 XXX.- Constituirse en Colegio Electoral para nombrar al Gobernador interino cuando la falta temporal del Gobernador Constitucional sea mayor de treinta días, asimismo, para designar al ciudadano que deba reemplazarlo, de conformidad con los términos establecidos en los artículos 69 al 73 de este ordenamiento.
 
@@ -1013,7 +1019,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1115,9 +1121,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1131,9 +1137,9 @@ Las Leyes, decretos, reglamentos y demás disposiciones de carácter general que
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 77.
 
@@ -1243,7 +1249,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1333,9 +1341,9 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 94.
 
@@ -1365,23 +1373,25 @@ Los Ayuntamientos se instalarán el 8 de abril del año en que deban renovarse.
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por más de quince días, sin causa justificada, será sustituido por su suplente, o se procederá según lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 97.
 
-Los Ayuntamientos se integrarán de la siguiente manera:
+Los Ayuntamientos se integrarán por el principio de mayoría relativa y por el de Representación Proporcional a partir de las siguientes bases:
 
-I.- Un Presidente, un Síndico Procurador y dos Regidores, electos según el principio de mayoría relativa y hasta un Regidor más, conforme al principio de representación proporcional, en los Municipios cuya población no exceda de 10,000 habitantes.
+I.- En los Municipios con más de 150 mil habitantes los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores. Cuando posean entre 150 y 300 mil habitantes las formarán también 10 Regidores y 15, si exceden esa cantidad. En el primer caso, habrá además, hasta cuatro Regidores que se eligirán (sic) por el principio de representación proporcional, y en el segundo hasta cinco Regidores.
 
-II.- Un Presidente, un Síndico Procurador y tres Regidores, electos según el principio de mayoría relativa y hasta un Regidor más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 10,001 hasta 70,000 habitantes.
+El primer Síndico conocerá de los asuntos de orden administrativo, financiero, contable y patrimonial, en tanto que el segundo será competente en materia de justicia, seguridad pública y policía y buen gobierno;
 
-III.- Un Presidente, un Síndico Procurador y cinco Regidores, electos según el principio de mayoría relativa y hasta dos Regidores más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 70,001 hasta 200,000 habitantes.
+II.- En los Municipios con población de 75 a 150 mil habitantes, los Ayuntamientos estarán formados por un Presidente, un Síndico y 8 Regidores, pudiendo haber hasta tres Regidores más según el principio de representación proporcional;
 
-IV.- Un Presidente, un Síndico Procurador y siete Regidores, electos según el principio de mayoría relativa y hasta tres Regidores más, conforme al principio de representación proporcional, en los Municipios cuya población sea de 200,001 o más habitantes.
+III.- En los Municipios que reúnan entre 25 y 75 mil habitantes los Ayuntamientos se integrarán por un Presidente, un Síndico y 5 Regidores, y hasta con dos Regidores de representación proporcional; y
 
-Por cada miembro del Ayuntamiento se elegirá un suplente.
+IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá cuatro Regidores, y hasta dos Regidores de representación proporcional.
 
-Las elecciones se harán en los términos que señala la Ley Electoral del Estado, la que deberá establecer el porcentaje mínimo de votos necesarios para la asignación de los Regidores de representación proporcional.
+Por cada miembro del Ayuntamiento se elegirá un Suplente.
+
+Las elecciones se harán en los términos que señala la Ley Electoral del Estado, la que deberá establecer los porcentajes mínimos de votos necesarios para la asignación de los Regidores de representación proporcional.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1391,7 +1401,9 @@ Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento se requiere
 
 I.- Ser ciudadano guerrerense en ejercicio de sus derechos.
 
-II.- Ser originario del Municipio o tener, por lo menos tres años de residencia anteriores a la fecha de la elección.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1988)</small>
+
+II.- Ser originario del Municipio que lo elija o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1986)</small>
 
@@ -1409,7 +1421,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1438,6 +1450,10 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 ###### ARTICULO 102.
 
 Los Ayuntamientos aprobarán los presupuestos de egresos que regirán en el ejercicio fiscal inmediato siguiente con base en sus ingresos disponibles, y sus cuentas serán glosadas preventivamente por el Regidor comisionado para el efecto y por el Tesorero Municipal durante los dos primeros meses del año. Las cuentas públicas se remitirán a más tardar el día quince de marzo a la Contaduría Mayor de Glosa de la Cámara de Diputados, la que comprobará la exactitud de la aplicación de los fondos o, en su caso, determinará las responsabilidades a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1988)</small>
+
+Los Consejos Consultivos de Comisarios Municipales, así como los Consejos Consultivos de Presidentes o Comisariados Ejidales y de Bienes Comunales, deberán rendir opinión, previamente a su aprobación, de los presupuestos de egresos para cada ejercicio fiscal y los programas trianuales que conforme a las Leyes expidan los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1489,7 +1505,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1715,7 +1731,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1735,23 +1751,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1759,9 +1763,19 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
+## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2370,3 +2384,7 @@ Atento a que en el Artículo que se reforma los Municipios se encuentran enumera
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 1988.
+
+UNICO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
