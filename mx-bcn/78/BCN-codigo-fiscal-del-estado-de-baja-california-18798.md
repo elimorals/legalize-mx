@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1999-01-22"
+last_updated: "2000-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2000.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -67,9 +67,9 @@ V.- La Ley de Coordinación Fiscal.
 
 VI.- La Ley de Deuda Pública.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-VII.- El Reglamento Interior de la Secretaría de Finanzas.
+VII.- El Reglamento Interior de la Secretaría de Planeación y Finanzas del Estado.
 
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -83,9 +83,9 @@ IX.- Los Convenios de Coordinación Administrativa que en materia fiscal celebre
 
 X.- Los demás ordenamientos legales que contengan disposiciones de orden hacendario.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-La aplicación e interpretación de los ordenamientos a que se refiere este artículo le compete al Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+La aplicación e interpretación de los ordenamientos a que se refiere este Artículo le compete al Ejecutivo del Estado por conducto de la Secretaría de Planeación y Finanzas.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -149,11 +149,11 @@ Se considera que establecen cargas a los particulares las normas que se refieren
 
 Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho común cuando su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
-La recaudación, administración, determinación, concentración, vigilancia y cobranza de los ingresos que el Estado tiene derecho a percibir, si como los importes de fianzas o garantías que por cualquier motivo deba otorgarse ante cualquier autoridad estatal, estará a cargo de la Secretaría de Finanzas y sus unidades administrativas, de acuerdo con la competencia que le señale el presente Código, el Reglamento Interno de la Secretaría de Finanzas y los demás ordenamientos legales aplicables.
+La recaudación, administración, determinación, concentración, vigilancia y cobranza de los ingresos que el Estado tiene derecho a percibir, así como los importes de fianzas o garantías que por cualquier motivo deba otorgarse ante cualquier autoridad estatal, estará a cargo de la Secretaría de Planeación y Finanzas y sus unidades administrativas, de acuerdo con la competencia que le señale el presente Código, el Reglamento Interno de la Secretaría de Planeación y Finanzas y los demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -161,17 +161,19 @@ La recaudación, administración, determinación, concentración, vigilancia y c
 
 Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables, y competentes para administrar contribuciones Estatales y Federales coordinadas:
 
-I.- El Gobernador;
+I.- El Gobernador.
 
-II.- El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-III.- El Procurador Fiscal;
+II.- El Secretario de Planeación y Finanzas.
 
-IV.- El Director de Ingresos;
+III.- El Procurador Fiscal.
 
-V.- El Director de Auditoría Fiscal;
+IV.- El Director de Ingresos.
 
-VI.- Los Recaudadores;
+V.- El Director de Auditoría Fiscal.
+
+VI.- Los Recaudadores.
 
 VII.- El Subsecretario, los subprocuradores, Subdirectores y Subrecaudadores legal o reglamentariamente autorizados por sí o en ejercicio de suplencia.
 
@@ -293,7 +295,9 @@ B).- En su defecto, el lugar en el que se encuentren cualesquier establecimiento
 
 C).- A falta de los anteriores, el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal.
 
-III.- Si se trata de sucursales o agencias de negociaciones establecidas fuera del Estado, que realicen actos gravados en la Entidad, deberán señalar domicilio para el cumplimiento de sus obligaciones fiscales. De no hacerlo en un plazo de quince días, a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+III.- Si se trata de sucursales o agencias de negociaciones establecidas fuera del Estado, que realicen actos gravados en la Entidad, deberán señalar domicilio para el cumplimiento de sus obligaciones fiscales. De no hacerlo en un plazo de quince días, a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Planeación y Finanzas.
 
 IV.- Tratándose de residentes fuera de la Entidad, que realicen actividades gravadas en el Estado, a través de representantes, agentes, comisionistas o cualquier otro nombre con que se les designe, se considerará como su domicilio el de estas últimas personas.
 
@@ -333,11 +337,11 @@ III.- Dentro de los quince días siguientes a la fecha de celebración u otorgam
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecidos en las Disposiciones respectivas, determina que el crédito sea exigible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 25.
 
-La Secretaría de Finanzas a petición de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios.
+La Secretaría de Planeación y Finanzas a petición de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios.
 
 Solo podrá concederse prórroga para el pago de créditos fiscales cuando con ello no se comprometa su percepción.
 
@@ -389,11 +393,11 @@ Los recargos se causarán hasta por cinco años y se calcularán sobre el total 
 
 Cuando se paguen en forma espontánea las prestaciones omitidas y sus recargos, éstos no excederán del 100% del crédito omitido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 28.
 
-El pago de los créditos fiscales deberá hacerse en efectivo en las oficinas de la Recaudación de Rentas del Estado, así como en las Instituciones de Crédito y demás oficinas que autorice la Secretaría de Finanzas. En caso de que la autoridad fiscal competente, autorice el pago en especie en los términos del presente Código, éste deberá hacerse en el lugar que la misma designe.
+El pago de los créditos fiscales deberá hacerse en efectivo en las oficinas de la Recaudación de Rentas del Estado, así como en las Instituciones de Crédito y demás oficinas que autorice la Secretaría de Planeación y Finanzas. En caso de que la autoridad fiscal competente, autorice el pago en especie en los términos del presente Código, éste deberá hacerse en el lugar que la misma designe.
 
 Los giros postales, telegráficos o bancarios; los cheques certificados; los personales del causante, salvo buen cobro, y los pagos efectuados mediante tarjeta de crédito expedida por Institución de Crédito autorizada, se admitirán como efectivo.
 
@@ -407,25 +411,39 @@ La indemnización mencionada, el monto del cheque y en su caso los recargos, se 
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 28 BIS.- Dentro del Procedimiento Administrativo de Ejecución y hasta antes de que se finque el remate, a fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
+ARTICULO 28 BIS.- Dentro del Procedimiento Administrativo de Ejecución y hasta antes de que se finque el remate, a fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Planeación y Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Las daciones en pago de bienes muebles o inmuebles se ofrecerán acompañando a la solicitud, el correspondiente avalúo pericial emitido por Institución o Perito autorizados; tratándose de servicios, se anexará la estimación de los mismos.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 La Procuraduría Fiscal, atendiendo al avalúo pericial o estimación de servicios exhibidos, determinará el valor y los términos y condiciones en que sean aceptados.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 El valor de los bienes o estimación de los servicios ofrecidos, no podrá ser superior al del mercado en el momento de la aceptación.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 La Aceptación de la dación en pago quedará formalizada y el crédito extinguido total o parcialmente, de la siguiente manera:
 
-I.- Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado a través de la Secretaría de Finanzas, misma que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, será por cuenta del deudor;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+I.- Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado a través de la Secretaría de Planeación y Finanzas, misma que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, será por cuenta del deudor.
 
 II.- Tratándose de bienes muebles a la fecha de firma del acta de entrega de los mismos que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación. Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor; y
 
 III.- Tratándose de servicios, en la fecha de su aceptación, y en cuanto a la extinción del crédito, cuando el servicio se haya prestado.
 
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+
 El Procedimiento Administrativo de Ejecución se seguirá por la parte del crédito que no alcance a ser cubierta con la dación en pago.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
 Los bienes y servicios aceptados en dación en pago, una vez formalizada ésta, deberán ponerse inmediatamente a disposición de Oficialía Mayor de Gobierno para su enajenación, asignación o uso para los fines propios del Gobierno del Estado; debiendo incorporarse al inventario de bienes o al patrimonio inmobiliario del Gobierno del Estado, según corresponda.
 
@@ -463,7 +481,9 @@ Para que se efectúe la devolución de cantidades pagadas indebidamente, será n
 
 I.- Que el derecho para reclamar la devolución no se haya extinguido.
 
-II.- Que la Secretaría de Finanzas dicte el Acuerdo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+II.- Que la Secretaría de Planeación y Finanzas dicte el Acuerdo.
 
 La devolución se hará a petición del interesado o de oficio, dentro de los dos meses siguientes a la fecha en que se presente la solicitud ante la Autoridad Fiscal competente, con todos los datos, informes y documentos que justifiquen la procedencia de la devolución, conforme a las Disposiciones Fiscales. Si dentro de este plazo no se efectúa la devolución, el Fisco Estatal estará obligado a pagar intereses conforme a la tasa prevista para los recargos en los términos del Artículo 27 de este Código, que no excederán en ningún caso el límite que fijará para los recargos, la Ley de Ingresos del Estado.
 
@@ -477,7 +497,9 @@ Además de los casos indicados en el Artículo que antecede, los créditos y ade
 
 Cuando el crédito y el adeudo no provengan de la aplicación del mismo gravamen, el adeudo del Fisco sólo se considerará líquido y exigible si previamente ha sido reconocido por la Autoridad que corresponda.
 
-La compensación será declarada por la Secretaría de Finanzas a petición del interesado o de oficio, cuando llegare a tener conocimiento de que se han satisfecho los requisitos para la compensación.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+La compensación será declarada por la Secretaría de Planeación y Finanzas a petición del interesado o de oficio, cuando llegare a tener conocimiento de que se han satisfecho los requisitos para la compensación.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -503,7 +525,9 @@ Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deber
 
 Las multas que hubieren quedado firmes deberán ser condonadas totalmente, si por pruebas diversas de las presentadas ante las Autoridades Administrativas o Jurisdiccionales, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
 
-Las multas por infracción a las Disposiciones Fiscales podrán ser condonadas parcial o totalmente por la Secretaría de Finanzas, la que apreciará discrecionalmente los motivos que tuvo la Autoridad que impuso la sanción y las demás circunstancias del caso.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Las multas por infracción a las Disposiciones Fiscales podrán ser condonadas parcial o totalmente por la Secretaría de Planeación y Finanzas, la que apreciará discrecionalmente los motivos que tuvo la Autoridad que impuso la sanción y las demás circunstancias del caso.
 
 ###### ARTICULO 37.
 
@@ -519,7 +543,9 @@ La prescripción del crédito principal extingue simultáneamente sus accesorios
 
 Los créditos a cargo del erario estatal y los depósitos a su cuidado constituidos en efectivo o en valores, prescriben en cinco años contados a partir de la fecha en que el acreedor pueda legalmente exigir su devolución, salvo que las leyes especiales establezcan otros términos.
 
-Transcurrido el plazo anterior, la Secretaría de Finanzas declarará de oficio la prescripción de los créditos o depósitos respectivos.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Transcurrido el plazo anterior, la Secretaría de Planeación y Finanzas declarará de oficio la prescripción de los créditos o depósitos respectivos.
 
 ###### ARTICULO 39.
 
@@ -543,7 +569,9 @@ II.- Del día siguiente al en que se produjo el hecho generador del crédito fis
 
 III.- Del día siguiente al en que se hubiere cometido la infracción, pero si la infracción fuere de carácter contínuo, el término correrá a partir del día siguiente al en que hubiere cesado.
 
-Las facultades de la Secretaría de Finanzas para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este Artículo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Las facultades de la Secretaría de Planeación y Finanzas para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este Artículo.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -555,13 +583,17 @@ Los particulares podrán solicitar que se declare que ha prescrito algún crédi
 
 Si la Autoridad determina el crédito o realiza el cobro, la prescripción o caducidad, sólo podrá hacerse valer en vía de excepción, mediante recurso administrativo o juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 42.
 
-Procederá la cancelación de los créditos fiscales mediante Acuerdo que dicte el Secretario de Finanzas:
+Procederá la cancelación de los créditos fiscales mediante Acuerdo que dicte el Secretario de Planeación y Finanzas:
 
 I.- Cuando los sujetos del crédito sean insolventes, previa comprobación ante la citada Secretaría.
 
-II.- Cuando resulte incosteable su cobro, a juicio de la propia Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+II.- Cuando resulte incosteable su cobro, a juicio de la propia Secretaría de Planeación y Finanzas.
 
 ### CAPITULO III. DE LAS INFRACCIONES Y SANCIONES
 
@@ -897,29 +929,37 @@ Multa de cinco a doscientas veces el salario mínimo.
 
 Los proveídos mediante los cuales impongan multas deberán ser notificados a los infractores en la forma establecida en este Código, otorgando un plazo de quince días para el pago de su importe, transcurrido dicho plazo procederá iniciar el procedimiento de ejecución.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 51 BIS.- De los incentivos económicos que perciba el Estado con motivo del ejercicio de las facultades delegadas a través del Convenio de Colaboración Administrativa en materia Fiscal Federal, se destinará el 10% a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades citadas en el artículo 13 de este Código, así como a los programas de capacitación de dicho personal en la forma y términos que establezcan los acuerdos de carácter administrativo que emita la Secretaría de Finanzas, los cuales deberán hacerse del conocimiento del Congreso del Estado, para los efectos de revisión de Cuenta Pública; debiéndose afectar el Presupuesto de Egresos en los programas y partidas que correspondan por los montos asignables.
+ARTICULO 51 BIS.- De los incentivos económicos que perciba el Estado con motivo del ejercicio de las facultades delegadas a través del Convenio de Colaboración Administrativa en materia Fiscal Federal, se destinará el 10% a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades citadas en el artículo 13 de este Código, así como a los programas de capacitación de dicho personal en la forma y términos que establezcan los acuerdos de carácter administrativo que emita la Secretaría de Planeación y Finanzas, los cuales deberán hacerse del conocimiento del Congreso del Estado, para los efectos de revisión de Cuenta Pública; debiéndose afectar el Presupuesto de Egresos en los programas y partidas que correspondan por los montos asignables.
 
 ### CAPITULO IV. DE LOS DELITOS FISCALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 52.
 
-Para proceder penalmente por los delitos previstos en los Artículos 59, 61, 62 y 67 de este Código, será necesario que la Secretaría de Finanzas del Estado, declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
+Para proceder penalmente por los delitos previstos en los Artículos 59, 61, 62 y 67 de este Código, será necesario que la Secretaría de Planeación y Finanzas del Estado, declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
 
 En cuanto a los delitos tipificados en los Artículos 59, 61, 62, 63, 65 y 67 de este Código, se requerirá querella de la propia Secretaría.
 
-Los procesos por delitos fiscales a que se refiere el Párrafo anterior, se sobreseerán a petición de la Secretaría de Finanzas del Estado, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-En los delitos fiscales en que el daño o perjuicio sea cuantificable, la Secretaría de Finanzas hará la liquidación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones. La citada liquidación sólo surtirá efectos en el procedimiento penal.
+Los procesos por delitos fiscales a que se refiere el Párrafo anterior, se sobreseerán a petición de la Secretaría de Planeación y Finanzas del Estado, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien, estos créditos fiscales queden garantizados a satisfacción de la Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+En los delitos fiscales en que el daño o perjuicio sea cuantificable, la Secretaría de Planeación y Finanzas hará la liquidación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones. La citada liquidación sólo surtirá efectos en el procedimiento penal.
 
 ###### ARTICULO 53.
 
 En los delitos fiscales la Autoridad Judicial no impondrá sanción pecuniaria; las Autoridades administrativas con arreglo a las Leyes Fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 54.
 
-La acción penal en los delitos fiscales perseguibles por querella de la Secretaría de Finanzas, se extinguen en tres años contados a partir del día en que dicha Secretaría tenga conocimiento de los hechos delictuosos.
+La acción penal en los delitos fiscales perseguibles por querella de la Secretaría de Planeación y Finanzas, se extinguen en tres años contados a partir del día en que dicha Secretaría tenga conocimiento de los hechos delictuosos.
 
 A falta de dicho conocimiento, en cinco años contados a partir de la fecha de la comisión del delito.
 
@@ -931,7 +971,9 @@ En todo lo no previsto en el presente Capítulo, serán aplicables las normas co
 
 Comete el delito de uso de formas valoradas o numeradas, placas tarjetones o cualquier otro medio de control fiscal falsificado:
 
-I.- El particular o empleado público que a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Finanzas del Estado, los posea, venda, ponga en circulación o, en su caso, adhiera en documentos, objetos o libros para ostentar el pago de alguna prestación fiscal.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+I.- El particular o empleado público que a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Planeación y Finanzas del Estado, los posea, venda, ponga en circulación o, en su caso, adhiera en documentos, objetos o libros para ostentar el pago de alguna prestación fiscal.
 
 II.- El particular o empleado público que los posea, venda, ponga en circulación o los utilice para el pago de alguna prestación fiscal, alterados en sus características, a sabiendas de esta circunstancia.
 
@@ -949,9 +991,13 @@ Al empleado oficial que en cualquier forma participe en el delito citado, se le 
 
 Se impondrá de tres a doce años de prisión a quien:
 
-I.- Grabe o manufacture sin autorización de la Secretaría de Finanzas del Estado, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría usa para imprimir, gravar o troquelar cualquier comprobante de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-II.- Imprima, grabe o troquele tarjetones o comprobantes de pago de prestaciones fiscales y objetos que se utilicen oficialmente como medio de control fiscal, sin autorización de la Secretaría de Finanzas del Estado.
+I.- Grabe o manufacture sin autorización de la Secretaría de Planeación y Finanzas del Estado, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría usa para imprimir, gravar o troquelar cualquier comprobante de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+II.- Imprima, grabe o troquele tarjetones o comprobantes de pago de prestaciones fiscales y objetos que se utilicen oficialmente como medio de control fiscal, sin autorización de la Secretaría de Planeación y Finanzas del Estado.
 
 III.- Altere en sus características las formas valoradas o numeradas, placas, tarjetones, comprobantes de prestaciones fiscales y objetos que se utilicen oficialmente como medio de control fiscal.
 
@@ -1153,7 +1199,9 @@ V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solve
 
 La garantía de un crédito fiscal deberá comprender sus accesorios.
 
-La Secretaría de Finanzas vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o considerará como no garantizado el interés fiscal.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+La Secretaría de Planeación y Finanzas vigilará que sean suficientes, tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o considerará como no garantizado el interés fiscal.
 
 ###### ARTICULO 79.
 
@@ -1171,9 +1219,11 @@ La devolución de depósitos o cancelación de fianzas o hipotecas, serán orden
 
 ### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 81.
 
-Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación que a las mismas deba hacerse de las Disposiciones Fiscales, tendrán derecho a que la Secretaría de Finanzas dicte resolución sobre tales consultas. Si no plantean situaciones reales y concretas, la Secretaría se abstendrá de resolver consultas relativas a la interpretación general, abstracta e impersonal de las Disposiciones Fiscales.
+Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación que a las mismas deba hacerse de las Disposiciones Fiscales, tendrán derecho a que la Secretaría de Planeación y Finanzas dicte resolución sobre tales consultas. Si no plantean situaciones reales y concretas, la Secretaría se abstendrá de resolver consultas relativas a la interpretación general, abstracta e impersonal de las Disposiciones Fiscales.
 
 ###### ARTICULO 82.
 
@@ -1181,13 +1231,17 @@ Las instancias o peticiones que se formulen a las Autoridades Fiscales deberán 
 
 El silencio de las Autoridades Fiscales se considerará como resolución negativa cuando transcurra el término que corresponda.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 83.
 
-Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado, mediante juicio iniciado por la Secretaría de Finanzas.
+Las resoluciones administrativas de carácter individual favorables a un particular, solo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado, mediante juicio iniciado por la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 84.
 
-La Secretaría de Finanzas podrá dar a conocer a las diversas Dependencias, el criterio que deberán seguir en cuanto a la aplicación de las Disposiciones Fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos, cuando se publiquen en el Periódico Oficial del Estado.
+La Secretaría de Planeación y Finanzas podrá dar a conocer a las diversas Dependencias, el criterio que deberán seguir en cuanto a la aplicación de las Disposiciones Fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos, cuando se publiquen en el Periódico Oficial del Estado.
 
 ###### ARTICULO 85.
 
@@ -1303,11 +1357,11 @@ IV.- Proveer lo necesario para la prevención y resolución de problemas de los 
 
 V.- Efectuar periódicamente en los distintos Municipios del Estado reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 94 BIS.- La Secretaría de Finanzas con el propósito de facilitar el cumplimiento de las obligaciones de los contribuyentes, podrá emitir los criterios o reglas de carácter general relacionados con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, las infracciones o las sanciones de las mismas.
+ARTICULO 94 BIS.- La Secretaría de Planeación y Finanzas con el propósito de facilitar el cumplimiento de las obligaciones de los contribuyentes, podrá emitir los criterios o reglas de carácter general relacionados con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, las infracciones o las sanciones de las mismas.
 
-Así mismo, los funcionarios fiscales competentes podrán dar a conocer a las Unidades Administrativas de la Secretaría de Finanzas el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares, y únicamente se generarán derechos a los mismos cuando se publiquen en el Periódico Oficial del Estado.
+Así mismo, los funcionarios fiscales competentes podrán dar a conocer a las Unidades Administrativas de la Secretaría de Planeación y Finanzas el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares, y únicamente se generarán derechos a los mismos cuando se publiquen en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1335,7 +1389,9 @@ V.- Practicar u ordenar se practique avalúo, clasificación, comprobación o ve
 
 VI.- Recabar de los funcionarios públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones así como de aquellos relacionados con el cumplimiento de las disposiciones fiscales.
 
-VII.- Efectuar las verificaciones de los lugares, bienes o mercancías en la forma que para el control de los gravámenes determine la Secretaría de Finanzas. En estos casos el inspector deberá estar facultado expresamente y por escrito, para la vigilancia del cumplimiento de los Ordenamientos relativos, dentro de la Zona en que se haga la verificación, inclusive de los vehículos en tránsito.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+VII.- Efectuar las verificaciones de los lugares, bienes o mercancías en la forma que para el control de los gravámenes determine la Secretaría de Planeación y Finanzas. En estos casos el inspector deberá estar facultado expresamente y por escrito, para la vigilancia del cumplimiento de los Ordenamientos relativos, dentro de la Zona en que se haga la verificación, inclusive de los vehículos en tránsito.
 
 VIII.- Allegarse las pruebas necesarias para presentar denuncias, querella o declaratoria de Perjuicio ante el Ministerio Público, de la posible comisión de delitos fiscales.
 
@@ -1433,7 +1489,9 @@ ARTICULO 97 BIS.- Los visitados, sus representantes, o la persona con quien se e
 
 También deberán permitir la verificación de bienes y mercancías, así como de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio autorizado administrativamente por la Secretaría de Planeación y Finanzas, deberán poner a disposición de los visitadores el equipo de cómputo.
 
 Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que previo cotejo con los originales, se certifiquen por los visitadores:
 
@@ -1599,9 +1657,11 @@ II.- Si la contabilidad del causante no permite reconstruir las operaciones del 
 
 Al ingreso o valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 105.
 
-Sin perjuicio de las facultades que otorga este Código a las autoridades fiscales para la aplicación de sanciones, la Secretaría de Finanzas podrá clausurar las negociaciones de cualquier giro, en los casos siguientes:
+Sin perjuicio de las facultades que otorga este Código a las autoridades fiscales para la aplicación de sanciones, la Secretaría de Planeación y Finanzas podrá clausurar las negociaciones de cualquier giro, en los casos siguientes:
 
 I.- Cuando el causante omita el pago de sus impuestos en tres meses consecutivos.
 
@@ -1615,7 +1675,9 @@ Para efectuar la clausura que señala este Artículo, deberá requerirse previam
 
 Los hechos afirmados en los dictámenes que formulen contadores públicos sobre los estados financieros y su relación con las declaraciones fiscales, se presumirán ciertos, salvo prueben en contrario, si reúnen los siguientes requisitos:
 
-I.- Que el Contador Público que dictamine esté registrado en la Secretaría de Finanzas del Estado. Se inscribirá para estos efectos a las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública y en el Gobierno del Estado y que sean miembros de un Colegio de Contadores reconocido por esas autoridades.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+I.- Que el Contador Público que dictamine esté registrado en la Secretaría de Planeación y Finanzas del Estado. Se inscribirá para estos efectos a las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública y en el Gobierno del Estado y que sean miembros de un Colegio de Contadores reconocido por esas autoridades.
 
 II.- Que el dictamen se formule conforme a las normas y procedimientos de auditoría generalmente aceptados y de acuerdo con las disposiciones fiscales relativas.
 
@@ -1905,9 +1967,11 @@ Cuando no se encuentren registrados, la inscripción se hará en la oficina de C
 
 Cuando los bienes inmuebles, derechos reales o posesionarios y negociaciones queden comprendidos en las (sic) circunscripción de dos o más oficinas del Regitro (sic) Público de la Propiedad y del Comercio o de oficinas de Catastro, en todas se inscribirá el secuestro.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 139.
 
-Los secuestros administrativos podrán ampliarse a otros bienes del deudor en cualquier momento del procedimiento de ejecución, por instrucciones de la Secretaría de Finanzas, de la Dirección de Ingresos o de las oficinas recaudadoras del Estado, cuando del avalúo resulte que los bienes embargados no bastan para garantizar las prestaciones fiscales insólitas y los vencimientos inmediatos.
+Los secuestros administrativos podrán ampliarse a otros bienes del deudor en cualquier momento del procedimiento de ejecución, por instrucciones de la Secretaría de Planeación y Finanzas, de la Dirección de Ingresos o de las oficinas recaudadoras del Estado, cuando del avalúo resulte que los bienes embargados no bastan para garantizar las prestaciones fiscales insolutas y los vencimientos inmediatos.
 
 ###### ARTICULO 140.
 
@@ -1999,7 +2063,9 @@ I.- Que el deudor se conforme con ello por escrito ante la autoridad ejecutora.
 
 II.- Que medie orden escrita de autoridad competente.
 
-En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, se enviarán en depósito a la Secretaría de Finanzas, mientras resuelvan las autoridades competentes.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, se enviarán en depósito a la Secretaría de Planeación y Finanzas, mientras resuelvan las autoridades competentes.
 
 #### SECCION III. REMATES
 
@@ -2011,13 +2077,17 @@ Las autoridades fiscales procederán al remate de los bienes embargados después
 
 Salvo los casos que este Código autoriza, toda venta se hará en subasta pública que se celebrará en el local de la oficina recaudadora.
 
-La secretaría de Finanzas, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta y ordenar que los bienes embargados se vendan en lotes o fracciones.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+La Secretaría de Planeación y Finanzas, con el objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta y ordenar que los bienes embargados se vendan en lotes o fracciones.
 
 ###### ARTICULO 154.
 
 Las oficinas ejecutoras podrán vender fuera de subasta cuando se trate de bienes de fácil descomposición o deterioro, o de materias inflamables o de semovientes y, cuando después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la última almoneda.
 
-Cuando se trate de bienes raíces o de bienes muebles que habiendo salido a subasta en las tres almonedas no se hubieren presentado postores, las oficinas ejecutoras solicitarán de la Secretaría de Finanzas, autorización para su venta al mejor comprador.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Cuando se trate de bienes raíces o de bienes muebles que habiendo salido a subasta en las tres almonedas no se hubieren presentado postores, las oficinas ejecutoras solicitarán de la Secretaría de Planeación y Finanzas, autorización para su venta al mejor comprador.
 
 También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado, cubra cuando menos la totalidad de los créditos fiscales.
 
@@ -2077,9 +2147,9 @@ Las autoridades no fiscales en ningún caso podrán sacar a remate bienes embarg
 
 Los remates que se celebren en contravención a los (sic) dispuesto en el párrafo anterior, serán nulos y las adjudicaciones que hagan como consecuencia de ellos, carecerán de todo valor y eficacia jurídica.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
-Sin embargo las autoridades no fiscales, podrán secuestrar el remanente que llegado el caso, resulte del remate administrativo para los efectos del artículo 151, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas.
+Sin embargo las autoridades no fiscales, podrán secuestrar el remanente que llegado el caso, resulte del remate administrativo para los efectos del artículo 151, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Planeación y Finanzas.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -2141,7 +2211,9 @@ El día y hora señalados en la convocatoria, la autoridad ejecutora, después d
 
 Se fincará el remate en favor de quien hubiere hecho la mejor postura.
 
-Si en última postura se ofrece igual suma por dos o más licitadores, la Secretaría de Finanzas decidirá la que deba aceptarse.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+Si en última postura se ofrece igual suma por dos o más licitadores, la Secretaría de Planeación y Finanzas decidirá la que deba aceptarse.
 
 ###### ARTICULO 169.
 
@@ -2153,25 +2225,29 @@ El Fisco del Estado tendrá preferencia para adjudicarse en cualquier almoneda, 
 
 I.- A falta de postores, por la base de la postura legal que habrá de servir para la almoneda siguiente.
 
-II.- A falta de pujas, por la base de la postura legal no mejorada;
+II.- A falta de pujas, por la base de la postura legal no mejorada.
 
 III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate.
 
 IV.- Hasta por el monto del adeudo, si éste no excede de la cantidad en que deba fincarse el remate en la tercera almoneda.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 171.
 
-Para que la Autoridad ejecutora decrete la adjudicación a que se refiere el Artículo anterior, solicitará la aprobación de la Secretaría de Finanzas.
+Para que la Autoridad ejecutora decrete la adjudicación a que se refiere el Artículo anterior, solicitará la aprobación de la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 172.
 
 Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los cinco días siguientes a la fecha del remate, enterará de contado en la caja de la Oficina Recaudadora, el saldo de la cantidad ofrecida en su postura o mejoras, y en su defecto, constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando en los términos del Artículo 78 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 173.
 
-Si los bienes rematados fueren inmuebles y los muebles cuyo valor exceda del monto equivalente a un año del salario mínimo general vigente en el Estado en esa fecha, una vez fincado el remate, se enviará el expediente a la Secretaría de Finanzas, para que dentro del término de cinco días resuelva si es de aprobarse el remate.
+Si los bienes rematados fueren inmuebles y los muebles cuyo valor exceda del monto equivalente a un año del salario mínimo general vigente en el Estado en esa fecha, una vez fincado el remate, se enviará el expediente a la Secretaría de Planeación y Finanzas, para que dentro del término de cinco días resuelva si es de aprobarse el remate.
 
-Si la resolución es negativa, el fincamiento que haya hecho la Autoridad ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva la cantidad que hubiere exhibido.
+Si la resolución es negativa, el fincamiento que haya hecho la Autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva la cantidad que hubiere exhibido.
 
 ###### ARTICULO 174.
 
@@ -2209,7 +2285,9 @@ Cuando hubiere varios créditos en un mismo procedimiento de ejecución, la apli
 
 Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregarán al embargo, salvo que medie orden escrita de autoridad competente.
 
-En caso de conflicto, el remanente se depositará en la Secretaría de Finanzas, en tanto resuelven los Tribunales competentes.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+
+En caso de conflicto, el remanente se depositará en la Secretaría de Planeación y Finanzas, en tanto resuelven los Tribunales competentes.
 
 ###### ARTICULO 180.
 
@@ -2444,3 +2522,7 @@ La presente reforma entrará en vigor a partir del día siguiente de su publicac
 P.O. 22 DE ENERO DE 1999.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 4 DE DICIEMBRE DE 2000.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
