@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1963-07-07"
+last_updated: "1966-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1966.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -153,13 +153,13 @@ Los vecinos de cualquier Municipio y los transeúntes que se encuentren en él, 
 
 De los Ciudadanos guanajuatenses.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1966)</small>
 
 ###### Art. 19.
 
-Son Ciudadanos del Estado, los varones que a la calidad de guanajuatenses, unan las siguientes:
+Son ciudadanos del Estado los varones y las mujeres que, teniendo la calidad de guanajuatenses, reúnan, además, los siguientes requisitos:
 
-I. Haber cumplido dieciocho años si son casados o veintiuno si no lo son.
+I. Haber cumplido 18 años, siendo casados, o 21 siendo solteros; y
 
 II. Tener un modo honesto de vivir.
 
@@ -181,7 +181,7 @@ V. Ejercer en ellos el derecho de petición.
 
 ###### Art. 21.
 
-Las mujeres profesionistas y las que vivan de sus rentas o propiedades inmuebles o que tengan establecimientos mercantiles o industriales abiertos, pueden votar en las elecciones para nombrar funcionarios Municipales. Estas últimas, siempre que sepan leer y escribir.
+(DEROGADO, P.O. 16 DE ENERO DE 1966)
 
 ###### Art. 22.
 
@@ -1274,3 +1274,7 @@ Artículo Primero.- Este decreto entrará en vigor el día de su publicación en
 Artículo Segundo.- Los tres Magistrados Propietarios que se nombren, para dar cumplimiento al precepto que se reforma, integrarán la Segunda Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado.
 
 Artículo Tercero.- Los asuntos que actualmente se tramitan en la Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado, se distribuirán entre los Magistrados de las Salas Primera y Segunda del propio Ramo, en igual número, para la substanciación de los mismos o su resolución por dichas Salas, según proceda, de conformidad con la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 16 DE ENERO DE 1966.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
