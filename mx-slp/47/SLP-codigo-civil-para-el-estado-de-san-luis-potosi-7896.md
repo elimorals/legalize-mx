@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1997-08-07"
+last_updated: "1998-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -883,7 +883,17 @@ XVII.- El mutuo consentimiento;
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 1990)</small>
 
-XVIII.- La separación de los cónyuges por más de dos años independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos.
+XVIII.- La separación de los cónyuges por más de dos años independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
+
+Para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 284 ter de este Código.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
 
 ART. 227.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
 
@@ -945,15 +955,17 @@ IV.- Dictar las medidas que se estimen convenientes para que los cónyuges no se
 
 V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a la mujer que quede encinta;
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente;
 
-ART. 244.- La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 226, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 226, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-Tercera.- En el caso de las fracciones VI y VII del artículo 226, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+ART. 244.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los mismos. De oficio o a petición de parte interesada, durante todo el procedimiento se allegará los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de éstos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+
+La protección para los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
@@ -980,6 +992,8 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 ART. 251.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
 
 ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I. Del Parentesco
 
@@ -1077,7 +1091,21 @@ ART. 283.- Cuando el deudor alimentario no estuviere presente o estándolo rehus
 
 ART. 284.- El cónyuge que se haya amparado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 149. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-## TITULO SEXTO. Del Parentesco y de los Alimentos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+## TITULO SEXTO. Del Parentesco, de los Alimentos y de la Violencia Familiar
+
+### CAPITULO III. De la Violencia Familiar
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 284 BIS.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, para lograr su sano desarrollo y plena incorporación y participación en el núcleo familiar y social. Al efecto, contará con la asistencia y protección de las instituciones públicas, de conformidad con lo dispuesto en las leyes.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 284 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+
+Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas, independientemente de que pueda producir o no lesiones, y exista una relación de parentesco, matrimonio o concubinato.
 
 ### CAPITULO I. De los Hijos de Matrimonio
 
@@ -1175,6 +1203,8 @@ ART. 312.- La posesión de hijos nacido de matrimonio no pueden perderse sino po
 
 ART. 313.- Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá hacer uso de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
+## TITULO SEPTIMO. De la Paternidad y Filiación
+
 ### CAPITULO III. De la Legitimación
 
 ART. 314.- El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
@@ -1190,8 +1220,6 @@ ART. 317.- Aunque el reconocimiento sea posterior, los hijos adquieren todos sus
 ART. 318.- Pueden gozar también del derecho que les concede el artículo 314, los descendientes de los hijos fallecidos al tiempo de celebrarse el matrimonio de sus padres.
 
 ART. 319.- Los hijos no nacidos pueden también gozar del mismo derecho siempre que el padre al casarse declare que reconoce al hijo de quien la mujer está encinta o que le reconoce si aquélla estuviere encinta.
-
-## TITULO SEPTIMO. De la Paternidad y Filiación
 
 ### CAPITULO IV. Del Reconocimiento de los Hijos Nacidos Fuera de Matrimonio
 
@@ -1373,49 +1401,61 @@ ART. 370 BIS.- Las disposiciones de este Capítulo relativas a la adopción ser�
 
 ### CAPITULO I. De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos
 
-ART. 371.- Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 371.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
 ART. 372.- Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deba ejercerla conforme a la Ley.
 
 ART. 373.- La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-ART. 374.- La patria potestad sobre los hijos de matrimonio, se ejerce:
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-I.- Por el padre y la madre;
+ART. 374.- La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
-II.- Por el abuelo y la abuela paternos;
+A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
 
-III.- Por el abuelo y la abuela maternos.
+ART. 375.- (DEROGADO, P.O. 31 DE OCTUBRE DE 1998)
 
-ART. 375.- Cuando los dos progenitores han reconocido al hijo nacido fuera del matrimonio y viven juntos, ejercerán ambos la patria potestad.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-Si viven separados, se observará en su caso, lo dispuesto en los artículos 340 y 341.
+ART. 376.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 90 del Código de Procedimientos Civiles del Estado.
 
-ART. 376.- En los casos previstos en los artículos 340 y 341, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-ART. 377.- Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos, se separen, continuará ejerciendo la patria potestad en caso de que no se pongan de acuerdo sobre este punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 377.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 
-ART. 378.- A falta de padres ejercerán la patria potestad sobre los hijos, los demás ascendientes en el orden a que se refieren las Fracciones II y III del Artículo 374, mismo que puede ser alterado por el Juez de Primera Instancia cuando en su concepto traiga consigo un mayor beneficio para los menores.
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor.
+
+Sólo por mandado judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 378.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+
+La anterior custodia podrá terminar por decisión del pariente que la realiza, por quienes ejercen la patria potestad o por resolución judicial.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
 
 ART. 379.- La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten. En la adopción plena la patria potestad se ejercerá en los términos señalados en este Código para los hijos consanguíneos.
 
-ART. 380.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad, los que sigan en el orden establecido en los artículos anteriores.
-
-Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quedare continuará en el ejercicio de ese derecho.
+ART. 380.- (DEROGADO, P.O. 31 DE OCTUBRE DE 1998)
 
 ART. 381.- Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
 
-ART. 382.- A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarle convenientemente.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 382.- A las personas que tienen al menor bajo su patria potestad o custodia incumbe la obligación de educarlo convenientemente.
 
-ART. 383.- Para los efectos del Artículo anterior, los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y castigarlos mesuradamente y la obligación de observar una conducta que sirva de buen ejemplo.
+Cuando llegue a conocimiento de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida en el párrafo anterior, lo harán del conocimiento del Ministerio Público para que promueva lo que corresponda.
 
-Las autoridades en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad de los padres.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 383.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+
+La facultad de corregir no implica infringir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 284 ter de este Código.
 
 ART. 384.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejercen igual derecho. En caso de irracional disenso, resolverá el juez.
 
@@ -1489,15 +1529,31 @@ II.- Con la emancipación;
 
 III.- Por la mayor edad del hijo.
 
-ART. 404.- La patria potestad se pierde:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-I.- Cuando el que la ejerce es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
+ART. 404.- La patria potestad se pierde por resolución judicial:
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
 II.- En los casos de divorcio teniendo en cuenta lo que dispone el artículo 244;
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
+IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 404 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 284 ter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ART. 405.- La madre o abuela que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
 
@@ -1603,6 +1659,8 @@ ART. 439.- Si por un nombramiento condicional de tutor o por algún otro motivo 
 
 ART. 440.- El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
+## TITULO OCTAVO. De la Patria Potestad
+
 ### CAPITULO III. De la Tutela Legítima de los Menores
 
 ART. 441.- Ha lugar a tutela legítima:
@@ -1620,8 +1678,6 @@ II.- Por falta o incapacidad de los hermanos a los demás colaterales dentro del
 ART. 443.- Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años el hará la elección.
 
 ART. 444.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
-
-## TITULO OCTAVO. De la Patria Potestad
 
 ### CAPITULO IV. De la Tutela Legítima de los dementes, idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que habitualmente abusen de las drogas enervantes
 
@@ -1641,11 +1697,21 @@ ART. 450.- El tutor del incapacitado que tenga hijos menores bajo su patria pote
 
 ### CAPITULO V. De la Tutela Legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en Establecimientos de Beneficiencia (sic)
 
-ART. 451.- La Ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-ART. 452.- Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+ART. 451.- La ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-ART. 453.- En el caso del artículo anterior no es necesario discernimiento del cargo.
+Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley están obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 452.- Los responsables de las casas de asistencia, públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 453.- Los responsables de las casas de asistencia, públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 284 ter de este Código, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso harán del conocimiento del Ministerio Público y de a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+
+## TITULO NOVENO. De la Tutela
 
 ### CAPITULO VI. De la Tutela Dativa
 
@@ -1658,8 +1724,6 @@ II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su ca
 ART. 455.- El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene causa en contrario. Para reprobar los ulteriores nombramientos que haga el menor, se oirá además, a un defensor que él mismo elegirá. Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez.
 
 ART. 456.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
-
-## TITULO NOVENO. De la Tutela
 
 ### CAPITULO VII. De las personas inhábiles para el desempeño de la Tutela y de las que deben ser separadas de ella
 
@@ -2233,6 +2297,8 @@ ART. 642.- Muerto el que haya obtenido la posesión provisional le sucederán su
 
 ART. 643.- Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos, ya sea industriales, naturales o civiles.
 
+## TITULO DECIMO. De la Emancipación y la Mayor Edad
+
 ### CAPITULO IV. De la Administración de los Bienes del Ausente Casado
 
 ART. 644.- La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
@@ -2248,8 +2314,6 @@ ART. 648.- En el caso previsto en el artículo 643, si el cónyuge presente entr
 ART. 649.- Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos.
 
 ART. 650.- Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
-
-## TITULO DECIMO. De la Emancipación y la Mayor Edad
 
 ### CAPITULO V. De la Presunción de Muerte del Ausente
 
@@ -2287,6 +2351,8 @@ ART. 660.- Transcurridos diez años de la declaración de presunción de muerte 
 
 ART. 661.- Después de diez años de declarada la presunción de muerte, el ausente que regrese o de cuya existencia se tenga noticia cierta, no podrá recobrar sus bienes sino sólo tendrá derecho a alimentos o a participar en la mitad de los frutos, a su elección.
 
+## TITULO UNDECIMO. De los Ausentes e Ignorados
+
 ### CAPITULO VI. De los efectos de la Ausencia respecto de los derechos eventuales del ausente
 
 ART. 662.- Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
@@ -2298,8 +2364,6 @@ ART. 664.- En este caso, los coherederos o sucesores se considerarán como posee
 ART. 665.- Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores o legatarios y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
 
 ART. 666.- Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe mientras el ausente no comparezca, y sus acciones no sean ejercitadas por su representante, o por los que, por contrato o cualquiera otra causa tenga con él relaciones jurídicas.
-
-## TITULO UNDECIMO. De los Ausentes e Ignorados
 
 ### CAPITULO VII. Disposiciones Generales
 
@@ -2545,6 +2609,8 @@ ART. 729.- Cuando por alguna circunstancia especial fuere necesario, a juicio de
 
 ART. 730.- La venta se hará siempre en almoneda pública.
 
+## TITULO DUODECIMO. Del Patrimonio de la Familia
+
 ### CAPITULO V. De los Bienes Vacantes
 
 ART. 731.- Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido.
@@ -2557,7 +2623,17 @@ ART. 734.- El denunciante recibirá la cuarta parte del valor catastral de los b
 
 ART. 735.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
 
-## TITULO DUODECIMO. Del Patrimonio de la Familia
+# LIBRO SEGUNDO. De los Bienes
+
+## TITULO PRIMERO. Disposiciones Preliminares
+
+ART. 694.- Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
+
+ART. 695.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de Ley.
+
+ART. 696.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la Ley, las que ella declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. Clasificación de los Bienes
 
 ### CAPITULO UNICO
 
@@ -2682,18 +2758,6 @@ VI.- Por reivindicación del propietario;
 VII.- Por expropiación por causa de utilidad pública.
 
 ART. 775.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
-
-# LIBRO SEGUNDO. De los Bienes
-
-## TITULO PRIMERO. Disposiciones Preliminares
-
-ART. 694.- Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
-
-ART. 695.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de Ley.
-
-ART. 696.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la Ley, las que ella declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. Clasificación de los Bienes
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -2917,6 +2981,8 @@ ART. 876.- Si la especificación se hizo de mala fe, el dueño de la materia emp
 
 ART. 879 (SIC).- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 849 y 850.
 
+## TITULO TERCERO. De la Posesión
+
 ### CAPITULO V. Del Dominio de las Aguas
 
 ART. 878.- El dueño del predio en que exista una fuente natural, o que haya perforado un pozo brotante, hecho obras de captación de aguas subterráneas o construído aljibe o presas para captar las aguas pluviales, tiene derecho de disponer de esas aguas; pero si éstas pasan de una finca a otra, su aprovechamiento se considerará de utilidad pública y quedará sujeto a las disposiciones especiales que sobre el particular se dicten.
@@ -2931,7 +2997,7 @@ ART. 881.- El uso y aprovechamiento de las aguas de dominio público se regirá 
 
 ART. 882.- El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-## TITULO TERCERO. De la Posesión
+## TITULO CUARTO. De la Propiedad
 
 ### CAPITULO VI. De la Copropiedad
 
@@ -3058,8 +3124,6 @@ ART. 922.- La división de una cosa común no perjudica a tercero, el cual conse
 ART. 923.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la Ley exige para su venta.
 
 ART. 924.- Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
-
-## TITULO CUARTO. De la Propiedad
 
 ### CAPITULO I. Del Usufructo en General
 
@@ -3249,6 +3313,8 @@ ART. 1000.- Si el usuario consume todos los frutos de los bienes, o el que tiene
 
 ART. 1001.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
 
+## TITULO QUINTO. Del Usufructo, del Uso y de la Habitación
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 1002.- La servidumbre es un gravamen real impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño. El inmueble a cuyo favor está constituida la servidumbre, se llama predio dominante; el que la sufre, predio sirviente.
@@ -3272,8 +3338,6 @@ ART. 1010.- Si los inmuebles mudan de dueño, la servidumbre continúa, ya activ
 ART. 1011.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionario puede usar por entero de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera. Más si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
 
 ART. 1012.- Las servidumbres traen su origen de la voluntad del hombre o de la Ley; las primeras se llaman voluntarias y las segundas legales.
-
-## TITULO QUINTO. Del Usufructo, del Uso y de la Habitación
 
 ### CAPITULO II. De las Servidumbres Legales
 
@@ -3375,6 +3439,8 @@ ART. 1052.- Si fuere indispensable para construír o reparar algún edificio, pa
 
 ART. 1053.- Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de las líneas.
 
+## TITULO SEXTO. De las Servidumbres
+
 ### CAPITULO VI. De las Servidumbres Voluntarias
 
 ART. 1054.- El propietario de una finca o heredad puede establecer en ella cuantas servidumbres tenga por conveniente, y en el modo y forma que mejor le parezca, siempre que no contravenga las leyes, ni perjudique derechos de tercero.
@@ -3384,8 +3450,6 @@ ART. 1055.- Sólo pueden constituír servidumbres las personas que tienen derech
 ART. 1056.- Si fueren varios los propietarios de un predio, no se podrán imponer servidumbres sino con consentimiento de todos.
 
 ART. 1057.- Si siendo varios los propietarios, uno solo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
-
-## TITULO SEXTO. De las Servidumbres
 
 ### CAPITULO VII. Cómo se adquieren las Servidumbres Voluntarias
 
@@ -3607,6 +3671,8 @@ ART. 1119.- La interrupción de la prescripción a favor de alguno de los acreed
 
 ART. 1120.- El efecto de la interrupción es inutilizar, para la prescripción, todo el tiempo corrido antes de ella.
 
+## TITULO SEPTIMO. De la Prescripción
+
 ### CAPITULO VI. De la manera de contar el tiempo para la Prescripción
 
 ART. 1121.- El tiempo para la prescripción se cuenta por años y no de momento a momento, excepto en los casos en que así lo determine la Ley expresamente.
@@ -3618,8 +3684,6 @@ ART. 1123.- Cuando la prescripción se cuente por días, se entenderán éstos d
 ART. 1124.- El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción termina, debe ser completo.
 
 ART. 1125.- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
-
-## TITULO SEPTIMO. De la Prescripción
 
 ### CAPITULO I. De los Testamentos en General
 
@@ -3687,7 +3751,9 @@ ART. 1160.- Son incapaces de adquirir por testamento o por intestado, a causa de
 
 ART. 1161.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-ART. 1162.- Por razón de delito son incapaces de adquirir por testamento o por intestado:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+ART. 1162.- Son incapaces de heredar por testamento o por intestado:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
@@ -3701,7 +3767,9 @@ V.- El que haya sido condenado por un delito que merezca pena de prisión, comet
 
 VI.- El padre y la madre respecto del hijo expuesto por ellos;
 
-VII.- Los padres que abandonaren a sus hijos, prostituyeren a sus hijas o atentaren a su pudor respecto de los ofendidos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+VII.- Los ascendientes que abandonen, prostituyan o corrompan a sus descendientes, respecto de los ofendidos;
 
 VIII.- Los demás parientes del autor de la herencia que teniendo obligación de darle alimentos, no la hubieren cumplido;
 
@@ -3709,7 +3777,11 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
+
+XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
 
 ART. 1163.- Se aplicará también lo dispuesto en la fracción II del artículo anterior aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge o hermano del acusador, si la acusación es declarada calumniosa.
 
@@ -3869,34 +3941,6 @@ ART. 1222.- La pensión alimenticia es carga de la masa hereditaria excepto cuan
 
 ART. 1223.- No obstante lo dispuesto en el artículo 1221, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### CAPITULO VI. De la Institución de Heredero
-
-ART. 1224. El testamento otorgado legalmente será válido, aunque no contenga institución de heredero y aunque el nombrado no acepte la herencia o sea incapaz de heredar.
-
-ART. 1225.- En los tres casos señalados en el artículo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
-
-ART. 1226.- No obstante lo dispuesto en el artículo 1190, la designación de día en que deba comenzar o cesar la institución de herederos, se tendrá por no puesta.
-
-ART. 1227.- Los herederos instituidos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
-
-ART. 1228.- El heredero instituído en cosa cierta y determinada debe tenerse por legatario.
-
-ART. 1229.- Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro y a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
-
-ART. 1230.- Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirán la herencia como en el caso de intestado.
-
-ART. 1231.- Si el testador llama a la sucesión a cierta persona y a sus hijos, se entenderán todos instituídos simultáneamente y no sucesivamente.
-
-ART. 1232.- El heredero debe ser instituído designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido, deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
-
-ART. 1233.- Aunque se haya omitido el nombre del heredero, si el testador le designare de otro modo que no pueda dudarse quién sea, valdrá la institución.
-
-ART. 1234.- El error en el nombre, apellido o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
-
-ART. 1235.- Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quién quiso designar el testador, ninguno será heredero.
-
-ART. 1236.- Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
-
 # LIBRO TERCERO. De las Sucesiones
 
 ## TITULO PRIMERO. Disposiciones Preliminares
@@ -3932,6 +3976,34 @@ ART. 1139.- El derecho concedido en el artículo 1137 cesa si la enajenación se
 ART. 1140.- La propiedad y la posesión legal de los bienes, y los derechos y las obligaciones del autor de la herencia, se transmiten por la muerte de éste a sus herederos, en los términos establecidos en el presente libro.
 
 ## TITULO SEGUNDO. De la Sucesión por Testamento
+
+### CAPITULO VI. De la Institución de Heredero
+
+ART. 1224. El testamento otorgado legalmente será válido, aunque no contenga institución de heredero y aunque el nombrado no acepte la herencia o sea incapaz de heredar.
+
+ART. 1225.- En los tres casos señalados en el artículo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
+
+ART. 1226.- No obstante lo dispuesto en el artículo 1190, la designación de día en que deba comenzar o cesar la institución de herederos, se tendrá por no puesta.
+
+ART. 1227.- Los herederos instituidos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+
+ART. 1228.- El heredero instituído en cosa cierta y determinada debe tenerse por legatario.
+
+ART. 1229.- Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro y a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+
+ART. 1230.- Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirán la herencia como en el caso de intestado.
+
+ART. 1231.- Si el testador llama a la sucesión a cierta persona y a sus hijos, se entenderán todos instituídos simultáneamente y no sucesivamente.
+
+ART. 1232.- El heredero debe ser instituído designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido, deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
+
+ART. 1233.- Aunque se haya omitido el nombre del heredero, si el testador le designare de otro modo que no pueda dudarse quién sea, valdrá la institución.
+
+ART. 1234.- El error en el nombre, apellido o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cuál es la persona nombrada.
+
+ART. 1235.- Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quién quiso designar el testador, ninguno será heredero.
+
+ART. 1236.- Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
 ### CAPITULO VII. De los Legados
 
@@ -4409,6 +4481,8 @@ ART. 1422.- Lo dispuesto en el artículo anterior se observará también en el c
 
 ART. 1423.- Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
 
+## TITULO TERCERO. De la Forma de los Testamentos
+
 ### CAPITULO VI. Del Testamento Militar
 
 ART. 1424.- Si el militar o asimilado del Ejército hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
@@ -4418,8 +4492,6 @@ ART. 1425.- Lo dispuesto en el artículo anterior se observará, en su caso, res
 ART. 1426.- Los testamentos otorgados por escrito, conforme a este capítulo, deberán ser entregados luego que muera el testador, por aquél en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá al secretario de la Defensa Nacional y éste a la autoridad judicial competente.
 
 ART. 1427.- Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Secretario de la Defensa Nacional, y éste a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos del 1416 al 1423.
-
-## TITULO TERCERO. De la Forma de los Testamentos
 
 ### CAPITULO VII. Del Testamento Marítimo
 
@@ -4557,13 +4629,13 @@ Si al morir el autor de la herencia tenía varias concubinas en las condiciones 
 
 Sólo cuando el concubinario se encuentre en las condiciones establecidas al principio de este artículo tendrá derecho a heredar la mitad de los bienes de la sucesión de la concubina, cuando ésta no deje descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado; la otra mitad la heredarán los Establecimientos de Beneficencia Pública.
 
+## TITULO CUARTO. De la Sucesión Legítima
+
 ### CAPITULO VII. De la Sucesión de la Beneficencia Pública del Estado
 
 ART. 1472.- A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública del Estado.
 
 ART. 1473.- Cuando sea heredera la Beneficencia Pública del Estado y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución Federal, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
-
-## TITULO CUARTO. De la Sucesión Legítima
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
@@ -4945,6 +5017,8 @@ ART. 1613.- La partición constará en escritura pública, siempre que en la her
 
 ART. 1614.- Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
+
 ### CAPITULO VII. De los efectos de la Partición
 
 ART. 1615.- La partición legalmente hecha, fija la porción de bienes hereditarios que corresponde a cada unos de los herederos.
@@ -4970,8 +5044,6 @@ ART. 1621.- Si se adjudica como cobrable un crédito, los coherederos no respond
 ART. 1622.- Por los créditos incobrables no hay responsabilidad.
 
 ART. 1623.- El heredero cuyos bienes hereditarios fueren embargados, o contra quién se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
-
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
 
 ### CAPITULO VIII. De la rescisión y nulidad de las Particiones
 
@@ -5025,42 +5097,6 @@ ART. 1633.2.- Si en cualquier momento de la ejecución de los contratos a que se
 
 ART. 1633.3.- Se entiende por acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país o del Estado de San Luis Potosí, de tal manera que de haber sabido el deudor se iban a manifestar en perjuicio de lo pactado por él, no se habría obligado, ni convenido en la forma y términos en que lo hizo.
 
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
 Del objeto y del motivo o fin de los Contratos
 
 ART. 1660.- Son objeto de los contratos:
@@ -5086,6 +5122,12 @@ ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el
 ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
 
 ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
 Cláusulas que pueden contener los Contratos
 
@@ -5117,25 +5159,51 @@ ART. 1685.- En el caso del artículo anterior, cada uno de los herederos respond
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-Interpretación
+Representación
 
-ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
 
-ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
 
-ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
+Vicios del Consentimiento
 
-ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
 
-ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
 
-ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
 
-Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 Disposiciones Finales
 
@@ -5143,11 +5211,15 @@ ART. 1694.- Los contratos que no están especialmente reglamentados en este Cód
 
 ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
-De la Capacidad
+Forma
 
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
 
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
 Del Consentimiento
 
@@ -5169,25 +5241,25 @@ ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que re
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
-División de los Contratos
+Interpretación
 
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
 
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
 
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+ART. 1689 (SIC).- Cualquiera que se la generalidad de los términos de un contrato, no deberán entenderse comprendidos en él cosas distintas y casos diferentes de aquellos sobre los que los interesados se propusieron contratar.
 
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+ART. 1689.- Si alguna cláusula de los contratos admitiere diversos sentidos, deberá entenderse en el más adecuado para que produzca efecto.
 
-Forma
+ART. 1690.- Las cláusulas de los contratos deben interpretarse las unas por las otras, atribuyendo a las dudosas el sentido que resulte del conjunto de todas.
 
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+ART. 1691.- Las palabras que pueden tener distintas aceptaciones serán entendidas en aquélla que sea más conforme a la naturaleza y objeto del contrato.
 
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las ambigüedades de los contratos.
 
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
 
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5409,6 +5481,14 @@ ART. 1769.- Los jefes de familia que habiten una casa o parte de ella, son respo
 
 ART. 1770.- La acción para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
+# LIBRO CUARTO. De las Obligaciones
+
+PRIMERA PARTE
+
+De las Obligaciones en General
+
+## TITULO PRIMERO. Fuentes de las Obligaciones
+
 ### CAPITULO I. De las Obligaciones Condicionales
 
 ART. 1771.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -5462,14 +5542,6 @@ ART. 1783.- La resolución del contrato fundado en falta de pago por parte del a
 ART. 1784.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
 ART. 1785.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
-
-# LIBRO CUARTO. De las Obligaciones
-
-PRIMERA PARTE
-
-De las Obligaciones en General
-
-## TITULO PRIMERO. Fuentes de las Obligaciones
 
 ### CAPITULO II. De las Obligaciones a Plazo
 
@@ -5699,6 +5771,8 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 ART. 1861.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir al acreedor que sea destruída a costa del obligado.
 
+## TITULO SEGUNDO. Modalidades de las Obligaciones
+
 ### CAPITULO I. De la Cesión de Derechos
 
 ART. 1862.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
@@ -5756,8 +5830,6 @@ ART. 1881.- Si el cedente se hubiere aprovechado de algunos frutos o percibido a
 ART. 1882.- El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado por las deudas o cargas de la herencia y sus propios créditos contra ella, salvo si hubiere pactado lo contrario.
 
 ART. 1883.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
-
-## TITULO SEGUNDO. Modalidades de las Obligaciones
 
 ### CAPITULO II. De la Cesión de Deudas
 
@@ -5931,6 +6003,8 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 
 ART. 1951.- El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
 
+## TITULO TERCERO. De la Transmisión de las Obligaciones
+
 ### CAPITULO II. De la Evicción y Saneamiento
 
 ART. 1952.- Habrá evicción cuando el que adquirió alguna cosa fuere privado del todo o por parte de ella por sentencia que cause ejecutoria, en razón de algún derecho anterior a la adquisición.
@@ -6051,8 +6125,6 @@ ART. 1995.- El enajenante no tiene obligación de responder de los vicios redhib
 
 III.- Efectos de las Obligaciones con relación a tercero
 
-## TITULO TERCERO. De la Transmisión de las Obligaciones
-
 ### CAPITULO I. De los actos celebrados en fraude de los acreedores
 
 ART. 1996.- Los actos celebrados por un deudor en perjuicio de su acreedor, pueden anularse, a petición de éste, si de esos actos resulta la insolvencia del deudor, y el crédito en virtud del cual se intenta la acción, es anterior a ellos.
@@ -6102,6 +6174,10 @@ ART. 2016.- Pueden pedir la nulidad de los actos simulados los terceros perjudic
 ART. 2017.- Luego que se anule un acto simulado, se restituirá la cosa o derecho a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
+
+## TITULO CUARTO. Efectos de las Obligaciones
+
+I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
 
 ### CAPITULO I. De la Compensación
 
@@ -6162,10 +6238,6 @@ ART. 2036.- Si la cesión se realizare sin consentimiento del deudor, podrá és
 ART. 2037.- Las deudas pagaderas en diferente lugar pueden compensarse mediante indemnización de los gastos de transporte o cambio al lugar del pago.
 
 ART. 2038.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
-
-## TITULO CUARTO. Efectos de las Obligaciones
-
-I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
 
 ### CAPITULO II. De la Confusión de Derechos
 
@@ -6267,6 +6339,8 @@ ART. 2103.- La venta de cosa o derechos litigiosos no está prohibida; pero el v
 
 ART. 2104.- Tratándose de la venta de determinados bienes, como los pertencientes (sic) a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
+## TITULO QUINTO. Extinción de las Obligaciones
+
 ### CAPITULO III. De los que pueden Vender y Comprar
 
 ART. 2105.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
@@ -6298,8 +6372,6 @@ VI.- Los empleados públicos.
 ART. 2112.- Los peritos y los corredores no pueden comprar los bienes en cuya venta han intervenido.
 
 ART. 2113.- Las compras hechas en contraversión (sic) a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
-
-## TITULO QUINTO. Extinción de las Obligaciones
 
 ### CAPITULO IV. De las Obligaciones del Vendedor
 
@@ -6361,50 +6433,6 @@ ART. 2130.- Cuando el comprador a plazo o con espera del precio, fuere perturbad
 
 ART. 2131.- La falta de pago del precio dá derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1783 y 1784.
 
-### CAPITULO VII. De algunas modalidades del Contrato de Compra-Venta
-
-ART. 2132.- Puede pactarse que la cosa comprada no se venda a determinada persona; pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
-
-ART. 2133.- Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
-
-ART. 2134.- Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fué objeto del contrato de compra-venta.
-
-ART. 2135.- El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiere hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
-
-ART. 2136.- Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar ese aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
-
-ART. 2137.- Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no dá las seguridades necesarias de que pagará el precio al expirar el plazo.
-
-ART. 2138.- Cuando el objeto sobre que se tiene derecho de preferencia se venda en subasta pública, debe hacerse saber al que goza de ese derecho, el día, hora y el lugar en que se verificará el remate.
-
-ART. 2139.- El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los herederos del que lo disfrute.
-
-ART. 2140.- Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
-
-ART. 2141.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
-
-I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
-
-II.- Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
-
-III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
-
-ART. 2142.- Si se rescinde la venta, el vendedor y el comprador deben restituírse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
-
-El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
-
-Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
-
-ART. 2143.- Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
-
-Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2141, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo citado, se aplicará lo dispuesto en esta fracción.
-
-ART. 2144.- El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
-
-ART. 2145.- Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2142.
-
-ART. 2146.- En la venta de que habla el artículo 2143 mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
-
 ## TITULO SEXTO. De la Inexistencia y de la Nulidad
 
 ART. 2057.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -6462,6 +6490,50 @@ ART. 2079.- Para que la promesa de contratar sea válida debe constar por escrit
 ART. 2080.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. De la Compra-Venta
+
+### CAPITULO VII. De algunas modalidades del Contrato de Compra-Venta
+
+ART. 2132.- Puede pactarse que la cosa comprada no se venda a determinada persona; pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
+
+ART. 2133.- Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
+
+ART. 2134.- Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fué objeto del contrato de compra-venta.
+
+ART. 2135.- El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiere hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
+
+ART. 2136.- Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar ese aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
+
+ART. 2137.- Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no dá las seguridades necesarias de que pagará el precio al expirar el plazo.
+
+ART. 2138.- Cuando el objeto sobre que se tiene derecho de preferencia se venda en subasta pública, debe hacerse saber al que goza de ese derecho, el día, hora y el lugar en que se verificará el remate.
+
+ART. 2139.- El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los herederos del que lo disfrute.
+
+ART. 2140.- Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
+
+ART. 2141.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
+
+I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
+
+II.- Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
+
+III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
+
+ART. 2142.- Si se rescinde la venta, el vendedor y el comprador deben restituírse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
+
+El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
+
+Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
+
+ART. 2143.- Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
+
+Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2141, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo citado, se aplicará lo dispuesto en esta fracción.
+
+ART. 2144.- El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
+
+ART. 2145.- Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2142.
+
+ART. 2146.- En la venta de que habla el artículo 2143 mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
 ### CAPITULO VIII. De la forma del Contrato de Compra-Venta
 
@@ -6705,6 +6777,20 @@ ART. 2239.- Si la transmisión de la propiedad se hiciere por causa de utilidad 
 
 ART. 2240.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las leyes respectivas y en lo que no lo estuvieren, a las disposiciones de este Título.
 
+## TITULO TERCERO. De la Permuta
+
+ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
+
+ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las Donaciones
+
 ### CAPITULO II. De los Derechos y Obligaciones del Arrendador
 
 ART. 2241.- El arrendador está obligado, aunque no haya pacto expreso:
@@ -6748,20 +6834,6 @@ II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el
 III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 ART. 2253.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO TERCERO. De la Permuta
-
-ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
-
-ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. De las Donaciones
 
 ### CAPITULO III. De los derechos y obligaciones del Arrendatario
 
@@ -6835,6 +6907,8 @@ ART. 2281.- La renta debe pagarse en los plazos convenidos, y a falta de conveni
 
 ART. 2282.- Podrá solicitarse la modificación del precio del arrendamiento en las fincas destinadas a habitación, siempre que haya transcurrido cuando menos un año de la fecha en que se haya entregado la finca y se demuestre que los alquileres en el lugar de que se trate registran una alza o baja; el juez teniendo en cuenta las circunstancias especiales del caso, decretará el aumento o disminución hasta en un 25% de la renta estipulada. La resolución que dicte no admitirá recurso alguno.
 
+## TITULO QUINTO. Del Mutuo
+
 ### CAPITULO V. Del Arrendamiento de Fincas Rústicas
 
 ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
@@ -6854,8 +6928,6 @@ ART. 2286.- En el arrendamiento de predios rústicos por plazo determinado, debe
 ART. 2287.- El permiso a que se refiere el artículo que precede, no será obligatorio sino en el período y por el tiempo rigurosamente indispensable, conforme a las costumbres locales, salvo convenio en contrario.
 
 ART. 2288.- Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
-
-## TITULO QUINTO. Del Mutuo
 
 ### CAPITULO VI. Del Arrendamiento de Bienes Muebles
 
@@ -6897,13 +6969,13 @@ ART. 2306.- Si en el arrendamiento de un predio rústico se incluyere el ganado 
 
 ART. 2307.- Lo dispuesto en el artículo 2295 es aplicable a los aperos de la finca arrendada.
 
+## TITULO SEXTO. Del Arrendamiento
+
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
 ART. 2308.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
 ART. 2309.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2286, 2287 y 2288.
-
-## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO VIII. Del Subarriendo
 
@@ -7157,6 +7229,48 @@ ART. 2413.- Los actos que el mandatario practique a nombre del mandante, pero tr
 
 ART. 2414.- El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
+## TITULO SEPTIMO. Del Comodato
+
+ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
+
+ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
+
+ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ART. 2345.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. Del Depósito y del Secuestro
+
 ### CAPITULO V. Del Mandato Judicial
 
 ART. 2415.- No pueden ser procuradores en juicio:
@@ -7223,48 +7337,6 @@ ART. 2423.- El procurador que ha substituído un poder, puede revocar la substit
 
 ART. 2424.- La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-## TITULO SEPTIMO. Del Comodato
-
-ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
-
-ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
-
-ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ART. 2345.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. Del Depósito y del Secuestro
-
 ### CAPITULO VI. De los diversos modos de terminar el Mandato
 
 ART. 2425.- El mandato termina:
@@ -7305,11 +7377,11 @@ ART. 2433.- El mandatario que renuncie tiene obligación de seguir el negocio mi
 
 ART. 2434.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2427.
 
+## TITULO NOVENO. Del Mandato
+
 ### CAPITULO I. Del Servicio Doméstico, del Servicio por Jornal, del Servicio a Precio Alzado en el que el operario sólo pone su trabajo y del Contrato de Aprendizaje
 
 ART. 2435.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
-
-## TITULO NOVENO. Del Mandato
 
 ### CAPITULO II. De la prestación de Servicios Profesionales
 
@@ -7577,6 +7649,8 @@ ART. 2529.- La capacidad para que las sociedades adquieran bienes raíces, se re
 
 ART. 2530.- No quedan comprendidas en este título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
 
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
+
 ### CAPITULO II. De los Socios
 
 ART. 2531.- Cada socio estará obligado al saneamiento para el caso de evicción de las cosas que aporte a la sociedad, como corresponde a todo enajenante, y a indemnizar por los defectos de esas cosas como lo está el vendedor respecto del comprador; más si lo que prometió fué el aprovechamiento de bienes determinados, responderá por ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
@@ -7592,8 +7666,6 @@ ART. 2535.- Los socios gozarán del derecho del tanto. Si varios socios quieren 
 ART. 2536.- Ningún socio puede ser excluído de la sociedad sino por el acuerdo unánime de los demás socios y por causa grave prevista en los estatutos.
 
 ART. 2537.- El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluír las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
-
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO III. De la Administración de la Sociedad
 
@@ -8533,13 +8605,13 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 ART. 2826.- Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
+## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
+
 ### CAPITULO VII. Acreedores de Cuarta Clase
 
 ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
 
 ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a la fecha ni al origen de los créditos.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
 
 ### CAPITULO I. Del Registro Público de la Propiedad
 
@@ -8970,3 +9042,9 @@ P.O. 7 DE AGOSTO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los contratos celebrados con anterioridad a la entrada en vigor del presente decreto, se seguirán rigiendo bajo los lineamientos del actual Código Civil del Estado.
+
+P.O. 31 DE OCTUBRE DE 1998.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
