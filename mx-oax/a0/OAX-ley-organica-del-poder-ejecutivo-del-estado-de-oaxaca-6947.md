@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1994-06-10"
+last_updated: "1995-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1995.
 
-Ley publicada en el Periódico Oficial Organo del Estado de Oaxaca, el 1° de diciembre de 1992.
+Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
 DECRETO No. 20 APROBADO POR LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO, QUE CONTIENE LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.
 
@@ -219,7 +219,9 @@ XXV.- Promover la colaboración entre Municipios para la realización de Obras y
 
 XXVI.- Intervenir en auxilio o coordinación con las Autoridades Federales, en los términos de las Leyes Relativas, en materia de pirotecnia y detonantes, loterías, rifas y juegos prohibidos, portación de armas y migración.
 
-XXVII.- Registrar los Autógrafos y Legalizar y Certificar las Firmas de los Funcionarios Estatales, de los Municipales y demás Funcionarios a quienes esté encomendada la Fe Pública.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MARZO DE 1995)</small>
+
+XXVII.- Registrar los autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los municipales y demás funcionarios a quienes esté encomendada la fe pública, certificar todo tipo de documentos así como dar fe de todos los actos relativos al despacho de los asuntos del Ejecutivo del Estado.
 
 XXVIII.- Proporcionar Asesoría Jurídica a las Dependencias de la Administración Pública y revisar los Proyectos de disposiciones Legales que deban presentarse al Gobernador del Estado.
 
@@ -872,3 +874,7 @@ P.O. 10 DE JUNIO DE 1994.
 PRIMERO.- Se abrogan las disposiciones que se opongan al presente decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación, en el Periódico Oficial del Estado.
