@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1978-09-10"
+last_updated: "1979-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1979.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -501,13 +501,13 @@ Los pensionistas gozarán de los beneficios que establece este artículo, con su
 
 Los préstamos hipotecarios se sujetarán en lo conducente a las condiciones y facilidades que establece el Artículo 40 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1979)</small>
 
 ###### ARTICULO 45.
 
-El instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base, que las amortizaciones mensuales no deban sobrepasar del 25 por ciento del sueldo o sueldos que el trabajador disfrute y por lo (sic) cuales se le practique descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional.
+El Instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base, que las amortizaciones mensuales no deben sobrepasar del veinticinco por ciento del sueldo o sueldos que el trabajador disfrute y por lo cual se le practique descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar, el máximo fijado para su sueldo en forma proporcional.
 
-En todo caso, el límite máximo para los créditos hipotecarios, aún tratándose de préstamos mancomunados, será de $150,000.00 (CIENTO CINCUENTA MIL PESOS MONEDA NACIONAL), excepción hecha de los casos de terminación, ampliación o reparación de casas y de redención de gravámenes sobre las mismas, en que el crédito se otorgará por las cantidades que sean necesarias, siempre que el valor del inmueble, sumado al importe del crédito no exceda la suma señalada.
+En todo caso el límite máximo para los créditos hipotecarios, aún tratándose de préstamos mancomunados, será de Trescientos Mil Pesos. Cuando se soliciten préstamos para terminación, ampliación o reparación de casas y para redención de gravámenes sobre las mismas, se concederán créditos por las cantidades que sean necesarias, sujetas a comprobación, los que no excederán de Ciento Cincuenta Mil Pesos.
 
 ###### ARTICULO 46.
 
@@ -1350,3 +1350,9 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 10 DE SEPTIEMBRE DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
