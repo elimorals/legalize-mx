@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1998-09-23"
+last_updated: "1999-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -209,7 +209,11 @@ II.- Formular y ejecutar legalmente, en su caso, los planes, programas y presupu
 
 III.- Utilizar los recursos que tenga asignados y las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
 
-IV.- Conservar y custodiar la documentación e información que tenga bajo su cuidado o a la cual tuviere acceso, impidiendo o evitando el uso, la substracción, destrucción, ocultamiento o inutilización indebida de aquélla;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
+
+IV.- Conservar y custodiar la documentación e información que tenga bajo su cuidado o a la cual tuviere acceso, impidiendo o evitando el uso, la substracción, destrucción, ocultamiento o inutilización indebidos de aquella.
+
+Cuando con motivo de una revisión, inspección o auditoría, por parte de la autoridad competente, sea solicitada la información o documentación que tenga bajo su custodia, deberá ser proporcionada inmediatamente, ya que de lo contrario se hará acreedor a una amonestación por escrito y/o destitución del cargo, empleo o comisión;
 
 V.- Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
 
@@ -550,3 +554,7 @@ El presente Decreto entrará en vigor el día siguiente a su publicación en el 
 P.O. 23 DE SEPTIEMBRE DE 1998.
 
 Artículo Unico.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
