@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1998-09-14"
+last_updated: "2004-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2004, QUEDA ABROGADO EL PRESENTE ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -8850,3 +8852,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Código, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil cinco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, aprobado el cuatro de septiembre de mil novecientos ochenta y seis, publicado en el Periódico Oficial del Estado el dieciocho de noviembre del mismo año, derogándose las demás leyes en cuanto se opongan al presente Código.
+
+###### ARTÍCULO TERCERO.
+
+En los juicios pendientes de resolución y de ejecución, se aplicarán las disposiciones del Código abrogado.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier cuestión que se suscite para la implementación de las Instituciones que regula este Código, será resuelta por el Tribunal Pleno, de conformidad con las disposiciones de la Ley Orgánica del Poder Judicial del Estado.
