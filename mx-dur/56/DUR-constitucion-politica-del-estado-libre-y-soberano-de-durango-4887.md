@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1935-12-08"
+last_updated: "1937-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -44,6 +44,22 @@ DE LOS DURANGUEÑOS.
 ### CAPITULO I (SIC).
 
 DE LAS GARANTIAS INDIVIDUALES.
+
+###### Artículo 4°.
+
+La educación que imparta el Edo. será socialista, además de excluir toda doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en la forma que permita crear en la juventud un concepto racional y científico del Universo y de la Vida Social.
+
+En el Estado de Durango se impartirá educación primaria, secundaria, normal y profesional. Podrán concederse autorizaciones a los particulares que deseen impartir educación en cualquiera de los cuatro grados anteriores, de acuerdo en todo caso con las siguientes normas:
+
+I.- Las actividades y enseñanzas de los planteles particulares, deberán sujetarse, sin excepción alguna a lo preceptuado en el párrafo inicial de este artículo y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud, las corporaciones religiosas, los ministros de cultos, las Sociedades por Acciones, que exclusiva o preferentemente realicen actividades educativas, y las asociaciones y sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en las escuelas primarias, secundarias, normales o Profesionales, ni podrán apoyarlas económicamente;
+
+II.- La formación de planes, programas y métodos de enseñanza corresponderá en este caso al Estado;
+
+III.- No podrán funcionar los planteles particulares sin haber obtenido previamente en cada caso, la autorización expresa del Poder Público.
+
+IV.- El Estado podrá revocar en cualquier tiempo las autorizaciones concedidas. Contra la revcoación (sic) no procederá recurso alguno. Estas mismas normas regirán para la educación de cualquier tipo o grado que se imparta a los obreros y campesinos. La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
 
 ###### Artículo 10.
 
@@ -995,17 +1011,11 @@ En el Estado de Durango todo individuo gozará de las garantías que otorga la C
 
 En el Estado de Durango todos son y nacen libres. Los esclavos del extranjero que entren a su territorio, recobrarán por este solo hecho su libertad y alcanzarán la protección de las leyes.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1937)</small>
+
 ###### Artículo 4º.
 
-La enseñanza es libre. La que se imparta en los establecimientos oficiales será laica, lo mismo que la enseñanza primaria, elemental y superior, que se imparta en los establecimientos particulares.
-
-Ninguna corporación religiosa, ni ministro de culto alguno podrá establecer ni dirigir escuelas de instrucción primaria.
-
-Las escuelas primarias particulares sólo podrán establecerse sujetándose a la vigilancia oficial.
-
-En los establecimientos oficiales se impartirá gratuitamente la enseñanza.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
+Los Municipios de Lerdo y Gómez Palacio subsisten como independientes con sus demarcaciones respectivas. La Municipalidad de Pedriceña, creada económicamente por el Gobierno Preconstitucional del Estado, queda sujeta a la reconsideración de la Legislatura, quien decretará o no su existencia como tal, según reuna o no los requisitos prescritos en el artículo 39 de esta Constitución.
 
 ###### Artículo 5º.
 
@@ -1152,5 +1162,9 @@ P.O. 30 DE MAYO DE 1935.
 Artículo Unico:- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE DICIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 3 DE OCTUBRE DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
