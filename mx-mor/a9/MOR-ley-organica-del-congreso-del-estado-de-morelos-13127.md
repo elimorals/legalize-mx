@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2002-12-11"
+last_updated: "2003-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2003.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -1727,11 +1727,21 @@ Asimismo, todos aquellos ordenamientos que hagan referencia u otorguen alguna at
 
 Por esta única ocasión a partir del inicio de la vigencia del artículo 25, la Mesa Directiva durará en su ejercicio ocho meses.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2003)</small>
+
 ###### ARTÍCULO QUINTO.
+
+Para los efectos del artículo 33 que este Decreto reforma, por esta única ocasión, al inicio de las funciones de la Junta de Coordinación Política, esta será presidida por el Coordinador del Grupo Parlamentario al que le corresponda hacerlo de acuerdo a los períodos y la temporalidad establecidos al inicio de la presente Legislatura para la extinta Comisión de Régimen Interno y Concertación Política, debiendo quedar como sigue:
+
+Del 1 de enero al 28 de febrero del año 2003 la presidirá el Coordinador del Grupo Parlamentario del Partido Revolucionario Institucional y del 1 de marzo al 31 de agosto de este mismo año la presidirá el Coordinador del Grupo Parlamentario del Partido de Acción Nacional.
+
+Asimismo, por ésta única ocasión la Junta de Coordinación Política quedará integrada, constituida y legalmente instalada desde la fecha de vigencia del artículo 35 que se reforma, sin necesidad de correr la notificación a que el mismo se refiere, en términos del presente artículo.
+
+###### ARTÍCULO SEXTO.
 
 El Congreso del Estado contará con el término de treinta días, para la adecuación de las comisiones legislativas y comités, así mismo los reglamentos que deban expedir las unidades administrativas que se crean, contarán con el término de noventa días para someterlo a su aprobación.
 
-###### ARTÍCULO SEXTO.
+###### ARTÍCULO SEPTIMO.
 
 Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
 
@@ -1744,3 +1754,9 @@ El presente Decreto, está en vigor desde su aprobación por el Congreso.
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 5 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente Decreto iniciará su vigencia a partir de la misma fecha de su aprobación.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
