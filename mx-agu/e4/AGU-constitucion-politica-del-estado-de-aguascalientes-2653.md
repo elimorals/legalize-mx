@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1977-04-17"
+last_updated: "1978-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -51,11 +51,17 @@ El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos;
 
 Todo individuo gozará en el Estado de las garantías que otorga la Constitución Federal y tendrá los derechos y obligaciones establecidas por las leyes locales.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
-###### Artículo 3o.
+###### Artículo 3º.
 
-El Poder Público solamente puede actuar en uso de facultades expresas, mientras que los particulares pueden hacer todo lo que las leyes no les prohiban.
+El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las leyes federales y locales no les prohiban.
+
+Se considera a los Partidos Políticos como Entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
+
+Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+Los Partidos Políticos Nacionales registrados, tendrán derecho a participar en las elecciones estatales y municipales.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -177,35 +183,45 @@ Del Poder Legislativo.
 
 El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 16.
 
-El Congreso del Estado, se integrará con diputados electos cada tres años, por votación popular directa.
+El Congreso se integrará con Representantes del Estado, electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
 
-Los ciudadanos a quienes las Juntas Computadoras de las Cabeceras del Distrito Electoral expidan credenciales por haber obtenido mayoría de votos para diputados, instalados en Colegio Electoral, calificarán la elección, declarando quiénes son diputados mayoritarios y de partido conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 17.
 
-Por cada cincuenta mil habitantes o fracción mayor de veinticinco mil, se elegirán un diputado propietario y un suplente, tomando siempre como base el último censo nacional.
+La Cámara de Diputados, estará integrada por doce Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales; y hasta cuatro Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es toda la Entidad.
 
-Nunca el número de diputados será menor de once.
+La Comisión Local Electoral fijará el ámbito de los distritos electorales uninominales y sus cabeceras.
 
-El Ejecutivo fijará la circunscripción de los Distritos Electorales y sus cabeceras.
+La elección de los cuatro Diputados, según el principio de representación proporcional por medio de listas de candidatos se sujetará a las bases siguientes y a lo que en lo particular disponga la Ley:
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1974)</small>
+I.- Para obtener el registro de sus listas de candidatos, el Partido Político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados de mayoría relativa en por lo menos un 50% de los doce distritos uninominales.
+
+II.- Tendrá derecho a que le sean atribuídos Diputados electos según el principio de representación proporcional todo aquel Partido que:
+
+a).- No haya obtenido tres o más constancias de mayoría; y
+
+b).- Que alcance por lo menos el 2% de la votación emitida para el total de las listas.
+
+III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de Diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
+
+La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación.
+
+IV.- En el caso de que dos o más Partidos Políticos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto cuatro o más constancias de mayoría, sólo serán objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
+
+La Cámara de Diputados calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por cinco presuntos Diputados que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral hubieran obtenido mayor número de votos y por dos presuntos Diputados de representación proporcional; la Ley determinará la forma de seleccionar a estos últimos en función de las más altas votaciones.
+
+Contra las resoluciones del Colegio Electoral de la Cámara de Diputados no procede ningún recurso.
+
+V.- Los Diputados de mayoría y los de minoría siendo Representantes del Estado, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Artículo 17 Bis.
 
-La elección de diputados será directa, mayoritaria relativa y uninominal por Distritos Electorales, con sujeción a lo dispuesto en el artículo anterior y se complementará además, con diputados de partido, apegándose en ambos casos, a lo dispuesto por la Ley Electoral. En lo referente a diputados de partido, se sujetará a las reglas siguientes:
-
-I.- A todo partido político registrado en los términos de la Ley Federal Electoral, que no haya obtenido diputados de mayoría en la elección correspondiente, habiendo logrado el tres por ciento de la votación total del Estado, le será acreditado un diputado de partido;
-
-II.- Los diputados de partido serán acreditados, de acuerdo con el mayor número de sufragios que hayan logrado en relación a los demás candidatos del mismo partido;
-
-III.- Los diputados de mayoría y los de partido, tendrán la misma categoría e iguales derechos y obligaciones.
+(DEROGADO, P.O. 18 DE JUNIO DE 1978)
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -215,11 +231,11 @@ Los diputados no podrán ser reelectos para el período inmediato.
 
 Los Suplentes podrán ser electos para el período inmediato, con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para el período inmediato, con el carácter de Suplentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 19.
 
-Para ser diputado se requiere:
+Para ser Diputado se requiere:
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -233,9 +249,9 @@ II.- Tener veintiún años cumplidos el día de la elección;
 
 III.- Haber terminado la instrucción primaria.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
 
-IV.- Ser originario del Estado o tener una residencia en él no menor de seis meses inmediatamente anteriores al día de la elección.
+IV.- Ser originario del Estado o tener una residencia en él no menor de dos años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -255,11 +271,13 @@ IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier c
 
 Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 21.
 
-Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones, y jamás podrán ser reconvenidos ni juzgados por ello.
+Los Diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello.
+
+El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -311,15 +329,29 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-III.- Aprobar el Presupuesto anual de Gastos del Estado, con vista del proyecto que presente el Gobernador.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
 
-IV.- Expedir los presupuestos de gastos que formulen los Ayuntamientos, para cada año fiscal.
+III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador, y, en el que no podrá haber partidas secretas.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+
+IV.- Expedir los Presupuestos de Gastos que formulen los Ayuntamientos, para cada año fiscal, que no incluirán partidas secretas.
 
 V.- Autorizar al Ejecutivo y a los Ayuntamientos para celebrar empréstitos sobre el crédito del Estado y de los Municipios respectivamente, fijando las bases sobre las cuales deban celebrarse dichos empréstitos, y aprobarlos.
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento en los ingresos públicos.
 
-VI.- Examinar las cuentas que anualmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas con los Presupuesto (sic) de Egresos, sino también la exactitud y justificación de tales partidas.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+
+VI.- Examinar las cuentas que trimestralmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
+
+La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y al cumplimiento de los objetivos contenidos en los programas.
+
+Si del examen que realice el Congreso aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto, o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
+
+La cuenta pública será presentada trimestralmente al Congreso del Estado y en su receso a la Diputación Permanente para que en ambos casos se turne de inmediato a la Comisión de Hacienda y ésta dictamine sobre la misma y se someta a la aprobación del Congreso al inicio del Período Ordinario de Sesiones o en el Período Extraordinario correspondiente.
+
+Sólo se podrá ampliar el plazo de presentación de las iniciativas de Leyes de Ingresos y de los proyectos de Presupuestos de Egresos, así como de la cuenta pública del Estado y Municipios cuando medie solicitud del Ejecutivo o del Presidente Municipal respectivo, suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el funcionario correspondiente a informar de las razones que lo motiven.
 
 VII.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios, respectivamente.
 
@@ -361,15 +393,23 @@ XXV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad 
 
 XXVI.- Premiar a las personas que hayan prestado eminentes servicios al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad, y recompensar a los buenos servidores de la Administración Pública.
 
-XXVII.- Formular su Reglamento Interior.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+
+XXVII.- Expedir la Ley que regulará su estructura y funcionamiento interno.
+
+La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
 XXVIII.- Nombrar y remover a los empleados de sus dependencias; y
 
 XXIX.- Las demás que le conceden esta Constitución y la General de la República.
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
 
-XXX.- Citar a los funcionarios del Poder Ejecutivo del Estado cuantas veces fuere necesario, para que informen sobre el estado que guardan sus respectivas Dependencias, cuando se discute una Ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
+XXX.- Citar a solicitud de la mitad de sus miembros, a los funcionarios del Poder Ejecutivo del Estado, a los Jefes, Directores, Presidentes o Administradores de Organismos Descentralizados del Estado o de Empresas de Participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guardan sus respectivas dependencias, cuando se discuta una ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
+
+Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -377,11 +417,11 @@ XXX.- Citar a los funcionarios del Poder Ejecutivo del Estado cuantas veces fuer
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 28.
 
-Durante el receso del Congreso funcionará una Diputación Permanente, integrada por tres Diputados con carácter de propietarios y uno como suplente, nombrados la víspera de la clausura del período ordinario, en la forma y términos que fije el Reglamento Interior.
+Durante el receso del Congreso funcionará una Diputación Permanente, integrada por tres Diputados con carácter de propietarios y uno como suplente, nombrados la víspera de la clausura del período ordinario, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -559,9 +599,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
 
-II.- Presentar cada año al Congreso a más tardar el día quince de diciembre, el Proyecto de Presupuesto General del Estado, para el Ejercicio Fiscal siguiente.
+II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Tesorero General del Estado a dar cuenta del mismo.
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
@@ -793,11 +833,21 @@ Del Municipio.
 
 El Municipio es libre en su régimen interior. Será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 67.
 
-Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez tendrá el carácter de Presidente Municipal. Este funcionario es política y administrativamente el representante del Ayuntamiento y del Municipio.
+Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las Cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez, tendrá el carácter de Presidente Municipal. Este funcionario es política y administrativamente el representante del Ayuntamiento y del Municipio.
+
+En la Capital del Estado y en los Municipios cuya población sea de doscientos mil o más habitantes, los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia de conformidad a las bases siguientes:
+
+I.- Al Partido Político cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndicos del Ayuntamiento, respectivamente.
+
+II.- Las Regidurías que integren el Cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los Partidos Políticos contendientes, a fin de obtener un cociente electoral.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional;
+
+III.- Los Regidores de mayoría y los de minoría, tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -979,11 +1029,11 @@ La ley que aumente las dietas de los Diputados no podrá tener efecto, sino desp
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado que será abierto en junta pública.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 91.
 
-En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional, el último Presidente del Supremo Tribunal de Justicia; a falta de éste, y por su orden, el último Secretario de Gobierno, los demás Magistrados y los Presidentes del Congreso desde su elección.
+En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste, y por su orden, el último Secretario General de Gobierno, el Presidente de la Comisión Permanente, o bien, quien haya fungido como Presidente de la anterior Legislatura.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1078,6 +1128,12 @@ P.O. 10 DE JUNIO DE 1928.
 UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 17 DE JUNIO DE 1928.
+
+Art 3°.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 24 DE MARZO DE 1929.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 160.</small>
 
 ###### Art. 3°.
 
@@ -1266,3 +1322,7 @@ P.O. 17 DE ABRIL DE 1977.
 ###### ARTICULO TERCERO.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 1978.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
