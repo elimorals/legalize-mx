@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1947-11-29"
+last_updated: "1947-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1947.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -553,9 +553,9 @@ Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se 
 
 Para ser Gobernador de Estado se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
 
-I. Ser ciudadano mexiceno (sic) por nacimiento y ciudadano sinaloense por nacimiento o vecindad.
+I. Ser ciudadano sinaloense por nacimiento.
 
 II. Tener treinta años cumplidos el día de la elección.
 
@@ -571,9 +571,9 @@ V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1943)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
 
-VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloense por vecindad, haya residido cuando menos veinte años en el Estado y que conserve su domicilio en el mismo, durante el semestre anterior a la fecha de la elección.
+VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la materia su calidad de ciudadano sinaloense por nacimiento.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1943)</small>
 
@@ -1644,3 +1644,7 @@ UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su
 P.O. 29 DE NOVIEMBRE DE 1947.
 
 UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1947.
+
+Artículo Unico- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
