@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-del-patronato-de-ferias-y-357
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-12-10"
-last_updated: "1979-12-10"
+last_updated: "1996-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DEL PATRONATO DE FERIAS Y EXPOSICIONES DEL MUNICIPIO DE MEXICALI, ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 1996 DEL H. XV AYUNTAMIENTO DE MEXICALI, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 10 de diciembre de 1979.
 
@@ -127,3 +129,9 @@ En caso de liquidación del Patronato, serán designados como liquidadores el C.
 T R A N S I T O R I O S :
 
 UNICO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 1996.
+
+UNICO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
