@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2001-12-05"
+last_updated: "2002-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2002.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -496,7 +496,9 @@ V.- Proponer a la Junta para su aprobación, los montos máximos de los crédito
 
 VI.- Proponer a la Junta para su aprobación, el programa anual de créditos para vivienda;
 
-VII.- Autorizar los créditos que soliciten los trabajadores derechohabientes, considerando lo establecido en las reglas para el otorgamiento de créditos que emita la Junta, y lo previsto en el programa a que se refiere la fracción VI de este artículo;
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+
+VII.- Conocer de los créditos que se autoricen a los trabajadores derechohabientes, conforme a lo establecido en las reglas para el otorgamiento de créditos que expida la Junta y las políticas de crédito que emita la Comisión Ejecutiva y lo previsto en el programa a que se refiere la fracción VI de este artículo;
 
 VIII.- Evaluar el avance del ejercicio del programa de crédito y emitir las recomendaciones que resulten procedentes para su cumplimiento;
 
@@ -556,13 +558,21 @@ VI.- Presentar a más tardar el último día de septiembre de cada año a la Com
 
 VII.- Presentar a más tardar en el mes de septiembre de cada año a la Comisión Ejecutiva para su consideración, y en su caso aprobación y posterior presentación a la Junta, los estados financieros y los programas de créditos a que se refiere la fracción I del artículo 103 de la Ley, a ser otorgados por el Instituto para el ejercicio fiscal inmediato siguiente, así como un programa financiero relativo a los dos años siguientes a este último;
 
-VIII.- Dar trámite y dictaminar las solicitudes de crédito para vivienda, calcular el monto y plazo del crédito correspondiente conforme a las reglas para el otorgamiento de créditos que expida la Junta, y remitir las procedentes a la Comisión Ejecutiva para su autorización;
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
 
-IX.- Dictaminar las solicitudes de devolución de depósitos y, en su caso, remitir las procedentes a la Comisión Ejecutiva para su autorización;
+VIII.- Dar trámite, dictaminar y autorizar las solicitudes de crédito para vivienda, calcular el monto y plazo del crédito correspondiente conforme a lo previsto en el programa a que se refiere la fracción VI de este artículo, a las reglas para el otorgamiento de créditos que expida la Junta y las políticas de crédito que emita la Comisión Ejecutiva, sin perjuicio de delegar o encomendar mediante mandato expresamente estas facultades, informando periódicamente a la Comisión Ejecutiva sobre dichas autorizaciones;
 
-X.- Dictaminar sobre la procedencia de liberar a los acreditados o sus beneficiarios de las obligaciones crediticias, con motivo de la incapacidad total permanente o la muerte del acreditado, conforme a lo previsto en el artículo 111 de la Ley, y remitir las procedentes a la Comisión Ejecutiva para su autorización;
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
 
-XI.- Organizar, diseñar, operar y controlar el sistema de registro y recuperación de adeudos por los créditos otorgados con cargo al fondo de la vivienda, en coordinación con la Subdirección General de Finanzas;
+IX.- Dictaminar las solicitudes de devolución de depósitos y, en su caso, remitir las procedentes a la Comisión Ejecutiva para su autorización, así como dictaminar la liberación de los acreditados o sus beneficiarios de las obligaciones crediticias, con motivo de la incapacidad total permanente o la muerte del acreditado, conforme a lo previsto en el artículo 111 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+
+X.- Evaluar y registrar la oferta de vivienda para ser adquirida o construida, mediante créditos otorgados a los derechohabientes;
+
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+
+XI.- Organizar, diseñar, operar y controlar el sistema de otorgamiento de crédito, de registro y recuperación de adeudos por los créditos otorgados con cargo al fondo de la vivienda;
 
 XII.- Presentar a la Comisión Ejecutiva para su consideración, y en su caso aprobación y posterior presentación a la Junta, los estudios financieros y actuariales necesarios para determinar las reservas que deban constituirse para asegurar la operación del fondo de la vivienda y el cumplimiento de su objeto, previa opinión de la Secretaría de Hacienda y Crédito Público;
 
@@ -584,7 +594,11 @@ XX.- Proponer al Director General los nombramientos y remociones del personal t�
 
 XXI.- Supervisar y evaluar las actividades y procedimientos que, en materia de vivienda, realicen las Delegaciones del Instituto; y
 
-XXII.- Las demás que le señalen la Ley y sus disposiciones reglamentarias.
+> <small>(ADICIONADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+
+XXII.- Representar al Fondo de la Vivienda ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática, sin perjuicio de las competencias de la Subdirección General de Finanzas, y
+
+XXIII.- Las demás que le señalen la Ley y sus disposiciones reglamentarias.
 
 Para la atención de los asuntos de su competencia, el Vocal Ejecutivo se auxiliará por los servidores públicos que requiera conforme al presupuesto, y cuyo nombramiento apruebe la Junta a propuesta de la Comisión Ejecutiva.
 
@@ -966,7 +980,9 @@ I.- Planear, organizar, normar, coordinar y controlar los sistemas institucional
 
 II.- Coordinar la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
 
-III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2002)</small>
+
+III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática; sin perjuicio de aquellos asuntos que competan directamente al Fondo de la Vivienda, manteniendo permanentemente informado del resultado de sus gestiones al Director General del ISSSTE;
 
 IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
 
@@ -1773,3 +1789,9 @@ Las presentes adiciones entrarán en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Inscríbanse en su oportunidad las presentes adiciones en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 12 DE FEBRERO DE 2002.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Inscríbanse las presentes modificaciones en el Registro Público de Organismos Descentralizados.
