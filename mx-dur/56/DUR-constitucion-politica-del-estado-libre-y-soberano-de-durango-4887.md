@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1923-05-20"
+last_updated: "1923-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1923.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -287,9 +287,23 @@ DEL ESTADO Y SU FORMA DE GOBIERNO.
 
 El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1923)</small>
+
 ###### Artículo 41.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermediaria entre éste y el Gobierno del Estado, quien será su superior gerárquico (sic). Los miembros que forman los ayuntamientos deberán ser ciudadanos durangueños por nacimiento; hijos de padres mexicanos, tener seis meses de vecindad en la municipalidad respectiva; no ser militares en servicio activo desde un año antes de la elección y tener los demás requisitos que para ser diputado exige el artículo 55 de esta Constitución.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermediaria entre éste y el Gobierno del Estado, que será su superior gerárquico (sic).
+
+Para ser Munícipe se requiere ser ciudadano mexicano en ejercicio de sus derechos; saber leer y escribir y tener residencia efectiva dentro del Territorio del correspondiente Municipio, inmediata al día de la elección cuando menos de dos años si no es nativo del Estado.
+
+No podrán ser electos:
+
+I.- Los Ministros de culto alguno.
+
+II.- Los que hayan sido condenados por cualquier delito, excepto los de culpa, a más de un año de prisión: pero si se hubieren sido condenados por robo, fraude, falsificación, abuso de confianza y en general cualquiero (sic) otro delito que lastime seriamente la buena fama en el cocepto (sic) público, quedarán inhabilitados para el cargo, cualquiera que haya sido la pena.
+
+III.- Los Regidores propietarios, y los suplentes en funciones dentro de los seis meses anteriores al día de la eleccién (sic).
+
+IV.- Los funcionarios y los empleados públicos del Estado, del Municipio o de la Federación, si no se separan de sus cargos cuando menos tres meses antes del día de la elección.
 
 ###### Artículo 42.
 
@@ -982,3 +996,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 20 DE MAYO DE 1923.
 
 Artículo único.- Los Diputados que resulten electos en las elecciones que se verifiquen en el año de 1924, para la integración de la XXX Legislatura del Estado, por los Distritos señalados con el número par, solo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
+
+P.O. 28 DE OCTUBRE DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
