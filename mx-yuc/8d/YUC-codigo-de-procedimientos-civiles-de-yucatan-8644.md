@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1993-12-31"
+last_updated: "1999-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -4725,7 +4725,7 @@ Se determinará el importe de la garantía, su apreciación y aprobación, con a
 
 ###### ARTICULO 876.
 
-Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponde hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso. El tutor interino que en estos casos debe nombrarse conforme al artículo 415 del Código Civil, presentará dentro del término que fije el Juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo debe garantizarse con arreglo a los artículos 416 y 418 del referido Código.
+Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponde hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso. El tutor interino que en estos casos debe nombrarse conforme al artículo 418 del Código Civil, presentará dentro del término que fije el Juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo debe garantizarse con arreglo a los artículos 415 y 416 del referido Código.
 
 ###### ARTICULO 877.
 
@@ -4891,7 +4891,9 @@ En todos los casos en que el tutor necesite para algún acto, de la licencia del
 
 Los tutores y curadores no pueden ser removidos ni excusarse por un acto de jurisdicción voluntaria, aun cuando sea a solicitud de los menores. Para decretar su separación después de discernido el cargo, es indispensable oírlos y vencerlos en juicio.
 
-### CAPITULO VIII. De la Emancipación
+### CAPITULO VIII. Del Procedimiento para la Adopción
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 907.
 
@@ -4949,7 +4951,7 @@ Después de la declaración de ausencia o de la presunción de muerte del ausent
 
 Lo dispuesto en los dos artículos que preceden, es aplicable al gravamen de los bienes de los menores, y a su arrendamiento por más de tres años, con los requisitos establecidos en los artículos 908, 909, 912 y 913.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 19 DE MARZO DE 1970)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO IX. De la autorización para separarse del domicilio
 
@@ -4959,15 +4961,55 @@ conyugal o paterno
 
 ###### ARTICULO 916.
 
-(DEROGADO, D.O. 19 DE MARZO DE 1970)
+El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 309 B del Código Civil, debiéndose observar lo siguiente:
+
+I.- La adopción deberá promoverse en diligencias de jurisdicción voluntaria ante un Juez de lo Familiar, por conducto de la Procuraduría de la Defensa del Menor y la Familia;
+
+II.- En la promoción inicial se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere domicilio del menor o persona con discapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social, pública o privada que lo haya acogido y acompañar certificado médico de buena salud;
+
+III.- El procedimiento para dictaminar sobre el cumplimiento de los requisitos para la adopción lo realizará la Procuraduría de la Defensa del Menor y la Familia con apego a la legislación vigente que rige su funcionamiento;
+
+IV.- El Ministerio Público emitirá su dictamen sobre el cumplimiento de los requisitos para la adopción al contestar la vista de la promoción de la adopción;
+
+V.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 346, fracción IV, del Código Civil;
+
+VI.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará la permanencia de quien se pretende adoptar en el hogar del presunto adoptante, entre tanto se consuma dicho plazo;
+
+VII.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del Juez.
+
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+
+VIII.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país.
+
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho país, así como autorización de la autoridad federal competente para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
+
+La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 917.
 
-(DEROGADO, D.O. 19 DE MARZO DE 1970)
+Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el Juez de lo Familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 918.
 
-(DEROGADO, D.O. 19 DE MARZO DE 1970)
+Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el Juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 321 del Código Civil.
+
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
+
+Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
+
+> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 918 A.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 316 A del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público y previa valoración de la Procuraduría de la Defensa del Menor y la Familia, luego de las cuales se resolverá lo conducente, en el término de ocho días.
+
+> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 918 B.- Los procedimientos de revocación en materia de adopción simple se seguirán por la vía ordinaria.
 
 ### CAPITULO X. De las informaciones judiciales
 
@@ -6398,3 +6440,9 @@ UNICO.- El presente Decreto entrará en vigor tres días después de su publicac
 D.O. 31 DE DICIEMBRE DE 1993.
 
 UNICO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 13 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
