@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1924-09-27"
+last_updated: "1924-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1924.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE OCTUBRE DE 1924.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -169,7 +169,7 @@ De la División de Poderes
 
 ### CAPITULO SEGUNDO. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, D.O. 4 DE AGOSTO DE 1921)</small>
+> <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1924)</small>
 
 ###### Artículo 16.
 
@@ -197,7 +197,7 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de representantes electos en su totalidad cada dos años; su elección será popular y directa y no podrán ser reelectos para el periodo inmediato por el mismo Distrito, ni electos por ninguno otro, en el mismo periodo.
+El Congreso del Estado de Yucatán se compondrá de Representantes electos en su totalidad cada dos años, y su elección será popular directa.
 
 ###### Artículo 21.
 
@@ -1000,5 +1000,13 @@ D.O. 3 DE DICIEMBRE DE 1923.
 Este decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el "Diario Oficial" del Estado.
 
 D.O. 27 DE SEPTIEMBRE DE 1924.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+D.O. 2 DE OCTUBRE DE 1924.
+
+###### ARTICULO UNICO.
+
+SE DEROGA EL DECRETO NUMERO 320 DE FECHA 2 DE AGOSTO DE 1921 QUE ADICIONO EL ARTICULO 20 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
