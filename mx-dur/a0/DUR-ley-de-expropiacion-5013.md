@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-expropiacion-5013"
 country: "mx"
 rank: "ley"
 publication_date: "1941-08-03"
-last_updated: "1941-08-03"
+last_updated: "1960-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EXPROPIACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1960.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 3 de agosto de 1941.
 
@@ -59,9 +59,13 @@ X.- El establecimiento y fomento de Escuelas Granjas y de Escuela Experimental d
 
 XI.- La construcción de casas baratas e higiénicas destinadas a ser adquiridas por los trabajadores en plazos determinados.
 
-XII.- El establecimiento o construcción de Escuelas Primarias Elementales y Superiores, Mercados, Panteones, Hospitales, Hospicios, Asilos y demás servicios de beneficencia pública.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1960)</small>
 
-XIII.- La creación y ampliación de jardines, parques y demás paseos públicos, incluyéndose los centros de Cultura Física y Campos Deportivos.
+XII.- El establecimiento o construcción, conservación o mejoramiento de escuelas de cualquier tipo, mercados, panteones, hospitales, hospicios, asilos, centros asistenciales y cualquiera otra obra destinada a prestar servicios de beneficio colectivo.
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1960)</small>
+
+XIII.- La creación y ampliación de jardines, parques, plazas o plazuelas y demás paseos públicos, incluyéndo los centros de cultura física y campos deportivos.
 
 XIV.- El establecimiento o construcción de aeródromos o campos de aterrizaje.
 
@@ -87,9 +91,11 @@ El expresado recurso de revocación se inetrpondrá (sic) por escrito ante la Se
 
 En el caso de no haberse hecho valer el recurso expresado o que éste hubiere sido resuelto en sentido adverso procderá (sic) el Ejecutivo del Estado a la ocupación del bien o cosa materia de la expropiación u ocupación dcretada (sic), o hará la ejecución inmediata de las disposiciones relativas a la limitación procedente de los derechos de dominio afectados.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MARZO DE 1960)</small>
+
 ###### Artículo 7.
 
-En los casos de las Fracciones III, V, VIII, IX, XIV y XV del Artículo 1o. de esta Ley, hecha la declaratoria correspondiente, podrá ordenar desde luego el Ejecutivo del Estado la ocupación de los bienes objeto de la expropiación sin que la interposición del recurso de revocación suspenda la ejecución o limitación del derecho de dominio afectado.
+En los casos de las Fracciones III, V, VIII, IX, XII, XIII, XIV y XV del Artículo 1o. de esta Ley, hecha la declaratoria correspondiente, podrá ordenar desde luego el Ejecutivo del Estado la ocupación de los bienes objeto de la expropiación sin que la interposición del recurso de revocación suspenda la ejecución o limitación del derecho de dominio afectado.
 
 ###### Artículo 8.
 
@@ -105,7 +111,7 @@ Cuando se controvierta el monto de la indemnización por la expropiación decret
 
 ###### Artículo 11.
 
-Contra el auto del Juez que haga la designación de los peritos avaluadores (sic) no procederá ningún recurso.
+Contra el auto el Juez que haga la designación de los peritos avaluadores (sic) no procederá ningún recurso.
 
 ###### Artículo 12.
 
@@ -160,3 +166,11 @@ Dado en el Salón de Sesiones del Congreso del Estado de Durango, a los (28) vei
 Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda para su exacta observancia.
 
 Dado en el Palacio del Poder Ejecutivo del Estado de Durango, a los veintiocho días del mes de julio de mil novecientos cuarenta y uno.- ELPIDIO G. VELAZQUEZ.- El Secreartio (sic), Lic. JESUS DORADOR IBARRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MARZO DE 1960.
+
+Primero.- A excepción de los Artículos reformados quedan en vigor los demás de la Ley de Expropiación publicada en el Periódico Oficial número 10 del 3 de agosto de 1941.
+
+Segundo.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
