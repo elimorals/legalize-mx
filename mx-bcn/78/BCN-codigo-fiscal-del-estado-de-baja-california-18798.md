@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "1988-12-31"
+last_updated: "1989-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1989.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -47,15 +47,17 @@ CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA.
 
 El presente Código tiene por objeto regular los derechos y obligaciones de los sujetos de la relación tributaria derivada de las Disposiciones Fiscales Estatales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 2.
 
-Son Leyes Fiscales del Estado:
+Son ordenamientos fiscales del Estado:
 
 I.- El presente Código.
 
 II.- La Ley de Ingresos.
 
-III.- La Ley Egresos;
+III.- La Ley Egresos.
 
 IV.- La Ley de Hacienda.
 
@@ -63,33 +65,45 @@ V.- La Ley de Coordinación Fiscal.
 
 VI.- La Ley de Deuda Pública.
 
-VII.- La Ley que Reglamenta las Facultades de la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+VII.- El Reglamento Interior de la Secretaría de Finanzas.
 
 VIII.- Los demás Ordenamientos Legales que contengan Disposiciones de Orden Hacendario.
 
-La aplicación de los Ordenamientos a que se refiere este Artículo le compete al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás Autoridades Administrativas que prevengan las Leyes.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+La aplicación de los ordenamientos a que se refiere este artículo le compete al Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 3.
 
-Son contribuciones al Gasto Públicos (sic) los Impuestos, Derechos, Aprovechamientos, Contribuciones de Mejoras y Participaciones en Ingresos Federales. Se regularán por las Leyes Fiscales respectivas; en su defecto, por el presente Código y supletoriamente por el Derecho Común.
+Son contribuciones los impuestos, derechos y las contribuciones de mejoras. Los recargos, las multas, los gastos de ejecución y la indemnización en su caso de cheques devueltos son aprovechamientos accesorios a las contribuciones, participan de su naturaleza, pero cuando en este Código se hace mención a contribuciones no se entenderán incluidos los accesorios. Las contribuciones se regularán por las leyes fiscales respectivas, en su defecto por este Código y supletoriamente por el derecho común.
 
 Los productos se regularán por las Disposiciones indicadas anteriormente o por lo que prevengan los Contratos, Convenios o Concesiones correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 4.
 
-Son ingresos extraordinarios aquellos que el Estado perciba cuando las circunstancias especiales lo coloquen frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
+Son ingresos extraordinarios aquellos que el Estado perciba por concepto de créditos otorgados, impuestos extraordinarios, derechos extraordinarios por prestación de servicios no previstos en los renglones ordinarios de la Ley de Ingresos del Estado; por concepto de expropiaciones; de aportaciones extraordinarias de los entes públicos y por otros conceptos.
 
 ###### ARTICULO 5.
 
 Sólo podrá efectuarse una contribución estatal a un fin especial, cuando así lo dispongan expresamente las Leyes Fiscales del Estado y constituya el fin mencionado una afectación para el Gasto Público.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 6.
 
-Son Impuestos las prestaciones en dinero o en especie fijadas por la Ley a cargo de los sujetos cuya situación coincida con el hecho generador de la obligación fiscal.
+Son impuestos las prestaciones en dinero o en especie que fija la Ley con carácter general y obligatorio a cargo de personas físicas y morales para cubrir los gastos públicos.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 7.
 
-Son Derechos las prestaciones establecidas por el Estado, conforme a una Ley, por la realización de un servicio.
+Son derechos las contraprestaciones establecidas por el Estado, conforme a las leyes fiscales, en pago de un servicio.
 
 ###### ARTICULO 8.
 
@@ -107,35 +121,39 @@ Son Contribuciones de mejoras los tributos que el Estado fija a quienes, indepen
 
 Son Participaciones en Ingresos Federales las cantidades que de conformidad con las Leyes y Convenios de Coordinación, tiene derecho a percibir el Estado, y en su caso, las que por disposición constitucional le correspondan en el rendimiento de Contribuciones Federales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 12.
 
-Las Normas de Derecho Tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
+Las normas de derecho tributario que establezcan cargas a los particulares, las que señalen excepciones a las mismas, así como las que fijan infracciones y sanciones serán de aplicación estricta.
 
 Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 13.
 
-La recaudación, administración, determinación y cobranza de los Ingresos que el Estado tiene derecho a percibir, estará a cargo de la Secretaría de Finanzas y sus Dependencias, de acuerdo con la competencia que les señala el presente Código y demás Leyes Estatales.
+La recaudación, administración, determinación y cobranza de los ingresos que el Estado tiene derecho a percibir, estará a cargo de la Secretaría de Finanzas y sus unidades administrativas, de acuerdo con la competencia que les señalan el presente Código, el Reglamento Interior de la Secretaría de Finanzas y los demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 14.
 
-Son Autoridades Fiscales del Estado para los efectos de este Código y demás Disposiciones Aplicables:
+Son autoridades fiscales del Estado para los efectos de este Código y demás disposiciones aplicables:
 
 I.- El Gobernador.
 
 II.- El Secretario de Finanzas.
 
-III.- El Tesorero.
+III.- El Procurador Fiscal.
 
 IV.- El Director de Ingresos.
 
 V.- El Director de Auditoría Fiscal.
 
-VI.- Los Recaudadores de Rentas.
+VI.- Los Recaudadores.
 
-VII.- Los Recaudadoes (sic) de Rentas adscritos a los Organismos Descentralizados.
-
-VIII.- Los Servidores Públicos legalmente autorizados para suplir a las Autoridades Fiscales, en el ejercicio de sus atribuciones.
+VII.- El Subsecretario, los subprocuradores, Subdirectores y Subrecaudadores legal o reglamentariamente autorizados por sí o en ejercicio de suplencia.
 
 ###### ARTICULO 15.
 
@@ -149,7 +167,7 @@ II.- En los demás casos, la preferencia corresponderá al Fisco que tenga el ca
 
 Para determinar la preferencia de los Créditos Fiscales, en casos diversos del previsto en el Artículo anterior, se estará a las siguientes reglas:
 
-I.- Los créditos del Gobierno Estatal provenientes de Impuestos, Derechos, Aprovechamientos, Productos y Contribuciones de Mejoras, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, salarios o sueldos devengados o de indemnizaciones a los trabajadores, de acuerdo con la Ley Federal del Trabajo;
+I.- Los créditos del Gobierno Estatal provenientes de Impuestos, Derechos, Aprovechamientos, Productos y Contribuciones de Mejoras, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, salarios o sueldos devengados o de indemnizaciones a los trabajadores, de acuerdo con la Ley Federal del Trabajo.
 
 II.- Para que sea aplicable la excepción a que se refiere la Fracción anterior, será requisito indispensable que las garantías hipotecarias, y en su caso, las prendarias se encuentren debidamente inscritas en el Registro de la Propiedad y de Comercio, con anterioridad a la fecha en que se hubiere notificado al deudor, el crédito fiscal; y respecto de los créditos por alimentos, que se haya presentado la demanda ante las Autoridades competentes.
 
@@ -159,9 +177,11 @@ III.- La vigencia y exigibilidad por cantidad líquida del derecho del crédito 
 
 ### CAPITULO I. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 17.
 
-Sujeto pasivo de una Obligación Fiscal es cualquier persona física o moral que, de acuerdo con las Leyes Fiscales, esté obligada al cumplimiento de una prestación determinada al Fisco Estatal.
+Sujeto pasivo de una obligación fiscal es cualquier persona física o moral que, de acuerdo con las leyes fiscales, éste obliga (sic) al cumplimiento de una contribución determinada al fisco estatal.
 
 ###### ARTICULO 18.
 
@@ -221,13 +241,17 @@ III.- Las demás personas que señalen las Leyes.
 
 Las personas a que se refieren las Fracciones II y III de este Artículo, deberán cumplir con las demás Obligaciones Fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 21.
 
-Para los efectos fiscales se considera domicilio de los sujetos pasivos el que establezcan las Leyes Fiscales y, a falta de disposición en dichas Leyes, en su orden, los siguientes:
+Para los efectos fiscales se considera domicilio de los sujetos pasivos el que establezcan las leyes fiscales y, a falta de disposición en dichas leyes, en su orden, los siguientes:
 
 I.- Tratándose de personas físicas:
 
-A).- El lugar que hubieren señalado como su domicilio, ante las Autoridades Fiscales.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+A).- El lugar que hubieren señalado como su domicilio, ante las autoridades fiscales estatales.
 
 B).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales.
 
@@ -297,11 +321,15 @@ III.- Cuando deje de cubrirse una de las parcialidades, dentro de los quince dí
 
 IV.- Cuando el deudor incurra en los delitos previstos en este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 27.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las Disposiciones respectivas, deberán cubrirse recargos, en concepto de indemnización al Fisco Estatal por la falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos del Estado.
+Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por concepto de indemnización al fisco estatal por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos del Estado.
 
-Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracciones a las Disposiciones Fiscales y no excederán del límite que anualmente disponga la Ley de Ingresos del Estado. Cuando el pago hubiese sido menor al monto del crédito, los recargo se computarán sobre la diferencia, por cada mes o fracción que transcurra a partir de la fecha de exigibilidad, hasta que se efectúe el pago.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, a la tasa que anualmente disponga la Ley de Ingresos del Estado. Cuando el pago hubiere sido menor al monto del crédito, los recargos se calcularán sobre la diferencia, por cada mes o fracción que transcurra a partir de la fecha de exigibilidad, hasta que se efectúe el pago.
 
 Cuando se paguen en forma espontánea las prestaciones omitidas y sus recargos, éstos no excederán del 100% del crédito omitido.
 
@@ -313,7 +341,9 @@ Los giros postales, telegráficos o bancarios; los cheques certificados; los per
 
 El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás adeudos que se generen.
 
-La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que procediere.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que procediere, salvo que el librador del cheque demuestre que la falta de pago no le es imputable.
 
 ###### ARTICULO 29.
 
@@ -369,7 +399,9 @@ La compensación será declarada por la Secretaría de Finanzas a petición del 
 
 El Ejecutivo Estatal, mediante Disposiciones de carácter general, podrá conceder plazos para el pago de créditos fiscales, con reducción o eliminación de recargos; o bien, condonar o eximir, parcial o totalmente, del cumplimiento de obligaciones fiscales, cuando se haya afectado o trate de impedirse se afecte la situación de alguna región del Estado, o de alguna rama de las actividades económicas.
 
-Las Disposiciones que al respecto se dicten, determinarán los créditos que se condonen o cuyo cumplimiento de pago se aplace, los recargos que se eliminen, las excenciones, la región o rama de actividades, favorecida, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+Las disposiciones que al respecto se dicten, determinarán los créditos que se condonen o cuyo cumplimiento de pago se aplace, los recargos que se eliminen, las exenciones que se concedan, la región o rama de actividades favorecida, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
 
 ###### ARTICULO 36.
 
@@ -385,9 +417,11 @@ La prescripción se inicia a partir de la fecha en que el crédito o el cumplimi
 
 La prescripción del crédito principal extingue simultáneamente sus accesorios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 38.
 
-Los créditos a cargo del Erario Estatal y los depósitos a su cuidado constituídos en efectivo o en valores, prescriben en tres años contados a partir de la fecha en que el acreedor pueda legalmente exigir su devolución, salvo que las Leyes Especiales establezcan otros términos.
+Los créditos a cargo del erario estatal y los depósitos a su cuidado constituidos en efectivo o en valores, prescriben en cinco años contados a partir de la fecha en que el acreedor pueda legalmente exigir su devolución, salvo que las leyes especiales establezcan otros términos.
 
 Transcurrido el plazo anterior, la Secretaría de Finanzas declarará de oficio la prescripción de los créditos o depósitos respectivos.
 
@@ -1173,11 +1207,15 @@ Si el visitado o los testigos se niegan a firmar, así lo harán constar los vis
 
 VIII.- Con las mismas formalidades a que se refieren las Fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluída.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 97.
 
 Las autoridades fiscales, en el ejercicio de sus facultades de comprobación, procederán como sigue para determinar contribuciones omitidas:
 
-I.- Determinarán, en primer lugar, las contribuciones omitidas en el período de veinticuatro meses, inmediato anterior a la fecha en que se ejerzan las citadas facultades;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+I.- Determinarán, en primer lugar, las contribuciones omitidas en el período de doce meses, inmediato anterior a la fecha en que se ejerzan las citadas facultades.
 
 II.- Al comprobarse que durante el período a que se refiere la Fracción anterior el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas con anterioridad a tal período, sin mas limitación que lo dispuesto en el Artículo 40 de este Código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este Artículo.
 
@@ -1267,13 +1305,17 @@ La presunción establecida en este Artículo no se aplicará cuando el causante 
 
 Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considera el que corresponda a bienes de la misma especie adquiridos por el causante en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 104.
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 99, de este Código y no puedan comprobar por el período objeto de revisión sus ingresos así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 99 de este Código y no puedan comprobar por el período objeto de revisión de sus ingresos así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
 
 I.- Si con base en la contabilidad y documentación del causante o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días, lo más cercano posible al cierre del ejercicio, el ingreso o el valor de los actos o actividades, se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión.
 
-II.- Si la contabilidad del causante no permite reconstrir (sic) las operaciones del período de treinta días a que se refiere la Fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades que observen durante siete días consecutivos, incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que corresponde al período objeto de revisión.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+II.- Si la contabilidad del causante no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades que se observen durante siete días consecutivos incluyendo los inhábiles, y el promedio diario resultante se multiplicará por el número de días que corresponde al período objeto de revisión.
 
 Al ingreso o valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
@@ -1313,9 +1355,11 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 #### SECCION I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 109.
 
-El conjunto de normas regulan el ejercicio de la facultad económica-coactiva, constituye el procedimiento administrativo de Ejecución que será preferente a las acciones de cualesquiera otras personas físicas o morales.
+El conjunto de normas que regulan el ejercicio de la facultad económica-coactiva, constituye el procedimiento administrativo de ejecución, que será preferente a las acciones de cualesquiera otras personas físicas o morales.
 
 ###### ARTICULO 110.
 
@@ -1335,15 +1379,19 @@ Los vencimientos que ocurran durante el Procedimiento, incluso recargos, gastos 
 
 Cuando las circunstancias lo requieran, los créditos a favor del Erario del Estado podrán ser trasladados a la dependencia fiscal donde fuere factible el cobro, para que requiera al deudor y continúe el Procedimiento Administrativo de Ejecución hasta hacer efectivo el crédito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 114.
 
-En el caso del Artículo 111 de este Código, la Oficina Recaudadora requerirá la presentación de la declaración o el pago del adeudo, dejándole copia del mismo para que efectúe el pago dentro de los tres días siguientes, apercibiendo que de no hacerlo se iniciará el Procedimiento de Ejecución.
+En el caso del artículo 111 de este Código, la oficina recaudadora requerirá la presentación de la declaración o el pago del adeudo, dejándole copia de (sic) mismo requerimiento para que efectúe el pago dentro de los seis días siguientes, apercibiéndolo que de no hacerlo se iniciará el procedimiento administrativo de ejecución.
 
 Si el deudor no efectúa el pago dentro del término señalado en el párrafo anterior, la autoridad fiscal mediante mandamiento fundado y motivado en el que se designe ejecutor, requerirá al deudor de pago, en la inteligencia que de no hacerlo en el momento de la diligencia, se procederá a embargar bienes suficientes para garantizar el importe del crédito requerido, gastos de ejecución y demás accesorios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 115.
 
-Las autoridades fiscales podrán ordenar, que se practique embargo precautorio en bienes de los contribuyentes directos, sustitutos, o solidarios de cualquier prestación fiscal, en el acto mismo de la notificación del adeudo, en la visita de inspección, siempre que a su juicio hubiere peligro de que se ausente el deudor, o de que enajene u oculte sus bienes.
+La (sic) autoridades fiscales podrán ordenar, que se practique embargo precautorio en bienes de los contribuyentes directos, sustitutos, o solidarios de cualquier prestación fiscal, en el acto mismo de la notificación del adeudo, en la visita domiciliaria, revisión o, inspección, siempre que a su juicio hubiere peligro de que se ausente el deudor, o de que enajene u oculte sus bienes.
 
 El embargo precautorio se ejecutará sumariamente, sin más formalidad que el levantamiento del acta correspondiente que suscribirá el ejecutor en unión de dos testigos, designado depositario o interventor, en su caso.
 
@@ -1387,6 +1435,8 @@ II.- En los demás casos, con el deudor personalmente y, en su defecto, con su r
 
 Al concluir la diligencia se dejará copia del acta al interesado. Si el requerimiento se hizo por edictos, la diligencia de embargo se entenderá con la autoridad fiscal municipal o auxiliar del lugar donde se encuentren los bienes, salvo que en el momento de iniciarse la diligencia comparezca el deudor, en cuyo caso se entenderá con él.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 122.
 
 El deudor, o en su defecto, la persona con quien se entienda la diligencia, tendrá derecho a designar los bienes que deban embargarse, siempre que se sujeten al orden que sigue:
@@ -1395,7 +1445,9 @@ I.- En los casos de secuestro convencional, los bienes inmuebles o las negociaci
 
 II.- En los demás casos:
 
-A).- Dinero, metales preciosos y depósitos bancarios.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+A).- Dinero, metales preciosos.
 
 B).- Acciones, bonos, títulos o valores y, en general, créditos de inmediato y fácil cobro a cargo de instituciones y empresas particulares de reconocida solvencia.
 
@@ -1709,13 +1761,17 @@ II.- Si se trata de muebles, la que cubra la mitad del precio que sirva de base 
 
 Para tener derecho a comparecer como postor deberá formularse escrito en el que se haga la postura, debiendo hacer depósito en la oficina recaudadora correspondiente, del importe de cuando menos el diez porciento del valor fijado a los bienes en la convocatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 162.
 
-Las autoridades no fiscales, en ningún caso podrán sacar a remate bienes embargados por la oficina fiscal del Estado.
+Las autoridades no fiscales en ningún caso podrán sacar a remate bienes embargados por la Recaudación de Rentas del Estado.
 
 Los remates que se celebren en contravención a los (sic) dispuesto en el párrafo anterior, serán nulos y las adjudicaciones que hagan como consecuencia de ellos, carecerán de todo valor y eficacia jurídica.
 
-Sin embargo, las autoridades no fiscales, podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del Artículo 127, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+Sin embargo las autoridades no fiscales, podrán secuestrar el remanente que llegado el caso, resulte del remate administrativo para los efectos del artículo 151, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas.
 
 ###### ARTICULO 163.
 
@@ -1847,6 +1903,8 @@ El remate efectuado con infracción de este precepto, será nulo y los infractor
 
 Contra las resoluciones de las Autoridades Fiscales del Estado, que determinen créditos fiscales, apliquen sanciones o que causen agravio en materia fiscal, el causante afectado podrá interponer el recurso administrativo de revocación que establece este Título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 182.
 
 La tramitación del recurso administrativo de revocación se sujetará a las normas siguientes:
@@ -1863,11 +1921,19 @@ IV.- El recurrente deberá acompañar al escrito en que se interponga el recurso
 
 V.- La Secretaría de Finanzas proveerá el desahogo de las pruebas ofrecidas, no contempladas en la Fracción anterior, en un término que no podrá exceder de veinte días, a partir de la fecha de recepción del escrito del recurrente.
 
-VI.- Para la resolución del recurso, la Secretaría de Finanzas podrá pedir que se le rindan los informes que estime pertinentes, por parte de quienes hayan intervenido en la formación de la resolución o procedimiento impugnado o de terceras personas y, en general, tendrá facultades para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
 
-VII.- Una vez valoradas las pruebas, y en su caso, recibidos los informes, se dictará la resolución que proceda dentro del término de treinta días. Las resoluciones que se dicten se fundarán en derecho y examinarán todos y cada uno de los agravios hechos valer por el recurrente.
+VI.- Para la resolución del recurso, la Secretaría de Finanzas por sí o a través de la Procuraduría Fiscal del Estado podrá pedir que se le rindan los informes que estime pertinentes, por parte de quienes hayan intervenido en la formulación de la resolución o procedimiento impugnado o de terceras personas y, en general, tendrá facultades para ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos.
 
-VIII.- La resolución que ponga fin al recurso será en el sentido de confirmar, revocar o modificar la resolución impugnada o mandar reponer el procedimiento administrativo. Si la resolución declara la nulidad, indicará los términos conforme a los cuales deba dictarse la nueva resolución.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+VII.- Cuando un recurso se interponga ante autoridad fiscal incompetente ésta lo turnará a la que hubiere emitido el acto o resolución impugnada para que adjuntándole su informe lo turne a la Procuraduría Fiscal del Estado para que resuelva.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1989)</small>
+
+VIII.- Una vez valoradas las pruebas, y en su caso, recibidos los informes, la Procuraduría Fiscal del Estado dictará la resolución que proceda dentro del término de treinta días. Las resoluciones que se dicten se fundarán en derecho y examinarán todos y cada uno de los agravios hechos valer por el recurrente.
+
+IX.- La resolución que ponga fin al recurso será en el sentido de confirmar, revocar o modificar la resolución impugnada o mandar reponer el procedimiento administrativo. Si la resolución declara la nulidad, indicará los términos conforme a los cuales deba dictarse la nueva resolución.
 
 ###### ARTICULO 183.
 
@@ -1910,3 +1976,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 10 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
