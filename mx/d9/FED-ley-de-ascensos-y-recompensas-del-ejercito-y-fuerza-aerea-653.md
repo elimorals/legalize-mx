@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1971-03-04"
+last_updated: "1975-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -61,11 +61,13 @@ Cuando se trate de oficiales, el Secretario de la Defensa Nacional, con acuerdo 
 
 Es facultad del Secretario de la Defensa Nacional ascender a los militares de la clase de tropa; los comandantes de las unidades o jefes de dependencias podrán conferir también ascensos de soldados a cabos, los cuales les serán comunicados hasta que sean aprobados por la propia Secretaría.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 4o.
 
-Los ascensos en el Ejército y Fuerza Aérea, serán conferidos por rigurosa escala jerárquica.
+Los ascensos en el Ejército y Fuerza Aérea serán conferidos por rigurosa escala jerárquica.
 
-Desde cabo hasta coronel, el ascenso será conferido precisamente dentro de la misma arma o servicio. Desde general brigadier hasta general de división, no será necesario este requisito para los militares de guerra.
+De Cabo a Coronel, el ascenso será conferido precisamente dentro de la misma arma, rama o servicio. Desde General Brigadier o de Grupo a General de División, no será necesario este requisito para los militares de arma o rama.
 
 ###### ARTICULO 5o.
 
@@ -81,23 +83,23 @@ II.- En tiempo de guerra.
 
 Los ascensos en tiempo de paz tienen por finalidad, cubrir las vacantes que ocurran en los Cuadros del Ejército o de la Fuerza Aérea, con militares aptos y preparados para el desempeño del grado inmediato superior, o bien para estimular a los militares que se encuentren comprendidos en los casos previstos en los artículos 16 y 28 de esta ley.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 7o.
 
 Los ascensos en el Ejército y Fuerza Aérea serán conferidos atendiendo conjuntamente a las siguientes circunstancias:
 
 I.- A la antigüedad en el grado;
 
-II.- A la competencia profesional;
+II.- A la aptitud profesional;
 
 III.- A la buena conducta militar y civil;
 
 IV.- A la buena salud y capacidad física;
 
-V.- Al tiempo de servicios en el Ejército; y
+V.- Al tiempo de servicios; y
 
-VI.- A la aprobación en los cursos de capacitación, de perfeccionamiento o superiores y demás que estatuya el Plan General de Educación Militar para el grado inmediato superior.
-
-Concurran o no todas las circunstancias anteriores, los militares podrán también ascender cuando se compruebe que tienen los méritos que señala el artículo 28 de esta ley.
+VI.- A la aprobación en los cursos de formación, capacitación, de perfeccionamiento o superiores y demás que estatuya el Plan General de Educación Militar para el grado inmediato superior.
 
 ###### ARTICULO 8o.
 
@@ -113,17 +115,17 @@ Las notas contenidas en tales documentos complementarán los datos que arrojen l
 
 Para ascender a cabo, será necesario que el soldado haya servido cuando menos un año en el Ejército o Fuerza Aérea y satisfaga, además, los requisitos señalados en las fracciones II, III y IV del artículo 7o.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 10.
 
-Es requisito indispensable para el ascenso de cabo a sargento segundo que el interesado tenga una antigüedad mínima en el grado, de un año y haya servido durante ese tiempo precisamente en filas, o en funciones propias de su especialidad los de servicio, así como que apruebe el curso respectivo en la Escuela de Clases.
+Son requisitos indispensables para el ascenso de Cabo a Sargento Segundo y de Sargento Segundo a Sargento Primero, que el interesado tenga una antigüedad mínima en el grado, de un año; haya servido durante ese tiempo encuadrado en Unidades de su Arma o Rama, o en funciones militares propias de su especialidad los de Servicio, y apruebe el curso respectivo en la escuela de clases que corresponda.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
-
-Es requisito indispensable para el ascenso de sargento segundo a sargento primero, que el interesado tenga una antigüedad mínima en el grado, de un año y haya servido durante ese tiempo precisamente en filas o en funciones propias de su especialidad de servicio, así como que aprueben el curso respectivo en la Escuela de Clases.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 11.
 
-Es indispensable para el ascenso de Sargento Primero a Subteniente, que los interesados tengan una antigüedad mínima en el grado, de un año y hayan servido durante ese tiempo precisamente en las corporaciones de las Armas, o en funciones propias de su especialidad los de servicio, así como que aprueben el curso respectivo en las Escuelas de Formación de Oficiales.
+Son requisitos indispensables para el ascenso de Sargento Primero a Subteniente, que el interesado tenga una antigüedad mínima en el grado, de un año y haya servido durante ese tiempo encuadrado en las unidades de su Arma o Rama o en funciones militares propias de su especialidad los de Servicio, y que aprueben el curso respectivo en las Escuelas de Formación de Oficiales.
 
 ###### ARTICULO 12.
 
@@ -139,127 +141,177 @@ La Secretaría de la Defensa Nacional determinará las fechas de los concursos d
 
 En igualdad de competencia profesional determinada por las puntuaciones obtenidas en el concurso, será ascendido el de mayor antigüedad, de acuerdo con las normas establecidas en el artículo 38 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 15.
 
-Para participar en los concursos de selección, los oficiales deberán satisfacer los siguientes requisitos:
+Para participar en los concursos de selección, los oficiales deberán satisfacer los requisitos siguientes:
 
 I.- Tener como mínimo el tiempo de servicios que a continuación se expresa:
 
-Subtenientes 6 años.
+Subtenientes: 5 años.
 
-Tenientes 9 años.
+Tenientes: 9 años.
 
 Capitanes 2os. 12 años.
 
 Capitanes 1os. 15 años.
 
-II.- Tener cuando menos tres años de antigüedad con el grado que ostenten;
+II.- Tener como mínimo en el grado que ostenten, la antigüedad siguiente:
 
-III.- Haber servido con dicho grado durante ese lapso en la forma, siguiente:
+Subtenientes: 3 años.
 
-a).- Los subtenientes de guerra tres años como mínimo en las unidades de su Arma del Servicio Activo en Cuarteles.
+Tenientes: 4 años.
 
-b).- Los tenientes de guerra, tres años como mínimo en las unidades de sus armas, del Servicio Activo en Cuarteles o en las Unidades Orgánicas de las Escuelas Militares, ejerciendo el mando.
+Capitanes 2os. 3 años.
 
-c).- Los capitanes de guerra, como mínimo dos años en las unidades de sus armas del Servicio Activo en Cuarteles, o en Unidades Orgánicas de las Escuelas Militares, ejerciendo el mando; y un año, en su caso, en los Cuarteles de los mandos territoriales de las Grandes Unidades, en las dependencias de su arma, como profesores en las Escuelas Militares, o estudiando en cursos de perfeccionamiento o superiores.
+Capitanes 1os. 3 años.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
+III.- Haber prestado sus servicios en ese grado en la forma siguiente:
 
-d).- Los Diplomados de Estado Mayor o Ingenieros Constructores un año como mínimo en las unidades de sus armas del Servicio Activo en Cuarteles, o en las Unidades Orgánicas de las Escuelas Militares, ejerciendo el mando; y dos años, en su caso en funciones de su especialidad como profesores en las Escuelas Militares o estudiando en cursos de perfeccionamiento o superiores.
+A. Los Subtenientes:
 
-e).- Los Ingenieros Industriales tres años como mínimo en los distintos escalones del Servicio de Materiales de Guerra o en las factorías militares, en funciones militares, o en cursos de perfeccionamiento.
+a.- De Arma o Rama, en las unidades del activo en cuarteles.
 
-f).- Los de los Servicios de Intendencia, Sanidad, Transmisiones y Materiales de Guerra, dos años como mínimo en las Unidades del Servicio Activo en Cuarteles, o en los Servicios que formen parte orgánica de dichas Unidades o de las Escuelas Militares, y el resto, en su caso, en funciones militares propias de su servicio o en cursos de perfeccionamiento.
+b.- De Servicio, en los Servicios orgánicos de las Unidades del activo en cuarteles, en unidades de la Fuerza Aérea o en unidades de sus Servicios no encuadradas. En los Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
+B. Los Tenientes:
 
-g).- Los Pagadores, Oficinistas, Cirujanos Dentistas, Personal Administrativo del Servicio de Justicia Militar y Especialistas de los distintos servicios, tres años como mínimo en funciones propias de su especialidad.
+a.- De Arma o Rama, tres años como mínimo en cualesquiera de las situaciones siguientes:
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 1971)</small>
+1.- En las unidades del activo en cuarteles y en las unidades de vuelo, respectivamente;
 
-h) Los ayudantes del Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las unidades de sus Armas o Servicios del Servicio Activo, en cuarteles o en unidades orgánicas de las Escuelas Militares ejerciendo el mando, y el resto, en la comisión asignada o estudiando en cursos de capacitación o superiores.
+2.- En unidades orgánicas de los Establecimientos de Educación Militar;
 
-(ADICIONADO, D.O.F. 4 DE MARZO DE 1971)(F. DE E., D.O.F. 10 DE MARZO DE 1971)
+3.- Como profesores o instructores, encuadrados en esos Establecimientos; y
 
-El personal perteneciente a la planta del Estado Mayor Presidencial, el de Ayudantes del Presidente de la República y Secretario de la Defensa Nacional, los profesores e instructores de planta de los establecimientos de Educación Militar y el personal de planta en los cuarteles generales de las grandes unidades, podrán participar en los concursos de selección, sin haber prestado, el personal de guerra, servicios en unidades ejerciendo el mando y el personal de servicio, sin haberlo hecho en funciones de su especialidad.
+4.- Como oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento.
+
+El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+
+b.- De servicio, tres años como mínimo en cualesquiera de las situaciones siguientes:
+
+1.- En los Servicios orgánicos de las unidades del activo en cuarteles, en unidades de la Fuerza Aérea o en unidades de sus Servicios no encuadradas. En los Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
+
+2.- En unidades orgánicas de los Establecimientos de Educación Militar;
+
+3.- Como profesores o instructores, encuadrados en esos Establecimientos; y
+
+4.- Como oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento.
+
+El resto del tiempo, en su caso, en otras actividades militares propias de su especialidad.
+
+C.- Los Capitanes:
+
+a.- De Arma o Rama, dos años como mínimo en cualesquiera de las situaciones siguientes:
+
+1.- En las unidades del activo en cuarteles y en las unidades de vuelo, respectivamente;
+
+2.- En unidades orgánicas de los Establecimientos de Educación Militar;
+
+3.- Como profesores o instructores, encuadrados en esos Establecimientos; y
+
+4.- Como oficiales en instrucción en los cursos de aplicación, superiores o de perfeccionamiento.
+
+El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
+
+b.- De Servicio, dos años como mínimo en cualesquiera de las situaciones siguientes:
+
+1.- En los Servicios orgánicos de las unidades del activo en cuarteles;
+
+2.- En unidades de la Fuerza Aérea o en unidades de su Servicio no encuadradas. En los Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
+
+3.- En unidades orgánicas de los Establecimientos de Educación Militar;
+
+4.- Como profesores o instructores encuadrados en esos Establecimientos; y
+
+5.- Como oficiales en instrucción en los cursos de aplicación, superiores o de perfeccionamiento.
+
+El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
 
 IV.- Tener buena salud y estar capacitados físicamente para el desempeño de las funciones propias del grado inmediato superior.
 
-V.- Haber aprobado los cursos a que se refiere el artículo 12 de esta Ley.
+V.- Haber aprobado los cursos a que se refiere el artículo 7o. de esta ley.
 
 VI.- Acreditar buena conducta militar y civil.
 
 VII.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 16.
 
-Los subtenientes egresados de las Escuelas de Formación de Oficiales, podrán ser ascendidos al grado de tenientes fuera de concurso al cumplir dos años de antigüedad en el grado, siempre que reúnan además los siguientes requisitos:
+Los Subtenientes egresados de las Escuelas o Cursos de Formación de Oficiales, podrán ser ascendidos al grado de tenientes fuera de concurso al cumplir dos años de antigüedad en el grado, siempre que reúnan además los siguientes requisitos:
 
-a).- Haber servido durante esos dos años precisamente en los cuerpos de tropa de sus armas ejerciendo el mando; o en unidades de vuelo de la fuerza aérea, si se trata de pilotos aviadores; tratándose de oficiales de servicio, en los cuerpos de tropa, en los servicios que formen parte orgánica de dichas unidades, en aquellos servicios en los cuales no existan unidades de tropa, en funciones propias de su especialidad.
+I.- Haber servido durante ese lapso precisamente en las unidades del activo en cuarteles ejerciendo el mando; o en unidades de vuelo de la Fuerza Aérea, si se trata de pilotos aviadores; tratándose de oficiales de Servicio, en los Servicios orgánicos de las unidades del activo en cuarteles o unidades de la Fuerza Aérea y en aquellos Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
-El personal femenino únicamente en funciones propias de su especialidad;
+II.- El personal femenino, en los diversos escalones de su Servicio, desempeñando actividades militares propias de su especialidad.
 
-b).- Haber observado buena conducta militar y civil;
+III.- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior.
 
-c).- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+IV.- Aprobar la prueba práctica de mando los oficiales de las Armas y Pilotos Aviadores; y de mando y práctica de su especialidad, los de Servicio.
 
-d).- Pasar la prueba de capacidad de mando los oficiales de arma y de capacidad y práctica en su especialidad, los de servicios, ante un jurado que para el efecto se designe;
+V.- Acreditar buena conducta militar y civil.
 
-e).- No encontrarse en alguna de las situaciones previstas en el artículo 30.
+VI.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE MARZO DE 1971)</small>
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 1976)</small>
+
+VII.- Los Subtenientes que por no haber reunido cualesquiera de los requisitos señalados, no asciendan, podrán participar en la promoción especial del año siguiente, por una sola vez y siempre que reúnan los ya mencionados requisitos.
+
+Los subtenientes egresados de Escuelas de Formación de Oficiales que hayan realizado sus estudios conforme a programas de cuatro años, podrán ascender en los términos señalados en este artículo al cumplir un año de antigüedad en el grado.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 17.
 
 Para participar en los concursos de selección de Mayores a Tenientes Coroneles, será necesario satisfacer los requisitos siguientes:
 
-I.- Tener como mínimo 19 años de servicios en el Ejército;
+I.- Tener como mínimo 19 años de tiempo de servicios.
 
-II.- Tener cuando menos cuatro años de antigüedad en el grado;
+II.- Tener como mínimo cuatro años de antigüedad en el grado.
 
-III.- Haber servido con el grado que ostentan durante ese lapso, en la forma siguiente:
+III.- Haber prestado sus servicios en ese grado en la forma siguiente:
 
-a).- Los de guerra dos años como mínimo en las unidades de tropa de sus armas del Servicio Activo en Cuarteles o en las Unidades Orgánicas de las Escuelas Militares ejerciendo el mando y el resto, en su caso, en los Cuarteles Generales de los Mandos Territoriales de las Grandes Unidades, dependencias de su Arma como Profesores en las Escuelas Militares o estudiando en curso de perfeccionamiento o superiores.
+A.- De Arma o Rama, dos años como mínimo en cualesquiera de las situaciones siguientes:
 
-b).- Los Diplomados de Estado Mayor e Ingenieros Constructores, un año cuando menos en las Unidades de Tropa de sus Armas del Servicio Activo en Cuarteles o en las Unidades Orgánicas de las Escuelas Militares ejerciendo el mando, y tres años en funciones propias de su especialidad, como Profesores en las Escuelas Militares o en cursos de perfeccionamiento;
+a.- En las unidades del activo en cuarteles y en las unidades de vuelo respectivamente;
 
-c).- Los Ingenieros Industriales, tres años como mínimo en los distintos escalones del Servicio de Materiales de Guerra, en las factorías militares, y un año, en su caso, en funciones militares, de Profesores en las Escuelas Militares o de estudiantes en cursos de perfeccionamiento superiores;
+b.- En las unidades orgánicas de Establecimientos de Educación Militar;
 
-d).- Los Médicos Cirujanos y Veterinarios, dos años como mínimo en las Unidades de Tropa del Servicio Activo en Cuarteles, o en las Unidades Orgánicas de las Escuelas Militares dos años, en su caso, en funciones militares propias de su profesión o en cursos de perfeccionamiento;
+c.- Como profesores o instructores, encuadrados en esos Establecimientos; y
 
-e).- Los de Intendencia, Sanidad, Trasmisiones y Materiales de Guerra, dos años como mínimo en los Servicios que formen parte orgánica de las Unidades de Tropa del Servicio Activo en Cuarteles o de las Unidades Orgánicas de las Escuelas Militares dos años, en su caso, en funciones militares propias de su servicio, en cursos de perfeccionamiento o como Profesores en las Escuelas Militares;
+d.- Como jefes en instrucción en los cursos superiores o de perfeccionamiento.
 
-f).- Los de los demás Servicios, cuatro años como mínimo en funciones propias de su especialidad;
+El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 1971)</small>
+B.- De Servicio, dos años como mínimo en cualesquiera de las situaciones siguientes:
 
-g).- Los Ayudantes del Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, un año como mínimo en las Unidades de sus Armas o Servicios del Servicio Activo, en Cuarteles o en Unidades Orgánicas de las Escuelas Militares ejerciendo el mando y el resto, en la Comisión asignada o estudiando en cursos de capacitación o superiores.
+a.- En los Servicios orgánicos de las unidades del activo en cuarteles;
 
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 1971)</small>
+b.- En unidades de la Fuerza Aérea o en unidades de su Servicio no encuadradas. En los Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
 
-El personal perteneciente a la planta del Estado Mayor Presidencial, el de Ayudantes del Presidente de la República y Secretario de la Defensa Nacional, los profesores e instructores de planta de los establecimientos de Educación Militar y el personal de planta en los cuarteles generales de las grandes unidades, podrán participar en los concursos de selección, sin haber prestado, el personal de guerra, servicios en unidades ejerciendo el mando y el personal de servicio, sin haberlo hecho en funciones de su especialidad.
+c.- En unidades orgánicas de los Establecimientos de Educación Militar;
 
-IV.- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+d.- Como profesores o instructores, encuadrados en esos establecimientos; y
 
-V.- Haber aprobado los cursos a que se refiere el artículo 12 de esta Ley;
+e.- Como jefes en instrucción en los cursos superiores o de perfeccionamiento.
 
-VI.- Acreditar buena conducta militar y civil;
+El resto del tiempo, en su caso, en actividades militares propias de su especialidad.
+
+IV.- Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior.
+
+V.- Haber aprobado los cursos a que se refiere el artículo 7o. de esta Ley.
+
+VI.- Acreditar buena conducta militar y civil.
 
 VII.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 18.
 
-Los Oficiales de las Armas que después de haber servido dos años con el grado que ostenten en las Unidades de Tropa del Servicio Activo en Cuarteles, ejerciendo el mando, pasen a estudiar a Escuelas Militares extranjeras, tendrán derecho a concursar para el ascenso, sujetándose a las pruebas que determine la Secretaría de la Defensa Nacional, siempre que satisfagan además los requisitos establecidos en las fracciones I, II, IV, V, VI y VII del artículo 15 de esta Ley.
-
-Los Oficiales de Estado Mayor e Ingenieros Constructores que después de haber servido con el grado que ostenten por lo menos, un año en las Unidades de Tropa del Servicio Activo en Cuarteles ejerciendo el mando, pasen a estudiar a Escuelas Militares Extranjeras tendrán derecho a concursar para el ascenso, sujetándose a las pruebas que determine la Secretaría de la Defensa Nacional, siempre y cuando satisfagan además, los requisitos establecidos en las fracciones I, II, IV, V, VI y VII del artículo 15 de esta Ley.
-
-Los Oficiales de los Servicios que después de haber servido con el grado que ostenten por lo menos dos años, en las Unidades de Tropa del Servicio Activo en Cuarteles o en funciones propias de su especialidad, si se trata de Ingenieros Industriales, pasen a estudiar a Escuelas Militares Extranjeras, tendrán derecho a concursar para el ascenso, sujetándose a las pruebas que determine la Secretaría de la Defensa Nacional, siempre y cuando satisfagan además, los requisitos establecido (sic) en las fracciones I, II, IV, V, VI y VII del artículo 15 de esta Ley.
-
-Los Mayores de las Armas que después de haber servido un año con dicho grado en Unidades del Servicio Activo en Cuarteles ejerciendo el mando, pasen a estudiar a Escuelas Extranjeras, tendrán derecho a concursar para el ascenso, sujetándose a las pruebas que determine la Secretaría de la Defensa Nacional, siempre que satisfagan, además, los requisitos establecidos en las fracciones I, II, IV, V, VI y VII del artículo 17 de esta Ley.
-
-Los Mayores de los Servicios que después de haber servido con dicho grado por lo menos, dos años en la (sic) Unidades de Tropa del Servicio en Cuarteles o en funciones propias de su especialidad si se trata de Ingenieros Industriales, pasen a estudiar a Escuelas Militares extranjeras, tendrán derecho a concursar para el ascenso, sujetándose a las pruebas que determine la Secretaría de la Defensa Nacional, siempre que satisfagan además, los requisitos señalados por las fracciones I, II, IV, V, VI y VII del artículo 17 de esta Ley.
+Los Tenientes, Capitanes y Mayores que sean designados Ayudantes del Presidente de la República o del Secretario, Subsecretario u Oficial Mayor de la Secretaría de la Defensa Nacional; los encuadrados en los Estados Mayores y en los Cuarteles Generales de las Grandes Unidades, tendrán derecho a participar en concursos de selección para el ascenso, computándoseles el tiempo que duren en esa situación para los mismos efectos que establece la fracción III de los artículos 15 y 17 de esta ley, siempre que también reúnan los otros requisitos señalados en las demás fracciones de dichos preceptos.
 
 ###### ARTICULO 19.
 
@@ -289,11 +341,17 @@ El jurado deberá estudiar la Hoja de Servicios y antecedentes del quejoso, revi
 
 Transcurrido el plazo a que se refiere el artículo anterior sin haberse hecho por los interesados las representaciones o reclamaciones respectivas, se tendrá por consentido el resultado del concurso de selección y consecuentemente se perderá todo derecho para presentar reclamación posterior, la cual, en caso de ser formulada será desechada de plano.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 24.
 
-Si el dictamen favorece al militar excluído del concurso de selección, la Secretaría ordenará el examen del interesado fuera del período de pruebas. Si en dichas pruebas obtiene una puntuación superior a la del último ascendido en el concurso en el que debió participar el quejoso, se ordenará el ascenso de éste en la primera vacante con la antigüedad de la fecha en que ascendieron los militares que concursaron.
+Si el dictamen favorece al militar excluido del concurso de selección, la Secretaría ordenará el examen del interesado fuera del período de pruebas. Si en dichas pruebas obtiene una puntuación superior a la del último ascendido en el concurso en el que debió participar el quejoso, se ordenará el ascenso de éste en la primera vacante con la antigüedad de la fecha en que ascendieron los militares que concursaron.
 
 Cuando el dictamen sea favorable al militar que habiendo participado en un concurso de selección no hubiere ascendido, se ordenará su ascenso en la primera vacante con la antigüedad de la fecha en la que ascendieron los demás que concursaron.
+
+> <small>(F. DE E., D.O.F. 8 DE MARZO DE 1976)</small>
+
+Cuando a juicio del Secretario de la Defensa Nacional el dictamen haya sido emitido sin ajustarse a las disposiciones legales en vigor o desestimando las constancias existentes, se ordenará su revisión por distinto jurado, el que deberá analizar las observaciones formuladas y emitir nuevo dictamen que tendrá el carácter de definitivo.
 
 ###### ARTICULO 25.
 
@@ -317,29 +375,27 @@ En tales casos, la Secretaría de la Defensa Nacional designará un jurado idón
 
 Los ascendidos en esta forma tendrán obligación de concurrir posteriormente a los cursos que marque el Plan General de Educación Militar, sin cuyo requisito no podrán tomar parte en promociones ulteriores.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 29.
 
-Los ascensos a los grados de Coronel, General Brigadier, de Brigada y de División, serán conferidos por el Presidente de la República atendiendo preferentemente al mérito, aptitud y competencia profesionales, calificados a juicio de dicho alto funcionario.
+Los ascensos a los grados de Coronel, General Brigadier o de Grupo, de Brigada o de Ala y de División, serán conferidos por el Presidente de la República atendiendo preferentemente al mérito, aptitud y competencia profesionales, calificados a juicio de dicho alto funcionario.
 
 ### CAPITULO III. Disposiciones generales
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 30.
 
 No serán conferidos ascensos a los militares que se encuentren en algunas de las situaciones siguientes:
 
-I.- Gozando de licencia ilimitada o absoluta;
+I.- Gozando de licencia ilimitada o especial.
 
-II.- Desempeñando puestos de elección popular;
+II.- Retirados del Activo.
 
-III.- Retirados del Activo;
+III.- Sujetos a proceso, prófugos o cumpliendo sentencia condenatoria en el orden penal; y
 
-IV.- Sujetos a proceso, prófugos o cumpliendo sentencia condenatoria en el orden penal;
-
-V.- Haber estado sujetos a proceso en el que se haya retirado la acción penal dentro del último año de su antigüedad;
-
-VI.- No tener comprobada su edad ante la Secretaría; y
-
-VII.- Desempeñando comisiones ajenas al servicio.
+IV.- Haber estado sujetos a proceso en el que se haya retirado la acción penal dentro del último año de su antigüedad.
 
 ###### ARTICULO 31.
 
@@ -349,11 +405,11 @@ El militar que en tres concursos de selección consecutivos obtenga puntuaciones
 
 Los militares de servicio que figuren en escalafones en los que haya un grado tope inferior a los de las Armas, no podrán ser ascendidos cuando alcance éste, pero al cumplir cinco años de antigüedad, si no se encuentran comprendidos en algunas de las fracciones del artículo 30 de esta Ley y demuestren plena aptitud profesional, tendrán derecho a percibir un sobrehaber complementario equivalente al 20% de la diferencia del de su grado con el inmediato superior y cada año después de estos cinco, se le seguirá abonando un 20% más hasta alcanzar el 100% de dicha diferencia.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 33.
 
-Los militares auxiliares no podrán ascender mientras no sean veteranizados y reúnan los requisitos fijados en la presente ley.
-
-Los reglamentos respectivos fijarán los requisitos para su veteranización.
+Los militares auxiliares no podrán ascender mientras no sean veteranizados.
 
 ###### ARTICULO 34.
 
@@ -371,27 +427,29 @@ Las de Subtenientes a Capitán Primero, las firmará el Secretario.
 
 Las patentes de Coronel a General de División no se expedirán antes de que el Senado de la República ratifique los nombramientos.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 37.
 
-En las patentes de los generales, jefes y oficiales y en los nombramientos de las clases, se harán constar los datos siguientes:
+En las patentes de los generales, jefes y oficiales y en los nombramientos de las Clases, se harán constar los datos siguientes:
 
-a).- Nombre, apellidos y matrícula del interesado;
+I.- Nombre, apellido y matrícula del interesado;
 
-b).- Motivo del ascenso y fecha de antigüedad en el grado.
+II.- Motivo del ascenso y fecha de antigüedad en el grado;
 
-c).- Expresión del Arma o Servicio a que pertenezcan, hasta el grado de Coronel;
+III.- Expresión del Arma, Rama o Servicio a que pertenezcan, hasta el grado de Coronel;
 
-d).- En las patentes de los generales de la clase de guerra, no se hará constar el arma a que hayan pertenecido;
+IV.- En las patentes de los Generales procedentes de Arma o Rama, no se hará mención a la que hayan pertenecido.
 
-e).- En las patentes de los generales de servicio se hará constar el Servicio a que pertenezcan.
+V.- En las patentes de los Generales de Servicio, se hará constar el Servicio a que pestenezcan (sic).
 
 Las patentes de Mayor a General de División, llevarán el Gran Sello de la Nación.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 38.
 
-Siempre que dos o más militares del mismo grado y de la misma Arma o Servicio tengan nombramiento o patente con antigüedad de igual fecha, deberá considerarse como más antiguo al que hubiere servido por más tiempo en el grado anterior. En igualdad de circunstancias, al que tuviere en el Ejército o Fuerza Aérea, mayor tiempo de servicios y si aun éste fuera igual, al de mayor edad.
+Siempre que dos o más militares del mismo grado o de la misma Arma, Rama o Servicio del Ejército y Fuerza Aérea, tengan nombramiento o patente con antigüedad de igual fecha, deberá considerarse como el más antiguo al que hubiere servido por más tiempo en el grado anterior. En igualdad de circunstancias, el que tuviere en el Ejército o Fuerza Aérea mayor tiempo de servicios, y si aun éste fuere igual, al de mayor edad.
 
 ### CAPITULO IV. Ascensos en tiempo de guerra
 
@@ -439,9 +497,11 @@ La Secretaría de la Defensa Nacional recabará en todos los casos, de las Depen
 
 De las condecoraciones.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 45.
 
-Las condecoraciones que se otorgarán a los militares que presten servicios al Ejército y Fuerza Aérea, serán las siguientes:
+Las condecoraciones que se otorgarán a los militares que presten servicios al Ejército y Fuerza Aérea serán las siguientes:
 
 I.- Valor Heroico;
 
@@ -454,6 +514,8 @@ IV.- Mérito Facultativo;
 V.- Mérito Docente;
 
 VI.- De Perseverancia;
+
+VII.- Mérito Deportivo.
 
 ###### ARTICULO 46.
 
@@ -477,9 +539,11 @@ La condecoración del Mérito Facultativo se otorgará por la Secretaría de la 
 
 La de Primera se concederá a los que obtengan primeros premios en todos los años y la de Segunda, a los que obtengan primeros y segundos premios o sólo estos en todos los años.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 50.
 
-La condecoración del Mérito Docente se concederá por la Secretaría de la Defensa Nacional al personal directivo o docente, militar o civil, de las Escuelas Militares, después de haber desempeñado sus cargos con distinción y eficiencia por tres años consecutivos como mínimo, a juicio del Consejo correspondiente del plantel y con aprobación de la Secretaría de la Defensa Nacional, cuando ya estén separados de sus cargos.
+La Condecoración del Mérito Docente se concederá por la Secretaría de la Defensa Nacional al personal directivo o docente, militar o civil, de las Escuelas Militares, después de haber desempeñado sus cargos con distinción y eficiencia por tres años consecutivos como mínimo, a juicio del Consejo correspondiente del plantel y con aprobación de la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 51.
 
@@ -487,27 +551,33 @@ La condecoración de Perseverancia se otorgará por la Secretaría de la Defensa
 
 Esta condecoración será de cuatro clases: 1a., 2a., 3a. y 4a.; y se concederá por su orden, a los que cumplan 30, 25 20 y 15 años de servicios.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 52.
 
-Para computar los servicios a que se refiere el artículo anterior, únicamente se tomarán en cuenta los prestados sin abono de tiempo.
+Para computar los servicios a que se refiere el artículo anterior, únicamente se tomarán en cuenta los prestados sin abonos de tiempo.
 
 Se pierde el derecho a la condecoración de Perseverancia en las clases que corresponda, si durante el lapso para la obtención de la misma, el militar interrumpe sus servicios por algunas de las siguientes causas:
 
-I.- Por haber gozado de licencias ordinarias y económicas para asuntos ajenos al servicio que en total sumen más de 180 días.
+I.- Por haber gozado de licencias ordinarias y económicas para asuntos ajenos al servicio que en total sumen más de 180 días, en cada período de 10 años de servicios.
 
-II.- Por gozar o haber gozado de licencia ilimitada o absoluta.
+II.- Por gozar de licencia ilimitada o especial, o haber gozado de licencia ilimitada o absoluta, o por haberse encontrado en alguno de los casos comprendidos en la licencia especial, antes de entrar en vigor la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
 III.- Por gozar o haber gozado de licencia para desempeñar puestos de elección popular.
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
+IV.- Por haberse dictado en su contra sentencia condenatoria de carácter penal o habérsele retirado la acción penal ya estando sujeto a proceso.
 
-IV. Por desempeñar o haber desempeñado comisiones ajenas al servicio militar.
+V.- Por haber estado sujeto a proceso en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo.
 
-V.- Por haberse dictado en su contra sentencia condenatoria de carácter penal, o habérsele retirado la acción penal ya estando sujeto a proceso.
+VI.- Por estar o haber estado en situación de retiro.
 
-VI.- Por haber estado sujeto a proceso en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
-VII.- Por estar o haber estado en situación de retiro.
+###### ARTICULO 52 Bis.
+
+La condecoración del Mérito Deportivo se concederá a los miembros del Ejército y Fuerza Aérea que se distingan en cualesquiera de las ramas del deporte militar.
+
+Esta condecoración será de cuatro clases: 1a., 2a., 3a. y 4a.; tendrá las características señaladas en el Decreto Presidencial de 14 de agosto de 1935, publicado en el "Diario Oficial" de la Federación de 5 de octubre del propio año, y su otorgamiento se regulará conforme a lo dispuesto en el Reglamento para su concesión expedido el 5 de abril de 1937, publicado en el "Diario Oficial" de la Federación el 7 de mayo del mismo año.
 
 ###### ARTICULO 53.
 
@@ -547,11 +617,11 @@ Las Unidades, planteles educativos y demás dependencias del Ejército y Fuerza 
 
 ### CAPITULO IV. De las distinciones
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1956)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 61.
 
-Las distinciones son aquellas que se otorgan a los miembros del Ejército y Fuerza Aérea, cualquiera que sea su jerarquía, cuando hayan sobresalido en eventos deportivos, concursos militares, por su competencia profesional, celo en el cumplimiento de sus deberes y observado durante su carrera militar una conducta ejemplar.
+Las distinciones son aquellas que se otorgan a los miembros del Ejército y Fuerza Aérea, cualquiera que sea su jerarquía, cuando hayan sobresalido en concursos militares, por su competencia profesional, celo en el cumplimiento de sus deberes y haber observado durante su carrera militar, una conducta ejemplar.
 
 ###### ARTICULO 62.
 
@@ -563,9 +633,11 @@ El número de Soldados de Primera de una Corporación no estará sujeto a planil
 
 A los individuos de tropa que al cumplir el tiempo de servicios que señala su contrato-filiación, deseen continuar en el servicio de las Armas, cada vez que se reenganchen se les otorgará una distinción expidiéndoseles la constancia correspondiente.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 64.
 
-Los miembros del Ejército y Fuerza Aérea, que en eventos deportivos o en concursos militares o profesionales en los que actúen llevando la representación del Ejército o Fuerza Aérea, se hubiesen destacado en forma extraordinaria, serán acreedores a una distinción.
+Los miembros del Ejército y Fuerza Aérea, que en concursos militares o profesionales en los que actúen llevando la representación del Ejército o Fuerza Aérea, hubieren destacado en forma extraordinaria, serán acreedores a una distinción.
 
 ###### ARTICULO 65.
 
@@ -620,3 +692,13 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 4 DE MARZO DE 1971.
 
 UNICO.- Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se opongan al mismo.
+
+D.O.F. 18 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a los tres días siguientes a su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
