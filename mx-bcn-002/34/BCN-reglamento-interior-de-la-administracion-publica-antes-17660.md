@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-10-01"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -223,7 +223,7 @@ e) Recursos humanos y materiales que se entregarían por el Gobierno del Estado 
 
 f) Análisis de la conveniencia de que se asuman por el Municipio las funciones Estatales.
 
-III.- La Comisión del Ayuntamiento, actuando conjuntamente si fueren varias, emitirá un dictamen que someterá a consideración de éste, en el que propondrá a aprobación de la celebración del convenio, o en su caso, los aspectos que a su juicio deban revisarse previamente a tal celebración, indicando las razones que tuviere; y,
+III.- La Comisión del Ayuntamiento, actuando conjuntamente si fueren varias, emitirá un dictamen que someterá a consideración de éste, en el que propondrá la aprobación de la celebración del convenio, o en su caso, los aspectos que a su juicio deban revisarse previamente a tal celebración, indicando las razones que tuviere; y,
 
 IV.- Al aprobarse la celebración del convenio, se autorizará al Presidente Municipal para que lo suscriba.
 
@@ -635,7 +635,11 @@ XVII.- Remitir, por conducto del subsecretario, los asuntos que sean recibidos e
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2004)</small>
 
-XVIII.- Integrar el registro de entidades paramunicipales, de conformidad con el reglamento de la materia.
+XVIII.- Integrar el registro de entidades paramunicipales, de conformidad con el reglamento de la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+XIX.- Definir políticas, estrategias, lineamientos y procedimientos para establecer el Sistema Municipal de Protección Civil, encargándose de su operación.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
@@ -690,6 +694,10 @@ a) Supervisión y permisos;
 b) Comercio Ambulante; y,
 
 c) Junta Municipal de Reclutamiento.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+III.- Unidad Municipal de Protección Civil.
 
 ###### ARTICULO 42.
 
@@ -836,6 +844,40 @@ VI.- Convocar a los conscriptos en la fecha lugar y hora, designados por la Secr
 VII.- Informar a la comunidad en general de los requisitos e importancia de la obtención de la cartilla de identidad militar; y,
 
 VIII.- Impulsar la celebración de convenios de coordinación con entidades públicas y privadas, que tengan como finalidad apoyar las tareas de convocatoria para el reclutamiento de jóvenes en edad militar, la información de los requisitos para la obtención de la cartilla militar, así como la importancia de la misma.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 50 BIS.- La Unidad Municipal de Protección Civil tendrá como función organizar el auxilio a la población ante eventualidades que sean un riesgo de siniestro o desastre en el territorio municipal; así como integrar, coordinar y supervisar el sistema municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, por lo que se encargará de:
+
+I.- Identificar y diagnosticar los riesgos de desastres naturales a los que esta expuesto el territorio del Municipio, elaborar y mantener actualizado el Atlas Municipal de Riesgos;
+
+II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil, y los subprogramas de prevención, auxilio y recuperación;
+
+III.- Elaborar y presentar por conducto del Director de Bomberos al Consejo Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
+
+IV.- Instrumentar un sistema de seguimiento y evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
+
+V.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público y privado, involucrados en tareas de Protección Civil;
+
+VI.- Promover la participación social e integración de grupos voluntarios al Sistema Municipal de Protección Civil;
+
+VII.- Establecer un sistema de información que comprenda los directorios de personas e instituciones, así como los inventarios de recursos humanos y materiales disponibles para los caos de emergencia; además de los mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
+
+VIII.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos que puedan ser generadores de siniestros o desastres;
+
+IX.- Apoyar en la coordinación y operación del Centro Municipal de Operaciones con el Sistema de Protección Civil;
+
+X.- Establecer mecanismos de comunicación, tanto en situación normal, como en caso de emergencia, con las dependencias federal y estatal, responsables de la materia de Protección Civil;
+
+XI.- Promover la realización de cursos, ejercicios y simulacros que permitan aumentar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
+
+XII.- Promover la capacitación de la población en general, en materia de medidas de seguridad civil; y,
+
+XIII.- Fomentar la cultura de protección civil, a través de la realización de eventos, campañas de difusión y capacitación.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 50 TER.- La Unidad Municipal de Protección Civil, para el cumplimiento de sus atribuciones, contará con una Secretaría Técnica, una Secretaría Técnica Adjunta, una Coordinación del Área de Asesoría Técnica y Planeación de la cual dependerán los Asesores Técnicos e Inspectores, una Coordinación del Área Administrativa de la que dependerán el Auxiliar Administrativo de Recursos Materiales y Humanos, el Auxiliar Administrativo de Recursos Financieros y una Coordinación del Área Preventiva y Educativa.
 
 ### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
@@ -1435,7 +1477,9 @@ I.- Aplicar las disposiciones reglamentarias y normativas en materia de preserva
 
 II.- Detectar e intervenir fuentes contaminantes de relevancia a fin de priorizar recursos y dictar las medidas pertinentes para prevenir, corregir y/o subsanar cualquier impacto negativo al ambiente y a la salud pública.
 
-### CAPITULO DECIMO PRIMERO. DIRECCION DE BOMBEROS Y PROTECCION CIVIL
+### CAPITULO DECIMO PRIMERO. DE LA DIRECCION DE BOMBEROS
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 90.
 
@@ -1769,39 +1813,39 @@ XII.- Formular, fomentar y desarrollar cursos para la población en general en m
 
 XIII.- Establecer coordinación con otras instancias, para promover el desarrollo escolar de los elementos de la corporación.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO DECIMO SEGUNDO. DE LA DIRECCION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 101.
 
-La Dirección de Bomberos y Protección Civil tendrá las siguientes atribuciones:
+La Dirección de Bomberos tendrá las siguientes atribuciones:
 
-I.- Definir políticas, estrategias, lineamientos y procedimientos para establecer el Sistema Municipal de Protección Civil, y encargándose de su operación;
+I.- Vigilar el cumplimiento de la normatividad en relación con la prevención de incendios;
 
-II.- Vigilar el cumplimiento de la normatividad en relación con la seguridad civil y la prevención de incendios;
+II.- Implementar programas de inspección y revisión de edificaciones, a fin de verificar que cumplen con las disposiciones relativas a la prevención de incendios;
 
-III.- Implementar programas de inspección y revisión de edificaciones, a fin de verificar que cumplen con las disposiciones relativas a la seguridad civil y a la prevención de incendios;
+III.- Desarrollar programas para instruir a la comunidad en materia de prevención de incendios;
 
-IV.- Desarrollar programas para instruir a la comunidad en materia de prevención de incendios y protección civil;
+IV.- Implementar acciones para el control y extinción de incendios, rescate de personas y bienes, así como salvamento a personas en peligro de perder la vida en casos de siniestros;
 
-V.- Implementar acciones para el control y extinción de incendios, rescate de personas y bienes, así como salvamento a personas en peligro de perder la vida en casos de desastres o siniestros;
+V.- Desarrollar y coordinar la implementación de los planes de contingencias para la atención y control de eventualidades con riesgo de siniestros.
 
-VI.- Desarrollar y coordinar la implementación de los planes de contingencia para la atención y control de eventualidades con riesgo de siniestros o desastres; y,
-
-VII.- Coordinar la solución de las emergencias mayores que se presenten en el Municipio, aplicando los planes de contingencias.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 102.
 
-La Dirección de Bomberos y Protección Civil para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, así mismo, tendrá bajo su cargo los siguientes departamentos:
+La Dirección de Bomberos para el cumplimiento de sus atribuciones contará con el apoyo de una coordinación administrativa, así mismo, tendrá bajo su cargo los siguientes departamentos:
 
-I.- Técnico;
+I.- Técnico; y
 
-II.- Operativo; y,
+II.- Operativo.
 
-III.- Protección Civil.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 103.
 
-El Departamento Técnico tendrá como función, autorizar los proyectos de edificación en cuanto a las instalaciones de seguridad, y vigilar que las edificaciones cumplan con las normas relativas a la seguridad civil y la prevención de incendios, encargándose de:
+El Departamento Técnico tendrá como función, autorizar los proyectos de edificación en cuanto a las instalaciones de seguridad, vigilar que las edificaciones cumplan con las normas relativas a la seguridad civil en materia de incendios, encargándose de:
 
 I.- Realizar inspecciones a edificios e instalaciones públicos y privados, con el objeto de verificar que cumplen con las disposiciones que les sean aplicables en materia de protección civil y prevención de incendios, aplicando en su caso las sanciones que correspondan;
 
@@ -1849,33 +1893,7 @@ IX.- Desarrollar programas de capacitación y adiestramiento para los integrante
 
 ###### ARTICULO 105.
 
-El Departamento de Protección Civil tendrá como función organizar el auxilio a la población ante eventualidades que sean un riesgo de siniestro o desastre en el territorio municipal; así como integrar, coordinar y supervisar el sistema municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, por lo que se encargará de:
-
-I.- Identificar y diagnosticar los riesgos de desastres naturales a lo que está expuesto el territorio del Municipio, y elaborar y mantener actualizado el Atlas Municipal de Riesgos;
-
-II.- Elaborar, instrumentar, operar y coordinar el programa municipal de protección civil y los subprogramas de prevención, auxilio y recuperación;
-
-III.- Elaborar y presentar por conducto del Director de Bomberos al Consejo Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
-
-IV.- Instrumentar un sistema de seguimiento y evaluación del programa municipal de protección civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
-
-V.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público y privado involucrados en tareas de protección civil;
-
-VI.- Promover la participación social e integración de grupos voluntarios al sistema municipal de protección civil;
-
-VII.- Establecer un sistema de información que comprenda los directorios de personas e instituciones, así como los inventarios de recursos humanos y materiales disponibles para los casos de emergencia; además de los mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
-
-VIII.- Establecer un sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos que puedan ser generadores de siniestros o desastres;
-
-IX.- Apoyar en la coordinación y operación del Centro Municipal de Operaciones con el Sistema Municipal de Protección Civil;
-
-X.- Establecer mecanismos de comunicación, tanto en situación normal, como en caso de emergencia, con la dependencia federal y estatal, responsables de la materia de protección civil;
-
-XI.- Promover la realización de cursos, ejercicios y simulacros que permitan aumentar la capacidad de respuesta de los participantes en el Sistema Municipal de Protección Civil;
-
-XII.- Promover la capacitación de la población en general, en materia de medidas de seguridad civil y prevención de incendios; y;
-
-XIII.- Fomentar la cultura de protección civil, a través de la realización de eventos, campañas de difusión y capacitación.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2004)
 
 ### CAPITULO DECIMO TERCERO. DE LA DIRECCION DE RELACIONES PUBLICAS
 
@@ -2674,3 +2692,7 @@ P.O. 27 DE AGOSTO DE 2004.
 P.O. 1 DE OCTUBRE DE 2004.
 
 ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
