@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-07-04"
+last_updated: "2003-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -294,6 +294,10 @@ VIII.- Preservar en los términos de este Reglamento, las cintas que contengan l
 IX.- Expedir certificaciones de los acuerdos de Cabildo;
 
 X.- Tramitar la publicación de los acuerdos de Cabildo, cuando las disposiciones legales o el acuerdo que corresponda así lo ordenen.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+Para el cumplimiento de sus atribuciones, el Secretario contará con un departamento encargado de auxiliarle en los asuntos que este le encomiende y de apoyar en el seguimiento de las propuestas de cabildo.
 
 ###### ARTICULO 20.
 
@@ -1194,3 +1198,7 @@ David Montaño Córdova
 P.O. 4 DE JULIO DE 2003.
 
 ARTICULO TRANSITORIO ÚNICO.- LAS PRESENTES MODIFICACIONES ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
