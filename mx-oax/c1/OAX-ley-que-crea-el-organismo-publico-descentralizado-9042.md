@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-organismo-publico-descentralizado-9042"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-18"
-last_updated: "1981-03-18"
+last_updated: "2001-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE OAXACA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el miércoles 18 de Marzo de 1981.
 
@@ -43,229 +43,269 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "ARTESANIAS E INDUS
 
 Se crea el Organismo Público Descentralizado de carácter Estatal denominado "ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE OAXACA", con personalidad jurídica y patrimonio propios.
 
-###### ARTICULO SEGUNDO.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-El domicilio de "Artesanías e Industrias Populares del Estado de Oaxaca", será la Ciudad de Oaxaca de Juárez, para todos los efectos legales.
+ARTICULO DOS.- El domicilio de ARIPO, será la Ciudad de Oaxaca de Juárez, para todos los efectos legales.
 
-###### ARTICULO TERCERO.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-Cuando en el texto de esta Ley se haga referencia a "Artesanías e Industrias Populares del Estado de Oaxaca", podrá ser denominada simplemente como el Organismo.
+ARTICULO TRES.- Cuando en el texto de esta ley se haga referencia a Artesanías e Industrias Populares del Estado de Oaxaca, podrá ser denominada simplemente como ARIPO.
 
-###### ARTICULO CUARTO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
-El gobernador del Estado, por conducto de la Comisión de Planeación y Control de la Inversión Pública, o de la Dirección que determine, vigilará y supervisará las operaciones del Organismo, mediante auditorías e inspecciones técnicas, y verificará que las mismas se ajusten a sus programas aprobados y que su ejercicio es correcto y su estado financiero deberá incluirse en la cuenta pública. Además que coadyuven al desarrollo de los programas y objetivos generales del Ejecutivo del Estado y de los Municipios, fundamentalmente con aquellos establecidos en los Planes de Desarrollo Estatal y Municipales.
+### CAPITULO SEGUNDO. DE LOS OBJETIVOS DE ARIPO
 
-###### ARTICULO QUINTO.
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-"Artesanías e Industrias Populares del Estado de Oaxaca", deberá:
+ARTICULO CUATRO.- Son objetivos de ARIPO, los siguientes:
 
-a).- Ajustar sus operaciones a la presente Ley y su Reglamento, así como a su Manual de Operación y Acuerdos de sus órganos de autoridad.
+I. Preservar y enriquecer la actividad artesanal y de las industrias populares en el Estado;
 
-b).- Inscribirse a más tardar dentro de los 30 días naturales siguientes a su creación, en el Registro de Organismos Descentralizados y Empresas de participación Estatal del Estado de Oaxaca, que llevará la Comisión de Planeación y Control de la Inversión Pública.
+II. Promover y asesorar el desarrollo de las artesanías existentes en la entidad;
 
-c).- Presentar oportunamente a la misma Comisiónde (sic) Planeación y Control de la Inversión Pública, sus programas y presupuestos de operación que desarrollará y aplicará durante su ejercicio anual.
+III. Crear las variedades de artesanías adecuadas a las materias primas y particularidades propias de la habilidad artesanal de cada región;
 
-d).- Permitir a la Comisión de Planeación y Control de la inversión pública el conocimiento de su operatividad, estado financiero y contable y la documentación necesaria para ese efecto.
+IV. Incrementar las empresas artesanales y promover la creación de uniones y cooperativas de artesanos;
 
-e).- Publicar en el Periódico Oficial del Estado su informe anual de operaciones, y
+V. Crear, dirigir, administrar y operar directamente talleres de artesanías en el Estado;
 
-f) Solicitar aurorización (sic) al Ejecutivo del Estado, para la afectación o enajenación de los bienes constitutivos de su patrimonio.
+VI. Realizar investigaciones y aprovechar los conocimientos obtenidos en cuanto a técnicas de producción, calidad y variedades de productos artesanales y de industrias populares;
 
-### CAPITULO SEGUNDO
+VII. Promover mercados regionales, nacionales y extranjeros, y concurrir a ellos para la comercialización de los productos artesanales y de industrias populares;
 
-DE LOS OBJETIVOS DEL ORGANISMO.
+VIII. Adquirir materias primas, talleres, equipos y patentes relacionados, con productos artesanales y de industrias populares;
 
-###### ARTICULO SEXTO.
+IX. Fijar reglas de calidad para las artesanías;
 
-Son objetivos de "Artesanías e Industrias Populares del Estado de Oaxaca", los siguientes:
+X. Investigar la problemática de la producción artesanal y proponer al Ejecutivo del Estado las políticas correspondientes;
 
-I.- Preservar y enriquecer la actividad artesanal y de las industrias populares en el Estado;
+XI. Estimular y ampliar el conocimiento de la población en todo lo concerniente a las artesanías;
 
-II.- Promover y asesorar el desarrollo de las Artesanías existentes en la Entidad;
+XII. Dirigir y administrar tiendas de artesanías;
 
-III.- Crear las variedades de Artesanías adecuadas a las materias primas y particularidades propias de la habilidad artesanal de cada región;
+XIII. Constituir su patrimonio y adquirir todo tipo de bienes muebles o inmuebles, equipo, instalaciones, derechos, concesiones y patentes, para el desarrollo de sus operaciones;
 
-IV.- Incrementar las empresas artesanales y promover la creación de Uniones y Cooperativas de artesanos;
+XIV. Integrar la Comisión Certificadora de Calidad;
 
-V.- Crear, dirigir, administrar y operar directamente talleres de artesanías en el Estado;
+XV. Fundar y conservar museos, archivos y bibliotecas especializados, así como elaborar muestrarios y catálogos de artesanías;
 
-VI.- Realizar investicaciones (sic) y aprovechar los conocimientos obtenidos en cuanto a técnicas de producción, calidad y variedades de productos artesanales, y de industrias populares;
+XVI. Integrar y actualizar el Padrón de Artesanos del Estado;
 
-VII.- Promover mercados regionales, nacionales y extranjeros, y concurrir a ellos para la comercialización de los productos artesanales, y de industrias populares;
+XVII. Fomentar, organizar y premiar, los eventos tradicionales de exposición artesanal; y
 
-VIII.- Adquirir materias primas, talleres, equipos y patentes relacionados, con productos artesanales y de industrias populares;
+XVIII. Realizar y organizar ferias, concursos y exposiciones regionales de productos artesanales.
 
-IX.- Fijar reglas de calidad para las artesanías;
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
-X.- Investigar la problemática de la producción artesanal y proponer al Ejecutivo del Estado las políticas correspondientes;
+### CAPITULO TERCERO. DEL PATRIMONIO DE ARIPO
 
-XI.- Estimular y ampliar el conocimiento de la población en todo lo concerniente a las artesanías;
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-XII.- Dirigir y administrar tiendas de Artesanías;
+ARTICULO CINCO.- El patrimonio de ARIPO, se constituirá con:
 
-XIII.- Constituir su patrimonio y adquirir todo tipo de bienes muebles e inmuebles, equipo, instalaciones, derechos, concesiones y patentes, para el desarrollo de sus operaciones;
+I. Los bienes muebles e inmuebles cuya propiedad, posesión o usufructo le transfieran la Federación, el Estado, los Municipios, los organismos descentralizados y empresas de participación estatal y los organismos de coordinación, así como las instituciones privadas y los particulares;
 
-XIV.- Integrar la Comisión certificadora de calidad;
+II. Los impuestos, derechos, productos, aprovechamientos y aportaciones, ordinarios y extraordinarios que le otorguen o condonen la Federación, el Estado y los Municipios;
 
-XV.- Fundar y conservar Museos, Archivos y Bibliotecas especializados, así como elaborar muestrarios y catálogos de artesanías;
+III. Las cantidades líquidas, legados, usufructos o productos de fideicomisos que le transfieran los particulares;
 
-XVI.- Integrar y actualizar el padrón de Artesanos del Estado;
+IV. Los productos y utilidades que obtengan a través de sus operaciones y la explotación de sus bienes propios; y
 
-XVII.- Fomentar, organizar y premiar, los eventos tradicionales de exposición artesanal, y
+V. Las patentes, derechos de autor y todos aquellos bienes o títulos que adquiera, por los medios legales, independientemente de su naturaleza.
 
-XVIII.- Realizar y organizar ferias, concursos y exposiciones regionales de productos artesanales.
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
-### CAPITULO TERCERO.
+### CAPITULO CUARTO. DE LA ESTRUCTURA Y ATRIBUCIONES DE LOS ORGANOS DE AUTORIDAD DE ARIPO
 
-DEL PATRIMONIO DE ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE OAXACA".
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO SEPTIMO.
+ARTICULO SEIS.- ARIPO, estará integrado y funcionará en la forma siguiente:
 
-El patrimonio de "Artesanías e Industrias Populares del Estado de Oaxaca", se constituirá con:
+I.- Consejo de Administración, y
 
-I.- Los bienes muebles e inmuebles cuya propiedad, posesión o usufructo le transfieran la Federación, el Estado, los Municipios, los Organismos Descentralizados y Empresas de participación Estatal y los Organismos de coordinación, asi como las Instituciones privadas y los particulares.
+II.- Director General.
 
-II.- Los impuestos, derechos, productos, aprovechamientos y aportaciones, ordinarios y extraordinarios que le otorguen o condonen la Federación, el Estado y los Municipios.
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-III.- Las cantidades líquidas, legados, usufructos o productos de fideicomisos que le transfieran los particulares.
+ARTICULO SIETE.- El Consejo de Administración es la autoridad suprema de ARIPO y estará integrada por:
 
-IV.- Los productos y utilidades que obtengan a través de sus operaciones y la explotación de sus bienes propios.
+I. Un Presidente;
 
-V.- Las patentes, derechos de autor y todos aquellos bienes o títulos que adquiera, por los medios legales, independientemente de su naturaleza.
+II. Un Secretario Técnico;
 
-### CAPITULO CUARTO.. DE LA ESTRUCTURA Y FACULTADES DE LOS ORGANOS DE AUTORIDAD DEL ORGANISMO DESCENTRALIZADO "ARTESANIAS E INDUSTRIAS POPULARES DEL ESTADO DE OAXACA."
+III. Vocales; y
 
-###### ARTICULO OCTAVO.
+IV. Un Comisario.
 
-"Artesanías e Industrias Populares del Estado de Oaxaca", estará integrada y funcionará en la forma siguiente:
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-I.- Consejo de Administración,
+ARTICULO OCHO.- El presidente del Consejo de Administración, será el Gobernador del Estado y fungirá como suplente el Secretario de Desarrollo Industrial y Comercial.
 
-II.- Director General,
+El Secretario Técnico será el Director General de ARIPO
 
-###### ARTICULO NOVENO.
+Serán Vocales:
 
-El Consejo de Administración es la Autoridad Suprema del organismo y estará integrada por:
+I. El Secretario de Finanzas;
 
-a).- Un presidente.
+II. El secretario de Administración;
 
-b).- Un Secretario.
+III. El Coordinador General del COPLADE; y
 
-c).- Un Director General, y
+IV. El Secretario de Desarrollo Turístico.
 
-d).- Vocales.
+Por cada vocal propietario existirá un suplente, cuyo cargo será indelegable, y será nombrado por el Titular del Poder Ejecutivo del Estado. La calidad del suplente será acreditada con documento fehaciente.
 
-###### ARTICULO DECIMO.
+El Comisario será el Delegado Contralor, o el representante de la Contraloría General.
 
-El Presidente del Consejo de Administración, será el Gobernador del Estado, quien designará y removerá libremente al Secretario.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-ARTICULO ONCE.- Son vocales del Consejo de Administración los Titulares de las Dependencias Estatales siguientes:
+ARTICULO NUEVE.- Los cargos del Consejo Directivo de ARIPO tendrán carácter honorífico y sus integrantes no percibirán retribución alguna por su desempeño.
 
-a).- Dirección General de Desarrollo Económico.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-b).- Oficial Mayor.
+ARTICULO DIEZ.- El Consejo de Administración sesionará en forma ordinaria, cuando menos trimestralmente; pero podrán celebrarse sesiones extraordinarias, cada vez que el Presidente lo estime conveniente o a petición de una tercera parte del total de los integrantes del Consejo. Serán convocadas por el Presidente por conducto del Secretario Técnico, debiendo observar al efecto las siguientes previsiones.
 
-c).- Dirección General de Finanzas (Tesorería).
+Tratándose de sesiones ordinarias, las convocatorias se harán llegar a los integrantes del Consejo, por escrito y con cinco días hábiles de anticipación; y de un día natural tratándose de sesiones extraordinarias, indicándose en todo caso el lugar, fecha y hora en que deba celebrarse la sesión debiendo además remitir la documentación que guarde relación con los asuntos a tratarse en la sesión.
 
-d).- Comisión de Planeación y Control de la Inversión Pública, y
+Los integrantes del Consejo de Administración de ARIPO participarán con voz y voto, a excepción del Secretario Técnico y del Comisario, quienes tendrán voz, pero no voto.
 
-e).- Los demás que determine el Gobernador del Estado.
+Para la validez de las sesiones, se requerirá la asistencia de por lo menos las dos terceras partes del total de los integrantes del Consejo, y los aspectos que en ella se tomen, serán obligatorios, siempre que sean aprobados por el cincuenta por ciento mas uno de los presentes.
 
-ARTICULO DOCE.- El Consejo de Administración durará en ejercicio 6 años, y sesionará en forma ordinaria una vez mensualmente. Actuará en forma extraordinaria, cuando las exigencias y naturaleza del asunto requiera.
+En caso de empate, el Presidente tendrá voto de calidad.
 
-ARTICULO TRECE.- Habrá quórum, cuando concurra la mitad más uno de los integrantes del Consejo de Administración. Sus decisiones se adoptarán por mayoría de votos, y en caso de empate el Presidente del Consejo tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-ARTICULO CATORCE.- El Consejo de Administración podrá recabar la asesoría y apoyo técnico de las Autoridades, Organismos, Comisiones e Institutos Oficiales o privados, establecidos y relacionados con el ramo, integrando en su caso un Cuerpo Técnico Consultivo.
+ARTICULO ONCE.- El Consejo de Administración podrá recabar la asesoría y apoyo técnico de las autoridades, organismos, comisiones e institutos oficiales o privados, establecidos y relacionados con el ramo, integrando en su caso un cuerpo técnico consultivo.
 
-ARTICULO QUINCE.- Son facultades del Consejo de Administración:
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-I.- Establecer las políticas y normas generales que deben de orientar y fundamentar las operaciones del Organismo.
+ARTICULO DOCE.- El Consejo de Administración de ARIPO tendrá las siguientes atribuciones indelegables:
 
-II.- Conocer, aprobar, modificar o revocar los programas de trabajo presentados por el Directorio General.
+I. Establecer en congruencia con la Ley de Planeación y el Plan Estatal de Desarrollo, las políticas generales y definir las prioridades a las que deberá sujetarse ARIPO, relativas a la productividad, publicidad, finanzas, investigación, desarrollo tecnológico y administración general para la realización de los objetivos;
 
-III.- Aprobar, los presupuestos de operaciones presentados por el Director de "Artesanías e Industrias Populares del Estado de Oaxaca".
+II. Conocer y en su caso aprobar los planes, programas y presupuestos de operaciones presentados por el Director General, así como sus modificaciones, en los términos de su legislación aplicable;
 
-IV.- Exigir y aprobar los informes anuales, estado financiero, balances generales o sectoriales, presentados por el Director General.
+III. Fijar y ajustar las cuotas, derechos, productos, aprovechamientos y aportaciones, que por los servicios que presta deba cobrarse, así como los intereses, dividendos, comisiones y demás utilidades que deban percibir por dichos servicios;
 
-V.- Aprobar el Manual de Operaciones.
+IV. Exigir y aprobar, en su caso, los informes y estados financieros anuales de ARIPO presentados por el Director General, autorizar su publicación con la intervención correspondiente del Comisario;
 
-VI.- Controlar la inversión del capital del Organismo.
+V. Aprobar el manual de operaciones necesario para el cumplimiento de sus objetivos;
 
-VII.- Vigilar el movimiento de activos fijos propiedad de "Artesanías e Industrias Populares del Estado de Oaxaca".
+VI. Aprobar la concertación de obligaciones para el financiamiento de ARIPO, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo de disponibilidades financieras;
 
-VIII.- Otorgar y revocar poderes generales y especiales para pleitos y cobranzas.
+VII. Aprobar la constitución de reservas y aplicación de excedentes financieros de ARIPO;
 
-IX.- Realizar los actos jurídicos y promociones necesarios para lograr la ejecución de los objetivos y programas del Organismo, gozando para ello de las facultades más amplias de gestión y representación.
+VIII. Aprobar de acuerdo con las leyes aplicables las políticas, bases y programas generales que regulen los convenios, los contratos, pedidos o acuerdos que se deban celebrar con terceros en adquisición y prestación de servicios relacionados con bienes;
 
-X.- Sugerir y aprobar la enajenación y afectación de los bienes muebles e inmuebles propiedad del Organismo.
+IX. Proponer al Ejecutivo Estatal, por conducto de la Comisión de Gasto Financiamiento (sic), los convenios de fusión con otras entidades paraestatales;
 
-XI.- Autorizar los empréstitos y réditos contratados para la realización de las operaciones de "Artesanías e Industrias Populares del Estado de Oaxaca".
+X. Autorizar la creación interna de comisiones o grupos de trabajo, así como de subcomités técnicos especializados, los cuales estarán integrados por personal de la misma entidad;
 
-XII.- Autorizar las cantidades que en concepto de sueldos, gastos, viáticos, honorarios, comisiones y demás prestaciones, deban cubrirse al personal como pago de sus servicios.
+XI. Expedir y aprobar el reglamento interno, así como las demás disposiciones relativas al funcionamiento interno de ARIPO;
 
-XIII.- Establecer medidas y sistemas de control interno.
+XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que ARIPO requiera, para la prestación de sus servicios con sujeción a las disposiciones legales respectivas;
 
-XIV.- Ratificar la integración y vigilar la actuación de la Comisión Certificadora de Calidad y de la Casa de Artesanías.
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con intervención que corresponda al Comisario;
 
-XV.- Aprobar los Nombramientos, propuestos por el Director General, y
+XIV. Promover y aprobar la integración de la Comisión Certificadora de Calidad y la Casa de las Artesanías;
 
-XVI.- Las demás que le autorice esta Ley y los Ordenamientos relacionados con la materia.
+XV. Conocer y resolver los asuntos que sean sometidos a su consideración por el Director General; y
 
-ARTICULO DIECISEIS.- El Director General será nombrado y removido libremente por el Gobernador del Estado, y tendrá las facultades siguientes:
+XVI. Las demás que le señalen otras leyes, decretos, reglamentos y acuerdos aplicables.
 
-I.- Ejecutar los acuerdos del Consejo de Administración;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-II.- Dirigir técnica y administrativamente a "Artesanías e Industrias Populares del Estado de Oaxaca".
+ARTICULO TRECE.- El Director General será nombrado y removido por el Gobernador del Estado y tendrá las siguientes atribuciones:
 
-III.- Presentar, dentro del primer mes de su ejercicio el programa de trabajo y presupuestos de operaciones del Organismos (sic):
+I. Administrar y representar legalmente a ARIPO;
 
-IV.- Nombrar a los integrantes de la Comisión Certificadora de Calidad y al personal directivo docente y administrativo del Organismo según el caso.
+II. Formular los planes y programas constitucionales de corto, mediano y largo plazo, así como los presupuestos de operaciones de ARIPO; y presentarlos para su aprobación al Consejo de Administración;
 
-V.- Obtener asesoría técnica, teórica y práctica de los Organismo Públicos y Privados, para el buen funcionamiento de "Artesanías e Industrias Populares del Estado de Oaxaca".
+III. Formular los programas de organización y administración;
 
-VI.- Sugerir las políticas generales de operación de "Artesanías e Industrias Populares del Estado de Oaxaca".
+IV. Proponer al Consejo de Administración, a los integrantes de la Comisión Certificadora de Calidad, el Consejo Técnico Consultivo y la Casa de Artesanías;
 
-VII.- Rendir el informe general de actividades dentro de los quince días siguientes al término de cada ejercicio anual.
+V. Establecer los métodos que permitan el óptimo aprovechamiento de muebles e inmuebles que formen el patrimonio de ARIPO;
 
-VIII.- Obtener la publicación en el Periódico Oficial del Estado, del Informe a que se refiere la fracción que antecede.
+VI. Tomar las medidas pertinentes a fin de que las funciones de ARIPO, se realicen en forma articulada, congruente y eficaz;
 
-IX.- Asistir a las Juntas del Consejo de Administración, emitiendo opinión pero sin voto.
+VII. Proveer la tramitación y despacho de los asuntos técnicos y administrativos de ARIPO;
 
-X.- Ser apoderado General del Organismo, con las facultades que corresponde a los Mandatarios generales y especiales para pleitos y cobranzas, conforme a los Artículos 2435 y 2467 del Código Civil del Estado, ampliadas para otorgar, suscribir y endosar títulos de crédito. Podrá asimismo sustraerse en todo o en parte de su mandato, dando cuenta al Consejo de Administración. Podrá asimismo desistirse en todo o en parte en los Juicios de Amparo y de aquellos que fueren necesarios para hacer efectiva su representación y gestión.
+VIII. Establecer los procedimientos para controlar la calidad de los programas que aseguren la continuidad de la prestación de los servicios relacionados con sus objetivos;
 
-XI.- En las demandas de tipo penal formulará las denuncias y querellas o los desistimientos en su caso, en la forma que previenen los Códigos Penal y de Procedimientos Penales del Estado, en vigor, a este respecto.
+IX. Recabar información y elementos estadísticos que reflejen el estado general de ARIPO, a fin de mejorar las gestiones del mismo;
 
-XII.- Proponer a los integrantes del Consejo Técnico Consultivo.
+X. Dar seguimiento y ejecutar con estricto apego, los acuerdos que se tomen en el Seno del Consejo de Administración; debiendo asistir puntualmente a las sesiones, y levantando el acta correspondiente a cada una de ellas;
 
-XIII.- Elaborar el Manual de Operación y someterlo a la aprobación del Consejo de Administración, y
+XI. Presentar trimestralmente y anualmente, dentro de los quince días siguientes al término de cada ejercicio al Consejo de Administración, el informe del desempeño de las actividades de ARIPO, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección General, con las realizaciones alcanzadas;
 
-XIV.- Las demás que prevea la presente Ley, el Manual de Operación o acuerde el Consejo de Administración.
+XII. Establecer, con la intervención del Comisario, los mecanismos de evaluación que destaquen la eficiencia y eficacia con que se desempeña ARIPO y presentar al Consejo de Administración, por lo menos dos veces al año la evaluación de gestión con el detalle que previamente acuerde dicho órgano;
 
-### CAPITULO QUINTO
+XIII. proporcionar (sic) la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas y de Administración, así como la Contraloría General o el Auditor Externo para el cumplimiento de sus funciones y la que la Contaduría Mayor de Hacienda de la H. Legislatura del Estado le solicite;
 
-DE LA COMISION CERTIFICADORA DE CALIDA (SIC) Y DEL CONSEJO TECNICO CONSULTIVO.
+XIV. Elaborar el Manual de Operación y someterlo a la aprobación del Consejo de Administración; y
 
-ARTICULO DIECISIETE.- La Comisión Certificadora de calidad estará integrada por técnicos, artesanos y personas de reconocida capacidad en las artesanías.
+XV. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables, y que no están expresamente conferidas al Consejo de Administración.
 
-ARTICULO DIECIOCHO.- La Comisión Certificadora de Calidad, tendrá por objeto:
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-I.- Examinar los productos artesanales con el auxilio de la técnica y la ciencia aconsejable, para determinar las cualidades, valor y calidad de los productos artesanales.
+ARTICULO CATORCE.- El Director General, en lo que se refiere a su representante legal, independientemente de las atribuciones a que se refiere el artículo anterior, así como en otras leyes y ordenamientos, tendrá las siguientes:
 
-II.- Expedir el certificado que acredite la calidad que resulte de su exámen.
+I. Celebrar y otorgar toda clase de documentos inherentes a su objeto;
 
-III.- Emitir su opinión o dictamen en los casos que fuere necesario, y
+II. Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de ARIPO;
 
-IV.- Las demás que le señale el Consejo de Administración.
+III. Presentar, dentro del ámbito de su competencia, denuncias y formular querellas, ante el Ministerio Público y ratificar las mismas en su caso, sin perjuicio del patrimonio de ARIPO, así como otorgar el perdón al acusado cuando proceda;
 
-ARTICULO DIECINUEVE.- El Consejo Técnico Consultivo, será órgano de asesoría y apoyo del Consejo de Administración de "Artesanías e Industrias Populares del Estado de Oaxaca". Estará integrado por los representantes de las Instituciones públicas y privadas, y aquellos que pertenezcan a las uniones, cooperativas o particulares que en forma directa o indirecta tengan relación con las actividades artesanales, y cuya asesoría y apoyo beneficie las operaciones y permita la realización de los objetivos del Organismo.
+IV. Emitir y negociar títulos de crédito, conforme a la Ley de Deuda Pública, Estatal y Municipal, cuando derivado del ejercicio de sus atribuciones así resulte conducente;
 
-ARTICULO VEINTE.- El cargo de consejero o Asesor será gratuito.
+V. Otorgar poderes generales y especiales con las facultades que le competan, entre ellas, las que requieran autorización o cláusula especial, previa autorización del Consejo de Administración. Los poderes generales, para surtir efectos frente a terceros, deberán inscribirse conforme a la ley respectiva, así como en el registro Público de Entidades Paraestatales de la Administración pública Estatal que se lleva en la Dirección de Normatividad y Consultoría de la Contraloría General; y
+
+VI. Sustituir y revocar los poderes generales y especiales a que se refiere la fracción anterior.
+
+El Director General Ejercerá las atribuciones a que se refiere el presente artículo bajo su más estricta responsabilidad, informando siempre de ello al Consejo de Administración.
+
+El Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que requiera y le sean autorizados conforme al presupuesto de egresos y a la legislación aplicable.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
+
+### CAPITULO QUINTO. DE LA COMISION CERTIFICADORA DE CALIDAD Y DEL CONSEJO TECNICO CONSULTIVO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+ARTICULO QUINCE.- La Comisión Certificadora de Calidad estará integrada por técnicos, artesanos y personas de reconocida capacidad en las artesanías.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+ARTICULO DIECISEIS.- La Comisión Certificadora de Calidad, tendrá por objeto:
+
+I. Examinar los productos artesanales con el auxilio de la técnica y la ciencia aconsejable, para determinar las cualidades, valor y calidad de los productos artesanales;
+
+II. Expedir el certificado que acredite la calidad que resulte de su examen;
+
+III. Emitir su opinión o dictamen en los casos que fuera necesario; y
+
+IV. Las demás que le señale el Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+ARTICULO DIECISIETE.- El Consejo Técnico Consultivo, será órgano de asesoría y apoyo del Consejo de Administración ARIPO (sic). Estará integrado por los representantes de las instituciones públicas y privadas, y aquellos que pertenezcan a las uniones, cooperativas o particulares que en forma directa o indirecta tengan relación con las actividades artesanales, y cuya asesoría y apoyo beneficie las operaciones y permita la realización de los objetivos de ARIPO.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+
+ARTICULO DIECIOCHO.- El cargo de consejero o asesor será gratuito.
 
 ### CAPITULO SEXTO.
 
 DE LAS RELACIONES LABORALES.
 
-ARTICULO VEINTIUNO.- Las relaciones laborales entre "Artesanías e Industrias Populares del Estado de Oaxaca" y sus trabajadores y personal de la misma, se regirán por la Ley del Servicio Civil, para el estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE FEBRERO DEL 2001)</small>
+
+ARTICULO DIECINUEVE.- Las relaciones laborales entre de (sic) ARIPO y sus trabajadores, se regirán por el Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+ARTICULO VEINTE.- (N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADA EN EL P.O. DEL 10 DE FEBRERO DEL 2001, EL TEXTO DEL PRESENTE ARTICULO HA QUEDADO COMPRENDIDO EN EL RESPECTIVO 18)
+
+ARTICULO VEINTIUNO.- (N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADA EN EL P.O. DEL 10 DE FEBRERO DEL 2001, EL TEXTO DEL PRESENTE ARTICULO HA QUEDADO COMPRENDIDO EN EL RESPECTIVO 19)
 
 TRANSITORIOS:
 
@@ -312,3 +352,11 @@ EL SUBSECRETARIO ENCARGADO DE LA SECRETARIA GENERAL DEL DESPACHO,
 LIC. MARCOS I. MATIAS.
 
 AL C. ......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DEL 2001.
+
+PRIMERO.- El presente decreto, entrará en vigor a partir del día siguiente, al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente decreto.
