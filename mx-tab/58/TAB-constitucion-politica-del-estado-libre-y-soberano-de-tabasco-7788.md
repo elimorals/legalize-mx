@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1923-05-28"
+last_updated: "1925-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1925.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -577,7 +577,9 @@ II.- Tener veinticinco años de edad cumplidos el día de la elección.
 
 III.- No ser Ministro de ningún culto.
 
-IV.- Haber obtenido su baja del Ejército Federal y no pertenecer a la Guardia Nacional o fuerzas auxiliares, seis meses cuando menos antes de la fecha en que han de hacerse las elecciones.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 1925)</small>
+
+IV.- Haber dejado de estar en servicio activo tanto en el Ejército Federal, como en las Guardias Nacionales o Auxiliares, cuando menos tres años antes del día en que se deban verificar las elecciones.
 
 V.- No ser Secretario General de Gobierno, Subsecretario de Gobierno o Tesorero al del Estado, a menos que se separe de su puesto noventa días antes de la elección.
 
@@ -1280,3 +1282,7 @@ Este Decreto comenzará a regir desde la fecha de su publicación.
 P.O. 28 DE MAYO DE 1923.
 
 UNICO:- Este Decreto comenzará a surtir sus efectos legales desde la fecha de su promulgación.
+
+P.O. 25 DE NOVIEMBRE DE 1925.
+
+UNICO:- Este Decreto surte sus efectos legales desde la fecha de su promulgación.
