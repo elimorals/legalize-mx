@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1974-07-20"
+last_updated: "1980-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -79,9 +79,11 @@ V.- La representación legal de la Beneficencia Pública en los juicios sucesori
 
 VI.- Todo lo demás que las Leyes y Reglamentos le señalen.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 3.
 
-El referido Patronato radicará en la capital del Estado y estará integrado por cinco miembros propietarios y cinco suplentes que serán nombrados por el Gobernador del Estado y durarán en su encargo seis años.
+El referido Patronato radicará en la Capital del Estado y estará integrado por 10 Miembros Propietarios y 10 Suplentes, que serán nombrados por el Gobernador del Estado y durarán en su encargo 6 años.
 
 ###### Artículo 4.
 
@@ -169,9 +171,11 @@ XIII.- Rendir al Ejecutivo del Estado por conducto de la Tesorería General, cue
 
 XIV.- Proporcionar todos los datos, informe o comprobantes que el Ejecutivo solicite directamente o por conducto de sus inspectores.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 12.
 
-Las decisiones del Patronato se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad. Para que los acuerdos del Patronato sean válidos se necesita cuando menos, la asistencia de tres de sus miembros.
+Las decisiones del Patronato se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad. Para que los acuerdos del Patronato sean válidos, se necesita cuando menos la asistencia de 6 de sus Miembros.
 
 ###### Artículo 13.
 
@@ -1726,3 +1730,9 @@ SEGUNDO.- Las situaciones jurídicas creadas bajo la vigencia de la Ley que se a
 P.O. 20 DE JULIO DE 1974.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1980.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Los Patronos nombrados con base en la presente reforma durarán en su encargo por esta única ocasión, hasta el día 31 de Octubre de 1983.
