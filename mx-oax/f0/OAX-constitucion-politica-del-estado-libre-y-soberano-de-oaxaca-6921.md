@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1998-06-06"
+last_updated: "1998-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1998.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -583,7 +583,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -603,7 +603,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -749,11 +749,11 @@ La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el pr
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 43.
 
-A la apertura del primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal de toda Legislatura Local que tendrá lugar el 16 de septiembre, asistirá el C. Gobernador del Estado. La Legislatura Local, celebrará una sesión solemne el día 30 de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá el Informe sobre el estado que guarda la Administración Pública.
+A la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Legal de toda Legislatura Local, que tendrá lugar el 16 de NOVIEMBRE, asistirán el C. Gobernador del Estado y el Titulas del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -2796,6 +2796,10 @@ P.O. 6 DE JUNIO DE 1998.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Congreso del Estado deberá emitir la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca, reglamentaria del artículo 16 Constitucional en un plazo que no exceda de quince días contados a partir de la entrada en vigor de este Decreto.
+
+P.O. 8 DE JULIO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
