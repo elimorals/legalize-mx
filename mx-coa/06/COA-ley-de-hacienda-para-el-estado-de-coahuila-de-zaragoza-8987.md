@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "1997-12-12"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1465,7 +1465,7 @@ VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que ún
 
 VII.- Fonda, taquerías y otros de naturaleza análoga $2,380.00 (DOS MIL TRESCIENTOS OCHENTA PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)
 
 #### SECCION SEGUNDA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
@@ -1477,11 +1477,13 @@ La expedición de la revalidación anual para el funcionamiento de establecimien
 
 TARIFA
 
-I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos $7,437.00 (SIETE MIL CUATROCIENTOS TREINTA Y SIETE PESOS 00/100 M.N.).
+I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos que ofrezcan algún espectáculo o diversión públicos $8,775.00 (OCHO MIL SETECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
 
-II.- Para la enajenación de bebidas alcohólicas en restaurantes y establecimientos similares en que se consuman acompañadas de alimentos $3,719.00 (TRES MIL SETECIENTOS DIECINUEVE PESOS 00/100 M.N.).
+II.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos distintos a los señalados en la fracción anterior $3,068.00 (TRES MIL SESENTA Y OCHO PESOS 00/100 M.N.).
 
-III.- Para la enajenación de bebidas alcohólicas en envase cerrado $2,600.00 (DOS MIL SEISCIENTOS PESOS 00/100 M.N.).
+III.- Por la enajenación de bebidas alcohólicas en envase cerrado o para llevar $2,194.00 (DOS MIL CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.).
+
+La revalidación anual de las licencias para enajenar únicamente cerveza, acompañados por alimentos, causará el 20% de los derechos a que se refiere la fracción II de este artículo. Esta reducción no operará en aquellos establecimientos en que se expendan bebidas alcohólicas distintas de la señalada en este párrafo.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
@@ -2658,3 +2660,11 @@ SEGUNDO.- Los propietarios de establecimientos que enajenen o expendan bebidas a
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- La presente reforma no deroga el Artículo 475-D del Código Municipal para el Estado de Coahuila.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 1998.
+
+SEGUNDO.- Para el ejercicio fiscal de 1998, no será aplicable lo dispuesto por el artículo 3 de la Ley de Hacienda para el Estado de Coahuila en lo previsto por el artículo 105 que se reforma.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
