@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1998-07-03"
+last_updated: "1999-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -169,9 +169,17 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo 
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento que un individuo es concebido, queda bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente código.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+La persona que haya sido producto de una inseminación artificial o procreación asistida, tendrá el derecho imprescriptible de conocer la identidad de sus padres biológicos. En los casos de adopción plena, se estará a lo dispuesto por este Código.
+
 ###### ARTÍCULO 23.
 
 La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+En los casos que se afectare la esfera jurídica de un menor de edad, se buscará en todo momento su interés superior, entendiéndose como tal, lo que represente mayor beneficio para él.
 
 ###### ARTÍCULO 24.
 
@@ -507,11 +515,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
+(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
+(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -563,9 +571,11 @@ Queda prohibido al Oficial del Registro Civil y a los testigos que conforme al a
 
 Las constancias de nacimiento de los hijos de ciudadanos mexicanos levantadas en el extranjero, en buques o naves nacionales o extranjeras y en general las que se tomen en cualquier sitio donde no se encontrase un Oficial del Registro Civil, deberán presentarse al Oficial del domicilio de los padres, dentro del plazo a que se refiere el artículo 74, quien procederá a su inscripción de acuerdo con los requisitos establecidos por el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 85.
 
-Los Oficiales del Registro Civil únicamente podrán inscribir las actas de nacimiento de los hijos de extranjeros, nacidos en territorio mexicano y radicados en el Estado, siempre y cuando estén en el plazo que señala el artículo 74 de este Código y comprueben con la documentación correspondiente su legal estancias en el país.
+Los Oficiales del Registro Civil inscribirán las actas de nacimiento de los hijos de extranjeros, cuando los hijos hayan nacido en territorio nacional, independientemente de la condición migratoria de los padres o de la persona que presenta al menor.
 
 ###### ARTÍCULO 86.
 
@@ -616,6 +626,10 @@ Si el reconocimiento se hiciere en Oficialía diferente a aquella en donde se le
 ###### ARTÍCULO 94.
 
 Dictada la resolución judicial que autorice la adopción, el juez enviará copia certificada de la sentencia y del auto en que causa ejecutoria, al Director del Registro Civil, y éste a su vez, ordenará se levante el acta correspondiente y se haga la anotación respectiva en el acta de nacimiento del adoptado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos y se harán las anotaciones en el acta de nacimiento original, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### ARTICULO 95.
 
@@ -865,7 +879,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 3 DE JULIO DE 1998)
+(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
 
 ###### ARTÍCULO 133.
 
@@ -1665,9 +1679,13 @@ El parentesco de consanguinidad es el que existe entre personas que desciendan d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 281.
 
-El parentesco civil es el que nace de la adopción y solo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción simple y solo existe entre el adoptante y el adoptado.
+
+El parentesco que nazca de la adopción plena, surtirá los mismos efectos jurídicos que los existentes entre familiares consanguineos.
 
 ###### ARTICULO 282.
 
@@ -2009,6 +2027,8 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casars
 
 ### CAPITULO V. DE LA ADOPCIÓN
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 347.
 
 La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
@@ -2159,27 +2179,65 @@ DE LA PERSONA DE LOS HIJOS
 
 ###### ARTÍCULO 376.
 
-Las personas que vivan en el Estado, los mayores de treinta años pero no de sesenta, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad siempre que el adoptante tenga diecisiete años más que el adoptado, y que su adopción sea benéfica a éste.
+La adopción simple es un acto jurídico por el cual se establece un vínculo de filiación entre el adoptado y el adoptante, mediante una resolución judicial. Asimismo la adopción plena es un acto jurídico por el cual se establece un vínculo de filiación entre el adoptado y adoptante, los parientes de éste y los descendientes de aquél, mediante resolución judicial.
 
-Se podrá adoptar a personas mayores no incapacitadas, en cuyo caso no se exigirá el requisito de la edad máxima del adoptante.
+Las personas físicas, mayores de veinticinco años pero no de sesenta, en pleno ejercicio de sus derechos, pueden adoptar a un incapacitado mayor de edad o aun menor, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica para éste.
 
-A criterio del juez puede dispensarse lo relativo, a la diferencia de edad, tratándose de adopción de incapacitados.
+A criterio y previa motivación del juez se puede dispensar el requisito de la edad y lo relativo a la diferencia de edad en cualquier adopción, especialmente cuando se atienda al interés superior del menor o incapaz.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+ARTÍCULO 376 BIS. La adopción plena tiene por objeto incorporar al adoptado como hijo de familia del adoptante, por lo cual los vínculos de parentesco se extienden hacia la familia de este último, y los descendientes del primero, asegurando la autoridad judicial que la otorgue, la reserva de la adopción por lo que cualquier autoridad se abstendrá de proporcionar información al respecto, excepto cuando por mandato de juez competente se requiera para:
+
+I. Efectos de impedimentos matrimoniales, o
+
+II. Cuando el adoptado lo solicite si es mayor de edad, si no lo fuere, se requerirá del consentimiento de los adoptantes.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 377.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo aunque solo uno de los cónyuges cumpla el requisito de la edad a que se refiere el articulo anterior.
+La adopción internacional es la promovida personalmente por ciudadanos de otro país, con residencia habitual fuera del territorio nacional y tiene como objeto incorporar, en una familia, a un menor que no puede encontrar la misma en su lugar de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
+
+La adopción por extranjeros es la promovida y otorgada en los términos de este Código, a los extranjeros que tengan su residencia habitual en territorio nacional.
+
+El que promueva la adopción internacional deberá acreditar ante el juez, mediante constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia lo siguiente:
+
+I. Que el menor es adoptable;
+
+II. Que una vez que se agotaron las alternativas de adopción dentro del territorio queretano, se considera que una adopción internacional responde al interés superior del menor;
+
+III. Que el consentimiento legal de quien deba darlo lo otorgue por escrito y sin compensación o pago alguno, además de que hayan sido debidamente asesorados e informados de las consecuencias de la adopción. Cuando el consentimiento lo otorgue la madre biológica, éste deberá ser posterior al nacimiento del menor;
+
+IV. Que tomando en cuenta el grado de madurez y la edad del menor, se constate que ha sido debidamente asesorado y se tenga en cuenta el consentimiento del menor por escrito, y
+
+V. Que existe constancia de la autoridad competente del país receptor, que los promoventes son aptos e idóneos como adoptantes de acuerdo a los convenios internacionales.
+
+El juez que conozca, verificará minuciosamente que se cumplan con tales requisitos y pedirá la ratificación del escrito, si lo hubiere donde conste el consentimiento del menor.
+
+Toda adopción internacional, tendrá el carácter de plena y el menor en tanto no se resuelva sobre la adopción, no podrá ser trasladado al extranjero.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 378.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el articulo anterior.
+Nadie puede ser adoptado por más de una persona, salvo en el caso que los cónyuges estén conformes en considerar al adoptado como hijo, aunque sólo uno de ellos cumpla con el requisito de la edad a que se refiere el artículo 376 de este Código.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 1999)</small>
+
+ARTÍCULO 378 BIS. El adoptante o adoptantes podrán solicitar la conversión de la adopción simple por la adopción plena, ante el juez competente, el que deberá resolver lo conducente atendiendo al interés superior del adoptado.
+
+Cuando se presente conflicto de leyes entre la legislación del lugar de residencia del adoptante que esté en otra entidad federativa o en el extranjero y la legislación aplicable en el Estado de Querétaro, se aplicará la que constituya mayor beneficio al adoptado, salvo en los casos de revocación y anulación, en los cuales se aplicará la presente ley.
 
 ###### ARTÍCULO 379.
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 380.
 
-El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad o la fecha en que haya desaparecido la incapacidad.
+Los adoptados bajo la forma de adopción simple, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que por resolución judicial se declare que ha desaparecido la incapacidad.
 
 ###### ARTÍCULO 381.
 
@@ -2199,7 +2257,9 @@ II. El tutor del que se va a adoptar,
 
 III. Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor; y
 
-IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que obstensiblemente le imparta su protección, y lo haya acogido como hijo.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+IV. El Ministerio Público de la jurisdicción del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le otorgue protección, ni lo haya acogido como hijo, previo informe de la Procuraduría de la Defensa del Menor y la Familia. Dicho informe deberá rendirse dentro del término de cinco días a partir de la petición hecha por el Ministerio Público.
 
 Si el menor que se va a adoptar tiene mas de catorce años también se necesita su consentimiento para la adopción.
 
@@ -2215,29 +2275,41 @@ El procedimiento para hacer la adopción será fijado en el Código de Procedimi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 387.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al oficial del Registro Civil del lugar para que levante el acta correspondiente.
+El juez que apruebe la adopción remitirá copia de las diligencias respectivas al oficial del Registro Civil del lugar para que se levante el acta correspondiente.
+
+> <small>(REFORMADO. P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 388.
 
-Los derechos y obligaciones que nacen de la adopción así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimientos del matrimonio, respecto de los cuales se observara lo que dispone el articulo 149.
+Las adopciones plenas serán irrevocables; pero pueden ser anuladas cuando no se hayan cumplido con los requisitos establecidos para su otorgamiento.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 389.
 
-Los derechos y obligaciones que resultan del parentesco por consanguinidad, no se extinguen por la adopción excepto la patria potestad, que será transferida al adoptante, salvo en caso que esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+Los derechos y obligaciones que resultan del parentesco por consaguinidad, no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo en caso que esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+
+En las adopciones plenas, los derechos y obligaciones que resultan del parentesco por consaguinidad con los padres biológicos, se extinguen.
 
 ###### ARTÍCULO 390.
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 391.
 
-La adopción puede revocarse:
+La adopción simple puede revocarse:
 
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación de las personas que prestaron su conocimiento, conforme al artículo 383; y
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 383;
 
-II. Por ingratitud del adoptado.
+II.- Por ingratitud del adoptado, o
+
+III. Cuando el Ministerio Público por si sólo, o a petición fundada de la Procuraduría de la Defensa del Menor, justifique que existe causa grave que ponga en peligro al menor.
 
 ###### ARTÍCULO 392.
 
@@ -2449,7 +2521,9 @@ II. En los casos de divorcio, teniendo en cuenta lo dispuesto por el artículo 2
 
 III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal; y
 
-IV. Por la exposición que el padre o la madre hicieren de sus hijos, o por que los dejen abandonados por mas de seis meses.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 1999)</small>
+
+IV. Por la exposición por más de 8 días o abandono físico por más de 30 días, por parte del padre o la madre o de quien ejerza la patria potestad.
 
 ###### ARTÍCULO 430.
 
@@ -2479,7 +2553,9 @@ II. Cuando por su mal estado habitual de salud, no pueden atender debidamente a 
 
 III. Cuando la persona sobre la que deba ejercerse, sea el adoptado de su hijo.
 
-## TITULO DECIMO. DE LA TUTELA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 1999)</small>
+
+## TITULO DECIMO. DE LA TUTELA Y CURADURIA
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
@@ -2505,25 +2581,49 @@ IV. Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de
 
 Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I del título undécimo de este libro.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 437.
 
-La tutela es un cargo de interés público, del que nadie puede eximirse sino por causa legitima.
+La tutela es un cargo de interés público, que sólo podrá eximirse ante causa legítima; el que rehusare su desempeño sin causa legal, es responsable de los daños y perjuicios que se ocasionen al incapacitado.
+
+Las (sic) tutela se desempeñará por el tutor, con la intervención del juez competente, del Ministerio Público y del curador en los términos establecidos. Todos los individuos sujetos a tutela, excepto en los casos a que se refieren los artículos 476 y 484, tendrán un curador.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 438.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y prejuicios que de su negativa resulte al incapacitado.
+Ningún incapaz puede tener a un mismo tiempo, más de un tutor y de un curador definitivos, pero estos últimos podrán desempeñar respectivamente la tutela o curatela hasta de tres incapaces. Igualmente, se nombrará curador interino en los casos de impedimentos, separación o excusa del nombrado en tanto se designa a uno definitivo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 439.
 
-La tutela se desempeñara por el tutor con intervención del curador, del juez competente y del ministerio público, en los términos establecidos en este código.
+Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador. Lo designarán por sí mismos en los casos comprendidos en los artículos 480 y 625 fracción II.
+
+El curador en los demás casos será nombrado por el juez.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 440.
 
-Ningún incapaz puede tener al mismo tiempo mas de un tutor y de un curador definitivos.
+El curador está obligado a:
+
+I.- Defender los derechos del incapacitado dentro o fuera de juicio, cuando estén en oposición con los del tutor;
+
+II.- Vigilar la conducta del tutor y poner en conocimiento del juez, todo aquello que pueda ser en perjuicio del incapacitado;
+
+III.- Dar aviso al juez para nombrar nuevo tutor, cuando éste faltare o abandonare la tutela, y
+
+IV.- Las demás que la ley señale.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 441.
 
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si estos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean mas de tres.
+Las funciones del curador terminarán cuando el incapacitado salga de la tutela; el cambio de tutor no implica la sustitución de curador.
+
+El curador tiene derecho a ser relevado, pasados diez años desde que le fue conferido su nombramiento, pero será responsable de los daños y perjuicios cuando no cumpla con los deberes prescritos por este Código. En los casos en que deba cobrar honorarios el curador, se estará al arancel de los procuradores sin que por otro motivo pueda pretender mayor retribución. Si hiciera algunos gastos con motivo del desempeño de su cargo, se le pagarán.
 
 ###### ARTÍCULO 442.
 
@@ -3305,7 +3405,9 @@ I. Por la muerte del pupilo o porque desaparezca su incapacidad; y
 
 II. Cuando el incapacitado sujeto a tutela entre a la patria potestad por su reconocimiento o por adopción.
 
-### CAPITULO XIV. DEL CURADOR
+### CAPITULO XIV. DE LA RESTITUCION DE MENORES
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 591.
 
@@ -3351,95 +3453,153 @@ Todas las acciones por hechos relativos a la administración de la tutela, que e
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los plazos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los plazos se computarán desde que cese la incapacidad.
 
-### CAPITULO XV. DE LOS JUECES COMPETENTES EN MATERIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 1999)</small>
 
-FAMILIAR Y DEL MINISTERIO PUBLICO
+### CAPITULO XV. DE LOS JUECES COMPETENTES EN MATERIA FAMILIAR, DEL MINISTERIO PÚBLICO Y DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 602.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legitima o dativa, además del tutor tendrá, un curador, excepto en los casos de tutela a que se refieren los artículos 476 y 484.
+Cuando se traslade o retenga a un menor de manera ilícita, la persona o institución que ejerza individual o conjuntamente la custodia o guarda legal, podrá solicitar a las autoridades judiciales o administrativas, la restitución de aquél.
+
+Se entiende traslado o retención ilícita, cuando se afecten los derechos de custodia o de visita del menor, y que se prive de los mismos sin el conocimiento y consentimiento de la persona o institución a cuyo cargo se encuentra, o bien que se realicen a través de la violencia física o moral o de cualquier maquinación dolosa y fraudulenta.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 603.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrara curador con el mismo carácter si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+La restitución sólo podrá operar cuando la persona que sea retenida o trasladada ilegalmente sea menor de 16 años.
+
+Son competentes para conocer de la solicitud de restitución de menores, las autoridades judiciales, el Procurador de la Defensa del Menor y la Secretaría de Relaciones Exteriores; ésta última en los casos de traslado o retención de menores que se encuentren en el extranjero, o bien, cuando éstos se encuentren en esta entidad y hayan sido trasladados ilegalmente de su residencia habitual en otro país.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 604.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 442.
+La persona, institución u organismo que ejerza una custodia a favor de un menor que haya sido trasladado o retenido de modo ilícito en cualquier parte del Estado, en otra entidad federativa o en el extranjero, y con infracción a sus derechos de custodia, podrá solicitar su restitución. La solicitud incluirá:
+
+I.- Nombre y fecha de nacimiento del menor;
+
+II.- Información relativa a la identidad del solicitante, del menor y de la persona que lo ha sustraido o retenido;
+
+III.- Los motivos para reclamar la restitución y la información disponible para localizarlo;
+
+IV.- Documento que acredite el derecho de custodia, y
+
+V.- Certificación expedida por autoridad competente en donde el menor tenga su residencia habitual, tomando en cuenta si la sustracción es nacional o internacional.
+
+La autoridad judicial competente será el de la residencia habitual del menor que ha sido trasladado o retenido ilegalmente, y en los casos de urgencia será el del lugar en donde aquél se encuentre.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 605.
 
-Igualmente se nombrara curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+Las autoridades judiciales y administrativas competentes en la restitución de menores, actuarán con eficacia y adoptarán las medidas adecuadas para conseguir la pronta restitución, lo que incluye la custodia provisional si fuere procedente. Se procurará en todo momento, la devolución voluntaria. Cuando exista oposición o resistencia, se hará a través de los medios coactivos que la ley previene.
+
+En los casos de oposición de la persona que retenga al menor ésta tendrá el término de tres días hábiles contados a partir del momento de su notificación por parte de la autoridad competente requerida, para hacer valer sus intereses, para lo cual las autoridades, dictarán la resolución dentro de los ocho días siguientes. Las mismas, procurarán que el menor no sea trasladado a otro lugar de donde se hubiere localizado y asegurado.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 606.
 
-Lo dispuesto sobre impedimentos o excusas de los tutores regirá igualmente respecto a los curadores.
+Cuando el traslado o retención hayan ocurrido en un periodo menor a un año, la autoridad competente ordenará la restitución inmediata y automática, sin sujetarse a mayores formalidades. Transcurrido dicho plazo, la restitución será mediante mandato de la autoridad competente requerida, tomando en cuenta el interés superior del menor y sin perjuicio del artículo anterior.
+
+No obstante, no procederá la restitución cuando:
+
+I.- Las personas, instituciones u organismos encargados del cuidado del menor, no ejercieren efectivamente su derecho de custodia en el momento del desplazamiento o hubieren consentido con posterioridad la retención, o
+
+II.- Que existiere un grave riesgo de que la restitución pudiere exponerle a un peligro fisíco o psicológico o de cualquier manera ponga al menor en una situación intolorable.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 607.
 
-Los que tiene derecho a nombrar tutor, lo tienen también de nombrar curador.
+La autoridad requerida en los casos de restitución, tomará en cuenta la opinión del menor cuando, a su juicio, la edad y madurez de aquél, lo justifiquen, dejando constancia de la misma en las respectivas actuaciones.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 608.
 
-Designaran por si mismos al curador con aprobación judicial:
+Las disposiciones del presente capítulo no limitarán las facultades de las autoridades judiciales o administrativas para diligenciar la restitución del menor en cualquier momento. Las decisiones que estas adopten, no afectarán la cuestión de fondo del derecho de custodia.
 
-I. Los comprendidos en el artículo 480, observándose lo que allí se dispone respecto de esos nombramientos; y
-
-II. Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 625.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 609.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
+Para los efectos de la presente Ley:
+
+I.- El derecho de custodia comprenderá el derecho relativo al cuidado del menor y, en particular, el de decidir sobre su lugar de residencia, sin perjuicio de los demás establecido para esta institución, y
+
+II.- El derecho de visita comprenderá el derecho de llevar al menor, por un periodo de tiempo limitado, a otro lugar diferente a aquél en que tiene su residencia habitual.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 610.
 
-El curador esta obligado:
+La restitución podrá ser tramitada por los titulares de los derechos de custodia afectados, por conducto de la autoridad judicial, por la vía diplomática o consular o directamente por la Secretaría de Relaciones Exteriores, según sea la naturaleza y el lugar de la retención o traslado ilegítimo de un menor.
 
-I. A defender los derechos del incapacitado en juicio o fuera de el exclusivamente en el caso de que estén en oposición con los del tutor.
-
-II. A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado.
-
-III. A dar aviso al juez para que se haga el nombramiento del tutor, cuando este faltaré o abandonare la tutela; y
-
-IV. A cumplir las demás obligaciones que la ley le señale.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 611.
 
-El curador que no cumpla los deberes prescritos en el artículo precedente, será responsable de los daños y perjuicios que resultaren al incapacitado.
+Las autoridades que intervengan en estos procedimientos, no exigirán fianzas, garantía ni depósito alguno a la parte que alegue la perturbación de sus derechos de custodia o de visita, en los casos de traslado o retención de un menor de manera ilegal.
+
+Los exhortos o cartas rogatorias que se tramiten oficialmente a través de las autoridades competentes, no requerirán de legalizaciones; en los casos de requerir a autoridades extranjeras; éstas se enviarán en el idioma del país correspondiente, y cuando sean las autoridades locales requeridas, aquellas deberán de constar en idioma castellano.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 612.
 
-Las funciones del curador cesaran cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+La restitución por la autoridad Judicial podrá ser negada cuando sea manifiestamente violatoria del orden público del Estado requerido y sobre todo cuando se afecten garantías constitucionales.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 613.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+Cuando una persona que ejerce el derecho de visita hacia un menor y es perturbado en el mismo, se aplicarán las disposiciones anteriores.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 614.
 
-En los casos que conforme a este código tenga que intervenir el curador, cobrará el honorario que señale el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo se le pagarán.
+La persona que haya retenido o trasladado indebidamente a un menor de su residencia habitual, perturbado los derechos de custodia o de visita, será responsable de los daños y perjuicios ocasionados tanto al menor como a las personas, instituciones u organismos que ejercen dichos derechos.
+
+En el caso de conflicto de leyes, cuando el menor se encontrare en otra entidad federativa o en el extranjero, se le aplicará la ley más favorable, teniendo en cuenta el interés superior del menor.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 1999)</small>
 
 ### CAPITULO XVI. DEL ESTADO DE INTERDICCIÓN
 
 ###### ARTÍCULO 615.
 
-Los jueces competentes son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de actos del tutor para impedir, por medio de disposiciones apropiadas, la transgresión de sus deberes.
+Los jueces competentes, gozarán de facultades discrecionales en todo lo referente a la familia y a los menores, garantizando el interés superior de éstos, con el objeto que los padres o tutores cumplan con sus deberes familiares; pero fundarán y motivarán las resoluciones y medidas que adopten. Además podrán coadyuvar con ellos, la Procuraduría de la Defensa del Menor y la Familia y el Ministerio Público, dentro de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 616.
 
-Mientras que se nombra tutor, el juez competente debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+El menor será protegido en su vida privada, en su intimidad y en la integridad de su persona y la autoridad judicial podrá decretar en cualquier momento del procedimiento, las medidas que aseguren que el menor y la familia no sean objeto de injerencias arbitrarias o ilegales, ni ataques a su honra, reputación y patrimonio.
+
+Todo menor de edad, tiene derecho a vivir con sus padres, pero en los casos de que éstos no cohabiten entre sí o estén divorciados, éstos establecerán las bases de la custodia, por lo que tendrán el derecho de mantener el contacto y visita regular con los menores. En los casos de controversia, decidirá la autoridad judicial, y sólo en los casos en que el menor sea objeto de maltrato descuido o perversión o abuso por parte de sus padres o tutores, el Juez podrá ordenar la custodia provisional en los lugares donde implique el interés superior del menor.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 617.
 
-El Ministerio Público además de las funciones que expresamente le asignan las disposiciones contenidas en los diversos artículos que preceden, tienen las obligaciones siguientes:
+El menor, podrá ser escuchado por sí o a través de su representante. La Procuraduría de la Defensa del Menor y de la Familia o el Ministerio Público, estarán legitimados, respecto del menor o la familia en aquellas situaciones en que se afecten sus intereses legales, y podrá ejercer las acciones pertinentes para asegurarlos, en los siguientes casos:
 
-I. Velar porque los tutores cumplan sus deberes, especialmente a lo que se refiere a la educación de los menores, dando aviso al juez competente de las faltas u omisiones que notaren;
+I.- Representación de menores o incapaces en cuestiones relativas a alimentos, divorcio, restitución de menores, tutela, custodia, patria potestad o sucesiones testamentarias;
 
-II. Avisar al juez competente cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
+II.- Fungir como tutor en los casos de ausencia de éste o cuando no se hubiere designado, y
 
-III. Investigar y poner en conocimiento del juez competente qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos; y
+III.- En los procedimientos de adopción, en tanto no se autoriza la misma, será representante del menor o incapaz.
 
-IV. Cuidar con especialidad de que los tutores cumplan con la obligación que les impone la fracción II del artículo 521.
+Asimismo, estarán facultados para supervisar el funcionamiento de las adopciones simples y plenas, que judicialmente se hayan otorgado en la entidad por lo que en su caso podrán interponer las acciones legales que resulten cuando aquellas se desempeñen de manera irregular y causen o puedan causar un daño al adoptado.
+
+En el caso de adopciones otorgadas a personas que residan en el extranjero, se podrán auxiliar a través de la vía diplomática o consular mexicana.
+
+El Ministerio Público, investigará y dará aviso a la autoridad judicial cuando conozca de acontecimientos que pongan en peligro al menor o a la familia, para que ésta última actúe conforme a la ley.
 
 ### CAPITULO I. DE LA EMANCIPACIÓN
 
@@ -7607,13 +7767,17 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, estos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 1474.
 
-El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado en forma simple hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 1475.
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
+Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
 
 ###### ARTÍCULO 1476.
 
@@ -7641,13 +7805,17 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre si por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
+
 ###### ARTÍCULO 1482.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### ARTÍCULO 1483.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+Si concurre el cónyuge del adoptado con los adoptantes en forma simple, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
 
 ###### ARTÍCULO 1484.
 
@@ -15232,3 +15400,21 @@ Las personas mayores de siete años que por sí o a través de sus representante
 ###### ARTICULO SEGUNDO.
 
 Las demás disposiciones que se opongan a la presente ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
+
+P.O. 7 DE MAYO DE 1999
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Las adopciones que se encuentren en trámite se resolveran de conformidad con las disposiciones vigentes hasta antes de la publicación de la presente Ley.
+
+No obstante si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena podrá seguirse el procedimiento establecido por la presente Ley.
+
+P.O. 7 DE MAYO DE 1999
+
+Artículo primero.- Las personas mayores de siete años, que por sí o a través de sus representantes, al entrar en vigor esta Ley, estén tramitando juicio para el registro de nacimiento, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en esta Ley.
+
+Artículo segundo.- Las demás disposiciones que se opongan a la presente Ley y que impidan su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán en suspenso en cuanto su observancia en relación con ellos, durante esos lapsos.
+
+Artículo tercero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Queretaro "La Sombra de Arteaga".
+
+Artículo Cuarto.- Una vez concluidos los plazos durante los cuales estará vigente la presente Ley, recobrarán su vigencia los artículos dejados en suspenso.
