@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-y-fuerza-aerea-653"
 country: "mx"
 rank: "ley"
 publication_date: "1956-01-07"
-last_updated: "1980-12-24"
+last_updated: "1983-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1955-12-31"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1956.
 
@@ -245,7 +245,7 @@ VII.- No encontrarse en alguna de las situaciones previstas en el artículo 30.
 
 Los Subtenientes egresados de las Escuelas o Cursos de Formación de Oficiales, podrán ser ascendidos al grado de Tenientes fuera de concurso al cumplir tres o dos años de antigüedad en el grado, según hayan realizado estudios conforme a programas de tres o cuatro años, respectivamente, siempre que reúnan además los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 I.- Haber servido durante ese lapso precisamente en las unidades del activo en cuarteles ejerciendo el mando; o en unidades de vuelo de la Fuerza Aérea, si se trata de pilotos aviadores; tratándose de oficiales de Servicio, en los Servicios orgánicos de las unidades del activo en cuarteles o unidades de la Fuerza Aérea y en aquellos Servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
@@ -561,11 +561,13 @@ La Condecoración del Mérito Docente se concederá por la Secretaría de la Def
 
 La condecoración de Perseverancia se otorgará por la Secretaría de la Defensa Nacional y estará destinada a premiar los servicios ininterrumpidos en el Activo, de los miembros del Ejército y Fuerza Aérea.
 
-Esta condecoración será de cuatro clases: 1a., 2a., 3a. y 4a.; y se concederá por su orden, a los que cumplan 30, 25 20 y 15 años de servicios.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1983)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+Esta Condecoración será de seis Clases: Especial, 1a., 2a., 3a., 4a. y 5a. y se concederá por su orden, a los que cumplan treinta y cinco, treinta, veinticinco, veinte, quince y diez años de servicios.
 
-Quienes en los términos de esta disposición se hagan acreedores a la Condecoración de perseverancia, a partir de la 4a. clase, tendrán derecho, además, al pago de una prima como complemento del haber. En los Presupuestos de Egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1983)</small>
+
+Quienes en los términos de esta disposición se hagan acreedores a la Condecoración de Perseverancia, a partir de la 5a. Clase, tendrán derecho, además, al pago de una prima como complemento del haber, en los presupuestos de egresos correspondientes, se fijará oportunamente el monto o proporción de dicha prima.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
@@ -752,3 +754,7 @@ El personal que egrese de las Escuelas de Formación de Oficiales en el año de 
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se opongan al mismo.
+
+D.O.F. 14 DE NOVIEMBRE DE 1983.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, quedando derogadas las disposiciones que se le opongan.
