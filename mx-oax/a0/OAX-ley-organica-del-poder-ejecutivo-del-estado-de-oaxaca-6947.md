@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1995-03-25"
+last_updated: "1996-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -57,9 +57,11 @@ Integran la Administración Pública Centralizada la Gubernatura del Estado, las
 
 La Administración Pública Paraestatal está formada por Organismos Descentralizados, Empresas de participación Estatal y aquellas entidades que por su naturaleza no están comprendidas dentro de la Administración Pública Centralizada.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 5.
 
-Las Secretarías, la Procuraduría General de Justicia y la Contraloría General tendrán igual rango y entre ellas no habrá preminencia (sic) alguna; sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador del Estado y suscribirán los instrumentos jurídicos que para el cumplimiento de sus funciones requieran, de conformidad con las facultades que el propio Ejecutivo Estatal les delegue.
+Las Secretarías, la Procuraduría General de Justicia y la Controlaría General, tendrán igual rango y entre ellas no habrá preminencia (sic) alguna; sus titulares ejercerán las funciones de su competencia encomendadas por la Constitución Política del Estado, esta Ley, y demás que le señalen otros decretos, reglamentos, acuerdos y convenios, a partir de la fecha de la toma de posesión del cargo. Así también podrán suscribir los instrumentos jurídicos necesarios para el cumplimiento de sus atribuciones y las que por acuerdo del Ejecutivo del Estado les sean delegadas.
 
 ###### ARTICULO 6.
 
@@ -139,6 +141,20 @@ X.- SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.
 
 XI.- SECRETARIA DE SALUD.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+
+XII.- SECRETARIA TECNICA.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+
+Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario, Procurador General de Justicia y Contralor General. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias los Secretarios, el Procurador General de Justicia y el Contralor General se auxiliarán de Directores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+
+Artículos (sic) 17 Bis.- Corresponde a los Titulares de las Dependencias a que se refiere el artículo anterior, el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar, mediante Acuerdo, en los servidores públicos subordinados, cualquiera de las facultades, que no estén expresamente señaladas como exclusivas de los propios Titulares, por la Constitución Política del Estado, las leyes y reglamentos. La anterior delegación de facultades, no limita el ejercicio directo de las mismas por parte de los Titulares de las respectivas Dependencias.
+
+El Acuerdo de delegación de facultades a que se refiere el párrafo anterior deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
 ###### ARTICULO 18.
 
 Para la adecuada atención de los asuntos en materia educativa, el Ejecutivo Estatal determinará la dependencia o entidad a la que corresponderá la atención de dicha responsabilidad.
@@ -183,9 +199,9 @@ VIII.- Tramitar excitativas para la pronta y expedita Administración de Justici
 
 IX.- Vigilar la observancia y aplicación de disposiciones en materia de trabajo y previsión social.
 
-X.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
+X.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)(REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
-XI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
+XI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 1994)</small>
 
@@ -197,11 +213,11 @@ XIV.- Tramitar los Nombramientos que para el ejercicio de las Funciones Notarial
 
 XV.- Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo General de Notarías.
 
-XVI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
+XVI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)(REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
-XVII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
+XVII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
-XVIII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
+XVIII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994) (REPUBLICADA, P.O. 28 DE MAYO DE 1996)
 
 XIX.- Proponer al Gobernador del Estado el otorgamiento de Pensiones de Gracia o Premios Extraordinarios en beneficio de Oaxaqueños distinguidos.
 
@@ -211,9 +227,11 @@ XXI.- Vigilar y controlar todo lo relativo a la demarcación y conservación de 
 
 XXII.- Auxiliar a las Autoridades y a la Ciudadanía en la solución de conflictos de carácter Municipal. En su caso, intervenir ante las instancias competentes cuando los conflictos se relacionen con la realización de Obras o Servicios Públicos.
 
-XXIII.- Impulsar la Organización y Participación Comunitaria en los Procesos de Desarrollo Municipal y Fortalecer sus Procesos Democráticos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
 
-XXIV.- Realizar Programas de Capacitación y Asesoría Jurídica y de Administración Municipal dirigidos a fortalecer las capacidades de los Ayuntamientos.
+XXIII.- Fortalecer los procesos democráticos municipales.
+
+XXIV.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
 
 XXV.- Promover la colaboración entre Municipios para la realización de Obras y Servicios Públicos de beneficio común.
 
@@ -337,7 +355,9 @@ VII.- Elaborar y mantener actualizado el Padrón Fiscal de Contribuyentes.
 
 VIII.- Administrar la Función de Catastro, formulando el Plano Catastral y el Padrón de la Propiedad Urbana y Rural en el Estado.
 
-IX.- Intervenir en las operaciones en que el Estado haga uso del Crédito Público.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
+
+IX.- Intervenir en las operaciones en que el Estado haga uso del crédito público. Así como llevar un registro único de obligaciones y empréstitos.
 
 X.- Coordinar financieramente las operaciones de las Entidades de la Administración Pública Paraestatal y de todas aquellas que posean o exploten bienes del Estado.
 
@@ -353,17 +373,45 @@ XV.- Aclarar las observaciones que le finque el Congreso Local por conducto de l
 
 XVI.- Elaborar los Estados Financieros e Integrar la Cuenta Pública y someter esta a consideración del Gobernador del Estado, para la presentación correspondiente ante el Congreso Local en los primeros diez días del mes de Abril de cada año.
 
-XVII.- Intervenir en los Juicios de Carácter Fiscal en que tenga interés la Hacienda Pública del Estado y resolver los recursos de oposición que le formulen los contribuyentes.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
 
-XVIII.- Sancionar las infracciones a la Legislación Fiscal.
+XVII.- Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, cuando tenga interés la Hacienda Pública del Estado.
 
-XIX.- Ejercer la Facultad Económica coactiva en el Ambito de sus atribuciones Fiscales.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
 
-XX.- Establecer y Operar el Sistema de Contabilidad Gubernamental de la Administración Pública Estatal.
+XVIII.- Imponer las sanciones que correspondan por infracciones a la Ley de Hacienda y demás leyes fiscales.
 
-XXI.- Formular mensualmente el Estado de origen y aplicación de recursos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
 
-XXII.- Los demás que le señales (sic) las Leyes, Decretos y Reglamentos.
+XIX.- Ejercitar las acciones y oponer las excepciones que procedan para la defensa administrativa y judicial de los derechos de la Hacienda Pública del Estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XX.- Conocer, tramitar y resolver los recursos administrativos que por Ley o Decreto le correspondan en la esfera de su competencia.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXI.- Presentar, dentro del ámbito de su competencia, denuncias y formular querellas ante el Ministerio Público y ratificar las mismas. Recibir el pago por concepto de reparación del daño y, en su caso, sin perjuicio del Erario Estatal, otorgar el perdón del acusado cuando proceda.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXII.- Intervenir en los juicios y procedimientos relacionados con el cumplimiento de las obligaciones derivadas de las fianzas expedidas en favor del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXIII.- Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXIV.- Establecer y operar y el Sistema de Contabilidad Gubernamental de la Administración Pública Estatal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXV.- Formular mensualmente el estado de origen y aplicación de recursos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXVI.- Los demás que señalen las Leyes, Decretos y Reglamentos.
 
 ###### ARTICULO 23.
 
@@ -401,29 +449,23 @@ XII.- Administrar los Almacenes Generales del Gobierno del Estado.
 
 XIII.- Organizar y controlar el servicio de mantenimiento del equipo de transporte de la Administración Pública Centralizada.
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XIV.- Proponer, previo acuerdo del Gobernador del Estado, la organización interna de las Dependencias y Entidades de la Administración Pública.
+XIV.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
 
 > <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
 
 XV.- Administrar y asegurar la conservación y el mantenimiento del patrimonio del Gobierno del Estado.
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XVI.- Elaborar y Establecer programas de mejoramiento Administrativo en coordinación con las Dependencias y entidades de la Administración Pública, revisando permanentemente los sistemas, métodos y procedimientos de trabajo.
+XVI.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
 
 > <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
 
 XVII.- Coordinarse con las Dependencias de la Administración Pública Centralizada a través de sus Unidades de Apoyo Administrativo, para asegurar la adecuada administración de los recursos humanos y materiales, la conservación y el mantenimiento del patrimonio del Gobierno del Estado, y en general el suministro oportuno de los bienes y servicios que requiera la ejecución de los Programas de Trabajo.
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
+XVIII.- (DEROGADA, P.O. 28 DE MAYO DE 1996)
 
-XVIII.- Elaborar, con la participación de las Dependencias y Entidades, el Manual General de Organización de la Administración Pública, así como los Manuales de Procedimientos y de Servicios al Público.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1996)</small>
 
-> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
-
-XIX.- Reglamentar el Desarrollo de Sistemas de Información, así como la adquisición de Bienes y Servicios de Informática de la Administración Pública.
+XIX.- Expedir los documentos, constancias o credenciales de identificación a los servidores públicos del Poder Ejecutivo del Estado que les permita acreditar tal carácter.
 
 > <small>(F. DE E., P.O. 16 DE OCTUBRE DE 1993)</small>
 
@@ -473,7 +515,25 @@ XVII.- Designar Auditores Externos, así como normar y controlar su actividad co
 
 XVIII.- Establecer, coordinadamente con las Dependencias y Entidades, un Programa de Modernización Administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo.
 
-XIX.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XIX.- Proponer, previo Acuerdo del Gobernador del Estado, la organización interna de las Dependencias y entidades de la Administración Pública.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+
+XX.- Elaborar y establecer programas de mejoramiento administrativo en coordinación con las dependencias y entidades de la Administración Pública, revisando permanentemente los sistemas, métodos y procedimientos de trabajo.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+
+XXI.- Elaborar con la participación de las dependencias y entidades, el Manual General de Organización de la Administración Pública, así como los manuales de procedimientos y de servicios al público.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1996)</small>
+
+XXII.- Reglamentar el desarrollo de sistemas de informática.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 1996)</small>
+
+XXIII.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
 ###### ARTICULO 25.
 
@@ -697,6 +757,30 @@ XIX.- Apoyar y supervisar el ejercicio de la Medicina Tradicional.
 
 XX.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
+
+###### ARTICULO 29 Bis.
+
+A la Secretaría Técnica del Poder Ejecutivo, corresponde el despacho de los siguientes asuntos:
+
+I.- Apoyar técnicamente las labores del Gobernador del Estado.
+
+II.- Definir el sistema de información gubernamental.
+
+III.- Fungir como Secretario Técnico de los gabinetes, económico, social y político, de seguridad y demás, dando seguimiento a los compromisos que de ellos emanen.
+
+IV.- Atender y dar seguimiento permanente a los acuerdos y compromisos del Gobernador del Estado con los sectores público, social y privado de los ámbitos local y federal.
+
+V.- Evaluar permanentemente la gestión desarrollada por las Dependencias y Entidades de la Administración Pública Estatal, así como proponer las estrategias y políticas de acción para su fortalecimiento.
+
+VI.- Coordinar y supervisar los Programas de Atención Ciudadana a cargo de las Dependencias de la Administración Pública y la operación de los Programas de Audiencias Públicas a cargo del Gobernador del Estado.
+
+VII.- Definir previo Acuerdo del Gobernador del Estado, la política de comunicación social del Gobierno del Estado y ejecutar las acciones que de ella se desprendan.
+
+VIII.- Definir previo Acuerdo del Gobernador del Estado los criterios y políticas de descentralización estatal, coordinando los procesos respectivos con las diferentes Dependencias y Entidades de la Administración Pública.
+
+IX.- Los demás que le confieren las leyes, decretos, acuerdos, reglamentos u otras disposiciones jurídicas aplicables.
+
 ### CAPITULO IV
 
 De las Delegaciones Regionales de Gobierno.
@@ -878,3 +962,17 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 25 DE MARZO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación, en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 1996.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- Para efectos presupuestales y administrativos a que haya lugar, dentro del plazo de ocho días hábiles contados a partir de la vigencia de este Decreto, la Secretaría de Finanzas realizará los ajustes y traspasos presupuestales correspondientes.
+
+TERCERO.- Los recursos humanos, financieros y materiales con que cuenta las Unidades Administrativas dependientes de la Secretaría de Administración, así como los de la Coordinación General de Comunicación Social y Relaciones Públicas y de la Secretaría Técnica del C. Gobernador, cuyas funciones se transfieren por virtud de este Decreto, a la Contraloría General y a la Secretaría Técnica del Poder Ejecutivo, pasarán a formar parte respectivamente de éstas últimas a fin de apoyar el cumplimiento de los programas y metas que le corresponden.
+
+De esta transferencia queda excluida la Dirección de Relaciones Públicas.
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de la Secretaría de Administración, a la Contraloría General y de la Coordinación General de Comunicación Social y Relaciones Públicas y de la Secretaría Técnica del C. Gobernador a la Secretaría Técnica del Poder Ejecutivo, se respetarán conforme la Ley.
+
+QUINTO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
