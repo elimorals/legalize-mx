@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-9887"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2002-09-28"
+last_updated: "2002-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -2073,9 +2073,9 @@ LOS CAREOS DE LOS TESTIGOS ENTRE SI Y CON EL INCULPADO O DE AQUELLOS Y ESTE CON 
 
 CUANDO POR ALGUNA CIRCUNSTANCIA SE HUBIERA OMITIDO EN LA INSTRUCCION LA PRACTICA DE LOS CAREOS A QUE SE REFIERE ESTE ARTICULO, PODRAN PRACTICARSE DESPUES EN CUALQUIER ESTADO DEL PROCESO HASTA ANTES DE DICTARSE SENTENCIA DEFINITIVA EN PRIMERA INSTANCIA.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
-CUANDO LA VICTIMA O EL OFENDIDO SEAN MENORES DE EDAD, NO ESTARAN OBLIGADOS A CAREARSE CON EL INCULPADO CUANDO SE TRATE DE LOS DELITOS DE VIOLACION O SECUESTRO.
+SI LA VICTIMA O EL OFENDIDO SON MENORES DE EDAD, NO ESTARAN OBLIGADOS A CAREARSE CON EL INCULPADO CUANDO SE TRATE DE LOS DELITOS DE VIOLACION O DE SECUESTRO. EN ESTOS CASOS, REALIZADA POR LA DEFENSA LA SOLICITUD RESPECTIVA, EL JUZGADOR DARA VISTA A LA VICTIMA Y A SU LEGITIMO REPRESENTANTE, A FIN DE QUE MANIFIESTEN SI ES SU DESEO CAREARSE; EN CASO DE NEGATIVA, EL INCULPADO TENDRA DERECHO A HACER LAS MANIFESTACIONES QUE ESTIME PROCEDENTES SOBRE LOS ASPECTOS EN QUE NO COINCIDA SU DECLARACION CON LA DE LA VICTIMA. ESTA, SI LO DESEA, PODRA HACER LO MISMO EN DILIGENCIA POR SEPARADO.
 
 ###### ARTICULO 326.
 
@@ -4010,3 +4010,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En los delitos con anterioridad a la vigencia de la presente reforma, si los responsables tenían derecho a la libertad provisional bajo caución o a cualquier otro beneficio, seguirán gozándolos, aún cuando en adelante sean considerados graves.
+
+P.O. 9 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
