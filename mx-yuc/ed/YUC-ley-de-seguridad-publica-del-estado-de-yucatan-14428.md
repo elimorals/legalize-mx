@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-publica-del-estado-de-yucatan-14428"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "1999-05-15"
+last_updated: "2004-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO: 31 DE MAYO DE 2004.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 15 de mayo de 1999.
 
@@ -645,155 +645,65 @@ El Consejo Estatal promoverá que las instituciones de seguridad pública en el 
 
 Los particulares están obligados a colaborar con las autoridades competentes en las tareas vinculadas a la prevención y combate de la comisión de delitos e infracciones, así como de participar en los programas y actividades que las mismas realicen en materia de seguridad pública.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE MAYO DE 2004)</small>
+
 ### CAPÍTULO II. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### ARTÍCULO 61.
 
-Los particulares, tanto personas físicas como morales, podrán prestar servicios de seguridad privada, ajustándose a lo establecido en esta Ley y su reglamento.
-
-Se entiende por servicios de seguridad privada, el que prestan las personas físicas y morales, con objeto de brindar protección a los bienes de los particulares, custodia de personas y vigilancia a los establecimientos comerciales o de cualquier otra índole.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 62.
 
-Para los efectos de esta Ley, los servicios de seguridad privada, únicamente podrán prestarse para:
-
-I. La protección y el traslado de fondos y valores;
-
-II. La vigilancia de bienes muebles e inmuebles;
-
-III. Investigaciones, siempre que no lesionen los derechos de los terceros;
-
-IV. La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y
-
-V. La custodia de personas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 63.
 
-Los prestadores de servicios de seguridad privada, para obtener su registro en el Estado deberán cumplir con los siguientes requisitos:
-
-I. Presentar solicitud de registro, en formatos que serán proporcionados por la autoridad competente;
-
-II. Presentar copia certificada de:
-
-a). Escritura constitutiva y sus últimas reformas, si es persona moral;
-
-b). Acta de nacimiento, si se trata de personas físicas;
-
-c). Decreto o acto jurídico constitutivo, si se trata de organismos descentralizados o empresas de participación estatal;
-
-d). Cédula de Registro Federal de Contribuyentes, expedida por la Secretaría de Hacienda y Crédito Público.
-
-e). En su caso, registro de cada arma que use en servicio así como la licencia de portación de armas expedidos por la Secretaría de la Defensa Nacional, de conformidad con lo señalado en la Ley Federal de Armas de Fuego y Explosivos y demás ordenamientos legales aplicables; y
-
-f). En su caso, permiso de instalación del equipo de radiocomunicación que se use en el servicio y del uso de la frecuencia respectiva, expedidos por la Secretaría de Comunicaciones y Transportes.
-
-III. Presentar modelo de contrato de prestación de servicios; aprobado por la Procuraduría Federal del Consumidor;
-
-IV. Presentar un ejemplar de su reglamento, manual o bases operativas;
-
-V. Presentar formato original de la credencial, que expidan para la identificación de su personal;
-
-VI. Indicar su domicilio y el de sus oficinas auxiliares o sucursales, en caso de tenerlas en el Estado;
-
-VII. En caso de tener su domicilio social en algún otro Estado de la República y pretenda prestar servicios en la entidad; deberán abrir una sucursal en el Estado y expresar su domicilio;
-
-VIII. Lista del personal conteniendo: nombre completo, domicilio, registro federal de contribuyentes del personal y certificado que acredite no estar sujeto o haber sido sentenciado por delito intencional;
-
-IX. Relación de bienes inmuebles y muebles que se empleen para el servicio, incluyendo vehículos expresando marca, tipo, modelo, números de serie del motor, de la carrocería y de la placa de circulación; armas, anotando el tipo, calibre modelo y matrícula, así como el equipo de radiocomunicación;
-
-X. Descripción de los colores e insignias y cualquier aditamento adicional que pretendan emplear en sus vehículos;
-
-XI. Fotografía a color de cada uno de los elementos que integran al personal, de frente, de perfil y de cuerpo entero, y del uniforme que se utilice en el servicio, así como sus accesorios; y
-
-XII. Los demás que señale el reglamento y otros ordenamientos legales aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 64.
 
-La Procuraduría General de Justicia, recibirá la solicitud presentada por los prestadores de Servicios de Seguridad Privada para obtener su registro, mismo que otorgará en un plazo de 30 días a partir de la fecha de que se hayan satisfecho todos los requisitos.
-
-En caso contrario, se les notificará la negativa y se dará difusión pública a esta resolución después de haber causado ejecutoria.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 65.
 
-Los prestadores de servicios de seguridad privada, a quienes se les haya otorgado su registro y la constancia del mismo, deberán cumplir con las siguientes obligaciones:
-
-I. Dar aviso por escrito de las modificaciones que se realicen a su acta constitutiva;
-
-II. Dar aviso por escrito de cualquier cambio de accionistas o socios en un plazo no mayor de treinta días naturales;
-
-III. Dar aviso de inmediato, por escrito o por medio de registros computarizados, de las altas y bajas mensuales del personal a su cargo, proporcionando la relación actualizada del mismo, con el registro federal de contribuyentes;
-
-IV. Comunicar semestralmente por escrito o por medio de registros computarizados, las altas y bajas del equipo y material que utilice en la prestación del servicio, proporcionando las principales características del mismo, incluyendo unidades móviles;
-
-V. Comunicar por escrito y acreditar cualquier modificación a los permisos, autorizaciones o licencias, que en su caso hayan expedido las Autoridades competentes, respecto del registro de portación de armas, traslado de fondos y valores, uso de frecuencia en equipos de radiocomunicación, capacitación y adiestramiento, así como cambios de domicilio;
-
-VI. Colaborar con la Procuraduría General de Justicia del Estado en el levantamiento de cuestionarios personales, identificación fotográfica y de dactiloscopía del personal operativo; así como proporcionar toda la información que le sea solicitada;
-
-VII. Comunicar por escrito cualquier suspensión de labores, así como la disolución o liquidación de la empresa, en su caso, anexando copia certificada de los avisos dados a las autoridades fiscales y laborales, según el caso;
-
-VIII. Permitir y facilitar las visitas domiciliarias y el levantamiento de las actas conducentes que, en cualquier caso, considere necesario efectuar la Procuraduría General de Justicia u otra dependencia competente, así como la Secretaría de Protección y Vialidad del Estado, con objeto de verificar el estricto cumplimiento de las disposiciones contenidas en esta Ley y en otros ordenamientos legales aplicables;
-
-IX. Colaborar con su personal de mando y operativo, así como con el equipo destinado a los servicios que presta, en la ejecución de acciones encaminadas a auxiliar a la población en caso de desastres o emergencias, y en otras tareas sociales que le encomiende la Procuraduría General de Justicia; y
-
-X. Las demás que le señalen esta Ley y demás ordenamientos legales aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 66.
 
-Los prestadores de servicios de seguridad privada someterán a la aprobación de la Procuraduría General de Justicia, las solicitudes presentadas por las personas que pretendan ser contratadas por ellos. Tal aprobación se otorgará en los casos en que no se encuentren antecedentes penales por delitos intencionales de dichas personas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 67.
 
-La constancia de registro deberá colocarse en lugar visible de las oficinas e instalaciones principales del prestador de servicios, y tendrá la obligación de señalar el número de registro asignado en toda la documentación dirigida a los usuarios del servicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 68.
 
-Los prestadores de servicios de seguridad privada que incurran en una omisión respecto de la entrega de la información o de la realización de una actividad solicitada por la Procuraduría General de Justicia, contarán con un plazo máximo e improrrogable de 30 días hábiles para entregar documentos o la información que obre o deba obrar en su poder. Tratándose de obligaciones de hacer, esto es rectificar, modificar, sustituir, o suprimir disposiciones contractuales o normativas de la operación cotidiana del prestador, o cualquiera otra actividad solicitada por la Procuraduría, ésta fijará el plazo para la realización, de acuerdo a la naturaleza de la actividad requerida.
-
-En caso de que los prestadores de servicios no proporcionen la colaboración e información requeridas se harán acreedores a las sanciones establecidas en esta Ley y otros ordenamientos legales aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 69.
 
-Las personas físicas o morales que presten servicios de seguridad privada deberán sujetarse a los siguientes lineamientos:
-
-I. Queda estrictamente prohibida la realización de actividades propias de la Secretaría de Protección y Vialidad, de la Procuraduría General de Justicia del Estado y de las demás corporaciones policiales que funcionen en el Estado;
-
-II. No podrán utilizar las denominaciones de policía o agentes en su publicidad, documentos o bienes, debiendo identificarse únicamente como elementos de servicios de seguridad privada;
-
-III. Queda estrictamente prohibido a los elementos de servicios de seguridad privada, usar el escudo nacional, del Estado, y de los Municipios así como logotipo, lemas, uniformes e insignias de las corporaciones de seguridad pública del Estado;
-
-IV. Unicamente podrán prestar sus servicios a las personas que acrediten fehacientemente la legítima posesión o propiedad de los bienes sujetos a protección;
-
-V. Deberán de rendir un informe pormenorizado de sus actividades cuando sea requerido por la autoridad correspondiente; y
-
-VI. Deberán cumplir con todos los requisitos que marque esta Ley y demás ordenamientos legales aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 70.
 
-La Procuraduría General de Justicia del Estado es la instancia facultada para vigilar que los prestadores de servicios de seguridad privada cumplan lo dispuesto en esta Ley y otros ordenamientos legales aplicables. Anualmente, en el mes de enero, estos prestadores deberán refrendar su registro en la Procuraduría General de Justicia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 71.
 
-El personal que preste servicios de seguridad privada en los casos de detención realizada en flagrante delito, durante el ejercicio de sus funciones, deberá poner sin demora a disposición de la autoridad competente al probable responsable y a sus cómplices, si los hubiere.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 72.
 
-El incumplimiento de las obligaciones establecidas en esta Ley, por parte de los prestadores de servicios de seguridad privada, independientemente de las responsabilidades civiles o penales en que pudieran incurrir, dará lugar a las siguientes sanciones por parte de la Procuraduría:
-
-I. Amonestación;
-
-II. Suspensión temporal del registro hasta por un plazo de treinta días naturales.
-
-En los casos en que la autoridad competente lo estime conveniente, podrá difundir públicamente la sanción de suspensión temporal impuesta a los prestadores de servicios de seguridad privada; y
-
-III. Cancelación definitiva del registro, con difusión pública de dicha cancelación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 73.
 
-Las sanciones anteriormente señaladas, deberán tomarse en orden sucesivo. Detectada la anomalía, la Procuraduría, por escrito, la hará del conocimiento del prestador para que éste aporte en la fecha que se le señale las pruebas que estime conducentes y en un plazo de 10 días naturales, la Procuraduría dictará la resolución que proceda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ###### ARTÍCULO 74.
 
-Los prestadores de servicios de seguridad privada, deberán elaborar cada año el Programa de Capacitación y Adiestramiento para su personal y presentarlo para su aprobación a la Procuraduría General de Justicia del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN, D.O. 31 DE MAYO DE 2004)
 
 ### CAPITULO III. DE LOS COMITÉS CIUDADANOS Y LOS COMISARIOS DE MANZANA
 
@@ -892,3 +802,17 @@ C. VICTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 31 DE MAYO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+SEGUNDO.- Se deroga el Capítulo II de la Ley de Seguridad Pública del Estado de Yucatán, publicada el quince de mayo de mil novecientos noventa y nueve en el Diario Oficial del Gobierno del Estado.
+
+TERCERO.- Se concede a los prestadores de servicios de seguridad privada que aún no cuentan con registro, un plazo de noventa días naturales para que presenten su solicitud de registro ajustada a los requisitos que se señalan en esta Ley.
+
+CUARTO.- Los derechos que se pagarán por concepto de autorización y registro y por revalidación del permiso para prestar los servicios de seguridad a que se refiere a presente ley, será la cantidad equivalente a veinte veces el salario mínimo general diario vigente en el Estado, hasta en tanto se precisen en la Ley de Hacienda del Estado de Yucatán.
+
+QUINTO.- A partir del inicio de la vigencia de este Decreto y hasta el treinta y uno de diciembre del presente año, los ingresos que se perciban por concepto de la aplicación de la presente Ley, se considerarán parte integrante de la Ley de Ingresos del Estado de Yucatán para el Ejercicio Fiscal 2004.
