@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2002-08-30"
+last_updated: "2003-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -805,7 +805,7 @@ Toda resolución de la Legislatura que tenga carácter de Ley o decreto se comun
 
 ###### ARTICULO 75.
 
-Son facultades de la Legislatura del Estado:
+Son facultades de la Legislatura del Estado.
 
 I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a los funcionarios federales.
 
@@ -1261,7 +1261,7 @@ III.- Tener modo honesto de vivir.
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 96.
 
@@ -1281,123 +1281,267 @@ El Procurador General de Justicia podrá ser removido libremente por el Gobernad
 
 ### CAPITULO I. Del Patrimonio
 
-###### Artículo 97.
+###### ARTICULO 97.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, en Tribunales Unitarios, Juzgados de Primera Instancia, Juzgados de Paz y en los demás órganos auxiliares de la Administración de Justicia que señale la Ley Orgánica respectiva.
+Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, en los Juzgados de Primera Instancia, Juzgados de Paz y en los demás órganos auxiliares de la administración de justicia que señale la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de las leyes respectivas, con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, de las controversias jurídicas que se susciten entre el Estado y particulares, entre los Municipios, entre los Municipios y los particulares, así como entre particulares.
 
-El Sistema de Justicia Indígena se regirá en los términos establecidos por esta Constitución y la ley reglamentaria respectiva.
+La administración, vigilancia, disciplina y carrera judicial del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado, en los términos que conforme a las bases que señale esta constitución, establezca la ley.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+El Tribunal Superior de Justicia del Estado, tendrá la obligación de proporcionar a los particulares, los medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación. La ley establecerá las facultades e integración de la institución que brindará estos servicios a los particulares, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Esta institución brindará, además, servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos.
+
+El Sistema de Justicia Indígena se regirá en los términos establecidos por esta Constitución y la Ley reglamentaria respectiva.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 98.
 
-Corresponde a los Tribunales y Juzgados del Estado conocer en los términos de las leyes respectivas, con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, de las controversias jurídicas que se susciten entre el Estado y uno o más de sus municipios, entre los municipios, entre el Estado y los particulares, así como entre los municipios y los particulares.
+El Tribunal Superior de Justicia se integra por nueve Magistrados numerarios y el número de supernumerarios que determine la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+El Pleno del Tribunal se integrará solamente con los Magistrados numerarios, con la excepción señalada en el cuarto párrafo del artículo de 110 de esta Constitución.
+
+Las salas se organizarán por materia o por circuitos, mismas que tendrán la competencia y jurisdicción que establezca el Pleno del Tribunal Superior de Justicia, escuchando la opinión del Consejo de la Judicatura; igual procedimiento se seguirá para la determinación de los distritos judiciales y el establecimiento de los juzgados de primera instancia y de paz.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 99.
 
-La función jurisdiccional es exclusiva de los Tribunales y Juzgados del Estado, que estarán a cargo de Magistrados y Jueces, los que actuarán de manera colegiada o unitaria, según lo determine la Ley, quienes en el ejercicio de su función actuarán sin más sujeción que a las leyes, la equidad y los principios generales del Derecho.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto una sola vez. Cada sala colegiada elegirá a su propio presidente en la primera sesión del año.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+La Presidencia del Tribunal tendrá la representación legal del mismo, pero en todo caso requerirá del acuerdo del Pleno.
+
+En las ausencias temporales y en las definitivas del Magistrado Presidente será sustituido por el Magistrado Numerario que designe el Pleno; en el primer caso no podrán exceder de un mes.
+
+En los casos de ausencia temporal menor a treinta días hábiles, de algún Magistrado diferente a la figura del Presidente dentro del Pleno del Tribunal Superior de Justicia, éste último, elegirá dentro de los Magistrados supernumerarios quien supla al Magistrado numerario ausente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 100.
 
-El Tribunal Superior de Justicia es titular del Poder Judicial de Estado. Se integra con los Magistrados de número y supernumerarios que determine la Ley Orgánica del Poder Judicial, los cuales serán designados en los términos de esta Constitución.
+Esta Constitución garantiza la independencia de los Magistrados del Tribunal Superior de Justicia y jueces en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
+
+Los Magistrados y jueces designados durarán en su encargo un periodo de seis años, podrán ser reelectos por una sola vez, y, si lo fueren, solo podrán ser separados en los términos que señala el Titulo Octavo de esta Constitución.
+
+Los Magistrados, jueces y consejeros de la judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
+
+Los Magistrados del Poder Judicial del Estado rendirán protesta ante el Congreso del Estado; los jueces ante el Pleno del Tribunal Superior de Justicia y los demás servidores del Poder Judicial ante el Consejo de la Judicatura.
+
+Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 101.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-I.- Ser ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles.
+I. Ser Ciudadano Quintanarroense, en ejercicio de sus derechos políticos y civiles.
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección.
+II. No tener menos de treinta y cinco años de edad el día de la designación.
 
-III.- Poseer el día de la elección con antigüedad mínima de 10 años título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello, y debidamente registrado.
+III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho y Cédula Profesional, expedido por la autoridad o institución legalmente facultada para ello.
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena coroporal (sic) de más de un año de prisión; pero si se tratase de robo, fraude, falsificación o abuso de confianza u otro que lastime seriamente la buena forma (sic) en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-V.- No ser ministro de ningún culto religioso.
+V. Haber residido en el Estado durante los diez años anteriores al día de la designación.
 
-Los Magistrados designados durarán en su encargo un periodo de seis años, podrán ser reelectos y sólo podrán ser separados en los términos que señala el título octavo de esta Constitución.
+VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación. y
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
+
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+
+Los jueces de primera instancia y de paz deberán reunir los mismos requisitos que se establecen para ser Magistrado, con excepción de la edad que deberá ser de veintiocho años por lo menos, y del título y de la cédula profesional que deberá tener una antigüedad mínima de cinco años al día de su nombramiento.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 102.
 
-Corresponde a la Legislatura del Estado o la Diputación Permanente en su caso, nombrar a los Magistrados del Tribunal Superior de Justicia, de acuerdo al siguiente procedimiento:
+Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
 
-El Pleno del Tribunal Superior de Justicia presentará las propuestas de nombramiento de Magistrados ante la Legislatura del Estado o Diputación Permanente, según corresponda, las que serán aprobadas o desechadas en el improrrogable término de diez días.
+I. El Gobernador del Estado someterá una terna a la consideración del Congreso del Estado, quien previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de las dos terceras partes de sus miembros, dentro del plazo de quince días naturales;
 
-Si la Legislatura o la Diputación Permanente no resolvieren dentro del plazo fijado en el párrafo anterior, se tendrán por aprobados los nombramientos y los designados entrarán a desempeñar sus funciones.
+II. Si el Congreso del Estado no resolviere en el término señalado, rechace la terna o no alcance la votación requerida, el Gobernador dentro de los quince días posteriores propondrá una nueva terna;
 
-De no ser aprobada la primera propuesta de nombramiento, el Pleno del Tribunal Superior de Justicia hará una segunda propuesta.
+III. Si presentada la segunda terna, El Congreso del Estado la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión realizará la designación de entre los integrantes de la segunda terna.
 
-En caso de no ser aprobadas dos propuestas sucesivas respecto a una misma vacante, el Pleno del Tribunal hará una tercera propuesta, que surtirá efectos desde luego como provisional y será sometido a la aprobación de la Legislatura del Estado en el período inmediato siguiente.
+En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con carácter de provisional, en tanto aquella se reúne y emite la aprobación definitiva.
 
-Dentro de los primeros diez días del siguiente período ordinario de sesiones de la Legislatura del Estado, se deberá aprobar o rechazar el nombramiento, si no se resuelve, el Magistrado provisionalmente nombrado continuará en sus funciones con el carácter definitivo.
+Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa del Congreso del Estado.
 
-Si la Legislatura del Estado desecha la propuesta, cesará desde luego en sus funciones el Magistrado provisional, y el Pleno del Tribunal Superior presentará una nueva propuesta en los términos que se indican en este precepto.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 103.
 
-(DEROGADO, P.O. 17 DE JULIO DE 2002)
+Corresponde al Pleno del Tribunal Superior de Justicia, el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+I. Iniciar leyes o decretos inherentes a la impartición de justicia;
+
+II. Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
+
+III. Elegir al Magistrado Presidente del Tribunal Superior de Justicia del Estado;
+
+IV. Elegir al Magistrado que integrará el Consejo de la Judicatura del Estado.
+
+V. Conocer de las recusaciones con causa y de las excusas de los Magistrados;
+
+VI. Aprobar las licencias temporales que para separarse del cargo presenten los Magistrados;
+
+VII. Expedir en el ámbito de su competencia, el Reglamento Interior del Tribunal Superior de Justicia, remitiéndolo al Periódico Oficial del Gobierno del Estado para su publicación;
+
+VIII. Resolver las controversias constitucionales, acciones de inconstitucionalidad local y las acciones por omisión legislativa, en términos de los artículos 104 y 105 de esta Constitución y conforme al procedimiento que establezca la Ley respectiva;
+
+IX. Resolver sobre las contradicciones entre las tesis contenidas en las resoluciones de las salas o de los juzgados, en los términos que disponga la ley respectiva;
+
+X. Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial que le presente el Consejo de la Judicatura;
+
+XI. Asignar a las salas correspondientes los Magistrados numerarios y supernumerarios.
+
+XII. Las demás que le confieran esta Constitución y las leyes.
+
+En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas y por excepción privada en los casos en que así lo exijan la moral o el interés público.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 104.
 
-Los Magistrados del Tribunal Superior de Justicia, deberán otorgar la protesta de ley ante la Legislatura del Estado y en los recesos de ésta ante la Diputación Permanente.
+El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 105.
 
-El Pleno del Tribunal Superior de Justicia, en escrutinio secreto, en la primera sesión que se celebre durante el mes de agosto del año de la designación, nombrará, de entre los Magistrados al Presidente del Tribunal Superior de Justicia del Estado, quien durará tres años en su encargo, pudiendo ser reelecto.
+Para el cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de esta Constitución, el Tribunal Superior de Justicia contará con una Sala Constitucional y Administrativa, integrada por un Magistrado numerario, que tendrá competencia para substanciar y formular, en los términos de la Ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+I. De las Controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:
+
+A) El Poder Ejecutivo y el Poder Legislativo.
+
+B) El Poder Ejecutivo y uno de los municipios.
+
+C) El Poder Legislativo y uno de los municipios.
+
+D) Dos o más municipios del Estado.
+
+Para que la controversia constitucional proceda, el actor deberá acreditar el interés jurídico.
+
+La ley establecerá el plazo para la interposición de la demanda y los casos en que proceda la suspensión del acto que las motive. La suspensión no podrá otorgarse cuando se demande la invalidez de disposiciones generales.
+
+La misma ley establecerá las condiciones para que tengan efectos generales, las resoluciones sobre controversias que impugnen la validez constitucional de disposiciones generales.
+
+II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral, siempre que se ejerzan dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
+
+A) Cuando menos la tercera parte de los miembros del Congreso del Estado;
+
+B) El Procurador General de Justicia del Estado, en contra de leyes de carácter estatal;
+
+La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia solo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por cuando menos las dos terceras partes del Pleno, y no tendrán efectos retroactivos, salvo en materia penal.
+
+III. De las acciones por omisión legislativa, cuando se considere que el Congreso del Estado no ha resuelto sobre la expedición de alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
+
+A) El Gobernador del Estado; o
+
+B) Un Ayuntamiento del Estado.
+
+La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+En dicha resolución se determinará un plazo para que se expida la ley o decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente del Congreso del Estado; pudiendo disminuir este plazo cuando el interés público lo amerite.
+
+La Sala Constitucional y Administrativa, de oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IX del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 106.
 
-La Ley Orgánica del Poder Judicial regulará la organización, funcionamiento y competencia del Tribunal Superior de Justicia, de los Tribunales y de los Juzgados, determinará los requisitos que deban reunir los Magistrados y jueces de los otros órganos jurisdiccionales del Estado, así como las condiciones para el ingreso, formación y permanencia de su personal.
+La Sala Constitucional y Administrativa conocerá y resolverá de los recursos o medios de defensa que la ley señale como de su competencia, que tengan por objeto dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal:
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+I. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;
+
+II. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los municipios, cuando actúen con el carácter de autoridades;
+
+III. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;
+
+IV. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;
+
+V. De los juicios en contra de resoluciones negativas ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por él o los demandantes, a menos que las leyes fiscales fijen otros plazos;
+
+VI. De los juicios en que se demande la resolución positiva ficta, cuando la establezca expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;
+
+VII. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la positiva ficta, cuando así lo establezcan las leyes;
+
+VIII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los ayuntamientos;
+
+IX. De los demás que expresamente señalen esta Constitución y la ley.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 107.
 
-Para el ejercicio de la función jurisdiccional, el territorio del Estado se dividirá en Distritos Judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la Ley Orgánica respectiva.
+La Sala Constitucional y Administrativa será competente para conocer y resolver, en única instancia, de las resoluciones del Ministerio Público sobre la reserva de la averiguación previa, el no ejercicio de la acción penal y las resoluciones de sobreseimiento que dicten los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público.
 
-La misma ley señalará los Distritos Judiciales que estarán comprendidos dentro de la jurisdicción de los Tribunales Unitarios.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 108.
 
-El Tribunal Superior de Justicia proporcionará a los particulares medios alternativos de solución a sus controversias jurídicas, tales como la conciliación o el arbitraje, de acuerdo a procedimientos de mediación. La ley establecerá las facultades e integración de la Institución que brindará estos servicios, así como los procedimientos y eficacia de sus acuerdos y resoluciones. Esta institución brindará servicios de defensoría de oficio y de asistencia jurídica a sectores sociales desprotegidos.
+El Consejo de la Judicatura será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones. De conformidad con la ley, el Consejo estará facultado para expedir reglamentos y disposiciones de carácter general para el adecuado ejercicio de sus funciones.
+
+El Pleno del Tribunal Superior de Justicia podrá solicitar la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional. El mismo Pleno también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos siete votos.
+
+En los demás casos, las determinaciones del Consejo de la Judicatura serán definitivas e inatacables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 109.
 
-(DEROGADO, P.O. 17 DE JULIO DE 2002)
+El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones, en los términos que señalen la ley y el reglamento que expida el propio Consejo.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
+Invariablemente en Pleno, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de jueces de primera instancia y de paz.
+
+En comisiones ejercerá las funciones de administración, carrera judicial, disciplina y la de adscripción.
+
+Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la ley orgánica y en su reglamento interior.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO II. De la Hacienda Pública
 
 ###### ARTICULO 110.
 
-Ningún servidor público del Poder Judicial podrá servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia.
+El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado numerario nombrado por el Pleno del Tribunal Superior de Justicia; un juez de primera instancia nombrado por el colegio de jueces, de entre quienes tengan mayor antigüedad; y dos Consejeros Ciudadanos elegidos por las dos terceras partes del Congreso del Estado, quienes deberán reunir los mismos requisitos para ser Magistrados del Tribunal Superior de Justicia del Estado.
+
+Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán ser nombrados, de entre los catedráticos de las escuelas o facultades de derecho, o de entre quienes se hayan distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
+
+Los Consejeros no representarán a quienes los designan y ejercerán su función con independencia e imparcialidad.
+
+El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia; ni el juez que ocupe el mismo cargo ejercerá funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
+
+Los consejeros nombrados por el Congreso del Estado durarán en su cargo cinco años; y solo podrán ser removidos en términos del Titulo Octavo de esta Constitución.
+
+Los integrantes del Consejo de Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
+
+El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 111.
 
-(DEROGADO, P.O. 17 DE JULIO DE 2002)
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia.
+
+El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
+
+La Cuenta Pública del Poder Judicial del Estado será revisada por el Congreso del Estado, en los términos de esta Constitución y las leyes aplicables y comprenderá los recursos del Poder Judicial considerados en el Fondo para Mejoramiento en la Administración e Impartición de Justicia.
+
+La ley establecerá las bases para el manejo de dicho Fondo.
 
 ## TITULO QUINTO. De la División de Poderes
 
-### CAPITULO I. Concepto y Fines
+### CAPITULO I. De la División Política, Administrativa y Territorial del Estado
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 112.
 
@@ -1425,9 +1569,9 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 Los bienes de dominio privado del Estado son los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, por cualesquiera formas de adquisición de la propiedad, no previstos en el artículo precedente.
 
-### CAPITULO II. De la Extensión, Límites y Cabeceras
+### CAPITULO II. Del Gobierno Municipal
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 115.
 
@@ -1487,707 +1631,533 @@ El Secretario encargado de la hacienda pública del Estado remitirá anualmente 
 
 ## TITULO SEXTO. Del Patrimonio y Hacienda Pública del Estado
 
-### CAPITULO III. De la Creación, Supresión y Asociación de Municipios
+### CAPITULO III. De la Autonomía Municipal
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 126.
 
-El Municipio Libre, es una entidad de carácter público dotada de personalidad jurídica y patrimonio propio, autónoma en su régimen interior y con libre administración de su hacienda.
+El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado de Quintana Roo; es una institución de carácter público, constituída por una comunidad de personas, establecida en el territorio que le señala a cada uno de ellos la presente Constitución, con personalidad jurídica y patrimonio propio, autónomo en su gobierno interior y libre en la administración de su hacienda.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 127.
 
-Cada municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos determinados en el Artículo 145 de esta Constitución. La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al Gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres y Solidaridad.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 128.
 
-Los Municipios podrán tener representación en los organismos oficiales, federales y estatales que realicen obras dentro de su circunscripción.
-
-Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
-
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
-
-b) Participar en la creación y administración de sus reservas territoriales.
-
-c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia.
-
-El Estado deberá asegurar la participación de los Municipios en la elaboración de los proyectos de desarrollo regional que lleve a cabo.
-
-d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus jurisdicciones territoriales.
-
-e) Intervenir en la regularización de la tenencia de la tierra urbana.
-
-f) Otorgar licencias y permisos para construcciones.
-
-g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia.
-
-h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
-
-i) Celebrar convenios para la administración y custodia de las zonas federales.
-
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, los Municipios expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
-
-Los Municipios en el ámbito de su competencia sujetándose a las leyes de la materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
-
-###### ARTICULO 129.
-
-El Estado de Quintana Roo, se integra con los siguientes municipios: Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres y Solidaridad.
-
-###### ARTICULO 130.
-
 La extensión, límites y cabeceras de los municipios del Estado son:
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+I. MUNICIPIO DE OTHON P. BLANCO, con cabecera en Chetumal: Al norte, el paralelo que pasa por el extremo suroeste del ejido Altamirano, se continúa con rumbo este por el lindero sur del ejido mencionado, el lindero poniente de los ejidos de Nuevo Israel y Emiliano Zapata, el lindero sur del ejido último mencionado, el lindero sur del Ejido de Petcacab, los linderos poniente, sur y oriente del ejido Nohbec, el lindero norte del ejido de Cafetal, y sobre el paralelo que pasa por la esquina noreste del ejido mencionado, se continúa hasta encontrar la costa del Mar Caribe, al sur el paralelo límite de las Repúblicas de México y Guatemala, el Río Hondo límite de la República de México con Honduras Británicas y las aguas de la Bahía de Chetumal, al este, el Mar Caribe, al este, la Línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al este de Put con coordenadas geográficas de 19 grados 39 minutos y 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala. Igualmente comprenderá el Banco de Chinchorro que integran los cayos Lobos, Norte, Centro y demás cayos e islotes adyacentes a su litoral.
 
-I.- MUNICIPIO DE OTHON P. BLANCO, con cabecera en Chetumal: Al norte, el paralelo que pasa por el extremo suroeste del ejido Altamirano, se continúa con rumbo este por el lindero sur del ejido mencionado, el lindero poniente de los ejidos de Nuevo Israel y Emiliano Zapata, el lindero sur del ejido último mencionado, el lindero sur del Ejido de Peteacab, los linderos poniente, sur y oriente del ejido Nohbec, el lindero norte del ejido de Cafetal, y sobre el paralelo que pasa por la esquina noreste del ejido mencionado, se continúa hasta encontrar la costa del Mar Caribe, al sur el paralelo límite de las Repúblicas de México y Guatemala, el Río Hondo límite de la República de México con Honduras Británicas y las aguas de la Bahía de Chetumal, al este, el Mar Caribe, al este, la Línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al este de Put con coordenadas geográficas de 19 grados 39 minutos y 07 segundos de latitud norte y 89 grados 24 minutos 52 segundo (sic) de longitud oeste de Greenwich, desciende al sur hasta el paralelo límite de la Repúblicas de México y Guatemala. Igualmente comprenderá el Banco de Chinchorro que integran los cayos Lobos, Norte, Centro y demás cayos e islotes adyacentes a su litoral.
+II. MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mismo nombre: Al norte la línea colindante con el Estado de Yucatán que partiendo del punto Put, con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la torre sur de Chemax, 20 kilómetros, al oriente de este punto, en su intersección con el meridiano 88 grados de Greenwich desciende al sureste hasta encontrar al vértice noroeste de la ampliación del ejido de Chuyaxché, sigue por el lindero norte de la ampliación de este ejido con rumbo este, desciende al sur por el lindero poniente y sur del ejido de Tulum y sobre esta línea al interceptar el meridiano de 87 grados 30 minutos de Greenwich desciende al sur hasta encontrar la costa de la Bahía de la Ascención. Al sur el municipio de Othón P. Blanco. Al este las Bahías de la Ascención, del Espíritu Santo y el Mar Caribe. Al oeste partiendo del ángulo suroeste del ejido Altamirano, con rumbo norte se recorre el lindero poniente de los ejidos de Altamirano y Presidente Juárez, el lindero sur y poniente del ejido Santa Lucía, los linderos sur, poniente y norte de la ampliación del ejido Ramonal, el lindero poniente del ejido de Chunhuhub, los linderos poniente y norte de la ampliación del ejido de Polyuc, el lindero poniente y norte de la ampliación del ejido de X-Yatil, el lindero poniente del ejido de X-Pichil, el lindero poniente del ejido de Dzoyolá, el lindero oriente del ejido de X-Cabil, continuando por lindero norte de este ejido prolongándose hasta la línea divisoria con el Estado de Yucatán.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+III. MUNICIPIO DE JOSÉ MARÍA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, 20 kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
 
-II.- MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mismo nombre: Al norte la línea colindante con el Estado de Yucatán que apartiendo (sic) del punto Put, con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la torre sur de Chemax, 20 kilómetros, al oriente de este punto, en su intersección con el meridiano 88 grados de Greenwich desciende al sureste hasta encontrar al vértice noroeste de la ampliación del ejido de Chuyaxche, sigue por el lindero norte de la ampliación de este ejido con rumbo este, desciende al sur por el lindero poniente y sur del ejido de Tulúm y sobre esta línea al interceptar el meridiano de 87 grados 30 minutos de Greenwich desciende al sur hasta encontrar la costa de la Bahía de la Ascención. Al sur el municipio de Othón P. Blanco. Al este las Bahías de la Ascención, del Espíritu Santo y el Mar Caribe. Al oeste partiendo del ángulo suroeste del ejido Altamirano, con rumbo norte se recorre el lindero poniente de los ejidos de Altamirano y Presidente Juárez, el lindero sur y poniente del ejido Santa Lucía, los linderos sur, poniente y norte de la ampliación del ejido Ramonal, el lindero poniente del ejido de Chunhuhub, los linderos poniente y norte de la ampliación del ejido ejido de Polyuc, el lindero poniente y norte de la ampliación del ejido de X-Yatil, el lindero poniente del ejido de X-Pichil, el lindero poniente del ejido de Dzoyolá, el lindero oriente del ejido de X-Cabil, continuando por lindero norte de este ejido prolongándose hasta la línea divisoria con el Estado de Yucatán.
+IV. MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes. Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1, 971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III. Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
 
-III.- MUNICIPIO DE JOSE MARIA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, doscientos metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, veinte kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, doscientos metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
+V. MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
+VI. MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al norte, el paralelo que pasa 200 metros al sur del faro de la Punta del Meco. Al sur, el municipio de Solidaridad y el Mar Caribe. Al este, el Mar Caribe y al oeste, el municipio de Lázaro Cárdenas. Quedan en su jurisdicción la isla de Cancún y cayos adyacentes.
 
-IV.- MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes.
+VII. MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
 
-Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1,971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III.
-
-Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
-
-V.- MUNICIPIO DE LAZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
-
-VI.- MUNICIPIO DE BENITO JUAREZ, con cabecera en Cancún: Al norte, el paralelo que pasa 200 metros al sur del faro de la Punta del Meco. Al sur, el municipio e Solidaridad y el Mar Caribe. Al este, el Mar Caribe y al oeste, el municipio de Lázaro Cárdenas. Quedan en su jurisdicción la isla de Cancún y cayos adyacentes.
-
-VII.- MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
-
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 1993)</small>
-
-VIII.- MUNICIPIO SOLIDARIDAD, con cabecera en la ciudad de Playa del Carmen. Al norte, partiendo del paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto se continúa con rumbo este sobre el paralelo hasta encontrar el lindero poniente del Ejido Tres Reyes, se dobla al sur para seguir el lindero poniente y sur del Ejido Paachaeen hasta encontrar el lindero sur del ejido San Juan de Dios, continuando al este sobre el lindero mencionado hasta encontrar el vértice sureste de este ejido, de aquí se continúa por el paralelo que pasa por este lugar con rumbo este, hasta encontrar el lindero del Ejido Playa del Carmen, se continúa al norte sobre el lindero mencionado y al encontrar el vértice norte de este Ejido se continúa por el paralelo del lugar hasta encontrar el vértice suroeste del ejido de Puerto Morelos, se continúa al este sobre el lindero del Ejido hasta encontrar el límite del fundo legal de Puerto Morelos, se continúa al sur hasta salir a la costa del Mar Caribe, por el sur, con el Municipio de Felipe Carrillo Puerto, por el este, el Mar Caribe, y por el oeste el Municipio de Felipe Carrillo Puerto y la línea que partiendo de Put con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto.
+VIII. MUNICIPIO DE SOLIDARIDAD, con cabecera en la ciudad de Playa del Carmen. Al norte, partiendo del paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto se continúa con rumbo este sobre el paralelo hasta encontrar el lindero poniente del Ejido Tres Reyes, se dobla al sur para seguir el lindero poniente y sur del Ejido Paachaeen hasta encontrar el lindero sur del ejido San Juan de Dios, continuando al este sobre el lindero mencionado hasta encontrar el vértice sureste de este ejido, de aquí se continúa por el paralelo que pasa por este lugar con rumbo este, hasta encontrar el lindero del Ejido Playa del Carmen, se continúa al norte sobre el lindero mencionado y al encontrar el vértice norte de este Ejido se continúa por el paralelo del lugar hasta encontrar el vértice suroeste del ejido de Puerto Morelos, se continúa al este sobre el lindero del Ejido hasta encontrar el límite del fundo legal de Puerto Morelos, se continúa al sur hasta salir a la costa del Mar Caribe, por el sur, con el Municipio de Felipe Carrillo Puerto, por el este, el Mar Caribe, y por el oeste el Municipio de Felipe Carrillo Puerto y la línea que partiendo de Put con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la Torre Sur de Chemax, 20 kilómetros al oriente de este punto.
 
 Se excluyen de su jurisdicción, las áreas descritas en los párrafos tercero y cuarto de la Fracción IV de este Artículo.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 129.
+
+Para la creación de municipios en el Estado se requerirá la aprobación de las dos terceras partes de la totalidad de los miembros de la Legislatura y la de la mayoría de los Ayuntamientos, así como la concurrencia de los siguientes elementos:
+
+I. Que sea conveniente para satisfacer las necesidades de sus habitantes.
+
+II. Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro.
+
+III. Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica.
+
+IV. Que su población no sea inferior a treinta mil habitantes.
+
+V. Que la comunidad en que se establezca su cabecera cuente con más de diez mil habitantes.
+
+VI. Que la ciudad señalada en la fracción anterior, tenga los servicios públicos adecuados para su población, y
+
+VII. Que previamente se escuche la opinión de los Ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 130.
+
+La Legislatura del Estado, por acuerdo de las dos terceras partes de sus miembros y con la aprobación de la mayoría de los Ayuntamientos, podrá declarar la supresión de un Municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación.
+
+En todo caso se deberá escuchar al Ayuntamiento del Municipio que se pretenda suprimir y al del que se pretenda fusionar, quienes deberán expresar lo que a su interés convenga, en un término no mayor a noventa días, contados a partir del momento en que al efecto hayan sido emplazados por la Legislatura.
+
+La Legislatura por acuerdo de sus integrantes, estará facultada para modificar la denominación de algún Municipio, cuando en su concepto, existan razones fundadas para ello, de acuerdo a la Ley de la Materia.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 131.
 
-Los municipios se dividirán en:
+Los conflictos de límites que se susciten entre los diversos Municipios del Estado, podrán resolverse mediante convenios que al efecto se celebren entre sus Ayuntamientos, con la aprobación de la Legislatura.
 
-I.- Cabeceras.
+Cuando dichos conflictos tengan el carácter de contenciosos, conocerá de ellas el Tribunal Superior de Justicia y resolverá en última instancia y con fuerza de cosa juzgada, en forma definitiva e inatacable en el ámbito estatal.
 
-II.- Alcaldías.
-
-III.- Delegaciones y,
-
-IV.- Subdelegaciones.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
-
-La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones serán determinados por el ayuntamiento respectivo en los términos que establezca la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2001)</small>
-
-La Ley de los Municipios determinará la forma de integración y elección de los miembros de la (sic) alcaldías y titulares de las delegaciones y subdelegaciones.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 132.
 
-Para la creación de municipios en el Estado se requerirá la aprobación de las dos terceras partes de la totalidad de los miembros de la Legislatura y la de la mayoría de los ayuntamientos, así como la concurrencia de los siguientes elementos:
+Para el mejor ejercicio de sus funciones y la prestación de los servicios públicos a su cargo, los Municipios podrán dividirse administrativamente en:
 
-I.- Que sea conveniente para satisfacer las necesidades de sus habitantes.
+I. Cabeceras,
 
-II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro.
+II. Alcaldías,
 
-III.- Que sus recursos de desarrollo potencial le garantice posibilidades de autosuficiencia económica.
+III. Delegaciones y,
 
-IV.- Que su población no sea inferior a treinta mil habitantes.
+IV. Subdelegaciones.
 
-V.- Que la comunidad en que se establezca su cabecera cuente con más de diez mil habitantes.
+La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones, así como las atribuciones y las formas de elección o designación y remoción de los titulares de los órganos auxiliares del Gobierno Municipal en cada una de ellas, serán determinados por cada Ayuntamiento, en términos de la Ley de la Materia.
 
-VI.- Que la ciudad señalada en la fracción anterior, tenga los servicios públicos adecuados para su población, y
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
 
-VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
+### CAPITULO IV. De las Funciones y Servicios Públicos
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-### CAPITULO IV. Del Patrimonio y Hacienda Pública Municipal
+###### ARTICULO 133.
 
-###### Artículo 133.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovara cada tres años y residirá en la Cabecera Municipal. La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-La Legislatura del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación; asimismo, por acuerdo de sus integrantes, estará facultada para modificar la denominación de algún municipio, cuando en su concepto, existan razones fundadas para ello.
+Los Ayuntamientos deberán tomar posesión el día 10 del mes de Abril del año de la elección, mediante ceremonia pública y solemne.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 134.
 
-El gobierno del Estado cuando se considere conveniente podrá promover, de común acuerdo con los ayuntamientos respectivos, la fusión de comunidades para crear otras de mayor extensión que permitan integrar núcleos aislados de población y ejecutar programas de desarrollo general.
-
-###### ARTICULO 135.
-
-Los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado podrá resolverse mediante convenios amistosos, que al efecto se celebren con aprobación de la Legislatura. Cuando dichas diferencias tenga (sic) carácter contencioso, conocerá de ellas el Tribunal Superior de Justicia.
-
-###### ARTICULO 136.
-
-Los municipios del Estado, podrán asociarse para constituir corporaciones de desarrollo regional que tengan por objeto:
-
-I.- El estudio de los problemas locales.
-
-II.- La realización de programas de desarrollo común.
-
-III.- La organización de empresas para la prestación de servicios públicos.
-
-IV.- El establecimiento de cuerpos de asesoramiento técnico.
-
-V.- La capacitación de sus funcionarios y empleados.
-
-VI.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades, y
-
-VII.- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
-
-###### ARTICULO 137.
-
-Si en los programas a que se refiere el artículo anterior, se requieren créditos o inversión de recursos del Estado, seránecesaria (sic) la aprobación de la Legislatura y el Gobernador del Estado, coordinará y vigilará su realización.
-
-###### ARTICULO 138.
-
-Los bienes que integran el patrimonio municipal son:
-
-I.- De dominio público, y
-
-II.- De dominio privado.
-
-###### ARTICULO 139.
-
-Son bienes de dominio público:
-
-I.- Los de uso común.
-
-II.- Los inmuebles destinados a un servicio público, y
-
-III.- Los muebles normalmente insustituibles como son los expedientes de las oficinas, archivos, libros raros, piezas históricas o arqueológicas, obras de arte y otros análogos que no sea (sic) de dominio de la Federación o del Estado.
-
-###### ARTICULO 140.
-
-Son bienes del dominio privado los que le pertenecen en propiedad y los que en lo futuro ingresen a su patrimonio, no previstos en el artículo anterior.
-
-> <small>(REFORMADO, P.| 15 DE MARZO DE 2002)</small>
-
-###### Artículo 141.
-
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de los miembros del Ayuntamiento.
-
-###### ARTICULO 142.
-
-Los bienes de dominio privado, podrán ser enajenados mediante acuerdo del ayuntamiento.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
-
-###### ARTICULO 143.
-
-La hacienda pública de los Municipios se formará con los rendimientos de los bienes que le pertenezcan, las contribuciones y percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por:
-
-a) Contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles. Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas funciones relacionadas con la administración de esas contribuciones.
-
-Los ayuntamientos, en el ámbito de su respectiva competencia, propondrán a la Legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
-
-b) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
-
-No se establecerán exenciones o subsidios respecto de las anteriores contribuciones en favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, de los Estados o de los Municipios siempre y cuando tales bienes no sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
-
-c) Las participaciones federales que serán cubiertas por la Federación a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
-
-d) Subsidios, legados, donaciones o por cualquier otra causa.
-
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa por el ayuntamiento, o bien, por quien ellos autoricen, conforme a la ley.
-
-###### ARTICULO 144.
-
-El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
-
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-### CAPITULO V. Del Gobierno Municipal
-
-Concepto e Integración
-
-###### ARTICULO 145.
-
 Los Ayuntamientos se integran en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-I.- En los Municipios de Othón P. Blanco y Benito Juárez, con un presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
-
-II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
-
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
-###### ARTICULO 146.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o regidor, salvo causas (sic) justificada, calificada por el Ayuntamiento.
+###### ARTICULO 135.
 
-### CAPITULO VI. De la Elección del Ayuntamiento
+Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 147.
-
-El ayuntamiento reside en la cabecera del municipio y sus miembros durarán tres años en el ejercicio de su cargo.
-
-###### ARTICULO 148.
-
-Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
-
-I.- En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por lo menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político que haya obtenido mayoría de votos.
 
-III.- Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto al Partido Político que haya obtenido mayoría de votos.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2001)</small>
-
-###### ARTICULO 149.
+###### ARTICULO 136.
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
+I. Ser mexicano por nacimiento, ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
 
-I.- Ser ciudadano quintanarroense en ejercicio de sus derechos políticos, con 5 años de residencia y de vecindad en el Municipio de que se trate.
+II. Ser de reconocida probidad y solvencia moral.
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
+III. No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal, Estatal o Municipal a menos que se separe con noventa días de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes.
 
-II.- No ser Magistrado del Tribunal Electoral de Quintana Roo, Consejero Presidente, Consejero Electoral, Secretario o Funcionario del Instituto Electoral de Quintana Roo, así como sus similares en los Organos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
+IV. No ser Magistrado del Tribunal Electoral del Estado, ni Consejero, Secretario General o Director del Instituto Electoral del Estado, a menos que se separe dos años antes de la fecha de inicio del proceso electoral.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+V. No ser ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
-III.- Tratándose de regidores, tener 18 años de edad el día de la elección, y 21 años de edad para los demás miembros del Ayuntamiento.
+Para los efectos de este artículo, son residentes de un Municipio, los habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinos de un municipio, los residentes establecidos de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritos en el padrón electoral correspondiente a ese propio municipio.
 
-IV.- Ser persona de reconocida buena conducta.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
+###### ARTICULO 137.
 
-V.- No desempeñar, con excepción de los docentes, cargo o comisión del Gobierno Federal o Estatal a menos que se separe con dos meses de anticipación al día de la elección. Esta disposición no será aplicable a quienes participen con el carácter de suplentes; y
+La Ley Reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de Regidores electos según el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-VI.- No pertenecer o haber pertenecido al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado de su ministerio cinco años antes de la fecha de la elección.
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2002)</small>
-
-Para los efectos de este artículo, son residentes de un municipio, los habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinos de un municipio, los residentes establecidos de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritos en el padrón electoral correspondiente a ese propio municipio.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 150.
-
-La Ley reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de Regidores electos según el principio de representación proporcional.
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
-
-###### Artículo 151.
+###### ARTICULO 138.
 
 La Ley respectiva reglamentará el proceso de preparación, desarrollo y verificación del proceso electoral para la renovación de los Ayuntamientos.
 
-El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, declarará la validez de las elecciones de Ayuntamientos en cada uno de los Municipios del Estado y otorgará las constancias respectivas a las planillas de candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y asignación de regidores electos según el principio de representación proporcional de conformidad con el Artículo 148 de esta Constitución.
+El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, declarará la validez de las elecciones de Ayuntamientos en cada uno de los Municipios del Estado y otorgará las constancias respectivas a las planillas de candidatos que hubiesen obtenido mayoría de votos. Así mismo, hará la declaración de validez y asignación de Regidores Electos según el principio de Representación Proporcional de conformidad con el Artículo 135 de esta Constitución.
 
 Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidores podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-###### ARTICULO 152.
+###### ARTICULO 139.
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes, pero éstos si podrán serlo como propietarios a menos que hayan ejercido el cargo.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes, pero éstos sí podrán serlo como propietarios a menos que hayan ejercido el cargo.
 
-### CAPITULO VII. De la Instalación del Ayuntamiento
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-###### ARTICULO 153.
+###### ARTICULO 140.
 
-En las ausencias temporales del presidente municipal pasará a desempeñar sus funciones el primer regidor.
+En las ausencias temporales del Presidente Municipal pasará a desempeñar sus funciones el Primer Regidor.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-###### Artículo 154.
+###### ARTICULO 141.
 
 En caso de falta absoluta de algún miembro del Ayuntamiento, éste llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-### CAPITULO VIII. De las Facultades y Obligaciones del Ayuntamiento
+###### ARTICULO 142.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2001)</small>
-
-###### Artículo 155.
-
-Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus miembros procederá a nombrar de entre los vecinos del municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser miembro del Ayuntamiento, con excepción de lo previsto en la fracción V del Artículo 149 de esta Constitución.
+Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayuntamiento por el voto de las dos terceras partes de sus miembros procederá a nombrar de entre los vecinos del Municipio a quien ocupará el cargo, quien en todo caso deberá satisfacer los requisitos exigidos para ser miembro del Ayuntamiento, con excepción de lo previsto en la fracción III del Artículo 136 de esta Constitución.
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-###### Artículo 156.
+###### ARTICULO 143.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el periodo correspondiente.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
 
 El mismo procedimiento se seguirá cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio o cuando la elección se declare nula. En este último caso, deberá de emitirse la convocatoria respectiva dentro de los tres días siguientes a los que se haya recibido la notificación que declare firme para todos los efectos legales la nulidad de la elección.
 
-Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del gobierno municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el periodo respectivo.
+Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
 
-El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate, los integrantes del mismo se elegirán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura. Debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento y rendirán la protesta de ley.
+El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate, los integrantes del mismo se elegirán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento y rendirán la protesta de Ley.
 
-### CAPITULO IX. Del Gobierno Municipal y sus Titulares
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+###### ARTICULO 144.
+
+La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan y se respete la garantía de legalidad.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+
+### CAPITULO V. De la Hacienda Pública
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 145.
+
+Los Ayuntamientos, tendrán facultades para formular, aprobar y publicar, de acuerdo con las leyes en materia municipal que expida la Legislatura del Estado, los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 146.
+
+Conforme al artículo anterior, la Ley establecerá las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; asimismo, las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+
+### CAPITULO VI. Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 147.
+
+Los Municipios del Estado tendrán a su cargo las funciones y servicios públicos siguientes:
+
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+b) Alumbrado público;
+
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+d) Mercados y centrales de abasto;
+
+e) Panteones;
+
+f) Rastros;
+
+g) Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía Preventiva Municipal y Tránsito;
+
+h) Calles, parques y jardines y su equipamiento;
+
+i) Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes;
+
+j) Autorización para construcción, planificación y modificación ejecutada por particulares;
+
+k) Estacionamientos públicos establecidos en las vías de circulación;
+
+l) Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la calidad en la prestación de los servicios públicos;
+
+m) Crear, con arreglo a la Ley, los órganos descentralizados o las empresas de participación municipal necesarios para operar los servicios públicos a su cargo;
+
+n) Aprobar, con arreglo a la Ley, las concesiones a los particulares para que éstos presten los servicios públicos municipales; y
+
+o) Los demás que la Legislatura del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 148.
+
+Cuando a juicio de un Ayuntamiento sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguna de las funciones o servicios públicos previstos en el artículo anterior, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 149.
+
+La Ley establecerá las normas generales para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la Legislatura del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 150.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de Municipios del Estado y uno o más de otras Entidades Federativas, deberán contar con la aprobación de las Legislaturas respectivas.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios públicos señalados en el artículo 147 de la presente Constitución, los Municipios observarán lo dispuesto por las Leyes federales y estatales.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 151.
+
+El Estado podrá transferir o delegar a los Municipios, mediante Ley o convenio, funciones o servicios que le son propios y que por su naturaleza sean susceptibles de transferencia o delegación, considerando las condiciones territoriales y socioeconómicas de los propios Municipios, así como su capacidad administrativa y financiera.
+
+En la Ley o en el convenio se preverá la correspondiente transferencia de medios financieros, así como las formas de control que se reserva el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 152.
+
+La Legislatura del Estado emitirá las normas que establezcan los procedimientos mediante los cuales, la misma resolverá los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los artículos del 148 al 151 y artículo 153 fracción III inciso a) párrafo segundo de la presente Constitución.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+
+### CAPITULO VII. Seguridad Pública
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 153.
+
+Los Municipios administrarán libremente su hacienda conforme a las siguientes bases:
+
+I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
+
+II. La Legislatura del Estado discutirá y aprobará, en su caso, las leyes de ingresos de cada Municipio, conforme a la iniciativa que oportunamente envíe cada uno de ellos, en los términos de la presente Constitución y de la Ley de Hacienda que al efecto se expida.
+
+Los Ayuntamientos, propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
+
+III. En todo caso los municipios percibirán:
+
+a) Las contribuciones, incluyendo tasas adicionales, que establezca la Legislatura del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
+
+b) Las participaciones federales serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura del Estado.
+
+En la distribución de los recursos que se asigne a los municipios, serán consideradas de manera prioritaria, las comunidades indígenas y zonas marginadas. Esta distribución se realizará atendiendo a los estudios en materia de rezago social e infraestructura que previamente presenten los Municipios, y con un sentido de equidad, de acuerdo con la disponibilidad presupuestal y las necesidades de dichas comunidades y zonas, considerando la incorporación de representantes de éstas a los órganos de planeación y participación ciudadana en los términos de la ley;
+
+c) Los ingresos derivados de la prestación de los servicios públicos a su cargo; y
+
+d) Los que adquieran por subsidios, legados, donaciones o cualquier causa lícita.
+
+IV. Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+
+VI. La Deuda Pública Municipal se sujetará a lo que disponga la Ley e invariablemente requerirá de la aprobación de la Legislatura del Estado;
+
+VII. La Legislatura del Estado, revisará y fiscalizará la Cuenta Pública de cada uno de los Municipios, previa aprobación de los Ayuntamientos, en los términos de las disposiciones aplicables.
+
+La Legislatura, en coordinación con los Municipios, garantizará la disposición de la información de la Cuenta Pública Municipal a la comunidad en general, con base a lo que establezca la Ley que reglamente el acceso a la información pública gubernamental, que al efecto expida la Legislatura.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 154.
+
+El Ayuntamiento administrará responsablemente el patrimonio municipal conforme a la Ley.
+
+La Ley establecerá los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento.
+
+Los bienes del dominio público municipal son inalienables, imprescriptibles e inembargables, y no están sujetos a acción reivindicatoria o de posesión definitiva o interina, mientras no varíe su situación jurídica, la cual sólo podrá modificarse por acuerdo de las dos terceras partes de los miembros del Ayuntamiento en los términos y procedimientos que señale la Ley; la misma Ley determinará cuales tienen ese carácter.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
+
+### CAPITULO VIII. Relaciones Laborales
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 155.
+
+Los Municipios, en los términos de las Leyes federales y estatales relativas, estarán facultados para:
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b) Participar en la creación y administración de sus reservas territoriales;
+
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia.
+
+Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los municipios;
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e) Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f) Otorgar licencias y permisos para construcciones;
+
+g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h) Preservar, conservar y restaurar el medio ambiente;
+
+i) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+j) Celebrar convenios para la administración y custodia de las zonas federales;
+
+k) Participar conjuntamente con los organismos y dependencias oficiales competentes, en la planeación y aplicación, en su caso, de inversiones públicas federales y estatales; y
+
+l) Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública.
+
+Los Municipios en el ámbito de su competencia, sujetándose a las Leyes de la materia, federales y estatales, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales formen o tiendan a formar una continuidad geográfica y demográfica.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 156.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios, para hacer efectivas las atribuciones señaladas en el presente capítulo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 157.
 
-Los ayuntamientos electos se instalarán en ceremonia pública y solemne el 10 de abril del año de la elección. El presidente entrante rendirá la protesta de ley y a continuación la tomará a los demás integrantes del ayuntamiento que estuvieren presentes.
+La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 158.
 
-Si en el acto de instalación no estuviere presente el presidente municipal, el ayuntamiento se instalará con el primer regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
+Los cuerpos de Seguridad Pública y Tránsito de los Municipios coordinarán sus actividades con los correspondientes organismos del Estado y la Federación, en el marco de los Sistemas Nacional y Estatal de Seguridad Pública, conforme a los convenios que al efecto se suscriban.
 
-### CAPITULO X. De las Dependencias Administrativas Municipales y de sus Titulares
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2002)</small>
+### CAPITULO UNICO. De las Reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 159.
 
-Concluida la sesión de instalación el presidente o quien haga sus veces, notificará de inmediato a los miembros porpietarios (sic) ausentes para que asuman su cargo en un plazo no mayor de 15 días.
+Las relaciones laborales entre los Municipios y sus trabajadores se regirán por las leyes que expida la Legislatura, con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo.
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ## TITULO SEPTIMO. De los Municipios
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
 
-###### Artículo 170.
+###### ARTICULO 160.
 
 Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, funcionarios y empleados del Gobierno del Estado y de los Ayuntamientos y, en general, a toda persona que desempeñe un cargo de cualquier naturaleza en los poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos, organismos descentralizados de la Administración Pública Estatal o Municipal, empresas de participación estatal o municipal y fideicomisos públicos del Estado o de los Municipios, así como a los funcionarios y empleados del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-La Legislatura del Estado expedirá una Ley de Responsabilidades de los servidores públicos así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
+I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Magistrados de los Tribunales Unitarios, Jueces de fuero común, al Titular del Órgano Superior de Fiscalización, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
-I.- Se impondrá mediante Juicio Político, al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrado Presidente y Magistrados del Tribunal Electoral de Quintana Roo, Magistrados de los Tribunales Unitarios, Jueces de fuero común, al Titular del Organo Superior de Fiscalización, al Consejero Presidente y a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+La Ley correspondiente establecerá el procedimiento del Juicio Político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
-
-La ley correspondiente establecerá el procedimiento del juicio político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
-
-No procede el juicio político por la mera expresión de ideas.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+No procede el Juicio Político por la mera expresión de ideas.
 
 La Legislatura del Estado conocerá con este procedimiento de los casos que le remita la Cámara de Senadores en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+II. El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, y los Presidentes Municipales, sólo podrán ser sujetos a Juicio Político por violaciones graves a esta Constitución, y a las Leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
 
-II. El gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, y los Presidente Municipales, sólo podrán ser sujetos a juicio político por violaciones graves a esta Constitución, y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
+III. La legislación penal del Estado prevendrá como delito común el enriquecimiento ilícito de los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Asimismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
-
-III. La Legislatura penal del Estado prevendrá como delito común el enriquecimiento ilícito de los Servidores Públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Así mismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
-
-IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las Leyes, Reglamentos o Decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
+IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las leyes, reglamentos o decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente.
 
 No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+V. La Ley de Responsabilidades de los Servidores Públicos, determinará las obligaciones de éstos, las sanciones aplicables por los actos u omisiones indebidos que señala este Título, los procedimientos a seguir y las autoridades encargadas de su aplicación.
 
-V.- La Ley de Responsabilidades de los Servidores Públicos, determinará las obligaciones de éstos, las sanciones aplicables por los actos u omisiones indebidos que señala este Título, los procedimientos a seguir y las Autoridades encargadas de su aplicación.
+VI. La Ley Orgánica Municipal determinará, en los términos del primer párrafo de este artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Ayuntamientos.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+VII. En los juicios de orden civil no existe fuero ni inmunidad de ningún servidor público.
 
-VI.- La Ley Orgánica Municipal determinará en los términos del primer párrafo de este Artículo y para efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los ayuntamientos.
+VIII. Las declaraciones y resoluciones que se dicten a quienes se sujeten a Juicio Político son inatacables.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-VII.- En los juicios de orden civil no existe fuero ni inmunidad de ningún servidor público.
-
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-VIII.- Las declaraciones y resoluciones que se dicten a quienes se sujeten a juicio político son inatacables.
-
-###### ARTICULO 171.
-
-La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo, y hasta un año después.
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
-
-###### ARTICULO 172.
-
-El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la Patria y delitos graves del Orden Común.
-
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 173.
-
-Siempre que se trate de alguno de los servidores públicos especificados en la fracción XVII del Artículo 75, y el delito fuere de orden común, la Legislatura, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
-
-###### ARTICULO 160.
-
-Son facultades y obligaciones del Ayuntamiento:
-
-I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
-
-II.- Aprobar. De acuerdo con las disposiciones legales expedidas al respecto por la Legislatura del Estado, los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de su respectiva jurisdicción, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
-
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
-
-III.- Resolver, conforme a las disposiciones constitucionales y legales aplicables, sobre las solicitudes de enajenación de bienes del dominio privado del Municipio, así como respecto del cambio de situación jurídica del régimen de dominio público al de dominio privado de bienes de propiedad municipal;
-
-> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
-
-IV.- Nombrar y remover al Secretario, al Tesorero y al Titular o Titulares de los órganos de Seguridad Pública y Tránsito, a propuesta del Presidente Municipal;
-
-V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quienes deban suplirlos.
-
-VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1983)
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
-
-VII.- Mantener los servicios de seguridad pública, policía preventiva y tránsito municipal de conformidad al contenido de la fracción VIII, del Artículo 163 de esta Constitución.
-
-VIII.- Establecer en el territorio del municipio las delegaciones y subdelegaciones necesarias.
-
-IX.- Cooperar con las autoridades federales y estatales en las funciones de su competencia y planes de desarrollo dentro del municipio.
-
-X.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas, e Históricas con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente.
-
-XI.- Promover el mejoramiento de los servicios y acrecentamiento del patrimonio municipal.
-
-XII.- Formular anualmente su Presupuesto de Egresos.
-
-XIII.- Formular anualmente su proyecto de Ley de Ingresos que será cometido (sic) a aprobación de la Legislatura.
-
-> <small>(REFORMADA P.O. 15 DE MARZO DE 2002)</small>
-
-XIV.- Informar a la Legislatura del Estado, sobre la aprobación de la cuenta anual del gasto público, para su revisión y fiscalización, conforme a las disposiciones legales conducentes;
-
-XV.- Promover el desenvolvimiento político, económico, social y cultural de la comunidad.
-
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2002)</small>
-
-XVI.- Las demás que prevea esta Constitución, la Ley de los Municipios del Estado y demás disposiciones que regulen el funcionamiento municipal.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 161.
 
-Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
+La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo, y hasta un año después.
 
-a).- Alumbrado público.
-
-b).- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
-
-c).- Mercados y centrales de abasto.
-
-d).- Panteones.
-
-e).- Rastros.
-
-f).- Calles, parques y jardines y su equipamiento.
-
-g).- Seguridad Pública, en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía Preventiva Municipal y Tránsito;
-
-h) Agua Potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, y
-
-i).- Las demás que la Legislatura determine de conformidad a las condiciones territoriales, socioeconómicas y de la capacidad administrativa y financiera en cada caso.
-
-Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo previsto en las disposiciones federales o estatales relativas.
-
-Los Municipios del Estado, previo acuerdo de sus respectivos Ayuntamientos, podrán coordinarse y asociarse entre sí para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Tratándose de la asociación con municipios de otros Estados, para el mismo propósito, deberán contar con la aprobación de las Legislaturas de los Estados respectivas.
-
-Asimismo, con aprobación del Ayuntamiento podrán celebrar convenios con el Gobierno Estatal para que éste, de manera directa o mediante el organismo que prevea la ley de la materia, se haga cargo en forma temporal de alguno de los servicios a cargo del Municipio, o bien para que se presten o ejerzan de manera coordinada.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 161
-
-BIS.- Corresponde al Presidente, Síndico y Regidores el ejercicio del Gobierno Municipal y la representación de los intereses de la comunidad.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 162.
 
-El presidente municipal tendrá a su cargo la representación del gobierno del municipio y la ejecución de las resoluciones del ayuntamiento.
+El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la patria y delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 163.
 
-Son facultades y obligaciones del presidente municipal:
+Siempre que se trate de alguno de los servidores públicos especificados en la fracción XVII, del artículo 75, y el delito fuere de orden común, la Legislatura, erigida en Gran Jurado, declarará si ha lugar o no a proceder contra el acusado. En caso afirmativo, por esa sola declaración quedará el acusado separado de su encargo y sujeto a la autoridad judicial correspondiente.
 
-I.- Cumplir y proveer a la observancia de las leyes federales y estatales.
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
-II.- Ejecutar los acuerdos y reglamentos expedidos por el ayuntamiento y darle cuenta de ello.
-
-III.- Presidir las sesiones y participar en las deliberaciones.
-
-IV.- Rendir anualmente al ayuntamiento, en la última sesión ordinaria del año, un informe detallado sobre el estado que guarda la administración pública municipal.
-
-V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administración entre los regidores.
-
-VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal administrativo de acuerdo con las disposiciones aplicables.
-
-VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo establecido en el reglamento interior.
-
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2001)</small>
-
-VIII.- Tener bajo su mando los cuerpos de seguridad pública, policía preventiva y tránsito municipal para la conservación del orden público, con excepción de las facultades reservadas al Gobernador del Estado y al Ejecutivo Federal, de conformidad con el reglamento respectivo.
-
-Los cuerpos de seguridad pública y tránsito de los municipios coordinarán sus actividades con los correspondientes organismos del Estado y la Federación, en términos de las disposiciones aplicables.
-
-IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días.
-
-> <small>(REFORMADA P.O. 17 DE JULIO DE 2002)</small>
-
-X.- Convocar en asambleas de vecinos de las comunidades, a la elección directa de los integrantes de las Alcaldías, así como de Delegados y Subdelegados Municipales que establezca cada Ayuntamiento, las cuales deberán celebrarse hasta el mes de julio del año en que tengan que renovarse los Ayuntamientos, de conformidad con lo dispuesto en las leyes respectivas.
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-XI.- Vigilar que los integrantes de las Alcaldías, Delegados y Subdelegados de los poblados que integran el Municipio, cumplan las funciones para las que fueron electos e informar de ello al Ayuntamiento y,
-
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-XII.- Las demás que le confieran las disposiciones legales aplicables.
-
-#### SECCION SEGUNDA. Del Síndico
-
-## TITULO OCTAVO
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 1983)</small>
+## TITULO OCTAVO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
-###### ARTICULO 174.
-
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. La Legislatura o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
 ###### ARTICULO 164.
 
-El síndico tiene a su cargo la vigilancia de la hacienda pública municipal.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de la totalidad de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado. La Legislatura o la Diputación Permanente, en su caso, hará el cómputo de los votos de los Ayuntamientos, y la declaración de haber sido aprobadas las adiciones o reformas.
+
+(REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ## TITULO DECIMO. Prevenciones Generales
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-###### ARTICULO 175.
-
-El Gobernador del Estado, los Secretarios del despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los Presupuestos de las entidades descentralizadas y paraestatales, según corresponda.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 176.
-
-Ninguna Autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 177.
-
-Las adquisiciones, contratos de obra, enajenaciones y todo tipo de servicios de cualquier naturaleza que se realicen, se adjudicarán, o llevarán a cabo, a través de licitaciones públicas mediante convocatorias a fin de asegurar al Estado las mejores condiciones de precio, calidad, financiamiento, oportunidad y demás particularidades referentes, de conformidad a la ley reglamentaria que establecerá los montos mínimos para la aplicación de este precepto, las bases, procedimientos, reglas, requisitos y demás circunstancias pertinentes.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 178.
-
-Los cargos de elección popular son preferentes a los de nombramiento, y renunciables sólo por causa grave, que calificará la entidad a quien corresponda conocer las renuncias.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 179.
-
-Todo cargo, comisión o empleo público es incompatible con algún otro, federal o estatal, cuando por ambos se perciba un sueldo, salvo los docentes.
-
-## TITULO NOVENO
+## TITULO NOVENO. (REUBICADO, P.O. 24 DE OCTUBRE DE 2003)
 
 ###### ARTICULO 165.
 
-Son facultades y obligaciones del síndico:
+El Gobernador del Estado, los Secretarios del Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior, los Diputados de la Legislatura y los demás servidores públicos recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los presupuestos de las Entidades descentralizadas y paraestatales, según corresponda.
 
-I.- Comparecer ante las autoridades judiciales en los asuntos que revistan interés jurídico para el ayuntamiento.
-
-II.- Tramitar ante las autoridades correspondientes los asuntos relacionados con su competencia.
-
-III.- Presidir la comisión de hacienda municipal y revisar las cuentas de la tesorería, y
-
-IV.- Las demás conferidas por las leyes, reglamentos y acuerdos del Ayuntamiento.
-
-#### SECCION TERCERA. De los Regidores
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 166.
 
-Los regidores ejercen las funciones que le son propias como miembros del ayuntamiento, como cuerpo colegiado, y las demás conferidas por la Ley Orgánica y les asigne el ayuntamiento.
+Ninguna autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 167.
 
-Son facultades y obligaciones de los regidores:
+Las adquisiciones, contratos de obra, enajenaciones y todo tipo de servicios de cualquier naturaleza que se realicen, se adjudicarán, o llevarán a cabo, a través de licitaciones públicas mediante convocatorias a fin de asegurar al Estado las mejores condiciones de precio, calidad, financiamiento, oportunidad y demás particularidades referentes, de conformidad a la ley reglamentaria que establecerá los montos mínimos para la aplicación de este precepto, las bases, procedimientos, reglas, requisitos y demás circunstancias pertinentes.
 
-I.- Vigilar la correcta observancia de las disposiciones y acuerdos del ayuntamiento.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-II.- Someter a consideración del ayuntamiento proyectos de acuerdo y programas correspondientes a su esfera de competencia, y
+###### ARTICULO 168.
 
-III.- Cumplir las funciones inherentes a sus comisiones e informar al ayuntamiento de sus resultados.
+Los cargos de elección popular son preferentes a los de nombramiento, y renunciables sólo por causa grave, que calificará la Entidad a quien corresponda conocer las renuncias.
 
-###### Artículo 168.
-
-Para el despacho de los asuntos administrativos de su competencia, los Ayuntamientos contarán con las siguientes dependencias, organismos o unidades:
-
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
-
-I.- Secretaría del Ayuntamiento.
-
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
-
-II.- Tesorería Municipal;
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
-
-III.- Alcaldías, Delegaciones y Subdelegaciones.
-
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
-
-IV.- Dirección o Direcciones de Seguridad Pública, Policía Preventiva y Tránsito Municipal.
-
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2002)</small>
-
-V.- Las demás Dependencias, Organismos Descentralizados, Entidades Paramunicipales y Unidades Administrativas que el Ayuntamiento establezca en el Reglamento respectivo, o mediante los Acuerdos que emita, según sus propios requerimientos.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 169.
 
-La Ley de los Municipios determinará la organización y funcionamiento de las dependencias administrativas del ayuntamiento y los requisitos, facultades y obligaciones de sus titulares.
-
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
-
-###### ARTICULO 169
-
-BIS.- Las relaciones laborales entre el Estado, los Municipios y Organismos Descentralizados con sus trabajadores y servidores públicos, se regirán por las leyes que expida la Legislatura del Estado, respetando las bases fundamentales contenidas en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y leyes reglamentarias. Los Municipios observarán estas mismas reglas por lo que a sus trabajadores se refiere.
+Todo cargo, comisión o empleo público es incompatible con algún otro, federal o estatal, cuando por ambos se perciba un sueldo, salvo los docentes.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2576,3 +2546,29 @@ En tanto el Organo Superior de Fiscalización del Estado no empiece a ejercer la
 Los empleados y trabajadores de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
 
 Una vez creado el Organo Superior de Fiscalización del Estado, todos los recursos humanos y materiales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Organo.
+
+P.O. 24 DE OCTUBRE DE 2003.
+
+Primero.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto de reformas.
+
+Tercero.- A más tardar dentro de los quince días siguientes al inicio de la vigencia del presente decreto, el Ejecutivo del Estado deberá someter a la consideración del Congreso del Estado las ternas necesarias para designar al número restante de Magistrados Numerarios que deben integrar al Tribunal Superior de Justicia, conforme a los artículos 98 y 102 de esta Constitución.
+
+Cuarto.- El Consejo de la Judicatura, en la forma y términos que prevé el artículo 110 de la presente Constitución, deberá integrarse tan luego como sean nombrados la totalidad de los Magistrados numerarios a que se refiere el artículo 98 de la misma.
+
+Quinto.- El Congreso del Estado dentro de los treinta días siguientes al inicio de la vigencia del presente decreto, deberá realizar las reformas a la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de funciones y servicios que conforme al presente decreto sean de competencia de los Municipios y que sean prestados por el Gobierno del Estado, o de manera coordinada con los Municipios, éstos podrán asumirlos, previa aprobación de las dos terceras partes del Ayuntamiento. El Gobierno del Estado dispondrá de lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del inciso a) del Artículo 147 de la presente, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a la Legislatura del Estado, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia del Estado al Municipio afecte, en perjuicio de la población, su prestación. La Legislatura Estatal resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
