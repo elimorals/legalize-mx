@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "1998-01-23"
+last_updated: "2001-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -62,9 +62,11 @@ La Comisión Nacional de Derechos Humanos, la Procuraduría Agraria y la Procura
 
 El Banco de México, las sociedades nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y fianzas, los fondos y fideicomisos públicos de fomento así como las entidades paraestatales que formen parte del sistema financiero, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a su legislación específica. Les será aplicable esta Ley en las materias y asuntos que sus leyes específicas no regulen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas y los demás organismos de estructura análoga que hubiere, se seguirán rigiendo por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas se sujetarán a las disposiciones de la presente Ley.
+El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas, el Instituto Nacional de las Mujeres y los demás organismos de estructura análoga que hubiere, se regirán por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas, se sujetarán a las disposiciones de la presente Ley.
 
 Aquellas entidades que además de Organo de Gobierno, Dirección General y Organo de Vigilancia cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
 
@@ -647,3 +649,9 @@ La relación laboral del resto del personal de dichos órganos de control intern
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 4 DE ENERO DE 2001.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día que inicie su vigencia la Ley que Crea el Instituto Nacional de las Mujeres.
