@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2000-12-04"
+last_updated: "2000-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1055,11 +1055,11 @@ ARTICULO 132 BIS.- No causarán este impuesto, los servicios de hospedaje que se
 
 ### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 137.
 
-Son objeto del Impuesto Sobre Diversiones y Espectáculos Públicos, los ingresos derivados de la explotación de las siguientes actividades, por la cuota de admisión, siempre que dichas actividades estén gravadas por el Impuesto al Valor Agregado: Teatro, Circo y Espectáculos de Carpa, Corridas de Toros, Espectáculos de Box, Lucha y Deportivos, Apuestas de todo tipo, apuestas sobre carreras y fronteras, audiencias musicales y espectáculos de cualquier tipo, con cuota de admisión.
+Son objeto del Impuesto Sobre Diversiones y Espectáculos Públicos, los ingresos derivados de la explotación de las siguientes actividades, por la cuota de admisión, siempre que dichas actividades no estén gravadas por el Impuesto al Valor Agregado: Teatro, Circo y Espectáculos de Carpa, Corridas de Toros, Espectáculos de Box, Lucha y Deportivos, Apuestas permitidas de todo tipo, apuestas sobre carreras y frontones, audiencias musicales y espectáculos de cualquier tipo, con cuota de admisión.
 
 No se considerarán espectáculos, los presentados en restaurantes, bares, cabarets, salones de fiestas o baile y centros nocturnos.
 
@@ -2230,3 +2230,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE DICIEMBRE DE 2000.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
