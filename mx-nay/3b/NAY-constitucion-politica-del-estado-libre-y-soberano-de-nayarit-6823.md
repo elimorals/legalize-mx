@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2002-07-27"
+last_updated: "2004-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -407,11 +407,41 @@ La Legislatura del Estado celebrará anualmente dos periodos ordinarios de sesio
 
 Durante el primer período ordinario de sesiones de cada año la Legislatura se ocupará preferentemente del examen y votación de las leyes de ingresos del Estado y de los Municipios, así como del presupuesto de egresos del Estado que se aplicarán para el año siguiente, decretando las contribuciones para cubrirlos.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 38.
 
-La revisión y en su caso aprobación de la cuenta de todos los caudales del Estado, se hará trimestralmente en los términos que al efecto señale la ley de la materia.
+La aprobación y ejecución de la Ley de Ingresos y del Presupuesto de Egresos se sujetará a las siguientes disposiciones:
+
+A. Deberán contribuir al equilibrio presupuestario e incluirán estimaciones económicas que impliquen una planeación de mediano plazo.
+
+En caso de presentarse durante el año una reducción a los ingresos aprobados, deberán ajustarse los gastos proporcionalmente, en la forma que determine la ley.
+
+El contenido del Presupuesto de Egresos deberá permitir la identificación clara y desagregada del gasto público que garantice la transparencia de su ejercicio y la fiscalización de su cumplimiento.
+
+B. El Ejecutivo elaborará las iniciativas de Ley de Ingresos del Estado y de Presupuesto de Egresos del Estado, las cuales hará llegar al Congreso a más tardar el día 31 de octubre del año anterior al de su vigencia debiendo comparecer el secretario del despacho correspondiente a dar cuenta de las mismas. La modificación a dicho plazo procederá en los términos que fije la ley.
+
+En caso de que por cualquier motivo se omita en forma tácita la presentación de algunas de las iniciativas a que alude el párrafo anterior, servirán como iniciativas la Ley de Ingresos y el Presupuesto de Egresos vigente.
+
+La aprobación y resolución respecto de los ingresos deberá preceder a la de los gastos. En todo caso el Congreso deberá motivar en el dictamen correspondiente, los beneficios que se deriven de las modificaciones propuestas a las iniciativas de Ley de Ingresos y de Presupuesto de Egresos.
+
+Las modificaciones que impliquen incrementos o la creación de nuevos gastos, procederán únicamente cuando en el dictamen respectivo se señale la fuente de recursos adicionales para cubrirlos, los cuales tendrán origen en fuentes distintas al financiamiento, o bien cuando se señalen las reducciones a los programas propuestos.
+
+Los proyectos aprobados de Ley de Ingresos y de Presupuesto de Egresos se remitirán al Ejecutivo, quien los promulgará inmediatamente salvo que tuviere observaciones que hacerles.
+
+El Ejecutivo podrá hacer observaciones a las modificaciones aprobadas por el Congreso; en este caso devolverá al Congreso los proyectos de Ley de Ingresos y de Presupuesto de Egresos, o sólo este último, dentro de los cinco días naturales siguientes a aquél en que le sean remitidos.
+
+El Congreso resolverá sobre las observaciones del Ejecutivo, dentro de los cinco días naturales posteriores a su recepción, ya sea dentro del período ordinario de sesiones o el extraordinario que se convoque al efecto.
+
+C. Si al inicio del año no se encontraren aprobados la Ley de Ingresos y el Presupuesto de Egresos, o únicamente este último, deberá observarse lo siguiente:
+
+I.- En el caso de la Ley de Ingresos, continuará vigente aquella aprobada para el año anterior, en tanto se apruebe la ley para el año correspondiente, y los ingresos que excedan los montos autorizados en esta ley sólo podrán destinarse a la creación de reservas para el estado;
+
+II. En el caso del Presupuesto de Egresos, continuará vigente aquel aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos obligatorios, en tanto se apruebe el Presupuesto para el año correspondiente. En todo caso, la ley determinará los criterios que permitan definir los gastos de carácter obligatorio los cuales deberán comprender al menos el gasto corriente aprobado para el año anterior, hasta por el porcentaje que determine la ley así como las remuneraciones de los servidores públicos.
+
+D. El Congreso podrá autorizar y modificar programas y proyectos de inversión vinculados al Plan Estatal de Desarrollo que abarquen varios ejercicios fiscales; los gastos correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+
+Las disposiciones específicas para dar cumplimiento a lo establecido en este artículo, se llevarán a cabo de conformidad a lo dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -517,13 +547,15 @@ III. Crear nuevas Municipalidades y modificar los límites de los ya existentes,
 
 IV. Fijar los límites de las Municipalidades, terminando las diferencias que entre ellos se susciten, sobre las demarcaciones de sus respectivos territorios, salvo que aquellas tengan carácter contencioso.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-V. Crear y suprimir empleos en el Estado, y señalar, aumentar o disminuir las respectivas remuneraciones según las necesidades y con la previa aprobación del Ejecutivo. Para ese efecto, la legislatura ordenará, al aprobar el presupuesto de egresos, publicar la retribución que corresponda a los empleos públicos establecidos por la ley. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo. Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos del Estado, debiendo éstos rendir cuentas trimestralmente al Congreso acerca de su ejercicio.
+V.- Crear y suprimir empleos públicos en el estado, con excepción de los municipales, y señalar aumentar o disminuir las respectivas remuneraciones según sus necesidades. Para este efecto, la legislatura ordenará, al aprobar el Presupuesto de Egresos, publicar la retribución integral que corresponda a los empleos públicos establecidos por la ley.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+En todo caso, las ampliaciones y disminuciones de empleos públicos que dentro de la esfera del Poder Ejecutivo, sean autorizadas por el Congreso, deberán ser motivadas en el dictamen respectivo.
 
-VI. Fijar anualmente, a propuesta que haga el Gobernador durante los primeros quince días del mes de noviembre, los gastos de la administración pública y designar las contribuciones que deban imponerse para cubrirlos, así como las ampliaciones y modificaciones que se hicieren necesarias. Si el Congreso no aprobare el presupuesto o la Ley de Ingresos del Estado, en los términos previstos por esta Constitución, declarará, en su caso, que seguirá vigente el presupuesto y la ley aprobadas para el año anterior, ajustados al índice inflacionario que establezca el Banco de México de ese mismo año, hasta que se apruebe el ejercicio fiscal correspondiente conforme las bases establecidas en la ley
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+
+VI.- Examinar, discutir y aprobar la Ley de Ingresos y el Presupuesto de Egresos, así como las ampliaciones y modificaciones que se hicieren necesarias, en los términos de esta constitución.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -589,9 +621,9 @@ XXIV. Decretar el desafuero de alguno de sus miembros.
 
 XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-XXVI. Fiscalizar y aprobar las cuentas de todos los caudales del Estado. La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar.
+XVI. Fiscalizar las cuentas públicas del año anterior de todos los caudales del estado y de los municipios.
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
@@ -613,9 +645,11 @@ XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
 XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la competencia exclusiva de la Federación, así como las que haga obligatorias la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-XXXI. Seguir procedimiento de responsabilidad a los servidores públicos del Estado, Empresas Públicas Descentralizadas o de los Ayuntamientos en su caso.
+XXXI.- Seguir procedimiento de responsabilidad a los servidores públicos del estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta constitución.
+
+Cuando de la fiscalización que realice el Órgano de Fiscalización Superior del Estado sea presumible la responsabilidad administrativa de servidores públicos estatales o municipales, ésta será determinada por el Congreso en los términos que establezca la ley.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -691,23 +725,33 @@ Es materia de Decreto toda resolución que otorgue derechos y obligaciones a det
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un Proyecto de Ley o Decreto, lo enviará desde luego al Ejecutivo para que dentro del plazo de diez días haga las observaciones que juzgue pertinentes.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva. Aprobado por la Cámara un proyecto de ley o decreto lo enviará desde luego al Ejecutivo, para que dentro del plazo de diez días naturales haga las observaciones que estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+
+El plazo para la presentación de las observaciones a los proyectos de Ley de Ingresos y de decreto de Presupuesto de Egresos se ajustará a lo dispuesto por el artículo 38 de esta constitución.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 54.
 
-Todo Proyecto de Ley o de Decreto, se reputará aprobado por el Ejecutivo, si no fuere devuelto en el plazo señalado por el Artículo anterior, a no ser que durante el transcurso del término señalado, la Legislatura hubiere clausurado o suspendido sus sesiones, pues en tal caso la devolución deberá hacerse dentro de los cinco primeros días hábiles del período ordinario siguiente.
+Se considerará aprobada por el Ejecutivo la resolución materia de ley o decreto no devuelta con observaciones al Congreso dentro de los diez días naturales a partir de su recepción, a no ser que corriendo dicho plazo, éste hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día en que el Congreso vuelva a estar reunido.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 55.
 
-Todo proyecto de Ley o Decreto devuelto por el Ejecutivo, con observaciones, necesita para su aprobación el voto de la mayoría de los Diputados que integran el Honorable Congreso y en este caso, será remitido nuevamente al Ejecutivo, para que sin más trámite lo promulgue.
+La ley o decreto devuelto con observaciones que en todo o en parte se le hayan formulado, será discutido de nueva cuenta en el Congreso.
+
+En este debate, podrá intervenir el Gobernador o quien él designe, para defender sus observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la ley o el decreto son confirmados por el voto de la mayoría de diputados integrantes del Congreso, será reenviado al Ejecutivo para su inmediata promulgación y publicación. Si a pesar de ello, el Ejecutivo se niega a promulgar y publicar la resolución o la retarda injustificadamente, será acreedor a las sanciones que establezca la ley.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 56.
 
-Todo proyecto de ley o decreto que fuere desechado por el Congreso, no podrá volver a presentarse en el mismo período de sesiones.
+Desechada alguna iniciativa de ley o decreto, no podrá ser propuesta de nuevo en el mismo período de sesiones, pero esto no impedirá que algunos de sus artículos formen parte de otra. Esta disposición no regirá tratándose de la Ley de Ingresos y del Presupuesto de Egresos.
 
 ###### Art. 57.
 
@@ -1255,23 +1299,37 @@ Sus labores en términos generales, serán las de velar por el exacto cumplimien
 
 El Procurador General de Justicia es el jefe de la Policía Judicial
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+
 ###### Art. 100.
 
-Todas las Autoridades del Estado, tienen el deber para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
+Todas las autoridades del estado, tienen el deber de facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su cargo.
 
-### CAPITULO III. De las Defensorías de Oficio
+Las facultades y obligaciones del Procurador General de Justicia y de los Agentes del Ministerio Público, serán las que se determinen en la ley de la materia.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+
+### CAPITULO III. De la Defensa de los Derechos Humanos
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 101.
 
-Las facultades y obligaciones del Procurador General de Justicia y Agentes del Ministerio Público, serán las que determine la ley orgánica del ramo.
+La protección de los Derechos Humanos, se realizará por el organismo denominado Comisión de Defensa de los Derechos Humanos del Estado de Nayarit, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1994)</small>
+El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas; no tendrá competencia tratándose de asuntos electorales, laborales y jurisdiccionales.
 
-### CAPITULO UNICO. De los Municipios
+La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria personalidad jurídica y patrimonio propio, tendrá un Consejo Consultivo integrado por el numero de consejeros que fije la ley los cuales serán elegidos por el voto de la mayoría de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
+El Presidente, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años y no podrá ser reelecto y sólo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución.
+
+El Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado de Nayarit presentará anualmente al Congreso un informe de actividades. Al efecto comparecerá ante la Cámara en los términos que disponga la ley.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 17 DE MAYO DE 2004)</small>
+
+### CAPITULO IV. De las Defensorías de Oficio
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
 
 ###### Art. 102.
 
@@ -1279,9 +1337,9 @@ Habrá en el Estado una dependencia encargada del servicio de defensoría de ofi
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
 
-### CAPITULO PRIMERO.
+### CAPITULO UNICO. De los Municipios
 
-De la Hacienda Pública del Estado.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
 ###### Art. 103.
 
@@ -1301,9 +1359,9 @@ Los defensores de oficio deberán reunir los mismos requisitos que se exigen a l
 
 ## TITULO SEXTO
 
-### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
+### CAPITULO PRIMERO.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
+De la Hacienda Pública del Estado.
 
 ###### Art. 106.
 
@@ -1477,15 +1535,15 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 (DEROGADO, P.O. 24 DE ENERO DE 2001)
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 ## TITULO SEPTIMO
 
 > <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 116.
 
@@ -1533,25 +1591,53 @@ El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclus
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
+### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 121.
 
-La fiscalización de los programas y recursos públicos se realizará por el Organo de Fiscalización Superior del Estado, con arreglo a lo dispuesto en la ley de la materia y conforme a las bases siguientes:
+La revisión y fiscalización de los programas y recursos públicos tendrá por objeto investigar el examen de la exactitud y justificación de los gastos hechos, si las cantidades están o no de acuerdo con las partidas y criterios señalados en los presupuestos de egresos, conocer los resultados de la gestión financiera y programática así como comprobar si se ha ajustado a la normatividad aplicable.
 
-I.- Fiscalizará en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos y organismos autónomos, así como el cumplimiento de los objetivos contenidos en los planes y programas gubernamentales.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
 
-II.- En los términos de la ley, entregará al Congreso el informe del resultado de la revisión trimestral de la cuenta pública; investigará los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, de los poderes del Estado, Ayuntamientos y demás organismos autónomos del Estado.
+El Órgano de Fiscalización Superior del Estado realizará la revisión y fiscalización a la que se refiere el párrafo anterior, con arreglo a lo dispuesto en la ley y el reglamento de la materia y conforme a las bases siguientes.
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+
+I.- Fiscalizará en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del estado, de los ayuntamientos y órganos autónomos, así como el cumplimiento de los objetivos contenidos en los planes de desarrollo estatal y municipal, así como de los programas gubernamentales que deriven de éstos; mediante los informes y documentos que se le presenten en los términos que disponga la ley.
+
+Si del examen que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley.
+
+Sin perjuicio de los informes y documentos a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señaladas por la ley, se podrá dar lugar al fincamiento de las responsabilidades que correspondan.
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+
+II.- En los términos de la ley, entregará al Congreso el informe del resultado de la revisión de las cuentas públicas a más tardar el 15 de noviembre del año siguiente al que se revise; investigará los actos u omisiones que impliquen irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos que dispongan los poderes del estado, los Ayuntamientos, las entidades estatales y municipales y demás organismos autónomos del estado; el informe una vez presentado será público y su difusión será obligatoria en todo el estado.
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 III.- Efectuará visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas.
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
 IV.- Determinará los daños y perjuicios que afecten a las haciendas públicas estatal y municipales, al patrimonio de las entidades descentralizadas y al de los organismos autónomos del Estado, fincando directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan, así como promover ante las autoridades competentes las responsabilidades que procedan, presentando las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
 
 V.- El Congreso designará titular del Organo de Fiscalización Superior, por el voto de las dos terceras partes de sus integrantes. La ley determinará el procedimiento que al efecto resulte aplicable. Dicho titular durará en su cargo cuatro años, podrá ser ratificado por una sola vez y será removido por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en esta Constitución.
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
 VI.- La ley establecerá los requisitos y procedimientos para la designación y remoción de los demás servidores públicos del Organo de Fiscalización Superior del Estado. Durante el ejercicio de su cargo, incluido el titular, no podrán formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia; y
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2000)</small>
+
 VII.- Los Poderes del Estado y las autoridades municipales, así como los sujetos de fiscalización, facilitarán los informes y documentos que requiera el Organo de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+
+En los términos que fije la ley, los sujetos fiscalizables deberán presentar su cuenta pública anualmente dentro de los cuarenta y cinco días posteriores al 31 de diciembre del ejercicio fiscal del que se informe, en todo caso, trimestralmente presentarán los informes del avance de su gestión financiera sobre los avances físicos y financieros de los programas a su cargo.
 
 ###### Art. 121 Bis.
 
@@ -1563,9 +1649,7 @@ VII.- Los Poderes del Estado y las autoridades municipales, así como los sujeto
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO UNICO. Prevenciones Generales
-
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
 
 ###### Art. 122.
 
@@ -1621,15 +1705,21 @@ Para esos efectos el Congreso del Estado se constituirá separadamente en Jurado
 
 Las declaraciones y Resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2004)</small>
 
 ###### Art. 125.
 
-Para proceder penalmente contra los servidores públicos señalados en el artículo anterior, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados al Congreso; los magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los jueces de primera instancia, los magistrados del Tribunal Electoral y los del Tribunal de Justicia Administrativa, el Presidente de la Comisión de Defensa de los Derechos Humanos del Estado, los Secretarios del Despacho y el Procurador General de Justicia, los presidentes, regidores y síndicos de los ayuntamientos de la entidad; por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Si la resolución del Congreso fuere negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las Autoridades competentes para que actúen con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Por lo que toca al Gobernador del Estado, solo habrá lugar a acusarlo ante el Congreso del Estado en los términos del artículo 124. En este supuesto, el Congreso resolverá con base en la Legislación penal aplicable.
 
@@ -1637,11 +1727,19 @@ Por lo que toca al Gobernador del Estado, solo habrá lugar a acusarlo ante el C
 
 La Legislatura Local, en ejercicio de sus atribuciones, intervendrá en definitiva por la comisión de delitos federales en contra del Gobernador, Diputados Locales, Magistrados del Tribunal Superior de Justicia y, en su caso, Consejeros de la Judicatura, una vez que el Congreso de la Unión o cualesquiera de sus Cámaras, emitan la declaratoria de procedencia respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separado de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la Legislación Penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
@@ -1658,6 +1756,10 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 ###### Art. 127.
 
 Las Leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas; dichas sanciones además de las que señalen las Leyes consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción tercera del artículo 123, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+
+La responsabilidad del estado y sus municipios por los daños que con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa, en los términos que establezca la ley. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -1678,6 +1780,10 @@ En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor 
 > <small>(REFORMADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
 
 ## TITULO NOVENO
+
+### CAPITULO UNICO. Prevenciones Generales
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 ###### Art. 130.
 
@@ -2159,7 +2265,7 @@ La presente reforma y adición a la Constitución Política del Estado entrará 
 
 P.O. 15 DE FEBRERO DE 1989.
 
-DECRETO NUMERO 7181, QUE REFORMA ARTS. 32, 34, 36, 39, 47, 50 Y 69.
+DECRETO NUMERO 7195, QUE REFORMA ARTS. 81 AL 91.
 
 ###### ARTICULO PRIMERO.
 
@@ -2285,9 +2391,7 @@ DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124, Y DEL 72 AL 79.
 
 ###### ARTICULO UNICO.
 
-Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el
-
-Periódico Oficial, Organo del Gobierno del Estado.
+Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 26 DE ABRIL DE 1995.
 
@@ -2345,7 +2449,7 @@ SEGUNDO.- Remítase el expediente y la minuta del presente decreto a los ayuntam
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7886, QUE REFORMA ARTS. 26, 27, 29, 47 FR.VIII,XIX Y XXXV, 58, 60 FR. III Y VI.
+DECRETO 7886, QUE REFORMA ARTS. 26, 27, 29, 47 FR. VIII, XIX Y XXXV, 58, 60 FR. III Y VI.
 
 ###### ARTICULO PRIMERO.
 
@@ -2466,3 +2570,19 @@ DECRETO NO. 8443 QUE REFORMA ARTICULOS 36 Y 40.
 Primero.- El presente decreto entrará en vigor el primero de enero de 2003, debiendo publicarse en el Periódico Oficial, Organo del Gobierno del Estado.
 
 Segundo.- En su oportunidad, y de resultar aprobado por esta Asamblea legislativa, túrnese el presente decreto a los H. Ayuntamientos de los municipios del Estado, para los efectos a que se refiere el artículo 131 de la Constitución Política.
+
+P.O. 17 DE MAYO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit. Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a las leyes que se requieran para dar cumplimiento a las disposiciones contenidas en este Decreto, deberán estar aprobadas con el Congreso a más tardar el 30 de mayo del año 2004. Hasta antes de dicha fecha, continuarán aplicándose sólo aquellas disposiciones vigentes que no se opongan a lo establecido en este Decreto.
+
+El plazo para la presentación de la iniciativa de Ley de Ingresos y de Presupuesto de Egresos a que alude el artículo 38 de la Constitución Política del Estado que con este Decreto se reforma, será aplicable a partir del ejercicio fiscal 2004.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente decreto a los H. Ayuntamientos Constitucionales del Estado de Nayarit para los efectos del artículo 131 de la Constitución Política del Estado.
