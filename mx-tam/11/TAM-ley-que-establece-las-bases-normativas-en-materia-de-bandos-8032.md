@@ -1,0 +1,228 @@
+---
+title: "LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS"
+identifier: "TAM-ley-que-establece-las-bases-normativas-en-materia-de-bandos-8032"
+country: "mx"
+rank: "ley"
+publication_date: "1987-11-30"
+last_updated: "1987-11-30"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8032&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-tam"
+scjn_id: "8032"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "1 EXTRAORDINARIO"
+reform_count: "3"
+scjn_last_update: "2023-06-06"
+issue_date: "1987-10-19"
+state: "TAM"
+---
+# LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
+
+LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial, el 30 de noviembre de 1987.
+
+Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo.- Secretaría General".
+
+EL CIUDADANO AMERICO VILLARREAL GUERRA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+
+Que el Honorable Congreso del Estado se ha servido expedir el siguiente Decreto:
+
+"Al margen un sello que dice: Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGESIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en ejercicio de las facultades que le confiere el Artículo 58, fracción I, de la Constitución Política local, tuvo a bien expedir el siguiente
+
+DECRETO No. 72
+
+LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
+
+### CAPITULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+###### ARTICULO 1o.
+
+Esta Ley establece las bases normativas para que los Ayuntamientos expidan Bandos de Policía y Buen Gobierno en sus respectivos Municipios, y es de orden público y observancia general.
+
+###### ARTICULO 2o.
+
+Esta Ley regulará las formalidades procesales a que se sujetará la imposición de sanciones en materia de faltas de Policía y Buen Gobierno.
+
+###### ARTICULO 3o.
+
+Las disposiciones contenidas en esta Ley, serán aplicadas a las personas mayores de 16 años.
+
+### CAPITULO SEGUNDO
+
+DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO.
+
+###### ARTICULO 4o.
+
+Se consideran faltas de Policía y Buen Gobierno todas aquellas conductas que alteren el orden público en lugares de uso común, acceso público y libre tránsito y que tengan efectos en esos lugares.
+
+###### ARTICULO 5o.
+
+Son faltas de Policía y Buen Gobierno:
+
+I.- Toda conducta que altere el orden público, la paz social, la moral pública u ofenda las buenas costumbres.
+
+II.- Las que señalen los Bandos de Policía y Buen Gobierno de los Municipios del Estado, siempre y cuando no constituyan delito en los términos del Código Penal.
+
+###### ARTICULO 6o.
+
+Los Ayuntamientos del Estado, al expedir sus Bandos de Policía y Buen Gobierno, harán la enunciación completa de las faltas, introduciendo todas aquellas conductas que sean características o distintivas de su Municipio.
+
+### CAPITULO TERCERO
+
+DE LAS SANCIONES.
+
+###### ARTICULO 7o.
+
+Se impondrá la sanción correspondiente a toda falta de Policía y Buen Gobierno.
+
+###### ARTICULO 8o.
+
+Los Bandos de Policía y Buen Gobierno enunciarán la sanción a !as faltas, que consistirán, de acuerdo con su naturaleza y gravedad en: Apercibimiento, amonestación, multa o arresto.
+
+###### ARTICULO 9o.
+
+Para los efectos de esta Ley, se establecen las siguientes definiciones:
+
+I.- APERCIBIMIENTO es la conminación que el Juez Calificador hace al infractor para que haga o deje de hacer algo previsto en la Ley.
+
+II.- AMONESTACION es la censura, pública o privada, que el Juez Calificador hace al infractor.
+
+III.- MULTA es el pago de una cantidad de dinero hasta por el equivalente a 20 días de salario mínimo diario general en la zona, que el infractor hace al Ayuntamiento, la cual no podrá ser mayor de un día de salario mínimo cuando dicho infractor fuere jornalero, obrero o trabajador no asalariado.
+
+IV.- ARRESTO es la privación de la libertad hasta por 36 horas; quedando prohibida la incomunicación del arrestado.
+
+###### ARTICULO 10.
+
+El arresto se cumplirá en lugares diferentes a los designados para las personas sujetas a averiguación previa, procesados o sentenciados. Los varones estarán separados de las mujeres.
+
+###### ARTICULO 11.
+
+Sólo el órgano competente podrá decretar el arresto y éste será ejecutado por la Policía Preventiva. Esta no podrá aprehender, ni privar de la libertad a ninguna persona, salvo los casos de flagrancia o notoria urgencia, poniendo al o los detenidos inmediatamente a la disposición del Juez Calificador.
+
+###### ARTICULO 12.
+
+El Juez Calificador pondrá de inmediato a disposición del Consejo Tutelar a los menores de 16 años.
+
+###### ARTICULO 13.
+
+Cuando el infractor no pagare la multa impuesta, el Juez Calificador la permutará por arresto que no exceda de 36 horas.
+
+Si en el transcurso del arresto se allegare recursos para cubrir la multa, ésta se aplicará proporcionalmente, tomando en cuenta las horas que permaneció privado de su libertad.
+
+### CAPITULO CUARTO
+
+DE LA COMPETENCIA.
+
+###### ARTICULO 14.
+
+El órgano competente para conocer y sancionar las faltas de Policía y Buen Gobierno en los Municipios del Estado, es el Juez Calificador.
+
+###### ARTICULO 15.
+
+Los Jueces Calificadores contarán con un Secretario y con el personal administrativo necesario para el desempeño de sus funciones. El Secretario ejercerá las atribuciones asignadas legalmente al Juez Calificador, en ausencia de éste; a falta de ambos los suplirá el Síndico correspondiente.
+
+El Juez Calificador, en el ejercicio de sus atribuciones girará instrucciones a las Policías Preventivas en su jurisdicción, por conducto del superior jerárquico de éstas.
+
+###### ARTICULO 16.
+
+Para ser Juez Calificador se requiere:
+
+I.- Ser ciudadano mexicano en ejercicio de sus derechos;
+
+II.- Residir en la municipalidad;
+
+III.- De preferencia, Licenciado en Derecho o Pasante; podrá dispensarse este requisito en los lugares donde no exista este tipo de profesionistas; y,
+
+IV.- No haber sido condenado por delito doloso.
+
+###### ARTICULO 17.
+
+La designación de los Jueces Calificadores y de los Secretarios, corresponderá a los Ayuntamientos.
+
+###### ARTICULO 18.
+
+Será obligación de los Jueces Calificadores, rendir al Presidente Municipal, un informe anual de labores, y llevar una estadística de las Faltas de Policía y Buen Gobierno ocurridas en su Municipio, su incidencia, frecuencia y los constantes hechos que influyen en su realización.
+
+### CAPITULO QUINTO
+
+DEL PROCEDIMIENTO.
+
+###### ARTICULO 19.
+
+El procedimiento ante el Juez Calificador será oral y público, salvo que, por motivos de moral u otros graves, resuelva que se desarrolle en privado y se sustanciará en una sola audiencia.
+
+###### ARTICULO 20.
+
+Ante una falta de Policía y Buen Gobierno, se procederá en la forma siguiente:
+
+I.- El Agente de Policía se presentará en el lugar de los hechos;
+
+II.- Levantará la boleta, señalando la conducta realizada por el presunto infractor y se le entregará un citatorio para que se presente ante el Juez Calificador, señalándole día y hora;
+
+III.- La boleta y el citatorio se levantarán por triplicado, entregando de inmediato una copia al presunto infractor, otra al Juez Calificador, conservando un tanto el Agente policial;
+
+IV.- En el citatorio se apercibirá al presunto infractor, que de no presentarse voluntariamente en la fecha señalada, se le hará presentar por los medios legales.
+
+###### ARTICULO 21.
+
+Si el Juez Calificador considera que los hechos son constitutivos de delito, dará vista al Ministerio Público inmediatamente.
+
+###### ARTICULO 22.
+
+El Juez Calificador, integrará un expediente con los documentos que reciba del Agente de Policía y procederá como sigue:
+
+I.- Se hará saber al presunto infractor que tiene derecho a ser oído por sí mismo o que lo asista y defienda la persona que designe si así lo desea.
+
+II.- Se le informará la falta o faltas que se le imputan.
+
+III.- El presunto infractor alegará lo que a su interés convenga, pudiendo suspenderse la audiencia para que aporte las pruebas pertinentes, difiriéndose la misma, para una nueva fecha, la que se efectuará dentro de los 5 días siguientes, quedando en libertad el supuesto responsable, notificándole el día y la hora de su nueva presentación.
+
+IV.- Al término de la audiencia existan o no pruebas, se dictará la resolución que en derecho proceda, fundando y motivando su determinación conforme a lo establecido en este Ordenamiento y los demás aplicables.
+
+###### ARTICULO 23.
+
+La resolución que se dicte contendrá una relación clara y precisa de los hechos, si el cumplimiento del citatorio fue voluntario o coactivo, la expresión de los alegatos verbales o por escrito, los medios de pruebas aportadas y los antecedentes generales del presunto infractor.
+
+En los considerandos la decisión que se pronuncie deberá ser razonada, estableciendo la relación directa entre los hechos anotados en la boleta inicial, la violación o no de alguna Ley o Reglamento que señale las Faltas de Policía y Buen Gobierno y el valor otorgado a los argumentos y medios de prueba.
+
+###### ARTICULO 24.
+
+La duda razonable, favorecerá al presunto responsable con la absolución.
+
+###### ARTICULO 25.
+
+Copia de la resolución se entregará personalmente al interesado, para los efectos legales que proceda.
+
+###### ARTICULO 26.
+
+Si la resolución ordena la imposición de una sanción y el responsable la considera improcedente, podrá impugnarla recurriendo al Presidente Municipal, quien resolverá de plano.
+
+###### ARTICULO 27.
+
+La ejecución de las sanciones por faltas de Policía y Buen Gobierno, prescribe en un año contado a partir de la fecha de la resolución que dicte el Juez Calificador.
+
+## TRANSITORIOS.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan los Decretos 125 de fecha 12 de diciembre de 1928, publicado en el Periódico Oficial el 22 de enero de 1929 y el 10 expedido el 29 de marzo de 1935 y publicado en el Periódico Oficial el 13 de abril del mismo año, los cuales fueron emitidos respectivamente por la Trigésima y la Trigésima Cuarta Legislatura Constitucional del Estado.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 14 de octubre de 1987.- Diputado Presidente, PROFR. ARTURO AGUILAR COBOS.- Rúbrica.- Diputado Secretario, RAUL MANDUJANO FLORES.- Rúbrica.- Diputado Secretario, AMANDO BARRERA GARCIA.- Rúbrica "
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los diecinueve días del mes de octubre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
