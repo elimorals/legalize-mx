@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-trabajo-y-22671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-21"
-last_updated: "2001-12-21"
+last_updated: "2003-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22671&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-12-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL, PUBLICADO EN EL D.O.F. DE 18 DE AGOSTO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 21 de diciembre de 2001.
 
@@ -1108,3 +1110,17 @@ TERCERO. Continuarán en vigor los acuerdos secretariales de delegación de facu
 CUARTO. Las unidades administrativas con denominación nueva o distinta a la que aparece en el documento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE AGOSTO DE 2003.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en los artículos 8, fracción XII y 26, fracción XXIII, que serán aplicables hasta que entre en vigor la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+SEGUNDO. La capacitación de los servidores públicos que están comprendidos en el Sistema del Servicio Profesional de Carrera, se seguirá realizando conforme a los programas autorizados en términos del artículo 6, fracción XIX del presente Reglamento, hasta en tanto entre en vigor la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social de fecha 19 de diciembre de 2001, publicado en el Diario Oficial de la Federación el día 21 del mismo mes y año; asimismo, se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Continuarán en vigor los acuerdos secretariales de delegación de facultades, desconcentración de funciones y demás que hayan sido expedidos por el titular de la Secretaría y que se encuentren actualmente vigentes, en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto dicho servidor público no los modifique o deje sin efectos.
+
+QUINTO. Las unidades administrativas con denominación nueva o distinta a la que aparece en el instrumento que se abroga u otros ordenamientos jurídicos o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la fecha de entrada en vigor del presente Reglamento.
