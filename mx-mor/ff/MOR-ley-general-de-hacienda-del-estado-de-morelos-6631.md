@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2002-08-14"
+last_updated: "2004-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3659,6 +3659,30 @@ H) Camión de pasajeros urbanos y sub-urbanos N$ 111.20
 
 I) Bicicletas N$ 9.60
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2004)</small>
+
+III-Bis.- Expedición de concesión del servicio público y su renovación.
+
+I. Expedición
+
+Concepto Días de Salarios
+
+A).- Servicio público con itinerario fijo 37
+
+B).- Servicio público sin itinerario fijo 30
+
+C).- Servicio público de carga 37
+
+2.- Renovación
+
+Concepto Días de Salario
+
+A).- Servicio público con itinerario fijo 37
+
+B).- Servicio público sin itinerario fijo 30
+
+C).- Servicio público de carga 37
+
 IV.- Otros servicios.
 
 1.- Expedición gafete de operador N$ 11.20
@@ -4721,6 +4745,14 @@ A) Ordinarias 1.5
 
 B) Urgentes 2.0
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2004)</small>
+
+XII. Distribución de formatos a Oficialías municipales del Registro Civil:
+
+A) De registro 0.057
+
+B) Para certificaciones 0.057
+
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
 ### CAPITULO I (SIC)
@@ -5190,3 +5222,11 @@ PRIMERO.- Remítase el presente Decreto para su inmediata publicación en el Per
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones contrarias al presente Decreto.
+
+P.O. 30 DE JULIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+TERCERO.- El presente Decreto no autoriza la expedición de nuevas concesiones, ni la reexpedición de concesiones que hayan sido canceladas o sobre las cuales no se hayan pagado oportunamente los derechos correspondientes para su renovación, si es que era necesario hasta antes de la fecha de entrada en vigor del presente.
