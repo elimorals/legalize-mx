@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1980-06-24"
+last_updated: "1980-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -741,11 +741,15 @@ Este artículo se aplicará también, en lo conducente, cuando se tache de falso
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de policía judicial
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 124.
 
-Tan luego como los funcionarios encargados de practicar diligencias de policía judicial tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las providencias necesarias: para proporcionar seguridad y auxilio a las víctimas; para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas, objeto o efecto del mismo; para saber qué personas fueron testigos del hecho y en general impedir que se dificulte la averiguación; y, en los casos de flagrante delito, para asegurar a los responsables.
+Tan luego como los funcionarios encargados de practicar diligencias de policía judicial tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las providencias necesarias para proporcionar seguridad y auxilio a las víctimas; para impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas objeto o efecto del mismo; para saber qué personas fueron testigos del hecho y en general impedir que se dificulte la averiguación; y en los casos de flagrante delito, para asegurar a los responsables.
 
-Lo mismo se hará tratándose de delitos que solamente puedan perseguirse por querella, si ésta ha sido formulada.
+Cuando el instrumento del delito lo sea un vehículo de motor, éste no será devuelto a su propietario, aunque resulte ser un tercero, hasta que el Ministerio Público determine en definitiva que no es de ejercitar la acción penal o se acredite fehacientemente, que el daño que tenga fuente en el delito ha sido reparado.
+
+Las reglas anteriores también deberán observarse tratándose de delitos que solamente pueden perseguirse por querella, si ésta ha sido formulada.
 
 ###### ARTICULO 125.
 
@@ -809,15 +813,19 @@ Al recibir el Ministerio Público diligencias de policía judicial, si hubiere d
 
 ### CAPITULO UNICO. Acción Penal
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 137.
 
-En ejercicio de la acción penal corresponde al Ministerio Público:
+El ejercicio de la acción penal corresponde al Ministerio Público:
 
 I.- Promover la incoación del procedimiento judicial;
 
 II.- Solicitar las órdenes de comparecencia para preparatoria y las de aprehensión que sean procedentes;
 
-III.- Pedir el aseguramiento de bienes para los efectos de la reparación del daño;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+III.-En todo caso y bajo su más estricta responsabilidad pedir el aseguramiento de bienes para los efectos de la reparación del daño y, de ser ésta a cargo de terceros, en términos de lo dispuesto en el artículo 45 del Código Penal, deducir en representación de los que tengan derecho a dicha reparación el incidente que previene el artículo 412 de este Código hasta la comparecencia de los legitimados, a los que deberá llamar para que continúen la secuela;
 
 IV.- Rendir las pruebas de la existencia de los delitos y de la responsabilidad de los inculpados;
 
@@ -851,9 +859,13 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 142.
 
 La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá proporcionar al Ministerio Público, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del delito, la responsabilidad del inculpado y la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal, los ministre a los tribunales.
+
+La parte ofendida, también podrá proporcionar directamente al Juez respectivo, por sí o por apoderado, las pruebas que en su caso permitan al tribunal fijar el monto de la reparación y reconocer su derecho a recibirla.
 
 ## TITULO CUARTO. INSTRUCCION
 
@@ -863,9 +875,11 @@ La persona ofendida por un delito no es parte en el procedimiento penal, pero po
 
 El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 144.
 
-Durante la instrucción el tribunal que conozca del proceso deberá, de acuerdo con lo establecido en el artículo 50 del Código Penal, observar las circunstancias peculiares del delincuente, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor peligrosidad.
+Durante la instrucción el tribunal que conozca del proceso deberá, de acuerdo con lo establecido en el artículo 65 del Código Penal, observar las circunstancias peculiares del delincuente, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conducta anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor peligrosidad.
 
 El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
 
@@ -877,9 +891,11 @@ La instrucción deberá terminarse en el menor tiempo posible. Cuando el delito 
 
 Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del sujeción a proceso, y podrán ampliarse por el juez hasta por dos meses más cuando el acusado lo solicite por considerarlo necesario a su defensa.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 146.
 
-Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Ministerio Público, de oficio o a instancia de quien tenga derecho a la reparación, podrá pedir al tribunal el embargo precautorio de dichos bienes, el que se decretará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante, a juicio del tribunal, podrá no decretarse el embargo o levantarse el que se haya efectuado.
+Cuando haya temor fundado de que el inculpado oculte o enajene los bienes en que pueda hacerse efectiva la reparación del daño, el Juez a petición del Ministerio Público o de quien tenga derecho a la reparación, decretará el embargo precautorio de dichos bienes, el que se practicará con sólo esta petición y la prueba de la necesidad de la medida; pero si el inculpado otorga fianza bastante, a juicio del tribunal, podrá no acordarse el embargo o levantarse el que se haya efectuado.
 
 ###### ARTICULO 147.
 
@@ -923,9 +939,11 @@ En los casos en que por sancionarse el delito con pena alternativa o distinta a 
 
 Si contra una orden de aprehensión no ejecutada o de comparecencia para preparatoria, se concede la suspensión definitiva por haber pedido amparo el inculpado, el tribunal que libró dicha orden procederá desde luego a solicitar del que concedió la suspensión que lo haga comparecer a su presencia dentro de tres días, para que rinda su declaración preparatoria y para los demás efectos del procedimiento.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 156.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el Capítulo II, Título Noveno del Libro II del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que deba hacerse saber su nombramiento a todo defensor.
+No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en los capítulos I, II y III, título XV del libro segundo del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que deba hacerse saber su nombramiento a todo defensor.
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso y libertad por falta de elementos para procesar
 
@@ -1029,11 +1047,15 @@ Para la comprobación del cuerpo del delito, los funcionarios de policía judici
 
 ### CAPITULO II. Huellas del delito. Aseguramiento de los instrumentos y objetos del mismo
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 174.
 
 Los instrumentos del delito y las cosas objeto o efecto de él, así como aquéllos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados, ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan.
 
-De todas las cosas aseguradas, se hará un inventario en el que se les describirá de tal manera, que en cualquier tiempo puedan ser identificadas.
+De todas las cosas aseguradas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+
+Si con un vehículo de motor se causó la muerte de una persona o ésta sufrió lesiones, sin perjuicio de lo previsto en el artículo 124 se decretará el secuestro del mismo para procurar, en su caso, el pago de la reparación del daño y no se levantará el embargo hasta que la reparación sea satisfecha o se otorgue garantía bastante, a juicio del juez y bajo su responsabilidad, al fin indicado.
 
 ###### ARTICULO 175.
 
@@ -1265,11 +1287,13 @@ Los peritos que acepten el cargo, con excepción de los oficiales titulares, tie
 
 En casos urgentes la protesta la rendirán al producir o ratificar su dictamen.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 219.
 
 El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si transcurrido ese tiempo no rinden su dictamen o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
 
-Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público para que proceda por el delito a que se refiere el artículo 133 del Código Penal.
+Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público para que proceda por el delito a que se refiere el artículo 264 del Código Penal.
 
 ###### ARTICULO 220.
 
@@ -1579,13 +1603,17 @@ I.- Cuando el Procurador General de Justicia confirme o formule conclusiones no 
 
 II.- Cuando el Ministerio Público se desista de la acción penal intentada;
 
-III.- Cuando aparezca que la responsabilidad penal esta extinguida;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+III.- Cuando la acción penal o el decreto a querellarse, estén extinguidos;
 
 IV.- Cuando no se hubiere dictado auto de formal prisión o de sujeción a proceso y aparezca que el hecho que motiva la averiguación no constituye delito, o cuando estando agotada ésta se compruebe que no existió el hecho delictuoso que la motivó;
 
 V.- Cuando habiéndose decretado la libertad por desvanecimiento de datos esté agotada la averiguación y no existan elementos posteriores para dictar nueva orden de aprehensión;
 
-VI.- Cuando por comprobarse plenamente que en favor del inculpado existe alguna causa que excluye la incriminación, no llegue a ser declarado formalmente preso.
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+VI.- Cuando por comprobarse plenamente una causa excluyente de incriminación en términos del artículo 20 del Código Penal, el inculpado no llegue a ser declarado formalmente preso.
 
 ###### ARTICULO 278.
 
@@ -1701,13 +1729,11 @@ Interpuesto el recurso, en el acto de la notificación o dentro de las veinticua
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba y del arbitrio judicial o si se alteraron los hechos, confirmando, revocando o modificando la resolución apelada.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 300.
 
-La segunda instancia se abrirá a petición del Ministerio Público, del inculpado o de sus defensores y versará sobre los agravios que estime al apelante le cauce la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el procesado, o siéndolo el defensor, se advierte que por torpeza no los hizo valer debidamente. En este último caso, el tribunal de alzada lo comunicará al Procurador General de Justicia a los efectos de su representación.
-
-El que haya acreditado en la causa su derecho a la reparación del daño, podrá apelar de la sentencia únicamente cuando ésta absuelva de su pago al responsable o lo condene a él en cantidad menor a la que proceda.
+La segunda instancia se abrirá a petición de parte legítima, para resolver sobre los agravios que estime al apelante le cause la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el acusado, o siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente. En este último caso, el tribunal de alzada lo comunicará al Procurador General de Justicia del Estado, a los efectos de su representación.
 
 ###### ARTICULO 301.
 
@@ -1717,9 +1743,11 @@ Tienen derecho de apelar, el Ministerio Público, el inculpado y los defensores.
 
 Son apelables en ambos efectos las sentencias definitivas y los autos que concedan o nieguen la libertad por desvanecimiento de datos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 303.
 
-Son apelables en el efecto devolutivo:
+Son apelables en efecto devolutivo:
 
 I.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a VI del artículo 277 y aquellos en que se niegue el sobreseimiento;
 
@@ -1727,7 +1755,9 @@ II.- Los autos en que se niegue o conceda la suspensión del procedimiento judic
 
 III.- Los autos de formal prisión; los de sujeción a proceso, y los de falta de elementos para procesar;
 
-IV.- Los autos en que se conceda, niegue o revoque la libertad provisional bajo caución, y los que resuelvan algún incidente no especificado;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+IV.- Los autos en que se conceda niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación.
 
 V.- El auto en que se niegue la orden de aprehensión y el que niegue la citación para preparatoria. Estos autos sólo son apelables por el Ministerio Público;
 
@@ -1755,13 +1785,15 @@ Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio
 
 Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia; caso de no hacerlo, se le tendrá como defensor al de oficio.
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 308.
 
-Admitida la apelación en ambos efectos, dentro de cinco días se remitirá original del proceso al tribunal de apelación que deba reconocer del recurso. Si fueren varios los acusados y la apelación solamente se refiere a alguno o a algunos de ellos, el tribunal que dictó la sentencia ordenará se expidan los testimonios a que se refiere el artículo 426, a más tardar dentro de treinta días. En este caso y cuando la apelación se admita en el efecto devolutivo, los testimonios se formarán con las constancias que las partes designen y con las que el tribunal estime conveniente.
+Admitida la apelación en ambos efectos, dentro de cinco días se remitirá original el proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 426.
 
-Para formar el testimonio de apelación, pueden emplearse máquinas fotocopiadoras o similares, con el fin de agilizar el trámite. En todo caso las copias pueden ser compulsadas y autorizadas por el Secretario.
+Cuando la apelación se admita en el efecto devolutivo, se formará testimonio de lo que las partes designen y de lo que el tribunal estime conveniente, y se remitirá para los efectos de la alzada a más tardar dentro de treinta días.
+
+Para formar el testimonio de apelación, pueden emplearse máquinas fotocopiadoras u otras similares, con el fin de agilizar el trámite. En todo caso las copias pueden ser compulsadas y autorizadas por el secretario del juzgado.
 
 ###### ARTICULO 309.
 
@@ -2277,7 +2309,9 @@ El tribunal resolverá de plano sobre la suspensión del procedimiento, con la s
 
 La acumulación tendrá lugar:
 
-I.- En los procesos que se siguen contra una misma persona, en los términos del artículo 15 del Código Penal;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+I.- En los procesos que se siguen contra una misma persona, en los términos del artículo 24 del Código Penal;
 
 II.- En los que se siga investigación de delitos conexos;
 
@@ -2331,6 +2365,8 @@ Serán aplicables las disposiciones de este capítulo a las averiguaciones que s
 
 ### CAPITULO VI. Reparación de daño exigible a personas distintas del inculpado
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 406.
 
 Podrá ordenarse la separación de los autos acumulados cuando concurran las siguientes circunstancias:
@@ -2365,9 +2401,9 @@ Cuando varios tribunales conocieren de procesos cuya separación se hubiere decr
 
 ###### ARTICULO 412.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 29 del Código Penal, debe ejercitarse por quien tenga derecho a ello, ante el tribunal que conozca de la materia penal; pero deberá intentarse y seguirse ante los tribunales civiles en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso sin haber intentado dicha acción, siempre, que el que la intente fuere un particular. Esto último se observará también cuando concluída la instrucción, no hubiere lugar a juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 45 del Código Penal, debe ejercitarse por quien tenga derecho a ello o por el Ministerio Público en términos de la fracción III del artículo 137, ante el tribunal que conozca de la materia penal; pero deberá intentarse y seguirse ante los tribunales civiles en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso sin haber intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando concluida la instrucción, no hubiere lugar a juicio en materia penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
 
-Cuando promovidas las dos acciones hubiere concluído el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
+Cuando promovidas las dos acciones hubiere concluido el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo del mismo el tribunal ante quien se haya iniciado.
 
 ###### ARTICULO 413.
 
@@ -2381,9 +2417,11 @@ Si el incidente llega al estado de alegar antes de que concluya la instrucción,
 
 En el caso de hallarse prófugo el inculpado, se continuará la tramitación del incidente hasta dictarse sentencia.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 416.
 
-Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles; sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
+Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles; pero si es el Ministerio Público el que las pida de conformidad con los artículos 137, 146 y 412, se decretarán sin que se otorgue la garantía que la citada ley procesal exige. Lo dispuesto es sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
 
 ### CAPITULO UNICO
 
@@ -2399,6 +2437,8 @@ PROCEDIMIENTOS RELATIVOS A LOS ENFERMOS MENTALES
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 418.
 
 Tan pronto como se sospeche que el inculpado está loco, idiota, imbécil o sufra cualquiera otra debilidad, enfermedad o anomalía mentales, el tribunal lo mandará examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundado, ordenará provisionalmente la reclusión del inculpado en manicomio o en departamento especial.
@@ -2407,11 +2447,11 @@ Tan pronto como se sospeche que el inculpado está loco, idiota, imbécil o sufr
 
 Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior cesará el procedimiento ordinario y se abrirá el especial en que la ley deja al recto criterio y a la prudencia del tribunal la forma de investigar el delito imputado, la participación que en ella hubiere tenido el inculpado, y la de estudiar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 420.
 
-Si se comprueba el delito y que en él tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si los tuviere, el tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 20, fracción VII, 60 y 61 del Código Penal.
-
-La resolución que se dicte será apelable en el efecto devolutivo.
+Si se comprueba el delito y que en él tuvo participación el inculpado, previa solicitud del Ministerio Público y en audiencia de éste, del defensor y del representante legal, si los tuviere, el tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 32, fracción VIII, y 57 del Código Penal.
 
 ###### ARTICULO 421.
 
@@ -2423,11 +2463,13 @@ La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo
 
 TITULO DECIMOTERCERO
 
-### CAPITULO II. Remisión condicional
+### CAPITULO II. Suspensión Condicional
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 423.
 
-En toda sentencia condenatoria el tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 40 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia que fueren procedentes.
+En toda sentencia condenatoria se prevendrá y el tribunal que la dicte deberá hacerlo, se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone, en la forma que dispone el artículo 63 del Código Penal. La falta de esa diligencia no impedirá que en su caso se aplique la sanción que por reincidencia señala el artículo 69 del mismo Código.
 
 ###### ARTICULO 424.
 
@@ -2443,9 +2485,11 @@ El Ministerio Público cumplirá con el deber que le impone el artículo anterio
 
 Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará al órgano autorizado por el Ejecutivo uno de los testimonios.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 427.
 
-El Ministerio Público solicitará de los tribunales que, para los efectos del artículo 34 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se impone la sanción pecuniaria, para que se haga efectivo su importe.
+El Ministerio Público solicitará de los tribunales que, para los efectos del artículo 49 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se impone la sanción pecuniaria, para que se haga efectivo su importe. El legitimado para recibir el importe de la reparación del daño tiene derecho de pedir al tribunal cumpla esta prevención así como de promover ante la autoridad fiscal respectiva todo lo que sea necesario al fin de indicado.
 
 ###### ARTICULO 428.
 
@@ -2469,25 +2513,33 @@ El remate se llevará a cabo en el local del juzgado que lo hubiese convocado, y
 
 Si las cosas de que se trata sólo sirven para cometer delitos, se destruirán al ejecutarse la sentencia.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
 ###### ARTICULO 431.
 
-Las pruebas que se promuevan para acreditar los requisitos que exige el artículo 73 del Código Penal para la concesión de la remisión condicional, se rendirán durante la instrucción, sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
+Las pruebas que se promuevan para acreditar los requisitos que exige el artículo 78 del Código Penal para la concesión de la suspensión condicional, podrán rendirse durante la instrucción, sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 432.
 
-Al formular conclusiones el Agente del Ministerio Público o el defensor, si estiman procedente la remisión condicional lo indicarán así para el caso en que el tribunal imponga una pena privativa de libertad que no exceda de dos años.
+Al formular conclusiones el Agente del Ministerio Público o el defensor, si estiman procedente la suspensión condicional, lo indicarán así para el caso en que el tribunal imponga una pena privativa de libertad que no exceda de tres años.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 433.
 
-Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la remisión condicional y si no se concediera de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
+Si el procesado o su defensor no hubiesen solicitado en sus conclusiones el otorgamiento del beneficio de la suspensión condicional y si no se concediera de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
 
-Después de dictada sentencia irrevocable no procederá la remisión condicional.
+Después de dictada sentencia irrevocable no procederá la suspensión condicional.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 434.
 
-Cuando por alguna de las causas que señala el artículo 75 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la remisión condicional, el tribunal que concedió éste procederá, con audiencia del Ministerio Público, y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
+Cuando por alguna de las causas que señala el artículo 83 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que lo concedió procederá con audiencia del Ministerio Público y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción por la autoridad que corresponda.
 
 ### CAPITULO IV. De la rehabilitación
 
@@ -2600,3 +2652,9 @@ G.O. 24 DE JUNIO DE 1980.
 PRIMERO.-La presente Ley entrará en vigor tres días después de su publicación en la 'Gaceta Oficial' del Estado.
 
 SEGUNDO.-Las causas que estén en período de instrucción o juicio serán concluidas por los jueces que las haya radicado.
+
+G.O. 30 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+Estas reformas entrarán en vigor el día veinte de octubre de mil novecientos ochenta.
