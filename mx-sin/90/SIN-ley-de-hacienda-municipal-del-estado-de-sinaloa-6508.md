@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1997-12-24"
+last_updated: "1999-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1999.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -75,7 +75,9 @@ Sólo las Leyes de Ingresos Municipales Anuales podrán autorizar el Cobro de la
 
 Es objeto de este impuesto la adquisición de boletos de entrada a cualquier espectáculo público que se celebre con fines lucrativos dentro del Municipio, siempre que dicho espectáculo no sea objeto del Impuesto al Valor Agregado.
 
-Se entiende por espectáculo público para los efectos de este impuesto, toda función de esparcimiento sea teatral, cinematográfica, deportiva, musical o de cualquier otra índole que se verifique en cualquier lugar donde se reúnan un grupo de personas, pagando por ello cierta suma de dinero.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
+
+Se entiende por espectáculo público para los efectos de este impuesto, toda función de esparcimiento sea teatral, deportiva, musical o de cualquier otra índole que se verifique en cualquier lugar donde se reúnan un grupo de personas, pagando por ello cierta suma de dinero.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -107,11 +109,11 @@ La base de este impuesto será el precio del boleto de entrada a los espectácul
 
 Este impuesto se calculará aplicando una tasa del 8% sobre el precio del boleto.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 12.
 
-El impuesto deberá enterarse a la Tesorería Municipal, al día siguiente de efectuado el espectáculo de que se trate, excepto en el caso de los cines que deberá efectuarse en un período no mayor de 10 días al en que fue realizada la función.
+El impuesto deberá enterarse a la Tesorería Municipal, al día siguiente de efectuado el espectáculo de que se trate.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1301,6 +1303,138 @@ La Tesorería Municipal podrá celebrar convenio con los contribuyentes de este 
 
 Los derechos de cooperación para obras públicas se cubrirán en la forma y término señalado en la Ley de Desarrollo de Centros Poblados del Estado de Sinaloa y conforme a la tarifa y monto respectivo, que fije el Congreso del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 1999)</small>
+
+### CAPITULO XIV
+
+DERECHOS POR EL OTORGAMIENTO DE REVALIDACIONES, PERMISOS O AUTORIZACIONES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
+
+###### ARTICULO 90-A.
+
+Son elementos de esta contribución:
+
+I.- Es objeto de este derecho el otorgamiento de la revalidación anual de licencias, de funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general, así como la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas y la expedición de permisos eventuales para la venta y/o consumo de bebidas alcohólicas por día.
+
+II.- Son sujetos de este derecho las personas físicas o morales que soliciten y obtengan la revalidación anual de su licencia de funcionamiento, autorización de horarios extraordinarios o permisos eventuales para el funcionamiento de establecimientos y locales en los términos de la fracción anterior.
+
+III.- La base de este derecho es el tipo de giro, licencia, autorización o permiso, que se otorgue en la materia, ya sea en número de días u horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias, en los términos de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces el salario mínimo general diario vigente en el estado, en los siguientes términos:
+
+a).- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
+
+TARIFA
+
+GIROS CATEGORIA
+
+A B C
+
+Licorería 70 70 70
+
+Supermercado 147 136 126
+
+Almacén 236 203 171
+
+Cantina 153 126 115
+
+Cervecería 103 85 85
+
+Bar 153 126 126
+
+Cabaret 126 103 103
+
+Centro Nocturno 203 171 153
+
+Restaurant c/vta. de cerveza 106 85 85
+
+Restaurant c/vta. de cerveza y vinos 106 85 85
+
+Restaurant c/vta. de cerveza, vinos y licores 147 132 119
+
+Restaurant con bar anexo 163 163 163
+
+Club Social 126 103 103
+
+Salón de Baile o de Fiesta 126 103 103
+
+Café Cantante 106 106 106
+
+Discoteca 126 126 126
+
+Salón de Boliche 106 106 106
+
+Ultramarinos 147 136 126
+
+Depósito de cerveza 147 147 147
+
+Agencia Matriz con venta al público en general 236 236 236
+
+b).- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
+
+TARIFA
+
+GIROS CATEGORIA
+
+A B C
+
+Licorería 0.15 0.15 0.15
+
+Supermercado 0.39 0.20 0.17
+
+Cantina 0.17 0.17 0.17
+
+Cervecería 0.15 0.15 0.15
+
+Bar 0.74 0.74 0.74
+
+Cabaret 0.49 0.43 0.43
+
+Centro Nocturno 0.81 0.75 0.70
+
+Restaurant c/vta. de cerveza 0.36 0.36 0.36
+
+Restaurant c/vta. de cerveza y vinos 0.39 0.39 0.39
+
+Restaurant c/vta. de cerveza, vinos y licores 0.42 0.42 0.42
+
+Restaurant con bar anexo 0.74 0.74 0.74
+
+Club Social 0.49 0.40 0.40
+
+Salón de Baile o de Fiesta 0.40 0.35 0.30
+
+Café Cantante 0.39 0.39 0.39
+
+Discoteca 0.49 0.49 0.49
+
+Salón de Boliche 0.36 0.36 0.36
+
+Ultramarinos 0.39 0.39 0.39
+
+Depósito de Cerveza 0.81 0.81 0.81
+
+Agencia Matriz con venta al Público en general 0.81 0.81 0.81
+
+c).- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
+
+TARIFA
+
+GIROS CATEGORIA
+
+A B C
+
+Para muestras y degustaciones 5 4 3
+
+Eventos deportivos, recreativos y artísticos 200 100 50
+
+Eventos sociales 50 25 10
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
+
+###### ARTICULO 90-B.
+
+La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la ley de la materia, deberá efectuarse dentro de los meses de enero a marzo de cada año.
+
 ### CAPITULO I. POR EL ARRENDAMIENTO Y VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
@@ -1309,17 +1443,13 @@ Los derechos de cooperación para obras públicas se cubrirán en la forma y té
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. MULTAS
+### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 91.
 
@@ -1333,7 +1463,7 @@ La venta o adjudicación de solares baldíos en los Municipios se regirá por la
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO II. REINTEGROS
+### CAPITULO I. MULTAS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1379,7 +1509,7 @@ Los ingresos recaudados por el concepto contenido en este capítulo se destinar�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. REZAGOS
+### CAPITULO II. REINTEGROS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1389,7 +1519,7 @@ Tendrán carácter de productos, los rendimientos obtenidos por las inversiones 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO IV. RECARGOS
+### CAPITULO III. REZAGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1405,7 +1535,7 @@ El Tesorero Municipal y las demás autoridades fiscales o a quién deleguen facu
 
 La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las obligaciones previstas en esta Ley deberán ser sancionadas con multas de un tanto del Impuesto o Derecho de que se trate.
 
-### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
+### CAPITULO IV. RECARGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1413,7 +1543,7 @@ La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las o
 
 Con este título se dará entrada en la contabilidad de la Tesorería Municipal, de todos los reintegros que se hagan en el erario municipal, especificando el concepto, incluyendo el pago de la alimentación de los reos del Estado y de la Federación que reintegren los citados Gobiernos, devolución de importes que pagó de más el Municipio, pago de funcionarios municipales quien por error no cobraron correctamente un tributo a un causante y sea irrecuperable de parte de éste y sanciones que se fijen a funcionarios y empleados del Municipio al fincárseles alguna responsabilidad de acuerdo con la Ley.
 
-### CAPITULO VI. OTROS APROVECHAMIENTOS
+### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1421,7 +1551,7 @@ Con este título se dará entrada en la contabilidad de la Tesorería Municipal,
 
 Todos los rezagos o créditos por los impuestos, derechos, productos, aprovechamientos y participaciones causados en años anteriores ingresarán a la Tesorería Municipal debiendo el Tesorero remitir al H. Ayuntamiento en el mes de febrero de cada año, un informe de los créditos activos y de los pasivos del erario municipal liquidados hasta el 31 de diciembre del año anterior y de todas las advertencias y aclaraciones que juzgue conveniente.
 
-### CAPITULO UNICO
+### CAPITULO VI. OTROS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1471,7 +1601,7 @@ III.- Cualquier otro ingreso que no pueda clasificarse como impuesto, derecho, p
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1481,7 +1611,7 @@ Se constituirán con este título todos aquellos ingresos que a favor del fisco 
 
 ## TITULO SEPTIMO. DE LOS IMPUESTOS ADICIONALES
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1515,7 +1645,7 @@ f) Pro-Turismo. 6.5%
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1525,7 +1655,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 ## TITULO NOVENO. DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES
 
-### CAPITULO IV. DE LOS CREDITOS FISCALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1563,7 +1693,7 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-### CAPITULO V. DISPOSICIONES DIVERSAS
+### CAPITULO IV. DE LOS CREDITOS FISCALES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1627,7 +1757,7 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+### CAPITULO V. DISPOSICIONES DIVERSAS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1697,7 +1827,7 @@ Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez compe
 
 Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
 
-### CAPITULO VIII. RECURSO DE INCONFORMIDAD
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2005,9 +2135,9 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 167.
 
@@ -2063,7 +2193,7 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-REMATES
+EMBARGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2217,6 +2347,10 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
+REMATES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 186.
 
 La oficina ejecutora formulará el edicto del remate, el que expresará:
@@ -2357,9 +2491,7 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-EMBARGOS
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
@@ -2457,8 +2589,6 @@ Las sanciones previstas por este capítulo serán determinadas por el Tesorero M
 
 Las infracciones a los demás reglamentos y disposiciones de los Municipios que no señalen sanción o que para cuantificar su monto remitan a esta Ley, se sancionaran con una multa de 5 a 90 veces el salario mínimo general diario vigente, excepto las que sean cometidas por obreros o trabajadores, el monto de la sanción no podrá ser mayor que su jornal o salario de un día; tratándose de trabajadores no asalariados la multa no excederá del equivalente al monto de un día de su ingreso.
 
-TRANSITORIOS:
-
 ### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
@@ -2541,7 +2671,7 @@ IV.- El desvío del poder, tratándose de sanciones impuestas por infracción a 
 
 Las resoluciones de la autoridad que conozca el recurso, tendrán el carácter de definitivas e inapelables en el orden administrativo, salvo los casos en que proceda la condonación con arreglo a las disposiciones fiscales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
+TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
 
@@ -3014,3 +3144,25 @@ G).- Por registro en el Padrón de Introductores de Ganado y Aves a los rastros 
 H).- Registro de vehículos que circulen en la vía pública con exclusión de los de motor.
 
 ARTICULO Tercero.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1999, el importe del impuesto predial no podrá ser mayor al aplicado en el año de 1998, con excepción de los contribuyentes que sean propietarios de bienes inmuebles que hayan recibido mejoras en sus construcciones o se beneficien con nuevas obras y servicios públicos, así como las edificaciones que se integren al padrón catastral, y lo dispuesto en los artículos siguientes.
+
+###### ARTICULO CUARTO.
+
+Durante el año de 1999, en el municipio de Mazatlán, la base para determinar el impuesto predial será de un 18% mayor al aplicado en el año de 1998, quedando exceptuadas las nuevas construcciones que cubrirán el impuesto predial que resulte del valor actualizado en el Decreto de Establecimiento de los Valores Unitarios del Suelo y de las Construcciones del Municipio de Mazatlán.
+
+###### ARTICULO QUINTO.
+
+En aquellas poblaciones, diferentes a la cabecera municipal, que durante el año de 1999 hayan sido objeto de determinación específica de valor catastral, conforme al presente Decreto, el importe del impuesto predial se obtendrá de acuerdo con lo dispuesto en la tarifa contenida en el artículo 35 de la Ley de Hacienda Municipal del Estado de Sinaloa, con la prescripción de que deberá tomarse como base para su pago el 50% del monto que resulte de su valor catastral para el año de 1999.
