@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1940-12-04"
+last_updated: "1944-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1944.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -11075,6 +11075,8 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
 
+(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+
 ###### Art. 2253.
 
 Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 337.
@@ -11637,6 +11639,8 @@ Lo dispuesto en el artículo 2359 es aplicable a los aperos de la finca arrendad
 
 Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
+(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+
 ###### Art. 2373.
 
 Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2350, 2351 y 2352.
@@ -11661,6 +11665,8 @@ Si el arrendador aprueba expresamente el contrato especial de subarriendo, el su
 
 El arrendamiento puede terminar:
 
+(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
+
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fué arrendada;
 
 II.- Por convenio expreso;
@@ -11676,6 +11682,8 @@ VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
+
+(SUSPENDIDA LA VIGENCIA POR ARTICULO 4° DEL DECRETO NUMERO 35, P.O. 8 DE JULIO DE 1944)
 
 ###### Art. 2378.
 
@@ -14383,7 +14391,7 @@ Transcurridos tres años sin que se comunique al registrador la calificación qu
 
 ###### Art. 2907.
 
-Todo inscripción que se haga en el Registro expresará las circunstancias siguientes:
+Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
 
 I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; así mismo, constará la mención de haberse agregado el plano o croquis al legago (sic) respectivo;
 
@@ -14630,3 +14638,17 @@ La presente Ley entrará en vigor desde la fecha de su publicación en el Perió
 ###### ARTICULO SEGUNDO
 
 Se abroga la Ley de Aparcería expedida con fecha 4 de octubre de 1933 y reformada con fecha 30 de diciembre de 1936 y el capítulo 7º del Título XI del libro 3º. del Código Civil actualmente en vigor, en lo que se refiere a la Aparcería Rural Agrícola.
+
+P.O. 8 DE JULIO DE 1944.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente decreto, se sobreseerán.
+
+###### ARTICULO TERCERO
+
+- Los términos que estuvieren corriendo de conformidad con el Artículo 2372 del Código Civil, para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efecto los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
