@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1999-05-17"
+last_updated: "2000-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1780,7 +1780,7 @@ III. Que conociendo la falsedad sobre el monto de los activos o pasivos, conceda
 
 IV. Que conociendo los vicios que señala la fracción II del artículo 112 de esta ley, concedan el crédito, si el monto de la alteración hubiere sido determinante para concederlo.
 
-> <small>(ADICIONADO, D.O. 17 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 113 Bis.
 
@@ -1858,7 +1858,7 @@ Para la imposición de las sanciones y multas previstas en el presente Capítulo
 
 Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
-> <small>(ADICIONADO, D.O.F.17 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 Como instituciones de crédito, para los efectos de los delitos contenidos en este capítulo, se entenderán también a las sociedades financieras de objeto limitado.
 
@@ -1894,29 +1894,9 @@ La Comisión podrá ordenar que se modifiquen los modelos de contratos de adhesi
 
 La Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de crédito que publiquen las características de las operaciones que formalicen con contratos de adhesión, en los términos que la propia Comisión indique.
 
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
 ###### ARTICULO 118-B.
 
-Las instituciones de crédito deberán contar con unidades especializadas que tengan por objeto atender consultas y reclamaciones de sus usuarios.
-
-Las unidades a que se refiere el párrafo anterior, se sujetarán a lo siguiente:
-
-I. El titular de la unidad deberá tener facultades para representar y obligar con su firma a la institución;
-
-II. Contarán con personal en cada entidad federativa en que la institución tenga sucursales u oficinas, de acuerdo al programa de distribución regional que deberá ser aprobado por la Comisión Nacional Bancaria y de Valores;
-
-III. Deberán responder por escrito al usuario dentro de un plazo de treinta días hábiles, contado a partir de la fecha de recepción de la consulta o reclamación;
-
-IV. La documentación e información correspondiente a las consultas o reclamaciones y el plazo que deban ser conservadas por la institución, se regirán por las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores, y
-
-V. El titular de la unidad deberá presentar semestralmente al consejo de administración de la institución, un informe de las consultas o reclamaciones recibidas y atendidas, en el que se identifiquen las operaciones o áreas de la institución que registren el mayor número de consultas o reclamaciones, así como las causas que las motivan, a fin de que se adopten las medidas que correspondan. La institución deberá proporcionar a la Comisión Nacional Bancaria y de Valores copia simple del citado informe, a más tardar dentro de los treinta días hábiles posteriores a su presentación en el consejo de administración.
-
-Las instituciones deberán informar mediante aviso colocado en lugar visible en todas sus sucursales, la ubicación y horarios de servicio de las unidades previstas en este artículo.
-
-Los usuarios del servicio de banca y crédito podrán, a su elección, presentar su consulta o reclamación ante las unidades respectivas, en forma personal o por escrito.
-
-Lo establecido en el presente artículo es sin perjuicio de que los usuarios puedan proceder en los términos del artículo siguiente.
+(DEROGADO, D.O.F. 5 DE ENERO DE 2000)
 
 ###### ARTICULO 119.
 
@@ -2497,5 +2477,13 @@ D.O.F. 17 DE MAYO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 5 DE ENERO DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
