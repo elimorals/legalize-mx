@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1954-07-20"
+last_updated: "1956-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1956.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -649,9 +649,11 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 De las Notificaciones.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+
 ###### Artículo 110.
 
-Las notificaciones, requerimientos, entrega de expedientes o emplazamientos, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que los prevengan, siempre que en éstas el juez o tribunal no dispusieren otra cosa. A los infractores de esta disposición se les impondrá de plano una multa que no exceda de veinticinco pesos.
+Las notificaciones, citaciones y emplazamientos se efectuarán lo más tarde al día siguiente en el que se dicten las resoluciones que los prevengan, cuando el Juez o la Ley no dispusiere otra cosa. Se impondrá de plano a los infractores de éste artículo una multa que no excederá de veinticinco pesos.
 
 ###### Artículo 111.
 
@@ -677,15 +679,23 @@ Si no cumplen con las dos primeras prevenciones del párrafo anterior, las notif
 
 Si no cumplen con la última prevención, no se hará notificación alguna a la persona contra quien se promueva, hasta que se subsane la omisión.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+
 ###### Artículo 113.
 
-La primera notificación se hará personalmente al interesado o interesados, por el juez, secretario, actuario, conserje o persona designada, y no encontrándose al que deba ser notificado o si está cerrada la casa, después de cerciorarse el notificador de que ahí vive, se le dejará instructivo, en el que se harán constar el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar, la fecha y la hora en que se deja y el nombre y apellido de la persona a quien se entrega. En los casos de emplazamiento, se dejarán también las copias simples correspondientes. La notificación se entenderá con la persona que se halle en la casa, y si se negare a intervenir o está cerrada esta última, con el vecino más inmediato o con el gendarme de punto.
+La primera notificación se hará personalmente al interesado o interesados, en su caso a sus representantes o procuradores, por el Secretario o actuario del Juzgado que lo ordene, en su casa habitación o en el lugar donde el destinatario desempeñe su trabajo y finalmente donde se encuentre al interesado, si no obstante no se encontrare a éste, y cerciorado el notificador, bajo su responsabilidad, que la casa señalada como domicilio del destinatario es realmente su habilitación (sic), le dejará instructivo en el que hará constar: el nombre y apellido del promovente, el Juez o Tribunal que manda practicar la diligencia, la determinación que se manda notificar, la fecha y hora en que se deja y el nombre y apellido de la persona a quien se entrega, recogiéndole su firma en la razón que se levantará del acto que se agregará a las diligencias. La notificación de que se trata, en el caso de Personas Jurídicas, se entenderá con sus Gerentes.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
 
 ###### Artículo 114.
 
-Cuando se trate de requerimientos, no encontrándose a la primera busca la persona a quien deba hacerse, se le dejará aviso para que espere al siguiente día a hora determinada, y si no espera se practicará la diligencia con las personas que se mencionan en el artículo anterior.
+Si se tratara de notificación con emplazamiento para contestar demanda, y a la primera búsqueda no se encontrara al destinatario en los lugares señalados en la primera parte del artículo anterior, el notificador no le dejará instructivo, sino que en la casa señalada como su habitación, le dejará citatorio para hora fija del día siguiente y si no lo esperara el interesado le hará la notificación por cédula. La cédula en los casos de este artículo, se entregará a un familiar o trabajador del demandado, que no esté incapacitado y sea mayor de diez y seis años, que vivan en la casa del destinatario, la que será identificada bajo la responsabilidad del notificador, sólo en el caso de que no se encontrare a ninguna de las personas señaladas, se entenderá el acto con el vecino más inmediato o con el policía de punto, debiendo siempre el notificador advertir a todas las personas señaladas, que en caso de no dar cuenta al interesado con el encargo que se les encomienda, se harán acreedoras a las sanciones previstas en el Código Penal, para aquellas personas y testigos que se conducen con falsedad en declaraciones judiciales.
 
-La segunda y ulteriores notificaciones se harán personalmente se harán personalmente por el secretario o juez a los interesados o procuradores si concurren al tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones que hayan de practicarse o al día siguiente.
+La cédula contendrá una relación suscinta de la demanda, cuando no sea forzoso entregar las copias de traslado.
+
+En los casos señalados, será obligación del notificador, fijar un aviso de la entrega de la cédula, en la puerta de la residencia del destinatario, enviándole copia de la misma por pieza postal certificada con acuse de recibo y otro ejemplar de la cédula la depositará en la Secretaría del H. Ayuntamiento del Municipio donde deba ejecutarse la notificación. Además el notificador interrogará a las terceras personas con quienes entienda la notificación, por el lugar donde se encuentra el demandado, si se espera su regreso y en que fecha; dejando constancia de las respuestas en las diligencias, con que dará cuenta al Juez o Funcionario respectivo, para que éste dicte las providencias que estime conducentes.
+
+Agotadas todas las exigencias señaladas, sin obtener resultados positivos, el actor podrá pedir y el Juez acordar, que se tenga la notificación por hecha bajo la responsabilidad de aquél.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
@@ -701,13 +711,19 @@ Es obligación de los jueces, secretarios y demás empleados a quienes la ley en
 
 Si se probare que no se hizo la notificación personalmente, compareciendo la parte al tribunal con ese objeto, será responsable el secretario o la persona que debió hacer aquélla, de los daños y perjuicios, y se le impondrá además, una multa de diez a treinta pesos, sin perjuicio de otras penas que merezca conforme al Código Penal.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+
 ###### Artículo 118.
 
-Se notificarán personalmente los emplazamientos para contestar una demanda, para posiciones o reconocimiento de firmas y documentos, libros o papeles y cuando se haga saber el envío de los autos a otro tribunal, así como cuando en el juicio se haya dejado de actuar por más de dos meses por cualquier motivo y en los demás casos que la ley lo disponga.
+Se notificarán personalmente los emplazamientos para contestar demanda, la citación para absolver posiciones, reconocer firmas, documentos, libros o papeles, las sentencias definitivas e interlocutorias con fuerza de tales, el acuerdo que mande hacer saber el envío de los autos a otro Tribunal, el auto que manda abrir el juicio de prueba, así como cuando en el juicio se ha dejado de actuar por más de dos meses por cualquier motivo y en los demás casos que la Ley lo disponga.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
 
 ###### Artículo 119.
 
-Cuando se ignore el lugar y habitación donde resida la persona que deba ser emplazada o notificada, se le hará la primera notificación por medio de edictos, publicados por dos veces en el "Periódico Oficial" y en algún otro periódico de mayor circulación, a juicio del juez, sin perjuicio de observarse las disposiciones del Código Civil en materia de ausencia. La notificación hecha por medio de los periódicos, surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación. Si el aludido no compareciere, se le harán las demás notificaciones en los términos del artículo 115 de este Código.
+Cuando se ignore el lugar y la habitación donde resida la persona que deba ser emplazada o notificada, pero tenga representante o apoderado jurídicos, a éstos debe hacerse la notificación, si careciera de ellos, la primera notificación se hará por medio de edictos publicados por dos veces en el Periódico "El Estado de Sinaloa" y en algún otro periódico de mayor circulación a juicio del Juez, sin perjuicio de entregar una copia de la notificación en la Secretaría del H. Ayuntamiento del lugar en que el destinatario ha tenido su última residencia, o si ésta se ignora, donde haya nacido, si también éste se desconoce, la copia se entregará a la Procuraduría de Justicia del Estado.
+
+En los casos a que se refiere el presente artículo la notificación surtirá sus efectos a partir del décimo día de hecha su última publicación y la entrega. Si el destinatario no compareciera, se le harán las demás notificaciones en los términos del artículo 115 de este Código.
 
 ###### Artículo 120.
 
@@ -3743,6 +3759,8 @@ De las Tercerías.
 
 De los Juicios en Rebeldía.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+
 ###### Artículo 606.
 
 En un juicio seguido por dos o más personas podrán intervenir uno o más terceros, siempre que tengan interés propio y distinto del que tenga actor o reo en la materia del juicio.
@@ -3859,7 +3877,7 @@ Del Juicio Arbitral.
 
 ###### Artículo 627.
 
-En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca. Todas las resoluciones que en lo sucesivo se pronuncien en el pleito y cuantas citaciones deban hacérsele, se le notificarán por el Periódico Oficial y por cédulas que se fijarán en las puertas de los juzgados o tribunales y se ejecutarán en los estrados de los mismos, salvo los casos en que la ley disponga otra cosa.
+En toda clase de juicios, cerciorado el juzgador que el emplazamiento se ha hecho legalmente y una vez constituído en rebeldía a un litigante, todas las resoluciones que en lo sucesivo se pronuncien en el juicio y cuantas citaciones deban hacérsele, se le notificarán por cédulas que se fijarán en las puertas de los Juzgados o Tribunales y surtirán sus efectos en los estrados de los mismos, salvo los casos en que la Ley disponga otra cosa.
 
 ###### Artículo 628.
 
@@ -3869,15 +3887,17 @@ Se tendrá por rebelde al litigante que después de citado en forma no comparezc
 
 Cuando se ignore el lugar y habitación en que resida la persona que debe ser notificada, los autos que ordenen que el negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de sentencia, se notificarán como se previene en la parte relativa del artículo 119.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
+
 ###### Artículo 630.
 
-La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el Juez un término prudente para que garantice su manejo como depositario.
+La parte que obtenga una declaración de rebeldía contra el otro litigante podrá pedir y obtener del Juzgado o Tribunal la retención de los bienes muebles y el embargo de los inmuebles cautelarmente, la condición de tal aseguramiento los justifique ante el juzgador por razones análogas y en los términos previstos por el Código para decretar el embargo precautorio.
 
-Si extinguido ese término no ofreciere garantías suficientes a juicio del Juez, se constituirán los muebles en depósito de persona que tengan bienes o afiance su manejo a satisfacción del Juez.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
 
 ###### Artículo 631.
 
-Cuando el emplazamiento se hubiere hecho por edictos la sentencia se ejecutará hasta pasados tres meses de su notificación a menos que el actor otorgue fianza como se previene en el artículo 695.
+La sentencia que recaiga en un juicio de rebeldía, cuando el emplazamiento se hubiere hecho por edictos en los términos del Artículo 119, se ejecutará siempre que el actor otorgue fianza como se previene en el Artículo 695.
 
 ###### Artículo 632.
 
@@ -6408,3 +6428,15 @@ La sustanciación de los negocios de jurisdicción voluntaria a que se refiere e
 P.O. 20 DE JULIO DE 1954.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE MARZO DE 1956.
+
+DECRETO NO. 294, QUE REFORMA LOS ARTICULOS 627, 630 Y 631.
+
+UNICO.- El presente decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE MARZO DE 1956.
+
+DECRETO NO. 311, QUE REFORMA LOS ARTICULOS 110, 113, 114, 118 Y 119.
+
+UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
