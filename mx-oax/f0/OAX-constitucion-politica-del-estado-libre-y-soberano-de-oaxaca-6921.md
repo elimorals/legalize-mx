@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1997-09-29"
+last_updated: "1998-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1998.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -165,9 +165,9 @@ Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que
 
 En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
 
-Las autoridades municipales preservarán el Tequio como expresión de solidaridad comunitaria, según los usos de cada región étnica.
+Las autoridades de los municipios y comunidades preservarán el tequio como expresión de solidaridad según los usos de cada pueblo y comunidad indígenas. Los tequios encaminados a la realización de obras de beneficio común, derivados de los acuerdos de las asambleas, de las autoridades municipales y de las comunitarias de cada pueblo y comunidad indígena, podrán ser considerados por la ley como pago de contribuciones municipales; la ley determinará las autoridades y procedimientos tendientes a resolver las controversias que se susciten con motivo de la prestación del tequio.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 1985)</small>
 
@@ -265,19 +265,19 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994) (F. DE. E., P.O. 21 DE ENERO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 16.
 
-El Estado de Oaxaca tiene una composición étnica plural, sustentada en la presencia de los pueblos indígenas que lo integran. Se reconocen y el Estado protegerá las quince lenguas indígenas siguientes: Amuzgo, Cuicateco, Chatino, Chinanteco, Chocholteco, Chontal, Huave, Ixcateco, Mazateco, Mixe, Mixteco, Nahua, Trique, Zapoteco y Zoque.
+El Estado de Oaxaca tiene una composición étnica plural, sustentada en la presencia y diversidad de los pueblos y comunidades que lo integran. El derecho a la libre determinación de los pueblos y comunidades indígenas se expresa como autonomía, en tanto partes integrantes del Estado de Oaxaca, en el marco del orden jurídico vigente; por tanto dichos pueblos y comunidades tienen personalidad jurídica de derecho público y gozan de derechos sociales. La ley reglamentaria establecerá las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+(REFORMADO, P.O. 6 DE JUNIO DE 1998) (F. DE E., P.O. 18 DE JUNIO DE 1998)
 
-La Ley establecerá las normas, medidas y procedimientos que protejan y preserven el acervo cultural de las etnias y promoverá, el desarrollo de las formas específicas de organización social de las comunidades indígenas.
+Los pueblos indígenas del Estado de Oaxaca son: Amuzgos, Cuicatecos, Chatinos, Chinantecos, Chocholtecos, Chontales, Huaves, Ixcatecos, Mazatecos, Mixes, Mixtecos, Nahuas, Triquis, Zapotecos y Zoques. El Estado reconoce a las comunidades indígenas que los conforman, a sus reagrupamientos étnicos, lingüísticos o culturales. La ley reglamentaria protegerá a las comunidades afromexicanas y a los indígenas pertenecientes a cualquier otro pueblo procedente de otros Estados de la República y que por cualquier circunstancia, residan dentro del territorio del Estado de Oaxaca. Asimismo el Estado reconoce a los pueblos y comunidades indígenas, sus formas de organización social, política y de gobierno, sus sistemas normativos internos, la jurisdicción que tendrán en sus territorios, el acceso a los recursos naturales de sus tierras y territorios, su participación en el quehacer educativo y en los planes y programas de desarrollo, sus formas de expresión religiosa y artística, la protección de las mismas y de su acervo cultural y en general para todos los elementos que configuran su identidad. Por tanto, la ley reglamentaria establecerá las normas, medidas y procedimientos que aseguren la protección y respeto de dichos derechos sociales, los cuales serán ejercidos directamente por las autoridades de los pueblos y comunidades indígenas o por quienes legalmente los representen.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
 
-La Ley castigará el saqueo cultural en el Estado.
+La ley reglamentaria castigará las diversas formas de discriminación étnica y las conductas etnocidas; así como el saqueo cultural en el Estado. Igualmente protegerá a los pueblos y comunidades indígenas contra reacomodos y desplazamientos, determinando los derechos y obligaciones que se deriven de los casos de excepción que pudieran darse, así como las sanciones que procedan con motivo de su contravención.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -287,9 +287,21 @@ La Ley establecerá los procedimientos que aseguren a los indígenas el acceso e
 
 En los juicios en que un indígena sea parte, las autoridades se asegurarán que de preferencia, los procuradores de justicia y los jueces sean hablantes de la lengua nativa o, en su defecto, cuenten con un traductor bilingüe y se tomarán en consideración dentro del marco de la Ley vigente, su condición, prácticas y costumbres, durante el proceso y al dictar sentencia.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
 
-En los conflictos de límites de bienes comunales o municipales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades tradicionales de la región étnica.
+En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+Se reconocen los sistemas normativos internos de los pueblos y comunidades indígenas, así como jurisdicción a las autoridades comunitarias de los mismos. La Ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas, así como las sanciones que procedan para el caso de incumplimiento.
 
 ###### ARTICULO 17.
 
@@ -1387,7 +1399,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguno directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1569,21 +1581,33 @@ Los Municipios del Estado de Oaxaca, previo acuerdo entre sus Ayuntamientos y co
 
 Los conflictos de límites que se susciten entre los diversos municipios del Estado, podrán ser resueltos por convenios que celebren con aprobación del Congreso. Cuando dichos conflictos tengan carácter contencioso, serán resueltos por el Tribunal Superior de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
 
-Los municipios del Estado podrán asociarse libremente tomando en consideración su filiación étnica e histórica para formar corporaciones de desarrollo regional, que tengan por objeto:
+Los municipios del Estado y las comunidades indígenas del mismo, podrán asociarse libremente tomando en consideración su filiación étnica e histórica para formar asociaciones de pueblos y comunidades indígenas, que tengan por objeto:
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 a).- El estudio de los problemas locales.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 b).- La realización de programas de desarrollo común.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 c).- El establecimiento de cuerpos de asesoramiento técnico.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+
 d).- La capacitación de sus funcionarios y empleados.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 e).- La instrumentación de programas de urbanismo y,
 
-f).- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+f).- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades y pueblos.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1819,7 +1843,7 @@ ARTICULO 138 BIS. La Comisión Estatal de Derechos Humanos es un organismo Desce
 
 Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que viole estos derechos. Asimismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 112.
 
@@ -1887,11 +1911,13 @@ a) Impartir la educación con apego a los mismos fines y criterios que establece
 
 b) Obtener previamente, en cada caso, la autorización expresa de poder público, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 151.
 
-Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio étnico y artesanal de los grupos indígenas y que no deteriore el medio ambiente, ni demerite sus propias riquezas turísticas.
+Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee (sic) el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio cultural de los pueblos y comunidades indígenas, y como consecuencia de dichas actividades, no se deteriore el ambiente, ni se demeriten sus propias riquezas turísticas.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la Entidad.
 
@@ -1991,7 +2017,13 @@ El Gobernador del Estado protestará en los términos siguientes: "Protesto guar
 
 Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo substituya en el año siguiente, durante los dos primeros meses de su funcionamiento; esta glosa preventiva se remitirá a la Contaduría Mayor de Hacienda a más tardar el quince de marzo de cada año.
 
-### Capítulo IV. Del Régimen Laboral de los Trabajadores del Instituto
+### CAPITULO VI. De la Jurisdicción Indígena
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1998)</small>
+
+ARTICULO 138 BIS A. La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente y en los términos que determine la ley reglamentaria del artículo 16 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ### Capítulo V. De las Sesiones del Pleno del Instituto, de sus Resoluciones, de la Transparencia y de la Confidencialidad de las Votaciones
 
@@ -2758,6 +2790,12 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE SEPTIEMBRE DE 1997.
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE JUNIO DE 1998.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá emitir la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca, reglamentaria del artículo 16 Constitucional en un plazo que no exceda de quince días contados a partir de la entrada en vigor de este Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
