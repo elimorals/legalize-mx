@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1994-01-03"
+last_updated: "1995-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,29 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1995.
 
-Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
+Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
-GOBIERNO DEL ESTADO
+PASCUAL ORTIZ RUBIO, Gobernador Constituciodal (sic) del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber que.
 
-PODER EJECUTIVO
+La XXXVI Legislatura del Estado, en su carácter de Constituyente, ha tenido a bien expedir la siguiente Constitución.
 
-DECRETO NÚMERO 660
+El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con carácter de Constituyente, ha tenido a bien expedir la siguiente
 
-CIUDADANO PATRICIO JOSÉ PATRÓN LAVIADA, GOBERNADOR DEL ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN;
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-D E C R E T A:
+## TÍTULO PRIMERO
 
-LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TÍTULO PRIMERO. DEL MUNICIPIO
+### CAPITULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 1º.
 
@@ -65,11 +65,13 @@ Todas las personas tienen derecho a una existencia digna, a la instrucción, a l
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-###### Artículo 3.
+###### Artículo 3°.
 
-Los Ayuntamientos previo acuerdo, podrán coordinarse entre sí, con las autoridades estatales y federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos, para el eficaz cumplimiento de sus funciones, la resolución de sus necesidades comunes y la mejor prestación de los servicios públicos.
+El Congreso del Estado, el día primero de febrero del presente año se erigirá en Colegio Electoral para designar los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia.
 
-### CAPÍTULO II. DE LA POBLACIÓN
+### CAPITULO II. De los Habitantes del Estado
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 4º.
 
@@ -81,7 +83,9 @@ II.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido po
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-### CAPÍTULO III. DE LA JURISDICCIÓN TERRITORIAL
+### CAPITULO III. De los Michoacanos
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 5º.
 
@@ -99,7 +103,9 @@ II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-### CAPÍTULO IV. DE LA CREACIÓN Y FUSIÓN DE LOS MUNICIPIOS
+### CAPITULO IV. De los Ciudadanos
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 7º.
 
@@ -113,93 +119,9 @@ Son derechos de los ciudadanos: votar y ser votados en las elecciones populares,
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-###### Artículo 8.
+###### Artículo 8°.
 
-El Estado de Yucatán se divide en ciento seis Municipios que tendrán su cabecera, en la localidad donde radique el Ayuntamiento, siendo los siguientes:
-
-1.- Abalá 40.- Izamal 82.- Telchac Pueblo
-
-2.- Acanceh 41.- Kanasín 83.- Telchac Puerto
-
-3.- Akil 42.- Kantunil 84.- Temax
-
-4.- Baca 43.- Kaua 85.- Temozón
-
-5.- Bokobá 44.- Kinchil 86.- Tepakán
-
-6.- Buctzotz 45.- Kopomá 87.- Tetiz
-
-7.- Cacalchén 46.- Mama 88.- Teya
-
-8.- Calotmul 47.- Maní 89.- Ticul
-
-9.- Cansahcab 48.- Maxcanú 90.- Timucuy
-
-10.- Cantamayec 49.- Mayapán 91.- Tinum
-
-11.- Celestún 50.- Mérida 92.- Tixcacalcupul
-
-12.- Cenotillo 51.- Mocochá 93.- Tixkokob
-
-13.- Condal 52.- Mosul 94.- Tixméhuac
-
-14.- Cuncunul 53.- Muna 95.- Tizimín
-
-15.- Cuzamá 54.- Muxupip 96.- Tixpéual
-
-16.- Chacsinkín 55.- Opichén 97.- Tunkás
-
-17.- Chankom 56.- Oxkutzcab 98.- Tzucacab
-
-18.- Chapab 57.- Panabá 99.- Uayma
-
-19.- Chemax 58.- Peto 100.- Ucú
-
-20.- Chicxulub 59.- Progreso 101.- Umán
-
-Pueblo 60.- Quintana Roo 102.- Valladolid
-
-21.- Chichimilá 61.- Río Lagartos 103.- Xocchel
-
-22.- Chikindzonot 62.- Sacalum 104.- Yáxcabá
-
-23.- Chocholá 63.- Samahil 105.- Yáxkukul
-
-24.- Chumayel 64.- Sanahcat 106.- Yobáin
-
-25.- Dzan 65.- San Felipe
-
-26.- Dzemul 66.- Santa Elena
-
-27.- Dzidzantún 67.- Seyé
-
-28.- Dzilam de 68.- Sinanché
-
-Bravo 69.- Sotuta
-
-29.- Dzilam 70.- Sucilá
-
-González 71.- Sudzal
-
-30.- Distas 72.- Suma
-
-31.- Dzoncauich 73.- Tahdziu
-
-32.- Espita 74.- Tahmek
-
-33.- Halachó 75.- Teabo
-
-34.- Hocabá 76.- Tecoh
-
-35.- Hoctún 77.- Tekal de Venegas
-
-36.- Común 78.- Tekantó
-
-37.- Huhí 79.- Tekax
-
-38.- Hunucmá 80.- Tekit
-
-39.- Ixil 81.- Tekom
+El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
 
 ###### Artículo 9º.
 
@@ -209,1471 +131,1223 @@ Son obligaciones de los ciudadanos, desempeñar los cargos de elección popular 
 
 ###### Artículo 10.
 
-La denominación de los Municipios sólo podrá ser modificada por el voto calificado del Congreso del Estado a solicitud del Cabildo, mediante el acuerdo de las dos terceras partes de sus integrantes, previa consulta ciudadana.
+Los derechos de los ciudadanos se pierden y se suspenden, respectivamente, en los términos previstos por los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, o en los casos que determinen las leyes del Estado.
 
-## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-### CAPÍTULO I. DEL CABILDO
+## TITULO SEGUNDO
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO I. De la Soberanía del Estado y de la forma de Gobierno
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 11.
 
-Para su organización interna y efectos administrativos, el Municipio dividirá su jurisdicción territorial, en colonias, fraccionamientos, secciones y manzanas, así como en comisarías y subcomisarías, en su caso; cuyas extensiones serán determinados (sic) por el Cabildo, de conformidad con la ley respectiva.
+El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régimen interior, de conformidad con lo prescrito en esta Constitución y en la General de la República.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 12.
 
-Los núcleos de población de los Municipios, por su importancia, grado de concentración demográfica, infraestructura y equipamiento urbano, tendrán las categorías geográficas siguientes:
+La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
 
-I.- Ciudad, es el núcleo de población con censo no menor de quince mil vecinos;
-
-II.- Villa, es el núcleo de población con censo no menor de ocho mil vecinos;
-
-III.- Pueblo, es el núcleo de población con censo no menor de tres mil vecinos o aquel donde se asiente la cabecera municipal;
-
-IV.- Comisaría, es el núcleo de población con censo no menor a los quinientos vecinos, y
-
-V.- Sub-Comisaría, el núcleo de población con censo inferior a quinientos vecinos.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 13.
 
-Los ayuntamientos promoverán ante el Congreso del Estado, la fundación o extinción de centros de población en su jurisdicción, mediante acuerdo aprobado por el Cabildo.
+El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el Pacto Federal.
 
-El Acuerdo de Cabildo, deberá señalar las características del centro de población que pretenda ser fundado, sugerir la respectiva categoría política, su localización y, en su caso, mencionar la desaparición de preexistentes.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-En el mes de enero del último año de su ejercicio, el Ayuntamiento deberá comunicar al Congreso del Estado, el surgimiento o desaparición de los asentamientos humanos en su jurisdicción.
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral
 
-### CAPÍTULO II. DE LOS INTEGRANTES DEL CABILDO
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Los partidos políticos tendrán derecho a participar en las elecciones estatales y municipales.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con los elementos necesarios para la consecución de sus fines.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Los partidos políticos tendrán derecho al uso en forma permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los Poderes Legislativo y Ejecutivo del Estado, los partidos políticos y de los ciudadanos, según lo disponga la Ley. La certeza, legalidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El organismo público cubrirá en su desempeño, además de lo que determine la ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de los órganos colegiados electorales serán públicas en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Los consejeros ciudadanos del órgano superior de dirección, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Durante los recesos del Congreso del Estado, la elección a que se refiere el párrafo anterior será realizada por la Diputación Permanente.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+La ley establecerá un sistema de medios de impugnación, de los que conocerá el organismo público, previsto en el párrafo séptimo de este artículo y el Tribunal Electoral del Estado. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+En materia electoral la interposición de los recursos no produce efectos suspensivos del acto o resolución impugnado en ningún caso.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado, será órgano autónomo y máxima autoridad jurisdiccional electoral. Los poderes Legislativo, Ejecutivo y Judicial, garantizarán su debida integración.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral y sólo podrán ser modificadas o revocadas, en su caso, por el colegio electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado funcionará en Salas Unitarias y en Pleno; sus sesiones de resolución serán públicas, en los términos que establezca la ley. Para cada proceso electoral se integrará una Sala de Segunda Instancia, que estará constituida con tres Magistrados del Pleno del Tribunal. Esta Sala será competente para resolver los recursos de reconsideración resultando sus resoluciones definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+Los magistrados del Tribunal, los cuales serán independientes y responderán al mandato de la ley, deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado y el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO II. Del Territorio del Estado
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 14.
 
-Es facultad del Congreso del Estado, resolver con el voto de las dos terceras partes de sus integrantes, la creación o fusión de Municipios e integración o anexión de núcleos de población a otro Municipio, la modificación de sus jurisdicciones territoriales o su denominación, así como, el cambio de la cabecera municipal.
+El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexicanos, y está constituído por la porción de territorio nacional que le reconozcan la Constitución Federal, las leyes y los convenios.
 
-La opinión de los Municipios afectados se formará con el voto de las dos terceras partes de los integrantes del Cabildo.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+El Estado puede arreglar con las entidades federativas limítrofes, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 15.
 
-Para la creación de un nuevo Municipio, el núcleo o núcleos de población involucrados, deberán cumplir con los requisitos siguientes:
+El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre. Cada Municipio conservará la extensión y límites que le señale la Ley de División Territorial.
 
-I.- Reunir las condiciones establecidas en el Artículo 30 fracción I de la Constitución Política del Estado de Yucatán;
-
-II.- Contar con los recursos económicos suficientes, para cubrir las erogaciones que demande la administración municipal y la prestación de los servicios públicos municipales;
-
-III.- Acreditar suficientemente las causas políticas, sociales, económicas y administrativas, y
-
-IV.- Contar con reservas territoriales suficientes para atender las necesidades de la población.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 16.
 
-Al crear un nuevo Municipio, el Congreso del Estado de conformidad con la Constitución Política del Estado de Yucatán, le designará un Concejo Municipal, el cual fungirá hasta la fecha en que deba tomar posesión el Ayuntamiento que resulte electo en las elecciones municipales inmediatas que se realicen, conforme a los plazos y términos señalados por la Constitución Política del Estado de Yucatán y las disposiciones electorales respectivas.
+La creación de nuevos municipios se sujetará a las prescripciones de esta Constitución.
 
-## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO TERCERO
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
 
-#### SECCIÓN PRIMERA. DE LAS AUTORIDADES
+### CAPITULO I. De la División de Poderes
 
-### CAPÍTULO III. DEL CONCEJO MUNICIPAL
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 17.
 
-Para la fusión de Municipios o la anexión de núcleos de población, deberá (sic) atenderse los aspectos siguientes:
+El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, los cuales actuarán separada y libremente, pero cooperando, en forma armónica, a la realización de los fines del Estado.
 
-I.- La densidad demográfica o el número de habitantes de los núcleos poblacionales involucrados;
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o el Judicial en un individuo.
 
-II.- Se cuente con la capacidad económica para la atención de los servicios públicos, garantizando las condiciones idóneas para su prestación;
-
-III.- La preservación de la unidad geográfica, económica y social, y
-
-IV.- Que se demuestre la conveniencia política, social, económica, administrativa y cultural de la anexión o fusión.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 18.
 
-El Congreso del Estado podrá por sí mismo, resolver la anexión o fusión de dos o más Municipios cuando lo considere conveniente, con base en las atribuciones que le otorga la Constitución Política del Estado de Yucatán, o a solicitud del Gobernador del Estado, o del Ayuntamiento interesado.
+La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa del Gobernador del Estado.
 
-### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO II. Del Poder Legislativo
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 19.
 
-Tratándose de la integración de un núcleo poblacional a otro Municipio, deberá reunirse (sic) los requisitos siguientes:
+Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo.
 
-I.- Que el núcleo de población y el Municipio que pretendan integrarse, constituya una unidad geográfica, económica y social;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Que se demuestre la conveniencia política, social, económica, administrativa y cultural de la anexión o fusión, y
+#### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
-
-III.- Se cuente con la capacidad económica para la atención de los servicios públicos, garantizando las condiciones idóneas para su prestación.
-
-#### SECCIÓN PRIMERA. DE LAS FUNCIONES ORIGINARIAS
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 20.
 
-Las atribuciones y funciones que la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, le confieren al Ayuntamiento, las ejercerá originariamente el Cabildo, como órgano colegiado de decisión, electo en forma directa mediante el voto popular, conforme a lo dispuesto por la legislación electoral del Estado.
+El Congreso del Estado se integra con representantes del pueblo, electos en su totalidad cada tres años. La elección se celebrará el segundo domingo del mes de noviembre del año en que concluya su función la Legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Por cada diputado propietario, se elegirá un suplente.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+El Congreso estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta doce diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos votadas en una circunscripción plurinominal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 21.
 
-El Ayuntamiento se integra cada tres años y se compone por el número de Regidores que el Congreso del Estado determine, de conformidad a la legislación del Estado. De entre ellos, uno será electo con el carácter de Presidente Municipal y otro, con el de Síndico.
+Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales, cuya denominación y demarcación territorial señalará la Ley.
 
-Serán parte del Cabildo, las personas que resultaren electas en los términos del artículo anterior, mediante resolución firme que emita el organismo u órgano electoral competente y publicada en el Diario Oficial del Gobierno del Estado de Yucatán.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
+
+I. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+II. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+III. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+IV. (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+a) Ningún partido político podrá contar con más de diecinueve diputados electos mediante ambos principios.
+
+b) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
+
+c) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
+
+d) (DEROGADO, P.O. 27 DE ABRIL DE 1995)
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 22.
 
-En el mes de febrero del año previo al de la elección, el Congreso del Estado, determinará el número de Regidores de Mayoría Relativa y de Representación Proporcional, que corresponda a cada Municipio, considerando los fenómenos demográficos establecidos por el Censo Nacional de Población y Vivienda actualizado, según lo dispuesto por la Constitución Política del Estado de Yucatán y las leyes en materia electoral.
+Los diputados no podrán ser reelectos para el período inmediato siguiente; los suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser reelectos para el período inmediato con el carácter de suplentes.
 
-Para determinar el número de Regidores, el Congreso del Estado considerará las circunstancias poblacionales de los Municipios, de la forma siguiente:
-
-I.- Cinco Regidores para los que cuenten con hasta cinco mil habitantes, los cuales tres serán de mayoría relativa y dos de representación proporcional;
-
-II.- Ocho Regidores para los que cuenten con hasta diez mil habitantes, los cuales cinco serán de mayoría relativa y tres de representación proporcional;
-
-III.- Once Regidores para los que cuenten entre diez mil a cien mil habitantes, (sic) los cuales siete serán de mayoría relativa y cuatro de representación proporcional, y
-
-IV.- Diecinueve Regidores para los que tengan más de doscientos cincuenta mil habitantes, los cuales once serán de mayoría relativa y ocho de representación proporcional.
-
-Cada Regidor propietario tendrá su respectivo suplente. El número de Regidores suplentes será igual al de los propietarios.
-
-En caso de renuncia, destitución u otra ausencia definitiva del Regidor propietario, ocupará la vacante su respectivo suplente.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 23.
 
-Para ser Regidor, Síndico o integrante de un Concejo Municipal, se requiere cumplir con los requisitos que señala el artículo 78 de la Constitución Política del Estado de Yucatán.
+Para ser Diputado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos, y
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 24.
 
-No podrán ocupar el cargo de Regidor o Síndico, quienes tengan:
+No podrán ser electos diputados:
 
-I.- Interés directo o indirecto en los servicios, contratos o abastecimientos municipales;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-II.- Expendios de bebidas alcohólicas o intereses en esta clase de negocios;
+I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
 
-III.- Parentesco de consanguinidad o de afinidad hasta el segundo grado, con algún otro integrante del Cabildo, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
-IV.- Actividad laboral o de cualquier tipo, que impida el adecuado desempeño público.
+II.- Los titulares de las dependencias básicas de la organización administrativa del Ejecutivo y los Magistrados del supremo Tribunal de Justicia.
 
-Si estando en funciones un Regidor, surgiere algún impedimento previsto en esta ley, para continuar ejerciendo el encargo, será separado del mismo por el Cabildo, procediéndose, desde luego, a llamar al suplente respectivo.
+III.- Los jueces de primera instancia, los recaudadores de rentas y los presidentes municipales en los distritos electorales donde ejerzan sus funciones, y
+
+IV.- Los ministros de cualquier culto religioso.
+
+Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
 
 ###### Artículo 25.
 
-En la última sesión ordinaria del Ayuntamiento saliente, el Cabildo nombrará una Comisión de Entrega-Recepción, que será plural y representativa, de la que será parte el Presidente Municipal y el Síndico.
-
-Para el proceso de entrega-recepción, se estará a lo dispuesto en esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
 ###### Artículo 26.
 
-El día primero de septiembre al inicio del ejercicio constitucional, el Ayuntamiento se constituirá en sesión solemne de Cabildo, en la que el Presidente Municipal electo, rendirá el compromiso constitucional y, atestiguará la que realicen los demás Regidores propietarios.
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Cuando por causa de fuerza mayor, no sea factible dicha sesión en el lugar previsto, podrá realizarse en un lugar distinto a la sede del Ayuntamiento, pero siempre dentro de la cabecera municipal.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-En dicha sesión solemne, a los Regidores y demás asistentes, se les solicitará ponerse de pie y el presidente electo, dirá: "Me comprometo a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Yucatán; la Ley de Gobierno de los Municipios del Estado de Yucatán y las demás disposiciones que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Presidente Municipal, que el pueblo me ha conferido; y pugnar en todo momento por el bien y la prosperidad de la Nación, del Estado y del Municipio, y si así no lo hiciere, que la Nación, el Estado y el Municipio me lo demanden".
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-En seguida, el Presidente Municipal preguntará a los demás integrantes del Cabildo: "¿Se comprometen a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la Ley de Gobierno de los Municipios del Estado de Yucatán y las demás disposiciones que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Regidor que el pueblo les ha conferido, pugnando en todo momento por el bien y la prosperidad de la Nación, del Estado y del Municipio?". Los interrogados deberán contestar: "Sí, me comprometo". El Presidente Municipal dirá entonces: "Si así no lo hicieren, que la Nación, el Estado y el Municipio, se los demande".
-
-Inmediatamente después, el Presidente Municipal hará la siguiente declaratoria: "Queda legal y legítimamente instalado el Ayuntamiento por el período correspondiente”. Seguidamente designará al Secretario Municipal, de entre sus integrantes, a propuesta del Presidente Municipal.
-
-El Secretario Municipal del Cabildo se encargará de levantar el acta de la sesión, de la que se enviarán copias certificadas a los Poderes del Estado para su conocimiento.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 27.
 
-Cuando uno o más Regidores no se presentaren al acto de rendición del compromiso constitucional, e instalación del Ayuntamiento, sin acreditar causa justificada, el Presidente Municipal exhortará a los ausentes, para que se apersonen en un término de tres días hábiles y, de no atenderse dicho exhorto en tiempo, se llamará a los respectivos suplentes, quienes de manera definitiva, sustituirán a los propietarios.
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-Están obligados a rendir el compromiso constitucional, los Regidores legítimamente electos, que se presentaren con posterioridad a la fecha de instalación, en el tiempo previsto en este artículo y los que hubieren sido llamados para sustituir a un Regidor propietario.
+El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto en donde se reúnan a sesionar.
 
-Se considerará válidamente instalado el Ayuntamiento, con la asistencia de la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 28.
 
-La entrega recepción es un proceso administrativo de interés público, de cumplimiento obligatorio y formal que deberá llevarse a cabo mediante la elaboración del acta administrativa de entrega recepción que describe el estado que guarda la administración municipal, incluyendo sus dependencias, entidades paramunicipales y oficinas, mediante el cual la administración pública saliente traslada a la entrante, el cuidado y administración de los bienes, los derechos y las obligaciones contraídas y en proceso; con la respectiva información y los documentos comprobatorios suficientes, a la cual se acompañarán los anexos correspondientes.
+Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
 
-Dicha entrega-recepción consiste en la transferencia escalonada y ordenada de todas y cada una de las áreas de gobierno y de la administración municipal, de conformidad con el Reglamento de la materia y a falta de éste, lo que disponga el órgano técnico de fiscalización del Poder Legislativo.
+La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-Las autoridades entrante y saliente, iniciarán el proceso de la entrega-recepción, dentro de un plazo mínimo de diez días anteriores a la fecha de la instalación del Ayuntamiento y toma de posesión y concluye con la suscripción y entrega del acta respectiva.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+#### SECCION II
 
-La entrega recepción no podrá dejar de realizarse, bajo ninguna circunstancia.
+De la Reunión, Receso y Renovación del Congreso.
 
-#### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y COMPOSICIÓN
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 29.
 
-El acta de entrega-recepción contendrá, entre otros, los siguientes anexos:
+El Congreso se renovará totalmente cada tres años, y se instalará el día quince de diciembre del año en que hubiere elecciones ordinarias.
 
-I.- El Libro de Actas de Cabildo que contenga sus acuerdos, cumplimentados o por cumplimentar;
-
-II.- El Informe detallado sobre la situación financiera de la administración municipal saliente, el cual deberá contener los estados contables, los libros de contabilidad, registros auxiliares, cuentas de cheques, inversiones, acta de arqueo de caja, presupuesto y demás documentación comprobatoria;
-
-III.- El Informe del estado que guarda la cuenta pública del Municipio, incluyendo los informes rendidos al Congreso del Estado, los certificados de cuenta pública aprobada, que en su caso, emita el Órgano Técnico de Fiscalización dependiente del Poder Legislativo y las observaciones y requerimientos pendientes de solventar;
-
-IV.- La situación que guarda la aplicación del gasto y deuda pública, con la respectiva documentación;
-
-V.- El Informe circunstanciado relativo a la obra pública ejecutada durante el período que concluye, así como de las obras que se encuentran en proceso, adjuntando los respectivos expedientes técnicos;
-
-VI.- El Informe sobre el estado de conservación de los bienes muebles e inmuebles y el patrimonio público municipal;
-
-VII.- Los expedientes relativos a las concesiones otorgadas para la prestación de los servicios públicos municipales;
-
-VIII.- La plantilla de personal y sus relativos expedientes, así como el catálogo de puestos y demás información relacionada con los recursos humanos;
-
-IX.- Los planes, programas y sus avances, así como los convenios y contratos que se hubieren celebrado con los demás órdenes de gobierno o los particulares;
-
-X.- Los expedientes relacionados con los programas y proyectos aprobados y ejecutados o en ejecución;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XI.- El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles de propiedad municipal;
-
-XII.- Los asuntos administrativos y judiciales en trámite, y
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XIII.- La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XIV.- Los demás que se estime conveniente para garantizar la continuidad de la administración pública municipal.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-El incumplimiento en tiempo y forma de las disposiciones contenidas en esta sección, será sancionado, en lo que corresponda, por la autoridad competente de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de lo que señalen otros ordenamientos jurídicos de carácter administrativo y penal.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 29 A.- El Síndico del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 29 B.- Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, integrada de manera plural y proporcional a la conformación del Ayuntamiento, que se encargará de analizar el expediente integrado con la documentación conducente, para formular un informe en un plazo de treinta días hábiles.
-
-El informe deberá referirse a todos y cada uno de los puntos contenidos en el expediente a que se refiere el artículo 29 de la presente Ley; el cual se someterá dentro de los quince días hábiles siguientes al conocimiento y consideración del Ayuntamiento para que emita el acuerdo correspondiente, pudiendo llamar a los que intervinieron en el acta de entrega-recepción, para solicitar cualquier información o documentación relacionada con la misma; los que estarán obligados a proporcionarla y atender las observaciones consecuentes, en un plazo no mayor a 30 días naturales.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 29 C.- El Ayuntamiento, dentro de los quince días hábiles siguientes a la terminación del procedimiento establecido en el artículo anterior, deberá poner a disposición el expediente de entrega recepción a la Auditoría Superior del Estado, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en consideración para los efectos conducentes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 30.
 
-El Cabildo deberá sesionar con la asistencia de la mayoría de sus integrantes, quienes tendrán igualdad de derechos y obligaciones; con las excepciones establecidas en esta ley.
+El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante ese período de sesiones, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, y se llamará desde luego, a los suplentes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Si no hubiese quórum para instalar el Congreso, o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la brevedad a desempeñar su cargo, entre tanto transcurren los ocho días de que antes se habla.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados, no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
+
+En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 31.
 
-Los acuerdos de Cabildo se tomarán por mayoría de votos de los presentes, salvo en aquellos casos en que la Constitución Política del Estado de Yucatán y esta Ley, exijan mayoría calificada. En caso de empate, el Presidente Municipal o quien lo sustituya legalmente, tendrá voto de calidad.
+El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primero se inicia el quince de diciembre de cada año y terminará el quince de marzo del año siguiente; el segundo dará comienzo el quince de junio y terminará el quince de septiembre del mismo año.
 
-Ningún Regidor deberá abstenerse de votar, salvo impedimento legal o causa justificada.
+En el Primer período de sesiones el Congreso se ocupará de los siguientes asuntos:
 
-Los Ayuntamientos sólo podrán revocar sus resoluciones en sesión a la que concurran las dos terceras partes de sus integrantes, cuando menos.
+I.- Examinar, discutir y aprobar el presupuesto del año fiscal siguiente y decretar los impuestos necesarios para cubrirlo
+
+II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+
+En el segundo período de sesiones el Congreso se ocupará de los siguientes asuntos:
+
+I.- Revisar la cuenta pública del año anterior, que deberá enviarle al Ejecutivo dentro de los diez primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, si no que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar; y
+
+II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 32.
 
-Para los efectos de esta Ley se entiende, por:
+El Congreso tendrá sesiones extraordinarias, cada vez que sea convocado por el Gobernador del Estado, o por la Diputación Permanente en los casos previstos en esta Constitución; en ellas no se ocupará de otros asuntos que de los consignados en la respectiva convocatoria, a menos que durante estas mismas sesiones ocurran otros de mayor urgencia, calificados por el voto de las dos terceras partes de los diputados presentes.
 
-I.- Mayoría simple, más de la mitad de los votos en el mismo sentido, de los integrantes presentes del Cabildo, y
-
-II.- Mayoría calificada, el voto en el mismo sentido de las dos terceras partes de la totalidad de los integrantes del Cabildo.
-
-Cuando el resultado de la operación aritmética no sea un número entero, se tomará en consideración el número entero superior inmediato que corresponda.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 33.
 
-En todo caso corresponde al Presidente Municipal, convocar a las sesiones de Cabildo y, a falta de éste, lo hará el Secretario Municipal.
+El Gobernador del Estado asistirá a la apertura del primer período ordinario de sesiones del Congreso de cada año legislativo y presentará en ese acto o dentro de los cuarenta y cinco días siguientes, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso dará respuesta en términos generales. Al acto a que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este cuerpo.
 
-El Cabildo celebrará al menos dos sesiones ordinarias cada mes, que deberán ser convocadas por escrito con tres días naturales de anticipación, incluyendo el orden del día; conforme al reglamento interior.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Las sesiones del Cabildo deberán realizarse en el edificio oficial del Ayuntamiento, y solo por causas de fuerza mayor podrá realizarse en un lugar distinto, pero siempre dentro de la cabecera municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 34.
 
-Cuando se suscite algún asunto urgente o lo solicitare la mayoría de los integrantes, el Cabildo podrá celebrar sesiones extraordinarias, las que deberán ser convocadas con veinticuatro horas de anticipación.
+Toda resolución del Congreso tendrá el carácter de ley o decreto.
 
-El plazo para la convocatoria podrá ser menor, siempre y cuando:
+El primer nombre corresponde a las resoluciones que versen sobre materia de interés común, dentro de la órbita de atribuciones del Poder Legislativo; el segundo, a las que sean solo relativas a determinados tiempos, lugares, corporaciones, establecimientos o personas.
 
-I.- Ocurriere alteración grave de la paz y el orden público;
+Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
 
-II.- Aconteciere alguna contingencia natural;
-
-III.- Lo acordare el Cabildo previamente, y
-
-IV.- Las demás que el Reglamento previere.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 35.
 
-Serán sesiones solemnes:
+Las sesiones del Congreso serán públicas o secretas, según lo determine su Ley Orgánica.
 
-I.- La de instalación y conclusión del Ayuntamiento;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- La de informe anual sobre el estado que guarda la administración pública municipal;
+#### SECCION III. De la Iniciativa y Formación de las Leyes
 
-III.- Las que acuerde expresamente el Cabildo, y
-
-IV.- Las demás que determine esta ley.
-
-En las sesiones solemnes, sólo se tratarán los asuntos para los que hayan sido convocadas.
-
-#### SECCIÓN TERCERA. DE LA INSTALACIÓN
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 36.
 
-Todas las sesiones serán públicas, salvo excepciones y a juicio de las dos terceras partes del Cabildo y siempre que se trate de:
+El derecho de iniciar leyes corresponde:
 
-I.- Asuntos cuya discusión pueda alterar el orden, o
+I.- Al Gobernador del Estado;
 
-II.- Cuestiones que en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, sean reservadas o confidenciales.
+II.- A los Diputados;
+
+III.- Al Supremo Tribunal de Justicia, y
+
+IV.- A los Ayuntamientos.
+
+Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados o los ayuntamientos, se sujetarán a los trámites que señale el reglamento.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 37.
 
-Las sesiones únicamente podrán suspenderse por las causas siguientes:
+Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
 
-I.- Cuando se altere gravemente el desarrollo de las mismas;
+I.- El dictamen de comisión será leído una o dos veces en los términos que prevenga el reglamento de debates;
 
-II.- Se decrete un receso por el Presidente Municipal, o
+II.- La discusión del dictamen se hará el día que señale el Presidente del Congreso, y agotada aquélla, se hará la declaración de que hay lugar a votar;
 
-III.- Cuando lo apruebe el Cabildo, previa solicitud de alguno de sus integrantes.
+III.- La aprobación deberá hacerse por mayoría absoluta del número de diputados presentes; o por las dos terceras partes cuando así lo exija esta Constitución;
 
-Si durante el transcurso de una sesión, quedare inexistente el quórum necesario, se tendrá como concluida.
+IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los siguientes diez días hábiles; a no ser que, corriendo ese término, hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido;
 
-Los Regidores que no asistieren o abandonaren la sesión sin causa justificada, serán privados de su remuneración, por el equivalente a cinco días del total de sus percepciones correspondientes a un mes.
+VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
+
+VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación.
+
+Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo período de sesiones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 38.
 
-El resultado de las sesiones se hará constar en acta que contendrá una relación sucinta de los puntos tratados y los acuerdos aprobados, acta que se realizará de manera veraz e imparcial, preservándose en un libro encuadernado y foliado. Con una copia de dicha acta y los documentos relativos, se formará un expediente y con éstos se conformará un volumen cada año.
+En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso podrá dispensar la lectura o lecturas del dictamen que hubiere formulado la comisión respectiva.
 
-Una vez aprobada el acta de la sesión, la firmarán todos los Regidores presentes y se les entregará copia certificada, a quienes así lo soliciten, en un plazo no mayor de tres días naturales.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 39.
 
-Durante el mes de agosto, el Presidente Municipal en sesión solemne de Cabildo, rendirá a éste y a los habitantes, un informe anual sobre el estado que guarda la administración pública municipal y los avances logrados del Plan Municipal de Desarrollo.
+Siempre que concurra el Gobernador del Estado o su representante para apoyar sus opiniones, tendrá voz en las discusiones, pero no voto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 40.
 
-El Ayuntamiento tendrá facultades para aprobar el Bando de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de su respectiva jurisdicción, con el fin de organizar las funciones y los servicios públicos de competencia municipal, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes aplicables.
+La derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación.
 
-Las disposiciones generales a que se refiere este artículo, entrarán en vigor el día siguiente al de su publicación en la Gaceta Municipal, salvo disposición expresa que ordene el acuerdo respectivo, y serán comunicadas en un término no mayor de quince días hábiles siguientes al de su publicación, al Congreso del Estado para efectos de compilación y divulgación.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 41.
 
-El Ayuntamiento tiene las atribuciones siguientes, las cuales serán ejercidas por el Cabildo:
+Las votaciones de las leyes o decretos serán nominales; las de los acuerdos serán económicas.
 
-A) De Gobierno:
-
-I.- Participar en el procedimiento de reformas y adiciones a la Constitución Política del Estado de Yucatán, en los términos señalados en la misma;
-
-II.- Hacer uso del derecho de iniciar leyes ante el Congreso del Estado, respecto de los asuntos de su competencia;
-
-III.- Expedir y reformar el Bando de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de su jurisdicción;
-
-IV.- Designar a los integrantes de las comisiones del Ayuntamiento;
-
-V.- Nombrar comisiones especiales para los asuntos que lo requieran;
-
-VI.- Convocar a elección de Comisarios Municipales y Subcomisarios, así como designar a los integrantes de los Consejos Comunitarios;
-
-VII.- Otorgar licencia por causa debidamente justificada y calificada, al Presidente Municipal, en los términos establecidos en esta Ley;
-
-VIII.- Otorgar licencia por causa debidamente justificada y calificada, al Síndico, los Regidores y demás funcionarios públicos municipales, en los términos establecidos en esta ley;
-
-IX.- Proveer lo necesario en auxilio de las autoridades competentes, para el cumplimiento de las disposiciones del Servicio Militar Nacional;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-X.- En caso de licencia por más de 30 días o ausencia definitiva de algún Regidor, el Cabildo nombrará entre sus integrantes, a quien lo sustituya, en los términos establecidos por este ordenamiento;
-
-XI.- Organizar, en su ámbito de competencia, el referéndum, plebiscito o cualquier otro medio de participación ciudadana, conforme a la legislación de la materia;
-
-XII.- Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
-
-XIII.- Ordenar la comparecencia de cualquier servidor público municipal, para que informe asuntos relacionados con sus funciones y desempeño;
-
-XIV.- Designar y remover al Secretario Municipal a propuesta del Presidente Municipal;
-
-XV.- Nombrar y remover a propuesta del Presidente Municipal, por causa justificada, al Tesorero, Titulares de las oficinas y dependencias. Tratándose de empleados, éstos serán nombrados y removidos de acuerdo al reglamento;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVI.- Garantizar que la comunidad maya que habite en su jurisdicción, participe en la toma de decisiones que incidan en sus intereses legítimos, tradiciones y costumbres;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVII.- Procurar la atención de personas con discapacidad y de la tercera edad, mediante la creación de programas que integren a las primeras y propicien el bienestar de las segundas;
-
-XVIII.- Ejercer las funciones en materia de cultos, conforme al Artículo 130 de la Constitución Federal;
-
-XIX.- Regular el funcionamiento de los espectáculos públicos, para proteger los intereses de la colectividad, evitando que lesionen los derechos de terceros;
-
-XX.- Promover en igualdad de condiciones de los beneficiarios, los programas federales y estatales de desarrollo social, conforme a la normatividad aplicable;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXI.- Acordar en su caso, la categoría política y denominación que les corresponde a los núcleos de población conforme a esta ley;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXII.- Implementar políticas públicas en materia de prevención y combate de actos de corrupción;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXIII.- Crear organismos o dependencias que tengan por objeto coadyuvar en la incorporación de la perspectiva de género en los habitantes del Municipio, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXIV.- Las que señale la presente ley y los ordenamientos legales aplicables.
-
-B) De Administración:
-
-I.- Intervenir en la regularización de la tenencia de la tierra urbana conforme a la ley de la materia;
-
-II.- Participar en la creación y administración de sus reservas territoriales, así como aprobar los programas relativos;
-
-III.- Aprobar, ejecutar, supervisar y evaluar, en su caso, los programas de desarrollo agropecuario y forestal, del Plan Estratégico y del Plan Municipal de Desarrollo, en su caso;
-
-IV.- Celebrar los convenios con la Federación para la administración y custodia de las zonas federales;
-
-V.- Dividir la demarcación territorial municipal para efectos administrativos;
-
-VI.- Regular la utilización del suelo, formular y aprobar su fraccionamiento de conformidad con los planes municipales;
-
-VII.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, conforme a las leyes federales y estatales relativas;
-
-VIII.- Crear las unidades administrativas necesarias para el adecuado funcionamiento de la administración pública municipal, y la eficaz prestación de los servicios públicos;
-
-IX.- Aprobar por las dos terceras partes de sus integrantes, la desincorporación o desafectación de un bien del dominio público;
-
-X.- Intervenir, ante toda clase de autoridades, cuando por disposición de tipo administrativo se afecten intereses municipales;
-
-XI.- Enajenar y dar en arrendamiento, usufructo, comodato u otro medio legal que afecte el dominio sobre los bienes del Municipio, con la aprobación de las dos terceras partes de sus integrantes;
-
-XII.- Aprobar las tarifas para la prestación de los servicios públicos, a cargo de los organismos descentralizados, a propuesta del Presidente Municipal, previo estudio técnico;
-
-XIII.- Cuidar que los terrenos del fundo legal se empleen exclusivamente para los usos a que están destinados por las leyes respectivas, adjudicando lotes del mismo, a quienes pretendan establecerse;
-
-XIV.- Ejercer actos de dominio sobre los bienes del Municipio, en los términos de esta Ley;
-
-XV.- Acordar el destino o uso de los bienes inmuebles municipales;
-
-XVI.- Expedir permisos y licencias en el ámbito exclusivo de su competencia;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVII.- Promover las estrategias necesarias para establecer políticas públicas a través del uso de la tecnología;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVIII.- Celebrar convenios de asociación y coordinación para la prestación de servicios públicos, con otros ayuntamientos o con el Poder Ejecutivo del Estado, para que estos los presten en forma total o parcial;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XIX.- Colaborar con los poderes del Estado y demás municipios, en la promoción y formulación de medidas que comprendan la participación en programas y proyectos destinados a combatir la corrupción;
-
-> <small>(REFORMADA, D.O. 3 DE ENERO DE 2012)</small>
-
-XX.- Autorizar el uso de suelo para los establecimientos o giros comerciales que expendan bebidas alcohólicas, debiendo observar las restricciones que al efecto establece la ley en materia de Salud del Estado y la reglamentación respectiva; a excepción de los establecimientos comerciales especificados en el apartado e) de la fracción II del articulo 253-A de la Ley de Salud del Estado de Yucatán, para los cuales bastará la expedición de autorización del uso del suelo por la autoridad administrativa municipal correspondiente.
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXI.- Autorizar el uso de suelo con el voto de las dos terceras partes de sus integrantes, para los expendios de cerveza en envase cerrado, debiendo observar las restricciones que al efecto establece la ley en materia de Salud del Estado y la reglamentación respectiva, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XXII.- Las demás que le asignen las leyes.
-
-C) De Hacienda:
-
-I.- Administrar libremente su patrimonio y hacienda;
-
-II.- Aprobar a más tardar el quince de diciembre, el Presupuesto Anual de Egresos, con base en los ingresos disponibles y de conformidad al Programa Operativo Anual y el Plan Municipal de Desarrollo;
-
-III.- Ordenar a la Tesorería en el mes de enero de cada año, realizar el inventario general y la estimación del valor de los bienes;
-
-IV.- Aprobar la contratación de financiamientos; tratándose de los que excedan su período Constitucional, se requerirá de mayoría calificada;
-
-V.- Vigilar la aplicación del Presupuesto de Egresos;
-
-VI.- Determinar la forma en la que el Tesorero y demás funcionarios que tengan a su cargo caudales públicos, otorguen caución en cantidad suficiente;
-
-VII.- Recaudar y administrar los ingresos municipales, por conducto de su Tesorería; así como conocer y aprobar, los informes contables y financieros, que mensualmente presente;
-
-VIII.- Vigilar que sean contabilizados sin excepción, todos los ingresos y egresos, y someter sus cuentas al órgano técnico de fiscalización del Congreso del Estado, para su revisión y glosa, dentro de los primeros quince días naturales del mes siguiente al de su aplicación y ejercicio;
-
-IX.- Difundir en la Gaceta Municipal o en el medio de comunicación idóneo, el balance mensual de la Tesorería dentro de los primeros quince días naturales del mes siguiente al que corresponda, para conocimiento de los habitantes, detallando los ingresos y egresos; de igual forma se procederá con la Cuenta Pública Anual;
-
-X.- Expedir las tarifas a que deba sujetarse el transporte colectivo de pasajeros y demás servicios que lo requieran;
-
-XI.- Aprobar las iniciativas de Ley de Ingresos y Ley de Hacienda, remitiéndolas al Congreso del Estado para su aprobación. La primera contendrá la estimación de obligaciones o financiamientos destinados a inversiones públicas productivas, entre otros rubros;
-
-XII.- Aceptar herencias, legados, donaciones, y
-
-XIII.- Las demás que les asignen otras leyes.
-
-D) De Planeación:
-
-I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-II.- Aprobar el Plan Estratégico y el Plan Municipal de Desarrollo que deberá incluir todas las poblaciones existentes del Municipio;
-
-III.- Participar en la elaboración de los planes estatal y regional de desarrollo, según lo dispuesto en las leyes;
-
-IV.- Vigilar la ejecución de los planes y programas, y
-
-V.- Regular de manera conjunta y coordinada con el Estado, y con otros Municipios, las zonas de conurbación.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 42.
 
-Son obligaciones del Ayuntamiento en materia de servicios y obra pública:
+Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
 
-I.- Concluir las obras iniciadas por administraciones anteriores, siempre y cuando sean de beneficio colectivo, atiendan al Plan Municipal de Desarrollo y que no estén impedidas administrativa o judicialmente su ejecución;
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-II.- Dar mantenimiento a la infraestructura y equipamiento de los servicios públicos a su cargo;
+El Congreso expedirá la Ley orgánica que regulará su estructura y funcionamiento internos.
 
-III.- Establecer la nomenclatura de las calles, parques y jardines públicos;
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-IV.- Atender la organización y prestación de los servicios públicos municipales y establecer normas a las que debe sujetarse que podrán ser concesionados siempre y cuando se garantice la continuidad, seguridad, eficiencia e higiene, de conformidad a esta ley y el reglamento respectivo;
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
 
-V.- Atender la pavimentación, cuidado y el aseo de las calles, parques, jardines, mercados y demás sitios públicos;
-
-VI.- Municipalizar los servicios públicos que estén a cargo de particulares, cuando así lo requieran las necesidades sociales, se vulneren los principios de continuidad, seguridad, eficiencia e higiene, y se cuente con la capacidad para su administración;
-
-VII.- Ordenar la suspensión provisional de las obras, que no se realicen de conformidad con las leyes y reglamentos aplicables, y
-
-VIII.- Las demás que les asignen otras leyes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 43.
 
-Son obligaciones del Ayuntamiento, en materia de salubridad y asistencia social:
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o se encuentre erigido en Gran Jurado.
 
-I.- Promover y procurar la salud pública, así como auxiliar a las autoridades sanitarias;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Coordinarse con las autoridades y organismos federales y estatales para la realización de programas de salud y asistencia social;
+#### SECCION IV. De las Facultades del Congreso
 
-III.- Implantar, integrar y atender la organización y funcionamiento del Sistema Municipal para el Desarrollo Integral de la Familia, el cual podrá constituirse como unidad administrativa;
-
-IV.- Vigilar que las actividades de los particulares relacionadas con el público, se realicen sobre bases de seguridad y protección a las personas, a sus propiedades, al ornato, la estética e higiene;
-
-V.- Formular y vigilar los programas de asistencia social, con el objeto de proteger física, mental y socialmente a las personas en estado de abandono y capacidades diferentes;
-
-VI.- Actualizar anualmente el censo municipal de personas con capacidades diferentes y de la tercera edad;
-
-VII.- Regular el horario de expendio y venta de bebidas alcohólicas, en coordinación con el Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-VIII.- Establecer programas para prevenir y combatir la adicción a las drogas y el alcoholismo, la prostitución, la mendicidad, la vagancia y el lenocinio, así como toda actividad que pueda significar deterioro de la salud pública y privada, o contravenir el bienestar social;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-IX.- Promover la práctica del deporte, actividades recreativas y fomentar la cultura física entre los habitantes del Municipio;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-X.- Implementar, vigilar y promover programas en materia de salud sexual y reproductiva;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XI.- Garantizar que el agua para el consumo de la población, cuente con las condiciones óptimas de cloración y desinfección;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XII.- Reglamentar, vigilar y sancionar a los propietarios de los predios que los mantengan insalubres, en caso de que ello represente un riesgo a la salud pública, así como a las personas que depositen residuos en las vías públicas del Municipio, fuera de contenedores de almacenaje;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XIII.- Procurar dotar del equipamiento médico básico que sea necesario, conforme a la disponibilidad presupuestal, a fin de que la población pueda contar con una atención médica adecuada en casos de emergencia;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XIV.- Garantizar que las cárceles municipales cubran con los requisitos mínimos de salubridad e higiene, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XV.- Las demás que les asignen otras leyes en el ámbito de su competencia.
-
-#### SECCIÓN CUARTA
-
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
-
-DE LA SUSTITUCIÓN DE LOS AUSENTES
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 44.
 
-Son obligaciones del Ayuntamiento, en materia de Seguridad Pública:
+Son facultades del Congreso:
 
-I.- Garantizar la Seguridad Pública, a fin de preservar la integridad física y el patrimonio de los habitantes;
+I.- Legislar sobre todos los ramos de la administración que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que se expidieren, así como participar en las reformas de esta Constitución, observando para el caso los requisitos establecidos;
 
-II.- Preservar la paz y el orden público;
+II.- Iniciar ante el Congreso de la Unión leyes o decretos, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
 
-III.- Auxiliar al Ministerio Público y a las autoridades judiciales en el ejercicio de sus facultades,
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 1992)</small>
 
-IV.- Participar en la elaboración e implementación de planes y programas en coordinación con las autoridades estatales y federales;
+III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública; protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
+IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
 
-V.- Establecer la organización y funcionamiento interno de la corporación del ramo, conforme al reglamento respectivo;
+a).- La solicitud de erección debe ser hecha por un grupo de ciudadanos en número no menor de mil y con residencia en la localidad de tres años, cuando menos;
 
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
+b).- La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de diez mil habitantes;
 
-VI.- Establecer programas para prevenir, concientizar y combatir la violencia familiar, y
+c).- Es preciso comprobar que dicha fracción tiene los elementos necesarios para su existencia económica y administrativa, así como que el municipio o los municipios de que se segregue, puedan seguir subsistiendo sin grave menoscabo de su hacienda municipal;
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+d).- El Congreso debe tener la opinión del ayuntamiento o ayuntamientos del municipio o de los municipios de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como del Gobernador del Estado, quienes deberán emitirla dentro del mes siguiente a la fecha en que les fuere pedida, y
 
-VII.- Las demás que les asignen otras leyes.
+e).- La creación del nuevo municipio debe ser aprobada por las dos terceras partes de los diputados presentes;
 
-#### SECCIÓN QUINTA. DE LA ENTREGA-RECEPCIÓN
+V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+VI.- Facultar al Ejecutivo, con las limitaciones que estime necesarias, para que por sí o por apoderado especial, represente al Estado en actos o contratos para los que no esté facultado expresamente por esta Constitución;
+
+VII.- Fijar la jurisdicción política, administrativa y judicial del Estado;
+
+VIII.- Dictar normas para la administración, conservación y enajenación de los bienes del Estado.
+
+IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 1989)</small>
+
+X.- Aprobar las leyes de ingresos de los Ayuntamientos y revisar sus cuentas públicas.
+
+XI.- Legislar en materia de ingresos y egresos del Estado;
+
+XII.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos y reconocer y autorizar el pago de los adeudos que contraiga el Estado;
+
+XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando las dos terceras partes de los adeudos que contraiga el Estado; conveniente;
+
+XIV.- Legislar sobre toda clase de aranceles;
+
+XV.- Vigilar el correcto funcionamiento de la Contaduría General de Glosa;
+
+XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
+
+XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, y otorgar pensiones a ellas o a los familiares que comprueben encontrarse en difíciles condiciones económicas;
+
+XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato o alguno de sus miembros, por alguna de las causas siguientes:
+
+a) Cuando alguno de los miembros del Ayuntamiento cometa un delito;
+
+b).- Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
+
+c).- Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio;
+
+Los miembros de los ayuntamientos tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará, entre los vecinos, a quienes deban concluir los períodos respectivos.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 1984)</small>
+
+XIX A.- Designar a las personas que han de integrar los ayuntamientos, cuando falte alguna de ellas, por cualquier causa.
+
+XX.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+XXI.- Aprobar o desaprobar las propuestas, solicitudes de licencia y renuncias de los magistrados del Supremo Tribunal de Justicia;
+
+XXII.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
+
+XXIII.- Designar Gobernador interino del Estado cuando la separación del Titular sea mayor de treinta días;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 1984)</small>
+
+XXIV.- Formar la Comisión Instructora Especial y erigirse en Gran Jurado, para los efectos señalados en el Artículo 108 de esta Constitución, así como conocer de las acusaciones que se hagan a los servidores públicos que hubieren incurrido en delitos, en los términos del artículo 109 de este mismo ordenamiento.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+XXV.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 1983)</small>
+
+XXV-A.- Formar la la (sic) comisión instructora, la comisión de revisora y eregirse en gran jurado para los efectos señalados en el Título Cuarto de esta Constitución.
+
+XXVI.- Comunicarse con el Ejecutivo por medio de comisiones de su seno;
+
+XXVII.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
+
+XXVIII.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
+
+XXIX.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
+
+XXX.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
+
+XXXI.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
+
+XXXII.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado, y
+
+XXXIII.- Las demás que le confiera expresamente esta Constitución.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Las resoluciones del Gran Jurado serán definitivas e inatacables.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION V. De la Diputación Permanente
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 45.
 
-Son obligaciones del Ayuntamiento, en materia de preservación del medio ambiente:
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco diputados que se nombrarán la víspera de la clausura de sesiones ordinarias, por mayoría de votos de los presentes; se instalará inmediatamente después de dicha clausura, y durará todo el período de receso, aun cuando haya sesiones extraordinarias. Se nombrarán también tres miembros con el carácter de suplentes.
 
-I.- Formular políticas y criterios de preservación ecológica de acuerdo a las características socio-demográficas del Municipio;
+La Diputación Permanente se sujetará al reglamento interior del Congreso en el desempeño de sus funciones.
 
-II.- Preservar el equilibrio ecológico y proteger el medio ambiente, mediante el control de las emisiones contaminantes entre otras medidas, en coordinación con los demás órdenes de Gobierno y en los términos de las leyes respectivas;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-III.- Participar en la creación y administración de reservas territoriales y ecológicas, y la aplicación de programas para su ordenamiento;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-IV.- Implementar y promover campañas de limpieza y protección de zonas costeras, cenotes, grutas y aguadas, cuando cuenten con estas;
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-V.- Implementar y promover campañas que tengan como objeto el cuidado del medio ambiente a través de la utilización de tecnologías alternativas de ahorro de energía, reciclaje, reúso y demás que se consideren necesarias, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-VI.- Las demás que les asignen las diversas leyes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 46.
 
-Son obligaciones del Ayuntamiento, en materia de educación y cultura:
+Corresponde a la Diputación Permanente:
 
-I.- Promover la educación en los términos de las leyes y en los planes, nacional y estatal;
+I.- Velar por la observancia de la Constitución General, de la Particular del Estado y de las leyes que de ellas emanen, y dar cuenta al Congreso de las infracciones que note;
 
-II.- Proteger, preservar y promover el patrimonio cultural en los términos que establecen los ordenamientos federales y estatales;
+II.- Acordar, a propuesta del Ejecutivo, o por propia iniciativa en los casos previstos en esta Constitución, la convocatoria del Congreso a sesiones extraordinarias. Podrá señalarse lugar distinto de la capital para la reunión del Congreso, cuando así lo exijan circunstancias graves. En todo caso la convocatoria señalará el objeto de las sesiones extraordinarias;
 
-III.- Realizar programas que promuevan la participación de los ciudadanos en actividades culturales, recreativas y artísticas;
+III.- Expedir la convocatoria a sesiones extraordinarias, por medio de su Presidente, cuando el Ejecutivo no publique, en el término de tres días, el decreto correspondiente;
 
-IV.- Promover la preservación de las tradiciones y la cultura popular;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1995)</small>
 
-V.- Fomentar la creación de bibliotecas públicas y salas de lectura;
+IV.- Recibir las actas y expedientes de elección de Gobernador, de cuya validez debe conocer el Congreso, y presentarlos a éste para su calificación cuando se reúna;
 
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
+V.- Ejercer, en su caso, las facultades de que habla el artículo 30;
 
-VI.- Preservar la memoria histórica y conservar los documentos valiosos;
+VI.- Dictaminar sobre todos los asuntos que se ofrezcan durante su período, para que el Congreso los resuelva;
 
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
+VII.- Ejercer las funciones del Congreso en los casos de las fracciones XXII y XXIII del artículo 44;
 
-VII.- Proteger los derechos de las Comunidades Mayas;
+VIII.- Resolver los negocios que tengan el carácter de urgentes y que no exijan la expedición de una ley o decreto, y
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+IX.- Ejercer las demás facultades que le señala esta Constitución.
 
-VIII.- Promover campañas para garantizar el acceso a la educación y cultura, con perspectiva de género;
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPITULO III. Del Poder Ejecutivo
 
-IX.- Fomentar la cultura de la prevención contra la corrupción entre los funcionarios y empleados del Ayuntamiento y los habitantes del Municipio, y
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+#### SECCION I. De la Elección del Gobernador
 
-X.- Las demás que les asignen las diversas leyes.
-
-### CAPÍTULO V. DE LOS ÓRGANOS CONSULTIVOS
-
-#### SECCIÓN SEXTA. DEL FUNCIONAMIENTO
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 47.
 
-Son obligaciones del Ayuntamiento, en materia de protección civil:
+Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará "Gobernador del Estado".
 
-I.- Conformar dentro de los primeros quince días naturales del inicio de la administración, el Consejo Municipal de Protección Civil, con la participación de los sectores público, social y privado;
-
-II.- Establecer la unidad municipal de protección civil;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-III.- Prevenir a la comunidad en casos de contingencia;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-IV.- Contar con el equipamiento básico para casos de contingencia, dentro de las capacidades presupuestarias, y mantenerlo en óptimas condiciones, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-V.- Las demás que les asignen las diversas leyes.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 47 A.- Los ayuntamientos podrán celebrar convenios de asociación o coordinación, cuando se presenten conurbaciones entre los centros de población de dos o más municipios, por medio de los cuales, y de forma conjunta con el Poder Ejecutivo del Estado, deberán elaborar planes regionales de desarrollo urbano.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 47 B.- Es obligación de los ayuntamientos en materia de Hacienda Pública, vigilar que los establecimientos, giros comerciales y demás que deban tener licencia de funcionamiento, cuenten con ella, y en caso contrario podrán clausurarlos previa notificación realizada por escrito en la que se informe del plazo para subsanar la omisión de este requisito de funcionamiento.
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 48.
 
-Al Ayuntamiento le está prohibido:
+La elección de Gobernador será popular y directa en los términos que disponga la Ley Electoral.
 
-I.- Otorgar cargos o empleos en la administración pública a los cónyuges, parientes consanguíneos en línea recta en cualquier grado y en línea colateral hasta el cuarto grado o parientes por afinidad de cualquiera de sus integrantes;
-
-II.- Emplear su influencia para favorecer o perjudicar a determinada persona en los procesos de elección popular, impedirlos o retardarlos;
-
-III.- Ejercer su facultad reglamentaria, en las esferas de competencia federal o estatal;
-
-IV.- Interferir en asuntos de carácter judicial o agrario en los que no sean parte;
-
-V.- Gravar el tránsito, entrada o la salida de mercancías, de su jurisdicción municipal;
-
-VI.- Imponer contribuciones que no estén establecidas en las leyes fiscales;
-
-VII.- Enajenar bienes del patrimonio público, fuera de los casos previstos en esta ley;
-
-VIII.- Eximir a los causantes del pago de las contribuciones establecidas en la Ley de Ingresos del Municipio;
-
-IX.- Hacer erogaciones fuera del Presupuesto de Egresos, y
-
-X.- Dispensar a sus integrantes y empleados municipales del cumplimiento de sus obligaciones.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 49.
 
-Los servidores y funcionarios públicos que contravengan lo dispuesto en el artículo anterior, incurrirán en responsabilidad administrativa y penal, en su caso; por lo que serán sancionados de acuerdo al procedimiento previsto en esta ley y en las demás relativas.
+Para ser Gobernador se requiere:
+
+I.- Ser ciudadano michoacano en pleno goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1977)</small>
+
+II.- Haber cumplido treinta años el día de la elección;
+
+III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 50.
 
-Las Comisiones Municipales son órganos compuestos por uno o más Regidores, que tienen como finalidad estudiar, examinar y opinar sobre los asuntos relacionados con las atribuciones y facultades conferidas al Ayuntamiento, así como vigilar que se ejecuten los acuerdos de Cabildo.
+No pueden desempeñar el cargo de Gobernador:
 
-Serán nombradas en la primera sesión ordinaria y no tendrán funciones ejecutivas.
+I.- Los individuos que pertenezcan o hayan pertenecido al estado eclesiástico o que hayan sido o sean ministros de algún culto religioso;
+
+II.- No pueden ser electos para ocupar el cargo de Gobernador:
+
+a).- Los que tengan mando de fuerza pública;
+
+b).- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal, y
+
+c).- Los titulares de las dependencias básicas de la organización administrativa del Ejecutivo y los Magistrados del Supremo Tribunal de Justicia.
+
+Las personas a que se refieren las tres incisos anteriores, podrán ser electas si se separan de sus cargos 90 días antes de la elección.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 51.
 
-Las Comisiones Municipales tendrán el carácter de permanentes o especiales. Las primeras son aquellas a las que esta ley o el reglamento consideren como tales y las especiales, las que se creen para tratar asuntos específicos.
+La elección de Gobernador se celebrará el segundo domingo del mes de noviembre del año anterior en que concluya el período Constitucional. El Gobernador entrará a ejercer su cargo el 15 de febrero del año siguiente al de la elección y no podrá durar en él más de seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-Su finalidad, el número, sus funciones y obligaciones, se establecerán en el reglamento interior de Cabildo; salvo las especiales, que estarán a lo dispuesto en el acuerdo de creación, conforme a las características sociales, económicas y políticas del Municipio.
-
-Serán Comisiones obligatorias, las siguientes:
-
-I.- Gobierno;
-
-II.- Patrimonio y Hacienda;
-
-III.- Desarrollo Urbano y Obras Públicas;
-
-IV.- Seguridad Pública y Tránsito;
-
-V.- Servicios Públicos, y
-
-VI.- Salud y Ecología.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 52.
 
-Las Comisiones deberán estudiar los asuntos del ramo que les corresponda y rendir su opinión al Cabildo para su deliberación y aprobación, dentro del plazo de treinta días hábiles. En caso de requerir prórroga, lo harán saber al Cabildo para su autorización.
+Nunca podrán ser electos para el período inmediato;
+
+a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación, y
+
+b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 53.
 
-Las Comisiones tendrán las siguientes funciones:
+El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
 
-I.- Formular y proponer la atención del servicio público o ramo de que se trate, así como supervisar que se presten con eficiencia y eficacia;
-
-II.- Proponer políticas y acciones para la solución de los asuntos de los respectivos ramos de la administración pública;
-
-III.- Vigilar el destino de los recursos económicos destinados a la prestación del servicio público o ramo, y
-
-IV.- Observar la aplicación de los reglamentos municipales, proponiendo las reformas que estime necesarias.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 54.
 
-El Presidente Municipal, el Síndico, el Secretario y los Regidores deberán cumplir con las obligaciones dispuestas en esta Ley; su contravención será causa de responsabilidad administrativa y penal, en su caso, por lo que serán sancionados de acuerdo al procedimiento previsto en esta Ley y la de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá en Colegio Electoral inmediatamente, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; al mismo tiempo expedirá la convocatoria de elecciones para Gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
+
+Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que éste a su vez designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
+
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, si el Congreso del Estado estuviere en sesiones, elegirá a mayoría absoluta de votos, el Gobernador substituto que deberá concluir el período respectivo. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de Gobernador substituto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 55.
 
-Al Presidente Municipal, como órgano ejecutivo y político del Ayuntamiento, le corresponde:
+El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-I.- Representar al Ayuntamiento política y jurídicamente, delegar en su caso, esta representación; y cuando se trate de cuestiones fiscales y hacendarias, representarlo separada o conjuntamente con el Síndico;
-
-II.- Dirigir el funcionamiento de la Administración Pública Municipal;
-
-III.- Proponer al Cabildo el nombramiento del Secretario Municipal en los términos de esta Ley;
-
-IV.- Ejercitar separada o conjuntamente con el Tesorero, la facultad económico-coactiva, en los términos establecidos en el Código Fiscal del Estado de Yucatán;
-
-V.- Nombrar y remover al personal administrativo del Ayuntamiento, cuando así se requiera, debiendo informar al Cabildo en la sesión inmediata;
-
-VI.- Delegar la presidencia del Sistema Municipal para el Desarrollo Integral de la Familia, en su cónyuge o persona distinta, de acuerdo a la forma que adopte este organismo;
-
-VII.- Condonar multas, pudiendo delegar esta facultad en otro funcionario público de menor rango;
-
-VIII.- Encabezar los actos cívicos y públicos que se realicen en el Municipio, salvo que estuviera presente el Gobernador del Estado, quien los presidirá;
-
-IX.- Solicitar al Ejecutivo en caso justificado, el auxilio de la fuerza pública para hacer cumplir sus resoluciones o las propias del Cabildo;
-
-X.- Aplicar por sí o a través del Juez Calificador, las sanciones a las infracciones administrativas, conforme al reglamento respectivo;
-
-XI.- Administrar y conservar los bienes propiedad del Municipio, conforme a lo que disponga el órgano de control interno, a falta de éste, el Sindico o el Cabildo, en su caso;
-
-XII.- Proponer al Cabildo el nombramiento del Tesorero, del titular del órgano de control interno y los titulares de las dependencias y entidades paramunicipales. En ningún caso el Tesorero y los demás funcionarios municipales, podrán ser nombrados de entre los Regidores propietarios;
-
-XIII.- Vigilar separada o conjuntamente con el Síndico, la recaudación de la Hacienda Municipal;
-
-XIV.- Supervisar que los funcionarios públicos y empleados a su cargo, en el cumplimiento de sus funciones, se conduzcan con imparcialidad, diligencia, honradez, eficacia y respeto a las leyes;
-
-XV.- Suscribir conjuntamente con el Secretario Municipal y a nombre y por acuerdo del Ayuntamiento, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de los servicios públicos;
-
-XVI.- Autorizar las órdenes de pago de la Tesorería, conforme al Presupuesto de Egresos, firmándolas conjuntamente con el Tesorero o a quien el Presidente designe;
-
-XVII.- Acordar periódicamente con los Regidores, los asuntos que estimen convenientes, para los diversos ramos de la administración pública, y
-
-XVIII.- Las demás que establezcan las leyes y los reglamentos.
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 56.
 
-Son obligaciones del Presidente Municipal:
+La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
 
-I.- Presidir y dirigir las sesiones de Cabildo;
-
-II.- Formular y someter a la aprobación del Cabildo, la iniciativa de Ley de Ingresos y la Ley de Hacienda, el Presupuesto de Egresos, el Bando de Policía y Gobierno, los reglamentos y demás disposiciones de observancia general, así como publicarlos en la Gaceta Municipal;
-
-III.- Convocar por conducto del Secretario Municipal, a las sesiones de Cabildo, por sí o a petición de la mayoría de sus integrantes, conforme al reglamento interior;
-
-IV.- Tener a su mando, la corporación de Seguridad Pública Municipal y remover a su titular, informando posteriormente al Cabildo;
-
-V.- Cumplir y hacer cumplir dentro de su competencia, los ordenamientos federales, estatales y municipales, así como los acuerdos del Cabildo;
-
-VI.- Conducirse con respeto ante los poderes Estatal, Federal y otros Cabildos;
-
-VII.- Rendir en sesión pública y solemne, el informe anual sobre el Estado que guarda la administración pública;
-
-VIII.- Atender la debida integración del Cabildo y el buen funcionamiento de la administración pública municipal;
-
-IX.- Cuidar que los fondos municipales, se apliquen con estricto apego al Presupuesto de Egresos aprobado;
-
-X.- Informar al Cabildo sobre los ingresos, egresos y los estados financieros de las entidades y organismos paramunicipales;
-
-XI.- Proponer las tarifas previo estudio técnico, de los organismos públicos descentralizados, cuando su objeto sea la prestación de un servicio público;
-
-XII.- Comunicar al Ejecutivo del Estado, con la urgencia que el caso demande, sobre cualquier hecho que implique una amenaza a la seguridad o al orden público, y
-
-XIII.- Las demás que establezca ésta ley y demás ordenamientos aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
 
 ###### Artículo 57.
 
-Al Presidente Municipal le está prohibido:
+Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 15 de febrero, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
 
-I.- Distraer los fondos, bienes y valores municipales;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
-II.- Favorecer con cualquier beneficio o contraprestación a su cónyuge o concubino, parientes por consanguinidad o afinidad en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado, o terceros con los que tenga relación profesional, laboral o de negocios, o para socios o sociedades en las que el servidor público o las personas antes referidas, formen parte;
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario General de Gobierno, se encargará del despacho del Poder Ejecutivo, salvo el caso de falta temporal o impedimento, en el caso de falta temporal o impedimento, en el que será reemplazado por el Oficial Mayor.
 
-III.- Retener el sueldo y demás percepciones a los demás Regidores y funcionarios públicos, salvo resolución de autoridad competente;
-
-IV.- Imponer contribuciones o realizar cobros distintos a los señalados en las leyes;
-
-V.- Aplicar sanciones no contempladas en las leyes y reglamentos;
-
-VI.- Expedir por sí, licencia o autorización para el expendió de bebidas alcohólicas;
-
-VII.- Favorecer, impedir o retardar las elecciones en beneficio de persona o partido político alguno;
-
-VIII.- Ausentarse del Municipio por más de cinco días naturales de forma ininterrumpida, sin autorización expresa del Cabildo, durante un año de ejercicio;
-
-IX.- Emplear indebidamente al personal, vehículos, materiales y equipos, destinados al servicio público;
-
-X.- Autorizar la práctica y celebración de juegos de azar;
-
-XI.- Nombrar a parientes por consanguinidad o por afinidad, en línea recta o trasversal, hasta el cuarto grado, para ocupar cargos de designación;
-
-XII.- Conceder exención de contribuciones, y
-
-XIII.- Las demás que señale esta ley y la de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 58.
 
-Para ser Síndico se requiere además de los requisitos establecidos en el artículo 78 de la Constitución Política, poseer buena fama pública y una escolaridad mínima de secundaria.
+En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernador el funcionario a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 59.
 
-El Síndico formará parte de la Comisión de Patrimonio y Hacienda y en ningún caso la presidirá, teniendo como facultades las siguientes:
+El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado, o ante la Diputación Permanente en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-I.- Vigilar el funcionamiento de la hacienda pública y la administración municipal;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Representar al Ayuntamiento conjunta o separadamente con el Presidente Municipal, en su caso, cuando se trate de cuestiones fiscales y hacendarias;
+#### SECCION II. De las Facultades y Obligaciones del Gobernador
 
-III.- Solicitar y obtener del Tesorero, la información relativa a la hacienda municipal y demás documentos de la administración, que sea necesaria para el cumplimiento de sus obligaciones;
-
-IV.- Intervenir en la formulación del inventario general de los bienes y tratándose de los inmuebles, vigilar su regularización e inscripción en el Registro Público de la Propiedad del Estado de Yucatán;
-
-V.- Supervisar el proceso de entrega-recepción;
-
-VI.- Vigilar la difusión y transparencia de la cuenta pública, del presupuesto de egresos y el informe que rinda el Presidente Municipal, sobre el estado que guarda la administración pública;
-
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
-
-VII.- Coadyuvar con el Presidente Municipal en la vigilancia de la cuenta pública, para su remisión en forma oportuna, al Congreso del Estado;
-
-VIII.- Coordinarse con el Órgano Técnico de Fiscalización dependiente del Congreso del Estado para el debido cumplimento de la solventación de las observaciones de la cuenta pública, y
-
-IX.- Estar presente en las visitas de inspección a la Tesorería Municipal, que realicen las autoridades hacendarias y fiscalizadoras.
-
-A falta de órgano de control interno municipal, corresponde al Síndico ejercer sus competencias.
-
-#### SECCIÓN SÉPTIMA. DE LAS ATRIBUCIONES Y OBLIGACIONES
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 60.
 
-El Secretario Municipal será designado por el Cabildo a propuesta del Presidente Municipal, a quien auxiliará en todo lo relativo a su buen funcionamiento, asistiéndolo en su conducción.
+Las facultades y obligaciones del Gobernador son:
 
-En su ausencia temporal o definitiva, será sustituido de entre los demás Regidores restantes, a propuesta del Presidente Municipal.
+I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
+
+II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
+
+III.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1983)
+
+IV.- Someter al Congreso del Estado, las propuestas para la designación de magistrados del Supremo Tribunal de Justicia o a la Diputación Permanente según el caso;
+
+V.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
+
+VI.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
+
+VII.- Expedir los reglamentos interiores de las oficinas a su cargo;
+
+VIII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1995)</small>
+
+IX.- Presentar cada año al Congreso, durante los primeros diez días del segundo período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
+
+X.- Dar informes al Congreso de la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1962)</small>
+
+XI.- Dar cuenta al Congreso, como lo dispone el artículo 33 de esta Constitución, sobre el estado que guarde la administración pública, proponiendo los medios para mejorarla;
+
+XII.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XIII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública y tránsito en el Estado.
+
+La Policía y Tránsito en el capital del Estado dependerá directamente del Gobernador y tendrá como jefe inmediato a un director.
+
+El Gobernador del Estado tendrá mando de las corporaciones de policía y tránsito en los Municipios donde eventual o transitoriamente se encuentre.
+
+XIV.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+
+XV.- Nombrar y remover libremente a los funcionarios y empleados de la administración pública estatal, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1990)</small>
+
+XVI.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, la que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+XVII.- (DEROGADA, P.O. 27 DE ABRIL DE 1995)
+
+XVIII.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
+
+XIX.- Convocar al Congreso cuando lo determine la Diputación Permanente, en los términos de esta Constitución;
+
+XX.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
+
+XXI.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
+
+XXII.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad, y
+
+XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 61.
 
-Son facultades y obligaciones del Secretario:
+El Gobernador del Estado no podrá:
 
-I.- Auxiliar al Presidente Municipal, en lo relativo a las convocatorias para la celebración de las sesiones;
+I.- Negarse a promulgar y publicar las leyes y decretos de la Legislatura;
 
-II.- Hacerse cargo del despacho de la Presidencia Municipal, en su ausencia temporal;
+II.- Imponer contribución alguna que no esté previamente establecida por la ley;
 
-III.- Estar presente en todas las sesiones y elaborar las correspondientes actas;
+III.- Distraer los caudales públicos del objeto a que estén destinados por la ley;
 
-IV.- Autorizar con su firma y rúbrica, según corresponda, las actas y documentos; así como expedir y autorizar con su firma, las certificaciones y demás documentos oficiales;
+IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
 
-V.- Procurar el pronto y eficaz desahogo de los asuntos del Ayuntamiento;
+V.- Intervenir en las elecciones para favorecer a personas determinadas;
 
-VI.- Dar fe de los actos, y certificar los documentos relacionados con el gobierno y la administración municipal;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
-VII.- Dar cuenta permanente al Presidente Municipal, para acordar su debido trámite de todos los asuntos concernientes al Ayuntamiento;
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente. Cuando el Gobernador, sin abandonar sus funciones salga del territorio del Estado, el Secretario Gobierno quedará encargado del despacho, salvo el caso de falta temporal o impedimento, en el que será reemplazado por el Oficial Mayor;
 
-VIII.- Tener a su cargo el cuidado del archivo municipal;
+VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
 
-IX.- Notificar por escrito y demás medios idóneos las convocatorias a sesión;
+VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de la posesión, uso o goce de lo que le pertenece.
 
-X.- Tramitar los asuntos que deba conocer el Cabildo, hasta ponerlos en estado de resolución;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-XI.- Firmar la correspondencia de trámite por sí o conjuntamente con el Presidente Municipal;
+#### SECCION III. Del Despacho del Poder Ejecutivo
 
-XII.- Compilar las leyes, decretos, reglamentos, circulares y órdenes, relativas a los distintos órganos, oficinas, dependencias y entidades de la administración pública municipal;
-
-XIII.- Llevar el registro de población de los habitantes del municipio, y
-
-XIV.- Las demás que señalen las leyes.
-
-#### SECCIÓN OCTAVA. DE LAS COMISIONES
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 62.
 
-El Ayuntamiento se compone por el número de Regidores que determine el Congreso del Estado conforme a lo que establece esta Ley y constituyen de manera permanente, el órgano de gobierno municipal, en una determinada jurisdicción territorial del Estado de Yucatán.
+Para el despacho de los negocios del orden político-administrativo, el Ejecutivo del Estado contará con las dependencias básicas y organismos que determine esta Constitución, la Ley Orgánica de la Administración Pública y demás leyes.
 
-A los Regidores, colegiada y solidariamente corresponde, establecer las directrices generales del gobierno municipal, para atender las necesidades sociales de sus habitantes y procurar siempre, el desarrollo integral y sustentable del Municipio. La ley garantiza el respeto a la integridad de su investidura y la igualdad de derechos y condiciones en el seno del Ayuntamiento, y frente a la administración pública municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 63.
 
-Son facultades de los Regidores:
+Para ser Secretario de Gobierno se requiere:
 
-I.- Participar con voz y voto en las sesiones de Cabildo;
+I.- Ser mexicano y michoacano por nacimiento, o tener residencia efectiva en el Estado, no menor de dos años anteriores a la fecha del nombramiento;
 
-II.- Proponer al Cabildo, las medidas convenientes para la debida atención de los distintos ramos de la administración municipal;
+II.- Ser ciudadano en pleno ejercicio de sus derechos;
 
-III.- Proponer al Cabildo iniciativas de creación o modificación de reglamentos o del Bando de Policía y Gobierno;
+III.- Haber cumplido veinticinco años de edad el día de su designación;
 
-IV.- Proponer al Cabildo los acuerdos que deban dictarse para el mejoramiento de los servicios públicos y otras funciones de la administración municipal;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1978)</small>
 
-V.- Acordar periódicamente con el Presidente Municipal, los asuntos que estime convenientes sobre la competencia de las Comisiones a su cargo;
+IV.- No haber sido condenado por delito no culposo.
 
-VI.- Recibir los documentos referentes a la cuenta pública municipal, en un plazo previo de tres días anteriores, a la celebración de la sesión de análisis y aprobación de la cuenta pública;
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1978)</small>
 
-VII.- Proponer individualmente al Cabildo, lo que consideren conveniente para el Municipio;
+Los mismos requisitos serán necesarios para ser Oficial Mayor de Gobierno.
 
-VIII.- Opinar sobre los asuntos que les sean encomendados a sus Comisiones, y
-
-IX.- Las demás que le otorguen las leyes y reglamentos.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 64.
 
-Las obligaciones de los Regidores son:
+El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo comunique sus resoluciones y llevará en el Congreso la voz del Gobernador cuando éste lo crea conveniente.
 
-I.- Asistir de manera permanentemente a la sede municipal y a las sesiones de Cabildo;
+El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-II.- Formar parte de las comisiones y opinar de los asuntos que les fueren encomendados e informar de sus resultados;
-
-III.- Comunicar mensualmente al Cabildo, sobre el estado que guarda el ramo bajo su vigilancia, y las actividades relacionadas con la Comisión a su cargo;
-
-IV.- Concurrir a las ceremonias cívicas y a los demás actos, a que fueren convocados por el Presidente Municipal, y
-
-V.- Las demás que le confiera la presente ley y los reglamentos municipales.
-
-No tendrán funciones ejecutivas.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
-#### SECCIÓN PRIMERA. DE LOS SERVICIOS EXCLUSIVOS
-
 ###### Artículo 65.
 
-En caso de que el Congreso del Estado declare la desaparición de un Ayuntamiento, por la falta absoluta de todos sus integrantes, por la comisión de infracciones o delitos graves cometidos por aquéllos, por conflictos de índole social y político u otras causas que a juicio de aquel, generen ingobernabilidad; El Congreso del Estado designará de entre los vecinos del Municipio, a un Concejo Municipal y de entre sus integrantes, uno será nombrado Presidente y otro Síndico.
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
 
-El Concejo tendrá las mismas atribuciones y facultades conferidas al Ayuntamiento, de conformidad con lo establecido en la Constitución Política del Estado de Yucatán y estará compuesto por cinco integrantes, cuando se trate de Municipios de hasta cien mil habitantes o de siete, cuando se trate de Municipios con más de cien mil habitantes. Y podrá ser:
-
-I.- Provisional, si su designación se realiza en los primeros seis meses del ejercicio constitucional, y
-
-II.- Definitivo, si se realiza con posterioridad al mencionado período.
-
-El Congreso del Estado suspenderá o removerá a los integrantes del Concejo Municipal, conforme a lo dispuesto por esta ley y designará a quien los sustituya.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 66.
 
-La instalación del Concejo Municipal deberá realizarse conforme a las modalidades que esta Ley establece para el Ayuntamiento.
+Los titulares de las dependencias serán responsables con el Gobernador en todos aquellos asuntos que lleven su firma.
 
-### CAPÍTULO VI. DE LA PARTICIPACIÓN CIUDADANA
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO IV. Del Poder Judicial
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1981)</small>
 
 ###### Artículo 67.
 
-Los integrantes del Concejo Municipal deberán reunir los requisitos que señala el Artículo 78 de la Constitución Política del Estado de Yucatán.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Municipales y de Tenencia y en los Jurados.
 
-El Concejo Municipal tendrá las mismas atribuciones, facultades, funciones y obligaciones del Ayuntamiento, y sus integrantes no podrán ser electos para el período inmediato posterior.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+La independencia de los Magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los nombramientos de los magistrados y jueces integrantes del poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los jueces de primera instancia y los que con cualquier otra denominación se creen en el Estado, serán nombrados por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 68.
 
-Las autoridades auxiliares son aquellas que colaboran con el Ayuntamiento, conforme a esta Ley y los reglamentos gubernativos, con el fin de atender las funciones y la prestación de los servicios públicos. De igual modo, coadyuvarán para garantizar la tranquilidad, la seguridad y el orden público en el Municipio.
+La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezca el Supremo Tribunal de Justicia en ejercicio de la facultad a que se refiere este artículo, así como los requisitos para su interrupción y modificación.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 69.
 
-Son autoridades auxiliares:
+El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado.
 
-I.- Los Comisarios;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Los Subcomisarios;
+#### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-III.- Los Jefes de Manzana, y
-
-IV.- Las demás que el Cabildo acuerde, según las características del Municipio.
-
-#### SECCIÓN PRIMERA. DE LA GENERALIDAD
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
 
-#### SECCIÓN PRIMERA. DEL SISTEMA MUNICIPAL DE PLANEACIÓN
-
 ###### Artículo 70.
 
-Todas las autoridades auxiliares serán electas por el voto universal, libre, directo y secreto, mediante el procedimiento que al efecto organice el Cabildo, durarán en su cargo tres años, no pudiendo ser ratificados para el período inmediato.
+El Supremo Tribunal de Justicia estará integrado por un número no menor de siete magistrados propietarios y funcionará en Tribunal Pleno o en Salas, en los términos que disponga la ley. Habrá además, el mismo número de magistrados supernumerarios.
 
-Dichas autoridades podrán ser removidas por el Cabildo, por causa justificada y conforme al reglamento que se expida.
+La Ley Orgánica del Poder Judicial fijará el número de magistrados y distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas.
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-El procedimiento de elección deberá ajustarse a los siguientes lineamientos:
-
-I.- Se realizará dentro de los noventa días posteriores al de la instalación del Ayuntamiento;
-
-II.- La convocatoria deberá expedirse diez días naturales antes del de la elección, y hacerse del conocimiento de los residentes de la localidad, a través de medios que garanticen su adecuada difusión, así como en lugares de acceso público;
-
-III.- Los aspirantes a ser electos deberán cumplir con todos y cada uno de los requisitos establecidos en esta ley;
-
-IV.- Los votantes acreditarán su residencia con el documento oficial emitido por la autoridad electoral;
-
-V.- El día de la elección, cada aspirante podrá contar con un representante en la mesa de cómputo, y
-
-VI.- El ayuntamiento podrá solicitar a las autoridades electorales federales o estatales, auxilio o asesoría que requiera para la celebración de la elección.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-La elección de autoridades auxiliares realizada en forma distinta a la establecida en este artículo será nula.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Los servidores públicos municipales o estatales que realicen o participen en la elección de autoridades auxiliares, contraviniendo lo establecido en esta ley, serán responsables en términos de la legislación correspondiente.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 70 bis.- Para ser autoridad auxiliar se requiere:
-
-I.- Ser mayor de edad;
-
-II.- Saber leer y escribir;
-
-III.- Ser vecino del Municipio;
-
-IV.- No ser propietario de expendio de bebidas alcohólicas, ni tener intereses en esa clase de negocios, y
-
-V.- No contar con antecedentes penales.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 71.
 
-Los Jefes de Manzana, además de las facultades mencionadas en el presente capítulo, tendrán la obligación de elaborar, revisar y actualizar el Registro de Población del Municipio, en los términos del Reglamento de la materia.
+Para ser electo magistrado, propietario o supernumerario del Supremo Tribunal de Justicia del Estado, se necesita:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos o civiles;
+
+II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
+
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por la autoridad o corporación legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y,
+
+V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un término menor de seis meses.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 72.
 
-Son órganos consultivos:
+Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución y la Ley de Responsabilidades de los Servidores públicos del Estado.
 
-I.- Los Consejos de Colaboración Municipal, y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
 
-II.- Los demás que determinen las leyes y el Cabildo.
+Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, en su caso, para su aprobación, al Congreso o a la Diputación Permanente. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido 60 años de edad. En este caso se seguirá la misma tramitación.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
+
+El magistrado inamovible que obtenga su retiro forzoso, disfrutará de una pensión equivalente a la remuneración que perciba, si tiene más de diez años de servicios efectivos como magistrado. El que obtenga su retiro voluntario, disfrutará de la misma pensión.
+
+> <small>(DEROGADO, P.O. 25 DE NOVIEMBRE DE 1971)</small>
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 73.
 
-Los Consejos de Colaboración Municipal son órganos de consulta conformados por representantes de los distintos grupos sociales, con el objeto de orientar mejor las políticas públicas, abrir espacios de interlocución entre la ciudadanía y el gobierno municipal y conjuntar esfuerzos.
+Las designaciones de ]os magistrados del Supremo Tribunal de Justicia, se harán por el Congreso o la Diputación Permanente en su caso, a propuesta del Gobernador del Estado.
 
-Los cargos de sus integrantes tendrán carácter honorario y sus opiniones no obligan a las autoridades.
+Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
+
+Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ellas emanen, mirando en todo el bien y prosperidad de la Nación y del Estado?"
+
+Magistrado: "Sí, protesto."
+
+Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden."
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 74.
 
-El Cabildo establecerá los consejos de colaboración necesarios, para atender asuntos de interés relevante para el gobierno municipal y los habitantes. Dichos órganos tendrán las facultades y obligaciones que en el acuerdo de su creación se establezca.
+La falta temporal de un Magistrado que no exceda de tres meses, será suplida por uno de los supernumerarios que designe el Pleno del Supremo Tribunal. Si la falta es definitiva o por más de tres meses, se seguirá el mismo procedimiento determinado por el artículo 73.
+
+Los Magistrados supernumerarios conocerán de los negocios en el orden de su designación, cuando los propietarios, en su totalidad, sean recusados o se encuentren impedidos; podrán ser llamados también para integrar el Pleno, en el caso de falta o impedimento de un Magistrado propietario, cuando no exista la mayoría requerida por la ley para la decisión de un asunto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 75.
 
-Se entiende como participación ciudadana, el ejercicio social que de manera voluntaria y de forma individual o colectiva, los habitantes del Municipio manifiestan su aprobación, rechazo u opinión, sobre asuntos de interés público.
+En caso de que se declaren desaparecidos los Poderes del Estado, el funcionario que asuma el Poder Ejecutivo propondrá al Congreso del Estado, en la misma forma que determina la fracción IV del artículo 60, la designación de los magistrados del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 76.
 
-Son medios de participación ciudadana:
+Los magistrados designados para suplir las faltas de los propietarios, durarán en su encargo el tiempo que falte para terminar el período constitucional respectivo.
 
-I.- El Referéndum;
-
-II.- El Plebiscito;
-
-III.- La iniciativa popular, y
-
-IV.- Las demás que establezca el Ayuntamiento.
-
-La ley especial regulará los procedimientos, modalidades y condiciones de dicha participación.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 77.
 
-Con la finalidad de desarrollar y precisar los preceptos contenidos en esta ley, el Cabildo está facultado para aprobar el Bando de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, con el fin de organizar la administración pública municipal, regular la prestación y funcionamiento de los servicios públicos y la participación social.
+Corresponde al Supremo Tribunal de Justicia del Estado:
 
-Los reglamentos contendrán el conjunto de derechos, obligaciones, infracciones, el procedimiento de determinación de sanciones y los medios de defensa de los particulares.
+I.- Conocer:
+
+a).- De las cuestiones de competencia y de la acumulación entre los jueces municipales de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces municipales de otros distritos;
+
+b).- De los negocios civiles y penales comunes, como tribunal de apelación;
+
+c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
+
+d).- Del recurso de queja, en los términos que dispongan las leyes.
+
+II.- Expedir su reglamento interior;
+
+III.- Autorizar a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación, del Distrito Federal y Territorios y con las juntas de Conciliación y Arbitraje, federales y locales, y
+
+IV.- Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 78.
 
-El ejercicio de la facultad reglamentaria, se sujetará a las mismas reglas del procedimiento legislativo ordinario, conforme a las leyes respectivas.
+El Supremo Tribunal de Justicia nombrará cada año su Presidente, el cual podrá ser reelecto.
 
-Los habitantes del Municipio del Estado, gozarán del derecho de iniciativa popular en los ramos y condiciones que la ley especial establezca.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+
+El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno, el 10 de febrero de cada año, informe que manifieste el estado que guarde la administración de justicia. A este acto asistirá el Gobernador del Estado, el Presidente del Congreso y los diputados.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 79.
 
-El Cabildo deberá publicar las disposiciones de observancia general que acuerde y para su obligatoriedad, deberá publicarlas en la Gaceta Municipal, misma que contendrá por lo menos, las siguientes características:
+El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le fije la Ley Orgánica respectiva.
 
-I.- El número que le corresponda conforme al Registro Estatal de Publicaciones Oficiales, a cargo del Ejecutivo del Estado;
-
-II.- La denominación “Gaceta Municipal” y la leyenda: “Órgano Oficial de Publicación” del Municipio respectivo;
-
-III.- La impresión del escudo y el logotipo oficial del Municipio;
-
-IV.- Fecha y número de publicación de la edición correspondiente, y
-
-V.- El índice de contenido.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 80.
 
-Para la satisfacción de las necesidades colectivas de los habitantes, cada Ayuntamiento organizará las funciones y medios necesarios a través de una corporación de naturaleza administrativa que se denomina Administración Publica Municipal, cuyo funcionamiento corresponde encabezar de manera directa al Presidente Municipal en su carácter de órgano ejecutivo, quien podrá delegar sus funciones y medios en funcionarios bajo su cargo, en atención al ramo o materia, sin menoscabo de las facultades y atribuciones conferidas al Ayuntamiento.
+Los magistrados continuarán en sus funciones aunque haya fenecido su período constitucional o el plazo para el que fueron nombrados, mientras no se presenten los nuevamente designados.
 
-#### SECCIÓN SEGUNDA. DE LA PRESIDENCIA MUNICIPAL
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION II. De los Juzgados de Primera Instancia
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 81.
 
-Al Presidente Municipal, previo acuerdo del Cabildo, corresponde crear las oficinas y dependencias que le garantice el ejercicio de sus facultades y obligaciones. Para su creación, fusión, modificación o supresión, se estará a las necesidades y posibilidades del Ayuntamiento.
+La administración de justicia en primera instancia estará a cargo de jueces letrados. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de llenar sus faltas absolutas o temporales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1985)</small>
+
+El Supremo Tribunal de Justicia podrá nombrar jueces de Primera Instancia supernumerarios, que auxilien las labores de los juzgados donde hubiere recargo de negocios, a fin de obtener que la administración de justicia sea pronta y expedita.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 82.
 
-Las oficinas y dependencias, conducirán sus acciones en base a los fines y objetivos de los planes y programas operativos anuales. Al frente de cada una de ellas, habrá un titular con la denominación que determinen los reglamentos respectivos. Para el despacho de sus asuntos, se auxiliará en los demás funcionarios públicos que dispongan los reglamentos del ramo, conforme a los recursos presupuestales.
+Los Jueces de Primera Instancia, serán nombrados por el Supremo Tribunal de Justicia, en la forma que establezca la Ley Orgánica del Poder Judicial, durarán en su encargo tres años, y no podrán ser privados de sus puestos sino en los términos del título IV de esta Constitución. Al concluir su encargo, continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 83.
 
-Los titulares de cada una de las oficinas y dependencias de la administración pública, deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del Municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les corresponda. Acordarán directamente con el Presidente Municipal a quien le estarán subordinados de manera inmediata y directa, y comparecerán ante el Cabildo, cuando se les requiera.
+Para ser juez de primera instancia se requiere:
+
+I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
+
+II.- Tener veintiún años cumplidos;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+III.- Reunir los requisitos que señala el artículo 71, Fracción III, de esta Constitución, y
+
+IV.- No haber sido condenado por delitos infamantes o contra la propiedad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 84.
 
-Son autoridades hacendarias y fiscales:
+Los jueces de Primera Instancia residirán en la cabecera de distrito que señale la ley, y no podrán cambiar el despacho a otra población, sino autorizados por el Supremo Tribunal de Justicia.
 
-I.- El Cabildo;
-
-II.- El Presidente Municipal;
-
-III.- El Síndico;
-
-IV.- El Tesorero; y
-
-V.- Las demás que establezca la correspondiente Ley de Hacienda Municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
 
 ###### Artículo 85.
 
-El Presidente Municipal y el Tesorero serán directamente responsables de la administración de todos los recursos públicos municipales.
+Son atribuciones de los Jueces de Primera Instancia:
 
-#### SECCIÓN SEGUNDA. DEL TESORERO
+I.- Conocer en primera instancia de los negocios civiles y penales de su territorio;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+II.- Conocer de las cuestiones de competencia y las de acumulación que se susciten entre los jueces municipales del mismo distrito;
+
+III.- Nombrar a los empleados de su despacho, y
+
+IV.- Desempeñar las demás funciones que les asignen las leyes.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 86.
 
-El Tesorero es el titular de las oficinas fiscales y hacendarias del Municipio. Será nombrado y removido por el Cabildo a propuesta del Presidente Municipal.
+Habrá jueces municipales en las poblaciones que determine la Ley Orgánica respectiva, los que serán nombrados por el Supremo Tribunal de Justicia. La ley determinará el número de esos funcionarios que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
 
-Para ser Tesorero, se requiere:
-
-I.- Caucionar con cantidad suficiente a juicio del Cabildo el manejo de los fondos municipales;
-
-II.- No haber sido inhabilitado para desempeñar cargo, empleo o comisión en la administración pública;
-
-III.- Tener modo honesto de vivir y no haber sido sentenciado por delitos patrimoniales u oficiales;
-
-IV.- No tener parentesco consanguíneo o por afinidad hasta en tercer grado en línea recta y cuarto en línea colateral, con los integrantes del Cabildo o funcionarios de la administración municipal;
-
-V.- No ser propietario, responsable o mantener intereses directos o indirectos en la industrialización, comercialización o distribución de bebidas alcohólicas, y
-
-VI.- Cumplir con los demás requisitos que establezca el Cabildo.
-
-#### SECCIÓN TERCERA. DE LAS FACULTADES DEL TESORERO
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 87.
 
-Son facultades del Tesorero:
+Los jueces municipales durarán en su encargo el tiempo que marque la Ley Orgánica respectiva, no pudiendo renunciar sino por causa que calificará el Supremo Tribunal de Justicia.
 
-I.- Dirigir las labores de la tesorería y vigilar que los empleados cumplan con sus obligaciones;
-
-II.- Proponer al Presidente Municipal el nombramiento o remoción de los demás funcionarios y empleados de la tesorería;
-
-III.- Intervenir en la elaboración de los proyectos de ley, reglamentos y demás disposiciones administrativas relacionadas con el manejo de la Hacienda Municipal;
-
-IV.- Elaborar el programa financiero anual;
-
-V.- Proponer al Cabildo las políticas generales de ingreso y gasto público y la cancelación de las cuentas incobrables, previo informe justificado que demuestre la imposibilidad material o jurídica de su cobro;
-
-VI.- Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado y ejercer las funciones que le corresponda en el ámbito de su competencia;
-
-VII.- Vigilar el cumplimiento de las disposiciones fiscales;
-
-VIII.- Ejercer la facultad económico-coactiva por sí o a través de los funcionarios que el Cabildo determine, mediante el procedimiento administrativo de ejecución, que establece el Código Fiscal del Estado de Yucatán;
-
-IX.- Recaudar y administrar las contribuciones, productos y aprovechamientos que correspondan al Municipio, verificar el cumplimiento de las obligaciones fiscales de los particulares, y en su caso, determinar y cobrar los créditos fiscales, así como los demás ingresos federales en términos de la Ley de Coordinación Fiscal;
-
-X.- Administrar las participaciones y aportaciones federales y estatales y demás recursos públicos;
-
-XI.- Diseñar y aprobar las formas oficiales de manifestación, aviso, declaración y demás documentos relacionados con el fisco municipal;
-
-XII.- Ordenar y practicar visitas domiciliarias, así como los demás actos y procedimientos que establezcan las disposiciones fiscales y el Código Fiscal del Estado de Yucatán, para la comprobación del cumplimiento de las obligaciones de los contribuyentes;
-
-XIII.- Imponer las sanciones por infracción a las disposiciones fiscales y cobrar las impuestas por los Jueces Calificadores o autoridades competentes, y
-
-XIV.- Las demás que le otorguen las leyes respectivas.
-
-#### SECCIÓN CUARTA. DE LAS OBLIGACIONES DEL TESORERO
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 88.
 
-Son obligaciones del Tesorero:
+Par ser juez municipal se requiere:
 
-I.- Efectuar los pagos de acuerdo con el Presupuesto de Egresos;
+I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
-II.- Abstenerse de hacer pago alguno no autorizado;
+II.- Tener veintiún años cumplidos;
 
-III.- Llevar la contabilidad del Municipio, los registros contables, financieros y administrativos del ingreso, egresos e inventarios, de conformidad con lo previsto en la presente Ley;
+III.- Ser vecino de la población donde debe desempeñar el cargo, con residencia en ella de, cuando menos, un año;
 
-IV.- Llevar un expediente por cada organismo paramunicipal o fideicomiso que se constituya, que se integrará con la escritura constitutiva y sus reformas, los poderes que se otorguen, las actas de asambleas, en su caso y el Estado financiero;
+IV.- Saber leer y escribir, y
 
-V.- Recaudar, administrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento;
+V.- Ser de notoria buena conducta, y no haber sido condenado por delitos contra la propiedad.
 
-VI.- Formular mensualmente, a más tardar el día diez de cada mes, un estado financiero de los recursos y la Cuenta Pública del mes inmediato anterior y presentarlo a Cabildo, para su revisión y aprobación en su caso;
-
-VII.- Elaborar y proponer para su aprobación el proyecto de Presupuesto de Egresos;
-
-VIII.- Ejercer el Presupuesto de Egresos y cuidar que los gastos se apliquen de acuerdo con los programas aprobados;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-IX.- Contestar oportunamente los pliegos de observaciones y acciones promovidas por la Auditoría Superior del Estado de Yucatán;
-
-X.- Elaborar y mantener actualizado el padrón de contribuyentes;
-
-XI.- Cuidar que los cobros se hagan con exactitud y oportunidad;
-
-XII.- Proporcionar los informes que el Cabildo, el Presidente Municipal o el Síndico le solicite, y
-
-XIII.- Las demás que expresamente le otorguen las leyes.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 89.
 
-Los Municipios tendrán a su cargo de manera exclusiva y en el ámbito de sus respectivas jurisdicciones, las siguientes funciones y servicios públicos:
+Los Jueces Municipales no podrán ser removidos en el ejercicio de su encargo, sino conforme al título IV de esta Constitución.
 
-I.- Agua Potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Alumbrado público;
+#### SECCION III. De los Jueces Municipales
 
-III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
-
-IV.- Mercados y Centrales de Abasto;
-
-V.- Panteones;
-
-VI.- Rastro;
-
-VII.- Calles, parques y jardines y su equipamiento;
-
-VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos del Reglamento correspondiente;
-
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO</small>
-
-IX.- (DEROGADA, D.O. 25 DE MAYO DE 2006)
-
-X.- El Catastro, y
-
-XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-#### SECCIÓN SEGUNDA. DE LA MUNICIPALIZACIÓN
-
-#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DEL PRESIDENTE
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 90.
 
-El Ayuntamiento podrá municipalizar los servicios públicos, siempre que concurran las circunstancias siguientes:
+Todo ciudadano en ejercicio de sus derechos, que sepa leer y escribir está obligado a desempeñar las funciones de jurado en la población en donde resida.
 
-I.- Ser irregular o deficiente su prestación por parte de los particulares;
-
-II.- Causar graves perjuicios a la colectividad; y
-
-III.- Tener la capacidad económica suficiente el Municipio para hacerse cargo de dichos servicios.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 91.
 
-El procedimiento de municipalización se llevará a cabo a iniciativa del propio Ayuntamiento o a solicitud de la mayoría de los usuarios, en los términos previstos en la concesión respectiva.
+Es obligación de los jurados conocer, en calidad de jueces, de los negocios que determinen las leyes.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 92.
 
-Previamente a la declaratoria de municipalización, se practicarán los estudios correspondientes, formulándose el dictamen respectivo, el que versará sobre la procedencia o improcedencia de la medida y en su caso, la forma como deba realizarse, debiendo oírse en este procedimiento a los posibles afectados, para que hagan valer lo que a sus derechos correspondan.
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-Cumplidos los requisitos que establece este Capítulo, el Ayuntamiento dictará el acuerdo correspondiente.
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito quedando, en consecuencia, prohibidas las costas judiciales.
 
-#### SECCIÓN TERCERA. DE LAS MODALIDADES DE LA CONCESIÓN
+Las leyes locales establecerán los medios necesarios para que garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 93.
 
-Los Ayuntamientos podrán otorgar concesiones para la prestación de los servicios públicos, por acuerdo del Cabildo.
+los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
-No serán objeto de concesión, los servicios públicos considerados como áreas de seguridad pública y tránsito.
+Los negocios de poca cuantía y los procesos por delitos leves se tramitarán sumaria y definitivamente por los jueces municipales, en los términos de la Ley; pero nunca se procederá sin audiencia de parte y comprobación de los hechos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 94.
 
-Las concesiones para la prestación de servicios públicos, no podrán en ningún caso otorgarse a:
+Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o arbitradores, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
 
-I.- Los integrantes del Ayuntamiento;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Los titulares de las dependencias y entidades de la administración pública estatal y municipal;
+## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-III.- A los cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado; para terceros con los que los integrantes del Cabildo o titulares de las dependencias tengan relaciones profesionales, laborales o de negocios; o a los socios o sociedades de las personas antes referidas de las que formen parte, y
-
-IV.- Las personas físicas o morales que en los últimos cinco años se les haya revocado una concesión para la prestación de servicios públicos municipales, así como empresas en que sean representantes o tengan intereses económicos, las personas a que se refieren las fracciones anteriores.
-
-## TÍTULO CUARTO. DEL PATRIMONIO
-
-### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
-#### SECCIÓN PRIMERA. DE SU CONSTITUCIÓN, OBJETO Y EXTINCIÓN
-
 ### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
 
-#### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
+#### SECCION IV. De los Jurados
 
-#### SECCIÓN CUARTA. DE LAS PROHIBICIONES AL PRESIDENTE
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 95.
 
-El otorgamiento de las concesiones, se sujetará a las bases siguientes:
+En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
 
-I.- Acuerdo del Ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio público o la conveniencia de que lo preste un tercero;
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
-II.- Publicar la convocatoria en la Gaceta Municipal, misma que deberá contener:
+Las penas privativas de la libertad no podrán en ningún caso exceder de treinta años.
 
-a) El objeto y duración de la concesión;
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
-b) El núcleo de población donde se prestará el servicio público;
+#### SECCION V. De la Administración de Justicia en General
 
-c) La autoridad municipal ante quien se deba presentar la solicitud y el domicilio de la misma;
-
-d) La fecha límite para la presentación de la solicitud;
-
-e) Los requisitos que deberán cumplir los interesados; y
-
-f) Los demás que considere el Ayuntamiento.
-
-III.- Los interesados deberán formular la solicitud respectiva, cubriendo los siguientes requisitos:
-
-a) Capacidad técnica y financiera;
-
-b) La acreditación de la personalidad jurídica, tratándose de personas morales; y
-
-IV.- Las condiciones y formas en que deberán otorgarse las garantías por la prestación del servicio público.
-
-#### SECCIÓN QUINTA. DE LA SINDICATURA
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
 
 ###### Artículo 96.
 
-Las personas físicas o morales interesadas en obtener la concesión del servicio público, deberán presentar su solicitud por escrito ante la autoridad municipal que se indique en la convocatoria y en el plazo fijado.
+Las leyes estatales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
-Si la autoridad municipal que recibió la solicitud, determina que ésta debe aclararse o completarse, notificará por escrito al interesado, para que en el término de cinco días hábiles, subsane la omisión o realice las aclaraciones correspondientes; en caso contrario, se tendrá por no presentada.
+Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
-Concluido el período de recepción de solicitudes, el Ayuntamiento formará una Comisión Técnica especializada en el servicio público respectivo, misma que deberá rendir un dictamen de viabilidad, sobre el cual se emitirá la resolución correspondiente, dentro del término de treinta días hábiles.
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 1993)</small>
 
-En la citada resolución, se hará constar las solicitudes rechazadas y sus motivos; determinándose quién o quiénes serán los titulares de la concesión del servicio público de que se trate.
+#### SECCION VI. Del Ministerio Público, de la Comisión Estatal de Derechos Humanos y de la Defensoría de Oficio
 
-Los puntos resolutivos, se publicarán en la Gaceta Municipal.
-
-#### SECCIÓN SEXTA. DE LA SECRETARÍA MUNICIPAL
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 97.
 
-La concesión, deberá contener:
+El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales.
 
-I.- Nombre y domicilio del concesionario;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Servicio público concesionado;
+#### SECCION I. De la Tesorería General
 
-III.- Centro de población o zona donde se prestará el servicio público concesionado;
-
-IV.- Derechos y obligaciones del concesionario;
-
-V.- Plazo de la concesión;
-
-VI.- Cláusula de reversión, en su caso;
-
-VII.- Causas de extinción de la concesión;
-
-VIII.- Nombre y firma de la autoridad facultada para expedir el título-concesión, y
-
-IX.- Las demás disposiciones que establezcan el reglamento correspondiente y las que acuerde el Ayuntamiento.
-
-#### SECCIÓN SÉPTIMA. DE LOS REGIDORES
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 98.
 
-La concesión de servicios públicos podrá ser prorrogada hasta por plazos equivalentes.
+Ejercen esta Institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
 
-En caso de que la vigencia de la concesión exceda al período del Ayuntamiento, se establecerán las estipulaciones conforme a las cuales los Ayuntamientos subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO.</small>
+#### SECCION II. De la Contaduría General de Glosa
 
-> <small>(REFORMADO, D.O. 25 DE MAYO DE 2006)</small>
-
-#### SECCIÓN OCTAVA. DE LAS FACULTADES DE LOS REGIDORES
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
 
@@ -1681,61 +1355,33 @@ En caso de que la vigencia de la concesión exceda al período del Ayuntamiento,
 
 ###### Artículo 99.
 
-El concesionario, previamente a la fecha de inicio de la prestación del servicio público, tramitará y obtendrá de las autoridades federales, estatales y municipales, los permisos, licencias y demás autorizaciones que se requieran, conforme a las leyes.
+El Procurador General de Justicia deberá tener los mismos requisitos que se fijan para ser Magistrado y será el Consejero Jurídico del Gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 100.
 
-Son obligaciones de los concesionarios:
+El Procurador General de Justicia intervendrá personalmente en todos los negocios judiciales en que el Estado sea parte. En los demás casos en que debe intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus agentes.
 
-I.- Prestar el servicio público de manera ininterrumpida, general, suficiente, segura y eficiente; sujetándose a lo dispuesto por esta Ley, y demás disposiciones legales aplicables, así como a los términos de la concesión;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 1993)</small>
 
-II.- Cubrir a la Tesorería Municipal los derechos que correspondan, en los términos de las leyes fiscales aplicables;
+La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
 
-III.- Contar con el personal, equipo e instalaciones suficientes, para cubrir las demandas del servicio público concesionado;
-
-IV.- Realizar y conservar, en óptimas condiciones, las obras e instalaciones afectadas o destinadas al servicio concesionado, así como renovar y modernizar los equipos para su prestación, conforme a los avances técnicos;
-
-V.- Cumplir con los horarios aprobados por el Ayuntamiento;
-
-VI.- Exhibir en forma permanente, las tarifas o cuotas autorizadas por el Ayuntamiento y sujetarse a las mismas;
-
-VII.- Otorgar garantía en favor del Municipio;
-
-VIII.- Iniciar la prestación del servicio público dentro del plazo que fije la concesión, y
-
-IX.- Las demás previstas en la concesión de acuerdo a esta Ley y las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1993)</small>
 
 ###### Artículo 101.
 
-Son atribuciones del Ayuntamiento en materia de concesiones:
+La Legislatura del Estado, en el ámbito de su competencia, establecerá organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-I.- Vigilar el cumplimiento de las obligaciones del concesionario;
+Estos organismos no serán competentes tratándose de asuntos electorales, laborales ni jurisdiccionales.
 
-II.- Realizar las modificaciones que estimen convenientes a las concesiones, cuando lo exija el interés público;
-
-III.- Verificar las instalaciones que conforme a la concesión, se deban construir o adaptar para la prestación del servicio público;
-
-IV.- Dictar las resoluciones de extinción, cuando procedan conforme a esta Ley y a la concesión;
-
-V.- Ejercer la reversión de los bienes afectos o destinados a la concesión, en los términos estipulados en la misma;
-
-VI.- Rescatar por causas de utilidad pública y mediante indemnización, el servicio público objeto de la concesión, y
-
-VII.- Las demás previstas en la concesión de acuerdo a esta Ley y las disposiciones legales aplicables.
-
-#### SECCIÓN CUARTA. DE LA EXTICIÓN (SIC) DE LA CONCESIÓN
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 102.
 
-Las concesiones de servicios públicos, se extinguen por cualquiera de las causas siguientes:
+La Defensoría de Oficio proporcionará la defensa necesaria en materia penal a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
 
-I.- Vencimiento del plazo;
-
-II.- Revocación;
-
-III.- Caducidad, y
-
-IV.- Cualquiera otra prevista en la concesión.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCIÓN DÉCIMA. DE LAS AUSENCIAS DE LOS REGIDORES
 
@@ -1801,1009 +1447,297 @@ Por falta absoluta se entenderá la ausencia definitiva por más de 30 días del
 
 ###### Artículo 103.
 
-La concesión de servicios públicos, podrá ser revocada por las causas siguientes:
+La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
 
-I.- Interrupción en todo o en parte del servicio público concesionado, sin causa justificada a juicio del Ayuntamiento o sin previa autorización por escrito del mismo;
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II.- Ceder, hipotecar, enajenar o de cualquier manera gravar la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o dedicados al servicio público de que se trate, sin la autorización del Ayuntamiento;
+## TITULO QUINTO. De los Municipios del Estado
 
-III.- Modificar o alterar la naturaleza o condiciones en que se preste el servicio público, así como las instalaciones o su ubicación, sin la aprobación del Ayuntamiento;
-
-IV.- Dejar de pagar, en forma oportuna, los derechos que se hayan fijado a favor del Ayuntamiento, por el otorgamiento de la concesión; y
-
-V.- Por incumplimiento de las obligaciones del concesionario, establecidas en esta Ley y en la concesión.
-
-## TÍTULO QUINTO. DE LA JUSTICIA MUNICIPAL
-
-### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
-
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
-
-###### Artículo 176.
-
-Los medios de defensa constituyen mecanismos legales de protección al ámbito personal de derechos de los habitantes, cuando estos son afectados por un acto o resolución de la autoridad administrativa, con motivo de la prestación de un servicio o ejercicio de una función municipal.
-
-###### Artículo 177.
-
-Esta ley establece como medio de defensa los siguientes recursos:
-
-I.- El de reconsideración, y
-
-II.- El de revisión.
-
-El recurso de reconsideración se interpondrá ante la autoridad u órgano responsable que realizó el acto o emitió la resolución; su efecto podrá ser la modificación, revocación o confirmación.
-
-El recurso de revisión se interpondrá ante el Tribunal Contencioso Municipal y será procedente para solicitar la modificación, anulación, revocación o ratificación de las resoluciones definitivas dictadas en el recurso de reconsideración y las sanciones impuestas por el Juez calificador o por el Presidente Municipal.
-
-A falta de norma expresa se aplicará de manera supletoria la Ley de lo Contencioso Administrativo del Estado de Yucatán.
-
-#### SECCIÓN SEGUNDA. DEL RECURSO DE RECONSIDERACIÓN
-
-###### Artículo 178.
-
-Cualquier persona que considere afectados sus derechos por un acto administrativo, podrá interponer el recurso de reconsideración, ante la autoridad u órgano responsable, por sí o por medio de legítimo representante, en los términos de esta ley y el reglamento respectivo.
-
-Los afectados podrán recurrir directamente a interponer el recurso de revisión ante el Tribunal de lo Contencioso Administrativo Municipal.
-
-Los interesados podrán autorizar por escrito, en cada caso a la persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
-
-Los apoderados y legítimos representantes deberán acreditar su personalidad al comparecer ante las autoridades u órganos competentes.
-
-###### Artículo 179.
-
-La tramitación del recurso de reconsideración se sujetará a las reglas siguientes:
-
-I.- Se interpondrá por escrito dentro de los diez días posteriores a la fecha en que surta efectos la notificación del acto que se impugne o en que se hubiere ostentado sabedor del mismo, ante la autoridad u órgano que dictó el acto impugnado;
-
-II.- El escrito con que se promueve el recurso de reconsideración deberá contener:
-
-a. Nombre y domicilio para recibir notificaciones del recurrente, dentro de la jurisdicción municipal;
-
-b. Autoridad o autoridades de las que emana el acto reclamado;
-
-c. Los hechos o antecedentes del acto combatido, así como la expresión de los agravios que éste le cause al recurrente, y
-
-d. Señalar y acompañar las pruebas que considere necesarias para demostrar su pretensión, en su caso.
-
-Cuando el interesado no comparezca por sí mismo, sino por medio de apoderado o legítimo representante, éstos deberán acreditar su personalidad, para lo cual, acompañarán al escrito inicial, los documentos que la acrediten.
-
-Si el escrito no satisface algunos de los requisitos mencionados, la autoridad u órgano competente instará al promovente para que lo subsane en un término no mayor de tres días hábiles; en caso de no cumplir con dicho requerimiento, se desechará el recurso;
-
-III.- Recibido el escrito en los términos de las fracciones precedentes, la autoridad u órgano competente acordará su admisión y las pruebas ofrecidas. Corriéndose el debido traslado a la responsable, en un plazo de cinco días hábiles;
-
-IV.- Transcurrido dicho término, y contestado o no, se desahogarán las pruebas que así lo requieran, en un plazo no mayor de diez días hábiles; salvo, que sea imposible su desahogo, y para tal caso la autoridad u órgano competente podrá ampliar dicho término hasta por cinco días adicionales.
-
-En la tramitación del recurso serán admisibles todos los medios de prueba, con excepción de la confesión de las autoridades.
-
-Las pruebas documentales deberán ser acompañadas al escrito inicial, cuando obren en poder del recurrente. La autoridad u órgano competente podrá solicitar a las diversas oficinas y dependencias municipales, los informes y documentos necesarios.
-
-V.- La resolución se dictará dentro de los treinta días hábiles siguientes a la fecha en que concluya la etapa probatoria, pudiéndose confirmar, modificar o anular total o parcialmente el acto reclamado.
-
-#### SECCIÓN TERCERA. DEL RECURSO DE REVISIÓN
-
-###### Artículo 180.
-
-Procede el recurso de revisión cuyo conocimiento corresponde al Tribunal de lo Contencioso Administrativo Municipal, contra:
-
-I.- resoluciones definitivas dictadas en el recurso de reconsideración
-
-II.- Las sanciones impuestas por el Juez calificador o por el Presidente Municipal, en su caso, sólo podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo Municipal, mediante el recurso de revisión, y en su defecto ante el Tribunal de lo Contencioso Administrativo del Estado.
-
-El recurso de revisión se interpondrá por escrito, debiendo cubrir los mismos requisitos exigidos para el recurso de reconsideración.
-
-###### Artículo 181.
-
-El Tribunal de lo Contencioso Administrativo Municipal, al resolver el recurso de revisión, estudiará los agravios y, en su caso, las pruebas ofrecidas por el recurrente y sus argumentos, fundando y motivando su resolución. Dicha resolución será definitiva e inatacable.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 182.
-
-De no existir en el Municipio el Tribunal de lo Contencioso Administrativo, conocerá del recurso de revisión, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, en términos de la normatividad aplicable.
-
-### CAPÍTULO II. DEL PROCEDIMIENTO
-
-#### SECCIÓN PRIMERA. DE LOS ORGANOS DE JUSTICIA MUNICIPAL
-
-###### Artículo 183.
-
-Las sanciones por infracciones al Bando de Policía y Gobierno, serán impuestas por el juez calificador y a falta de éste, por el Presidente Municipal.
-
-Las sanciones por infracción a los reglamentos y demás disposiciones de observancia general, serán impuestas por el Presidente Municipal o por el juez calificador, según se determine en cada caso.
-
-###### Artículo 184.
-
-Son órganos competentes de justicia municipal:
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-I.- El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado;
-
-II.- El Tribunal de lo Contencioso Administrativo Municipal, en su caso;
-
-III.- El Presidente Municipal;
-
-IV.- El Juez Calificador, y
-
-V.- El Juez de Paz.
-
-###### Artículo 185.
-
-Los jueces de paz conocerán de los juicios de menor cuantía, conforme a la Ley Orgánica del Poder Judicial del Estado y demás ordenamientos aplicables; así como mediar y conciliar en las controversias entre los particulares.
-
-###### Artículo 186.
-
-Cuando se cometa alguna infracción que implique la detención del presunto infractor, éste será puesto inmediatamente a disposición de la autoridad competente quien determinará la sanción correspondiente, en los términos de esta Ley. Si además existiere la probable comisión de delitos, se pondrá inmediatamente a disposición del Ministerio Público.
-
-#### SECCIÓN SEGUNDA. DEL JUEZ CALIFICADOR
-
-###### Artículo 187.
-
-El juez calificador es el órgano de justicia municipal competente, para aplicar sanciones al Bando de Policía y Gobierno, cuando así lo determinen los reglamentos respectivos, y conocerá las infracciones a los mismos.
-
-El Ayuntamiento determinará el número y jurisdicción de los jueces calificadores.
-
-###### Artículo 188.
-
-Los jueces calificadores serán nombrados por el Cabildo, dentro de sesenta días naturales, a partir del inicio de la administración municipal, a propuesta del Presidente Municipal; deberán cumplir con los requisitos que al respecto establezca el Ayuntamiento.
-
-Los jueces calificadores durarán en su cargo tres años, pudiendo ser ratificados para un período adicional y solo serán removidos por causa grave, calificada por el Cabildo.
-
-#### SECCIÓN TERCERA. DE LAS FACULTADES
-
-###### Artículo 189.
-
-Son facultades del juez calificador:
-
-I.- Conocer de las conductas de los particulares que infrinjan el Bando de Policía y Gobierno y los reglamentos, e imponer las sanciones en su caso;
-
-II.- Solicitar el auxilio de la fuerza pública y disponer de los demás medios de apremio para la ejecución de sus resoluciones;
-
-III.- Imponer las medidas de seguridad que resultaren para la buena marcha de la impartición de justicia municipal, y
-
-IV.- Realizar actividades tendientes conjuntamente con el Presidente Municipal, a fomentar la cultura de la legalidad.
-
-###### Artículo 190.
-
-En todo caso, las sanciones se impondrán previa audiencia al presunto infractor, quien tendrá conocimiento de manera inmediata de los cargos en su contra y de quien lo señale como responsable de una infracción.
-
-En dicha audiencia, ofrecerá pruebas y alegará en su defensa asistido de un defensor o persona de su confianza.
-
-De igual modo, tendrá derecho a su libertad, previo depósito en efectivo que garantice el pago de la sanción económica y la reparación del daño, en su caso.
-
-###### Artículo 191.
-
-Cualquier persona podrá denunciar la infracción al Bando de Policía y Gobierno y demás disposiciones reglamentarias, siempre que se haga por escrito, aportando los elementos de prueba.
-
-Recibida la denuncia, el juez calificador mandará citar al probable infractor para que en un plazo no mayor de tres días hábiles, comparezca para tomar conocimiento de la denuncia, manifestar lo que a su derecho convenga, aporte los elementos de prueba y alegatos. De lo anterior se dará vista al denunciante quien podrá participar en la audiencia.
-
-En la misma audiencia el denunciante, aportará nuevas pruebas siempre que sean supervenientes, para lo cual el juez calificador podrá diferir su conclusión hasta por un plazo de tres días hábiles, a fin de que el denunciado las conozca o desvirtué.
-
-Contestada la denuncia y ofrecidas las pruebas, se desahogarán, iniciándose inmediatamente la etapa de alegatos. Concluida ésta etapa procedimental el juez calificador resolverá. Si resultare responsable se impondrá la sanción correspondiente. Tratándose de sanción económica se hará efectiva ante la Tesorería Municipal.
-
-#### SECCIÓN CUARTA. DE LAS INFRACCIONES Y SANCIONES
-
-###### Artículo 192.
-
-Se considerarán infracciones administrativas, las acciones u omisiones de los particulares que contravengan las disposiciones establecidas en esta ley, el Bando de Policía y Gobierno y en los reglamentos.
-
-Cuando dos o más ordenamientos, establezcan distintas sanciones, se aplicará la mayor.
-
-###### Artículo 193.
-
-Serán medios de apremio:
-
-I.- Multa de uno a diez días de salario mínimo vigente; si el infractor fuese jornalero obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día;
-
-II.- El auxilio de la fuerza pública, y
-
-III.- El arresto hasta por veinticuatro horas.
-
-#### SECCIÓN QUINTA. DEL BANDO Y LOS REGLAMENTOS
-
-###### Artículo 194.
-
-El Bando de Policía y Gobierno y los reglamentos, contendrán las sanciones por infracciones las cuales consistirán en:
-
-I.- Amonestación;
-
-II.- Suspensión temporal o cancelación del permiso o licencia;
-
-III.- Clausura;
-
-IV.- Multa;
-
-V.- Arresto hasta por treinta y seis horas, y
-
-VI.- Suspensión o revocación de la concesión, en su caso.
-
-Cuando el infractor sea menor de dieciocho años deberá comparecer el padre o tutor, ante la autoridad, para los efectos de la reparación del daño.
-
-La autoridad u órgano competente podrá establecer en el reglamento correspondiente y a modo de pena alternativa, trabajos en beneficio de la comunidad.
-
-#### SECCIÓN SEXTA. DE LA DETERMINACIÓN DE SANCIONES
-
-###### Artículo 195.
-
-Al determinarse la sanción, el órgano de justicia municipal considerará:
-
-I.- La naturaleza de la infracción;
-
-II.- Las causas que la produjeron;
-
-III.- La capacidad económica, condición social, educación y antecedentes del infractor;
-
-IV.- La reincidencia, y
-
-V.- El daño ocasionado.
-
-###### Artículo 196.
-
-Podrán Imponerse sanciones por varias infracciones, sin perjuicio de la respectiva responsabilidad penal o civil.
-
-### CAPÍTULO III. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
-
-###### Artículo 197.
-
-En cada Municipio podrá existir un Tribunal de lo Contencioso Administrativo, que será competente para conocer de los recursos de revisión que se interpongan contra los actos de la administración pública municipal o de los jueces calificadores y las resoluciones que recaigan al recurso de reconsideración.
-
-La actuación del Tribunal de lo Contencioso Administrativo Municipal se regirá por los principios de independencia, imparcialidad, objetividad, excelencia, publicidad, legalidad, profesionalismo, gratuidad e inmediatez.
-
-###### Artículo 198.
-
-El Tribunal Municipal de lo Contencioso Administrativo estará dotado de autonomía de gestión para dictar sus resoluciones y estará a cargo de un Juez de lo Contencioso Administrativo y será nombrado por el Cabildo con el voto de las dos terceras partes de sus integrantes, de entre los propuestos por el Presidente Municipal, en los términos del reglamento respectivo.
-
-Son requisitos para ser Juez de lo Contencioso Administrativo:
-
-I.- Contar con título de licenciado en derecho o abogado;
-
-II.- No haber sido dirigente de algún partido político ni candidato a puesto de elección popular, en los tres años inmediatos anteriores;
-
-III.- No haber sido condenado por delito doloso que amerite sanción privativa de libertad;
-
-IV.- No ser ministro de culto religioso, y
-
-V.- No desempeñar cargo similar en otro Municipio.
-
-Durarán en su encargo tres años, pudiendo ser ratificados hasta por un período igual y sólo serán removidos por causa grave, calificada por el Cabildo.
-
-###### Artículo 199.
-
-Las autoridades municipales están obligadas a acatar las resoluciones del Tribunal de lo Contencioso Administrativo Municipal, y en caso de incumplimiento inexcusable, se solicitará al Cabildo la destitución inmediata del funcionario.
-
-### CAPÍTULO IV. DE LOS JUECES DE PAZ
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 200.
-
-Los jueces de Paz serán nombrados por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Yucatán a propuesta del Presidente Municipal, quien deberá presentar una lista de 3 personas aquel, quienes deberán reunir los requisititos que establezca la Ley Orgánica del Poder Judicial del Estado y dentro de los cuales el Pleno del Consejo citado elegirá al más apto e idóneo para desempeñar el cargo.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 200 A.- Los jueces de Paz tendrán competencia para conocer de asuntos solamente Civiles en términos de lo que dispone la Ley Orgánica del Poder Judicial del Estado, y de los que establece el Código de Procedimientos Civiles de Yucatán, debiendo respetar en todo momento el procedimiento judicial que en este rige y las garantías constitucionales de las partes del proceso.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 201.
-
-Las controversias entre los particulares, podrán resolverse a través de un conciliador o de un mediador experto, como mecanismos alternativos de la resolución de conflictos y previo consentimiento de las partes teniendo el valor de cosa juzgada una vez suscrito el convenio respectivo, ratificado ante el Centro Estatal y en los términos de lo dispuesto por la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Yucatán y su reglamento.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 201 A.- El juez de paz deberá informar y orientar a las partes sobre la justicia alternativa y sus ventajas como forma de solución de controversias, debiendo canalizar a las partes con las instituciones públicas o privadas especializadas para ello.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 202.
-
-El juez de paz no podrá mediar, ni conciliar en asuntos de carácter penal.
-
-Tampoco lo podrá hacer en civil o familiar, cuando se ponga en riesgo el interés superior de los menores de edad, los derechos de las personas con capacidades especiales o cuando se trate de asuntos de violencia familiar.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Artículo 202 A.- Si el juez de paz fuere mediador no podrá ejercer la mediación durante el tiempo que dure su encargo, pero si podrá utilizar la conciliación y hacer propuestas a las partes, en los mismos términos y reglas que señala la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán, debiendo ser ratificado el acuerdo o convenio que se firme ante el Centro Estatal de Solución de Controversias.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
 
 > <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
-###### Artículo 133-A.
-
-Los municipios del Estado, previo acuerdo entre los ayuntamientos, podrán asociarse y coordinarse entre sí, para optimizar la prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
-
-Tratándose de asociación o coordinación con municipios de otras entidades federativas deberán contar con la aprobación del Congreso del Estado.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-B.
-
-Los Ayuntamientos podrán celebrar convenios con el Poder Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Poder Ejecutivo del Estado y el propio municipio.
-
-Por acuerdo de las dos terceras partes de los integrantes del Cabildo, los ayuntamientos podrán convenir que el Poder Ejecutivo del Estado se haga cargo temporalmente de alguno de los servicios que son de su competencia exclusiva o que éstos se presten de manera coordinada, en este caso, los convenios no podrán exceder del período constitucional del Ayuntamiento, pudiendo ser renovados hasta el momento de que el municipio esté en aptitud de asumir su competencia exclusiva, reservándose al municipio en todo caso, la facultad reglamentaria en la materia del servicio de que se trate.
-
-De igual forma, los ayuntamientos podrán celebrar convenios con el Poder Ejecutivo del Estado, a fin de que éstos puedan coadyuvar en alguna de las funciones o servicios cuya responsabilidad sea originaria del Poder Ejecutivo del Estado, trasladándose, en su caso, a favor del Municipio los medios necesarios.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-C.
-
-Los ayuntamientos, podrán asociarse o coordinarse entre sí, o con el Poder Ejecutivo del Estado, para la formulación y aplicación de planes y programas comunes, así como para la creación de organismos o entidades de desarrollo regional, que tengan entre otros objetivos, los siguientes:
-
-I.- Estudiar y analizar los problemas de la región y las propuestas para superarlos;
-
-II.- Elaborar y aplicar programas de desarrollo común;
-
-III.- La elaboración conjunta de los planes municipales y regionales de desarrollo y sus programas. Esta coordinación podrá realizarse entre ayuntamientos afines por su tipología o entre ayuntamientos que por razones de igual importancia consideren conveniente la coordinación;
-
-IV.- Colaborar en la prestación de los servicios públicos;
-
-V.- La ejecución y mantenimiento de obra pública;
-
-VI.- Capacitar a los servidores públicos municipales;
-
-VII.- Elaborar y aplicar planes de desarrollo urbano;
-
-VIII.- Gestionar las demandas comunes ante los gobiernos federal y estatal;
-
-IX.- La atracción de inversiones detonantes del desarrollo regional;
-
-X.- La contratación de Proyectos de Prestación de Servicios;
-
-XI.- Realizar programas de seguridad pública, y
-
-XII.- Las demás que tiendan a promover el bienestar y progreso de su población.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-D.
-
-Para los efectos del artículo anterior, se podrán firmar los siguientes tipos de convenio:
-
-I.- Convenio de coordinación: será aquel que tenga por objeto la colaboración interinstitucional para mejorar la comunicación, capacitación, información y desarrollo del servicio público o la función de que se trate, sin que ninguna de las partes ceda a la otra todo o parte de la prestación del servicio o la función pública correspondiente;
-
-II.- Convenio de asociación por mandato específico: será aquel en el que una parte encarga a la otra la prestación de un servicio público a su cargo o el ejercicio de una función, cediéndole en consecuencia todo o parte de las atribuciones y facultades relativas al servicio o función pública de que se trate, y
-
-III.- Convenio de asociación con objeto común: será aquél en el que las partes se propongan prestar uno o más servicios públicos o realizar una o más de sus funciones de manera conjunta, para lo cual crearán un organismo descentralizado en los términos del acuerdo al que lleguen las partes.
-
-La asociación, coordinación, contratación y cualquier acto de los municipios en su carácter de personas jurídicas de derecho privado, se realizará conforme a las normas del derecho común.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-E.
-
-Para que los Municipios puedan asociarse o coordinarse deberán cumplir con los requisitos siguientes:
-
-I.- Que sea aprobado el proyecto de convenio de asociación o coordinación correspondiente, por cada Ayuntamiento;
-
-II.- Si los efectos del convenio de asociación o coordinación tienen mayor alcance que el período del Ayuntamiento de que se trate, este convenio deberá ser aprobado por mayoría calificada de los integrantes de Cabildo del Ayuntamiento;
-
-III.- El convenio de asociación o coordinación y sus reformas deberán constar por escrito, estar firmado por los presidentes municipales y representantes legales de las partes;
-
-IV.- El plazo máximo de asociación o coordinación podrá ser hasta por 25 años;
-
-V.- El convenio y sus reformas deberán publicarse en el Diario Oficial del Gobierno del Estado y en las Gacetas Municipales de cada Ayuntamiento;
-
-VI.- Los convenios deberán prever las causas de rescisión, terminación anticipada y efectos del incumplimiento de las partes, y
-
-VII.- Las demás que previo acuerdo de los presidentes de los municipios, consideren.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-F.
-
-Los organismos descentralizados creados conforme a la fracción III del artículo 133 D de esta ley, tendrán personalidad jurídica y patrimonio propio, y los convenios respectivos deberán contener por lo menos:
-
-I.- La denominación, objeto y domicilio legal;
-
-II.- El Órgano de Gobierno, que será la autoridad máxima del organismo descentralizado, deberá estar integrado por los presidentes municipales de cada Ayuntamiento que hubieren suscrito el convenio; en estos órganos se podrá integrar a funcionarios públicos con el carácter que señalen los convenios;
-
-III.- El Presidente del Órgano de Gobierno y la manera de su designación;
-
-IV.- Las facultades y obligaciones del Órgano de Gobierno;
-
-V.- La forma de integrar e incrementar su patrimonio y la distribución de los rendimientos que en su caso se generen;
-
-VI.- Las atribuciones del Director General quién tendrá la representación legal del organismo y demás empleados, mismo que será designado por el Órgano de Gobierno;
-
-VII.- Las reglas para su operación, rescisión, terminación, desaparición y liquidación, y
-
-VIII.- Las demás que acuerden los ayuntamientos.
-
-Los ayuntamientos podrán aportar, recursos, bienes materiales y humanos a los organismos a que se refiere este artículo.
-
-La creación de estos organismos descentralizados deberá comunicarse al Congreso del Estado, inmediatamente a la instalación del Órgano de Gobierno y no podrán tener mayores facultades que los municipios.
-
-Estos organismos deberán rendir su cuenta pública a la Auditoría Superior del Estado en los términos establecidos para los Municipios y deberán informar trimestralmente a los ayuntamientos integrantes, el estado de sus finanzas.
-
-Será aplicable a estos organismos descentralizados en lo que corresponda, las disposiciones para la administración paramunicipal que establece esta Ley.
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 133-G.
-
-Los convenios que el Ayuntamiento celebre con el Poder Ejecutivo del Estado a efecto de que éste preste en forma temporal alguno de los servicios públicos municipales; para que se preste coordinadamente entre el Poder Ejecutivo del Estado y el Municipio o para que el Ayuntamiento asuma alguna de las funciones o los servicios cuya responsabilidad sea originaria del Poder Ejecutivo del Estado, contendrán, por lo menos, lo siguiente:
-
-I.- La especificación del servicio público o aspecto del mismo, así como las áreas o territorio donde se prestará;
-
-II.- Las acciones e inversiones a las que se comprometan las partes para la prestación del servicio público;
-
-III.- La forma y condiciones en que se prestará el servicio público;
-
-IV.- La dependencia o entidad de la administración pública estatal o municipal en su caso, que tendrá a su cargo la prestación del servicio público objeto del convenio;
-
-V.- La forma en que se determinarán las tarifas por la prestación del servicio público, que deberán destinarse exclusivamente para realizar todas aquellas acciones tendientes al mejoramiento, eficiencia, eficacia y ampliación del mismo;
-
-VI.- La observancia de esta ley y demás disposiciones legales y reglamentarias aplicables, así como a los programas establecidos relativos al servicio público, en cuya formulación deberán participar las partes, y
-
-VII.- La vigencia del convenio y las formas de extinción del mismo, así como el medio competente para el caso de controversias en su interpretación y aplicación.
-
 ###### Artículo 104.
 
-La concesión caducará por cualquiera de las causas siguientes:
+Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-I.- Por no otorgar la garantía a que se refiere esta Ley; y
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución, o a la Constitución General de la República por manejo indebido de fondos federales y estatales y por delitos graves del orden común.
 
-II.- Por no iniciar la prestación del servicio público, una vez otorgada la concesión, dentro del término señalado en la misma.
+Se concede acción popular, para denunciar ante el Congreso del Estado, los delitos comunes cometidos por los servidores públicos, sin obligación de constituirse en parte.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
 ###### Artículo 105.
 
-El procedimiento de revocación y caducidad de las concesiones, se substanciará y resolverá por el Ayuntamiento, con sujeción a las normas siguientes:
+El Gobernador Constitucional del Estado, y los Diputados, gozarán de fuero desde el día en que fueren declarados electos; los Magistrados propietarios, desde la fecha en que fueron designados; los Gobernadores provisionales, interinos y substitutos, los Diputados suplentes, los Magistrados supernumerarios, el Secretario de Gobierno, el Oficial Mayor, Procurador de Justicia y Tesorero, únicamente dentro del término de su encargo.
 
-I.- Se iniciará de oficio o a petición de parte;
-
-II.- Se notificará el inició del procedimiento al concesionario en forma personal, para que manifieste lo que a su interés convenga, dentro del plazo de cinco días hábiles, contados a partir del día siguiente al de la notificación;
-
-III.- Se abrirá un período de pruebas por el término de quince días hábiles, contados a partir del día siguiente al de la notificación;
-
-IV.- Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
-
-V.- Se dictará resolución, dentro de los diez días hábiles siguientes al vencimiento del plazo para el desahogo de pruebas; y
-
-VI.- La resolución se notificará al interesado, en su domicilio o en el lugar donde se preste el servicio.
-
-A falta de disposición expresa, será aplicable de manera supletoria la Ley de lo Contencioso Administrativo del Estado de Yucatán y el Código de Procedimientos Civiles del Estado de Yucatán, respectivamente.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 106.
 
-Cuando la concesión del servicio público se extinga por causa imputable al concesionario, se hará efectiva la garantía a favor del Municipio.
+En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la comunicación de la declaración emitida por el Senado de la República, deberá conocerse por el Congreso Estatal en la primera sesión que se celebre después de recibida y se procederá conforme a las disposiciones de esta Constitución y las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 107.
 
-Las resoluciones de extinción de las concesiones de servicios públicos, se publicarán en la Gaceta Municipal.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades de conformidad con las siguientes prevenciones:
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. La Ley precisará los casos en que se sigue este perjuicio.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal, y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La Legislación Penal sancionará con el decomiso y con la privación de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier ciudadanos (sic), bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 108.
 
-Los Ayuntamientos organizarán en el ámbito de su jurisdicción, un sistema municipal de planeación que garantice el desarrollo dinámico, integral, sustentable y equitativo. Para tal efecto observará las bases siguientes:
+Podrán ser sujetos de juicio político, el Gobernador del Estado, los Diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Jueces Menores Municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, los Directores Generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
-I.- El desarrollo municipal deberá estar dirigido a propiciar el mejoramiento económico, social y cultural de sus habitantes;
+Para la aplicación de las sanciones a que se refiere este precepto, la denuncia presentada al Congreso, se turnará a una comisión instructora especial, formada por cinco diputados al Congreso, misma que emitirá declaración por mayoría de sus componentes, una vez practicadas las diligencias correspondientes en presencia del acusado dicha declaración se turnará al Congreso. En caso de ser negativa, el Congreso determinará su archivo, y si es acusatoria, se constituirá en Gran Jurado, para revisar lo actuado, juzgar y aplicar las sanciones del caso, por las dos terceras partes de sus votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría cuando se trate de otros servidores públicos.
 
-II.- La planeación será democrática y deberá considerar las aspiraciones y demandas sociales para la elaboración de planes y programas, se apoyará en los mecanismos de participación y consulta ciudadana establecidos en las leyes, así como en los usos y costumbres propios de las comunidades;
+El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-III.- Los instrumentos de planeación municipal deberán ser armónicos con los relativos a los ámbitos estatal y federal, y
+Las resoluciones del Gran Jurado, son inatacables.
 
-IV.- El establecimiento de sus propios órganos consultivos para la formulación, seguimiento y evaluación de sus instrumentos de planeación.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 109.
 
-La planeación constituye la base de la administración pública municipal, que será integral, participativa, a largo plazo y tiene como sustento, el sistema de planeación democrática, previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley de Planeación del Estado de Yucatán y en esta ley.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia y Tesorero del Estado, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
+
+Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
+
+Las declaraciones y resoluciones del Congreso son inatacables.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 110.
 
-Los Ayuntamientos conducirán sus actividades de manera planeada y programada en la esfera de su competencia, en coordinación con los demás órdenes de gobierno, con la participación ciudadana y los núcleos de población; y reglamentarán las bases que establece esta Ley y la Ley Estatal de Planeación, para integrar el sistema municipal de planeación, crear los consejos de planeación para el desarrollo de los municipios y establecer los mecanismos de participación de los grupos y organizaciones sociales y comunitarias.
+No se requerirá declaración de procedencia de la Cámara de Diputados contra alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 109 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+Si el servidor público ha vuelto a desempeñar en sus funciones propias o ha sido nombrado electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 109, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-### CAPITULO I. DE LAS GENERALIDADES
+La Ley sobre Responsabilidades de los Servidores Públicos determinará sus obligaciones, a fin de salvaguardar la legalidad, honradez,, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con la daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-###### Artículo 203.
+La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 109.
 
-Para los efectos de esta Ley, se entenderá como Servidor Público a los señalados en el Artículo 97 de la Constitución Política del Estado de Yucatán. Toda su actuación, estará dirigida a la satisfacción de las necesidades e intereses de la sociedad y orientarla en función del máximo beneficio colectivo.
+La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-###### Artículo 204.
+El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados Propietarios desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios, el Secretario de Gobierno, el Oficial mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
 
-Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, de conformidad con lo dispuesto en esta Ley, la de Responsabilidades de los Servidores Públicos del Estado de Yucatán y demás aplicables.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-###### Artículo 205.
+## TITULO SEXTO. De la Economía Pública y la Planeación Económica y Social
 
-Los servidores públicos actuarán con honestidad y no utilizarán su cargo o función pública, para obtener algún provecho o ventaja personal indebida, o en favor de terceros y deberán conducirse invariablemente, con apego a las normas jurídicas inherentes a la función que desempeñan. Garantizando el acceso de los particulares a la información gubernamental conforme a la Ley correspondiente.
-
-###### Artículo 206.
-
-Para efectos de la presente ley, se consideran como funcionarios públicos, al Tesorero y demás titulares de las oficinas o dependencias, órganos desconcentrados y entidades paramunicipales así como, toda persona que desempeñe un empleo, cargo o comisión de confianza en el Ayuntamiento y quienes administren o apliquen recursos municipales.
-
-###### Artículo 207.
-
-Son órganos competes para aplicar lo relativo al presente Título:
-
-I.- El Cabildo;
-
-II.- El Síndico, y
-
-III.- El órgano de control interno, en su caso.
-
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS
-
-###### Artículo 208.
-
-Los servidores públicos de elección popular, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-I.- Al tomar posesión de su cargo o comisión, rendir el compromiso constitucional;
-
-II.- Realizar el inventario de los bienes al inicio y conclusión de su cargo o comisión;
-
-III.- Conservar los bienes a su cargo y aplicar correctamente los recursos que les sean asignados;
-
-IV.- Cumplir con la máxima diligencia el servicio o comisión a su cargo, y abstenerse de cualquier acto u omisión que cause suspensión o deficiencia;
-
-V.- Ejercer con dignidad, ética y decoro el empleo, cargo o comisión;
-
-VI.- Ejecutar los planes, programas y el presupuesto correspondiente;
-
-VII.- Utilizar exclusivamente los recursos asignados para los fines destinados;
-
-VIII.- Guardar estricta reserva en la información confidencial de la que tenga conocimiento;
-
-IX.- Impedir el uso indebido, sustracción, destrucción, ocultamiento o inutilización de los documentos que tengan bajo su resguardo;
-
-X.- Tratar con respeto, diligencia, imparcialidad y rectitud a las personas con las que se relacione con motivo de su cargo;
-
-XI.- Recibir las contraprestaciones que le correspondan, sin obtener beneficios adicionales; sean para él, su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado; para terceros con los que tenga relaciones profesionales, laborales o de negocios; para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
-
-XII.- Formular y presentar, bajo protesta de decir verdad, la declaración de su situación patrimonial, en los términos que señale (sic) las disposiciones aplicables;
-
-XIII.- Observar, en el desempeño de su cargo o comisión, la legalidad, honradez, lealtad, imparcialidad, eficiencia y profesionalismo, y
-
-XIV.- Las demás que les impongan las leyes.
-
-### CAPÍTULO III. DE LOS FUNCIONARIOS PÚBLICOS
-
-###### Artículo 209.
-
-Son obligaciones de los funcionarios públicos, además de las establecidas en el artículo anterior:
-
-I.- Comparecer ante el Cabildo para dar cuenta del Estado que guarda la oficina, dependencia o entidad a su cargo, cuando se discuta o estudie un asunto concerniente a su respectivo ramo o actividad;
-
-II.- Otorgar caución suficiente a juicio del Cabildo, para garantizar el pago de las obligaciones contraídas en el desempeño negligente de su encargo;
-
-III.- Informar por escrito al superior jerárquico, sobre la atención, trámite o resolución de los asuntos de su competencia;
-
-IV.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de su superior jerárquico, y
-
-V.- Las demás que las leyes establezcan.
-
-### CAPÍTULO IV. DE LOS ÓRGANOS DE CONTROL INTERNO
-
-###### Artículo 210.
-
-El Ayuntamiento podrá constituir el órgano de control interno para la supervisión, evaluación y control de la gestión y manejo de los recursos públicos; así como la recepción y resolución de quejas y denuncias en relación con el desempeño de los funcionarios públicos.
-
-Cuando no exista órgano de control Interno, las quejas y denuncias las recibirá y resolverá el Síndico.
-
-###### Artículo 211.
-
-Al órgano de control interno compete:
-
-I.- Vigilar, evaluar e inspeccionar el ejercicio del gasto público y su congruencia con el presupuesto de egresos;
-
-II.- Realizar auditorias a las oficinas, dependencias y entidades de la Administración Pública;
-
-III.- Vigilar el cumplimiento, por parte de las oficinas, dependencias y entidades de la Administración Pública, de las disposiciones en materia de planeación, presupuestación, ingreso, contabilidad, financiamiento, inversión, deuda, patrimonio, fondos y valores;
-
-IV.- Supervisar que los recursos materiales, sean aprovechados con criterios de eficiencia y racionalidad;
-
-V.- Informar periódicamente a los integrantes del Cabildo, sobre el resultado de la evaluación respecto de la gestión de las oficinas, dependencias y entidades de la Administración Pública, así como de aquellas que hayan sido objeto de revisión;
-
-VI.- Atender las quejas e inconformidades que se presenten con motivo del servicio que prestan las oficinas, dependencias y entidades de la Administración Pública;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-VII.- Conocer e investigar las conductas de los servidores públicos, que puedan constituir responsabilidades, y aplicar las sanciones que correspondan en los términos de ley y de resultar procedente, presentar las denuncias correspondientes;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-VIII.- Ejecutar las políticas públicas de prevención y combate a la corrupción y su difusión al interior del Ayuntamiento como a la población en general, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-IX.- Las demás que le confieran las leyes y reglamentos
-
-### CAPÍTULO V. DE LA DENUNCIA POPULAR
-
-###### Artículo 212.
-
-Los ciudadanos podrán denunciar ante el órgano de control interno del Ayuntamiento, el manejo, uso y destino indebidos de recursos, o cualquier otro hecho que importe daño a la hacienda municipal, mediante la presentación de elementos de prueba.
-
-Dicha denuncia deberá presentarse mediante escrito que contenga:
-
-I.- El nombre o razón social y domicilio del denunciante y, en su caso, de su representante legal;
-
-II.- Los actos, hechos u omisiones denunciados;
-
-III.- Los datos que permitan identificar al presunto infractor, y
-
-IV.- Las pruebas que se ofrezcan.
-
-Tratándose de denuncias en contra de los integrantes del Cabildo, éstas se presentarán ante el órgano técnico de fiscalización del Congreso del Estado.
-
-###### Artículo 213.
-
-El órgano del conocimiento de la queja o denuncia, podrá mediante acuerdo, requerir al denunciante, de más datos e información, sobre el hecho denunciado y la probable responsabilidad del servidor o funcionario público.
-
-No se admitirán denuncias notoriamente improcedente o infundadas, o en la que se advierta mala fe o inexistencia del hecho, a juicio de la autoridad competente; quien le hará saber por escrito de la procedencia o improcedencia de su acción, en un plazo no mayor de treinta días naturales, a partir de la fecha de presentación de la denuncia.
-
-### CAPÍTULO VI. DEL PROCEDIMIENTO
-
-###### Artículo 214.
-
-El procedimiento para la aplicación de las sanciones a que se refiere esta Ley; se desarrollarán autónomamente y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a quien deba conocer de ellas.
-
-A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Penales para el Estado de Yucatán.
-
-###### Artículo 215.
-
-El procedimiento para sancionar a los servidores públicos de elección popular, se regirá conforme a lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, correspondiendo aplicar las sanciones al Congreso del Estado.
-
-###### Artículo 216.
-
-El Cabildo sancionará a los funcionarios públicos nombrados por éste, previo procedimiento administrativo instruido por la contraloría interna o el Síndico en su caso, que se sustanciará en los siguientes términos:
-
-I.- Se citará al probable responsable, de manera personal o por el medio más eficaz e idóneo posible, a una audiencia de pruebas y alegatos, a la que deberá comparecer personalmente, y en la cual podrá participar el denunciante.
-
-En la notificación se expresará el lugar, día y hora en que tendrá verificativo dicha audiencia, la autoridad o funcionario ante la cual se desarrollará ésta, los actos u omisiones que se le imputen al servidor público y el derecho de éste a comparecer asistido de un defensor de su confianza y a aportar pruebas que estime pertinentes. Una vez efectuada, si el servidor público no compareciere sin causa justificada, se tendrán como ciertos los actos u omisiones que se le atribuyen.
-
-Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
-
-II.- En la audiencia se presentarán y desahogarán las pruebas. Si se ofrecieren alguna de posterior perfeccionamiento, se desahogará en un plazo adicional de diez días hábiles, suspendiéndose la audiencia;
-
-III.- Desahogadas y valoradas las pruebas, la autoridad o funcionario competente, presentará los alegatos correspondientes.
-
-IV.- Posteriormente se emitirá la resolución dentro de los veinte días hábiles siguientes a la conclusión de la audiencia de pruebas y alegatos, imponiéndose al infractor, en su caso, las sanciones correspondientes. La resolución se notificará al interesado en un plazo no mayor de cinco días hábiles posteriores, para su ejecución se le comunicará al jefe inmediato o al titular de la oficina, dependencia o entidad, según corresponda, y
-
-V.- Durante la sustanciación del procedimiento, la autoridad o funcionario competente, podrá practicar todas las diligencias tendientes a determinar la probable responsabilidad o no del servidor público, así como requerir a éste, a las oficinas y dependencias o entidades involucradas, toda la información y documentación relacionada, quienes sin ulterior trámite la proporcionarán.
-
-En todo momento los interesados tendrán acceso al expediente y obtendrán copias de las constancias y actuaciones.
-
-En cualquier momento, el Cabildo, el órgano de control interno o el Síndico, en su caso, podrán determinar la suspensión temporal del empleo, cargo o comisión del denunciado, si así fuere indispensable para el procedimiento. Dicha suspensión, no prejuzga Estado de responsabilidad.
-
-###### Artículo 217.
-
-Se levantará acta circunstanciada de todas las diligencias que se practiquen, teniendo la obligación de suscribirla quienes en ella intervengan; si se negaren a hacerlo, se hará constar.
-
-###### Artículo 218.
-
-El servidor público que resulte responsable, podrá interponer el recurso de revisión ante el Tribunal de lo Contencioso Administrativo.
-
-### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
-
-#### SECCIÓN PRIMERA. DE LAS INFRACCIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-###### Artículo 219.
-
-A los servidores públicos municipales, les está prohibido:
-
-I.- Ejercer las funciones de su empleo, cargo o comisión después de haberse separado de él;
-
-II.- Autorizar a un subordinado a no asistir sin causa justificada a sus labores;
-
-III.- Aprobar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme para ocupar un empleo, cargo o comisión en el servicio público;
-
-IV.- Solicitar, aceptar o recibir por sí, o por interpósita persona durante el ejercicio de sus funciones, dinero u objetos, en precio notoriamente inferior al que el bien tenga en el mercado;
-
-V.- Recibir cualquier donación, empleo, cargo o comisión para sí, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios, o sociedades de las que el servidor público o las personas antes referidas, formen o hayan formado parte; procedente de cualquier persona física o moral cuya actividad se encuentren (sic) directamente vinculada, regulada o supervisada por el servidor público de que se trate;
-
-VI.- Intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso; o pueda derivar alguna ventaja o beneficios para él o su cónyuge, o pariente consanguíneo o por afinidad hasta el cuarto grado, o para terceros con los que tenga relación profesional, laboral o de negocios, o para socios o sociedades de las que el servidor público, o las personas antes referidas formen o hayan formado.
-
-El cargo que dentro del Sistema Municipal para el Desarrollo Integral de la Familia, desempeñen los cónyuges, o parientes consanguíneos o por afinidad hasta el cuarto grado, se ejercerá sin retribución alguna. No se considerará como remuneración, los gastos razonables destinados a actividades oficiales o de representación;
-
-VII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica, relacionada con el servicio o función;
-
-VIII.- Utilizar su autoridad o influencia, para que las elecciones favorezcan a persona alguna, impedirlas o retardarlas;
-
-IX.- Imponer sanciones administrativas, por violaciones a los reglamentos municipales, que excedan de los límites a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
-
-X.- Asignar obras y contratos, sin cumplir los procedimientos establecidos en las leyes;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XI.- Expedir las licencias de funcionamiento para los establecimientos o giros comerciales que expendan bebidas alcohólicas y expendios de cerveza en envase cerrado, que no cuenten con la autorización de la Autoridad Sanitaria Estatal previo cumplimiento de los requisitos establecidos en la Ley de Salud del Estado y demás reglamentos aplicables;
-
-XII.- Interferir en asuntos de carácter judicial o agrario;
-
-XIII.- Imponer contribuciones que no estén establecidas en las leyes fiscales;
-
-XIV.- Enajenar bienes del patrimonio del Municipio, salvo las excepciones;
-
-XV.- Hacer erogaciones fuera de Presupuesto;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVI.- Conceder el uso exclusivo de calles, parques, jardines y dictar disposiciones que estorben el uso de los bienes comunes;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVII.- Clausurar obras públicas que se ejecuten por autoridades federales y estatales, sin antes efectuar una notificación con al menos 10 días hábiles de anticipación para subsanar algún requisito técnico o administrativo omiso, y
-
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-XVIII.- Las demás que establezcan los respectivos ordenamientos.
-
-###### Artículo 220.
-
-Los Regidores, así como, los funcionarios públicos municipales designados por el Cabildo, no podrán tener otro cargo o empleo en el Estado, la Federación o en otros Municipios. Quedan exceptuados de esta disposición quienes ejerzan la docencia o la investigación, siempre que no afecten el adecuado desempeño de su función en el Municipio.
-
-###### Artículo 221.
-
-Los servidores públicos municipales, durante el desempeño de su empleo, cargo o comisión, y dos años después de haberlos concluido, no podrán solicitar, aceptar o recibir, por sí o por interpósita persona, dinero o cualquier donación que fundadamente se presuma se hace con motivo de servicios prestados o beneficios indebidos otorgados durante el ejercicio de su función.
-
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral, durante un año cuando el valor acumulado durante el mismo, no sea superior a diez veces el salario mínimo diario vigente en el Estado.
-
-###### Artículo 222.
-
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener quien se desempeñe como servidor público de elección popular, el Congreso del Estado instruirá al Órgano Técnico de Fiscalización, la práctica de visitas de inspección y auditorias procedentes en el ámbito de su desempeño. Tratándose de funcionarios públicos, el órgano de control interno del Ayuntamiento, hará lo conducente.
-
-###### Artículo 223.
-
-La entrega-recepción se realizará bajo cualquier circunstancia invariablemente, en los términos y condiciones previstas en esta ley y en las demás disposiciones reglamentarias.
-
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES
-
-###### Artículo 224.
-
-El incumplimiento de las obligaciones a que se refiere este Título, dará lugar a las siguientes sanciones:
-
-I.- Apercibimiento privado o público;
-
-II.- Amonestación privada o pública;
-
-III.- Suspensión;
-
-IV.- Destitución;
-
-V.- Sanción económica; e,
-
-VI.- Inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
-
-###### Artículo 225.
-
-La suspensión en el empleo, cargo o comisión, será de entre tres a noventa días.
-
-Las sanciones económicas, se impondrán cuando se obtenga un beneficio indebido o se cause daño al patrimonio municipal y consistirán en un monto equivalente de hasta dos tantos del lucro obtenido o del daño causado.
-
-La inhabilitación se impondrá como consecuencia de un acto u omisión que implique lucro, o cause daño al patrimonio municipal y tendrá una duración de entre seis meses a tres años, si el monto del lucro o del daño no excede de cien veces el salario mínimo vigente en el Estado y de tres a diez años, si excede de dicho límite. Esta sanción se podrá aplicar conjuntamente con la económica.
-
-#### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE SANCIONES
-
-###### Artículo 226.
-
-Para la imposición de las sanciones administrativas se considerará (sic) los siguientes elementos:
-
-I.- La gravedad de la infracción;
-
-II.- Las condiciones socio-económicas y demás circunstancias personales;
-
-III.- El nivel jerárquico, antecedentes y antigüedad en el servicio;
-
-IV.- Los medios de ejecución;
-
-V.- La reincidencia, y
-
-VI.- El monto del beneficio obtenido y del daño económico.
-
-###### Artículo 227.
-
-Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge o concubino, así como sus dependientes económicos directos, siempre que se presuma que provienen del servidor o funcionario público.
-
-### CAPÍTULO VIII. DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
-
-###### Artículo 228.
-
-Al Congreso del Estado corresponde, con el voto de las dos terceras partes de sus integrantes, suspender o revocar el mandato a los integrantes del Cabildo o, declarar la desaparición de un Ayuntamiento. Las causas, los términos y las modalidades para la suspensión o revocación del mandato y la desaparición de un Ayuntamiento, se sujetarán a lo previsto en la ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán.
-
-### CAPÍTULO IX. DEL REGISTRO PATRIMONIAL
-
-###### Artículo 229.
-
-Están obligados a manifestar su declaración de situación patrimonial a la Contraloría del Estado en los términos de la ley correspondiente:
-
-I.- El Presidente Municipal;
-
-II.- El Síndico;
-
-III.- El Secretario;
-
-IV.- Los demás Regidores;
-
-V.- El Tesorero, y
-
-VI.- Los titulares de las oficinas y/o dependencias de la administración pública municipal.
-
-###### Artículo 230.
-
-Si transcurridos los plazos a que hace referencia el artículo anterior, no se hubiese presentado la declaración correspondiente sin causa justificada, el servidor público incurrirá en responsabilidad.
-
-T R A N S I T O R I O S:
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 111.
 
-Los Ayuntamientos formularán su Plan Estratégico y el Plan Municipal de Desarrollo, con la finalidad de promover el desarrollo integral de la comunidad, de acuerdo con sus recursos técnicos, administrativos y económicos para el cumplimiento de sus fines.
+El Estado adopta como base de su división territorial y de su organización política y administrativa el Municipio Libre. Su funcionamiento se sujetará a las disposiciones de esta Constitución y de la legislación reglamentaria respectiva.
 
-Para el desarrollo de sus actividades productivas, el aprovechamiento de sus recursos, el establecimiento, ampliación, mejoramiento y conservación de los núcleos de población y los servicios públicos, formularán los programas que deriven del Plan Estratégico y del Plan Municipal de Desarrollo.
-
-#### SECCIÓN SEGUNDA. DE LOS INSTRUMENTOS DE PLANEACIÓN
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 112.
 
-Los Ayuntamientos contarán con los siguientes instrumentos de planeación:
+Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la cabecera que señale la Ley y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-I.- Plan Estratégico;
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-II.- Plan Municipal de Desarrollo, y
+La elección de los integrantes de los ayuntamientos se celebrará el segundo domingo del mes de noviembre del año en que concluya el período constitucional, y tomarán posesión de su cargo el día primero de enero del año siguiente al de su elección.
 
-III.- Programas derivados de los Planes señalados en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 113.
 
-El Plan Estratégico contendrá las prioridades y objetivos de largo plazo para el desarrollo sustentable del Municipio y deberá ser evaluado y actualizado en concordancia con los Planes Nacional y Estatal de Desarrollo. La propuesta del Plan Estratégico será elaborada por la instancia que para el efecto determine el Ayuntamiento.
+El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
-#### SECCIÓN TERCERA. DEL PLAN MUNICIPAL DE DESARROLLO
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 114.
 
-El Plan Municipal de Desarrollo contendrá los objetivos, políticas y estrategias que sirvan de base a las actividades de la administración pública municipal, de forma que aseguren el cumplimiento de dicho Plan y estará vigente durante su período constitucional.
+Los Ayuntamientos se integrarán por un Presidente, un Síndico y de tantos regidores como determine la Ley, pero éstos no podrán ser menos de cinco.
 
-El Plan Municipal de Desarrollo deberá ser elaborado por las dependencias y entidades de la administración pública municipal, con la asesoría de la instancia técnica de planeación, evaluación y seguimiento que para el efecto determine el Ayuntamiento; el mismo someterlo a la aprobación del Ayuntamiento dentro de los primeros noventa días de su gestión, e indicará los programas de carácter sectorial.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las leyes estatales introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 115.
 
-Una vez aprobados por el Ayuntamiento, los planes a que se refiere este capítulo, se publicarán en la Gaceta Municipal.
+El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos directamente por el pueblo; sus facultades, obligaciones y la manera de suplir sus faltas absolutas o temporales, serán determinados por la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 1987)</small>
 
 ###### Artículo 116.
 
-Las dependencias y entidades de la administración pública municipal elaborarán programas operativos anuales, que deberán ser congruentes con los planes y programas de los que se derivan y regirán las actividades de cada una de ellas.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-Dichos programas formarán parte integral del Presupuesto de Egresos Municipal y serán aprobados por el Ayuntamiento, conjuntamente con el mismo.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1987)</small>
 
 ###### Artículo 117.
 
-El presupuesto de egresos de los municipios deberá atender las prioridades y objetivos que señalen el Plan Municipal de Desarrollo y los programas derivados del mismo, de conformidad con lo establecido en esta Ley y sus reglamentos.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos serán electos simultáneamente, y en su totalidad, cada tres años. Por cada regidor propietario se elegirá un suplente.
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
-
-Estos serán evaluados por el Órgano de Evaluación dependiente del Congreso del Estado, conforme lo determine la Ley.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que las leyes prevengan, siempre y cuando sus miembros hayan tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan; todo esto sujeto a lo que dispone el título cuarto de esta Constitución.
 
 ###### Artículo 118.
 
-El Ayuntamiento formulará el Plan Municipal de Desarrollo, con la finalidad de promover el desarrollo integral de la comunidad, considerando los siguientes aspectos:
+(DEROGADO, P.O. 27 DE ABRIL DE 1995)
 
-I.- Expondrá el diagnóstico municipal describiendo su situación general;
-
-II.- Establecerá los objetivos generales y específicos, estrategias, políticas, programas, acciones y prioridades del desarrollo integral del municipio, los que podrán incluir los objetivos a largo plazo contenidos en otros instrumentos de planeación aplicables al municipio, y
-
-III.- Se referirá al conjunto de la actividad económica y social del Municipio.
-
-El Plan Municipal de Desarrollo no podrá ser modificado en el último año del ejercicio Constitucional.
-
-Una vez aprobado y publicado en la Gaceta Municipal será obligatorio para toda la administración municipal.
-
-#### SECCIÓN CUARTA. DEL PROGRAMA OPERATIVO ANUAL
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 119.
 
-Los Programas Operativos serán los instrumentos anuales de la planeación municipal, serán concordantes con el Plan Municipal de Desarrollo y deberán ser presentados al Cabildo.
+Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
 
-El Programa Operativo Anual, contendrá:
+I.- Ser ciudadano mexicano por nacimiento, ser michoacano en ejercicio de sus derechos y no haber sido condenado por delito doloso;
 
-I.- Diagnóstico de la situación económica y social del Municipio en el año específico y su relación con la situación regional y estatal;
+II.- Haber cumplido veintiún años el día de la elección;
 
-II.- Objetivos y metas a corto plazo;
+III.- No ser funcionario de la Federación, del Estado o municipal, ni tener mando de fuerza en el municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquella se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentes;
 
-III.- Políticas, estrategias e instrumentos a utilizar;
+IV.- No ser ni haber sido ministro o delegado de algún culto religioso;
 
-IV.- Previsiones y recursos necesarios y fuente de los mismos, y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1989)</small>
 
-V.- Acciones a realizar en las vertientes de la planeación obligatoria, coordinada y concertada en relación a los sectores social y privado.
+V.- No estar comprendido en ninguno de los casos que señala el artículo 116.
 
-Correlativamente a los programas operativos anuales, se formularán los respectivos programas de inversión, gasto y financiamiento que los complementarán.
-
-Los programas operativos y los programas de inversión, gasto y financiamiento, deberán contener las propuestas prioritarias de la sociedad para abatir los rezagos sociales.
-
-Los programas serán obligatorios para el Gobierno y la Administración Pública Municipal, en el ámbito de sus respectivas competencias.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 120.
 
-El ejercicio del presupuesto municipal debe relacionarse con el Plan Municipal de Desarrollo y sus respectivos programas, para que en su oportunidad sean evaluados por el Órgano de Evaluación, dependiente del Congreso del Estado, con las características que determine la Ley.
+Los ayuntamientos no pueden impedir la entrada o salida de mercancías o productos de cualquier clase por el territorio de su municipio.
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 121.
 
-Corresponde al Cabildo aprobar la creación, modificación o extinción de las entidades u organismos paramunicipales. En caso de extinción, se acordará lo correspondiente a su liquidación.
+Los ayuntamientos necesitan autorización del Congreso del Estado para comprar, vender y gravar bienes inmuebles, y para contratar empréstitos.
 
-A los órganos de gobierno de tales entidades o sus equivalentes, corresponde disponer lo necesario para su buen funcionamiento.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 122.
 
-Las entidades paramunicipales gozarán de autonomía de gestión, personalidad jurídica y patrimonio propio, cualquiera que sea la forma y estructura legal que se adopte para el debido cumplimiento de su objeto y conforme al acuerdo de creación.
+Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal.
 
-Las funciones de las entidades paramunicipales, no excederán aquellas que para el Cabildo señale la Ley.
+Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 123.
 
-La Administración Paramunicipal comprende:
+Son facultades y obligaciones de los ayuntamientos:
 
-I.- Los Organismos Descentralizados creados por los Ayuntamientos con la aprobación del Cabildo;
+I. Representar jurídicamente al municipio;
 
-II.- Las empresas de participación mayoritaria, en las que el Ayuntamiento cuenta con el cincuenta y uno por ciento o más del capital social;
+II. Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:
 
-III.- Las empresas en las que el Municipio participe minoritariamente, previa autorización del Cabildo;
+a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-IV.- Los fideicomisos para fines específicos, y
+Los ayuntamientos podrán celebrar convenios con la Tesorería General del Estado, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
 
-V.- Los demás organismos que se constituyan con ese carácter.
+b) Las participaciones federales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado, a partir de criterios de prioridad regional, niveles de desarrollo y disponibilidad de recursos y servicios.
 
-El Cabildo designará mediante acuerdo expreso a quien o quienes lo representarán en lo referente a los derechos accionarios del Ayuntamiento.
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Cuando alguna entidad paramunicipal no cumpla con el objeto de su creación, podrá disolverse, fusionarse, liquidarse o extinguirse, según sea el caso, estableciéndose los términos de su liquidación, extinción o revocación.
+No se establecerán exenciones o subsidios respecto de los incisos a) y c) a favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado y de los municipios estarán exentos de dichas contribuciones.
+
+III. Aprobar sus presupuestos de egresos con base en sus ingresos disponibles y de conformidad con lo dispuesto en la Ley. El Congreso del Estado aprobará las leyes de ingresos de los ayuntamientos y revisará sus cuentas públicas;
+
+IV. Expedir, de acuerdo con las bases normativas establecidas por el Congreso del estado, los reglamentos y bandos para la administración y funcionamiento de los servicios públicos dentro de sus respectivas jurisdicciones;
+
+V. Proporcionar en sus jurisdicciones los servicios de:
+
+a) Agua potable y alcantarillado.
+
+b) Alumbrado público.
+
+c) Limpia.
+
+d) Mercados y centrales de abasto.
+
+e) Panteones.
+
+f) Rastros.
+
+g) Calles, parques y jardines.
+
+h) Policía y tránsito e,
+
+i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
+
+Los municipios de una misma región geoeconómica y política, previo acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+
+VI. Formular, aprobar y administrar, en los términos de las leyes federales y estatales relativas, la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y, participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+
+VII. Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
+
+VIII. Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente;
+
+IX. Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
+
+X. Cuidar de la repoblación y conservación de los bosques;
+
+XI. Cumplir y dictar disposiciones para difundir y propagar la agricultura e industrias rurales;
+
+XII. Promover y fomentar el fraccionamiento de latifundios y procurar que se formen colonias urbanas;
+
+XIII. Nombrar y remover libremente a sus empleados y concederles toda clase de licencias;
+
+XIV.- Formar sus cuerpos de policía y tránsito;
+
+XV.- Colaborar ampliamente con los organismos electorales, en los términos de la ley y,
+
+XV.- Las demás que les señalen las leyes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 124.
 
-Las entidades paramunicipales serán coordinadas para efectos de la planeación del desarrollo municipal, por las oficinas y dependencias de la administración centralizada que señale el Cabildo, a propuesta del Presidente Municipal y atendiendo criterios de afinidad sectorial.
+La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 125.
 
-En todos los casos recaerá en el Presidente Municipal, la presidencia de la junta de gobierno o del consejo de administración de las entidades u organismos paramunicipales; siempre y cuando no se trate de aquellas en las que no cuente con participación mayoritaria.
+El cargo de Presidente, Síndico y Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
-El Director o sus similares, así como el órgano de control interno o los comisarios, en su caso, serán designados a propuesta del Presidente Municipal con la aprobación del Cabildo, o por el órgano de gobierno, consejo de administración, Comité Técnico o sus equivalentes, cuando así lo señale expresamente el acuerdo de su creación y el reglamento respectivo.
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 126.
 
-Las entidades paramunicipales deberán presentar, a más tardar el día 10 de cada mes, un informe financiero del ejercicio de los recursos públicos del mes inmediato anterior, al Presidente Municipal, mismo que deberá dar cuenta al Cabildo para su revisión y aprobación, en su caso.
+Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 127.
 
-Para ser Director General o su similar, de una entidad paramunicipal, se requiere:
+Contra los actos de los Presidentes Municipales, procede el recurso de queja ante los ayuntamientos respectivos.
 
-I.- Contar con conocimiento y experiencia en la materia o en su caso constancia de estudios profesionales, expedido por autoridad o institución legalmente facultada;
-
-II.- No haber sido inhabilitado para desempeñar cargo, empleo o comisión en la administración pública;
-
-III.- Tener modo honesto de vivir y no haber sido sentenciado por delitos patrimoniales u oficiales;
-
-IV.- No tener parentesco consanguíneo o por afinidad hasta en tercer grado en línea recta y cuarto en línea colateral, con los integrantes o funcionarios del Cabildo, y
-
-V.- Haber desempeñado cargos cuyo ejercicio requiera conocimientos y experiencia en materia administrativa.
-
-#### SECCIÓN SEGUNDA. DE LOS ORGANISMOS DESCENTRALIZADOS
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 128.
 
-Son organismos descentralizados las entidades creadas por acuerdo del Cabildo, para la atención de una función o servicio público o para fines de asistencia o seguridad social, contarán con personalidad jurídica y patrimonio propio, cualquiera que sea la estructura legal que adopten. Dicho acuerdo, contendrá:
+Los presidentes Municipales tomarán empeño para que en sus respectivas circunscripciones asistan a las escuelas públicas o privadas todos los niños en edad escolar.
 
-I.- Denominación, objeto y domicilio legal;
-
-II.- La forma de integrar e incrementar su patrimonio;
-
-III.- Las atribuciones del Director General quién tendrá la representación legal del organismo y demás empleados;
-
-IV.- Su vinculación con los planes municipales;
-
-V.- La facultad económico-coactiva, en su caso, y
-
-VI.- Las demás que acuerde el Cabildo.
-
-La Junta de gobierno, o el Consejo de Administración o su equivalente, deberá expedir las bases de organización, funciones y facultades de las distintas áreas que integran dicho organismo.
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ## TITULO SEPTIMO. De la Educación Pública
 
@@ -2811,87 +1745,93 @@ La Junta de gobierno, o el Consejo de Administración o su equivalente, deberá 
 
 ###### Artículo 129.
 
-No pueden ser integrantes de la Junta de Gobierno, o el Consejo de Administración o su equivalente:
+Es obligación del poder público garantizar el desarrollo integral estatal, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos que impidan la distribución adecuada de bienes y servicios a la población y en el Estado.
 
-I.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o quienes tengan relaciones profesionales, laborales o de negocios, con cualquiera de los integrantes de la Junta de Gobierno, o el Consejo de Administración o su equivalente o con el Director General;
+En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
-II.- Quienes tengan litigio pendiente con el organismo de que se trata, y
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
 
-III.- Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+Los recursos económicos de que dispongan los Gobiernos Estatal y Municipales así como sus respectivas administraciones públicas paraestatales y paramunicipales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
 
-#### SECCIÓN TERCERA. DE LAS EMPRESAS DE PARTICIPACIÓN MUNICIPAL
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatorias, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y Municipios
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+El manejo de recursos económicos del Estado y Municipios, se sujetarán a las bases de este artículo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 130.
 
-Son empresas de participación municipal, aquellas en las que el Gobierno Municipal, cuenta con el cincuenta y uno por ciento o más del capital social. En todas ellas existirá un comisario, el cual será designado por el Cabildo a propuesta del Presidente Municipal.
+El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
 
-La Tesorería Municipal formará y llevará un expediente para cada empresa paramunicipal.
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
-#### SECCIÓN CUARTA. DE LOS FIDEICOMISOS
+La Federación y el Estado, en los términos de ley, podrán convenir la asunción por parte de éste del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
+
+El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 131.
 
-Son fideicomisos públicos, los autorizados por el Cabildo con la finalidad de contribuir a la realización de sus propios fines.
+En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
 
-Los correspondientes comités técnicos se ajustarán, en cuanto a su organización, funcionamiento y atribuciones, a las disposiciones que el presente capítulo establece para la Junta de Gobierno, o el Consejo de Administración o su equivalente. Su operación se sujetará a lo siguiente:
+Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Tesorería General del Estado conforme lo determine la Ley.
 
-I.- La modificación o extinción de los fideicomisos, cuando así convenga al interés general, corresponderá al Cabildo debiendo en todo caso establecer el destino de los bienes fideicomitidos;
+El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes.
 
-II.- Los respectivos comités técnicos, deberán rendir al Cabildo, un informe trimestral sobre la administración y aplicación de los recursos aportados, y
+El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos.
 
-III.- Se establecerá la obligación de observar los requisitos y formalidades señalados en esta ley, para la enajenación de los bienes propiedad municipal.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCIÓN PRIMERA. DEL COMISARIO Y SUB-COMISARIO
 
 ###### Artículo 132.
 
-El Ayuntamiento, a través de la Tesorería Municipal, será el fideicomitente único del Gobierno Municipal y a ésta corresponde garantizar que los contratos mediante los cuales se constituyan los fideicomisos, contengan:
+Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos, según el presupuesto de egresos.
 
-I.- Disposiciones que precisen los derechos y acciones que corresponda ejercer al fiduciario sobre los bienes fideicomitidos;
-
-II.- Las instituciones que establezca o que se deriven de derechos de fideicomisarios, y
-
-III.- Los derechos que el fideicomitente se reserve y las atribuciones que fije en su caso al Comité Técnico.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 #### SECCIÓN SEGUNDA. DE LA ELECCIÓN Y LOS REQUISITOS DE ELEGIBILIDAD
 
 ###### Artículo 133.
 
-El Comité Técnico deberá estar integrado por:
+En la Capital del Estado habrá una Contaduría General de Glosa que dependerá del Congreso, atendida por los empleados que designe la ley. Esta oficina glosará, sin excepción, las cuentas de los caudales públicos.
 
-I.- Un representante que nombre el Presidente Municipal;
-
-II.- El Tesorero Municipal o quien éste designe;
-
-III.- El titular del Órgano de Control Interno o quien éste designe, y
-
-IV.- Un representante del fiduciario.
-
-Por cada integrante del Comité Técnico habrá un suplente que lo cubrirá en sus ausencias.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 134.
 
-El presente capítulo, tiene por objeto establecer las bases para la profesionalización, capacitación y actualización de los funcionarios públicos en la administración municipal.
+Toda cuenta de fondos públicos quedará glosada, a más tardar, un año después de su presentación.
+
+La falta de cumplimiento de este precepto, será causa de responsabilidad de los empleados de la Contaduría y de la Comisión Inspectora que nombre el Congreso.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 135.
 
-Cada Ayuntamiento garantizará conforme a las condiciones socioeconómicas y el reglamento respectivo, que la profesionalización se oriente a los principios de igualdad de oportunidades de acceso a la función pública municipal, con base en el mérito personal, a efecto de lograr calidad, eficiencia y eficacia en los servicios públicos municipales.
+La Contaduría General expedirá en la forma que la ley prevenga, el finiquito de las cuentas que glose, y rendirá cada tres meses al Congreso, por el conducto que señale la ley, un informe de las operaciones que haya practicado.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 136.
 
-La profesionalización de los funcionarios públicos considerará:
+Los empleados que manejen fondos públicos otorgarán fianza en la forma que la ley señale.
 
-I.- Recibir el nombramiento una vez cubiertos los requisitos establecidos;
-
-II.- Percibir las remuneraciones, beneficios y estímulos contemplados;
-
-III.- Tener acceso al mecanismo escalafonario;
-
-IV.- Participar en forma permanente en la capacitación, actualización y evaluación, y conocer su resultado en el plazo que se establezca, y
-
-V.- Los demás que se deriven de las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## TITULO OCTAVO. De la Propiedad, del Trabajo y de la Previsión Social
 
@@ -2899,89 +1839,65 @@ V.- Los demás que se deriven de las disposiciones aplicables.
 
 ###### Artículo 137.
 
-Para efectos de esta Ley, el patrimonio es el conjunto de bienes, derechos y obligaciones, susceptibles de apreciación pecuniaria.
+La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 138.
 
-El patrimonio se constituye por:
+Todo individuo tiene derecho a recibir educación, el Estado y sus Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias. Toda educación que el Estado imparta será gratuita.
 
-I.- Los ingresos que conforman la hacienda pública;
-
-II.- Los bienes del dominio público y privado que le correspondan;
-
-III.- Los derechos y obligaciones creados en su favor, y
-
-IV.- Los demás bienes, derechos y obligaciones que señalen los ordenamientos legales.
-
-### CAPÍTULO II. DE LA HACIENDA PÚBLICA
-
-#### SECCIÓN PRIMERA. DE SUS ELEMENTOS
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 139.
 
-La hacienda municipal, como elemento integrante del patrimonio público, se constituye por la totalidad de los ingresos que apruebe el Congreso del Estado, en las leyes de la materia; las que incluirán su determinación, cobro y recaudación. Su objeto será atender el gasto público y demás obligaciones a cargo del Municipio.
+La educación tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y a la conciencia de la solidaridad internacional en la independencia y en la justicia.
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+Garantizada la libertad de creencias, el criterio que orientará a dicha educación se mantendrán por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+
+a).- Será democrática, considerando la democracia no sólo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+
+> <small>(REFORMADO, P.O. 03 DE ENERO DE 1994)</small>
+
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia la conbicción (sic) del interés general de la sociedad cuando por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atendera todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 140.
 
-La hacienda municipal se regirá por los principios de autonomía administrativa, libre ejercicio, transparencia y legalidad; y se forma por:
+Los particulares podrán impartir educación en todos sus tipos y modalidades, sujetos a lo previsto por la fracción VI del artículo 3o. de la Constitución General de la República.
 
-I.- Los impuestos, derechos, productos, aprovechamientos, tasas adicionales sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora; las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que el Congreso del Estado establezca a su favor;
-
-II.- Las participaciones federales y estatales, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;
-
-III.- Las aportaciones, con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado y la legislación aplicable;
-
-IV.- Los ingresos derivados de la prestación de servicios públicos a su cargo, y
-
-V.- Los provenientes de los financiamientos.
-
-#### SECCIÓN SEGUNDA. DE LOS INGRESOS
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 141.
 
-El Cabildo en el ámbito de su competencia, propondrá al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones especiales y las tablas de valores unitarios del suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y oficios y de agricultura.
 
 ###### Artículo 142.
 
-Para los efectos de esta ley, los ingresos serán ordinarios y extraordinarios, los primeros serán tributarios y no tributarios; y los segundos, los no previstos.
+(DEROGADO, P.O. 3 DE ENERO DE 1994)
 
-I.- Serán ordinarios:
-
-a. Los Impuestos;
-
-b. Los Derechos;
-
-c. Las Contribuciones de Mejoras;
-
-d. Los Productos;
-
-e. Los Aprovechamientos;
-
-f. Las Participaciones, y
-
-g. Las Aportaciones.
-
-II.- Serán extraordinarios:
-
-a. Los que autorice el Cabildo, en los términos de su competencia y de conformidad a las leyes fiscales, incluyendo los financiamientos;
-
-b. Los que autorice el Congreso del Estado, y
-
-c. Los que reciban del Estado o la Federación por conceptos diferentes a las participaciones y aportaciones.
-
-#### SECCIÓN TERCERA. DEL COBRO ECONÓMICO COACTIVO
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 143.
 
-Las sanciones pecuniarias constituyen créditos fiscales en favor del erario municipal, que se harán efectivos mediante el procedimiento económico coactivo de ejecución, y se sujetará a las disposiciones señaladas en el Código Fiscal del Estado de Yucatán.
+Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales tanto del personal académico como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
 
-#### SECCIÓN CUARTA. DEL GASTO PÚBLICO
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 144.
 
-El gasto público comprende las erogaciones por concepto de gasto corriente, inversión física y financiera, así como el pago correspondiente a deuda pública, que realice la administración pública municipal; se ejercerá a través del Presupuesto de Egresos, y su objeto es el sostenimiento de las actividades del Municipio, la realización de obras y la prestación de servicios públicos.
+Para ejercer una profesión en el Estado, se requiere la posesión de un título legalmente expedido y registrado.
 
-El gasto público atenderá a los criterios de racionalidad, austeridad y disciplina presupuestal.
+La ley determinará las profesiones que requieran título, la forma de su registro, el procedimiento para expedir licencias a los prácticos, y en general, reglamentará todo lo relativo al ejercicio de las profesiones.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## TITULO NOVENO. Disposiciones Generales
 
@@ -2989,87 +1905,83 @@ El gasto público atenderá a los criterios de racionalidad, austeridad y discip
 
 ###### Artículo 145.
 
-El Presupuesto de Egresos debe ser aprobado por el Cabildo, a más tardar el día quince de diciembre del año anterior al que deba regir, conforme al pronóstico de Ingresos y al Plan Municipal de Desarrollo.
+El Estado reconoce y garantiza el derecho de propiedad en los términos que establece la Constitución Federal; con entera sujeción a ésta el Congreso expedirá leyes para regular el aprovechamiento de las aguas que no sean de propiedad nacional y se localicen en dos o más predios, para vigilar, dentro del territorio del Estado, el respeto a las disposiciones constitucionales sobre capacidad para adquirir el dominio de las tierras, aguas, bosques y sus accesiones y para fijar la extensión máxima de la propiedad rural y llevar a cabo el fraccionamiento de los excedentes, procurando el fomento y desarrollo de la auténtica pequeña propiedad.
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+También dictará las leyes necesarias para determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada, facultando al Ejecutivo para hacer la declaración correspondiente.
 
-El Presupuesto de Egresos de los municipios deberá ser adecuado por el Cabildo conforme a las partidas presupuestales aprobadas por el Congreso del Estado en sus respectivas leyes de ingresos, mismo que tendrá el carácter de definitivo. Realizado lo anterior, el Ayuntamiento le dará publicidad a través de la Gaceta Municipal y cualquier otro medio idóneo, durante los diez días hábiles siguientes.
+Los núcleos de población que de hecho o por derecho guarden el estado comunal, tienen plena capacidad para adquirir, poseer y administrar tierras, bosques, aguas y sus accesiones. A fin de que puedan acreditar su personalidad y ejercer sus derechos, la Legislatura del Estado dictará una ley que regule su funcionamiento y proteja debidamente los bienes que constituyan su patrimonio, conforme a las siguientes bases generales:
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+I.- Siguiendo un procedimiento democrático y de acuerdo con las costumbres establecidas, se hará la designación de los representantes legales de las comunidades, los cuales acreditarán su personalidad con credenciales que deberá expedirles el Gobernador del Estado.
 
-El Ayuntamiento deberá incluir en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
+II.- Se formulará el censo de las personas que deben ser reconocidas como comuneros, dando amplia oportunidad de defensa a todos los que se crean con tal derecho y se establecerán las bases para determinar la forma en que se trasmitan los derechos de cada comunero.
 
-a) Constituyan deuda pública del Municipio, o de las entidades paramunicipales garantizadas por el Ayuntamiento o el Poder Ejecutivo del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, o
+III.- La autoridad suprema de los núcleos de población comunal será la Asamblea General de Comuneros. Las funciones de ésta, así como las facultades de los representantes que legalmente elijan, serán fijadas en la ley respetando las limitaciones establecidas en este artículo.
 
-b) Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el Ayuntamiento conforme a la ley de la materia.
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
 
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+IV.- Son inexistentes todos los actos de particulares y todas las resoluciones, decretos, acuerdos, Leyes o cualquier acto de las autoridades municipales o del Estado, así como de las autoridades judiciales del orden común que hayan tenido o tengan por consecuencia privar total o parcialmente de sus derechos a los núcleos de población comunal. Se exceptúa únicamente el caso de expropiaciones por causa de utilidad pública que en forma muy limitada y expresa se establecerán en dicha ley y que se tramitarán y resolverán, oyendo los puntos de vista de la asamblea general de comuneros. La indemnización se destinará a la adquisición de otros terrenos.
+
+V.- Las tierras, pastos, bosques, aguas, plantas, canteras, arenas y demás recursos propiedad de las comunidades, se explotarán directamente por ellas mismas con el asesoramiento técnico del Gobierno o de las instituciones u organismos que para tal efecto se funden.
+
+VI.- Se establecerá en favor de las comunidades un régimen fiscal de protección, semejante al de los ejidos.
+
+VII.- Con la participación de las propias comunidades, se crearán organismos adecuados que, por medios conciliatorios, busquen la resolución amistosa de los conflictos entre las comunidades.
+
+VIII.- Se formularán también las normas que regulen el manejo honrado y el conveniente destino de los fondos comunales que deriven de la explotación o aprovechamiento de los terrenos comunales.
+
+IX.- El Estado dictará también, dentro de la esfera de su competencia y en auxilio del Gobierno Federal, las disposiciones necesarias para vigilar que no se lesionen los ejidos ni la auténtica pequeña propiedad, que no se realicen falsas clasificaciones de tierras o de explotaciones agrícolas y ganaderas, ni se realicen maniobras o simulaciones para ocultar acaparamientos de la propiedad territorial, que no se violen en perjuicio de los campesinos, las disposiciones relativas al crédito y al correcto manejo del patrimonio ejidal y, en general, para lograr el cumplimiento efectivo de la Reforma Agraria.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 146.
 
-El Ayuntamiento a través de su órgano de control interno, establecerá un sistema de evaluación y control que le permita vigilar la ejecución del Presupuesto de Egresos y de los programas operativos, conforme a la ley aplicable.
+El Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física.
 
-#### SECCIÓN QUINTA. DE LA CONTABILIDAD
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 147.
 
-El Ayuntamiento llevará su contabilidad mensualmente, que comprenderá el registro de activos, pasivos, capital, ingresos, egresos, estados financieros y demás información presupuestal.
+El Ejecutivo tomará las medidas necesarias para que el salario mínimo señalado por las juntas competentes, se haga efectivo en todo el Estado.
 
-El sistema contable deberá operar en forma tal, que facilite el control claro y ágil de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y en general, que permita medir la eficacia y eficiencia del gasto público.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 148.
 
-El Presidente Municipal y el tesorero, tendrán la obligación de preservar los libros o registros contables durante el ejercicio constitucional del Ayuntamiento, los cuales no se podrán, bajo su responsabilidad alterar o destruir, de conformidad con las leyes aplicables.
+El Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
 
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1988)</small>
 
-Asimismo, los libros o registros contables deberán ser entregados a las autoridades entrantes, durante el proceso de entrega recepción del ayuntamiento, bajo la responsabilidad del Presidente Municipal y el tesorero salientes.
+Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por las leyes que expida la Legislatura del Estado, con base en lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-#### SECCIÓN SEXTA. DE LA CUENTA PÚBLICA
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 149.
 
-La cuenta pública consiste en la integración de todos aquellos documentos referidos en la legislación aplicable para la rendición, revisión o fiscalización del gasto municipal. Deberá formularse mensualmente a más tardar el día 10 del mes siguiente al de su ejercicio y presentación al Cabildo, para su revisión y aprobación, en su caso; y deberá publicarse en la Gaceta Municipal o en cualquier otro medio idóneo, el balance mensual de la Tesorería detallando los ingresos y egresos, para conocimiento de los habitantes del Municipio.
+Se establece en el Estado la institución del patrimonio de familia o bien familiar. El Congreso del Estado organizará dicha institución sobre las siguientes bases:
 
-Los ayuntamientos, enviarán a la Auditoría Superior del Estado un Informe de Avance de la Gestión Financiera de forma trimestral a más tardar dentro de los 20 días hábiles siguientes al término del trimestre correspondiente.
+I.- La cuantía de los bienes que formen el patrimonio de familia se fijará atendiendo a las condiciones sociales y económicas del Estado;
 
-De igual forma deberán presentar su cuenta pública a la Auditoría Superior del Estado, dentro de los 40 días hábiles siguientes, al cierre del ejercicio fiscal correspondiente.
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
 
-La cuenta pública se enviará a la Auditoría Superior del Estado, sea o no aprobada en Sesión de Cabildo.
+II.- Los bienes que lo constituyan no podrán ser enajenados, gravados o embargados, ni afectos a responsabilidad alguna civil o criminal;
 
-### CAPÍTULO III. DE LOS BIENES
+III.- El acto que en cada caso formalice la constitución del patrimonio de familia, estará exento de toda clase de impuestos, derechos y aprovechamientos, y
 
-#### SECCIÓN PRIMERA. DEL DOMINIO PÚBLICO
+IV.- Se simplificarán las formalidades y trámites en los juicios sucesorios que tengan por objeto el bien familiar o patrimonio de familia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 150.
 
-Los bienes muebles e inmuebles son los recursos materiales propiedad del Municipio, destinados al cumplimiento de su función y son del dominio público y privado.
+El Congreso del Estado expedirá todas las leyes relativas a previsión social en consonancia con los preceptos y espíritu de la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 151.
 
-Son bienes del dominio público:
+Todas las leyes relativas a previsión social se considerarán de orden público, y sus preceptos no serán renunciables, a menos de que en ellas mismas se indique que lo pueden ser.
 
-I.- Los de uso común;
-
-II.- Los inmuebles destinados a un servicio público y los equiparados a éstos conforme a la presente Ley;
-
-III.- Cualquier otro inmueble, determinado como inalienable e imprescriptible por algún ordenamiento jurídico, así como los que sean declarados como patrimonio cultural del Estado;
-
-IV.- Los que se adquieran por causa de utilidad pública;
-
-V.- Las servidumbres y usufructos, cuando el predio dominante sea alguno de los especificados en las fracciones anteriores;
-
-VI.- Los muebles que por su naturaleza normal u ordinaria, no sean sustituibles, tales como los expedientes de oficinas, archivos públicos, libros auténticos y otros de naturaleza análoga;
-
-VII.- Los declarados como zonas de reserva ecológica, territorial o área de donación, y
-
-VIII.- Los demás que se incorporen con tal carácter.
-
-Los bienes de dominio público municipal, son inalienables, inembargables e imprescriptibles, y sólo podrán enajenarse previa desincorporación.
-
-#### SECCIÓN SEGUNDA. DEL DOMINIO PRIVADO
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## TITULO DECIMO. De las Reformas a la Constitución
 
@@ -3077,137 +1989,97 @@ Los bienes de dominio público municipal, son inalienables, inembargables e impr
 
 ###### Artículo 152.
 
-Son bienes del dominio privado:
+Los cargos de elección popular y empleos de que habla esta Constitución, sólo podrán recaer en individuos que pertenezcan al estado seglar.
 
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-I.- Las tierras de propiedad municipal, susceptible de enajenación y las de fundo legal;
-
-II.- Los mostrencos;
-
-III.- Los que hayan formado parte del patrimonio de una entidad paramunicipal, que por su disolución y liquidación, se deje libre de afectación y reviertan al patrimonio municipal, y
-
-IV.- Los demás inmuebles y muebles que por cualquier título traslativo de dominio se adquiera.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 153.
 
-Los inmuebles del dominio privado, podrán ser objeto de enajenación a propuesta del Presidente Municipal, mediante acuerdo de las dos terceras partes del Cabildo.
+Los funcionarios de elección popular que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; quedarán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más.
 
-#### SECCIÓN TERCERA. DE LA DESINCORPORACIÓN
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 154.
 
-La desincorporación de bienes del dominio público y su cambio de uso o destino, sólo podrá realizarse previo acuerdo de las dos terceras partes del Cabildo. Dicho Acuerdo deberá contener los motivos suficientes para ese fin y sustentarse en un dictamen técnico.
+Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso. Hay también incompatibilidad en los individuos del Supremo Tribunal y jueces letrados para servir durante su encargo, de hombres buenos, abogados o procuradores, si no es en negocios propios o de su familia, y la hay asímismo, en los primeros, para servir de asesores, árbitros o arbitradores en negocios en que las partes se hayan reservado algún recurso. La incompatibilidad que establece la primera parte de este artículo, se hace extensiva en los mismos términos a los magistrados supernumerarios en ejercicio; las demás, los comprenderán en los negocios particulares de que conozcan, y en los casos y por el tiempo que designe la Ley Orgánica respectiva. La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 155.
 
-Para enajenar, permutar, ceder o gravar de cualquier modo los bienes inmuebles que formen parte del dominio público y privado de los municipios, además del voto de las dos terceras partes de la totalidad de los integrantes del Cabildo, se requerirá que contenga al menos, los datos y anexos siguientes:
+Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular; pero podrá elegir entre ambos el que quiera desempeñar cuando resulte electo para los dos.
 
-I.- Un informe del Presidente Municipal y el Síndico en el que se acredite la necesidad de enajenar el bien y en el que se consignará la justificación de su beneficio. El informe contendrá el destino del producto de la enajenación, cuando esta sea onerosa;
+El cargo de Gobernador prefiere a cualquier otro.
 
-II.- Un plano de localización que contenga descripción de la superficie, medidas y colindancias;
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 1995)</small>
 
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+Ningún individuo podrá ser registrado simultáneamente como candidato a dos cargos de elección popular.
 
-III.- El valor catastral y comercial;
-
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-IV.- En el caso de que el inmueble forme parte del fundo legal, se requerirá la certificación del Catastro del Estado, en la que conste que el solicitante no es propietario de algún inmueble en el Estado, ni su cónyuge o concubina, ni sus hijos menores de edad. Tratándose de persona física, el interesado bajo protesta de decir verdad, manifestará que dicho bien será destinado para casa habitación;
-
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-V.- Que la superficie no exceda de la necesaria para una vivienda de interés social; en los casos de los terrenos del fundo legal, estos tendrán una extensión mínima de 133 metros cuadrados y una máxima de 600 metros cuadrados.
-
-Se podrá exceder los límites antes previstos cuando se destine a otros usos de carácter social, preponderantemente a la generación de empleo y el desarrollo económico, procurando se les dé preferencia a los habitantes de los municipios, que deberán ser personas morales, legalmente constituidas;
-
-VI.- La constancia que suscrita por el Presidente Municipal y el Síndico, en la que se establezca que el bien inmueble no está ni será destinado a la prestación de un servicio público;
-
-VII.- La respectiva de que el inmueble no reviste valor arqueológico, histórico o artístico, expedida por la institución competente, e (sic)
-
-VIII.- Informar al Congreso de las enajenaciones autorizadas por el Cabildo en un plazo no mayor de treinta días;
-
-IX.- La contravención a lo dispuesto en este artículo, será causa de responsabilidad administrativa o penal, en su caso.
-
-#### SECCIÓN CUARTA. DE LA DONACIÓN
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 156.
 
-El Cabildo sólo podrá donar, los bienes de dominio privado, por acuerdo de las dos terceras partes de sus integrantes, cuando ésta sea a favor de instituciones públicas o privadas sin fines de lucro.
+Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable.
 
-El Cabildo establecerá los términos y condiciones que aseguren el mayor beneficio colectivo.
-
-La donación quedará sin efecto siempre y cuando:
-
-I.- El bien se utilice para un fin distinto al autorizado;
-
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-II.- La persona moral se disuelva o liquide;
-
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-III.- No se inicien y concluyan en el plazo aprobado por el Cabildo, los trabajos especificados; o
-
-> <small>(ADICIONADA, D.O. 10 DE FEBRERO DE 2009)</small>
-
-IV.- Sean enajenadas por cualquier título sin que haya transcurrido el término de quince años y pertenezcan a las tierras del fundo legal. En los contratos en que se enajenen bienes inmuebles que provengan del fundo legal, los fedatarios públicos deberán cerciorarse de lo establecido por esta disposición.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 157.
 
-Las enajenaciones de bienes muebles propiedad del Municipio se efectuarán en subasta pública, de acuerdo al procedimiento previsto en el reglamento correspondiente y a falta de éste, a lo establecido en el Código de Procedimientos Civiles del Estado de Yucatán, en lo conducente.
+Los diputados y los titulares de las dependencias básicas del Poder Ejecutivo al tomar posesión de su encargo, rendirán ante el Congreso, o en su caso ante la Diputación Permanente, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la misma fórmula y ante las autoridades o corporaciones que determinen las leyes.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE OBRAS Y SERVICIOS
-
-#### SECCIÓN PRIMERA. DE LA CONTRATACIÓN DE SERVICIOS
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 158.
 
-En los contratos de prestación de servicios de cualquier naturaleza, se estará a lo dispuesto en el Reglamento que para el efecto expida el Cabildo, en el cual se determinarán los requisitos, montos y condiciones de contratación.
+Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-A falta de reglamentación expresa, se estará a lo dispuesto en las Leyes de la materia.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 159.
 
-Se entiende como servicios conexos los contratados por el Ayuntamiento, para la realización de funciones específicas, especializadas y calificadas, que se requieran para la programación y realización de obras y servicios públicos. Tratándose de contratos que en su conjunto excedan en un ejercicio anual de cuatro mil salarios mínimos vigentes en el Estado, se requerirá autorización del Cabildo.
+No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado, y en sus recesos, a la Diputación Permanente; de lo contrario, será responsable personal y pecuniariamente.
 
-#### SECCIÓN SEGUNDA. De las Adquisiciones y Arrendamientos
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
 ###### Artículo 160.
 
-Las adquisiciones a título oneroso y arrendamientos de todo tipo de bienes muebles e inmuebles que se realicen, se llevarán a cabo mediante licitación pública, en la que se reciban en sobre cerrado las respectivas proposiciones. Su apertura se hará públicamente y se elegirá entre ellas, a la que presente mejores condiciones de precio, calidad, financiamiento, oportunidad, eficacia y solvencia económica, buscando el máximo beneficio colectivo.
+En el caso de la fracción V del artículo 76 de la Constitución Federal, asumirá el Poder Ejecutivo cualquiera de los funcionarios siguientes por el orden de designación:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+I.- El Presidente de la última Legislatura o el de la Diputación Permanente, si la disolución de los Poderes ocurriese estando ésta en funciones;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+
+II. El Secretario de Gobierno o el Oficial Mayor conforme a los artículos 57 y 61, fracción VI, de esta Constitución;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+III. El último Presidente del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+La persona que asuma el Poder Ejecutivo convocará desde luego a elecciones, sujetándose en lo posible a la forma y términos prescritos por esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 161.
 
-La convocatoria establecerá los términos, requisitos, montos, condiciones y demás especificaciones técnicas según el caso, a las que deberán atenerse los interesados.
+Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponda, sólo durarán en sus funciones el tiempo que les faltare para completar dicho período.
 
-No será necesaria la licitación para las adquisiciones o arrendamientos de bienes muebles y para la contratación de servicios, siempre que se trate de:
-
-I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil salarios mínimos diarios vigentes en el Estado, y
-
-II.- Operaciones mediante adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil salarios mínimos diarios vigentes en el Estado.
-
-El Cabildo establecerá el contenido de la convocatoria y demás disposiciones relativas, conforme al Reglamento que al efecto se expida, y a lo dispuesto en las Leyes en la materia.
-
-#### SECCIÓN TERCERA. DE LA OBRA PÚBLICA
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 162.
 
-Se considerará obra pública:
+Queda prohibida en el Estado de Michoacán la pena de muerte.
 
-I.- Los trabajos de construcción, remodelación, preservación, modernización, mantenimiento y demolición de inmuebles propiedad pública;
-
-II.- La que se requiera para la correcta prestación y atención de los servicios públicos y funciones municipales, y
-
-III.- Las demás que el Cabildo acuerde que por su naturaleza o destino, revistan valor arqueológico, histórico o artístico, y sean de interés público para sus localidades.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 163.
 
-Los contratos de obra pública que se realicen, se llevarán a cabo mediante licitación pública, en la que se reciban en sobre cerrado las respectivas proposiciones. Su apertura se hará públicamente y se elegirá entre ellas, a la que presente mejores condiciones de precio, calidad, financiamiento, oportunidad, eficacia y solvencia económica, buscando el máximo beneficio colectivo.
+Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los individuos que se apoderen tanto del Poder Ejecutivo de la Unión como del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia del Presidente de los Estados Unidos Mexicanos, que se hubiere obtenido por medio de la fuerza o de la coacción.
 
-#### SECCIÓN CUARTA. DE LA CONVOCATORIA
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
 
@@ -3215,113 +2087,47 @@ Los contratos de obra pública que se realicen, se llevarán a cabo mediante lic
 
 ###### Artículo 164.
 
-La convocatoria establecerá los términos, requisitos, montos, condiciones y demás especificaciones técnicas, a que deberán atenerse los interesados, misma que será publicada en la Gaceta Municipal y en alguno de los periódicos de mayor circulación en el Estado, al menos con treinta días previos a la realización de la licitación.
+Esta Constitución puede ser adicionada o reformada en cualquier tiempo, concurriendo los requisitos siguientes:
 
-En el día y hora señalados, se procederá a la apertura de los sobres que contengan las proposiciones, documentos necesarios y demás requisitos establecidos en la convocatoria, citándose a una reunión posterior, en la cual se dará a conocer la resolución definitiva por el Cabildo, en su caso.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-No será necesaria la licitación, siempre que se refieran a:
+I.- Que la proposición de adiciones o reformas, se haga por escrito y por quienes con arreglo a ella tienen derecho a iniciar leyes;
 
-I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil salarios mínimos diarios vigentes en el Estado, y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-II.- Operaciones por adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil salarios mínimos diarios vigentes en el Estado.
+II.- Que sea examinada por la Comisión respectiva del Congreso, la cual emitirá dictamen sobre si ha lugar a admitirla a discusión;
 
-El Cabildo establecerá el contenido de la convocatoria y demás disposiciones relativas, conforme al Reglamento que al efecto se expida, y a lo dispuesto en las Leyes en la materia.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-#### SECCIÓN QUINTA. DE LOS CONTRATOS DE OBRA PÚBLICA
+III.- Que el dictamen de adiciones o reformas se someta a discusión y se apruebe con el voto de la mayoría absoluta de los miembros del Congreso;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
+
+IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a discusión y aprobación de la mayoría de los Ayuntamientos Municipales del Estado;
+
+Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adición o reforma; y
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
+
+V.- Las adiciones o reformas que fueren aprobadas, se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 165.
 
-Los contratos de obra pública, deberán contener al menos, los siguientes requisitos:
+Esta Constitución no perderá su fuerza y vigor, aun cuando, por alguna rebelión o estado grave de emergencia, se interrumpa su observancia.
 
-I.- Descripción de su objeto;
-
-II.- Programa de ejecución;
-
-III.- Monto de la garantía;
-
-IV.- Precio y forma de pago;
-
-V.- Estipulación de las penas para el caso de incumplimiento, y
-
-VI.- Causas de suspensión y rescisión del contrato.
-
-###### Artículo 166.
-
-El Ayuntamiento, por conducto de la oficina o dependencia ejecutora tendrá la facultad de supervisar los avances de obra y el cumplimiento de las especificaciones técnicas, bajo la cual fue contratada, sin menoscabo de las funciones propias de control interno.
-
-### CAPÍTULO V. DEL ENDEUDAMIENTO
-
-#### SECCIÓN PRIMERA. DEL CONCEPTO
-
-###### Artículo 167.
-
-(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
-
-###### Artículo 168.
-
-(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
-
-###### Artículo 169.
-
-(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
-
-#### SECCIÓN SEGUNDA. DE LOS REQUISITOS
-
-###### Artículo 170.
-
-El Ayuntamiento podrá autorizar la contratación de financiamientos, siempre y cuando se cumplan los siguientes requisitos:
-
-I.- Que exista la capacidad financiera para contraer la deuda, en base al estado de resultados de ingresos y egresos que presente la Tesorería Municipal;
-
-II.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 2010)
-
-III.- Que esté contemplada en la respectiva Ley de Ingresos del ejercicio.
-
-#### SECCIÓN TERCERA. DEL FINANCIAMIENTO A LARGO PLAZO
-
-###### Artículo 171.
-
-Tratándose de los financiamientos de largo plazo, además de lo establecido en el artículo anterior se estará a lo siguiente:
-
-I.- Que sea aprobado por mayoría calificada;
-
-II.- Que el plazo de amortización para el pago de las obligaciones contraídas no exceda de quince años, y
-
-III.- Las demás que establezcan las leyes aplicables.
-
-###### Artículo 172.
-
-El Congreso del Estado autorizará anualmente en la Ley de Ingresos de los Municipios los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas de las dependencias y entidades que integran la Administración Pública Municipal.
-
-> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 173.
-
-El monto de endeudamiento neto aprobado en las respectivas leyes de ingresos será la base para la contratación de proyectos de inversión pública productiva que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos respectivo.
-
-###### Artículo 174.
-
-La contravención a lo dispuesto en este capítulo, será causa de responsabilidad administrativa o penal, en su caso.
-
-### CAPÍTULO VI. DE LA TRANSPARENCIA Y PUBLICIDAD
-
-###### Artículo 175.
-
-Las autoridades hacendarias competentes en atención al principio de transparencia, deberán:
-
-I.- Informar trimestralmente al Cabildo de la situación que guarda la deuda;
-
-II.- Publicar un informe con la misma periodicidad en la Gaceta Municipal o cualquier medio idóneo, e
-
-III.- Informar al Congreso del Estado, sobre la situación de su deuda en capítulo especial, al rendir la cuenta pública e incluir en el proyecto de Ley de Ingresos, el monto correspondiente, de conformidad con la Ley de Deuda Publica del Estado de Yucatán.
+Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
 
 ## Artículos Transitorios.
 
-###### Artículo 1.
+###### Artículo 1°.
 
-La presente Ley es de interés público y observancia general en el Estado de Yucatán, y tiene por objeto establecer las bases del gobierno municipal, así como la integración, organización y funcionamiento del Ayuntamiento, con sujeción a los mandatos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+Esta Constitución se publicará con la mayor solemnidad y comenzará a regir el día 5 de febrero del año en curso, fecha en la cual rendirán la protesta de ley ante la Legislatura, que para ese efecto se reunirá el Gobernador, los Magistrados Propietarios del Supremo Tribunal de Justicia del Estado y el Secretario General del Despacho.
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+Los demás Funcionarios y empleados protestarán al día siguiente ante las autoridades que corresponda.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1918)</small>
 
 ###### Artículo 2.
 
@@ -3337,77 +2143,29 @@ El actual período constitucional terminará para el Gobernador y los Magistrado
 
 El Congreso del Estado, el día primero de febrero del presente año se erigirá en Colegio Electoral para designar los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia.
 
-###### Artículo 4.
+###### Artículo 4°.
 
-Son habitantes de un Municipio, las personas que residan habitual o transitoriamente dentro de su territorio y están obligados a:
+Por esta única vez, la Legislatura se reunirá en sesiones ordinarias el día dos de abril del corriente año, y el período respectivo terminará el 31 de mayo del mismo año.
 
-I.- Cumplir con las leyes, el Bando de Policía y Gobierno, los reglamentos, circulares y disposiciones municipales de observancia general, vigentes;
+###### Artículo 5°.
 
-II.- Contribuir para los gastos públicos del Municipio de la manera que dispongan las leyes;
+El Estado de Michoacán de Ocampo se reserva los derechos que le otorga la Constitución General de la República, para rectificar sus límites con el Estado de Guerrero.
 
-III.- Prestar auxilio a las autoridades, cuando para ello sean requeridos legalmente;
+###### Artículo 6°.
 
-IV.- Asistir en los días y horas designados por el Cabildo, para recibir instrucción cívica y militar, de conformidad con los ordenamientos legales, y
+Se ratifican todas las leyes y los acuerdos dictados por la XXXVI Legislatura, desde el 10 de julio de 1917 hasta la fecha de esta Constitución.
 
-V.- Realizar sus actividades con respeto al interés público y el bienestar del Municipio.
+###### Artículo 7°.
 
-###### Artículo 5.
-
-Son vecinos de un Municipio, los habitantes que tengan cuando menos seis meses de residencia efectiva dentro de su jurisdicción territorial y, están obligados además de lo dispuesto en el artículo anterior, a:
-
-I.- Desempeñar los cargos concejales, en los términos que establezcan las leyes y los reglamentos respectivos;
-
-II.- Inscribirse, cada año en el Registro de Población, proporcionando los datos que se requieran, de conformidad con el reglamento municipal de la materia, y
-
-III.- Las demás que establezcan las Constituciones Federal y Estatal, las leyes del Estado y los reglamentos.
-
-###### Artículo 6.
-
-La calidad de vecino se pierde, por:
-
-I.- La manifestación expresa de residir en otro lugar, y
-
-II.- La ausencia del territorio municipal por más de seis meses.
-
-La declaración de pérdida de vecindad será hecha por el Cabildo, conforme al reglamento referido en el artículo anterior, asentándose en el Libro de Registro de Población del Municipio.
-
-No se perderá la vecindad cuando la ausencia se deba al desempeño de un cargo de elección popular o comisión de carácter oficial.
-
-###### Artículo 7.
-
-Los habitantes y vecinos de un Municipio, tendrán los derechos siguientes:
-
-I.- Utilizar los servicios públicos que preste el Municipio, de acuerdo con los requisitos que establezca esta Ley, los reglamentos municipales respectivos y demás ordenamientos legales;
-
-> <small>(REFORMADA, D.O. 17 DE AGOSTO DE 2011)</small>
-
-II.- Recibir atención basada en los principios de equidad y género y no discriminación por parte de las autoridades municipales en todo asunto relacionado con su calidad de habitante y ejercer el derecho de petición ante los servidores y funcionarios públicos municipales;
-
-III.- Recibir los beneficios de la obra pública que realice el Ayuntamiento;
-
-IV.- Recibir la educación básica y hacer que sus hijos y pupilos menores, la reciban en la forma prevista por las leyes;
-
-V.- Proponer ante las autoridades municipales las medidas o acciones que juzguen de utilidad pública;
-
-VI.- Participar en las actividades tendientes a promover el Desarrollo Municipal y el acceso a sus beneficios;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 17 DE AGOSTO DE 2011)</small>
-
-VII.- Recibir en igualdad de condiciones, oportunidad para el desempeño de empleo, cargo o comisión y el otorgamiento de contratos o concesiones municipales, siempre que no hubiere impedimento legal alguno;
-
-VIII.- Tener pleno acceso a la Información Pública Municipal en términos de la Ley de Acceso a la Información Pública para el Estado y Municipios de Yucatán, y
-
-IX.- Los demás que otorguen las Constituciones Federal y Estatal y las leyes del Estado.
-
-Además de los derechos previstos en este artículo, gozarán de las prerrogativas que establezca la legislación en materia de participación ciudadana.
+Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores con sus patrones o los familiares o intermediarios de éstos hasta la fecha de la presente Constitución.
 
 ###### Artículo 8°.
 
 El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
 
-###### Artículo 9.
+###### Artículo 9°.
 
-Las cuestiones que se susciten entre los Municipios sobre sus límites, se resolverán en los términos establecidos en la Constitución Política del Estado de Yucatán y la ley reglamentaria de la materia.
+La presente Constitución substituye a la del Estado expedida en 21 de enero de 1858.
 
 ###### Artículo 10.
 
@@ -3459,17 +2217,31 @@ Unico.- Esta Ley empezará a regir desde la fecha de su publicación en el Peri�
 
 P.O. 27 DE OCTUBRE DE 1947.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-Lo dispuesto en el presente Decreto entrará en vigor el día de la entrada en vigor de la Ley de Gobierno de los Municipios del Estado de Yucatán.
+Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para quedar debidamente hecha la reforma del artículo 93 de la misma, la presente reforma constitucional entrará en vigor 10 días después de la fecha de su publicación en el Periódico Oficial.
 
-D.O. 10 DE FEBRERO DE 2009.
+P.O. 30 DE OCTUBRE DE 1947.
 
-###### ARTICULO ÚNICO.
+Artículo 1° El primer domingo de diciembre del corriente año se elegirán Regidores por las Secciones impares, los cuales durarán en su cargo el período que comprende la citada reforma.
 
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+Artículo 2º Los ciudadanos que resulten electos por las Secciones pares del primer domingo de diciembre de 1948, durarán en su cargo solamente dos años.
 
-D.O. 17 DE AGOSTO DE 2011.
+Artículo 3º Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 16 DE AGOSTO DE 1954.
+
+###### ARTICULO UNICO.
+
+Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para la reforma del artículo 33 de la misma, este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 1 DE FEBRERO DE 1960.
+
+Artículo primero.- Esta Ley se publicará el primero de enero y entrará en vigor el cinco de febrero del año de 1960.
+
+Artículo segundo.- Salvo los transitorios, quedan derogados los demás artículos de la Constitución vigente que no estén incorporados a esta Ley, ya sea íntegros o reformados.
+
+P.O. 1 DE NOVIEMBRE DE 1962.
 
 ###### ARTICULO UNICO.
 
@@ -3537,7 +2309,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -3567,19 +2339,25 @@ UNICO. Este Decreto entrará en vigor a los 5 cinco días después de su publica
 
 P.O. 26 DE DICIEMBRE DE 1985.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor a los ciento veinte días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado.
+Las reformas y adiciones contenidas en el presente Decreto, son aprobadas por una sola Legislatura de conformidad con el artículo 164 fracción VII, de la Constitución Política del Estado.
 
-> <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
+###### ARTICULO SEGUNDO.
 
-###### ARTÍCULO SEGUNDO.
+En consecuencia, como lo dispone la fracción V del artículo 164 de la Constitución Política del Estado, estas reformas y adiciones deberán publicarse como ley constitucional.
 
-Se abroga la Ley Orgánica de los Municipios del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de fecha veinticinco de octubre de 1988 mediante Decreto Número 59.
+###### ARTICULO TERCERO.
 
-###### ARTÍCULO TERCERO.
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-La composición de los Ayuntamientos del Estado, prevista en esta Ley, será a partir del próximo proceso electoral local y del inicio del ejercicio constitucional 2007-2010.
+P.O. 12 DE FEBRERO DE 1987.
+
+PRIMERO. Este decreto entrará en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Conforme a lo que dispone la fracción VII del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, ténganse por aprobadas estas adiciones y reformas, por ser adecuaciones a la Constitución Política de los Estados Unidos Mexicanos, con la sola aprobación de la LXIV Legislatura.
+
+P.O. 11 DE ABRIL DE 1988.
 
 ###### ARTICULO UNICO.
 
@@ -3610,6 +2388,28 @@ UNICO. Este Decreto deberá imprimirse y publicarse con las reformas aprobadas.
 P.O. 8 DE FEBRERO DE 1993.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1994.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 1995.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para ser operante la presente reforma constitucional, se requiere adecuar los tiempos de este año de elección; por lo cual, la Sexagésima Sexta Legislatura prolongará sus funciones en el Congreso hasta el 15 de diciembre del presente año, de modo que se pueda articular con la fecha de instalación de la Sexagésima Séptima Legislatura a elegir el segundo domingo de noviembre del año actual.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado, por esta única ocasión , concluirá su período constitucional el día 15 de febrero de 1996, fecha en la que entrará a ejercer su cargo del Gobernador del Estado electo para el período Constitucional a iniciarse en esa fecha.
+
+CUARTO.- Para desahogar el trabajo legislativo propio de su competencia, la Legislatura actual en funciones lo hará bajo los mecanismos del artículo 32 de la Constitución vigente.
+
+QUINTO.- La revisión de la cuenta pública anual de 1994, dispuesta en el artículo 31 de la Constitución Política Local, por esta sola ocasión, se efectuará en sesión extraordinaria convocada para tal efecto por la actual Legislatura.
+
+SEXTO.- Los informes a cargo del Presidente del Supremo Tribunal de Justicia y del Titular del Poder Ejecutivo, según los numerales 33 y 78 de la Constitución Particular de Michoacán, serán rendidos en la nueva fecha que se contempla en la presente reforma constitucional.
+
+SEPTIMO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos del Estado para los efectos del artículo 164 fracción IV de la Constitución Política del Estado.
+
+OCTAVO.- Se derogan todas las disposiciones normativas y reglamentarias que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
