@@ -1,0 +1,1328 @@
+---
+title: "LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA"
+identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735"
+country: "mx"
+rank: "ley"
+publication_date: "2002-11-13"
+last_updated: "2002-11-13"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "26735"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "51"
+reform_count: "17"
+scjn_last_update: "2008-12-02"
+issue_date: "2002-11-12"
+state: "QUE"
+---
+# LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
+
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
+
+ING. IGNACIO LOYOLA VERA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
+
+LA QUINCUAGESIMA TERCERA LEGISLATURA DEL ESTADO DE QUERETARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 40 Y 41 FRACCIONES II Y XXXI DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, Y......EXPIDE LA SIGUIENTE:
+
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO ARTEAGA
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 1.
+
+La presente Ley es de observancia general, tiene por objeto regular la Hacienda Pública de los municipios del Estado de Querétaro y la totalidad de sus ingresos por los conceptos contenidos en la presente Ley.
+
+###### Artículo 2.
+
+Son competentes para la aplicación de la presente Ley: los Ayuntamientos de los Municipios del Estado, por conducto del Encargado de las Finanzas Públicas Municipales.
+
+###### Artículo 3.
+
+La iniciativa de Ley de Ingresos del Municipio se formulará de conformidad a lo establecido en la presente Ley, la Ley para el Manejo de los Recursos Públicos del Estado, la Ley Orgánica Municipal del Estado de Querétaro y las demás aplicables.
+
+###### Artículo 4.
+
+Para los casos no contemplados expresamente en las disposiciones de esta Ley se aplicará supletoriamente lo dispuesto en la Código Fiscal del Estado de Querétaro y sus Municipios, cuando la aplicación supletoria, no sea contraria a dicho ordenamiento.
+
+Para efectos de esta Ley, cada vez que se mencione Código Fiscal, se entenderá al Código Fiscal del Estado de Querétaro y sus Municipios.
+
+###### Artículo 5.
+
+Las normas legales hacendarias que establezcan las obligaciones a cargo de los particulares serán de aplicación estricta.
+
+###### Artículo 6.
+
+Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas de conformidad con el Código Fiscal.
+
+###### Artículo 7.
+
+Para efectos de la presente Ley las siglas VSMGZ se entenderán como Veces Salario Mínimo General Vigente de la Zona.
+
+###### Artículo 8.
+
+Ningún gravamen podrá imponerse o recaudarse si no está previsto en la correspondiente Ley de Ingresos.
+
+###### Artículo 9.
+
+Las obligaciones tributarias se originan cuando se realicen los hechos o circunstancias a los cuales las Leyes condicionan su nacimiento; aún cuando esos hechos o circunstancias impliquen infracción a otras Leyes o reglamentos; pero sin que este cobro legitime, en forma alguna, tales actividades.
+
+###### Artículo 10.
+
+Son Leyes y disposiciones Fiscales de los Municipios del Estado de Querétaro:
+
+I.- La presente Ley
+
+II.- La Ley de Ingresos de cada Municipio.
+
+III.- El Presupuesto de Egresos de cada Municipio.
+
+IV.- La Ley para el manejo de los recursos públicos del Estado de Querétaro
+
+V.- Los que establezcan o reglamenten algún ingreso previsto en la Ley respectiva y también los que organicen los servicios administrativos necesarios para la recaudación, distribución y control de los ingresos de los Municipios.
+
+VI.- Los que establezcan recursos administrativos en contra de resoluciones fiscales que tengan relación con la Hacienda Pública de los Municipios.
+
+VII.- La Ley Orgánica Municipal del Estado de Querétaro, en su parte relativa, y
+
+VIII.- Los Reglamentos Municipales en su parte relativa.
+
+###### Artículo 11.
+
+Los ingresos a que esta Ley se refiere, únicamente podrán ser adicionados, reformados o derogados por la Legislatura del Estado.
+
+###### Artículo 12.
+
+Los Ayuntamientos organizarán en sus respectivas jurisdicciones territoriales, la recaudación de sus distintos ingresos.
+
+###### Artículo 13.
+
+Los Presidentes Municipales serán solidariamente responsables con los Titulares de las Dependencias Encargadas de las Finanzas Públicas Municipales, respecto de la vigilancia y control que deben ejercer para lograr la mayor recaudación en sus jurisdicciones y también para conseguir que los Ayuntamientos obtengan las percepciones que legítimamente les correspondan.
+
+###### Artículo 14.
+
+Ningún Ayuntamiento podrá intervenir o interferir en forma alguna, en las funciones hacendarias de otro Ayuntamiento. La infracción de esta disposición será causal de responsabilidad en los términos de las Leyes respectivas.
+
+###### Artículo 15.
+
+Es obligación de todas las personas físicas o morales con actividad empresarial o económica, sin excepción, empadronarse en la Dependencia Encargada de las Finanzas Públicas Municipales de su jurisdicción, en los términos de esta Ley.
+
+## TITULO SEGUNDO. DE LA HACIENDA DE LOS MUNICIPIOS
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 16.
+
+La Hacienda Pública de los Municipios del Estado de Querétaro, para erogar los gastos de la administración y las demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, que principia el día primero de enero y termina el día 31 de diciembre de cada año, los impuestos, derechos, productos, aprovechamientos e ingresos extraordinarios que procedan sujetándose a los principios generales establecidos en esta Ley.
+
+Igualmente tendrán derecho los Municipios a percibir las participaciones y aportaciones que a los Municipios otorguen el Gobierno del Estado y el Gobierno Federal.
+
+###### Artículo 17.
+
+La Ley de Ingresos de los Municipios del Estado de Querétaro establecerá anualmente el monto de los derechos, impuestos, productos, aprovechamientos e ingresos extraordinarios, así como las participaciones y aportaciones que tengan derecho a percibir.
+
+###### Artículo 18.
+
+Para clasificación, registro y manejo de Bienes se estará a lo establecido en la Ley de Bienes del Estado de Querétaro y sus Municipios y demás ordenamientos aplicables.
+
+## TÍTULO TERCERO. DE LOS IMPUESTOS
+
+### CAPÍTULO PRIMERO. DEL IMPUESTO PREDIAL
+
+###### Artículo 19.
+
+En lo relativo a este impuesto se estará a lo establecido en la Ley del Impuesto Predial de los Municipios del Estado de Querétaro.
+
+### CAPÍTULO SEGUNDO. DEL IMPUESTO SOBRE TRASLADO DE DOMINIO
+
+###### Artículo 20.
+
+Están obligados al pago del Impuesto Sobre Traslado de Dominio de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en territorio del Estado de Querétaro, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa del 1.6% al valor del inmueble.
+
+###### Artículo 21.
+
+En las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en esta Ley, se concederá una deducción de 15 VSMGZ elevado al año en la base de los impuestos de los inmuebles de interés social y popular, únicamente cuando se trate de la primera adquisición de los mismos.
+
+###### Artículo 22.
+
+Para los efectos de esta Ley, se considera inmueble de interés social aquel cuyo valor total no exceda de 20 VSMGZ elevado al año y por inmueble de interés popular aquel cuyo valor total no exceda de 30 VSMGZ elevado al año.
+
+###### Artículo 23.
+
+Para los efectos de esta Ley, se entiende por traslación de dominio de inmuebles la que derive de:
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones y sociedades;
+
+II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
+
+III.- El contrato en el que se pacte que el futuro comprador entra en posesión de los bienes o que el futuro vendedor reciba el precio de la venta o parte de él, antes de que se formalice el contrato prometido;
+
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
+
+V.- La fusión y escisión de sociedades;
+
+VI.- El pago en especie, independientemente del acto jurídico que lo origine;
+
+VII.- La constitución de usufructo, transmisión de éste entre vivos, o de la nuda propiedad, así como la extinción de usufructo temporal;
+
+VIII.- La adquisición de inmuebles por prescripción;
+
+IX.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles;
+
+Se considerará cesión de derechos hereditarios la renuncia o repudiación de la herencia o legado efectuada después de la declaratoria de herederos o legatarios, cuando se incrementen las porciones de los coherederos o legatarios, así como el repudio o cesión de derechos hereditarios hecha en favor de persona determinada cuando se realice antes de la declaratoria de herederos o legatarios;
+
+X.- La adquisición por medio de fideicomiso, en los siguientes casos:
+
+a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b) El acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+XI.- En la cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a) El acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b) El acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+XII.- La división de la copropiedad y la constitución o disolución de la sociedad conyugal, así como la modificación de las capitulaciones matrimoniales, por la parte que se adquiera en demasía del porcentaje que le corresponda al copropietario o cónyuge;
+
+XIII.- La adquisición a través de permuta, caso en el que se considerará que se efectúan dos adquisiciones;
+
+XIV.- La adquisición de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo, y
+
+XV.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato por mutuo acuerdo, o la reversión en caso de expropiaciones.
+
+###### Artículo 24.
+
+No se causa el impuesto a que se refiere este capítulo:
+
+I.- En las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio Público;
+
+II.- En las adquisiciones de inmuebles que hagan los partidos políticos nacionales y estatales, siempre y cuando dichos inmuebles sean para la sede principal de sus instalaciones oficiales;
+
+III.- En las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, si dicho impuesto se cubrió cuando adquirió la arrendadora como acto necesario para la realización del contrato;
+
+IV.- En las adquisiciones de inmuebles fideicomitidos que hagan los fideicomisarios al extinguir el fideicomiso en los términos del contrato de fideicomiso, si dicho impuesto se cubrió, por cuenta del fideicomisario cuando adquirió la fiduciaria;
+
+V.- En la transmisión del usufructo que se de por causa de muerte;
+
+VI.- En la adquisición de propiedad por sucesión, siempre que se realice entre cónyuges, ascendientes y descendientes en línea recta, sin limitación de grado y que dicho inmueble sea única propiedad del autor de la sucesión.
+
+VII.- En la transmisión de propiedad que se realice al constituir o disolver el patrimonio familiar, así como al modificar las capitulaciones matrimoniales, con la salvedad que se hace en la fracción XII del Artículo 23 de esta Ley.
+
+VIII.- En las adquisiciones de inmuebles que hagan las Instituciones de Asistencia Privada con domicilio en el Estado, siempre y cuando se encuentren constituidas conforme a la Ley que las regula.
+
+###### Artículo 25.
+
+Será base gravable de este impuesto el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial a la fecha de operación, determinado por el avalúo bancario practicado por la institución autorizada o valuador facultado conforme a la Ley, mismo que deberá anexarse como parte integrante del aviso traslativo de dominio de la operación de que se trate.
+
+Cuando no se pacte precio, el impuesto se calculará tomando en cuenta lo anterior. En la constitución, adquisición o extinción del usufructo o la nuda propiedad se estará también a lo dispuesto en el primer párrafo de este Artículo, debiendo en todo caso realizarse el avalúo bancario o fiscal ahí mencionado.
+
+En la adquisición de bienes por remate, el avalúo deberá referirse a la fecha en que quede firme la operación del mismo.
+
+###### Artículo 26.
+
+Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias de impuestos que resulten.
+
+###### Artículo 27.
+
+Cuando el impuesto no se hubiere pagado dentro de su plazo ordinario legal, éste se actualizará multiplicándolo por el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se realice el pago, entre el mencionado índice correspondiente al mes anterior a aquél en que se efectúe la adquisición.
+
+###### Artículo 28.
+
+Para fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos del 50% del valor de la propiedad.
+
+###### Artículo 29.
+
+Cuando los avalúos sean referidos a una fecha anterior a aquella en que se practiquen, se procederá conforme a lo siguiente:
+
+a) Se determinará el valor del bien a la fecha en que se practique el avalúo, aplicando en su caso, las bases que al efecto expidan las autoridades municipales competentes.
+
+b) La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se practique el avalúo entre el índice del mes al cual es referido el mismo; si el avalúo es referido a una fecha en que no se disponga del dato del índice nacional de precios al consumidor, dicha cantidad se dividirá entre el factor que corresponda, según el número de años transcurridos entre la fecha a la cual es referido el avalúo y la fecha en que se practique, de acuerdo a la tabla que de a conocer para tales efectos la Secretaría de Hacienda y Crédito Público.
+
+c).- El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
+
+###### Artículo 30.
+
+Para lo señalado en este capítulo, los peritos valuadores deberán estar autorizados conforme a la Ley y serán responsables del contenido de sus avalúos.
+
+###### Artículo 31.
+
+El pago del impuesto deberá hacerse dentro de los 15 días hábiles siguientes a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando el acto se eleve a escritura pública, el plazo comenzará a contarse a partir de que el acto quede perfeccionado con la firma de los otorgantes, razón por la cual los Notarios están obligados a dejar constancia del día y hora en que se realice la firma;
+
+II.- A los tres años de la muerte del autor de la sucesión si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos últimos casos, el impuesto correspondiente a la adquisición por causas de muerte, se causará en el momento en que se realice la cesión o la enajenación independientemente del que se cause por el cesionario o por el adquirente;
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomisos cuando se realicen los supuestos de adquisición a que se refiere la fracción X del Artículo 23 de la presente Ley;
+
+IV.- A los tres meses de que haya quedado firme la resolución judicial de prescripción positiva o información de dominio;
+
+V.- Cuando se constituya o adquiera el usufructo o la nuda propiedad;
+
+VI.- Tratándose de adjudicaciones por remate, a los seis meses posteriores a la fecha en que haya quedado firme la resolución que apruebe el remate en cuestión;
+
+VII.- A la fecha del contrato por el que se realice la transmisión de propiedad o derechos sobre la misma, por cualquier documento de carácter privado, en la que conste cualquiera de los supuestos referidos en el artículo 23;
+
+VIII.- En los contratos en los que la condición suspensiva consista en el otorgamiento de un crédito para adquisición, que celebre con instituciones bancarias o financieras, organismos públicos o similares; el momento en que se firme la escritura pública de adquisición.
+
+###### Artículo 32.
+
+La Dirección de Catastro del Estado o de los Municipios dispondrá de un plazo de siete días hábiles después de haberse presentado el aviso traslativo de dominio para resolver sobre la aceptación o no aceptación del valor de la propiedad manifestado para efectos de pago del impuesto. De no resolver lo conducente, dentro del plazo señalado, se tendrá por autorizado en definitiva el valor de la propiedad manifestado para efectos del pago del impuesto, siempre que se hubiere presentado el aviso de la escritura de que se trate en forma completa dentro de los quince días hábiles siguientes a la fecha de la citada escritura.
+
+###### Artículo 33.
+
+En los casos en que la operación traslativa de dominio que implique la realización de otras operaciones catastrales, tales como manifestación de nuevas construcciones o ampliaciones, subdivisiones, fusiones de terreno o cualesquiera otra que implique cambios en la superficie física de terreno o de construcciones registradas en los archivos catastrales, el plazo para emitir la resolución por parte de la Dirección de Catastro del Estado o de los Municipios, será de quince días hábiles contados a partir de la presentación del aviso traslativo de dominio o de veintiún días hábiles en el caso de que la operación catastral simultánea se trate del registro de un fraccionamiento o condominio.
+
+###### Artículo 34.
+
+En las adquisiciones que se hagan constar en escritura pública los notarios, jueces y demás fedatarios que por disposición legal tengan funciones notariales, así como en las ratificaciones de cualquier acto o contrato que implique traslación de dominio, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaración en la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate; sin este requisito no se podrá autorizar definitivamente dicha escritura. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto por enterar.
+
+Los fedatarios no estarán obligados a enterar el impuesto sobre Traslado de Dominio cuando no haya sido expensado por alguna de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago. En el primer caso, deberán dar aviso de la operación a la autoridad municipal que corresponda dentro de los quince días hábiles siguientes a la firma de la escritura.
+
+El enajenante y el adquirente responden solidariamente del impuesto que se deba pagar.
+
+Cuando por el avalúo practicado, ordenado o tomado en consideración por la Dependencia Encargada de las Finanzas Públicas Municipales, resulte liquidación, por diferencias de impuestos, los fedatarios no serán responsables solidarios por las mismas y las partes deberán cubrir dichas diferencias dentro de un plazo de quince días naturales a partir de la fecha en que se les notifique a ellos o a quien los represente.
+
+###### Artículo 35.
+
+Los causantes de este impuesto presentarán en la Dependencia Encargada de las Finanzas Públicas de la demarcación correspondiente, o donde en su caso lo prevenga la Ley de Ingresos, una declaración o aviso que contendrá:
+
+I.- Los nombres y domicilios de los contratantes o del adquirente en su caso;
+
+II.- Fecha en que se extendió la escritura pública y su número, fecha de la celebración del contrato privado o fecha de la resolución administrativa, judicial o de cualquiera otra autoridad competente, y fecha en que fue declarada firme en su caso;
+
+III.- Nombre del notario ante quien se haya extendido la escritura, mención de que se trata de contrato privado o indicación de que autoridad dictó la resolución;
+
+IV.- La naturaleza o concepto del acto jurídico que se trate;
+
+V.- Identificación del inmueble, señalando su ubicación, nomenclatura si la tiene, superficie, linderos y nombre de los colindantes;
+
+VI.- Antecedentes de propiedad o de posesión del inmueble en el Registro Público de la Propiedad;
+
+VII.- Valor gravable conforme a las disposiciones contenidas en este Capítulo;
+
+VIII.- Clave catastral o en su defecto, número de cuenta con que se pague el impuesto predial por el inmueble;
+
+IX.- Monto del impuesto y su actualización y recargos si fuere el caso.
+
+Las personas físicas o morales que se dediquen, sea por su objeto social o por su actividad preponderante, a la realización de operaciones traslativas de dominio de inmuebles, tendrán la obligación de presentar a la Dependencia Encargada de las Finanzas Públicas Municipales, un aviso mensual que contenga la relación pormenorizada de los actos y contratos traslativos de dominio que hayan celebrado en el mes, debiendo precisar los datos a que se refiere este Artículo y acompañar copia de los documentos respectivos. Esta obligación se cumplirá dentro de los quince días siguientes al mes en que se hubieren llevado a cabo las operaciones indicadas. Para el caso de que en el periodo de referencia no se hubiere celebrado operación alguna, así deberán manifestarlo los obligados.
+
+Las personas morales que tengan como objeto social principal la compraventa de inmuebles y dichos inmuebles los adquieran solamente para formar parte de su activo fijo, podrán solicitar de la Dependencia Encargada de las Finanzas Públicas Municipales que se les exima de la obligación consignada en el párrafo anterior respecto de dichos inmuebles.
+
+###### Artículo 36.
+
+Las declaraciones deberán ser firmadas y acompañadas de los documentos, en su caso como se establece en las siguientes fracciones:
+
+I.- Si el acto o contrato traslativo de dominio se hace constar en escritura pública, la declaración será firmada por el notario que la hubiera autorizado;
+
+II.- Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada por cualquier interesado y se deberá acompañar de cuatro copias del contrato privado;
+
+III.- En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia en su caso, de la fecha en que fue declarada firme;
+
+IV.- Deberá acompañarse a la declaración, además de los documentos señalados en las fracciones I y II anteriores, la constancia de estar al corriente en el pago del impuesto predial o cualesquiera otro gravamen fiscal derivados de los bienes inmuebles, en los términos de esta Ley y otros ordenamientos fiscales del Estado;
+
+V.- El avalúo a que se refiere el primer párrafo del Artículo 25, salvo el caso de que se trate de ventas realizadas por las personas a que se refieren los dos últimos párrafos del Artículo 35 y cumplan con las obligaciones ahí establecidas;
+
+VI.- Cuando la Dependencia Encargada de las Finanzas Públicas estime necesario, podrá solicitar de los Notarios o de los declarantes, que le proporcionen una copia autorizada del documento en que se hubiere hecho constar el acto o contrato de que se trate, y
+
+VII.- Las oficinas de la Dependencia Encargada de las Finanzas Públicas recibirán las declaraciones y demás documentos tal y como se presenten sin hacer observaciones ni objeciones, y entregarán como constancia de pago el recibo oficial por el monto de la liquidación determinada.
+
+###### Artículo 37.
+
+Las declaraciones a que se refieren los Artículos anteriores se harán en los formatos que para tal efecto se aprueben oficialmente. La Dependencia Encargada de las Finanzas Públicas esta facultada para comprobar la veracidad de los datos de las declaraciones, los causantes están obligados a cubrir las diferencias que resulten, sin perjuicio de las sanciones que deban aplicarse por la falsedad de sus declaraciones, salvo el caso establecido en el último párrafo del Artículo 34 de esta Ley.
+
+Cuando las declaraciones sean formuladas por un Notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la Dependencia Encargada de las Finanzas Públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que por lo mismo obren en el protocolo del Notario, con la consecuencia de que una vez exhibidos la Dependencia Encargada de las Finanzas Públicas no podrá negar el empadronamiento respectivo, salvo por discrepancia con la declaración.
+
+En todo caso, los inmuebles a que se refieran las declaraciones a que se refieren los Artículos 36 y 37 deberán ser empadronados por la Dependencia Encargada de las Finanzas Públicas para su entrega a los interesados junto con los recibos de pago generados, en un plazo de quince días hábiles contados a partir de la fecha en que se hubiesen presentado. En caso de no resolver dentro del plazo señalado, se tendrán por empadronados las (sic) inmuebles y por autorizados en definitiva los pagos realizados con motivo de dicho acto o contrato traslativo de dominio, y si con posterioridad al mencionado plazo surgieran diferencias en los pagos realizados o discrepancias en la declaración, estos no causarán responsabilidad alguna para el contribuyente ni para el fedatario.
+
+###### Artículo 38.
+
+La consulta escrita en relación a la base gravable del impuesto que se formule a la Dependencia Encargada de las Finanzas Públicas por los Notarios o por los interesados, cuando se trate de contratos privados, deberá resolverse dentro de los diez días hábiles siguientes a la fecha de su presentación, sin que con esto interrumpa el plazo para su pago.
+
+###### Artículo 39.
+
+Los encargados del Registro Público de la Propiedad no inscribirán los actos jurídicos a que se refieren los Artículos anteriores sin que se les compruebe haber realizado el pago del impuesto de traslación de dominio.
+
+### CAPÍTULO TERCERO. IMPUESTO SOBRE FRACCIONAMIENTOS, CONDOMINIOS Y SUBDIVISIÓN DE PREDIOS
+
+###### Artículo 40.
+
+Es objeto de este impuesto la realización de subdivisiones de terrenos urbanos, en los términos del Código Urbano para el Estado de Querétaro y demás disposiciones aplicables, así como la realización de fraccionamientos y condominios en los términos de dichos ordenamientos.
+
+###### Artículo 41.
+
+Son sujetos de este impuesto las personas físicas o morales que efectúen subdivisiones de terrenos, fraccionamientos, condominios o relotificaciones de predios urbanos, previo el cumplimiento de las disposiciones establecidas en el Código Urbano para el Estado de Querétaro.
+
+El adquirente de un terreno resultante de una subdivisión será responsable solidario del pago de dicho impuesto.
+
+###### Artículo 42.
+
+Para el caso de las subdivisiones, se entiende que se está obligado al pago de este impuesto una vez que obtenidas las autorizaciones legales correspondientes se realicen total o parcialmente los actos jurídicos tendientes a individualizar una porción del todo.
+
+El plazo para realizar el pago de este impuesto estará sujeto a las mismas reglas que para el Impuesto sobre Traslado de dominio se establecen en el Artículo 31 de esta Ley.
+
+Cuando de las autorizaciones respectivas se desprenda que resultan diversas fracciones, se podrá optar por realizar el pago de todas ellas en una sola exhibición o bien el realizar el pago por cada fracción conforme se vayan enajenando.
+
+###### Artículo 43.
+
+El impuesto por fraccionamientos y condominios se calculará aplicando la tasa que anualmente señale la Ley de Ingresos del Municipio de que se trate, tomando como base el valor que resulte mayor entre el valor comercial, catastral o de operación.
+
+El impuesto por subdivisión de inmuebles se calculará aplicando al valor de la fracción objeto de la subdivisión, una tasa equivalente al 50% de la que se fije para calcular el pago del impuesto de traslación de dominio.
+
+###### Artículo 44.
+
+Para los efectos de este capítulo, se entiende por:
+
+División o Fraccionamiento: La separación real o legal de una o más porciones pertenecientes a un predio.
+
+Habrá división real de un inmueble cuando se realicen total o parcialmente obras materiales tendientes a individualizar una porción del todo, con el propósito de explotar su uso por un tercero.
+
+Habrá división legal de un inmueble, cuando se celebre cualquier acto o contrato que implique enajenación de una o más porciones del mismo.
+
+###### Artículo 45.
+
+Para determinar el valor del inmueble se estará en lo conducente, a lo dispuesto por los Artículos 27 al 30 de esta Ley.
+
+###### Artículo 46.
+
+El Impuesto a que se refiere este capítulo se causa con base en la clasificación de fraccionamientos y condominios establecida en el Código Urbano del Estado de Querétaro.
+
+### CAPÍTULO CUARTO. DEL IMPUESTO DE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+
+###### Artículo 47.
+
+El Impuesto Sobre Diversiones y Espectáculos Públicos, se pagará invariablemente por adelantado en la Dependencia Encargada de la (sic) Finanzas Públicas que corresponda.
+
+###### Artículo 48.
+
+Cuando se trate de diversiones y espectáculos públicos temporales o transitorios, el impuesto se cubrirá simultáneamente con el pago de los derechos de la licencia que ampare su funcionamiento, expedida por la autoridad municipal.
+
+Para los efectos de esta Ley se considerarán diversiones o espectáculos públicos temporales o transitorios, todos aquellos cuya duración no exceda de treinta días, en el territorio del municipio correspondiente.
+
+###### Artículo 49.
+
+En los casos de espectáculos públicos permanentes, los Ayuntamientos podrán celebrar los convenios o arreglos que procedan y estimen convenientes, sobre las bases de una cuota mensual fija, cuyo monto se determinará tomando en cuenta entre otros, los factores siguientes:
+
+I.- La importancia de la población o localidad en donde se lleve a cabo el espectáculo.
+
+II.- La capacidad y categoría de la sala o el lugar donde el espectáculo se realice.
+
+III.- La periodicidad de las funciones.
+
+###### Artículo 50.
+
+El Presidente Municipal o la Dependencia Encargada de las Finanzas Públicas Municipales cuando lo estime conveniente, nombrará el o los inspectores necesarios para vigilar el cumplimiento de las disposiciones legales, con cargo a las empresas o promotores de espectáculos o diversiones públicas.
+
+### CAPÍTULO QUINTO. DEL IMPUESTO PARA EDUCACIÓN Y OBRAS PÚBLICAS MUNICIPALES
+
+###### Artículo 51.
+
+Es objeto de este Impuesto la realización de pagos por concepto de impuestos y derechos que establezca esta Ley.
+
+###### Artículo 52.
+
+Son sujetos de este impuesto todos aquellos que realicen los pagos a que se refiere el artículo anterior, siendo la base de este impuesto el monto total de pagos por concepto de impuestos y derechos municipales.
+
+###### Artículo 53.
+
+Este impuesto se causará y pagará a razón de una cantidad equivalente al 25% sobre su base.
+
+###### Artículo 54.
+
+El pago de este impuesto se hará en el momento en que se realicen los pagos de impuestos y derechos.
+
+## TÍTULO CUARTO. DE LOS DERECHOS
+
+### CAPÍTULO PRIMERO. DE LAS LICENCIAS
+
+###### Artículo 55.
+
+Para el funcionamiento de toda clase de giros mercantiles o industriales, o de cualquier índole que traten de establecerse y operar en la jurisdicción de los diferentes Municipios, deberán contar con Licencia inicial, la que se expedirá por los Municipios, sin cobro alguno. Si una negociación opera en varios Municipios, deberá estar amparada por licencia de cada uno de ellos.
+
+###### Artículo 56.
+
+Las licencias de funcionamiento de todos los establecimientos mercantiles, industriales o de cualquier otra índole que funcionen en la jurisdicción de los diferentes Municipios, serán vigencia anual, sin cobro alguno. Si una negociación opera en varios Municipios deberá contar con su licencia en cada uno de ellos.
+
+###### Artículo 57.
+
+Para el ejercicio de las actividades siguientes, se requerirá licencia sin cobro alguno:
+
+a) Billeteros.
+
+b) Boleros.
+
+c) Vendedores ambulantes.
+
+d) Fotográfos ambulantes, exluyendo los de prensa.
+
+e) Músicos ambulantes.
+
+f) Fijadores de anuncios.
+
+g) Otras actividades semejantes a las anteriores.
+
+###### Artículo 58.
+
+Para llevar a cabo las actividades que se enumeran a continuación, los interesados deberán contar con la licencia de funcionamiento correspondiente,
+
+I.- Sin cobro:
+
+a) La celebración de bailes, gallos, serenatas, ferias populares, kermesses y otras fiestas similares, así como para la quema de fuegos artificiales.
+
+b) Para el funcionamiento de aparatos fono electromecánicos, electrónicos y otros accionados por monedas o fichas.
+
+c) Para el funcionamiento durante horas extraordinarias de los diferentes negocios o giros o bien, de funcionamiento dominical o días feriados.
+
+d) Para el funcionamiento eventual de equipos de sonido para anuncios o propaganda comercial.
+
+II.- Con Cobro:
+
+a) La venta eventual de bebidas embriagantes.
+
+b) Para funcionar en los mercados municipales o en las zonas de mercados que se establezcan, o en la vía pública.
+
+c) Para anuncios y promociones publicitarias que se fijen gráficamente o en cualquier forma que no sea por sonido, en las calles o en los exteriores de los edificios o en sus azoteas.
+
+###### Artículo 59.
+
+Para el uso de fierros quemadores, los interesados deberán registrarse, así como contar con la licencia correspondiente sin cobro alguno.
+
+###### Artículo 60.
+
+Para los efectos de esta Ley, se considerarán como comerciantes ambulantes a todos los que, sin tener establecimiento fijo, verifiquen operaciones de comercio.
+
+###### Artículo 61.
+
+Las licencias municipales se otorgarán previa solicitud del interesado, presentada ante la Dependencia Encargada de las Finanzas Públicas Municipales y deberá contener los siguientes datos:
+
+I.- Razón social, nombre y dirección del solicitante.
+
+II.- Giro del negocio que pretenda establecer o se encuentre ya establecido.
+
+III.- Domicilio del negocio y,
+
+IV.- En general, todos los demás datos que sirvan para formar un conocimiento claro y exacto del giro o establecimiento, facultándose a la Dependencia Encargada de las Finanzas Públicas Municipales recabe y verifique los datos informativos que a su juicio sean necesarios.
+
+###### Artículo 62.
+
+Las solicitudes de licencias municipales para diversiones y espectáculos públicos, además de los requisitos solicitados en el artículo anterior de esta Ley deberán, presentar los datos siguientes:
+
+I.- Clase de espectáculo
+
+II.- Lugar, fecha y hora en que deberá verificarse.
+
+III.- Clasificación de las localidades, con la expresión del número máximo de espectadores que pueden acomodarse en cada una de ellas.
+
+###### Artículo 63.
+
+Las solicitudes de licencias municipales para rifas, loterías y demás juegos permitidos por la Ley, deberán contener, además de los determinados en el artículo 62, los siguientes:
+
+I.- Lugar en donde se llevará a cabo la lotería o rifa, o en donde operarán los juegos que pretendan establecerse.
+
+II.- Fecha de la celebración de la lotería o rifa, o de las funciones de que se trate, y
+
+III.- En su caso:
+
+a) Número y valor de los boletos, certificados o constancias que se otorguen, si se trata de lotería o rifa;
+
+b) Importe de la entrada al espectáculo, si se trata de juegos permitidos por la Ley.
+
+c) Número de mesas de billar o boliches que se pretenda explotar e importe de la cuota que se cobrará por hora y
+
+d) Número de mesas de juegos mecánicos, electromecánicos o de aparatos fonoelectromecánicos e importe que se cobrará por accionarlos.
+
+La autoridad municipal en todos los casos relacionados con loterías, rifas y juegos permitidos por la Ley, como requisito indispensable para el otorgamiento de la licencia municipal, exigirá la presentación de la autorización o permiso otorgado por la Secretaría de Gobernación.
+
+###### Artículo 64.
+
+Para el otorgamiento de licencia municipal de funcionamiento de establecimientos donde se expendan bebidas embriagantes o para la revalidación de sus licencias, la autoridad municipal requerirá previamente la licencia sanitaria, cuando ésta no se encuentre prohibida por disposición de orden federal y, además, sólo se concederá para aquellos giros que se encuentren cuando menos a más de 500 metros de distancia de escuelas, templos o centros de trabajo, debiendo además cumplimentarse las demás obligaciones establecidas en las Leyes estatales.
+
+###### Artículo 65.
+
+Recibida la solicitud para el otorgamiento o revalidación de la licencia municipal de funcionamiento, el Encargado de las Finanzas Públicas Municipales ordenará la práctica de una visita de inspección al negocio de que se trate, con objeto de:
+
+I.- Verificar los datos asentados en la solicitud.
+
+II.- Determinar el ramo, giro, artículos, efectos y servicios motivo de la negociación, que proceda gravar en su caso con impuestos y/o derechos.
+
+III.- Si se han cumplido todos y cada uno de los requisitos, de los reglamentos y de las disposiciones legales que regulen o controlen el funcionamiento de los diferentes negocios.
+
+Con el resultado de la visita de inspección y tratando de salvaguardar en todo los intereses de la sociedad, se concederá o negará el otorgamiento o la revalidación de la licencia solicitada.
+
+###### Artículo 66.
+
+Las licencias que se concedan tendrán vigencia durante el tiempo que en las mismas se señala, siempre y cuando subsista la misma situación del giro mercantil, industrial, comercio ambulante o negociación de cualquier otra índole; ya que en caso de traslado, traspaso, cambio de giro, deberá solicitarse nueva licencia.
+
+Las licencias para el ejercicio de actividades permanentes deberán ser revalidadas anualmente, a petición de los interesados, por la autoridad municipal que las concedió, previo el pago de derechos en caso de ser aprobado el refrendo.
+
+###### Artículo 67.
+
+Para la revalidación de las licencias, que deberá hacerse precisamente en el curso del mes de enero de cada año, se tomará en cuenta la inspección que debe de practicarse al establecimiento de que se trate, por conducto de la dependencia encargada de las finanzas públicas municipales, en caso de que ésta lo estime conveniente.
+
+###### Artículo 68.
+
+Para ser otorgada una licencia inicial o la revalidación anual, los interesados deberán empadronarse en la dependencia encargada de las finanzas públicas municipales, teniendo la obligación de proporcionar por escrito, todos los datos que para este objeto se les soliciten.
+
+###### Artículo 69.
+
+Una vez que haya sido empadronado el causante, deberá cubrir en la Dependencia Encargada de las Finanzas Públicas Municipales, los derechos que le fije la correspondiente Ley de Ingresos.
+
+###### Artículo 70.
+
+Hecho el pago a que se refiere el artículo anterior, se le entregará al causante constancia de la licencia, que podrá consistir en una placa metálica, o un tarjetón que contendrá los datos siguientes:
+
+a. Nombre del Municipio.
+
+b. Domicilio del establecimiento.
+
+c. Clave Única el Registro Poblacional CURP o Registro Federal de Contribuyentes para personas morales.
+
+d. Año en el cual se expide
+
+e. Duración de la Licencia.
+
+f. Número de la cuenta que le corresponde en el padrón.
+
+g. Giro gravado, y en su caso, giros autorizados.
+
+h. Razón social o nombre del contribuyente; y
+
+i. Fecha y firma del Presidente Municipal y/o Encargado de las Finanzas Públicas Municipales.
+
+Los causantes estarán obligados a tener siempre en lugar visible de su establecimiento, la licencia municipal.
+
+###### Artículo 71.
+
+La licencia anual que se otorgue para el ejercicio de cualquiera de las actividades a que se refieren el presente Título requiere que previamente la soliciten los interesados y que paguen los derechos correspondientes. Su expedición se hará constar en una credencial que deberá portarla el interesado siempre que ejerza la actividad autorizada y contendrá:
+
+a. La fotografía del interesado.
+
+b. Su nombre y dirección.
+
+c. Año para el cual se expide.
+
+d. La actividad que ampare.
+
+###### Artículo 72.
+
+Las licencias las expedirá la autoridad municipal, a solicitud de los interesados y previo el pago de los derechos correspondientes. En ellas se deberá especificar el motivo por el que se expide y las actividades que amparan, así como el tiempo en que estarán en vigor y todos los datos que permitan a los inspectores municipales y a otras autoridades, tener conocimiento exacto de la autorización concedida.
+
+###### Artículo 73.
+
+Todos los dueños o encargados de establecimientos mercantiles o industriales o de cualquier otra índole, que operen así como los que practiquen cualquier actividad para cuyo ejercicio la exija la Ley, sin la licencia correspondiente, serán sancionados por la autoridad municipal con la clausura del establecimiento o la suspensión de actividades, según el caso; debiendo siempre asegurar previamente el interés fiscal.
+
+###### Artículo 74.
+
+Se declara de interés público que los establecimientos y las actividades a que se refiere el artículo anterior, respectivamente, sólo operen o se ejerzan con la licencia respectiva, vigilados y controlados por las autoridades municipales.
+
+### CAPÍTULO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR DIVERSOS CONCEPTOS RELACIONADOS CON CONSTRUCCIONES Y URBANIZACIONES
+
+###### Artículo 75.
+
+Por los servicios prestados por diversos conceptos relacionados con construcciones y urbanizaciones en las clasificaciones que establezca el Código Urbano, los reglamentos municipales y la respectiva Ley de Ingresos de los Municipios se causarán y pagarán los derechos que al efecto se establezcan en la citada Ley de Ingresos.
+
+I.- Por licencias de construcción
+
+II.- Por licencias de construcción de bardas, tápiales y demoliciones.
+
+III.- Por alineamiento, nomenclatura y número oficial.
+
+IV.- Por revisión de proyecto arquitectónico.
+
+V.- Por la revisión a proyecto de fraccionamientos.
+
+VI.- Por el dictamen técnico sobre autorización del proyecto, avance de obra de urbanización o venta provisional de lotes de fraccionamientos y condominios.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+VII.- Por el dictamen técnico para la renovación de licencia de fraccionamientos y condominios.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+VIII.- Por la relotificación de fraccionamientos y condominios.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+IX.- Por ajustes de medidas de los fraccionamientos y condominios.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+X.- Por reposición de copias de planos de fraccionamientos y condominios.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+XI.- Por constancias de fraccionamientos emitidos por la dependencia municipal competente.
+
+> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+
+XII.- Por la certificación de documentos o planos de fraccionamientos y condominios.
+
+### CAPÍTULO TERCERO. POR EL SERVICIO DE AGUA POTABLE Y SANEAMIENTO
+
+###### Artículo 76.
+
+El servicio de agua potable y saneamiento corresponde al Municipio.
+
+###### Artículo 77.
+
+Los municipios podrán establecer convenios de colaboración con el Gobierno del Estado para el otorgamiento del servicio y cobro por el suministro de agua potable y saneamiento, sin detrimento de las facultades que la Constitución Política de los Estados Unidos Mexicanos le otorga a los Municipios.
+
+###### Artículo 78.
+
+Cuando el Municipio preste el Servicio de agua potable, alcantarillado y saneamiento, las tarifas y cuotas correspondientes deberán estar incluidas en su respectiva Ley de Ingresos.
+
+###### Artículo 79.
+
+Los derechos respectivos se causarán sobre el consumo que registren los aparatos medidores correspondientes y en su caso las cuotas fijas que al efecto se estipulen en los respectivos convenios y con base en las tarifas que al efecto se establezcan, conforme a la Legislación aplicable.
+
+###### Artículo 80.
+
+Para los efectos del artículo anterior, los verificadores de consumo de agua llevarán a cabo la lectura de los medidores, en los periodos al efecto establecidos por el prestador del servicio, haciendo constar el consumo que se hubiere efectuado en el periodo.
+
+### CAPÍTULO CUARTO. POR EL SERVICIO DE ALUMBRADO PÚBLICO
+
+###### Artículo 81.
+
+Serán sujetos del pago del derecho de alumbrado público, los propietarios de predios del Municipio que corresponda, que cuando menos tengan acceso a un servicio público, adicional al de alumbrado público.
+
+###### Artículo 82.
+
+Para el caso que la Ley de Ingresos del Municipio, sea omisa o el Ayuntamiento así lo acuerde, la dependencia encargada de las finanzas públicas correspondiente establecerá la liquidación del importe de este derecho conforme a lo siguiente:
+
+El derecho será calculado a cada propietario de predios de acuerdo a la superficie del terreno, superficie de la construcción, uso o destino del predio y valor catastral del inmueble para lo cual se definen los siguientes conceptos:
+
+A. Coeficiente expresado en pesos por metro cuadrado o su equivalente en días de salario mínimo de la zona, aplicado por predio a la superficie de terreno;
+
+B. Coeficiente expresado en pesos por metro cuadrado, o su equivalente en días de salario mínimo de la zona, aplicado por predio a la superficie construida;
+
+C. Coeficiente expresado en un número que se aplicará por predio tomando como base el valor catastral del mismo para aquellos inmuebles que tengan una superficie construida mayor al 5% de la superficie del terreno;
+
+D. Coeficiente expresado en un número que se aplicará por predio tomando como base el valor catastral del mismo para aquellos inmuebles en donde se realicen actividades industriales, comerciales o de servicios.
+
+La base del derecho por servicio de alumbrado público será el resultado de sumar el coeficiente A por el número de metros cuadrados del terreno más el coeficiente B multiplicando por el número de metros cuadrados de superficie construida, más el coeficiente C multiplicado por el valor catastral del inmueble, más el coeficiente D multiplicando por el valor catastral de los inmuebles de uso industrial, comercial de servicios.
+
+###### Artículo 83.
+
+Los propietarios de inmuebles de uso industrial, comercial o de servicios enterarán el pago del derecho mensualmente, los de uso habitacional lo harán bimestralmente.
+
+###### Artículo 84.
+
+Los Ayuntamientos están facultados para determinar la forma del cobro de este derecho siendo de manera directa o mediante el convenio que establezcan con la Comisión Federal de Electricidad.
+
+### CAPÍTULO QUINTO. POR LOS SERVICIOS PRESTADOS POR EL REGISTRO CIVIL
+
+###### Artículo 85.
+
+Ningún acto del Registro Civil se realizará si no se cubre previamente el importe de los derechos que señale la Ley.
+
+###### Artículo 86.
+
+A petición de los interesados el Oficial del Registro Civil podrá trasladarse a los domicilios de los solicitantes, para celebrar matrimonios y para llevar a cabo el registro de nacimientos, siempre y cuando se cubran previamente los derechos que fije la Ley de Ingresos de los Municipios.
+
+En estos casos los Oficiales actuarán con el Secretario respectivo, quedando bajo su exclusiva responsabilidad las formas del registro que deben sacar de las oficinas correspondientes.
+
+###### Artículo 87.
+
+Por los servicios extraordinarios de que habla el artículo anterior, los Oficiales y Secretarios percibirán la cuarta parte de lo que se recaude por concepto de derechos, excepto el Impuesto para Educación y Obras Públicas Municipales de los que señale la Ley de Ingresos del Municipio, participación que le será pagada mensualmente por la Dependencia Encargada de las Finanzas Públicas, distribuyéndose el 66% para el Oficial y el 34% para el Secretario.
+
+###### Artículo 88.
+
+Por los siguientes servicios ordinarios se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
+
+I.- Actas de nacimiento o reconocimiento de hijos.
+
+II.- Registro extemporáneo, de nacimiento
+
+III.- Legitimación o reconocimiento de personas.
+
+IV.- Asentamiento de actas de adopción o tutela.
+
+V.- Matrimonios efectuados en el juzgado
+
+VI.- Divorcios administrativos.
+
+VII.- Inscripción de ejecutorias que declaran ausencia de una persona, la presunción de su muerte, incapacidad legal o rectificación.
+
+VIII.- Actas de defunción.
+
+IX.- Anotaciones marginales
+
+X.- Corrección de actas
+
+XI.- Búsqueda de archivos y/o certificaciones de inexistencia de documentos.
+
+###### Artículo 89.
+
+Por los siguientes servicios extraordinarios se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
+
+I.- En las oficinas, fuera de horario normal.
+
+a) Matrimonios
+
+b) Matrimonios en días inhábiles
+
+c) Los demás actos cada uno
+
+II.- A domicilio
+
+a) Matrimonios horas hábiles de oficina
+
+b) Matrimonios en horas inhábiles de oficina
+
+c) Demás actos horas hábiles cada uno
+
+d) Demás actos horas inhábiles cada uno
+
+###### Artículo 90.
+
+Por las siguientes Certificaciones se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
+
+I.- Por copia certificada de cualquier acta ordinaria
+
+II.- Por copia certificada de cualquier acta urgente
+
+III.- Certificación de firmas por hoja
+
+### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PÚBLICA, POLICIA Y TRÁNSITO MUNICIPAL
+
+###### Artículo 91.
+
+Por los servicios prestados por autoridades de seguridad pública, policía y tránsito municipal se causará y pagará lo establecido en la correspondiente Ley de Ingresos del municipio que se trate.
+
+### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PÚBLICOS MUNICIPALES
+
+###### Artículo 92.
+
+Por los siguientes servicios públicos prestados por la dependencia encargada de la prestación de servicios públicos municipales se causarán y pagarán los derechos que al efecto se establezcan en la correspondiente Ley de Ingresos de los Municipios.
+
+I.- Por arreglo, conservación y mantenimiento de la vía pública.
+
+II.- Por el arreglo de predios baldíos.
+
+III.- Por depositar residuos sólidos en el tiradero municipal o relleno sanitario.
+
+IV.- Por recolección domiciliaria de basura no doméstica
+
+V.- Por los servicios de vigilancia.
+
+VI.- Por otros servicios prestados por la dependencia se deberán especificar en la Ley de Ingresos del Municipio.
+
+### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR PANTEONES MUNICIPALES
+
+###### Artículo 93.
+
+Las inhumaciones o exhumaciones que se hagan en los panteones municipales, pagarán los derechos que determine la tarifa respectiva de la correspondiente Ley de Ingresos del Municipio.
+
+###### Artículo 94.
+
+Para la construcción de bóvedas en los sepulcros, que son obligatorias en primera, segunda y tercera clases, los interesados harán el pago correspondiente en la dependencia encargada de las finanzas públicas municipales, en el momento de solicitar la inhumación.
+
+###### Artículo 95.
+
+Cuando se solicite la perpetuidad de una fosa, dentro del primer año de verificada la inhumación, se abonará a los derechos que cause la perpetuidad, lo que se hubiere enterado por derecho de temporalidad.
+
+Igualmente, si dentro del primer año, después de hecho un refrendo de temporalidad, se solicitará la perpetuidad de una fosa, se reducirá del importe del derecho de ésta, la suma pagada por el último refrendo.
+
+###### Artículo 96.
+
+Sólo se procederá a asignar fosas en forma gratuita cuando, ante la inexistencia o desconocimiento de los deudos, por mandato de autoridad competente se ordene la inhumación.
+
+###### Artículo 97.
+
+Por la licencia de construcción en los panteones, criptas y barandales se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio que se trate.
+
+###### Artículo 98.
+
+Por el traslado de cadáveres: dentro del estado, fuera del estado y restos áridos y cenizas, dentro y fuera del estado, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
+
+###### Artículo 99.
+
+Por la inhumación en panteones delegacional y particular se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio.
+
+###### Artículo 100.
+
+Por el permiso para la cremación de cadáveres se causará y pagará lo establecido en la correspondiente Ley de Ingresos del Municipio.
+
+### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR EL RASTRO MUNICIPAL
+
+###### Artículo 101.
+
+Por los siguientes servicios prestados por el rastro municipal se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada Municipio.
+
+I.- Por sacrificio y procesamiento, por cabeza: vacuno, porcino, ovicaprino, terneras, caballar, mular y asnal, degüello y procesamiento por Kg. en pie.
+
+II.- Por sacrificio y procesamiento de aves, que incluye escalado y pelado: pollos y gallinas mercado, pollos y gallinas supermercado, pavos Mercado, Pavos supermercado, otras aves.
+
+III.- El sacrificio de ganado en horas extraordinarias, independientemente de los honorarios del veterinario, autorizado por la secretaría de salud, por cabeza: vacunos y terneras, porcinos, ovicaprinos, caballar, mular y asnal, aves, otros.
+
+IV.- La introducción de ganado al rastro, en horas extraordinarias por cabeza: vacuno, terneras y ovicaprinos, porcino, otros, sin incluir aves, aves.
+
+V.- Por el uso de: agua para lavado de vísceras y cabeza, por pieza, y cazo.
+
+VI.- Por el sacrificio de ganado vacuno, porcino, lanar, cabrio, fuera del rastro municipal, exclusivamente para consumo familiar, por cabeza.
+
+### CAPÍTULO DÉCIMO. POR LOS SERVICIOS PRESTADOS EN MERCADOS MUNICIPALES
+
+###### Artículo 102.
+
+Por los siguientes servicios prestados en mercados municipales se causarán y pagarán los derechos que al efecto se establezcan en la correspondiente Ley de Ingresos de cada Municipio.
+
+I. Por la asignación de locales en los mercados municipales según tipo de Local: cerrado interior, abierto interior, cerrado exterior, abierto exterior.
+
+II. Por las cesiones de derechos realizadas en los mercados municipales: concepto tianguis dominical, locales, formas o extensiones.
+
+III. Por los cambios de giros en los locales de mercados municipales.
+
+### CAPÍTULO DÉCIMO PRIMERO. POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL AYUNTAMIENTO
+
+###### Artículo 103.
+
+Por las certificaciones expedidas por el Secretario del Ayuntamiento se causarán y pagarán los derechos que al efecto se establezcan por cada hoja, en la Ley de Ingresos de cada Municipio:
+
+I. Legalización de firmas de funcionarios
+
+II. Por reposición de documento oficial.
+
+III. Expedición de credenciales de identificación
+
+IV. Expedición de constancias de residencia
+
+###### Artículo 104.
+
+Ninguna dependencia de los Municipios, legalmente autorizada para ello, expedirá certificados o copia de documentos oficiales, si no se justifica previamente mediante el recibo oficial, que los interesados han cubierto en la dependencia encargada de las finanzas públicas, los derechos que señala la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
+
+Asimismo, no se procederá a la legalización de firmas de funcionarios de los Municipios si no se han pagado los respectivos derechos.
+
+### CAPÍTULO DÉCIMO SEGUNDO. POR EL SERVICIO DE REGISTRO DE FIERROS QUEMADORES Y SU RENOVACIÓN
+
+###### Artículo 105.
+
+Por el servicio de registro de fierros quemadores y su renovación se causarán y pagarán los derechos que al efecto se establezcan en la Ley de Ingresos de cada Municipio.
+
+###### Artículo 106.
+
+Los propietarios o criadores de ganado, antes de iniciar sus actividades, deben registrar ante la Presidencia Municipal de su jurisdicción, el fierro quemador que sirva para marcar sus animales, el cual deberá ser individual por cada propietario o criador y con el que justificará la propiedad de los mismos.
+
+###### Artículo 107.
+
+Durante el mes de enero de cada año, los propietarios o criadores de ganado deberán llevar a cabo la renovación del registro del fierro quemador.
+
+###### Artículo 108.
+
+Para los efectos de las disposiciones contenidas en los dos artículos anteriores, los causantes formularán ante la Presidencia Municipal que corresponda, una manifestación que contenga los datos siguientes:
+
+1. Nombre y dirección del interesado
+
+2. Ubicación de la explotación
+
+3. Especie y número de las cabezas de ganado, señas y características del mismo, que sean propiedad del interesado.
+
+4. Calca del fierro quemador que se usará para marcar a los animales.
+
+###### Artículo 109.
+
+Para el registro de fierros quemadores, cada Municipio llevará un libro especial en el que se anotarán los datos pertinentes; al interesado se le expedirá una copia del registro que debe autorizar con su firma el C. Presidente Municipal.
+
+No se llevará a cabo ningún registro de fierros quemadores, ni se expedirán a los interesados las copias a que se refiere este artículo, si no fueren cubiertos los derechos correspondientes.
+
+###### Artículo 110.
+
+Los Ayuntamientos, con base en los datos del libro a que se refiere el artículo anterior deberán llevar un libro auxiliar para tener un control minucioso y exacto de altas y bajas de los animales de cada causante con registro, a fin de estar en posibilidad de autorizar las facturas de ventas que procedan y exigir el pago de los derechos e impuestos correspondientes a cada operación.
+
+###### Artículo 111.
+
+Los propietarios o criadores de ganado que omitan el registro de fierros quemadores; manifiesten menor número de cabezas de las que realmente tienen; o utilicen el mismo fierro quemador para el ganado de dos o más propietarios distintos, se harán acreedores a las multas correspondientes sin perjuicio de que, además, paguen los derechos omitidos y sus respectivos recargos.
+
+### CAPÍTULO DÉCIMO TERCERO. POR OTROS SERVICIOS PRESTADOS POR AUTORIDADES
+
+MUNICIPALES
+
+###### Artículo 112.
+
+Por los servicios prestados por instituciones municipales a la comunidad a través de sus diversos talleres de capacitación se causan por curso semestral o por curso de verano y se pagarán los derechos conforme lo establezca la Ley de Ingresos de cada Municipio.
+
+###### Artículo 113.
+
+Por los servicios de mantenimiento y reparación de mobiliario urbano derivado de actos de particulares con responsabilidad para estos, se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+###### Artículo 114.
+
+Por la publicación realizada en la Gaceta Municipal se causa por palabra, por la suscripción anual y por ejemplar individual, los derechos que se establezcan en la correspondiente Ley de Ingresos de cada Municipio.
+
+###### Artículo 115.
+
+Por el registro en el padrón de proveedores del municipio, en el padrón de usuarios del rastro municipal, en el padrón de usuarios del relleno sanitario, en el padrón de boxeadores y luchadores y en el registro a otros padrones similares se causa el registro y se paga conforme lo establezca la Ley de Ingresos de cada Municipio.
+
+###### Artículo 116.
+
+Por los dictámenes emitidos por protección civil, ecología y medio ambiente municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+###### Artículo 117.
+
+El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del Ayuntamiento, en cuyo acuerdo debe constar la opinión del Presidente Municipal, de los Regidores de Hacienda y el encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
+
+Se exceptúan del requisito anterior, los contratos a corto tiempo que se celebren con empresas de circo, carpas, ferias, para ocupar terrenos en las vías públicas; contratos que autorizará el encargado de las finanzas públicas municipales.
+
+###### Artículo 118.
+
+Cuando se trate de un contrato cuyo plazo exceda del período para el cual hubiere sido electo el Ayuntamiento que intervenga, se estará a lo dispuesto en la Ley Orgánica Municipal del Estado.
+
+###### Artículo 119.
+
+En todos los contratos que se celebren respecto de bienes inmuebles o inversiones de los Ayuntamientos, se buscará que los Municipios obtengan las mayores percepciones posibles, como productos de sus bienes.
+
+###### Artículo 120.
+
+Los arrendamientos de inmuebles deben de recaudarse por mensualidades adelantadas, haciéndose constar esta circunstancia en los contratos respectivos.
+
+###### Artículo 121.
+
+De todo contrato autorizado deberá conservarse una copia en la dependencia encargada de las finanzas públicas que corresponda, para los efectos del control de la recaudación de los diferentes productos.
+
+###### Artículo 122.
+
+Por la explotación de bienes municipales por los siguientes conceptos: Arrendamiento de fincas municipales; explotación de tierras municipales para fabricación de ladrillo, teja y adobe, y extracción de cantera, piedra común, piedra fabricación de cal, por la explotación de yacimientos de arena, tierra, cal, barro, balastras, grava, cantera, piedra y similares, la explotación de yacimientos de minerales naturales y por la explotación de yacimientos naturales se pagarán las cuotas conforme lo establezca la correspondiente Ley de Ingresos de cada Municipio.
+
+###### Artículo 123.
+
+Por el arrendamiento de locales en mercados municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios.
+
+###### Artículo 124.
+
+El derecho de establecer mercados de cualquier clase que sean, es facultad exclusiva de los Ayuntamientos, los que también deberán de determinar, cuando fuere necesario e indispensable, las vías públicas que pueden ser utilizadas como zonas de mercados, para establecer puestos semifijos.
+
+###### Artículo 125.
+
+Todos los causantes de rentas de pisos en los mercados y zonas de mercados, quedan sujetos a la fiel observancia de los reglamentos vigentes.
+
+## TÍTULO QUINTO. DE LOS PRODUCTOS
+
+### CAPÍTULO PRIMERO. BIENES MUEBLES E INMUEBLES
+
+###### Artículo 126.
+
+Para el pago de rentas de pisos en los mercados y vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada Municipio.
+
+###### Artículo 127.
+
+El pago de la renta de pisos de mercados y zonas de mercados, se hará diariamente a los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales, mediante la expedición del recibo o boleto numerado correspondiente, que debe estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
+
+Para facilitar la recaudación, en todo caso los boletos deberán estar impresos, siendo de diferentes denominaciones, según se estime conveniente.
+
+También podrá hacerse la recaudación, mediante tarjetones impresos que obrarán en poder de los locatarios y en los que diariamente se hará la anotación por los recaudadores de haberse efectuado el pago. Al finalizar el mes los indicados tarjetones se concentrarán a la dependencia encargada de las finanzas públicas para comprobar la corrección de los ingresos diarios que, mediante el recibo oficial correspondiente, hayan amparado la entrega de los recaudadores.
+
+###### Artículo 128.
+
+La dependencia encargada de las finanzas públicas municipales llevará una relación de los locatarios de los mercados y zonas de mercados que ocupen puestos fijos, y durante el mes de enero de cada año el encargado de dicha dependencia procederá a clasificarlos como primera o segunda categoría, según la importancia y la situación del puesto que ocupen, asignándoles las cuotas diarias que deben pagar en el año, de acuerdo con las prevenciones de la tarifa correspondiente establecida en cada Municipio.
+
+###### Artículo 129.
+
+Cuando algún locatario deje de cubrir por tres días consecutivos las rentas correspondientes según la cuota diaria señalada, el Presiente Municipal o el Encargado de las Finanzas Públicas Municipales podrán ordenar indistintamente y sin más trámite, la desocupación del local arrendado, sin perjuicio de exigir por los medios legales, el pago de los adeudos y los gastos originados.
+
+###### Artículo 130.
+
+Por el uso de la vía pública se pagarán las cuotas conforme a lo establecido en la Ley de Ingresos de cada Municipio.
+
+I. Cuotas por piso en la vía pública, permisos para la venta de artículos en la vía pública, a excepción de expendios con venta y/o alquiler de libros, periódicos y revistas.
+
+a) Con venta de cualquier clase de artículos, por día
+
+b) Con uso de vehículos de motor, por mes.
+
+c) Con uso de casetas metálicas, por mes.
+
+d) Vendedores con puesto fijo, de cualquier clase de artículo, mensual.
+
+II.- La guarda de animales que transiten en vía pública sin vigilancia de sus dueños, más fletes y forrajes correspondientes y en su caso los daños que causaren.
+
+III. Todos aquellos bienes entregados a la autoridad o recogidos de la vía pública por extravío, falta de permiso o por estar ubicados inadecuadamente, después de 15 días serán adjudicados al patrimonio del municipio.
+
+IV. Por estacionamiento según el reglamento.
+
+V. Los vehículos de transporte público y de carga pagarán por uso de la vía pública por los siguientes conceptos:
+
+a) Sitios autorizados para taxi.
+
+b) Sitios autorizados para servicio público de carga
+
+VI. Los vehículos de transporte público pagarán en zonas autorizadas para ello por los siguientes conceptos:
+
+a) Autobuses urbanos.
+
+b) Microbuses y taxi buses urbanos.
+
+c) Autobuses, microbuses y taxi buses suburbanos.
+
+###### Artículo 131.
+
+Por la instalación, tendido y permanencia de cables subterráneos o aéreos en la vía pública se causará y pagará lo establecido en la correspondiente Ley de Ingresos de los Municipios:
+
+I. Instalación.
+
+II. Tendido por cada 100 metros.
+
+III. Por permanencia en vía pública, calles, guarniciones y/o postes.
+
+###### Artículo 132.
+
+Por poner andamios, tapiales, materiales para la construcción y similares, que de alguna manera sean obstáculo para el libre tránsito en la vía pública, por día y por metro cuadrado se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+### CAPÍTULO SEGUNDO. USO DE LA VÍA PÚBLICA
+
+### CAPÍTULO CUARTO (SIC). PRODUCTOS FINANCIEROS
+
+Artículo 134 (sic). Los productos financieros se percibirán de acuerdo a las tasas de interés contratadas y autorizadas por las instituciones financieras competentes.
+
+### CAPÍTULO QUINTO (SIC). RASTRO MUNICIPAL
+
+Artículo 135 (sic). Por venta y prestación de servicios de productos del rastro municipal de los siguientes conceptos, se pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio:
+
+I. Venta de productos Rastro.
+
+a. Litro de sangre.
+
+b) Tonelada de estiércol.
+
+c) Tonelada de pluma de aves.
+
+d) Tonelada de huesos, piel, pezuñas y/o cuernos.
+
+II. Guarda de ganado no reclamado.
+
+a) Vacuno y terneras
+
+b) Porcino.
+
+c) Ovicaprino.
+
+d) Otros animales sin incluir aves.
+
+e) Aves.
+
+III. Uso de corraleta por actividad de compra-venta, sin incluir atención:
+
+a) Vacuno.
+
+b) Novillo, vaquilla o ternera.
+
+c) Porcino.
+
+d) Ovicaprino
+
+e) Otros sin incluir aves.
+
+f) Aves.
+
+### CAPÍTULO SEXTO (SIC). FUNERARIAS Y CEMENTERIOS MUNICIPALES
+
+Artículo 136 (sic). Por utilizar los cementerios municipales se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+## TÍTULO SEPTIMO. DE LOS APROVECHAMIENTOS
+
+### CAPÍTULO SÉPTIMO (SIC). PRODUCTOS DIVERSOS
+
+Artículo 137 (sic). Por el cobro de las concesiones a particulares se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+Artículo 138 (sic). Por el cobro de la venta de hologramas de verificación vehicular se causará y pagará lo establecido en la correspondiente Ley de Ingresos de cada Municipio.
+
+Artículo 139 (sic). Por el cobro de otros productos se deberán especificar y se causará y pagará conforme lo establecido en la correspondiente Ley de Ingresos de los Municipios.
+
+###### Artículo 141.
+
+Los Presidentes Municipales podrán reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+
+###### Artículo 142.
+
+La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron las contribuciones que corresponden a los municipios.
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+Artículo 140 (sic). Los encargados de las finanzas públicas municipales tienen la obligación de vigilar que todos los causantes estén al corriente en sus pagos de derechos e impuestos, haciendo en su caso, uso de las facultades que esta Ley les confiere para exigir el pago por medio del procedimiento económico coactivo.
+
+Los Encargados de las Finanzas Públicas Municipales, empleando el procedimiento citado, deberán proceder de inmediato al cobro de todos los adeudos que resulten a cargo de los causantes municipales, por las contribuciones que no se hayan cubierto de manera oportuna.
+
+###### Artículo 143.
+
+La dependencia encargada de las finanzas públicas que corresponda, procederá a hacer efectivas las multas administrativas que se impongan, por violación a los Reglamentos Gubernativos, en los términos que establecen las disposiciones legales aplicables.
+
+###### Artículo 144.
+
+A falta de otro funcionario que expresamente determinen las disposiciones legales aplicables, los encargados de las finanzas públicas municipales están facultados para imponer las multas que deben aplicarse a los infractores de la presente Ley, cuando la violación amerite sanción económica, en los casos previstos por el Código Fiscal.
+
+###### Artículo 145.
+
+Por toda multa que se hiciere efectiva, se expedirá el correspondiente recibo oficial, para que el importe de la misma ingrese a la dependencia encargada de las finanzas públicas, quedando estrictamente prohibido el cobro de multas por cualquier otra dependencia del Ayuntamiento.
+
+###### Artículo 146.
+
+Los Presidentes Municipales podrán reducir hasta un cien por ciento, el importe de las multas correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+
+### CAPÍTULO SEGUNDO. MULTAS
+
+###### Artículo 147.
+
+Los causantes morosos que se hagan acreedores a apremios de cobro, deberán pagar, tomando como base el monto del adeudo principal:
+
+a) Un 5%, por gastos de requerimiento.
+
+b) Un 5% adicional, por gastos de clausura, si la hubiere;
+
+c) Un 10% adicional, en caso de que se practique embargo de bienes, independientemente de los gastos que se originen para el traslado de los bienes embargados, hasta el lugar en donde se depositen.
+
+###### Artículo 148.
+
+Todos los gastos necesarios para efectuar el remate de bienes embargados, siguiendo el procedimiento económico coactivo que establece esta Ley, serán a cargo de los causantes que, por morosidad en sus pagos, se hayan hecho acreedores al empleo de tal procedimiento, en su contra.
+
+###### Artículo 149.
+
+Los gastos de ejecución fiscal municipal a que se refiere este Capítulo, se harán efectivos juntamente con el adeudo principal y los recargos, mediante la expedición del recibo oficial correspondiente, de la dependencia encargada de las finanzas públicas respectiva.
+
+Lo recaudado por gastos de ejecución deberá ser ingresado para ser considerado en el presupuesto que será autorizado por el Ayuntamiento.
+
+### CAPÍTULO TERCERO. GASTOS DE EJECUCIÓN
+
+###### Artículo 150.
+
+Los Presidentes Municipales quedan facultados para reducir hasta un cincuenta por ciento, el importe de los recargos correspondientes a rezagos fiscales, si el pago lo hicieren espontáneamente los interesados.
+
+###### Artículo 151.
+
+La recaudación de los rezagos de ejercicios fiscales anteriores, se hará de acuerdo con las disposiciones vigentes en la época en que se causaron los impuestos, derechos, productos y aprovechamientos que corresponden a los Municipios.
+
+### CAPÍTULO CUARTO. RECARGOS
+
+###### Artículo 152.
+
+Los demás aprovechamientos en favor de los Municipios, que se enumeran a continuación, se recaudarán por la dependencia encargada de las finanzas públicas correspondiente.
+
+I. Herencias, legados, donaciones y donativos.
+
+II. Productos de bienes y objetos que legalmente se puedan enajenar.
+
+III. Venta de basura y desperdicios.
+
+IV. Arrendamiento de aguas negras y de aguas superficiales.
+
+V. Conexiones y contratos.
+
+VI. Indemnizaciones y reintegros.
+
+VII. Cooperaciones.
+
+VIII. Subvenciones y subsidios expidiéndose en todo caso, recibo oficial donde se exprese el motivo de la recaudación.
+
+En todo caso deberán estar previstas en la Ley de ingresos del Municipio de que se trate.
+
+###### Artículo 153.
+
+El importe de todos los ingresos que se obtengan por concepto de aprovechamiento, se destinarán preferentemente para obras públicas del municipio.
+
+## TÍTULO OCTAVO. DE LAS PARTICIPACIONES FEDERALES
+
+### CAPÍTULO QUINTO. OTROS APROVECHAMIENTOS
+
+###### Artículo 154.
+
+Las participaciones las constituyen los ingresos que se reciban por otorgamiento del Gobierno Estatal y Federal y conforme lo establece la Ley de Coordinación Fiscal.
+
+Las Participaciones Federales están constituidas por el Fondo General de Participaciones, por el Fondo de Fomento Municipal, por el Impuesto Federal Sobre Tenencia o Uso de Vehículos, por el Impuesto Especial Sobre Producción y Servicios, por el Impuesto Sobre Automóviles Nuevos, así como la Reserva de Contingencia, y cualquier otra que con dicho carácter determine la Federación.
+
+## TÍTULO NOVENO. DE LAS APORTACIONES FEDERALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 155.
+
+Las aportaciones las constituyen los ingresos que obtengan los Municipios conforme a lo previsto en la Ley de Coordinación Fiscal.
+
+## TÍTULO NOVENO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 156.
+
+Son ingresos extraordinarios aquellos que la Hacienda Pública de cualquier Municipio perciba, cuando cualquier circunstancia coloque al propio Municipio frente a necesidades imprevistas que lo obliguen a efecturar erogaciones extraordinarias.
+
+Los ingresos extraordinarios, podrán ser lo siguientes:
+
+I. Empréstitos;
+
+II. Expropiaciones;
+
+III. Aportaciones extraordinarias de los entes públicos;
+
+IV. Aportaciones extraordinarias de mejoras.
+
+### CAPÍTULO ÚNICO
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Para los efectos de lo establecido en el artículo 18, en tanto se expida la Ley de Bienes del Estado de Querétaro y sus Municipios, de mantendrán vigentes las disposiciones de la Ley de Hacienda de los Municipios del Estado en lo tocante a la clasificación y registro de los bienes.
+
+SEGUNDO. Para la formulación de las Iniciativas de Ley de Ingresos del ejercicio fiscal 2003 se sujetará a lo establecido en la presente Ley.
+
+TERCERO. Para las disposiciones que mencionan al "Código Fiscal del Estado y Municipios", se aplicarán las relativas al Código Fiscal del Estado, mientras el primero no sea aprobado por la Legislatura y el segundo no sea abrogado.
+
+CUARTO. En tal virtud de la firma del Convenio de Adhesión del Estado con la Federación al Sistema Nacional de Coordinación Fiscal continuarán suspendidas las contribuciones siguientes:
+
+a. Impuesto sobre la compra venta de animales.
+
+b. Impuesto sobre la compra venta de pollos.
+
+QUINTO. Se abroga la Ley General de Hacienda de los Municipios publicada el 26 de diciembre de 1963 y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+ASÍ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALON "CONSTITUYENTES DE 1916-1917", RECINTO OFICIAL DEL PODER LEGISLATIVO, A LOS VEINTICUATRO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DOS.
+
+ATENTAMENTE
+
+QUINCUAGÉSIMA TERCERA LEGISLATURA
+
+MESA DIRECTIVA
+
+DIP. ODILÓN HERNÁNDEZ GUERRERO
+
+PRESIDENTE
+
+Rúbrica
+
+DIP. OSCAR SÁNCHEZ AGUILAR
+
+PRIMER SECRETARIO
+
+Rúbrica
+
+DIP. JUAN JOSÉ FLORES SOLÓRZANO
+
+SEGUNDO SECRETARIO.
+
+Rúbrica
+
+Ing. Ignacio Loyola Vera, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 57 fracción I de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga; expido y promulgo la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga, en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado a los doce días del mes de noviembre del año dos mil dos, para su debida publicación y observancia.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+"UNIDOS POR QUERÉTARO"
+
+ING. IGNACIO LOYOLA VERA
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+Rúbrica
+
+LIC. BERNARDO GARCIA CAMINO
+
+SECRETARIO DE GOBIERNO
+
+Rúbrica
