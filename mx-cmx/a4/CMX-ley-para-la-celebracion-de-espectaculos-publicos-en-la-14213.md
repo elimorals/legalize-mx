@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "1997-01-13"
+last_updated: "2005-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2005.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 13 de enero de 1997.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -492,7 +492,9 @@ Para la presentación de Espectáculos taurinos se deberá observar, además de 
 
 Además de cumplir con lo dispuesto por el Capítulo IV del Título Segundo, en este tipo de Espectáculos públicos la venta de derechos de apartado sólo la podrá hacer el Titular registrado y autorizado por la Delegación, sujetándose a los siguientes criterios:
 
-I. Únicamente se permitirá su venta, si el Titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el primer domingo de noviembre, con un mínimo de doce corridas ininterrumpidas, sin contar las de rejoneadores;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2005)</small>
+
+I. Únicamente se permitirá su venta, si el Titular demuestra haber cumplido con los requisitos que lo obligan a iniciar la temporada en el mes de octubre o a más tardar el primer domingo de noviembre con un mínimo de doce corridas ininterrumpidas, sin contar las de rejoneadores. Previamente al inicio de la temporada se deberán dar por lo menos doce novilladas a partir del mes de mayo de cada año;
 
 II. Se concederá preferencia para la adquisición del derecho de apartado a quienes lo hayan utilizado en la temporada anterior. Cualquier problema que surja en las taquillas, será resuelto en definitiva por la Delegación;
 
@@ -700,9 +702,15 @@ V. Las demás que se señalen en los Reglamentos correspondientes.
 
 ### CAPÍTULO III. De la Comisión Taurina
 
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 68.
 
-La Comisión Taurina estará integrada por dieciocho miembros designados por el Jefe de Gobierno del Distrito Federal; así como por un representante de la Asociación Mexicana de Empresas Taurinas, A.C., de la Unión Mexicana de Picadores y Banderilleros, de la Asociación Nacional de Matadores de Toros, Novillos y Similares y de la Asociación Nacional de Criadores de Toros de Lidia, a invitación expresa de la Comisión.
+La Comisión Taurina estará integrada por nueve miembros, conformados de la siguiente forma: cinco representantes designados por el Jefe de Gobierno del Distrito Federal; así como un representante de la Asociación Mexicana de Empresas Taurinas, A. C., de la Unión Mexicana de Picadores y Banderilleros, de la Asociación Nacional de Matadores de Toros y Novillos, Rejoneadores y Similares; y la Asociación Nacional de Criadores de Toros de Lidia, éstos cuatro últimos serán designados conforme a sus propios Estatutos de cada Asociación.
+
+Los miembros de la Comisión no percibirán retribución o compensación alguna por ese motivo y durarán en su cargo tres años pudiendo ser ratificados hasta por un período más.
+
+Será facultad del Jefe de Gobierno la designación y remoción del Presidente de la Comisión Taurina.
 
 ###### Artículo 69.
 
@@ -710,7 +718,9 @@ La Comisión Taurina del Distrito Federal tendrá las siguientes atribuciones:
 
 I. Auxiliar al Jefe de Gobierno del Distrito Federal en la interpretación y resolución de situaciones no previstas en la Ley y demás disposiciones que resulten aplicables;
 
-II. Promover la unificación, coordinación y cooperación de las diferentes asociaciones, agrupaciones y uniones taurinas;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2005)</small>
+
+II. Promover la coordinación y cooperación de las diferentes asociaciones, agrupaciones y uniones taurinas;
 
 III. Establecer un Registro Taurino, en el que deberán inscribirse las ganaderías, los matadores de toros, rejoneadores, novilleros, picadores, banderilleros y puntilleros, y en el que se contenga por lo menos, su nacionalidad y la antigüedad en sus actividades;
 
@@ -1009,3 +1019,13 @@ Artículo Sexto.- Publíquese en la Gaceta Oficial del Distrito Federal, y por s
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a dieciocho de diciembre de mil novecientos noventa y seis.- Rep. Alberto Nava Salgado, Presidente.- Rep. Marta de la Lama Noriega, Secretaria.- Rep. Gloria Carrillo Salinas, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.O. 21 DE ENERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán vigentes las actuales en lo que no lo contravengan.
+
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
