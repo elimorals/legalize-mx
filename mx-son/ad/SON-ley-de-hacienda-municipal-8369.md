@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1992-05-07"
+last_updated: "1992-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -293,9 +293,21 @@ I.- La Federación, los Estados y los Municipios.
 
 II.- Los organismos descentralizados de la Federación, Estados y Municipios.
 
-> <small>(REFORMADO, B.O. 16 DE JULIO DE 1984)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Tratándose de Impuestos a la propiedad inmobiliaria y derechos por la prestación de servicios públicos, solo gozarán de exención, los bienes de dominio público de la Federación, Distrito Federal, Estados y Municipios, así como los que adquieran los estados extranjeros en caso de reciprocidad.
+Tratándose de impuestos a la propiedad inmobiliaria y derechos por la prestación de servicios públicos, solo gozarán de exención los bienes de dominio público de la Federación, Estados y Municipios.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Cuando las autoridades municipales tengan duda de que algún inmueble no sea del dominio público, solicitarán a las autoridades competentes la comprobación correspondiente.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier notificación de las circunstancias que hubieran fundado las mismas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+La Tesorería Municipal dictará resolución nulificando la exención a partir del momento en que hubiese desaparecido el fundamento de la misma y ordenará el cobro de los impuestos cuyo pago se hubiese omitido, así como las multas y accesorios que procedan.
 
 ###### ARTICULO 25.
 
@@ -367,7 +379,7 @@ III.- El deudor sea declarado en estado de quiebra, concurso, suspensión de pag
 
 Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán pagarse recargos en concepto de indemnización al Fisco Municipal.
 
-La tasa de los recargos será de un 50% mayor de lo que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que se debió hacer el pago y hasta que el mismo se efectúe.
+La tasa de los recargos será de un 50% mayor de lo que se fije anualmente conforme a las Leyes de Ingresos y Presupuesto de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que se debió hacer el pago y hasta que el mismo se efectúe.
 
 Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago haya sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
@@ -577,9 +589,11 @@ II.- Los propietarios de predios que hubiesen prometido en venta o hubieran vend
 
 III.- Los empleados de las oficinas recaudadoras de los Municipios que dolosamente expidan certificados de no adeudo del Impuesto Predial.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 55.
 
-La base del impuesto tratándose de predios urbanos y rurales, será el valor catastral determinado en base al avalúo formulado de acuerdo a las disposiciones contenidas en la Ley de Catastro del Estado.
+La base del impuesto tratándose de predios urbanos y rurales, será el valor catastral determinado en base al avalúo formulado de acuerdo a las disposiciones contenidas en la ley catastral y registral del Estado de Sonora.
 
 ###### ARTICULO 56.
 
@@ -587,11 +601,11 @@ El impuesto se causará:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 57.
 
-Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la Fracción II del Artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de cinco año (sic), conforme a las normas siguientes:
+Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la fracción II del artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de diez años, conforme a las normas siguientes:
 
 I.- (DEROGADA, B.O. 16 DE NOVIEMBRE DE 1987)
 
@@ -599,13 +613,17 @@ I.- (DEROGADA, B.O. 16 DE NOVIEMBRE DE 1987)
 
 II.- Cuando sean enajenados por particulares, el aumento se causará un año después de celebrada la operación de adquisición respectiva.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 58.
 
-Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos, previene la Ley de Catastro del Estado.
+Para los efectos de este impuesto, se estará a las disposiciones que sobre diversos conceptos previene la Ley Catastral y Registral del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 59.
 
-Hecho el avalúo de los predios en los términos de la Ley de Catastro del Estado, y determinada la cuota anual y la porción trimestral que deba cubrir cada Contribuyente, las Tesorerías Municipales harán la notificación correspondiente. La cuota así determinada se pagará a partir del trimestre siguiente a la fecha de la notificación, excepto en los casos en que esta Ley disponga otra cosa.
+Hecho el avalúo de los predios en los términos de la Ley Catastral y Registral del Estado de Sonora y determinada la cuota anual y la porción trimestral que deba cubrir cada contribuyente, las Tesorerías Municipales harán la notificación correspondiente. La cuota así determinada se pagará a partir del trimestre siguiente a la fecha de la notificación, excepto en los casos en que esta Ley disponga otra cosa.
 
 ###### ARTICULO 60.
 
@@ -687,7 +705,7 @@ Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en
 
 ###### ARTICULO 72.
 
-Para los efectos de este impuesto, se entiende por adquisición, la que derive de:
+Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
 
 > <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 1985)</small>
 
@@ -727,21 +745,25 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 Son sujetos de este impuesto, los adquirentes de bienes inmuebles, en los términos del Artículo anterior.
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-No se pagará el impuesto además de los casos señalados en el último párrafo del Artículo 24 de esta Ley, en la adquisición de inmuebles que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+No se pagará el impuesto además de los casos señalados en el primer párrafo, después de la fracción II del artículo 24 de esta Ley, en la adquisición de inmuebles que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, en las adquisiciones de inmuebles que hagan los arrendamientos financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosa (sic) constituidas en los términos de la Ley de la materia, siempre que en este último caso la adquisición se realice dentro de los seis meses siguientes a su Constitución.
 
 ###### ARTICULO 74.
 
 La base del impuesto será el valor que resulte mayor entre los siguientes:
 
-a).- El consignado en avalúo hecho por una Sociedad Nacional de Crédito, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Las Tesorerías Municipales podrán revisar los avalúos practicados por los peritos adscritos a las Sociedades Nacionales de Crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y con los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente.
+a).- El consignado en avalúo por una Institución de Crédito, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+Las Tesorerías Municipales podrán revisar los avalúos practicados por los peritos adscritos a las Instituciones de Crédito, y sí a su criterio no se apegan a los precios reales del valor comercial del terreno y a los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente, dichas dependencias municipales podrán no aceptarlos previo avalúo expedido por perito valuador debidamente reconocido por la Comisión Nacional Bancaria, o bien que sea emitido por el Instituto Catastral o Registral en el Estado, según lo convengan las partes.
 
-b).- El catastral, que deberá se certificado por la Tesorería General del Estado, por conducto de la Dirección General de Catastro o de las Agencias Fiscales.
+Si se demuestra que el avalúo presentado por el obligado al pago del impuesto, es inferior a los precios reales y valores unitarios comerciales, tanto del terreno como de la construcción, en cuyo caso los gastos de peritaje correrán por su cuenta; mientras que, sí dichos precios o valores resultan ser correctos, los gastos serán a cargo de la Tesorería Municipal.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
+b).- El Catastral, que deberá ser certificado por el Instituto Catastral y Registral del Estado.
 
 c).- El precio pactado en la operación.
 
@@ -963,7 +985,7 @@ Son sujetos de estos impuestos, quienes realicen los pagos a que se refiere el a
 
 ###### ARTICULO 103.
 
-Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrá exceder del 50% sobre la base determinada.
+Las Leyes de Ingresos y Prepuesto de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrá exceder del 50% sobre la base determinada.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
@@ -1323,7 +1345,7 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Procedimiento
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1339,7 +1361,7 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO SEGUNDO. Procedimiento
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1479,7 +1501,7 @@ Los presupuestos de las obras a que este Título se refiere, estarán sujetos a 
 
 Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo la ubicación de los inmuebles en la zona de beneficio y el porcentaje del costo de la obra que como contribución señalan los artículos 142 Bis y 142 Bis-A en proporción al valor catastral del inmueble.
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO PRIMERO. Infracciones
 
@@ -1513,7 +1535,7 @@ II.- Hasta el 5%, si el pago se realiza dentro de los 60 días siguientes a la t
 
 No se pagarán las contribuciones especiales por mejoras por los predios a que se refiere el artículo 24 de esta Ley; sin embargo, para efectos de determinar la contribución correspondiente a cada uno de los predios ubicados en la zona de beneficio, aquéllos si se tomarán en cuenta.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO SEGUNDO. Sanciones
 
@@ -1910,3 +1932,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Las contribuciones especiales por mejoras que se hubiesen decretado al amparo de las disposiciones que se reforman o derogan por disposición de la presente Ley continuarán aplicándose en los términos de lo que establezcan las mismas.
+
+B.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Estado el día primero de enero de 1993.
