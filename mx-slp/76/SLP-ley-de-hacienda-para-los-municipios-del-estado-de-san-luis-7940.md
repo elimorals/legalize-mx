@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1998-06-16"
+last_updated: "2001-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2001.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -1047,9 +1047,33 @@ Por la verificación obligatoria sobre emisión de contaminantes de vehículos a
 
 El pago de los derechos de la verificación a que se refiere este artículo deberá hacerse en las fechas y plazos que indique el Programa de Verificación Vehicular que será publicado en el Periódico Oficial del Estado y en los de mayor circulación en la Entidad, previamente a la prestación del servicio.
 
-### CAPITULO UNICO. PRODUCTOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2001)</small>
+
+### CAPITULO DECIMO OCTAVO. SERVICIOS CATASTRALES
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2001)</small>
+
+###### ARTICULO 126-F.
+
+Los servicios catastrales consisten en la emisión de avalúos catastrales, certificación física de medidas y colindancias de un predio, certificación de registro en el Padrón Catastral Municipal, copias de planos de región catastral o de manzana, así como otras certificaciones sobre el padrón catastral.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2001)</small>
+
+###### ARTICULO 126-G.
+
+Son sujetos del pago de este derecho, las personas físicas o morales, y las unidades económicas que soliciten o hagan uso de los servicios catastrales que preste el municipio, de conformidad con las leyes y reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2001)</small>
+
+###### ARTICULO 126-H.
+
+Este derecho se causará conforme a las tasas o tarifas que establezca la Ley de Ingresos de cada Municipio.
+
+Este derecho deberá pagarse previamente a la prestación del servicio, salvo disposición expresa que establezca otra fecha de pago.
 
 ## TITULO CUARTO (SIC)
+
+### CAPITULO UNICO. PRODUCTOS
 
 ###### ARTICULO 127.
 
@@ -1526,5 +1550,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 16 DE JUNIO DE 1998.
 
 PRIMERO.- El presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JULIO DE 2001.
+
+PRIMERO.- El presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
