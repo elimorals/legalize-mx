@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1976-11-06"
+last_updated: "1976-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1976.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -231,6 +231,38 @@ V.- Verificar en tránsito o en los lugares de almacenamiento los vehículos o m
 
 VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos en Materia de Defensa Social.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+VII.- Efectuar la comprobación de los ingresos totales o gravables de los causantes, en cuyo caso se presumirá, salvo prueba en contrario:
+
+A).- Que la información contenida en libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre, o a nombre de otra persona.
+
+Se presumen operaciones celebradas por el causante las manifestadas por terceros en sus informes que rindan a solicitud de las autoridades fiscales. De estos informes se dará conocimiento al contribuyente una vez que sean recibidos, para que tenga oportunidad de formular objeciones en los términos del artículo 37 Fracción IX de este Código.
+
+B).- Que la información contenida en libros, registros y sistemas de contabilidad, a nombre del contribuyente localizados en poder de personas a su servicio o de accionistas o propietarios de la empresa corresponde a operaciones del causante.
+
+C).- Que la información escrita o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+
+a).- Cuando se refieran al causante designado por su nombre, denominación o razón social.
+
+b).- Cuando señalen como lugar para la entrega o recibo de bienes o prestación de servicios cualquiera de los establecimientos del causante, aún cuando exprese el nombre, denominación o razón social de un tercero real o ficticio.
+
+c).- Cuando señalen el nombre o domicilio de un tercero real o ficticio, si se comprueba que el causante entrega o recibe bienes o servicios a ese nombre o en ese domicilio.
+
+d).- Cuando se refieren a cobros o pagos efectuados por el causante o por su cuenta, por persona interpósita o ficticia.
+
+D).- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos gravables del último ejercicio que se revise.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+VIII.- En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa a que se refieren las leyes fiscales y no puedan comprobar su ingreso por el período objeto de revisión, se presumirá que el ingreso es igual al resultado de alguna de las siguientes operaciones:
+
+A).- Si con base en la contabilidad y documentación del causante o información de terceros pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de revisión.
+
+B).- Si la contabilidad y documentación del causante no permite reconstruir las operaciones de treinta días, la Tesorería General del Estado tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
+
+Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 37.- Las visitas domiciliarias para comprobar, que se han acatado las disposiciones fiscales se sujetarán a lo siguiente:
@@ -257,9 +289,9 @@ VII.- El visitado, los testigos y los visitadores firmarán el acta. Si el visit
 
 VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantarán actas previas, o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
-IX.- El visitado o quien lo represente deberá expresar dentro de los 20 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad en forma circunstanciada, ofreciendo las pruebas pertinentes. Para la substanciación del presente recurso, se estará a lo dispuesto en el artículo 397 de este Código.
+IX.- El visitado o quien lo represente deberá expresar dentro de los 20 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad en forma circunstanciada, ofreciendo las pruebas pertinentes. En caso de que no se ofrezcan pruebas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas. Para la substanciación del presente recurso se estará a lo dispuesto en el artículo 397 de este Código.
 
 38.- Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
@@ -385,7 +417,9 @@ Sin embargo de lo anterior, tratándose de derechos y de rezagos, o sea de ingre
 
 Los recargos y las multas por infracción a las disposiciones fiscales podrán ser condonadas por el Tesorero General del Estado, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso. Contra esta resolución no cabrá ningún recurso.
 
-55.- Las autoridades fiscales no podrán declarar de oficio la prescripción; en todo caso los causantes deberán hacerla valer mediante memorial presentado en cualquier momento a partir del requerimiento que se les haga y siempre y cuando se garantice el interés fiscal si así lo estima conveniente la Tesorería General del Estado. Cumplidos los requisitos anteriores si el crédito fiscal efectivamente prescribió, deberá declararse así y reintegrarse al causante la cantidad exhibida sin hacer deducciones por ningún concepto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+55.- Las autoridades fiscales no podrán declarar de oficio la prescripción; en todo caso los causantes deberán hacerla valer mediante memorial presentado en cualquier momento antes del requerimiento que se les haga o quince días después del mismo siempre y cuando se garantice el interés fiscal si así lo estima conveniente la Tesorería General del Estado. Cumplidos los requisitos anteriores, si el crédito fiscal efectivamente prescribió, deberá declararse así y reintegrarse al causante la cantidad exhibida sin hacer deducciones por ningún concepto.
 
 La prescripción es personal para los sujetos del crédito fiscal.
 
@@ -817,7 +851,7 @@ V.- Las órdenes de clausura preventiva o definitiva, en su caso, se dictarán p
 
 VI.- La clausura preventiva se practicará en cualquier tiempo después de los 15 días siguientes a la fecha en que debieron presentarse las declaraciones. La Autoridad que ordenó la clausura deberá levantarla en la misma fecha en que se presenten las declaraciones y se haga el pago del impuesto, de los recargos, sanciones y de los gastos de ejecución o, en su caso, se asegure el interés fiscal.
 
-VII.- Los causantes que exploten las industrias nuevas ó necesarias con franquicia otorgada por el Ejecutivo y que no presenten las declaraciones que indica el artículo 223, se harán acreedores, además, a las sanciones establecidas en las disposiciones relativas al fomento a la industria.
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
 
 95.- Tratándose de infracciones al Impuesto sobre Producción y Venta de Bebidas Alcohólicas y Alcohol, se observarán, particularmente, las siguientes reglas, sin perjuicio de que en caso de omisión se apliquen las disposiciones de los artículos anteriores:
 
@@ -1050,6 +1084,8 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -1421,7 +1457,9 @@ b).- Los planos parciales catastrales del Estado.
 
 II.- Numérico, que registrará:
 
-a).- El número de cuenta del predio;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+a).- El número de cuenta o clave del predio;
 
 b).- El nombre del propietario o poseedor del predio;
 
@@ -1437,11 +1475,15 @@ III.- Alfabético, que registrará:
 
 a).- El nombre del sujeto del impuesto, su nacionalidad y domicilio;
 
-b).- El número de cuenta del predio;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+b).- El número de cuenta o clave del predio;
 
 IV.- De exenciones, que registrará:
 
-a).- El número de cuenta del predio;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+a).- El número de cuenta o clave del predio;
 
 b).- El nombre del propietario o poseedor del predio;
 
@@ -1639,7 +1681,11 @@ VI.- Cuando en las fincas urbanas en construcción o reedificación, haya transc
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974)</small>
 
-VII.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se construya, o alguna obra urbanística que incremente significativamente su valor, aunque el avalúo vigente tenga una antigüedad menor a 2 años.
+VII.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se construya, o alguna obra urbanística que incremente significativamente su valor, aunque el avalúo vigente tenga una antigüedad menor a 2 años;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+VIII.- Cuando se trasmita el dominio del predio.
 
 125.- Al practicarse las valuaciones catastrales, los comisionados deberán presentarse en día y hora hábiles en el predio que deba ser objeto de la valuación y mostrarán a los ocupantes tanto la orden correspondiente como su credencial de identificación.
 
@@ -1815,7 +1861,11 @@ N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCE
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
-175.- Son objeto de este impuesto, los ingresos en efectivo o en especie se perciban: en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas; mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+175.- Son objeto de este impuesto los ingresos en efectivo o en especie que se perciban: en el libre ejercicio de una profesión, arte, oficio, actividad técnica, deportiva o cultural; como agente de Instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
+
+Si los causantes de este impuesto son además sujetos del impuesto sobre sueldos y emolumentos en los términos de los artículos 166 y 167 de este Código, deberán acumularse los ingresos obtenidos y a la suma se le aplicará la tarifa del artículo 177.- Del producto obtenido se deducirán las retenciones que se hayan hecho en la forma prescrita por el artículo 169.
 
 176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
 
@@ -1883,11 +1933,11 @@ De 0.01 a 1,200.00 Exento 0.0
 
 I.- Las cantidades pagadas por: sueldos, salarios y honorarios, propios del ejercicio de la actividad de que se trate, siempre y cuando las personas que perciban el sueldo o salario estén inscritas en el Instituto Mexicano del Seguro Social, y las que perciban honorarios tengan cédula profesional y estén registrados en el Padrón Estatal de Causantes.
 
-II.- El importe de la renta siempre que se refiera exclusivamente al local destinado al ejercicio de su actividad.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
-Los causantes que no deseen presentar comprobación relativa a las deducciones mencionadas en este artículo, en substitución de las mismas podrán deducir el 20% de los ingresos brutos que hayan percibido en el mes
+II.- El precio del arrendamiento del local que se destine exclusivamente a su actividad, siempre que se acredite que los recibos reúnen los requisitos legales.
 
-Los sujetos del impuesto deberán llevar por lo menos un libro de ingresos y egresos.
+Los sujetos del Impuesto deberán llevar por lo menos, un libro de ingresos y egresos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -1923,17 +1973,7 @@ V.- Cuando se trate de agrupaciones profesionales, asociaciones o sociedades de 
 
 En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto, para cuyo efecto se deberá presentar una declaración en los términos de la fracción I listando los ingresos que correspondan a cada uno de los socios en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-VI.- Presentar por triplicado en la Recaudación de Rentas de su jurisdicción, dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalen las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
-
-a).- Copia en que aparezca el sello de recibido de la Oficina Federal de Hacienda, de la carátula de la declaración y anexos presentados para el pago del Impuesto sobre la Renta Federal;
-
-b).- Relación de sueldos pagados;
-
-c).- Relación de honorarios pagados a personas afectas al Impuesto sobre Profesiones y Ejercicios Lucrativos, señalando el nombre, domicilio, concepto, honorarios y registro estatal de causantes de cada uno de ellos;
-
-d).- Relación conteniendo todos los datos respecto a contratos de arrendamiento de bienes muebles e inmuebles, indicando el número de registro de los mismos ante las oficinas Recaudadoras de Rentas.
+VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
 
 VII.- Señalar nombre y domicilio del depositario de los libros y en general de toda la documentación del causante, en caso de clausura, traslado y cambio de denominación social.
 
@@ -2429,13 +2469,15 @@ Si radican dentro del Estado, los representantes legales, los comisionistas y ma
 
 #### SECCION NOVENA. VIGILANCIA
 
-238.- La vigilancia de este impuesto se ejercerá por la Tesorería General del Estado, tanto directamente como por conducto de las Recaudaciones de Rentas. La Tesorería General del Estado es la autoridad ampliamente facultada para exigir de los causantes la adopción y establecimiento de medidas de control; ordenar la práctica de auditorías, efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de la auditoría; exigir de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este Capítulo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
-Cuando con apoyo en las investigaciones practicadas no sea posible determinar el monto de los ingresos reales del causante, las autoridades fiscales podrán estimarlos tomando en cuenta para ello, entre otros, los elementos a que se refiere el artículo siguiente.
+238.- La vigilancia de este impuesto se ejercerá por la Tesorería General del Estado, tanto directamente como por conducto de las Recaudaciones de Rentas.- La Tesorería General del Estado es la autoridad ampliamente facultada para exigir de los causantes la adopción y establecimiento de medidas de control; ordenar la práctica de auditorías, efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de la auditoría; exigir de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general, solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este capítulo.
+
+Cuando con apoyo en las investigaciones practicadas no sea posible determinar el monto de los ingresos reales del causante, las autoridades fiscales podrán estimarlos tomando en cuenta para ello, entre otros, los elementos a que se refiere el artículo 23.
 
 El Tesorero General del Estado podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
 
-Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Tesorería General o a la Autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
+Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Tesorería General o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -2477,7 +2519,7 @@ c).- Recibir las visitas de inspección que ordene la Tesorería General del Est
 
 d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00(QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
 
-V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
+V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al termino de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -2549,7 +2591,9 @@ Tratándose de ganado menor el causante deberá acreditar los derechos de propie
 
 II.- Los demás que establezcan las leyes correspondientes.
 
-247.- Los certificados de pago del impuesto se expedirán en original y cinco copias; el original se entregará al interesado y las copias se distribuirán entre: Recaudación de Rentas, Tesorería General del Estado, Inspector Fiscal, Archivo de la Oficina del lugar de destino y rastros locales, Empacadoras o corrales de las Uniones, que deberán conservar para el caso de inspección fiscal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+247.- Los certificados de pago del impuesto se expedirán en la forma que lo determinen las disposiciones administrativas, entregándole el original al interesado.
 
 248.- Las Recaudaciones expedirán el certificado de pago correspondiente, haciendo las anotaciones respectivas en el documento que ampare la operación o en el certificado de propiedad extendido por las autoridades Estatales o Municipales.
 
@@ -2577,7 +2621,9 @@ IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones 
 
 263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
 
-264.- El impuesto se causará a razón del 3% sobre el valor oficial que se fije a este producto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
 
 265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
 
@@ -2639,7 +2685,7 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 
 304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
 305.- El impuesto se causará de acuerdo con la siguiente tarifa:
 
@@ -2670,6 +2716,10 @@ VI.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 VII.- Cuando en un mismo instrumentos se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+VIII.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del Registro Público de la Propiedad estatales, causarán el Impuesto sobre Actos Jurídicos conforme a las disposiciones de este capítulo.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4480,3 +4530,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 6 DE NOVIEMBRE DE 1976.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, a partir del día siguiente de su publicación en el Periódico Oficial del Estado y surtirá efectos retroactivamente en beneficio de los trabajadores a partir del día primero de octubre de 1976.
+
+P.O. 29 DE DICIEMBRE DE 1976.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de enero de 1977.
