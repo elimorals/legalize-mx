@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ejecucion-de-sanciones-privativas-y-medidas-11879"
 country: "mx"
 rank: "ley"
 publication_date: "1973-01-27"
-last_updated: "1996-07-01"
+last_updated: "1998-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de enero de 1973.
 
@@ -154,6 +154,10 @@ Por ningún motivo se dará entrada en establecimientos para adultos, a menores 
 ###### ARTICULO 19.
 
 Los hombres y las mujeres deberán ser internados en establecimientos diferentes. Si en un mismo establecimiento se reciben hombres y mujeres, los locales destinados a mujeres, deberán estar completamente separados de los destinados a los hombres.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Para evitar al máximo las influencias nocivas, en la medida de lo posible, serán separados los internos: a) De dieciséis a dieciocho años del resto de la población carcelaria; b) Primodelincuentes de los reincidentes; y c) Que den signos de resocialización de los que no den.
 
 ###### ARTICULO 20.
 
@@ -441,9 +445,11 @@ Se permitirá a los procesados, si así lo solicitan, que sean atendidos, dentro
 
 VI.- Trabajo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 62.
 
-Los procesados no están sujetos a la obligación de trabajar, pero podrán hacerlo y se les estimulará para que lo hagan, proporcionándoles, en la media de lo factible, los medios necesarios. En caso de dictarse sentencia condenatoria, el tiempo que hayan trabajado podrá tomárseles en cuenta para el beneficio de remisión parcial de la pena. Los internos procesados que no hubiesen concluido la enseñanza primaria, tendrán la obligación de seguir los cursos que correspondan en la Escuela de la Institución.
+Se proporcionará a los procesados, en la medida de lo factible, los medios necesarios para que desarrollen algún trabajo y se les estimulará para que lo hagan.
 
 ## TITULO CUARTO.
 
@@ -469,9 +475,15 @@ Durante el período de observación y diagnóstico, el personal técnico de la I
 
 Durante el período de tratamiento se someterá a cada interno a las medidas educativas laborales, médicas y de otra índole, que se consideren más adecuadas para cumplir los fines del artículo 63 de esta Ley. Dicho período podrá ser dividido en las etapas que sean necesarias para seguir un método gradual, conforme a la readaptación de los internos, sin perjuicio de continuar los estudios relacionados con su personalidad. Entre estas etapas figurará la preliberacional.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+El tratamiento a los condenados a semilibertad consistirá en la aplicación de medidas educativas, laborales o curativas autorizadas por la ley y conducentes al exclusivo fin de que el sentenciado no vuelva a delinquir.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 67.
 
-El tratamiento preliberacional establecimiento (sic);
+El tratamiento preliberacional consistirá en:
 
 I.- Orientación al interno y a sus familiares de los aspectos sociales y prácticos de su vida en libertad;
 
@@ -487,6 +499,10 @@ VI.- Permisos de salida de fin de semana o en ocasiones especiales, o diario con
 
 VII.- Otras medidas adecuadas que apruebe previamente la Dirección de Prevención y Readaptación Social.
 
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Si el interno tiene varias penas de prisión, en ningún caso se compurgarán simultáneamente. Para efectos de las remisiones parciales de pena, de la libertad preparatoria y de la preliberación se tomará en cuenta la suma de dichas penas.
+
 ###### Artículo 68.
 
 El Ejecutivo del Estado promoverá la creación de establecimientos abiertos, en los cuales el tratamiento se fundará en la confianza, en una disciplina aceptada y en el sentimiento de responsabilidad del interno respecto a la comunidad en que vive.
@@ -494,6 +510,10 @@ El Ejecutivo del Estado promoverá la creación de establecimientos abiertos, en
 ###### Artículo 69.
 
 El régimen de establecimiento abierto, así como los sistemas de permisos de salida de fin de semana, diario con reclusión nocturna o en días hábiles con reclusión de fin de semana, podrán servir tanto al tratamiento preliberacional, como para el cumplimiento de penas privativas de libertad, cuando esto sea técnicamente recomendable tomando en cuenta la ausencia de peligrosidad o grado de readaptación de cada sujeto, siempre y cuando el tiempo por compurgar hasta la posible liberación, bien sea por el cumplimiento de la sanción, o por la posible obtención de los beneficios de libertad preparatoria o remisión parcial de la pena, no exceda de dos años.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+La prevención del párrafo anterior no es aplicable al reo que no haya compurgado la mitad de la prisión impuesta.
 
 ###### Artículo 70.
 
@@ -695,6 +715,14 @@ II.- Que el examen de su personalidad haga presumir que está reformado y social
 
 III.- Que haya reparado o se obligue formalmente a reparar el daño causado, si fue condenado a ello, sujetándose a la forma, medidas y términos que de acuerdo con su situación se fijen por la Dirección de Prevención y Readaptación Social, si no puede cubrirlo desde luego.
 
+> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+IV.- No se trate de alguno de los delitos graves así calificados por la ley; y
+
+> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 3 DE OCTUBRE DE 1998)</small>
+
+V.- No se trate de reincidentes.
+
 Llenados los requisitos anteriores, la Dirección de Prevención y Readaptación Social podrá conceder la libertad preparatoria que estará sujeta a las siguientes condiciones:
 
 a).- Observar buena conducta, residir o, en su caso, no residir, en lugar determinado, sin que pueda cambiar de domicilio sin autorización previa de la Dirección. La designación de residencia se hará conciliando la circunstancia de que el agraciado pueda proporcionarse trabajo o en el caso de la fracción (sic) siguiente, continuar su preparación, en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
@@ -733,15 +761,15 @@ IV.- Retención.
 
 ###### Artículo 98.
 
-Las sanciones privativas de libertad, siempre que excedan de un año se entienden impuestas en calidad de retención hasta por una mitad más de su duración, en su caso.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### Artículo 99.
 
-La retención se aplicará cuando a juicio de la Dirección de Prevención y Readaptación Social y tomando en cuenta el dictamen del Consejo Técnico del establecimiento, considere que subsiste el estado de peligrosidad del interno, pudiendo cesar dicha retención antes de su término máximo en el momento en que la propia Dirección considere lograda la readaptación. También podrá ordenar la reducción en los casos en que haya revocado la libertad preparatoria a que se refiere el artículo 95 de esta Ley.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 ###### Artículo 100.
 
-Siempre que llegare al conocimiento de la Dirección de Prevención y Readaptación Social, cualquiera noticia que pudiere motivar la retención, practicará de oficio la investigación correspondiente y en vista de la misma resolverá si procede o no aplicarla, pudiendo revocar libremente cualquier acuerdo anterior en contrario.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
 V.- Liberación.
 
@@ -880,3 +908,11 @@ P.O. 1 DE JULIO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
