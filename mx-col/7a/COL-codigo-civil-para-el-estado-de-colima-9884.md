@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1975-06-14"
+last_updated: "1980-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1980.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -7173,15 +7173,19 @@ ART. 2206.- En la venta de que habla el artículo 2,203, mientras que no pasa la
 
 ART. 2207.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-ART. 2208.- La venta de un inmueble que tenga un valor fiscal hasta de tres mil pesos, podrá hacerse en instrumento privado que firmará el comprador y el vendedor ante dos testigos.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1980)</small>
 
-Las firmas de las personas mencionadas, deberán ratificarse ante Notario Público o en su defecto ante la autoridad judicial del lugar.
+ART. 2208.- La venta de un inmueble que tenga un valor fiscal hasta de tres mil pesos, podrá hacerse en instrumento privado que firmará el comprador y el vendedor ante dos testigos. Las firmas de las personas mencionadas deberán ratificarse ante Notario Público o a falta de éste ante la Autoridad Judicial del lugar.
+
+Los contratos por los que los Organismos Descentralizados Estatales o Federales y Empresas de Participación Oficial dependientes de dichos Organismos enajenen inmuebles para regularizar la tenencia de la tierra, podrán otorgarse en documento privado, sea cual fuere su cuantía, sin el requisito de ratificación de firmas.
 
 ART. 2209.- Si alguno de los contratantes no supiere escribir, firmará su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1,725.
 
 ART. 2210.- De dicho instrumento se formarán dos originales, uno para el comprador y otro para el Registro Público.
 
-ART. 2211.- Si el valor fiscal del inmueble excede de tres mil pesos, su venta se hará en escritura pública.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1980)</small>
+
+ART. 2211.- Si el valor fiscal del inmueble excede de tres mil pesos, su venta se hará en escritura pública; salvo la excepción contenida en el artículo 2208.
 
 ART. 2212.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -7221,9 +7225,11 @@ ART. 2232.- No puede hacerse donación verbal más que de bienes muebles.
 
 ART. 2233.- La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de doscientos pesos.
 
-ART. 2234.- Si el valor de los muebles excede de doscientos pesos, pero no de tres mil, la donación debe hacerse por escrito.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1980)</small>
 
-Si excede de tres mil, la donación se reducirá a escritura pública.
+ART. 2234.- Si el valor de los muebles o inmuebles excede de doscientos pesos, pero no de tres mil pesos, la donación debe hacerse por escrito.
+
+Si excede de tres mil, la donación se reducirá a escritura pública; salvo la excepción que contiene el artículo 2208, que también se aplica a este Contrato.
 
 ART. 2235.- La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
@@ -9702,3 +9708,9 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir del día de su
 P.O. 14 DE JUNIO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE FEBRERO DE 1980.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente.
