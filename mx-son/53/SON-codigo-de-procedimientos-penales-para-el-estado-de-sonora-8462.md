@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1997-03-10"
+last_updated: "2001-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DE 2001.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1481,9 +1481,13 @@ Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, ba
 
 En los casos de aborto, además de las diligencias mencionadas en los artículos 167 y 168, así como de cualesquiera otras que resulten pertinentes, también reconocerán los peritos médicos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En todo caso expresarán la edad del producto de la concepción, su viabilidad y todo aquello que pueda servir para fijar la naturaleza del delito.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 170.
 
-(DEROGADO, B.O. 2 DE SEPTIEMBRE DE 1994)
+Para integrar el cuerpo del delito de violencia intrafamiliar deberán acreditarse las calidades específicas y circunstancias de los sujetos pasivos señalados en los artículos 234-A y 234-B del Código Penal para el Estado de Sonora, además de agregarse a la averiguación los dictámenes correspondientes de los peritos en el área de salud física y mental que laboren para instituciones públicas o privadas, según lo contemplan los artículos 212 al 230 del presente Código.
+
+Las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia intrafamiliar, podrán colaborar en calidad de peritos y sus informes deberán rendirse por escrito. Asimismo, los profesionales que presten los servicios en las instituciones antes mencionadas, podrán participar en calidad de peritos, sujetándose a lo dispuesto en este Código.
 
 ###### ARTICULO 171.
 
@@ -3924,3 +3928,7 @@ B.O. 10 DE MARZO DE 1997.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
