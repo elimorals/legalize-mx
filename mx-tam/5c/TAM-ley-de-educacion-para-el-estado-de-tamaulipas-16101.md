@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "1999-10-23"
+last_updated: "2002-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DEL 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -57,9 +57,13 @@ II.- Ejecutivo del Estado, el Gobernador Constitucional del Estado;
 
 III.- Estado, el Gobierno del Estado de Tamaulipas;
 
-IV.- Secretaría, la Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
-V.- Dirección General, la Dirección General de Educación del Estado;
+IV.- Secretaría, la Secretaría de Educación, Cultura y Deporte del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+V.- Subsecretarías, la Subsecretaría de Educación Básica y Normal y la Subsecretaría de Educación Media Superior y Superior;
 
 VI.- SEP, la Secretaría de Educación Pública; y
 
@@ -85,11 +89,13 @@ La educación que impartan el Estado, los Municipios, los organismos descentrali
 
 La educación que impartan el Estado y los Municipios será laica, gratuita y constituye un servicio público.
 
-###### ARTICULO 7°.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
-Todos los habitantes de la Entidad deben cursar la educación primaria y secundaria. El Estado procurará crear las condiciones sociales necesarias para el cumplimiento de esta obligación.
+###### ARTICULO 7º.
 
-La educación preescolar será garantizada por el Estado para que los habitantes tengan acceso a la misma.
+Todos los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria. El Estado creará las condiciones necesarias para el cumplimiento de esta obligación.
+
+La educación preescolar, primaria y secundaria conforman la educación básica obligatoria.
 
 ### CAPITULO II. FINES Y CRITERIOS DE LA EDUCACION
 
@@ -105,7 +111,9 @@ III.- Impulsar el desarrollo social, entendido éste como el mejoramiento consta
 
 IV.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de Tamaulipas;
 
-V.- Promover el conocimiento y preservación del idioma oficial -el español- idioma común para todos los mexicanos, sin menoscabo de otras lenguas;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+V.- Promover el conocimiento y la preservación del idioma oficial –el español-, idioma común para todos los mexicanos; e impulsar el conocimiento del idioma inglés, sin menoscabo de otras lenguas;
 
 VI.- Infundir el conocimiento y la práctica de la democracia como forma de convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
@@ -205,9 +213,11 @@ XVII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la 
 
 #### SECCION SEGUNDA. ATRIBUCIONES DE LA SECRETARIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 12.
 
-Corresponden a la Secretaría las siguientes atribuciones en materia educativa, las cuales podrá delegar a la Dirección General sin contravenir las disposiciones jurídicas aplicables:
+Corresponden a la Secretaría las siguientes atribuciones en materia educativa, las cuales podrá delegar en las Subsecretarías correspondientes, sin contravenir las disposiciones jurídicas aplicables:
 
 I.- Aplicar y vigilar el cumplimiento de las disposiciones que señalan en materia de educación, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General, esta Ley y demás disposiciones relativas en la materia;
 
@@ -263,7 +273,9 @@ VII.- No permitir el establecimiento de comercio ambulante en las inmediaciones 
 
 VIII.- Apoyar la existencia de los patronatos para la construcción, conservación y funcionamiento de escuelas, de acuerdo con las disposiciones respectivas;
 
-IX.- Apoyar las gestiones de la Secretaría, de la Dirección General y de los responsables de las escuelas, que tiendan al mejoramiento de la enseñanza;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+IX.- Apoyar las gestiones de la Secretaría, de las Subsecretarías y de los responsables de las escuelas, que tiendan al mejoramiento de la enseñanza;
 
 X.- Velar para que en los casos de epidemia las autoridades sanitarias y educativas procedan de inmediato a la clausura temporal de los establecimientos escolares;
 
@@ -279,7 +291,9 @@ XV.- Promover permanentemente la investigación que sirva como base a la innovac
 
 XVI.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica; y
 
-XVII.- Auxiliar al Ejecutivo del Estado, la Secretaría y la Dirección General, en el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+XVII.- Auxiliar al Ejecutivo del Estado, a la Secretaría y a las Subsecretarías, en el cumplimiento de esta Ley.
 
 ### CAPITULO IV. DE LOS PADRES Y DE LOS EDUCANDOS
 
@@ -303,7 +317,9 @@ V.- Opinar en los casos de la educación que impartan los particulares en relaci
 
 Son obligaciones de quienes, conforme a las leyes, ejercen la patria potestad o tutela:
 
-I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, primaria y secundaria;
 
 II.- Participar en el programa escuela para padres, para dar mayor atención a sus hijos;
 
@@ -383,9 +399,11 @@ La educación inicial tendrá como finalidad familiarizar al niño a partir de l
 
 El tipo básico comprende la educación preescolar, la primaria y la secundaria.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la socialización del menor a partir de los 4 años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente de la educación primaria, sin que constituya requisito obligatorio para ingresar a la misma.
+La educación preescolar tendrá como propósito fundamental la socialización del menor a partir de los cuatro años de edad, atendiendo aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices, que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad, y se oriente su desarrollo hacia la investigación y el trabajo. Es antecedente obligatorio para ingresar a la educación primaria.
 
 ###### ARTICULO 25.
 
@@ -419,9 +437,11 @@ En la impartición de la educación para menores de edad, se tomarán medidas qu
 
 El bachillerato o los equivalentes de éste tienen por objeto proporcionar al educando la formación necesaria para ingresar a una institución de educación superior y, en su caso, también prepararlo con conocimientos éticos y técnicos especializados de acuerdo a las ramas productivas existentes en la Entidad y a las exigencias del desarrollo regional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 32.
 
-El tipo básico superior es el que se imparte después de acreditado el bachillerato o sus equivalentes; está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
+El tipo superior es el que se imparte después de acreditado el bachillerato o sus equivalentes; está compuesto por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
 La educación superior tiene como propósito formar profesionistas, investigadores, profesores, universitarios y técnicos útiles a la sociedad; organizar y realizar investigaciones, principalmente de las condiciones y problemas regionales, estatales y nacionales, y extender con la mayor amplitud los beneficios de la cultura a la comunidad.
 
@@ -471,9 +491,11 @@ Los Servicios Educativos que imparte el Estado quedarán bajo la responsabilidad
 
 El establecimiento de las instituciones educativas que realice el Ejecutivo del Estado por conducto de otras dependencias de la administración pública estatal, se harán en coordinación con la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 40.
 
-Será responsabilidad de las autoridades educativas estatales realizar una distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios.
+Será responsabilidad de las autoridades educativas estatales realizar una distribución oportuna, completa, amplia y eficiente de los libros de texto gratuitos, de los de valores éticos universales y de los de inglés, los cuales también serán gratuitos; así como de los demás materiales de apoyo didáctico.
 
 En el caso de la educación pública de secundaria los libros de texto se constituyen en acervo cultural de las escuelas quienes los tendrán bajo su custodia, vigilando y difundiendo una cultura del cuidado y buen uso del libro. Este respeto por los textos permitirá cumplir con la disposición de reasignarlos de manera adecuada a la siguiente generación de alumnos.
 
@@ -561,9 +583,11 @@ Las autoridades educativas establecerán mecanismos que propicien la permanencia
 
 Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Asimismo, a quienes destaquen en la investigación, diseño de programas, proyectos y planes educativos; así como los autores de propuestas innovadoras, que transformen la práctica docente.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 55.
 
-El personal docente que aspire a prestar sus servicios en plazas vacantes y de nueva creación en la Dirección General se someterá a los concursos de oposición que procedan para acreditar su preparación académica y pedagógica en el ejercicio de las funciones que prestará, de conformidad con el Reglamento respectivo que al efecto se expida.
+El personal docente que aspire a presentar sus servicios en plazas vacantes y de nueva creación en la Secretaría, se someterá a los concursos de oposición que procedan para acreditar su preparación académica y pedagógica en el ejercicio de las funciones que prestará, de conformidad con el Reglamento respectivo que al efecto se expida.
 
 ###### ARTICULO 56.
 
@@ -582,6 +606,18 @@ El proceso educativo comprende la enseñanza, el aprendizaje, la investigación 
 ###### ARTICULO 59.
 
 A través del proceso educativo se desarrollarán las facultades y aptitudes del educando, a fin de integrarlo como un elemento útil y productivo a la sociedad.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+El Estado impulsará la enseñanza de valores éticos universales en la educación básica –preescolar, primaria y secundaria– y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+El Estado impartirá clases de inglés en las escuelas públicas de educación primaria y normal.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+Asimismo, el Estado impulsará la modernización educativa en las escuelas públicas de educación básica y media superior, a partir de la instalación de aulas de medios, centros de cómputo y otras tecnologías educativas que fortalezcan el proceso de enseñanza-aprendizaje.
 
 ###### ARTICULO 60.
 
@@ -685,15 +721,19 @@ V.- Formará en los educandos una sólida conciencia social para la interpretaci
 
 VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenidos básicos de la ecología para que puedan orientar a las comunidades en el mejoramiento del medio ambiente;
 
-VII.- Pugnarán para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la no intervención, autodeterminación de los pueblos y la solidaridad internacional, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen político social y económico; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
+VII.- Pugnará porque se comprendan e interpreten los principios de la política exterior de México de autodeterminación de los pueblos, no intervención, solución pacífica de controversias, preinscripción de la amenaza o uso de la fuerza en las relaciones internacionales, igualdad jurídica de los estados, cooperación internacional para el desarrollo, y lucha por la paz y la seguridad internacionales, sobre la base de señalar que las relaciones entre los pueblos son indispensables por razones esencialmente humanísticas, independientemente de su régimen político, económico y social; asimismo, promoverá la enseñanza del idioma inglés como una herramienta adicional de la cultura; y
 
 VIII.- Pugnará por la constante actualización y superación académica del magisterio, mediante las bases del conocimiento científico y pedagógico.
 
 #### SECCION QUINTA. DE LA EVALUACION DEL SISTEMA EDUCATIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+
 ###### ARTICULO 72.
 
-Corresponde a la Secretaría, con el apoyo de la Dirección General, la evaluación del Sistema Educativo Estatal, observando lo dispuesto por la Ley General y apoyándose en un Sistema Estatal de Información que le permita disponer en forma oportuna y veraz de datos sobre el desarrollo del mismo.
+Corresponde a la Secretaría, con el apoyo de las Subsecretarías, la evaluación del Sistema Educativo Estatal, observando lo dispuesto por la Ley General y apoyándose en el Sistema Estatal de Información que le permitirá disponer en forma oportuna y veraz de datos sobre el desarrollo del mismo.
 
 Dicha evaluación, será sistemática y permanente, y al término de cada ciclo escolar se darán a conocer los resultados. Estos serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
 
@@ -795,7 +835,7 @@ Las autoridades educativas promoverán, de conformidad con los lineamientos gene
 
 Será responsabilidad de las autoridades de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El ayuntamiento y el Ejecutivo del Estado darán toda su colaboración para tales efectos.
 
-La autoridad escolar hará lo necesario para que en cada escuela pública de educación básica opere un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+La autoridad escolar hará lo necesario para que en cada escuela pública de educación básica opere un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes- de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 ###### ARTICULO 84.
 
@@ -1142,3 +1182,23 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los quince días del mes de octubre de mil novecientos noventa y nueve.
 
 El Gobernador Constitucional del Estado, TOMAS YARRINGTON RUVALCABA.- Rúbrica.- La Secretaria General de Gobierno. LAURA ALICIA GARZA GALINDO Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE OCTUBRE DEL 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La educación preescolar será obligatoria para todos en los siguientes plazos: el tercer año de preescolar, a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; y el primer año de preescolar, a partir del ciclo 2008-2009. En los plazos señalados, el Estado habrá de universalizar en toda la Entidad, en calidad, la oferta de este servicio educativo.
+
+###### ARTICULO TERCERO.
+
+Lo dispuesto en el artículo 59 con relación a la impartición del idioma inglés, se realizará en función de la disponibilidad presupuestal del Estado, garantizándose la impartición de clases de inglés en los grados cuarto y quinto en escuelas públicas de educación primaria, al inicio de la vigencia del presente Decreto; y para el inicio del ciclo escolar 2003-2004, la impartición de inglés en el sexto grado.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
