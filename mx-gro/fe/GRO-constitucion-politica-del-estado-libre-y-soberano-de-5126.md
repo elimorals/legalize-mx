@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1981-06-03"
+last_updated: "1981-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1981.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -411,13 +411,13 @@ Ningún ciudadano legalmente electo diputado de mayoría o acreditado como diput
 
 Las faltas temporales o definitivas de los diputados propietarios serán cubiertas por los suplentes respectivos.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 1981)</small>
 
 ###### ARTICULO 33.
 
-Los diputados, durante el período de ejercicio de sus funciones, no podrán desempeñar ninguna comisión pública o empleo dependiente de la Federación, del Estado o de algún municipio por los cuales disfrute sueldo, sin licencia previa del Congreso, con excepción de la docencia. Obtenida la licencia respectiva se suspenderá el ejercicio de las funciones representativas mientras dure el nuevo cargo.
+Los Diputados, durante el período de ejercicio de sus funciones no podrán desempeñar ninguna comisión pública o empleo dependiente de la federación, del Estado o de algún Municipio de sus respectivas administraciones públicas paraestatales, por los cuales disfrute sueldo, sin licencia previa al Congreso, con excepción de la docencia y de la beneficiencia (sic) pública o privada. Obtenida la licencia respectiva se suspenderá el ejercicio de las funciones representativas mientras dure el nuevo cargo.
 
-La infracción de esta disposición será sancionada con la pérdida del carácter de diputado, previa resolución del Congreso.
+La infracción de esta disposición será sancionada con la pérdida del carácter de Diputado, previa resolución del Congreso.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -629,7 +629,9 @@ XXXIII.- Cambiar la residencia de los Poderes del Estado.
 
 XXXIV.- Informar al Congreso de la Unión en los casos a que se refiere el Artículo 73, fracción III inciso 3o. de la Constitución General de la República y ratificar, previos los estudios y observaciones, la resolución que dicte el propio Congreso Federal, de acuerdo con los incisos 6o. y 7o. de la misma fracción III.
 
-XXXV.- Recibir las denuncias en contra de los Diputados, Gobernador, Magistrados, Procurador de Justicia, Oficial Mayor de Gobierno y Directores del Despacho, por delitos oficiales y comunes, procediendo en término de los artículos 111 y 112 de esta Constitución.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 1981)</small>
+
+XXXV.- Recibir las denuncias en contra de los Diputados, Gobernador, Magistrados, Secretario General de Gobierno, Oficial Mayor de Gobierno, Procurador de Justicia y Secretarios, por delitos oficiales y comunes, procediendo en los términos de los artículos 111 y 112 de esta Constitución.
 
 XXXVI.- Autorizar al Gobernador para realizar arreglos o celebrar convenios con la Federación, que sean necesarios para el buen funcionamiento de la administración general o para la mejor prestación de los servicios públicos.
 
@@ -1111,9 +1113,9 @@ La Ley Orgánica respectiva determinará los requisitos que deben reunir los jue
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS.
+EL MUNICIPIO LIBRE.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1141,7 +1143,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 Son atribuciones del Tribunal Superior de Justicia funcionando en Pleno:
 
-I.- Conocer como tribunal de única instancia de las causas seguidas por delitos oficiales y comunes en contra de los diputados del Congreso, Gobernador del Estado, Magistrados, Secretario General de Gobierno, Procurador General de Justicia y Oficial Mayor.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 1981)</small>
+
+I.- Conocer como Tribunal de única Instancia de las causas seguidas por delitos oficiales y comunes en contra de los Diputados del Congreso, Gobernador del Estado, Magistrados, Secretario General de Gobierno, Oficial Mayor, Procurador General de Justicia y Secretarios.
 
 II.- Suspender de sus cargos a los Jueces de Primera Instancia y Menores contra quienes el Ministerio Público haya ejercitado acción penal por delitos oficiales y comunes. La suspensión de sus cargos se acordará una vez que el Magistrado que conozca de la consignación haga la declaración de que ha lugar a la formación de causa. La suspensión será requisito indispensable para la ejecución de la orden de aprehensión dictada en contra de dicho funcionario.
 
@@ -1153,7 +1157,13 @@ V.- Nombrar y remover a los secretarios del Tribunal y resolver sobre sus licenc
 
 VI.- Nombrar y remover al personal administrativo de acuerdo con las disposiciones de la Ley de los Trabajadores al Servicio del Estado de Guerrero.
 
-VII.- Las demás que le señalen las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE AGOSTO DE 1981)</small>
+
+VII.- Remitir el proyecto de sus presupuestos de egresos anuales al Poder Ejecutivo a fin de que lo incorpore al presupuesto de egresos del Estado, atendiendo a las previsiones del ingreso y del gasto público, que será enviado al Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1981)</small>
+
+VIII.- Las demás que le señalen las leyes.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1253,7 +1263,7 @@ DE LOS BIENES DEL ESTADO Y MANEJO DE SUS INGRESOS Y EGRESOS.
 
 No pueden ser electos como miembros de los ayuntamientos: los militares en servicio activo, los individuos de las fuerzas de defensa social y los funcionarios del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, noventa días antes de la elección. Tampoco pueden serlo en ninguna forma los ministros de algún culto religioso.
 
-> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 101.
 
@@ -1285,7 +1295,7 @@ III.- Otorgar concesiones o celebrar contratos con particulares para la prestaci
 
 IV.- Celebrar contratos para la construcción de obras públicas cuyo costo exceda del presupuesto calculado durante el período de su gestión, sin llenar los requisitos de la fracción anterior.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 1975)</small>
 
 ## TITULO OCTAVO.
 
@@ -1326,6 +1336,8 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 ###### ARTICULO 108.
 
 Ningún funcionario o empleado que tenga que manejar fondos, ya sea del Estado o del municipio podrá tomar posesión de su cargo sin haber caucionado previamente su manejo. El Ejecutivo cuidará que esa fianza se haga del conocimiento del Congreso.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ###### ARTICULO 109.
 
@@ -1635,17 +1647,29 @@ La responsabilidad de la Administración Pública y de sus funcionarios, emplead
 
 DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1981)</small>
 
 ###### ARTICULO 125.
 
 La presente Constitución puede ser reformada o adicionada por el Congreso del Estado. Para que las reformas o adiciones lleguen a ser parte de la Constitución, deben llenarse los siguientes requisitos:
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 1975)</small>
+
 I.- Presentar una iniciativa suscrita cuando menos por diputados o por el Gobernador.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 1975)</small>
 
 II.- Discutir y aprobar las reformas o adiciones o ambas, por las dos terceras partes de la totalidad de los miembros del Congreso.
 
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1981)</small>
+
+III.- Aprobar las reformas o adiciones, o ambas por las dos terceras partes de la totalidad de los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
+
 Si el Jefe del Ejecutivo veta las reformas o adiciones, éstas no podrán ser discutidas nuevamente hasta el siguiente período de sesiones del Congreso.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volverán a discutirse sino hasta la siguiente Legislatura; y en caso de que ésta las aprobare de nueva cuenta, el Gobernador las promulgará sin ningún otro trámite.
 
@@ -1654,8 +1678,6 @@ Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volver
 ###### ARTICULO 126.
 
 Esta Constitución no perderá su fuerza ni su vigor en ningún caso y por ningún motivo. Sus disposiciones son permanentes y sólo puede ser reformada o adicionada siguiendo los procedimientos y respetando los principios que la misma establece.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
 ### CAPITULO III.
 
@@ -1735,9 +1757,9 @@ DEL GOBIERNO DE LOS MUNICIPIOS DEL ESTADO.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 1975)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-EL MUNICIPIO LIBRE.
+DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -2250,3 +2272,13 @@ Artículo Primero.- Se derogan los Artículos 36, 45, 74, 76, 81, 117 y 119 de l
 Artículo Segundo.- Se derogan la fracción IV del Artículo 63, la fracción XXXVIII del Artículo 73 adicionándole la fracción XXXIX y el primer párrafo del Artículo 111 de la Constitución Política en vigor.
 
 Artículo Tercero.- El presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Se derogan los artículos 33, la fracción XXXV del artículo 47, las fracciones I y VII del artículo 91 de la Constitución Política en vigor, en todo lo que se opongan a este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto empezará a surtir sus efectos a partir de su publicación en el periódico Oficial del Estado.
