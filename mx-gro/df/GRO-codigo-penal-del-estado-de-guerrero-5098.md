@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1999-11-09"
+last_updated: "2002-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -881,13 +881,17 @@ El delito previsto en este artículo y sancionado en las fracciones I y II, se p
 
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-108.- Al autor de un homicidio calificado se le impondrán de veinte a cincuenta años de prisión, siempre y cuando se demuestre la premeditación, ventaja, alevosía o traición.
+108.- Al autor de un homicidio calificado se le impondrá de treinta a cincuenta años de prisión, siempre y cuando se demuestre la premeditación, ventaja, alevosía o traición.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 I.- Hay premeditación cuando el agente, intencionalmente, haya decidido cometer el hecho tras detenida y cuidadosa reflexión y ponderación de los factores que concurran en su perpetración.
 
 También existe premeditación cuando el agente del delito en forma dolosa materializa su acción por inundación, incendio, asfixia o enervantes, minas, bombas o explosivos, veneno o cualquiera otra sustancia nociva a la salud, contagio venéreo o por retribución dada o prometida, por tormento, motivos depravados o crueldad o por móviles abyectos o fútiles;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 II.- Hay ventaja:
 
@@ -901,13 +905,23 @@ d).- Cuando el ofendido se haya inerme o caído y el activo esté armado de pie.
 
 e).- Cuando el activo sea un hombre y el pasivo una mujer, notoriamente superior en fuerza, destreza o capacidad intelectual, de aquél respecto a ésta;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 III.- La alevosía consiste en que el activo sorprenda intencionalmente a alguien de improviso o empleando asechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiere hacer.
 
 También hay alevosía cuando el activo obra en forma insidiosa o traicionera y cuando se sorprende dolosamente a alguien anulando su defensa;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 IV.- Hay traición cuando se emplea la alevosía, la perfidia expresamente, y se viola la fe o seguridad que había prometido a la víctima o la tácita que ésta debía prometerse de aquél, por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
 Se aplicará la misma pena a que se refiere el artículo 108 de este ordenamiento, cuando el homicidio se cometa intencionalmente en casa habitación, habiéndose penetrado en la misma, de manera furtiva, con engaño o violencia o sin permiso de la persona autorizada para darlo.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+El que cometa este delito no tendrá derecho a gozar de los beneficios de remisión parcial de la pena, tratamiento preliberacional y libertad preparatoria que prevé la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1033,35 +1047,59 @@ II.- Al que celebre con otro un contrato que lo prive de su libertad o le impong
 
 ### CAPITULO III. SECUESTRO
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-129.- Se impondrá de veinte a cincuenta años de prisión y de ochocientos a mil ochocientos días multa, cuando la privación ilegal de la libertad, tenga el carácter de plagio o secuestro y se ejecute en alguna de las formas siguientes:
+129.- Se impondrá de treinta a cincuenta años de prisión y de mil doscientos a mil ochocientos días multa, cuando la privación ilegal de la libertad tenga el carácter de plagio o secuestro y se ejecute en alguna de las formas siguientes:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 I.- Para obtener rescate o causar daño o perjuicio a la persona privada de su libertad u otras personas distintas relacionadas con el plagiado;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 II.- Cuando se haga uso de amenazas graves, de maltrato, de tormento, violencia o se veje a la víctima;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 III.- Cuando se detiene en calidad de rehén a una persona y se amenaza de privarla de la vida, o causarle un daño, sea a aquella o a terceros, si la autoridad no realiza o deja de realizar un acto de cualquier naturaleza;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 IV.- Si quienes cometen el delito actúan en grupo o banda;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 V.- Cuando el secuestrado sea menor de doce años por quien sea extraño a su familia y no ejerza la tutela sobre el menor;
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
 VI.- Cuando el agente se ostente como autoridad.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 Si en los actos descritos participara un servidor público que ostenta a su cargo funciones de prevención, persecución, investigación o sanción de delitos, se le aplicará la misma pena, más la destitución y la inhabilitación definitiva para desempeñar cargos de la misma especie.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
 Cuando la acción delictiva la cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la pena será de cuatro a diez años de prisión, a excepción de lo dispuesto en las fracciones I y IV del presente artículo, en cuyo caso se aplicará la sanción de veinte a cincuenta años de prisión y la multa correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 La misma pena se aplicará al que sin haber participado en el secuestro tenga conocimiento del plagio; lo presencie o conozca quienes son los agentes, no lo dé a conocer a las autoridades competentes y se preste como intermediario en la negociación del rescate.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
 Si el secuestrador espontáneamente pone en libertad a la persona antes de tres días, sin causarle ningún perjuicio y no reúna ninguna de las modalidades establecidas en las fracciones del presente artículo, se le aplicará de uno a seis años de prisión.
 
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena será de cincuenta años de prisión. Para este delito no tendrán derecho los ejecutores a gozar de la conmutación de sanciones, remisión parcial de la pena o cualesquiera otros beneficios que la Ley respectiva establece.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+
+En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena será de cincuenta años de prisión.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+El que cometa este delito no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
 129 Bis.- (DEROGADO, P.O. 20 DE ABRIL DE 1999)
-
-### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1080,6 +1118,8 @@ Las penas a que se refiere el presente artículo se aplicarán con independencia
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 133.- El delito de privación ilegal de la libertad con propósitos sexuales, se perseguirá por querella de parte ofendida o de su legítimo representante.
+
+### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
 ### CAPITULO I. AMENAZAS
 
@@ -1123,23 +1163,35 @@ Se entiende por cópula, cualquier forma de ayuntamiento carnal en el cuerpo de 
 
 139 Bis.- Se aplicará la misma pena establecida para el delito de violación, cuando el agente introduzca por vía vaginal o anal, cualquier objeto o instrumento distinto al miembro viril, por medio de la violencia física o moral, independientemente del sexo del ofendido.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-140.- Se equipara a la violación y se sancionará de ocho a dieciocho años de prisión y de ochenta a quinientos días multa:
+140.- Se equipara a la violación y se sancionará de doce a dieciocho años de prisión y de ciento veinte a quinientos días multa:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 I.- Cuando se realice cópula con persona menor de doce años de edad; y
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 II.- Al que realice cópula con persona, que independientemente de su edad se encuentre incapacitada para comprender el significado del hecho o sin posibilidad de resistir la conducta delictuosa.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-141. Se aplicará de doce a veintidós años de prisión y de ochenta a quinientos días multa:
+141. Se aplicará de dieciocho a veintidos años de prisión y de ciento veinte a quinientos días multa:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 I.- Cuando al imponer la cópula en los casos previstos en el artículo anterior se ejerza violencia;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 II.- Cuando la acción copulativa, se efectúe por parte del activo, aprovechando la autoridad que ejerza legalmente, sobre la víctima ascendiente contra su descendiente, tutor contra su pupilo, sancionándose además con la pérdida del ejercicio de la patria potestad, tutela, custodia, guarda o educación y, en su caso de los derechos sucesorios o de administrar los bienes con respecto de la víctima;
 
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+
 III.- Cuando la acción copulativa se realice por el activo, aprovechando los medios o circunstancias que le proporcione el empleo, cargo público o comisión que ejerza en atención a su profesión. El agente además será condenado a la destitución del cargo o empleo y a la inhabilitación por el término de ocho años;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 IV.- Cuando por la realización de estos delitos resultare un grave daño a la salud de la víctima o pusiere en peligro su vida.
 
@@ -1147,7 +1199,13 @@ IV.- Cuando por la realización de estos delitos resultare un grave daño a la s
 
 142.- Cuando la violación se cometa por dos o más personas se impondrá de diez a treinta años de prisión y de cuatrocientos a seiscientos días multa.
 
-La misma pena se aplicará cuando la violación se ejecute con motivo de un asalto y no tendrán derecho a gozar de la conmutación de las sanciones; remisión parcial de la pena o cualesquiera otros beneficios que la ley establece.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+
+La misma pena se aplicará cuando la violación se ejecute con motivo de un asalto.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+142 BIS.- El que cometa el delito de violación en cualquiera de las modalidades previstas en este Capítulo, no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
 ## TITULO VI. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
 
@@ -1569,9 +1627,9 @@ Se duplicarán las sanciones a que se refiere el párrafo segundo de este artíc
 
 ### CAPITULO VIII. DESPOJO DE BIENES INMUEBLES O DE AGUAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-176.- Se aplicará de cuatro a nueve años de prisión y de cien a seiscientos días multa, al que sin consentimiento de quien tenga derecho a otorgarlo, engañándolo o contra su voluntad, empleando violencia, furtividad o amenazas:
+176.- Se aplicará de cinco a nueve años de prisión y de doscientos a seiscientos días multa, al que sin consentimiento de quien tenga derecho a otorgarlo, engañándolo o contra su voluntad, empleando violencia, furtividad o amenazas:
 
 I.- Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca, o impida materialmente el disfrute de uno u otro;
 
@@ -1579,21 +1637,23 @@ II.- Ocupe un inmueble de su propiedad que se halle en poder de otra persona por
 
 III.- Desvíe o haga uso de aguas propias o ajenas en los casos en que la ley no lo permita, o haga uso de un derecho real sobre aguas que no le pertenezcan, y
 
-IV.- Ejerza actos de dominio que lesionen derechos legítimos del usuario de dichas aguas.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2002)</small>
+
+IV.- Ejerza actos de dominio que lesionen derechos legítimos del usuario de dichas aguas;
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 V.- Ocupe y tome posesión de un bien inmueble sin derecho ni autorización de autoridad competente y tipifique su acción en un asentamiento irregular.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
-No constituye delito de despojo la acción de ocupación que el Ejecutivo del Estado, realice de un bien inmueble como consecuencia de las expropiaciones dictadas conforme a derecho.
+No constituye delito de despojo la acción de ocupación que el Ejecutivo del Estado realice de un bien inmueble como consecuencia de las expropiaciones dictadas conforme a derecho.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
-177.- Si el despojo se realiza por dos o más personas o con violencia, se aplicará la pena de cinco a dieciocho años de prisión y de trescientos a ochocientos días multa, a los autores intelectuales o a quienes dirijan el despojo se les aplicará la misma pena de prisión y de cuatrocientos a ochocientos días multa.
+177.- Si el despojo se realiza por dos o más personas se aplicará la pena de siete a dieciocho años de prisión y de ochocientos a mil días multa. A los autores intelectuales o a quiénes dirijan o encabecen el despojo se les aplicará hasta una tercera parte más de la pena referida en el presente párrafo.
 
-A quienes se dedican en forma reiterada a promover el despojo de inmuebles, urbanos o rústicos y se acredite su reincidencia en otras causas penales, se les aplicará de doce a treinta años de prisión.
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos o rústicos y se acredite su reincidencia en otras causas penales, se les aplicará de quince a treinta años de prisión.
 
 178.- Las penas previstas para el delito de despojo se impondrán aunque el derecho a la posesión sean dudosos o estén sujetos a litigio.
 
@@ -1935,67 +1995,113 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 Las mismas penas se aplicarán al que sin tener título o autorización o permiso de la autoridad competente para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
-> <small>(REFORMADA SU DENOMINACION, P. O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P. O. 14 DE MAYO DE 2002)</small>
 
-### CAPITULO I. ULTRAJES A LA MORAL PUBLICA
+### CAPITULO I. PORNOGRAFIA Y PORNOGRAFIA DE MENORES E INCAPACES
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
-216.- Se aplicará de tres a ocho años de prisión y de cien a trescientos días multa:
+216.- Comete el delito de Pornografía:
 
-I.- Al que fabrique, reproduzca, exponga, distribuya, publique o haga circular libros, escritos, pinturas, impresos, anuncios, emblemas, fotografías u otros objetos obscenos;
+I.- El que promueva, financie, elabore, reproduzca, distribuya, exhiba, venda, arriende, publique, transmita o difunda la representación material de personas en actos sexuales reales o simulados para la gratificación sexual de los usuarios o toda representación de las partes genitales con fines de depravación mediante libros, escritos, pinturas, impresos, anuncios, emblemas, fotografías, películas, audio o video grabación, representaciones digitales computarizadas o por cualquier otro medio;
 
-II.- Al que haga o ejecute en público, con cualquier medio, o haga ejecutar a otro exhibiciones obscenas reales o virtuales, y
+II.- El que en sitio público y por cualquier medio ejecute o haga ejecutar a otro u otros, exhibiciones pornográficas o al que lo haga en privado, con la finalidad de que pueda ser visto por otras personas; y
 
-III.- Al que de modo escandaloso invite a otro al comercio carnal.
+III.- El que emplee a una persona para espectáculos exhibicionistas o pornográficos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+Al que cometa este delito se le aplicará de tres a ocho años de prisión y de cien a trescientos días multa.
 
-### CAPITULO II. CORRUPCION DE MENORES
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+216 BIS.- Comete el delito de Pornografía de Menores e Incapaces:
 
-217.- Al que procure o facilite, incite o auxilie a la depravación sexual de un menor de dieciséis años o de un incapaz, mediante actos de exhibicionismo corporal lascivo o sexuales, o lo induzca a la práctica de la mendicidad, ebriedad, al consumo de narcóticos, a la prostitución, pornografía, homosexualismo, a formar parte de una pandilla, asociación delictuosa o delincuencia organizada o a cometer cualquier delito, se le aplicará de cuatro a diez años de prisión y de doscientos a cuatrocientos días multa.
+I.- El que promueva, procure, facilite o induzca por cualquier medio el que uno o más menores de dieciocho años o a quien no tenga capacidad de comprender el significado del hecho, aunque mediare consentimiento, a realizar actos de exhibicionismo corporal lascivo o sexual, con el objeto de video grabarlos, fotografiarlos o exhibirlos a través de libros, escritos, pinturas, impresos, anuncios, emblemas, fotografías, películas, videograbaciones, representaciones digitales computarizadas o cualquier otro medio;
 
-Al que emplee a un menor de dieciséis años, en lugares que por su naturaleza sean nocivos a su formación moral como cantinas, cabarets, prostíbulos, se les impondrá prisión de uno a tres años y de cuarenta a doscientos días multa. En caso de reincidencia se decretará la suspensión o clausura del establecimiento.
+II.- El que únicamente por saciar sus instintos eróticos sexuales o con fines de lucro, elabore, organice, fotografíe, grabe, pinte o imprima, actos de exhibicionismo corporal lascivo o sexual, donde participen uno o más menores de dieciocho años o incapaces;
 
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ello, éste adquiera cualquiera de los hábitos o vicios del alcoholismo, uso de enervantes, estupefacientes, psicotrópicos o substancias tóxicas, se dedique a la prostitución o prácticas homosexuales o forme parte de una asociación delictuosa o delincuencia organizada, la sanción será de cuatro a ocho años y de cien a trescientos días multa.
+III.- El que con fines de lucro o sin él reproduzca, distribuya, venda, arriende, exponga, publicite, transmita o difunda por cualquier medio el material a que se refiere las acciones enunciadas en la fracción I de este artículo; y
 
-Se duplicará la pena establecida en el párrafo anterior, más la pérdida de la patria potestad, custodia, guarda o tutela, si se emplea al pasivo por los padres o tutores en los referidos establecimientos; más la privación o inhabilitación en forma definitiva en el ejercicio de aquéllos derechos, o bien del derecho a los bienes del ofendido.
+IV.- El que por sí o a través de terceros financie, dirija, administre o supervise las actividades por medio de las cuales se realicen las conductas previstas en las fracciones anteriores.
 
-Cuando el agente del delito, sea ascendiente, padrastro, madrastra o tutor del menor se duplicarán las sanciones más la inhabilitación o privación definitiva en el ejercicio de aquéllos derechos, o en su caso del derecho a los bienes del ofendido y de la Patria Potestad, sobre todos sus descendientes.
+Al que cometa este delito se le impondrá de siete a doce años de prisión y de mil a dos mil días multa, con excepción de la fracción IV cuya penalidad será de nueve a catorce años de prisión y de mil quinientos a dos mil trescientos días multa.
 
-Para los efectos del presente artículo, deberá considerarse como empleado en cantinas, cabarets y prostíbulos al menor de 16 años, que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje, o emolumento o gratuitamente, preste sus servicios en tal lugar.
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+### CAPITULO II. CORRUPCION Y PROSTITUCION DE MENORES E INCAPACES
 
-### CAPITULO III. LENOCINIO
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+217.- Al que procure o facilite a un menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho a realizar actos de exhibicionismo corporal o prácticas sexuales, al consumo de enervantes, estupefacientes, psicotrópicos, substancias tóxicas o bebidas embriagantes, a la práctica de la mendicidad, a formar parte de una pandilla, asociación delictuosa o delincuencia organizada o a cometer hechos delictuosos, se le aplicará de cinco a diez años de prisión y de ochocientos a mil ochocientos días multa.
 
-218.- El Lenocinio se sancionará con prisión de dos a nueve años y de cien a quinientos días multa.
+Al que emplee a un menor de dieciséis años en lugares que por su naturaleza sean nocivos a su formación moral como cantinas, cabarets o prostíbulos, se le impondrá prisión de uno a tres años y de cuarenta a doscientos días multa. En caso de reincidencia se ordenará además, la clausura definitiva del establecimiento.
 
-Comete el delito de lenocinio:
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz y debido a ello adquiera los hábitos o vicios del alcoholismo, del consumo de enervantes, estupefacientes, psicotrópicos, substancias tóxicas, se dedique a la prostitución o prácticas homosexuales o a formar parte de una asociación delictuosa o delincuencia organizada, la sanción será de ocho a catorce años de prisión y de mil doscientos a dos mil trescientos días multa.
 
-I.- Al que explote el cuerpo de otro por medio del comercio carnal, se mantenga de éste u obtenga de él, un lucro cualquiera;
+Para los efectos del presente artículo, deberá considerarse como empleado en cantinas, cabarets y prostíbulos, al menor de dieciséis años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier estipendio, gaje, emolumento o gratuitamente preste sus servicios en tal lugar.
 
-II.- Al que induzca, solicite o sirva de intermediario a una persona para que con otro, comercie carnalmente o le facilite los medios para que se entregue a la prostitución;
+No se entenderá por corrupción de menores o incapaces los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobadas por la autoridad competente.
 
-III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casa de citas, o lugares de concurrencia, expresamente dedicados a explotar la prostitución carnal, virtual o visual, a través de videos, películas, fotografías u otros y obtenga cualquier beneficio con sus productos;
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
 
-IV.- Cuando el pasivo sea menor de edad, cuyo cuerpo sea explotado por medio del comercio carnal, virtual o visual, se aplicará al que encubra, consienta o permita dicho comercio, de cuatro a diez años de prisión y de doscientos a quinientos días multa.
+217 Bis.- Comete el delito de Prostitución de Menores e Incapaces:
 
-Cuando el agente del delito sea ascendiente, padrastro, madrastra, hermano, tutor, curador o estuviere encargado de la custodia de la persona explotada, la sanción será de cinco a doce años de prisión y de trescientos a quinientos días multa. Perdiendo todo derecho sobre la persona y bienes de aquella e inhabilitación para desempeñar la patria potestad, tutela, curatela o cualquier otro cargo similar.
+I.- El que comprometa u ofrezca los servicios de un menor de dieciocho años de edad o incapaz para realizar actos sexuales a cambio de retribución económica, en especie o de cualquier otra índole; y
 
-219.- Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de seis meses a ocho años y hasta quinientos días multa.
+II.- El que a cambio de retribución económica, en especie o de cualquier índole, tenga relaciones sexuales con persona menor de dieciocho años de edad o incapaz.
 
-Si el ofendido fuere menor de dieciséis años de edad, la prisión se aumentará hasta la mitad.
+Al que cometa este delito se le impondrá de siete a doce años de prisión y de mil a dos mil días multa.
 
-Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena de prisión se aumentará dos años más.
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 2002)</small>
 
-## TITULO IV. DELITOS CONTRA LA MORAL PUBLICA Y LAS BUENAS COSTUMBRES
+### CAPITULO III. LENOCINIO Y TRATA DE PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+
+218.- Comete el delito de Lenocinio:
+
+I.- El que explote el cuerpo de otro por medio del comercio carnal, se mantenga de éste u obtenga de él, un lucro cualquiera;
+
+II.- El que induzca, solicite o sirva de intermediario a una persona para que con otro, comercie carnalmente o le facilite los medios para que se entregue a la prostitución;
+
+III.- El que regentee, administre o sostenga directa o indirectamente, prostíbulos, casa de citas, o lugares de concurrencia, expresamente dedicados a explotar la prostitución carnal, virtual o visual, a través de videos, películas, fotografías u otros y obtenga cualquier beneficio con sus productos.
+
+Al que cometa este delito se sancionará con prisión de dos a nueve años y de cien a quinientos días multa.
+
+Cuando el pasivo sea menor de dieciocho años de edad o incapaz, se aplicará de siete a doce años de prisión y de mil a dos mil días multa.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+218 BIS.- Comete el delito de Trata de Personas el que promueva, facilite, consiga, entregue o traslade a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de cinco a diez años y de ochocientos a mil ochocientos días multa.
+
+Si el ofendido fuere menor de dieciocho años de edad o incapaz, se aplicará de siete a doce años de prisión y de mil a dos mil días multa.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 2002)</small>
+
+## TITULO IV. DELITOS CONTRA LA MORAL Y LA INTEGRIDAD DE LOS MENORES E INCAPACES
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+
+### CAPITULO IV. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2002)</small>
+
+219.- Si el sujeto activo fuese Servidor Público y utilizare los medios o circunstancias que el cargo le proporciona, las penas por los delitos a que alude este Título se aumentarán en una mitad, imponiéndose además la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo hasta por un tiempo igual al de la pena impuesta para ejercer otro.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+219 BIS.- Tratándose de los delitos a que se refieren los Artículos 216 Bis, 217 con excepción de su segundo párrafo y 217 Bis, cuando el sujeto pasivo sea un menor de dieciséis años de edad, las penas se aumentarán en una tercera parte más de las sanciones previstas para cada uno. Cuando los delitos a que se refieren los Artículos 216 Bis, 217 y 217 Bis fueren cometidos con un menor de doce años de edad, las penas se aumentarán en una mitad de las previstas para cada caso.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+219 BIS 1.- Las penas previstas para los delitos comprendidos en este Título se duplicarán cuando el sujeto activo sea ascendiente, padrastro, madrastra, tenga parentesco por consanguinidad, afinidad o civil hasta un cuarto grado o habite en el mismo domicilio que la víctima aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta e inhabilitación para desempeñar tutela, curatela o cualquier otro cargo similar.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+219 BIS 2.- Cuando cualquiera de los delitos establecidos por este Título sea cometido por dos o más personas, se aumentará en una mitad la pena prevista para cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+219 BIS 3.- Cuando los sujetos pasivos fueren obligados mediante la violencia física o moral a realizar los actos previstos en las fracciones I y II del Artículo 216 Bis, primer párrafo del Artículo 217 y segundo párrafo del Artículo 218 Bis, se aumentarán en una tercera parte las sanciones señaladas para cada caso.
 
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -2057,6 +2163,8 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 228.- A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con el empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación, se les aplicará de seis meses a cuatro años de prisión.
 
+## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+
 ### CAPITULO III. REBELION
 
 229.- Se aplicará prisión de dos a quince años a los que, no siendo militares en ejercicio, con violencia y uso de armas traten de:
@@ -2089,7 +2197,7 @@ III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por lo
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros, salvo que hubieren cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
 ### CAPITULO IV. TERRORISMO
 
@@ -2097,7 +2205,9 @@ No se aplicará pena alguna por el delito de rebelión a los que depongan las ar
 
 Se aplicará prisión de uno a nueve años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
+
+## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO V. SABOTAJE
 
@@ -2110,10 +2220,6 @@ II.- Instalaciones fundamentales de instituciones de docencia o investigación, 
 III.- Recursos o elementos esenciales, destinados al mantenimiento del orden público.
 
 Se aplicará prisión de seis meses a cinco años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
-
-#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
-
-## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO VI. CONSPIRACION
 
@@ -2211,13 +2317,13 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de tres a ocho años y de cien a quinientos días multa, penas que se aumentarán hasta en una mitad más para el caso previsto en la fracción IV de este artículo.
 
+## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO V. INTIMIDACION
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 245.- Al servidor público que por si o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito se le aplicarán de tres a nueve años de prisión y de ciento cincuenta a seiscientos días multa.
-
-## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ### CAPITULO VI. COALICION DE SERVIDORES PUBLICOS
 
@@ -2319,6 +2425,8 @@ Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie
 
 Además de las penas a que se refiere el artículo anterior, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones hasta por dos años.
 
+## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
+
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
@@ -2340,8 +2448,6 @@ Además de las penas a que se refiere el artículo anterior, el perito, intérpr
 263.- Cuando varias personas de común acuerdo procuren, con actos materiales, impedir la ejecución de una obra, o trabajos públicos mandados hacer con los requisitos legales de la autoridad competente, o con su autorización, serán castigados con tres meses a un año de prisión si solo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá extenderse la pena hasta dos años de prisión.
 
 264.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere empleado algún medio de apremio.
-
-## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
@@ -2431,9 +2537,15 @@ XXX.- Propiciar o favorecer el quebrantamiento de alguna pena no privativa de li
 
 XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente un interés propio.
 
-270.- Al que cometa alguno de los delitos a que se refiere el artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos por las fracciones VIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXIX y XXXI, que se sancionarán con prisión de uno a seis años y de sesenta a trescientos sesenta días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+
+270.- Al que cometa alguno de los delitos a que se refiere el Artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos en las fracciones IV, VIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI que se sancionarán con prisión de dos a siete años y de sesenta a trescientos sesenta días multa; y el contenido en la fracción XXIX que se sancionará con prisión de cuatro a doce años y de noventa a setecientos veinte días multa.
 
 Además de las penas establecidas en el párrafo que antecede, el agente sufrirá privación del cargo e inhabilitación para obtener otro cargo público hasta por un término igual al de la pena de prisión señalada por la ley para el delito cometido.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
+
+Tratándose de servidores públicos que tengan a su cargo funciones de prevención, persecución, investigación o sanción de delitos, además de aplicárseles la sanción señalada en el primer párrafo de este Artículo, se les destituirá e inhabilitará definitivamente para desempeñar cargos de la misma especie.
 
 ### CAPITULO II. FRAUDE PROCESAL
 
@@ -2483,6 +2595,8 @@ Son aplicables por este delito, en lo conducente, los artículos 159, 160, 161 y
 
 283.- A quien de cualquier modo favorezca el quebrantamiento de alguna de las sanciones a que se refiere este capítulo se le aplicará prisión de dos a seis años.
 
+## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
 ### CAPITULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 284.- Al que después de la ejecución de un delito y sin haber participado en éste, auxilie en cualquier forma al inculpado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá prisión de tres meses a tres años y hasta sesenta días multa.
@@ -2500,8 +2614,6 @@ II.- El cónyuge, concubina o concubinario y parientes colaterales por consangui
 III.- Los que estén ligados al delincuente por amor, respeto, gratitud o estrecha amistad.
 
 La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
-
-## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
@@ -2746,3 +2858,15 @@ P.O. 9 DE NOVIEMBRE DE 1999.
 PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
+
+P.O. 14 DE MAYO DE 2002.
+
+DECRETO No. 458
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE MAYO DE 2002.
+
+DECRETO No. 460
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
