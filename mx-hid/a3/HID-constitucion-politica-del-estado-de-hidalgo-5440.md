@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1937-12-16"
+last_updated: "1939-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1939.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -97,7 +97,7 @@ P.O. 1 DE JUNIO DE 1937.
 
 ###### Artículo 3º.
 
-El territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de Enero de 1869 y se divide en quince Distritos que a continuación se expresan:
+El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en quince Distritos a los que corresponden los 80 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -109,9 +109,9 @@ Distrito de Apam, formado con los Municipios de Apam, Tepeapulco, Tlanalapan y A
 
 Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1939)</small>
 
-Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Atlapexco, Xochiatipan, Tlanchinol, Jaltocán y Yahualica.
+Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Xochiatipan, Tlanchinol, Jaltocán, Atlapexco y Yahualica.
 
 Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
 
@@ -1003,7 +1003,7 @@ En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el E
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1937)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 24 DE ENERO DE 1939)</small>
 
 ###### Artículo 3°.
 
@@ -1014,5 +1014,9 @@ El período Constitucional de la actual Legislatura, terminara el último día d
 - Este Decreto comenzará a surtir sus efectos desde el primero de junio de este año.
 
 P.O. 16 DE DICIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 24 DE ENERO DE 1939.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
