@@ -4,7 +4,7 @@ identifier: "OAX-ley-por-la-que-se-crea-el-organismo-publico-descentralizado-200
 country: "mx"
 rank: "ley"
 publication_date: "1982-10-16"
-last_updated: "1982-10-16"
+last_updated: "1994-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el Sábado 16 de octubre de 1982.
 
@@ -51,7 +51,9 @@ II.- Integrar un sistema tendiente a la adquisición de tierra para satisfacer l
 
 III.- Promover y ejecutar fraccionameintos (sic) populares que coadyuven al desarrollo de asentamientos humanos.
 
-IV.- Promover o ejecutar directamente o a través de terceros, programas de lotes preferentemente con servicios de vivienda progresiva y de vivienda termniada (sic); también deberá atender en lo general, la demanda, de suelo urbano para vivienda familiar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE OCTUBRE DE 1994)</small>
+
+IV.- Promover y ejecutar directamente o a través de terceros, programas de lotes preferentemente con servicios de vivienda progresiva y de vivienda terminada; también deberá atender en lo general, la demanda de suelo urbano para vivienda familiar, crear sistemas de comercialización mediante la integración de grupos de consumidores a que se refiere el artículo 63 de la Ley Federal de Protección al Consumidor, a través de programas de autofinanciamiento.
 
 V.- Promover ante las Instituciones correspondientes, la emisión de títulos de crédito que se destinen al financiamiento de programas de vivienda.
 
@@ -280,3 +282,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 1o. de octubre de 1982.- EL SECRETARIO GENERAL DEL DESPACHO, C. P. JESUS MARTINEZ ALVAREZ.- Rúbrica.
 
 Al C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE OCTUBRE DE 1994.
+
+UNICO.- EL Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
