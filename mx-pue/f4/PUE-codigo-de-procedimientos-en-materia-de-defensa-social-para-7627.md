@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2000-11-06"
+last_updated: "2002-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2002.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1755,7 +1755,7 @@ IX.- Si los que deban ser careados estuvieren fuera de la jurisdicción del Trib
 
 #### SECCION SEGUNDA.- AUTO DE FORMAL PRISION O DE LIBERTAD POR FALTA DE MERITOS
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2002)</small>
 
 ###### Artículo 190.
 
@@ -1905,17 +1905,35 @@ El Juez, bajo su más estricta responsabilidad, deberá admitir las pruebas que 
 
 ###### Artículo 211.
 
-Ninguna detención podrá exceder del término de setenta y dos horas, contando desde que el indiciado sea puesto a disposición del Juez, sin que se justifique con auto de formal prisión, el cual sólo podrá determinarse cuando aparezcan reunidos los requisitos siguientes:
+Salvo lo dispuesto en este artículo, ninguna detención podrá exceder del término de setenta y dos horas, contando desde que el indiciado sea puesto a disposición del Juez, sin que se justifique con auto de formal prisión, el cual sólo podrá determinarse cuando aparezcan reunidos los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2000)</small>
 
 I.- Que esté comprobado el cuerpo del delito de que se trate y merezca sanción privativa de libertad;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+
 II.- Que esté demostrada la probable responsabilidad del inculpado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
 
 III.- Que se haya tomado declaración preparatoria al indiciado, en la forma y con los requisitos establecidos en el capítulo anterior, o bien, que conste que se rehusó a declarar; y,
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+
 IV.- Que no concurra en favor del indiciado alguna causa excluyente de responsabilidad o que extinga la acción persecutoria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2002)</small>
+
+El plazo a que se refiere el párrafo primero de este artículo, podrá prorrogarse por una sola ocasión, hasta por setenta y dos horas, cuando lo solicite el indiciado, por sí o a través de su defensor, al rendir su declaración preparatoria o dentro de las tres horas siguientes, siempre que dicha prórroga sea con la finalidad de aportar y desahogar pruebas que tengan relación inmediata con los hechos que se investigan, para que el Juez resuelva su situación jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2002)</small>
+
+El Ministerio Público no podrá solicitar dicha prórroga ni el Juez resolverla de oficio. En caso de que el Juez conceda la prórroga al indiciado o a su defensor, el Ministerio Público o el ofendido, podrán ofrecer nuevas pruebas o promover lo relativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2002)</small>
+
+La prórroga del plazo se deberá notificar a la autoridad responsable del reclusorio en donde, en su caso, se encuentre internado el indiciado, para los efectos a que se refiere el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 212.
 
@@ -3304,3 +3322,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE ENERO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
