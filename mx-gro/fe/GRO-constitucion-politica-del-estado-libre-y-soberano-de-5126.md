@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1926-04-03"
+last_updated: "1926-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1926.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -409,7 +409,9 @@ IX. Recibir al Gobernador, así como a los funcionarios a que se refiere la frac
 
 X. Resolver sobre las licencias no económicas o renuncias de los Diputados, Magistrados del Tribunal Superior de Justicia y del Tesorero General del Estado.
 
-XI. Conceder licencia al Gobernador cuando tenga que salir del Estado, o separarse temporalmente de su encargo.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1926)</small>
+
+XI. Conceder licencia al Gobernador, cuando tenga que salir del Estado por un término mayor de diez días o separarse temporalmente de su encargo.
 
 XII. Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
 
@@ -425,7 +427,9 @@ XVII. Conceder al Ejecutivo por tiempo limitado, a juicio de las dos terceras pa
 
 XVIII. Dictar las disposiciones necesarias a efecto de que se verifiquen las elecciones de miembros de la Cámara que hubieran dejado de hacerse.
 
-XIX. Nombrar Gobernador interino o substituto en las faltas temporales o absolutas del Constitucional, procediendo en sus respectivos casos conforme a lo dispuesto en los artículos 61 y 62 de esta Constitución.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1926)</small>
+
+XIX. Nombrar Gobernador Interino, cuando la falta temporal del Constitucional sea mayor de diez días o en los casos previstos por los artículos 61 y 62 de esta Constitución. Igualmente nombrar Gobernador Substituto en las faltas absolutas del Constitucional, en la forma y términos prescritos en el artículo 61 de la propia Codificación.
 
 XX. Conceder amnistías por delitos políticos de la competencia del Estado.
 
@@ -666,6 +670,10 @@ Las visitas respectivas podrá encomendarlas a comisionados accidentales de reco
 XV. Nombrar y remover libremente al Secretario de Gobierno, al Procurador General de Justicia, y a los demás empleados que de ambos dependan.
 
 XVI. Conceder o negar licencias a los funcionarios y empleados de su dependencia, con goce de sueldo las que se soliciten con causa justificada, y por término que no pase de dos meses.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 1926)</small>
+
+XVII. Salir del territorio del Estado, con simple aviso al Congreso por un término no mayor de diez días, en la inteligencia, que durante el año, solamente puede hacer uso de esa facultad; por cuarenta días, quedando encargado del Despacho el Secretario General.
 
 ###### Artículo 66.
 
@@ -1050,3 +1058,7 @@ Las anteriores reformas a la Constitución Política local, serán publicadas co
 P.O. 3 DE ABRIL DE 1926.
 
 La duración del período y la no reelección a que se refiere el artículo reformado, se aplicarán a los Diputados que integren de la XXVIII Legislatura en adelante.
+
+P.O. 19 DE JUNIO DE 1926.
+
+Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicación.
