@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "1999-10-23"
+last_updated: "2000-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -65,7 +65,7 @@ Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De
 
 La Oficialía Mayor de la Legislatura, entregará al Diputado Electo la credencial de acceso a la sesión de instalación. La falta de dicho documento implica la prohibición de entrada a la sala de sesiones para ocupar una curul.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 4.
 
@@ -102,6 +102,8 @@ El día quince de noviembre del año de la renovación de la Legislatura, abiert
 "La (aquí el número de legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, abre hoy quince de noviembre de (aquí el año), el primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal".
 
 A continuación de conformidad con lo que establece el artículo 43 de la Constitución Política Local, el Ciudadano Gobernador del Estado presentará un informe sobre la situación que guarda la Administración Pública, pudiendo dar lectura al mismo, en este caso, el Presidente de la Legislatura contestará dicho informe en términos concisos y generales y con las formalidades que corresponden al acto.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 De la apertura del primer período ordinario de sesiones de la Legislatura, se expedirá el Decreto correspondiente, dándose aviso de la apertura a las autoridades de la Federación, del Estado y de los Municipios de la Entidad.
 
@@ -297,7 +299,11 @@ XXIV.- De fortalecimiento y Asuntos Municipales;
 
 XXV.- De Concertación Parlamentaria;
 
-XXVI.- De Ecología.
+XXVI.- De Ecología;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XXVII.- De Equidad y Género.
 
 ###### ARTICULO 26.
 
@@ -415,7 +421,11 @@ XXIV.- La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los e
 
 XXV.- La Comisión de Concertación Parlamentaria; estará integrada por los representantes de las fracciones parlamentarias que integren el Congreso del Estado, la presidirá el representante de la fracción parlamentaria que integre la mayoría de Diputados, y se avocará a buscar los mecanismos para la correcta aplicación de la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo y este Reglamento, coadyuvando en los trabajos que le soliciten las comisiones de la Cámara, y velará por el respeto a la legalidad de todos los actos que desarrollen los integrantes de las fracciones parlamentarias del Congreso;
 
-XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental.
+XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso.
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -1304,3 +1314,9 @@ P.O. 23 DE OCTUBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integra con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
