@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-04-10"
+last_updated: "2004-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -387,7 +387,9 @@ IV.- Elaborar el orden del día de las sesiones;
 
 V.- Abrir y clausurar las sesiones del Pleno, así como prorrogarlas y suspenderlas por causa justificada;
 
-VI.- Dar curso a los asuntos inscritos en el orden del día y fijar los trámites que deban seguirse para el cumplimiento de los acuerdos tomados por el Pleno;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2004)</small>
+
+VI.- Dar curso a los asuntos inscritos en el orden del día y proveer lo necesario para que los acuerdos tomados por el Pleno sean ejecutados con la oportunidad debida;
 
 VII.- Conducir los debates y deliberaciones, pudiendo participar en ellos, cuidando la eficiencia de los trabajos y la dignidad del Congreso.
 
@@ -1009,7 +1011,9 @@ II.- Llevar a cabo los trámites de carácter meramente administrativo relaciona
 
 III.- Apoyar la elaboración de las actas correspondientes a las sesiones del pleno y a las reuniones de las comisiones y comités;
 
-IV.- Proporcionar los servicios de apoyo, incluidos los de naturaleza jurídica que se requieran para el eficaz desarrollo de las actividades del pleno y los órganos del Congreso, así como los aspectos relativos a comunicación social;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2004)</small>
+
+IV.- Proporcionar los servicios de apoyo, incluidos los de naturaleza jurídica que se requieran para el eficaz desarrollo de las actividades del Pleno y los órganos del Congreso, incluyendo los aspectos de la comunicación social, así como difundir en los medios de comunicación las resoluciones del Congreso, cuando por su importancia y trascendencia, la Junta de Coordinación Parlamentaria considere que deban hacerse del conocimiento de la sociedad;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
 
@@ -1347,7 +1351,7 @@ Si el orador no termina su exposición en el tiempo que le corresponde, el Presi
 
 ###### Art. 115.
 
-Quedan absolutamente prohibidas las alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a sus miembros, o a cualesquier persona que intervenga en el desarrollo de la sesión, ya sea por invitación o por comparecencia.
+Quedan absolutamente prohibidas la alusiones irrespetuosas y las imputaciones de mala intención o de móviles ilegítimos tanto a la Legislatura como a su miembros, o a cualesquier persona que intervenga en el desarrollo de la sesión, ya sea por invitación o por comparecencia.
 
 El Presidente del Congreso hará cumplir lo dispuesto en el párrafo que antecede.
 
@@ -1932,6 +1936,12 @@ P.O. 30 DE JULIO DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE ABRIL DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
