@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1996-03-09"
+last_updated: "1996-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1996.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2205,6 +2205,14 @@ II.- El valor catastral; y
 
 III.- El valor del inmueble señalado en el acto de adquisición.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1996)</small>
+
+Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regularización de terrenos, promovidos por las diferentes instancias de gobierno, así como de programas de fomento a la vivienda de interés social y popular, se tendrá como base gravable la que resulte menor de las hipótesis establecidas en las fracciones anteriores. Para tales efectos, se entiende por vivienda de interés social aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general elevado al año, y por vivienda popular aquella que en iguales condiciones no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1996)</small>
+
+En cuanto a operaciones que tengan como fin la regularización de la tenencia de la tierra, llevadas a cabo por la Comisión para la Regularización de la Tenencia de la Tierra, será optativo para el contribuyente acogerse al tratamiento anterior o al avalúo global practicado por la Comisión de Avalúos de Bienes Nacionales, e individualizado en su operación.
+
 En las adquisiciones que hubieran sido objeto de una operación anterior a la que se calcula el impuesto, pero sin que entre una y otra medien más de tres años, el valor gravable se determinará deduciendo el valor de la adquisición anterior.
 
 En los contratos de arrendamiento financiero, se pagará el impuesto cuando el arrendatario financiero ejerza la opción de compra en los términos del contrato celebrado.
@@ -2213,9 +2221,11 @@ Para los efectos de este impuesto, se considera que el usufructo y la nuda propi
 
 Los avalúos a que se refieren los párrafos anteriores deberán comprender el terreno y las construcciones aun cuando se adquiera únicamente el terreno o las construcciones, salvo que se pruebe que el adquirente edificó con recursos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 159.
 
-La tasa del impuesto es del dos por ciento sobre la base gravable, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales.
+La tasa del impuesto es del dos por ciento sobre la base gravable, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
 
 #### SECCION II. DECLARACIONES Y PAGO DEL IMPUESTO
 
@@ -2762,3 +2772,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1 de enero de 1996.
 P.O. 9 DE MARZO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
