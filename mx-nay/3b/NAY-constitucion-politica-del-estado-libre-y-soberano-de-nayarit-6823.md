@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1989-02-15"
+last_updated: "1989-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -55,11 +55,11 @@ El Gobierno del Estado es Repúblicano, popular y representativo, teniendo como 
 
 ### CAPITULO II. Del Territorio del Estado
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1977)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1989)</small>
 
 ###### Art. 3.
 
-El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes Municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Compostela, Del Nayar, Huajicori, Ixtlán del Río Jala, Xalisco, La Yesca, Rosamorada, Ruiz, San Blas San Pedro Lagunillas, Santiago Ixc., Santa María del Oro Tecuala Tepic y Tuxpan. Igualmente forman parte del Territorio del Estado las Islas que le corresponden conforme al Artículo 48º de la Constitución General de la República.
+El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco. Igualmente, forman parte del Territorio del Estado las islas que le corresponden conforme al Artículo 48o. de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1523,7 +1523,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919
+P.O. 24 DE JULIO DE 1919.
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -1757,6 +1757,12 @@ DECRETO 5979, REFORMA ART. 42.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
+P.O. 5 DE NOVIEMBRE DE 1977.
+
+DECRETO 5980, REFORMA ARTS. 37 Y 69.
+
+UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
 P.O. 22 DE ABRIL DE 1978.
 
 ###### ARTICULO UNICO.
@@ -1884,3 +1890,51 @@ Los nombramientos de Jueces de Primera Instancia, realizados hasta la fecha, ten
 ###### ARTICULO CUARTO.
 
 Recábese la aprobación de los Honorables Ayuntamientos Constitucionales del Estado, para los efectos respectivos.
+
+P.O. 13 DE DICIEMBRE DE 1989.
+
+###### ARTICULO 1o.
+
+El actual Ayuntamiento Constitucional del Municipio de Compostela, continuará en el ejercicio de sus funciones hasta el término del Mandato para el que fue electo en todo el territorio jurisdiccional de su demarcación.
+
+###### ARTICULO 2o.
+
+El primer Ayuntamiento Constitucional de Bahía de Banderas, se instalará y entrará en funciones el día 17 de Septiembre de 1990, en los términos de Ley. El próximo proceso electoral para la renovación del Poder Legislativo y de los Ayuntamientos Constitucionales de la Entidad, deberá implementarse en todas sus fases tomando en cuenta la integración del nuevo Ayuntamiento de Bahía de Banderas, en base a la Ley.
+
+###### ARTICULO 3o.
+
+Para el cumplimiento de los fines a que está destinado el Consejo Vecinal, la Legislatura del Estado aprobará en su caso, los recursos y presupuestos de carácter económico que sean procedentes, evaluando y revisando mensualmente la programación y ejercicio de todas las erogaciones.
+
+###### ARTICULO 4o.
+
+El Consejo Vecinal terminará sus funciones antes del 17 de septiembre de 1990, y hará entrega al primer Ayuntamiento Constitucional del Municipio de Bahía de Banderas, los bienes patrimoniales y documentos que correspondan mediante inventario físico sancionado por la Legislatura.
+
+###### ARTICULO 5o.
+
+El nombre de la Cabecera Municipal de Bahía de Banderas, será determinado mediante la realización de un proceso de consulta pública, por los habitantes y vecinos del nuevo Municipio, en apego a las bases que señale el Honorable Congreso del Estado.
+
+###### ARTICULO 6o.
+
+La Ley de Ingresos de la Municipalidad de Bahía de Banderas, por lo que respecta a esta única vez, será elaborada y aprobada por la Legislatura, tomando en cuenta los mismos conceptos y tarifas que la del Municipio de Compostela. Por lo que concierne a la distribución de las Participaciones Federales y Estatales, el Congreso decretará los porcentajes respectivos atendiendo a la equidad, proporcionalidad y justicia en el marco regional y estatal.
+
+###### ARTICULO 7o.
+
+Los programas e inversiones ejercidos o por ejercerse que hayan sido contratados por el Ayuntamiento Constitucional de Compostela, y se hayan ejecutado o se ejecuten durante su Mandato, en la región que comprende el nuevo Municipio de Bahía de Banderas, al instalarse éste, serán absorbidos para todos sus efectos, liberándose de cualquier obligación a la Administración Municipal de Compostela, son las excepciones expresamente señaladas por las Leyes.
+
+###### ARTICULO 8o.
+
+La descripción y localización de la superficie, límites, linderos y colindancias del Municipio de Bahía de Banderas, derivan de levantamientos por métodos fotogramétricos, mapas de distribución municipal y por tenencia de la tierra, integrados mediante enlistados electrónicos tanto de predios como de propietarios, de acuerdo a los usos, calidad y tipo respectivos, cuyos trabajos técnicos y proyectos se reconocen para los efectos del resolutivo.
+
+###### ARTICULO 9o.
+
+Con la finalidad de incrementar los trámites subsecuentes relativos a la Adición al Artículo 3o. de la Constitución Política del Estado Libre y Soberano de Nayarit, en apego a lo que expresamente establece su Artículo 131, remítase al expediente integrado a los Honorables Ayuntamientos Constitucionales para los efectos procedentes.
+
+###### ARTICULO 10.
+
+El presente Decreto entrará en vigor de la siguiente manera:
+
+I.- Por lo que concierne a la adición al artículo 3o. de la Constitución Política del Estado, se estará a la realización de los trámites que en su caso determinen la aprobación de las dos terceras partes de los Ayuntamientos Constitucionales, a cuyo término se computarán los resultados respectivos emitiéndose la Declaratoria para ser publicada en el Periódico Oficial, Organo del Gobierno de Nayarit surtiendo efectos a partir de esa fecha.
+
+II.- Por lo que corresponde a las demás propuestas de modificación comprendidas tanto en el Código para la Administración Municipal, como en la Ley Electoral y Ley de División Territorial aplicables, surtirán los efectos de vigencia una vez que, en los términos de Ley, sea aprobada y publicada la adición al Artículo 3º de la Constitución Política del Estado, y
+
+III.- Por provenir del ejercicio competencial del Honorable Congreso y constituir un acto de soberanía, dése a conocer la creación del Municipio de Bahía de Banderas, mediante Bando Solemne cada una de las localidades que lo integran, con la publicidad y formalidad debida.
