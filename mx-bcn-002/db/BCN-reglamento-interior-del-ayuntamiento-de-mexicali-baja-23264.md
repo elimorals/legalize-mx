@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-11-19"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -471,6 +471,10 @@ Tratándose de proyectos de iniciativas de ley o decreto, reglamentos, circulare
 
 Los particulares podrán presentar propuestas de acuerdo, por sí, o por conducto de las organizaciones de que formen parte, a través de la misma Secretaría.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+Las propuestas que impliquen la modificación, derogación, abrogación o adición a la estructura administrativa de la Sindicatura Municipal y a las facultades y atribuciones que para ella se establecen en el Reglamento de la Administración Publica Municipal. Solo podrán aprobarse por mayoría calificada de los integrantes del Ayuntamiento.
+
 ###### ARTICULO 42.
 
 Contenido de las propuestas de acuerdo.- Las propuestas de acuerdo de los integrantes del Ayuntamiento y de los particulares previstas en el artículo anterior, deberán ser presentadas por escrito y firmadas, acompañando una exposición de motivos en la cual manifieste su autor o autores, las consideraciones jurídicas, políticas, sociales o económicas que justifiquen, expliquen y motiven la propuesta.
@@ -598,6 +602,10 @@ Mayoría calificada, la correspondiente a las dos terceras partes de los integra
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 Cuando en el presente Reglamento no se contemple el tipo de votación respecto de diversas resoluciones del Ayuntamiento, se entenderá que habrá de resolverse mediante votación por mayoría simple, las abstenciones no serán tomadas en consideración para efectos del cómputo de la votación.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+Para la modificación, derogación, abrogación o adición de este Reglamento Interior, se requerirá el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento.
 
 ###### ARTICULO 60.
 
@@ -727,13 +735,21 @@ III.- Comisiones especiales.- Se consideran comisiones especiales y tendrán car
 
 Integración de las comisiones permanentes.- Las comisiones permanentes se integrarán con dos o más Regidores y actuarán en forma colegiada.
 
-En la sesión posterior a su instalación, el Cabildo designará a los integrantes de las comisiones permanentes y al Regidor que deba coordinar cada una de éstas, a propuesta del Presidente Municipal.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+En la sesión posterior a su instalación, el Cabildo designara por mayoría calificada a los integrantes de las comisiones permanentes y al Regidor que deba coordinar cada una de estas, a propuesta del Presidente Municipal.
 
 En su primera reunión de trabajo, las comisiones permanentes designarán de entre sus miembros al Regidor que deba fungir como Secretario.
 
 Las comisiones permanentes sesionarán por lo menos una vez al mes.
 
-La modificación de la integración y coordinación de las comisiones podrá tener lugar en cualquier tiempo por acuerdo del Cabildo a propuesta del Presidente Municipal. El cambio de Secretario de una comisión podrá realizarse en cualquier tiempo por acuerdo de sus integrantes.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+La modificación de la integración y coordinación de las comisiones podrá tener lugar en cualquier tiempo por acuerdo del cabildo por mayoría calificada, a propuesta del Presidente Municipal, el cambio de Secretario de una comisión podrá realizarse en cualquier tiempo por acuerdo de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+La Comisión de Hacienda deberá integrarse por lo menos con un Regidor de cada partido o coalición.
 
 ###### ARTICULO 72.
 
@@ -999,6 +1015,42 @@ II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar l
 
 III.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 91 BlS.- Comisión de Asuntos Fronterizos.- Tendrá las siguientes atribuciones:
+
+I. Proponer al Cabildo o al Presidente Municipal, normatividad en programas y acciones a favor de los migrantes;
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
+
+II. Participar en representación del Ayuntamiento en los foros o reuniones que realicen los organismos no gubernamentales y las autoridades tanto extranjeras como locales en asuntos relacionados con la migración;
+
+III. Colaborar con las actividades y representar al Ayuntamiento o Presidente Municipal ante autoridades estatales, federales e internacionales en lo relativo a asuntos relacionados con la migración y la frontera;
+
+IV. Dictaminar respecto de los proyectos de convenios en los que el Ayuntamiento deberá participar institucionalmente con otros niveles de gobierno en asuntos de migración y de la frontera:
+
+V. En general, aquellas que el Cabildo le encomiende.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 91 TER.- Comisión de Atención a la Juventud.- Tendrá las siguientes atribuciones:
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
+
+I. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de recreación, deporte y juventud:
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
+
+II. Proponer al Cabildo los mecanismos e instrumentos necesarios para promover, impulsar, planificar estimular la práctica del deporte en la juventud mexicalense;
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
+
+III. Proponer al Cabildo políticas públicas para obtener un mayor rendimiento en los recursos municipales aplicables a las matarías señaladas en la fracción I. Siempre vigilando la transparencia en el cumplimiento sobre los programas correspondientes;
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2005)</small>
+
+IV. Las demás que el Ayuntamiento y el presente Reglamento le encomienden.
+
 #### SECCION IV. DEL PROCEDIMIENTO EN COMISIONES
 
 ###### ARTICULO 92.
@@ -1214,3 +1266,17 @@ P.O. 19 DE NOVIEMBRE DE 2004.
 Artículo Transitorio Único:
 
 Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+ACUERDO POR EL CUAL SE REFORMA AL ARTICULO 41 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI BAJA CALIFORNIA.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+ACUERDO POR EL CUAL SE REFORMAN A LOS ARTÍCULOS 59 Y 71 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO.
+
+PRIMERO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN.
+
+SEGUNDO.- EN CASO DE CONTROVERSlA ENTRE LAS PRESENTES REFORMAS Y OTRAS DISPOSICIONES REGLAMENTARIAS, HABRÁ DE ATENDERSE LO QUE DISPONE EL PRESENTE ACUERDO.
