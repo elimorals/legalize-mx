@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2001-03-13"
+last_updated: "2001-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -3880,7 +3880,7 @@ De la Revisión de Oficio.
 
 ###### ARTICULO 457.
 
-Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevee (sic) el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio, por la sala que corresponda del Supremo Tribunal de Justicia, con intervención del Ministerio Público, aún cuando se promueva apelación mientras el tribunal examina la legalidad del fallo, quedará en suspenso de ejecución.
+Las sentencias que se dicten en los juicios sobre nulificación, anotación, rectificación, reposición y de convalidación de actas del Registro Civil, en los términos que prevee (sic) el Código Civil, así como las que se pronuncien en los juicios de divorcio necesario o de nulidad de matrimonio y siempre que hubiese prosperado, parcial o totalmente, la acción ejercitada, serán revisadas de oficio, por la sala que corresponda del Supremo Tribunal de Justicia, con intervencion del Ministerio Público, aún cuando se promueva apelación mientras el tribunal examina la legalidad del fallo, quedará en suspenso de ejecución.
 
 El juez que pronuncie sentencia en los términos antes indicados, transcurrido el término que tienen las partes para apelar las mismas, remitirá los autos y documentos originales, a la sala que corresponda la revisión de su sentencia.
 
@@ -5500,9 +5500,13 @@ Cuando no sea necesario conforme al Código Civil que el arrendamiento conste po
 
 En el caso previsto por la fracción III del artículo 683, si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con los documentos correspondientes que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia de embargo para dar cuenta al juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluido el juicio sumario de desahucio sin condenación en costas; en el segundo caso, o cuando al contestar la demanda o en cualquier estado del juicio hasta antes de pronunciarse sentencia se presenten los justificantes de pago, se mandará dar vista de ellos al actor para que, dentro del término de tres días, manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluido el juicio sumario de desahucio sin condenación en costas y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
 
-En cualquier estado del juicio hasta antes de practicarse el lanzamiento, si el demandado exhibe el recibo o el importe de las pensiones debidas también dará el juez por terminado el negocio, pero impondrá al reo en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación, se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2001)</small>
 
-Siempre que se decrete un lanzamiento, la sentencia que lo ordene, deberá declarar que dicho lanzamiento queda condicionado a lo dispuesto en el párrafo anterior y aunque no se haga esta declaración, se entenderá el lanzamiento sujeto a la condición expresada.
+En cualquier etapa del juicio hasta antes de dictarse la sentencia, si el demandado exhibe el recibo o el importe de las pensiones debidas, el juez dará por terminado el negocio, pero impondrá al arrendatario en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación, se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2001)</small>
+
+Dictada la sentencia que decrete un lanzamiento y condene el pago de las rentas debidas y otras prestaciones de orden económico, se deberá declarar que dicho lanzamiento quedará sin efectos al cumplir el arrendatario con todas las prestaciones de orden económico a que fue condenado y aunque no se haga esta declaración, se entenderá el lanzamiento sujeto a la condición expresada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8351,3 +8355,7 @@ P.O. 13 DE MARZO DE 2001.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.
 
 Segundo. Las reformas que mediante el presente decreto se aprueban sólo serán aplicables respecto a los créditos que se contraten con posterioridad a su entrada en vigor.
+
+P.O. 12 DE ABRIL DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
