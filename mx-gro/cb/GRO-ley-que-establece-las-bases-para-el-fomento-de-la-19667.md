@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-las-bases-para-el-fomento-de-la-19667"
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-13"
-last_updated: "1989-04-11"
+last_updated: "1994-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY QUE ESTABLECE LAS BASES PARA EL FOMENTO DE PARTICIPACION DE LA COMUNIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 13 de mayo de 1987.
 
@@ -152,6 +152,14 @@ Esos Comités estarán normativa y funcionalmente vinculados al Sistema Estatal 
 ###### ARTICULO 17o.
 
 El Gobierno del Estado promoverá la creación de Comités Ciudadanos que apoyen económicamente a personas de escasos recursos o extrema ignorancia para que otorguen fianza o reparen el daño causado conforme a la Ley Penal y a las Leyes Civiles aplicables, por la Comisión de Delitos.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1994)</small>
+
+Estos Comités Ciudadanos vigilarán el cumplimiento del Programa de Quejas en Seguridad Pública, canalizando a las autoridades competentes sus propuestas, denuncias y quejas en apoyo a la actuación y organización de los órganos de protección ciudadana y formularán las propuestas que sean necesarias para evitar los abusos de autoridad en los servicios policiales para que se ajusten a los principios constitucionales de legalidad.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1994)</small>
+
+Los Comités Ciudadanos estarán integrados por un Presidente, un Vicepresidente, un Secretario y cinco Vocales. Se crea una unidad administrativa conforme a lo previsto en el Artículo 5o. de esta Ley, que tendrá la tarea de crear en los Municipios de la Entidad los Comités Ciudadanos de Justicia y Seguridad, coordinar los trabajos de los mismos, apoyarlos en su operación. Esta unidad dependerá de la Subsecretaría de Gobierno para asuntos políticos.
 
 ###### ARTICULO 18o.
 
@@ -304,3 +312,9 @@ P.O. 11 DE ABRIL DE 1989.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE AGOSTO DE 1994.
+
+PRIMERO.- La unidad administrativa contará con los recursos con que venía operando la unidad de participación ciudadana.
+
+SEGUNDO.- El presente Decreto empezará a surtir sus efectos tres días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
