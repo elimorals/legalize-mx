@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1997-03-22"
+last_updated: "1997-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -445,7 +445,7 @@ La Secretaría de Hacienda y Crédito Público dará a conocer anualmente la tab
 
 Los contribuyentes a que se refiere este artículo, que obtengan ingresos exclusivamente por la realización de actividades agrícolas, ganaderas o silvícolas, considerarán como valor de su activo en el ejercicio, el valor catastral de sus terrenos que sirva de base para determinar el impuesto predial. El cálculo de este impuesto se hará sin incluir maquinaria y equipo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 MARZO DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 22 MARZO DE 1997) (REPUBLICADO, D.O.F. 23 DE JUNIO DE 1997)
 
 ###### ARTICULO 12-A.
 
@@ -708,3 +708,9 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 D.O.F. 22 DE MARZO DE 1997.
 
 > <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
+
+D.O.F. 23 DE JUNIO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA MODIFICACION QUE SE RELACIONAN CON LA LEY.
+
+Primero. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
