@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-organismo-publico-descentralizado-radio-y-2790"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-11"
-last_updated: "1987-01-11"
+last_updated: "1996-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO RADIO Y TELEVISION DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1996.
 
 Ley publicada en el Suplemento al Número 2 del Periódico Oficial del Estado de Aguascalientes, el 11 de enero de 1987.
 
@@ -53,15 +53,19 @@ Para este fin deberá reflejar objetivamente los acontecimientos que informen. C
 
 Servirá además, como vehículo de expresión de las inquietudes y opiniones de los radioescuchas y del público televidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 4o.
 
-Son funciones del Organismo las siguientes:
+Son funciones del organismo las siguientes:
 
 I.- Operar las estaciones de radio y televisión en los términos que fije la Secretaría de Comunicaciones y Transportes del Gobierno Federal.
 
 II.- Formular los planes y programas de trabajo que se requieran para el cumplimiento de su objeto.
 
-III.- Fungir como órgano ejecutor del Gobierno del Estado y de los Ayuntamientos de la Entidad en materia de difusión por radio y televisión de sus acciones y obras.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1996)</small>
+
+III.- Fungir como órgano ejecutor de los Poderes del Estado, y de los Ayuntamientos de la Entidad en materia de difusión por Radio y Televisión de sus acciones y obras de interés público.
 
 IV.- Celebrar convenios de cooperación, coproducción e intercambio, con las dependencias y entidades de la Federación, del Estado y de los Municipios de la Entidad, para difundir programas y acciones de estas entidades que favorezcan el desarrollo de Aguascalientes. También podrá celebrar convenios de cooperación, coproducción e intercambio con entidades de radio y televisión nacionales y extranjeras en los términos de la Ley Federal de Radio y Televisión.
 
@@ -69,7 +73,9 @@ V.- Celebrar convenios con el sistema estatal y los comités municipales para el
 
 VI.- Celebrar convenios de coordinación con la Universidad Autónoma de Aguascalientes y con aquellos centros de enseñanza en los que se impartan estudios de comunicación social.
 
-VII.- Procurar la participación de la población del Estado para que la producción y transmisión que genere o auspicie, tenga un contenido eminentemente democrático y popular.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1996)</small>
+
+VII.- Procurar la participación de la población del Estado para que la producción y transmisión que genere o auspicie, tenga un contenido eminentemente democrático y popular. Asimismo, fomentar la participación de las diferentes entidades de interés público, para conocer sus actividades.
 
 VIII.- Apoyar, como instrumento de divulgación, los programas y acciones del Comité de Planeación y Desarrollo del Estado de Aguascalientes.
 
@@ -93,7 +99,9 @@ e).- Difundir técnicas tendientes a mejorar la productividad industrial, agríc
 
 f).- Orientar al radioescucha o al televidente sobre la preservación de la salud, la economía doméstica y la educación familiar y en general programas que se consideren necesarios para fortalecer el bienestar social y estrechar las relaciones entre los sectores sociales de la población.
 
-g).- Mantener oportunamente informada a la población sobre los planes, programas, proyectos y acciones del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1996)</small>
+
+g).- Mantener oportunamente informada a la población sobre: los planes, programas, proyectos y acciones de los Poderes del Estado y de los Ayuntamientos de la Entidad; así como, las actividades de los partidos políticos registrados, en términos de la Ley Electoral del Estado.
 
 XIII.- El organismo en el cumplimiento de su objeto dará prioridad a la producción y transmisión de programas radiofónicos y de televisión dirigidos a la población infantil y a la juventud para propiciar su desarrollo armónico, creatividad, solidaridad humana, su interés científico, artístico y social así como el conocimiento y protección de los valores humanos e históricos de la Entidad, procurando asimismo la comprensión de los valores cívicos nacionales y estatales y fomentar el conocimiento de la comunidad internacional.
 
@@ -125,11 +133,13 @@ I.- La Junta Directiva.
 
 II.- El Director General.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La Junta Directiva estará integrada por: Un Presidente que será el Gobernador del Estado. Por tres Vocales que serán el Tesorero General del Estado, el Secretario de Administración y Secretario de Planeación y Desarrollo Estatal. Por un Secretario de Actas que será el Subsecretario General de Gobierno y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
+La Junta Directiva estará integrada por: un Presidente que será el Gobernador del Estado; Por 6 vocales que serán: el Secretario de Desarrollo Social del Estado, el Secretario de Finanzas, el Secretario de Administración, el Director del Instituto de Educación de Aguascalientes, el Director del Instituto Cultural de Aguascalientes, un representante del Poder Legislativo, un Secretario de Actas que será el Director General y por un Comisario que será la persona que designe el Contralor General del Gobierno del Estado.
 
-Por cada miembro propietario habrá un suplente quien será designado por el Titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
+Por cada miembro propietario habrá un suplente quien será designado por el titular y contará con las mismas facultades que los propietarios en caso de ausencia de éstos.
 
 ###### ARTICULO 8o.
 
@@ -235,9 +245,11 @@ XX.- Las demás que se establezcan en el Estatuto Orgánico.
 
 Para el Mejor Cumplimiento del Objeto del Organismo
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 13.
 
-Para el mejor cumplimiento del objeto del Organismo, se integrará un Consejo Consultivo como órgano asesor de la Junta Directiva y de la Dirección General, y estará formado por un Presidente que será el Gobernador del Estado, un Secretario que será el Director General y los siguientes vocales que serán nombrados por la Junta Directiva; el Secretario de Planeación y Desarrollo Estatal, el Secretario de los Servicios Coordinados de Educación Pública en el Estado, el Secretario de los Servicios Coordinados de Salud Pública en el Estado, un representante del Congreso del Estado, un representante de cada uno de los Partidos Políticos Nacionales registrados, los nueve Presidentes Municipales del Estado, dos representantes del Sector Agrario, dos del Sector Obrero, dos del Sector Popular, dos del Sector Privado, el Rector de la Universidad Autónoma de Aguascalientes, el Director del Instituto Cultural de Aguascalientes y los demás miembros que en virtud de la representatividad que tengan en la comunidad aguascalentense considere la Junta Directiva nombrar. Por cada Consejero propietario habrá un suplente.
+Para el mejor cumplimiento del objeto del organismo se integrará un Consejo Consultivo como órgano asesor de la Junta Directiva y de la Dirección General, y estará formado por un Presidente que será electo por los miembros del mismo organismo, cumpliendo los requisitos que establece el Artículo 14 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes, un Secretario que será el Director General y los siguientes vocales que serán nombrados por la Junta Directiva: el Secretario de Desarrollo Social del Estado, el Director del Instituto de Educación del Estado, el Director del Instituto Cultural de Aguascalientes, el Director del Instituto de Salud del Estado, un representante del Congreso del Estado, un representante de cada uno de los Partidos Políticos Nacionales registrados, los once Presidentes Municipales del Estado, dos representantes del Sector Agrario, dos del Sector Obrero, dos del Sector Popular, dos del Sector Privado, el Rector de la Universidad Autónoma de Aguascalientes, el Rector de la Universidad Tecnológica, y los demás miembros que, en virtud de la representatividad que tengan en la comunidad Aguascalentense, considere la Junta Directiva nombrar a propuesta del Presidente. Por cada consejero propietario habrá un suplente.
 
 ###### ARTICULO 14.
 
@@ -251,7 +263,9 @@ III.- Recomendar medios y estrategias para que el Organismo se allegue recursos 
 
 IV.- Hacer llegar sus recomendaciones a la Junta Directiva y a la Dirección General.
 
-V.- Reunirse por lo menos dos veces al año a propuesta de su Presidente. Los cargos en el Consejo Consultivo serán honoríficos.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 1996)</small>
+
+V.- Reunirse por lo menos una vez cada tres meses en el año, a propuesta de su Presidente. Los cargos en el Consejo Consultivo serán honoríficos.
 
 ### CAPITULO IV. Organos de Vigilancia
 
@@ -304,3 +318,9 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
