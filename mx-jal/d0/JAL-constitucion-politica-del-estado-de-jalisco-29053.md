@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-29053"
 country: "mx"
 rank: "constitucion"
 publication_date: "1857-12-06"
-last_updated: "1857-12-06"
+last_updated: "1870-05-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO (1857)
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA: 30 DE MAYO DE 1870
 
 Constitución publicada el día 06 de diciembre de 1857
 
@@ -61,17 +61,13 @@ El Estado de Jalisco es libre, soberano é independiente en todo lo relativo á 
 
 3º. El Estado garantiza á todos sus habitantes el goce de los derechos del hombre y del ciudadano mexicano, que están declarados en la Constitucion federal, así como el de los que se consignan en ésta, con las restricciones que en ella misma se expresan.
 
-> <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
+> <small>(REFORMADO, 30 DE MAYO DE 1870)</small>
 
 4º. Son derechos de los habitantes del Estado:
 
-I. Votar en las elecciones populares, siempre que en el individuo concurran las circunstancias siguientes:
+I. Votar en las elecciones populares, siempre que en el individuo concurran las circunstancias siguientes: ser ciudadano mexicano y no tener causa criminal pendiente.
 
-Ser ciudadano mexicano.- Estar inscrito en el registro civil.- Saber leer y escribir, ménos cuando se trate de la eleccion de comisarios municipales.- No haber sido condenado por ninguno de los delitos infamantes que designará una ley secundaria.- No tener causa criminal pendiente, ni ser deudor calificado del erario.
-
-II. Ser votados en toda eleccion popular y poder desempeñar cualquier empleo del Estado, cuando, además de las circunstancias que fija el párrafo anterior, concurran en el individuo las de tener la edad y requisitos que la ley determine para cada cargo. Una residencia en el Estado, cuando ménos de dos años, á no ser que se trate de empleos facultativos.- No pertenecer al estado eclesiástico, ni tampoco, si se tratare de alguno de los empleos de que habla esta Constitucion, á la milicia permanente ó activa.
-
-III. Obrar con libertad absoluta en todo lo que no esté expresamente prohibido por las leyes, ni ataque las buenas costumbres ó sea con perjuicio de tercero.
+II. Ser votado en toda eleccion popular y desempeñar cualquier empleo del Estado, cuando, además de las circunstancias que fija el párrafo anterior, concurran en el individuo las de tener la edad y requisitos que la ley determina para cada cargo; y si se tratare de algun cargo de eleccion popular, no ser ministro de algun culto ni pertenecer al estado eclesiástico, ni á la milicia permanente.
 
 > <small>(REFORMADO, 06 DE DICIEMBRE DE 1857)</small>
 
@@ -414,3 +410,7 @@ Guadalajara, Noviembre 26 de 1857.- AURELIO RAMIS PORTUGAL, diputado presidente.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio del Gobierno de Jalisco. Guadalajara, Diciembre 6 de 1857.- Anastasio Parrodi.- Por ausencia del señor secretario, Jesús M. Jiménez.
 
 Tomado de: Colección de los Decretos, Circulares y Ordenes de los Poderes Legislativo y Ejecutivo del Estado de Jalisco. 1ª. Serie. Tomo XIV. Tip. del Gob. a cargo de J. Guadalupe Montenegro (hijo). 1884. Págs. 382-398
+
+PUBLICADO 30 DE MAYO DE 1870
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 23 DE LA PRESENTE CONSTITUCION.
