@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-19-1-99-de-la-40861"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-06-01"
-last_updated: "1999-06-01"
+last_updated: "2001-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-06-01"
 
 ACUERDO GENERAL DE ADMINISTRACION 19-1/99 POR EL QUE DESAPARECE LA SECRETARIA ADMINISTRATIVA DE COMUNICACION Y DIFUSION; SE ADSCRIBEN LAS AREAS ADMINISTRATIVAS QUE TENIA A SU CARGO Y SE CREA LA DIRECCION GENERAL DE CONTROL INTERNO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XIII, JUNIO DE 2001, PAGINA 803.
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Tomo IX, Junio de 1999, página 1003.
 
@@ -49,6 +49,10 @@ a) Secretaría de Finanzas y Servicios Administrativos, que deberá coordinar, d
 
 b) Secretaría de la Contraloría y de Gestión Administrativa, que deberá coordinar, dirigir y supervisar las áreas administrativas que permitan el ejercicio del control interno y gestión administrativa, así como las áreas técnico-administrativas que tiene adscritas y que cumplan con la función de apoyo y difusión jurídica.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACION 4/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 803, LA DIRECCION GENERAL DE DOCUMENTACION Y ANALISIS CON LAS AREAS QUE LA INTEGRAN A LA SECRETARIA DE LA CONTRALORIA Y DE GESTION ADMINISTRATIVA DE LA SUPREMA CORTE DE JUSTICIA, SE ADSCRIBE Y DEPENDERA DIRECTAMENTE DE LA COORDINACION GENERAL DE COMPILACION Y SISTEMATIZACION DE TESIS.</small>
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACION 4/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 803)</small>
+
 TERCERO.- Se adscriben a la Secretaría de la Contraloría y de Gestión Administrativa, las siguientes unidades administrativas.
 
 a) Coordinación General de Compilación y Sistematización de Tesis;
@@ -58,6 +62,10 @@ b) Dirección General del Semanario Judicial de la Federación;
 c) Dirección General de Comunicación Social;
 
 d) Unidad de atención a Ministros.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACION 4/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 803, LA DIRECCION GENERAL DE DOCUMENTACION Y ANALISIS CON LAS AREAS QUE LA INTEGRAN A LA SECRETARIA DE LA CONTRALORIA Y DE GESTION ADMINISTRATIVA DE LA SUPREMA CORTE DE JUSTICIA, SE ADSCRIBE Y DEPENDERA DIRECTAMENTE DE LA COORDINACION GENERAL DE COMPILACION Y SISTEMATIZACION DE TESIS.</small>
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACION 4/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 803)</small>
 
 CUARTO.- Se adscriben a la Secretaría de Finanzas y Servicios Administrativos, las siguientes unidades administrativas.
 
@@ -88,3 +96,21 @@ TERCERO.- Los titulares de las secretarías administrativas respectivas, dentro 
 CUARTO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el señor Ministro Genaro David Góngora Pimentel, presidente de la Suprema Corte de Justicia de la Nación, el día primero de junio de mil novecientos noventa y nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO XIII, JUNIO DE 2001, PAGINA 803.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- El titular de la Dirección General de Documentación y Análisis informará al titular de la Coordinación General de Compilación y Sistematización de Tesis, de manera inmediata y conforme al organigrama estructural básico de la dirección general, lo siguiente:
+
+a) Los programas previstos para desarrollarse durante el año 2001, y el grado de avance que presenten.
+
+b) Los asuntos urgentes o prioritarios, el estado que guardan, así como la solución planteada para su atención.
+
+c) Las actividades que se han desarrollado a la fecha de aprobación de este acuerdo.
+
+TERCERO.- Se derogan todos los acuerdos administrativos que se opongan al presente.
+
+CUARTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
