@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-contabilidad-y-gasto-publico-estatal-12315"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-02"
-last_updated: "1995-09-02"
+last_updated: "1998-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
+LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO ESTATAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima" el sábado 2 de septiembre de 1995.
 
@@ -351,9 +351,11 @@ Cualquier erogación con cargo al presupuesto deberá autorizarse a través de �
 
 Los servidores públicos que autoricen las órdenes de pago respectivas, son responsables por los pagos que se realicen en contravención a lo dispuesto por el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 33.
 
-Los pagos que afecten el presupuesto deberán realizarse mediante cheques nominativos con cargo a las cuentas bancarias del Gobierno del Estado. Los cheques que expida la Secretaría de Finanzas deberán ser firmados en forma mancomunada por los titulares de las direcciones de contabilidad e informática y de presupuesto, quedando facultado el Secretario de Finanzas para designar a un tercer servidor público para suplir las ausencias de cualquiera de ellos. Se exceptúan de esta regla a los sueldos y a los gastos inferiores a una cantidad que no exceda del 60% del salario mínimo general mensual vigente en el Estado.
+Los pagos que afecten el presupuesto deberán realizarse mediante cheques nominativos con cargo a las cuentas bancarias del Gobierno del Estado. Los cheques que expida la Secretaría de Finanzas deberán ser firmados indistintamente en forma mancomunada por dos titulares de las unidades administrativas facultadas para ello en el reglamento interior de la dependencia. Se exceptúan de esta regla a los sueldos y a los gastos inferiores a una cantidad que no exceda el 60% del salario mínimo general mensual vigente en el Estado.
 
 Queda estrictamente prohibido expedir cheques al portador o en blanco.
 
@@ -534,3 +536,9 @@ Dado en el Recinto Oficial del Poder Legislativo a los veintinueve días del mes
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los treinta y un días del mes de agosto de mil novecientos noventa y cinco.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
