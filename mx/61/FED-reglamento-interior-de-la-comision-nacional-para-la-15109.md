@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-para-la-15109"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "1999-10-15"
+last_updated: "2002-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15109&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-10-11"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 22 DE FEBRERO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de octubre de 1999.
 
@@ -684,3 +686,11 @@ Los días en que se suspendan las labores de la Comisión Nacional o cuando sus 
 ÚNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de octubre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS RELACIONADOS CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A la entrada en vigor de este Estatuto Orgánico se abroga el Reglamento Interior de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación el 15 de octubre de 1999.
