@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-avaluos-de-bienes-nacionales-35959
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-26"
-last_updated: "2004-01-26"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35959&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-01-16"
 
 REGLAMENTO DE LA COMISION DE AVALUOS DE BIENES NACIONALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES, PUBLICADO EN EL D.O.F. DE 2 DE SEPTIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 26 de enero de 2004.
 
@@ -698,3 +700,27 @@ TERCERO.- En tanto la Secretaría de la Función Pública expide las normas, lin
 CUARTO.- Para efectos de lo dispuesto por el artículo 20 del presente Reglamento, dentro de los sesenta días siguientes a la fecha en que este ordenamiento entre en vigor, el Presidente de la CABIN seleccionará a los colegios de profesionistas a los que invitará para acreditar un representante ante los cuerpos colegiados de avalúos de las oficinas centrales y de las delegaciones regionales de la propia CABIN. En el momento en que tomen posesión de su encargo los representantes acreditados, quedarán sin efectos las acreditaciones expedidas con anterioridad por las instituciones nacionales de crédito. No será impedimento para ser acreditado como representante de un colegio de profesionistas, el haber formado parte con anterioridad de un cuerpo colegiado de avalúos.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Función Pública, Eduardo Romero Ramos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Comisión de Avalúos de Bienes Nacionales publicado en el Diario Oficial de la Federación el 26 de enero de 2004, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En tanto la Secretaría y el INDAABIN, según proceda, expidan las normas, lineamientos, políticas, procedimientos, criterios técnicos, metodologías y demás disposiciones a que se refiere este Reglamento, se continuarán aplicando las disposiciones vigentes en lo que no se opongan al presente Decreto.
+
+CUARTO.- Los asuntos que a la fecha de entrada en vigor del presente Decreto se encontraren en trámite en la Comisión de Avalúos de Bienes Nacionales, continuarán siendo tramitados hasta su resolución por la unidad administrativa del INDAABIN que resulte competente conforme a este Decreto.
+
+QUINTO.- Para efectos de lo dispuesto por el artículo 18 del Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales, los integrantes de los cuerpos colegiados de avalúos de la Comisión de Avalúos de Bienes Nacionales que a la entrada en vigor del presente Decreto se encuentran en funciones, pasarán a formar parte del correspondiente cuerpo colegiado de avalúos del INDAABIN, por el tiempo que reste a su encargo.
+
+Los peritos que a la entrada en vigor del presente Decreto, se encuentren inscritos en el Padrón de Peritos Valuadores previsto en el Reglamento que se abroga, quedarán registrados en el Padrón Nacional de Peritos a que se refiere el artículo 25 del Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales.
+
+SEXTO.- Las menciones a la Comisión de Avalúos de Bienes Nacionales que se efectúen en cualquier otro ordenamiento jurídico, se entenderán realizadas al Instituto de Administración y Avalúos de Bienes Nacionales.
+
+SÉPTIMO.- Los recursos humanos, financieros y materiales con que cuente la Comisión de Avalúos de Bienes Nacionales al momento de la entrada en vigor de este Decreto, serán transferidos al Instituto de Administración y Avalúos de Bienes Nacionales.
+
+OCTAVO.- Los derechos de los trabajadores de la Comisión de Avalúos de Bienes Nacionales, serán respetados conforme a la legislación laboral aplicable.
+
+NOVENO.- Los inmuebles federales destinados a la Secretaría para uso de la Comisión de Avalúos de Bienes Nacionales, continuarán destinados a esa dependencia para el servicio del Instituto de Administración y Avalúos de Bienes Nacionales.
