@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-comunicaciones-y-transportes-para-el-estado-de-nuevo-745
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-14"
-last_updated: "1984-12-14"
+last_updated: "1987-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COMUNICACIONES Y TRANSPORTES PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial, el viernes 14 de diciembre de 1984.
 
@@ -261,13 +261,17 @@ I.- Previa, que consistirá en un depósito en efectivo que el interesado en obt
 
 II.- Definitiva, que se hará consistir en un depósito en efectivo otorgado por el concesionario o permisionario una vez resuelta favorablemente su solicitud y antes de que se inicie la prestación del servicio. Su monto no será mayor de cien cuotas, ni de veinte, por cada concesión o permiso, respectivamente.
 
+> <small>(REFORMADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 31o.
 
-En lo que respecta al servicio público de autotransporte en cualquiera de sus modalidades, una vez constituida la garantía y pagados los derechos que cause dicho procedimiento, la Dirección de Comunicaciones y Transportes turnará la solicitud, tratándose de transporte urbano ala Comisión de Regulación y Vigilancia del Transporte y en el transporte foráneo a la Junta Local de Caminos, las que opinarán en sus respectivas competencias si es o no conveniente otorgar la concesión o permiso solicitado, con vista en los estudios técnicos que se acompañen y en los que ellas mismas realicen para conocer la capacidad de la ruta desde el punto de vista del transporte y evitar duplicidades dentro de una misma zona o ruta.
+En lo que respecta al servicio público de autotransporte en cualquiera de sus modalidades, una vez constituida la garantía y pagados los derechos que cause dicho procedimiento, la Dirección de Comunicaciones y Transportes turnará la solicitud, tratándose de transporte urbano ala Consejo Estatal de Transporte y en el transporte foráneo a la Junta Local de Caminos, las que opinarán en sus respectivas competencias si es o no conveniente otorgar la concesión o permiso solicitado, con vista en los estudios técnicos que se acompañen y en los que ellas mismas realicen para conocer la capacidad de la ruta desde el punto de vista del transporte y evitar duplicidades dentro de una misma zona o ruta.
+
+(REFORMADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987).
 
 ###### ARTICULO 32o.
 
-Recibida la opinión de la Comisión de Regulación y Vigilancia del Transporte o de Junta Local de Caminos, en su caso, el Ejecutivo ordenará la publicación de la solicitud a costa del interesado, en el Periódico Oficial del Estado, por dos veces consecutivas, a fin que los terceros que pudieran resultar afectados presenten sus observaciones en un plazo de quince días contados a partir de la fecha de la última publicación.
+Recibida la opinión de la Consejo Estatal de Transporte o de Junta Local de Caminos, en su caso, el Ejecutivo ordenará la publicación de la solicitud a costa del interesado, en el Periódico Oficial del Estado, por dos veces consecutivas, a fin que los terceros que pudieran resultar afectados presenten sus observaciones en un plazo de quince días contados a partir de la fecha de la última publicación.
 
 ###### ARTICULO 33o.
 
@@ -483,13 +487,17 @@ DE LA DIRECCION DE COMUNICACIONES Y TRANSPORTES.
 
 La Dirección de Comunicaciones y Transportes planeará, autorizará, vigilará, coordinará y controlará los servicios de autotransporte por caminos del Estado.
 
+(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987).
+
 ###### ARTICULO 66o.
 
-La Dirección de Comunicaciones y Transportes, en el ejercicio de las funciones a que se refiere el artículo anterior, se coordinará con las Autoridades Federales del Ramo y tendrá como organismo auxiliar a la Comisión de Regulación y Vigilancia del Transporte.
+La Dirección de Comunicaciones y Transportes, en el ejercicio de las funciones a que se refiere el artículo anterior, se coordinará con las Autoridades Federales del Ramo.
+
+(DEROGADO ULTIMO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987).
 
 ###### ARTICULO 67o.
 
-La Comisión de Regulación y Vigilancia del Transporte será la encargada de realizar los estudios económicos generales de las distintas regiones del Estado, estudiará la necesidad del transporte urbano en esas mismas zonas y el número de vehículos necesarios para satisfacerlo; determinará las posibilidades de coordinación con los otros tipos del mismo, analizará y propondrá la forma y características del transporte para cada zona, concentrará y elaborará los datos estadísticos necesarios para realizar los trabajos mencionados y los demás estudios que la dirección de Comunicaciones y Transportes le encomiende.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987).
 
 ###### ARTICULO 68o.
 
@@ -509,7 +517,9 @@ VI.- Fijar, calificar y aplicar las sanciones en que incurran los concesionarios
 
 VII.- Decretar las medidas administrativas provisionales, en los casos de infracciones cometidas por los concesionarios o permisonarios;
 
-VIII.- Oír para el ejercicio de sus atribuciones, la opinión de la Comisión de Regulación y Vigilancia del Transporte, de la Junta Local de Caminos y de la Autoridad Municipal de la zona de que se trate.
+(REFORMADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY", P.O. 9 DE NOVIEMBRE DE 1987).
+
+VIII.- Oír para el ejercicio de sus atribuciones, la opinión de la Consejo Estatal de Transporte, de la Junta Local de Caminos y de la Autoridad Municipal de la zona de que se trate.
 
 ###### ARTICULO 69o.
 
@@ -716,3 +726,27 @@ ALFONSO MARTINEZ DOMINGUEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 GRACIANO BORTONI URTEAGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+P.O. 9 DE NOVIEMBRE DE 1987.
+
+LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY".
+
+###### ARTICULO PRIMERO
+
+- Se modifican los Artículos 31, 32 y 68 de la Ley de Comunicaciones y Transportes para el Estado de Nuevo León para que las atribuciones conferidas a la Comisión de Regulación y Vigilancia del Transporte pasen a ser competencia del Consejo estatal de Transporte a partir de la entrada en vigor de esta Ley.
+
+###### ARTICULO SEGUNDO
+
+- Se deroga la parte final del Artículo 66 de la Ley de Comunicaciones y Transportes para el Estado de Nuevo León que establece la Comisión de Regulación y Vigilancia del Transporte como un organismo de carácter auxiliar de la Dirección de Comunicaciones y Transportes.
+
+###### ARTICULO TERCERO.
+
+Se deroga el Artículo 67 de la Ley de Comunicaciones y Transportes para el Estado de Nuevo León, publicada en el Periódico Oficial del Estado del 14 de Diciembre de 1984.
+
+###### ARTICULO CUARTO
+
+- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
