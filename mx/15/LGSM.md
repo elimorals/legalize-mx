@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1956-12-31"
+last_updated: "1981-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1981.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -192,11 +192,11 @@ No producirán ningún efecto legal las estipulaciones que excluyan a uno o más
 
 Si hubiere pérdida del capital social, éste deberá ser reintegrado o reducido antes de hacerse repartición o asignación de utilidades.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 19.
 
-La repartición de utilidades sólo podrá hacerse después del balance que efectivamente las arroje, en el concepto de que las que se repartan, nunca podrán exceder del monto de las que realmente se hubieren obtenido.
-
-Cualquiera estipulación en contrario no producirá efecto legal, y tanto la sociedad como sus acreedores podrán repetir por los anticipos o reparticiones de utilidades hechas en contravención de este artículo, contra las personas que las hayan recibido, o exigir su reembolso a los administradores que las hayan pagado, siendo unas y otros mancomunada y solidariamente responsables de dichos anticipos y reparticiones.
+La distribución de utilidades sólo podrá hacerse después de que hayan sido debidamente aprobados por la asamblea de socios o accionistas los estados financieros que las arrojen. Tampoco podrá hacerse distribución de utilidades mientras no hayan sido restituidas o absorbidas mediante aplicación de otras partidas del patrimonio, las pérdidas sufridas en uno o varios ejercicios anteriores, o haya sido reducido el capital social. Cualquiera estipulación en contrario no producirá efecto legal, y tanto la sociedad como sus acreedores podrán repetir por los anticipos o reparticiones de utilidades hechas en contravención de este artículo, contra las personas que las hayan recibido, o exigir su reembolso a los administradores que las hayan pagado, siendo unas y otros mancomunada y solidariamente responsables de dichos anticipos y reparticiones.
 
 > <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
 
@@ -212,15 +212,23 @@ Son nulos de pleno derecho los acuerdos de los administradores o de las juntas d
 
 Quedan a salvo los derechos de los administradores para repetir contra los socios por el valor de lo que entreguen cuando el fondo de reserva se haya repartido.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
+No se entenderá como reparto la capitalización de la reserva legal, cuando esto se haga, pero en este caso deberá volverse a constituir a partir del ejercicio siguiente a aquel en que se capitalice, en los términos del artículo 20.
+
 ###### ARTICULO 22.
 
 Para hacer efectiva la obligación que impone a los administradores el artículo anterior, cualquier socio o acreedor de la sociedad podrá demandar su cumplimiento en la vía sumaria.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 23.
 
-Los acreedores particulares de un socio no podrán, mientras dure la sociedad, hacer efectivos sus derechos sino sobre las utilidades que correspondan al socio, según el balance social, y, cuando se disuelva la sociedad, sobre la porción que le corresponda en la liquidación.
+Los acreedores particulares de un socio no podrán, mientras dure la sociedad, hacer efectivos sus derechos sino sobre las utilidades que correspondan al socio según los correspondientes estados financieros, y, cuando se disuelva la sociedad, sobre la porción que le corresponda en la liquidación. Igualmente, podrán hacer efectivos sus derechos sobre cualquier otro reembolso que se haga a favor de los socios, tales como devolución de primas sobre acciones, devoluciones de aportaciones adicionales y cualquier otro semejante.
 
-Podrán, sin embargo, embargar esta porción, y, en las sociedades por acciones, embargar y hacer vender las acciones del deudor.
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
+Podrán, sin embargo, embargar la porción que le corresponda al socio en la liquidación y, en las sociedades por acciones, podrán embargar y hacer vender las acciones del deudor.
 
 Cuando las acciones estuvieren caucionando las gestiones de los administradores o comisarios, el embargo producirá el efecto de que, llegado el momento en que deban devolverse las acciones, se pongan éstas a disposición de la autoridad que practicó el embargo, así como los dividendos causados desde la fecha de la diligencia.
 
@@ -752,11 +760,13 @@ Cuando así lo prevenga el contrato social, podrán emitirse en favor de las per
 
 Se prohibe a las sociedades anónimas emitir acciones por una suma menor de su valor nominal.
 
-> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 116.
 
-Solamente las acciones cuyo valor esté totalmente cubierto, serán liberadas.
+Solamente serán liberadas las acciones cuyo valor esté totalmente cubierto y aquellas que se entreguen a los accionistas según acuerdo de la asamblea general extraordinaria, como resultado de la capitalización de primas sobre acciones o de otras aportaciones previas de los accionistas, así como de capitalización de utilidades retenidas o de reservas de valuación o revaluación. Cuando se trate de capitalización de utilidades retenidas o de reservas de valuación o de revaluación, éstas deberán haber sido previamente reconocidas en estados financieros debidamente aprobados por la asamblea de accionistas.
+
+Tratándose de reservas de valuación o de revaluación, éstas deberán estar apoyadas en avalúos efectuados por valuadores profesionales independientes debidamente reconocidos por la Comisión Nacional de Valores, o en cotizaciones certificadas de bolsas de Valores o mercancías, cuando se trate de valores o mercancías cotizados en estas instituciones.
 
 ###### ARTICULO 117.
 
@@ -936,11 +946,11 @@ Salvo pacto en contrario, será Presidente del Consejo el Consejero primeramente
 
 Para que el Consejo de Administración funcione legalmente deberá asistir, por lo menos, la mitad de sus miembros y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes. En caso de empate, el Presidente del Consejo decidirá con voto de calidad.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 144.
 
-Cuando los administradores sean tres o más, el contrato social determinará los derechos que correspondan a la minoría en la designación, pero en todo caso la minoría que represente un veinticinco por ciento del capital social nombrará cuando menos un Consejero.
-
-Sólo podrá revocarse el nombramiento del administrador o administradores designados por las minorías, cuando se revoque igualmente el nombramiento de todos los demás administradores.
+Cuando los administradores sean tres o más, el contrato social determinará los derechos que correspondan a la minoría en la designación, pero en todo caso la minoría que represente un veinticinco por ciento del capital social nombrará cuando menos un consejero. Este porcentaje será del diez por ciento, cuando se trate de aquellas sociedades que tengan inscritas sus acciones en la Bolsa de Valores.
 
 ###### ARTICULO 145.
 
@@ -1002,15 +1012,21 @@ El Administrador que en cualquiera operación tenga un interés opuesto al de la
 
 Los Administradores tendrán la responsabilidad inherente a su mandato y la derivada de las obligaciones que la ley y los estatutos les imponen.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 158.
 
-Los Administradores son solidariamente responsables para con la sociedad:
+Los administradores son solidariamente responsables para con la sociedad:
 
 I.- De la realidad de las aportaciones hechas por los socios;
 
-II.- De la existencia real de los dividendos pagados a los accionistas;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
 
-III.- De la existencia y regularidad de los libros que previene la Ley, y
+II.- Del cumplimiento de los requisitos legales y estatutarios establecidos con respecto a los dividendos que se paguen a los accionistas.
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+III.- De la existencia y mantenimiento de los sistemas de contabilidad, control, registro, archivo o información que previene la ley.
 
 IV.- Del exacto cumplimiento de los acuerdos de las Asambleas de Accionistas.
 
@@ -1048,27 +1064,45 @@ Los bienes que se obtengan como resultado de la reclamación serán percibidos p
 
 La vigilancia de la sociedad anónima estará a cargo de uno o varios Comisarios, temporales y revocables, quienes pueden ser socios o personas extrañas a la sociedad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 165.
 
-No podrán ser Comisarios:
+No podrán ser comisarios.
 
 I.- Los que conforme a la Ley estén inhabilitados para ejercer el comercio;
 
-II.- Los empleados de la sociedad, y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+II.- Los empleados de la sociedad, los empleados de aquellas sociedades que sean accionistas de la sociedad en cuestión por más de un veinticinco por ciento del capital social, ni los empleados de aquellas sociedades de las que la sociedad en cuestión sea accionista en más de un cincuenta por ciento.
 
 III.- Los parientes consanguíneos de los Administradores, en línea recta sin limitación de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 166.
 
-Son facultades y obligaciones de los Comisarios:
+Son facultades y obligaciones de los comisarios:
 
 I.- Cerciorarse de la constitución y subsistencia de la garantía que exige el artículo 152, dando cuenta sin demora de cualquiera irregularidad a la Asamblea General de Accionistas;
 
-II.- Exigir a los Administradores una balanza mensual de comprobación de todas las operaciones efectuadas;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
 
-III.- Inspeccionar una vez al mes, por lo menos, los libros y papeles de la sociedad, así como la existencia en caja;
+II.- Exigir a los administradores una información mensual que incluya por lo menos un estado de situación financiera y un estado de resultados;
 
-IV.- Intervenir en la formación y revisión del balance anual, en los términos que establece la Ley.
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+III.- Realizar un examen de las operaciones, documentación, registros y demás evidencias comprobatorias, en el grado y extensión que sean necesarios para efectuar la vigilancia de las operaciones que la ley les impone y para poder rendir fundadamente el dictamen que se menciona en el siguiente inciso;
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+IV.- Rendir anualmente a la Asamblea General Ordinaria de Accionistas un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Consejo de Administración a la propia Asamblea de Accionistas. Este informe deberá incluir, por lo menos:
+
+A) La opinión del comisario sobre si las políticas y criterios contables y de información seguidos por la sociedad son adecuados y suficientes tomando en consideración las circunstancias particulares de la sociedad.
+
+B) La opinión del Comisario sobre si esas políticas y criterios han sido aplicados consistentemente en la información presentada por los administradores.
+
+C) La opinión del comisario sobre si, como consecuencia de lo anterior, la información presentada por los administradores refleja en forma veraz y suficiente la situación financiera y los resultados de la sociedad.
 
 V.- Hacer que se inserten en la Orden del Día de las sesiones del Consejo de Administración y de las Asambleas de Accionistas, los puntos que crean pertinentes;
 
@@ -1092,9 +1126,11 @@ Si el Consejo de Administración no hiciere la convocatoria dentro del plazo se�
 
 En el caso de que no se reuniere la Asamblea o de que reunida no se hiciere la designación, la autoridad judicial del domicilio de la sociedad, a solicitud de cualquier accionista, nombrará los Comisarios, quienes funcionarán hasta que la Asamblea General de Accionistas haga el nombramiento definitivo.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 169.
 
-Los Comisarios serán individualmente responsables para con la sociedad por el cumplimiento de las obligaciones que la Ley y los estatutos les imponen.
+Los comisarios serán individualmente responsables para con la sociedad por el cumplimiento de las obligaciones que la ley y los estatutos les imponen. Podrán, sin embargo, auxiliarse y apoyarse en el trabajo de personal que actúe bajo su dirección y dependencia o en los servicios de técnicos o profesionistas independientes cuya contratación y designación dependa de los propios comisarios.
 
 ###### ARTICULO 170.
 
@@ -1104,31 +1140,57 @@ Los Comisarios que en cualquiera operación tuvieren un interés opuesto al de l
 
 Son aplicables a los Comisarios las disposiciones contenidas en los artículos 144, 152, 154, 160, 161, 162 y 163.
 
-#### SECCION QUINTA. Del balance
+> <small>(REFORMADA LA DENOMINACION, D.O.F. 23 DE ENERO DE 1981)</small>
+
+#### SECCION QUINTA. De la información financiera
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 172.
 
-Las sociedades anónimas practicarán anualmente un balance, en el que se hará constar el capital social, especificándose, en su caso, la parte exhibida y la por exhibir; la existencia en caja, las diversas cuentas que formen el activo y el pasivo, las utilidades o pérdidas y los demás datos necesarios para mostrar claramente el estado económico de la sociedad.
+Las sociedades anónimas, bajo la responsabilidad de sus administradores, presentarán a la Asamblea de Accionistas, anualmente, un informe que incluya por lo menos:
+
+A) Un informe de los administradores sobre la marcha de la sociedad en el ejercicio, así como sobre las políticas seguidas por los administradores y, en su caso, sobre los principales proyectos existentes.
+
+B) Un informe en que se declaren y expliquen las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
+
+C) Un estado que muestre la situación financiera de la sociedad a la fecha de cierre del ejercicio.
+
+D) Un estado que muestre, debidamente explicados y clasificados, los resultados de la sociedad durante el ejercicio.
+
+E) Un estado que muestre los cambios en la situación financiera durante el ejercicio.
+
+F) Un estado que muestre los cambios en las partidas que integran el patrimonio social, acaecidos durante el ejercicio.
+
+G) Las notas que sean necesarias para completar o aclarar la información que suministren los estados anteriores.
+
+A la información anterior se agregará el informe de los comisarios a que se refiere la fracción IV del artículo 166.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 173.
 
-El balance deberá quedar concluído dentro de los tres meses siguientes a la clausura de cada ejercicio social, y el Administrador o Consejo de Administración lo entregará a los Comisarios, por lo menos con un mes de anticipación a la fecha de la Asamblea General de Accionistas que haya de discutirlo, junto con los documentos justificativos y un informe general sobre la marcha de los negocios de la sociedad.
+El informe del que habla el enunciado general del artículo anterior, incluido el informe de los comisarios, deberá quedar terminado y ponerse a disposición de los accionistas por lo menos quince días antes de la fecha de la asamblea que haya de discutirlo. Los accionistas tendrán derecho a que se les entregue una copia del informe correspondiente.
 
 ###### ARTICULO 174.
 
-Los Comisarios dentro de los quince días siguientes a la fecha en que se les haya entregado el balance con sus anexos, formularán un dictamen con las observaciones y propuestas que consideren pertinentes.
+(DEROGADO, D.O.F. 23 DE ENERO DE 1981)
 
 ###### ARTICULO 175.
 
-El balance con sus anexos y el dictamen de los Comisarios deberán quedar en poder del Administrador o Consejo de Administración, durante el plazo de quince días anteriores a la fecha de la celebración de la Asamblea General de Accionistas. Estos podrán examinar dichos documentos en las oficinas de la sociedad.
+(DEROGADO, D.O.F. 23 DE ENERO DE 1981)
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 176.
 
-La falta de presentación oportuna del balance por el Administrador o Consejo de Administración, o del dictamen de los Comisarios, será motivo para que la Asamblea General de Accionistas acuerde la remoción del Administrador o Consejo de Administración, o de los Comisarios, sin perjuicio de que se les exijan las responsabilidades en que respectivamente hubieren incurrido.
+La falta de presentación oportuna del informe a que se refiere el enunciado general del artículo 172, será motivo para que la Asamblea General de Accionistas acuerde la remoción del Administrador o Consejo de Administración, o de los Comisarios, sin perjuicio de que se les exijan las responsabilidades en que respectivamente hubieren incurrido.
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 177.
 
-Quince días después de la fecha en que la Asamblea General de Accionistas haya aprobado el balance, deberá mandarse publicar en el Periódico Oficial de la entidad en donde tenga su domicilio la sociedad y se depositará copia autorizada del mismo en el Registro Público de Comercio. Si se hubiere formulado en término alguna oposición contra la aprobación del balance por la Asamblea General de Accionistas, se hará la publicación y depósito con la anotación relativa al nombre de los opositores y el número de acciones que representen.
+Quince días después de la fecha en que la asamblea general de accionistas haya aprobado el informe a que se refiere el enunciado general del artículo 172, deberán mandarse publicar los estados financieros incluidos en el mismo, juntamente con sus notas y el dictamen del comisario, en el periódico oficial de la entidad en donde tenga su domicilio la sociedad, o, si se trata de sociedades que tengan oficinas o dependencias en varias entidades, en el "Diario Oficial" de la Federación. Se depositará copia autorizada del mismo en el Registro Público de Comercio. Si se hubiere formulado en término alguna oposición contra la aprobación del balance por la Asamblea General de Accionistas, se hará la publicación y depósito con la anotación relativa al nombre de los opositores y el número de acciones que representen.
 
 #### SECCION SEXTA. De las asambleas de accionistas
 
@@ -1144,11 +1206,15 @@ Las Asambleas Generales de Accionistas son ordinarias y extraordinarias. Unas y 
 
 Son asambleas ordinarias, las que se reúnen para tratar de cualquier asunto que no sea de los enumerados en el artículo 182.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 181.
 
-La asamblea ordinaria se reunirá por lo menos una vez al año, dentro de los cuatro meses que sigan a la clausura del ejercicio social, y se ocupará, además de los asuntos incluídos en la Orden del Día, de los siguientes:
+La Asamblea Ordinaria se reunirá por lo menos una vez al año dentro de los cuatro meses que sigan a la clausura del ejercicio social y se ocupará, además de los asuntos incluidos en la orden del día, de los siguientes:
 
-I.- Discutir, aprobar o modificar el balance, después de oído el informe de los Comisarios, y tomar las medidas que juzgue oportunas;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1981)</small>
+
+I.- Discutir, aprobar o modificar el informe de los administradores a que se refiere el enunciado general del artículo 172, tomando en cuenta el informe de los comisarios, y tomar las medidas que juzgue oportunas.
 
 II.- En su caso, nombrar al Administrador o Consejo de Administración y a los Comisarios;
 
@@ -1204,9 +1270,11 @@ II.- Cuando las asambleas celebradas durante ese tiempo no se hayan ocupado de l
 
 Si el Administrador o Consejo de Administración, o los Comisarios se rehusaren a hacer la convocatoria, o no la hicieren dentro del término de quince días desde que hayan recibido la solicitud, ésta se formulará ante el Juez competente para que haga la convocatoria, previo traslado de la petición al Administrador o Consejo de Administración y a los Comisarios. El punto se decidirá siguiéndose la tramitación establecida para los incidentes de los juicios mercantiles.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 186.
 
-La convocatoria para las Asambleas Generales, deberá hacerse por medio de la publicación de un aviso en el Periódico Oficial de la entidad del domicilio de la sociedad o en uno de los periódicos de mayor circulación en dicho domicilio, con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo, los libros y documentos relacionados con los objetos de la Asamblea estarán en las oficinas de la sociedad a disposición de los accionistas, para que puedan enterarse de ellos.
+La convocatoria para las asambleas generales deberá hacerse por medio de la publicación de un aviso en el periódico oficial de la entidad del domicilio de la sociedad, o en uno de los periódicos de mayor circulación en dicho domicilio con la anticipación que fijen los estatutos, o en su defecto, quince días antes de la fecha señalada para la reunión. Durante todo este tiempo estará a disposición de los accionistas, en las oficinas de la sociedad, el informe a que se refiere el enunciado general del artículo 172.
 
 ###### ARTICULO 187.
 
@@ -1260,11 +1328,13 @@ El accionista que en una operación determinada tenga por cuenta propia o ajena 
 
 El accionista que contravenga esta disposición, será responsable de los daños y perjuicios, cuando sin su voto no se hubiere logrado la mayoría necesaria para la validez de la determinación.
 
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 197.
 
-Los Administradores y los Comisarios no podrán votar en las deliberaciones relativas a la aprobación del balance o a su responsabilidad.
+Los administradores y los comisarios no podrán votar en las deliberaciones relativas a la aprobación de los informes a que se refieren los artículos 166 en su fracción IV y 172 en su enunciado general o a su responsabilidad.
 
-En caso de contravenirse esta disposición, la resolución será nula cuando sin el voto del Administrador o Comisario no se habría logrado la mayoría requerida.
+En caso de contravención esta disposición, la resolución será nula cuando sin el voto del Administrador o Comisario no se habría logrado la mayoría requerida.
 
 ###### ARTICULO 198.
 
@@ -1689,3 +1759,13 @@ Este Decreto entrará en vigor a los tres días de su publicación en el "Diario
 D.O.F. 31 DE DICIEMBRE DE 1956.
 
 UNICO.- Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE ENERO DE 1981.
+
+> <small>N. DE E. SE CONSIDERA NECESARIA LA TRANSCRIPCION DEL ARTICULO TERCERO DEL DECRETO DE FECHA 19 DE DICIEMBRE DE 1980, Y PUBLICADO EN EL D.O.F. EN LA FECHA SEÑALADA.</small>
+
+###### ARTICULO TERCERO.
+
+A partir de la vigencia de este decreto, todas las expresiones de las leyes mercantiles en que se hable del Balance General, o cualquier otra expresión equivalente, como documento de información financiera, se entenderán en el sentido de que dichas expresiones incluyen los estados y notas establecidos en los incisos C) al G) del artículo 172 de la Ley General de Sociedades Mercantiles.
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de 1981.
