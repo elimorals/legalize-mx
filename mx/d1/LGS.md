@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-06-13"
+last_updated: "2003-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2003.
+
+ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -716,11 +718,11 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. Atención Materno-Infantil
 
+### CAPITULO VII. Salud Mental
+
 ### CAPITULO VI. Servicios de Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
-
-### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
 
@@ -851,6 +853,10 @@ La Secretaría de Salud coordinará las actividades de las dependencias y entida
 ###### ARTICULO 71.
 
 La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
+
+N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. De los Beneficios de la Protección Social en Salud
 
@@ -1009,10 +1015,6 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
-
-N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
@@ -1200,7 +1202,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
+### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1218,7 +1220,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
+### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1292,7 +1294,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
+### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1822,7 +1824,9 @@ La Secretaría de Salud, en coordinación con la Secretaría de Educación Públ
 
 Para la atención y mejoramiento de la nutrición de la población, la Secretaría de Salud participará, de manera permanente, en los programas de alimentación del Gobierno Federal.
 
-La Secretaría de Salud, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+La Secretaría de Salud, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición, alimentos, y su disponibilidad, así como de los sectores sociales y privado.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1836,7 +1840,9 @@ II.- Normar el desarrollo de los programas y actividades de educación en materi
 
 III.- Normar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, en función de las mayores carencias y problemas de salud;
 
-IV.- Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2003)</small>
+
+IV. Normar el valor nutritivo y características de la alimentación en establecimientos de servicios colectivos y en alimentos y bebidas no alcohólicas;
 
 V.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población;
 
@@ -2754,21 +2760,25 @@ III.- Modifiquen sus características, siempre que éstas tengan repercusión en
 
 Para expresar las unidades de medida y peso de los productos a que se refiere este Título, se usará el Sistema Internacional de Unidades.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 210.
 
-Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas que al efecto se emitan.
+Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas que al efecto se emitan, y en el caso de alimentos y bebidas no alcohólicas, éstas se emitirán a propuesta de la Secretaría de Salud, sin menoscabo de las atribuciones de otras dependencias competentes.
 
 ###### ARTICULO 211.
 
 (DEROGADO, D.O.F. 14 DE JUNIO DE 1991)
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 212.
 
-La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica o específica, etiquetas y contraetiquetas, deberán corresponder a las especificaciones autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y no podrán ser modificadas.
+La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica y específica, etiquetas y contra etiquetas, deberán corresponder a las especificaciones establecidas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y responderán exactamente a la naturaleza del producto que se consume, sin modificarse; para tal efecto se observará lo señalado en la fracción VI del artículo 115.
+
+Las etiquetas o contra etiquetas para los alimentos y bebidas no alcohólicas, deberán incluir datos de valor nutricional, y tener elementos comparativos con los recomendados por las autoridades sanitarias, a manera de que contribuyan a la educación nutricional de la población.
+
+En la marca o denominación de los productos, no podrán incluirse clara o veladamente indicaciones con relación a enfermedades, síndromes, signos o síntomas, ni aquellos que refieran datos anatómicos o fisiológicos.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -3668,9 +3678,9 @@ III.- En los establecimientos señalados en las fracciones III y VIII, además d
 
 > <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-IV.- En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquellos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas, quienes podrán ser cualquiera de los profesionales enunciados en las fracciones I, II y III del presente artículo. De no ser el caso, el propietario será responsable en los términos del artículo 261 de esta ley;
+IV.- En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquellos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas, quienes podrán ser cualquiera de los profesionales enunciados en las fracciones I, II y III del presente artículo. De no ser el caso, el propietario será responsable en los términos del artículo 261 de esta Ley;
 
-V.- En los establecimientos señalados en la fracción XI, el responsable podrá ser además de los profesionales indicados en la fracción I de este artículo, un médico veterinario zootecnista, y
+V.- En los establecimientos señalados en la fracción XI, el responsable podrá ser, además de los profesionales indicados en la fracción I de este artículo, un médico veterinario zootecnista, y
 
 VI.- En los establecimientos señalados en la fracción XII, el Consejo de Salubridad General determinará los requisitos del responsable sanitario.
 
@@ -5889,3 +5899,11 @@ VIGÉSIMO PRIMERO. El Programa de Desarrollo Humano Oportunidades, continuará o
 D.O.F. 13 DE JUNIO DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2003.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente después de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las autoridades en su respectivo ámbito de competencia, contarán con un plazo de dos años contados a partir de la vigencia del presente Decreto, para modificar las disposiciones reglamentarias, de las Normas Oficiales Mexicanas y cualquier otro ordenamiento aplicable, a fin de lograr el cabal cumplimiento y objetivo del presente Decreto.
+
+Tercero. Una vez que las autoridades modifiquen las disposiciones reglamentarias, los usuarios contarán con un año para regularizarse.
