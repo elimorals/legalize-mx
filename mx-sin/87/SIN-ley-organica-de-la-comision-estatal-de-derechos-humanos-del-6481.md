@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-comision-estatal-de-derechos-humanos-del-648
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-04-07"
-last_updated: "1993-04-07"
+last_updated: "2001-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE JULIO DE 2001.
 
 Ley publicada en el Periódico Oficial el "Estado de Sinaloa" el miércoles 07 de Abril de 1993.
 
@@ -139,9 +139,13 @@ En los términos de esta Ley, sólo podrán admitirse o conocerse quejas o incon
 
 ### CAPITULO II. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISION
 
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 10.
 
-El nombramiento del Presidente de la Comisión Estatal, será hecho por el Congreso del Estado, o por la Diputación Permanente en su caso, ante quien rendirá la protesta de ley, de una terna que para tal efecto presente el Ejecutivo del Estado; durará en su encargo cinco años, pudiendo ser redesignado para un nuevo período.
+El nombramiento del presidente de la Comisión Estatal será hecho por el Congreso del Estado con la aprobación del voto de las dos terceras partes de sus integrantes y mediante convocatoria pública previa a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos en Sinaloa. Durará en su cargo cuatro años y sólo podrá ser removido de sus funciones, en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+
+El presidente de la Comisión Estatal de Derechos Humanos podrá ser reelecto por una sola vez para un nuevo periodo mediante el mismo procedimiento de convocatoria pública y votación de las dos terceras partes de los integrantes del Congreso.
 
 ###### ARTICULO 11.
 
@@ -159,7 +163,9 @@ V. No desempeñar ningún cargo, empleo o comisión públicos, al momento de ser
 
 VI. No ser dirigente de partido político al momento de su designación; y
 
-VII.- Tener una residencia efectiva de, al menos, tres años en el Estado con anterioridad a la fecha de su nombramiento.
+> <small>(REFORMADA, P.O. 04 DE JULIO DE 2001)</small>
+
+VII. Contar con experiencia de cuando menos 5 años en la defensa de los derechos humanos y tener una residencia efectiva de al menos tres años en el estado, con anterioridad a la fecha de su nombramiento.
 
 ###### ARTICULO 12.
 
@@ -191,7 +197,9 @@ IV. Instrumentar, ejecutar y vigilar la aplicación de las políticas que en el 
 
 V. Distribuir y delegar funciones a los diversos funcionarios de la Comisión en los términos del Reglamento Interno;
 
-VI. Enviar un informe anual al Congreso del Estado y al Titular del Poder Ejecutivo del Estado sobre las actividades de la Comisión;
+> <small>(REFORMADA, P.O. 04 DE JULIO DE 2001)</small>
+
+VI. Presentar anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades.
 
 VII. Solicitar a cualquier autoridad del Estado o de los municipios, de conformidad con las disposiciones legales aplicables, la información que requiera sobre posibles violaciones a los derechos humanos;
 
@@ -217,15 +225,27 @@ El Presidente de la Comisión, el Visitador General y los visitadores adjuntos, 
 
 El Consejo es el órgano colegiado y plural que estará integrado por el Presidente de la Comisión, y diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos. De estos últimos, cuando menos siete de ellos no deben desempeñar ningún cargo o comisión como servidor público; quienes lo desempeñen, serán nombrados por su trayectoria personal y no a partir de su representación institucional.
 
-El Presidente de la Comisión Estatal lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honoríficos. A excepción de su Presidente, cada año deberá ser substituido el miembro del Consejo de mayor antigüedad.
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+
+El Presidente de la Comisión Estatal lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honoríficos. A excepción de su Presidente, cada dos años serán sustituidos los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
 
 Se podrán establecer Consejos municipales conforme a las bases contempladas en el Reglamento de la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 19.
 
-Para el nombramiento de los miembros del Consejo, el titular del Poder Ejecutivo enviará una lista con quince propuestas al Congreso del Estado o a la Diputación Permanente en su caso, quien nombrará de dicha lista a los integrantes del Consejo y les tomará la protesta correspondiente. La lista remitida por el Ejecutivo deberá contener los datos curriculares de los propuestos.
+Para el nombramiento de los miembros del consejo, el Congreso del Estado convocará a presentar propuestas a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos de Sinaloa, de entre quienes con la aprobación de sus dos terceras partes, nombrará a los diez consejeros y les tomará protesta encabezados por su presidente.
 
 El Consejo contará con un Secretario Técnico, correspondiendo al titular de la Secretaría Ejecutiva de la Comisión fungir como tal.
+
+> <small>(ADICIONADO, P.O. 04 DE JULIO DE 2001)</small>
+
+###### ARTICULO 19 Bis.
+
+El Presidente de la Comisión Estatal de Derechos Humanos deberá comunicar al Congreso del Estado la necesidad del cambio de los dos Consejeros, que cada dos años deban ser sustituidos, para lo cual el Congreso realizará el procedimiento establecido para el nombramiento de los miembros del Consejo.
+
+En tanto no se realicen los nombramientos respectivos, los Consejeros que deban ser sustituidos continuarán en el ejercicio de su cargo.
 
 ###### ARTICULO 20.
 
@@ -389,7 +409,7 @@ Todos los trámites y gestiones realizadas ante y por la Comisión Estatal será
 
 ###### ARTICULO 32.
 
-Las quejas o denuncias deberán presentarse por escrito y firmarse por quien las formule; en casos urgentes podrá formularse por cualquier medio de comunicación electrónica. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejosos no se identifica y no la suscribe en un primer momento.
+Las quejas o denuncias deberán presentarse por escrito y firmarse por quien las formule; en casos urgentes podrá formularse por cualquier medio de comunicación electrónica. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación, si el quejoso no se identifica y no la suscribe en un primer momento.
 
 Cuando el quejoso o denunciante se encuentren recluidos en un centro de detención o reclusorio, sus escritos podrán entregarse directamente al Visitador General, Visitadores de Zona o a los adjuntos. En su caso, los encargados de dichos centros o reclusorios, tendrán la obligación de remitir las quejas a la Comisión Estatal, de lo contrario incurrirán en responsabilidad.
 
@@ -503,6 +523,8 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 ### CAPITULO V. DE LOS INFORMES DE LA COMISION
 
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 54.
 
 La Comisión Estatal podrá dictar acuerdos de trámite, los cuales serán obligatorios para las autoridades y servidores públicos para que comparezcan o aporten información o documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Titulo IV, Capítulo II, de la presente ley.
@@ -519,9 +541,11 @@ Los proyectos antes referidos serán sometidos al Presidente de la Comisión Est
 
 En caso de que no se comprueben las violaciones de derechos humanos imputadas, la Comisión dictará acuerdo de no responsabilidad.
 
+> <small>(REFORMADO, P.O. 04 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 57.
 
-La Recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá; por lo cual, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiesen presentado la queja o denuncia.
+La recomendación será pública y autónoma; su contenido se presumirá de buena fe, salvo prueba en contrario.
 
 ###### ARTICULO 58.
 
@@ -559,7 +583,7 @@ El Presidente de la Comisión Estatal deberá publicar, en su totalidad o en for
 
 ###### ARTICULO 65.
 
-El Presidente de la Comisión Estatal de Derechos Humanos deberá enviar un informe anual, tanto al Congreso del Estado como al titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El presidente de la Comisión Estatal de Derechos Humanos presentará anualmente a los poderes Ejecutivo y Legislativo Estatal un informe de las actividades que haya desarrollado en el periodo respectivo. Dicho informe será difundido en la forma más amplia posible para promover la cultura de los derechos humanos en la sociedad.
 
 ###### ARTICULO 66.
 
@@ -668,3 +692,23 @@ Juan S. Millán Lizárraga
 El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 04 DE JULIO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto comenzará a surtir efectos al día siguiente de la publicación, en el Periódico Oficial "El Estado de Sinaloa", del Decreto No. 514 mediante el cual se reforma al artículo 77 Bis de la Constitución Política del Estado de Sinaloa.
+
+###### ARTÍCULO SEGUNDO.
+
+El presidente y consejeros que actualmente integran el Consejo Consultivo de la Comisión Estatal de Derechos Humanos continuarán en el ejercicio de sus funciones y facultades hasta concluir el periodo para el cual fue electo el actual presidente de esta Comisión.
+
+###### ARTÍCULO TERCERO.
+
+El presidente de la Comisión Estatal de Derechos Humanos deberá comunicar al Congreso del Estado las vacantes actuales de consejeros del Consejo Consultivo de esta Comisión.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado convocará, a las organizaciones sociales y organismos públicos y privados defensores y promotores de los derechos humanos de Sinaloa, a presentar propuestas para la elección de las vacantes de consejeros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos.
