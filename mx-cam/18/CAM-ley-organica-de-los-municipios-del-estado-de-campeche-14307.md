@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1993-12-20"
+last_updated: "1994-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -621,7 +621,9 @@ Por cada munícipe propietario se elegirá un suplente.
 
 Para ser electo componente de un Ayuntamiento, Junta Municipal o Comisaría Municipal, se requiere:
 
-I.- Ser ciudadano campechano que, el día de la elección, tenga 25 años cumplidos en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1994)</small>
+
+I.- Ser ciudadano campechano que, el día de la elección, tenga 21 años cumplidos, en pleno goce de sus derechos;
 
 II.- Tener un año de residencia en el Municipio, Sección o Comisaría donde deba ejercer su encargo;
 
@@ -1972,3 +1974,7 @@ Unico.- El presente Decreto iniciará su vigencia al día siguiente de su public
 P.O. 20 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día veinticinco de diciembre de mil novecientos noventa y tres.
+
+P.O. 15 DE ENERO DE 1994.
+
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
