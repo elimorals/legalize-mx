@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2001-07-03"
+last_updated: "2003-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -205,9 +205,7 @@ El organismo público cubrirá en su desempeño, además de lo que determine la 
 
 Los consejeros electorales del órgano superior de dirección, deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
-
-Durante los recesos del Congreso del Estado, la elección a que se refiere el párrafo anterior será realizada por la Diputación Permanente.
+> <small>(DEROGADO DECIMO TERCER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -405,13 +403,11 @@ El Presidente del Congreso velará por el respeto al fuero constitucional de los
 
 Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
 
-La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de diputado.
+La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)</small>
 
-#### SECCION II
-
-De la Reunión, Receso y Renovación del Congreso.
+#### SECCIÓN II. De la Reunión y Renovación del Congreso
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -419,13 +415,15 @@ De la Reunión, Receso y Renovación del Congreso.
 
 El Congreso se renovará totalmente cada tres años, y se instalará el día quince de enero del año siguiente en que hubiere elecciones ordinarias.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 30.
 
-El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante ese período de sesiones, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
+El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la Ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante sesenta días, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, y se llamará desde luego, a los suplentes.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+
+Se entiende también que los diputados que falten a cuatro sesiones consecutivas, sean del Pleno o en comisiones legislativas, sin causa justificada o sin previa licencia del Presidente del Congreso, se sancionarán conforme a la Ley.
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1991)</small>
 
@@ -443,35 +441,33 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2002)</small>
 
 ###### Artículo 31.
 
-El Congreso tendrá cada año tres periodos ordinarios de sesiones. El primero se inicia el 15 de enero de cada año y terminará el 15 de marzo del mismo año; el segundo dará comienzo el 15 de mayo y terminará el 15 de julio del mismo año; y el tercero dará inicio el 15 de septiembre y terminará el 15 de diciembre del mismo año.
+El Congreso sesionará por años legislativos, comprendidos del 15 de enero al 14 de enero del año próximo, y se ocupará de los asuntos siguientes:
 
-En el primer y segundo períodos de sesiones el Congreso se ocupará de estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y de resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+I. En los meses de enero a agosto el Congreso se ocupará de estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y de resolver los demás asuntos que le corresponda, conforme a esta Constitución; y
 
-En el tercer periodo de sesiones el Congreso se ocupará de los siguientes asuntos:
+II. En los meses de septiembre a diciembre el Congreso se ocupará de:
 
-I. Estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y resolver los demás asuntos que le corresponda, conforme a esta Constitución;
+a) Estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten, y resolver los demás asuntos que le corresponda, conforme a esta Constitución;
 
-II. Revisar y dictaminar la Cuenta Pública de la hacienda Estatal correspondiente al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
+b) Revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
 
-La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas del Presupuesto, si no que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar, y a evaluar el cumplimiento de la gestión administrativa, en los términos de la Ley; y,
+La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos realizados; sus procedimientos de aplicación; las responsabilidades a que hubiere lugar, y evaluar el cumplimiento de la gestión administrativa, en los términos de ley; y
 
-III. Examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+c) Examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
 
 ###### Artículo 32.
 
-El Congreso tendrá sesiones extraordinarias, cada vez que sea convocado por el Gobernador del Estado, o por la Diputación Permanente en los casos previstos en esta Constitución; en ellas no se ocupará de otros asuntos que de los consignados en la respectiva convocatoria, a menos que durante estas mismas sesiones ocurran otros de mayor urgencia, calificados por el voto de las dos terceras partes de los diputados presentes.
+(DEROGADO, P.O. 7 DE MARZO DE 2003)
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2003)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura del primer período ordinario de sesiones del Congreso de cada año legislativo y presentará en ese acto o dentro de los treinta días siguientes, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso dará respuesta en términos generales. Al acto a que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este cuerpo.
+El Gobernador del Estado asistirá a la apertura del año legislativo de sesiones del Congreso de cada año y presentará dentro de los treinta días siguientes, el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso dará respuesta en términos generales. Al acto a que se refiere este precepto, deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este cuerpo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -533,13 +529,17 @@ III.- La aprobación deberá hacerse por mayoría absoluta del número de diputa
 
 IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
 
-V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los siguientes diez días hábiles; a no ser que, corriendo ese término, hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
+V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los siguientes diez días hábiles;
 
 VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
 
 VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación.
 
-Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo período de sesiones.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+
+Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo año legislativo.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -571,13 +571,11 @@ Las votaciones de las leyes o decretos serán nominales; las de los acuerdos ser
 
 Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INTEGRADO CON LOS PÁRRAFOS ANTERIORES SEGUNDO Y TERCERO. VÉASE LITERALIDAD DEL DECRETO NÚMERO 248, PUBLICADO EN EL P.O. 7 DE MARZO DE 2003, PÁGINA 6.]</small>
 
-El Congreso expedirá la Ley orgánica que regulará su estructura y funcionamiento internos.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
-
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
+El Congreso expedirá la Ley Orgánica que regulará su estructura y funcionamiento internos, así como la Ley de Fiscalización Superior del Estado de Michoacán. Estas leyes no podrán ser vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -747,49 +745,17 @@ XXXV.- Someter a referéndum las leyes y decretos que considere sean trascendent
 
 XXXVI.- Las demás que le confiera expresamente esta Constitución.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
 
 #### SECCION V. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
 ###### Artículo 45.
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco diputados que se nombrarán la víspera de la clausura de sesiones ordinarias, por mayoría de votos de los presentes; se instalará inmediatamente después de dicha clausura, y durará todo el período de receso, aun cuando haya sesiones extraordinarias. Se nombrarán también tres miembros con el carácter de suplentes.
-
-La Diputación Permanente se sujetará al reglamento interior del Congreso en el desempeño de sus funciones.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 2003)
 
 ###### Artículo 46.
 
-Corresponde a la Diputación Permanente:
-
-I.- Velar por la observancia de la Constitución General, de la Particular del Estado y de las leyes que de ellas emanen, y dar cuenta al Congreso de las infracciones que note;
-
-II.- Acordar, a propuesta del Ejecutivo, o por propia iniciativa en los casos previstos en esta Constitución, la convocatoria del Congreso a sesiones extraordinarias. Podrá señalarse lugar distinto de la capital para la reunión del Congreso, cuando así lo exijan circunstancias graves. En todo caso la convocatoria señalará el objeto de las sesiones extraordinarias;
-
-III.- Expedir la convocatoria a sesiones extraordinarias, por medio de su Presidente, cuando el Ejecutivo no publique, en el término de tres días, el decreto correspondiente;
-
-IV.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2000)
-
-V.- Ejercer, en su caso, las facultades de que habla el artículo 30;
-
-VI.- Dictaminar sobre todos los asuntos que se ofrezcan durante su período, para que el Congreso los resuelva;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-VII.- Ejercer las funciones del Congreso en los casos de las fracciones XXIII y XXIV del artículo 44;
-
-VIII.- Resolver los negocios que tengan el carácter de urgentes y que no exijan la expedición de una ley o decreto, y
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-IX.- Recibir del Gobernador del Estado la propuesta para la elección, la reelección o la privación del cargo de magistrado, y resolver lo conducente; y,
-
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
-
-X.- Ejercer las demás facultades que le señala esta Constitución.
+(DEROGADO, P.O. 7 DE MARZO DE 2003)
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -873,19 +839,11 @@ b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier d
 
 El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DEL 2003)</small>
 
 ###### Artículo 54.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; al mismo tiempo expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que éste a su vez designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
-
-Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, si el Congreso del Estado estuviere en sesiones, elegirá a mayoría absoluta de votos, el Gobernador substituto que deberá concluir el período respectivo. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias para que haga la designación de Gobernador substituto.
+Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el quince de febrero, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -899,15 +857,15 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave que calif
 
 La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 57.
 
-Si al comenzar un período Constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 15 de febrero, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, el Congreso concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; en un plazo no mayor a diez días, siguientes a la designación del Gobernador Interino, expedirá la convocatoria de elecciones para gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, el Congreso del Estado, concurriendo cuando menos las dos terceras partes del número total de sus miembros, designará en escrutinio secreto y por mayoría calificada de votos, al Gobernador substituto que deberá concluir el período respectivo.
 
-Cuando la falta del Gobernador fuese temporal, el Congreso del Estado o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario General de Gobierno, se encargará del despacho del Poder Ejecutivo, salvo el caso de falta temporal o impedimento, en el caso de falta temporal o impedimento, en el que será reemplazado por el Oficial Mayor.
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado designará un Gobernador interino para que funcione durante el tiempo que dure la falta; si ésta no excede de treinta días, el Secretario de Gobierno se encargará del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -915,11 +873,11 @@ Cuando la falta del Gobernador fuese temporal, el Congreso del Estado o en su de
 
 En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernador el funcionario a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 59.
 
-El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado, o ante la Diputación Permanente en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+El Gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -935,9 +893,9 @@ I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado,
 
 II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-III.- Comunicar al Pleno del Supremo Tribunal de Justicia del Estado, los nombres de los magistrados numerarios y supernumerarios que deban ser renovados o, en su caso, reelectos o privados de su cargo a la conclusión de su ejercicio constitucional; y del Padrón de Aspirantes a Magistrados que el Pleno le proporcione, inmediatamente después de la anterior comunicación, someter en terna, sin dilación al Congreso del Estado o a la Diputación Permanente, según el caso, la propuesta para la elección o reelección respectiva, debiendo ser tomados de dicho Padrón cuando menos dos de los integrantes de cada terna;
+III.- Comunicar al Pleno del Supremo Tribunal de Justicia del Estado, los nombres de los Magistrados numerarios y supernumerarios que deban ser renovados o, en su caso, reelectos o privados de su cargo a la conclusión de su ejercicio constitucional. Del Padrón de Aspirantes a Magistrados que el Tribunal proporcione al Gobernador, este inmediatamente después, someterá al Congreso del Estado, una lista que deberá contener el triple de aspirantes a Magistrados, con la propuesta para la elección o reelección respectiva, debiendo ser tomados del Padrón cuando menos dos terceras partes de los integrantes de la lista;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -963,9 +921,9 @@ VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo,
 
 El plazo para la presentación de la Cuenta Pública podrá ampliar hasta treinta días más;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-IX.- Dar informes al Congreso y a la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública;
+IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -997,13 +955,9 @@ Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado c
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+XVI.- (DEROGADA, P.O. 7 DE MARZO DE 2003)
 
-XVI.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
-
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
-
-XVII.- Convocar al Congreso cuando lo determine la Diputación Permanente, en los términos de esta Constitución;
+XVII.- (DEROGADA, P.O. 7 DE MARZO DE 2003)
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1041,9 +995,9 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir en las elecciones para favorecer a personas determinadas;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente. Cuando el Gobernador, sin abandonar sus funciones salga del territorio del Estado, el Secretario Gobierno quedará encargado del despacho, salvo el caso de falta temporal o impedimento, en el que será reemplazado por el Oficial Mayor;
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Oficial Mayor;
 
 VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
 
@@ -1207,21 +1161,31 @@ VI. No haber ocupado el cargo de Secretario o su equivalente, Procurador de Just
 
 Los magistrados durarán tres años en el ejercicio de su encargo, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de su puesto, al finalizar los ejercicios constitucionales, de plano y sin substanciación de trámite alguno, mediante le voto de las dos terceras partes de los miembros del congreso del Estado, en cuyo caso tendrán derecho a un haber por retiro en los términos, cuantía y condiciones que señale la ley, para compensar sus servicios al Poder Judicial. También podrán ser privados de sus cargos, en cualquier tiempo, en los términos del Título Cuarto de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, al Congreso del Estado o a la Diputación Permanente según corresponda, para su discusión y aprobación, en su caso. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido sesenta años de edad. En este caso se seguirá la misma tramitación.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+
+Cuando el magistrado cumpla setenta años de edad, o padezca incapacidad física o mental permanente para desempeñar su cargo, el Supremo Tribunal dictaminará el retiro forzoso. El dictamen se someterá a la consideración del Gobernador del Estado, quien lo enviará, al Congreso para su discusión y aprobación, en su caso. Podrá retirarse voluntariamente si tiene más de quince años de servicios efectivos como magistrado, siempre que haya cumplido sesenta años de edad. En este caso se seguirá la misma tramitación.
 
 El magistrado que tenga más de diez años de servicios efectivos en ese cargo y cuyo retiro forzoso haya sido aprobado, disfrutará de una pensión mensual equivalente a la remuneración que perciban los magistrados. El que obtenga su retiro voluntario disfrutará de la misma pensión.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 73.
 
-La elección o la reelección de los magistrados del Supremo Tribunal de Justicia se harán por el Congreso, o la Diputación Permanente en su caso, a propuesta del Gobernador del Estado; en el primer supuesto, conforme a la terna que éste envíe en los términos del artículo 60 de esta Constitución. Previa a esta elección o reelección, los propuestos deberán comparecer ante el órgano legislativo.
+La elección o la reelección de los Magistrados del Supremo Tribunal de Justicia, se hará por el Congreso, a propuesta del Gobernador del Estado; en el primer supuesto, conforme a la lista que este envíe en los términos del artículo 60 de esta Constitución. Previa a esta elección o reelección, los propuestos deberán comparecer ante el Congreso.
 
-Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso o, en sus recesos, ante la Diputación Permanente, en la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
+
+Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso, en la siguiente forma:
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
+
 Magistrado: "Sí, protesto."
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
 Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden."
 
@@ -1485,9 +1449,9 @@ Ejercen esta Institución en el Estado el Procurador General de Justicia y los a
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 1998)</small>
 
-#### SECCION II. De la Contaduría General de Glosa
+#### SECCION II. De la Auditoría Superior de Michoacán
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
 
@@ -1515,13 +1479,19 @@ En los casos en que debe intervenir el Ministerio Público, el Procurador Genera
 
 La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 101.
 
-La Legislatura del Estado, en el ámbito de su competencia, establecerá organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado que violen estos derechos. Formulará recomendaciones públicas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas.
 
-Estos organismos no serán competentes tratándose de asuntos electorales, laborales ni jurisdiccionales.
+Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+El organismo que establezca el Congreso del Estado, se denominará Comisión Estatal de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio.
+
+La Comisión Estatal de los Derechos Humanos tendrá un Presidente, que será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso. Durará en su encargo cuatro años, podrá ser reelecto por una vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1619,11 +1589,13 @@ El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acus
 
 Se concede acción popular, para denunciar ante el Congreso del Estado, los delitos comunes cometidos por los servidores públicos, sin obligación de constituirse en parte.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DEL 2003)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común cometido por un diputado, por el Gobernador, por un Magistrado del Supremo Tribunal de Justicia, por un Magistrado del Tribunal Electoral del Estado, por el Secretario de Gobierno, por el Oficial Mayor, por el Procurador de Justicia, por el Tesorero del Estado o por el Consejero Presidente o Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal Electoral del Estado y por el Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
 Si los expresados funcionarios no estuvieren ejerciendo su cargo, no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones en que incurran en el ejercicio de algún empleo, encargo o comisión del servicio público que hayan aceptado antes o durante el período en que, conforme a la ley, se disfrute de aquel fuero. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones, deberá procederse con arreglo a lo dispuesto en la primera parte de este artículo.
 
@@ -1671,11 +1643,11 @@ El procedimiento de juicio político, sólo podrá iniciarse durante el período
 
 Las resoluciones del Gran Jurado, son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Magistrados del Tribunal Electoral del Estado y Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia, Tesorero del Estado, Auditor Superior, Magistrados del Tribunal Electoral del Estado y Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
@@ -1819,9 +1791,9 @@ Ningún regidor podrá desempeñar estos empleos y las personas designadas llena
 
 Son facultades y obligaciones de los ayuntamientos:
 
-I. Representar jurídicamente al municipio;
+I.- Representar jurídicamente al municipio;
 
-II. Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:
+II.- Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
@@ -1847,13 +1819,13 @@ II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las c
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
-III. Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley así como enviar al Congreso del Estado dentro de los sesenta días posteriores al cierre del ejercicio anual correspondiente, la Cuenta Pública de las haciendas municipales, sin perjuicio del envío de las cuentas del mes que permita avanzar en su revisión;
+III.- Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley así como enviar al Congreso del Estado dentro de los sesenta días posteriores al cierre del ejercicio anual correspondiente, la Cuenta Pública de las haciendas municipales, sin perjuicio del envío de las cuentas del mes que permita avanzar en su revisión;
 
 > <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
 
-IV. Aprobar y expedir de conformidad con las leyes que emita el Congreso, el Bando de Gobierno Municipal, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+IV.- Aprobar y expedir de conformidad con las leyes que emita el Congreso, el Bando de Gobierno Municipal, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-V. Proporcionar en sus jurisdicciones los servicios de:
+V.- Proporcionar en sus jurisdicciones los servicios de:
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -1901,7 +1873,7 @@ Las controversias que se susciten entre los ayuntamientos o entre éstos y el Go
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
-VI. Formular, aprobar, administrar y difundir la zonificación y planes de desarrollo urbano municipal;
+VI.- Formular, aprobar, administrar y difundir la zonificación y planes de desarrollo urbano municipal;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -1937,7 +1909,7 @@ XIV.- Conocer anualmente, en pleno, el estado que guarda la administración muni
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
-XV. Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
+XV.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -1945,7 +1917,7 @@ XVI.- Participar, en su ámbito de competencia, en la protección, preservación
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
-XVII. Cumplir y dictar disposiciones para fomentar el desarrollo de la agricultura e industrias rurales;
+XVII.- Cumplir y dictar disposiciones para fomentar el desarrollo de la agricultura e industrias rurales;
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2071,27 +2043,55 @@ El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según 
 
 Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos, según el presupuesto de egresos.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE MARZO DE 2003)</small>
 
 #### SECCIÓN SEGUNDA. DE LA ELECCIÓN Y LOS REQUISITOS DE ELEGIBILIDAD
 
 ###### Artículo 133.
 
-En la Capital del Estado habrá una Contaduría General de Glosa que dependerá del Congreso, atendida por los empleados que designe la ley. Esta oficina glosará, sin excepción, las cuentas de los caudales públicos.
+La Auditoría Superior de Michoacán, como Órgano Técnico del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y decidirá sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión financiera de las entidades, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad de servicio y vigilancia y fiscalización.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 134.
 
-Toda cuenta de fondos públicos quedará glosada, a más tardar, un año después de su presentación.
+La Auditoría Superior de Michoacán tendrá a su cargo:
 
-La falta de cumplimiento de este precepto, será causa de responsabilidad de los empleados de la Contaduría y de la Comisión Inspectora que nombre el Congreso.
+I. Fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales que manejen fondos públicos;
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+II. Realizar auditorias y revisiones de ingresos y gastos de las entidades señaladas en la fracción I de este articulo a partir de la revisión de los informes que se rindan y, en el curso de un ejercicio;
+
+III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
+
+IV. De conformidad con lo que disponga el Congreso, suscribir convenios con la entidad de fiscalización superior de la Federación para la fiscalización de recursos federales, de conformidad con las leyes de la materia;
+
+V. Entregar a los diputados, los informes de resultados de la revisión de la Cuenta Pública del Estado y de los ayuntamientos, así como de las auditorías y revisiones practicadas, en los plazos y con las modalidades que la ley señale;
+
+VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
+
+VII. Determinar los daños y perjuicios que afecten la Hacienda Pública del Estado y de los municipios o al patrimonio de las entidades públicas estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan según la ley, así como promover ante otras autoridades competentes el fincamiento de otras responsabilidades; presentar las denuncias y querellas penales y actuar en estos casos como coadyuvante del Ministerio Público; y,
+
+VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
+
+La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación de los informes, dictámenes o denuncias correspondientes a que se refiere este artículo o hasta la aplicación de las sanciones aplicables a quienes infrinjan esta disposición.
+
+El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
+
+El Congreso del Estado designará al titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. La ley determinará el procedimiento para esta designación. El auditor general durará en su encargo cuatro años y podrá ser nombrado nuevamente hasta en dos ocasiones; podrá ser removido por el Congreso por causas que señale la ley, siempre con la misma votación requerida para su nombramiento.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 135.
 
-La Contaduría General expedirá en la forma que la ley prevenga, el finiquito de las cuentas que glose, y rendirá cada tres meses al Congreso, por el conducto que señale la ley, un informe de las operaciones que haya practicado.
+Toda cuenta de fondos públicos quedará glosada y dictaminada a más tardar un año después de su presentación. La Auditoría expedirá en la forma que la Ley prevenga el finiquito de las cuentas que fiscalice, y rendirá cada tres meses al Congreso, por conducto de la Comisión de Vigilancia un informe de las operaciones que haya practicado.
+
+La falta de cumplimiento de este precepto, será causal de responsabilidad del Auditor Superior y de la Comisión de Vigilancia de la Auditoría Superior de Michoacán.
+
+La intromisión de cualquier persona en relación a las funciones de la Auditoría, para entorpecer o influir en el desempeño de la misma, será sancionada conforme a la Ley Reglamentaria.
+
+Los poderes del Estado y demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior para el ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2289,11 +2289,11 @@ Ningún individuo podrá ser registrado simultáneamente como candidato a dos ca
 
 Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 157.
 
-Los diputados y los titulares de las dependencias básicas del Poder Ejecutivo al tomar posesión de su encargo, rendirán ante el Congreso, o en su caso ante la Diputación Permanente, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la misma fórmula y ante las autoridades o corporaciones que determinen las leyes.
+Todo funcionario público, sin excepción alguna, antes de tomar posesión de su encargo, protestará guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente su encargo, ante la autoridad que lo haya designado o ratificado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2301,11 +2301,11 @@ Los diputados y los titulares de las dependencias básicas del Poder Ejecutivo a
 
 Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 159.
 
-No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado, y en sus recesos, a la Diputación Permanente; de lo contrario, será responsable personal y pecuniariamente.
+No podrá hacerse cargo alguno que no esté comprendido en el presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2313,9 +2313,9 @@ No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto o dete
 
 En el caso de la fracción V del artículo 76 de la Constitución Federal, asumirá el Poder Ejecutivo cualquiera de los funcionarios siguientes por el orden de designación:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-I.- El Presidente de la última Legislatura o el de la Diputación Permanente, si la disolución de los Poderes ocurriese estando ésta en funciones;
+I.- El Presidente de la última Legislatura.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2577,7 +2577,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -2764,6 +2764,48 @@ Artículo Tercero.- El Gobierno del Estado y los municipios realizarán los acto
 Artículo Cuarto.- Antes del ejercicio fiscal del año 2002, el Congreso del Estado en coordinación con los municipios, adoptará las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad, y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
 
 Artículo Quinto.- En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+P.O. 7 DE MARZO DE 2003.
+
+DECRETO No. 246
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, seguirán aplicándose las disposiciones de la Ley de la Comisión Estatal de los Derechos Humanos publicada (sic) Sección Segunda del Periódico Oficial, el día 8 de febrero de 1993.
+
+Artículo Tercero.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
+
+P.O. 7 DE MARZO DE 2003.
+
+DECRETO No. 247
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, cuando se haga referencia al Tercer Período Ordinario de Sesiones, se entenderá el período comprendido del 15 de septiembre al 15 de diciembre.
+
+Artículo Tercero.- En tanto se reforman las disposiciones legales reglamentarias que se deriven del presente decreto, se seguirán aplicando las disposiciones de la Ley Orgánica del Congreso del Estado y su Reglamento.
+
+Artículo Cuarto.- Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto de reforma a la Constitución, para que en el término de un mes después de recibido el mismo, emitan su voto.
+
+P.O. 7 DE MARZO DE 2003.
+
+DECRETO No. 248
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+Artículo Segundo. La Auditoría Superior de Michoacán, iniciará sus funciones el 1 de abril del año 2003. La revisión de las cuentas públicas y las funciones de fiscalización a que refieren las fracciones I a VIII del artículo 134 y 135 reformados por este decreto, se llevarán a cabo, en los términos del propio decreto, a partir de la revisión de las cuentas públicas del segundo trimestre correspondientes al año 2003.
+
+Las referencias que se hacen a la Contaduría General de Glosa en las disposiciones legales, se entenderán hechas a la Auditoría Superior de Michoacán.
+
+Artículo Tercero. En tanto la Auditoría Superior de Michoacán no empiece a ejercer las atribuciones a que se refiere este decreto, la Contaduría General de Glosa continuará ejerciendo las atribuciones que actualmente tiene conforme a los artículos 133 a 136 de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente decreto.
+
+Los servidores públicos de la Contaduría General de Glosa no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creada la Auditoría Superior de Michoacán, todos lo (sic) recursos humanos, materiales y patrimoniales en general de la Contaduría General de Glosa, pasarán a formar parte de dicha entidad.
+
+Artículo Cuarto. El Contador General de Glosa, será titular de la Auditoría Superior de Michoacán hasta en tanto se haga una nueva designación; podrá ser ratificado para continuar en dicho encargo hasta completar el período de 4 años a que se refiere el artículo 134 reformado de esta Constitución.
+
+Artículo Quinto. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
 
 ###### ARTÍCULO OCTAVO.
 
