@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-20177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-22"
-last_updated: "2001-03-22"
+last_updated: "2001-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20177&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-15"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 22 de marzo de 2001.
 
@@ -38,6 +38,8 @@ REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 ###### Artículo 1o.
 
 El Servicio de Administración Tributaria, como órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, tiene a su cargo el ejercicio de las facultades y el despacho de los asuntos que le encomiendan la Ley del Servicio de Administración Tributaria y los distintos ordenamientos legales aplicables, así como los reglamentos, decretos, acuerdos y órdenes del Presidente de la República y los programas especiales y asuntos que el Secretario de Hacienda y Crédito Público le encomiende ejecutar y coordinar en las materias de su competencia.
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2001)</small>
 
 ###### Artículo 2o.
 
@@ -200,8 +202,6 @@ Administración Central Operativa.
 Administración Central de Destino de Bienes.
 
 Administración Central Jurídica y de Control.
-
-Administración Central de Investigación de Operaciones.
 
 Unidades Administrativas Regionales.
 
@@ -2757,33 +2757,7 @@ Administrador de Seguimiento de Acuerdos.
 
 ###### Artículo 38.
 
-Compete a la Administración Central de Investigación de Operaciones, ejercer las atribuciones siguientes:
-
-I.- Las señaladas en las fracciones I, II, IV, V, VII, VIII, IX, X, XI, XV, XVI, XVII, XVIII y XIX del Artículo 11 del presente reglamento.
-
-II.- Establecer la política y los programas que deben seguir las unidades administrativas que le sean adscritas en las materias de su competencia, y participar en la elaboración de la normatividad que no competa a otras unidades administrativas del Servicio de Administración Tributaria.
-
-III.- Establecer los sistemas, métodos y procedimientos en las materias de su competencia, salvo aquellos que competa establecer a la Secretaría de Hacienda y Crédito Público.
-
-IV.- Evaluar la operación en las materias de su competencia, y proponer, en su caso, las medidas que procedan.
-
-V.- Notificar las resoluciones que dicte, los citatorios, requerimientos, solicitudes de informes y otros actos administrativos, así como sus actos relacionados con el ejercicio de las facultades de comprobación.
-
-VI.- Ordenar y practicar visitas domiciliarias, verificaciones de origen, auditorías, inspecciones, actos de vigilancia, verificaciones y los demás actos que establezcan las disposiciones fiscales y aduaneras, y en los acuerdos, convenios o tratados de los que México sea parte, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, incluyendo los que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter federal.
-
-VII.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos e informes y, en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales en materia de su competencia, así como autorizar o negar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión y, en su caso el de prórroga del plazo para concluir la revisión.
-
-VIII.- Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia.
-
-IX.- Participar en la formulación de políticas y en los programas de investigación, así como estudiar e investigar las pruebas, constancias, documentación e informes sobre la comisión de las conductas ilícitas previstas en el Artículo 400-Bis del Código Penal Federal y demás disposiciones afines, integrando los expedientes respectivos, para hacerlo del conocimiento de la Procuraduría Fiscal de la Federación, para que ésta formule las querellas o denuncias que, en su caso, procedan.
-
-X.- Aplicar las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público para prevenir y detectar actos u omisiones, con recursos, derechos o bienes que procedan o representen el producto de un probable delito.
-
-XI.- Intervenir en la obtención, análisis y estudio de la información y documentación que se solicite por parte de las autoridades competentes de los países con los que se tengan celebrados convenios o tratados en las materias de su competencia.
-
-XII.- Recibir, capturar y analizar, de conformidad con las disposiciones de carácter general que emitan las unidades administrativas competentes de la Secretaría de Hacienda y Crédito Público, la información contenida en los reportes que están obligadas a presentar las instituciones de sistema financiero relacionados con sus clientes y usuarios, y en las declaraciones a que se refiere el artículo 9o. de la Ley Aduanera.
-
-La Administración Central de Investigación de Operaciones estará adscrita a la Presidencia del Servicio de Administración Tributaria y quedará a cargo de un Administrador Central quien será auxiliado en el ejercicio de las facultades conferidas en este artículo por el Administrador de Investigación de Operaciones, los Subadministradores, Jefes de Departamento, Coordinadores, Supervisores, Auditores, Inspectores, Verificadores, Ayudantes de Auditor y Notificadores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2001)
 
 ### Capítulo XIV. Del Nombre y Sede de las Unidades Administrativas Regionales
 
@@ -3199,6 +3173,8 @@ y Evaluación Tributaria.
 
 Administraciones Locales Jurídicas Administraciones Locales Jurídicas.
 
+de Ingresos.
+
 Cuarto. Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente reglamento, se tramitarán, resolverán, defenderán y, en general, serán de la competencia de la unidad administrativa del Servicio de Administración Tributaria que tenga para estos efectos la competencia por sujetos, entidades y materias que corresponda, conforme a este reglamento.
 
 Quinto. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del presente reglamento, deba ser ejercida por otra u otras unidades que en el mismo se establecen, corresponderá a la nueva unidad administrativa terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
@@ -3222,3 +3198,21 @@ Décimo Primero. Los asuntos que a la fecha de entrada en vigor del presente reg
 Los asuntos que a la fecha de entrada en vigor del presente reglamento se encuentren en trámite ante la Sección Aduanera del Aeropuerto Internacional "C.P.A. Carlos Rubirosa", ubicado en la Ciudad de Villahermosa, Estado de Tabasco y en el Aeropuerto Internacional de la ciudad de "Palenque", en el Estado de Chiapas, serán resueltos por la Aduana de Coatzacoalcos hasta su conclusión.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de marzo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Oficiales Mayores de las dependencias y sus equivalentes en las entidades de la Administración Pública Federal serán responsables de elaborar la evaluación socioeconómica de todos sus programas y proyectos de inversión pública y solicitar la inclusión de éstos en la Cartera de Programas y Proyectos de Inversión, conforme a las disposiciones que para tal efecto emita la Secretaría de Hacienda y Crédito Público, por conducto de la Unidad de Inversiones y de Desincorporación de Entidades Paraestatales; asimismo, serán responsables de emitir los dictámenes administrativos relacionados con las modificaciones a las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo de las dependencias y entidades, conforme a las disposiciones que establezcan el Manual de Normas Presupuestarias para la Administración Pública Federal, y las demás que para tal efecto emitan las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, en el ámbito de sus respectivas competencias.
+
+Para la debida aplicación de lo dispuesto en el párrafo anterior, la Secretaría de Hacienda y Crédito Público emitirá, dentro de los cinco días hábiles siguientes a la publicación de este Decreto, las modificaciones correspondientes al Manual de Normas Presupuestarias para la Administración Pública Federal.
+
+TERCERO.- Las solicitudes que en materia de modificaciones a las estructuras orgánicas y ocupacionales y a las plantillas de personal operativo de las dependencias y entidades de la Administración Pública Federal, así como de dictamen de los proyectos de inversión que se encuentren en trámite ante la Secretaría de Hacienda y Crédito Público a la fecha de entrada en vigor del presente Decreto, se atenderán conforme al Manual de Normas Presupuestarias para la Administración Pública Federal modificado de acuerdo con lo dispuesto en el transitorio anterior, salvo que el solicitante manifieste por escrito y dentro de los quince días siguientes a dicha entrada en vigor, su intención de continuar con el trámite conforme a las disposiciones vigentes en la fecha de su presentación.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Administración Central de Investigación de Operaciones del Servicio de Administración Tributaria, serán tramitados hasta su conclusión por la Dirección General Adjunta de Investigación de Operaciones de la Secretaría de Hacienda y Crédito Público.
+
+El personal, expedientes, archivo, mobiliario y, en general, equipo de la Administración Central de Investigación de Operaciones del Servicio de Administración Tributaria pasarán a la Dirección General Adjunta de Investigación de Operaciones de la Secretaría de Hacienda y Crédito Público.
+
+QUINTO.- Quedan sin efecto, a partir de la entrada en vigor de este Decreto, las disposiciones administrativas que se opongan al mismo.
