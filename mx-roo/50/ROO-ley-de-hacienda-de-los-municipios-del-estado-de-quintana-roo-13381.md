@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "1997-12-15"
+last_updated: "1998-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -51,9 +51,11 @@ Las normas tributarias que establezcan cargas de los particulares y las que señ
 
 A falta de disposición de esta ley, siempre que no la contravengan, serán aplicables el Código Fiscal Municipal, los Ordenamientos Fiscales del Estado, los Ordenamientos Fiscales Federales y como supletorias las normas de derecho común.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTÍCULO 4º.
 
-La administración y recaudación de los gravámenes fiscales previstos en esta ley serán de competencia exclusiva de los Ayuntamientos, sus dependencias y órganos auxiliares; y bajo la vigilancia de los Síndicos, con estricto apego a las leyes. Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica-coactiva, ejercitarse conforme a lo señalada (sic) en esta Ley.
+La administración y recaudación de los gravámenes fiscales previstos en esta ley serán de competencia exclusiva de los Ayuntamientos, sus dependencias y órganos auxiliares; y bajo la vigilancia de los Síndicos, con estricto apego a las leyes. Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica-coactiva, ejercitarse conforme a lo señalado en el código fiscal municipal y en esta Ley.
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos, es competencia de las Tesorerías Municipales, sus dependencias y órganos auxiliares.
 
@@ -87,9 +89,11 @@ El objeto del impuesto predial incluye la propiedad o posesión de las construcc
 
 En los predios rústicos comprende solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente para fines agropecuarios y ganaderos.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTÍCULO 6º.
 
-No es objeto del Impuesto Predial la propiedad o posesión de bienes inmuebles del dominio público, de la Federación, del estado y de los municipios, de conformidad con la Ley General de Bienes Nacionales y demás disposiciones legales aplicables.
+No es objeto del Impuesto Predial la propiedad o posesión de bienes inmuebles del dominio público, de la Federación, del estado y de los municipios, siempre y cuando dichos inmuebles sean para su propio uso, de conformidad con la Ley General de Bienes Nacionales y demás disposiciones legales aplicables, del Estado y de los Municipios.
 
 SUJETOS DEL IMPUESTO
 
@@ -215,7 +219,9 @@ Están exentos del pago del Impuesto Predial:
 
 I.- Los predios del dominio público de la Federación, del Estado y de los municipios.
 
-II.- Los bienes destinados a servicios públicos ya sean propiedad del Gobierno federal, estatal o municipal o de otras instituciones en que éstas tengan interés patrimonial previa comprobación y cuando sean motivo de usufructo.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+II.- Los bienes destinados a servicios públicos ya sean propiedad del Gobierno federal, estatal o municipal o de otras instituciones en que éstas tengan interés patrimonial previa comprobación y cuando sean motivo de usufructo, siempre y cuando dichos inmuebles sean para su propio uso, de conformidad con lo dispuesto en la Ley General de Bienes Nacionales.
 
 ###### ARTÍCULO 17.
 
@@ -231,9 +237,11 @@ El impuesto afecta directamente a los predios sea quien fuere su propietario o p
 
 La cuota del impuesto sobre la base del valor catastral, cuando se trate de avalúo o reavalúo del predio, entrará en vigor a partir del bimestre siguiente al de la fecha en que se practique el avalúo o reavalúo conforme a esta Ley, siempre que el contribuyente cumpla con lo dispuesto en el Artículo 20.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTÍCULO 20.
 
-Los avalúos realizados por la unidad de valuación catastral municipal o en caso de no existir, por la Dirección General de Catastro del Estado tendrán una vigencia de dos años, por lo que en el bimestre anterior a su vencimiento el dueño o poseedor del predio tiene la obligación de solicitar el avalúo. La simple notificación del reavalúo será suficiente para la aplicación y cobro del impuesto.
+Los avalúos realizados por la unidad de valuación catastral municipal o en caso de no existir, por la Dirección General de Catastro del Estado tendrán una vigencia de dos años, excepto cuando las construcciones existentes sufran alguna modificación y se realicen obras públicas o privadas que alteren el valor de los predios ubicados en dichas zonas; en este caso, las modificaciones a los avalúos deberán realizarse en cuanto se dé alguno de los supuestos antes mencionados, por lo que en el bimestre anterior a su vencimiento el dueño o poseedor del predio tiene la obligación de solicitar el avalúo. La simple notificación del reavalúo será suficiente para la aplicación y cobro del impuesto.
 
 ###### ARTÍCULO 21.
 
@@ -353,9 +361,11 @@ El valor del inmueble podrá ser el valor de adquisición del mismo disminuido c
 
 No se pagará el impuesto establecido en el Artículo 29 de esta Ley en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, los estados y los municipios para formar parte del dominio público, siempre y cuando dichos inmuebles sean para su propio uso. Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan arrendatarios financieros al ejercer la operación de compra en los términos de arrendamiento financiero; así como los que adquieran los estados extranjeros en caso de reciprocidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTÍCULO 31.
 
-El valor del inmueble que se considerará para efectos del Artículo 29 de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior en que se efectuó la adquisición. Las autoridades fiscales estarán facultadas para tomar en cuenta el valor del inmueble referido a la fecha de adquisición, el valor catastral el avalúo practicado por institución bancaria o por corredor público o en su caso practicar u ordenar un avalúo al inmueble referido y cuando el valor que resulte de dicho avalúo exceda en más del 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor mayor, determinándose las diferencias de impuestos que resulten.
+El valor del inmueble que se considerará para efectos del Artículo 29 de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice de precios al consumidor del mes inmediato anterior a aquél en que sea exigible el pago, entre el índice del mes anterior en que se efectúo la adquisición. Las autoridades fiscales están facultadas para tomar en cuenta el valor del inmueble a la fecha de adquisición, el valor catastral con una antigüedad no mayor de treinta días a la fecha de adquisición o el avalúo practicado por institución bancaria con una antigüedad no mayor de treinta días a la fecha de adquisición. El impuesto se calculará sobre el valor mayor, determinándose las diferencias de impuestos que resulten.
 
 Cuando no exista precio pactado, el Impuesto se calculará eligiendo el valor mayor del inmueble, entre el avalúo catastral, el bancario, el de corredor público o practicado u ordenado por la Tesorería Municipal. En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en adquisición de bienes en remate, no se tomará en cuenta el precio pactado, sino el valor a que se refiere este párrafo.
 
@@ -371,11 +381,17 @@ II.- A la adjudicación de los bienes de la sucesión o a los tres años de la m
 
 III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal Municipal;
 
-IV.- Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, remate judicial y administrativo;
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
-V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público para poder surtir efectos en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes; y
+IV.- Cuando se adquieran bienes inmuebles por dación en pago, se tomará como base gravable el avalúo comercial practicado por persona autorizada.
 
-VI.- En todos los casos el pago de impuesto se hará en la Tesorería Municipal, utilizando las formas que para el fin autorice esa Dependencia y a las que acompañará siempre, una copia del avalúo a que se refiere el Artículo 31.
+V.- Al proporcionarse o inscribirse el reconocimiento judicial de la prescripción positiva, remate judicial y administrativo;
+
+VI.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público para poder surtir efectos en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes; y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+VII.- En todos los casos el pago de impuesto se hará en la Tesorería Municipal, utilizando las formas que para tal fin autorice esa Dependencia y a las que acompañará siempre, una copia del avalúo a que se refiere el Artículo 31 de esta Ley.
 
 ###### ARTÍCULO 33.
 
@@ -393,9 +409,15 @@ V.- Ubicación y nomenclatura del bien inmueble;
 
 VI.- Valor de la operación, valor catastral y avalúo bancario, acompañando copia del avalúo correspondiente;
 
-VII.- Tratándose de compra-venta de inmuebles con la concesión de uso y goce de la Zona Federal Marítimo-Terrestre deberán presentar copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
 
-VIII.- Copia del certificado de no adeudo de cooperación por obras.
+VII.- Tratándose de compra-venta de inmuebles colindantes con la Zona Federal Marítimo Terrestre, que usen o gocen la misma, teniendo o no concesión autorizada, deberán presentar copia del recibo oficial expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución;
+
+VIII.- Copia del certificado de no adeudo de cooperación por obras;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+IX.- Tratándose de compra-venta de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución.
 
 ###### ARTÍCULO 34.
 
@@ -1933,9 +1955,43 @@ Para el cálculo del consumo anual de energía eléctrica, los establecimientos 
 
 Los pagos se enterarán en forma anual durante los dos primeros meses del año o dentro de los veinte primeros días siguientes a la fecha de inicio de sus operaciones mercantiles. En este último caso, la autoridad fiscal impondrá una tarifa estimada y proporcional a los meses del año transcurridos.
 
-### CAPITULO XXII. OTROS NO ESPECIFICADOS
+(REUBICADO Y REFORMADA SU DENOMINACION, [N. DE E. ANTES CAPITULO IV, TITULO III] P.O. 15 DE DICIEMBRE DE 1998)
+
+### CAPITULO XXII. USO DE LA VÍA PUBLICA O DE OTROS BIENES DE USO COMÚN
+
+(REUBICADO [N. DE E. ANTES ARTICULO 141] Y REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 125.
+
+Por el uso de la vía pública para el ejercicio de una actividad lucrativa de cualquier naturaleza, se causarán los siguientes derechos:
+
+TARIFA
+
+a).- Puestos ubicados en la vía pública, diario de 0.2 a 0.5 S.M.G.
+
+b).- Andamios, maquinaria y materiales de construcción, diarios de 0.5 a 1.0 S.M.G.
+
+c).- Otros aparatos, diario de 0.5 a 1.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+d).- Por sitio exclusivo diario, por metro lineal de 0.5 a 1.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+e).- Autos de alquiler (sitios), diario, por metro lineal de 0.5 a 1.0 S.M.G.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+
+f).- Autobuses de pasajeros que utilicen la vía pública como terminal, diario, por metro lineal de 0.5 a 1.0 S.M.G.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XXII], P.O. 15 DE DICIEMBRE DE 1998)
+
+### CAPITULO XXIII. OTROS NO ESPECIFICADOS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 15 DE DICIEMBRE DE 1998)
+
+###### ARTÍCULO 126.
 
 Quedan comprendidas en este capitulo las personas físicas que realicen los siguientes actos o actividades:
 
@@ -1947,9 +2003,9 @@ c).- Los peritos valuadores.
 
 d).- Los promotores de tiempo compartido.
 
-### CAPITULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+(REUBICADO [N. DE E. ANTES ARTICULO 126], P.O. 15 DE DICIEMBRE DE 1998)
 
-###### ARTÍCULO 126.
+###### ARTÍCULO 127.
 
 Los derechos a que se refiere el Artículo 125 se pagarán de acuerdo a lo siguiente:
 
@@ -1961,69 +2017,93 @@ c).- Para los peritos valuadores de 10.0 S.M.G. a 50.0 S.M.G. por año.
 
 d).- Para los promotores de tiempos compartidos de 10.0 S.M.G. a 50.0 S.M.G. por año.
 
-###### ARTÍCULO 127.
-
-Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ordenamiento legal correspondiente.
+(REUBICADO [N. DE E. ANTES ARTICULO 127], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 128.
 
-Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el H. Ayuntamiento considere.
+Aquellos derechos no regulados en la presente Ley se recaudarán conforme al ordenamiento legal correspondiente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 129.
 
-La venta de bienes muebles e inmuebles pertenecientes a los Municipios solo podrá llevarse a cabo en subasta pública al mejor postor.
+Todos los servicios de orden público municipal podrán ser concesionados a particulares, en las formas y con los requisitos que el H. Ayuntamiento considere.
 
-La postura deberá ascender como mínimo a las dos terceras partes del valor comercial del bien, fijado por el avalúo pericial ordenado por el Ayuntamiento.
+### CAPITULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 15 DE DICIEMBRE DE 1998)
 
 ### CAPITULO II. BIENES MOSTRENCOS
 
-### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+(REUBICADO [N. DE E. ANTES ARTICULO 134], P.O. 15 DE DICIEMBRE DE 1998)
 
 ## TITULO CUARTO. PRODUCTOS
 
-### CAPITULO IV. OCUPACIÓN DE LA VÍA PUBLICA O DE OTROS BIENES DE USO COMÚN
+### CAPITULO III. PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+
+(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 130.
 
-Sólo podrán explotarse los bienes muebles e inmuebles de los municipios por concesión o contrato legalmente otorgado y el producto se fijará y cobrará de conformidad con el contrato o la concesión respectiva.
+La venta de bienes muebles e inmuebles pertenecientes a los Municipios solo podrá llevarse a cabo en subasta pública al mejor postor.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 130], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 131.
 
-Con los mismos requisitos señalados en el Artículo 129 se podrá dar en pago de crédito u obligaciones a cargo de los municipios respectivos, los bienes pertenecientes a la Hacienda Municipal, previo cumplimiento de los requisitos señalados por la Legislatura local.
+Sólo podrán explotarse los bienes muebles e inmuebles de los municipios por concesión o contrato legalmente otorgado y el producto se fijará y cobrará de conformidad con el contrato o la concesión respectiva.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 131], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 132.
 
-En todos los casos en que se autorice la enajenación de bienes de los municipios y se estipule entre las condiciones conforme a las cuales deba llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+Con los mismos requisitos señalados en el Artículo 129 se podrá dar en pago de crédito u obligaciones a cargo de los municipios respectivos, los bienes pertenecientes a la Hacienda Municipal, previo cumplimiento de los requisitos señalados por la Legislatura local.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 132], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 133.
 
-Los bienes de uso común o destinados al servicio de los municipios no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización de la Legislatura del Estado.
+En todos los casos en que se autorice la enajenación de bienes de los municipios y se estipule entre las condiciones conforme a las cuales deba llevarse a cabo, que el precio o parte de él se pague a plazos, es requisito indispensable sin el cual será nula la operación, el otorgamiento de garantía real para asegurar el pago del crédito.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 133], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 134.
 
-Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios cuyo dueño se ignore.
+Los bienes de uso común o destinados al servicio de los municipios no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización de la Legislatura del Estado.
 
-### CAPITULO V. MERCADOS
+### CAPITULO IV. MERCADOS
 
 ###### ARTÍCULO 135.
 
-El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del código civil, constituirá un ingreso para la Hacienda Municipal.
+Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios cuyo dueño se ignore.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 135], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 136.
 
-Por la venta de papel para copia de actas de Registro Civil se cobrará por hoja 1.0 S.M.G.
+El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del código civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPITULO VI. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPITULO V. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### ARTÍCULO 137.
 
-El papel para copias de actas de Registro Civil será impreso por el Ayuntamiento en la cantidad necesaria para cada año fiscal y los concentrarán en la Tesorería Municipal, la que pondrá en cada una de las hojas un resello especial, diferente para cada año, que será dado a conocer a los encargados de las oficinas del Registro Civil.
+Por la venta de papel para copia de actas de Registro Civil se cobrará por hoja 1.0 S.M.G.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 137], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 138.
 
-Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se utilice, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal, por hojas utilizables.
+El papel para copias de actas de Registro Civil será impreso por el Ayuntamiento en la cantidad necesaria para cada año fiscal y los concentrarán en la Tesorería Municipal, la que pondrá en cada una de las hojas un resello especial, diferente para cada año, que será dado a conocer a los encargados de las oficinas del Registro Civil.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 138], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 139.
+
+Los encargados de las oficinas del Registro Civil pondrán en las hojas de papel de que se trate, que por cualquier circunstancia se utilice, una nota autorizada sobre el motivo de la inutilización y las cambiarán en la Tesorería Municipal, por hojas utilizables.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 139], P.O. 15 DE DICIEMBRE DE 1998)
+
+###### ARTÍCULO 140.
 
 Al concluir cada año fiscal serán devueltas a la Tesorería Municipal las hojas de papel en existencia, incluyendo las que se hubieren inutilizado, para que con las que tengan en su poder, las remita al Presidente Municipal para su destrucción.
 
@@ -2031,29 +2111,15 @@ La Tesorería Municipal, al hacer la remisión, dará cuenta del movimiento habi
 
 El Ayuntamiento señalará las formalidades que deben observarse para la destrucción.
 
-###### ARTÍCULO 140.
-
-Los oficiales del Registro Civil extenderán las certificaciones exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas las hojas sin los requisitos indicados en el Artículo 137, las recogerán y harán la consignación ante el Ministerio Público.
+(REUBICADO [N. DE E. ANTES ARTICULO 140], P.O. 15 DE DICIEMBRE DE 1998)
 
 ###### ARTÍCULO 141.
 
-Por la ocupación de la vía pública será pagada una renta de acuerdo a la siguiente:
+Los oficiales del Registro Civil extenderán las certificaciones exclusivamente en el papel autorizado, salvo en los casos expresamente exceptuados por la Ley. En caso de que les sean presentadas las hojas sin los requisitos indicados en el Artículo 137, las recogerán y harán la consignación ante el Ministerio Público.
 
-TARIFA
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 15 DE DICIEMBRE DE 1998)
 
-a).- Puestos ubicados en la vía pública, diario de 0.2 a 0.5 S.M.G.
-
-b).- Andamios, maquinaria y materiales de construcción, diarios de 0.5 a 1.0 S.M.G.
-
-c).- Otros aparatos, diario de 0.5 a 1.0 S.M.G.
-
-d).- Por sitio exclusivo, anual, por metro lineal 0.5 S.M.G.
-
-e).- Autos de alquiler (sitios), anual por metro lineal 0.5 S.M.G.
-
-f).- Autobuses de pasajeros que utilicen la vía pública como terminal, anual, por metro lineal 0.5 S.M.G.
-
-### CAPITULO VII. CRÉDITOS A FAVOR DE LOS MUNICIPIOS
+### CAPITULO VI. CRÉDITOS A FAVOR DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 142.
 
@@ -2109,7 +2175,7 @@ f).- Cuando los vendedores no establezcan puestos semifijos en la vía pública,
 
 g).- Otros no especificados, diario de 0.8 a 5.0 S.M.G.
 
-### CAPITULO VIII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPITULO VII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### ARTÍCULO 143.
 
@@ -2212,3 +2278,11 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
