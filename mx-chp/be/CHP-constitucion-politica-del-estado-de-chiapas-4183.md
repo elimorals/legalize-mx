@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1988-06-22"
+last_updated: "1988-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1988.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -207,11 +207,19 @@ B) Poder ser votados en dichas elecciones y nombrados para cualquier cargo o com
 
 C) De petición y de asociación en los asuntos políticos del Estado.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+D) Que las autoridades legislativas, administrativas y judiciales en el ámbito de su competencia en los asuntos en que tengan intervención o al momento de dictar sus resoluciones, tomen en consideración su condición cultural, sus costumbres étnicas particulares y las demás circunstancias especiales que concurran en ellos, con el propósito de que se observen las garantías que establece la constitución política de los estados unidos mexicanos.
+
+En materia procesal se procurará que haya un intérprete para el chiapaneco que no hable español que lo asistirá durante la secuela del procedimiento y en materia penal desde el inicio de la averiguación previa.
+
+Lo anterior no se aplicará en los casos en que las autoridades judiciales dominen la lengua o dialecto de que se trate.
+
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 11.
 
@@ -381,11 +389,13 @@ Las resoluciones del Congreso tendrán el carácter de Leyes o Decretos; una vez
 
 Corresponde al Congreso dictar las disposiciones generales que regulen su organización y funcionamiento interno.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 26.
 
-Los Diputados en funciones no podrán durante el Periodo de su cargo, desempeñar ninguna otra comisión o empleo por los cuales disfruten sueldo, salvo los de docencia y los honoríficos en Asociaciones científicas, artísticas o de beneficencia.
+Los diputados en funciones no podrán, durante el período de su encargo, desempeñar ninguna otra comisión o empleo por los cuales disfruten sueldo, salvo los de docencia en instituciones de educación superior y los honoríficos en asociaciones científicas, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 La infracción de esta disposición será sancionada con la pérdida del cargo de Diputado.
 
@@ -459,13 +469,13 @@ XIII.- Aprobar o desaprobar las solicitudes de empréstitos que gestione el Ejec
 
 XIV.- Aprobar o desaprobar cualquier otro compromiso por el que se afecte el Patrimonio del Estado o de los Municipios, siempre y cuando sea de notorio beneficio a la colectividad;
 
-XV.- Dictar Leyes para la conservación del equilibrio ecológico y de las riquezas naturales del Estado.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+XV.- Dictar leyes para la preservación, conservación y restauración del equilibrio ecológico del medio ambiente, de las riquezas naturales del estado y el aprovechamiento y explotación racional de esos recursos.
 
 XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales locales;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
-
-XVII.- Instituir, cuando lo estime oportuno, Tribunales de lo Contencioso Administrativo con plena autonomía para dictar sus fallos; que tendrán función de dirimir las controversias que se susciten entre la Administración Pública del Estado y los Particulares, estableciendo las normas para su organización y funcionamiento, así como el procedimiento y los recursos contra sus resoluciones.
+XVII.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1988)
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -531,7 +541,7 @@ XLI.- Erigirse en jurado para declarar si ha o no lugar para proceder contra alg
 
 XLII.- Conocer y resolver, en los términos del Artículo 19 de esta Constitución y del Código Electoral de los casos de nulidad de elecciones, así como de cualquier otro conflicto que se suscite con motivo de éstas;
 
-XLIII.- Decretar a iniciativa del Tribunal Superior de Justicia o del Ejecutivo, la creación de nuevos Juzgados;
+XLIII.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1988)
 
 XLIV.- Citar a los Presidentes Municipales para que informen sobre el estado que guardan sus respectivos ramos;
 
@@ -571,7 +581,7 @@ III.- Llamar a los Diputados Suplentes de la propia Comisión, cuando por muerte
 
 IV.- Dictaminar los asuntos que se le presenten en tiempo de sus funciones y los que queden pendientes al clausurarse el periodo ordinario. Cuando se trate de asuntos de la competencia del Congreso, se reservaran los dictámenes para que sean discutidos por este;
 
-V.- Decretar a iniciativa del Tribunal Superior de Justicia o del Ejecutivo, la creación de nuevos Juzgados;
+V.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1988)
 
 VI.- Resolver todos los asuntos concernientes a las elecciones de funcionarios municipales;
 
@@ -617,7 +627,7 @@ IV.- No tener empleo, cargo o comisión de la Federación o del Estado, y de ser
 
 V.- No estar comprendido en algunas de las causas establecidas en el Artículo 36 en su párrafo Segundo.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
@@ -625,7 +635,9 @@ V.- No estar comprendido en algunas de las causas establecidas en el Artículo 3
 
 ###### ARTICULO 36.
 
-El Gobernador Electo por sufragio popular en el período ordinario de elecciones entrará a ejercer su encargo el 8 de diciembre y durará en él seis años.
+El gobernador electo por sufragio popular en elecciones ordinarias entrará a ejercer su encargo el dieciséis de diciembre y durará en él seis años.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 El ciudadano que haya desempeñado el cargo de Gobernador, electo popularmente o con el carácter de interino, provisional o substituto, en ningún caso y por ningún motivo podrá volver a desempeñar este cargo.
 
@@ -701,7 +713,9 @@ IX.- Ejercer el mando de la Fuerza Pública del Estado y la de los Municipios do
 
 X.- Conceder o negar indultos a los sentenciados por los Tribunales del Estado, con arreglo a la Ley aplicable;
 
-XI.- Declarar los casos en que proceda la expropiación de bienes de particulares por causa de utilidad publica en la forma que establezcan las leyes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+XI.- Declarar los casos en que proceda la expropiación de bienes y derechos de particulares por causa de utilidad pública en la forma que establezcan las leyes;
 
 XII.- (DEROGADA, P.O 23 DE MAYO DE 1984)
 
@@ -741,23 +755,33 @@ XXVII.- Las demás que le confiera expresamente esta Constitución.
 
 ###### ARTICULO 43.
 
-Para el despacho de los asuntos administrativos del Estado, habrá una Secretaría General de Gobierno y además, las dependencias que establezca la Ley Orgánica de la Administración Publica del Estado, la que señalará las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
-
-El Secretario General de Gobierno deberá reunir los siguientes requisitos:
-
-I.- Ser ciudadano chiapaneco en lo términos del artículo 8° de esta Carta Magna.
-
-II.- Haber cumplido 30 años inmediatamente anteriores a la designación.
-
-III.- No pertenecer al estado eclesiástico.
-
-IV.- No haber cometido delito grave intencional alguno.
+Para el despacho de los asuntos administrativos del estado, habrá una secretaría de gobierno y las dependencias y entidades que establezca la ley orgánica de la administración publica del estado, la que señalará las funciones que a cada una correspondan y los requisitos que deban reunir sus titulares.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
+El Secretario General de Gobierno deberá reunir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+I.- Ser ciudadano chiapaneco en lo términos del artículo 8° de esta Carta Magna.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+II.- Haber cumplido 30 años inmediatamente anteriores a la designación.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+III.- No pertenecer al estado eclesiástico.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
+IV.- No haber cometido delito grave intencional alguno.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 44.
 
-Todos los Reglamentos y acuerdos del Gobernador deberán ir firmados por el Titular de la Dependencia que corresponda. Sin este requisito, no serán obedecidos.
+Todos los reglamentos, decretos, acuerdos y ordenes del Gobernador deberán ir firmados por el titular de la dependencia a que el asunto corresponda y sin este requisito no serán obedecidos.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -765,11 +789,11 @@ Todos los Reglamentos y acuerdos del Gobernador deberán ir firmados por el Titu
 
 Las ausencias de los titulares de las Dependencias serán suplidas en los términos que establezca la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 46.
 
-Los Titulares de las Dependencias deberán comparecer ante el Congreso del Estado cuando sean requeridos por éste para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una Iniciativa de Ley que les competa.
+Los titulares de las dependencias y de las entidades deberán comparecer ante el congreso del Estado o ante sus Comisiones cuando sean requeridos para dar cuenta del estado que guardan sus respectivos ramos o cuando se discuta una iniciativa de Ley que les competa.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -795,17 +819,25 @@ Las faltas del Procurador que no excedan de cinco días, serán suplidas por el 
 
 El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, en los Juzgados de Primera Instancia, en los Juzgados de lo Familiar, en los Juzgados Municipales y en los Juzgados Rurales.
 
-La Ley Orgánica del Poder Judicial establecerá los distritos Judiciales en que se divide el Estado.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+El Tribunal Superior de Justicia funcionará en Pleno o en Salas. Estas conocerán de asuntos civiles, penales y administrativos o mixtos, en los términos de la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 50.
 
-El Tribunal Superior de Justicia se compondrá de siete Magistrados Numerarios y cinco Supernumerarios.
+El Tribunal Superior de Justicia se compondrá del numero de Magistrados que determine su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos a la aprobación del Congreso, quien otorgará o negará su aprobación dentro del término improrrogable de cinco días, si el Congreso no resolviere dentro del precitado término, se tendrán por aprobados los nombramientos.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+
 Cuando el Congreso no apruebe esos nombramientos sucesivos respecto de una misma vacante el Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego con el carácter de provisional, sin perjuicio de ser sometido a la aprobación del Congreso. Si este estuviere en receso el día del tercer nombramiento, deberá dictar su aprobación dentro de los cinco primeros días que sigan al inicio de sus sesiones. Si aprobare el nombramiento y no acordare en nada sobre el particular, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso no aprobare el nombramiento, el Magistrado provisional cesará desde luego sus funciones y el Gobernador hará nuevo nombramiento que también someterá a la aprobación del Congreso en los expresados términos.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 Cuando ocurriere una vacante definitiva, por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado y el Congreso se encuentre en receso, la Comisión Permanente conocerá del nombramiento respectivo, y dará su aprobación provisional mientras se reúne el Congreso y resuelve en definitiva. Lo mismo se observará respecto a las faltas temporales por más de tres meses de los Magistrados.
 
@@ -831,9 +863,11 @@ III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, t
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
 
-V.- Haber residido en el estado durante los últimos tres años, salvo el caso de ausencia en servicio de la República por el tiempo menor de seis meses.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia; o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+V.- Haber residido en el Estado durante los últimos tres años, salvo el caso del desempeño de cargos públicos del Estado o de la federación o de docencia o investigación en instituciones nacionales de Enseñanza Superior.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -843,23 +877,17 @@ El Tribunal Superior de Justicia se integrará y funcionará en los términos qu
 
 El Presidente del Tribunal Superior de Justicia informará por escrito al Congreso del Estado, en la apertura del primer período ordinario de sesiones de cada año, sobre el Estado que guarda la administración de justicia.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 53.
 
-Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, durarán en sus funciones seis años, pudiendo ser ratificados en los mismos.
+Los Magistrados del Tribunal superior de justicia y los jueces de primera instancia, durarán en sus funciones seis años, pudiendo ser ratificados.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987)</small>
+Los Magistrados que fueren ratificados, sólo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la Ley, o incurran en alguna de las hipótesis previstas en el título noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas. Por necesidades del servicio los Jueces podrán ser cambiados de adscripción por el Pleno del Tribunal.
 
-Los Magistrados que fueren ratificados, solo podrán ser destituidos, previo juicio de responsabilidad, cuando observen mala conducta, sean negligentes en el desempeño de sus labores, dejen de reunir alguno de los requisitos que para el ejercicio del cargo señale la ley, o incurran en alguna de las hipótesis previstas en el titulo noveno de esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos.
+Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, fundamentación de resoluciones, probidad y honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán adquirir la inamovilidad y solo serán removidos en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por mala conducta o negligencia en el desempeño de sus labores o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
 
-Los jueces podrán ser cambiados de adscripción por el Pleno del Tribunal, por necesidades de servicio.
-
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 1987) (F. DE. E., P.O. 27 DE ENERO DE 1988)
-
-Los Magistrados y Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios al Poder Judicial del Estado de Chiapas, en forma tal que se hayan significado por su diligencia, fundamentación de sus resoluciones, probidad y honradez en el ejercicio de sus funciones y en su conducta ciudadana, serán inamovibles y sólo podrán ser destituidos de sus puestos por mala conducta, previo juicio de responsabilidad.
-
-Para alcanzar dicho beneficio, será necesario que el congreso a propuesta del Gobernador, tome el acuerdo respectivo en la forma y términos que establezca la Ley Orgánica del Poder Judicial del Estado.
+Para alcanzar los beneficios que señala este artículo, se estará a lo dispuesto por la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -875,13 +903,21 @@ III.- Dirimir los conflictos de competencia que se susciten en los diversos Trib
 
 IV.- Nombrar y remover a los Secretarios del Tribunal y demás empleados del Poder Judicial, de conformidad con las Leyes respectivas;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-V.- Nombrar a los Jueces de Primera Instancia, a los Municipales, a los Rurales, al Visitador Judicial a los que con cualquiera otra denominación se creen en el Estado;
+V.- Nombrar a los Jueces de Primera Instancia, a los municipales, a los rurales, al visitador judicial;
 
-VI.- Dictar su Reglamento Interior, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
-VII.- Las demás facultades que les confirieran las Leyes.
+VI.- Determinar los distritos judiciales en que se divida el estado; el número de salas regionales, y de Juzgados de Primera Instancia, la residencia, la jurisdicción territorial y la especialización que por materia corresponda;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+VII.- Dictar su Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+VIII.- Las demás facultades que le confieren las Leyes.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -895,7 +931,9 @@ Ningún funcionario de la Administración de Justicia podrá aceptar o desempeñ
 
 Los Jueces Municipales y Rurales serán nombrados por el Tribunal Superior de Justicia a proposición, en terna, de los Ayuntamientos Municipales respectivos.
 
-Por cada uno de los jueces a que se refiere este Artículo se nombrará un suplente; ambos durarán en su cargo el tiempo para el que haya sido electo el Ayuntamiento que los proponga, salvo que sean ratificados, podrán ser destituidos cuando observen mala conducta.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+Por cada uno de los Jueces que se refiere este artículo se nombrará un suplente; ambos durarán en su cargo el tiempo para el que haya sido electo el ayuntamiento que los propuso, podrán ser removidos cuando a juicio del Tribunal Superior observen mala conducta.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -919,61 +957,17 @@ Además de los Regidores electos por el sistema de mayoría relativa, en los mun
 
 Los Agentes y Delegados Municipales serán nombrados y removidos en sesión plenaria por el Ayuntamiento del que dependan.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 60.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la designación que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan el carácter de suplentes y no hayan estado en ejercicio, sí podrán ser electos como propietarios para el siguiente período. Los Ayuntamientos deberán de tomar posesión el día primero de enero, siguiente a su elección.
+Los Presidente Municipales, Regidores y Síndicos de los ayuntamientos electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período. Los Ayuntamientos deberán tomar posesión el día primero de enero, siguiente a su elección, la prohibición anterior comprende todos los mecanismos del Ayuntamiento sin importar el cargo que hayan desempeñado.
 
-El Congreso del Estado, o la Comisión Permanente por acuerdo de las dos terceras partes de sus integrantes, podrán suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley Reglamentaria, concediéndoles siempre la oportunidad de rendir las pruebas y formular los alegatos que en su defensa estimen convenientes.
+Si por cualquier circunstancia no se hubiere efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso designará un Concejo Municipal que entrará en funciones el 1º de enero y convocará a alecciones extraordinarias en un término que no excederá de seis meses.
 
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado o la Comisión Permanente convocarán a elecciones extraordinarias, si la desaparición ocurriese en el primer año de sus gestiones, designándose entre tanto una Junta Municipal compuesta de tres personas. Si la desaparición ocurriese fuera del tiempo señalado designará de las propuestas que para tal efecto haga el Gobernador del Estado un Concejo de Gobierno Municipal compuesto de cinco personas.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, o en su caso la Comisión Permanente, podrá suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley Orgánica Municipal.
 
-La desaparición del Ayuntamiento se da cuando haya falta absoluta de la mitad más uno de sus miembros, ya por licencia, por causa grave o por cualquier otra circunstancia que afecte la administración del Municipio. Si conforme a la Ley no procediere que entraren en funciones los suplentes.
-
-El Congreso del Estado designará entre los vecinos más sobresalientes por sus méritos morales, culturales y sociales los Concejos municipales encargados de concluir los períodos respectivos.
-
-El Congreso del Estado establecerá las bases normativas conforme a las cuales los Ayuntamientos ejercerán la facultad de expedir los Bandos de Policía y Buen Gobierno, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
-
-Los Municipios de la Entidad con el concurso del Poder Ejecutivo del Estado, cuando así sea necesario y lo establezcan las leyes, tendrán a su cargo los siguientes servicios públicos:
-
-A) Agua potable y alcantarillado.
-
-B) Alumbrado público.
-
-C) Limpia.
-
-D) Mercados y centrales de abastos.
-
-E) Panteones.
-
-F) Rastro.
-
-G) Calles, parques y jardines.
-
-H) Seguridad pública, y
-
-I) Los demás que determine el Congreso del Estado, tomando en cuenta las condiciones territoriales y socio-económicas y la capacidad administrativa y financiera de cada Municipio.
-
-Para dar cumplimiento con lo anterior, se celebrarán convenios de fortalecimiento municipal entre el Titular del Ejecutivo Estatal y los Ayuntamientos de cada Municipio, los que deberán ser sancionados por el Congreso el Estado.
-
-Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, con la sanción del Congreso del Estado y con sujeción a la Ley podrán coordinarse para mejorar la prestación de los servicios públicos que tengan a su cargo.
-
-Los Municipios administrarán libremente su hacienda, la cual se integrará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y demás ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
-
-A) Percibirán las contribuciones, incluyendo las tasas adicionales que establezca el Congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles. Los Ayuntamientos podrán celebrar convenios de participación con el Titular del Ejecutivo del Estado, con objeto de que este último se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones;
-
-B) Las participaciones federales, que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado; y
-
-C) Los ingresos que se deriven de la prestación de los servicios públicos a su cargo.
-
-El Congreso del Estado tendrá la facultad de establecer las contribuciones referidas en los incisos a) y c), sin que pueda en ningún caso concederse exenciones o subsidios a favor de personas físicas o morales, ni de instituciones oficiales o privadas, respecto de dichas contribuciones pues únicamente los bienes del dominio publico de la federación, de los estados o de los municipios, estarán exentos del pago de las mencionadas contribuciones.
-
-Es facultad del Congreso del Estado, aprobar las Leyes de Ingresos para los Municipios y revisar sus cuentas publicas;
-
-Los Ayuntamientos tendrán la facultad de aprobar sus propios presupuestos de egresos, los que deberán tener como base sus ingresos disponibles.
-
-Los Ayuntamientos deberán remitir cada año al Congreso del Estado, en su primer período de sesiones ordinarias, para su sanción y publicación en su caso, los presupuestos por programa que deban desarrollar en el siguiente ejercicio, y en el segundo período de sesiones ordinarias deberán enviar las cuentas del ejercicio anterior.
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros ocurrida durante el primer año de su ejercicio, el Congreso del Estado o la Comisión Permanente convocarán a elecciones extraordinarias, designándose entre tanto un Consejo Municipal compuesto de tres personas. Si la desaparición ocurriese fuera del tiempo señalado se designará de las propuestas que para tal efecto haga el Gobernador del Estado, un Consejo Municipal compuesto de tres personas.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 1984)</small>
 
@@ -981,7 +975,9 @@ Los Ayuntamientos deberán remitir cada año al Congreso del Estado, en su prime
 
 Los Municipios en los términos de las Leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar los programas de desarrollo urbano municipal y la zonificación prevista en ellos; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales, intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del Artículo 27, de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que consideren necesarios.
 
-Los Municipios en el ámbito de su competencia planearán y regularán de manera conjunta y coordinada, sujetándose a las Leyes del Estado y Federales de la materia, el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales, formen o tiendan a formar una continuidad geográfica y demográfica.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+Los municipios conurbados en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada, sujetándose a las leyes del Estado y a las federales de la materia, el desarrollo de los centros urbanos que por encontrarse situados en dos o más territorios municipales, formen o tiendan a formar una continuidad geográfica y demográfica, y supervisarán la explotación y aprovechamiento racional de los recursos naturales a efecto de preservar, proteger y conservar el equilibrio ecológico y el medio ambiente, dictando las medidas administrativas pertinentes.
 
 El Estado podrá asimismo, previo convenio con la federación en los términos de Ley el ejercicio de funciones, la ejecución y operación de obras y prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
@@ -1607,6 +1603,10 @@ P.O. 19 DE NOVIEMBRE DE 1952.
 
 Toda persona gozará de las garantías individuales y sociales que otorga la Constitución Política de los Estados Unidos Mexicanos y que la presente Constitución reitera; garantías que no podrán restringirse o suspenderse, sino en los casos y las condiciones que la primera de dichas Constituciones establece.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+Esta constitución protege las lenguas y dialectos con los que se comunican los miembros de las comunidades indígenas de las diferentes etnias de Chiapas.
+
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 5º.
@@ -1617,7 +1617,11 @@ I.- Respetar y cumplir las Leyes;
 
 II.- Acrecentar el espíritu de solidaridad humana y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
 
-III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
+III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+IV.- Evitar la deforestación; forestar y reforestar los predios que les pertenezcan y colaborar con las autoridades en la ejecución de las campañas contra la deforestación, la forestación y reforestación; prevenir y combatir los incendios y contribuir a la realización de los programas de mejoramiento de la comunidad.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1819,9 +1823,11 @@ Esta Constitución se publicará en el Periódico Oficial, y con la mayor solemn
 
 El Tribunal Superior de Justicia quedará integrado conforme a las disposiciones aquí establecidas y el plazo a que se refiere el Artículo 53 Párrafo Cuarto de esta Constitución empieza a contarse a partir de esta fecha y para los efectos de ratificación será a propuesta del Gobernador ante el Congreso del Estado, el día 1º de enero de 1987.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO TERCERO.
 
-Para los efectos del Artículo 36 reformado, la Legislatura del Estado, designará a la persona que ocupará el cargo de Gobernador con el carácter de interino del día primero al día ocho de diciembre de 1982, fecha esta ultima en que deberá tomar posesión el Gobernador Constitucional Electo.
+Para los efectos del artículo 36, el Congreso del Estado designará la persona que ocupará el cargo de Gobernador, con el carácter de interino, quien durará en sus funciones del día ocho de diciembre de 1994 al día quince de diciembre de 1995.
 
 ###### ARTICULO CUARTO.
 
@@ -1830,6 +1836,20 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 ###### ARTICULO QUINTO.
 
 El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO SEXTO.
+
+Para la renovación del Honorable Congreso del Estado que entró en funciones el primero de noviembre de 1988 y de los Ayuntamientos que iniciarán su ejercicio el primero de enero de 1989, las elecciones constitucionales se celebrarán el primer miércoles de septiembre de 1991.
+
+Los Diputados que resulten electos durarán en sus funciones del primero de noviembre de 1991 al quince de noviembre de 1995 y los Ayuntamientos que designen los comicios referidos ejercerán su encargo del primero de enero de 1992 al treinta y uno de diciembre de 1995.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO SEPTIMO.
+
+A partir de 1995, las elecciones constitucionales para elegir Gobernador del Estado, y los Diputados al H. Congreso del Estado y de Ayuntamientos, se celebrarán el segundo domingo de octubre del año que corresponda, el Gobernador del Estado durará en su encargo del dieciséis de diciembre del año de los comicios al quince de diciembre del sexto año posterior a su elección. Los Diputados ejercerán su mandato del dieciséis de noviembre del año de los comicios al quince de noviembre del tercer año posterior al de su elección, los Ayuntamientos durarán en sus funciones durante tres años, con todos (sic) a partir del primero de enero posterior al día de los comicios.
 
 P.O. 21 DE DICIEMBRE DE 1983.
 
@@ -1858,3 +1878,17 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 P.O. 22 DE JUNIO DE 1988.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+P.O. 8 DE DICIEMBRE DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La reforma del artículo 36 constitucional, entrará en vigor el 9 de diciembre de 1994.
+
+###### ARTICULO TERCERO.
+
+En un término no mayor de 90 días, el Congreso expedirá la Ley de Justicia Administrativa.
