@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2003-10-30"
+last_updated: "2004-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2004.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -239,7 +239,7 @@ IV. Vigilar en el orden administrativo, la exacta observancia de las leyes, regl
 
 V. Llevar el control y seguimiento de los convenios de coordinación y concertación suscritos con la Federación, los Ayuntamientos y los sectores social y privado;
 
-VI. Ser el conducto para presentar ante la Legislatura del Estado, las Iniciativas de Ley o Decretos del Ejecutivo,
+VI. Ser el conducto para presentar ante la Legislatura del Estado, las Iniciativas de Ley o Decretos del Ejecutivo;
 
 VII. Revisar los anteproyectos de ley, reglamentos y cualquier otro ordenamiento jurídico que deba presentarse al titular del Ejecutivo del Estado;
 
@@ -251,19 +251,19 @@ X. Elaborar anualmente el calendario cívico que regirá en la Entidad y organiz
 
 XI. Vigilar y controlar todo lo relacionado con la demarcación y conservación de los límites del Estado y sus Municipios;
 
-XII. Ejecutar, por acuerdo del Gobernador, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública,
+XII. Ejecutar, por acuerdo del Gobernador, las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública;
 
 XIII. Expedir, previo acuerdo del Gobernador, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otra dependencia del Ejecutivo del Estado;
 
-XIV. Legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás servidores públicos, a quiénes está encomendada la fe pública.
+XIV. Legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás servidores públicos, a quiénes está encomendada la fe pública;
 
 XV. Compilar y archivar las leyes, reglamentos, circulares, acuerdos expedidos por el Ejecutivo del Estado;
 
-XVI. Compilar y archivar el Periódico Oficial del Estado y el Diario Oficial de la Federación.
+XVI. Compilar y archivar el Periódico Oficial del Estado y el Diario Oficial de la Federación;
 
-XVII. Vigilar que se cumpla con la normatividad del Sistema Estatal de Seguridad Pública en la Entidad
+XVII. Vigilar que se cumpla con la normatividad del Sistema Estatal de Seguridad Pública en la Entidad;
 
-XVIII. Velar por la protección civil de las personas, sus bienes y el entorno geográfico que las rodea; teniendo como acción prioritaria la prevención y mitigación de riesgos y/o desastres ante la ocurrencia de cualquier agente perturbador ya sea de origen natural o humano.
+XVIII. Velar por la protección civil de las personas, sus bienes y el entorno geográfico que las rodea; teniendo como acción prioritaria la prevención y mitigación de riesgos y/o desastres ante la ocurrencia de cualquier agente perturbador ya sea de origen natural o humano;
 
 XIX. Organizar y vigilar al Instituto Estatal de Defensoría Pública;
 
@@ -271,7 +271,7 @@ XX. Auxiliar a las autoridades federales, en los términos de las leyes relativa
 
 XXI. Aplicar la ejecución de las sentencias dictadas por los tribunales a los sentenciados que sean puestos a disposición del Ejecutivo del Estado;
 
-XXII. Acordar las libertades absolutas, libertades preparatorias, libertades preliberacionales, e indultos, tanto de alfabetización como cualquier beneficio a favor del interno; así como la vigilancia y supervisión de quienes gozan del beneficio de la suspensión condicional de la condena.
+XXII. Acordar las libertades absolutas, libertades preparatorias, libertades preliberacionales, e indultos, tanto de alfabetización como cualquier beneficio a favor del interno; así como la vigilancia y supervisión de quienes gozan del beneficio de la suspensión condicional de la condena;
 
 XXIII. Elaborar y ejecutar los programas de readaptación social;
 
@@ -299,7 +299,11 @@ XXXIV. Organizar y vigilar la Procuraduría Estatal de la Defensa del Trabajo, y
 
 XXXV. Tramitar los recursos administrativos que competa resolver al Gobernador del Estado;
 
-XXXVI. Coordinar el funcionamiento del Archivo General del Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2004)</small>
+
+XXXVI. Coordinar el funcionamiento y cuidado del archivo administrativo del Poder Ejecutivo del Estado; asimismo, organizar y administrar los archivos de concentración y el archivo histórico del Gobierno del Estado de Durango. Estos dos deberán estar en una sola unidad especial para mayor control y eficacia operativa.
+
+Una Ley Ordinaria regulará esta materia;
 
 XXXVII. Las demás que le señalen las leyes y reglamentos, vigentes en el Estado.
 
@@ -335,7 +339,7 @@ XIII. Ordenar y practicar revisiones y auditorías a los contribuyentes, realiza
 
 XIV. Expedir y asignar las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, inspecciones o verificaciones correspondientes;
 
-XV. Determinar la existencia de créditos fiscales y dar las bases para su liquidación y fijarlas en cantidad líquida, respecto de los impuestos federales coordinados y demás accesorios de los contribuyentes y obligados.
+XV. Determinar la existencia de créditos fiscales y dar las bases para su liquidación y fijarlas en cantidad líquida, respecto de los impuestos federales coordinados y demás accesorios de los contribuyentes y obligados;
 
 XVI. Conceder prórrogas y autorización para el pago en parcialidades de los créditos fiscales, en materia de su competencia, previa garantía de su importe y accesorios legales, con sujeción a las directrices que se determinen en las leyes y convenios fiscales correspondientes;
 
@@ -391,7 +395,7 @@ XLI. Elaborar, con la participación de las demás dependencias del titular del 
 
 XLII. Auxiliar en la formulación de los anteproyectos de reglamentos internos de las Secretarías;
 
-XLIII. Proponer , previo acuerdo del titular del Poder Ejecutivo, la creación, fusión o desaparición de unidades administrativas dentro de las atribuciones establecidas por las leyes;
+XLIII. Proponer, previo acuerdo del titular del Poder Ejecutivo, la creación, fusión o desaparición de unidades administrativas dentro de las atribuciones establecidas por las leyes;
 
 XLIV. Asesorar en materia de organización y sistemas administrativos a las dependencias y entidades de la administración pública centralizada y paraestatal que lo soliciten;
 
@@ -1503,7 +1507,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATO
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE OCTUBRE DE 2003.
 
@@ -1518,3 +1522,9 @@ Quedan sin efecto todas las disposiciones que se opongan al presente decreto.
 ###### ARTICULO TERCERO.
 
 La Secretaría de Desarrollo Económico, en cuanto cobre vigencia este decreto, tomará las medidas necesarias para cumplimentarlo.
+
+P.O. 10 DE JUNIO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
