@@ -1,0 +1,424 @@
+---
+title: "REGLAMENTO PARA LA OPERACION DEL ORGANISMO SERVICIO POSTAL MEXICANO"
+identifier: "FED-reglamento-para-la-operacion-del-organismo-servicio-postal-235"
+country: "mx"
+rank: "reglamento"
+publication_date: "1988-10-31"
+last_updated: "1988-10-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=235&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "235"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "22"
+reform_count: "1"
+scjn_last_update: "2000-08-08"
+issue_date: "1988-10-14"
+---
+# REGLAMENTO PARA LA OPERACION DEL ORGANISMO SERVICIO POSTAL MEXICANO
+
+REGLAMENTO PARA LA OPERACION DEL ORGANISMO SERVICIO POSTAL MEXICANO
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Diario Oficial de la Federación el lunes 31 de octubre de 1988.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos en uso de la facultad que me confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y con fundamento en los artículos 1o., 3o., 4o., 6o., 23, 24, 30, 42, 46, 49, 66, y 68 de la Ley General del Servicio Postal Mexicano, he tenido a bien dictar el siguiente
+
+REGLAMENTO PARA LA OPERACION DEL ORGANISMO SERVICIO POSTAL MEXICANO
+
+### CAPITULO PRIMERO. Disposiciones Generales
+
+###### ARTICULO 1o.
+
+El presente Reglamento es de orden público e interés social y tiene por objeto regular la prestación, operación, organización, vigilancia y administración del servicio público de correos, de servicios diversos y de los demás servicios que se contemplan en la Ley del Servicio Postal Mexicano.
+
+###### ARTICULO 2o.
+
+Para efectos de este Reglamento, se entenderá por:
+
+LEY: La Ley del Servicio Postal Mexicano.
+
+LA SECRETARIA: La Secretaría de Comunicaciones y Transportes.
+
+EL ORGANISMO: El Organismo Descentralizado denominado Servicio Postal Mexicano.
+
+SERVICIO PUBLICO DE CORREOS: La recepción, transportación y entrega de correspondencia.
+
+CORRESPONDENCIA: La contenida en sobre cerrado y tarjetas postales, que se ajusten a los límites de peso y dimensiones previstas en la Ley.
+
+SERVICIOS DIVERSOS: La recepción, transportación y entrega de envíos distintos a la correspondencia.
+
+ENVIOS: Las piezas distintas a la correspondencia, que se reciban, transporten y entreguen a través del Organismo o de otras personas.
+
+AGENTE POSTAL: La persona física o moral que por virtud de un contrato auxilie al Organismo en el recibo, transporte y entrega de correspondencia y envíos.
+
+###### ARTICULO 3o.
+
+La prestación de los servicios a que se refiere este Reglamento se sujetará a las disposiciones de la Ley, de los tratados y convenios internacionales celebrados o que celebre el Gobierno Mexicano y de este ordenamiento, y por las demás leyes y disposiciones normativas y administrativas aplicables.
+
+### CAPITULO SEGUNDO. De las Modalidades de la Correspondencia y Envíos
+
+###### ARTICULO 4o.
+
+La correspondencia tendrá el peso y las dimensiones que le señala el artículo 13 de la ley.
+
+###### ARTICULO 5o.
+
+Son envíos, los siguientes:
+
+I.- Impresos.
+
+II.- Diarios, Libros y publicaciones periódicas.
+
+III.- Bultos conteniendo mercancías.
+
+IV.- Piezas agrupadas y con tasa única.
+
+V.- Cartas y tarjetas distintas a la correspondencia.
+
+### CAPITULO TERCERO. Entrega de la Correspondencia y los envíos
+
+###### ARTICULO 6o.
+
+La entrega de la correspondencia y envíos se hará de conformidad con la naturaleza del servicio y dirección de las piezas, como sigue:
+
+I.- En domicilio:
+
+La que señale el nombre de la calle, número de la casa y lugar de destino, con las excepciones que señala la fracción siguiente.
+
+II.- En ventanilla:
+
+a).- La dirigida a lista de correos.
+
+b).- La enviada a poste restante.
+
+c).- La destinada a lugares donde no exista reparto a domicilio.
+
+d).- La devuelta por carteros con expresión de las causas que impidieron su entrega en domicilio.
+
+e).- La de envíos conteniendo mercancías, salvo en aquellos lugares en que se haya establecido el reparto a domicilio.
+
+f).- La de reembolso.
+
+g).- La asegurada.
+
+h).- La amparada con boleta aduanal, la sujeta a permisos o al pago de impuestos o derechos en el momento de entrega.
+
+i).- La irregular, como la no franqueada o insuficientemente franqueada.
+
+j).- La que por su peso o volumen no sea posible entregar en domicilio.
+
+III.- Por medio de cajas de apartado:
+
+La que señale ese medio de entrega y exprese el número de la casilla en que tenga derecho a recibirla el destinatario.
+
+###### ARTICULO 7o.
+
+La correspondencia y envíos ordinarios se entregarán en la dirección que indiquen los sobres o envolturas, aun cuando no expresen destinatario.
+
+###### ARTICULO 8o.
+
+En los lugares donde no haya oficina postal, el Organismo podrá convenir con las autoridades municipales la entrega de correspondencia y envíos ordinarios a fin de hacerlos llegar a los destinatarios, sin retribución por parte de los mismos. También podrán realizar este servicio sin retribución de los destinatarios, las personas o instituciones que obtengan autorización del Organismo.
+
+###### ARTICULO 9o.
+
+La correspondencia y envíos ordinarios dirigidos a personas que residan en hoteles, casas de huéspedes, fábricas y otros establecimientos de índole semejante se entregarán por conducto del administrador o encargado de los mismos.
+
+###### ARTICULO 10.
+
+Las autoridades o particulares a que se refieren los dos Artículos precedentes, deben devolver a la oficina de correos de la que hubieren recibido la correspondencia y envíos, las piezas no entregadas a los destinatarios en un plazo de 10 días.
+
+###### ARTICULO 11.
+
+La correspondencia y envíos dirigidos a personas residentes en cuarteles, campos militares y otros semejantes, se entregarán por conducto de las personas autorizadas por escrito, a menos que el interesado haga solicitud en contrario a la oficina de correos respectiva.
+
+###### ARTICULO 12.
+
+La correspondencia y envíos dirigidos a las oficinas públicas se entregarán en la Oficialía de Partes o a la persona que se designe por escrito.
+
+###### ARTICULO 13.
+
+La correspondencia y envíos dirigidos a personas recluidas en establecimientos de readaptación social, de beneficencia o de índole semejante, se entregarán por conducto de los Administradores de estos establecimientos y bajo la responsabilidad de los mismos, a menos que el interesado haga solicitud en contrario a la oficina de correos respectiva.
+
+###### ARTICULO 14.
+
+Cuando la correspondencia y envíos registrados se entreguen por conducto de los Administradores de establecimientos penales, beneficencia o de índole semejante, los Administradores firmarán constancia de que las piezas quedan en su poder para su entrega a los destinatarios, a reserva de que devuelvan la documentación correspondiente con la firma del propio destinatario.
+
+###### ARTICULO 15.
+
+La correspondencia y envíos registrados se entregarán a los destinatarios, a los remitentes en su caso o a las personas que unos u otros autoricen por escrito.
+
+###### ARTICULO 16.
+
+Cuando deba comunicarse la existencia de correspondencia y envíos en oficinas postales, se girarán hasta dos avisos a los destinatarios.
+
+###### ARTICULO 17.
+
+En caso de que dos o más personas aleguen tener derecho a una misma correspondencia o envío y presenten algún documento que funde la reclamación, se suspenderá la entrega hasta que la autoridad competente decida la controversia.
+
+En cualquier estado de la controversia, quedan a salvo los derecho del remitente sobre su correspondencia o envíos.
+
+###### ARTICULO 18.
+
+La correspondencia y envíos dirigidos a una persona, pero al cuidado de otra, se entregarán indistintamente a cualquiera de ellas.
+
+###### ARTICULO 19.
+
+La correspondencia o envíos dirigidos a personas que hubieren fallecido, podrán entregarse al albacea o devolverse al remitente.
+
+###### ARTICULO 20.
+
+Por orden escrita de una autoridad judicial, la correspondencia y envíos podrán retenerse o entregarse a persona diversa del destinatario, o a la propia autoridad.
+
+###### ARTICULO 21.
+
+En caso de disolución de una sociedad, asociación o institución, la correspondencia o envíos se entregarán al liquidador y en los de quiebra o liquidación judicial notificada a la oficina de correos, a la autoridad judicial que conozca de ellas o al síndico.
+
+###### ARTICULO 22.
+
+Cuando por error la entrega de la correspondencia o envíos se efectúe a persona que no sea el destinatario, quien la reciba, está obligado a devolverlos desde luego a la oficina de correos. Si hubiere abierto la pieza, anotará al reverso del sobre o en la envoltura bajo su firma la razón que explique el hecho.
+
+###### ARTICULO 23.
+
+La reexpedición de correspondencia o envíos, es el trámite a que se sujetan los mismos cuando para su entrega se remiten a petición del remitente o del destinatario a la Oficina de nuevo destino.
+
+###### ARTICULO 24.
+
+La reexpedición de correspondencia o envíos, causa el pago de los derechos o cuotas conforme a la tarifa vigente.
+
+###### ARTICULO 25.
+
+La correspondencia y envíos que no hayan sido entregados permanecerán en la oficina de correos a disposición del destinatario o remitente durante 10 días, contados a partir del día en que se gire el primer aviso.
+
+Del plazo de 10 días señalados se exceptúan la correspondencia y envíos siguientes:
+
+I.- Aquéllos para los que el remitente señale un plazo menor.
+
+II.- La correspondencia y envíos de los cuales se haya solicitado ampliación del plazo de 10 días, que podrá concederse hasta por 20 días más.
+
+###### ARTICULO 26.
+
+La correspondencia y envíos que hayan permanecido en la oficina de correos a disposición del destinatario o remitente, durante los plazos que se señalan en el Artículo anterior, serán devueltos al lugar que señale el propio remitente, o en su caso concentrados a rezagos.
+
+### CAPITULO CUARTO. Rezago
+
+###### ARTICULO 27.
+
+La correspondencia y los envíos que no puedan ser entregados a los destinatarios o devueltos a los remitentes, caen en rezago.
+
+###### ARTICULO 28.
+
+La correspondencia y envíos caídos en rezago permanecerán en las oficinas de correos durante 6 meses contados a partir de la fecha de su depósito, a disposición de los remitentes o destinatarios. Transcurrido dicho plazo, el Organismo podrá enajenarla.
+
+###### ARTICULO 29.
+
+El Organismo deberá levantar un inventario de la correspondencia y envíos caídos en rezago y, podrá proceder a su destrucción cuando a juicio de la Secretaría carezca de valor comercial alguno. En el supuesto de que se trate de correspondencia y envíos con valor comercial el Organismo, podrá proceder a su enajenación mediante convocatoria pública. Las cantidades que se obtengan por dicha enajenación, se remitirán a la Tesorería de la Federación, deduciendo los gastos que dicha venta hubiese ocasionado.
+
+###### ARTICULO 30.
+
+En el supuesto de que la correspondencia o envíos caídos en rezago fueren de utilidad para su uso y aprovechamiento por parte del Organismo se procederá a darlos de alta en el inventario del Organismo de acuerdo a la normatividad vigente.
+
+### CAPITULO QUINTO. Acuse de Recibo de Envíos o Correspondencia Registrada
+
+###### ARTICULO 31.
+
+El servicio de acuse de recibo de envíos o correspondencia registrada, deberá solicitarse en el momento del depósito y consiste en recabar en un documento especial la firma de recepción del destinatario o de su representante legal y entregar ese documento al remitente, como constancia.
+
+###### ARTICULO 32.
+
+El documento en que el destinatario acuse recibo por una pieza registrada, se enviará al remitente por servicio ordinario y vía de superficie, si no hay indicaciones en contrario.
+
+###### ARTICULO 33.
+
+En los casos en que el destinatario se niegue a firmar el documento de constancia o no se encuentre en el domicilio y en un plazo de 10 días, contados a partir del aviso escrito, no ocurra a la oficina correspondiente a recoger la pieza postal, ésta será devuelta al remitente a su costa y sin responsabilidad para el Organismo.
+
+### CAPITULO SEXTO. Del Servicio de Almacenaje
+
+###### ARTICULO 34.
+
+El servicio de almacenaje consiste en la conservación y guarda de la correspondencia y envíos a petición del remitente o del destinatario; hasta por un plazo de 20 días, contados a partir del undécimo día de su depósito.
+
+###### ARTICULO 35.
+
+El almacenaje se pagará de acuerdo con las siguientes modalidades:
+
+I.- En las oficinas destinatarias a partir del undécimo día de girado el primer aviso.
+
+II.- En las oficinas de origen, tratándose de devoluciones, a partir del cuarto día de girado el primer aviso.
+
+III.- La correspondencia y envíos caídos en rezago, a partir del día en que empiecen a ser conservados en la oficina.
+
+El pago del almacenaje se hará en la factura que ampare la pieza.
+
+###### ARTICULO 36.
+
+El almacenaje se pagará:
+
+I.- Por el remitente, cuando al depositar la pieza o posteriormente solicite ampliación del plazo de retención para su entrega en la oficina destinataria, o cuando ocurra a recoger devoluciones.
+
+II.- Por el destinatario en la oficina de destino, en el momento en que solicite la ampliación del plazo de permanencia.
+
+III.- Cuando el remitente haya solicitado ampliación del plazo sin cubrir el importe del almacenaje, el destinatario deberá pagarlos al recibir la pieza.
+
+### CAPITULO SEPTIMO. De los Giros y Vales Postales
+
+###### ARTICULO 37.
+
+Los servicios de giros y vales postales consisten en la situación de dinero por medio de libramientos a favor de beneficiarios determinados.
+
+###### ARTICULO 38.
+
+Los giros y vales postales contendrán el nombre y apellidos de las personas físicas o la denominación de la persona moral a favor de quien se expidan.
+
+###### ARTICULO 39.
+
+Los giros y vales postales se expedirán en las formas impresas establecidas por el Organismo.
+
+###### ARTICULO 40.
+
+Para la expedición de un giro o vale postal se requiere:
+
+I.- La solicitud en la forma impresa que proporcionen las oficinas expedidoras.
+
+II.- Que en la localidad en que deban pagarse exista la oficina autorizada para prestar el servicio.
+
+III.- Que la oficina expedidora reciba a satisfacción el importe y el premio.
+
+###### ARTICULO 41.
+
+El pago y el reintegro de los giros y vales postales lo hará la oficina a cargo de la cual se hayan expedido; sin embargo, podrán pagarse por oficina distinta de la designada como pagadora, siempre que ésta y la expedidora informen a la que reciba la solicitud de pago, que no han hecho efectivo el importe de los giros y vales postales ni lo harán con posterioridad.
+
+Si se otorga fianza a satisfacción de la oficina en que se solicite el pago, éste podrá hacerse antes de cubrir los requisitos a que se refiere el párrafo anterior.
+
+El cambio de radicación de pago podrá autorizarse por una sola vez.
+
+###### ARTICULO 42.
+
+En el caso de mutilación de un giro o vale postal, el pago o reintegro sólo podrá hacerse mediante recibo y previa investigación de la autenticidad y valor exacto del libramiento en un plazo no mayor a quince días naturales.
+
+###### ARTICULO 43.
+
+En caso de alteración de alguno de los datos de un giro o vale postal, se recogerá y sin hacer anotación se procederá a practicar las averiguaciones necesarias en un plazo no mayor de quince días naturales. Si se presume la existencia de un ilícito se hará la denuncia correspondiente y el Organismo suspenderá el pago hasta la resolución de la autoridad.
+
+###### ARTICULO 44.
+
+Los giros y vales postales pierden su valor:
+
+a).- Cuando estén alterados o mutilados salvo lo dispuesto en los artículos 42 y 43 de este Reglamento.
+
+b).- Por haberse pagado o reintegrado su duplicado o mediante recibo.
+
+c).- Por orden escrita de autoridad competente.
+
+d).- Por prescripción.
+
+###### ARTICULO 45.
+
+La vigencia de un giro o vale postal es de 3 años contados desde la fecha de su expedición. El duplicado tendrá la misma vigencia que se contará a partir del día de la expedición del original.
+
+###### ARTICULO 46.
+
+El plazo a que se refiere el Artículo anterior se ampliará por 6 meses si se interrumpe por la reclamación del interesado y por 60 días a partir de la fecha en que se dicte la resolución judicial, cuando el giro esté sujeto a litigio.
+
+###### ARTICULO 47.
+
+La reclamación del peticionario o del beneficiario se presentará por escrito al Organismo, a la oficina expedidora o a la pagadora. La dependencia en que se presente la reclamación queda obligada a otorgar constancia de la fecha de la recepción.
+
+###### ARTICULO 48.
+
+La solicitud de informes de giros o vales postales se presentará en la oficina expedidora o en la pagadora, dentro del plazo de 3 años a partir de su expedición.
+
+El informe se referirá únicamente al pago del valor del giro o vale postal y a la persona a quien se le pagó. Cuando no se haya efectuado, se precisará el motivo.
+
+###### ARTICULO 49.
+
+El aviso de pago de un giro o vale postal podrá solicitarse por el peticionario del giro en el momento de su expedición o dentro de los 30 días siguientes. En este último caso la solicitud podrá presentarse en cualquier administración o sucursal por escrito, exhibiendo la constancia de expedición del giro o vale.
+
+###### ARTICULO 50.
+
+El pago de los giros o vales postales se suspende:
+
+I. Por orden escrita de autoridad competente notificada al Organismo, a la oficina expedidora o a la pagadora.
+
+II. Por orden del Organismo.
+
+III. A solicitud escrita del peticionario o del beneficiario si se alega pérdida del libramiento.
+
+###### ARTICULO 51.
+
+Cuando el peticionario y el beneficiario de un giro o vale postal alegando pérdida de ese libramiento, soliciten a la vez que se le haga efectivo, se atenderá al primero.
+
+### CAPITULO OCTAVO. De los Expendios de Estampillas Postales a cargo de Particulares
+
+###### ARTICULO 52.
+
+El Organismo podrá autorizar el funcionamiento de expendios de estampillas a cargo de particulares, previo el cumplimiento de los siguientes requisitos:
+
+I. Que la persona autorizada otorgue su conformidad por escrito y acepte adquirir las formas impresas de franqueo destinadas a la venta.
+
+II. Que se obligue a vender las formas franqueadas y las estampillas al valor facial de éstas, más la cantidad que se fije como valor de la forma.
+
+###### ARTICULO 53.
+
+Los expendios a que se refiere el Artículo anterior perderán autorización por las causas siguientes:
+
+I. Cuando las personas a quienes se hayan encomendado, manifiesten no poder atender o abandonen los expendios.
+
+II. Por incumplimiento de los requisitos señalados en el Artículo anterior.
+
+III. Por cualquier otra causa justificada, a juicio de la Administración de Correos de que dependa el expendio.
+
+### CAPITULO NOVENO. De los Agentes
+
+###### ARTICULO 54.
+
+Cuando el Organismo no lleve a cabo por sus propios medios el recibo, transporte y entrega de la correspondencia y envíos, podrá contratarlo con personas físicas o morales, que tendrán el carácter de Agentes del Organismo, bajo las condiciones señaladas en este Capítulo.
+
+###### ARTICULO 55.
+
+El contrato para el recibo, transporte y entrega de la correspondencia y envíos, podrá ser oneroso o gratuito.
+
+###### ARTICULO 56.
+
+El contrato gratuito, deberá contener las obligaciones específicas del Agente, así como el importe de la fianza que haya de otorgarse cuando el Organismo lo juzgue conveniente.
+
+###### ARTICULO 57.
+
+El contrato oneroso se adjudicará en concurso, al cual se convocará dándole la mayor publicidad. La convocatoria se fijará invariablemente en las Oficinas de Correos situadas sobre la ruta y contendrá los datos para la debida información de los interesados.
+
+###### ARTICULO 58.
+
+Para la adjudicación del contrato, se tomarán en consideración las bases siguientes:
+
+I.- Menor costo.
+
+II.- Mejor equipo para la ejecución del servicio.
+
+III.- Mayor rapidez en el recorrido.
+
+IV.- La idoneidad del concursante.
+
+###### ARTICULO 59.
+
+El contrato deberá especificar las obligaciones del contratista, sus derechos, las causales y procedimiento de rescisión y la forma en que deberá garantizar.
+
+###### ARTICULO 60.
+
+Queda prohibido ceder en todo o en parte los derechos y transferir las obligaciones del contrato sin la previa aprobación del Organismo.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de octubre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.
