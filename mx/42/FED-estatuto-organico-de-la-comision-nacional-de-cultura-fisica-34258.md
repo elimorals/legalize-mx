@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-cultura-fisica-342
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-10-20"
-last_updated: "2003-10-20"
+last_updated: "2004-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34258&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-25"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL DE CULTURA FISICA Y DEPORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2004.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 20 de octubre de 2003.
 
@@ -69,7 +69,9 @@ II. Comisarios: Los Comisarios Públicos propietario y suplente designados por l
 
 III. CONADE: La Comisión Nacional de Cultura Física y Deporte;
 
-IV. Contraloría Interna: El Organo Interno de Control de la CONADE;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
+
+IV. Contraloría Interna: El Organo Interno de Control en la CONADE;
 
 V. Director General: El Director General de la CONADE;
 
@@ -141,85 +143,91 @@ d) Las demás que les encomiende la Junta Directiva.
 
 El Director General tendrá las facultades y obligaciones que le confiera la Ley, la Ley Federal, así como las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+El Director General podrá delegar facultades en cualquiera de los servidores públicos de primer nivel jerárquico de la CONADE, sin perjuicio de aquellas que en las leyes, reglamentos, decretos, acuerdos, o por disposición de la Junta Directiva, le sean conferidas como indelegables.
+
 ### CAPITULO III. De la Estructura Administrativa
 
 ###### Artículo 9.
 
 Para el despacho y ejecución de los asuntos de su competencia, el Director General de la CONADE contará, en el primer nivel, con el apoyo de la siguiente estructura administrativa:
 
-I. La Subdirección General de Administración;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-II. La Subdirección General de Deporte;
+I. La Subdirección General del Deporte
 
-III. La Subdirección General de Calidad para el Deporte;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-IV. La Subdirección General de Cultura Física;
+II. La Subdirección General de Calidad para el Deporte
 
-V. La Coordinación de Normatividad y Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-VI. La Coordinación de Comunicación Social;
+III. La Subdirección General de Cultura Física
 
-VII. La Coordinación Ejecutiva de la Dirección General;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
+
+IV. La Subdirección General de Administración
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
+
+V. La Coordinación de Comunicación Social
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
+
+VI. La Coordinación de Normatividad y Asuntos Jurídicos.
 
 ###### Artículo 10.
 
 Las unidades administrativas enumeradas en el artículo anterior, contarán para su operación con la estructura siguiente:
 
-I. Subdirección General de Administración;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-Coordinación Ejecutiva;
+I. Subdirección General del Deporte
 
-Dirección de Finanzas;
+Dirección del Sistema Nacional del Deporte
 
-Dirección de Desarrollo Humano;
+Dirección de Planeación y Tecnologías de Información
 
-Dirección de Servicios;
+Dirección de la Escuela Nacional de Entrenadores Deportivos
 
-II. Subdirección General de Deporte;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-Coordinación Ejecutiva;
+II. Subdirección General de Calidad para el Deporte
 
-Dirección del Sistema Nacional del Deporte;
+Dirección de Medicina y Ciencias Aplicadas
 
-Dirección de Planeación y Tecnologías en la Información;
+Dirección de Alto Rendimiento
 
-Dirección de la Escuela Nacional de Entrenadores Deportivos;
+Dirección de Operación Fiduciaria y Mercadotecnia
 
-III. Subdirección General de Calidad para el Deporte;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-Coordinación Ejecutiva;
+III. Subdirección General de Cultura Física
 
-Dirección de Medicina y Ciencias Aplicadas;
+Dirección de Eventos Deportivos Nacionales y Selectivos
 
-Dirección de Alto Rendimiento;
+Dirección de Centros del Deporte Escolar y Municipal
 
-Dirección de Operación Fiduciaria y Mecadotecnia (sic);
+Dirección de Activación Física y Recreación
 
-IV. Subdirección General de Cultura Física;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-Coordinación Ejecutiva;
+IV. Subdirección General de Administración
 
-Dirección de Eventos Deportivos Nacionales y Selectivos;
+Dirección de Finanzas
 
-Dirección de Centros del Deporte Escolar;
+Dirección de Desarrollo Humano
 
-Dirección de Activación Física y Recreación;
+Dirección de Servicios
 
-V. Coordinación de Normatividad y Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-VI. Coordinación de Comunicación Social;
+V. Coordinación de Comunicación Social
 
-VII. Coordinación Ejecutiva de la Dirección General;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-Asesor de Presidencia;
-
-Asesor de Presidencia (sic);
-
-Secretaría Técnica;
-
-Coordinación de Relaciones Internacionales;
-
-Coordinación de Proyectos Especiales;
+VI. Coordinación de Normatividad y Asuntos Jurídicos.
 
 ###### Artículo 11.
 
@@ -239,43 +247,11 @@ VI. Las demás facultades que en el ámbito de sus respectivas competencias le s
 
 De las Subdirecciones Generales
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
 ###### Artículo 12.
 
-Corresponde a la Subdirección General de Administración el ejercicio de las siguientes facultades y obligaciones:
-
-I. Definir la estrategia laboral y conducir las relaciones laborales, de tal manera que se lleven a cabo de conformidad con lo establecido en la ley de la materia;
-
-II. Dirigir y vigilar las políticas de estímulos, recompensas y de sanciones administrativas al personal y su aplicación de acuerdo a los lineamientos emitidos;
-
-III. Definir la aplicación y operación de los sistemas y procedimientos para la adquisición de bienes y servicios que requiera la CONADE, así como del suministro de los servicios generales a las áreas;
-
-IV. Proponer y controlar el Programa Anual de Adquisiciones de Bienes y Servicios de la CONADE, con la aprobación de su Director General;
-
-V. Instrumentar el sistema de control de inventarios de los bienes muebles e inmuebles y vigilar su correcta aplicación;
-
-VI. Suscribir y controlar los convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada y suscribir y controlar los contratos que se otorguen a los proveedores y prestadores de servicios conforme a las normas y políticas establecidas y vigilar el cumplimiento a las condiciones de calidad, precio y oportunidad convenidas;
-
-VII. Establecer los sistemas y procedimientos para proporcionar los servicios de mantenimiento, correspondencia, archivo, transporte, intendencia, seguridad, vigilancia y protección civil que se requieran;
-
-VIII. Dirigir las acciones del ejercicio, registro y control contable de los recursos presupuestales destinados a los programas sustantivos y de apoyo a la CONADE;
-
-IX. Controlar la emisión de cheques y transferencias electrónicas para los programas y eventos de cultura física y deporte;
-
-X. Preparar el anteproyecto del programa presupuestal de la CONADE y gestionar su autorización ante las instancias correspondientes;
-
-XI. Autorizar y controlar las acciones de infraestructura y obras, mediante la planeación, organización, programación, presupuestación, ejecución y evaluación de las mismas, estableciendo la coordinación entre el Gobierno Federal, Estatal y Municipal, para la realización de las construcciones de la infraestructura deportiva;
-
-XII. Vigilar el estricto cumplimiento de reportes e informes financieros y presupuestales institucionales que deben remitirse a instancias superiores;
-
-XIII. Llevar el registro de los Comités o Subcomités Técnicos Especializados que se conformen, y
-
-XIV. Participar en el Programa de Innovación y Calidad Institucional.
-
-XV. Elaborar y fincar los pliegos preventivos de responsabilidades, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento.
-
-###### Artículo 13.
-
-Corresponde a la Subdirección General de Deporte el ejercicio de las siguientes facultades y obligaciones:
+Corresponde a la Subdirección General del Deporte el ejercicio de las siguientes facultades y obligaciones:
 
 I. Fomentar y coordinar la participación democrática, planificada e integrada de todos los miembros del SINADE a efecto de consolidar un modelo nacional de desarrollo del deporte;
 
@@ -293,11 +269,23 @@ VII. Coordinar el Registro Nacional de Cultura Física y Deporte, con la colabor
 
 VIII. Diseñar esquemas de financiamiento social y privado que fortalezcan el presupuesto público para impulsar los programas y proyectos de cultura física y deporte;
 
-IX. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE, y
+IX. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE;
 
-X. Participar en el Programa de Innovación y Calidad Institucional.
+X. Participar en el Programa de Innovación y Calidad Institucional;
 
-###### Artículo 14.
+XI. Autorizar y controlar las acciones de infraestructura y obras, mediante la planeación, organización, programación, presupuestación, ejecución y evaluación de las mismas, estableciendo la coordinación entre el Gobierno Federal, Estatal y Municipal, para la realización de las construcciones de la infraestructura deportiva conforme a las disposiciones legales y administrativas aplicables en la materia;
+
+XII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+
+XIII. Fomentar la formación, capacitación y actualización de los recursos humanos necesarios y suficientes para llevar a cabo, con un incremento sostenido de calidad, la promoción y el fomento del deporte y la cultura física de la población nacional;
+
+XIV. Instrumentar acciones que permitan dar seguimiento al avance de resultados de los proyectos estratégicos de la Comisión Nacional de Cultura Física y Deporte, y
+
+XV. Administrar racionalmente los recursos informáticos existentes en la CONADE, para proporcionar una comunicación electrónica adecuada y confiable mediante el uso de modernas herramientas tecnológicas de información.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+###### Artículo 13.
 
 Corresponde a la Subdirección General de Calidad para el Deporte el ejercicio de las siguientes facultades y obligaciones:
 
@@ -311,11 +299,19 @@ IV. Descentralizar la práctica del deporte de alto rendimiento, a través de ac
 
 V. Impulsar programas en materia de medicina deportiva y ciencias afines, que permitan desarrollar el deporte bajo criterios científicos, así como de prevención al dopaje entre la comunidad deportiva;
 
-VI. Establecer estrategias de mercadotecnia y patrocinio deportivo que fortalezcan los fideicomisos públicos y privados para la cultura física, el deporte y la alta competencia, en apoyo a programas y proyectos de cultura física y deporte y deportistas, y
+VI. Establecer estrategias de mercadotecnia y patrocinio deportivo que fortalezcan los fideicomisos públicos y privados para la cultura física, el deporte y la alta competencia, en apoyo a programas y proyectos de cultura física y deporte y deportistas;
 
-VII. Participar en el Programa de Innovación y Calidad Institucional.
+VII. Participar en el Programa de Innovación y Calidad Institucional;
 
-###### Artículo 15.
+VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+
+IX. Establecer metodologías e instrumentos que fomenten la realización de actividades físicas, deportivas y recreativas para personas con algún tipo de discapacidad, y
+
+X. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+###### Artículo 14.
 
 Corresponde a la Subdirección General de Cultura Física el ejercicio de las siguientes facultades y obligaciones:
 
@@ -331,13 +327,75 @@ V. Fomentar la práctica ordenada y programada de actividades físicas y deporti
 
 VI. Impulsar la participación de un mayor número de deportistas en procesos de competencias nacionales y selectivas;
 
-VII. Fomentar la formación, capacitación y actualización de los recursos humanos vinculados a programas y proyectos de cultura física y deporte, y
+VII. Participar en el Programa de Innovación y Calidad Institucional;
 
-VIII. Participar en el Programa de Innovación y Calidad Institucional.
+VIII. Participar en colaboración con las demás Subdirecciones Generales, en la elaboración de convenios de coordinación, colaboración y concertación que la CONADE realice con los órganos estatales del deporte y organizaciones de la iniciativa privada;
+
+IX. Establecer estrategias de coordinación y vinculación con dependencias de la administración pública federal y estatal, con organismos públicos y privados e instituciones educativas, para la participación de un mayor número de deportistas en la Olimpiada Nacional, y
+
+X. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+###### Artículo 15.
+
+Corresponde a la Subdirección General de Administración el ejercicio de las siguientes facultades y obligaciones:
+
+I. Definir la estrategia laboral y conducir las relaciones laborales, de tal manera que se lleven a cabo de conformidad con lo establecido en la ley de la materia;
+
+II. Dirigir y vigilar las políticas de estímulos, recompensas y de sanciones administrativas al personal y su aplicación de acuerdo a los lineamientos emitidos en la materia;
+
+III. Definir la aplicación y operación de los sistemas y procedimientos para la adquisición de bienes y servicios que requiera la CONADE, así como del suministro de los servicios generales a las áreas;
+
+IV. Proponer y controlar el Programa Anual de Adquisiciones de Bienes y Servicios de la CONADE, con la aprobación de su Director General;
+
+V. Instrumentar el sistema de control de inventarios de los bienes muebles e inmuebles y vigilar su correcta aplicación;
+
+VI. Controlar los convenios de coordinación, colaboración y concertación que las Subdirecciones Generales del Deporte, de Calidad para el Deporte, y de Cultura Física realicen con los órganos estatales del deporte y organizaciones de la iniciativa privada; y suscribir y controlar los contratos que se otorguen a los proveedores y prestadores de servicios conforme a las disposiciones legales y administrativas aplicables en la materia;
+
+VII. Establecer los sistemas y procedimientos para proporcionar los servicios de mantenimiento, correspondencia, archivo, transporte, intendencia, seguridad, vigilancia y protección civil que se requieran;
+
+VIII. Dirigir las acciones del ejercicio, registro y control contable de los recursos presupuestales destinados a los programas sustantivos y de apoyo a la CONADE;
+
+IX. Controlar la emisión de cheques y transferencias electrónicas para los programas y eventos de cultura física y deporte;
+
+X. Preparar el anteproyecto del programa presupuestal de la CONADE y gestionar su autorización ante las instancias correspondientes;
+
+XI. Vigilar el estricto cumplimiento de reportes e informes financieros y presupuestales institucionales que deben remitirse a instancias superiores;
+
+XII. Llevar el registro de los Comités o Subcomités Técnicos Especializados que se conformen;
+
+XIII. Participar en el Programa de Innovación y Calidad Institucional;
+
+XIV. Elaborar y fincar los pliegos preventivos de responsabilidades, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, y
+
+XV. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
 
 De las Coordinaciones
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
 ###### Artículo 16.
+
+Corresponde a la Coordinación de Comunicación Social las siguientes facultades y obligaciones:
+
+I. Integrar el Programa de Comunicación Social de la CONADE;
+
+II. Establecer las estrategias de comunicación social para la CONADE;
+
+III. Elaborar y proponer estrategias de medición y percepción de la opinión pública e imagen institucional;
+
+IV. Fortalecer la vinculación interinstitucional en materia de comunicación social;
+
+V. Establecer vínculos de coordinación con el SINADE en materia de comunicación social;
+
+VI. Participar en el Programa de Innovación y Calidad Institucional, y
+
+VII. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+###### Artículo 17.
 
 Corresponde a la Coordinación de Normatividad y Asuntos Jurídicos el ejercicio de las siguientes facultades y obligaciones:
 
@@ -367,43 +425,19 @@ XII. Expedir copias certificadas de las constancias que obran en los archivos de
 
 XIII. Formular y revisar los anteproyectos o iniciativas de leyes o decretos legislativos relacionados con la cultura física y el deporte;
 
-XIV. Vigilar el cumplimiento de la normatividad aplicable en los procesos de licitaciones, adquisiciones, arrendamientos, servicios y obras públicas, en los que la CONADE sea parte, y
+XIV. Vigilar el cumplimiento de la normatividad aplicable en los procesos de licitaciones, adquisiciones, arrendamientos, servicios y obras públicas, en los que la CONADE sea parte;
 
-XV. Participar en el Programa de Innovación y Calidad Institucional.
+XV. Participar en el Programa de Innovación y Calidad Institucional;
 
-###### Artículo 17.
+XVI. Actuar como conducto institucional ante la Secretaría de Gobernación a efecto de atender los asuntos relacionados con el Poder Legislativo de la Unión;
 
-Corresponde a la Coordinación de Comunicación Social las siguientes facultades y obligaciones:
+XVII. Coordinar las relaciones y el desarrollo de las acciones que correspondan a la CONADE en el ámbito de su competencia, en atención a las solicitudes y requerimientos del Congreso de la Unión, y
 
-I. Integrar el Programa de Comunicación Social de la CONADE;
-
-II. Establecer las estrategias de comunicación social para la CONADE;
-
-III. Elaborar y proponer estrategias de medición y percepción de la opinión pública e imagen institucional;
-
-IV. Fortalecer la vinculación interinstitucional en materia de comunicación social;
-
-V. Establecer vínculos de coordinación con el SINADE en materia de comunicación social, y
-
-VI. Participar en el Programa de Innovación y Calidad Institucional.
+XVIII. Realizar aquellas tareas que le encomiende expresamente el Director General de la CONADE.
 
 ###### Artículo 18.
 
-Corresponde a la Coordinación Ejecutiva de la Dirección General el ejercicio de las siguientes facultades y obligaciones:
-
-I. Establecer los mecanismos de Control de Gestión Institucional;
-
-II. Coordinar la agenda del Director General;
-
-III. Promover la vinculación e integración de las áreas de la CONADE;
-
-IV. Fomentar la coordinación institucional con las dependencias de la Administración Pública Federal, Estatal y Municipal, así como los sectores social y privado vinculados con la cultura física y el deporte;
-
-V. Apoyar en las tareas administrativas del Director General;
-
-VI. Coordinar las tareas de asesoría en los rubros de relaciones internacionales, coordinación política, enlace institucional, innovación y calidad, así como los proyectos especiales vinculados con la cultura física y el deporte, y
-
-VII. Participar en el Programa de Innovación y Calidad Institucional.
+(DEROGADO, D.O.F. 15 DE JULIO DE 2004)
 
 ### CAPITULO IV. De la estructura y suplencias del Organo Interno de Control
 
@@ -411,9 +445,15 @@ VII. Participar en el Programa de Innovación y Calidad Institucional.
 
 La CONADE cuenta con un Organo Interno de Control, al frente del cual habrá un titular, designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, que en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 15 DE JULIO DE 2004)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior en el ámbito de sus respectivas competencias, tendrán las facultades y obligaciones previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública, cuyas ausencias y vacantes se atenderán conforme a este Reglamento Interior.
+
 Los servidores públicos a que se refiere el párrafo anterior en el ámbito de sus respectivas competencias, tendrán las facultades y obligaciones previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de la Función Pública, cuyas ausencias y vacantes se atenderán conforme a este Reglamento Interior.
 
-Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Organo Interno de Control, así como los titulares de las áreas de auditoría, quejas y responsabilidades se auxiliarán del personal adscrito al propio Organo Interno de Control.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 15 DE JULIO DE 2004)</small>
+
+Podrán programar y llevar a cabo auditorías, revisiones y evaluación de sistemas operativos y de información y supervisión de los sistemas de control de los Fideicomisos Públicos adscritos a la CONADE.
 
 ### CAPITULO V. De los Comités o Subcomités Técnicos
 
@@ -439,9 +479,11 @@ En los Comités o Subcomités Técnicos Especializados participarán las unidade
 
 ### CAPITULO VI. De la suplencia de los Servidores Públicos de la CONADE
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
 ###### Artículo 25.
 
-Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos administrativos de la CONADE quedarán a cargo de los servidores públicos previstos en las fracciones de la I a la VI del artículo 9 de este Estatuto quienes suplirán a aquel en el orden que dicho artículo marca.
+Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos administrativos de la CONADE quedarán a cargo de los servidores públicos previstos en las fracciones de la I a la VI del artículo 9 de este Estatuto quienes suplirán a aquél en el orden que dicho artículo marca, o en su caso los servidores públicos de primer nivel jerárquico designados por el propio Director General.
 
 ###### Artículo 26.
 
@@ -466,3 +508,9 @@ UNICO.- El presente Estatuto entrará en vigor a partir de su aprobación por es
 Aprobado por la Junta Directiva de la Comisión Nacional de Cultura Física y Deporte, en su primera sesión ordinaria celebrada el día 25 de abril de 2003.
 
 México, D.F., a 25 de abril de 2003.- El Presidente, Reyes S. Tamez Guerra.- Rúbrica.- El Secretario, Ramón Díaz de León Espino.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 15 DE JULIO DE 2004.
+
+UNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
