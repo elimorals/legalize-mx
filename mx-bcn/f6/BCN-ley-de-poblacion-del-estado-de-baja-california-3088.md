@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-poblacion-del-estado-de-baja-california-3088"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-17"
-last_updated: "1995-02-17"
+last_updated: "2001-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 17 de febrero de 1995.
 
@@ -39,15 +39,19 @@ LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 1°.
 
-Esta Ley es de orden Público, interés social y observancia general en el Estado, su objetivo es regular los fenómenos que afectan el volumen, la estructura, dinámica y distribución de la población; y su fin, que esta se desarrolle económica, política y socialmente con equidad y justicia.
+Esta Ley es de orden Público, interés social y observancia general en el Estado, su objetivo es regular los fenómenos que afectan el volumen, la estructura, dinámica y distribución de la población; con el fin que esta se desarrolle económica, política y socialmente con equidad y justicia.
 
 Por lo mismo, establece las atribuciones que en la materia corresponden a cada dependencia del Gobierno, entidades del Estado y Municipios, sin perjuicio de lo dispuesto por otras leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 2°.
 
-Corresponde al Ejecutivo del Estado establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional.
+Corresponde al Ejecutivo del Estado establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, dentro de un proceso de desarrollo integral del individuo y la sociedad.
 
 ###### ARTICULO 3°.
 
@@ -63,19 +67,37 @@ II.- PROGRAMA: Programa Estatal De Población;
 
 III.- PROGRAMA MUNICIPAL: Programa Municipal De Población.
 
-## TITULO SEGUNDO. POLITICA POBLACIONAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2001)</small>
+
+## TITULO SEGUNDO. POLITICA DE POBLACION Y DESARROLLO
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 5°.
 
-La Política Estatal De Población Consistirá en una serie de medidas tendientes a mejorar la calidad de vida de los habitantes, buscando el equilibrio en cuanto a su volumen, estructura, dinámica y distribución geográfica en relación con el desarrollo, en plena concordancia con lo dispuesto en el Artículo séptimo de esta Ley.
+La Política Estatal de Población consistirá en una serie de medidas tendientes a mejorar la calidad de vida de los habitantes, buscando el equilibrio en cuanto a su volumen, estructura, dinámica y distribución geográfica, en relación con el desarrollo, en plena concordancia con lo dispuesto en el Artículo 7º de esta Ley.
 
 ###### ARTICULO 6°.
 
 La Política Estatal de Población será Responsabilidad del Ejecutivo del Estado. Su instrumentación estará a cargo del Consejo, y su implementación a cargo de las dependencias y entidades que correspondan.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 7°.
 
-El respeto a los Derechos Humanos, a las Garantías Individuales y Valores Culturales de la Población del Estado, serán los principios en los que se sustenten las políticas y los programas que se apliquen en Materia de Población.
+Los principios en los que se sustenten las políticas y los programas que se apliquen en materia de población serán:
+
+I.- El respeto a los derechos humanos y a las garantías individuales;
+
+II.- La promoción de las condiciones socio-económicas que permitan el desarrollo a través de su incidencia en los ámbitos de educación, salud, empleo, seguridad, vivienda, desarrollo urbano y rural entre otros;
+
+III.- El impulso hacia un desarrollo, sostenido y sustentable, entendido éste como el proceso que implica llevar a cabo acciones que tiendan a satisfacer necesidades básicas del ser humano en el presente, sin comprometer a las futuras generaciones;
+
+IV.- La preservación del equilibrio ecológico y el respeto al medio ambiente;
+
+V.- La promoción de los valores culturales de los habitantes del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 8°.
 
@@ -85,7 +107,9 @@ I.- La información demográfica actualizada que exista a nivel Nacional, Region
 
 II.- Las tendencias de los fenómenos poblacionales y sus impactos presentes y futuros, en el Desarrollo del Estado;
 
-III.- Las tareas programáticas de las Dependencias y Entidades Públicas que tengan o puedan tener impacto en los fenómenos demográficos del Estado, y;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+III.- Las tareas programáticas de las Dependencias y Entidades Públicas que tengan o puedan tener impacto en los fenómenos demográficos del Estado;
 
 IV.- La descentralización en Materia Poblacional hacia los municipios tomando en cuenta las características que les son propias.
 
@@ -97,9 +121,11 @@ Para los fines de la Política Estatal de Población, el Ejecutivo del Estado y 
 
 El Ejecutivo del Estado y los Municipios, por conducto del Consejo, formularán el Programa Corres-Pondiente (sic).
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 11°.
 
-El Ejecutivo del Estado puede subscribir convenios de coordinación y colaboración con la Federación, otros Estados y los Municipios, a fin de apoyar la Política Estatal de Población; con éste mismo propósito, celebrará convenios de concertación con los sectores social y privado, a fin de que participen en la realización de acciones vinculadas con los aspectos de población que en cada caso se definan.
+El Ejecutivo del Estado puede suscribir convenios de coordinación y colaboración con la Federación, otros Estados y los Municipios, a fin de apoyar la Política Estatal de Población; con éste mismo propósito, celebrará convenios de concertación con los sectores social y privado, a efecto de que participen en la realización de acciones vinculadas con los aspectos del desarrollo, que en cada caso se definan.
 
 ## TITULO TERCERO. PLANEACION DEMOGRAFICA
 
@@ -107,9 +133,11 @@ El Ejecutivo del Estado puede subscribir convenios de coordinación y colaboraci
 
 Con el propósito de planear adecuadamente las políticas y acciones en materia de población, el ejecutivo del estado dispondrá la publicación del programa, formulado por el consejo, el cual deberá enmarcarse dentro de los lineamientos de la planeación nacional y estatal del desarrollo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 13°.
 
-La planeación demográfica tendrá como objetivos:
+La planeación demográfica para el desarrollo, tendrá como objetivos fundamentales los siguientes:
 
 I.- Promover la reafirmación de los valores y principios dentro del núcleo familiar, teniendo como meta la paternidad responsable;
 
@@ -123,9 +151,25 @@ V.- Reafirmar la igualdad de los varones y de las mujeres en el seno familiar; a
 
 VI.- Fomentar el fortalecimiento de los lazos de solidaridad entre los integrantes de la familia, ya que esta constituye pilar esencial para enriquecer las políticas de población que se instrumenten;
 
-VII.- Realizar estudios, análisis e investigaciones diversas para ampliar el conocimiento demográfico de la entidad y sus municipios, procurando que la información obtenida también sirva de apoyo a las actividades del sector público, social y privado del estado.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+VII.- Realizar estudios, análisis e investigaciones diversas para ampliar el conocimiento demográfico, factor base de desarrollo, con el objeto de integrar el sistema estatal de información sociodemográfico sobre población de la entidad y sus municipios, para que la información obtenida sirva de base a las actividades del sector público, social y privado del Estado;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+VIII.- Impulsar y fortalecer con las instancias respectivas cuyas acciones incidan con la política demográfica del Estado, una cultura de identidad estatal para fortalecer en la responsabilidad personal y social el mejoramiento de las condiciones de vida;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IX.- Vincular los mecanismos de participación de la comunidad que permitan fortalecer el tejido social base del desarrollo; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+X.- Los demás que sean necesarios para conseguir que la población del Estado alcance mayores niveles de bienestar.
 
 ## TITULO CUARTO. DEL PROGRAMA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 14°.
 
@@ -139,7 +183,9 @@ III.- Definición de los aspectos prioritarios de la política poblacional;
 
 IV.- Mecanismos de vinculación del programa con los del Gobierno Federal, Estatal y Municipal, a fin de impulsar el mejoramiento de las condiciones de vida de la Población;
 
-V.- Estrategias y acciones para la difusión, información, educación y capacitación en materia poblacional, tomando en cuenta las características económicas, culturales y sociales de las diferentes regiones del Estado;
+(REFORMADA P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+
+V.- Estrategias y acciones para la difusión, información, educación y capacitación para el desarrollo en materia de población, tomando en cuenta las características económicas, culturales y sociales de las diferentes regiones del Estado;
 
 VI.- Mecanismos para su seguimiento y evaluación;
 
@@ -155,43 +201,55 @@ El programa tendrá como objetivo general fortalecer la política de población 
 
 El programa tendrá una duración igual al período constitucional del encargo del Gobernador correspondiente, será publicado en el Periódico Oficial y preverá los mecanismos necesarios para que se instrumente un programa operativo anual.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 17°.
 
-En la formulación de sus respectivos programas, las dependencias y entidades públicas estatales y municipales, tomarán en cuenta las políticas y programas demográficos, a fin de que los beneficios sociales y económicos que se pretendan alcanzar contribuyan a elevar las condiciones de bienestar de la población.
+En la formulación de sus respectivos programas, las dependencias y entidades públicas estatales y municipales, tomarán en cuenta las políticas y programas demográficos, que tiendan hacia el desarrollo a fin de que los beneficios sociales y económicos que se pretendan alcanzar contribuyan a elevar las condiciones de vida de la población.
 
 ###### ARTICULO 18°.
 
 El Ejecutivo del Estado informará anualmente sobre los resultados que se hayan obtenido de la aplicación del programa durante el lapso correspondiente.
 
-###### ARTICULO 19o.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
-El programa será obligatorio para las dependencias y entidades de la Administración Pública Estatal y Municipal cuyas acciones tengan que ver con población, e inductivo para los ciudadanos.
+###### ARTICULO 19°.
+
+El programa será obligatorio para las dependencias y entidades de la Administración Pública Estatal y Municipal cuyas acciones tengan que ver con políticas de población a efecto de que incida en los habitantes.
 
 ## TITULO QUINTO. DEL CONSEJO
 
 ### CAPITULO PRIMERO. OBJETIVO, ATRIBUCIONES Y PATRIMONIO DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 20°.
 
-El consejo tendrá como objetivo general promover entre la población, la formación de una cultura demográfica acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar y a los valores fundamentales del hombre.
+El Consejo tendrá como objetivo general promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar y a los valores fundamentales del ser humano.
 
 ###### ARTICULO 21°.
 
 El Consejo tendrá las siguientes atribuciones:
 
-I.- Mantener la coordinación permanente con el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+I.- Mantener la coordinación permanente con el Consejo Nacional de Población, en términos de los acuerdos de coordinación celebrados al efecto por el Ejecutivo Estatal;
 
 II.- Vincular las acciones de población con los Planes de Desarrollo Nacional, Estatal, y Municipal;
 
 III.- Normar y promover la Ejecución de las Acciones en Materia de Población;
 
-IV.- Establecer con el Consejo Nacional de Población las acciones necesarias para coordinar y evaluar la aplicación de las políticas de población en la entidad, en término de los acuerdos de coordinación celebrados con el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IV.- Establecer con las instancias nacionales en materia de población, las acciones necesarias para coordinar y evaluar la aplicación de las políticas en materia de población en torno al desarrollo;
 
 V.- Promover la participación de las distintas instancias de la Administración Pública Estatal, Municipal y de los sectores privado y social;
 
 VI.- Apoyar en materia de población, a las dependencias y entidades públicas, privadas y sociales y celebrar con ellas los acuerdos o convenios pertinentes para concertar acciones conjuntas;
 
-VII.- Apoyar acciones con el objeto de lograr fomentar la paternidad responsable, la creación de una cultura demográfica, la participación de la mujer en igualdad de condiciones que el varón y la integración y fortalecimiento del núcleo familiar;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+VII.- Apoyar acciones con el objeto de lograr fomentar la paternidad responsable, la creación de una cultura demográfica, la participación de la mujer en igualdad con el varón, el impulso de un proyecto de vida para los jóvenes basado en la responsabilidad y la integración y fortalecimiento del núcleo familiar para propiciar una mejor calidad de vida; así como de aquellos grupos prioritarios que por su importancia demográfica requieran una atención específica.
 
 VIII.- Apoyar la realización de estudios que se requieran con el objeto de mejorar permanentemente la información estatal sobre población, como elemento básico de las acciones del programa y como insumo para la planeación del desarrollo estatal;
 
@@ -219,27 +277,33 @@ El Consejo mantendrá un proceso permanente y constante de evaluación interna a
 
 El Consejo funcionará con los recursos económicos, bienes muebles e inmuebles que le asigne el Gobierno del Estado, sin menoscabo de recibir por conducto de dependencias y Organismos Públicos y Privados: aportaciones, donaciones, bienes, legados y demás activos y en general todos los derechos y obligaciones del Consejo que entrañen utilidad económica.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 25°.
 
-Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el Consejo en lo concerniente a programas de población, colaborando con el mismo, para el cumplimiento de sus objetivos.
+Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el Consejo en lo concerniente a acciones programáticas de población, colaborando con el mismo, para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 26°.
 
-Los Organos de Gobierno del Consejo son:
+Los Órganos integrantes del Consejo son:
 
-I.- La Junta Directiva;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+I.- La Junta Directiva; y
 
 II.- La Secretaría Técnica;
 
-III.- Los Comités Municipales de Población.
+III.- (DEROGADA, P.O. 11 DE MAYO DE 2001)
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
-###### ARTICULO 27°.
+(REFORMADO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
-La Junta Directiva será la máxima Autoridad del Consejo y se integrará con un Presidente, que será el Gobernador Constitucional del Estado y con los vocales, que serán los titulares de: La Secretaría General de Gobierno; la Secretaría de Educación y Bienestar Social; el Instituto de Servicios Educativos y Pedagógicos del Estado de Baja California; la Secretaría de Asentamientos Humanos y Obras Públicas; la Secretaría de Finanzas; la Secretaría de Desarrollo Económico; la Secretaría de Planeación y Presupuesto; la Dirección de trabajo y Previsión Social; el Sistema Estatal para el Desarrollo Integral de la Familia; el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y Municipios de Baja California y, los representantes de los Comités Municipales de Población; cada vocal podrá designar un suplente, a quién delegará sus funciones y atribuciones en Materia de Población.
+###### ARTICULO 27o.
 
-La Junta Directiva podrá ampliarse con los Titulares De Dependencias y Entidades de la Administración Pública, propuestos por el Presidente del Consejo, así como con los representantes que propongan los sectores social y privado de la entidad, y sean aprobados por la mayoría de los miembros.
+La Junta Directiva será la máxima Autoridad del Consejo y se integrará con un Presidente, que será el Gobernador Constitucional del Estado y con los vocales, que serán los titulares de: la Secretaría General de Gobierno; el Coordinador del Sistema Educativo Estatal; la Secretaría de Asentamientos Humanos y Obras Públicas; la Secretaría de Planeación y Finanzas; la Secretaría de Desarrollo Económico; la Dirección de Trabajo y Previsión Social; el Sistema Estatal para el Desarrollo Integral de la Familia; el Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y Municipios de Baja California, el Instituto de Servicios de Salud Pública del Estado y, los Presidentes de los Comités Municipales de Población; cada vocal podrá designar un suplente, a quién delegará sus funciones y atribuciones en materia de población.
 
 ###### ARTICULO 28°.
 
@@ -255,13 +319,17 @@ Corresponde a la Junta Directiva del Consejo:
 
 I.- Aprobar el programa, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico del Estado a través de sus áreas específicas;
 
-II.- Aprobar el Presupuesto del Consejo, vigilar su ejercicio y rendir un informe anual del mismo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+II.- Aprobar el Presupuesto del Consejo y vigilar su ejercicio;
 
 III.- Vigilar la Ejecución y cumplimiento de las acciones previstas en el programa y cuidar su congruencia y complementariedad con el Programa Nacional de Población;
 
 IV.- Fungir como mecanismo de Coordinación de las Dependencias de los tres niveles de Gobierno cuya naturaleza se vincule a la materia demográfica para el cumplimiento de las Políticas de población;
 
-V.- Conocer los informes de avances del programa; así como promover que la información sociodemográfica generada por el Consejo, sirva de base para la planeación y programación de las acciones de Gobierno dentro de las Dependencias del Sector Público;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+V.- Conocer los informes de avances del programa; así como promover que la información sociodemográfica de estudios y análisis generada por el Consejo, sirva de base para la planeación y programación de las acciones de Gobierno dentro de las Dependencias del Sector Público;
 
 VI.- Promover y apoyar las investigaciones sobre la dinámica poblacional y sus componentes, que realice el Consejo por sí o en colaboración con Instituciones de Educación Superior así como con las de carácter científico y de investigación;
 
@@ -283,9 +351,11 @@ IV.- Designar y remover libremente al Secretario Técnico del Consejo;
 
 V.- Ejecutar las Demás que correspondan a su cargo.
 
+(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+
 ###### ARTICULO 32°.
 
-Son Atribuciones de la Secretaría General de Gobierno en Materia de Población, las siguientes:
+Son atribuciones de la Secretaría General de Gobierno en materia de población, las siguientes:
 
 I.- En las ausencias del Presidente del Consejo, el Titular presidirá las sesiones de la Junta Directiva;
 
@@ -293,7 +363,7 @@ II.- Participar y coordinar las actividades relacionadas con la política poblac
 
 III.- Coordinar y dirigir el Sub-comité Especial de Población en el Seno del Coplade, pudiendo designar como su representante al Secretario Técnico del Consejo;
 
-IV.- Conocer el Proyecto de Presupuesto de Egresos del Consejo para gestionarse ante la Secretaría de Planeación y Presupuesto;
+IV.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
 V.- Proponer y turnar al Gobernador los anteproyectos de Leyes, Reglamentos, Decretos, Convenios y Acuerdos sobre los asuntos de población;
 
@@ -303,37 +373,57 @@ VII.- Cumplir con las comisiones que le encomiende el Presidente del Consejo en 
 
 VIII.- Participar y apoyar las Campañas de Difusión del Consejo, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
 
-###### ARTICULO 33°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
-Son atribuciones de la Secretaría de Educación y Bienestar Social y del Instituto de Servicios Educativos y Pedagógicos del Estado de Baja California en Materia de Población las siguientes:
+###### ARTICULO 33o.
 
-I.- Promover y aplicar estrategias educativas que propicien la modificación de conceptos, actitudes, conductas y patrones culturales de la población respecto a un proyecto de vida familiar, en el cual se haga conciencia sobre la problemática demográfica;
+Son atribuciones del Organo Coordinador del Sistema Educativo Estatal en materia de población las siguientes:
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+I.- Promover y aplicar estrategias educativas que propicien la modificación de conceptos, actitudes, conductas y patrones culturales de la población respecto a un proyecto de vida familiar, en el cual se haga conciencia sobre la problemática de población enfocada al desarrollo;
 
 II.- Revisar, analizar y proponer ante la Autoridad competente contenidos de educación en población, con objeto de que se hagan las adecuaciones pertinentes en los planes y programas de estudio y libros de texto;
 
-III.- Elaborar material de apoyo educativo en materia demográfica;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-IV.- Actualizar y capacitar al personal a su cargo, así como orientar a los padres de familia en materia de educación en población;
+III.- Elaborar material de apoyo educativo que propicie y fortalezca la convicción de que toda sociedad que busque el desarrollo, debe impulsar su participación responsable para lograr conductas y actitudes creativas, informadas y con iniciativa de acción;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IV.- Actualizar y capacitar al personal a su cargo, así como orientar a los padres de familia en materia de educación en población cuyos esfuerzos concurran a lograr una verdadera comunidad que ordenadamente busque su superación;
 
 V.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 34°.
 
-Son atribuciones de la Secretaría de Asentamientos Humanos y Obras Públicas en Materia de Población, las siguientes:
+Son atribuciones de la Secretaría de Asentamientos Humanos y Obras Públicas en materia de población, las siguientes:
 
 I.- Apoyar los programas sobre distribución de la población que concuerden con un mejor aprovechamiento de la territorialidad disponible;
 
-II.- Solicitar la participación del Consejo en la realización de las investigaciones o estudios sociodemográficos que requiera la dependencia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+II.- Solicitar la orientación del Consejo en la realización de las investigaciones o estudios sociodemográficos que requiera la dependencia;
+
+III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IV.- Convenir con los organismos y dependencias afines, los mecanismos de participación en acciones referidas a las tareas de población.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 35°.
 
-Son atribuciones de la Secretaría de Finanzas en Materia de Población las siguientes:
+Son atribuciones de la Secretaría de Planeación y Finanzas en materia de población las siguientes:
 
-I.- Asesorar y dirigir al Consejo en el Servicio de Procesamiento Electrónico de datos, así como en la adquisición, uso y aprovechamiento de los recursos en Materia de Informática;
+I.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
-II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+
+III.- Apoyar y fomentar las acciones de población a través de los Subcomités a que se refiere la fracción II del Artículo 47 de esta Ley.
 
 ###### ARTICULO 36°.
 
@@ -347,25 +437,23 @@ III.- Participar y apoyar las campañas de difusión del Consejo, utilizando opo
 
 ###### ARTICULO 37°.
 
-Son atribuciones de la Secretaría de Planeación y Presupuesto en Materia de Población las siguientes:
+(DEROGADO P.O. 11 DE MAYO DE 2001)
 
-I.- Mantener actualizado el Sistema Estatal se (sic) Estadística e Información para la planeación, que opere el Subcomité Especial Técnico Regional de Estadística e Información Geográfica en el Seno del Comité de Planeación para el Desarrollo del Estado;
-
-II.- Apoyar y fomentar las acciones de población a través del Sub-comité de Población en el Comité de Planeación para el Desarrollo del Estado;
-
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 38°.
 
-Son atribuciones de la Dirección de Trabajo y Previsión Social en Materia de Población las siguientes:
+Son atribuciones de la Dirección de Trabajo y Previsión Social en materia de población las siguientes:
 
 I.- Concientizar al Sector Laboral del Estado, sobre la problemática demográfica Estatal y Nacional;
 
 II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 39°.
 
-Son atribuciones del Sistema Estatal para el Desarrollo Integral de la Familia en Materia de Población las siguientes:
+Son atribuciones del Sistema Estatal para el Desarrollo Integral de la Familia en materia de población las siguientes:
 
 I.- Fortalecer los objetivos institucionales del Organismo en lo referente a planificación familiar, Desarrollo de la Mujer y Fortalecimiento del Núcleo Familiar; con el propósito de fomentar la maternidad y paternidad responsable, contribuyendo al cambio de actitudes y conductas, para elevar el bienestar de la población;
 
@@ -373,27 +461,49 @@ II.- Realizar cursos de capacitación al personal a su cargo para el cumplimient
 
 III.- Elaborar mensajes dirigidos a la población para contribuir al fortalecimiento de los valores socioculturales y sus conductas;
 
-IV.- Participar y apoyar las campañas de Difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+IV.- Participar y apoyar las campañas de Difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+
+(ADICIONADA, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+
+V.- Reforzar sus objetivos institucionales en lo referente a su población y metas para impulsar una cultura de participación social, vinculando los mecanismos que permitan fortalecer el tejido social e impulsar el desarrollo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 40°.
 
-Son atribuciones del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y Municipios de Baja California en Materia de Población las siguientes:
+Son atribuciones del Organo Coordinador del Sistema Estatal de Salud en materia de población las siguientes:
 
-I.- Realizar acciones de planificación familiar con el propósito de impulsar y promover la maternidad y paternidad responsable;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-II.- Realizar cursos de capacitación al personal a su cargo y elaborar material de apoyo, sobre temas de planificación familiar;
+I.- Realizar acciones de salud con el propósito de impulsar y promover la maternidad y paternidad responsable;
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+II.- Realizar cursos de capacitación al personal a su cargo y elaborar material de apoyo, sobre temas de salud que impulsen la paternidad responsable;
+
+III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IV.- Fortalecer los objetivos institucionales del organismo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 41°.
 
-Con el propósito de que en la Planeación Demográfica Estatal participen los diferentes Sectores e Instituciones del Estado, el Consejo podrá invitar a sus sesiones de trabajo a representantes de los Sectores Social y Privado, así como a las demás Instituciones Académicas y de investigación superior que tengan a su cargo programas en Materia de Población de cobertura nacional, regional, estatal o municipal, con el fin de:
+Con el propósito de que en la Planeación Demográfica Estatal para el logro de un desarrollo participen los diferentes sectores e instituciones del Estado, el Consejo podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
 
-I.- Concretar acuerdos para realizar proyectos de investigación en Materia de Población;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+I.- Concretar acuerdos para realizar proyectos de investigación en la materia;
 
 II.- Impulsar el incremento de especialistas en las disciplinas relacionadas con la demografía;
 
-III.- Apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+III.- Apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+IV.- Integrar de acuerdo a la naturaleza de las acciones programáticas, grupos interinstitucionales con el fin de aglutinar, coordinar e impulsar acciones de población hacia el desarrollo.
 
 ### CAPITULO TERCER (SIC). DE LA SECRETARIA TECNICA
 
@@ -407,15 +517,21 @@ II.- Presentar ante la Junta Directiva el Programa;
 
 III.- Resolver bajo su inmediata y directa responsabilidad, los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta de la misma en la sesión inmediata siguiente;
 
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
 IV.- Formular el Calendario Oficial del Consejo y autorizar en casos extraordinarios, la suspensión de labores, previo acuerdo con el Secretario General de Gobierno;
 
-V.- Conceder licencias al personal en los términos de las leyes correspondientes;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+V.- Conceder licencias y permisos al personal en los términos de las leyes correspondientes;
 
 VI.- Vigilar las labores del personal del Consejo, exigiendo su debido cumplimiento e imponer las correcciones disciplinarias correspondientes;
 
 VII.- Coordinar las acciones que en Materia de Población realicen las dependencias y entidades de la Administración Pública Estatal y Municipal, así como los Sectores Social y Privado;
 
-VIII.- Establecer mecanismos de Coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+VIII.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
 
 IX.- Convocar a los Miembros del Consejo a Sesiones Ordinarias y Extraordinarias y, a los representantes de los Sectores Social y Privado cuando así se considere conveniente;
 
@@ -433,25 +549,37 @@ XV.- Rendir los informes y cuentas parciales que el Presidente del Consejo y la 
 
 XVI.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento de los objetivos del Consejo;
 
-XVII.- Proponer y promover la concertación De Acciones Conjuntas Entre Los Sectores Público, Social y Privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos que en el campo o la ciudad se encuentren desprotegidos de los beneficios del desarrollo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+XVII.- Proponer y promover la concertación de acciones conjuntas entre los sectores público, social y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos, que en el campo o la ciudad, se encuentren marginados de los beneficios del desarrollo;
 
 XVIII.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
 
-XIX.- Y en general, desempeñar las demás funciones que éste ordenamiento señala, las que el reglamento de ésta Ley indique, las del reglamento interior del consejo o aquellas que por disposiciones o acuerdos de la Junta Directiva o del Presidente del Consejo, le determinen.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+XIX.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de Gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
+
+XX.- En general, desempeñar las demás funciones que éste ordenamiento señala, las que el reglamento de ésta Ley indique, las del reglamento interior del consejo o aquellas que por disposiciones o acuerdos de la Junta Directiva o del Presidente del Consejo, le determinen. Para apoyar su función se integrará con las unidades administrativas y técnicas que la estructura requiera.
 
 ### CAPITULO CUARTO. DE LOS COMITES MUNICIPALES DE POBLACION
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 43°.
 
-Con El Fin De Coadyuvar A La Planeación Demográfica Del Estado y a La Descentralización de la Política De Población Para Lograr La Integración de las Políticas Locales que sobre la materia se dicten, en cada uno de los municipios del estado se integrará un Comité Municipal de Población. Dichos comités tendrán a su cargo la responsabilidad, en el ámbito de sus respectivas competencias, de que los programas, objetivos y acciones demográficas estatales se cumplan.
+Con el fin de coadyuvar al bienestar de la población, las líneas generales de acción en materia de población, deberán tomar en cuenta la planeación demográfica del Estado y a la descentralización de la política de población para lograr la integración de las políticas locales que sobre la materia se dicten, al efecto en cada uno de los municipios del Estado se integrará un Comité Municipal de Población. Dichos comités tendrán a su cargo la responsabilidad, en el ámbito de sus respectivas competencias, de que los programas, objetivos y acciones que sobre población, se coordinen interinstitucionalmente con las dependencias y organismos afines a dicha materia.
 
 ###### ARTICULO 44°.
 
 Los Comités Municipales de Población serán presididos por los Presidentes Municipales, y su integración y funcionamiento serán determinados por el Reglamento Municipal correspondiente.
 
+(REFORMADO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+
 ###### ARTICULO 45°.
 
-Los Comités Municipales de Población podrán suscribir acuerdos de coordinación y apoyo con el Consejo, a fin de que las políticas, programas y acciones que sobre la materia se lleven a cabo en el ámbito municipal, sean atendidas con mayor eficacia.
+Los presidentes de los Comités Municipales de Población deberán suscribir acuerdos de coordinación y apoyo con el Consejo, a fin de que las tareas, programas y acciones que sobre la política de población se lleven a cabo en el ámbito municipal, sean atendidas con mayor eficacia a través de los citados Comités Municipales.
 
 ###### ARTICULO 46°.
 
@@ -463,7 +591,9 @@ Los objetivos de los Comités Municipales de Población serán:
 
 I.- Planear, programar, organizar y realizar acciones en materia de población a nivel municipal, mediante la coordinación interinstitucional con las Dependencias Federales, Estatales y Municipales, así como los Sectores Social y Privado que actúen dentro de su ámbito territorial;
 
-II.- Conocer, analizar, implementar o integrar estudios sociodemográficos municipales, que permitan emplear los conocimientos en los principales problemas que afectan a la población, y proponer soluciones que puedan incorporarse en los planes municipales de desarrollo; dichos estudios procurarán ajustarse a los lineamentos establecidos por el Subcomité Especial Técnico Regional de Estadística e Información Geográfica del Comité de Planeación para el Desarrollo del Estado de Baja California;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+
+II.- Conocer, analizar, implementar o integrar estudios sociodemográficos municipales, que permitan ampliar los conocimientos en los principales problemas que afectan a la población, y proponer soluciones que puedan incorporarse en los planes municipales de desarrollo; dichos estudios procurarán ajustarse a los lineamentos establecidos por el Subcomité Especial Técnico Regional de Estadística e Información Geográfica y el Subcomité Especial de Población ambos del Comité de Planeación para el Desarrollo del Estado de Baja California;
 
 III.- Elaborar el Programa Municipal De Población enmarcado dentro de los programas estatal y nacional de población que responda a las características y necesidades propias del municipio, el cual tendrá una duración igual al Período Constitucional del Ayuntamiento que corresponda.
 
@@ -524,3 +654,9 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
