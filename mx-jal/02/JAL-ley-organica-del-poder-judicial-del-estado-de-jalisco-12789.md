@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2003-05-01"
+last_updated: "2003-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -767,9 +767,15 @@ El dictamen técnico, así como los demás datos, información y opiniones que s
 
 Para efectos de un adecuado control y evaluación de las labores del Tribunal de lo Administrativo, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
 
-XVII. Proponer al Pleno del Tribunal de lo Administrativo los nombramientos del Secretario del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal de lo Administrativo, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
-XVIII. Las demás que le confiera el Pleno del Tribunal.
+XVII. Proponer al Pleno del Tribunal de lo Administrativo los nombramientos del Secretario del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal de lo Administrativo, así como el del representante de este último, ante la correspondiente Comisión Substanciadora;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+
+XVIII. Tener voto de calidad, en caso de empate en las resoluciones del Pleno del Tribunal de lo Administrativo, relativos a los juicios y reclamaciones que promuevan sobre la aplicación de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios; y
+
+XIX. Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
@@ -811,9 +817,19 @@ XIV. Resolver los conflictos de trabajo suscitados entre el Tribunal de lo Admin
 
 XV. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, siguiendo los requisitos que señala el artículo 23 fracción XXVII de la presente ley;
 
-XVI. Designar, a propuesta de su Presidente, al representante del Tribunal de lo Administrativo ante la Comisión Substanciadora para los efectos señalados en la fracción anterior; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
-XVII. Las demás que determinen las leyes.
+XVI. Designar, a propuesta de su Presidente, al representante del Tribunal de lo Administrativo ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+
+XVII. El conocimiento y resolución de las reclamaciones que se presenten con motivo de la Ley de Responsabilidad Patrimonial del Estado de Jalisco y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+
+XVIII. El conocimiento y resolución de las reclamaciones presentadas por particulares por responsabilidad patrimonial del Tribunal de lo Administrativo; y
+
+XIX. Las demás que determinen las leyes.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -825,11 +841,11 @@ En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Trib
 
 En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 67.
 
-El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación y reclamación.
+El Pleno del Tribunal de lo Administrativo conocerá de los asuntos en que se dé trámite a recursos de apelación, reclamación y los que se deriven de la aplicación de la Ley de Responsabilidad Patrimonial del Estado y de los Municipios.
 
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2000)</small>
 
@@ -2976,3 +2992,13 @@ SEGUNDO.- El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el 
 P.O. 1 DE MAYO DE 2003.
 
 ÚNICO.- El presente decreto que contiene reformas a la Ley Orgánica del Poder Judicial del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las dependencias o entidades relacionados con la indemnización a los particulares, derivados de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo a las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+
+CUARTO.- El Gobierno del Estado y los ayuntamientos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año 2004, una partida que haga frente a su responsabilidad patrimonial.
