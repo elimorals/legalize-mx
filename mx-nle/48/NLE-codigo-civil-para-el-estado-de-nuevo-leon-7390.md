@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1993-04-02"
+last_updated: "1993-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -123,79 +123,83 @@ Las controversias judiciales del orden civil deberán resolverse conforme a la l
 
 Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro.- Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
 ###### Art. 21.
 
-Las normas conflictuales en asuntos del derecho civil, determinan las que deben ser aplicables a situaciones jurídicas creadas, con contacto del derecho extranjero.
+La ignorancia de las leyes no excusa su cumplimiento; pero los jueces teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan; siempre que no se trate de leyes que afecten directamente al interés público.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
+
+###### Art. 21 Bis.
+
+Las normas conflictuales en asuntos de derecho civil, determinan las que deben ser aplicables a situaciones jurídicas creadas, con contacto del derecho extranjero.
 
 Asimismo se aplicarán a aquellas que tuvieren contacto con normas de otras entidades federativas.
 
 Las normas conflictuales no se aplicarán en cuanto fueren incompatibles, con tratados o convenciones internacionales, de los cuales el estado mexicano sea parte actualmente, o lo sea en el futuro.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-###### Art. 21 Bis.
+Art. 21 Bis I.- Para la solución de situaciones jurídicas que requieran la aplicación de normas conflictuales, se aplicará el orden jurídico que tenga la más estrecha relación con ellas. Este principio dominante se observará en la interpretación de las siguientes disposiciones conflictuales creadas con esta finalidad por lo tanto el texto de cualquier disposición conflictual podrá ser pospuesto en todos aquellos casos en los cuales se justifique la presencia de una solución directamente basada en dicho principio.
 
-Para la solución de situaciones jurídicas que requieran la aplicación de normas conflictuales, se aplicará el orden jurídico que tenga la más estrecha relación con ellas. Este principio dominante se observará en la interpretación de las siguientes disposiciones conflictuales creadas con esta finalidad por lo tanto el texto de cualquier disposición conflictual podrá ser pospuesto en todos aquellos casos en los cuales se justifique la presencia de una solución directamente basada en dicho principio.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
-
-Art. 21 Bis I.- El derecho extranjero se aplicará de oficio como se haría en el territorio de su creación y vigencia original, de lo cual resulta también la obligación de las autoridades del Estado para proveerse de él, por lo tanto no queda sometido a la carga de prueba de las partes en cuanto a su existencia, contenido y vigencia, sin perjuicio de que las partes puedan probar, alegar o coadyuvar, para obtener la información necesaria sobre dicho derecho extranjero.
+Art. 21 Bis II.- El derecho extranjero se aplicará de oficio como se haría en el territorio de su creación y vigencia original, de lo cual resulta también la obligación de las autoridades del Estado para proveerse de él, por lo tanto no queda sometido a la carga de prueba de las partes en cuanto a su existencia, contenido y vigencia, sin perjuicio de que las partes puedan probar, alegar o coadyuvar, para obtener la información necesaria sobre dicho derecho extranjero.
 
 Para su aplicación se observarán los criterios judiciales y doctrinales que se relacionen con el derecho extranjero, en la medida en que no sean incompatibles con las normas interpretativas del Estado.
 
-Si no se obtuviere la información que se requiere para aplicar el derecho extranjero a un caso determinado en el plazo que discrecionalmente se fije por la autoridad, se aplicará en su lugar el derecho local, observándose en cada caso las circunstancias específicas que exijan reducción del plazo hasta determinar la aplicación inmediata del derecho local, así como para el dictado de providencias precautorias.
+Si no se obtuviere la información que se requiera para aplicar el derecho extranjero a un caso determinado en el plazo que discrecionalmente se fije por la autoridad, se aplicará en su lugar el derecho local, observándose en cada caso las circunstancias específicas que exijan reducción del plazo hasta determinar la aplicación inmediata del derecho local, así como para el dictado de providencias precautorias.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis II.- Las remisiones a un Derecho extranjero incluyen también las disposiciones remisorias contenidas en el mismo a no ser que estos reenvíos sean incompatibles con la finalidad de remisiones establecidas en el Derecho local o en un Derecho extranjero o, que se disponga otra cosa en la propia legislación conflictual en forma de remisiones expresamente limitadas al Derecho sustantivo de un Estado extranjero. Se observarán reenvíos solamente hasta el grado de que ellos conduzcan en forma de regreso a las apropias (sic) leyes o a las de un Estado extranjero ya incluído en la serie de envíos, casos en los cuales se aplicarán únicamente las normas sustantivas locales o las de dicho Estado extranjero, respectivamente, sin tomar en consideración normas conflictuales del propio Derecho local o, en su caso, del Estado Extranjero mencionado.
+Art. 21 Bis III.- Las remisiones a un Derecho extranjero incluyen también las disposiciones remisorias contenidas en el mismo a no ser que estos reenvíos sean incompatibles con la finalidad de remisiones establecidas en el derecho local o en un derecho extranjero o, que se disponga otra cosa en la propia legislación conflictual en forma de remisiones expresamente limitadas al derecho sustantivo de un estado extranjero. Se observarán reenvíos solamente hasta el grado de que ellos conduzcan en forma de regreso a las propias leyes o a las de un Estado extranjero ya incluído en la serie de envíos, casos en los cuales se aplicarán únicamente las normas sustantivas locales o las de dicho Estado extranjero, respectivamente, sin tomar en consideración normas conflictuales del propio derecho local o, en su caso, del Estado extranjero mencionado.
 
-Los convenios relativos a la aplicación de un Derecho extranjero tienen validez en las situaciones expresamente admitidas para tal objeto en el derecho local conflictual. Estos convenios deben tener forma escrita. El establecimiento de la aplicación de cierto Derecho en un convenio, se entiende solamente relacionado con el Derecho sustantivo correspondiente, sin inclusión de las normas conflictuales del mismo orden jurídico, a no ser que en el convenio se refiera expresamente a la inclusión de estas normas.
+Los convenios relativos a la aplicación de un Derecho extranjero tienen validez en las situaciones expresamente admitidas para tal objeto en el Derecho Local conflictual. Estos convenios deben tener forma escrita. El establecimiento de la aplicación de cierto Derecho en un convenio, se entiende solamente relacionado con el derecho sustantivo correspondiente, sin inclusión de las normas conflictuales del mismo orden jurídico, a no ser que en el convenio se refiera expresamente a la inclusión de estas normas.
 
 La posición y los intereses jurídicos de terceros de buena fe no son afectables por tal convenio, si éste se celebra con posterioridad a la constitución de dicha posición.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis III.- Las situaciones jurídicas válidamente creadas en el extranjero deberán ser reconocidas en el Estado.
+Art. 21 Bis IV.- Las situaciones jurídicas válidamente creadas en el extranjero deberán ser reconocidas en el Estado.
 
-Un cambio posterior en las situaciones relevantes en forma constitutiva para la aplicación de cierto Derecho, no surte efectos a las situaciones ya perfeccionadas, como las relaciones de tracto simultáneo en tanto que respecto a las sucesivas se causen efectos para el tiempo a partir del cambio.
+Un cambio posterior en las situaciones relevantes en forma constitutiva para la aplicación de cierto derecho, no surte efectos a las situaciones ya perfeccionadas, como las relaciones de tracto simultáneo en tanto que respecto a las sucesivas se causen efectos para el tiempo a partir del cambio.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis IV.- Las cuestiones previas, preliminares, o incidentales que se presenten en una cuestión principal, no se resolverán necesariamente conforme a la Ley que regule esta última.
+Art. 21 Bis V.- Las cuestiones previas, preliminares, o incidentales que se presenten en una cuestión principal, no se resolverán necesariamente conforme a la ley que regule esta última.
 
-En cada caso se observará el principio de la relación más estrecha a que se refiere el Artículo 21 Bis I y la existencia de normas conflictuales que tengan relación con tales cuestiones en forma independiente, de las que se apliquen a la cuestión principal.
+En cada caso se observará el principio de la relación mas estrecha a que se refiere el artículo 21 Bis II y la existencia de normas conflictuales que tengan relación con tales cuestiones en forma independiente, de las que se apliquen a la cuestión principal.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis V.- El Estado, la capacidad y el estatuto de las personas físicas se rigen por el derecho vigente de su domicilio.
+Art. 21 Bis VI.- El estado, la capacidad y el estatuto de las personas físicas se rigen por el derecho vigente en su domicilio.
 
-La existencia, capacidad para ser titular de derechos y obligaciones, el funcionamiento corporativo, transformación, fusión disolución, liquidación, responsabilidad de socios o asociados y las facultades de los órganos de las personas morales extranjeras de derecho civil, se regirán por el derecho aplicado a su contitución (sic).
+La existencia, capacidad para ser titular de derechos y obligaciones, el funcionamiento corporativo, transformación, fusión, disolución, liquidación, responsabilidad de socios o asociados y las facultades de los órganos de las personas morales extranjeras de derecho civil, se regirán por el derecho aplicado a su constitución.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis VI.- La forma de los actos jurídicos se regirá por el derecho del lugar donde se celebren, por aquel que fuere aplicable a los efectos de los actos o por las disposiciones del derecho local, cuando en el último caso hayan de tener efectos en el Estado.
+Art. 21 Bis VII.- La forma de los actos jurídicos se regirá por el derecho del lugar donde se celebren, por aquel que fuere aplicable a los efectos de los actos o por las disposiciones del derecho local, cuando en el último caso hayan de tener efectos en el Estado.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis VII.- No se aplicará una disposición extranjera, si conduce a un resultado incompatible con el orden público propio; en su lugar se aplicará el derecho local. Este regirá en la misma medida, en los casos en los cuales el derecho extranjero carezca de normas, cuya existencia directa pertenezca al orden público.
+Art. 21 Bis VIII.- No se aplicará una disposición extranjera, si conduce a un resultado incompatible con el orden público propio; en su lugar se aplicará el Derecho Local. Este regirá en la misma medida, en los casos en los cuales el derecho extranjero carezca de normas, cuya existencia directa pertenezca al orden público.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1993)</small>
 
-Art. 21 Bis VIII.- Si en una remisión o reenvío se determina el Derecho de un Estado extranjero con dos o más unidades territoriales en las que rijan distintos ordenes jurídicos parciales, como en una Federación los Códigos locales, sin que en esta determinación conflictual se señale concretamente la unidad correspondiente, se elegirá ésta conforme al sentido y la finalidad de tal determinación conflictual o según la reglamentación interlocal del país extranjero, pero siempre con observancia del principio de la relación más estrecha.
+Art. 21 Bis IX.- Si en una remisión o reenvío se determina el Derecho de un Estado extranjero con dos o más unidades territoriales en las que rijan distintos órdenes jurídicos parciales, como en una Federación los códigos locales, sin que en esta determinación conflictual se señale concretamente la unidad correspondiente, se elegirá ésta conforme al sentido y la finalidad de tal determinación conflictual o según la reglamentación interlocal del país extranjero, pero siempre con observancia del principio de la relación más estrecha.
 
-Si se remite al Derecho mexicano sin que se exprese en la remisión la entidad federativa mexicana cuyas leyes deben ser aplicadas, la determinación de las últimas, se efectuará de conformidad conducente con los otros medios establecidos en la parte final del párrafo anterior, entrando, sin embargo, en lugar de la reglamentación interlocal extranjera la mexicana y en el lugar de la determinación conflictual mexicana la extranjera.
+Si se remite al derecho mexicano sin que se exprese en la remisión la entidad federativa mexicana cuyas leyes deben ser aplicadas, la determinación de las últimas, se efectuará de conformidad conducente con los otros medios establecidos en la parte final del párrafo anterior, entrando, sin embargo, en lugar de la reglamentación interlocal extranjera la mexicana y en el lugar de la determinación conflictual mexicana la extranjera.
 
-A las relaciones exclusivamente interlocales se aplicarán las normas conflictuales conforme a los (sic) siguiente:
+A las relaciones exclusivamente interlocales se aplicarán las normas conflictuales conforme a lo siguiente:
 
-a).- Se aplicará lo dispuesto en los Artículos 21, 21 Bis I, 21 Bis II, 21 Bis III, 21 Bis IV, 21 Bis V y 21 Bis VI; en lo que se estime conducente.
+A).- Se aplicará lo dispuesto en los Artículos 21 Bis, 21 Bis II, 21 Bis III, 21 Bis IV, 21 Bis V, 21 Bis VI, 21 Bis VII; en lo que se estime conducente.
 
-b).- Las normas de una entidad federativa solo tendrán efectos en su propio territorio, no siendo en consecuencia obligatoria fuera de él.
+B).- Las normas de una entidad federativa sólo tendrán efectos en su propio territorio, no siempre en consecuencia obligatoria fuera de él.
 
 La adquisición, constitución, tenencia y terminación de derechos reales y el uso sobre bienes muebles e inmuebles, así como su calificación se rigen por el derecho del lugar en que se hubieren encontrado al tiempo de la creación de los supuestos legales correspondientes, a no ser que se trate de relaciones sometidas a una ley específica como las de sucesión.
 
-Los actos del estado civil que se efectúen conforme a las leyes de una entidad federativa, tendrán validez en el Estado.
+Los actos del estado civil que se efectúen conforme a las leyes de una entidad federativa, tendrán validez en el estado.
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
@@ -3047,7 +3051,7 @@ VI.- Los directores de establecimientos de beneficencia pública.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XVI de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
-> <small>(ADICIONADO, P. O. 2 DE AGOSTO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 2 DE AGOSTO DE 1991)</small>
 
 ### CAPITULO XVI. DEL ESTADO DE INTERDICCION
 
@@ -14915,13 +14919,19 @@ Los interesados deberán presentar para su registro los documentos por duplicado
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
 ###### Art. 2910.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituído, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y previo pago de los derechos correspondientes, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el Registro definitivo. Si el testimonio se presenta después, su registro solo surtirá efectos desde la fecha de la presentación.
+En los casos de trámites para adquisición, transmisión, modificación o extinción de la propiedad o posesión de bienes raíces o para que se haga constar un crédito que tenga preferencia desde que se ha registrado, únicamente el Notario Público ante quien se realicen dichos trámites, bajo su más estricta responsabilidad, incluirá en la solicitud que haga para esos efectos, del certificado de gravámenes o de libertad de éstos, la expresión "con carácter de aviso pre-preventivo", señalando los datos esenciales y los nombres de las personas entre quienes se propala la operación, lo que bastará para que el Registrador Público, previo el pago de los derechos correspondientes, haga inmediatamente la anotación al margen de la inscripción de propiedad, misma que surtirá efectos durante treinta días naturales.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2903, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Si antes de transcurrir los treinta días, los propalantes de la operación suprimen definitivamente los trámites, el Notario Público está obligado a comunicarlo de inmediato al Registrador, para que éste cancele la anotación pre-preventiva.
+
+Cuando quede debidamente comprobado que el aviso pre-preventivo se presentó sin darse los supuestos anteriores y se origine en consecuencia la simulación de un acto que acarrée perjuicio a terceros, el fedatario público se hará acreedor a que el Ejecutivo del Estado le revoque la patente.
+
+Una vez que se firme la escritura, en los casos a que se refiere el primer párrafo de este Artículo, el Notario que la autorice dará al Registro el aviso en el que conste el inmueble de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre él, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo o sección en que estuviere inscrita la propiedad en el Registro. El Registrador, previo el pago de los derechos correspondientes, hará, inmediatamente de recibido el aviso, la anotación preventiva al margen de la inscripción de propiedad. Si dentro de los dos meses siguientes a la fecha en que se hubiere firmado la escritura se presentare testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación pre-preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+
+Si fuere privado el documento en que conste alguna de las citadas operaciones, deberán dar el aviso a que se refiere la primera parte del párrafo anterior, las autoridades de que habla la Fracción III del Artículo 2903, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
 
 ###### Art. 2911.
 
@@ -15317,8 +15327,22 @@ PRIMERO:- Se derogan los artículos 1046, 1047, 1048, 1049, 1050, 1051, 1052, 10
 
 SEGUNDO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-TERCERO:- Se derogan todas aquellas disposiciones contrarias a las normas conflictuales consagradas en los Artículos del 21 al 21 Bis VIII.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
+
+TERCERO:- Se derogan todas aquellas disposiciones contrarias a las normas conflictuales consagradas en los Artículos del 21 Bis al 21 Bis IX.
 
 P.O. 2 DE ABRIL DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 1993.
+
+DECRETO No. 177.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 1993.
+
+DECRETO No. 178
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
