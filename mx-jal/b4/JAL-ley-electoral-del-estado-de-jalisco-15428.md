@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2000-10-05"
+last_updated: "2001-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -271,7 +271,9 @@ V. No ser Presidente o consejero ciudadano de la Comisión Estatal de Derechos H
 
 VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del despacho del Poder Ejecutivo, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo General del Poder Judicial o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2001)</small>
+
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Procurador Social, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo General del Poder Judicial o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
@@ -405,7 +407,9 @@ En caso de falta temporal o absoluta de los diputados electos por el principio d
 
 La elección de diputados por el principio de representación proporcional, se verificará con base a la lista que para tal efecto presenten los partidos políticos para la circunscripción plurinominal y a la modalidad de porcentajes mayores.
 
-Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva, del doble de los diputados a elegir por la modalidad de lista de representación proporcional.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2001)</small>
+
+Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de veinte diputados a elegir por la modalidad de lista de representación proporcional.
 
 El Consejo Electoral del Estado, al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos el número de diputados por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida.
 
@@ -4776,3 +4780,9 @@ Tercero.- Lo dispuesto en el artículo 60 segundo párrafo de esta Ley, no será
 P.O. 5 DE OCTUBRE DE 2000.
 
 ÚNICO.- Las presentes reformas a la Ley Electoral del Estado de Jalisco entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", pero no se aplicarán al proceso electoral estatal de noviembre de 2000.
+
+P.O. 7 DE JUNIO DE 2001.
+
+PRIMERO. Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO. El presente decreto entrará en vigor el primero de marzo de 2001, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
