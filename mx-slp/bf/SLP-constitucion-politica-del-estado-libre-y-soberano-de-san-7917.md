@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1958-11-13"
+last_updated: "1968-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1968.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -605,7 +605,9 @@ ART. 56.- Son facultades y obligaciones del Gobernador:
 
 I.- Publicar y hacer cumplir las leyes federales; promulgar, publicar y ejecutar las leyes del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-II.- Formar instrucciones y reglamentos para el mejor funcionamiento de la administración pública, presentándolos al Congreso para su aprobación;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 1968)</small>
+
+II.- Expedir instructivos y reglamentos para el mejor funcionamiento de la Administración Pública;
 
 III.- Nombrar y remover libremente al Secretario de Gobierno y a todos los empleados de la Secretaría. Suspender hasta por tres meses y privar hasta por la mitad del sueldo, por el mismo tiempo, a todos los empleados de su nombramiento, por faltas comprobadas cometidas en el desempeño de sus empleos; o consignarlos, con sus antecedentes, a la autoridad competente, cuando juzgue que se les debe formar causa;
 
@@ -1168,3 +1170,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE NOVIEMBRE DE 1958.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 6 DE JUNIO DE 1968.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
