@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1927-01-22"
+last_updated: "1928-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 1928.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -856,17 +856,15 @@ VI.- No ser secretario o subsecretario de Estado, ni gobernador de algún Estado
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
-> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 1927)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 1928)</small>
 
 ###### Art. 83.
 
-El Presidente entrará a ejercer su encargo el primero de diciembre del año en que se celebre la elección; durará en él cuatro años, aunque durante este período hubiere obtenido licencia en los casos que permita la Constitución.
-
-No podrá ser electo para el período inmediato. Pasado éste, podrá desempeñar nuevamente el cargo de Presidente, sólo por un período más. Terminado el segundo período de ejercicio, quedará definitivamente incapacitado para ser electo y desempeñar el cargo de Presidente en cualquier tiempo.
+El Presidente entrará a ejercer su encargo, el primero de diciembre; durará en él seis años y nunca podrá ser reelecto para el período inmediato.
 
 El ciudadano que substituyere al Presidente Constitucional, en caso de falta absoluta de éste, no podrá ser electo Presidente para el período inmediato.
 
-Tampoco podrá ser electo para el período inmediato el ciudadano que fuere nombrado Presidente interino en las faltas temporales del Presidente Constitucional.
+Tampoco podrá ser electo Presidente para el período inmediato, el ciudadano que fuere nombrado Presidente Interino en las faltas temporales del Presidente Constitucional.
 
 ###### Art. 84.
 
@@ -1535,3 +1533,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 22 DE ENERO DE 1927.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 24 DE ENERO DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
