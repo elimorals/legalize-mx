@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2000-06-01"
+last_updated: "2002-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2002.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -6926,13 +6926,15 @@ ARTICULO 903
 
 Si a la petición de declaración de minoridad se acompaña la certificación del registro civil, se hará la declaración de plano. En caso contrario se citará inmediatamente a una audiencia dentro del tercero día a la que concurrirá el menor si fuere posible y el Ministerio Público. En ella con o sin la asistencia de éste y por las certificaciones del registro civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 904
 
-La declaración de incapacidad por causa de demencia, se acreditará en juicio ordinario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ENERO DE 2002)</small>
 
-Como diligencias prejudiciales se practicarán las siguientes:
+La declaración de incapacidad por alguna de las causas a que re (sic) refiere el artículo 450, fracción II, del Código Civil para el Distrito Federal: se acreditará en juicio ordinario que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ENERO DE 2002)</small>
+
+Como deligencias (sic) prejudiciales se practicarán las siguientes:
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
@@ -6942,43 +6944,71 @@ I.- Recibida la demanda de interdicción, el juez ordenará las medidas tutelare
 
 II.- Los médicos que practiquen el examen deberán ser designados por el juez y serán de preferencia alienistas o de la especialidad correspondiente. Dicho examen se hará en presencia del juez previa citación de la persona que hubiere pedido la interdicción y del Ministerio Público.
 
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
+
 III.- Si del dictamen pericial resultare comprobada la incapacidad, o por lo menos hubiere duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el juez proveerá las siguientes medidas:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 a).- Nombrar tutor y curador interinos, cargos que deberán recaer en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlos: padre, madre, cónyuge, hijos, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el juez resolverá atendiendo a las circunstancias. En caso de no haber ninguna de las personas indicadas o no siendo aptas para la tutela el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencias con el solicitante de la declaración.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
 b).- Poner los bienes del presunto incapacitado bajo la administración del tutor interino. Los de la sociedad conyugal, si la hubiere, quedarán bajo la administración del otro cónyuge.
-
-c).- Proveer legalmente de la patria potestad o tutela o las personas que tuviere bajo su guarda el presunto incapacitado.
-
-De la resolución en que se dicten las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo.
-
-IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el juez designará peritos terceros en discordia.
-
-V.- Hecho lo anterior el juez citará a una audiencia, en la cual, si estuvieren conformes el tutor y el Ministerio Público con el solicitante de la interdicción, dictará resolución declarando o no esta.
-
-Si en dicha audiencia hubiere oposición de parte, se sustanciará en juicio ordinario con intervención del Ministerio Público.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
+c).- Proveer legalmente de la patria potestad o tutela o las personas que tuviere bajo su guarda el presunto incapacitado.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+De la resolución en que se dicten las providencias mencionadas en este artículo procede el recurso de apelación en el efecto devolutivo.
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
+
+IV.- Dictadas las providencias que establecen las fracciones anteriores se procederá a un segundo reconocimiento médico del presunto incapacitado, con peritos diferentes, en los mismos términos que los señalados por la fracción II. En caso de discrepancia con los peritos que rindieron el primer dictamen se practicará una junta de avenencia a la mayor brevedad posible y si no la hubiere el juez designará peritos terceros en discordia.
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2002)</small>
+
+V. Hecho lo anterior el juez citará a una audiencia, en la cual si estuvieren conformes el Tutor y el Ministerio Público con el solicitante de la interdicción, dictará la resolución que la declare. En caso de que en la resolución se haya declarado la interdicción, ésta deberá establecer el alcance de la capacidad y determinar la extensión y límites de la Tutela, en los términos enunciados en el segundo párrafo del Artículo 462 del Código civil para el Distrito Federal.
+
+Si en dicha audiencia hubiera oposición de parte, se substanciará un Juicio Ordinario con intervención del Ministerio Público.
+
 ARTICULO 905
 
-En el juicio ordinario a que se refiere el artículo anterior se observarán las reglas siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ENERO DE 2002)</small>
+
+En el juicio ordinario a que se refiere el artículo anterior, se observarán las siguientes reglas:
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 I.- Durante el procedimiento subsistirán las medidas decretadas conforme al artículo anterior y se podrán modificar por cambio de circunstancias o por la aportación de nuevos datos que funden su conveniencia.
 
-II.- El presunto incapacitado será oído en juicio si él lo pidiera, independientemente de la representación atribuida al tutor interino.
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
-III.- El estado de incapacidad puede probarse por cualquier medio idóneo de convicción; pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas del servicio Médico Legal o de instituciones médicas oficiales. Cada parte puede nombrar un perito médico para que intervenga en la audiencia y rinda su dictamen. El examen del presunto incapacitado se hará en presencia del Juez con citación de las partes y del Ministerio Público. El juez podrá hacer al examinado, a los médicos, a las partes y a los testigos cuantas preguntas estime convenientes para calificar el resultado de las pruebas.
+II.- El presunto incapacitado será oído en juicio, si él lo pidiera, independientemente de la representación atribuida al tutor interino.
+
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2002)</small>
+
+III.- El estado de incapacidad puede probarse por cualquier medio idóneo de convicción; pero en todo caso se requiere la certificación de dos médicos o psicólogos, por lo menos, preferentemente de instituciones de salud oficiales. Cada parte puede nombrar un perito médico para que intervenga en la audiencia y rinda su dictamen. El examen del presunto incapacitado se hará en presencia del Juez, con citación de las partes y del Ministerio Público. El juez podrá hacer al examinado, a los médicos, a las partes y a los testigos cuantas preguntas estime convenientes para calificar el resultado de las pruebas.
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 IV.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente, previa autorización judicial.
 
-V.- Luego que cauce (sic) ejecutoria la sentencia de interdicción, se procederá a nombrar y discernir el cargo de tutor definitivo que corresponda conforme a la Ley.
+> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2002)</small>
+
+V.- Una vez que cause ejecutoria la sentencia de interdicción se procederá a nombrar y discernir el cargo de tutor o en el caso de excepción, los cargos de tutores definitivos, delimitando su responsabilidad de acuerdo a la ley.
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 VI.- El tutor interino deberá rendir cuentas al tutor definitivo con intervención del curador.
 
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
+
 VII.- Las mismas reglas en lo conducente se observará (sic) para el juicio que tenga por objeto hacer cesar la interdicción.
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
 
 VIII.- El que dolosamente promueva juicio de incapacidad, será responsable de los daños y perjuicios que con ello ocasione, independientemente de la responsabilidad penal que fije la ley de la materia.
 
@@ -8245,3 +8275,9 @@ Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en e
 G.O. 1 DE JUNIO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE ENERO DE 2002.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
