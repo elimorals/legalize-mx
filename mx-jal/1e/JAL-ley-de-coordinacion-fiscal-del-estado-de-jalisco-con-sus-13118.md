@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2000-09-19"
+last_updated: "2000-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -106,11 +106,21 @@ I. De los ingresos Federales. Se aplicarán los siguientes criterios y parámetr
 
 a) 45% en proporción al número de habitantes de cada municipio en relación al total estatal. El número de habitantes de cada municipio se tomará de la última información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
-b) 40% en proporción a los ingresos propios, que haya tenido cada uno de los municipios con respecto al total de ellos, durante el ejercicio fiscal anterior.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
-c) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos, y
+b) 20% en proporción a lo que reciban de participaciones y aportaciones federales;
 
-d) 5% en proporción al índice de marginalidad según la información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+c) 20% en función a su propia recaudación, es decir, lo que perciban por concepto de contribuciones municipales;
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+d) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos, y
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+e) 5% en proporción al índice de marginalidad según la información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
 II. De los impuestos estatales.
 
@@ -353,3 +363,7 @@ P.O. 19 DE SEPTIEMBRE DE 2000.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2000.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
