@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2003-03-13"
+last_updated: "2003-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -211,7 +211,7 @@ a) La formulación y conducción de la política estatal de comunicaciones y tra
 
 b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
 
@@ -395,7 +395,7 @@ IX. Autorizar la localización y características de los elementos que integran 
 
 X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
 
@@ -1419,7 +1419,9 @@ II. Acreditar en la forma que precise el reglamento; y
 
 III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, conductores y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
 
-La falta de solicitud de prórroga en el plazo previsto en este artículo, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ella se deriven.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+La falta de solicitud de prórroga en el plazo previsto en este artículo, será sancionado de 20 a 50 días de salario mínimo general, vigente en la zona económico (sic) que se trate. Si pasados 10 días hábiles de que a través del Registro Estatal se haya impuesto legalmente la sanción mencionada, no se tramita la prórroga, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ellas se deriven.
 
 La autoridad deberá comunicar al interesado lo resuelto a su solicitud, así como informar el contenido de su resolución al Registro Estatal y a la Secretaría de Finanzas. Si presentada en tiempo y forma la solicitud y esta no es contestada por la autoridad dentro de un plazo de noventa días, se entenderá favorable la misma al interesado.
 
@@ -1547,7 +1549,9 @@ I. El concesionario acredite la titularidad de la concesión y sus elementos, me
 
 II. El concesionario compruebe estar al corriente en el pago de los impuestos y derechos correspondientes y haber cumplido todas las obligaciones a su cargo que deriven de la concesión;
 
-III. La autoridad debe notificar previamente a quienes, en los términos de esta Ley, tienen derecho de preferencia para adquirir la concesión, a fin de que hagan valer su derecho al tanto;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+III. Realizar el pago de los derechos que se establecen en la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
 
 IV. El adquirente, sea persona física o jurídica, llene los requisitos establecidos para el otorgamiento de la concesión, y sea calificada y aceptada por la autoridad competente que la otorgó; y
 
@@ -1797,7 +1801,7 @@ XII. Por violaciones a esta Ley y a su reglamento que alteren substancialmente l
 
 XIII. Por exigirlo así el interés público.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO P.O. 15 DE JUNIO DE 1999)</small>
 
 Las resoluciones administrativas que acuerden la revocación de las concesiones de transporte podrán ser impugnadas mediante la interposición de los medios de defensa que correspondan, en los términos previstos en el capítulo VIII de esta ley.
 
@@ -2808,3 +2812,9 @@ Segundo.- Se otorga un plazo de 30 días hábiles posteriores a la entrada en vi
 P.O. 13 DE MARZO DE 2003.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estad (sic) de Jalisco".
+
+P.O. 8 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los concesionarios y permisionarios del transporte público, que no hayan realizado la solicitud de prórroga, tendrán un plazo de 60 días posteriores a la entrada en vigor del presente decreto, para solicitarla.
