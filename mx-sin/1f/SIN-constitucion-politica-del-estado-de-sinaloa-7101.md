@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1988-12-28"
+last_updated: "1989-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1989.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -233,7 +233,7 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
 
 ###### Art. 24.
 
@@ -245,11 +245,11 @@ En la elección de los Diputados de representación proporcional, la circunscrip
 
 Para que un partido político obtenga el registro de su lista estatal en la elección de Diputados de representación proporcional, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en por lo menos siete de los distritos uninominales.
 
-Sólo tendrán derecho a que se les asignen diputados de representación proporcional, los partidos que no hayan obtenido 4 o más constancias de mayoría y que como mínimo alcancen el 2.5% del total de la votación recibida por todas las listas estatales.
+Sólo tendrán derecho a que se les asignen Diputados de representación proporcional, los partidos que no hayan obtenido 4 o más constancias de mayoría y que como mínimo alcancen el 1.5 por ciento del total de la votación recibida por todas las listas estatales.
 
-Cuando dos o más partidos con derecho a participar en la distribución de diputados de representación proporcional obtengan en su conjunto 6 o más constancias de mayoría, sólo serán objeto de reparto 3 de las curules que deban asignarse por el sistema de representación proporcional.
+Cuando dos o más partidos con derecho a participar en la distribución de Diputados de representación proporcional obtengan en su conjunto seis o más constancias de mayoría, sólo serán objeto del reparto tres de las curules que deban asignarse por el sistema de representación proporcional.
 
-El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos obtenidos en la circunscripción, mediante la aplicación de las fórmulas electorales y procedimientos de asignación que señale la Ley. En todo caso, la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
+El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos obtenidos en la circunscripción, mediante la aplicación de las fórmulas electorales y procedimientos de asignación que señala la ley. En todo caso, la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
 
 ###### Art. 25.
 
@@ -423,7 +423,7 @@ III. Decretar toda clase de imposiciones tributarias necesarias para cubrir el p
 
 IV. Iniciar leyes o sus reformas ante el Congreso de la Unión.
 
-V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto el (sic) mismo, a la ratificación del Congreso de la Unión.
+V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto del mismo, a la ratificación del Congreso de la Unión.
 
 VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de la fijación de sus límites.
 
@@ -627,7 +627,7 @@ IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisio
 
 X. Decretar en caso grave, la traslación provisional de los Poderes del Estado fuera del lugar de su residencia.
 
-XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción I del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
+XI. Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hallan (sic) consignadas en esta Constitución.
 
 ###### Art. 51.
 
@@ -2354,3 +2354,9 @@ Mientras se instale la Tercera Sala, el Supremo Tribunal de Justicia será compu
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
