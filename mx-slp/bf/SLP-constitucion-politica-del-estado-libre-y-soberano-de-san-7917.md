@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1984-01-24"
+last_updated: "1987-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1987.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -607,51 +607,49 @@ De la responsabilidad de los Funcionarios Públicos.
 
 ART. 50.- El ejercicio del Poder Ejecutivo se depositará en un solo individuo que se denominará Gobernador Constitucional del Estado; su elección será directa y en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
 ART. 51.- Para ser Gobernador del Estado, se necesita:
 
-I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos;
+I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos.
 
-II.- Ser originario del Estado o nacido fuera del mismo, pero hijo de padre o madre potosinos por nacimiento, con una residencia no menor de un año inmediatamente anterior a la fecha de la elección; y si se trata de potosinos por vecindad, la residencia deberá ser de diez años;
+II.- Ser nativo del Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
 
-III.- Tener veinticinco años cumplidos el día de la elección y menos de sesenta;
+III.- Tener treinta y cinco años cumplidos al tiempo de la elección.
 
-IV.- No estar en servicio activo en el Ejército Nacional, a menos que se separe del mismo, con licencia absoluta, por lo menos un año antes de la fecha de la elección;
+IV.- No estar en servicio activo en el Ejército Nacional, a menos que se separe del mismo con licencia absoluta por lo menos un año antes de la fecha de la elección, ni ser funcionario o empleado del Estado, por lo menos seis meses antes de la elección.
 
-V.- No ser funcionario o empleado del Estado, por lo menos seis meses antes de la elección, ni haber suplido, durante el mismo lapso, las faltas temporales del Gobernador Constitucional, y
+V.- No tener pendiente ninguna responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la Federación o en los Estados y no haber sido condenado por delito intencional.
 
-VI.- No tener pendiente ninguna responsabilidad con motivo de los cargos públicos que haya desempeñado en la Federación o en los Estados, ni haber sido condenado por delito infamante alguno.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+ART. 52.- El Gobernador del Estado lo será por elección directa, no podrá durar en su encargo más de seis años e iniciará su ejercicio el día 26 de septiembre.
 
-ART. 52.- El Gobernador comenzará a ejercer sus funciones el día 26, veintiséis de septiembre; durará en su encargo seis años y no podrá se (sic) reelecto.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-El que substituya al Gobernador Constitucional, en caso de falta absoluta de éste, no podrá volver a ser Gobernador.
+ART. 53.- El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-Tampoco podrá ser electo Gobernador el que hubiese sido nombrado Gobernador Provisional, en el caso de desaparición de Poderes.
+Nunca podrán ser electos para el período inmediato:
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
+A).- El Gobernador Substituto Constitucional, designado para concluir el período en caso de falta absoluta de acuerdo con la Constitución, aún cuando tenga distinta denominación;
 
-ART. 53.- Para cubrir las faltas temporales del Gobernador del Estado, el Congreso si es el caso, o en su defecto la Diputación Permanente, nombrará de inmediato Gobernador Provisional.
+B).- El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo, los dos últimos años del período.
 
-En el caso que antecede, si el Gobernador Provisional desempeña el cargo durante los dos últimos años del período constitucional, no podrá ser electo para el período inmediato.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+ART. 54.- Para cubrir las faltas temporales del Gobernador del Estado, el Congreso, si es el caso, o en su defecto la Diputación Permanente, nombrará de inmediato al Gobernador Provisional.
 
-ART. 54.- En caso de falta absoluta del Gobernador del Estado, ocurrida en los tres primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto, y por mayoría absoluta de votos, un Gobernador Interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador Interino, la Convocatoria para la elección del Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la Convocatoria y la que se señale para la verificación de la elección, un plazo no menor de catorce meses ni mayor de dieciocho.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que debe concluir el período respectivo, debiendo mediar, entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de catorce meses ni mayor de dieciocho. Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego, un Gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que ésta, a su vez, designe al Gobernador interino y pida la convocatoria a elecciones en los términos del párrafo anterior.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un Gobernador Provisional, y convocará a sesiones extraordinarias del Congreso para que éste, a su vez, designe al Gobernador Interino y expida la Convocatoria a elecciones extraordinarias en los términos del párrafo anterior.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrare en sesiones, designará al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador provisional y convocará al Congreso del Estado a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del Gobernador substituto.
 
-Cuando la falta del Gobernador ocurriese en los tres últimos años del período respectivo, si el Congreso no se encontrase reunido, la Comisión Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se constituya en Colegio Electoral y haga la elección del Gobernador Substituto.
+Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el 26 de septiembre, se tendrá entendida la falta absoluta, caso en el cual deberá procederse en las (sic) términos dispuestos por este artículo.
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviere hecha y declarada el 26 veintiséis de septiembre, cesará, sin embargo, el Gobernador cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el que designe el Congreso, o en su falta, con el carácter de Provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el Artículo anterior.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-El Gobernador Provisional podrá ser electo por el Congreso como Substituto.
+ART. 55.- El Gobernador, al tomar posesión de su cargo, rendirá ante el Congreso del Estado o ante la Comisión Permanente, en su caso, la siguiente protesta: "Protesto guarda y hacer guarda la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y por la prosperidad del Estado y si no lo hiciere así, que el Estado me lo demande".
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
-
-ART. 55.- Sólo por causa grave, justificada, se podrá renunciar al cargo de Gobernador. El Congreso, ante quien hará la renuncia, calificará la causa, necesitándose, para ser admitida, las dos terceras partes de votos de los diputados presentes.
+El cargo de Gobernador del Estado, sólo es renunciable por causa grave, que calificará el Congreso del Estado, ante el que presentará la renuncia.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
 
@@ -759,13 +757,13 @@ El Gobernador Interino podrá ser electo por el Congreso como Substituto.
 
 ART. 62.- El Poder Judicial del Estado se depositará en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Alcaldes y Jueces Auxiliares conforme lo disponga esta Constitución y en los términos que establezca la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-ART. 63.- El Tribunal Supremo de Justicia se compondrá de siete Magistrados Propietarios. Serán nombrados por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso, no podrán tomar posesión los Magistrados del Supremo Tribunal de Justicia nombrados por el Gobernador del Estado. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de dicho Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con carácter definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador del Estado someterá nuevos nombramientos a la aprobación del Congreso, en los términos señalados anteriormente.
+ART. 63.- El Supremo Tribunal de Justicia se compondrá de diez Magistrados, nombrados por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso, no podrán tomar posesión los Magistrados del Supremo Tribunal nombrados por el Gobernador del Estado. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de dicho Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, el Congreso, deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisional continuará en sus funciones con carácter definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados anteriormente.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-ART. 64.- Para suplir las faltas de los magistrados propietarios, se nombrarán al mismo tiempo y en iguales términos que éstos, seis magistrados supernumerarios, que entrarán a funcionar en el orden de su elección.
+ART. 64.- Para suplir las faltas de los Magistrados Propietarios, se nombrarán al mismo tiempo y en iguales términos que éstos, diez Magistrados Supernumerarios, que entrarán a funcionar en el orden de su nombramiento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -775,47 +773,45 @@ ART. 65.- El cargo de magistrado del Supremo Tribunal de Justicia no es renuncia
 
 ART. 66.- El Tribunal residirá en la Capital del Estado, y en ningún caso podrá ejercer sus funciones, sino en el lugar que se haya designado.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-ART. 67.- Para ser Magistrado del Tribunal Supremo se requiere:
+ART. 67.- Para ser Magistrado del Supermo (sic) Tribunal de Justicia en el Estado, se requiere:
 
-I.- Ser ciudadano mexicano en ejercicio de sus derechos;
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles.
 
-II.- Tener título de abogado con seis años de ejercicio profesional, así como justificar haber hecho sus estudios preparatorios y profesionales con arreglo a la ley;
+II.- No tener más de 65 años de edad ni menos de 35, el día de la aprobación.
 
-III.- Tener treinta años cumplidos el día de su elección, y
+III.- Poseer el día de la aprobación, con antigüedad mínima de cinco años, título profesional de abogado, expedido por Institución legalmente facultada para ello.
 
-IV.- No haber sido sentenciado legalmente por delito que merezca pena corporal, a no ser por causa política.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+V.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República para un tiempo menor de seis meses.
 
-ART. 68.- El Supremo Tribunal de Justicia se renovará en su totalidad cada cuatro años, debiendo contarse éstos desde el día de su instalación. Si por alguna circunstancia no se reuniere en el tiempo que deba hacerlo, continuarán ejerciendo las funciones judiciales los individuos que antes lo formaban, hasta que se presenten los nuevamente nombrados.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+ART. 68.- Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo seis años, pudiendo ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establezca esta Constitución.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
 ART. 69.- Corresponde al Supremo Tribunal de Justicia:
 
-I.- (DEROGADA, P.O. 24 DE ENERO DE 1984)
+I.- Dirimir los casos de competencia que se susciten entre los Jueces de Primera Instancia.
 
-II.- De las competencias entre los jueces de primera instancia, entre ellos y los menores y alcaldes y aquellas que se susciten entre unos y otros y alguna de las Salas del Tribunal;
+II.- Resolver los recursos de nulidad que se interpongan conforme a la Ley.
 
-III.- De los recursos de nulidad que se interpongan conforme a la ley;
+III.- Conocer de los negocios civiles y criminales comunes, como Tribunal de Apelación o última instancia.
 
-IV.- De los negocios civiles y criminales comunes como tribunal de apelación o última instancia;
+IV.- Declarar si hay o no lugar a formación de causa contra los Jueces de Primera Instancia.
 
-V.- Declarar si ha o no lugar a formación de causa contra los jueces de primera instancia;
+V.- Registrar los Títulos de Abogados cuando el peticionario compruebe haberlo obtenido de Institución legalmente facultada para expedirlo.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1948)</small>
+VI.- Nombrar a los Secretarios y a todos los demás empleados y remover libremente a los que no sean de base.
 
-VI.- Registrar títulos de Abogado y Notarios cuando el peticionario compruebe haber hecho con arreglo a la Ley, los estudios preparatorios y profesionales que le (sic) misma establece;
+VII.- Formar su Reglamento Interior, sujetándolo a la aprobación del Congreso.
 
-VII.- Nombrar y remover libremente a los secretarios y a todos los demás empleados de sus secretarías;
+VIII.- Practicar visitas a los Juzgados de Primera Instancia, en los términos que establezca la Ley Orgánica del Poder Judicial.
 
-VIII.- Consultar al Congreso las dudas de ley que ocurran al mismo Tribunal y a los juzgados inferiores, calificándolas previamente en este caso si si (sic) son fundadas;
-
-IX.- Formar su reglamento interior y el de sus secretarías, sujetándolos a la aprobación del Congreso, y
-
-X.- Ejercer las demás atribuciones que le confieran las leyes.
+IX.- Ejercer las demás atribuciones que le confieren las Leyes.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -847,15 +843,23 @@ II.- Tener veinticinco años cumplidos;
 
 III.- Tener título de abogado y justificar haber hecho sus estudios preparatorios y profesionales conforme a la ley, así como estar en ejercicio de su profesión con dos años de práctica.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-ART. 75.- Les corresponde conocer en primera instancia:
+ART. 75.- Corresponde a los Jueces de Primera Instancia:
 
-I.- De todos los negocios civiles y criminales de su jurisdicción, y de los de responsabilidad de los funcionarios que designe la ley;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1987)</small>
 
-II.- De las competencias que se susciten entre los jueces menores, entre éstos y los alcaldes, y entre estos últimos;
+I.- Conocer de todos los negocios civiles y criminales de su jurisdicción, y de las de responsabilidad de los funcionarios que establezca la Ley.
 
-III.- Nombrar y remover libremente a todos los empleados de su secretaría, lo mismo que al secretario del Juzado (sic), y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1987)</small>
+
+II.- Dirimir las competencias que se susciten entre los Jueces menores, entre éstos y los Alcaldes y entre estos últimos.
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1987)</small>
+
+III.- Nombrar a los Secretarios y a todos los demás empleados; y remover libremente a los que no sean de base.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 IV.- Desempeñar las demás funciones que les confieran las leyes.
 
@@ -1388,3 +1392,7 @@ DECRETO NUMERO 364.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 1987.
+
+UNICO.- Las reformas contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, excepto las contenidas en el Artículo 67, las cuales tendrán vigencia a los treinta días de su publicación.
