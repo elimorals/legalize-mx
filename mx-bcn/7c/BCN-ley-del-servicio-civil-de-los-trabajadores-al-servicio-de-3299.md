@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "1998-04-17"
+last_updated: "2000-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -591,11 +591,7 @@ Los trabajadores que por mala conducta, falta de solidaridad o por cualquiera de
 
 ###### ARTICULO 66.
 
-Los trabajadores al servicio de la instituciones públicas podrán por libre voluntad pertenecer o no al sindicato pero quien ingrese al mismo no podrá dejar de pertenecer a el salvo en caso de expulsión.
-
-A).- Para ser expulsado del sindicato, se necesita haber cometido un acto grave en contra de las instituciones públicas debidamente comprobado y que la expulsión sea votada cuando menos por el 80% de la membresía del sindicato.
-
-B).- Los trabajadores de confianza no podrán formar parte del sindicato y se pertenecieran a el, por hacer sido trabajadores de base, quedarán en suspenso todas las obligaciones y derechos sindicales mientras desempeñen el cargo de confianza.
+(DEROGADO, P.O. 7 DE ABRIL DEL 2000)
 
 ###### ARTICULO 67.
 
@@ -1388,3 +1384,7 @@ P.O. 17 DE ABRIL DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DEL 2000.
+
+UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
