@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-06-21"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -247,7 +247,9 @@ XLV.- MEOQUI; con cabecera en la ciudad denominada Pedro Meoqui y las secciones 
 
 XLVI.- MORELOS, con cabecera en el pueblo del mismo nombre y la sección municipal de El tablón;
 
-XLVII.- MORIS; con cabecera en el pueblo del mismo nombre;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
+
+XLVII.- MORIS, con cabecera en el pueblo del mismo nombre y las secciones municipales de "Bermúdez" y de "El Pilar";
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1997)</small>
 
@@ -3354,5 +3356,15 @@ P.O. 21 DE JUNIO DE 2003.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
 ## TRANSITORIOS
