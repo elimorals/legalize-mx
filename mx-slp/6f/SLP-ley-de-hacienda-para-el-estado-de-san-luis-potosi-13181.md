@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2004-09-02"
+last_updated: "2004-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -79,6 +79,8 @@ Son sujetos de este impuesto, las personas físicas o morales que adquieran veh�
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 6.
 
 Código de Ética. Las autoridades garantes emitirán, respectivamente, un Código de Ética con reglas claras para que en la actuación de sus servidores públicos impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando una plena vocación de servicio público en beneficio de la población.
@@ -93,7 +95,29 @@ Además, los órganos de control realizarán acciones permanentes de control, vi
 
 ###### ARTICULO 6º.
 
-La base del impuesto será la que resulte mayor entre el valor del vehículo determinado por el adquirente, o el que se señale como precio de venta en el boletín de la Asociación Mexicana de Distribuidores de Automóviles más recientemente publicado, con relación a la fecha en que se realice el pago de este gravamen.
+La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura, de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
+
+Años de antigüedad Factor
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+En ningún caso, el impuesto será menor a ocho días de salario mínimo general de la zona.
 
 ###### ARTICULO 7º.
 
@@ -161,7 +185,9 @@ e) Cualquier otra modificación a escrituras constitutivas de sociedades. La bas
 
 f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria, así como la constitución de estas garantías para el cumplimiento de cualquier otra obligación. La base del impuesto será el importe del contrato y, la tasa, a razón de tres al millar;
 
-g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior. La base del impuesto será el monto del contrato, en caso de garantía prendaria; y, en el caso de garantía hipotecaria, la cantidad que resulte mayor de comparar el precio consignado en la operación con el valor catastral de los inmuebles. En ambos casos la tasa a aplicar será de tres al millar;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior. La base del impuesto será el monto de los actos jurídicos y la tasa, a razón de tres al millar;
 
 h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de un día de salario mínimo, por cada otorgante;
 
@@ -210,6 +236,18 @@ La tasa del impuesto será del 6% sobre la base antes mencionada y sobre ella no
 El organizador del sorteo, rifa, concurso o lotería será responsable de efectuar la retención del impuesto al sujeto, al momento de entregarle el premio y, de enterarlo en la oficina Recaudadora dentro de los cinco días siguientes a la entrega del premio.
 
 En los casos de premios en especie, el contribuyente deberá proveer al retenedor los recursos necesarios para efectuar la retención previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 19 BIS. Quienes organicen o realicen los actos o actividades por los que se cause este impuesto, tendrán las siguientes obligaciones:
+
+I. Dar aviso a la autoridad fiscal estatal con anticipación de quince días a la fecha del evento;
+
+II. Garantizar el pago del impuesto, con una anticipación no menor de cinco días a la fecha del sorteo;
+
+III. Llevar un registro por las operaciones que se cause este impuesto, y
+
+IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades el valor de los premios, aun cuando éstos sean en especie.
 
 ### CAPITULO IV. IMPUESTOS SOBRE NOMINAS
 
@@ -299,7 +337,9 @@ II. Las erogaciones que efectúen:
 
 a) La Federación, el Estado y los Municipios;
 
-b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+b) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia, así como las sociedades o asociaciones civiles organizadas sin fines de lucro y autorizadas para recibir donativos en los términos de la Ley del Impuesto Sobre la Renta, que tengan como beneficiarios a personas, sectores y regiones de escasos recursos que realicen actividades para lograr mejores condiciones de subsistencia y desarrollo a las comunidades indígenas y a los grupos vulnerables por edad, sexo, problemas con discapacidad;
 
 c) Partidos políticos;
 
@@ -309,27 +349,13 @@ e) Instituciones de educación con reconocimiento oficial; y
 
 f) Aquellas personas que efectúen pagos por servicios personales subordinados a cinco o menos trabajadores.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 28.
 
-Para el fomento de la inversión productiva y la generación de empleos en el Estado de San Luis Potosí, se establecen los siguientes estímulos fiscales:
+Para el fomento de la inversión productiva y la generación de empleos, las empresas de nueva creación por el primer año de funcionamiento, recibirán un estímulo fiscal hasta del cien porciento del Impuesto sobre Nóminas. No se consideran de nueva creación las que deriven de escisión o fusión de sociedades, o aquéllas cuyos trabajadores provengan de sustitución patronal de otras empresas relacionadas por pertenencia accionaria.
 
-I. Las personas físicas o morales que incrementen en términos reales las remuneraciones a que se refiere este capítulo, tendrán derecho a solicitar a la Secretaría de Finanzas, un certificado que podrán aplicar contra el impuesto que resulte a pagar en los dos años posteriores a la fecha en que lo reciban, de acuerdo a las siguientes reglas:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-a) Al monto total de los salarios base del impuesto, correspondientes al ejercicio de que se trate, se le restará el monto total de los salarios base del impuesto, correspondientes al ejercicio inmediato anterior, adicionado éste último en un porcentaje equivalente a aquél en que, por acuerdo de la Comisión Nacional de Salarios Mínimos, se haya incrementado el salario mínimo general en el ejercicio anterior a aquél en que se solicite el estímulo.
-
-b) El resultado de la operación a que se refiere el inciso anterior, se multiplicará por el factor que resulte de dividir el índice nacional de precios al consumidor del mes de diciembre del ejercicio de que se trate, entre el citado índice del mes de diciembre del ejercicio inmediato anterior;
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1999)</small>
-
-c) Al producto de la operación anterior, se le restará la cantidad determinada conforme al inciso a) y, el resultado, a su vez, se multiplicará por el 1%, obteniendo así el monto del certificado, y
-
-d) El contribuyente solicitará en los tres primeros meses del año, el certificado a que se refiere esta fracción, acreditando la información señalada en los incisos anteriores.
-
-II. Las empresas que amplíen su capacidad de producción instalada, tomando como base la que tenían al 31 de diciembre de 1998, tendrán derecho a solicitar a la Secretaría de Finanzas un certificado equivalente al 0.25% de la inversión que realicen a partir del 1 de enero de 1999, en infraestructura física, maquinaria, desarrollo tecnológico, equipo destinado a producción y otros de naturaleza análoga, mismo que podrán aplicar contra el impuesto que resulte a pagar en los tres años posteriores a la fecha en que lo reciban. Quedan exceptuados de esta disposición las inversiones que se hagan en áreas administrativas, o de servicios, equipo de transporte y, en general, aquella que no se dirija a incrementar la estructura de producción de las empresas. La Secretaría de Finanzas se reserva el derecho de verificar físicamente la inversión efectuada y, de acuerdo al resultado, resolver sobre la procedencia del certificado de acreditamiento solicitado.
-
-En ningún caso estos estímulos darán lugar a devoluciones.
+Este beneficio no libera a los contribuyentes de cumplir con las obligaciones fiscales previstas en el artículo 25 de esta Ley.
 
 ### CAPITULO V. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
@@ -751,6 +777,14 @@ f) Placas de demostración (sin 15.50 15.50
 
 calcomanía) cuota anual
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+g) Placas para discapacitados No aplica 10.31
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+h) Placas para autos antiguos No aplica 20.62
+
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
 II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
@@ -1023,6 +1057,8 @@ ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuot
 
 I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 a) Caseta "Calderón":
 
 Tramo San Luis Potosí - Villa de Arriaga
@@ -1031,31 +1067,31 @@ Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 71.00
+A Auto, pick up, moto 84.00
 
-B2 Autobús de Pasajeros. 2 ejes 127.00
+B2 Autobús de pasajeros. 2 ejes 150.00
 
-B3 Autobús de Pasajeros. 3 ejes 127.00
+B3 Autobús de pasajeros. 3 ejes 150.00
 
-B4 Autobús de Pasajeros. 4 ejes 127.00
+B4 Autobús de pasajeros. 4 ejes 150.00
 
-C2 Camión de Carga. 2 ejes 127.00
+C2 Camión de carga. 2 ejes 150.00
 
-C3 Camión de Carga. 3 ejes 127.00
+C3 Camión de carga. 3 ejes 150.00
 
-C4 Camión de Carga. 4 ejes 127.00
+C4 Camión de carga. 4 ejes 150.00
 
-C5 Camión de Carga. 5 ejes 138.00
+C5 Camión de carga. 5 ejes 162.00
 
-C6 Camión de Carga. 6 ejes 138.00
+C6 Camión de carga. 6 ejes 162.00
 
-C7 Camión de Carga. 7 ejes 138.00
+C7 Camión de carga. 7 ejes 162.00
 
-C8 Camión de Carga. 8 ejes 138.00
+C8 Camión de carga. 8 ejes 162.00
 
-C9 Camión de Carga. 9 ejes 138.00
+C9 Camión de carga. 9 ejes 162.00
 
-Eje excedente 35.00
+Eje excedente 42.00
 
 Tramo San Luis Potosí - Villa de Reyes
 
@@ -1063,63 +1099,63 @@ Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 28.00
+A Auto, pick up, moto 28.00
 
-B2 Autobús de Pasajeros. 2 ejes 49.00
+B2 Autobús de pasajeros. 2 ejes 58.00
 
-B3 Autobús de Pasajeros. 3 ejes 49.00
+B3 Autobús de pasajeros. 3 ejes 58.00
 
-B4 Autobús de Pasajeros. 4 ejes 49.00
+B4 Autobús de pasajeros. 4 ejes 58.00
 
-C2 Camión de Carga. 2 ejes 49.00
+C2 Camión de carga. 2 ejes 58.00
 
-C3 Camión de Carga. 3 ejes 49.00
+C3 Camión de carga. 3 ejes 58.00
 
-C4 Camión de Carga. 4 ejes 49.00
+C4 Camión de carga. 4 ejes 58.00
 
-C5 Camión de Carga. 5 ejes 54.00
+C5 Camión de carga. 5 ejes 63.00
 
-C6 Camión de Carga. 6 ejes 54.00
+C6 Camión de carga. 6 ejes 63.00
 
-C7 Camión de Carga. 7 ejes 54.00
+C7 Camión de carga. 7 ejes 63.00
 
-C8 Camión de Carga. 8 ejes 54.00
+C8 Camión de carga. 8 ejes 63.00
 
-C9 Camión de Carga. 9 ejes 54.00
+C9 Camión de carga. 9 ejes 63.00
 
-Eje excedente 35.00
+Eje excedente 42.00
 
-Tramo San Luis Potosí – Bledos
+Tramo San Luis Potosí - Bledos
 
 Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 41.00
+A Auto, pick up, moto 49.00
 
-B2 Autobús de Pasajeros. 2 ejes 75.00
+B2 Autobús de pasajeros. 2 ejes 89.00
 
-B3 Autobús de Pasajeros. 3 ejes 75.00
+B3 Autobús de pasajeros. 3 ejes 89.00
 
-B4 Autobús de Pasajeros. 4 ejes 75.00
+B4 Autobús de pasajeros. 4 ejes 89.00
 
-C2 Camión de Carga. 2 ejes 75.00
+C2 Camión de carga. 2 ejes 89.00
 
-C3 Camión de Carga. 3 ejes 75.00
+C3 Camión de carga. 3 ejes 89.00
 
-C4 Camión de Carga. 4 ejes 75.00
+C4 Camión de carga. 4 ejes 75.00
 
-C5 Camión de Carga. 5 ejes 81.00
+C5 Camión de carga. 5 ejes 95.00
 
-C6 Camión de Carga. 6 ejes 81.00
+C6 Camión de carga. 6 ejes 95.00
 
-C7 Camión de Carga. 7 ejes 81.00
+C7 Camión de carga. 7 ejes 95.00
 
-C8 Camión de Carga. 8 ejes 81.00
+C8 Camión de carga. 8 ejes 95.00
 
-Camión de Carga. 9 ejes 81.00
+Camión de carga. 9 ejes 95.00
 
-Eje excedente 35.00
+Eje excedente 42.00
 
 Tramo Villa de Reyes - Villa de Arriaga
 
@@ -1127,31 +1163,31 @@ Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 43.00
+A Auto, pick up, moto 50.00
 
-B2 Autobús de Pasajeros. 2 ejes 78.00
+B2 Autobús de pasajeros. 2 ejes 92.00
 
-B3 Autobús de Pasajeros. 3 ejes 78.00
+B3 Autobús de pasajeros. 3 ejes 92.00
 
-B4 Autobús de Pasajeros. 4 ejes 78.00
+B4 Autobús de pasajeros. 4 ejes 92.00
 
-C2 Camión de Carga. 2 ejes 78.00
+C2 Camión de carga. 2 ejes 92.00
 
-C3 Camión de Carga. 3 ejes 78.00
+C3 Camión de carga. 3 ejes 92.00
 
-C4 Camión de Carga. 4 ejes 78.00
+C4 Camión de carga. 4 ejes 92.00
 
-C5 Camión de Carga. 5 ejes 84.00
+C5 Camión de carga. 5 ejes 99.00
 
-C6 Camión de Carga. 6 ejes 84.00
+C6 Camión de carga. 6 ejes 99.00
 
-C7 Camión de Carga. 7 ejes 84.00
+C7 Camión de carga. 7 ejes 99.00
 
-C8 Camión de Carga. 8 ejes 84.00
+C8 Camión de carga. 8 ejes 99.00
 
-C9 Camión de Carga. 9 ejes 84.00
+C9 Camión de carga. 9 ejes 99.00
 
-Eje excedente 35.00
+Eje excedente 42.00
 
 Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
 
@@ -1159,165 +1195,169 @@ Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 14.00
+A Auto, pick up, moto 16.00
 
-B2 Autobús de Pasajeros. 2 ejes 25.00
+B2 Autobús de pasajeros. 2 ejes 25.00
 
-B3 Autobús de Pasajeros. 3 ejes 25.00
+B3 Autobús de pasajeros. 3 ejes 30.00
 
-B4 Autobús de Pasajeros. 4 ejes 25.00
+B4 Autobús de pasajeros. 4 ejes 30.00
 
-C2 Camión de Carga. 2 ejes 25.00
+C2 Camión de carga. 2 ejes 30.00
 
-C3 Camión de Carga. 3 ejes 25.00
+C3 Camión de carga. 3 ejes 30.00
 
-C4 Camión de Carga. 4 ejes 25.00
+C4 Camión de carga. 4 ejes 30.00
 
-C5 Camión de Carga. 5 ejes 27.00
+C5 Camión de carga. 5 ejes 30.00
 
-C6 Camión de Carga. 6 ejes 27.00
+C6 Camión de carga. 6 ejes 30.00
 
-C7 Camión de Carga. 7 ejes 27.00
+C7 Camión de carga. 7 ejes 30.00
 
-C8 Camión de Carga. 8 ejes 27.00
+C8 Camión de carga. 8 ejes 30.00
 
-C9 Camión de Carga. 9 ejes 27.00
+C9 Camión de carga. 9 ejes 30.00
 
-Eje excedente 35.00
+Eje excedente 42.00
 
 II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
 a) Caseta "Cerritos":
 
-Tramo San Luis Potosí – Río Verde
+Tramo San Luis Potosí - Río Verde
 
 Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 72.00
+A Auto, pick up, moto 85.00
 
-B2 Autobús de Pasajeros. 2 ejes 125.00
+B2 Autobús de pasajeros. 2 ejes 147.00
 
-B3 Autobús de Pasajeros. 3 ejes 161.00
+B3 Autobús de pasajeros. 3 ejes 190.00
 
-B4 Autobús de Pasajeros. 4 ejes 161.00
+B4 Autobús de pasajeros. 4 ejes 190.00
 
-C2 Camión de Carga. 2 ejes 125.00
+C2 Camión de carga. 2 ejes 147.00
 
-C3 Camión de Carga. 3 ejes 161.00
+C3 Camión de carga. 3 ejes 190.00
 
-C4 Camión de Carga. 4 ejes 161.00
+C4 Camión de carga. 4 ejes 190.00
 
-C5 Camión de Carga. 5 ejes 161.00
+C5 Camión de carga. 5 ejes 190.00
 
-C6 Camión de Carga. 6 ejes 161.00
+C6 Camión de carga. 6 ejes 190.00
 
-C7 Camión de Carga. 7 ejes 285.00
+C7 Camión de carga. 7 ejes 336.00
 
-C8 Camión de Carga. 8 ejes 285.00
+C8 Camión de carga. 8 ejes 336.00
 
-C9 Camión de Carga. 9 ejes 285.00
+C9 Camión de carga. 9 ejes 336.00
 
-Eje excedente 26.00
+Eje excedente 31.00
 
-Tramo San Luis Potosí – Cerritos
-
-Clase Tipo de Vehículo Cuota por
-
-aplicar $
-
-A Automóvil 23.00
-
-B2 Autobús de Pasajeros. 2 ejes 40.00
-
-B3 Autobús de Pasajeros. 3 ejes 52.00
-
-B4 Autobús de Pasajeros. 4 ejes 52.00
-
-C2 Camión de Carga. 2 ejes 40.00
-
-C3 Camión de Carga. 3 ejes 52.00
-
-C4 Camión de Carga. 4 ejes 52.00
-
-C5 Camión de Carga. 5 ejes 52.00
-
-C6 Camión de Carga. 6 ejes 52.00
-
-C7 Camión de Carga. 7 ejes 91.00
-
-C8 Camión de Carga. 8 ejes 91.00
-
-C9 Camión de Carga. 9 ejes 91.00
-
-Eje excedente 26.00
-
-Tramo Cerritos – Río Verde
+Tramo San Luis Potosí - Cerritos
 
 Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 49.00
+A Auto, pick up, moto 28.00
 
-B2 Autobús de Pasajeros. 2 ejes 85.00
+B2 Autobús de pasajeros. 2 ejes 47.00
 
-B3 Autobús de Pasajeros. 3 ejes 109.00
+B3 Autobús de pasajeros. 3 ejes 61.00
 
-B4 Autobús de Pasajeros. 4 ejes 109.00
+B4 Autobús de pasajeros. 4 ejes 61.00
 
-C2 Camión de Carga. 2 ejes 85.00
+C2 Camión de carga. 2 ejes 47.00
 
-C3 Camión de Carga. 3 ejes 109.00
+C3 Camión de carga. 3 ejes 61.00
 
-C4 Camión de Carga. 4 ejes 109.00
+C4 Camión de carga. 4 ejes 61.00
 
-C5 Camión de Carga. 5 ejes 109.00
+C5 Camión de carga. 5 ejes 61.00
 
-C6 Camión de Carga. 6 ejes 109.00
+C6 Camión de carga. 6 ejes 61.00
 
-C7 Camión de Carga. 7 ejes 194.00
+C7 Camión de carga. 7 ejes 107.00
 
-C8 Camión de Carga. 8 ejes 194.00
+C8 Camión de carga. 8 ejes 107.00
 
-C9 Camión de Carga. 9 ejes 194.00
+C9 Camión de carga. 9 ejes 107.00
 
-Eje excedente 26.00
+Eje excedente 31.00
 
-a) Caseta auxiliar "Villa Juárez":
-
-Tramo Cerritos – Río Verde
+Tramo Cerritos - Río Verde
 
 Clase Tipo de Vehículo Cuota por
 
 aplicar $
 
-A Automóvil 36.00
+A Auto, pick up, moto 57.00
 
-B2 Autobús de Pasajeros. 2 ejes 62.00
+B2 Autobús de pasajeros. 2 ejes 100.00
 
-B3 Autobús de Pasajeros. 3 ejes 80.00
+B3 Autobús de pasajeros. 3 ejes 129.00
 
-B4 Autobús de Pasajeros. 4 ejes 80.00
+B4 Autobús de pasajeros. 4 ejes 129.00
 
-C2 Camión de Carga. 2 ejes 62.00
+C2 Camión de carga. 2 ejes 100.00
 
-C3 Camión de Carga. 3 ejes 80.00
+C3 Camión de carga. 3 ejes 129.00
 
-C4 Camión de Carga. 4 ejes 80.00
+C4 Camión de carga. 4 ejes 129.00
 
-C5 Camión de Carga. 5 ejes 80.00
+C5 Camión de carga. 5 ejes 129.00
 
-C6 Camión de Carga. 6 ejes 80.00
+C6 Camión de carga. 6 ejes 129.00
 
-C7 Camión de Carga. 7 ejes 141.00
+C7 Camión de carga. 7 ejes 229.00
 
-C8 Camión de Carga. 8 ejes 141.00
+C8 Camión de carga. 8 ejes 229.00
 
-C9 Camión de Carga. 9 ejes 141.00
+C9 Camión de carga. 9 ejes 229.00
 
-Eje excedente 26.00
+Eje excedente 31.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+b) Caseta auxiliar "Villa Juárez":
+
+Tramo Cerritos - Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Auto, pick up, moto 42.00
+
+B2 Autobús de pasajeros. 2 ejes 73.00
+
+B3 Autobús de pasajeros. 3 ejes 95.00
+
+B4 Autobús de pasajeros. 4 ejes 95.00
+
+C2 Camión de carga. 2 ejes 73.00
+
+C3 Camión de carga. 3 ejes 95.00
+
+C4 Camión de carga. 4 ejes 95.00
+
+C5 Camión de carga. 5 ejes 95.00
+
+C6 Camión de carga. 6 ejes 95.00
+
+C7 Camión de carga. 7 ejes 168.00
+
+C8 Camión de carga. 8 ejes 168.00
+
+C9 Camión de carga. 9 ejes 168.00
+
+Eje excedente 31.00
 
 Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
 
@@ -2024,3 +2064,11 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Las validaciones de cesiones de derechos a que se refiere el quinto transitorio de las modificaciones aprobadas el 11 de agosto de 2004 por el Congreso del Estado, a la Ley de Transporte Público del Estado de San Luis Potosí, además de los derechos a que se refiere el artículo 70 del presente ordenamiento legal, pagarán el equivalente a diez salarios mínimos vigentes en el Estado, por cada año contado entre la fecha del contrato de cesión de derechos materia de validación, y la fecha de su solicitud ante la Secretaría de Comunicaciones y Transportes.
+
+P.O. 18 DE DICIEMBRE DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del uno de enero del año 2005.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+TERCERO. En caso de que se concesione alguna de las carreteras de cuota de acuerdo con la ley, se derogará la parte relativa del artículo 93 BIS de la Ley de Hacienda del Estado de San Luis Potosí, que se reforma mediante este Decreto, estableciéndose en el contrato de concesión o en el instrumento jurídico respectivo, las tarifas máximas que podrá cobrar el concesionario, mismas que deberán ser equivalentes a las que en este instrumento legislativo se establecen para el ejercicio fiscal 2005, incluyendo el Impuesto al Valor Agregado.
