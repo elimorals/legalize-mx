@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "1999-09-30"
+last_updated: "1999-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 1999.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -54,7 +54,9 @@ a) Los derechos y obligaciones político-electorales de los ciudadanos;
 
 b) Las prerrogativas, los derechos y las obligaciones de los partidos políticos;
 
-c) La función estatal de organizar las elecciones para la integración de la Asamblea Legislativa, Jefe de Gobierno y de los Concejos de Gobierno de las Demarcaciones Territoriales en el Distrito Federal, así como los procedimientos de participación ciudadana;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) La función de organizar las elecciones para Jefe de Gobierno, Diputados a la Asamblea Legislativa y Jefes Delegacionales, así como los procedimientos de participación ciudadana;
 
 d) Faltas y sanciones electorales;
 
@@ -132,15 +134,17 @@ b) No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar carg
 
 c) No ocupar un cargo de dirección en los gobiernos Federal, Estatal o del Distrito Federal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes del día de la elección.
 
-Tratándose de concejales, además de los requisitos anteriores deberá tener veinticinco años de edad al día de la elección; estar en ejercicio de sus derechos políticos y civiles: ser originario del Distrito Federal, o vecino con residencia efectiva de cuando menos dos años anteriores a la fecha de la elección; tener un modo honesto de vivir; no haber sido condenado con sentencia ejecutoria por delito doloso y las demás que señalen las Leyes.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 7o.
 
 A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral u otros procesos simultáneos, sean federales, estatales o del Distrito Federal.
 
-## TITULO TERCERO
+> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-De la Elección de Jefe de Gobierno, Diputados a la Asamblea Legislativa y Titulares de los órganos político- administrativo de las de las Demarcaciones Territoriales
+## TITULO TERCERO. De la Elección de Jefe de Gobierno, de Diputados a la Asamblea
+
+Legislativa y de Jefes Delegacionales.
 
 ### Capítulo I. De los sistemas electorales
 
@@ -156,43 +160,59 @@ Por cada candidato propietario se elegirá un suplente. Los candidatos por los p
 
 Ningún Partido Político podrá contar con mayor número de integrantes de la Asamblea Legislativa del total que determina el Estatuto de Gobierno del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 10.
 
-La titularidad de los órganos político-administrativos de las demarcaciones territoriales corresponde a los Concejos de Gobierno, que serán electos cada tres años, mediante sufragio universal, libre, secreto y directo. Los Concejos de Gobierno se integran por el Concejal Ejecutivo y el Concejal Adjunto electos por el principio de mayoría relativa; asimismo, serán electos por el principio de representación proporcional mediante listas votadas en una sola circunscripción, en los términos siguientes:
+En cada Delegación del Distrito Federal se elegirá un Jefe Delegacional a través del voto universal, libre, secreto y directo, cada tres años, en la misma fecha en que sean electos los Diputados a la Asamblea Legislativa.
 
-a) En las Demarcaciones Territoriales con hasta 250,000 habitantes se elegirán 17 Concejales; y
+Los Partidos Políticos procurarán que los candidatos que postulen a Jefes Delegacionales no excedan del 70% de un mismo género.
 
-b) Por cada 250,000 habitantes más se elegirán dos concejales más, hasta sumar un máximo de 25.
+> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-Los candidatos a concejales que postulen los Partidos Políticos no podrán exceder del 70 por ciento para un mismo género.
+### Capítulo II. De la representación proporcional para la integración de la Asamblea
 
-### Capítulo II
+Legislativa del Distrito Federal.
 
-De la representación proporcional para la integración de la Asamblea Legislativa del Distrito Federal y de los Concejos de Gobierno de las Demarcaciones Territoriales
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 11.
 
-Tendrán derecho a participar en la asignación de Diputados y Concejales por el principio de representación proporcional, los Partidos Políticos o coaliciones que cumplan los requisitos siguientes:
+Tendrán derecho a participar en la asignación de Diputados por el principio de representación proporcional, los Partidos Políticos o coaliciones que cumplan los requisitos siguientes:
 
-a) Registrar en orden de prelación, una lista con un número igual al de Diputados o Concejales a elegir por el principio de representación proporcional en la circunscripción respectiva, en fórmulas de candidatos propietarios y suplentes en el caso de Diputados, en los términos establecidos por este Código;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-b) Obtener cuando menos el 2 % de la votación total emitida en la circunscripción respectiva; y
+a) Registrar, en orden de prelación, una lista con un número igual al de Diputados a elegir por el principio de representación proporcional o en la circunscripción en fórmulas de candidatos propietarios y suplentes en los términos establecidos por este Código;
 
-c) Para la elección de Diputados por el principio de representación proporcional, registrar candidatos a Diputados de mayoría relativa en todos los distritos uninominales en que se divide el Distrito Federal.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-En la elección de Diputados por el principio de representación proporcional para la definición de la lista a que se refiere el inciso a) del presente artículo, los Partidos Políticos podrán optar por un registro previo en el que se definan los nombres de sus candidatos, o por los mejores porcentajes de sus candidatos uninominales que no obtengan el triunfo en su distrito, o por un sistema que conjugue los dos anteriores; en este último caso, la lista se integrará con la mitad de las opciones anteriores, de forma alternativa, comenzando con los candidatos de la lista previamente registrada.
+b) Obtener cuando menos el 2 % de la votación total efectiva en la circunscripción; y
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Registrar candidatos a Diputados de mayoría relativa en todos los distritos uninominales en que se divide el Distrito Federal.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 12.
 
-Para la asignación de Diputados y Concejales electos por el Principio de representación proporcional se tendrán en cuenta los conceptos y principios siguientes:
+Para la asignación de Diputados electos por el principio de representación proporcional se tendrán en cuenta los conceptos y principios siguientes:
 
 a) Votación total emitida es la suma de todos los votos depositados en las urnas en la circunscripción respectiva;
 
-b) Se entenderá como votación efectiva la que resulte de deducir de la votación total emitida, los votos a favor de los Partidos Políticos que no hayan obtenido el 2%, los votos nulos y los votos en blanco;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-c) Cociente natural es el resultado de dividir la votación efectiva entre los Diputados o Concejales de representación proporcional por asignar, en los términos de este Código; y
+b) Se entenderá como votación efectiva la que resulte de deducir de la votación total emitida los votos a favor de los Partidos Políticos que no hayan obtenido el 2% y los votos nulos;
 
-d) Resto mayor de votos es el remanente más alto entre los restos de las votaciones de cada Partido Político, se utilizará cuando aún hubiese diputaciones o Concejales por distribuir una vez hecha la asignación de acuerdo al inciso anterior.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Cociente natural es el resultado de dividir la votación efectiva entre los Diputados de representación proporcional por asignar, en los términos de este Código; y
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) Resto mayor de votos es el remanente más alto entre los restos de las votaciones de cada Partido Político, se utilizará cuando aún hubiese diputaciones por distribuir una vez hecha la asignación de acuerdo al inciso anterior.
 
 ###### Artículo 13.
 
@@ -212,15 +232,7 @@ f) Las vacantes de miembros propietarios de la Asamblea Legislativa del Distrito
 
 ###### Artículo 14.
 
-Para la asignación de Concejales electos por el principio de representación proporcional se procederá a la aplicación de una fórmula de proporcionalidad pura, de acuerdo al procedimiento siguiente:
-
-a) El número de Concejales que corresponda dividido entre la votación total efectiva integrará el cociente natural;
-
-b) La votación de cada uno de los Partidos Políticos se dividirá entre el cociente natural, los números enteros que resulten serán los Concejales que se asignarán a cada Partido Político, los números decimales constituirán el resto mayor;
-
-c) Si después de aplicar el cociente natural quedaren Concejales por repartir, se distribuirán por resto mayor, en orden decreciente; y
-
-d) Las vacantes de miembros de los Concejos de Gobierno de las Demarcaciones Territoriales, serán cubiertas por aquel candidato del mismo partido que siga en el orden de la lista respectiva, después de habérsele asignado los Concejales que le hubieren correspondido.
+(DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
 
 ## TITULO CUARTO. De la geografía electoral
 
@@ -236,7 +248,9 @@ b) Los Diputados de mayoría relativa serán electos en igual número de distrit
 
 c) Los Diputados de representación proporcional, serán electos mediante el sistema de listas votadas en una sola circunscripción plurinominal que abarcará todo el territorio del Distrito Federal; y
 
-d) Los Consejos de Gobierno de las Demarcaciones Territoriales que serán electos en cada una de las respectivas demarcaciones territoriales que determine el Estatuto de Gobierno y la Ley Orgánica de la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) Los Jefes Delegacionales será (sic) electos en cada una de las respectivas Delegaciones en que se divida el Distrito Federal.
 
 ###### Artículo 16.
 
@@ -244,7 +258,9 @@ El ámbito territorial de los distritos electorales uninominales se determinará
 
 a) Se dividirá el número de ciudadanos de acuerdo al último Censo General de Población entre el número de distritos electorales uninominales;
 
-b) Se procurará que los distritos abarquen Demarcaciones Territoriales completas;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Se procurará que las Delegaciones abarquen distritos completos;
 
 c) Se deberán considerar aspectos geográficos, de vías de comunicación y socioculturales;
 
@@ -254,9 +270,11 @@ e) La diferencia de población respecto de un distrito y otro, una vez aplicado 
 
 Para los efectos del inciso a) del párrafo anterior, dentro de los seis meses siguientes a que se den a conocer oficialmente los resultados del respectivo censo de población y vivienda, el Consejo General del Instituto Electoral del Distrito Federal, revisará y propondrá a la Asamblea Legislativa del Distrito Federal el número de distritos electorales uninominales en que habrá de dividirse el territorio del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 17.
 
-La sección electoral es la fracción territorial de los Distritos Electorales y de las Demarcaciones para la inscripción de los ciudadanos en el Catálogo General de Electores, Padrón electoral y en las Listas Nominales de Electores.
+La Sección Electoral es la fracción territorial de los Distritos Electorales para la inscripción de los ciudadanos en el Catálogo General de Electores, Padrón Electoral y Listas Nominales de Electores.
 
 Cada sección tendrá como mínimo 50 electores y como máximo 1,500. Cuando las secciones electorales se encuentren fuera de este rango la Dirección Ejecutiva del Registro de Electores del Distrito Federal procederá a realizar los ajustes pertinentes, asimismo, al revisar la división territorial de los distritos uninominales, actualizará el rango de población de las secciones electorales.
 
@@ -296,7 +314,9 @@ Para que una organización pueda ser registrada como Agrupación Política local
 
 a) Formular una declaración de principios y, en congruencia con ellos, su programa de acción y los estatutos que normen sus actividades; y
 
-b) Contar con un mínimo de 2,000 afiliados inscritos en el Padrón electoral del Distrito Federal, en por lo menos la mitad de las Demarcaciones Territoriales, debiendo contar en cada una de ellas con un mínimo de 100 afiliados inscritos en el Padrón electoral de las demarcaciones que correspondan.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Contar con un mínimo de 2,000 afiliados inscritos en el Padrón Electoral del Distrito Federal, en por lo menos la mitad de las Delegaciones, debiendo contar en cada una de ellas con un mínimo de 100 afiliados inscritos en el Padrón Electoral de las Delegaciones que correspondan.
 
 ###### Artículo 21.
 
@@ -318,7 +338,9 @@ a) Una asamblea general o equivalente;
 
 b) Un órgano ejecutivo general, que sea el representante local de la agrupación;
 
-c) Asambleas o equivalente y órganos ejecutivos en las Demarcaciones Territoriales;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Asambleas o equivalente y órganos ejecutivos en las Delegaciones.
 
 d) Un órgano de administración;
 
@@ -330,11 +352,15 @@ Cualquier modificación a su declaración de principios, programa de acción o e
 
 Las modificaciones no surtirán efectos hasta que el Consejo General del Instituto declare la procedencia legal de las mismas. La resolución deberá dictarse en un plazo que no exceda de 30 días contados a partir de la presentación de la documentación correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 22.
 
-Para constituir una Agrupación Política local, los ciudadanos interesados solicitarán su registro al Consejo General del Instituto Electoral del Distrito Federal entre el 1o. de febrero y el 31 de abril de cada año sin proceso electoral, debiendo comprobar los requisitos del artículo 20 de este Código, a más tardar el 31 de julio.
+Para constituir una Agrupación Política Local, los ciudadanos interesados solicitarán su registro al Consejo General del Instituto Electoral del Distrito Federal a partir del 1° de febrero y hasta el 30 de abril de cada año sin proceso electoral, debiendo comprobar los requisitos del artículo 20 de este Código, a más tardar el 31 de julio.
 
-Las organizaciones de ciudadanos que pretendan constituirse en Agrupación Política local deberán realizar asambleas constitutivas en las Demarcaciones Territoriales, en las que deberán participar cuando menos el 60% del mínimo de afiliados, en las cuales se elegirán un delegado por cada 50 asistentes para participar en la asamblea general constitutiva, esta última será válida con la presencia del 60% de delegados electos.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Las organizaciones de ciudadanos que pretendan constituirse en Agrupación Política Local deberán realizar asambleas constitutivas en las Delegaciones, en las que deberán participar cuando menos el 60% del mínimo de afiliados, en las cuales se elegiran (sic) un delegado por cada 50 asistentes para participar en la asamblea general constitutiva, esta última será válida con la presencia del 60% de delegados electos.
 
 Las asambleas se realizarán en presencia de un notario público o funcionario acreditado para tal efecto por el propio Instituto, quienes certificarán el quórum legal, que los presentes conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos y suscripción individual del documento de manifestación formal de afiliación.
 
@@ -346,9 +372,13 @@ El Consejo resolverá lo conducente dentro del plazo de sesenta días posteriore
 
 ### Capítulo II. De los derechos y obligaciones de las asociaciones políticas
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 24.
 
-Son derechos de los Partidos Políticos:
+Son derechos de:
+
+I. Los Partidos Políticos:
 
 a) Participar, conforme a lo dispuesto en la Constitución, en el Estatuto de Gobierno y en este Código, en el proceso electoral;
 
@@ -362,9 +392,9 @@ e) Nombrar a sus representantes ante los órganos electorales, en los términos 
 
 f) Los demás que les otorgue este Código.
 
-I.- Son derechos de las Agrupaciones Políticas Locales:
+II. Las Agrupaciones Políticas Locales:
 
-a) Las establecidas en los incisos b) y f), señalados en el párrafo anterior;
+a) Gozar de las garantías que éste (sic) Código les otorga para realizar libremente sus actividades;
 
 b) Gozar del régimen fiscal previsto para los Partidos Políticos;
 
@@ -408,7 +438,9 @@ m) Abstenerse de cualquier expresión que implique diatriba, calumnia, infamia, 
 
 n) Las demás que establezca este Código.
 
-Las Agrupaciones Políticas Locales tendrán asimismo las obligaciones de no utilizar en su promoción los símbolos patrios, símbolos religiosos, o expresiones, alusiones o fundamentaciones de carácter religioso. Así como, mantener el mínimo de afiliados en las demarcaciones político-administrativas, requeridos para su constitución y registro.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Las Agrupaciones Políticas Locales tendrán asimismo las obligaciones de no utilizar en su promoción los símbolos patrios, símbolos religiosos, o expresiones, alusiones o fundamentaciones de carácter religioso. Así como, mantener el mínimo de afiliados en las delegaciones, requeridos para su constitución y registro.
 
 Los Partidos Políticos, deberán cumplir de forma especial lo dispuesto por el inciso m) durante las campañas electorales y en la propaganda política que se utilice durante las mismas. Lo dispuesto en el presente artículo será aplicable a los órganos de dichos partidos en el Distrito Federal.
 
@@ -416,9 +448,11 @@ Los Partidos Políticos, deberán cumplir de forma especial lo dispuesto por el 
 
 ### Capítulo I. De las prerrogativas en general
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 26.
 
-Son prerrogativas de las asociaciones políticas:
+Son prerrogativas de los Partidos Políticos:
 
 a) Tener acceso en forma permanente a la radio y televisión en los términos de este Código;
 
@@ -426,7 +460,9 @@ b) Gozar del régimen fiscal que se establece en este Código y en las leyes de 
 
 c) Participar, en los términos de este Código, del financiamiento público correspondiente para sus actividades; y
 
-d) El Consejo General del Instituto Electoral del Distrito Federal promoverá ante las autoridades competentes el otorgamiento de franquicias postales a las asociaciones políticas.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) El Consejo General del Instituto Electoral del Distrito Federal promoverá ante las autoridades competentes el otorgamiento de franquicias postales a los Partidos Políticos.
 
 ### Capítulo II. De las prerrogativas en radio y televisión
 
@@ -444,7 +480,9 @@ La Dirección Ejecutiva de Asociaciones Políticas del Instituto Electoral del D
 
 Los Partidos Políticos contarán con tiempo gratuito en radio y televisión para difusión ordinaria. La distribución del tiempo disponible será mensual y equitativa, mediante sorteos para determinar el orden de presentación de los programas. Para las campañas electorales se sujetaran a las reglas siguientes
 
-a) El tiempo de transmisión y el número de promocionales disponibles se distribuirán entre los partidos, el 30% en forma igualitaria, y el 70% restante en forma proporcional al número de votos obtenidos en la última elección de Diputados a la Asamblea Legislativa del Distrito Federal; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) El tiempo de transmisión y el número de promocionales disponibles se distribuirán entre los partidos, el 40% en forma igualitaria, y el 60% restante en forma proporcional al número de votos obtenidos en la última elección de Diputados a la Asamblea Legislativa del Distrito Federal a través del principio de mayoría relativa; y
 
 b) La duración de los programas en radio y televisión para cada partido podrá ser de 30 segundos y hasta 15 minutos, a petición de los Partidos Políticos.
 
@@ -458,9 +496,9 @@ Los Partidos Políticos con representación en la Asamblea Legislativa del Distr
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-a) El Consejo General del Instituto Electoral del Distrito Federal determinará anualmente, una bolsa, de acuerdo con el siguiente procedimiento de asignación: costo mínimo de los gastos de una campaña para diputados locales, costo mínimo de los gastos de una campaña para titulares de los órganos político-administrativos de las demarcaciones territoriales, y costo mínimo de los gastos de una campaña a Jefe de Gobierno del Distrito Federal.
+a) El Consejo General del Instituto Electoral del Distrito Federal determinará anualmente, con base en el número de ciudadanos inscritos en el padrón electoral del Distrito Federal, multiplicado por el factor del 65 por ciento del salario mínimo general vigente en el Distrito Federal, el financiamiento público para sus actividades ordinarias permanentes;
 
 > <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1999)</small>
 
@@ -544,9 +582,11 @@ f) Tampoco podrán recibir aportaciones de personas no identificadas, con excepc
 
 Las asociaciones políticas no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 34.
 
-Las asociaciones políticas, deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales y de campaña, así como de la presentación de los informes financieros.
+Las asociaciones políticas deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales, así como de la presentación de los informes financieros. Las asociaciones políticas deberán de mantener permanentemente informado al Instituto Electoral del Distrito Federal de quién es el titular del órgano interno a que se refiere este artículo.
 
 ###### Artículo 35.
 
@@ -588,7 +628,9 @@ IX. El financiamiento por rendimientos financieros se sujetará a las siguientes
 
 a) Las aportaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en este Capítulo de este Código y las leyes correspondientes, atendiendo al tipo de operación realizada;
 
-b) Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada asociación política considere conveniente, con excepción de la adquisición de acciones bursátiles; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada asociación política considere conveniente, con excepción de la adquisición de valores bursátiles; y
 
 c) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos de la asociación política.
 
@@ -618,7 +660,9 @@ d) En cada informe será reportado el origen de los recursos que se hayan utiliz
 
 El procedimiento para la presentación y revisión de los informes de las asociaciones políticas se sujetará a las siguientes reglas:
 
-I. La Comisión de Fiscalización contará con cincuenta días para revisar los informes anuales y con sesenta días para revisar los informes de campaña presentados por los Partidos Políticos y, en su caso, por las Agrupaciones Políticas. Tendrá en todo momento la facultad de requerir a los órganos responsables del financiamiento de cada asociación política, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+I. La Comisión de Fiscalización contará con sesenta días para revisar los informes anuales de las asociaciones políticas, y con noventa días para revisar los informes de campaña presentados por los partidos políticos. Tendrá en todo momento la facultad de requerir a los órganos responsables del financiamiento de cada asociación política la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
 
 II. Si durante la revisión de los informes y una vez hechos los requerimientos a que se refiere el párrafo anterior, la Comisión advierte la existencia de errores u omisiones técnicas, notificará al Partido Político o a la Agrupación Política que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
 
@@ -634,9 +678,23 @@ c) El señalamiento de requerimientos y notificaciones realizados, así como las
 
 V. El dictamen se presentará ante el Consejo General, y en su caso, iniciará el procedimiento para determinación e imposición de sanciones; y
 
-VI. El Consejo General del Instituto, dará publicidad en la Gaceta Oficial del Gobierno del Distrito Federal al dictamen y, en su caso, a la resolución del Tribunal Electoral del Distrito Federal.
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-Asimismo acordará otros mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones. En la Gaceta del Instituto Electoral del Distrito Federal deberán publicarse los informes anuales de las asociaciones políticas.
+VI. Para iniciar el procedimiento de determinación e imposición de sanciones, la Comisión de Fiscalización emplazará al presunto responsable para que en el plazo de 10 días hábiles conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes en los términos de este Código.
+
+Las pruebas deberán ser exhibidas junto con el escrito en el que se comparezca al procedimiento. Ninguna prueba aportada, fuera del plazo previsto para ello, será tomada en cuenta.
+
+Treinta días después de cerrado el proceso de instrucción, la Comisión de Fiscalización presentará el proyecto de resolución respectivo al Consejo General para su discusión y, en su caso, aprobación.
+
+El Secretario Ejecutivo, por conducto de la Unidad de Asuntos Jurídicos, auxiliará a la Comisión de Fiscalización en la substanciación del procedimiento.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE OCTUBRE DE 1999)</small>
+
+VII. El Consejo General del Instituto, dará publicidad en la Gaceta Oficial del Distrito Federal al dictamen y, en su caso, a la resolución del Tribunal Electoral del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Asimismo, acordará otros mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones. En la Gaceta Oficial del Distrito Federal deberán publicarse los informes anuales de las asociaciones políticas.
 
 ###### Artículo 39.
 
@@ -654,7 +712,9 @@ Un Partido Político aportando elementos de prueba podrá solicitar se investigu
 
 Las asociaciones políticas reguladas por el presente Código podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos, de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-Dos o más asociaciones políticas reguladas por este Código podrán fusionarse para constituir una nueva asociación política o para incorporarse en una de ellas.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Dos o más agrupaciones políticas locales reguladas por este Código podrán fusionarse para constituir una nueva agrupación política local o para incorporarse en una de ellas.
 
 Los Partidos Políticos podrán formar coaliciones para postular los mismos candidatos en las elecciones del Distrito Federal.
 
@@ -678,9 +738,11 @@ Las asociaciones políticas que integren un frente, conservarán su personalidad
 
 ### Capítulo II. De las coaliciones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 43.
 
-Los Partidos podrán formar coaliciones para las elecciones de Jefe de Gobierno, de Diputados a la Asamblea Legislativa por los principios de mayoría relativa y de representación proporcional, y de Concejos de Gobierno de las Demarcaciones Territoriales.
+Los Partidos podrán formar coaliciones para las elecciones de Jefe de Gobierno, de Diputados a la Asamblea Legislativa por los principios de mayoría relativa y de representación proporcional, y de Jefes Delegacionales.
 
 La coalición se formará con dos o más Partidos Políticos y postulará sus propios candidatos con el emblema o emblemas y color o colores con los que participan.
 
@@ -700,7 +762,9 @@ b) La elección que la motiva;
 
 c) El emblema o emblemas y color o colores bajo los cuales participan;
 
-d) La prelación para la conservación del registro de los Partidos Políticos, en el caso de que el porcentaje de la votación obtenida por la coalición no sea equivalente al 2% por cada uno de los Partidos Políticos coaligados; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) La prelación para la conservación de derechos de los Partidos Políticos, en el caso de que el porcentaje de la votación obtenida por la coalición no sea equivalente por lo menos al 2% por cada uno de los Partidos Políticos coaligados; y
 
 e) Deberá señalarse el monto de las aportaciones de cada Partido Político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
 
@@ -712,11 +776,13 @@ La solicitud de registro de convenio de coalición deberá presentarse dentro de
 
 El Consejo General resolverá antes de que inicie el plazo para el registro de candidatos, según la elección de que se trate.
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 46.
 
-La coalición mediante la cual se postule candidato a Jefe de Gobierno o Diputados por el principio de representación proporcional, tendrá efectos sobre todos los distritos electorales y en todas las Demarcaciones Territoriales.
+La coalición mediante la cual se postule candidato a Jefe de Gobierno o Diputados por el principio de representación proporcional, tendrá efectos sobre todos los distritos electorales y en todas las Delegaciones.
 
-Constituirá coalición parcial la que postule hasta 30% de candidatos a Diputados de mayoría relativa o de Concejos de Gobierno de las demarcaciones territoriales. Asimismo, tendrá efectos sobre todos los distritos electorales y sobre todas las Demarcaciones territoriales, la coalición por la que se postule más del 30% de Diputados por el principio de mayoría relativa o de los Concejos de Gobierno de las Demarcaciones Territoriales.
+Constituirá coalición parcial la que postule hasta 30% de candidatos a Diputados de mayoría relativa o de Jefes Delegacionales. Asimismo, tendrá efectos sobre todos los distritos electorales y sobre todas las Delegaciones, la coalición por la que se postule más del 30% de Diputados por el principio de mayoría relativa o de Jefes Delegacionales.
 
 ###### Artículo 47.
 
@@ -738,15 +804,23 @@ a) Presentar por escrito la aceptación a la candidatura del ciudadano a postula
 
 b) Presentar convenio de los partidos postulantes y el candidato, en donde se indique las aportaciones de cada uno para gastos de la campaña, sujetándose a los límites de contratación en radio y televisión y a los topes de gastos de campaña determinados por el Consejo General del Instituto Electoral del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+El convenio deberá presentarse dentro de un plazo de 15 días que concluirá a más tardar 5 días antes del inicio del registro de candidatos de la elección que la motive y el Consejo General resolverá antes de que inicie el plazo para el registro de candidatos.
+
 Los votos se computarán a favor de cada uno de los Partidos Políticos que los haya obtenido y se sumarán en favor del candidato.
 
 ### Capítulo IV. De las fusiones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 49.
 
-Las asociaciones políticas que decidan fusionarse, deberán celebrar un convenio en el que invariablemente se establecerán las características de la nueva asociación; o cuál de las asociaciones originarias conserva su personalidad jurídica y la vigencia de su registro; y qué asociación o asociaciones quedarán fusionados (sic).
+Las agrupaciones políticas locales que decidan fusionarse deberán celebrar un convenio en el que invariablemente se establecerán las características de la nueva agrupación o, en su caso, cuál de las agrupaciones originarias conservará su personalidad jurídica y la vigencia de su registro, y qué agrupación o agrupaciones quedarán fusionadas.
 
-Para todos los efectos legales, la vigencia del registro de la nueva asociación política será la que corresponda al registro de la asociación más antiguo entre los que se fusionen.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Para todos los efectos legales, la vigencia del registro de la nueva agrupación política local será la que corresponda al registro de la agrupación más antigua entre las que se fusionen.
 
 El convenio de fusión deberá ser aprobado o rechazado por el Consejo General, dentro del término de treinta días siguientes a su presentación.
 
@@ -826,7 +900,9 @@ El Consejo General se integra por un Consejero Presidente, seis Consejeros Elect
 
 I. El Consejero Presidente, los seis Consejeros Electorales y tres Consejeros Electorales suplentes generales en orden de prelación, serán nombrados sucesivamente por el voto de las dos terceras partes de los miembros presentes de la Asamblea Legislativa, de entre las propuestas que formulen los Grupos Parlamentarios a la Asamblea Legislativa del Distrito Federal;
 
-Si después de tres rondas de votación no estuvieren designados el Presidente y los Consejeros Electorales propietarios y suplentes, o faltare alguno o algunos por designar, se procederá a designarlos por sorteo de entre las propuestas presentadas que hayan obtenido mayor votación;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+En caso de que alguna de las personas propuestas no obtuviere la votación requerida, deberá presentarse una nueva propuesta.
 
 II. El Consejero Presidente y los Consejeros Electorales propietarios y suplentes durarán en su cargo siete años improrrogables;
 
@@ -850,7 +926,9 @@ c) Tener más de treinta años de edad, al día de la designación;
 
 d) Poseer el día de la designación título profesional o formación equivalente, y tener conocimientos en la materia político-electoral;
 
-a) (sic) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad;
 
 f) Haber residido en el Distrito Federal durante los últimos tres años;
 
@@ -878,19 +956,25 @@ d) El Consejero Presidente, los Consejeros Electorales del Consejo General y el 
 
 El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los representantes de los Partidos Políticos, conjunta o indistintamente.
 
-Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de enero del año anterior a aquel en que se celebren las elecciones locales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos una vez al mes.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 59.
 
-El Consejo General sesionará previa convocatoria del Consejero Presidente expedida cuando menos con setenta y dos horas de anticipación y en las sesiones extraordinarias, con veinticuatro horas.
+El Consejo General sesionará previa convocatoria del Consejero Presidente expedida cuando menos con setenta y dos horas de anticipación tratándose de sesiones ordinarias, y para las sesiones extraordinarias con veinticuatro horas. Para que el Consejo General pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes.
 
 Para la preparación del proceso electoral el Consejo General se reunirá dentro de la primera semana del mes de enero del año en que se celebren las elecciones locales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos una vez al mes.
 
-En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a uno de los presentes para que presida.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+En el supuesto de que el Consejero Presidente no asista o se ausente de la sesión en forma definitiva, el Consejo General designará a uno de los consejeros presentes para que presida.
 
 La Secretaría del Consejo General estará a cargo del Secretario Ejecutivo del Instituto, quien asistirá a las sesiones con voz, pero sin voto. En caso de ausencia a la sesión, sus funciones serán realizadas por alguno de los Directores Ejecutivos que al efecto designe el Consejo General para esa sesión.
 
-En caso de que no se reúna la mayoría a la que se refiere el párrafo primero, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros Electorales y representantes que asistan.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+En caso de que no se reúna la mayoría a la que se refiere el párrafo primero, la sesión se realizará dentro de las veinticuatro horas siguientes, con los Consejeros Electorales y representantes que asistan.
 
 Salvo las resoluciones que conforme a este Código requieran de una mayoría calificada, las mismas se tomarán por mayoría de votos de los miembros presentes, en caso de empate el Presidente del Consejo General tendrá voto de calidad. El Consejo General del Instituto Electoral del Distrito Federal ordenará la publicación en la Gaceta del Gobierno del Distrito Federal de los acuerdos y resoluciones de carácter general que pronuncie y de aquéllos que así lo determine, así como los nombres de los miembros de los Consejos Distritales designados en los términos de este Código.
 
@@ -898,69 +982,67 @@ Cuando el tratamiento de los asuntos del Consejo General, así lo requiera podr�
 
 ### Capítulo II. Del Funcionamiento y Atribuciones del Consejo General
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 60.
 
 El Consejo General tiene las siguientes atribuciones:
 
-a) Expedir los reglamentos interiores y circulares necesarios para el buen funcionamiento del Instituto, así como el Estatuto que regule el Servicio Profesional Electoral;
+I. Expedir los reglamentos interiores y circulares necesarios para el buen funcionamiento del Instituto, así como el Estatuto que regule el Servicio Profesional Electoral;
 
-b) Fijar las políticas y los programas generales del Instituto y aprobar la estructura de las Direcciones Ejecutivas y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados, así como conocer los informes trimestrales y anual que le rindan las Direcciones Ejecutivas;
+II. Fijar las políticas y los programas generales del Instituto y aprobar la estructura de las Direcciones Ejecutivas y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados, así como conocer los informes trimestrales y anual que le rindan las Direcciones Ejecutivas;
 
-c) Aprobar anualmente el proyecto de presupuesto del Instituto Electoral del Distrito Federal que le proponga el Presidente del Consejo General y remitirlo una vez aprobado, al Jefe de Gobierno para su inclusión en el Proyecto de Presupuesto de egresos del Distrito Federal;
+III. Aprobar anualmente el proyecto de presupuesto del Instituto Electoral del Distrito Federal que le proponga el Presidente del Consejo General y remitirlo, una vez aprobado, al Jefe de Gobierno para su inclusión en el Proyecto de Presupuesto de Egresos del Distrito Federal;
 
-d) Integrar el Registro de Electores del Distrito Federal y determinar los lineamientos para su funcionamiento;
+IV. Integrar el Registro de Electores del Distrito Federal y determinar los lineamientos para su funcionamiento;
 
-e) Determinar la división del territorio del Distrito Federal en distritos electorales uninominales, y fijar dentro de cada uno de los Distritos Electorales el domicilio que les servirá de cabecera, de acuerdo a los criterios establecidos en este Código;
+V. Determinar la división del territorio del Distrito Federal en distritos electorales uninominales, y fijar dentro de cada uno de los Distritos Electorales el domicilio que les servirá de cabecera, de acuerdo a los criterios establecidos en este Código;
 
-f) Designar, o en su caso remover al Secretario Ejecutivo, conforme a la propuesta que presente su Consejero Presidente;
+VI. Designar, o en su caso remover al Secretario Ejecutivo, conforme a la propuesta que presente su Consejero Presidente;
 
-a) (sic) Designar, o en su caso remover a los Directores Ejecutivos del Instituto Electoral del Distrito Federal así como designar a los Directores Ejecutivos Distritales, por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presenten el Consejero Presidente;
+VII. Designar, o en su caso remover a los Directores Ejecutivos del Instituto Electoral del Distrito Federal así como designar a los Directores Ejecutivos Distritales, por el voto de las dos terceras partes de sus miembros, conforme a la propuesta que presenten (sic) el Consejero Presidente;
 
-b) (sic) Designar, o en su caso remover a los Consejeros Presidentes y Consejeros Electorales de los Consejos Distritales, por el voto de las dos terceras partes de los miembros (sic) Consejo General, de entre las propuestas que al efecto hagan el Consejero Presidente y los Consejeros Electorales del propio Consejo General;
+VIII. Designar, o en su caso remover a los Consejeros Presidentes y Consejeros Electorales de los Consejos Distritales, por el voto de las dos terceras partes de los miembros del Consejo General, de entre las propuestas que al efecto hagan el Consejero Presidente y los Consejeros Electorales del propio Consejo General;
 
-c) (sic) Vigilar la oportuna integración y adecuado funcionamiento de los órganos del Instituto, y conocer, por conducto de su Presidente y de sus Comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesario solicitarles;
+IX. Vigilar la oportuna integración y adecuado funcionamiento de los órganos del Instituto y conocer, por conducto de su Presidente y de sus Comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesario solicitarles;
 
-d) (sic) Investigar por los medios a su alcance, hechos que afecten de modo relevante los derechos de las asociaciones políticas o en los procesos electorales, o de participación ciudadana;
+X. Investigar por los medios a su alcance, hechos que afecten de modo relevante los derechos de las asociaciones políticas o en los procesos electorales, o de participación ciudadana;
 
-e) (sic) Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan, en los términos previstos en el presente Código;
+XI. Conocer de las infracciones y, en su caso, imponer las sanciones que correspondan, en los términos previstos en el presente Código;
 
-f) (sic) Resolver los medios de impugnación que le competan en los términos de este Código;
+XII. Resolver los medios de impugnación que le competan en los términos de este Código;
 
-g) (sic) Recibir las solicitudes de registro y resolver, en los términos de este Código, el otorgamiento del registro a las Agrupaciones Políticas locales, así como sobre la pérdida del mismo, en los términos de este Código, emitir la declaratoria correspondiente;
+XIII. Recibir las solicitudes de registro y resolver, en los términos de este Código, el otorgamiento del registro a las Agrupaciones Políticas locales, así como sobre la pérdida del mismo, en los términos de este Código, emitir la declaratoria correspondiente;
 
-h) (sic) Resolver sobre los convenios de fusión, frente, coalición y candidatura común que celebren las asociaciones políticas, según sea el caso;
+XIV. Resolver sobre los convenios de fusión que celebren las agrupaciones políticas locales, los convenios para formar frentes que celebren las Asociaciones Políticas, y sobre los convenios de coalición y candidatura común que celebren los partidos políticos, según sea el caso;
 
-i) (sic) Vigilar que las actividades y prerrogativas de los partidos políticos se desarrollen con apego a este Código y cumplan con las obligaciones a que están sujetos;
+XV. Vigilar que las actividades y prerrogativas de los partidos políticos se desarrollen con apego a este Código y cumplan con las obligaciones a que están sujetos;
 
-j) (sic) Registrar la plataforma electoral que para cada proceso electoral deben presentar los Partidos Políticos o coaliciones en los términos de este Código;
+XVI. Registrar la plataforma electoral que para cada proceso electoral deben presentar los Partidos Políticos o coaliciones en los términos de este Código;
 
-k) (sic) Registrar las candidaturas a Jefe de Gobierno y las listas de candidatos a Diputados de representación proporcional a la Asamblea Legislativa del Distrito Federal;
+XVII. Registrar las candidaturas a Jefe de Gobierno y las listas de candidatos a Diputados de representación proporcional a la Asamblea Legislativa del Distrito Federal;
 
-l) (sic) Registrar supletoriamente las candidaturas a Diputados por el principio de mayoría relativa y Concejos de Gobierno de Demarcación Territorial;
+XVIII. Registrar supletoriamente las candidaturas a Diputados por el principio de mayoría relativa y a Jefes Delegacionales;
 
-m) (sic) Aprobar el modelo y los formatos de la documentación y papelería electoral;
+XIX. Aprobar el modelo y los formatos de la documentación y papelería electoral;
 
-n) (sic) Determinar los topes máximos de gastos de campaña que se puedan erogar en las elecciones de Jefe de Gobierno, Diputados a la Asamblea Legislativa del Distrito Federal y Concejos de Gobierno de las Demarcaciones Territoriales, de conformidad con este Código;
+XX. Determinar los topes máximos de gastos de campaña que se puedan erogar en las elecciones de Jefe de Gobierno, Diputados a la Asamblea Legislativa del Distrito Federal y Jefes Delegacionales, de conformidad con este Código;
 
-o) (sic) Autorizar la celebración de convenios de apoyo y colaboración con las autoridades federales electorales, en materia de catálogo general de electores, padrón electoral, seccionamiento, listas nominales de electores y cualquier otra medida que tienda al logro de los fines del Instituto Electoral del Distrito Federal;
+XXI. Autorizar la celebración de convenios de apoyo y colaboración con las autoridades federales electorales en materia de catálogo general de electores, padrón electoral, seccionamiento, listas nominales de electores y cualquier otra medida que tienda al logro de los fines del Instituto Electoral del Distrito Federal;
 
-p) (sic) Efectuar el Cómputo total de la elección de Jefe de Gobierno, de la elección de Diputados electos según el principio de representación proporcional, así como otorgar las constancias respectivas, informando de ello a la Asamblea Legislativa del Distrito Federal, así como de los medios de impugnación interpuestos en los términos de este Código;
+XXII. Efectuar el Cómputo total de la elección de Jefe de Gobierno, de la elección de Diputados electos según el principio de representación proporcional, así como otorgar las constancias respectivas, informando de ello a la Asamblea Legislativa del Distrito Federal, así como de los medios de impugnación interpuestos en los términos de este Código;
 
-q) (sic) Efectuar el cómputo total de los procesos de participación ciudadana en el ámbito del Distrito Federal, en los términos que determine el Consejo General y las leyes aplicables, y realizar la declaratoria respectiva;
+XXIII. Efectuar el cómputo total de los procesos de participación ciudadana en el ámbito del Distrito Federal, en los términos que determine el Consejo General y las leyes aplicables, y realizar la declaratoria respectiva;
 
-r) (sic) Acordar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral. Estableciendo un mecanismo para recabar y difundir de forma inmediata dichas tendencias. Al sistema que se establezca tendrán acceso en forma permanente los Consejeros Electorales y representantes de los Partidos Políticos acreditados ante los Consejos del Instituto Electoral del Distrito Federal;
+XXIV. Acordar la realización de los estudios o procedimientos pertinentes, a fin de conocer las tendencias electorales el día de la jornada electoral, estableciendo un mecanismo para recabar y difundir de forma inmediata dichas tendencias. Al sistema que se establezca tendrán acceso en forma permanente los Consejeros Electorales y representantes de los Partidos Políticos acreditados ante los Consejos del Instituto Electoral del Distrito Federal;
 
-s) (sic) Presentar a la Asamblea Legislativa del Distrito Federal propuestas de reforma en materia electoral; y
+XXV. Presentar a la Asamblea Legislativa del Distrito Federal propuestas de reforma en materia electoral; y
 
-t) (sic) Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
+XXVI. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en este Código.
 
 ###### Artículo 61.
 
-El Consejo General del Instituto Electoral del Distrito Federal, a petición de los Partidos Políticos, podrá firmar convenios de asesoría y apoyo logístico con los mismos, en aspectos de material electoral como urnas, mamparas, tinta indeleble, crayones, entre otros; padrón de afiliados y capacitación para el desarrollo de sus procesos internos de selección de instancia directivas y candidatos a puestos de elección popular.
-
-Los costos originados en los convenios a que se refiere el párrafo anterior, correrán por cuenta del Partido Político solicitante.
-
-En la firma de dichos convenios se garantizará la autonomía e independencia del Instituto Electoral del Distrito Federal y en ningún caso los funcionarios y empleados del Instituto, podrán involucrarse en los procesos internos de los partidos.
+(DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
 
 ### Capítulo III. De las Comisiones del Consejo
 
@@ -998,13 +1080,29 @@ e) Capacitación Electoral y Educación Cívica; y
 
 f) Organización Electoral;
 
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Las Comisiones, para su eficaz desempeño, podrán contar con el personal técnico que autorice el Consejo General.
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 65.
 
-La Comisión de Asociaciones Políticas auxiliará al Consejo General en lo relativo a los derechos, obligaciones y prerrogativas de las asociaciones políticas.
+La Comisión de Asociaciones Políticas tendrá las siguientes atribuciones:
 
-La Comisión de Asociaciones Políticas será la encargada de presentar a consideración del Consejo General el proyecto de dictamen de pérdida de registro del Partido Político local y Agrupación Política local, que se encuentren en cualquiera de los supuestos establecidos por este Código.
+I. Auxiliar al Consejo General en la supervisión del cumplimiento de las obligaciones de las asociaciones políticas y, en general, en lo relativo a los derechos y prerrogativas de éstas;
 
-Informar al Consejo General, de las irregularidades en que hubiesen incurrido las asociaciones políticas derivadas del incumplimiento de las disposiciones de éste Código, siempre que no sea atribución de otro órgano del Instituto Electoral del Distrito Federal.
+II. Presentar a la consideración del Consejo General el proyecto de dictamen de pérdida del registro de las agrupaciones políticas locales que se encuentren en cualquiera de los supuestos determinados por el Código;
+
+III. Informar al Consejo General de las irregularidades o incumplimiento de la normatividad aplicable en que hayan incurrido las asociaciones políticas, siempre que otro órgano del Instituto Electoral, no tenga competencia específica sobre el asunto;
+
+IV. Revisar el expediente y presentar a la consideración del Consejo General, el proyecto de dictamen de las solicitudes de registro de las organizaciones de ciudadanos que pretenden constituirse como agrupaciones políticas locales;
+
+V. Examinar y realizar observaciones a las estimaciones presupuestales que se destinarán a los partidos políticos, para incorporarlas al anteproyecto de presupuesto anual del Instituto Electoral;
+
+VI. Analizar el anteproyecto de acuerdo sobre las prerrogativas políticas en radio y televisión que gozarán los partidos políticos, y
+
+VII. Las demás atribuciones que le confiera este Código.
 
 ###### Artículo 66.
 
@@ -1034,7 +1132,7 @@ k) Intercambiar información con el Instituto Federal Electoral respecto a los i
 
 l) Las demás que le confiera este Código.
 
-La Comisión de Consejeros Electorales, para su eficaz desempeño, contará con el personal técnico que autorice el Consejo General.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 67.
 
@@ -1154,11 +1252,15 @@ n) Firmar, junto con el Presidente del Consejo General, todos los acuerdos y res
 
 ñ) Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
 
-o) Recibir los expedientes con las actas de cómputo por Demarcación Territorial y Distrito Uninominal, según corresponda y presentarlos oportunamente al Consejo General;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+o) Recibir los expedientes con las actas de cómputo por Delegación y Distrito Uninominal, según corresponda y presentarlos oportunamente al Consejo General;
 
 p) Recibir, para efectos de información y estadísticas electorales, copias de los expedientes de todas las elecciones;
 
-q) Dar cuenta al Consejo General con los informes que sobre las elecciones reciba de los Consejos Distritales y de Demarcación Territorial;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+q) Dar cuenta al Consejo General con los informes que sobre las elecciones reciba de los Consejos Distritales y de los que funjan como Cabecera de Delegación;
 
 r) Proponer al Presidente del Consejo General el anteproyecto de las políticas y de los programas generales del Instituto Electoral del Distrito Federal; y
 
@@ -1194,15 +1296,21 @@ e) Las demás que le confiera este Código.
 
 La Dirección Ejecutiva de Asociaciones Políticas tiene las atribuciones siguientes:
 
-a) Tramitar las solicitudes de registro que formulen las organizaciones de ciudadanos que pretendan constituirse como Partidos Políticos o como Agrupaciones Políticas locales y realizar las actividades pertinentes;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-b) Inscribir en el libro respectivo el registro de partidos y Agrupaciones Políticas, así como los convenios de fusión, frentes y coaliciones;
+a) Tramitar las solicitudes de registro que formulen las organizaciones de ciudadanos que pretendan constituirse como Agrupaciones Políticas Locales y realizar las actividades pertinentes;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Inscribir en el libro respectivo el registro de las Agrupaciones Políticas Locales, así como los convenios de fusión, frentes y coaliciones;
 
 c) Ministrar a las asociaciones políticas el financiamiento público al que tienen derecho conforme a lo señalado en este Código;
 
 d) Apoyar las gestiones de las asociaciones políticas para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
 
-e) Realizar las actividades para que los Partidos Políticos ejerzan sus prerrogativas y puedan acceder a la contratación de tiempos en radio y televisión, en los términos de este Código;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) Realizar las actividades para que las Asociaciones Políticas ejerzan sus prerrogativas y puedan acceder a la contratación de tiempos en radio y televisión, en los términos de este Código;
 
 f) Llevar el libro de registro de los integrantes de los órganos directivos de los asociaciones políticas y de sus representantes acreditados ante los órganos del Instituto;
 
@@ -1268,7 +1376,9 @@ g) Participar en los convenios que se celebren con las autoridades competentes r
 
 h) Proporcionar a los órganos competentes del Instituto Electoral del Distrito Federal y a los Partidos Políticos participantes en el proceso electoral, el padrón y las listas nominales de electores, en los términos de este Código;
 
-i) Mantener actualizada la cartografía electoral del Distrito Federal, clasificada por distrito electoral, Demarcación territorial, localidad, sección electoral y manzana;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+i) Mantener actualizada la cartografía electoral del Distrito Federal, clasificada por distrito electoral, Delegación, localidad, sección electoral y manzana;
 
 j) Desarrollar las acciones necesarias para asegurar que los Comités Técnicos y de Vigilancia se integren, sesionen y funcionen en los términos previstos por este Código;
 
@@ -1280,11 +1390,13 @@ l) Las demás que le confiera este Código.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 81.
 
-En cada uno de los distritos electorales uninominales en que se divida el Distrito Federal, el Instituto contará con un órgano desconcentrado integrado por un Consejo Distrital y Direcciones técnico-ejecutivas, las cuales tendrán su sede en cada una de las cabeceras distritales.
+En cada uno de los distritos electorales uninominales en que se divida el Distrito Federal, el Instituto contará con un órgano desconcentrado integrado por un Consejo Distrital y Direcciones Distritales, las cuales tendrán su sede en cada una de las cabeceras distritales.
 
-Las áreas ejecutivas de los órganos desconcentrados estarán integradas invariablemente por funcionarios del Servicio Profesional Electoral.
+La (sic) Direcciones Distritales estarán integradas invariablemente por funcionarios del Servicio Profesional Electoral.
 
 ### Capítulo II
 
@@ -1354,15 +1466,21 @@ b) Acreditar a los ciudadanos mexicanos que hayan presentado su solicitud ante e
 
 c) Ordenar la entrega a los Presidentes de las Mesas Directivas de Casilla, de la documentación, materiales y útiles necesarios, para el debido cumplimiento de sus funciones;
 
-d) Recibir los paquetes electorales y la documentación relativa a las elecciones de Jefe de Gobierno, titulares de las demarcaciones territoriales y diputados;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) Recibir los paquetes electorales y la documentación relativa a las elecciones de Jefe de Gobierno, Jefes Delagacionales y Diputados;
 
 e) Efectuar los cómputos distritales de las elecciones de Diputados de mayoría relativa y entregar las constancias respectivas;
 
-f) Realizar el cómputo distrital de la votación para Jefe de Gobierno del Distrito Federal y de Concejo de Gobierno de Demarcación Territorial;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+f) Realizar el cómputo distrital de la votación para Jefe de Gobierno del Distrito Federal, para Jefe Delegacional y para Diputados a la Asamblea Legislativa por ambos principios;
 
 g) Supervisar las actividades que realicen los órganos ejecutivos y técnicos durante el proceso electoral;
 
-h) Nombrar las Comisiones de Consejeros Electorales por cada una de las Direcciones Técnico-Ejecutivas Distritales y las que sean necesarias para vigilar y organizar el adecuado ejercicio de sus atribuciones, con el número de miembros que para cada caso acuerde;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+h) Nombrar las Comisiones de Consejeros Electorales por cada una de las Direcciones Distrales (sic) y las que sean necesarias para vigilar y organizar el adecuado ejercicio de sus atribuciones, con el número de miembros que para cada caso acuerde;
 
 i) Registrar las fórmulas de candidatos a Diputados por el principio de mayoría relativa;
 
@@ -1376,19 +1494,25 @@ m) Registrar los nombramientos de los representantes que los Partidos Políticos
 
 n) Expedir la identificación de los representantes de los partidos en un plazo máximo de cuarenta y ocho horas a partir de su registro, y en todo caso cinco días antes de la jornada electoral;
 
-o) Enviar al Consejo General las actas levantadas sobre el cómputo distrital de las elecciones de Jefe de Gobierno, Concejos de Gobierno de las demarcaciones territoriales y Diputados,
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+o) Enviar al Consejo General las actas levantadas sobre el cómputo distrital de las elecciones de Jefe de Gobierno y Diputados; y al Consejo Distrital Cabecera de Delegación las de Jefe Delegacional, estos a su vez las enviarán al Consejo General;
 
 p) Preparar la memoria técnica del proceso electoral en el Distrito Electoral correspondiente, remitiéndola a la Secretaría Ejecutiva del Instituto Electoral del Distrito Federal, dentro de los sesenta días siguientes al de la jornada electoral; y
 
-l) (sic) Las demás que les confiera este Código.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+q) Las demás que les confiera este Código.
 
 Los Consejeros, Electorales tendrán en el ámbito de su función, las atribuciones señaladas en el artículo 72 de este Código. Tendrán la obligación de participar en los cursos de capacitación que imparta el Centro de Capacitación Electoral.
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 86.
 
-Para la elección de los Concejos de Gobierno y para los procesos de elección vecinal por demarcación, el Consejo General designará Consejos Distritales Cabecera de Demarcación Territorial, tomando como base los Distritos en donde se encuentren las oficinas centrales de los órganos político-administrativo de la Demarcación Territorial de que se trate.
+Para la elección de Jefes Delegacionales, y para los procesos de elección vecinal, el Consejo General designará Consejos Distritales Cabecera de Delegación, tomando como base los Distritos en donde se encuentren las oficinas centrales de la Delegación de que se trate.
 
-Los Consejos de los Distritos Cabecera de Demarcación territorial, además de lo dispuesto en el artículo anterior, tendrán las atribuciones de registrar planillas de candidatos a Concejos de Gobierno, así como realizar el cómputo total de dicha elección. Asimismo, entregarán las constancias de mayoría y de asignación por el principio de representación proporcional, en los términos de este Código.
+Los Consejos de los Distritos Cabecera de Delegación, además de lo dispuesto en el artículo anterior, tendrán las atribuciones de registrar a los candidatos a Jefe Delegacional, así como realizar el cómputo total de dicha elección. Asimismo, entregarán las constancias de mayoría y remitirán al Tribunal Electoral del Distrito Federal los medios de impugnación que al efecto se interpongan, en los casos de nulidad previstos en este Código.
 
 ### Capítulo III. De las atribuciones del Presidente y Secretario de los Consejos Distritales
 
@@ -1414,9 +1538,13 @@ h) Dar cuenta inmediatamente al Secretario Ejecutivo del Instituto, de los cómp
 
 i) Colocar en el exterior de la sede del Consejo, los resultados de los cómputos distritales;
 
-j) Mantener en custodia la documentación de las elecciones de Jefe de Gobierno, Concejos de Gobierno de las Demarcaciones Territoriales y diputados hasta que concluya el proceso electoral correspondiente;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-k) Turnar al Consejo General del Instituto Electoral del Distrito Federal y en su caso al Tribunal Electoral del Distrito Federal, copia certificada del expediente de los cómputos distritales relativos a las elecciones de Jefe de Gobierno, Concejos de Gobierno de las demarcaciones territoriales y diputados;
+j) Mantener en custodia la documentación de las elecciones de Jefe de Gobierno, Jefes Delegacionales y diputados a la Asamblea Legislativa por ambos principios, hasta que concluya el proceso electoral correspondiente;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+k) Turnar al Consejo General del Instituto Electoral del Distrito Federal y, en su caso, al Tribunal Electoral del Distrito Federal, copia certificada del expediente de los cómputos distritales relativos a las elecciones de Jefe de Gobierno, Jefes Delegacionales y diputados a la Asamblea Legislativa por ambos principios; y
 
 l) Las demás que les señale este Código.
 
@@ -1438,17 +1566,27 @@ f) Firmar junto con el Consejero Presidente, los acuerdos, certificaciones y res
 
 g) Las demás que disponga esta Ley.
 
-### CAPITULO IV. De Direcciones Ejecutivas de los distritos electorales
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO IV
+
+De las Direcciones de los Distritos Electorales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 89.
 
-Las Direcciones Ejecutivas Distritales son órganos permanentes que se integran por un Coordinador distrital, que será el Presidente del Consejo Distrital, un Director de Organización Electoral y Capacitación y un Director del Registro de Electores del Distrito Federal.
+Las Direcciones Distritales son órganos permanentes que se integran por un Coordinador Distrital, que será el Presidente del Consejo Distrital, un Director de Organización Electoral y Capacitación y un Director del Registro de Electores del Distrito Federal.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 90.
 
-Las Direcciones Ejecutivas Distritales tendrán, dentro del ámbito de su competencia territorial las siguientes atribuciones:
+Las Direcciones Distritales tendrán, dentro del ámbito de su competencia territorial, las siguientes atribuciones:
 
-a) Ejecutar los programas relativos al Registro de Electores del Distrito Federal, Organización Electoral, y Capacitación Electoral y Educación Cívica;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) Ejecutar los programas relativos al Registro de Electores del Distrito Federal, Organización Electoral, Capacitación Electoral y Educación Cívica;
 
 b) Informar mensualmente al Secretario Ejecutivo sobre el desarrollo de sus actividades;
 
@@ -1462,27 +1600,41 @@ d) Las demás que les confiera este Código.
 
 Para vigilar la producción y difusión de las actividades del Instituto Electoral del Distrito Federal y de los Partidos Políticos en los medios masivos de comunicación se integrará el Comité de Radiodifusión que será presidido por el Consejero Electoral a cargo de la Comisión del Consejo General de Asociaciones Políticas y fungirá como Secretario técnico el Director de Asociaciones Políticas, así como por un representante de cada Partido Político con facultades de decisión sobre la elaboración de programas de su partido.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 92.
 
-Los Comités Técnicos y de Vigilancia del Padrón Electoral se integrarán y funcionarán de acuerdo a lo siguiente:
+Los Comités Técnicos y de Vigilancia del Registro de Electores se integrarán y funcionarán de acuerdo a las bases siguientes:
 
-I. Serán presididos por el Director Ejecutivo del Registro de Electores del Distrito Federal y se integrarán además con un representante de cada partido político;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-II. Los Comités Técnicos y de Vigilancia del Padrón Electoral tienen las atribuciones siguientes:
+I. De su integración:
 
-a) Vigilar que la inscripción de los ciudadanos en el Padrón electoral y en las listas nominales de electores, así como su actualización, se lleven a cabo en los términos establecidos en este Código;
+a) Serán presididos por el Director Ejecutivo del Registro de Electores del Distrito Federal, o en su caso, por los Directores Distritales del Registro de Electores;
 
-b) Vigilar que las credenciales para votar con fotografía se entreguen oportunamente a los ciudadanos;
+b) Tendrán un Secretario designado por el Presidente; y
 
-c) Coadyuvar en la campaña anual de actualización del Padrón electoral;
+c) Los partidos políticos deberán acreditar oportunamente a sus representantes ante los respectivos Comités Técnicos y de Vigilancia del Registro de Electores, los que podrán ser sustituidos en todo momento.
 
-d) Conocer de los trabajos que la Dirección Ejecutiva del Registro de Electores del Distrito Federal realice en materia de geografía electoral y actualización cartográfica;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-e) Podrán solicitar a la Dirección Ejecutiva del Registro de Electores del Distrito Federal o a los responsables Distritales, según corresponda, someter a consideración del Consejo General el acuerdo para que se aplique en una sección, Demarcación Territorial o Distrito Electoral la técnica censal parcial; y
+II. Los Comités Técnicos y de Vigilancia del Registro de Electores tienen las atribuciones siguientes:
 
-f) Las demás que les confiera el presente Código.
+a) Vigilar que la inscripción de los ciudadanos en el Padrón Electoral y en las listas nominales de electores, así como su actualización, se lleven a cabo en los términos establecidos en este Código;
 
-Los Comités Técnicos y de Vigilancia sesionarán por lo menos una vez al mes.
+b) Vigilar que las credenciales de elector del Distrito Federal se entreguen oportunamente a los ciudadanos;
+
+c) Coadyuvar en la campaña anual de actualización del Padrón Electoral;
+
+d) Recibir de los partidos políticos las observaciones que formulen a las listas nominales;
+
+e) Conocer de los trabajos que la Dirección Ejecutiva del Registro de Electores del Distrito Federal realicen materia de geografía electoral y actualización cartográfica;
+
+f) Podrán solicitar a la Dirección Ejecutiva del Registro de Electores del Distrito Federal o a los responsables Distritales, según corresponda, someter a consideración del Consejo General el acuerdo para que se aplique en una sección, Delegación o Distrito Electoral, la técnica censal parcial; y
+
+g) Las demás que les confiera el presente Código.
+
+Los Comités Técnicos y de Vigilancia sesionarán por lo menos una vez al mes y deberán elaborar un acta de cada sesión.
 
 III. Los Comités Técnicos y de Vigilancia del padrón Electoral formarán un equipo de apoyo técnico, integrado por un coordinador que será el Secretario Técnico del Comité Técnico y de Vigilancia y un representante por cada partido político, con calificación técnica en las áreas de estadística, actuaría, informática o de demografía, podrán ser sustituidos en todo momento.
 
@@ -1504,7 +1656,9 @@ g) Supervisar el centro de cómputo para conocer materialmente los procedimiento
 
 h) Conocer los avances del impacto de la campaña de comunicación social y en su caso proponer acciones que la hagan más eficiente;
 
-i) Evaluación que se realizará conforme se desarrollen cada una de las etapas procedimentales señaladas en la planeación general del programa en cada Demarcación Territorial, para conocer el grado de cumplimiento de los procedimientos y logro de los objetivos; en su caso propondrá adecuaciones o innovaciones a los procedimientos, con el objeto de procurar una mayor eficiencia. Las adecuaciones e innovaciones que se formulen considerarán el uso racional de los recursos con que cuenta el Instituto Electoral del Distrito Federal para ejecutar los programas;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+i) Evaluación que se realizará conforme se desarrollen cada una de las etapas procedimentales señaladas en la planeación general del programa en cada Delegación, para conocer el grado de cumplimiento de los procedimientos y logro de los objetivos; en su caso propondrá adecuaciones o innovaciones a los procedimientos, con el objeto de procurar una mayor eficiencia. Las adecuaciones e innovaciones que se formulen considerarán el uso racional de los recursos con que cuenta el Instituto Electoral del Distrito Federal para ejecutar los programas;
 
 j) Auditar la correspondencia entre la Distritación, la delimitación territorial de las secciones electorales y los productos cartográficos que comprendan el número de ciudadanos previstos en este Código;
 
@@ -1542,7 +1696,9 @@ f) Haber participado en el curso de capacitación electoral impartido por el ár
 
 g) No ser servidor público de confianza con mando superior, ni tener cargo de dirección partidista de cualquier jerarquía, ni parentesco hasta el segundo grado con los candidatos a elegir; y
 
-a) (sic) Saber leer y escribir y no tener más de 70 años al día de la elección.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+h) Saber leer y escribir y no tener más de 70 años al día de la elección.
 
 ### Capítulo II. De sus atribuciones
 
@@ -1558,11 +1714,17 @@ c) Recibir la votación;
 
 d) Efectuar el escrutinio y cómputo de la votación;
 
-f) Permanecer en la casilla desde su instalación hasta su clausura;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-g) Respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo; y
+e) Permanecer en la casilla desde su instalación hasta su clausura;
 
-h) Las demás que les confieran este Código y disposiciones relativas.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+f) Respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto y asegurar la autenticidad del escrutinio y cómputo; y
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+g) Las demás que les confieran este Código y disposiciones relativas.
 
 ###### Artículo 96.
 
@@ -1584,7 +1746,9 @@ g) Concluidas las labores de la casilla, entregar oportunamente al Consejo Distr
 
 h) Fijar en un lugar visible al exterior de la casilla los resultados del cómputo de cada una de las elecciones; y
 
-b) (sic) Las demás que le confiera este Código.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+i) Las demás que le confiera este Código.
 
 ###### Artículo 97.
 
@@ -1594,7 +1758,9 @@ a) Levantar durante la jornada electoral las actas que ordena este Código y dis
 
 b) Anotar en el acta respectiva, el número de boletas electorales recibidas de cada una de las elecciones, y el número de electores anotados en la Lista Nominal de electores;
 
-a) (sic) Comprobar que el nombre del elector figure en la Lista Nominal correspondiente;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Comprobar que el nombre del elector figure en la Lista Nominal correspondiente;
 
 d) Marcar, en el apartado correspondiente a la elección local, la credencial para votar con fotografía del ciudadano que haya votado;
 
@@ -1634,7 +1800,9 @@ No podrán actuar como Consejeros Electorales ni como representantes de los Part
 
 a) Juez, Magistrado o Ministro del Poder Judicial Federal, Juez o Magistrado del Poder Judicial de una entidad federativa o integrante del Consejo de la Judicatura federal o de alguna entidad federativa;
 
-b) Consejero Electoral o miembro del servicio profesional electoral, a menos que se separe del cargo con un año de anticipación;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Consejero Electoral o miembro del servicio profesional electoral del Instituto Federal Electoral;
 
 c) Miembro en servicio activo de cualquier fuerza armada o policiaca;
 
@@ -1690,9 +1858,13 @@ En las oficinas distritales del Registro de Electores del Distrito Federal, se e
 
 El Registro de Electores del Distrito Federal está compuesto por los instrumentos siguientes:
 
-a) Catálogo de Electores, donde se consigna la información básica de los varones y mujeres mexicanos mayores de 18 años, residentes en el Distrito Federal, recabada a través de la técnica censal total;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-b) Padrón electoral, en donde constarán los nombres de los ciudadanos consignados en el Catálogo de Electores y de quienes han presentado la solicitud de inscripción; y
+a) Catálogo de Electores, donde se consigna la información básica de los varones y mujeres mexicanos mayores de 18 años, residentes en el Distrito Federal, recabada a través de la técnica censal total, que servirá como instrumento de apoyo en el trabajo de construcción del padrón electoral;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Padrón electoral, en donde constarán los nombres de los ciudadanos que han presentado por escrito la solicitud de inscripción; y
 
 c) Listas Nominales, que serán las relaciones elaboradas por la Dirección Ejecutiva del Registro de Electores del Distrito Federal, que contienen el nombre y la fotografía de las personas incluidas en el Padrón electoral, agrupadas en orden alfabético por distrito y sección, a quienes se ha expedido y entregado su credencial para votar con fotografía.
 
@@ -1724,7 +1896,9 @@ e) Ocupación; y
 
 f) En su caso, el número y fecha del certificado de naturalización.
 
-La información básica contendrá además de la Demarcación política-administrativa, la localidad, manzana, el Distrito Electoral Uninominal y la sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita y el nombre y la firma del entrevistador. En todos los casos se procurará establecer el mayor número de elementos para ubicar dicho domicilio geográficamente.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+La información básica contendrá, además de la Delegación, distrito electoral uninominal, la localidad y la sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita y el nombre y la firma del entrevistador. En todos los casos se procurará establecer el mayor número de elementos para ubicar dicho domicilio geográficamente.
 
 Concluida la aplicación de la técnica censal total y de forma permanente, la Dirección Ejecutiva del Registro de Electores del Distrito Federal verificará que no existan duplicaciones en el Catálogo de electores del Distrito Federal, o de éste respecto al Padrón Electoral de otras entidades federativas, a fin de asegurar que cada elector aparezca registrado una sola vez.
 
@@ -1748,7 +1922,9 @@ El Instituto Electoral del Distrito Federal debe inscribir a los ciudadanos en l
 
 La solicitud de incorporación al Catálogo de Electores servirá para la inscripción de los ciudadanos en el Padrón electoral; se hará en formas individuales en las que se asentarán los datos requeridos para la incorporación al Catálogo de Electores, así como la firma y, en su caso, huella digital y fotografía del solicitante.
 
-Además el personal encargado de la inscripción asentará la Demarcación política-administrativa, manzana o localidad donde se realice la inscripción, el Distrito electoral y sección electoral correspondiente al domicilio y fecha de la solicitud de incorporación o inscripción, en su caso.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Además el personal encargado de la inscripción asentará la Delegación, manzana o localidad donde se realice la inscripción, el distrito electoral y sección electoral correspondiente al domicilio y fecha de la solicitud de incorporación o inscripción, en su caso.
 
 Al ciudadano se le entregará un comprobante de su solicitud, con el número de ésta, el cual devolverá al momento de recibir o recoger su credencial para votar con fotografía.
 
@@ -1768,7 +1944,9 @@ II. La Dirección Ejecutiva del Registro de Electores del Distrito Federal podr�
 
 La técnica censal tendrá por objeto recabar la información básica de los ciudadanos no incluidos en el Catálogo de Electores o, en su caso, verificar los datos contenidos en el mismo, mediante visitas casa por casa. Si derivado de la aplicación de la técnica censal se verificarán errores en los datos del Catálogo, del Padrón Electoral o del Listado Nominal, se procederá a dejar notificación al ciudadano para que (sic) un plazo de quince días acuda a las Oficinas de la Dirección Ejecutiva del Registro de Electores del Distrito Federal, a fin de que aclare su situación registral, en todo caso se realizarán las correcciones que procedan.
 
-Según lo dispuesto por este Código, establecida una nueva Demarcación territorial de los distritos electorales uninominales, el Consejo General del Instituto, con la finalidad de contar con un Catálogo de Electores del que se derive un Padrón integral, auténtico y confiable, podrá ordenar, si fuere necesario, que la Dirección Ejecutiva del Registro de Electores del Distrito Federal aplique las técnicas disponibles, incluyendo la técnica censal total en el territorio del Distrito Federal, de acuerdo a los criterios del Comité Técnico y de Vigilancia Local.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Según lo dispuesto por este Código, establecida una nueva delimitación de los Distritos Electorales Uninominales, el Consejo General del Instituto, con la finalidad de contar con un Catálogo de Electores del que se derive un Padrón integral, auténtico y confiable, podrá ordenar, si fuere necesario, que la Dirección Ejecutiva del Registro de Electores del Distrito Federal aplique las técnicas disponibles, incluyendo la técnica censal total en el territorio del Distrito Federal, de acuerdo con los criterios del Comité Técnico y de Vigilancia Local.
 
 ###### Artículo 114.
 
@@ -1870,7 +2048,9 @@ Los ciudadanos y partidos acompañarán a sus observaciones la documentación qu
 
 La Dirección Ejecutiva del Registro de Electores del Distrito Federal examinará las observaciones de los Partidos Políticos, así como las de los ciudadanos haciendo, en su caso, las modificaciones que conforme a derecho hubiere lugar.
 
-Las observaciones serán introducidas a las listas del Padrón electoral, haciéndose las modificaciones del caso.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Las observaciones serán introducidas al Padrón Electoral y a las listas nominales, haciéndose las modificaciones del caso.
 
 De lo anterior informará al Comité Local Técnico y de Vigilancia y al Consejo General del Instituto Electoral del Distrito Federal a más tardar el 5 de junio.
 
@@ -1880,9 +2060,11 @@ Una vez concluido el procedimiento de revisión de Listados Nominales y, en su c
 
 ### Capítulo VII. De la credencial para votar con fotografía
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 125.
 
-La credencial para votar con fotografía deberá contener como datos del elector los siguientes, apellido paterno, apellido materno, nombre completo, Sexo; Edad, año de registro; Entidad Federativa, Demarcación Territorial que correspondan al domicilio; distrito electoral, sección electoral Clave de registro electoral y clave de registro nacional de población.
+La credencial para votar con fotografía deberá contener como datos del elector los siguientes: apellido paterno, apellido materno, nombre completo, sexo, edad, año de registro, entidad federativa, delegación que corresponda al domicilio, distrito electoral, sección electoral, clave del registro electoral y clave del registro nacional de población.
 
 Además tendrán:
 
@@ -2024,9 +2206,11 @@ El Instituto Electoral del Distrito Federal celebrará los convenios necesarios 
 
 ## TITULO PRIMERO. Disposiciones Preliminares
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 134.
 
-Los procesos electorales para la renovación periódica de los integrantes de los órganos de gobierno Legislativo y Ejecutivo, así como los Concejos de Gobierno de las Demarcaciones Territoriales del Distrito Federal y para la realización de procesos de participación ciudadana, están constituidos por el conjunto de actos ordenados por la Constitución, el Estatuto de Gobierno y este Código, realizados por las autoridades electorales, los Partidos Políticos y los ciudadanos en la elección de representantes populares y por las autoridades locales y los ciudadanos en el caso de los procesos de participación ciudadana, de acuerdo a la ley respectiva.
+Los procesos electorales para la renovación periódica del Jefe de Gobierno, Diputados a la Asamblea Legislativa y Jefes Delegacionales, y para la realización de procesos de participación ciudadana, están constituidos por el conjunto de actos ordenados por la Constitución, el Estatuto de Gobierno, este Código y demás leyes relativas, realizados por las autoridades electorales, los Partidos Políticos y los ciudadanos en la elección de representantes populares; y por las autoridades locales y los ciudadanos en el caso de los procesos de participación ciudadana, de acuerdo a la ley respectiva.
 
 ###### Artículo 135.
 
@@ -2040,9 +2224,11 @@ Durante los procesos electorales y de participación ciudadana todos los días y
 
 ### Capítulo I. Del Proceso Electoral Ordinario
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 136.
 
-Las elecciones ordinarias de Jefe de Gobierno, de Diputados a la Asamblea Legislativa y de Concejos de Gobierno de Demarcación Territorial deberán celebrarse el primer domingo de julio del año que corresponda.
+Las elecciones ordinarias de Jefe de Gobierno, de Diputados a la Asamblea Legislativa y de Jefes Delegacionales deberán celebrarse el primer domingo de julio del año que corresponda.
 
 ###### Artículo 137.
 
@@ -2064,7 +2250,9 @@ Cuando se declare nula o haya empate en una elección o se declare la nulidad de
 
 En el caso de vacantes de miembros de la Asamblea Legislativa del Distrito Federal electos por el principio de mayoría relativa, la Asamblea Legislativa del Distrito Federal podrá convocar a elecciones extraordinarias, lo cual será comunicado al Instituto Electoral del Distrito Federal para los efectos del párrafo anterior.
 
-En caso de que la elección de los Concejos de Gobierno de las Demarcaciones Territoriales, si la elección no se hubiese realizado o se hubiese anulado, la Asamblea Legislativa del Distrito Federal nombrará un Concejo provisional. El Instituto Electoral del Distrito Federal convocará a elección extraordinaria.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+En caso de que la elección del Jefe Delegacional no se hubiese realizado, se hubiese anulado, o se hubiese declarado empate, la Asamblea Legislativa del Distrito Federal nombrará al Jefe Delegacional provisional en términos de lo previsto por el Estatuto de Gobierno. El Instituto Electoral del Distrito Federal convocará a la elección extraordinaria correspondiente.
 
 ###### Artículo 139.
 
@@ -2078,9 +2266,11 @@ En la elección extraordinaria podrá participar el partido que hubiese perdido 
 
 En los procesos de participación ciudadana se aplicarán las reglas especiales señaladas por la Ley de Participación Ciudadana y se aplicaran en lo conducente las reglas señaladas para el proceso electoral para la preparación, recepción y cómputo de la votación, previstas en el presente Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 141.
 
-La etapa de preparación del proceso de participación ciudadana iniciará con la convocatoria respectiva y concluirá con la jornada electoral, el plazo para su realización será de 60 días.
+La etapa de preparación del proceso de participación ciudadana iniciará con la convocatoria respectiva y concluirá con la jornada electoral, el plazo para su realización será de noventa días.
 
 Los plazos para la realización de los procedimientos comprendidos en la etapa de preparación del proceso de participación ciudadana se deberán establecer en la convocatoria respectiva, debiéndose respetar las formalidades de los mismos, sin menoscabo del plazo señalado en el párrafo anterior.
 
@@ -2098,7 +2288,9 @@ Los Partidos Políticos que integran los Consejos del Instituto Electoral del Di
 
 Los Partidos Políticos promoverán, en los términos que determina este Código y sus documentos internos, una mayor participación de las mujeres en la vida política del país, a través de la postulación a cargos de elección popular.
 
-Las candidaturas a Diputados se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente, los candidatos a Diputados y Concejales por ambos principios no podrán superar en más de 70% un mismo género.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Las candidaturas a Diputados por el principio de mayoría relativa se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente. Los candidatos a Diputados por ambos principios que postule cada Partido Político no podrán exceder del 70% de un mismo género.
 
 Los partidos políticos no podrán registrar en el mismo proceso electoral, a un mismo ciudadano para diferentes cargos de elección popular, salvo el caso de registro de candidaturas a diputados por el principio de mayoría relativa y de representación proporcional.
 
@@ -2110,7 +2302,9 @@ a) Para Jefe de Gobierno del Distrito Federal, del 29 de marzo al 4 de abril inc
 
 b) Para Diputados electos por el principio de mayoría relativa, del 29 de Abril al 5 de mayo inclusive, por los Consejos Distritales Electorales;
 
-c) Para Concejos de Gobierno de las Demarcaciones Territoriales, del 29 de abril al 5 de mayo inclusive, por los Consejos Distritales Cabecera de Demarcación Territorial; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Para Jefes Delegacionales, del 29 de abril al 5 de mayo inclusive, por los Consejos Distritales Cabecera de Delegación; y
 
 d) Para Diputados electos por el principio de representación proporcional, del 6 al 12 de mayo inclusive, por el Consejo General.
 
@@ -2158,7 +2352,9 @@ En el caso de que para un mismo cargo de elección popular sean registrados dife
 
 Cualquier solicitud presentada fuera de los plazos para el registro de candidaturas será desechada de plano y en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
-Los Consejos Distritales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior, a efecto de que proceda el Secretario Ejecutivo a realizar la publicación de conclusión del registro de candidaturas, y de los nombres de los candidatos o fórmulas registradas y de aquellos que no cumplieron con los requisitos. En la misma forma se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Los Consejos Distritales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo primero de este artículo, a efecto de que proceda el Secretario Ejecutivo a realizar la publicación de conclusión de registro de candidaturas, y de los nombres de los candidatos o fórmulas registradas y de aquellos que no cumplieron con los requisitos. En la misma forma se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
 
 ###### Artículo 146.
 
@@ -2236,15 +2432,19 @@ a) Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas s
 
 b) Podrá colgarse o adherirse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario, al Partido Político o candidato, mismo que se registrará ante el Consejo Distrital correspondiente;
 
-c) Podrá colgarse o adherirse en los lugares de uso común que determinen los Consejos de Demarcación del Instituto, previo acuerdo con las autoridades correspondientes;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Podrá colgarse o adherirse en los lugares de uso común que determinen los Consejos Distritales, de conformidad con los criterios que emita el Consejo General, previo acuerdo con las autoridades correspondientes;
 
 d) No podrá adherirse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico; y
 
 e) No podrá colgarse, fijarse o pintarse en monumentos históricos, arqueológicos, artísticos y construcciones de valor cultural, ni en el exterior de edificios públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 155.
 
-Se entiende por lugares de uso común los que son propiedad del Gobierno del Distrito Federal, los bienes abandonados o mostrenco (sic), mamparas que se establecieran en el número que determine el Consejo General, previo acuerdo con el Gobierno del Distrito Federal o los lugares que los particulares pongan a disposición del Instituto Electoral del Distrito Federal para efecto de propaganda, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral. Estos lugares serán repartidos de forma igual y por sorteo entre los Partidos Políticos registrados, conforme al procedimiento acordado en la sesión del Consejo respectivo, que celebren en el mes anterior al inicio de las campañas electorales.
+Se entiende por lugares de uso común, los que son propiedad del Gobierno del Distrito Federal, los bienes abandonados o mostrencos, mamparas que se establecieran en el número que determine el Consejo General, previo acuerdo con el Gobierno del Distrito Federal o los lugares que los particulares pongan a disposición del Instituto Electoral del Distrito Federal para efectos de propaganda, susceptibles de ser utilizados para la colocación y fijación de la propaganda electoral. Estos lugares serán repartidos en forma igualitaria y por sorteo entre los partidos políticos registrados, conforme al procedimiento acordado por el Consejo General, en sesión que celebren los Consejos Distritales a más tardar en la última semana del mes de marzo del año de la elección.
 
 Los Consejos Distritales, dentro del ámbito de su competencia velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiere lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos en la materia y el respeto a la propaganda colocada por los mimos (sic).
 
@@ -2320,7 +2520,9 @@ a) Se sumarán los días de campaña de cada una de las elecciones;
 
 b) Se sumará el financiamiento público para las actividades tendientes a la obtención del voto y la estimación del financiamiento privado, a que se refiere él artículo 37 fracción I de este Código, que en ambos casos el partido mayoritario puede obtener, de acuerdo a las reglas de financiamiento establecidas por el presente Código; y
 
-c) Se dividirá el resultado de la fracción (sic) b) entre el resultado de la fracción (sic) a), de este artículo. El resultado se dividirá en tres partes, la primera corresponderá a la elección de Jefe de Gobierno, la segunda se dividirá entre los distritos uninominales, dando el resultado correspondiente a cada uno, la tercera se dividirá entre el número de Demarcaciones Territoriales, en distritos y demarcaciones se considerará extensión y número de habitantes, determinando el Consejo General, basándose en estos criterios el resultado que corresponde a cada uno.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Se dividirá el resultado de la fracción b) entre el resultado de la fracción a) de este artículo. El resultado se dividirá en tres partes, la primera corresponderá a la elección de Jefe de Gobierno, la segunda se dividirá entre los distritos uninominales, dando el resultado correspondiente a cada uno, la tercera se dividirá entre el número de Delegaciones. En Distritos y Delegaciones se considerará extensión y número de habitantes, determinando el Consejo General, basándose en estos criterios, el resultado que corresponde a cada uno.
 
 Cada Partido Político deberá destinar por lo menos el 50% de las erogaciones que realice para propaganda en radio y televisión en programas para la difusión de su plataforma electoral, la promoción de sus candidatos, así como para el análisis de los temas de interés del Distrito Federal y su posición ante ellos.
 
@@ -2404,7 +2606,9 @@ b) De los recorridos se elaborará una lista con las distintas alternativas de u
 
 c) En sesión del Consejo Distrital que se celebre en la última semana del mes de abril, se examinarán los lugares propuestos para verificar cuales de ellos cumplen con los requisitos fijados por este Código y, en su caso, harán los cambios necesarios, para su aprobación definitiva; y
 
-d) El Secretario Ejecutivo del Consejo General ordenará la publicación de la lista de ubicación de casillas aprobadas, a más tardar el 15 de junio del año de la elección y ordenará una segunda publicación de la lista, en su caso, con los ajustes correspondientes, la última semana de junio del año de la elección. Los Presidentes de los Consejos Distritales harán lo propio en los lugares públicos comprendidos en su Demarcación.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) El Secretario Ejecutivo del Consejo General ordenará la publicación de la lista de ubicación de casillas aprobadas, a más tardar el 15 de junio del año de la elección y ordenará una segunda publicación de la lista, en su caso, con los ajustes correspondientes, la última semana de junio del año de la elección. Los Presidentes de los Consejos Distritales harán lo propio en los lugares públicos comprendidos en su distrito.
 
 ### Capítulo II. De la designación de funcionarios de casilla
 
@@ -2446,7 +2650,9 @@ c) Los nombramientos de los representantes, se harán en hoja membretada del par
 
 d) Durante el plazo para su registro los Partidos Políticos podrán sustituir libremente a sus representantes, posteriormente solo por causa de fuerza mayor; y
 
-a) (sic) El Presidente y Secretario del Consejo Distrital sellarán y firmarán los nombramientos respectivos y los devolverán a los Partidos Políticos, a más tardar cinco días antes de la elección, conservando una relación de los mismos para su entrega a Presidentes de Mesas de Casilla y Asistentes Electorales.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) El Presidente y Secretario del Consejo Distrital sellarán y firmarán los nombramientos respectivos y los devolverán a los Partidos Políticos, a más tardar cinco días antes de la elección, conservando una relación de los mismos para su entrega a Presidentes de Mesas de Casilla y Asistentes Electorales.
 
 Las solicitudes de registro que no reúnan alguno o algunos de los requisitos se regresarán al partido político solicitante, para que dentro de los tres siguientes, subsane las omisiones. Vencido el término señalado sin corregirse la omisión, no se registrará el nombramiento.
 
@@ -2508,7 +2714,9 @@ La actuación de los observadores se sujetará a las normas siguientes:
 
 a) Tendrán derecho de presenciar y asistir a las sesiones públicas de los órganos del Instituto, de presenciar en las casillas electorales los actos relativos a la jornada electoral y a solicitar por escrito al Instituto información sobre el proceso electoral para el mejor desarrollo de sus actividades;
 
-a) (sic) Por ningún motivo podrán sustituir u obstaculizar a las autoridades electorales y representantes de los partidos políticos en el ejercicio de sus funciones, ni interferir en el desarrollo de las mismas;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Por ningún motivo podrán sustituir u obstaculizar a las autoridades electorales y representantes de los partidos políticos en el ejercicio de sus funciones, ni interferir en el desarrollo de las mismas;
 
 c) No podrán hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno, ni externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, Partidos Políticos o candidatos;
 
@@ -2530,7 +2738,9 @@ Para la emisión del voto el Consejo General del Instituto, tomando en cuenta la
 
 Las boletas para las elecciones populares contendrán:
 
-a) Demarcación Territorial o Distrito electoral;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) Delegación o Distrito Electoral;
 
 b) Cargo para el que se postula al candidato o candidatos;
 
@@ -2542,7 +2752,9 @@ e) Apellido paterno, apellido materno y nombre completo del candidato o candidat
 
 f) En la elección de diputados por mayoría relativa, un recuadro por cada partido político, que contengan la fórmula de candidatos propietarios y suplentes; en el reverso, la lista que cada partido político postule de sus candidatos a diputados por el principio de representación proporcional;
 
-g) En el caso de la elección de Concejos de Gobierno de las Demarcaciones Territoriales, un espacio por cada partido político, que contengan los candidatos electos por el principio de mayoría relativa; en el reverso, la lista que cada partido político postule de sus candidatos a Concejales por el principio de representación proporcional;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+g) En caso de la elección de Jefes Delegacionales, un espacio por cada candidato;
 
 h) En el caso de la elección de Jefe de Gobierno, un solo espacio para cada candidato;
 
@@ -2552,9 +2764,11 @@ j) Espacio para voto en blanco.
 
 Los colores y emblema de los Partidos Políticos aparecerán en la boleta en igual tamaño y en el orden que les corresponde de acuerdo a la antigüedad de su registro. En caso de coalición, el emblema registrado y los nombres de los candidatos aparecerán en el lugar que corresponda al partido coaligado de mayor antigüedad.
 
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 175.
 
-Las boletas serán impresas 30 días después de vencido el término para el registro de candidatos. En caso de cancelación del registro, o sustitución de uno o más candidatos, no habrá modificación a las boletas si éstas ya estuvieran impresas; en todo caso, los votos contarán para los Partidos Políticos, las coaliciones y los candidatos que estuviesen legalmente registrados ante los Consejos General o Distritales correspondientes.
+Las boletas serán impresas dentro de los treinta días posteriores al registro de candidatos. En caso de cancelación del registro, o sustitución de uno o más candidatos, no habrá modificación a las boletas si estas ya estuvieran impresas; en todo caso, los votos contarán para los Partidos Políticos, las coaliciones y los candidatos que estuviesen legalmente registrados ante los Consejos General o Distrital correspondientes.
 
 ###### Artículo 176.
 
@@ -2588,15 +2802,25 @@ b) La relación de los representantes de los partidos ante la casilla y generale
 
 c) Las boletas para cada elección, en número igual al de los electores que figuren en la (sic) Listas Nominales de electores con fotografía para cada casilla de la sección y el dato de los folios correspondientes;
 
-e) Las urnas para recibir la votación, una por cada elección de que se trate;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-f) El líquido indeleble;
+d) Las urnas para recibir la votación, una por cada elección de que se trate;
 
-g) La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-h) Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla, de los auxiliares electorales, de los representantes de los Partidos Políticos y observadores electorales; e
+e) El líquido indeleble;
 
-i) Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+f) La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+g) Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla, de los auxiliares electorales, de los representantes de los Partidos Políticos y observadores electorales;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+h) Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto.
 
 La recepción de la documentación, material y útiles a que se refiere este artículo, se hará con la participación de los integrantes de los Consejos Distritales Electorales que decidan asistir.
 
@@ -2650,7 +2874,9 @@ Para estos efectos, el Colegio de Notarios del Distrito Federal publicarán (sic
 
 Los Consejos Distritales designarán en el mes de junio del año de la elección, asistentes electorales, de entre los ciudadanos que hubieren atendido la convocatoria pública expedida por el Consejo General de acuerdo a lo siguiente:
 
-I.- Los asistentes electorales auxiliarán a las Direcciones Ejecutivas Distritales y a los Consejos Distritales en los trabajos de:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+I. Los asistentes electorales auxiliarán a las Direcciones Distritales y a los Consejos Distritales en los trabajos de:
 
 a) Recepción y distribución de la documentación y materiales electorales en los días previos a la elección;
 
@@ -2854,9 +3080,11 @@ c) El número de votos nulos y votos en blanco; y
 
 d) El número de boletas sobrantes, no utilizadas de cada elección.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 200.
 
-El escrutinio y cómputo se llevará a cabo iniciando con la elección de Jefe de Gobierno, enseguida con la elección de Diputados a la Asamblea Legislativa del Distrito Federal y finalizando con la de Concejo de Gobierno de las Demarcaciones Territoriales, de acuerdo a las reglas siguientes:
+El escrutinio y cómputo se llevará a cabo iniciando con la elección de Jefe de Gobierno, enseguida con la elección de Diputados a la Asamblea Legislativa del Distrito Federal y finalizando con la de Jefe Delegacional, de acuerdo a las reglas siguientes:
 
 a) El Secretario de la Mesa de Casilla contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta, las guardará en un sobre especial el cual quedará cerrado y anotará en el exterior del mismo el número de boletas que se contienen en él;
 
@@ -2910,7 +3138,9 @@ a) Un ejemplar del acta de la jornada electoral;
 
 b) Un ejemplar del acta final de escrutinio y cómputo; y
 
-d) Los escritos de incidente que se hubieren recibido.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+c) Los escritos de incidente que se hubieren recibido.
 
 En sobres por separado se remitirá la documentación siguiente:
 
@@ -2958,13 +3188,17 @@ El cómputo distrital de una elección es la suma que realiza el Consejo Distrit
 
 Los Consejos Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas, conforme a las reglas siguientes:
 
-a) El cómputo Distrital se hará conforme se vayan recibiendo los paquetes electorales de las casillas, se abrirán los paquetes electorales que no tengan muestras de alteración y se extraerán los expedientes de la elección. El Presidente del Consejo Distrital extraerá las actas de escrutinio y cómputo contenidas en el expediente de casilla, procediendo a dar lectura en voz alta en primer lugar a los resultados de la elección de Jefe de Gobierno, enseguida la de Diputados a la Asamblea Legislativa y por último a los del Concejo de Gobierno, en forma sucesiva hasta su conclusión;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) El cómputo Distrital se hará conforme se vayan recibiendo los paquetes electorales de las casillas, se abrirán los paquetes electorales que no tengan muestras de alteración y se extraerán los expedientes de la elección. El Presidente del Consejo Distrital extraerá las actas de escrutinio y cómputo contenidas en el expediente de casilla, procediendo a dar lectura en voz alta en primer lugar a los resultados de la elección de Jefe de Gobierno, enseguida a los de Jefe Delegacional, y por último a los de Diputados a la Asamblea Legislativa, en forma sucesiva hasta su conclusión;
 
 b) El Secretario asentará los resultados en las formas establecidas para ello. Si se detectaren errores o alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla o el acta fuera ilegible, al finalizar la recepción de los paquetes se procederá a realizar el cómputo distrital de casilla en los términos del artículo siguiente;
 
 c) Al finalizar la recepción de los paquetes, se procederá a abrir aquellos con muestras de alteración y se realizarán las operaciones señaladas en los incisos anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva;
 
-d) La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de las elecciones de Jefe de Gobierno, de Diputados por el principio de mayoría relativa y de Concejos de Gobierno que se asentarán en las actas correspondientes; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) La suma de los resultados, después de realizar las operaciones indicadas en los incisos anteriores, constituirá el cómputo distrital de las elecciones de Jefe de Gobierno, de Jefe Delegacional y de Diputados por el principio de mayoría relativa que se asentarán en las actas correspondientes; y
 
 e) El cómputo distrital de la elección de Diputados por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas en la elección de Diputados de mayoría relativa, y los resultados de Diputados de representación proporcional de las casillas especiales, que se asentará en el acta correspondiente.
 
@@ -2984,13 +3218,17 @@ b) Los resultados se anotarán en el acta respectiva, que deberán firmar los in
 
 Concluido el cómputo, el Presidente del Consejo Distrital procederá a realizar las acciones siguientes:
 
-a) Procederá a remitir de inmediato o, en su caso resguardar el expediente electoral relativo a la elección de Concejos de Gobierno, así como los resultados del cómputo distrital respectivo, al Consejo Distrital Cabecera de Demarcación político-administrativa que corresponda;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) Procederá a remitir de inmediato o, en su caso a resguardar, el expediente electoral relativo a la elección de Jefe Delegacional, así como los resultados del cómputo distrital respectivo, al Consejo Distrital Cabecera de Delegación que corresponda;
 
 b) Procederá a remitir el expediente electoral, así como los resultados del cómputo distrital relativos a la elección de Jefe de Gobierno, de la elección de Diputados por el principio de representación proporcional, y copia certificada del expediente de la elección de Diputados por el principio de mayoría relativa, al Consejo General del Instituto Electoral del Distrito Federal; y
 
 c) Deberá fijar en el exterior del local del Consejo Distrital, los resultados de cada una de las elecciones en el Distrito, para el mejor conocimiento de los ciudadanos, una vez concluídos los cómputos distritales.
 
-Los expedientes del cómputo distrital de la elección de Jefe de Gobierno, de Diputados de mayoría, Diputados de representación proporcional y de Concejo de Gobierno, contendrán las actas de las casillas, el acta de cómputo distrital respectiva, el acta circunstanciada de la sesión de cómputo y el informe del Presidente sobre el desarrollo del proceso electoral.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Los expedientes del cómputo distrital de la elección de Jefe de Gobierno, de Diputados de mayoría, Diputados de representación proporcional y de Jefe Delegacional, contendrán las actas de las casillas, el acta de cómputo distrital respectiva, el acta circunstanciada de la sesión de cómputo y el informe del Presidente sobre el desarrollo del proceso electoral.
 
 Los originales del acta circunstanciada de la sesión de cómputo y del informe del Presidente, se acompañarán en el expediente de la elección de Diputados de mayoría relativa, en los demás expedientes dichos documentos se acompañarán en copia certificada.
 
@@ -3002,27 +3240,45 @@ Los Presidentes de los Consejos Distritales conservarán en su poder una copia c
 
 El Secretario Ejecutivo y los Presidentes de los Consejos Distritales tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de los paquetes que contengan la documentación electoral hasta la conclusión del proceso electoral, los salvaguardarán y dispondrán su depósito en un lugar dentro del local del Consejo respectivo, que reúna las condiciones de seguridad, al efecto dispondrá que sean selladas las puertas de acceso del lugar en que fueron depositados, en presencia de los representantes de los partidos.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ### Capítulo II
 
-De los Cómputos de la elección de Jefe de Gobierno, de la elección de Diputados por el principio de representación proporcional y de la elección de Concejos de Gobierno
+De los cómputos de la elección de Jefe de Gobierno, de Jefes Delegacionales,
+
+y de la elección de Diputados a la Asamblea Legislativa
+
+por el principio de representación proporcional
 
 ###### Artículo 213.
 
 Los Consejos Distritales celebrarán sesión el martes siguiente al día de la jornada electoral, a efecto de expedir la Constancia de Mayoría a la fórmula de candidatos a Diputados quienes hubiesen obtenido el triunfo.
 
-Los Consejos Distritales Cabecera de Demarcación Territorial, una vez entregada la constancia a que se refiere el párrafo anterior, procederán a realizar el cómputo total de Demarcación correspondiente a la elección de Concejo de Gobierno.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-El cómputo de Demarcación Territorial es el procedimiento por el cual se determina, mediante la suma o en su caso, toma de conocimiento de los resultados anotados en las actas de cómputo distrital la votación obtenida en la elección de Concejo de Gobierno en el ámbito de la Demarcación Territorial, de acuerdo a las reglas siguientes:
+Los Consejos Distritales Cabecera de Delegación, una vez entregada la constancia a que se refiere el párrafo anterior, procederán a realizar el cómputo total correspondiente a la elección del Jefe Delegacional.
 
-a) El Presidente del Consejo Distrital procederá a expedir la constancia de los Concejales electos por el principio de mayoría relativa al Partido Político o coalición que por sí mismo haya obtenido el mayor número de votos, enseguida se distribuirán las Concejerías restantes en los términos previstos por los artículos 11, 12 y 14 de este Código;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-b) El Presidente del Consejo Distrital expedirá a cada Partido Político las constancias de asignación proporcional que correspondan, de lo que informará al Consejo General del Instituto Electoral del Distrito Federal;
+El cómputo de Delegación es el procedimiento por el cual se determina, mediante la suma o, en su caso, toma de conocimiento de los resultados anotados en las actas de cómputo distrital, la votación obtenida en la elección del Jefe Delegacional, de acuerdo a las reglas siguientes:
 
-c) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-d) El Presidente publicará en el exterior de las oficinas los resultados obtenidos en los cómputos de Demarcación Territorial; y
+a) Se procederá a anotar el resultado final en el acta de cómputo respectiva, la cual deberá ser firmada por los integrantes del Consejo Distrital;
 
-e) El Presidente integrará el expediente del cómputo de Demarcación Territorial con los expedientes de los cómputos distritales que contienen las actas originales y certificadas, el original del acta de cómputo de Demarcación Territorial, el acta de la sesión de dicho cómputo y el informe del Presidente sobre el desarrollo del proceso electoral; los cuales remitirá al Secretario Ejecutivo, y conservará una copia certificada de dicha documentación.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) El Presidente del Consejo Distrital procederá a expedir la constancia del Jefe Delegacional electo por el principio de mayoría relativa, al Partido Político o coalición que por sí mismo haya obtenido el mayor número de votos;
+
+c) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren;
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) El Presidente publicará en el exterior de las oficinas los resultados obtenidos en los cómputos de Delegación; y
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) El Presidente integrará el expediente del cómputo de Delegación con los expedientes de los cómputos distritales que contienen las actas originales y certificadas, el original del acta de Cómputo de Delegación, el acta de la sesión de dicho cómputo y el informe del Presidente sobre el desarrollo del proceso electoral; los cuales remitirá al Secretario Ejecutivo, y conservará una copia certificada de dicha documentación.
 
 ###### Artículo 214.
 
@@ -3068,7 +3324,9 @@ c) La elección de Jefe de Gobierno del Distrito Federal;
 
 d) La elección de Diputados por los principios de mayoría relativa o representación proporcional;
 
-e) La elección de los Concejos de Gobierno de las Demarcaciones Territoriales; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) La elección de los Jefes Delegacionales; y
 
 f) Los resultados del procedimiento de participación ciudadana.
 
@@ -3106,7 +3364,9 @@ c) Cuando los dos integrantes de la fórmula de candidatos a Diputados por el pr
 
 d) Cuando el candidato a Jefe de Gobierno sea inelegible;
 
-e) Cuando más de la mitad de los integrantes de la planilla de Concejo de Gobierno sean inelegibles; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) Cuando el candidato a Jefe Delegacional sea inelegible; y
 
 f) Cuando el Partido Político con mayoría de los votos sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice en los términos del artículo 40 de este Código. En este caso el candidato o candidatos y el partido responsables no podrán participar en la elección extraordinaria respectiva.
 
@@ -3156,7 +3416,13 @@ c) Para cubrir las ausencias temporales o definitivas de los Magistrados, serán
 
 d) Las ausencias definitivas de los Magistrados serán cubiertas en el orden que señale la Asamblea Legislativa del Distrito Federal al elegir a los Magistrados supernumerarios; y
 
-e) Si no se alcanza esta mayoría, se presentará otra lista con nuevas propuestas para el mismo efecto y si en este segundo caso tampoco se alcanzara la votación requerida, se procederá a designarlos por sorteo de entre las propuestas presentadas que hayan obtenido mayor votación. Una vez nombrados los Magistrados Electorales, entre ellos mismos designarán a quien fungirá como presidente del Tribunal.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) Si alguno o algunos de los candidatos propuestos no alcanzara la votación requerida, el Tribunal Superior de Justicia deberá presentar otra lista con nuevas propuestas para cubrir las vacantes existentes, la cual deberá sujetarse al procedimiento que señala el inciso b) de este artículo.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Una vez nombrados los Magistrados Electorales, entre ellos mismos designarán a quien fungirá como presidente del Tribunal.
 
 Los Magistrados serán electos para ejercer sus funciones para un período de ocho años, improrrogables.
 
@@ -3190,7 +3456,9 @@ El Tribunal Electoral del Distrito Federal, tiene a su cargo sustanciar y resolv
 
 I.- En los términos de este Código los medios de impugnación, son los siguientes:
 
-a) Los medios de impugnación relativos a las elecciones de Jefe de Gobierno, Diputados y Concejos de Gobierno de las Demarcaciones Territoriales;
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) Los medios de impugnación relativos a las elecciones de Jefe de Gobierno, Diputados y Jefes Delegacionales;
 
 b) Los medios de impugnación por actos o resoluciones que violen los derechos político-electorales de los ciudadanos;
 
@@ -3266,7 +3534,11 @@ Los Magistrados tendrán obligación de guardar absoluta reserva sobre los asunt
 
 ### Capítulo IV. Del Presidente del Tribunal
 
+> <small>(ADICIONADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
 ###### Artículo 229.
+
+El Presidente del Tribunal Electoral del Distrito Federal durará en su encargo cuatro años, con posibilidad de reelección en términos de lo dispuesto por el penúltimo párrafo del artículo 224.
 
 El Presidente del Tribunal Electoral del Distrito Federal tendrá las siguientes atribuciones:
 
@@ -3470,7 +3742,9 @@ I. Los Partidos Políticos a través de sus representantes legítimos, entendié
 
 a) Los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnado.
 
-b) Los miembros de los comités estatales, distritales, de Demarcación territorial, o sus equivalentes, según corresponda. En este caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Los miembros de los comités estatales, distritales, y de Delegación, o sus equivalentes, según corresponda. En ese caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido; y
 
 c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
@@ -3478,7 +3752,9 @@ II. Los ciudadanos y los candidatos por su propio derecho, en forma individual, 
 
 III. Las Agrupaciones Políticas, en lo aplicable de acuerdo a la fracción I de este artículo;
 
-IV. Las organizaciones de ciudadanos solicitantes de registro como agrupación o Partido Político o de observadores electorales; la demanda deberá presentarse por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable; y
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+IV. Las organizaciones de ciudadanos solicitantes de registro como agrupación o de observadores electorales; la demanda deberá presentarse por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable; y
 
 V. Los representantes registrados formalmente ante los órganos electorales en los procesos de participación ciudadana.
 
@@ -3496,7 +3772,9 @@ b) Los escritos deberán ir acompañados del documento con el que se acredite su
 
 c) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su Partido Político; y
 
-e) Deberán llevar la firma autógrafa del promovente.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) Deberán llevar la firma autógrafa del promovente.
 
 II.- Dentro de las setenta y dos horas siguientes, contadas a partir del momento en que sea fijado en los estrados el medio de impugnación, los terceros interesados podrán solicitar copia del mismo y sus anexos, así como comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
 
@@ -3558,7 +3836,9 @@ d) Cuando el acto o resolución se hayan consumado de un modo irreparable, o que
 
 e) Que no se hayan agotado las instancias previas establecidas por este Código;
 
-f) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo la elección de Diputados y Concejos de Gobierno de las Demarcaciones Territoriales por ambos principios; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+f) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputados por ambos principios; y
 
 g) Cuando los agravios manifiestamente no tengan relación directa con el acto o resolución que se pretende combatir, o por falta de hechos o los que se expongan no pueda deducirse agravio alguno.
 
@@ -3776,7 +4056,9 @@ Los Recursos de Revisión deberán ser resueltos en sesión pública por mayorí
 
 Los recursos de apelación y de Revisión interpuestos contra actos del Consejo General, serán resueltos por mayoría simple de los integrantes del Tribunal Electoral del Distrito Federal dentro de los diez días siguientes a aquel en que se admitan.
 
-Los recursos de apelación por los que se impugnen cómputos totales y constancias de mayoría o asignación deberán ser resueltos a más tardar 35 días antes de la toma de posesión de Diputados, Concejos de Gobierno de las Demarcaciones Territoriales o Jefe de Gobierno.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+Los recursos de apelación por los que se impugnen cómputos totales y constancias de mayoría o asignación, deberán ser resueltos a más tardar treinta y cinco días antes de la toma de posesión de Diputados, Jefes Delegacionales o Jefe de Gobierno.
 
 ###### Artículo 267.
 
@@ -3816,9 +4098,13 @@ a) Confirmar el acto impugnado;
 
 b) Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en este Código y modificar, en consecuencia, el acta de cómputo distrital respectiva para la elección de Diputado de mayoría relativa, y en su caso, el cómputo total para la elección respectiva;
 
-c) Revocar la constancia de mayoría relativa o de asignación de representación proporcional, expedida por los Consejos General, Distritales y Cabecera de Demarcación competentes; otorgarla a la fórmula de candidatos o candidato que resulte ganador como resultado de la anulación de la votación emitida en una o varias casillas, en uno o en su caso varios Distritos; y modificar, en consecuencia, las actas de cómputo distrital, de Demarcación Territorial o de entidad federativa respectivas; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-d) Declarar la nulidad de una elección y revocar las constancias expedidas por los Consejos General, Distritales o Cabecera de Demarcación Territorial, cuando se den los supuestos de nulidad previstos en este Código.
+c) Revocar la constancia de mayoría relativa o de asignación de representación proporcional, expedida por los Consejos General, Distritales y los que funjan como Cabecera de Delegación; otorgarla a la fórmula de candidatos o candidato que resulte ganador como resultado de la anulación de la votación emitida en una o varias casillas, en uno, o en su caso, varios distritos; y modificar, en consecuencia, las actas de cómputo distrital, de Delegación o de entidad federativa respectivas; y
+
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+d) Declarar la nulidad de una elección y revocar las constancias expedidas por los Consejos General, Distritales o los que funjan como Cabecera de Delegación, cuando se den los supuestos de nulidad previstos en este Código.
 
 Cuando en la sesión de ejecución, por efecto de la acumulación de las resoluciones de los distintos recursos, se actualicen los supuestos de nulidad de una elección, el Tribunal Electoral del Distrito Federal decretará lo conducente, aun cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
 
@@ -3862,7 +4148,9 @@ VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegato
 
 VIII. El Tribunal Electoral del Distrito Federal determinará libremente la admisión de las pruebas y su desahogo, y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
 
-IX. El Tribunal Electoral del Distrito Federal resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere el inciso g) de este artículo. En este caso, el Tribunal Electoral del Distrito Federal, podrá sesionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+IX. El Tribunal Electoral del Distrito Federal resolverá en forma definitiva e inatacable, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. En este caso, el tribunal Electoral del distrito Federal, podrá sesionar en privado si la índole del conflicto planteado así lo amerita. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
 
 X. Los efectos de la resolución de Tribunal Electoral del Distrito Federal podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnada. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Instituto Electoral del Distrito Federal, este último podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado.
 
@@ -3928,7 +4216,9 @@ c) Con la reducción de hasta el 50% de las ministraciones del financiamiento p�
 
 d) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponda, por el período que señale la resolución; y
 
-e) A los Partido (sic) Políticos y Agrupaciones Políticas locales, hasta con la suspensión o cancelación de su registro.
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+e) A las Agrupaciones Políticas locales hasta con la suspensión o cancelación de su registro;
 
 Las sanciones previstas en los incisos c) al e) se impondrán cuando el incumplimiento o infracción sea particularmente grave o sistemático.
 
@@ -3974,7 +4264,9 @@ QUINTO.- El financiamiento público para 1998, que corresponda a los Partidos Po
 
 a) Se tomará como base lo dispuesto por el párrafo primero letras A y D del artículo decimoctavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Instituciones y Procedimientos Electorales, publicado el 22 de noviembre de 1996 en el Diario Oficial de la Federación, asimismo el costo mínimo del gasto de campaña para Diputados Federales establecido y aprobado por el Consejo General del Instituto Federal Electoral el 9 de octubre de 1998 y publicado en el Diario Oficial de la Federación el día 15 del mismo mes y año;
 
-b) Se adicionará a las bases anteriores, lo relativo a las Demarcaciones Territoriales; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) Se adiciona a las bases anteriores, lo relativo a las Delegaciones; y
 
 c) Un monto adicional para actividades de "Grupo de Apoyo Técnico" de los Partidos Políticos para verificación del padrón electoral del Distrito Federal.
 
@@ -3982,7 +4274,9 @@ Acorde a lo mencionado en el párrafo anterior el financiamiento que resulte, se
 
 SEXTO.- La fiscalización de los recursos con que contaron los Partidos Políticos nacionales en el Distrito Federal durante 1998, por esta única ocasión se sujetarán a las reglas siguientes:
 
-a) Deberán presentar un informe anual a más tardar el 31 de abril de 1999 a la Comisión para la Fiscalización de las Asociaciones Políticas del Instituto Electoral del Distrito Federal; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+a) Deberán presentar un informe anual a más tardar el 30 de abril de 1999 a la Comisión para la Fiscalización de las Asociaciones Políticas del Instituto Electoral del Distrito Federal; y
 
 b) El informe a que se refiere el inciso anterior se sujetará a la "normatividad en materia de fiscalización de los recursos de los Partidos Políticos" del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 23 de enero de 1997.
 
@@ -3992,17 +4286,21 @@ OCTAVO.- El Consejo General del Instituto Electoral del Distrito Federal dictar�
 
 a) La (sic) convocatorias para integrar los Cuerpos de función directiva y técnicos deberá ser expedida a más tardar en el mes de marzo de 1999 y su contratación definitiva deberá concluir a más tardar en el mes de abril de 1999.
 
-b) No podrán formar parte del Servicio Profesional Electoral del Instituto Electoral del Distrito Federal los miembros del Servicio Profesional del Instituto Federal Electoral, a menos que se separen con un año de anticipación a la convocatoria respectiva; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+b) No podrán formar parte del Servicio Profesional Electoral del Instituto Electoral del Distrito Federal los miembros del Servicio Profesional del Instituto Federal Electoral, a menos que se separen de su encargo.
 
 c) Para el nombramiento de los Directores Ejecutivos Distritales se tomará previamente opinión de los Partidos Políticos nacionales representados en la Asamblea Legislativa del Distrito Federal.
 
 NOVENO.- El Estatuto del Servicio Profesional Electoral deberá ser aprobado por el Consejo General del Instituto Electoral del Distrito Federal a más tardar en el mes de febrero de 1999.
 
-DECIMO.- En la elección del año 2000 para la determinación del número de integrantes que corresponda elegir de los Concejos de Gobierno de las Demarcaciones Territoriales, serán tomados como base los resultados oficiales del Conteo 1995 que efectúo el Instituto Nacional de Geografía, Estadística e Informática.
+DECIMO.- (DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
 
 DECIMO PRIMERO.- Para los procesos electorales y de participación ciudadana a celebrarse hasta el año 2000, por Padrón Electoral, Lista Nominal y credencial para votar con fotografía se considerarán los insumos relativos del Registro Federal de Electores, de acuerdo al convenio respectivo, que se celebre con el Instituto Federal Electoral. Posterior al proceso electoral ordinario del año 2000, y una vez conocidos los resultados definitivos del censo de población y vivienda de ese año el Instituto Electoral del Distrito Federal, realizará los estudios técnicos necesarios, a fin de determinar la viabilidad o no de la conformación del Catálogo, Padrón y Listado Nominal, así como para la expedición de la Credencial para votar con fotografía propia del Distrito Federal.
 
-DECIMO SEGUNDO.- Para los procesos de elección de los titulares de los Concejos de Gobierno de las Demarcaciones Territoriales del año 2000 y procesos de elección vecinal a nivel demarcación territorial, se tomarán como Distritos Electorales Cabeceras de Demarcación Territorial los siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
+
+DECIMO SEGUNDO.- Para los procesos de elección de los Jefes Delegacionales a celebrarse en el año 2000, y para los procesos de elección vecinal a nivel demarcación territorial, se tomarán como Distritos Electorales Cabecera de Demarcación Territorial los siguientes:
 
 DEMARCACIÓN DISTRITO CABECERA
 
@@ -4059,3 +4357,13 @@ El costo mínimo de gastos de campaña para titulares de los órganos político 
 El costo mínimo de gastos de campaña para Jefe de Gobierno del Distrito Federal, será el resultado de las operaciones realizadas en el segundo párrafo de este artículo; dividido su resultado entre el número de días de duración de la campaña para diputado local y el resultado se multiplicará por el número de días de duración establecidos por la ley para la campaña de Jefe de Gobierno del Distrito Federal.
 
 TERCERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 15 DE OCTUBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para el ejercicio del año 2000 el cálculo a que se refiere el inciso a) de la fracción I del artículo 30, se calculará una bolsa de acuerdo al resultado de multiplicar el factor que resulte de dividir el Indice Nacional de Precios al Consumidor del mes de diciembre de 1998 entre el Indice Nacional de Precios al Consumidor del mes de diciembre de 1997 por la cantidad total distribuida a los cinco Partidos Políticos con representación en la Asamblea Legislativa del Distrito Federal en el año de 1998.
+
+TERCERO.- El Presidente del Tribunal Electoral del Distrito Federal que fue designado por la Asamblea Legislativa el 18 de enero de 1999, fungirá como tal hasta el 17 de enero del año 2003, y podrá ser reelecto en términos de lo dispuesto por el artículo 229 de este Código.
+
+CUARTO.- Se deroga el Artículo Segundo Transitorio del Decreto por el que se reforman diversas disposiciones del Código Electoral del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 30 de septiembre de 1999, y todas aquellas disposiciones que se opongan al presente Decreto.
