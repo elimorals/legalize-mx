@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1992-08-26"
+last_updated: "1993-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE MARZO DE 1993.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -507,9 +507,9 @@ XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, 
 
 Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los Ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el Ayuntamiento correspondiente, se estipulará la recuperación de lo que aquél pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el Ayuntamiento, ya sean éstos Federales o locales.
 
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, B.O. 5 DE MARZO DE 1993)</small>
 
-XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de $500,000.00 (QUINIENTOS MIL PESOS 00/100 M.N.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, cuando el valor sea mayor de N$150,000.00 (Ciento cincuenta mil nuevos pesos 00/100 m.n.), previo avalúo practicado por la Dirección de Catastro. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
 
@@ -551,7 +551,7 @@ XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la sup
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
+XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos;
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1948,3 +1948,7 @@ B.O. 26 DE AGOSTO DE 1992.
 ###### ARTICULO UNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE MARZO DE 1993.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
