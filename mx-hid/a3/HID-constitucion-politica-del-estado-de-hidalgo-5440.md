@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1981-03-24"
+last_updated: "1981-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1213,13 +1213,11 @@ Las metas del Programa contemplarán acciones a corto, mediano y largo plazos, e
 
 El Ministerio Público, como representante del interés social, es la institución de buena fe, responsable de velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, ejercitar la acción penal; exigir el cumplimiento de la pena; cuidar de la correcta aplicación de las medidas de política criminal, y proteger los intereses colectivos e individuales contra toda violación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1981)</small>
 
 ###### Artículo 90.
 
-El Ministerio Público estará integrado por un Procurador General de Justicia, un Subprocurador, Agentes del Ministerio Público, Policía Judicial y las demás dependencias que señale la Ley Orgánica rspectiva (sic).
-
-El Procurador General de Justicia será Consejero Jurídico del Gobernador.
+El Ministerio Público estará presidido por un Procurador General, y en su organización estará determinada por la Ley Orgácnica (sic) correspondiente. El Procurador General de Justicia será consejero jurídico del titular del Poder Ejecutivo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2132,6 +2130,10 @@ P.O. 1 DE NOVIEMBRE DE 1979.
 P.O. 24 DE MARZO DE 1981.
 
 Artículo Único.- Este Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1981.
+
+UNICO.- Este Decreto empezará a surtir sus efectos legales a partir del día siguiente de su publicación en el periódico Oficial del Estado.
 
 ###### Artículo 3o.
 
