@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1972-12-31"
+last_updated: "1973-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1973.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -415,19 +415,23 @@ III.- Los almacenes o bodegas que no perciban ingresos, presentarán por una sol
 
 El impuesto se causará y pagará conforme a las tasas y cuotas que fije anualmente la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
 ###### ARTICULO 54.
 
-El Impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes en atención a su giro; salvo aquellos casos en que este Impuesto se cause y se pague con base en el Activo Total, de conformidad con lo que establezca la Ley de Ingresos del Estado.
+El Impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes.
 
-Para los efectos de este Artículo se consideran como Activo Total, todos los recursos con que cuente el causante, incluyendo los bienes muebles que tenga en arrendamiento o comodato. Si el causante, persona física ejercita su actividad mercantil en el mismo local que le sirve de casa habitación, el inmueble que ocupa no se computará para la determinación del activo total.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
 ###### ARTICULO 55.
 
-Para los efectos de este Impuesto, regirá la clasificación de actividades que señala la Ley de Ingresos del Estado.
+Para los efectos del pago de este impuesto, regirán las tasas que señala la Ley de Ingresos del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1973)</small>
 
 ###### ARTICULO 56.
 
-Están exentos del pago del Impuesto sobre Actividades Mercantiles e Industriales:
+Están exentos del pago del Impuesto Sobre Actividades Mercantiles e Industriales:
 
 I.- Los ingresos obtenidos por las Sociedades Cooperativas de Consumo, únicamente con motivo de las ventas hechas a sus socios.
 
@@ -455,27 +459,9 @@ VIII.- Los ingresos provenientes del arrendamiento de bienes inmuebles.
 
 No quedan comprendidos en esta exención, los ingresos provenientes del arrendamiento de casas o apartamentos amueblados, de campos o lugares destinados a estacionamientos de casas móviles o autotransportables, así como el de cualquier inmueble destinado al hospedaje.
 
-IX.- Los causantes, personas físicas, cuyo Activo Total sea hasta de $10,000.00 con excepción de:
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1973)</small>
 
-1).- Comisionistas y corredores.
-
-2).- Maquiladoras.
-
-3).- Casas de cambio.
-
-4).- Lotes de autos usados.
-
-5).- Empresas de bienes raíces.
-
-6).- Joyerías.
-
-7).- Farmacias.
-
-8).- Refaccionarias.
-
-9).- Estacionamientos.
-
-10).- Desmanteladoras de autos (Deshuesaderos).
+IX.- Enajenación de títulos de crédito.
 
 ###### ARTICULO 57.
 
@@ -1091,9 +1077,11 @@ Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estad
 
 Son sujetos de este Impuesto, quienes causen los impuestos, derechos y rezagos a que se refiere el Artículo 152.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1973)</small>
+
 ###### ARTICULO 156.
 
-No causarán este Impuesto:
+No causarán este impuesto:
 
 I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias;
 
@@ -1105,7 +1093,51 @@ IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petról
 
 V.- El Impuesto Sobre Hospedaje;
 
-VI.- Los ingresos a que se refiere el Artículo 56 de esta Ley.
+VI.- Los ingresos a que se refiere el Artículo 56 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1973)</small>
+
+VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE FEBRERO DE 1973)</small>
+
+Impuesto para la Educación Media y Superior sobre la adquisición de Bienes y Servicios para consumo
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+1.- Es objeto de este impuesto la adquisición de bienes y servicios para consumo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+2.- Son sujetos de este impuesto los adquirentes de bienes y servicios para consumo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+3.- La base del impuesto será el 45% del impuesto que resulte de aplicar la tasa general del 4% y especial del 10% sobre los ingresos que señale la Ley Federal del Impuesto Sobre Ingresos Mercantiles.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+4.- Este impuesto se causará y pagará conforme a la tasa que señale la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+5.- Los causantes de este impuesto deberán pagarlo al momento de liquidar el importe de los bienes y servicios, siendo solidariamente responsables del pago del impuesto y retenedores del mismo, los que vendan los bienes o servicios señalados en el artículo 156-1 del presente capítulo.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 156
+
+6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1o. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas del Estado.
 
 ## TITULO III. DERECHOS
 
@@ -1195,9 +1227,11 @@ TRANSITORIOS:
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Se derogan, la Ley de Hacienda vigente publicada en el Periódico Oficial del 20 de Mayo de 1955, sus posteriores modificaciones, reformas y adiciones; la Ley del Impuesto Predial publicada en el Periódico Oficial del 31 de Diciembre de 1969, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contraríen lo dispuesto por la presente Ley.
+Se derogan, la Ley de Hacienda vigente publicada en el Periódico Oficial del 31 de Diciembre de 1953, sus posteriores modificaciones, reformas y adiciones; la Ley del Impuesto Predial publicada en el Periódico Oficial del 31 de Diciembre de 1969, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contraríen lo dispuesto por la presente Ley.
 
 DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali, Baja California, a los veintiocho días del mes de diciembre de mil novecientos setenta y dos.
 
@@ -1224,3 +1258,27 @@ El Srio. General de Gobierno
 Francisco Santana Peralta.
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE FEBRERO DE 1973.
+
+DECRETO NUMERO 82.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 1973.
+
+DECRETO NUMERO 83.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 1973.
+
+DECRETO NUMERO 85.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
