@@ -4,7 +4,7 @@ identifier: "LINBAL"
 country: "mx"
 rank: "ley"
 publication_date: "1946-12-31"
-last_updated: "1946-12-31"
+last_updated: "1950-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=818&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINBAL"
 
 LEY QUE CREA EL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 1950.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 31 de diciembre de 1946.
 
@@ -67,6 +67,10 @@ El Instituto, capaz para adquirir y administrar bienes, formará su patrimonio c
 I.- Con el subsidio que anualmente le otorgue el Gobierno Federal, a través de su Presupuesto de Egresos.
 
 II.- Con las partidas presupuestales de cualquier género que la Secretaría de Educación Pública destine a la fecha de entrar en vigor la presente Ley al funcionamiento o sostenimiento de las instituciones, establecimientos o dependencias, cuyo manejo la misma atribuye en lo futuro al Instituto, debiéndose comprender expresamente las correspondientes al personal que actualmente desempeña actividades relacionadas con las funciones previstas en el artículo 2° en la misma Secretaría de Educación Pública, personal que quedará adscrito para tales objetos al Instituto.
+
+> <small>N. DE E. VÉANSE ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 11 DE DICIEMBRE DE 1950.</small>
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 1950)</small>
 
 III.- Con el uso de los edificios y terrenos siguientes, ubicados todos ellos en el Distrito Federal:
 
@@ -143,3 +147,17 @@ TERCERO.- Esta Ley entrará en vigor a partir del primero de enero de mil noveci
 Gabriel Ramos Millán, S. P.- Rubén Vizcarra, S. S.- José López Bermúdez, D. P.- César M. Cervantes, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta días del mes de diciembre de mil novecientos cuarenta y seis.- Miguel Alemán Valdés.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Manuel Gual Vidal.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Estado y del Despacho de Bienes Nacionales e Inspección Administrativa, Alfonso Caso.- Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Agustín García López.- Rúbrica.- Al C. Héctor Pérez Martínez, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE DICIEMBRE DE 1950.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 4° DE LA LEY DE 31 DE DICIEMBRE DE 1946 QUE CREÓ EL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA, EN EL SENTIDO DE QUE SE DESINCORPORA DEL PATRIMONIO DE DICHO INSTITUTO, EL USO DE LA FINCA NÚMERO 14 Y 16 DE LAS CALLES (SIC) DE MONEDA DE ESTA CAPITAL QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+"ARTICULO PRIMERO.- Se modifica la fracción III del artículo 4° de la ley de 31 de diciembre de 1946 que creó el Instituto Nacional de Bellas Artes y Literatura, en el sentido de que se desincorpora del patrimonio de dicho Instituto, el uso de la finca números 14 y 16 de las calles (sic) de Moneda de esta capital.
+
+###### ARTICULO SEGUNDO.
+
+Retirado el uso del inmueble de que se trata, del patrimonio del Instituto Nacional de Bellas Artes y Literatura, continuará formando parte de los bienes de dominio público ce la Nación, pudiendo el Ejecutivo Federal destinarlo al uso de la Secretaría de Bienes Nacionales e Inspección Administrativa, con la facultad que le otorga el artículo 28 de la Ley General de Bienes Nacionales en vigor."
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
