@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-del-municipio-406
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-18"
-last_updated: "2004-08-18"
+last_updated: "2005-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 2004.
 
@@ -69,35 +69,53 @@ II.- Información restringida.
 
 Se entenderá por información pública, toda aquella que encontrándose en poder de la AUTORIDAD, conste en documento, grabación, soporte magnético o cualquier otro medio de que se disponga y que no sea de aquella que de acuerdo con este REGLAMENTO no pueda proporcionarse.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 6.
 
-Se entenderá como información restringida aquella que por su difusión pueda:
+La Autoridad negará la información, en los siguientes casos:
 
-I. Comprometer la seguridad pública;
+I. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
-II. Menoscabar la conducción de las negociaciones o bien, de las relaciones con otros ordenes de gobierno, incluida aquella información que otros estados y organismos internacionales entreguen con carácter de restringida al gobierno municipal;
+II. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
 III. Dañar la estabilidad financiera, económica o monetaria del MUNICIPIO;
 
-IV. Poner en riesgo la vida, la seguridad o la salud de cualquier persona;
+IV. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
 V. Causar un serio perjuicio a las actividades de prevención de los delitos, la impartición de la justicia, la recaudación de las contribuciones o cualquier otra acción que tenga por objeto la aplicación de la ley;
 
-VI. La que por disposición expresa de una ley sea considerada como restringida como los secretos comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por una disposición legal;
+VI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
 VII. Los expedientes judiciales o de los procedimientos administrativos en forma de juicio en tanto no hayan causado estado;
 
 VIII. Los procedimientos de responsabilidad de los servidores públicos, en tanto no se hayan dictado la resolución administrativa o la jurisdiccional definitiva;
 
-IX. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los FUNCIONARIOS PÚBLICOS;
+IX. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
-X. La que sólo puede estar disponible para quienes acrediten su interés jurídico, de conformidad con las leyes, porque su divulgación afecte el derecho de las personas a la privacidad.
+X. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
-Se entenderá que se afecta el interés jurídico, cuando se demuestre que de entregarse, se tendría un perjuicio legítimo y específico respecto de los derechos o de las cosas, materia de la información respectiva;
+XI. (DEROGADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
-XI. La que de hacerse del conocimiento público podría menoscabar, alterar o poner en peligro el orden social o la integridad física de cualquier individuo.
+(ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
 
-Cuando concluya la causa que haya dado origen a la restricción de la información a que se refiere la fracción VIII) de este articulado la misma podrá ser pública, salvaguardando los datos personales que en ella se contengan.
+XII. La que por Ley sea considerada confidencial, reservada, comercial reservada o gubernamental confidencial;
+
+(ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+
+XIII. La que de hacerse del conocimiento público podría menoscabar, alterar o poner en peligro el orden social o la integridad física de cualquier individuo;
+
+(ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+
+XIV. La que contenga las opiniones, recomendaciones o puntos de vista que forman parte del proceso deliberativo de los funcionarios públicos, hasta en tanto no sea adaptada la decisión definitiva, la cual deberá estar documentada;
+
+(ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+
+XV. La que de hacerse pública afecte la seguridad del Municipio;
+
+(ADICIONADA, P.O. 9 DE FEBRERO DE 2005) (F. DE E., P.O. 11 DE MAYO DE 2005)
+
+XVI. Cuando se trate de particulares relativa a datos personales y sea recibida por la Autoridad bajo condición de reserva de conformidad con alguna disposición legal, o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades, en la forma prevista por alguna ley.
 
 ###### ARTÍCULO 7.
 
@@ -245,11 +263,13 @@ En estos casos deberá precisar en su escrito los puntos sobre los que versará 
 
 Tratándose de información contenida en publicaciones oficiales, La SECRETARIA DE TRANSPARENCIA, proporcionará al interesado los datos necesarios para su localización, salvo que la solicitud verse respecto del original.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 21.
 
-La SECRETARIA DE TRANSPARENCIA proporcionará la información en un plazo que no podrá exceder de quince días, siguientes a la solicitud y previo pago de derechos que se establezcan en la Ley de Hacienda para los Municipios, en el Estado de Nuevo León derivados de la reproducción en los casos que éstos procedan.
+La SECRETARIA DE TRANSPARENCIA proporcionará la información en un plazo que no podrá excede de DIEZ DIAS, siguientes a la solicitud y previo pago de derechos que se establezcan en La Ley De Hacienda Para los Municipios del Estado De Nuevo León derivados de la reproducción y en los casos que estos procedan.
 
-Cuando medien circunstancias que no permitan proporcionar la información dentro de dicho plazo, éste podrá prorrogarse por única vez hasta por otros quince días, por lo que La SECRETARIA DE TRANSPARENCIA deberá hacer del conocimiento del SOLICITANTE mediante escrito debidamente fundado y motivado.
+Cuando medien circunstancias que no permitan proporcionar la información dentro de dicho plazo, éste podrá prorrogarse por única vez hasta por otros DIEZ DIAS, por lo que La SECRETARIA DE TRANSPARENCIA deberá hacer del conocimiento del SOLICITANTE mediante escrito debidamente fundado y motivado.
 
 ###### ARTÍCULO 22.
 
@@ -383,9 +403,11 @@ Las notificaciones a los interesados, se harán en la forma prevista para las no
 
 En todos los plazos contenidos en este REGLAMENTO, se entiende que serán días hábiles. Cuando para la realización de algún acto de este REGLAMENTO no señale algún plazo, se entenderá que éste es de tres días.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2005)</small>
+
 ###### ARTÍCULO 45.
 
-En todo lo no previsto por este REGLAMENTO, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Nuevo León.
+En todo lo no previsto por este RECLAMENTO, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Nuevo León y el defecto de ésta el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ### CAPÍTULO IX. SOBRE EL CUMPLIMIENTO DE LAS RESOLUCIONES
 
@@ -440,3 +462,9 @@ C. Presidente Municipal
 LIC. BENITO CABALLERO GARZA
 
 Secretario del Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE FEBRERO DE 2005.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
