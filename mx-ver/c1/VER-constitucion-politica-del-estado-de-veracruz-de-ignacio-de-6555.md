@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1993-12-16"
+last_updated: "1994-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE SEPTIEMBRE DE 1994.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -217,11 +217,11 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-DEL PODER LEGISLATIVO.
+DE LOS PARTIDOS POLÍTICOS, ORGANISMOS ELECTORALES Y TRIBUNAL ESTATAL DE ELECCIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 20.
 
@@ -247,9 +247,11 @@ Los empleados y funcionarios públicos, los militares en servicio activo, los es
 
 El domicilio no dá derechos políticos, pero sí produce obligaciones civiles.
 
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 24.
 
-Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadano, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que disponen los artículos 42, 43, 44 y 45 de esta Constitución.
+Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadanos, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que dispone el artículo 27 de esta Constitución.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1971)</small>
 
@@ -277,11 +279,13 @@ También lo serán los que del Poder Legislativo obtengan carta de ciudadanía; 
 
 Son derechos del ciudadano veracruzano:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
-I. Votar en las elecciones populares. El sufragio será Universal, Libre, Secreto y Directo;
+I. Votar en las elecciones populares. El sufragio será universal, libre, secreto y directo. Sólo podrán votar los ciudadanos que posean credencial de elector. Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva;
 
-II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que tenga los requisitos que exijan las leyes;
+> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+
+II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que reúna los requisitos que exijan las leyes. El ciudadano que resulte electo popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente;
 
 > <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
@@ -291,9 +295,7 @@ III. Ejercer en toda clase de negocios el derecho de petición; y
 
 IV. Reunirse pacíficamente para tratar los asuntos públicos del Estado.
 
-> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 1978)</small>
-
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 28.
 
@@ -387,37 +389,67 @@ Para las elecciones de Diputados, se dividirá al Estado en veinticuatro Distrit
 
 La demarcación de cada uno de los veinticuatro Distritos Electorales Uninominales, se señalará en la Ley respectiva.
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 41.
 
-El ciudadano que resulte electo popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación municipal y estatal; y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre secreto y directo.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+En los procesos electorales locales, los partidos políticos contarán, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
-### CAPITULO II.
+Los partidos políticos tendrán derecho al acceso permanente a los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la Ley.
 
-DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
+La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+
+### CAPITULO I.
+
+DEL PODER LEGISLATIVO.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
 
 ###### Artículo 42.
 
-Los ciudadanos veracruzanos al cambiar de vecindad dentro de los límites del Estado, adquirirán el derecho de votar en la municipalidad de su nueva residencia a los tres meses de haberse inscrito en el padrón respectivo.
+La organización de las elecciones es una función estatal que se realizará por un organismo público autónomo, de carácter permanente, dotado de personalidad jurídica y patrimonio propio.
+
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 43.
 
-Sólo los vecinos de una Municipalidad que tengan los requisitos que esta Constitución establece, pueden votar en las elecciones de autoridades locales.
+El organismo público depositario de la autoridad electoral, agrupará para su desempeño, en forma integral, las actividades relativas al padrón electoral, la preparación de la jornada electoral, los cómputos, la expedición y registro de constancias, la capacitación electoral y la educación cívica, así como la impresión de materiales electorales.
+
+Este organismo atenderá también lo relativo a los derechos y prerrogativas de los partidos políticos.
+
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 44.
 
-Los extranjeros no tienen voto activo ni pasivo.
+El organismo público encargado de la función electoral, se regirá por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
+Contará en su estructura con órganos de dirección, ejecutivos y desconcentrados que se conformarán en los términos que disponga la Ley.
+
+El órgano superior de dirección se integrará por representantes de los partidos políticos y ciudadanos.
+
+Los órganos ejecutivos dispondrán del personal calificado necesario para desempeñar el servicio electoral profesional.
+
+Los órganos electorales desconcentrados serán distritales y municipales y en su integración y funcionamiento participarán representantes de los partidos políticos y ciudadanos.
+
+Las mesas directivas de casillas estarán integradas por ciudadanos.
+
+Las sesiones de todos los órganos colegiados electorales serán públicas.
+
+> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 45.
 
-Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva y sólo podrán votar los ciudadanos que posean credencial de elector.
+La Ley establecerá un sistema de medios de impugnación, de los que conocerán el organismo público encargado de la función electoral en el Estado y el Tribunal Estatal de Elecciones. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+
+El Tribunal Estatal de Elecciones será órgano autónomo, de carácter permanente, y máxima autoridad jurisdiccional en el ámbito de su competencia. Resolverá, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en la elección de Gobernador, así como las que se presenten en las elecciones de Diputados a la Legislatura del Estado y en las de los Ayuntamientos; teniendo sus resoluciones en este último caso el carácter de definitivas e inatacables.
+
+El Tribunal Estatal de Elecciones se organizará en los términos que señale la Ley y expedirá su propio Reglamento interior.
 
 ###### Artículo 46.
 
@@ -511,9 +543,7 @@ VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Di
 
 La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por todos los presuntos Diputados Electos por el principio de mayoría relativa que hubieren obtenido constancia de mayoría debidamente registrada y por todos los presuntos Diputados Electos por el principio de representación proporcional que hubieren obtenido constancia de asignación.
 
-(REFORMADO, G.O. 16 DE FEBRERO DE 1991)(F. DE E., G.O. 26 DE FEBRERO DE 1991)
-
-Para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanan, se instituirá un Tribunal Electoral que tendrá la competencia que determine la Ley. Las resoluciones del Tribunal serán obligatorias y sólo podrán ser nulificadas por el Colegio Electoral que será la última instancia de calificación de las elecciones y sus resoluciones tendrán el carácter de definitivas e inimpugnables.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 51.
 
@@ -535,11 +565,11 @@ En el período de sesiones ordinarias la Legislatura se ocupará de preferencia,
 
 Se reunirá la Legislatura en sesiones extraordinarias cada vez que fuere convocada por la Diputación permanente, ya lo hiciere ésta por sí o de acuerdo con el Ejecutivo, y, durante ellas, se ocupará exclusivamente en los asuntos comprendidos en la convocatoria y en los que se califiquen de urgentes por el voto de dos terceras partes de los Diputados presentes.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LAS PRERROGATIVAS DE LOS DIPUTADOS, DE LAS FACULTADES DE LA LEGISLATURA Y RESTRICCIONES DE ELLAS.
+DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 55.
 
@@ -605,13 +635,23 @@ El Presidente de la Legislatura velará por el respeto al fuero constitucional d
 
 No podrán ser procesados por delitos comunes, sin que preceda la declaración de la Legislatura de haber lugar a formación de causa.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES.
+DE LAS PRERROGATIVAS DE LOS DIPUTADOS, DE LAS FACULTADES DE LA LEGISLATURA Y RESTRICCIONES DE ELLAS.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 66.
 
 Los Diputados, durante el período de su encargo, no podrán desempeñar, sin permiso de la Legislatura, ninguna comisión pública, o empleo dependiente de la Federación, o de la Administración del Estado o de la Municipal; pero concedido el permiso, cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los suplentes cuando estuvieren en ejercicio. La infracción de esa disposición será castigada con la pérdida del carácter de Diputado.
+
+### CAPITULO IV.
+
+DE LA FORMACIÓN Y PUBLICACIÓN DE LAS LEYES.
+
+###### Artículo 67.
+
+En ningún caso podrán alegar ocupaciones particulares para excusarse del cumplimiento de los deberes de su encargo.
 
 ### CAPITULO V.
 
@@ -619,23 +659,13 @@ DE LA DIPUTACIÓN PERMANENTE.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-###### Artículo 67.
-
-En ningún caso podrán alegar ocupaciones particulares para excusarse del cumplimiento de los deberes de su encargo.
+## TITULO TERCERO.
 
 ### CAPITULO VI.
 
 DEL GOBERNADOR DEL ESTADO, DE SUS FACULTADES Y OBLIGACIONES.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
-
-## TITULO TERCERO.
-
-### CAPITULO VII.
-
-DE LOS SECRETARIOS.
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 68.
 
@@ -655,9 +685,7 @@ IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y 
 
 V. Calificar la validez de estas elecciones y resolver sobre la renuncia que presente este funcionario, así como otorgar o negar su aprobación a las renuncias de los Magistrados del Tribunal Superior, que le someta el Gobernador;
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
-
-VI. Calificar la legalidad de las elecciones de los Ayuntamientos. Cuando exista reclamación fundada contra ellas, denunciará los hechos ante el Procurador General de Justicia del Estado;
+VI. (DEROGADA, G.O. 22 DE SEPTIEMBRE DE 1994)
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -686,6 +714,10 @@ XIII. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta 
 XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que hayan de ser cubiertos, en vista del Presupuesto que el Ejecutivo presente.
 
 La Legislatura, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el Presupuesto anterior o en la ley que estableció el empleo;
+
+> <small>(ADICIONADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+
+Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones del organismo autónomo depositario de la autoridad electoral y del Tribunal Estatal de Elecciones; debiendo éstos rendir cuentas anualmente a la Legislatura del Estado, acerca de su ejercicio;
 
 XV. Tomar cuentas al Gobierno, cada año, o cuando le parezca oportuno, de la recaudación o inversión de los caudales públicos;
 
@@ -737,9 +769,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
-XXXI. Otorgar o negar su aprobación a los nombramientos de magistrados que les someta el Gobernador; así como designar a los magistrados del Tribunal Electoral;
+XXXI. Otorgar o negar su aprobación a los nombramientos de magistrados que le someta el Gobernador, así como designar a los magistrados del Tribunal Estatal de Elecciones;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -797,11 +829,11 @@ d). La educación que imparte el estado será laica y por tanto, se mantendrá p
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-e). La educación primaria y la secundaria son obligatorias y se impartirán gratuitamente por el Estado y los Municipios.
+e). La educación primaria y la secundaria son obligatorias y se impartirán gratuitamente por el Estado y los Municipios;
 
 > <small>(REFORMADO, G.O. 5 DE ENERO DE 1993)</small>
 
-f). La educación superior a cargo de la Universidad Veracruzana tendrá como fines: conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión.
+f). La educación superior a cargo de la Universidad Veracruzana tendrá como fines: conservar, crear y transmitir la cultura, a través de las funciones de docencia, investigación, difusión y extensión;
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
@@ -809,7 +841,7 @@ g). En el estado funcionarán las instituciones educativas particulares de cualq
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1993)</small>
 
-h). La retención indebida del salario de los trabajadores de la educación, será causa de responsabilidad para los servidores públicos a quienes sea imputable aquélla y motivo de separación del puesto que desempeñen, en la forma que determine la Ley.
+h). La retención indebida del salario de los trabajadores de la educación, será causa de responsabilidad para los servidores públicos a quienes sea imputable aquélla y motivo de separación del puesto que desempeñen, en la forma que determine la Ley;
 
 XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
 
@@ -929,11 +961,11 @@ DE LOS MUNICIPIOS.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
-### CAPITULO VIII.
+### CAPITULO VII.
 
-DEL PODER JUDICIAL.
+DE LOS SECRETARIOS.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 72.
 
@@ -943,9 +975,11 @@ En el caso de urgencia notoria calificada por el voto de los dos tercios de los 
 
 Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones a la Legislatura, dentro de siete días útiles; a no ser que corriendo ese término hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que vuelva a reunirse.
 
-### CAPITULO I.
+### CAPITULO VIII.
 
-DE LA HACIENDA Y CRÉDITO DEL ESTADO.
+DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 74.
 
@@ -960,6 +994,10 @@ Aprobado el proyecto en los términos que disponen los artículos anteriores, es
 ## TITULO QUINTO.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+
+### CAPITULO I.
+
+DE LA HACIENDA Y CRÉDITO DEL ESTADO.
 
 ###### Artículo 76.
 
@@ -2224,3 +2262,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 22 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO.- En el órgano superior de dirección establecido en el segundo párrafo del artículo 44 reformado, participarán con voz y voto, hasta el 1 de enero de 1995, un representante del Poder Ejecutivo, que lo presidirá, y dos representantes del Poder Legislativo, correspondiendo estos últimos respectivamente, a la mayoría y a la primera minoría de la Legislatura del Estado.
+
+TERCERO.- El trámite de los asuntos que actualmente conoce el Tribunal de lo Contencioso Electoral, así como el personal, los documentos, expedientes y recursos materiales de éste, pasarán al Tribunal Estatal de Elecciones, manteniendo su integración con los Magistrados ya designados por la Legislatura del Estado en el mes de abril próximo pasado.
