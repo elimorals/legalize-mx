@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-01-29"
+last_updated: "2004-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -220,7 +220,9 @@ IV. (Legítima defensa). Se repela una agresión real, actual o inminente y sin 
 
 Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión.
 
-V. (Estado de necesidad). Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+V. (Estado de necesidad). Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo.
 
 VI. (Cumplimiento de un deber o ejercicio de un derecho). La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo;
 
@@ -444,9 +446,15 @@ Si se trata de material pornográfico se ordenará su inmediata destrucción.
 
 Los productos, rendimientos o beneficios obtenidos por los delincuentes o por otras personas, como resultado de su conducta ilícita, serán decomisados y se destinarán en los términos del presente artículo.
 
-ARTÍCULO 55 (Venta de bienes a disposición de la autoridad). Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales, que no hayan sido decomisados, se entregarán inmediatamente a quien tenga derecho a ello, si acude dentro de los noventa días naturales siguientes al de su notificación.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Trascurrido dicho plazo sin que sean reclamados, se le notificará por segunda ocasión, para que en un plazo improrrogable de tres meses acuda a formular la reclamación correspondiente, con apercibimiento de que de no hacerlo dentro de este plazo se le cobrarán los gastos de almacenamiento y mantenimiento que procedan de conformidad con la ley.
+###### ARTÍCULO 55.
+
+(Venta de bienes a disposición de la autoridad). Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de notificación respecto de la celebración de la subasta, el producto de la venta se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
 
 Si trascurridos seis meses desde la segunda notificación, los objetos o valores no han sido reclamados, se enajenarán en subasta pública y el producto de la venta se pondrá a disposición de quien esté facultado para recibirlo, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
 
@@ -454,7 +462,9 @@ Si trascurridos seis meses desde la segunda notificación, los objetos o valores
 
 Si el facultado no se presenta a recoger el producto a que se refiere el párrafo anterior, dentro de los noventa días siguientes a la realización de la subasta, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
-En el caso de bienes que no se deban destruir ni se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho a recibirlo, por seis meses contados a partir de la notificación que se le haga. Si transcurrido dicho plazo no se presentare, se estará a lo previsto por el cuarto párrafo del presente artículo.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
 ### CAPÍTULO VIII. SUSPENSIÓN O PRIVACIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
 
@@ -664,23 +674,7 @@ La equivalencia de la multa sustitutiva de la pena de prisión, será en razón 
 
 ARTÍCULO 85 (Sustitución de la multa). La multa podrá ser sustituida por trabajo en beneficio de la víctima o en favor de la comunidad.
 
-ARTÍCULO 86 (Condiciones para la sustitución). La sustitución de la sanción privativa de libertad procederá, cuando se reparen los daños y perjuicios causados o se garantice su pago, en el supuesto a que se refiere el artículo 48 de este Código.
-
-La sustitución de la pena de prisión no podrá aplicarse por el juzgador, cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio y cuando no proceda en los términos de las leyes respectivas, tratándose de una trasgresión en perjuicio de la hacienda pública.
-
-ARTÍCULO 87 (Revocación de la sustitución). El Juez podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta, en los siguientes casos:
-
-I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si se incurre en una nueva falta, se hará efectiva la sanción sustituida. En estos casos, se fijará garantía para asegurar el cumplimiento de sus obligaciones con motivo del sustitutivo concedido; o
-
-II. Cuando al sentenciado se le condene en otro proceso por delito doloso grave. Si el nuevo delito es doloso no grave o culposo, el Juez resolverá si debe aplicarse la pena sustituida.
-
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
-
-ARTÍCULO 88 (Obligación del fiador en la sustitución). La obligación del fiador concluirá al extinguirse la pena impuesta, en caso de habérsele nombrado para el cumplimiento de los deberes inherentes a la sustitución de penas.
-
-Cuando el fiador tenga motivos para no continuar en su desempeño, los expondrá al Juez a fin de que éste, si los estima fundados, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que se le fije, apercibido de que de no hacerlo se le hará efectiva la pena. En este último caso, se estará a lo dispuesto en el artículo anterior.
-
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento del Juez, para los efectos que se expresan en el párrafo que precede.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO VIII. SUSPENSIÓN CONDICIONAL DE LA EJECUCIÓN DE LA PENA
 
@@ -702,7 +696,9 @@ III. Desempeñar una ocupación lícita;
 
 IV. Abstenerse de causar molestias al ofendido o a sus familiares; y
 
-V. Pagar la reparación de los daños y perjuicios o garantizar su pago en el supuesto a que se refiere el artículo 48 de este Código.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+V. Acreditar que se ha cubierto la reparación del daño, pudiendo el juez fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
 
 ARTÍCULO 91 (Efectos y duración de la suspensión). La suspensión comprenderá la pena de prisión y la multa. En cuanto a las demás sanciones impuestas, el juez o Tribunal resolverá según las circunstancias del caso. La suspensión tendrá una duración igual a la de la pena suspendida.
 
@@ -721,6 +717,26 @@ A los delincuentes que se les haya suspendido la ejecución de la sentencia, se 
 ARTÍCULO 92 (Facultad de promover la suspensión). El sentenciado que considere que al dictarse la sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el Juez de la causa.
 
 ARTÍCULO 93 (Jurisdicción y vigilancia). El Juez conservará jurisdicción para conocer de las cuestiones relativas al cumplimiento, revocación y modificación de la sustitución o suspensión de sanciones y vigilará su cumplimiento.
+
+###### ARTÍCULO 86.
+
+(Condiciones para la sustitución). La sustitución de la sanción privativa de libertad procederá, cuando se cubra la reparación del daño, pudiendo el juez fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+
+La sustitución de la pena de prisión no podrá aplicarse por el juzgador, cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio y cuando no proceda en los términos de las leyes respectivas, tratándose de una trasgresión en perjuicio de la hacienda pública.
+
+ARTÍCULO 87 (Revocación de la sustitución). El Juez podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta, en los siguientes casos:
+
+I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si se incurre en una nueva falta, se hará efectiva la sanción sustituida. En estos casos, se fijará garantía para asegurar el cumplimiento de sus obligaciones con motivo del sustitutivo concedido; o
+
+II. Cuando al sentenciado se le condene en otro proceso por delito doloso grave. Si el nuevo delito es doloso no grave o culposo, el Juez resolverá si debe aplicarse la pena sustituida.
+
+En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
+
+ARTÍCULO 88 (Obligación del fiador en la sustitución). La obligación del fiador concluirá al extinguirse la pena impuesta, en caso de habérsele nombrado para el cumplimiento de los deberes inherentes a la sustitución de penas.
+
+Cuando el fiador tenga motivos para no continuar en su desempeño, los expondrá al Juez a fin de que éste, si los estima fundados, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que se le fije, apercibido de que de no hacerlo se le hará efectiva la pena. En este último caso, se estará a lo dispuesto en el artículo anterior.
+
+En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento del Juez, para los efectos que se expresan en el párrafo que precede.
 
 ### CAPÍTULO I. REGLAS GENERALES
 
@@ -852,7 +868,9 @@ ARTÍCULO 116 (Lapso de prescripción de la potestad de ejecutar las penas). Sal
 
 La potestad para ejecutar la pena de multa prescribirá en un año. Para las demás sanciones prescribirá en un plazo igual al que deberían durar éstas, sin que pueda ser inferior a dos años.
 
-La potestad para ejecutar las penas que no tengan temporalidad y la de la reparación del daño, prescribirán en dos años.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+La potestad para ejecutar las penas que no tengan temporalidad prescribirán en dos años y la de la reparación del daño en un tiempo igual al de la pena privativa de libertad impuesta.
 
 Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
 
@@ -1598,7 +1616,7 @@ II Contraiga matrimonio con una persona casada, si conocía el impedimento al ti
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 206.
 
@@ -1674,7 +1692,9 @@ Se impondrán las penas previstas en el artículo anterior, al que se introduzca
 
 Los delitos previstos en este Capítulo, se perseguirán por querella.
 
-### CAPÍTULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PÚBLICO
+### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO III. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
 
@@ -1682,7 +1702,9 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS CONTRA LA INTIMIDAD PERSONAL Y LA INVIOLABILIDAD DEL SECRETO
 
-### CAPÍTULO V. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
+### CAPÍTULO V. USO ILEGAL DE ATRIBUCIONES Y FACULTADES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 212.
 
@@ -1838,9 +1860,9 @@ VII. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la
 
 VIII. Respecto de vehículo automotriz o parte de éste; o
 
-> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-IX. En contra de transeúnte.
+IX. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso público.
 
 ###### ARTÍCULO 225.
 
@@ -1884,9 +1906,11 @@ III. Al que, habiendo recibido mercancías con subsidio o en franquicia para dar
 
 IV. A los gerentes, directivos, administradores, mandatarios o intermediarios de personas morales, constructores o vendedores que, habiendo recibido dinero, títulos o valores por el importe total o parcial del precio de alguna compraventa de inmuebles o para constituir un gravamen real sobre éstos, no los destine al objeto de la operación concertada y disponga de ellos en provecho propio o de tercero.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 229.
 
-Se equipara al abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
+Se equipara al abuso de confianza, y se sancionará con las mismas penas asignadas a este delito; la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
 
 ### CAPÍTULO XII. ENRIQUECIMIENTO ILÍCITO
 
@@ -1901,6 +1925,10 @@ II. Prisión de cuatro meses a dos años seis meses y de setenta y cinco a dosci
 III. Prisión de dos años seis meses a cinco años y de doscientos a quinientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el salario mínimo; y
 
 IV. Prisión de cinco a once años y de quinientos a ochocientos días multa, cuando el valor de lo defraudado exceda de cinco mil veces el salario mínimo.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Cuando el delito se cometa en contra de dos o más personas, se impondrá además las dos terceras partes de las penas previstas en las fracciones anteriores.
 
 ###### ARTÍCULO 231.
 
@@ -1944,9 +1972,11 @@ XIV. Para obtener algún beneficio para sí o para un tercero, por cualquier med
 
 XV. Por sí, o por interpósita persona, sin el previo permiso de las autoridades administrativas competentes o sin satisfacer los requisitos señalados en el permiso obtenido, fraccione o divida en lotes un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 232.
 
-Las mismas sanciones del artículo 229 de este Código, se impondrán a quien, por los medios descritos en el primer párrafo de dicho artículo o mediante alguna de las conductas previstas en él, cause a otro un perjuicio patrimonial, aunque el agente no obtenga una cosa o un lucro para sí o para otro.
+Las mismas sanciones del artículo 230 de este Código, se impondrán a quien, por los medios descritos en el primer párrafo de dicho artículo o mediante alguna de las conductas previstas en él, cause a otro un perjuicio patrimonial, aunque el agente no obtenga una cosa o un lucro para sí o para otro.
 
 ###### ARTÍCULO 233.
 
@@ -2068,19 +2098,23 @@ Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese come
 
 ###### ARTÍCULO 243.
 
-Se impondrán prisión de tres meses a dos años y de treinta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces el salario mínimo.
+Se impondrá prisión de 2 a 7 años de prisión, y de cincuenta a ciento veinte días multa, a quien después de la ejecución de un delito y sin haber participado en él, adquiera posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces el salario mínimo.
 
-Si el valor de éstos es superior a quinientas veces el salario, se impondrán de tres a diez años de prisión y ciento veinte a mil días multa.
+Si el valor de éstos es superior a quinientas veces el salario, se impondrá de 5 a 10 años de pena privativa de libertad y de doscientos a mil quinientos días multa.
+
+Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 244.
 
-Si el que recibió la cosa en venta, prenda o bajo cualquier otro concepto, no tomó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
+Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
 
 ###### ARTÍCULO 245.
 
 En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
 
-### CAPÍTULO VI. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPÍTULO VI. EJERCICIO ILEGAL DEL PROPIO DERECHO
 
 ###### ARTÍCULO 246.
 
@@ -2098,13 +2132,13 @@ b) 222, 227, 228, 229, 230, 231, 232, 234 y 235.
 
 c) 237, salvo que el delito se cometa en alguna de las hipótesis a que se refiere el artículo 238; y
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-d) 239 y 242.
+d) 239, 240 y 242;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-Se perseguirán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234 y 235, cuando el monto de lucro o valor del objeto exceda de cinco mil veces el salario mínimo o cuando se cometan en perjuicio de dos o más ofendidos.
+Se perseguirán de oficio los delitos a que se refieren los artículos 227, 228, 229, 230, 231, 232, 233, 234, 235 y 241, cuando el monto del lucro o valor del objeto exceda de cinco mil veces el salario, o cuando se cometan en perjuicio de dos o más ofendidos.
 
 ###### ARTÍCULO 247.
 
@@ -2192,11 +2226,13 @@ II. Inhabilitación de tres a diez años para obtener y desempeñar un empleo, c
 
 III. Decomiso de los productos del delito.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 259.
 
-Comete el delito de ejercicio indebido de servicio público, el servidor público que:
+Comete el delito de ejercicio ilegal de servicio público, el servidor público que:
 
 I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o quien lo designe sin satisfacer todos los requisitos legales;
 
@@ -2250,13 +2286,17 @@ Al servidor público que con cualquier pretexto obtenga de un subalterno parte d
 
 A los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de dos a siete años y de cien a trescientos días multa.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
+
 ### CAPÍTULO VII. EVASIÓN DE PRESOS
 
-###### ARTÍCULO 267.
+###### Artículo 267.
 
-Comete el delito de uso indebido de atribuciones y facultades:
+Comete el delito de uso ilegal de atribuciones y facultades:
 
-I. El servidor público que indebidamente;
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+I. El servidor público que ilegalmente;
 
 a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del patrimonio del Distrito Federal;
 
@@ -2268,7 +2308,9 @@ d) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamie
 
 II. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-Al que cometa el delito de uso indebido de atribuciones y facultades se le impondrán las siguientes sanciones:
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+Al que comete el delito de uso ilegal de atribuciones y facultades se le impondrá las siguientes sanciones:
 
 Cuando el monto de las operaciones a que hace referencia este artículo no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de cien a quinientos días multa.
 
@@ -2350,6 +2392,8 @@ Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalent
 
 ### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 276.
 
 Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, se le impondrán de uno a seis años de prisión y de cien a quinientos días multa.
@@ -2398,9 +2442,11 @@ La misma pena se le impondrá a quien debiendo declarar ante la autoridad, sin q
 
 Se le impondrá de seis meses a tres años de prisión al que por medio de la violencia física o moral, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones en forma legal, o resista el cumplimiento de un mandato que satisfaga todos los requisitos legales.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 283.
 
-La pena será de uno a cinco años, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento de una sentencia.
+La pena será de uno a cinco años de prisión, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento a una sentencia.
 
 ###### ARTÍCULO 284.
 
@@ -2424,11 +2470,23 @@ Se equipara al delito de quebrantamiento de sellos y se sancionará con la misma
 
 Al titular o propietario de una casa habitación en construcción que quebrante los sellos de clausura, se aplicará pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+ARTÍCULO 286 BIS. Se impondrá de dos a ocho años seis meses de prisión, y de quinientos a mil días multa al que obligado por una resolución de autoridad competente a mantener el estado de clausura o de suspensión de actividades, no la acate, en los siguientes casos:
+
+I. Se trate de un giro mercantil considerado de impacto zonal y que requiera licencia de funcionamiento en los términos de la legislación aplicable;
+
+II. Se trate de un establecimiento dedicado al almacenaje de productos, o
+
+III. Se trate de obras de construcción que requiriendo dictamen de impacto urbano no cuenten con el mismo.
+
 ### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### ARTÍCULO 287.
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO IV. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
@@ -2520,9 +2578,21 @@ V. Se abstenga indebidamente de hacer la consignación que corresponda, de una p
 
 VI. No otorgue la libertad provisional bajo caución durante la averiguación previa, si procede legalmente;
 
-VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley; o
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-VIII. Fabrique, altere o simule elementos de prueba para incriminar a otro.
+VII. Otorgue la libertad provisional bajo caución durante la averiguación previa, cuando no se reúnan los requisitos previstos en el artículo 556 del Código de Procedimientos Penales para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+VIII. Se abstenga de iniciar averiguación previa cuando sea puesto a su disposición un probable responsable de delito doloso que sea perseguible de oficio;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+IX. Practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley; o
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+X. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
 
 ### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
@@ -2576,9 +2646,17 @@ V. No dicte auto de formal prisión o de libertad de un detenido, dentro de las 
 
 VI. Prolongue injustificadamente la prisión preventiva, sin sentencia definitiva, por más tiempo del que como máximo fija la Constitución;
 
-VII. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido; o
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-VIII. Inicie un proceso penal contra un servidor público con fuero.
+VII. Otorgue la libertad provisional bajo caución cuando no se reúnan los requisitos previstos en el artículo 556 del Código de Procedimientos Penales para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+VIII. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido; o
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
+IX. Inicie un proceso penal contra un servidor público con fuero.
 
 ###### ARTÍCULO 300.
 
@@ -2682,9 +2760,11 @@ Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de e
 
 Si la falsedad en declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTÍCULO 312.
 
-A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo, será sancionado con pena de cuatro a ocho años de prisión si el delito materia de la averiguación previa o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
+A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo 311, será sancionado con pena de cuatro a ocho años de prisión si el delito materia de la averiguación previa o del proceso no es grave. Si el delito es grave, se impondrá de cinco a diez años de prisión.
 
 La pena de prisión se aumentará en una mitad para el testigo falso que fuere examinado en un procedimiento penal, cuando su testimonio se rinda para producir convicción sobre la responsabilidad del inculpado, por un delito no grave. Si se trata de delito grave, la pena de prisión se aumentará en un tanto.
 
@@ -2764,7 +2844,7 @@ Además de las sanciones fijadas para los delitos que resulten consumados, se le
 
 ###### ARTÍCULO 323.
 
-Al que se atribuya, ofrezca o desempeñe públicamente sus servicios como profesionista sin serlo, se le impondrá de seis meses a cinco años de prisión o de cien a trescientos días multa.
+Al que se atribuya públicamente el carácter de profesionista sin tener título profesional, u ofrezca o desempeñe públicamente sus servicios, sin tener autorización para ejercerla en términos de la legislación aplicable, se le impondrá de dos a seis años de prisión y de doscientos a quinientos días multa.
 
 ###### ARTÍCULO 326.
 
@@ -3337,5 +3417,11 @@ G.O. 27 DE ENERO DE 2004.
 G.O. 29 DE ENERO DE 2004.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE JUNIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
