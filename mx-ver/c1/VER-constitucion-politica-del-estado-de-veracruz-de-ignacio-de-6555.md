@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1932-08-13"
+last_updated: "1932-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 1932.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 1932.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -70,6 +70,10 @@ La presente Ley entrará en vigor tan luego como sea publicada en la "Gaceta Ofi
 G.O. 13 DE AGOSTO DE 1932.
 
 UNICO.- Estas reformas comenzarán a regir desde la fecha en que sean publicadas, por Bando Solemne, en las poblaciones del Estado.
+
+G.O. 10 DE DICIEMBRE DE 1932.
+
+Estas reformas comenzarán a regir desde la fecha de su publicación, por Bando Solemne, en las poblaciones del Estado.
 
 ### CAPITULO II.
 
@@ -543,37 +547,23 @@ XLII. Conceder la gracia de indulto, del todo o de una parte de la pena impuesta
 
 XLIII. Conceder pensiones o auxilios a los empleados públicos que, por enfermedad o edad avanzada, estén inútiles para servir, siempre que tengan veinticinco años de buenos servicios; y
 
-XLIV. Promover lo necesario para la difusión y mejoramiento de la educación en el Estado y legislar sobre enseñanza primaria y universitaria, conforme a las siguientes bases:
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+XLIV. Cumplir la misión social de promover lo necesario para la difusión y el mejoramiento de la educación, en beneficio de los trabajadores del Estado, legislando conforme a las siguientes bases:
 
-A. El Gobierno de la Enseñanza primaria, estará a cargo de la Dirección General de Educación, cuyo Jefe será nombrado por la Legislatura en los términos prevenidos por la fracción XIII y durará indefinidamente en su encargo.- Esta Dirección será autónoma en lo que se refiere únicamente a la parte técnica, pudiendo por lo que a esa parte corresponde iniciar ante la misma Legislatura, las leyes respectivas. La Ley General de Enseñanza determinará el alcance de aquella autonomía, la intervención que deba tener el Ejecutivo y las causas por las cuales podrá ser removido el Jefe de la Dirección General;
+a). El proceso educacional constituirá un todo conexo, lógicamente organizado, cuya finalidad fundamental será preparar a las diversas comunidades para la explotación socializada de la riqueza en provecho de la colectividad y difundir y perfeccionar la cultura, puesta al servicio del proletariado.
 
-B. Además de lo prevenido en el artículo 3° de la Carta Magna, la enseñanza que se imparta oficialmente debe ser racional y armónica;
+b). La Educación Primaria será obligatoria en todos sus grados. En los establecimientos oficiales de educación, se impartirá ésta gratuitamente.
 
-C. En las escuelas oficiales la enseñanza primaria deberá ser gratuita. La elemental será obligatoria para todos los vecinos del Estado de siete años en adelante, y no durará ordinariamente más de cinco años. Donde no sea de absoluta necesidad fundar escuelas primarias regulares, se establecerán escuelas rudimentarias con un programa económico que se cumpla, por lo menos, en dos años. La enseñanza primaria dependerá del Estado, sin que ésto impida que la iniciativa privada o municipal, puedan fundar establecimientos de educación con las solas limitaciones establecidas en la Carta Magna.
+c). A fin de formar y difundir la cultura superior, se creará la Universidad Veracruzana, la cual estará al servicio de las clases laborantes; su organización y funcionamiento se determinarán conforme a lo que preceptúe la Ley.
 
-El orden de preferencia en que se atenderá la enseñanza primaria en el Estado, será la siguiente: I. Enseñanza primaria elemental y enseñanza rudimentaria; II. Enseñanza primaria superior con aplicación a algún oficio o arte, que no durará más de tres años; y III. Enseñanza de párvulos. Estas dos últimas no son obligatorias;
+d). En el Estado funcionarán exclusivamente las Instituciones educativas particulares que en su finalidad, organización y programas de trabajo, se ajusten a las prescripciones oficiales respectivas; tales Instituciones quedarán sometidas a la vigilancia oficial.
 
-D. La enseñanza normal, será favorecida muy especialmente por el Estado y dependerá de la Dirección General de Educación;
+e). Las Instituciones Oficiales de Educación, dependerán exclusivamente tanto en el orden técnico como en el económico del Gobierno del Estado.
 
-E. La enseñanza técnica, la secundaria, la profesional y la de altos estudios, se suministrará por la Universidad del Estado. Esta institución tendrá un marcado espíritu democrático y la misma autonomía que la Dirección General;
+f). La retención en el pago de los sueldos del profesorado de las Escuelas Oficiales, será causa de responsabilidad para los funcionarios o empleados a quienes sea imputable aquélla, así como motivo de separación del puesto que desempeñen, en la forma que determine la Ley, en los casos respectivos.
 
-F. La Universidad Veracruzana estará formada por los educadores y profesionales en cualquiera ciencia o arte, con título o sin él que residan en el Estado. La ley general de enseñanza determinará los requisitos exigidos para ser miembro de la Universidad;
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
-
-G. El Cuerpo Director de la Universidad o Consejo Universitario, estará constituído por todos los Directores de las facultades, presididos por el Gobernador del Estado, quien podrá delegar estas atribuciones en un funcionario nombrado por él y que se llamará "Rector del Consejo Universitario".- Dentro del Consejo podrá haber un representante de los Municipios que deseen tener voz en aquél;
-
-H. La Universidad constará de cuantas facultades e instituciones acuerde el Consejo Universitario, las cuales deben fundarse y atenderse de acuerdo con el siguiente orden de preferencia: I. Enseñanza agrícola, industrial, de artes y oficios y comercial; II. Enseñanza secundaria que tendrá, como la primaria, los caracteres de racional y armónica; III. Enseñanza profesional y artística; y IV. Altos estudios;
-
-Y (SIC). La Universidad tendrá a su cargo, además de las facultades, todo lo relativo a bibliotecas públicas, museos, observatorios, gabinetes públicos de ciencias experimentales, universidades populares y demás instituciones concernientes a la cultura general;
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
-
-J. El Ejecutivo del Estado, por medio de Inspectores o por conducto de la Dirección General de Educación o de la Universidad, ejercerá la sobre-vigilancia necesaria en las Escuelas Municipales y Particulares, en los términos que dispongan las leyes relativas; y
-
-K. (DEROGADO, G.O. 13 DE AGOSTO DE 1932)
+g). La educación en el Estado será regida conforme a lo que estatuya la Ley de la materia y funcionará con el grado de independencia que la misma Ley le concede.
 
 XLV. Formar su Reglamento interior, tomar las providencias necesarias para hacer concurrir o los Diputados ausentes y corregir las faltas u omisiones de los presentes;
 
@@ -1245,9 +1235,9 @@ XXII. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacio
 
 XXIII. Presidir, en las sesiones de los Ayuntamientos, y en las de toda clase de juntas a que concurra con carácter oficial;
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 1932)</small>
 
-XXIV. Expedir los títulos profesionales con arreglo a las leyes, presidir en el Consejo Universitario y nombrar al Rector del mismo;
+XXIV. Expedir los títulos profesionales con arreglo a las Leyes, reconocer la validez de los que se expidan en otras Entidades, observando la fracción V del artículo 121 de la Constitución Federal, presidir el Consejo Universitario y nombrar al Rector del mismo;
 
 XXV. Tomar, en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible, a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, de acuerdo con la Diputación permanente, a sesiones extraordinarias;
 
