@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2002-03-20"
+last_updated: "2003-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
@@ -149,7 +149,13 @@ b). Hacer del conocimiento del Gobernador del Estado y del Tribunal Superior de 
 
 X. En materia de política criminal, proponer al titular del Ejecutivo las medidas de política criminal adecuadas para mejorar cuantitativa y cualitativamente la seguridad pública del Estado y de los Municipios y vigilar la correcta aplicación de tales medidas; y
 
-XI. Las demás establecidas por esta Ley y la legislación aplicable.
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XI. Aplicar, en el ámbito de su competencia, las disposiciones de la Ley para prevenir y atender la violencia familiar en el Estado, y
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XII. Las demás establecidas por esta Ley y la legislación aplicable.
 
 ###### ARTICULO 5.
 
@@ -213,6 +219,10 @@ b). Promover que se garantice y haga efectiva la reparación del daño;
 
 c). Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para proporcionar la atención o auxilio que requieran las víctimas u ofendidos de los delitos;
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+d) En los términos de la Ley para prevenir y atender la violencia familiar, proporcionar a las víctimas, la protección y asistencia que requieran.
+
 IV. Las demás que se señalen en otras disposiciones aplicables.
 
 ###### ARTICULO 6.
@@ -227,9 +237,13 @@ b). Impugnar las resoluciones dictadas en los Juicios de Amparo que sean contrar
 
 II. En Materia Civil y Familiar:
 
-Proteger los intereses sociales e individuales así como los de los menores, discapacitados y ausentes en los términos que determinen las leyes.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
 
-Esta protección comprende la intervención del Ministerio Público en los juicios civiles o familiares que se tramiten ante los tribunales respectivos en los que los sujetos a que se refiere el párrafo anterior, sean parte o de alguna manera puedan resultar afectados. También intervendrá en los juicios en que corresponda hacerlo en su carácter de representante social en los términos señalados en las leyes y reglamentos.
+Proteger con toda celeridad y firmeza a las víctimas de violencia familiar y solicitar las órdenes de protección a que se refiere la Ley para prevenir y atender la violencia familiar.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+Esta protección comprende la intervención del Ministerio Público en los juicios civiles o familiares que se tramiten ante los tribunales respectivos en los que los sujetos a que se refiere el párrafo anterior, sean parte o de alguna manera puedan resultar afectados. También intervendrá en los juicios en que corresponda hacerlo en su carácter de representante social en los términos señalados en la Ley para prevenir y atender la violencia familiar y en las demás leyes y reglamentos.
 
 III. En Materia de Política Criminal:
 
@@ -1070,3 +1084,13 @@ LIC. AQUILES GONZALEZ NAVARRO
 P.O. 20 DE MARZO DE 2002
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
