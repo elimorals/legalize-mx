@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1994-01-05"
+last_updated: "1994-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 1994.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -65,9 +65,11 @@ La creación y supresión de municipios, la modificación de su territorio, camb
 
 Para el eficaz cumplimiento de sus funciones, los ayuntamientos podrán coordinarse entre si y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1994)</small>
+
 ###### Artículo 6.
 
-Los municipios del Estado son 121, con la denominación y cabeceras municipales que a continuación se especifican:
+Los municipios del Estado son 122, con la denominación y cabeceras municipales que a continuación se especifican:
 
 MUNICIPIO CABECERA MUNICIPAL
 
@@ -292,6 +294,8 @@ TULTEPEC TULTEPEC
 TULTITLAN TULTITLAN DE MARIANO ESCOBEDO
 
 VALLE DE BRAVO VALLE DE BRAVO
+
+VALLE DE CHALCO SOLIDARIDAD XICO
 
 VILLA DE ALLENDE SAN JOSE VILLA DE ALLENDE
 
@@ -1900,3 +1904,9 @@ G.G. 5 DE ENERO DE 1994.
 PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 9 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- Este Decreto entrará en vigor el día treinta de noviembre de mil novecientos noventa y cuatro.
