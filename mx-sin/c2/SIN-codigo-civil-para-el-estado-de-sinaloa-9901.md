@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1996-07-03"
+last_updated: "1997-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11447,7 +11447,7 @@ Si la concesión del plazo fue posterior al contrato, el comprador estará oblig
 
 ###### Artículo 2181.
 
-Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
+Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión (sic) o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 
 ###### Artículo 2182.
 
@@ -14651,7 +14651,15 @@ Todo hecho o convenio entre las partes, que puede modificar o destruir la eficac
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2798, se dé conocimiento al deudor y sea inscrita en el Registro.
 
-Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+El acreedor podrá ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que continúe llevando la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivadas de ésta.
 
 ###### Artículo 2808.
 
@@ -15634,3 +15642,13 @@ P.O. 3 DE JULIO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE AGOSTO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial "El Estado de Sinaloa" y no será aplicado retroactivamente en perjuicio de persona alguna.
+
+###### ARTICULO SEGUNDO.
+
+Lo dispuesto en el presente decreto no se aplicará a aquellos créditos que habiéndose contratado con anterioridad se encuentren en litigio al entrar en vigor el mismo.
