@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1970-03-25"
+last_updated: "1972-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -273,11 +273,11 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1972)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se compondrá de siete representantes electos popularmente.
+El Congreso del Estado se compondrá de 9 Representantes Electos Popularmente.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -295,7 +295,9 @@ Para ser Diputado se requiere:
 
 I. Ser mexicano por nacimiento.
 
-II. Tener 25 años de edad, cumplidos el día de la elección.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1972)</small>
+
+II. Tener 21 años de edad, cumplidos el día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
@@ -1073,7 +1075,7 @@ De los miembros de los Ayuntamientos habrá uno que se denominará Presidente Mu
 
 Los Ayuntamientos administrarán libremente su Hacienda, sometiendo directamente a la probación (sic) de la Legislatura del Estado:
 
-I.- Su Presupuesto de Egresos, de acuerdo con las necesidades de su administración y de los servicios públicos Municipales; y
+Io.- Su Presupuesto de Egresos, de acuerdo con las necesidades de su administración y de los servicios públicos Municipales; y
 
 II.- Su Ley de Ingresos, con la limitación que señala el artículo 115 Bis de esta Constitución; en el concepto de que un ejemplar de los documentos a que se refieren los incisos anteriores deberá ser remitido por el H. Ayuntamiento, para su estudio, al Ejecutivo del Estado.
 
@@ -1476,3 +1478,23 @@ Artículo Tercero.- Las presentes reformas constitucionales entrarán en vigor a
 P.O. 25 DE MARZO DE 1970
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ABRIL DE 1972
+
+DECRETO 5425, QUE REFORMA ART. 26.
+
+###### ARTICULO PRIMERO.
+
+La Reforma introducida mediante este Decreto entrará en vigor en todo el Estado el día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+Los 2 Representantes que cubrirán las Diputaciones creadas, serán electos popularmente siguiendo los lineamientos de la Ley Electoral del Estado, y dentro de los términos que fije el Calendario Electoral para 1972.
+
+P.O. 26 DE ABRIL DE 1972
+
+DECRETO 5426, QUE REFORMA ART. 28.
+
+###### ARTICULO UNICO.
+
+La reforma introducida en el presente Decreto entrará en vigor en todo el Estado, a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
