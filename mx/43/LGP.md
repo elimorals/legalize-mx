@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1975-01-03"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -404,9 +404,11 @@ Los diplomáticos y agentes consulares extranjeros acreditados en el país, así
 
 Ningún extranjero podrá tener dos calidades o características migratorias simultáneamente.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 59.
 
-No se cambiará calidad ni característica migratoria en el caso comprendido en la fracción II, del artículo 42. En los demás, queda a juicio de la Secretaría de Gobernación hacerlo cuando se llenen los requisitos que esta Ley fija para la nueva calidad o característica migratoria que se pretenda adquirir y previo pago de los impuestos que determinen las leyes fiscales.
+No se cambiará calidad ni característica migratoria en el caso comprendido en la fracción II, del artículo 42. En los demás, queda a juicio de la Secretaría de Gobernación hacerlo cuando se llenen los registros que esta Ley fija para la nueva calidad o característica migratoria que se pretenda adquirir y previo pago de los derechos que establezcan las disposiciones fiscales.
 
 ###### ARTICULO 60.
 
@@ -462,9 +464,11 @@ En todos los casos deberán asentarse las comprobaciones a que se refiere este a
 
 Ninguna autoridad judicial o administrativa dará trámite al divorcio o nulidad de matrimonio de los extranjeros, si no se acompaña la certificación que expida la Secretaría de Gobernación de su legal residencia en el país y de que sus condiciones y calidad migratoria les permite realizar tal acto.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 70.
 
-En relación con las materias de que esta Ley se ocupa, los extranjeros pagarán los impuestos y derechos que determinen las disposiciones legales correspondientes.
+En relación con las materias de que esta Ley se ocupa, los extranjeros pagarán los derechos que determinen las disposiciones fiscales correspondientes.
 
 ###### ARTICULO 71.
 
@@ -769,3 +773,27 @@ D.O.F. 3 DE ENERO DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1979.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+
+###### ARTICULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, quedan abrogadas las leyes y decretos siguientes:
+
+...
+
+...
+
+...
+
+...
+
+4.- Ley de Impuestos de Migración.
+
+.....
