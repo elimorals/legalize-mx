@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1981-12-31"
+last_updated: "1982-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -574,7 +574,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -2392,11 +2392,15 @@ Los tripulantes y oficialidad de las embarcaciones nacionales deben ser contrata
 
 Por lo que toca a las embarcaciones nacionales que hagan tráfico con puertos extranjeros, los tripulantes y oficialidad deben ser contratados también en los términos de la Ley Federal del Trabajo, pero por separado del contrato colectivo general. Se tendrán por no tripuladas las embarcaciones que no hayan satisfecho este requisito.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1982)</small>
+
 ###### ARTICULO 288.
 
-Las personas que posean títulos de pilotos, capitanes y capitanes de altura, podrán ejercer legalmente la profesión de ingenieros topógrafos e hidrógrafos, a condición de que comprueben ante las autoridades correspondientes haber cursado satisfactoriamente las materias del caso.
+Las personas que posean Título de Capitán de Altura, podrán ejercer legalmente la profesión de Ingeniero Geógrafo e Hidrógrafo.
 
-Las personas que posean título de jefe de máquinas o de primero o segundo maquinistas, podrán ejercer legalmente la profesión de ingeniero mecánico electricista siempre que comprueben haber cursado las asignaturas que informan el plan de estudios profesionales. Los títulos a que se refiere este artículo, deberán ostentar el registro otorgado por las autoridades respectivas, sin cuyo requisito no podrán ejercerse las profesiones mencionadas.
+Las personas que posean Título de Jefe de Máquinas, podrán ejercer legalmente la profesión de Ingeniero Mecánico Electricista.
+
+Para el ejercicio de las profesiones a que se refiere este artículo, los interesados deberán comprobar haber cursado el Plan de Estudios Profesionales y ostentar el registro otorgado por las autoridades respectivas.
 
 ###### ARTICULO 289.
 
@@ -5435,3 +5439,13 @@ D.O.F. 31 DE DICIEMBRE DE 1981.
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor el día 1°. de enero de 1982.
+
+D.O.F. 27 DE DICIEMBRE DE 1982.
+
+###### ARTICULO PRIMERO.
+
+A las personas que a la fecha de entrada en vigor de este Decreto hayan obtenido el grado de Piloto o Capitán, así como de Primero o Segundo Maquinista y comprueben haber cursado las asignaturas que forman el Plan de Estudios correspondientes conforme a lo establecido por el artículo que se reforma, se les otorgarán los títulos señalados en este Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
