@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2005-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2005.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -515,9 +515,11 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 47.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando la tasa del 1.5 % en los términos de lo dispuesto en la Ley General de Hacienda para los Municipios del Estado de Yucatán.
+Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando la tasa del .15 % en los términos de lo dispuesto en la Ley General de Hacienda para los Municipios del Estado de Yucatán.
 
 I.- Por predios Urbanos y Rústicos con o sin construcción
 
@@ -1013,6 +1015,8 @@ Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 83.
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
@@ -1039,7 +1043,7 @@ El Tesorero Municipal a solicitud escrita del Director de Desarrollo Urbano o de
 
 Se considera que el contribuyente es de ostensible pobreza, en los casos siguientes:
 
-I.- Cuando el ingreso familiar del contribuyente es inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitando de la disminución del monto del derecho, tenga algún dependiente económico.
+I.- Cuando el ingreso familiar del contribuyente es inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitando (sic) de la disminución del monto del derecho, tenga algún dependiente económico.
 
 II.- Cuando el ingreso familiar del contribuyente no exceda de 2 veces el salario mínimo vigente en el Estado de Yucatán y los dependientes de él sean más de dos.
 
@@ -1103,9 +1107,7 @@ El Ayuntamiento a través de sus órganos administrativos podrá autorizar media
 
 En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos vigentes en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
-### CAPÍTULO V. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA
-
-EL CATASTRO MUNICIPAL
+### CAPÍTULO V. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA EL CATASTRO MUNICIPAL
 
 ###### ARTÍCULO 92.
 
@@ -1119,7 +1121,83 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa.
 
-(VEASE ARCHIVO ANEXO)
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+I.- Emisión de copias fotostáticas simples.
+
+a) Por cada hoja simple tamaño carta, de cédulas , planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación $ 15.00
+
+b) Por cada copia simple tamaño oficio $ 20.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+II.- Por expedición de copias fotostáticas certificadas de:
+
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 20.00
+
+b) Fotostáticas de plano tamaño oficio, por cada una. $ 25.00
+
+c) Fotostáticas de plano hasta 4 veces tamaño oficio, por cada una. $50.00
+
+d) fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una $ 90.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+III.- Por expedición de oficios de:
+
+a) División(por cada parte) $ 15.00
+
+b) Unión, rectificación de medidas, urbanización y cambio de
+
+nomenclatura $ 25.00
+
+c) Cédulas catastrales $ 50.00
+
+d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente, información de bienes inmuebles $ 50.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+IV.- Por elaboración de planos:
+
+a) Catastrales a escala $150.00
+
+b) Planos topográficos hasta 100 has $250.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+V.- Por revalidación de oficios de división, unión y rectificación de medidas $ 25.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+VI.- Por reproducción de documentos microfilmados:
+
+a) Tamaño carta $ 40.00
+
+b) Tamaño oficio $ 50.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $150.00
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
+
+De 01-00-00 A 10-00-00 $ 550.00
+
+De 10-00-01 A 20-00-00 $ 1,100.00
+
+De 20-00-01 A 30-00-00 $ 1,200.00
+
+De 30-00-01 A 40-00-00 $ 2,300.00
+
+De 40-00-01 A 50-00-00 $ 3,000.00
+
+De 50-00-01 En adelante $500.00 por has.
+
+IX.- Por actualizaciones de predios urbanos se causarán y pagarán los siguientes derechos:
+
+(VER TABLA ANEXA)
 
 ###### ARTÍCULO 95.
 
@@ -1145,9 +1223,9 @@ II.- Tipo habitacional $ 30.00 por departamento
 
 Quedan exentas del pago de los derechos que establecen esta sección, las instituciones públicas.
 
-### CAPÍTULO VI. DE LOS DERECHOS POR EL USO Y APROVECHAMIENTO DE LOS BIENES
+### CAPÍTULO VI
 
-DE DOMINIO PÚBLICO DEL PATRIMONIO MUNICIPAL.
+DE LOS DERECHOS POR EL USO Y APROVECHAMIENTO DE LOS BIENES DE DOMINIO PÚBLICO DEL PATRIMONIO MUNICIPAL.
 
 ###### ARTÍCULO 99.
 
@@ -1175,11 +1253,17 @@ DE LA TASA Y DEL PAGO
 
 Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- En los casos a que hace referencia la fracción II del artículo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $180.00 mensual por locales cerrados.
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
 
-II.- En los casos en que hace referencia la fracción II del artículo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $ 30.00 por día.
+I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $185.00 mensual por locales cerrados.
 
-III.- En los casos a que hace referencia la fracción I del articulo 97 de la Ley General de Hacienda para los Municipios del Estado de Yucatán, se pagarán $ 1.5 m2.
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+II.- Por cuota fija para comerciantes ambulantes, se pagarán $30.00 por día.
+
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2005)</small>
+
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 2.00 m2.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1215,23 +1299,359 @@ I) Tratándose del servicio de recolección de basura, la periodicidad y forma e
 
 II) La superficie total del predio que deba limpiarse, a solicitud del propietario.
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 108.
 
-Por los servicios correspondientes al (sic) recolecta de basura se causará y pagará la cantidad de $ 22.00 mensual.
+Por los servicios correspondientes a la recolecta de basura se causará y pagará la cantidad de $ 25.00 mensual.
 
 ###### ARTÍCULO 109.
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
-### CAPÍTULO ÚNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2005)</small>
+
+### CAPÍTULO VIII. DERECHOS POR LICENCIAS Y PERMISOS
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 110.
+
+Son objetos de estos derechos:
+
+I.- Las licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general;
+
+II.- Las licencias para instalación de anuncios de toda índole, conforme a la reglamentación municipal correspondiente;
+
+III.- Los permisos de construcción, reconstrucción, ampliación, demolición de inmuebles; de fraccionamientos; construcción de pozos y albercas; ruptura de banquetas, empedrados o pavimento, y
+
+IV.- Otro tipo de permisos y autorizaciones de tipo eventual que se señalen en las leyes de ingresos de los municipios.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 111.
+
+Quedarán obligados al pago de los derechos para la obtención de la Licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público, establecimientos en los que se expendan bebidas alcohólicas tales como los que de manera enunciativa pero no limitativa se relacionan a continuación:
+
+I.- Vinaterías
+
+II.- Expendio de cerveza
+
+III.- Departamento de licores en supermercados
+
+IV.- Mini súper
+
+V.- Centros nocturnos y discotecas
+
+VI.- Cantinas y bares
+
+VII.- Clubes sociales
+
+VIII.- Salones de baile
+
+IX.- Restaurantes, hoteles y moteles.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 112.
+
+Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberán revalidarse durante los meses de enero y febrero.
+
+Para que la Tesorería municipal esté en condiciones de revalidar, el peticionario deberá acompañar copia certificada de la Licencia de salud o determinación sanitaria expedida por la Secretaría de Salud del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 113.
+
+Por el otorgamiento de licencias para el funcionamiento de establecimientos o locales cuyos giros sean la venta de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
+
+I.- Vinaterías $4,000.00
+
+II.- Expendio de cerveza $4,000.00
+
+III.- Departamento de licores en supermercados $4,000.00
+
+IV.- Mini súper $4,000.00
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 114.
+
+Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
+
+I.- Centros nocturnos y discotecas $4,000.00
+
+II.- Cantinas y bares $4,000.00
+
+III.- Clubes sociales $4,000.00
+
+IV.- Salones de baile $4,000.00
+
+V.- Restaurantes, hoteles y moteles $4,000.00
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 115.
+
+Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 111 de esta ley, se pagará un derecho conforme a la siguiente tarifa:
+
+I.- Vinaterías $500.00
+
+II.- Expendio de cerveza $500.00
+
+III.- Departamento de licores en supermercados $500.00
+
+IV.- Mini súper $500.00
+
+V.- Centros nocturnos y discotecas $500.00
+
+VI.- Cantinas y bares $500.00
+
+VII.- Clubes sociales $500.00
+
+VIII.- Salones de baile $500.00
+
+IX.- Restaurantes, hoteles y moteles $500.00
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 116.
+
+La cuota aplicable para la autorización del funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas será por cada hora y cuando no contravenga lo establecido en la Ley de Salud del Estado de Yucatán, de acuerdo a la siguiente tarifa:
+
+I.- Vinaterías $100.00
+
+II.- Expendio de cerveza $100.00
+
+III.- Departamento de licores en supermercados $100.00
+
+IV.- Mini súper $100.00
+
+V.- Centros nocturnos y discotecas $100.00
+
+VI.- Cantinas y bares $100.00
+
+VII.- Clubes sociales $100.00
+
+VIII.- Salones de baile $100.00
+
+IX.- Restaurantes, hoteles y moteles $100.00
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 117.
+
+La cuota aplicable para el otorgamiento de permisos eventuales de funcionamiento de giros relacionados con la venta de bebidas alcohólicas será por evento y de acuerdo a la siguiente tarifa:
+
+I.- Vinaterías $600.00
+
+II.- Expendio de cerveza $500.00
+
+III.- Departamento de licores en supermercados $600.00
+
+IV.- Mini súper $600.00
+
+V.- Centros nocturnos y discotecas $600.00
+
+VI.- Cantinas y bares $600.00
+
+VII.- Clubes sociales $500.00
+
+VIII.- Salones de baile $600.00
+
+IX.- Restaurantes, hoteles y moteles $600.00
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 118.
+
+Los establecimientos que expendan bebidas alcohólicas que antes de su apertura no obtengan la licencia de funcionamiento o que estando funcionando no tramiten su revalidación, se harán acreedores a una sanción igual a la tarifa señalada para el otorgamiento, renovación o permiso eventual, según sea el caso.
+
+Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clausura del establecimiento hasta por cinco días, si el contribuyente no cumple con la obligación que tiene de obtener o revalidar la licencia a que se refiere este artículo.
+
+En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 119.
+
+Por el otorgamiento de licencias establecidas en el artículo 110 fracción II, de esta ley, se causarán y pagarán derechos de acuerdo con la siguiente tarifa:
+
+I.- Anuncios murales $ 150.00 mensuales
+
+II.- Anuncios estructurales fijos por metro cuadrado o fracción $ 40.00 mensuales
+
+III.- Anuncios en carteleras mayores de 2 metros cuadrados por cada metro cuadrado o fracción $ 40.00 mensuales
+
+IV.- Anuncios en carteleras oficiales $ 12.00 por día
+
+V.- Vehículos con permiso de propaganda comercial $ 15.00 por día
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+
+### CAPÍTULO IX. DERECHOS POR SERVICIO DE PANTEONES
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 120.
+
+Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
+
+I.- Por renta de bóvedas del ayuntamiento por un periodo de 2 años. $ 150.00
+
+II.- Por empadronamiento $ 50.00
+
+III.- Por uso de fosa común $ 50.00
+
+IV.- Cambio de concesionario $ 150.00
+
+V.- Por construcción, remodelación, metro cuadrado $ 2.50
+
+VI.- Por inhumación $ 150.00
+
+VII.- Por exhumación $ 50.00
+
+VIII.- Por concesión de terreno a perpetuidad, de 2.40 por 1.20 metros $3,000.00
+
+IX.- Por concesión de terreno, de 1.00 por 1.00 metros $ 1,500.00
+
+X.- Por concesión de terreno en la comisaría de UCI, de 2.40 por 1.20 metros $ 1,500.00
+
+XI.- Por concesión de terreno en la comisaría de UCI, de 1.00 por 1.00 metros $ 750.00
+
+XIII.- Por servicios en las demás comisarías se pagará
+
+Por inhumación $ 100.00
+
+Por exhumación $ 30.00
+
+Por uso de la fosa común $ 50.00
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+
+### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 121.
+
+Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con la siguiente tarifa:
+
+I.- Por mes $3,000.00 por cada elemento
+
+II.- Por turno de servicio $ 120.00 por cada elemento
+
+III.- Por hora o fracción $ 60.00 por cada elemento
+
+El pago de este derecho se hará al momento de solicitar el servicio
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+
+### CAPÍTULO XI. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 122.
+
+Los derechos por servicios prestados en el laboratorio municipal se cobrarán de conformidad con la siguiente tarifa:
+
+I.- Acido úrico $35.00
+
+II.- Antiestreptolisnas $ 60.00
+
+III.- Bacterioscopia (gram) $ 35.00
+
+IV.- Biometría hemática $ 35.00
+
+V.- Colesterol total $ 35.00
+
+VI.- Creatinina $ 35.00
+
+VII.- Cultivo $ 63.00
+
+VIII.- Heritrocedimentación glo. $ 35.00
+
+IX.- Examen general de orina $ 35.00
+
+X.- Factor reumatoide (latex) $ 35.00
+
+XI.- Glucosa $ 35.00
+
+XII.- Plaquetas $ 35.00
+
+XIII.- Proteínas C reactiva $ 35.00
+
+XIV.- Recticulocitos $ 35.00
+
+XV.- Reacciones lupticas $ 60.00
+
+XVI.- Tiempo protrombina y tromboplástica $ 70.00
+
+XVII.- Triglicéridos $ 35.00
+
+XVIII.- Perfil de lípidos $130.00
+
+XIX.- Anticuerpos hib $105.00
+
+XX.- Bacilos copia (baar) $ 35.00
+
+XXI.- Brilirrubinas (bil) $ 35.00
+
+XXII.- Colesterol (hdl y ldl) $ 95.00
+
+XXIII.- Coproparasitoscópico cps. $ 35.00
+
+XXIV.- Creatina depuración $ 60.00
+
+XXV.- Cultivo / antibiograma $100.00
+
+XXVI.- Espermatobioscopia $ 80.00
+
+XXVII.- Factor de riesgo en hiperlipidemia $100.00
+
+XXVIII.- Factor rh y grupo sanguíneo $ 30.00
+
+XXIX.- Fraccionbetahcg (pie) $ 70.00
+
+XXX.- Lípidos totales $ 60.00
+
+XXXI.- Proteínas tot. Con relación a /g $ 35.00
+
+XXXII.- Química sanguínea $100.00
+
+XXXIII.- Reacciones febriles $ 60.00
+
+XXXIV.- Tiempo de coagulación y sangrado $ 25.00
+
+XXXV.- Transaminasas TGO $ 70.00
+
+XXXVI.- Perfil funcional $170.00
+
+### CAPÍTULO ÚNICO. DE LOS SUJETOS
+
+(REUBICADO [N. DE E. ANTES ARTICULO 110], D.O. 28 DE ENERO DE 2005)
+
+### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
+
+(REUBICADO [N. DE E. ANTES ARTICULO 122], D.O. 28 DE ENERO DE 2005)
+
+### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 130], D.O. 28 DE ENERO DE 2005)</small>
+
+## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
+
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 136], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 123.
 
 Son sujetos obligados al pago de las contribuciones de mejoras las personas físicas o morales que sean propietarios, fideicomisarios, fideicomitentes, fiduciarios o poseedores por cualquier título de los predios beneficiados con obras realizadas por el Ayuntamiento, sin importar si están destinados a casa-habitación, o se trate de establecimientos comerciales, industriales y/o de prestación de servicios.
 
 Para los efectos de este artículo se consideran beneficiados con las obras que efectúe el Ayuntamiento los siguientes:
 
-Los predios exteriores, que colinden con la calle en la que se hubiese ejecutado las obras.
+Los predios exteriores, que colinden con la calle en la que se hubiese (sic) ejecutado las obras.
 
 Los predios interiores, cuyo acceso al exterior, fuere por la calle en donde se hubiesen ejecutado las obras.
 
@@ -1239,7 +1659,9 @@ En el caso de edificios sujetos a régimen de propiedad en condominio, el import
 
 DE LA CLASIFICACIÓN
 
-###### ARTÍCULO 111.
+(REUBICADO [N. DE E. ANTES ARTICULO 111], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 124.
 
 Las contribuciones de mejoras se pagarán por la realización de obras públicas de urbanización consistentes en:
 
@@ -1259,13 +1681,17 @@ VII.- Cualesquiera otras obras distintas de las anteriores que se lleven a cabo 
 
 DEL OBJETO
 
-###### ARTÍCULO 112.
+(REUBICADO [N. DE E. ANTES ARTICULO 112], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 125.
 
 El objeto de la contribución de mejoras, es el beneficio diferencial que obtengan todos los bienes inmuebles que colinden con las obras y servicios de urbanización mencionados en el artículo anterior, llevados a cabo por el Ayuntamiento.
 
 DE LA CUOTA UNITARIA
 
-###### ARTÍCULO 113.
+(REUBICADO [N. DE E. ANTES ARTICULO 113], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 126.
 
 Para calcular el importe de las contribuciones de mejoras, el costo de la obra comprenderán los siguientes conceptos:
 
@@ -1287,7 +1713,9 @@ DE LA BASE PARA LA DETERMINACIÓN DEL IMPORTE DE LAS OBRAS DE
 
 PAVIMENTACION Y CONSTRUCCIÓN DE BANQUETAS
 
-###### ARTÍCULO 114.
+(REUBICADO [N. DE E. ANTES ARTICULO 114], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 127.
 
 Para determinar el importe de la contribución en caso de obras y pavimentación o por construcción de banquetas en los términos de este capítulo, se estará a lo siguiente:
 
@@ -1309,7 +1737,9 @@ El monto de la contribución, se determinará, multiplicando la cuota unitaria q
 
 DE LAS DEMÁS OBRAS
 
-###### ARTÍCULO 115.
+(REUBICADO [N. DE E. ANTES ARTICULO 115], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 128.
 
 Respecto de las obras de instalación de alumbrado público, introducción de agua potable, construcción de drenaje o alcantarillado público y electrificación en baja tensión, pagarán las contribuciones a que se refiere este capítulo, los propietarios, fideicomitentes, fideicomisarios o poseedores de los predios beneficiados, y ubicados en ambos costados de la vía pública, donde se hubiese realizado la obra, y se determinará su monto, multiplicando la cuota unitaria que corresponda, por el número de metros lineales de lindero con la obra de cada predio.
 
@@ -1317,33 +1747,41 @@ En el caso de predios interiores beneficiados el importe de la cuota unitaria se
 
 DE LAS OBRAS DE LOS MERCADOS MUNICIPALES
 
-###### ARTÍCULO 116.
+(REUBICADO [N. DE E. ANTES ARTICULO 116], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 129.
 
 También están obligados al pago de las contribuciones a que se refiere este capítulo, los concesionarios, permisionarios, locatarios y todos aquellos quienes tengan autorización para ejercer sus actividades comerciales en los mercados públicos propiedad del municipio, por la realización de obras de mejoramiento en los mercados donde ejerzan su actividad.
 
 DE LA BASE
 
-###### ARTÍCULO 117.
+(REUBICADO [N. DE E. ANTES ARTICULO 117], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 130.
 
 La base para calcular esta contribución es el costo unitario de las obras, que se obtendrá dividiendo el costo de las mismas, entre el número de metros de cada área concesionada en el mercado o la zona de éste donde se ejecuten las obras.
 
 TASA
 
-###### ARTÍCULO 118.
+(REUBICADO [N. DE E. ANTES ARTICULO 118], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 131.
 
 La tasa será el porcentaje que se convenga entre los beneficiados y la autoridad teniendo en cuenta las circunstancias económicas de los beneficiados, procurando que la aportación económica no sea ruinosa o desproporcionada, y se aplicará al precio unitario por metro cuadrado de la superficie concesionada.
 
 DE LA CAUSACIÓN
 
-###### ARTÍCULO 119.
+(REUBICADO [N. DE E. ANTES ARTICULO 119], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 132.
 
 Las contribuciones de mejoras a que se refiere este capítulo se causarán independientemente de que la obra hubiera sido o no solicitada por los vecinos, desde el momento en que se inicie.
 
 DE LA ÉPOCA Y LUGAR DE PAGO
 
-### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
+(REUBICADO [N. DE E. ANTES ARTICULO 120], D.O. 28 DE ENERO DE 2005)
 
-###### ARTÍCULO 120.
+###### ARTÍCULO 133.
 
 El pago de las contribuciones de mejoras se realizará a más tardar dentro de los treinta días siguientes a la fecha en que el Ayuntamiento inicie la obra de que se trate. Para ello, el Ayuntamiento, publicará en un periódico de los que se editan en el Estado, la fecha en que se iniciará la obra respectiva.
 
@@ -1351,15 +1789,21 @@ Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efe
 
 DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCIÓN
 
-### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
+(REUBICADO [N. DE E. ANTES ARTICULO 121], D.O. 28 DE ENERO DE 2005)
 
-###### ARTÍCULO 121.
+###### ARTÍCULO 134.
 
 El Tesorero Municipal previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza y que dependa de él más de tres personas y devengue un ingreso no mayor a dos salarios mínimos vigentes en el Estado de Yucatán.
 
-### CAPÍTULO I. GENERALIDADES
+## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-###### ARTÍCULO 122.
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 137], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 135.
 
 Los productos que percibirá el Ayuntamiento a través de la Tesorería Municipal, serán:
 
@@ -1373,13 +1817,9 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
+(REUBICADO [N. DE E. ANTES ARTICULO 123], D.O. 28 DE ENERO DE 2005)
 
-DE LOS RESPONSABLES
-
-## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
-
-###### ARTÍCULO 123.
+###### ARTÍCULO 136.
 
 Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio se llevará a cabo conforme a la Ley Orgánica de los Municipios del Estado de Yucatán.
 
@@ -1389,45 +1829,69 @@ Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párraf
 
 DE LA EXPLOTACIÓN
 
-###### ARTÍCULO 124.
+(REUBICADO [N. DE E. ANTES ARTICULO 124], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 137.
 
 Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán.
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
-###### ARTÍCULO 125.
+(REUBICADO [N. DE E. ANTES ARTICULO 125], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 138.
 
 Corresponderá al municipio, el 75% del producto obtenido, por la venta en pública subasta, de bienes mostrencos o abandonados, denunciados ante la autoridad municipal en los términos del Código Civil del Estado de Yucatán. Corresponderá al denunciante el 25% del producto obtenido, siendo a su costa el avalúo del inmueble y la publicación de los avisos.
 
 DE LOS PRODUCTOS FINANCIEROS
 
-###### ARTÍCULO 126.
+(REUBICADO [N. DE E. ANTES ARTICULO 126], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 139.
 
 El municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente con motivo de la percepción de ingresos extraordinarios o períodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo la alternativa que sin poner en riesgo los recursos del municipio, represente mayor rendimiento financiero y permita disponibilidad de los mismos en caso de urgencia.
 
-###### ARTÍCULO 127.
+(REUBICADO [N. DE E. ANTES ARTICULO 127], D.O. 28 DE ENERO DE 2005)
+
+###### ARTÍCULO 140.
 
 Corresponde al Tesorero Municipal realizar las inversiones financieras previa aprobación del Presidente Municipal, en aquellos casos en que los depósitos se hagan por plazos mayores de tres meses naturales.
 
-###### ARTÍCULO 128.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 128], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 141.
 
 Los recursos que se obtengan por rendimiento de inversiones financieras en instituciones de crédito, por compra de acciones o título de empresas o por cualquier otra forma, invariablemente se ingresarán al erario municipal como productos financieros.
 
 DE LOS DAÑOS
 
-###### ARTÍCULO 129.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 129], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 142.
 
 Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
 
-###### ARTÍCULO 130.
+## TÍTULO SÉPTIMO. APROVECHAMIENTOS
+
+###### ARTÍCULO 143.
 
 De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los convenios de Colaboración Administrativa en Materia Fiscal Federal, el Municipio de Motul, Yucatán, tendrá derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestos por autoridades federales no fiscales. Estas multas tendrá (sic) el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
 
-###### ARTÍCULO 131.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 131], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 144.
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas multas fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
 
-###### ARTÍCULO 132.
+## TÍTULO OCTAVO
+
+PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN,
+
+ORDENAMIENTO APLICABLE
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 132], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 145.
 
 La autoridad fiscal municipal exigirá el pago de las contribuciones y de los créditos fiscales que no hubiesen sido cubiertos o garantizados en las fechas y plazos señalados en la presente ley, mediante el procedimiento administrativo de ejecución, sujetándose en todo caso, a lo dispuesto en el Código Fiscal del Estado de Yucatán y a falta de disposición expresa en este último, se estará a lo dispuesto en el Código Fiscal de la Federación.
 
@@ -1435,7 +1899,9 @@ En todo caso, la autoridad fiscal municipal deberá señalar en los mandamientos
 
 DE LOS GASTOS DE EJECUCIÓN
 
-###### ARTÍCULO 133.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 110], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 146.
 
 Cuando la autoridad fiscal utilice el procedimiento administrativo de ejecución, para el cobro de una contribución o de un crédito fiscal, el contribuyente estará obligado a pagar el 3% de la contribución o del crédito fiscal correspondiente, por concepto de gastos de ejecución, y, además, pagará los gastos erogados, por cada una de las diligencias que a continuación, se relacionan:
 
@@ -1449,7 +1915,9 @@ Cuando el 3% del importe del crédito omitido, fuere inferior al importe de un s
 
 DE LOS GASTOS EXTRAORDINARIOS DE EJECUCIÓN
 
-###### ARTÍCULO 134.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 134], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 147.
 
 Además de los gastos mencionados en el artículo inmediato anterior, el contribuyente, queda obligado a pagar los gastos extraordinarios que se hubiesen erogado, por los siguientes conceptos:
 
@@ -1463,11 +1931,11 @@ d).- Gastos del certificado de libertad de gravamen.
 
 DE LA DISTRIBUCIÓN
 
-## TÍTULO SEXTO. DE LOS PRODUCTOS
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 135], D.O. 28 DE ENERO DE 2005)</small>
 
-###### ARTÍCULO 135.
+###### ARTÍCULO 148.
 
-Los gastos de ejecución mencionados en los artículos 134 y 135 de esta ley, no serán objeto de exención, disminución, condonación o convenio.
+Los gastos de ejecución mencionados en los artículos 146 y 147 de esta ley, no serán objeto de exención, disminución, condonación o convenio.
 
 El importe corresponderá a los empleados y funcionarios de la Tesorería Municipal, dividiéndose dicho importe, mediante el siguiente procedimiento:
 
@@ -1493,21 +1961,27 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 .45 Empleados del Departamento Generados.
 
-###### ARTÍCULO 136.
+## TÍTULO NOVENO. INFRACCIONES Y MULTAS
+
+###### ARTÍCULO 149.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-###### ARTÍCULO 137.
+###### ARTÍCULO 150.
 
 Son responsables de la comisión de las infracciones previstas en esta ley, las personas que realicen cualesquiera de los supuestos, que en este capítulo, se consideran como tales, así como las que omitan el cumplimiento de las obligaciones previstas en esta propia ley, incluyendo a aquellas personas, que cumplan sus obligaciones, fuera de las fechas o de los plazos establecidos.
 
 DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS EMPLEADOS
 
-###### ARTÍCULO 138.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 138], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 151.
 
 Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente ley, lo comunicarán por escrito al Tesorero Municipal, para no incurrir en responsabilidad, dentro de los tres días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
-###### ARTÍCULO 139.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 139], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 152.
 
 Son infracciones:
 
@@ -1525,15 +1999,17 @@ f).- La ocupación de la vía pública, con el objeto de realizar alguna activid
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autoridad respectiva.
 
-###### ARTÍCULO 140.
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 140], D.O. 28 DE ENERO DE 2005)</small>
 
-Serán sancionadas con multa de 1 a 5 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 139 de esta ley.
+###### ARTÍCULO 153.
 
-Serán sancionadas con multas de 1 a 10 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso f) del artículo 139 de esta ley.
+Serán sancionadas con multa de 1 a 5 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan las infracciones contenidas en los incisos a), c), d) y e) del artículo 152 de esta ley.
 
-Serán sancionadas con multas de 1 a 50 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenida en el inciso b) del artículo 139 de esta ley.
+Serán sancionadas con multas de 1 a 10 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso f) del artículo 152 de esta ley.
 
-Serán sancionadas con multas de 1 a 15 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso g) del artículo 139 de esta ley.
+Serán sancionadas con multas de 1 a 50 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenida en el inciso b) del artículo 152 de esta ley.
+
+Serán sancionadas con multas de 1 a 15 salarios mínimos vigentes en el Estado de Yucatán, las personas que cometan la infracción, contenidas en el inciso g) del artículo 152 de esta ley.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario mínimo vigente de un día.
 
@@ -1546,16 +2022,6 @@ a) Tratándose de infracciones que tengan como consecuencia la omisión en el pa
 b) Tratándose de infracciones que impliquen la falta de cumplimiento de obligaciones administrativas y/o fiscales distintas del pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por ese motivo.
 
 TRANSITORIOS:
-
-## TÍTULO SÉPTIMO. APROVECHAMIENTOS
-
-## TÍTULO OCTAVO
-
-PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN,
-
-ORDENAMIENTO APLICABLE
-
-## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1582,3 +2048,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O. 28 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+En lo no previsto por esta Ley, se aplicará supletoriamente, y de manera indistinta, lo establecido por la Ley General de Hacienda para los Municipios del Estado, en su parte relativa.
