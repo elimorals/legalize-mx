@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "1996-12-19"
+last_updated: "1999-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -601,6 +601,8 @@ II. Las que les encomiende la Gran Comisión o su presidente.
 
 ### CAPITULO UNICO. DE LAS BASES PARA SU ORGANIZACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, G.G. 9 DE MARZO DE 1999)</small>
+
 ### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
 
 ###### Artículo 68.
@@ -695,15 +697,15 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 9 DE MARZO DE 1999)</small>
+
 ###### Artículo 76.
 
-Son comités permanentes de la Legislatura los siguientes:
+Son Comités Permanentes de la Legislatura, los siguientes:
 
 Administración;
 
 Biblioteca y Asuntos Editoriales;
-
-Gestoría y Quejas;
 
 Corrección de Estilo;
 
@@ -711,7 +713,9 @@ Estudios Legislativos;
 
 De la Mujer;
 
-De la Juventud y el Deporte.
+De la Juventud y el Deporte;
+
+De Comunicación Social.
 
 La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
 
@@ -813,15 +817,17 @@ La falta de respuesta de los ayuntamientos en el término indicado, será consid
 
 ###### Artículo 94.
 
-Para el ejercicio de sus funciones, la Legislatura contará con las dependencias siguientes:
+Para el ejercicio de sus funciones, la Legislatura contará con las Dependencias siguientes:
 
-I.- Contaduría General de Glosa;
+I. Contaduría General de Glosa;
 
-II.- Oficialía Mayor;
+II. Oficialía Mayor;
 
-III.- Contraloría;
+III. Contraloría;
 
-IV.- Dirección General de Administración;
+IV. Dirección General de Administración;
+
+V. Dirección General de Comunicación Social;
 
 Asimismo, podrá disponer la creación de otras que sean necesarias.
 
@@ -829,9 +835,11 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 Para el control, fiscalización, revisión y calificación del ingreso y del gasto público del Estado y municipios y de los organismos auxiliares, la Legislatura dispondrá de la Contaduría General de Glosa, cuya organización y funcionamiento se regirán por su ley orgánica y su reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 9 DE MARZO DE 1999)</small>
+
 ###### Artículo 96.
 
-Las atribuciones y funcionamiento de la Oficialía Mayor, la Contraloría y la Dirección General de Administración, serán regulados por el reglamento.
+Las atribuciones y funcionamiento de la Oficialía Mayor, la Contraloría, la Dirección General de Administración y la Dirección General de Comunicación Social serán reguladas por el Reglamento.
 
 La organización administrativa de las dependencias será acordada por la Gran Comisión a propuesta de su presidente.
 
@@ -956,3 +964,11 @@ G.G. 19 DE DICIEMBRE DE 1996.
 PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 9 DE MARZO DE 1999.
+
+PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
+
+SEGUNDO.- Publíquese en la Gaceta del Gobierno.
+
+TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
