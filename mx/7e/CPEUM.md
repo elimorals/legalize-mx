@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1983-02-03"
+last_updated: "1983-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1983.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -91,6 +91,10 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada so
 > <small>(ADICIONADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1983)</small>
+
+Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 1980)</small>
 
@@ -3457,3 +3461,7 @@ DECRETO QUE REFORMA EL ARTICULO 21.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE FEBRERO DE 1983.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
