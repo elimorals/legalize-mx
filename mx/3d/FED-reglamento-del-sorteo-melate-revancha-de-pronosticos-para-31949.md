@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2003-06-18"
+last_updated: "2003-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -339,9 +339,11 @@ Un 40% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante se cubrirán los gastos de administración de Pronósticos que apruebe su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para el sostenimiento de la Asistencia Pública.
 
+> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2003)</small>
+
 ###### Artículo 38o.
 
-Se instituyen 3 categorías de premios en cada sorteo:
+Se instituyen 4 categorías de premios en cada sorteo:
 
 a) A primer lugar, a las combinaciones dentro de las cuales figuren los 6 (seis) números extraídos al azar de la tómbola.
 
@@ -349,7 +351,9 @@ b) A segundo lugar, a las combinaciones dentro de las cuales figuren 5 (cinco) d
 
 c) A tercer lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) de los 6 (seis) números.
 
-Las combinaciones en las que figuren menos números de los mencionados en el inciso c) anterior, no serán acreedoras a premiación alguna.
+d) A cuarto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números.
+
+Las combinaciones en las que figuren menos números de los mencionados en el inciso d) anterior, no serán acreedoras a premiación alguna.
 
 ###### Artículo 39o.
 
@@ -412,3 +416,11 @@ El presente reglamento, fue revisado y aprobado en su contenido por la Secretar�
 México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE JULIO DE 2003.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
