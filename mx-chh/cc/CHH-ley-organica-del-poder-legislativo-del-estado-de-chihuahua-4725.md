@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-06-18"
+last_updated: "2003-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -659,9 +659,11 @@ Asimismo, elaborarán un programa de actividades a desarrollar durante los reces
 
 Las comisiones se reunirán cuando menos dos veces al mes durante los períodos ordinarios y por lo menos una al mes en los recesos, previa convocatoria de su presidente y secretario o del Presidente del Congreso.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2003)</small>
+
 ###### Art. 50.
 
-En los casos que se considere pertinente se levantará acta de cada reunión de trabajo.
+En los casos en que se considere pertinente se levantará acta de cada reunión de trabajo, la que reunirá los requisitos que establece el artículo 93 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
@@ -1167,9 +1169,13 @@ A las sesiones privadas sólo podrán asistir, además de los diputados, los emp
 
 Las actas de las sesiones privadas deberán ser aprobadas en sesión de igual carácter y modalidad.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2003)</small>
+
 ###### Art. 93.
 
-De todas las sesiones y reuniones que celebren tanto el Congreso, la Junta de Coordinación Parlamentaria y los comités se levantará acta, la que contendrá cuando menos los siguientes datos: el nombre de quien las presida, la hora de apertura y de clausura, las observaciones, corrección y aprobación en su caso del acta de la sesión o reunión anterior, así como una relación ordenada y sucinta de los asuntos que se hubieran tratado en ellas, de las personas que hubieren participado y el sentido de sus intervenciones, de las incidencias ocurridas y de los acuerdos tomados.
+De todas las sesiones y reuniones que celebren tanto el Congreso, la Junta de Coordinación Parlamentaria y los comités, se levantará acta, la que deberá elaborarse sin utilizar abreviaturas o siglas, procurando que su redacción sea objetiva, clara y concisa, debiendo contener cuando menos los siguientes datos: lugar, fecha, clase de sesión, número de período, el nombre de quien las presida y de los que asistan y la hora de apertura y de clausura. Igualmente quedarán asentadas las observaciones y/o rectificaciones necesarias y la anotación de aprobación, en su caso, del acta de la sesión o reunión anterior.
+
+El acta contendrá una relación sucinta de los asuntos que se hubieren presentado según el orden en que se trataron, de las personas que participen y el sentido de sus intervenciones, de las incidencias ocurridas y de los acuerdos tomados. En la narración se procurará evitar toda calificación de las exposiciones, hechos e incidentes y deberá ser leída y en su caso aprobada, pudiendo ser objeto de rectificaciones antes de su aprobación. Los Diputados que integren el órgano del cual se desprende el acta correspondiente, podrán solicitar y obtener copia del acta respectiva.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1910,5 +1916,11 @@ P.O. 18 DE JUNIO DE 2003.
 DECRETO No. 688/03 II P.O.
 
 ###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
