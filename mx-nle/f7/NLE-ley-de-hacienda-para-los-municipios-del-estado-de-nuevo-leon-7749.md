@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1989-12-29"
+last_updated: "1990-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -409,17 +409,17 @@ La base del impuesto será el valor catastral del inmueble, el cual será determ
 
 #### SECCION QUINTA. DE LA TASA DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 21 Bis 8.
 
-Salvo lo establecido en el artículo siguiente, el Impuesto Predial se determinará, liquidará y pagará, aplicando a la base del impuesto una tarifa del 1.5 al millar anual, excepto en el caso de predios baldíos, a los cuales se les aplicará una tarifa del 2 al millar anual.
+Salvo lo establecido en el artículo siguiente, el Impuesto Predial se determinará, liquidará y pagará, aplicando a la base del impuesto una tarifa del 1.5 al millar anual, excepto en el caso de predios baldíos, a los cuales se les aplicará una tarifa del 3 al millar anual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 21 Bis 9.
 
-El Impuesto Predial será de $9,000.00 anuales, cuando se trate de los siguientes casos:
+El Impuesto Predial será de $18,000.00 anuales, cuando se trate de los siguientes casos:
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -433,9 +433,9 @@ II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Las viviendas cuyo valor catastral no exceda de 12'000,000.00, siempre y cuando se habite en tal vivienda y no se tenga en propiedad o posesión otro bien raíz en el Estado.
+IV.- Las viviendas cuyo valor catastral no exceda de $15'000.000.00 siempre y cuando se habite en tal vivienda y no se tenga en propiedad o posesión otro bien raíz en el Estado.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -449,13 +449,13 @@ VI.- Los predios afectados al patrimonio de familia, en los términos del Códig
 
 VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VIII.- Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios adquiridos por las personas que resulten directamente beneficiadas con tales programas.
+VIII.- Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de $24'000,000.00, adquiridos por las personas que resulten directamente beneficiadas con tales programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IX.- Los predios cuyo valor catastral no exceda de $25'000,000.00 y pertenezcan a:
+IX.- Los predios cuyo valor catastral no exceda de $40'000,000.00 y pertenezcan a:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -481,9 +481,9 @@ e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de 
 
 f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-Si el valor catastral del predio excede de $25'000,000.00 y no de $50'000,000.00, se pagarán $18,000.00, por concepto de Impuesto Predial Anual.
+Si el valor catastral del predio excede de $40'000,000.00 y no de $80'000,000.00, se pagarán $36,000.00, por concepto de Impuesto Predial anual.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -519,9 +519,9 @@ Estarán exentos en el pago del Impuesto Predial, los bienes del dominio publico
 
 La tasa del impuesto es anual y su pago deberá hacerse por bimestres adelantados, que se cubrirán dentro de los primeros veinticinco días de los meses de enero, marzo, mayo, julio, septiembre y noviembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el ultimo día hábil del mes de enero, en cuyo caso se gozara de una reducción del 20% veinte por ciento de dicha anualidad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-Si el monto anual del impuesto no excede de $24,000.00 o si el contribuyente se encuentra beneficiado con la tarifa señalada en el artículo 21 bis-9, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
+Si el monto anual del impuesto no excede de $ 36,000.00, o si el contribuyente se encuentra beneficiado con la tarifa señalada en el artículo 21 bis-9, el pago deberá hacerse en un solo entero dentro de los primeros seis meses de cada año.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -595,9 +595,9 @@ Las manifestaciones a que alude este Capítulo y la Ley del Catastro, respecto d
 
 También se consideran comprendidas en este Artículo las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o por que los predios fusionados sean de un solo propietario. Los Notarios Públicos que autoricen dichas escrituras, tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Secretará de Fianzas y Tesorería General del Estado, dentro del mismo término que establece el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-La omisión de los avisos aquí mencionados generará una multa de $10,000.00.
+La omisión de los avisos aquí mencionados generará una multa de $20,000.00.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -741,39 +741,17 @@ Los Notarios, corredores públicos y jueces que actúen por receptoría serán s
 
 ### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 28 Bis.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa de 10% al valor del inmueble después de reducirlo en cinco veces al salario mínimo general, elevado al año, de la zona económica en donde esté ubicado el inmueble.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-Tratándose de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, sea mayor de 10 veces el salario mínimo general elevado al año y siempre que el adquirente vaya a ser uso propio de la vivienda y no tenga en propiedad o posesión otro bien raíz en el Estado, o cuando, teniendo un solo inmueble, el valor catastral de éste no exceda de $20'000,000.00, la reducción a que se refiere el párrafo anterior será un porcentaje del valor del inmueble, el cual se obtendrá conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-a) El valor más alto del inmueble se dividirá entre el salario mínimo general elevado al año.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-b) A la cantidad 100, se le restará el resultado obtenido conforme al inciso a).
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-c) El porcentaje de reducción será el resultado que se obtenga conforme al inciso b). Si el porcentaje arroja décimas, éstas no se tomarán en cuenta.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-Esta reducción en ningún caso será menor a 5 veces el salario mínimo general elevado al año.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-Para los efectos del presente artículo, se utilizara el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se expida el certificado de valor actual real.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE 1989)</small>
+Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. Salvo lo dispuesto en el artículo siguiente, el impuesto se calculará aplicando la tasa de 8% al valor del inmueble después de reducirlo en cinco veces el salario mínimo general, elevado al año, de la zona económica en donde esté ubicado el inmueble.
 
 En todo caso, cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo es aplicable a hoteles.
+
+Tratándose de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, sea mayor de 10 veces el salario mínimo general elevado al año y siempre que el adquirente vaya a ser uso propio de la vivienda y no tenga en propiedad o posesión otro bien raíz en el Estado, o cuando, teniendo un solo inmueble, el valor catastral de éste no exceda de $50'000,000.00, el adquirente podrá optar por cubrir el impuesto a una tasa que se obtendrá dividiendo el valor más alto del inmueble entre la cantidad que resulte de multiplicar por diez el salario mínimo general elevado al año, sin que en ningún caso esta tasa pueda exceder del 8%. Si la tasa resultante arroja centécimas, éstas no se tomarán en cuenta. Cuando se opte por este tratamiento especial, no se tendrá derecho a la reducción a que se refiere el primer párrafo de este artículo.
+
+Para los efectos del presente artículo, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se expida el certificado de valor actual real.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -781,9 +759,9 @@ En todo caso, cuando del inmueble formen parte departamentos habitacionales, la 
 
 No se pagará el impuesto, en la adquisición de inmuebles que hagan la Federación, el Estado o los Municipios, para formar parte del dominio publico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-El impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de $60,000.00, en los siguientes casos:
+El impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de $72,000.00 en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -809,9 +787,9 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones realizadas a través de fideicomisos en que funjan como fideicomisarios instituciones públicas o para-públicas, destinadas a la solución del problema de la vivienda en la Entidad, tales como INFONAVIT, FOVISSTE (sic), etc.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XII.- En las adquisiciones de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 10 veces el salario mínimo general elevado al año, correspondiente a la zona económica en donde se encuentre el inmueble, vigente al momento en que se expida el certificado de valor actual real, siempre que el adquirente vaya a hacer uso propio de la vivienda y no tenga en propiedad o posesión otro bien raíz en el Estado, o que, teniendo un solo inmueble, el valor catastral de éste no exceda de $20'000,000.00.
+XII.- En las adquisiciones de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 10 veces el salario mínimo general elevado al año, correspondiente a la zona económica en donde se encuentre el inmueble, vigente al momento en que se expida el certificado de valor actual real, siempre que el adquirente vaya a hacer uso propio de la vivienda y no tenga en propiedad o posesión otro bien raíz en el Estado, o que, teniendo un solo inmueble, el valor catastral de éste no exceda de $50'000,000.00.
 
 XIII.- En las adquisiciones que se realicen por causa de muerte.
 
@@ -848,6 +826,10 @@ IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de
 X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal del Estado. La transmisión de dominio de un inmueble, en ejecución de un fideicomiso, causará el Impuesto Sobre Adquisición de Inmuebles, salvo cuando ésta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso, o de los adquirientes de los derechos del fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+En las adquisiciones efectuadas a través de arrendamiento financiero, cuando el arrendatario ejerza su opción de compra, se considerarán como una sola adquisición las realizadas por la arrendadora y por el arrendatario financieros (sic), siempre que se demuestre que fue cubierto el impuesto correspondiente a la adquisición efectuada por la arrendadora financiera. Consecuentemente, en estos casos no se generará el impuesto a cargo del arrendatario financiero.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -891,13 +873,23 @@ Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en e
 
 IV.- El certificado de valor actual real que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera esta formalidad conforme a las leyes, se aplicará el que esté vigente al momento en que se pague el impuesto. Para calcular la reducción a que se refiere el artículo 28 bis, se tomará en cuenta el salario mínimo vigente en la fecha de expedición del certificado de valor actual real.
 
-> <small>(DEROGADO PARRAFO SEGUNDO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirente, cesando su responsabilidad desde el momento en que compruebe fehacientemente ante la Tesorería Municipal, mediante los elementos de prueba que ésta exija, que ha recibido el pago total del precio pactado en la operación de enajenación y que la falta de escrituración no le es imputable.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+El plazo para computar la extinción de las facultades de las autoridades fiscales a que se refiere el artículo 67 del Código Fiscal del Estado se iniciara a partir de la fecha en que ocurran cualquiera de los siguientes supuestos:
+
+a) Se presente la declaración del impuesto ante la Tesorería Municipal;
+
+b) Se presente ante la Dirección de Catastro de la Secretaría de Finanzas y Tesorería General del Estado el Aviso de Enajenación respectivo;
+
+c) Se inscriba el título de adquisición de dominio del inmueble en el Registro Público de la Propiedad y del Comercio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+En caso de que no se realizarán estos trámites, las facultades de las autoridades fiscales mencionadas en el párrafo anterior se extinguirán en un plazo de diez años contados a partir de la fecha en que debió haber sido presentada la declaración.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1459,29 +1451,29 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza, San Pedro Garza García y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria y edificios:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $24,000.00
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $30,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $16,000.00
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $20,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $12,000.00
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $15,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $8,000.00
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $10,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Por cabeza de ganado ovicaprino $3,000.00
+V.- Por cabeza de ganado ovicaprino $4,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VI.- Por cabrito $1,500.00
+VI.- Por cabrito $2,000.00
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1501,33 +1493,33 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 REFRIGERACION.- Por el servicio de refrigeración de animales prestado en los rastros municipales, diariamente:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $6,000.00
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso $8,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $4,000.00
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos $5,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $3,000.00
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso $4,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $2,000.00
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos $2,500
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Por cabeza de ganado ovicaprino $1,000.00
+V.- Por cabeza de ganado ovicaprino $1,200.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VI.- Por cabrito $300.00
+VI.- Por cabrito $400.00
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VII.- Por ave $100.00
+VII.- Por ave $120.00
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
@@ -1535,41 +1527,41 @@ Cuando se trate de animales incompletos se causarán los derechos que establece 
 
 INSPECCION SANITARIA.- Por servicios prestados por inspección sanitaria y resello de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Ganado mayor por canal $1,500.00
+I.- Ganado mayor por canal $2,000.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Ganado porcino por canal $1,000.00
+II.- Ganado porcino por canal $1,500.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Ganado ovicaprino por canal $500.00
+III.- Ganado ovicaprino por canal $600.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Cabrito, por cada uno $300.00
+IV.- Cabrito, por cada uno $400.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Aves, por cada una $100.00
+V.- Aves, por cada una $120.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VI.- Guajolotes, cada uno $300.00
+VI.- Guajolotes, cada uno $400.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VII.- Cabeza de res o cerdo $300.00
+VII.- Cabeza de res o cerdo $400.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VIII.- Asadura, por pieza $100.00
+VIII.- Asadura, por pieza $120.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IX.- Menudo, por pieza $100.00
+IX.- Menudo, por pieza $120.00
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -1583,17 +1575,17 @@ Servicios prestados por las oficinas competentes en materia de Obras Públicas y
 
 I.- Por inspección y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-a) PRIMERA CATEGORIA.- Comprende residencias con más de 200 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $600.00 el metro cuadrado.
+a) PRIMERA CATEGORIA: Comprende residencias con más de 200 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, $750.00 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) SEGUNDA CATEGORIA.- Comprende construcciones industriales y todo tipo de construcción no incluída dentro de la primera o tercera categoría, $400.00 el metro cuadrado.
+b) SEGUNDA CATEGORIA: Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera o tercera categoría, $500.00 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-c) TERCERA CATEGORIA.- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 200 metros cuadrados por vivienda, $200.00 el metro cuadrado.
+c) TERCERA CATEGORIA: Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 200 metros cuadrados por vivienda, $250.00 el metro cuadrado.
 
 II.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando el trabajo se realice por el Municipio en razón de no haberla efectuado el obligado dentro del plazo de un mes siguiente al día en que surta efectos la notificación del requerimiento para que efectúe dichas obras. En este caso se pagarán los derechos correspondientes en función del costo real de la obra.
 
@@ -1629,33 +1621,33 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por registro de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $150.00
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $180.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadra dos y 250 metros cuadrados $70.00
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados $85.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $50.00
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $60.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $100.00
+d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás de los Garza y San Pedro Garza García $120.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-e) Cementerios ubicados en el resto de los Municipios del Estado $50.00
+e) Cementerios ubicados en el resto de los Municipios del Estado $60.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 Estos servicios incluyen el registro del plano del fraccionamiento, la aprobación de la nomenclatura de las calles y la asignación del número oficial de cada lote.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de $4,000.00 pesos por concepto de derechos por este servicio.
+Cuando lo solicite directamente el propietario del predio, la asignación del número oficial se hará al presentarse los planos de construcción para su aprobación ante la autoridad municipal competente, debiendo cubrirse la cantidad de $5,000.00 por concepto de derechos por este servicio.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1683,11 +1675,11 @@ La transmisión del dominio de la superficie cedida no requerirá de escrituraci
 
 ### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 57.
 
-Por expedición de certificados, autorizaciones, constancias o registros, $5,000.00 cada uno.
+Por expedición de certificados, autorizaciones, constancias o registros, $6,000.00 cada uno.
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
@@ -1697,81 +1689,89 @@ Por expedición de certificados, autorizaciones, constancias o registros, $5,000
 
 Por inscripción al inicio de las actividades que se señalan:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $300,000.00 a $900,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $400,000.00 a $1'200,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $700,000.00 a $2'100,000.00.
+II.- Casa de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $900,000.00 a $2'600,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada, de $24,000.00 a $72,000.00.
+III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada, de $30,000.00 a $90,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de $200,000.00 a $600,000.00.
+IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de $250,000.00 a $750, 000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $53,000.00 a $ 60,000.00.
+V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $70,000.00 a $200.000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VI.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $20,000.00 a $60,000.00.
+VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VII.- Fabricas de hielo, de $20,000.00 a $60,000.00.
+VII.- Fabricas de hielo, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VIII.- Molinos de nixtamal, de $20,000.00 a $60,000.00.
+VIII.- Molinos de nixtamal, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IX.- Tortillerías, de $20,000.00 a $60,000.00
+IX.- Establecimientos donde se fabrique cualquier clase de tortillas y tostadas, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-X.- Peluquerías y salones de belleza, de $20,000.00 a $60,000.00.
+X.- Peluquerías y salones de belleza, de $25,000.00 a $ 75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $300,000.00 a $900,000.00.
+XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $400,000.00 a $ 1'200,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XII.- Baños públicos, de $60,000.00 a $180,000.00.
+XII.- Baños públicos, de $75,000.00 a $225,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XIII.- Salas de cine, boliches y patinaderos, de $20,000.00 a $60,000.00.
+XIII.- Salas de cine, boliches y patinaderos, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XIV.- Terrazas de cine, de $20,000.00 a $60,000.00.
+XIV.- Terrazas de cine, de $25,000.00 a $75,000.00.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
-a) De varias plantas, de $80,000.00 a $250,000.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) De una planta techada, de $60,000.00 a $180,000.00
+a) De varias plantas, de $100,000.00 a $300,000.00.
 
-c)A la intemperie, de $35,000.00 a $105,000.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-d) Con superficie no mayor de 400.00 metros cuadrados, de $20,000.00 a $60,000.00.
+b) De una planta, de $75,000.00 a $225,000.00.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XVI.- Salones de baile, de $300,000.00 a $900,000.00.
+c) A la intemperie de $40,000.00 a $125,000.00.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $9,000.00 por unidad.
+d) Con superficie no mayor de 400.00 metros cuadrados, de $25,000.00 a $75,000.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+XVI.- Salones de baile, de $400.000.00 a $1'200,000.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $11,000.00 por unidad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -1779,81 +1779,89 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $9,0
 
 Por refrendo anual de la licencia, autorización, permiso o concesión, se cobrarán:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $150,000.00 a $450,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $180,000.00 a $550,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $375,000.00 a $1'125,000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $450,000.00 a $1'350,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada, de $40,000.00 a $120,000.00.
+III.- Establecimientos en que se vendan al menudeo vinos de mesa y bebidas alcohólicas en botella cerrada, de $50,000.00 a $150,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas en botella cerrada, de $200,000.00 a $600,000.00.
+IV.- Establecimientos en que se vendan al mayoreo vinos de mesa y bebidas alcohólicas, en botella cerrada, de $250,000.00 a $750,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $75,000.00 a $230,000.00.
+V.- Cantinas, bares, restaurantes-bares, instituciones o clubes deportivos o sociales en los que se expendan bebidas alcohólicas, billares y establecimientos similares, de $90,000.00 a $300,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VI.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano, de $20,000.00 a $60,000.00.
+VI.- Establecimientos donde se expenda o distribuya cualquier clase de carne, de $25,000.00 a $75.000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VII.- Fábricas de hielo, de $20,000.00 a $60,000.00.
+VII.- Fábricas de hielo, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-VIII.- Molinos de nixtamal, de $20,000.00 a $60,000.00.
+VIII.- Molinos de nixtamal, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IX.- Tortillerías, de $20,000.00 a $60,000.00.
+IX.- Establecimientos donde se fabriquen cualquier clase de tortillas y tostadas, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-X.- Peluquerías y salones de belleza, de $20,000.00 a $60,000.00.
+X.- Peluquerías y salones de belleza, de $25,000.00 a $75,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $225,000.00 a $675,000.00.
+XI.- Salones de masaje, excepto cuando el servicio sea prestado por quiroprácticos, de $300,000.00 a $800,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XII.- Baños públicos, de $40,000.00 a $120,000.00.
+XII.- Baños públicos, de $50,000.00 a $150,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XIII.- Salas de cine, boliches y patinaderos, de $30,000.00 a $90,000.00.
+XIII.- Salas de cine, boliches y patinaderos, de $40,000.00 a $120,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XIV.- Terrazas de cine, de $20,000.00 a $60,000.00.
+XIV.- Terrazas de cine, de $25,000.00 a $75,000.00.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 XV.- Estacionamientos de vehículos en los que se cobre tarifa o pensión al usuario:
 
-a) De varias plantas, de $80,000.00 a $250,000.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) De una planta techada, de $60,000.00 a $180,000.00.
+a) De varias plantas, de $100,000.00 a $300,000.00.
 
-c) A la intemperie, de $35,000.00 a $105,000.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-d) Con superficie no mayor de 400.00 metros cuadrados, de $20,000.00 a $60,000.00.
+b) De una planta techada, de $75,000.00 a $225,000.00.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XVI.- Salones de baile, de $250,000.00 a $750,000.00.
+c) A la intemperie, de $40,000.00 a $125,000.00.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $8,000.00 por unidad.
+d) Con superficie no mayor de 400.00 metros cuadrados, de $25,000.00 a $75,000.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+XVI.- Salones de baile, de $300,000.00 a $900,000.00.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, $10,000.00 por unidad.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -1895,29 +1903,29 @@ De $ 0.00 a $ 1,000.00 $ 15.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, $8,500.00 por bienio. Si el servicio se presta el segundo año, se pagará únicamente el 50% de la cuota.
+I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, $12,000.00 por bienio. Si el servicio se presta el segundo año, se pagará únicamente el 50% de la cuota.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Por inspecciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $3,000.00 a $9,000.00, excepto por la inspección de polvorines, en que la cuota será de $30,000.00.
+II.- Por inspecciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $4,000.00 a $12,000.00, excepto por la inspección de polvorines, en que la cuota será de $40,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $200.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y $100.00 por cabeza de ganado cabrío o lanar.
+III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $250.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y $120.00 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, $60,000.00.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, $72,000.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles. En los casos en que el monto de impuesto sea menor a la cuota señalada en el párrafo que antecede, se cubrirá únicamente la diferencia que resulte entre el impuesto generado y el derecho de revisión.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Por servicios de examen médico que preste el Municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, $12,000.00.
+V.- Por servicios de examen médico que preste el Municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, $15,000.00.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -1925,9 +1933,9 @@ V.- Por servicios de examen médico que preste el Municipio, a las personas que 
 
 En los servicios que por razones de orden público se vea obligado a prestar el Municipio debido al incumplimiento de una obligación fijada legalmente a cargo del particular, los derechos se fijarán en razón a su costo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-Cualquier otro servicio no incluido en esta Ley que se encuentre establecido en otro ordenamiento legal, generará una cuota de $4,000.00.
+Cualquier otro servicio no incluido en esta Ley que se encuentre establecido en otro ordenamiento legal, generará una cuota de $5,000.00.
 
 Cuando el particular solicite algún servicio que no esté contemplado en esta ley o en algún otro ordenamiento legal, las partes fijarán su monto de común acuerdo.
 
@@ -1939,35 +1947,47 @@ Cuando el particular solicite algún servicio que no esté contemplado en esta l
 
 Por la expedición de licencias se cobrará:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de $15,000.00 a $30,000.00.
+I.- Para bailes, tertulias, cancioneros, variedades en casinos, clubes, restaurantes, centros sociales, terrazas, que se realicen en forma esporádica y se cobre derecho de admisión o se expida boletaje para la entrada, de $18,000.00 a $40,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Por cada corrida de toros, $150,000.00
+II.- Por cada corrida de toros, $180,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-III.- Por cada novillada, $50,000.00
+III.- Por cada novillada, $60,000.00.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de $20,000.00 a $60,000.00.
+IV.- Por temporada de atracciones, circos y demás espectáculos públicos, de $25,000.00 a $75,000.00.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-V.- Por licencia para anuncios se pagarán $10,000.00 semestrales por metro cuadrado o fracción de superficie de exposición.
+V.- Por licencia para anuncios se pagarán $24,000.00 anuales por metro cuadrado o fracción de superficie de exposición.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 Esta cuota se incrementara un 50% si concurren los siguientes factores, por cada uno de ellos:
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 a) Si el anuncio ocupa total o parcialmente la vía pública o el espacio que se encuentra sobre ella. En caso de que la ocupación sea parcial el incremento se calculara en forma proporcional.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 b) Si el anuncio cuenta con iluminación propia.
 
-Este derecho se cubrirá en forma semestral, dentro del primer y cuarto bimestre del año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+Este derecho se cubrirá anualmente, dentro de los tres primeros meses del año o, en su caso, antes de la obtención de la licencia y de la instalación del anuncio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 No estarán obligados al pago de este derecho los anuncios ubicados en el establecimiento del contribuyente, relacionados con su propio giro.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 Serán responsables solidarios del pago de este derecho los sujetos que se anuncien, así como los propietarios del inmueble donde se encuentren instalados los anuncios.
 
@@ -1981,9 +2001,15 @@ Serán responsables solidarios del pago de este derecho los sujetos que se anunc
 
 Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, de deshierba y limpieza de su inmueble una vez al año, a más tardar en el mes de Marzo. De no ser así, el Municipio podrá efectuar el servicio de limpia, debiendo el propietario cubrir el costo que represente al Municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
 
-a) Predios con superficie de hasta 1,000 metros cuadrados $400.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente $200.00
+a) Predios con superficie de hasta 1,000 metros cuadrados $500.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado
+
+Excedente $250.00
 
 Para los efectos de este artículo, por predio baldío se entiende aquél que no tiene construcciones permanentes, cuenta con trazado de calles y es susceptible de recibir los servicios públicos de agua y energía eléctrica. Tratándose de predios ubicados en nuevos fraccionamientos, además de los requisitos señalados con anterioridad, para considerarse baldíos deberán encontrarse ocupados más del 50% de los predios del fraccionamiento.
 
@@ -1999,19 +2025,29 @@ Durante los meses de Abril y Mayo el Municipio impondrá a los omisos una multa 
 
 Por el servicio de limpia y recolección de desechos industriales y comerciales que preste el Municipio a las personas físicas y morales que realizan actividades comerciales, industriales o de servicios, en los términos previstos por el artículo 17 del Código Fiscal del Estado, se cobrará por cada establecimiento ubicado en el Municipio, por mes:
 
-a) Establecimientos que en promedio generen hasta 50 kilogramos diarios
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-de basura $60,000.00
+a) Establecimientos que en promedio generen hasta 50 kilogramos diarios de basura $70,000.00
 
-b) Establecimientos que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura $120,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-c) Establecimientos que en promedio generen más de 100 kilogramos y hasta 200 kilogramos diarios de basura $200,000.00
+b) Establecimientos que en promedio generen más de 50 kilogramos y hasta 100 kilogramos diarios de basura $140,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+c) Establecimientos que en promedio generen mas de 100 kilogramos y hasta 200 kilogramos diarios de basura $240,000.00
 
 d) Establecimientos que en promedio generen más de 200 kilogramos de basura o el equivalente a tres metros cúbicos diarios, el cobro será fijado de común acuerdo entre el Municipio y el particular, en función al costo que represente la prestación del servicio.
 
 Si el servicio se presta solamente hasta tres veces por semana pagará el 50% de la cuota.
 
-No se estará obligado al pago de esta contribución cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+No se estará obligado al pago de esta contribución cuando el particular haya contratado este servicio con algún organismo público descentralizado o con un particular autorizado por el Municipio para la prestación de este servicio. Igualmente no se cobrará este derecho respecto de los contribuyentes personas físicas que lleven a cabo su actividad en el domicilio en donde se encuentre su casa-habitación, excepto cuando declaren, para efectos de cualquier contribución federal, estatal o municipal, ingresos superiores a $5'000,000.00 mensuales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+Para este efecto se sumarán los ingresos declarados en los últimos doce meses, sin deducción alguna, y el resultado se dividirá entre doce.
 
 Las personas físicas o morales obligadas al pago de esta contribución, al inscribirse en la Tesorería Municipal, declararán el volumen promedio diario de basura que generen, pudiendo en su caso solicitar la modificación de la cuota que cubran, debido a un aumento o disminución en el promedio diario de basura que generen. En este caso, la Tesorería Municipal automáticamente modificará la cuota a cargo del particular, sin necesidad de verificar previamente la veracidad de las manifestaciones efectuadas por el contribuyente, con efectos a partir del mes siguiente a aquél en que esto ocurra.
 
@@ -2029,19 +2065,31 @@ Este derecho se pagará por mes dentro de los primeros 15 días naturales del mi
 
 Por ocupación de la vía pública:
 
-I.- Por ocupar la vía pública con sillas se pagarán $25.00 diarios por unidad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $1,000.00 por unidad mensualmente.
+I.- Por ocupar la vía pública con sillas se pagarán $30.00 diarios por unidad.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán $1,200.00 por unidad mensualmente.
 
 III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el Departamento de Tránsito de acuerdo con su Reglamento, se pagará una cuota anual en la forma siguiente:
 
-a) Las empresas comerciales $15,000.00 por medro cuadrado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) Los particulares $10,000.00 por metro cuadrado.
+a) Las empresas comerciales $18,000.00 por medro cuadrado.
 
-Se exceptúan de lo anterior, los lugares en donde se encuentren instalados estacionómetros, en cuyo caso se pagará una cuota adicional de $3,000.00 por metro cuadrado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existen instalados estacionómetros, por cada veinte minutos o fracción, $100.00
+b) Los particulares $ 12,000.00 por metro cuadrado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+Se exceptúan de lo anterior, los lugares en donde se encuentren instalados estacionómetros, en cuyo caso se pagará una cuota adicional de $4,000.00 por metro cuadrado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1990)</small>
+
+IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existen instalados estacionómetros, por cada quince minutos o fracción, $100.00.
 
 V.- No especificados.
 
@@ -2143,9 +2191,9 @@ En los casos en que se requiera permiso previo para operar, deberá cumplirse es
 
 Para los efectos de esta Ley, se entiende como fecha de iniciación de operaciones de los contribuyentes, aquélla en que se efectúe la apertura del negocio o en la que se obtenga el primer ingreso.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-No podrán iniciar operaciones sin autorización previa y por escrito de la Autoridad Municipal, los siguientes negocios: centros nocturnos, lugares públicos de reunión con variedad artística; carnicerías; pescaderías; expendios de mariscos, aves o cabritos; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías, salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; tortillerías; cabarets; prostíbulos; casas de asignación o de citas; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; "futbolitos"; billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; boliches; patinaderos; salones de baile; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
+No podrán iniciar operaciones sin autorización previa y por escrito de la Autoridad Municipal, los siguientes negocios: centros nocturnos, lugares públicos de reunión con variedad artística; establecimientos donde se expenda o distribuya cualquier clase de carne; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías, salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; establecimientos donde se fabrique cualquier clase de tortillas y tostadas; cabarets; prostíbulos; casas de asignación o de citas; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; "futbolitos"; billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; boliches; patinaderos; salones de baile; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
 
 Los negocios que requieren autorización, deberán solicitarla oportunamente por escrito dirigido al C. Presidente Municipal con seis copias, una para el C. Tesorero Municipal y cinco para las comisiones de estudio, pidiendo la autorización respectiva, y una vez resuelto favorablemente se procederá a la inscripción y calificación del negocio.
 
@@ -2289,9 +2337,9 @@ a) 12% sobre el valor comercial de los premios en el caso del inciso a) del Art�
 
 Tratándose de artículos de propaganda comercial, se pagará el 10% sobre el valor de los artículos rifados.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
 
-b) De $20,000.00 a $60,000.00 diarios, en el caso del inciso b) del artículo 33 de esta Ley.
+b) De $25,000.00 a $75,000.00 diarios, en el caso del inciso b) del artículo 33 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2494,3 +2542,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1989.
 P.O. 29 DE DICIEMBRE DE 1989.
 
 UNICO.- La presente Ley entrará en vigor el día 1º de Enero de 1990.
+
+P.O. 31 DE DICIEMBRE DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º. de Enero de 1991.
