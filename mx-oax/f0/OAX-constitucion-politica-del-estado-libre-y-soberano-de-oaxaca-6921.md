@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2000-12-08"
+last_updated: "2002-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
-
-> <small>N. DE E. LAS REFORMAS APROBADAS POR LA QUINCUAGESIMA SEPTIMA LEGISLATURA EN EL DECRETO NO. 230, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DE LA PRESENTE CONSTITUCION, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR, SE CONSERVA EL TEXTO PUBLICADO POR BANDO SOLEMNE EL 4 DE ABRIL DE 1922, CON SUS REFORMAS AL 22 DE FEBRERO DE 2000.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2002.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -647,7 +645,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -667,7 +665,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -805,11 +803,11 @@ Los diputados electos que cuenten con su constancia de mayoría y validez expedi
 
 Para tal efecto, deberán presentar dentro de los días siete a nueve de Noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia, para su registro, se de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo el día trece de Noviembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretario en los términos de la Ley Orgánica y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año, el primer período de sesiones dará principio el día quince de Noviembre y concluirá el treinta y uno de Marzo del año siguiente; el segundo período, dará principio el primero de junio y concluirá el treinta de septiembre.
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día quince de noviembre y concluirá el treinta y uno de marzo, y el segundo período, dará principio el primero de junio y concluirá el quince de julio.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
@@ -2876,6 +2874,10 @@ SEPTIMO. La Reforma al Artículo 8° de la Constitución Particular del Estado m
 > <small>(F. DE E., P.O. 27 DE ENERO DE 2001)</small>
 
 OCTAVO. Todos los procedimientos que hayan iniciado los Municipios previo a la vigencia de este Decreto ante el Congreso del Estado para solicitar la autorización correspondiente para afectar su patrimonio inmobiliario, arrendar bienes propiedad del mismo, y celebrar contratos o convenios que se extiendan más allá del ejercicio constitucional respectivo, y aquellos que llegaren a iniciarse antes de las leyes reglamentarias correspondientes, se regirán por las disposiciones que contiene la Ley Orgánica Municipal publicada el 20 de noviembre de 1993.
+
+P.O. 27 DE ABRIL DE 2002.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
