@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1976-12-31"
+last_updated: "1981-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1981.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -49,17 +49,21 @@ El ministerio Público representa a la sociedad y estará a cargo de los funcion
 
 El Ministerio Público intervendrá en la forma y términos que la Ley disponga, en los asuntos judiciales que afectan a personas a quienes ésta otorga especial protección.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 3o.
 
-El Ministerio Público, intervendrá en todas aquellas gestiones judiciales en que sea parte el Estado o la Hacienda Pública.
+El Ministerio Público intervendrá en todas aquellas gestiones judiciales en que sea parte el Estado.
 
 ###### ARTICULO 4o.
 
 El Ministerio Público depende del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 5o.
 
-El Ministerio Público, tendrá las siguientes atribuciones.
+El Ministerio Público tendrá las siguientes atribuciones.
 
 I. Investigar la comisión de los delitos y violaciones a las leyes de interés público de su competencia.
 
@@ -79,47 +83,55 @@ VIII. Intervenir, en los casos y términos que prescriban las leyes, en la reada
 
 IX. Intervenir en los asuntos judiciales del fuero común, como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las leyes, siempre que de algún modo se afecte el interés público.
 
-X. Intervenir, en auxilio del Ministerio Público Federal, en los casos de denuncias o querellas que se le presenten con motivo de los delitos de ese fuero, turnando los hechos delictuosos a la Autoridad Federal en un plazo máximo de 24 horas, contado a partir del momento que se conozca del asunto, siendo causa de responsabilidad oficial el incumplimiento de esta disposición.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
+X. Intervenir en auxilio del Ministerio Público Federal, en los casos de denuncias o querellas que se presenten con motivo de los delitos de ese fuero, enviando las actuaciones correspondientes a la brevedad posible, siempre y cuando no exista detenido, de lo contrario deberá hacerse en un término de 72 horas, siendo causa de responsabilidad oficial el incumplimiento de esta disposición.
 
 XI. Intervenir, en los demás asuntos que las leyes del Estado determinen.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 6o.
 
-Toda denuncia, acusación o querella que se presente por delito, que sean competencia de los tribunales del orden común, deberá hacerse ante el Agente Investigador del Ministerio Público, con objeto que se proceda de acuerdo a la ley; igualmente podrán presentarse ante el Procurador, quien turnará el asunto al Agente del Ministerio Público correspondiente.
+Toda denuncia, acusación o querella que se presente por delitos, que sean competencia de los Tribunales del Fuero Común, podrán hacerse ante los Agentes del Ministerio Público o Policía Judicial, quienes observarán las disposiciones que al efecto establece el Código de Procedimientos Penales.
 
-Solamente en casos urgentes y en tratándose de delitos que se persiguen de oficio, la denuncia podrá hacerse ante la Policía Judicial, la que de inmediato informará al Agente del Ministerio Público del lugar, quien asumirá la intervención legal que le compete.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 7o.
 
-Los Agentes del Ministerio Público tendrán bajo sus órdenes inmediatas a la Policía Judicial, en la investigación que éste haga para comprobar el cuerpo del delito, ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido; pudiendo utilizar cuando sea necesario, los servicios de la Policía del Estado y de las Municipales que son sus auxiliares.
+El Ministerio Público tendrá bajo sus órdenes inmediatas a la Policía Judicial, en las investigaciones que ésta realice para comprobar el cuerpo del delito y la presunta responsabilidad, ordenándose la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido; pudiendo utilizar, cuando sea necesario, los servicios de la Policía Municipal, que es su auxiliar.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 8o.
 
-Las autoridades que tengan conocimiento de la comisión de un delito o violación de las leyes de interés público, que se persigan de oficio, están obligadas a comunicarlo inmediatamente al Procurador o al Agente del Ministerio Público correspondiente.
+Las autoridades que tengan conocimiento de hechos delictuosos o violación de las Leyes de interés público que se persiguen de oficio, están obligadas a comunicarlo inmediatamente al Ministerio Público, con cuantos datos obren en su poder.
 
 ## TITULO SEGUNDO. REGIMEN DEL PERSONAL
 
 ### CAPITULO PRIMERO. DEL PERSONAL
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 9o.
 
-El personal del Ministerio Público del Estado se integra por:
+El personal del Ministerio Público del Estado se integrará por:
 
-I. Un Procurador General de Justicia, Jefe del Ministerio Público del Orden Común.
+I. Un Procurador General de Justicia, Jefe del Ministerio Público del Fuero Común.
 
-II. Un Subprocurador, sustituto del Procurador.
+II. Un Subprocurador, substituto del Procurador General de Justicia.
 
-III. Los Agentes Investigadores del Ministerio Público.
+III. Los Agentes del Ministerio Público Auxiliares, Adscritos a la Procuraduría General de Justicia del Estado.
 
-IV. Los Agentes del Ministerio Público adscritos a los Juzgados y al Tribunal Superior de Justicia.
+IV. Un Director de Averiguaciones Previas y de Control de procesos; Agente del Ministerio Público.
 
-V. Los Agentes Auxiliares adscritos a la Procuraduría.
+V. Los Agentes del Ministerio Público investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
-VI. Un Jefe de la Policía Judicial del Estado.
+VI. Un Director de servicios periciales.
 
-VII. Un Jefe de Servicios Periciales.
+VII. Un Director de la Policía Judicial.
 
-VIII. Los Jefes de Oficina y demás personal que señale el presupuesto.
+VIII. Los Jefes de Oficina y demás personal que señale el Presupuesto.
 
 ###### ARTICULO 10o.
 
@@ -133,25 +145,27 @@ El Procurador General de Justicia del Estado, será nombrado y removido libremen
 
 ###### ARTICULO 12.
 
-Para ser Procurador General de Justicia se requiere:
-
-I. Ser ciudadano sudcaliforniano.
-
-II. Tener 30 años de edad mínima.
-
-III. Ser Licenciado en Derecho, con un mínimo de cinco años de ejercicio profesional.
-
-IV. Tener un modo honesto de vivir.
-
-V. No haber sido condenado por delito (sic) intencionales.
+(DEROGADO, B.O. 10 DE JULIO DE 1981)
 
 ###### ARTICULO 13.
 
 El Subprocurador será nombrado y removido por el Procurador, con la aprobación del Gobernador del Estado.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 14.
 
-Para ser Sub-procurador se deben satisfacer los siguientes requisitos: tener como mínimo 25 años cumplidos y el relativo al ejercicio de la profesión de 3 años.
+Para ser Subprocurador y Director de Averiguaciones Previas y de Control de Procesos, se requiere:
+
+I. Ser ciudadano Sudcaliforniano.
+
+II. Tener 25 años de edad mínima.
+
+III. Ser Licenciado en Derecho, con un mínimo de 3 años de ejercicio profesional.
+
+IV. Tener un modo honesto de vivir.
+
+V. No haber sido condenado por delitos intencionales.
 
 ###### ARTICULO 15.
 
@@ -209,39 +223,51 @@ II. Acreditar haber concluido la enseñanza secundaria.
 
 III. Acreditar haber observado buena conducta y no haber sido sentenciado como responsable por delitos intencionales.
 
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
 IV. Aprobar los exámenes de ingreso que se practiquen.
 
-V. Participar y aprobar los cursos que imparte la institución.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
-Estos requisitos deberán acreditarse ante el Procurador General de Justicia y ante el Oficial Mayor de Gobierno.
+V. Participar y aprobar los cursos que imparte la Institución.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
+Estos requisitos deberán acreditarse ante el Procurador General de Justicia.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 23.
 
-Serán auxiliares del Ministerio Público:
+Serán auxiliares del Ministerio Público y desempeñarán las funciones de éste, cuando las necesidades así lo requieran y lo detemine (sic) el Procurador General de Justicia del Estado.
 
 I. Los Delegados Municipales.
 
 II. Los Subdelegados Municipales.
 
-III. La Policía Preventiva y de Tránsito.
+III. Los Recaudadores de Rentas.
 
-Los Auxiliares del Ministerio Público están obligados a cumplir las órdenes que dicten dentro de sus facultades las autoridades de dicha institución.
+IV. Los Elementos de Seguridad y Tránsito Municipales.
+
+Los auxiliares del Ministerio Público están obligados a cumplir las órdenes que dicten dentro de sus facultades las Autoridades de dicha Institución.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 24.
 
-Las faltas temporales del personal que integran el Ministerio Público su suplirán de la manera siguiente:
+Las faltas temporales del personal que integran el Ministerio Público se suplirán de la siguiente manera:
 
-I. Las del Procurador, por el Subprocurador.
+I. Las del Procurador General de Justicia, por el Subprocurador y a falta de éste por el Director de Averiguaciones Previas y de Control de Procesos.
 
-II. Las del Subprocurador, por el Agente Auxiliar que designe el Procurador.
+II. Las del Subprocurador, por el Director de Averiguaciones Previas y de Control de Procesos.
 
-III. Las de los Agentes Auxiliares, por quienes de entre ellos designe el Procurador.
+III. Las de los Directores, Agentes del Ministerio Público y del resto del personal por quienes designe el Procurador General de Justicia.
 
-IV. Las de los Agentes del Ministerio Público y del resto del Personal, por quienes designe el Procurador.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 25.
 
-En lugares foráneos, las faltas temporales del Agente del Ministerio Público se suplirán por el Primer Secretario.
+En las Agencias del Ministerio Público que funcionen fuera de la Capital del Estado, las faltas temporales de los Agentes se suplirán por el que designe el Procurador General de Justicia y en su defecto, por las Autoridades mencionadas en el Artículo 23 y en el orden que ahí se establece.
 
 ###### ARTICULO 26.
 
@@ -249,9 +275,11 @@ Ningún nombramiento de funcionario o empleado del Ministerio Público podrá re
 
 La inobservancia de esta disposición es motivo de responsabilidad de quien tenga a su cargo la expedición del nombramiento.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 27.
 
-No podrá recaer ningún nombramiento, en individuo impedido físicamente para desempeñar el cargo respectivo.
+No podrá recaer ningún nombramiento en personas impedidas físicamente o con enfermedades transmisibles que les dificulte gravemente el desempeño de las funciones respectivas.
 
 ###### ARTICULO 28.
 
@@ -259,9 +287,11 @@ Todo personal que fuera nombrado para desempeñar algún cargo o empleo, deberá
 
 ### CAPITULO TERCERO. EXCUSAS E INCOMPATIBILIDADES
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 29.
 
-Los funcionarios de la Procuraduría, sus Secretarios y Auxiliares de la función investigadora no son recursables; pero deben excusarse en los negocios en que intervengan, cuando exista alguna de las causas que motiva la excusa de los Jueces.
+Los funcionarios del Ministerio Público no son recusables; pero deben excusarse en los negocios en que intervengan cuando exista alguna de las causas que motiva la excusa de los jueces.
 
 La inobservancia de esta disposición es motivo de responsabilidad oficial.
 
@@ -271,13 +301,13 @@ El Gobernador del Estado calificará las excusas del Procurador, y éste las del
 
 ###### ARTICULO 31.
 
-Ningún funcionario o empleado del Ministerio Público podrá desempeñar otro puesto oficial.
+(DEROGADO, B.O. 10 DE JULIO DE 1981)
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 32.
 
-Los funcionarios y empleados, no podrán ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas, depositarios, síndicos, administradores, interventores en concursos, árbitros o arbitradores, ni ejercer la abogacía sino en causa propia.
-
-Quedan exceptuados de esta disposición, los cargos docentes o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias.
+Los funcionarios y empleados del Ministerio Público, no podrán desempeñar ningún otro empleo o cargo, público o privado, ni ejercer la abogacía, sino en causa propia de su esposa o de sus hijos. Quedan exceptuados de esta disposición los cargos docentes o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de la Institución.
 
 ## TITULO TERCERO. FACULTADES Y OBLIGACIONES DE LOS FUNCIONARIOS DEL MINISTERIO PUBLICO
 
@@ -317,29 +347,61 @@ XIV. Dictaminar en aquellos asuntos que el Gobernador del Estado le ordene o sol
 
 XV. Denunciar ante el Gobernador del Estado las leyes, reglamentos o decretos que resulten violatorios de la Constitución Política de la República y del Estado, sometiendo a su consideración las reformas respectivas.
 
-XVI. Promover ante el Gobernador del Estado la iniciación de leyes y la expedición de reglamentos necesarios para que la administración de Justicia sea pronta y expedita.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XVI. Tener a su cargo la Policía Preventiva del Estado.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
 XVII. Elaborar el presupuesto anual de egresos de la Institución, de acuerdo con las normas contables que señale la Secretaría de Finanzas y con las normas administrativas que indique la Oficialía Mayor.
 
-XVIII. Las demás que le asignen las leyes.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XVIII. Promover ante el Gobernador del Estado la Iniciación de leyes y la expedición de reglamentos necesarios para que la administración de la justicia sea pronta y expedita.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XIX. Invitar a los ciudadanos del Estado de Baja California Sur, a coadyuvar en la mejor procuración de justicia, corresponsabilizándose en el pleno cumplimiento de la función procuradora de las garantías individuales y la tutelar de los derechos de la sociedad que tiene encomendado el Ministerio Público.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XX. Procurar y concertar Acuerdos y Convenios entre la Procuraduría General de Justicia y las Instituciones de estudios superiores que funcionan en la Entidad, para que en su caso, la prestación de servicios de pasantes en labores de la Institución se considere como servicio social.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XXI. Celebrar reuniones de información sobre los beneficios otorgados a la sociedad, por el Gobierno del Estado, a través de la Procuraduría.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XXII. Difundir como lo estime pertinente, las realizaciones de literatura vinculada con la procuración de justicia en el Estado.
+
+XXIII. Las demás que le asignen las Leyes.
 
 ###### ARTICULO 34.
 
 El Procurador no podrá delegar sus facultades en los casos en que la ley o el Gobernador del Estado, exijan expresamente su intervención directa.
 
-### CAPITULO SEGUNDO. DEL SUB-PROCURADOR
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JULIO DE 1981)</small>
+
+### CAPITULO SEGUNDO. DEL SUBPROCURADOR
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 35.
 
-Son facultades y obligaciones del Sub-Procurador:
+Son facultades y obligaciones del Subprocurador:
 
 I. Suplir en sus funciones al Procurador, en los casos previstos en esta Ley.
 
 II. La supervisión de las funciones que desempeñen los Agentes del Ministerio Público Investigadores y adscritos a los Juzgados y al Tribunal Superior de Justicia.
 
-III. La vigilancia de las funciones que realizan el Jefe de la Policía Judicial, el Jefe de Servicios Periciales y los demás Jefes de Oficina.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
-IV. Resolver los casos que se le planteen sobre el no ejercicio de la acción Penal, desistimiento de ésta, la formulación de funciones no acusatorias, oyendo la opinión del Procurador.
+III. La vigilancia de las funciones que realizan la Dirección de Averiguaciones Previas y de Control de Procesos, la Dirección de Servicios Periciales y la Dirección de la Policía Judicial.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
+IV. Autorizar con su firma las resoluciones que emita el Procurador General de Justicia sobre el no ejercicio de la acción penal, desistimiento de ésta y la formulación de conclusiones no acusatorias.
 
 V. La Selección científica del personal de la Procuraduría.
 
@@ -351,7 +413,7 @@ VIII. Atender las consultas internas de la institución, que no están especialm
 
 IX. Llevar, con las constancias que se estimen necesarias, expedientes relativos a las averiguaciones foráneas.
 
-X. Turnar los exhortos y causas por incompetencia, excusas o impedimentos que reciba el Ministerio Público a los Agentes del Ministerio Público correspondientes.
+X. (DEROGADA, B.O. 10 DE JULIO DE 1981)
 
 XI. Someter a la consideración del Procurador, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
 
@@ -367,7 +429,29 @@ XII. Desahogar las consultas que formulen los Agentes del Ministerio Público ad
 
 XIII. En general, atender y orientar al público acerca de los derechos y obligaciones de los particulares frente a la propia Institución, especialmente a las víctimas de los delitos, con propósitos tutelares y preventivos.
 
-IX (sic). Las demás que le señalen las leyes, los reglamentos y el Procurador.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XIV. Tramitar todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, licencias, vacaciones y todos los documentos de identificación para el personal de la Procuraduría, por acuerdo del Procurador General de Justicia. En ningún caso se acreditará como funcionario o empleado de la Institución, mediante la credencial o placa respectiva, a quien no preste servicios en la misma.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XV. Formular el anteproyecto de presupuesto de la Procuraduría, manejar las partidas correspondientes y administrar los gastos, con acuerdo del Procurador General de Justicia.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XVI. Realizar y someter al Procurador General de Justicia, estudios sobre la organización y funcionamiento de la Procuraduría, en el ramo administrativo.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XVII. Proporcionar los servicios generales de archivo, depósito de objetos, intendencia, inventarios y proveeduría.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XVIII. Administrar los servicios destinados al personal de la Institución.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XIX. Las demás que le señalen las Leyes, los Reglamentos y el Procurador General de Justicia.
 
 ###### ARTICULO 36.
 
@@ -401,41 +485,89 @@ VII. Reunir, procesar, editar y difundir la información estadística, sobre la 
 
 VIII. Cumplir con las demás comisiones que les señale el Procurador.
 
-### CAPITULO CUARTO. DE LOS AGENTES INVESTIGADORES DEL MINISTERIO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, B.O. 10 DE JULIO DE 1981)</small>
+
+### CAPITULO CUARTO. DE LA DIRECCION DE AVERIGUACIONES PREVIAS Y DE CONTROL DE PROCESO
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 38.
 
-Son facultades y obligaciones de los Agentes investigadores del Ministerio Público:
+La Dirección de Averiguaciones Previas y de Control de Procesos estará a cargo de un Director Agente del Ministerio Público que será designado por el Procurador General de Justicia.
 
-I. Recibir las denuncias, acusaciones o querellas por los delitos y violaciones a las leyes de interés público de la competencia de los Tribunales del Fuero Común.
+Podrá contar con un Subdirector que el Procurador General de Justicia designe, quien ejercerá las atribuciones del Director por acuerdo del mismo, con el número de Agencias Investigadoras del Ministerio Público en todo el Estado que sean necesarias para el servicio de sus funciones, conforme lo autorice el Presupuesto de Egresos y tendrá las facultades y obligaciones siguientes:
 
-II. Practicar las averiguaciones previas correspondientes al Estado.
+I. Practicar directamente o a través de las Agencias Investigadoras, las averiguaciones previas correspondientes a delitos del Fuero Común y en su caso, ejercitar la acción penal.
 
-III. Practicar las primeras diligencias que tiendan a la comprobación del cuerpo del delito y responsabilidad de los indiciados en los términos del Código de Procedimientos de la materia debiendo estar acompañados en todas las diligencias que practique, por dos testigos de asistencia que darán fé de ellas.
+II. Recibir las querellas o denuncias por los delitos y violaciones a las Leyes de interés público de la competencia de los tribunales del Fuero Común.
 
-IV. Aprehender al infractor y a sus cómplices en los casos a que se refiere el artículo 16 de la Constitución General de la República.
+III. Ejercitar la acción penal solicitando, en su caso, la orden de aprehensión respectiva contra las personas cuya presunta responsabilidad se acredite en la averiguación previa.
 
-V. Ejercitar la acción penal, solicitando en su caso, la orden de aprehensión respectiva, contra las personas cuya responsabilidad se acredite en la averiguación. Obtenida la orden de aprehensión deberá ésta transcribirse al Jefe de la Policía Judicial para que se ejecute y en los lugares que no haya Policía Judicial se transcribirá directamente al Jefe de la Policía Municipal de la localidad; invariablemente se remitirá copia de la orden de aprehensión que se transcriba al Procurador General de Justicia.
+IV. Vigilar la secuela de las averiguaciones que se practiquen en todo el Estado por los Agentes del Ministerio Público, girando las instrucciones conducentes.
 
-VI. Dictar las resoluciones procedentes, loa acuerdos de reserva, suspensión, incompetencia y acumulación de las averiguaciones; debiendo someter al Procurador, los casos en que no proceda el ejercicio de la acción penal.
+V. Revisar y aprobar el trámite de las averiguaciones previas, que remitan en consulta los Agentes del Ministerio Público, cuando en ellas se propongan los acuerdos de consulta de archivo, de reserva, suspensión, incompetencia o acumulación de las averiguaciones y también en los casos en que estos funcionarios estimen necesario conocer la opinión del Director.
 
-VII. Las demás que le atribuyan las leyes, los reglamentos y el Procurador.
+VI. Llevar, con las constancias que se estimen necesarias, copias de los expedientes relativos a las averiguaciones previas.
 
-### CAPITULO QUINTO. DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS A LOS TRIBUNALES
+VII. Turnar los exhortos y los asuntos que por incompetencia, excusa o impedimento, reciba el Ministerio Público, a los Agentes del Ministerio Público correspondientes.
+
+VIII. Vigilar e intervenir en todos los negocios de la competencia de los Tribunales del Fuero Común en el Estado, siempre que en éstos, conforme a laLey (sic) ser oído el Ministerio Público o intervenir en los mismos, ya como actor, demandado o tercer opositor o con cualquier otro carácter que le concedan las Leyes.
+
+IX. Someter a la consideración del funcionario que corresponda, los dictámenes formulados por los Agentes del Ministerio Público adscritos a los Tribunales del Fuero Común, en los casos siguientes:
+
+a).- Cuando se trate de resolver sobre no ejercicio de la acción penal.
+
+b).- Cuando se consulte sobre el desistimiento de la acción penal.
+
+c).- Cuando se formulen conclusiones de no acusación.
+
+d).- Cuando al formularse conclusiones no se comprenda algún delito que resulte probado durante la instrucción o si fueren contrarias a las constancias procesales, o si en ella no se cumpliere con los requisitos que establezca la Ley Procesal.
+
+X. Desahogar las consultas que formulen los Agentes del Ministerio Público, adscritos a los Tribunales del Fuero Común.
+
+XI. En general, atender y orientar al público, especialmente a las víctimas de los delitos, a cerca de sus derechos y obligaciones en los negocios judiciales en que intervengan en los Tribunales del Fuero Común del Estado.
+
+XII. Las demás que le atribuyan las Leyes, los Reglamentos, el Procurador General de Justicia del Estado y el Subprocurador.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
+### CAPITULO QUINTO. DE LOS AGENTES INVESTIGADORES DEL MINISTERIO PUBLICO
+
+(REUBICADO Y REFORMADO, B.O. 10 DE JULIO DE 1981)
 
 ### CAPITULO SEXTO. JEFATURA DE SERVICIOS PERICIALES
 
+(REUBICADO, B.O. 10 DE JULIO DE 1981)
+
 ###### ARTICULO 39.
 
-Los Agentes del Ministerio Público tendrán autoridad inmediata, en el ejercicio de sus funciones y en la medida que le sean (sic) necesario, sobre todos los integrantes de la policía o policías de la Jurisdicción en que actúen, aunque éstos, por su nombramiento, dependan de otros funcionarios.
+Los Agentes Investigadores del Ministerio Público tendrán autoridad inmediata, en el ejercicio de sus funciones y en la medida que le sean (sic) necesario, sobre todos los integrantes de la Policía o Policías de la Jurisdicción en que actúen, aunque éstos, por su nombramiento, dependan de otros funcionarios.
 
-### CAPITULO SEPTIMO. POLICIA JUDICIAL
+Son facultades y obligaciones de los Agentes Investigadores del Ministerio Público:
+
+I. Practicar las averiguaciones previas correspondientes al Estado;
+
+II. Practicar las primeras diligencias que tiendan a la comprobación del cuerpo del delito y la responsabilidad de los indiciados en los términos del Código de Procedimientos de la Materia, debiendo estar acompañados en todas las diligencias que practique por dos testigos de asistencia que darán fé de ellas.
+
+III. Aprehender al infractor y a sus cómplices, en los casos a que se refiere el Artículo 16 de la Constitución General de la República.
+
+IV. Ejercitar la acción penal, solicitando en su caso la orden de aprehensión respectiva, contra las personas cuya responsabilidad se acredite en la averiguación previa.
+
+V. Dictar las resoluciones procedentes, los acuerdos de reserva, suspensión, incompetencia y acumulación de las averiguaciones, debiendo someter al Procurador General de Justicia por conducto del Director de Averiguaciones Previas y de Control de Procesos, los casos en que no proceda el ejercicio de la acción penal.
+
+VI. Las demás que se atribuyan las Leyes, los reglamentos y el Procurador General de Justicia del Estado.
+
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 40.
 
 Son facultades y obligaciones de los Agentes del Ministerio Público adscritos a los Tribunales las siguientes:
 
-EN MATERIA PENAL
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1981)</small>
+
+A.- EN MATERIA PENAL
 
 I. Intervenir en las averiguaciones y procesos ante los Tribunales de su adscripción en los términos de ley, efectuando las diligencias necesarias para comprobar el delito y la responsabilidad del o los indiciados, o bien la inculpabilidad de éstos.
 
@@ -455,13 +587,19 @@ VIII. Concurrir a las visitas de las cárceles que practiquen los Jueces ante lo
 
 IX. Poner en conocimiento del Procurador General, las irregularidades que se adviertan en la Administración de Justicia del Estado.
 
-X. Rendir al Subprocurador, un informe mensual del estado que guardan los asuntos en que intervengan, señalando las actividades que en los mismos hubieren tenido, haciendo de su conocimiento las irregularidades que adviertan.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
-XI. Remitir al Subprocurador los documentos y datos que se indican en el artículo 36 de esta ley.
+X. Recibir las órdenes de aprehensión que se dicten, las cuales entregarán de inmediato al Procurador General de Justicia para su ejecución siendo causa de responsabilidad oficial el incumplimiento de esta disposición.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
+
+XI. Rendir al Director de Averiguaciones Previas y de Control de Procesos, un informe mensual del estado que guardan los asuntos en que intervengan, señalando las actividades que en los mismos hubieren tenido, haciendo de su conocimiento las irregularidades que adviertan.
 
 XII. Las demás que les señalen las leyes, los reglamentos y el Procurador.
 
-EN MATERIA CIVIL Y FAMILIAR
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1981)</small>
+
+B.- EN MATERIA CIVIL Y FAMILIAR
 
 I. Intervendrán conforme a la ley, debiendo tener especial cuidado en la protección de los menores y otros incapaces, así como en el trámite y resolución de las cuestiones que se planteen respecto al régimen de la familia.
 
@@ -477,31 +615,47 @@ V. Todas las facultades y obligaciones fijadas en este artículo a los adscritos
 
 En los lugares que haya un solo Agente del Ministerio Público, éste fungirá como Agente Investigador y adscrito al Juzgado correspondiente, teniendo las atribuciones y obligaciones que para ambos establece esta ley.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+
+### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 42.
 
-Jefatura de Servicios Periciales, estará a cargo de un Jefe, el personal técnico y administrativo necesario para los laboratorios de investigación, que el Procurador designe y determine el presupuesto.
+La Dirección de Servicios Periciales estará a cargo de un Director, Profesionistas Técnicos y Personal Administrativo necesario para los laboratorios de investigación, que el Procurador General de Justicia designe y determine el presupuesto.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 43.
 
-La Jefatura de Servicios Periciales, contará cuando menos, de las siguientes secciones:
+La Dirección de Servicios Periciales comprenderá los Departamentos de: Criminalística, Química y Biología y Medicina Legal; que estarán respectivamente a cargo de un Jefe. El Departamento de CRIMINALISTICA Constará cuando menos de:
 
-I. Balística
+a).- Criminalística de Campo.
 
-II. Criminalística.
+b).- Balística.
 
-III. Dactiloscopía.
+c).- Dactiloscopía.
 
-IV. Fotografía.
+d).- Grafoscopía.
 
-V. Identificación criminal; y
+e).- Fotografía.
 
-VI. Medicina Forense.
+f).- Hechos de Tránsito.
+
+g).- Archivo e Identificación.
+
+El Departamento de QUIMICA y BIOLOGIA, encargado de los exámenes de la especialidad, incluyendo TOXICOLOGIA.
+
+El Departamento de MEDICINA LEGAL que comprenderá lo relativo a clasificación de lesiones, autopsias y otros.
+
+En aquellos casos en que la Dirección no cuente con Peritos en las áreas de conocimiento antes descritas, estarán facultados el Director o Subdirector, en su caso, para solicitar a las Dependencias Oficiales o a los particulares los servicios respectivos en auxilio de la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 44.
 
-La Jefatura de Servicios Periciales, rendirá los dictámenes, en los casos y condiciones establecidos por la ley procesal de la materia.
+La Dirección de Servicios Periciales, rendirá los dictámenes, en los casos y condiciones establecidos por la Ley Procesal de la materia.
 
 ###### ARTICULO 45.
 
@@ -509,9 +663,13 @@ Los servicios periciales se prestarán a pedimento de las autoridades judiciales
 
 En caso de que se solicite el servicio por otra autoridad o institución, se prestará cuando lo acuerde el Procurador.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+
+### CAPITULO UNICO
+
 ###### ARTICULO 46.
 
-La Policía Judicial estará a cargo de un Jefe y un Subjefe, de los Comandantes, Jefes de Grupo, Agentes y Personal Administrativo, que el Procurador designe y determine el presupuesto.
+La Policía Judicial estará a cargo de un Director y un Subdirector, de los Comandantes, Jefes de Grupo, Agentes y Personal Administrativo, que el Procurador General de Justicia del Estado designe y determine el presupuesto.
 
 ###### ARTICULO 47.
 
@@ -539,9 +697,11 @@ La Policía Judicial ejercitará sus atribuciones cumpliendo órdenes expresas d
 
 El Reglamento Interior de la Policía Judicial, fijará las labores que deban desempeñarse en cada dependencia de la misma.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+
 ###### ARTICULO 51.
 
-Las Policías del Estado y las Municipales, son auxiliares de la Policía Judicial, y por tanto, tendrán la obligación de colaborar con ésta para el buen desempeño de sus funciones.
+Los Agentes de Seguridad y Tránsito son auxiliares de la Policía Judicial y por tanto, tendrán la obligación de colaborar con ésta para el buen desempeño de sus funciones.
 
 ###### ARTICULO 52.
 
@@ -595,6 +755,16 @@ Los Tribunales en caso de tener conocimiento de alguna falta del personal del Mi
 
 El Procurador, los funcionarios y empleados del Ministerio Público, son responsables por los delitos, faltas y omisiones en que incurran durante el ejercicio de sus cargos, y se perseguirán en la forma que determine la Constitución Política del Estado, la Ley de Procedimientos de la materia y la Ley de Responsabilidades de Funcionarios y Empleados Públicos. Se concede acción popular para denunciar las violaciones que se cometa a esta Ley.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
+
+###### ARTICULO 63.
+
+Los Agentes del Ministerio Público, someterán a la consideración del Director de Averiguaciones Previas y de Control de Procesos, los acuerdos de consulta de archivo, de reserva, incompetencia o acumulación de las Averiguaciones Previas; una vez que se apruebe o se modifique el acuerdo correspondiente, el mismo Agente del Ministerio Público, deberá notificarlo personalmente al querellante o denunciante, para que éste manifieste su conformidad con el mismo o interponga recursos de revisión dentro del plazo de tres días hábiles a partir del día siguiente a la fecha de notificación del mismo.
+
+Si dentro del plazo fijado en el párrafo anterior, no se interpone revisión contra el acuerdo, éste quedará firme.
+
+Del recurso de revisión conocerá el Procurador General de Justicia del Estado, quien bajo su más estricta responsabilidad emitirá su resolución, la que deberá estar autorizada con la firma del Subprocurador la resolución dictada será notificada al recurrente por el propio Agente del Ministerio Público ante quien se interpuso la revisión.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO 1o.
@@ -636,3 +806,15 @@ ANGEL CESAR MENDOZA ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUILLERMO MERCADO ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a lo establecido en este Decreto.
