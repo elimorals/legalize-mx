@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-11775"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-06-12"
-last_updated: "1995-06-12"
+last_updated: "1997-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el lunes 12 de junio de 1995.
 
@@ -691,7 +691,7 @@ Para la pérdida del registro a que se refiere la fracción II de este Artículo
 
 Son causas de pérdida de la acreditación de un partido político las señaladas en el Artículo anterior, a excepción de las fracciones II y III.
 
-Ocurrida la pérdida del registro de un partido político nacional en los términos del Código Federal de Instituciones y Procedimientos Electorales, quedará sin efecto su acreditación ante el Instituto Estatal Electoral a partir de la publicación correspondiente en el Diario Oficial de la Federación, excepto cuando represente hasta la tercera fuerza electoral en el Estado; de acuerdo a los resultados de la elección inmediata anterior para Diputados al Congreso Local.
+Ocurrida la pérdida del registro de un partido político nacional en los términos del Código Federal de Instituciones y Procedimientos Electorales, quedará sin efecto su acreditación ante el Instituto Estatal Electoral a partir de la publicación correspondiente en el Diario Oficial de la Federación, excepto cuando represente hasta la tercera fuerza electoral en el Estado de acuerdo a los resultados de la elección inmediata anterior para Diputados al Congreso Local.
 
 ###### ARTICULO 58.
 
@@ -799,9 +799,11 @@ Es derecho de los partidos políticos, contratar tiempos en la radio para difund
 
 ###### ARTICULO 68.
 
-El régimen de financiamiento de los partidos políticos tendrá dos modalidades;
+El régimen de financiamiento de los partidos políticos tendrá dos modalidades:
 
-I.- Financiamiento público, que será un monto trianual que otorgará el Estado a los partidos políticos, para garantizar que cuenten con un mínimo de elementos para el desarrollo de sus actividades. Este será el que resulte de multiplicar el salario diario mínimo vigente en la Capital del Estado, por el número de electores, aplicándole el factor porcentual que establezca el Consejo Estatal Electoral.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Financiamiento público que de acuerdo con las disponibilidades presupuestales otorgará equitativamente el Estado, en un monto trianual a los partidos políticos para su sostenimiento, así como para garantizar que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal. Este será el que resulte de multiplicar el salario mínimo diario vigente en la Capital del Estado, por el número de electores, aplicándole el factor porcentual que establezca el Consejo Estatal Electoral.
 
 a).- El monto trianual aprobado a los partidos políticos se asignará de la siguiente manera:
 
@@ -927,9 +929,11 @@ Los partidos políticos coaligados no podrán postular candidatos propios en los
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 77.
 
-El Instituto Estatal Electoral es un organismo público autónomo, de carácter permanente, con personalidad jurídica y patrimonio propios, responsable de la preparación, desarrollo y vigilancia de los procesos electorales del Estado.
+El Instituto Estatal Electoral es un Organismo Público Autónomo en su funcionamiento e independiente en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, responsable de la preparación, desarrollo y vigilancia de los procesos electorales del Estado.
 
 ###### ARTICULO 78.
 
@@ -1073,7 +1077,13 @@ XXXI.- Dictar normas internas para el buen despacho de sus asuntos;
 
 XXXII.- Hacer la declaratoria de pérdida de la acreditación o registro de un partido político; y
 
-XXXIII.- Las demás que le confiera este Código.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XXXIII.- Conocer de las faltas y, en su caso imponer las sanciones que correspondan en los términos previstos en el presente Código; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XXXIV.- Las demás que le confiera este Código.
 
 ### CAPITULO II. DE LA ELECCION Y REQUISITOS DE LOS CONSEJEROS CIUDADANOS
 
@@ -1649,9 +1659,11 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
 ###### ARTICULO 128.
 
-El proceso electoral es el conjunto de actos que tienen por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos del Estado, realizados por las autoridades electorales con la participación de los partidos políticos y ciudadanos, regulados por la Constitución Política Local y este Código.
+El proceso electoral es el conjunto de actos que tienen por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos del Estado, mediante el sufragio universal, libre, secreto y directo; realizados por las autoridades electorales con la participación de los partidos políticos y de los ciudadanos, regulados por la Constitución Política Local y este Código.
 
 ###### ARTICULO 129.
 
@@ -2647,7 +2659,7 @@ El Colegio Electoral, para ejercer sus funciones, deberá contar con el número 
 
 ###### ARTICULO 217.
 
-El Tribunal Estatal Electoral es el órgano autónomo y máxima autoridad jurisdiccional en Materia Electoral, que en los términos de este Código tiene a su cargo:
+El Tribunal Estatal Electoral es el órgano autónomo en su funcionamiento e independiente en sus decisiones, y máxima autoridad jurisdiccional en materia electoral, que en los términos de este Código tiene a su cargo:
 
 I.- Sustanciar y resolver en forma definitiva e inatacable, de conformidad con lo que establece el Libro Octavo de este ordenamiento, los recursos de apelación, inconformidad y reconsideración que se hagan valer durante el desarrollo de los procesos electorales ordinarios o extraordinarios;
 
@@ -2661,7 +2673,13 @@ V.- Elaborar, aprobar y ejercer su presupuesto;
 
 VI.- Nombrar al Secretario General del Tribunal; y
 
-VII.- Las demás que sean necesarias para su correcto funcionamiento.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VII.- Resolver en forma definitiva e inatacable sobre la determinación e imposición de las sanciones previstas en el Libro Octavo, Título Tercero, Capítulo Unico de este Código; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VIII.- Las demás que sean necesarias para su correcto funcionamiento.
 
 El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garantizará que los actos o resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
@@ -2670,6 +2688,8 @@ El Tribunal Estatal Electoral esta conformado, para su funcionamiento, en dos In
 El Tribunal Estatal Electoral tendrá su sede en Ciudad Victoria, funcionará permanentemente en el proceso electoral, y durante los recesos, sólo con la Presidencia.
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ### CAPITULO UNICO
 
@@ -2761,7 +2781,7 @@ VI.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal
 
 ###### ARTICULO 224.
 
-Durante el tiempo que ejerzan sus funciones, los Magistrados no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, de los Estados, Municipios o de particulares, salvo los relacionados con asociaciones científicas, docentes, o de beneficencia, siempre que sean compatibles con el ejercicio de la Magistratura.
+Durante el tiempo que ejerzan sus funciones, los Magistrados no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, de los Estados, Municipios o de particulares, salvo los relacionados con asociaciones científicas, docentes, o de beneficencia siempre que sean compatibles con el ejercicio de la Magistratura.
 
 Los Magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
 
@@ -3001,7 +3021,13 @@ Cuando se trate de la inelegibilidad de candidatos a Diputados por el principio 
 
 ###### ARTICULO 242.
 
-Los recursos son los medios de impugnación, con los que cuentan los partidos políticos, tendientes a que se revoquen o modifiquen los acuerdos y resoluciones dictadas por los órganos administrativos y jurisdiccionales electorales en los términos de este Código.
+El sistema de medios de impugnación regulado por este Código tiene por objeto garantizar:
+
+I.- Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y legalidad; y
+
+II.- La definitividad de los distintos actos y etapas de los procesos electorales.
+
+Los recursos son los medios de impugnación, con los que cuentan los partidos políticos, tendientes a que se revoquen o modifiquen los actos y resoluciones dictadas por los órganos administrativos y jurisdiccionales electorales en los términos de este Código.
 
 ###### ARTICULO 243.
 
@@ -3048,6 +3074,8 @@ El escrito de protesta deberá presentarse ante la mesa directiva de casilla al 
 De la presentación del escrito de protesta deberán acusar recibo o razonar de recibido una copia del respectivo escrito, los funcionarios de la casilla o del Consejo ante quien se presentó.
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 245.
 
@@ -3521,11 +3549,143 @@ El Tribunal Estatal Electoral sólo puede declarar la nulidad de la votación en
 
 Los criterios fijados por el Tribunal Estatal Electoral en Segunda Instancia, sentarán jurisprudencia cuando se sustente el mismo sentido en 5 resoluciones.
 
-TRANSITORIOS:
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 1997)</small>
 
-ARTICULO RIMERO El presente Códigoentrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+## TITULO TERCERO. DE LAS FALTAS Y SANCIONES ADMINISTRATIVAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ## TITULO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
+
+### CAPITULO UNICO. DE LAS FALTAS Y SANCIONES ADMINISTRATIVAS
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 282.
+
+El Instituto Estatal Electoral conocerá de las infracciones que cometan los ciudadanos a lo previsto en los Artículos 7, 8, 9, 10 y 11 de este Código. La sanción consistirá en la cancelación inmediata de acreditación como observadores electorales, visitantes de otros Estados o del extranjero, y la inhabilitación para acreditarse como tales en al menos dos procesos electorales locales y será aplicada por el Consejo Estatal Electoral conforme al procedimiento señalado en el Artículo 288 de este Código, en lo conducente.
+
+Igualmente, conocerá de las infracciones que cometan las autoridades estatales y municipales a que se refiere el Artículo 127 de este Código, en los casos en que no proporcionen en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal Electoral. Para ello se estará a lo siguiente:
+
+I.- Conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que este proceda en los términos de Ley; y
+
+II.- El superior jerárquico a que se refiere el inciso anterior, deberá comunicar al Instituto las medidas que haya adoptado en el caso.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 283.
+
+El Instituto conocerá de las infracciones y violaciones que a las disposiciones de este Código cometan los funcionarios electorales, procediendo a su sanción, la que podrá ser amonestación, suspensión, destitución del cargo o multa hasta de 100 días de salario mínimo vigente para la Capital del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 284.
+
+El Instituto Estatal Electoral conocerá de las infracciones en que incurran los notarios públicos por el incumplimiento de las obligaciones que el presente Código les impone.
+
+Conocida la infracción, se integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable.
+
+La autoridad competente, deberá comunicar al Instituto las medidas que haya adoptado en el caso.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 285.
+
+El Instituto Estatal Electoral al conocer de infracciones en que incurran los extranjeros que por cualquier forma pretendan inmiscuirse o se inmiscuyan en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato al titular del Poder Ejecutivo, para los efectos previstos en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 286.
+
+El instituto Estatal Electoral informará al titular del Poder Ejecutivo de los casos en que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta:
+
+I.- Induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la Ley; o
+
+II.- Realicen aportaciones económicas a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 287.
+
+Los partidos políticos, independientemente de las responsabilidades en que incurran sus dirigentes, miembros o simpatizantes, podrán ser sancionados:
+
+I.- Con multa de 50 a 5,000 días de salario mínimo vigente para la Capital del Estado;
+
+II.- Con la reducción de hasta el 50 por ciento de las ministraciones de financiamiento público que les corresponda, por el período que señale la resolución;
+
+III.- Con la supresión total de la entrega de las ministraciones del financiamiento público que les corresponda, por el período que señale la resolución;
+
+IV.- Con la suspensión de su registro como partido político estatal; y
+
+V.- Con la cancelación de su acreditación como partido político ante el Instituto Estatal Electoral.
+
+Las sanciones a que se refiere el párrafo anterior, podrán ser impuestas cuando:
+
+a).- Incumplan con las obligaciones señaladas en el Artículo 60 y demás disposiciones aplicables de este Código;
+
+b).- Incumplan con las resoluciones o acuerdos del Instituto Estatal Electoral;
+
+c).- Acepten donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello, o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por el Artículo 68 fracción III de este Código.
+
+d).- Acepten donativos o aportaciones económicas superiores a los límites señalados en el Artículo 68 fracción II de este Código.
+
+e).- No presenten los informes financieros en los términos y plazos previstos en el Artículo 68 fracción III de este Código;
+
+f).- Sobrepasen durante la campaña electoral los topes a los gastos fijados conforme al Artículo 69 de este Código; y
+
+g).- Incurran en cualquier otra falta de las previstas en este Código.
+
+Las sanciones previstas en las fracciones III) a la V) de este Artículo, sólo podrán imponerse cuando el incumplimiento o infracción sean particularmente graves o sistemáticos.
+
+Cuando la pérdida del registro obedezca a alguna de las causales previstas en el Artículo 56 de este Código, se estará a lo dispuesto en el último párrafo del mismo, y en los Artículos 57 y 58 de este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 288.
+
+Para los efectos del Artículo anterior, el Instituto Estatal Electoral conocerá de las irregularidades en que haya incurrido un partido político.
+
+Una vez que tenga conocimiento de la irregularidad, el Instituto emplazará al partido político, para que en plazo de 5 días conteste por escrito lo que a su derecho convenga y aporte las pruebas que considere pertinentes y, en su caso, la pericial contable. Si se considerase necesaria la pericial, ésta será con cargo al partido político.
+
+Para la integración del expediente, se podrá solicitar la información y documentación con que cuenten las instancias competentes del propio Instituto.
+
+Concluído el plazo a que se refiere el segundo párrafo de este Artículo, se formulará el dictamen correspondiente, el cual se someterá al Consejo Estatal Electoral para su determinación.
+
+El Consejo Estatal Electoral, para fijar la sanción correspondiente, tomará en cuenta las circunstancias y la gravedad de la falta. En caso de reincidencia se aplicará una sanción más severa.
+
+Las resoluciones del Consejo Estatal Electoral, podrán ser recurridas ante el Tribunal Estatal Electoral, en los términos previstos en este Código.
+
+Las resoluciones del Consejo Estatal Electoral por las que se impongan multas, que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal Estatal Electoral, deberán ser pagadas en la Junta Estatal Electoral, en un plazo improrrogable de 15 días contados a partir de la notificación. Transcurrido el plazo sin que el pago se hubiere efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 289.
+
+Para los efectos previstos en este Capítulo, sólo serán admitidas las siguientes pruebas:
+
+I.- Documentales públicas y privadas;
+
+II.- Técnicas;
+
+III.- Pericial contable;
+
+IV.- Presuncionales; y
+
+V.- Instrumental de actuaciones
+
+Las pruebas deberán ser exhibidas junto con el escrito en el que se comparezca al procedimiento.
+
+Las pruebas aportadas fuera de los plazos previstos no tendrán valor probatorio alguno.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 290.
+
+A quién viole las disposiciones de éste Código sobre restricciones para las aportaciones de financiamiento que no provengan del erario público, se le podrá sancionar con multa de hasta el doble del monto aportado indebidamente. Si se reincide en la falta, el monto de la multa podrá ser aumentado hasta en dos tantos más. En la determinación de la multa, se seguirá en lo conducente el procedimiento señalado en los Artículos anteriores.
+
+TRANSITORIOS:
+
+ARTICULO RIMERO El presente Código entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -3596,3 +3756,11 @@ MANUEL CAVAZOS LERMA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 JAIME RODRIGUEZ INURRIGARRO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
