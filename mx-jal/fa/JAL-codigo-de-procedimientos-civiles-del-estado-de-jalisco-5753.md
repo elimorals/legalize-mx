@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1977-12-22"
+last_updated: "1979-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1979.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -384,17 +384,13 @@ IV.- La suspensión que no exceda de un mes.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir que se le oiga en justicia, lo que se hará en una audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 1957)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 60.
 
-Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año menos los domingos y días 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, 16 de septiembre, 12 de octubre, 20 de noviembre, y 6 y 25 de diciembre. Los demás días hasta hoy declarados festivos o luctuosos, lo serán para la conmemoración respectiva, pero no impedirán las actuaciones judiciales.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año menos los domingos y días 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, 16 de septiembre, 12 de octubre, 20 de noviembre y 25 de diciembre. Los demás días hasta hoy declarados, lo serán para la conmemoración respectiva, pero no impedirán las actuaciones judiciales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
-
-Se entienden horas hábiles las que median desde las siete a las dieciocho horas. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes no hay días ni horas inhábiles. En los demás casos el Juez o Tribunal podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+Se entienden horas hábiles las que median desde las siete a las dieciocho horas. En los Juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las Leyes no hay días ni horas inhábiles. En los demás casos el Juez o tribunal podrá habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 Comenzada una diligencia podrá concluirse aún cuando se hayan acabado las horas señaladas como hábiles.
 
@@ -6817,3 +6813,7 @@ P.O. 22 DE DICIEMBRE DE 1977.
 PRIMERO.- Este Decreto entrará en vigor el día primero de enero de 1978.
 
 SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan a las comprendidas en el presente Decreto.
+
+P.O. 10 DE ABRIL DE 1979.
+
+UNICO.- Esta Ley entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Jalisco".
