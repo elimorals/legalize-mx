@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2001-06-04"
+last_updated: "2002-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -542,6 +542,12 @@ Las sociedades controladoras deberán informar a la Comisión Nacional que las s
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
+###### ARTICULO 26 Bis 1.
+
+El órgano de vigilancia de la controladora, estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y, en su caso, un comisario designado por los de la serie "L", así como de sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 26
 
 Bis 1.- El órgano de vigilancia de la controladora, estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y, en su caso, un comisario designado por los de la serie "L", así como de sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
@@ -864,47 +870,17 @@ Las entidades financieras integrantes de un grupo no podrán otorgar financiamie
 
 Las controladoras de grupos financieros, proporcionarán la información que en el ámbito de sus respectivas competencias, les solicite la Secretaría de Hacienda y Crédito Público, el Banco de México y las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas.
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
 ###### ARTICULO 33.
 
-Las entidades financieras, aun cuando no formen parte de un grupo financiero, podrán proporcionar información a empresas que, conforme al presente artículo, tengan por objeto la prestación del servicio de información sobre operaciones activas.
-
-La prestación de servicios consistentes en proporcionar información sobre las operaciones crediticias y otras de naturaleza análoga realizadas por entidades financieras, solamente podrá llevarse a cabo por sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, previa opinión del Banco de México.
-
-La autorización mencionada en el párrafo anterior sólo se otorgará a las sociedades mexicanas que reúnan, a satisfacción de la propia Secretaría, los requisitos que se establezcan en las reglas de carácter general que al efecto expida la misma. En tales reglas podrán establecerse limitaciones a la participación extranjera en el capital de este tipo de sociedades. Estas autorizaciones serán intransmisibles y se revocarán por la Secretaría cuando la sociedad de que se trate infrinja la presente Ley o las reglas que le son aplicables, sin perjuicio de otras sanciones a que haya lugar.
-
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
-
-La escritura constitutiva de las sociedades a que se refiere este artículo y cualquier modificación a la misma, deberá ser sometida a la aprobación previa de la Secretaría de Hacienda y Crédito Público. Una vez aprobada la escritura o sus reformas deberán inscribirse en el Registro Público de Comercio.
-
-Sólo podrán ser usuarios de la información que proporcionen las sociedades a que se refiere este artículo, las entidades financieras y las personas que autorice la Secretaría de Hacienda y Crédito Público en las reglas citadas en el párrafo anterior. Las sociedades señaladas en este artículo podrán negar la prestación de sus servicios a aquellas personas que no les proporcionen información para la realización de su objeto.
-
-Las sociedades autorizadas deberán sujetarse en sus actividades a las disposiciones de carácter general que expida el Banco de México, el cual podrá determinar las remuneraciones correspondientes a la prestación de sus servicios.
-
-Las sociedades de información crediticia que se autoricen de conformidad con este artículo estarán sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria, a la que deberán cubrir las cuotas que por tales conceptos determine la Secretaría de Hacienda y Crédito Público. Las sociedades de información crediticia deberán proporcionar toda clase de información y documentos que el Banco de México o cualquiera de las Comisiones encargadas de la inspección y vigilancia de las entidades financieras les soliciten, a efecto de que tales órganos cumplan con sus funciones en términos de ley.
-
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 15 DE ENERO DE 2002)
 
 ###### ARTICULO 33-A.
 
-Con excepción de la información que proporcionen sobre operaciones activas a sus usuarios en los términos de la presente Ley y de las disposiciones conducentes, a las sociedades de información crediticia, a sus funcionarios y a sus empleados, les serán aplicables las disposiciones de la Ley de Instituciones de Crédito relativas al secreto bancario. Esta obligación subsistirá independientemente de que los mencionados funcionarios o empleados dejen de prestar sus servicios en dichas sociedades.
-
-La obligación del secreto bancario a que se refiere el párrafo anterior, también será aplicable a los usuarios de la información crediticia, así como a sus funcionarios y empleados, respecto de dicha información.
-
-No se considerará que existe violación al secreto bancario cuando una entidad financiera proporcione información sobre operaciones activas a alguna sociedad de información crediticia.
-
-Las personas que realicen alguna gestión financiera ante usuarios de información crediticia podrán solicitar, a través del propio usuario de que se trate, los datos que éste hubiere obtenido de la sociedad. Las aclaraciones respecto de tales datos se realizarán por los interesados ante los acreedores respectivos, quienes, en su caso, llevarán a cabo las gestiones conducentes ante la sociedad de información crediticia de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 15 DE ENERO DE 2002)
 
 ###### ARTICULO 33-B.
 
-Las sociedades de información crediticia, al proporcionar información sobre operaciones activas, deberán guardar secreto respecto de la denominación de las entidades acreedoras, salvo en el supuesto a que se refiere el último párrafo del artículo anterior, en cuyo caso únicamente informarán directamente a las personas interesadas el nombre de las entidades acreedoras que correspondan.
-
-Dichas sociedades responderán por los daños y perjuicios que causen al proporcionar información cuando exista culpa grave, dolo o mala fe en el manejo de la base de datos.
-
-Por su parte, las personas que proporcionen información a las sociedades de información crediticia igualmente responderán por los daños y perjuicios que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
+(DEROGADO, D.O.F. 15 DE ENERO DE 2002)
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
 
@@ -1101,3 +1077,17 @@ CUARTO.- Los nombramientos de consejeros, director general y funcionarios con la
 QUINTO.- Lo señalado por el artículo 134 Bis 1 de la Ley de Instituciones de Crédito, en cuanto a la suspensión del pago de intereses y principal, no será aplicable a títulos que hayan sido emitidos con anterioridad a la fecha de entrada en vigor del presente Decreto.
 
 SEXTO.- A partir de la entrada en vigor del presente Decreto y de conformidad con lo establecido en la Manifestación Tercera del "Decreto de Promulgación de la Convención de la Organización de Cooperación y Desarrollo Económicos", publicado en el Diario Oficial de la Federación el 5 de julio de 1994, México extenderá los beneficios de las medidas de liberalización que el Tratado de Libre Comercio de América del Norte prevé en relación con el establecimiento de y la inversión directa en instituciones financieras domiciliadas en el territorio de algún miembro de la Organización de Cooperación y Desarrollo Económicos.
+
+D.O.F. 15 DE ENERO DE 2002.
+
+ARTICULOS TRANSITORIOS DE LA LEY PARA REGULAR LAS SOCIEDADES DE INFORMACION CREDITICIA.
+
+PRIMERO.- Este decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en los Artículos Transitorios Segundo y Tercero siguientes.
+
+SEGUNDO.- Las Sociedades y las Entidades Financieras tendrán un plazo de seis meses para ajustar sus sistemas y estructuras a lo previsto en el presente decreto.
+
+TERCERO.- El plazo de treinta días naturales a que se refiere el artículo 44 de la presente ley, entrará en vigor a más tardar el 31 de diciembre de 2004. En ningún caso podrá exceder de 60 días a partir de entrada en vigor la presente ley. El Banco de México, mediante disposiciones de carácter general, emitirá un programa en el que se dé a conocer el mecanismo gradual para reducir el plazo de respuesta de los Usuarios, a fin de que éstos efectúen las adecuaciones a sus sistemas y se cumpla con lo señalado en el citado precepto legal.
+
+CUARTO.- Los Usuarios que a la fecha de entrada en vigor de este decreto mantengan relaciones jurídicas con sus Clientes, podrán continuar realizando consultas periódicas a las Sociedades sobre el comportamiento crediticio de tales Clientes, hasta que dichas relaciones jurídicas terminen por cualquier causa.
+
+QUINTO.- Se derogan los artículos 33, 33-A y 33-B de la Ley para Regular las Agrupaciones Financieras, las Reglas generales a las que deberán sujetarse las sociedades de información crediticia a que se refiere el artículo 33 de la Ley para Regular las Agrupaciones Financieras, así como las demás disposiciones que se opongan a lo dispuesto por esta ley.
