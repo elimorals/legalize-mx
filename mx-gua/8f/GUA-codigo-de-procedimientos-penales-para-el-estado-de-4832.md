@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1994-08-30"
+last_updated: "1997-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1997.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -2115,7 +2115,7 @@ Juicio.
 
 Procedimiento ante los Jueces Menores.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 293.
 
@@ -2135,7 +2135,7 @@ Procedimiento relativo al Jurado Popular.
 
 ###### Art. 295.
 
-Cuando se trate de delitos de la competencia de los Jueces Menores, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerá el Juez de Primera Instancia que corresponda.
+Cuando se trate de delitos de la competencia de los Jueces Menores, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias se seguirá dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerán las Salas del Supremo Tribunal de Justicia.
 
 ### CAPITULO IV.
 
@@ -3926,3 +3926,13 @@ El presente decreto entrará en vigor el día 3 de septiembre de 1994.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del artículo 23 del Código de Procedimientos Civiles que se reforma, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
