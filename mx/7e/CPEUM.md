@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1993-10-25"
+last_updated: "1994-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 1994.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -782,19 +782,17 @@ La ley establecerá las reglas a que se sujetarán el financiamiento de los part
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
 
-La organización de las elecciones federales es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo de la Unión, con la participación de los partidos políticos nacionales y de los ciudadanos según lo disponga de (sic) ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurren los Poderes Ejecutivo y Legislativo de la Unión, con la participación de los partidos políticos nacionales y de los ciudadanos según lo disponga la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia que se integrarán mayoritariamente por representantes de los partidos políticos nacionales. El órgano superior de dirección se integrará por consejeros y consejeros magistrados designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio electoral profesional, los ciudadanos formarán las mesas directivas de casillas.
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección se integrará por Consejeros y Consejeros Ciudadanos designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casillas estarán integradas por ciudadanos.
 
 > <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
 
 El organismo público agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, computos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO, PUBLICADO EN EL D.O.F. EL 3 DE SEPTIEMBRE DE 1993, EL ANTERIOR PARRAFO DECIMO PRIMERO HA SIDO DEROGADO.</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -820,13 +818,13 @@ El Tribunal Federal Electoral funcionará en Pleno o Salas y sus sesiones de res
 
 Para cada proceso electoral se integrará una Sala de segunda instancia con cuatro miembros de la judicatura federal y el Presidente del Tribunal Federal Electoral, quien la presidirá. Esta Sala será competente para resolver las impugnaciones a que se refiere el párrafo tercero del artículo 60 de esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
 
-El Tribunal Federal Electoral se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
+El Tribunal Federal Electoral se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores de los que señala esta Constitución para ser Ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta del Presidente de la República.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
 
-Los consejeros magistrados y los magistrados del tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para ser ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo Federal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros magistrados y magistrados del tribunal. La ley señalará las reglas y el procedimiento correspondientes.
+Los consejeros ciudadanos del órgano superior de dirección deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -4123,3 +4121,7 @@ NOVENO.- En tanto se reforman y expidan las disposiciones que coordinen el siste
 DECIMO.- En tanto se expidan las nuevas normas aplicables al Distrito Federal continuarán rigiendo las disposiciones legales y reglamentarias vigentes.
 
 DECIMO PRIMERO.- El Congreso de la Unión conservará la facultad de legislar, en el ámbito local, en las materias de orden común, civil y penal para el Distrito Federal, en tanto se expidan los ordenamientos de carácter federal correspondientes, a cuya entrada en vigor, corresponderá a la Asamblea de Representantes legislar sobre el particular, en los términos del presente Decreto.
+
+D.O.F. 19 DE ABRIL DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
