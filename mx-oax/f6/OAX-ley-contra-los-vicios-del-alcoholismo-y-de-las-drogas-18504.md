@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1941-08-16"
+last_updated: "1941-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-> <small>[N. DE E. EL TEXTO DE LA PRESENTE LEY ES LA MODIFICACIÓN DE LA PRIMERA PARTE, CORRESPONDIENTE DEL ARTÍCULO 1 AL 42, PUBLICADA EN EL P.O. DE 16 DE AGOSTO DE 1941.]</small>
+> <small>[N. DE E. EL TEXTO DE LA PRESENTE LEY ES LA MODIFICACIÓN DE LA SEGUNDA PARTE, CORRESPONDIENTE DEL ARTÍCULO 43 AL 58, PUBLICADA EN EL P.O. DE 23 DE AGOSTO DE 1941.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 1941.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 6 de julio de 1922.
 
@@ -435,45 +435,63 @@ Queda estrictamente prohibida la venta de bebidas alcohólicas a menores de diec
 
 El estudiante que sea sorprendido en el interior de una taberna será castigado por el Director del plantel a que concurra, con amonestación privada; y con amonestación pública y expulsión en caso de reincidencia por segunda y tercera veces.
 
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+
 ###### Artículo 43.
 
 En ningún caso, el encargado o propietario de una taberna venderá bebidas alcohólicas a personas que se encuentren en estado de ebriedad, ni permitirá que permanezcan en el establecimiento. La infracción de este artículo se castigará con multa de veinticinco a cien pesos.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 44.
 
 Todo individuo que se encuentre en cualquier lugar público en estado de ebriedad, será conducido a las oficinas de policía y castigado con multa de uno a cien pesos o reclusión de tres a quince días. Si fuere empleado público, se comunicará, además, el hecho al jefe de la oficina respectiva. Las multas que se apliquen con fundamento en esta disposición, ingresarán en su totalidad a las Tesorerías Municipales.
 
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+
 ###### Artículo 45.
 
 Si el detenido por ebrio ejerciere autoridad, será castigado con arresto de dos a seis meses y multa de diez a trescientos pesos.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1923)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1941)</small>
 
 ###### Artículo 46.
 
-El presidente municipal que autorice u ordene que una taberna permanezca abierta fuera de las horas que permite la ley, o en los días en que la misma lo prohibe, será castigado con suspensión del cargo de dos a seis meses, o con arresto mayor y destitución, si la propia autoridad ha estado en la taberna durante la infracción.
+El Presidente Municipal que autorice u ordene que una taberna permanezca abierta fuera de las horas que permite la ley, o en los días en que la misma lo prohibe, será castigado con suspensión del cargo de dos a seis meses, o con arresto mayor y destitución, si la propia autoridad ha estado en la taberna durante la infracción.
 
-Los presidentes municipales y recaudadores de rentas que encubran la venta clandestina de bebidas alcohólicas y drogas heroicas, serán castigados, los primeros, con las mismas penas que señala el párrafo anterior, y los segundos con arresto mayor y destitución.
+Los presidentes municipales y recaudadores de rentas que encubran la venta clandestina de bebidas alcohólicas y drogas heróicas, serán castigados, los primeros, con las mismas penas que señala el párrafo anterior y los segundos con arresto mayor y destitución.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 47.
 
-Cualquier funcionario del Estado o Municipal y cualquier individuo de la policía que validos de la autoridad que les da el cargo, ordenen que una taberna permanezca abierta en las horas y días prohibidos por la ley, serán castigados con suspensión del cargo por un mes, o con arresto, de uno a tres meses, y destitución, si el infractor ha estado en la taberna durante la infracción.
+Cualquier funcionario del Estado o Municipal y cualquier individuo de la policía que validos de la autoridad que les da el cargo, ordenen que una taberna permanezca abierta en las horas y días prohibidos por la ley, serán castigados con suspensión del cargo por un mes, o con arresto de uno a tres meses y destitución, si el infractor ha estado en la taberna durante la infracción.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 48.
 
-En los casos de los tres artículos anteriores, se hará la consignación al Ministerio Público.
+En los casos de los tres artículos anteriores, se hará la consignación al Ministerio Público,
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 49.
 
 El Presidente Municipal que sin haberse cerciorado de que el local destinado a taberna llena los requisitos exigidos, pusiere la constancia de que habla el artículo 17, sufrirá una multa de diez a cien pesos, la cual se duplicará en caso de reincidencia, cada vez. El Ejecutivo del Estado aplicará esta multa.
 
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+
 ###### Artículo 50.
 
 La persona que cultive marihuana será castigada con multa de cien pesos por cada cien plantas o número menor, y en todo caso se destruirá el plantío.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1941)</small>
+
 ###### Artículo 51.
 
-La persona que sea encontrada vendiendo marihuana, no siendo en la forma prevenida en al artículo 28, será castigada con arreglo al artículo 837 del Código Penal.
+La persona que sea encontrada vendiendo marihuana, no siendo en la forma prevenida en el artículo 28, será castigada con arreglo al artículo 837 del Código Penal.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 52.
 
@@ -481,9 +499,13 @@ El farmacéutico o dependiente de droguería, farmacia o botica, que venda cualq
 
 En el caso de este artículo y en el del anterior, se hará la consignación al Ministerio Público.
 
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+
 ###### Artículo 53.
 
 La infracción del artículo 29 será castigada con multa de cien a quinientos pesos, decretándose la clausura del establecimiento en caso de reincidencia. Las mismas penas se aplicarán al infractor del artículo 30.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 54.
 
@@ -491,18 +513,48 @@ De las infracciones a que se refieren la fracción I del artículo 32 y los art�
 
 Si las infracciones a los artículos 35, 36 y 37 fueren descubiertas por una autoridad o agente municipal, la Tesorería Municipal respectiva, percibirá el treinta por ciento de la multa.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1941)</small>
+
 ###### Artículo 55.
 
-De las infracciones no comprendidas en el artículo anterior ni expresamente sometidas a otra autoridad, conocerá el Presidente Municipal respectivo, quien en cada caso librará oficio a la Recaudación de Rentas que corresponda, para el entero de la multa; del importante (sic) de ésta, percibirán las Tesorerías Municipales el treinta por ciento.
+De las infracciones no comprendidas en el artículo anterior ni expresamente sometidas a otra autoridad, conocerá el Presidente Municipal respectivo, quien en cada caso librará oficio a la Recaudación de Rentas que corresponda, para el entero de la multa; del importe de ésta, percibirán las Tesorerías Municipales el treinta por ciento.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 56.
 
-El artículo que precede no es obstáculo para que el Ejecutivo, por medio de los empleados fiscales, ejercite las acciones que competen al erario del Estado.
+El artículo que precede no es obstáculo para que el Ejecutivo por medio de los empleados fiscales, ejercite las acciones que competen al erario del Estado.
+
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
 
 ###### Artículo 57.
 
 Las infracciones a la presente ley que no estén previstas en este capítulo, se castigarán por los Presidentes Municipales con multa de diez a quinientos pesos.
 
+(REPUBLICADO, P.O. 23 DE AGOSTO DE 1941)
+
 ###### Artículo 58.
 
-El Ejecutivo del Estado resolverá los casos de deuda que se presenten en la aplicación de esta ley.
+El Ejecutivo del Estado resolverá los casos de duda que se presenten en la aplicación de esta ley.
+
+P.O. 23 DE AGOSTO DE 1941.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS”.]
+
+###### Artículo 1o.
+
+Esta ley entrará en vigor el mimo día de su promulgación quedando derogadas todas las disposiciones que se opongan a su ejecución.
+
+###### Artículo 2o.
+
+Dentro de diez días siguientes a la promulgación de esta ley, los propietarios de expendios al mayoreo de bebidas alcohólicas, deberán solicitar la licencia respectiva y hacer la manifestación a que se refiere el artículo 20.
+
+Los Presidentes Municipales expedirán las licencias en el número que fija el artículo 18, prefiriendo de entre los solicitantes a quienes tengan sus expendios cerca de las tabernas.
+
+###### Artículo 3o.
+
+Los Presidentes Municipales en cuya jurisdicción se cultive Marihuana, procederán desde luego a destruir las plantas cualquiera que sea su número, y de manera que no puedan ser utilizadas.
+
+###### Artículo 4o.
+
+Los propietarios de tabernas ya establecidas conforme a las disposiciones anteriores a ésta ley, presentarán la manifestación de que trata el artículo 25 dentro de los diez días siguientes a la promulgación de la propia ley y sin necesidad de nueva licencia municipal; pero cumplirán con lo dispuesto en el artículo 27, poniendo en lugar visible la licencia que obre en su poder.
