@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1965-08-04"
+last_updated: "1967-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1967.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -412,7 +412,47 @@ XVII.- Crear la deuda agraria del Estado, con arreglo a la Constitución Federal
 
 XVIII.- Organizar la pequeña propiedad rural, fijando la extensión máxima de tierras de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
 
-XIX.- Expedir leyes sobre trabajo, de acuerdo con la Constitución Federal.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+XIX. Expedir Leyes relativas a la relación de trabajo entre los Poderes y los Ayuntamientos del Estado y sus Trabajadores y a seguridad social de dichos Trabajadores, sin contravenir las siguientes bases:
+
+A.- La jornada diaria máxima de trabajo, diurna y nocturna, será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas.
+
+B.- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso cuando menos, con goce de salario íntegro.
+
+C.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año.
+
+D.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos.
+
+En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Estado.
+
+E.- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
+
+F.- Sólo podrán hacerse retenciones, descuentos o embargos al salario, en los casos previstos en las leyes.
+
+G.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado establecerá academias en las que se impartan los cursos necesarios para que los Trabajadores que lo deseen puedan adquirir los conocimientos necesarios para obtener ascensos conforme al Escalafón.
+
+H.- Los trabajadores gozarán de derechos de escalafón a fin de que los derechos se otorguen en función de los conocimientos, aptitudes y antigüedad.
+
+I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la Ley. En caso de separación injustificada tendrán derecho a optar por la reinstalación en su trabajo o por la indemnización corrrespondiente (sic), previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o la indemnización de Ley.
+
+J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
+
+K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
+
+a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b).- En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la Ley.
+
+c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+
+d).- Los familiares de los Trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la Ley.
+
+e).- Se proporcionarán de acuerdo con las posibilidades propias del Estado y sus Municipios, habitaciones baratas en arrendamiento o venta, a los trabajadores, conforme a los programas previamente aprobados.
+
+L.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal de Arbitraje.
+
+M.- La Ley determinará los cargos que serán considerados de confianza. Las personas que lo desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
 XX.- Dictar las leyes que estimen pertinentes para combatir el alcoholismo y el uso de hierbas y substancias enervantes.
 
@@ -426,7 +466,9 @@ XXIII.- Expedir la Ley relativa a la expropiación de la Propiedad Privada por c
 
 XXIV.- Excitar a los Poderes de la Nación para que presten protección al Estado, en el caso previsto por el artículo 122 de la Constitución Federal.
 
-XXV.- Nombrar y remover libremente a los empleados de su Secretaría y de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+XXV.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XIX.
 
 XXVI.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el artículo 133 de esta Constitución.
 
@@ -490,7 +532,7 @@ De la misma manera resolverá el Congreso o la Diputación Permanente sobre la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 42.
 
@@ -588,7 +630,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -716,7 +758,7 @@ DISPOSICIONES PRELIMINARES.
 
 ###### Artículo 70.
 
-Las facultades y obligaciones del Gobernador son las siguientes:
+Son facultades del Gobernador del Estado:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -730,7 +772,9 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-IV.- Nombrar y remover libremente a los funcionarios y empleados del Estado, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+IV.- Nombrar y remover libremente al Secretario de Gobierno y al Secretario de Finanzas y Promoción Económica y nombrar y remover a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XIX del artículo 40.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -854,7 +898,7 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 74.
 
@@ -996,17 +1040,21 @@ Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instanc
 
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado se formará por tres Magistrados Propietarios y tres Suplentes, que durarán seis años coincidiendo, el ejercicio de su cargo, con el de Gobernador y serán nombrados por el Gobernador del Estado, con aprobación del Congreso Local, el que otorgará o negará su aprobación dentro del improrrogable término de tres días, si no resolviera dentro de dicho término, se tendrán por aprobados dichos nombramientos. Sin la aprobación expresa o tácita del Congreso no podrán tomar posesión. En el caso de que la Cámara no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la consideración del Congreso en el siguiente período ordinario de Sesiones. En este período de sesiones dentro de los primeros cinco días, la Cámara deberá aprobar o reprobar el nombramiento, si no lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados.
+El Tribunal Superior de Justicia del Estado se compondrá, cuando menos de cinco magistrados propietarios e igual número de suplentes, que durarán seis años en el ejercicio de su cargo, coincidiendo con el del Poder Ejecutivo. Sus nombramientos serán hechos por el Gobernador y sometidos a la aprobación del Congreso Local, el que otorgará o negará su aquiescencia dentro del improrrogable término de tres días, pero, si no resolviera en dicho plazo, se tendrán por aprobados. Sin la aprobación expresa o tácita del Congreso, los Magistrados no podrán tomar posesión de sus cargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
+En el caso de que la Cámara no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la consideración del Congreso en el siguiente período ordinario de sesiones.
+
+En este período de sesiones, dentro los primeros cinco días, la Cámara deberá aprobar o reprobar el nombramiento, y si los aprueba o nada resuelve, el magistrado provisional continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en su ejercicio el magistrado nombrado provisionalmente, y el Gobernador someterá nuevo nombramiento a la Cámara, en los términos señalados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 90.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+Para ser Magistrado Propietario o Suplente del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
-I.- Ser ciudadano morelense por nacimiento y estar en pleno ejercicio de sus derechos.
+I.- Ser ciudadano morelense por nacimiento, estar en pleno ejercicio de sus derechos y tener residencia habitual en el Estado.
 
 II.- Ser Abogado con título expedido por Autoridad o corporación legalmente facultada para ello.
 
@@ -1024,15 +1072,17 @@ Los Magistrados Propietarios integrarán el Tribunal Superior; y los suplentes e
 
 Los Magistrados suplentes sólo disfrutarán de emolumentos durante el tiempo en que ejerzan sus funciones, y percibirán los que les correspondan con arreglo a las leyes, cuando sólo intervengan en el conocimiento de determinados negocios, en los casos de excusa y recusación de los propietarios.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
 ###### Artículo 93.
 
-El Tribunal Superior de Justicia funcionará en pleno.
+El Tribunal Superior de Justicia funcionará en pleno o en salas. Las audiencias serán públicas, salvo cuando se traten casos en que la moral o el interés social exijan que sean secretas.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior designará a uno de sus miembros como Presidente, en los términos de la Ley Orgánica respectiva no pudiendo éste ser electo Presidente para el período inmediato.
+El Tribunal Superior designará a uno de sus miembros como Presidente, en los términos de la Ley Orgánica respectiva.
 
 ###### Artículo 95.
 
@@ -1042,9 +1092,11 @@ El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable po
 
 Las licencias de los Magistrados que no excedan de treinta días, serán concedidas por el Tribunal Superior, el que llamará al suplente que corresponda, para cubrir la vacante. Las que excedan de este término, serán concedidas por el Congreso y en sus recesos por la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
 ###### Artículo 97.
 
-Las faltas absolutas de los Magistrados serán cubiertas por el Suplente respectivo, en el orden de su elección, hasta la terminación del período constitucional; procediendo el Congreso a la elección de nuevo Magistrado suplente, si la falta ocurriere durante los tres primeros años de su ejercicio.
+Las faltas absolutas de los Magistrados propietarios ó suplentes, se cubrirán mediante nombramientos en los términos del Artículo 89 anterior, y los designados durarán en ejercicio de su cargo hasta que finalice el período constitucional para el cual fueron elegidos los ausentes. Mientras se cumplan los trámites legales, ocuparán los puestos vacantes de los Magistrados propietarios, los suplentes, en el orden de su antigüedad.
 
 ###### Artículo 98.
 
@@ -1072,7 +1124,9 @@ VIII.- Consultar al Congreso las dudas de Ley que ocurran al mismo Tribunal Supe
 
 IX.- Nombrar a los Jueces de Primera Instancia a propuesta en terna del Ejecutivo.
 
-X.- Nombrar y remover libremente a los Secretarios y empleados del Tribunal de acuerdo con la Ley Orgánica respectiva.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+X.- Nombrar y remover a los trabajadores al servicio del Poder Judicial de acuerdo con las leyes a que se refiere la fracción XIX del artículo 40.
 
 XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan de treinta días, llamando al suplente respectivo.
 
@@ -1080,9 +1134,9 @@ XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y 
 
 XIII.- Suspender hasta por tres meses a los Jueces de Primera Instancia y a los de inferior categoría, por causas graves justificadas a juicio del Tribunal y que no constituyan motivo de responsabilidad penal.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
-XIV.- Nombrar a los Jueces Menores y de Paz, a propuesta de terna de los Ayuntamientos.
+XIV.- Nombrar a los Jueces Municipales de Paz de las ternas propuestas por los Ayuntamientos.
 
 XV.- Ejercer las demás atribuciones que les señalen las Leyes.
 
@@ -1184,29 +1238,49 @@ Los Poderes del Estado son los únicos superiores jerárquicos de los Municipios
 
 Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 115.
 
-El Congreso del Estado expedirá las Leyes Orgánicas y la de División Territorial Municipal con sujeción a las siguientes bases:
+El Congreso del Estado expedirá las leyes Orgánicas y la de División Territorial Municipales, con sujeción a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 I.- La circunscripción geográfica de cada Municipio deberá establecerse de tal manera que la propia comunicación entre los poblados que lo compongan se integren de tal manera que formen una corporación con potencialidad económica y capacidad financiera suficientes para el mantenimiento del Gobierno propio y de los servicios públicos a su cargo.
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+
 II.- Cada municipio deberá tener una población mayor de 10,000 habitantes que pueda llenar las condiciones a que se refiere la Fracción XI del Artículo 40 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 III.- El Gobierno del Municipio se ejercerá por un Ayuntamiento de elección popular directa que se renovará en su totalidad cada 3 años, siendo el número de sus componentes proporcional al de sus habitantes, siempre impares y nunca menor de tres, nombrándose por cada regidor propietario un suplente. El período de ejercicio de los Ayuntamientos se iniciará el 1o. de junio del año que corresponda.
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+
 IV.- La facultad ejecutiva del régimen jurídico municipal, y de las resoluciones tomadas por el Ayuntamiento en Cabildo, la tendrá el Presidente Municipal que será electo directamente por el pueblo.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 V.- El presidente Municipal y los demás miembros del Ayuntamiento no podrán ser reelectos para el período inmediato.
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+
 VI.- Los Ayuntamientos administrarán libremente su hacienda, en la parte formada por los ingresos de las contribuciones, derechos, participaciones y aprovechamientos, que señale el Congreso de acuerdo con la Ley de Hacienda Municipal. Asimismo, con las participaciones y subsidios que les otorgue la Federación. Podrán también concertar la venta de sus bienes raíces, pero ésta no se llevará a cabo sin la aprobación del Congreso el cual para concederla o negarla, se ocupará solamente de examinar las necesidades de la venta para atender los servicios públicos y la equidad del precio que a la misma se haya señalado conforme avalúo.
 
-VII.- La justicia en el Municipio estará a cargo del Juez o Jueces Menores de Paz que señale la Ley Orgánica del Poder Judicial.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+VII.- La justicia en el Municipio estará a cargo de los Jueces Municipales de Paz que señale la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 VIII.- La Ley de División Territorial Municipal fijará el número de Municipios y sus respectivos límites, así como las poblaciones que tendrán la calidad de cabeceras municipales en las que residirán los Ayuntamientos. La misma Ley señalará los requisitos para la creación de las subdivisiones territoriales de los propios Municipios, que se denominarán Secciones Municipales dentro de la zona urbana y Ayudantías Municipales en los poblados foráneos.
 
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+
 IX.- La Ley Orgánica Municipal determinará la competencia del Ayuntamiento en funciones de Cabildo y las facultades del Presidente Municipal.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 X.- Cuando por cualquier circunstancia desaparecieran los Ayuntamientos, tendrá facultades el Congreso del Estado o en su defecto la Diputación Permanente para aprobar la designación que haga el Ejecutivo de un Concejo Municipal mientras se convoca a elecciones, si la falta ocurriera el último año del período de su ejercicio, terminarán el período.
 
@@ -1535,3 +1609,11 @@ EL Presidente Municipal y los Regidores que se elijan para el período que se in
 ARTICULO DECIMOPRIMERO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ARTICULO DECIMOSEGUNDO.- Remítase este Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 29 DE NOVIEMBRE DE 1967.
+
+Primero.- El término Constitucional de los tres Magistrados del Tribunal Superior de Justicia ya designados, así como el de los dos que se aumentan, conforme a la modificación del Artículo 89 anterior, concluirá el diecisiete de Mayo de 1970. Esta norma es aplicable a los suplentes.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos del Artículo 70 Fracción XVII de la Constitución Política Local.
