@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "1998-12-31"
+last_updated: "1999-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1283,7 +1283,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -1733,7 +1733,7 @@ DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 215.
 
@@ -1783,7 +1783,7 @@ Las faltas del Presidente se cubrirán por el Secretario; en su defecto por el m
 
 ###### ARTICULO 226.
 
-Son facultades de la diputación permanente:
+Son facultades de la Diputación Permanente:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
@@ -1799,13 +1799,15 @@ IV.- Nombrar interinamente al personal de la Contaduría Mayor de Hacienda;
 
 V.- Resolver los asuntos de su competencia y recibir durante el receso del Congreso del Estado las Iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el periodo inmediato de Sesiones;
 
-VI.- Conceder Licencia al Gobernador del Estado, cuando no sea por periodo mayor de un mes y a los Diputados y Magistrados del Tribunal Superior de Justicia, cuando no sea mayor de tres meses;
+> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+
+VI.- Conceder licencia al Gobernador del Estado, cuando no sea por periodo mayor de un mes y a los diputados cuando no sea mayor de tres meses;
 
 VII.- Nombrar Gobernador Provisional en los casos previstos en la Constitución del Estado;
 
 VIII.- Designar, a propuesta del Gobernador a los miembros de los Consejos Municipales;
 
-IX.- Dar o negar su aprobación a los Nombramientos, remociones y renuncias de Magistrados del Tribunal Superior de Justicia que le someta el Gobernador del Estado; y
+IX.- (DEROGADA, B.O. 6 DE ABRIL DE 1999)
 
 X.- Las demás que le confiera expresamente la Constitución del Estado y la presente Ley.
 
@@ -1890,3 +1892,9 @@ B.O. 31 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE ABRIL DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
