@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1995-12-24"
+last_updated: "1996-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -219,19 +219,33 @@ V.- La mencionada tasa del 2.0 al millar para el pago del Impuesto Predial del t
 
 El Impuesto Predial anual que pagará el sujeto pasivo tanto en predios urbanos como en rurales, será en suma el resultado de aplicar la tasa establecida del 2.0 al millar, y del uno al millar, del valor catastral del terreno y de la construcción si la hubiere, en forma respectiva.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 15.
 
-Para los efectos del Impuesto Predial Urbano, la Dirección General de Catastro, ha determinado cinco grupos poblacionales en el Estado a saber:
+Para la determinación del valor catastral, la Dirección General de Catastro, ha determinado cinco grupos poblacionales de predios urbanos y cinco grupos de predios rústicos en el Estado, a saber:
 
-GRUPO POBLACIONAL 1.- Que comprende los municipios de Durango y Gómez Palacio.
+GRUPO POBLACIONAL 1.- Que comprende los Municipios de Durango y Gómez Palacio.
 
-GRUPO POBLACIONAL 2.- Que comprende el municipio de Lerdo.
+GRUPO POBLACIONAL 2.- Que comprende el Municipio de Lerdo.
 
-GRUPO POBLACIONAL 3.- Que comprende los municipios de Canatlán, Guadalupe Victoria, Poanas, Santiago Papasquiaro, Tepehuanes y Vicente Guerrero.
+GRUPO POBLACIONAL 3.- Que comprende los Municipios de Canatlán, Guadalupe Victoria, Nuevo Idea (sic), Poanas, Santiago Papasquiaro, Tepehuanes y Vicente Guerrero.
 
-GRUPO POBLACIONAL 4.- Que comprende los municipios de Cuencamé, El Oro, Mapimí, Nombre de Dios, Pánuco de Coronado, Peñón Blanco, Súchil, Rodeo y Tlahualilo.
+GRUPO POBLACIONAL 4.- Que comprende los Municipios de Cuencamé, El Oro, Mapimí, Nombre de Dios, Pánuco de Coronado, Peñón Blanco, Súchil, Rodeo y Tlahualilo.
 
-GRUPO POBLACIONAL 5.- Que comprende los municipios de Canelas, Coneto de Comonfort, Guanaceví, Hidalgo, Indé, Mezquital, Nazas, Ocampo Otaez, Pueblo Nuevo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Simón Bolívar, Tamazula y Topia.
+GRUPO POBLACIONAL 5.- Que comprende los Municipios de Canelas, Coneto de Comonfort, Guanaceví, Hidalgo, Indé, Mezquital, Nazas, Ocampo, Otáez, Pueblo Nuevo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Simón Bolivar, Tamazula y Topia.
+
+Y para la determinación del valor catastral de predios rústicos:
+
+GRUPO A.- Durango.
+
+GRUPO B.- Canatlán, Lerdo, Gómez Palacio, Tlahualilo y Nuevo Ideal.
+
+GRUPO C.- Guadalupe Victoria, Poanas, Santiago Papasquiaro, Tepehuanes y Vicente Guerrero.
+
+GRUPO D.- El Oro, Nombre de Dios, Pánuco de Coronado, Rodeo y Súchil.
+
+GRUPO E.- Canelas, Coneto de Comonfort, Cuencamé, Guanaceví, Hidalgo, Indé, Mapimí, Mezquital, Nazas, Ocampo, Otáez, Peñón Blanco, Pueblo Nuevo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Simón Bolivar, Tamazula y Topía.
 
 ###### ARTICULO 16.
 
@@ -311,7 +325,7 @@ La resolución, sobre el recurso de inconformidad será definitiva tratándose d
 
 Para los efectos de esta Ley se consideran:
 
-I.- Predios, los definidos y clasificados por la Ley de Catastro.
+1.- Predios, los definidos y clasificados por la Ley de Catastro.
 
 La porción o porciones de terreno incluyendo en su caso, sus construcciones, que pertenezcan a un mismo propietario o a varios en copropiedad, a falta de éstos, a uno o más poseedores por cualquier título y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
 
@@ -3176,3 +3190,7 @@ U N I C O.- El presente Decreto entrará en vigor al día siguiente de su public
 P.O. 24 DE DICIEMBRE DE 1995.
 
 U N I C O.- Este Decreto entrará en vigor a partir del día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 1996.
+
+U N I C O.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
