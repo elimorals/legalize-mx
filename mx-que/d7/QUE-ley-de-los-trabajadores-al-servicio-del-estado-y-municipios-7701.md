@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "1998-02-27"
+last_updated: "2000-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -59,37 +59,17 @@ II.- Trabajadores de Base
 
 III.- Trabajadores Eventuales
 
+(REFORMADO P.O. 15 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 13 DE OCTUBRE DE 2000)
+
 ###### ARTICULO 5.
 
-Son trabajadores de confianza:
+Son trabajadores de confianza en las dependencias estatales y organismos autónomos, entidades paraestatales y Ayuntamientos, así como en los Poderes Legislativo y Judicial, todos aquellos que desarrollen funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan el carácter general y aquellas cuyo desempeño requiera confiabilidad.
 
-a) En el Poder Ejecutivo:
-
-Los titulares de las Dependencias que establezca la Ley Orgánica de la Administración Pública, los Secretarios Particular y Privado del C. Gobernador, el Procurador, Sub-Procuradores y Agentes del Ministerio Público, Representantes del Gobierno en la Capital de la República, Directores y Sub-Directores, los Secretarios Particulares de los Titulares de las Dependencias y Organismos establecidos por la Ley Orgánica de la Administración Pública, los Presidentes de las Juntas Locales de Conciliación y Arbitraje y sus especiales, los Secretarios de éstos Tribunales, el Presidente del Tribunal de Conciliación y Arbitraje del Estado, los Procuradores de la Defensa del Trabajo, los Inspectores del Trabajo, los Conciliadores, y los Actuarios, Coordinadores, Cajero General, Defensores de Oficio, Auditores, Jefe de Personal, Jefe de Informática, Jefe de la Imprenta, Jefe del Taller Mecánico, Jefe de Transportes, Receptores y Administradores de Rentas, Sub-Coordinadores y Jefes de las Unidades Administrativas y Deportivas, Procurador de la Defensa del Menor, Asesores, Custodios, Oficiales de Clase y Agentes de la Policía Judicial, Delegados y Personal Operativo de Seguridad Pública, Ayudantes, Choferes y el Personal destinado al servicio directo del Gobernador del Estado.
-
-b) En el Poder Legislativo:
-
-El Oficial Mayor, Asesores, coordinadores y Contador Mayor de Hacienda de la Legislatura.
-
-c) En el Poder Judicial:
-
-El Secretario, Secretarios Auxiliares, el Oficial Mayor del Tribunal Superior de Justicia y los Jueces, los Secretarios de Acuerdos y Secretarios auxiliares de los Juzgados, Directores, visitadores y Actuarios.
-
-d) En los Ayuntamientos:
-
-El Secretario, el Oficial Mayor, Tesorero, Cajero General, Directores, Administradores, Jueces, Jefes de Personal y Policía Municipal.
-
-e) En las Empresas y Organismos Descentralizados del Estado y los Municipios:
-
-Directores, Sub- Directores, Gerentes, Administradores, Jefes, Supervisores, Cajeros Generales, Contralores, Pagadores, Asesores, Consejeros y Sobreestantes.
-
-En las Dependencias y Organismos del Estado, Ayuntamientos y Empresas u Organismos Descentralizados, independientemente de la enunciación anterior se consideran trabajadores de confianza a aquellos que tienen funciones o facultades de Dirección, Inspección, Vigilancia y Fiscalización, de carácter general y permanente, así como facultades de decisión derivadas del nombramiento que se les otorgue independientemente del nivel jerárquico en que se encuentren.
-
-Los trabajadores de confianza quedan excluidos del régimen de esta Ley pero tendrán derecho a disfrutar de las medidas de protección al salario y gozarán del beneficio de la Seguridad Social.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 6.
 
-Los trabajadores no incluidos en la enumeración del artículo precedente, serán considerados de base al ocupar una plaza por mas de seis meses, y sin nota desfavorable en su expediente, en virtud del nombramiento expedido por el Servidor Público, facultado o por aparecer en la nómina de trabajadores; siendo por ello inamovibles, adquiriendo el derecho a la estabilidad no solamente dentro de la Dependencia, sino en el puesto específico para el que fueron nombrados.
+Son trabajadores de base aquellos que no se encuentren en el supuesto del artículo anterior, que ocupen una plaza por más de seis meses y sin nota desfavorable en su expediente en virtud del nombramiento expedido por el servidor público, facultado o por aparecer en la nómina de trabajadores, siendo por ello inamovibles, entendiéndose por ello el derecho a la estabilidad no solamente dentro de la dependencia, sino en el puesto específico para el que fueron nombrados.
 
 ###### ARTICULO 7.
 
@@ -787,8 +767,6 @@ El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro, c
 
 Si el Tribunal de Conciliación y Arbitraje no resuelve a los sesenta días la solicitud de registro, los peticionarios pueden requerirlo para que dicte resolución concediéndolo, y si no lo hace dentro de tres días siguientes a la presentación del requerimiento, se tendrá por hecho el registro, surtiendo todos los efectos legales y estando obligado dicho Tribunal, a expedir la constancia del registro dentro de los cinco días siguientes.
 
-AARTICULO 92.- El registro de un Sindicato se cancelará por disolución del mismo o cuando apareciere otro diverso que sea mayoritario. La cancelación podrá hacerse a solicitud de parte interesada. El Tribunal de Conciliación y Arbitraje, en los casos de conflicto entre los Sindicatos que pretendan ser mayoría ordenará desde luego, el recuento correspondiente y resolverá de plano a quien otorga la representación de los trabajadores.
-
 ###### ARTICULO 92.
 
 El registro de un Sindicato se cancelará por disolución del mismo o cuando apareciere otro diverso que sea mayoritario. La cancelación podrá hacerse a solicitud de parte interesada. El Tribunal de Conciliación y Arbitraje, en los casos de conflicto entre los Sindicatos que pretendan ser mayoría ordenará desde luego, el recuento correspondiente y resolverá de plano a quien otorga la representación de los trabajadores.
@@ -1025,9 +1003,13 @@ POR VEJEZ Y MUERTE
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 128.
 
-El derecho a la jubilación y a la pensión por vejez o muerte, nace cuando el trabajador, sus hijos, o a falta de éstos, concubina o hijos habidos con ésta, se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
+El derecho a la jubilación y a la pensión por vejez o muerte, nace cuando el trabajador, el cónyuge, sus hijos, o a falta de éstos, concubina o concubino, se encuentren en los supuestos consignados en esta Ley y satisfagan los requisitos que la misma señala.
+
+Los trabajadores que teniendo derecho a una jubilación o a una pensión por vejez, la estuvieran tramitando y llegasen a fallecer, sus beneficiarios tendrán derecho a recibir la pensión por muerte, mediante los requisitos y procedimientos que señala esta Ley.
 
 ###### ARTICULO 129.
 
@@ -1119,17 +1101,37 @@ El derecho al pago de la pensión por vejez comenzará a partir del día siguien
 
 ### CAPÍTULO CUARTO. DE LA PENSION POR MUERTE
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 142-A.
 
-Tiene Derecho a la Pensión por Muerte, la esposa o esposo que hayan cohabitado con el trabajador jubilado o pensionado, por lo menos tres años antes de su fallecimiento, a falta de estos la concubina o concubio, (sic) a falta de éstos los descendientes menores de 18 años de edad, del trabajador jubilado o pensionado, que a la fecha del fallecimiento dependieran económicamente de él.
+Tienen derecho a la Pensión por Muerte, la esposa o esposo del trabajador jubilado o pensionado, a falta de éstos los descendientes menores de 18 años de edad, a falta de estos la concubina o concubino, del trabajador jubilado o pensionado, que a la fecha del fallecimiento dependieran económicamente de él.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
 
 ###### ARTÍCULO 142
 
 B Los beneficiarios que se encuentren en el supuesto del artículo anterior tendrán derecho al 100% de la percepción que disfrutaba el trabajador o pensionado al momento de su fallecimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 142-C.
+
+Tienen derecho a la pensión por muerte, la esposa o esposo del trabajador que se haya desempeñado como policía, cuando este haya perdido la vida en ejercicio de su deber o de alguna función específica relacionada con su trabajo y se acredite que el trabajador fallecido no estaba inscrito en ninguna institución de seguridad social. A falta de éstos los descendientes menores de 18 años de edad, a falta de estos, la concubina o concubino, del trabajador que a la fecha del fallecimiento dependieran económicamente de él.
+
+Los beneficiarios que se encuentren en el supuesto anterior, tendrán derecho a percibir un porcentaje del salario que el trabajador fallecido percibía, de acuerdo a lo siguiente:
+
+I. Si el trabajador tenía de 1 día a 5 años laborados, 50% del salario.
+
+II. Si el trabajador tenía de 5 años 1 día a 10 años laborados, 60% del salario.
+
+III. Si el trabajador tenía de 10 años 1 día a 15 años laborados, 70% del salario.
+
+IV. Si el trabajador tenía de 15 años 1 día a 20 años laborados, 80% del salario.
+
+V. Si el trabajador tenía de 20 años 1 día a 25 años laborados, 90% del salario.
+
+VI. Si el trabajador tenía de 25 años 1 día y hasta antes de cumplir 30 años laborados, 95% del salario.
 
 ### CAPITULO UNICO
 
@@ -1522,3 +1524,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 15 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el periódico Oficial de Gobierno del Estado " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
