@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-crea-el-instituto-de-vivienda-del-estado-de-sinaloa-984
 country: "mx"
 rank: "ley"
 publication_date: "1983-05-18"
-last_updated: "1985-10-14"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY QUE CREA EL INSTITUTO DE VIVIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 18 de mayo de 1983.
 
@@ -111,7 +111,9 @@ I.- Un Consejo Directivo;
 
 II.- Un Consejo Consultivo;
 
-III.- Un Director; y,
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- Un Director General; y,
 
 IV.- Un Comité de Adjudicaciones.
 
@@ -123,13 +125,19 @@ El Consejo Directivo será la máxima autoridad del Instituto y se integrará co
 
 I.- El Gobernador del Estado o su representante en caso de ausencia;
 
-II.- El Secretario de Obras Públicas o su Representante;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
 
-III.- El Secretario de Gobierno o su Representante;
+II.- El Secretario de Desarrollo Social o su representante;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- El Secretario General de Gobierno o su representante;
 
 IV.- El Secretario de Hacienda Pública y Tesorería o su Representante;
 
-V.- El Director del Instituto; y,
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+V.- El Director General del Instituto; y,
 
 VI.- El Secretario del Consejo.
 
@@ -137,9 +145,11 @@ VI.- El Secretario del Consejo.
 
 Por cada consejero titular se designará un suplente que cubrirá las ausencias temporales del Titular.
 
+> <small>(REFORMADO P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### ARTICULO 8.
 
-El Director del Instituto participará en las sesiones con voz y voto.
+El Director General del Instituto participará en las sesiones con voz y voto.
 
 ###### ARTICULO 9.
 
@@ -163,7 +173,9 @@ VI.- Nombrar a los integrantes del Consejo Consultivo;
 
 VII.- Nombrar Auditor Externo;
 
-VIII.- Aprobar y evaluar los informes de la Dirección;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+VIII.- Aprobar y evaluar los informes de la Dirección General; y
 
 IX.- Aprobar la reinversión de fondos;
 
@@ -183,7 +195,9 @@ I.- Convocar a las sesiones del Consejo Directivo;
 
 II.- Presidir las sesiones del Consejo Directivo, las que deberán celebrarse cada vez que se estime necesario y que no podrán ser menos de una cada tres meses;
 
-III.- Nombrar y remover libremente al Director del Instituto;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- Nombrar y remover libremente al Director General del Instituto;
 
 IV.- Proponer al Consejo Directivo las medidas que estime convenientes para la mejor operación del Instituto; y,
 
@@ -207,17 +221,25 @@ Los miembros permanentes del Consejo Consultivo nombrarán a sus suplentes quien
 
 El Consejo Consultivo sesionará cada vez que el Consejo Directivo lo solicite y tratará únicamente los asuntos que se le encomienden por el mismo Consejo Directivo.
 
-### CAPITULO VI. DEL DIRECTOR DEL INSTITUTO
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 4 DE AGOSTO DE 1993)</small>
+
+### CAPITULO VI. DEL DIRECTOR GENERAL DEL INSTITUTO
+
+> <small>(REFORMADO P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 17.
 
-El Director del Instituto será nombrado por el Gobernador del Estado.
+El Director General del Instituto será nombrado por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 18.
 
-El Director del Instituto tendrá las siguientes facultades y obligaciones:
+El Director General del Instituto tendrá las siguientes facultades y obligaciones:
 
-I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranza, actos de administración y de dominio y los que requieran cláusula especial conforme a la Ley. El Dierctor (sic) podrá otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el Acuerdo del Consejo Directivo, salvo que se traten para pleitos y cobranzas;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+I.- Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio y los que requieran cláusula especial conforme a la Ley. El Director General podrá otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el Acuerdo del Consejo Directivo, salvo que se traten para pleitos y cobranzas;
 
 II.- Asistir a las sesiones del Consejo;
 
@@ -247,7 +269,9 @@ I.- Un Representante del Gobierno del Estado quien será nombrado por el Goberna
 
 II.- Un Representante del Ayuntamiento del Municipio al que corresponda el programa que se vaya a realizar, el cual será nombrado por el Presidente Municipal correspondiente; y,
 
-III.- Un Representante del Instituto que será nombrado por el Director del mismo.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- Un representante del Instituto que será nombrado por el Director General del mismo.
 
 ###### ARTICULO 20.
 
@@ -267,11 +291,11 @@ II.- Seleccionar de entre los grupos y solicitantes individuales, a los adjudica
 
 Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-###### ARTICULO 22.
+###### ARTÍCULO 22.
 
-Serán trabajadores de confianza el Director, el Sub-Director, los Sub-Directores del área, Jefes de Departamento, Jefes de Area, Delegados de Zona, Jefes de Area de Delegación y de Unidades de Servicios, y los demás que desempeñan funciones de dirección, inspección, fiscalización y vigilancia, cuando tengan carácter general y los que se relacionen con trabajos personales del titular del organismo.
+Serán trabajadores de confianza el Director General, el Sub-Director, los Sub-Directores del área, Jefes de Departamento, Jefes de Área, Delegados de Zona, Jefes de Área de Delegación y de Unidades de Servicios, y los demás que desempeñan funciones de dirección, inspección, fiscalización y vigilancia, cuando tengan carácter general y los que se relacionen con trabajos personales del titular del organismo.
 
 TRANSITORIOS:
 
@@ -330,3 +354,9 @@ P.O. 14 DE OCTUBRE DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
