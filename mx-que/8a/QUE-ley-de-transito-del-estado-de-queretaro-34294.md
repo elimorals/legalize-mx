@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2003-10-03"
+last_updated: "2004-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSITO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -981,13 +981,19 @@ II.- Quien conduzca un vehículo implicado, en un accidente de tránsito en los 
 
 III.- Quien conduzca un vehículo implicado en un accidente de tránsito no retire éste, los residuos o cualquier otro material que se hubiese esparcido en la vía pública, cuando la autoridad lo disponga.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+ARTÍCULO 74 BIS.- En caso de que las infracciones contempladas en el inciso A) fracciones VI a la XVIII, XX y XXI; inciso B) fracciones I y V; e inciso C) fracción I; del artículo anterior, sean subsanadas por quien las haya cometido en un plazo no mayor de diez días hábiles demostrándolo físicamente ante la autoridad correspondiente, será beneficiado con un descuento del 75% de la sanción pecuniaria que se le haya impuesto.
+
 ###### ARTÍCULO 75.
 
 Para efectos de la cuantificación de las sanciones que se establecen en el artículo que antecede, se estará a lo dispuesto en el reglamento de tránsito que corresponda.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 76.
 
-El infractor que pague la multa dentro de los cinco días hábiles siguientes a la fecha de la infracción tendrá derecho a un descuento del cincuenta por ciento del costo total de la misma.
+El infractor que pague la multa dentro de los diez días hábiles siguientes a la fecha de la infracción tendrá derecho a un descuento del cincuenta por ciento del costo total de la misma.
 
 ###### ARTÍCULO 77.
 
@@ -1017,9 +1023,11 @@ En caso de que con motivo del tránsito de vehículos se ocasionen daños a terc
 
 En caso de accidentes, en los que no exista la circunstancia de que los conductores se encuentren en estado de ebriedad o bajo el influjo de drogas o estupefacientes y cuando no hayan resultado personas fallecidas o lesionadas, los participantes en el hecho de tránsito podrán llegar a un acuerdo sobre los daños causados a los vehículos, sin necesidad de que sean puestos a disposición de la autoridad competente. Para tal efecto, los agentes adscritos al área de accidentes de tránsito, formularán una acta convenio firmada por las partes y el agente que tomó conocimiento del hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 83.
 
-La reincidencia traerá aparejada la agravación de la sanción hasta en un tercio más y podrá derivar según lo establezca el reglamento correspondiente en suspensión temporal o cancelación según el caso de la licencia.
+En caso de reincidencia del infractor, traerá aparejada la agravación de la sanción hasta en una mitad más y podrá derivar, según lo establezca el reglamento correspondiente, en suspensión temporal o cancelación según el caso de la licencia; así también, perderá los beneficios que otorgan los artículos 74 bis y 76 de este ordenamiento.
 
 Se entiende que hay reincidencia cuando una persona haya sido sancionada por la misma falta dentro del año próximo anterior a la infracción que se califica.
 
@@ -1262,3 +1270,9 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
