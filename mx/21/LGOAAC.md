@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1996-04-30"
+last_updated: "1997-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -298,7 +298,7 @@ Además de las actividades señaladas en los párrafos anteriores, los almacenes
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
+I.- Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -308,11 +308,11 @@ III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
+IV.- Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
+V.- Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -320,7 +320,7 @@ VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+VII.- Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -328,15 +328,15 @@ VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar 
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
+IX.- Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
+X.- Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+XI.- Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -1092,7 +1092,7 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CapItulo III Bis. De las empresas de factoraje financiero
+### CAPITULO III Bis. De las empresas de factoraje financiero
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1118,7 +1118,7 @@ V. Constituir depósitos, a la vista y a plazo, en instituciones de crédito del
 
 VI. Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
 
-VIl. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
+VII. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
 
 VIII. Prestar servicios de administración y cobranza de derechos de crédito;
 
@@ -2062,7 +2062,7 @@ V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las dis
 
 A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. F. 27 DE DICIEMBRE DE 1991)</small>
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
@@ -2262,9 +2262,21 @@ Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98,
 
 Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-> <small>(ADICIONADO, D .O. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general para prevenir y detectar en las organizaciones auxiliares del crédito y casas de cambio, actos u operaciones con recursos, derechos o bienes que procedan o representen el producto de un probable delito. Estas disposiciones deberán ser observadas por los empleados y funcionarios de los citados intermediarios. La violación de las mismas será sancionada con multa equivalente del diez hasta el cien por ciento del monto del acto u operación de que se trate, la cual será impuesta por la Comisión Nacional Bancaria y de Valores a los intermediarios financieros mencionados.
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las organizaciones auxiliares del crédito y casas de cambio, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y servicios que realicen sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de las organizaciones auxiliares del crédito y casas de cambio, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales y cambiarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias organizaciones auxiliares del crédito y casas de cambio.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios; la violación de las mismas será sancionada con multa que será impuesta por la Comisión Nacional Bancaria y de Valores equivalente del diez al cien por ciento del acto u operación de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+
+Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las organizaciones auxiliares del crédito y casas de cambio, deberán abstenerse de dar noticia o información de los reportes a que se refiere este artículo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2597,3 +2609,9 @@ D.O.F. 30 DE ABRIL DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable.
+
+D.O.F. 7 DE MAYO DE 1997.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
