@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2004-03-19"
+last_updated: "2005-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2005.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -337,29 +337,11 @@ Considerando que la Zona Turística comprendida por la Av. Adolfo López Mateos 
 
 Los permisos cancelados en la zona mencionada en el artículo anterior, no podrán ser renovados, salvo que el Ayuntamiento determine lo contrario.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2005)</small>
+
 ###### ARTÍCULO 37.
 
-Para efectos de control, vigilancia y otorgamiento de permisos la demarcación es la siguiente:
-
-ZONA TURÍSTICA:
-
-La Av. Adolfo López Mateos (Primera), de la Av. Ryerson a la Av. Reforma;
-
-Bulevar Lázaro Cárdenas (Costero), de la Av. Gastelum a la Av. General Sanginés, incluyendo la calle de servicios y callejón prolongación Miramar, hasta los límites de la zona regulada por la Administración Portuaria Integral (API).
-
-Además de todas las calles transversales que se ubican entre Bulevar Lázaro Cárdenas (Costero) y Av. Adolfo López Mateos (Primera), desde Av. Club Rotario.
-
-PRIMER CUADRO DE LA CIUDAD:
-
-De la Calle Segunda a la Calle Ambar y de la Av. Ryerson hasta la Av. Reforma.
-
-SEGUNDO CUADRO:
-
-El resto de la Ciudad.
-
-ZONA RURAL:
-
-Las Delegaciones municipales.
+Para efectos de control, vigilancia y otorgamiento de permisos, la demarcación es la siguiente: ZONA TURISTICA: Bulevar Lázaro Cárdenas (Costero), hasta donde empieza la Administración Portuaria Integral (antes solo identificada como Zona Federal), Avenida Adolfo López Mateos (Primera), Virgilio Uribe y Avenida Ryerson, hasta Calle Mar (Arroyo). PRIMER CUADRO DE LA CIUDAD: De la Calle Segunda a la Calle Ambar y de la Avenida Ryerson hasta la Calle Mar (Arrollo); SEGUNDO CUADRO: El resto de la Ciudad; ZONA RURAL: Los espacios comprendidos en las Delegaciones Municipales.
 
 ###### ARTÍCULO 38.
 
@@ -702,3 +684,9 @@ PRESIDENTE MUNICIPAL DE ENSENADA
 Lic. Guillermo Bernardo Islas León
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE ENERO DE 2005.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
