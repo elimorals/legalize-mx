@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-pensiones-civiles-del-estado-de-tlaxcala-8578"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-25"
-last_updated: "1984-01-25"
+last_updated: "1984-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 25 de enero de 1984.
 
@@ -619,13 +619,17 @@ Este beneficio quedará sin efecto si los inmuebles fueren enajenados o destinad
 
 ### CAPITULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
+LABORAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, P.O. 24 DE OCTUBRE DE 1984)
+
 ###### ARTICULO 82.
 
-En lo no previsto por esta ley se estará a lo dispuesto en su reglamento y se tomarán como supletorias las disposiciones contenidas en el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes y Municipios del Estado de Tlaxcala, en la Legislación Federal del Trabajo Burocrático y en la Ley Federal del Trabajo.
+En lo no previsto por esta Ley se estará a lo dispuesto en su Reglamento y se tomarán como supletorias las disposiciones contenidas en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
+
+> <small>(REFORMADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY LABORAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, P.O. 24 DE OCTUBRE DE 1984)</small>
 
 ###### ARTICULO 83.
 
-El Tribunal de Arbitraje del Estado de Tlaxcala, es el competente para conocer y resolver cualquier conflicto que se presentare en la interpretación y aplicación de la presente ley.
+El Tribunal de Conciliación y Arbitraje del Estado será la autoridad competente para resolver cualquier conflicto que se presente por la interpretación y aplicación de esta Ley.
 
 ## TRANSITORIOS
 
@@ -644,3 +648,43 @@ Dado en la Sala de Sesiones del Poder Legislativo del Estado Libre y Soberano de
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los diecisiete días del mes de enero de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Tulio Hernández Gómez.- Rúbrica.- El Secretario de Gobierno.- Lic. Carlos Hernández García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE OCTUBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigencia el día veinte de noviembre de mil novecientos ochenta y seis, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Estatuto Jurídico de los trabajadores al Servicio de los Poderes y Municipios del Estado de Tlaxcala, de fecha cinco de septiembre de mil novecientos cincuenta y siete.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Reglamento Interior que fija las Condiciones Generales de Trabajo entre el Gobierno del Estado y sus Servidores, de fecha doce de octubre de mil novecientos sesenta y cinco.
+
+###### ARTICULO CUARTO.
+
+Se reforman los artículos 82 y 83 de la Ley de Pensiones Civiles del Estado de Tlaxcala, para quedar en los siguientes términos:
+
+###### ARTICULO 82.
+
+En lo no previsto por esta Ley se estará a lo dispuesto en su Reglamento y se tomarán como supletorias las disposiciones contenidas en la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios.
+
+###### ARTICULO 83.
+
+El Tribunal de Conciliación y Arbitraje del Estado será la autoridad competente para resolver cualquier conflicto que se presente por la interpretación y aplicación de esta Ley.
+
+###### ARTICULO QUINTO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTICULO SEXTO.
+
+Los juicios que se estén tramitando ante el Tribunal de Arbitraje, se sujetarán a lo establecido por la presente Ley.
+
+###### ARTICULO SEPTIMO.
+
+A más tardar dentro de los tres meses siguientes a la iniciación de la vigencia de esta Ley, deberán establecerse las Condiciones Generales de Trabajo a que se refiere el artículo diez de la presente Ley; y mientras tanto continuarán vigentes los convenios y contratos colectivos de trabajo que se hayan celebrado en lo que no contravengan a este ordenamiento legal.
