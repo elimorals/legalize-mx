@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1988-12-29"
+last_updated: "1989-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -345,29 +345,23 @@ El ejercicio de las funciones que ésta Constitución señala al Poder Legislati
 
 El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
 
 ###### ARTICULO 31.
 
-El Congreso del Estado se integrará con 15 diputados electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y hasta con 6 diputados que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
+El Congreso del Estado se integrará con 15 diputados electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y con 10 diputados que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
 
 La elección de los diputados de representación proporcional, bajo el sistema de listas, deberá sujetarse a lo que en particular disponga la legislación electoral relativa, de conformidad con las siguientes bases:
 
-I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a diputados por mayoría relativa por lo menos en la tercera parte de los distritos electorales uninominales.
+I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa por lo menos en la tercera parte de los distritos electorales uninominales.
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de proporcionalidad, todo aquel partido que:
-
-a).- Alcance al menos el 1.5% de la votación emitida para el total de las listas.
-
-b).- No haya obtenido 3 ó más constancias de mayoría.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de proporcionalidad, todo aquel partido que alcance al menos el 2.)% (sic) de la votación emitida para el total de las listas.
 
 III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-IV.- En caso de que dos o más partidos con derecho a participar en la distribución por listas, obtuviese en su conjunto 3 o más constancias de mayoría, solo será objeto de distribución el 50% de las curules que deban asignarse por principio de proporcionalidad.
+La demarcación territorial de los quince distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
 
-La demarcación territorial de los quince distrito (sic) electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -375,29 +369,17 @@ La demarcación territorial de los quince distrito (sic) electorales uninominale
 
 ###### ARTICULO 32.
 
-Para ser Diputado propietario y suplente se requiere:
+Para ser Diputado Propietario y Suplente se requiere:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1987)</small>
-
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
 
 II.- Saber leer y escribir;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
 III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
 
-IV.- (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1987)
+IV.- No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-V.- No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
-
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
-
-VI.- No ser funcionario público de la federación, del Estado o del Municipio, a menos de que se separe de sus funciones 90 días antes de la elección.
+V.- No ser servidor público de la Federación, del Estado o del municipio, a menos que se separe de sus funciones noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1407,7 +1389,7 @@ Los jueces civiles, familiares, penales, de primera instancia con jurisdicción 
 
 ###### ARTICULO 102.
 
-Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
+Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la. administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1437,11 +1419,11 @@ Los Ayuntamientos poseerán facultades para expedir, de acuerdo con las bases no
 
 La Ley del Municipio Libre del Estado de Durango, precisará el carácter de servidores públicos, de quienes desempeñan un empleo, cargo o comisión en la Administración Municipal, para los efectos de sus responsabilidades.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
 
 ###### ARTICULO 106.
 
-El número de regidores, que juntamente con el Síndico y Presidente Municipal compongan los Ayuntamientos, se determinará en la Ley Orgánica del Municipio Libre.
+El número de Regidores, que juntamente con el Síndico y Presidente Municipal compongan los Ayuntamientos, se determinará en la Ley Orgánica del Municipio Libre y en el Código Estatal Electoral.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1449,29 +1431,19 @@ El número de regidores, que juntamente con el Síndico y Presidente Municipal c
 
 Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
 
 ###### ARTICULO 108.
 
-Para ser electo Presidente, Síndico o Regidor de un Ayuntamiento, se requiere:
+Para ser electos Presidente, Síndico o Regidor de un Ayuntamiento, se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
-
-I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del Municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del Municipio que no sea menor de diez años inmediatamente anteriores al día de la elección. Si es nativo del Municipio, tener cuando menos tres años de residencia efectiva dentro del territorio del Municipio inmediatamente anterior al día de la elección;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del municipio, tener cuando menos dos años de residencia efectiva dentro del territorio del municipio inmediatamente anterior al día de la elección.
 
 II.- Ser mayor de 21 años de edad;
 
-III.- (DEROGADA, P.O. 12 DE AGOSTO DE 1984)
+III.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo independientemente de la pena impuesta; y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
-
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
-
-V.- No haber sido funcionario de la federación, del Estado o del Municipio en los 90 días anteriores a la fecha de la elección.
+IV.- No haber sido servidor de la Federación, del Estado o del Municipio en los 90 días anteriores a la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1801,7 +1773,7 @@ P.O. 17 DE SEPTIEMBRE DE 1931.
 
 ###### Artículo 1o.
 
-En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su cargo dos años.
+En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su encargo dos años.
 
 ###### Artículo 2o.
 
@@ -1809,7 +1781,7 @@ En las elecciones que se efectúen en el año de 1934, para la integración de l
 
 ###### Artículo 3o.
 
-La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sola vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
+La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sóla vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
 
 P.O. 1 DE OCTUBRE DE 1933.
 
@@ -2054,3 +2026,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 29 DE DICIEMBRE DE 1988.
 
 UNICO.- El presente Decreto surtirá sus efectos legales el 1° de Enero de 1989.
+
+P.O. 19 DE MARZO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas.
