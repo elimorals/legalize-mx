@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1988-12-31"
+last_updated: "1989-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -93,17 +93,25 @@ a) Que así conste en el endoso que aparece en el documento que ampare la propie
 
 b) Que el endoso a que se refiere el inciso anterior, no contenga lugar de operación.
 
-c) Que el vehículo en cuestión circule con placas del Estado de Michoacán, aún cuando el endoso haya sido fechado en otra Entidad; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-d) Que la documentación de pagos de otros impuestos y/o derechos a que este afecto el vehículo de que se trate, haya sido tramitada ante las autoridades domiciliadas en el Estado.
+c) Que el vehículo en cuestión circule con placas del Estado de Michoacán, aún cuando el endoso haya sido fechado en otra Entidad.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+d) Que la documentación de pagos de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante autoridades domiciliadas en el Estado, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+e) Que no se compruebe el pago de este impuesto, tratándose de vehículos usados, refacturados por empresas distribuidoras y por aquellas que enajenen vehículos usados.
 
 #### Sección Segunda. De los Sujetos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 6o.
 
-Es sujeto de este Impuesto, la persona que reciba un ingreso como resultado de la enajenación de vehículos de motor en los términos del artículo anterior, siempre que no sea comerciante en esta clase de negocios.
+Es sujeto de este impuesto, la persona que reciba un ingreso como resultado de la enajenación de vehículos de motor en los términos del articulo anterior, siempre que no sea comerciante en esta clase de negocios, o que se trate de empresas afectas al pago del Impuesto del Valor Agregado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -115,6 +123,10 @@ I. Los funcionarios y empleados públicos que autoricen cualquier trámite relac
 
 II. El adquirente de vehículos de motor por los endosos anteriores.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+III. Los retenedores a que se refiere el artículo 9o. de esta Ley.
+
 #### Sección Tercera. De la Base
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
@@ -125,13 +137,17 @@ La base de este Impuesto, será el importe resultante de alpicar (sic) las tabla
 
 #### Sección Cuarta. De las Obligaciones y del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 9o.
 
-Los sujetos de este Impuesto, están obligados a presentar ante la oficina recaudadora de su domicilio, el documento original con una copia simple del mismo, que ampare la propiedad del vehículo de motor objeto de la enajenación, dentro de los siguientes 15 días de la misma.
+Los sujetos de este impuesto, están obligados a exhibir ante la oficina recaudadora de su domicilio, el documento original con una copia simple del mismo, que ampare la propiedad del vehículo de motor objeto de la enajenación, dentro de los 5 días siguientes a la celebración de su operación.
 
-La oficina recaudadora procederá de inmediato a calcular el impuesto correspondiente aplicando las tasas establecidas en la Ley de Ingresos del Estado, expidiendo el recibo oficial y sellando el documento original que le fue exhibido al margen del endoso y anotará el número, fecha e importe del recibo correspondiente.
+Las empresas distribuidoras de vehículos, así como aquellas cuya actividad sea la compra-venta de vehículos usados, están obligados a retener el impuesto a que se refiere este capítulo, el que se determinará conforme a las bases y tasas establecidas por la Ley de Ingresos del Estado, y lo enterarán en la oficina recaudadora correspondiente dentro de los 5 días siguientes a la fecha de la adquisición.
+
+Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente y sellarán el documento original que ampare la propiedad del vehículo, al margen del endoso anotarán el número, fecha e importe del recibo expedido.
+
+Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante las autoridades responsables de la prestación de los servicios de control vehicular, tanto público como particular.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -167,6 +183,10 @@ Las infracciones cometidas por los contribuyentes de este impuesto, se sancionar
 
 Es objeto de este impuesto el ingreso que se obtenga por la exploración de: salas de teatro o de cinematografía, circos, luchas, corridas de toros, jaripeos, bailes públicos, espectáculos deportivos, audiciones musicales, exhibiciones de cualesquier naturaleza y eventos con cuota de admisión, de mesa, consumo mínimo u otra denominación que se le dé y que condicionen el acceso al espectáculo.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+Este impuesto se calculará por ejercicios fiscales, salvo en los casos en que la realización de los eventos se efectúen ocasionalmente.
+
 #### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 16.
@@ -191,17 +211,17 @@ Es base para el pago de este impuesto el ingreso bruto que se obtenga.
 
 En caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto que tenga señalada la mayor tasa en la Ley de Ingresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
-
 #### Sección Cuarta. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 19.
 
-Las autoridades fiscales nombrarán interventores de espectáculos públicos, quienes vigilarán que sea correcta la base de este Impuesto y formularán la liquidación correspondiente en las formas aprobadas por la Tesorería General, de la cual entregarán una copia al interesado, como constancia provisional de pago.
+La Tesorería General del Estado nombrará, interventores de espectáculos públicos, quienes determinarán el impuesto utilizando al efecto la cédula de intervención y lo recaudarán al término del acceso del evento, entregando el original de la cédula como comprobante provisional de pago.
 
-El día hábil siguiente a la celebración del espectáculo, el sujeto del Impuesto acudirá a la oficina recaudadora para canjear el comprobante a que se refiere el párrafo anterior por el recibo oficial correspondiente, salvo el caso en que la naturaleza del espectáculo gravado al contribuyente le resulte notoriamente perjudicial hacerlo; en esta circunstancia y para su efecto personal la constancia provisional de pago adquirirá el carácter de comprobante oficial.
+El día hábil siguiente a la celebración del espectáculo, el sujeto del impuesto acudirá a la oficina recaudadora para canjear el comprobante a que se refiere el párrafo anterior por el recibo oficial correspondiente, en caso de no acudir, el comprobante provisional de pago adquirirá el carácter de comprobante oficial.
+
+(REUBICADO, P.O. 28 DE DICIEMBRE DE 1989)
 
 #### Sección Quinta. De las Obligaciones
 
@@ -209,25 +229,41 @@ El día hábil siguiente a la celebración del espectáculo, el sujeto del Impue
 
 Este impuesto se liquidará de conformidad con las tasas que al efecto señale la Ley de Ingresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 21.
 
-El pago de este impuesto deberá enterarse en la oficina recaudadora correspondiente al lugar donde se realice el espectáculo.
+El entero de este impuesto deberá efectuarse en la oficina recaudadora correspondiente al lugar donde se realice el espectáculo a más tardar el día hábil siguiente de su realización.
 
-Ocasionalmente la autoridad fiscal podrá autorizar que el contribuyente entere el impuesto causado, al siguiente día hábil de aquel en que se celebre el espectáculo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 Cuando por cualquier circunstancia, el interventor designado no ocurra formular la liquidación y en su caso a recaudar el impuesto, el contribuyente estará obligado a efectuar el pago del mismo, el siguiente día hábil de aquel en que ocurran las actividades gravadas por este Impuesto.
 
-La Tesorería General podrá establecer cuotas fijas a los sujetos de este Impuesto, cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-Para la determinación del impuesto a cuota fija, la autoridad fiscal tomará en consideración lo siguiente:
+La Tesorería General del Estado podrá establecer cuotas mensuales a los sujetos de este impuesto, cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos o cuando tratándose de espectáculos ocasionales el sujeto realice periódicamente actividades gravadas por este impuesto.
 
-I. El promedio de ingresos brutos obtenidos por el sujeto en un lapso determinado según las circunstancias de cada caso, pero nunca menor de 10 días consecutivos o no.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+Para la determinación de la cuota mensual a que se refiere el párrafo anterior, la autoridad fiscal tomará en consideración lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+I. El promedio de ingresos brutos obtenidos por el sujeto en un lapso determinado según las circunstancias de cada caso.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 II. Aplicará a los ingresos determinados en los términos de la fracción anterior, la tasa que fije la Ley de Ingresos del Estado para el espectáculo de que se trate.
 
-III. La cuota fija corresponderá al año en que se fije, pero podrá variar en función a las modificaciones que el propio sujeto haga a sus precios de acceso al espectáculo de que se trate.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
-En los casos en que los contribuyentes deban pagar el Impuesto por cuota fija, la autoridad fiscal determinará el plazo en que ésta deba ser enterada.
+III. La cuota referida deberá ser incrementada cada vez que se aumenten los precios de acceso al espectáculo de que se trate o cuando sin que exista aumento de los precios de acceso, la Tesorería General compruebe que el ingreso promedio que obtenga el contribuyente en un periodo determinado, es superior al considerado como base para la determinación de la cuota anterior.
+
+Cuando se incremente la cuota con motivo de aumento a los precios de acceso, se considerará el ingreso promedio a que se refiere la fracción I de este artículo, o se aplicará la proporción que represente el incremento del nuevo precio respecto del anterior.
+
+Los contribuyentes a los que se les establezca cuota mensual, deberán efectuar su pago dentro de los primeros 5 días del mes a que esta corresponda.
 
 ###### ARTICULO 22.
 
@@ -241,7 +277,9 @@ b) Presentar los avisos de cambio de domicilio, suspensión de actividades, tras
 
 II. Si la explotación se realiza en forma ocasional o si realizándose permanentemente no se cuenta con establecimiento fijo:
 
-a) Presentar un informe ante la oficina de rentas correspondiente indicando el período de duración del espectáculo, a más tardar el día anterior al de su inicio;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+a) Presentar ante la oficina recaudadora correspondiente, el permiso o licencia expedida por la autoridad competente, indicando la fecha o periodo de celebración del evento y el lugar en que se realice, a más tardar el día anterior al de su inicio.
 
 b) Otorgar garantía a satisfacción de la misma oficina en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades, ni superior al que pudiera corresponder a tres días;
 
@@ -271,7 +309,7 @@ Este impuesto en ningún caso, deberá ser repercutido al espectador.
 
 Los funcionarios competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Tesorería General del Estado, o a sus oficinas de rentas, de las autorizaciones que otorguen, a más tardar el día anterior al en que vaya a realizarse o a principiar la explotación del espectáculo.
 
-#### Sección Sexta. de las Disposiciones Generales
+#### Sección Sexta. De las Disposiciones Generales
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -282,6 +320,16 @@ Quedan preferentemente afectos al pago de este impuesto:
 I. Los bienes inmuebles en que se exploten espectáculos o diversiones públicas, cuando sean propiedad del contribuyentes sujeto al gravamen, y
 
 II. El equipo y las instalaciones que se utilicen en la diversión o espectáculos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 26
+
+Bis. Para los efectos de este impuesto se considera domicilio fiscal:
+
+I. El lugar donde se realice el evento, tratándose de contribuyentes que habitualmente efectúen espectáculos en establecimiento fijo, y
+
+II. El manifestado ante la autoridad competente que expida la licencia o permiso, tratándose de contribuyentes que realice espectáculos públicos en distintos lugares.
 
 #### Sección Primera. Del Objeto
 
@@ -301,7 +349,7 @@ Es objeto de este impuesto, todo ingreso o hecho generador de un impuesto o dere
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 29.
 
@@ -313,7 +361,7 @@ De las Exenciones.
 
 ###### ARTICULO 30.
 
-La base de este Impuesto es el importe de los pagos por concepto de Impuestos y Derechos, excepto del Impuesto sobre aumento de valor o mejoría específica de la propiedad, derechos por inscripción de nacimiento, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles.
+La base de este Impuesto es el importe de los pagos por concepto de Impuestos y Derechos, excepto de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimiento, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles.
 
 ###### ARTICULO 31.
 
@@ -331,7 +379,7 @@ El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se h
 
 ###### ARTICULO 33.
 
-Cualquier institución oficial a quien se conceda la facultad de recaudar alguna contribución y las Tesorerías Municipales, están obligadas a hacer efectivo este gravamen causado por impuestos y derechos, so(sic) pena de responsabilidad solidaria, debiendo entregar su importe completo directamente a la Tesorería General del Estado o por conducto de las oficinas recaudadoras de rentas, dentro de los primeros quince días del mes siguiente al en que se causa.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1989)
 
 #### Sección Tercera
 
@@ -2065,6 +2113,10 @@ Las contribuciones especiales que se establezcan a cargo de las personas que se 
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
+### CAPITULO UNICO. DE LAS APORTACIONES DE PARTICULARES PARA OBRAS PUBLICAS
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 218.
 
 Quedan comprendidos en este concepto los ingresos que obtiene el Estado por actividades que no corresponden al desarrollo de sus funciones propias de derecho público, así como la explotación o aprovechamiento de los bienes que constituyen su patrimonio, tales como:
@@ -2103,6 +2155,10 @@ Las participaciones concedidas al Estado en ingresos federales o municipales por
 
 ## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
 
+## TITULO OCTAVO. DE OTROS INGRESOS
+
+> <small>(ADICIONADO CON ARTICULO QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 222.
 
 Son aprovechamientos los ingresos que obtenga el Estado, por los conceptos de:
@@ -2135,6 +2191,12 @@ XII. Otros no especificados.
 
 Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo a la naturaleza y origen del crédito por medio del procedimiento de ejecución o por la vía judicial.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 224.
+
+El Estado percibirá por concepto de aportaciones de particulares, para la ejecución de obras públicas, los importes que se convengan por la Tesorería General del Estado, la Unidad Ejecutora correspondiente y los particulares.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -2166,3 +2228,9 @@ P.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el 1o. de enero de 1989, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1990, previa publicación en el Periódico Oficial del Estado.
