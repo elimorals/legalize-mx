@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1993-09-17"
+last_updated: "1993-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1993.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1069,9 +1069,13 @@ Son sujetos de este impuesto las personas fisecias (sic) o morales que obtengan 
 
 Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
 ###### ARTICULO 140.
 
-El Impuesto deberá pagarse en la Recaudación de Rentas correspondiente al día hábil siguiente de aquél en que se generó el ingreso, mediante una manifestación en las formas aprobadas por la Secretaría de Finanzas.
+El impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Finanzas.
+
+La Secretaría de Finanzas podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquél en que se celebre la función o funciones.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1090,6 +1094,60 @@ Las facultades del interventor a que se refiere el Artículo 141 de esta Ley, so
 I.- Determinar el boletaje vendido, y el importe de los ingresos.
 
 II.- Formular liquidación que deberá ser firmada por un representante de la empresa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 1993)</small>
+
+III.- Recaudar el Impuesto que se cause con motivo de la celebración de las actividades que señala el Artículo 137 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 143
+
+1.- Este impuesto, en ningún caso, deberá ser trasladado al espectador.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 143
+
+2.- Los honorarios de los Interventores de los eventos a que se refiere el Artículo 137 de esta Ley se determinarán discrecionalmente por el Recaudador de Rentas del Estado, y en ningún caso será menor al equivalente de cuatro salarios mínimos general vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 143
+
+3.- Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
+
+I.- Presentar ante la Recaudación de Rentas de cuya jurisdicción corresponda, para su resello, el boletaje y el programa que corresponda a cada función, en el mismo término que establece el Artículo 142 de esta Ley.
+
+II.- No vender boletos en tanto no estén resellados por las Autoridades Fiscales.
+
+III.- Permitir a los Interventores que designe la Secretaría de Finanzas o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
+
+IV. - Los contribuyentes de este impuesto que exploten espectáculos en forma eventual, tendrán además las siguientes obligaciones:
+
+A).- Dar aviso de la iniciación de las actividades a que se refiere el Artículo 137 de esta Ley.
+
+B).- Dar el aviso a que se refiere el Artículo 142 de esta Ley, señalando además la fecha en que habrán de concluir las actividades en cada jurisdicción.
+
+C).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina de Recaudación de Rentas de su jurisdicción, a más tardar el día último que comprenda el aviso, cuya vigencia se vaya ampliar y,
+
+D).- Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Finanzas previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 143
+
+4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Finanzas podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
+###### ARTICULO 143
+
+5.- Quedan preferentemente afectos a garantizar el pago de este impuesto:
+
+I.- Los bienes inmuebles en que se exploten espectáculos públicos o diversiones, cuando sean propiedad de los contribuyentes de este impuesto; y
+
+II.- El equipo y las instalaciones que se utilicen en el espectáculo público.
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
 
@@ -1233,11 +1291,11 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado, excepto los expresamente señalados en esta Ley.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
 b).- Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos.
 
-La excepción a que se refiere este Artículo en relación con el inciso anterior, sólo será aplicable, respecto de los pagos que se efectúen durante los dos primeros años de haber iniciado operaciones de maquila para exportación.
+La excepción a que se refiere este Inciso, solo será aplicable respecto los pagos que efectúen durante los dos primeros años de haber iniciado la primera exportación.
 
 c).- Enajenación de bienes o prestación de servicios que se realicen por residentes en el Estado, a quien resida en una entidad federativa diferente a Baja California, siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo fuera del Estado.
 
@@ -1269,9 +1327,13 @@ Para los efectos de este Artículo se aplicarán supletoriamente en lo conducent
 
 17.- Están obligados a enterar el Impuesto quienes perciban remuneraciones en los términos del Artículo 151-15, cuando quien los pague resida fuera del Estado, sin tener en el mismo agencia, sucursal o representación.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+
 ###### ARTICULO 151
 
-18.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+18.- Para efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás cantidades que se entreguen al trabajador como contraprestación por su trabajo.
+
+No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -2046,3 +2108,9 @@ P.O. 17 DE SEPTIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE OCTUBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
