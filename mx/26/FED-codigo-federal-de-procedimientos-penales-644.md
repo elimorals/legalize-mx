@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2000-01-04"
+last_updated: "2000-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1803,7 +1803,9 @@ I. Del Código Penal para el Distrito Federal en Materia de Fuero Común y para 
 
 22) Homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 Bis, 320 y 323;
 
-23) Secuestro, previsto en el artículo 366, salvo el antepenúltimo párrafo;
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+
+23) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter;
 
 24) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV y XVI;
 
@@ -4672,3 +4674,15 @@ SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan
 D.O.F. 4 DE ENERO DE 2000.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE JUNIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En un plazo no mayor de seis meses, el Ejecutivo Federal deberá crear la estructura administrativa necesaria en la Procuraduría General de la República para la atención de los delitos previstos en los artículos 366, fracción III; 366 ter y 366 quáter previstos en este Decreto.
+
+Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para hacer las adecuaciones presupuestarias que resulten necesarias.
+
+TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
