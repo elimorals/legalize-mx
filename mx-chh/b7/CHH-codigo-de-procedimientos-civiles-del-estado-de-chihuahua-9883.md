@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1993-08-25"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -52,6 +52,10 @@ II.- La capacidad para ejercitar la acción por sí, o por medio de legítimo re
 III.- El interés en el actor para deducirlo. Falta el requisito de interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
 
 2.- La acción procede en juicio aun cuando no se exprese su nombre, con tal de que se determine con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+Ningún juicio civil tendrá más de dos instancias.
 
 3.- Por las acciones reales se reclamarán: La herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria.
 
@@ -3952,3 +3956,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente d
 P.O. 25 DE AGOSTO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
