@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2002-11-11"
+last_updated: "2003-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1823,9 +1823,11 @@ complementación de acta 4.00
 
 j).- Búsqueda de actas en libros 1.00
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2003)</small>
+
 k).- Expedición de constancia de registro de
 
-cualquier acto del registro civil 2.00
+cualquier acto del Registro Civil 0.50
 
 l).- Servicio de tramitación de actas de
 
@@ -2617,17 +2619,29 @@ Las personas físicas o morales que tomen en arrendamiento algún bien propiedad
 
 Unidad de salario
 
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2003)</small>
+
 I. Arrendamiento de mercados, se pagará según la tarifa siguiente por día:
 
-a) Locales interiores 0.26
+a) Accesorias 0.100
 
-b) Accesorias 1.00
+b) Locales interiores.
 
-c) Puestos semifijos 0.40
+Para venta de carnes, aves, pescados
 
-d) Puestos eventuales 0.40
+y mariscos 0.170
 
-e) Otros no especificados 0.10
+Para venta de ropa, mercería, lencería,
+
+cremería y plásticos 0146
+
+Para venta de abarrotes, fonda, juegos y
+
+frutas preáradas 0.170
+
+Para venta de verduras y frutas 0.116
+
+Otros no especificados 0.134
 
 II. Refrendo de concesión de los mercados,
 
@@ -2922,3 +2936,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 11 días del mes de noviembre del año dos mil dos.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MARZO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
