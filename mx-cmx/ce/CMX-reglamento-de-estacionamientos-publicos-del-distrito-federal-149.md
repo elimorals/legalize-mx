@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-estacionamientos-publicos-del-distrito-federal-14
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-03-27"
-last_updated: "1991-04-15"
+last_updated: "1991-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,13 @@ issue_date: "1991-01-14"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ESTACIONAMIENTOS PÚBLICOS DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE JUNIO DE 1991.]</small>
 
 Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el miércoles 27 de marzo de 1991. (REPUBLICADO EN LA G.O. 15 DE ABRIL DE 1991).
 
@@ -54,7 +58,9 @@ Los estacionamientos son de dos tipos:
 
 I.- Privados.- Como tales se entienden las áreas destinadas a este fin en todo tipo de unidades habitacionales, así como las dedicadas a cubrir las necesidades propias y las que se generen con motivo de las actividades de instituciones o empresas, siempre que el servicio otorgado sea gratuito. Estos estacionamientos no estarán sujetos a este ordenamiento.
 
-II.- Públicos.- Se consideran de este tipo, los locales destinados en forma principal a la prestación al público del servicio de recepción, guarda protección y devolución de vehículos, a cambio del pago de la tarifa autorizada.
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+II.- Públicos.- Se consideran de este tipo, los locales destinados en forma principal a la prestación al público del servicio de recepción, guarda, protección y devolución de vehículos, a cambio del pago de la tarifa autorizada.
 
 Los estacionamientos públicos se clasifican:
 
@@ -104,7 +110,9 @@ IX.- Fecha en que se iniciará la operación;
 
 X.- El horario en que prestará el servicio;
 
-XI.- La forma y términos en que se responderá por los daños que sufran los vehículos estacionados de conformidad del artículo 22;
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+XI.- La forma y términos en que responderá por los daños que sufran los vehículos estacionados de conformidad del artículo 22;
 
 XII.- Copia de la solicitud hecha ante la autoridad competente del Departamento del Distrito Federal para el señalamiento de la tarifa autorizada y
 
@@ -114,21 +122,29 @@ XIII.- El libro de visitas.
 
 En el acto de la presentación de la declaración de apertura la Delegación verificará el cumplimiento de los requisitos establecidos en el artículo anterior; aprobará el número o rango de cajones así como el horario de funcionamiento y sellará el escrito respectivo y el libro de visitas, foliando cada una de sus hojas.
 
-La Delegación mantendrá un expediente integrado en los términos del artículo anterior para cada estacionamiento público ubicado en su jurisdicción e informará a la Comisión Consultiva de Fomento a los Estacionamientos sobre la apertura de nuevos establecimientos especificando los datos señalados en el artículo 5 de este ordenamiento.
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+La Delegación mantendrá un expediente integrado en los términos del artículo anterior para cada estacionamiento público ubicado en su jurisdicción e informará a la Comisión Consultiva de Fomento a los Estacionamientos sobre la apertura de nuevos establecimientos, especificando los datos señalados en el artículo 5 de este ordenamiento.
+
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
 
 ###### Artículo 7.
 
-Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento público, el propietario o administrador deberá presentar dentro de los cinco días siguientes, escrito complementario en el que detalle los cambios realizados, acompañando una copia fotostática de la declaración de la apertura correspondiente. La Delegación procederá en los términos del artículo anterior.
+Cuando con posterioridad a la apertura se modifiquen las características de un estacionamiento público, el propietario o administrador deberá presentar dentro de los cinco días siguientes, escrito complementario en el que detalle los cambios realizados, acompañando una copia fotostática de la declaración de apertura correspondiente. La Delegación procederá en los términos del artículo anterior.
 
 ###### Artículo 8.
 
 Cuando el propietario o arrendatario de un estacionamiento público termine la prestación del servicio, deberá comunicarlo con un mes de anticipación a la Delegación correspondiente y a la Comisión Consultiva de Fomento a los Estacionamientos, así como colocar el aviso respectivo en un lugar visible del estacionamiento.
 
-### CAPITULO III. DEL FOMENTO AL ESTABLECIMIENTO DE LOS ESTABLECIMIENTOS (SIC) Y DE LAS TARIFAS
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+### CAPITULO III. DEL FOMENTO AL ESTABLECIMIENTO DE LOS ESTACIONAMIENTOS Y DE LAS TARIFAS
+
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
 
 ###### Artículo 9.
 
-Se establece un órgano de promoción denominado Comisión Consultiva de Fomento a los Estacionamientos, (sic) cual se integrará con un representante del Jefe del Departamento del Distrito Federal, quién fungirá como presidente, uno de la Coordinación General de Transporte, uno de la Procuraduría Federal del Consumidor y otro de la Cámara Nacional de Comercio de la Ciudad de México, quién será el portavoz de los propietarios y administradores de estacionamientos públicos agrupados en dicha Cámara. El presidente tendrá voto de calidad en caso de empate.
+Se establece un órgano de promoción denominado Comisión Consultiva de Fomento a los Estacionamientos, la cual se integrará con un representante del Jefe del Departamento del Distrito Federal, quién fungirá como presidente, uno de la Coordinación General de Transporte, uno de la Procuraduría Federal del Consumidor y otro de la Cámara Nacional de Comercio de la Ciudad de México, quién será el portavoz de los propietarios y administradores de estacionamientos públicos agrupados en dicha Cámara. El presidente tendrá voto de calidad en caso de empate.
 
 La Comisión tendrá las siguientes atribuciones:
 
@@ -142,11 +158,15 @@ IV.- Recibir y analizar las peticiones fundadas y razonadas que le presenten los
 
 V.- Presentar al Jefe del Departamento del Distrito Federal un documento en el que se analice la situación prevaleciente en los estacionamientos y se formulen las propuestas y recomendaciones para fomentar su establecimiento, así como para la fijación de las tarifas y la determinación de las zonas diferenciadas. Las aportaciones de la Comisión deberán ser tomadas en cuenta por el Departamento al formular las medidas que se instrumenten en materia de estacionamientos.
 
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
 ###### Artículo 10.
 
-El Departamento del Distrito Federal está facultado para mejorar las tarifas de los estacionamientos, tomando en consideración los siguientes criterios:
+El Departamento del Distrito Federal está facultado para fijar las tarifas de los estacionamientos, tomando en consideración los siguientes criterios:
 
-I.- El tiempo de servicio, de acuerdo con lo dispuesto por el artículo 1, segundo el (sic) párrafo, de este ordenamiento;
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+I.- El tiempo de servicio, de acuerdo con lo dispuesto por el artículo 1, segundo párrafo, de este ordenamiento;
 
 II.- Las características de las instalaciones de conformidad con el artículo 3;
 
@@ -270,7 +290,9 @@ Los propietarios o administradores de estacionamientos deberán cubrir a los usu
 
 I.- En los estacionamientos de autoservicio: sólo por robo total;
 
-II.- En los acomodadores: robo total o parcial, así como daño y destrucción causados por el personal del estacionamiento.
+> <small>(F. DE E., D.O.F. 5 DE JUNIO DE 1991)</small>
+
+II.- En los de acomodadores: robo total o parcial, así como daños y destrucción causados por el personal del estacionamiento.
 
 ###### Artículo 23.
 
