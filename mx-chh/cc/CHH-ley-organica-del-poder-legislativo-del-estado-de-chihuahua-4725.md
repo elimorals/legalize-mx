@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-02-15"
+last_updated: "2003-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -131,33 +131,51 @@ El Congreso se erigirá en Gran Jurado en caso de Juicio Político o declaració
 
 ### CAPITULO I. DE LA INSTALACION
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
 
 ###### Art. 11.
 
-Diez días antes del fijado para la instalación de la Legislatura, los diputados que hayan sido declarados electos tanto por el Consejo Estatal de Elecciones como por el Tribunal Estatal de Elecciones en su caso, se reunirán en el Salón de Sesiones del Congreso a las once horas, a fin de nombrar la mesa directiva que presidirá los trabajos del Primer Período Ordinario de Sesiones.
+Diez días antes del fijado para la instalación de la Legislatura, los Diputados que hayan sido declarados electos tanto por el Instituto Estatal Electoral, como por el Tribunal Estatal Electoral en su caso, se reunirán en el Salón de Sesiones del Congreso del Estado a las once horas, a fin de nombrar la mesa directiva que presidirá los trabajos del Período Ordinario de Sesiones.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 Los Diputados que habiendo obtenido del Instituto Estatal Electoral la constancia que los acredite como tales, se abstendrán de concurrir a la reunión referida en el párrafo que antecede, así como a la instalación de la Legislatura respectiva, cuando su constancia haya sido impugnada, por consecuencia, tampoco podrán rendir la protesta como integrantes de la Legislatura hasta en tanto queden resueltas en definitiva las impugnaciones hechas en contra de su respectiva constancia.
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+
 El primero de octubre del año correspondiente, previa protesta de sus integrantes, se instalará solemnemente el Congreso, declarando instalada la nueva Legislatura, con indicación del número que le corresponda así como declarando abierto su primer periodo ordinario de sesiones.
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 En la sesión solemne a que se refiere el párrafo anterior, el presidente exhortará a los reunidos a ponerse de pie y, hecho que fuere, rendirá su protesta en los siguientes términos:
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+
 "Protesto guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, cuidando en todo momento por el bien y la prosperidad de la República y del Estado".
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 Después, tomará la protesta al resto de los diputados, instándolos a que se pongan de pie ante la presidencia, interrogándolos de la siguiente forma:
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+
 "Ciudadanos: ¿Protestáis guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de diputado que el pueblo os ha conferido, cuidando en todo momento por el bien y la prosperidad de la República y del Estado?"
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+
 Los interpelados, salvo el caso de imposibilidad física, extenderán hacia adelante el brazo derecho con la palma de la mano hacia abajo contestando: "¡Sí, protesto!"
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 El presidente los amonestará en la siguiente forma:
 
 "Si así no lo hiciereis, la República y el Estado os lo demanden."
 
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+
 A los diputados que contestaren negativamente la interpelación del presidente se les tendrá por renunciada la elección, llamándose a los suplentes a quienes se les tomará la protesta de inmediato si se encontraren en el acto.
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
 Posteriormente, el presidente del Congreso lo declarará solemnemente instalado y abierto su Primer Período Ordinario de Sesiones.
 
@@ -321,11 +339,11 @@ VII.- Por renuncia.
 
 El órgano de dirección del Congreso estará integrado por un Presidente, dos Vicepresidentes, dos Secretarios y dos Prosecretarios, que durarán en su encargo todo el período de que se trate. Este órgano se denominará mesa directiva y su integración reflejará la composición plural del Congreso.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
 
 ###### Art. 26.
 
-La Mesa Directiva se elegirá por el voto de la mayoría de los presentes, diez días antes de cada período ordinario de sesiones en junta previa que con ese solo objeto celebre el Congreso. Las juntas previas serán convocadas por el presidente de la Diputación Permanente. Los diputados electos para integrar la Mesa Directiva entrarán en funciones sin mayor formalidad.
+La Mesa Directiva se elegirá por el voto de la mayoría de los presentes, dentro de los diez días anteriores a cada período ordinario de sesiones en junta previa que con ese objeto celebre el Congreso.
 
 Los nombramientos de los integrantes de una nueva Mesa Directiva serán dados a conocer por la anterior a los Poderes Ejecutivo y Judicial del Estado, a las demás legislaturas de las Entidades Federativas y a las Cámaras del Congreso de la Unión. El decreto se publicará en el Periódico Oficial.
 
@@ -467,11 +485,11 @@ Los Prosecretarios auxiliarán a los Secretarios en el desempeño de sus funcion
 
 ### CAPITULO IV. DE LA DIPUTACION PERMANENTE
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
 
 ###### Art. 34.
 
-La Diputación Permanente se integrará por cinco diputados con el carácter de propietarios y otros dos como sustitutos. De los diputados propietarios se nombrará Presidente, Vicepresidente y Secretario. Los sustitutos sólo entrarán en funciones cuando falten temporal o definitivamente aquellos.
+La Diputación Permanente se integrará por cinco Diputados con el carácter de propietarios y otros dos como sustitutos. De los Diputados Propietarios, se nombrará al Presidente, al Vicepresidente, al Secretario y a los dos vocales. Los sustitutos sólo entrarán en funciones cuando falten temporal o definitivamente aquéllos.
 
 La Diputación Permanente será nombrada por el Congreso en la última sesión del Período Ordinario, por mayoría absoluta de votos. En su integración se procurará reflejar la composición plural del Congreso.
 
@@ -1832,3 +1850,7 @@ P.O. 15 DE FEBRERO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
