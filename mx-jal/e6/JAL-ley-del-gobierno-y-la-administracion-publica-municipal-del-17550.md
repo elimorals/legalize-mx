@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2001-04-21"
+last_updated: "2001-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -515,7 +515,9 @@ I. Son sesiones ordinarias, por regla general, todas las sesiones del Ayuntamien
 
 II. Son sesiones extraordinarias las que se celebran para tratar asuntos urgentes relacionados con la atención de los servicios públicos indispensables para la población y aquellas que se efectúen para elegir al Presidente Municipal en los casos previstos en esta ley; y
 
-III. Son sesiones solemnes las que determine el Ayuntamiento para la conmemoración de aniversarios históricos; aquellas en que concurran representantes de los poderes de la Federación o del Estado, o personalidades distinguidas de los Estados de la República u otros países.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. Son sesiones solemnes las que se celebran para la conmemoración de aniversarios históricos y para la realización de aquellos actos o ceremonias análogas en importancia, cuando así lo determine el Ayuntamiento; y aquellas en que concurran representantes de los Poderes de la Federación o del Estado, personalidades distinguidas de los Estados de la República u otros países.
 
 ###### Artículo 30.
 
@@ -587,7 +589,11 @@ X. Los demás casos que señalen la presente ley y otras leyes.
 
 Son obligaciones de los Ayuntamientos, las siguientes:
 
-I. Enviar al Congreso del Estado, las iniciativas de sus leyes de ingresos antes del día 31 de Agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año inmediato anterior actualizada a la inflación de acuerdo con el Indice Nacional de Precios al Consumidor. Los Ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+I. Presentar al Congreso del Estado, las iniciativas de sus leyes de ingresos antes del día 31 de Agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los Ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas.
+
+Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
 
@@ -1039,7 +1045,9 @@ Para los efectos de la fracción IV del artículo 115 de la Constitución Polít
 
 I. Las contribuciones sobre la propiedad inmobiliaria, incluyendo tasas adicionales que establezca el Congreso del Estado, de su fraccionamiento, división, consolidación, translación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
 
-Los Ayuntamientos en el ámbito de su competencia pueden proponer al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
+Los Ayuntamientos en el ámbito de su competencia deben proponer al Congreso del Estado las cuotas y las tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
 II. Las participaciones federales que sean cubiertas por la Federación a los municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado; y
 
@@ -1215,7 +1223,9 @@ I. Se debe justificar que la enajenación responde a la ejecución de un program
 
 II. En el caso de venta, realizar un avalúo por perito autorizado, para determinar el precio mínimo de venta; y
 
-III. Que la enajenación se haga en subasta pública al mejor postor.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. Que la enajenación se haga en subasta pública al mejor postor, salvo que por las circunstancias que rodeen al acto, el Ayuntamiento decida por mayoría calificada cualquier otro procedimiento de enajenación.
 
 ###### Artículo 89.
 
@@ -1727,19 +1737,35 @@ IV. El Servidor Público encargado de la secretaría del Ayuntamiento;
 
 V. El funcionario encargado de la Hacienda Municipal;
 
-VI. Los demás servidores públicos municipales señalados para tal efecto por los reglamentos municipales.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+VI. Los demás servidores públicos municipales señalados para tal efecto por la ley estatal en materia de responsabilidades o los reglamentos municipales.
 
 ###### Artículo 145.
 
 La declaración de situación patrimonial debe presentarse en los plazos y términos que al efecto señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
 ###### Artículo 146.
 
-En caso de incumplimiento de las obligaciones consignadas en los artículos de este capítulo, el Ayuntamiento debe exhortar al omiso para que, en un término de veinte días, cumpla con su obligación. Si transcurrido dicho término no cumple, se debe determinar su destitución en el empleo, cargo o comisión.
+En caso de incumplimiento de las obligaciones consignadas en los artículos de este capítulo, el Ayuntamiento debe exhortar al omiso para que, en un término de quince días, cumpla con su obligación. Si transcurrido dicho término no cumple, se debe determinar su destitución en el empleo, cargo o comisión.
 
 ###### Artículo 147.
 
 Para efectos de registro y control, el Ayuntamiento debe remitir al órgano competente del Congreso del Estado, las declaraciones de situación patrimonial que le sean presentadas.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
+
+Al renovarse los Ayuntamientos, éstos deben remitir un padrón de servidores públicos municipales obligados a presentar declaración patrimonial.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
+
+Los Ayuntamientos deben informar al Congreso del Estado de cualquier movimiento en el citado padrón, dentro de los quince días siguientes a que se efectúe el movimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
+
+Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos.
 
 T R A N S I T O R I O S
 
@@ -1762,6 +1788,10 @@ SEXTO. La Ley Orgánica Municipal continuará vigente respecto a las atribucione
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2001)</small>
 
 SÉPTIMO. Lo dispuesto por la presente Ley, se aplicará a los Síndicos, con excepción de las facultades conferidas por el artículo 53 en sus fracciones I, II, y III hasta en tanto sean electos, de conformidad a lo dispuesto por la Ley Electoral del Estado de Jalisco, momento a partir del cual, se les aplicará la presente Ley en su totalidad. Para efecto de lo anterior a los Síndicos de los Ayuntamientos que se desempeñan en el actual periodo Constitucional 2000-2003, se les considera como servidores públicos de la Administración Pública Municipal, más no como integrantes del Organo de Gobierno.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2001)</small>
+
+OCTAVO. Todos los actos, trámites y procedimientos que se hayan iniciado bajo la vigencia de la Ley Orgánica Municipal del Estado de Jalisco, continuarán desahogándose de conformidad con la Ley Orgánica Municipal del Estado de Jalisco.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -1822,3 +1852,7 @@ P.O. 21 DE ABRIL DE 2001.
 DECRETO 18990.
 
 ÚNICO.- El presente decreto entrará en vigor el mismo día en que entre en vigor la ley del Gobierno y la Administración Pública Municipal, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2001.
+
+ÚNICO. El presente decreto que contiene reformas a la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
