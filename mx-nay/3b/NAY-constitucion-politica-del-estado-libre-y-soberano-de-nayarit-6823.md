@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1938-01-05"
+last_updated: "1938-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -867,11 +867,11 @@ Los Jueces de Primera Instancia, los Menores y de Paz, y los demás empleados de
 
 Los Partidos Judiciales del Estado continúan divididos en la misma forma y condiciones en que han estado hasta hoy, a reserva de lo que disponga la ley orgánica judicial
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1937)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1938)</small>
 
 ###### Art. 89.
 
-Mientras se expidan los Códigos Civil y de Procedimientos Civiles, el de Procedimientos Penales y demás Leyes o disposiciones judiciales propias del Estado, quedan vigentes las que actualmente rigen en el Distrito Federal con sus adiciones y reformas, exceptuándose las disposiciones concernientes para los menores, por existir en el Estado la Ley de Tribunales para Menores e Incapacitados, así como lo relativo al recurso de casación que no podrá ser interpuesto.
+Para el Ramo de Justicia podrán adoptarse los Códigos y Leyes Orgánicas del Distrito Federal o de alguna de las Entidades de la Unión, mediante Decreto del Congreso y sin necesidad de publicarse en el Periódico Oficial del Estado.
 
 ###### Art. 90.
 
@@ -1308,3 +1308,23 @@ El artículo Segundo del presente Decreto que reforma el artículo 89 de la Cons
 P.O. 5 DE ENERO DE 1938
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+P.O. 12 DE ENERO DE 1938.
+
+1o. El Artículo Primero del presente Decreto, que reforma el 89 de la Constitución Local, entrará en vigor desde la fecha de su publicación.
+
+2o. El Artículo Segundo que adopta los Códigos Civil, de Procedimientos Civiles, Penal y de Procedimientos Penales, entrará en vigor el día primero de julio de mil novecientos treinta y ocho.
+
+3o. Las disposiciones del Código Civil que se adopta, regirán los efectos jurídicos de los actos anteriores a su vigencia si con su aplicación no se violan derechos adquiridos.
+
+4o. La capacidad Jurídica de las ersonas (sic) se rige por el mismo Código Civil.
+
+Los Tutores y Albaceas ya nombrados, deberán garantizar su manejo antes del día treinta de septiembre de mil novecientos treinta y ocho.
+
+5o. Las disposiciones del Código Civil de 1884 sobre el Registro Público y su Reglamento, seguirán aplicándose en todo lo que no sean contrarias al Código que se adopta.
+
+6o. Los hechos ejecutados durante la vigencia del antiguo Código Penal, serán juzgados conforme a él, a menos que los acusados expresen su voluntad de acogerse a las prevenciones del que se adopta.
+
+7o. Los recursos pendientes al entrar en vigor los Códigos de Procedimientos Civiles y de Procedimientos Penales que se adoptan, se substanciarán conforme a sus disposiciones.
+
+En la computación de términos pendientes al entrar en vigor los Códigos a que se refiere este Artículo, se estará a las disposiciones de aquellos que los señalen más amplios.
