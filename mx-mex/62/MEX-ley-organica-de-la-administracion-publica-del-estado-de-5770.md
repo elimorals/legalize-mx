@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1987-09-14"
+last_updated: "1989-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 1989.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -131,9 +131,11 @@ Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
-III. Secretaría de Planeación;
+II. Secretaría de Finanzas y Planeación.
+
+III. (DEROGADA, P.O. 11 DE OCTUBRE DE 1989)
 
 IV. Secretaría del Trabajo;
 
@@ -146,6 +148,10 @@ VII. Secretaría de Desarrollo Agropecuario;
 VIII. Secretaría de Desarrollo Económico;
 
 IX. Secretaría de Administración;
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1989)</small>
+
+X. Secretaría de la Contraloría.
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
@@ -207,7 +213,7 @@ XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notaria
 
 XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
 
-XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
+XXV. Ejecutar por Acuerdos del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
 
 XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
 
@@ -221,103 +227,93 @@ XXIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 Para auxiliar al Secretario de Gobierno y para suplirlo en sus ausencias temporales, habrá dos Subsecretarías de Gobierno, las que tendrán las atribuciones, funciones y obligaciones que el Secretario de Gobierno o en su caso, el ejecutivo del Estado les designe.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+
 ###### Artículo 23.
 
-La Secretaría de Finanzas es el órgano encargado de la Administración Financiera y Tributaria de la Hacienda Pública del Estado.
+La Secretaría de Finanzas y Planeación es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo y de la Administración financiera y tributaria de la hacienda pública del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 24.
 
-A la Secretaría de Finanzas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Planeación, corresponde el despacho de los siguientes asuntos.
 
-I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del Estado.
+I. Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad económica y financiera del Estado, así como para la actividad fiscal y tributaria estatal.
 
-II. Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado;
+II. Recaudar los impuestos, derechos, aportaciones de mejoras, productos y aprovechamientos, que correspondan al Estado; y las contribuciones federales y municipales en los términos de los convenios suscritos.
 
-III. Vigilar el cumplimiento de las Leyes, Reglamentos y demás disposiciones de carácter fiscal, aplicables en el Estado.
+III. Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y de más (sic) de su ramo, aplicables en el Estado.
 
-IV. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal.
+IV. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, con los gobiernos municipales y con organismos auxiliares.
 
-V. Presentar al Ejecutivo el proyecto de Ley de Ingresos.
+V. Formular y presentar al Ejecutivo, los proyectos de Ley de Ingresos, del presupuesto de egresos y el programa general del gasto público.
 
 VI. Practicar revisiones y auditorías a los causantes.
 
-VII. Formular mensualmente los estados financieros de la Hacienda Pública, presentando anualmente al Ejecutivo, en la primera quincena del mes de enero, un informe pormenorizado del ejercicio fiscal anterior.
+VII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Ejecutivo, en la primera quincena del mes de enero, un informe pormenorizado del ejercicio fiscal anterior.
 
 VIII. Ejercer la facultad económico-coactiva conforme a las leyes relativas.
 
-IX. Vigilar que se lleve al corriente el padrón fiscal de causantes.
+IX. Vigilar que se lleve al corriente el padrón fiscal de contribuyentes.
 
-X. Cuidar que los empleados que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo en los términos que determine la Ley.
+X. Cuidar que los empleados que manejen fondos del Estado otorguen fianza suficiente para garantizar su manejo en los términos que determine la ley.
 
-XI. Custodiar los documentos que constituyen valores del Estado.
+XI. Dictar las normas relacionadas con el manejo de fondos y valores de las dependencias, organismos auxiliares y fideicomisos del Estado, así como custodiar los documentos que constituyen valores, acciones y demás derechos que formen parte del patrimonio del Estado.
 
-XII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado, informando al Gobernador periódicamente sobre el estado de las amortizaciones de capital y pago de intereses.
+XII. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado; y vigilar y registrar la de los municipios, informando al Gobernador periódicamente, sobre el estado de las amortizaciones de capital y pago de intereses.
 
-XIII. Controlar las actividades de todas sus oficinas recaudadoras locales y foráneas.
+XIII. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de todas sus oficinas recaudadoras, locales y foráneas
 
-XIV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular mensualmente el Estado de origen y aplicación de los recursos financieros y tributarios del Estado.
+XIV. Efectuar los pagos conforme a los programas y presupuestos aprobados y formular mensualmente el estado de origen y aplicación de los recursos financieros y tributarios del Estado.
 
 XV. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda.
 
-XVI. Proporcionar la asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado que le sea solicitada por los ayuntamientos y los particulares y realizar una labor permanente de difusión y orientación fiscal.
+XVI. Proporcionar asesoría, en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por los particulares y las autoridades federales, estatales y municipales.
 
-XVII. Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la Hacienda Pública del Estado.
+Difundir permanentemente y publicar anualmente las disposiciones fiscales estatales y municipales.
 
-XVIII. Tramitar y resolver los recursos administrativos en la esfera de su competencia.
+XVII. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en los juicios de carácter fiscal que se ventilen ante cualquier tribunal cuando tenga interés la hacienda pública del Estado.
 
-XIX. Administrar el catastro de la entidad en conformidad a lo establecido en las leyes respectivas.
+XVIII. Fijar las políticas, normas y lineamientos generales en materia de catastro, de acuerdo con las leyes respectivas.
 
-XX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+XIX. Elaborar con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo el plan estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
+
+XX. Establecer la coordinación de los programas de desarrollo socioeconómico del gobierno del Estado, con los de la administración pública federal y la de los municipios de la entidad, promoviendo la participación en los mismos de los sectores social y privado.
+
+XXI. Diseñar, implantar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de la administración pública del Estado, asesorando y apoyando a las dependencias y organismos auxiliares en la integración de sus programas específicos.
+
+XXII. Vigilar que los programas de inversión de las dependencias del Ejecutivo y sus organismos auxiliares, se realicen conforme a los objetivos de los planes de desarrollo aprobados.
+
+XXIII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y egresos de sus organismos auxiliares.
+
+XXIV. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
+
+XXV. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
+
+XXVI. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa del Congreso del Estado.
+
+XXVII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado.
+
+XXVIII. Intervenir en el otorgamiento de los subsidios que concede el Gobierno del Estado a los municipios, instituciones o particulares, con objeto de comprobar que la inversión se efectúe en los términos establecidos.
+
+XXIX. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para elaboración de sus planes y programas de desarrollo económico y social.
+
+XXX. Integrar y mantener actualizada la información geográfica y estadística de la entidad.
+
+XXXI. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la entidad.
+
+XXXII. Vigilar que el desarrollo económico y social de la entidad sea armónico, para que beneficie en forma equitativa a las diferentes regiones del Estado, evaluando periódicamente los resultados obtenidos, en términos simples y comprensibles.
+
+XXXIII. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 25.
 
-La Secretaría de Planeación es el órgano encargado de dirigir la planeación, programación, presupuestación y evaluación de las actividades del Ejecutivo del Estado.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
 
 ###### Artículo 26.
 
-A la Secretaría de Planeación corresponde el despacho de los siguientes asuntos:
-
-I. Elaborar con la participación de los dependencias y organismos auxiliares del Poder Ejecutivo el Plan Estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
-
-II. Establecer la coordinación de los programas de Desarrollo Socioeconómico del Gobierno del Estado con los de la Administración Pública Federal y los de los municipios de la entidad.
-
-III. Promover la participación de los sectores social y privado del Estado en la formulación de los planes y programas de desarrollo socioeconómico.
-
-IV. Estudiar y formular los proyectos de Leyes, Decretos, Reglamentos y demás disposiciones relativas a la planeación, programación, presupuestación y evaluación de la actividad económica en el Estado.
-
-V. Diseñar, implementar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de la administración pública del Estado, asesorando y apoyando a las dependencias y organismos auxiliares en la integración de sus programas específicos.
-
-VI. Vigilar que los programas de inversión de las dependencias del Ejecutivo y sus organismos auxiliares, se realicen conforme a los objetivos de los planes de desarrollo aprobados.
-
-VII. Proyectar y calcular los egresos del Gobierno del Estado y los ingresos y egresos de sus organismos auxiliares.
-
-VIII. Formular el programa general del gasto público y el proyecto del presupuesto de egresos del Gobierno del Estado.
-
-IX. Planear, autorizar, coordinar, vigilar y evaluar los programas de inversión pública de las dependencias del Ejecutivo y de sus organismos auxiliares.
-
-X. Controlar, vigilar y evaluar, de conformidad con las leyes respectivas, el ejercicio del gasto público y del presupuesto de egresos del Gobierno del Estado.
-
-XI. Establecer y llevar los sistemas de contabilidad gubernamental y de estadística general del Gobierno del Estado.
-
-XII. Hacer la glosa preventiva de los ingresos y egresos del Gobierno del Estado, elaborar la cuenta pública y mantener las relaciones con la Contaduría General de Glosa del Congreso del Estado.
-
-XIII. Registrar y normar los actos y contratos de los que resulten derechos y obligaciones para el Gobierno del Estado, con excepción de los mencionados en la Fracción XII del Artículo 24 de esta Ley.
-
-XIV. Dictar las medidas administrativas sobre responsabilidades que afecten la Hacienda Pública del Estado en el ejercicio del gasto.
-
-XV. Controlar y vigilar financiera y administrativamente la operación de los organismos auxiliares que no estén expresamente encomendados a otra dependencia.
-
-XVI. Intervenir en el otorgamiento de los subsidios que conceda el Gobierno del Estado a los municipios, instituciones o particulares; con objeto de comprobar que la inversión se efectúe en los términos establecidos.
-
-XVII. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo económico y social.
-
-XVIII. Integrar y mantener actualizada la información geográfica y estadística de la entidad.
-
-XIX. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre el Gobierno del Estado en materia de planeación, programación, supervisión y evaluación del desarrollo de la entidad.
-
-XX. Vigilar que el desarrollo económico y social de la entidad sea armónico, para que beneficie en forma equitativa a las diferentes regiones del Estado, evaluando periódicamente los resultados obtenidos, en términos simples y comprensibles.
-
-XXI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 11 DE OCTUBRE DE 1989)
 
 ###### Artículo 27.
 
@@ -575,6 +571,62 @@ XVIII. Elaborar con el concurso de las demás dependencias del ejecutivo, los ma
 
 XIX. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 1989)</small>
+
+###### Artículo 38 Bis.
+
+La Secretaría de la Contraloría es la dependencia encargada de la vigilancia, fiscalización y control de los ingresos, gastos, recursos y obligaciones de la administración pública estatal y su sector auxiliar, así como lo relativo a la manifestación patrimonial y responsabilidades de los servidores públicos.
+
+A la propia Secretaría, le corresponde el despacho de los siguientes asuntos:
+
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación gubernamental.
+
+II. Fiscalizar e inspeccionar el ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos.
+
+III. Formular y expedir las normas y criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración pública estatal. La Secretaría discrecionalmente podrá requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de sus facultades de control.
+
+IV. Vigilar y supervisar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+
+V. Establecer y dictar las bases generales para la realización de auditorías e inspecciones en las dependencias, organismos auxiliares y fideicomisos de carácter estatal, así como realizar las que se requieran en substitución o apoyo de sus propios órganos de control.
+
+VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
+
+VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos contenidos en sus programas.
+
+VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
+
+IX. Vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
+
+X. Fiscalizar los recursos federales derivados de los acuerdos o convenios respectivos, ejercidos por las dependencias y fideicomisos de la administración pública estatal.
+
+XI. Vigilar, en la esfera de su competencia, el cumplimiento de las obligaciones de proveedores y contratistas adquiridas con el Ejecutivo del Estado, solicitándoles la información relacionada con las operaciones que realicen, y fincar las deductivas y responsabilidades que en su caso procedan.
+
+XII. Opinar previamente a su expedición sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, que elaboren las secretarías de Administración y de Finanzas y Planeación, así como sobre las normas en materia de contratación de deuda que formule esta última.
+
+XIII. Designar a los auditores externos de los organismos auxiliares y fideicomisos, normar y controlar su actividad y proponer al titular del Ejecutivo la designación de comisarios en los Consejos o Juntas de Gobierno y Administración de los mismos.
+
+XIV. Opinar sobre el nombramiento y en su caso solicitar la remoción de los titulares de las áreas de control de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+
+XV. Coordinarse con la Contaduría General de Glosa del Poder Legislativo, para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades.
+
+XVI. Informar anualmente al titular del Ejecutivo del Estado, respecto del resultado de la evaluación de las dependencias, organismos auxiliares y fideicomisos de la administración publica estatal, que hayan sido objeto de fiscalización. Asimismo, informar a la Secretaría de la Contraloría General de la Federación de la evaluación de los programas que manejen o involucren recursos federales, en los términos de los acuerdos o convenios respectivos.
+
+XVII. Recibir y registrar la manifestación de bienes de los servidores públicos del Estado y municipios y verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás disposiciones legales aplicables.
+
+XVIII. Atender y dar seguimiento a las denuncias y quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal.
+
+XIX. Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas y, en su caso, ordenar se hagan las denuncias correspondientes ante el Ministerio Público, proporcionándole los datos e información que requiera.
+
+XX. Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal, aplicándoles las correcciones que correspondan y formular las denuncias o querellas, acusaciones o quejas de naturaleza administrativa o penal, en caso necesario.
+
+XXI. Intervenir para efectos de verificación en las actas de entrega-recepción de las unidades administrativas de las dependencias, organismos auxiliares y fideicomisos del Ejecutivo.
+
+XXII. Establecer medidas y mecanismos de modernización administrativa, tendientes a lograr la eficacia de la vigilancia, fiscalización y control de gasto público estatal.
+
+XXIII. Brindar asesoría y apoyo técnico a los órganos de control interno del gasto público municipal, cuando así lo soliciten.
+
+XXIV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+
 ###### Artículo 39.
 
 La Procuraduría General de Justicia es el órgano encargado del Ministerio Público y de prestar consejo jurídico al Gobierno del Estado.
@@ -657,7 +709,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno.-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Lic. Lorenzo Vera Osorno.-Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -690,3 +742,29 @@ P.O. 14 DE SEPTIEMBRE DE 1987
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno " del Estado.
+
+P.O. 11 DE OCTUBRE DE 1989
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las contenidas en este decreto.
+
+###### ARTICULO TERCERO.
+
+Cuando en otros ordenamientos legales, se aluda a la Secretaría de Finanzas, se entenderá que se trata de la Secretaría de Finanzas y Planeación.
+
+###### ARTICULO CUARTO.
+
+Cuando en algún ordenamiento legal, se establezcan atribuciones a la Secretaría de Planeación, se entenderán concedidas, según corresponda a las Secretarías de Finanzas y Planeación y de la Contraloría, en términos de este decreto.
+
+###### ARTICULO QUINTO.
+
+El Ejecutivo del Estado proveerá lo necesario para la transferencia de las partidas presupuestales, recursos materiales y humanos que correspondían a la Secretaría de Planeación, a las dependencias a que alude este decreto, para el eficaz cumplimiento de sus atribuciones.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que al entrar en vigor este decreto se encuentren en trámite, se continuarán por la dependencia a la que se asignen las atribuciones correspondientes en términos del mismo.
