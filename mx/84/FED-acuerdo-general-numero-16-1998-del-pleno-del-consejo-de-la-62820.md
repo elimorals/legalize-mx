@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-07-13"
+last_updated: "2000-08-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION:13 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -263,11 +263,13 @@ XV.- DECIMO QUINTO CIRCUITO:
 
 1.- Tres tribunales colegiados con sede en la ciudad de Mexicali.
 
-2.- Cinco tribunales unitarios: tres con residencia en la ciudad de Mexicali y dos con sede en la ciudad de Tijuana.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+2.- Cinco tribunales unitarios: dos con residencia en la ciudad de Mexicali y tres con sede en la ciudad de Tijuana.
 
-3.- Diez juzgados de distrito: tres con residencia en la ciudad de Mexicali, seis con sede en la ciudad de Tijuana y uno con residencia en la ciudad de Ensenada.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 45/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE AGOSTO DE 2000)</small>
+
+3.- Doce juzgados de distrito: cuatro con residencia en la ciudad de Mexicali, seis con sede en la ciudad de Tijuana y dos con residencia en la ciudad de Ensenada.
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
@@ -583,15 +585,17 @@ Los Juzgados Segundo y Tercero de Distrito en el Estado de Quintana Roo, con res
 
 XV.- DECIMO QUINTO CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio de Mexicali del Estado de Baja California y por el Municipio de San Luis Río Colorado del Estado de Sonora.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 45/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE AGOSTO DE 2000)</small>
+
+Los Juzgados Primero, Segundo, Tercero y Decimosegundo de Distrito en el Estado de Baja California, con residencia en la ciudad de Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio de Mexicali del Estado de Baja California y por el Municipio de San Luis Río Colorado del Estado de Sonora.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
 Los Juzgados Cuarto, Quinto, Sexto, Séptimo, Octavo y Noveno de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Playas de Rosarito, Tecate y Tijuana.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 40/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 44/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE AGOSTO DE 2000)</small>
 
-El Juzgado Décimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Ensenada, ejercerá jurisdicción territorial en el distrito judicial conformado por el Municipio del mismo nombre.
+Los Juzgados Décimo y Decimoprimero de Distrito en el Estado de Baja California, con residencia en la ciudad de Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el Municipio del mismo nombre.
 
 XVI.- DECIMO SEXTO CIRCUITO:
 
@@ -1016,5 +1020,29 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 D.O.F. 13 DE JULIO DE 2000.
 
 PRIMERO.- Este Acuerdo entrará en vigor el uno de agosto de dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 44/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 45/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el dieciocho de agosto de dos mil.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
