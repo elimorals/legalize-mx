@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2001-10-12"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ
 
-LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS, CÓDIGOS U ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL QUE SE EXPIDAN, PROMULGUEN O PUBLIQUEN CON POSTERIORIDAD AL INICIO DE LA VIGENCIA DEL PRESENTE DECRETO DE REFORMA CONSTITUCIONAL, SE AÑADIRÁ LA EXPRESIÓN: "...ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]</small>
 
-TEXTO ORIGINAL.
+LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -39,7 +41,7 @@ LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y S
 
 Ley Número 29
 
-DE PREMIOS DEL ESTADO DE VERACRUZ
+DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DE LOS PREMIOS
 
@@ -250,3 +252,23 @@ Atentamente
 Sufragio efectivo. No reelección.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
