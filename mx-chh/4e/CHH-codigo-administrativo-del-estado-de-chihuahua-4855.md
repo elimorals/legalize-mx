@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1988-10-05"
+last_updated: "1988-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3255,9 +3255,9 @@ e).- Un notario en funciones, que será elegido por la mayoría de los otros mie
 
 Por cada Comisionado Propietario habrá un Suplente.
 
-Dentro de los últimos diez días del mes de noviembre anterior al año de las elecciones ordinarias, el Gobernador del Estado y el Congreso Local harán la designación de sus Comisionados, quienes en el plazo señalado en unión del Director de Gobernación, invitarán a los partidos políticos a que se refiere este artículo para que acrediten a sus representantes ante la Comisión Estatal Electoral a más tardar el día quince de diciembre.
+> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
 
-La Comisión así integrada, iniciará sus labores antes del día diez del mes de enero del año de las elecciones.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
@@ -4045,11 +4045,11 @@ Ningún ciudadano podrá aceptar o propagar su candidatura para desempeñar los 
 
 El proceso electoral comprende el conjunto de decisiones, tareas y actividades que realicen los organismos electorales, los partidos políticos y los ciudadanos, con objeto de integrar los órganos de representación popular.
 
-El proceso electoral se inicia en el mes de noviembre del año anterior a la elección ordinaria y concluye en el mes de septiembre del año de la elección.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
 
 Las fases básicas de dicho proceso son:
 
-I.- Comprobar durante los meses de noviembre, diciembre y enero la debida integración y funcionamiento de los organismos electorales;
+I.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 1988)
 
 II.- Establecer a partir del mes de febrero el número de circunscripciones territoriales y sede de las secciones electorales;
 
@@ -11853,19 +11853,19 @@ Las demás sanciones administrativas deberán aplicarse por el Ejecutivo de acue
 
 Los trabajadores de base responderán también, conforme a las leyes aplicables, de las responsabilidades civiles y penales en que puedan incurrir, estando obligados a indemnizar los daños y perjuicios que causen tanto a los particulares como en las propiedades del Estado.
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA TERCERA PARTE
-
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
 
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA TERCERA PARTE
+
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11899,6 +11899,10 @@ El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de la
 
 La cuestión de competencia se tramitará por la Secretaría General de Gobierno, dando un plazo de cinco días a las partes en conflicto para que expongan sus puntos de vista. Presentados éstos o transcurrido el término indicado, el Secretario General de Gobierno acordará con el Gobernador los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
 
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA CUARTA PARTE
+
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1636.
@@ -11917,11 +11921,11 @@ En los casos en que este Código no haya establecido recurso alguno para impugna
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11973,7 +11977,7 @@ La resolución del Gobernador deberá ir firmada también por el Secretario Gene
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11999,10 +12003,6 @@ IV.- La resolución deberá contener las consideraciones legales que la funden o
 
 V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose una copia de la misma a las dependencias competentes para que procedan inmediatamente a darle el debido cumplimiento.
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA CUARTA PARTE
-
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
@@ -12013,7 +12013,7 @@ DECIMA CUARTA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12065,7 +12065,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12920,3 +12920,9 @@ P.O. 5 DE OCTUBRE DE 1988.
 > <small>(F. DE E., P.O. 12 DE OCTUBRE DE 1988)</small>
 
 ARTICULO TRANSITORIO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en la Capital del Estado y 20 días después de su publicación en las demás poblaciones de la entidad.
+
+P.O. 19 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
