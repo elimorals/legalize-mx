@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1934-01-17"
+last_updated: "1934-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1934.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -729,13 +729,13 @@ VI. Descontar por ningún motivo sueldos a los funcionarios o Empleados, si no e
 
 ###### Artículo 67.
 
-Para el despacho de los negocios oficiales del Ejecutivo del Estado habrá un Secretario General.
+Para el despacho de los negocios oficiales del Ejecutivo del Estado, habrá un Secretario General y un Sub-Secretario.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1934)</small>
 
 ###### Artículo 68.
 
-Para ser Secretario General de Gobierno se requiere:
-
-Ser Ciudadano del Estado, en ejercicio de sus derechos, tener treinta años de edad, los conocimientos necesarios y no pertenecer al estado eclesiástico.
+Para ser Secretario General de Gobierno y Subsecretario, se requiere: ser Ciudadano originario del Estado en ejercicio de sus derechos, tener los conocimientos necesarios y no pertenecer al estado eclesiástico.
 
 ###### Artículo 69.
 
@@ -755,6 +755,8 @@ De la reforma e inviolabilidad de la Constitución.
 
 De la Secretaría General y del Consejo de Gobierno.
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1934)</small>
+
 ###### Artículo 71.
 
 El Secretario General de Gobierno, formará el reglamento interior de la Secretaría; señalando la planta de los empleados de ella. Dicho reglamento para que surta sus efectos, será previamente aprobado por el Gobernador.
@@ -763,9 +765,11 @@ El Secretario General de Gobierno, formará el reglamento interior de la Secreta
 
 Siendo Abogado no podrá ejercer su profesión, en negocios agenos (sic).
 
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1934)</small>
+
 ###### Artículo 73.
 
-Las faltas temporales del Secretario General serán suplidas por el Subsecretario con la misma responsabilidad y prerrogativas de aquél.
+Las ausencias temporales del Secretario General serán suplidas por el Subsecretario, y las de éste en funciones de Secretario, por el Jefe del Departamento de Gobernación.
 
 ###### Artículo 74.
 
@@ -1240,3 +1244,7 @@ P.O. 17 DE ENERO DE 1934.
 DECRETO NUMERO 47.
 
 Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 8 DE MARZO DE 1934.
+
+Este Decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el Periódico Oficial del Estado.
