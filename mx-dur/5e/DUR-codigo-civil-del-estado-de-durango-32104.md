@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1994-12-29"
+last_updated: "1996-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1996.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -603,7 +603,7 @@ ART. 127.- El Oficial del Registro levantará el acta correspondiente, en la que
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-ART. 128.- Cuando se recobre la capacidad legal para administrar bienes, se revoque la adopción ó la Tutela, se presente la persona declarada ausente ó cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda por conducto del mismo interesado para que cancele la Inscripción a que se refiere el Artículo 126.
+ART. 128.- Cuando se recobre la capacidad legal para administrar bienes, se revoque la adopción o la Tutela, se presente la persona declarada ausente ó cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda por conducto del mismo interesado para que cancele la Inscripción a que se refiere el Artículo 126.
 
 Las Actas a que se refiere el Artículo 127 contendrán el nombre, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la Sentencia, fecha de ésta y Tribunal que la dictó.
 
@@ -1277,7 +1277,7 @@ ART. 319.- Se presumen hijos de los cónyuges:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrario (sic), de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrario, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 ART. 320.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
 
@@ -2595,11 +2595,11 @@ ART. 716.- El Ministerio Público velará por los intereses del ausente, será o
 
 ### CAPITULO UNICO.
 
-ART. 717.- Son objeto del patrimonio de la familia:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
 
-I.- La casa habitación de la familia;
+ART. 717.- Son susceptibles de constituir el patrimonio de la familia:
 
-II.- en algunos casos, una parcela cultivable.
+Los bienes inmuebles, muebles y semovientes, que no rebasen la cuantía contenida en el Artículo 724 de este Código.
 
 ART. 718.- La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que le constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
@@ -2615,17 +2615,9 @@ ART. 722.- Sólo puede constituirse el patrimonio de la familia con bienes sitos
 
 ART. 723.- Cada familia sólo puede constituir un patrimonio. Los que constituyen subsistiendo el primero no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
 
-ART. 724.- El valor máximo de los bienes inmuebles afectos al patrimonio de la familia será de:
-
-I.- $ 500,000.00 para los Municipios de Durango, Gómez Palacio y Lerdo.
-
-II.- $ 300,000.00 para los Municipios de Guadalupe Victoria, Canatlán, Santiago Papasquiaro, Vicente Guerrero, El Oro y Cuencamé.
-
-III.- $ 150,000.00 para los demás Municipios del Estado.
-
-Para justificar los valores anteriormente ctados (sic) se atenderá a los fiscales registrados.
+ART. 724.- El valor máximo permitido en términos de ley, respecto de los bienes que conforman el patrimonio de la familia, será de 50 salarios mínimos generales vigentes en el Estado, elevados al año. El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente tampoco será embargable; pero el valor original y su incremento, si podrán disminuírse para encuadrarse dentro de los límites establecidos por este Código.
 
 ART. 725.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectos.
 
@@ -2639,7 +2631,9 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio.
 
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reporten gravámenes fuera de las servidumbres;
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en el artículo 724.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1996)</small>
+
+V.- Que el valor de los bienes destinados a constituír el patrimonio de la familia no exceda del máximo permitido en el Artículo 724. Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los muebles y los semovientes serán valuados mediante dictamen pericial.
 
 ART. 726.- Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
 
@@ -2671,7 +2665,11 @@ ART. 732.- La constitución del patrimonio de que trata el artículo 729, se suj
 
 ART. 733.- La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
-ART. 734.- Constituído el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipl (sic) del lugar en que esté constituido el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1996)</small>
+
+ART. 734.- Constituído que sea el patrimonio de la familia, ésta debe de habitar la casa y de aprovechar los bienes restantes que lo conforman.
+
+Del cumplimiento de habitar la casa, según lo dispuesto en el párrafo anterior, puede sustraerse la familia sin necesidad de declaratoria judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerden darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato o convenio pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome, recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
 
 ART. 735.- El patrimonio de la familia se extingue:
 
@@ -4837,7 +4835,7 @@ ART. 1486.- Tienen derecho a heredar por sucesión legítima:
 
 I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
 
-II.- A falta de los anteriores, la Beneficiencia (sic) Pública.
+II.- A falta de los anteriores, la Beneficencia (sic) Pública.
 
 ART. 1487.- El parentesco de afinidad no da derecho de heredar.
 
@@ -5673,7 +5671,7 @@ ART. 1777.- La acción para repetir lo pagado indebidamente prescribe en un año
 
 ART. 1778.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
-ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena (sic) costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena scostumbres (sic), no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
 ### CAPITULO IV.
 
@@ -5933,7 +5931,7 @@ ART. 1857.- En el caso del artículo anterior, si la eleccioón (sic) es del deu
 
 ART. 1858.- En los casos de los artículos que preceden, el acreedor está obligado al pago de los daños y perjuicios.
 
-ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
+ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor (sic) ésta podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
 
 ART. 1860.- Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
@@ -9418,3 +9416,7 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de
 P.O. 29 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
