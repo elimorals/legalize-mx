@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1937-01-31"
+last_updated: "1938-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 1938.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -143,9 +143,11 @@ Corresponden a la jurisdicción del Municipio de Tlalnepantla, los siguientes ce
 
 Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes centros de población: Acamilpa, Amador Salazar, Bonifacio García, Hidalgo, Huatecalco, Los Copales, Pueblo Nuevo, Temilpa, Temimilcingo, Ticumán, Tlaltizapan Cabecera del Municipio, Treinta y Zaragoza.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1938)</small>
+
 ###### Art. 25.
 
-Corresponden a la jurisdicción del Municipio de Tlaquiltenango, los siguientes centros de población: Ajuchitlán, Calabazal Coaxitlán, Chimalacatlán, Galeana, Huautla, Huaxtla, Huixaxtla, La Era, La Mezquitera, Los Elotes, Los Hornos, Nexpa Quilamula, Pala, Rancho Viejo, Santiopa, Tetelpa, Lorenzo Vázquez, Tlaquiltenango Cabecera del Municipio, Teocalcingo, Xicatlacotia, Xochipala y Zacatepec.
+Corresponden a la jurisdicción del Municipio de Tlaltizapán, los siguientes centros de población: Acamilpa, Amador Salazar, Barranca Honda, Bonifacio García, Hidalgo, Huatecalco, Los Copales, Pueblo Nuevo, Temilpa, Temimilcingo, Ticumán, Tlaltizapan, Cabecera del Municipio, Treinta y Zaragoza.
 
 ###### Art. 26.
 
@@ -212,3 +214,7 @@ Primero.- Para integrar el Consejo Municipal respectivo en el nuevo Municipio de
 Segundo.- Los ciudadanos designados como Regidores para integrar el H. Consejo Municipal relativo, tomarán posesión de sus cargos el día siguiente a la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado.
 
 Tercero.- Se convoca a Elecciones Extraordinarias en el Municipio de Tetela del Volcán, Morelos, las que se sujetarán a los términos y plazos que marca la Ley Electoral Municipal vigente y sus reformas, para las Elecciones Ordinarias, contándose desde la fecha en que empiece a funcionar el H. Concejo Municipal designado.
+
+P.O. 24 DE JULIO DE 1938.
+
+UNICO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del artículo 71 de la Constitución Política Local.
