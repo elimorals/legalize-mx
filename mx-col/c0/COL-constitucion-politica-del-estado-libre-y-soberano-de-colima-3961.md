@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1950-01-07"
+last_updated: "1951-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1951.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -835,9 +835,11 @@ El Procurador General durará en su encargo dos años.
 
 La Administración Municipal se ejerce:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1942)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1951)</small>
 
 I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años. Por cada Munícipe Propietario se elegirá un Suplente, no pudiendo ser nuevamente electos en ningún tiempo los ciudadanos que hayan desempeñado el cargo de Presidente Municipal por más de un año.
+
+En las Elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con derecho a votar y ser votadas.
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
@@ -1546,3 +1548,7 @@ P.O. 7 DE ENERO DE 1950.
 ###### Artículo 2º.
 
 Las presentes reformas entrarán en vigor el día de su pablicación (sic) en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JUNIO DE 1951.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Colima".
