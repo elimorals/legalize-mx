@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1942-12-24"
+last_updated: "1943-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1943.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -679,7 +679,7 @@ II.- Al que presentare testigos falsos o sobornados; sin perjuicio de la respons
 
 III.- Al que fuere condenado, en primera y segunda instancias, por dos sentencias conformes de toda conformidad;
 
-IV.- Al que fuere condenado en juicio ejecutivo o hipotecario, o en los interdictos de recuperar y de retener la posesión, y al que promueva alguno de estos juicios, si no obtiene sentencia favorable.
+IV.- Al que fuere condenado en juicio ejecutivo o hipotecario, o en los interdictos de recuperar y de retener la posesión, y al que promueva alguno de éstos juicios, si no obtiene sentencia favorable.
 
 ###### Art. 135.
 
@@ -5427,7 +5427,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -6587,7 +6587,7 @@ Al concederse la autorización se proveerá al menor de un tutor especial, confo
 
 ###### Art. 1345.
 
-Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hayan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
+Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hallan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
 
 Si antes de celebrarse éste se presentare el ascendiente o tutor, el juez revocará la licencia.
 
@@ -6758,3 +6758,11 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veintid�
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Campeche, a los veintitrés días del mes de diciembre del año de mil novecientos cuarenta y dos.- El Gobernador Constitucional del Estado, Dr. Héctor Pérez Martínez.- El Secretario General de Gobierno Interino, Lic. Francisco Alvarez Barret.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 5 DE ENERO DE 1943.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.</small>
+
+Artículo Unico.- El Código Civil del Estado a que se hace mención, comenzará a regir el día quince de los corrientes mes y año.
