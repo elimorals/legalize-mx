@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1934-02-01"
+last_updated: "1937-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1937.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -111,7 +111,9 @@ La calidad de ciudadano sinaloense se pierde:
 
 I. Por la pérdida de la calidad de ciudadano mexicano.
 
-II. Por residencia de más de dos años consecutivos fuera del Estado, salvo los casos de estudios, o comisión de la Federación, del Estado o de los Municipios.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
+
+II. Por residencia de más de dos años consecutivos fuera del Estado, cuando la ciudadanía se ha adquirido por vecindad, salvo los casos de estudios, empleo, cargo o comisión de la Federación, del Estado o de los Municipios.
 
 III. En los demás casos que expresamente lo prevengan las leyes.
 
@@ -131,9 +133,11 @@ V. Por disposición expresa de autoridad judicial en sentencia que haya causado 
 
 VI. En los demás casos que las leyes determinen.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 13.
 
-Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que prevenga la ley respectiva.
+Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
 
 ### CAPITULO III. DE LAS ELECCIONES
 
@@ -195,11 +199,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1930)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años.
+El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años, los que entrarán al ejercicio de su encargo el día primero de diciembre del año de su elección y no podrán ser reelectos para el período inmediato ni con el carácter de Suplentes, cuando sean propietarios.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -265,15 +269,17 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero comenzará el día 1o. de diciembre y terminará, el día 31 de marzo del siguiente año, y el segundo principiará el día 16 de junio y concluirá el 15 de agosto inmediato.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
 
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de uno y otros, antes del quince de septiembre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los auevos (sic). En el segundo período revisará la cuenta pública del Estado y la de los Municipios, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le corresponden.
+En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de unos y otros, antes del 5 de diciembre de cada año, a fin de que empiecen a regir desde el 1o. de enero inmediato; en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los nuevos. En el segundo período revisará la CUENTA PUBLICA DEL ESTADO y la de LOS MUNICIPIOS, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los Presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos, se ocupará, además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le correspondan.
 
 ###### Art. 38.
 
@@ -355,7 +361,7 @@ XV. Elegir Regidores Municipales substitutos en los casos que esta Constitución
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
-XVII. Proponer candidatos para el cargo de Magistrado de la Suprema Corte de Justicia de la Nación.
+XVII. (DEROGADA, P.O. 29 DE JUNIO DE 1937)
 
 XVIII. Recibir la protesta constitucional a los Diputados, al Gobernador y Magistrados del Supremo Tribunal de Justicia del Estado, y a los empleados de su nombramiento que conforme con las leyes, no deban otorgar la protesta de otro modo.
 
@@ -387,7 +393,7 @@ XXIX. Conceder amnistía por delitos políticos e indultos y conmutación de pen
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
-XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la ley.
+XXXI. Habilitar de edad a los menores que reúnan los requisitos exigidos por la ley.
 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
@@ -521,9 +527,11 @@ La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 56.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador del Estado, por elección popular, se requiere:
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -531,9 +539,9 @@ I. Ser ciudadano mexiceno (sic) por nacimiento y ciudadano sinaloense por nacimi
 
 II. Tener treinta años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
 
-III. Haber conservado su domicilio en el Estado, un año, al menos, inmediatamente antes de la elección.
+III. Haber conservado su domicilio en el Estado, un año al menos, inmediatamente antes de la elección; bastando para ser Gobernador Interino, Provisional o Substituto, la calidad de ciudadano sinaloense.
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
@@ -543,17 +551,19 @@ V. No haber sido Secretario General de Gobierno del Estado, Tesorero General del
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
 
-VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloense por vecindad, haya residido en el Estado continua e inmediatamente antes de la elección, cuando menos, veinte años, y que conserve su domicilio en el mismo durante los tres años últimos anteriores a la elección.
+VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloense por vecindad, haya residido cuando menos veinte años en el Estado y que conserve su domicilio en el mismo, durante el último año anterior a la fecha de la elección.
 
 ###### Art. 57.
 
 El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará cuatro años en su ejercicio y no será reelecto.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 58.
 
-Las faltas temporales del Gobernador del Estado serán cubiertas por un Gobernador Interino, que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si éste estuviera en receso al ocurrir la falta, la Diputación Permanente nombrará uno provisional y convocará al Congreso a sesiones extraordinarias para que éste ratifique la designación del Provisional o nombre uno Interino.
+Las faltas temporales del Gobernador del Estado, hasta por diez días, serán suplidas por el Secretario General de Gobierno, con el carácter de Encargado del Despacho, y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
 
 ###### Art. 59.
 
@@ -577,9 +587,11 @@ Si por cualquier motivo la elección ordinaria de Gobernador no estuviere hecha 
 
 El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 64.
 
-El Gobernador no podrá ausentarse del territorio del Estado, sin permiso del Congreso.
+El Gobernador no podrá ausentarse por más de diez días, del Territorio del Estado, sin permiso del Congreso o de la Diputación Permanente en su caso.
 
 ###### Art. 65.
 
@@ -597,7 +609,9 @@ IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputaci�
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-VI. Presentar al Congreso del Estado antes del primero de octubre de cada año, el proyecto de Ley de Ingresos y Egresos para el año siguiente.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 1937)</small>
+
+VI. Presentar al Congreso del Estado, antes del día 5 de diciembre de cada año, el Proyecto de Ley de Ingresos y Egresos para el año siguiente.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -989,9 +1003,11 @@ III. No haber sido Secretario General del Gobierno, Tesorero General del Estado,
 
 IV. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna asonada, motín o cuartelazo promovido en contra de las Instituciones de la Nación o del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+
 ###### Art. 117.
 
-Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado, o en su defecto la Diputación Permanente para nombrar Regidores substitutos, mientras se convoca a nueva elección, si la falta ocurriere dentro del primer año, más si ocurriere dentro del segundo, los nombrados terminarán el período.
+Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultades el Congreso del Estado, o en su defecto la Diputación Permanente, para elegir Regidores Substitutos, mientras se convoca a nueva elección si la falta ocurriere dentro del primer año, mas si ocurriere dentro del segundo, los nombrados terminarán el período.
 
 ###### Art. 118.
 
@@ -1354,3 +1370,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 1° DE FEBRERO DE 1934.
 
 Artículo Unico.- Este decreto comenzará a surtir sus efectos legales desde el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 1937.
+
+Artículo Primero. Surtirá sus efectos el artículo 36 desde la próxima Legislatura que deberá instalarse el 1o. de diciembre de 1940.
+
+Artículo Segundo. Los Diputados de la actual Legislatura, durarán en su encargo hasta el último día de noviembre del año de 1940.
+
+Artículo Tercero. Las presentes reformas entrarán en vigor a partir de la fecha de su publicación.
