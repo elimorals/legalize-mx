@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "1964-11-28"
+last_updated: "1970-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 1970.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -43,9 +43,11 @@ LEY DEL EJERCICIO PROFESIONAL PARA EL ESADO (SIC) DE VERACRUZ-LLAVE.
 
 Se entiende por título profesional el documento expedido por una de las instituciones autorizadas y mediante los requisitos que se exigen en esta Ley y en las demás relativas, a favor de la persona que ha comprobado haber adquirido los conocimientos necesarios para ejercer una de las profesiones a que se refiere el artículo siguiente.
 
+> <small>(REFORMADO, G.O. 3 DE MARZO DE 1970)</small>
+
 ###### ARTICULO 2.
 
-Las profesiones que necesitan título para su ejercicio son las siguientes:
+Las Profesiones que necesitan Título para su ejercicio son las siguientes:
 
 Arquitecto.
 
@@ -59,13 +61,13 @@ Enfermera.
 
 Enfermera y Partera.
 
-Ingeniero en sus diversas ramas profesionales: Agronomía, ingeniería civil, hidráulica, mecánica, electricista, forestal, minería, municipal, sanitaria, petrolera, química, militar, de transmisiones eléctricas y las demás ramas que comprendan los planes de estudio de la Universidad Veracruzana, de la Universidad Autónoma de México, del Instituto Politécnico Nacional, del Colegio Militar, de la Escuela Médica Militar y los Centros Universitarios y de Estudios Profesionales reconocidos por la Dirección de Educación en el Estado, en concordancia con la Dirección General de Profesiones.
+Ingeniero, en sus diversas ramas profesionales: Agronomía, Ingeniería Civil, Hidráulica, Mecánica, Electricista, Forestal, Minería, Municipal, Sanitaria, Petrolera, Química, Militar, de Transmisiones, de Transmisiones Eléctricas y las demás ramas que comprendan los planes de Estudio de la Universidad Veracruzana, de la Universidad Autónoma de México, del Instituto Politécnico Nacional, del Colegio Militar, de la Escuela Médico-Militar y los Centros Universitarios y de estudios Profesionales reconocidos por la Dirección de Educación en el Estado, en concordancia con la Dirección General de Profesiones.
 
 Licenciado en Derecho.
 
 Licenciado en Economía.
 
-Médico Cirujano o Médico en sus diversas ramas profesionales.
+Médico Cirujano o Médico en sus diversas ramas Profesionales.
 
 Médico Veterinario.
 
@@ -73,19 +75,35 @@ Metalúrgico.
 
 Piloto Aviador.
 
-Psicólogo.
+Antropólogo.
 
 Arqueólogo.
 
-Antropólogo.
-
 Trabajador Social.
 
-Educadora de Párvulos; Profesores de Educación Primaria; Maestro de Segunda Enseñanza; en sus diversas especialidades; y Maestro de Enseñanza Superior, también en sus diversas especialidades.
+Educadora de Párvulos; Profesores de Educación Primaria; Maestro de Segunda Enseñanza, en sus diversas especialidades y Maestro de Enseñanza Superior, también en sus diversas especialidades.
 
-Químico en sus diversas ramas profesionales: Farmacia (químico farmacéutico y químico farmacéutico biólogo, químico zimólogo y químico bacteriólogo y parasitólogo)
+Químico, en sus diversas ramas Profesionales: Farmacia (químico farmacéutico y químico farmacéutico biólogo), químico zimólogo y químico bacteriólogo y parasitólogo).
 
-Las demás profesiones establecidas o que hayan sido comprendidas por leyes federales o de los Estados.
+Lic. en Administración de Empresas.
+
+Lic. en Ciencias Físicas.
+
+Lic. en Estadística.
+
+Técnico en Estadigrafía.
+
+Lic. en Matemáticas.
+
+Lic. en Psicología.
+
+Lic. en Biología.
+
+Técnico Dentista.
+
+Técnico de Laboratorio.
+
+Las demás Profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
 
 ###### ARTICULO 3.
 
@@ -540,3 +558,7 @@ Jalapa-Enríquez, Ver., a 20 de diciembre de 1963. Sub Secretario de Gobierno En
 G.O. 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
 
 La presente Ley surtirá sus efectos legales a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 3 DE MARZO DE 1970.
+
+UNICO.- La presente Ley entrará en vigor a los tres días de su publicación en la "Gaceta Oficial" del Estado.
