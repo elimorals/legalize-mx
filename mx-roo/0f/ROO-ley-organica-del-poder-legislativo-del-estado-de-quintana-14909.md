@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "1995-10-25"
+last_updated: "1999-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -77,9 +77,9 @@ Esta Ley y sus reformas y adiciones no necesitarán de promulgación del Goberna
 
 Para la instalación de la Legislatura, los Diputados electos con el carácter de Propietarios, sin necesidad de citación previa, se reunirán en el Recinto Oficial del Poder Legislativo del Estado el día 24 de marzo del año que corresponda, a partir de las 11:00 horas, Esta Junta Preparatoria, que iniciará presidiendo la Diputación Permanente de la Legislatura saliente, se desarrollará, conforme al siguiente procedimiento:
 
-a) El Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la concurrencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
+a) EI Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la concurrencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
 
-b) El Presidente pedirá a los Diputados asistentes que en escrutinio secreto y mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
+b) EI Presidente pedirá a los Diputados asistentes que en escrutinio secreto y mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
 
 La Comisión Instaladora de la Legislatura se integrará con un Presidente, un Vicepresidente y un Secretario.
 
@@ -93,7 +93,7 @@ f) Inmediatamente, el Presidente de la Comisión declarará constituida la Legis
 
 ###### ARTICULO 8.
 
-Instalada la Legislatura, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de la Mesa Directiva, eligiendo el Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y al Secretario y Pro-Secretario para el Primer Ejercicio anual, con lo que concluirá la sesión de instalación.
+Instalada la Legislatura, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de la Mesa Directiva, eligiendo al Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y al Secretario y Pro-Secretario para el Primer Ejercicio anual, con lo que concluirá la sesión de instalación.
 
 ###### ARTICULO 9.
 
@@ -321,7 +321,11 @@ Las Comisiones ordinarias serán:
 
 15.- Comisión de Turismo.
 
-16.- Comisión de Corrección y Estilo.
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+
+16.- Comisión de Equidad y Género.
+
+17.- Comisión de Corrección y Estilo.
 
 ###### ARTICULO 34.
 
@@ -371,7 +375,7 @@ La Gran Comisión se integrará por los Presidentes de las Comisiones ordinarias
 
 Inmediatamente después de que se hayan integrado las Comisiones a que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos en escrutinio secreto y por mayoría de votos, al Presidente, al Secretario y a los tres Vocales de la Gran Comisión.
 
-El Presidente de la Gran Comisión tendrá el carácter de Coordinador.
+EI Presidente de la Gran Comisión tendrá el carácter de Coordinador.
 
 ### CAPITULO I. CONCEPTO E INTEGRACION
 
@@ -471,7 +475,7 @@ La Diputación Permanente será presidida por una Mesa Directiva que se integrar
 
 ###### ARTICULO 52.
 
-En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, el Pleno de la Legislatura en escrutinio secreto y por mayoría de votos, a los integrantes de la Diputación Permanente. EI primero de los nombrados será el Presidente y los otros dos Secretarios de la Mesa Directiva de la Diputación Permanente.
+En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, el Pleno de la Legislatura en escrutinio secreto y por mayoría de votos, a los integrantes de la Diputación Permanente. El primero de los nombrados será el Presidente y los otros dos Secretarios de la Mesa Directiva de la Diputación Permanente.
 
 ###### ARTICULO 53.
 
@@ -493,7 +497,7 @@ Las sesiones que celebre la Diputación Permanente serán públicas, excepto cua
 
 ###### ARTICULO 57.
 
-La Diputación Permanente no suspenderá sus trabajos durante los períodos extraordinarios de sesiones que se convoquen, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario respectivo.
+La Diputación Permanente no suspenderá sus trabajos durante los periodos extraordinarios de sesiones que se convoquen, salvo en aquello que se refiera al asunto para el que se haya convocado el periodo extraordinario respectivo.
 
 ###### ARTICULO 58.
 
@@ -1217,4 +1221,12 @@ EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO C. ING. MARIO E. VILLANUEVA MADRID.
 
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
-C. ING. RAFAEL LARA Y LARA.
+C. ING. RAFAEL LARA Y LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
