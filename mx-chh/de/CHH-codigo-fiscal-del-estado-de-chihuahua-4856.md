@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1977-06-04"
+last_updated: "1977-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1977.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -611,19 +611,19 @@ En todo caso los Contadores Públicos al dictaminar los estados financieros de c
 
 La Tesorería General del Estado estará facultada para expedir los instructivos que sean necesarios para el adecuado cumplimiento de las disposiciones de este artículo.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-82.- Los Notarios y en general los funcionarios encargados de llevar la fé pública, no podrán autorizar ninguna escritura o documento en que consten actos, contratos, convenios o resoluciones judiciales o administrativas gravados por este Código o cuyo objeto sean inmuebles ubicados en el Estado de Chihuahua, mientras no se haya hecho el pago de los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que al físico del Estado causen los bienes materia de dichos actos o resoluciones, o que los negocios comerciales o industriales por los cuales hayan de autorizarse actos estén al corriente en el pago de los impuestos estatales.
+82.- Los Notarios y en general los funcionarios encargados de llevar la fé pública, no podrán autorizar ninguna escritura o documento en que consten actos, contratos, convenios o resoluciones judiciales o administrativas gravados por este Código o cuyo objeto sean inmuebles ubicados en el Estado de Chihuahua, mientras no se haya hecho el pago de los impuestos que se causen y en general sin comprobar que los otorgantes están al corriente en el pago de todos los impuestos que al fisco del Estado causen los bienes materia de dichos actos o resoluciones, o que los negocios comerciales o industriales por los cuales hayan de autorizarse actos estén al corriente en el pago de los impuestos estatales.
 
 Tampoco podrán ratificar firmas y el contenido de documentos en los cuales consten actos que causen algún gravamen sin comprobar que el mismo ha sido cubierto.
 
-Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha de la escritura, deberán presentar ante la Recaudación de Rentas respectiva, nota con 3 copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
+Los Notarios y en general los funcionarios encargados de la fé pública, dentro de los 30 días hábiles siguientes contados a partir de la fecha en que se firme la escritura respectiva, deberán presentar ante la Recaudación de Rentas que corresponda, nota con 3 copias, en la que harán constar el número y fecha de la escritura, nombre de los otorgantes, naturaleza del acto, valor de la operación y del avalúo en su caso, ubicación de los bienes inmuebles si fueren materia del acto o resolución y liquidación de los impuestos que se causen a juicio del Notario; de estar exceptuados conforme a la Ley deberán expresarlo así, señalando la causa de la exención y su fundamento legal.
 
 Las autoridades correspondientes, si el objeto de la operación son bienes inmuebles, harán constar en la nota los datos catastrales relativos y si se encuentran al corriente en el pago de las contribuciones ordinarias y extraordinarias. El original de la nota se devolverá con la certificación de que se cubrió el impuesto conforme a la liquidación formulada bajo la responsabilidad del Notario, facultándolo para la autorización de la escritura.
 
-En los testimonios que expidan, deberán insertar la nota y el comprobante de pago de los impuestos respectivos. Mensualmente deberán remitir a la Recaudación de Rentas en cuya jurisdicción residan, una copia de los testimonios que expidan.
+En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Mensualmente deberán remitir a la Recaudación de Rentas en cuya jurisdicción residan, una copia de los testimonios que expidan.
 
-La Tesorería General del Estado formulará modelo de las notas que deben presentar los Notarios.
+La Tesorería General del Estado formulará modelo de las notas que deban presentar los Notarios.
 
 83.- Los Encargados del Registro Publico de la Propiedad y del Comercio no inscribirán ninguna escritura o documento en que consten actos, resoluciones judiciales o administrativas gravadas por este Código, si no se les comprueba fehacientemente el pago de los impuestos que dichos actos generen y que los interesados están al corriente en el pago de los demás impuestos de que, con respecto al Fisco del Estado, son objeto los bienes materia de aquéllos, que existe prórroga legalmente concedida para su pago, que éste fue garantizado o que están exentos por disposición de la Ley.
 
@@ -1011,29 +1011,29 @@ II.- Por avalúos practicados por la Tesorería General del Estado, en los casos
 
 104.- La base del impuesto será el valor catastral:
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975) (F. DE E., P.O. 21 DE ENERO DE 1976)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-I.- Tratándose de predios urbanos el impuesto se causará conforme a las tasas de la siguiente:
+I.- Tratándose de predios urbanos, el impuesto se causará conforme a las tasas de la siguiente
 
 TARIFA:
 
 VALOR CATASTRAL TASA ANUAL
 
-Hasta $ 12,500.00 Exento
+Hasta 14,500.00 Exento
 
-" " 50,000.00 7.5 al millar
+" 50,000.00 7.5 al millar
 
-" " 100,000.00 8.0 al millar
+" 100,000.00 8.0 al millar
 
-" " 250,000.00 9.0 al millar
+" 250,000.00 9.0 al millar
 
-" " 500,000.00 10.5 al millar
+" 500,000.00 10.5 al millar
 
-" " 1´000,000.00 12.5 al millar
+" 1´000,000.00 12.5 al millar
 
-más de " 1´000,000.00 15.0 al millar
+más de 1´000,000.00 15.0 al millar
 
-La exención hasta de $12,500.00 que contiene la tarifa, sólo operará cuando el predio sea la única propiedad inmueble del causante. En caso de tener varias, con valores dentro del límite indicado, se aplicará la tasa mínima.
+La exención hasta de $14,500.00 que contiene la tarifa, sólo operará cuando el predio sea la única propiedad inmueble del causante. En caso de tener varias, con valores dentro del límite indicado, se aplicará la tasa mínima.
 
 II.- Tratándose de predios rústicos se aplicará una cuota de 6.25 al millar anual sobre el valor catastral.
 
@@ -1207,7 +1207,7 @@ Esta exención se concederá si se prueba:
 
 IV.- Los predios y edificios en que se encuentran establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que exista reciprocidad de trato fiscal con nuestro país;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
 V.- Los inmuebles que los derechohabientes de la Dirección de Pensiones Civiles del Estado adquieran o construyan por conducto de dicha Institución en los términos de la Ley de la materia, sobre las bases siguientes:
 
@@ -1219,9 +1219,9 @@ b).- La exención queda sin efecto aún cuando no haya transcurrido el lapso de 
 
 c).- El acuerdo de exención queda sin efecto de pleno derecho en el momento en que el derechohabiente realice cualquiera de los actos de vencimiento anticipado, haciéndose exigible el crédito fiscal y sus accesorios por concepto de este impuesto desde la fecha en que se haya dado la circunstancia que motivó la cancelación de la exención;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-d).- La exención solo opera cuando el valor del inmueble no exceda de $125,000.00.
+d).- La exención solo opera cuando los inmuebles adquiridos o construídos tengan un valor igual al del préstamo otorgado por la Dirección de Pensiones Civiles del Estado, o por su conducto.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -1439,9 +1439,11 @@ III.- Tratándose de predios rústicos, los arrendatarios tienen responsabilidad
 
 #### SECCION SEXTA. CATASTRO
 
-112.- Se declaran de utilidad e interés públicos, el catastro y la organización catastral de la propiedad inmueble en el Estado, considerándose catastro: el inventario de los bienes raíces ubicados en el Estado, estructurado por el conjunto de padrones fiscales en que se contengan los planos generales y parciales relativos a esa propiedad y los datos particulares de cada predio, como ubicación, linderos, colindancias, superficies, forma poligonal, construcciones, número de cuenta, nombre del causante y de los anteriores causantes, uso o destino del predio, valor catastral y otros relacionados con los predios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-La Tesorería General del Estado, por conducto de su dependencia la Dirección de Catastro, tendrá a su cargo la formación del plano catastral y de los planos parciales necesarios, de acuerdo con los procedimientos que señale el presente capítulo y su Reglamento.
+112.- Se declaran de utilidad e interés públicos, el Catastro y la organización catastral de la propiedad inmueble en el Estado, considerándose catastro: el inventario de los bienes raíces ubicados en el Estado, estructurado por el conjunto de padrones fiscales en que se contengan los planos generales y parciales relativos a esa propiedad y los datos particulares generales de cada predio, como ubicación, linderos, colindancias, superficies, forma poligonal, construcciones, número de cuenta, nombre del causante y de los anteriores causantes, uso o destino del predio, valor catastral y otros relacionados con los predios.
+
+La Tesorería General del Estado, por conducto de su dependencia, el Departamento de Catastro, tendrá a su cargo la formación del plano catastral y de los planos parciales necesarios, de acuerdo con los procedimientos que señale el presente capítulo y su reglamento.
 
 Los propietarios o poseedores de predios estarán obligados a facilitar la ejecución de las operaciones catastrales y, por lo tanto, deberán permitir al personal respectivo el acceso a los predios y facilitarles toda clase de datos para el desarrollo de sus funciones.
 
@@ -1465,9 +1467,11 @@ c).- La ubicación del predio;
 
 d).- La base gravable;
 
-e).- El monto de la base gravable;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-f).- La cuota del impuesto.
+e).- La cuota del impuesto.
+
+f).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1977)
 
 III.- Alfabético, que registrará:
 
@@ -1643,7 +1647,9 @@ De más de 50.00 hectáreas serán de SÉPTIMA CLASE;
 
 VI.- FORESTALES.- Los terrenos con bosque se clasificarán y valuarán basándose en su población forestal, especies y variedades de árboles, tomando en cuenta su ciclo reproductivo. En ningún caso se tomará en consideración la explotación de la vegetación forestal.
 
-VII.- TERRENOS NO ESPECIFICADOS.- Los dedicados a parques de recreo, cotos de caza, los que no tengan utilización definida por parte de sus dueños o ésta no esté prevista en este Código, serán valuados a criterio del Dirección de Catastro siguiendo los lineamientos generales que marca este Capítulo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VII.- TERRENOS NO ESPECIFICADOS.- Los dedicados a parques de recreo, cotos de caza, los que no tengan utilización definida por parte de sus dueños o ésta no esté prevista en este Código, serán valuados a criterio del Departamento de Catastro, siguiendo los lineamientos generales que marca este capítulo.
 
 123.- Para los efectos de este capítulo y del pago del Impuesto Predial, por plantas de beneficio se entenderán los establecimientos en que se lleven a cabo procedimientos metalúrgicos, o sea la serie de operaciones tendientes a extraer en escala industrial los metales de los minerales que los contienen, quedando comprendidas las plantas de concentración, de lixiviación, de amalgamación, de flotación, de cianuración, molinos, fundiciones y plantas de afinación.
 
@@ -1881,9 +1887,7 @@ Límite Límite Cuota Porcentaje para
 
 Inferior Superior Fija aplicarse s/el
 
-M$N M$N excedente del
-
-límite
+M$N M$N excedente del límite
 
 inferior.
 
@@ -1989,31 +1993,29 @@ II.- A exigir que los causantes habituales de este tributo establezcan en los re
 
 Si los causantes no cumplen con los requisitos que establece el párrafo anterior, los terceros retendrán el importe del impuesto enterándolo en la Recaudación de Rentas respectiva. Si no lo hicieren se harán acreedores a la sanción establecida en el artículo 93 Segundo Grupo de este Código.
 
-#### SECCION QUINTA. CONVENIOS CON LOS CAUSANTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+#### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
-184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este Capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $300.000.00 (Trescientos mil pesos, 00/100) anuales, en las condiciones y con las formalidades siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $900,000.00 (Novecientos mil pesos 00/100 M.N.) anuales, en las condiciones y con las formalidades siguientes:
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, lo manifestarán por escrito a la Recaudación de Rentas de su jurisdicción, para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $200.00 (Doscientos Pesos, 00/100 M.N.) bimestrales, si se trata de sujetos cuya actividad exija título para su ejercicio, y de $60.00 (Sesenta Pesos, 00/100 M.N.) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el Artículo 177.
+I.- Los causantes que opten por el pago del impuesto a base de cuota fija bimestral, lo manifestarán por escrito, a la Recaudación de Rentas de su jurisdicción, para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $300.00 (Trescientos pesos 00/100 M.N.) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio y de $100.00 (Cien pesos 00/100 M.N.) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el artículo 177.
 
-Sólo podrán proporcionarse los convenios a que se refiere este artículo, después de seis meses siguientes a la fecha de empadronamiento.
+II.- Las Recaudaciones de Rentas someterán las determinaciones provisionales que se mencionan en la fracción anterior, a aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota bimestral que se les haya asignado.
 
-II.- Las Recaudaciones de Rentas someterán los convenios a la aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota que se les haya asignado.
+III.- Los causantes que opten por esta forma de pago, no estarán obligados a presentar las declaraciones mensuales que previene este Código, ni a llevar los libros de contabilidad, pero estarán sujetos a las demás disposiciones contenidas en este Ordenamiento.
 
-III.- Los causantes que celebren convenios no estarán obligados a presentar las declaraciones mensuales que este Código previene, ni a llevar los libros de contabilidad, pero estarán sujetos a las demás disposiciones contenidas en este ordenamiento.
+IV.- Es obligación de los causantes que estén pagando a base de cuota bimestral, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $900,000.00 (Novecientos mil pesos 00/100 M.N.) anuales a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-IV.- Es obligación de los causantes que estén pagando a base de convenio a cuota fija, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $300,000.00 (Trescientos mil pesos, 00/100) anuales, a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20 % a aquellos por los que se fijó la cuota.
-
-V.- Los convenios celebrados tendrán vigencia hasta el 31 de diciembre del año correspondiente, independientemente de la fecha de su celebración.
+V.- Las determinaciones de ingresos a que se refiere este precepto, tendrán una vigencia hasta el 31 de diciembre del año correspondiente, independientemente de la fecha en que se efectúen. La vigencia se prolongará por un año más, si la Tesorería estima que no han variado los supuestos que las motivaron o los causantes no dan aviso de esa circunstancia.
 
 VI.- La Tesorería General del Estado podrá comprobar en cualquier momento, por los medios que estime conveniente, la situación fiscal de los causantes.
 
-185.- Los causantes organizados en agrupaciones profesionales, asociaciones o sociedades de carácter civil, no podrán celebrar convenios en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+185.- Los causantes organizados en agrupaciones profesionales, asociaciones o sociedades de carácter civil, no podrán optar por la forma de pago a que alude el artículo anterior.
 
 ### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
@@ -2481,47 +2483,27 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 239.- Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el Impuesto de acuerdo con los ingresos realmente percibidos. Para tal revisión se estará a lo dispuesto por el artículo 23 de este ordenamiento.
 
-#### SECCION DECIMA. CONVENIOS CON LOS CAUSANTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE D 1977)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+#### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
-240.- las personas físicas que obtengan ingresos de operaciones celebradas directamente con el consumidor y gravadas en los grupos primero, segundo, séptimo y octavo del artículo 212 de este Código, podrán cubrir el impuesto a razón de una cuota fija bimestral, siempre que sus ingresos no sean superiores a $500,000.00 (Quinientos Mil Pesos. 00/100) anuales en las condiciones y con las formalidades siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+240.- Cuando se trate de causantes que en el último ejercicio fiscal de doce meses, hubieren obtenido ingresos anuales hasta de $1´500,000.00 (Un millón quinientos mil pesos 00/100 M.N.) y no hubieren llevado los libros, registros contables, no presenten los comprobantes de las operaciones registradas en ellos en la forma requerida por la Ley, la Tesorería General del Estado podrá determinar estimativamente el ingreso gravable, tomando en cuenta para ello lo previsto por los artículos 23, 36 fracción VIII, 238 y 239 de este Ordenamiento. A los ingresos gravables estimados, se aplicarán las tasas establecidas en esta Ley, y el resultado será el impuesto a pagar, a partir del mes en que se haga la determinación estimativa y hasta el final del año de que se trate. Esa misma cantidad será el impuesto que deberá pagar el causante por los doce meses anteriores a aquél en que se hubiere fijado la cuota.
 
-I.- Los causantes que opten por el pago del impuesto a cuota fija, elevarán solicitud a la Recaudación de Rentas de su jurisdicción, proporcionando los datos relativos a su actividad para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la cual en ningún caso podrá ser inferior a $30.00 (Treinta Pesos 00/100) bimestrales.
+Cuando los ingresos totales percibidos en un ejercicio excedan en más de un 20% de los que se hubieren estimado, las liquidaciones de impuesto formuladas quedarán sin efecto y el causante estará obligado a dar aviso a la Tesorería de esta circunstancia y a pagar las diferencias que resulten de la comprobación de los ingresos reales. Los causantes a los cuáles se les practique la determinación estimativa de ingresos a que alude este precepto:
 
-Sólo podrán proponerse los convenios a que se refiere este artículo, después de los seis meses siguientes a la fecha del empadronamiento.
-
-II.- En las solicitudes que se presenten ante las Recaudaciones de Rentas se anotarán todos los datos e informaciones que contiene la forma oficial aprobada para este objeto, y se someterán a la aprobación de la Tesorería General.
-
-La Tesorería General del Estado, resolverá si es aprobarse o no la solicitud. En caso afirmativo, fijará la cuota definitiva correspondiente y propondrá el convenio al solicitante remitiéndolo a la Recaudación respectiva para su firma.
-
-III.- Los causantes con los que se celebre convenio:
-
-a).- No están obligados a llevar los libros de contabilidad a que se refiere el artículo 229 de este Código, salvo el de ingresos y egresos, debiendo conservar la documentación comprobatoria de las operaciones.
+a).- No están obligados a llevar los libros de contabilidad a que se refiere el artículo 229 de este Código, salvo el de Ingresos y Egresos, debiendo conservar la documentación comprobatoria de sus operaciones.
 
 b).- No están obligados a presentar las declaraciones mensuales que menciona el artículo 223 de este Código.
 
-IV.- Son obligaciones de los causantes que celebren convenio:
+c).- Estarán sujetos a cumplir con las demás obligaciones que a los causantes de este impuesto fije este ordenamiento, con excepción de aquéllas de que expresamente estén liberados.
 
-a).- Cumplir con las obligaciones que a los causantes del Impuesto al Comercio e Industria les fija este Ordenamiento con excepción de aquellas de que expresamente estén liberados.
+d).- Presentarán en el mes de abril de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para el pago del Impuesto sobre la Renta.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+e).- Recibirán las visitas de inspección que ordena la Tesorería General del Estado.
 
-b).- Presentar en el mes de abril de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio, durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para pagar el Impuesto Federal sobre la Renta.
-
-c).- Recibir las visitas de inspección que ordene la Tesorería General del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-d).- Dar aviso a la Recaudación de Rentas de su jurisdicción, cuando estime que sus ingresos anuales serán mayores de $500,000.00(QUINIENTOS MIL PESOS 00/100), a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
-
-V.- Los convenios tendrán la duración que les corresponda, dentro de cada año fiscal comprendido dentro del 1o. de enero al 31 de diciembre, sin que la vigencia de los mismos pueda exceder de un año. Al término de su vigencia, que no será nunca posterior al 31 de diciembre del año en que se firmen, quedarán sin efectos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-VI.- La Tesorería General, en cualquier tiempo, podrá comprobar por los medios que considere convenientes la situación fiscal de los causantes. En consecuencia resultan aplicables también a los sujetos convenidos, en lo conducente, los artículos 23, 238 y 239 de este Código.
+f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Tesorería General del Estado no la modifique.
 
 ### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
@@ -2653,13 +2635,17 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 
 257.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
 258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 I.- A empadronarse y a retener el impuesto al causarse éste en los términos del Artículo 253;
 
-II.- A colocar en cada paca, una placa oficial de las que previamente les proporcionarán las Recaudaciones de Rentas para identificación de las pacas y control del impuesto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+II.- A llevar un libro especial en el que se detallen los movimientos de algodón referentes a entradas, salidas y existencias mensuales del producto. Se podrá cumplir con esta obligación con el mismo libro a que se refiere el artículo 7 fracción II de la Ley del Impuesto sobre Despepite del Algodón en Rama;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -2669,7 +2655,9 @@ IV.- A no permitir la salida del algodón y su semilla de sus locales o almacene
 
 V.- A colocar en los patios de los despepitadores las pacas de algodón de modo que queden visibles los números de identificación que a cada una se les hayan señalado, a fin de que las inspecciones fiscales se practiquen sin dificultad;
 
-VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva, de la salida de los despepitadores del algodón y su semilla, con expresión del nombre del propietario, cantidad de pacas, peso de cada una de ellas, número de placas oficiales, peso de la semilla en su caso, y fecha de salida.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva, para efectos de la autorización de la salida de los despepitadores del algodón y su semilla, con expresión del nombre del propietario, cantidad de pacas, peso de cada una de ellas, de la semilla en su caso y fecha de salida. Este aviso autorizado deberá exhibirse a requerimiento de las autoridades fiscales.
 
 259.- Es solidariamente responsable del pago del impuesto el adquirente.
 
@@ -2699,25 +2687,29 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-IV.- El mandato que se haga constar en instrumento público o ratificado ante notario o autoridad judicial, pagará $10.00 (diez pesos, 00/100). En los dos primeros casos en el entero del impuesto se comprobará con el original del certificado de pago, mismo que deberá agregarse al apéndice del protocolo correspondiente, y en el último, a las actuaciones donde conste el poder.
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará $10.00 (Diez pesos 00/100 M.N.). En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del Protocolo correspondiente; en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado. Si el mandato fuese judicial, el comprobante del pago del impuesto se agregará a las actuaciones conducentes.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-V.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (UN PESO CINCUENTA CENTAVOS), por cada un mil pesos o fracción sobre el valor de la operación.
+V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-VI.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $15.00 (QUINCE PESOS 00/100).
+VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (Un peso 50/100 M.N.) por cada un mil pesos o fracción sobre el valor de la operación.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-VII.- Cuando en un mismo instrumentos se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará la suma de $15.00 (Quince pesos 00/100 M.N.).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-VIII.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del Registro Público de la Propiedad estatales, causarán el Impuesto sobre Actos Jurídicos conforme a las disposiciones de este capítulo.
+VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -4307,15 +4299,15 @@ III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Viv
 
 IV.- Los derechohabientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores con financiamiento de dicha Institución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-484.- Para los efectos de este capítulo las viviendas populares se clasifican como sigue:
+484.- Para los efectos de este Capítulo las viviendas populares se clasificarán como sigue:
 
-I.- De precio mínimo aquellas cuyo valor no exceda de $50,000.00.-
+I.- De precio mínimo, aquéllas cuyo valor no exceda de $80,000.00;
 
-II.- De precio bajo aquellas cuyo valor no exceda de $100,000.00.-
+II.- De precio bajo, aquéllas cuyo valor no exceda de $130,000.00;
 
-III.- De precio medio aquellas cuyo valor no exceda de $125,000.00.-
+III.- De precio medio, aquéllas cuyo valor no exceda de $160,000.00.
 
 Los valores anteriormente citados, incluyen el costo del terreno donde se edifique la habitación.
 
@@ -4413,7 +4405,7 @@ Salvo el caso de que el beneficiario sea persona física no empresario, los acue
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
-497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- Se prohibe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
 
 ## TRANSITORIOS.
 
@@ -4536,3 +4528,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 4 DE JUNIO DE 1977.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de enero de 1978.
