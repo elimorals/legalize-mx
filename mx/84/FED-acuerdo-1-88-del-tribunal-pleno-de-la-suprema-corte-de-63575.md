@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-12-22"
+last_updated: "1989-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -181,7 +181,9 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
-1.- Dos Tribunales Colegiados y un Tribunal Unitario, con residencia en la ciudad de Mazatlán, Sinaloa;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 13/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ENERO DE 1989)</small>
+
+1. Dos Tribunales Colegiados y dos Tribunales Unitarios, con residencia en la ciudad de Mazatlán, Sinaloa;
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán;
 
@@ -365,7 +367,9 @@ XIX.- Los Juzgados Primero y Segundo de Distrito en el Estado de Sinaloa, con re
 
 XX.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador, Alvarado, Mocorito y Badiraguato;
 
-XXI.- El Juzgado Cuarto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerá jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, Rosario y Escuinapa;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO NUMERO 14/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ENERO DE 1989)</small>
+
+XXI. Los Juzgados Quinto y Sexto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, Rosario y Escuinapa;
 
 > <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO NUMERO 11/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 2 DE NOVIEMBRE DE 1988)</small>
 
@@ -474,3 +478,15 @@ D.O.F. 22 DE DICIEMBRE DE 1988.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los Juzgados de Distrito mencionados en este acuerdo para su cumplimiento y comuníquese a todos los Tribunales Colegiados y Unitarios y a los Juzgados de Distrito en el país, para su conocimiento.
+
+D.O.F. 24 DE ENERO DE 1989.
+
+ACUERDO No. 14/88, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y OCHO
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ENERO DE 1989.
+
+ACUERDO No. 13/88, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y OCHO
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
