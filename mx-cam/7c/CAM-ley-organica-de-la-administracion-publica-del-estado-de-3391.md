@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "1995-03-11"
+last_updated: "1997-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -79,7 +79,7 @@ Las dependencias y entidades del Ejecutivo Estatal deberán planear, programar, 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 9o.
 
@@ -93,15 +93,21 @@ Para el estudio, planeación y despacho de los asuntos de la Administración Pú
 
 - Secretaría de la Contraloría;
 
+- Secretaría de Fomento Industrial y Comercial;
+
 - Secretaría de Desarrollo Rural;
 
-- Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero;
+- Secretaría de Pesca;
+
+- Secretaría de Ecología;
 
 - Secretaría de Educación, Cultura y Deporte;
 
 - Secretaría de Salud;
 
-- Secretaría de Obras Públicas y Comunicaciones; y
+- Secretaría de Obras Públicas y Comunicaciones;
+
+- Secretaría de Turismo; y
 
 - Procuraduría General de Justicia.
 
@@ -141,17 +147,25 @@ Cuando se trate de definir o evaluar la política del Gobierno Estatal en materi
 
 La Secretaría de Gobierno tiene a su cargo:
 
-I.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial; con los ayuntamientos de la entidad; con los Poderes de la Unión y con los gobiernos de los demás Estados federativos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-II.- Revisar y enviar a la Legislatura las iniciativas de leyes y vigilar el cumplimiento y aplicación de los preceptos constitucionales por parte de las autoridades del Ejecutivo del Estado;
+I.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial; con los Ayuntamientos de la Entidad; con los Poderes de la Unión y con los Gobiernos de los demás Estados de la República;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+II.- Revisar y enviar a la Legislatura del Estado las iniciativas de Leyes y Decretos, y vigilar el cumplimiento y aplicación de los preceptos constitucionales por parte de las autoridades del Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
 
 III.- Suscribir en unión del Gobernador todas las iniciativas de Ley o Decreto;
 
-IV.- Ejercer las atribuciones que las leyes y convenios le asignen al Ejecutivo del Estado en asuntos electorales, laborales, agrarios y limítrofes del Estado y de sus Municipios;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-V.- Proponer los programas referentes a la protección de los habitantes, al orden público, a la prevención de delitos y al funcionamiento de los centros de readaptación social y de las preceptorías de menores infractores; así como tramitar solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
+IV.- Ejercer las atribuciones que las Leyes y Convenios le asignen al Ejecutivo del Estado en asuntos laborales, agrarios y limítrofes del Estado y sus Municipios;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+V.- Proponer los programas referentes a la protección de los habitantes, al orden público, a la prevención de delitos y al funcionamiento de los centros de readaptación social y de las unidades encargadas de la prevención y tratamiento de menores infractores; así como tramitar solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
 
 VI.- Llegar (sic) el registro y control de autógrafos, para estar en aptitud de legalizar y certificar las firmas de los funcionarios estatales, municipales y de aquellos a quienes está encomendada la fe pública;
 
@@ -167,7 +181,9 @@ X.- Tramitar lo relativo a nombramientos, remociones, renuncias, licencias, ause
 
 XI.- Integrar los expedientes relativos a los nombramientos de notarios públicos que expide el Ejecutivo; inspeccionar su ejercicio y llevar el libro de registro y archivo de las notarías del Estado;
 
-XII.- Tramitar lo referente a nombramientos y remociones de los magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia, en los términos de los Artículos 78 y 86 de la Constitución Política del Estado; así como lo relativo a nombramientos, remociones, licencias, y renuncias de los titulares de las Juntas Locales de Conciliación y Arbitraje y de todo tribunal administrativo estatal y mantener actualizada la información sobre los atributos personales de los servidores judiciales cuyo nombramiento y confirmación corresponda al Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+XII.- Tramitar lo referente a nombramientos, confirmaciones y destituciones de los magistrados del Tribunal Superior de Justicia y destituciones de los jueces de primera instancia, en los términos de los artículos 78, 81 y 86 de la Constitución Política del Estado; así como lo relativo a nombramientos, remociones, licencias, y renuncias de los titulares de las Juntas Locales de Conciliación y Arbitraje, y de todo tribunal administrativo estatal y mantener actualizada la información sobre los atributos personales de los servidores judiciales cuyo nombramiento y confirmación corresponda al Ejecutivo Estatal;
 
 XIII.- Otorgar a las autoridades judiciales el auxilio que soliciten para el cumplimiento de sus funciones;
 
@@ -177,7 +193,9 @@ XV.- Tramitar los recursos administrativos que corresponda atender al Gobernador
 
 XVI.- Coordinar los actos jurídicos necesarios para reivindicar la propiedad del Estado, a través de la Procuraduría General de Justicia;
 
-XVII.- Conducir y coordinar el cumplimiento de las disposiciones legales aplicables en materia de Registro del Estado Civil; Registro Público de la Propiedad y del Comercio; Defensoría Pública; Preceptoría de Menores; legalizaciones y exhortos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+XVII.- Conducir y coordinar el cumplimiento de las disposiciones legales aplicables en materia de Registro del Estado Civil, Registro Público de la Propiedad y de Comercio, Defensoría Pública; Menores Infractores; legalizaciones y exhortos;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -241,9 +259,7 @@ XV.- Proponer y coordinar la política estatal en materia de vivienda y particip
 
 XVI.- Proponer y aplicar las políticas y programas relativos al fomento del Bienestar Social y Económico del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XVII.- Proponer y aplicar las acciones encaminadas a articular la política estatal de Fomento Económico con las de alcance nacional y global que en materia de modernización económica establezca el Gobierno Federal; así como promover e inducir el desarrollo y ejecución de proyectos productivos entre los diversos sectores económicos; y
+XVII.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1997)
 
 XVIII.- Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -265,29 +281,29 @@ II.- Elaborar la cuenta pública anual de la Hacienda Estatal, manteniendo las r
 
 III.- Hacer la glosa de los ingresos y egresos del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-IV.- Elaborar y proponer al Ejecutivo los proyectos de ley, reglamentos y demás disposiciones de carácter general que se requieran para el manejo de los asuntos financieros y tributarios del Estado;
+IV.- Elaborar y proponer al Ejecutivo los proyectos de Ley, Reglamentos, Decretos, Acuerdos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad económica, fiscal, tributaria y financiera del Estado, así como en la materia contenciosa-administrativa de su competencia;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
 V.- Vigilar el cumplimiento de las disposiciones legales de carácter fiscal y demás de su ramo, aplicables en el Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-VI.- Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en las controversias de carácter fiscal, que se ventilen ante cualquiera autoridad cuando tenga interés la Hacienda del Estado;
+VI.- Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en toda controversia, procedimiento o juicio de carácter fiscal, estatal o federal que se ventile ante cualquiera autoridad cuando tenga interés la Hacienda Pública del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-VII.- Ejercer la facultad económico-coactiva, conforme a las leyes y reglamentos en vigor;
+VII.- Notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos; así como llevar a cabo el procedimiento administrativo de ejecución en los términos de las Leyes y Convenios vigentes;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
 VIII.- Ejercer las atribuciones derivadas de los Convenios Fiscales que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público de la Federación y con los Gobiernos Municipales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-IX.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, solicitada por las autoridades federales, estatales, municipales y los particulares respecto a casos concretos;
+IX.- Resolver las consultas, respecto a dudas que se susciten con motivo de la interpretación y aplicación de las disposiciones fiscales, formuladas por las autoridades federales, estatales, municipales y los particulares respecto a casos concretos; así como las solicitudes que presenten dichos particulares respecto a las autorizaciones previstas en las citadas disposiciones; y prestar a los contribuyentes el servicio de orientación y asistencia en el cumplimiento de las obligaciones fiscales tanto en materia estatal como federal, en este último caso, conforme al convenio respectivo celebrado entre el Estado y la Federación;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
@@ -301,13 +317,21 @@ XI.- Establecer y revisar los precios y tarifas de los bienes y servicios de la 
 
 XII.- Recaudar y administrar las contribuciones y demás ingresos federales en los términos de las leyes y convenios vigentes;
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+XII-A.- Determinar, liquidar las contribuciones, aprovechamientos y sus accesorios correspondientes e imponer las multas o sanciones administrativas que procedan por infracciones a las disposiciones fiscales y, ejercer cuando proceda, la facultad de condonación de multas, conforme a las leyes y reglamentos respectivos;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
+XII-B.- Conceder prórrogas y autorizaciones para el pago en parcialidades de los créditos fiscales conforme a las leyes respectivas;
+
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
 XIII.- Ordenar y practicar verificaciones, inspecciones, revisiones y visitas domiciliarias a los contribuyentes con el objeto de constatar el cumplimiento de las obligaciones fiscales, tanto estatales como federales convenidas;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-XIV.- Mantener actualizado el padrón fiscal de contribuyentes tanto estatales como federales convenidos;
+XIV.- Mantener actualizado, el Padrón Estatal de Contribuyentes;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
@@ -467,9 +491,47 @@ XXI.- A petición expresa, brindar apoyo técnico a las autoridades municipales;
 
 XXII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 21.
 
-(DEROGADO, P.O. 11 DE MARZO DE 1995)
+La Secretaría de Fomento Industrial y Comercial tiene a su cargo:
+
+I.- Formular, dirigir, aplicar, coordinar y controlar en términos de las leyes de la materia, las políticas, programas y proyectos estratégicos para el desarrollo del Estado, relacionados con el fomento de las actividades industriales, mineras, artesanales, comerciales y de abasto, y promover estas actividades al comercio exterior;
+
+II.- Promover y fomentar la atracción de inversiones y coinversiones nacionales y extranjeras, con el fin de ampliar la planta productiva en la entidad;
+
+III.- Formular y aplicar el Programa Estatal de Desarrollo Industrial y Comercial, cuyo contenido y alcance tenga plena congruencia con los planes y programas de desarrollo nacional y estatal;
+
+IV.- Participar de manera conjunta con las autoridades educativas del Estado y el sector privado para coordinar la vinculación de ambos con las distintas instituciones de educación superior, investigación científica y tecnológica, de enseñanza media, media-superior para la realización de la investigación tecnológica, a fin de fortalecer al sector productivo de la Entidad, mediante el desarrollo y la promoción de programas estratégicos para llevar a cabo proyectos productivos;
+
+V.- Organizar eventos en el Estado con alcance regional, nacional e internacional en los que se promuevan productos industriales, artesanales, pesqueros, agrícolas, ganaderos y turísticos de Campeche; así como intervenir en Foros Regionales, Nacionales e Internacionales con fines promocionales;
+
+VI.- Coordinarse con las instancias correspondientes de los gobiernos federal y municipal en la ejecución del Programa Integral de Desregulación Económica y Simplificación Administrativa en apoyo a la actividad industrial, comercial y de servicios;
+
+VII.- Promover y fomentar la coordinación de las dependencias y organismos de los sectores público y privado para fortalecer, ampliar y consolidar la infraestructura física necesaria para el desarrollo industrial y comercial del Estado;
+
+VIII.- Promover e incentivar el desarrollo industrial y comercial, mediante la difusión y aplicación de la Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche y su reglamento;
+
+IX.- Establecer esquemas de participación entre el sector público, privado y social para concurrir de manera armónica en las propuestas de financiamiento para el desarrollo de proyectos productivos;
+
+X.- Gestionar ante la paraestatal Petróleos Mexicanos, diversas acciones para que dentro de su programa de obras de infraestructura se apoyen los proyectos productivos alternos inducidos por el Gobierno del Estado y los sectores privado y social;
+
+XI.- Promover nuevos esquemas de financiamiento para el desarrollo del Estado, concertando acciones con el sector privado para elevar la calidad, productividad y competitividad de la micro, pequeña y mediana empresa en apoyo a la planta productiva generadora de empleos;
+
+XII.- Participar en el Seno del Comité para la Planeación del Estado (COPLADE), en las vertientes programáticas inherentes a la actividad industrial y comercial;
+
+XIII.- Emitir los lineamientos que se estimen pertinentes para que las actividades a cargo de los organismos sectorizados a la dependencia, contribuyan y sean congruentes con las políticas trazadas en materia de desarrollo económico;
+
+XIV.- Intervenir, conforme a la normatividad aplicable al caso, en las actividades del Fideicomiso del 2% Sobre Nóminas y del Fondo Estatal de Fomento Industrial de Campeche, cuidando la adecuada administración y aplicación de los recursos financieros bajo su resguardo; así como coordinar el funcionamiento de la Comercializadora Ah-Kim-Pech para recomendarle fundadamente las políticas necesarias para su adecuado funcionamiento acorde a los planes y programas de desarrollo estatal;
+
+XV.- Participar en las reuniones del Comité Ejecutivo de la Administración Portuaria Integral de Campeche;
+
+XVI.- Proponer y fomentar el establecimiento de infraestructura, parques industriales, centrales comerciales y centros de capacitación de personal;
+
+XVII.- Participar en el marco de sus atribuciones, en las Comisiones Intersecretariales en las que se analicen temas en materia de política económica, acorde a la realidad del Estado y en congruencia con la política nacional en materia de gasto e inversión; y
+
+XVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 22.
 
@@ -501,9 +563,9 @@ VIII.- Fomentar e inducir proyectos específicos de asociación y coinversión e
 
 IX.- Impulsar la organización de productores, la capacitación y asistencia técnica, la investigación científica y los programas de sanidad vegetal y animal, todo en coordinación con las autoridades federales y en apego a las leyes, reglamentos y convenios en vigor;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-X.- Con la participación que corresponda a la Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero, realizar estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica para el fomento de las actividades agropecuarias y realizar directamente o por contrato las obras correspondientes;
+X.- Con la participación que corresponda a la Secretaría de Ecología, realizar estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica para el fomento de las actividades agropecuarias y realizar directamente o por contrato las obras correspondientes;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -521,139 +583,101 @@ XIV.- Administrar la maquinaria y equipo agrícola del Gobierno del Estado, y re
 
 XV.- Promover y organizar Congresos, Ferias, Exposiciones y Concursos Agrícolas, Ganaderos y Agroindustriales en el Estado y participar en eventos similares de carácter Nacional e Internacional;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-XVI.- Participar, junto con la Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero, en la promoción de plantaciones forestales, de acuerdo con los programas que al efecto se formulen, así como en la conservación de los suelos agrícolas, pastizales y bosques, mediante la aplicación de las técnicas y procedimientos conducentes; y, en lo general, coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en la Entidad; y
+XVI.- Participar, junto con la Secretaría de Ecología, en la elaboración y aplicación de programas productivos forestales y en la promoción de plantaciones forestales, así como en la conservación de los suelos agrícolas, pastizales y bosques, mediante la aplicación de las técnicas y procedimientos conducentes; y, en lo general, coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en la entidad; y
 
 XVII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero tiene a su cargo:
+La Secretaría de Pesca tiene a su cargo:
 
-I.- Formular, supervisar, evaluar y controlar los programas de desarrollo pesquero y acuícola de la Entidad, con apego a las leyes, reglamentos y acuerdos en vigor;
+I.- Formular, supervisar, evaluar y controlar los programas de desarrollo pesquero y acuícola de la Entidad, con apego a las Leyes, Reglamentos y Acuerdos en vigor;
 
-II.- Promover la modernización del sector, el flujo de inversiones nacional y extranjera, y el apoyo finaciero (sic) de la actividad;
+II.- Promover la modernización del sector, el flujo de inversiones nacional y extranjera, y el apoyo financiero de la actividad;
 
 III.- Proponer y participar en la concertación de programas y de acciones concretas con el gobierno federal, en particular en materia de regulación y fomento pesquero;
 
 IV.- Proponer proyectos concretos de coordinación y desregulación administrativa de la actividad y promover la regulación corresponsable de la explotación de los recursos pesqueros, con los sectores social y privado y con las autoridades federales competentes;
 
-V.- Proponer y ejecutar programas de capacitación y organización de los productores y promover la asociación entre los diferentes sectores, en proyectos de coinversión, de conformidad con las leyes y reglamentos vigentes;
+V.- Proponer y ejecutar programas de capacitación y organización de los productores y promover la asociación entre los diferentes sectores, en proyectos de coinversión, de conformidad con las Leyes y Reglamentos vigentes;
 
-VI.- Estudiar, promover y ejecutar proyectos de acuacultura rural en beneficio del desarrollo integral de las comunidades campesinas;
+VI.- Estudiar, promover y ejecutar proyectos de acuacultura en beneficio del desarrollo integral de las comunidades campesinas; y coordinarse con los Ayuntamientos a fin de propiciar la inversión municipal en el ramo de la pesca y acuacultura;
 
-VII.- Estudiar, y promover la acuacultura intensiva, altamente tecnificada, iniciar el desarrollo de la tecnología apropiada para la entidad, y fomentar la inversión nacional y extranjera en este tipo de acualcultura (sic);
+VII.- Promover la acuacultura altamente tecnificada, iniciar el desarrollo de la tecnología apropiada para la entidad, y fomentar la inversión nacional y extranjera en este tipo de actividad;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
-
-VIII.- Promover, en coordinación con las autoridades y organismos competentes, la industrialización y la comercialización de los productos pesqueros del Estado, realizando los estudios y proyectos correspondientes, especialmente los que se contraigan al abasto y distribución de esos productos entre la población de la Entidad;
+VIII.- Promover, en coordinación con las autoridades y organismos competentes, la industrialización y la comercialización de los productos pesqueros del Estado, realizando los estudios y proyectos correspondientes, especialmente los referentes al abasto y distribución de esos productos entre la población de la Entidad;
 
 IX.- Proponer programas alternativos a la operación de la flota, industria e infraestructura pesquera en general de la entidad, en busca de elevar la eficiencia y la productividad;
 
-X.- Diseñar y aplicar sistemas de información y elaborar las estadísticas del sector;
+X.- Diseñar y aplicar sistemas de información y elaborar las estadísticas del sector; coadyuvar con las autoridades federales, proporcionando la información que se requiera para la formulación de censos e inventarios sectoriales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 1995)</small>
+XI.- Proponer y, en su caso, llevar a cabo programas de capacitación, desarrollo y modernización de la pesca ribereña que contribuyan a mejorar el nivel socioeconómico de los pescadores;
 
-XI.- Proponer y, en su caso, llevar a cabo programas de desarrollo y modernización de la pesca ribereña que contribuyan a mejorar el nivel socioeconómico de los pescadores;
+XII.- Coadyuvar con las autoridades federales en la vigilancia y el cumplimiento de las Leyes, Normas y Programas relacionados con la Pesca y Acuacultura y, en su caso, imponer las sanciones que procedan, dentro del ámbito de su competencia legal;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
+XIII.- Intervenir en Foros Nacionales e Internacionales de Pesca y Acuacultura;
 
-XII.- Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
+XIV.- Promover ante las autoridades competentes, el establecimiento de instrumentos jurídicos y económicos, así como de estímulos fiscales y financieros, necesarios para la protección, desarrollo y aprovechamiento sustentable de los recursos pesqueros con que cuenta la Entidad;
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
+XV.- Coordinarse con las instituciones de enseñanza e investigación locales y nacionales para fortalecer al sector pesquero mediante la creación o, en su caso, consolidación de los Centros de Investigación y Desarrollo Tecnológico; y
 
-XIII.- Formular y conducir la política estatal en materia de recursos naturales, así como en materia de ecología, saneamiento ambiental, regulación ambiental del desarrollo urbano y desarrollo de la actividad pesquera, con la participación que corresponda a otras Dependencias del Estado y de los Municipios;
+XVI.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XIV.- Administrar, regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan al Estado;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XV.- Establecer, con la participación que corresponda a otras dependencias y a las autoridades municipales, los criterios ecológicos particulares sobre la preservación y restauración de la calidad del medio ambiente, sobre los ecosistemas naturales; sobre el aprovechamiento sustentable de los recursos naturales; y sobre descargas de aguas residuales;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XVI.- Promover, ante las autoridades competentes, el establecimiento y adopción de instrumentos jurídicos y económicos, así como estímulos fiscales y financieros, necesarios para la protección, restauración, desarrollo y aprovechamiento sustentables de los recursos naturales y el cuidado del medio ambiente;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XVII.- Vigilar y estimular el cumplimiento de las Leyes, Normas y Programas relacionados con Recursos Naturales, Medio Ambiente y Desarrollo Pesquero, y en su caso imponer las sanciones que procedan, dentro del ámbito de su competencia legal;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XVIII.- Proponer el establecimiento de áreas naturales protegidas y promover, para su organización, administración y vigilancia, la participación de autoridades estatales y municipales, así como de instituciones de Educación Superior, Centros de Investigación y particulares;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XIX.- Coadyuvar con las autoridades federales en materia de posesión y propiedad de la Nación en las playas, zona federal marítimo-terrestre y terrenos ganados al mar; y proponer el aprovechamiento de salinas ubicadas en terrenos de Propiedad Nacional y de las formadas directamente por las aguas del mar;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XX.- Intervenir en Foros Nacionales e Internacionales respecto de las materias de su competencia;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXI.- Promover el ordenamiento ecológico del territorio estatal, en coordinación con las autoridades Federales, Estatales y Municipales, según corresponda, y con la participación de los particulares;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXII.- Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores Público, Social y Privado; y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXIII.- Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y de la calidad ambiental de los procesos productivos, de los servicios y del transporte;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXIV.- Fomentar y realizar programas de restauración ecológica, en cooperación con las autoridades federales, estatales y municipales;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXV.- Establecer y promover un sistema de información ambiental estatal, en coordinación con las autoridades federales, estatales y municipales, e instituciones de investigación y de educación superior;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXVI.- Promover en el Estado metodologías y procedimientos de evaluación económica del capital natural, así como de los bienes y servicios que éste presta;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXVII.- Proponer la creación de plantaciones forestales y viveros, por sí o en cooperación con los gobiernos federal y municipales o con los particulares; promover la conservación de los suelos de la Entidad y fomentar la aplicación de las técnicas y procedimientos adecuados en coordinación con las autoridades federales y municipales, y con la participación de los sectores social y privado;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXVIII.- Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, así como concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXIX.- Coadyuvar con las autoridades competentes en la realización de censos de predios forestales y silvopastoriles y de sus productos; y en el levantamiento, organización y manejo de la cartografía y estadística forestal del Estado;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXX.- Coadyuvar en la aplicación de las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio estatal de especies de la flora o fauna silvestres, así como proponer ante la autoridad competente medidas de restricción a este tránsito, cuando se requiera para su conservación o aprovechamiento;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXXI.- Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el aprovechamiento sustentable de recursos naturales; estimular con la participación de los organismos de los diversos niveles educativos, culturales y los medios de comunicación social, la conservación de nuestro patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXXII.- Proponer a la Federación el aprovechamiento de cuencas hidráulicas, vasos, manantiales y aguas de Propiedad Nacional y de las zonas federales correspondientes;
-
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXXIII.- Promover medidas de conservación de las corrientes y lagunas, y la protección de cuencas alimentadoras y obras de corrección torrencial; y
-
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1995)</small>
-
-XXXIV.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 24.
 
-(DEROGADO, P.O. 8 DE JULIO DE 1992)
+La Secretaría de Ecología tiene a su cargo:
+
+I.- Fomentar la protección, restauración y conservación de los ecosistemas, recursos naturales y bienes y servicios ambientales en el Estado, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
+
+II.- Formular y conducir la política estatal en materia de recursos naturales, así como en materia de ecología, saneamiento ambiental, regulación ambiental del desarrollo urbano, con la participación que corresponda a otras Dependencias del Estado y de los Municipios;
+
+III.- Administrar, regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan al Estado;
+
+IV.- Establecer, con la participación que corresponda a otras dependencias y a las autoridades municipales, los criterios ecológicos particulares sobre la preservación y restauración de la calidad del medio ambiente, sobre los ecosistemas naturales, sobre el aprovechamiento sustentable de los recursos naturales y sobre descargas de aguas residuales;
+
+V.- Promover ante las autoridades competentes, el establecimiento y adopción de instrumentos jurídicos y económicos, así como de estímulos fiscales y financieros, necesarios para la protección, restauración, desarrollo y aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
+
+VI.- Vigilar y estimular el cumplimiento de las Leyes, Normas y Programas relacionados con Recursos Naturales y Medio Ambiente, y en su caso imponer las sanciones que procedan, dentro del ámbito de su competencia legal;
+
+VII.- Proponer el establecimiento de áreas naturales protegidas y promover, para su organización, administración y vigilancia, la participación de autoridades estatales y municipales, así como de instituciones de Educación Superior, Centros de Investigación y particulares;
+
+VIII.- Coadyuvar con las autoridades federales en materia de posesión y propiedad de la Nación en las playas, zona federal marítimo-terrestre y terrenos ganados al mar; y proponer el aprovechamiento de salinas ubicadas en terrenos de Propiedad Nacional y de las formadas directamente por las aguas del mar;
+
+IX.- Intervenir en Foros Nacionales e Internacionales respecto de las materias de su competencia;
+
+X.- Promover el ordenamiento ecológico del territorio estatal, en coordinación con las autoridades federales, estatales y municipales, según corresponda, y con la participación de los particulares;
+
+XI.- Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores Público, Social y Privado; y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+
+XII.- Promover y difundir las tecnologías y formas de uso requeridas para el aprovechamiento sustentable de los ecosistemas y de la calidad ambiental de los procesos productivos, de los servicios y del transporte;
+
+XIII.- Fomentar y realizar programas de restauración ecológica, en cooperación con las autoridades federales, estatales y municipales;
+
+XIV.- Establecer y promover un sistema de información ambiental estatal, en coordinación con las autoridades federales, estatales y municipales, e instituciones de investigación y de educación superior;
+
+XV.- Promover en el Estado metodologías y procedimientos de valuación económica del capital natural, así como de los bienes y servicios que éste presta;
+
+XVI.- Proponer la creación de las plantaciones forestales y viveros, por sí o en cooperación con los gobiernos federales y municipales o con particulares; promover la conservación de los suelos de la Entidad y fomentar la aplicación de las técnicas y procedimientos adecuados en coordinación con las autoridades federales y municipales, y con la participación de los sectores social y privado;
+
+XVII.- Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental, así como concertar acciones e inversiones con los sectores social y privado para la protección y restauración del ambiente;
+
+XVIII.- Coadyuvar con las autoridades competentes en la realización de censos de predios forestales y silvopastoriles y de sus productos; y en el levantamiento, organización y manejo de la cartografía y estadística forestal del Estado;
+
+XIX.- Coadyuvar en la aplicación de las restricciones que establezcan las disposiciones aplicables sobre la circulación o tránsito por el territorio estatal de especies de la flora o fauna silvestres, así como proponer ante la autoridad competente medidas de restricción a este tránsito, cuando se requiera para su conservación o aprovechamiento;
+
+XX.- Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el aprovechamiento sustentable de recursos naturales; estimular con la participación de los organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, la conservación de nuestro patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia;
+
+XXI.- Proponer a la Federación el aprovechamiento de cuencas hidráulicas, vasos, manantiales y aguas de Propiedad Nacional y de las zonas federales correspondientes;
+
+XXII.- Promover medidas de conservación de las corrientes y lagunas, y la protección de cuencas alimentadoras y obras de corrección torrencial; y
+
+XXIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ###### Artículo 25.
 
@@ -735,9 +759,49 @@ XI.- Otorgar, revocar y modificar las concesiones y permisos para la explotació
 
 XII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+
 ###### Artículo 28.
 
-(DEROGADO, P.O. 11 DE MARZO DE 1995)
+La Secretaría de Turismo tiene a su cargo:
+
+I.- Proponer y aplicar las políticas y programas relativos al fomento de las actividades turísticas en el Estado;
+
+II.- Proponer y fomentar el establecimiento de infraestructura hotelera y turística que faciliten el desarrollo de las propuestas de inversión en el ramo, de los sectores social y privado;
+
+III.- Proponer y aplicar las políticas y programas específicos para el desarrollo de la Entidad y para la difusión de la imagen turística del Estado; auxiliar a los organismos públicos y privados en la preparación de materiales de difusión turística, y coadyuvar en la protección y seguridad de los visitantes;
+
+IV.- Proponer y promover el mejoramiento e instalación de nuevos museos y la conservación y restauración de las zonas arqueológicas de la entidad, en colaboración con las autoridades federales en la materia;
+
+V.- Formular y desarrollar actividades de turismo de acuerdo con los principios y objetivos de los planes Nacional y Estatal de Desarrollo, y de los programas específicos; así como suscribir los acuerdos y bases de colaboración necesarios para la realización de dichos programas;
+
+VI.- Diseñar y aplicar sistemas de información y elaborar las estadísticas del sector; coadyuvar con las autoridades federales, proporcionando la información que se requiera para la formulación de censos e inventarios sectoriales;
+
+VII.- Coadyuvar con las autoridades federales, en la vigilancia y el cumplimiento de la legislación turística y demás ordenamientos vigentes aplicables, en la esfera de su competencia;
+
+VIII.- Intervenir en Foros Nacionales e Internacionales respecto de la materia de su competencia;
+
+IX.- Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad y calidad del servicio turístico y estimular con la participación de los organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, la difusión y conservación de nuestro patrimonio cultural y promover la formación de especialistas en la materia;
+
+X.- Proponer al Ejecutivo del Estado a quienes de entre los sectores privado y social se hagan merecedores del otorgamiento de estímulos turísticos previstos en la Ley de Turismo del Estado y disposiciones que de ella emanen;
+
+XI.- Proponer al Ejecutivo del Estado, previos los estudios correspondientes, las zonas que sería factible declarar de desarrollo turístico prioritarias; el uso, provisión, reserva y destino de áreas y predios en el Estado para fines turísticos;
+
+XII.- Coadyuvar con los sectores social y privado para la prestación de servicios turísticos en términos de la legislación aplicable en la materia;
+
+XIII.- Llevar un registro y control de los prestadores de servicios turísticos y, en su caso, expedirles a quienes así lo ameriten, la cédula de calidad turística;
+
+XIV.- Ejecutar los convenios que en la materia celebre el Estado con la Federación y los Municipios;
+
+XV.- Regular, controlar y supervisar, de acuerdo con la legislación aplicable, los servicios turísticos no sujetos a la competencia de la Federación;
+
+XVI.- Integrar debidamente los expedientes y someter a la consideración del Ejecutivo del Estado, las solicitudes para el otorgamiento de Permisos y Concesiones para la explotación y establecimiento de negocios, centros, zonas y lugares turísticos, de acuerdo con la legislación aplicable;
+
+XVII.- Prestar asesoría y apoyo a los prestadores de servicios turísticos que lo soliciten, y recabar las quejas y sugerencias sobre la calidad del servicio turístico;
+
+XVIII.- Imponer las sanciones administrativas, en la esfera de su competencia, sin perjuicio de lo que dispongan otros ordenamientos; y
+
+XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### Artículo 29.
 
@@ -868,3 +932,23 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 CUARTO.- El personal de base, así como los recursos financieros y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las suprimidas Secretaría de Desarrollo Económico y la Oficialía Mayor utilizarán para la operación de los asuntos a su cargo, pasarán a las Dependencias que con motivo de este Decreto asumen las atribuciones de aquéllas. Lo anterior también regirá con respecto a las demás dependencias que afectan las modificaciones contenidas en el presente Decreto.
 
 QUINTO.- Los programas y asuntos a cargo de las dependencias que se suprimen, de las que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de resolución en el momento de iniciar su vigencia el presente Decreto se continuarán o serán despachados por las dependencias a las que corresponda el conocimiento de las materias sobre las cuales aquéllos versen.
+
+P.O. 24 DE DICIEMBRE DE 1997.
+
+Primero.- El presente decreto entrará en vigor el día 1o. de Enero de 1998, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
+
+Segundo.- La Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero que por este decreto se reestructura, conservará al personal de base adscrito al área de Medio Ambiente y Recursos Naturales el cual pasará a formar parte de la estructura de la nueva Secretaría de Ecología, así como los recursos materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la reestructurada Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero utilizará para la operación de los asuntos en materia de medio ambiente, recursos naturales y ecología.
+
+Tercero.- La Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero que por este decreto se reestructura, conservará al personal de base adscrito al área de Pesca el cual pasará a formar parte de la estructura de la nueva Secretaría de Pesca, así como los recursos materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la reestructurada Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero utilizará para la operación de los asuntos en materia de Pesca.
+
+Cuarto.- Las referencias hechas a la Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero en la Ley que se reforma, y en otras leyes y reglamentos del Estado, en materia de pesca, en lo sucesivo se entenderán como hechas a la nueva Secretaría de Pesca, así como las atribuciones que en esa misma materia le otorgaren las leyes y reglamentos vigentes en la entidad.
+
+Lo anterior se observará también, con relación a los derechos y obligaciones que se deriven de los Convenios, Contratos y cualquiera otro acto jurídico que la dependencia en cuestión haya celebrado con dependencias y entidades de la Federación, de otros Estados y de los Municipios del Estado, así como con particulares.
+
+Quinto.- Las referencias hechas a la Secretaría de Medio Ambiente, Recursos Naturales y Desarrollo Pesquero en la ley que se reforma, en materia de ecología, en lo sucesivo se entenderán como hechas a la nueva Secretaría de Ecología, así como las atribuciones que en esa misma materia le otorgaren las leyes y reglamentos vigentes en la entidad.
+
+Lo anterior se observará también, con relación a los derechos y obligaciones que se deriven de los Convenios, Contratos y cualquiera otro acto jurídico que la dependencia en cuestión haya celebrado con dependencias y entidades de la Federación, de otros Estados y de los Municipios del Estado, así como con particulares.
+
+Sexto.- Los programas y asuntos a cargo de los organismos que posteriormente se supriman como consecuencia del presente Decreto de reformas, de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de la resolución en el momento de iniciar su vigencia el presente decreto continuarán o serán despachados por las dependencias a las que les corresponda el conocimiento de las materias sobre las cuales aquéllos versen.
+
+Séptimo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
