@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-comunicaciones-y-transportes-para-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-30"
-last_updated: "1987-04-30"
+last_updated: "1988-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, COMUNICACIONES Y TRANSPORTES PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de abril de 1987.
 
@@ -771,7 +771,9 @@ f). Aprobar el examen de conducción respectivo;
 
 g). Proporcionar los datos que se soliciten para fines de identificación personal;
 
-h). Otorgar una garantía de depósito en efectivo por la cantidad de doscientas veces el salario mínimo diario vigente aplicable en el Estado, que responderá en su caso, inicialmente, de los daños que el menor pudieran (sic) ocasionar con motivo de la conducción;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
+h). Otorgar una garantía de depósito en efectivo por la cantidad de diez veces el salario mínimo diario vigente aplicable en el Estado que responderá en su caso, inicialmente, de los daños que el menor pudiera ocasionar con motivo de la conducción;
 
 i). Constancia por escrito de que el padre o tutor del menor se hace responsable de la conducta y vigilancia de su representado, así como de reparar los daños que éste pudiera ocasionar en la conducción del vehículo;
 
@@ -1193,7 +1195,9 @@ Queda prohibido dar vuelta en "U" cerca de una curva, de una cima o en zonas de 
 
 Queda prohibido exceder los límites de velocidad que indiquen las señales respectivas, igualmente al circular a una velocidad tan baja que entorpezca la fluidez de la circulación, excepto cuando las condiciones de la vía o atmosféricas así lo exijan.
 
-La velocidad reglamentaria en la capital y demás poblaciones del Estado será de treinta kilómetros por hora. La autoridad de tránsito podrá modificar dicha velocidad en los casos que lo estime necesario, de acuerdo con las señales que al efecto se fijen.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
+La velocidad reglamentaria en la capital y demás poblaciones del Estado, será de cuarenta kilómetros por hora. La autoridad de Tránsito podrá modificar dicha velocidad en los casos que lo estime necesario, de acuerdo con las señales que al efecto se fijen.
 
 ###### Art. 162.
 
@@ -1335,13 +1339,17 @@ El funcionamiento de los parquímetros será bajo vigilancia de los agentes de v
 
 ### CAPITULO XIV. De los estacionamientos de alquiler
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 181.
 
-La persona física o moral que pretenda instalar un estacionamiento de vehículos para su explotación o beneficio, requiere de licencia de funcionamiento, cuyo otorgamiento corresponde a la autoridad municipal, quien antes de extenderla recabará la opinión técnica de la autoridad vial.
+La persona física o moral que pretenda instalar un estacionamiento de vehículos para su explotación o beneficio personal, requiere de la autorización expedida por la autoridad vial, debiendo cubrir el derecho o impuesto correspondientes al ser autorizado ante la autoridad municipal. De este requisito quedan exentos los sindicatos o agrupaciones de trabajadores.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 182.
 
-Para la expedición de licencias de funcionamiento de estacionamiento, la autoridad municipal exigirá el cumplimiento de los siguientes requisitos:
+Para la expedición de licencias de funcionamiento de estacionamiento, la autoridad vial exigirá el cumplimiento de los siguientes requisitos:
 
 I.- Que cuenten con dos carriles de circulación, uno para la entrada y otro para la salida de los vehículos. Cada carril deberá tener un ancho mínimo de tres metros;
 
@@ -1375,9 +1383,11 @@ El cupo de los locales de estacionamiento de alquiler será determinado en funci
 
 Queda prohibido que los estacionamientos alberguen más vehículos de los que el cupo indicado en la licencia respectiva autorice y deberán contar con letreros que indiquen al público cuando tengan cupo completo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 185.
 
-Corresponde a la autoridad municipal establecer las cuotas o tarifas para el uso de estacionamientos de alquiler.
+Corresponde a la autoridad municipal establecer las cuotas o tarifas para el uso de estacionamientos de alquiler. Quedan exentos de estos requisitos, los sindicatos y agrupaciones de trabajadores.
 
 ###### Art. 186.
 
@@ -1493,9 +1503,11 @@ VII.- Cuando sea necesario retirar algún vehículo de la vía pública por enco
 
 a). Se procurará evitarle daños innecesarios;
 
-b). Se pondrá de inmediato a disposición de la autoridad superior del agente que lo haya retirado, para su custodia, mediante acta por triplicado, del estado de conservación sus accesorios y de los objetos hallados en su interior;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
 
-c). Se avisará al propietario por escrito, a fin de que se presente a recogerlo, previos los trámites de identificación, comprobación de dominio y pago de la infracción y gastos de traslado, si se ignora el nombre del propietario el aviso se hará por los medios informativos de mayor difusión local y el costo del aviso se cargará, en su momento, a aquél;
+b). Se pondrá de inmediato a disposición de la Coordinación de Seguridad Pública, Vialidad y Transporte para su custodia, mediante inventario por triplicado del estado de conservación sus accesorios y de los objetos hallados en su interior;
+
+c). (DEROGADO, P.O. 4 DE DICIEMBRE DE 1988)
 
 d). Si durante la operación de retiro se presentase el propietario o conductor del vehículo y esté en disposición de removerlo, aquélla se suspenderá y únicamente se levantará boleta de infracción; si se niega a retirar el vehículo el agente continuará con la operación de remoción.
 
@@ -1507,27 +1519,35 @@ I.- Amonestación;
 
 II.- Multa.
 
-Cuando la multa no pueda ser pagada ni exista forma de asegurar su importe, se conmutará por arresto.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
+Cuando la multa no pueda ser pagada ni exista forma de asegurar su importe, se conmutará por arresto que no podrá exceder de treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 193.
 
-La elaboración del catálogo de sanciones aplicables corresponde a la autoridad municipal.
+La elaboración del catálogo de sanciones aplicables corresponde a la autoridad vial.
 
 ###### Art. 194.
 
 La autoridad municipal someterá a la aprobación del Congreso del Estado el catálogo de sanciones en lo relativo a las de orden económico.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 195.
 
-Las sanciones económicas se ajustarán anualmente de acuerdo al incremento porcentual que tenga el salario mínimo que se establezca para el Estado.
+Las sanciones económicas se ajustarán anualmente de acuerdo al incremento porcentual que tenga el salario mínimo que se establezca para el Estado y que no deberá sobrepasar el monto total al correspondiente, ocho días del citado salario mínimo.
 
 ###### Art. 196.
 
 El catálogo de sanciones y sus ajustes se publicarán con la debida oportunidad en el periódico oficial del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 197.
 
-La calificación de las infracciones es facultad exclusiva de la autoridad municipal.
+La calificación de las infracciones es facultad exclusiva del mando de la autoridad vial.
 
 ###### Art. 198.
 
@@ -1553,9 +1573,11 @@ a). Los servicios auxiliares, obras, construcciones y demás dependencias y acce
 
 b). Los terrenos que sean necesarios para el establecimiento de los servicios y obras a que se refiere el inciso anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 1988)</small>
+
 ###### Art. 202.
 
-Las vías de comunicación de jurisdicción estatal quedan sujetas exclusivamente a la competencia del Poder Ejecutivo. El Gobernador del Estado ejercitará sus facultades directamente o por conducto de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, en los siguientes casos, y sin perjuicio de lo que establezcan otros ordenamientos de la Entidad:
+Las vías de comunicación de jurisdicción estatal quedan sujetas exclusivamente a la competencia del Poder Ejecutivo. El Gobernador del Estado ejercitará sus facultades directamente o por conducto de la autoridad vial, en los siguientes casos y sin perjuicio de lo que establezcan otros ordenamientos de la Entidad:
 
 I.- Construcción, mejoramiento, conservación y explotación de vías terrestres de comunicación;
 
@@ -1603,7 +1625,13 @@ III.- Transporte foráneo, el que se preste entre puntos situados dentro de los 
 
 IV.- Servicio exclusivo de Turismo, el que tiene como finalidad trasladar a las personas a los lugares de interés turístico, arqueológico, arquitectónico e histórico;
 
-V.- Servicio público de automóviles de alquiler, el destina (sic) a la transportación de personas, sin itinerario fijo y con tarifa por viaje a los que se sujetarán los prestadores del servicio;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE DICIEMBRE DE 1988)</small>
+
+V.- Servicio público de automóviles de alquiler, el destinado a la transportación de personas, sin itinerario fijo y con tarifa por viaje a los que se sujetarán los prestadores del servicio, y que deberá prestarse con vehículos con capacidad no mayor de siete personas.
+
+El servicio con itinerario fijo se efectuará con vehículos tipo sedán cuatro puertas, carreola, combi y microbuses, cuya capacidad no será mayor de cinco, once, y dieciocho personas, respectivamente.
+
+El servicio de Turismo deberá prestarse con el tipo de vehículo señalados en el esta fracción y con autobuses de pasajeros que se dediquen para tal fin.
 
 VI.- Servicio público de transporte de carga, el destinado a la transportación de cosas, mercancías, productos agrícolas, materiales de construcción y objetos en general, en los términos y condiciones que señale la Ley.
 
@@ -2088,3 +2116,9 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, el veintiocho 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho días del mes de abril de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ABELARDO CARRILLO ZAVALA.- El Secretario de Gobierno, Lic. LUIS ROBERTO SILVA PEREZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
