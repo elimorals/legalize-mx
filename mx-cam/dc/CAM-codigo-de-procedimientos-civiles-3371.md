@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1998-12-22"
+last_updated: "2000-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -6659,7 +6659,7 @@ Para decretar su separación después de discernido el cargo, es indispensable o
 
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
 ###### Art. 1286.
 
@@ -6721,7 +6721,23 @@ Lo dispuesto en los artículos que preceden se aplicará a todos los actos y con
 
 ###### Art. 1296.
 
-El que pretenda adoptar a un menor o a un incapacitado, aunque éste sea mayor de edad, deberá justificar los requisitos previstos en los artículos 406 y 407 en su caso, del Código Civil del Estado.
+El que pretende adoptar a un menor o a un incapacitado aunque éste sea mayor de edad, deberá justificar los requisitos previstos en los artículos 406 y 407 en su caso del Código Civil del Estado, debiéndose observar lo siguiente:
+
+I.- En la promoción inicial se deberá manifestar el tipo de adopción que se promueve el nombre, edad y domicilio del menor o incapacitado que se pretende adoptar, el nombre, edad y domicilio de quienes ejerzan sobre el patria potestad o tutela o de la persona o Institución de Asistencia Social Pública o Privada que lo haya acogido y acompañar certificado médico de buena salud, estudio socioeconómico y estudio psicológico realizados por Instituciones públicas autorizadas;
+
+II.- Cuando el menor hubiere sido acogido por una Institución de Asistencia Social Pública o Privada, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos del art. 458 fracc. IV del Código Civil.
+
+Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo.
+
+Si el menor no tuviere padres conocidos o no hubiere sido acogido por Institución de Asistencia Social Pública o Privada, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismo (sic) efectos;
+
+III.- Tratándose de extranjeros con residencia en México, deberán acreditar su legal residencia en el país.
+
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acrediten que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y recibir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para integrarse y permanecer en el País con la finalidad de realizar una adopción.
+
+La documentación que presente los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
+
+La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
 
 ###### Art. 1297.
 
@@ -6731,13 +6747,23 @@ Rendida la justificación que se exige en el artículo anterior, y obtenido el c
 
 Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 423 del Código Civil.
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+
+Si el adoptado fuere menor de edad, para resolver sobre la revocación, se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 413 del Código Civil, cuando fuere conocido su domicilio o en su caso se oirá al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+
+###### Art. 1298
+
+bis.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, y reunido (sic) los requisitos previstos en el artículo 419 Bis del Código Civil, el Juez los solicitará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+
 ###### Art. 1299.
 
-La impugnación de la adopción en los casos previstos por los artículos 410 y 421, fracción II, del Código Civil, se tramitará en la vía sumaria.
+La impugnación de la adopción simple y su revocación, en los casos previstos por los artículos 410 y 421 fracción II se tramitarán en la vía sumaria.
 
 ### CAPITULO VII. Del apeo y deslinde
 
@@ -7232,3 +7258,9 @@ Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan a
 P.O. 22 DE DICIEMBRE DE 1998.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, pero la substanciación de los asuntos pendientes relativos a la materia de las reformas se continuará de conformidad con las disposiciones del Código de Procedimientos Civiles vigentes antes de dichas reformas.
+
+P.O. 22 DE MAYO DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
