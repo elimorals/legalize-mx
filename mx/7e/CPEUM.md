@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-03-08"
+last_updated: "1999-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -4166,7 +4166,7 @@ Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los d
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
 ###### Artículo 23.
 
@@ -4332,7 +4332,11 @@ Las contribuciones se determinarán y liquidarán conforme a las disposiciones v
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito, en Juzgados de Distrito, y en un Consejo de la Judicatura Federal.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y en Juzgados de Distrito.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estarán a cargo del Consejo de la Judicatura Federal en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4350,9 +4354,9 @@ La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la compe
 
 El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-El Pleno de la Suprema Corte de Justicia, estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la propia Corte y remitir a los Tribunales Colegiados de Circuito, aquellos asuntos en los que hubiera establecido jurisprudencia, para la mayor prontitud de su despacho.
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -4428,7 +4432,9 @@ Ministro: “Sí protesto”
 
 Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
-Los Magistrados de Circuito y los Jueces de Distrito protestarán ante el Consejo de la Judicatura Federal o ante la autoridad que determine la ley.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte de Justicia y el Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -4492,27 +4498,47 @@ Los Magistrados Electorales que integren las salas regionales deberán satisface
 
 El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
 ###### Art. 100.
 
-La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estarán a cargo del Consejo de la Judicatura Federal en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
+El Consejo de la Judicatura Federal será un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones.
 
-El Consejo se integrará por siete miembros de los cuales, uno será el Presidente de la Suprema Corte de Justicia, quien también lo será del Consejo; un Magistrado de los Tribunales Colegiados de Circuito, un Magistrado de los Tribunales Unitarios de Circuito y un Juez de Distrito, quienes serán electos mediante insaculación; dos Consejeros designados por el Senado y uno por el Presidente de la República. Los tres últimos, deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos señalados en el artículo 95 de esta Constitución.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+El Consejo se integrará por siete miembros de los cuales, uno será el Presidente de la Suprema Corte de Justicia, quien también lo será del Consejo; tres Consejeros designados por el Pleno de la Corte, por mayoría de cuando menos ocho votos, de entre los Magistrados de Circuito y Jueces de Distrito; dos Consejeros designados por el Senado, y uno por el Presidente de la República.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+Todos los Consejeros deberán reunir los requisitos señalados en el artículo 95 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, en el caso de los designados por la Suprema Corte, deberán gozar, además con reconocimiento en el ámbito judicial.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, ratificación y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de esta Constitución.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-Las decisiones del Consejo serán definitivas e inatacables, salvo las que se refieran a la designación, adscripción y remoción de magistrados y jueces, las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva.
+De conformidad con lo que establezca la ley, el Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. La Suprema Corte de Justicia podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional federal. El Pleno de la Corte también podrá revisar y, en su caso, revocar los que el Consejo apruebe, por mayoría de cuando menos ocho votos. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
-La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación. Con ambos se integrará el presupuesto del Poder Judicial de la Federación que será remitido por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno, en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de magistrados y jueces, las cuales podrán ser revisadas por la Suprema Corte de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la ley orgánica respectiva.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+
+La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación, sin perjuicio de lo dispuesto en el párrafo séptimo del artículo 99 de esta Constitución. Los presupuestos así elaborados serán remitidos por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -4778,9 +4804,9 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
+IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -8355,6 +8381,20 @@ UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en e
 D.O.F. 8 DE MARZO DE 1999.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE JUNIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los actuales Consejeros de la Judicatura Federal, con excepción del Presidente del Consejo, concluirán sus funciones a la entrada en vigor del presente decreto.
+
+El Pleno de la Suprema Corte de Justicia, el Senado y el Ejecutivo Federal deberán designar a los Consejeros de la Judicatura Federal, de conformidad con el artículo 100 constitucional reformado, a más tardar dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+Por única vez, el período de los Consejeros designados por la Suprema Corte de Justicia vencerá el último día de noviembre de 2002, de 2004 y de 2006; el de los designados por el senado el último día de noviembre de 2003 y 2007; y el designado por el Ejecutivo Federal, el último día de noviembre de 2005. Al designar Consejeros, se deberá señalar cual de los períodos corresponderá a cada uno.
+
+TERCERO.- En tanto queda instalado el Consejo de la Judicatura Federal, en términos del transitorio que antecede, funcionará una comisión temporal compuesta por el Presidente del Consejo y por los funcionarios que dependan directamente del propio Consejo. Dicha comisión proveerá los trámites y resolverá los asuntos administrativos de notoria urgencia que se presenten, salvo los relacionados con nombramientos, adscripción, ratificación y remoción de jueces y magistrados. Una vez instalado el Consejo, dará cuenta al pleno de las medidas tomadas, a fin de que éste acuerde lo que proceda.
+
+CUARTO.- Los procesos a que aluden los artículos que se reforman, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose conforme a las disposiciones vigentes en el momento en que fueron iniciados.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
