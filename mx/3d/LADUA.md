@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "1998-12-31"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley Publicada en la Segunda Sección del Diario Oficial de la Federación el viernes 15 de diciembre de 1995.
 
@@ -211,10 +211,6 @@ En los casos de transferencias de mercancías a que se refiere esta fracción, c
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 VII. Pagar en las oficinas autorizadas, dentro de los tres primeros días del mes de que se trate, por la prestación del servicio de manejo, almacenaje y custodia de las mercancías a que se refiere este artículo, un aprovechamiento del 5% de los ingresos brutos obtenidos por el establecimiento en el mes inmediato anterior, pudiendo acreditar contra dicho aprovechamiento, los gastos efectuados por obras que se realicen en las aduanas conforme a los programas que autorice la Secretaría.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Cuando las personas que presten los servicios a que se refiere este artículo, destinen total o parcialmente el almacén para uso propio, el aprovechamiento a que se refiere la fracción VII de este artículo, deberá calcularse conforme a la proporción que la parte destinada para uso propio represente respecto del volumen total susceptible de almacenaje. En este caso, para determinar la base del aprovechamiento se estimarán los ingresos considerando el volumen de las mercancías almacenadas, el periodo de almacenaje y la tarifa que corresponda al propio almacén o a uno de características similares a éste que preste servicios al público en general en el mismo recinto fiscal.
 
@@ -419,8 +415,6 @@ Durante ese lapso este equipo podrá permanecer en el puerto sin el pago de los 
 ###### Artículo 32.
 
 Cuando hubiera transcurrido el plazo a que se refiere el artículo 29 de esta Ley, las autoridades aduaneras notificarán personalmente o por correo certificado con acuse de recibo a los propietarios o consignatarios de las mercancías, en el domicilio que aparezca en el documento de transporte o en la factura comercial, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar las mercancías, previa la comprobación del cumplimiento de las obligaciones en materia de regulaciones y restricciones no arancelarias, así como del pago de los créditos fiscales causados y que, de no hacerlo, se entenderá que han pasado a ser propiedad del Fisco Federal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará por estrados en la aduana.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1146,7 +1140,7 @@ Para los efectos de este artículo, se entiende por mercancías de la misma espe
 
 ###### Artículo 78.
 
-Cuando el valor de las mercancías importadas no pueda determinarse con arreglo a los métodos a que se refieren los artículos 64 y 71, fracciones I, II, II y IV de esta Ley, dicho valor se determinará aplicando los métodos señalados en dichos artículos en orden sucesivo y por exclusión, con mayor flexibilidad, conforme a criterios razonables y compatibles con los principios y disposiciones legales, sobre la base de los datos disponibles en territorio nacional.
+Cuando el valor de las mercancías importadas no pueda determinarse con arreglo a los métodos a que se refieren los artículos 64 y 71, fracciones I, II, III y IV de esta Ley, dicho valor se determinará aplicando los métodos señalados en dichos artículos en orden sucesivo y por exclusión, con mayor flexibilidad, conforme a criterios razonables y compatibles con los principios y disposiciones legales, sobre la base de los datos disponibles en territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2214,7 +2208,9 @@ VI. Practicar el reconocimiento aduanero de las mercancías de importación o ex
 
 VII. Verificar que las mercancías por cuya importación fue concedido algún estímulo fiscal, franquicia, exención o reducción de impuestos o se haya eximido del cumplimiento de una regulación o restricción no arancelaria, estén destinadas al propósito para el que se otorgó, se encuentren en los lugares señalados al efecto y sean usadas por las personas a quienes fue concedido, en los casos en que el beneficio se haya otorgado en razón de dichos requisitos o de alguno de ellos.
 
-VIII. Fijar los lineamientos para las operaciones de carga, descarga, manejo de mercancías de comercio exterior y para la circulación de vehículos, dentro de los recintos fiscales o fiscalizados y señalar dentro de dichos recintos las áreas restringidas para el uso de aparatos de telefonía celular, o cualquier otro medio de comunicación; así como ejercer en forma exclusiva el control y vigilancia sobre la entrada y salida de mercancías y personas en los aeropuertos y puertos marítimos autorizados para el tráfico internacional y en las aduanas fronterizas.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+
+VIII. Fijar los lineamientos para las operaciones de carga, descarga, manejo de mercancías de comercio exterior y para la circulación de vehículos, dentro de los recintos fiscales y fiscalizados y señalar dentro de dichos recintos las áreas restringidas para el uso de aparatos de telefonía celular o cualquier otro medio de comunicación; así como ejercer el control y vigilancia sobre la entrada y salida de mercancías y personas en los aeropuertos y puertos marítimos autorizados para el tráfico internacional y en las aduanas fronterizas.
 
 IX. Inspeccionar y vigilar permanentemente el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, así como en cualquier otra parte del territorio nacional.
 
@@ -2503,8 +2499,6 @@ Cuando la resolución definitiva ordene la devolución de las mercancías, el pa
 ###### Artículo 158.
 
 En los casos en que con motivo del reconocimiento aduanero o segundo reconocimiento se retengan mercancías por no haberse presentado la garantía a que se refiere el artículo 36, fracción I, inciso e) de esta Ley, las autoridades aduaneras procederán a retener las mercancías hasta que sea presentada dicha garantía.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ## Título Séptimo. Agentes aduanales, apoderados aduanales y dictaminadores aduaneros
 
@@ -3054,8 +3048,6 @@ Multa del 100% al 130% del valor comercial de las mercancías cuando las maquila
 
 IV. Siempre que no se trate de vehículos, multa del 70% al 100% del valor comercial de las mercancías cuando no se compruebe el cumplimiento de regulaciones y restricciones no arancelarias, inclusive las cuotas compensatorias.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 V. Multa del 100% al 150% del valor comercial de las mercancías declaradas, a la mencionada en la fracción VI del artículo 176 de esta Ley.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
@@ -3073,10 +3065,6 @@ VIII. Multa del 10% al 20% del valor declarado o del valor comercial de las merc
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IX. Multa equivalente a la señalada en las fracciones I, II, III o IV de este artículo, según se trate, o del 70% al 100% del valor comercial de las mercancías cuando estén exentas, a la señalada en la fracción X, salvo que se demuestre que el pago correspondiente se efectuó con anterioridad a la presentación de las mercancías, en cuyo caso, únicamente se incurrirá en la sanción prevista en la fracción V del artículo 185 de esta Ley.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 179.
 
@@ -3226,7 +3214,7 @@ XIV. Omitan o asienten datos inexactos en relación con el cumplimiento de las n
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, previstas en el artículo 184 de esta Ley:
 
-I. Multa de $1,000.00 a $1,250.00 en caso de omisión y de $500.00 a $750.00 por la presentación extemporánea a las mencionadas en las fracciones I y ll.
+I. Multa de $1,000.00 a $1,250.00 en caso de omisión y de $500.00 a $750.00 por la presentación extemporánea a las mencionadas en las fracciones I y II.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3340,7 +3328,7 @@ V. Multa de $3,000.00 a $4,000.00 a las señaladas en las fracciones XII y XIII.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. Multa de $30,000.00 a $45,000.00, a las señaladas en las fracciones VIII y XV.
+VI. Multa de $30,000.00 a $45,000.00, a las señaladas en las fracciones VIII y XIV.
 
 VII. Clausura del establecimiento por una semana en la primera ocasión, por dos semanas en la segunda ocasión, por tres semanas en la tercera y siguientes ocasiones dentro de cada año de calendario, a la señalada en la fracción XV del artículo 186 de esta Ley.
 
@@ -3498,17 +3486,17 @@ La interposición del recurso de revocación será optativa para el interesado a
 
 T r a n s i t o r i o s
 
-Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones I y II; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
+Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones l y II; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
 
 Segundo. A partir de la fecha en que entre en vigor esta Ley, quedará abrogada la Ley Aduanera, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1981.
 
 En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirá en vigor el Reglamento de la Ley que se abroga en todo lo que no se le oponga.
 
-Tercero. Hasta en tanto entra en vigor lo dispuesto en los artículos 21, fracciones I y II y 82, párrafos primero y segundo de esta Ley, las mercancías que ingresen al territorio nacional, o que se pretendan extraer del mismo por vía postal, quedarán confiadas al Servicio Postal Mexicano, bajo la vigilancia y control de las autoridades aduaneras.
+Tercero. Hasta en tanto entra en vigor lo dispuesto en los artículos 21, fracciones l y II y 82, párrafos primero y segundo de esta Ley, las mercancías que ingresen al territorio nacional, o que se pretendan extraer del mismo por vía postal, quedarán confiadas al Servicio Postal Mexicano, bajo la vigilancia y control de las autoridades aduaneras.
 
 Para los efectos de lo dispuesto en el párrafo anterior, el Servicio Postal Mexicano deberá:
 
-I. Abrir los bultos postales procedentes del extranjero en presencia de las autoridades aduaneras.
+l. Abrir los bultos postales procedentes del extranjero en presencia de las autoridades aduaneras.
 
 II. Presentar las mercancías a las autoridades aduaneras para su reconocimiento y, en su caso, clasificación arancelaria, valoración y determinación de créditos fiscales.
 
@@ -3587,3 +3575,21 @@ XI. Las cantidades que se contienen en los artículos 164 fracción VII, 165, fr
 XII. La reforma al artículo 107 de esta Ley entrará en vigor a partir del 1o. de julio de 1999.
 
 XIII. La reforma a los artículos 109 y 110 de esta Ley será aplicable a las mercancías que se importen temporalmente a partir del 1o. de enero de 1999.
+
+D.O.F. 4 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+.
+
+CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
+
+QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
+
+Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
+
+.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
