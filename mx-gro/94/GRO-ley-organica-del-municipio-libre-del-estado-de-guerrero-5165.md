@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1992-06-09"
+last_updated: "1993-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -270,6 +270,20 @@ III. Contar con la infraestructura necesaria, a juicio del Congreso del Estado, 
 IV. Tener en funcionamiento los servicios públicos que demande la comunidad para la vida normal e higiénica de la población; y
 
 V. Contar con la opinión favorable de los Municipios afectados, la que deberá producirse dentro de los tres meses siguientes a la solicitud respectiva y que no ponga en peligro, a juicio del Congreso del Estado, su estabilidad o autosuficiencia económica.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 13 A.- El Congreso, cuando así lo resuelvan, por lo menos, las dos terceras partes de sus miembros, podrá establecer un Municipio, a pesar de que no se cuente con la población mínima que establece el Artículo 13 de esta Ley, si reúnen los siguientes requisitos:
+
+I.- Si la solicitud escrita de los ciudadanos interesados se presentó dos años antes, cuando menos, de que se inicie el procedimiento que previene el Artículo 47 fracción XIII de la Constitución, y los Artículos 12, 13 y 14 de esta Ley;
+
+II.- Si se trata de una zona con densidad socio-económica, cultural, demográfica, geoeconómica y con infraestructura; y con tradiciones, usos, costumbres y trayectoria histórica que la dote de identidad y potencial de desarrollo, que permita que actúe como base para la división territorial y la organización política y administrativa del Estado;
+
+III.- Si para promover la formación del Municipio no se cometieron ilícitos ni se ejecutaron sistemáticamente actos de violencia física o moral contra las autoridades o la ciudadanía.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 13 B.- Cuando se cree un nuevo Municipio, el Congreso, por lo menos con el voto de las dos terceras partes de sus miembros, designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos ni desempeñado cargos de elección popular. Ese Ayuntamiento durará 3 años, por lo menos, y será sustituido por aquel que sea elegido en los siguientes comicios ordinarios al término de ese plazo.
 
 ###### ARTICULO 14.
 
@@ -632,6 +646,10 @@ XX. Fijar, modificar o sustituir los nombres de las comisarías y poblados del M
 XXI. Resolver en revisión los actos del Presidente Municipal que sean recurribles conforme a esta Ley.
 
 XXII. Dividir el territorio Municipal para su gobierno interior en comisarías, determinando las áreas de circunscripción y determinar la procedencia de crear delegaciones municipales;
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1993)</small>
+
+XXII-A.- Establecer Centros Micro-regionales de Servicios Públicos de carácter administrativo y técnico, en aquellas zonas que lo requieran, por razones de dispersión o concentración poblacional, accesibilidad a dichos servicios, facilidades de comunicación y patrones de vida social, determinando su jurisdicción territorial.
 
 XXIII. Designar a los delegados y subdelegados municipales, a los titulares de la Secretaría del Ayuntamiento y de la Contraloría Municipal a propuesta del Presidente Municipal;
 
@@ -1951,6 +1969,10 @@ IX. Cronista Municipal, y
 
 X. Comités de Desarrollo Indigenista.
 
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1993)</small>
+
+XI.- Centros Microregionales de Servicios Públicos.
+
 La presente Ley y otros ordenamientos establecerán los requisitos para la creación de estos órganos, y definirán su integración, facultades y responsabilidades.
 
 ### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS DE LA CIUDAD
@@ -2229,7 +2251,67 @@ Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas f
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
 
-### CAPITULO UNICO
+### CAPITULO XII. DE LOS CENTROS MICROREGIONALES DE SERVICIOS PUBLICOS
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 241 A.- La creación de los Centros Microregionales de Servicios Públicos a los que se refiere el Artículo 61 Fracción XXII-A surtirá sus efectos a partir de la aprobación del Congreso del Estado, y tendrán por objeto integrar equipamiento, servicios e infraestructura que puedan ser aprovechados por los ciudadanos de una región.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 241 B.- Los Centros Microregionales de Servicios son órganos de desconcentración territorial de los Ayuntamientos y de la Administración Municipal de carácter auxiliar; y estarán sujetos al poder jerárquico del Cabildo, por conducto del Presidente Municipal.
+
+El Centro contará con un coordinador que fungirá como su Titular y quien será designado por el Ayuntamiento a propuesta del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 241 C.- El Gobierno del Estado podrá transferir el uso de sus facultades a un centro, siempre y cuando para su creación se haya firmado un convenio de coordinación en los términos del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 241 D.- El Ayuntamiento, para la creación de un Centro Microregional, tomará en consideración lo siguiente:
+
+I.- Volumen y distribución de la población;
+
+II.- Vías de comunicación;
+
+III.- Nivel socio-económico;
+
+IV.- Infraestructura y equipamiento disponible;
+
+V.- Relaciones socio-económicas con la cabecera municipal y otras poblaciones de carácter regional o subregional;
+
+VI.- Potencial productivo;
+
+VII.- Usos, tradiciones y costumbres; y
+
+VIII.- Otros análogos a los anteriores elementos.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+
+ARTICULO 241 E.- Las atribuciones del Centro Microregional de Servicios Públicos serán:
+
+I.- Prestar los servicios que le sean delegados por los Ayuntamientos y/o el Gobierno del Estado;
+
+II.- Realizar actividades en relación al catastro y las de carácter impositivo;
+
+III.- Llevar a cabo funciones de policía y buen gobierno, así como cuidar la seguridad pública;
+
+IV.- Actuar como autoridad auxiliar del Gobierno del Estado y Gobierno Federal;
+
+V.- Llevar el padrón de habitantes;
+
+VI.- Conducir labores de protección civil y de interés sanitario;
+
+VII.- Promover la participación de la ciudadanía de conformidad con la Ley que establece las bases para el fomento de la participación de la comunidad;
+
+VIII.- Proporcionar la información que le sea requerida por las autoridades competentes;
+
+IX.- Auxiliar en los casos que se solicite, al Presidente Municipal y al Síndico Procurador y autoridades jurisdiccionales;
+
+X.- Coadyuvar con la Procuraduría Social de la Montaña y de Defensa de los Campesinos del Gobierno del Estado, en la defensa de los derechos e intereses de los núcleos agrarios en los términos del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+XI.- Las demás que le sean afines a las anteriores.
 
 ### CAPITULO UNICO
 
@@ -2267,9 +2349,7 @@ El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimens
 
 El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 231.
 
@@ -2283,7 +2363,7 @@ Para la obtención de recursos para el fondo a que se refiere este capítulo, el
 
 El Organismo otorgará créditos con cargo al Fondo con sujeción a las reglas, condiciones, criterios y prioridades que aseguren la recuperación de los mismos y el logro de cometidos sociales.
 
-### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2307,7 +2387,7 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
 
-### CAPITULO III. DE LAS AUTORIZACIONES
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2331,13 +2411,15 @@ III. Promover la correcta aplicación de las normas protectoras de los derechos 
 
 IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
 
-### CAPITULO IV
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
 
-DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+### CAPITULO III. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2345,7 +2427,7 @@ DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE L
 
 PUBLICOS MUNICIPALES
 
-### CAPITULO VI. DE LAS SANCIONES
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -2380,6 +2462,10 @@ Los procedimientos por responsabilidad administrativa se substanciarán conforme
 ## TITULO NOVENO. DE LA COORDINACION ENTRE LOS PODERES DEL ESTADO
 
 Y LOS AYUNTAMIENTOS
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 247.
 
@@ -2786,3 +2872,7 @@ Las Delegaciones Municipales existentes al momento de entrada en vigor del prese
 ###### ARTICULO TERCERO.
 
 Las autoridades municipales de aquellos municipios en los que su cabecera municipal cuente con más de 20,000 habitantes y su zona urbana se integre por colonias, impulsarán la constitución de los Consejos de Presidentes de Colonias a que se refiere el Capítulo VII BIS de la Ley Orgánica del Municipio Libre.
+
+P.O. 9 DE FEBRERO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
