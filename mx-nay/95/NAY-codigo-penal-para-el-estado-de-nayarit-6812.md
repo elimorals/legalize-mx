@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1998-05-06"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2717,7 +2717,7 @@ El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinet
 
 ## TITULO VIGESIMO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
+### CAPÍTULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 1992)</small>
 
@@ -3083,6 +3083,18 @@ II. Funcionarios Partidistas, que comprenderán a los dirigentes de los Partidos
 
 III. Servidores Públicos, que son aquellos a los que se refiere el Artículo 210 de este Código.
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV.- Documentos Públicos Electorales.- Las boletas electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales, y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo, distritales y municipales y en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Consejo Estatal Electoral.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V.- Materiales Electorales.- Son los elementos físicos, como urnas, canceles, módulos para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para utilizarse en las casillas electorales durante la jornada electoral.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI.- Propaganda Electoral.- Al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones, que durante la precampaña o campaña electoral, según el caso, producen y difunden los partidos políticos, los ciudadanos que participen en los procesos internos de selección, los candidatos registrados y sus simpatizantes con el objeto de presentar las candidaturas.
+
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
 ###### ARTICULO 386.
@@ -3107,17 +3119,47 @@ II. Altere en cualquier forma, sustituya, destruya o haga uso indebido del docum
 
 La pena a que se refiere este precepto se incrementará en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores, conforme a la Ley de la materia;
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 389.
 
 Se impondrá de diez a cien días de multa o prisión de seis meses a dos años, o ambas sanciones a juicio del Juez, a quien:
 
-I. Vote más de una vez en una misma elección;
+I. Estando impedido por la ley, vote;
 
-II. Haga proselitismo el día de los comicios en el interior de las casillas o en el lugar en que se encuentren formados los votantes; o
+II. Vote más de una vez en una misma elección, o supla a otro elector en la jornada electoral;
 
-III. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinio, resguardo o traslado de la paquetería y expedientes electorales.
+III. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+IV. Viole de cualquier manera el secreto del voto al interior de la casilla;
+
+V. Se presente ante una casilla electoral, portando armas, independientemente de cualquier otro delito que resulte;
+
+VI. Haga proselitismo el día de los comicios en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
+
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+VII. Obligue o compela a otro a votar por determinado candidato mediante coacción, violencia física o moral;
+
+VIII. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinio, resguardo o traslado de documentos públicos electorales;
+
+IX. Recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
+
+X. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto;
+
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+XI. Durante los cinco días previos a la elección y hasta el cierre de las casillas, publique o difunda por cualquier medio, los resultados de encuestas o sondeo de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
+
+XII. No teniendo carácter de funcionario de casilla se ostente como tal;
+
+XIII. Obligue a votar por determinado candidato a las personas que se encuentren bajo su autoridad o dependencia económica;
+
+XIV. Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad previstos en la Ley Electoral del Estado; y,
+
+XV. El día de la jornada electoral organice concentraciones de electores para inducir el voto a favor de determinado partido o candidato.
+
+A los ministros de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio induzcan al electorado a votar a favor o en contra de un candidato o partido político, o a la abstención, se les impondrá multa hasta de quinientos días.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
@@ -3125,21 +3167,63 @@ III. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinio
 
 Se impondrá de cincuenta a doscientos días de multa o prisión de uno a seis años, o ambas sanciones a juicio del Juez, al funcionario electoral que:
 
-I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos oficiales de los Organismos Electorales y del Registro de Electores;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos públicos electorales de los Organismos Electorales y del Registro de Electores;
 
 II. Se abstenga de cumplir, sin causa justificada con sus obligaciones electorales con perjuicio del proceso;
 
 III. Obstruya o violente el desarrollo normal de la votación;
 
-IV. Altere los resultados electorales, sustraiga o destruya documentos, boletas o expedientes del proceso;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV. Altere los resultados electorales, sustraiga o destruya documentos públicos electorales;
 
 V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
 
 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-VII. Al que instale, abra o cierre dolosamente una casilla fuera de los términos y formas previstas por la Ley; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los términos y formas previstas por la Ley, la instale en lugar distinto al legalmente señalado, o impida su instalación sin causa justificada;
 
 VIII. Al que expulse de la casilla electoral sin causa justificada a representante de algún Partido Político.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IX. Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+X. Retenga o destruya la credencial de elector el día de la jornada electoral sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XI. No haga constar y no informe oportunamente de la existencia de un delito electoral de los que haya tenido conocimiento en el desarrollo del proceso electoral;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XII. Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XIII. Se niegue, sin justa causa a firmar la documentación pública electoral producida en la jornada electoral, en la casilla o que consienta con conocimiento de ello una votación ilegal, o rehuse a admitir el voto de un elector que tenga derecho a hacerlo;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XIV. Se niegue a reconocer la personalidad de los representantes de los partidos políticos debidamente acreditada o les impida el ejercicio de las atribuciones que les concede la Ley Electoral del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XV. Teniendo en custodia los documentos públicos electorales se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XVI. Induzca la realización del escrutinio y computo en lugar distinto al señalado para tal efecto, sin causa justificada; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XVII. Altere, expida, sustituya, destruya, o haga mal uso de documentos públicos electorales u archivos oficiales computarizados o relativos al registro de electores que corresponda.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
 
@@ -3151,7 +3235,9 @@ I. Ejerza presión sobre los electores y los induzca a votar por un candidato o 
 
 II. Realice propaganda electoral mientras cumple sus funciones durante los comicios;
 
-III. Sustraiga, destruya, altere o haga uso indebido documentos oficiales de índole electoral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III. Sustraiga, destruya, altere o haga uso indebido de documentos públicos electorales;
 
 IV. Obstaculice el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
 
@@ -3170,6 +3256,36 @@ I. Obligue a sus subordinados a emitir sus votos en favor de un Partido Polític
 II. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un Partido Político o candidato;
 
 III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un Partido Político o de un candidato, o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a labores oficiales para que éstos presten servicios a un Partido Político o candidato.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+IV. Realice o permita cualquier acto de campaña electoral fuera de los casos permitidos por la ley o instale, pegue, cuelgue, fije o pinte propaganda electoral en el interior o exterior de muebles o inmuebles pertenecientes o arrendados por los órganos de Gobierno del Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V. Teniendo fe pública certifique hechos falsos relativos a la función electoral o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral del Estado de Nayarit; y,
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI. Se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda de algún candidato, partido o planilla, en contravención a las normas de la materia durante el proceso electoral y hasta la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Al servidor público, además de las sanciones a que se refiere el presente capítulo, se le destituirá e inhabilitará para ejercer cargos públicos hasta por dos años.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 392 bis.- Se impondrá multa de cien a doscientas veces el salario mínimo diario o prisión de tres meses a tres años, al candidato que:
+
+I. Fije o haga propaganda electoral en lugares o días no permitidos por la Ley Electoral;
+
+II. Obtenga o utilice fondos provenientes de actividades ilícitas en precampañas o campañas electorales a sabiendas de esta circunstancia;
+
+III. Se exceda en el monto de los topes para gastos de precampaña o campaña establecidos de acuerdo con los criterios legalmente autorizados con anterioridad a la elección;
+
+IV. Obstruya o violente el desarrollo normal de la votación; y,
+
+V. Ejerza presión sobre los electores y los induzca a votar a su favor o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
@@ -3281,9 +3397,7 @@ P.O. 24 DE MAYO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
-P.O. 7 DE AGOSTO DE 1996.
-
-REPUBLICADO, P.O. 14 DE AGOSTO DE 1996.
+P.O. 7 DE AGOSTO DE 1996. (REPUBLICADO, P.O. 14 DE AGOSTO DE 1996)
 
 ###### ARTICULO UNICO.
 
@@ -3300,3 +3414,9 @@ P.O. 6 DE MAYO DE 1998.
 ###### ARTICULO UNICO.
 
 Publíquese el presente decreto en el Periódico Oficial, Organo de Gobierno del Estado, mismo que entrará en vigor a partir del día quince de mayo del año en curso.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
