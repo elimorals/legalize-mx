@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "2000-06-24"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -199,9 +199,11 @@ Son sujetos de responsabilidad administrativa, los servidores públicos a que se
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 23.
 
-Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, con independencia de sus deberes y derechos laborales, tendrá las siguientes obligaciones:
+Todo servidor público para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, con independencia de sus deberes y derechos laborales, tendrá las siguientes obligaciones:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
 
@@ -233,7 +235,11 @@ X.- Abstenerse de autorizar la selección, contratación, nombramiento o designa
 
 XI.- Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en su caso;
 
-XII.- Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XII. Excusarse de intervenir, en cualquier forma, en asuntos en los que tenga interés personal, familiar o de negocios.
+
+Quedan exceptuados de lo anterior los casos a que se refiere el tercer párrafo del artículo 42 de la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua;
 
 XIII.- Abstenerse de solicitar, aceptar o recibir indebidamente, por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio para sí o para un tercero, o acepte una promesa para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones. Esta prevención es aplicable hasta un año después de que haya concluido el ejercicio de sus funciones;
 
@@ -253,9 +259,9 @@ XIX.- Respetar y hacer respetar el derecho a la formulación de quejas y denunci
 
 XX.- Abstenerse de disponer o recibir recursos públicos a título de bono de retiro, compensación económica o de cualquier otra denominación, por el sólo hecho de haber concluido los períodos establecidos en la constitución política del estado para la duración de la administración, gestión o encomienda correspondiente o por la separación prematura de su encargo sea voluntaria o no. Lo anterior de ninguna manera comprende los derechos de carácter laboral que puedan corresponderles al tenor de las leyes correspondientes, ni las reservas destinadas para esos propósitos;
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2000)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXI.- Acordar o autorizar en los términos de la Ley aplicable las enajenaciones de los bienes muebles.
+XXII (sic).- Acordar o autorizar en los términos de la Ley aplicable las enajenaciones de los bienes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2000)</small>
 
@@ -263,9 +269,9 @@ XXII.- Informar dentro de los quince días naturales siguientes a la fecha en qu
 
 De igual forma deberá de comunicar el sentido de la resolución dictada que ponga fin al procedimiento instaurado tendiente a fincar la responsabilidad civil, administrativa o penal, según corresponda.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XXIII.- Las demás que les impongan otras Leyes o Reglamentos.
+XXIII.- Las demás que le impongan otras leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
 
@@ -600,3 +606,19 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE JUNIO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+DECRETO No. 670/00 I P.O.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2001.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+DECRETO No. 743/00 I P.O.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
