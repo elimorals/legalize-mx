@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-12239"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-18"
-last_updated: "1990-04-14"
+last_updated: "1992-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 1980.
 
@@ -41,9 +41,11 @@ LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 1°.
 
-Se crea el Instituto Cultural Cabañas como un organismo Público Descentralizado, con personalidad jurídica y patrimonio propios que tendrá a su cargo principalmente promover actividades culturales y de difusión de las Bellas Artes, así como las actividades educativas que determine el Consejo Directo.
+El Instituto Cultural Cabañas es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, que tendrá a su cargo, la preservación, investigación y divulgación de la obra de José Clemente Orozco.
 
 ###### Artículo 2°.
 
@@ -51,15 +53,19 @@ La sede del Instituto será la construcción que tradicionalmente se conoce como
 
 ### CAPITULO II. OBJETIVOS
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 3°.
 
-El Instituto Cultural Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines tiene como objetivo principal:
+El Instituto tendrá como objetivos principales:
 
-I. El Cultivo, fomento, estímulo, creación e investigación de las Bellas Artes en las ramas de la Música, las Artes Plásticas, las Artes Dramáticas, la Danza, las Letras y cuales quiera (sic) otras manifestaciones culturales.
+I. Preservar, investigar y divulgar la obra de José Clemente Orozco.
 
-II. El fomento de los valores del espíritu como alternativa frente a la deshumanización actual, así como de la tradición cultural de Jalisco.
+II. Fungir como Depositario del Museo-Taller José Clemente Orozco.
 
-III. La implementación de las acciones necesarias para la conservación del Patrimonio Artístico-Cultural del Estado.
+III. Vigilar permanentemente la adecuada conservación de los murales de José Clemente Orozco, que son propiedad del Gobierno del Estado, y
+
+IV. Acrecentar el acervo de la obra de José Clemente Orozco propiedad del Gobierno del Estado, procurando la concentración que sea factible, de sus obras que se encuentren dispersas.
 
 ### CAPITULO III. DE LOS ORGANOS DE GOBIERNO DEL INSTITUTO CULTURAL CABAÑAS
 
@@ -71,7 +77,9 @@ Serán órganos de Gobierno del Instituto Cultural Cabañas:
 
 2. El Consejo Directivo.
 
-3. El C. Director.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+3. El Presidente del Consejo Directivo.
 
 DEL PATRONATO
 
@@ -103,15 +111,23 @@ Los integrantes del Patronato podrán hacerse representar por la persona que des
 
 Serán facultades del Patronato las siguientes:
 
-I. Promover el acrecentamiento del Patrimonio del Instituto y el mejor rendimiento de sus bienes.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-II. Señalar directrices generales de acción en vista del informe que anualmente le envíe el Consejo.
+I. Promover el acrecentamiento del Patrimonio del Instituto y el uso óptimo de sus recursos.
 
-III. Proponer campañas educativas y de difusión de las Bellas Artes.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-IV. Promover ante el Consejo Directivo la integración en cada Municipio, de las comisiones encargadas de la (sic) del patrimonio Artístico –Cultural del Estado.
+II. Señalar las directrices generales de acción del Organismo.
 
-V. Las demás que en forma directa o derivada le correspondan en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+III. Impulsar la investigación y divulgación de la obra José Clemente Orozco.
+
+IV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1992)
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+V. Las demás que le correspondan por Ley.
 
 > <small>(REFORMADO, P.O. EL 2 DE ABRIL DE 1981)</small>
 
@@ -121,51 +137,49 @@ El Patronato sesionará ordinariamente, cada año y extraordinariamente, cuando 
 
 DEL CONSEJO DIRECTIVO
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 8°.
 
-El Consejo Directivo del Instituto se integrará de la siguiente manera:
+El Consejo Directivo se integrará de la siguiente manera:
 
-> <small>(REFORMADO, P.O. EL 2 DE ABRIL DE 1981)</small>
+I. El Secretario de Cultura.
 
-I. El ciudadano Presidente de la República o la persona que designe.
+II. Un representante de la Secretaría de Educación.
 
-II. Por el Gobernador Constitucional del Estado de Jalisco.
+III. Un representante de la Universidad de Guadalajara.
 
-III. Por el C. Director del Instituto Nacional de Bellas Artes.
+IV. Un representante del H. Ayuntamiento de Guadalajara.
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL 1990)</small>
+V. Un representante de la Contraloría del Estado, y
 
-IV. Por el C. Secretario de Educación y Cultura del Estado.
+VI. Un representante del Instituto Nacional de Bellas Artes.
 
-V. Por el C. Rector de la Universidad de Guadalajara.
+Cada Consejero Propietario podrá acreditar un Suplente. Sin embargo, para que sean válidas las sesiones del Consejo Directivo y por ende sus Acuerdos, se requiere además del quórum legal, la asistencia de su Presidente. El cargo de Consejero será honorífico, y por lo tanto no remunerado.
 
-VI. Por el C. Presidente Municipal de la ciudad de Guadalajara.
-
-VII. Por el C. Jefe del Departamento de Bellas Artes del estado de Jalisco.
-
-> <small>(ADICIONADA, P.O. 29 JULIO DE 1982)</small>
-
-VIII. Los CC. Ex-Gobernador del Estado, electos popularmente.
-
-> <small>(REFORMADO, P.O. 29 JULIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 9°.
 
-También integrarán el Consejo Directivo las personalidades reconocidas en el campo de la cultura, la ciencia, los organismos de servicio y los sectores más representativos de la comunidad, a juicio de los Consejeros, a que se refiere el artículo que precede.
+También integrarán el Consejo Directivo, personas de amplio reconocimiento en el campo de la Cultura y las Artes, que sean las más representativas de la comunidad, a juicio de los Consejeros a que se refiere el Artículo que precede, y que tendrán el carácter de asesores honorarios.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 10°.
 
-El Consejo Directivo representará para todo efecto legal al Instituto y será administrador de su patrimonio general. Estará presidido por el Gobernador Constitucional del estado de Jalisco o su Representante.
+La presidencia del Consejo Directivo y la representación legal del Instituto estarán a cargo del Secretario de Cultura.
 
 ###### Artículo 11.
 
-El Presidente tendrá la representación del Consejo para la celebración de todo acto o negocio jurídico que deba realizarse en el desempeño de las funciones que al Instituto le confiere la presente Ley: podrá a su vez otorgar poderes para actos de administración y representación ante cualquier clase de autoridades, pudiendo hacerlo en favor de personas ajenas al propio Consejo, comprendiendo en dichos mandatos la delegación de facultades que se estimen pertinentes para el cumplimiento de los fines de esta Ley.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1992)
 
 ###### Artículo 12.
 
 Serán facultades del Consejo Directivo:
 
-A). Reglamentar el funcionamiento de los diversos órganos que constituyen el Instituto.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+A). Expedir el Reglamento Interior del Instituto y las demás disposiciones internas que resulten necesarias para su idóneo funcionamiento.
 
 B). Disponer de los bienes muebles, inmuebles o productos realizados por el Instituto sin más limitaciones que las establecidas en las Leyes a fin de realizar plena y eficazmente sus funciones propias. Los bienes que forman parte del patrimonio cultural del Instituto serán inalienables, imprescriptibles e intransferibles por cualquier título.
 
@@ -175,25 +189,45 @@ C). Nombrar y remover la planta de empleados que sean necesarios para la adminis
 
 D). Discutir o aprobar en su caso los presupuestos de ingresos y egresos así como los programas de trabajo que se elaboren.
 
-E). Decidir mediante los estudios técnicos correspondientes sobre los sistemas de administración que deberán prevalecer en las distintas dependencias del Instituto Cultural Cabañas.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-F). Percibir directamente los fondos provenientes de las aportaciones federales, estatales y de particulares.
+E). Decidir, mediante los estudios técnicos correspondientes, sobre los Sistemas de Administración más adecuados para aplicarse en las áreas que integran el Instituto.
 
-G). Aprobar las campañas educativas y de difusión de las Bellas Artes.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+F). Administrar directamente los fondos provenientes de las aportaciones Federales, Estatales y de particulares.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+G). Realizar campañas para la difusión de la obra de José Clemente Orozco. Para tal fin, organizará exposiciones eventuales o permanentes, fijas o móviles; editará reproducciones de sus obras; publicará obras de investigación o de críticas que lo ameriten; y utilizará cualquier medio de divulgación a su alcance.
 
 H).Vigilar el cumplimiento exacto de los Acuerdos del Patronato.
 
-I). Practicar Auditorías Contables y administrativas así como visitas de inspecciones a todas las dependencias del Instituto Cultural Cabañas, cuando lo estime necesario.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-J). Opinar y dictaminar en ejercicio de la más amplia facultad de Auditoría, sobre la aprobación de las cuentas de administración de las dependencias del Instituto Cultural Cabañas.
+I). Ordenar la práctica de Audotorías (sic) Contables y Administrativas, así como visitas de Inspección a las áreas que integran el Instituto.
 
-K). Designar en cada Municipio las Comisiones de custodia del Patrimonio Artístico-Cultural y estudiar las propuestas que para ese efecto realice el Patronato.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-L). Vigilar el funcionamiento de las comisiones de custodia a que se refiere la fracción anterior, independientemente de la facultad consignada en el inciso J) de este Artículo.
+J). Aprobar los estados financieros del Instituto, sin perjuicio de las facultades legales de otros órganos de Gobierno.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+K). Emprender las gestiones necesarias para adquirir o conjuntar, en el Instituto, las obras dispersas de José Clemente Orozco, así como llevar a cabo, dentro de lo posible las acciones necesarias para proteger y conservar dichas obras.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+L). Gestionar ante las autoridades fiscales, estímulos de la misma naturaleza, para las personas que, siendo propietarios de la obra artística de José Clemente Orozco, decidan donarla al Instituto, en cuyo caso, se hará la mención correspondientes en cada una de las obras.
 
 M). Dictar las medidas necesarias para conservar los valores Artísticos-Culturales del Instituto y su patrimonio.
 
-N). Formular el catálogo que contenga el Patrimonio Artístico-Cultural del Instituto y semestralmente editar los catálogos complementarios que contengan el incremento de dicho patrimonio, citando su procedencia.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+N). Formular y actualizar el catálogo del patrimonio artístico-cultural del Instituto, y
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+Ñ). Las demás que le otorguen otras Leyes.
 
 ###### Artículo 13.
 
@@ -207,47 +241,67 @@ Será facultad del Consejo Directivo elaborar el presupuesto anual de ingresos y
 
 Tendrá facultad el Consejo Directivo para resolver sobre la aprobación y aplicación de las cuentas de administración que anualmente se le rindan.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 16.
 
-El Consejo Directivo sesionará obligatoriamente cuando sea convocado por su Presidente. Tomará resoluciones válidamente con la asistencia de cinco de sus miembros titulares, cuyas determinaciones serán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad.
+El Consejo sesionará en forma ordinaria, al menos una vez cada seis meses, pudiendo celebrar sesiones extraordinarias cuando para ello sea convocado. En ambos casos, para la validez de las sesiones se requerirá que la convocatoria haya sido suscrita por su Presidente y que hubiesen asistido la mayoría de sus miembros. Los acuerdos del Consejo se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate.
 
-Cuando se trate de resolver asuntos de urgencia podrá tomar determinaciones el Presidente con la obligación de dar cuenta en la primera sesión subsecuente de lo decidido, al Consejo Directivo para los efectos de ratificación o rectificación.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-DEL DIRECTOR DEL INSTITUTO Y DEL SECRETARIO
+Del Presidente y del Secretario Del Consejo Directivo
 
 ###### Artículo 17.
 
-El Director del Instituto será nombrado por el Gobernador del Estado, debiendo ser el designado, mexicano por nacimiento, de reconocida honorabilidad y capacidad.
+(DEROGADO, P.O. 3 DE SEPTIEMBRE DE 1992)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 18.
 
-El Director tendrá las siguientes facultades y obligaciones.
+El Presidente del Consejo Directivo, tendrá las siguientes facultades y obligaciones:
 
 A). Ejecutar por sí o por medio de los órganos auxiliares, los acuerdos que emanen del Patronato y del Consejo Directivo, dictando las disposiciones necesarias a su cumplimiento en observancia de la presente Ley y de los reglamentos relativos.
 
-B). Representar al Instituto, ante cualquier Autoridad, Institución Oficial Descentralizada o Particulares.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+B). Otorgar en representación del Instituto, poderes para pleitos y cobranzas en general; actos de administración, en materia laboral; y actos jurídicos determinados, que nunca podrán ser de dominio.
 
 C). Presentar al Consejo Directivo para los fines de estudios y aprobación, el proyecto del Plan Anual y Presupuestos que concreten las actividades del Instituto.
 
 D). Rendir informe anual al Consejo Directivo de su gestión administrativa.
 
-E). Autorizar con su firma la correspondencia de Instituto y las disposiciones de fondos que en los términos de esta Ley y Reglamentos le corresponde hacer.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
-F). Conceder licencias al personal del Instituto.
+E). Vigilar el ejercicio del Presupuesto asignado al Instituto, así como el uso adecuado de sus recursos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+F). Conceder licencias al personal del Instituto, en los términos de Ley.
 
 G). Inspeccionar las dependencias que integren al Instituto.
 
-H). Promover y gestionar ante toda clase de Autoridades o personas físicas o morales, la incorporación al Patrimonio del Instituto, de los bienes y frutos que por Ley o por actos de particulares deban pertenecerles.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+H). Realizar las gestiones y ejecutar las acciones necesarias para el acrecentamiento y salvaguarda del patrimonio del Instituto.
 
 I). Promover ante el Consejo Directivo las medidas que considere convenientes para el mayor rendimiento de las fuentes patrimoniales del Instituto.
 
-J). Notificar a los miembros del Patronato cuando menos con 10 días de anticipación, de la fecha, hora y orden del día en que deba desarrollarse una sesión sea ordinaria o extraordinaria a fin de que concurran o envíen representantes a la misma, bastando para tal efecto simple comunicación por escrito.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+J). Notificar a los miembros del Patronato, cuando menos con 5 días de anticipación, de la fecha, hora y orden del día en que deba desarrollarse una sesión sea ordinaria o extraordinaria a fin de que concurran o envíen representantes a la misma, bastando para tal efecto simple comunicación por escrito.
 
 K). Mostrar a los concurrentes de la sesión la constancia de notificación que se realizó a los integrantes del Patronato.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+L) Las demás que le otorguen otras leyes o le asigne el Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 19.
 
-El Secretario del Instituto será designado por el C. Gobernador del Estado y sus facultades se especificarán en el Reglamento respectivo.
+El Presidente del Consejo se auxiliará en el cumplimiento de sus atribuciones de un Secretario, cuyo cargo será remunerado, quien levantará las actas de las Sesiones del Patronato y del Consejo.
 
 ### CAPITULO IV. DEL PATRIMONIO DEL INSTITUTO
 
@@ -255,13 +309,21 @@ El Secretario del Instituto será designado por el C. Gobernador del Estado y su
 
 El Patrimonio del Instituto se integrará con los muebles, inmuebles, derechos y demás bienes que le sean destinados para cumplir con todas y cada una de sus funciones; los subsidios que le sean asignados por la Federación, el Estado o los Municipios; las aportaciones, becas, donativos, legados y aquellas que obtengan por cualquier título, otorgado por particulares o por instituciones nacionales o extranjeras, los ingresos que se perciban por arrendamiento de sus instalaciones para eventos derivados de sus funciones y en general las que determine el propio Consejo Directivo del Instituto.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
+Se declara de utilidad pública el acrecentamiento del patrimonio por parte del Instituto, de la obra pictórica de José Clemente Orozco, así como su protección y conservación.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 21.
 
-En caso de disolución del Instituto Cultural Cabañas, el acervo de bienes que constituyan su patrimonio Artístico-Cultural será entregado a la Dirección del Patrimonio y Valores Artísticos e Históricos del Estado para su custodia, protección y destino a los fines culturales más adecuados a su naturaleza.
+En caso de disolución del Instituto Cultural Cabañas, el acervo de bienes que constituyan su patrimonio Artístico-Cultural, será entregado a la Dirección de Patrimonio Artístico e Histórico de la Secretaría de Cultura para su custodia, protección y destino para los fines culturales más adecuados a su naturaleza.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 22.
 
-El Instituto Cultural Cabañas, estará exento de pago de toda clase de impuestos, tasas o derechos Estatales y Municipales.
+Las relaciones de trabajo del Instituto con sus Servidores, se regirán por lo dispuesto en la Ley para los Servidores Públicos del Estado de Jalisco y su Municipios.
 
 ## TRANSITORIOS
 
@@ -312,3 +374,11 @@ Segundo. Se derogan todas las disposiciones que se opongan a la aplicación del 
 P.O. 14 DE ABRIL DE 1990.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 3 DE SEPTIEMBRE DE 1992.
+
+Artículo Primero. Se deroga el Decreto 5830 que contiene la Ley del Patronato José Clemente Orozco, y el Acuerdo del Ejecutivo del Estado, de fecha 18 de abril de 1959, mediante el cual se crea la Comisión Técnica para la Defensa de la obora (sic) de José Clemente Orozco.
+
+Artículo Segundo. El Instituto Cultural Cabañas se subroga en los Derechos y obligaciones del "Patronato José Clemente Orozco", incluyendo las relaciones con sus servidores públicos.
+
+Artículo Tercero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
