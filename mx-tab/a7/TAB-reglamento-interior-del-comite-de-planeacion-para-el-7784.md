@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-comite-de-planeacion-para-el-7784"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-14"
-last_updated: "1994-09-14"
+last_updated: "2003-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE TABASCO, PUBLICADO EN EL SUPLEMENTO D DEL P.O. DE 29 DE NOVIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 14 de septiembre de 1994.
 
@@ -426,3 +428,15 @@ Gobernador del Estado de Tabasco
 Lic. Enrique Priego Oropeza
 
 Secretario de Gobierno
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+En cumplimiento a lo dispuesto por los artículos 51 de la Constitución Política del Estado, 7° y 8° de la Ley Orgánica del Poder Ejecutivo, publíquese en el Periódico Oficial del Gobierno del Estado para que entre en vigor al día siguiente de la misma.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de fecha 2 de septiembre de 1994, publicado en el Periódico Oficial del Gobierno del Estado con fecha 14 de septiembre del mismo año.
