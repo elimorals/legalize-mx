@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-enajenaciones-servicios-681
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-13"
-last_updated: "2002-09-28"
+last_updated: "2003-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES, SERVICIOS Y ALMACENES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE NAYARIT.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT, PUBLICADO EN EL PERIODICO OFICIAL EL 4 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 13 de Abril de 1988.
 
@@ -540,3 +542,35 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 4 DE JUNIO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+Esta ley entrará en vigor a los quince días naturales siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Adquisiciones, Arrendamientos, Enajenaciones, Servicios y Almacenes de la Administración Pública del Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, mediante Decreto Número 7140, el trece de abril de mil novecientos ochenta y ocho así como las demás disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expide el Reglamento de esta ley, seguirá vigente el Reglamento de la Ley de Adquisiciones, Arrendamientos, Enajenaciones, Servicios y Almacenes de la Administración Pública del Estado, publicada en el Periódico Oficial el veintinueve de marzo de mil novecientos ochenta y nueve, en todo lo que no se oponga a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Cada ente público expedirá, en el ámbito de su competencia, las disposiciones normativas correspondientes dentro de un término que no excederá de ciento ochenta días naturales posteriores a la fecha de entrada en vigor de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expida la Ley de Bienes del Estado las enajenaciones de bienes muebles e inmuebles propiedad del estado se regularán por las siguientes disposiciones :
+
+A.- Los bienes muebles, propiedad del estado que ya no le resulten útiles, podrán ser enajenados a través de los procedimientos de remate respectivos por los Comités de Adquisiciones aplicando de manera supletoria el procedimiento que al efecto se establece en la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+B.- Podrán enajenarse los bienes inmuebles que pertenezcan en pleno dominio al Gobierno del Estado, a través de remate, previa la aprobación de la enajenación que realice el Congreso del Estado a solicitud que al efecto realicen los titulares de los poderes o de las entidades de la administración pública estatal.
+
+Tratándose de bienes inmuebles afectos a un servicio público esta autorización sólo procederá si se demuestra ampliamente que el bien ha dejado de ser útil para el servicio público al que está destinado y que no se necesita para ninguna otra función de orden público.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos que se encuentren en trámite o pendientes de resolución al entrar en vigor la presente ley, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
