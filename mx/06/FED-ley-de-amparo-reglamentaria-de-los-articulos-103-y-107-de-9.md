@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1988-01-05"
+last_updated: "1994-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1988.
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -113,9 +111,9 @@ b).- El ofendido o las personas que, conforme a la ley, tengan derecho a la repa
 
 c).- La persona o personas que hayan gestionado en su favor el acto contra el que se pide amparo, cuando se trate de providencias dictadas por autoridades distintas de la judicial o del trabajo; o que, sin haberlo gestionado, tengan interés directo en la subsistencia del acto reclamado.
 
-> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-IV.- El Ministerio Público Federal, quien podrá intervenir en todos los juicios e interponer los recursos que señala esta Ley, independientemente de las obligaciones que la misma le precisa para procurar la pronta y expedita administración de justicia.
+IV.- El Ministerio Público Federal, quien podrá intervenir en todos los juicios e interponer los recursos que señala esta Ley, inclusive para interponerlos en amparos penales cuando se reclamen resoluciones de tribunales locales, independientemente de las obligaciones que la misma Ley le precisa para procurar la pronta y expedita administración de justicia. Sin embargo, tratándose de amparos indirectos en materias civil y mercantil, en que sólo afecten intereses particulares, excluyendo la materia familiar, el Ministerio Público Federal no podrá interponer los recursos que esta ley señala.
 
 ###### ARTICULO 6o.
 
@@ -236,6 +234,10 @@ I.- Los casos en que a partir de la vigencia de una ley, ésta sea reclamable en
 II.- Los actos que importen peligro de privación de la vida, ataques a la libertad personal, deportación, destierro, cualquiera de los actos prohibidos por el artículo 22 de la Constitución, o la incorporación forzosa al servicio del ejército o armada nacionales.
 
 En estos casos la demanda de amparo podrá interponerse en cualquier tiempo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+En los casos en que el acto de autoridad combatible mediante demanda de amparo consista en acuerdo de la Secretaría de Relaciones Exteriores favorable a la extradición de alguna persona reclamada por un Estado extranjero, el término para interponerla será siempre de 15 días.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -481,7 +483,7 @@ Para los efectos del artículo 44, se entenderán por resoluciones que ponen fin
 
 Cuando se reciba en la Suprema Corte de Justicia un juicio de amparo directo del que debe conocer un Tribunal Colegiado de Circuito, se declarará incompetente de plano y se remitirá la demanda con sus anexos, al Tribunal Colegiado de Circuito que corresponda. El Tribunal Colegiado de Circuito designado por la Suprema Corte de Justicia, conocerá del juicio sin que pueda objetarse su competencia.
 
-(F. DE E., D.O.F. 1 DE FEBRERO DE 1988)(F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
+(F. DE E., D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
 Cuando se reciba en la Suprema Corte de Justicia un juicio de amparo indirecto, se declarará incompetente de plano y remitirá la demanda con sus anexos, al juez de Distrito a quien corresponda su conocimiento, quien conocerá del juicio sin que pueda objetarse su competencia, a no ser en el caso a que se refiere el artículo 51.
 
@@ -671,9 +673,9 @@ II.- Si tienen interés personal en el asunto que haya motivado el acto reclamad
 
 III.- Si han sido abogados o apoderados de alguna de las partes, en el mismo asunto o en el juicio de amparo;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
-IV.- Si hubiesen tenido con anterioridad el carácter de autoridades responsables en el juicio de amparo, si hubiesen aconsejado como asesores la resolución reclamada, o si hubiesen emitido, en otra instancia, la resolución impugnada;
+IV.- Si hubiesen tenido el carácter de autoridades responsables en el juicio de Amparo, si hubiesen aconsejado como asesores la resolución reclamada, o si hubiesen emitido, en otra instancia o jurisdicción la resolución impugnada;
 
 V.- Si tuviesen pendiente algún juicio de amparo, semejante al de que se trata, en que figuren como partes;
 
@@ -771,7 +773,11 @@ IX.- Contra actos consumados de un modo irreparable;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 1984)</small>
 
-X.- Contra actos emanados de un procedimiento judicial, o de un procedimiento administrativo seguido en forma de juicio, cuando por virtud de cambio de situación jurídica en el mismo deban considerarse consumadas irreparablemente las violaciones reclamadas en el procedimiento respectivo, por no poder decidirse en tal procedimiento sin afectar la nueva situación jurídica;
+X.- Contra actos emanados de un procedimiento judicial, o de un procedimiento administrativo seguido en forma de juicio, cuando por virtud de cambio de situación jurídica en el mismo deban considerarse consumadas irreparablemente las violaciones reclamadas en el procedimiento respectivo, por no poder decidirse en tal procedimiento sin afectar la nueva situación jurídica.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+Cuando por vía de amparo indirecto se reclamen violaciones a los artículos 16, 19 o 20 de la Constitución Política de los Estados Unidos Mexicanos, sólo la sentencia de primera instancia hará que se consideren irreparablemente consumadas las violaciones para los efectos de la improcedencia prevista en este precepto. La autoridad judicial que conozca del proceso penal suspenderá en estos casos el procedimiento en lo que corresponda al quejoso una vez cerrada la instrucción, y hasta que sea notificada de la resolución que recaiga en el juicio de amparo pendiente;
 
 XI.- Contra actos consentidos expresamente o por manifestaciones de voluntad que entrañen ese consentimiento;
 
@@ -891,9 +897,9 @@ En las sentencias que se dicten en los juicios de amparo, el acto reclamado se a
 
 En las propias sentencias sólo se tomarán en consideración las pruebas que justifiquen la existencia del acto reclamado y su constitucionalidad o inconstitucionalidad.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
-El juez de amparo podrá recabar oficiosamente pruebas que, habiendo sido rendidas ante la responsable, no obren en autos y estime necesarias para la resolución del asunto.
+El juez de amparo deberá recabar oficiosamente pruebas que, habiendo sido rendidas ante la responsable, no obren en autos y estime necesarias para la resolución del asunto.
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1986)</small>
 
@@ -1541,31 +1547,27 @@ Cuando el amparo se pida contra el cobro de contribuciones, podrá concederse di
 
 El depósito no se exigirá cuando se trate del cobro de sumas que excedan de la posibilidad del quejoso, según apreciación del juez, o cuando previamente se haya constituido la garantía del interés fiscal ante la autoridad exactora, o cuando se trate de persona distinta del causante obligado directamente al pago; en este último caso, se asegurará el interés fiscal por cualquiera de los medios de garantía permitidos por las leyes fiscales aplicables.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 136.
 
-Si el acto reclamado afecta la libertad personal, la suspensión sólo producirá el efecto de que el quejoso quede a disposición del juez de Distrito, únicamente en lo que se refiere a su libertad personal, quedando a disposición de la autoridad que deba juzgarlo, cuando el auto emane de un procedimiento del orden penal por lo que hace a la continuación de éste.
+Si el acto reclamado afecta la libertad personal, la suspensión sólo producirá el efecto de que el quejoso quede a disposición del juez de Distrito únicamente en cuanto a ella se refiera, quedando a disposición de la autoridad que deba juzgarlo, cuando el acto emane de un procedimiento del orden penal por lo que hace a la continuación de éste.
 
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
+Cuando el acto reclamado consista en la detención del quejoso efectuada por autoridades administrativas distintas del Ministerio Público como probable responsable de algún delito, la suspensión se concederá, si procediere, sin perjuicio de que sin dilación sea puesto a disposición del Ministerio Público, para que éste determine su libertad o su retención dentro del plazo y en los términos que el párrafo séptimo del artículo 16 constitucional lo permite, o su consignación.
 
-Cuando el acto reclamado consista en la detención del quejoso efectuada por autoridades administrativas, o por la policía judicial, como responsable de algún delito, la suspensión se concederá, si procediere, sin perjuicio de que se haga la consignación que corresponda. Si se concediere la suspensión en los casos de órdenes de aprehensión, el juez de Distrito dictará las medidas que estime necesarias para el aseguramiento del quejoso, a efecto de que pueda ser devuelto a la autoridad responsable si no se le concediere el amparo. Si la orden de aprehensión se refiere a delitos sancionados con pena cuyo término aritmético sea mayor de cinco años de prisión, la suspensión sólo producirá el efecto de que el quejoso quede a disposición del Juez de Distrito en el lugar que éste señale, únicamente en lo que se refiere a su libertad personal, quedando a disposición de la autoridad que deba juzgarlo, para los efectos de la continuación del procedimiento penal.
+De consistir el acto reclamado en detención del quejoso efectuada por el Ministerio Público, la suspensión se concederá y desde luego se pondrá en inmediata libertad, si del informe previo que rinda la autoridad responsable no se acreditan con las constancias de la averiguación previa la flagrancia o la urgencia, o bien si dicho informe no se rinde en el término de veinticuatro horas. De existir flagrancia o urgencia se prevendrá al Ministerio Público para que el quejoso, sea puesto en libertad o se le consigne dentro del término de cuarenta y ocho horas o de noventa y seis horas según sea el caso, a partir de su detención.
 
-Cuando el acto reclamado consista en la detención del quejoso por orden de autoridades administrativas, podrá ser puesto en libertad provisional, mediante las medidas de aseguramiento y para los efectos que expresa el párrafo anterior.
+Si se concediere la suspensión en los casos de órdenes de aprehensión, detención o retención, el juez de Distrito dictará las medidas que estime necesarias para el aseguramiento del quejoso, a efecto de que pueda ser devuelto a la autoridad responsable en caso de no concedérsele el amparo.
 
-En los casos de detención por mandamiento de autoridades judiciales del orden penal, o de auto de prisión preventiva, el quejoso podrá ser puesto en libertad bajo caución conforme a las leyes federales o locales aplicables al caso.
+Cuando la orden de aprehensión, detención o retención, se refiera a delito que conforme a la ley no permita la libertad provisional bajo caución, la suspensión sólo producirá el efecto de que el quejoso quede a disposición del juez de Distrito en el lugar en que éste señale, únicamente en lo que se refiera a su libertad personal, quedando a disposición de la autoridad a la que corresponda conocer del procedimiento penal para los efectos de su continuación.
 
-La libertad bajo caución podrá ser revocada cuando aparezcan datos bastantes que hagan presumir, fundadamente, que el quejoso trata de burlar la acción de la justicia.
+Cuando el acto reclamado consista en la detención del quejoso por orden de autoridades administrativas distintas del Ministerio Público, podrá ser puesto en libertad provisional mediante las medidas de aseguramiento y para los efectos que expresa el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
+En los casos en que la afectación de la libertad personal del quejoso provenga de mandamiento de autoridad judicial del orden penal o del Ministerio Público, o de auto de prisión preventiva, el juez dictará las medidas adecuadas para garantizar la seguridad del quejoso y éste podrá ser puesto en libertad bajo caución conforme a la fracción I del artículo 20 constitucional y a las leyes federales o locales aplicables al caso, siempre y cuando el juez o tribunal que conozca de la causa respectiva no se haya pronunciado en ésta sobre la libertad provisional de esa persona, por no habérsele solicitado.
 
-El Juez dictará las medidas adecuadas para garantizar la seguridad del quejoso, para evitar que se sustraiga a la acción de la justicia, y en todo caso, deberá dar cumplimiento a lo dispuesto en el artículo 20, fracción I, de la Constitución.
+La libertad bajo caución podrá ser revocada cuando incumpla en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del juicio de amparo o del procedimiento penal respectivo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
-
-Las partes podrán objetar en cualquier tiempo el contenido del informe previo. En los casos previstos en el artículo 204 de esta ley, se considerará hecho superveniente la demostración de la falsedad del contenido del informe y el juez podrá modificar o revocar la interlocutoria en que hubiese concedido o negado la suspensión.
-
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1980)</small>
-
-En estos casos, deberá el propio juez dar vista al Ministerio Público Federal para los efectos del precepto legal citado.
+Las partes podrán objetar en cualquier tiempo el contenido del informe previo. En los casos previstos en el artículo 204 de esta ley, se considerará hecho superveniente la demostración de la falsedad u omisión de datos en el contenido del informe y el juez podrá modificar o revocar la interlocutoria en que hubiese concedido o negado la suspensión; además, dará vista al Ministerio Público Federal para los efectos del precepto legal citado.
 
 ###### ARTICULO 137.
 
@@ -2808,3 +2810,13 @@ QUINTO.- Los recursos de reclamación contra los acuerdos de trámite dictados p
 SEXTO.- La jurisprudencia establecida por la Suprema Corte de Justicia hasta la fecha en que entren en vigor las reformas y adiciones que contiene el presente Decreto, en las materias cuyo conocimiento corresponde a los Tribunales Colegiados de Circuito de acuerdo a las propias reformas, podrá ser interrumpida y modificada por los propios Tribunales Colegiados de Circuito.
 
 SEPTIMO.- Se faculta al Pleno de la Suprema Corte de Justicia para dictar todas las medidas transitorias que sean necesarias para la efectividad e inmediato cumplimiento del presente Decreto.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+
+TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
