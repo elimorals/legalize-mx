@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2000-06-12"
+last_updated: "2001-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1755,7 +1755,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los ordenamientos legales siguientes:
 
-I. Del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, los delitos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+I. Del Código Penal Federal, los delitos siguientes:
 
 1) Homicidio por culpa grave, previsto en el artículo 60, párrafo tercero;
 
@@ -1826,6 +1828,10 @@ I. Del Código Penal para el Distrito Federal en Materia de Fuero Común y para 
 32) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis, y
 
 33) En materia de derechos de autor, previsto en el artículo 424 Bis.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2001)</small>
+
+34) Desaparición forzada de personas previsto en el artículo 215-A.
 
 II. De la Ley Federal contra la Delincuencia Organizada, el previsto en el artículo 2.
 
@@ -4686,3 +4692,7 @@ Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para ha
 TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
