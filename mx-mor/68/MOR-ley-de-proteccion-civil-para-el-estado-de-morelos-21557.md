@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-civil-para-el-estado-de-morelos-21557"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-16"
-last_updated: "1993-06-16"
+last_updated: "2001-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 16 de junio de 1993.
 
@@ -131,13 +131,17 @@ El Consejo Estatal de Protección Civil es el órgano de consulta y participaci�
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario General de Gobierno, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+II.- El Secretario de Gobierno, quien fungirá como Secretario Ejecutivo;
 
 III.- Un representante del Poder Legislativo;
 
 IV.- Un representante del Poder Judicial;
 
-V.- Los titulares de las dependencias mencionadas en el artículo 19 de la Ley Orgánica de la Administración Pública, quienes podrán designar como suplentes a los servidores públicos del rango inmediato inferior.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+V.- Los titulares de las dependencias que conforman la Administración Pública centralizada del Estado, quienes podrán designar como suplentes a los servidores públicos del rango inmediato inferior;
 
 VI.- Los titulares de Entidades de la Administración Pública que señale el Ejecutivo, y
 
@@ -149,7 +153,9 @@ B) Los representantes de instituciones de educación superior en el Estado, que 
 
 C) Los representantes de las organizaciones sociales o privadas que concierten su participación en el Sistema Estatal de Protección Civil.
 
-El Subsecretario del Protección Civil fungirá como Secretario Técnico y tendrá las atribuciones que se señalen en el reglamento.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+El Subsecretario del ramo de Protección Civil fungirá como Secretario Técnico y tendrá las atribuciones que se señalen en el reglamento.
 
 ###### Artículo 9.
 
@@ -381,27 +387,27 @@ En todo lo no previsto en este Capítulo en materia de notificaciones, será apl
 
 ### CAPITULO XI. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### Artículo 37.
 
-El recurso de inconformidad tiene por objeto que la autoridad revoque o modifique las resoluciones administrativas que se reclaman.
+Contra las resoluciones de las autoridades en que se impongan las sanciones contenidas en esta Ley, procederá el recurso de impugnación, en los términos previstos en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### Artículo 38.
 
-La inconformidad deberá presentarse por escrito ante el Ejecutivo del Estado o del Ayuntamiento respectivo, según sea el caso, dentro de los diez días hábiles siguientes a partir de la notificación del acto que se reclama y se suspenderán los efectos de la resolución cuando éstos no se hayan consumado, siempre que no se alteren el orden público o el interés social.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### Artículo 39.
 
-En el escrito de inconformidad se expresarán:
-
-Nombre y domicilio del recurrente o de quien promueva en su representación; el documento con el que acredite su personalidad, en caso de promover a nombre de otro; los agravios que considere se le causan; la resolución que motiva el recurso, la autoridad que haya dictado el acto reclamado y la fecha de notificación; en el mismo escrito deberán ofrecerse las pruebas y alegatos, especificando los puntos sobre los que deben versar, mismos que en ningún caso serán extraños a la cuestión debatida.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### Artículo 40.
 
-Admitido el recurso por la autoridad, se señalará día y hora para la celebración de una audiencia en la que se oirá en defensa al interesado y se desahogarán las pruebas ofrecidas, levantándose acta suscrita por los que en ella hayan intervenido.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ###### Artículo 41.
 
-La autoridad dictará la resolución que corresponda, debidamente fundada y motivada, en un plazo de diez días hábiles, misma que deberá notificar al interesado personalmente en los términos del Código de Procedimientos Civiles para el Estado. Si transcurrido el plazo no se ha dictado la resolución que corresponda, se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ### CAPITULO XII. DE LAS RESPONSABILIDADES
 
@@ -454,3 +460,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MAYO DE 2001.
+
+Primero.- Remítase el presente Decreto, al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
