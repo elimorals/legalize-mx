@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2002-07-31"
+last_updated: "2003-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
 
@@ -625,9 +625,9 @@ XIII. Registrar las autorizaciones a que se refiere el artículo 6o., fracción 
 
 XIV. Establecer los sistemas y procedimientos conforme a los cuales deba realizar sus actividades; actualizarlos y evaluar sus resultados;
 
-> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
 
-XV. Representar el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de Derechos Humanos, y ante otras autoridades competentes, en que sean parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios; así como formular las denuncias de contradicción de tesis ante la Suprema Corte de Justicia de la Nación y ante el Tribunal Federal de Justicia Fiscal y Administrativa, en asuntos de su competencia o cuando exista interés de la Secretaría de Hacienda y Crédito Público;
+XV. Representar, con excepción del juicio de amparo cuando se actúe como Autoridad Responsable, el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de Derechos Humanos, y ante otras autoridades competentes, en que sean parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios;
 
 > <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -637,9 +637,9 @@ XVI. Resolver los recursos administrativos conforme a las leyes distintas a las 
 
 XVII. Representar al Secretario ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los juicios que se interpongan en contra de las resoluciones que se dicten en los términos de la fracción anterior;
 
-> <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
 
-XVIII. Proponer los términos y, en su caso, rendir los informes previos y justificados que deban presentar el Presidente de la República y el Secretario, cuando proceda, los servidores públicos de la Secretaría y las autoridades fiscales de las entidades federativas coordinadas, en los asuntos competencia de la Secretaría; asimismo los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la propia Secretaría tenga el carácter de tercero perjudicado en los juicios de amparo; proponer los términos de los recursos que procedan, así como realizar, en general, todas las promociones que en dichos juicios se requieran;
+XVIII. Proponer los términos de los informes previos y justificados que deban presentar el Presidente de la República y el Secretario, cuando proceda, los servidores públicos de la Secretaría y las autoridades fiscales de las entidades federativas coordinadas, en los asuntos competencia de la Secretaría; asimismo de los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; proponer los términos de intervención de la Secretaría cuando tenga el carácter de tercero perjudicado en los juicios de amparo; proponer los términos de los recursos que procedan, así como realizar, en general, todas las promociones que en dichos juicios se requieran;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -3521,19 +3521,23 @@ XI. Acordar con el Subprocurador Fiscal Federal de Legislación y Consulta los a
 
 Compete a la Subprocuraduría Fiscal Federal de Amparos:
 
-I. Representar a la Secretaría ante los Tribunales de la República y ante las demás autoridades en la materia de amparo y en las otras en que dicha representación no corresponda a la Subprocuraduría Fiscal Federal de Investigaciones o a otra unidad administrativa de la Secretaría, así como en los casos a que se refiere el penúltimo párrafo del artículo 10 de este reglamento;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
+
+I. Representar a la Secretaría ante los Tribunales de la República y ante las demás autoridades en las que dicha representación no corresponda a la Subprocuraduría Fiscal Federal de Investigaciones o a otra unidad administrativa de la Secretaría, así como en los casos a que se refiere el penúltimo párrafo del artículo 10 de este reglamento, lo anterior siempre y cuando no se actúe dentro del juicio de amparo con el carácter de Autoridad Responsable;
 
 II. Proponer los términos de los informes previos y con justificación en relación con los juicios de amparo interpuestos contra leyes, tratados internacionales, reglamentos y otras disposiciones de carácter general, de los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad, así como contra actos de las autoridades de la Secretaría o de las autoridades fiscales de las Entidades Federativas coordinadas;
 
-III. Intervenir cuando la propia Secretaría tenga el carácter de tercero perjudicado en los juicios de amparo;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
+
+III. Proponer la forma de intervención de la Secretaría cuando tenga el carácter de tercero perjudicado en los juicios de amparo;
 
 IV. Someter a la consideración superior, los juicios o procedimientos judicial o administrativo en los que, por sus características especiales, el Procurador Fiscal de la Federación, deba ejercer la representación de la Secretaría o de cualquiera de sus unidades administrativas;
 
 V. Proponer la interposición de los recursos que procedan y actuar en estos juicios con las facultades de delegado en las audiencias; así como requerir y vigilar el debido cumplimiento por parte de las autoridades hacendarias a los amparos, y en su caso, proponer los términos en que se deberá intervenir en los incidentes de inejecución de sentencia y de repetición de actos reclamados que promuevan los particulares;
 
-> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
 
-VI. Representar el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de Derechos Humanos, y ante otras autoridades competentes, en que sea parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios;
+VI. Representar, con excepción del juicio de amparo cuando se actúe como Autoridad Responsable, el interés de la Federación en controversias fiscales; a la Secretaría y a las autoridades dependientes de la misma en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, ante la Comisión Nacional de Derechos Humanos, y ante otras autoridades competentes, en que sea parte, o cuando sin ser parte, sea requerida su intervención por la autoridad que conoce del juicio o procedimiento, o tenga interés para intervenir conforme a sus atribuciones; y, en su caso, poner en conocimiento del Órgano Interno de Control en la Secretaría, los hechos respectivos; ejercitar los derechos, acciones, excepciones y defensas de las que sean titulares, transigir cuando así convenga a los intereses de la Secretaría, e interponer los recursos que procedan ante los citados tribunales y autoridades, siempre que dicha representación no corresponda a otra unidad administrativa de la propia Secretaría o al Ministerio Público Federal y, en su caso, proporcionarle los elementos que sean necesarios;
 
 > <small>(REFORMADA, D.O.F. 22 DE MARZO DE 2001)</small>
 
@@ -3545,7 +3549,9 @@ VIII. Contestar en representación del Secretario, los escritos de los particula
 
 IX. Someter a consideración superior, las bases de coordinación de la defensa en los juicios promovidos en el extranjero en que sean parte las entidades de la administración pública paraestatal coordinadas por la Secretaría;
 
-X. Representar a la Secretaría y a las autoridades dependientes de la misma que sean parte en los juicios de nulidad y amparo, en materia de pensiones civiles, haberes de retiro, pensiones y compensaciones militares con cargo al Erario Federal, e interponer los recursos que procedan contra las sentencias y resoluciones definitivas dictadas por el Tribunal que conozca del juicio en dichas materias, cuya representación en el juicio hubiera correspondido a la Procuraduría Fiscal de la Federación;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2003)</small>
+
+X. Representar a la Secretaría y a las autoridades dependientes de la misma que sean parte en los juicios de nulidad, en materia de pensiones civiles, haberes de retiro, pensiones y compensaciones militares con cargo al Erario Federal, e interponer los recursos que procedan contra las sentencias y resoluciones definitivas dictadas por el Tribunal que conozca del juicio en dichas materias, cuya representación en el juicio hubiera correspondido a la Procuraduría Fiscal de la Federación;
 
 > <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2000)</small>
 
@@ -5851,23 +5857,23 @@ Iguales facultades y para los mismos fines tendrá el Titular del Instituto, con
 
 ### CAPÍTULO X. DE LAS SUPLENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2003)</small>
 
 ###### Artículo 105.
 
-El Secretario de Hacienda y Crédito Público será suplido en sus ausencias por los subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, o por el Oficial Mayor, en el orden indicado. En la presidencia de la Comisión Intersecretarial de Gasto Financiamiento, el Titular de la Secretaría será suplido indistintamente por el Subsecretario de Hacienda y Crédito Público o por el Subsecretario de Egresos. En los juicios de amparo en que deba intervenir en representación del Presidente de la República o como Titular de la Secretaría, así como en las controversias constitucionales o acciones de inconstitucionalidad o, en general, en cualquier otro procedimiento jurisdiccional, será suplido indistintamente por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Director General de Amparos Contra Leyes, por el Director General de Amparos Contra Actos Administrativos o por los servidores públicos antes señalados, en el orden indicado.
+El Secretario de Hacienda y Crédito Público será suplido en sus ausencias por los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos, por el Oficial Mayor, por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, en el orden indicado.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
 
-Los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos y el Oficial Mayor se suplirán entre sí indistintamente y sin sujeción a ningún orden. Cuando dichos servidores públicos sean señalados como autoridades responsables o como terceros perjudicados en los juicios de amparo o, en general, en cualquier otro procedimiento jurisdiccional, serán suplidos indistintamente por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Director General de Amparos contra Leyes o por el Director General de Amparos contra Actos Administrativos.
+Los Subsecretarios de Hacienda y Crédito Público, de Ingresos, de Egresos y el Oficial Mayor se suplirán entre sí o por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, indistintamente y sin sujeción a ningún orden.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
 
-El Procurador Fiscal de la Federación será suplido en sus ausencias por los Subprocuradores, en el orden que aparecen citados en este Reglamento. En los juicios de amparo, el Procurador Fiscal de la Federación será suplido sin sujeción al orden anterior, indistintamente, por el Subprocurador Fiscal Federal de Amparos, por el Director General de Amparos contra Leyes y por el Director General de Amparos contra Actos Administrativos; asimismo, en cualquier asunto de naturaleza penal el Procurador Fiscal de la Federación podrá ser suplido sin sujeción al orden anterior, por el Subprocurador Fiscal Federal de Investigaciones. La ausencia de los Subprocuradores será suplida entre ellos indistintamente y sin sujeción a ningún orden, o por los Directores Generales que de ellos dependan en los asuntos de su respectiva competencia, tratándose del Subprocurador Fiscal Federal de Legislación y Consulta la suplencia por parte de los Directores Generales que de él dependan se realizará indistintamente y sin sujeción a ningún orden.
+El Procurador Fiscal de la Federación será suplido en sus ausencias por los Subprocuradores, en el orden que aparecen citados en este Reglamento. La ausencia de los Subprocuradores será suplida entre ellos indistintamente y sin sujeción a ningún orden, o por los Directores Generales que de ellos dependan en los asuntos de su respectiva competencia, tratándose del Subprocurador Fiscal Federal de Legislación y Consulta la suplencia por parte de los Directores Generales que de él dependan se realizará indistintamente y sin sujeción a ningún orden.
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2003)</small>
 
-El Tesorero de la Federación será suplido en sus ausencias por los Subtesoreros en el orden que aparecen citados en este Reglamento, así como por el Director General de Vigilancia de Fondos y Valores, el Director General de Procedimientos Legales, el Director General de Sistemas Automatizados y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios, y éstos se suplirán en sus ausencias entre ellos indistintamente y sin sujeción a ningún orden. Cuando el Tesorero de la Federación sea señalado como autoridad responsable o tercero perjudicado en los juicios de amparo o, en general, en cualquier otro procedimiento jurisdiccional, será suplido indistintamente por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Director General de Amparos contra Leyes o por el Director General de Amparos contra Actos Administrativos.
+El Tesorero de la Federación será suplido en sus ausencias por los Subtesoreros en el orden que aparecen citados en este Reglamento; asimismo y en ausencia de dichos funcionarios éstos serán suplidos indistintamente y sin sujeción a ningún orden por el Procurador Fiscal de la Federación, por el Subprocurador Fiscal Federal de Amparos, por el Subprocurador Fiscal Federal de Legislación y Consulta o por el Subprocurador Fiscal Federal de Asuntos Financieros, así como por el Director General de Vigilancia de Fondos y Valores, el Director General de Procedimientos Legales, el Director General de Sistemas Automatizados y por el Director General Adjunto de Administración de Cartera y Activos no Monetarios.
 
 > <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2002)</small>
 
@@ -6066,3 +6072,7 @@ Los asuntos en materia de desincorporación de entidades paraestatales que se en
 TERCERO. Las referencias que se hacen y las atribuciones que se otorgan a la Unidad de Inversiones y de Desincorporación de Entidades Paraestatales, a la Unidad de Política Presupuestal, a la Dirección General de Programación y Presupuesto Agropecuario, Abasto, Desarrollo Social y Recursos Naturales y a la Dirección General de Programación y Presupuesto de Salud, Educación y Laboral en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, se entenderán hechas a la Unidad de Inversiones, a la Unidad de Política y Control Presupuestario, a la Dirección General de Programación y Presupuesto "A" y a la Dirección General de Programación y Presupuesto "B" respectivamente.
 
 CUARTO. Los servidores públicos señalados en el artículo 98-A de este Reglamento, además de ejercer las facultades que establecen las leyes citadas en el párrafo segundo del citado artículo, también podrán ejercer las facultades previstas en la Ley Federal de Responsabilidades de los Servidores Públicos, de conformidad con lo previsto en el artículo sexto transitorio de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+D.O.F. 23 DE ENERO DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
