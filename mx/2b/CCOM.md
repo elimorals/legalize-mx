@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1963-02-04"
+last_updated: "1963-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1963.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -37,6 +37,10 @@ CODIGO DE COMERCIO.
 # LIBRO PRIMERO.
 
 ## TITULO PRELIMINAR.
+
+###### Art. 1.
+
+Esta ley entrará en vigor treinta días después de su publicación.
 
 ## TITULO PRIMERO.
 
@@ -2076,7 +2080,7 @@ Del seguro contra incendios.
 
 (DEROGADO POR EL ARTICULO 196 DE LAS DISPOSICIONES FINALES DE LA LEY SOBRE EL CONTRATO DE SEGURO, D.O.F. 31 DE AGOSTO DE 1935)
 
-## TITULO SEPTIMO.
+## TITULO SÉPTIMO.
 
 DE LOS CONTRATOS DE SEGUROS.
 
@@ -3212,15 +3216,11 @@ DE LA PRENDA MERCANTIL.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-TTULO DÉCIMO SEGUNDO.
+## TITULO DECIMO SEGUNDO.
 
 DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MISMOS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
-
-## TITULO DECIMO TERCERO.
-
-DE LA MONEDA.
 
 ### CAPÍTULO I.
 
@@ -3308,9 +3308,9 @@ De los capitanes.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DECIMO CUARTO.
+## TITULO DECIMO TERCERO.
 
-DE LAS INSTITUCIONES DE CRÉDITO.
+DE LA MONEDA.
 
 ###### Art. 635.
 
@@ -3332,177 +3332,133 @@ Nadie puede ser obligado á recibir moneda extranjera.
 
 El papel, billetes de Banco y títulos de deuda extranjeros, no pueden ser objeto de actos mercantiles en la República, sino considerándolos como simples mercancías; pero podrán ser objeto de contratos puramente civiles.
 
-## TITULO PRIMERO.
+## TITULO DECIMO CUARTO.
 
-DE LAS EMBARCACIONES.
+DE LAS INSTITUCIONES DE CRÉDITO.
 
 ###### Art. 640.
 
 Las instituciones de crédito se regirán por una ley especial, y mientras ésta se expide, ninguna de dichas instituciones podrá establecerse en la República sin previa autorización de la Secretaría de Hacienda y sin el contrato respectivo aprobado, en cada caso, por el Congreso de la Unión.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
+
 # LIBRO TERCERO.
 
 DEL COMERCIO MARÍTIMO.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
+
+## TITULO PRIMERO.
+
+DE LAS EMBARCACIONES.
+
+###### Art. 641.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 642.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 643.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 644.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 645.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 646.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 647.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 648.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 649.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 650.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 651.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 652.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 653.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 654.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 655.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 656.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 657.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 658.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 659.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 660.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 661.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 662.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 663.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 664.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+###### Art. 665.
+
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ## TITULO SEGUNDO.
 
 DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
 
-###### Art. 641.
-
-Los buques mercantes constituirán una propiedad que se podrá adquirir indistintamente por todo persona que no tenga incapacidad legal para ello. Las embarcaciones se adquirirán por los mismos modos prescritos en derecho para adquirir el dominio de las cosas comerciales.
-
-Cualquiera que sea el modo con que se haga la traslación de dominio de una nave, ha de constar por escritura pública ó por póliza ante corredor.
-
-Para que las embarcaciones aparejadas, equipadas y armadas, puedan dedicarse al comercio, han de girar necesariamente bajo el nombre y responsabilidad directa de un naviero.
-
-###### Art. 642.
-
-La posesión de las embarcaciones sin el título de adquisición, no atribuye la propiedad al poseedor, si no ha sido continua por espacio de diez años. El capitán no puede adquirir la propiedad de la nave por prescripción.
-
-###### Art. 643.
-
-Los capitanes ó contramaestres de las embarcaciones, no están autorizados, por razón de sus oficios, á venderlas; mas si estando la embarcación en viaje se inutilizare para la navegación, acudirá su capitán ó contramaestre á la autoridad competente del puerto donde hiciere su primera arribada, la que probado en forma suficiente el daño de la embarcación, y que no puede ser rehabilitada para continuar su viaje, decretará la venta en pública subasta y con todas las formalidades que se establecen en el art. 657.
-
-###### Art. 644.
-
-En la venta de la nave se entienden siempre comprendidos, aunque no se exprese, todos los aparejos pertenecientes á ella, salvo pacto expreso en contrario.
-
-###### Art. 645.
-
-Si la enajenación del buque se verificase estando en viaje, corresponderán al comprador íntegramente los fletes que devengaré en él desde que recibió el último cargamento y será de su cuenta el pago de la tripulación y demás individuos que componen su dotación correspondiente al mismo viaje.
-
-Si la venta se realizase después de haber llegado el buque al puerto de su destino pertenecerán los fletes al vendedor y será de su cuenta el pago de la tripulación y demás individuos que componen su dotación, salvo en uno y otro caso pacto en contrario.
-
-###### Art. 646.
-
-Cuando las embarcaciones sean ejecutadas y vendidas judicialmente para pago de acreedores, tenderán privilegio de prelación las obligaciones siguientes por el orden siguiente en que se designan:
-
-I. Los impuestos que debiera causar la nave y cualquier otro crédito del fisco;
-
-II. Los gastos y procedimientos de la ejecución y venta de la embarcación;
-
-III. Los salarios de los depositarios y guardianes de la embarcación y cualquiera otro gasto causado en su conservación desde su entrada en el puerto hasta su venta;
-
-IV. El alquiler del almacén donde se hayan custodiado los aparejos y pertrechos de la nave;
-
-V. Los sueldos que se deban al capitán y salarios de la tripulación de la nave en su último viaje;
-
-VI. Las deudas inexcusables que en su último viaje haya contraído el capitán en utilidad de la nave, en cuyo caso se comprende el reembolso de los efectos de su cargamento que hubiese vendido con el mismo objeto;
-
-VII. Lo que se deba por los materiales y mano de obra de la construcción de la nave, cuando no hubiere hecho viaje alguno; y si hubiere navegado, la parte del precio que aun no esté satisfecha á su último vendedor; y las deudas que se hubieren contraído para repararla, aparejarla y aprovicionarla par el último viaje;
-
-VIII. Las hipotecas y cantidades tomadas á la gruesa sobre el casco, quilla, aparejos, pertrechos, armamento, apresto y máquina de vapor antes de la última salida de la nave;
-
-IX. El premio de los seguros hechos para el último viaje sobre el casco, quilla, aparejos, pertrechos, máquina de vapor, armamento y apresto de la nave;
-
-X. La indemnización que se deba á los cargadores, por valor de los géneros cargados en la nave que no se hubieren entregado á los consignatorios y la indemnización que les corresponda por las averías de que sea responsable la nave.
-
-###### Art. 647.
-
-Para gozar de la preferencia que en su respectivo grado se marca á los créditos de que hace mención el artículo 646, se han de justificar éstos en la forma siguiente:
-
-Los créditos del fisco, por certificaciones de autoridades competentes;
-
-Los gastos judiciales erogados con arreglo á derecho y aprobados por el tribunal competente;
-
-Los salarios y gastos de conservación del buque y sus pertrechos, por decisión formal del tribunal que hubiere autorizado ó aprobado después dichos gastos;
-
-Los sueldos del capitán y salarios de la tripulación, por liquidación deseada en vista de los roles y de los libros de cuenta y razón de la nave aprobada por el capitán del puerto;
-
-Las deudas contraídas para cubrir las urgencias de la nave y su tripulación durante el último viaje y las que resulten contra la nave por haberse vendido efectos del cargamento, se calificarán y examinarán por el tribunal competente en juicio instructivo y sumario, con vista de las justificaciones que presente el capitán de las necesidades que dieron lugar á contraer aquellas obligaciones;
-
-Los créditos procedentes de la construcción ó venta del buque, por las escrituras otorgadas á su debido tiempo con las solemnidades que prescribe la ordenanza de matrículas;
-
-Las provisiones para el apresto, aparejos y vituallas de la nave, por facturas de los proveedores, con el recibo á su pie del capitán y el visto bueno del naviero, con tal que de aquellas facturas se haya tomado razón en la capitanía del puerto á más tardar diez días después de la salida del buque;
-
-Las hipotecas por su orden, en vista de las escrituras respectivas y de su registro;
-
-Los préstamos á la gruesa por los contratos otorgados conforme á derecho, con tal que de estos contratos se haya depositado un duplicado en la capitanía del puerto, si la hubiere á más tardar diez días después de la salida del buque;
-
-Los premios de seguros por las pólizas y certificaciones de los corredores que intervinieron en ellos;
-
-Y los créditos de los cargadores por falta de entrega del cargamento ó averías ocurridas en él, por sentencia judicial ó arbitral.
-
-###### Art. 648.
-
-Los acreedores por cualquiera de los títulos mencionados en el artículo 646, conservarán su derecho expedito contra la nave aun después de vendida ésta, durante todo el tiempo que permanezca en el puerto donde se vendió, y sesenta días después que se hizo á la mar, despachada á nombre y por cuenta del nuevo propietario.
-
-###### Art. 649.
-
-Si la venta se hiciere en pública subasta y con intervención de la autoridad judicial bajo las formalidades prescritas en el artículo 657, se extingue toda responsabilidad de la nave en favor de los acreedores desde el momento en que se otorgue la escritura de venta.
-
-###### Art. 650.
-
-Si se vendiere una nave estando en viaje conservarán sus derechos íntegros contra ella los expresados acreedores hasta que la nave regrese al puerto donde esté matriculada y seis meses después sin perjuicio de los derechos que les corresponda ejercitar en puerto distinto.
-
-###### Art. 651.
-
-Mientras dura la responsabilidad de la nave por las obligaciones detalladas en el artículo 646, puede ser embargada á instancia de los acreedores que presenten sus títulos en debida forma en cualquier puerto en que se halle; y se procederá á su venta judicialmente con audiencia y citación del capitán, en caso de hallarse ausente el naviero.
-
-###### Art. 652.
-
-Por cualquiera otra deuda que tenga el propietario de la nave no puede ser esta detenida ni embargada sino en el puerto de su matrícula y el procedimiento se entenderá con el mismo propietario, haciéndole la primera citación al menos en el lugar de su domicilio.
-
-###### Art. 653.
-
-Ninguna nave cargada y despachada para hacer viaje, puede ser embargada ni detenida por deudas de su propietario, de cualquiera naturaleza que éstas sean, sino por las que se hayan contraído para aprestar y aprovisionar la nave para aquel mismo viaje y no anteriormente; y aun en este caso cesarán los efectos del embargo, si cualquiera interesado en la expedición diere fianza suficiente de que la nave regresará al puerto en el tiempo prefijado en la patente, ó que sino lo verificase por cualquier accidente aunque sea fortuito, satisfará la deuda demandada en cuanto sea legítima.
-
-###### Art. 654.
-
-Las embarcaciones extranjeras surtas en puertos mexicanos no pueden ser embargadas por deudas que no hayan sido contraídas en territorio mexicano y en utilidad de las mismas embarcaciones á no ser por sentencia pronunciada en país extranjero que deba ejecutarse con arreglo á las leyes de la República.
-
-###### Art. 655.
-
-Por las deudas particulares de un copartícipe en la nave, no podrá ésta ser detenida, embargada ni ejecutada en su totalidad, sino que el procedimiento se contraerá á la porción que en ella tenga el deudor.
-
-###### Art. 656.
-
-Siempre que se haga embargo de una nave se inventariarán detalladamente todos los aparejos y pertrechos de ella, caso de pertenecer al propietario de la misma nave.
-
-###### Art. 657.
-
-Ninguna nave puede rematarse en venta judicial sin que haya sido subastada públicamente por término de treinta días , renovándose cada diez días los carteles en que se anuncie la venta.
-
-Los carteles se fijarán en los sitios acostumbrados para los demás anuncios en el puerto donde se haga la venta, y en su jurisdicción; y además se fijará un cartel en la entrada de la capitanía del puerto y otro en el palo mayor ó costado de la embarcación.
-
-La venta se anunciará también en todos los periódicos que se publiquen en la jurisdicción del puerto y se hará constar en el expediente de subasta el cumplimiento de ésta y las demás formalidades prescritas. En los remates se procederá con las solemnidades y en la forma en que está dispuesto por el derecho común para las ventas judiciales .
-
-###### Art. 658.
-
-Las dudas ó cuestiones que pueden sobrevenir entre los copartícipes de una nave sobre las cosas de interés común, se resolverán por la mayoría, la cual se constituye por las partes de propiedad en la nave que formen más de la mitad de su valor. La misma regla se observará para determinar la venta de la nave, aun cuando la repugnen algunos copartícipes.
-
-###### Art. 659.
-
-Los propietarios de la nave tendrán preferencia en el fletamento de ella si con anterioridad no se ha contratado con terceras personas, á precio y condiciones iguales sobre los que no lo sean; y si concurriesen á reclamar este derecho para un mismo viaje dos ó más copartícipes, tendrá la preferencia el que tenga más interés en la nave; y entre copartícipes que tengan igual interés en ella, se sorteará el que haya de ser preferido cuando no se avengan á fletarla por partes iguales.
-
-###### Art. 660.
-
-La preferencia que se declara en el artículo anterior á los copartícipes de la nave, no los autorizará para exigir que se varíe el destino que por disposición de la mayoría se haya fijado al viaje.
-
-###### Art. 661.
-
-También gozarán los copartícipes del derecho de tanto sobre la venta que alguno de ellos pretenda hacer de su porción respectiva, proponiéndolo en el término preciso de los tres días siguientes á la celebración de la venta y consignando en el acto el precio de ella.
-
-###### Art. 662.
-
-El vendedor puede precaverse contra el derecho de tanteo haciendo saber la venta que tenga concertada á cada uno de sus copartícipes; y si dentro del mismo término de tres días no hiciesen uso de aquel derecho, no lo tendrán á hacerlo después de celebrada.
-
-###### Art. 663.
-
-Cuando la nave necesite reparación será suficiente que uno solo de los copartícipes exija que se haga para que todos estén obligados á proveer de fondos suficientes para que se verifique; y si alguno no lo hiciere en el término de los quince días siguientes al que sea requerido judicialmente para ello, y todos ó algunos de los demás supliesen, tendrá derecho á el que haga este suplemento á que se le trasfiera el dominio de la parte que correspondía al que no hizo la provisión de fondos, abonándole por justiprecio el valor que á ésta correspondiese antes de hacer la reparación. El justiprecio se hará antes que se de principio á la reparación por peritos nombrados por ambas partes ó de oficio por el juez en caso que alguna deje de verificarlo.
-
-###### Art. 664.
-
-Para todos los efectos legales sobre que no se haya hecho modificación ó restricción por la leyes de este Código, guardarán las embarcaciones la condición de bienes muebles.
-
-###### Art. 665.
-
-Los constructores de buques podrán emplear los materiales y seguir, en lo relativo á su construcción y aparejo los sistemas que más convengan á sus intereses. Los navieros y la gente de mar se sujetarán á lo que las leyes y reglamentos de Administración pública dispongan sobre navegación, aduanas, sanidad, seguridad de las naves y demás objetos análogos.
-
-## TITULO TERCERO.
-
-DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO III.
 
@@ -3510,73 +3466,73 @@ De los oficiales y tripulación del buque.
 
 ###### Art. 666.
 
-Se entiende por naviero la persona encargada de avituallar ó representar al buque en el puerto en que se halle.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 667.
 
-Para ser naviero se requiere la capacidad legal que exige el ejercicio del comercio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 668.
 
-Al naviero pertenece privativamente hacer todos los contratos respectivos á la nave, su administración, fletamento y viajes; y el capitán ó contramaestre de la nave deben arreglarse á las instrucciones y órdenes escritas y firmadas que de él reciban, quedando dichos capitán ó contramaestre responsables de cuanto hagan en contravención de ellas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 669.
 
-También corresponde al naviero hacer el nombramiento y ajuste del capitán; pero si tuviera copartícipes en la propiedad de la nave, deberá hacerse dicho nombramiento por la mayoría de todos ellos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 670.
 
-Pueden los navieros desempeñar por sí mismos los oficios de capitán ó contramaestre de sus naves, sin que lo estorbe la repugnancia de ningún propietario. En caso de concurrir al solicitarlo dos copropietarios se preferirá al que tenga más interés en el buque y si ambos tuvieren igual porción en él, se sorteará el que haya de serlo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 671.
 
-El naviero es responsable de las deudas y obligaciones que contraiga el capitán de su nave para repararla, habilitarla y aprovisionarla, y no puede eludir esta responsabilidad alegando que el capitán se excedió de sus facultades.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 672.
 
-También recae sobre el naviero la responsabilidad de las indemnizaciones en favor de tercero á que haya dado lugar la conducta del capitán en la custodia de los efectos que cargó en la nave; pero podrá salvarse de ella haciendo abandono de la nave con todas sus pertenencias y los fletes que haya devengado en el viaje, á no ser que sea al mismo tiempo capitán ó sólo copartícipe en la propiedad pues en el primer caso no podrá hacer el abandono y en el segundo á pesar de él, será responsable en la proporción de la parte que tenga en el dominio de la nave.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 673.
 
-No tiene responsabilidad el naviero en los excesos que durante la navegación cometan el capitán y tripulación, y sólo habrá lugar por razón de ellos á proceder contra las personas y bienes de los que resulten culpables.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 674.
 
-El naviero indemnizará al capitán de todos los suplementos que haya hecho en utilidad de la nave con fondos propios ó ajenos, siempre que haya obrado con arreglo á sus instrucciones ó usando de las facultades que legítimamente le competan.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 675.
 
-Los propietarios de navíos armados en corso no serán responsables de los delitos y depredaciones cometido en la mar por la gente de guerra que se encuentre á su bordo ó por la tripulación, sino hasta la suma por la cual hayan dado fianza, á menos que sean partícipes ó cómplices.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 676.
 
-Antes de hacerse el buque á la mar puede le naviero despedir á su arbitrio al capitán ó cualquiera otro individuo de la tripulación cuyo ajuste no tenga tiempo ó viaje determinado, pagándoles los sueldos que tengan devengados según sus contratos, sin otra indemnización, á no ser que se funde en pacto expreso y determinado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 677.
 
-Despidiéndose al capitán ó á otro individuo de la tripulación durante el viaje, se les abonará su salario hasta que regresen al puerto donde se hizo el ajuste, á menos que hubiesen cometido algún delito que diera justa causa para despedirlos ó los inhabilitará para desempeñar su servicio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 678.
 
-Cuando los ajustes del capitán é individuos de la tripulación con el naviero tengan tiempo ó viaje determinado no podrán aquellos ser despedidos hasta el cumplimiento de su contratos sino por causa de insubordinación en materia grave, robo, embriaguez habitual ó perjuicio causado al buque ó á su cargamento por dolo ó negligencia manifiesta ó probada.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 679.
 
-Si el capitán despedido es copropietario de la nave, puede renunciar á la comunidad y exigir el reembolso del valor de su parte, la que se determinará por peritos. Si el capitán copropietario hubiere obtenido el mando de la nave por pacto especial de la sociedad, no se le podrá privar de su encargo sin causa grave, calificada sin forma de juicio por peritos competentes, cuyo dictamen se ejecutará sin ulterior recurso.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 680.
 
-El naviero no podrá admitir ni contratar más carga que la que corresponda á la cavidad que esté detallada á su nave en la matrícula; y si lo hiciere, será responsable de los perjuicios que se sigan á los cargadores.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 681.
 
-Si un naviero contratase más carga de la que debe llevar su nave, indemnizará á los cargadores á quienes dejen de cumplir sus contratos, todos los perjuicios que por su falta de cumplimiento les hayan sobrevenido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 682.
 
-Todo contrato entre naviero y el capitán caduca en caso de venderse la nave reservándose á éste su derecho por la indemnización que le corresponda según los pactos hechos con el naviero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-La nave vendida queda obligada, durante un año á la seguridad del pago de esta indemnización si después de haberse dirigido la acción contra el vendedor, resultare éste insolvente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO IV.
 
@@ -3584,171 +3540,73 @@ De los sobrecargos.
 
 ###### Art. 683.
 
-Los capitanes y patrones deberán ser mexicanos, tener aptitud legal para obligarse con arreglo á este Código, hacer constar la pericia, capacidad y condiciones necesarias para mandar y dirigir el buque, según establezcan las leyes, ordenanzas ó reglamentos de marina ó navegación, y no estar inhabilitados con arreglo á ellos para el ejercicio del cargo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 684.
 
-Serán inherentes al cargo de capitán ó patrón de buque las facultades siguientes:
-
-I. Nombrar ó contratar la tripulación en ausencia del naviero y hacer la propuesta de ella estando presente, pero sin que el naviero pueda imponerle ningún individuo contra su expresa negativa;
-
-II. Mandar la tripulación y dirigir el buque al puerto de su destino, conforme á las instrucciones que hubiese recibido del naviero;
-
-III. Imponer con sujeción á los contratos y á las leyes y reglamentos de la marina mercante, y estando á bordo, penas correccionales á los que dejen de cumplir sus órdenes ó falten á la disciplina, instruyendo, sobre los delitos cometidos á bordo en la mar, la correspondiente averiguación, que entregará á la autoridades que de ella deban conocer, en el primer puerto á que arribe;
-
-IV. Contratar el fletamento del buque en ausencia del naviero ó su consignatario, obrando conforme á las instrucciones recibidas y procurando con exquisita diligencia por los intereses del propietario;
-
-V. Tomar todas las disposiciones convenientes para conservar el buque bien provisto y pertrechado, comprando al efecto lo que fuere necesario, siempre que no haya tiempo de pedir instrucciones al naviero;
-
-VI. Disponer en iguales casos de urgencia, estando en viaje, las reparaciones en el casco y máquinas del buque y su aparejo y pertrechos que sean absolutamente precisos para que pueda continuar y concluir su viaje; pero si llegase á un punto en que existiese consignatario del buque, obrara de acuerdo con éste.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 685.
 
-Para atender á las á las obligaciones mencionadas en el artículo anterior, el capitán, cuando no tuviere fondos ni esperase recibirlos del naviero se los procurará según el orden sucesivo que se expresa:
-
-I. Pidiéndolos á los consignatarios del buque ó corresponsales del naviero;
-
-II. Acudiendo á los consignatorios de la carga ó á los interesados en ella;
-
-III. Librando sobre el naviero;
-
-IV. Tomando la cantidad precisa por medio de préstamo á la gruesa;
-
-V. Vendiendo la cantidad de carga que bastaré á cubrir la suma absolutamente indispensable para reparar el buque y habilitarle para seguir su viaje.
-
-En estos dos últimos casos habrá de acudir á la autoridad judicial del puerto, siendo en México, y al Cónsul mexicano, hallándose en el extranjero; y en donde no lo hubiere, á la autoridad local.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 686.
 
-Serán inherentes al cargo de capitán, las obligaciones que siguen:
-
-I. Tener á bordo, antes de emprender el viaje, un inventario detallado del casco, máquinas, aparejo, pertrechos, respetos y demás pertenencias del buque; la patente de navegación, el rol de los individuos que componen la dotación del buque y las contratas con ellos celebradas, la lista de pasajeros, la patente de sanidad, la certificación del registro que acredite la propiedad del buque, y todas las obligaciones que hasta aquella fecha pesaran sobre él; los contratos de fletamento ó copias autorizadas de ellos, los conocimientos ó guías de la carga y el acta de la visita ó reconocimiento pericial, si la hubiere practicado en el puerto de salida;
-
-II. Llevar á bordo un ejemplar de este Código;
-
-III. Tener tres libros sellados y foliados, debiendo poner al principio de cada uno nota expresiva del número de folios que contenga, firmada por la autoridad de marina, y en su defecto por la autoridad competente.
-
-En el primer libro, que se denominará "Diario de navegación," anotará día por día el estado de la atmósfera, los vientos que reinen, los rumbos que se hacen, el aparejo que se lleva, la fuerza de la máquinas con que se navegue, las distancias navegadas, las maniobras que se ejecuten y demás accidentes de la navegación; anotará también las averías que sufra el buque en su casco, máquinas, aparejo y pertrechos, cualquiera que sea la causa que las origine, así como los desperfectos y averías que experimente la carga, y los efectos é importancia de la echazón si ésta ocurriera; y en los casos de resolución grave que exijan asesorarse ó reunirse en junta á los oficiales de la nave y aun á la tripulación y pasajeros, anotará los acuerdos que se tomen. Para las noticias indicadas se servirá del cuaderno de bitácora y del de vapor ó máquinas que lleva el maquinista.
-
-En el segundo libro denominado "De contabilidad," registrará todas las partidas que recaude y pague por cuenta del buque, anotando con toda especificación, artículo por artículo, la procedencia de lo recaudado y lo invertido en vituallas, reparaciones, adquisición de pertrechos ó efectos, víveres, combustibles, aprestos, salarios y demás gastos de cualquiera clase que sean. Además, insertará la lista de todos los individuos de la tripulación, expresando sus domicilios, sus sueldos y salarios y lo que hubieren recibido á cuenta, así directamente por entrega á sus familias.
-
-En el tercer libro titulado "De cargamentos," anotará la entrada y salida de todas las mercancías, con expresión de las marcas y bultos, nombres de los cargadores y consignatarios, puertos de carga y descarga y los fletes que devenguen. En este mismo libro inscribirá los nombres y procedencias de los pasajeros, el número de bultos de sus equipajes y el importe de los pasajes;
-
-IV. Hacer, antes de recibir carga, con los oficiales de la tripulación y dos peritos, si lo exigieren los cargadores y los pasajeros, un reconocimiento del buque para conocer si se halla estanco con el aparejo y máquinas en buen estado y con los pertrechos necesarios para una buena navegación, conservando certificación del acta de esta visita firmada por todos los que la hubieren hecho, bajo su responsabilidad.
-
-Los peritos serán acento nombrados, uno por el capitán del buque y otro por los que pidan su reconocimiento, y en caso de discordia nombrará un tercero la autoridad de marina del puerto;
-
-V. Permanecer constantemente en su buque con la tripulación mientras se recibe á bordo la carga y vigilar cuidadosamente su estiva (sic); no consentir que se embarque ninguna mercancía ó materias de carácter peligroso, como las substancias inflamables o explosivas sin las precauciones que están recomendadas para sus envases y manejo y aislamiento; no permitir que se lleve sobre cubierta carga alguna que por su disposición volumen ó peso, dificulten las maniobras marineras y pueda comprometer la seguridad de la nave; y en el caso de que la naturaleza de las mercancías, la índole especial de la expedición y principalmente de la estación favorable en que aquélla se emprenda permitieran conducir sobre cubierta alguna carga deberá oir la opinión de los oficiales del buque y contar con la anuencia de los cargadores y del naviero;
-
-VI. Pedir práctico á costa del buque en todas las circunstancias que lo requieran las necesidades de la navegación, y más principalmente cuando haya de entrar en puerto, canal ó río, ó tomar una rada ó fondeadero que ni él ni los oficiales y tripulantes del buque conozcan;
-
-VII. Hallarse sobre cubierta en las recaladas y tomar el mando en las entradas y salidas de puertos, canales, ensenadas y ríos, á menos de no tener á bordo práctico en el ejercicio de sus funciones. No deberá pernoctar fuera del buque sino por motivo grave ó por razón de oficio;
-
-VIII. Presentarse, así que tome puerto por arribada forzosa, á la autoridad marítima, siendo en México, y al cónsul mexicano siendo en el extranjero, antes de las veinticuatro horas y hacerle una declaración del nombre, matrícula y procedencia del buque, de su carga y motivo de arribada cuya declaración visarán la autoridad ó el cónsul, si después de examinada la encontraren aceptable, dándole la certificación oportuna para acreditar su arribo y los motivos que la originaron. A falta de la autoridad marítima ó de cónsul, la declaración deberá hacerse ante la autoridad local;
-
-IX. Practicar las gestiones necesarias ante la autoridad competente para hacer constar en la certificación del Registro mercantil del buque, las obligaciones que contraiga, conforme á las fracciones VII y VIII del artículo 646;
-
-X. Poner á buen recaudo y custodia todos los papeles y pertenencias del individuo de la tripulación que falleciere en el buque, formando inventario detallado con asistencia de los testigos, pasajeros ó en su defecto, tripulantes;
-
-XI. Ajustar su conducta á las reglas y preceptos contenidos en las instrucciones del naviero, quedando responsable de cuanto hiciere en contrario;
-
-XII. Dar cuenta al naviero desde el puerto donde arribe el buque del motivo de su llegada aprovechando la ocasión que le presten los semáforos telégrafos, correos, etc., según los casos; poner en su noticia la carga que hubiere recibido, con especificación del nombre y domicilio de los cargadores, fletes que devenguen y cantidades que hubiere tomado á la gruesa; avisarle su salida y cuantas operaciones y datos puedan interesar á aquél;
-
-XIII. Observar las reglas sobre luces de situación y maniobras para evitar abordajes;
-
-XIV. Permanecer á bordo en caso de peligro del buque, hasta perder la última esperanza de salvarlo y antes de abandonarlo oir á los oficiales de la tripulación estando á lo que decida la mayoría; y si tuviere que refugiarse en el bote, procurará, ante todo, llevar consigo los libros y papeles, y luego los objetos de más valor debiendo justificar, en caso de pérdida de libros y papeles, que hizo cuanto pudo para salvarlo;
-
-XV. En caso de naufragio presentar protesta en forma en el primer puerto de arribada, ante la autoridad competente ó cónsul mexicano, antes de las veinticuatro horas especificando en ella todos los accidentes del naufragio, conforme al caso VIII de este artículo;
-
-XVI. Cumplir las obligaciones que impusieren las leyes y reglamentos de navegación, adunas, sanidad ú otros.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 687.
 
-El capitán que navegare á flete común ó ala tercio, no podrá hacer por su cuenta negocio alguno separado; y si lo hiciere, la utilidad que resulte pertenecerá á los demás interesados, y las pérdidas cederán en su perjuicio particular.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 688.
 
-El capitán que, habiendo concertado un viaje, dejare de cumplir su empeño sin mediar accidente fortuito ó caso de fuerza mayor que se lo impida, indemnizará todos los daños que por esta causa irrogue sin perjuicio de las sanciones penales á que hubiere lugar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 689.
 
-Sin consentimiento del naviero, el capitán no podrá hacerse sustituir por otra persona y si lo hiciere, además de quedar responsable de todos los actos del sustituto y obligado á las indemnizaciones del artículo anterior, podrán ser uno y otro destituídos por el naviero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 690.
 
-Si se consumieran las provisiones y combustibles del buque antes de llegara al puerto de su destino el capitán dispondrá de acuerdo con los oficiales del mismo, arribar al más inmediato para reponerse de uno y otro; pero si hubiere á bordo personas que tuviesen víveres de su cuenta podrá obligarles á que los entreguen par el consumo común de cuantos se hallen á bordo, abonando su importe en el acto ó á lo más en el primer puerto donde arribare.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 691.
 
-El capitán no podrá tomar dinero á la gruesa sobre el cargamento y si lo hiciere, será ineficaz el contrato.
-
-Tampoco podrá tomarlo para sus propias negociaciones sobre el buque sino por la parte de que fuere propietario, siempre que anteriormente no hubiere tomado gruesa alguna sobre la totalidad, ni exista otro genero de empeño ú obligación á cargo del buque. Pudiendo tomarlo deberá expresar necesariamente cuál sea su participación.
-
-En caso de contravención á este artículo, serán de cargo privativo del capitán el capital, réditos y costas, y el naviero podrá además despedirlo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 692.
 
-El capitán será responsable civilmente para con el naviero y éste para con los terceros que hubieren contratado con él:
-
-I. De todos los daños que sobrevinieren al buque y su cargamento por impericia ó descuido de su parte. Si hubiere mediado delito ó falta lo será con arreglo al Código Penal;
-
-II. De las sustracciones y latrocinios que se cometieren por la tripulación salvo su derecho á repetir contra los culpables;
-
-III. De las pérdidas, multas y confiscaciones que se impusieren por contravenir á las leyes y reglamentos de aduanas, policía, sanidad y navegación;
-
-IV. De los daños y perjuicios que se causaren por discordias que se susciten en el buque ó por faltas cometidas por la tripulación en el servicio y defensa del mismo, si no probare que usó oportunamente de toda la extensión de su autoridad para prevenirlas ó evitarlas;
-
-V. De los que sobrevengan por el mal uso de las facultades y falta en el cumplimiento de las obligaciones que le correspondan conforme á los artículos 684 y 686;
-
-VI. De los que se originen por haber tomado derrota contraria á la que debía, ó haber variado de rumbo sin justa causa á juicio de la junta de oficiales del buque, con asistencia de los cargadores ó sobre cargos que se hallaren á bordo.
-
-No le eximirá de esta responsabilidad excepción alguna;
-
-VII. De los que resulten por entrar voluntariamente en puerto distinto del de su destino, fuera de los casos ó sin las formalidades de que habla el artículo 686;
-
-VIII. De los que resulten por inobservancia de las prescripciones del reglamento de situaciones de luces y maniobras para evitar abordajes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 693.
 
-El capitán responderá del cargamento desde que se hiciere entrega de él en el muelle ó al costado á flote en el puerto en donde se cargue, hasta que lo entregue en la orilla ó en el muelle del puerto de la descarga, á no haberse pactado expresamente otra cosa.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 694.
 
-No será responsable el capitán de los daños que sobrevinieren al buque ó al cargamento por fuerza mayor; pero lo será siempre, sin que valga pacto en contrario, de los que se ocasionen por sus propias faltas.
-
-Tampoco será el personalmente responsable el capitán de las obligaciones que hubiere contraído par atender á la reparación habilitación y avituallamiento del buque, las cuales recaerán sobre el naviero á no ser que aquél hubiere comprometido terminantemente su propia responsabilidad ó suscrito letra ó pagaré á su nombre.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 695.
 
-El capitán que tome dinero sobre el casco, máquina, aparejo ó pertrecho del buque, ó empeñe ó venda mercaderías ó provisiones fuera de los casos y sin las formalidades prevenidas en este Código, responderá del capital, réditos y costas é indemnizará los perjuicios que ocasione.
-
-El que cometa fraude en sus cuentas reembolsará la cantidad defraudada y quedará sujeto á lo que disponga el Código Penal.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 696.
 
-Si estando en viaje llegare á noticia del capitán que habían aparecido corsarios ó buques de guerra contra su pabellón estará obligado á arribar al puerto neutral más inmediato, dar cuenta á su naviero ó cargadores y esperar la ocasión de navegar en conserva, ó á que pasen el peligro ó á recibir órdenes terminantes del naviero ó de los cargadores.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 697.
 
-Si se viere atacado por algún corsario y después de haber procurado el encuentro y de haber resistido la entrega de los efectos del buque ó su cargamento, le fueren tomados violentamente, ó se viere en la necesidad de entregarlos formalizará de ello asiento en su libro de cargamento y justificará el hecho ante la autoridad competente en el primer puerto donde arribe.
-
-Justificada la fuerza mayor, quedará exento de responsabilidad.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 698.
 
-El capitán que hubiese corrido temporal ó considerase haber sufrido la carga daño ó avería, hará sobre ello protesta ante la autoridad competente en el primer puerto donde arribe, dentro de las veinticuatro horas siguientes á su llegada, y la ratificará dentro del mimo término luego que llegue al punto de su destino, procediendo en seguida á la justificación de los hechos, sin poder abrir las escotillas hasta haberla verificado.
-
-Del mismo modo habrá de proceder el capitán si, habiendo naufragado su buque se salvarse solo ó con parte de su tripulación, en cuyo caso se presentará á la autoridad más inmediata haciendo relación de los hechos.
-
-La autoridad, ó el cónsul en el extranjero, comprobará lo hechos referidos recibiendo declaración á los individuos de la tripulación y pasajeros que se hubieren salvado; y tomando las demás disposiciones que conduzcan para averiguar el caso, pondrá testimonio de lo que resulte del expediente, en libro de navegación y en el del piloto y entregará al capitán el expediente original sellado y foliado con nota de folios, que deberá rubricar para que lo presente al juez ó tribunal del puerto de su destino.
-
-La declaración del capitán hará fe si estuviere conforme con las de la tripulación y pasajeros: si discordare se estará á lo que resulte de éstas salvo siempre la prueba en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 699.
 
-El capitán, bajo su responsabilidad personal, así que llegue al puerto de su destino, obtenga el permiso necesario de las oficinas de sanidad y aduanas y cumpla las demás formalidades que los reglamentos de la Administración exijan, hará entrega del cargamento sin desfalco, á los consignatarios, y, en su caso, del buque, aparejos y fletes al naviero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-Si por ausencia del consignatario ó por no presentarse portador legítimo de lo conocimientos ignorase el capitán á quién debiera hacer legítimamente entrega del cargamento, lo pondrá á disposición del juez, ó tribunal, ó autoridad á quien corresponda, á fin de que resuelva lo conveniente á su depósito, su conservación y custodia.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO I.
 
@@ -3758,211 +3616,101 @@ De las formas y efectos del contrato de fletamento.
 
 ###### Art. 700.
 
-Para ser piloto será necesario:
-
-I. Reunir las condiciones que exijan las leyes ó reglamentos de marina ó navegación;
-
-II. No estar inhabilitado con arreglo á ellos para el desempeño de su cargo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 701.
 
-El piloto, como segundo jefe del buque y mientras el naviero no acuerde otra cosa, sustituirá al capitán en los casos de ausencia, enfermedad ó muerte, y entonces asumirá todas sus atribuciones, obligaciones y responsabilidades.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 702.
 
-El piloto deberá ir provisto de las cartas de los mares en que va á navegar, de las tablas é instrumentos de reflexión que están en uso y son necesarios para el desempeño de su cargo, siendo responsable de los accidentes á que diere lugar por su omisión en esta parte.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 703.
 
-El piloto llevará particularmente y por sí un libro foliado y sellado en todas sus hojas, denominado "Cuaderno de bitácora," con nota al principio expresiva del número de las que contenga, firmado por la autoridad competente y en él registrará diariamente las distancias, los rumbos navegados, la variación de la aguja, el abatimiento, la dirección y fuerza del viento, el estado de la atmósfera y del mar, el aparejo que se lleve largo, la latitud y longitud observada, el número de hornos encendidos, la presión del vapor, el número de revoluciones, y bajo el nombre de "Acaecimientos," las maniobras que se ejecuten, los encuentros con otros buques, y todos los particulares y accidentes que ocurran durante la navegación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 704.
 
-Para variar de rumbo y tomar el más conveniente al buen viaje del buque, se pondrá de acuerdo el piloto con el capitán. Si éste se opusiere, el piloto le expondrá las observaciones convenientes en presencia de los demás oficiales del mar. Si todavía insistiere el capitán en su resolución negativa, el piloto hará la oportuna protesta, firmada por él y por otro de los oficiales en el libro de navegación, y obedecerá al capitán quien será el único responsable de las consecuencias de su disposición.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 705.
 
-El piloto responderá de todos los perjuicios que se causaren al buque y al cargamento por su descuido é impericia, sin perjuicio de la responsabilidad criminal á que hubiere lugar, si hubiere mediado delito ó falta.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 706.
 
-Por responsabilidad ó inhabilitación del capitán y del segundo capitán, sucede el contramaestre en el mando y responsabilidad de la nave.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 707.
 
-Serán obligaciones del contramaestre:
-
-I. Vigilar la conservación del casco y aparejo del buque y encargarse de la de los enseres y pertrechos que forman su pliego de cargo, proponiendo al capitán las reparaciones necesarias y el reemplazo de los efectos y pertrechos que se inutilicen y excluyan;
-
-II. Cuidar el buen orden del cargamento, manteniendo el buque expedito para la maniobra;
-
-III. Conservar el orden, la disciplina y el buen servicio de la tripulación, pidiendo al capitán las órdenes é instrucciones convenientes, y dándole pronto aviso de cualquier ocurrencia en que fuere necesaria la intervención de su autoridad;
-
-IV. Designar á cada marinero el trabajo que deba hacer á bordo, conforme á las instrucciones recibidas y velar sobre su ejecución con puntualidad y exactitud;
-
-V. Encargarse por inventario del aparejo y todos lo pertrechos del buque, si se procediere á desarmarlo, á no ser que el naviero hubiere dispuesto otra cosa.
-
-Respecto de los maquinistas regirán las reglas siguientes:
-
-I. Para poder ser embarcado como maquinista naval formando parte de la dotación de un buque mercante será necesario reunir las condiciones que las leyes y reglamentos exijan y no estar inhabilitado con arreglo á ellas para el desempeño de su cargo. Los maquinistas serán considerados como oficiales de la nave pero no ejercerán mando ni intervención si no en lo que se refiera al aparato motor;
-
-II. Cuando existan dos ó más maquinistas embarcados en un buque, hará uno de ellos de jefe y estarán á sus órdenes los demás maquinistas y todo el personal de las máquinas: tendrá además á su cargo el aparato motor, las piezas de respeto, instrumentos y herramienta que al mismo conciernen, el combustible, las materias lubricadoras, y cuanto, en fin, constituye á bordo el cargo del maquinista;
-
-III. Mantendrá las maqninco (sic) y calderas en buen estado de conservación y limpieza, y dispondrá lo conveniente, á fin de que estén siempre dispuestas para funcionar con regularidad, siendo responsables de los accidentes ó averías que por su descuido ó impericia se causen al aparato motor, al buque y al cargamento, sin perjuicio de la responsabilidad criminal á que hubiere lugar, si resultase probado haber mediado delito ó falta;
-
-IV. No emprenderá ninguna modificación en el aparato motor, ni procederá á remediar las averías que hubiese notado en el mismo, ni alterará el régimen normal de su marcha, sin la autorización previa del capitán, alcual (sic), si se opusiera á que se verificasen le expondrá las observaciones convenientes en presencia de los demás maquinistas ú oficiales; y si á pesar de esto el capitán insistiese en su negativa, el maquinista jefe hará la oportuna protesta, consignándola en el cuaderno de máquinas y obedecerá al capitán que será el único responsable de las consecuencias de su disposición;
-
-V. Dará cuenta al capitán de cualquier avería que ocurra en el aparato motor, y le avisará cuando haya que parar las máquinas por algún tiempo ú ocurra algún accidente en su departamento, del que deba tener noticia inmediata el capitán enfrentándole además con frecuencia acerca del consumo de combustible y materias lubricadoras;
-
-VI. Llevará un libro ó registro titulado "Cuaderno de máquinas," en el cual se anotarán todos los datos referentes al trabajo de las máquinas como son por ejemplo: el número de hornos encendidos, las presiones del vapor en las calderas y cilindros, el vacío en el condensador, las temperaturas, el grado de saturación del agua en las calderas, el consumo de combustible y de materias lubricadoras; y bajo el epígrafe de "Anuncios notables," las averías y descomposiciones que ocurran en máquinas y calderas, las causas que las produjeron, y los medios empleados para repararlas; también se indicarán tomando los datos del cuaderno de bitácora la fuerza y dirección del viento, el aparejo largo y el andar del buque.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 708.
 
-El contramaestre tomará el mando del buque en caso de imposibilidad ó inhabilitación del capitán y piloto, asumiendo entonces sus atribuciones y responsabilidades.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 709.
 
-El capitán podrá componer la tripulación de su buque con el número de hombres que considere conveniente; y á falta de marineros mexicanos podrá embarcar extranjeros avecindados en el país, sin que su número pueda exceder de la que determina la ley. Cuando en puertos extranjeros no encuentre el capitán suficiente número de tripulantes nacionales podrá completar la tripulación con extranjeros, con anuencia del cónsul ó autoridades de marina.
-
-Las contratas que el capitán celebre con los individuos de la tripulación y demás que componen la dotación del buque, y á que se hace referencia el art. 686, deberán constar por escrito en el libro de contabilidad sin intervención de notario ó escribano, firmadas por los otorgantes y visadas por la autoridad de marina, si se extiende en los dominios mexicanos, ó por los Cónsules ó Agentes Consulares de México si se verifica en el extranjero enumerado en ellas todas las obligaciones que cada uno contraiga y todos los derechos que adquiera, cuidando aquellas autoridades de que estas obligaciones y derechos se consignen de un modo claro y terminante que no dé lugar á dudas ni reclamaciones.
-
-El capitán cuidará de leerles los artículos de este Código que les conciernen, haciendo expresión de la lectura en el mismo documento.
-
-Teniendo el libro los requisitos prevenidos en el art. 686, y no apareciendo indicio de alteración en sus partidas, hará fe entre las cuestiones que ocurran entre el capitán y la tripulación, sobre las contratas extendidas en él y las cantidades entregadas á cuenta de las mismas.
-
-Cada individuo de la tripulación podrá exigir al capitán un acopia firmada por éste, de la contrata y de la liquidación de sus haberes, tales como resulten del libro.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 710.
 
-El hombre de mar, contratado para servir en un buque, no podrá rescindir su empeño ni dejar de cumplirlo, sino por impedimento legítimo que le hubiere sobrevenido.
-
-Tampoco podrá pasar del servicio de un buque al de otro, sin obtener permiso escrito del capitán de aquél en que estuviere.
-
-Si no habiendo obtenido esta licencia el hombre de mar contratado en un buque se contrataré en otro, será nulo el segundo contrato y el capitán podrá elegir entre obligarle á cumplir el servicio á que primeramente se hubiera obligado, ó buscar á expensas de aquel quien le sustituya.
-
-Además perderá los salarios que hubiere devengado en su primer empeño á beneficio del buque en que estaba contratado.
-
-El capitán que sabiendo que el hombre de mar está al servicio de otro buque, le hubiere nuevamente contratado sin exigir el permiso de que tratan los párrafos anteriores, responderá subsidiariamente al del buque al que primero pertenecía el hombre de mar, por la parte que éste no pudiere satisfacer de la indemnización de que trata el párrafo tercero de este artículo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 711.
 
-No constando el tiempo determinado por el cual se ajusto un hombre de mar, no podrá ser despedido hasta la terminación del viaje de ida y vuelta al puerto de su matrícula.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 712.
 
-El capitán tampoco podrá despedir al hombre de mar durante el tiempo de su contrata sino por justa causa reputándose tal cualquiera de las siguientes:
-
-I. Perpetración de delito que perturbe el orden en el buque;
-
-II. Reincidencia en faltas de subordinación, disciplina ó cumplimiento en el servicio;
-
-III. Ineptitud y negligencia reiteradas en el cumplimiento del servicio que deba prestar;
-
-IV. Embriaguez habitual;
-
-V. Cualquier suceso que incapacite al hombre de mar para ejecutar el trabajo de que estuviere en cargado salvo lo dispuesto en el artículo 719;
-
-VI. La deserción.
-
-Podrá, no obstante el capitán, antes de emprender el viaje y sin expresar razón alguna, rehusar que vaya á bordo el hombre de mar que hubiese ajustado, y dejarlo en tierra, en cuyo caso habrá de apagarle su salario como si hiciese servicio.
-
-Esta indemnización saldrá de la masa de los fondos del buque si el capitán hubiera obrado por motivos de prudencia y en interés de la seguridad y buen servicio de aquél. No siendo así será de cargo particular del capitán.
-
-Comenzada la navegación durante ésta y hasta concluído el viaje, no podrá el capitán abandonar á hombre alguno de su tripulación en tierra ni en mar á menos de que como reo de algún delito proceda su prisión y entrega á la autoridad competente en el primer puerto de arribada, caso para el capitán obligatorio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 713.
 
-Si contratada la tripulación se revocare el viaje por voluntad del naviero ó de los fletadores antes ó después de haberse hecho el buque á la mar, ó se diere al buque por igual causa distinto destino de aquel que estaba determinado en el ajuste de la tripulación será ésta indemnizada por la rescisión del contrato, según los casos á saber:
-
-I. Si la revocación del viaje se acordase antes de salir el buque del puerto, se dará á cada uno de los hombres de mar ajustados á una mesada de sus respectivos salarios, además del que les corresponda recibir con arreglo á sus contratos, por el servicio prestado en el buque hasta la fecha de la revocación;
-
-II. Si el ajuste hubiere sido por una cantidad alzada por todo el viaje, se graduará lo que corresponda á dicha mesada y dietas, prorrateándolas en los días que por aproximación debiera aquél durar, á juicio de peritos, en la forma establecida por la ley; y si el viaje proyectado fuere de tan corta duración que se calculase aproximadamente de un mes, la indemnización se fijará en quince días descontando en todos los casos las sumas anticipadas;
-
-III. Si la revocación ocurriese habiendo salido el buque á la mar, los hombres ajustados en una cantidad alzada por el viaje devengarán integro el salario que se les hubiere ofrecido como si el viaje hubiese terminado y los ajustados por meses percibieran el haber correspondiente al tiempo que estuvieren embarcados y al que necesite para llegar al puerto término del viaje; debiendo además el capitán proporcionar á unos y otros pasaje para el mismo puerto, ó bien para el de la expedición del buque según les conviniere;
-
-IV. Si el naviero ó los fletantes del buque dieren á éste destino diferente del que estaba determinado en el ajuste, y los individuos de la tripulación no prestaren su conformidad se les abonará por indemnización la mitad de lo establecido en el caso primero, además de lo que se les adeudare por la parte del haber mensual correspondiente á los días transcurridos desde sus ajustes.
-
-Si aceptaren la alteración y el viaje por la mayor distancia ó por otras circunstancias, diere lugar á un aumento de retribución, se regulará ésta privadamente, ó por amigables componedores en caso de discordia.
-
-Aunque el viaje se limite á punto más cercano, no podrá por ello hacerse baja alguna al salario convenido,
-
-Si la revocación ó alteración del viaje procediere de los cargadores ó fletadores, el naviero tendrá derecho á reclamarles la indemnización que corresponda en justicia.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 714.
 
-Si la revocación del viaje procediere de justa causa independientemente de la voluntad del naviero y cargadores, y el buque no hubiere salido del puerto, los individuos de la tripulación no tendrán otro derecho que el de cobrar los salarios devengados hasta el día en que se hizo la revocación
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 715.
 
-Serán causas justas para la revocación del viaje:
-
-I. La declaración de guerra ó interdicción del comercio con la potencia á cuyo territorio hubiera de dirigirse el buque;
-
-II. El estado de bloqueo del puerto de su destino ó peste que sobreviniera después del ajuste;
-
-III. La prohibición de recibir en el mismo puerto los géneros que compongan el cargamento del buque;
-
-IV. La detención ó embargo del mismo por orden del gobierno ó por otra causa independiente de la voluntad del naviero;
-
-V. La inhabilitación del buque para navegar;
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 716.
 
-Si después de emprendido el viaje ocurriere alguna de la tres primeras causas expresadas en el artículo anterior, serán pagados los hombres de mar en el puerto adonde (sic) el capitán creyere conveniente arribar en beneficio del buque y cargamento, según el tiempo que hayan servido en él; pero si el buque hubiera de continuar su viaje, podrán el capitán y la tripulación exigir mutuamente el cumplimiento del contrato;
-
-En caso de ocurrir la causa cuarta, se continuará pagando á la tripulación la mitad de su haber, si el ajuste hubiere sido por meses; pero si la detención excediere de tres, quedará rescindido el empeño abonando á los tripulantes la cantidad que les habría correspondido percibir, según su contrato, concluído el viaje. Y si el ajuste hubiere sido por un tanto el viaje, deberá cumplirse el contrato en los términos convenidos.
-
-En el caso quinto la tripulación no tendrá más derecho que el de cobrar los salarios devengados; mas si la inhabilitación del buque procediere de descuido ó impericia del capitán, del maquinista ó del piloto, indemnizarán á la tripulación de los perjuicios sufridos salva siempre la responsabilidad criminal á que hubiere lugar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 717.
 
-Navegando la tripulación á la parte no tendrá derecho por causa de revocación, de mora ó mayor extensión de viaje, más que á la parte proporcional que le corresponda en la indemnización que hagan al fondo común del buque las personas responsables de aquellas ocurrencias.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 718.
 
-Si el buque y su carga se perdieren totalmente por apresamiento ó naufragio quedará extinguido todo derecho así por parte de la tripulación para reclamar salario alguno, como por la del naviero para el reembolso de las anticipaciones hechas.
-
-Si se salvaré alguna parte del buque ó del cargamento, ó de uno y otro, la tripulación ajustada á sueldo incluso, el capitán conservará su derecho sobre el salvamento hasta donde alcancen, así los restos del buque como el importe de los fletes de la carga salvada; más los marineros que naveguen á la parte del flete, no tendrán derecho alguno sobre el salvamento del casco sino sobre la parte del flete salvado. Si hubieran trabajado para recoger los restos del buque náufrago, se les abonará sobre el valor de lo salvado una gratificación proporcionada á los esfuerzos hechos y á los riesgos arrostrados para conseguir el salvamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 719.
 
-El hombre de mar que enfermare no perderá su derecho al salario durante la navegación a no proceder la enfermedad de un acto suyo culpable. De todos modos, se suplirá del fondo común el gasto de la asistencia y curación, á calidad de reintegro.
-
-Si la dolencia procediere de herida recibida en servicio ó defensa del buque el hombre de mar será asistido y curado por cuenta del fondo común, deduciéndose ante todo de los productos del flete, los gastos de asistencia y curación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 720.
 
-Si el hombre de mar muriese durante la navegación, se abonará á sus herederos lo ganado y no percibido de su haber, según se ajuste y la ocasión de su muerte, á saber:
-
-Si hubiere fallecido de muerte natural y estuviere ajustado á sueldo, se le abonará lo devengado hasta el día de su fallecimiento;
-
-Si el ajuste hubiere sido á un tanto por viaje, le corresponderá la mitad de lo devengado si el hombre de mar falleció en la travesía á la ida y el todo si navegando á la vuelta.
-
-Y si el ajuste hubiere sido á la parte y la muerte hubiere ocurrido después de emprendido el viaje se abonará á los herederos toda la parte correspondiente al hombre de mar; pero habiendo éste fallecido antes de salir el buque del puerto, no tendrán los herederos derecho á reclamación alguna.
-
-Si la muerte hubiera ocurrido en defensa del buque, el hombre de mar será considerado vivo, y se abonará á sus herederos concluído el viaje, la totalidad de los salarios ó la parte íntegra de utilidades que le correspondieren como á los demás de su clase.
-
-En igual forma se considerará presente al hombre de mar apresado defendiendo el buque, para gozar de los mismos beneficios que los demás; pero habiendo sido por descuido ú otro accidente sin relación con el servicio, sólo percibirá los salarios devengados hasta el día de su apresamiento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 721.
 
-El buque con sus máquinas, aparejo, pertrechos y fletes, estarán afectos á la responsabilidad de los salarios devengados por la tripulación ajustada á sueldo ó por viaje, debiéndose hacer la liquidación y pago en el intermedio de una expedición á otra.
-
-Emprendida una nueva expedición, perderán la preferencia los créditos de aquella clase procedentes de la anterior.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 722.
 
-Los oficiales y la tripulación del buque quedarán libres de todo compromiso, si lo estiman oportuno, en los casos siguientes:
-
-I. Si antes de comenzar el viaje intentare el capitán variarlo, ó si sobreviniere una guerra marítima con la nación adonde el buque estaba destinado;
-
-II. Si sobreviniere y se declarare oficialmente una enfermedad epidémica en el puerto de destino;
-
-III. Si el buque cambiase de propietario ó de capitán.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 723.
 
-Se entenderá por dotación de un buque el conjunto de todos los individuos embarcados, de capitán á mozo de cámara necesarios para su dirección, maniobras y servicio; y por lo tanto; estarán comprendidos en la dotación de tripulación, los pilotos, maquinistas, fogoneros y demás cargos de á bordo no especificados; pero no lo estarán los pasajeros ni los individuos que el buque llevare de transporte.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO II.
 
@@ -3970,23 +3718,23 @@ De los derechos y obligaciones del fletante.
 
 ###### Art. 724.
 
-Los sobrecargos desempeñarán á bordo las funciones administrativas que les hubieren conferido el naviero ó los cargadores; llevarán la cuenta y razón de sus operaciones en un libro que tendrá las mismas circunstancias y requisitos exigidos al de contabilidad del capitán, y respetarán á éste en sus atribuciones como jefe de la embarcación.
-
-Las facultades y responsabilidad del capitán cesan con la presencia del sobrecargo, en cuanto á la parte de administración legítimamente conferida á éste, subsistiendo para todas las gestiones que son inseparables de su autoridad y empleo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 725.
 
-Serán aplicables á los sobrecargos todas las disposiciones contenidas en el capítulo II del título III, libro II, sobre capacidad, modo de contratar y responsabilidad de los factores.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 726.
 
-Los sobre cargos no podrán hacer, sin autorización ó pacto expreso, negocio alguno por cuenta propia durante su viaje, fuera del de la pacotilla que por costumbre del puerto donde se hubiere despachado el buque, les sea permitido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-Tampoco podrán invertir en el viaje de retorno más que el producto de la pacotilla, á no mediar autorización expresa de los comitentes.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO CUARTO.
+## TITULO TERCERO.
 
-DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
+DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO III.
 
@@ -3994,121 +3742,73 @@ De las obligaciones del fletador.
 
 ###### Art. 727.
 
-El contrato de fletamento deberá extenderse por duplicado en póliza firmada por los contratantes, y cuando alguno no sepa ó no pueda, por dos testigos á su ruego. La póliza de fletamento contendrá, además de las condiciones libremente estipuladas, las circunstancias siguientes:
-
-I. La clase, nombre y porte del buque;
-
-II. Su pabellón y puerto de matrícula;
-
-III. El nombre, apellido y domicilio del capitán;
-
-IV. El nombre, apellido y domicilio del naviero, si éste contratare el fletamento;
-
-V. El nombre, apellido y domicilio del fletador, y si manifestare obrar por comisión, el de la persona por cuya cuenta hace el contrato;
-
-VI. El puerto de carga y descarga;
-
-VII. La cabida, número de toneladas ó cantidad de peso ó medida que se obliguen respectivamente á cargar y á conducir, ó si es total el fletamento;
-
-VIII. El flete que haya de pagarse, expresando si ha de ser una cantidad alzada por el viaje, ó un tanto al mes, ó por la cavidades que se hubieren de ocupar, ó por el peso, ó la medida de los efectos en que consista el cargamento, ó de cualquiera otro modo que se hubiere convenido;
-
-IX. El tanto de capa que se haya de pagar al capitán;
-
-X. Los días convenidos para la carga y descarga;
-
-XI. Las estadías y sobreestadías que habrán de contarse y lo que por cada una de ellas se hubiere de pagar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 728.
 
-Si se recibiere el cargamento sin haber firmado la póliza el contrato se entenderá celebrado con arreglo á lo que resulte del conocimiento, único título, en orden á la carga, para fijar los derecho y obligaciones del naviero, del capitán y del fletador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 729.
 
-Las pólizas de fletamento contratado con intervención del corredor que certifique la autenticidad de las firmas de los contratantes por haberse puesto en su presencia, harán prueba plena en juicio, y si resultare entre ellas discordancia, se estará á la que concuerde con la que el corredor deberá conservar en su registro si éste estuviere con arreglo á derecho. También harán fe la pólizas, aun cuando no haya intervenido corredor, siempre que los contratantes reconozcan como suyas las firmas puestas en ellas.
-
-No habiendo intervenido corredor en el fletamento ni reconociéndose las firmas, se decidirán las dudas por lo que resulte del conocimiento, y á falta de éste, por las pruebas que suministren las partes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 730.
 
-Los contratos de fletamento celebrados por el capitán en ausencia del naviero serán válidos y eficaces aun cuando al celebrarlos hubiera obrado en contravención á las órdenes é instrucciones del naviero ó fletante; pero quedará á éste expedita la acción contra el capitán para el resarcimiento de perjuicios.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 731.
 
-Si en la póliza del fletamento no constaré el plazo en que hubieren de verificarse la carga y descarga, se seguirá el uso del puerto donde se ejecuten estas operaciones. Pasando el plazo estipulado ó el de costumbre, y no constando en el contrato de fletamento cláusula expresa que fije la indemnización de la demora, tendrá derecho el capitán á exigir las estadías y sobreestadías que hayan transcurrido en cargar y descargar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 732.
 
-Si durante el viaje quedaré el buque inservible, el capitán estará obligado á fletar á su costa otro en buenas condiciones, que reciba la carga y la portee á su destino, á cuyo efecto tendrá obligación de buscar buque no sólo en el puerto de arribada, sino en los inmediatos, hasta la distancia de 150 kilómetros.
-
-Si el capitán no proporcionare, por indolencia ó malicia, buque que conduzca el cargamento á su destino, los cargadores, previo un requerimiento al capitán para que en término improrrogable procure flete, podrán contratar el fletamento, acudiendo á la autoridad judicial en solicitud de que sumariamente apruebe el contrato que hubieren hecho. La misma autoridad obligará por la vía de apremio, al capitán á que por su cuenta y bajo su responsabilidad, lleve á efecto el fletamento hecho por los cargadores.
-
-Si el capitán, á pesar de su diligencia, no encontrare buque para el flete, depositará la carga á disposición de los cargadores, á quienes dará cuenta de lo ocurrido en la primera ocasión que se le presente, regulándose en estos casos el flete por la distancia recorrida por el buque, sin que haya lugar á indemnización alguna.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 733.
 
-El flete se devengará según las condiciones estipuladas en el contrato, y sino estuvieren expresas, ó fueren dudosas, se observarán las reglas siguientes:
-
-I. Fletado el buque por meses ó por días, empezará á correr el flete desde el día en que se ponga el buque á la carga;
-
-II. En los fletamentos hechos por un tiempo determinado, empezará á correr el flete desde el mimo día;
-
-III. Si los fletes se ajustaren por peso, se hará el pago por el peso bruto, incluyendo los envases, como barricas ó cualquier otro objeto en que vaya contenida la carga.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 734.
 
-Devengarán flete las mercancías vendidas por el capitán para atender á la reparación indispensable del casco, maquinaria ó aparejo, ó para necesidades imprescindibles y urgentes.
-
-El precio de estas mercaderías se fijará según el éxito de la expedición, á saber:
-
-I. Si el buque llegare á salvo al puerto del destino, el capitán las abonará al precio que obtengan las de la misma clase que en él se vendan;
-
-II. Si el buque se perdiere, al que hubieren obtenido en venta de las mercaderías.
-
-La misma regla se observará en el abono del flete, que será entero si el buque llegaré á su destino, y en proporción de la distancia recorrida si se hubiere perdido antes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 735.
 
-No devengarán fletes las mercaderías arrojadas al mar por razón de salvamento común; pero su importe será considerado como avería gruesa contándose aquél en proporción á la distancia recorrida cuando fueron arrojadas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 736.
 
-Tampoco devengarán flete las mercaderías que se hubieren perdido por naufragio ó varada, ni las que fueren presa de piratas ó enemigos.
-
-Si se hubiere recibido el flete por adelantado, se devolverá ó no mediar pacto en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 737.
 
-Rescatándose el buque ó las mercaderías ó salvándose los efectos del naufragio, se pagará el flete que corresponda á la distancia recorrida por el buque porteando la carga y si reparado la llevare hasta el puerto del destino se abonará el flete por entero, sin perjuicio de lo que corresponda sobre la avería.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 738.
 
-Las mercaderías que sufran deterioro ó diminucion (sic) por vicio propio ó mala calidad y condición de los envases, ó por caso fortuito, devengarán el flete íntegro y tal como se hubiere estipulado en el contrato de fletamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 739.
 
-El aumento natural que en peso ó medida tengan las mercaderías cargadas en el buque, cederá en beneficio del dueño y devengará el flete correspondiente fijado en el contrato para las mismas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 740.
 
-El cargamento estará especialmente afecto al pago de los fletes, de los gastos y derechos causados por el mismo que deban reembolsar los cargadores, y de la parte que pueda corresponderle en avería gruesa; pero no será lícito al capitán dilatar la descarga por recelo que deje de cumplirse esta obligación.
-
-Si existiere motivo de desconfianza, el juez ó tribunal á instancia del capitán, podrá acordar el depósito de las mercaderías hasta que sea completamente reintegrado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 741.
 
-El capitán podrá solicitar la venta del cargamento en la proporción necesaria para el pago del flete, gastos y averías que le correspondan, reservándose el derecho de reclamar el resto de lo que por estos conceptos le fuere debido, si lo realizado por la venta no bastase á cubrir su crédito.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 742.
 
-Los efectos cargados estarán obligados preferentemente á la responsabilidad de su fletes y gastos durante veinte días, á contar desde su entrega ó depósito. Durante este plazo se podrá solicitar la venta de los mismos, aunque haya otros acreedores y ocurra el caso de quiebra del cargador ó del consignatario.
-
-Este derecho no podrá ejercitarse, sin embargo, sobre los efectos que después de la entrega hubiesen pasado á una tercera persona sin malicia de ésta y por título oneroso.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 743.
 
-Si el consignatario no fuese hallado ó se negare á recibir el cargamento deberá el juez ó tribunal, á instancia del capitán, decretar su depósito y disponer la venta de lo que fuere necesario para el pago de los fletes y demás gastos que pesaren sobre él.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-Asimismo tendrá lugar la venta cuando los efectos depositados ofrecieren riesgo de deterioro ó por sus condiciones ú otras circunstancias los gastos de conservación y custodia fueren desproporcionados.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO IV.
 
@@ -4116,61 +3816,45 @@ De la rescisión total o parcial del contrato del fletamento.
 
 ###### Art. 744.
 
-El fletante ó el capitán se atendrá en los contratos de fletamento á la cabida que tenga el buque, ó á la expresamente designada en su matrícula, no tolerándose más diferencia que las de 2 por 100 entre la manifestada á la que tenga en realidad.
-
-Si el fletante ó el capitán contrataren mayor carga que la que el buque pueda conducir, atendido su arqueo, indemnizará á los cargadores á quienes dejen de cumplir su contrato, los perjuicios que por su falta de cumplimiento les hubiesen sobrevenido según los casos, á saber:
-
-Si ajustado el fletamento de un buque por un solo cargador, resultare error ó engaño en la cabida de aquel, y no optare el fletador por la rescisión, cuando le corresponda este derecho, se reducirá el flete en proporción de la carga que el buque deje de recibir debiendo además indemnizar el fletante al fletador de los perjuicios que hubiere ocasionado.
-
-Si por el contrario fueron varios los contratos del fletamento, y por falta de cabida no pudiere embarcarse toda la carga contratada, y ninguno de los fletadores optare por la rescisión se dará la preferencia al que ya tenga introducida y colocada la carga en el buque y los demás obtendrán el lugar que les corresponda, según el orden de fechas de sus contratos.
-
-No apareciendo esta prioridad, podrán cargar si les conviniere á prorrata de las cantidades de peso ó extensión que cada uno haya contratado y quedará el fletante obligado al resarcimiento de daños y perjuicios.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 745.
 
-Si recibida por el fletante una parte de la carga, no encontrare la que falte para formar al menos las tres quintas partes de las que puede portear el buque, al precio que hubiere fijado, podrá sustituir para el transporte otro buque visitado y declarado á propósito para el mismo viaje, siendo de su cuenta los gastos de trasbordo y el aumento, si lo hubiere, en el precio de flete. Si no le fuere posible esta sustitución, emprenderá el viaje en el plazo convenido y no habiéndolo á los quince días de haber comenzado la carga sino se ha estipulado otra cosa.
-
-Si el dueño de la parte embarcada le procurase carga á los mismos precios y con iguales ó proporcionadas condiciones á las que acepto en la recibida, no podrá el fletante ó capitán negarse á aceptar el resto del cargamento; y si lo resistiese, tendrá derecho el cargador á exigir que se haga á la mar el buque con la carga que tuviere á bordo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 746.
 
-Cargadas la tres quintas partes del buque, el fletante no podrá, sin consentimiento de los fletadores ó cargadores, substituir con otro el designado en el contrato, so pena de constituirse por ello responsable de todos los daños y perjuicios que sobrevengan durante el viaje al cargamento de los que no hubieren consentido la sustitución.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 747.
 
-Fletado un buque por entero, el capitán no podrá, sin consentimiento del fletador, recibir carga de otra persona; y si lo hiciere, podrá dicho fletador obligarle á desembarcarla y á que le indemnice los perjuicios que por ello se le sigan.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 748.
 
-Serán de cuenta del fletante todos los perjuicios que sobrevengan al fletador por retardo voluntario del capitán en emprender el viaje, según las reglas que van prescritas, siempre que fuera requerido notarial ó judicialmente á hacerse á la mar en tiempo oportuno.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 749.
 
-Si el fletador llevase al buque más carga que la contratada, podrá admitírsele el exceso de flete con arreglo al precio estipulado en el contrato, pudiendo colocarse con buena estiva (sic) sin perjudicar á los demás cargadores; pero si para colocarla hubiere de faltarse á las buenas condiciones de estiva (sic), deberá el capitán rechazarla ó desembarcarla á costa del propietario.
-
-Del mismo modo el capitán podrá antes de salir del puerto echar en tierra las mercaderías introducidas á bordo clandestinamente ó portearlas si pudiere hacerlo con buena estiva (sic), exigiendo por razón de flete el precio más alto que hubiere pactado en aquel viaje.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 750.
 
-Fletado el buque para recibir la carga en el puerto se presentará el capitán al consignatario designado en su contrato, y si no le entregare la carga, dará aviso al fletador, cuyas instrucciones esperara, corriendo entre tanto las estadías convenidas, ó las que fueren de uso en el puerto, sino hubiere sobre ello pacto expreso en contrario. No recibiendo el capitán contestación en el término necesario para ello, hará diligencias para encontrar flete; y sino lo hallaré después de haber corrido las estadías y sobre estadías formalizará protesta y regresará al puerto donde contrató el fletamento.
-
-El fletador pagará el flete por entero, descontando el que haya devengado por las mercaderías que se hubiesen trasportado á la ida y á la vuelta si se hubieran cargado por cuenta de terceros.
-
-Lo mismo se observará cuando el buque fletado de ida y vuelta no sea habilitado de carga para su retorno.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 751.
 
-Perderá el capitán el flete é indemnizará á los cargadores siempre que éstos prueben, aun contra el acta de reconocimiento, si hubiere practicado en el puerto de salida, que el buque no se hallaba en disposición para navegar al recibir la carga.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 752.
 
-Subsistirá el contrato de fletamento si careciendo el capitán de instrucciones del fletador, sobreviniere durante la navegación declaración de guerra ó bloqueo. En tal caso el capitán deberá dirigirse al puerto neutral y seguro más cercano, pidiendo y aguardando órdenes del cargador y los gastos y salarios devengados en la detención, se pagarán como avería común.
-
-Si por disposición del cargador se hiciere la descarga en el puerto de arribada, se devengará por entero el flete de ida.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 753.
 
-Si trascurrido el tiempo necesario, á juicio del juez ó á tribunal, para recibir las órdenes del cargador el capitán continuase careciendo de instrucciones, se depositará el cargamento el cual quedará afecto al pago del flete y gasto de su cargo en la demora, que se satisfarán con el producto de la parte que primero se venda.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO V.
 
@@ -4178,45 +3862,41 @@ De los pasajeros en los viajes por mar.
 
 ###### Art. 754.
 
-El fletador de un buque por entero podrá subrogar el flete en todo ó en parte á los plazos que más le convinieren, sin que el capitán pueda negarse á recibir á bordo la carga entregada por los segundos fletadores, siempre que no se alteren las condiciones del primer fletamento, y que se paguen al fletante la totalidad del precio convenido aun cuando no se embarque toda la carga con la limitación que se establece en el artículo siguiente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 755.
 
-El fletador que no completaré la totalidad de la carga que se obligo á embarcar, pagará el flete de la que deje de cargar, á menos que el capitán no hubiere tomado otra carga para completar el cargamento del buque, en cuyo caso abonará el primer fletador las diferencias si las hubiere.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 756.
 
-Si el fletador embarcare efectos diferentes e los que manifestó al tiempo de contratar el fletamento, sin conocimiento del fletante ó capitán, y por ello sobreviniere perjuicios, por confiscación, embargo, detención ú otras causas, al fletante ó á los cargadores responderá el causante con el importe de su cargamento y además con sus bienes, de la indemnización completa á todos los perjudicados por su culpa.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 757.
 
-Si las mercaderías embarcadas lo fueren con un fin de ilícito comercio y hubiesen sido llevadas á bordo á sabiendas del fletante ó del capitán, éstos mancomunadamente con el dueño de ellas, serán responsables de todos los perjuicios que se originen á los demás cargadores; y aunque se hubiere pactado, no podrán exigir del fletador indemnización alguna por el daño que resulte al buque.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 758.
 
-En caso de arribada para reparar el casco del buque, maquinaria ó aparejos, los cargadores deberán esperar á que el buque se repare, pudiendo descargarlo á su costa si lo estimaren conveniente.
-
-Si en beneficio del cargamento expuesto á deterioro dispusieren los cargadores ó el tribunal, ó el cónsul, ó la autoridad competente en país extranjero, hacer la descarga de las mercaderías, serán de cuenta de aquéllos los gastos de descarga y de carga.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 759.
 
-Si el fletador, sin concurrir alguno de los casos de fuerza mayor expresados en el artículo precedente quisiere descargar sus mercaderías antes de llegar al puerto de su destino, pagará el flete por entero, los gastos de arribada que se hicieren á su instancia y los daños y perjuicios que se causaren á los demás cargadores si los hubiere.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 760.
 
-En los fletamentos á carga general, cualquiera de los cargadores podrá descargar las mercaderías antes de emprender su viaje, pagando medio flete, el gasto de estribar y reestribar, y cualquiera otro perjuicio que por esta causa se origine á los demás cargadores.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 761.
 
-hecha la descarga y puesto el cargamento á disposición del consignatario éste deberá pagar inmediatamente al capitán el flete devengado y los demás gastos de que fuere responsable dicho cargamento.
-
-La capa deberá satisfacerse en la misma proporción y tiempo que los fletes rigiendo en cuanto á ella todas las alteraciones y modificaciones á que éstos estuvieren sujetos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 762.
 
-Los fletadores y cargadores no podrán hacer, para el pago del flete y demás gastos, abandono de las mercaderías averiadas por vicio propio ó caso fortuito. Procederá sin embargo el abandono si el cargamento consistiere en líquidos y se hubieren derramado no quedando en los envases sino una cuarta parte de su contenido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO VI.
 
@@ -4224,67 +3904,25 @@ Del conocimiento.
 
 ###### Art. 763.
 
-A petición del fletador podrá rescindirse el contrato de fletamento:
-
-I. Si antes de cargar el buque abandonaré el fletamento pagando la mitad del flete convenido;
-
-II. Si la cabida del buque no se hallase conforme con la que figura en el certificado de arqueo ó si hubiere error en la designación del pabellón con que navega;
-
-III. Si no se pusiere el buque á disposición del fletador en el plazo y forma convenidos;
-
-IV. Si salido el buque á la mar, arribare al puerto de salida por riesgo de piratas enemigos ó tiempo contrario, y los cargadores convinieren en su descarga;
-
-En el II y III caso, el fletante indemnizará al fletador de los perjuicios que se le irroguen;
-
-En el IV, el fletante tendrá derecho al flete por entero del viaje de ida;
-
-Si el fletamento se hubiere ajustado por meses, pagarán los fletadores el importe libre de una mesada siendo el viaje á un puerto del mismo mar, y dos si fuere á mar distinto;
-
-V. Si para reparaciones urgentes arribase el buque durante el viaje á un puerto y prefirieren los fletadores disponer de las mercaderías;
-
-Cuando la dilación no exceda de treinta días, pagaran los cargadores por entero el flete de ida;
-
-Si la dilación excediere de treinta días, sólo pagarán el flete proporcional á la distancia recorrida por el buque.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 764.
 
-A petición del fletante podrá rescindirse el contrato de fletamento:
-
-I. Si el fletador, cumplido al término de las sobreestadías, no pusiere la carga al costado;
-
-En este caso el fletador deberá satisfacer la mitad del flete pactado, además de las estadías y sobreestadías devengadas;
-
-II. Si el fletante vendiere el buque antes de que el fletador empezado á cargarlo y el comprador lo cargare por su cuenta;
-
-En este caso el vendedor indemnizará al fletador de los perjuicios que se le irroguen;
-
-Si el nuevo propietario del buque no lo cargare por su cuenta, se respetará el contrato de fletamento indemnizando el vendedor al comprador, si aquél no le instruyó del fletamento pendiente al tiempo de concertar la venta.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 765.
 
-El contrato de fletamento se rescindirá y se extinguirán todas las acciones que de él se originan, si antes de hacerse á la mar el buque desde el puerto de salida, ocurriere alguno de los casos siguientes:
-
-I. La declaración de guerra o interdicción del comercio con la potencia á cuyos puertos debía el buque hacer su viaje;
-
-II. El estado de bloqueo del puerto adonde (sic) iba aquél destinado o peste que sobreviniere después del ajuste;
-
-III. La prohibición de recibir en el mimo punto las mercaderías del cargamento del buque;
-
-IV. La detención indefinida por embargo del buque de orden del Gobierno ó por otra causa independiente de la voluntad del naviero;
-
-V. La inhabilitación del buque para navegar, sin culpa del capitán ó naviero.
-
-La descarga se hará por cuenta del fletador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 766.
 
-Si el buque no pudiere hacerse á la mar por cerramiento del puerto de salida ú otra causa pasajera, el fletamento subsistirá sin que ninguna de las parte tenga derecho á reclamar perjuicios. Los alimentos y salarios de la tripulación serán considerados avería común.
-
-Durante la interrupción, el fletador podrá por su cuenta descargar y cargar á su tiempo las mercaderías pagando estadías si demorare la recarga después de haber cesado el motivo de la detención.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 767.
 
-Quedará rescindido parcialmente el contrato de fletamento, salvo pacto en contrario y no tendrá derecho el capitán más que al flete de ida, si por ocurrir durante el viaje la declaración de guerra cerramiento de puertos ó interdicción de relaciones comerciales, arribare el buque al puerto que se hubiere designado para este caso en las instrucciones del fletador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO VII.
 
@@ -4292,61 +3930,57 @@ Del contrato á la gruesa ó préstamo á riesgo marítimo.
 
 ###### Art. 768.
 
-No habiéndose convenido el precio del pasaje, el juez ó el tribunal le fijará sumariamente, previa declaración de peritos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 769.
 
-Si el pasajero no llegare á bordo á la hora prefijada, ó abandonare el buque sin permiso del capitán cuando éste estuviere pronto á salir del puerto, el capitán podrá emprender el viaje y exigir el precio por entero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 770.
 
-El derecho al pasaje, si fuese nominativo no podrá trasmitirse sin la aquiescencia del capitán ó consignatario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 771.
 
-Si antes de emprender el viaje el pasajero muriese, sus herederos no estarán obligados á satisfacer sino la mitad del pasaje convenido.
-
-Si estuvieren comprendidos en el precio convenido los gastos de manutención, el juez ó tribunal, oyendo á los peritos si lo estimaré conveniente, señalará la cantidad que ha de quedar en beneficio del buque.
-
-En el caso de recibirse otro pasajero en lugar del fallecido, no se deberá abono alguno por dichos herederos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 772.
 
-Si antes de emprender el viaje se suspendiese por culpa exclusiva del capitán ó naviero los pasajeros tendrán derecho á la devolución del pasaje y al resarcimiento de daños y perjuicios; pero si la suspensión fuere debida á caso fortuito ó de fuerza mayor, ó á cualquiera otra causa independiente del capitán ó naviero, los pasajeros sólo tendrán derecho á la devolución del pasaje.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 773.
 
-En caso de interrupción del viaje comenzado, los pasajeros sólo estarán obligados á pagar el pasaje en proporción á la distancia recorrida, y sin derecho á resarcimiento de daños y perjuicios si la interrupción fuere debida á caso fortuito ó de fuerza mayor, pero con derecho á indemnización si la interrupción consistiese exclusivamente en el capitán. Si la interrupción procediese de la inhabilitación del buque y el pasajero se conformase con esperar la reparación, no podrá exigírsele ningún aumento de precio del pasaje, pero será de su cuenta la manutención durante la estadía.
-
-En caso de retardo de salida del buque, los pasajeros tienen derecho á permanecer á bordo y á la alimentación por cuenta del buque, á menos que el retardo sea debido á caso fortuito ó de fuerza mayor. Si el retardo excediera de diez días, tendrán derecho los pasajeros que lo soliciten á la devolución del pasaje, y si fuera debido exclusivamente á culpa del capitán ó naviero, podrán además reclamar resarcimiento de daños y perjuicios. El buque exclusivamente destinado al transporte de pasajeros debe conducirlos directamente al puerto ó puertos de su destino, cualquiera que sea el número de pasajeros, haciendo todas las escalas que tenga marcadas en su itinerario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 774.
 
-Rescindido el contrato antes ó después de emprendido el viaje, el capitán tendrá derecho á reclamar lo que hubiere suministrado á los pasajeros.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 775.
 
-En todo lo relativo á la conservación del orden y policía á bordo, los pasajeros se someterán á las disposiciones del capitán, sin distinción alguna.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 776.
 
-La conveniencia ó el interés de los viajeros no obligarán ni facultarán al capitán para recalar ni para entrar en puntos que separen al buque de su derrota, ni para detenerse en los que deba ó tuviese precisión de tocar, más tiempo que el exigido por las atenciones de la navegación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 777.
 
-No habiendo pacto en contrario se supondrá comprendida en el precio del pasaje la manutención de los pasajeros durante el viaje; pero si fuese de cuenta de éstos, el capitán tendrá obligación, en caso de necesidad, de suministrarles los víveres precisos para su sustento por precio razonable.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 778.
 
-El pasajero será reputado cargador en cuanto á los efectos que lleve á bordo, y el capitán no responderá de lo que aquél conserve bajo su inmediata y peculiar custodia, á no ser que el daño provenga de hecho del capitán ó de la tripulación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 779.
 
-El capitán para cobrar el precio del pasaje y gastos de manutención, podrá retener los efectos pertenecientes al pasajero, y en caso de venta de los mismos, gozará de preferencia sobre los demás acreedores, procediéndose en ello como si se tratase del cobro de los fletes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 780.
 
-En caso de muerte de un pasajero durante el viaje, el capitán estará autorizado para tomar respecto del cadáver las disposiciones que exijan las circunstancias y guardará cuidadosamente los papeles y efectos que hallaré á bordo pertenecientes al pasajero, observando cuanto dispone el caso 10 del artículo 686 á propósito de los individuos de la tripulación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO VIII.
 
@@ -4354,85 +3988,59 @@ De los seguros marítimos.
 
 De la forma de este contrato.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
-
 ###### Art. 781.
 
-El capitán y el cargador del buque tendrán obligación de extender el conocimiento, en el cual se expresará:
-
-I. El nombre, matrícula, y porte del buque;
-
-II. El del capitán y su domicilio;
-
-III. El puerto de carga y el de descarga;
-
-IV. El nombre del cargador ;
-
-V. El nombre del consignatario, si el conocimiento fuere nominativo;
-
-VI. La cantidad, calidad, número de los bultos y marcas de las mercaderías;
-
-VII. El flete y la capa contratados.
-
-El conocimiento podrá ser al portador, á la orden ó á nombre de persona determinada, y habrá de firmarse dentro de las veinticuatro horas de recibida la carga á bordo, pudiendo el cargador pedir la descarga á costa del capitán si éste no lo suscribiese, y en todo caso los daños y perjuicios que por ello le sobrevinieren.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 782.
 
-Del conocimiento primordial se sacarán cuatro ejemplares de igual tenor, y los firmarán todos el capitán y el cargador. De éstos, el cargador conservará uno y remitirá otro al consignatario; el capitán tomará dos uno para sí y otro para el naviero.
-
-Podrán extenderse además cuantos conocimientos estimen necesarios los interesados; pero cuando fueren á la orden ó al portador se expresará en todos los ejemplares ya sean de los cuatro primeros ó de los ulteriores, el destino de cada uno consignando si es para el naviero, para el capitán, para el cargador ó para el consignatario. Si el ejemplar destinado á este último se duplicaré abra de expresarse en él esta circunstancia y la de no ser valedero sino en defecto del primero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 783.
 
-Los conocimientos al portador destinados al consignatario serán trasferibles por la entrega material del documento; y en virtud de endoso los extendidos á la orden.
-
-En ambos casos, aquel á quien se trasfiera el conocimiento, adquirirá sobre las mercaderías expresadas en él, todos los derechos y acciones del cedente ó del endosante.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 784.
 
-El conocimiento formalizado con arreglo á las disposiciones de este título, hará fe entre todos los interesados en la carga y entre estos y los aseguradores, quedando á salvo para los últimos la prueba en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 785.
 
-Si no existiere conformidad entre los conocimientos y en ninguno se advirtiere enmienda ó raspadura, harán fe contra el capitán ó el naviero y, en favor del cargador ó el consignatario, los que éstos posean extendidos y firmados por aquel; y en contra del cargador ó consignatario, y en favor del capitán ó naviero, los que estos posean extendidos y firmados por el cargador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 786.
 
-El portador legítimo de un conocimiento que deje de presentárselo al capitán del buque antes de la descarga, obligando á éste por tal omisión á que haga el desembarco y ponga la carga en depósito, responderá de los gastos de almacenaje y demás que por ellos se originen.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 787.
 
-El capitán no puede variar por sí el destino de las mercaderías. Al admitir esta variación á instancia del cargador, deberá recoger antes los conocimientos que hubiere expedido, so pena de responder del cargamento al portador legítimo de éstos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 788.
 
-Si antes de hacer la entrega del cargamento se exigiere al capitán nuevo conocimiento alegando que la no presentación de los anteriores consiste en haberse extraviado ó en alguna otra causa justa, tendrá obligación de darlo, siempre que se le afiance á su satisfacción el valor del cargamento; pero sin variar la consignación, y expresando en él las circunstancia prevenidas en el último párrafo del artículo 782, cuando se trate de los conocimientos á que el mismo se refiere bajo la pena, en otro caso, de responder de dicho cargamento si por su omisión fuese entregado indebidamente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 789.
 
-Si antes de hacerse el buque á la mar falleciere el capitán ó cesaré en su oficio por cualquier accidente, los cargadores tendrán derecho á pedir al nuevo capitán la ratificación de los primeros conocimientos, y éste deberá darla siempre que le sean presentados ó devueltos todos los ejemplares que se hubieran expedido anteriormente, y resulte del reconocimiento de la carga que se haya conforme con los mismos.
-
-Los gastos que se originen del reconocimiento de la carga serán de cuenta del naviero sin perjuicio de repetirlos éste contra el primer capitán, si dejo de serlo por culpa suya. No haciéndose tal reconocimiento, se entenderá que el nuevo capitán acepta la carga como resulte de los conocimientos expedidos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 790.
 
-Los conocimientos producirán acción sumarísima ó de apremio, según los casos, para la entrega del cargamento y el pago de los fletes y gastos que hayan producido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 791.
 
-Si varias personas presentaren conocimientos la portador ó á la orden, endosados á su favor en reclamación de las mismas mercaderías, el capitán preferirá para su entrega á la que presente el ejemplar que hubiere expedido primeramente, salvo el caso de que el posterior lo hubiere sido por justificación del extravío de aquel y aparecieren ambos en manos diferentes.
-
-En este caso, como en el de presentarse sólo segundos ó ulteriores ejemplares que se hubieran expedido sin esa justificación, el capitán acudirá al juez ó tribunal par que verifique el depósito de las mercaderías y se entreguen por su mediación á quien sea procedente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 792.
 
-La entrega del conocimiento producirá la cancelación de todos los recibos provisionales de fecha anterior, dados por el capitán ó sus subalternos en resguardo de las entregas parciales que les hubieren hecho del cargamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 793.
 
-Entregado el cargamento, se devolverán al capitán los conocimientos que firmó, ó al menos el ejemplar bajo el cual se haga la entrega con el recibo de las mercaderías consignadas en el mismo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-La morosidad del consignatario le hará responsable de los perjuicios que la dilación pueda ocasionar al capitán.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO IX.
 
@@ -4440,205 +4048,107 @@ De las cosas que pueden ser aseguradas y su evaluación.
 
 ###### Art. 794.
 
-Se reputará préstamo á la gruesa ó á riesgo marítimo, aquél en que bajo cualquiera condición, dependa el reembolso de la suma prestada y el premio por ella convenido, del feliz arribo á puerto de los efectos sobre que esté hecho, ó del valor que obtengan en caso de siniestro.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 795.
 
-Los contratos á la gruesa podrán celebrarse:
-
-I. Por escritura pública;
-
-II. Por medio de póliza firmada por las partes y el corredor que interviniere;
-
-III. Por documento privado.
-
-De cualquiera de estas maneras que se celebre el contrato se anotará en el certificado de inscripción del buque y se tomará de él razón en el Registro Mercantil, sin cuyo requisitos los créditos de este origen no tendrán, respecto á los demás la preferencia que según su naturaleza les corresponda, aunque la obligación será eficaz entre los contratantes. Los contratos celebrados durante el viaje se regirán por lo dispuesto en el artículo 685 y surtirán efecto respecto terceros desde su otorgamiento si fueren inscritos en el Registro Mercantil del puerto de matrícula del buque antes de trascurrir los ocho días siguientes á su arribo. Si trascurrieran los ocho días sin haberse hecho la inscripción en el Registro Mercantil, los contratos celebrados durante el viaje de un buque no surtirán efecto respecto de terceros sino desde el día y fecha de la inscripción.
-
-Para que las pólizas de los contratos celebrados con arreglo al número II tengan fuerza ejecutiva deberán guardar conformidad con el registro del corredor que intervino en ellos. En los celebrados con arreglo al número III procederá el reconocimiento de la firma.
-
-Los contratos que no consten por escrito no producirán acción en juicio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 796.
 
-En el contrato á la gruesa se deberá expresar:
-
-I. La clase, nombre y matrícula del buque;
-
-II. El nombre, apellido y domicilio del capitán;
-
-III. Los nombres, apellidos y domicilios del que da y del que toma el préstamo;
-
-IV. El capital del préstamo y el premio convenido;
-
-V. El plazo del reembolso;
-
-VI. Los objetos pignorados á su reintegro;
-
-VII. El viaje por el cual se corra el riesgo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 797.
 
-Los contratos podrán extenderse á la orden en cuyo caso serán trasferibles por endoso, y adquirirá el cesionario todos los derechos y correrá todos los riesgos que correspondieran al endosante.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 798.
 
-Podrán hacerse préstamos en efectos y mercaderías, fijándose su valor para determinar el capital del préstamo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 799.
 
-Los préstamos podrán constituirse conjunta ó separadamente:
-
-I. Sobre el casco del buque;
-
-II. Sobre el aparejo;
-
-III. Sobre los pertrechos, víveres y combustibles;
-
-IV. Sobre la máquina, siendo el buque de vapor;
-
-V. Sobre mercaderías cargadas.
-
-Si se constituyesen sobre el casco del buque, se entenderán, además, afectos á la responsabilidad del préstamo el aparejo, pertrechos y demás efectos, víveres, combustible, máquinas de vapor y los fletes ganados en el viaje del préstamo.
-
-Si se hiciere sobre la carga, quedará afecto al reintegro todo cuanto la constituya, y si sobre un objeto particular del buque ó de la carga, sólo afectará la responsabilidad al que concreta y determinadamente se especifique.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 800.
 
-No podrá prestar á la gruesa sobre los salarios de la tripulación ni sobre las ganancias que se esperen.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 801.
 
-Si el prestador probaré que presto mayor cantidad que la del valor del objeto sobre que recae el préstamo á la gruesa, por haber empleado el prestatario medios fraudulentos, el préstamo será válido sólo por la cantidad en que dicho objeto se tase pericialmente.
-
-El capital sobrante se devolverá con el interés legal por todo el tiempo que durare el desembolso.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 802.
 
-Si el importe total del préstamo para cargar el buque no se empleare en la carga el sobrante se devolverá antes de la expedición.
-
-Se procederá de igual manera con los efectos tomados á préstamo sino se hubieren podido cargar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 803.
 
-El préstamo que el capitán tomaré en el punto de residencia de los propietarios del buque sólo afectará á la parte de éste que pertenezca al capitán, si no hubieren dado su autorización expresa ó intervenido en la operación los demás propietarios ó sus apoderados .
-
-Si alguno ó algunos de los propietarios fueren requeridos para que entreguen la cantidad necesaria á la reparación ó aprovisionamiento del buque y no lo hicieren dentro de veinticuatro horas la parte que los negligentes tengan en la propiedad quedará afecta en la debida proporción á la responsabilidad del préstamo.
-
-Fuera de la residencia de los propietarios el capitán podrá tomar préstamos conforme á lo dispuesto en el artículo 6-5(sic).
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 804.
 
-No llegando á ponerse en riesgo los afectas (sic) sobre que se toma dinero, el contrato quedará reducido á un préstamo sencillo, con obligación en el prestatario de devolver capital é intereses al tipo legal sino fuere menor el convenido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 805.
 
-Los préstamos hechos durante el viaje tendrán preferencia sobre los que se hicieron antes de la expedición del buque y se graduarán por el orden inverso al de sus fechas.
-
-Los préstamos para el último viaje tendrán preferencia sobre los préstamos anteriores.
-
-En concurrencia de varios préstamos hechos en el mismo puerto de arribada forzosa y con igual motivo todos se pagarán á prorrata.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 806.
 
-Las acciones correspondientes al prestador se extinguirán con la pérdida absoluta de los efectos sobre que se hizo el préstamo, si procedió de accidente de mar en el tiempo y durante el viaje designados en el contrato y constando la existencia de la carga á bordo; pero no sucederá lo mismo si la pérdida provino de vicio propio de la cosa ó sobrevino por culpa ó malicia del prestatario, ó por baratería del capitán ó si fué causada por daños experimentados en el buque á consecuencia de emplearse en el contrabando ó si procedió de cargar las mercaderías en buque diferente del que se designo en el contrato, salvo si este cambio se hubiera hecho por causa de fuerza mayor. La prueba de la pérdida incumbe al que recibió el préstamo así como también la de la existencia en el buque de los efectos declarados al prestador como objeto de préstamo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 807.
 
-Los prestadores á la gruesa soportarán á prorrata de su interés respectivo las avería comunes que ocurran en las cosas sobre las que se hizo el préstamo. En las averías simples, á falta de convenio expreso de los contratantes, contribuirá también por su interés respectivo el prestador á la gruesa, no perteneciendo á las especies de riesgos exceptuados en el artículo anterior.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 808.
 
-No habiéndose fijado en el contrato el tiempo por el cual el mutuante correrá el riesgo durará en cuanto al buque, máquinas, aparejo y pertrechos, desde el momento de hacerse éste á la mar hasta el de fondear en el puerto de su destino; y en cuanto á las mercaderías, desde que se carguen el la playa ó muelle del puerto de la expedición hasta descargarlas en el de consignación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 809.
 
-En caso de naufragio la cantidad afecta á la devolución del préstamo se reducirá al producto de los efectos salvados, deducidos los gastos de salvamento.
-
-Si el préstamo fuese sobre el buque ó alguna de sus partes, los fletes realizados en el viaje para que aquél se haya hecho, responderán también á su pago en cuanto alcancen para ello.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 810.
 
-Si en un mismo buque ó carga concurrieren préstamo á la gruesa y seguro marítimo, el valor de lo que fuere salvado se dividirá, en caso de naufragio, entre el mutuante y el asegurador, en proporción del interés legítimo de cada uno, tomando en cuanta para esto únicamente el capital por lo tocante al préstamo, y sin perjuicio del derecho preferente de otros acreedores, con arreglo al artículo 646.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 811.
 
-Si en el reintegro del préstamo hubiere demora por el capital y sus premios, sólo el primero devengará rédito legal.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO X.
 
 Obligaciones entre el asegurador y asegurado.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
-
 ###### Art. 812.
 
-El contrato de Seguro Marítimo, debe constar por escrito.
-
-La empresa aseguradora tiene la obligación de expedir, como constancia para el asegurado, el documento llamado póliza, que contendrá los derechos y obligaciones de ambos contratantes.
-
-Las partes impresas de la documentación en que conste el contrato, no harán prueba contra el asegurado, si los caracteres de la impresión no son fácilmente legibles.
-
-El contrato no podrá sujetarse a la condición suspensiva del pago de la primera prima o de la entrega de la póliza.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 813.
 
-La póliza del contrato de seguro contendrá, además de las condiciones que libremente consignen los interesados, los requisitos siguientes:
-
-I. Fecha del contrato con la expresión de la hora en que queda convenido;
-
-II. Nombres, apellidos y domicilios del asegurador y asegurado;
-
-III. Concepto en que contrata el asegurado, expresando si obra por sí ó por cuenta de otro;
-
-En este caso, el nombre, apellido y domicilio de la persona en cuyo nombre hace el seguro;
-
-IV. Nombre, puerto, pabellón y matrícula del buque asegurado ó del que conduzca los efectos asegurados;
-
-V. Nombre, apellido y domicilio del capitán;
-
-VI. Puerto ó rada en que han sido ó deberán ser cargadas las mercaderías aseguradas;
-
-VII. Puerto de donde el buque á partido ó debe partir;
-
-VIII. Puertos ó radas en que el buque debe cargar, descargar ó hacer escalas por cualquier motivo;
-
-IX. Naturaleza y calidad de los objetos asegurados;
-
-X. Número de los fardos ó bultos de cualquier clase y sus marcas si las tuvieren;
-
-XI. Epoca en que deberá comenzar y terminar el riesgo;
-
-XII. Cantidad asegurada;
-
-XIII. Precio convenido por el seguro, y el lugar, tiempo y forma de su pago;
-
-XIV. Parte del premio que corresponda al viaje de ida y al de vuelta, si el seguro fuere á viaje redondo;
-
-XV. Obligación del asegurador de pagar el daño que sobrevenga á los efectos asegurados;
-
-XVI. El lugar; plazo y forma en que habrá de realizarse el pago.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 814.
 
-Los contratos y pólizas de seguro que autoricen los agentes consulares en el extranjero siendo mexicanos los contratantes ó alguno de ellos tendrán igual valor legal que si se hubieren verificado con intervención de corredor.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 815.
 
-En un mismo contrato y en una misma póliza, podrán comprenderse el seguro del buque y el de la carga señalando el valor de cada cosa y distinguiendo las cantidades aseguradas sobre cada uno de los objetos, sin cuya expresión será ineficaz el seguro.
-
-Se podrá también, en la póliza, fijar premios diferentes á cada objeto asegurado.
-
-Varios aseguradores podrán suscribir una misma póliza.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 816.
 
-En los seguros de mercaderías podrá omitirse la designación específica de ellas y del buque que haya de transportarlas, cuando no consten estas circunstancias al asegurado.
-
-Si el buque en estos casos sufriere accidente de mar, estará obligado el asegurado á probar, además de la pérdida del buque, su salida del puerto de carga, el embarque por su cuenta de los efectos perdidos y su valor, para reclamar la indemnización.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 817.
 
-Las pólizas del seguro podrán extenderse á la orden del asegurado, en cuyo caso serán endosables.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO XI.
 
@@ -4646,87 +4156,53 @@ De los casos en que se anula, rescinde ó modifica el contrato de seguro.
 
 ###### Art. 818.
 
-Podrán ser objeto del seguro marítimo:
-
-I. El casco del buque en lastre ó cargado, en puerto ó en viaje;
-
-II. El aparejo;
-
-III. La máquina, siendo el buque de vapor;
-
-IV. Todos los pertrechos y objetos que constituyen el armamento;
-
-V. Víveres y combustible;
-
-VI. Las cantidades dadas á la gruesa;
-
-VII. El importe de los fletes y el beneficio probable;
-
-VIII. Todos los objetos comerciales sujetos al riesgo de navegación cuyo valor pueda fijarse en cantidad determinada.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 819.
 
-Podrán asegurarse todos ó parte de los objetos expresados en el artículo anterior, junta ó separadamente, en tiempo de paz ó de guerra por viaje ó á término, por viaje sencillo ó redondo, sobre buenas ó malas noticias.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 820.
 
-Si se expresare genéricamente en la póliza que el seguro se hacía sobre el buque se entenderán comprendidos en las máquinas, aparejo, pertrechos y cuanto esté adscrito al buque; pero no su cargamento, aunque pertenezca al mismo naviero.
-
-En el seguro genérico de mercaderías no se reputarán comprendidos los metales amonedados ó en lingotes, las piedras preciosas ni las municiones de guerra.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 821.
 
-El seguro sobre flete podrá hacerse por el cargador, por el fletante ó el capitán; pero éstos no podrán asegurar el anticipo que hubieren recibido á cuneta de su flete, sino cuando hayan pactado expresamente que en caso de no devengarse aquél por naufragio ó pérdida de la carga, devolverán la cantidad recibida.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 822.
 
-En el seguro de flete se habrá de expresar la suma á que asciende la cual no podrá exceder de lo que aparezca en el contrato de fletamento.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 823.
 
-La empresa aseguradora responderá solamente por el daño causado, hasta el límite de la suma y del valor real asegurados. Cuando en el contrato se inserte una expresa declaración de que las mercancías aseguradas han sido valuadas por mutuo acuerdo entre las partes, se estará a éste para la evaluación del daño y su resarcimiento.
-
-No obstante el acuerdo, la evaluación puede ser impugnada, no sólo por las causales generales de nulidad de las obligaciones, sino también por exageración manifiesta sobre el precio corriente de las mercancías en el lugar de destino.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 824.
 
-Podrá el asegurador hacer reasegurar por otros los efectos por él asegurados, en todo ó en parte, con el mismo ó diferente premio; así como el asegurado podrá también asegurar el coste del seguro y el riesgo que pueda correr en la cobranza del primer asegurador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 825.
 
-Si el capitán contratare el seguro ó el dueño de las cosas aseguradas fuere en el mismo buque que los porteare, se dejara siempre un 10 por 100 á su riesgo y no habiendo pacto expreso en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 826.
 
-En el seguro del buque se entenderá que sólo cubre el seguro las cuatro quintas partes de su importe ó valor, y que el asegurado corre el riesgo por la quinta parte restante á no hacerse constar expresamente en la póliza pacto en contrario.
-
-En este caso y en el del artículo anterior, habrá de descontarse del seguro el importe de los préstamos tomados á la gruesa.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 827.
 
-La suscrición (sic) de la póliza creará una presunción legal de que los aseguradores admitieron como exacta la valuación hecha en ella de los efectos asegurados salvo los casos de fraude ó malicia.
-
-Si apareciere exagerada la evolución se procederá según las circunstancias del caso, á saber:
-
-Si la exageración hubiere procedido de error y no de malicia imputable al asegurado, se reducirá el seguro á su verdadero valor, fijado por las partes de común acuerdo ó por juicio pericial. El asegurador devolverá el exceso de prima recibida, reteniendo, sin embargo, ½ por 100 de este exceso.
-
-Si la exageración fuere por fraude del asegurado y el asegurador lo probare, el seguro será nulo para el asegurado, y el asegurador ganará la prima, sin perjuicio de la acción criminal que le corresponda.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 828.
 
-La reducción del valor de la moneda nacional, cuando se hubiere fijado en extranjera, se hará al curso corriente en el lugar y en el día en que se firmó la póliza.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 829.
 
-Si al tiempo de realizarse el contrato no se hubiere fijado con especificación el valor de las cosas aseguradas, se determinará éste:
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-I. Por las facturas de consignación;
-
-II. Por declaración de corredor ó peritos, que procederán tomando por base de su juicio el precio de los efectos en el puerto de salida, con más los gastos de embarque, flete y aduanas.
-
-Si el seguro recayere sobre mercaderías de retorno de un país en que el comercio se hiciere sólo por permuta, se arreglará el valor por el que tuvieren los efectos permutados en el puerto de salida con todos los gastos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO XII.
 
@@ -4734,179 +4210,109 @@ Del abandono de las cosas aseguradas.
 
 ###### Art. 830.
 
-Salvo pacto en contrario, los aseguradores indemnizarán los daños y perjuicios que las cosas aseguradas experimenten por alguna de las causas siguientes:
-
-I. Varada o empeño del buque, con rotura o sin ella;
-
-II. Temporal;
-
-III. Naufragio;
-
-IV. Colisión del barco;
-
-V. Cambio de derrota durante el viaje o de buque;
-
-VI. Echazón;
-
-VII. Fuego o explotación, si aconteciera en mercaderías, tanto a bordo, como si estuviesen depositadas en tierra; siempre que se hayan alijado por orden de la autoridad competente, para reparar o beneficiar el cargamento, o fuego por combustión espontánea en las carboneras de los buques de vapor, o en los depósitos de combustibles o en el motor, cuando éste sea de combustión interna.
-
-VIII. Baratería del Capitán o tripulación;
-
-IX. Avería gruesa o general;
-
-X. Cualesquiera otros accidentes o riesgos de mar.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 1946)</small>
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 831.
 
-Salvo pacto expreso en contrario, los aseguradores no responderán de los daños y perjuicios que sobrevengan a las cosas aseguradas, por cualquiera de las causas siguientes, aunque no se hayan excluído en la póliza:
-
-I. Cambio voluntario de derrotero de viaje, o de buque, sin expreso consentimiento de los aseguradores;
-
-II. Separación espontánea de un convoy, cuando se hubiere estipulado que iría en conserva con él;
-
-III. Prolongación de viaje a un puerto más remoto que el designado en el seguro;
-
-IV. Disposiciones arbitrarias y contrarias a la póliza de fletamiento y al conocimiento, tomadas por orden del fletante, cargadores y fletadores;
-
-V. Riesgos de guerra;
-
-VI. Merma, derramas y dispendios procedentes de la naturaleza de las cosas aseguradas.
-
-En cualquiera de estos casos, los aseguradores harán suyo el premio, siempre que hubiere empezado a correr el riesgo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 832.
 
-En los seguros de carga contratados por viaje redondo, si el asegurado no encontrare cargamento para el retorno ó solamente encontrare menos de las dos terceras partes, se rebajará el premio de vuelta proporcionalmente al cargamento que trajere abandonándose además, al asegurador, ½ por 100 de la parte que dejare de conducir.
-
-No procederá, sin embargo, rebaja alguna en el caso de que el cargamento se hubiere perdido en la ida, salvo pacto especial que modifique la disposición de este artículo.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 833.
 
-Si el cargamento fuere asegurado por varios aseguradores en distintas cantidades, pero sin designar señaladamente los objetos del seguro, se pagará la indemnización, en caso de pérdida ó avería, por todos los aseguradores, á prorrata, de la cantidad asegurada por cada uno.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 834.
 
-Si fueren designados diferentes buques para cargar las cosas aseguradas, pero sin expresar la cantidad que ha de embarcarse en cada buque, podrá el asegurado distribuir el cargamento como mejor le convenga, ó conducirlo á bordo de uno sólo, sin que por ello se anule la responsabilidad del asegurador. Mas si hubiere hecho expresa mención de la cantidad asegurada sobre cada buque y el cargamento se pusiere á bordo en cantidades diferente de aquellas que se hubieren señalado para cada uno, el asegurador no tendrá más responsabilidad que la que hubiere contratado en cada buque. Sin embargo, cobrará ½ por 100 del exceso que hubiere cargado en ellos sobre la cantidad contratada.
-
-Si quedare algún buque sin cargamento, se entenderá anulado el seguro en cuanto á él, mediante el abono antes expresado de ½ por 100 sobre el excedente embarcado en los demás.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 835.
 
-Si por inhabilitación del buque, antes de salir del puerto la carga se trasbordase á otro, tendrán los aseguradores opción entre continuar ó no el contrato abonando las averías que hubieren ocurrido; pero si la inhabilitación sobreviniere después de empezado el viaje correrán los aseguradores el riesgo, aun cuando el buque fuere de diferente porte y pabellón que el designado en la póliza.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 836.
 
-Si no se hubiere fijado en la póliza el tiempo durante el cual hayan de correr los riesgos por cuenta del asegurador se observará lo prescrito en el artículo 808 sobre los préstamos á la gruesa.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 837.
 
-En los seguros á término fijo, la responsabilidad del asegurador cesará en la hora en que cumpla el plazo estipulado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 838.
 
-Si por conveniencia del asegurado las mercaderías se descargaren en un puerto más próximo que el designado para rendir el viaje, el asegurador hará suyo, sin rebaja alguna, el premio contratado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 839.
 
-Se entenderán comprendidas en el seguro, si expresamente no se hubieren excluído en la póliza, las escalas que por necesidad se hicieren para la conservación del buque ó de su cargamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 840.
 
-El asegurado comunicará al asegurador por el primer correo siguiente al en que él las recibiere y por telégrafo, si lo hubiere las noticias referentes al curso de la navegación del buque asegurado, y los daños ó pérdidas que sufrieren las cosas aseguradas, y responderá de los daños y perjuicios que por su omisión se ocasionaren.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 841.
 
-Si se perdieren mercaderías aseguradas por cuenta del capitán que mandare el buque en que estaban embarcadas, habrá aquél de justificar á los aseguradores la compra por medio de las facturas de los vendedores; y el embarque y conducción en el buque por certificación del cónsul mexicano ó autoridad competente, donde no lo hubiere, del puerto donde las cargo y por los demás documentos de habilitación y expedición de la aduana.
-
-La misma obligación tendrán todos los asegurados que naveguen con sus propias mercaderías salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 842.
 
-Si se hubiere estipulado en la póliza aumento de premio en caso de sobrevenir guerra y no se hubiere fijado el tanto del aumento, se regulará éste, á falta de conformidad entre los mismos interesados, por peritos nombrados en la forma que establece la ley civil, teniendo en consideración las circunstancias del seguro y los riesgos corridos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 843.
 
-La restitución gratuita del buque ó su cargamento al capitán por los apresadores, cederá en beneficio de los propietarios respectivos sin obligación de parte de los aseguradores de pagar las cantidades que aseguraron.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 844.
 
-Toda reclamación procedente del contrato de seguro habrá de ir acompañada de los documentos que justifiquen:
-
-I. El viaje del buque con la protesta del capitán ó copia certificada del libro de navegación;
-
-II. El embarque de los objetos asegurados, con el conocimiento y documentos de expedición de aduanas;
-
-III. El contrato del seguro, con la póliza;
-
-IV. La pérdida de las cosas aseguradas, con los mismos documentos del número 1 y declaración de la tripulación, si fuere preciso.
-
-Además, se fijará el descuento de los objetos asegurados, previo el reconocimiento de peritos.
-
-Los aseguradores podrán contradecir la reclamación y se les admitirá sobre ello prueba en juicio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 845.
 
-Presentados los documentos justificativos, el asegurador deberá, hallándolos conformes y justificada la pérdida, pagar la indemnización al asegurado dentro del plazo estipulado en la póliza y en su defecto á los diez días de la reclamación.
-
-Mas si el asegurador las rechazare y contradijere judicialmente, podrá depositar la cantidad que resultare de los justificantes, ó entregarla al asegurado mediante fianza suficiente, decidiéndolo lo uno ó lo otro el juez competente según los casos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 846.
 
-Si el buque asegurado sufriere daño por accidente de mar el asegurador pagará únicamente las dos terceras partes de los gastos de reparación, hágase ó no. En el primer caso el importe de los gastos se justificará por los medios reconocidos en el derecho; en el segundo se apreciará por peritos.
-
-Sólo el naviero ó el capitán autorizado para ello, podrán optar por la no reparación del buque.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 847.
 
-Si por consecuencia de la reparación el valor del buque aumentare en más de una tercera parte del que se le hubiere dado en el seguro, el asegurador pagará los dos tercios del importe de la reparación descontando el mayor valor que ésta hubiese dado al buque. Mas si el asegurado probase que el mayor valor del buque no procedía de la reparación, sino de ser el buque nuevo y haber ocurrido la avería en el primer viaje, ó que lo eran las máquinas ó aparejo y pertrechos destrozados, no se hará la deducción del aumento de valor y el asegurador pagará los dos tercios de la reparación conforme á la regla VI del art. 929.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 848.
 
-Si las reparaciones excedieren de las tres cuartas partes del valor del buque, se entenderá que está inhabilitado para navegar, y procederá el abandono y no haciendo esta declaración, abonarán los aseguradores el importe del seguro deducido el valor del buque averiado ó sus restos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 849.
 
-Cuando se trate de indemnizaciones procedentes de avería gruesa terminadas las operaciones de arreglo, liquidación y pago de la misma, el asegurado entregará al asegurador todas las cuentas y documentos justificativos en reclamación de la indemnización de las cantidades que le hubieren correspondido. El asegurador examinará á su vez la liquidación, y hallándola conforme á las condiciones de la póliza, estará obligado á pagar al asegurado la cantidad correspondiente dentro del plazo convenido, ó en su defecto, en el de ocho días.
-
-Desde esta fecha comenzará á devengar interés la suma debida.
-
-Si el asegurador no encontrase la liquidación conforme con lo convenido en la póliza, podrá reclamar ante el juez competente en el mismo plazo de ocho días, constituyendo en depósito la cantidad reclamada.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 850.
 
-En ningún caso podrá exigirse al asegurador una suma mayor que la del importe total del seguro, sea que el buque salvado, después de una arribada forzosa para la reparación de avería, se pierda, sea que la parte que haya de pagarse por la avería gruesa importe más que el seguro, ó que el costo de diferentes averías y reparaciones en un mismo viaje ó dentro del plazo del seguro, excedan de la suma asegurada.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 851.
 
-En los casos de avería simple respecto á las mercaderías aseguradas, se observarán las reglas siguientes:
-
-I. Todo lo que hubiere desaparecido por robo, pérdida, venta de viaje, por causa de deterioro, ó por cualquiera de los accidentes marítimos comprendidos en el contrato del seguro, será justificado con arreglo al valor de factura, ó en su defecto, por el que se le hubiere dado en el seguro, y el asegurador pagará su importe;
-
-II. En el caso de que, llegado el buque á buen puerto, resulten averiadas las mercaderías en todo ó en parte, los peritos harán constar el valor que tendrían si hubieren llegado en estado sano y el que tengan en su estado de deterioro.
-
-La diferencia entre ambos valores líquidos, hecho además el descuento de los derechos de aduanas, fletes y cualesquiera otros análogos, constituirá el valor ó importe de la avería, sumándole los gastos causados por los peritos, y otros, si los hubiere.
-
-Habiendo recaído la avería sobre todo el cargamento asegurado, el asegurador pagará en su totalidad el demérito que resulte; mas si sólo alcanzare á una parte, el asegurado será reintegrado en la proporción correspondiente.
-
-Si hubiere sido objeto de un seguro especial el beneficio probable del cargador, se liquidará separadamente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 852.
 
-Fijada por los peritos la avería simple del buque, el asegurado justificará su derecho con arreglo á lo dispuesto en el final del art. 647 en relación con el núm. 9°. del 646, y el asegurador pagará en conformidad á lo dispuesto en los arts. 933 y 934.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 853.
 
-El asegurador no podrá obligar al asegurado á que venda el objeto del seguro para fijar su valor.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 854.
 
-Si la valuación de las cosas aseguradas hubiere de hacerse en país extranjero, se observarán las leyes, usos y costumbres del lugar en que haya de realizarse, sin perjuicio de someterse á las prescripciones de este Código para la comprobación de los hechos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 855.
 
-Pagada por el asegurador la cantidad asegurada, se subrogará en el lugar del asegurado para todos los derechos y acciones que correspondan contra los que por malicia ó culpa causaron la pérdida de los efectos asegurados.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO I.
 
@@ -4914,67 +4320,37 @@ De las averías.
 
 ###### Art. 856.
 
-Será nulo el contrato de seguro que recayere:
-
-I. Sobre los buques ó mercaderías afectos anteriormente á un préstamo á la gruesa por todo su valor;
-
-Si el préstamo á la gruesa no fuere por el valor entero del buque ó de las mercaderías, podrá subsistir el seguro en la parte que exceda al importe del préstamo;
-
-II. Sobre la vida de tripulantes y pasajeros;
-
-III. Sobre los sueldos de la tripulación;
-
-IV. Sobre géneros de ilícito comercio en el país del pabellón del buque;
-
-V. Sobre buque dedicado habitualmente al contrabando, ocurriendo el daño ó pérdida por haberlo hecho, en cuyo caso se abonará al asegurador el medio por ciento de la cantidad asegurada;
-
-VI. Sobre un buque que, sin mediar fuerza mayor que lo impida, no se hiciere á la mar en los seis meses siguientes á la fecha de la póliza; en cuyo caso además de la anulación, procederá el abono de medio porciento al asegurador de la suma asegurada;
-
-VII. Sobre buque que deje de emprender el viaje contratado, ó se dirija á un punto distinto del estipulado, en cuyo caso procederá también el abono al asegurador del medio por ciento de la cantidad asegurada;
-
-VIII. Sobre cosas en cuya valorización se hubiere cometido falsedad á sabiendas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 857.
 
-Si se hubieren realizado sin fraude diferentes contratos de seguro sobre un mismo objeto subsistirá únicamente el primero, con tal que cubra todo su valor.
-
-Los aseguradores de fecha posterior que darán libres de responsabilidad y percibirán un medio por ciento de la cantidad asegurada.
-
-No cubriendo el primer contrato el valor íntegro del objeto asegurado, recaerá la responsabilidad del exceso sobre los aseguradores que contrataron con posterioridad, siguiendo el orden de fechas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 858.
 
-El asegurado no sea libertará de pagar los premios íntegros á los diferentes aseguradores, sino hiciere saber á los postergados la rescisión de sus contratos antes de haber llegado el objeto asegurado al puerto de destino.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 859.
 
-El seguro hecho con posterioridad á la pérdida, avería ó feliz arribo del objeto asegurado, al puerto de destino, será nulo siempre que pueda presumirse racionalmente que la noticia de lo uno ó de la otro (sic) había llegado á conocimiento de alguno de los contratantes.
-
-Existirá esta presunción cuando se hubiere publicado la noticia en una plaza, mediando el tiempo necesario para comunicarlo por el correo ó el telégrafo al lugar donde se contrato el seguro, sin perjuicio de las demás pruebas que puedan practicar las partes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 860.
 
-El contrato de seguro sobre buenas ó malas noticias, no se anulará sino se prueba el conocimiento del suceso esperado ó temido por alguno de los contratantes, al tiempo de verificarse el contrato.
-
-En caso de probarlo, abonará el defraudador á su coobligado una quinta parte de la cantidad asegurada, sin perjuicio de la responsabilidad criminal á que hubiere lugar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 861.
 
-Si el que hiciere el seguro, sabiendo la pérdida total ó parcial de las cosas aseguradas, obrare por cuenta ajena, será personalmente responsable del hecho como si hubiera obrado por cuenta propia; y si por el contrario, el comisionado estuviere inocente del fraude cometido por el propietario asegurado, recaerán sobre éste todas las responsabilidades, quedando siempre á su cargo pagar á los aseguradores el premio convenido.
-
-Igual disposición regirá respecto al asegurador cuando contratare el seguro por medio de comisionado y supiere el salvamento de las cosas aseguradas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 862.
 
-Si pendiente el riesgo de las cosas aseguradas, fueren declarados en quiebra el asegurador ó el asegurado, tendrán ambos derecho á exigir fianza, éste para cubrir la responsabilidad del riesgo, y aquél para obtener el pago del premio; y si los representantes de la quiebra se negaren á prestarla dentro de los tres días siguientes al requerimiento, se rescindirá el contrato.
-
-En caso de ocurrir el siniestro dentro de los dichos tres días sin haber prestado la fianza, no habrá derecho á la indemnización ni al premio del seguro.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 863.
 
-Si contratado un seguro fraudulentamente por varios aseguradores, alguno ó algunos hubieren procedido de buena fe, tendrán éstos derecho á obtener el premio íntegro de su seguro de los que hubieren procedido con malicia, quedando el asegurado libre de toda responsabilidad.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-De igual manera se procederá respecto á los asegurados con los aseguradores, cuando fueren algunos de aquellos los autores del seguro fraudulento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO II.
 
@@ -4982,105 +4358,79 @@ De las arribadas forzosas.
 
 ###### Art. 864.
 
-Podrá el asegurado abandonar por cuenta del asegurador las cosas aseguradas, exigiendo del asegurador el importe de la cantidad estipulada en la póliza:
-
-I. En el caso de naufragio;
-
-II. En el de inhabilitación del buque para navegar, por varada, rotura ó cualquier otro accidente de mar;
-
-III. En el de apresamiento, embargo ó detención por orden del Gobierno nacional ó extranjero;
-
-IV. En el de pérdida total de las cosas aseguradas, entendiéndose por tal la que disminuya en tres cuartas partes el valor asegurado.
-
-Los demás daños se reputarán averías y se soportarán por quien corresponda, según las condiciones del seguro y las disposiciones de este Código.
-
-No procederá el abandono en ninguno de los dos primeros casos, si el buque náufrago, varado ó inhabilitado pudiera desencallarse, ponerse á flote y repararse para continuar el viaje al puerto de su destino, á no ser que el costo de la reparación excediese de las tres cuartas partes del valor en que estuviere el buque asegurado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 865.
 
-Verificándose la rehabilitación del buque, sólo responderán los aseguradores de los gastos ocasionados por la encalladura ú otro daño que el buque hubiere recibido.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 866.
 
-En los casos de naufragio y apresamiento, el asegurado tendrá la obligación de hacer por sí las diligencias que aconsejen las circunstancias para salvar ó recobrar los efectos perdidos, sin perjuicio del abandono quo (sic) le competa hacer á su tiempo; y el asegurador habrá de reintegrarle de los gastos legítimos que para el salvamento hiciese hasta la concurrencia del valor de los efectos salvados, sobre los cuales se harán efectivos en defecto de pago.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 867.
 
-Si el buque quedare absolutamente inhabilitado para navegar, el asegurado tendrá obligación de dar de ello aviso al asegurador, telegráficamente siendo posible, y si no, por el primer correo siguiente al recibo de la noticia.
-
-Los interesados en la carga que se hallaren presentes, ó en su ausencia el capitán , practicarán todas las diligencias posibles para conducir el cargamento al puerto de su destino con arreglo á lo dispuesto en este Código, en cuyo caso correrán por cuenta del asegurador los riesgos y gastos de descarga, almacenaje, reembarque ó trasbordo, excedente de flete y todos los demás, hasta que se alijen los efectos asegurados en el punto designado en la póliza.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 868.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, el asegurador gozará del término de seis meses para conducir las mercancías á su destino, cuyo plazo se comenzará á contar desde el día en que el asegurado le hubiere dado aviso del siniestro.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 869.
 
-Si á pesar de las diligencias practicadas por los interesados en la carga, capitán y aseguradores, para conducir las mercaderías al puerto de su destino, conforme á lo prevenido en los artículos anteriores, no se encontrare buque en que verificar el transporte, podrá el asegurado propietario hacer abandono de las mismas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 870.
 
-En caso de interrupción del viaje por embargo ó detención forzada del buque, tendrá el asegurado obligación de comunicarla á los aseguradores tan luego como llegue á su noticia, y no podrá usar de la acción de abandono hasta que haya trascurrido el plazo fijado en el artículo 868. Estará obligado, además, á prestar á los aseguradores cuantos auxilios estén en su mano para conseguir el alzamiento del embargo, y deberá hacer por sí mismo las gestiones convenientes al propio fin, si por hallarse los aseguradores en país remoto, no pudiere obrar de acuerdo con éstos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 871.
 
-Se entenderá comprendido en el abandono del buque el flete de las mercaderías que se salven, aun cuando se hubiere pagado anticipadamente considerándose pertenencia de los aseguradores á reserva de los derechos que competan á los demás acreedores conforme á lo dispuesto en el artículo 646.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 872.
 
-Se tendrá por recibida la noticia para la prescripción del plazo establecido en el artículo 868 desde que se haga pública, bien por medio de los periódicos, bien por correr como cierta entre los comerciantes de la residencia del asegurado, ó bien porque pueda probarse á este que recibió aviso del siniestro por carta ó telegrama del capitán, del consignatario ó de algún corresponsal.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 873.
 
-Tendrá también el asegurado el derecho de hacer abandono después de haber transcurrido un año en los viajes ordinarios y dos en los largos sin recibir noticia del buque.
-
-En tal caso podrá reclamar del asegurador la indemnización por el valor de la cantidad asegurada sin estar obligado á justificar la pérdida; pero deberá probar la falta de noticias con certificación del cónsul ó autoridad marítima del puerto de donde salió, y otra de los cónsules ó autoridades marítimas de los del destino del buque y de su matrícula que acrediten no haber llegado á ellos durante el plazo fijado.
-
-Para usar de esta acción tendrá el término de un año.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 874.
 
-Si el seguro hubiere sido contratado á término limitado existirá presunción legal de que la pérdida ocurrió dentro del plazo convenido, salvo la prueba que podrá hacer el asegurador de que la pérdida sobrevino después de haber terminado su responsabilidad.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 875.
 
-El asegurado, al tiempo de hacer el abandono, deberá declarar todos los seguros contratados sobre los efectos abandonados, así como los préstamos tomados á la gruesa sobre los mismos, y hasta que haya hecho esta declaración no empezará á correr el plazo en que deberá ser reintegrado del valor de los efectos. Si cometiere fraude en esta declaración, perderá todos los derechos que le competan por el seguro, sin dejar de responder por los préstamos que hubiere tomado sobre los efectos asegurados, no obstante su pérdida.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 876.
 
-En caso de apresamiento del buque y no teniendo tiempo el asegurado de proceder de acuerdo con el asegurador ni de esperar instrucciones suyas podrá por sí, ó el capitán en su defecto, proceder al rescate de las cosas aseguradas poniéndolo en conocimiento del asegurador en la primera ocasión.
-
-Éste podrá aceptar ó no el convenio celebrado por el asegurado ó el capitán, comunicando, su resolución dentro de las veinticuatro horas siguientes á la notificación del convenio.
-
-Si lo aceptase entregará en el acto la cantidad concertada por el rescate, y quedará de su cuenta los riesgos ulteriores del viaje, conforme á las condiciones de la póliza. Si no lo aceptase, pagará la cantidad asegurada perdiendo todo derecho á los efectos rescatados; y si dentro del término prefijado no manifestare su resolución, se entenderá que rechaza el convenio.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 877.
 
-Si por haberse represado el buque se reintegrara el asegurado en la posición de sus efectos, se reputarán avería todos los gastos y perjuicios causados por la pérdida, siendo de cuenta del asegurador el reintegro; y si por consecuencia de la represa pasaren los efectos asegurados á la posesión de un tercero, el asegurado podrá usar el derecho de abandono.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 878.
 
-Admitido el abandono ó declarado admisible en juicio, la propiedad de las cosas abandonadas, con las mejoras ó desperfectos que en ellas sobrevengan desde el momento del abandono, se trasmitirá al asegurador, sin que le exonere del pago de la reparación del buque legalmente abandonado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 879.
 
-No será admisible el abandono:
-
-I. Si las pérdidas hubieren ocurrido antes de empezar el viaje;
-
-II. Si se hiciere de una manera parcial ó condicional sin comprender en él todos los objetos asegurados;
-
-III. Si no se pusiere en conocimiento de los aseguradores el propósito de hacerlo dentro de los cuatro meses siguientes al día en que el asegurado haya recibido la noticia de la pérdida acaecida, y si no se formalizará el abandono dentro de un año, contado de igual manera;
-
-IV. Si no se hiciere por el mismo propietario ó persona especialmente autorizada por el ó por el comisionado para contratar el seguro.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 880.
 
-En caso de abandono, el asegurador deberá pagar el importe del seguro en el plazo fijado en la póliza, y no habiéndose expresado término en ella, á los sesenta días de admitido el abandono ó de haberse hecho la declaración del art. 878.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-## TITULO QUINTO.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
+## TITULO CUARTO.
+
+DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO III.
 
@@ -5088,121 +4438,57 @@ De los abordajes.
 
 ###### Art. 881.
 
-Para los efectos del Código, serán averías:
-
-I. Todo gasto extraordinario ó eventual que para conservar el buque, el cargamento ó ambas cosas ocurriere durante la navegación;
-
-II. Todo daño ó desperfecto que sufriere el buque desde que se hiciere á la mar en el puerto de salida hasta dar fondo y anclar en el de su destino, y los que sufran las mercaderías desde que se cargaren en el puerto de expedición hasta descargarlas en el de su consignación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 882.
 
-Los gastos menudos y ordinarios propios de la navegación, como los de pilotaje de costas y puertos, los de lanchas y remolques, anclaje, visita, sanidad, cuarentenas, lazareto y demás llamados de puerto, los fletes de gabarras y descarga hasta poner las mercaderías en el muelle, y cualquier otro común á la navegación, se considerarán gastos ordinarios á cuenta del fletante, á no mediar pacto expreso en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 883.
 
-Las averías serán:
-
-I. Simples ó particulares;
-
-II. Gruesas ó comunes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 884.
 
-Serán averías simples ó particulares por regla general todos los gastos y perjuicios causados en el buque ó en su cargamento, que no hayan redundado en beneficio y utilidad común de todos los interesados en el buque y su carga, y especialmente las siguientes:
-
-I. Los daños que sobrevinieren al cargamento desde su embarque hasta su descarga, así por vicio propio de la cosa como por accidente de mar ó por fuerza mayor, y los gastos hechos para evitarlos y repararlos;
-
-II. Los daños y gastos que sobrevinieren al buque en su casco, aparejos, armas y pertrechos por las mismas causas y motivos desde que se hizo á la mar en el puerto de salida hasta que ancló y fondeó en el de su destino;
-
-III. Los daños sufridos por las mercaderías cargadas sobre cubierta, excepto en la navegación de cabotaje si las ordenanzas marítimas lo permiten;
-
-IV. Los sueldos y alimentos de la tripulación cuando el buque fuere detenido ó embargado por orden legítima ó fuerza mayor, si el fletamento estuviere contratado por un tanto el viaje;
-
-V. Los gastos necesarios de arribada á un puerto para repararse o aprovisionarse;
-
-VI. El menor valor de los géneros vendidos por el capitán en arribada forzosa, para pago de alimentos y salvar á la tripulación ó para cubrir cualquiera otra necesidad del buque á cuyo cargo vendrá el abono correspondiente;
-
-VII. Los alimentos y salarios de la tripulación mientras estuviere el buque en cuarentena;
-
-VIII. El daño inferido al buque ó cargamento por el choque ó abordaje con otro, siendo fortuito ó inevitable.
-
-Si el accidente ocurriere por culpa ó descuido del capitán, éste responderá de todo el daño causado;
-
-IX. Cualquier daño que resultare al cargamento por faltas, descuido ó baraterías del capitán ó de la tripulación, sin perjuicio del derecho del propietario á la indemnización correspondiente contra el capitán, el buque y el flete.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 885.
 
-El dueño de la cosa que dió lugar al gasto ó recibió el daño, soportará las averías simples ó particulares.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 886.
 
-Serán averías gruesas ó comunes, por regla general todos los daños y gastos que se causen deliberadamente para salvar el buque, su cargamento ó ambas cosas á la vez de un riesgo conocido y efectivo, y en particular las siguientes:
-
-I. Los efectos ó metálico invertidos en el rescate del buque ó del cargamento apresado por enemigos, corsarios o piratas, y los alimentos, salarios y gastos del buque detenido, mientras se hiciere el arreglo ó rescate;
-
-II. Los efectos arrojados al mar para aligerar el buque ya pertenezca al cargamento, ya al buque o á la tripulación, y el daño que por tal acto resulte á los efectos que se conserven á bordo;
-
-III. Los cables y palos que se corten ó inutilicen, las anclas y las cadenas que se abandonen para salvar el cargamento, el buque ó ambas cosas;
-
-IV. Los gastos de alijo ó trasbordo de una parte del cargamento para aligerar el buque y ponerlo en estado de tomar puerto ó rada, y el perjuicio que de ellos resulte á los efectos alijados ó trasbordados;
-
-V. El daño causado á los efectos del cargamento por la abertura hecha en el buque para desaguarlo é impedir que zozobre;
-
-VI. Los gastos hechos para poner á flote un buque encallado de propósito con objeto de salvarlo;
-
-VII. El daño causado en el buque que fuere necesario abrir agujerear ó romper para salvar el cargamento;
-
-VIII. Los gastos de curación y alimento de los tripulantes que hubieren sido heridos ó estropeados defendiendo ó salvando el buque;
-
-IX. Los salarios de cualquier individuo de la tripulación detenido en rehenes por enemigos corsarios ó piratas, y los gastos necesarios que cause en su prisión, hasta restituirse al buque ó á su domicilio si lo prefiere;
-
-X. El salario y alimentos de la tripulación del buque fletado por meses, durante el tiempo que estuviere embargado ó detenido por fuerza mayor ú orden del Gobierno ó para reparar los daños causados en beneficio común;
-
-XI. El menoscabo que resultare en el valor de los géneros vendidos en arribada forzosa para reparar el buque por causa de avería gruesa;
-
-XII. Los gastos de la liquidación de la avería.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 887.
 
-A satisfacer el importe de las averías gruesas ó comunes contribuirán todos los interesados en el buque y cargamento existente en él al tiempo de ocurrir la avería.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 888.
 
-Para hacer los gastos y causar los daños correspondientes á la avería gruesa, precederá resolución del capitán tomada previa deliberación con el piloto y demás oficiales de la nave y audiencia de los interesados en la carga que se hallaren presentes.
-
-Si éstos se opusieren y el capitán y oficiales, ó su mayoría, ó el capitán, separándose de la mayoría estimaren necesarias ciertas medidas podrán ejecutarse bajo su responsabilidad sin perjuicio del derecho de los cargadores á ejercitar el suyo contra el capitán ante el juez ó tribunal competente, si pudieren probar que procedió con malicia, impericia ó descuido.
-
-Si los interesados en la carga, estando en el buque no fueren oídos, no contribuirán á la avería gruesa imputable en esta parte al capitán, á no ser que la urgencia del caso fuere tal, que faltase el tiempo necesario para la previa deliberación.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 889.
 
-El acuerdo adoptado para causar los daños que constituyen avería común habrán de extenderse necesariamente en el libro de navegación, expresando los motivos y razones en que se apoyó, los votos en contrario y el fundamentos de la disidencia, si existiere y las causas irresistibles y urgentes á que obedeció el capitán, si obró por sí.
-
-En el primer caso, el acta se firmará por todos los presentes que supieren hacerlo, á ser posible, antes de proceder á la ejecución; y cuando no lo sea, en la primera oportunidad. En el segundo por el capitán y los oficiales del buque.
-
-En el acta, y después del acuerdo, se expresarán circunstanciadamente todo los objetos arrojados, y se hará mención de los desperfectos que se causen á los que se conserven en el buque. El capitán tendrá obligación de entregar una copia de esta acta á la autoridad judicial marítima del primer puerto donde arribe, dentro de las veinticuatro horas de su llegada, ratificándola.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 890.
 
-El capitán dirigirá la echazón y mandará arrojar los efectos, por el orden siguiente:
-
-I. Los que se hallaren sobre cubierta empezando por los que embaracen la maniobra ó perjudiquen al buque, prefiriendo si es posible, los más pesados y de menos utilidad y valor;
-
-II. Los que estuvieren bajo la cubierta superior comenzando siempre por los de más peso y menos valor, hasta la cantidad y número que fuese absolutamente indispensable.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 891.
 
-Para que puedan imputarse en la avería gruesa y tengan derecho á indemnización los dueños de los efectos arrojados al mar, será preciso que en cuanto á la carga, se acredite su existencia á bordo con el conocimiento; y respecto á los pertenecientes al buque, con el inventario formado antes de la salida, conforme al párrafo primero del artículo 686.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 892.
 
-Si aligerando el buque por causa de tempestad, para facilitar su entrada en el puerto ó rada, se trasbordase á lanchas ó barcas alguna parte del cargamento y se perdiere, el dueño de esta parte tendrá el derecho á la indemnización como origina la la (sic) pérdida de avería gruesa, distribuyéndose su importe entre la totalidad del buque y el cargamento de que proceda.
-
-Si por el contrario, las mercaderías trasbordadas se salvaren y el buque pereciere, ninguna responsabilidad podrá exigirse al salvamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 893.
 
-Si como medida necesaria para cortar un incendio en puerto, rada, ensenada ó bahía, se acordase echar á pique algún buque, esta pérdida será considerada avería gruesa, á que contribuirán los buques salvados.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO IV.
 
@@ -5210,51 +4496,33 @@ De los naufragios.
 
 ###### Art. 894.
 
-Si el capitán, durante la navegación, creyere que el buque no puede continuar el viaje al puerto de su destino por falta de víveres, temor fundado de embargo, corsarios ó piratas ó por cualquier accidente de mar que le inhabilite para navegar, reunirá á los oficiales, citará á los interesados en la carga que se hallaren presentes y que puedan asistir á junta sin derecho á votar; y si examinadas las circunstancias del caso se considerase fundado el motivo se acordará la arribada la puerto más próximo y conveniente, levantando y extendiendo en el libro de navegación la oportuna acta que firmarán todos.
-
-El capitán tendrá voto de calidad, y los interesados en la carga podrán hacer las reclamaciones y protestas que estimen oportunas, las cuales se insertarán en el acta para que las utilicen como vieren convenirles.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 895.
 
-Los gastos de la arribada forzosa serán siempre de cuenta del naviero ó fletante, pero estos no serán responsables de los perjuicios que puedan seguirse á los cargadores por consecuencia de la arribada, siempre que ésta hubiere sido legítima.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 896.
 
-La arribada forzosa no se reputará legítima para los efectos del artículo anterior en los casos siguientes:
-
-I. Si la falta de víveres procediere de no haberse hecho el avituallamiento necesario para el viaje según uso y costumbre, ó si se hubieren inutilizado ó perdido por mala colocación ó descuido en su custodia;
-
-II. Si el riesgo de enemigos, corsarios ó piratas no hubiere sido bien conocido, manifiesto y fundado en hechos positivos y justificables;
-
-III. Si el desperfecto del buque proviene de no haberlo reparado, pertrechado, equipado y dispuesto convenientemente para el viaje, ó de alguna disposición desacertada del capitán;
-
-IV. Siempre que hubiere en el hecho causa de la avería, malicia, negligencia, imprevisión ó impericia del capitán.
-
-En estos casos serán responsables mancomunadamente el naviero y el capitán de los perjuicios que puedan seguirse á los cargadores por consecuencia de la arribada.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 897.
 
-Si para hacer reparaciones en el buque ó porque hubiere peligro de que la carga sufriera avería, fuese necesario proceder á la descarga, el capitán deberá pedir al juez competente autorización para el alijo y llevarlo á cabo con conocimiento del interesado ó representante de la carga si lo hubiere.
-
-En puerto extranjero corresponderá dar la autorización al cónsul mexicano donde le haya.
-
-En el primer caso, serán los gastos de cuenta del naviero, y en el segundo, correrán á cargo de los dueños de las mercaderías en cuyo beneficio se hizo la operación.
-
-Si la descarga se verificare por ambas causas, los gastos se distribuirán proporcionalmente entre el valor del buque y el del cargamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 898.
 
-La custodia y conservación del cargamento desembarcado estará á cargo de capitán, que responderá de él, á no mediar fuerza mayor.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 899.
 
-Si apareciere averiado todo el cargamento ó parte de él, ó hubiere peligro inminente de que se averiase, podrá el capitán pedir al juez competente, ó al cónsul en su caso, la venta de todo o parte de aquél, y que de esto deba conocer, autorizarla previo reconocimiento y declaración de peritos, anuncios y demás formalidades del caso y anotación en el libro, conforme se previene en el artículo 698.
-
-El capitán justificará, en su caso, la legalidad de su proceder, so pena de responder al cargador del precio que habrían alcanzado las mercaderías llegando en buen estado al puerto de destino.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 900.
 
-El capitán responderá de los perjuicios que cause su dilación si cesando el motivo que dió lugar á la arribada forzada no continuase el viaje. Si el motivo de la arribada hubiere sido el temor de enemigos, corsarios ó piratas, precederán á la salida deliberación y acuerdo en junta de oficiales del buque é interesados en la carga que se hallaren presentes, en conformidad con lo dispuesto en el art. 894.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO I.
 
@@ -5262,59 +4530,61 @@ Disposiciones comunes á toda clase de averías.
 
 ###### Art. 901.
 
-Si un buque abordase á otro por culpa, negligencia ó impericia del capitán, piloto ú otro cualquiera individuo de la dotación, el naviero del buque abordador indemnizará los daños y perjuicios ocurridos, previa tasación pericial.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 902.
 
-Si el abordaje fuese imputable á ambos buques, cada uno de ellos soportará su propio daño y ambos responderán solidariamente de los daños y perjuicios causados en sus cargos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 903.
 
-La disposición del artículo anterior es aplicable al caso en que no pueda determinarse cuál de los dos buques ha sido causante del abordaje.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 904.
 
-En los casos expresados quedan á salvo la acción civil del naviero contra el causante del daño y las responsabilidades criminales á que hubiere lugar.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 905.
 
-Si un buque abordare á otro por causa fortuita ó de fuerza mayor, cada nave y su carga soportará sus propio daños.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 906.
 
-Si un buque abordare á otro obligado por un tercero, indemnizará los daños y perjuicios que ocurrieren el naviero de este tercer buque, quedando el capitán responsable civilmente para con dicho naviero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 907.
 
-Si por efecto de un temporal o de otra causa de fuerza mayor, un buque que se halle debidamente fondeado y amarrado abordaré á los inmediatos á él causándoles averías, el daño ocurrido tendrá la consideración de avería simple del buque abordado.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 908.
 
-Se presumirá perdido por causa de abordaje el buque que, habiéndolo sufrido, se fuera á pique en el acto, y también el que, obligado á ganar puerto para reparar las averías ocasionadas por el abordaje, se perdiese durante el viaje ó se viera obligado á embarrancar para salvarse.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 909.
 
-Si lo buques que se abordan tuvieren á bordo práctico ejerciendo sus funciones al tiempo del abordaje, no eximirá su presencia á los capitanes, de las responsabilidades en que incurran; pero tendrán éstos derecho á ser indemnizados por los prácticos, sin perjuicio de la responsabilidad criminal en que éstos pudieran incurrir.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 910.
 
-La acción para el resarcimiento de daños y perjuicios que se deriven de los abordajes, no podrá admitirse sino se presenta dentro de las veinticuatro horas protesta ó declaración ante la autoridad competente del punto en que tuviere lugar el abordaje, ó la del primer puerto de arribada del buque siendo en México, y ante el cónsul de México si ocurriese en el extranjero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 911.
 
-Para los daños causados á las personas ó al cargamento, la falta de protesta no puede perjudicar á los interesados que no se hallaban en la nave ó no estaban en condiciones de manifestar su voluntad.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 912.
 
-La responsabilidad civil que contraen los navieros en los casos prescritos en este capítulo, se entiende limitada al valor de la nave con todas sus pertenencias y fletes devengados en el viaje.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 913.
 
-Cuando el valor del buque y sus pertenencias no alcanzaré á cubrir todas las responsabilidades, tendrá preferencia la indemnización debida por muerte ó lesiones de las personas.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 914.
 
-Si el abordaje tuviere lugar entre buques mexicanos en aguas extranjeras, ó si verificándose en aguas libres los buques arribaren á puerto extranjero, el cónsul de México en aquel puerto instruirá la correspondiente averiguacióa (sic) del suceso, enviando el expediente al capitán del puerto mexicano más inmediato para su remisión á la autoridad competente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO II.
 
@@ -5322,43 +4592,35 @@ De la liquidación de las averías gruesas.
 
 ###### Art. 915.
 
-Las pérdidas y desmejoras que sufran el buque y su cargamento á consecuencia de naufragio ó encalladura, serán individualmente de cuenta de los dueños, perteneciéndoles en la misma proporción los restos que se salven.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 916.
 
-Si el naufragio o encalladura procedieren de malicia, descuido ó impericia del capitán ó porque el buque salió á la mar no hallándose suficientemente reparado y pertrechado, el naviero ó los cargadores podrán pedir al capitán la indemnización de los perjuicios causados al buque o al cargamento por el siniestro, conforme á lo dispuesto en los artículos 684, 686, 688 y 695.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 917.
 
-Los objetos salvados del naufragio quedarán especialmente afectos al pago de los gastos del respectivo salvamento, y su importe deberá ser satisfecho por los dueños de aquéllos antes de entregárselos, y con preferencia á otra cualquiera obligación si las mercaderías se vendiesen.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 918.
 
-Si navegando varios buques en conserva, naufragare alguno de ellos, la carga salvada se repartirá entre los demás en proporción á lo que cada uno pueda recibir.
-
-Si algún capitán se negase, sin justa causa, á recibir la que le corresponda, el capitán náufrago protestará contra él ante dos oficiales de mar los daños y perjuicios que de ello se sigan, ratificando la protesta dentro de la veinticuatro horas de la llegada al primer puerto, é incluyéndola en el expediente que debe instruir con arreglo á lo dispuesto en el artículo 686.
-
-Si no fuere posible trasladar á los demás buques todo el cargamento náufrago, se salvarán con preferencia los objetos de mas valor y de menos volumen, haciéndose la designación por el capitán con acuerdo de los oficiales de su buque.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 919.
 
-El capitán que hubiere recogido los efectos salvados del naufragio, continuará su rumbo al puerto de su destino, y en llegando, los depositará, con intervención judicial, á disposición de sus legítimos dueños.
-
-En caso de variar de rumbo si pudiere descargar en el puerto á que iban consignados, el capitán podrá arribar á él si lo consintieren los cargadores o sobrecargos presentes y los oficiales y pasajeros del buque; pero no lo podrá verificar, aun con este consentimiento, en tiempo de guerra ó cuando el puerto sea de acceso difícil y peligroso.
-
-Todos los gastos de esta arribada serán de cuenta de los dueños de la carga, así como el pago de los fletes que, atendidas las circunstancias del caso, se señalen por convenio ó por decisión judicial.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 920.
 
-Si en el buque no hubiere interesado en la carga que pueda satisfacer los gastos y los fletes correspondientes al salvamento, el juez competente podrá acordar la venta de la parte necesaria para satisfacerlos con su importe. Lo mismo se ejecutara cuando fuese peligrosa su conservación, ó cuando en el término de un año no se hubiese podido averiguar quiénes fueron sus legítimos dueños.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-En ambos casos se procederá con la publicidad y formalidades determinadas en el artículo 643, y el importe líquido de la venta se constituirá en depósito seguro, á juicio del juez, para entregarlo á sus legítimos dueños.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
-## TITULO PRIMERO.
+## TITULO QUINTO.
 
-DE LAS QUIEBRAS.
+DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO III.
 
@@ -5366,39 +4628,25 @@ De la liquidación de las averías simples.
 
 ###### Art. 921.
 
-Los interesados en la justificación y liquidación de las averías podrán convenirse y obligarse mutuamente en cualquier tiempo acerca de la responsabilidad, liquidación y pago de ellas.
-
-A falta de convenios, se observarán las reglas siguientes:
-
-I. La justificación de la avería se verificará en el puerto donde se hagan las reparaciones, si fueren necesarias, ó en el de descarga;
-
-II. La liquidación se hará en el puerto de descarga, si fuere mexicano;
-
-III. Si la avería hubiere ocurrido fuera de las aguas jurisdiccionales de México, ó se hubiere vendido la carga en puerto extranjero por arribada forzosa, se hará la liquidación en el puerto de arribada;
-
-IV. Si la avería hubiere ocurrido cerca del puerto de destino, de modo que se pueda arribar á dicho puerto, en él se practicarán las operaciones de que tratan las reglas I y II.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 922.
 
-Tanto en el caso de hacerse la liquidación de las averías privadamente en virtud de lo convenido, como el de intervenir la autoridad judicial á petición de cualquiera de los interesados no conformes, todos serán citados y oídos sino hubieren renunciado á ello.
-
-Cuando se hallaren presentes ó no tuvieren legítimo representante, se hará la liquidación por el Cónsul en puerto extranjero, y donde no lo hubiere por el juez competente, según las leyes del país y por cuenta de quien corresponda.
-
-Cuando el representante sea persona conocida en el lugar donde se haga la liquidación, se admitirá y producirá efecto legal su intervención, aunque sólo esté autorizado por carta del naviero, del cargador o del asegurador.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 923.
 
-Las demandas sobre averías no serán admisibles sino excedieren del cinco por ciento del interés que el demandante tenga en el buque ó en el cargamento, siendo gruesas, y del uno por ciento del efecto averiado, si fueren simples, deduciéndose en ambos casos, los gastos de tasación salvo pacto en contrario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 924.
 
-Los daños, averías, préstamos á la gruesa y sus premios, y cualesquiera otras pérdidas, no devengarán interés de demora sino pasado el plazo de tres días á contar desde el en que la liquidación haya sido terminada y comunicada á los interesados en el buque, en la carga ó en ambas cosas á la vez.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 925.
 
-Si por consecuencia de uno ó varios accidentes de mar, ocurrieren en un mismo viaje averías simples y gruesas del buque, del cargamento ó de ambos se determinarán con separación los gastos y daños pertenecientes á cada avería, en el puerto donde se hagan las reparaciones, ó se descarguen, vendan ó beneficien las mercaderías.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
-Al efecto, los capitanes estarán obligados á exigir de los peritos tasadores y de los maestros que ejecuten las reparaciones, así como de los que tasen ó intervengan en la descarga, saneamiento, venta ó beneficio de las mercaderías, que en sus tasaciones ó presupuestos y cuentas pongan con toda exactitud y separación los daños y gastos pertenecientes á cada avería, y en los de cada avería los correspondientes al buque y al cargamento, expresando también con separación si hay ó no daños que procedan de vicio propio de la cosa y no de accidente de mar; y en el caso de que hubiere gastos comunes á las diferentes averías y al buque y su carga, se deberá calcular lo que corresponda por cada concepto y expresarlo distintamente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO I.
 
@@ -5406,123 +4654,77 @@ Disposiciones generales.
 
 ###### Art. 926.
 
-A instancia del capitán se procederá privadamente, mediante el acuerdo de todos los interesados, al arreglo, liquidación y distribución de las averías gruesas.
-
-A este efecto, dentro de las cuarenta y ocho horas siguientes á la llegada del buque al puerto, el capitán convocará á todos los interesados para que resuelvan si el arreglo ó liquidación de las averías gruesas habrá de hacerse por peritos y liquidadores nombrados por ellos mismos, en cuyo caso se hará así habiendo conformidad entre los interesados.
-
-No siendo la avenencia posible, el capitán acudirá al juez competente, que lo será el del puerto donde hayan de practicarse aquellas diligencias, conforme á las disposiciones de este Código, ó al cónsul de México si lo hubiese, y si no, á la autoridad local, cuando hayan de verificarse en puerto extranjero.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 927.
 
-Si el capitán no cumpliere con lo dispuesto en el artículo anterior, el naviero ó los cargadores reclamarán la liquidación, sin perjuicio de la acción que les corresponda para pedirle indemnización.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 928.
 
-Nombrados los peritos por los interesados ó por el juez, procederán, previa la aceptación, al reconocimiento del buque y de las reparaciones que necesite, y á la tasación de su importe, distinguiendo estas pérdidas y daños de los que provengan de vicio propio de las cosas.
-
-También declararán los peritos si pueden ejecutarse las reparaciones desde luego ó si es necesario descargar el buque para reconocerlo y repararlo.
-
-Respecto á las mercaderías, si la avería fuere perceptible á la simple vista, deberá verificarse su reconocimiento antes de entregarlas. No apareciendo á la vista al tiempo de la descarga, podrá hacerse después de su entrega, siempre que se verifique dentro de las cuarenta y ocho horas de la descarga y sin perjuicio de las demás pruebas que estimen convenientes los peritos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 929.
 
-La evaluación de los objetos que hayan de contribuir á la avería gruesa, y la de los que constituyen la avería, se sujetará á las regla siguientes:
-
-I. Las mercaderías salvadas que hayan de contribuir al pago de la avería gruesa, se valuarán al precio corriente en el puerto de descarga, deducidos fletes, derechos de aduanas y gastos de desembarque, según lo que aparezca de la inspección material de las mismas, prescindiendo de lo que resulte de los conocimientos, salvo pacto en contrario;
-
-II. Si hubiere de hacerse la liquidación en el puerto de salida, el valor de las mercaderías cargadas se fijará por el precio de compra con los gastos hasta ponerlas á bordo, excluído el premio del seguro;
-
-III. Si las mercaderías estuvieren averiadas, se apreciarán por su valor real;
-
-IV. Si el viaje se hubiere interrumpido, las mercaderías se hubieren vendido en el extranjero, y la avería no pudiere regularse, se tomará por capital contribuyente el valor de las mercaderías en el puerto de arribada, ó el producto líquido obtenido en su venta:
-
-V. Las mercaderías perdidas que constituyeren la avería gruesa, se apreciarán por el valor que tengan las de su clase en el puerto de descarga, con tal que consten los conocimientos sus especies y calidades, y no constando se estará á lo que resulte de las facturas de compra expedidas en el puerto de embarque, aumentando á su importe los gastos y fletes causados posteriormente;
-
-VI. Los palos cortados, las velas, cables y demás aparejos del buque inutilizados con el objeto de salvarlo, se apreciarán según el valor corriente, descontando una tercera parte por diferencia de nuevo á viejo.
-
-Esta rebaja no se hará en las anclas y cadenas;
-
-VII. El buque se tasará por su valor real en el estado en que se encuentre;
-
-VIII. Los fletes representarán el 50 por 100 como capital contribuyente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 930.
 
-Las mercaderías cargadas en el combés del buque, contribuirán á la avería gruesa si se salvaren; pero no darán derecho á indemnización si se perdieren habiendo sido arrojadas al mar por salvamento común, salvo cundo en la navegación de cabotaje permitieren las ordenanzas marítimas su carga en esa forma.
-
-Lo mismo sucederá con las que existan á bordo y no conste comprendidas en los conocimientos ó inventarios, según los casos.
-
-En todo caso, el fletante y el capitán responderán á los cargadores de los perjuicios de la echazón, si la colocación en el combés se hubiere hecho sin consentimiento de éstos.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 931.
 
-No contribuirán á la avería gruesa las municiones de boca y guerra que lleve el buque, ni las ropas ni vestidos de uso de su capitán, oficiales y tripulación.
-
-También quedará exceptuados las ropas y vestidos de uso de los cargadores, sobrecargos y pasajeros que al tiempo de la echazón se encuentren á bordo.
-
-Los efectos arrojados tampoco contribuirán al pago de las averías gruesas que ocurran á las mercaderías salvadas en riesgo diferente y posterior.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 932.
 
-Terminada por lo peritos la valuación de los efectos salvados y de los perdidos que constituyan la avería gruesa, hechas las reparaciones del buque, si hubiere lugar á ello, y aprobadas en este caso las cuentas de las mismas por los interesados ó por el juez, pasará el expediente íntegro al liquidador nombrado para que proceda á la distribución de la avería.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 933.
 
-Para verificar la liquidación, examinará el liquidador la protesta del capitán, comprobándola, si fuere necesario, con el libro de navegación, y todos los contratos que hubieren mediado entre los interesados en la avería, las tasaciones, reconocimientos periciales y cuentas de reparaciones hechas. Si por resultado de este examen, hallaré en el procedimiento algún defecto que pueda lastimar los derechos de los interesados ó afectar la responsabilidad del capitán, llamará sobre ello la atención para que se subsane, siendo posible, y en otro caso lo consignará en los preliminares de la liquidación.
-
-En seguida procederá á la distribución del importe de la avería, para lo cual fijará:
-
-I. El capital contribuyente que determinará por el importe del valor del cargamento, conforme á las reglas establecidas en el artículo 929;
-
-II. El del buque en el estado que tenga, según la declaración de peritos;
-
-III. El 50 por 100 del importe del flete, rebajando el 50 por 100 restante por salarios y alimentos de la tripulación.
-
-Determinada la suma de la avería gruesa, conforme á lo dispuesto en este Código, se distribuirá á prorrata, entre los valores llamados á costearla.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 934.
 
-Los aseguradores del buque, del flete y de la carga, estarán obligados á pagar por la indemnización de la avería gruesa, tanto cuanto se exija á cada uno de éstos objetos respectivamente.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 935.
 
-Si no obstante la echazón de mercaderías, rompimiento de palos, cuerdas y aparejos, se perdiere el buque corriendo el mismo riesgo, no habrá lugar á contribución alguna por avería gruesa.
-
-Los dueños de los efectos salvados no serán responsables á la indemnización de los arrojados al mar, perdidos ó deteriorados.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 936.
 
-Si después de haberse salvado el buque del riesgo que dió lugar á la echazón, se perdiere por otro accidente ocurrido durante el viaje, los efectos salvados y subsistentes del primer riesgo continuarán afectos á la contribución de la avería gruesa, según su valor, en el estado en que se encuentren, deduciendo los gastos hechos para su salvamento.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 937.
 
-Si á pesar de haberse salvado el buque y la carga por consecuencia del corte de palos ó de otro daño inferido al buque deliberadamente con aquel objeto, luego se perdieren ó fueren robadas las mercaderías, el capitán no podrá exigir de los cargadores ó consignatarios que contribuyan á la indemnización de la avería excepto si la pérdida ocurriere por hecho del mismo dueño ó consignatario.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 938.
 
-Si el dueño de las mercaderías arrojadas al mar las recobrase después de haber recibido la indemnización de avería gruesa, estará obligado á devolver al capitán y á los demás interesados en el cargamento la cantidad que hubiere percibido, deduciendo el importe del perjuicio causado por la echazón y de los gastos hechos para recobrarlas.
-
-En este caso, la cantidad devuelta se distribuirá entre el buque y los interesados en la carga, en la misma proporción con que hubieren contribuído al pago de la avería.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 939.
 
-Si el propietario de los efectos arrojados los recobrare sin haber reclamado indemnización, no estará obligado á contribuir al pago de las averías gruesas que hubieren ocurrido al resto del cargamento después de la echazón.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 940.
 
-El repartimiento de la avería gruesa no tendrá fuerza ejecutiva hasta que haya recaído la conformidad, ó en su defecto, la aprobación del juez, previo examen de la liquidación y audiencia instructiva de los interesados presentes ó de sus representantes.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 941.
 
-Aprobada la liquidación, corresponderá al capitán hacer efectivo el importe del repartimiento, y será responsable á los dueños de las cosas averiadas de los perjuicios que por su morosidad ó negligencia se les sigan.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 942.
 
-Si los contribuyentes dejaren de hacer efectivo el importe del repartimiento en el término de tercer día, después de haber sido á ello requeridos, se procederá, á solicitud del capitán, contra los efectos salvados, hasta verificar el pago con su producto.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 ###### Art. 943.
 
-Si el interesado en recibir los efectos salvados no diere fianza suficiente para responder de la parte correspondiente á la avería gruesa, el capitán podrá diferir la entrega de aquéllos hasta que se haya verificado el pago.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)</small>
 
 ### CAPÍTULO II.
 
@@ -5530,65 +4732,17 @@ De la clasificación de las quiebras.
 
 ###### Art. 944.
 
-Los peritos que el juez ó los interesados nombren, según los casos, procederán al reconocimiento y valuación de las averías en la forma prevenida en los artículos 928 y 929, en cuanto les sean aplicables.
+(DEROGADO POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963)
 
 # LIBRO CUARTO.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO SEGUNDO.
+## TITULO PRIMERO.
 
-DE LAS PRESCRIPCIONES.
+DE LAS QUIEBRAS.
 
-Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
-
-Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
-
-Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
-
-Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
-
-Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
-
-Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
-
-Art. 1,043. En un año se prescribirán:
-
-I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
-
-II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
-
-III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
-
-IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
-
-V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
-
-VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
-
-VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
-
-VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
-
-Art. 1,044. Se prescribirán en tres años:
-
-I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
-
-II. Las acciones derivadas del contrato de préstamo á la gruesa.
-
-Art. 1,045. Se prescribirán en cinco años:
-
-I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
-
-II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
-
-Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
-
-El capitán de un navío no puede adquirir éste á virtud de la prescripción.
-
-Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
-
-Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -6010,45 +5164,67 @@ III. Una copia, en papel común, del escrito y de los documentos, cuando estos n
 
 Art. 1,062. Los dispuesto en la fracción III de artículo que precede, se observará también respecto de los escritos en que se opongan excepciones de compensación ó reconvención, y del los que se promueva algún incidente.
 
-## TITULO PRIMERO.
+## TITULO SEGUNDO.
 
-DISPOSICIONES GENERALES.
+DE LAS PRESCRIPCIONES.
+
+Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
+
+Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
+
+Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
+
+Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
+
+Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
+
+Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
+
+Art. 1,043. En un año se prescribirán:
+
+I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
+
+II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
+
+III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
+
+IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
+
+V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
+
+VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
+
+VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
+
+VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
+
+Art. 1,044. Se prescribirán en tres años:
+
+I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+II. Las acciones derivadas del contrato de préstamo á la gruesa.
+
+Art. 1,045. Se prescribirán en cinco años:
+
+I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
+
+II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
+
+Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
+
+El capitán de un navío no puede adquirir éste á virtud de la prescripción.
+
+Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
+
+Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
 # LIBRO QUINTO.
 
 DE LOS JUICIOS MERCANTILES.
 
-## TITULO SEGUNDO
+## TITULO PRIMERO.
 
-DE LOS JUICIOS ORDINARIOS.
-
-Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
-
-Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
-
-Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
-
-Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
-
-Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
-
-Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
-
-Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
-
-Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
-
-Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
-
-Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
-
-Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
-
-Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
-
-Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
-
-Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
+DISPOSICIONES GENERALES.
 
 ### CAPÍTULO III.
 
@@ -6180,7 +5356,7 @@ Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
 Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor.
 
-Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa o tácitamente.
+Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
 
 Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez á quien se someten.
 
@@ -7104,107 +6280,37 @@ Art. 1,436. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO TERCERO
+## TITULO SEGUNDO.
 
-DE LOS JUICIOS EJECUTIVOS.
+DE LOS JUICIOS ORDINARIOS.
 
-Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
+Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
 
-Traen aparejada ejecución:
+Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
 
-I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
+Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
 
-II. Los instrumentos públicos;
+Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
 
-III. La confesión judicial del deudor, según el artículo 1,288;
+Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
 
-IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
+Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
 
-V. Las pólizas de seguros conforme al artículo 441;
+Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
 
-VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
+Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
 
-VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
+Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
 
-Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
+Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
 
-Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
+Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
 
-Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
+Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
 
-Art. 1,395. En el embargo de bienes se seguirá este orden:
+Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
 
-I. Las mercancías;
-
-II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
-
-III. Los demás muebles del deudor;
-
-IV. Los inmuebles;
-
-V. Las demás acciones y derechos que tenga el demandado.
-
-Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
-
-Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
-
-Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
-
-Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
-
-Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
-
-Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
-
-Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
-
-Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
-
-Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
-
-I. Falsedad del título ó del contrato contenido en él;
-
-II. Fuerza ó miedo;
-
-III. Prescripción ó caducidad del título;
-
-IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
-
-V. Incompetencia del juez;
-
-VI. Pago ó compensación;
-
-VII. Remisión ó quita;
-
-VIII. Oferta de no cobrar ó espera;
-
-IX. Novación de contrato.
-
-Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
-
-Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
-
-Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
-
-Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
-
-Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
-
-Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
-
-Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
-
-Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
-
-Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
-
-Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
-
-Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
-
-Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
-
-> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
 
 ### CAPÍTULO III.
 
@@ -7374,11 +6480,107 @@ Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-## TITULO CUARTO.
+## TITULO TERCERO.
 
-DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
+DE LOS JUICIOS EJECUTIVOS.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
+
+Traen aparejada ejecución:
+
+I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
+
+II. Los instrumentos públicos;
+
+III. La confesión judicial del deudor, según el artículo 1,288;
+
+IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
+
+V. Las pólizas de seguros conforme al artículo 441;
+
+VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
+
+VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
+
+Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
+
+Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
+
+Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
+
+Art. 1,395. En el embargo de bienes se seguirá este orden:
+
+I. Las mercancías;
+
+II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
+
+III. Los demás muebles del deudor;
+
+IV. Los inmuebles;
+
+V. Las demás acciones y derechos que tenga el demandado.
+
+Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
+
+Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
+
+Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
+
+Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
+
+Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
+
+Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
+
+Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
+
+Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
+
+Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
+
+I. Falsedad del título ó del contrato contenido en él;
+
+II. Fuerza ó miedo;
+
+III. Prescripción ó caducidad del título;
+
+IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
+
+V. Incompetencia del juez;
+
+VI. Pago ó compensación;
+
+VII. Remisión ó quita;
+
+VIII. Oferta de no cobrar ó espera;
+
+IX. Novación de contrato.
+
+Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
+
+Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
+
+Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
+
+Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
+
+Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
+
+Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
+
+Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
+
+Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
+
+Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
+
+Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
+
+Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ## TITULO CUARTO.
 
@@ -7553,3 +6755,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO SEGUNDO.
 
 Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE NOVIEMBRE DE 1963.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### Art. 2o.
+
+Se derogan los artículos del Libro Tercero del Código de Comercio y las demás disposiciones legales en lo que (sic) opongan a este ordenamiento.
+
+###### Art. 3o.
+
+En tanto se reglamenta y organiza el Resguardo Marítimo, conforme a esta ley, la Secretaría de Marina ejercerá las funciones que a dicho cuerpo se atribuyen, por medio de la policía marítima o de las autoridades que determine el Ejecutivo Federal.
