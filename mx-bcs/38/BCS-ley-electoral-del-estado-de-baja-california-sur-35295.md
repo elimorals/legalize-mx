@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-35295"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-20"
-last_updated: "2003-11-20"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL. 10 DE FEBRERO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
 
@@ -3191,7 +3191,9 @@ IV.- La Secretaría General al admitir la contestación, resolverá sobre la adm
 
 V.- Concluido el plazo señalado para el desahogo de las pruebas, la Secretaría General resolverá dentro de los diez días siguientes, mediante dictamen que será turnado al Consejo a efecto de que resuelva sobre la responsabilidad e imponiendo la sanción correspondiente o bien absolviendo al presunto infractor; la resolución dictada podrá ser impugnada ante el Tribunal Estatal Electoral.
 
-## TÍTULO DÉCIMO PRIMERO (SIC). DE LOS PROCESOS DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO, B.O. 10 FEBRERO 2004)</small>
+
+## TÍTULO DÉCIMO. DE LOS PROCESOS DE PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 288.
 
@@ -3268,3 +3270,9 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín oficial del Gobierno del Estado.
