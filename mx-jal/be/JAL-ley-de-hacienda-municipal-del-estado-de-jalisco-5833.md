@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1999-06-03"
+last_updated: "1999-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1347,9 +1347,65 @@ En la promoción con que se inicie la creación de un Impuesto Extraordinario, e
 
 El objeto, el sujeto, los responsables solidarios, la base, el pago y demás elementos constitutivos del impuesto, se determinarán en el decreto que en su caso expida el Congreso del Estado.
 
-### CAPITULO I. Disposiciones Generales
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
-### CAPITULO II. Licencias, Permisos y Registros
+### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1999)</small>
+
+Art. 131 bis. Es objeto de este impuesto:
+
+I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción, ampliación, remodelación o demolición de inmuebles.
+
+En todos los casos en que se efectúen actos comprendidos en el párrafo anterior, se considera que se ha celebrado el contrato respectivo.
+
+No se considerarán como objeto de este impuesto los casos de autoconstrucción. Se entiende que existe autoconstrucción cuando se agoten los siguientes requisitos:
+
+1. Que el propietario del terreno donde se efectúe la obra, sea quien la realice, ya sea personalmente o con el auxilio de no más de tres personas ajenas a su familia;
+
+2. Que la propiedad del terreno y de la construcción recaiga en una sola persona y que ésta acredite no poseer más propiedades, mediante certificación que al efecto expida la Dirección de Catastro; y
+
+3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
+
+Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
+
+II. Son sujetos de este impuesto el o los propietarios del inmueble, en los actos o contratos de obra.
+
+III. Será base para el pago de este impuesto el costo total de las obras que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales, contenidos en los contratos o convenios respectivos, ya sea que se celebren a precio alzado, precio unitario, por administración o adoptándose cualquiera otra modalidad.
+
+En caso de que el presupuesto de la obra no sea exhibido por los contratantes o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción, se tomará como base el costo mayor estimado que resulte entre el contenido en el convenio o el estimado mediante avalúo, por las autoridades fiscales al terminarse la construcción.
+
+IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
+
+Siempre que por virtud de algún acto o contrato público o privado, cualquier persona adquiera una propiedad como terreno, teniendo construcción al momento del acto o del otorgamiento del contrato respectivo, que no hubiera sido hecha por el adquirente del terreno, la Tesorería Municipal procederá a cobrar al sujeto pasivo la diferencia de los impuestos realmente causados y a imponer, como sanción pecuniaria, una multa hasta de tres tantos del crédito fiscal omitido, más accesorios, pues en estos casos y para los efectos de este impuesto se considera que no solamente se transmitió el terreno sin construir, sino también la construcción misma;
+
+V. El pago de este impuesto se efectuará dentro de los plazos que a continuación se indican:
+
+En los casos de contratos de construcción, reconstrucción, ampliación o demolición de inmuebles, dentro de los treinta días siguientes a la fecha de firma del mismo. A falta de contrato escrito, dentro de los treinta días siguientes a la fecha de inicio de la construcción.
+
+Independientemente de la fecha del contrato, los sujetos pasivos del impuesto están obligados a presentar por escrito, ante la Tesorería Municipal, un aviso de construcción, dentro de los diez días siguientes al inicio de la misma.
+
+Para los efectos de esta fracción, los contribuyentes presentarán declaración ante la Oficina de Recaudación correspondiente, o donde, en su caso lo disponga la Tesorería Municipal, a la que anexarán copia del documento en que se haga constar el acto o contrato gravado.
+
+VI. Están exentos del pago de este impuesto:
+
+a) La Federación, el Estado y los municipios;
+
+b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
+
+c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
+
+d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción, ampliación, remodelación o demolición de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
+
+Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
+
+En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
+
+No se dará trámite ni se registrará documento alguno si no obra en él dicha constancia.
+
+En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
+
+### CAPITULO I. Disposiciones Generales
 
 #### SECCION PRIMERA. Disposiciones Generales
 
@@ -1363,7 +1419,7 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 ## TITULO SEGUNDO. De los Derechos
 
-### CAPITULO III. Inspección y Vigilancia
+### CAPITULO II. Licencias, Permisos y Registros
 
 ###### Art. 132.
 
@@ -1409,7 +1465,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por el Tesorero Municipal, en los términos establecidos por las Leyes Fiscales, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
-### CAPITULO IV. Inspección Sanitaria
+### CAPITULO III. Inspección y Vigilancia
 
 ###### Art. 138.
 
@@ -1471,7 +1527,7 @@ Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de vein
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
-### CAPITULO V. Aseo Público
+### CAPITULO IV. Inspección Sanitaria
 
 ###### Art. 148.
 
@@ -1489,7 +1545,7 @@ a) Si es posible controlar los ingresos, mediante declaración que deberá prese
 
 b) Si el pago debe efectuarse a cuota fija, previamente al acto que lo motiva.
 
-### CAPITULO VI. Agua y Alcantarillado
+### CAPITULO V. Aseo Público
 
 ###### Art. 150.
 
@@ -1509,7 +1565,7 @@ Las Agencias de Inhumaciones serán solidariamente responsables de los Derechos 
 
 Para los efectos del cobro de los Derechos por este concepto, se entenderá por Establo, Granja y Apiario, lo que sobre el particular señale el Art. 143.
 
-### CAPITULO VII. Rastro
+### CAPITULO VI. Agua y Alcantarillado
 
 ###### Art. 154.
 
@@ -1523,15 +1579,17 @@ Los usuarios que requieran servicios especiales de aseo público en forma consta
 
 Los derechos por aseo público a que se refiere esta Ley, cuando no se presten en forma constante y bajo contrato, deberán pagarse en la Tesorería Municipal previamente a la prestación del servicio. En caso que el servicio se preste en rebeldía del usuario, se le notificará el costo del mismo para que, en un término de cinco días, realice el pago correspondiente.
 
-### CAPITULO VIII. Registro Civil
+### CAPITULO VII. Rastro
 
 ###### Art. 157.
 
 Para la fijación de las tarifas a que deba sujetarse el servicio de agua, se tendrá como base el consumo, adoptándose preferentemente el uso de medidores cuando esto no fuere posible, éstas se determinarán de conformidad a lo establecido en las Leyes de Ingresos Municipales, o diversas disposiciones, cuando el servicio no lo proporcione el Municipio.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1999)</small>
+
 ###### Art. 158.
 
-Los pagos se harán por bimestres, a más tardar, el día quince del primer mes de cada bimestre. En caso de que se haya instalado medidor, los pagos se harán quince días después de notificado el consumo, previa lectura del mismo.
+Los pagos se harán mensual o por bimestres según lo determine la ley de ingresos de cada municipio, a más tardar, el día quince del mes o primer mes de cada bimestre. En caso de que se haya instalado medidor, los pagos se harán quince días después de notificado el consumo, previa lectura del mismo.
 
 ###### Art. 159.
 
@@ -1547,7 +1605,7 @@ Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrá
 
 Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
 
-### CAPITULO IX. Certificaciones
+### CAPITULO VIII. Registro Civil
 
 ###### Art. 162.
 
@@ -1575,7 +1633,7 @@ La Autoridad Municipal queda facultada para retener carnes, cuando sea descubier
 
 Igualmente, queda facultada para confiscar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO X. Seguridad Pública y Tránsito
+### CAPITULO IX. Certificaciones
 
 ###### Art. 168.
 
@@ -1591,7 +1649,7 @@ Los derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 Los Oficiales del Registro Civil están obligados, en todos los casos, a consignar en las actas, el lugar y la hora en que se celebre el acto, así como el número del recibo oficial de pago de los derechos causados, cuando éste tenga verificativo en horas extraordinarias o a domicilio.
 
-### CAPITULO XI. Derechos no Especificados
+### CAPITULO X. Seguridad Pública y Tránsito
 
 ###### Art. 171.
 
@@ -1611,13 +1669,13 @@ II. Las que las autoridades municipales asienten en los expedientes de los negoc
 
 III. Los certificados de buena conducta o de insolvencia que expida la autoridad municipal, y que se destinen para realizar trámites relativos a la educación.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XI. Derechos no Especificados
 
 ###### Art. 174.
 
 Los ingresos que por estos conceptos correspondan a los Municipios, se establecerán anualmente en las Leyes de Ingresos correspondientes.
 
-### CAPITULO II. Bienes Muebles e Inmuebles
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 175.
 
@@ -1629,7 +1687,7 @@ Los Derechos que las Leyes de Ingresos Municipales fijen por este concepto, debe
 
 ## TITULO TERCERO. De los Productos
 
-### CAPITULO III. Cementerios
+### CAPITULO II. Bienes Muebles e Inmuebles
 
 ###### Art. 177.
 
@@ -1647,7 +1705,7 @@ IV. Productos diversos.
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en esta Ley, en las Leyes de Ingresos Municipales, en los contratos o concesiones respectivos o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas municipales y, en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
-### CAPITULO IV. Piso
+### CAPITULO III. Cementerios
 
 ###### Art. 179.
 
@@ -1683,7 +1741,7 @@ La obligación anterior no será aplicable cuando se trate de bienes muebles cuy
 
 Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Cabildo.
 
-### CAPITULO V. Productos Diversos
+### CAPITULO IV. Piso
 
 ###### Art. 184.
 
@@ -1701,7 +1759,7 @@ No causarán los Productos señalados en este Capítulo, las inhumaciones de per
 
 Pagarán productos por este concepto quienes soliciten, en propiedad o arrendamiento, lotes de los cementerios municipales para la construcción de fosas.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO V. Productos Diversos
 
 ###### Art. 188.
 
@@ -1709,9 +1767,11 @@ Pagarán productos por este concepto las personas que hagan uso con fines especu
 
 Pagarán también productos por este concepto, las personas que hagan uso de la vía pública, en las calles que los Municipios señalen para el establecimiento de vehículos o para cualquier otro fin distinto de los mencionados en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1999)</small>
+
 ###### Art. 189.
 
-Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, lineal o fracción, según lo determine la Ley de Ingresos Municipales.
+Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, lineal o fracción, según lo determine la ley de ingresos municipal.
 
 ###### Art. 190.
 
@@ -1721,7 +1781,7 @@ El pago de los productos señalados en este capítulo, se hará por adelantado.
 
 Los recibos que deba expedir la Tesorería Municipal y los boletos para el cobro de productos, por uso de piso, deberán ser enviados al Congreso del Estado para su registro y control.
 
-### CAPITULO UNICO. Clasificación
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Art. 192.
 
@@ -1729,11 +1789,7 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Erario
 
 ## TITULO CUARTO. De los Aprovechamientos
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
-
-Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
+### CAPITULO UNICO. Clasificación
 
 ###### Art. 193.
 
@@ -1767,25 +1823,29 @@ XIII. Otros no especificados.
 
 ## TITULO QUINTO. De las Participaciones
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
+
+Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ###### Art. 194.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
-
-### CAPITULO UNICO. Del Gasto Público
+### CAPITULO UNICO. Disposiciones Generales
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
 ## TITULO UNICO. De las Infracciones y Sanciones
 
-### CAPITULO I. De la Estructura
+### CAPITULO UNICO. Del Gasto Público
 
 ###### Art. 195.
 
@@ -1857,7 +1917,7 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 ## TITULO PRIMERO. Disposiciones Generales
 
-### CAPITULO II. De la Estimación del Monto
+### CAPITULO I. De la Estructura
 
 ###### Art. 201.
 
@@ -1897,7 +1957,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 ## TITULO SEGUNDO. Del Presupuesto de Egresos
 
-### CAPITULO III. De la Iniciativa, Discusión y Aprobación
+### CAPITULO II. De la Estimación del Monto
 
 ###### Art. 206.
 
@@ -1987,7 +2047,7 @@ Una vez estudiado y revisado el proyecto del gasto público, el monto del mismo 
 
 Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efectos y revisión de la cuenta pública.
 
-### CAPITULO IV. De su Ejercicio
+### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
 ###### Art. 213.
 
@@ -2001,7 +2061,7 @@ Una vez concluida la vigencia del gasto público, sólo procederá a hacer pagos
 
 El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de las partidas del Presupuesto de Egresos.
 
-### CAPITULO V. De las Modificaciones
+### CAPITULO IV. De su Ejercicio
 
 ###### Art. 216.
 
@@ -2017,7 +2077,7 @@ Toda erogación deberá ajustarse estrictamente, al texto de la partida que reci
 
 El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Cabildo.
 
-### CAPITULO I. De la Revisión
+### CAPITULO V. De las Modificaciones
 
 ###### Art. 219.
 
@@ -2031,11 +2091,11 @@ En los casos a que se refiere el artículo anterior, el Presidente Municipal, po
 
 Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Cabildo, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
 
-### CAPITULO II. De la Contabilidad
+### CAPITULO I. De la Revisión
 
 ## TITULO TERCERO. De la Cuenta Pública
 
-### CAPITULO UNICO. De los Sujetos
+### CAPITULO II. De la Contabilidad
 
 ###### Art. 222.
 
@@ -2073,7 +2133,7 @@ El Tesorero Municipal está obligado a proporcionar, al Congreso del Estado, la 
 
 Si el Tesorero Municipal se negare a proporcionar la información solicitada por el Congreso del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público ni permitiera la práctica de visitas, inspecciones y auditorías, la Contaduría Mayor de Hacienda lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Inspección, para que resuelva lo procedente.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO. De los Sujetos
 
 ###### Art. 229.
 
@@ -2105,7 +2165,7 @@ Los estados financieros y demás información financiera y contable que emanen d
 
 ## TITULO CUARTO. De las Responsabilidades
 
-### CAPITULO II. Del Procedimiento Administrativo de Ejecución
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 236.
 
@@ -2137,7 +2197,7 @@ Si de la revisión de la cuenta pública de la Hacienda Municipal, se determinas
 
 ## TITULO PRIMERO. De los Procedimientos
 
-### CAPITULO III. Del Procedimiento de Revocación d (sic) Licencias
+### CAPITULO II. Del Procedimiento Administrativo de Ejecución
 
 ###### Art. 241.
 
@@ -2219,7 +2279,7 @@ Las autoridades fiscales podrán habilitar los días y horas inhábiles. Esta ci
 
 Salvo que las disposiciones fiscales, o resoluciones, señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente del que surta sus efectos la notificación, o en el que se realicen los hechos, o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
 
-### CAPITULO UNICO. De su Procedencia y Tramitación
+### CAPITULO III. Del Procedimiento de Revocación d (sic) Licencias
 
 ###### Art. 252.
 
@@ -2765,6 +2825,8 @@ II. Que medie orden escrita de autoridad competente.
 
 En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, permanecerán en depósito en la Tesorería Municipal, mientras resuelven las autoridades competentes.
 
+### CAPITULO UNICO. De su Procedencia y Tramitación
+
 ###### Art. 315.
 
 Procederá la revocación de licencias para el funcionamiento de giros, en los siguientes casos:
@@ -3020,3 +3082,7 @@ P.O. 1 DE ABRIL DE 1999.
 P.O. 3 DE JUNIO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE AGOSTO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día 1°/01/00 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
