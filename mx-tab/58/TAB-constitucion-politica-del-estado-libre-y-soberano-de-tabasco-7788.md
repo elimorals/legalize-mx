@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1994-01-01"
+last_updated: "1994-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1994.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -146,8 +146,6 @@ V.- En los demás casos que las leyes señalen.
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## TITULO II. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO I. FORMACION DEL CONGRESO
 
@@ -359,9 +357,7 @@ Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cá
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y al final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y el final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
 
 Durante el receso funcionará una Comisión Permanente.
 
@@ -459,7 +455,7 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 ### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 36.
 
@@ -641,13 +637,13 @@ VIII.- Las demás que le imponga esta Constitución.
 
 ###### ARTICULO 40.
 
-La Contaduría Mayor de Hacienda dependerá directamente del Congreso y en ella se glosarán sin excepción las cuentas del Erario Estatal.
+La Contaduría Mayor de Hacienda dependerá directamente del Congreso, en ella se glosarán, sin excepción, las cuentas del erario estatal y de los municipios.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 41.
 
-Toda cuenta del erario estatal o municipal deberá quedar concluída y glosada anualmente antes del inicio del segundo período de sesiones del Congreso. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría, es causa de responsabilidad en los términos de las leyes aplicables.
+Toda cuenta del erario estatal, y de los municipios deberá quedar concluída y glosada, anualmente, cuarenta y cinco días antes de concluir el primer período de sesiones del Congreso. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría, es causa de responsabilidad en los términos de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1099,7 +1095,7 @@ Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, lo
 
 Las sanciones consistirán en la destitución del servidos (sic) Público en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa la declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella Cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa la declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
 
 Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado de Sentencia, aplicará la sanción correspondiente, mediante reesolución (sic) de las dos terceras partes de los miembros presentes en la seesión (sic) una vez practicadas las diligencias correspondientes y con Audiencia del acusado.
 
@@ -1704,3 +1700,9 @@ P.O. 1 DE ENERO DE 1994.
 PRIMERO.- Las reformas a que se refiere este Decreto, fueron aprobadas en los términos del Artículo 83 de la propia Constitución.
 
 SEGUNDO.- El presente Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 1994.
+
+Primero.- Estas reformas y adiciones entrarán en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las reformas a que se refiere este Decreto fueron aprobadas en los términos del artículo 83 de la propia Constitución.
