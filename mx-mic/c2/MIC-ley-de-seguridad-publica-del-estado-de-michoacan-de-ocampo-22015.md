@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-publica-del-estado-de-michoacan-de-ocampo-2201
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-21"
-last_updated: "1999-10-21"
+last_updated: "2002-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE POLICIA Y TRANSITO DEL ESTADO DE MICHOACAN, PUBLICADO EN EL PERIODICO OFICIAL EL 18 DE SEPTIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial, el jueves 21 de octubre de 1999.
 
@@ -970,3 +972,37 @@ DIPUTADO PRESIDENTE.- JAIME ESPARZA CORTINA.- DIPUTADO SECRETARIO.- DANIEL RANGE
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán, a los 5 cinco días del mes de Octubre de 1999, mil novecientos noventa y nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados)
+
+P.O. 18 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública del Estado de Michoacán de Ocampo, aprobada por el Congreso del Estado el día 13 de septiembre de 1999, publicada en el Periódico Oficial del Estado el día 21 de octubre de 1999 y sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de la Ley de Policía y Tránsito del Estado de Michoacán, aprobada por el Congreso del Estado el día 14 de marzo de 1978, publicada en el Periódico Oficial del Estado el día 30 de marzo de 1978 y sus posteriores reformas y adiciones, en cuanto se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Para la transferencia de la prestación del servicio de seguridad pública, el Gobernador del Estado y los ayuntamientos, deberán celebrar convenio estableciendo los mecanismos operativos y las disposiciones normativas, en tanto se expiden los reglamentos municipales.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá emitir el decreto de creación del organismo público descentralizado denominado Policía Auxiliar, dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En materia de seguridad privada el Ejecutivo del Estado enviará la iniciativa de ley reglamentaria al Congreso del Estado en un plazo de sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los reglamentos de esta Ley deberán emitirse por el Gobernador del Estado, dentro de los ciento ochenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expida la Ley reglamentaria en materia de Seguridad Privada continuarán aplicándose las disposiciones de la Ley de Seguridad Pública del Estado, y demás reglamentos en tanto que no se opongan a la presente Ley.
