@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1989-05-04"
+last_updated: "1990-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 1990.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -271,13 +271,13 @@ DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cab
 
 DECIMANOVENA ZONA REGISTRAL.- Que comprende los municipios de San Andrés Tuxtla (cabecera), Catemaco, Hueyapan de Ocampo, Juan Rodríguez Clara y Santiago Tuxtla.
 
-> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 1990)</small>
 
-VIGESIMA ZONA REGISTRAL.- Que comprende los municipios de: Acayucan (cabecera), Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan y Texistepec.
+VIGESIMA ZONA REGISTRAL.- Que comprende los municipios de: Acayucan (cabecera), Jesús Carranza, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco y Texistepec.
 
-> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 1990)</small>
 
-VIGESIMAPRIMERA ZONA REGISTRAL.- Que comprende los municipios de: Coatzacoalcos (cabecera), Agua Dulce, Cosoleacaque, Chinameca, Las Choapas, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oteapan, Pajapan y Zaragoza.
+VIGESIMAPRIMERA ZONA REGISTRAL.- Que comprende los municipios de: Coatzacoalcos (cabecera), Agua Dulce, Las Choapas, Ixhuatlán del Sureste, Moloacán, Nanchital de Lázaro Cárdenas del Río y Pajapan.
 
 > <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
@@ -286,6 +286,10 @@ VIGESIMASEGUNDA ZONA REGISTRAL.- Que comprende los municipios de: Amatlán Tuxpa
 > <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
 VIGESIMATERCERA ZONA REGISTRAL.- Que comprende los municipios de: Tlacotalpan (cabecera), Amatitlán, Angel R. Cabada, Lerdo de Tejada y Saltabarranca.
+
+> <small>(ADICIONADO, G.O. 17 DE MAYO DE 1990)</small>
+
+VIGESIMACUARTA ZONA REGISTRAL.- Que comprende los municipios de: Minatitlán (cabecera), Cosoleacaque, Chinameca, Hidalgotitlán, Jaltiplan, Mecayapan, Otepan, Sotepan y Zaragoza.
 
 ###### ARTICULO 20.
 
@@ -676,3 +680,17 @@ Cualquier problema que surja con motivo de la aplicación de este precepto, lo r
 ###### ARTICULO SEGUNDO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 17 DE MAYO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Las inscripciones que deban realizarse en oficinas distintas a la que correspondía conforme a la Ley que se reforma, se sujetarán al procedimiento establecido en el artículo primero transitorio del Decreto número 448, publicado en la 'Gaceta Oficial' del Estado número 53 del 4 de mayo de 1989.
+
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
