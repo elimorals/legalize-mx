@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1990-07-04"
+last_updated: "1991-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 1991.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -465,7 +465,7 @@ XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del 
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida.
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -569,7 +569,7 @@ XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere
 
 > <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva.
+XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva;
 
 > <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -1131,7 +1131,7 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 ## TITULO OCTAVO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 1991)</small>
 
 ## TITULO NOVENO. De las responsabilidades de los Servidores Públicos
 
@@ -1297,7 +1297,15 @@ Los municipios de un mismo Estado, previo acuerdo entre sus ayuntamientos y con 
 
 ###### Artículo 86.
 
-El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados, y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma.
+El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma.
+
+El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes principios:
+
+I.- Los habitantes del Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la ley de la materia;
+
+II.- A ninguna persona se le puede obligar a llevar a cabo actividades que ocasionen o puedan ocasionar deterioro al ambiente, en los términos que señale la Ley de la materia; y
+
+III.- Los habitantes del Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1329,9 +1337,9 @@ VII.- Propugnar el mejoramiento de los trabajadores a su servicio a fin de que a
 
 VIII.- participar en lo concerniente a su régimen interior al desarrollo nacional, conforme a los principios que establece el Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, D.O. 1 DE MARZO DE 1991)</small>
 
-IX.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática;
+IX.- Organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía, de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática, sobre bases que aseguren la conservación y uso racional de los recursos naturales, la salud del ambiente y el desarrollo sostenido.
 
 > <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
 
@@ -1942,3 +1950,9 @@ En un plazo no mayor de sesenta días deberá expedirse la Ley Reglamentaria del
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial el Gobierno del Estado.
+
+D.O. 1 DE MARZO DE 1991.
+
+PRIMERO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
