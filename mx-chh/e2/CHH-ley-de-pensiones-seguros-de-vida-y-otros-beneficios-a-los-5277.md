@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-5277"
 country: "mx"
 rank: "ley"
 publication_date: "1960-11-19"
-last_updated: "1960-11-19"
+last_updated: "1975-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION MEXICANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 1960.
 
@@ -47,7 +47,9 @@ I.- Preferencia para ocupar empleos en los Gobiernos del Estado y Municipales, s
 
 Los veteranos burócratas tendrán también prioridad en los ascensos de la unidad donde presten sus servicios.
 
-II.- Pensión vitalicia de $300.00 mensuales.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1975)</small>
+
+II.- La pensión vitalicia de $1,100.00 mensuales.
 
 III.- Servicio médico-quirúrgico gratuito en las instituciones oficiales, incluyendo hospitalización y medicamentos para el veterano y sus familiares consanguíneos en línea recta.
 
@@ -126,3 +128,9 @@ Por lo tanto mando se imprima, publique, circule, y se le dé el debido cumplimi
 Palacio de Gobierno del Estado.- Chihuahua, 19 de noviembre de 1960.
 
 TEOFILO BORUNDA.- El Srio. Gral. De Gbno., LIC. JOSE LUIS SIQUEIROS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 1975.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
