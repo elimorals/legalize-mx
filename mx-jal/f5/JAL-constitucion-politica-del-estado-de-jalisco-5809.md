@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1935-03-21"
+last_updated: "1939-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1939.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -249,17 +249,21 @@ VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédit
 
 VII. Hacer el escrutinio de los votos emitidos en la elección de Gobernador; calificar dicha elección y declarar electo al que haya obtenido mayoría.
 
-VIII. Elegir a los Magistrados del Supremo Tribunal de Justicia, obrando como Colegio Electoral.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
+
+VIII. Aprobar o rechazar los nombramientos de Magistrados al Tribunal Superior de Justicia que expida el Ejecutivo; y en su caso designarlos dentro de las ternas que éste le proponga.
 
 IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
 X. Convocar a elecciones cuando fuere necesario, y decidir sobre la legalidad de éstas; y en caso de que se represente contra ella, resolver lo conducente.
 
-XI. Conocer de la renuncia de los Diputados, del Gobernador y de los Magistrados.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
+XI. Conocer de las renuncias de los Diputados y del Gobernador y de los Magistrados que hayan sido previamente aceptadas por el Ejecutivo.
 
-XII. Otorgar licencias a los Funcionarios de que habla la fracción anterior para separarse de sus cargos, siendo la de los Magistrados por más de dos meses; y conceder permiso al Gobernador para permanecer fuera del Territorio del Estado; si la ausencia excede de noventa y seis (96) horas. En este caso se nombrará un Gobernador Substituto.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1939)</small>
+
+XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos y además a éste último para permanecer fuera del territorio del Estado. Conocer de las licencias que por más de dos meses conceda el Ejecutivo a los Magistrados.
 
 XIII. Erigirse en Jurado de Acusación, o de acusación y de sentencia, en los casos que señalan los artículos 49, 50 y 51.
 
@@ -341,21 +345,27 @@ No podrá ser electo para el período inmediato el ciudadano que haya desempeña
 
 En el caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el periodo inmediato, siempre que no estuviere en el desempeño de aquellos, noventa días antes de celebrarse la elección.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+
 ###### Art. 29.
 
-En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resultare electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
+En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo, tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
 
-En las faltas temporales, y en las absolutas, mientras que se verifica la elección y se presenta el nuevamente electo, entrará a ejercer interinamente el Poder Ejecutivo, el ciudadano a quien nombre el Congreso, en escrutinio secreto, por mayoría absoluta de votos y obrando como Colegio Electoral. Cuando la falta absoluta del Gobernador ocurriere, en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo por designación de la Legislatura, seguirá encargado de él, hasta la conclusión de dicho período.
+En las faltas temporales que excedan de quince días y en las absolutas, mientras que se verifique la elección y se presenta el nuevamente electo, entrará a ejercer interinamente el Poder Ejecutivo, el ciudadano que nombre el Congreso en escrutinio secreto, por mayoría absoluta de votos y obrando como Colegio Electoral. Entre tanto la Legislatura hace la designación, el despacho quedará a cargo del Secretario de Gobierno.
+
+Cuando la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo por designación de la Legislatura, seguirá encargada de él, hasta la conclusión del período.
 
 ###### Art. 30.
 
 Si al comenzar un periodo constitucional, no se presentare el Gobernador o la elección no estuviere hecha y declarado el 1º de marzo, cesará sin embargo el Gobernador cuyo periodo hubiere concluido, y entonces, así como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo en Calidad de Gobernador Interino, el Magistrado que estuviere desempeñando la Presidencia del Supremo Tribunal de Justicia, mientras se hace la designación de que se habla en el artículo anterior y se presenta el designado.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
 ###### Art. 31.
 
-El Gobernador no puede separarse del Territorio del Estado, ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; pero cuando su ausencia del Territorio haya de durar menos de noventa y seis (96) horas, no necesitará el permiso ni se le considerará separado de sus funciones.
+El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta por quince días. Durante los primeros cinco de este término, no se le considerará separado de sus funciones; pero a partir del sexto, dará aviso de su separación o ausencia al Congreso o a la Diputación Permanente y el Secretario de Gobierno se hará cargo, del despacho, con las atribuciones que establezca la Ley Orgánica del Poder Ejecutivo.
+
+Sólo con permiso del Congreso o de la Diputación Permanente, podrá ausentarse del territorio del Estado o separarse de sus funciones por más de quince días.
 
 ###### Art. 32.
 
@@ -445,11 +455,15 @@ XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayo
 
 La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+
 ###### Art. 37.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por ellos mismos, en los términos que disponga la Ley Electoral. Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiese de funcionar, cuando menos durante seis meses anteriores al día de la elección.
+Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa, calificada por ellos mismos, en los términos que disponga la Ley Electoral.
 
-Los Munícipes durarán en su encargo, dos años, pero se renovarán por mitad cada año, comenzando por los que tengan número impar.
+Para ser electo Munícipe es requisito indispensable tener domicilio legal en el lugar en que hubiere de funcionar, cuando menos desde seis meses antes al día de la elección.
+
+Los Munícipes durarán en su encargo, dos años y se renovarán en su totalidad al final de cada período.
 
 Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
 
@@ -465,9 +479,11 @@ Su único superior gerárquico (sic) será el Gobierno del Estado, con quien se 
 
 El Poder Judicial del Estado, se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Jueces de Paz, y Jurados.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
+
 ###### Art. 40.
 
-El Supremo Tribunal de Justicia, funcionará en acuerdo pleno o en Salas, con el número de Magistrados, Propietarios y Suplentes, que fije la Ley.
+El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en Salas, con el número de Magistrados que fije la Ley.
 
 ###### Art. 41.
 
@@ -479,11 +495,25 @@ II. Ser abogado con título oficial, y tener cuando menos cinco años de prácti
 
 III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1935)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
 ###### Art. 42.
 
-Los magistrados serán electos por el Congreso constituido en Colegio Electoral, por mayoría absoluta de votos, en escrutinio secreto, y durarán en su encargo cuatro años, contados del primero de abril posterior a la elección. Los Magistrados y Jueces de Primera Instancia, que igualmente durarán cuatro años, sólo podrán ser removidos, o destituidos de su cargo, cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por la pérdida de alguna de las cualidades que para tales cargos exige la Ley, así como por ineptitud en el desempeño del cargo conferido, que calificará quien hubiere hecho el nombramiento.
+Los nombramientos de los Magistrados al Supremo Tribunal de Justicia, serán expedidos por el Gobernador y sometidos a la consideración del Congreso, el que otorgará o negará su aprobación dentro del improrrogable término de cinco días. Si no lo hiciere dentro de ese plazo, se tendrán por aprobados los nombramientos. Cuando el Congreso rechazare alguno el Gobernador propondrá una terna de candidatos uno de los cuales deberá ser electo por la Cámara dentro de cinco días. Si en ese tiempo no se hace la elección, el Gobernador expedirá el nombramiento definitivo en favor de cualquiera de los que hubieren figurado en la terna.
+
+No aceptado alguno de los tres por el Congreso, el Ejecutivo nombrará definitivamente a otra persona que no hubiere sido propuesta para la misma vacante.
+
+Cuando ocurra alguno de los casos previstos en el párrafo que antecede durante los recesos del Congreso, la Diputación Permanente ejercerá, con carácter provisional, las atribuciones que se asignan a aquél. Las determinaciones que tome serán sometidas a la Cámara en el período inmediato de sesiones.
+
+Los Magistrados y los Jueces durarán en el cargo cuatro años, a partir del primero de abril del año en que se inicie el período constitucional del Ejecutivo.
+
+Los que fueren designados en el curso del período durarán solamente hasta la conclusión del mismo.
+
+Los Magistrados y Jueces sólo podrán ser destituidos previo juicio de responsabilidad, cuando observen mala conducta, o cuando pierdan alguna de las cualidades que para esos cargos exige la Ley. Las causas de destitución serán calificadas; de los Magistrados por el Congreso, y de los Jueces por el Supremo Tribunal de Justicia.
+
+Independientemente de lo dispuesto en el párrafo anterior, el Gobernador podrá pedir al Congreso, la destitución de cualquier Magistrado o juez que observe mala conducta. Si el Congreso declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, sin perjuicio de que se le haga efectiva la responsabilidad en que hubiere incurrido.
+
+El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses; pero sus actos deberán ser ratificados por el Congreso o por la Comisión Permanente.
 
 ###### Art. 43.
 
@@ -680,3 +710,13 @@ P.O. 21 DE MARZO DE 1935.
 PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia en funciones, así como los Jueces de Primera Instancia, cesarán en su cargo el treinta y uno de marzo del corriente año, entrando a funcionar los electos al día siguiente.
 
 SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 25 DE MARZO DE 1939.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto surtirá efectos a partir del siguiente día a aquel en que se publique en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO.
+
+Las primeras elecciones para Munícipes a que se convoque en cada uno de los Municipios con posterioridad a la fecha en que entre en vigor este Decreto, se efectuarán con la advertencia de que los Munícipes que resultaren electos, sólo durarán en su cargo un año, a fin de que concluya su periodo al mismo tiempo que el de los demás Munícipes y pueda en lo sucesivo renovarse el Ayuntamiento en su totalidad cada dos años.
