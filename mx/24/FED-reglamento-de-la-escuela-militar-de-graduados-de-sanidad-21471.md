@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-graduados-de-sanidad-21471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "1994-11-22"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE GRADUADOS DE SANIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de noviembre de 1994.
 
@@ -41,9 +41,11 @@ La Escuela Militar de Graduados de Sanidad, es el establecimiento de educación 
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Militar de Graduados de Sanidad, depende del Alto Mando del Ejército y Fuerza Aérea a través de la Universidad del Ejército y Fuerza Aérea.
+La Escuela Militar de Graduados de Sanidad depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -51,9 +53,13 @@ La Escuela Militar de Graduados de Sanidad, depende del Alto Mando del Ejército
 
 La Escuela Militar de Graduados de Sanidad, tendrá los siguientes objetivos:
 
-I. Formar técnicos especializados, especialistas de la medicina y de la odontología, así como maestros y doctores en las ciencias biomédicas, que sean capaces de identificar y satisfacer las necesidades de atención en salud del personal del Ejército y Fuerza Aérea y sus derechohabientes en los diversos escalones del Servicio de Sanidad y de contribuir al desarrollo de técnicas y conocimientos biomédicos mediante el método científico;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Reafirmar en el personal en instrucción los conocimientos, habilidades y actitudes necesarios para desempeñar las funciones militares y administrativas que les correspondan de acuerdo con su jerarquía militar;
+I. Formar técnicos especializados, especialistas de la medicina y de la odontología y ciencias afines, así como maestros y doctores en las ciencias biomédicas, que sean capaces de identificar y satisfacer las necesidades de atención en salud del personal del Ejército y Fuerza Aérea y sus derechohabientes en los diversos escalones del Servicio de Sanidad y de contribuir al desarrollo de técnicas y conocimientos biomédicos mediante el método científico;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Reafirmar en el personal en instrucción los conocimientos, habilidades y aptitudes necesarios para desempeñar las funciones militares, administrativas y técnicas que les correspondan de acuerdo con su jerarquía militar;
 
 III. Realizar investigaciones biomédicas y fomentar en el personal en instrucción una actitud favorable a la investigación científica y a la difusión de los conocimientos;
 
@@ -87,11 +93,17 @@ Los cursos de Técnico Especializado y de Especialización y Residencia, tendrá
 
 Los estudios de maestría tendrán las siguientes finalidades:
 
-I. Preparar personal docente de alto nivel para las escuelas del servicio de Sanidad;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Proporcionar la formación en los métodos de investigación biomédica, y
+I. Preparar personal militar y civil, técnico y docente de alto nivel para las escuelas e instalaciones del Servicio de Sanidad; así como instituciones de salud y educativas nacionales y extranjeras;
 
-III. Desarrollar en el profesional una alta capacidad innovativa, técnica y metodológica.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Formar investigadores capaces de integrarse productivamente a un grupo de investigación, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Desarrollar en el personal profesional una alta capacidad innovadora, técnica y metodológica.
 
 ###### ARTICULO 7o.
 
@@ -109,9 +121,11 @@ En la Escuela Militar de Graduados de Sanidad, se podrán efectuar estudios de a
 
 Los programas de entrenamiento clínico tendrán la flexibilidad necesaria para estudiar los casos clínicos conforme se presenten en los servicios hospitalarios.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-El nivel de los estudios de la Escuela exigirá de los docentes y alumnos la realización de actividades de auto-enseñanza basados en el método tutelar, con una gran flexibilidad en su desarrollo de acuerdo a las modalidades que la práctica asistencial y las innovaciones científicas impongan, tomando como guía los planes y programas aprobados por la superioridad.
+El nivel de los estudios de la escuela exige de los docentes y alumnos la realización de actividades de auto-aprendizaje basados en el método tutelar, con una gran flexibilidad en su desarrollo de acuerdo a las modalidades que la práctica asistencial y las innovaciones científicas impongan, tomando como guía los planes y programas aprobados por la superioridad.
 
 ###### ARTICULO 12.
 
@@ -121,9 +135,11 @@ Para incrementar los conocimientos se programarán estadías y visitas en instit
 
 Se fomentará la participación del personal directivo, académico, de investigación y en instrucción en eventos científicos nacionales e internacionales de alto nivel, con la finalidad de promover la actualización, la educación continua y el intercambio científico y técnico.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 14.
 
-Las actividades académicas-prácticas se realizarán en diversos servicios de internamiento o consulta externa en instituciones hospitalarias militares o civiles y en los laboratorios de investigación de las Escuelas del Servicio de Sanidad o de otras instituciones civiles, militares, nacionales o extranjeras que apruebe la Universidad del Ejército y Fuerza Aérea.
+Las actividades académicas-prácticas se realizarán en diversos servicios de internamiento o consulta externa, en instituciones hospitalarias militares o civiles y en los laboratorios de investigación de las escuelas del Servicio de Sanidad o de otras instituciones civiles, militares, nacionales o extranjeras que apruebe la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ###### ARTICULO 15.
 
@@ -155,19 +171,21 @@ III. Subdirección de Investigación.
 
 Subdirector de Investigación.
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 IV. Sección de Investigación:
 
-A. Jefatura.
+A. Jefatura;
 
-B. Subsección de áreas de investigación.
+B. Subsección del Laboratorio Multidisciplinario de Investigación;
 
-C. Subsección de apoyos a la investigación.
+C. Subsección de Apoyos a la Investigación;
 
-D. Bioterio.
+D. Subsección de Maestrías y Doctorados en Ciencias Biomédicas;
 
-E. Taller de Bioelectrónica.
+E. Subsección de Bioterio, y
 
-F. Laboratorio Multidisciplinario de Investigación.
+F. Subsección del Taller de Bioelectrónica.
 
 V. Sección Pedagógica:
 
@@ -177,7 +195,7 @@ B. Subsección de Planes y Programas.
 
 C. Subsección Psicopedagógica.
 
-D. Subsección de Informática.
+D. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 E. Subsección de Difusión Científica Cultural.
 
@@ -197,7 +215,15 @@ F. Coordinación del Area Odontológica.
 
 G. Coordinación del Area de Enfermería.
 
-VII. Ayudantía General:
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Sección de Informática:
+
+A. Subsección de Bases de Datos, y
+
+B. Subsección de Administración de Red y Mantenimiento.
+
+VIII. Ayudantía General:
 
 A. Ayudante General.
 
@@ -205,7 +231,7 @@ B. Subayudantes.
 
 C. Servicios Técnicos.
 
-VIII. Sección Administrativa:
+IX. Sección Administrativa:
 
 A. Jefatura.
 
@@ -215,7 +241,7 @@ C. Subsección de Contabilidad, Recursos Materiales y Control de Bienes.
 
 D. Subsección de Archivo y Correspondencia.
 
-IX. Unidad Ejecutora de Pago.
+X. Unidad Ejecutora de Pago.
 
 ###### ARTICULO 18.
 
@@ -223,11 +249,29 @@ Deberá existir una Junta Técnico-Consultiva que se convocará por disposición
 
 I. Presidente.
 
-Subdirector de Estudios de Posgrado.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Subdirector de Estudios de Posgrado o de Investigación según corresponda.
 
 II. Vocales.
 
-El Subdirector de Investigación, los Jefes de las Secciones Pedagógica y Académica y un Jefe de Curso por cada una de las siguientes áreas: Medicina, Cirugía, Gineco-Obstetricia y Pediatría, Clínica Médico Quirúrgica, Odontología, Enfermería e Investigación.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 2001, SE MODIFICA EL SEGUNDO PARRAFO DE LA PRESENTE FRACCION, PARA QUEDAR CONFORMADO POR LOS INCISOS A) A D).</small>
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. El Subdirector de Investigación o de Estudios de Posgrado, según corresponda;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefe de la Sección Pedagógica;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Sección Académica, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefe de la Sección de Investigación.
 
 III. El Secretario será el vocal de menor jerarquía y antigüedad.
 
@@ -241,9 +285,11 @@ IV. En sus ausencias los vocales serán suplidos por los subjefes de sección o 
 
 La Dirección será el órgano rector de la Escuela Militar de Graduados de Sanidad a cargo de un General Médico Cirujano, egresado de la Escuela Médico Militar, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denominará Director.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-El Director tendrá las atribuciones y responsabilidades que señalen las leyes y reglamentos militares para los Comandantes de Cuerpo de Tropa y las siguientes:
+El Director de la Escuela Militar de Graduados de Sanidad tiene las mismas atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
 
 I. Representar a la Escuela Militar de Graduados de Sanidad;
 
@@ -251,15 +297,23 @@ II. Hacer cumplir las directivas que determine el Alto Mando del Ejército y Fue
 
 III. Coordinar las labores derivadas del Sistema Educativo Militar, comprendidas en el Plan General de Estudios del plantel;
 
-IV. Someter a consideración de la Rectoría de la Universidad del Ejército y Fuerza Aérea, los planes y programas de estudio necesarios para cubrir las características y rasgos del perfil de egreso requerido de los cursos que se impartan en la escuela, para su revisión, modificación y aprobación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-V. Proponer a la Rectoría de la Universidad del Ejército y Fuerza Aérea la creación, activación, modificación, receso o supresión de los cursos que se impartan en el plantel de acuerdo a las necesidades del Ejército y Fuerza Aérea Mexicanos;
+IV. Someter a consideración de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio necesarios para cubrir las características y rasgos del perfil de egreso requerido de los cursos que se impartan en la escuela para su revisión, modificación y aprobación;
 
-VI. Proponer a la Universidad del Ejército y Fuerza Aérea el intercambio científico y cultural con otros centros educativos similares;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea la creación, activación, modificación, receso o supresión de los cursos que se impartan en el plantel de acuerdo a las necesidades del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. proponer (sic) a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el intercambio científico y cultural con otros centros educativos similares;
 
 VII. Planear, organizar, ejecutar, supervisar y evaluar el proceso selectivo para el ingreso al plantel;
 
-VIII. Proponer a la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto y ejercerlo una vez aprobado;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto y ejercerlo una vez aprobado;
 
 IX. Emitir directivas a los jefes de los diferentes cursos, para la formulación de sus planes y programas de estudio, para su conducción y evaluación;
 
@@ -279,7 +333,9 @@ XVI. Proponer al personal del plantel que se haga acreedor a premios y recompens
 
 XVII. Rendir los dictámenes, opiniones e informes que le sean ordenados por la superioridad;
 
-XVIII. Observar y hacer que se observen las leyes y reglamentos militares, órdenes, directivas y políticas, así como aquellas disposiciones que regulen la organización y funcionamiento de la escuela;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Supervisar el cumplimiento de las leyes y reglamentos militares, órdenes, directivas y políticas, así como aquellas disposiciones que regulen la organización y funcionamiento de la escuela;
 
 XIX. Proponer y opinar de los movimientos de alta y baja del personal, para cubrir las necesidades internas del plantel;
 
@@ -307,7 +363,9 @@ I. Suplir en sus ausencias temporales al Director del plantel en el ejercicio de
 
 II. Desempeñarse como jefe de estudios del plantel;
 
-III. Presidir la Junta Técnico-Consultiva;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Presidir la Junta Técnica Consultiva cuando corresponda;
 
 IV. Coordinar la planeación, ejecución y evaluación del proceso enseñanza-aprendizaje;
 
@@ -325,7 +383,9 @@ X. Coordinar los programas de capacitación y actualización pedagógica del per
 
 XI. Revisar y someter a la consideración del Director los proyectos de planes y programas de estudio y de calendario escolar;
 
-XII. Convocar y presidir juntas de coordinación con el personal docente del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Convocar y presidir juntas de coordinación con el personal docente y académico del plantel;
 
 XIII. Proponer a los integrantes de los jurados para los exámenes señalados en el presente reglamento;
 
@@ -337,35 +397,61 @@ XVI. Proponer a la Dirección los movimientos internos del personal y
 
 XVII. Las demás que le señalen las leyes y reglamentos militares en sus partes aplicables a un 2o. comandante de cuerpo de tropa y las que le sean asignadas por la superioridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 24.
 
-El Subdirector de Investigación, suplirá en sus ausencias temporales al Director y Subdirector de Estudios de Posgrado, quien tendrá las atribuciones y responsabilidades siguientes:
+El Subdirector de Investigación suplirá las ausencias temporales del Director o Subdirector de Estudios de Posgrado según corresponda, quien tendrá las atribuciones y responsabilidades siguientes:
 
 I. Dirigir, supervisar y participar en la investigación biomédica que se lleve a cabo en el plantel, así como coordinar y dar apoyo técnico a las actividades relacionadas con la misma;
 
-II. Coordinar y supervisar los cursos de maestría y doctorado en ciencias biomédicas, incluyendo los trabajos de investigación o tesis;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Promover la difusión de los trabajos de investigación y revisiones críticas, de temas científicos biomédicos en publicaciones destinadas a la comunidad científica, a través de la Sección Pedagógica;
+II. Proporcionar los medios y los procedimientos para la realización de las actividades experimentales necesarias para la formación de los alumnos de maestría y doctorado en ciencias biomédicas;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Promover la difusión de los trabajos de investigación y revisiones críticas de temas científicos biomédicos en publicaciones destinadas a la comunidad científica;
 
 IV. Evaluar el desempeño del personal de investigación;
 
 V. Organizar actividades académicas, teóricas y prácticas de alto nivel, relacionadas con el avance de la investigación biomédica;
 
-VI. Las demás que le asigne el Director del plantel, con relación a la promoción de la investigación científica y
+VI. Las demás que le asigne el Director del plantel, con relación a la promoción de la investigación científica y (sic)
 
-VII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Constituir el ambiente científico necesario para la formación del personal científico de alto nivel y para la promoción de la ciencia en la formación de todos los alumnos del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Coordinar las actividades de investigación que se lleven a cabo con otras instituciones;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Presidir cuando corresponda por su jerarquía la Junta Técnica Consultiva, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO III. De la Sección de Investigación
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 25.
 
-La Sección de Investigación, dependerá de la Subdirección de Investigación, encargada de llevar a cabo los procedimientos experimentales relacionados con la investigación biomédica, así como administrar los recursos destinados a la investigación en el plantel, estará a cargo de un General o Coronel Médico Cirujano con doctorado en ciencias.
+La Sección de Investigación depende de la Subdirección de Investigación, encargada de llevar a cabo los procedimientos experimentales relacionados con la investigación biomédica en las diferentes áreas de investigación, está a cargo de un Jefe Médico Cirujano con doctorado en ciencias.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 26.
 
-El Jefe de la Sección de Investigación tendrá las siguientes funciones y responsabilidades:
+El Jefe de la Sección de Investigación de la Escuela Militar de Graduados de Sanidad tiene las atribuciones y responsabilidades siguientes:
 
-I. Dirigir el laboratorio multidisciplinario;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Dirigir el Laboratorio Multidisciplinario de Investigación;
 
 II. Coordinar los programas de investigación básica para el avance del conocimiento médico o de la solución de problemas relevantes de salud del Ejército y Fuerza Aérea;
 
@@ -391,13 +477,17 @@ XII. Las demás que le sean asignadas por la superioridad.
 
 ### CAPITULO IV. De la Sección Pedagógica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 27.
 
-La Sección Pedagógica será la encargada de la planeación y evaluación educativa de la Escuela Militar de Graduados de Sanidad, la cual estará a cargo de un Coronel egresado de las escuelas de formación del servicio, al que se le denominará Jefe de la Sección Pedagógica, quien además deberá tener experiencia académica y docente.
+La Sección Pedagógica será la encargada de la Planeación y Evaluación Educativa de la Escuela Militar de Graduados de Sanidad, la cual estará a cargo de un Jefe egresado de las escuelas de formación del servicio, al que se le denominará Jefe de la Sección Pedagógica, quien además deberá tener experiencia académica y docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 28.
 
-El Jefe de la Sección Pedagógica tendrá las siguientes funciones y responsabilidades:
+El Jefe de la Sección Pedagógica de la Escuela Militar de Graduados de Sanidad tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -423,7 +513,9 @@ XI. Supervisar y controlar el desarrollo de los trabajos de investigación o tes
 
 XII. Participar en la difusión científica y cultural de las actividades del plantel en coordinación con el Subdirector de Investigación;
 
-XIII. Concentrar, procesar y controlar en archivo, las calificaciones del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Analizar los resultados del rendimiento académico del personal de alumnos emitido por la Sección Académica a efecto de llevar a cabo la planeación y acciones subsecuentes;
 
 XIV. Generar la información estadística del plantel;
 
@@ -447,21 +539,29 @@ XXIII. Las demás que le sean asignadas por la superioridad.
 
 ### CAPITULO V. De la Sección Académica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 29.
 
-La Sección Académica será la encargada de la ejecución y control de los planes y programas de estudio de la Escuela Militar de Graduados de Sanidad, la cual estará a cargo de un Coronel egresado de las escuelas de formación del servicio, a quien se denominará Jefe de la Sección Académica, quien además deberá tener experiencia académica y docente.
+La Sección Académica es la encargada de la ejecución y control de los planes y programas de estudio de la Escuela Militar de Graduados de Sanidad, la cual está a cargo de un jefe egresado de las escuelas de formación del Servicio de Sanidad, a quien se denomina Jefe de la Sección Académica, quien además debe tener experiencia académica y docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 30.
 
-El Jefe de la Sección Académica tendrá las siguientes funciones y responsabilidades:
+El Jefe de la Sección Académica de la Escuela Militar de Graduados de Sanidad tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio del plantel;
 
-II. Controlar el avance programático de las diferentes asignaturas del plan de estudios;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Controlar en coordinación con la Sección Pedagógica el avance programático de las diferentes asignaturas de los planes de estudio de los cursos que se imparten en el plantel;
 
 III. Coordinar y supervisar las actividades que realice el personal en instrucción en las instituciones civiles, estadías, visitas y congresos que formen parte del desarrollo programático correspondiente;
 
-IV. Coordinar la elaboración oportuna de los títulos, certificados, diplomas y constancias, así como su remisión de la Universidad del Ejército y Fuerza Aérea para su aprobación y legalización;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Coordinar la elaboración oportuna de los títulos, certificados, diplomas y constancias, así como su remisión a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea para su aprobación y legalización;
 
 V. Coordinar y supervisar las evaluaciones parciales y finales que se hagan en los grupos pedagógicos del plantel;
 
@@ -485,17 +585,55 @@ XIV. Desarrollar funciones de enlace para actividades académicas dentro y fuera
 
 XV. Las demás que le sean asignadas por la superioridad.
 
-### CAPITULO VI. De la Ayudantía General
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VII. De la Sección Administrativa
+### CAPITULO V BIS. De la Sección de Informática
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 30 Bis.
+
+La Sección de Informática será la encargada de proporcionar el apoyo informático que se requiere en el plantel, la cual, estará a cargo de un Mayor o Capitán Primero del servicio de informática, a quien se le denominará Jefe de la Sección de Informática.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 30 Bis
+
+1.- El Jefe de la Sección de Informática tendrá las atribuciones y responsabilidades siguientes:
+
+I. Planear, coordinar y evaluar las acciones tendientes a proporcionar seguridad informática en el plantel;
+
+II. Organizar los sistemas de cómputo del plantel;
+
+III. Controlar y administrar la red o redes, así como las computadoras personales que no estén en la citada red;
+
+IV. Proporcionar mantenimiento preventivo a la red, terminales de cómputo aisladas y periféricos;
+
+V. Asesorar y apoyar a los demás órganos del plantel en la planeación, estructuración y puesta en marcha de instrumentos de evaluación técnico informáticos;
+
+VI. Apoyar a las actividades de docencia en el ámbito de informática y en la consulta a la red de internet;
+
+VII. Analizar, estructurar y proporcionar a los demás órganos del plantel las bases de datos que se requieran para el control administrativo, académico y disciplinario de los alumnos;
+
+VIII. Controlar el empleo correcto y adecuado de los medios informáticos, evitando el empleo inadecuado por parte de los operadores;
+
+IX. Coordinar los programas de capacitación informática de los operadores de equipo de cómputo;
+
+X. Administrar los recursos humanos e informáticos para proporcionar apoyo administrativo a las demás secciones del plantel en los trabajos de captura e impresión, y
+
+XI. Las que le sean asignadas por la Dirección del plantel.
+
+### CAPITULO VI. De la Ayudantía General
 
 ###### ARTICULO 31.
 
 La Ayudantía General de la Escuela Militar de Graduados de Sanidad, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, estará a cargo de un Jefe de Arma o del Servicio de Sanidad, a quien se le denominará Ayudante General.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 32.
 
-El Ayudante General tendrá las siguientes funciones y responsabilidades:
+El Ayudante General de la Escuela Militar de Graduados de Sanidad tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta;
 
@@ -521,15 +659,19 @@ XI. Coordinar sus actividades con los órganos y secciones del plantel y
 
 XII. Las demás que le sean asignadas por la superioridad.
 
-### CAPITULO VIII. De la Unidad Ejecutora de Pago
+### CAPITULO VII. De la Sección Administrativa
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-La Sección Administrativa de la Escuela Militar de Graduados de Sanidad, será la encargada del apoyo administrativo del plantel, la cual estará a cargo de un Jefe del servicio de sanidad, a quien se le denominará Jefe de la Sección Administrativa.
+La Sección Administrativa de la Escuela Militar de Graduados de Sanidad es la encargada del apoyo administrativo del plantel, la cual está a cargo de un jefe u oficial del Servicio de Sanidad u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-El Jefe de la Sección Administrativa tendrá las siguientes funciones y responsabilidades:
+El Jefe de la Sección Administrativa de la Escuela Militar de Graduados de Sanidad tiene las atribuciones y responsabilidades siguientes:
 
 I. Reclutar al personal que se requiera para cubrir las necesidades del plantel;
 
@@ -537,7 +679,9 @@ II. Elaborar y tramitar la documentación que se genere con motivo de los movimi
 
 III. Elaborar la documentación relacionada con los bienes muebles e inmuebles, armamento, municiones, vestuario, equipo y vehículos de cargo en el plantel;
 
-IV. Fungir como controlador de bienes muebles;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Fungir como controlador de bienes muebles, en la formulación y supervisión de inventarios y elaboración estricta de resguardos y comprobación de la existencia del material y equipo altamente especializado del Laboratorio Multidisciplinario de Investigación;
 
 V. Elaborar y tramitar la documentación contable del plantel;
 
@@ -563,21 +707,31 @@ XV. Coordinar sus actividades con los órganos y secciones del plantel y
 
 XVI. Las demás que le sean asignadas por la superioridad.
 
-### CAPITULO IX. De la Junta Técnico-Consultiva
+### CAPITULO VIII. De la Unidad Ejecutora de Pago
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-La Unidad Ejecutora de Pago será el órgano encargado de proporcionar el servicio de pago de haberes y demás percepciones al personal, estará a cargo de un Jefe u Oficial Pagador a quien se denominará Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea, y normará su estructura y funcionamiento, de conformidad con las disposiciones legales aplicables y directivas de la superioridad.
+La Unidad Ejecutora de Pago de la Escuela Militar de Graduados de Sanidad está a cargo de un jefe u oficial pagador nombrado por el Alto Mando, a quien se denomina Jefe de la Unidad Ejecutora de Pago.
 
-### CAPITULO I. Clasificación
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 35 Bis.
+
+El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+
+### CAPITULO IX. De la Junta Técnico-Consultiva
 
 ###### ARTICULO 36.
 
 La Junta Técnico-Consultiva será el órgano colegiado que asesorará al Director en materia pedagógica y académica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 37.
 
-La Junta Técnico-Consultiva tendrá las siguientes funciones y responsabilidades:
+La Junta Técnica-Consultiva tiene las atribuciones y responsabilidades siguientes:
 
 I. Proponer directivas y normas para mejorar la organización, funcionamiento y administración de la escuela;
 
@@ -593,33 +747,49 @@ VI. En los casos especiales, podrá recurrir a otras fuentes de asesoramiento.
 
 ## TITULO CUARTO. Del Personal
 
-### CAPITULO II. Del Personal Directivo y Académico
+### CAPITULO I. Clasificación
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F.22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 38.
 
-El personal de la Escuela Militar de Graduados de Sanidad se clasificará en:
+El personal de la Escuela Militar de Graduados de Sanidad se clasifica como sigue:
 
 I. Directivo:
 
-A. Director.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Director, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE JUNIO DE 2001)</small>
 
 B. Subdirectores.
 
 II. Académico:
 
-A. Jefe de la Sección Pedagógica.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 2001, EL PRESENTE INCISO QUEDA COMPRENDIDO POR LOS ANTERIORES INCISOS A Y B, RECORRIENDO SU NUMERACION EL SUBSECUENTE.</small>
 
-B. Jefe de la Sección Académica.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Jefes de Subsecciones de las Secciones Pedagógica y Académica.
+A. Jefes de las secciones Pedagógica y Académica, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefes de subsecciones de las Secciones Pedagógica y Académica.
 
 III. Docente:
 
-A. Jefes de Curso.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-B. Profesores.
+A. Profesores.
 
-C. Instructores.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Instructores, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefes y Coordinadores de Curso.
 
 IV. De Investigación:
 
@@ -633,7 +803,9 @@ V. En Instrucción:
 
 A. Militares y Civiles Nacionales.
 
-B. Becarios Extranjeros.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Becarios extranjeros (civiles y militares).
 
 VI. Administrativo:
 
@@ -641,23 +813,33 @@ A. Ayudante General.
 
 B. Jefe de la Sección Administrativa.
 
-C. Jefe de la Unidad Ejecutora de Pago.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Sección de Informática, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefe de la Unidad Ejecutora de Pago.
 
 VII. De la Planta.
 
-Personal de los servicios técnicos, administrativos y generales y aquellos otros que coadyuven en su organización y funcionamiento.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO III. Del Personal Docente
+Está constituido por personal de los servicios técnicos, administrativos, generales y aquel otro no incluido en la clasificación anterior.
+
+### CAPITULO II. Del Personal Directivo y Académico
 
 ###### ARTICULO 39.
 
 El personal directivo y académico tendrá las atribuciones y responsabilidades que establezcan las leyes y reglamentos militares para su jerarquía, las señaladas en el presente reglamento y las demás disposiciones aplicables que emita la superioridad.
 
-### CAPITULO IV. Del Personal de Investigación
+### CAPITULO III. Del Personal Docente
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 40.
 
-Al personal docente corresponderá la planeación, ejecución y evaluación del proceso enseñanza-aprendizaje. Tendrá las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para su jerarquía, las señaladas en el presente reglamento y las demás disposiciones aplicables que emita la superioridad.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
 
 ###### ARTICULO 41.
 
@@ -671,13 +853,23 @@ III. Profesor Ayudante.
 
 IV. Profesor Invitado.
 
-### CAPITULO V. Del Personal en Instrucción
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Profesor Honorario, o
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Emérito.
+
+### CAPITULO IV. Del Personal de Investigación
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 42.
 
-Los investigadores serán militares del servicio de sanidad o personal civil autorizado por el Alto Mando del Ejército y Fuerza Aérea, cuya función primordial será la planeación, ejecución o análisis del desarrollo de líneas experimentales, de acuerdo a su nivel académico.
+Los investigadores serán personal militar o civil, nacionales o extranjeros, autorizados por el Alto Mando del Ejército y Fuerza Aérea, cuya función primordial será la planeación, ejecución o análisis del desarrollo de líneas experimentales, de acuerdo a su nivel académico.
 
-### CAPITULO VI. Del Personal Administrativo y de la Planta
+### CAPITULO V. Del Personal en Instrucción
 
 ###### ARTICULO 43.
 
@@ -695,9 +887,11 @@ II. Civil:
 
 Nacional y Extranjero autorizado por el Alto Mando.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 44.
 
-El personal en instrucción además de lo establecido en la legislación militar y las disposiciones aplicables que emita la superioridad, tendrá las funciones siguientes:
+El personal en instrucción además de lo establecido en la legislación militar y las disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a todas sus actividades;
 
@@ -717,19 +911,7 @@ Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo h
 
 El personal en instrucción estará asignado para el desarrollo de sus actividades académicas y de investigación a diversas áreas y servicios donde se desarrollen las actividades fundamentales del curso correspondiente y que podrán ser hospitales militares, el laboratorio multidisciplinario de investigación, el departamento de salud pública del plantel o las instalaciones civiles que requiera el desarrollo del curso y sean autorizadas por el Alto Mando. Todo el personal en instrucción estará en calidad de externo.
 
-### CAPITULO I. Requisitos para la admisión
-
-ARTICULOS (SIC) 48.- Los Médicos Cirujanos Militares, para realizar cursos de especialización y residencia, deberán reunir los siguientes requisitos:
-
-I. Ser egresados de la Escuela Médico Militar, o encontrarse veteranizados si no lo son;
-
-II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado;
-
-III. La convocatoria anual para el ingreso a la escuela deberá señalar aquellos cursos para cuya realización es necesario el haber efectuado un tiempo previo de residencia en Cirugía, Medicina Interna, Pediatría o Gineco-Obstetricia, cuya duración será fijada en la misma convocatoria;
-
-IV. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el resultado de los exámenes de admisión; y
-
-V. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
+### CAPITULO VI. Del Personal Administrativo y de la Planta
 
 ###### ARTICULO 47.
 
@@ -737,7 +919,25 @@ El personal Administrativo y de la Planta de la Escuela Militar de Graduados de 
 
 ## TITULO QUINTO. De la Admisión
 
-### CAPITULO II. De la Convocatoria e Instructivo de Admisión
+### CAPITULO I. Requisitos para la admisión
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 48.
+
+Los Médicos Cirujanos Militares, para realizar cursos de especialización y residencia, deberán reunir los siguientes requisitos:
+
+I. Ser egresados de la Escuela Médico Militar, o encontrarse veteranizados si no lo son;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado o la especialidad y residencia en medicina integral y de urgencia;
+
+III. La convocatoria anual para el ingreso a la escuela deberá señalar aquellos cursos para cuya realización es necesario el haber efectuado un tiempo previo de residencia en Cirugía, Medicina Interna, Pediatría o Gineco-Obstetricia, cuya duración será fijada en la misma convocatoria;
+
+IV. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el resultado de los exámenes de admisión; y
+
+V. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
 
 ###### ARTICULO 49.
 
@@ -745,7 +945,9 @@ Los Cirujanos Dentistas Militares, para realizar cursos de especialización y re
 
 I. Ser egresado de la Escuela Militar de Odontología, o encontrarse veteranizado si no lo es;
 
-II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado en odontología para aquellos egresados de la Escuela Militar de Odontología a partir de 1993;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado en odontología para aquellos egresados de la Escuela Militar de Odontología a partir de 1993 o especialidad y residencia en odontología integral y de urgencia;
 
 III. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el resultado de los exámenes de admisión y
 
@@ -757,7 +959,7 @@ Los oficiales de sanidad y enfermeras militares, para realizar cursos de técnic
 
 I. Ser egresado de las escuelas militar de enfermeras o militar de oficiales de sanidad;
 
-II. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el resultado de los exámenes de admisión y
+II. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 III. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
 
@@ -773,13 +975,19 @@ III. Ser egresado de una escuela de medicina, odontología o enfermería con rec
 
 IV. Acreditar buena conducta;
 
-V. Presentar y aprobar examen cultural profesional y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Cumplir con los demás requisitos aplicables de la convocatoria de admisión correspondiente.
+V. Cumplir con los demás requisitos aplicables de la convocatoria de admisión correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Presentar y aprobar el examen de conocimientos profesionales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 52.
 
-Podrá ingresar a la maestría en ciencias, el personal militar o civil, nacional o extranjero que acredite la licenciatura en alguna rama relacionada con las ciencias biomédicas o químico-biológicas. Los militares y civiles nacionales se seleccionarán mediante un concurso de admisión cuyas bases serán establecidas cada año en la convocatoria correspondiente. Los extranjeros además de cumplir con el requisito de la licenciatura serán admitidos de conformidad a lo señalado en este reglamento.
+Podrá ingresar a la maestría en ciencias el personal militar o civil, nacional o extranjero que acredite la licenciatura en alguna rama relacionada con las ciencias biomédicas o químico-biológicas; los militares y civiles nacionales se seleccionarán mediante un concurso de admisión cuyas bases serán establecidas en la convocatoria anual correspondiente, los extranjeros además de cumplir con el requisito de la licenciatura serán admitidos de conformidad a lo señalado en este Reglamento.
 
 ###### ARTICULO 53.
 
@@ -789,9 +997,13 @@ I. Acreditar la maestría en alguna rama relacionada con las ciencias biomédica
 
 II. La admisión al doctorado podrá ser directa para aquellos alumnos de maestría que a juicio del jurado de su examen final de grado, acrediten un nivel de excelencia para realizar una investigación original y sean propuestos para ese fin por el jurado del comité de admisión;
 
-III. Para el ingreso al doctorado de aquellas personas que no cubran los requisitos señalados en las fracciones anteriores, será necesario que tengan el grado de maestría en ciencias biomédicas o su equivalente curricular y será mediante la aprobación de un examen individual oral y escrito ante un jurado formado por cinco investigadores designados por el director del plantel y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Presentar y aprobar los exámenes médico, físico y psicológico.
+III. Para el ingreso al doctorado de aquellos profesionales que no cubran los requisitos señalados en las fracciones anteriores, será necesario que tengan el grado de maestría en ciencias biomédicas o su equivalente curricular y será mediante la aprobación de un examen individual oral y escrito ante un jurado formado por cinco investigadores designados por el Director del plantel, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Presentar y aprobar los exámenes médico, físico y psicológico que correspondan.
 
 ###### ARTICULO 54.
 
@@ -801,7 +1013,7 @@ El doctorado en ciencias biomédicas tendrá una duración mínima de un año y 
 
 El personal que haya efectuado un curso en el plantel, sólo podrá efectuar un nuevo curso, si está relacionado con el anterior y si las necesidades del servicio lo requieren.
 
-### CAPITULO III. De la Comisión de Admisión
+### CAPITULO II. De la Convocatoria e Instructivo de Admisión
 
 ###### ARTICULO 56.
 
@@ -823,11 +1035,13 @@ V. Bibliografía y temario de estudio.
 
 VI. Disposiciones generales.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 57.
 
-El número de vacantes de cada curso será fijado por el Alto Mando de acuerdo a las necesidades de personal especializado para cubrir los cuadros del Ejército y Fuerza Aérea Mexicanos.
+El número de vacantes para personal militar de cada curso será fijado por el Alto Mando, de acuerdo a las necesidades de personal especializado para cubrir los cuadros del Ejército y Fuerza Aérea Mexicanos, en el caso del personal civil y extranjero está sujeto a la aprobación de la Secretaría de la Defensa Nacional.
 
-### CAPITULO IV. Del Concurso de Admisión
+### CAPITULO III. De la Comisión de Admisión
 
 ###### ARTICULO 58.
 
@@ -865,15 +1079,17 @@ III. Dar amplia difusión a la convocatoria e instructivo de admisión, en todos
 
 IV. Tramitar las solicitudes para los aspirantes a presentar los exámenes de admisión;
 
-V. Elaborar el banco de preguntas y formular los cuestionarios para la aplicación del examen cultural profesional;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Aplicar los exámenes de admisión del plantel;
+V. Proponer al personal docente para elaborar el banco de preguntas y formular los cuestionarios para la aplicación del examen de conocimientos profesionales;
 
-VII. Calificar los resultados de los exámenes de admisión y
+VI. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
+
+VII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 VIII. Comunicar los resultados del examen de admisión.
 
-### CAPITULO I. Generalidades
+### CAPITULO IV. Del Concurso de Admisión
 
 ###### ARTICULO 60.
 
@@ -883,11 +1099,19 @@ I. Médico;
 
 II. Físico;
 
-III. Psicológico;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Cultural Profesional y
+III. Entrevista;
 
-V. Los demás que señale la convocatoria correspondiente.
+IV. Psicológico;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Conocimientos profesionales, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Los demás que señala la convocatoria correspondiente.
 
 ###### ARTICULO 61.
 
@@ -897,17 +1121,25 @@ El examen médico tiene por objeto comprobar el estado general de salud y funcio
 
 El examen físico, tiene por objeto determinar que el concursante reúna las características necesarias y aptitud suficiente para resistir las fatigas propias de la carrera militar, el resultado lo clasificará como "APTO" o "NO APTO", eliminándose del concurso al "NO APTO".
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 62 Bis.
+
+La entrevista tiene por objeto explorar la motivación, interés y la idoneidad del perfil profesional del aspirante para realizar la especialidad, así como su capacidad de respuesta a situaciones de presión y el resultado lo clasifica el Jefe de Curso o de Área como "apto" o "no apto", eliminándose del concurso al "no apto".
+
 ###### ARTICULO 63.
 
 El examen psicológico, tiene por objeto clasificar al concursante de acuerdo con sus rasgos de personalidad, aptitudes específicas y nivel de capacidad intelectual, el resultado lo clasificará como "APTO" o "NO APTO", eliminándose del concurso al "NO APTO".
 
+> <small>(REFORMADO, D.O.F.22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 64.
 
-El examen cultural profesional, tendrá por objeto seleccionar al personal que posea mayores conocimientos inherentes al curso que pretende realizar, siendo admitidos los que obtengan los promedios más altos.
+El examen de conocimientos profesionales tiene por objeto seleccionar al personal que posea mayores conocimientos inherentes al curso que pretende realizar, siendo admitidos los que obtengan los promedios más altos.
 
 ## TITULO SEXTO. Del Proceso Enseñanza-Aprendizaje
 
-### CAPITULO II. De la Ejecución
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 65.
 
@@ -921,51 +1153,69 @@ La planeación del proceso enseñanza-aprendizaje en la Escuela Militar de Gradu
 
 La planeación didáctica, es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos señalados en los planes y programas de estudio.
 
-### CAPITULO III. De la Evaluación
+### CAPITULO II. De la Ejecución
 
 ###### ARTICULO 68.
 
 La ejecución del proceso enseñanza-aprendizaje, tiene por objeto la correcta coordinación y aplicación del contenido de los planes y programas de estudio a través de la interacción del personal docente y en instrucción.
 
-### CAPITULO I. De las Faltas de Asistencia Académica
+### CAPITULO III. De la Evaluación
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 69.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
+La evaluación tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
 
 ###### ARTICULO 70.
 
 La evaluación académica que se hará a lo largo de los cursos, contempla la aplicación de los exámenes siguientes:
 
-I. Exámenes parciales;
+I. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
-II. Evaluación mensual del desempeño hospitalario;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Exámenes finales;
+II. Evaluación mensual de materia y del desempeño práctico;
 
-IV. Exámenes para técnico y de especialización;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Exámenes finales de materia;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Exámenes profesionales para cursos de técnicos y de especialización;
 
 V. Exámenes de avance de proyecto de investigación para alumnos de maestría y doctorado;
 
 VI. Examen predoctoral; y
 
-VII. Exámenes de maestría y doctorado.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Exámenes de grado de maestría y doctorado.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 71.
 
-Son exámenes parciales los que se aplican en forma oral o escrita al personal en instrucción al término de cada una de las unidades de enseñanza en que se divida una materia.
+La evaluación mensual se realiza en forma oral, escrita, teórica o práctica o cualquier combinación de estas modalidades de acuerdo a los objetivos y contenido del programa correspondiente.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 72.
 
-La evaluación mensual del desempeño hospitalario en los cursos de Técnico Especializado y de Especialización y Residencia es aquella que realizan los profesores del curso, en coordinación con el personal residente de la institución, respecto a la calidad de las actividades del alumno en cada uno de los servicios en que realice su rotación.
+La evaluación mensual del desempeño práctico en los cursos de técnico especializado y de residencia y de especialización es aquella que realizan los profesores del curso, en coordinación con el personal asignado en cada una de las áreas, respecto a la calidad de las actividades que efectúen los alumnos.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 73.
 
-Los exámenes finales son aquellos que se aplican al término de una materia y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
+Los exámenes finales de materia son aquellos que se aplican al término de una asignatura y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 74.
 
-Los exámenes para Técnico Especializado y de Especialización y Residencia, son los que se aplican al terminar el curso respectivo, y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
+Los exámenes profesionales para técnico especializado y de especialización y residencia, son los que se aplican al terminar el curso respectivo y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
 
 ###### ARTICULO 75.
 
@@ -975,21 +1225,35 @@ Los exámenes de avance de proyecto de investigación son los que presentan los 
 
 Los exámenes predoctorales son los que realizan los alumnos de doctorado al término del primer semestre de estudios y tienen la finalidad de evaluar la calidad científica, viabilidad y pertinencia del proyecto de investigación; la idoneidad del alumno para realizar trabajos de investigación originales, así como la duración del proyecto.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 77.
 
-Los exámenes de maestría y doctorado se realizarán al cumplir con todos los créditos y escribir la tesis de investigación correspondiente a dichos grados.
+Los exámenes de maestría y doctorado se realizarán al cumplir con todos los créditos y elaborar la tesis de investigación correspondiente a dichos grados.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 78.
 
-Las calificaciones de los exámenes parciales y finales y de las evaluaciones mensuales serán numéricas, comprendidas entre "CERO y DIEZ", con un decimal, siendo la mínima aprobatoria de OCHO PUNTO CERO.
+Las calificaciones obtenidas en las evaluaciones mensuales y finales son numéricas comprendidas entre "cero y diez" con un decimal, siendo la mínima aprobatoria de ocho punto cero.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 79.
 
-Los jurados para los exámenes de técnico especializado, de especialización y residencia, maestría y doctorado, estarán integrados por un residente, tres vocales y un secretario, quienes serán nombrados por el Director del plantel.
+Los jurados para los exámenes profesionales de técnico especializado, de especialización y residencia, de avance de proyecto de investigación de maestría y doctorado, estarán integrados por un presidente, tres vocales y un secretario, quienes son propuestos por los respectivos jefes de cursos y aprobados por el Director del plantel.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 79 Bis.
+
+Los jurados para exámenes finales de materia, de los cursos para técnico especializado, de especialización y residencia, de maestría y doctorado están integrados por un presidente, un vocal y un secretario, quienes son nombrados por el Director del plantel.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 80.
 
-Los resultados de los exámenes para técnico especializado, especialización y residencia, maestría y doctorado, quedarán registrados en el libro de actas correspondiente en los siguientes términos:
+Los resultados de los exámenes profesionales y de tesis para técnico especializado, especialización y residencia, maestría y doctorado, quedarán registrados en el libro de actas correspondiente en los términos siguientes:
 
 I. Aprobado con mención honorífica;
 
@@ -1005,7 +1269,7 @@ En los exámenes de maestría se anotará, además, si el jurado recomienda el p
 
 ## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
 
-### CAPITULO II. De las Bajas
+### CAPITULO I. De las Faltas de Asistencia Académica
 
 ###### ARTICULO 82.
 
@@ -1031,7 +1295,7 @@ El personal en instrucción que falte justificadamente a los exámenes, tendrá 
 
 El personal en instrucción que falte injustificadamente a cualquiera de los exámenes, se le calificará con "CERO".
 
-### CAPITULO III. De los Reingresos
+### CAPITULO II. De las Bajas
 
 ###### ARTICULO 88.
 
@@ -1043,13 +1307,19 @@ II. Estar comprendido en alguna de las causales de baja señaladas en la Ley Org
 
 III. Observar mala conducta determinada por el Consejo de Honor para Oficiales y por el Director para los Generales, Jefes y Civiles;
 
-IV. Reprobar tres exámenes parciales en una materia;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Reprobar tres exámenes mensuales consecutivos en una materia;
 
 V. Reprobar un examen final, de avance de proyecto de investigación o predoctoral;
 
-VI. Reprobar el desempeño hospitalario por 3 meses consecutivos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VII. Reprobar el examen para técnico especializado, de especialización, de especialización y residencia, de maestría o doctorado;
+VI. Reprobar el desempeño práctico por 3 meses consecutivos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Reprobar el examen profesional o de tesis para técnico especializado, de especialización, de especialización y residencia, de maestría o doctorado;
 
 VIII. Acumular más de cinco faltas injustificadas en el año lectivo;
 
@@ -1059,15 +1329,31 @@ X. No apegarse a la ruta crítica del trabajo de investigación o de tesis;
 
 XI. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-XII. Por solicitud del interesado que sea aceptada por la superioridad y
+XII. Por solicitud del interesado que sea aceptada por la superioridad y (sic)
 
-XIII. Por inutilidad de acuerdo con las tablas anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+XIII. Por inutilidad de acuerdo con las tablas anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-### CAPITULO I. Reconocimientos Académicos, Grados Académicos, Diplomas, Certificados y Constancias
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Adquirir otra nacionalidad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 88 Bis.
+
+Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+
+### CAPITULO III. De los Reingresos
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 89.
 
-Para efectos del presente reglamento se considera como reingreso, al acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar sus estudios, es admitido nuevamente para continuarlos.
+Para efectos del presente Reglamento se considera como reingreso el acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar los estudios es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 90.
 
@@ -1075,17 +1361,23 @@ El reingreso al plantel únicamente podrá efectuarse en las siguientes circunst
 
 I. El personal en instrucción que por razones de carácter legal haya sido suspendido en sus estudios y sea declarado absuelto, reingresará al curso, al inicio del año escolar que se encontraba cursando, siempre que no hayan transcurrido más de dos años;
 
-II. El personal en instrucción que por motivos de enfermedad haya causado baja del curso, podrá reingresar por una sola vez, al inicio del año que cursaba, si demuestra que cesó la causa que lo motivó y no hayan transcurrido más de dos años y
+II. El personal en instrucción que por motivos de enfermedad haya causado baja del curso, podrá reingresar por una sola vez, al inicio del año que cursaba, si demuestra que cesó la causa que lo motivó y no hayan transcurrido más de dos años y (sic)
 
-III. El personal en instrucción que haya causado baja por faltas justificadas, podrá reingresar por una sola vez, al inicio del año que cursaba, siempre que no haya transcurrido más de un año.
+III. El personal en instrucción que haya causado baja por faltas justificadas, podrá reingresar por una sola vez, al inicio del año que cursaba, siempre que no haya transcurrido más de un año;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. El personal en instrucción que haya causado baja por mala conducta o por reprobar, no podrá reingresar al curso que realizaba o algún otro que se imparta en el plantel.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos y Estímulos
 
-### CAPITULO II. De los Estímulos
+### CAPITULO I. Reconocimientos Académicos, Grados Académicos, Diplomas, Certificados y Constancias
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 91.
 
-Al término del curso correspondiente, la escuela elaborará y remitirá a la Rectoría de la Universidad del Ejército y Fuerza Aérea los diplomas, certificados y constancias de los cursos realizados por los alumnos para su aprobación, legalización y trámite de registro según corresponda.
+Al término del curso correspondiente la escuela elaborará y remitirá a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los grados académicos, diplomas, certificados y constancias de los cursos realizados por los alumnos para su aprobación, legalización y trámite de registro según corresponda.
 
 ###### ARTICULO 92.
 
@@ -1097,19 +1389,25 @@ II. Certificado de materias acreditadas durante su estancia en el plantel;
 
 III. Diploma de especialización al cumplir satisfactoriamente los requisitos del curso correspondiente para médicos cirujanos y cirujanos dentistas; en el caso de oficiales de sanidad y enfermeras el correspondiente al nivel técnico especializado y
 
-IV. Diploma de Grado Académico de maestría o doctorado en ciencias biomédicas con anotación del área de especialidad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO UNICO
+IV. Grado académico de maestría o doctorado en ciencias biomédicas con anotación del área de especialidad.
+
+### CAPITULO II. De los Estímulos
 
 ###### ARTICULO 93.
 
 Los estímulos que otorgue la escuela serán:
 
-I. Mención Honorífica otorgada por los jurados de exámenes de especialidad y de grado a aquellos alumnos que hayan tenido un rendimiento académico sobresaliente; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Mención honorífica otorgada por los jurados de exámenes profesionales de técnico especializado, especialidad y de grado a aquellos alumnos que hayan tenido un rendimiento académico sobresaliente, y
 
 II. Recomendación del pase inmediato de la maestría al doctorado otorgado por el jurado del examen de maestría.
 
 ## TITULO NOVENO. Disposiciones Complementarias
+
+### CAPITULO UNICO
 
 ###### ARTICULO 94.
 
@@ -1123,9 +1421,17 @@ El personal en instrucción que ostente grado jerárquico superior al de los dir
 
 La escuela recibirá como personal en instrucción a los militares de la Armada de México y de Fuerzas Armadas Extranjeras que cumplan con los requerimientos académicos del curso correspondiente, cuando así lo determine el Alto Mando del Ejército y Fuerza Aérea Mexicanos, durante su estancia en el plantel deberá regirse por el presente reglamento, así como cumplir con las disposiciones y directivas emitidas por el Alto Mando.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 97.
 
-Los cursos señalados en el presente reglamento, tendrán el nivel académico de estudios que les otorgue la Secretaría de la Defensa Nacional y serán registrados para la autorización del ejercicio profesional ante la Secretaría de Educación Pública.
+Los cursos señalados en el presente Reglamento tendrán el nivel académico de estudios que les otorgue la Secretaría de la Defensa Nacional y los que ameriten autorización para el ejercicio profesional serán registrados ante la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 97 Bis.
+
+Los arrestos que se impongan al personal militar en instrucción serán graduados por el Director del plantel conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se comuniquen.
 
 ## TRANSITORIOS
 
@@ -1138,3 +1444,11 @@ TERCERO.- Se abroga el Decreto que reforma y adiciona los artículos 42 y 59 y d
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazan.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
