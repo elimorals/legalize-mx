@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1969-11-27"
+last_updated: "1980-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 1980.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -99,13 +99,11 @@ V.- Por el Tribunal Superior de Justicia en pleno.
 
 Los Jueces Auxiliares sólo tienen facultad para practicar las diligencias que les encomienden los de Primera Instancia y los Municipales de su jurisdicción y para recoger las pruebas urgentes y asegurar a los responsables cuando se cometa un delito en su territorio jurisdiccional.
 
-> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1969)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 8º.
 
-Los Jueces Municipales "A", son competentes para conocer los delitos que se cometan en el territorio de la jurisdicción donde ejerzan sus funciones y tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de mil pesos y, prisión hasta de dos años, aun cuando la multa que pueda corresponder en este caso exceda del límite establecido con anterioridad.
-
-Los Jueces Municipales "B", tendrán competencia en los términos que señala el párrafo anterior, con la salvedad de que sólo conocerán delitos que tengan como sanción: multa que no exceda de trescientos pesos y, prisión hasta de seis meses, aun cuando la multa que pueda corresponder en este caso, exceda del límite establecido con anterioridad.
+Los jueces municipales son competentes para conocer los delitos que se cometan en el territorio de la jurisdicción donde ejerzan sus funciones y tengan como sanción: amonestación, apercibimiento, caución de no ofender, multa que no exceda de tres mil pesos y prisión hasta de dos años, aun cuando por ser el reo reincidente la sanción que se le aplique resulte mayor a la pecuniaria y a la privativa de libertad señaladas.
 
 ###### ARTICULO 9º.
 
@@ -121,9 +119,11 @@ II.- A la suma de los máximos de las sanciones privativas de la libertad, cuand
 
 III.- A la sanción privativa de la libertad, cuando la ley imponga varias de distinta naturaleza.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 11.
 
-En materia penal no cabe prórroga ni renuncia de jurisdicción, pero cuando el tribunal que sea competente para conocer de un proceso se encuentre impedido de hecho o de derecho para llenar su misión en un caso particular o cuando la apertura y continuación del proceso ante ese tribunal presente peligros para la seguridad y el orden públicos, podrá el Tribunal Superior de Justicia ordenar que las actuaciones de que se trate se remitan a un juzgado diferente, de la misma jerarquía del impedido, prorrogando, al efecto, la jurisdicción.
+En materia penal no cabe prórroga ni renuncia de jurisdicción, pero cuando el tribunal que sea competente para conocer de un proceso se encuentre impedido de hecho y de derecho para llenar su misión en un caso particular o cuando la apertura y continuación del proceso ante ese tribunal presente peligros para la seguridad y el orden públicos, o para la vida del propio acusado, podrá el Tribunal Superior de Justicia acordar que las actuaciones de que se trata se remitan a un juzgado diferente, de la misma jerarquía del impedido, prorrogando, al efecto, la jurisdicción.
 
 ###### ARTICULO 12.
 
@@ -319,7 +319,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de cinco a doscientos pesos;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+
+II.- Multa de cincuenta a mil pesos;
 
 III.- Arresto hasta de quince días; y
 
@@ -333,11 +335,15 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 49.
 
-El Ministerio Público en la averiguación previa, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
+El Ministerio Público en la averiguación previa y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-I.- Multa de cinco a doscientos pesos;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+
+I.- Multa de cincuenta a mil pesos;
 
 II.- Auxilio de la fuerza pública; y
 
@@ -863,11 +869,13 @@ Durante la instrucción el tribunal que conozca del proceso deberá, de acuerdo 
 
 El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 145.
 
-La instrucción deberá terminarse en el menor tiempo posible. Cuando exista auto de formal prisión y el delito tenga señalada una sanción máxima que exceda de dos años de prisión, se terminará dentro de diez meses; si la sanción máxima es de dos años de prisión o menor o se hubiere dictado auto de sujeción a proceso, la instrucción deberá terminarse dentro de tres meses.
+La instrucción deberá terminarse en el menor tiempo posible. Cuando el delito tenga señalada una sanción máxima que exceda de dos años de prisión, se terminará dentro de seis meses; si la sanción máxima es de dos años de prisión, la instrucción deberá terminarse dentro de un mes.
 
-Los términos a que se refiere este artículo, se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso.
+Los términos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del sujeción a proceso, y podrán ampliarse por el juez hasta por dos meses más cuando el acusado lo solicite por considerarlo necesario a su defensa.
 
 ###### ARTICULO 146.
 
@@ -883,9 +891,11 @@ Transcurridos o renunciados los plazos a que se refiere este artículo, o si no 
 
 Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará esto por cualquier medio de prueba en el curso de la instrucción.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 149.
 
-En los casos de delitos cuya sanción no exceda de seis meses de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, se procurará agotar la averiguación dentro de quince días. Una vez que el tribunal la estime agotada dictará resolución, citando a la audiencia a que se refiere el artículo 286.
+En los casos de delito cuya sanción no exceda de dos años de prisión o la aplicable no sea privativa de libertad, después de dictado el auto de formal prisión o el de sujeción a proceso, deberá agotarse la averiguación dentro de treinta días. Una vez que el tribunal la estime agotada dictará resolución, citando a la audiencia a que se refiere el artículo 286.
 
 ### CAPITULO II. Declaración Preparatoria del Inculpado y Nombramiento de Defensor
 
@@ -1535,9 +1545,13 @@ El Ministerio Público, al formular sus conclusiones, hará una exposición brev
 
 En el primer caso de la parte final del artículo anterior, deberá fijar en proposiciones concretas los hechos punibles que atribuya al acusado, solicitar la aplicación de las sanciones correspondientes, incluyendo la de reparación del daño, cuando proceda, y citar las leyes aplicables al caso. Estas proposiciones deberán contener los elementos constitutivos del delito y las circunstancias que deban tomarse en cuenta para imponer la sanción.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 273.
 
-Si las conclusiones fueren de no acusación; si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción; si fueren contrarias a las constancias procesales; o si en ellas no se cumpliere con lo dispuesto en el artículo 272, el tribunal las enviará, con el proceso, al Procurador General de Justicia, señalando con claridad el motivo del envío.
+Si las conclusiones fueren de no acusación; si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción o se omitiera petición por cuanto a reparación del daño; si fueren contrarias a las constancias procesales; o si en ellas no cumpliere con lo dispuesto en el artículo 272, el tribunal las enviará, con el expediente, al Procurador General de Justicia, señalando con claridad el motivo del envío.
+
+La inobservancia de esta obligación por parte del juzgador será sancionada con suspensión de uno a tres meses de su cargo, y definitiva, de reincidir.
 
 ###### ARTICULO 274.
 
@@ -1613,9 +1627,11 @@ En la audiencia podrán interrogar al acusado sobre los hechos materia del juici
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 286.
 
-Cuando se trate de delitos cuya sanción no exceda de seis meses de prisión o en las que la aplicable no sea privativa de libertad, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquellas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los artículos 273 y 274.
+Cuando se trate de delitos cuya sanción no exceda de dos años de prisión o en los que la aplicable no sea privativa de libertad, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los artículos 273 y 274.
 
 ### CAPITULO II. Aclaración de sentencia
 
@@ -1685,9 +1701,13 @@ Interpuesto el recurso, en el acto de la notificación o dentro de las veinticua
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba y del arbitrio judicial o si se alteraron los hechos, confirmando, revocando o modificando la resolución apelada.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 300.
 
-La segunda instancia se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el procesado, o siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
+La segunda instancia se abrirá a petición del Ministerio Público, del inculpado o de sus defensores y versará sobre los agravios que estime al apelante le cauce la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el procesado, o siéndolo el defensor, se advierte que por torpeza no los hizo valer debidamente. En este último caso, el tribunal de alzada lo comunicará al Procurador General de Justicia a los efectos de su representación.
+
+El que haya acreditado en la causa su derecho a la reparación del daño, podrá apelar de la sentencia únicamente cuando ésta absuelva de su pago al responsable o lo condene a él en cantidad menor a la que proceda.
 
 ###### ARTICULO 301.
 
@@ -1735,11 +1755,13 @@ Contra el auto que admita la apelación no procede recurso alguno, sin perjuicio
 
 Si el apelante fuere el acusado, al admitirse el recurso se le prevendrá que nombre defensor que lo patrocine en la segunda instancia; caso de no hacerlo, se le tendrá como defensor al de oficio.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 308.
 
-Admitida la apelación en ambos efectos, se remitirá original el proceso al tribunal de apelación respectivo. Si fueren varios los acusados y la apelación solamente se refiere a alguno o a algunos de ellos, el tribunal que dictó la sentencia apelada ordenará se expidan los testimonios a que se refiere el artículo 426.
+Admitida la apelación en ambos efectos, dentro de cinco días se remitirá original del proceso al tribunal de apelación que deba reconocer del recurso. Si fueren varios los acusados y la apelación solamente se refiere a alguno o a algunos de ellos, el tribunal que dictó la sentencia ordenará se expidan los testimonios a que se refiere el artículo 426, a más tardar dentro de treinta días. En este caso y cuando la apelación se admita en el efecto devolutivo, los testimonios se formarán con las constancias que las partes designen y con las que el tribunal estime conveniente.
 
-Cuando la apelación se admita en el efecto devolutivo, se remitirá testimonio de lo que las partes designen y de lo que el tribunal estime conveniente.
+Para formar el testimonio de apelación, pueden emplearse máquinas fotocopiadoras o similares, con el fin de agilizar el trámite. En todo caso las copias pueden ser compulsadas y autorizadas por el Secretario.
 
 ###### ARTICULO 309.
 
@@ -1811,13 +1833,17 @@ INCIDENTES
 
 ### CAPITULO I. Libertad provisional bajo caución
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 #### SECCION PRIMERA. INCIDENTE DE LIBERTAD
 
 ### CAPITULO II. Libertad provisional bajo protesta
 
 ###### ARTICULO 324.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la sanción que corresponda al delito imputado no exceda de cinco años de prisión. Sin embargo, los tribunales podrán negar la concesión de la libertad caucional, cuando el máximo de la pena exceda de cinco años de prisión, teniendo en cuenta la peligrosidad del inculpado, las circunstancias especiales que concurran en el caso, la importancia del daño causado, y en general, las consecuencias que el delito haya producido o pueda producir.
+Todo acusado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la sanción que corresponda al delito imputado no exceda de cinco años de prisión. Sin embargo los tribunales podrán negar la concesión de dicha libertad, teniendo en cuenta la peligrosidad del inculpado, las circunstancias especiales que concurran en el caso, la importancia del daño causado y, en general, las consecuencias que el delito haya producido o pueda producir.
+
+La violación a la regla anterior será motivo de suspensión del juez hasta por un mes, independientemente de la responsabilidad penal en que haya incurrido.
 
 ###### ARTICULO 325.
 
@@ -1845,23 +1871,27 @@ V.- La naturaleza de la garantía que se ofrezca.
 
 La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad, manifestará la forma que elige para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el tribunal de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 1966)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 329.
 
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en una Institución Bancaria a través de la Tesorería General del Estado. El certificado de deposito correspondiente, se guardará en la caja de valores del Tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado, no pueda constituirse el depósito directamente en las Oficinas Hacendarias, el Tribunal recibirá la cantidad en efectivo, y la mandará depositar en aquéllas el primer día hábil.
+La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas en la Tesorería General del Estado a través de las Oficinas de Hacienda del lugar en que tenga jurisdicción el Juez que la hubiese acordado. El certificado de depósito correspondiente, se guardará en la caja de valores del Tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en las oficinas hacendarias, el tribunal recibirá la cantidad en efectivo, y la mandará depositar en aquéllas a primera hora del siguiente día hábil.
 
 ###### ARTICULO 330.
 
 Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 331.
 
-Cuando se ofrezca como garantía fianza personal por cantidad que no exceda de trescientos pesos, quedará bajo la responsabilidad del tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+Cuando se ofrezca como garantía fianza personal por cantidad que no exceda de mil pesos, quedará bajo la responsabilidad del tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 332.
 
-Cuando la fianza sea por cantidad mayor de trescientos pesos, se regirá por lo dispuesto en los artículos 2784, 2785, 2786, 2787 y 2788 del Código Civil del Estado, con la salvedad de que, tratándose de instituciones de crédito no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad. Cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas, se requerirá que tengan bienes raíces suficientes en el Estado.
+Cuando la fianza sea por cantidad mayor de mil pesos, se regirá por lo dispuesto en los artículos del 2783 al 2788 del Código Civil del Estado. Cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas, se requerirá que tengan bienes raíces suficientes en el Estado.
 
 ###### ARTICULO 333.
 
@@ -1947,7 +1977,9 @@ El importe de la caución se exigirá por la autoridad fiscal en los términos d
 
 La libertad bajo protesta podrá decretarse siempre que concurran las circunstancias siguientes:
 
-I.- Que la sanción privativa de libertad que deba imponerse no exceda de un año de prisión;
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+
+I.- Que la sanción privativa de libertad que debe imponerse no exceda de dos años de prisión;
 
 II.- Que sea la primera vez que delinque el inculpado;
 
@@ -1955,7 +1987,9 @@ III.- Que éste tenga domicilio conocido en el lugar donde se sigue o deba segui
 
 IV.- Que la residencia del inculpado en dicho lugar sea de un año cuando menos;
 
-V.- Que el inculpado tenga profesión, oficio, ocupación o modo honesto de vivir; y
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+
+V.- Que el inculpado tenga profesión, oficio, ocupación u otro modo honesto de vivir.
 
 VI.- Que a juicio de la autoridad que la conceda no haya temor de que el inculpado se substraiga a la acción de la justicia.
 
@@ -2423,9 +2457,17 @@ El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime 
 
 Cuando un reo enloquezca después de dictarse en su contra sentencia irrevocable que lo sancione con privación de libertad, se suspenderán los efectos de ésta, mientras no recobre la razón, internándosele en el establecimiento adecuado para su tratamiento.
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 1980)</small>
+
 ###### ARTICULO 430.
 
-Cuando los tribunales decreten el comiso de instrumentos u objetos del delito, los remitirán a la oficina correspondiente para los efectos del artículo 39 del Código Penal.
+Los objetos del delito que sean decomisados, salvo disposición distinta de la Ley, serán sacados a remate que se anunciará con ocho días de anticipación por lo menos, en el diario que el juez estime conveniente y previo avaluó de los mismos.
+
+En las mismas condiciones serán rematados los objetos del delito que perteneciendo o pudiendo pertenecer a terceras personas no sean reclamados en el término de un año, a contar de que el Ministerios Público haya hecho la consignación respectiva.
+
+El remate se llevará a cabo en el local del juzgado que lo hubiese convocado, y el importe del mismo una vez descontados los gastos, se aplicará en mejoras de edificios y adquisición de mobiliario y equipo de las oficinas del Poder Judicial.
+
+Si las cosas de que se trata sólo sirven para cometer delitos, se destruirán al ejecutarse la sentencia.
 
 ### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
@@ -2519,7 +2561,7 @@ Concedida la rehabilitación por la Legislatura del Estado, se comunicará la re
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
-T R A N S I T O R I O S :
+TRANSITORIOS:
 
 1o.- Este Código entrará en vigor el día 1º. de julio del año 1948.
 
@@ -2552,3 +2594,9 @@ Publíquese en la "Gaceta Oficial" del Estado.
 ###### ARTICULO SEGUNDO.
 
 Esta Ley entrará en vigor a partir del día primero del año de mil novecientos setenta.
+
+G.O. 24 DE JUNIO DE 1980.
+
+PRIMERO.-La presente Ley entrará en vigor tres días después de su publicación en la 'Gaceta Oficial' del Estado.
+
+SEGUNDO.-Las causas que estén en período de instrucción o juicio serán concluidas por los jueces que las haya radicado.
