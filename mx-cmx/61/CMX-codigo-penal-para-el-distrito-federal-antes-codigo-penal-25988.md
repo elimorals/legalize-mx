@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1996-11-22"
+last_updated: "1996-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -3180,9 +3180,13 @@ ARTICULO 253 bis.- (DEROGADO, D.O.F. 5 DE DICIEMBRE DE 1979)
 
 Se aplicarán igualmente las sanciones del Artículo 253:
 
-I.- Por destrucción indebida de materias primas, árboles, productos agrícolas o industriales o medios de producción, que se haga con perjuicio de la riqueza o del consumo nacionales;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los animales con peligro de la economía rural o forestal, o de la riqueza zoológica del país, y
+I.- Por destrucción indebida de materias primas, productos agrícolas o industriales o medios de producción, que se haga con perjuicio del consumo nacional;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los animales con peligro de la economía rural;
 
 III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
 
@@ -3210,13 +3214,7 @@ VII.- Al que sin derecho realice cualquier sustracción o alteración a equipos 
 
 VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
-
-ARTICULO 254 bis.- Quienes de manera intencional capturen, dañen gravemente o priven de la vida a mamíferos o quelonios marinos, o recolecten o comercialicen en cualquier forma sus productos sin autorización, en su caso, de la autoridad competente, se les impondrá pena de seis meses a tres años de prisión.
-
-Se impondrá la misma pena señalada en el párrafo anterior, a quienes capturen intencionalmente especies acuáticas declaradas en veda, sin autorización, en su caso, de la autoridad competente.
-
-Lo anterior se aplicará sin perjuicio de las sanciones administrativas correspondientes.
+ARTICULO 254 bis.- (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -4656,6 +4654,10 @@ El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias pers
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
+### CAPITULO UNICO. Delitos ambientales
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 401.
 
 Para los efectos de este Capítulo, se entiende por:
@@ -4866,6 +4868,106 @@ Se impondrá prisión de dos a nueve años, al funcionario partidista o a los or
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 13 de este Código no podrán gozar del beneficio de la libertad provisional.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+## TITULO VIGESIMO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 414.
+
+Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin contar con las autorizaciones respectivas o violando las normas oficiales mexicanas a que se refiere el artículo 147 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como altamente riesgosas y que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna, o a los ecosistemas.
+
+En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un centro de población, la pena de prisión se incrementará hasta en tres años.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 415.
+
+Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, a quien:
+
+I.- Sin autorización de la autoridad federal competente o contraviniendo los términos en que haya sido concedida, realice cualquier actividad con materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, la fauna, la flora o a los ecosistemas;
+
+II.- Con violación a lo establecido en las disposiciones legales o normas oficiales mexicanas aplicables, emita, despida, descargue en la atmósfera, o lo autorice u ordene, gases, humos o polvos que ocasionen daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas de jurisdicción federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
+
+III.- En contravención a las disposiciones legales o normas oficiales mexicanas, genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 416.
+
+Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin la autorización que en su caso se requiera, o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas:
+
+I.- Descargue, deposite, o infiltre, o lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, aguas marinas, ríos, cuencas, vasos y demás depósitos o corrientes de agua de jurisdicción federal, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a la calidad del agua de las cuencas o a los ecosistemas.
+
+Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más; o
+
+II.- Destruya, deseque o rellene humedales, manglares, lagunas, esteros o pantanos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 417.
+
+Se impondrá pena de seis meses a seis años de prisión y de cien a veinte mil días multa, al que introduzca al territorio nacional, o comercie con recursos forestales, flora o fauna silvestre viva, sus productos o derivados o sus cadáveres que padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales y a los ecosistemas, o daños a la salud pública.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 418.
+
+Al que sin contar con la autorización que se requiera conforme a la Ley Forestal, desmonte o destruya la vegetación natural, corte, arranque, derribe o tale árboles, realice aprovechamientos de recursos forestales o cambios de uso del suelo, se le impondrá pena de tres meses a seis años de prisión y por el equivalente de cien a veinte mil días multa.
+
+La misma pena se aplicará a quien dolosamente ocasione incendios en bosques, selva, o vegetación natural que dañen recursos naturales, la flora o la fauna silvestre o los ecosistemas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 419.
+
+A quien transporte, comercie, acopie o transforme troncos de árboles derribados o cortados con un diámetro mayor de veinte centímetros en sus extremos, sin incluir corteza, o de diez centímetros, si se encuentra seccionado en su longitud, y con longitud superior a ciento ochenta centímetros, procedentes de aprovechamiento para los cuales no se haya autorizado, conforme a la Ley Forestal, un programa de manejo, se impondrá pena de tres meses a seis años de prisión y de cien a veinte mil días multa.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 420.
+
+Se impondrá pena de seis meses a seis años de prisión y por el equivalente de mil a veinte mil días multa, a quien:
+
+I.- De manera dolosa capture, dañe o prive de la vida a algún mamífero o quelonio marino o recolecte o comercialice en cualquier forma sus productos o subproductos, sin contar con la autorización que, en su caso, corresponda;
+
+II.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con especies acuáticas declaradas en veda, sin contar con la autorización que, en su caso, corresponda;
+
+III.- Realice la caza, pesca o captura de especies de fauna silvestre utilizando medios prohibidos por la normatividad aplicable o amenace la extinción de las mismas;
+
+IV.- Realice cualquier actividad con fines comerciales con especies de flora o fauna silvestre consideradas endémicas, amenazadas, en peligro de extinción, raras o sujetas a protección especial, así como sus productos o subproductos y demás recursos genéticos, sin contar con la autorización o permiso correspondiente o que, en su caso, estén declaradas en veda; o
+
+V.- Dolosamente dañe a las especies de flora o fauna silvestres señaladas en la fracción anterior.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 421.
+
+Además de lo establecido en el presente Título, el juez podrá imponer alguna o algunas de las siguientes penas:
+
+I.- La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+
+II.- La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+
+III.- La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos; y
+
+IV.- El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestres amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte.
+
+Para los efectos a que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente, la expedición del dictamen técnico correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 422.
+
+Las dependencias de la administración pública competentes, deberán proporcionar al juez los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 423.
+
+Tratándose de los delitos ambientales, los trabajos en favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 APENDICE 1
@@ -4899,8 +5001,6 @@ Al C.....
 D.O.F. 12 DE MAYO DE 1938.
 
 EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SE TRANSCRIBE EL ARTICULO 4° DEL PRESENTE DECRETO.
-
-## TITULO VIGESIMO TERCERO. Delitos en contra de las personas en su patrimonio
 
 ###### ARTICULO 4°.
 
@@ -5383,3 +5483,13 @@ SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el 
 D.O.F. 22 DE NOVIEMBRE DE 1996.
 
 Unico.- Las reformas al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos del 183 al 187 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; el artículo 58 de la Ley Forestal; y los artículos 30 y 31 de la Ley Federal de Caza.
