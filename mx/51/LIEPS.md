@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1997-12-29"
+last_updated: "1998-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 1998.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -66,17 +66,17 @@ I.- En la enajenación o, en su caso, en la importación de los siguientes biene
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-A).- Alcohol .......... 60%
+A).- Alcohol……60%
 
 B).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-C).- Alcohol desnaturalizado que se enajene en ventas al menudeo con el público en general .......... 0%
+C).- Alcohol desnaturalizado que se enajene en ventas al menudeo con el público en general……0%
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L. .......... 25%
+D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L....25%
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -84,27 +84,27 @@ E).- Bebidas alcohólicas:
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-1.- Con una graduación de hasta 13.5º G.L. .......... 25%
+1.- Con una graduación de hasta 13.5º G.L….…25%
 
-2.- Con una graduación de más de 13.5º y hasta 20º G.L. .......... 30%
+2.- Con una graduación de más de 13.5º y hasta 20º G.L……30%
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-F).- Aguardiente y bebidas alcohólicas con una graduación de más de 20º G.L. y hasta 55º G.L., así como sus concentrados .......... 60%
+F).- Aguardiente y bebidas alcohólicas con una graduación de más de 20º G.L. y hasta 55º G.L., así como sus concentrados……60%
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-G).- Bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados .......... 60%
+G).- Bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados………60%
 
 H).- Tabacos labrados:
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-1.- Cigarros .......... 85%
+1.- Cigarros....... 85%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
+2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados…..20.9%
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -138,7 +138,7 @@ C).- Comisión, mediación, agencia, representación, correduría, consignación
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- En la exportación definitiva que realicen los contribuyentes de este impuesto en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, siempre que no se efectúe a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta, como de baja imposición fiscal .......... 0%
+III.- En la exportación definitiva que realicen los contribuyentes de este impuesto en los términos de la legislación aduanera de los bienes a que se refiere la fracción I de este artículo, siempre que no se efectúe a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta, como de baja imposición fiscal ……0%
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -226,23 +226,9 @@ III.- El precio de referencia para el gas natural para combustión automotriz se
 
 La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el costo de servicio en base adicional notificada a la estación de servicio y la comisión de las estaciones de servicio. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular la tasa aplicable para este combustible en cada sector de comercialización y distribución y la publicará en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 2o.-D.
 
-Los contribuyentes que enajenen bienes de los señalados en los incisos E), F) y G) de la fracción I del artículo 2o., en envases de vidrio reutilizados, deberán pagar el impuesto por cada envase de los señalados en este artículo, conforme a su capacidad de contenido, de acuerdo con la siguiente tabla:
-
-Hasta 375 ml. $0.50
-
-De 375.1 ml. a 500 ml. $1.00
-
-De 500.1 ml. a 750 ml. $1.50
-
-De 750.1 ml. a 1,000 ml. $2.00
-
-De 1,000.1 ml. en adelante $3.50
-
-Tratándose de contribuyentes que enajenen los bienes a que se refiere el párrafo anterior, en los envases de vidrio reutilizados, el impuesto se causará en el momento en que se dé la enajenación de los mismos, o cuando se den en comisión, mediación, agencia, representación, correduría, consignación o distribución. El impuesto se enterará a más tardar el día 17 del mes inmediato posterior al que corresponda el pago. El contribuyente compensará el impuesto a que se refiere este artículo con respecto al impuesto que corresponda al bien enajenado de la misma categoría y graduación alcohólica en sus declaraciones de pagos provisionales subsecuentes o en la del ejercicio, sin que en ningún caso proceda su devolución.
+(DEROGADO, D.O.F. 29 DE MAYO DE 1998)
 
 ###### ARTICULO 3o.
 
@@ -282,9 +268,7 @@ X.- Bebidas alcohólicas a granel las que se encuentren envasadas en recipientes
 
 XI.- Tabacos labrados, los cigarros, los puros y los tabacos cernidos, picados, de hebra, de mascar, así como el rapé.
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XII.- Envase de vidrio reutilizado, el envase utilizado con anterioridad.
+XII.- (DEROGADA, D.O.F. 29 DE MAYO DE 1998)
 
 XIII.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
@@ -710,9 +694,7 @@ La información a que se refiere esta fracción, se proporcionará en los térmi
 
 XIII.- Los fabricantes, productores, envasadores e importadores de los bienes a que se refiere el artículo 2o., fracción I, incisos D), E), F) y G) de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, bimestralmente en los meses de marzo, mayo, julio, septiembre, noviembre y enero, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el bimestre inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XIV.- Los contribuyentes que enajenen bienes de los señalados en los incisos E), F) y G) de la fracción I del artículo 2o., en envases de vidrio reutilizados, deberán expedir comprobantes que contengan la leyenda impresa -bebidas alcohólicas contenidas en envases de vidrio reutilizados-, salvo que se trate de enajenaciones al público en general.
+XIV.- (DEROGADA, D.O.F. 29 DE MAYO DE 1998)
 
 ###### ARTICULO 20.
 
@@ -1372,11 +1354,9 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SE
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 15 DE DICIEMBRE DE 1995.
+D.O.F. 3 DE DICIEMBRE DE 1993.
 
-Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
-
-Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ###### ARTICULO DECIMO.
 
@@ -1402,9 +1382,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
-D.O.F. 28 DE DICIEMBRE DE 1994.
+D.O.F. 15 DE DICIEMBRE DE 1995.
 
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
+
+Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
 
 ###### ARTICULO DECIMO.
 
@@ -1424,9 +1406,9 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
 
-D.O.F. 3 DE DICIEMBRE DE 1993.
+D.O.F. 28 DE DICIEMBRE DE 1994.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ## TRANSITORIO
 
@@ -1465,6 +1447,12 @@ Artículo Séptimo.- Durante el año de 1998, para efectos del artículo 2o., fr
 ## Transitorio
 
 ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
+
+D.O.F. 29 DE MAYO DE 1998.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEXTO.
 
