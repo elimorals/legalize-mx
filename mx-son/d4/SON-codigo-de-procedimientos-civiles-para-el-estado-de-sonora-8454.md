@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1951-05-26"
+last_updated: "1959-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 1951.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE INQUILINATO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 16 DE SEPTIEMBRE DE 1959, DURANTE LA VIGENCIA DE LA CITADA LEY, NO TENDRAN APLICACION LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A LOS PRECEPTOS DE LA MISMA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE SEPTIEMBRE DE 1959.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -8208,3 +8210,15 @@ Lic. Francisco Duarte Porchas.
 B.O. 26 DE MAYO DE 1951.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 16 DE SEPTIEMBRE DE 1959.
+
+PRIMERO.- Los términos que estuvieren corriendo de conformidad con el artículo 2749 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos las notificaciones hechas a los inquilinos haciendo de su conocimiento la voluntad del arrendador para dar por terminado el arrendamiento.
+
+SEGUNDO.- Los juicios y procedimientos judiciales en tramitación que tengan por objeto la terminación del contrato de arrendamiento por haber concluido el plazo estipulado y que estén comprendidos en el Artículo Primero de esta Ley, se sobreseerán, sea cual fuere al estado en que se encuentren.
+
+TERCERO.- Durante la vigencia de la presente Ley no tendrán aplicación las disposiciones del Código Civil y del de Procedimientos Civiles que se opongan a los preceptos de la misma.
+
+CUARTO.- En los procedimientos judiciales o administrativos pendientes de resolución o de ejecución los interesados podrán hacer valer los beneficios que les concede la presente Ley.
+
+QUINTO.- Esta Ley empezara a regir a partir del día de su publicación en el Boletín Oficial del Estado.
