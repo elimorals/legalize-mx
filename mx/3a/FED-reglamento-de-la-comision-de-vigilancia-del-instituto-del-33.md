@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-de-vigilancia-del-instituto-del-33"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-02-16"
-last_updated: "1994-05-04"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "1998-12-22"
 
 REGLAMENTO DE LA COMISION DE VIGILANCIA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 16 de febrero de 1973.
 
@@ -202,9 +202,11 @@ En ausencia del Presidente, estas funciones corresponderán a su suplente o, si 
 
 ### CAPITULO VI. De la Secretaría
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 21o.
 
-Para el mejor desempeño de sus labores, la Comisión de Vigilancia nombrará a un Secretario, sujetándose su designación al mecanismo de votaciones establecido en este Reglamento. En caso de Ausencia del Secretario, la Comisión designará un suplente.
+La Secretaría de la Comisión de Vigilancia será desempeñada por el Secretario General de Instituto.
 
 ###### ARTICULO 22o.
 
@@ -245,3 +247,9 @@ D.O.F. 4 DE MAYO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
