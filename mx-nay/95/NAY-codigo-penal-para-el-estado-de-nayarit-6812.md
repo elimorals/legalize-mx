@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1996-12-04"
+last_updated: "1998-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 1998.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -51,7 +51,7 @@ Este Código se aplicará en el Estado Libre y Soberano de Nayarit, por los deli
 
 ###### ARTICULO 2o.
 
-Se aplicará asimismo por los delitos que se inicien, preparen o cometan fuera del Estado, cuando se produzcan o se pretenda que que tengan efectos en el territorio de Nayarit, si los hechos delictuosos tienen ese carácter en la Entidad en que se ejecuten y en el Estado de Nayarit, siempre que no se haya sentenciado definitivamente por ellos al responsable en la localidad en que delinquió o en otro lugar.
+Se aplicará asimismo por los delitos que se inicien, preparen o cometan fuera del Estado, cuando se produzcan o se pretenda que tengan efectos en el territorio de Nayarit, si los hechos delictuosos tienen ese carácter en la Entidad en que se ejecuten y en el Estado de Nayarit, siempre que no se haya sentenciado definitivamente por ellos al responsable en la localidad en que delinquió o en otro lugar.
 
 ###### ARTICULO 3o.
 
@@ -2849,7 +2849,7 @@ Al que comercie con pieles, carnes u otros derivados obtenidos del Abigeato, se 
 
 Es aplicable al delito de Abigeato, en lo conducente, lo dispuesto en los artículos 353 y 356.
 
-### CAPITULO UNICO. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
+### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
@@ -2878,6 +2878,10 @@ Se aplicarán las mismas sanciones del abuso de confianza, a quien requerido for
 ###### ARTICULO 367.
 
 El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicable en lo conducente los artículos 346 y 353.
+
+### CAPITULO II. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 368.
 
@@ -3171,7 +3175,7 @@ III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, 
 
 ## TITULO VIGESIMO CUARTO. DELITOS CONTRA EL DESARROLLO URBANO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 6 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 393.
 
@@ -3192,6 +3196,16 @@ Al servidor público, que sin estar facultado o estándolo, permita o autorice e
 ###### ARTICULO 395.
 
 Se aplicarán las mismas sanciones señaladas en el artículo 393 de este Código, a quién construya por sí o por interpósita persona sobre terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones o permisos de las autoridades administrativas competentes.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1998)</small>
+
+###### ARTICULO 396.
+
+A quien certifique o participe dando forma a actos, convenios, o contratos con el propósito de transmitir la propiedad o posesión de inmuebles en contravención a lo dispuesto en las normas, planes o programas de desarrollo urbano, o sin comprobar la existencia de las autorizaciones, permisos o licencias de las autoridades competentes, se le impondrá una pena de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente.
+
+Cuando la certificación y formalización de actos, convenios o contratos a que se refiere el párrafo anterior, se inscriban o registren por parte de los servidores públicos de Catastro y del Registro Público de la Propiedad y del Comercio sin ajustarse a las disposiciones legales y administrativas aplicables, se impondrá a los responsables una pena de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente. Se le impondrá además de dichas sanciones, la destitución e inhabilitación de uno a cinco años, para desempeñar otro empleo, cargo, o comisión públicos.
+
+Serán nulas de pleno derecho las certificaciones, formalizaciones, registro e inscripciones que se otorguen en contravención a lo dispuesto en este artículo.
 
 ## TRANSITORIOS.
 
@@ -3280,3 +3294,9 @@ P.O. 4 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 1998.
+
+###### ARTICULO UNICO.
+
+Publíquese el presente decreto en el Periódico Oficial, Organo de Gobierno del Estado, mismo que entrará en vigor a partir del día quince de mayo del año en curso.
