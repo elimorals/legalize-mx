@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-11-30"
+last_updated: "2003-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -555,13 +555,13 @@ XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la 
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XV.- Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
+XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JUNIO DE 2001)</small>
 
-XVII.- Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
+XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -585,9 +585,9 @@ XXII. Revisar y fiscalizar por medio de la Contaduría Mayor de Hacienda, la doc
 
 XXII BIS. Revisar y fiscalizar el informe que rinda la Contaduría Mayor de Hacienda sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
 
-XXIII. Autorizar al Gobernador del Estado para que celebre empréstitos, conforme a lo previsto por el Artículo 84 de esta Constitución, y otorgue avales para garantizar obligaciones legalmente establecidas. Así como aprobar o no los contratos respectivos. Asimismo, autorizar por mayoría calificada al Ejecutivo y a los Ayuntamientos para constituirse en aval de organismos sociales legalmente instituidos que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
+XXIII. Autorizar al Estado, a los Municipios, a los organismos descentralizados, a las empresas de participación estatal o municipal mayoritaria y a los fideicomisos públicos que formen parte de la Administración Pública Paraestatal o Paramunicipal, para la obtención de empréstitos o créditos, el otorgamiento de garantías o avales y demás modalidades y actos jurídicos que correspondan conforme a lo establecido por el artículo 84 de esta Constitución. Asimismo, autorizar por mayoría calificada al Ejecutivo Estatal y a los Ayuntamientos para constituirse en avalista de organismos sociales legalmente instituidos que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
@@ -855,8 +855,6 @@ II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombrami
 
 III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
 
-En los casos de perturbación grave de la tranquilidad pública en alguno o varios lugares de uno o más Municipios, el Gobernador del Estado nombrará y removerá libremente al Inspector y demás miembros de la Policía del Municipio o Municipios donde hubiere causas de intranquilidad.
-
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
@@ -867,7 +865,7 @@ VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes d
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1948)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 1948)</small>
 
 VIII. Visitar las poblaciones del Estado cuando menos una vez en su sexenio.
 
@@ -903,9 +901,9 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2003)</small>
 
-XXI. Otorgar avales, previa autorización del Congreso del Estado, para garantizar empréstitos concedidos a organismos públicos legalmente instituidos, a que se refiere el Artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en aval de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
+XXI. Previa autorización del Congreso del Estado, celebrar empréstitos, otorgar garantías o avales, y formalizar las demás modalidades y actos jurídicos que correspondan conforme a lo previsto en el artículo 84 de esta Constitución. Asimismo, bajo las mismas condiciones señaladas anteriormente, el Ejecutivo podrá constituirse en avalista de organismos sociales legalmente instituidos, que tengan por objeto obtener créditos para la realización de obras de interés social, cuando existan garantías de la recuperación del financiamiento.
 
 > <small>(REFORMADA P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
@@ -1113,11 +1111,13 @@ La dirección de la política fiscal del Estado en la esfera administrativa y la
 
 Ningún servidor público del Estado o de los Municipios que tengan a su cargo el manejo de caudales públicos entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsable a las autoridades a quienes la Ley encomienda hacer efectivo este requisito.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2003)</small>
 
 ###### Art. 84.
 
-Sólo podrán contratarse empréstitos por el Estado o sus Municipios en forma directa o a través de sus organismos públicos, cuando se trate de obtener ingresos extraordinarios que, para el cumplimiento de sus atribuciones de derecho público sean justificados en cada caso, a juicio del Congreso del Estado, quien mediante el voto de las dos terceras partes de la totalidad de sus miembros, deberá aprobar y autorizar previamente los contratos respectivos, formas de financiamiento, constituyéndose como aval el Ejecutivo del Estado.
+Sólo podrán contraerse obligaciones o empréstitos por el Estado o sus Municipios, u obligaciones o créditos por sus organismos descentralizados, empresas de participación estatal o municipal mayoritaria y fideicomisos públicos que formen parte de la Administración Pública Paraestatal o Paramunicipal, cuando se destinen a inversiones públicas productivas, conforme a las bases que establezca en una ley el Congreso del Estado, quien mediante el voto de las dos terceras partes de la totalidad de sus miembros, deberá autorizar previamente la obtención de los financiamientos respectivos, el otorgamiento de garantías o avales, y las demás modalidades y actos jurídicos que así lo requieran de acuerdo a lo previsto por la Ley.
+
+El Estado únicamente podrá constituirse en garante o avalista de los Municipios o de las Entidades de la Administración Pública Paramunicipal, en los casos en que la magnitud o el impacto social del proyecto que se pretenda financiar así lo amerite, o cuando existan circunstancias extraordinarias, plenamente justificadas que así lo requieran y que pongan en grave riesgo la solvencia y el crédito público de los Municipios, tales como la ocurrencia de desastres naturales, o, en su caso, la viabilidad financiera de las Entidades de la Administración Pública Paramunicipal.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -2874,6 +2874,10 @@ P.O. 30 DE NOVIEMBRE DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE JULIO DE 2003.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
