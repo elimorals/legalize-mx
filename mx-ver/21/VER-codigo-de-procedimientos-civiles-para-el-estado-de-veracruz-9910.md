@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1974-09-03"
+last_updated: "1976-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE SEPTIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 1976.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -2485,7 +2485,9 @@ Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyen el patrimonio de familia, en los términos establecidos por el Código Civil;
 
-II.- El lecho cotidiano, la provisión alimenticia de la familia, los vestidos y los muebles del uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del juez;
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+II.- El lecho cotidiano, la provisión alimenticia de la familia, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo, a juicio del Juez;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -3145,9 +3147,11 @@ ARTICULO 499
 
 En el caso del artículo anterior, el juez señalará día y hora para una audiencia que debe celebrarse a los cinco días de presentada la solicitud. En esa audiencia, con intervención del Ministerio Público, se completará la personalidad de los promoventes y se denunciará el convenio que los interesados hayan formalizado, de acuerdo con el artículo 147 del Código Civil.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 500
 
-A falta de convenio sobre los hijos o en este mismo en lo que sea compatible con los arreglos que propongan los cónyuges, el juez procurará que los hijos queden confiados al cuidado del padre y de la madre en justa proporción, siguiendo hasta donde se estime oportuno, la elección de los propios hijos, expresada por éstos libremente. En caso de incapacidad de los mismos para optar o expresar su elección, el juez decidirá en los términos convenientes al interés social y familiar de los hijos y los padres. El juez, con auxilio del Ministerio Público y de los interesados, suplirá las deficiencias u omisiones para la liquidación social.
+A falta de convenio sobre los hijos o en este mismo, en lo que sea compatible con los arreglos que propongan los cónyuges, el Juez procurará que los hijos queden confiados al cuidado de los mismos, en justa proporción, siguiendo hasta donde se estime oportuno, la elección de los propios hijos, expresada por éstos libremente. En caso de incapacidad de los mismos para optar o expresar su elección, el Juez decidirá en los términos convenientes al interés social y familiar de los hijos y los padres. El Juez, con auxilio del Ministerio Público y de los interesados, suplirá las deficiencias u omisiones para la liquidación social.
 
 ARTICULO 501
 
@@ -4379,7 +4383,9 @@ ARTICULO 702
 
 La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en incidente que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
-El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, mujer, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos, serán preferidos los mayores de edad.
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
+El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
 
 En el caso de no haber ninguna de las personas indicadas, o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
 
@@ -4705,13 +4711,15 @@ IV.- La calificación de la excusa de la patria potestad en los casos a que se r
 
 V.- Todas las intervenciones de la autoridad judicial que ordene la ley y que no den ocasión a controversia.
 
+> <small>[N. DE E. VEÁSE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 1 DE ENERO DE 1976, PÁGINA 22.]</small>
+
 ARTICULO 746
 
 Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos a patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; así como de los huérfanos o incapacitados que queden en abandono, por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
-En estos casos, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias conducentes.
+El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su depósito.
 
 TITULO DECIMOSEPTIMO
 
@@ -5014,3 +5022,9 @@ La presente Ley surtirá sus efectos legales, a partir de la fecha de su publica
 G.O. 3 DE SEPTIEMBRE DE 1974.
 
 UNICO.- Esta Ley entrará en vigor después de la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 1 DE ENERO DE 1976.
+
+###### ARTICULO UNICO.
+
+Estas reformas y adiciones entrarán en vigor el día de su publicación, en la "Gaceta Oficial" del Estado.
