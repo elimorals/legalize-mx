@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1996-10-04"
+last_updated: "1997-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1019,6 +1019,10 @@ Para el despacho de los asuntos del orden administrativo del Estado, la Administ
 
 Las leyes determinarán las relaciones entre los organismos descentralizados y el Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+Cada Titular de la Administración Pública centralizada y descentralizada, será responsable ante la Ley del uso correcto del presupuesto que se ejerza en su área, así también, del resguardo y uso adecuado de los bienes materiales y patrimoniales que le sean asignados para el desarrollo de su función.
+
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ###### ARTICULO 68.
@@ -1377,13 +1381,29 @@ I.- Los rendimientos de los bienes que les pertenezcan.
 
 II.- Las contribuciones sobre propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación, mejora y cambio de valor, así como las tasas adicionales.
 
-III.- Las participaciones generales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que determine la Ley.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 1997)</small>
+
+III.- Las participaciones generales que serán cubiertas por montos y plazos que determine la Ley.
 
 IV.- Los ingresos derivados de los servicios públicos encomendados a su cargo.
 
 Quedan exentos de contribuir la Federación, el Estado y los Municipios, respecto de sus bienes. Los Ayuntamientos sólo podrán otorgar subsidios o compensaciones respecto de las mencionadas contribuciones.
 
-Los presupuestos de egresos serán aprobados por los Ayuntamientos, con base en sus ingresos; debiéndose publicar en el Periódico Oficial del Estado dichos presupuestos.
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+Como principio general, todos los recursos que transfiera la Federación al Estado, para atención de la Educación, Salud, Vivienda, Ecología, Cultura, Deporte, Desarrollo Agropecuario y Desarrollo Social o con cualquier otro fin general o específico, deberán ser canalizados a los Municipios para su ejercicio. Aquellos que a la fecha ejerza el Estado en ésas áreas, sólo serán de manera temporal y sujetos a Convenios con los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+Los criterios de distribución de estos recursos, siempre tomarán en cuenta el número de habitantes, así como los planteamientos para lograr los objetivos específicos de cada programa.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+Los Ayuntamientos, a su vez, en Sesión Pública de Cabildo, efectuarán la distribución hacia las Presidencias Municipales Auxiliares, tomando como principal referencia de distribución la proporción del número de habitantes de éstas.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+Los presupuestos de Egresos serán aprobados por los Ayuntamientos, con base en sus ingresos; debiéndose publicar en el Periódico Oficial del Estado. El registro, control y publicación de las operaciones, obedecerán a los lineamientos específicos, establecidos por el Honorable Congreso.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -1421,11 +1441,13 @@ i).- Y los demás que determinen las Leyes locales, tomando en cuenta las condic
 
 Los Municipios previo acuerdo entre sus respectivos Ayuntamientos y conforme lo determine la Ley de Coordinación Estatal y Municipal podrán, para la más eficaz prestación de los servicios públicos, asociarse y coordinarse.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 94.
 
-La Ley Orgánica Municipal, determinará las facultades y obligaciones de los Ayuntamientos y de las Presidencias Municipales Auxiliares.
+Las Presidencias Municipales Auxiliares, formarán Comités de Obras y de Recursos Materiales, y publicarán en el Periódico Oficial la distribución de los recursos asignados.
+
+La Ley Orgánica Municipal, determinará las demás facultades y obligaciones de los Ayuntamientos y de las Presidencias Municipales Auxiliares.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1492,6 +1514,10 @@ IV.- Los aprovechamientos que pertenezcan al Estado, en forma de multas, rezagos
 V.- Las participaciones que legalmente correspondan al Estado en los ingresos federales.
 
 VI.- Los demás ingresos que se obtengan conforme a las Leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+En caso de los ingresos que se obtengan por contratación de Deuda Pública, considerando al Estado y Municipios durante un año fiscal, no podrán ser superiores al 3% del equivalente al presupuesto inicialmente autorizado para el Estado durante ese año. Dicho monto deberá ser liquidado a más tardar en el año fiscal inmediato posterior, no pudiendo contratar nuevos créditos si existiesen adeudos derivados de éste concepto.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1610,6 +1636,14 @@ La declaración de haber lugar a formación de causa o la autorización para pro
 ###### ARTICULO 113.
 
 La responsabilidad por delitos y faltas oficiales, sólo podrán exigirse durante el período en que el Servidor Público ejerza su encargo.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 1997)</small>
+
+ARTICULO 113 BIS.- Los Servidores Públicos sólo acatarán las órdenes que sean acordes con la Ley. Por lo tanto, ningún Servidor Público está obligado a obedecer órdenes que violen la Ley.
+
+Cada uno de los Servidores Públicos de los Cuerpos de Seguridad son responsables ante la Ley de sus actos.
+
+El Secretario de Gobierno y sus subordinados, y el Procurador General de Justicia y sus subordinados, serán responsables de los actos de los Cuerpos de Seguridad y del uso de la fuerza pública en el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1928,3 +1962,9 @@ P.O. 4 DE OCTUBRE DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ABRIL DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
