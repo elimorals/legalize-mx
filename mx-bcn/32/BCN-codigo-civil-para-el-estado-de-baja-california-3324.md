@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1979-09-20"
+last_updated: "1980-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -333,9 +333,11 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Jueces de Primera Instancia, por turno que llevará la Autoridad Municipal.
+Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando ésto no fuere posible, suplirán dichas faltas los Jueces de Primera Instancia de lo Familiar, y en los lugares en que no existan estos Juzgados, la suplencia queda a cargo de los Jueces de Primera Instancia de lo Civil o de Jurisdicción Mixta.
 
 ###### ARTICULO 53.
 
@@ -349,41 +351,57 @@ La infracción de este artículo produce responsabilidad para los Agentes del Mi
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquel hubiere nacido.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los quince días de ocurrido aquél, y en su defecto, la madre dentro de los cuarenta días.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos; a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurra aquél. Los abuelos de que se trata demostrarán esa condición ante el Oficial del Registro Civil.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el Jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la administración.
+
+Recibido el aviso, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con multa de cinco a cincuenta pesos, que impondrá la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
+A las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, se les sancionará con multa de diez a cien pesos que impondrá la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
 
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+La misma Autoridad sancionará a las personas que no cumplan con la obligación de dar aviso prevenido en los párrafos segundo y tercero del artículo anterior, con multa de cien a quinientos pesos.
+
+El incumplimiento a lo dispuesto por el artículo anterior, sólo dará a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
 ###### ARTICULO 57.
 
 En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la Autoridad Municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que se asiente el acta.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 58.
 
-El acta de nacimiento se extenderá con la asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y el apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento se levantará con la asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del niño, el nombre que se le ponga y apellidos que correspondan, sin que por motivo alguno se omitan; asimismo, la razón de si se ha presentado vivo o muerto, y la impresión digital del presentado. Si este se presenta como hijo de padres desconocidos, el Oficial del Registro Civil procederá a levantar el acta de nacimiento asentando en todo lo posible los datos a que se refiere este artículo, sin hacer mención de aquella circunstancia, y le pondrá a su elección el nombre y apellidos que deba llevar.
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido tan sólo la ciudad en que esté situado el establecimiento.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 59.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación. Los testigos de que habla el artículo 60 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 60.
 
-Para que haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera del matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 44; haciéndose constar en todo caso la petición.
+Para que haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera del matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el Artículo 44, haciéndose constar la petición.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+El padre y la madre tienen obligación de que su nombre y apellidos figuren en el acta de nacimiento del hijo. Cuando sólo uno de los padres haga la presentación del hijo habido fuera de matrimonio, se pondrán, siguiendo al nombre de éste, los dos apellidos del padre o la madre compareciente. Esto será sin perjuicio de la investigación de la paternidad o de la maternidad ante los tribunales de acuerdo con las disposiciones relativas de este Código. En el acta de nacimiento respectiva no se hará mención de que el presente es hijo de padre o madre desconocidos.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio.
+
+En las actas de nacimiento no se expresará que se trata, en su caso, de hijo natural.
 
 ###### ARTICULO 61.
 
@@ -401,21 +419,27 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 65.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido, dándose además intervención al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 66.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente de los hospitales, casas de maternidad, e inclusas, respecto de niños nacidos o expuestos en ellas.
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión, y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas y en caso de incumplimiento, la Autoridad Municipal impondrá al infractor una multa de cien a mil pesos.
 
 ###### ARTICULO 67.
 
 En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 68.
 
-Si con el niño expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a establecer la identidad de aquél, el Oficial del Registro Civil ordenará su depósito ante el Ministerio Público respectivo; mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
 ###### ARTICULO 69.
 
@@ -441,27 +465,39 @@ Si el nacimiento ocurriere en un buque extranjero, se observará por lo que toca
 
 Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial del registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 75.
 
-Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción, en los libros respectivos.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 76.
 
-En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+Cuando se trate de parto múltiple, se levantará una acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido al parto y, además se imprimirán las huellas digitales de los presentados. El Oficial del Registro Civil relacionará las actas.
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 77.
 
-Si el padre o la madre de un hijo natural, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
+Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 78.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada.
+Si el reconocimiento del hijo nacido fuera de matrimonio se hiciere después de haber registrado su nacimiento, se formará acta separada.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 79.
 
-El reconocimiento del hijo natural mayor de edad requiere el consentimiento expreso de éste en el acta relativa.
+El reconocimiento del hijo nacido fuera de matrimonio mayor de edad requiere el consentimiento expreso de éste en el acta relativa.
 
 ###### ARTICULO 80.
 
@@ -481,9 +517,11 @@ Si el reconocimiento se hiciere en oficina distinta de aquella en que se levant�
 
 ### CAPITULO IV. DE LAS ACTAS DE ADOPCION
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante al acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante, se levante el acta correspondiente.
 
 ###### ARTICULO 85.
 
@@ -505,9 +543,11 @@ El Juez o tribunal que resuelva que una adopción queda sin efecto, remitirá de
 
 ### CAPITULO V. DE LAS ACTAS DE TUTELA
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y una vez ejecutable, el Juez remitirá copia certificada del mismo al Oficial del Registro Civil para que levante el acta respectiva. El tutor y el curador, en su caso, cuidarán del cumplimiento de esta disposición.
 
 ###### ARTICULO 90.
 
@@ -625,17 +665,21 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Fracción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 102.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimentos para contraer matrimonio, levantarán un acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimentos para contraer matrimonio, levantará un acta, ante dos testigos en la que hará constar los datos que le hagan suponer que existe impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren será remitida al Juez que corresponda, para que haga la calificación del impedimento.
 
 ###### ARTICULO 103.
 
 Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 104.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+Antes de remitir el acta al Juez, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
 
 ###### ARTICULO 105.
 
@@ -703,17 +747,21 @@ V.- La clase de enfermedad que determinó la muerte especificadamente el lugar e
 
 VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 117.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de veinticuatro horas siguientes a la muerte.
+Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad; los huéspedes de los hoteles, mesones o casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes del fallecimiento y en caso de incumplimiento se sancionarán con una multa de cien a dos mil pesos.
 
 ###### ARTICULO 118.
 
 Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 119.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte a la autoridad judicial, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
 
 ###### ARTICULO 120.
 
@@ -725,7 +773,7 @@ Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido e
 
 ###### ARTICULO 122.
 
-En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 116, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose además, lo dispuesto para los nacimientos en los artículos 71 y 72.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1980)
 
 ###### ARTICULO 123.
 
@@ -733,15 +781,17 @@ Cuando alguno falleciere en lugar que no sea el de su domicilio, se remitirá al
 
 ###### ARTICULO 124.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1980)
 
 ###### ARTICULO 125.
 
-Los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1980)
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 126.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 116.
+En los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de estas circunstancias, y las actas solamente contendrán los demás requisitos que prescribe el artículo 116.
 
 ###### ARTICULO 127.
 
@@ -761,11 +811,15 @@ El Oficial del Registro levantará el acta correspondiente, en la que insertará
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPITULO XI. DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+### CAPITULO XI. DE LA RECTIFICACION Y ACLARACION DE LAS ACTAS DEL ESTADO CIVIL
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 131.
 
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación de un acta del estado civil, cuando se trate de hechos esenciales asentados, no puede hacerse sino ante la autoridad judicial y en virtud de resolución de ésta, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
 ###### ARTICULO 132.
 
@@ -787,13 +841,49 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 345, 346 y 347, pueden continuar o intentar la acción de que en ellos se trata.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 134.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+El procedimiento de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 135.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+La resolución que ordene la rectificación de un acta se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ARTICULO 135 BIS.- La aclaración de las actas del estado civil, procede cuando en el registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los hechos esenciales de aquellas y deberá tramitarse ante el Oficial del Registro Civil correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ARTICULO 135 BIS 1.- Tienen derecho a promover la aclaración, las personas a quienes se refiere o afecte el acto de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ARTICULO 135 BIS 2.- El interesado en la aclaración de un acta del estado civil, deberá presentar ante el Oficial del Registro Civil una solicitud por escrito que deberá contener:
+
+I.- Nombre, domicilio y generales del interesado;
+
+II.- Los datos del acta de cuya aclaración se trate;
+
+III.- El señalamiento en que consistan los errores del acta.
+
+A la solicitud deberá acompañarse:
+
+a).- Copia certificada del acta de que se trate, expedida por el Oficial del Registro Civil correspondiente.
+
+b).- Copia certificada de las actas relacionadas con aquella cuya aclaración se solicite.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ARTICULO 135 BIS 3.- El Oficial del Registro Civil turnará oportunamente la documentación a que se refiere el artículo anterior al Secretario General de Gobierno, quien dictará acuerdo fundado respecto de si procede o no la aclaración solicitada. En caso de que el acuerdo sea en el sentido de que no procede la aclaración, se lo comunicará al Oficial del Registro Civil, acompañándole la documentación correspondiente para que éste proceda a notificarlo al interesado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ARTICULO 135 BIS 4.- En caso de que el acuerdo fuere en el sentido de que sí procede la aclaración, se le comunicará al Oficial del Registro Civil y al Encargado del Archivo del Tribunal Superior de Justicia, ajustándoles la documentación relativa, para que efectúen las correcciones de los errores asentados en el acta correspondiente. Dichos funcionarios, anotarán marginalmente en el acta los puntos resolutivos del acuerdo de referencia.
 
 ## TITULO QUINTO. DEL MATRIMONIO
 
@@ -851,9 +941,11 @@ Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y l
 
 El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 147.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de lo Familiar de la residencia del menor suplirá el consentimiento.
 
 ###### ARTICULO 148.
 
@@ -927,9 +1019,13 @@ Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se r
 
 ### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 159.
 
 Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
 ###### ARTICULO 160.
 
@@ -957,11 +1053,11 @@ Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente 
 
 (DEROGADO, P.O. 20 DE JUNIO DE 1975)
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 165.
 
-Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de Primera Instancia resolverá lo conducente.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de Primera Instancia de lo Familiar resolverá lo conducente.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -1629,9 +1725,11 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 288.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente, y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
 ## TITULO SEXTO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
@@ -1789,11 +1887,11 @@ El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transa
 
 Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 320.
 
-El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+El cónyuge que se haya separado del otro sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACION
 
@@ -2081,13 +2179,17 @@ La mujer que cuida o ha cuidado la lactancia de un niño, a quien le ha dado su 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 377.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá su custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Familiar del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 378.
 
-En caso de que el reconocimiento se efectué sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectué sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia de lo Familiar del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ###### ARTICULO 379.
 
@@ -2297,11 +2399,11 @@ En los casos previstos en los artículos 377 y 378, cuando por cualquiera circun
 
 Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 415.
 
-A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las Fracciones II y III del artículo 411, en el orden que determine el Juez de Primera Instancia, tomando en cuenta las circunstancias del caso.
+A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fracciones II y III del artículo 411, en el orden que determine el Juez de Primera Instancia de lo Familiar, tomando en cuenta las circunstancias del caso.
 
 ###### ARTICULO 416.
 
@@ -2533,15 +2635,19 @@ Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tu
 
 Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 456.
 
-No pueden ser nombrados tutores o curadores las personas que desempeñen cargos en los Juzgados de Primera Instancia; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+No pueden ser nombrados tutores o curadores las personas que desempeñen cargos en los Juzgados de Primera Instancia de lo Familiar; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro de cuarto grado inclusive.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 457.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia de lo Familiar que conozca el caso, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los Jueces de Primera Instancia, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso al Juez de Primera Instancia de lo Familiar, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
 ###### ARTICULO 458.
 
@@ -2571,9 +2677,11 @@ El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinari
 
 La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 465.
 
-El Juez de Primera Instancia Civil del domicilio del incapacitado, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+El Juez de Primera Instancia de lo Familiar del domicilio del incapacitado, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
 
 ###### ARTICULO 466.
 
@@ -2709,13 +2817,17 @@ I.- Cuando no hay tutor testamentario ni persona a quien conforme a la Ley corre
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 480.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 493.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez de Primera Instancia confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez de Primera Instancia de lo Familiar confirmará la designación, si no tiene justa causa para reprobarla. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 494.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de Primera Instancia, de entre las personas que figuren en la lista formada cada año por el Tribunal Superior de Justicia, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de Primera Instancia de lo Familiar, de entre las personas que figuren en la lista formada cada año por el Tribunal Superior de Justicia, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
 
 ###### ARTICULO 495.
 
@@ -2725,9 +2837,13 @@ Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 497.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aún de oficio por el Juez de Primera Instancia.
+A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aún de oficio por el Juez de Primera Instancia de lo Familiar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 498.
 
@@ -2745,7 +2861,9 @@ V.- Los miembros de las juntas de beneficiencia (sic) pública o privada que dis
 
 VI.- Los directores de establecimientos de beneficiencia (sic) pública.
 
-Los Jueces de Primera Instancia nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que debe formar el Tribunal Superior de Justicia, cuando estén conformes en desempeñar gratuitamente la tutela de que se trate.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+Los Jueces de Primera Instancia de lo Familiar nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que debe formar el Tribunal Superior de Justicia, cuando estén conformes en desempeñar gratuitamente la tutela de que se trate.
 
 ###### ARTICULO 499.
 
@@ -2901,9 +3019,11 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por 
 
 Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa obligada ignorada por el testador que, a juicio del Juez y previa audiencia del curador, haga necesaria aquella.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 519.
 
-La garantía que presten los tutores no impedirá que el Juez de Primera Instancia, a moción del Ministerio Público, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+La garantía que presten los tutores no impedirá que el Juez de Primera Instancia de lo Familiar, a moción del Ministerio Público, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
 
 ###### ARTICULO 520.
 
@@ -2999,9 +3119,11 @@ Los gastos de alimentación y educación del menor deben regularse de manera que
 
 Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 537.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, o por sí mismo, ponerlo en conocimiento del Juez de Primera Instancia, para que dicte las medidas convenientes.
+El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infrinje (sic) esta disposición, puede el menor, por conducto del curador, o por sí mismo, ponerlo en conocimiento del Juez de Primera Instancia de lo Familiar, para que dicte las medidas convenientes.
 
 ###### ARTICULO 538.
 
@@ -3403,9 +3525,11 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
 ###### ARTICULO 628.
 
-Los jueces de primera instancia son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir por medio de disposiciones apropiadas, la transgresión de sus deberes.
+Los Jueces de Primera Instancia de lo Familiar son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir, por medio de disposiciones apropiadas, la transgresión de sus deberes.
 
 ###### ARTICULO 629.
 
@@ -14728,3 +14852,9 @@ P.O. 20 DE SEPTIEMBRE DE 1979.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente decreto, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado, entrará en vigor el día primero de octubre de mil novecientos ochenta.
