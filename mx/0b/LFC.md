@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "1992-12-29"
+last_updated: "1996-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFC"
 
 LEY FEDERAL DE CINEMATOGRAFIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -64,9 +64,7 @@ La Secretaría de Gobernación tendrá las atribuciones siguientes:
 
 I. Autorizar la exhibición pública de películas en el territorio mexicano, así como su comercialización, incluidas la renta o venta. La autorización se apegará a la clasificación que establezca el Reglamento; y
 
-II. Dirigir y administrar la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección, restauración, difusión y promoción de las películas.
-
-Para el otorgamiento de las autorizaciones previstas en la fracción anterior, los productores, distribuidores o comercializadores deberán aportar para el acervo de la Cineteca Nacional, copia de las películas, en los términos que señale el Reglamento;
+II. (DEROGADA, D.O.F. 7 DE MAYO DE 1996)
 
 III. Sancionar a los infractores de esta Ley o su Reglamento; y
 
@@ -90,7 +88,13 @@ VI. Procurar la difusión de la producción del cine nacional a los diversos niv
 
 VII. Promover el uso del cine y el video como medios de instrucción escolar y difusión cultural extraescolar; y
 
-VIII. Las demás que le atribuyan otras leyes.
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1996)</small>
+
+VIII. Dirigir y administrar la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección, restauración, difusión y promoción de películas.
+
+Para el otorgamiento de las autorizaciones previstas en la fracción I del artículo anterior, los productores, distribuidores o comercializadores deberán aportar para el acervo de la Cineteca Nacional, copia de las películas, en los términos que señale el Reglamento, y
+
+IX. Las demás que le atribuyan otras leyes.
 
 ###### ARTICULO 7o.
 
@@ -177,3 +181,15 @@ CUARTO. Las inscripciones hechas en el Registro Público Cinematográfico serán
 México, D.F., a 20 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Servando Hernández Camacho, Presidente.- Sen. Roberto Suárez Nieto, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE MAYO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos financieros y materiales con los que cuenta la Secretaría de Gobernación para la dirección y administración de la Cineteca Nacional se transferirán a la Secretaría de Educación Pública.
+
+TERCERO.- Los derechos laborales de los trabajadores que, en su caso, pasen de una dependencia a otra con motivo de este decreto, se respetarán íntegramente.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
