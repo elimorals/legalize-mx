@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1970-12-20"
+last_updated: "1971-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1971.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -1255,7 +1255,9 @@ b).- Por el tiempo de servicios a Gobiernos o Municipios de otras Entidades, la 
 
 En ambos casos, el trabajador o el organismo sindical a que este pertenezca, podrán convenir con el Instituto la forma de pago.
 
-Para gozar de los beneficios establecidos en el presente artículo, los interesados deberán ejercitar el derecho que aquí se otorga y cumplir con los requisitos necesarios, dentro de un plazo que fenecerá el 31 de diciembre de 1971.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+Para gozar de los beneficios establecidos en el presente Artículo, los interesados deberán ejercitar el derecho que aquí se otorga y cumplir con los requisitos necesarios, dentro de un plazo que fenecerá el 31 de diciembre de 1972.
 
 ###### ARTICULO CUARTO.
 
@@ -1318,3 +1320,9 @@ EL SECRETARIO GRAL. DE GOBIERNO
 DR. FEDERICO MARTINEZ MANAUTOU.
 
 (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1971.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
