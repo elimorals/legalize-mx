@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2003-06-13"
+last_updated: "2004-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -795,9 +795,7 @@ b) Los cónyuges de los mismos o las personas que tengan parentesco por consangu
 
 c) Las personas que tengan litigio pendiente con la institución de seguros de que se trate;
 
-d) Las personas sentenciadas por delitos patrimoniales intencionales, las inhabilitadas para
-
-ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
+d) Las personas sentenciadas por delitos patrimoniales intencionales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
 
 e) Los concursados que no hayan sido rehabilitados;
 
@@ -1991,9 +1989,7 @@ I.- El monto de las reservas determinado conforme al artículo 53 de esta Ley, s
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
 
-II.- Las reservas para obligaciones pendientes de cumplir a que se refieren las fracciones I y
-
-II del artículo 50, deberán calcularse y registrarse en los términos previstos por dichas fracciones; y
+II.- Las reservas para obligaciones pendientes de cumplir a que se refieren las fracciones I y II del artículo 50, deberán calcularse y registrarse en los términos previstos por dichas fracciones; y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3227,7 +3223,7 @@ IV.- Emitir las disposiciones necesarias para el ejercicio de las facultades que
 
 > <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2002)</small>
 
-IV. Bis.- Emitir, en el ámbito de su competencia, las normas de carácter prudencial orientadas a preservar la solvencia, liquidez y estabilidad financiera de las instituciones y sociedades mutualistas de seguros;
+IV Bis.- Emitir, en el ámbito de su competencia, las normas de carácter prudencial orientadas a preservar la solvencia, liquidez y estabilidad financiera de las instituciones y sociedades mutualistas de seguros;
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -3923,27 +3919,65 @@ En caso de que un agente de seguros acumule cinco infracciones por los conceptos
 
 Para proceder penalmente por los delitos previstos en los artículos 141 al 146 y 147 al 147 Bis 2 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas; también se procederá a petición de la institución o sociedad mutualista de seguros ofendidas, o de quien tenga interés jurídico.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
-
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 Las multas previstas en este capítulo, se impondrán a razón de días de salario. Para calcular su importe se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO D.O.F. 28 DE ENERO DE 2004)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones y sociedades mutualistas de seguros, actos u operaciones, que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de presentar a esa Secretaría, por conducto de la citada Comisión, reportes periódicos sobre las operaciones y actividades que realicen con sus contratantes, asegurados, beneficiarios y otros usuarios de sus servicios, por los montos y en los supuestos, que en dichas disposiciones de carácter general se establezcan.
+Las instituciones y sociedades mutualistas de seguros y los agentes de seguros, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional de Seguros y Fianzas, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de la operaciones y servicios de las mencionadas empresas aseguradoras, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones e instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas en que operen y las prácticas comerciales, financieras y aseguradoras que priven en las mismas; la debida y oportuna capacitación de su personal y medidas específicas de seguridad en el manejo de las operaciones de las propias empresas aseguradoras.
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional de Seguros y Fianzas, reportes sobre:
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
-Las disposiciones de carácter general señaladas en el párrafo anterior y las obligaciones previstas en ellas, deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las citadas empresas de seguros; la violación de las mismas será sancionada por la Comisión Nacional de Seguros y Fianzas con multa equivalente del diez al cien porciento del acto u operación de que se trate.
+b. Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, directivos, funcionarios, empleados y apoderados.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de las empresas de seguros a que se refiere este artículo deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas disposiciones será sancionada en los términos de las leyes correspondientes.
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las instituciones y sociedades mutualistas de seguros y los agentes de seguros deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas instituciones, sociedades y agentes deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas instituciones, sociedades y agentes deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las instituciones y sociedades mutualistas de seguros y agentes de seguros sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las instituciones y sociedades mutualistas de seguros y los agentes de seguros deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional de Seguros y Fianzas, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las instituciones y sociedades mutualistas de seguros y los agentes de seguros, estarán obligados a proporcionar dicha información y documentación. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual, ni a lo dispuesto en materia del secreto propio de las operaciones a que se refiere el artículo 46 fracción XV, en relación con los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones y sociedades mutualistas de seguros y los agentes de seguros, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados respectivos, por lo cual, tanto las instituciones y sociedades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional de Seguros y Fianzas conforme al procedimiento previsto en el artículo 138 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las mencionadas multas podrán ser impuestas, a las instituciones y sociedades mutualistas de seguros y los agentes de seguros, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados y personas físicas y morales, que en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional de Seguros y Fianzas, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en los artículos 23 y 31 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, las instituciones y sociedades mutualistas de seguros y los agentes de seguros, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -4900,3 +4934,7 @@ D.O.F. 13 DE JUNIO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
