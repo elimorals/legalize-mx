@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "1971-12-28"
+last_updated: "1972-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1972.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -45,11 +45,11 @@ T I T U L O P R I M E R O
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1972)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley es de observancia general para los Titulares de los Departamentos Ejecutivo, Legislativo y Judicial del Estado y para todos los trabajadores de base al servicio de los mismos Departamentos, así como de la Unidad Hospitalaria "Hospital Civil de Puebla".
+La presente Ley es de observancia general para los titulares de los departamentos Legislativo, Ejecutivo y Judicial del Estado, y para todos los trabajadores de base al servicio de los mismos departamentos.
 
 ###### ARTICULO 2o.
 
@@ -1010,3 +1010,9 @@ Las presentes REFORMAS entrarán en vigor a partir del 1o. de Enero de 1972.
 ###### ARTICULO 2o.
 
 Se faculta al propio Titular del Ejecutivo para la interpretación y aplicación del presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 1972.
+
+PRIMERO.- Este Decreto empezará a surtir sus efectos, hecha la publicación en el Periódico Oficial del Estado, inmediatamente después que se consume la cesión gratuita del Ejecutivo del Estado a favor de la Universidad Autónoma de Puebla de la Unidad Hospitalaria "Hospital Civil de Puebla".
+
+SEGUNDO.- Todas las disposiciones legales que se opongan al presente Decreto quedan derogadas y no producirán efecto alguno.
