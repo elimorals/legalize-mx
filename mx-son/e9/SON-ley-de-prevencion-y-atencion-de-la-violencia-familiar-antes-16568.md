@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2000-02-17"
+last_updated: "2004-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 13 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1999.
 
@@ -218,6 +218,10 @@ Corresponde a la Secretaría de Educación y Cultura, además de las establecida
 I.- Apoyar la investigación sobre la violencia intrafamiliar dentro y fuera del proceso educativo, cuyos resultados servirán para diseñar estrategias para su prevención y tratamiento;
 
 II.- Diseñar programas para la prevención y tratamiento de la violencia intrafamiliar en todos los subsistemas del Sector Educativo Estatal;
+
+> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2004)</small>
+
+II Bis.- Diseñar y proponer ante la Secretaría de Educación Pública un programa regional especifico para nuestras instituciones de educación básica que incluya, como matería evaluable, la prevención y el tratamiento de la violencia intrafamiliar y, de modo especial, el maltrato sexual de menores;
 
 III.- Difundir permanentemente programas para prevenir la violencia intrafamiliar, involucrando a estudiantes y padres de familia en actividades y proyectos para ese fin;
 
@@ -441,7 +445,7 @@ a).- Terapéutico: para que asuma la corresponsabilidad en el conflicto, reforza
 
 b).- Educativo: para influir en la fexibilización (sic) de los roles sexuales y asumir derechos y obligaciones en la familia; y,
 
-c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia intrfamiliar que le permita la reorganización de su vida;
+c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia intrafamiliar que le permita la reorganización de su vida;
 
 II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipos de comportamientos o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación entre las personas; y,
 
@@ -692,3 +696,11 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 29 de diciembre de 1999.- AL MARGEN INFERIOR DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- LV LEGISLATURA.- DIPUTADO PRESIDENTE.- C. JOSE GUADALUPE CURIEL.- RUBRICA.- DIPUTADO SECRETARIO.- C. JESUS ORTIZ FELIX.- RUBRICA.- DIPUTADO SECRETARIO.- C. VALENTINA RUIZ LIZARRAGA.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, treinta y uno de diciembre de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 13 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
