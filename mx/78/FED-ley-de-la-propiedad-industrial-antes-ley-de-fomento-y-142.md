@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "1994-08-02"
+last_updated: "1996-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -2367,7 +2367,7 @@ TERCERO.- Las declaraciones administrativas que se encuentren en trámite al mom
 
 CUARTO.- Tratándose de marcas registradas con anterioridad a la entrada en vigor de este Decreto, en cuyas solicitudes iniciales se hubiese reclamado toda una clase, al momento de solicitar su renovación deberán especificarse los productos o servicios determinados según la clasificación que establezca el reglamento de la Ley.
 
-QUINTO.- Hasta en tanto se expida la Ley que cumpla con las disposiciones sustantivas del Convenio Internacional para la Protección de las Obtenciones Vegetales, 1978, o, en su caso, con las de la Convención Internacional para la Protección de Nuevas Variedades de Plantas, 1991, el Instituto recibirá las solicitudes de los obtentores de vegetales para variedades en todos los géneros y especies vegetales a que se refiere la fracción V del artículo 16 reformando (sic), que le sean presentadas a partir de la entrada en vigor de este Decreto, y en su momento las remitirá a la autoridad competente para que ésta continúe el trámite.
+QUINTO.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE VARIEDADES VEGETALES, D.O.F. 25 DE OCTUBRE DE 1996)
 
 SEXTO.- A partir de la entrada en vigor del presente Decreto, y hasta que la Junta de Gobierno del Instituto expida las tarifas que deban cubrirse por los servicios que presta el Instituto se pagarán, por concepto de aprovechamientos, por los servicios que preste el Instituto, las mismas cantidades bajo los mismos conceptos establecidos en los artículos 63 a 70-C de la Ley Federal de Derechos vigentes al primero de julio de mil novecientos noventa y cuatro. La Junta de Gobierno del Instituto expedirá las tarifas por los servicios que preste el propio Instituto a más tardar el primero de enero de mil novecientos noventa y cinco.
 
@@ -2376,3 +2376,27 @@ SEPTIMO.- Se derogan los artículos 63 a 70-C de la Ley Federal de Derechos.
 OCTAVO.- En relación con las solicitudes de patente que se encuentren en trámite y respecto de las cuales no se haya presentado el comprobante de pago de la obligación fiscal correspondiente al examen de fondo, los interesados deberán exhibirlo ante el Instituto dentro de los cinco meses siguientes a la entrada en vigor de este Decreto. De no presentarse dicho comprobante en el plazo señalado, se considerarán abandonadas las respectivas solicitudes y se tendrán por concluidos los trámites correspondientes.
 
 NOVENO.- A las personas que hayan cometido un delito de los previstos en la ley que se reforma, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial vigentes en el momento en que se haya cometido, sin perjuicio de las disposiciones aplicables en materia penal.
+
+D.O.F. 25 DE OCTUBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto el Ejecutivo Federal expida el reglamento de la presente ley, se aplicarán, de manera supletoria y en lo que no la contravenga, las disposiciones administrativas y reglamentarias relativas de la Ley de la Propiedad Industrial.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos 12 de la Ley Sobre Producción, Certificación y Comercio de Semillas, y Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 2 de agosto de 1994, así como todas las demás disposiciones administrativas que se opongan a la presente ley.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Mexicano de la Propiedad Industrial remitirá a la Secretaría, dentro de los seis meses de la entrada en vigor de la presente ley, las solicitudes de los obtentores de variedades vegetales en todos los géneros y especies, que le hayan sido presentadas con anterioridad a la entrada en vigor de este ordenamiento, de conformidad con lo establecido en el artículo Quinto Transitorio del Decreto por el que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley de Fomento y Protección de la Propiedad Industrial publicado en el Diario Oficial de la Federación el 2 de agosto de 1994.
+
+Respecto de las solicitudes de patentes para proteger variedades vegetales que se encuentren en trámite al amparo de la Ley de Fomento y Protección de la Propiedad Industrial, los solicitantes podrán acogerse a los beneficios que otorga este ordenamiento dentro de los seis meses siguientes a su entrada en vigor, mediante petición por escrito presentada ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural. Los derechos adquiridos por las patentes que se hubieren otorgado serán respetados íntegramente.
