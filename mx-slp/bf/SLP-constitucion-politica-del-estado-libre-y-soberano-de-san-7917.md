@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2003-07-11"
+last_updated: "2004-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2004.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1763,11 +1763,11 @@ La ley establecerá su organización, funcionamiento, el procedimiento y los rec
 
 Los Magistrados deberán reunir los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal. Serán designados por el Congreso del Estado en la misma forma y términos que establece el artículo 96 de la presente Constitución. Durarán en su cargo seis años, durante los cuales podrán ser separados libremente del mismo por el Congreso del Estado a propuesta del Ejecutivo. Si son ratificados para otro período igual, sólo podrán ser privados de sus cargos por causa grave y previo juicio de responsabilidad.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2004)</small>
 
 TÍTULO DECIMOSEGUNDO
 
-DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DEL JUICIO POLÍTICO
+DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO, Y DEL JUICIO POLÍTICO
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1780,6 +1780,10 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y DEL JUICIO POLÍTICO
 Se entiende por servidores públicos: Los representantes de elección popular, los miembros del Supremo Tribunal de Justicia y demás Tribunales del Estado, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración estatal o municipal, incluyendo sus entidades; y serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 El Gobernador del Estado, mientras permanezca en el desempeño de su encargo, sólo podrá ser acusado por violaciones graves a la Constitución Política del Estado; por oponerse a la libertad electoral; por la comisión de delitos graves del orden común y por el manejo indebido de fondos y recursos públicos.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2004)</small>
+
+La responsabilidad del estado por los daños que con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2236,3 +2240,15 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 11 DE JULIO DE 2003.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los ayuntamientos de la Entidad, de conformidad con lo dispuesto por el artículo 138 de la propia Constitución.
+
+P.O. 23 DE MARZO DE 2004.
+
+UNICO. El presente Decreto entrará en vigor el 1 de enero de 2004, previa publicación en el Periódico Oficial del Estado, requiriéndose anticipadamente la aprobación de los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución.
+
+El Congreso del Estado expedirá la Ley Reglamentaria de este Decreto, conforme a los criterios siguientes:
+
+a) El pago de la indemnización se efectuará después de seguir los procedimientos para determinar que al particular efectivamente le corresponda éste;
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate, y
+
+c) El estado podrá repetir de los servidores públicos el pago de la indemnización cubierta a los particulares.
