@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "2003-03-18"
+last_updated: "2004-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-> <small>N. DE E. EN RELACION A LA DENOMINACION DEL PRESENTE ORDENAMIENTO, VEANSE LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003.</small>
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 12 DE JULIO DE 2004.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -1197,6 +1197,8 @@ Para los efectos del artículo anterior, el Tribunal Superior de Justicia, la Se
 
 G.O. 18 DE MARZO DE 2003.
 
+DECRETO No. 547 DE REFORMA CONSTITUCIONAL.
+
 PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
@@ -1212,3 +1214,33 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 12 DE JULIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Ministerio Público de veinte de agosto de mil novecientos ochenta y tres y todas sus reformas, así como las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Los Agentes del Ministerio Público, de la Policía Ministerial y los Peritos de la Procuraduría General de Justicia del Estado, al momento de entrar en vigor las disposiciones relativas al Servicio Público de Carrera previsto en esta Ley Orgánica y en la Ley del Servicio Público de Carrera de la Administración Pública Centralizada del Estado, cumplirán con los requisitos y condiciones respectivos para incorporarse a dicho servicio, a fin de obtener los derechos previstos en ambos ordenamientos.
+
+###### ARTÍCULO CUARTO.
+
+Para todos los efectos legales procedentes, cualquier mención a la Dirección General de Averiguaciones Previas que se haga en la legislación vigente en el Estado, se entenderá que se refiere a la Dirección General de Investigaciones Ministeriales.
+
+###### ARTÍCULO QUINTO.
+
+Para todos los efectos legales procedentes, la Dirección General de Administración a que hace referencia esta ley sustituye a la Oficialía Mayor.
+
+###### ARTÍCULO SEXTO.
+
+Los convenios celebrados por el Procurador General de Justicia, antes de la entrada en vigor de esta ley, tendrán plena validez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro del término de treinta días siguientes al inicio de la vigencia de la presente ley, deberán expedirse los reglamentos que se requieran para su pleno cumplimiento.
