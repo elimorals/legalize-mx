@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-03-07"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1875,9 +1875,11 @@ Los propietarios de vehículos serán solidariamente responsables con los conduc
 
 Asimismo, los propietarios o conductores de los vehículos serán responsables de las infracciones cometidas por sus acompañantes, excepto en los casos de vehículos que se encuentren prestando el servicio público de transporte de pasajeros.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2003)</small>
+
 ###### ARTÍCULO 151.
 
-El infractor que pague las multas previstas en la Tabla de Sanciones Pecuniarias, dentro de los cinco días siguientes a la fecha de la infracción, tendrá derecho a un descuento por pronto pago del cincuenta por ciento del importe de la multa, excepto en aquellas infracciones señaladas con asterisco (*).
+El infractor que pague las multas previstas en la Tabla de Sanciones Pecuniarias, dentro de los quince días siguientes a la fecha de la infracción, tendrá derecho a un descuento por pronto pago del cincuenta por ciento del importe de la multa, excepto en aquellas infracciones señaladas con asterisco (*).
 
 ###### ARTÍCULO 152.
 
@@ -1926,3 +1928,7 @@ UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS SIGUIENTES 45 DIAS DE SU
 P.O. 7 DE MARZO DE 2003.
 
 UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS SIGUIENTES 45 DIAS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 23 DE MAYO DE 2003.
+
+UNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
