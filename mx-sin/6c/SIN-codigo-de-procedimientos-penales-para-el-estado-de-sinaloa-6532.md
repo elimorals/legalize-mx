@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "1994-08-19"
+last_updated: "1995-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -827,7 +827,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en el artículo 139; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en el artículo 167; rapto con violencia previsto en el artículo 169; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179 y 180; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I y II del artículo 205; robo de vehículo automotor previsto en el artículo 207; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; ataques a los medios de transporte previsto en el 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; y el de tortura previsto en el artículo 328.
+> <small>(REFORMADO, 5 DE ABRIL DE 1995)</small>
+
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en el artículo 139; homicidio por culpa grave previsto en el artículo 144; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168; rapto con violencia previsto en el artículo 169; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179,180 y 181; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en el artículo 207; robo bancario previsto en el artículo 210; abigeato en los artículos 220 y 224; ataques a los medios de transporte previsto en el 262; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; el de tortura previsto en el artículo 328; y los delitos electorales previstos en los artículos 357 fracción III y 359.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -3636,3 +3638,9 @@ El presente Decreto entrará en vigor el día 1o. de Septiembre de mil novecient
 P.O. 19 DE AGOSTO DE 1994.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+
+P.O. 5 DE ABRIL DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
