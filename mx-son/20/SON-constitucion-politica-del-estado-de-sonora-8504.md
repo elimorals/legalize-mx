@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1994-04-28"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -129,7 +129,9 @@ Son Extranjeros los considerados así por la Constitución General de la Repúbl
 
 Son obligaciones de los sonorenses:
 
-I. Enviar a sus hijos o pupilos menores de quince años a las escuelas públicas o privadas para obtener la instrucción primaria elemental y militar durante el tiempo que marque la Ley de Educación Pública.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I. Enviar a sus hijos o pupilos a las escuelas públicas o privadas para que cursen la educación primaria y secundaria y cuidar que reciban la instrucción militar, en los términos que establezca la Ley.
 
 II. Acudir en los días y horas designados al llamado de la autoridad para obtener la instrucción cívica y militar correspondiente.
 
@@ -861,7 +863,7 @@ La Diputación Permanente convocará al Congreso a sesiones extraordinarias siem
 
 Instrucción Pública.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
 #### SECCION IV.
 
@@ -1211,7 +1213,7 @@ Para ser Magistrados de las Salas Regionales del Supremo Tribunal de Justicia se
 
 ###### Artículo 89.
 
-La Educación Pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
+La educación pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes y reglamentos correspondientes.
 
 > <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
@@ -1229,19 +1231,23 @@ Toda la educación que imparta el Estado será gratuita.
 
 (DEROGADO, B.O. 12 DE NOVIEMBRE DE 1992)
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 93.
 
-La educación primaria será obligatoria para todos los niños comprendidos en edad escolar y para todos los adultos analfabetos menores de cuarenta años. Para aquéllos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, el Estado y los municipios crearán los establecimientos de educación rudimentaria, la que también será obligatoria.
+La educación primaria y secundaria serán obligatorias para todos los niños y jóvenes comprendidos en edad escolar, y la primaria para todos los adultos analfabetos menores de cuarenta años. Para aquellos que por el lugar de su residencia no puedan concurrir a las escuelas establecidas, el Estado y los municipios elaborarán programas especiales, que también serán obligatorios.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 94.
 
-El Estado tendrá la obligación de establecer o hacer que se establezcan, de acuerdo con la parte relativa, fracción XII del Artículo 123 de la Constitución General, escuelas permanentes en todos los lugares cuya población escolar llegue a veinte niños.
+El Estado vigilará el cumplimiento, de parte de los patrones, de la obligación consignada en la fracción XII, tercer párrafo, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen, el propio Estado y el Municipio, de impartir la enseñanza preescolar, primaria y secundaria.
 
 > <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
-
-Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el municipio, de impartir la enseñanza primaria obligatoria.
 
 Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria.
 
@@ -2606,6 +2612,12 @@ UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación e
 B.O. 28 DE ABRIL DE 1994.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
