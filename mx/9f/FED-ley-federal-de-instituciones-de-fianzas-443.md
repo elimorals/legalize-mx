@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1977-12-30"
+last_updated: "1978-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1978.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -651,11 +651,11 @@ Tratándose de primas, por concepto de reafianzamiento recibido de empresas extr
 
 Las instituciones de fianzas, dentro de los primeros quince días de cada bimestre, presentarán manifestaciones a la Secretaría de Hacienda y Crédito Público, determinando el monto del derecho a que se refiere el artículo anterior. Al presentar dichas manifestaciones exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 74.
 
-Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios o Distrito Federal. Los contratos de arrendamiento, subarrendamiento o compra - venta que celebren las instituciones de fianzas, causarán el impuesto establecido por las fracciones II y VII, inciso C, de la Tarifa contenida en el artículo 4o. de la Ley General del Timbre.
+Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios o Distrito Federal.
 
 ###### ARTICULO 75.
 
@@ -1109,15 +1109,11 @@ Las instituciones de fianzas no gozan de los beneficios de orden y excusión y s
 
 La prórroga o espera concedida por el acreedor al deudor principal, sin consentimiento de la institución de fianzas, extingue la fianza.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 120.
 
-Las acciones que se deriven de la fianza prescribirán en dos años.
-
-Las obligaciones a cargo de las instituciones de fianzas, derivadas de las que otorguen para garantizar créditos a favor de la Federación, del Distrito Federal, de los Estados, de los Municipios y de los organismos descentralizados, se extinguirán por prescripción en el término de cinco años.
-
-En todo caso, el requerimiento escrito de pago, hecho a las instituciones de fianzas, interrumpe la prescripción.
+Las acciones que se deriven de la fianza prescribirán en tres años. El requerimiento escrito de pago o en su caso la presentación de la demanda, interrumpen la prescripción.
 
 ###### ARTICULO 121.
 
@@ -1380,3 +1376,31 @@ A partir de la fecha en que entren en vigor las reformas o adiciones a que esta 
 ###### ARTICULO DECIMO.
 
 Las obligaciones a cargo de las instituciones de fianzas, derivadas de las que hayan otorgado para garantizar créditos a favor de la Federación, del Distrito Federal, de los Estados, de los Municipios y de los organismos descentralizados, exigibles antes de la vigencia de la presente Ley, prescribirán en cinco años, pero el tiempo transcurrido hasta el 31 de diciembre de 1977, se ajustará proporcionalmente, multiplicando por 2.5 el número de días transcurridos desde que fueron exigibles o desde que se hubiera interrumpido la prescripción, hasta la fecha citada.
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+.
+
+###### ARTICULO SEGUNDO.
+
+El Artículo Segundo de esta Ley entrará en vigor, en toda la República, el 1o. de enero de 1979.
+
+###### ARTICULO TERCERO.
+
+Para determinar en relación con el nuevo plazo de prescripción el tiempo transcurrido al 31 de diciembre de 1978, respecto de las fianzas exigibles con anterioridad a esa fecha, otorgadas a favor del Gobierno Federal, de los Estados, Municipios, Departamento del Distrito Federal y organismos descentralizados, se procederá como sigue: los días que hubieran transcurrido hasta el 31 de diciembre de 1977 se multiplicarán por 2.5; se sumará el tiempo transcurrido durante 1978 y la suma resultante se multiplicará por 0.6.
+
+Las fianzas otorgadas a favor de particulares, exigibles antes de la vigencia de la presente Ley, prescribirán en tres años, pero el tiempo transcurrido hasta el 31 de diciembre de 1978, se ajustará proporcionalmente multiplicando por 1.5 el número de días transcurridos desde la fecha en que fueron exigibles o desde que se hubiere interrumpido la prescripción, hasta la fecha citada.
+
+D.O.F. 29 DE DICIEMBRE DE 1978.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+.
+
+###### ARTICULO SEGUNDO.
+
+A partir del 1o. de enero de 1980 entrarán en vigor los ARTICULOS TERCERO, SEXTO, SEPTIMO, DECIMO TERCERO, DECIMO CUARTO, DECIMO QUINTO, DECIMO SEPTIMO, VIGESIMO, VIGESIMO PRIMERO, VIGESIMO SEGUNDO Y VIGESIMO TERCERO de esta Ley; así como los a r t í c u l o s: 3o., 11 y 15 comprendidos en el ARTICULO CUARTO en materia de Aguas Envasadas; 4o., 4o. Bis y 6o. a que se refiere el ARTICULO QUINTO en materia de Cerveza; 19 y 133 contenidos en el ARTICULO OCTAVO en materia de Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas; 26 a que se refiere el ARTICULO DECIMO SEGUNDO en materia de Minería; 3o. a que se refiere el ARTICULO DECIMO SEXTO en materia de Servicios Telefónicos; 22 comprendido en el ARTICULO DECIMO OCTAVO en materia de Tenencia o Uso de Automóviles; 6o., 11 y 12 incluidos en el ARTICULO DECIMO NOVENO en materia de Venta de Gasolina, de esta misma Ley.
+
+.
