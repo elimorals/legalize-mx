@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1939-01-07"
+last_updated: "1940-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1940.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -433,9 +433,9 @@ XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
 XIV. Autorizar al Ejecutivo para que a nombre del Estado acepte y reciba donaciones, contraiga deudas designando los recursos con que deban cubrirse; siempre que para ello se cuente con la aprobación por lo menos de las dos terceras partes del número total de diputados.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1940)</small>
 
-XV. Declarar cuando ha lugar a formación de causa contra los funcionarios de que trata el inciso anterior y además contra el Director General de Rentas, Secretario General de Gobierno y Procurador General de Justicia, tanto por los delitos comunes como por los delitos oficiales; erigiéndose para el caso en Gran Jurado.
+XV. Declarar cuando ha lugar a formación de causa contra el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, el Secretario General de Gobierno, el Tesorero General del Estado y Regidores de Ayuntamiento, tanto por delitos comunes, como por los delitos y faltas oficiales; erigiéndose para el caso en Gran Jurado.
 
 XVI. Organizar el sistema penal sobre la base del trabajo como medio de regeneración,
 
@@ -701,9 +701,7 @@ XV.- Castigar corresccionalmente (sic) a los que le falten al respecto o desobed
 
 XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 1926)</small>
-
-XVII.- Suspender a los Presidentes Municipales y a los Regidores que abusaren de sus facultades, dando aviso justificado a la Legislatura o en su receso a la Diputación Permanente.
+XVII.- (DEROGADA, P.O. 27 DE NOVIEMBRE DE 1940)
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -1095,13 +1093,13 @@ Para el arreglo y administración de los caudales del Estado, el Ejecutivo nombr
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1940)</small>
 
 ###### Art. 123.
 
-En los delitos del Orden Común que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado; la Legislatura, erigida en Gran Jurado, declarará, con aprobación de las dos terceras partes de sus miembros presentes si ha o no lugar a formación de causa.
+En los delitos del orden común, Oficiales y faltas Oficiales que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno, el Tesorero General del Estado y los Regidores del Ayuntamiento, el Congreso, erigido en Gran Jurado, declarará mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe en su curso, cuando el acusado haya dejado de tener fuero o cesado en sus funciones, comenzando entonces la prescripción. En el caso afirmativo, el acusado queda por el mismo hecho, separado de su cargo y sujeto a la acción de los Tribunales Comunes.
 
-Cuando se trate del Gobernador, la Legislatura erigida en Gran Jurado declarará con la aprobación de las dos terceras partes del número total de sus Miembros, si ha o no lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda por el mismo hecho, separado de su encargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
+Cuando se trate del Gobernador se requiere la aprobación de las dos terceras partes del número total de Diputados, para declarar si ha o no lugar a formación de causa, y sólo podrá ser acusado por delitos graves del orden común y en los demás casos como si se tratara de un delito oficial.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1109,13 +1107,11 @@ Cuando se trate del Gobernador, la Legislatura erigida en Gran Jurado declarará
 
 Una vez hecha la declaración de haber lugar a formación de causa en contra de los altos Funcionarios a que se refiere el artículo anterior, por los delitos, faltas u omisiones oficiales en que incurran, conocerá del proceso el Supremo Tribunal de Justicia en única Instancia, en la forma que determine la Ley de Responsabilidades de Funcionarios del Estado. Si se tratare de la responsabilidad oficial del Magistrado en funciones, será substituido en los términos de Ley.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1940)</small>
 
 ###### Art. 125.
 
-De los Delitos comunes cometidos por los Jueces de Primera Instancia, Menores Municipales, Menores de Paz, Presidentes Municipales y Regidores, el Supremo Tribunal declarará en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo quedará suspenso el acusado y sujeto a los Tribunales del orden común.
-
-De los delitos, faltas u omisiones oficiales en que incurran dichos funcionarios, el Supremo Tribunal resolverá sobre la culpabilidad del acusado en la forma que determine la Ley, imponiendo en su caso la pena que es de aplicársele por el delito, falta u omisión oficial.
+De las faltas, delitos oficiales y comunes cometidos por los Jueces de Primera Instancia, Menores y de Paz, el Tribunal Superior de Justicia declarará, en la forma que determine la Ley, si ha lugar o no a proceder. En caso afirmativo quedará suspenso el acusado y sujeto a los Tribunales del Orden Común.
 
 ###### Art. 126.
 
@@ -1340,3 +1336,9 @@ UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación,
 P.O. 7 DE ENERO DE 1939
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
+
+P.O. 27 DE NOVIEMBRE DE 1940
+
+ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
+
+ART. SEGUNDO.- El presente Decreto comienza a surtir sus efectos desde la fecha de su promulgación y deroga todas las demás Leyes y disposiciones que se opongan a su cumplimiento.
