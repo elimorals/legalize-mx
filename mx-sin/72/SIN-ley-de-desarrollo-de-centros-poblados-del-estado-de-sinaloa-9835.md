@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1975-02-10"
+last_updated: "1975-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 10 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 7 DE ABRIL DE 1975.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -731,13 +731,13 @@ Cada crédito o empréstito para el financiamiento de las obras que ejecuten las
 
 En garantía de los créditos que obtengan el Estado o los Ayuntamientos para la realización de obras públicas, podrán afectar en fideicomiso los derechos e impuestos que recauden. En los contratos respectivos podrá convenirse que la Institución fiduciaria recaude directamente los ingresos dados en garantía y que el Estado o el Municipio de que se trate, ejerciten la facultad económico-coactiva, por conducto de la Tesorería Estatal o Municipal respetciva (sic), contra los deudores morosos.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 1974)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1975)</small>
 
 ###### Artículo 56 Bis.
 
-Tratándose del mejoramiento, ampliación y construcción de vías públicas urbanas que sirvan de enlace a vías del sistema carretero nacional, consideradas como obras de participación a que se refiere el artículo 6o., fracción III de esta Ley, su ejecución podrá realizarla la Federación, financiando su costo directamente, o en coparticipación con el Gobierno del Estado.
+Tratándose del mejoramiento, ampliación, construcción de obras viales que mejoren las calles y avenidas de las poblaciones que formen parte de los Caminos Nacionales cuando éstos deban atravezar centros de población para integrar un sistema carretero nacional, u otras obras de desarrollo urbano que tengan características similares, su ejecución podrá ser realizada por la Federación, financiando su costo directamente o en co-participación con el Gobierno del Estado.
 
-En estos casos, el Ejecutivo celebrará convenio con el Gobierno Federal, a efecto de que las cantidades que se recauden a través de la Secretaría de Finanzas del Estado por concepto de derechos de cooperación e impuestos de plusvalía, que se establezcan para recuperar el costo de las obras, se destinen a constituir un fideicomiso con el Banco Nacional de Obras y Servicios Públicos, S.A., para la realización de nuevas obras de carácter urbano, dentro del Municipio en que se haya efectuado el cobro.
+Para estos casos, el Ejecutivo del Estado celebrará convenio con el Gobierno Federal, a efecto de que las cantidades que se recauden a través de la Secretaría de Finanzas del Estado de Sinaloa, por concepto de Derechos de Cooperación o Impuestos de Plusvalía que en cada caso se establezcan para recuperar el costo de las obras así realizadas, sean destinadas a construir un Fondo Especial Revolvente que será manejado por la Junta Local de Caminos del Estado de Sinaloa, el cual a su vez servirá para la realización de nuevas obras de carácter urbano que queden comprendidas dentro de los objetivos que se trace la presente Ley.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -1476,3 +1476,13 @@ P.O. 10 DE FEBRERO DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 7 DE ABRIL DE 1975.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto empezará a surtir sus efectos el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan los enunciados contenidos en la anterior disposición.
