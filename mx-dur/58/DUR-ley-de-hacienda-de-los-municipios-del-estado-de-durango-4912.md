@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1993-06-20"
+last_updated: "1993-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -127,6 +127,10 @@ II.- La propiedad de predios de estados extranjeros; si están ocupados totalmen
 
 III.- Tratándose de expropiación de predios, el Impuesto dejará de causarse en la fecha en que las entidades públicas correspondientes tomen posesión material de dichos predios. Pero, si la expropiación quedare sin efecto, el Impuesto se causará nuevamente a partir de la fecha en que los predios sean entregados a sus propietarios o poseedores.
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 1993)</small>
+
+IV.- No son objeto del Impuesto Predial, sino a partir de la segunda enajenación, la propiedad o posesión de los predios rústicos o urbanos cuya titulación o adquisición del dominio pleno se haya derivado del Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos, implementado por el Ejecutivo Federal.
+
 ###### ARTICULO 11.
 
 Son sujetos pasivos del Impuesto Predial:
@@ -154,6 +158,10 @@ a).- Los funcionarios o empleados de la Secretaría de Finanzas, de los Municipi
 b).- Los funcionarios o empleados de las Oficinas Recaudadores (sic) autorizadas, que dolosamente expidan recibos de pago por cantidades no cubiertas, o formulen certificados de no adeudo del Impuesto Predial sin estar éste totalmente cubierto.
 
 c).- Los funcionarios, empleados, fedatarios, registradores o cualesquiera otra persona, que no se cerciore del cumplimiento del pogo (sic) del Impuesto predial antes de intervenir, autorizar o registrar operaciones que se realicen con los predios.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1993)</small>
+
+ARTICULO 11 BIS.- No son sujetos pasivos del Impuesto Predial, sino a partir de la segunda enajenación, los propietarios o poseedores de los predios mencionados en la Fracción IV del Artículo 10 de esta Ley.
 
 ###### ARTICULO 12.
 
@@ -560,6 +568,10 @@ En los fideicomisos en garantía sólo se causará el impuesto al transmitirse l
 ARTICULO 63 BIS.- No están obligados al pago del Impuesto establecido en esta Ley, las adquisiciones de inmuebles que realicen la Federación, el Estado y los Municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los Estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado.
 
 Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1993)</small>
+
+ARTICULO 63 2BIS.- No es objeto del Impuesto de Traslación de dominio la primera enajenación de bienes inmuebles cuya titulación o adquisición del dominio pleno se haya obtenido a través del programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos, ni son sujetos pasivos del mismo las personas que en ella intervengan.
 
 ###### ARTICULO 64.
 
@@ -2923,7 +2935,9 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 3.- Rezagos;
 
-4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad competente;
+4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad
+
+competente;
 
 5.- Donativos y Aportaciones;
 
@@ -3112,3 +3126,7 @@ DECRETO No. 77.
 P.O. 20 DE JUNIO DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
