@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1939-03-09"
+last_updated: "1942-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1942.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -277,11 +277,11 @@ Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o 
 
 El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1942)</small>
 
 ###### Artículo 36.
 
-El Estado de Durango, reconoce y adopta en su régimen interior la forma de Gobierno Republicano, Representativo y Popular. Los cargos de elección popular no son renunciables.
+El Estado de Durango, reconoce y adopta en su régimen interior la forma de Gobierno Republicano, Representativo y Popular. Los cargos de elección popular no son renunciables y para desempeñarlos es requisito indispensable que el ciudadano electo sea durangueño por nacimiento en pleno ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento.
 
 ###### Artículo 37.
 
@@ -315,7 +315,9 @@ El Congreso del Estado determinará por ley especial que llevará el nombre de "
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Ejecutivo del Estado, que será su superior jerárquico.
 
-Para ser Munícipe se requiere ser ciudadano mexicano en ejercicio de sus derechos; saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años si no es nativo del Estado.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1942)</small>
+
+El número de Regidores que deberán integrar cada Ayuntamiento, será señalado en la Ley Municipal. Para ser Regidor se requiere ser ciudadano durangueño por nacimiento, en ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento. Saber leer y escribir y tener residencia efectiva dentro del territorio del correspondiente Municipio, inmediata al día de la elección, cuando menos de dos años.
 
 No podrán ser electos:
 
@@ -427,17 +429,17 @@ Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecci
 
 Para ser diputado se requieren los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1942)</small>
 
-I. Ser ciudadano durangueño en ejercicio de sus derechos.
+I. Ser ciudadano durangueño por nacimiento en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento.
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
 II.- Saber leer y escribir.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1942)</small>
 
-III.- Tener para el día de la elección veinticinco años cumplidos y residencia efectiva dentro del territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de tres años si sólo es ciudadano durangueño por vecindad. La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
+III.- Tener para el día de la elección (25) veinticinco años cumplidos y residencia efectiva dentro del territorio del Estado, inmediata al día de la elección, cuando menos de dos años. La vecindad no se pierde por ausencia en el desempeño de cargos o comisiones encomendadas por la Federación o por el Estado dentro o fuera de su territorio.
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
@@ -449,9 +451,9 @@ V.- No haber sido condenado por cualquier delito a más de un año de prisión, 
 
 VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1942)</small>
 
-VII.- No ser empleado público del Estado, de la Federación o del Municipio dentro de los cuarenta y cinco días anteriores al día de la elección.
+VII.- No ser empleado o funcionario público de la Federación, del Estado o del Municipio dentro de los noventa días anteriores al día de la elección.
 
 ###### Artículo 56.
 
@@ -625,9 +627,9 @@ c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos 
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1942)</small>
 
-I. Ser ciudadano durangueño por nacimiento; con dos años de residencia anteriores a la elección; o ciudadano mexicano con residencia de cinco años inmediatamente anteriores al día de la elección; de 30 años cumplidos; en pleno ejercicio de sus derechos civiles y políticos; la vecindad no se pierde por el desempeño de cargos de elección popular o por comisiones dentro o fuera de la República, encomendadas por el Estado o la Federación.
+I.- Ser ciudadano durangueño por nacimiento, de (30) treinta años de edad cumplidos, en pleno ejercicio de sus derechos civiles y políticos, tener dos años de residencia efectiva dentro del Territorio del Estado en el momento de la elección y ser hijo de padres mexicanos por nacimiento. La vecindad no se pierde por el desempeño de cargos de elección popular y por comisiones dentro o fuera de la República, encomendadas por la Federación o por el Estado.
 
 II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; saber leer y escribir.
 
@@ -829,13 +831,19 @@ El Procurador General de Justicia intervendrá personalmente en todos los negoci
 
 Para ser Magistrado Propietario del Supremo Tribunal de Justicia, del Estado y Procurador de Justicia, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1942)</small>
+
+I. Ser ciudadano Durangueño por nacimiento, en pleno ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento.
 
 II.- Tener treinta años cumplidos.
 
 III.- Poseer título profesional de Abogado, expedido por Autoridad o Corporación del Estado o de la República, legalmente facultados para ello.
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1942)</small>
+
+V.- No haber desempeñado el cargo de Magistrado Propietario o Substituto, durante los dos últimos años del período constitucional anterior.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
@@ -1226,5 +1234,9 @@ P.O. 17 DE OCTUBRE DE 1937.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 9 DE MARZO DE 1939.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 26 DE MARZO DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
