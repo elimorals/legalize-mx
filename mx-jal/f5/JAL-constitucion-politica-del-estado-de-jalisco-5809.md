@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1999-06-15"
+last_updated: "2000-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -299,13 +299,25 @@ I. Las autoridades estatales y municipales colaborarán con la familia para su f
 
 II. Se establecerá un sistema que coordine las acciones de apoyo e integración social de las personas de edad avanzada para facilitarles una vida digna, decorosa y creativa; y se promoverá el tratamiento, rehabilitación e integración a la vida productiva de las personas con discapacidad;
 
-III. Las leyes propiciarán el desarrollo social, económico, político y cultural de las comunidades a que se refiere el párrafo primero del art. 4º de la Constitución Política de los Estados Unidos Mexicanos, sobre la base del respeto a sus tradiciones, costumbres, usos, lenguas, recursos, valores y formas específicas de organización social, atendiendo a la composición pluricultural de la Nación mexicana, sustentada originalmente en sus pueblos indígenas;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
 
-IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover los valores cívicos y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además, la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológicos, históricos y artísticos, así como de su papel en la integración y desarrollo de la nación mexicana;
+III. Las leyes propiciarán del (sic) desarrollo social, económico, político y cultural de las comunidades a que se refiere el párrafo primero del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, sobre la base del respeto a sus tradiciones, costumbres, usos, lenguas, recursos y entorno ambiental, valores y formas específicas de organización social, atendiendo a la composición pluricultural de la Nación Mexicana, sustentada originalmente en sus pueblos indígenas;
 
-V. La legislación local protegerá el patrimonio cultural de los jaliscienses. Las autoridades con la participación corresponsable de la sociedad, promoverán la conservación y difusión de la cultura del pueblo de Jalisco; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
 
-VI. Las autoridades estatales y municipales organizarán el sistema estatal de planeación, para que mediante el fomento del crecimiento económico y una justa distribución del ingreso y la riqueza, se permita a las personas y grupos sociales el ejercicio pleno de sus derechos, cuya seguridad y bienestar protege esta Constitución.
+IV. El sistema educativo estatal se ajustará a los principios que se establecen en el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos; estará orientado a promover la convivencia armónica y respetuosa entre la sociedad y la naturaleza, los valores cívicos y a fomentar el trabajo productivo para una convivencia social armónica; desarrollará además la investigación y el conocimiento de la geografía y la cultura de Jalisco, de sus valores científicos, arqueológico, histórico y artístico, así como de su papel en la integración y desarrollo de la nación mexicana;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+V. La legislación local protegerá el patrimonio ambiental y cultural de los jaliscienses. Las autoridades con la participación corresponsable de la sociedad, promoverán la conservación y difusión de la cultura del pueblo de Jalisco, y el respeto y preservación del entorno ambiental;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+VI. Las autoridades estatales y municipales, organizarán el sistema estatal de planeación, para que mediante el fomento del desarrollo sustentable y una justa distribución del ingreso y la riqueza se permita a las personas y grupos sociales el ejercicio de sus derechos, cuya seguridad y bienestar protege esta Constitución.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+VII. Las autoridades estatales y municipales para la preservación de los derechos a que alude el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, velarán por la utilización sustentable de todos los recursos naturales con el fin de conservar y restaurar el medio ambiente.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1083,7 +1095,7 @@ Las decisiones del Consejo General serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Del gobierno municipal
+### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1185,7 +1197,7 @@ La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, est
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
+### CAPITULO I. Del gobierno municipal
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1211,7 +1223,9 @@ Para ser Presidente, Vicepresidente y Regidor de los ayuntamientos de la entidad
 
 I. Ser ciudadano mexicano;
 
-II. Ser nativo de Jalisco o avecindado legalmente en el municipio o zona conurbada correspondiente, cuando menos tres años inmediatos anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+II. Ser nativo del municipio o zona conurbada correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
 
 III. Estar en pleno ejercicio de sus derechos;
 
@@ -1395,9 +1409,9 @@ Cuando dos o más centros urbanos situados en el territorio de dos o más munici
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 88.
 
@@ -1423,9 +1437,9 @@ El Congreso no podrá establecer exenciones o subsidios respecto de contribucion
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
+## TITULO OCTAVO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1477,9 +1491,9 @@ Los procedimientos para la aplicación de las sanciones mencionadas se desarroll
 
 En los juicios del orden civil no hay fuero ni inmunidad.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO I. De las responsabilidades de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1513,7 +1527,7 @@ Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-### CAPITULO IV. Del procedimiento administrativo
+### CAPITULO III. De la responsabilidad penal de los servidores públicos
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1571,9 +1585,11 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-### CAPITULO I. De las responsabilidades de los servidores públicos
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+### CAPITULO III. De la inviolabilidad de esta Constitución
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1591,9 +1607,7 @@ La autoridad encargada de recibir las declaraciones de situación patrimonial, d
 
 La ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia el artículo anterior. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción no serán inferiores a tres años y tres meses.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
-
-### CAPITULO III. De la responsabilidad penal de los servidores públicos
+### CAPITULO IV. Del procedimiento administrativo
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1601,7 +1615,7 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 1994)</small>
 
-## TITULO OCTAVO
+## TITULO NOVENO
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1673,7 +1687,7 @@ Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gast
 
 Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ###### Art. 117.
 
@@ -2032,3 +2046,19 @@ P.O. 15 DE JUNIO DE 1999.
 Primero. Envíese copia certificada de la presente minuta proyecto de decreto a los 124 ayuntamientos del estado, con el Diario de Debates en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 2000.
+
+DECRETO NUMERO 17907.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del estado, con el Diario de los Debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE ABRIL DE 2000.
+
+DECRETO NUMERO 17990.
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamiento del estado, con el Diario de los Debates, en el que conste las discusiones que hubiere provocado, para que con fundamento a lo establecido en el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponde.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
