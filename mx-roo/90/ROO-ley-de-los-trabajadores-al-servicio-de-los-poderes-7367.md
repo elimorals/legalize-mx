@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1980-04-30"
+last_updated: "1992-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -111,7 +111,7 @@ Son trabajadores supernumerarios aquellos cuya relación contractual está sujet
 
 ###### ARTICULO 13.
 
-Los trabajadores de base deberán ser de nacionalidad mexicana salvo que no los haya en una especialidad determinada, en cuyo efecto podrán emplearse temporalmente a trabajadores extranjeros, pero en una proporción que no exceda del cinco por ciento. En todo caso los trabajadores extranjeros tendrán la obligación solidaria de capacitar a trabajadores mexicanos en la especialidad de que se trate.
+Los trabajadores de base deberán ser de nacionalidad mexicana salvo que no los haya en una especialidad determinada, en cuyo efecto podrán emplearse temporalmente a trabajadores extranjeros, pero en una roporción que no exceda del cinco por ciento. En todo caso los trabajadores extranjeros tendrán la obligación solidaria de capacitar a trabajadores mexicanos en la especialidad de que se trate.
 
 ### CAPITULO III. DISPOSICIONES GENERALES
 
@@ -250,10 +250,6 @@ VII.- El veinte de noviembre;
 VIII.- El primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y
 
 IX.- El veinticinco de diciembre.
-
-###### ARTICULO 30.
-
-Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de la jornada ordinaria.
 
 ###### ARTICULO 34.
 
@@ -417,8 +413,6 @@ IX.- Someterse a los exámenes médicos previstos en las condiciones generales d
 
 X.- Asistir a las ceremonias cívicas.
 
-X.- Asistir a las ceremonias cívicas.
-
 ###### ARTICULO 52.
 
 la suspensión temporal de los efectos del nombramiento de un trabajador, no significa el cese del mismo. Son causas de suspensión temporal:
@@ -565,13 +559,19 @@ El procedimiento para resolver las permutas de empleos, así como las inconformi
 
 ### CAPITULO XII. CONDICIONES GENERALES DE TRABAJO
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 74.
 
 Los sindicatos son las asociaciones de trabajadores constituidas para el estudio, mejoramiento y defensa de sus respectivos intereses.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 75.
 
-Habrá un sindicato para los tres Poderes y Organismos Descentralizados y uno para cada Ayuntamiento, en caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+Habrá un Sindicato para los Tres Poderes Legislativo, Ejecutivo y Judicial, uno para cada uno de los Ayuntamientos y uno para cada uno de los Organismos Descentralizados; el Tribunal de Conciliación y Arbitraje en cada caso otorgará el reconocimiento de mayoría correspondiente.
+
+Tratándose de los Organismos Descentralizados, las estructuras sindicales existentes tendrán la representación sindical y manejarán la relación laboral con el Organismo de que se trate.
 
 ###### ARTICULO 76.
 
@@ -709,7 +709,7 @@ Todos los conflictos que surjan entre la Federación y los sindicatos y sólo en
 
 ###### ARTICULO 97.
 
-Las condiciones generales de trabajo, se fijarán por los titulares de los Poderes y Organismos Descentralizados y por cada uno de los Ayuntamientos tomando en cuenta la opinión del Sindicato correspondiente y a solicitud de éste; las condiciones generales de trabajo se revisarán cada tres años.
+Las condiciones generales de trabajo se fijarán por los Titulares de los Tres Poderes, de cada Ayuntamiento y de cada uno de los Organismos Descentralizados, tomando en cuenta la opinión del Sindicato correspondiente y a solicitud de éste. Las condiciones generales de trabajo se revisarán cada tres años.
 
 ###### ARTICULO 98.
 
@@ -749,21 +749,25 @@ Huelga es la suspensión temporal del trabajo como resultado de una coalición d
 
 Para los efectos de este título, el sindicato de trabajadores es una coalición permanente.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 104.
 
-Declaración de huelga es la manifestación de la voluntad de las dos terceras partes de los trabajadores de los Poderes y Organismos Descentralizados o de cada uno de los Ayuntamientos, de suspender las labores de acuerdo con los requisitos que esta Ley establece, si los titulares de los mismos no acceden a sus demandas.
+Declaración de huelga es la manifestación de la voluntad de las dos terceras partes de los trabajadores de los Tres Poderes, o de cada Ayuntamiento o de cada uno de los Organismos Descentralizados, de suspender las labores de acuerdo con los requisitos que esta Ley establece, si los Titulares de los mismos no acceden a sus demandas.
 
 ###### ARTICULO 105.
 
 La huelga puede ser general o parcial.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 106.
 
-La huelga general es la que se endereza en contra de la totalidad de las dependencias que integran los Poderes y Organismos Descentralizados o en contra de todas las dependencias de algún Ayuntamiento, y sólo puede ser motivada por cualquiera de las siguientes causas:
+La huelga general es la que se endereza en contra de la totalidad de las dependencias que integran los tres Poderes, o en contra de todas las dependencias de algún Ayuntamiento, o en contra de la totalidad de cada uno de los Organismos Descentralizados, y sólo puede ser motivada por cualquiera de las siguientes causas;
 
-a).- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal de Conciliación y Arbitraje.
+A).- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal de Conciliación y Arbitraje;
 
-b).- Porque la política general de los titulares de los Poderes, Ayuntamientos y Organismos Descentralizados, comprobada con hechos, sea contraria a los derechos fundamentales que esta Ley concede a los trabajadores, debiendo en tal caso hacer la comprobación respectiva el propio Tribunal.
+B).- Porque la política general de los Titulares de los Tres Poderes, o de los Ayuntamientos y/o de cada uno de los Organismos Descentralizados, comprobada por hechos, sea contraria a los derechos fundamentales que esta ley concede a los trabajadores, debiendo en tal caso, hacer la comprobación respectiva al propio Tribunal de Conciliación y Arbitraje.
 
 c).- Porque se haga presión para frustrar una huelga parcial.
 
@@ -1230,3 +1234,13 @@ P.O. 30 DE ABRIL DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose del Sistema Educativo Quintanarroense la titularidad de la relación laboral, será del Sindicato Nacional de Trabajadores de la Educación.
