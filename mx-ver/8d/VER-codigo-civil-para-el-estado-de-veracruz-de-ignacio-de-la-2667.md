@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1939-05-18"
+last_updated: "1940-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 1939.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 1940.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -10767,7 +10767,7 @@ ARTICULO 2210
 
 Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-ARTICULO 2711
+ARTICULO 2211
 
 Los hijos sujetos a la patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 357.
 
@@ -11111,11 +11111,13 @@ ARTICULO 2255
 
 Si el valor fiscal del inmueble, excede de un mil pesos, su venta se hará en escritura pública.
 
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 1940)</small>
+
 ARTICULO 2256
 
-Tratándose de bienes ya inscritos en el Registro y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscriptos los bienes.
+Tratándose de bienes ya inscriptos en el Registro y cuyo valor no exceda de un mil pesos, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscriptos los bienes.
 
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de sus firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
+El endoso será ratificado precisamente ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
 ARTICULO 2257
 
@@ -14581,7 +14583,7 @@ La inscripción no convalida los actos o contratos que sean nulos con arreglo a 
 
 ARTICULO 2940
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscriptos (sic), aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscripto o de causas que no resulten claramente del mismo registro.
+No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscriptos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscripto o de causas que no resulten claramente del mismo registro.
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
@@ -14910,3 +14912,7 @@ UNICO.- Esta Ley comenzará a regir desde la fecha de su publicación en la "Gac
 G.O. 18 DE MAYO DE 1939.
 
 El presente Decreto comenzará a surtir sus efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 11 DE JUNIO DE 1940.
+
+La presente Ley comenzará a surtir sus efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
