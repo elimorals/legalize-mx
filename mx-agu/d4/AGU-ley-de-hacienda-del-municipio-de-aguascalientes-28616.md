@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1995-07-02"
+last_updated: "1997-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1997.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -41,9 +41,11 @@ LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL D
 
 ### CAPITULO I. De la Hacienda Pública Municipal
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 1o.
 
-Para atender las necesidades y la prestación de los servicios públicos del Municipio de Aguascalientes, el Ayuntamiento percibirá los Impuestos, Derechos, Productos, Aprovechamientos, contribuciones especiales y Participaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este Ordenamiento.
+Para atender las necesidades y la prestación de los servicios públicos del Municipio de Aguascalientes, el Ayuntamiento percibirá los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y participaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este ordenamiento.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
@@ -85,6 +87,12 @@ Son participaciones los recursos provenientes de las Entidades Federales y/o Est
 
 Los acuerdos, disposiciones generales, reglamentos o convenios fiscales que se celebren por las autoridades competentes, deberán ajustarse al tenor de esta Ley, requisito sin el cual, carecerán de validez y serán nulos de pleno derecho.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 8o.
+
+BIS.- Son Contribuciones Especiales aquéllas que se derivan de la ejecución de una obra o servicio público que previamente hayan sido concertadas con los beneficiarios. No incluyéndose las obras o servicios que se ejecuten totalmente con recursos federales.
+
 ###### ARTICULO 9o.
 
 La Hacienda Pública Municipal no puede afectarse a un fin específico. En el caso de que sea necesario establecer una tributación especial se requiere la declaración expresa del Congreso del Estado, siempre y cuando medie una causa de orden público.
@@ -101,11 +109,11 @@ Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los t
 
 También queda facultado para establecer mediante convenio, una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, inspector o recaudador que sea indispensable designar.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 12.
 
-El Tesorero y los Directores de los organismos fiscales autónomos quedan facultados para aplicar el procedimiento económico coactivo que previene el Código Fiscal del Estado.
+El Secretario de Finanzas queda facultado para aplicar el procedimiento económico que previene el Código Fiscal del Estado.
 
 ###### ARTICULO 13.
 
@@ -307,17 +315,21 @@ XVIII.- Requerir;
 
 XIX.- Exigir a los contribuyentes que garanticen el pago de los créditos fiscales;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
-XX.- Aplicar el procedimiento económico coactivo que previene esta Ley:
+XX.- Aplicar el procedimiento económico coactivo que previene el Código Fiscal del Estado;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 XXI.- Vigilar el cumplimiento de las disposiciones contenidas en las leyes fiscales municipales, y en especial para ordenar:
 
-a) Se verifique que los contribuyentes municipales cumplan correctamente las disposiciones fiscales y municipales, y, en caso que omitan total o parcialmente el cumplimiento de las mismas, se procederá a hacer efectivo el cobro de lo omitido, sin perjuicio de las sanciones a que haya lugar;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
-b).- La práctica de auditorías a los contribuyentes, así como la obtención de los datos e informes que obtengan información con el objeto de la misma;
+a).- Se verifique que los contribuyentes municipales cumplan correctamente las disposiciones fiscales municipales y, en caso que omitan total o parcialmente el cumplimiento de las mismas, se procederá a hacer efectivo el cobro de lo omitido, sin perjuicio de las sanciones a que haya lugar;
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+b).- La práctica de auditorias a los contribuyentes, así como la obtención de los datos e informes que obtengan con el objeto de las mismas;
 
 c).- Se exija en el domicilio de los contribuyentes la exhibición de los elementos comprobatorios de sus operaciones; y
 
@@ -377,11 +389,11 @@ V.- En general, ejecutar las facultades que expresamente les reconozcan las disp
 
 Previo acuerdo respectivo, el Secretario de Finanzas puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 24.
 
-El Tesorero está facultado para ordenar la verificación de los datos que los contribuyentes estén obligados a proporcionarle, para cuantificar concretamente el monto del crédito fiscal del caso.
+El Secretario de Finanzas está facultado para ordenar la verificación de los datos que los contribuyentes estén obligados a proporcionarle, para cuantificar concretamente el monto del crédito fiscal del caso.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
 
@@ -389,11 +401,11 @@ El Tesorero está facultado para ordenar la verificación de los datos que los c
 
 Independientemente de la facultad de aplicar el procedimiento económico-coactivo, el Tesorero está facultado para aplicar las medidas de apremio necesario para lograr la liquidación de los créditos fiscales. Tales medidas consisten en la amonestación, el apercibimiento, la multa y clausura o cancelación.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 26.
 
-Los acuerdos tomados por el Tesorero con base en las facultades expresas que le otorga la Ley, tiene carácter obligatorio para los contribuyentes.
+Los acuerdos tomados por el Secretario de Finanzas, con base en las facultades expresas que le otorga la Ley, tienen carácter obligatorio para los contribuyentes, una vez que sean publicados en el Periódico Oficial del Estado.
 
 ### CAPITULO III. De la Obligación Fiscal y sus Modalidades
 
@@ -477,9 +489,7 @@ IV.- Los créditos originados por Derechos a Prestación de servicio público da
 
 V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Tesorero, en el momento en que concluya cada función o período de espectáculo o diversión.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1990)</small>
-
-ARTICULO 31 BIS.- La prestación de servicios a que se refiere la expedición de permisos para uso de nichos observándose en su caso las demás disposiciones legales aplicables.
+ARTICULO 31 BIS.- (DEROGADO, P.O. 2 DE NOVIEMBRE DE 1997)
 
 ###### ARTICULO 32.
 
@@ -539,13 +549,13 @@ X.- Las demás personas que señalen las leyes fiscales.
 
 En los casos de responsabilidad solidaria los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y por lo tanto el fisco puede exigir en cualquiera de ellos simultáneamente o separadamente el cumplimiento dentro de las obligaciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 37.
 
-El Tesorero está facultado para exigir a los contribuyentes que garanticen el pago de los créditos fiscales, cuando exista temor fundado de que posteriormente no se haga.
+El Secretario de Finanzas está facultado para exigir a los contribuyentes que garanticen el pago de los créditos fiscales, cuando exista temor fundado de que posteriormente no se haga.
 
-Si requerido para garantizar, el contribuyente no otorga la garantía del caso en un plazo de tres días, se procederá a embargar precautoriamente, exclusivamente como medio de garantía.
+Si requerido para garantizar, el contribuyente no otorga la garantía del caso en un plazo detrás días, se procederá a embargar precautoriamente, exclusivamente como medio de garantía.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
@@ -649,9 +659,11 @@ III.- Cuando por cualquier circunstancia la base con que esté tributando un pre
 
 IV.- Cuando con motivo de la aplicación de las tablas de valores, se practique un avalúo que se acerque más al valor comercial.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 46.
 
-Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Dirección de Finanzas, con apoyo en los elementos de que disponga, determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comeercial (sic), el valor así determinado surtirá los efectos de valor catastral.
+Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Secretaría de Finanzas, con apoyo en los elementos de que disponga, determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos del valor catastral.
 
 ###### ARTICULO 47.
 
@@ -725,9 +737,11 @@ Para los efectos de este impuesto, se estará a las definiciones que sobre diver
 
 #### SECCION SEPTIMA. De la Liquidación
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 54.
 
-La Dirección de Finanzas deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca esta Ley, y la Ley de Ingresos del Municipio.
+La Secretaría de Finanzas deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasa o cuotas que al efecto establezca esta Ley, y la Ley de Ingresos del Municipio.
 
 ###### ARTICULO 55.
 
@@ -763,21 +777,27 @@ III.- De fusión, subdivisión y fraccionamiento de predios.
 
 Se tendrá por cumplida esta obligación, respecto de la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre adquisición de inmuebles; y para las fracciones II y III, con los avisos que señala la Ley de Catastro del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 59.
 
-Los sujetos del impuesto deberán manifestar a la Dirección de Finanzas sus cambios de domicilio dentro de los quince días siguientes aquel en que se efectúen, si no lo hicieren, se tendrá como domicilio para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+Los sujetos del impuesto deberán manifestar a la Secretaría de Finanzas sus cambios de domicilio dentro de los quince días siguientes (sic) aquél en que se efectúen, si no lo hicieren, se tendrá como domicilio para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto el predio mismo.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 60.
 
-Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Dirección de Finanzas un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+Las autoridades judiciales o administrativas previamente al remate del inmueble, recabarán de la Secretaría de Finanzas un informe de los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
 
-Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Dirección de Finanzas para que ésta extienda y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
+Si de tal informe apareciere un crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Secretaría de Finanzas para que ésta extienda y envía el recibo correspondiente, que será entregado al adquiriente del inmueble.
 
 ###### ARTICULO 61.
 
 Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión, que se contarán a partir de la fecha en que los interesados reciban el requerimiento.
 
-Si transcurrido dicho plazo, no se expresan los datos o no se presentan los documentos o planos requeridos, la Dirección de Finanzas no tomará en cuenta las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+Si transcurrido dicho plazo, no se expresan los datos o no se presentan los documentos o planos requeridos, la Secretaría de Finanzas no tomará en cuenta las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
 
 ### CAPITULO II. Del Impuesto Sobre Adquisición de Inmuebles
 
@@ -975,19 +995,51 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 (DEROGADO, P.O. 24 DE FEBRERO DE 1991)
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 84, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 95, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 1997, ES REFORMADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
 ###### ARTICULO 75.
 
-(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+…
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+I.- Presentar para su autorización ante la Secretaría de Finanzas, los contratos debidamente prenumerados.
+
+II a IV.-…
+
+…
+
+…
+
+…
 
 #### SECCION OCTAVA. De las Obligaciones de Terceros
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 84, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 95, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 1997, ES REFORMADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 76.
 
-(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+Para los efectos del Artículo 69, los notarios públicos o quienes hagan sus veces y los funcionarios públicos, deberán dar aviso a la Secretaría de Finanzas de los actos o contratos en que intervengan y que resulten gravados con este impuesto.
+
+...
+
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 84, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 95, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 1997, ES REFORMADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 77.
 
-(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+Los avisos a que se refiere el artículo anterior, se harán en las formas aprobadas por la Secretaría de Finanzas, debiendo proporcionar los datos que las mismas indiquen.
+
+…
+
+…
+
+…
+
+…
 
 ###### ARTICULO 78.
 
@@ -997,9 +1049,17 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 (DEROGADO, P.O. 24 DE FEBRERO DE 1991)
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 84, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 95, PUBLICADO EN EL P.O. DE 2 DE NOVIEMBRE DE 1997, ES REFORMADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 80.
 
-(DEROGADO, P.O. 24 DE FEBRERO DE 1991)
+Los avisos deberán presentarse ante la Secretaría de Finanzas, dentro de los treinta días siguientes a la fecha del documento en que se haga constar el acto o contrato.
+
+…
+
+…
 
 ###### ARTICULO 81.
 
@@ -1067,7 +1127,9 @@ I.- Tratándose de diversiones o espectáculos en los que el boletaje se expenda
 
 II.- Tratándose de juegos con premios, tales como rifas, loterías, concursos o sorteos, el impuesto será liquidado con una anticipación de cinco días, respecto de la fecha en que han de celebrarse.
 
-En el caso de que la actividad gravada, no se haya cubierto el crédito fiscal en términos de este artículo, la Dirección de Finanzas podrá ordenar la retención del o los premios como garantía del pago del crédito fiscal, sin perjuicio de que se aplique el procedimiento económico coactivo.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+En el caso de que la actividad gravada, no se haya cubierto el crédito fiscal en términos de este artículo, la Secretaría de Finanzas podrá ordenar la retención del o los premios como garantía del pago del crédito fiscal, sin perjuicio de que se aplique el procedimiento económico coactivo;
 
 III.- Tratándose de impuesto cobrable por cuota, deberá liquidarse con tres días de anticipación a la fecha en que se ofrezca la diversión, juego o espectáculo, motivo del gravamen;
 
@@ -1079,23 +1141,27 @@ VI.- Las cantidades que se paguen por el derecho a reservar localidades en los e
 
 #### SECCION QUINTA. Obligaciones de los Contribuyentes
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 91.
 
-Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Dirección de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Dirección de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
+Las empresas de espectáculos o diversiones públicas deberán otorgar fianza, a satisfacción de la Secretaría de Finanzas, cuando soliciten su permiso, la que perderán en caso de cancelar. Asimismo exhibirán ante la Secretaría de Finanzas el boletaje que se utilizará para permitir el acceso al público a efecto de que sea autorizado y sellado.
 
-En caso de que se sorprenda un boletaje no autorizado por la Dirección de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientos días de salario mínimo vigente en el Municipio al momento de cometerse la violación.
+En caso de que se sorprenda un boletaje no autorizado por la Secretaría de Finanzas, se impondrá al referido empresario una infracción consistente en el importe de diez a quinientos días de salario mínimo vigente en el Municipio al momento de cometerse la violación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 92.
 
-Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta del boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los Inspectores o Interventores nombrados por la Dirección de Finanzas.
+Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la venta de boletaje que se utilice para permitir el acceso del público están obligados a permitir la inspección de las mismas por parte de los inspectores o interventores nombrados por la Secretaría de Finanzas.
 
 #### SECCION SEXTA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 93.
 
-Los propietarios de los inmuebles donde se autorice a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal, y en su caso el comprobante de garantía que el Tesorero les expida.
+Los propietarios de los inmuebles donde se autorice a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Secretario de Finanzas les expida.
 
 > <small>(DEROGADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
@@ -1247,11 +1313,11 @@ Los propietarios o poseedores, cualquiera que sea su título, de un predio o con
 
 Los notarios o funcionarios públicos con injerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 115.
 
-Las personas físicas o morales, que en los términos del Bando Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Tesorero y surtirá los efectos de contrato de prestación de servicios, con la implicaciones jurídicas del caso. Debiendo además, liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el Artículo 15 de la Ley de Ingresos.
+Las personas físicas o morales, que en los términos de Bando Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Secretario de Finanzas y surtirá los efectos de contrato de prestación de servicios, con las implicaciones jurídicas del caso. Debiendo además, liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el artículo 15 de la Ley de Ingresos.
 
 ### CAPITULO V. De Servicios por la Conexión de Albañales
 
@@ -1299,7 +1365,9 @@ Los Fraccionadores deberán cubrir los derechos sobre el precio de venta de lote
 
 Juntamente con la autorización deberán cubrirse las cantidades determinadas con base en la Ley de ingresos Municipal, en calidad de anticipo en base a los precios de venta autorizados, que se ajustarán al precio de venta real en el momento de celebrarse el contrato de compraventa.
 
-Para lograr lo anterior, deberán remitir copia del contrato de compraventa a la Dirección de Finanzas dentro de los diez días siguientes al de su celebración.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+Para lograr lo anterior, deberán remitir copia del contrato de compraventa a la Secretaría de Finanzas dentro de los diez días siguientes al de su celebración.
 
 ###### ARTICULO 124.
 
@@ -1333,9 +1401,11 @@ Los servicios que prestan los Rastros Municipales, causarán derechos de conform
 
 Por la autorización del sacrificio de ganado en mataderos particulares que funcionen con permiso, se aplicará el 50% de las cuotas que al efecto señale la Ley de Ingresos Municipal.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
 ###### ARTICULO 129.
 
-Todos los derechos estipulados en este capítulo, deberán pagarse antes de que se presten los servicios, en la Dirección de finanzas o en sus oficinas recaudadoras autorizadas, en los lugares donde se presten tales servicios.
+Todos los derechos estipulados en este capítulo, deberán pagarse antes de que se presten los servicios, en la Secretaría de Finanzas o en sus oficinas recaudadoras autorizadas, en los lugares donde se presten tales servicios.
 
 ###### ARTICULO 130.
 
@@ -1364,6 +1434,10 @@ VI.- Traslado de cadáveres; y
 VII.- Servicios especiales.
 
 En los panteones particulares únicamente se causarán los derechos relativos a los servicios a que se refieren las fracciones II, III, V y VI de este Artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 131 BIS.- La prestación de servicios que se refiere la fracción I del artículo anterior, comprende la expedición de permisos para uso de nichos observándose en su caso, las demás disposiciones legales aplicables.
 
 ###### ARTICULO 132.
 
@@ -1401,7 +1475,7 @@ Los Derechos a que se refiere este capítulo se causarán y liquidarán de acuer
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 1995)</small>
 
-ARTICULO 138 BIS.- Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT-RM, HM-R, HM-RF H, HM-RM, publicadas en el Diario Oficial de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
+ARTICULO 138 bis.- Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT-RM, HM-R, HM-RF H, HM-RM, publicadas en el Diario Oficial de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
 
 Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho; los importes que resulten será (sic) recaudados por conducto de la Comisión Federal de Electricidad adicionando su monto en las facultades de los consumidores.
 
@@ -1718,3 +1792,9 @@ P.O. 2 DE JULIO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
