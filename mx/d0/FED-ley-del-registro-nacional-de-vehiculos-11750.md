@@ -4,7 +4,7 @@ identifier: "FED-ley-del-registro-nacional-de-vehiculos-11750"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-02"
-last_updated: "1998-06-02"
+last_updated: "2004-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11750&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-05-27"
 ---
 # LEY DEL REGISTRO NACIONAL DE VEHICULOS
 
-LEY DEL REGISTRO NACIONAL DE VEHICULOS
+LEY DEL REGISTRO NACIONAL DE VEHÍCULOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO PÚBLICO VEHICULAR, PUBLICADA EN EL D.O.F. DE 1 DE SEPTIEMBRE DE 2004.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 2 de junio de 1998.
 
@@ -418,3 +420,19 @@ QUINTO. Los avisos relativos a la expedición de seguros de vehículos y en su c
 México, D.F., a 29 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Pablo Sandoval Ramírez, Presidente.- Sen. Víctor H. Islas Hernández, Secretario.- Dip. Francisco Antonio Ordaz Hernández, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE SEPTIEMBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se abroga la Ley del Registro Nacional de Vehículos, publicada en el Diario Oficial de la Federación el dos de junio de 1998.
+
+En tanto se expidan el Reglamento de esta Ley y demás ordenamientos aplicables, seguirán aplicándose los vigentes a la entrada en vigor de la presente Ley, en lo que no se opongan a ésta.
+
+Artículo Tercero.- Las inscripciones, avisos y demás actos que se hayan realizado bajo la vigencia de la Ley que se abroga conservarán plena validez y vigencia.
+
+Artículo Cuarto.- Las Secretarías de Economía y de Hacienda y Crédito Público deberán proporcionar al Secretariado Ejecutivo, en un plazo no mayor a 180 días naturales, a partir de la publicación de la presente Ley, la información histórica relativa a los números de identificación que tuviesen asignados los vehículos y de la cual dispusieran a la entrada en vigor de este ordenamiento, a efecto de integrar la base de datos a que se refiere el artículo 7 de esta Ley.
+
+Asimismo, las ensambladoras, carroceros, distribuidoras, comercializadoras o importadores de vehículos que no hayan cumplido con la obligación de presentar los informes respectivos al Registro Nacional de Vehículos, en términos de la Ley que se abroga conforme al artículo segundo transitorio, deberán suministrar al Secretariado Ejecutivo la información a que se refiere el párrafo anterior, en un plazo no mayor de 60 días naturales a partir de la publicación de la presente Ley.
