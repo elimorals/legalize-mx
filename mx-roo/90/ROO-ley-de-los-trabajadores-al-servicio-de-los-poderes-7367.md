@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1978-06-12"
+last_updated: "1978-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -293,11 +293,11 @@ Se crearán también partidas específicas denominadas compensaciones adicionale
 
 Los pagos se efectuaran precisamente en moneda del curso legal o cheques.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 44.
 
-Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el presupuesto de egresos, que deberá pagarse antes del día quince de diciembre y que será equivalente a un mes de salario presupuestal, cuando menos, sin deducción alguna.
-
-Los Poderes del Estado, los Ayuntamientos y los Organismos Descentralizados dictarán las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que los trabajadores hubieren prestado sus servicios menos de un año.
+Los Trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, el cual deberá pagarse en un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero, y que será equivalente a 40 días de salario cuando menos, sin deducción alguna. El Ejecutivo del Estado, los Ayuntamientos y Organismos descentralizados dictarán las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
 
 ### CAPITULO VI. DE LOS DESCUENTOS AL SALARIO
 
@@ -341,7 +341,7 @@ Los empleados de confianza serán nombrados y removidos libremente por los funci
 
 Un trabajador de base podrá ser ascendido a un puesto de confianza, pero en ese caso y mientras conserve esta categoría, quedarán en suspenso todos los derechos y prerrogativas que tuviere conforme a esta Ley, como sindicalizado, así como los vínculos con la organización sindical a la cual perteneciere.
 
-El individuo que como consecuencia de un ascenso de esta naturaleza, sea designado para ocupar la vacante correspondiente, una vez corrido el escalafón respectivo, tendrá en todo caso el carácter de trabajador interino, de tal modo que, si el trabajador ascendido a un puesto de confianza vuelve a ocupar el de base del que hubiere sido promovido, lo que constituirá un derecho para él, automáticamente se correrá en forma inversa el escalafón y el trabajador interino dejará de prestar sus servicios, sin responsabilidad para la dependencia respectiva;
+El individuo que como consecuencia de un ascenso de esta naturaleza, sea designado para ocupar la vacante correspondiente, una vez corrido el escalafón respectivo, tendrá en todo caso el carácter de trabajador interino, de tal modo que, si el trabajador ascendido a un puesto de confianza vuelve a ocupar el de base del que hubiere sido promovido, lo que constituirá un derecho para él, automáticamente se correra en forma inversa el escalafón y el trabajador interino dejará de prestar sus servicios, sin responsabilidad para la dependencia respectiva;
 
 II.- Cumplir con todos los servicios de higiene y de prevención de accidentes en los términos de la Ley Federal del Trabajo;
 
@@ -605,7 +605,7 @@ I.- Por disolución de los mismos.
 
 II.- Cuando dejen de tener los requisitos que esta Ley establece; y
 
-III.- Cuando apareciere otra agrupación sindical que reuniendo los requisitos previstos por la Ley, demuestre ante el Tribunal, contar con la mayoría de los trabajadores de base. La solicitud de cancelación podrá realizarla cualquier persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que expresen ser mayoritarias ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
+III.- Cuando apareciere otra agrupación sindical que reuniendo los requisitos previstos por la Ley, demuestre ante el Tribunal, contar con la mayoría de los trabajadores de base. La solicitud de cancelación podrá realizarla cualquier persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que expresen ser mayoritarias ordenará desde luego el recuentro correspondiente y resolverá de plano el asunto.
 
 ###### ARTICULO 83.
 
@@ -1204,3 +1204,15 @@ PROCURADOR GENERAL DE JUSTICIA.
 LIC. MIGUEL PEYREFITTE CUPIDO.
 
 Firmado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan las disposiciones que se opongan al presente decreto.
