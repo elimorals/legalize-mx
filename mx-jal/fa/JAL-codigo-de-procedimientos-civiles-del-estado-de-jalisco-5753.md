@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1997-01-04"
+last_updated: "1998-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2046,35 +2046,37 @@ ARTICULO 220 bis.- La ejecución deberá despacharse por cantidad líquida, ente
 
 De la Separación de Personas como Acto Prejudicial.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 221.
 
-Cuando alguno de los cónyuges intente demanda, querella o denuncia, en contra de otro si viven juntos, puede solicitar su separación al Juez. Dicha autoridad, desde luego, dispondrá las medidas necesarias para que el cónyuge que tuviere el cuidado del hogar y de los hijos siga habitando la casa conyugal y prevendrá al otro cónyuge que señale el domicilio donde deberá habitar durante el curso del procedimiento respectivo.
+Cuando alguno de los cónyuges, intente, o fuese a intentar demanda, querella o denuncia, puede solicitar la separación al Juez, acreditando por los medios permitidos a su alcance, la urgencia y necesidad de la medida. Dicha autoridad, desde luego, dispondrá las medidas necesarias para que el cónyuge que tuviere el cuidado del hogar y de los hijos siga habitando la casa conyugal y prevendrá al otro cónyuge que señale el domicilio donde deberá habitar durante el curso del procedimiento respectivo.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 222.
 
-Sólo los Jueces de Primera Instancia, podrán decretar la separación de que habla el artículo anterior, a no ser que, por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+Sólo los jueces de primera instancia, podrán decretar la separación de que habla el artículo anterior, a no ser que, por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar donde el cónyuge se encuentre, podrá decretar la separación provisionalmente, acatando las disposiciones del presente capítulo, remitiendo las diligencias al juez que le corresponda conocer de la presente causa.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 223.
 
-La solicitud debe ser presentada al Juez competente en forma escrita o verbal, debiendo contener las causas en que se funda y el domicilio que habitará el cónyuge. Hecho lo anterior, se procederá en los términos del artículo 221.
+La solicitud debe ser presentada al Juez competente en forma escrita, debiendo señalar sus generales, acreditando la existencia del vínculo matrimonial con la persona de quien pretenda separarse, una relación de los hechos o causas por las que se pide el acto prejudicial, y en su caso, aportar las pruebas que demuestren tal situación, mismas que deberán admitirse sin necesidad de ninguna otra solemnidad, para que una vez analizadas, el Juez valore y resuelva en un término de 72 horas, si se practica la separación o no, procediendo en su caso como lo disponen los artículos 212, 221, 224, 224 (sic) y 226.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 224.
 
-El juez deberá intervenir personalmente en el cumplimiento de las medidas que disponga para la separación y podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+El Juez deberá intervenir personalmente en el cumplimiento de las medidas que disponga para la separación y practicará las diligencias que a su juicio sean necesarias antes de dictar la resolución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 225.
 
-Recibida la solicitud, el juez, sin más trámite, salvo lo dispuesto en el artículo anterior resolverá sobre su procedencia y si la concediera, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular y establecerá la situación de los hijos menores, tomando en cuenta las obligaciones señaladas en el Código Civil del Estado.
+Recibida la solicitud, el juez, sin más trámite y cumplimiento (sic) los preceptos de los artículos anteriores, resolverá sobre su procedencia y si la concediera, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular y establecerá la situación de los hijos menores, tomando en cuenta las obligaciones señaladas en el Código Civil del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 En el momento de la diligencia los cónyuges podrán de común acuerdo designar la persona que tendrá a su cargo la custodia de los mismos. En ausencia de convenio, el juez dejará a la madre el cuidado de los hijos que no hayan cumplido trece años, salvo que la madre se dedicase a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, sea aficionada o adicta a las drogas, tuviese alguna enfermedad contagiosa, por su conducta ofreciera peligro grave para la salud o la moralidad de sus hijos o fuere negligente en el cuidado de los mismos.
 
@@ -2092,11 +2094,11 @@ El juez con audiencia de las partes, podrá variar las disposiciones decretadas 
 
 Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos se encuentre en alguno de los supuestos previstos en la parte final del artículo 225 de este código, se le revocará aquella, una vez acreditada la existencia de cualesquiera de los supuestos en el incidente que con tal fin debe promoverse.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 228.
 
-La resolución que decrete la separación de personas, señalará un término de ocho días hábiles a partir del siguiente al en que se efectúe la separación, para que el solicitante presente la demanda, denuncia o querella. Si al vencimiento del plazo concedido no se acredita al juez que se ha presentado la demanda, la denuncia o la querella, cesarán de plano de los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de los tres días siguientes. El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+El Juez, al dictar la medida que decreta la separación de personas, señalará un término de 8 días hábiles a partir del día siguiente de la separación, para que el solicitante acredite haber presentado la denuncia, demanda o querella, mismas que deberán referirse a lo dispuesto por el artículo 404 del Código Civil del Estado y aquéllas que por alguna causa hagan imposible la vida en común; en caso contrario, al transcurrir el plazo otorgado, el Juez, a petición de parte, levantará la medida, dictando un auto que deje sin efecto la separación y autorice al cónyuge a reintegrarse al hogar en cualquier momento.
 
 ###### ARTICULO 229.
 
@@ -4890,7 +4892,7 @@ Las tercerías deberán promoverse ante el Juez que conozca del negocio principa
 
 ###### ARTICULO 599.
 
-Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea cual fuere la acción que en el se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal de que aún no se hubiera pronunciado sentencia que cause ejecutoria.
+Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea cual fuere la acción que en él se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal de que aún no se hubiera pronunciado sentencia que cause ejecutoria.
 
 ###### ARTICULO 600.
 
@@ -8319,3 +8321,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE ENERO DE 1997.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE ENERO DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
