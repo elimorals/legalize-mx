@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2002-07-16"
+last_updated: "2002-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
 > <small>N. DE E. PARA LA ENTRADA EN VIGOR DEL PRESENTE CODIGO, REMITASE A LOS ARTICULOS TRANSITORIOS.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2002.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -116,11 +116,11 @@ ARTÍCULO 15 (Principio de acto). El delito sólo puede ser realizado por acció
 
 ARTÍCULO 16 (Omisión impropia o comisión por omisión). En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
 
-I . Es garante del bien jurídico;
+I. Es garante del bien jurídico;
 
-II . De acuerdo con las circunstancias podía evitarlo; y
+II. De acuerdo con las circunstancias podía evitarlo; y
 
-III . Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
 
 Es garante del bien jurídico el que:
 
@@ -248,9 +248,7 @@ Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se exce
 
 ## TÍTULO TERCERO. CONSECUENCIAS JURÍDICAS DEL DELITO
 
-### CAPÍTULO I. CATÁLOGO DE PENAS Y MEDIDAS DE SEGURIDAD Y DE CONSECUENCIAS JURÍDICAS
-
-PARA LAS PERSONAS MORALES
+### CAPÍTULO I. CATÁLOGO DE PENAS Y MEDIDAS DE SEGURIDAD Y DE CONSECUENCIAS JURÍDICAS PARA LAS PERSONAS MORALES
 
 ARTÍCULO 30 (Catálogo de penas). Las penas que se pueden imponer por los delitos son:
 
@@ -454,9 +452,7 @@ Si el facultado no se presenta a recogerlo dentro de los seis meses siguientes a
 
 En el caso de bienes que no se deban destruir ni se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho a recibirlo, por seis meses contados a partir de la notificación que se le haga. Si transcurrido dicho plazo no se presentare, se estará a lo previsto por el cuarto párrafo del presente artículo.
 
-### CAPÍTULO VIII. SUSPENSIÓN O PRIVACIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL
-
-DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
+### CAPÍTULO VIII. SUSPENSIÓN O PRIVACIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
 
 ARTÍCULO 56 (Concepto de estas sanciones). La suspensión consiste en la pérdida temporal de derechos.
 
@@ -754,9 +750,7 @@ ARTÍCULO 96 (Alcances de la extinción). La extinción que se produzca en los t
 
 ARTÍCULO 97 (Efectos del cumplimiento). La potestad para ejecutar la pena o la medida de seguridad impuesta, se extingue por cumplimiento de las mismas o de las penas por las que se hubiesen sustituido o conmutado. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos para el otorgamiento de la suspensión, en los términos y dentro de los plazos legalmente aplicables.
 
-## TÍTULO QUINTO. EXTINCIÓN DE LA PRETENSIÓN PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS
-
-Y MEDIDAS DE SEGURIDAD
+## TÍTULO QUINTO. EXTINCIÓN DE LA PRETENSIÓN PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO III. MUERTE DEL INCULPADO O SENTENCIADO
 
@@ -864,7 +858,7 @@ La prescripción de la potestad de las demás sanciones se interrumpirá por cua
 
 ARTÍCULO 119 (Autoridad competente para resolver la extinción). La extinción de la pretensión punitiva será resuelta por el titular del Ministerio Público durante la averiguación previa o por el órgano jurisdiccional en cualquier etapa del proceso.
 
-La declaración de extinción de la potestad de ejecutar las penas y me didas de seguridad corresponde al órgano jurisdiccional.
+La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad corresponde al órgano jurisdiccional.
 
 ARTÍCULO 120 (Facultad jurisdiccional en la ejecución). Si durante la ejecución de las penas o medidas de seguridad se advierte que se había extinguido la pretensión punitiva o la potestad de ejecutarlas, tales circunstancias se plantearán por la vía incidental ante el órgano jurisdiccional que hubiere conocido del asunto y éste resolverá lo procedente.
 
@@ -1628,9 +1622,7 @@ II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilac
 
 Si los actos de necrofilia se hacen consistir en la realización del coito, la pena de prisión será de cuatro a ocho años.
 
-## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA PAZ, LA SEGURIDAD DE LAS PERSONAS Y LA INVIOLABILIDAD DEL
-
-DOMICILIO
+## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA PAZ, LA SEGURIDAD DE LAS PERSONAS Y LA INVIOLABILIDAD DEL DOMICILIO
 
 ### CAPÍTULO I. PORTACIÓN, FABRICACIÓN E IMPORTACIÓN DE OBJETOS APTOS PARA AGREDIR
 
@@ -1930,9 +1922,7 @@ Se equipara al delito de fraude y se sancionará con prisión de seis meses a di
 
 Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente, o a sabiendas, realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero, se le impondrán las penas previstas para el delito de fraude.
 
-### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS
-
-PÚBLICOS
+### CAPÍTULO I. PROMOCIÓN DE CONDUCTAS ILÍCITAS, COHECHO Y DISTRACCIÓN DE RECURSOS PÚBLICOS
 
 ###### ARTÍCULO 235.
 
@@ -2074,9 +2064,7 @@ El juzgador podrá suspender al agente, de dos a cinco años en el ejercicio de 
 
 ## TÍTULO DÉCIMO SEXTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-### CAPÍTULO VII. REGLAS COMUNES PARA LOS DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA
-
-AUTORIDAD
+### CAPÍTULO VII. REGLAS COMUNES PARA LOS DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA AUTORIDAD
 
 ###### ARTÍCULO 250.
 
@@ -2390,9 +2378,7 @@ Al que cometa un delito en contra de un servidor o agente de la autoridad en el 
 
 ### CAPÍTULO III. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
 
-## TÍTULO VIGÉSIMO. DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR
-
-SERVIDORES PÚBLICOS
+## TÍTULO VIGÉSIMO. DELITOS EN CONTRA DEL ADECUADO DESARROLLO DE LA JUSTICIA COMETIDOS POR SERVIDORES PÚBLICOS
 
 ### CAPÍTULO IV. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
@@ -2600,9 +2586,7 @@ Al evadido no se le impondrá pena o medida de seguridad alguna, salvo que obre 
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
 
-## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR
-
-PARTICULARES
+## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
 
 ### CAPÍTULO V. SEDICIÓN
 
@@ -2728,9 +2712,7 @@ Al médico o enfermera que suministre un medicamento evidentemente inapropiado e
 
 A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño, o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
-## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE
-
-COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
+## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
 ###### ARTÍCULO 330.
 
@@ -3098,7 +3080,9 @@ PRIMERO: Este Código, con excepción de lo señalado en estos artículos transi
 
 SEGUNDO: La Asamblea Legislativa del Distrito Federal, previa a la expedición del Nuevo Código de Procedimientos Penales para el Distrito Federal, realizará la modificación a los ordenamientos correspondientes para la adecuada aplicación de la legislación penal.
 
-TERCERO: Durante el mes de septiembre del año en curso, la Asamblea Legislativa del Distrito Federal, expedirá la legislación que establezca el Fondo para la Reparación del Daño a las Víctimas del Delito.
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2002)</small>
+
+TERCERO: La Asamblea Legislativa del Distrito Federal, expedirá la legislación que establezca el Fondo para la Reparación del Daño a la Víctima del Delito.
 
 CUARTO: A partir de la entrada en vigor de este Decreto, para el caso en que este Código contemple una descripción legal de una conducta delictiva que en el anterior Código Penal del Distrito Federal se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
 
@@ -3115,3 +3099,11 @@ Recinto Legislativo, a 03 de julio de 2002.
 POR LA MESA DIRECTIVA.- DIP. HIRAM ESCUDERO ÁLVAREZ, PRESIDENTE.- SECRETARIA, DIP. LORENA RÍOS MARTÍNEZ.- SECRETARIA, DIP. ALICIA VIRGINIA TÉLLEZ SÁNCHEZ.- (Firmas).
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Ciudad de México, a los once días del mes de julio del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 3 DE OCTUBRE DE 2002.
+
+PRIMERO: Túrnese al ciudadano Jefe de Gobierno para su publicación y debida promulgación.
+
+SEGUNDO: El presente Decreto entrara en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
