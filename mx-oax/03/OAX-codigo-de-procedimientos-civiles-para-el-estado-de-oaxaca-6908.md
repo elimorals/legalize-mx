@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1949-12-31"
+last_updated: "1950-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1950.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1577,11 +1577,15 @@ En los escritos de réplica y dúplica, tanto el actor como el demandado deberá
 
 Pueden, sin embargo, modificar o adicionar los que hayan consignado en la demanda y contestación, con tal de que a ello dé mérito un hecho o dicho en la respuesta del colitigante y no se cambie el objeto principal del juicio.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 269.
 
-Dentro de las veinticuatro horas que sigan a la presentación de la dúplica si la hubiere, o el día en que se extinguió el término para presentarla, el juez hará constar en autos, extracto contendiendo los puntos cuestionados clara y sucintamente enunciados y enumerados. Si no hubiera réplica el extracto se hará dentro de las veinticuatro horas que sigan al día en que expiró el término para presentar aquélla.
+Dentro de las veinticuatro horas que sigan a la presentación de la dúplica si la hubiere, o el día en que se extinguió el término para presentarla, el juez hará constar en autos, extracto conteniendo los puntos cuestionados clara y sucintamente enunciados y enumerados. Tratándose de controversias dimanadas de contratos de arrendamiento de fincas urbanas destinadas para habitación, deben fijar los jueces, los principios de orden público, que las partes están obligadas a respetar, aún cuando éstas no las hayan mencionado en sus cuestiones.
 
-En caso de confesión expresa o tácita, del demandado, no se requiere dicho extracto.
+Si no hubiera réplica el extracto se hará dentro de las veinticuatro horas que sigan al día en que expiró el término para presentar aquélla.
+
+En caso de confesión expresa o tácita del demandado; no se requiere dicho extracto.
 
 ###### Artículo 270.
 
@@ -2475,7 +2479,9 @@ Se tramitarán sumariamente:
 
 I. Los juicios de alimentos, ya sean provisionales o los que se deban con el carácter de estabilidad por contrato, por testamento o por disposición de la ley; ya tengan por objeto el pago o solo el aseguramiento;
 
-II. Los juicios que versen sobre cualquier cuestión relativa a los contratos de arrendamiento o alquiler, depósito o comodato, aparcería, transportes y hospedajes;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1950)</small>
+
+II. Los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, depósito o comodato, aparcería, transportes y hospedajes. La acción que se ejercite para el otorgamiento del contrato escrito de fincas urbanas, destinadas para habitación, se tramitará en forma de incidente;
 
 III. Los juicios que tengan por objeto la firma de una escritura, la elevación de una minuta o instrumento público, el otorgamiento del documento y el caso del artículo 2,107 del Código Civil;
 
@@ -2505,9 +2511,13 @@ XV. Las acciones relativas a servidumbres legales o que consten en títulos púb
 
 XVI. Las demás que determine la ley.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 425.
 
 El juicio sumario se inicia, por lo general, con el escrito de demanda en que se deben llenar los requisitos a que se refieren los artículos 257 y 258.
+
+Si la demanda versa sobre cuestiones derivadas del contrato de arrendamiento de fincas urbanas destinadas para habitación, el actor deberá presentar el contrato debidamente registrado.
 
 Del escrito de demanda se correrá traslado al demandado por un término no mayor de cinco días para que produzca la contestación. De ésta se dará traslado al actor para réplica por tres días; de la réplica por igual término al demandado para dúplica.
 
@@ -2725,6 +2735,8 @@ Para que procedan en vía ejecutiva las acciones a que se refieren los artículo
 
 ### CAPITULO IV. Del juicio sumario de desahucio
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 457.
 
 Se tratará en la vía sumaria todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
@@ -2831,11 +2843,13 @@ También pueden oponerse a la venta los hipotecarios posteriores, alegando presc
 
 ###### Artículo 476.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañara con el contrato escrito del ordenamiento cuando ello fuere necesario para la validez del acto, conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificara por medio de información testimonial, prueba documental o cualquiera otra bastante.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañara con el contrato escrito del arrendamiento, debidamente registrado.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
 
 ###### Artículo 477.
 
-Presentada la demanda con el documento o la justificación respectiva, dictará auto ante el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa sin no lo efectúa. En el mismo acto se le emplazara para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
+Presentada la demanda con el contrato respectivo, debidamente registrado, dictará auto el Juez mandado requerir al arrendatario para que en el acto de la diligencia justifique con el último recibo estar al corriente en el pago de las rentas y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa días si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa sin no lo efectúa. En el mismo acto se le emplazara para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
 
 ###### Artículo 478.
 
@@ -5674,3 +5688,7 @@ Al C..
 P.O. 31 DE DICIEMBRE DE 1949.
 
 UNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
+
+P.O. 14 DE JULIO DE 1950.
+
+Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
