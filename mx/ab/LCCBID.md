@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1989-12-26"
+last_updated: "1996-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LCCBID"
 ---
 # LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
-LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
+LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -42,17 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México queda autorizado para efectuar con la garantía del Gobierno Federal, la suscripción adicional de 163,308 acciones o partes sociales del Banco Interamericano de Desarrollo hasta por el equivalente de 1,633'080,000 (un mil seiscientos treinta y tres millones, ochenta mil) dólares de los Estados Unidos de América de peso y ley en vigor al 1o. de enero de 1959.
+Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe la suscripción adicional de 202,245 acciones del Banco Interamericano de Desarrollo, hasta por el equivalente a 2,022'450,000 (dos mil veintidós millones cuatrocientos cincuenta mil) dólares de los Estados Unidos de América del peso y ley en vigor al 1o. de enero de 1959.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México queda autorizado para efectuar con la garantía del Gobierno Federal, aportaciones adicionales hasta el equivalente de 7'947,000 (siente (sic) millones novecientos cuarenta y siete mil) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo de Operaciones Especiales a que se refiere el Artículo IV del Convenio Constitutivo de dicho organismo.
+Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe aportaciones adicionales hasta por el equivalente de 9'374,212 (nueve millones trescientos setenta y cuatro mil doscientos doce) dólares de los Estados Unidos de América, para cubrir la cuota de la contribución de México al Fondo para Operaciones Especiales a que se refiere el artículo IV del Convenio Constitutivo de dicho Organismo.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -64,11 +64,9 @@ La Secretaría de Hacienda y Crédito Público será la única dependencia autor
 
 El Banco de México, S. A., será el depositario en México de las disponibilidades del Banco Interamericano, de conformidad con el artículo XIV sección 4a. del Convenio Constitutivo del citado Organismo.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
-
 ###### ARTICULO 6o.
 
-El Gobierno Federal garantizará al Banco de México la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, así como las operaciones que celebren con este último los agentes financieros, autorizados por el propio Gobierno Federal.
+(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -86,7 +84,7 @@ La designación del Gobernador Suplente será por un período de cinco años, pu
 
 ###### ARTICULO 9o.
 
-El Gobernador Suplente tendrá las facultades del Propietario en el caso de ausencia de éste, salvo las restricciones que establezca la secretaría de Hacienda y Crédito Público.
+El Gobernador Suplente tendrá las facultades del Propietario en el caso de ausencia de éste, salvo las restricciones que establezca la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 10.
 
@@ -169,3 +167,7 @@ D.O.F. 26 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MAYO DE 1996.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
