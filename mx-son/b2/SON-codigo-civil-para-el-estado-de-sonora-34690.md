@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1981-12-24"
+last_updated: "1988-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 24 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 21 DE ENERO DE 1988.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -15847,6 +15847,8 @@ De los Contratos Aleatorios.
 
 De la Fianza Legal o Judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 3052.
 
 La ley no concede acción para reclamar lo que se gana en juego prohibido.
@@ -16509,13 +16511,17 @@ De los Créditos Hipotecarios y Pignoraticios y de Algunos Otros Privilegios.
 
 El fiador que haya de darse por disposición de la ley o por providencia judicial, excepto cuando el fiador sea una institución debidamente autorizada, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de trescientos pesos no se exigirá que el fiador tenga bienes raíces.
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de treinta veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se exhiba no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
 
+> <small>(REFORMADO, B.O. 21 DE ENERO DE 1988)</small>
+
 ###### Art. 3188.
 
-Para otorgar una fianza legal o judicial por más de trescientos pesos, se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por más de treinta veces el salario mínimo general, vigente en la Ciudad de Hermosillo el día en que se exhiba, se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
 ###### Art. 3189.
 
@@ -18334,3 +18340,9 @@ La presente Ley entrará en vigor a los quince días siguientes de su publicaci�
 B.O. 24 DE DICIEMBRE DE 1981.
 
 UNICO.- Esta Ley entrará en vigor a partir del día primero de enero de mil novecientos ochenta y dos, debiendo publicarse en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor sesenta días después de su publicación en el Boletín Oficial del Gobierno del Estado.
