@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1989-12-06"
+last_updated: "1998-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -283,7 +283,9 @@ El Gobernador del Estado, así como la autoridad podrán establecer los órganos
 
 El Supremo Tribunal de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades de sus propios servidores públicos, derivadas del incumplimiento de las obligaciones establecidas en el Artículo 23, así como para aplicar las sanciones previstas en el presente capítulo, en los términos de su Ley Orgánica.
 
-Lo propio hará, conforme a la legislación respectiva y por lo que hace a sus atribuciones, el Congreso del Estado, quien será competente para identificar, investigar y determinar las responsabilidades de sus servidores públicos, así como para aplicar las sanciones respectivas tratándose de Presidentes Municipales y Regidores, previo el procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Lo propio hará, conforme a la legislación respectiva y por lo que hace a sus atribuciones, el Congreso del Estado, quien será competente para identificar, investigar, y determinar las responsabilidades de sus servidores públicos, así como para aplicar las sanciones respectivas tratándose de Presidentes Municipales, Regidores y Síndicos, previo el procedimiento correspondiente.
 
 Los Ayuntamientos establecerán los órganos y sistemas relativos, en los términos del primer párrafo de este artículo y aplicarán las sanciones respectivas consignadas en este capítulo a sus servidores públicos, previa instrucción del procedimiento disciplinario por el Presidente Municipal, quien impondrá dichas sanciones de acuerdo del Ayuntamiento.
 
@@ -544,3 +546,7 @@ P.O. 6 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 1998.
+
+Artículo Unico.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
