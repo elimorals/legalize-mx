@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1964-12-31"
+last_updated: "1965-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1964.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 1965.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -37,661 +37,893 @@ El XXVI Congreso Constitucional del Estado de Campeche, con su carácter de Cons
 
 CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO I. De las garantías individuales y sociales
+### CAPITULO I. Del Estado y su Territorio
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO II. De los campechanos
+###### ARTICULO 1.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+El Estado de Campeche es parte integrante de la Federación constituída por los Estados Unidos Mexicanos.
 
-### CAPITULO III. De los ciudadanos campechanos
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 2.
 
-###### Art. 6.
+La porción del territorio nacional que corresponde al Estado es la que le ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos, en los Convenios y en los Decretos relativos.
 
-Son ciudadanos campechanos los varones y las mujeres que, teniendo la calidad de campechanos, reunan además los siguientes requisitos:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-I.- Haber cumplido 18 años, siendo casados, o 21 si no lo son, y
+###### ARTICULO 3.
+
+La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 4.
+
+El territorio del Estado comprende los Municipios que a continuación se expresan: Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas del Real, la Herradura y las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que, para su régimen judicial, fiscal y electoral determinen las leyes.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO II. De los Símbolos Oficiales
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 5.
+
+La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo propios del Estado, son los símbolos obligatorios del mismo. No habrá otras banderas, otros himnos ni escudos de carácter oficial, y el uso de los símbolos nacionales se sujetará a lo que dispongan los ordenamientos federales.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO III. De las Garantías
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 6.
+
+Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para los habitantes de la República, los del Estado de Campeche gozarán de los demás derechos que la presente Constitución les otorga.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO IV. De los Habitantes del Estado, de los Vecinos y de sus Derechos y Obligaciones
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 7.
+
+Son habitantes del Estado todas las personas que radiquen en su territorio.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 8.
+
+Son derechos de los habitantes del Estado:
+
+I.- Si son mexicanos, los que les conceden la Constitución General de la República y la presente;
+
+II.- Si son extranjeros, gozar de las garantías, así como de los derechos establecidos en la Constitución General de la República, en la presente y en las disposiciones legales que de ellas emanen. En ningún caso, los extranjeros tendrán derechos políticos.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 9.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Si son mexicanos:
+
+a).- Cumplir con las leyes vigentes y respetar y obedecer a las autoridades legítimamente constituídas;
+
+b).- Contribuír para los gastos públicos de la manera que dispongan las leyes;
+
+c).- Inscribirse en el Padrón de su Municipalidad, manifestando la propiedad que tengan y la industria, profesión o trabajo de que subsistan.
+
+II.- Si son extranjeros:
+
+a).- Acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la presente y en las disposiciones legales que de ambas emanen;
+
+b).- Sujetarse a los fallos y sentencias de los Tribunales del Estado, sin poder intentar otros recursos que los que se conceden a los mexicanos;
+
+c).- Las contenidas en la fracción I de este artículo.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 10.
+
+Son vecinos del Estado los que residen habitualmente dentro de su territorio, sean mexicanos o extranjeros.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 11.
+
+La vecindad se adquiere por la residencia constante en determinado lugar del territorio del Estado, con el ánimo de permanecer en él, durante seis meses cuando menos.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 12.
+
+La vecindad se pierde:
+
+I.- Por dejar de residir en el Estado, manifestando a la autoridad el deseo de cambiar de domicilio;
+
+II.- Por dejar de residir seis meses en el Estado, aun cuando no se diere aviso a la autoridad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 13.
+
+La vecindad no se pierde por ausencia en el desempeño de cargos de elección popular, en comisiones oficiales que no tengan el carácter de permanentes, o por la reclamada con motivo del deber que tiene todo mexicano de defender a la Patria y sus instituciones, ni por ausencia que se deba a persecuciones exclusivamente políticas.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO V. De los Campechanos
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 14.
+
+La calidad de campechano se adquiere por nacimiento o por vecindad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 15.
+
+Son campechanos por nacimiento:
+
+I.- Los que nazcan en el territorio del Estado sea cual fuere la nacionalidad de sus padres, siempre y cuando con ello adquieran la calidad de mexicanos;
+
+II.- Los hijos de padres campechanos nacidos fuera del territorio del Estado;
+
+III.- Los que nazcan en el extranjero, de padre campechano y madre extranjera o de madre campechana y padre desconocido.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 16.
+
+Son campechanos por vecindad:
+
+I.- Los nacionales originarios de las demás Entidades Federativas, que hubieren residido en el Estado seis meses consecutivos; y
+
+II.- Los extranjeros que se naturalicen conforme a las leyes de la República Mexicana, que hubiesen residido en el Estado seis meses ininterrumpidos.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO VI. De los Ciudadanos Campechanos
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 17.
+
+Son ciudadanos campechanos quienes teniendo la calidad de campechanos, reúnan además los siguientes requisitos:
+
+I.- Haber cumplido 18 años si son casados o 21 si no lo son; y
 
 II.- Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 7.
+###### ARTICULO 18.
 
 Son prerrogativas del ciudadano campechano:
 
-I.- Poder ser votado para todos los cargos de elección popular y nombrado para desempeñar cualquier empleo o comisión, teniendo las cualidades que la ley establezca;
+I.- Votar en las elecciones populares;
 
-II.- Asociarse para tratar de los asuntos políticos de la República y del Estado;
+II.- Poder ser votado para todos los cargos de elección popular y nombrado para desempeñar cualquier empleo o comisión, si se tienen las cualidades que la ley establezca;
 
-III.- Tomar las armas en el ejército o guardia nacional, para la defensa del Estado, de la República y de sus instituciones, en los términos que prescriben las leyes;
+III.- Asociarse para tratar de los asuntos políticos de la República y del Estado;
 
-IV.- Ejercer en toda clase de negocios el derecho de petición, y
+IV.- Ejercer en toda clase de negocios, el derecho de petición;
 
-V.- No perder su vecindad por salir fuera del Estado a desempeñar encargos de elección popular o comisiones oficiales que le sean conferidas por el gobierno federal o el del Estado, siempre que cumplido su desempeño regresen al territorio de éste.
+V.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa del Estado, de la República y de sus instituciones, en los términos que prescriban las leyes.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 8.
+###### ARTICULO 19.
 
-Son obligaciones de los campechanos:
+Son obligaciones del ciudadano campechano:
 
-I.- Alistarse en la guardia nacional;
+I.- Alistarse en la Guardia Nacional;
 
-II.- Votar en las elecciones populares, en el distrito y sección electoral que le corresponda;
+II.- Votar en las elecciones populares, en el Distrito y Sección Electoral que le corresponda;
 
-III.- Desempeñar los cargos de elección popular de la Federación o del Estado;
+III.- Desempeñar los cargos de elección popular de la Federación, del Estado y del Municipio;
 
-IV.- Desempeñar los cargos consejiles del Municipio, las funciones electorales y las de jurado;
+IV.- Desempeñar las funciones electorales y las de jurado;
 
-V.- Inscribirse en el catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista;
+V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista, e inscribirse en los Padrones Electorales del Municipio en que resida;
 
-VI.- Inscribirse en los padrones electorales, en los términos que determinan las leyes;
+VI.- Hacer que sus hijos o pupilos menores de 15 años concurran a las escuelas públicas o privadas, para obtener la instrucción primaria elemental durante el tiempo que marquen las leyes relativas;
 
-VII.- Hacer que sus hijos, pupilos o menores que estén a su cargo, asistan regularmente a un plantel de enseñanza y a prestar el servicio de las armas;
+VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes.
 
-VIII.- Cooperar en la campaña de alfabetización, y
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-IX.- Contribuir para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa prevista por las leyes respectivas.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 9.
+###### ARTICULO 20.
 
 La calidad de ciudadano campechano se pierde:
 
-I.- Cuando se pierda la calidad de ciudadano mexicano;
+I.- Cuando se pierde la ciudadanía mexicana;
 
-II.- Por atentar en cualquier forma contra la integridad, independencia o soberanía del Estado, y
+II.- Por atentar en cualquier forma contra la integridad, independencia o soberanía del Estado;
 
-III.- Cuando siendo campechano por vecindad, pierda ésta por avecindarse fuera del Estado.
+III.- Cuando siendo campechano por vecindad, se pierda ésta por avecindarse fuera del Estado;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+IV.- Por adquirir la calidad de ciudadano de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa;
 
-###### Art. 10.
+V.- En los demás casos que la Ley establezca.
 
-Se suspende el ejercicio de los derechos de ciudadano campechano:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-I.- Por falta de cumplimiento, sin causa justificada, de las obligaciones que impone el artículo 8. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;
+###### ARTICULO 21.
+
+Se suspende el ejercicio de los derechos o prerrogativas de los ciudadanos campechanos:
+
+I.- Por falta de cumplimiento, sin causa justificada, de alguna de las obligaciones que impone el Artículo 19 de esta Constitución. La suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la Ley;
 
 II.- Por estar sujeto a proceso criminal, por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
 
 III.- Durante la extinción de una pena corporal;
 
-IV.- Por estar prófugo de la justicia, desde que se dicte la orden de detención, hasta que prescriba la acción penal;
+IV.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
 
-V.- Por sentencia ejecutoria que imponga como pena esa suspensión, y
+V.- Por sentencia ejecutoriada que imponga como pena esa suspensión; y
 
-VI.- Por vagancia o ebriedad consuetudinarias, declaradas en los términos que prevengan las leyes; por proteger o fomentar vicios denigrantes, o por impedir o estorbar en cualquier forma la difusión de la educación popular.
+VI.- Por vagancia o ebriedad consuetudinarias declaradas en los términos que prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 11.
+###### ARTICULO 22.
 
-La ley fijará los demás casos en que se pierden o suspenden los derechos de ciudadano campechano y la manera de hacer la rehabilitación; y la misma determinará la autoridad y la forma en que habrá de hacerse la declaración de la pérdida o suspensión de los derechos de ciudadanía.
+La Ley fijará los casos en que se pierden y los demás en que se suspenden los derechos de ciudadano campechano y la manera de hacer la rehabilitación.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO IV. Del Estado y su territorio
+### CAPITULO VII. De la Soberanía del Estado
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 12.
+###### ARTICULO 23.
 
-El Estado de Campeche es parte integrante de la Federación mexicana y está constituído por la porción de territorio nacional que le han reconocido la Constitución de la República, los convenios y los decretos.
+El Estado de Campeche es libre y soberano en todo lo que concierne a su régimen interior, sin más restricciones que las que establece la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 13.
+###### ARTICULO 24.
 
-La base de la división territorial y de la organización política y administrativa del Estado de Campeche es el Municipio libre.
+La soberanía del Estado reside esencial y originariamente en el pueblo campechano, que la ejerce por medio del poder público que dimana del mismo pueblo y se instituye para beneficio de éste, en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 14.
+### CAPITULO VIII. De la Forma de Gobierno
 
-Las partes integrantes del Estado de Campeche son los Municipios de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada y Tenabo, sus territorios, más el litoral que comprende las salinas denominadas el Real, la Herradura y las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho corresponde a la Entidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 25.
 
-### CAPITULO V. De la soberanía y del poder público del Estado
+El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como lo previene el pacto federal.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 15.
+### CAPITULO IX. Del Poder Público
 
-La soberanía del Estado reside esencial y originalmente en el pueblo campechano, el cual la ejerce por medio del poder público que emana directamente de él y que se instituye exclusivamente para su beneficio.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 26.
 
-###### Art. 16.
+El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
-El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el pacto federal.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 27.
 
-###### Art. 17.
+No podrán reunirse dos o más Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
-El poder público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, y no podrán reunirse los tres, ni dos de ellos en una sola persona o corporación, salvo el caso de facultades extraordinarias concedidas al Ejecutivo en caso de invasión, alteración del orden o peligro públicos.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+### CAPITULO X. Residencia de los Poderes
 
-### CAPITULO VI. Del Poder Legislativo
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 28.
 
-Su elección e instalación
+Los Poderes residirán en la Ciudad de Campeche, Capital del Estado, salvo en el caso de que, por razones fundadas decrete el Congreso cambiar la residencia de los mismos, de acuerdo con lo dispuesto por la fracción II del Artículo 54 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 18.
+### CAPITULO XI. Del Poder Legislativo
 
-Se deposita el ejercicio del poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Su Elección e Instalación
 
-###### Art. 19.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 29.
+
+Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se denominará Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 30.
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 20.
+###### ARTICULO 31.
 
-Se elegirá un diputado propietario y un suplente por cada 20,000 habitantes. En los Municipios libres que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente pero siempre que cuenten, cuando menos con 6,000 habitantes, pues en caso contrario quedarán unidos para los efectos de la elección al Municipio inmediatamente colindante que tenga menor número de habitantes.
+Se elegirá un diputado propietario y un suplente por cada 20,000 habitantes. En los Municipios libres que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente, pero siempre que cuenten cuando menos con 6,000 habitantes, pues en caso contrario quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menor número de habitantes.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 21.
+###### ARTICULO 32.
 
 Los diputados no podrán ser reelectos para el período inmediato.
 
-Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, pero siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 22.
+###### ARTICULO 33.
 
-Para ser diputado se requiere:
+Para ser electo diputado propietario o suplente se requiere:
 
-I.- Ser ciudadano campechano, en ejercicio de sus derechos, y
+I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;
 
-II.- Tener veintiún años cumplidos el día de la elección, y una residencia en territorio del Estado de más de seis meses, si se tiene la calidad de campechano por vecindad.
+II.- Tener 25 años cumplidos, el día de la elección;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+III.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
 
-###### Art. 23.
+a).- Ser originario del distrito en que se haga la elección, con residencia en él de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
 
-No podrán ser electos diputados:
+b).- Ser nativo del Estado, con residencia de un año en el distrito respectivo, inmediatamente anterior a la fecha de la elección;
 
-I.- Los que tengan mando alguno de fuerza pública en el distrito donde se haga la elección;
+c).- Si se es oriundo de otro Estado, tener residencia cuando menos de doce años en el de Campeche y de seis meses en el distrito electoral de que se trate.
 
-II.- El gobernador del Estado, su secretario general, los magistrados del Tribunal Superior de Justicia, el tesorero general del Estado y el procurador general de justicia;
+No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
-III.- Los jueces de primera instancia, los recaudadores de rentas y los presidentes municipales, en los distritos electorales, en donde ejerzan sus funciones, y
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-IV.- Los ministros de cualquier culto religioso.
+###### ARTICULO 34.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+No podrán ser electos diputados propietarios o suplentes:
 
-###### Art. 24.
+I.- Los ministros de cualquier culto;
 
-Los ciudadanos comprendidos en las fracciones de la I a la III del artículo anterior, podrán ser electos, siempre que se separen de sus cargos cuarenta y cinco días antes de la elección.
+II.- Los Diputados y Senadores al Congreso de la Unión, que estén en ejercicio;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio;
 
-###### Art. 25.
+IV.- Los jefes de la Guardia Nacional que estuvieren en servicio activo, por el distrito o distritos en donde ejerzan mando;
 
-El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
+V.- El Gobernador del Estado, el Secretario General de Gobierno, los Magistrados del Tribunal Superior de Justicia, el Tesorero General del Estado y el Procurador General de Justicia;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los distritos electorales en donde ejerzan sus funciones.
 
-###### Art. 26.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 35.
+
+Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 36.
+
+El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubieren sobre ellas. Su resolución será definitiva e inatacable.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 37.
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y no podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 27.
+###### ARTICULO 38.
 
-Para desempeñar una comisión o empleo del Ejecutivo del Estado por el cual se reciba sueldo, los diputados necesitarán, en cada caso, autorización expresa del Congreso. La infracción de esta prohibición será castigada con la pérdida del carácter de diputado.
+El cargo de diputado propietario o suplente en ejercicio es incompatible con cualquier otro cargo o empleo federal, del Estado o del Municipio, en que se disfrute de sueldo, exceptuándose los de Instrucción Pública, Beneficencia y Salubridad.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Los diputados sólo podrán desempeñar estos empleos o cargos con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure su nuevo cargo, empleo o comisión.
 
-###### Art. 28.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-El Congreso no podrá instalarse sin la presencia de más de la mitad del número total de diputados que deban integrarlo; pero los presentes deberán reunirse el día señalado por la ley, y compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hiciesen, se entenderá por ese solo hecho que no aceptan su encargo, y se llamará luego a los suplentes, que deberán presentarse en un plazo igual, y si no lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones. En la misma forma se procederá cuando durante diez días seguidos no pudieran celebrarse sesiones por falta de quórum, instalado ya el Congreso.
+###### ARTICULO 39.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de diputados que deban integrarlo; pero los que se reúnan el día señalado por la Ley, deberán compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hiciesen se entenderá, por ese sólo hecho, que no aceptan su cargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-###### Art. 29.
+Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
 
-Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1964)</small>
+###### ARTICULO 40.
 
-###### Art. 30.
+Se entiende también que los diputados que falten 10 días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primer periodo comenzará el 7 de Agosto y terminará el 31 de Diciembre; el segundo comenzará el 1o. de Marzo y terminará el 31 de Mayo.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 41.
 
-###### Art. 31.
+El Congreso tendrá un período de sesiones ordinarias que comenzará el 7 de agosto y terminará el 31 de diciembre, y otro que comenzará el 1o. de marzo y terminará el día 31 de mayo. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
 
-El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado, o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1964)</small>
+###### ARTICULO 42.
 
-###### Art. 32.
+El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
 
-A la apertura de sesiones ordinarias del Congreso, asistirá el Gobernador del Estado. También asistirá a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado, dentro del período de sesiones ordinarias del Congreso y en la fecha que éste oportunamente señale, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 43.
 
-###### Art. 33.
+A la apertura de sesiones ordinarias del Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador, si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado, dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
 
-Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes y decretos se comunicarán al Ejecutivo, firmados por el presidente y los secretarios.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 44.
 
-###### Art. 34.
+Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes y Decretos se comunicarán al Ejecutivo, firmados por el Presidente y los Secretarios.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 45.
 
 Las sesiones del Congreso tendrán el carácter de públicas o secretas, en los casos que determinará el reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO VII. De la iniciativa y formación de las leyes
+### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 35.
+###### ARTICULO 46.
 
-El derecho de iniciar leyes o decretos compete:
+El derecho de iniciar Leyes o Decretos compete:
 
-I.- Al gobernador del Estado;
+I.- Al Gobernador del Estado;
 
-II.- A los diputados al Congreso del Estado, y
+II.- A los diputados al Congreso del Estado;
 
-III.- A los Ayuntamientos.
+III.- A los Ayuntamientos; y
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
 
-###### Art. 36.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Las iniciativas presentadas por el gobernador del Estado, o firmadas por tres o más diputados, pasarán desde luego a la comisión del ramo. Las presentadas en cualquiera otra forma se sujetarán a los trámites establecidos en el reglamento interior del Congreso.
+###### ARTICULO 47.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Las iniciativas presentadas por el Gobernador del Estado, o firmadas por tres o más diputados, pasarán desde luego a la comisión del ramo. Las presentadas en cualquiera otra forma, se sujetarán a los trámites establecidos en el Reglamento Interior del Congreso.
 
-###### Art. 37.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Para que un proyecto o iniciativa tenga el carácter de ley, necesita la aprobación de la mayoría de los diputados presentes, en votación nominal, la sanción del Ejecutivo y la publicación.
+###### ARTICULO 48.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Para que un proyecto o iniciativa tenga el carácter de Ley o Decreto, necesita la aprobación de la mayoría de los diputados presentes, en votación nominal, la sanción del Ejecutivo y la publicación.
 
-###### Art. 38.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Los proyectos de leyes o decretos aprobados por el Congreso, se remitirán al Ejecutivo quien, si no tuviere observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de diez días útiles, a no ser que corriendo este término hubiese el Congreso cerrado o suspendido sus sesiones, en cuyo caso, la devolución deberá hacerse el primer día útil en que el Congreso esté reunido.
+###### ARTICULO 49.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Los proyectos de leyes o decretos aprobados por el Congreso, se remitirán al Ejecutivo quien, si no tuviere observaciones qué hacer, los publicará inmediatamente. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de diez días útiles, a no ser que corriendo este término hubiese el Congreso cerrado o suspendido sus sesiones, en cuyo caso, la devolución deberá hacerse el primer día útil en que el Congreso esté reunido.
 
-###### Art. 39.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, deberá ser discutido de nuevo por éste, y si fuese confirmado por el voto de las dos terceras partes de los diputados presentes, volverá al Ejecutivo para su promulgación.
+###### ARTICULO 50.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+El proyecto de Ley o Decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, deberá ser discutido de nuevo por éste, y si fuese confirmado por el voto de las dos terceras partes de los diputados presentes, volverá al Ejecutivo para su promulgación.
 
-###### Art. 40.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 51.
 
 En la interpretación, modificación, abrogación o derogación de leyes o decretos, se observarán los mismos trámites que para su formación.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 41.
+###### ARTICULO 52.
 
-Todo proyecto de ley o decreto que fuese desechado en el Congreso, no podrá volver a presentarse en las sesiones del año.
+Todo proyecto de Ley o Decreto que fuese desechado en el Congreso, no podrá volver a presentarse en las sesiones del año.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 42.
+###### ARTICULO 53.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando ejerza funciones de Cuerpo Electoral o de Jurado, o cuando declare que debe acusarse a alguno de los altos funcionarios de la administración del Estado, por delitos oficiales. Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación Permanente en el caso de los artículos 52 y 53.
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso cuando ejerza funciones de Cuerpo Electoral o de Jurado, o cuando declare que debe acusarse a alguno de los altos funcionarios de la administración del Estado, por delitos oficiales. Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación Permanente en el caso de los artículos 64 y 65 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO VIII. De las facultades del Congreso
+### CAPITULO XIII. De las Facultades del Congreso
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 43.
+###### ARTICULO 54.
 
 Son facultades del Congreso:
 
-I.- Crear nuevos Municipios Libres, dentro de los límites de los existentes, siendo necesario al efecto:
+I.- Crear nuevos Municipios libres, dentro de los límites de los existentes, siendo necesario al efecto:
 
-A).- Que la fracción o fracciones que pidan erigirse en municipios libres cuenten con una población de más de seis mil habitantes;
+a).- Que la fracción o fracciones que pidan erigirse en Municipios libres, cuenten con una población de más de 6,000 habitantes;
 
-B).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar municipios libres, tienen los elementos bastantes para proveer a su existencia política, así como que el municipio libre del cual se segregan, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
+b).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
 
-C).- Que se oiga al Ayuntamiento del Municipio que se trata de desmembrar, sobre la conveniencia o inconveniencia de la creación de la nueva entidad municipal, quedando obligado a dar un informe dentro de los quince días siguientes a aquél en que le fuese pedido;
+c).- Que se oiga al Ayuntamiento del Municipio que se trate de desmembrar, sobre la conveniencia o inconveniencia de la creación de la nueva entidad municipal, quedando obligado a dar un informe por escrito dentro de los 15 días siguientes a aquel en que le fuese pedido;
 
-D).- Que igualmente se oiga al Ejecutivo del Estado, el cual enviará su informe dentro de los diez días, contados desde la fecha en que se le remita la comunicación respectiva;
+d).- Que igualmente se oiga al Ejecutivo del Estado, el cual enviará su informe por escrito dentro de los diez días, contados desde la fecha en que se le remita la comunicación respectiva; y
 
-E).- Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los diputados presentes;
+e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los diputados presentes.
 
-II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa del Poder Ejecutivo;
+II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-III.- Legislar sobre todos los ramos de la administración pública local, así como sobre los derechos civiles y políticos de los habitantes del Estado;
+III.- Legislar en todo lo que concierne a los ramos de la Administración Pública del Estado, salvo en aquello que de acuerdo con la Constitución General de la República, compete a los Poderes Federales;
 
-IV.- Legislar en materia de hacienda, tanto en lo relativo al Estado como al Municipio; sin que por ningún motivo puedan expedirse leyes en virtud de las cuales el Estado pueda disponer de los fondos municipales;
+IV.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
 
-V.- Legislar en materia de ingresos y egresos del Estado;
+V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, salvo los casos a que se refiere la fracción VIII del Artículo 117 de la Constitución Federal;
 
-VI.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado; aprobarlos, reconocerlos y ordenar su pago por el tesoro público, salvo los casos a que se refiere la fracción VIII del artículo 117 de la Constitución Federal;
+VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuír sus emolumentos;
 
-VII.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones;
+VII.- Nombrar y remover a los empleados de su dependencia, concederles licencia en los términos de Ley y aceptarles sus renuncias;
 
-VIII.- Nombrar y remover libremente a los empleados del Poder Legislativo;
+VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado, o indulto, remisión o conmutación de penas impuestas por los mismos Tribunales;
 
-IX.- Conceder amnistía, por delitos cuyo conocimiento corresponda a los tribunales del Estado, e indulto, remisión o conmutación de penas impuestas por los mismos tribunales;
+IX.- Expedir su reglamento interior;
 
-X.- Conceder dispensas de ley por causas justificadas o por razones de conveniencia y utilidad públicas;
+X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
-XI.- Formar su reglamento interior y tomar las providencias necesarias a fin de hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes;
+XI.- Resolver acerca de las renuncias del Gobernador, los Magistrados y los Diputados, que deben ser fundadas en causa grave;
 
-XII.- Otorgar o negar su aprobación a los nombramientos de magistrados del Tribunal Superior de Justicia, que le someta el gobernador del Estado así como aceptar las renuncias de éstos;
+XII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, expedidos por el Gobernador del Estado;
 
-XIII.- Declarar justificadas o no justificadas, por mayoría absoluta de votos, las solicitudes de destitución de autoridades judiciales que hiciere el gobernador del Estado en los términos del artículo 74.
+XIII.- Declarar justificadas o nó, por mayoría absoluta de votos, las solicitudes de destitución de autoridades judiciales que hiciere el Gobernador del Estado, en los términos del artículo 86 de este Ordenamiento;
 
-XIV.- Erigirse en colegio electoral para calificar la elección de gobernador y aceptar, en su caso, la renuncia de éste;
+XIV.- Otorgar licencia al Gobernador del Estado, a los Magistrados y a los Diputados, para separarse de sus funciones hasta por seis meses;
 
-XV.- Constituirse en colegio electoral y elegir al ciudadano que deba substituir al gobernador del Estado con el carácter de substituto o de provisional de acuerdo con los artículos 51, 52, 53 y 54;
+XV.- Llamar a los diputados suplentes en los casos de renuncia, muerte, inhabilidad previamente calificada, y licencia a los propietarios, cuando ésta exceda de un mes;
 
-XVI.- Revisar los expedientes relativos a las elecciones de funcionarios municipales y hacer la declaración de los ciudadanos que resulten electos;
+XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
-XVII.- Resolver los problemas políticos municipales y los que se susciten entre el poder ejecutivo y los ayuntamientos;
+XVII.- Erigirse en Colegio Electoral para calificar la elección de Gobernador;
 
-XVIII.- Aprobar las cuentas de la recaudación e inversión de las rentas públicas del Estado, que anualmente debe presentar el Ejecutivo;
+XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
-XIX.- Otorgar la licencia que necesite el gobernador del Estado, para separarse de sus funciones, por más de sesenta días;
+XIX.- Revisar los expedientes relativos a las elecciones de funcionarios municipales y hacer la declaratoria de los ciudadanos que resulten electos;
 
-XX.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República o al Estado y otorgar pensiones a los familiares que comprueben sus difíciles condiciones económicas;
+XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
-XXI.- Conocer como jurado de declaración en los delitos oficiales de que se acuse al gobernador del Estado, a los diputados, al secretario y al tesorero general del Estado y como jurado de declaración y de sentencia en los delitos oficiales cometidos por los magistrados del Tribunal Superior de Justicia y el procurador general;
+XXI.- Aprobar las cuentas de la recaudación e inversión de las rentas públicas del Estado, que anualmente debe presentar el Ejecutivo;
 
-XXII.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
+XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada municipio, que anualmente le serán remitidas por conducto de la Secretaría General de Gobierno, ya glosadas;
 
-XXIII.- Dictar resoluciones económicas relativas a su régimen interior;
+XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados, al Secretario General de Gobierno y al Tesorero General del Estado y como Jurado de Declaración y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
-XXIV.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su seno;
+XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
 
-XXV.- Expedir convocatoria para elecciones extraordinarias con el objeto de cubrir las vacantes de sus respectivos miembros;
+XXV.- Dictar resoluciones económicas relativas a su régimen interior;
 
-XXVI.- Revisar y aprobar las cuentas de los ingresos y egresos de cada municipio, que anualmente le serán remitidas por conducto de la secretaría general de Gobierno, ya glosadas, y
+XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su seno;
 
-XXVII.- Expedir la Ley de Justicia Fiscal y la Ley orgánica que regule los contratos que celebre el Gobierno del Estado para la ejecución de obras públicas, y todas las leyes necesarias para hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los poderes del Estado.
+XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XXVIII.- Las demás que le asignen esta Constitución y la General de la República.
 
-### CAPITULO IX. De la Diputación Permanente
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+### CAPITULO XIV. De la Diputación Permanente
 
-###### Art. 44.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de tres diputados nombrados la víspera de la clausura de sus sesiones ordinarias, por mayoría de votos de los presentes; se instalará el siguiente día y durará todo el tiempo del receso, aun cuando haya sesiones extraordinarias. Todos los demás diputados serán suplentes de la diputación permanente y podrán ser llamados si es necesario, de acuerdo con lo que sobre el particular disponga el reglamento interior del mismo Congreso.
+###### ARTICULO 55.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Durante los recesos del Congreso, funcionará una Diputación Permanente compuesta de tres diputados.
 
-###### Art. 45.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-La Diputación Permanente, además de las facultades que expresamente le concede esta Constitución, tendrá las siguientes:
+###### ARTICULO 56.
 
-I.- Dictaminar en los asuntos que queden pendientes para que el Congreso tenga, desde luego, en qué ocuparse;
+La Diputación Permanente será nombrada por el Congreso por mayoría de votos de los diputados presentes, la víspera de la clausura de cada uno de los períodos de sus sesiones ordinarias, y se instalará el siguiente día.
 
-II.- Admitir los proyectos de ley que se presentaren y dictaminar sobre ellos, para los efectos de la cláusula anterior;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-III.- Otorgar al gobernador el permiso que necesite para separarse de sus funciones o salir del Estado, por más de sesenta días;
+###### ARTICULO 57.
 
-IV.- Conceder o negar su aprobación a los nombramientos de los Magistrados del Tribunal Superior de Justicia que le someta el gobernador del Estado, así como aceptar las renuncias de los propios funcionarios judiciales, y
+Serán suplentes a la Diputación Permanente los demás diputados, y podrán ser llamados, si es necesario, de acuerdo con lo que al respecto disponga el Reglamento Interior del Congreso.
 
-V.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto a que fuesen convocados.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 58.
 
-### CAPITULO X. Del Poder Ejecutivo
+Las facultades de la Diputación Permanente, además de las que expresamente le concede esta Constitución, son las siguientes:
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+I.- Convocar al Congreso, por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a solicitud del Ejecutivo, a sesiones extraordinarias. La convocatoria señalará con toda precisión el objeto de las sesiones y la fecha en que deban comenzar, no pudiendo el Congreso ocuparse sino de los asuntos precisados en la convocatoria;
 
-###### Art. 46.
+II.- Emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el período inmediato de sesiones ordinarias sigan tratándose;
 
-Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará "Gobernador del Estado de Campeche".
+III.- Admitir los proyectos de ley que se presentaren y dictaminar sobre ellos;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+IV.- Recibir la protesta de ley a los funcionarios que deban prestarla ante el Congreso;
 
-###### Art. 47.
+V.- Otorgar al gobernador el permiso que necesite para separarse de sus funciones o salir del Estado, por más de 60 días;
 
-La elección de gobernador será popular directa y en los términos que disponga la ley electoral.
+VI.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia cuando excedan de 30 días;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+VII.- Conceder, en su caso, a los diputados propietarios o suplentes en ejercicio, licencia para separarse de sus funciones;
 
-###### Art. 48.
+VIII.- Conceder en su caso, a los diputados propietarios o suplentes en ejercicio, el permiso respectivo para aceptar algún empleo o comisión;
 
-Para ser gobernador se requiere:
+IX.- Nombrar con carácter provisional a los empleados de las dependencias del Congreso y conceder licencias a los mismos;
+
+X.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal Superior de Justicia, que le someta a su consideración el Gobernador del Estado, así como aceptar las renuncias de los propios funcionarios judiciales;
+
+XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
+
+XII.- Las demás que le confiera esta Constitución.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO XV. Del Poder Ejecutivo
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 59.
+
+Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará Gobernador del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 60.
+
+La elección de gobernador será popular directa y en los términos que disponga la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 61.
+
+Para ser Gobernador se requiere:
 
 I.- Ser ciudadano campechano en pleno goce de sus derechos;
 
-II.- Tener treinta y cinco años cumplidos el día de la elección;
+II.- Tener 35 años cumplidos, el día de la elección y haber residido en el Estado todo el año anterior a la elección;
 
-III.- Haber residido en el territorio del Estado todo el año anterior a la elección, si la calidad de campechano fuese por nacimiento y tener cinco años de vecindad, si la calidad de campechano fuese sólo por vecindad.
+III.- Ser ciudadano campechano por nacimiento, o tener 12 años de residencia, si la calidad de campechano fuese por vecindad.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 49.
+###### ARTICULO 62.
 
 No pueden ser gobernador:
 
-I.- Los que pertenezcan o hayan pertenecido al estado eclesiástico o sean o hayan sido ministros de algún culto;
+I.- Los que pertenezcan o hayan pertenecido al Estado Eclesiástico o sean o hayan sido ministros de algún culto;
 
-II.- Los que tengan mando alguno de fuerza pública dentro de los cuarenta y cinco días antes de la elección;
+II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes de la elección;
 
-III.- Los que tengan algún cargo o comisión del gobierno federal dentro de los cuarenta y cinco días antes de la elección;
+III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-IV.- El secretario general, el procurador general de Justicia, el tesorero general y los magistrados del Tribunal Superior de Justicia, si no se separan de sus cargos dentro de los cuarenta y cinco días anteriores a la elección.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 63.
 
-###### Art. 50.
+El gobernador entrará a ejercer su cargo el 16 de septiembre y durará en él 6 años.
 
-El gobernador entrará a ejercer su encargo el 16 de septiembre y no podrá durar en él más de seis años.
+El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-El ciudadano que haya desempeñado el cargo de gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 64.
 
-###### Art. 51.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviese en sesiones ordinarias, se constituirá en Colegio Electoral, inmediatamente, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto por mayoría de votos un gobernador interino. Al mismo tiempo expedirá la convocatoria a elecciones para gobernador substituto que termine el período constitucional; las que deberán efectuarse en un plazo no menor de 6 meses ni mayor de 10, a partir de la convocatoria.
 
-En caso de falta absoluta del gobernador del Estado, ocurrida en el primer año del período respectivo, si el Congreso estuviese en sesiones, se constituirá en Colegio Electoral inmediatamente, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto por mayoría de votos un gobernador provisional. Al mismo tiempo expedirá la convocatoria a elecciones para gobernador substituto que termine el período constitucional. En caso de renuncia del cargo se procederá en los mismos términos.
+Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde luego un gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que designe un gobernador interino y expida la convocatoria a elecciones en los términos ya señalados. Si se tratare de renuncia del cargo de gobernador, la Permanente convocará al Congreso a sesiones extraordinarias para que la califique y proceda en la forma que acaba de expresarse.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 52.
+###### ARTICULO 65.
 
-Si el Congreso estuviese en receso, la Diputación Permanente nombrará desde luego un gobernador provisional, debiendo convocar a sesiones extraordinarias del Congreso para que a su vez expida la convocatoria a elecciones en los términos del artículo anterior. Si se tratare de renuncia del cargo de gobernador, la Permanente convocará al Congreso a sesiones extraordinarias para que la califique y proceda en la forma que acaba de expresarse.
+Cuando la falta de gobernador ocurriese después de los dos primeros años del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá al gobernador substituto que deberá concluír el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de un gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que calificando la renuncia, proceda en la forma ya señalada.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 53.
+###### ARTICULO 66.
 
-Cuando la falta de gobernador ocurriese después del primer año del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones, elegirá al gobernador substituto que deberá concluir el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en colegio electoral y haga la designación de gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese reunido, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que, calificando la renuncia, proceda en la forma que se acaba de indicar.
+Si al comenzar un período constitucional no se presentase el gobernador electo o la elección no estuviese hecha y declarada el 16 de septiembre, cesará sin embargo el gobernador cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo en calidad de gobernador interino, el que designe el Congreso del Estado, o, en su caso, con el carácter de provisional el que designe la Diputación Permanente, procediéndose como disponen los artículos 64 y 65.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 54.
+###### ARTICULO 67.
 
-Si al comenzar un período constitucional no se presentase el gobernador electo o la elección no estuviese hecha y declarada el diez y seis de septiembre, cesará sin embargo el gobernador, cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo, en calidad de gobernador provisional, el que designe el Congreso del Estado, o, en su caso, la Diputación Permanente, procediéndose como disponen los artículos 51 y 52.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 55.
-
-Cuando la falta de gobernador fuese temporal, el Congreso del Estado si estuviese reunido, o en su defecto la Diputación Permanente, designará un gobernador interino para que funcione durante el tiempo que dure dicha falta, a no ser que ésta no exceda de sesenta días, en cuyo caso el secretario general de Gobierno se encargará del despacho del poder ejecutivo.
+Cuando la falta de gobernador fuese temporal, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un gobernador interino para que funcione durante el tiempo que dure dicha falta, a no ser que ésta no exceda de 60 días, en cuyo caso el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
 Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
-En caso de licencia del gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
+En caso de licencia del Gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 56.
+###### ARTICULO 68.
 
-El ciudadano electo para substituir al gobernador constitucional en el caso de falta absoluta de éste, no podrá ser electo gobernador para el período inmediato.
+El ciudadano electo para substituír al Gobernador Constitucional en el caso de falta absoluta de éste, no podrá ser electo gobernador para el período inmediato.
 
 El ciudadano que hubiese sido designado gobernador provisional en el caso de falta absoluta de gobernador, no podrá ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 57.
+###### ARTICULO 69.
 
-El cargo de gobernador solo es renunciable por causa grave, que calificará el Congreso del Estado, ante el que se presentará la renuncia.
+El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere, que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 58.
+###### ARTICULO 70.
 
-El gobernador, al tomar posesión de su cargo, prestará ante el Congreso del Estado o ante la Diputación Permanente, en los recesos de aquel, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere que la Nación o el Estado me lo demanden".
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviese reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de 60 días; en tal caso, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 59.
-
-El gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviese reunido, o en su defecto de la Diputación Permanente, a menos de que la ausencia no exceda de sesenta días, en cuyo caso el secretario general de Gobierno se encargará del despacho del poder Ejecutivo.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 60.
+###### ARTICULO 71.
 
 Las facultades y obligaciones del Ejecutivo son:
 
-I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado;
+I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
-II.- Dar órdenes y expedir reglamentos para el mejor cumplimiento de la Constitución y de las leyes;
+II.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación de la Cámara de Diputados o de la Diputación Permanente, según el caso;
 
-III.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
+III.- Informar al Tribunal Superior de Justicia de las faltas que cometan los jueces inferiores;
 
-IV.- Designar a los magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación de la Cámara de Diputados o de la Comisión Permanente, según el caso;
+IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
 
-V.- Pedir la destitución, por mala conducta, ante el Congreso del Estado de cualquiera de los magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
+V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
 VI.- Nombrar y remover libremente:
 
-A).- Al secretario general del despacho y demás funcionarios y empleados de la administración pública, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
+A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
-B).- Al tesorero general del Estado y demás empleados del ramo de Hacienda;
+B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda.
 
-VII.- Fomentar el turismo y promover el desarrollo industrial y agropecuario del Estado;
+VII.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;
 
-VIII.- Las atribuciones que en lo referente a guardia nacional y fuerza pública confieren a los Estados de la Federación la Constitución General y las leyes relativas;
+VIII.- Decretar la expropiación por causas de utilidad pública, en la forma que determinen las leyes;
 
-IX.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas, tanto del Estado como municipales, aplicando las penas a que se hayan (sic) acreedoras, en los términos que prevengan las leyes o decretos especiales;
+IX.- Dirigir como Jefe de la Hacienda Pública la administración de ella; cuidar de que los caudales públicos estén siempre bien asegurados, se recauden e inviertan con arreglo a las leyes, ordenando al efecto la práctica de visitas a las oficinas rentísticas del Estado, para corregir los males e irregularidades que se notaren;
 
-X.- Todas las demás atribuciones que expresamente le confieran la Constitución General de la República y la particular del Estado.
+X.- Publicar en el Periódico Oficial los Balances correspondientes de la Hacienda Pública del Estado, de acuerdo con lo dispuesto en la Ley o Reglamento respectivo;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XI.- Impedir los abusos de la fuerza pública contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere;
 
-###### Art. 61.
+XII.- Excitar a los Ayuntamientos, Presidentes Municipales y de Sección y Comisarios, cuando lo estime conveniente, para el mejoramiento de los ramos de la Administración Municipal;
 
-Para el despacho de los negocios que corran a cargo del Ejecutivo, habrá un secretario que se denominará "Secretario General".
+XIII.- Visitar los municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XIV.- Pedir autorización al Congreso y en su receso a la Diputación Permanente para salir del territorio del Estado por más de 60 días;
 
-###### Art. 62.
+XV.- Estipular contratos para concesiones y otorgar éstas, si aquéllos fueren aprobados por el Congreso;
 
-Para ser secretario general se requiere ser ciudadano campechano y tener veinticinco años de edad.
+XVI.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XVII.- Otorgar el Fíat para el ejercicio de la función Notarial;
 
-###### Art. 63.
+XVIII.- Promover y ejecutar las leyes y decretos que expida el Congreso del Estado;
 
-Las faltas del secretario general serán suplidas por el oficial mayor de la secretaría, quien para serlo deberá tener los mismos requisitos que el secretario general.
+XIX.- Dar órdenes y expedir reglamentos para el mejor cumplimiento de esta Constitución y de las leyes;
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 1961)</small>
+XX.- Pedir al Congreso la prórroga de sus sesiones ordinarias, cuando lo juzgue necesario para el servicio público;
 
-###### Art. 64.
+XXI.- Presidir todas las reuniones oficiales a que concurra en el Estado, a excepción de las del Congreso y Tribunal Superior de Justicia;
 
-La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado, salvo el de la edad, bastando para ello ser ciudadano en pleno ejercicio de sus derechos políticos y civiles. El Procurador General de Justicia, será el consejero jurídico del Gobierno e intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+XXII.- Pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XXIII.- Las atribuciones en lo referente a Guardia Nacional y fuerza pública que confieren a los Estados de la Federación la Constitución General y las leyes relativas;
 
-### CAPITULO XI. Del Poder Judicial
+XXIV.- Fomentar el turismo y promover el desarrollo industrial y agropecuario del Estado;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+XXV.- Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
 
-###### Art. 65.
+XXVI.- Todas las demás atribuciones y obligaciones provenientes de la Constitución Federal, de la del Estado y de las leyes que de ellas emanen.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en juzgados de primera instancia, menores y de paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 72.
 
-###### Art. 66.
+Para el despacho de los negocios que corran a cargo del Ejecutivo, habrá un secretario que se denominará "Secretario General de Gobierno".
 
-El Tribunal Superior de Justicia del Estado se compondrá de tres magistrados propietarios y tres suplentes. Cada uno de ellos será nombrado por el Ejecutivo, y sometido el nombramiento a la aprobación del Congreso. Tendrán el carácter de inamovibles y sólo podrán ser removidos de sus cargos cuando observan mala conducta, de acuerdo con lo que dispone el artículo 74, o previo el juicio de responsabilidades correspondientes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 73.
 
-###### Art. 67.
+Para ser Secretario General se requiere ser ciudadano campechano y tener 25 años de edad.
 
-Para ser magistrado del Tribunal Superior de Justicia se requiere:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 74.
+
+Las faltas del Secretario General serán suplidas por el Oficial Mayor de la Secretaría, quien para serlo deberá reunir los mismos requisitos que el Secretario General.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 75.
+
+La Ley organizará el Ministerio Público en el Estado y sus funcionarios serán nombrados y removidos libremente por el Ejecutivo, teniendo como Jefe al Procurador General de Justicia, quien para serlo deberá reunir los mismos requisitos que para ser Magistrado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 76.
+
+El Procurador General, será el consejero jurídico del Gobierno e intervendrá en todos los negocios en que el Estado sea parte. Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO XVI. Del Poder Judicial
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO XVII. De la Responsabilidad de los Funcionarios Públicos
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+### CAPITULO XVIII. De los Municipios del Estado
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 77.
+
+Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 78.
+
+El Tribunal Superior de Justicia del Estado se compondrá de tres Magistrados propietarios y tres suplentes; cada uno de ellos será nombrado por el Ejecutivo, y sometido el nombramiento a la aprobación del Congreso. Tendrán el carácter de inamovibles y sólo podrán ser removidos de sus cargos cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86 o previo el juicio de responsabilidad correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 79.
+
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Tener treinta años de edad, cumplidos el día de la designación;
+II.- Tener 30 años de edad cumplidos, el día de la designación;
 
-III.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello;
+III.- Poseer título profesional de abogado, expedido por autoridad o corporación legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro ilícito que lesione seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 68.
+###### ARTICULO 80.
 
-Cada magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo protestará ante el Congreso del Estado, y en los recesos de éste ante la Diputación Permanente, en la siguiente forma:
+Cada Magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo protestará ante el Congreso del Estado, y en los recesos de éste ante la Diputación Permanente, en la siguiente forma:
 
-Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Tribunal Superior de Justicia del Estado que se os ha conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen, mirando en todo por la buena marcha de la administración de Justicia?"
+Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de magistrado del Tribunal Superior de Justicia del Estado que se os ha conferido, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por la buena marcha de la administración de Justicia?".
 
-Magistrado: "Si protesto"
+Magistrado: "Sí, protesto".
 
 Presidente: "Si no lo hiciéreis así, la Nación o el Estado os lo demande".
 
-Los jueces de primera instancia, menores y de paz protestarán ante el Tribunal Superior de Justicia o ante la autoridad que determine la ley.
+Los jueces de primera instancia, menores y de paz protestarán ante el Tribunal Superior de Justicia o ante la autoridad que determine la Ley.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 69.
+###### ARTICULO 81.
 
-El cargo de magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia, y en los recesos ante la Diputación Permanente, la que hará la calificación.
+El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia y en los recesos ante la Diputación Permanente, la que hará la calificación.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 70.
+###### ARTICULO 82.
 
-Las licencias de los magistrados cuando no excedan de un mes, serán concedidas por el Tribunal Superior de Justicia; pero las que excedan de dicho tiempo las concederá el Congreso, o, en su defecto, la Diputación Permanente.
+Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Tribunal Superior de Justicia; pero las que excedan de dicho tiempo las concederá el Congreso, o, en su defecto, la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 71.
+###### ARTICULO 83.
 
 Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia y sus respectivos secretarios, no podrán desempeñar empleo o cargo de la Federación, de otro Poder del Estado, del Municipio ni de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+((REFORMADO, P.O. 29 DE MAYO DE 1965)
 
-###### Art. 72.
+###### ARTICULO 84.
 
-Los jueces de primera instancia serán inamovibles y deberán llenar los requisitos siguientes:
+Los Jueces de primera instancia serán inamovibles y deberán llenar los requisitos siguientes:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -699,335 +931,385 @@ II.- Poseer título profesional de abogado expedido por autoridad o corporación
 
 III.- Gozar de buena reputación.
 
-Sólo podrán ser removidos de su cargo cuando observen mala conducta, de acuerdo con lo que dispone el artículo 74, o previo el juicio de responsabilidades correspondiente.
+Sólo podrán ser removidos de su cargo cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86, o previo el juicio de responsabilidad correspondiente.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 73.
+###### ARTICULO 85.
 
-Los jueces menores y de paz deberán ser ciudadanos mexicanos en ejercicio de sus derechos civiles y políticos, y durarán en su cargo el tiempo que determina la ley.
+Los jueces menores y de paz deberán ser ciudadanos mexicanos en ejercicio de sus derechos civiles y políticos; gozar de buena reputación y poseer, los primeramente nombrados, título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y durarán en su cargo el tiempo que determine la Ley.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 74.
+###### ARTICULO 86.
 
-El gobernador podrá pedir ante el Congreso del Estado, o, en su defecto, ante la Diputación Permanente, la destitución, por mala conducta, de cualquiera de los magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia. Si el Congreso del Estado, o en los recesos de éste, la Diputación Permanente, declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación Permanente, la destitución por faltar al cumplimiento de sus deberes oficiales o violar notoriamente las buenas costumbres, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia. Si el Congreso del Estado, o en los recesos de éste, la Diputación Permanente, declara por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
 
-El gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud.
+El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 75.
+###### ARTICULO 87.
 
-El Tribunal Superior de Justicia funcionará en pleno o dividido en tres salas, de acuerdo con lo que prevenga su ley orgánica.
+El Tribunal Superior de Justicia funcionará en pleno o dividido en tres salas, de acuerdo con lo que prevenga su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 76.
+###### ARTICULO 88.
 
-Corresponde al Tribunal pleno:
+Corresponde al Tribunal Pleno:
 
-I.- Conocer como Jurado de sentencia, del que también formarán parte los magistrados suplentes, de los delitos oficiales que cometan el gobernador del Estado, los diputados al Congreso, el secretario general de gobierno y el tesorero general;
+I.- Conocer como Jurado de Sentencia de los delitos oficiales que cometan: el Gobernador del Estado, los Diputados al Congreso, el Secretario General de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado;
 
-II.- Juzgar por los mismos delitos a los presidentes de Ayuntamientos y a los jueces de primera instancia, menores y de paz;
+II.- Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y concejales, y a los jueces de primera instancia, menores y de paz;
 
-III.- Dirimir las competencias que se susciten entre los tribunales inferiores del Estado, así como todas aquellas controversias y asuntos que determinen las leyes;
+III.- Dirimir las competencias que se susciten entre los Tribunales inferiores del Estado, así como todas aquellas controversias y asuntos que determinen las leyes;
 
-IV.- Conocer de los conflictos entre los Ayuntamientos o entre éstos y el Ejecutivo, así como de aquellos en que el Estado, fuese parte;
+IV.- Conocer de los conflictos entre los Ayuntamientos o entre éstos y el Ejecutivo, así como de aquellos en que el Estado fuese parte;
 
-V.- Suspender hasta por tres meses, por causa grave justificada, a los jueces de primera instancia y menores, empleados y dependientes de los juzgados de primera instancia, menores y de paz y a los jueces de paz;
+V.- Suspender hasta por tres meses, por causa justificada, a los jueces de primera instancia y menores, empleados y dependientes de los juzgados de primera instancia, menores y de paz y a los jueces de paz;
 
-VI.- Nombrar a los jueces de primera instancia, menores y de paz, y a los empleados de los juzgados de primera instancia, menores y de paz, a propuesta en terna estos últimos de los jueces respectivos;
+VI.- Nombrar a los jueces de primera instancia, menores y de paz, a los empleados de los juzgados de primera instancia, menores y de paz, a propuesta en terna estos últimos de los jueces respectivos;
 
 VII.- Conceder licencias a los jueces de primera instancia, menores y de paz y a los empleados de los juzgados y aceptarles sus renuncias;
 
-VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, concederles licencias y aceptarles sus renuncias, y
+VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y
 
 IX.- Remover a los empleados de los juzgados de primera instancia, menores y de paz.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XII. De la responsabilidad de los funcionarios públicos
+### CAPITULO XIX. Prevenciones Generales
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 77.
+### CAPITULO XX. De las Reformas a la Constitución
 
-Los diputados al Congreso del Estado, los magistrados del Tribunal Superior de Justicia, el secretario general de Gobierno, el procurador general de justicia y el tesorero general del Estado, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos y faltas en que incurran en el ejercicio de sus funciones oficiales.
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 89.
 
-###### Art. 78.
+Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia, el Tesorero General del Estado y el Presidente, Regidores y Síndicos de los Ayuntamientos, son responsables por los delitos del orden común que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones oficiales.
 
-El gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violación definida de la Constitución y leyes locales, ataque a la libertad electoral y delitos graves del orden común.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 90.
 
-###### Art. 79.
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la Patria, violación definida de la Constitución y leyes locales, ataque a la libertad electoral y delitos graves del orden común.
 
-Si el delito fuere común, el Congreso erigido en gran jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior contra el acusado; en el afirmativo, quedará éste, por el mismo hecho, separado de su encargo y sujeto a la acción de los tribunales comunes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 91.
 
-###### Art. 80.
+Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior contra el acusado; en el afirmativo, quedará éste, por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-De los delitos oficiales conocerá el Congreso como jurado de declaración y el Tribunal en pleno, con inclusión de los magistrados suplentes, como jurado de sentencia, cuando el acusado no sea magistrado o procurador general de justicia, en cuyo caso conocerá el Congreso como jurado de sentencia.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 92.
 
-###### Art. 81.
+De los delitos oficiales conocerá el Congreso como Jurado de Declaración y el Tribunal en Pleno, con inclusión de los Magistrados Suplentes en ejercicio, como Jurado de Sentencia, cuando el acusado no sea Magistrado o Procurador General de Justicia, y en este caso conocerá el Congreso como Jurado de Sentencia.
 
-El primer jurado declarará, a mayoría absoluta de votos, si el acusado es o no culpable. Si la declaración fuese absolutoria, el funcionario continuará en el ejercicio de su encargo, y si condenatoria, quedará inmediatamente separado de él y puesto a disposición del Tribunal pleno o del Congreso en su caso.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 93.
 
-###### Art. 82.
+El primer Jurado declarará, a mayoría absoluta de votos, si el acusado es o no culpable. Si la declaración fuese absolutoria, el funcionario continuará en el ejercicio de su encargo, y si es condenatoria, quedará inmediatamente separado de él y puesto a disposición del Tribunal Pleno o del Congreso en su caso.
 
-El Congreso o el Tribunal en pleno, constituídos del modo prevenido en el artículo 80 se erigirá como jurado de sentencia y, con audiencia del reo, del procurador general de justicia, del defensor y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la ley designe.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 94.
 
-###### Art. 83.
+El Congreso o el Tribunal en Pleno, constituídos del modo prevenido en el Artículo 92, se erigirá como Jurado de Sentencia y, con audiencia del reo, del Procurador General de Justicia, del defensor y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
 
-Si los funcionarios a que se refieren los artículos 77 y 78 fuesen acusados por delitos oficiales cometidos en el desempeño de algún cargo anterior al en que ejercen sus funciones, se procederá contra ellos en los términos de los artículos precedentes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 95.
 
-###### Art. 84.
+Si los funcionarios a que se refieren los artículos 89 y 90, fuesen acusados por delitos oficiales cometidos en el desempeño de algún cargo anterior a aquel en que ejerzan sus funciones, se procederá contra ellos en los términos de los artículos precedentes.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 96.
 
 Pronunciada una sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 85.
+###### ARTICULO 97.
 
-La responsabilidad oficial de los presidentes de Ayuntamiento y jueces de primera instancia, menores y de paz, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas y las faltas u omisiones que cometan en el ejercicio de su empleo, serán castigadas por sus respectivos superiores.
+La responsabilidad oficial de los Presidentes de Ayuntamientos, Jueces de Primera Instancia, menores y de paz, así como de los munícipes, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas y las faltas u omisiones que comentan en el ejercicio de sus funciones, serán castigadas por sus respectivos superiores.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 86.
+###### ARTICULO 98.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá exigirse dentro del período en que el funcionario ejerza su encargo y dentro de un año después.
+La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse dentro del período en que el funcionario ejerza su encargo y dentro de un año después.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 87.
+###### ARTICULO 99.
 
-En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
+Los Diputados al Congreso del Estado, el Gobernador, los Magistrados del Tribunal Superior de Justicia, los Presidentes, Síndicos y Regidores de los Ayuntamientos, gozan de fuero desde el día de su elección o nombramiento en su caso.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución a los funcionarios citados.
 
-###### Art. 88.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Se concede acción popular para denunciar ante el Congreso las faltas o delitos cometidos por los funcionarios públicos. Una ley reglamentará esta facultad.
+###### ARTICULO 100.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+En demandas de orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-### CAPITULO XIII. De los Municipios Libres
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+###### ARTICULO 101.
 
-###### Art. 89.
+Se concede acción popular, sin obligación de constituírse en parte, para denunciar ante el Congreso las faltas o delitos, comunes u oficiales, cometidos por los funcionarios públicos. Una Ley reglamentará esta facultad.
 
-Los Municipios Libres que integran el Estado, se regirán por la Ley Orgánica de los Municipios del mismo y que tendrá como bases, las siguientes:
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
+### CAPITULO XXI. De la Inviolabilidad de la Constitución
 
-II.- Cuando su extensión o densidad de población lo exija, los Municipios podrán subdividirse en Secciones municipales y Comisarías, debiéndose establecer las relaciones y dependencias que existan entre una y otras;
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-III.- Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que establezca la Ley de Hacienda Municipal, que oportunamente expedirá el Congreso del Estado, y que en todo caso serán las suficientes para atender a sus necesidades;
+###### ARTICULO 102.
 
-IV.- Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales;
+Los municipios que integran el Estado serán libres, se regirán por la Ley Orgánica relativa, la que tendrá como bases, las siguientes:
 
-V.- La primera autoridad administrativa del Municipio será el presidente municipal, quien tomará posesión el 1o. de enero y durará tres años en su encargo.
+I.- Cada Municipio será administrado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
 
-Los componentes de los Ayuntamientos, Juntas y Comisarías municipales tomarán posesión igualmente el 1o. de enero y durarán asimismo tres años en sus respectivos encargos;
+II.- Los ayuntamientos se compondrán de un Presidente Municipal y de tantos regidores y síndicos como determine la Ley Orgánica respectiva;
 
-VI.- Tanto el presidente municipal como los componentes de los Ayuntamientos, Juntas y Comisarías municipales, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato.
+III.- Cuando su extensión o densidad de población lo exija, los municipios podrán subdividirse en secciones municipales y comisarías, debiéndose establecer de acuerdo con la Ley Orgánica de los Municipios, las relaciones y dependencias que existan entre unas y otras;
 
-Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de sus encargos, no podrán ser electas para el período inmediato.
+IV.- Los municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que establezcan las leyes fiscales relativas y que en todo caso serán suficientes para atender a sus necesidades;
 
-Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplente, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+V.- Los municipios tendrán personalidad jurídica para todos los efectos legales;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+VI.- Los municipios no podrán hacer exención de contribuciones que no esté prevista por las leyes, a ningún ciudadano o empresa bajo ningún pretexto;
 
-###### Art. 90.
+VII.- La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero y durará tres años en su encargo.
 
-Para ser electo componente de un Ayuntamiento, Junta o Comisaría municipal, se requiere:
+Los componentes de los ayuntamientos, juntas y comisarías municipales, tomarán posesión igualmente el primero de enero y durarán asimismo tres años en sus respectivos encargos;
 
-I.- Ser ciudadano campechano en pleno goce de sus derechos;
+VIII.- Tanto el Presidente Municipal como los componentes de los ayuntamientos, juntas y comisarías municipales, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato;
 
-II.- Tener un año de residencia en el Municipio, Sección o Comisaría donde deba ejercer su encargo, y
+Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato.
 
-III.- Saber leer y escribir.
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero, los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio;
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+IX.- Cuando por cualquier circunstancia desaparecieran los ayuntamientos o juntas municipales, tendrá facultad el Congreso del Estado o en su defecto la Diputación Permanente, para nombrar substitutos mientras se convoca a elecciones; si la falta ocurriere en el último año, los nombrados terminarán el período.
 
-###### Art. 91.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-No podrán ser componentes de Ayuntamientos, Juntas municipales o Comisarías:
+###### ARTICULO 103.
+
+Para ser electo componente de un ayuntamiento, junta o comisaría municipal, se requiere:
+
+I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;
+
+II.- No haber sido condenado por algún delito que merezca pena corporal;
+
+III.- Tener 25 años cumplidos, el día de la elección;
+
+IV.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
+
+a).- Ser originario del Municipio en que se haga la elección, con residencia en él cuando menos, de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
+
+b).- Ser nativo del Estado, con residencia de un año en el Municipio respectivo, inmediatamente anterior a la fecha de la elección;
+
+c).- Si se es oriundo de otro Estado, tener residencia cuando menos de doce años en el de Campeche y de un año en el Municipio de que se trate.
+
+No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 104.
+
+No podrán ser componentes de ayuntamientos, juntas municipales o comisarías:
 
 I.- Los que sean o hayan sido ministros de algún culto;
 
-II.- Los empleados de la Federación, del Estado o del Municipio, si no se separan cuarenta y cinco días antes del fijado para la elección;
+II.- Los empleados de la Federación, del Estado o del municipio, si no se separan cuando menos cuarenta y cinco días antes del fijado para la elección;
 
-III.- Si el empleado del Municipio fuese el tesorero municipal o administrador de fondos municipales, no podrá ser electo, aún separándose de su empleo en el término que fija la ley, si no han sido aprobadas sus cuentas;
+III.- Si el empleado del municipio fuese el Tesorero Municipal o administrador de fondos municipales, no podrá ser electo, aun separándose de su empleo en el término que fija la Ley, si no han sido aprobadas sus cuentas;
 
-IV.- Los que tuvieren mando de fuerza pública, si no dejaren el mando cuarenta y cinco días antes de la elección, y
+IV.- Los que tuvieren mando de fuerza pública, si no dejaren el mando por lo menos cuarenta y cinco días antes de la elección, y
 
 V.- El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 92.
+###### ARTICULO 105.
 
 Los Municipios no podrán en ningún caso:
 
-I.- Evitar en cualquier forma la entrada o salida de mercancías o productos de cualquier clase;
+I.- Prohibir o evitar en cualquier forma la entrada o salida de mercancías locales, nacionales o extranjeras, o productos de cualquier clase;
 
-II.- Gravar la entrada o salida de los mismos o el paso por el territorio de su jurisdicción, y
+II.- Gravar directa o indirectamente la entrada o salida de los mismos o el paso por el territorio de su jurisdicción, y
 
-III.- Imponer contribuciones que no estén especificadas en la Ley de Hacienda Municipal.
+III.- Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 93.
+###### ARTICULO 106.
 
-Necesitarán autorización del Ejecutivo para comprar, vender, hipotecar o gravar de cualquiera otra manera los bienes raíces del Municipio, así como para contratar empréstitos.
+Los Municipios no podrán comprar; vender, hipotecar o gravar de cualquier manera los bienes que les pertenezcan, ni contratar empréstitos, sin la autorización expresa del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XIV. Prevenciones generales
+###### ARTICULO 107.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+Los Poderes del Estado son los únicos superiores jerárquicos de los Municipios, sin coartar ni limitar las libertades que les concede la Constitución Federal de la República y la particular del Estado.
 
-###### Art. 94.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-La Capital del Estado es la ciudad de Campeche, donde deberán residir los poderes, salvo lo dispuesto en la fracción II del artículo 43.
+###### ARTICULO 108.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+El Congreso del Estado determinará, por ley especial que llevará el nombre de Ley Orgánica de los Municipios del Estado, la reglamentación económica y administrativa a que deban sujetarse los municipios en su régimen interior. Tanto en dicha Ley como en sus modificaciones en su caso, se tenderá siempre a mantener la unidad del gobierno, que necesariamente exige la administración pública general del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución General de la República.
 
-###### Art. 95.
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-Cuando hayan desaparecido los poderes Legislativo y Ejecutivo del Estado, el Tribunal Superior de Justicia, si hubiere permanecido dentro del orden constitucional, integrado por los magistrados propietarios y suplentes, cuando menos en sus dos terceras partes, procederá a elegir un gobernador provisional, dentro de los tres días siguientes a la desaparición de los otros poderes.
+###### ARTICULO 109.
 
-En caso de empate en la votación, el presidente del Tribunal tendrá voto de calidad.
+Cuando hayan desaparecido los Poderes Legislativo y Ejecutivo del Estado, el Tribunal Superior de Justicia si hubiere permanecido dentro del orden Constitucional, integrado por los Magistrados Propietarios y Suplentes en ejercicio, cuando menos en sus dos terceras partes, procederá a elegir un Gobernador Provisional, dentro de los tres días siguientes a la desaparición de los otros Poderes. En caso de empate en la votación el Presidente del Tribunal tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 96.
+###### ARTICULO 110.
 
-Cuando el Tribunal Superior de Justicia no hubiere podido reunirse en la forma prevenida en el artículo anterior, o hubieren desaparecido los Tres Poderes, asumirá provisionalmente el mando del Gobierno el presidente municipal que hubiese permanecido dentro del orden legal y que represente al Municipio de mayor población.
+Cuando el Tribunal Superior de Justicia no hubiere podido reunirse en la forma prevenida en el artículo anterior, o hubieren desaparecido los tres Poderes, asumirá provisionalmente el mando del Gobierno el Presidente Municipal que hubiese permanecido dentro del orden legal y que represente al municipio de mayor población.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 97.
+###### ARTICULO 111.
 
-Si el presidente municipal a quien correspondiere el Gobierno provisional, estuviere impedido para asumir el mando del Gobierno, dentro del mes siguiente a la desaparición de los poderes, corresponderá el Gobierno sucesivamente a los presidentes municipales que representen mayor población y que también se hubieren mantenido dentro del orden legal. Para calificar la importancia de los Municipios por razón de su población, se atenderá al último censo.
+Si el presidente municipal a quien correspondiere el Gobierno Provisional estuviere impedido para asumir el mando del mismo, dentro del mes siguiente a la desaparición de los Poderes, corresponderá el Gobierno sucesivamente a los Presidentes Municipales que representen mayor población y que también se hubieren mantenido dentro del orden legal. Para calificar la importancia de los municipios por razón de su población, se atenderá al último censo.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 98.
+###### ARTICULO 112.
 
-El gobernador provisional convocará a elecciones tan luego como las circunstancias se lo permitan y no podrá ser electo para el período para el cual haya hecho la convocatoria.
+El Gobernador Provisional, convocará a elecciones tan luego como las circunstancias se lo permitan y no podrá ser electo para el período para el cual haya hecho la Convocatoria.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 99.
+###### ARTICULO 113.
 
-En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la desaparición de los poderes, se atenderá a lo dispuesto en la fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos.
+En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la desaparición de los Poderes, se atenderá a lo dispuesto en la fracción V del artículo 76 de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 100.
-
-Los requisitos que esta Constitución exija para el desempeño de los empleos o puestos públicos, enumerados en ella, no podrán ser objeto de las dispensas a que se refiere el artículo 43 fracción X, ni podrán concederse en ninguna otra forma. Cualquiera suspensión o modificación que se haga de esos requisitos, implicará una reforma constitucional, y deberá sujetarse a las reglas establecidas en el capítulo XV.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 101.
+###### ARTICULO 114.
 
 Ninguna reunión armada tiene derecho de deliberar ni de ejercer el derecho de petición.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 102.
+###### ARTICULO 115.
 
-El Congreso del Estado, el Tribunal Superior de Justicia, los Ayuntamientos y las Juntas Municipales, tendrán el tratamiento de honorables y el gobernador de ciudadano.
+El Congreso del Estado, el Tribunal Superior de Justicia, los Ayuntamientos y las Juntas Municipales, tendrán el tratamiento de Honorables.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 103.
+###### ARTICULO 116.
 
-Todos los funcionarios públicos del Estado o de los Municipios, sin excepción alguna, antes de tomar posesión de su cargo, prestarán la protesta de guardar la Constitución Federal y del Estado, y las leyes que de ellas emanen.
+Todos los funcionarios públicos del Estado o de los municipios, sin excepción alguna, antes de tomar posesión de su cargo, prestarán la protesta de guardar la Constitución Federal y del Estado y las leyes que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 104.
+###### ARTICULO 117.
 
-Ningún individuo podrá desempeñar a la vez dos cargos de elección popular cualesquiera que ellos sean, pero el nombrado puede elegir entre ambos el que quiera desempeñar.
+Ningún individuo podrá desempeñar a la vez dos cargos de elección popular, cualesquiera que ellos sean, pero el nombrado puede elegir entre ambos el que quiera desempeñar.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 105.
+###### ARTICULO 118.
 
-Todos los funcionarios de elección popular recibirán una remuneración por sus servicios, con excepción de los síndicos y regidores de los Ayuntamientos.
+Los funcionarios rendirán la protesta ante quien corresponda en la siguiente forma: "La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ……. que el Estado os ha conferido?". El interrogado contestará; "Sí, protesto". Acto continuo la misma autoridad que tome la protesta, dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 106.
+###### ARTICULO 119.
+
+Todos los funcionarios de elección popular recibirán una remuneración por sus servicios, con excepción de los Regidores y Síndicos de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 120.
 
 Los funcionarios o empleados públicos que aceptaren su encargo faltándoles algunos de los requisitos que se señalan en esta Constitución, serán suspensos en el ejercicio de sus derechos de ciudadanos por un año.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 107.
+###### ARTICULO 121.
 
-Una ley fijará anualmente los sueldos de los empleados y demás gastos públicos, no pudiendo hacerse pago alguno que no esté comprendido en dicha ley o aprobado por el Congreso.
+Una Ley fijará anualmente los sueldos de los empleados y demás gastos públicos, no pudiendo hacerse pago alguno que no esté comprendido en dicha Ley o aprobado por el Congreso.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 108.
+###### ARTICULO 122.
 
-Las publicaciones de carácter confesional, ya sea por su programa, por su título o simplemente por sus tendencias ordinarias, no podrán comentar los asuntos políticos locales ni informar sobre actos de las autoridades del Estado o de particulares que se relacionen con el funcionamiento de las instituciones públicas.
+Ninguna autoridad podrá subvencionar, ni impartir ayuda alguna con fondos o elementos pertenecientes al Gobierno, a periódicos de carácter político; se exceptúan los subsidios para revistas agrícolas, industriales, artísticas, literarias y de instrucción pública.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 109.
+###### ARTICULO 123.
 
-Los asuntos políticos locales no podrán ser tratados por agrupaciones cuyos títulos, programas o fines indiquen relación con alguna confesión religiosa. Los templos y sus dependencias no podrán albergar reuniones de carácter político.
+Las publicaciones de carácter confesional, ya sea por su programa, por su título o simplemente por sus tendencias ordinarias, no podrán comentar los asuntos políticos locales ni informar sobre actos de las autoridades del Estado o de particulares, que se relacionen con el funcionamiento de instituciones públicas.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 110.
+###### ARTICULO 124.
 
-Ninguna disposición de esta ley fundamental producirá efecto cuando contravenga algún precepto de la Constitución Política de los Estados Unidos Mexicanos.
+Los asuntos políticos locales, no podrán ser tratados por agrupaciones cuyos títulos, programas o fines indiquen relación con alguna confesión religiosa. Los templos y sus dependencias no podrán albergar reuniones de carácter político.
 
-> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XV. De las reformas a la Constitución
+###### ARTICULO 125.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+El Ejecutivo creará el sistema penitenciario estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueran necesarias, organizando en unas y otras su sistema de trabajo adecuado, como medio de regeneración de los delincuentes. El Ejecutivo podrá celebrar convenios con la Federación, para que los reos sentenciados extingan su pena en establecimientos federales de reclusión, aun cuando éstos se hallen fuera del Estado.
 
-###### Art. 111.
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 126.
+
+En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los requisitos que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 127.
+
+Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 128.
+
+El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la higiene y salubridad públicas, dictando las disposiciones y adoptando las medidas que fueren necesarias para prevenir y combatir las enfermedades, epidemias y epizootias.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 129.
+
+Ninguna disposición de esta Ley fundamental producirá efecto, cuando contravenga algún precepto de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+
+###### ARTICULO 130.
 
 Esta Constitución puede ser adicionada o reformada; pero para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por mayoría de votos, las acuerde y que sean aprobadas también por la mayoría de los Ayuntamientos del Estado.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-###### Art. 112.
+###### ARTICULO 131.
 
 El Congreso del Estado hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
-> <small>(ADICIONADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XVI. De la inviolabilidad de la Constitución
+###### ARTICULO 132.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 113.
-
-Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se establecerá su observancia, y con arreglo a ella y a las leyes que en virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
+Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se establecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
 ## TRANSITORIOS.
 
@@ -1078,48 +1360,6 @@ P.O. 30 DE AGOSTO DE 1921.
 P.O. 15 DE OCTUBRE DE 1921.
 
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO.</small>
-
-###### Art. 3.
-
-La calidad de campechano se adquiere por nacimiento o por vecindad.
-
-Son campechanos por nacimiento:
-
-I.- Los que nazcan en el territorio del Estado, y
-
-II.- Los hijos de padre o madre campechanos, nacidos fuera del territorio del Estado, siempre que los progenitores lo sean por nacimiento.
-
-Son campechanos por vecindad:
-
-I.- Los nativos de las demás entidades federativas que se avecinden en territorio del Estado;
-
-II.- Los extranjeros nacionalizados mexicanos que se avecinden en el Estado.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 4.
-
-La vecindad se adquiere por residencia continua de seis meses en el Estado.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 5.
-
-La vecindad se pierde por trasladarse a otros puntos fuera del Estado, por más de seis meses consecutivos.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
-
-###### Art. 1.
-
-En el Estado de Campeche todo individuo gozará de las garantías que otorga la Constitución General de la República y la Constitución Política del Estado, las que no podrán restringirse ni suspenderse sino en los casos y con las condiciones que ella misma establece.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1961)</small>
-
-###### Art. 2.
-
-El Estado reconoce las garantías sociales consignadas en la Constitución Federal.
-
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
 ###### Art. 3°.
 
@@ -1302,3 +1542,7 @@ UNICO.- El presente Decreto iniciará su vigencia al siguiente día de su public
 P.O. 31 DE DICIEMBRE DE 1964.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 1965.
+
+ÚNICO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
