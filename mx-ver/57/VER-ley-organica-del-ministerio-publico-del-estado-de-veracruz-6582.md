@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-del-ministerio-publico-del-estado-de-veracruz-6582
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-08-20"
-last_updated: "1988-02-13"
+last_updated: "1989-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 20 de agosto de 1983.
 
@@ -123,7 +123,9 @@ Los particulares y las autoridades en el ejercicio de sus funciones, que tengan 
 
 En uso de sus facultades investigatorias y en el ejercicio pleno de sus funciones, el Ministerio Público tendrá libre acceso a los archivos, a los registros públicos y a los protocolos de los Fedatarios Públicos, cualquiera que sea la naturaleza de éstos, puede también recabar los documentos e informes que le sean indispensables para el ejercicio de aquéllas, cumpliendo en todo caso con los requisitos legales instituidos, tanto de las oficinas públicas y de los organismos o empresas descentralizadas, como de las instituciones de crédito.
 
-Cuando las personas a que se refiere la fracción VI del artículo 6o. de esta Ley, se nieguen a comparecer o a suministrar los datos que posean, necesarios para la averiguación, el Ministerio Público podrá aplicar a su juicio, cualquiera de las siguientes medidas de apremio:
+> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+
+Cuando se trate de Archivos Notariales se requerirá acuerdo fundado y motivado, que se notificará al Notario señalando día y hora para la práctica de la inspección, la diligencia se llevará a cabo en el local de la Notaría con intervención del Notario, a quien el Ministerio Público deberá precisarle los puntos concretos sobre los que versará ésta; llevada a cabo la diligencia, el Notario suscribirá el acta que se levante. Si las personas a que se refiere la fracción VI del artículo 6°, de esta Ley, se niegan a comparecer o a suministrar los datos que posean, necesarios para la averiguación, el Ministerio Público podrá aplicar a su juicio, cualquiera de las siguientes medidas de apremio:
 
 a).- Multa, dentro de los límites establecidos por la disposición relativa del Código de Procedimientos Penales vigente en el Estado de Veracruz.
 
@@ -1018,3 +1020,13 @@ G.O. 13 DE FEBRERO DE 1988.
 PRIMERO.- El presente Decreto se publicará en la 'Gaceta Oficial' del Estado y entrará en vigor una vez que el Pleno del H. Tribunal Superior de Justicia de la Entidad establezca los Juzgados Menores.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 1 DE ABRIL DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
