@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1993-03-11"
+last_updated: "1993-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -253,11 +253,13 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 27.
 
-Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de tres Sub-Secretarios, encargados de Asuntos del Gobierno Interior; de Asuntos Jurídicos, y de promover y encauzar la Participación Social. Así como un Director General de Prevención y Readaptación Social; un Director General de Seguridad Pública del Estado; un Director General de Trabajo y Previsión Social y un Oficial Mayor.
+Al frente de la Secretaría General de Gobierno habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de cuatro Subsecretarios, encargados de Asuntos de Gobierno Interior; de Asuntos Jurídicos; de Seguridad Pública, Protección Civil y Prevención y Readaptación Social; y de promover y Encausar la participación Social. Así como un Director General de Prevención y de Readaptación Social; un Director General de Seguridad Pública; un Director General de Trabajo y Previsión Social y un Oficial Mayor.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 Contará además con los Directores de Area y el número de servidores públicos que ocupen otros cargos, de conformidad con lo que establezca el Presupuesto de Egresos. El sueldo de estos últimos servidores, no podrá ser superior al de los Directores Generales.
 
@@ -1209,7 +1211,7 @@ J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de J
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-K) Consejo de la Zona Metropolitana de Guadalajara.
+K). Consejo de la Zona Metropolitana de Guadalajara.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1313,7 +1315,7 @@ E) Patronato de Promotores Voluntarios; y
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
-F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
+F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco.
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1351,7 +1353,7 @@ B) Consejo Estatal de Asesores Gubernamentales;
 
 C) Inmobiliaria y Promotora de Vivienda de Interés Público del Estado; y
 
-D) Fideicomiso de la Orquesta Filarmónica de Jalisco;
+D) Fideicomiso de la Orquesta Filarmónica de Jalisco.
 
 Artículo Décimo. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
@@ -1394,3 +1396,9 @@ P.O. 11 DE MARZO DE 1993.
 Primero. Se faculta al Ejecutivo del Estado para que realice las acciones que estime convenientes para dar cumplimiento a lo dispuesto en los Artículos 27 y 28 de este Ordenamiento, en tanto se reforma el Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal en vigor.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto y entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+Primero.- Se faculta al Ejecutivo del Estado para que realice las acciones que estime conveniente, en tanto se reforme el Presupuesto de Egresos del Gobierno del Estado, para el ejercicio fiscal en vigor, a efecto de que pueda instalarse de inmediato la dependecia (sic) de nueva creación.
+
+Segundo.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
