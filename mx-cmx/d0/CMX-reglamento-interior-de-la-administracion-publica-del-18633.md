@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2000-12-28"
+last_updated: "2001-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,13 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º , fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal y 2o., 3o., 5o., 14, y 19 de la Ley Orgánica de la Administración Pública del Distrito Federal, he tenido a bien expedir el siguiente:
+ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º, fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal y 2o., 3o., 5o., 14, y 19 de la Ley Orgánica de la Administración Pública del Distrito Federal, he tenido a bien expedir el siguiente:
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
@@ -1218,7 +1218,7 @@ XVII. Asesorar a las personas que realicen actividades en la vía pública, salv
 
 Corresponde a la Dirección General de Concertación Política y Atención Social y Ciudadana:
 
-I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política y gestión social,
+I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política y gestión social;
 
 II. Coadyuvar, en el ámbito de su competencia en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva;
 
@@ -2996,7 +2996,7 @@ II. Desarrollar, operar, actualizar y difundir con el apoyo de las Dependencias,
 
 III. Proponer y someter a la consideración de la Secretaría de Desarrollo Económico, el Programa de Desregulación y Simplificación Administrativa del Distrito Federal y a la aprobación de la Consejería Jurídica y de Servicios Legales, cuando las acciones de dicho programa trasciendan la esfera de los particulares;
 
-IV. Tramitar, cuando proceda, la terminación de los nombramientos de los trabajadores de base y confianza para la resolución del Oficial Mayor;
+IV. Tramitar, cuando proceda, la terminación de los nombramientos de los trabajadores de base y confianza para la resolución del Oficial Mayor.
 
 V. Tramitar, cuando así proceda, el pago de viáticos y pasajes en el caso de comisiones o viajes nacionales e internacionales, de acuerdo a las necesidades de la Administración Pública, para la autorización de la Secretaría de Finanzas y en su caso, de la Oficialía Mayor;
 
@@ -3560,7 +3560,9 @@ XVIII. Analizar, recibir, tramitar las solicitudes y desahogar el procedimiento 
 
 #### SECCION I
 
-ADSCRITO A LA JEFATURA DE GOBIERNO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN ALVARO OBREGON.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 114.
 
@@ -3778,25 +3780,35 @@ XV. Recibir y administrar el porcentaje que establezcan los ordenamientos corres
 
 XVI. Las demás que le confiera la Ley de Justicia Cívica para el Distrito Federal, el Consejero Jurídico y de Servicios Legales y el Consejo de Justicia Cívica.
 
-#### SECCION III
-
-ADSCRITOS A LA SECRETARIA DEL MEDIO AMBIENTE.
-
 #### SECCION II
 
-ADSCRITO A LA SECRETARIA DE GOBIERNO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN AZCAPOTZALCO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION III
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION IV
 
-ADSCRITOS A LA SECRETARIA DE OBRAS Y SERVICIOS.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION V
 
-ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION VI
 
-ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAUHTEMOC.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA DESCONCENTRADA
 
@@ -3808,15 +3820,17 @@ ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
 
 La Administración Pública contará con los Órganos Político- Administrativos a que se refiere la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno y la Ley. Dichos órganos tendrán autonomía funcional en acciones de gobierno en sus demarcaciones territoriales.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
+
 ###### Artículo 121.
 
-Los Órganos Político-Administrativos en el ejercicio de sus atribuciones deberán observar las normas y disposiciones generales que en el ámbito, de sus atribuciones dicten las Dependencias.
+Los Órganos Político-Administrativos en el ejercicio de sus atribuciones, deberán observar las normas y disposiciones generales que en el ámbito de sus atribuciones dicten las Dependencias.
 
-Los titulares de dichos Órganos coadyuvarán con los titulares de las Dependencias en los asuntos que se relacionen con los proyectos metropolitanos que incidan en su demarcación territorial.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 122.
 
-Para el despacho de los asuntos de su competencia los Órganos Político-Administrativos se auxiliarán de las siguientes Direcciones Generales:
+Para el despacho de los asuntos de su competencia, los Órganos Político-Administrativos se auxiliarán de las siguientes Direcciones Generales de carácter común:
 
 I. Dirección General Jurídica y de Gobierno;
 
@@ -3828,11 +3842,31 @@ IV. Dirección General de Servicios Urbanos;
 
 V. Dirección General de Desarrollo Social; y
 
-VI. Dirección General de Desarrollo Delegacional.
+VI. (DEROGADA, G.O. 31 DE ENERO DE 2001)
 
 En el Manual Administrativo se establecerán las atribuciones de las Unidades Administrativas de Apoyo Técnico-Operativo, las cuales se entenderán delegadas.
 
-### Capítulo III. De las atribuciones de las Direcciones Generales de los Órganos Político-Administrativos
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+Las anteriores Direcciones Generales, podrán fusionarse de acuerdo a las características propias de cada Órgano Político- Administrativo.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+Los Órganos Políticos Administrativos, podrán de acuerdo a sus características, adicionar atribuciones a las Direcciones Generales de carácter común.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+Además, los Órganos Políticos-Administrativos podrán contar con las Direcciones Generales específicas que determine su Jefe Delegacional, según las necesidades propias de cada una de ellas, para el ejercicio de las atribuciones que de manera expresa les establece el artículo 39 de la Ley Orgánica de la Administración Pública del Distrito Federal y demás ordenamientos jurídicos; siempre que exista suficiencia presupuestal y cuenten con dictamen previo de la Oficialía Mayor.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+Los titulares de los Órganos Político-Administrativos, tendrán la facultad de delegar en las Direcciones Generales y demás Unidades Administrativas de apoyo técnico-operativo, las facultades que expresamente les otorguen los ordenamientos jurídicos correspondientes; ambas facultades, se ejercerán mediante disposición expresa, misma que se publicará en la Gaceta Oficial del Distrito Federal; de igual manera.
+
+### Capítulo III
+
+De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 123.
 
@@ -3840,7 +3874,9 @@ A los titulares de las Direcciones Generales de los Órganos Político- Administ
 
 I. Acordar con el titular del Órgano Político-Administrativo el trámite y resolución de los asuntos de su competencia;
 
-II. Expedir las copias y constancias de los documentos que obren en sus archivos y que soliciten los particulares;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+II. Expedir las copias y constancias de los documentos que obren en sus archivos;
 
 III. Legalizar las firmas de sus subalternos, cuando así sea necesario;
 
@@ -3850,29 +3886,43 @@ V. Formular dictámenes, opiniones e informes que les sean solicitados por el ti
 
 VI. Ejecutar las acciones tendientes a la elaboración de los anteproyectos de presupuesto que les correspondan;
 
-VII. Asegurar la correcta utilización de los artículos de consumo, así como del mobiliario y equipo que les estén asignados a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables,
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+VII. Asegurar la correcta utilización de los artículos de consumo, así como del mobiliario y equipo que les estén asignados a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
 
 VIII. Proponer al titular del Órgano Político-Administrativo, modificaciones al Programa Delegacional y a los programas parciales en el ámbito de su competencia;
 
 IX. Presentar propuestas en el ámbito de su competencia ante el titular del Órgano Político-Administrativo de que se trate, las que podrán incorporarse en la elaboración del Programa General de Desarrollo del Distrito Federal y en los programas especiales que se discutan y elaboren en el seno del Comité de Planeación para el Desarrollo del Distrito Federal;
 
-X. Otorgar las certificaciones que les soliciten los particulares, siempre y cuando dicha facultad no esté expresamente conferida a otra autoridad administrativa
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+X. Expedir las certificaciones de los documentos que obren en sus archivos, siempre y cuando dicha facultad no esté expresamente conferida a otra autoridad administrativa;
 
 XI. Formular los planes y programas de trabajo de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, considerando en ellos las necesidades y expectativas de los ciudadanos, así como mejorar los sistemas de atención al público;
 
 XII. Proponer al titular del Órgano Político-Administrativo, la celebración de convenios en el ámbito de su competencia, para el mejor ejercicio de las atribuciones que les son conferidas, con apoyo en los lineamientos generales correspondientes;
 
-XIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes; y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
 
-XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes
+XIII. Prestar el servicio de información actualizada en materia de planificación, contenida en el Programa Delegacional; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa les asigne el titular del Órgano Político-Administrativo y las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE ENERO DE 2001)</small>
 
 ### Capítulo IV. De la creación, estructura y funcionamiento de los Órganos Desconcentrados
 
+(REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 31 DE ENERO DE 2001)
+
 ###### Artículo 124.
 
-Corresponde a la Dirección General Jurídica y de Gobierno:
+Son atribuciones básicas de la Dirección General Jurídica y de Gobierno:
 
-I. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma, en los términos de las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+I. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma;
 
 II. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo, y en general el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
 
@@ -3880,11 +3930,15 @@ III. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, ci
 
 IV. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones del Órgano Político-Administrativo en esta materia;
 
-V. Emitir las órdenes de verificación que correspondan de acuerdo a su ámbito de competencia, levantando las actas correspondientes e imponiendo las sanciones que correspondan, excepto las de carácter fiscal;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+V. Emitir las órdenes de verificación que correspondan de acuerdo al ámbito de competencia del Órgano Político- Administrativo, levantando las actas correspondientes e imponiendo las sanciones que correspondan, excepto las de carácter fiscal;
 
 VI. Realizar los servicios de filiación para identificar a los habitantes de su demarcación territorial;
 
-VII. Preparar y presentar a firma del titular de su demarcación territorial, los certificados de residencia de las personas que tengan su domicilio legal en su demarcación territorial;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+VII. Expedir en su demarcación territorial, los certificados de residencia de las personas que tengan su domicilio legal en su demarcación territorial;
 
 VIII. Intervenir, de acuerdo a las disposiciones jurídicas aplicables, en las juntas de reclutamiento del Servicio Militar Nacional;
 
@@ -3894,13 +3948,17 @@ X. Otorgar las licencias y autorizaciones de funcionamiento de los giros mercant
 
 XI. Autorizar, en el ámbito de su competencia, el funcionamiento del servicio de acomodadores de vehículos en los giros mercantiles a que se refiere la fracción anterior;
 
-XII. Expedir, en la demarcación territorial del Órgano Político-Administrativo, de conformidad con los lineamientos que emita la Secretaría de Transportes y Vialidad y con los insumos que le sean proporcionados por la propia Secretaría, placas, tarjetas de circulación, licencias de conducir y toda aquella documentación necesaria para que los vehículos de servicio particular y los conductores de los mismos circulen conforme a las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XII. Tramitar la expedición, en la demarcación territorial del Órgano Político-Administrativo, de conformidad con los lineamientos que emita la Secretaría de Transportes y Vialidad y con los insumos que le sean proporcionados por la propia Secretaría, placas, tarjetas de circulación, licencias de conducir y toda aquella documentación necesaria para que los vehículos de servicio particular y los conductores de los mismos circulen conforme a las disposiciones jurídicas y administrativas aplicables;
 
 XIII. Ejecutar, las acciones en materia de expropiación, ocupación total o parcial de bienes, en los términos de las disposiciones jurídicas y administrativas aplicables;
 
 XIV. Prestar a los habitantes de su demarcación territorial, los servicios de asesoría jurídica de carácter gratuito, en las materias civil, penal, administrativa y del trabajo;
 
-XV. Autorizar la ubicación, construcción, funcionamiento y tarifas de los estacionamientos públicos, de conformidad con las normas que emita la Secretaría de Transportes y Vialidad;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XV. Autorizar la ubicación, funcionamiento y tarifas de los estacionamientos públicos, de conformidad con las normas que emita la Secretaría de Transportes y Vialidad;
 
 XVI. Llevar a cabo funciones de administración de los espacios físicos que ocupen los juzgados cívicos y los juzgados del registro civil;
 
@@ -3908,21 +3966,39 @@ XVII. Elaborar, coordinar y ejecutar, en el ámbito de su competencia, el Progra
 
 XVIII. Administrar los mercados públicos, asentados en la demarcación territorial del Órgano Político-Administrativo, de acuerdo a las disposiciones jurídicas aplicables y lineamientos que fije el titular del mismo;
 
-XIX. Desarrollar acciones tendientes a prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XIX. Administrar los panteones y crematorios públicos de su demarcación territorial, de acuerdo a las disposiciones de operación que determine la autoridad competente;
 
 XX. Revisar y dictaminar los convenios, contratos y demás actos administrativos o de cualquier otra índole, necesarios para el ejercicio de las atribuciones del titular del Órgano Político-Administrativo, y en su caso, de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que le estén adscritas, con excepción de aquellos convenios y contratos reservados al Jefe de Gobierno por las disposiciones jurídicas y administrativas aplicables;
 
 XXI. Preparar los análisis que presente el titular del Órgano Político-Administrativo al Jefe de Gobierno respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
 
-XXII. Realizar las certificaciones que le soliciten los particulares siempre y cuando no sean competencia de otra autoridad administrativa;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
 
-XXIII. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicando las sanciones que correspondan; e
+XXII. Vigilar en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicando las sanciones que correspondan;
 
-XXIV. Instrumentar acciones tendientes a coadyuvar con el H. Cuerpo de Bomberos y el de rescate del Distrito Federal, para la prevención y extinción de incendios y otros siniestros que pongan en peligro la vida y el patrimonio de los habitantes del Distrito Federal.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XXIII. Instrumentar acciones tendientes a coadyuvar con el H Cuerpo de Bomberos y el de rescate del Distrito Federal, para la prevención y extinción de incendios y otros siniestros que pongan en peligro la vida y el patrimonio de los habitantes del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XXIV. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XXV. Autorizar la circulación en su demarcación territorial de bicicletas adaptadas y llevar un registro de los mismos; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
+XXVI. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 125.
 
-Corresponde a la Dirección General de Administración:
+Son atribuciones básicas de la Dirección General de Administración:
 
 I. Administrar los recursos humanos, materiales y financieros del Órgano Político-Administrativo, conforme a las políticas, lineamientos, criterios y normas establecidas por la Oficialía Mayor y la Secretaría de Finanzas;
 
@@ -3934,7 +4010,9 @@ IV. Autorizar y supervisar el registro de las erogaciones realizadas, clasificá
 
 V. Coordinar y supervisar el seguimiento del Programa de Inversión autorizada;
 
-VI. Vigilar el estricto control financiero del gasto, en cuanto a pago de nomina del personal de base y confianza, así como a los prestadores de servicios profesionales bajo el régimen de honorarios;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+VI. Vigilar el estricto control financiero del gasto, en cuanto a pago de nomina del personal de base y confianza, así como a los prestadores de servicios profesionales bajo el régimen de honorarios o cualquier otra forma de contratación;
 
 VII. Proponer la implantación de sistemas administrativos de acuerdo a los lineamientos que fije la Oficialía Mayor;
 
@@ -3954,75 +4032,73 @@ XIV. Realizar las acciones que permitan instrumentar al interior del Órgano Pol
 
 XV. Planear y coordinar la prestación de servicios de apoyo que requieran las diversas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político-Administrativo.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+a.(sic) Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
+
 ###### Artículo 126.
 
-Corresponde a la Dirección General de Obras y Desarrollo Urbano:
+Son atribuciones básicas de la Dirección General de Obras y Desarrollo Urbano:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
 
-II. Expedir licencias para la ejecución de obras de construcción, ampliación, reparación o demolición de edificaciones o de instalaciones o para la realización de obras de construcción, reparación y mejoramiento de instalaciones subterráneas, con apego a las disposiciones jurídicas y administrativas correspondientes;
+II. Expedir licencias para la ejecución, modificación y registro de obras de construcción, ampliación, reparación o demolición de edificaciones o de instalaciones o para la realización de obras de construcción, reparación y mejoramiento de instalaciones subterráneas;
 
-III. Expedir licencias de fusión, subdivisión, relotificación de conjunto y de condominios de conformidad con las disposiciones jurídicas y administrativas correspondientes;
+III. Expedir licencias de fusión, subdivisión, relotificación de conjunto y de condominios;
 
-IV. Autorizar los números oficiales y alineamientos, de conformidad con las disposiciones jurídicas y administrativas correspondientes;
+IV. Autorizar los números oficiales y alineamientos;
 
-V. Expedir, en coordinación con el Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones del uso del suelo, en términos de las disposiciones jurídicas y administrativas correspondientes;
+V. Expedir, en coordinación con el Registro de los Planes y Programas de Desarrollo Urbano, las certificaciones del uso del suelo;
 
-VI. Otorgar autorizaciones para la instalación de anuncios en vía pública conforme las disposiciones jurídicas y administrativas correspondientes;
+VI. Otorgar autorizaciones para la instalación de toda clase de anuncios visibles en la vía pública, en construcciones y edificaciones;
 
 VII. Proponer al titular del Órgano Político-Administrativo la adquisición de reservas territoriales para el desarrollo urbano;
 
-VIII. Rehabilitar escuelas, así como construir y rehabilitar bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo, así como atender y vigilar su adecuado funcionamiento;
+VIII. Rehabilitar escuelas, así como construir y rehabilitar bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo;
 
 IX. Construir y rehabilitar los parques y mercados públicos que se encuentren a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
-X. Proponer al titular del Órgano Político-Administrativo de su demarcación territorial, modificaciones al Programa Delegacional y a los programas parciales de desarrollo en el ámbito de su competencia;
+X. Proponer y ejecutar las obras tendientes a la regeneración de barrios deteriorados;
 
-XI. Presentar propuestas en el ámbito de su competencia ante el titular del Órgano Político-Administrativo, las que podrán incorporarse en la elaboración del Programa General de Desarrollo del Distrito Federal y en los programas especiales que se discutan y elaboren en el seno del Comité de Planeación para el Desarrollo del Distrito Federal;
+XI. Ejecutar los programas delegacionales de obras para el abastecimiento de agua potable y servicio de drenaje y alcantarillado a partir de redes secundarias, conforme a la autorización y normas que al efecto expida la autoridad competente y tomando en cuenta las recomendaciones que sea factible incorporar, de la comisión que al efecto se integre;
 
-XII. Proponer y ejecutar las obras tendientes a la regeneración de barrios deteriorados;
+XII. Construir y rehabilitar las vialidades secundarias, las guarniciones y banquetas requeridas en la demarcación territorial;
 
-XIII. Ejecutar los programas delegacionales de obras para el abastecimiento de agua potable y servicio de drenaje y alcantarillado a partir de redes secundarias, conforme a la autorización y normas que al efecto expida la autoridad competente y tomando en cuenta las recomendaciones que sea factible incorporar, de la comisión que al efecto se integre;
+XIII. Construir y rehabilitar puentes, pasos peatonales y reductores de velocidad en las vialidades primarias y secundarias de su demarcación, con base en los lineamientos que determinen las Dependencias;
 
-XIV. Construir y rehabilitar las vialidades secundarias, los centros de transferencia modal, así como las guarniciones y banquetas requeridas en la demarcación territorial;
+XIV. Ejecutar las demás obras y equipamiento urbano que no estén asignadas a otras Dependencias;
 
-XV. Construir y rehabilitar puentes, pasos peatonales y reductores de velocidad en las vialidades primarias y secundarias de su demarcación, con base en los lineamientos que determinen las Dependencias; y
+XV. Prestar el servicio de información actualizada en relación a los programas parciales de la demarcación territorial del Órgano Político-Administrativo; y
 
-XVI. Ejecutar las demás obras y equipamiento urbano que no estén asignadas a otras Dependencias.
+XVI. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 127.
 
-Corresponde a la Dirección General de Servicios Urbanos:
+Son atribuciones básicas de la Dirección General de Servicios Urbanos:
 
-I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquéllos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+I. Prestar los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos de conformidad con las disposiciones jurídicas y administrativas que emita la Dependencia competente;
 
-II. Autorizar la circulación en su demarcación territorial de bicicletas adaptadas y llevar un registro de los mismos;
+II. Prestar el servicio de alumbrado público en las vialidades secundarias y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la autoridad competente; y
 
-III. Prestar los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos de conformidad con las disposiciones jurídicas y administrativas que emita la Dependencia competente;
+III. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-IV. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
-
-V. Prestar el servicio de alumbrado público en las vialidades secundarias y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la autoridad competente;
-
-VI. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
-
-VII. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
-
-VIII. Proponer al titular del Órgano Político-Administrativo, modificaciones al Programa Delegacional y a los programas parciales en el ámbito de su competencia;
-
-IX. Presentar propuestas en el ámbito de su competencia ante el titular del Órgano Político-Administrativo de que se trate, las que podrán incorporarse en la elaboración del Programa General de Desarrollo del Distrito Federal y en los programas especiales que se discutan y elaboren en el seno del Comité de Planeación para el Desarrollo del Distrito Federal; y
-
-X. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 128.
 
-Corresponde a la Dirección General de Desarrollo Social:
+Son atribuciones básicas de la Dirección General de Desarrollo Social:
 
 I. Formular y ejecutar los programas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, coordinándose con otras instituciones públicas o privadas para su implementación. Dichos programas deberán ser formulados observando las políticas generales que al efecto emita la Secretaría de Gobierno;
 
 II. Realizar campañas de salud pública y prestar los servicios médicos asistenciales en coordinación con autoridades federales y locales, instituciones públicas o privadas y con particulares en el ámbito de la demarcación territorial del Órgano Político-Administrativo;
 
-III. Prestar el servicio de información actualizada en materia de planificación, contenida en el Programa Delegacional y en los programas parciales de la demarcación territorial del Órgano Político-Administrativo;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+
+III. Atender y vigilar el adecuado funcionamiento de escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que estén a su cargo;
 
 IV. Administrar los centros sociales e instalaciones recreativas y de capacitación para el trabajo, así como los centros deportivos cuya administración no esté reservada a otra Unidad Administrativa;
 
@@ -4036,11 +4112,769 @@ VIII. Ejecutar en su demarcación territorial programas de desarrollo social con
 
 IX. Promover, coordinar e implementar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o la desintegración familiar, en el ámbito de su demarcación territorial.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+a. (sic) Las demás que de manera directa les asignen el titular del Órgano Polítíco-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+
 #### SECCION VII
 
-ADSCRITO A LA SECRETARIA DE TURISMO.
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN GUSTAVO A. MADERO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 129.
+
+La Dirección General de Servicios Urbanos, tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 130.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la promoción de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como danza, teatro, música, artes plásticas y literarias;
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político Administrativo y del Distrito Federal; y
+
+VI. Prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 131.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+IX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+X. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+XIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+XIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XV. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XVI. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Organo Político-Administrativo;
+
+XVII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XVIII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XIX. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal;
+
+XX. Coordinar planes y programas de consulta vecinal, así como fomentar entre los vecinos de las demarcaciones territoriales la emisión de opiniones y formular propuesta de solución a problemas colectivos del lugar donde residen;
+
+XXI. Establecer y desarrollar las estrategias de trabajo adecuadas para coordinar entre los comités vecinales y los órganos políticos-administrativos de las demarcaciones territoriales la supervisión, evaluación y gestión de las demandas ciudadanas en los temas relativos a servicios público, modificaciones al uso de suelo, aprovechamiento de la vía pública, verificación de programas de seguridad pública y verificación de giros mercantiles de los órganos políticos administrativos;
+
+XXII. Establecer e incrementar a través de los comités vecinales, la participación de los vecinos en el Distrito Federal, para colaborar con la autoridad del órgano político-administrativo en que residan, en la ejecución de una obra o la prestación de un servicio en su ámbito de competencia, aportando para su realización recursos económicos, materiales o trabajo personal; y
+
+XXIII. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION VIII
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 132.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+II. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+III. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 133.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial; y
+
+II. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 134.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo; e
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 135.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+
+VII. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VIII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+IX. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+X. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XII. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XIII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+XIV. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+XV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XVI. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XVII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XVIII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XIX. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+
+XX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 136.
+
+Corresponde a la Dirección General de Participación Ciudadana:
+
+I. Cumplir en tiempo y forma la realización de las tareas de participación ciudadana establecidas en la Ley de Participación Ciudadana del Distrito Federal, dentro del ámbito de su competencia;
+
+II. Elaborar y mantener actualizados los directorios de las organizaciones políticas y de representación vecinal del entorno Delegacional;
+
+III. Proponer los criterios adecuados para la realización de los recorridos y audiencias públicas del Jefe Delegacional, de acuerdo a la geografía Delegacional y a su problemática existente;
+
+IV. Colaborar en la planeación, organización y coordinación de los recorridos del Jefe Delegacional;
+
+V. Coordinar la realización de los recorridos y las audiencias públicas del Jefe Delegacional, conjuntamente con los directores generales delegacionales, cuando ésta última se efectúe en áreas vecinales;
+
+VI. Atender los compromisos que el Jefe Delegacional asuma durante la audiencia pública, además de las solicitudes y demandas que reciba durante los recorridos que realice;
+
+VII. Intervenir en el seguimiento a las gestiones que realicen ante el Jefe Delegacional los comités vecinales;
+
+VIII. Procurar la sana relación política y social entre los grupos diversos de Representación Vecinal con el Jefe Delegacional;
+
+IX. Generar los mecanismos necesarios para garantizar a la población y agrupaciones sociales se (sic) derecho a respuestas institucionales concretas y congruentes ante las gestiones y demandas que presenten;
+
+X. Captar, evaluar y supervisa (sic) la operación del sistema de información de la problemática social y política por colonia, barrio, unidad habitacional, pueblos u otros;
+
+XI. Proponer al Jefe Delegacional políticas y estrategias que permitan vincular las acciones de gobierno con los organismos sociales, para ejecutar eficazmente los programas y proyectos delegacionales;
+
+XII. Brindar en la medida de sus posibilidades, los apoyos logísticos necesarios a las organizaciones sociales y órganos de representación vecinal, cuando se justifique el apoyo y lo soliciten;
+
+XIII. Promover la participación ciudadana en los programas de gobierno, mediante el "voluntariado" y los comités vecinales, en el ámbito de sus competencias;
+
+XIV. Distribuir a los comités vecinales la información de interés público generada por las diferentes áreas sustantivas que lo requieran, en coordinación con el área de Comunicación Social del Organo Político-Administrativo;
+
+XV. Facilitar a las distintas instancias de Gobierno que lo soliciten, el contacto con los comités vecinales; y
+
+XVI. Apoyar a los subcomités de seguridad pública, convocarlos a las sesiones del Comité Delegacional de Seguridad Pública del Órgano Político-Administrativo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION IX
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTAPALAPA.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 137.
+
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, las siguientes atribuciones:
+
+I. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con los establecimientos soliciten los particulares; y
+
+II. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 138.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones soliciten los particulares;
+
+II. Dar mantenimiento a escuelas, bibliotecas, museos, mercados públicos y demás centros de servicio social, cultural, deportivo y administrativo a cargo del Órgano Político-Administrativo; y
+
+III. Dar mantenimiento preventivo y correctivo a las redes secundarias de agua potable, drenaje y alcantarillado, conforme a la autorización y normas que al efecto expida la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 139.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Dar mantenimiento a los parques y panteones públicos que se encuentran a cargo del Órgano Político- Administrativo;
+
+III. Dar mantenimiento a las áreas verdes localizadas en las vialidades secundarias en su demarcación; y
+
+IV. Coordinarse con la Dirección de obras y Desarrollo Urbano para la ejecución de obras y acciones específicas.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 140.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 141.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+II. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+III. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+IV. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+V. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VI. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+VIII. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+IX. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+X. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XII. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente; y
+
+XIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 142.
+
+Corresponde a la Dirección General de Participación Ciudadana:
+
+I. Proponer al Jefe Delegacional los planes y políticas en materia de Participación Ciudadana;
+
+II. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+III. Organizar y desarrollar los instrumentos de Participación Ciudadana previstas en la Ley de la materia del Distrito Federal;
+
+IV. Capacitar a los Comités Vecinales respecto de los ordenamientos legales aplicables en el DF;
+
+V. Implementar acciones de información, capacitación y educación para promover la participación ciudadana;
+
+VI. Promover y apoyar el trabajo de los Comités Vecinales de la demarcación.
+
+VII. Promover la participación de los vecinos en ejecución de Obras y acciones de beneficio comunitario;
+
+VIII. Coordinarse con los organismos y dependencias del Gobierno Federal y del Distrito Federal en la realización de giras, recorridos que realicen los titulares de las mismas;
+
+IX. Propiciar espacios de concertación para la solución de conflictos vecinales;
+
+X. Promover la participación de diversos grupos sociales en los planes y programas delegacionales;
+
+XI. Coordinar la planeación, diseño, seguimiento y control de programas y proyectos que fomenten la participación ciudadana;
+
+XII. Realizar los estudios necesarios para conocer los requerimientos de los ciudadanos y plantear alternativas de solución;
+
+XIII. Establecer los mecanismos adecuados para informar a la comunidad sobre el desarrollo de obras y acciones realizadas por el gobierno delegacional; y
+
+XIV. Las demás que de manera directa, le asigne el Jefe Delegacional, así como las que se establezcan en los ordenamientos jurídicos aplicables y en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION X
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN LA MAGDALENA CONTRERAS.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 143.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+VI. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+VII. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+VIII. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IX. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente; y
+
+X. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 144.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, la siguiente atribución:
+
+I. Prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 145.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+IX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+X. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+
+XIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION XI
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 146.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Proporcionar apoyo con estructuras e instalaciones provisionales para la realización de eventos sociales, culturales, tradicionales, cívicos y deportivos en la demarcación territorial; y
+
+II. Recolectar el cascajo, escombro y materiales diversos en la demarcación territorial.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 147.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Proporcionar servicios urbanos, consistentes en limpieza, alumbrado, pintura y jardinería, a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Proporcionar los servicios urbanos a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, de conformidad con la normatividad que al efecto expida la dependencia competente;
+
+III. Dar mantenimiento y servicios urbanos a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Manejar y prestar en su demarcación territorial los servicio (sic) de suministro de agua potable y alcantarillado que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
+
+V. Conservar la imagen urbana de las vialidades secundarias, guarniciones, banquetas, puentes y pasos peatonales; y en el caso de los reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
+
+VI. Planear y diseñar nuevos sistemas, proyectos y controles para mejorar la prestación de los servicios públicos; y
+
+VII. Prestar los servicios de emergencia en caso de desastres y coordinarse con las Instituciones federales y locales para instrumentar las acciones de apoyo a la población en estos casos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 148.
+
+Corresponde a la Dirección General de Recursos Naturales y Áreas Protegidas:
+
+I. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+II. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+III. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Desarrollar programas y acciones para promover el desarrollo agropecuario de la demarcación territorial;
+
+V. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente; y
+
+VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION XII
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MILPA ALTA.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 149.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 150.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+IX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+X Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+XIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+XIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XV. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XVI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XVII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+
+XVIII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 151.
+
+Corresponde a la Dirección General de Participación Ciudadana y Gestión Social:
+
+I. Fomentar la participación para que la población intervenga en los programas Delegacionales;
+
+II. Realizar las acciones necesarias para dar cumplimiento dentro de las responsabilidades de la Delegación a la Ley de Participación Ciudadana, como forma permanente de ejercer un Gobierno Democrático;
+
+III. Coordinar con organizaciones de Colonos, asociaciones, y representaciones vecinales, los servicios que deben realizarse en su comunidad en concertación con las autoridades;
+
+IV. Coadyuvar a la atención de las quejas que los colonos presentan por conducto de sus representantes o en forma individual;
+
+V. Vigilar y supervisar que las demandas ciudadanas sean debidamente atendidas;
+
+VI. Coordinar las acciones que las Direcciones Generales Sustantivas deban realizar a fin de que las demandas de los ciudadanos sean atendidas;
+
+VII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formulen los comités vecinales con base en la Ley de Participación Ciudadana; y
+
+VIII. Proporcionar servicios funerarios básicos a la comunidad de escasos recursos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 152.
+
+Corresponde a la Dirección General de Seguridad Pública:
+
+I. Formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional, en coordinación con la Secretaría de Seguridad Pública con aprobación del Comité Delegacional de Seguridad Pública;
+
+II. Promover la vinculación de la participación ciudadana con la acción policial para hacer posible una respuesta eficaz a la demanda de los ciudadanos en esta materia;
+
+III. Proponer en el ámbito de la demarcación territorial del Órgano Político Administrativo, los planes y programas, en coordinación con la Secretaría de Seguridad Pública, para salvaguardar la integridad y derechos de las personas, preservando la libertad, el orden y la paz pública;
+
+IV. Acordar con el Jefe Delegacional todo lo referente a seguridad pública en la demarcación territorial del Órgano Político Administrativo;
+
+V. Enlazar los Comités de Seguridad Pública con la Secretaría de Seguridad Pública y Procuraduría General de Justicia del Distrito Federal, y con las otras áreas del Órgano Político Administrativo;
+
+VI. Supervisar el cumplimento de las instrucciones del Jefe Delegacional, por parte de la policía sectorial bajo su mando;
+
+VII. Ejecutar las acciones operativas que acuerde el Jefe Delegacional, así como mantenerlo informado del desarrollo y culminación de las mismas;
+
+VIII. Planear, instruir, coordinar y supervisar las acciones encaminadas al buen funcionamiento de la Secretaría Técnica;
+
+IX. Coordinar con la Secretaría de Seguridad Pública las acciones que permitan reducir la comisión de delitos y se asegure el cumplimiento de las diferentes leyes y reglamentos;
+
+X. Revisar y en su caso someter a firma del Jefe Delegacional los convenios en la materia;
+
+XI. Supervisar de manera permanente el desempeño de los (sic) jefe de Sector;
+
+XII. Convocar a los (sic) Jefe de Sector, Fiscal Desconcentrado de la Procuraduría General de Justicia del Distrito Federal, Comités Vecinales y ciudadanía a las sesiones del Comité Delegacional de Seguridad Pública;
+
+XIII. Elaborar el Programa Delegacional de Seguridad Pública y presentarlo ante el Comité Delegacional;
+
+XIV. Diseñar, proponer, coordinar y supervisar programas de participación ciudadana para la prevención del delito;
+
+XV. Servir de enlace con la Comisión de Derechos Humanos del Distrito Federal, y el Consejo de Honor y Justicia de la Policía Preventiva del Distrito Federal;
+
+XVI. Elaborar estadísticas sobre la incidencia delictiva con la finalidad de detectar zonas de alto riesgo, teniendo una perspectiva general de la delincuencia en la demarcación territorial del Órgano Político-Administrativo, así como proponer acciones que permitan reducir la incidencia delictiva;
+
+XVII. Coordinar con los Jefes del Sector las acciones para auxiliar a la población en caso de desastre;
+
+XVIII. Solicitar a las instancias, correspondientes el apoyo de grupos especiales, previo visto bueno del Secretario Técnico y autorización del Jefe Delegacional;
+
+XIX. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad respecto de actos que presuntamente contravengan las disposiciones;
+
+XX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones en las vialidades primarias; y coadyuvar con la Secretaría de Transporte y vialidad en la realización de los estudios técnicos sobre la localización, normas y tarifas que deberán aplicarse para la ubicación, construcción y funcionamiento de los estacionamientos públicos, y
+
+XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION XIII
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLÁHUAC.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 153.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, la siguiente atribución:
+
+I. Construir y rehabilitar las obras necesarias para mitigar las zonas de alto riesgo dentro del territorio delegacional, conforme a las recomendaciones de las áreas operativas, tanto del Gobierno Federal y del Distrito Federal, como de la propia Jefatura Delegacional.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 154.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 155.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura y promoción turística;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 156.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I Coordinar las Direcciones Territoriales, vigilando el cumplimiento del programa Delegacional;
+
+II. Elaborar proyectos y programas especiales para responder a la demanda ciudadana;
+
+III. Elaborar estudios y análisis que deriven alternativa de solución a la problemática particular de cada zona;
+
+IV. Verificar el avance del Programa Operativo Anual en cada Dirección Territorial;
+
+V. Supervisar el avance de los programas especiales que tengan a su cargo las Direcciones Territoriales;
+
+VI. Analizar la demanda ciudadana para determinar su incidencia y plantear alternativas de solución;
+
+VII. Promover la aplicación y actualización del Plan Parcial de Desarrollo en el ámbito de las Direcciones Territoriales;
+
+VIII. Fomentar las relaciones de colaboración con organizaciones e instituciones que persigan el beneficio de la comunidad;
+
+IX. Implementar un sistema de información sobre el desarrollo socio demográfico de la Demarcación territorial y mantenerlo actualizado;
+
+X. Asesorar a las Direcciones Territoriales en la composición, implementación y operación de su esquema de concentración y participación comunitaria;
+
+XI. Realizar recorridos periódicos en la Demarcación territorial y verificar las condiciones en que se realiza la prestación de los servicios y el estado en que guardan los sitios de interés de la comunidad;
+
+XII. Coordinar con los Directores Territoriales, las visitas, actos o recorridos que realicen el Jefe de Gobierno del Distrito Federal, y el Jefe Delegacional;
+
+XIII. Asistir en representación del Jefe Delegacional, a actos de carácter social y cívico, cuando así lo indique; y
+
+XIV. Las demás que de manera directa el titular del Órgano Político-Administrativo, así como las que establezcan en los Manuales Administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION XIV
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 157.
+
+La Dirección General de Obras, Servicios y Desarrollo Urbano, tendrá, además de las señaladas en los artículos 126 y 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 158.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 159.
+
+Corresponde a la Dirección General de Participación Ciudadana:
+
+I. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+II. Las señaladas en la Ley de Participación Ciudadana; y
+
+III. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION XV
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN VENUSTIANO CARRANZA.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 160.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 161.
 
 Corresponde a la Dirección General de Desarrollo Delegacional:
 
@@ -4084,25 +4918,833 @@ XIX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en e
 
 XX. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
 
-XXI. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Órgano Político-Administrativo;
+XXI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
 
-XXII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+XXII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
 
-XXIII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+XXIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
 
-XXIV. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal; y
+XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-XXV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
-###### Artículo 130.
+#### SECCION XVI
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN XOCHIMILCO.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 162.
+
+La Dirección General Administración (sic) tendrá además de las señaladas en el artículo 125, la siguiente atribución:
+
+I. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 163.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Diseñar, ejecutar y evaluar los programas delegacionales de obras públicas para el abastecimiento de agua potable, así como para la instalación y el mantenimiento de drenaje y alcantarillado, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 164.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+
+VI. Promover el rescate y la conservación del patrimonio histórico-cultural delegacional;
+
+VII. Participar en la formulación, la concreción y el seguimiento de programas de turismo social a nivel local, de entidad federativa y federal;
+
+VIII. Diseñar, y evaluar programas para el desarrollo de las habilidades artísticas y para el fomento cultural; y
+
+IX. Prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 165.
+
+Corresponde a la Dirección General de Medio Ambiente y Ecología:
+
+I. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+II. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+III. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+V. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+VI. Diseñar, ejecutar y evaluar programas de gestión ambiental y de ordenamiento ecológico a nivel delegacional de conformidad con los lineamientos que, sobre la materia emita el Jefe de Gobierno del Distrito Federal;
+
+VII. Integrar, supervisar, actualizar, procesar, analizar y difundir bases de información ambiental para uso delegacional;
+
+VIII. Coadyuvar a las labores reordenación y de planeación urbanas que se lleven a efecto dentro de la jurisdicción delegacional; y
+
+IX. Estimular la participación ciudadana en las acciones de restauración y de conservación de los ecosistemas delegacionales.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 166.
+
+Corresponde a la Dirección General de Desarrollo Sustentable:
+
+I. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+II. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+III. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+IV. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+V. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VI. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+VIII. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+IX. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+X. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités; y
+
+XII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 167.
+
+Corresponde a la Dirección General de Participación Ciudadana:
+
+I. Fomentar la participación para que la población intervenga en los programas Delegacionales;
+
+II. Realizar las acciones necesarias para dar cumplimiento dentro de las responsabilidades de la Delegación a la Ley de Participación Ciudadana, como forma permanente de ejercer un Gobierno Democrático;
+
+III. Coordinar con organizaciones de Colonos, asociaciones, y representaciones vecinales, los servicios que deben realizarse en su comunidad en concertación con las autoridades;
+
+IV. Coadyuvar a la atención de las quejas que los colonos presentan por conducto de sus representantes o en forma individual;
+
+V. Vigilar y supervisar que las demandas ciudadanas sean debidamente atendidas;
+
+VI. Coordinar las acciones que las Direcciones Generales Sustantivas deban realizar a fin de que las demandas de los ciudadanos sean atendidas;
+
+VII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formulen los comités vecinales con base en la Ley de Participación Ciudadana; y
+
+VIII. Proporcionar servicios funerarios básicos a la comunidad de escasos recursos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 168.
+
+Corresponde a la Dirección General de Colonias y Tenencia de la Tierra:
+
+I. Propiciar programas de regularización de tenencia de la tierra;
+
+II. Impulsar programas de mejoramiento de viviendas, que desarrolla el Gobierno del Distrito Federal;
+
+III. Impulsar y ejecutar acciones de rehabilitación de vivienda;
+
+IV. Promocionar programas de otorgamiento de créditos para la vivienda;
+
+V. Controlar en coordinación con los representantes de bienes ejidales y comunales lo concerniente a la construcción de viviendas en esas zonas evitando su propagación;
+
+VI. Vigilar, controlar y detener el crecimiento de la mancha urbana;
+
+VII. Promover mediante consensos la compactación y densificación de la mancha urbana a fin de rescatar la mayor cantidad de áreas de preservación ecológica invadidas;
+
+VIII. Desalentar mediante mecanismos legales el crecimiento urbano desordenado, fijando límites;
+
+IX. Promover la edificación de un límite físico en la línea de crecimiento;
+
+X. Estrechar vínculos e información con las autoridades locales y federales para que al momento de la toma de decisión ese intercambio de información nos permita coordinar acciones y resoluciones en un mismo sentido y no se generen conflictos al interior de la población que conforma esta Demarcación Territorial;
+
+XI. Intervenir conjuntamente con las autoridades en materia agraria para la definición de poligonales y la exclusión en determinado momento de los asentamientos irregulares consolidados en zonas ejidales comunales para evitar conflictos de carácter social por la tenencia de la tierra y en su caso establecer de igual manera los límites de zona urbana;
+
+XII. La planeación conjunta con las partes involucradas a efecto de programar, organizar y dirigir la reubicación de familias que habitan en zonas de alto riesgo en barrancas y zonas de alto riesgo dentro del perímetro delegacional;
+
+XIII. Acordar e informar al Jefe Delegacional sobre el desarrollo de los programas a realizar, así como las actividades que expresamente le sean conferidas;
+
+XIV. En coordinación con la Dirección General de Desarrollo Sustentable intercambiar información e implementar acciones que en determinado momento los apoyos y programas instaurados por esa Dirección a favor de comuneros ejidatarios y pequeños propietarios no trastoquen el universo de trabajo de esta Dirección de Colonias y Tenencia de la Tierra si no por el contrario se complementa;
+
+XV. Coordinar y organizar la participación de los vecinos en programas de regularización territorial y de programas especiales y de carácter prioritario para el Jefe Delegacional; y
+
+XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al uso del suelo, opinar sobre la expedición de licencias para ubicación de industrias, fraccionamientos, subdivisiones y para construir ampliar modificar conservar y mejorar inmuebles en zonas incorporadas a los planes parciales aprobados así como en colonias que se ubiquen en suelo urbano.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION I
+
+ADSCRITO A LA JEFATURA DE GOBIERNO.
+
+(REUBICADO [ANTES 133], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 169.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, la siguiente atribución:
+
+I. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 170.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+IV. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 171.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+
+VI. Impulsar y motivar la tarea educadora en coordinación con la Dependencia respectiva de las escuelas públicas establecidas en la demarcación;
+
+VII. Desarrollar proyectos educativos que contribuyan al sano esparcimiento y al desarrollo de los niños y jóvenes;
+
+VIII. Ejecutar programas de apoyo a la juventud en Coordinación con las Dependencias e Instituciones públicas y privadas respectivas;
+
+IX. Ejecutar programas de asistencia social a niños y jóvenes de la calle y grupos vulnerables de la demarcación;
+
+X. Planear, organizar, dirigir, supervisar y evaluar las actividades deportivas, de educación física y recreación que en la jurisdicción de la Delegación realicen;
+
+XI. Coordinar e implementar programas de apoyo a los diversos deportes que se practiquen en la Delegación, en coordinación con las autoridades competentes;
+
+XII. Realizar eventos, exhibiciones y torneos deportivos de calidad tendientes a promover la práctica del deporte es (sic) su demarcación;
+
+XIII. Complementar la tarea educadora de las distintas escuelas públicas y privadas de la demarcación con programas deportivos eficientes, ayudando a combatir las adicciones, la violencia y la desintegración familiar entre los niños y jóvenes;
+
+XIV. Ejecutar programas de salud pública y prestar servicios médicos asistenciales en coordinación con autoridades federales y locales, instituciones públicas o privadas y con particulares en coordinación con las entidades correspondientes;
+
+XV. Realizar ferias de salud, brigadas médicas y jornadas de vacunación de calidad;
+
+XVI. Elaborar y promover programas sociales y culturales tendientes a despertar el espíritu creativo de los ciudadanos de la delegación, así como apoyar los proyectos que en la materia correspondan; y
+
+XVII. Administrar los centros de desarrollo infantil en coordinación con la Dependencia respectiva.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 172.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+IX. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+X. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+XIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+XIV. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XV. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XVI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XVII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XVIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+
+XIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION II
+
+ADSCRITO A LA SECRETARIA DE GOBIERNO.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 134], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 173.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 174.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 175.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+VIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+IX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+X. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político Administrativo y del Distrito Federal; y
+
+XIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 176.
+
+Corresponde a la Dirección General de Ecología:
+
+I. Inspeccionar y verificar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares de conformidad con las disposiciones jurídicas y administrativas aplicables en coordinación con la Dependencia respectiva;
+
+II. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+III. Inspeccionar y vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a la Dependencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente; y
+
+V. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION III
+
+ADSCRITOS A LA SECRETARIA DEL MEDIO AMBIENTE.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 135], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 177.
+
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, las siguientes atribuciones:
+
+I. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+II. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+III. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
+
+IV. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 178.
+
+La Dirección General de Administración tendrá además de las señaladas en el artículo 125, las siguientes atribuciones:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo; y
+
+II. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 179.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 180.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 181.
+
+Corresponde a la Dirección General de Desarrollo Económico y Rural Social:
+
+I. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+II. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+III. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+IV. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+V. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+VI. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+VII. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+VIII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+IX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+X. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XI. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal;
+
+XIII. Dirigir las actividades para cumplir los objetivos y lineamientos estratégicos del Programa de Desarrollo Rural y de los programas de apoyo al campo;
+
+XIV. Vigilar el suministro de semillas y agroinsumos que proporciona el Órgano Político Administrativo;
+
+XV. Planear y coordinar el funcionamiento de la infraestructura hidráulica agropecuaria que propicia el desarrollo rural; y
+
+XVI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION IV
+
+ADSCRITOS A LA SECRETARIA DE OBRAS Y SERVICIOS.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 137], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 182.
+
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, la siguiente atribución:
+
+I. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 183.
+
+La Dirección General de Obras y Desarrollo Urbano tendrá además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+II. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+III. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+IV. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 184.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Dar mantenimiento a los parques públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes; y
+
+III. Prestar en su demarcación territorial los servicios de suministro de agua potable en pipas.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 185.
+
+Corresponde a la Dirección General de Ecología y Medio Ambiente:
+
+I. Coadyuvar con la Secretaría del Medio Ambiente del Distrito Federal y sus órganos administrativo-territoriales a la conservación y manejo de las Áreas Naturales Protegidas que están dentro de la demarcación territorial del Órgano Político Administrativo;
+
+II. Participar con los Órganos competentes en la materia para salvaguardar, mejorar y rediseñar la ecología de las Áreas Naturales Protegidas de la demarcación territorial del Órgano Político Administrativo; y definir el estatus de estas áreas, así como su adscripción;
+
+III. En colaboración con las instancias centrales encargadas de la protección del medio ambiente, impulsar un aprovechamiento integral de las áreas naturales protegidas de la demarcación territorial del Órgano Político Administrativo y definir en forma clara los límites que comprenden cada espacio;
+
+IV. Preservar las áreas verdes naturales, como espacio libre de asentamientos humanos y sin deterioro ecológico;
+
+V. Involucrar a las comunidades y ejidos de la demarcación territorial del Órgano Político Administrativo en la protección y manejo sustentable, de las áreas naturales protegidas;
+
+VI. Apoyar a las autoridades responsables, en la generación de planes de manejo forestal, planes productivos terrarios, pecuarios o agrícolas, plantaciones forestales o proyectos ecoturísticos de manera integral y sustentable;
+
+VII. Impulsar, conjuntamente con la Comisión de Recursos Naturales y Desarrollo Rural y la Secretaría del Medio Ambiente y Recursos Naturales que se genere un proyecto de restauración ecológica en la demarcación territorial del Órgano Político Administrativo que detenga el acelerado deterioro de los recursos edafológicos, faunísticos y florísticos de esta área;
+
+VIII. Socializar la información ecológica y las prácticas sustentables para dar a los ciudadanos elementos que les permitan actuar en la conservación y mejora del ambiente y en la protección de los recursos naturales;
+
+IX. Implementar programas permanentes de socialización del conocimiento ecológico, botánico y zoológico en escuelas, asociaciones vecinales y comunidades y ejidos;
+
+X. Apoyar la aplicación y vigilancia para el cumplimiento de las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Medio Ambiente, atribuidas al Órgano Político-Administrativo;
+
+XI. Coordinar con las instancias correspondientes las acciones en materia de protección, conservación y restauración de los recursos naturales, flora, fauna, agua, suelo, áreas naturales protegidas y zonas de amortiguamiento dentro de la demarcación del Organo Político Administrativo;
+
+XII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente;
+
+XIII. Promover la educación y participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente;
+
+XIV. Realizar actividades de inspección y vigilancia ambiental, así como aplicar las sanciones previstas en las disposiciones legales de la materia; y
+
+XV. Las demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 186.
+
+Corresponde a la Dirección General de Desarrollo Económico:
+
+I. Apoyar las políticas y programas generales en materia de desarrollo promoción y fomento económico, así como formular, conducir, coordinar y evaluar dichos programas en el ámbito de la demarcación;
+
+II. En el ámbito de la demarcación, y en coordinación con la Secretaría de Desarrollo Económico, formular, diseñar y ejecutar los programas específicos en materia agropecuaria, industrial, de comercio, abasto, servicios, desregulación económica y desarrollo tecnológico;
+
+III. En coordinación con las instancias correspondientes, en el ámbito de la demarcación, fomentar la creación de empleos, promoviendo la adopción de medidas de simplificación, fomento e incentivos de la actividad productiva, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
+
+IV. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva;
+
+V. Promover y coordinar los programas de promoción del comercio y la inversión en los distintos sectores de la economía de la demarcación territorial del Órgano Político Administrativo;
+
+VI. Promover, orientar y estimular el desarrollo y modernización del sector empresarial de la demarcación territorial del Organo Político Administrativo;
+
+VII. Ejecutar las acciones del Programa de Fomento y Desarrollo Económico en la jurisdicción, así como la coordinación de las acciones que de manera particular desarrollen las áreas de fomento económico en las delegaciones;
+
+VIII. Coordinar con las instancias correspondientes los mecanismos de apoyo al sector empresarial, incluyendo el respaldo financiero, asesorías y asistencia técnica;
+
+IX. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico en la demarcación;
+
+X. Observar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
+
+XI. Mantener la consulta permanente con los organismos y asociaciones representativos del sector productivo sobre aspectos relevantes, que tengan impacto y permitan incentivar la actividad económica, con el fin de captar propuestas y sugerencias de educación a la política y programas de fomento;
+
+XII. Coordinar la realización de estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
+
+XIII. Coadyuvar y establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia;
+
+XIV. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal;
+
+XV. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales y económicas en general dentro de la demarcación territorial del Órgano Político Administrativo, y
+
+XVI. Las demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 187.
+
+Corresponde a la Dirección General de Enlace Territorial:
+
+I. Diseñar, desarrollar y dar seguimiento a los planes integrales de desarrollo en cada una de las zonas territoriales de la demarcación territorial del Órgano Político Administrativo;
+
+II. Crear las condiciones necesarias para que las ciudadanas y los ciudadanos, tanto en lo individual como colectivo, puedan coadyuvar en el diseño, implementación y evaluación de las políticas y planes de gobierno;
+
+III. Atender y dar seguimiento a los asuntos político-sociales, en atención permanente a comités vecinales, organizaciones sociales y civiles, partidos políticos, y sectores de la sociedad, que buscan satisfacer de manera oportuna y eficiente sus demandas, así como ser incorporados en el diseño de estrategias y políticas de interés público;
+
+IV. Programar, preparar y dar seguimiento a las giras, reuniones plenarias, y audiencias públicas de los funcionarios del Órgano Político Administrativo;
+
+V. Diseñar y desarrollar planes orientados a lograr la participación corresponsable de todos los actores sociales en las acciones del Órgano Político Administrativo;
+
+VI. Atender las necesidades de capacitación y asesoría a Comités Vecinales, además de las solicitudes de apoyo de organizaciones sociales;
+
+VII. Realizar eventos públicos de amplia participación para dar a conocer a los habitantes de la demarcación territorial del Órgano Político Administrativo, las acciones de gobierno;
+
+VIII. Elaborar, proyectar y diseñar conjuntamente con organismos civiles, materiales didácticos de apoyo para el trabajo de los comités vecinales y la población en general;
+
+IX. Dar seguimiento a la atención que el Órgano Político Administrativo da a la demanda ciudadana desde el punto de vista de los impactos sociales que dicha atención general, coadyuvar en el seguimiento de obra y en general a las acciones delegacionales para mejorar el nivel de vida de la población;
+
+X. Atender y canalizar la problemática social que crean los asentamientos irregulares e invasión a las zonas de reserva ecológica de la demarcación territorial del Órgano Político Administrativo;
+
+XI. Organizar y realizar jornadas comunitarias y coordinar actividades con las áreas operativas del Órgano Político Administrativo, así como llevar a cabo reuniones de coordinación con áreas centrales del Gobierno del Distrito Federal; asimismo, brindar apoyo y atención a eventualidades como inundaciones, incendios, deslaves, entre otras; y
+
+XII. Las demás que le atribuyen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 188.
+
+Corresponde a la Coordinación Técnica de Seguridad Pública:
+
+I. Formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional con aprobación del Comité Delegacional de Seguridad Pública, en coordinación con la Secretaría de Seguridad Pública;
+
+II. Promover la vinculación de la participación ciudadana con la acción policial para hacer posible una respuesta eficaz a la demanda de los ciudadanos en esta materia;
+
+III. Proponer en el ámbito de la demarcación territorial del Órgano Político Administrativo, los planes y programas para salvaguardar la integridad y derechos de las personas, preservando la libertad, el orden y la paz pública; en coordinación con la Secretaría de Seguridad Pública;
+
+IV. Acordar con el Jefe Delegacional todo lo referente a seguridad pública en la demarcación territorial del Órgano Político Administrativo;
+
+V. Servir de enlace de los Comités con la Secretaría de Seguridad Pública y Procuraduría General de Justicia del Distrito Federal, y con las otras áreas del Órgano Político Administrativo;
+
+VI. Supervisar el cumplimento de las instrucciones del Jefe Delegacional, por parte de la policía sectorial bajo su mando;
+
+VII. Ejecutar las acciones operativas que acuerde el Jefe Delegacional, así como mantenerlo informado del desarrollo y culminación de las mismas;
+
+VIII. Planear, instruir, coordinar y supervisar las acciones encaminadas al buen funcionamiento de la Secretaría Técnica;
+
+IX. Coordinar con la Secretaría de Seguridad Pública las acciones que permitan reducir la comisión de delitos y se asegure el cumplimiento de las diferentes leyes y reglamentos;
+
+X. Revisar y en su caso someter a firma del Jefe Delegacional los convenios en la materia;
+
+XI. Supervisar de manera permanente el desempeño de los (sic) jefe de Sector;
+
+XII. Convocar a los (sic) Jefe de Sector, Fiscal Desconcentrado de la Procuraduría General de Justicia del Distrito Federal, Comités Vecinales y ciudadanía a las sesiones del Comité Delegacional de Seguridad Pública;
+
+XIII. Elaborar el Programa Delegacional de Seguridad Pública y presentarlo ante el Comité Delegacional;
+
+XIV. Diseñar, proponer, coordinar y supervisar programas de participación ciudadana para la prevención del delito;
+
+XV. Servir de enlace con la Comisión de Derechos Humanos del Distrito Federal, y el consejo de Honor y Justicia de la Policía Preventiva del Distrito Federal;
+
+XVI. Elaborar estadísticas sobre la incidencia delictiva con la finalidad de detectar zonas de alto riesgo, teniendo una perspectiva general de la delincuencia en la demarcación territorial del Órgano Político-Administrativo, así como proponer acciones que permitan reducir la incidencia delictiva;
+
+XVII. Coordinar con los Jefes del Sector las acciones para auxiliar a la población en caso de desastre;
+
+XVIII. Solicitar a las instancias, correspondientes el apoyo de grupos especiales, previo visto bueno del Secretario Técnico y autorización del Jefe Delegacional;
+
+XIX. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad respecto de actos que presuntamente contravengan las disposiciones;
+
+XX. Proponer a la Dependencia respectiva la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones en las vialidades primarias; y coadyuvar con la Secretaría de Transporte y Vialidad en la realización de los estudios técnicos sobre la localización, normas y tarifas que deberán aplicarse para la ubicación, construcción y funcionamiento de los estacionamientos públicos; y
+
+XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION V
+
+ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 139], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 189.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 190.
+
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+I. Coordinar y dar seguimiento a los programas de simplificación administrativa, modernización y mejoramiento de la atención al público, que se implementen al interior del Órgano Político-Administrativo;
+
+II. Promover y conducir el Programa de Desarrollo Económico del Órgano Político-Administrativo;
+
+III. Promover la participación en el Comité de Fomento Económico de la demarcación territorial, de los órganos representativos de las actividades económicas;
+
+IV. Ejecutar acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+V. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+VI. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+VII. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+VIII. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IX. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+
+X. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal;
+
+XI. Instrumentar acciones de fomento tendientes a la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas dentro de la demarcación territorial;
+
+XII. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
+
+XIII. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XV. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XVI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+XVII. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+XVIII. Formular y ejecutar los programas de simplificación administrativa, modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor;
+
+XIX. Elaborar, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del Órgano Político-Administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+XX. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de desarrollo económico, modernización y desarrollo tecnológico, capacitación y fomento al empleo, preservación y mejoramiento del medio ambiente y fomento cultural;
+
+XXI. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XXII. Realizar acciones de promoción y coordinación para la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales a fin de apoyar iniciativas de inversión para impulsar a los sectores productivos de su demarcación territorial, así como observar la normatividad que los regula, y coordinar y dar seguimiento a dichos Subcomités;
+
+XXIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial del Órgano Político- Administrativo y del Distrito Federal; y
+
+XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION VI
+
+ADSCRITO A LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 143], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 191.
+
+La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+
+V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 192.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
+
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento a la cultura;
+
+III. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del Órgano Político-Administrativo;
+
+IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias; y
+
+V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+###### Artículo 193.
+
+Corresponde a la Dirección General de Medio Ambiente y Desarrollo Rural:
+
+I. Implementar acciones de preservación y restauración del equilibrio ecológico, y de protección al medio ambiente de conformidad a las disposiciones jurídicas y administrativas aplicables;
+
+II. Elaborar diagnóstico de impacto ambiental respecto a las construcciones y establecimientos que soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+III. Vigilar el cumplimiento de las disposiciones en materia ambiental, aplicando las sanciones que correspondan cuando se trate de actividades y establecimientos cuya vigilancia no corresponda a las Dependencias, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Participar de manera coordinada con la Secretaría de Medio Ambiente en la elaboración de los programas de ordenamiento ecológico que se requiera implementar en la demarcación territorial;
+
+V. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+VII. Proponer el establecimiento de zonas de conservación ecológica y de parques urbanos en la demarcación territorial; y
+
+VIII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+(REUBICADO, G.O. 31 DE ENERO DE 2001)
+
+### Capítulo V. De las atribuciones generales de las Direcciones Generales de los Órganos Desconcentrados
+
+(REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 194.
 
 Para un eficiente, ágil y oportuno estudio, planeación y despacho de los asuntos competencia de la Administración Pública, ésta contará con los Órganos Desconcentrados que se establecen en el presente Reglamento. Dichos órganos estarán jerárquicamente subordinados al Jefe de Gobierno, o a la Dependencia que éste señale.
 
-###### Artículo 131.
+(REUBICADO [N. DE E. ANTES ARTICULO 131], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 195.
 
 Podrán crearse otros Órganos Desconcentrados por reglamento, decreto o acuerdo del Jefe de Gobierno. El instrumento jurídico mediante el cual se cree un Órgano Desconcentrado, deberá establecer, por lo menos, su objeto, adscripción y atribuciones.
 
-###### Artículo 132.
+(REUBICADO, G.O. 31 DE ENERO DE 2001)
+
+### Capítulo VI. Del objeto y atribuciones de los Órganos Desconcentrados
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 196.
 
 A los titulares de las Direcciones Generales de los Órganos Desconcentrados corresponden las siguientes atribuciones generales:
 
@@ -4130,7 +5772,15 @@ XI. Expedir, copias certificadas de los documentos que obren en sus archivos sob
 
 XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y administrativas y las que les sean conferidas por el órgano colegiado de dirección.
 
-###### Artículo 133.
+(REUBICADO, G.O. 31 DE ENERO DE 2001)
+
+#### SECCION VII
+
+ADSCRITAS A LA SECRETARIA DE TURISMO.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 144], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 197.
 
 La Junta de Asistencia Privada tiene por objeto ejercer la vigilancia, asesoría y coordinación de las Instituciones de Asistencia Privada y cuenta con las siguientes atribuciones:
 
@@ -4146,7 +5796,9 @@ V. Organizar servicios de asesoría jurídica, fiscal y administrativa para las 
 
 VI. Establecer un Registro de las Instituciones de Asistencia Privada y con base en éste, publicar anualmente un directorio de las mismas.
 
-###### Artículo 134.
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 198.
 
 La Comisión de Asuntos Agrarios del Distrito Federal tiene por objeto fungir como un órgano de consulta, coordinación, concertación y ejecución de acciones, para la inmediata atención de asuntos y conflictos en materia agraria, así como la realización de estudios y acciones que permitan la promoción de políticas que fomenten la actividad agraria en el Distrito Federal y cuenta con las siguientes atribuciones:
 
@@ -4176,7 +5828,9 @@ XII. Elaborar estudios para realizar el diagnóstico de las necesidades de organ
 
 XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios del Distrito Federal y emitir opinión sobre alternativas de solución.
 
-###### Artículo 135.
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 199.
 
 La Comisión de Recursos Naturales y Desarrollo Rural tiene por objeto promover, coordinar y ejecutar estudios y acciones en materia de protección, fomento, desarrollo y conservación de los recursos naturales y biodiversidad, así como promover, coordinar, fomentar y ejecutar los programas y apoyos necesarios para lograr el desarrollo integral, equitativo y sustentable de la zona rural del suelo de conservación del Distrito Federal y áreas naturales protegidas, contando con las siguientes atribuciones:
 
@@ -4244,7 +5898,9 @@ XXXI. Proponer y promover el establecimiento de políticas vinculadas a la activ
 
 XXXII. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución.
 
-###### Artículo 136.
+(REUBICADO [N. DE E. ANTES ARTICULO 136], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 200.
 
 La Unidad de Bosques Urbanos y Educación Ambiental tiene por objeto preservar los ambientes naturales de los bosques y áreas verdes urbanas del Distrito Federal; salvaguardar la diversidad genética de las especies silvestres, así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad; asegurar el aprovechamiento sustentable de los bosques y áreas verdes y sus elementos; propiciar un campo adecuado para la investigación científica y el estudio de los bosques, áreas verdes y su equilibrio; generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas que permitan la preservación y el aprovechamiento sustentable de los bosques y áreas verdes, así como un enriquecimiento de la cultura ambiental de la población; proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacional, del Distrito Federal.
 
@@ -4252,7 +5908,7 @@ Le corresponden las siguientes atribuciones:
 
 I. Establecer los criterios y lineamientos para conservar y regular el uso, aprovechamiento o explotación y restauración de los recursos naturales, infraestructura de los bosques urbanos áreas verdes del Distrito Federal;
 
-II. Formular y aplicar el programa de manejo de los bosques urbanos con criterios de sustentabilidad y con base en los lineamientos establecidos por la Comisión de Recursos Naturales y Desarrollo Rural;
+II. Formular y aplicar el programa de manejo de los bosques urbanos con criterios de sustentabilidad y con base en los lineamientos establecidos por la Comisión de Recursos Naturales y desarrollo Rural;
 
 III. Recibir y administrar los ingresos que por concepto de productos se perciban; y de conformidad con los ordenamientos jurídicos correspondientes, recaudar, recibir y administrar con el carácter de autogenerados, el porcentaje que se establezca, respecto de los derechos relativos a los servicios de infraestructura con que cuentan los bosques urbanos, el Museo de Historia Natural y los Centros de Educación Ambiental;
 
@@ -4280,7 +5936,9 @@ XIV. Promover el establecimiento de acuerdos con autoridades educativas federale
 
 XV. Salvaguardar el patrimonio histórico, social, ambiental y educativo asignado a la Unidad.
 
-###### Artículo 137.
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 201.
 
 La Comisión de Aguas del Distrito Federal tiene por objeto atender administrativamente lo relacionado al suministro y descarga de agua y cuenta con las siguientes atribuciones:
 
@@ -4304,11 +5962,13 @@ IX. Recibir, tramitar, resolver las solicitudes de cancelación y condonación d
 
 X. Instalar y mantener los dispositivos que considere necesarios para llevar a cabo la medición y registro de los consumos realizados por los usuarios del servicio de agua potable, de drenaje, y el de tratamiento y reuso de aguas residuales.
 
-###### Artículo 138.
+(REUBICADO [N. DE E. ANTES ARTICULO 138], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 202.
 
 La Planta de Asfalto del Distrito Federal tiene por objeto proveer lo necesario para la construcción y mantenimiento de los pavimentos del Distrito Federal y cuenta con las siguientes atribuciones:
 
-I. Instalar, operar y mantener el equipo técnico para la producción de agregados pétreos y mezclas asfálticas, así como para la elaboración y comercialización de emulsiones asfálticas, que se requiera en la construcción y mantenimiento de los pavimentos del Distrito Federal;
+I. Instalar, operar y mantener el equipo técnico para la producción de agregados pétreos y mezclas asfálticas, así como para la elaboración y comercialización de emulsiones asfálticas, que se requieran en la construcción y mantenimiento de los pavimentos del Distrito Federal;
 
 II. Destinar la producción de mezclas asfálticas primordialmente a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública;
 
@@ -4320,7 +5980,9 @@ V. Participar en el mantenimiento de la red vial en coordinación con la Direcci
 
 VI. Colaborar con la Dirección General de Obras Públicas en el establecimiento de normas y especificaciones de construcción y mantenimiento de los pavimentos.
 
-###### Artículo 139.
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 203.
 
 El Servicio Público de Localización Telefónica tiene por objeto proporcionar información específica que le solicite la ciudadanía del Distrito Federal por vía telefónica y cuenta con las siguientes atribuciones:
 
@@ -4336,9 +5998,11 @@ V. Prestar asesoría telefónica a personas con problemas de toxicología, urgen
 
 VI. Participar en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en la atención a la población del área metropolitana y zonas conurbadas en casos de emergencia o desastre.
 
-###### Artículo 140.
+(REUBICADO Y REFORMADO [N. DE E. ANTES ARTICULO 140], G.O. 31 DE ENERO DE 2001)
 
-El Instituto del Deporte del Distrito Federal tiene por objeto administrar y fomentar el desarrollo del deporte en el Distrito Federal y cuenta con las siguientes atribuciones:
+###### Artículo 204.
+
+El Instituto del Deporte tiene por objeto normar y fomentar el desarrollo del deporte en el Distrito Federal y cuenta con las siguientes atribuciones:
 
 I. Proponer y ejecutar programas para la organización, fomento, difusión y evaluación de las actividades físicas, deportivas y de recreación en coordinación con los Órganos Político-Administrativos;
 
@@ -4346,7 +6010,7 @@ II. Promover la práctica del deporte, y las actividades físicas y recreativas 
 
 III. Elaborar y difundir las normas técnico-pedagógicas, programas y métodos educativos para el desarrollo del deporte, actividad física y recreación en el Distrito Federal;
 
-IV. Formular y coordinar el sistema estatal del deporte y los correspondientes lineamientos de operación de las instalaciones deportivas;
+IV. Formular los lineamientos de operación de las instalaciones deportivas del Distrito Federal y coordinar con los Órganos Político-Administrativos y los sectores público, social y privado, el sistema del deporte del Distrito Federal;
 
 V. Organizar, promover y difundir eventos y actividades deportivas;
 
@@ -4358,53 +6022,67 @@ VIII. Promover programas y ejecutar acciones para captar recursos financieros y 
 
 IX. Promover y apoyar a los jóvenes que muestren el mayor talento deportivo para alcanzar los niveles de excelencia en el deporte.
 
-###### Artículo 141.
+(REUBICADO Y REFORMADO [N. DE E. ANTES ARTICULO 141], G.O. 31 DE ENERO DE 2001)
 
-El Instituto de la Mujer del Distrito Federal tiene por objeto diseñar e implementar políticas públicas que garanticen el pleno ejercicio de los derechos de la mujer, a través de la coordinación de acciones gubernamentales y sociales y cuenta con las siguientes atribuciones:
+###### Artículo 205.
 
-I. Promover la incorporación de la mujer en los programas y acciones de la Administración Pública;
+El Instituto de la Mujer del Distrito Federal tiene por objeto diseñar e instrumentar políticas públicas desde la perspectiva de equidad entre los géneros que garanticen el pleno ejercicio de los derechos de las mujeres, a través de la coordinación de acciones gubernamentales y sociales y cuenta con las siguientes atribuciones:
 
-II. Difundir las convenciones y tratados celebrados o ratificados por la Administración Pública Federal, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de la mujer;
+I. Promover la incorporación de las mujeres en los programas y acciones de la Administración Pública;
 
-III. Proponer reformas legislativas para procurar la participación de la mujer en todos los ámbitos;
+II. Contar con un Consejo Consultivo conformado proporcionalmente por personas representativas de los ámbitos: de la sociedad civil, legislativo, académico y empresarial para asesorar y hacer propuestas orientadas a mejorar la condición de las mujeres del Distrito Federal;
 
-IV. Establecer un sistema de información y estadística sobre la condición de la mujer, a la vez que promover estudios en coordinación con instituciones académicas y sociales;
+III. Difundir las convenciones y tratados celebrados o ratificados por la Administración Pública Federal, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
 
-V. Impulsar, en coordinación con los Órganos Político-Administrativos, la creación de Centros Integrales de Apoyo a la Mujer;
+IV. Proponer reformas legislativas para procurar la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar su edad religión o condición social así como promover el cumplimiento de las normas vigentes;
 
-VI. Impulsar el respeto a los derechos humanos y fomentar una cultura de la no violencia hacia las mujeres;
+V. Establecer un sistema de información y estadística sobre la condición de la mujer;
 
-VII. Impulsar, en coordinación con las Dependencias de la Administración Pública, acciones en materia de salud, educación, empleo, capacitación, cultura y deporte, tendientes a garantizar la igualdad de oportunidades;
+VI. Promover estudios en coordinación con instituciones académicas y sociales;
 
-VIII. Promover acuerdos de cooperación con instituciones nacionales y organismos internacionales que se relacionen con su objeto;
+VII. Operar y coordinar el Sistema de Centros Integrales de Apoyo a la Mujer, por lo que dichos Centros quedarán adscritos administrativamente y presupuestalmente al Instituto y serán la representación del mismo en cada demarcación territorial;
 
-IX. Impulsar, a través de los medios de comunicación, la eliminación de imágenes nocivas o estereotipadas sobre la mujer; y promover el respeto a la dignidad de género;
+VIII. Normar el funcionamiento de los Centros de Apoyo a la Mujer y evaluar sus programas y proyectos. Asimismo propondrá al Secretario de Desarrollo Social las políticas generales conforme a las cuales los Órganos Político Administrativos deberán formular y ejecutar sus respectivos programas de apoyo a la participación de la mujer;
 
-X. Llevar el registro de instituciones públicas, privadas y sociales de investigación y apoyo a la mujer en el Distrito Federal; y
+IX. Instrumentar la profesionalización y formación permanente al personal de los Centros Integrales de Apoyo a la Mujer;
 
-XI. Promover y apoyar la coordinación interinstitucional para la ejecución de los programas, proyectos y acciones conjuntas a favor de la mujer en el Distrito Federal.
+X. Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas las etapas de su vida y ámbitos de desarrollo;
 
-###### Artículo 142.
+XI. Promover, en coordinación con las Dependencias de la Administración Pública, acciones y políticas públicas en materia de salud, educación, empleo, capacitación, cultura y deporte, tendientes a garantizar la igualdad de oportunidades;
 
-Corresponde al Instituto de Asistencia Social:
+XII. Promover acuerdos de cooperación con instituciones nacionales y organismos internacionales que se relacionen con su objeto;
 
-I. Coordinar y orientar la instrumentación de las políticas dirigidas a jóvenes y adultos mayores, en condición de abandono o situación de calle;
+XIII. Participar en eventos nacionales e internacionales relativos a las mujeres y a los géneros;
 
-II. Planear, organizar, supervisar y evaluar el Sistema de Asistencia e Inclusión Social del Distrito Federal, conforme lo establece la Ley de la materia;
+XIV. Promover, a través de los medios de comunicación y en el sistema educativo, una cultura de equidad entre los géneros mediante imágenes o mensajes publicitarios no discriminatorios que favorezcan la eliminación de imágenes nocivas o estereotipadas sobre las mujeres; y promover el respeto a la dignidad de género; y
+
+XV. Promover y apoyar la coordinación interinstitucional para la ejecución de los programas, proyectos y acciones conjuntas a favor de la mujer en el Distrito Federal.
+
+(REUBICADO Y REFORMADO [N. DE E. ANTES ARTICULO 142], G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 206.
+
+Corresponde al Instituto de Asistencia e Integración Social:
+
+I. Coordinar y orientar la instrumentación de las políticas dirigidas a niños, jóvenes y adultos mayores, en condición de abandono, situación de calle o víctimas de adicciones;
+
+II. Planear, organizar, supervisar y evaluar el Sistema de Asistencia e Integración Social del Distrito Federal, conforme lo establece la Ley de la materia;
 
 III. Promover y prestar servicios de asistencia social en el Distrito Federal;
 
-IV. Proponer los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las instalaciones y demás infraestructura destinada a la asistencia social a cargo de los Órganos Político-Administrativos y otros Órganos del Gobierno;
+IV. Proponer los lineamientos, normas y modelos de atención básicos que deben regir la operación y funcionamiento de las instalaciones y demás infraestructura destinada a la asistencia social a cargo de los Órganos Político- Administrativos y otros Órganos del Gobierno;
 
-V. Administrar y operar los establecimientos de prestación de servicios en materia de asistencia social del gobierno del D.F.;
+V. Administrar y operar los establecimientos de prestación de servicios en materia de asistencia social del gobierno del Distrito Federal;
 
-VI. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer a la asistencia social, deducibles de impuestos.
+VI. Promover la creación de diversos mecanismos de financiamiento público y privado que permitan fortalecer a la asistencia social, deducibles de impuestos;
 
-VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
+VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
 VIII. Prestar asistencia jurídica y orientación social a los sujetos de la asistencia social.
 
-###### Artículo 143.
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 207.
 
 El Instituto del Taxi del Distrito Federal tiene por objeto regular la prestación del servicio público de transporte de pasajeros individual en el Distrito Federal denominado Taxi y cuenta con las siguientes atribuciones:
 
@@ -4432,7 +6110,9 @@ XI. Adoptar todas las medidas que tiendan a satisfacer, eficientar y regular el 
 
 XII. Realizar todas aquellas acciones tendientes a que el servicio, se lleve a cabo con eficiencia y eficacia, garantice la seguridad de los usuarios y peatones y los derechos de los permisionarios y concesionarios.
 
-###### Artículo 144.
+(REUBICADA Y REFORMADA, G.O. 31 DE ENERO DE 2001)
+
+###### Artículo 208.
 
 El Instituto de Promoción Turística del Distrito Federal tiene por objeto promover la afluencia de turismo a la Ciudad de México, desarrollando estrategias de imagen turística y acciones promocionales y cuenta con las siguientes atribuciones:
 
@@ -4457,10 +6137,6 @@ IX. Establecer el sistema de comunicación permanente con los medios nacionales 
 X. Recabar y difundir la información pertinente que sobre la actividad turística la Ciudad de México se emita a través de los medios de comunicación; y
 
 XI. Determinar las necesidades de información estadística y de mercado para el establecimiento y desarrollo de los programas de promoción turística.
-
-### Capítulo V. De las atribuciones generales de las Direcciones Generales de los Órganos Desconcentrados
-
-### Capítulo VI. Del objeto y atribuciones de los Órganos Desconcentrados
 
 ## TRANSITORIOS
 
@@ -4487,3 +6163,17 @@ DÉCIMO.- Se derogan las disposiciones contenidas en el Reglamento de la Adminis
 DÉCIMO PRIMERO.- En tanto no se establezca la circunscripción territorial de las Administraciones Tributarias, el ejercicio de las atribuciones conferidas a las mismas podrá realizarse en el territorio del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM.- PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, REQUEL SOSA ELIZAGA.- FIRMA.- EL SECRETARIO DE SALUD, ASA CRISTINA LARELL.- FIRMA.- EL SECRETARIO DE FINANZAS, CALOS (SIC) MANUEL URZÚA MACÍAS.- FIRMA.- LA SECRETARIA DE TRANSPORTE Y VIALIDAD, JENNY SALTIEL COHEN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PUBLICA, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 31 DE ENERO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero del presente año.
+
+SEGUNDO.- Los asuntos, competencia de la (sic) Unidades Administrativas, Unidades Administrativas de Apoyo Técnico Operativo de nueva creación, que antes de la entrada en vigor del presente decreto correspondan a otros distintos, seguirán siendo tramitados y resueltos por estos últimos, hasta en tanto aquellos de nueva creación no inicien formalmente sus actividades.
+
+TERCERO.- Los Órganos Político-Administrativos deberán adecuar sus estructuras orgánicas y actualizar sus manuales de organización y procedimientos en los plazos que establezca la Oficialía Mayor. Dichos Manuales deberán publicarse en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- Las referencias hechas en otros ordenamientos jurídicos y administrativos a Unidades Administrativas, se entenderán hechas a aquellas que cuenten con las facultades correspondientes, en caso de que por virtud de este decreto hayan cambiado las mismas.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
