@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1975-07-16"
+last_updated: "1978-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-> <small>N. DE E. EL HONORABLE CUADRAGESIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, APROBO EN SU DECRETO NUMERO 10 SUPRESIONES, REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA VIGENTE DEL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 16 DE JULIO DE 1975.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1978.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -377,27 +375,27 @@ Se declara Ciudad Capital del Estado de Guerrero, y por tanto, asiento de los Po
 
 El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CONGRESO DEL ESTADO", el cual deberá de renovarse totalmente cada tres años.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 29.
 
-Por cada distrito electoral habrá un diputado propietario y un suplente. La elección se hará por sufragio directo, secreto e individual y el Congreso se complementará además con diputados de partido, apegándose en todos los casos a lo que dispone la Ley Electoral del Estado y para los últimos, a las reglas siguientes:
+Por cada distrito electoral, habrá un diputado propietario y un suplente. La elección se hará por sufragio directo, secreto e individual, y el Congreso se complementará además con diputados de minoría, apegándose en todos los casos a lo que disponga la Ley Electoral del Estado y para estos últimos las reglas siguientes:
 
-I.- Todo partido político nacional debidamente registrado ante la Secretaría de Gobernación y ante la Secretaría General de Gobierno cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado tendrá derecho a que se le acredite de entre sus candidatos un diputado de partido y hasta dos si obtiene el diez por ciento de dicha votación.
+I.- Todo partido político nacional debidamente registrado ante la Comisión Federal Electoral y ante la Secretaría General de Gobierno, cuando menos un año antes de la elección, si obtiene el dos punto cinco de la votación general del Estado, tendrá derecho a que se le acredite entre sus candidatos un diputado de minoría.
 
-II.- Cuando un partido nacional obtenga la mayoría de votos en un Distrito, sólo tendrá derecho a que se le acredite un diputado de partido y si la obtiene en dos distritos, no se le acreditarán sino los de mayoría.
+II.- Cuando un partido nacional obtenga la mayoría de votos en un distrito, sólo tendrá derecho, en su caso, a que se le acredite un diputado de minoría y si gana las elecciones en los distritos, no se le acreditarán sino los de mayoría.
 
-III.- Los diputados de partido serán acreditados por las Juntas Preparatorias por riguroso orden, de acuerdo con el número decreciente de votos que hayan logrado en relación con los demás candidatos del mismo partido, en todo el Estado.
+III.- Los diputados de minoría serán acreditados por las Juntas Preparatorias por riguroso orden, de acuerdo con el número decreciente que hayan logrado en relación con los demás candidatos del mismo partido, en todo el Estado.
 
-IV.- Los diputados de mayoría y los de partido tendrán la misma categoría legal e iguales derechos y obligaciones.
+IV.- Los diputados de mayoría y los de minoría tendrán la misma categoría legal e iguales derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 30.
 
-Se tendrá por electo como diputado al ciudadano que haya obtenido la mayoría de votos emitidos en el distrito por el que fue registrado y declarado así por las Juntas Preparatorias y los que hayan sido acreditados como diputados de partido.
+Se tendrá por electo como diputado al ciudadano que haya obtenido la mayoría de votos emitidos en el distrito por el que fue registrado y declarado así por las Juntas Preparatorias y los que hayan sido acreditados como diputados de minoría.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
 #### SECCION III. DEL MINISTERIO PUBLICO
 
@@ -405,7 +403,7 @@ Se tendrá por electo como diputado al ciudadano que haya obtenido la mayoría d
 
 ###### ARTICULO 31.
 
-Ningún ciudadano legalmente electo diputado de mayoría o acreditado como diputado de partido podrá excusarse de ejercer su cargo si no es por causa grave que calificará el Congreso.
+Ningún ciudadano legalmente electo diputado de mayoría o acreditado como diputado de minoría podrá excusarse de ejercer su cargo si no es por causa grave que calificará el Congreso.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -467,11 +465,11 @@ Los diputados suplentes podrán ser electos para el período inmediato con el ca
 
 DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 38.
 
-Los presuntos diputados que hayan obtenido constancia de mayoría de votos de la Junta Computadora respectiva se reunirán en la Capital del Estado en el mes de febrero del año de renovación del Congreso para celebrar una junta previa y las juntas preparatorias que sean necesarias constituidos en Colegio Electoral para calificar las elecciones, primero de diputados de mayoría y después de diputados de partido, conforme al procedimiento que para el efecto establece la Ley Orgánica del Poder Legislativo y la Ley Electoral del Estado.
+Los presuntos diputados que hayan obtenido constancia de mayoría de votos de la Junta Computadora respectiva se reunirán en la Capital del Estado, en el mes de febrero del año de renovación del Congreso para celebrar una junta previa y las juntas preparatorias que sean necesarias constituidas en Colegio Electoral para calificar las elecciones, primero en diputados de mayoría y después en diputados de minoría, conforme al procedimiento que para el efecto establecen la Ley Orgánica del Poder Legislativo y la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -1181,19 +1179,21 @@ Cada municipio será administrado por un ayuntamiento que constituye el órgano 
 
 Los ayuntamientos son cuerpos colegiados deliberantes y autónomos, que entrarán a realizar sus atribuciones por elección popular directa para un período de tres años. Por cada miembro propietario se elegirá un suplente y no podrán ser electos para el período inmediato incluyendo a los suplentes cuando hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1978)</small>
 
 ###### ARTICULO 98.
 
-Los municipios estarán administrados por ayuntamientos integrados en la siguiente forma:
+Los municipios estarán administrados por ayuntamientos integrados en a (sic) siguiente forma:
 
-I.- Por un Presidente Municipal, un Síndico Procurador y un Regidor, cuando su población no exceda de quince mil habitantes.
+I.- Por un Presidente Municipal, un Síndico Procurador y un Regidor, cuando su población no exceda de quince mil habitantes:
 
-II.- Por un Presidente Municipal, un Síndico Procurador y tres Regidores cuando su población no exceda de sesenta mil habitantes; y
+II.- Por un Presidente Municipal, un Síndico Procurador y tres Regidores cuando su población no exceda de sesenta mil habitantes, y
 
 III.- Por un Presidente Municipal, un Síndico Procurador y cinco Regidores, cuando su población exceda del número a que alude la fracción que antecede.
 
-Los ayuntamientos tendrán las atribuciones que les señale la Ley Orgánica del Municipio Libre.
+IV.- En aquéllos Municipios cuya población exceda de los 300 mil habitantes habrá además un Regidor de representación popular, cuya elección se hará de acuerdo a la Ley Electoral del Estado.
+
+Los Ayuntamientos tendrán las atribuciones que les señale la Ley Orgánica del Municipio Libre.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1975)</small>
 
@@ -2192,3 +2192,7 @@ Estas reformas y adiciones a la Constitución Política Local, entrarán en vigo
 P.O. 16 DE JULIO DE 1975.
 
 UNICO:- Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado de acuerdo con lo ordenado por el artículo 112 fracción III de la Constitución, estas reformas surtirán sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE AGOSTO DE 1978.
+
+UNICO.- Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
