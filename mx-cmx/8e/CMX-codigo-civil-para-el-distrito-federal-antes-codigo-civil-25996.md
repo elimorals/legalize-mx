@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1994-01-10"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -4527,7 +4527,9 @@ XI.- Los diques y construcciones que, aun cuando sean flotantes, estén destinad
 
 XII.- Los derechos reales sobre inmuebles;
 
-XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y telegráficas y las estaciones radiotelegráficas fijas.
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
+
+XIII.- Las líneas telefónicas y telegráficas y las estaciones radiotelegráficas fijas.
 
 ###### ARTICULO 751.
 
@@ -8767,7 +8769,7 @@ ARTICULO 2,106.- La responsabilidad procedente de dolo es exigible en todas las 
 
 ARTICULO 2,107.- La responsabilidad de que se trata en este Título, además de importar la devolución de la cosa o su precio, o la de entrambos (sic), en su caso, importará la reparación de los daños y la indemnización de los perjuicios.
 
-ARTICULO 2,108.- Se entiende por daño la perdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
+ARTICULO 2,108.- Se entiende por daño la pérdida o menoscabo sufrido en el patrimonio por la falta de cumplimiento de una obligación.
 
 ARTICULO 2,109.- Se reputa perjuicio la privación de cualquiera ganancia lícita, que debiera haberse obtenido con el cumplimiento de la obligación.
 
@@ -11299,6 +11301,14 @@ ARTICULO 2,926.- El crédito puede cederse, en todo o en parte, siempre que la c
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ARTICULO 2,927.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
 
 Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación principal.
@@ -12628,3 +12638,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 24 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
