@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1999-01-18"
+last_updated: "1999-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -350,8 +350,6 @@ h).- Las personas que de manera discrecional autorice la Secretaría de Hacienda
 > <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 i).- Las Instituciones Financieras del Exterior, directa o indirectamente, o las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de fianzas en una Filial.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -2447,15 +2445,17 @@ XX.- Multa de 250 a 5,000 días de salario, si las disposiciones violadas de est
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112.
 
-Para proceder penalmente por los delitos previstos en los artículos 112 bis, 112 bis 1, 112 bis 2, 112 bis 3, 112 bis 4, 112 bis 5 y 112 bis 6 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas.
+Para proceder penalmente por los delitos previstos en los artículos 112 Bis a 112 Bis 7 y 112 Bis 9 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional de Seguros y Fianzas; también se procederá a petición de la institución de fianzas ofendida, o de quien tenga interés jurídico.
 
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-Tratándose de los delitos a que se refiere el artículo 112 Bis-4 de esta Ley, las instituciones de fianzas podrán también presentar directamente denuncia penal ante las autoridades competentes.
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Las multas establecidas para los delitos previstos en esta ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada. Para determinar el monto de la operación, quebranto o perjuicio patrimonial, en los casos de los delitos previstos en esta ley, se considerará como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2479,9 +2479,13 @@ Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público
 
 Serán sancionadas las violaciones a lo dispuesto en los artículos 3o. y 4o. de esta Ley, conforme a lo siguiente:
 
-I.- Se impondrá pena de prisión de seis meses a diez años y multa de 250 a 2,500 días de salario cuando se trate del artículo 3o. y del último párrafo del artículo 4o. de esta Ley; y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II.- Se impondrá pena de prisión de seis meses a seis años y multa de 150 a 1,500 días de salario cuando se trate del primer párrafo del artículo 4o. de esta Ley.
+I.- Se impondrá pena de prisión de tres a quince años y multa de doscientos cincuenta a dos mil quinientos días de salario cuando se trate del artículo 3o. y del último párrafo del artículo 4o. de esta ley, y
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Se impondrá pena de prisión de dos a diez años y multa de ciento cincuenta a mil quinientos días de salario cuando se trate del primer párrafo del artículo 4o. de esta ley.
 
 Se considerarán comprendidos dentro de los supuestos señalados en las dos fracciones anteriores y, consecuentemente, sujetos a las mismas sanciones los directores, gerentes, administradores o miembros del consejo de administración y los representantes y agentes en general de personas morales que practiquen habitualmente las operaciones ilícitas, a que aluden los artículos 3o. y 4o. de esta Ley.
 
@@ -2491,31 +2495,63 @@ Cuando todos los actos que concurran a la celebración del contrato, incluyendo 
 
 La empresa o negociación que haya efectuado la operación u operaciones que prohibe el referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se liquiden.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 1.
 
-Se impondrá pena de prisión de seis meses a diez años a la o a las personas facultadas por los respectivos consejos de administración, que al certificar los documentos a que se refiere el artículo 96 de esta Ley, incurran en falsedad.
+Se impondrá pena de prisión de uno a doce años a la o las personas facultadas por los respectivos consejos de administración, que al certificar los documentos a que se refiere el artículo 96 de esta ley, incurran en falsedad.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 La misma sanción será aplicable a la o a las personas que sin las facultades correspondientes, certifiquen los documentos a que se refiere el artículo 96 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
+
 La o las personas mencionadas y la institución de fianzas, solidariamente responderán de los daños y perjuicios que con este motivo se causen.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 2.
 
-Se impondrá pena de prisión de seis meses a diez años y multa de 200 a 1500 días de salario a los consejeros, comisarios, directores o empleados de una institución de fianzas:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a los consejeros, comisarios, directores, funcionarios o empleados de una institución de fianzas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 I.- Que retiren en forma que no sea autorizada por esta Ley o graven o enajenen los bienes, créditos o valores en que estén invertidas las reservas, o cometan cualesquiera otros actos que tengan por efectos disminuir la seguridad y garantía de dichos bienes;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 II.- Que dispongan de los bienes recibidos en garantía por la institución, para fines diversos de los establecidos en esta Ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 III.- Que en sus informes, cuentas o exposiciones a las asambleas de accionistas, falseen en forma grave o desvirtúen la situación de la empresa;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 IV.- Que repartan dividendos en oposición a las prescripciones de esta Ley, independientemente de la acción para que los accionistas que las reciban las devuelvan en un término no mayor de treinta días;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 V.- Que incurran en la violación de cualquiera de las prohibiciones que establece el artículo 60 fracción XIV de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 VI.- Que otorguen fianzas a sabiendas de que la institución necesariamente habrá de pagarlas sin posibilidad de obtener recuperación, produciendo quebranto patrimonial a la institución de fianzas; y
 
@@ -2523,73 +2559,171 @@ VI.- Que otorguen fianzas a sabiendas de que la institución necesariamente habr
 
 VII.- Que intencionalmente inscriban datos falsos en la contabilidad o que produzcan datos falsos de los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a la institución u organismo que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional de Seguros y Fianzas.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 Las penas previstas en este artículo se aplicarán también, en su caso, a quienes a sabiendas hayan celebrado el negocio con la institución de fianzas, si se trata de personas físicas, o a quienes hayan representado a las sociedades participantes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 3.
 
-Se impondrá pena de prisión de seis meses a diez años y multa de 500 a 5000 días de salario, a:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
 
-I.- Las personas que, con el propósito de obtener un préstamo, proporcionen a una institución de fianzas, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la institución de fianzas;
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II.- Los funcionarios de una institución de fianzas que, conociendo la falsedad sobre el monto de los activos o pasivos, de una entidad o persona física o moral, concedan el préstamo a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a los consejeros, comisarios, directores o empleados de una institución de fianzas:
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+I.- Las personas que, con el propósito de obtener un préstamo, proporcionen a una institución de fianzas, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución de fianzas;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Los consejeros, funcionarios o empleados de una institución de fianzas o quienes intervengan directamente en el otorgamiento del préstamo que, conociendo la falsedad sobre el monto de los activos o pasivos, de una entidad o persona física o moral, concedan el préstamo a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 III.- Los acreditados que desvíen un crédito concedido por alguna institución de fianzas a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito o de condiciones preferenciales en el mismo;
 
-IV.- Las personas que para obtener préstamos de una institución de fianzas presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto patrimonial para la institución de fianzas;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-V.- Los funcionarios de una institución de fianzas que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la institución de fianzas.
+IV.- Las personas que para obtener préstamos de una institución de fianzas presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto o perjuicio patrimonial para la institución de fianzas;
 
-VI.- Los funcionarios de una institución de fianzas que, conociendo la falsedad sobre el monto de los activos o pasivos de una entidad o persona física o moral, autoricen la expedición de una póliza de fianza, produciéndose quebranto patrimonial para la institución de fianzas.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-La misma sanción se aplicará a los agentes que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la falsedad y resulte quebranto patrimonial para la institución de fianzas; y
+V.- Los consejeros, funcionarios o empleados de una institución de fianzas o quienes intervengan directamente en el otorgamiento del préstamo que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo;
 
-VII.- Los funcionarios de una institución de fianzas que, conociendo los vicios que señala la fracción III de este artículo, autoricen la expedición de una póliza de fianza, si el monto de la alteración hubiere sido determinante para no expedirla y se produce quebranto patrimonial para la institución de fianzas.
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-La misma sanción se aplicará a los agentes que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la alteración y resulte quebranto patrimonial para la institución de fianzas.
+VI.- Los consejeros, funcionarios o empleados de una institución de fianzas o quienes intervengan directamente en el otorgamiento de la póliza de fianza que, conociendo la falsedad sobre el monto de los activos o pasivos de una entidad o persona física o moral, autoricen la expedición de una póliza de fianza.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+La misma sanción se aplicará a los agentes que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la falsedad, y
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+VII.- Los consejeros, funcionarios, empleados de una Institución de Fianzas o quienes intervengan directamente en el otorgamiento de la póliza de fianza que, conociendo los vicios que señala la fracción VI de este artículo, autoricen la expedición de una póliza de fianza, si el monto de la operación hubiere sido determinante para no expedirla.
+
+La misma sanción se aplicará a los agentes que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la alteración.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 4.
 
-Se impondrá pena de prisión de seis meses a diez años y multa de 500 a 5000 días de salario, a:
+Se impondrá pena de prisión de uno a doce años y multa de quinientos a cinco mil días de salario, a:
 
-I.- Las personas que con el propósito de obtener la expedición de una póliza de fianza para sí o para otra persona proporcionen a una institución datos falsos sobre el monto de activos o pasivos, de una entidad o persona física o moral, si como consecuencia de ello, resulta quebranto patrimonial para la institución de fianzas; y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II.- Las personas que para obtener la expedición de una póliza de fianza presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe de la fianza resultando quebranto patrimonial para la institución de fianzas.
+I.- Las personas que con el propósito de obtener la expedición de una póliza de fianza para sí o para otra persona, proporcionen a una institución de fianzas datos falsos sobre el monto de activos o pasivos, de una entidad o persona física o moral, si como consecuencia de ello, resulta quebranto o perjuicio patrimonial para la institución de fianzas, y
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Las personas que para obtener la expedición de una póliza de fianza presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrece en garantía sea inferior al importe de la fianza.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 En los casos previstos en este artículo se procederá a petición de parte agraviada.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 5.
 
-Los funcionarios o empleados de instituciones de fianzas que con independencia de los cargos e intereses fijados por la institución respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con prisión de tres meses a tres años cuando el monto de la dádiva no sea valuable, o no exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito, y de dos a seis años de prisión cuando la dádiva exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito.
+Los consejeros, funcionarios o empleados, de instituciones de fianzas o quienes intervengan directamente en el otorgamiento del crédito que con independencia de los cargos e intereses fijados por la institución respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios por su participación en el trámite u otorgamiento del crédito, para sí o para otro; serán sancionados con prisión de tres meses a tres años cuando el monto de dicho beneficio no sea valuable, o no exceda de quinientos días de salario al momento de cometerse el delito, y de dos a seis años de prisión cuando el beneficio obtenido exceda de quinientos días de salario al momento de cometerse el delito.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112 Bis 6.
 
-Se impondrá pena de prisión de seis meses a diez años a los funcionarios y empleados de las instituciones de fianzas:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a los funcionarios, consejeros o empleados de las Instituciones de Fianzas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 I.- Que omitan registrar en los términos del artículo 63 de esta Ley, las operaciones efectuadas por la institución de fianzas de que se trate, o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
-II.- Que falsifiquen, alteren, simulen o, a sabiendas, realicen operaciones que resulten en quebranto patrimonial de la institución de fianzas en la que presten sus servicios;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II.- Que falsifiquen, alteren, simulen o a sabiendas realicen operaciones que resulten en quebranto o perjuicio patrimonial a la institución de fianzas;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 III.- Que otorguen préstamos a sociedades constituidas con el propósito de obtener financiamiento a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
 
-IV.- Que otorguen préstamos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto patrimonial a la institución de fianzas;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+IV.- Que otorguen préstamos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la institución de fianzas;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 V.- Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere la fracción anterior;
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
 VI.- Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución respectiva unos activos por otros;
 
-VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto patrimonial a la institución de fianzas; y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+VII.- Que, a sabiendas, permitan a un deudor desviar el importe del préstamo en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe del crédito y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución de fianzas, y
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
 VIII.- Que, a sabiendas, presenten a la Comisión Nacional de Seguros y Fianzas datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución respectiva.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 112 Bis 7.
+
+Serán sancionados los servidores públicos de la Comisión Nacional de Seguros y Fianzas, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 112 Bis a 112 Bis 6 de esta ley, cuando:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la institución de fianzas alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Inciten u ordenen no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 112 Bis 8.
+
+La acción penal en los delitos previstos en esta ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, la institución de fianzas ofendida, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la institución de fianzas ofendida, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 112 Bis 9.
+
+Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de una institución de fianzas, que por sí o por interpósita persona, dé u ofrezca dinero cualquier otra cosa a un servidor público de la Comisión Nacional de Seguros y Fianzas, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional de Seguros y Fianzas, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
 ## TITULO IV. Disposiciones varias
 
@@ -3330,3 +3464,11 @@ TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones 
 ...
 
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
