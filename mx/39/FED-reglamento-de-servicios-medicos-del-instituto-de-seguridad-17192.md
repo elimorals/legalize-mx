@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-del-instituto-de-seguridad-1719
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-04"
-last_updated: "2000-10-04"
+last_updated: "2002-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-08-17"
 ---
 # REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 4 de octubre de 2000.
 
@@ -887,7 +887,9 @@ V. Establecer mecanismos de supervisión y efectuar el registro y seguimiento de
 
 Para efectos de este Reglamento, se entiende por:
 
-I. LICENCIA MEDICA.- El documento médico legal de carácter público, que expiden las unidades médicas en los formatos oficiales a favor del trabajador, en el cual se certifica su estado de incapacidad por enfermedad, maternidad o riesgo de trabajo durante un tiempo determinado, con el objeto de prevenir, proteger, restaurar y/o rehabilitar la pérdida o disminución de sus facultades físicas o mentales.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
+I. LICENCIA MEDICA.- El documento médico legal de carácter público, que expiden los médicos tratantes en las unidades médicas, en los formatos oficiales a favor del trabajador, en el cual se certifica su estado de incapacidad por enfermedad, maternidad o riesgo de trabajo durante un tiempo determinado, con el objeto de prevenir, proteger, restaurar y/o rehabilitar la pérdida o disminución de sus facultades físicas o mentales.
 
 Su expedición surte los efectos legales y administrativos correspondientes;
 
@@ -897,9 +899,11 @@ III. LICENCIA SUBSECUENTE.- El documento que se expide posterior a la licencia i
 
 IV. LICENCIA RETROACTIVA.- El documento que con carácter inicial y subsecuente se expide al trabajador para amparar una incapacidad ocurrida en fecha anterior a aquélla en que acude ante el médico tratante del Instituto.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 119.
 
-La dirección de la unidad médica será la responsable de autorizar la expedición de la licencia médica, del abasto y control de los formatos autorizados, de la formulación de informes a las instancias correspondientes, así como de la aplicación de la normatividad que al efecto emita la Subdirección General.
+La dirección de la unidad médica será la responsable de supervisar y evaluar la expedición de la licencia médica, del abasto y control de los formatos autorizados, de la formulación de informes a las instancias correspondientes, así como de la aplicación de la normatividad que al efecto emita la Subdirección General.
 
 ###### ARTICULO 120.
 
@@ -909,13 +913,19 @@ El médico tratante, en el ejercicio de sus funciones y dentro de su jornada lab
 
 La licencia médica amparará invariablemente días naturales, atendiendo a los siguientes criterios:
 
-I. En las unidades médicas del primer nivel de atención a la salud, los médicos generales, familiares u odontólogos podrán expedir o solicitar licencias iniciales por un periodo de uno y hasta siete días.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
 
-Las licencias subsecuentes serán expedidas por periodos de uno a siete días, hasta ajustar un máximo de veintiún días, previa revisión del caso en el expediente clínico y con la autorización del director de la unidad médica o de la persona en quien éste delegue la función;
+I. En las unidades médicas del primer nivel de atención a la salud, los médicos generales, familiares u odontólogos podrán expedir y autorizar licencias iniciales por un periodo de uno y hasta siete días.
 
-II. En las unidades médicas del segundo y tercer nivel de atención a la salud, el médico especialista podrá solicitar la expedición de la licencia médica por un periodo de uno y hasta veintiocho días, y
+Las licencias subsecuentes serán expedidas y autorizadas por el médico tratante por periodos de uno a siete días, hasta ajustar un máximo de veintiún días, si se requiriera la expedición de más licencias subsecuentes, éstas deberán ser autorizadas por el director de la unidad médica o en quien delegue esta función, previa revisión del caso en el expediente clínico;
 
-III. En los servicios de urgencias, el médico tratante podrá expedir o solicitar la expedición de la licencia médica únicamente por un periodo de uno a tres días.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
+II. En las unidades médicas del segundo y tercer nivel de atención a la salud, el médico especialista podrá expedir y autorizar la licencia médica por un periodo de uno y hasta veintiocho días, y
+
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
+III. En los servicios de urgencias, el médico tratante podrá expedir y autorizar la licencia médica únicamente por un periodo de uno a tres días.
 
 ###### ARTICULO 122.
 
@@ -925,9 +935,11 @@ Tratándose de trabajadores no atendidos en el Instituto, la expedición de la l
 
 Cuando una enfermedad no profesional incapacite para el trabajo al trabajador, se le expedirá licencia médica hasta por cincuenta y dos semanas, conforme lo establece la Ley.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 124.
 
-La licencia médica por maternidad se otorgará a las aseguradas, en etapa de gestación, por un periodo de noventa días naturales, de los cuales treinta serán concedidos antes de la fecha aproximada del parto para la protección de la madre y el producto, y los sesenta restantes se autorizarán posteriores al parto para cuidados maternos.
+La licencia médica por maternidad, se otorgará a las aseguradas en etapa de gestación, por un periodo de noventa días naturales, de los cuales treinta tendrán por objeto proteger a la madre y el producto antes de la fecha aproximada del parto, y los sesenta restantes para cuidados maternos.
 
 ###### ARTICULO 125.
 
@@ -943,13 +955,19 @@ II. Al calificarse el riesgo reclamado como "sí de trabajo", la licencia médic
 
 Si el riesgo de trabajo incapacita al trabajador para laborar, se le expedirán licencias médicas de uno a veintiocho días y hasta por cincuenta y dos semanas, de conformidad con la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 127.
 
 Cuando un trabajador solicite la expedición de licencia médica con carácter retroactivo en su unidad médica de adscripción, ésta la podrá autorizar sustentada en la opinión del médico tratante y en el análisis de la documentación comprobatoria, sujetándose a lo siguiente:
 
-I. El médico tratante la expedirá o solicitará hasta por dos días anteriores a la fecha en que se gestione su expedición, contando con la aprobación del director de la unidad médica o en quien delegue esta función, y
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
 
-II. Si solicita que la licencia médica ampare tres o más días de incapacidad temporal para el trabajo, su expedición se someterá a la resolución de la delegación que corresponda.
+I. El médico tratante la expedirá y autorizará hasta por dos días anteriores a la fecha en que se gestione su expedición, contando con la aprobación del director de la unidad médica o en quien delegue esta función, y
+
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
+II. Si solicita que la licencia médica ampare seis o más días de incapacidad temporal para el trabajo, su expedición se someterá a la resolución de la delegación que corresponda.
 
 Si a juicio de ésta no es procedente la solicitud del trabajador, se le informará por escrito esa decisión.
 
@@ -971,13 +989,17 @@ II. El documento haya sido expedido por una unidad médica distinta a la adscrip
 
 III. Se presuma que el trabajador simula un padecimiento para provocar la expedición de una licencia médica.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 16 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 131.
 
-Los médicos del Instituto que expidan indebidamente licencias médicas, además de la aplicación de las sanciones administrativas establecidas en la Ley, la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, estará sujeto a la aplicación de las sanciones civiles y penales a que haya lugar.
+Las licencias médicas excepcionales podrán ser expedidas por el médico tratante con la autorización del Titular de la Unidad Médica o de la persona en quien éste delegue la función, debiendo informar en forma mensual al Subdelegado Médico, y al Titular del Organo Interno de Control de la Delegación que corresponda, y a la Subdirección General Médica, quienes podrán revisar en cualquier momento la expedición de la “Licencia Médica” por caso de excepción.
+
+(REUBICADO [N. DE E. REFORMADO], D.O.F. 16 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 132.
 
-Los titulares de las unidades médicas, al detectar alguna irregularidad en la expedición de las licencias médicas, darán conocimiento a la unidad administrativa correspondiente para proceder en consecuencia.
+Los médicos del Instituto que expidan indebidamente licencias médicas, además de la aplicación de las sanciones administrativas establecidas en la Ley, la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, estará sujeto a la aplicación de las sanciones civiles y penales a que haya lugar.
 
 #### SECCION SEGUNDA. De la Expedición de los Certificados de Defunción y Muerte Fetal
 
@@ -1046,3 +1068,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 17 de agosto de 2000.- El Secretario, Jaime Báez Rodríguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2002.
+
+Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
