@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1973-08-09"
+last_updated: "1975-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1975.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -1305,75 +1305,97 @@ Si es instrumento público o privado reconocido y contiene cantidad ilíquida, p
 
 La liquidación se hace sumariamente con un escrito de cada parte y la resolución del juez, sin ulterior recurso más que el de responsabilidad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 1975)</small>
+
 ### CAPITULO III.
 
-Del Depósito de Personas como Acto Prejudicial.
+Separación de personas como acto Prejudicial.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 204.
 
-La mujer casada que viviendo al lado del marido intente demandarlo o acusarlo puede pedir su depósito.
+El que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de Primera Instancia correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 205.
 
-El marido que viviendo con su mujer intenta demandarla o acusarla, debe pedir previamente su depósito.
+Sólo los Jueces de Primera Instancia pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 206.
 
-Sólo los jueces de primera instancia pueden decretar los depósitos de que hablan los artículos anteriores, a no ser que, por circunstancias especiales no pueda ocurrir el juez competente, pues entonces el juez del lugar donde la cónyuge se encuentre, podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo la persona a su disposición.
+La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso, si las hubiere.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 207.
 
-La solicitud de la mujer puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con toda rapidez.
+El Juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 208.
 
-Presentada la solicitud se trasladará el juez a la casa del marido y, sin que se halle éste presente, hará comparecer a la mujer para que manifieste si ratifica o no el escrito en que hubiere pedido el depósito si por escrito se hubiese solicitado. Hecha la ratificación, el juez designará, desde luego, la persona que haya de encargarse del depósito y dispondrá que en el acto se entregue a la mujer la cama y toda su ropa.
+Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular.
 
-Si hubiere cuestión sobre cuáles ropas deben entregarse, el juez sin ulteriores recursos y teniendo en cuenta las circunstancias de las personas, determinará las que haya de llevar la interesada.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 209.
 
-Practicado todo lo que queda prevenido en los artículos anteriores, el juez personalmente extraerá a la mujer de la casa del marido y la llevará a casa del depositario.
+El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si lo estima pertinente según las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 210.
 
-En el mismo acto de la diligencia intimará el juez al marido que no moleste a su mujer ni al depositario, bajo apercibimiento de procederse contra él a lo que hubiere lugar.
+En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda o la acusación, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del Juez, podrá concederse por una sola vez una prórroga por igual término.
 
-Independientemente de lo anterior, el juez puede dictar las medidas que estime prudente a efecto de evitar las molestias contra la mujer y depositario.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 211.
 
-La casa donde se deposite a la mujer casada será en todo caso designada por el juez y debe de ser el depositario persona de notoria honorabilidad y buena costumbres.
+En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 212.
 
-Si los consortes tuvieren hijos, menores de edad, se pondrán éstos al cuidado de la persona que de común acuerdo hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo, en todo caso, quedar al cuidado de la madre los hijos menores de siete años.
+El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil, y las propuestas, si las hubiere de los cónyuges.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 213.
 
-Al día siguiente de constituido el depósito, mandará el juez intimar al marido o a la mujer en su caso, apercibiéndose de que si dentro de diez días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituida la mujer a la casa de su marido.
+Cualquiera reclamación sobre las medidas a que se refiere este capítulo, se resolverá incidentalmente, sin ulterior recurso.
 
-Esta providencia se notificará en forma legal a la mujer y al marido.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 214.
 
-Al depositario se dará copia certificada de la constitución del depósito para su resguardo.
+Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 215.
 
-El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable a la mujer, cuando ésta lo solicitó, ha sido imposible intentar la acción contra el marido.
+El cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
 
 ###### Artículo 216.
 
-Cualquiera reclamación sobre las medidas a que se refiere este capítulo, se resolverá con un sólo escrito de cada parte, sin ulterior recurso.
+Si el Juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
 
 ###### Artículo 217.
 
-No acreditándose haberse intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá a la mujer a la casa del marido.
+(DEROGADO, P.O. 21 DE MAYO DE 1975)
 
 ###### Artículo 218.
 
-Si el juez que decretó el depósito no fuere el que deba conocer el negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario o hará otro, siguiendo el juicio su curso legal.
+(DEROGADO, P.O. 21 DE MAYO DE 1975)
 
 ### CAPITULO IV.
 
@@ -3319,7 +3341,9 @@ Quedan exceptuados de embargo:
 
 I. Los bienes que constituyan el patrimonio de la familia, desde su inscripción en el Registro Público de la Propiedad en los términos que establece el Código Civil;
 
-II. El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su mujer y de sus hijos, no siendo de lujo a juicio del juez.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
+
+II. El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo a juicio del Juez.
 
 III. Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -3349,7 +3373,7 @@ XV. Los ejidos de los pueblos y la parcela individual que en su fraccionamiento 
 
 XVI. Los demás bienes en que así lo prevenga la ley.
 
-En los casos de las fracciones III, IV, V y VII, el juez, en caso de duda, oirá el informe de un perito designado por él.
+En los casos de las fracciones III, IV, V y VII, el Juez, en caso de duda, oirá el informe de un perito designado por él.
 
 ###### Artículo 539.
 
@@ -4107,9 +4131,11 @@ De la Revocación.
 
 Cuando ambos consortes convengan en divorciarse en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+
 ###### Artículo 670.
 
-Hecha la solicitud citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes y si asistieren los interesados los exhortará para procurar su reconsideración. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados y de la mujer y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación; si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
 
 ###### Artículo 671.
 
@@ -6095,7 +6121,9 @@ Se tramitará en forma de incidente que habrá de seguirse con el Ministerio Pú
 
 I. La autorización Judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces, o para comparecer en juicio, en este último caso se les nombrará un tutor especial;
 
-II. El permiso que para contratar con su marido y para obligarse solidariamente a ser su fiadora, solicite la mujer casada;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
+
+IV. (SIC) El permiso para que los cónyuges celebren contratos entre ellos o para obligarse solidariamente o ser fiador uno del otro, en los casos del artículo 175 del Código Civil;
 
 III. La calificación de la excusa de la Patria Potestad en los casos a que se refiere el artículo 449 del Código Civil.
 
@@ -6103,7 +6131,9 @@ III. La calificación de la excusa de la Patria Potestad en los casos a que se r
 
 Para decretarse el deposito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores; reciban de éstos ejemplos perniciosos a juicio del Juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-El mujer menor de edad que deseando contraer matrimonio necesita acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+
+El menor de edad que deseando contraer matrimonio necesita acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
@@ -6466,3 +6496,9 @@ P.O. 9 DE AGOSTO DE 1973.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE MAYO DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
