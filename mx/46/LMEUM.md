@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1935-04-27"
+last_updated: "1935-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1935.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -280,7 +280,9 @@ Se deroga el artículo 17 de la Ley Monetaria de 25 de julio de 1931, y los art�
 
 A partir de la vigencia de esta ley quedarán privadas de su carácter de monedas y por consecuencia, de todo poder liberatorio, las piezas de plata de un peso y de cincuenta, veinte y diez centavos que han estado en circulación hasta la fecha.
 
-Sin embargo, durante los treinta días siguientes a la fecha de publicación de esta ley, las piezas de plata mencionadas, conservarán poder liberatorio limitado a veinte pesos en cada pago.
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE PARRAFO, VER ARTICULO UNICO DEL DECRETO QUE PRORROGA EL PLAZO SEÑALADO EN EL ARTICULO 1o. TRANSITORIO DE LA LEY QUE REFORMO EL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. DE 25 DE MAYO DE 1935.</small>
+
+Sin embargo, durante los treinta días siguientes a la fecha de la publicación de esta ley, las piezas de plata mencionadas, conservarán poder liberatorio limitado a veinte pesos en cada pago.
 
 ###### ARTICULO 2°.
 
@@ -337,6 +339,18 @@ Queda facultada la Secretaría de Hacienda y Crédito Público para proveer en l
 ###### ARTICULO 11.
 
 Esta Ley entrará en vigor desde la fecha de su publicación.
+
+D.O.F. 25 DE MAYO DE 1935.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO QUE PRORROGA EL PLAZO SEÑALADO EN EL ARTICULO 1o. TRANSITORIO DE LA LEY QUE REFORMO EL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. 25 DE MAYO DE 1935.</small>
+
+###### ARTICULO UNICO.
+
+Se prorroga por treinta días más -que concluirán el veintiséis de junio del corriente año-, el plazo señalado por el párrafo segundo del artículo 1°. transitorio de la Ley de 26 de abril de 1935, que reformó la Ley Monetaria en vigor.
+
+## TRANSITORIO
+
+Este decreto entrará en vigor desde la fecha de su publicación.
 
 ###### ARTICULO 3°.
 
