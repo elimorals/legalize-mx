@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2001-11-09"
+last_updated: "2002-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1645,7 +1645,9 @@ PRIMERO.- La presente Ley entrará en vigencia al día siguiente de su publicaci
 
 SEGUNDO.- Se abroga la Ley de Salud Pública para el Estado de Baja California publicada en el Periódico Oficial el 10 de octubre de 1986, así como las reformas y adiciones subsecuentes formuladas hasta la entrada en vigor de la presente Ley.
 
-TERCERO.- Los Ayuntamientos emitirán la normatividad reglamentaria de acuerdo a su competencia dentro de los cuatro meses siguientes a la entrada en vigor de esta Ley.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2002)</small>
+
+TERCERO.- Los Ayuntamientos emitirán la normatividad reglamentaria de acuerdo a su competencia dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor de esta Ley.
 
 CUARTO.- Las Autoridades competentes del Ejecutivo del Estado seguirán ejerciendo sus atribuciones en materia de agua potable para uso y consumo humano y alcantarillado sanitario, hasta en tanto éstas se transfieran por disposición legal a los Municipios.
 
@@ -1670,3 +1672,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 2002.
+
+UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
