@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2000-09-01"
+last_updated: "2003-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DEL 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -601,7 +601,7 @@ El órgano jurisdiccional, al dictar sentencia, fijará la pena que estime justa
 
 I. La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
-> <small>(F. DE E., G.G . 3 DE ABRIL DE 2000)</small>
+> <small>(F. DE E., G.G 3 DE ABRIL DE 2000)</small>
 
 II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere sido expuesto el ofendido;
 
@@ -2511,6 +2511,10 @@ IV. Al que sin haber recibido rescate pusiere espontáneamente en libertad al se
 
 V. Cuando con motivo de secuestro se causare la muerte o falleciera el secuestrado o personas relacionadas con este, se le impondrá de treinta y cinco a cincuenta años de prisión y de seiscientos veinticinco a mil días multa.
 
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DEL 2003)</small>
+
+VI. Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso, se le impondrá de treinta y cinco a cincuenta años de prisión y de seiscientos veinticinco a mil días multa.
+
 Se equipara al secuestro, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle un daño, sea a aquélla o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza; en tal caso se impondrán las penas señaladas en este artículo.
 
 Cuando en la comisión de este delito participe un elemento perteneciente a una corporación policíaca, se agravará la pena en una mitad más de la que le corresponda destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
@@ -2569,7 +2573,7 @@ Este delito se perseguirá por querella.
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro, se le impondrán de uno a siete años de prisión y de cuarenta a doscientos días multa.
 
-Si en la comisión de este delito participa algún miembro de una corporación policiaca o servidor público será considerado como delito grave.
+Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público será considerado como delito grave.
 
 ###### Artículo 267.
 
@@ -2775,7 +2779,7 @@ V. Cuando se cometa el robo de un vehículo automotor, de una o más de las part
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policiaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
+Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
 
 VII. Cuando lo cometa un dependiente o un doméstico contra su patrón, algún miembro de su familia, huésped o invitado, en cualquier parte que lo cometa, se impondrán de tres meses a tres años de prisión.
 
@@ -3310,3 +3314,9 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PR
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DEL 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
