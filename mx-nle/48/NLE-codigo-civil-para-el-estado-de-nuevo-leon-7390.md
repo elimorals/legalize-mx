@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1970-06-10"
+last_updated: "1970-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1970.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -7097,7 +7097,7 @@ Testamento público abierto, es el que se otorga ante notario y tres testigos id
 
 ###### Art. 1409.
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresara de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### Art. 1410.
 
@@ -14425,29 +14425,31 @@ En el caso a que se refiere la parte final del artículo anterior, el registrado
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1970)</small>
+
 ###### Art. 2907.
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+Toda título que se presente a registro, deberá expresar las circunstancias siguientes:
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; así mismo, constará la mención de haberse agregado el plano o croquis al legago (sic) respectivo;
+I.- Naturaleza, situación, linderos o colindancias de los inmuebles objeto de la operación o a los cuales afecte el derecho de que se trate, su medida superficial y datos de registro del título antecedente;
 
-II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
+II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituye, transmita, modifique o extinga;
 
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le dén;
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
 
 IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
 
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
+V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto. Las personas morales se designarán por el nombre oficial que lleven y las sociedades, por su razón o denominación;
 
-VI.- La naturaleza del acto contrato;
+VI.- La naturaleza del acto o contrato;
 
-VII.- La fecha del título y el funcionario que lo haya autorizado;
+VII.- La fecha del título y el funcionario que lo haya autorizado.
 
-VIII.- El día y la hora de la presentación del título en el Registro.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1970)</small>
 
 ###### Art. 2908.
 
-El registrado que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cauce (sic) a los interesados, y sufrirá una suspensión de empleo por tres meses.
+Los interesados deberán presentar para su registro los documentos por duplicado para el efecto de que con uno de los ejemplares se forme el registro correspondiente, y el otro se devuelva al interesado con las anotaciones a que se refieren los Artículos 2913 de este Código y 17 de la Ley Reglamentaria del Registro Público de la Propiedad.
 
 ###### Art. 2909.
 
@@ -14477,9 +14479,11 @@ En los casos de los números I y II del artículo que precede, los interesados h
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1970)</small>
+
 ###### Art. 2914.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos necesarios para la inscripción de los documentos.
 
 ###### Art. 2915.
 
@@ -14734,3 +14738,7 @@ UNICO: Este decreto surtirá sus efectos desde el día siguiente al de su public
 P.O. 10 DE JUNIO DE 1970.
 
 UNICO:- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 1970.
+
+UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
