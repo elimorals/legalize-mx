@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1968-05-02"
+last_updated: "1970-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1970.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -1673,11 +1673,13 @@ Cuando un juez o magistrado se excuse sin causa legítima cualquiera de las part
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1970)</small>
 
 ###### Artículo 217.
 
-Cada parte podrá recusar sin causa y con sólo la protesta de ley, a un magistrado, a un juez de primera instancia o juez menor, a un secretario en cada instancia y a un asesor.
+Los jueces de primera instancia podrán ser recusados sin expresión de causa, sólo por la parte demandada y por una vez. No procederá la recusación cuando en algún distrito judicial únicamente exista un juez de esa categoría con jurisdicción civil o mixta.
+
+Sólo la parte que no haya apelado podrá recusar a un magistrado, sin expresión de causa y por una vez.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1685,23 +1687,21 @@ Cada parte podrá recusar sin causa y con sólo la protesta de ley, a un magistr
 
 Cuando los magistrados, jueces o secretarios no se excusaren a pesar de existir alguno de los impedimentos expresados, procede la recusación con causa.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 219.
 
-Es también justa causa de recusación de un juez menor, juez de primera instancia o magistrado, el no pronunciar sentencia dentro del término que las leyes fijan para ese efecto.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 1970)
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1970)</small>
 
 ###### Artículo 220.
 
-En los concursos sólo podrán usar de las recusaciones el representante legítimo de los acreedores o la mayoría de éstos.
+En los concursos sólo procederá la recusación con causa, a solicitud del representante legítimo de los acreedores o de la mayoría de éstos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1970)</small>
 
 ###### Artículo 221.
 
-En los juicios hereditarios el derecho de recusar corresponde al albacea o a la mayoría de los herederos.
+En los juicios sucesorios se aplicará la regla del artículo anterior, y la petición podrán hacerla el albacea o la mayoría de los herederos.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1759,11 +1759,9 @@ En los procedimientos de apremio no se dará curso a la recusación, sino hasta 
 
 Los secretarios de las salas o de los juzgados harán constar la hora en que se pronuncien los decretos de citación para sentencia y una vez dictados, aunque no se hubiere notificado, ninguna recusación es admisible. Se exceptúa el caso de que sobrevenga cambio de personal, pues entonces la recusación podrá admitirse respecto de la nueva persona, si se hace en el acto de notificarse el decreto en que se manda dar a conocer ésta, o a más tardar al siguiente día.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 228.
 
-La recusación fundada en no haber fallado dentro del término legal, puede proponerse después del auto en que se cita para sentencia y después de la vista y tantas veces como se dé motivo para ello, por no sentenciar dentro del término legal.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 1970)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1799,11 +1797,9 @@ Si se declara inadmisible o no probada la primera recusación con causa que se h
 
 No obstante lo dispuesto en el artículo anterior, si hubiere cambio en el personal de la sala o del juzgado, podrá hacerse valer la recusación con causa del nuevo magistrado o juez.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 234.
 
-El juez menor, el de primera instancia o el magistrado que fuere recusado por no sentenciar dentro del término legal en cinco negocios diversos, incurrirá en la pena de suspensión de empleo por el término de un año, que se impondrá de oficio o a petición de parte, al juez menor, por el de primera instancia de su jurisdicción y a éste y al magistrado por el tribunal pleno.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 1970)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10029,15 +10025,9 @@ El que trate de reconocer a un hijo natural por el medio establecido en la fracc
 
 De las diligencias a que se refiere el artículo anterior se levantará el acta correspondiente, la que se archivará después de remitirse testimonio de ella al encargado del Registro Civil, para los efectos del artículo 79 del Código Civil.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 1338.
 
-La información testimonial sobre posesión de estado de hijo legítimo a que se refiere el párrafo segundo del artículo 59 del Código Civil, se recibirá con citación del Ministerio Público y de los hermanos o medios hermanos del que pretenda el registro, si los hubiere.
-
-La información comprenderá los hechos a que se refiere el artículo 301 del mismo Código.
-
-Ofrecida y aprobada la información el Juez remitirá testimonio de las diligencias al encargado de la Oficina del Registro Civil para que se haga la inscripción correspondiente.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 1970)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10548,3 +10538,7 @@ P.O. 2 DE MAYO DE 1968.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor a los diez días siguientes a la fecha de su publicación en el Periódico Oficial.
+
+P.O. 17 DE DICIEMBRE DE 1970.
+
+UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial.
