@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1970-03-18"
+last_updated: "1972-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 1970.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1170,11 +1170,11 @@ Jueces de Primera Instancia, Locales y Auxiliares.
 
 El Poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia, en los Tribunales de Menores, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezcan las Leyes.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
 
 ###### Artículo 136.
 
-El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y seis Supernumerarios, electos cada seis años por el Congreso del Estado, a propuesta en terna de los Ayuntamientos. Los Magistrados, tanto propietarios como suplentes, podrán ser reelectos.
+El Supremo Tribunal de Justicia se compondrá de cuatro Magistrados Propietarios y ocho Supernumerarios electos cada seis años por el Congreso del Estado, a propuesta en terna de los Ayuntamientos. Los Magistrados, tanto Propietarios como Supernumerarios, podrán ser reelectos.
 
 ###### Artículo 137.
 
@@ -1200,11 +1200,13 @@ Los Magistrados rendirán la protesta de ley ante el Congreso o ante la Diputaci
 
 No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad, dentro del cuarto grado, o por afinidad, dentro del segundo.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1938)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1972)</small>
 
 ###### Artículo 141.
 
-El Supremo Tribunal de Justicia funcionará en Salas Unitarias que se distinguirán por las ordinarias: Primera, Segunda y Tercera; y el Tribunal Pleno, que se integrará por los tres Magistrados que desempeñen las Salas.
+El Supremo Tribunal de Justicia funcionará en Pleno y en Salas Unitarias que se denominarán: Primera, Segunda, Tercera y Cuarta Salas. Los Magistrados Propietarios integrarán el Tribunal Pleno y serán los Titulares de las Salas Unitarias, en el orden que determine el Congreso del Estado. Los Magistrados Supernumerarios podrán integrar el Pleno y ejercer las funciones de las Salas Unitarias en los casos previstos por esta Constitución y en la Ley Orgánica del Poder Judicial.
+
+Será Presidente del Tribunal el Magistrado que determina la Ley Orgánica del Poder Judicial.
 
 ###### Artículo 142.
 
@@ -1789,3 +1791,13 @@ UNICO:- Este decreto entrará en vigor cinco días después de su publicación e
 P.O. 18 DE MARZO DE 1970.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1972.
+
+PRIMERO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y como consecuencia de las mismas se procederá a modificar en lo conducente la Ley Orgánica del Poder Judicial.
+
+SEGUNDO.- Hasta en tanto se elija y tome posesión de su cargo el Magistrado Titular de la Cuarta Sala, el Supremo Tribunal de Justicia funcionará legalmente en la forma como actualmente está constituido.
+
+TERCERO.- Dentro de los diez días siguientes a la fecha en que entren en vigor las reformas a la Ley Orgánica del Poder Judicial, los Ayuntamientos deberán proponer ternas al Congreso del Estado para la elección del Magistrado Propietario y de los Magistrados Supernumerarios de la Cuarta Sala del Supremo Tribunal de Justicia del Estado.
+
+CUARTO.- El Magistrado Propietario y los Magistrados Supernumerarios de la Cuarta Sala del Tribunal Supremo de Justicia del Estado, durarán en su encargo a partir de la fecha de su toma de posesión, hasta el día 30 de noviembre de 1975.
