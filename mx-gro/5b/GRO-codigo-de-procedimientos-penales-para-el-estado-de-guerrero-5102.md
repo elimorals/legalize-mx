@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2001-10-19"
+last_updated: "2002-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -559,9 +559,9 @@ En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su
 
 Se califican como delitos graves para todos los efectos legales, los siguientes: homicidio, previsto en los Artículos 103, 104 y 108; secuestro, señalado por los Artículos 128 y 129; asalto contra un poblado, a que se refiere el Artículo 136; violación, señalado por los artículos 139 al 142; robo, contenido en el Artículo 163 fracción III, en relación con el 164; extorsión, previsto por el Artículo 174 segundo párrafo, cuando sea cometido por agentes policiales; ataque a los medios de transporte, previsto en el Artículo 206; rebelión, previsto en los artículos del 229 al 232, con excepción de la parte final del Artículo 230; terrorismo, previsto en el Artículo 234 en su primer párrafo, y sabotaje, previsto en el Artículo 235 fracciones I, II y III, todos del Código Penal Vigente.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2002)</small>
 
-También se califican como delitos graves para todos los efectos legales, los siguientes: Corrupción de Menores e Incapaces, Pornografía Infantil y Prostitución Sexual de Menores, previstos en los artículos 217 y 217 bis, respectivamente, así como el previsto en el artículo 217 bis 3 y el delito de Lenocinio cuando se trate del supuesto señalado en el artículo 218, segundo párrafo, fracción IV; Trata de Personas, previsto en el segundo párrafo del artículo 219; Contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269; y el delito de evasión de presos contenidos en el artículo 273, todos del Código Penal en vigor.
+También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo previsto en el artículo 177, segundo párrafo; Pornografía de Menores e Incapaces, Corrupción y Prostitución de Menores e Incapaces previstos en los artículos 216 Bis, 217 y 217 bis, respectivamente; el delito de Lenocinio cuando se trate del supuesto señalado en el artículo 218, tercer párrafo; Trata de Personas, previsto en el segundo párrafo del artículo 218 Bis; contra la Administración de Justicia cometidos por Servidores Públicos, previsto en la fracción XXIX del artículo 269 y el delito de evasión de presos contenido en el artículo 273, todos de Código Penal en vigor.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -873,7 +873,7 @@ V.- Cuando se decrete la libertad por desvanecimiento de los datos que sirvieron
 
 VI.- Cuando habiéndose decretado la libertad por desvanecimiento de datos esté agotada la averiguación y no existan elementos posteriores para solicitar nueva orden de aprehensión.
 
-> <small>(REFORMADO, P.O, 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 Solo se podrá disponer el sobreseimiento en el curso de la Instrucción y hasta la presentación de conclusiones por el Ministerio Público.
 
@@ -1604,5 +1604,9 @@ PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposicio
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
 
 P.O. 19 DE OCTUBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MAYO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
