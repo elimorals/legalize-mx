@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2002-12-30"
+last_updated: "2003-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -65,7 +65,9 @@ Para efectos de la aplicación de las Leyes Fiscales del Estado se entenderá po
 
 Los ingresos del Estado y sus organismos auxiliares se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos, participaciones, aportaciones y reasignaciones.
 
-Son ingresos extraordinarios aquellos cuya percepción se decreta excepcionalmente para proveer el pago de gastos e inversiones accidentales o especiales del Estado.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+Son ingresos extraordinarios, aquéllos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Gobierno del Estado, así como de los programas especiales que instrumente el mismo.
 
 ###### ARTICULO 3.
 
@@ -177,9 +179,7 @@ II.- El Secretario de Finanzas y Desarrollo Social.
 
 III.- Los Subsecretarios de la Secretaría de Finanzas y Desarrollo Social.
 
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)(F. DE E., P.O. 28 DE ENERO DE 2002)
-
-IV.- El Procurador Fiscal.
+IV.- (DEROGADA, P.O. 11 DE ABRIL DE 2003)
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -239,9 +239,7 @@ Las autoridades señaladas en este artículo se consideran autoridades fiscales 
 
 En contra de los actos que se realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establece este Código.
 
-(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
-
-ARTICULO 13 A.- Este Código será aplicable para los Municipios que no cuenten con un ordenamiento similar, considerándose a los Servidores Públicos Municipales a los que las leyes confieran facultades específicas en materia de Hacienda Municipal, como Autoridades Fiscales.
+ARTICULO 13 A.- (DEROGADO, P.O. 11 DE JUNIO DE 2003)
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -265,9 +263,9 @@ Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se af
 
 En los términos fijados en días, por disposición de la Ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así, aquellos en que se encuentren abiertas al público las oficinas, durante el horario de las 8:00 a las 13:30 horas. En los términos fijados en períodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero, el 5 de febrero; el 21 de marzo; el 1 y el 5 de mayo; el 1 y el 16 de septiembre; el 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre y los que señale el Ejecutivo del Estado.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero; el 5 de febrero; el 21 de marzo; el 1 y el 5 de mayo; el 16 de septiembre; el 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre y los que señale el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -455,11 +453,15 @@ Las Autoridades Fiscales podrán practicar diligencias en el lugar que conforme 
 
 Se considera que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código.
 
-El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
-Cuando el nuevo domicilio fiscal del contribuyente, se encuentre en la misma circunscripción territorial de la Oficina Recaudadora ante la que ha venido presentando declaraciones, el aviso de cambio de domicilio lo presentará ante ella.
+El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda, ante cualquiera de las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, mediante las formas oficiales aprobadas por la propia dependencia.
 
-Cuando se encuentre fuera de la circunscripción territorial de la Oficina Recaudadora ante la que venía presentando declaraciones, el aviso de cambio de domicilio se presentará ante la Oficina Recaudadora que corresponda a su nuevo domicilio.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 En caso de cambio de nomenclatura o numeración oficial, la Autoridad Fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
 
@@ -497,9 +499,9 @@ Las personas domiciliadas fuera del Estado que causen gravámenes estatales debe
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
-I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante la oficina recaudadora que le corresponda, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dé origen a la causación de la contribución de que se trate.
+I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscales del Estado, ante cualquiera de las Oficina Recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, dentro del mes siguiente a la fecha en que se coloquen en la situación jurídica o de hecho que dé origen a la causación de la contribución de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -635,15 +637,13 @@ Dicho plazo empezará a contar a partir del día siguiente a aquél en que el co
 
 El silencio de las Autoridades Fiscales durante el término a que se refiere el Artículo anterior, se considerará como resolución negativa.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 29.
 
-La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre, denominación o razón social del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan firmados por el contribuyente o su representante legal debidamente acreditado, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
-
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas y Desarrollo Social, los obligados a presentarlas las formularán en escrito por cuadruplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieren sido aprobados y publicados por la Secretaría de Finanzas y Desarrollo Social, los obligados a presentarlas, las formularán en escrito por cuadruplicado que contenga los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 ## TITULO TERCERO. DEL NACIMIENTO Y PAGO DE LOS CREDITOS FISCALES
 
@@ -713,15 +713,23 @@ En el caso de que se paguen contribuciones mediante cheque, éste solo podrá ap
 
 El cheque mediante el cual se paguen las contribuciones y sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 34.
 
-El pago de las contribuciones y sus accesorios se realizará en cualquiera de las Oficinas Recaudadoras o en las Instituciones Bancarias que para tal efecto autorice la Secretaría de Finanzas y Desarrollo Social, mediante las formas oficiales o medios electrónicos que emita o apruebe dicha Dependencia.
+El pago de las contribuciones y sus accesorios se realizará en cualquiera de las Oficinas Recaudadoras u Oficinas Receptoras de Pago de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado, en las Instituciones Bancarias que ésta autorice para tal efecto, a través del Portal Digital del Estado de Puebla en Internet, y en cualquier otro lugar de pago, mediante las formas oficiales o medios electrónicos que emita o apruebe dicha Dependencia.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 A quien haga el pago señalado, deberá expedírsele por parte de la Oficina Recaudadora la forma oficial, el recibo oficial, la forma valorada, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora.
 
-Tratándose de los pagos efectuados en las oficinas de las Instituciones de Crédito, se le deberá expedir comprobante con la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente y en relación a los efectuados por transferencia electrónica de fondos, el contribuyente obtendrá el documento que emita el sistema de cómputo, en el que conste el número de referencia que se asigne a la operación autorizada.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+Tratándose de los pagos efectuados en las oficinas de las Instituciones Bancarias, se le deberá expedir comprobante con la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+En el caso de pagos realizados a través del Portal Digital del Estado de Puebla en Internet o en cualquier otro lugar de pago por medios electrónicos, el contribuyente obtendrá el documento que emita el sistema de cómputo, en el que conste el número de referencia que se asigna a la operación autorizada. El contribuyente comprobará el cumplimiento de la obligación fiscal con dicho documento.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -811,9 +819,17 @@ II.- El contribuyente deberá acompañar a su solicitud el o los documentos de l
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del artículo 39 de este Código.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuatro meses siguientes a la fecha en que se presentó la solicitud debidamente requisitada ante la autoridad fiscal competente. Si la devolución no se hubiera efectuado en el plazo de cuatro meses, las Autoridades Fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 35 de este Código. En ningún caso los intereses a cargo del fisco estatal excederán de los que se causen en 5 años.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de tres meses siguientes a la fecha en que se presentó la solicitud debidamente requisitada ante la autoridad fiscal competente.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+Cuando la autoridad requiera al contribuyente las datos, informes o documentos necesarios para verificar la procedencia de su solicitud de devolución, el periodo transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo para la devolución arriba señalado (sic).
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
+Si la devolución no se hubiera efectuado en el plazo de tres meses, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 35 de este Código. En ningún caso los intereses a cargo del fisco estatal excederán de los que se causen en 5 años.
 
 ###### ARTICULO 38.
 
@@ -925,7 +941,7 @@ c) Denuncia por desobediencia a un mandato legítimo de Autoridad competente.
 
 XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1988)
 
-XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
+XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
@@ -955,7 +971,19 @@ Si el contribuyente o responsable solidario presenta la declaración omitida ant
 
 Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la Autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
 
-II.- Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de 6 días. Si no se atiende el requerimiento se impondrá la multa correspondiente. La Autoridad en ningún caso formulará más de un requerimiento por una misma omisión.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+II.- Imponer la multa que corresponda en los términos de este Código, por cada requerimiento no atendido.
+
+Para efectos del párrafo anterior, se estará a lo siguiente:
+
+La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+Para la presentación del documento omitido, se otorgarán los siguientes plazos:
+
+a).- Quince días para el primer requerimiento.
+
+b).- Seis días para el segundo y tercer requerimiento.
 
 III.- Embargar precautoriamente, los bienes o la negociación, en términos de los párrafos segundo y tercero del artículo 86 de este Código, cuando el contribuyente haya omitido presentar declaraciones en el último ejercicio o cuando no atienda tres requerimientos de la Autoridad en los términos de la fracción segunda de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un requerimiento.
 
@@ -1069,9 +1097,9 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes que practiquen visitas, para comprobar hechos relacionados con las que aquéllas estén realizando.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 11DE ABRIL DE 2003)</small>
 
-IV.- Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, designados por las autoridades fiscales el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos y sean anexados al acta final o a las parciales que levanten con motivo de la visita.
+IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que se levanten con motivo de la visita.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1203,9 +1231,15 @@ III.- Cuando no lleven los libros o registros a que están obligados, o no los c
 
 IV.- Cuando la información que se obtenga de terceros ponga de manifiesto, que el contribuyente realizó alguna de las actividades que se encuentran gravadas por la ley y que no hayan declarado correctamente.
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+V.- Cuando el contribuyente, estando obligado a solicitar su inscripción en los registros de contribuyentes que le correspondan, no la efectúe.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### ARTICULO 49.
 
-En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea el ingreso, se procederá de la manera siguiente:
+En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea el ingreso, la autoridad fiscal podrá aplicar indistintamente cualquiera de los siguientes procedimientos:
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -1217,9 +1251,11 @@ II.- Si la contabilidad y documentación del contribuyente no permite reconstrui
 
 A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### ARTICULO 50.
 
-En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, se procederá de la manera siguiente:
+En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, la autoridad fiscal podrá aplicar indistintamente cualquiera de los siguientes procedimientos:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
@@ -1229,13 +1265,23 @@ I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Per
 
 En el caso de que se demuestre que el contribuyente tuvo trabajadores cuando menos por un día del período revisado, sin que pueda determinarse la duración de la relación laboral, se entenderá, para efectos fiscales, que dicho trabajador laboró todo el período revisado.
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
-II.- Si en base a la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la Autoridad Fiscal podrá establecerla tomando los datos del expediente o documentos que lleven o tengan en su poder cualquier autoridad u Organismo Público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses del período revisado y el resultado será la base y el impuesto que corresponda a cada mes.
+II.- Si en base a la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la autoridad fiscal podrá determinarla en forma estimativa tomando los o información de terceros, así como de la información contenida en los expedientes o documentos que lleven o tengan en su poder cualquier autoridad u organismo público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses del período revisado y el resultado será la base y el impuesto que corresponda a cada mes.
 
-En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, en el que aparezcan cantidades relativas al Impuesto sobre Erogaciones por Erogaciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirán que las mismas fueron causadas en el Estado de Puebla y pertenecen al mismo.
+Con relación al Impuesto Sobre Servicios de Hospedaje, la autoridad fiscal podrá determinar la base gravable aplicando el siguiente procedimiento.
 
-Si el contribuyente no manifiesta en alguna o varias declaraciones el número de trabajadores, se tomará para todos los meses el número de trabajadores mayor que se hubiera conocido ya sea de las declaraciones o de los manifestados ante otras autoridades u Organismos Públicos.
+Tratándose de hoteles, moteles, casas de huéspedes, u otros que tengan por objeto la prestación de alojamiento o albergue temporal, se multiplicará el número de habitaciones o cuartos que se encuentren destinados a la prestación de alojamiento o albergue temporal de personas a cambio de un pago, por el costo promedio diario de la tarifa establecida o precio pactado, según sea el caso, por concepto de servicio de hospedaje del periodo objeto de la revisión.
+
+El producto obtenido de la operación anterior se multiplicará por el número de días que corresponda al periodo objeto de la revisión. La cantidad resultante se multiplicará por el porcentaje de ocupación del periodo objeto de la revisión, el resultado de esta operación será la base gravable estimada.
+
+El costo promedio diario a que se hace referencia anteriormente de determinará sumando la tarifa máxima establecida o precio máximo pactado, más la tarifa mínima establecida o precio mínimo pactado y el resultado obtenido se dividirá entre dos.
+
+En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, en el que aparezcan cantidades relativas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y/o Impuesto Sobre Servicios de Hospedaje, se presumirá que las mismas fueron causadas en el Estado de Puebla y pertenecen al mismo.
+
+Si el contribuyente no manifiesta en alguna o varias declaraciones el número de trabajadores, se tomará para todos los meses el número de trabajadores mayor que se hubiera conocido, ya sea de las declaraciones o de los manifestados ante otras autoridades u Organismos Públicos.
+
+A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -1361,7 +1407,9 @@ IX.- No conservar la documentación comprobatoria de sus operaciones gravadas po
 
 X.- No expedir la documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, o en su caso, expedirlas sin los requisitos que establecen las mismas.
 
-XI.- No proporcionar información o documentación a las Autoridades Fiscales cuando éstas lo requieran, u obstaculizar la obtención de la misma.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+XI.- No proporcionar información o documentación a las autoridades fiscales cuando éstas lo requieran, hacerlo fuera del plazo establecido en las leyes fiscales estatales u obstaculizar la obtención de la misma.
 
 XII.- Resistirse por cualquier medio al ejercicio de las facultades de la Autoridad Fiscal.
 
@@ -1459,11 +1507,15 @@ XIV.- De $ 115.00 a $ 287.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
-I.- El 50 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
-II.- El 100 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final.
+I.- El 50 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación del documento determimante del crédito.
 
-III.- El 150 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios después de la notificación del documento determinante del crédito.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+II.- El 100 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios después de la notificación del documento determinante del crédito.
+
+III.- (DEROGADA, P.O. 11 DE ABRIL DE 2003).
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1577,7 +1629,9 @@ I.- Personalmente o por correo certificado con acuse de recibo los citatorios, l
 
 II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos a los señalados en la fracción anterior.
 
-III.- Por estrados en los casos que señalen las Leyes Fiscales y este Código.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+
+III.- Por estrados cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación o se oponga a recibir la notificación en el momento de la diligencia, así como en los casos que señalen las Leyes Fiscales y este Código.
 
 IV.- Por edictos únicamente en el caso de que la persona a quien deba notificarse, hubiera fallecido y no se conozca al representante de la sucesión; hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional.
 
@@ -2332,3 +2386,9 @@ El presente Acuerdo entrará en vigor a partir de su publicación en el Periódi
 P.O. 3 DE JULIO DE 2002.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2003.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
