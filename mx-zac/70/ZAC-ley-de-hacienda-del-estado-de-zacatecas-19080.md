@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2004-08-25"
+last_updated: "2004-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -499,7 +499,11 @@ DEL PAGO
 
 El Impuesto Sobre Tenencia o Uso de Vehículos Estatal, se pagará conforme a lo siguiente:
 
-I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 4 cuotas
+Salario Minimo
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 6 cuotas
 
 II. Remolques 2 cuotas
 
@@ -513,7 +517,9 @@ El pago de este impuesto deberá efectuarse anualmente dentro de los tres primer
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO Y DE LA COORDINACION GENERAL JURIDICA
+### CAPITULO II. DE LOS DERECHOS
+
+SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y COORDINACION GENERAL JURIDICA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -543,7 +549,7 @@ La Federación, los municipios, los organismos públicos de seguridad social, de
 
 Las certificaciones que soliciten las autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las autoridades judiciales con el mismo fin, están exentas del pago de derechos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
@@ -551,49 +557,21 @@ Las certificaciones que soliciten las autoridades para surtir efectos probatorio
 
 Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Expedición de certificados de:
+I. Expedición de certificados de: Salario Mínimo
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a). Remisión parcial de la pena 4 cuotas;
 
-a) Remisión parcial de la pena 2 cuotas;
+b). Libertad condicional 3 cuotas;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+c). Indulto 12 cuotas;
 
-b) Libertad condicional 2 cuotas;
+d). Preliberaciones 3 cuotas
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+e) Constancias y certificaciones 1 cuota
 
-c) Indulto 10 cuotas;
-
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
-
-d) Preliberaciones 2 cuotas
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
-
-II. Legalización de las firmas ológrafas de Servidores Públicos y de Notarios Públicos:
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-a) Certificado de estudio 2 cuotas
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-b) Título profesional 2 cuotas
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-c) De cualquier materia 2 cuotas
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-d) De notarios públicos 2 cuotas
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-e) De exhortos 2 cuotas
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -607,57 +585,115 @@ BIS.- Los servicios que preste la Coordinación General Jurídica a través de:
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
-I. La Dirección de Fraccionamientos:
+I. La Dirección de Fraccionamientos: Salarios Mínimos
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Expedición de Título 5 cuotas
+a) Expedición de Título 6 cuotas
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 b) Constancia para Procampo 0 cuotas
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) Autorización para crédito con banco 1.5 cuotas
+c) Otras constancias 1 cuota
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-d) Adjudicaciones 5% avalúo catastral;
+d) Autorización para crédito con bancos 3 cuotas
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-e) Copia certificada del título 5 cuotas
+e) Adjudicaciones 6 6% avalúo catastral;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-f) Copia simple año 2002 $3.20
+f) Copia certificada del título 5 cuotas
 
-siguiente: $1.70
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+g) Copia simple año 2005 Primera $3.80
 
-g) Copia simple año 2001 $4.80
+Siguiente $2.05
 
-siguiente: $1.70
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+h) Copia simple año 2004 Primera $5.70
 
-h) Copia simple año 2000 $ 6.00
+Siguiente $2.05
 
-siguiente: $1.70
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+i) Copia simple año 2003 y anteriores Primera $7.20
 
-i) Copia simple de título 2 cuotas;
+Siguiente $2.05
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-j) Por cambio de uso de suelo 1.5 cuotas;
+j) Copia simple de título 2 cuotas;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-k) Copia certificada simple (de una a cinco) 2 cuotas;
+k) Por cambio de uso de suelo 6 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+l) Copia certificada de documentos distintos a
+
+títulos (de una a cinco fojas) 2 cuotas
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+m) Inspección física u ocular 10 cuotas
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+n) Trámite relativo a la reproducción en copia
+
+heliográfica de plano general y/o fraccionamiento 25 cuotas
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+o) Diligencias de apeo o deslinde (levantamiento topográfico
+
+de predios rústicos
+
+TERRENO DERRENO DE TERRENO
+
+PLANO LOMERÍO ACCIDENTADO
+
+1) Hasta 5-00-00 has. 5 cuotas; 10 cuotas; 25 cuotas;
+
+2) De 5-00-01 has. a
+
+15-00-00 has 10 cuotas; 15 cuotas; 30 cuotas
+
+3) De 15-00-01 has. a
+
+30-00-00 15 cuotas; 20 cuotas, 35 cuotas;
+
+4) De 30-00-01 has. a
+
+50-00-00 20 cuotas; 25 cuotas; 40 cuotas;
+
+5) De 50-00-01 has. a
+
+80-00-00 25 cuotas; 30 cuotas; 45 cuotas;
+
+6) De 80-00-01 has. a
+
+110-00-00 30 cuotas; 35 cuotas; 50 cuotas;
+
+7) De 110-00-01 has. a
+
+200-00-00 45 cuotas; 60 cuotas; 80 cuotas;
+
+8) De 200-00-01 has. en
+
+adelante, se aumentará por
+
+cada hectárea excedente 1 cuota; 1 cuota; 1 cuota;
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
@@ -671,21 +707,41 @@ a) Expedición de acta 1 cuota;
 
 b) Expedición de constancia de inexistencia 1 cuota;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) Expedición de segundo testimonio 1 cuota por hoja
+c) Remisión de actas a personas radicadas fuera del Estado 4 cuotas;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-d) Certificación del protocolo de los notarios 1 cuota por libro;
+d) Trámite administrativo de aclaración de acta de registro civil 1 cuotas;
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
+e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2004)
 
-e) Expedición de copia certificada 1 cuota por hoja;
+f) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-f) Remisión de actas a personas radicadas fuera del Estado 4 cuotas.
+III. La Dirección de Notarías:
+
+a) Expedición de segundo testimonio 1 cuota por hoja;
+
+b) Certificación del protocolo de los notarios 1 cuota por libro;
+
+c) Expedición de copia certificada. 1 cuota por hoja;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+IV. La unidad de legalización de firmas adscrita a la Coordinación General Jurídica:
+
+a) Certificado de estudio 2 cuotas;
+
+b) Título profesional. 2 cuotas;
+
+c) De cualquier materia. 2 cuotas;
+
+d) Notarios públicos. 2 cuotas
+
+e) Apostilla de documentos. 3 cuotas;
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -765,17 +821,29 @@ Los servicios que presten por concepto de:
 
 I. En los casos de registro y expedición de placas tratándose de vehículos nuevos o de aquellos que no requieran canje; o cuando se autorice por parte de la Legislatura del Estado el canje parcial de placas para el parque vehicular de esta Entidad, conforme a lo establecido por la Norma Oficial Mexicana que para tal efecto publica la Secretaría de Comunicaciones y Transportes y que obliga a cambiar placas en un periodo no mayor a tres años, el registro y expedición de las mismas, incluyendo calcomanías y tarjeta de circulación con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del año al que corresponda el pago, de la siguiente manera:
 
-a) Vehículo de servicio particular 13 cuotas;
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Vehículo de servicio público 13 cuotas;
+Salarios Mínimos
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+a) Vehículo de Servicio Particular 15 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+b) Vehículo de Servicio Público. 15 cuotas;
 
 c) Demostración de vehículo de agencia autorizada. 20 cuotas;
 
-d) Remolque 5 cuotas
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+d) Remolque 7 cuotas;
 
 II. Registro y expedición de placas incluyendo tarjeta de circulación, para:
 
-a) Motocicleta y similares 3 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+a) Motocicleta y similares 5 cuotas;
 
 b) Bicicleta 1 cuota;
 
@@ -801,33 +869,57 @@ El refrendo de la tarjeta de circulación y expedición de calcomanía con vigen
 
 I. Vehículos de servicio particular:
 
-a) Modelos 2004 12.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Modelos 2003 11.5 cuotas;
+a) Modelos 2005 14.5 cuotas
 
-c) Modelos 2002 10.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-d) Modelos 2001 9.5 cuotas;
+b) Modelos 2004 13.5 cuotas;
 
-e) Modelos 2000 8.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-f) Modelos 1999 y anteriores 7.5 cuotas;
+c) Modelos 2003 12.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+d) Modelos 2002 11.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+e) Modelos 2001 10.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+f) Modelos 2000 y anteriores 9.5 cuotas;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Vehículos de servicio público:
 
-a) Modelos 2004 12.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Modelos 2003 11.5 cuotas;
+a) Modelos 2005-03-10 14.5 cuotas;
 
-c) Modelos 2002 10.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-d) Modelos 2001 9.5 cuotas;
+b) Modelos 2004 13.5 cuotas;
 
-e) Modelos 2000 8.5 cuotas;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-f) Modelos 1999 y anteriores 7.5 cuotas;
+c) Modelos 2003 12.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+d) Modelos 2002 11.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+e) Modelos 2001 10.5 cuotas;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+f) Modelos 2000 9.5 cuotas;
 
 III. Remolques 5 cuotas;
 
@@ -843,7 +935,7 @@ El almacenamiento y guarda en recintos oficiales de bienes embargados conforme a
 
 Por día: 1 cuota;
 
-### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO V. SERVICIOS DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTICULO 51.
 
@@ -1049,31 +1141,37 @@ XV. Los conceptos no considerados en el presente artículo se tasarán de acuerd
 
 Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización del equipo e instalaciones del Registro Público, así como la capacitación continua de su personal, conforme al contrato de fideicomiso que para tal efecto se suscribió.
 
+> <small>(REFORMADA SU DENOMINACION, P.O.22 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO VI. SERVICIOS DE OBRAS PÚBLICAS
 
 ###### ARTICULO 52.
 
 Los servicios que presten por concepto de:
 
-I. Calificación Registral, por testimonio o documento ½ cuota
+Salarios Mínimos
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+I. Calificación Registral, 1 cuota
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-a) Tratándose de inmuebles con valor de hasta siete veces el salario
+a) Tratándose de inmuebles con valor de hasta siete veces el
 
-mínimo vigente elevado al año, se cubrirá la tarifa mínima general por
+salario mínimo vigente elevado al año, se cubrirá la tarifa
 
-inmueble equivalente a: 12 cuotas
+mínima general por inmueble equivalente a: 12 cuotas
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y 14.0 veces el
+b) Tratándose de inmuebles cuyo valor se sitúe entre las 7.0 y
 
-salario mínimo vigente elevado al año se cubrirá la tarifa base por
+14.0 veces el salario mínimo vigente elevado al año se
 
-inmueble de: 30 cuotas
+cubrirá la tarifa base por inmueble de: 30 cuotas
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
@@ -1169,7 +1267,9 @@ l) División de copropiedad, por cada uno de los predios resultantes.
 
 IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en 10 cuotas, hasta un monto equivalente a siete veces el salario mínimo general elevado al año, por el valor superior a éste, al 1%;
 
-X. Contrato de promesa de venta, al .5% hasta un monto equivalente a 7.0 veces el salario mínimo general elevado al año y por la cantidad superior a esta, al .75%, hasta el monto límite establecido en la fracción II, inciso b, de éste artículo.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+X. Contrato de promesa de venta, se tasará al .5% sobre el valor que se manifieste en el documento.
 
 XI. Contrato de apertura de crédito: 7 cuotas;
 
@@ -1179,7 +1279,9 @@ Tratándose de reestructuración de crédito o de convenios de reconocimiento de
 
 Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dentro del programa federal de PROCAMPO, o el que se instituya en su caso .09% sobre el importe de la operación que se consigne en el documento.
 
-En materia de vivienda o terreno a que se refieren los incisos a) y b) de la fracción II de este artículo, hasta 7 y 14 veces el salario mínimo general elevado al año respectivamente, por el registro del contrato de hipoteca y crédito simple, se tasará al .125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+En materia de crédito para adquisición de vivienda a que se refieren los incisos a) y b) de la fracción II de este artículo, se tasará al .125% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
 XIII. Inscripción de documentos que contengan los siguientes actos: 10 cuotas
 
@@ -1209,11 +1311,15 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-XV. Registro de personas morales o aumento de su capital social, .30% sobre
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-el monto de capital social o sus aumentos, en los casos que dicho capital
+XV. Registro de personas morales o aumento de su capital
 
-no exceda de $50,000.00 se pagará: 10 cuotas
+social, .30% sobre el monto de capital social o sus
+
+aumentos, en los casos que dicho capital
+
+no exceda de $140,000.00 se pagarán: 12 cuotas
 
 XVI. Registro de documentos que contengan los siguientes actos:
 
@@ -1231,9 +1337,11 @@ e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de p
 
 XVII. Cancelación de inscripción o anotación: 4 cuotas.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 53.
 
-Contrato innominado: 24 cuotas;
+Contrato innominado: 27 cuotas.
 
 ###### ARTICULO 54.
 
@@ -1285,13 +1393,15 @@ encuentren fuera del distrito judicial en el que se dirija la petición, se cobr
 
 una tarifa adicional por documento equivalente a: 6 cuotas
 
-Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento, equivalente a: 6 cuotas (sic);
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial de la capital del estado, y solicitado en la dirección, se cobrará una tarifa adicional por documento, equivalente a: 10 cuotas;
 
 Los conceptos no considerados en el presente capítulo, se tasarán de acuerdo con el concepto equiparable en cuotas de salario mínimo.
 
 Del ingreso percibido por concepto de registro público, un 5% será destinado a la modernización de su equipo e instalaciones, así como la capacitación continua de su personal, conforme al contrato de fideicomiso autorizado para tal efecto.
 
-### CAPITULO VII. AUTORIDADES DE CONTRALORIA INTERNA
+### CAPITULO VII. SERVICIOS DE CONTRALORIA INTERNA
 
 ###### ARTICULO 58.
 
@@ -1377,37 +1487,47 @@ VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarr
 
 VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados 3 cuotas.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+VIII. Expedición de dictamen en materia de planeación y desarrollo urbano: 4 cuotas.
+
 ###### ARTICULO 59.
 
 Los servicios prestados por concepto de inscripción a concurso: 34 cuotas;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Por cada disco magnético que se proporcione a los concursantes: $7.70;
+I. Por cada disco magnético que se proporcione a los concursantes: $9.10;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Por cada foja de la base y demás documentos que se proporcionen a los concursantes: $ 3.40;
+II. Por cada foja de la base y demás documentos que se proporcionen a los concursantes: $ 3.85 c/u;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+Salarios Mínimos
 
-III. Por cada copia heliográfica de los planos que se proporcionen: $1.50;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+III. Por cada copia heliográfica de los planos que se proporcionen: $1.55 cuotas;
 
-IV. Sobre tamaño legal para cada paquete de concurso: $2.80;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+IV. Sobre tamaño legal para cada paquete de concurso: $3.00;
 
-V. Costo por inscripción a concurso en obra: 42 cuotas.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+V. Costo por inscripción a concurso en obra: 44 cuotas.
 
-VI. Costo por inscripción a concurso en suministro: 28 cuotas.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Costo por inscripción a licitaciones de suministros,
+
+servicios y arrendamientos: 30 cuotas.
 
 ###### ARTICULO 60.
 
 Las verificaciones posteriores a que se refiere el artículo anterior, deberán solicitarse anualmente, durante el mes de enero.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO VIII. SERVICIOS DE EDUCACIÓN Y CULTURA
 
@@ -1415,9 +1535,29 @@ Las verificaciones posteriores a que se refiere el artículo anterior, deberán 
 
 Los servicios que presten por concepto de:
 
-I. Inscripción con vigencia de un año en el padrón de proveedores y contratistas: 15 cuotas
+Salarios Mínimos
 
-II. Revalidación de la inscripción: 7 cuotas
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+I. Inscripción con vigencia de un año en el padrón de
+
+proveedores y contratistas: 22 cuotas
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+II. Revalidación de la inscripción: 11 cuotas
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+III. Reposición de la cédula de registro 5 cuotas;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+IV. Inscripción a concursos de adquisición por invitación 12 cuotas
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+V. Inscripción a concursos de obra por invitación 22 cuotas;
 
 ### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
 
@@ -1441,45 +1581,45 @@ III. Expedición de duplicados de certificados de estudios de:
 
 a) Primaria o secundaria $ 22.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Academias $ 27.50;
+b) Academias $ 28.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) Nivel medio superior $ 27.50;
+c) Nivel medio superior $ 28.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-d) De tipo superior $ 38.50.
+d) De tipo superior $ 40.00;
 
 IV. Práctica de examen extraordinario por materia:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) De educación secundaria $ 8.30;
+a) De educación secundaria $ 9.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) De nivel medio superior o academias $ 11.00;
+b) De nivel medio superior o academias $ 12.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) De tipo superior $ 16.50.
+c) De tipo superior $ 17.00;
 
 V. Exámenes a título de suficiencia:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) De educación primaria $ 16.50;
+a) De educación primaria $ 17.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) De educación secundaria, por materia $ 11.00;
+b) De educación secundaria, por materia $ 12.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) De tipo superior, por materia $ 27.50.
+c) De tipo superior, por materia $ 28.00;
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
@@ -1491,19 +1631,19 @@ a) De centros de capacitación para el trabajo o academias 1 cuota
 
 b) De idiomas 1 cuota
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) De tipo superior $55.00;
+c) De tipo superior $57.00;
 
 VII. Revalidación de estudios de:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Primaria $ 11.00;
+a) Primaria $ 12.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Secundaria, por grado $ 27.50;
+b) Secundaria por grado $ 29.00;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1513,37 +1653,35 @@ c) Tipo medio superior 6 cuotas
 
 d) Tipo superior 16 cuotas
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $ 5.50;
+VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $ 6.00;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio $ 11.00.
+IX. Expedición de copias certificadas de documentos, por cada foja carta u oficio $ 12.00;
 
 X. Reposición de certificados:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) De primaria o secundaria $ 33.00;
+a) De primaria o secundaria $ 34.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) De tipo medio superior o academias $ 49.50;
+b) De tipo medio superior o academias $ 50.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) De tipo superior $ 66.00;
+c) De tipo superior $ 68.00;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XI. Compulsa de documentos, por foja: $ 7.70;
+XI. Compulsa de documentos, por foja: $ 8.00;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XII. Por cualquier otra certificación o expedición de constancia distintas a
-
-las señaladas en las fracciones anteriores: $ 25.00;
+XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $ 27.00;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1553,43 +1691,45 @@ XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de va
 
 XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles preescolar y medio superior o equivalente y de formación para el trabajo sea cual fuere la modalidad 15 cuotas
 
-XV. Acreditación y certificación de conocimiento de tipo elemental:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+XV. Acreditación y certificación de conocimientos de tip (sic) elemental:
 
-a) Completo $ 22.00;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) Completo $ 25.00;
 
-b) Por área $ 11.00;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+b) Por área $ 12.00;
 
-c) Por grado $ 5.50.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+c) Por grado $ 6.00;
 
 XVI. Acreditación y certificación de conocimiento, por materia de:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Secundaria $ 11.50;
+a) Secundaria $ 12.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Preparatoria $ 16.50;
+b) Preparatoria $ 17.00;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-c) Tipo superior $ 27.50.
+c) Tipo superior $ 28.00;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XVII. Revisión de certificados de estudios, por grado escolar $ 5.50;
+XVII. Revisión de certificados de estudios, por grado escolar $ 6.00;
 
 XVIII. Equivalencia de estudios:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Secundaria, por grado $ 27.50;
+a) Secundaria, por grado $ 28.00;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1599,73 +1739,89 @@ b) Tipo medio superior 6 cuotas
 
 c) Tipo superior 16 cuotas
 
-XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+XIX. Inspección y vigilancia de establecimientos educativos particulares:
 
-a) De tipo inicial y preescolar $ 4.50;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) De tipo inicial y preescolar $ 5.00;
 
-b) De tipo elemental $ 6.50;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+b) De tipo elemental $ 7.00;
 
-c) De tipo medio, academias comerciales o centros de capacitación para el trabajo $9.00;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+c) De tipo medio, academias comerciales o centros de capacitación para el trabajo $10.00;
 
-d) De tipo superior $ 12.00;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+d) De tipo superior $ 13.00;
 
-XX. Registro de colegio de profesionistas 28 cuotas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+XX. Registro de colegio de profesionistas 50 cuotas;
 
-XXI. Registro de títulos profesionales $ 16.50.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+XXI. Registro de socios a un colegio de profesionistas $ 20.00;
 
-XXII. Autorización provisional para ejercer como pasante 3 cuotas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XXIII. Legalización de certificados:
+XXII. Registro de títulos profesionales $ 19.00
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Secundaria $ 27.50;
+XXIII. Certificación o constancia de registro de título profesional o grado académico $ 150.00
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-b) Medio superior $ 38.50;
+XXIV. Autorización provisional para ejercer como pasante 5 cuotas;
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad. 15 cuotas.
+XXV. Autorización provisional para ejercer con título en trámite 5 cuotas.
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59 cuotas.
+XXVI. Timbre con holograma para trámite de registro de título y expedición de cédulas profesionales $ 20.00
 
-### CAPITULO X. SERVICIOS DE LA DIRECCION DE TRANSPORTE PUBLICO Y VIALIDAD
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+XXVII. Legalización de certificados:
+
+a) Secundaria $ 28.00;
+
+b) Medio superior $ 39.00;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad 15 cuotas;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+XXIX. Por solicitud, estudio y resolución de trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
+
+### CAPITULO X. SERVICIOS DE SEGURIDAD PUBLICA Y VIALIDAD
 
 ###### ARTICULO 63.
 
 Los servicios prestados por concepto de:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Autorización de traslado de cadáver: $ 22.00
+I. Autorización de traslado de cadáver: $ 30.00
 
-II. Otorgamiento a proveedores de las bases para concurso de
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-a) Adquisiciones, hasta 10 fojas: 12 cuotas
+II. Otorgamiento a proveedores de las bases para concurso de:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+a) Adquisiciones, hasta 10 fojas: 14 cuotas
 
-b) Por cada foja adicional $ 27.50
+b) Por cada foja adicional $ 30.00
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. SERVICIOS DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE
 
@@ -1683,9 +1839,7 @@ a) Operador de servicio público 7 cuotas;
 
 b) Chofer 9 cuotas;
 
-> <small>(REFORMADO [N. DE E. ANTES INCISO D], P.O. 1 DE ENERO DE 2003)</small>
-
-c) Automovilista 4 cuotas;
+c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO [N. DE E. ANTES INCISO E], P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1893,6 +2047,8 @@ c) Tipo específico 148 cuotas.
 
 Por la prestación de los siguientes servicios:
 
+Salarios Mínimos
+
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
 I. Reproducción de material didáctico, ecológico y ambiental $ 1.30 por foja;
@@ -1921,9 +2077,13 @@ VI. Asesoría y capacitación en materias de ecología y medio ambiente, por cad
 
 VII. Registro en el Padrón de Prestadores de Servicio Ecológico y ambiental 42 cuotas;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Reproducción en plotter 3.5 cuotas.
+VIII. Reproducción en plotter 4 cuotas.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+IX. Autorización por simulacro de incendio 5 cuotas.
 
 ### CAPÍTULO ÚNICO
 
@@ -2001,39 +2161,53 @@ III. De capitales y valores del Estado, sus rendimientos;
 
 IV. Los provenientes del Periódico Oficial. Estos se causarán conforme a la siguiente tarifa:
 
-a) Por suscripción;
+a) Por suscripción; Salarios Mínimos
 
-1.- Por semestre 6 cuotas
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+1.- Por semestre 7 cuotas
 
 2.- Por año 10 cuotas;
 
 b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
 
-1.- Por semestre 11 cuotas
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-2.- Por año 22 cuotas;
+1.- Por semestre 15 cuotas
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+2.- Por año 25 cuotas;
 
 c) Por enviar al extranjero;
 
-1.- Por semestre 16 cuotas
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+1.- Por semestre 18 cuotas
 
 2.- Por año 26 cuotas;
 
 V. Valor del ejemplar;
 
-a) Del día $ 3.60
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
+a) Del día $ 4.00
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 b) De fechas anteriores;
 
-1.- Hasta seis meses $ 4.50
+1.- Hasta seis meses $ 5.00
 
-2.- Hasta de un año $ 5.20
+2.- Hasta de un año $ 6.00
 
-3.- De más de un año $ 5.20
+3.- De más de un año $ 8.00
 
-VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán las siguientes cuotas por inserción;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-Por publicación, por palabra $ 0.16;
+VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción;
+
+Por publicación, por palabra $ 0.20;
 
 ###### ARTICULO 71.
 
@@ -2126,3 +2300,7 @@ P.O. 31 DE DICIEMBRE DE 2003.
 P.O. 25 DE AGOSTO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
