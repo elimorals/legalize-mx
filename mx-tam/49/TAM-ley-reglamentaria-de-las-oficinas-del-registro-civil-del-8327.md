@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "1953-03-25"
+last_updated: "1954-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1954.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -197,181 +197,11 @@ R E G U L A R I Z A C I O N E S
 
 El registro de actos celebrados en el extranjero o en alta mar, ya sean nacimientos, matrimonios o defunciones, causarán las cuotas correspondientes al acto.
 
+> <small>(DEROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
+
 VI.
 
 I N H U M A C I O N E S Y E X H U M A C I O N E S
-
-1.- En los Cementerios de Tampico, Matamoros, C. Victoria, Nuevo Laredo, Cd. Madero, Cd. Reynosa y Cd. Mante:
-
-En el Primer tramo:
-
-a).- Por cinco años............................................................................................$ 12.00
-
-b).- Refrendo por otros cinco años.................................................................." 9.00
-
-c).- A perpetuidad............................................................................................. " 60.00
-
-En el Segundo tramo:
-
-a).- Por cinco años.............................................................................................$ 9.00
-
-b).- Refrendo por otros cinco años..................................................................." 7.00
-
-c).- A perpetuidad.............................................................................................. "40.00
-
-En el Tercer tramo:
-
-a).- Por cinco años................................................................................................" 5.00
-
-b).- Refrendo por otros cinco años..................................................................... "4.00
-
-c).- A perpetuidad............................................................................................ .... " 20.00
-
-Sepulcros familiares con opción a tres gavetas y tres inhumaciones:
-
-a).- En el primer tramo........................................................................................ $ 300.00
-
-b).- En el segundo tramo....................................................................................." 150.00
-
-c).- En el tercer tramo.........................................................................................." 100.00
-
-Lotes a perpetuidad para familias, con superficie de 16 a 18 metros cuadrados:
-
-a).- En el primer tramo.................................................................................. $ 400.00
-
-b).- En el segundo tramo............................................................................... " 300.00
-
-c).- En el tercer tramo...................................................................................." 200.00
-
-Por exhumaciones permitidas a petición de parte interesada.................. $25.00
-
-Por depósito de urnas en lugar destinado al efecto...................................." 10.00
-
-Por construcción de monumentos definitivos de mampostería, mármol o metal:
-
-a).- En el primer tramo.................................................................................... $20.00
-
-b).- En el segundo tramo................................................................................ " 10.00
-
-c).- En el tercer tramo......................................................................................" 5.00
-
-Por inhumación de restos se pagarán solamente los derechos de ruptura cuando la inhumación se verifique en sepultura o lote a perpetuidad con el consentimiento del propietario. En caso contrario se pagará también el valor de la sepultura o lote conforme a Tarifa.
-
-2.- En los Cementerios de Altamira, Cd. Camargo, Hidalgo, Jaumave, Cd. Mier, San Fernando, Cd. Tula y Villagrán:
-
-En el primer tramo:
-
-a).- Por cinco años........................................................................................... $ 10.00
-
-b).- Refrendo por otros cinco años ................................................................." 7.00
-
-c).- A perpetuidad .......................................................................................... .." 40.00
-
-En el segundo tramo:
-
-a).- Por cinco años.............................................................................................$ 7.00
-
-b).- Refrendo por otros cinco años.................................................................. " 5.00
-
-c).- A perpetuidad ............................................................................................." 30.00
-
-En el tercer tramo:
-
-a).- Por cinco años .............................................................................................$4.00
-
-b).- Refrendo por otros cinco años...................................................................." 3.00
-
-c).- A perpetuidad................................................................................................"15.00
-
-Sepulcros familiares con opción a tres gavetas y tres inhumaciones:
-
-a).- En el primer tramo..................................................................................... $ 200.00
-
-b).- En el segundo tramo................................................................................. "100.00
-
-c).- En el tercer tramo....................................................................................... " 75.00
-
-Lotes a perpetuidad para familias, con superficie de 16 a 18 metros cuadrados:
-
-a).- En el primer tramo ................................................................................... $300.00
-
-b).- En el segundo tramo................................................................................. " 250.00
-
-c).- En el tercer tramo....................................................................................... " 175.00
-
-Por exhumaciones permitidas a petición de parte interesada.................... " 15.00
-
-Por depósito de urnas en lugar destinado al efecto..................................... " 8.00
-
-Por ruptura en lotes para familia o sepulcro aislado................................... " 5.00
-
-Por construcción de monumentos definitivos de mampostería, mármol o metal:
-
-a).- En primer tramo:.......................................................................................... " 10.00
-
-b).- En segundo tramo:......................................................................................." 7.00
-
-c).- En tercer tramo............................................................................................ " 3.00
-
-Por inhumación de restos se pagarán solamente los derechos de ruptura cuando la inhumación se verifique en sepultura o lote en perpetuidad con el consentimiento del propietario. En caso contrario, se pagará también el valor de la sepultura o lote conforme a Tarifa.
-
-3.- En los cementerios de Abasolo, Villa de Casas, Güémez, Jiménez, Llera, Padilla, Soto la Marina, San Carlos, Burgos, Cruillas, Guerrero, Méndez, San Nicolás, Bustamante, Ocampo, Miquihuana, Palmillas, Aldama, Antiguo Morelos, Gómez Farías, González, Nuevo Morelos y Xicoténcatl, y de las distintas Congregaciones donde funcionen Oficinas del Registro Civil:
-
-En el primer tramo:
-
-a).- Por cinco años............................................................................................ $ 8.00
-
-b).- Refrendo por otros cinco años...................................................................." 6.00
-
-c).- A perpetuidad.............................................................................................. " 30.00
-
-En el Segundo Tramo:
-
-a).- Por cinco años............................................................................................. " 6.00
-
-b).- Refrendo por otros cinco años...................................................................." 4.00
-
-c).- A perpetuidad............................................................................................... " 20.00
-
-En el tercer tramo:
-
-a).- Por cinco años............................................................................................. $3.00
-
-b).- Refrendo por otros cinco años....................................................................." 2.00
-
-c).- A perpetuidad................................................................................................ " 10.00
-
-Sepulcros familiares con opción a tres gavetas y tres inhumaciones:
-
-a).- En el primer tramo........................................................................................ $150.00
-
-b).- En el segundo tramo.................................................................................... " 100.00
-
-c).- En el tercer tramo.......................................................................................... " 60.00
-
-Lotes a perpetuidad para familias, con superficie de 16 a 18 metros cuadrados:
-
-a).- En el primer tramo........................................................................................ $ 250.00
-
-b).- En el segundo tramo..................................................................................... " 200.00
-
-c).- En el tercer tramo.......................................................................................... " 150.00
-
-Por exhumaciones permitidas a petición de parte interesada....................... $10.00
-
-Por depósito de urnas en lugar destinado al efecto.........................................." 7.00
-
-Por ruptura en lotes para familias o sepulcro aislado........................................" 4.00
-
-Por construcción de monumentos definitivos de mampostería, mármol o metal:
-
-a).- En el primer tramo............................................................................................ $5.00
-
-b).- En el segundo tramo......................................................................................... " 3.00
-
-c).- En el tercer tramo.............................................................................................. " 1.00
-
-Por inhumación de restos se pagarán solamente los derechos de ruptura cuando la inhumación se verifique en sepultura o lote a perpetuidad con el consentimiento del propietario. En caso contrario, se pagará también el valor de la sepultura o lote conforme a Tarifa.
 
 VII.
 
@@ -379,11 +209,11 @@ CERTIFICACIONFS (sic)
 
 1.- Certificaciones de constancias que obren en los libros del Registro Civil, siempre que consten de una sola hoja de papel especial (forma No. 86) y que se soliciten dentro de los treinta días siguientes a partir de la fecha en que se haya autorizado el acto de que se trate, por cada una......................................................................................... $ 1.00
 
-2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno................................................................." 2.00
+2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno........................................................" 2.00
 
-3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ............................................................................................" 3.00
+3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ..................................................................................." 3.00
 
-4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno............................................................................................. " 5.00
+4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno.................................................................................... " 5.00
 
 5.- No causarán más derechos que los del papel especial para certificaciones (Forma No. 86), los certificados que se expidan para acreditar su estado civil a viudas pensionistas de empleados de la Federación o del Estado, con sueldo menor de $150.00 mensuales.
 
@@ -533,9 +363,7 @@ Para los actos de matrimonio será necesario presentar por duplicado, al Oficial
 
 ### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
 
-AArt. 46.- Las actas de fallecimiento se inscribirán en el libro respectivo, asentándose los datos del certificado de defunción o los que el Oficial del Registro Civil adquiera, según el tenor de la declaración o declaraciones que se le hagan, y las cuales deberán ser firmadas por dos testigos, cuando en el lugar no haya facultativo titulado que certifique la defunción.
-
-### CAPITULO VI.. DE LOS CEMENTERIO, (SIC) DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
+### CAPITULO VI.. DE LOS CEMENTERIOS, DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
 
 ###### Art. 46.
 
@@ -561,219 +389,191 @@ En los casos de inundación, incendio y cualquiera otro en que no sea fácil ver
 
 Cuando a consecuencia de un delito o de un accidente se encuentre en el campo un cadáver cuyo estado de descomposición haga imposible trasladarlo a un cementerio, si no es con perjuicio de la salud pública, podrá la autoridad judicial que inicie el procedimiento, acordar la inhumación en el lugar que le parezca más apropiado, dada la urgencia del caso, levantándose acta en forma, de la que remitirá copia literal al Oficial del Registro Civil para que la asiente en el libro respectivo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
+
 ### CAPITULO VII. DIRECCION GENERAL DEL REGISTRO CIVIL
 
 ###### Art. 52.
 
-En cada población, villa o congregación, habrá por lo menos un cementerio apropiado al número de habitantes del lugar.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 53.
 
-Los Oficiales del Registro Civil tendrán a su cargo la administración de todos los cementerios que haya en sus respectivas demarcaciones, y cuidarán del exacto cumplimiento de las disposiciones reglamentarias correspondientes
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 54.
 
-El Guardián o Guardianes necesarios para cada cementerio, será nombrados por el Ejecutivo del Estado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 55.
 
-Los cementerios que se hayan clausurado continuarán bajo la administración del Oficial del Registro Civil de la demarcación y a cargo de la vigilancia de un Guardián, que cuidará de su aseo y limpieza y abrirá el cementerio cada vez que algún particular lo solicite, pero sin permitir que se extraigan restos, cenizas, lápidas u otros objetos, sin orden escrita de su inmediato superior.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 56.
 
-El permiso para la ruptura de sepulcros se expedirá, invariablemente, por el Oficial del Registro Civil de la demarcación. Para la fosa común, bastará que los deudos del finado presenten al Oficial del Registro Civil la orden del Ayuntamiento, para que este ordene la ruptura del sepulcro, la que será por cuenta de los deudos o por cuenta del Ayuntamiento. Cuando los deudos no paguen inmediatamente los derechos correspondientes al primero, segundo o tercer tramos, según se solicite, la inhumación se hará en el cuarto tramo.
-
-Los Ayuntamientos siempre tendrán, a su costa, tres sepulcros abiertos, en el cuarto tramo.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 57.
 
-Los Guardianes y Sepulteros de los cementerios y campos mortuorios, no podrán hacer ninguna inhumación sin cerciorarse antes de que es realmente el cadáver de una persona lo que contiene en la caja.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 58.
 
-Todos los cementerios estarán circundados de muros, cercos o vallas, y cerrados con puerta que no permita la entrada de animales, y los encargados de ellos cuidarán de que estén constantemente aseados y, si fuere posible, plantados de árboles, arbustos, y plantas apropiadas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 59.
 
-Por razones de orden, de estética y comodidad, los cementerios se dividirán en tramos. Habrá sepulcros a perpetuidad para uno o varios cadáveres y lotes para familia. También se podrán adquirir sepulcros por cinco o diez años cuando el interesado no pueda adquirirlos a perpetuidad y con derecho a refrendo.
-
-Habrá en cada cementerio un tramo destinado para los cadáveres cuyos deudos sean pobres de solemnidad y que quedará exclusivamente a disposición de la Autoridad Municipal, la que dispondrá de él para proporcionar sepulcros gratuitos. En este tramo, pasados cinco años de la inhumación se hará la exhumación de los cadáveres, depositándose los restos en el lugar destinado para ello o entregándose a sus deudos para que les den nueva sepultura si así lo quisieren y previo el pago de los derechos respectivos.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 60.
 
-Los lotes para familias tendrán una dimensión de dieciocho metros cuadrados y contendrán el número de cadáveres que sea posible, dado el tamaño de las cajas que se depositen; en el concepto de que entre un cadáver y otro habrá una pared de mampostería de veinte centímetros de espesor y de que no se pondrá ningún cadáver encima de otro. La infracción de esta disposición amerita la perdida de los derechos que sobre el lote haya tenido su propietario.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 61.
 
-En los sepulcros para familias podrán depositarse hasta tres cadáveres, en gavetas de cemento que se construirán en los sepulcros de la siguiente manera:
-
-Los sepulcros para familias tendrán dos y medio metros de largo por un metro de ancho, y de profundidad los que sean necesarios según el número de gavetas que se construyan.
-
-Cuando el sepulcro sea adquirido para depositar tres cadáveres, se hará a la profundidad de dos metros; se revestirá el sepulcro de concreto y se cubrirá en la superficie con una loza de granito, cemento o mármol. El primer cadáver se colocará en la primera gaveta que estará en el fondo del sepulcro y se tapará con una losa de concreto cerrándola en forma definitiva. El segundo cadáver se pondrá en la gaveta siguiente y se procederá a taparlo en la forma indicada, es decir, con losa de concreto y en forma definitiva. En igual caso se procederá para el tercero y útimo (sic), de manera que la losa que lo cubra esté a medio metro de profundidad de la superficie.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 62.
 
-Las sepulturas para un solo individuo tendrán dos y medio metro de largo por un metro de ancho y otro y medio de profundidad.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 63.
 
-Al hacer la división de los cementerios en tramos, como lo expresa el artículo 59, se tendrá especial cuidado de que los sepulcros estén en el mismo sentido, evitando la irregularidad y el desorden, procurando que entre uno y otro tramo haya espacio de tres metros de ancho que facilite el tránsito sin profanar las tumbas y dentro de cada tramo se conservará con toda regularidad la distancia que se ha expresado de sesenta centímetros entre un sepulcro y otro, observando esta distancia de los lados del frente y de fondo.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
-Art. 63 (SIC).- Para construir un cementerio se observarán las disposiciones contenidas en el Reglamento Federal de Cementerios, Inhumaciones, Exhumaciones, Conservación y Traslación de Cadáveres, y las de carácter sanitario que estuvieren vigentes ya sea Federal o del Estado.
+Art. 63 (SIC).- (DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 65.
 
-La solicitud del permiso para establecer un cementerio en cualquier lugar del Estado, se tramitará por conducto del Ejecutivo
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 66.
 
-Por razones de utilidad pública, cualquier cementerio que quede cerrado dentro del perímetro urbano de una población, podrá ser clausurado en cualquier tiempo por resolución del Ejecutivo del Estado, a solicitud de las Autoridades Sanitarias o de oficio, previo dictamen de éstas. En estos casos, por ningún motivo se autorizarán la exhumación o el traslado de los restos a menos de que haya solicitud de parte interesada. Los cementerios clausurados se arreglarán de manera que semejen jardín y contribuyan al ornato de la ciudad o darle carácter.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 67.
 
-Todos los cementerios, aún los que sean de propiedad particular, quedarán bajo la vigilancia y control de las Oficinas del Registro Civil y sujetos a las disposiciones que dicten las Autoridades Sanitarias Federales o del Estado
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 68.
 
-En ningún cementerio se permitirán las inhumaciones de cadáveres en nichos, sino que se harán precisamente en el suelo y en fosas que tengan cuando menos un metro cincuenta centímetros de profundidad y estén distantes una de otra por lo menos sesenta centímetros, cuando las condiciones del terreno no exijan mayor distancia.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 69.
 
-Cuando un cementerio sea insuficiente para contener más cadáveres, se procederá a la construcción de uno nuevo en la forma y con los requisitos que fija este Reglamento. A tal efecto, el oficial del Registro Civil enviará al Gobierno del Estado los datos necesarios.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 70.
 
-En los casos de pestes, guerras y, en general, de calamidades públicas que produzcan consecuencias semejantes, se construirán cementerios especiales, previo dictamen de las Autoridades Sanitarias del lugar. Solamente por disposición de la misma Autoridad Sanitaria y si no se pone en peligro la salud pública, podrá usarse el cementerio común.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 71.
 
-En los lotes para familia sólo podrán ser inhumados los cadáveres de los familiares de la persona a quien se le haya extendido el título de propiedad, entendiéndose como tales, los ascendientes, descendientes, cónyuges, hermanos y parientes colaterales hasta el cuarto grado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 72.
 
-Las inhumaciones que no sean a perpetuidad podrán serlo por cinco a diez años, a voluntad del interesado, y con derecho a refrendo, previo el pago de los impuestos. En estos sepulcros podrá también el interesado construir monumentos si quisiere, por el término de la inhumación o del refrendo.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 73.
 
-Los títulos de terrenos para sepulcros a perpetuidad, ya sea para un solo individuo, para sepulcros familiares, o de lotes para familia, se extenderán por el Oficial del Registro Civil de la jurisdicción. Se tendrá especial cuidado de poner con claridad, cuando sea para un solo sepulcro, el nombre y apellido que llevó en vida la persona que deba ser inhumada; y si es lote para familia el nombre y apellido de los adquirentes, los derechos y la fecha, haciéndose las anotaciones respectivas en el libro especial de cementerios.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 74.
 
-Los que hayan adquirido terreno a perpetuidad, pasados cinco años de estar depositados los restos de un cadáver, podrán hacer una nueva inhumación en el mismo lugar, pagando los derechos de ruptura; en el concepto de que los restos del cadáver primitivamente depositado, quedarán en otro lugar o en el mismo, pero a mayor profundidad con objeto de que el último sepulcro tenga la profundidad prevenida por este Reglamento.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 75.
 
-Los propietarios de sepulcros a perpetuidad para familias, podrán admitir en sus lotes el cadáver de un extraño pagando doble derechos de ruptura.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 76.
 
-Antes de cinco años no podrá abrirse ningún sepulcro donde haya sido depositado un cadáver, aunque sea de propiedad particular y a perpetuidad, si no es en los casos prevenidos por este Reglamento.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 77.
 
-En todos los cementerios se destinará un local para construir un depósito en que se conservarán los restos o cenizas de los finados que no hayan sido enterrados a perpetuidad. El depósito en cada caso se hará en urnas con las condiciones de que se ha hecho mención en este capítulo, pagando el que solicite tal concesión, los derechos que señalan las tarifas respectivas.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 78.
 
-En el depósito a que alude el artículo anterior, se colocarán las urnas en armazones de madera o mampostería, por orden numérico y con el nombre de la persona de quien sean los restos, llevando el Oficial registro separado, que contendrá el día, mes y año, en que se constituya el depósito, en nombre de la persona de quien hayan sido los restos y el nombre de la persona que pida el depósito.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 79.
 
-Para el mejor arreglo y uniformidad, las urnas de que hablan los dos artículos anteriores, serán de manera que no ocupen mayor espacio que el de un cubo de cincuenta centímetros por lado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 80.
 
-Si alguna persona pidiera depositar legalmente los restos de un deudo fuera del local del cementerio, se le entregarán sin exigirle por ello más remuneración que el costo ordinario de la exhumación. Para los efectos de este artículo se entenderá que una persona tiene derecho legalmente de extraer del cementerio en que estén sepultados los restos de un deudo: cuando hubiere obtenido el permiso del Gobierno del Estado para trasladar dichos restos a otro cementerio.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 81.
 
-Los Oficiales del Registro Civil llevarán un libro especial de cementerios, en el que asentarán pormenorizadamente y por riguroso orden cronológico, las inhumaciones y exhumaciones que se hagan en los cementerios de su dependencia, expresando en cada inscripción el nombre de la persona inhumada o exhumada y su apellido, los nombres de los padres, el panteón en que haya tenido lugar el acto, el tramo, el número del sepulcro si es aislado, o si es un lote para familia; el nombre del propietario y el número del acta de defunción a que la partida se refiere y folio de la misma. En columna especial se anotará la perpetuidad o el refrendo, para el efecto de evitar que se abran indebidamente los sepulcros.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 82.
 
-Para los efectos del artículo anterior, los sepulcros de cada tramo serán numeradas convenientemente, a juicio del Oficial respectivo, de manera que la numeración sea fácil de comprender por el Guardián del cementerio.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 83.
 
-Además de las obligaciones establecidas en este Reglamento, los Guardianes y Sepultureros tendrán las que en seguida se expresan:
-
-I.- Cuidar de la conservación y limpieza del cementerio o campo mortuorio que esté a su cargo;
-
-II.- Cuidar, regar, trasplantar y podar los árboles que haya o se planten en los cementerios de su cargo;
-
-III.- Cuidar de que tanto los sepulcros de la fosa común como los de primero, segundo y tercer tramo, guarden la distancia prescrita en este Reglamento y estén todos numerados con placas de lata o madera, para su debida identificación ;
-
-IV.- Cuidar de que las lápidas, estatuas, inscripciones, macetones, barandales, cruces o retablos, que coloquen los interesados en los sepulcros, no se extraigan del cementerio sin autorización escrita del Oficial del Registro Civil;
-
-V.- Impedir la exhumación de restos sin orden escrita del Oficial del Registro Civil, que la dará en los términos del Reglamento; y
-
-VI.- Recoger diariamente las boletas de inhumación que se les entreguen para devolverlas al Oficial del Registro con la anotación de haberse cumplido.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 84.
 
-El Guardián o Sepulturero que proceda a una inhumación o exhumación sin la orden del Oficial de quien dependa y, en su caso, el Oficial que ordene tales actos quebrantando las disposiciones de este Reglamento, quedarán sujetos a las sanciones correspondientes.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 85.
 
-Ninguna exhumación podrá hacerse sin la autorización del Ejecutivo y en ningún caso antes de que transcurra el término de cinco años, que se contará desde la fecha de la inhumación.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 86.
 
-Las exhumaciones prematuras que no se hagan en virtud de mandamiento judicial se harán con autorización del Ejecutivo, previo cumplimiento de las disposiciones que en cada caso dicte la Autoridad Sanitaria del lugar.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 87.
 
-Las exhumaciones de los restos que hayan cumplido el término de cinco años, se harán por los encargados de los panteones después de presentar al Ejecutivo del Estado, por conducto de los Oficiales del Registro, una relación de los restos que deban exhumarse, expresando la fecha en que fueron inhumados, clase y años y fecha de su fallecimiento. Para las exhumaciones a que se refiere este artículo, se sujetarán los encargados de los cementerios a las prevenciones siguientes:
-
-I.- Los restos exhumados se depositarán en el osario, donde permanecerán hasta su completo aniquilamiento;
-
-II.- Los restos podrán volver a ser depositados en tierra mediante nuevo pago de derechos, en cualquiera de los tramos;
-
-III.- También podrán depositarse los restos en el lugar destinado especialmente en cada cementerio, haciendo para ello uso de una urna de metal o madera forrada interiormente de metal; y
-
-IV.- Los sudarios, ropas o fragmentos de ellos que se extraigan de los sepulcros, serán quemados inmediatamente y por ningún motivo quedarán expuestos o abandonados en los cementerios, y mucho menos dedicados a nuevos usos, ni podrán ser entregados bajo cualquier pretexto a ningún familiar. La infracción de esta disposición ameritará una multa de $ 1.00 a $50.00 y la destitución del empleado responsable.
-
-Cuando por virtud de lo dispuesto en este artículo se practique una exhumación y aparezca que el cadáver se encuentra en estado de putrefacción, se suspenderá la exhumación, dejando el cadáver en su sitio y cubriéndolo nuevamente como estaba.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 88.
 
-Los que hagan o permitan inhumaciones sin la autorización respectiva o con intención dolosa, quedarán sujetos a las disposiciones legales vigentes, bastando para incoar el procedimiento que corresponda, el aviso que tenga la autoridad judicial respectiva, ya sea del Guardián o encargado del cementerio, o del Oficial del Registro Civil respectivo.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 89.
 
-Queda absolutamente prohibida la extracción de cadáveres de los cementerios, excepto en los casos previstos y ordenados por las Leyes y Reglamentos.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 90.
 
-Se prohibe a los encargados de los cementerios la extracción de cualquier objeto que este en el interior de los sepulcros o en el exterior, como útiles, ornamentos, etc. Los infractores de este artículo y el anterior, serán castigados con multa de $ 5.00 a $ 100.00, según el caso, sin perjuicio de la responsabilidad civil o criminal a que hubiere lugar.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 91.
 
-Se prohibe abrir sepulcros o fosas ocupadas, aún con el pretexto de cambiar lápidas o hacer reparaciones. Cuando esto sea necesario, el interesado recabará el permiso correspondiente del Oficial del Registro Civil. Los encargados de los panteones tendrán obligación de dar aviso al Oficial de quien dependan, de las infracciones que observen con relación a lo dispuesto por este artículo, a fin de que dicho funcionario dicte las providencias del caso.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 92.
 
-Cuando se clausure un cementerio no se permitirá el uso de él para nuevas inhumaciones. Los que tengan lotes para familia en que haya todavía espacio para sepulcros en la época de la clausura del cementerio, podrán, con permiso de la autoridad, si la salubridad pública no queda amenazada, seguir haciendo inhumaciones en sus lotes, o en caso contrario, se les concederá en el nuevo un lote igual al espacio que aún tuvieren utilizable, adoptando en todo caso la forma rectangular, a menos que el interesado optare por tomar un lote entero en el nuevo cementerio; pues en este caso pagará la parte proporcional que corresponda, tomando en consideración la extensión útil de su lote en el cementerio clausurado.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 93.
 
-La traslación de un cadáver no podrá hacerse sin autorización del Ejecutivo, y cuando esta se dé, deberán cubrirse las disposiciones reglamentarias de carácter sanitario. Cuando la traslación del cadáver deba hacerse fuera del Estado, después de obtener la autorización del Ejecutivo, se cumplirán las disposiciones del Departamento Federal de Salubridad y las prevenidas por el Reglamento Federal de Cementerios, Inhumaciones, Exhumaciones, Conservación y Traslación de Cadáveres.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 94.
 
-Los Oficiales del Registro Civil tendrán la obligación de instruir a los Guardianes y Sepultureros de todas y cada una de las obligaciones que les impone este Reglamento y de las responsabilidades a que quedan sujetos por los actos indebidos u omisiones en que incurran.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 95.
 
-Todas las penas pecuniarias establecidas por el presente Reglamento, las hará efectivas el Oficial del Registro Civil por conducto de la Colecturía de Rentas de su jurisdicción. En caso de que hubiere resistencia para hacer el pago, se dará aviso al Gobierno del Estado para que éste, por los medios de apremio correspondientes, haga efectivas las multas de que se trate.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 96.
 
-En los cementerios habrá un espacio en el cuarto tramo para enterrar a los que mueran de enfermedades contagiosas, cuando se trate de casos aislados y no de epidemias.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 97.
 
-Las infracciones a este Reglamento que no tengan señalada pena especial, se castigarán con multa que no baje de un peso y ni exceda de $ 25.00, según el caso, obrando siempre el Oficial del Registro que imponga la multa, con tino y prudencia y teniendo en cuenta todas las circunstancias que concurran.
+(DEROGADO POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954).
 
 ###### Art. 98.
 
@@ -836,3 +636,13 @@ Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 P.O. 25 DE MARZO DE 1953.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 1954.
+
+LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO SEXTO.
+
+Se abrogan la Tarifa VI del Artículo 18 y las disposiciones del Capítulo Sexto, de la Ley Reglamentaria de las Oficinas del Registro Civil, contenidas en el Decreto No. 248, expedido el 6 de Agosto de 1940.
