@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1948-11-27"
+last_updated: "1949-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1949.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -319,7 +319,7 @@ Las Juntas Previas y Preparatorias se sujetarán a lo que disponga el Reglamento
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias hará entrega a ésta de todos los expedientes electorales.
+I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias, hará entrega a ésta de todos los expedientes electorales.
 
 La elección de la Mesa Directiva de las Juntas Preparatorias se hará en escrutinio secreto y a mayoría absoluta de votos de los presuntos diputados;
 
@@ -1103,13 +1103,19 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 ## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1940)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
 
 ###### ARTICULO 164.
 
-La presente Constitución puede ser adicionada o reformada, Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de los diputados que la formen, admita a discusión las adiciones o reformas; que, una vez admitidas, se publiquen en el "Periódico Oficial" del Estado y que sean aprobadas, previo debate, por igual número de votos de los diputados durante cualquiera de los periodos ordinarios del siguiente o subsiguientes años de su ejercicio legal al en que hayan sido admitidas a discusión.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a se rparte (sic) de la misma, se requiere:
+
+Que la Legislatura del Estado, por el voto de las dos terceras partes de los Diputados que la forman, admita a discusión las reformas o adiciones; que una vez admitidas, se publiquen en el Periódico Oficial del Estado y, que sean aprobadas, previo debate, por igual número de votos de los Diputados durante cualquiera de los períodos ordinarios del siguiente o subsiguientes años de su ejercicio legal al en que hayan sido admitidas a discusión.
 
 El mismo procedimiento se observará respecto de un período final de la Legislatura.
+
+Inmediatamente que se promulguen reformas a la Constitución General de la República. La Legislatura del Estado si estuviere en período ordinario de sesiones, acordará los términos de las modificaciones o adiciones que correspondan para que puedan incorporarse al texto de esta Constitución, en consonancia con el postulado jurídico expreso en el artículo 41 de aquella.
+
+Si la Legislatura estuviere en receso, será convocada a sesiones extraordinarias, por su comisión Permanente, para el efecto a que se refiere el párrafo que antecede.
 
 ###### ARTICULO 115.
 
@@ -1472,5 +1478,9 @@ Unico.- Este decreto comenzará a surtir sus efectos a partir de su publicación
 P.O. 27 DE NOVIEMBRE DE 1948.
 
 DECRETO No. 82, QUE MODIFICA LOS ARTICULOS 98 Y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 5 DE FEBRERO DE 1949.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
