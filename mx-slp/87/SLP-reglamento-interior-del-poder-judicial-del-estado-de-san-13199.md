@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2003-05-27"
+last_updated: "2003-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2003.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -1063,7 +1063,7 @@ La inobservancia de lo dispuesto en el párrafo anterior, será sancionada con s
 
 ###### ARTICULO 109.
 
-El personal administrativo, tendrá las obligaciones siguientes:
+El personal administrativo tendrá las obligaciones siguientes:
 
 I.- Elaborar técnicamente los oficios que les dicte su Jefe inmediato;
 
@@ -2235,7 +2235,7 @@ C).- La hora en que se recibe el escrito o demanda;
 
 D).- El nombre del actor o de quien promueve;
 
-F).- La materia del juicio y el número de expediente si aparece anotado;
+F) (SIC).- La materia del juicio y el número de expediente si aparece anotado;
 
 G).- El número de anexos, si se acompañan;
 
@@ -2751,29 +2751,37 @@ El Archivo Judicial deberá ser un recurso de información, que garantice la cla
 
 El Archivo Judicial estará bajo la vigilancia de la Comisión de Magistrados que el Pleno del Supremo Tribunal designe.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 220.
 
-De acuerdo con lo establecido en el artículo 109 de la Ley Orgánica, el Archivo Judicial estará conformado por el siguiente personal:
+De conformidad con lo establecido por el artículo 109 de la Ley Orgánica del Poder Judicial del Estado, el Archivo Judicial estará conformado por el siguiente personal:
 
 A).- El Director del Archivo Judicial.
 
-B).- El Subsecretario Administrativo.
+B).- Los Subdirectores Regionales que autorice el Pleno del Supremo Tribunal de Justicia del Estado.
 
-C).- El Dictaminador.
+C).- El Subsecretario Administrativo.
 
-D).- Los Técnicos Especializados.
+D).- Los Dictaminadores.
 
-E).- El Auxiliar Administrativo
+E).- Los Técnicos Especializados.
 
-F).- Personal Administrativo.
+F).- Los Auxiliares Administrativos.
 
-G).- El Auxiliar de Archivo (mozo de oficio).
+G).- El personal administrativo.
 
-H).- Los Auxiliares de Intendencia.
+H).- Auxiliares de Archivo (Mozos de oficio).
+
+I).- Auxiliares de Intendencia.
+
+Las Subdirecciones Regionales estarán conformadas por un Subdirector y el personal administrativo que autorice el Pleno del Supremo Tribunal de Justicia del Estado y tendrán la competencia territorial que fije dicho Organo Colegiado.
 
 Sección 1a.
 
 DEL DIRECTOR DEL ARCHIVO JUDICIAL
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 221.
 
@@ -2789,6 +2797,12 @@ IV.- Ser de reconocida honorabilidad y capacidad;
 
 V.- No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2003)</small>
+
+Para ser Subdirector Regional del Archivo Judicial, se deberán reunir los mismos requisitos exigidos para el cargo de Director del Archivo.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 222.
 
 El Director es el responsable del Archivo Judicial y, además de las obligaciones y atribuciones contenidas en la Ley Orgánica, tendrá las siguientes:
@@ -2799,11 +2813,17 @@ II.- Cuidar que la identificación y clasificación de los expedientes y documen
 
 III.- Supervisar que se realice adecuadamente la concentración de los documentos a que se refiere el artículo 103 de la Ley Orgánica y que se envíen para su archivo, evitando su deterioro;
 
-IV.- Vigilar el registro de los expedientes y documentos que se reciban, en una carpeta de entradas destinado a cada Sala o Juzgado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
 
-V.- Proporcionar a las Salas y Juzgados del Poder Judicial, los expedientes o documentos que le sean solicitados de conformidad al artículo 105 de la Ley Orgánica y que se encuentren bajo su custodia, previa toma de razón que se deje;
+IV.- Vigilar el registro de los expedientes y documentos que se reciban, en una carpeta de entradas destinada a cada Organo Judicial o Administrativo del Poder Judicial del Estado.
 
-VI.- Cuidar del debido control del envió de expedientes a las Salas y Juzgados de origen, mediante el registro correspondiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+V.- Proporcionar a los Organos Judiciales o Administrativos del Poder Judicial del Estado, los expedientes o documentos de su competencia que le sean solicitados, de conformidad con el artículo 105 de la Ley Orgánica y que se envíen para su archivo.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+VI.- Cuidar del debido control del envío de expedientes a los Organos de origen, mediante el registro correspondiente.
 
 VII.- Cualquier irregularidad o defecto que advierta en los expedientes o documentos que se le envíen o devuelvan para su archivo, lo deberá informar al Presidente del Supremo Tribunal de Justicia;
 
@@ -2813,11 +2833,15 @@ IX.- Vigilar que se brinde atención esmerada al público;
 
 X.- Atender la correspondencia dirigida al Archivo Judicial;
 
-XI.- Cuidar que se facilite el préstamo de expedientes sólo a quienes acrediten tener personalidad en los mismos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+XI.- Cuidar que se facilite el préstamo de expedientes sólo a quienes acrediten tener personalidad o interés legítimo en los mismos.
 
 XII.- Vigilar que se ordenen y glosen las minutas, escritos y vales para el control de archivo;
 
-XIII.- Expedir las copias certificadas que se soliciten, previo acuerdo del Presidente del Supremo Tribunal de Justicia, de los documentos bajo su custodia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+XIII.- Expedir, bajo su responsabilidad, las copias certificadas que se le soliciten respecto de los documentos bajo su custodia.
 
 XIV.- Por ningún motivo permitirá que sean extraídos documentos o expediente alguno, a no ser por orden de autoridad competente;
 
@@ -2836,6 +2860,54 @@ XX.- Cuidar que se cumplan las medidas de conservación, seguridad e higiene de 
 XXI.- Levantar actas administrativas, al personal del Archivo Judicial, cuando proceda, comunicándolo al Presidente del Supremo Tribunal de Justicia para que éste, a su vez lo informe al Pleno y se proceda en consecuencia;
 
 XXII.- Las demás que le confieran las Leyes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2003)</small>
+
+ARTICULO 222 BIS.- Los Subdirectores Regionales, además de las facultades y obligaciones establecidas en la Ley Orgánica, tendrán las siguientes atribuciones:
+
+I.- Vigilar el correcto funcionamiento del Archivo Judicial Regional a su cargo y la custodia de documentos, expedientes y bienes que se le confíen, sujetándose estrictamente a los lineamientos establecidos al efecto por este Reglamento;
+
+II.- Cuidar que la identificación y clasificación de los expedientes y documentos se realice al momento de su recepción, observándose las reglas de archivística;
+
+III.- Supervisar que se realice adecuadamente la concentración de los documentos a que se refiere el artículo 103 de la Ley Orgánica que se envían para su archivo, evitando su deterioro;
+
+IV.- Vigilar el registro de los expedientes y documentos que se reciban, en una carpeta de entradas destinada a cada Organo Judicial o Administrativo dependiente del Tribunal;
+
+V.- Proporcionar a los Organos Judiciales o Administrativos del Poder Judicial, los expedientes o documentos de su competencia que le sean solicitados, de conformidad con el artículo 105 de la Ley Orgánica y que se envíen para su archivo;
+
+VI.- Cuidar del debido control del envío de expedientes a los Organos de origen, mediante el registro correspondiente;
+
+VII.- Informar al Presidente del Tribunal y al Director del Archivo Judicial, cualquier irregularidad o defecto que advierta en los expedientes o documentos que se le envíen o devuelvan para su archivo;
+
+VIII.- Observar las medidas que sobre el Archivo Judicial determine el Pleno del Supremo Tribunal de Justicia o el Director del Archivo;
+
+IX.- Vigilar que se brinde atención esmerada al público;
+
+X.- Dar respuesta a la correspondencia, peticiones y escritos dirigidos al Archivo Judicial a su cargo;
+
+XI.- Cuidar que se facilite el préstamo de expedientes sólo a quienes acrediten tener personalidad o interés legítimo en los mismos;
+
+XII.- Vigilar que se ordenen y glosen las minutas, escritos y vales para el control de archivo;
+
+XIII.- Expedir bajo su responsabilidad, las copias certificadas que se le soliciten, respecto de los documentos bajo su custodia;
+
+XIV.- Por ningún motivo permitirá que sean extraídos documentos o expediente alguno, a no ser por orden de autoridad competente;
+
+XV.- Vigilar que los Libros de Control del Archivo Judicial se mantengan en orden y actualizados;
+
+XVI.- Rendir informe mensual de actividades al Director del Archivo Judicial y, cuando sea requerido para ello, al Presidente, al Pleno del Supremo Tribunal de Justicia y a la Comisión de Archivo Judicial;
+
+XVII.- Coadyuvar en el mejoramiento y modernización de los archivos del Poder Judicial;
+
+XVIII.- Cuidar que se cumplan las medidas de conservación, seguridad e higiene de los expedientes y documentos depositados en el Archivo Judicial a su cargo;
+
+XIX.- Cuando así proceda, levantar actas administrativas al personal a su cargo, comunicándolo al Presidente del Supremo Tribunal de Justicia y al Director del Archivo Judicial, para los efectos que procedan;
+
+XX.- Distribuir el trabajo entre el personal del Archivo a su cargo con apego a este Reglamento y teniendo como objetivos la eficacia y agilidad en las actividades, pudiendo remover a dicho personal en las distintas áreas del Archivo, previo aviso al Director del mismo y a la Comisión respectiva.
+
+XXI.- Enviar periódicamente al Archivo Histórico del Estado los expedientes y documentos que tengan mas de cincuenta años, previa autorización del Director del Archivo;
+
+XXII.- Las demás relativas que le confieran las leyes y este Reglamento.
 
 Sección 2a.
 
@@ -3878,3 +3950,11 @@ P.O. 27 DE MAYO DE 2003.
 PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
+
+P.O. 7 DE JUNIO DE 2003.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 220, 221, 222 Y ADICIÓN DEL ARTÍCULO 222 BIS, DEL REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO".]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente acuerdo.
