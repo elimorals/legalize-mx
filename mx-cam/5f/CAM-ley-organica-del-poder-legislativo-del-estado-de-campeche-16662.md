@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-16662
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-03"
-last_updated: "2000-07-03"
+last_updated: "2003-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 3 de julio de 2000.
 
@@ -47,9 +47,17 @@ La presente ley regula la estructura y funcionamiento del Poder Legislativo del 
 
 El ejercicio del Poder Legislativo del Estado se deposita en una asamblea de representantes populares o diputados, electos directamente cada tres años. La asamblea se denomina Congreso del Estado. El Congreso funcionará en pleno, o mediante comisiones, y tendrá como órganos de apoyo:
 
-I.- La Oficialía Mayor; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2003)</small>
 
-II.- La Auditoría Superior del Estado.
+I.- La Oficialía Mayor del Congreso;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+II.- La Auditoría Superior del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+III.- La Contraloría Interna del Congreso.
 
 ###### Art. 3.
 
@@ -1959,6 +1967,44 @@ Si el suceso fuese de tal gravedad que vede el que los integrantes del Congreso 
 
 Las disposiciones de esta ley sólo podrán ser reformadas, adicionadas o derogadas por el voto de las dos terceras partes de los diputados que integran el Congreso del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+Capítulo Décimoctavo
+
+De la Contraloría Interna del Congreso
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+###### Art. 218.
+
+La Contraloría Interna del Congreso es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche confiere a los órganos internos de control, así como las que para la Secretaría de la Contraloría de la Administración Pública del Estado de Campeche establece la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+###### Art. 219.
+
+La Contraloría Interna del Congreso se integrará con:
+
+I.- Un Contralor Interno;
+
+II.- Un Subdirector de Normatividad y Control;
+
+III.- Un Subdirector de Auditoría; y
+
+IV.- El demás personal técnico y administrativo que requiera la Contraloría para su funcionamiento y permita la correspondiente previsión presupuestal.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+###### Art. 220.
+
+El Contralor será nombrado por las dos terceras partes de los miembros presentes del Congreso, a propuesta de la Gran Comisión o Comisión de Gobierno y Administración, y durará cinco años en el cargo, pudiendo ser nombrado nuevamente para subsiguientes períodos. Para ser Contralor Interno se amerita reunir los requisitos que señala el artículo 186 de esta ley. Para su remoción se observarán en lo conducente las disposiciones contenidas en el artículo 119 de esta misma ley.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2003)</small>
+
+###### Art. 221.
+
+Para el nombramiento y remoción de los subdirectores y demás personal al servicio de la Contraloría Interna se aplicarán en lo conducente las disposiciones contenidas en los artículos 24 fracción VI y 112 fracción III de esta misma ley.
+
 T R A N S I T O R I O S
 
 Primero.- La presente ley orgánica entrará en vigor el día quince de septiembre del año dos mil, previa su publicación en el Periódico Oficial del Estado.
@@ -1980,3 +2026,11 @@ Octavo.- Las menciones que de la Contaduría Mayor de Hacienda se hagan en las l
 Noveno.- Quienes en la actualidad ostentan la titularidad de la Oficialía Mayor del Congreso y de las Direcciones subordinadas a la misma, así como el personal administrativo adscrito a la Gran Comisión, permanecerán en sus cargos hasta que la LVII Legislatura haga las correspondientes designaciones en los términos de la presente ley orgánica.
 
 Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 29 de junio del 2000.- Dip. Fernando Almeyda Cobos, Presidente.- Dip. Román Rejón Castro, Secretario.- Dip José Antonio Mena Muñoz, Secretario.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 2003.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
