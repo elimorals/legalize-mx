@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-a-la-informacion-publica-del-estado-de-nuevo-2686
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2003-02-21"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 2003.
 
@@ -113,21 +113,49 @@ X. Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que 
 
 La autoridad negará el acceso a la información, en los casos siguientes:
 
-I. La que sólo puede estar disponible para quienes acrediten su interés jurídico, de conformidad con las leyes, porque su divulgación afecte el derecho de las personas a la privacidad.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2004)</small>
 
-Se entenderá que se afecta el interés jurídico, cuando se demuestre que de entregarse, se tendría un perjuicio legítimo y específico respecto de los derechos o de las cosas, materia de la información respectiva;
+I. La que por Ley sea considerada confidencial, reservada, comercial reservada o gubernamental confidencial;
 
 II. La que de hacerse del conocimiento público podría menoscabar, alterar o poner en peligro el orden social o la integridad física de cualquier individuo;
 
 III. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
-IV. La que de hacerse pública afecte la seguridad del Estado; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2004)</small>
 
-V. Cuando se trate de información de particulares relativa a datos personales y sea recibida por la autoridad bajo condición de reserva de conformidad con alguna disposición legal, o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades, en la forma prevista por alguna ley.
+IV. La que de hacerse pública afecte la seguridad del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2004)</small>
+
+V. Cuando se trate de información de particulares relativa a datos personales y sea recibida por la autoridad bajo condición de reserva de conformidad con alguna disposición legal, o esté relacionada con la propiedad intelectual, patentes o marcas en poder de las autoridades, en la forma prevista por alguna Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
+
+VI. Las averiguaciones previas; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2004)</small>
+
+VII. La información contenida en los expedientes seguidos ante los Tribunales del Poder Ejecutivo, o del Poder Judicial siempre que se trate de:
+
+a. Asuntos en materia familiar;
+
+b. Procesos por delitos sexuales, delitos contra la libertad o delitos contra la familia; y
+
+c. Procesos penales en los que la víctima u ofendido del delito sea menor de edad o incapaz.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
+
+En los casos contenidos en las fracciones VI y VII, la información deberá ser proporcionada a quien de conformidad con las leyes aplicables pueda tener acceso a la misma.
 
 ###### Artículo 11.
 
 La autoridad en ningún caso podrá negar el acceso a la información estableciendo casos distintos a los señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
+
+###### Artículo 11 Bis.
+
+Los tribunales administrativos y los tribunales y juzgados del Poder Judicial deberán hacer públicas sus resoluciones e información sobre acciones, diligencias y etapas de los procedimientos en los asuntos sometidos a su competencia, con excepción de los casos señalados en el Artículo 10 de esta Ley.
 
 ###### Artículo 12.
 
@@ -138,6 +166,10 @@ Cuando se trate de información contenida en medios de fácil o irreparable dete
 ###### Artículo 13.
 
 La solicitud de información deberá hacerse ante la autoridad, en términos respetuosos y por escrito, sin mayor formalidad que la de proporcionar los datos generales del peticionario, señalar domicilio para recibir notificaciones y los elementos necesarios para identificar la información que se pide.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2004)</small>
+
+Tratándose de solicitudes de información contenida en expedientes judiciales, al dirigir la petición se deberán señalar los datos de identificación del expediente respectivo.
 
 ###### Artículo 14.
 
@@ -161,11 +193,13 @@ En estos casos deberá precisar en su escrito los puntos sobre los que versará 
 
 Tratándose de información contenida en publicaciones oficiales, la autoridad proporcionará al interesado los datos necesarios para su localización, salvo que la solicitud verse respecto del original.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### Artículo 19.
 
-La autoridad proporcionará la información en un plazo que no podrá exceder de quince días, siguientes a la solicitud y previo pago de derechos derivados de la reproducción en los casos que éstos procedan.
+La autoridad proporcionará la información en un plazo que no podrá exceder de diez días, siguientes a la solicitud y previo pago de derechos derivados de la reproducción en los casos que éstos procedan.
 
-Cuando medien circunstancias que no permitan proporcionar la información dentro dicho plazo, éste podrá prorrogarse por única vez hasta por otros quince días, lo que la autoridad deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
+Cuando medien circunstancias que no permitan proporcionar la información dentro dicho plazo, éste podrá prorrogarse por única vez hasta por otros diez días, lo que la autoridad deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
 
 ###### Artículo 20.
 
@@ -177,11 +211,21 @@ El acceso a los archivos declarados históricos por una ley, las bibliotecas pú
 
 Se crea la Comisión de Acceso a la Información Pública, como órgano autónomo, con personalidad jurídica y patrimonio propios, que tendrá a su cargo atribuciones de operación y decisión sobre el derecho de acceso a la información pública, así como las relativas a la promoción, difusión e investigación para crear una cultura sobre ese derecho.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### Artículo 22.
 
-La Comisión estará integrada por tres comisionados, uno de los cuales será su presidente, y los dos restantes tendrán el carácter de vocales, pudiendo sesionar con la presencia de dos de sus miembros, si entre ellos se encuentra el presidente, quien en este supuesto tendrá voto de calidad.
+La Comisión estará integrada por cuatro Comisionados, tres de los cuales serán Propietarios que en Pleno serán el Órgano Supremo de la misma, y un Supernumerario que suplirá las ausencias de aquellos. Los tres Comisionados Propietarios elegirán a su Presidente, los dos restantes tendrán el carácter de Vocales.
 
-Al instalarse la Comisión, sus integrantes designarán de entre ellos, por mayoría, al que deberá fungir como presidente de la misma y en caso de falta absoluta de este último, previo el nombramiento que haga el Congreso procederán de igual manera.
+En los casos de conflicto de intereses que obligue a abstenerse, o bien en la ausencia temporal, impedimento legal o suspensión de un Comisionado Propietario, el Supernumerario lo suplirá temporalmente. A falta definitiva de alguno de los Comisionados Propietarios, éste será sustituido en forma definitiva por el Comisionado Supernumerario quien pasará a ser Propietario, de conformidad con lo previsto en los Artículos 23 y 24 de esta Ley, correspondiendo al Congreso del Estado designar a un nuevo Comisionado Supernumerario.
+
+El Comisionado Supernumerario podrá asistir con voz pero sin voto a todas las sesiones. Cuando supla la falta de algún Propietario gozará de voz y voto.
+
+Para la elección del Presidente de la Comisión, deberá previamente estar integrado el Pleno. El Presidente durará en su encargo dos años sin posibilidad de reelección inmediata, y sin impedimento para ser elegible en posteriores períodos.
+
+Los integrantes de la Comisión funcionarán como órgano colegiado. Sus resoluciones se tomarán por unanimidad o por mayoría de votos. Sesionarán válidamente con la asistencia de tres integrantes.
+
+Para todos los efectos legales, los Comisionados serán considerados servidores públicos con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás leyes les señalen.
 
 ###### Artículo 23.
 
@@ -217,13 +261,17 @@ VII. No haber sido postulado como candidato para algún puesto de elección popu
 
 En cuanto al requisito relativo a la experiencia profesional, al menos uno de los integrantes de la Comisión deberá contar con licenciatura en derecho.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### Artículo 27.
 
-Los comisionados durarán en su encargo un período de cuatro años, pudiendo ser reelectos para otro período consecutivo por una sola vez, serán inamovibles y solo podrán ser retirados o suspendidos de su encargo, por las mismas causas señaladas para los jueces de primera instancia.
+Los Comisionados durarán en su encargo un período de cuatro años. Podrán ser reelectos para otro período consecutivo por una sola vez. Serán inamovibles y sólo podrán ser retirados o suspendidos de su encargo en los términos de lo dispuesto por el Título Séptimo de la Constitución Política del Estado de Nuevo León y por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
 ###### Artículo 28.
 
-Los comisionados recibirán durante el desempeño de su encargo, una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
+Los Comisionados Propietarios y el Comisionado Supernumerario recibirán durante el desempeño de su encargo, una remuneración nominal neta equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
 
 ###### Artículo 29.
 
@@ -333,9 +381,11 @@ II. El peticionario desista de su solicitud en cualquier tiempo; y
 
 III. Se presente caso fortuito o de fuerza mayor que impida de manera permanente la entrega de la información.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### Artículo 43.
 
-En todo lo no previsto por esta ley, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Nuevo León.
+En todo lo no previsto por esta ley, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ### CAPÍTULO SEXTO. DE LAS NOTIFICACIONES
 
@@ -412,3 +462,21 @@ LIC. FERNANDO ELIZONDO BARRAGÁN
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JOSÉ MARIO GARZA BENAVIDES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JULIO DE 2004.
+
+DECRETO No. 107
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Honorable Congreso del Estado emitirá la convocatoria respectiva a la brevedad posible, para la elección del Comisionado Supernumerario de la Comisión de Acceso a la Información Pública.
+
+P.O. 14 DE JULIO DE 2004.
+
+DECRETO No. 108
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
