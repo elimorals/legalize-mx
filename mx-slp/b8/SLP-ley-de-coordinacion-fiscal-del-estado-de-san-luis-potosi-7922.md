@@ -1,0 +1,254 @@
+---
+title: "LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI"
+identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
+country: "mx"
+rank: "ley"
+publication_date: "1988-01-15"
+last_updated: "1988-01-15"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-slp"
+scjn_id: "7922"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "5 CUARTA SECCION"
+reform_count: "11"
+scjn_last_update: "2008-01-26"
+issue_date: "1988-01-13"
+state: "SLP"
+---
+# LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
+
+LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
+
+LEOPOLDINO ORTIZ SANTOS, Gobernador del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
+
+Que la H. LII Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
+
+DECRETO NUMERO 83
+
+La LII Legislatura del Honorable Congreso Constitucional del Estado Libre y Soberano de San Luis Potosí, decreta lo siguiente:
+
+LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
+
+### CAPITULO PRIMERO. DEL SISTEMA DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
+
+###### ARTICULO 1o.
+
+Se establece el Sistema de Coordinación Fiscal del Estado de San Luis Potosí, regulado por la presente Ley, que tiene por objeto:
+
+I.- Implementar el Sistema Fiscal del Estado de San Luis Potosí con sus Municipios.
+
+II.- Establecer las bases de cálculo para la distribución de las participaciones que correspondan a las Haciendas Públicas Municipales.
+
+III.- Fijar las bases para la entrega a los Municipios de las participaciones que les correspondan.
+
+IV.- Constituir los Organismos en materia de Coordinación Fiscal.
+
+V.- Fijar las reglas de colaboración administrativa entre las Autoridades Fiscales del Estado y las de los Municipios.
+
+###### ARTICULO 2o.
+
+La Legislatura del Estado determinará anualmente las bases, montos y plazos en que los Municipios participarán en la distribución del Fondo General de participaciones y el fondo financiero de nivelación de las participaciones que el Estado perciba en los términos de la Ley de Coordinación Fiscal Federal, publicados en el Periódico Oficial del Estado de San Luis Potosí a más tardar el día 30 de enero del año para que sean vigentes dichas disposiciones.
+
+###### ARTICULO 3o.
+
+Los Municipios percibirán los recursos del Fondo de Fomento Municipal constituído por las cantidades que ministra el Gobierno Federal al Estado en los términos de la Ley de Coordinación Fiscal Federal.
+
+### CAPITULO SEGUNDO. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES
+
+###### ARTICULO 4o.
+
+La cantidad que a cada Municipio corresponda del Fondo Generel (sic), será calculado conforme a la siguiente mecánica:
+
+I.- 50% en razón directa a la población que registra el Municipio de acuerdo a los datos obtenidos en el último Censo General de Población y Vivienda.
+
+II.- 25% en razón directa a la recaudación efectiva de los impuestos federales coordinados en el perímetro territorial de cada Municipio y correspondiente al ejercicio fiscal del año inmediato al que tenga la (sic)
+
+III.- 25% en función a las características que cada Municipio represente dentro del plan de Desarrollo Estatal.
+
+###### ARTICULO 5o.
+
+Los Municipios participarán en la distribución del Fondo Financiero de Nivelación en los términos de la mecánica siguiente:
+
+I.- El 50% del Fondo se distribuirá en partes iguales entre la totalidad de los Municipios.
+
+II.- El 50% restante será distribuido entre todos los Municipios, en razón proporcionalmente inversa al monto de las participaciones del Fondo General, recibidas durante el ejercicio fiscal del año inmediato anterior
+
+###### ARTICULO 6o.
+
+Los Municipios participarán en la distribución del Fondo de Fomento Municipal, conforme a las reglas siguientes:
+
+I.- El 50% del Fondo se distribuirá por partes iguales entre la totalidad de los Municipios del Estado.
+
+II.- El 50% restante será distribuído entre los Municipios en razón proporcionalmente inversa al monto de las participaciones del Fondo General recibidas en el ejercicio fiscal anterior.
+
+###### ARTICULO 7o.
+
+Las participaciones federales que correspondan a los Municipios de los Fondos que establece esta Ley se calcularán y pagarán por cada ejercicio fiscal.
+
+La Secretaría de Finanzas una vez identificada la asignación mensual que le corresponda a la Entidad de los Fondos previstos por la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponda a cada Municipio.
+
+De conformidad a lo dispuesto en el último párrafo del Artículo 7o. de la Ley Fiscal Federal mencionada, la liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
+
+###### ARTICULO 8o.
+
+Las participaciones que correspondan a los Municipios son inembargables e imprescriptibles.
+
+La compensación entre el derecho del Municipio a recibir participaciones y las obligaciones que tenga la Federación, Estado y Municipios y particulares, por créditos de cualquier naturaleza, operarán con fundamento en las disposiciones de la Ley de Deuda Pública Municipal, Código Fiscal del Estado y demás legislación aplicable.
+
+El Estado podrá realizar pagos por cuenta de los HH. Ayuntamientos, con cargo a sus participaciones municipales, cuando así lo soliciten o cuando las participaciones hayan sido afectadas en garantía de adeudes (sic) y éstos no se hayan satisfecho previo a la aplicación de las disposiciones contenidas en la Ley de Deuda Pública Municipal.
+
+### CAPITULO TERCERO. DE LOS ORGANISMOS DE COLABORACION
+
+###### ARTICULO 9o.
+
+El Ejecutivo del Estado por medio de la Secretaría de Finanzas y los Ayuntamientos de los Municipios, podrán celebrar convenio de Colaboración Administrativa en las siguientes materias:
+
+I.- Registro de contribuyentes.
+
+II.- Recaudación, notificación y cobranza.
+
+III.- Informática.
+
+IV.- Asistencia al contribuyente.
+
+V.- Consultas y autorizaciones.
+
+VI.- Comprobación del cumplimiento de las disposiciones fiscales.
+
+VII.- Determinación de impuestos y sus accesorios.
+
+VIII.- Imposición y condonación de multas.
+
+IX.- Recursos administrativos.
+
+X.- Intervención en juicio.
+
+El ejercicio de las facultades que se convengan, será respecto de ls (sic) Impuestos Federales coordinados que al Estado correspondan, gravámenes Estatales y Municipales.
+
+###### ARTICULO 10o.
+
+El Ejecutivo del Estado por sí o por conducto de la Secretaría de Finanzas y los Ayuntamientos, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de:
+
+I.- La Convención Fiscal de los Ayuntamientos del Estado.
+
+II.- La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales.
+
+III.- El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí.
+
+###### ARTICULO 11o.
+
+La Convención Fiscal de los Ayuntamientos del Estado de San Luis Potosí, se establece como instancia de coordinación de los Ayuntamientos del Estado entre sí, y con el Gobierno del Estado de San Luis Potosí para la definición de la política tributaria de jurisdicción municipal y para la adopción de los sistemas de su administración.
+
+###### ARTICULO 12o.
+
+La Convención Fiscal de los Ayuntamientos del Estado se integrará anualmente por los Presidentes de los Ayuntamientos a convocatoria expedida por el Gobernador del Estado. Funcionará bajo la presidencia del Titular del Ejecutivo o por el Secretario de Finanzas, y desarrollará sus trabajos conforme a las bases que la propia Convención establezca y el reglamento correspondiente defina.
+
+###### ARTICULO 13o.
+
+La Convención Fiscal de los Ayuntamientos del Estado, conocerá cuando menos de los siguientes asuntos:
+
+I.- Informe de la Comisión Permanente de Tesoreros Municipales y Financieros Fiscales sobre la distribución y liquidación de pagos provisionales y diferencias de participaciones en impuestos de recaudación federal del año en que se realice la convención.
+
+II.- Informe del Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí, sobre los trabajos realizados durante el año.
+
+III.- Elección de los integrantes de la Comisión Permanente de Funcionarios Fiscales.
+
+IV.- Informe de la Secretaría de Finanzas sobre el comportamientos de los impuestos municipales que por convenio Administrativo y de sus perspectivas de su desarrollo en el año siguiente.
+
+V.- Proyectos de Ley de Ingresos remitidos por los Ayuntamientos para el año siguiente y proyecto unificado de Ley de Ingresos.
+
+VI.- Proyectos de Reformas, ajustes o adecuaciones a la Ley de Hacienda Municipal sugeridos por los propios Ayuntamientos o por el Ejecutivo del Estado.
+
+VII.- Informe de la Secretaría de Finanzas sobre el comportamiento y perspectivas del financiamiento a los Municipios y de las acciones a su cargo.
+
+###### ARTICULO 14o.
+
+La Convención Fiscal de los Ayuntamientos del Estado, emitirá sus acuerdos propositivos y de adhesión a los proyectos de Leyes Fiscales Municipales por conducto de los CC. Presidentes Municipales, para que en su oportunidad se presenten a la Legislatura por conducto del Gobernador del Estado.
+
+###### ARTICULO 15o.
+
+La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se establece como órgano de consulta y análisis técnico para:
+
+I.- Proponer las medidas, programas y acciones que estime convenientes para mejorar o actualizar, en su caso, el Sistema de Coordinación Fiscal en el Estado de San Luis Potosí.
+
+II.- Analizar y emitir un dictamen sobre la distribución y liquidación de los pagos provisionales y de diferencias con cargo a los fondos federales y en su caso, proponer medidas y mecanismos que permitan una justa distribución del ingreso.
+
+III.- Efectuar en forma permanente estudios de Legislación Fiscal, así como estudiar y aprobar, en su caso, los reglamentos de funcionamiento de la propia Comisión y del Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí.
+
+###### ARTICULO 16o.
+
+La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
+
+El Secretario de Finanzas, el Contador General de Glosa del Poder Legislativo y por cuatro Municipios representados por sus Tesoreros, elegidos anualmente por los Ayuntamientos, en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la comisión permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+
+###### ARTICULO 17o.
+
+La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales será presidida por el Secretario de Finanzas o el suplente que éste designe. Sus sesiones serán convocadas por el Presidente o por el Contador General de Glosa. Se desarrollarán de conformidad con el reglamento de la Comisión que esta misma apruebe, debiendo celebrarse cuando menos dos veces al año.
+
+###### ARTICULO 18o.
+
+El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí tiene encomendadas las siguientes funciones:
+
+I.- Sugerir medidas encaminadas a mejorar la colaboración administrativa en materia tributaria entre el Estado y los Municipios y entre éstos.
+
+II.- Actuar como consultor técnico de las haciendas públicas Municipales del Ejecutivo del Estado en materia Hacendaria y Fiscal.
+
+III.- Promover el desarrollo técnico de las Haciendas Públicas Municipales y Estatales.
+
+IV.- Capacitar técnicos y Funcionarios Fiscales, tanto del Estado como de los Municipios.
+
+###### ARTICULO 19o.
+
+El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí estará integrado por:
+
+I.- El Director que será nombrado por el Secretario de Finanzas, quien lo presidirá, debiendo contar para el desempeño de sus trabajos con el personal especializado que requiera.
+
+II.- Dos Tesoreros Municipales de entre los que integran la Comisión Permanente, fungiendo como asesores.
+
+III.- El Contador General de Glosa del Poder Legislativo, o la persona que éste designe, que fungirá como Comisario.
+
+El Instituto, podrá contar con el personal especializado que se requiera para el cumplimiento de sus fines, de acuerdo con el reglamento de organización que se apruebe.
+
+###### ARTICULO 20o.
+
+El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí, desarrollará el programa que anualmente apruebe la Convención Fiscal de los Municipios del Estado y sufragará sus gastos, por partes iguales entre los Ayuntamientos de la Entidad y el Gobierno del Estado, aportando los primeros el 50% del presupuesto y el Gobierno Estatal el restante 50%.
+
+### CAPITULO CUARTO. DE LOS ALCANCES POR VIOLACION AL SISTEMA DE COORDINACION FISCAL DEL ESTADO
+
+###### ARTICULO 21o.
+
+Cuando el Estado o algún Municipio contravengan lo establecido por esta Ley o violen el contenido del o los Convenios de Colaboración Administrativa, previa manifestación expresa de dicha violación por la parte afectada a la autoridad infractora, presentará inconformidad ante la Legislatura del Estado, a efecto de dictaminar sobre las medidas correctivas a que haya lugar.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga a partir de la fecha de vigencia de la presente Ley, cualquier disposición que se oponga a su implementación y cumplimiento.
+
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+
+Dado en el Salón de Sesiones del H. Congreso del Estado a los siete días del mes de enero de mil novecientos ochenta y ocho.
+
+Dip. Presidente, DR. AGUSTIN BOCARD ALVARADO.- Dip. Secretario, LIC. FELIPE AURELIO TORRES TORRES.- Dip. Secretario, EDUC. LIC. ALICIA MARTINEZ MARTINEZ.- Rúbricas.
+
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule entre quienes corresponda.
+
+Dado en el Palacio del Poder Ejecutivo del Estado a los trece días del mes de enero de mil novecientos ochenta y ocho.
+
+LEOPOLDINO ORTIZ SANTOS
+
+El Secretario General de Gobierno,
+
+ADALBERTO NOYOLA VAZQUEZ.
