@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1927-12-28"
+last_updated: "1929-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1927.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -274,13 +274,17 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1929)</small>
+
 ###### Artículo 33.
 
-El Congreso del Estado se compondrá, cuando menos, de quince representantes, electos en su totalidad cada dos años por los ciudadanos coahuilenses.
+El Congreso del Estado se compondrá cuando menos de nueve diputados, electos en su totalidad cada dos años por los Ciudadanos coahuilenses.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1929)</small>
 
 ###### Artículo 34.
 
-Para la elección de Diputados, el Estado se dividirá en distritos electorales. Se eligirá un Diputado Propietario y un Suplente por cada 25,000 habitantes o por una fracción que pase de 15,000 sirviendo de base el último censo practicado.
+Para la elección de diputados, el Estado se dividirá en Distritos Electorales.- Se eligirá un diputado propietarios y un suplente por cada 45,000 habitantes o por una fracción que pase de 23,000, sirviendo de base el último censo practicado.
 
 ###### Artículo 35.
 
@@ -1585,5 +1589,9 @@ P.O. 31 DE AGOSTO DE 1927.
 UNICO.- Por esta sola vez y teniendo en cuenta que el período para que han sido electos los Magistrados actualmente en ejercicio, ha comenzado ya, el Congreso hará la designación del Magistrado que deba encargarse del despacho de la Cuarta Sala, sin pedir terna a los Ayuntamientos, tan luego como entren en vigor estas reformas, que será la fecha de su promulgación en el Periódico Oficial del Estado.
 
 P.O. 28 DE DICIEMBRE DE 1927.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 16 DE FEBRERO DE 1929.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
