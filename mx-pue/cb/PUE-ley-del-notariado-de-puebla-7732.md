@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-de-puebla-7732"
 country: "mx"
 rank: "ley"
 publication_date: "1968-11-05"
-last_updated: "1990-06-29"
+last_updated: "1994-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
 
@@ -485,9 +485,11 @@ La patente de aspirante al ejercicio del Notariado, deberá ser registrada en la
 
 ### CAPITULO PRIMERO. De los Notarios Auxiliares
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 ###### Artículo 64.
 
-Cuando un Notario, hubiere cumplido 25 años de ejercer esta actividad en el Estado, tendrá derecho a designar un Notario Auxiliar de entre los que hayan recibido la patente de aspirante. El nombramiento de Notario Auxiliar, lo extenderá el Ejecutivo del Estado, a solicitud del Notario Titular y en favor del aspirante propuesto por éste, previa opinión del Consejo de Notarios, en el sentido de que reúne los requisitos establecidos por el artículo 67 de esta Ley.
+Cuando un Notario hubiere cumplido diez años de ejercer esta actividad en el Estado, tendrá derecho a designar un Notario auxiliar de entre los que hayan recibido la patente de aspirante. El nombramiento de Notario auxiliar, lo extenderá el Ejecutivo del Estado, a solicitud del Notario Titular y en favor del aspirante propuesto por éste, previa opinión del Consejo de Notarios, en el sentido de que reúne los requisitos establecidos por el artículo 67 de esta ley.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1976)</small>
 
@@ -598,6 +600,10 @@ El Notario que actúe como sustituto de otro, ejercerá las mismas funciones que
 El protocolo está constituido por los libros o volúmenes en los cuales, el Notario asienta los instrumentos que autoriza y por el apéndice en que se incorporan los documentos relacionados con ellos.
 
 Los documentos incorporados al apéndice quedan con ello protocolizados y, en consecuencia, forman parte integrante del instrumento.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+
+El Notario podrá llevar un protocolo especial para los casos de escrituras de interés social, el cual deberá reunir los requisitos antes citados y ser autorizado por el Gobierno del Estado.
 
 ###### Artículo 82.
 
@@ -1341,7 +1347,7 @@ Si el Notario se rehusare a dar las facilidades necesarias para la práctica de 
 
 ###### Artículo 185.
 
-Las visitas se practicarán en las Oficinas del Notario, en días y horas hábiles, a cuyo efecto será notificado con 72 horas de antiicpación (sic), cuando menos.
+Las visitas se practicarán en las Oficinas del Notario, en días y horas hábiles, a cuyo efecto será notificado con 72 horas de antiicipación (sic), cuando menos.
 
 ###### Artículo 186.
 
@@ -1640,3 +1646,13 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 P.O. 29 DE JUNIO DE 1990.
 
 TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
