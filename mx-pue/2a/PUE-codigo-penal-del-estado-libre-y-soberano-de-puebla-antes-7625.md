@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1990-04-24"
+last_updated: "1990-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 21 DE DICIEMBRE DE 1990.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2113,6 +2113,12 @@ III.- Cuando la detención se haga en camino público o en paraje solitario; y
 
 IV.- Cuando los plagiarios obren en grupo o banda.
 
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1990) (F. DE E., P.O. 6 DE DICIEMBRE DE 1991)
+
+V.- Cuando se cometa robo de infante menor de doce años, por quien sea extraño a su familia, y no ejerza la tutela sobre el menor.
+
+Cuando el delito lo cometa un familiar del menor, que no ejerza sobre él la patria potestad ni la tutela, la pena será de dos a cinco años de prisión y multa de cien a mil días de salario mínimo vigente.
+
 ###### Artículo 303.
 
 Cuando el plagio o secuestro se haga en la casa habitación o lugar de trabajo o de estudio del ofendido o de cualquiera otra persona, la sanción será de veinte a treinta años de prisión y multa de ciento cincuenta a mil quinientos días de salario.
@@ -3139,8 +3145,12 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-P.O. 24 DE ABRIL DE 1990
+P.O. 24 DE ABRIL DE 1990.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1990.
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
