@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-comite-de-la-feria-de-puebla-11971"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-18"
-last_updated: "1998-07-08"
+last_updated: "1999-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL COMITE DE LA FERIA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 18 de septiembre de 1987.
 
@@ -69,9 +69,9 @@ IV.- Previa celebración de los acuerdos o convenios respectivos, y de conformid
 
 V.- Establecer los mecanismos que permitan la coordinación, concertación e integración entre los Sectores Público, Privado y Social, para que conjuntamente y de acuerdo con el objeto del Comité de la Feria de Puebla, optimicen el aprovechamiento de sus recursos, con el fin de promover el desarrollo económico y social del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1999)</small>
 
-###### ARTICULO 3°.
+###### ARTICULO 3.
 
 El Consejo Directivo es el Órgano de Gobierno y máxima autoridad del Comité de la Feria de Puebla, el cual será auxiliado por un Director General y está integrado por:
 
@@ -79,9 +79,11 @@ I.- Un Presidente, que será el Titular de la Dependencia Coordinadora del Secto
 
 II.- Un Representante de las siguientes Dependencias de la Administración Pública:
 
+a) Del Gobierno del Estado de Puebla.
+
 1) Secretaría de Gobernación.
 
-2) Secretaría de Finanzas.
+2) Secretaría de Finanzas y Desarrollo Social.
 
 3) Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
 
@@ -91,7 +93,7 @@ II.- Un Representante de las siguientes Dependencias de la Administración Públ
 
 6) Secretaría de Desarrollo Rural.
 
-7) Secretaría de Desarrollo Urbano y Ecología.
+7) Secretaría de Desarrollo Urbano, Ecología y Obras Públicas.
 
 8) Secretaría de Comunicaciones y Transportes.
 
@@ -99,13 +101,23 @@ II.- Un Representante de las siguientes Dependencias de la Administración Públ
 
 10) Secretaría de Educación Pública.
 
-11) Secretaría de Cultura.
+11) Secretaría de cultura.
 
-III.- Un representante del H. Ayuntamiento del Municipio de Puebla.
+b) Un Representante de las siguientes Entidades Paraestatales, Instituciones, Organismos y Dependencias del Gobierno Federal:
 
-IV.- Un representante de las siguientes Cámaras, Consejos y Organismos:
+1) Comisión Federal de Electricidad.
 
-1) Consejo Coordinador Empresarial de Puebla.
+2) Nacional Financiera.
+
+3) Banco de Comercio Exterior, S.N.C.
+
+4) Secretaría de Comercio y Fomento Industrial.
+
+c) Un Representante del H. Ayuntamiento del Municipio de Puebla.
+
+III.- Un Representante de las siguientes Cámaras y Asociaciones, Organismos y Dependencias:
+
+1) Consejo Coordinador Empresarial.
 
 2) Cámara Nacional de Comercio, Servicios y Turismo de Puebla.
 
@@ -115,9 +127,15 @@ IV.- Un representante de las siguientes Cámaras, Consejos y Organismos:
 
 5) Consejo Nacional de Comercio Exterior del Sureste.
 
-V.- Un Representante del Sector Social.
+6) Asociación de Hoteles y Restaurantes del Estado de Puebla, A.C.
 
-El Consejo Directivo podrá invitar a sus sesiones a los Titulares de las Dependencias y Entidades de los tres niveles de Gobierno y a Organizaciones o Instituciones privadas y sociales, cuya actividad sea afín al objeto de Comité de la Feria de Puebla, quienes asistirán únicamente con derecho de voz pero no a voto y sin que ello implique que formen parte del Consejo Directivo.
+7) Cámara Mexicana de la Industria de la Construcción.
+
+8) Confederación Patronal de la República Mexicana.
+
+IV.- Un Representante del Sector Social.
+
+El Consejo Directivo podrá invitar a sus Sesiones a los Titulares de las Dependencias y Entidades de los tres niveles de Gobierno y a Organizaciones o Instituciones Privadas y Sociales, cuya actividad sea afín al objeto de Comité de la Feria de Puebla, quienes asistirán únicamente con derecho de voz pero no de voto y sin que ello implique que formen parte del Consejo Directivo.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1998)</small>
 
@@ -468,3 +486,7 @@ Corresponde al Comité de la Feria de Puebla, la posesión de los inmuebles y la
 ###### ARTÍCULO OCTAVO.
 
 En tanto se expidan las disposiciones reglamentarias y administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+
+P.O. 20 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
