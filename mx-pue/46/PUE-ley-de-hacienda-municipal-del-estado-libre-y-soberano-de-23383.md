@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-municipal-del-estado-libre-y-soberano-de-23383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-17"
-last_updated: "2001-12-17"
+last_updated: "2003-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 17 de diciembre de 2001.
 
@@ -219,9 +219,11 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este Capítulo se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### Artículo 19.
 
-Este impuesto se causará y pagará aplicando a la base gravable determinada conforme al artículo anterior, la tasa que establezca la Ley de Ingresos del Municipio.
+Este impuesto se causará y pagará aplicando a la base gravable determinada conforme al artículo anterior, las tasas que establezcan las Leyes de Ingresos de los Municipios.
 
 Causarán la tasa del 0%:
 
@@ -1039,9 +1041,13 @@ Las participaciones en ingresos federales y estatales, los fondos de aportacione
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+
 ###### Artículo 112.
 
-Son ingresos extraordinarios, aquéllos cuya percepción se realice excepcionalmente, los que se causarán y recaudarán de conformidad con los ordenamientos, decretos o acuerdos que los establezcan.
+Además de los que señalan las Leyes de Ingresos de los Municipios, se entenderá por ingresos extraordinarios, aquéllos cuya percepción se decrete excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal, estatal o municipal, los que se ejercerán, causarán y cobrarán en los términos que decrete el
+
+Congreso Local. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Ayuntamiento, así como de los programas especiales que instrumente el mismo.
 
 ## TÍTULO NOVENO. DE LOS IMPUESTOS Y DERECHOS SUSPENDIDOS
 
@@ -1082,3 +1088,11 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veintinueve días del mes de noviembre de dos mil uno.- Diputado Presidente.- MARTÍN FUENTES MORALES.- Rúbrica.- Diputado Vicepresidente.- IGNACIO SERGIO TÉLLEZ OROZCO.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JULIO LEOPOLDO DE LARA VALERA.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de noviembre de dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ABRIL DE 2003.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
