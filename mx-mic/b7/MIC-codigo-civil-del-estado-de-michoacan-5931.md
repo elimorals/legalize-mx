@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1980-02-21"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -10829,6 +10829,14 @@ La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de
 
 Si el valor del inmueble, fiscal o en venta, excede de cincuenta mil pesos, deberá otorgarse en escritura pública.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
+Los contratos por medio de los cuales los organismos descentralizados federales o estatales, y empresas de participación estatal, dependientes de dichos organismos, enajenen inmuebles para regularizar la tenencia de la tierra, podrán otorgarse en documento público, para su validez bastará con las firmas de las partes y dos testigos, debiendo inscribirse en el Registro Público de la Propiedad, y en el Catastro, sin que para ello importe el valor del inmueble.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
+Asímismo, la escrituración de lotes que formen los fraccionamientos populares, cuya lotificación lleva a cabo el Gobierno del Estado o sus dependencias, seguirá el mismo procedimiento.
+
 ### CAPITULO I. Del mutuo simple
 
 ###### Artículo 2175.
@@ -14590,3 +14598,7 @@ P.O. 21 DE FEBRERO DE 1980.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1981.
+
+UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
