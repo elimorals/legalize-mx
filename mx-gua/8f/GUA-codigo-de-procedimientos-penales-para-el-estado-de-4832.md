@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1997-06-17"
+last_updated: "1999-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -75,7 +75,9 @@ En la averiguación previa corresponderá al Ministerio Público:
 
 I.- Recibir las denuncias o querellas que le presenten en forma oral o por escrito sobre hechos que puedan constituir delito;
 
-II.- Practicar y ordenar la realización de todos los actos conducentes a la investigación de los hechos denunciados o querellados y, en su caso, comprobar los elementos del tipo penal de que se trate y la probable responsabilidad del inculpado, así como a la reparación del daño;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1999)</small>
+
+II.- Practicar y ordenar la realización de todos los actos conducentes a la investigación de los hechos denunciados o querellados y, en su caso, comprobar el cuerpo del delito de que se trate y la probable responsabilidad del inculpado; así como, lo conducente para procurar la reparación del daño;
 
 III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan;
 
@@ -315,11 +317,11 @@ Cuando cambiare el personal de un tribunal no se proveerá auto alguno haciendo 
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 36.
 
-Cuando estén plenamente comprobados en autos los elementos del tipo penal de que se trate, el Ministerio Público o el Juzgador que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo penal, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Cuando esté plenamente comprobado en autos el cuerpo del delito de que se trate, el Ministerio Público o el juzgador que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratare de cosas, únicamente podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
 
 Si la entrega del bien pudiera lesionar derechos de tercero o del inculpado, podrá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios, si el funcionario a cuya disposición está el bien, estima necesaria esa garantía.
 
@@ -1049,11 +1051,11 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente, y se estará al procedimiento previsto en los artículos 282 y 283 de este Código.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 132.
 
-La persona ofendida por un delito no es parte en el procedimiento penal; pero podrá coadyuvar con el Ministerio Público proporcionándole, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia de los elementos del tipo penal, la responsabilidad del inculpado, la procedencia y el monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los Tribunales. También tendrá derecho a recibir del Ministerio Público asesoría jurídica e información del desarrollo de la averiguación previa o del proceso, cuando se lo solicite, así como a los demás derechos que la Ley le conceda.
+La persona ofendida por un delito no es parte en el procedimiento penal; pero podrá coadyuvar con el Ministerio Público proporcionándole, por sí o por apoderado, todos los datos que tenga y que conduzcan a comprobar la existencia del cuerpo del delito, la responsabilidad del inculpado, así como la procedencia y monto de la reparación del daño, para que, si lo estima pertinente, en ejercicio de la acción penal los ministre a los Tribunales. También tendrá derecho a recibir del Ministerio Público asesoría jurídica e información del desarrollo de la averiguación previa o del proceso, cuando lo solicite, así como a los demás derechos que la ley le conceda.
 
 ## TITULO CUARTO.
 
@@ -1063,11 +1065,15 @@ Instrucción.
 
 Declaración preparatoria del inculpado y nombramiento del defensor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 133.
 
 El tribunal ante el cual se ejercite la acción penal practicará sin demora alguna, todas las diligencias procedentes que promuevan las partes.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1999)</small>
+
+Tratándose de la solicitud del Ministerio Público sobre aseguramiento de bienes para los efectos de la reparación del daño, el juez decretará en un término máximo de veinticuatro horas, siempre y cuando se acredite la propiedad de los bienes del inculpado.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
@@ -1151,11 +1157,11 @@ La audiencia final del juicio comenzará presentando el Ministerio Público sus 
 
 Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para proceder.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 144.
 
-El Juez, al tener conocimiento de que el inculpado queda materialmente a su disposición, acordará la recepción de su declaración preparatoria, que se recibirá dentro de las cuarenta y ocho horas siguientes.
+El juez, al tener conocimiento de que el inculpado queda a su disposición, acordará la recepción de su declaración preparatoria, que se recibirá dentro de las cuarenta y ocho horas siguientes.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -1207,11 +1213,11 @@ Las contestaciones del inculpado podrán ser redactadas por él; si no lo hace, 
 
 Tanto la defensa como el agente del Ministerio Público, a quien se citará para la diligencia, tendrán el derecho de interrogar al inculpado. El tribunal podrá disponer que los interrogatorios se hagan por su conducto cuando lo estime necesario, y tendrá la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 148.
 
-En los casos en que el delito, por sancionarse con pena alternativa o no privativa de libertad, no dé lugar a aprehensión, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan medios de prueba que acrediten los elementos del tipo penal y la probable responsabilidad del mismo.
+En los casos en que el delito, por sancionarse con pena alternativa o no privativa de libertad, no dé lugar a aprehensión, a pedimento del Ministerio Público se librará orden de comparecencia en contra del inculpado para que rinda su declaración preparatoria, siempre que existan medios de prueba que acrediten el cuerpo del delito y la probable responsabilidad del indiciado.
 
 ###### Art. 149.
 
@@ -1225,25 +1231,39 @@ No pueden ser defensores quienes se encuentren procesados. Tampoco podrán serlo
 
 ### CAPITULO I.
 
-Comprobación de los elementos del tipo penal y de la probable responsabilidad del inculpado.
+Comprobación del cuerpo del delito y de la probable responsabilidad del inculpado.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 151.
 
-Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede materialmente a disposición del Juez, se dictará el auto de formal prisión cuando de lo actuado aparezcan acreditados los siguientes requisitos:
+Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del juez, se dictará el auto de formal prisión, mismo que deberá contener el delito que se impute al acusado, el lugar, tiempo y circunstancias de la ejecución, así como los datos que arroje la averiguación previa, datos que deberán ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del indiciado. El auto de formal prisión se dictará cuando de lo actuado aparezcan acreditados los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1994)</small>
 
 I.- Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
 
-II.- Que estén comprobados los elementos del tipo penal de que se trate y que tenga señalada sanción privativa de libertad;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1999)</small>
+
+II.- Que esté comprobado el cuerpo del delito de que se trate y que tenga señalada sanción privativa de libertad;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1994)</small>
 
 III.- Que en relación a la fracción anterior esté demostrada la probable responsabilidad del inculpado; y
 
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1994)</small>
+
 IV.- Que no esté plenamente comprobada a favor del inculpado, alguna causa que elimine su responsabilidad o que extinga la acción penal.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 El plazo a que se refiere el párrafo primero de este artículo, se duplicará cuando lo solicite el inculpado por sí o por su defensor, al rendir su declaración preparatoria, siempre que dicha ampliación sea con la finalidad de desahogar las pruebas que en esa misma diligencia ofrezca, para que el Juez resuelva su situación jurídica.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+
 El Ministerio Público no podrá solicitar dicha ampliación, ni el Juez decretarla de oficio; el Ministerio Público en ese plazo puede, solo en relación con las pruebas o alegatos que propusiere el inculpado o su defensor, hacer las promociones correspondientes al interés social que representa.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 La ampliación del plazo se deberá notificar al director del reclusorio preventivo en donde, en su caso, se encuentre internado el inculpado, para los efectos a que se refiere la última parte del primer párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1253,9 +1273,11 @@ La ampliación del plazo se deberá notificar al director del reclusorio prevent
 
 Cuando el delito cuya existencia se haya comprobado no merezca privación de libertad, o éste contemple sanción alternativa, se dictará auto con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra la cual aparezcan datos suficientes que hagan probable su responsabilidad, para el solo efecto de señalar el delito por el que deba seguirse el proceso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 1999)</small>
+
 ###### Art. 153.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 1994)
+Los autos a que se refieren los dos artículos anteriores se dictarán por el delito que aparezca comprobado, aun cuando con ello se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores.
 
 ###### Art. 154.
 
@@ -1281,7 +1303,7 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 Disposiciones comunes a la averiguación previa y a la instrucción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 1999)</small>
 
 ### CAPITULO II.
 
@@ -1289,9 +1311,11 @@ Huellas del delito.- Aseguramiento de los instrumentos y objetos del mismo.
 
 ###### Art. 158.
 
-El Ministerio Público acreditará los elementos del tipo penal de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción, y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos, para darle curso al proceso.
+El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción, y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos, para darle curso al proceso.
 
-Los elementos del tipo penal de que se trate y la probable responsabilidad se acreditará por cualquier medio probatorio que señale la Ley.
+Para efectos de este Código, se entenderá por cuerpo del delito el conjunto de elementos que su integración requiera, de acuerdo a su definición legal; y por probable responsabilidad, que las constancias que se hayan recabado acrediten presuncionalmente que el acusado ejecutó el hecho delictuoso o que participó en su comisión.
+
+El cuerpo del delito de que se trate y la probable responsabilidad, se acreditará por cualquier medio probatorio que señale la ley.
 
 ###### Art. 159.
 
@@ -1348,6 +1372,14 @@ Atención médica a los lesionados.
 Los instrumentos del delito y las cosas objeto o efecto de él, así como aquellos en que existan huellas del mismo o pudieran tener relación con éste, serán asegurados ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para el objeto de que no se alteren, destruyan o desaparezcan.
 
 De todas las cosas aseguradas se hará un inventario en el que se las describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1999)</small>
+
+Las cosas objeto del delito aseguradas durante la averiguación previa, que no estén a disposición del juez y no fueren recogidas por quien tenga derecho a ello, en un plazo de un año contado a partir de dicho aseguramiento, se venderán en subasta pública y su producto se aplicará en favor del Estado, por conducto de la Secretaría de Planeación y Finanzas. Si se tratare de dinero en efectivo, se depositará en la Secretaría de Planeación y Finanzas y, se le dará igual aplicación una vez transcurrido el plazo de referencia.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1999)</small>
+
+Tratándose de bienes que no se puedan conservar o de costoso mantenimiento, se procederá a su venta inmediata y su producto se dejará a disposición de quien tenga derecho al mismo, por el lapso de un año, transcurrido el cual se observará lo dispuesto en el párrafo anterior.
 
 ###### Art. 171.
 
@@ -1466,6 +1498,10 @@ Si la integración de la averiguación previa requiriera mayor tiempo del señal
 ###### Art. 184.
 
 Cuando estén reunidos los requisitos del artículo 16 constitucional, el tribunal librará orden de aprehensión contra el inculpado, a pedimento del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1999)</small>
+
+La orden de aprehensión o, en su caso, de comparecencia, se librará por el delito que aparezca comprobado, aún cuando cambie la apreciación legal del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -2115,7 +2151,7 @@ Juicio.
 
 Procedimiento ante los Jueces Menores.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 293.
 
@@ -2135,7 +2171,7 @@ Procedimiento relativo al Jurado Popular.
 
 ###### Art. 295.
 
-Cuando se trate de delitos de la competencia de los Jueces Menores, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias se seguirá dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerán las Salas del Supremo Tribunal de Justicia.
+Cuando se trate de delitos de la competencia de los jueces menores, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquellas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los artículos 282 y 283. Del recurso de apelación en contra de las resoluciones que dicten los juzgados menores, conocerán los juzgados de partido, en los términos de los artículos 354 y 355 de este Código.
 
 ### CAPITULO IV.
 
@@ -2455,6 +2491,8 @@ Recursos.
 
 Apelación.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
+
 ###### Art. 349.
 
 Solamente los autos contra los cuales no se conceda por este Código el recurso de apelación, serán revocables por el tribunal que los dictó.
@@ -2478,10 +2516,6 @@ Denegada apelación.
 ###### Art. 351.
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba o si se alteraron los hechos.
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1997)</small>
-
-Del recurso de apelación, conocerán las Salas del Supremo Tribunal de Justicia.
 
 ###### Art. 352.
 
@@ -2619,7 +2653,9 @@ Bis.- El Juez que hubiere emitido la resolución apelada informará inmediatamen
 
 Si solamente hubiere apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
 
-Si se tratare de auto de formal prisión, podrá cambiarse la clasificación del delito y dictarse por el que aparezca probado.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE JUNIO DE 1999)</small>
+
+Si se tratare del auto que resuelve la situación jurídica del inculpado, podrá cambiarse la clasificación del delito y dictarse por el que aparezca probado.
 
 ###### Art. 374.
 
@@ -2911,7 +2947,7 @@ Cuando un tercero haya garantizado la libertad de un inculpado, las órdenes par
 
 Libertad por desvanecimiento de datos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 406.
 
@@ -2967,7 +3003,7 @@ Substanciación de las competencias.
 
 ###### Art. 410.
 
-La libertad por desvanecimiento de datos procede cuando, en cualquier estado de la instrucción y después de dictado auto de formal prisión, aparezcan plenamente desvanecidos los datos que sirvieron para comprobar los elementos del tipo penal o la probable responsabilidad del procesado.
+La libertad por desvanecimiento de datos procede cuando, en cualquier estado de la instrucción y después de dictado auto de formal prisión, aparezcan plenamente desvanecidos los datos que sirvieron para comprobar el cuerpo del delito o la probable responsabilidad del procesado.
 
 ###### Art. 411.
 
@@ -3948,3 +3984,13 @@ P.O. 17 DE JUNIO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de los artículos reformados, los asuntos que se encuentren en trámite al momento de entrar en vigor el presente decreto, continuarán substanciándose ante el tribunal que esté conociendo de los mismos.
