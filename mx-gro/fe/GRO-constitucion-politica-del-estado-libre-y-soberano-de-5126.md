@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1993-07-20"
+last_updated: "1994-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1994.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -649,11 +649,11 @@ El mismo veinticuatro de marzo, después de instalada la Legislatura iniciará s
 
 Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la mayoría del número total de sus miembros, debiendo reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 41.
 
-Habrá en cada año dos períodos de sesiones ordinarias: el primero comenzará el 15 de noviembre y terminará el 2 de abril y el segundo el 1o. de julio y terminará el 31 de agosto. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieren abrirse o cerrarse las sesiones en los días señalados, éstos actos se verificarán en la forma que lo acuerden los diputados.
+Habrá en cada año dos períodos de sesiones ordinarias, el primero comenzará el 15 de noviembre y terminará el 30 de abril, y el segundo el 1o. de julio y terminará el 31 de agosto. Ambos períodos podrán prorrogarse por el tiempo que acuerde el Congreso y lo requiera la importancia de los asuntos pendientes. En caso de que por alguna circunstancia no pudieran abrirse o cerrarse las sesiones en los días señalados, estos actos se verificarán en la forma que acuerden los Diputados.
 
 La Ley Orgánica del Poder Legislativo señalará las formalidades con que deberán celebrarse la apertura y clausura de las sesiones.
 
@@ -663,7 +663,7 @@ La Ley Orgánica del Poder Legislativo señalará las formalidades con que deber
 
 El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea convocado para ese objeto por la Comisión Permanente, por sí o a solicitud del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1994)</small>
 
 ## TITULO QUINTO. DE LA ESTRUCTURA POLITICA DEL ESTADO DE GUERRERO
 
@@ -675,15 +675,15 @@ El Congreso podrá reunirse para realizar sesiones extraordinarias, cuando sea c
 
 ###### ARTICULO 43.
 
-El Gobernador del Estado deberá enviar al Congreso en los primeros quince días del mes de febrero, salvo en el último año del mandato que se hará en la primera quincena de enero, el Informe escrito pormenorizado del estado que guarda la administración pública de la Entidad correspondiente al año natural inmediato anterior, para su trámite constitucional, conforme a lo siguiente:
+El Gobernador del Estado deberá enviar al Congreso en la primera quincena de abril, salvo en el último año del mandato que se hará en la primera quincena de enero, el informe escrito pormenorizado del estado que guarda la Administración Pública de la Entidad correspondiente al año natural inmediato anterior, para su trámite constitucional, conforme a lo siguiente:
 
-I.- Si el Gobernador del Estado asiste a sesión del Congreso para leer un mensaje sobre dicho Informe, esa sesión será solemne y se llevará a cabo dentro de la segunda quincena del mes de febrero. El Presidente del Congreso contestará el Informe en términos generales y al efecto se invitará a un representante del Jefe del Estado Mexicano a la referida ceremonia para pronunciar un mensaje alusivo, y en los términos del artículo 74 Fracción VIII.
+I.- Si el Gobernador del Estado asiste a sesión del Congreso para leer un mensaje sobre dicho informe, esa sesión será solemne y se llevará a cabo en la segunda quincena de abril. El Presidente del Congreso contestará el informe en términos generales y al efecto se invitará a un representante del Jefe del Estado Mexicano a la referida ceremonia para pronunciar un mensaje alusivo, y en los términos del Artículo 74 fracción VIII.
 
-El discurso de contestación del Presidente se fundará en el Informe enviado con antelación y será acordado por el Congreso.
+El discurso de contestación del Presidente del Congreso se fundará en el informe enviado con antelación y será acordado por la Legislatura.
 
-II. Si el Gobernador del Estado no acude a la sesión señalada en la fracción anterior, en la segunda quincena del mes de febrero se presentarán a sesión el Secretario General de Gobierno y los Secretarios de Despacho para responder a los planteamientos que sobre el Informe de Gobierno formulen los Diputados, y sin perjuicio de la presentación de sus respectivas memorias del ramo y de que comparezcan con sujeción al artículo 45.
+II.- Si el Gobernador del Estado no acude a la sesión señalada en la fracción anterior, en la segunda quincena del mes de abril se presentarán a sesión el Secretario General de Gobierno y los Secretarios de Despacho para responder a los planteamientos que sobre el Informe de Gobierno formulen los Diputados, sin perjuicio de la presentación de sus respectivas memorias del ramo y de que comparezcan con sujeción al Artículo 45 de esta Constitución. En el último año del mandato Constitucional, la sesión se realizará en la segunda quincena de enero.
 
-Lo anterior sin menoscabo del análisis y discusión que sobre el Informe realicen los Diputados.
+Lo anterior sin menoscabo del análisis y discusión que sobre el informe realicen los Diputados.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1091,7 +1091,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1197,9 +1197,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 75.
 
@@ -1231,9 +1231,9 @@ Cuando conforme al régimen de excusas y recusaciones propio de la actividad jur
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 77.
 
@@ -1351,9 +1351,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 89.
 
@@ -1443,7 +1443,9 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 94.
 
@@ -1555,7 +1557,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1869,11 +1871,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1893,11 +1895,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+## TITULO NOVENO. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1909,17 +1911,15 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2632,3 +2632,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE JULIO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
