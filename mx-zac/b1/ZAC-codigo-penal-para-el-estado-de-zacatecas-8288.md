@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1996-09-14"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2135,7 +2135,9 @@ Las sanciones para este delito serán las mismas que para el fraude establece el
 
 344.- Se impondrá prisión de seis meses a cinco años y multa de cien a doscientas cuotas:
 
-I.- A la persona que prestare con interés superior al costo porcentual promedio o su equivalente que rija al momento de la celebración del préstamo u obtenga para sí o para otro, ventajas evidentemente desproporcionadas con tal operación;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- A la persona que prestare con interés superior al bancario que, conforme a la Ley de la materia, rija al momento de la celebración del préstamo u obtenga para sí o para otro ventajas evidentemente desproporcionadas con tal operación, así se encubra con cualquiera otra forma contractual;
 
 II.- A la persona que sirva de intermediario para obtener un préstamo cualquiera en favor de otra y cobre, para sí o para terceros, por su intervención, una comisión superior al tres por ciento con respecto del capital original; y
 
@@ -2143,7 +2145,9 @@ III.- Al que con conocimiento de causa, hubiera adquirido para enajenarlos o hac
 
 Se estimarán usurarios el interés de tal préstamo o comisión cuando reúna las condiciones mencionadas en la fracción I de este artículo.
 
-A la persona moral responsable de alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+A la persona moral, bajo cuyo amparo o protección se cometa alguno de estos delitos, se le impondrá suspensión de sus actividades hasta por un año, y además serán sancionados penalmente los dirigentes, administradores y mandatarios que ordenen, permitan o ejecuten dichos delitos.
 
 ### CAPITULO VII. DESPOJO DE INMUEBLES Y AGUAS
 
@@ -2710,3 +2714,7 @@ P.O. 14 DE SEPTIEMBRE DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la Federación, Organo del Gobierno del Estado.
