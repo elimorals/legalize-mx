@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1948-01-05"
+last_updated: "1951-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1951.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -408,19 +408,21 @@ I.- Si no se excediere de cien pesos, se podrá conceder un plazo hasta de cient
 
 II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de seis meses y que se haga por tercias partes, en el caso y con las condiciones expresadas en la fracción anterior.
 
-### CAPITULO VI. Pérdida de los instrumentos del delito
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1945)</small>
+### CAPITULO VI. Pérdida de los instrumentos y objetos del delito
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 40.
 
-Todos aquellos objetos que se encuentren a disposición de las Autoridades Judiciales del orden penal, que no estuvieran comprendidos en los señalados anteriormente en este propio precepto y hubieren permanecido por un lapso mayor de tres años a disposición de dichas autoridades sin que hayan sido recogidos por sus legítimos propietarios, en los casos en que procede su devolución, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, considerándose al Tribunal Superior de Justicia del Distrito y Territorios Federales como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta a un cincuenta por ciento del valor en que se realicen los bienes y que se destinará al mejoramiento de la administración de justicia.
+Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como las que sean objetos de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito a que se refiere este artículo, se decomisarán al acusado solamente cuando fuere condenado por delito intencional. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleados para fines delictuosos, con conocimiento de su dueño.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 41.
 
-Si los instrumentos o cosas de que habla la primera parte del artículo anterior, sólo sirven para delinquir, se destruirán al ejecutar la sentencia irrevocable.
-
-Fuera de este caso, se aplicarán al Ejecutivo, si le fueren útiles; en caso contrario, se venderán a personas que no tengan prohibición de usarlos y su precio se aplicará a la mejora material de las prisiones.
+Todos aquellos objetos que se encuentren a disposición de las autoridades judiciales del orden penal, que no hayan sido y no puedan ser decomisados y que en un lapso mayor de tres años no sean recogidos por quien tenga derecho para hacerlo, en los casos en que proceda su devolución, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, teniéndose al Tribunal Superior de Justicia del Distrito y Territorios Federales como denunciante, para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha institución se aumenta a un 50% y que se destinará al mejoramiento de la administración de justicia.
 
 ### CAPITULO VII. Amonestación
 
@@ -536,6 +538,8 @@ Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno
 
 ### CAPITULO III. Aplicación de sanciones en caso de tentativa
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 60.
 
 Los delitos de imprudencia se castigarán con prisión de tres días a cinco años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio, según sea la imprudencia leve o grave. Sin embargo, cuando a consecuencia de actos u omisiones imprudentes que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera, o de cualesquiera otros transportes de concesión federal, se causen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
@@ -550,33 +554,25 @@ III.- Si los acusados han delinquido anteriormente en circunstancias semejantes,
 
 IV.- Si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO , D.O.F. 10 DE FEBRERO DE 1945)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 61.
 
-Fuera del caso consignado en el párrafo segundo del artículo anterior, los delitos de imprudencia se castigarán con penas que no excedan de las tres cuartas partes de las que corresponderían si el delito fuera intencional.
+En los casos a que se refiere la primera parte del primer párrafo del artículo anterior, las penas por delito de imprudencia, con excepción de la reparación del daño, no excederán de las tres cuartas partes de las que corresponderían si el delito de que se trata fuere intencional.
 
-Si al delito intencional debiera aplicarse una sanción pecuniaria, se aplicará hasta las tres cuartas partes de la multa al cometido por imprudencia.
+Siempre que al delito intencional corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al delincuente por imprudencia.
 
-La reparación del daño será siempre igual, lo mismo en el delito de imprudencia que en el intencional.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 62.
 
-El delito de imprudencia sólo se sancionará con multa hasta por la cantidad de cien pesos y la reparación del daño:
-
-I.- Cuando sea tan leve que no produzca lesiones o cause únicamente daño en propiedad ajena por un valor menor de cien pesos, y
-
-II.- Cuando el daño en propiedad ajena, cualquiera que sea su valor, se haya causado con motivo del tránsito de vehículos, a menos que se trate del sistema ferroviario, de navíos, de aeronaves, o de cualesquiera otros transportes de concesión federal.
-
-En los casos previstos por las dos fracciones anteriores, el delito sólo se perseguirá a petición de la parte ofendida.
+Cuando el monto de un delito de daño en propiedad ajena por imprudencia, no sea mayor de cien pesos, o cuando aunque se supere esa suma resulte cometido con motivo del tránsito de vehículos, a menos que se trate del sistema ferroviario, de navíos, de aeronaves, o de cualesquiera otros transportes de concesión federal, únicamente se sancionará con multa hasta por la cantidad de cien pesos y reparación del daño. En tales casos, sólo será perseguible el delito mediante querella de la parte ofendida si no concurren lesiones u homicidio.
 
 ### CAPITULO IV. Aplicación de sanciones a los responsables de varios delitos y a los reincidentes
 
 ###### ARTICULO 63.
 
-A los responsables de tentativas punibles, se les aplicará, a juicio del juez, y teniendo en consideración las prevenciones de los artículos 52 y 59 hasta las dos terceras partes de la sanción que debiera imponérseles si el delito se hubiere consumado.
+A los responsables de tentativas punibles, se les aplicará a juicio del Juez y teniendo en consideración las prevenciones de los artículos 52 y 59, hasta las dos terceras partes de la sanción que se les debiera imponer de haberse consumado el delito salvo disposición en contrario.
 
 ### CAPITULO V. Reclusión para enfermos mentales y sordomudos
 
@@ -884,13 +880,17 @@ La prescripción de las acciones se interrumpirá por las actuaciones que se pra
 
 Si se dejara de actuar, la prescripción comenzará de nuevo desde el día siguiente a la última diligencia.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 111.
 
-Lo prevenido en la parte final del artículo anterior, no comprende el caso en que las diligencias se practiquen después que haya transcurrido la cuarta parte del término de la prescripción; pues entonces ya no se podrá interrumpir ésta, sino por la aprehensión del acusado. Si desde que se cometió el delito, o desde que cesó, si fuere continuo, o desde que se realizó el último acto de ejecución en la tentativa, hubiere transcurrido un tiempo igual a la tercera parte del término de la prescripción, tampoco se interrumpirá ésta, sino por la aprehensión del acusado.
+Las prevenciones contenidas en el artículo anterior, no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino con la aprehensión del inculpado.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 112.
 
-Si para deducir una acción penal exigiere la ley previa declaración de alguna autoridad, las gestiones que a ese fin se practiquen interrumpirán la prescripción.
+Si para deducir una acción penal exigiere la ley previa declaración de alguna autoridad, las gestiones que a ese fin se practiquen, antes del término señalado en el artículo precedente, interrumpirán la prescripción.
 
 ###### ARTICULO 113.
 
@@ -908,13 +908,15 @@ La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes
 
 ### CAPITULO II. Espionaje
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 116.
 
 La privación de derechos civiles o políticos prescribirá en veinte años.
 
 ### CAPITULO III. Conspiración
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 117.
 
@@ -970,29 +972,37 @@ Cuando el menor llegue a los dieciocho años antes de terminar el período de re
 
 ### CAPITULO III. Delitos de disolución social
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 123.
 
 Comete el delito de traición: el que atenta contra la independencia de la República Mexicana, su soberanía, su libertad o la integridad de su territorio, si el delincuente tiene la calidad de mexicano por nacimiento o por naturalización, o ha renunciado su nacionalidad de mexicano, dentro de los tres meses anteriores a la declaración de guerra o al rompimiento de las hostilidades entre un enemigo extranjero y México, si no ha precedido esa declaración.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 124.
 
-Se impondrán prisión de ocho a treinta años y multa de mil a diez mil pesos, por el delito previsto en el artículo precedente y, además, en los casos siguientes:
+Se impondrán prisión de ocho a treinta años y multa de mil a cincuenta mil pesos, por el delito previsto en el artículo precedente y, además, en los casos siguientes:
 
-I.- Al que destruya o quite las señales que marcan las fronteras de la Nación o de cualquier otro modo haga que se confundan, siempre que se origine algún conflicto a la República o ésta se halle en guerra extranjera. Faltando esta circunstancia, se aplicará prisión hasta por un año y multa de cien a mil pesos;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
+
+I.- Al que destruya o quite las señales que marcan las fronteras de la Nación o de cualquier otro modo haga que se confundan, siempre que se origine algún conflicto a la República o ésta se halle en guerra extranjera. Faltando esa circunstancia se aplicará prisión hasta por cinco años y multa hasta de diez mil pesos;
 
 II.- Al que enajene de cualquier modo una parte del territorio nacional, o contribuya de cualquier manera a su desmembración;
 
 III.- Al que celebre o ejecute tratados o pactos de alianza ofensiva que produzcan la guerra de México con otra potencia, o sin los requisitos constitucionales, admita tropas extranjeras en el país;
 
-IV.- Al que solicite la intervención o el protectorado de una nación extranjera, o que ésta o algún filibustero hagan la guerra a México, si se realizare cualquiera de estos hechos.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
-Cuando falte esta condición, la prisión será de cuatro a ocho años y la multa hasta de tres mil pesos;
+IV.- Al que solicite la intervención o el protectorado de una nación extranjera, o que ésta o algún filibustero hagan la guerra a México, si se realizare cualesquiera de estos hechos.
+
+Cuando falte esta condición la prisión será de cuatro a ocho años y la multa hasta de diez mil pesos;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
 V.- Al que invite a individuos de otra nación para que invadan el territorio nacional, sea cual fuere el motivo o el pretexto que se tome, si la invasión se verificare.
 
-En caso contrario, se aplicarán de cuatro a ocho años de prisión multa hasta de tres mil pesos;
+En caso contrario se aplicarán de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
 
 VI.- Al que reclute en México gente para hacer la guerra a la Patria bajo la bandera de una potencia enemiga;
 
@@ -1008,9 +1018,11 @@ XI.- Al que, estando ya declarada la guerra o rotas las hostilidades, forme o fo
 
 XII.- Al que acepte del enemigo un empleo, cargo o comisión en que tenga que dictar, acordar o votar providencias encaminadas a afirmar al gobierno intruso y debilitar al nacional, a favorecer el progreso de las operaciones militares del enemigo o su triunfo, u oponer obstáculo al triunfo de la Nación Mexicana, o al que en lugar ocupado por el enemigo, desempeñe un empleo o cargo de igual importancia de los que se mencionan en este inciso, conferido por una autoridad legítima de la Nación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 125.
 
-Se aplicarán de uno a cinco años de prisión y multa de mil a diez mil pesos:
+Se aplicarán de uno a diez años de prisión y multa de mil a veinte mil pesos:
 
 I.- Al que haga una invitación formal y directa para cometer el delito de traición.
 
@@ -1026,19 +1038,19 @@ V.- Al funcionario que compromete la vida o la dignidad de la República, y
 
 VI.- Al que en lugar ocupado por el enemigo desempeñe un empleo conferido por una autoridad legítima de la Nación, que no sea de los indicados en la fracción XII del artículo anterior, o al que lo acepte del enemigo y lo desempeñe.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 126.
 
-Se impondrá prisión de uno a cinco años y multa de quinientos a dos mil pesos, a los que conspiren para cometer el delito de traición a la Patria.
+Se impondrán prisión de uno a diez años y multa de mil a veinte mil pesos a los que conspiren para cometer el delito de traición a la Patria.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ### CAPITULO I. Piratería
 
 ###### ARTICULO 127.
 
-A los extranjeros residentes en la República que, no siendo de la nación con la cual México esté en guerra, cometieren alguno de los delitos previstos en el artículo 124, se les aplicará prisión hasta por diez años, y si fuere de los incluídos en el artículo 125, se les impondrá prisión hasta por tres años.
-
-Cuando el extranjero sea de la nación con quien México esté en guerra, se le impondrá en el primer caso prisión hasta por ocho años, y en el segundo hasta por dos años.
+A los extranjeros residentes en la República que, no siendo de la nación con la cual México esté en guerra, cometieren alguno de los delitos previstos en el artículo 124, se les impondrá prisión hasta por veinte años y multa hasta por veinte mil pesos, y si fueren de los incluídos en el artículo 125, se les impondrá prisión hasta por cinco años y multa hasta por cinco mil pesos.
 
 ###### ARTICULO 128.
 
@@ -1046,23 +1058,21 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de lo que previe
 
 ###### ARTICULO 129.
 
-Se aplicará prisión de veinte a treinta años y multa hasta de dos mil pesos, al que declarada la guerra, o rotas las hostilidades, esté en relación, o tenga inteligencia con el enemigo extranjero, guiándolo, dándole instrucciones, consejos, o proporcionándole noticias concernientes a las operaciones militares.
+Se aplicará prisión de veinte a treinta años y multa hasta de cincuenta mil pesos, al que declarada la guerra o rotas las hostilidades, esté en relación o tenga inteligencia con el enemigo extranjero, guiándolo, dándole instrucciones, consejos o proporcionándole noticias concernientes a las actividades diplomáticas o militares.
 
-Cuando las noticias no tengan ese objeto, pero fueren útiles al enemigo, la sanción será de cuatro a cinco años de prisión, y multa hasta de un mil pesos.
+Cuando las noticias no tengan ese objeto, pero fueren útiles al enemigo, la sanción será de cuatro a diez años de prisión y multa hasta de veinte mil pesos.
 
-Se aplicará prisión de veinte a treinta años y pérdida de los derechos políticos, al funcionario o empleado público, que declarada la guerra o rotas las hostilidades, teniendo en su poder, por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto o rada, o conociendo el secreto de una negociación o de una expedición militar, entregue aquél o revele éste al enemigo.
+Se aplicará prisión de veinte a treinta años, multa hasta de cincuenta mil pesos y privación de derechos políticos hasta por veinte años, al funcionario o empleado público que declarada la guerra o rotas las hostilidades, teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto, rada, establecimientos industriales o militares, o conociendo el secreto de una negociación o de una medida militar, entregue aquél o revele éste al enemigo. Cuando esos actos se realicen en tiempo de paz, la prisión será de diez a veinte años, la multa hasta de treinta mil pesos y la privación de derechos políticos hasta por diez años.
 
-Se aplicará prisión de seis a doce años y multa hasta de un mil pesos, al que en tiempo de paz, esté en relación o tenga inteligencia con un gobierno extranjero, con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles operaciones u obras militares de defensa.
+Se aplicará prisión de diez a veinte años y multa hasta de treinta mil pesos, al que en tiempo de paz esté en relación o tenga inteligencia con un gobierno extranjero, con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles actividades o establecimientos militares.
 
-Se aplicará prisión de diez a quince años y pérdida de los derechos políticos, al funcionario o empleado público, que en tiempo de paz, teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto o rada, o conociendo el secreto de una negociación o de una medida militar preventiva, entregue aquél o revele éste a cualquier gobierno extranjero.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ### CAPITULO II. Violación de inmunidad y de neutralidad
 
 ###### ARTICULO 130.
 
-Cuando la revelación del secreto o la entrega de los planos de que se habla en el artículo anterior, se hagan a una potencia neutral, se impondrán al delincuente de dos a cinco años de prisión, pero subsistirá la multa hasta de mil pesos.
+Cuando la revelación de secretos o la entrega de planos de que se habla en el artículo anterior es (sic) hagan a una potencia neutral, se impondrán al delincuente de cinco a diez años de prisión y multa hasta de quince mil pesos.
 
 ### CAPITULO III. Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales
 
@@ -1074,7 +1084,7 @@ Cuando la entrega de planos o la revelación de que hablan los dos artículos an
 
 ###### ARTICULO 132.
 
-Hay conspiración: siempre que dos o más personas resuelven, de concierto, cometer alguno de los delitos de que tratan los dos capítulos anteriores o el I y II del título siguiente, acordando los medios de llevar a efecto su determinación. La sanción aplicable será hasta de un año de prisión y multa hasta de mil pesos, salvo lo dispuesto en el artículo 126.
+Hay conspiración siempre que dos o más personas resuelven de concierto, cometer alguno de los delitos de que tratan los dos Capítulos anteriores, o el primero y segundo del Título siguiente, acordando los medios de llevar a efecto su determinación. La sanción aplicable será hasta de cinco años y multa hasta de diez mil pesos, salvo lo dispuesto en el artículo 126.
 
 ###### ARTICULO 133.
 
@@ -1090,21 +1100,27 @@ II.- Impedir la integración de éstas o su libre ejercicio, y
 
 III.- Separar de sus cargos a alguno de los altos funcionarios de la Federación, mencionados en el artículo 108 de la Constitución Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 134.
 
-Se impondrán prisión de uno a seis años, multa de cien a dos mil pesos y privación de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente, y además en los casos siguientes:
+Se impondrá prisión de dos a doce años, multa de cien a cinco mil pesos y privación de derechos políticos hasta por cinco años, por el delito previsto en el artículo precedente y además en los casos siguientes:
 
 I.- Al que se alce en armas contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales, o para lograr alguno de los objetos a que se refiere la parte final del artículo anterior, cuando, interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de la República, los rebeldes no depongan las armas;
 
-II.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte, o impida que las tropas del Gobierno reciban esos auxilios.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
-Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a un año, y
+II.- Al que residiendo en territorio ocupado por el Gobierno, bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medios de transporte, o impida que las tropas del Gobierno reciban esos auxilios.
+
+Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a cinco años, y,
 
 III.- Al funcionario público que teniendo, por razón de su empleo o cargo, el plano de una fortificación, puerto o rada, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 135.
 
-Se aplicarán de tres meses a un año de prisión:
+Se aplicarán de uno a diez años de prisión y multa hasta de diez mil pesos:
 
 I.- Al que invite formal y directamente para una rebelión;
 
@@ -1118,9 +1134,11 @@ IV.- Al que voluntariamente sirva un empleo, cargo subalterno o comisión en lug
 
 A los jefes o agentes del Gobierno y a los rebeldes que, después del combate, dieren muerte a los prisioneros, se les aplicará prisión de quince a treinta años.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 137.
 
-A los extranjeros que cometan el delito de rebelión, se les aplicará de seis a diez años de prisión y se les expulsará de la República.
+A los extranjeros que cometan el delito de rebelión, se les aplicarán de seis a diez años de prisión y multa de mil a quince mil pesos y se les expulsará de la República.
 
 ###### ARTICULO 138.
 
@@ -1146,11 +1164,13 @@ Cuando en las rebeliones se pusiere en ejercicio, para hacerlas triunfar, el hom
 
 Son reos de sedición los que reunidos tumultuariamente, pero sin armas, resisten a la autoridad o la atacan para impedirle el libre ejercicio de sus funciones, con alguno de los objetos a que se refiere el artículo 133.
 
-### CAPITULO I. Ataques a las vías de comunicación
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
+### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
 
 ###### ARTICULO 142.
 
-La sedición se castigará con dos meses a dos años de prisión.
+La sedición se castigará con prisión de seis meses a cinco años.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1158,23 +1178,27 @@ La sedición se castigará con dos meses a dos años de prisión.
 
 En lo que sea aplicable a la sedición, se observarán los artículos 136 y 140.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 144.
 
-Son reos del delito de asonada o motín: los que, para hacer uso de un derecho, se reúnen tumultuariamente. Este delito se castigará con prisión de tres a treinta días y multa de cinco a cincuenta pesos.
+Son reos del delito de asonada o motín; los que, para hacer uso de un derecho se reúnen tumultuariamente. Este delito se castigará con prisión de un mes a dos años y multa de cincuenta a quinientos pesos.
 
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
 
 ###### ARTICULO 145.
 
-Se apliará (sic) prisión de dos a seis años, al extranjero o nacional mexicano, que en forma hablada o escrita, o por cualquier otro medio, realice propaganda política entre extranjeros o entre nacionales mexicanos, difundiendo ideas, programas o normas de acción de cualquier gobierno extranjero, que perturbe el orden público o afecte la soberanía del Estado Mexicano.
+Se aplicarán prisión de dos a doce años y multa de mil a diez mil pesos, al extranjero o nacional mexicano que en forma hablada o escrita, o por cualquier otro medio, realice propaganda política entre extranjeros o entre nacionales mexicanos, difundiendo ideas, programas o normas de acción de cualquier gobierno extranjero que perturben el orden público o afecten la soberanía del Estado mexicano.
 
-Se perturba el orden público, cuando los actos determinados en el párrafo anterior, tiendan a producir rebelión, sedición, asonada o motín.
+Se perturba el orden público cuando los actos determinados en el párrafo anterior, tiendan a producir rebelión, sedición, asonada o motín.
 
-Se afecta la soberanía Nacional, cuando dichos actos puedan poner en peligro la integridad territorial de la República, obstaculicen el funcionamiento de sus instituciones legítimas o propaguen el desacato de parte de los nacionales mexicanos a sus deberes cívicos.
+Se afecta la soberanía nacional cuando dichos actos puedan poner en peligro la integridad territorial de la República, obstaculicen el funcionamiento de sus instituciones legítimas o propaguen el desacato de parte de los nacionales mexicanos a sus deberes cívicos.
 
-Se aplicará prisión de seis a diez años, al extranjero o nacional mexicano que, en cualquier forma, realice actos de cualquiera naturaleza, que preparen material o moralmente la invasión del territorio nacional, o la sumisión del país, a cualquier gobierno extranjero.
+Se aplicarán las mismas penas al extranjero o nacional mexicano que por cualquier medio induzca o incite a uno o más individuos a que realicen actos de sabotaje, a subvertir la vida institucional del País, o realice actos de provocación con fines de perturbación del orden o la paz pública y al que efectúe tales actos. En el caso de que los mismos actos constituyan otros delitos, se aplicarán además las sanciones de éstos.
 
-Cuando el sentenciado en el caso de los párrafos anteriores sea un extranjero, las penas a que antes se ha hecho referencia, se aplicarán sin perjuicio de la facultad que concede al Presidente de la República el artículo 33 de la Constitución.
+Se aplicará prisión de diez a veinte años, al extranjero o nacional mexicano que, en cualquier forma, realice actos de cualquier naturaleza, que prepare material o moralmente la invasión del territorio nacional o la sumisión del País a cualquier gobierno extranjero.
+
+Cuando el sentenciado en el caso de los párrafos anteriores, sea un extranjero, las penas a que antes se ha hecho referencia se aplicarán sin perjuicio de la facultad que concede al Presidente de la República el artículo 33 de la Constitución.
 
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 1941)</small>
 
@@ -1292,7 +1316,9 @@ El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que q
 
 Son armas prohibidas:
 
-I.- Los puñales, verduguillos y demás armas ocultas o disimuladas en bastones u otros objetos;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
+
+I.- Los puñales y cuchillos, así como los verduguillos y demás armas ocultas o disimuladas en bastones u otros objetos.
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares;
 
@@ -1304,9 +1330,11 @@ IV.- Las que otras leyes o el Ejecutivo designen como tales.
 
 Se necesita licencia especial para portación o venta de las pistolas o revólveres.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 162.
 
-Se aplicará de seis meses a un año de prisión o multa de diez a mil pesos, o ambas sanciones, a juicio del juez:
+Se aplicarán de seis meses a tres años de prisión y multa de diez a dos mil pesos:
 
 I.- Al que importe, fabrique o venda las armas enumeradas en el artículo 160; o las regale o trafique con ellas;
 
@@ -1344,11 +1372,11 @@ b). Comprobar la necesidad que tiene para la portación de armas y sus anteceden
 
 Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinientos pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiera cometer o haya cometido.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-## TITULO QUINTO. Ataques a las vías de comunicación y violación de correspondencia
+## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ### CAPITULO II. Corrupción de menores
 
@@ -1356,9 +1384,13 @@ Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinien
 
 Se llaman caminos públicos las vías de tránsito habitualmente destinadas al uso público, sea quien fuere el propietario, y cualquiera que sea el medio de locomoción que se permita y las dimensiones que tuviere; excluyendo los tramos que se hallen dentro de los límites de las poblaciones.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 166.
 
-Al que quite, corte o destruya las ataderas que detienen una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a seis meses, si no resultare daño alguno; si se causare, se aplicará además la sanción correspondiente por el delito que resulte.
+Al que quite, corte o destruya las ataderas que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a dos años si no resultare daño alguno; si se causare se aplicará además la sanción correspondiente por el delito que resulte.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951) (F. DE E., D.O.F. 31 DE MAYO DE 1956)
 
 ###### ARTICULO 167.
 
@@ -1378,6 +1410,10 @@ VI.- Al que interrumpiere la comunicación telegráfica o telefónica, alámbric
 
 VII.- Al que destruya en todo o en parte o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
 
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 1951)</small>
+
+VIII.- Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad.
+
 ###### ARTICULO 168.
 
 Al que, para la ejecución de los hechos de que hablan los artículos anteriores, se valga de explosivos, se le aplicará prisión de quince a veinte años.
@@ -1392,11 +1428,15 @@ Se impondrán de diez a veinte años de prisión: al que incendiare un avión, u
 
 Si en el vehículo que se incendie no se halla persona alguna, la sanción será de dos a seis años.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 171.
 
-Se impondrán prisión hasta de seis meses y multa hasta de cien pesos:
+Se impondrán prisión hasta de seis meses, multa hasta de cien pesos y suspensión o pérdida del derecho a usar la licencia de manejador:
 
-A los que violaren dos o más veces los reglamentos o disposiciones sobre el tránsito y circulación de vehículos en lo que se refiere a exceso de velocidad.
+I.- Al que viole dos o más veces los reglamentos o disposiciones sobre el tránsito y circulación de vehículos, en lo que se refiere a exceso de velocidad.
+
+II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa alguna infracción a los reglamentos de tránsito y circulación al manejar vehículos de motor, independientemente de la sanción que le corresponda si causa daño a las personas o las cosas.
 
 ###### ARTICULO 172.
 
@@ -1606,9 +1646,11 @@ Se aplicarán prisión de seis meses a dos años y multa de cincuenta a mil peso
 
 Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de veinticinco a quinientos pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia. Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 203.
 
-La sanción que señala el artículo anterior se aumentará cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido, y de la patria potestad sobre todos sus descendientes.
+Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
 ###### ARTICULO 204.
 
@@ -1746,7 +1788,7 @@ II.- El que directa o indirectamente dé u ofrezca dádivas a la persona encarga
 
 ### CAPITULO II. Vagos y malvivientes
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 218.
 
@@ -1786,7 +1828,9 @@ Comete el delito de concusión: el encargado de un servicio público que, con el
 
 A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
 
-### CAPITULO I. Amenazas
+### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 224.
 
@@ -1796,7 +1840,7 @@ TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
-### CAPITULO II. Allanamiento de morada y asalto
+### CAPITULO I. Amenazas
 
 ###### ARTICULO 225.
 
@@ -1820,7 +1864,7 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IV (sic).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonestidad a las personas que asistan a su tribunal u oficina.
 
-### CAPITULO I. Lesiones
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 226.
 
@@ -1838,7 +1882,7 @@ TITULO DECIMOSEGUNDO
 
 Responsabilidad profesional
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 228.
 
@@ -1856,9 +1900,7 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 
 Igualmente serán responsables en la forma que previene el artículo 228, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 231.
 
@@ -1888,7 +1930,9 @@ TITULO DECIMOTERCERO
 
 Falsedad
 
-### CAPITULO IV. Parricidio
+### CAPITULO III. Reglas comunes para lesiones y homicidio
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 234.
 
@@ -1938,9 +1982,7 @@ Al que comete el delito de falsificación de billetes de banco en grado de tenta
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-### CAPITULO V. Infanticidio
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO IV. Parricidio
 
 ###### ARTICULO 239.
 
@@ -1960,7 +2002,9 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 
 Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
 
-### CAPITULO VI. Aborto
+### CAPITULO V. Infanticidio
+
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 241.
 
@@ -1998,7 +2042,7 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga u
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 243.
 
@@ -2062,9 +2106,11 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- Los encargados del servicio telegráfico, telefónico o de radio que supongan o falsifiquen un despacho de esa clase, y
 
-VII.- El que a sabiendas hiciere uso de un documento falso, sea público o privado.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
+
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 247.
 
@@ -2088,7 +2134,7 @@ El testigo, el perito o el intérprete que retracte espontáneamente sus falsas 
 
 Pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 249.
 
@@ -2100,9 +2146,7 @@ II.- Al que para eludir la práctica de una diligencia judicial o una notificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 250.
 
@@ -2126,7 +2170,9 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 
 IV.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 251.
 
@@ -2140,7 +2186,7 @@ TITULO DECIMOCUARTO
 
 Delitos contra la economía pública
 
-### CAPITULO I. Privación ilegal de libertad y otras garantías
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 253.
 
@@ -2170,21 +2216,19 @@ II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los a
 
 III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
 
-### CAPITULO I. Robo
+### CAPITULO UNICO. Privación ilegal de la libertad
 
 ###### ARTICULO 255.
 
-Se aplicará sanción de seis meses a tres años de prisión a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes.
+Se aplicará sanción de dos a cinco años de prisión a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes.
 
-Se estimarán malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad, o explotador de mujeres o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
+Se estimarán malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de mujeres o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
 
 ###### ARTICULO 256.
 
 A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo para sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión, y quedarán sujetos durante el tiempo que el juez estime pertinente, a la vigilancia de la policía.
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 257.
 
@@ -2218,9 +2262,9 @@ TITULO DECIMOQUINTO
 
 Delitos sexuales
 
-### CAPITULO III. Fraude
+### CAPITULO II. Abuso de confianza
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 260.
 
@@ -2252,7 +2296,9 @@ Al que por medio de la violencia física o moral tenga cópula con una persona s
 
 Se equipara a la violencia, la cópula con persona privada de razón o de sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir.
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO III. Fraude
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 267.
 
@@ -2276,9 +2322,7 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 272.
 
@@ -2288,7 +2332,9 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 273.
 
@@ -2312,6 +2358,8 @@ TITULO DECIMOSEXTO
 
 Delitos contra el estado civil y bigamia
 
+### CAPITULO VI. Daño en propiedad ajena
+
 ###### ARTICULO 277.
 
 Se impondrán de uno a seis años de prisión y multa de cien a mil pesos, a los que con el fin de alterar el estado civil incurran en alguna de las infracciones siguientes:
@@ -2334,23 +2382,25 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+
 TITULO DECIMOSEPTIMO
 
-Violación de las leyes sobre inhumaciones y exhumaciones
+Delitos en materia de inhumaciones y exhumaciones
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 280.
 
-Se impondrá prisión de tres días a seis meses y multa de cinco a cien pesos.
+Se impondrán prisión de tres días a dos años y multa de cinco a dos mil pesos:
 
-I.- Al que sepulte o mande sepultar un cadáver o un feto humanos, sin la orden de la autoridad que deba darla, o sin los requisitos que exijan los Códigos Civil y Sanitario, o leyes especiales;
+I.- Al que oculte, destruya o sepulte un cadáver o un feto humano, sin la orden de la autoridad que deba darla o sin los requisitos que exijan los Códigos Civil y Sanitario o leyes especiales.
 
-II.- Al que oculte o sin la licencia correspondiente sepulte o mande sepultar el cadáver de una persona a la que se haya dado muerte violenta o que haya fallecido a consecuencia de golpes, heridas u otras lesiones, si el reo sabía esa circunstancia.
+II.- Al que oculte, destruya, o sin la licencia correspondiente sepulte el cadáver de una persona, siempre que la muerte haya sido a consecuencia de golpes, heridas u otras lesiones, si el reo sabía esa circunstancia.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+En este caso no se aplicará sanción a los ascendientes o descendientes, cónyuge o hermanos del responsable del homicidio, y
 
-En este caso no se aplicará sanción a los ascendientes o descendientes, cónyuge y hermanos del responsable del homicidio, y
-
-III.- Al que exhume un cadáver sin los requisitos legales, o con violación de derechos.
+III.- Al que exhume un cadáver sin los requisitos legales o con violación de derechos.
 
 ###### ARTICULO 281.
 
@@ -2460,9 +2510,11 @@ I.- A cada uno de los responsables se les aplicarán las sanciones que procedan 
 
 II.- A todos los que hubieren atacado al ofendido con armas a propósito para inferirle las lesiones que recibió, si no constare quién o quiénes le infirieron las que presente o cuáles heridas le infirieron, se les aplicará prisión hasta de cuatro años.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 297.
 
-Si las lesiones fueran inferidas en riña o en duelo, se impondrá al responsable hasta la mitad o hasta cinco sextos de las sanciones señaladas en los artículos que anteceden, según sea el provocado o el provocador.
+Si las lesiones fueren inferidas en riña o en duelo, las sanciones señaladas en los artículos que anteceden podrán disminuirse hasta la mitad o hasta los cinco sextos, según que se trate del provocado o del provocador, y teniendo en cuenta la mayor o menor importancia de la provocación y lo dispuesto en los artículos 51 y 52.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2528,11 +2580,15 @@ II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de 
 
 Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este Código, se le impondrán de ocho a trece años de prisión.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 308.
 
-Si el homicidio se cometiere en riña o en duelo, se aplicará a su autor, hasta la mitad o hasta cinco sextos de la sanción que señala el artículo anterior, según que sea el provocado o el provocador.
+Si el homicidio se comete en riña, se aplicará a su autor de cuatro a doce años de prisión.
+
+Si el homicidio se comete en duelo, se aplicará a su autor de dos a ocho años de prisión.
+
+Además de lo dispuesto en los artículos 51 y 52 para la fijación de las penas dentro de los mínimos y máximos anteriormente señalados, se tomará en cuenta quién fué el provocado y quién el provocador, así como la mayor o menor importancia de la provocación.
 
 ###### ARTICULO 309.
 
@@ -2608,9 +2664,11 @@ La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o 
 
 Se dice que obra a traición: el que no solamente emplea la alevosía sino también la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 320.
 
-Al autor de un homicidio calificado se le aplicarán de trece a veinte años de prisión.
+Al autor de un homicidio calificado se le impondrán de trece a treinta años de prisión.
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2876,9 +2934,11 @@ En tal caso, se hará en el documento una anotación sumaria de la sentencia pro
 
 Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
 
-TITULO VIGESIMOPRIMERO
+> <small>(ADICIONADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y otras garantías
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 364.
 
@@ -2898,9 +2958,11 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 366.
 
-Se impondrán de cinco a veinte años de prisión y multa de cien a mil pesos, cuando la detención arbitraria tenga carácter de plagio o secuestro, en alguna de las formas siguientes:
+Se impondrán de cinco a treinta años de prisión y multa de cien a diez mil pesos, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 
 I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con éste;
 
@@ -2910,9 +2972,11 @@ III.- Cuando la detención se haga en camino público o en paraje solitario;
 
 IV.- Cuando los plagiarios obren en grupo o banda, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
-V.- El robo de infante, menor de diez años, se castigará con prisión de 10 a 30 años.
+V.- Cuando se cometa el robo de infante menor de doce años por quien sea extraño a su familia y no ejerza la patria potestad sobre él.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
 
@@ -2936,25 +3000,23 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejec
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aun cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 370.
 
-Cuando el valor de lo robado no exceda de dos mil pesos, la pena será de tres días a tres años de prisión y multa hasta de dos mil pesos. Cuando excediera de dos mil pesos, la pena será de tres años a doce años de prisión y multa hasta de diez mil pesos. Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuere estimable en dinero o por su naturaleza o circunstancias no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días a dos años. En los casos de tentativas de robo, cuando no fuere posible determinar el monto, se aplicarán de tres días a dos años de prisión.
+Cuando el valor de lo robado no exceda de quinientos pesos se impondrán hasta dos años de prisión y multa hasta de quinientos pesos.
+
+Cuando exceda de quinientos pero no de dos mil pesos, la sanción será de dos a cuatro años de prisión y de quinientos a dos mil pesos de multa.
+
+Cuando exceda de dos mil pesos la sanción será de cuatro a diez años de prisión y de dos mil a diez mil pesos de multa.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 371.
 
-Cuando el valor de lo robado exceda de cincuenta pesos, pero no de quinientos, la pena será de seis meses a dos años de prisión y multa hasta de quinientos pesos.
+Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco del objeto del apoderamiento, pero si por alguna circunstancia no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de tres días hasta cinco años.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Cuando excediere de quinientos pesos, por cada cincuenta de exceso, o fracción menor de cincuenta, se aumentará un mes a los dos años de prisión y veinte pesos a la multa sin que el máximo de prisión pueda exceder de diez años ni la multa de diez mil pesos.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuere estimable en dinero o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta dos años.
-
-En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres días a dos años de prisión.
+En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se aplicarán de tres días a dos años de prisión.
 
 ###### ARTICULO 372.
 
@@ -3026,7 +3088,11 @@ VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en l
 
 ###### ARTICULO 382.
 
-Se aplicarán, prisión de tres días a seis años y multa de cinco a cinco mil pesos, al que con perjuicio de alguno, disponga para sí o para otro, de una cantidad de dinero en numerario, en billetes de banco o en papel moneda, de un documento que importe obligación, liberación o trasmisión de derechos, o de cualquier cosa ajena mueble, de la que se le haya transferido la tenencia y no el dominio. Si el valor de la cosa de que se dispuso es mayor a veinte mil pesos la prisión podrá ser hasta de doce años.
+Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de un año y multa hasta de quinientos pesos, cuando el monto del abuso no exceda de quinientos pesos.
+
+Si excede de esa cantidad pero no de veinte mil pesos, la prisión será de uno a seis años y la multa de quinientos a cinco mil pesos.
+
+Si el monto es mayor de veinte mil pesos, la prisión será de seis a doce años y la multa de cinco mil a diez mil pesos.
 
 ###### ARTICULO 383.
 
@@ -3339,6 +3405,12 @@ Esta Ley entrará en vigor tres días después de su publicación en el "Diario 
 ###### ARTICULO SEGUNDO.
 
 En todos los casos en que el Código Penal u otras leyes señalen la pena de relegación, se aplicará la de prisión.
+
+D.O.F. 15 DE ENERO DE 1951.
+
+###### ARTICULO UNICO.
+
+Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
