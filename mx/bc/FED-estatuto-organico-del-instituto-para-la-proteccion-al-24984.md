@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-24984"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-06-14"
-last_updated: "2002-06-14"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-12"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
 
 Estatuto publicado en la Primera sección del Diario oficial de la Federación el viernes 14 de junio de 2002.
 
@@ -263,7 +263,9 @@ XXX. Establecer los lineamientos necesarios para la racionalización de las estr
 
 XXXI. Aprobar la estructura básica de organización del Instituto y las modificaciones que procedan a la misma;
 
-XXXII. Aprobar el Estatuto Orgánico del Instituto, los Reglamentos internos, los Manuales de Organización, de Procedimientos, de Servicios y de Servicio Público, y demás instrumentos normativos que regulen la organización y funcionamiento del Instituto, así como las reformas y/o adiciones a los mismos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XXXII. Aprobar el Estatuto Orgánico del Instituto, los reglamentos interiores, de servicios y de control interno del Instituto;
 
 XXXIII. Aprobar los procedimientos y mecanismos de control interno de las operaciones y administración del Instituto;
 
@@ -283,41 +285,41 @@ XL. Establecer políticas, lineamientos o bases generales para la administració
 
 XLI. Resolver cualquier asunto que en ejercicio de sus facultades el Secretario Ejecutivo o algún integrante de la propia Junta de Gobierno, considere deba ser aprobado por la misma.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 14.
 
-El Secretario y Prosecretario de la Junta de Gobierno tendrán derecho a voz en las sesiones del Organo de Gobierno del Instituto y sus atribuciones serán las siguientes:
+El Secretario y el Prosecretario de la Junta de Gobierno tendrán las atribuciones siguientes:
 
-I. Realizar la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que les formulen los miembros de la Junta de Gobierno y el Secretario Ejecutivo;
+I. Enviar a los miembros de la Junta de Gobierno e invitados a la sesión de que se trate, la información relacionada con los asuntos que serán tratados en la sesión correspondiente, con cuando menos cinco días hábiles de anticipación a la celebración de dicha sesión;
 
-II. Preparar y enviar a los miembros integrantes de la Junta de Gobierno la documentación e información correspondiente a los asuntos que serán tratados en las sesiones con cinco días hábiles de anticipación a la realización de éstas;
+II. Asistir a las sesiones de la Junta de Gobierno, pasar lista y verificar que existe el quórum necesario para la celebración de las sesiones;
 
-III. Pasar lista de asistencia, verificar el quórum legal y someter las actas a la aprobación y firma de los miembros de la Junta de Gobierno;
+III. Levantar y suscribir las actas de las sesiones de la Junta de Gobierno, sometiéndolas a la autorización y firma de los miembros de la propia Junta de Gobierno;
 
-IV. Levantar las actas y las minutas de las sesiones correspondientes y, en el caso de ser aprobadas y firmadas, formar el libro correspondiente;
+IV. Llevar un registro de los acuerdos tomados en las sesiones de la Junta de Gobierno y darle seguimiento a su ejecución;
 
-V. Dar seguimiento a los acuerdos de la Junta de Gobierno y demás órganos delegados constituidos por ésta;
+V. Informar a los miembros de la Junta de Gobierno sobre el estado que guardan los acuerdos tomados;
 
-VI. Certificar conjuntamente los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno. En caso de ausencia del Secretario o del Prosecretario, las certificaciones correspondientes deberán ser suscritas por el Secretario Adjunto Jurídico;
+VI. Expedir las constancias, copias certificadas y certificaciones de las actas de las sesiones, que las autoridades competentes le requieran en ejercicio de sus facultades, respecto de los acuerdos tomados por la Junta de Gobierno;
 
-VII. Elaborar y someter a la aprobación de los integrantes de la Junta de Gobierno el calendario anual de sesiones;
+VII. Elaborar el calendario de sesiones ordinarias de la Junta de Gobierno y someterlo a su consideración;
 
-VIII. Coordinar los asuntos relacionados con la operación de la Junta de Gobierno y demás órganos delegados constituidos por ésta;
+VIII. Elaborar con base en las reglas que la Junta de Gobierno ha expedido para normar la forma y tiempo en que se le deben presentar asuntos a su consideración, la convocatoria, el orden del día y la carpeta que contenga la información y documentación necesarias para la celebración de las sesiones de la Junta de Gobierno;
 
-IX. Auxiliar a la Junta de Gobierno en el desempeño de sus atribuciones, y
+IX. Las demás que expresamente les asigne la Junta de Gobierno.
 
-X. Las demás que expresamente les asigne la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 15.
 
-Los comités de la Junta de Gobierno se constituirán con el propósito de auxiliarla en el desempeño de sus atribuciones. Su función es preparar alternativas de políticas y lineamientos para la toma de decisiones de la propia Junta de Gobierno y la operatividad en general del Instituto. Los comités no se establecerán para replicar la estructura orgánica de (sic) Instituto, sino para el auxilio en temas definidos y para el seguimiento, a través de su secretario, del cumplimiento de las políticas y lineamientos emitidos por la Junta de Gobierno.
+Los comités de la Junta de Gobierno se constituirán con el propósito de auxiliarla en el desempeño de sus atribuciones y tendrán por objeto el análisis y la atención de asuntos particulares. Su función consistirá en la elaboración de documentos para información o aprobación de la propia Junta de Gobierno.
 
-Los comités de la Junta de Gobierno no sustituirán en sus funciones a ésta, excepto que así se les delegue expresamente, en cuyo caso la encomienda será específica y temporal. Los comités no intervendrán en la administración operativa a cargo del Secretario Ejecutivo.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 16.
 
-Los comités de la Junta de Gobierno estarán integrados por un vocal titular, el Secretario Ejecutivo o su representante, un representante de la Secretaría de Hacienda y Crédito Público, uno del Banco de México y otro de la Comisión que ocupen el puesto de Director General o superior, Secretario Adjunto o Director General de la unidad administrativa correspondiente a la materia del comité y Secretario Adjunto Jurídico o Director General Jurídico competente.
-
-Los comités de la Junta de Gobierno sesionarán con la periodicidad acordada por el Vocal titular sin cuya presencia no podrán hacerlo. Cada comité tendrá el derecho de fijar las reglas que rijan su funcionamiento, así como las funciones y obligaciones de sus integrantes. En todos los casos, los comités que se constituyan deberán presentar a la Junta de Gobierno un informe anual de los resultados de su actuación.
+Los comités de la Junta de Gobierno serán presididos por uno de los vocales a que se refiere el artículo 76 de la Ley y estarán integrados por un representante que designen la Secretaría de Hacienda y Crédito Público, la Comisión, el Banco de México, así como por un funcionario del Instituto, cuyas actividades se encuentren relacionadas con el asunto de la competencia del comité de que se trate.
 
 ### CAPITULO IV. Del Secretario Ejecutivo
 
@@ -407,9 +409,13 @@ XXXIV. Dirigir las relaciones públicas del Instituto con dependencias del Gobie
 
 XXXV. Aprobar y ejecutar las políticas de comunicación social del Instituto;
 
-XXXVI. Elaborar y someter a la aprobación de la Junta de Gobierno los proyectos de estructura básica de organización del Instituto y las modificaciones que procedan a la misma, así como aprobar los cambios a la estructura no básica del propio Instituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
 
-XXXVII. Presentar para su análisis y aprobación el Estatuto Orgánico del Instituto, los Reglamentos internos, los Manuales de Organización, de Procedimientos, de Servicios, de Control Interno y de Servicio Público así como las reformas y/o adiciones a los mismos;
+XXXVI. Elaborar y someter a la aprobación de la Junta de Gobierno los proyectos de estructura administrativa básica del Instituto y las modificaciones que procedan;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XXXVII. Autorizar los manuales de organización, de procedimientos y demás disposiciones administrativas que no corresponda aprobar a la Junta de Gobierno;
 
 XXXVIII. Dar seguimiento y evaluar periódicamente los Programas Institucionales de las unidades administrativas en apego a las directrices que al respecto emita la Junta de Gobierno;
 
@@ -423,7 +429,13 @@ XLII. Contratar a los abogados externos, los fedatarios públicos y otros presta
 
 XLIII. Presentar, para la aprobación de la Junta de Gobierno, el tabulador de sueldos y prestaciones de los servidores públicos del Instituto de acuerdo a las condiciones del mercado laboral en el sistema financiero, y
 
-XLIV. Realizar todos aquellos actos y operaciones que le atribuya la Ley y otras disposiciones vigentes en materia presupuestal, administrativa y laboral, además de las que expresamente le instruya la Junta de Gobierno, así como todos aquellos que fuesen necesarios para el mejor funcionamiento del Instituto.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XLIV. Presentar para análisis y aprobación de la Junta de Gobierno, el Estatuto Orgánico del Instituto, los reglamentos interiores, de servicios y de control interno del Instituto, así como sus reformas y adiciones, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XLV. Realizar todos aquellos actos y operaciones que le atribuya la Ley y otras disposiciones vigentes en materia presupuestal, administrativa y laboral, además de las que expresamente le instruya la Junta de Gobierno, así como todos aquellos que fuesen necesarios para el mejor funcionamiento del Instituto.
 
 ### CAPITULO V. De las Secretarías Adjuntas
 
@@ -453,7 +465,13 @@ X. Participar, en el ámbito de su competencia, en la elaboración de programas 
 
 XI. Representar al Instituto, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo del Secretario Ejecutivo, y
 
-XII. Ejercer directamente las atribuciones que el presente Estatuto Orgánico confiere a los Directores Generales de su adscripción.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XII. Validar los manuales de organización, de procedimientos y demás disposiciones administrativas, en el ámbito de su competencia, en apego a las normas y guías técnicas emitidas por las unidades administrativas competentes, a fin de que sean sometidos a la autorización del Secretario Ejecutivo, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XIII. Ejercer directamente las atribuciones que el presente Estatuto Orgánico confiere a los Directores Generales de su adscripción.
 
 ###### ARTICULO 21.
 
@@ -629,7 +647,9 @@ XIII. Instrumentar, en coordinación con las unidades administrativas responsabl
 
 XIV. Desarrollar la infraestructura de comunicaciones del Instituto con las autoridades financieras y con las Instituciones que tengan relación con el mismo;
 
-XV. Realizar, en coordinación con las unidades administrativas responsables, los proyectos de actualización del Estatuto Orgánico, así como de los reglamentos y demás disposiciones administrativas competencia del Instituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XV. Coordinar la actualización del Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones administrativas competencia del Instituto, con la participación de las unidades administrativas relacionadas, así como someterla a la autorización del Secretario Ejecutivo;
 
 XVI. Conducir las acciones que en materia de modernización, simplificación administrativa y productividad determinen las autoridades correspondientes, y
 
@@ -683,6 +703,10 @@ X. Elaborar la documentación e información que el Ejecutivo Federal o el Congr
 
 XI. Solicitar la información que considere necesaria y que esté relacionada en el ámbito de su competencia, a las dependencias y entidades de la Administración Pública Federal y local, así como a los particulares.
 
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XII. Elaborar y mantener actualizados los manuales de organización, de procedimientos y demás disposiciones administrativas en el ámbito de su competencia en apego a las normas y guías técnicas emitidas por las unidades administrativas competentes.
+
 ###### ARTICULO 29.
 
 Corresponde a la Dirección General de Normatividad y Evaluación, el ejercicio de las siguientes atribuciones:
@@ -697,7 +721,9 @@ IV. Dar seguimiento y evaluar la correcta aplicación, por parte de las unidades
 
 V. Establecer lineamientos y evaluar la integración de los informes de las operaciones del Instituto solicitados por el Congreso de la Unión y por el Ejecutivo Federal, en coordinación con las unidades administrativas responsables;
 
-VI. Emitir metodologías, criterios técnicos y contables para el desarrollo de los manuales administrativos, de operación, formatos, catálogos que requieran las unidades administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+VI. Emitir lineamientos, metodologías, criterios técnicos y contables para el cumplimiento de los manuales administrativos, de operación, formatos, catálogos y demás disposiciones administrativas competencia del Instituto, sin perjuicio de las atribuciones conferidas a las demás unidades administrativas del Instituto;
 
 VII. Dar seguimiento y evaluar el cumplimiento del Programa de Trabajo aplicado por las unidades administrativas en apego a las directrices que al respecto emita la Junta de Gobierno del Instituto;
 
@@ -715,7 +741,13 @@ XIII. Elaborar y enviar a las autoridades la memoria circunstanciada de cada una
 
 XIV. Integrar, evaluar y resguardar los expedientes documentales de cada una de las operaciones de apoyo financiero, enajenación y liquidación de Instituciones, enajenación de Bienes, acciones y partes sociales y de carteras de crédito en coordinación con las unidades administrativas ejecutoras, y
 
-XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XV. Participar, con la Dirección General de Administración y Presupuesto, en el ámbito de su competencia, en la elaboración de manuales administrativos, de operación y demás disposiciones administrativas competencia del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Secretario Ejecutivo.
 
 ###### ARTICULO 30.
 
@@ -1119,7 +1151,9 @@ XVI. Emitir y aplicar los lineamientos y las normas para regular y realizar la a
 
 XVII. Coordinar la integración de los formatos y datos que requiera la Secretaría de Hacienda y Crédito Público, para el Sistema Integral de Información;
 
-XVIII. Integrar y mantener actualizado el Estatuto Orgánico del Instituto con la participación de las unidades administrativas competentes;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2004)</small>
+
+XVIII. Coordinar y controlar la elaboración y actualización del Estatuto Orgánico, manuales de organización, de procedimientos y demás disposiciones administrativas competencia del Instituto;
 
 XIX. Controlar, proponer y actualizar las estructuras orgánicas del Instituto, vigilar que sus unidades administrativas se ajusten a las mismas y registrar sus modificaciones aprobadas ante las dependencias rectoras en la materia;
 
@@ -1174,3 +1208,11 @@ PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de 
 SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 11 de abril de 2001 en el Diario Oficial de la Federación.
 
 México, D.F., a 12 de junio de 2002.- El Secretario Ejecutivo, Julio César Méndez Rubio.- Rúbrica.- El Secretario de la Junta de Gobierno, Luis García Vallarta Zepeda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 2 DE ABRIL DE 2004.
+
+PRIMERO.- Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan las disposiciones contrarias a las presentes, contenidas en el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario, publicado el 14 de junio de 2002 en el Diario Oficial de la Federación.
