@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1999-12-31"
+last_updated: "2000-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -2551,8 +2551,6 @@ La Comisión Nacional de Seguros y Fianzas, cuando a su juicio fuere conveniente
 
 La propia Comisión, oyendo la opinión de otro perito que la misma nombre, podrá rechazar los avalúos que presenten las instituciones o sociedades mutualistas de seguros en los términos de esta fracción, dentro de un plazo de treinta días hábiles; transcurrido este término sin que la Comisión haya emitido su opinión, se entenderá que los mismos han sido aprobados. Los honorarios de dicho perito serán también satisfechos por la institución o sociedad mutualista de seguros interesada.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
 Hecha la rectificación de valores de los bienes inmuebles, en los términos de esta fracción, la Comisión Nacional de Seguros y Fianzas podrá en cualquier tiempo, ordenar que se supla el defecto que se produzca por menor productividad líquida anual de los bienes o mandar verificar los valores consignados en los avalúos.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
@@ -3111,8 +3109,6 @@ Sus honorarios serán fijados en el momento de su designación por la Secretarí
 
 ### CAPITULO II. De los procedimientos
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 132.
 
 Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional de Seguros y Fianzas, para el desempeño de las funciones que les atribuyen las disposiciones jurídicas en materia de seguros, podrán emplear las siguientes medidas de apremio:
@@ -3137,131 +3133,7 @@ III.- Solicitar a las autoridades civiles su apoyo oportuno y eficaz para que di
 
 ###### ARTICULO 135.
 
-En caso de reclamación contra una institución o sociedad mutualista de seguros, con motivo del contrato de seguros, deberá observarse lo siguiente:
-
-I.- Se deberá agotar el procedimiento conciliatorio, cumpliendo las reglas que a continuación se señalan:
-
-a). El reclamante presentará un escrito ante la Comisión Nacional de Seguros y Fianzas, con el que se correrá traslado a la empresa de que se trate.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-La presentación de la reclamación ante la Comisión interrumpirá el plazo legalmente establecido para la prescripción de la acción correspondiente;
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-b). La Comisión Nacional de Seguros y Fianzas requerirá a la empresa de seguros para que por conducto de un representante, rinda un informe por escrito que deberá presentarse con anterioridad o hasta el momento de la celebración de la junta de avenencia a que se refiere esta fracción, en el que responderá de manera razonada con respecto a todos y cada uno de los hechos a que se refiere la reclamación; la falta de presentación del mismo, no podrá ser causa para suspender o diferir la junta referida y ésta deberá darse por concluida el día señalado para su celebración, salvo que por cualquier circunstancia, a juicio de la propia Comisión, no pueda celebrarse en la fecha indicada, caso en el cual se deberá verificar dentro de los diez días hábiles siguientes. En caso de no presentar el informe, la empresa de seguros se hará acreedora a una sanción de cien a doscientos días de salario mínimo general vigente en el Distrito Federal.
-
-La Comisión Nacional de Seguros y Fianzas, cuando así lo considere o a petición del reclamante, en la junta de avenencia correspondiente o dentro de los diez días hábiles siguientes a la celebración de la misma, podrá requerir información adicional a la empresa de seguros, y en su caso, diferirá la junta, requiriendo a la empresa para que en la nueva fecha presente el informe adicional. Si la empresa no presenta la información adicional se aplicará la sanción a que se refiere el párrafo anterior;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-c). La Comisión Nacional de Seguros y Fianzas, al concluir la junta de avenencia a que se refiere el inciso d) de esta fracción, ordenará a la empresa de seguros que dentro de los diez días hábiles siguientes, constituya e invierta, conforme a esta Ley, una reserva técnica específica para obligaciones pendientes de cumplir, cuyo monto no deberá exceder de la suma asegurada. Dicha reserva se registrará en una partida contable determinada;
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-d). La Comisión citará a las partes a una junta de avenencia que se realizará dentro de los veinte días hábiles contados a partir de la fecha de recibo de la reclamación.
-
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-Si no comparece la reclamante, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias al arbitraje de la Comisión.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-Si no comparece la empresa de seguros, se hará acreedora a una multa de doscientos a trescientos días de salario mínimo general vigente en el Distrito Federal, pudiéndosele citar cuantas veces sea necesario, a menos que el reclamante hubiere solicitado que se dejen a salvo sus derechos y su reincidencia se podrá castigar con una multa hasta del doble de la ya impuesta. Sin embargo, en la audiencia relativa, la empresa de seguros podrá argumentar la imposibilidad de conciliar y expresar su voluntad de no someter sus diferencias al arbitraje.
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-La citada Comisión podrá abstenerse de ordenar la constitución de la reserva señalada si a su juicio, carece de elementos suficientes para fundamentar la procedencia de la reclamación.
-
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
-
-El acuerdo que ordene o no la constitución de la reserva, no prejuzga la procedencia de la reclamación.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-En caso de que en la junta de avenencia se dejen a salvo los derechos del reclamante, éste deberá acreditar a la Comisión Nacional de Seguros y Fianzas, dentro de los 120 días naturales siguientes, haber presentado su demanda y en caso de no hacerlo, la empresa de seguros podrá cancelar, bajo su responsabilidad, la constitución de la reserva técnica específica. La empresa de seguros deberá reconstituir esta reserva dentro de los diez días hábiles siguientes al en que se le emplace a juicio.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-En el supuesto a que se refiere el párrafo segundo de este inciso, la Comisión podrá abstenerse de ordenar la constitución de la reserva a que se refiere el inciso c) de esta fracción, la cual se constituirá hasta que el reclamante acredite haber presentado la demanda ante los tribunales.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-La empresa de seguros podrá cancelar la reserva técnica específica cuando haya sido decretada la caducidad de la instancia, la preclusión, haya sido procedente la excepción superveniente de prescripción o exista sentencia que haya causado ejecutoria, en la que se absuelva a la empresa de seguros. También podrá cancelarla cuando haya efectuado el pago.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-En los supuestos anteriores se deberá dar aviso a la Comisión Nacional de Seguros y Fianzas, acompañando el documento que acredite tal circunstancia;
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-e). En la junta de avenencia se exhortará a las partes a conciliar sus intereses, y si esto no fuere posible, la Comisión las invitará a que voluntariamente y de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en acta que al efecto se levante ante la citada Comisión.
-
-f). Las Delegaciones Regionales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral escogido por las partes, hasta la formulación del proyecto de laudo.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-II.- En el convenio que fundamente el juicio arbitral en amigable composición, las partes facultarán a la Comisión Nacional de Seguros y Fianzas a resolver en conciencia, a verdad sabida y buena fe guardada, la controversia planteada y se fijarán de manera específica, de común acuerdo y previa opinión de la Comisión, las situaciones y puntos motivo de controversia, estableciéndose las etapas, formalidades o términos a que se sujetará el arbitraje;
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-III.- En el convenio que fundamente el juicio arbitral de estricto derecho, las partes facultarán a la Comisión Nacional de Seguros y Fianzas a resolver la controversia planteada con estricto apego a las disposiciones legales aplicables y determinarán las etapas, formalidades y términos a que se sujetará el arbitraje, los cuales no excederán de los siguientes plazos:
-
-a). Nueve días para la presentación de la demanda, contados a partir del día siguiente al de la celebración del compromiso; y el mismo plazo para producir la contestación, contado a partir del día siguiente a aquél en que surta efectos la notificación, debiendo acompañar a dichos escritos el documento o documentos en que se funden la acción y las excepciones y defensas correspondientes y aquéllos que puedan servir como prueba a su favor en el juicio. Sólo les serán admitidos los que presentaren con posterioridad, conforme a lo previsto en el Código de Comercio;
-
-b). Contestada la demanda o transcurrido el término para hacerlo, se dictará auto abriendo el juicio a prueba durante un plazo de cuarenta días, de los cuales los primeros diez serán para su ofrecimiento y los treinta restantes para su desahogo. En todo caso, se tendrán como pruebas todas las constancias que integren el expediente, aunque no hayan sido ofrecidas por las partes.
-
-Los exhortos y oficios se entregarán a la parte que haya ofrecido la prueba correspondiente para que los haga llegar a su destino. La oferente de la prueba tendrá la obligación de gestionar su diligencia; y
-
-c). Diez días comunes a las partes para formular alegatos.
-
-Una vez concluidos los términos fijados, sin necesidad de que se acuse rebeldía, seguirá su curso el procedimiento y se tendrá por perdido el derecho que debió ejercitarse, salvo en caso que no se presente la demanda, supuesto en el que se dejarán a salvo los derechos del reclamante.
-
-Los términos serán improrrogables, se computarán en días hábiles y en todo caso, empezarán a contarse a partir del día siguiente a aquél en que surtan efectos las notificaciones respectivas.
-
-Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y a falta de disposición en dicho Código, se aplicarán las del Código de Procedimientos Civiles para el Distrito Federal, a excepción del artículo 617;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-III Bis.- En caso de que no exista promoción de parte por un lapso de más de 90 días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia;
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje. Para tal efecto podrá valerse de cualquier persona, sea parte o tercero, y de cualquier cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la Ley ni sean contrarias a la moral. Las autoridades administrativas, así como los tribunales deberán auxiliarle, en la esfera de su competencia;
-
-IV Bis.- (DEROGADA, D.O.F. 3 DE ENERO DE 1997)
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-V.- El laudo, así como las resoluciones que pongan fin a los incidentes de ejecución, sólo admitirán como medio de defensa el juicio de amparo.
-
-Lo anterior sin perjuicio de que las partes soliciten aclaración del laudo, dentro de las setenta y dos horas siguientes a su notificación, cuando a su juicio exista error de cálculo, de copia, tipográfico o de naturaleza similar, sin que la misma sea considerada como un recurso de carácter procesal o administrativo.
-
-Todas las demás resoluciones que conforme al Código de Comercio admitan apelación o revocación, podrán impugnarse en el juicio arbitral mediante el recurso de revocación;
-
-VI.- (DEROGADA, D.O.F. 14 DE JULIO DE 1993)
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1997)</small>
-
-VII.- El laudo que condene a una empresa de seguros le otorgará un plazo de quince días hábiles a partir de la notificación para su cumplimiento;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-VIII.- Corresponde a la Comisión la ejecución del laudo que se pronuncie, para lo cual mandará, en su caso, que se pague a la persona en cuyo favor se hubiere dictado el laudo, con cargo a la reserva constituida e invertida en los términos de la fracción I de este artículo. En caso de negativa u omisión, la Comisión, en un plazo máximo de 5 días hábiles, ordenará al remate de los valores invertidos conforme a esta Ley y si ellos estuvieren considerados en las reservas de la empresa de seguros, ésta deberá reponerlos de acuerdo a lo que legalmente se establece para la reconstitución de las reservas.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Los convenios celebrados ante la propia Comisión tendrán el carácter de una sentencia ejecutoria y podrán ser ejecutados por la misma, en términos de esta fracción;
-
-IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
+(DEROGADO, D.O.F. 5 DE ENERO DE 2000)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3785,7 +3657,7 @@ c).- Dispongan de cualquier cantidad de dinero que hayan recibido por cuenta de 
 
 d).- Con el fin de falsear los reportes o información sobre la situación del intermediario de reaseguro, dolosamente autoricen, registren u ordenen registrar datos falsos en la contabilidad o reiteradamente produzcan datos falsos en los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a las instituciones que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional de Seguros y Fianzas; y
 
-> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 II.- Pena de prisión de tres a quince años cuando:
 
@@ -4432,3 +4304,11 @@ Los convenios mencionados en el párrafo anterior deberán celebrarse a más tar
 SÉPTIMO.- La reforma al artículo 135 Bis de la Ley General de Instituciones y Sociedades Mutualistas de Seguros se aplicará a los casos de mora iniciada a partir de la entrada en vigor del presente Decreto.
 
 OCTAVO.- Las reglas, reglamentos y demás disposiciones administrativas emanadas de la Ley General de Instituciones y Sociedades Mutualistas de Seguros y que se encuentren vigentes a la fecha en que entre en vigor este Decreto, seguirán siendo aplicables, en tanto no se opongan al mismo.
+
+D.O.F. 5 DE ENERO DE 2000.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
