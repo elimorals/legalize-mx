@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-para-la-contaduria-general-de-glosa-del-poder-5951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-15"
-last_updated: "1994-01-05"
+last_updated: "1999-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA PARA LA CONTADURIA GENERAL DE GLOSA DEL PODER LEGISLATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 1999.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de octubre de 1991.
 
@@ -59,17 +59,23 @@ La Contaduría General de Glosa, en el desempeño de sus atribuciones, tendrá e
 
 Los Organismos e Instituciones Públicas sujetas a control presupuestal que reciban o administren fondos o valores públicos, incluyendo subsidios del Estado o de los Municipios, deberán presentar a la Contaduría General de Glosa, informe sobre el uso o destino de los recursos públicos recibidos o administrados, a que se refiere la cuenta pública objeto de revisión, acompañando la documentación comprobatoria que se requiera y que permita conocer los resultados del manejo de los mismos.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 5.
 
-La Contaduría General de Glosa informará exclusivamente a la Legislatura del Estado, por conducto de la Comisión Inspectora de la Contaduría General de Glosa del resultado de la revisión de la Cuenta Pública Estatal y de las Municipales; de las auditorías practicadas y en su caso, de las irregularidades o deficiencias detectadas, debiendo preservar la confidencialidad de dicha información.
+La Contaduría General de Glosa informará, exclusivamente a la Legislatura del Estado, por conducto de la Comisión Inspectora de la Contaduría General de Glosa del resultado de la revisión de la Cuenta Pública Estatal y de las Municipales y de las auditorías practicadas y en su caso, de las irregularidades o deficiencias detectadas, debiendo preservar la confidencialidad de dicha información. El personal externo que se contrate para el cumplimiento de sus fines, observará fielmente esta disposición.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 6.
 
-Corresponde a la Legislatura, la responsabilidad de supervisar las actividades de la Contaduría General de Glosa; función que ejercerá a través de la Comisión Inspectora de la Contaduría General de Glosa.
+Corresponde a la Legislatura, la responsabilidad de supervisar todas las actividades de la Contaduría General de Glosa; función que ejercerá a través de la Comisión Inspectora de la Contaduría General de Glosa, misma que recibirá los apoyos necesarios para el desempeño de esta función.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 7.
 
-Toda la información y documentación de la Contaduría General de Glosa, será reservada y su manejo estrictamente confidencial. El personal externo que se contrate para el cumplimiento de sus fines, observará fielmente esta disposición.
+Los diputados de la Legislatura que requieran información de la Contaduría General de Glosa, deberán solicitarla a través de la Comisión Inspectora de la Contaduría General de Glosa. Dicha información deberá ser proporcionada dentro de los diez días hábiles siguientes.
 
 ###### Artículo 8.
 
@@ -79,9 +85,11 @@ La Legislatura del Estado de México, establecerá la comunicación necesaria co
 
 Tratándose del ejercicio de recursos federales concertados o convenidos por la Federación con el Estado, o del Estado con los Municipios, la vigilancia y fiscalización de esos recursos, se sujetará en el primer supuesto a los convenios y acuerdos de coordinación celebrados por las citadas instancias de gobierno y en el segundo a la coordinación que al efecto se establezca entre la Contaduría General de Glosa y las Dependencias correspondientes del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 10.
 
-La Contaduría General de Glosa, podrá solicitar información del destino y aplicación de los recursos que aquellas Dependencias del Ejecutivo del Estado, entreguen a los Ayuntamientos.
+La Contaduría General de Glosa, solicitará a la Secretaría de Finanzas del Gobierno del Estado, la información del destino y aplicación de los recursos estatales y de los que sean entregados a los ayuntamientos.
 
 ### CAPITULO SEGUNDO. De las Atribuciones de la Comisión Inspectora de la
 
@@ -99,27 +107,37 @@ III. Determinar la intervención de la Contaduría, cuando lo estime conveniente
 
 IV. Presentar a la Legislatura, el informe anual que rinda la Contaduría General de Glosa, sobre el resultado de la revisión de las cuentas públicas, respecto del año inmediato anterior, 15 días antes de que concluya el Segundo Período Ordinario de Sesiones.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-V.- Informar a la Legislatura o a la Diputación Permanente de las conductas presuntamente delictivas conocidas por la Contaduría General de Glosa, para proceder a su denuncia ante la autoridad competente;
+V. Informar a la Legislatura o a la Diputación Permanente, de las conductas presuntamente delictivas detectadas por la Contaduría General de Glosa, una vez agotados los recursos y garantías de audiencia, para proceder a su denuncia, en su caso, ante la autoridad competente, por la propia Contaduría, previa consulta y ratificación de la Comisión Inspectora;
 
 VI. Proponer a la Legislatura el Reglamento de la Ley Orgánica de la Contaduría General de Glosa.
 
 VII. Proponer a la Legislatura en los términos de su Ley Orgánica y de esta Ley, el nombramiento y remoción del Contador General.
 
-VIII. Proponer a la Gran Comisión los nombramientos y remoción del personal directivo de la Contaduría General de Glosa.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+VIII. Proponer a la Gran Comisión los nombramientos y remoción del personal directivo de la Contaduría General de Glosa. La Gran Comisión tendrá un plazo de diez días hábiles para hacer sus observaciones o presentar los inconvenientes; en el caso de que transcurra el plazo señalado sin que la Gran Comisión comunique a la Comisión Inspectora su resolución, se darán por aprobados;
 
 IX. Ser el conducto de comunicación entre la Legislatura y la Contaduría General de Glosa.
 
 X. Informar al inicio de cada período a la Legislatura del Estado, de las actividades desarrolladas por la Contaduría General de Glosa.
 
-XI. Aprobar el programa de la Contaduría General de Glosa para el año siguiente y someter a la consideración de la Legislatura el Presupuesto Anual de ésta, dentro del mes de noviembre, inmediato anterior al ejercicio que corresponda.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XI. Aprobar el programa de la Contaduría General de Glosa para el año siguiente y someter a la consideración de la Legislatura el Presupuesto Anual de ésta, dentro del mes de noviembre inmediato anterior al ejercicio que corresponda; y previa valoración de los programas de auditoría y fiscalización de la Contaduría General de Glosa, gestionar la asignación económica que sea suficiente y acorde a los programas y objetivos;
 
 XII. Establecer los criterios generales para determinar el monto y tiempo de las cauciones o las garantías que deban otorgar los Tesoreros Municipales y de quienes de acuerdo a sus funciones deban hacerlo y que en todo caso serán suficientes para salvaguardar el manejo de los fondos públicos a su cargo.
 
-XIII. Recibir de la Contaduría General de Glosa, los informes de cada una de las auditorías practicadas una vez concluidas, los cuales deberán contener; el período auditado, los alcances de las mismas, las irregularidades detectadas y las acciones tomadas para notificar los resultados a los auditados.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XIV. Las que le confiera la Ley Orgánica del Poder Legislativo, esta Ley y demás disposiciones legales.
+XIII. Recibir de la Contaduría General de Glosa los expedientes ejecutivos, dictamen e informes de cada una de las auditorías practicadas una vez concluidas, los cuales deberán referir, además del período auditado, los alcances de las mismas, el detalle de las irregularidades detectadas y las acciones tomadas para notificar los resultados a los auditados;
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+XIV. Revisar y proponer modificaciones a los tabuladores de sueldos de los servidores públicos municipales; y
+
+XV. Las que le confiera la Ley Orgánica del Poder Legislativo, esta ley y demás disposiciones legales.
 
 ### CAPITULO TERCERO. De las Atribuciones y Responsabilidades
 
@@ -149,39 +167,69 @@ IX. Informar a la Comisión Inspectora de la Contaduría General de Glosa de sus
 
 X. Solicitar en su caso, a terceros que hubieran contratado obras o servicios con la Administración Pública Estatal o Municipal, la información relacionada con la documentación justificativa y comprobatoria de las cuentas públicas, a efecto de realizar las compulsas correspondientes.
 
-XI. Informar a la Comisión Inspectora de la Contaduría General de Glosa de las conductas irregulares detectadas durante la revisión de los informes mensuales que formulen los Ayuntamientos y de las detectadas en la revisión de la cuenta pública anual así como del resultado de las Auditorías practicadas.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XII. Emitir, formular y notificar los pliegos de observaciones y preventivos de responsabilidades, derivados de la revisión y glosa de la Cuenta Pública Municipal, de los informes mensuales, así como de los informes de auditorías practicadas a los Ayuntamientos.
+XI. Verificar que se integre al informe mensual de los ayuntamientos, copia de los contratos que celebren y afecten el patrimonio municipal;
 
-XIII. Integrar a su archivo el resultado de la revisión de la Cuenta Pública Estatal, de la revisión y glosa de las Cuentas Públicas Municipales, del resultado de las auditorías practicadas, así como de las observaciones y responsabilidades que se finquen.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XIV. Vigilar el registro de los bienes inmuebles, que constituyan el patrimonio de los Ayuntamientos, de la circunstancia de que éstos se afecten permanentemente o se destinen temporalmente a un servicio público y vigilar que las modificaciones que se hagan a los mismos por altas o bajas, se realicen con apego estricto a los procedimientos establecidos.
+XII. Requerir de los ayuntamientos las bases de las licitaciones públicas, a efecto de que si así lo determina la propia Contaduría General de Glosa, envíe un interventor y rinda dictamen a la Comisión Inspectora de la Contaduría General de Glosa.
 
-XV. Prestar asesoría permanente, promover cursos y seminarios de capacitación y actualización dirigidos a los servidores públicos estatales y municipales, con el objeto de facilitar el control contable y administrativo de las Haciendas Públicas.
+En cuanto a las garantías que otorguen los contratistas de obras públicas o de servicios, constituidas a favor de las tesorerías municipales, conforme a la Ley de Obras Públicas del Estado de México y su Reglamento, así como las otorgadas durante los procesos de licitación, conforme a la ley de Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes, deberán devolverse en presencia del interventor o delegado de la Contaduría General de Glosa, quien verificará el cumplimiento de los términos del contrato y de la recepción de la obra pública terminada, quedando quienes la reciben de conformidad como responsables subsidiarios, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
 
-Para estos efectos, la Contaduría General de Glosa podrá celebrar convenios con Entidades Públicas y Privadas que permitan instrumentar, de manera conjunta, los cursos de capacitación y actualización.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XVI. A solicitud de los Ayuntamientos proporcionar asesoría técnica, información y orientación en materia de cuenta pública, pliegos de observaciones y preventivos de responsabilidades, así como en la entrega y recepción de la Hacienda Pública Municipal.
+XIII. Informar a la Comisión Inspectora de la Contaduría General de Glosa, de las conductas irregulares detectadas durante la revisión de los informes mensuales que formulen los ayuntamientos y de las detectadas en la revisión de la Cuenta Pública del Estado y de los municipios, así como del resultado de las auditorías practicadas a las entidades mencionadas, a efecto de tomar las determinaciones necesarias;
 
-XVII. Verificar la entrega y recepción de las Haciendas Públicas Municipales, y de los Organismos Auxiliares Municipales, así como de la licitud de las enajenaciones que se hubiesen realizado respecto de sus bienes inmuebles.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XVIII. Verificar el otorgamiento de cauciones o garantías, así como de que éstas se ajusten a los criterios señalados para determinar los montos y tiempos en los términos de la presente ley.
+XIV. Emitir, formular y notificar los pliegos de observaciones, preventivos y definitivos de responsabilidades, derivados de la revisión y glosa de las cuentas públicas estatal y municipales y de los informes mensuales, así como los informes de auditorías practicadas;
 
-XIX. Observar que los Tesoreros Municipales, designados por los Ayuntamientos tengan los conocimientos suficientes para poder desempeñar el cargo conferido, en los términos de la Ley Orgánica Municipal del Estado de México, y en su caso emitir su opinión al Ayuntamiento.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XX. Elaborar y someter a la consideración de la Comisión Inspectora de la Contaduría General de Glosa su programa anual y su presupuesto.
+XV. Integrar a su archivo el resultado de la revisión de la Cuenta Pública del Estado, de la revisión y glosa de las cuentas públicas municipales, del resultado de las auditorías practicadas, así como de las observaciones y responsabilidades que se finquen. Además, proceder a integrar las denuncias correspondientes por conducta ilícita de servidores públicos, informando a la brevedad a la Comisión Inspectora de la Contaduría General de glosa, para que ésta la ratifique y, por conducto de la Gran Comisión, se haga de inmediato del conocimiento de la Procuraduría General de Justicia, para que ésta proceda penalmente en contra de quien resulte responsable, debiendo hacer el seguimiento a la denuncia interpuesta ante las autoridades correspondientes;
 
-XXI. Establecer coordinación con las Dependencias competentes del Ejecutivo del Estado, a efecto de unificar criterios respecto a sistemas contables y de revisión, así como de auditorías, control y en general en materia de fiscalización.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XXII. Las demás que le confieran otras disposiciones legales y la Legislatura del Estado.
+XVI. Vigilar el registro de los bienes muebles e inmuebles que constituyan el patrimonio de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XVII. Prestar asesoría permanente, promover cursos y seminarios de capacitación y actualización dirigidos a los servidores públicos estatales y municipales, con el objeto de facilitar el control contable y administrativo de las Haciendas Públicas;
+
+Para estos efectos, la Contaduría General de Glosa podrá celebrar convenios con Entidades Públicas y privadas que permitan instrumentar, de manera conjunta, los cursos de capacitación y actualización;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XVIII. Proporcionar, a solicitud de los Ayuntamientos, asesoría técnica, información y orientación en materia de cuenta pública, pliegos de observaciones y preventivos de responsabilidades, así como en la entrega y recepción de la Hacienda Pública Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XIX. Verificar el otorgamiento de cauciones y garantías de los servidores públicos municipales que tengan custodia y administración de caudales públicos, así como de que éstas se ajusten a los criterios señalados para determinar los montos y tiempos en los términos de la presente ley, a efecto de garantizar la solvencia de quienes manejen fondos públicos;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XX. Observar que los tesoreros y contralores municipales designados por los Ayuntamientos, tengan los conocimientos suficientes para poder desempeñar el cargo conferido, en los términos de la Ley Orgánica Municipal del Estado de México y, en su caso, emitir su opinión al Ayuntamiento y a la Comisión Inspectora, a efecto de tomar las medidas pertinentes;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXI. Elaborar y someter a la consideración de la Comisión Inspectora de la Contaduría General de Glosa su programa anual y su presupuesto;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXII. Establecer coordinación con las dependencias competentes del Ejecutivo del Estado a efecto de unificar criterios respecto a sistemas contables y de revisión, así como de auditorías, control y en general en materia de fiscalización; y
+
+XXIII. Las demás que le confieran otras disposiciones legales y la Legislatura del Estado.
 
 ###### Artículo 13.
 
 Para el cumplimiento de las atribuciones que le confiere la presente Ley, la Contaduría General de Glosa podrá solicitar a la autoridad que corresponda, la aplicación de los medios de apremio, que para el efecto establece la Ley de Responsabilidades de los Servidores Públicos del Estados y Municipios.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 14.
 
-Las Dependencias del Ejecutivo, los Municipios y los Organismos e Instituciones que administren o manejen fondos o valores públicos, que contraten profesionales independientes para dictaminar sus estados financieros deberán remitir a la Contaduría General de Glosa, copia de dictámenes e informes que rindan.
+Las dependencias del Ejecutivo, los municipios, los organismos auxiliares e instituciones que administren o manejen fondos o valores públicos, que contraten profesionales independientes para dictaminar sus estados financieros deberán remitir a los auditores externos, a la Contaduría General de Glosa, a la Comisión Inspectora y a las comisiones de dictamen que lo soliciten, copia de los dictámenes e informes que rindan, así como tener los papeles de trabajo a disposición de la Contaduría General de Glosa.
 
 ###### Artículo 15.
 
@@ -234,6 +282,12 @@ El Contador General de Glosa no podrá desempeñar durante su gestión otro carg
 ###### Artículo 22.
 
 Para efecto de la revisión de las Cuentas Públicas e informes mensuales, la Contaduría General de Glosa se auxiliará de los Servidores Públicos adscritos o por Auditores Externos, expresamente comisionados, los cuales también tendrán el carácter de representantes del Contador General de Glosa, en relación a la comisión conferida.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+###### Artículo 22 Bis.
+
+No podrán ser servidores públicos de la Contaduría General de Glosa, quienes hayan estado sujetos a las auditorías de la propia Contaduría, en tanto no prescriba la responsabilidad.
 
 ###### Artículo 23.
 
@@ -343,15 +397,19 @@ Para efectos de la revisión de las Cuentas Públicas Municipales, el Presidente
 
 La Contaduría General de Glosa practicará la revisión de la Cuenta Pública y rendirá el informe correspondiente de cada uno de los Municipios a la Legislatura del Estado, por conducto de la Comisión Inspectora de la Contaduría General de Glosa, a más tardar el treinta de noviembre del año siguiente, al que corresponda la cuenta pública revisada.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 39.
 
-Para efectos de la revisión de la cuenta pública y a fin de unificar los criterios en materia de contabilidad y archivo contable, los Síndicos Municipales y el Tesorero Municipal, serán la instancia de coordinación con la Contaduría General de Glosa.
-
-Los Municipios, cuando su capacidad administrativa y presupuestaria lo permita, constituirán órganos de control interno para efectos de la coordinación referida en el párrafo anterior.
+Para efectos de la revisión de las cuentas públicas municipales e informes mensuales y a fin de unificar los criterios en materia de contabilidad, archivo contable y control interno, los síndicos y tesoreros municipales serán las instancias de coordinación con la Contaduría General de Glosa.
 
 ###### Artículo 40.
 
 La custodia de la documentación original comprobatoria estará a cargo de los Ayuntamientos a través de los Síndicos Procuradores, ya sea que se trate de ingresos o egresos, los cuales deberán proporcionar a la Contaduría la información que ésta les solicite en los términos del presente ordenamiento. En todo caso pondrán la documentación a disposición de la Contaduría General de Glosa en las propias oficinas de los Ayuntamientos, a fin de que esta realice compulsas, analice inventarios y datos relacionados con obra pública entre otros, manteniéndola bajo custodia en los términos que dispongan los ordenamientos y disposiciones de carácter técnico-reglamentario.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Las facturas originales correspondientes a la comprobación de recursos federales o estatales, que les sean asignados a los municipios, independientemente de su denominación, sólo podrán ser retenidas por la Secretaría de Finanzas y Planeación, hasta por los montos aportados según los convenios respectivos, debiéndose entregar copia de dichas facturas certificadas y con el sello de la citada dependencia, a efecto de evitar la presentación duplicada de las mismas.
 
 ###### Artículo 41.
 
@@ -385,11 +443,17 @@ El Tesorero Municipal que no cumpla con la disposición contenida en el párrafo
 
 Las observaciones que se formulen a los Servidores Públicos, derivadas de la revisión de la cuenta pública, de los informes mensuales y de las auditorías practicadas, deberán aclararse, justificarse o reintegrarse para quedar solventadas en un plazo de diez a treinta días naturales a criterio de la Contaduría General de Glosa.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Sin embargo, cuando por la cuantía o gravedad de la presunta responsabilidad en que hayan incurrido, entre tanto lo aclaran, lo justifican o reintegran, podrán quedar suspendidos de su cargo, en los términos del último párrafo del artículo 47 de la presente ley.
+
 De no solventarse las observaciones en el plazo concedido, se estará a lo previsto en el artículo 49 de esta Ley.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 46.
 
-Las cauciones que para efectos de garantizar el manejo de los recursos de la Hacienda Pública otorguen los Servidores Públicos a que se refiere el artículo 11 fracción XII de esta Ley, cesarán en un año después de haber concluido con su encargo, salvo en los casos en que éstas sean gravadas por responsabilidades específicas y quedarán liberadas hasta la comprobación de las mismas.
+Las cauciones que para efectos de garantizar el manejo de los recursos de la Hacienda Pública otorguen los Servidores Públicos a que se refiere el artículo 11 fracción XII de esta Ley, cesarán dos años después de haber concluido con su encargo, salvo en los casos en que éstas sean gravadas por responsabilidades específicas y quedarán liberadas hasta la comprobación de las mismas.
 
 ### CAPITULO SEXTO. De las Responsabilidades
 
@@ -415,9 +479,11 @@ VIII. Informar a la Contaduría General de Glosa, de las enajenaciones y donacio
 
 La Comisión Inspectora de la Contaduría General de Glosa, podrá solicitar a la autoridad competente, la suspensión temporal o la revocación definitiva del nombramiento o mandato del Servidor Público Municipal que corresponda; en su caso, hasta la intervención de la tesorería respectiva, en los casos debidamente acreditados de omisión reiterada en el cumplimiento de las obligaciones previstas en las fracciones I, V y VI de este artículo.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 48.
 
-En los casos a que se refiere el artículo anterior la Contaduría General de Glosa, es el órgano facultado por la Legislatura del Estado, para determinar o proponer la sanción que corresponda al infractor u omiso, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, por las faltas administrativas cometidas. Las sanciones se harán efectivas en términos de la Ley citada.
+En los casos a que se refiere el artículo anterior, así como en todas las infracciones a la presente Ley, la Contaduría General de Glosa es el órgano facultado por la Legislatura del Estado, para determinar o proponer la sanción que corresponda al infractor u omiso, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, por las faltas administrativas cometidas. Las sanciones se harán efectivas en términos de la Ley citada.
 
 ###### Artículo 49.
 
@@ -427,11 +493,15 @@ a) Tratándose de faltas administrativas, sean turnados los expedientes al super
 
 b) Tratándose de faltas que causen daños o perjuicios a las Haciendas Públicas o al patrimonio de los organismos, auxiliares, promoverá el procedimiento resarcitorio en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y la Ley Orgánica del Poder Legislativo.
 
-Las autoridad que aplique las sanciones impuestas por la Contaduría General de Glosa, deberá informar a éstas sobre su cumplimiento.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+La autoridad que aplique las sanciones impuestas por la Contaduría General de Glosa, deberá informar a ésta sobre su cumplimiento, cursando copia a la Comisión Inspectora de la Contaduría General de Glosa.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 50.
 
-Tratándose de Servidores Públicos Municipales, de elección popular o designados por la Legislatura a propuesta del Ejecutivo, en ejercicio, la Contaduría General de Glosa podrá identificar, investigar y determinar las responsabilidades derivadas del incumplimiento a las obligaciones de carácter general, que se establecen en el artículo 42 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, informando al Presidente de la Legislatura o a quien la Ley Orgánica del Poder Legislativo faculte para resolver y aplicar la sanción que corresponda al infractor u omiso, la que se hará efectiva en términos del ordenamiento primeramente citado.
+Tratándose de servidores públicos municipales de elección popular o designados por la Legislatura a propuesta del Ejecutivo, en ejercicio, la Contaduría General de Glosa podrá identificar, investigar y determinar las responsabilidades derivadas del incumplimiento a las obligaciones de carácter general que se establecen en el artículo 42 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, informando a la Comisión Inspectora de la Contaduría General de Glosa para que a su vez proponga, al Presidente de la Legislatura o a quien la Ley Orgánica del Poder Legislativo faculte, el dictamen para resolver y aplicar la sanción que corresponda al infractor u omiso, la que se hará efectiva en términos del ordenamiento primeramente citado.
 
 ###### Artículo 51.
 
@@ -445,9 +515,13 @@ En el caso de responsabilidad penal, el procedimiento se iniciará por denuncia 
 
 I. La Legislatura del Estado o la Diputación Permanente en su caso, en contra de los Servidores Públicos de elección popular que se encuentren en funciones durante el período para el que fueron electos,
 
-II. La Gran Comisión de la Legislatura del Estado contra él o los Servidores Públicos que no sean de elección popular, que hayan ejecutado los actos o que incurran en las omisiones que den origen a la responsabilidad penal.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-III. La Gran Comisión de la Legislatura del Estado, contra los Servidores Públicos de elección popular o de designación, que hayan dejado de fungir como tales y que por la índole de sus funciones hayan causado daños y perjuicios a la Hacienda Pública.
+II. La Gran Comisión de la Legislatura del Estado, a solicitud de la Comisión Inspectora de la Contaduría General de Glosa, contra él o los Servidores Públicos que no sean de elección popular, que hayan ejecutado los actos o que incurran en las omisiones que den origen a la responsabilidad penal.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+III. La Gran Comisión de la Legislatura del Estado, a solicitud de la Comisión Inspectora de la Contaduría General de Glosa, contra él o los Servidores Públicos de elección popular o de designación, que hayan dejado de fungir como tales y que por la índole de sus funciones hayan causado daños y perjuicios a la Hacienda Pública.
 
 ###### Artículo 53.
 
@@ -456,6 +530,12 @@ III. La Gran Comisión de la Legislatura del Estado, contra los Servidores Públ
 ###### Artículo 54.
 
 Las responsabilidades administrativas que resulten de la aplicación de esta Ley son impugnables y prescribirán en la forma y términos que consigna para las mismas la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+###### Artículo 55.
+
+Incurren en responsabilidad penal, los servidores públicos de la Hacienda Pública Estatal, Municipal y de organismos del sector auxiliar que en el ejercicio de sus funciones promuevan, permitan o toleren, la falta de controles internos y que, en los términos del artículo 149 BIS del Código Penal del Estado de México, ocasionen daños a las Haciendas Pública Estatal, Municipales o de los organismos del sector auxiliar, por no tomar las precauciones necesarias. En el caso particular de las entidades estatales, serán responsables los jefes de departamento y sus superiores jerárquicos. En el caso de los ayuntamientos, la falta de control interno será imputable a los presidentes municipales, a los síndicos, a los tesoreros o a los contralores internos.
 
 T R A N S I T O R I O S
 
@@ -508,3 +588,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
 
 CUARTO.- Se derogan las disposiciones que se opongan a lo dispuesto por este Decreto.
+
+P.O. 5 DE ENERO DE 1999
+
+###### ARTICULO PRIMERO.
+
+Publíquese en el periódico oficial Gaceta del Gobierno del Estado de México.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
