@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1996-03-29"
+last_updated: "1996-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -980,7 +980,7 @@ Tratándose de donativos otorgados a instituciones de enseñanza, los mismos ser
 
 II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $593,813.00, efectúen mediante cheque nominativo del contribuyente, los pagos en efectivo cuyo monto exceda de $2,969.00 excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
@@ -1170,7 +1170,7 @@ XII.- Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes
 
 XIII.- El crédito comercial aun cuando sea adquirido de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 XIV.- Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a $3,462.00 por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
 
@@ -1530,7 +1530,7 @@ I.- Las reparaciones así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995) (REPUBLICADO, D.O.F. 29 DE MARZO DE 1996)
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 II.- Las inversiones en automóviles sólo serán deducibles hasta por un monto de $150,000.00, siempre que sean automóviles utilitarios.
 
@@ -1546,7 +1546,7 @@ En ningún caso serán deducibles las inversiones en automóviles comprendido de
 
 Lo dispuesto en esta fracción no será aplicable tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de automóviles, siempre y cuando los destinen exclusivamente a dicha actividad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 III.- Las inversiones en casas habitación y en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $3'923,425.00.
 
@@ -1778,15 +1778,15 @@ En los casos a que se refiere el párrafo anterior, la sociedad de inversión de
 
 Tratándose de sociedades de inversión de capitales, no será aplicable lo previsto en el artículo 7l-A de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 52-B.
 
-Los establecimientos en el extranjero de instituciones de crédito del país deberán pagar el impuesto a la tasa del 15% por los ingresos por intereses que perciban del capital que coloquen o inviertan en el país, sin deducción alguna. Cuando los establecimientos en el extranjero de instituciones de crédito del país estén situados en un país con el que se encuentre en vigor un tratado para evitar la doble tributación, se pagará el impuesto a la tasa de 4.9% o, cuando así se prevea en el tratado correspondiente, a una tasa menor.
+Los establecimientos en el extranjero de instituciones de crédito del país deberán pagar el impuesto a la tasa del 4.9% por los ingresos por intereses que perciban del capital que coloquen o inviertan en el país, sin deducción alguna.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-El impuesto a que se refiere el párrafo anterior se enterará mediante retención que efectuarán las personas que hagan los pagos de intereses a que se refiere este artículo. Las instituciones de crédito podrán acreditar contra el pago provisional a su cargo que establece el artículo 12, correspondiente al mes en el que acumulen dichos intereses, la tercera parte de la retención efectuada. Las restantes dos terceras partes de dicha retención se considerarán como pago definitivo.
+El impuesto a que se refiere el párrafo anterior se enterará mediante retención que efectuarán las personas que hagan los pagos de intereses a que se refiere este artículo. Las instituciones de crédito podrán acreditar la tercera parte de la retención efectuada contra el impuesto sobre la renta a su cargo, en el ajuste a sus pagos provisionales a que se refiere el artículo 12-A, fracción III de esta Ley, o en la declaración del ejercicio. En ningún caso, procederá solicitar la devolución de los montos no acreditados en el ejercicio. Las restantes dos terceras partes de dicha retención se considerarán como pago definitivo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2208,7 +2208,7 @@ III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 Lo previsto en el segundo párrafo de la fracción XVIII del artículo 25 de esta Ley no será aplicable tratándose de pérdidas por la venta de acciones de empresas controladas en los términos del artículo 57-C de esta Ley, siempre que dichas acciones no hayan sido de las consideradas como colocadas entre el gran público inversionista para efectos fiscales conforme a las reglas generales expedidas por la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 57-I.
 
@@ -2276,7 +2276,7 @@ En los casos en que la sociedad controladora ejerza la opción de consolidar, de
 
 En el caso de acciones que se enajenen en bolsa de valores, que sean de las que se colocan entre el público inversionista conforme a las reglas generales que a efecto expida la Secretaría de Hacienda y Crédito Público, el método de valuación podrá ajustarse por períodos inferiores a un ejercicio, siempre que se calcule en los términos del Reglamento de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 57-M.
 
@@ -2304,7 +2304,7 @@ También se sumarán, en su caso, las partidas contenidas en las declaraciones d
 
 IV.- De la suma de partidas a que se refiere la fracción II de este artículo se disminuirá la suma de partidas a que se refiere la fracción anterior. Si la diferencia proviene de que las partidas de la fracción II hayan sido superiores, se sumaran para determinar la utilidad fiscal consolidada y en caso contrario se restará esa diferencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 57
 
@@ -3502,41 +3502,43 @@ Las personas que hagan pagos que sean ingresos para el contribuyente de los menc
 
 Las personas que efectúen las retenciones por los pagos a los contribuyentes a que se refiere el párrafo anterior, acreditarán contra el impuesto que resulte a cargo de los contribuyentes, en los términos del artículo 80, disminuido con el monto del subsidio que, en su caso, resulte aplicable en los términos del artículo 80-A de esta Ley por el mes de calendario de que se trate, el crédito al salario mensual que se obtenga al aplicar la siguiente tabla.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 TABLA
 
-MONTO DE INGRESOS CREDITO AL SALARIO
+Monto de ingresos que sirven de base Crédito al Salario Mensual
 
-QUE SIRVEN DE BASE MENSUAL
+para calcular el impuesto
 
-PARA CALCULAR EL IMPUESTO
+Para Ingresos de Hasta Ingresos de
 
-PARA HASTA
+$ $ $
 
-INGRESOS DE INGRESOS DE
+0.01 689.14 158.57
 
-N$ N$ N$
+689.15 1014.71 158.50
 
-0.01 464.21 92.38
+1014.72 1033.69 158.50
 
-464.22 683.52 98.46
+1033.70 1352.93 158.40
 
-683.53 696.31 94.05
+1352.94 1378.26 153.00
 
-696.32 911.35 99.84
+1378.27 1474.73 149.00
 
-911.36 928.42 89.33
+1474.74 1732.10 149.00
 
-928.43 1166.77 63.01
+1732.11 1837.68 138.01
 
-1166.78 1400.12 57.88
+1837.69 2078.53 126.57
 
-1400.13 1633.49 53.20
+2078.54 2424.97 114.77
 
-1633.50 1866.83 48.07
+2424.98 2771.37 98.76
 
-1866.84 EN ADELANTE 46.66
+2771.38 2875.95 84.77
+
+2875.96 En adelante 69.27
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -3558,41 +3560,43 @@ Los contribuyentes a que se refiere el artículo 80-B de esta Ley estarán a lo 
 
 I.- El impuesto anual se determinará aplicando a la totalidad de los ingresos obtenidos en un año de calendario, por los conceptos a que se refiere el primer párrafo o la fracción I del artículo 78, la tarifa del artículo 141 de esta Ley. El impuesto a cargo del contribuyente se disminuirá con el subsidio que, en su caso, resulte aplicable en los términos del artículo 141-A, así como con el crédito al salario anual que se obtenga de aplicar la siguiente tabla.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 TABLA
 
-MONTO DE INGRESOS CREDITO AL SALARIO
+Monto de ingresos que sirven de base Crédito al Salario Mensual
 
-QUE SIRVEN DE BASE ANUAL
+para calcular el impuesto
 
-PARA CALCULAR EL IMPUESTO
+Para Ingresos de Hasta Ingresos de
 
-PARA HASTA
+$ $ $
 
-INGRESOS DE INGRESOS DE
+0.01 8269.68 1902.84
 
-N$ N$ N$
+8269.69 12176.52 1902.00
 
-0.01 5570.52 1108.56
+12176.53 12404.28 1902.00
 
-5570.53 8202.24 1181.52
+12404.29 16235.16 1900.80
 
-8202.25 8355.72 1128.60
+16235.17 16539.12 1836.00
 
-8355.73 10936.20 1198.08
+16539.13 17696.76 1788.00
 
-10936.21 11141.04 1071.96
+17696.77 20785.20 1788.00
 
-11141.05 14001.22 756.12
+20785.21 22052.16 1656.12
 
-14001.23 16801.47 694.56
+22052.17 24942.36 1518.84
 
-16801.48 19601.84 638.40
+24942.37 29099.64 1377.24
 
-19601.85 22401.96 576.84
+29099.65 33256.44 1185.12
 
-22401.97 EN ADELANTE 559.92
+33256.45 34511.40 1017.24
+
+34511.41 En adelante 831.24
 
 Las cantidades establecidas en la tabla anterior se actualizarán sumando las cantidades de la tabla que en los términos del artículo 80-B de esta Ley resulten para cada uno de los doce meses del año. El resultado de las sumas será la tabla actualizada. La Secretaría de Hacienda y Crédito Público, en el mes de enero del año siguiente a aquél por el que se determine la tabla actualizada, realizará las operaciones aritméticas previstas en este párrafo y la publicará en el Diario Oficial de la Federación.
 
@@ -4634,7 +4638,7 @@ Las autoridades fiscales tendrán las mismas facultades contenidas en el Capítu
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
-###### ARTICULO 119-A.
+###### Artículo 119-A.
 
 Las personas físicas que obtengan ingresos de los señalados en este Capítulo, en lugar de aplicar lo dispuesto en la Sección I del mismo, podrán optar por pagar el impuesto sobre la renta en los términos establecidos en esta Sección, siempre que los ingresos propios de la actividad empresarial y los intereses obtenidos en el año de calendario anterior no hubieran excedido de $1'484,533.00. Los contribuyentes que se dediquen a actividades agrícolas, ganaderas, pesqueras o silvícolas, así como al autotransporte de carga o pasajeros pagarán el impuesto sobre la renta en los términos establecidos en esta Sección por los ingresos que se deriven de estas actividades independientemente de su monto.
 
@@ -5284,7 +5288,7 @@ No se considera como premio el reintegro correspondiente al billete que permiti�
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
-###### ARTICULO 130.
+###### Artículo 130.
 
 El impuesto por los ingresos derivados de loterías, rifas, sorteos y concursos se calculará sobre el valor del premio correspondiente a cada boleto o billete entero, sin deducción alguna, aplicando el 8% para los premios con valor de $1.01 a $12.00 y el 15% para los premios con valor de $12.01 en adelante.
 
@@ -5502,7 +5506,7 @@ II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los 
 
 III.- Que se resten una sola vez, aún cuando estén relacionadas con la obtención de diversos ingresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 IV.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $593,813.00, efectúen mediante cheque nominativo del contribuyente los pagos en efectivo cuyo monto exceda de $2,969.00, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
@@ -5600,11 +5604,9 @@ I.- Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de 
 
 Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 80-B y 81 de esta Ley, así como los accesorios de las contribuciones, a excepción de sus recargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 II.- Las inversiones en casas habitación, comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como los pagos por el uso o goce temporal de dichos bienes. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $3'923,425.00.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de aviones o automóviles, podrán efectuar la deducción total del monto original de la inversión del avión o del automóvil de que se trate, excepto cuando dichos contribuyentes otorguen el uso o goce temporal de aviones o automóviles a otro contribuyente, cuando alguno de ellos, sea a su vez socio o accionista del otro, o exista una relación que de hecho le permita a uno de ellos ejercer una influencia preponderante en las operaciones del otro, en cuyo caso la deducción se determinará en los términos del primer párrafo de esta fracción, para el caso de aviones y en los términos de la fracción III de este artículo para el caso de automóviles.
 
@@ -11041,3 +11043,33 @@ Esta Resolución y sus Anexos deberán publicarse en el Diario Oficial de la Fed
 D.O.F. 29 DE MARZO DE 1996.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 10 DE MAYO DE 1996
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de lo dispuesto por el artículo anterior, se aplicarán las siguientes disposiciones:
+
+I.- La modificación al artículo 52-B de la Ley del Impuesto Sobre la Renta se aplicará a los intereses exigibles a partir del 1o. de enero de 1996 y hasta la fecha de entrada en vigor de esta Ley, por los establecimientos en el extranjero de instituciones de crédito del país que no estén situados en un país con el que se encuentre en vigor un tratado para evitar la doble tributación.
+
+Las instituciones de crédito del país a las que se les hubiera retenido el impuesto a que se refiere el artículo 52-B del impuesto sobre la renta a la tasa del 15%, en el periodo comprendido del 1o. de enero de 1996 a la fecha de entrada en vigor de esta disposición, podrán acreditar contra el impuesto sobre la renta del ejercicio 1996, adicionalmente a lo que ya hubieran acreditado conforme a dicho artículo vigente durante el citado periodo, hasta un 45% del impuesto retenido, siempre que se haya enterado el impuesto, antes del 1o. de abril de 1996. En ningún caso procederá solicitar la devolución de los montos no acreditados en el ejercicio.
+
+Los contribuyentes a los que se les hubiera retenido una tasa menor al 15%, en el periodo comprendido del 1o. de enero de 1996 a la fecha de entrada en vigor de esta disposición, podrán acogerse a lo dispuesto en esta fracción, siempre que cubran la actualización y recargos correspondientes a la cantidad del impuesto equivalente a la diferencia de haber aplicado la tasa del 15% y el impuesto efectivamente retenido sobre los intereses exigibles en el periodo comprendido del 1o. de enero de 1996 a la fecha de entrada en vigor de la presente disposición.
+
+II.- Las reformas a los artículos 80-B y 81 de la Ley del Impuesto sobre la Renta se aplicarán a partir del 1o. de abril de 1996.
+
+III.- Los residentes en el extranjero que obtengan ingresos por intereses de fuente de riqueza ubicada en territorio nacional de acuerdo a lo señalado en la fracción I del artículo 154 de la Ley del Impuesto sobre la Renta, causarán el impuesto señalado en dicho artículo, por los intereses exigibles en el periodo comprendido del 1o. de enero al 31 de diciembre de 1996 a la tasa del 4.9%, en lugar de la tasa del 15% prevista en dicha fracción, siempre que sean los beneficiarios efectivos de los intereses y residan en un país miembro de la Organización para la Cooperación y Desarrollo Económico en el que el impuesto sobre la renta que, en su caso, se cause por los ingresos por intereses antes mencionados, como si se tratara de su único ingreso, sea equivalente al impuesto que se hubiera causado en México, de haber sido percibidos por una persona moral residente en el país, cuando les hubieran retenido el impuesto a que se refiere dicho precepto a la tasa del 15%. Los países referidos se darán a conocer por la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. Esta disposición sólo surtirá sus efectos en el año de 1996.
+
+Los residentes en el extranjero a que se refiere el párrafo anterior, a los que se les haya retenido el impuesto a la tasa del 15% antes mencionada, podrán efectuar la compensación del impuesto pagado en exceso, que corresponda a los intereses exigibles del 1o. de enero de 1996 a la fecha de entrada en vigor de esta disposición, contra las retenciones que les efectúen las personas que hagan pagos por intereses exigibles hasta el 31 de diciembre de 1996, siempre y cuando los intereses se deriven de una misma operación de financiamiento.
+
+Los residentes en el extranjero mencionados en el párrafo anterior, en el caso de que no exista la obligación de retener impuesto respecto de la misma operación de financiamiento con posterioridad a la entrada en vigor de esta disposición, podrán solicitar la devolución del impuesto pagado en exceso, antes de la entrada en vigor de la misma.
+
+Los residentes en el extranjero a que se refiere el primer párrafo de esta fracción a los que se les hubiera retenido un impuesto menor al 15% mencionado, podrán aplicar lo dispuesto en esta fracción, siempre que cubran la actualización y recargos correspondientes a la cantidad equivalente a la diferencia de haber aplicado la tasa del 15% y el impuesto efectivamente retenido sobre los intereses exigibles, en el periodo comprendido del 1o. de enero de 1996 a la fecha de entrada en vigor de la presente disposición.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
