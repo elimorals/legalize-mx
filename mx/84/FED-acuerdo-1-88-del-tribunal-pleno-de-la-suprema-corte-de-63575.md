@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1991-04-24"
+last_updated: "1991-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1991.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -81,7 +81,7 @@ II.- SEGUNDO CIRCUITO:
 
 6.- Juzgados Sexto y Séptimo de Distrito en estado de México, con residencia en Ciudad Nezahualcóyotl;
 
-7.- Juzgados Primero y Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
+7.- (DEROGADO POR EL PUNTO SEXTO DEL ACUERDO NUMERO 3/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE AGOSTO DE 1991)
 
 III.- TERCER CIRCUITO:
 
@@ -215,7 +215,7 @@ XVI.- DECIMO SEXTO CIRCUITO:
 
 3.- Juzgado Tercero de Distrito en el estado de Guanajuato, con residencia en la ciudad de León;
 
-4.- Juzgados Primero y Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro.
+4.- (DEROGADO POR EL PUNTO SEXTO DEL ACUERDO NUMERO 3/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE AGOSTO DE 1991)
 
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
@@ -260,6 +260,16 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 2.- Juzgado Primero de Distrito en el estado de Guerrero, con residencia en la ciudad de Chilpancingo;
 
 3.- Juzgados Segundo y Tercero de Distrito en el estado de Guerrero, con residencia en la ciudad de Acapulco.
+
+> <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO NUMERO 3/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE AGOSTO DE 1991)</small>
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
+
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Querétaro, Querétaro;
+
+2.- Juzgado Primero y Segundo de Distrito en el estado de Querétaro, con residencia en la ciudad de Querétaro;
+
+3.- Juzgados Primero y Segundo de Distrito en el estado de Hidalgo, con residencia en la ciudad de Pachuca.
 
 > <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO NUMERO 2/1991 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 24 DE ABRIL DE 1991)</small>
 
@@ -542,3 +552,13 @@ SEGUNDO.- Los nuevos tribunales colegiados y unitarios de Circuito y juzgados de
 TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y los juzgados de Distrito resolverán cualquier cuestión que pudiera suscitarse.
 
 CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgado de Distrito del país, para su cumplimiento.
+
+D.O.F. 20 DE AGOSTO DE 1991.
+
+PRIMERO.- Este acuerdo entrará en vigor en la fecha que el Tribunal en Pleno determine.
+
+SEGUNDO.- Los nuevos tribunales colegiado y unitario del Vigésimo Segundo Circuito, con residencia en la ciudad de Querétaro, Querétaro, iniciarán su funcionamiento en las fechas que fije la Comisión de Gobierno y Administración.
+
+TERCERO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito y juzgados de Distrito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país.
