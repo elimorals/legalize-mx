@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "1995-07-22"
+last_updated: "1996-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -739,11 +739,35 @@ El Consejo Consultivo se integrará con los representantes de los sectores socia
 
 En lo no previsto en este capítulo, se aplicará en lo conducente, lo dispuesto en la presente Ley.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IV. DE LA INTERVENCION A LOS ORGANISMOS OPERADORES
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 46 BIS.- El titular del Poder Ejecutivo del Estado podrá decretar la intervención de los organismos operadores, designando un interventor responsable, en los siguientes casos:
+
+I.- Cuando el organismo correspondiente declare o muestre incapacidad para prestar eficazmente los servicios a su cargo;
+
+II.- Cuando los organismos incumplan sus obligaciones financieras, poniendo en riesgo la recepción de participaciones correspondientes a las esferas estatal o municipal;
+
+III.- Cuando se declare procedente un emplazamiento a huelga y exista el peligro de que los servicios a cargo de los organismos operadores se reciban con deficiencia por la población;
+
+IV.- Cuando se presente una situación humana o técnica que ponga en peligro la infraestructura, instalaciones y/o equipo de los organismos, en forma tal que exista el riesgo de suspensión de los servicios a su cargo;
+
+V.- Por incurrir los organismos operadores en reiteradas violaciones a las normas técnicas y/o de salubridad que deben observar; y
+
+VI.- Al detectarse irregularidades en el manejo de los recursos de los organismos operadores, previa resolución que al efecto se dicte por la autoridad facultada para realizar la revisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 46 BIS 1.- La intervención podrá durar el tiempo que sea necesario para solucionar el problema que la originó y sus alcances se determinarán en el Acuerdo correspondiente, pudiendo consistir en la limitación, suspensión o prohibición de actividades, control de activos y pasivos o, en lo general, asumir la administración y control del organismo.
+
+Cuando la intervención asuma la administración y control del organismo, las cuotas y tarifas por los servicios que proporcione de agua, alcantarillado y saneamiento serán aprobados por la Comisión de Agua Potable y Alcantarillado del Estado de Colima.
 
 ## TITULO TERCERO. PARTICIPACION DEL SECTOR PRIVADO Y SOCIAL EN EL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO
 
-### CAPITULO I. CONTRATACION DE LOS SERVICIOS Y CONEXION AL SISTEMA
+### CAPITULO UNICO
 
 ###### ARTICULO 47.
 
@@ -751,7 +775,7 @@ La participación de los sectores privado y social en el servicio público de ag
 
 ## TITULO CUARTO. PRESTACION DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
-### CAPITULO II. CORRESPONSABILIDAD DE LOS USUARIOS
+### CAPITULO I. CONTRATACION DE LOS SERVICIOS Y CONEXION AL SISTEMA
 
 ###### ARTICULO 48.
 
@@ -853,7 +877,7 @@ Las personas que utilicen los servicios de agua potable y alcantarillado de mane
 
 Todo lo relacionado con los predios, giros o establecimientos; la forma en que otras autoridades o terceros deberán informar o avisar al organismo operador de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se requieran para su cumplimiento; la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar las atribuciones de la autoridad y, en general, las demás para proveer la exacta observancia de la presente Ley, se precisará en el reglamento de la misma.
 
-### CAPITULO III. CUOTAS Y TARIFAS
+### CAPITULO II. CORRESPONSABILIDAD DE LOS USUARIOS
 
 ###### ARTICULO 63.
 
@@ -901,7 +925,7 @@ En épocas de escasez de agua, comprobada o previsible, los organismos operadore
 
 Cuando la escasez de agua sea originada por negligencia o falta de previsión del organismo operador, éste responderá en los términos que prevenga el contrato respectivo.
 
-### CAPITULO IV. INSPECCION, VERIFICACION Y DETERMINACION PRESUNTIVA DEL PAGO DE SERVICIOS
+### CAPITULO III. CUOTAS Y TARIFAS
 
 ###### ARTICULO 71.
 
@@ -1011,7 +1035,7 @@ Si el usuario no está de acuerdo con la resolución del director del organismo 
 
 Los notarios públicos y jueces no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite que están al corriente en el pago de las cuotas o tarifas por servicios de agua potable, alcantarillado y tratamiento de aguas residuales, en su caso.
 
-### CAPITULO I. INFRACCIONES Y SANCIONES
+### CAPITULO IV. INSPECCION, VERIFICACION Y DETERMINACION PRESUNTIVA DEL PAGO DE SERVICIOS
 
 ###### ARTICULO 81.
 
@@ -1147,7 +1171,7 @@ Quedan facultados los organismos operadores o, en su defecto, la Comisión Estat
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-### CAPITULO II. RECURSOS ADMINISTRATIVOS
+### CAPITULO I. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 100.
 
@@ -1223,6 +1247,8 @@ El organismo operador notificará los adeudos que tengan las personas físicas o
 
 Los ingresos a que se refiere el presente artículo, para efectos de cobro, en los términos de la presente ley, tendrán carácter de créditos fiscales; para su recuperación el organismo operador aplicará el procedimiento administrativo de ejecución.
 
+### CAPITULO II. RECURSOS ADMINISTRATIVOS
+
 ###### ARTICULO 106.
 
 Contra las resoluciones y actos de los directores de los organismos operadores, que causen agravio a los particulares, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
@@ -1282,3 +1308,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los 21 días del mes de julio de 1995.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
