@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-7691"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-12"
-last_updated: "1991-04-18"
+last_updated: "1996-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1996.
 
 Ley Publicada en el Periódico Oficial "La Sombra de Arteaga" el 12 de Diciembre de 1985
 
 LIC. MARIANO PALACIOS ALCOCER Gobernador Constitucional del Estado Libre y Soberano de Querétaro de Arteaga, a los habitantes del mismo sabed que:
 
-LA CUADRAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, ... ha tenido a bien expedir la siguiente:
+LA CUADRAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL... ha tenido a bien expedir la siguiente:
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
@@ -143,15 +143,19 @@ XV.- Gasolineras, y
 
 XVI.- Las demás materias que determine esta Ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 4o.
 
 Son Autoridades Sanitarias Estatales:
 
 I.- El C. Gobernador del Estado;
 
-II.- La dirección de salud
+II.- La Secretaria de salud;
 
-III.- Los Ayuntamientos, en los términos de los acuerdos que celebren con el Gobernador del estado de conformidad con esta ley y demás disposiciones generales
+III.- El organismo público Descentralizado denominado Servicios de Salud del Estado de Querétaro, en lo sucesivo SESEQ;
+
+IV.- Los Ayuntamientos en los términos de los acuerdos que celebren con el Estado de conformidad con esta ley y demás disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -181,59 +185,61 @@ VI.- Impulsar en el ámbito estatal un sistema racional de administración y des
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La coordinación del Sistema estatal de Salud estará a cargo de la Dirección de Salud, correspondiendole lo siguiente:
+La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud correspondiéndole lo siguiente:
 
-I.- Establecer y conducir la política estatal en materia de salud en los términos de esta Ley y demás disposiciones aplicables y de conformidad con las políticas del sistema nacional de salud y con lo dispuesto por el Ejecutivo Federal;
+I.- Establecer y conducir la política Estatal en materia de Salud en los términos de esta Ley y de conformidad con las políticas del Sistema Estatal de Salud y con lo dispuesto por el Ejecutivo Federal;
 
-II.- Coordinar con programas de Servicios de Salud de las Dependencias y Entidades de la Administración Pública Estatal;
+II.- Coordinar los programas de Servicios de Salud de las Dependencias y Entidades de la Administración Pública Estatal;
 
-III.- Apoyar la coordinación de los programas y servicios de Salud de toda dependencia o entidad pública en los términos de la legislación aplicable y de los Acuerdos de coordinación que en su caso celebren
+III.- Impulsar en los términos de los convenios que al efecto se suscriban la desconcentración y descentralización a los Municipios de los Servicios de Salud;
 
-En el caso de los programas y servicios de las Instituciones federales de seguridad social, el mencionado apoyo se realizará tomando en cuenta los que previenen las leyes que rigen el funcionamiento de dichas instituciones.
+IV.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal;
 
-IV.- Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
+V.- Apoyar la coordinación entre las instituciones de Salud y Educativas del Estado para formar y capacitar Recursos Humanos para la salud;
 
-V.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal
+VI.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
-VI.- Determinar la periodicidad y características de la información que deberá proporcionar las dependencias y entidades de Salud del Estado con sujeción a las disposiciones legales aplicables
+VII.- Las de más atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las determinen las disposiciones generales aplicables.
 
-VII.- Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables;
+> <small>(ADICIONADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
-VIII Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+ARTICULO 7 BIS A.- El SESEQ tendrá las siguientes atribuciones en materia de salud:
 
-IX.- Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
+I.- Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables
 
-X.- Coadyuvar con las dependencias federales competentes a la regulación y control de la transferencia de tecnología en el área de salud
+II.- Formular recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
 
-XI.- Promover el establecimiento de un sistema estatal de información en materia de salud;
+III.- Promover el establecimiento de un sistema estatal de información en materia de salud;
 
-XII.- Apoyar la coordinación entre las instituciones de salud y educativas del estado, para formar y capacitar recursos humanos para la salud
+IV.- Coadyuvar a la formación y distribución de los recursos para que la salud sea congruente con las prioridades del Sistema Estatal de Salud.
 
-XIII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 05 DE DICIEMBRE DE 1996)</small>
 
-XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
-
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
-
-XVI.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+ARTICULO 7 BIS B.- La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría, la que será competente en el aspecto normativo, en tanto que el SESEQ se ocupará de los aspectos operativos. Ambos de manera coordinada en la esfera de su competencia, conjugan esfuerzos para hacer efectivos los programas y servicios de salud en la entidad.
 
 ###### ARTICULO 8o.
 
-La Dirección de Salud promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+(DEROGADO, P.O. 05 DE DICIEMBRE DE 1996)
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 9o.
 
-La concertación de acciones entre la Dirección de salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaria de Salud y los integrantes de los sectores social y privado se realizará mediante convenios y contratos los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Dirección de Salud;
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud Federal;
+
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
+III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de EL SESEQ;
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
@@ -247,49 +253,67 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado por conducto de la Dirección de Salud:
+Corresponde al Ejecutivo del Estado
 
-A.- EN MATERIA DE SALUBRIDAD GENERAL;
+I.- Por conducto de la Secretaría de Salud:
 
-I.- Organizar, operar y evaluar los servicios de salud a que se refiere al apartado A del articulo 3º de esta Ley
+A.- En materia de salubridad general;
 
-II.- Coordinar el Sistema Estatal de Salud y coadyuvar al funcionamiento y consolidación del Sistema Nacional de Salud;
+a) Coordinar el Sistema Estatal de Salud y coadyuvar al funcionamiento y consolidación del Sistema Estatal de Salud;
 
-III.- Formular y desarrollar programas locales de salud en el marco del Sistema Estatal de Salud, del Sistema Nacional de Salud y de acuerdo con los principios y objetivos de la Planeación Nacional;
+b) Formular y desarrollar programas locales de salud en el marco del Sistema Estatal de Salud, del Sistema Nacional de Salud y de acuerdo con los principios y objetivos de la Planeación Nacional;
 
-IV.- Promover, orientar, fomentar y apoyar las acciones en materia de Salubridad Local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren;
+c) Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción X del artículo 115 de la Constitución General de la República asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social, lo haga necesario así como los convenios con los municipios para la prestación de servicios sanitarios locales,
 
-V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables
+B.- En materia de salubridad local:
 
-VI.- Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción X del artículo 115 de la Constitución General de la República asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, así como los convenios con los municipios para la prestación de servicios sanitarios locales, y
+a) Dictar las normas técnicas para el control sanitario de los establecimientos y servicios de Salubridad Local a que se refiere el Apartado "B" del artículo 3o. de esta Ley;
 
-VII.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta ley y de otras disposiciones legales aplicables.
+b) Vigilar la sanidad en los límites con otras Entidades en los términos de Ley y de los convenios respectivos.
 
-B.- EN MATERIA DE SALUBRIDAD LOCAL:
+II.- Por conducto de el SESEQ;
 
-I.- Dictar las normas técnicas y ejercer el control sanitario de los establecimientos y servicios de Salubridad Local a que se refiere el Apartado "B" del artículo 3o. de esta Ley;
+A.- En materia de salubridad general;
 
-II.- Promover, orientar, fomentar y apoyar las acciones en materia de Salubridad Local a cargo de los Municipios con sujeción a las políticas nacional y estatal de salud y en los convenios que se suscriban;
+a) Operar los servicios de Salud a que se refiere el apartado A del artículo 3° de esta Ley;
 
-III.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones legales, y;
+b) Coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
-IV.- Vigilar la sanidad en los límites con otras Entidades en los términos de la Ley y de los convenios respectivos.
+c) Promover, fomentar y apoyar las acciones en materia de Salubridad Local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren;
+
+d) Vigilar y hacer cumplir en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
+
+B.- En materia de Salubridad Local:
+
+a) Ejercer el control sanitario de los establecimientos y servicios de salubridad local a que se refiere el apartado "b" del artículo 3° de esta Ley;
+
+b) Promover fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios con sujeción a las políticas nacional y estatal de salud y en los convenios que se suscriban.
+
+c) Vigilar y hacer cumplir en la esfera de su competencia la Ley General de Salud, la presente Ley y demás disposiciones aplicables.
+
+Cuando se requiera articular y conjugar esfuerzos para la elaboración y aplicación de planes y programas de servicios de salud en la Entidad, el Ejecutivo del Estado, dispondrá lo conducente para establecer los procedimientos de coordinación entre la Secretaría y el SESEQ.
 
 ###### ARTICULO 13.
 
 Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deban satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 14.
 
-El Ejecutivo Estatal a través de la Dirección de Salud podrá convertir con los Ayuntamientos la prestación por parte de éstos, de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal a través de la Secretaría de Salud podrá convenir con los Ayuntamientos la prestación por parte de éstos de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
 
 Asimismo, en dichos convenios se podrán estipular acciones sanitarias que deban ser realizadas por las delegaciones municipales.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 15.
 
-Corresponde al Ejecutivo del Estado, a través de la Dirección de Salud, en coordinación con el Ejecutivo Federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 3o. de esta Ley.
+Corresponde al Ejecutivo del Estado a través de la Secretaría de Salud en coordinación con el Ejecutivo Federal, organizar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 3o. de esta Ley.
 
 ###### ARTICULO 16.
 
@@ -395,9 +419,11 @@ El Gobierno del Estado, de conformidad con las disposiciones legales aplicables,
 
 El Gobierno del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población del Estado la disponibilidad de medicamentos especiales.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 31.
 
-La Dirección de Salud coadyuvará con las demás Dependencias Estatales para que los establecimientos de los Sectores Público, Social y Privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las Leyes aplicables.
+La Secretaría de Salud y el SESEQ coadyuvarán con las demás Dependencias Estatales para que los establecimientos de los Sectores Público, Social y Privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las Leyes aplicables.
 
 ###### ARTICULO 32.
 
@@ -405,13 +431,17 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 ### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
+> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 33.
 
-De conformidad con la norma técnica que expida la Secretaría de Salud, la Dirección de Salud ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+De conformidad con la norma técnica que expida la Secretaría de Salud Federal, El SESEQ ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 34.
 
-La Dirección de Salud, en los términos de esta Ley y demás disposiciones aplicables, autorizará la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
+EL SESEQ, en los términos de esta Ley y demás disposiciones aplicables, autorizará en lo que corresponde a salud, el funcionamiento de los establecimientos a que se refiere este capítulo.
 
 ###### ARTICULO 35.
 
@@ -453,13 +483,17 @@ III.- Otros que se presten de conformidad con la que establezca el Gobierno del 
 
 Son servicios públicos a la población en general los que se presten en establecimientos públicos de salud a los habitantes del Estado de Querétaro que así lo requieran, regidos por criterios de universalidad y de gratitud fundada en las condiciones socioeconómicas de los usuarios.
 
+> <small>(REFORMADO PRIMER PARRAFO P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 41.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al Convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud se ajustarán a lo que disponga la legislación fiscal aplicable del Estado y el Acuerdo de coordinación celebrado en la materia con el Ejecutivo Federal.
 
 Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir el cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme con las disposiciones del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
+Las cuotas de recuperación se fundarán en principios de seguridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir el cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme con las disposiciones del Gobierno del Estado.
 
 ###### ARTICULO 42.
 
@@ -481,13 +515,17 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno Estatal y los Municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 47.
 
-La Dirección de Salud, en coordinación con las autoridades educativas, vigilará en el Estado de Querétaro el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos procurando la coordinación con la autoridad educativa federal.
+La Secretaria de Salud en coordinación con las autoridades educativas vigilará en el Estado de Querétaro el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 48.
 
-La Dirección de Salud coadyuvará con las Autoridades Educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionistas, técnicos y auxiliares de la salud y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesionales, promotoras de la superación permanente de sus miembros, así como consultoras de las Autoridades Sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud coadyuvará con las Autoridades Educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionistas, técnicos y auxiliares de la salud, y estimularán su participación en el Sistema Estatal de Salud, como instancias técnicas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las Autoridades Sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO V. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA
 
@@ -509,9 +547,11 @@ Los Grupos de Urgencia y Rescate privados que en casos de accidentes y desastres
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 52.
 
-La Dirección de Salud establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población general y a los servicios sociales y privados en el Estado de Querétaro
+La Secretaría de Salud, establecerá los procedimientos para regular las modalidades de acceso a los servicios de salud públicos de la población general y a los servicios sociales y privados en el Estado de Querétaro.
 
 ###### ARTICULO 53.
 
@@ -547,7 +587,9 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
-ARTICULO 58 La Dirección de Salud y demás Instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en las prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 58 La Secretaría de Salud, el SESEQ, así como las instituciones de salud estatales y municipales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
 
 ###### ARTICULO 59.
 
@@ -627,9 +669,11 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 Los comités de salud a que se refiere el artículo 59 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas, brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 71.
 
-El Gobierno del Estado Coadyuvará con la Secretaría de Salud en las acciones del programa nacional de planificación familiar que formule el consejo nacional de población y del programa de planificación familiar del sector Salud, y cuidará que se incorporén en los programas estatales de salud
+El Gobierno del Estado Coadyuvará con la Secretaría de Salud Federal en las acciones del programa nacional de planificación familiar que formule el consejo nacional de población y del programa de planificación familiar del sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
 ### CAPITULO VII. SALUD MENTAL
 
@@ -637,17 +681,19 @@ El Gobierno del Estado Coadyuvará con la Secretaría de Salud en las acciones d
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basarán en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental, la Dirección y las instituciones de Salud, en coordinación con las autoridades competentes en cada materia fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud, El SESEQ y demás Instituciones afines, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud
+I.- El desarrollo de actividades educativas, socioculturales y recreativas, que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes inhalantes y otras substancias que pueden causar alteraciones mentales o dependencia, y
+III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias; y
 
-III.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población, a través de la creación de instituciones especializadas.
 
 ###### ARTICULO 74.
 
@@ -657,11 +703,13 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psiq
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
+> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 75.
 
-La dirección de Salud, conforme con las normas Técnicas básicas que establezca la Secretaría de Salud prestará atención a los enfermos mentales que se encuentren en los reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental,
+El SESEQ, conforme con las normas técnicas básicas que establezca la Secretaría de Salud Federal, gestionará la remisión a instituciones especializadas y prestará atención a los enfermos mentales que se encuentren en los reclusorios del Estado o en otras instituciones no especializadas en salud mental.
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+A estos efectos se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, adiministrativas y otras, según corresponda.
 
 ###### ARTICULO 76.
 
@@ -747,17 +795,21 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 88.
 
-La Dirección de Salud, sugerirá a las autoridades e instituciones educativas, cuando estas lo soliciten, criterios sobre:
+La Secretaría de Salud, sugerirá a las autoridades e instituciones educativas, cuando estas lo soliciten, criterios sobre:
 
-I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
+I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud en los diferentes niveles académicos y técnicos, y
 
-II.- El perfil de los profesionales para la salud en sus etapas de formación.
+II.- El perfil de los profesionistas y técnicos para la salud en sus etapas de formación.
+
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 89.
 
-La Dirección de Salud y, en coordinación con las autoridades Federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud y El SESEQ, en coordinación con las autoridades Federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 90.
 
@@ -783,9 +835,11 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 92.
 
-La Dirección de Salud y apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
+La Secretaría de Salud y El SESEQ, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
 
 ###### ARTICULO 93.
 
@@ -817,15 +871,17 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 96.
 
-La Dirección de Salud, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacionales y Estatal de Salud, así como el estado y evolución de la salud pública de la Entidad
+La Secretaría de Salud y El SESEQ, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacionales y Estatal de Salud así como el estado y evolución de la salud pública en el Estado.
 
 La información se referirá, fundamentalmente a los siguientes aspectos:
 
-I.- Estadística de natalidad, mortalidad, morbilidad e invalidez
+I.- Estadística de natalidad, mortalidad, morbilidad y discapacidad;
 
-II.- Factores demográficos, económicos, sociales, y ambientales vinculados a la salud;
+II.- Factores demográficos, económicos, sociales, en los que se comprenderá la violencia intrafamiliar, y ambientales vinculados a la salud;
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
@@ -887,9 +943,11 @@ En los programas a que se refiere el artículo anterior se incorporarán accione
 
 Las autoridades sanitarias del Estado tomarán las medidas y realizarán las actividades a que se refiere esta ley tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 105.
 
-Corresponde a la Dirección de salud:
+Corresponde a El SESEQ:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
@@ -897,9 +955,11 @@ II.- Vigilar la calidad del agua para uso y consumo humano, y
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 106.
 
-La Dirección de Salud se coordinará con las Dependencias Federales para la prestación de los servicios a que se refiere este capítulo.
+El SESEQ se coordinará con las Dependencias Federales para la prestación de los servicios a que se refiere este capítulo.
 
 ###### ARTICULO 107.
 
@@ -911,15 +971,19 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio de aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 109.
 
-La Dirección de Salud, en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y con la autoridad estatal encargada de la administración del distrito de riesgo, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, fluviales, lagos y otras que se utilicen para el riego o para uso doméstico, originadas por plaguicidas, sustancias tóxicas y desperdicios o basura.
+La Secretaría de Salud y El SESEQ, en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y con la autoridad estatal encargada de la administración del distrito de riesgo, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, fluviales, lagos y otras que se utilicen para el riego o para uso doméstico, originadas por plaguicidas, sustancias tóxicas y desperdicios o basura.
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 110.
 
-La Dirección de Salud tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+El SESEQ tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### ARTICULO 111.
 
@@ -945,11 +1009,11 @@ Asimismo, realizarán actividades de vigilancia epidemiológica y de prevención
 
 I.- Cólera, fiebre tifoidea paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
 
-II.- Influencia epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+II.- Influencia epidémica, otras infecciones agudas del aparato respiratorio, infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
 
 III.- Tuberculosis;
 
-IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola, parotiditis infecciosa;
+IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
 V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud coordinará sus actividades con la Secretaría de Agricultura y Recursos Hidráulicos;
 
@@ -1143,9 +1207,11 @@ Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente 
 
 En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 137.
 
-El Gobierno del Estado contara con un organismo que tendrá entre sus objetivos en coordinación con el organismo federal, encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+El Gobierno del Estado a través del SESEQ se coordinará con los organismos federales encargados de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
 
 ###### ARTICULO 138.
 
@@ -1195,9 +1261,11 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitadora, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 150.
 
-La Dirección de Salud en coordinación con otras instituciones públicas, promoverá que en los lugares donde se presten servicios públicos se dispongan de facilidades para las personas inválidas.
+La Secretaría de Salud y EL SESEQ en coordinación con otras instituciones públicas promoverán que en los lugares en que se presten servicios públicos se dispongan facilidades para las personas inválidas.
 
 ###### ARTICULO 151.
 
@@ -1205,7 +1273,7 @@ El patrimonio de la beneficencia pública, será administrado por el organismo a
 
 ###### ARTICULO 152.
 
-Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para su desempleo físico mental, social, ocupacional y económico como consecuencia de una deficiencia sómatica psicológica o social.
+Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para su desempleo físico mental, social, ocupacional y económico como consecuencia de una deficiencia sómatica, psicológica o social.
 
 ###### ARTICULO 153.
 
@@ -1285,13 +1353,15 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 161.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución en el territorio del estado de Querétaro, del Programa Nacional contra la farmacodependencia.
+El Gobierno del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución, en el territorio del Estado de Querétaro del Programa Nacional contra la Farmacodependencia.
 
 ###### ARTICULO 162.
 
-El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópico en las personas, se ajustará a lo siguiente:
+El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustará a lo siguiente:
 
 I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
@@ -1307,31 +1377,45 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 163.
 
-Compete a la Dirección de Salud, en los terminos de esta Ley y de las demás disposiciones aplicables, el control sanitario de las materias a que se refiere el artículo 3° apartado "B" de esta Ley.
+Compete al SESEQ en los términos de esta Ley y de las demás disposiciones legales aplicables, en el control sanitario de las materias a que se refiere el artículo 3o. apartado "B" de esta Ley.
 
 ###### ARTICULO 164.
 
 Se entiende por control y regulación sanitaria el conjunto de actos que lleve a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población que comprende: El otorgamiento de autorizaciones, la vigilancia sanitaria, la aplicación de medidas de seguridad y la imposición de sanciones a los establecimientos, servicios o personas a que se refiere esta Ley.
 
-ARTICULO 165 La Dirección de Salud emitirá las normas técnicas a que quedará sujeto el control sanitario de las materias de salubridad local.
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 165.
+
+La Secretaría de Salud emitirá las normas técnicas a que quedará sujeto el control sanitario de las materias de salubridad local.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 166.
 
-Los establecimientos y vehículos a que se refiere el Artículo 3° apartado "B" de esta Ley requiere para su funcionamiento:
+Los establecimientos y vehículos a que se refiere el artículo 3o. apartado "B" de esta Ley, requieren para su funcionamiento:
 
-I.- Licencia sanitaria expedida por la Dirección de Salud , y
+> <small>(REFORMADA, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
+I.- Licencia sanitaria expedida por el SESEQ y,
 
 II.- Contar, en su caso, con permiso sanitario los responsables y auxiliares.
 
+> <small>(REFORMADO P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 167.
 
-Todo cambio de propietario de un establecimiento de razón o denominación social autorizado por la Dirección de Salud deberá ser comunicado a ésta en un plazo no mayor de treinta días a partir de la fecha en que se hubiere realizado, sujetándose el tramite correspondiente a las disposiciones reglamentarias aplicables
+Todo cambio de propietario de un establecimiento de razón o denominación social autorizado por el SESEQ, deberá ser comunicado por éste en un plazo no mayor de 30 días a partir de la fecha en que se hubiere realizado, sujetándose al trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168.
 
-La Dirección de Salud editará la Gaceta Sanitaria en la que publicará las normas técnicas que dicte, resoluciones administrativas que señale esta ley y la información que determine.
+El SESEQ editará la gaceta sanitaria, en la que publicará las normas técnicas que dicte la Secretaría de Salud, resoluciones administrativas que señale esta Ley y la información que determine.
 
 Las notificaciones que conforme con esta Ley deben publicarse surtirán efectos a partir del día siguiente de su publicación.
 
@@ -1393,9 +1477,11 @@ Cuando los edificios, construcciones o terrenos representen un peligro por su in
 
 Para los efectos de esta Ley se considera como panteón al lugar destinado a la inhumación e incineración, en su caso, y exhumación de restos humanos.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 182.
 
-Para establecer un nuevo panteón se necesita licencia expedida por la autoridad estatal, quien la concederá después de oir la opinión de la autoridad municipal correspondiente.
+Para establecer un nuevo panteón se necesita licencia expedida por El SESEQ, quien la concederá después de oír la opinión de la autoridad municipal correspondiente.
 
 ###### ARTICULO 183.
 
@@ -1489,9 +1575,11 @@ Para los efectos de esta Ley se entiende por establos todos aquellos sitios cubi
 
 Los establos no deben estar localizados en las áreas urbanas de los lugares poblados, y los que actualmente se encuentren en estas circunstancias deberán salir de las ciudades, en un plazo que fije la autoridad Estatal correspondiente.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 204.
 
-Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere la licencia sanitaria expedida por la Autoridad Estatal correspondiente; previa su expedición se deberá contar con la opinión de la Autoridad Municipal, respecto a su ubicación, quien también será la encargada de la vigilancia sanitaria, la aplicación de medidas de seguridad e imposición de sanciones, conforme a los convenios que al efecto se firmen.
+Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de licencia sanitaria expedida por El SESEQ; previa a su expedición se deberá contar con la opinión de la autoridad municipal, respecto a su ubicación, quien también será la encargada de la vigilancia sanitaria, la aplicación de medidas de seguridad e imposición de sanciones conforme a los convenios que para tal efecto se firmen.
 
 ###### ARTICULO 205.
 
@@ -1503,9 +1591,11 @@ Las condiciones sanitarias que deban reunir estos establecimientos estarán fija
 
 Para los efectos de esta Ley, se entiende por prostitución la actividad que realizan las mujeres utilizando sus funciones sexuales como medio de vida.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 207.
 
-Toda persona que ejerza la prostitución se sujetará a las medidas y formas de control que señale la autoridad Sanitaria conforme a las previsiones de esta Ley y demás disposiciones aplicables.
+Toda persona que ejerza la prostitución se sujetará a las medidas y formas de control que señale El SESEQ conforme a las prevenciones de esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 208.
 
@@ -1547,9 +1637,11 @@ Los reclusorios deberán contar, además de lo previsto por las disposiciones le
 
 Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño, y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 217.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, por otras disposiciones legales aplicables y por las normas técnicas correspondientes que dicte la Autoridad Sanitaria.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, por otras disposiciones legales aplicables y por las normas técnicas correspondientes que dicte la Secretaría de Salud.
 
 ### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
@@ -1609,17 +1701,21 @@ Las gasolineras deberán contar con las instalaciones de sanidad y seguridad que
 
 ### CAPITULO I. AUTORIZACIONES
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 227.
 
-La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria del Estado permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
+La autorización sanitaria es el acto administrativo mediante el cual El SESEQ permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicable.
 
 Las autorizaciones sanitarias tendrán el carácter de licencias, y permisos o tarjetas de control sanitario en su caso.
+
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 228.
 
 Las autorizaciones sanitarias serán otorgadas por tiempo determinado con las excepciones que establezca esta Ley. Las autorizaciones por tiempo determinado podrán prorrogar su vigencia.
 
-Las autoridades sanitarias del Estado llevarán a cabo actividades de censo y promoción de estas autorizaciones, mediante campañas
+El SESEQ llevará a cabo actividades de censo y promoción de estas autorizaciones mediante campañas.
 
 ###### ARTICULO 229.
 
@@ -1633,9 +1729,11 @@ Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señ
 
 En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 231.
 
-La Dirección de Salud expedirá la licencia sanitaria para el funcionamiento de establecimientos que presenten servicios de asistencia social.
+El SESEQ expedirá la Licencia sanitaria para el funcionamiento de establecimientos que presenten servicios de asistencia social.
 
 ###### ARTICULO 232.
 
@@ -1649,9 +1747,11 @@ I.- Las construcciones, y
 
 II.- Los demás casos que se señalen en esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 234.
 
-La Dirección de Salud podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
+El SESEQ podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
 ###### ARTICULO 235.
 
@@ -1817,9 +1917,11 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 259.
 
-Se consideran medidas de seguridad aquellas disposiciones de inmediata ejecución que dicte la dirección de salud y los Municipios de conformidad con los preceptos de esta Ley y los convenios que al efecto se firmen, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se consideran medidas de seguridad aquellas disposiciones de inmediata ejecución que dicte El SESEQ y los Municipios de conformidad con los preceptos de esta Ley y los convenios que al efecto se firmen, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso, correspondieren.
 
 Son competentes para ordenar y ejecutar, medidas de seguridad las autoridades sanitarias del Estado en el ámbito de sus competencias.
 
@@ -1879,15 +1981,19 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 266.
 
-La Dirección de Salud ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
+El SESEQ ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias encargadas de la sanidad animal, la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 267.
 
-La Dirección de Salud podrá ordenar la inmediata suspensión de trabajos o servicios o la prohibición de actos de uso, cuando, de continuar aquéllos, se ponga en peligro la salud de las personas.
+El SESEQ podrá ordenar la inmediata suspensión de trabajos o servicios o la prohibición de actos de uso, cuando, de continuar aquéllos, se ponga en peligro la salud de las personas.
 
 ###### ARTICULO 268.
 
@@ -2035,13 +2141,17 @@ X.- Jerarquía, y
 
 XI.- Buena fe.
 
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 285.
 
-La Dirección de Salud con base en el resultado de la inspección dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+El SESEQ, con base en el resultado de la inspección dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+
+> <small>(REFORMADO, P.O. 05 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 286.
 
-La Dirección de Salud podrá hacer uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+El SESEQ podrá hacer uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las medidas y sanciones de seguridad que procedan.
 
 ###### ARTICULO 287.
 
@@ -2208,3 +2318,21 @@ N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRE
 P.O. 18 DE ABRIL DE 1991
 
 UNICO.- esta Ley entrará en vigor el día de su publicación en el Periódico Oficial "La sombra de Arteaga".
+
+P.O. 05 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor a partir del día siguiente de su publicación.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+###### ARTICULO CUARTO.
+
+A cualquier tramite o procedimiento que está pendiente de concluirse y que se hubiere iniciado ante la Coordinación de Salud, antes de entrar en vigor esta Ley, será resulto por el Organismo Público descentralizado denominado Servicios de Salud del Estado de Querétaro (SESEQ.)
