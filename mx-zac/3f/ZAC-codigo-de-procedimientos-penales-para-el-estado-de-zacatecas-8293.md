@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1994-08-06"
+last_updated: "1995-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -522,6 +522,10 @@ Cuando se ignorare la residencia de la persona que deba ser citada, se encargar�
 ###### ARTICULO 80.
 
 Las audiencias serán públicas y en ellas el inculpado podrá defenderse por sí mismo o por su defensor.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+Cuando se trate de delitos contra la libertad sexual e integridad de las personas, la parte ofendida, o quien legalmente la represente, podrá solicitar al juez ordene que el desarrollo de alguna audiencia tenga lugar a puerta cerrada. El juez resolverá prudentemente pero procurando equilibrar tal derecho el de audiencia pública como garantía individual. Es decir, analizará si la publicidad, amplia o restringida de la audiencia, vulnera la intimidad y la dignidad de la víctima u ofendida y en función de ello resolverá en cada audiencia específica.
 
 El Ministerio Público podrá replicar cuantas veces quisiere, siguiéndole la parte civil, pudiendo la defensa contestar en cada caso.
 
@@ -1101,6 +1105,14 @@ El Ministerio Público y el Tribunal, en su caso, deberán procurar ante todo qu
 
 Si para la comprobación de los elementos del tipo penal o de sus circunstancias, tuviese importancia el reconocimiento de un lugar cualquiera, se procederá a hacer constar en acta la descripción del mismo, sin omitir detalle alguno que pueda tener valor.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+###### ARTICULO 160
+
+Bis.- Para comprobar el cuerpo del delito de violación, será fundamental la imputación que haga el sujeto pasivo y cualquier otro elemento probatorio que la robustezca.
+
+Queda estrictamente prohibido tanto al Agente del Ministerio Público, como al Juez de la causa o cualquier otro servidor público, preguntar sobre la conducta sexual de la víctima o solicitar datos que no estén estricta y directamente relacionados con la averiguación previa o causa penal, según se trate.
+
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### ARTICULO 161.
@@ -1672,6 +1684,10 @@ III.- Que los individuos que acompañen a la persona que va a confrontarse sean 
 ###### ARTICULO 254.
 
 Si alguna de las partes solicita que se observen mayores precauciones que las prevenidas en el artículo anterior, quien practique las diligencias podrá acordarlas si las estima convenientes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 1995)</small>
+
+Tratándose de ofendidos por delitos contra la integridad de personas, la confrontación hecha por la víctima podrá, a petición de parte, realizarse conforme a lo establecido en el segundo párrafo del artículo 80 de este Código.
 
 ###### ARTICULO 255.
 
@@ -3269,7 +3285,7 @@ PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vi
 
 P.O. 1 DE MAYO DE 1991
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 1993
 
@@ -3286,3 +3302,13 @@ QUINTO.- Se crea la Dirección de Prevención y de Readaptación Social dependie
 P.O. 6 DE AGOSTO DE 1994
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 1995
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a los treinta días de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
