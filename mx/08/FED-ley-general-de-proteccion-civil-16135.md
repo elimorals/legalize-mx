@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-proteccion-civil-16135"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-05-12"
-last_updated: "2003-06-13"
+last_updated: "2004-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16135&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -412,21 +412,49 @@ La coordinación de acciones en materia de atención de desastres se apoyará en
 
 En los mismos términos del párrafo anterior, se suscribirán convenios con la finalidad de obtener recursos para acciones preventivas, y establecer las bases y compromisos de su adecuada utilización.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### Artículo 32.
 
-Esta Ley, el Presupuesto de Egresos de la Federación, así como las disposiciones administrativas en la materia regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos financieros tendiente a la prevención y atención de desastres.
+Esta Ley, el Presupuesto de Egresos de la Federación, así como las disposiciones administrativas en la materia regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos financieros tendientes a la prevención y atención de desastres, atendiendo al principio de inmediatez.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+Una vez presentada la solicitud de declaratoria de desastre natural, la autoridad tendrá un plazo de hasta doce días naturales para su publicación en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+El plazo para que gobiernos de las entidades federativas y del Distrito Federal tengan acceso a los recursos tendientes a la atención de desastres, será de hasta 30 días naturales, contados a partir del día en que se publique en el Diario Oficial de la Federación la declaratoria de desastre.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+En los casos en que los recursos presupuestales para la atención de desastres se hayan agotado, se harán las transferencias de partidas que correspondan para cubrir el evento objeto de la declaratoria relativa.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+La retención injustificada de dichos recursos por parte de los servidores públicos federales involucrados en el procedimiento de acceso será sancionada de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
 
 Los recursos financieros que se destinen para acciones preventivas a que hace referencia la fracción III del artículo 30 del presente ordenamiento, serán tomados en un 20 por ciento del remanente no ejercido del año anterior destinados a la atención de desastres.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
 Si el año del ejercicio respectivo no quedara remanente alguno, se podrá utilizar hasta un 20 por ciento de la cantidad que del fideicomiso correspondiente, a juicio de la instancia facultada para utilizarlo, se determine para acciones preventivas.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
 
 Los recursos para prevención a que alude este artículo, serán administrados en un fideicomiso preventivo a cargo de la Secretaría de Gobernación.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
 Para efectos de la autorización da recursos a entidades federativas, destinadas a la realización de acciones preventivas, la instancia facultada verificará el cumplimiento de los siguientes requisitos:
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+
 a) La notificación técnica, de la autoridad federal respectiva, que sustente la necesidad y urgencia de la acción o acciones a realizar; y
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
 
 b) Que las condiciones que originen la asignación de recursos, no se hayan incorporado a los programas y acciones de prevención, con cargo al presupuesto de las propias entidades federativas.
 
@@ -434,7 +462,9 @@ b) Que las condiciones que originen la asignación de recursos, no se hayan inco
 
 Ante la inminencia o alta probabilidad de que ocurra un desastre que ponga en riesgo la vida humana, y cuando la rapidez de la actuación del Sistema Nacional de Protección Civil sea esencial, la Secretaría de Gobernación podrá emitir una declaratoria de emergencia, la cual se divulgará a través de los medios masivos de comunicación.
 
-Una vez realizada la declaratoria de emergencia, la Secretaría de Gobernación podrá erogar con cargo al Fondo Revolvente asignado, los montos que considere necesarios para atenuar los efectos del posible desastre, así como para responder en forma inmediata a las necesidades urgentes generadas por un desastre.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+
+Una vez realizada la declaratoria de emergencia, la Secretaría de Gobernación deberá erogar, con cargo al Fondo Revolvente asignado, los montos que a juicio de dicha Secretaría se consideren suficientes para atenuar los efectos del posible desastre, así como para responder en forma inmediata a las necesidades urgentes generadas por el mismo.
 
 ###### Artículo 34.
 
@@ -448,11 +478,11 @@ I. Los gobiernos de las entidades federativas cuando la atención de los daños 
 
 II. Las dependencias o entidades federales.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### Artículo 36.
 
-Las disposiciones administrativas establecerán los procedimientos y demás requisitos para le emisión de las declaratorias de emergencia y de desastre así como del acceso a recursos para la realización de las acciones preventivas previstas en el presente Capítulo.
+Las disposiciones administrativas establecerán los procedimientos y demás requisitos para la emisión de las declaratorias de emergencia y de desastre, así como del acceso a recursos para la realización de las acciones preventivas previstas en el presente Capítulo, atendiendo al principio de inmediatez.
 
 ###### Artículo 37.
 
@@ -511,3 +541,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- El Ejecutivo Federal expedirá las Reglas Relativas al Fondo de Prevención de Desastres, en un plazo no mayor a 90 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+D.O.F. 15 DE JUNIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo Federal realizará las modificaciones correspondientes en las reglas de operación del Fondo de Desastres Naturales dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto.
