@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "1995-01-06"
+last_updated: "1996-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MARZO DE 1996.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -389,13 +389,21 @@ Los integrantes de los ayuntamientos de elección popular deberán cumplir con l
 
 Los ayuntamientos se renovarán cada tres años, iniciarán su período el primero de enero del año siguiente al de las elecciones municipales ordinarias y lo concluirán el treinta y uno de diciembre del año de las elecciones para su renovación; y se integrarán por:
 
-I.- Un presidente, un sindico y seis regidores de mayoría relativa y hasta dos de representación proporcional, cuando tengan una población de hasta ciento cincuenta mil habitantes.
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
 
-II.- Un presidente, un síndico y siete regidores de mayoría relativa y hasta tres de representación proporcional, cuando tengan una población de más de ciento cincuenta mil y hasta quinientos mil habitantes;
+I. Un presidente, un síndico y seis regidores, electos por planilla según el principio de mayoría relativa y hasta cuatro regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos de 150 mil habitantes;
 
-III.- Un presidente, dos síndicos y nueve regidores de mayoría relativa y hasta cuatro de representación proporcional, cuando tengan más de quinientos mil y hasta un millón de habitantes;
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
 
-IV.- Un presidente, dos síndicos y once regidores de mayoría relativa y hasta un síndico y cinco regidores de representación proporcional, cuando tengan más de un millón de habitantes.
+II. Un presidente, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa y hasta seis regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil y menos de 500 mil habitantes;
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+III. Un presidente, dos síndicos y nueve regidores, electos por planilla según el principio de mayoría relativa. Habrá un síndico y hasta siete regidores según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil y menos de un millón de habitantes; y
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
 
 ###### Artículo 17.
 
@@ -1975,7 +1983,7 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- Este Decreto entrará en vigor el día treinta de noviembre de mil novecientos noventa y cuatro.
 
-G.G. 6 DE ENERO DE 1995.
+G.G. 6 DE ENERO DE 1995
 
 ###### ARTICULO PRIMERO.
 
@@ -1984,3 +1992,13 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 2 DE MARZO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta del Gobierno.
