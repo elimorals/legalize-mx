@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1982-01-04"
+last_updated: "1982-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1982.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -3951,11 +3951,11 @@ Si compareciere después del término expresado o durante la segunda instancia, 
 
 El impedimento deberá acreditarse en incidente que se tramitará por cuerda separada y contra la resolución que en éste se pronuncie no procederá más recurso que el de responsabilidad.
 
-### CAPÍTULO III.
+### CAPITULO III.
 
-Juicio especial de modificación de actas del Estado Civil y del Registro Extemporaneo.
+De la Modificación y Convalidación de Actas de Estado Civil y del Registro Extemporáneo.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1982)</small>
 
 ###### Artículo 635.
 
@@ -4103,7 +4103,7 @@ La apelación sólo será admisible conforme a las reglas del derecho común.
 
 El juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O., 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 1982)</small>
 
 ### CAPITULO IV.
 
@@ -4111,7 +4111,7 @@ Divorcio por Mutuo Consentimiento.
 
 ###### Artículo 663.
 
-El juez competente para conocer de los juicios sobre nulificación, convalidación, reposición, rectificación de actas del Registro Civil y del Registro Extemporáneo, el de Primera Instancia de la comprensión en que pasó o debió haber pasado el acta, y se terminarán conforme las disposiciones de este Capítulo.
+Es Juez competente para conocer de los juicios sobre nulificación, convalidación, reposición y rectificación de actas del Registro Civil, el de Primera Instancia de la comprensión en que pasó o debió de haber pasado el acta, y se tramitarán conforme a las disposiciones de este Capítulo.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
@@ -4143,11 +4143,11 @@ La sentencia será apelable en ambos efectos, y en el caso del juicio la rectifi
 
 En los juicios de rectificación de acta se enviará al Oficial del Registro Civil y al Archivo Estatal del Registro Civil copia certificada de la sentencia ejecutoriada para que efectúe anotación de la misma en el acta ya sea que se conceda o niegue la rectificación.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1982)</small>
 
 ###### Artículo 668.
 
-En los juicios en que se conceda la inscripción de un registro extemporáneo, se enviará copia certificada de la sentencia ejecutoriada al Oficial del Registro Civil para que levante el acta respectiva.
+El registro de nacimiento efectuado después de los plazos establecidos por este Código se tramitarán ante las autoridades del Registro Civil, según el procedimiento establecido en el Reglamento respectivo.
 
 ### CAPITULO I.
 
@@ -6578,3 +6578,9 @@ P.O. 4 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 19 DE ABRIL DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
