@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1991-12-30"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -921,7 +921,7 @@ Los sujetos de este impuesto, que únicamente perciban ingresos exentos, tienen 
 
 I. Empadronarse dentro de los quince días siguientes a la fecha de iniciación de sus operaciones;
 
-II. Solicitar por escrito la confirmación de su exención ante la tesorería, la cual resolverá su procedencia si reúnen los requisitos correspondientes, y
+II. Solicitar por escrito la confirmación de su exención ante la Tesorería, la cual resolverá su procedencia si reúnen los requisitos correspondientes, y
 
 III. Declarar en el mes de enero de cada año, el importe de los ingresos que hayan percibido durante el año anterior, o en su caso, dentro de los quince días siguientes a la fecha de clausura, traspaso o cambio de giro.
 
@@ -1659,7 +1659,9 @@ Están exentas de este impuesto, las operaciones de compraventa sobre sementales
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
 
-### CAPITULO I. POR SERVICIOS PRESTADOS POR LA SECRETARIA DE URBANISMO Y OBRAS PUBLICAS
+### CAPITULO I. DEL CONCEPTO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 #### Sección Primera. Del Objeto
 
@@ -1707,7 +1709,9 @@ Las obligaciones a que se refiere el presente artículo, deberán cumplirse dent
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a las disposiciones del Código Fiscal del Estado.
 
-### CAPITULO II. POR SERVICIOS PRESTADOS POR LA DIRECCION DE TRANSPORTES
+### CAPITULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
@@ -1761,67 +1765,61 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad a lo p
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO III. POR SERVICIOS PRESENTADOS POR LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)
+### CAPITULO III. DE LOS RECARGOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 184.
 
-Se pagarán derechos al Estado por los servicios que proporcione esta Secretaría sobre:
+El Gobierno del Estado, percibirá derechos por los servicios que preste en el ejercicio de sus funciones de derecho público, los que se clasifican en:
 
-I. Expedición de certificados o certificaciones de documentos;
+I.- Derechos por servicios que se prestan periódicamente y
 
-II. Expedición de copias certificadas;
+II.- Derechos por servicios que se prestan eventualmente.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III. Dictámenes del uso de suelo; y
+### CAPITULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-IV. Las demás prestaciones que señale la Ley de Ingresos del Estado de Michoacán.
-
-V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1988)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-### CAPITULO IV. POR SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 185.
 
-Se pagarán derechos al Estado por los servicios que proporcione la Dirección de Comunicaciones y Transportes sobre:
+Para los efectos del artículo anterior, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular para vehículos de servicio particular y público siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+I.- Por expedición de placas de circulación, incluyendo tarjeta de circulación y calcomanía.
 
-I. Expedición de placas para circulación de vehículos de servicio público;
+II.- Por refrendo anual de calcomanía de circulación.
 
-II. Permisos para prestar el servicio público;
+IlI.- Por renovación anual de concesiones de servicio público y
 
-III. Permisos de sitio;
+IV.- Refrendo bianual de licencias de conducir.
 
-IV. Permisos para excursión en camionetas cerradas y omnibus;
+Los derechos por los servicios a que se refiere este artículo, se pagarán conforme a las cuotas que establezca la Ley de Ingresos del Estado, para el ejercicio fiscal de que se trate.
 
-V. Almacenaje de vehículos en los depósitos oficiales del Estado, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-VI. Renovación anual de tarjeta de circulación y calcomanía; y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-VII. La prestación de otros servicios que señale la Ley de Ingresos del Estado de Michoacán.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 186.
 
-Los derechos por los servicios a que se refiere este capítulo, serán cubiertos en las oficinas de Rentas correspondientes, previa orden de entero que expida la Dirección del ramo, en el plazo que para tal efecto ésta establezca.
+Los servicios a que se refieren las fracciones I y II del artículo anterior, se prestarán por la Tesorería General del Estado, en los siguientes plazos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+I.- La expedición original de placas de circulación para vehículos de servicio particular a que se refiere la fracción I, dentro de los quince días siguientes a la fecha de adquisición del vehículo.
+
+II.- El refrendo anual de calcomanía de circulación:
+
+A).- Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los primeros tres meses del año de calendario de que se trate.
+
+B).- Para vehículos cuyo modelo corresponda a más de diez años anteriores al de aplicación de la Ley de Ingresos del Estado, dentro del segundo trimestre del año de calendario de que se trate.
+
+En los años en que por disposición de la autoridad competente, se realice canje general de placas, el trámite se realizará en los mismos plazos a que se refieren los incisos A) y B) anteriores.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 187.
 
-En los casos de expedición de placas, renovación anual de tarjeta de circulación y calcomanía, y de permisos que se hagan fuera de los plazos establecidos, se cobrarán además la sanción y recargos correspondientes, de conformidad a lo dispuesto en el Código Fiscal del Estado de Michoacán.
+Los servicios de renovación anual de concesiones de servicio público a que se refiere la fracción III del artículo 185 de esta ley, se realizarán coordinadamente entre la Tesorería General del Estado y la autoridad competente, dentro de los mismos plazos a que se refieren los incisos A) y B) de la fracción lI del artículo anterior.
 
 ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)
 
@@ -1831,285 +1829,219 @@ La revalidación de concesiones deberá realizarse de acuerdo al calendario ofic
 
 El incumplimiento a lo estipulado en este artículo se sancionará conforme al Código Fiscal del Estado de Michoacán.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO V. POR SERVICIOS PRESTADOS POR LA DIRECCION DE TRABAJO Y PREVISION SOCIAL
+### CAPITULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 188.
 
-Los servicios prestados por esta Secretaría a través de la Dirección de Comunicaciones Eléctricas se causarán y pagarán de conformidad a lo dispuesto en la Ley de Ingresos del Estado.
+El refrendo bianual de licencias de conducir a que se refiere la fracción IV del artículo 185, se realizará por la autoridad competente dentro de los quince días siguientes a la fecha de su vencimiento.
 
-REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO VI. POR SERVICIOS PRESTADOS POR LA DIRECCION DE PROFESIONES
+### CAPITULO VI. DEL PAGO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 189.
 
-Los derechos que se causen por los diferentes servicios que proporcione la Dirección a que se refiere el artículo anterior y sus oficinas foráneas, serán pagados directamente ante éstas, quienes expedirán recibo oficial a los interesados en las formas autorizadas por la Tesorería General del Estado.
+Los derechos por los servicios periódicos que preste el gobierno del Estado, que no sean pagados dentro de los plazos a que se refieren los artículos 186, 187 y 188 de esta Ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
-Las citadas oficinas rendirán cuenta mensual de los ingresos obtenidos a la Tesorería o a sus oficinas de rentas, incluyendo a la misma copia de los recibos expedidos.
+Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Michoacán de Ocampo.
 
-### CAPITULO VII. POR SERVICIOS DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+### CAPITULO VII. DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 190.
 
-No causarán derechos:
+La Tesorería General del Estado, simultáneamente a la recaudación de los derechos comprendidos en el Capítulo II de este Título, excepto por los servicios a que se refiere la fracción IV del Artículo 185, llevará el registro y control de vehículos, para lo cual deberá establecer y mantener actualizado el "Registro Estatal Vehicular" para su integración a la "Red Nacional del Sistema de Información Integral Tributaria" mediante la realización de las siguientes funciones:
 
-I. En el caso del artículo 23 de la Ley de Amparo;
+I. Efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a las reglas generales que expida la Secretaría de Hacienda y Crédito Público.
 
-II. Cuando sea utilizado para asuntos oficiales por:
+II. Realizar actos de verificación y comprobación para mantener actualizado el registro del Estado, conforme a los lineamientos y normatividad correspondientes.
 
-a) Los titulares de los Poderes Legislativo, Ejecutivo y Judicial del Estado.
+III. Recibir y en su caso requerir los avisos, manifestaciones y demás documentos, que conforme a las diversas disposiciones legales aplicables, deban presentarse.
 
-b) Los titulares, Directores o Jefes de las distintas dependencias de los citados Poderes.
+IV. Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría.
 
-c) Los representantes populares del Estado al Congreso de la unión.
+V. Informar a la Secretaría de los movimientos efectuados en el "Registro Estatal Vehicular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca la Secretaría.
 
-III. En los demás casos que señalen otras leyes y acuerdos del Gobernador.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO VIII. POR SERVICIOS PRESTADOS POR LAS OFICINAS DEL REGISTRO CIVIL
 
 ###### ARTICULO 191.
 
-Se pagarán derechos al Estado por los servicios proporcionados por la Dirección de Seguridad Pública, en relación con la circulación y conducción de vehículos por:
+Para los efectos del artículo 184 de esta Ley, se consideran servicios eventuales, los demás servicios que preste el Gobierno del Estado, que no queden comprendidos en el Artículo 185, conforme a los conceptos, tarifas y tasas que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-I. Expedición de placas para circulación de vehículos de servicio particular, durante los 15 días siguientes a la fecha de adquisición del vehículo;
-
-II. Permisos de circulación;
-
-III. Licencias para conducir;
-
-IV. Almacenaje de vehículos en los depósitos oficiales del Estado, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-V. Renovación anual de tarjeta de circulación y calcomanía, durante el período comprendido de febrero a abril de cada año, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-VI. La prestación de otros servicios que señale la Ley de Ingresos del Estado de Michoacán.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO IX. POR SERVICIOS PRESTADOS POR LOS CENTROS DE SALUD PUBLICA
 
 ###### ARTICULO 192.
 
-Los derechos por los servicios a que se refiere este capítulo, serán cubiertos en las oficinas de Rentas correspondientes.
+El pago de los derechos a que se refiere este título, se efectuará en las Oficinas de la Tesorería General del Estado, conforme a los requisitos y procedimientos que ésta establezca, previamente a la prestación de los servicios de que se trate, debiéndose expedir los recibos oficiales correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+Por lo que se refiere a los servicios de Catastro por concepto de: mediciones y deslindes, determinación de la ubicación física de predios y sobre información de interés particular referente a predios registrados, se pagará el 50% de los derechos que se causen conforme a la Ley de Ingresos del Estado, para el ejercicio de que se trate, en la fecha en que se solicite en servicio y, el 50% restante, en la fecha en que se entregue el documento catastral que corresponda.
+
+Por lo que se refiere a los servicios de Catastro por concepto de registro de predios ignorados y registro de excedencias de superficie, los derechos se pagarán en la fecha en que se inscriba la resolución relativa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO X. POR SERVICIOS PRESTADOS POR LA DIRECCION DE CATASTRO
 
 ###### ARTICULO 193.
 
-En los casos de expedición de placas, renovación anual de tarjeta de circulación y calcomanía, y de licencias para conducir, fuera de los plazos establecidos, se cobrará además la sanción y recargos correspondientes, conforme a lo dispuesto en el Código Fiscal del Estado.
+No se pagarán derechos por los servicios que se presten a dependencias del Gobierno del Estado y a sus organismos descentralizados.
+
+Tampoco se pagarán derechos por los servicios que a continuación se señalan:
+
+1. Por recepción y transmisión de mensajes por servicios de comunicaciones eléctricas del Estado, en los términos de Artículo 23 de la Ley de amparo.
+
+2. Por los servicios del Registro Civil siguientes:
+
+a) Registro de nacimiento de menores de un año, cuando se hagan en las propias oficinas.
+
+b) Por reconocimiento de hijos ante el juez del registro civil, después de registrado el nacimiento.
+
+c) Por inscripción de actas de defunción.
+
+d) Por expedición de certificados, copias certificadas o constancias de reconocimiento de hijos ante el juez del registro civil y de defunción.
+
+e) Por autorización de actas de matrimonio celebrados en forma colectiva y
+
+f) Registro de nacimiento y reconocimiento de hijos con motivo de la celebración de matrimonios en forma colectiva.
+
+3. La expedición de copias certificadas, certificados o certificaciones a solicitud de:
+
+a) Los núcleos de población, para asuntos ejidales o comunales.
+
+b) Los alumnos, respecto de estudios de cualquier grado.
+
+c) Los trabajadores de alguna entidad pública, para acreditar sus servicios o su buena conducta.
+
+d) Los servidores públicos fiscales del Gobierno del Estado, para acreditar la solvencia de sus fiadores.
+
+e) Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan y
+
+f) Los obreros, para asuntos laborales.
 
 ###### ARTICULO 194.
 
-Los Gobiernos Federal y Municipales, los organismos descentralizados de dichas entidades y los del Estado, pagarán solamente el valor de las placas por derechos para autorizar la circulación de los vehículos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 195.
 
-Se pagarán derechos al Estado por los Servicios que proporcione esta Dirección sobre:
-
-I. Inspección de calderas, calentadores y aparatos a presión o vacío;
-
-II. Inspección de instalaciones de equipo de energía mecánica o eléctrica, y
-
-III. Los demás que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 196.
 
-La prestación de los servicios anteriores, se causarán y pagarán de conformidad con lo dispuesto en la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 197.
 
-Las autoridades del Trabajo y Previsión Social practicarán anualmente, cuando menos una visita de inspección a los establecimientos en que se encuentren instalados los equipos a que se refieren el artículo 195 de esa ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 198.
 
-Las infracciones al presente capítulo se sancionarán de acuerdo con lo dispuesto por el Código Fiscal del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 199.
 
-Se pagarán derechos al Estado por los servicios que realice esta dependencia sobre:
-
-I. Registro de colegios de profesionales;
-
-II. Registro de escuelas, academias e institutos;
-
-III. Autorizaciones especiales;
-
-IV. Inspecciones;
-
-V. Expedición de Cédulas, y
-
-VI. La prestación de otros servicios que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 200.
 
-Los interesados cubrirán en las oficinas de rentas correspondientes en forma anticipada, los derechos que causen los servicios que demanden de la Dirección de Profesiones y Servicios Sociales del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 201.
 
-Se pagarán derechos al Estado por los servicios que proporcione el Registro Público de la Propiedad y del Comercio sobre:
-
-I. Actos de registro de la propiedad:
-
-a) Expedición de certificados o certificaciones;
-
-b) Inscripciones;
-
-c) Cancelaciones;
-
-II. Actos del Registro de Comercio:
-
-a) Inscripciones;
-
-b) Cancelaciones.
-
-III. Por otros actos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 202.
 
-Por certificados, registros o inscripciones y demás servicios que se soliciten por las autoridades fiscales del Estado, con motivo de la aplicación del procedimiento administrativo de ejecución, causarán los derechos de conformidad con la Ley de Ingresos, pero se harán efectivos, dentro del mismo procedimiento que los originó, como parte del crédito fiscal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 203.
 
-Cuando un documento público o privado deba inscribirse por disposición de la ley o por voluntad de los interesados en dos o más secciones de Registro Público de la Propiedad y del Comercio o en ambos, pagarán la cuota correspondiente a cada sección conforme a las tarifas señaladas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 204.
 
-Los derechos que se causen por los diferentes servicios que proporcione el Registro Público de la Propiedad y del Comercio, deberán ser pagados siempre por adelantado en las oficinas de rentas correspondientes, debiéndose expedir la orden de entero por la dependencia del ramo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO XI. POR LA PRESENTACION DE SERVICIOS OFICIALES DIVERSOS
 
 ###### ARTICULO 205.
 
-Se pagarán derechos al Estado por los servicios que proporcione el Registro Civil por:
-
-I. Registro de nacimientos;
-
-II. Reconocimiento de hijos ante el Juez del Registro Civil, después del registrado el nacimiento;
-
-III. Divorcio tramitado ante el Juez del Registro Civil;
-
-IV. Servicios y autorización de actas matrimoniales;
-
-V. Inscripciones;
-
-VI. Busqueda de actas, si el interesado no precisa la fecha;
-
-VII. Expedición de certificados o copias certificadas, y
-
-VIII. La prestación de otros servicios que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 206.
 
-Los derechos que se causen por los diferentes servicios que proporcione el Registro Civil, deberán ser pagados por adelantado en las oficinas de rentas correspondientes, previa orden de entero.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 207.
 
-No causarán derechos:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
-I. La prestación de los servicios del Registro Civil por la realización y autorización de actos de matrimonio celebrados en forma colectiva, y
-
-II. La prestación de los servicios del Registro Civil, por la autorización y registro de nacimientos y reconocimientos de hijos, realizados con motivo de la celebración de matrimonios colectivos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO XII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 208.
 
-Se pagarán derechos al Estado por los servicios sanitarios que se presten por los servicios coordinados de salud pública sobre:
-
-I. Licencias sanitarias para giros o establecimientos comerciales, industriales y de servicios;
-
-II. Exámenes médico sanitarios personales con expedición de certificado de salud o incapacidad;
-
-III. Expedición de tarjetas de salud;
-
-IV. Servicios de desinfectación, y
-
-V. La prestación de otros servicios que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 209.
 
-Los derechos que se originen por la prestación de servicios sanitarios, serán pagados previamente a la obtención de los mismos en los centros de salud y hospitales dependientes de los servicios coordinados de salud pública en los cuales se hayan impartido, quienes expedirán recibo oficial a los interesados en las formas autorizadas por la Tesorería General del Estado. El importe de estos derechos será aplicado por los servicios coordinados al sostenimiento de los centros de salud y hospitales, como parte del subsidio que le otorga el Gobierno del Estado. Los Servicios Coordinados de salud pública, rendirán cuenta mensual de los ingresos obtenidos por este concepto a la Tesorería, incluyendo a la misma, copia de los recibos obtenidos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 210.
 
-Se pagarán derechos al Estado por los servicios que presta la Dirección de Catastro por concepto de:
-
-I. Expedición de certificados o copias certificadas de documentos;
-
-II. Reducción de planos;
-
-III. Mediciones y deslindes, y
-
-IV. Los demás que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 211.
 
-Los derechos que se causen por los servicios previstos en el artículo anterior, deberán ser pagados en la caja de la Tesorería General del Estado, en forma anticipada a la obtención del servicio, previa orden de entero.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 212.
 
-Se pagarán derechos al Estado por los servicios proporcionados por los poderes Ejecutivo y Judicial de:
-
-I. Legalización de firmas y certificados, reposición de cédulas de empadronamiento y vigilancia de giros declarados total o parcialmente exentos de impuestos por disposiciones legales estatales;
-
-II. La expedición de credenciales por parte del Gobierno del Estado para identificar a los ganaderos pertenecientes a las asociaciones locales;
-
-III. La expedición de certificados o copias certificadas de los documentos que tengan bajo su custodia, y
-
-IV. La prestación de otros servicios que señale la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 213.
 
-Los derechos por los servicios previstos en el artículo anterior, serán pagados en las oficinas de rentas respectivas. El pago se hará en forma anticipada a la obtención del servicio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 214.
 
-Las liquidaciones de los derechos serán formuladas por la oficina a quien corresponda prestar el servicio, con sujeción a las cuotas y tasas que fije la Ley de Ingresos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 215.
 
-El pago de los derechos deberán hacerse antes de la prestación del servicio solicitado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ###### ARTICULO 216.
 
-No causan derechos:
-
-I. La prestación de servicios a favor de alguna entidad pública;
-
-II. La expedición de copias certificadas, certificados o certificaciones, a solicitud de:
-
-a) Los núcleos de población, para asuntos ejidales o comunales;
-
-b) Los alumnos, respecto de estudios de cualquier grado;
-
-c) Los trabajadores de alguna entidad pública, para acreditar sus servicios o su buena conducta;
-
-d) Los empleados fiscales de cualquier entidad pública, para acreditar la solvencia de sus fiadores;
-
-e) Las personas para acreditar la clausura de algún establecimiento mercantil o industrial de su propiedad;
-
-f) Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan;
-
-g) Los interesados en asuntos electorales;
-
-h) Los obreros para asuntos laborales.
-
-III. Los demás casos que señalen otras leyes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 ## TITULO CUARTO. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -2258,3 +2190,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE DICIEMBRE DE 1991.
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir del 1o. de Enero de 1993, previa publicación en el Periódico Oficial del Estado.
