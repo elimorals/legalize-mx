@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "1995-11-16"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -59,9 +59,13 @@ I.- Ser delincuente primario, es decir, no tener antecedentes penales ni de fuer
 
 II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en los términos del Artículo Cuarto de esta Ley;
 
-III.- Haber sido procesado por el delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable dictada antes del día treinta y uno de diciembre de mil novecientos noventa y siete; y
+III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IV.- Haber sido condenado por ese mismo delito, por sentencia irrevocable dictada antes del día treinta de junio de mil novecientos noventa y ocho;
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -88,6 +92,8 @@ A).- El Indulto por Gracia a aquellas personas que hubieran llevado a cabo algú
 B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a leer y escribir a cualquier persona iletrada, caso en el cual la pena le será reducida hasta seis meses.
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 19 DE DICIEMBRE DE 1996, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO.</small>
 
 ###### ARTICULO CUARTO.
 
@@ -134,3 +140,11 @@ DADO EN EL PALACIO DEL PODER LEGISLATIVO, en Victoria de Durango, Dgo., a los ca
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC ALFREDO BRACHO BARBOSA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+PRIMERO. - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que se cumplan los supuestos de la suspensión de la vigencia de que trata el presente Decreto, las disposiciones correspondientes recobrarán su pleno vigor en forma automática, sin que para ello se requiera declaración alguna del Congreso del Estado.
