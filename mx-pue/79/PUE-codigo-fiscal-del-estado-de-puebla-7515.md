@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1994-08-02"
+last_updated: "1995-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -173,13 +173,29 @@ V.- El Director de Ingresos.
 
 VI.- El Director de Fiscalización.
 
-VII.- El Director Central de Ejecución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VIII.- Los Jefes de las Oficinas Recaudadoras del Estado.
+VII.- El Subdirector Técnico de Ingresos.
 
-IX.- El Director del Instituto de Catastro.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-X.- El Secretario Técnico del Instituto de Catastro.
+VIII.- El Subdirector de Recaudación.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+IX.- El Subdirector de Fiscalización.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+X.- Los Jefes de las Oficinas Recaudadoras del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XI.- El Director del Instituto de Catastro del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XII.- El Secretario Técnico del Instituto de Catastro del Estado.
 
 Los demás servidores públicos a los que las Leyes y Convenios confieren facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
 
@@ -205,17 +221,21 @@ Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se af
 
 En los términos fijados en días, por disposición de la Ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así, aquellos en que se encuentren abiertas al público las oficinas, durante el horario de las 8:00 a las 13:30 horas. En los términos fijados en períodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero, el 5 de febrero; el 21 de marzo; el 1o y el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o y el 20 de noviembre; el 1o de Diciembre de cada 6 años cuando corresponda a la trasmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1 de enero, el 5 de febrero; el 21 de marzo; el 1 y el 5 de mayo; el 1 y el 16 de septiembre; el 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre y los que señale el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales, excepto cuando se trate de plazos para presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Las Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar constribuciones (sic) en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en día y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular.
+En los plazos establecidos por períodos y aquéllos en que señale una fecha determinada para su extinción se computarán todos los días. Cuando los plazos se fijen por mes o por año sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes del calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inicio. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario. No obstante lo anterior, si el último día del plazo o en la fecha determinada las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+La Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular o elaborar el acta de inicio de la visita domiciliaria.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -291,9 +311,33 @@ XI.- La persona o personas, cualquiera que sea el nombre con el que se les desig
 
 XII.- Los socios o accionistas, respecto de las contribuciones que se hubieren causado, cuando tenían tal calidad sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XIII.- Las demás personas que señalen las leyes fiscales.
+XIII.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XIV.- Los representantes sea cual fuere el nombre con el que se les designe de personas no residentes en el País, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XV.- Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de su representado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XVI.- Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capital transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor de capital de cada una de ellas al momento de la escisión.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XVII.- Las personas físicas y morales residentes en el Estado o los residentes en otros Estados o en el extranjero que tengan un establecimiento en el Estado, por las contribuciones que hubieren causado.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XVIII.- Los propietarios o poseedores de bienes muebles e inmuebles por el importe de los créditos fiscales a cargo del propietario o poseedor anteriores.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+XIX.- Las demás personas que señalen las leyes fiscales.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -345,6 +389,22 @@ III.- Si se trata de Sucursales o Agencias establecidas en territorio del Estado
 
 IV.- Tratándose de personas físicas y morales residentes fuera del territorio del Estado y que realicen actividades gravadas en el mismo; el de su representante y a falta de éste, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+V.- Tratándose de personas físicas y morales sujetas al pago de contribuciones a la propiedad inmobiliaria y solo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que dé origen a la obligación fiscal.
+
+Las Autoridades Fiscales podrán practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquéllos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción V del artículo 26 de este Código.
+
+Se considera que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código.
+
+El aviso de cambio de domicilio fiscal deberá presentarse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda.
+
+Cuando el nuevo domicilio fiscal del contribuyente, se encuentre en la misma circunscripción territorial de la Oficina Recaudadora ante la que ha venido presentando declaraciones, el aviso de cambio de domicilio lo presentará ante ella.
+
+Cuando se encuentre fuera de la circunscripción territorial de la Oficina Recaudadora ante la que venía presentando declaraciones, el aviso de cambio de domicilio se presentará ante la Oficina Recaudadora que corresponda a su nuevo domicilio.
+
+En caso de cambio de nomenclatura o numeración oficial, la Autoridad Fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 22-A.
@@ -395,9 +455,11 @@ III.- Pagar las contribuciones que les correspondan en los términos que dispong
 
 IV.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-V.- Conservar la documentación comprobatoria de las operaciones gravadas por las leyes fiscales del Estado, durante un plazo de cinco años contados a partir del día en que debió prestarse (sic) la declaración correspondiente.
+V.- Conservar la documentación comprobatoria de las operaciones gravadas por las leyes fiscales del Estado, en el domicilio fiscal, durante un plazo de cinco años contados a partir del día en que se presentó o debió presentarse la declaración correspondiente.
+
+En caso de cancelación del registro estatal o suspensión de actividades, al presentarse el aviso correspondiente ante las Autoridades Fiscales, deberá señalarse el domicilio en donde se conservará la documentación a que se refiere el primer párrafo de esta fracción.
 
 VI.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
 
@@ -412,6 +474,10 @@ Los sujetos obligados a presentar declaraciones podrán presentar declaraciones 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
 La modificación de las declaraciones a que se refiere el párrafo anterior, se efectuará en el formato aprobado por las Autoridades Fiscales, además de acompañar copia fotostática de la declaración normal presentada. Lo dispuesto en este artículo no limita las facultades de comprobación de las Autoridades Fiscales. Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, la diferencia a enterar causará recargos, los que se computarán en los términos del artículo 35 de este Código, a partir de la fecha en que debió hacerse el pago.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+En el caso de fusión, la sociedad que subsista o que se constituya cumplirá con las obligaciones fiscales de las que desaparezcan. Tratándose de escisión de sociedades en la que la sociedad escidente desaparezca, las obligaciones fiscales de la escidente las cumplirá la sociedad escindida.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
@@ -449,7 +515,7 @@ V.- Señalar domicilio para oír y recibir notificaciones y el nombre de la pers
 
 VI.- Acreditar la representación del promovente cuando gestione a nombre de otro.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, las Autoridades Fiscales requerirán al promovente para que en un plazo de 15 días cumplan con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
@@ -503,6 +569,10 @@ III. Si se trata de obligaciones derivadas de contratos o concesiones que no se�
 
 IV. Cuando el crédito se determine mediante convenio, en el término que éste señale.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+V.- Tratándose de actos de fiscalización dentro de los 45 días siguientes a la fecha en que surta efecto la notificación de la liquidación correspondiente.
+
 ###### ARTICULO 32.
 
 La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las disposiciones respectivas, determinan que el crédito sea exigible.
@@ -531,17 +601,41 @@ El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá
 
 El pago de las contribuciones y sus accesorios se pagarán en las oficinas recaudadoras del domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 35.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco del Estado por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 100 % mayor a la tasa que mediante ley fije anualmente el Congreso de la Unión.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar el 50 % a la que mediante Ley fije anualmente el Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
+Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo segundo del artículo 33 de este Código, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día siguiente en que debió hacerse el pago y hasta que el mismo se efectúe.
+En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se paguen dentro del plazo legal.
+
+Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+
+Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que en el mismo se efectúe.
 
 Cuando el contribuyente pague en forma espontánea los créditos omitidos y los recargos, dichos recargos no excederán de los causados durante un año.
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 1996)</small>
+
+Cuando el contribuyente deba pagar recargos o las Autoridades Fiscales intereses, la tasa aplicable en un mismo período mensual o fracción de éste, será siempre la que esté en vigor al primer día del mes o fracción de que se trate, independientemente de que dentro de dicho período las tasas de recargos o de interés varíen.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 35 A.- El monto de las contribuciones omitidas y las multas que participen de su naturaleza jurídica o de las devoluciones a cargo de las Autoridades Fiscales que no se realicen en término, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
+
+Para tales efectos la Autoridad Fiscal tomará en consideración el Indice Nacional de Precios al Consumidor como base del factor de actualización que será aplicado, índice que es calculado y publicado por el Banco de México en los términos de la Legislación Federal correspondiente.
+
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+Para efectos de aplicación, el factor de actualización deberá calcularse hasta el diezmilésimo.
+
+En las contribuciones, la actualización se calculará de conformidad con lo dispuesto en este artículo sobre el total excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere el segundo párrafo del artículo 33 de este Código.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -571,6 +665,14 @@ I.- El contribuyente deberá solicitar la devolución por escrito ante la autori
 
 II.- El contribuyente deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del artículo 39 de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuatro meses siguientes a la fecha en que se presentó la solicitud debidamente requisitada ante la autoridad fiscal competente. Si la devolución no se hubiera efectuado en el plazo de cuatro meses, las Autoridades Fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 35 de este Código. En ningún caso los intereses a cargo del fisco estatal excederán de los que se causen en 5 años.
+
 ###### ARTICULO 38.
 
 Para que se haga la devolución de cantidades pagadas indebidamente, será necesario:
@@ -578,6 +680,10 @@ Para que se haga la devolución de cantidades pagadas indebidamente, será neces
 I. Que se dicte el acuerdo por la Autoridad Fiscal.
 
 II. Que el derecho para reclamar la devolución no se haya extinguido.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Si la devolución se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 35 de este Código, sobre las cantidades actualizadas tanto por las devueltas indebidamente, como por las de los posibles intereses pagados por las Autoridades Fiscales, a partir de la fecha de devolución.
 
 ###### ARTICULO 39.
 
@@ -627,23 +733,9 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 V.- Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VI.- Autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, bajo los siguientes requisitos:
-
-a) Solicitud por escrito.
-
-b) Que se garantice el interés fiscal mediante fianza.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
-
-c) acompañar a la solicitud, los documentos que requiera la Autoridad Fiscal.
-
-Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo los accesorios, a la tasa que mediante Ley fije anualmente el Congreso de la Unión, tomando en consideración el costo porcentual promedio de captación de recursos del sistema bancario, proporcionado por el Banco de México.
-
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
-
-Cesará la autorización para pagar a plazo en forma diferida o en parcialidades cuando desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente, cuando el contribuyente sea declarado en quiebra o solicite su liquidación judicial y en el caso de que deje de cubrir tres parcialidades consecutivas con sus recargos.
+VI.- Autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, conforme a lo dispuesto en el artículo 41-B de este Código.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -661,7 +753,9 @@ e).- Allegarse las pruebas necesarias para formular la denuncia, querella o decl
 
 Las autoridades fiscales podrán ejercitar estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-VIII.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+VIII.- Determinar mediante resolución, la responsabilidad solidaria.
 
 IX.- (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
 
@@ -695,13 +789,13 @@ XVIII.- Conceder subsidios o estímulos fiscales.
 
 Las resoluciones favorables a particulares que emitan las Autoridades Fiscales en uso de las facultades que se señalan en las fracciones II y XVII de este artículo, surtirán sus efectos, en el ejercicio en el que se hubieren dictado.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 41 Bis.
+ARTICULO 41 A.- Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no la hagan dentro de los plazos señalados en las disposiciones fiscales, las Autoridades Fiscales exigirán la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos, no la hagan dentro de los plazos señalados en las disposiciones fiscales, las Autoridades Fiscales exigirán la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la Autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional, definitiva o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad fiscal, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
@@ -714,6 +808,28 @@ Si la declaración se presenta después de haberse efectuado el pago provisional
 II.- Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de 6 días. Si no se atiende el requerimiento se impondrá la multa correspondiente. La Autoridad en ningún caso formulará más de un requerimiento por una misma omisión.
 
 III.- Embargar precautoriamente, los bienes o la negociación, en términos de los párrafos segundo y tercero del artículo 86 de este Código, cuando el contribuyente haya omitido presentar declaraciones en el último ejercicio o cuando no atienda tres requerimientos de la Autoridad en los términos de la fracción segunda de este artículo por una misma omisión, salvo tratándose de declaraciones en que bastará con no atender un requerimiento.
+
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 6 DE FEBRERO DE 1996)
+
+ARTICULO 41 B.- Las Autoridades Fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que se debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo accesorios, actualizado, a la tasa que mediante ley fije anualmente el Congreso de la Unión. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
+
+La Autoridades Fiscales al autorizar el pago a plazos exigirán que se garantice el interés fiscal mediante fianza.
+
+Cesará la autorización para pagar a plazos en forma diferida o en parcialidades cuando:
+
+I.- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+
+II.- El contribuyente sea declarado en quiebra, o solicite su liquidación judicial.
+
+III.- El contribuyente no pague tres parcialidades sucesivas, con sus recargos.
+
+Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado, el contribuyente estará obligado a pagar recargos al fisco estatal por falta de pago oportuno, conforme a lo establecido por el artículo 35 de este Código, calculados sobre la cantidad no pagada actualizada, debiendo cubrir además los recargos que se causen conforme a la autorización concedida sobre el saldo actualizado cuyo monto no incluirá el importe de la parcialidad que causó los recargos conforme al artículo 35 de este Código.
+
+No se procederá la autorización a que se refiere este artículo, tratándose de contribuciones que debieron pagarse en los tres meses anteriores al mes en que se solicite la autorización.
+
+Para los efectos de la autorización de pago a plazos a que se refiere la fracción VI del artículo 41 de este Código, la solicitud deberá presentarse ante la autoridad fiscal correspondiente, acompañando a dicha solicitud la documentación que se requiera.
+
+Cuando el contribuyente solicite autorización en los términos de este artículo, en tanto se resuelva su solicitud deberá pagar mensualmente parcialidades actualizadas a doceavas partes, considerando inclusive los recargos causados conforme a la tasa prevista en el artículo 35 de este Código hasta la fecha en que se resuelva la solicitud respectiva, cuando dicha solicitud sea para cubrir parcialidades menores a doce meses, los pagos que deberá hacer mensualmente el contribuyente se efectuarán en proporción a lo solicitado. A más tardar el día hábil siguiente a la fecha en que se presente la solicitud respectiva, deberá efectuarse el pago de la primera parcialidad. Cuando el contribuyente deje de pagar o pague fuera de plazo cualquiera de las parcialidades a que se refiere el párrafo anterior, se considerará por ese solo hecho que ha desistido de su solicitud, debiendo cubrirse el saldo insoluto con recargos, a partir de la fecha en que debió hacerse el pago, los que se causarán a la tasa prevista en el artículo 35 de este Código.
 
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
@@ -847,7 +963,9 @@ I.- Que la información contenida en libros, registros, sistemas de contabilidad
 
 II.- Que la información a que se refiere la fracción anterior localizada en poder de personas a su servicio, o de accionistas o propietarios de la empresa corresponde a operaciones del contribuyente.
 
-III.- Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son ingresos que forman parte de la base gravable.
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 6 DE FEBRERO DE 1996)
+
+III.- Que los depósitos y retiros de la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son cantidades que forman parte de la base gravable.
 
 IV.- Que son ingresos que forman parte de la base gravable del contribuyente los depósitos hechos en cuentas de cheques de terceros cuando éstos efectúan pasos a cuenta del contribuyente y este último no los registre en su contabilidad.
 
@@ -965,35 +1083,53 @@ Corresponde a las Autoridades Fiscales declarar que se ha cometido una infracci�
 
 La aplicación de las sanciones administrativas se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+El monto de las sanciones que este capítulo establece, se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 35-A de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, se ajustarán de conformidad con el último párrafo del artículo 36 de este Código.
+
 ###### ARTICULO 57.
 
 Para la aplicación de las sanciones a las infracciones señaladas por las Leyes Fiscales del Estado, se observarán las reglas siguientes:
 
 I. Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales, sólo se aplicará la que corresponda a la infracción mayor.
 
-II. En el caso de infracciones continuas y de que no sea posible determinar el monto de la prestación evitada, se impondrá una multa hasta del triple del máximo de la sanción que corresponda.
+II. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-III.- Cuando las infracciones consistan en hechos, o falta de requisitos en documentos y siempre que no traigan o puedan traer como consecuencia la evasión de la contribución, se considerará el conjunto como una infracción y se impondrá una multa que no excederá del limite que fija la Ley Fiscal aplicable, para sancionar cada hecho, omisión o falta de requisito.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-IV. Cuando no se haya tenido como consecuencia la evasión de la contribución, se impondrá el mínimo de la sanción que corresponda.
+III. Cuando las infracciones consistan en hechos, o falta de requisitos en documentos y siempre que no traigan o puedan traer como consecuencia la evasión de la contribución, se considerará el conjunto como una infracción y se impondrá una multa que no excederá del máximo que fija la Ley Fiscal aplicable, para sancionar cada hecho, omisión o falta de requisito.
+
+IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 V. Cuando se omita el pago de una contribución cuya determinación corresponda a los servidores públicos o fedatarios, los accesorios serán a cargo exclusivamente de ellos, los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los mismos.
 
 VI. Las Autoridades Fiscales no impondrán sanciones cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito.
 
-Se considerará que el cumplimiento no es espontáneo, en el caso de que la omisión sea descubierta por las Autoridades Fiscales o haya mediado requerimiento o gestión notificada por las mismas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1990)</small>
+Se considerará que el cumplimiento no es espontáneo, en el caso de que:
 
-VII.- En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se imponga la sanción, la multa se reducirá en un 20 % de su monto, sin necesidad de que la Autoridad que la impuso dicte nueva resolución.
+a) La omisión sea descubierta por las Autoridades Fiscales.
+
+b) La omisión haya sido corregida por el contribuyente después de que las Autoridades Fiscales hubieren notificado una orden de visita domiciliaria o de verificación, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
+
+VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 58.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos:
+Son infracciones cuya responsabilidad recae sobre los sujetos y responsables solidarios.
 
 I.- No solicitar la inscripción en los Registros de contribuyentes que le correspondan cuando se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea.
 
-II.- No presentar los avisos a los Registros de contribuyentes correspondientes o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.- No presentar los avisos a los Registros Fiscales correspondientes o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
 
 III.- Obtener más de un registro de contribuyente, citarlo incorrectamente u omitirlo en el cumplimiento de las obligaciones a su cargo.
 
@@ -1005,7 +1141,9 @@ VI.- Presentar incorrectamente los avisos, declaraciones, manifiestos y cualquie
 
 VII.- Presentar en forma alterada o falsificada los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado.
 
-VIII.- Falsear el domicilio fiscal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+VIII.- Falsear datos e información a las autoridades fiscales.
 
 IX.- No conservar la documentación comprobatoria de sus operaciones gravadas por las Leyes Fiscales del Estado.
 
@@ -1017,11 +1155,11 @@ XII.- Resistirse por cualquier medio al ejercicio de las facultades de la Autori
 
 XIII.- Obstaculizar por cualquier medio el ejercicio de las facultades de la Autoridad Fiscal.
 
-XIV.- Resistirse u obstaculizar el ejercicio de las facultades de la Autoridad Fiscal en materia de verificación y fiscalización.
+XIV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XV.- Quien teniendo fé pública autorice actos relacionados con fuentes de ingresos gravados por las Leyes Fiscales del Estado, sin cerciorarse previamente de que se esté al corriente en el cumplimiento de las obligaciones fiscales, o sin dar los avisos que prevengan las Leyes de la materia
 
-XVI.- No pagar las contribuciones dentro del plazo establecidos por las Leyes Fiscales del Estado, salvo cuando éstas se realicen en forma espontánea.
+XVI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 XVII.- No liquidar, retener o enterar correctamente, las contribuciones en términos de lo que dispone este Código y las Leyes Fiscales del Estado, en tratándose de Fedatarios Públicos.
 
@@ -1035,45 +1173,63 @@ XIX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carg
 
 XX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento para ser utilizado en un vehículo de procedencia extranjera que sea distinta a aquel que haya sido manifestado ante las autoridades fiscales.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 58 A.- Es infracción cuya responsabilidad recae en los sujetos y responsables solidarios no pagar total o parcialmente las contribuciones, incluyendo las retenidas o recaudadas, dentro de los plazos establecidos por las leyes fiscales del Estado, salvo cuando éstas se realicen en forma espontánea.
+
 ### CAPITULO II. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 59.
 
-La autoridad fiscal impondrá las sanciones por infracción a las disposiciones señaladas en el artículo 58 de este Código como sigue:
+La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones señaladas en este Código como sigue:
 
-I.- Una vez el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción VI.
+A.- Por las infracciones señaladas en el artículo 58:
 
-II.- Tres veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción II.
+I.- De $ 10.00 a quien cometa la comprendida en la fracción VI.
 
-III.- Cuatro veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción III.
+II.- De $ 51.00 a quien cometa la comprendida en la fracción II.
 
-IV.- Cinco veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción V.
+III.- De $ 68.00 a quien cometa la comprendida en la fracción III.
 
-V.- Seis veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción XV.
+IV.- De $ 85.00 a quien cometa la comprendida en la fracción V.
 
-VI.- Ocho veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XVI y XVIII.
+V.- De $ 102.00 a quien cometa la comprendida en la fracción XV.
 
-VII.- De diez veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones IX y XI.
+VI.- De $ 136.00 a quien cometa la comprendida en la fracción XVIII.
 
-VIII.- Quince veces el salario mínimo diario vigente en el Estado, a quien cometa la comprendida en la fracción X.
+VII.- De $ 170.00 a quien cometa las comprendidas en las fracciones IX y XI.
 
-IX.- Dieciséis veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones IV y VII.
+VIII.- De $ 255.00 a quien cometa la comprendida en la fracción X.
 
-X.- Dieciocho veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones I, VIII, XII y XIII.
+IX.- De $ 272.00 a quien cometa las comprendidas en las fracciones IV y VII.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+X.- De $ 306.00 a quien cometa las comprendidas en la fracciones I, VIII, XII y XIII.
 
-XI.- Veinte veces el salario mínimo diario vigente en el Estado, a quien cometa las comprendidas en las fracciones XIV y XVII.
+XI.- De $ 340.00 a quien cometa las comprendida (sic) en la fracción XVII.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1993)</small>
+XII.- De $ 849.00 a quien cometa las comprendidas en la fracciones XIX y XX.
 
-XII.- Cincuenta veces el salario mínimo diario vigente en el Estado a quien cometa las comprendidas en las fracciones XIX y XX.
+B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
+I.- El 50 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final.
 
-Para la determinación de las sanciones señaladas en este artículo, cuando pueda precisarse el momento en que se cometió la infracción, se aplicará el salario mínimo vigente en el momento en que ésta se realizó. En caso contrario será aplicable el salario mínimo vigente en el momento en que se imponga la sanción.
+II.- El 100 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final.
+
+III.- El 150 % de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios después de la notificación del documento determinante del crédito.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 59 A.- Las sanciones previstas en el artículo 59 de este Código, aumentarán o disminuirán conforme a las siguientes reglas:
+
+I.- En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se imponga la sanción, la multa se reducirá en un 20 % de su monto, sin necesidad de que la Autoridad que la impuso dicte nueva resolución.
+
+II.- En caso de que se pague la sanción por infracciones detectadas como consecuencia de actos de fiscalización, antes de la notificación de la resolución correspondiente, la multa se reducirá en un 30 %, siempre y cuando la infracción no implique omisión en el pago de contribuciones.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 1996)</small>
+
+III.- En el caso de que las infracciones a que se refieren las fracciones XI, XII y XIII del artículo 58 de este Código, se cometan con el propósito de obstaculizar el ejercicio de las facultades de la Autoridad Fiscal en materia de fiscalización la sanción se incrementará en un 300 %.
 
 ### CAPITULO III. DE LOS DELITOS FISCALES
 
@@ -1199,6 +1355,10 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 
 Toda notificación personal, realizada con quien deba entenderse, será legalmente válida, aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos salarios mínimos vigentes en el Estado en el momento en que se realice la misma. Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
+
 ###### ARTICULO 78.
 
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a las oficinas de las Autoridades Fiscales.
@@ -1239,9 +1399,11 @@ V.- Embargo en la vía administrativa.
 
 La Autoridad Fiscal está facultada para aceptar o rechazar cualquiera de las formas con que el contribuyente pretenda garantizar el interés fiscal, vigilando que sean suficientes tanto en el momento de su aceptación, como con posterioridad y si no lo fueren, exigirá su ampliación o procederá al embargo de bienes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 83.
 
-La garantía deberá comprender además de las contribuciones adeudadas, los accesorios causados así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período en tanto no se cubra el crédito, deberá ampliarse la garantía por el importe de los recargos correspondientes a los doce meses siguientes.
+La garantía deberá comprender además de la cantidad adeudada actualizada, los accesorios causados así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos.
 
 Se podrá dispensar el otorgamiento de la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo, sea notoria la solvencia del deudor o la insuficiencia de su capacidad económica.
 
@@ -1251,9 +1413,21 @@ Procede garantizar el interés fiscal, cuando:
 
 I.- Se solicite la suspensión del procedimiento administrativo de ejecución.
 
-II.- Se solicite que los créditos sean cubiertos en parcialidades; en este caso sólo se admitirá la fianza como forma de su garantía.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-III.- En los demás casos que señalen las Leyes Fiscales del Estado.
+II.- Se solicite que los créditos sean cubiertos en plazos, ya sea en forma diferida o en parcialidades; en estos casos sólo se admitirá la fianza como forma de su garantía.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+III.- La Autoridad Fiscal formule la liquidación del crédito fiscal y no se efectúe su pago dentro de los 15 días siguientes a la fecha en que haya surtido efectos su notificación.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+IV.- Se trate de actos de fiscalización y no se efectúe el pago dentro de los 45 días siguientes a la fecha en que haya surtido efectos la notificación de la liquidación correspondiente.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+V.- En los demás casos que señalen las Leyes Fiscales del Estado.
 
 ###### ARTICULO 85.
 
@@ -1267,21 +1441,41 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 86.
 
-No satisfecho un crédito fiscal dentro del plazo que para el efecto señalen las disposiciones legales, se hará efectivo por medio del procedimiento administrativo de ejecución.
+Las Autoridades Fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
 Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible y cuando a juicio de la Autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
 
 El embargo quedará sin efecto si la Autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la Autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme lo dispone este Capítulo. Si el contribuyente garantiza el interés fiscal en los términos del artículo 81 de este Código, se levantará el embargo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 87.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas o morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que practique la Autoridad Fiscal, hasta en tanto se haga efectivo el crédito.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2 % del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
-Cuando el 2% del crédito sea inferior a una vez el salario mínimo general diario vigente en el Estado, se cobrará esta cantidad en vez del 2% del crédito.
+a) Por la notificación del requerimiento de pago señalado en este Código.
 
-Los gastos de ejecución serán determinados por la Autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación al procedimiento administrativo de ejecución.
+b) Por la de embargo.
+
+c) Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+Cuando los gastos de ejecución a que se refiere este artículo sean inferiores a una vez el salario mínimo general diario vigente en el Estado, se cobrará esta cantidad en vez del 2 % del crédito.
+
+Los honorarios por intervención se causarán y pagarán aplicando la tasa del 15 % sobre el total del crédito fiscal, la cantidad que resulte de aplicar la tasa a que se refiere este artículo no será menor a una vez el salario mínimo general diario vigente en el Estado.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 1996)</small>
+
+Asimismo se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, avalúos, de impresión y publicación de convocatorias y edictos que correspondan, inscripciones o cancelaciones en el Registro Público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+En ningún caso los honorarios a que se refieren los párrafos anteriores podrán exceder de la cantidad que represente 600 salarios mínimos diarios vigentes en el Estado.
+
+Para los efectos de este artículo se entenderá como salario mínimo diario vigente en el Estado el que resulte aplicable en el momento en que se efectúen las erogaciones respectivas.
 
 ### CAPITULO II. DEL EMBARGO
 
@@ -1296,6 +1490,10 @@ II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresp
 ###### ARTICULO 89.
 
 El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio, en atención a la naturaleza de los bienes o derechos de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
 
 ###### ARTICULO 90.
 
@@ -1321,17 +1519,25 @@ El depositario será designado por el ejecutor cuando no lo hubiere hecho el jef
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la Autoridad Fiscal estime que los bienes embargados son insuficientes para cubrir los créditos fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 94.
 
-La persona con quien se entienda la diligencia, tendrá derecho a que en esta intervengan dos testigos y a designar los bienes en que se deba trabar embargo, siempre que se sujete al orden siguiente:
+La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
 
 I.- Dinero, metales preciosos y depósitos bancarios.
 
-II.- Acciones, bonos, valores mobiliarios, y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados y municipios y de instituciones o empresas privadas de reconocida solvencia.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.- Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
 
 III.- Bienes muebles no comprendidos en las fracciones anteriores.
 
 IV.- Bienes inmuebles.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
 ###### ARTICULO 95.
 
@@ -1371,6 +1577,10 @@ La resolución dictada tendrá el carácter de provisional y deberá ser sometid
 
 Si a juicio de la Autoridad Fiscal las pruebas no son suficientes, ordenará que continúe la diligencia y, de embargarse los bienes, el interesado puede hacer valer el recurso de revocación en los términos de este Código.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Cuando los bienes señalados para la traba estuvieran ya embargados por otras autoridades o sujetos a cédula hipotecaria, se practicará no obstante la diligencia. Dichos bienes se entregarán por el depositario a la oficina ejecutora y se dará aviso a la autoridad correspondiente para que el o los interesados puedan demostrar su derecho de prelación al cobro.
+
 ###### ARTICULO 98.
 
 El depositario nombrado estará obligado:
@@ -1381,7 +1591,9 @@ II.- A vigilar que los bienes embargados no sean distraídos para evadir el cump
 
 III.- A manifestar a la oficina su domicilio, así como los cambios que haga sobre el particular.
 
-IV.- A remitir a la oficina ejecutora el inventario de los bienes objeto del embargo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+IV.- A remitir a la oficina ejecutora el inventario de bienes muebles e inmuebles objeto del embargo, así como los bienes muebles embargados, al día hábil siguiente de efectuada la diligencia.
 
 ###### ARTICULO 99.
 
@@ -1391,11 +1603,17 @@ La Autoridad Fiscal podrá nombrar interventor con cargo a la caja, cuando el em
 
 El interventor con cargo a la caja, tendrá las obligaciones siguientes:
 
-I.- Recuperar el monto del crédito fiscal adeudado, de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, después de separar las cantidades que correspondan por concepto de salarios.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
+I.- Recuperar el monto de crédito fiscal adeudado de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, debiéndose cubrir cuando menos el 16 % del crédito fiscal durante el primer mes, después de separar las cantidades que correspondan por concepto de salarios.
 
-II.- Enterar diariamente ante la Oficina Ejecutora, el monto de lo recaudado y rendir cuenta mensual comprobada ante dicha Oficina.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+II.- Retirar de la negociación intervenida el 10% de los ingresos en dinero, separando las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, y enterarlos en la caja de la Oficina Ejecutora diariamente o a medida que efectúe la recaudación.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+III.- Rendir cuentas mensuales comprobadas a la Oficina Ejecutora.
 
 El interventor no podrá enajenar los bienes del activo fijo.
 
@@ -1788,3 +2006,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE AGOSTO DE 1994.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1o. de Enero de 1996.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Para los efectos de lo dispuesto en el artículo 35-A del Código Fiscal del Estado, para proceder a la actualización de contribuciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de Diciembre de 1995.
