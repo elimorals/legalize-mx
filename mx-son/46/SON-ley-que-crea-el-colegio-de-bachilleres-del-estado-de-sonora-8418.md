@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-colegio-de-bachilleres-del-estado-de-sonora-841
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-12"
-last_updated: "1975-07-12"
+last_updated: "1978-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL COLEGIO DE BACHILLERES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL DEL ESTADO: 29 DE MARZO DE 1978.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 12 de julio de 1975.
 
@@ -107,9 +107,11 @@ III.- Tener cinco años de experiencia académica, y
 
 IV.- Ser de reconocida solvencia moral.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, B.O. 29 DE MARZO DE 1978)</small>
 
-El Consejo Directivo estará integrado en forma permanente por: El Rector de la Universidad de Sonora, el Director General de Educación Pública del Estado, el Director Federal de Educación, el Director del Instituto Tecnológico Regional de Hermosillo y el Presidente del Patronato del Colegio de Bachilleres de Sonora.
+###### ARTICULO 9º.
+
+El Consejo Directivo estará integrado en forma permanente por: el Rector de la Universidad de Sonora, el Rector del Instituto Tecnológico de Sonora, el Director General de Educación Pública del Estado, el Director Federal de Educación, el Director del Instituto Tecnológico Regional de Hermosillo y el Presidente del Patronato del Colegio de Bachilleres de Sonora.
 
 ###### ARTICULO 10.
 
@@ -268,3 +270,9 @@ Lic. Carlos Armando Biebrich Torres.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Jesús Enríquez Burgos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 29 DE MARZO DE 1978.
+
+UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
