@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2002-12-30"
+last_updated: "2003-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
-ULTIMA MODIFICACION MISCELANEA FISCAL EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2002.
+ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -180,7 +180,7 @@ Para los efectos de esta Ley, se considera como región fronteriza, además de l
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-###### ARTICULO 2o-A.
+###### ARTICULO 2o.-A.
 
 El impuesto se calculará aplicando la tasa del 0% a los valores a que se refiere esta Ley, cuando se realicen los actos o actividades siguientes:
 
@@ -276,15 +276,15 @@ IV.- La exportación de bienes o servicios, en los términos del artículo 29 de
 
 Los actos o actividades a los que se les aplica la tasa del 0%, producirán los mismos efectos legales que aquellos por los que se deba pagar el impuesto conforme a esta Ley.
 
-###### ARTICULO 2o.-B.
+###### ARTICULO 2o-B.
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (REFORMADO PRIMER PARRAFO, EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 5 DE JULIO DE 2002)
+(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 20 DE ENERO DE 2003)
 
 ###### ARTICULO 2o-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,521,100.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,602,935.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
 
 Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
 
@@ -1156,7 +1156,7 @@ En las permutas y pagos en especie, el impuesto al valor agregado se deberá pag
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-###### ARTICULO 35.-B.
+###### ARTICULO 35-B.
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1893,3 +1893,7 @@ Noveno. Los contribuyentes que hayan realizado operaciones de factoraje financie
 D.O.F. 30 DE DICIEMBRE DE 2002.
 
 Único. La presente Ley entrará en vigor a partir del 1 de enero de 2003.
+
+D.O.F. 20 DE ENERO DE 2003.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
