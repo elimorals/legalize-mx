@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1977-08-28"
+last_updated: "1979-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1979.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1733,19 +1733,17 @@ V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos; el juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona en caso de no ser aceptada la propuesta.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1979)</small>
+
 ###### Artículo 305.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
+La sentencia de divorcio fijará la situación de los hijos cuando la causa del divorcio estuviere comprendida en la Fracción V del Artículo 289 de la siguiente manera: Los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no los hubiere se nombrará tutor. En caso de que el divorcio tenga como causa lo señalado en las Fracciones VI y VII del Artículo 289, los hijos siempre quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos.
 
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 289, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no la hubiere se nombrará tutor.
-
-Segunda.- Cuando la causa del divorcio estuviere conmprendida (sic) en las fracciones IX, X, XI, XII, XIII y XVI del artículo 289, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueron culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 289, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1979)</small>
 
 ###### Artículo 306.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, en el caso de que el divorcio tenga como causal la señalada por la Fracción V del Artículo 289, los hijos podrán ser beneficiados por cualquier providencia que se dicte en su favor a petición de los abuelos, tíos o hermanos mayores.
 
 ###### Artículo 307.
 
@@ -12497,7 +12495,7 @@ En las operaciones hechas por el mandatario, con violación o con exceso del enc
 
 ###### Artículo 2438.
 
-El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho encargo.
+El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho cargo.
 
 ###### Artículo 2439.
 
@@ -12699,7 +12697,7 @@ La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar
 
 ###### Artículo 2469.
 
-Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
+Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutando después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
 ###### Artículo 2470.
 
@@ -15206,3 +15204,7 @@ DECRETO No. 80.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
