@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1995-05-26"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1995.
-
-> <small>N. DE E. EL PRESENTE CODIGO FUE REPUBLICADO EN SU TOTALIDAD Y MODIFICADO EN ALGUNOS DE SUS ARTICULOS.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -477,9 +475,13 @@ ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las qu
 
 ART. 60.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, del equivalente a un salario mínimo; en los de lo Civil, de diez veces el salario mínimo; y veinte veces el salario mínimo en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, del equivalente a un salario mínimo; en los de Primera Instancia, de diez veces el salario mínimo; y veinte veces el salario mínimo en el Tribunal Superior.
+
+Cuando en el escrito de expresión de agravios o en cualquiera de las promociones subsecuentes se faltare al respeto y consideración debidos al Juez que dictó la resolución impugnada, la Sala que conozca del recurso impondrá al litigante la corrección disciplinaria que considere conveniente.
+
+Dicha corrección puede comprender desde multa hasta por la cantidad equivalente a cincuenta veces el salario mínimo general vigente para el Estado de Baja California, o bien; el auxilio de la fuerza pública, pero si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente con testimonio de lo conducente.
 
 (REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -487,11 +489,15 @@ ART. 62.- Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa que no exceda de dos mil pesos, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+II.- Multa que no exceda de treinta veces el salario mínimo diario para la zona, y
 
 III.- Suspensión de empleo hasta por quince días.
 
-Esta última Fracción sólo es aplicable al Secretario y demás empleados del Tribunal que imponga la corrección.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Esta última fracción sólo es aplicable al Secretario y demás empleados del Tribunal que imponga la corrección.
 
 Cuando en el escrito en el que se interponga la apelación se falta al respeto y consideración del Juez que dicte la sentencia definitiva, la sanción a que se refiere este Artículo la impondrá el superior.
 
@@ -545,17 +551,27 @@ ART. 72.- Los tribunales no admitirán nunca recursos notoriamente frívolos o i
 
 Los incidentes ajenos al negocio principal o notoriamente frívolos e improcedentes, deberán ser repelidos de oficio por los jueces.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 73.- Los Jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
+ART. 73.- Los Jueces, para hacer cumplir sus determinaciones y sin sujetarse a un orden preestablecido, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-I.- La multa hasta por la cantidad de dos mil pesos, la cual podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+I.- La multa hasta por la cantidad equivalente a cincuenta veces el salario mínimo general diario vigente para el Estado de Baja California, que podrá duplicarse en caso de reincidencia.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
 
 II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1995)</small>
+
 III.- El cateo por orden escrita;
 
-IV.- El arresto hasta por quince días.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+IV.- El arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -737,13 +753,13 @@ ART. 107.- En los despachos y exhortos no se requiere la legalización de las fi
 
 Para que los exhortos de los tribunales de los Estados de la Federación, de los Territorios y del Distrito Federal sean diligenciados, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 108.- Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
+ART. 108.- Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuanto a sus formalidades y tramitación, a las disposiciones relativas al Código Federal de Procedimientos Civiles, así como a lo dispuesto por los tratados internacionales o convenciones internacionales en que México sea parte.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 109.- Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+ART. 109.- Los Tribunales deberán acordar de conformidad que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere promovido la práctica de la diligencia, si esta última así lo solicita, misma que tendrá la obligación de apresurar su diligenciación por el Juez exhortado y de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -1442,6 +1458,10 @@ ART. 198.- Cuando se pida la exhibición de un protocolo o de cualquier otro doc
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 199.- Las diligencias preparatorias de que se trata en las fracciones II a IV, VII y VIII del artículo 194 se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días, y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+En las diligencias preparatorias a Juicio Sumario de Desahucio se aplicarán las mismas reglas de notificación previstas para este juicio, conforme al primer párrafo del artículo 477 de este Código.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -2407,13 +2427,11 @@ Cuando fuere necesario, se levantarán planos o se sacarán vistas fotográficas
 
 ART. 351.- Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 352.- Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad al Juez, y pedirán que los cite. El Juez ordenará la citación con apercibimiento de arresto hasta de quince días o multa hasta de diez veces el salario mínimo, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+ART. 352.- Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad al Juez y pedirán que los cite. El Juez ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa hasta de veinte veces el salario mínimo, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa hasta de tres mil pesos, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido.
-
-Asimismo deberá declarase desierta la prueba testimonial.
+A quien proporcione domicilio inexacto o inexistente de algún testigo o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se le impondrá una multa de hasta treinta veces el salario mínimo, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido y de que se declare desierta la prueba respecto de quien haya sido propuesto como testigo y su situación encuadre en cualquiera de los supuestos anteriores.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -3685,9 +3703,9 @@ ART. 551.- Todo remate de bienes raíces será público y deberá celebrarse en 
 
 ART. 552.- Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, se acordará que se expida mandamiento al registrador de la propiedad para que remita certificado de gravámenes de los últimos diez años; pero si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquél hasta la en que se solicite.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 553.- Si del certificado aparecieren gravámenes, se hará saber a los acreedores el estado de ejecución, para que intervengan en el avalúo y subasta de los bienes, si les conviniere.
+ART. 553.- Si del certificado aparecieren gravámenes, con la oportunidad debida se notificará a los acreedores el estado de ejecución, para que intervengan en el avalúo y subasta de los bienes, si les conviniere.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3699,6 +3717,14 @@ II.- Para recurrir el auto de aprobación del remate, en su caso, y
 
 III.- Para nombrar a su costa un perito que, con los nombrados por el ejecutando y el ejecutado, practique el avalúo de la cosa. Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia en su caso, ni cuando la valorización se haga por otros medios.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Cada uno de los acreedores diversos podrá designar perito valuador a su costa, y en caso de que su perito una vez aceptado el cargo; no rinda dictamen dentro del término señalado por la ley o no concurra al desahogo a efectuar de acuerdo al artículo 344 de este Código, se tendrá por perdido su derecho para nombrar a otro en su substitución.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia en su caso, ni cuando la valorización se haga por otros medios.
+
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 555.- El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores, no habrá necesidad de nombrar tercero en discordia.
@@ -3707,9 +3733,9 @@ ART. 555.- El avalúo se practicará de acuerdo con las reglas establecidas para
 
 ART. 556.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y, si el valor de la cosa pasare de cinco mil pesos, se insertarán aquéllos en un periódico de información. A petición de cualquiera de las partes y a su costa, el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 557.- Antes de fincarse el remate o declararse la adjudicación, podrá el deudor librar sus bienes pagando principal y costas. Después de fincado, quedará la venta irrevocable.
+ART. 557.- Antes de fincarse el remate, podrá el deudor librar sus bienes pagando los conceptos líquidos de la condena; después de fincado, la venta judicial será irrevocable.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3721,9 +3747,11 @@ ART. 559.- Es postura legal la que cubra las dos terceras partes del avalúo o d
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las dos tercias partes del avalúo dadas al contado.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 560.- Para tomar parte en la subasta deberán los licitadores consignar previamente, en el establecimiento de crédito destinado al efecto por la ley, una cantidad igual por lo menos al diez por ciento efectivo del valor de los bienes, que sirva de base para el remate, sin cuyo requisito no serán admitidos.
+ART. 560.- Para tomar parte en la subasta deberán los licitadores consignar previamente, en la Caja Auxiliar del Tribunal Superior de Justicia en el Estado, una cantidad igual por lo menos al diez por ciento en efectivo del valor de los bienes, que sirva de base para el remate sin cuyo requisito no serán admitidos.
+
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 Se devolverán dichas consignaciones a sus respectivos dueños acto continuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de la venta.
 
@@ -3791,17 +3819,19 @@ ART. 572.- Si en la tercera subasta se hiciere postura admisible en cuanto al pr
 
 ART. 573.- Cualquiera liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de la ejecución y demás, se regulará por el juez con un escrito de cada parte y resolución dentro del tercer día.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 574.- Dentro de los tres días siguientes al en que se fincó el remate, las partes podrán hacer las objeciones que estimen pertinentes al procedimiento del mismo remate y transcurrido dicho término, el Juez dictará auto aprobándolo o no. Si se aprueba el remate se requerirá al comprador para que dentro de tres días consigne la cantidad ofrecida de contado y si no lo hiciere o por su culpa dejare de tener efecto la venta se procederá a una nueva subasta como si la anterior no se hubiere celebrado, perdiendo el postor el depósito a que se refiere el Artículo 560, que se aplicará, por vía de indemnización, al ejecutante y al ejecutado, por partes iguales.
+ART. 574.- Dentro de los tres días siguientes al que se fincó el remate, las partes podrán hacer las objeciones que estimen pertinentes al procedimiento del mismo remate y transcurrido dicho término, el Juez dictará auto aprobándolo o no. Si se aprueba el remate, se requerirá al comprador para que dentro de tres días consigne la cantidad ofrecida de contado y si no lo hiciere se dejará sin efecto la venta, se procederá a una nueva subasta como si la anterior no se hubiere celebrado, perdiendo el postor el depósito a que se refiere el Artículo 560, que se aplicará, por vía de indemnización, al ejecutante.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 575.- Consignado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido que, de no hacerlo, el juez lo hará en su rebeldía, haciéndolo constar así.
+ART. 575.- Una vez consignado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido que, de no hacerlo, el Juez lo hará en su rebeldía haciéndolo constar así.
 
-(REFORMADO, P.O. 20 DE JULIO DE 1979) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+Asimismo, y a petición de parte interesada; se podrá solicitar la inscripción preventiva del auto aprobatorio de remate, para lo cual se girará atento oficio al Registro Público de la Propiedad y de Comercio del Estado, remitiéndole copia certificada por duplicado de la diligencia de remate y del auto aprobatorio del mismo.
 
-ART. 576.- Otorgada la escritura se pondrá al adquiriente en posesión de los bienes, dándose para ello las órdenes necesarias, aún las de desocupación de fincas habitadas por el deudor o terceros que no tuvieren contratos para acreditar el uso, en los términos que fija el Código Civil y se le dará a conocer como dueño a las personas que él mismo designe.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+ART. 576.- Una vez que quede firme el auto que aprueba el remate se dictarán las diligencias necesarias a petición de parte interesada para que se ponga en posesión material y jurídica del bien rematado al adjudicatario, siempre y cuando este último, en su caso, haya consignado el precio, dándose para ello las ordenes necesarias, aún las de desocupación de fincas habitadas por el deudor o terceros que no tuvieren contratos para acreditar el uso, en los términos que fija el Código Civil. En caso de que existan terceros que acrediten mediante la exhibición del contrato correspondiente dicho uso, en la misma diligencia se les dará a conocer como nuevo dueño al adjudicatario o sus causahabientes en su caso.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -4399,9 +4429,9 @@ Los autos e interlocutorias, serán apelables cuando lo fuere la sentencia defin
 
 ART. 678.- En escrito de apelación el recurrente expresará los agravios, los que serán formulados en forma concreta mediante los razonamientos relacionados con las circunstancias del caso, que tiendan a demostrar una violación de la Ley o una interpretación inexacta de la misma. Con el escrito de apelación se exhibirá una copia del mismo para el expediente y una para cada una de las partes.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-ART. 679.- Interpuesta una apelación, el Juez, sin substanciación alguna, la admitirá si fuere procedente, expresando si la admite en uno o en ambos efectos. En caso de que en el escrito de apelación no se formulen agravios o no se acompañen al mismo las copias a que se refiere el Artículo 678 el Juez tendrá por no interpuesto el recurso.
+ART. 679.- Interpuesta una apelación, el Juez, sin substanciación alguna, la admitirá si fuere procedente, expresando si la admite en uno o en ambos efectos. En caso de que en el escrito de apelación el recurrente no formulara los agravios, el Juez tendrá por no interpuesto el recurso. Si no se acompañaran las copias de los agravios para el expediente y para cada una de las partes, se prevendrá al apelante para que dentro del término de tres días subsane la omisión en que hubiere incurrido. De no dar cumplimiento a la prevención, se tendrá por no interpuesto el recurso.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1987) (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -6476,3 +6506,7 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Los asuntos que se hayan iniciado que estén pendientes de resolución, así como los actos jurídicos realizados bajo el Código que se pública, tendrán plena validez para todos los efectos legales.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+ÚNICO.- Las reformas y adiciones a que se refiere el presente decreto, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de difusión del Gobierno del Estado.
