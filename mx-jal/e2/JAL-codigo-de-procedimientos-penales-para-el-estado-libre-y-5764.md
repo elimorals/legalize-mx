@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2000-06-17"
+last_updated: "2001-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -719,21 +719,19 @@ El arraigo se prolongará por el tiempo indispensable para la debida integració
 
 Si en la averiguación previa transcurre más de un año sin elementos suficientes para ejercer la acción penal, el Agente del Ministerio Público del conocimiento dispondrá su archivo y lo comunicará para su revisión al Procurador General de Justicia y, si éste aprueba, no podrá volver a ponerse en movimiento, sino por datos supervenientes previo acuerdo del propio Procurador. En caso negativo, se devolverá al Agente del Ministerio Público con expresión de las instrucciones pertinentes para continuar su integración.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 104.
 
-Inmediatamente que el ministerio público constate que en la averiguación previa se han acreditado los elementos del tipo penal en los términos del artículo 116 de este ordenamiento y la probable responsabilidad del inculpado, ejercitará la acción penal correspondiente precisando los hechos que la motiven y la solicitud para la emisión de la orden de aprehensión del inculpado, ajustándose a los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para proceder a su aprehensión.
+Inmediatamente que el ministerio público constate que en la averiguación previa se ha acreditado el cuerpo del delito en los términos del artículo 116 de este ordenamiento y la probable responsabilidad del inculpado, ejercitará la acción penal correspondiente precisando los hechos que la motiven y la solicitud para la emisión de la orden de aprehensión del inculpado, ajustándose a los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Si se trata de delitos patrimoniales previstos en el título décimo séptimo del Código Penal, el ministerio público precisará cual es el monto del beneficio económico obtenido o del daño causado y cual el salario mínimo regional vigente en el lugar y fecha de su comisión.
+Si se trata de delitos patrimoniales previstos en el título décimo séptimo del Código Penal, el Ministerio Público precisará cuál es el monto del beneficio económico obtenido o del daño material causado, así como el salario mínimo regional vigente en el lugar y fecha de su comisión.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 105.
 
-Al recibir el ministerio público diligencias de policía judicial, si hubiere detenidos y la detención fuere legal, integrará inmediatamente la averiguación y hará la consignación al juzgado que corresponda. Si fuere en contravención con lo que al respecto establece la Constitución Política de los Estados Unidos Mexicanos, ordenará que los detenidos queden en inmediata libertad y procederá conforme a derecho.
-
-No se podrá retener a ningún indiciado por más de cuarenta y ocho horas, salvo en los casos de delincuencia organizada, en los que podrá duplicarse este término. Para lo establecido en este artículo, se entiende por delincuencia organizada la reunión de tres o más personas que se organizan bajo las reglas de disciplina y jerarquía, para cometer de modo violento y reiterado o con fines predominantemente lucrativos cualquiera de los delitos calificados como graves en este Código. Todo abuso a lo dispuesto en la parte inicial de este párrafo, será sancionado por la ley penal.
+Al recibir el Ministerio Público detenidos, verificará si la captura se ajustó a lo dispuesto por los artículos 145 y 146 de este ordenamiento; integrará inmediatamente la averiguación y hará la consignación al juzgado correspondiente. Si se hubiese hecho la detención en contravención a lo que establece la Constitución Política de los Estados Unidos Mexicanos, ordenará que los detenidos queden en inmediata libertad, continuando con el trámite de la Averiguación Previa, para emitir la resolución que corresponda.
 
 ###### Art. 106.
 
@@ -745,21 +743,9 @@ La garantía se cancelará y, en su caso, se devolverá por el Ministerio Públi
 
 Consignado el caso, la garantía se considerará prorrogada tácitamente hasta que el juzgado respectivo decida su ratificación, modificación o cancelación.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
-
 ###### Art. 106. Bis.
 
-El ministerio público o el juez concederá al inculpado la libertad sin caución alguna, cuando el término medio aritmético de la pena de prisión no exceda de dos años, siempre que concurran las siguientes circunstancias:
-
-I. Que no exista riesgo fundado de que se substraiga a la acción de la justicia;
-
-II. Que tenga domicilio fijo con antelación no menor de un año en el lugar de la residencia de la autoridad que conozca del caso;
-
-III. Que tenga un trabajo lícito;
-
-IV. Que no haya sido condenado por delito intencional; y
-
-V. Haya hecho o garantizado la reparación del daño.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2001)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -823,11 +809,11 @@ Las resoluciones en que se decida el no ejercicio de la acción penal o el desis
 
 La conformidad del Ministerio Público con la libertad por falta de elementos para procesar, con la libertad por desvanecimiento de datos y con cualquiera otra resolución incidental tendiente a la excarcelación del inculpado, no implica el desistimiento de la acción penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 115.
 
-La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá coadyuvar con el ministerio público, por sí o por apoderado, proporcionándole todos los datos que tenga conducentes a comprobar los elementos del tipo penal de que se trate, la responsabilidad del inculpado, así como a solicitud de éste la objeción de pruebas, interposición de recursos con la propuesta de agravios correspondientes y a la procedencia y monto de la reparación del daño, para que dicho servidor público las analice y en su caso, los ministre al juzgado en ejercicio de la acción penal.
+La persona ofendida por un delito no es parte en el procedimiento penal, pero podrá coadyuvar con el Ministerio Público, por sí o por abogado o persona digna de su confianza debidamente autorizada, proporcionándole todos los datos que tenga conducentes a acreditar el cuerpo del delito de que se trate, la responsabilidad del inculpado y el daño o perjuicio causado; para tal efecto, podrá aportar y objetar pruebas; interponer recursos con la propuesta de agravios correspondientes; solicitar las medidas de aseguramiento de bienes y personas, así como la procedencia y monto de la reparación del daño, para que dicho servidor público las analice y en su caso, los ministre al juzgador.
 
 Los acuerdos que recaigan a las promociones del coadyuvante le serán comunicados, en su caso, por el Ministerio Público.
 
@@ -835,31 +821,31 @@ Los acuerdos que recaigan a las promociones del coadyuvante le serán comunicado
 
 ### CAPITULO I. Comprobación del cuerpo del delito
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 116.
 
-El ministerio público deberá procurar, ante todo, que se comprueben los elementos del tipo penal.
+El Ministerio Público deberá procurar, ante todo, que se acredite el cuerpo del delito.
 
-El tipo penal se comprueba con la demostración de los elementos que lo constituyen, salvo los casos en que se exija una demostración especial.
+El cuerpo del delito se acredita con la demostración de todos los elementos que lo constituyen, salvo los casos en que exija una demostración especial.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 117.
 
-Cuando se trate de lesiones externas, se tendrán por comprobados los elementos del tipo penal, con la inspección de dichas lesiones, hecha por el ministerio público que hubiese practicado las diligencias de averiguación previa o por el juez que conozca del caso y con la descripción que de ellas hagan los peritos médicos. Cuando el lesionado sea hospitalizado, bastará para tener por comprobados los elementos del tipo penal el certificado expedido por el médico que lo haya atendido, pero deberá ser confirmado por los peritos médicos legistas durante la instrucción del proceso. El médico que atienda al lesionado deberá entregar dicho certificado al ministerio público, dentro de las veinticuatro horas siguientes a la primera curación.
+Cuando se trate de lesiones externas, se tendrá por acreditado el cuerpo del delito, con la inspección de dichas lesiones, hecha por el Ministerio Público que hubiese practicado las diligencias de averiguación previa y con la descripción que de ellas hagan los peritos médicos. Cuando el lesionado sea hospitalizado, bastará para tener por acreditado el cuerpo del delito, el certificado expedido por el médico que lo haya atendido, pero deberá ser confirmado por los peritos médicos legistas, durante la instrucción del proceso. El médico que atienda al lesionado deberá entregar dicho certificado al Ministerio Público, dentro de las veinticuatro horas siguientes en que se inició la atención.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 118.
 
-En el caso de lesiones internas, se tendrán por comprobados los elementos del tipo penal con la inspección hecha por el servidor público a quienes se refiere el artículo anterior, de las manifestaciones inventariadas que presente la víctima y con el dictamen pericial que exprese los síntomas que presente y si son o no debidas a las lesiones imputadas. En caso de no existir manifestaciones inventariadas, bastará con el dictamen pericial.
+En el caso de lesiones internas, se tendrá por acreditado el cuerpo del delito con la inspección hecha por el Ministerio Público, de las manifestaciones inventariadas de las alteraciones a la salud que presente la víctima y con el dictamen pericial que exprese los síntomas que presente y si son o no debidas a las lesiones imputadas. En caso de no existir manifestaciones inventariadas, bastará con el dictamen pericial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 119.
 
-Si se tratare de homicidio, los elementos del tipo penal se tendrán por comprobados con la inspección y descripción del cadáver, hecha en los términos de los artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad, el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiese sido sepultado se procederá a exhumarlo.
+Si se tratare de homicidio, el cuerpo del delito se tendrá por acreditado con la inspección y descripción del cadáver, hecha en los términos de los artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la necropsia y expresarán con minuciosidad, el estado que presente el cadáver y las causas que originaron la muerte. Si hubiese sido sepultado se procederá a exhumarlo.
 
 Solamente se omitirá la autopsia cuando, tanto el funcionario que practique las diligencias como los peritos médicos, estimen que no es necesaria para determinar la causa de la muerte.
 
@@ -867,11 +853,11 @@ Solamente se omitirá la autopsia cuando, tanto el funcionario que practique las
 
 En aquellos casos en que el cadáver no se encuentre, su existencia se comprobará con testigos, quienes lo describirán detalladamente, expresando aún el arma con que crean que se le causaron las lesiones descritas. En todo caso los peritos, con vista de los datos aportados, dictaminará si la muerte fue resultado de las lesiones inferidas.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 121.
 
-En los casos de aborto o de infanticidio, los elementos del tipo penal se tendrán por comprobados en los mismos términos que el de homicidio, pero en el primero, además, reconocerán los peritos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto; en el segundo, se especificará invariablemente si el ofendido nació viable. En uno y otro caso, expresarán la edad de la víctima y todo aquello que pueda servir para fijar la naturaleza del delito.
+En los casos de aborto o de infanticidio, el cuerpo del delito se tendrá por comprobado en los mismos términos que el de homicidio, pero en el primero, además, reconocerán los peritos a la madre, describirán las lesiones que presenten y dictaminarán sobre la causa del aborto; en el segundo, se especificará invariablemente si el ofendido nació viable y el tiempo de vida del infante después de desprendido del seno materno. En uno y otro caso, expresarán la edad de la víctima y todo aquello que pueda servir para fijar la naturaleza del delito.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -879,11 +865,11 @@ En los casos de aborto o de infanticidio, los elementos del tipo penal se tendr�
 
 En los casos de robo, los elementos del tipo penal podrán comprobarse, siempre que no haya sido posible hacerlo en los términos del artículo 116 de este Código, cuando haya prueba de que el inculpado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no sea verosímil que haya podido adquirir legítimamente, si no justifica la procedencia de aquella y alguien le imputa fundadamente el robo.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 123.
 
-Se tendrán por comprobados los elementos del tipo penal, de robo equiparado, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier fluido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva, o sin el consentimiento de quien legalmente tenga el derecho.
+Se tendrá por acreditado el cuerpo del delito de robo equiparado, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier fluido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva, o sin el consentimiento de quien legalmente tenga el derecho.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -899,11 +885,11 @@ En los casos de delitos cometidos con motivo del tránsito de vehículos, se pra
 
 En los casos dudosos, el médico deberá mandar practicar las investigaciones de laboratorio que creyese necesarias.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 126.
 
-Los elementos del tipo penal de abigeato se probarán en la misma forma que el de robo.
+El cuerpo del delito de abigeato se probará en la misma forma que el de robo.
 
 ###### Art. 127.
 
@@ -935,11 +921,11 @@ En los casos de daños por incendio se recabará dictamen pericial respecto del 
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección ocular y de peritos, sin perjuicio de las demás pertinentes.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 132.
 
-Para la comprobación de los elementos del tipo penal, el ministerio público, los jueces y el tribunal gozarán de la acción más amplia para emplear y apreciar los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no estén reprobados por ella.
+Para el acreditamiento del cuerpo del delito, el Ministerio Público, los jueces y el tribunal gozarán de la acción más amplia para emplear y apreciar los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no estén reprobados por ella.
 
 ### CAPITULO II. Huellas del delito aseguramiento de los instrumentos y objetos del mismo
 
@@ -1045,19 +1031,13 @@ Para los efectos de la fracción I del artículo anterior, se entenderá que el 
 
 En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad más cercana y éstas, con la misma prontitud, a la del Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 147.
 
-La resolución contendrá una relación sucinta de los hechos que la motiven, la apreciación de las pruebas que deberán ser suficientes para acreditar la existencia del tipo penal y la probable responsabilidad del inculpado, así como de que se encuentre prevista una pena privativa de libertad por el delito imputado.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+La resolución contendrá una relación sucinta de los hechos que la motiven, la apreciación de las pruebas que deberán ser suficientes para acreditar la existencia del cuerpo del delito y la probable responsabilidad del inculpado, así como de que se encuentre prevista una pena privativa de libertad por el delito imputado.
 
 La ejecución de este mandamiento se transcribirá al Procurador General de Justicia del Estado para que ordene su cumplimiento.
-
-Si se supiere que el inculpado se encuentra fuera de la jurisdicción territorial del juzgado que haya expedido la orden, pero dentro del Estado, tal circunstancia se comunicará al Procurador General de Justicia, para que ordene su ejecución por la Policía Judicial, en el lugar en que aparezca localizado dicho inculpado. Podrá en este caso, si se estimare indispensable, girarse también exhorto a la autoridad judicial del lugar referido, de acuerdo con el Art. 41.
-
-Cuando se ignore el paradero del indiciado se comunicará al procurador, quien entonces encomendará la busca de dicho inculpado a los agentes del Ministerio Público y al Director de la Policía Judicial, en todo el territorio del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1115,15 +1095,19 @@ El tribunal que reciba la consignación del inculpado que haya sido detenido en 
 
 En el caso de que se avoque (sic) al conocimiento, le hará saber al detenido que se encuentra a su disposición, que en audiencia pública y dentro del término de cuarenta y ocho horas en presencia de su defensor, se le tomará su declaración preparatoria; para ello fijará día y hora.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 157.
 
-Tratándose de consignaciones sin detenido, el tribunal ante el cual se ejercite la acción penal radicará el asunto dentro del término de dos días, salvo lo previsto en el párrafo tercero de este artículo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna, todas las diligencias que promuevan las partes.
+Tratándose de consignaciones sin detenido, el Tribunal ante el cual se ejercite la acción penal radicará, el asunto dentro del término de dos días, salvo lo previsto en el párrafo tercero de este artículo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna, todas las diligencias que promuevan las partes.
 
-El juez ordenará o negará la aprehensión, reaprehensión, comparecencia o cateo solicitados por el ministerio público dentro de los diez días contados a partir del día en que se haya acordado la radicación.
+El juez ordenará o negará la aprehensión, reaprehensión, comparecencia o cateo solicitados por el Ministerio Público, dentro de los diez días contados a partir del día en que se haya acordado la radicación.
 
-En el caso de los delitos que este Código señala como graves, la radicación se hará de inmediato y el juez ordenará o negará la aprehensión o cateo solicitados por el ministerio público, dentro de las veinticuatro horas contadas a partir del momento en que esta se haya acordado.
+En el caso de los delitos que este Código señala como graves la radicación se hará de inmediato y el juez ordenará o negará la aprehensión o cateo solicitados por el Ministerio Público, dentro de las veinticuatro horas contadas a partir del momento en que ésta se haya acordado.
+
+Si se supiere que el inculpado se encuentra fuera de la jurisdicción territorial del juzgado que haya expedido la orden, pero dentro del Estado, tal circunstancia se comunicará al Procurador General de Justicia, para que ordene su ejecución por la policía investigadora en el lugar en el que aparezca localizado dicho inculpado. Podrá en este caso, si se estimare indispensable girarse también exhorto a la autoridad judicial del lugar referido, de acuerdo con el artículo 41.
+
+Cuando se ignore el paradero del indiciado, se comunicará al Procurador, quien entonces encomendará la búsqueda de dicho inculpado a los agentes del ministerio público y a la policía investigadora, en todo el territorio del Estado.
 
 ###### Art. 158.
 
@@ -1159,7 +1143,9 @@ En ningún caso y por ningún motivo podrá la autoridad emplear la incomunicaci
 
 La declaración preparatoria comenzará asentando las generales del indiciado, en las que se incluirán los apodos que tuviere; el grupo étnico indígena al que pertenezca, en su caso y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales. Acto seguido se le hará saber el derecho a una defensa adecuada por sí, por abogado o persona de su confianza, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio. Si el indiciado no hubiere solicitado su libertad bajo caución en la averiguación previa, se le hará saber nuevamente ese derecho en los términos del artículo 20, fracción I, de la Constitución Política de los Estados Unidos Mexicanos y del artículo 342 de este Código.
 
-También se le hará saber los hechos de la denuncia, acusación o querella; así como los nombres de sus acusadores, denunciantes o querellantes y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee, se le examinará sobre los hechos consignados. Si el inculpado decidiere no declarar, el juez respetará su voluntad dejando constancia de ello en el expediente.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
+
+También se le hará saber los hechos de la denuncia o querella; así como los nombres de sus denunciantes o querellantes y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee, se le examinará sobre los hechos consignados. Si el inculpado decide no declarar el juez respetará su voluntad, dejando constancia de ello en el expediente.
 
 Igualmente, se informará de la garantía que le otorga el artículo 20, fracción I, de la Constitución Política de los Estados Unidos Mexicanos; el derecho de que se le reciban los testigos y las pruebas que ofrezca en términos de ley, auxiliándole para obtener la comparecencia de las personas que soliciten, siempre y cuando estén domiciliadas en el lugar del juicio; así como todos los datos que solicite y consten en el proceso.
 
@@ -1185,17 +1171,19 @@ El juez interrogará al inculpado sobre su participación en los hechos imputado
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso o de libertad por falta de elementos para procesar
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 166.
 
-El auto de formal prisión se dictará dentro de las setenta y dos horas o de ciento cuarenta y cuatro horas en el caso de que el detenido haya solicitado su ampliación, a partir del momento en que el indiciado sea puesto a disposición de la autoridad judicial, siempre que se cumplan los requisitos siguientes:
+El auto de formal prisión se dictará dentro de las setenta y dos horas o de ciento cuarenta y cuatro en el caso de que el detenido haya solicitado su ampliación, a partir del momento en que el indiciado sea puesto a disposición de la autoridad judicial, siempre que se cumplan los requisitos siguientes:
 
 I. Los hechos que lo motiven estén legalmente comprobados;
 
 II. Esos hechos estén específicamente comprendidos en la respectiva acción penal;
 
-III. Los propios hechos sirvan para comprobar los elementos del tipo penal;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2001)</small>
+
+III. Los propios hechos sirvan para acreditar el cuerpo del delito;
 
 IV. Se haya tomado declaración preparatoria al inculpado, en la forma y con los requisitos que establece este código;
 
@@ -2215,7 +2203,7 @@ Cualquiera de las partes puede formular queja ante el Juez del conocimiento, por
 
 ### CAPITULO II. Libertad provisional bajo protesta
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 342.
 
@@ -2413,6 +2401,22 @@ En los casos del primer párrafo del Art. 356, y de la última parte del primer 
 
 ### CAPITULO III. Libertad por desvanecimiento de datos
 
+###### Artículo 362.
+
+El Ministerio Público o el juez concederá al inculpado la libertad, sin caución alguna, cuando el término medio aritmético de la pena de prisión no exceda de dos años, siempre que concurran las siguientes circunstancias:
+
+I. Que no exista riesgo fundado de que se substraiga a la acción de la justicia;
+
+II. Que tenga domicilio fijo con antelación no menor de un año en el lugar de la residencia de la autoridad que conozca del caso;
+
+III. Que tenga un trabajo lícito;
+
+IV. Que no haya sido condenado por delito intencional; y
+
+V. Haya hecho o garantizado la reparación del daño.
+
+> <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
+
 ###### Art. 362.
 
 La libertad bajo protesta se decretará en cualquier etapa del procedimiento y procederá en los casos y condiciones establecidas en el artículo 106 de este ordenamiento, siempre que concurran las circunstancias siguientes:
@@ -2475,9 +2479,9 @@ En el caso del Art. 363, se revocará la libertad bajo protesta, si el Tribunal 
 
 La libertad por desvanecimiento de datos procede en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2001)</small>
 
-I. Cuando, en cualquier estado de la instrucción y después de dictado el auto de formal prisión, aparezcan plenamente desvanecidos los datos que sirvieron para comprobar los elementos del tipo penal; y
+I. Cuando, en cualquier estado de la instrucción y después de dictado el auto de formal prisión, aparezcan plenamente desvanecidos los datos que sirvieron para acreditar el cuerpo del delito;
 
 > <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
 
@@ -2833,7 +2837,7 @@ La separación podrá decretarse de oficio, cuando no hubiese habido acumulació
 
 ### CAPITULO X. Medidas provisionales para la restitución al ofendido en el goce de sus derechos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 424.
 
@@ -2863,7 +2867,7 @@ Las providencias precautorias que pudiere intentar quien tenga derecho a la repa
 
 ###### Art. 429.
 
-Cuando este plenamente comprobado en autos el delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratase de cosas, únicamente podrán retenerse, estén o no comprobados los elementos del tipo penal, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
+Cuando esté plenamente comprobado en autos, el delito de que se trate, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados. Si se tratase de cosas, únicamente podrán retenerse, esté o no acreditado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la averiguación.
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 1996)</small>
 
@@ -3202,5 +3206,9 @@ P.O. 18 DE MARZO DE 1999.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 17 DE JUNIO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE FEBRERO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
