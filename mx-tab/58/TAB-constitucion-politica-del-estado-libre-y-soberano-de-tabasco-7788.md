@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1970-12-30"
+last_updated: "1971-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN LA PRESENTE REFORMA EL LEGISLADOR ES IMPRECISO SOBRE LA UBICACION DE TITULOS, CAPITULOS Y ARTICULOS DEL ORDENAMIENTO, POR LO QUE SE REALIZO LA UBICACION DE LOS MISMOS CON BASE EN SU DENOMINACION Y CONTENIDO, LO QUE SE HACE DE CONOCIMIENTO DEL USUARIO PARA LOS EFECTOS PROCEDENTES.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1971.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -377,11 +375,13 @@ Los Diputados que no concurran a una sesión sin causa justificada o sin previo 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1971)</small>
 
 ###### Art. 50.
 
-Cada dos años el Gobernador Constitucional del Estado concurrirá ante el Congreso a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. Este informe se rendirá el día 27 de febrero de cada bienio, a excepción del último año de la gestión administrativa en que deberá informar sobre la labor de la administración pública en los últimos 10 meses del sexenio, señalándose para tal efecto el día 20 de noviembre del año respectivo.
+Cada año el Gobernador del Estado concurrirá ante el Congreso a rendir un informe acerca de la situación que guarden los diversos ramos de la Administración Pública. Este informe se rendirá el día 20 de noviembre.
+
+El Presidente del Congreso dará respuesta a dicho Informe.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -1708,3 +1708,9 @@ UNICO.- Este Decreto surte sus efectos legales a partir del día siguiente de su
 P.O. 30 DE DICIEMBRE DE 1970.
 
 UNICO.- Este Decreto surte sus efectos legales a partir del día primero de enero de 1971.
+
+P.O. 28 DE ABRIL DE 1971.
+
+Artículo Primero.- El Gobernador del Estado, cuyo sexenio comenzó el primero de enero del corriente año, rendirá su primer informe precisamente el día 20 de noviembre del año en curso.
+
+Artículo Segundo.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
