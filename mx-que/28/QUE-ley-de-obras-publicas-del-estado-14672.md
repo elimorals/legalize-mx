@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obras-publicas-del-estado-14672"
 country: "mx"
 rank: "ley"
 publication_date: "1986-02-13"
-last_updated: "1999-07-09"
+last_updated: "2003-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO DE LA LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 12 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 13 de febrero de 1986.
 
@@ -596,3 +598,37 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTICULO CUARTO.
 
 Las invitaciones y convocatorias que estén actualmente en trámite conforme a lo dispuesto en el artículo 30 de la Ley de Obras Públicas del Estado, reformado por la presente Ley, se llevarán a cabo hasta su conclusión conforme a lo dispuesto en dicho artículo.
+
+P.O. 12 DE NOVIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial La Sombra de Arteaga.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Obra Pública publicada en el Periódico Oficial del Gobierno de Estado en fecha 13 de febrero de 1986.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá el reglamento de esta ley en un término no mayor de tres meses, contados a partir de la publicación de la presente.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento se seguirán aplicando en todo lo que no se opongan a la presente ley, en tanto se expidan las que deban sustituirlas.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendiente de solución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se inician.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los contratos de obra pública y servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+###### ARTICULO OCTAVO.
+
+Al inicio de la vigencia de la Ley de Procedimiento Administrativo, quedará sin efectos en su totalidad, el capitulo VIII de la presente ley.
