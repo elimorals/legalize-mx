@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1979-01-02"
+last_updated: "1979-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -631,9 +631,11 @@ La declaración de haber lugar a formación de causa o el permiso para proceder 
 
 A excepción de los Funcionarios de elección popular y de los Magistrados, todo empleado público que esté separado con licencia del ejercicio de su encargo, no goza del fuero constitucional que por razón del empleo le pertenecía.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1979)</small>
+
 ###### Art. 55.
 
-La responsabilidad por delitos y faltas oficiales de Funcionarios y Empleados Públicos que gocen del fuero Constitucional, sólo podrá exigirse durante el ejercicio del cargo y un año después.
+La responsabilidad por delitos o faltas oficiales de funcionarios y empleados públicos que gocen del fuero constitucional, sólo podrán exigirse durante el ejercicio del cargo y 4 años después.
 
 ### CAPITULO TERCERO. De las Reformas a la Constitución
 
@@ -838,3 +840,9 @@ P.O. 2 DE ENERO DE 1979.
 PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco" incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 31 DE MAYO DE 1979.
+
+PRIMERO.- Envíese el presente Decreto a los Ayuntamientos del Estado, en los términos y para los efectos del Artículo 66 de la Constitución Política del Estado.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
