@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-municipal-del-estado-libre-y-soberano-de-7272"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-06-09"
-last_updated: "1992-09-30"
+last_updated: "1994-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 9 de junio de 1986.
 
@@ -1513,19 +1513,21 @@ XIII.- Las demás que le señale el reglamento interior o los acuerdos del Ayunt
 
 Los Delegados y Subdelegados Municipales ejercerán las atribuciones a que se refieren los artículos anteriores por acuerdo del Presidente Municipal respectivo, del que dependerán administrativamente.
 
-### CAPITULO SEPTIMO. ORGANOS DE PARTICIPACION Y COLABORACION CIUDADANA
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
+### CAPITULO SEPTIMO. DE LAS RELACIONES LABORALES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 141.
 
-En los centros de población que por su diversidad demográfica o extensión territorial sean considerados como importantes por el Ayuntamiento, a propuesta del Presidente Municipal, se procurará que las delegaciones que se establezcan, procuren la participación de sus habitantes en el ámbito de la propia delegación, en el planteamiento y solución de sus problemas y para el eficaz cumplimiento de sus funciones.
+Las relaciones laborales de los municipios y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MAYO DE 1987)</small>
 
-### CAPITULO OCTAVO. DE LA RELACION DEL TRABAJO EN LOS MUNICIPIOS
+### CAPITULO OCTAVO. ORGANOS DE PARTICIPACION Y COLABORACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 142.
 
@@ -1719,17 +1721,41 @@ Cuando estas propuestas impliquen acciones o programas específicos o bien condu
 
 Los Comités de Vecinos tendrán así mismo la función de promover la mutua ayuda entre los residentes de su zona, previniendo también la forma de organizarse en caso de emergencias urbanas, incendios, ciclones y en general cualquier desastre que afecte la vida comunitaria.
 
-### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 1994)</small>
 
-###### ARTICULO 168.
+### CAPITULO NOVENO. CRONISTA DE LA CIUDAD
 
-Las Relaciones Laborales de los Municipios, incluyendo sus Organos Descentralizados, y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de los Poderes Legislativo Ejecutivo y Judicial, de los Ayuntamientos y de los Organos Descentralizados del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### Artículo 168.
+
+Para conservar, promover, investigar y difundir el acervo histórico y cultural de las comunidades del municipio, el ayuntamiento designará a propuesta del Presidente Municipal a un Cronista de la Ciudad, el cual tendrá las siguientes funciones:
+
+I.- Llevar el registro de los sucesos notables de su comunidad.
+
+II.- Investigar, conservar, exponer y promover las manifestaciones de la cultura local.
+
+III.- Elaborar el inventario de monumentos arqueológicos y artísticos que se encuentren en el territorio del Municipio.
+
+IV.- Proponer al Ayuntamiento nombres para los nuevos centros de población, colonias, calles, parques, escuelas y en general lugares públicos, basándose en razones históricas o culturales.
+
+V.- Proponer la adopción del escudo y lema de su comunidad.
+
+VI.- Opinar sobre la preservación, restauración y modificación de monumentos históricos, edificios, jardines, calles o plazas, con objeto de que conserven su valor histórico o cultural.
+
+VII.- Promover el rescate documental de la historia de la ciudad.
+
+VIII.- Integrar colecciones bibliográficas, fotográficas, fílmicas y museográficas.
+
+IX.- Publicar y difundir trabajos e investigaciones de carácter histórico, artístico o cultural de interés para la comunidad.
+
+Los Ayuntamientos proporcionarán, de acuerdo a las previsiones del presupuesto de egresos, los recursos de los materiales y equipos para el buen desempeño de las funciones de los cronistas.
+
+El cargo de Cronista de la Ciudad será honorífico y vitalicio y sólo podrá ser removido por acuerdo del Ayuntamiento por incumplimiento de sus obligaciones, desavecindarse del Municipio por más de seis meses consecutivos o por renuncia.
 
 ## TITULO IX. DE LAS GARANTIAS, RECURSOS, RESPONSABILIDADES Y SANCIONES
 
-### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y EMPLEADOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+### CAPITULO PRIMERO. DE LAS GARANTIAS Y RECURSOS
 
 ###### ARTICULO 169.
 
@@ -1745,7 +1771,9 @@ El Secretario del Ayuntamiento recibirá los recursos y de inmediato los hará d
 
 En caso de urgencia, el Presidente Municipal al conocer de los recursos, podrá convocar a sesiones extraordinarias.
 
-### CAPITULO TERCERO. DE LAS SANCIONES
+### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y EMPLEADOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
 
 ###### ARTICULO 171.
 
@@ -1756,6 +1784,8 @@ Los Servidores Públicos Municipales serán responsables de los delitos, actos, 
 ###### ARTICULO 172.
 
 Las faltas de los miembros del Ayuntamiento podrán ser sancionados por el Ejecutivo del Estado con la aprobación de la Legislatura.
+
+### CAPITULO TERCERO. DE LAS SANCIONES
 
 ###### ARTICULO 173.
 
@@ -1838,3 +1868,9 @@ SEGUNDO.- Los primeros procesos para elegir a los miembros de las Alcaldías se 
 TERCERO.- Los Ayuntamientos que determinen crear Alcaldías para alguna de sus poblaciones, quedan facultados para determinar las asignaciones y, en su caso, las ampliaciones presupuestales proporcionales y necesarias para el período que falta del año fiscal 1992.
 
 CUARTO.- Los Ayuntamientos, incluirán en forma permanente en sus Respectivos Presupuestos, los correspondientes a las Alcaldías, a partir del ejercicio fiscal de 1993.
+
+P.O. 31 DE ENERO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
