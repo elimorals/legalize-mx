@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "1997-08-19"
+last_updated: "2000-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -150,9 +150,11 @@ En el conjunto de participaciones a los municipios, no se incluirán aquellas a 
 
 Las cantidades excedentes se distribuirán de acuerdo a lo establecido en el artículo quinto de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 11.
 
-Las participaciones que correspondan a los municipios son inembargables, no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen el pago de obligaciones contraídas por los mismos, con autorización de los cabildos y cuando rebasen el término de su administración con la autorización del Congreso del Estado.
+Las participaciones que correspondan a los municipios son inembargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo cuando garanticen el pago de obligaciones contraídas por los mismos, con autorización del ayuntamiento y cuando rebasen el término de su administración, con el acuerdo de las dos terceras partes de los integrantes del ayuntamiento.
 
 Las participaciones que correspondan a los municipios otorgadas en garantía de obligaciones a su cargo deberán ser inscritas en la Secretaría de Finanzas, en el registro estatal de deuda pública.
 
@@ -206,7 +208,9 @@ XI. Cualquiera otra necesaria.
 
 En los convenios a que se refiere el artículo anterior, se establecerán los ingresos de que se trate, las facultades que se ejercerán y las limitaciones de las mismas, así como las estipulaciones para su terminación y las sanciones por su incumplimiento; y se fijarán las percepciones que se recibirán por las actividades de administración o recaudación que se efectúan.
 
-Cuando los convenios que se celebren, rebasen la gestión administrativa que los subscribe, requerirán de la autorización del Congreso del Estado. Dichos convenios se publicarán en el Periódico Oficial "El Estado de Jalisco" y surtirán sus efectos a partir del día hábil siguiente al de su publicación.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+Cuando los convenios que se celebren, rebasen la gestión administrativa estatal, se requerirá de la autorización del Congreso del Estado; tratándose de los ayuntamientos, éstos deberán acordar la celebración de dichos convenios, con las dos terceras partes de los integrantes del ayuntamiento.
 
 ###### Artículo 17.
 
@@ -343,3 +347,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 19 DE AGOSTO DE 1997.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- se derogan todas las disposiciones que se opongan al presente decreto.
