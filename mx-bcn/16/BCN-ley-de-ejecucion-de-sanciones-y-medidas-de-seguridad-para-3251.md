@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2001-10-31"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -293,11 +293,31 @@ Los menores infractores estarán a cargo de la Subsecretaría, a través del Con
 
 Además de los establecimientos de reclusión, la Subsecretaría, organizará centros de tratamiento abierto, en el que los internos se ocuparán de labores agrícolas, ganaderas y artesanales, entre otras, o se organizarán para desempeñar trabajos en construcciones o industrias ubicadas fuera de los centros penitenciarios, sean de carácter público o privado.
 
-### CAPITULO I. DE LA CLASIFICACION JURIDICA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO IV. DEL SUMINISTRO DE PRODUCTOS, SERVICIOS Y MANEJO DE RECURSOS EN LOS ESTABLECIMIENTOS DE READAPTACION SOCIAL
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 29 Bis.
+
+Queda prohibido a los reclusos, el ejercicio del comercio de productos y servicios dentro de las instalaciones penitenciarias; a quienes incumplan con esta disposición se les impondrán las sanciones que correspondan en los términos del Reglamento correspondiente.
+
+La Dirección de Prevención y Readaptación Social, es la responsable de supervisar y vigilar en los centros penitenciarios del Estado de Baja California, el estricto cumplimiento de esta disposición legal.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 29 Ter.
+
+La Dirección de Prevención y Readaptación Social deberá organizar y operar en cada uno de los centros penitenciarios en el Estado, unidades de abastecimiento de productos, servicios alimentarios y de higiene, para ser ofertados a los reclusos a precios competitivos en el mercado local, mediante el sistema de canje de vales, derivados de los depósitos monetarios en efectivo que se realicen a favor de los reclusos o provenientes de los rendimientos económicos del trabajo penitenciario de los internos, en los términos que establezca el Reglamento.
+
+La Dirección de Prevención y Readaptación Social, deberá supervisar y vigilar que las unidades de abastecimiento, racionalicen el consumo y distribución de los productos, servicios alimentarios y de higiene.
+
+Los Beneficios económicos que generen el suministro de los productos, servicios alimentarios y de higiene, deberán ejercerse en los programas oficiales de readaptacdión (sic) social de los reclusos implementados en los centros de Readaptación Social en el Estado.
 
 ## TITULO TERCERO. DE LOS INTERNOS
 
-### CAPITULO II. DE LA IGUALDAD Y DIGNIDAD DE LOS INTERNOS
+### CAPITULO I. DE LA CLASIFICACION JURIDICA
 
 ###### ARTICULO 30.
 
@@ -313,9 +333,7 @@ III.- Condenados o reos, desde que se comunique oficialmente a la Dirección del
 
 IV.- Exhortados, cuando se encuentren a disposición de una autoridad extranjera o de otro lugar de la República, mientras se realiza su traslado, conforme al exhorto cumplimentado y los convenios y tratados respectivos.
 
-### CAPITULO III. DEL VESTIDO
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+### CAPITULO II. DE LA IGUALDAD Y DIGNIDAD DE LOS INTERNOS
 
 ###### ARTICULO 31.
 
@@ -335,7 +353,7 @@ Ningún interno podrá desempeñar funciones de autoridad o ejercer, dentro del 
 
 En los centros penitenciarios no se permitirá la tortura, el maltrato físico o moral, la asignación por medio de la fuerza a labores o servicios no retribuidos y, en general, cualquier acto que menoscabe la dignidad de los internos. Quedan estrictamente prohibidas, por lo tanto, las prácticas médicas experimentales en su perjuicio, y la donación de órganos en vida, fuera de las hipótesis previstas en la Ley General de Salud.
 
-### CAPITULO IV. DE LA ALIMENTACION
+### CAPITULO III. DEL VESTIDO
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -343,13 +361,15 @@ En los centros penitenciarios no se permitirá la tortura, el maltrato físico o
 
 Los internos podrán usar sus propias prendas de vestir, siempre que sean limpias y decorosas, a menos que la autoridad se las proporcione. En ningún caso se les obligará a usar prendas infamantes.
 
-### CAPITULO V. DE LOS SERVICIOS MEDICOS
+### CAPITULO IV. DE LA ALIMENTACION
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 36.
 
 Todo recluso recibirá alimentación higiénica y de buena calidad, cuyo valor nutritivo sea suficiente para el mantenimiento de su salud. Los internos tendrán derecho a recibir alimentos del exterior, bajo el control sanitario y de seguridad que sea necesario.
 
-### CAPITULO VI. DE LAS VISITAS
+### CAPITULO V. DE LOS SERVICIOS MEDICOS
 
 ###### ARTICULO 37.
 
@@ -373,7 +393,7 @@ Los médicos del centro deberán poner en conocimiento del Director, los casos d
 
 El área médica de los centros deberá realizar, periódicamente, eventos de medicina preventiva y planificación familiar, a los que podrán asistir los cónyuges o las concubinas o concubinos de los internos.
 
-### CAPITULO VII. DE LA COMUNICACION, INFORMACION Y EDUCACION DE LOS INTERNOS
+### CAPITULO VI. DE LAS VISITAS
 
 ###### ARTICULO 42.
 
@@ -391,7 +411,7 @@ La visita íntima tendrá por objeto principal, el mantenimiento de la relación
 
 Debe procurarse la reincorporación social de los internos, mediante la organización de los ciudadanos y de las instituciones o asociaciones públicas y privadas de asistencia social. En consecuencia, los centros de readaptación podrán ser visitados, con autorización del director y tomando las medidas de seguridad que sean necesarias, por todas aquellas personas que teniendo un concreto interés en la readaptación de los reclusos, demuestren su capacidad para promover el contacto entre la comunidad de internos y la sociedad libre. Se combatirá a través de esta participación la toxicomanía, el alcoholismo y todos los vicios que degradan al individuo.
 
-### CAPITULO VIII. DE LA RELIGION
+### CAPITULO VII. DE LA COMUNICACION, INFORMACION Y EDUCACION DE LOS INTERNOS
 
 ###### ARTICULO 46.
 
@@ -413,13 +433,13 @@ Por lesionar el proceso de readaptación de los internos, queda terminantemente 
 
 Los internos que no hayan concluido su educación primaria y secundaria, tendrán la obligación de asistir a los cursos de estos niveles, independientemente de su situación jurídico-procesal, y sin perjuicio de que asistan voluntariamente a cursos de otros niveles de carácter escolar o técnico.
 
-### CAPITULO IX. DEL DEPOSITO DE OBJETOS
+### CAPITULO VIII. DE LA RELIGION
 
 ###### ARTICULO 50.
 
 Los Directores de los Centros permitirán, a solicitud de los internos y de acuerdo al reglamento respectivo, que éstos reciban asistencia espiritual dentro del establecimiento, y autorizarán la celebración del rito respectivo, siempre que no alteren el orden y la seguridad del centro y exista un número suficiente de internos afiliados a esa religión, considerando que esta actividad constituye un importante medio de readaptación social.
 
-### CAPITULO X. DE LAS NOTIFICACIONES DE DEFUNCION, ENFERMEDADES Y TRASLADOS
+### CAPITULO IX. DEL DEPOSITO DE OBJETOS
 
 ###### ARTICULO 51.
 
@@ -427,9 +447,7 @@ Los objetos de valor, ropas y otros bienes que el interno posea a su ingreso o q
 
 En el caso de que el recluso sea portados (sic) de estupefacientes o de otros objetos prohibidos, éstos serán puestos a disposición de la autoridad competente para los efectos previstos en la Ley.
 
-### CAPITULO XI. DE LA DISCIPLINA Y SANCIONES
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+### CAPITULO X. DE LAS NOTIFICACIONES DE DEFUNCION, ENFERMEDADES Y TRASLADOS
 
 ###### ARTICULO 52.
 
@@ -441,7 +459,9 @@ Se informará inmediatamente al interno, de cualquier enfermedad grave, debidame
 
 Todo interno tendrá derecho de comunicar inmediatamente a la persona que estime pertinente, su detención o traslado a otro establecimiento.
 
-### CAPITULO XII. DEL EXPEDIENTE Y CONTROL DE INTERNOS
+### CAPITULO XI. DE LA DISCIPLINA Y SANCIONES
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 53.
 
@@ -519,9 +539,7 @@ Los internos serán recompensados en forma pública o privada por sus hechos mer
 
 Para los efectos de esta Ley, se entiende por buena conducta del interno, además de su disciplina, su disciplina (sic), su disposición para mejorar cultural y laboralmente, su cooperación para el mantenimiento del orden interno, así como cualquier otra manifestación que revele un firme deseo de readaptación social.
 
-### CAPITULO XIII. DEL TRASLADO DE INTERNOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO XII. DEL EXPEDIENTE Y CONTROL DE INTERNOS
 
 ###### ARTICULO 60.
 
@@ -557,7 +575,9 @@ V.- El día y hora de su salida y motivo de la misma.
 
 VI.- Los informes sobre su comportamiento, en el caso de haber gozado de beneficios penitenciarios, especificando si se han revocado o se han extinguido las penas impuestas.
 
-### CAPITULO XIV. DE LAS REGLAS ESPECIALES PARA INDICIADOS Y PROCESADOS
+### CAPITULO XIII. DEL TRASLADO DE INTERNOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 62.
 
@@ -567,7 +587,7 @@ Cuando se trate de procesados, se recabará previamente la autorización del Jue
 
 En el caso de reos del fuero local, su traslado a Instituciones Federales, del Distrito Federal o de otros Estados, deberá ser materia de convenios específicos.
 
-### CAPITULO XV. DE LAS REGLAS ESPECIALES PARA CONDENADOS Y REOS
+### CAPITULO XIV. DE LAS REGLAS ESPECIALES PARA INDICIADOS Y PROCESADOS
 
 ###### ARTICULO 63.
 
@@ -593,7 +613,7 @@ Los inculpados no están obligados a trabajar dentro del Centro Penitenciario, p
 
 Los indiciados y procesados tienen derecho a una adecuada comunicación con su defensor. Las conversaciones de los internos con sus abogados no podrán ser escuchadas por ningún empleado o funcionario del Centro Penitenciario, pero la entrevista podrá ser vigilada a distancia por razones de seguridad.
 
-### CAPITULO I. DE LA NATURALEZA Y PERIODOS
+### CAPITULO XV. DE LAS REGLAS ESPECIALES PARA CONDENADOS Y REOS
 
 ###### ARTICULO 68.
 
@@ -603,7 +623,7 @@ Para fines de tratamiento, se les permitirá una adecuada comunicación con su f
 
 ## TITULO CUARTO. DEL SISTEMA DE READAPTACION SOCIAL
 
-### CAPITULO II. DEL TRATAMIENTO PENITENCIARIO
+### CAPITULO I. DE LA NATURALEZA Y PERIODOS
 
 ###### ARTICULO 69.
 
@@ -633,7 +653,7 @@ IV.- Otorgamiento de formas de preliberación consistentes en salidas de fin de 
 
 La fase de reintegración, después de la liberación plena del sujeto, se realiza vigilando el cumplimiento de las condiciones impuestas a la libertad preparatoria, otorgando albergue y alimentación provisional al recién liberado, así como apoyo para obtener empleo y comunicación con su familia, a través del patronato para liberados.
 
-### CAPITULO III. DE LA CAPACITACION Y DEL TRABAJO PENITENCIARIO
+### CAPITULO II. DEL TRATAMIENTO PENITENCIARIO
 
 ###### ARTICULO 74.
 
@@ -643,7 +663,7 @@ El tratamiento penitenciario debe ser aplicado con absoluta imparcialidad y gara
 
 La finalidad inmediata del tratamiento será la modificación de las tendencias o inclinaciones antisociales de los condenados a pena privativa de libertad, y facilitarles la adquisición de actitudes, hábitos, técnicas y conocimientos que puedan serles útiles en su vida libre.
 
-### CAPITULO IV. DE LA EDUCACION
+### CAPITULO III. DE LA CAPACITACION Y DEL TRABAJO PENITENCIARIO
 
 ###### ARTICULO 76.
 
@@ -699,9 +719,7 @@ El Reglamento Interior de Reclusorios fijará la jornada laboral de los internos
 
 Están exceptuados de la obligación de trabajar, los sentenciados mayores de sesenta años, los que padezcan alguna enfermedad que les imposibilite para el trabajo y las mujeres, durante cuarenta y dos días antes del parto y los treinta siguientes al mismo. Sin embargo, estas personas podrán dedicarse a la ocupación que voluntariamente elijan, siempre que no sea perjudicial a su salud o incompatible con el régimen de la institución. Los sentenciados que se nieguen a trabajar, no estando en ninguno de los casos anteriores, serán corregidos disciplinariamente y su persistencia influirá en la negación de la libertad preparatoria, la preliberación y, en su caso, en la aplicación de la retención.
 
-### CAPITULO V. DE LAS RELACIONES FAMILIARES
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+### CAPITULO IV. DE LA EDUCACION
 
 ###### ARTICULO 81.
 
@@ -725,7 +743,9 @@ Independientemente de la asistencia de los internos a eventos programados desde 
 
 El régimen educativo al que quedarán sujetos los ancianos, enfermos mentales, sordomudos y ciegos, será fijado por el Consejo Técnico Interdisciplinario.
 
-### CAPITULO VI. DEL APOYO PSICOLOGICO
+### CAPITULO V. DE LAS RELACIONES FAMILIARES
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 84.
 
@@ -741,9 +761,7 @@ IV.- Procurará apoyar y capacitar al cónyuge o concubino libre, para atender e
 
 V.- Dará asesoría psicológica a los cónyuges o concubinos para solucionar los problemas de pareja.
 
-### CAPITULO I. DE LA MODIFICACION DE LAS CONDICIONES DE APLICACION
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO VI. DEL APOYO PSICOLOGICO
 
 ###### ARTICULO 85.
 
@@ -771,7 +789,7 @@ Al cumplir el interno las condiciones para ingresar al régimen de preliberació
 
 ## TITULO QUINTO. MODIFICACION DE LAS SANCIONES O MEDIDAS IMPUESTAS
 
-### CAPITULO II. DE LA CONMUTACION ADMINISTRATIVA
+### CAPITULO I. DE LA MODIFICACION DE LAS CONDICIONES DE APLICACION
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -785,7 +803,9 @@ Cuando el interno acredite plenamente que no puede cumplir alguna de las modalid
 
 En el caso de internos condenados por delitos culposos, la Subsecretaría, previo acuerdo con el Consejo Técnico Interdisciplinario, podrá alojarles en instituciones abiertas.
 
-### CAPITULO III. DE LA LIBERTAD PREPARATORIA
+### CAPITULO II. DE LA CONMUTACION ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 91.
 
@@ -793,7 +813,7 @@ Tratándose de ancianos mayores de sesenta y cinco años, enfermos, o de mujeres
 
 En cualquier caso, en tratándose de trastornados o retardados mentales, se remitirán previa certificación del consejo técnico interdisciplinario a una institución de salud mental y en ningún caso serán recluídos en centro penitenciario alguno.
 
-### CAPITULO IV. DE LA REMISION PARCIAL DE LA PENA
+### CAPITULO III. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTICULO 92.
 
@@ -863,7 +883,7 @@ I.- Cuando el liberado viole las condiciones establecidas en el Artículo 93 de 
 
 II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se hará de oficio, una vez que se dicte el auto de formal prisión o sujeción a proceso contra el liberado. Si el nuevo delito es culposo, la Subsecretaría, podrá revocar la libertad preparatoria, de acuerdo a la peligrosidad del sujeto y la gravedad del daño causado, o apercibir al liberado que si vuelve a realizar un nuevo ilícito imprudencial le será revocado el beneficio.
 
-### CAPITULO V. DE LA PRELIBERACION
+### CAPITULO IV. DE LA REMISION PARCIAL DE LA PENA
 
 ###### ARTICULO 100.
 
@@ -879,9 +899,7 @@ Sólo contarán para la remisión parcial de la pena, las jornadas efectivamente
 
 La remisión de la pena se otorgará, sin perjuicio de cualquier otro beneficio concedido por esta Ley a los internos, pero deberá negarse invariablemente, si el dictamen del Consejo Técnico Interdisciplinario no avala la readaptación social del sujeto.
 
-### CAPITULO VI. DE LA VIGILANCIA Y REVOCACION DE LOS BENEFICIOS PENITENCIARIOS
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO V. DE LA PRELIBERACION
 
 ###### ARTICULO 103.
 
@@ -919,7 +937,9 @@ V.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 1998)
 
 Los internos que consideren tener derecho a cualquiera de los beneficios establecidos en esta Ley, podrán solicitarlo por escrito ante el Director del Centro; quien deberá tramitar lo conducente conforme a los requisitos señalados en esta Ley.
 
-### CAPITULO VII. DE LA RETENCION PENITENCIARIA
+### CAPITULO VI. DE LA VIGILANCIA Y REVOCACION DE LOS BENEFICIOS PENITENCIARIOS
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 107.
 
@@ -947,7 +967,7 @@ Quienes gocen de libertad preparatoria o suspensión condicional de la pena, pue
 
 A excepción de la causal prevista por el Artículo 99 Fracción II de esta Ley, ningún beneficio será revocado sino a través de un procedimiento sumario y unistancial, seguido ante la Subsecretaría, en el que será oído el interesado y demostrado plenamente la causa de la revocación. Si el beneficio se revoca, se ordenará la detención del sujeto para que cumpla el resto de la pena.
 
-### CAPITULO I. DE LA LIBERACION
+### CAPITULO VII. DE LA RETENCION PENITENCIARIA
 
 ###### ARTICULO 111.
 
@@ -963,7 +983,7 @@ A excepción de la causal prevista por el Artículo 99 Fracción II de esta Ley,
 
 ## TITULO SEXTO. LIBERACION Y PROTECCION DE LIBERADOS
 
-### CAPITULO II. DE LOS DERECHOS DEL LIBERADO
+### CAPITULO I. DE LA LIBERACION
 
 ###### ARTICULO 114.
 
@@ -979,7 +999,7 @@ Cuando el período de buen comportamiento haya concluido y el liberado no haya i
 
 Al quedar el reo en libertad, por cualquier causa, se le hará entrega de la cantidad acumulada en su fondo de ahorros y de las pertenencias que tuviera depositadas. En caso de fallecimiento del interno durante su reclusión, sus ahorros y pertenencias se entregarán a las personas designadas por éste la (sic) ingresar al centro, previa identificación y formal recibo.
 
-### CAPITULO III. DEL PATRONATO PARA LIBERADOS
+### CAPITULO II. DE LOS DERECHOS DEL LIBERADO
 
 ###### ARTICULO 117.
 
@@ -993,7 +1013,7 @@ Tomando en cuenta este principio, los liberados, durante el período inmediato a
 
 El Estado procurará, de acuerdo con sus posibilidades económicas, establecer albergues provisionales para los recién liberados que no tengan donde alojarse y, en los casos de extrema miseria, proporcionará alimentos y cubrirá los gastos de traslado del interno hasta el lugar donde habita su familia, sin perjuicio de la intervención protectora del Patronato para liberados.
 
-### CAPITULO I. DE LOS MENORES INFRACTORES
+### CAPITULO III. DEL PATRONATO PARA LIBERADOS
 
 ###### ARTICULO 120.
 
@@ -1009,9 +1029,7 @@ La asistencia que otorgue el patronato no tendrá carácter policial y, en la me
 
 ## TITULO SEPTIMO. DE LA APLICACION DE MEDIDAS DE SEGURIDAD PARA INIMPUTABLES
 
-### CAPITULO II. DE LOS INIMPUTABLES POR DEFECTOS MENTALES
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO I. DE LOS MENORES INFRACTORES
 
 ###### ARTICULO 123.
 
@@ -1023,7 +1041,9 @@ Los menores que estando sometidos a medidas reeducativas en centros de detenció
 
 Para que un menor sea entregado en custodia familiar, es necesario que se someta, por todo el tiempo que determine el Consejo, a actividades terapéuticas con la participación obligatoria de los que ejerzan la patria potestad o la tutela.
 
-### CAPITULO I. DEL TRATAMIENTO DE DESHABITUACION
+### CAPITULO II. DE LOS INIMPUTABLES POR DEFECTOS MENTALES
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 125.
 
@@ -1041,13 +1061,13 @@ La Subsecretaría, oyendo la opinión del responsable del centro respectivo, pod
 
 ## TITULO OCTAVO. DE LA APLICACION DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD PARA IMPUTABLES
 
-### CAPITULO II. DE LA SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES Y EMPLEOS
+### CAPITULO I. DEL TRATAMIENTO DE DESHABITUACION
 
 ###### ARTICULO 128.
 
 Independientemente de la imputabilidad del interno, cuando el delito por el que se le acusa esté vinculado con el uso persistente de bebidas alcohólicas, estupefacientes, psicotrópicos o cualquier substancia de efectos similares, la Dirección del Centro le aplicará un tratamiento de deshabituación o desintoxicación que no excederá de seis meses, cualquiera que sea la pena que se le imponga.
 
-### CAPITULO III. DE LA PROHIBICION DE IR O RESIDIR EN LUGAR DETERMINADO
+### CAPITULO II. DE LA SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES Y EMPLEOS
 
 ###### ARTICULO 129.
 
@@ -1061,15 +1081,15 @@ En el caso de suspensión o privación de funciones, empleos o profesiones, la a
 
 Cuando se haya decretado la inhabilitación, se notificará a la Secretaría General de Gobierno para que notifique a todas las dependencias del Estado y a los Municipios, dicha resolución.
 
-### CAPITULO IV. DE LA VIGILANCIA DE AUTORIDAD
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO III. DE LA PROHIBICION DE IR O RESIDIR EN LUGAR DETERMINADO
 
 ###### ARTICULO 131.
 
 Cuando la autoridad judicial condene al responsable de un delito, a no ir a lugar determinado o a no residir en él, notificará esta medida al Presidente Municipal de dicha circunscripción, identificando plenamente a la persona y el plazo de suspensión de este derecho, para que éste tome las providencias necesarias.
 
-### CAPITULO V. DE LA AMONESTACION
+### CAPITULO IV. DE LA VIGILANCIA DE AUTORIDAD
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 132.
 
@@ -1085,21 +1105,19 @@ Cuando la Autoridad judicial suspenda condicionalmente la aplicación de la pena
 
 La vigilancia consistirá en observar y orientar la conducta del sujeto, por todo el tiempo de la pena suspendida, a fin de constatar el cumplimiento de las condiciones impuestas y, en su caso, informar al Juez correspondiente cualquier violación, para que proceda a revocar el beneficio cuando resulte procedente.
 
-### CAPITULO VI. DEL DECOMISO DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
+### CAPITULO V. DE LA AMONESTACION
 
 ###### ARTICULO 134.
 
 (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
-### CAPITULO VII. DE LA SANCION PECUNIARIA
+### CAPITULO VI. DEL DECOMISO DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO
 
 ###### ARTICULO 135.
 
 (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
-### CAPITULO VIII. DEL TRABAJO EN FAVOR DE LA COMUNIDAD
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+### CAPITULO VII. DE LA SANCION PECUNIARIA
 
 ###### ARTICULO 136.
 
@@ -1113,7 +1131,9 @@ La vigilancia consistirá en observar y orientar la conducta del sujeto, por tod
 
 (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
-### CAPITULO IX. DEL SERVICIO SOCIAL DE PASANTES Y DEL VOLUNTARIADO
+### CAPITULO VIII. DEL TRABAJO EN FAVOR DE LA COMUNIDAD
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 139.
 
@@ -1140,6 +1160,8 @@ Si el obligado se presenta, la Subsecretaría, hará un estudio de sus capacidad
 La Subsecretaría, como autoridad ejecutora, se encargará de orientar y vigilar el trabajo en comunidad, asegurándose que éste no resulte degradante para el condenado.
 
 Cuando el obligado solicite que se le cambie la institución, el tipo de trabajo o el horario fijado, la Dependencia que señale el Reglamento Interno de la Secretaría de Seguridad Pública, resolverá lo conducente, pero cuando incumpla reiteradamente sus obligaciones, será apercibido por la autoridad ejecutora y denunciado ante el Agente del Ministerio Público en caso de que persista en su desobediencia.
+
+### CAPITULO IX. DEL SERVICIO SOCIAL DE PASANTES Y DEL VOLUNTARIADO
 
 ###### ARTICULO 143.
 
@@ -1222,3 +1244,17 @@ I a III...
 IV.- Organizar la Subsecretaría, que se ocupará de la ejecución de la pena de trabajo en comunidad en los términos del capítulo VIII de esta Ley.
 
 TERCERO.- Los reglamentos administrativos y demás disposiciones normativas que resulten afectadas por las presentes Reformas, deberán adecuarse a sus términos en un plano no mayor de sesenta días.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro del término de treinta días naturales, a partir de la publicación de este Decreto, la Secretaría Jurídica y Prevención Social emitirá los Reglamentos correspondientes y adecuará la normatividad existente con base en las disposiciones del presente.
+
+TERCERO.- La Secretaría Jurídica y Prevención Social procederá, en el caso de centros de reclusorios actualmente en operación, a la implementación de las medidas adecuadas para ejecutar las disposiciones del presente Decreto, a efecto de instalar de manera paulatina y ordenada las unidades de abastecimiento a que se hace mención, debiendo rendir, a la Dirección de Control y Evaluación Gubernamental, un informe de los avances alcanzados en un plazo de seis años, a partir de la iniciación de la vigencia que se establece en el transitorio primero.
+
+CUARTO.- Los bienes, productos y servicios propiedad de los internos se cambiarán por vales de mercancía de acuerdo con el valor del mercado o, a petición del reo, se entregarán a sus familiares.
+
+QUINTO.- La Dirección de Control y Evaluación Gubernamental asignará el personal necesario para dar cumplimiento al transitorio cuarto y, en su caso, instruirá los procedimientos y acciones que deriven de cualquier incumplimiento.
+
+SEXTO.- La Secretaría de Planeación y Finanzas del Estado coadyuvará con los Directores de los Centros de Readaptación Social del Estado, en el control y supervisión de los recursos que deriven de lo dispuesto por el transitorio cuarto, asignando el personal competente al efecto.
