@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1993-07-25"
+last_updated: "1993-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -431,10 +431,6 @@ Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de l
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -521,7 +517,7 @@ El Primero de Septiembre de cada año, al inicio de las sesiones del Congreso, e
 
 El Gobernador, dentro de los últimos quince días de su mandato, enviará al Congreso una memoria en la que expondrá la situación prevaleciente en todos los ramos de la administración pública.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ## TITULO TERCERO
 
@@ -781,7 +777,11 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -1025,9 +1025,9 @@ XXVIII.- Crear por Decreto, Organismos Descentralizados, empresas de participaci
 
 XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1993)</small>
 
-XXX.- Celebrar convenios con la Federación o Municipios con respecto a la Administración y recaudación de las contribuciones; así como también podrá celebrar convenios con la Federación y sus Municipios relativos a que se asuman por unos u otros la ejecución y operación de obras; y la prestación de servicios públicos cuando el desarrollo económico y social lo haga necesario;
+XXX.- Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento;
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -1524,6 +1524,10 @@ j).- Los demás que la Legislatura del Estado determine, según las condiciones 
 Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
 
 El Estado podrá celebrar convenios, en los términos de Ley, con los Municipios, a fin de que éstos asuman la ejecución y la operación de obras y la prestación de servicios, cuando el desarrollo econámico (sic) y social lo haga necesario.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1993)</small>
+
+Los Municipios, previo acuerdo de sus Ayuntamientos, podrán concesionar a los particulares la ejecución y operación de obras, así como la prestación de los servicios públicos que les correspondan, cuando por razones económicas, sociales o técnicas así se requiera.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
@@ -2150,3 +2154,13 @@ P.O. 25 DE JULIO DE 1993.
 ###### ARTICULO TERCERO
 
 - Una vez que la presente reforma constitucional haya sido aprobada por las dos terceras partes del Honorable Congreso del Estado, envíese copia del Acuerdo correspondiente a los HH. Ayuntamientos integrantes de nuestro Estado, para su aprobación, y una vez recibidas las aprobaciones de los HH. Ayuntamientos, efectúese el cómputo especificado en la Fracción II del artículo 130 de nuestra Constitución Política Local, y si del cómputo referido se obtiene la aprobación por la mayoría de los Ayuntamientos, hágase la declaración de que la adición contenida en este Decreto ha sido aprobada; hecho lo anterior, envíese el Decreto correspondiente al Titular del Poder Ejecutivo del Estado, para que se le dé el trámite legal correspondiente.
+
+P.O. 19 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
