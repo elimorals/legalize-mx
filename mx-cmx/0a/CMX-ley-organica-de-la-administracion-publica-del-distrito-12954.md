@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2002-01-31"
+last_updated: "2004-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -68,29 +68,35 @@ Para los efectos de esta Ley se entiende por:
 
 I. Administración pública centralizada. Las dependencias y los órganos desconcentrados;
 
-II. Administración pública desconcentrada. Los órganos político administrativos de cada demarcación territorial genéricamente denominados Delegaciones del Distrito Federal y los órganos administrativos constituidos por el Jefe de Gobierno, jerárquicamente subordinados al propio Jefe de Gobierno o a la dependencia que éste, determine;
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
-III. Administración pública paraestatal. El conjunto de entidades.
+II. Administración pública desconcentrada. Los órganos administrativos constituidos por el Jefe de Gobierno, jerárquicamente subordinados al propio Jefe de gobierno o a la dependencia que éste determine;
 
-IV. Administración pública. El conjunto de órganos que componen la administración centralizada, desconcentrada y paraestatal;
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
-V. Asamblea Legislativa. La Asamblea Legislativa del Distrito Federal;
+III. Delegaciones. Los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
 
-VI. Demarcación territorial. Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de organización político administrativa;
+IV. Administración pública paraestatal. El conjunto de entidades.
 
-VII. Dependencias. Las Secretarías, la Procuraduría General de Justicia del Distrito Federal, la Oficialía Mayor, la Contraloría General y la Consejería Jurídica y de Servicios Legales;
+V. Administración pública. El conjunto de órganos que componen la administración centralizada, desconcentrada y paraestatal;
 
-VIII. Entidades. Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
+VI. Asamblea Legislativa. La Asamblea Legislativa del Distrito Federal;
 
-IX. Estatuto de Gobierno. El Estatuto de Gobierno del Distrito Federal;
+VII. Demarcación territorial. Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de organización político administrativa;
 
-X. Jefe de Gobierno. El Jefe de Gobierno del Distrito Federal;
+VIII. Dependencias. Las Secretarías, la Procuraduría General de Justicia del Distrito Federal, la Oficialía Mayor, la Contraloría General y la Consejería Jurídica y de Servicios Legales;
 
-XI. Ley. La Ley Orgánica de la Administración Pública del Distrito Federal;
+IX. Entidades. Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
-XII. Reglamento. El Reglamento Interior de la Administración Pública del Distrito Federal; y
+X. Estatuto de Gobierno. El Estatuto de Gobierno del Distrito Federal;
 
-XIII. Servicio Público. La actividad organizada que realice o concesione la Administración Pública conforme a las disposiciones jurídicas vigentes en el Distrito Federal, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo.
+XI. Jefe de Gobierno. El Jefe de Gobierno del Distrito Federal;
+
+XII. Ley. La Ley Orgánica de la Administración Pública del Distrito Federal;
+
+XIII. Reglamento. El Reglamento Interior de la Administración Pública del Distrito Federal; y
+
+XIV. Servicio Público. La actividad organizada que realice o concesione la Administración Pública conforme a las disposiciones jurídicas vigentes en el Distrito Federal, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo.
 
 ###### Artículo 4o.
 
@@ -140,7 +146,7 @@ V. Cuajimalpa de Morelos;
 
 VI. Cuauhtémoc;
 
-VIl. Gustavo A. Madero;
+VII. Gustavo A. Madero;
 
 VIII. Iztacalco;
 
@@ -956,7 +962,7 @@ XXX. A través del Organo de Control Interno de la Contraloría General, vigilar
 
 XXXI. Establecer, en coordinación con la Oficialía Mayor y la Secretaría de Finanzas, políticas o lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obra pública de la Administración Pública del Distrito Federal, a efecto de eficientar los recursos y transparentar el manejo de los mismos;
 
-XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y
+XXXII. Intervenir directamente o como coadyuvante, ante las autoridades administrativas o judiciales, en todos los asuntos en que la Contraloría General sea parte, cuando tenga interés jurídico o se afecte el patrimonio del Gobierno del Distrito Federal, y éstos se encuentren relacionados con la (sic) facultades que tiene encomendadas, pudiendo delegar tal atribución, tomando en cuenta la importancia que el asunto revista para el interés público, y
 
 XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1044,9 +1050,11 @@ La Administración Pública del Distrito Federal contará con órganos político
 
 Los titulares de los Organos Político-Administrativo de cada demarcación territorial serán elegidos en forma universal, libre, secreta y directa en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 39.
 
-Corresponde a los titulares de los Organos Político-Administrativos de cada demarcación territorial.
+Corresponde a los titulares de los Órganos Políticos Administrativos de cada demarcación territorial:
 
 I. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la Delegación;
 
@@ -1202,7 +1210,29 @@ LXXVI. Coordinar acciones de participación ciudadana en materia de prevención 
 
 LXXVII. Promover, coordinar y fomentar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, y
 
-LXXVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXVIII. Designar a los servidores públicos de la Delegación, sujetándose a las disposiciones del Servicio Civil de Carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el Jefe de (sic) Delegacional;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXIX. Establecer la estructura organizacional de la Delegación conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXX. Opinar sobre la concesión de servicios públicos que tengan efectos en la Delegación y sobre los Convenios que se suscriban entre el Distrito Federal y la Federación o los Estados o Municipios limítrofes que afecten directamente a la Delegación;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXXI. Proponer el Jefe de Gobierno, los proyectos de Programas Operativos Anuales y de Presupuesto de la Delegación, sujetándose a las estimaciones de ingresos para el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXXII. Coadyuvar con la dependencia de la administración Pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación; y
+
+> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+
+LXXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -1488,7 +1518,7 @@ Los órganos de gobierno controlarán la forma en que los objetivos sean alcanza
 
 ###### Artículo 74.
 
-Los órganos internos de control de las entidades paraestatales estarán adscritos jerarquica, técnica y funcionalmente a la Contraloría General, y tendrán a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme al Reglamento correspondiente y a los lineamientos que emita la Contraloría General del Distrito Federal.
+Los órganos internos de control de las entidades paraestatales estarán adscritos jerárquica, técnica y funcionalmente a la Contraloría General, y tendrán a su cargo las actividades relativas al control y evaluación de la gestión pública de la entidad, conforme al Reglamento correspondiente y a los lineamientos que emita la Contraloría General del Distrito Federal.
 
 T R A N S I T O R I O S
 
@@ -1545,3 +1575,7 @@ G.O. 31 DE ENERO DE 2002.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 43, 44, 46, 61 Y 63 A 66 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL D.F.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
