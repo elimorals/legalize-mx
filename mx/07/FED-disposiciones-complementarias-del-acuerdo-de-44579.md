@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44579"
 country: "mx"
 rank: "otro"
 publication_date: "2002-12-31"
-last_updated: "2003-02-10"
+last_updated: "2004-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,39 +19,101 @@ issue_date: "2002-12-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55 (MULTILATERAL, 2002)
 
-DECRETO POR EL QUE SE CREAN, MODIFICAN, ADICIONAN Y SUPRIMEN DIVERSOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
+DECRETO PARA LA APLICACION DEL PRIMER PROTOCOLO ADICIONAL AL APENDICE I, DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55, SUSCRITO ENTRE EL MERCOSUR Y LOS ESTADOS UNIDOS MEXICANOS
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de febrero de 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO PARA LA APLICACION DEL APENDICE I, DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 55, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR, PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el 27 de mayo de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31, 34 y 35 de la Ley Orgánica de la Administración Pública Federal, y 4o., fracción I, 12, 13 y 14 de la Ley de Comercio Exterior, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que la dinámica del comercio internacional hace necesaria la actualización constante de nuestro marco de clasificación arancelaria, como consecuencia de lo anterior, la Tarifa de la Ley de Impuestos Generales de Importación y Exportación publicada en el Diario Oficial de la Federación el 18 de enero de 2002 ha venido registrando cambios frecuentes, acordes al comportamiento del comercio de mercancías, tanto en lo interno como en lo externo;
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
 
-Que las tendencias de mayor o menor oferta y demanda hacen necesario crear, y o modificar fracciones arancelarias, con el fin de mantener competitividad en el intercambio de determinadas mercancías;
+Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos, la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay suscribieron el 27 de septiembre de 2002 el Acuerdo de Complementación Económica No. 55 (ACE No. 55);
 
-Que es menester suprimir algunas fracciones arancelarias de la tarifa correspondiente en atención al reducido comercio registrado en ciertas mercancías que están reguladas bajo la modalidad de arancel-cupo, y
+Que el Acuerdo por el que se da a conocer el ACE No. 55, así como el que da a conocer su entrada en vigor, fueron publicados en el Diario Oficial de la Federación el 29 de noviembre y el 31 de diciembre de 2002, respectivamente;
 
-Que el Anexo 308.1 del Tratado de Libre Comercio de América del Norte establece un calendario de desgravación para algunos bienes de procesamiento de datos y sus partes, a partir de enero de 2003, por lo que deben realizarse las medidas tendentes a su cumplimiento, he tenido a bien expedir el siguiente
+Que el Decreto para la Aplicación del Apéndice I del ACE No. 55, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, establece las disposiciones aplicables al comercio bilateral en el sector automotor entre los Estados Unidos Mexicanos y la República Argentina;
+
+Que el segundo párrafo del artículo 5o. de dicho Acuerdo establece que las Partes Signatarias podrán, en cualquier momento, alterar de común acuerdo las disposiciones en ellos establecidas, así como incorporar en sus ámbitos de aplicación productos automotores listados en el artículo 3o., relativo a la cobertura del Acuerdo;
+
+Que de conformidad con la anterior disposición, el 24 de septiembre de 2003, los gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el Primer Protocolo Adicional al Apéndice I del ACE No. 55, mediante el cual se incluyen productos automotores para que queden comprendidos en la cobertura del Acuerdo e incorporan otras disposiciones al régimen de origen del mencionado Apéndice, y
+
+Que el 24 de octubre de 2003, el gobierno de la República Argentina notificó a la Secretaría General de la ALADI que, el 30 de septiembre del mismo año, concluyó las formalidades jurídicas necesarias para la aplicación del Primer Protocolo Adicional al Apéndice I del ACE No. 55, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTÍCULO PRIMERO.
 
-A partir de la entrada en vigor del presente Decreto y hasta el 31 de diciembre de 2005, los Estados Unidos Mexicanos aplicarán un arancel de cero (0) por ciento ad-valorem, a las importaciones de productos automotores originarios y procedentes de la República Oriental del Uruguay, comprendidos en los numerales I.1 y I.2 del Anexo al Apéndice IV del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, al amparo del cupo anual que se establece en el artículo tercero del referido Apéndice IV, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4) de la tabla establecida en el artículo segundo del presente Decreto.
+Se reforman los artículos primero y segundo del Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación del 31 de diciembre de 2002, para quedar como sigue:
+
+"ARTÍCULO PRIMERO.- A partir de la entrada en vigor del presente Decreto y hasta el 30 de abril de 2006, los Estados Unidos Mexicanos aplicarán un arancel de cero (0) por ciento ad-valorem, a las importaciones de productos automotores originarios y procedentes de la República Argentina, comprendidos en los numerales I.1, I.2 y I.4 del Anexo al Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, al amparo del cupo anual que se establece en el artículo tercero del referido Apéndice I, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4) de la tabla establecida en el artículo tercero del presente Decreto.
 
 ###### ARTÍCULO SEGUNDO.
 
-Para efectos de la aplicación del artículo primero del presente Decreto, se establece la siguiente:
+A partir del 1o. de mayo de 2006, las importaciones de productos automotores originarios y procedentes de la República Argentina, comprendidos en los numerales I.1, I.2 y I.4 del Anexo al Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, en la columna (4) de la tabla establecida en el artículo tercero del presente Decreto, estarán libres de arancel."
 
-TABLA DE LAS FRACCIONES NALADISA 2002, NEGOCIADAS EN EL ACUERDO DE COMPLEMENTACIÓN ECONÓMICA No. 55 Y SUS CORRESPONDIENTES FRACCIONES MEXICANAS
+###### ARTÍCULO SEGUNDO.
 
-(VEASE ARCHIVO ANEXO)
+Se incorporan a la tabla de las fracciones NALADISA 2002, negociadas en el Acuerdo de Complementación Económica No. 55 y sus correspondientes fracciones mexicanas, prevista en el artículo tercero del Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, los productos automotores que se clasifican en las fracciones NALADISA 2002 y sus correspondientes fracciones mexicanas que a continuación se indican:
 
-1/ De peso total con carga máxima inferior o igual a 8,845 kg.
+FRACCIÓN FRACCIÓN TEXTO OBSERVACIONES
+
+NALADISA MEXICANA NALADISA
+
+2002
+
+(1) (2) (3) (4)
+
+8702 Vehículos
+
+automóviles
+
+para transporte
+
+de diez o más
+
+personas,
+
+incluido el
+
+conductor
+
+8702.10.00 8702.10.03 Con motor Únicamente aquellos
+
+8702.10.04 émbolo de peso bruto
+
+(pistón), de vehicular hasta de
+
+encendido 8 845 kg. -ocho mil
+
+por ochocientos cuarenta
+
+compresión y cinco kilogramos-,
+
+(Diesel o de hasta 20 asientos
+
+semi-Diesel). incluido el conductor.
+
+8702.90.00 8702.90.04 Los demás Únicamente aquellos
+
+8702.90.05 de peso bruto
+
+vehicular hasta de
+
+8 845 kg. -ocho mil
+
+ochocientos cuarenta
+
+y cinco kilogramos-,
+
+de hasta 20 asientos
+
+incluido el conductor.
 
 ###### ARTÍCULO TERCERO.
 
@@ -219,20 +281,20 @@ Se suprime el arancel-cupo establecido en el artículo 3o. del Decreto por el qu
 
 7202.92.99
 
-###### ARTÍCULO 5o.
+## TRANSITORIOS
 
-Se adiciona al Artículo Quinto del Decreto para la aplicación del Apéndice II del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado de conformidad con el Acuerdo por el que se da a conocer el Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002, la fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que le corresponda según su numeración:
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-FRACCIÓN FRACCIÓN TEXTO OBSERVACIONES
+SEGUNDO.- Las disposiciones previstas en el ACE No. 55, así como las contenidas en el Primer Protocolo Adicional al Apéndice I del mencionado Acuerdo se aplicarán en su totalidad a los productos automotores que se incorporan conforme al artículo segundo de este Decreto.
 
-NALADISA 2002 MEXICANA 2002 NALADISA 2002
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
-(1) (2) (3) (4)
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
 
-8707.90.00 8707.90.02 Las demás.
+D.O.F. 22 DE AGOSTO DE 2007.
 
-## TRANSITORIO
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Javier Bernardo Usabiaga Arroyo.- Rúbrica.
+TERCERO.- A la entrada en vigor del presente Decreto, se abrogan: 1) el Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002; 2) el Decreto para la aplicación del Primer Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 27 de mayo de 2004; 3) el Decreto por el que se modifica el diverso para la aplicación del Primer Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de septiembre de 2006, y 4) el Decreto para la aplicación del Segundo Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 1 de junio de 2007, así como cualquier otro que se oponga al presente Decreto.
