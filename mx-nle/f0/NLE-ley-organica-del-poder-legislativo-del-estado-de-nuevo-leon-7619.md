@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2003-12-19"
+last_updated: "2003-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -59,11 +59,11 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el día 20 de Septiembre y terminará el día 20 de Diciembre; el segundo se iniciará el día 30 de Abril y terminará el día 30 de Junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el día 1º de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 30 de marzo y terminará el día 30 de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -189,11 +189,11 @@ En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congres
 
 ### CAPITULO V. DE LA INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 25.
 
-Una vez Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, quince días antes de la Apertura de las Sesiones para iniciar las Juntas Preparatorias correspondientes.
+Una vez calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el 16 de agosto del año de la elección, para iniciar las Juntas Preparatorias correspondientes.
 
 Con la citación anterior la Comisión Instaladora concluirá sus funciones.
 
@@ -207,9 +207,11 @@ Electa la Directiva de las Juntas Preparatorias a que se refiere el artículo an
 
 Los presuntos Diputados designarán una Comisión integrada por tres de ellos que revisará las credenciales de los restantes, y otra integrada por igual número, que revisará las de los miembros de la primera comisión.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 28.
 
-Dentro de los tres días siguientes al de iniciación de los trabajos de las Juntas Preparatorias, se rendirán los dictámenes formulados por las comisiones a que se refiere el artículo anterior, los que se pondrán a consideración de la Asamblea para su estudio o aprobación en su caso.
+El día 19 de agosto del año de la elección, se rendirán los dictámenes formulados por las comisiones a que se refiere el artículo anterior, los que se pondrán a consideración de la Asamblea para su estudio o aprobación en su caso.
 
 ###### Artículo 29.
 
@@ -231,27 +233,27 @@ Cuando uno o más de los Diputados se presentaren después de la protesta a que 
 
 ### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 33.
 
-El día anterior a la apertura de sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vice-Presidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 20 de Septiembre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
+El día anterior a la apertura de sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 1º de septiembre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
 
 ###### Artículo 34.
 
 La directiva comunicará la instalación del Congreso a los Poderes Ejecutivo y Judicial, independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 35.
 
-Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 20 de Septiembre, fecha en que se formulará el Decreto correspondiente.
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 36.
 
-El día 20 de Septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 20 de Septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
+El día 1º de septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
 
 La misma declaratoria se hará en la apertura del segundo y tercer año.
 
@@ -1230,3 +1232,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 19 DE DICIEMBRE DE 2003.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del decreto por el cual se están reformando las referidas disposiciones constitucionales.
