@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1987-12-30"
+last_updated: "1988-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -151,6 +151,24 @@ En las zonas urbanas, y suburbanas la unidad de superficie que se tome para el a
 
 Para determinar las Bases Generales de Valores por Unidades Tipo en las diferentes clases de construcciones, se seguirán las normas que a continuación se expresan: I.- Se harán clasificaciones por tipos de edificaciones permanentes y provisionales según los materiales empleados, calidad de mano de obra, usos comercial, industrial, residencial y especiales, así como la productividad media por año en cada región catastral; y, II.- Se fijará el valor por metro cuadrado o cúbico de superficie cubierta, en la forma que el Reglamento de esta Ley lo determine.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+Para efecto de determinar las Bases Generales de Valores por Unidades Tipo aplicables a la construcción, el Estado se dividirá en 5 Zonas Catastrales, en las cuales los valores consignados en las Bases Generales serán los mismos para todos los municipios que se encuentren comprendidos en la zona respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+Las Zonas Catastrales a que se refiere el párrafo anterior se integrarán de la siguiente manera:
+
+I.- ZONA 1, que comprende los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina.
+
+II.- ZONA 2, que comprende los municipios de Allende, Anáhuac, Cadereyta Jiménez, García, General Terán, Juárez, Linares, Montemorelos, Sabinas Hidalgo y Santiago.
+
+III.- ZONA 3, que comprende los municipios de Cerralvo, China, Ciénega de Flores, General Bravo, General Zuazua, Hidalgo, Hualahuises, Pesquería y Salinas Victoria.
+
+IV.- ZONA 4, que comprende los municipios de Abasolo, Agualeguas, Bustamante, Carmen, Doctor Coss, Doctor González, General Treviño, Los Aldamas, Los Herreras, Los Ramones, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Vallecillo y Villaldama.
+
+V.- ZONA 5, que comprende los municipios de Arramberri, Doctor Arroyo, Galeana, General Zaragoza, Iturbide y Mier, Noriega y Rayones.
+
 ###### ARTICULO 16o.
 
 En las zonas rústicas, la determinación de las Bases Generales de Valores Tipo se hará sobre una clasificación agronómica de la tierra y de su situación topográfica teniendo en cuenta además el rendimiento medio anual según el objeto a que se dedique, de acuerdo con lo que al efecto establece el Reglamento. La unidad de superficie será, en todo caso, de una hectárea.
@@ -179,11 +197,11 @@ Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica
 
 Excepto en el año en que sean objeto de revisión, las Bases Generales de Valores por Unidades Tipo a que se refiere el artículo anterior y los Valores Reales Catastrales de los Inmuebles, se ajustarán conforme al porcentaje que se establezca mediante disposición de vigencia anual, que entrará en vigor el 1o. de Enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales de Valores por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 21.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior de $12,000.00 (doce mil pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el Valor Catastral de los predios en ningún caso podrá ser inferior a $2'000,000.00. En el Reglamento de esta Ley se señalará el procedimiento para formular los avalúos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -315,6 +333,18 @@ Con motivo de la reducción en la tasa del Impuesto Predial del 3 al millar anua
 
 En los términos del Artículo 20 de la Ley del Catastro, durante el año de 1998 se aplicara un incremento del 50% en las Bases Generales de Valores por Unidades Tipo y en los Valores Reales Catastrales.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 9o.
+
+Con motivo de la reforma del artículo 15 de la Ley del Catastro, a partir del 1º de Enero de 1989 las Bases Generales de Valores por Unidades tipo aplicables a la construcción, correspondientes a los municipios comprendidos en la Zona 1, se ajustarán a los valores consignados en las Bases Generales del Municipio de General Escobedo; las de la Zona 2, a las del Municipio de Anáhuac; las de la Zona 3, a las del Municipio de Hidalgo; las de la Zona 4, a las del Municipio de Doctor González y las de la Zona 5, a las del Municipio de Galeana.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO 10o.
+
+Conforme a lo dispuesto por el artículo 20 de la Ley del Catastro, durante el año de 1989 se aplicará un incremento a las Bases Generales de los Valores por Unidades Tipo y a los Valores Reales Catastrales, en un 100% respecto de los terrenos y en un 150% respecto de las construcciones.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -442,3 +472,7 @@ P.O. 30 DE DICIEMBRE DE 1987.
 ###### ARTICULO TERCERO
 
 - Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que menciona al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1989.
