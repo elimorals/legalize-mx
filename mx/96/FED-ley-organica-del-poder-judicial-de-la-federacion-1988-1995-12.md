@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1988-1995-12"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-01-05"
-last_updated: "1990-01-03"
+last_updated: "1991-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 1991.
 
 Ley publicada en el Número 2 del Diario Oficial de la Federación, el martes 5 de enero de 1988.
 
@@ -77,15 +77,17 @@ En caso de empate, se resolverá el asunto en la siguiente sesión, para la que 
 
 La Suprema Corte de Justicia tendrá un presidente que durará en su cargo un año y podrá ser reelecto.
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 1991)</small>
+
 ###### Art. 6o.
 
-La Suprema Corte de Justicia tendrá los servidores públicos superiores que se mencionan a continuación: Secretario General de Acuerdos, Subsecretario de Acuerdos, Coordinador General Administrativo, Oficial Mayor, Directores Generales, Secretarios de Estudio y Cuenta, Secretarios de Acuerdos de Sala, Contralor, Tesorero y los demás que sean autorizados en el presupuesto: debiendo ser todos ciudadanos mexicanos, en pleno ejercicio de sus derechos, profesionistas con título expedido por autoridad competente en la especialidad respectiva.
+La Suprema Corte de Justicia tendrá servidores públicos superiores de carácter judicial y administrativo. Los servidores públicos superiores judiciales serán el Secretario General de Acuerdos, los Subsecretarios de Acuerdos, los Secretarios de Acuerdos de Sala, el Jefe de Defensores de Oficio y los Secretarios de Estudio y Cuenta. Los servidores públicos superiores administrativos serán el Coordinador General Administrativo, el Oficial Mayor, el Contralor, el Tesorero, el Coordinador General de Compilación y Sistematización de Tesis y los Directores Generales.
 
-Tendrá, además, Directores de Area, Subdirectores, Subtesorero, Actuarios, Secretarios Técnicos del Semanario y Secretarios Auxiliares de Acuerdos, quienes deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con título expedido por autoridad competente en la especialidad que corresponda a sus funciones, así como los empleados necesarios para el despacho que determine el presupuesto.
+Para el despacho de los asuntos, los servidores públicos superiores contarán, según corresponda, con Directores de Area, Subdirectores, Subtesorero, Defensores de Oficio, Actuarios, Secretarios Técnicos del Semanario Judicial de la Federación, Secretarios Auxiliares de Acuerdos y los demás funcionarios y empleados que determine el presupuesto.
 
-Para ser Secretario General de Acuerdos se requiere, además, por lo menos cinco años de práctica profesional. Los demás servidores públicos, con excepción de los Actuarios y de los Secretarios Auxiliares de Acuerdos, deberán tener práctica profesional no menor de tres años.
+Los servidores públicos superiores y los funcionarios del Poder Judicial de la Federación, deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con título expedido por autoridad competente en la especialidad correspondiente y práctica profesional de al menos tres años, en los casos del Secretario General de Acuerdos y del Coordinador General Administrativo se exigirá que ésta sea de cuando menos cinco años.
 
-Los servidores públicos superiores a que se refiere el primer párrafo de este artículo, los Directores de Area, Subdirectores, Subtesorero, Subsecretarios de Acuerdos de Sala, Jefes de Defensores y de Departamento, así como de Oficialías Comunes de Partes, Personal Técnico Adscrito a la Contraloría General y al Centro de Servicios de Cómputo, Jefes de Oficina adscritos a la Tesorería, Cajeros, Pagadores y Encargados de adquisiciones e inventarios, serán de confianza. También será de confianza el personal de apoyo administrativo y de asesoría de los servidores públicos superiores. Los demás servidores del Poder Judicial de la Federación no especificados en este precepto serán de base.
+Los servidores públicos superiores y funcionarios a que se refiere el párrafo primero de este artículo, y los Directores de Area, Subdirectores, Subtesorero, Jefes de Departamento, Oficiales Comunes de Partes, el Personal Técnico adscrito a la Contraloría General y a la Dirección General de Informática, Jefes de Oficina adscritos a la Tesorería, Cajeros, Pagadores y Encargados de adquisiciones e inventarios serán de confianza. También será de confianza el personal de apoyo administrativo y de asesoría a los señores Ministros y a los servidores públicos superiores, así como el personal que labore en la Presidencia de la Suprema Corte de Justicia. El personal del Poder Judicial de la Federación no especificado en este precepto, será de base.
 
 ###### Art. 7o.
 
@@ -181,13 +183,17 @@ XIII. Distribuir los tribunales de Circuito y los juzgados de Distrito entre los
 
 XIV. Conceder licencias a los ministros que integran la Suprema Corte, en los términos del artículo 100 de la Constitución;
 
-XV. Nombrar a los funcionarios a que se refiere el primer párrafo del artículo 6o. de esta ley, así como a los Actuarios, Defensores y Jefe de estos, con excepción de los que dependan directamente de las Salas; y autorizar a la Comisión de Gobierno y Administración para que nombre el personal que el propio Pleno determine;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
 
-XVI. Remover, por causa justificada, a los servidores públicos de confianza de las oficinas generales, y resolver sobre las renuncias que presenten a sus cargos;
+XV. Nombrar a propuesta que haga el Presidente de la Suprema Corte, al Secretario General de Acuerdos, a los Subsecretarios de Acuerdos y al Jefe de Defensores de Oficio, y a propuesta en terna que haga este último, a los defensores de oficio, así como resolver sobre las renuncias que presenten a sus cargos. Igualmente podrá removerlos por causa justificada o suspenderlos cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y consignarlos al Ministerio Público cuando aparezcan inculpados en la comisión de algún delito;
 
-XVII. Suspender en sus cargos o empleos a los mismos funcionarios, Actuarios, Defensores y Jefes de éstos, cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y consignarlos al Ministerio Público cuando aparezcan indiciados en la comisión de algún delito;
+XVI. (DEROGADA, D.O.F. 19 DE JULIO DE 1991)
 
-XVIII. Aumentar y disminuir el número de funcionarios y empleados de la Suprema Corte para el eficaz cumplimiento de sus atribuciones;
+XVII. (DEROGADA, D.O.F. 19 DE JULIO DE 1991)
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
+
+XVIII. Aumentar y disminuir el número de servidores de carácter judicial, a fin de garantizar el eficaz cumplimiento de las atribuciones del Poder Judicial de la Federación;
 
 XIX. Formular anualmente el Proyecto del Presupuesto de Egresos del Poder Judicial de la Federación, con vista del anteproyecto que propondrá la Comisión de Gobierno y Administración de la Suprema Corte, atendiendo a las previsiones del ingreso y del gasto público federal;
 
@@ -493,13 +499,17 @@ I. Proponer anualmente a la consideración de la Suprema Corte el anteproyecto d
 
 II. Manejar las partidas del presupuesto de egresos, ordenando las ministraciones de dinero, conforme a las necesidades del Poder Judicial de la Federación, dando cuenta anualmente al Pleno de dicho manejo;
 
-III. Proponer al Pleno de la Suprema Corte de Justicia de la Nación, conforme al artículo 13, fracción XIV, de esta ley, los nombramientos que deban hacerse de los funcionarios a que se refiere el primer párrafo del artículo 6o. de esta ley, así como de los Actuarios, Defensores y Jefes de éstos que no se encuentren adscritos a las Salas; y nombrar y remover al resto del personal que se menciona en el propio artículo 6o., así como al personal de las oficinas de Correspondencia Común y Pagadores de los Tribunales de Circuito, Colegiados y Unitarios, y de los juzgados de Distrito;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
+
+III. Nombrar, a propuesta que haga el Presidente de la Suprema Corte de Justicia de la Nación a los servidores públicos superiores administrativos del Poder Judicial de la Federación, y a los funcionarios y empleados administrativos, personal de las oficinas de Correspondencia Común, Administradores Foráneos y Pagadores de los Tribunales de Circuito y Juzgados de Distrito, así como resolver sobre las renuncias que presenten sus cargos. Igualmente podrá removerlos por causa justificada o suspenderlos cuando lo juzgue conveniente para el buen servicio o por vía de corrección disciplinaria, y consignarlos al Ministerio Público cuando aparezcan inculpados en la comisión de algún delito;
 
 IV. Dictaminar en los asuntos económicos y administrativos que, por su importancia o trascendencia, deba resolver el Pleno;
 
 V. Conceder licencia por más de quince días, por causa justificada, con goce de sueldo o sin él, a los funcionarios y empleados del Poder Judicial de la Federación cuyo nombramiento dependa de la Suprema Corte, excepto los magistrados de Circuito y jueces de Distrito, y el personal que dependa de las salas; con goce de sueldo a los secretarios y empleados dependientes de los magistrados y jueces citados; y sin él, por más de seis meses, al personal del Poder Judicial, con las excepciones señaladas;
 
-VI. Conocer de las renuncias de los servidores públicos de las Oficinas Generales, y remover, por causa justificada, a los servidores públicos de base de las propias oficinas;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 1991)</small>
+
+VI. Aumentar y disminuir el número de los servidores públicos superiores administrativos, funcionarios y empleados del Poder Judicial de la Federación para el eficaz cumplimiento de sus atribuciones;
 
 VII. Iniciar ante el Pleno cuanto fuere oportuno, para lograr una administración económica y eficiente en el Poder Judicial de la Federación; y
 
@@ -1140,3 +1150,11 @@ D.O.F. 3 DE ENERO DE 1990.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JULIO DE 1991.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Pleno de la Suprema Corte de Justicia de la Nación turnará a la Comisión de Gobierno y Administración los asuntos que ésta deba resolver conforme al presente Decreto, en los términos que al efecto señale el acuerdo que determine el propio Pleno.
