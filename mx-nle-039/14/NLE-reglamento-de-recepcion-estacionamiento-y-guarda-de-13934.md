@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-recepcion-estacionamiento-y-guarda-de-13934"
 country: "mx"
 rank: "reglamento"
 publication_date: "1976-08-18"
-last_updated: "1976-08-18"
+last_updated: "1983-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE RECEPCION, ESTACIONAMIENTO Y GUARDA DE VEHICULOS EN EDIFICIOS O LOCALES PUBLICOS O PRIVADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1983.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 1976.
 
@@ -176,7 +176,9 @@ DE LAS SANCIONES.
 
 31. Las sanciones a imponer por infracciones al presente Reglamento, son:
 
-I.- Multa, como sanción pecuniaria.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1983)</small>
+
+I.- Multa, en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N.L.
 
 II.- Suspensión del permiso, que podrá ser temporal o definitiva, según la gravedad de la falta, a juicio de la Autoridad, en este caso se procederá a la clausura del estacionamiento, previa resolución administrativa fundada y motivada.
 
@@ -184,13 +186,17 @@ III.- Ambas, a criterio de la Autoridad.
 
 32. Atendiendo las condiciones del establecimiento podrá ordenarse al permisionario la realización, en el plazo otorgado, de las obras necesarias para el eficaz funcionamiento del servicio, con apercibimiento de imposición de multa o suspensión en caso de incumplimiento.
 
-33. La negativa o rebeldía continuada del infractor a la observancia del presente Reglamento, se calificará de reincidencia, y en consecuencia se le impondrá el doble de la sanción pecuniaria que inicialmente se le haya señalado, o bien la suspensión definitiva del permiso si ya se le hubiere impuesto antes la suspensión temporal como sanción.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1983)</small>
+
+33. La negativa o rebeldía continuada del infractor a la observancia del presente Reglamento, se calificará de reincidencia, y en consecuencia se le impondrá multa en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N.L., o bien la suspensión definitiva del permiso si ya se le hubiere impuesto antes la suspensión temporal como sanción.
 
 34. En los casos que así lo amerite, y visto el interés público que involucra, la Autoridad Municipal está facultada para intervenir el servicio de estacionamiento y hacer las adaptaciones, reparaciones y demás obras necesarias a fin de garantiza la continuidad del servicio; los gastos erogados por dicho concepto serán a cargo del permisionario moroso o incumplido.
 
 35. Toda imposición de sanción debe ser debidamente fundada y motivada, haciendo mención del o de los artículos infringidos y de los hechos de que se desprende su aplicación, haciéndose una relación sucinta del acta de inspección, declaraciones y demás datos en el cuerpo de la resolución.
 
-36. La sanción económica de multa puede ser de $100.00 a $500.00 pesos por la primera infracción; la suspensión temporal por infracciones a este Reglamento pueden consistir en multa en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N. L., en suspensión temporal de 3 días a un mes, o en suspensión definitiva mediante la cancelación o revocación del permiso.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1983)</small>
+
+36. Las sanciones por infracciones a este Reglamento pueden consistir en multa en los términos de la Disposición General emitida por el R. Ayuntamiento de Monterrey, N. L., en suspensión temporal de 3 días a un mes, o en suspensión definitiva mediante la cancelación o revocación del permiso.
 
 ### CAPITULO SEPTIMO
 
@@ -221,3 +227,9 @@ La Autoridad Municipal autorizará las tarifas del servicio de estacionamiento q
 ###### ARTICULO 4o.
 
 Se derogan las disposiciones municipales vigentes que se relacionan con la materia en cuanto se opongan a lo dispuesto por el presente Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE AGOSTO DE 1983.
+
+UNICO. Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el "Periódico Oficial" del Estado.
