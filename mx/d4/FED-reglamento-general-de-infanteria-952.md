@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-infanteria-952"
 country: "mx"
 rank: "reglamento"
 publication_date: "1944-08-18"
-last_updated: "1944-10-16"
+last_updated: "1949-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=952&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1944-06-09"
 
 REGLAMENTO GENERAL DE INFANTERIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 1949.
 
 Reglamento publicado en Segunda Sección del Diario Oficial, el lunes 16 de octubre de 1944.
 
@@ -48,6 +48,10 @@ México, D.F., a 13 de septiembre de 1944.- El General Brigadier, Jefe del Estad
 REGLAMENTO GENERAL DE INFANTERIA
 
 ## TITULO PRIMERO. Principios generales de la instrucción
+
+CAPITULO UNO
+
+Objeto y división de la instrucción
 
 ###### ARTICULO 1°.
 
@@ -219,7 +223,7 @@ Educación moral
 
 ## TITULO SEGUNDO. Nociones preliminares
 
-### CAPITULO I. Objeto y división de la instrucción
+### CAPITULO UNICO. Definiciones, símbolos, abreviaturas y medios de mando
 
 ###### ARTICULO 1º.
 
@@ -385,199 +389,223 @@ Paso veloz.- Tres silbidos cortos servirán para marchar al paso veloz.
 
 Toques de corneta y su explicación
 
-30.- Los toques de corneta son un medio de mando y tienen por objeto suplir las órdenes a viva voz en las evoluciones de orden cerrado, así como indicar la ejecución de los diferentes actos del servicio de armas o del del (sic) interior de los cuerpos de tropa.
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
 
-Todo toque deberá ir precedido por el de atención, con excepción del que lleva este nombre.
+30.- Los toques de corneta son un medio de mando y tienen por objeto suplir las órdenes de viva voz en las evoluciones de orden cerrado, así como indicar la ejecución de los diferentes actos del servicio, tanto de armas como interior de los cuerpos de tropa.
+
+A continuación trataremos de los toques que se refieren a movimientos de armas y evoluciones de orden cerrado.
 
 Para que la tropa ejecute el movimiento ordenado, después del toque preventivo se dará un punto agudo.
 
-En las evoluciones del regimiento, todo toque dirigido en particular a una de las unidades subordinadas deberá ir precedido de la contraseña de la misma.
+En las evoluciones del Regimiento, todo toque dirigido en particular a alguno de los batallones subordinado, deberá ir precedido de la contraseña del mismo.
 
-A.- Atención.- Precederá a cualquier toque para que se atienda a lo que se va a mandar. Servirá además para que la banda suspenda cualquier toque. En toques dados por toda la banda se suprimirá éste.
+A. Atención.- Precederá a cualquier toque para que se atienda a lo que se va a mandar. Servirá, además, para que la Banda suspenda cualquier toque. En toques dados por toda la Banda, se suprimirá éste.
 
-Alarma.- Será el toque para que todos los militares concurran con prontitud a tomar sus armas, o presentarse ante la autoridad militar correspondiente.
+Al hombro.- A pie firme se empleará para poner el arma en la posición indicada; marchando sólo se empleará para llevar el arma al hombro cuando se tenga suspendida o embrazada.
 
-Al hombro.- A pie firme se empleará para poner el arma en la posición indicada; marchando, sólo se empleará para llevar el arma al hombro cuando se tenga suspendida o embrazada.
-
-Alinearse.- Se empleará el primer compás del número tres de diana y servirá como preventivo para que las unidades, regimientos o batallón tomen su alineamiento por el centro; seguido del toque de derecha o izquierda, servirá para alinearse a uno u otro costado respectivamente; seguido del de bandera, se empleará para alinearse con la misma.
+Alinearse.- Se empleará el primer compás del número tres de diana y servirá como preventivo para que las unidades, Regimiento o Batallón, tomen su alineamiento por el centro; seguido del toque de derecha o izquierda, servirá para alinearse a uno u otro costado respectivamente; seguido de los tres primeros compases del de bandera, se empleará para alinearse por la misma.
 
 Alto.- Servirá para que la tropa se detenga.
 
-Asamblea.- Servirá para que una tropa que deba formar tome las armas y también para dar el segundo toque de toda la marcha o cualquiera otra función del servicio.
+B. Bandera.- Se usará para hacer los honores a la Enseña Patria.
 
-Aumentar el frente.- Este toque, cualquiera que sea la formación cerrada en que se esté, ya sea a pie firme o marchando, indicará que se aumente el frente.
+Batallón.- Servirá para indicar a esta unidad que deberá ejecutar algún movimiento o evolución. El antiguo toque de columna de batallón, se denominará simplemente batallón.
 
-B.- Bandera.- Se usará para hacer los honores a la Enseña Patria.
-
-Bando.- Se usará para publicar órdenes o providencias que el comandante de la guarnición dispusiere hacer con solemnidad.
-
-Batallón.- Servirá para indicar a esta unidad que deberá efectuar algún movimiento o evolución. El antiguo toque de columna de batallón, se denominará simplemente batallón.
-
-C.- Cambiar de hombro.- Llevará este nombre el antiguo toque de “al hombro izquierdo”, y servirá para cambiar el arma indiferentemente de uno a otro hombro.
+C. Cambiar del hombro.- Llevará este nombre el antiguo toque de al hombro izquierdo, y servirá para cambiar el arma indiferentemente de uno a otro hombro.
 
 Calar la bayoneta.- Se usará para desenvainar la bayoneta e insertarla en el arma.
 
 Columna.- Servirá para que la tropa tome esta formación.
 
-Compañías.- Seguido de uno, dos, tres, cuatro o cinco puntos, servirá para que forme en el lugar que se designe la compañía a primera, segunda, tercera, ametralladoras o morteros, respectivamente. Precedido del de línea, servirá para que el batallón tome la formación de línea de compañías en masa.
+Compañías.- Seguido de uno, dos, tres, cuatro o cinco puntos, servirá para que formen en el lugar que se designe, la Compañía Primera, Segunda, Tercera, Ametralladoras o Morteros, respectivamente. Precedido del de línea, servirá para que el batallón tome la formación de línea de compañía en masa.
 
-D.- Derecha.- Indicará cambio de dirección, si las tropas estuvieren marchando; si estuvieren a pie firme, dar flanco hacia ese lado.
+D. Derecha.- Indicará que la cabeza cambie de dirección si las tropas estuvieren marchando; si estuvieren a pie firme, dar flanco hacia ese lado.
 
 Descansar.- Se usará para llevar el arma a la posición indicada.
 
 Descanso.- Servirá para que la tropa tome esta posición.
 
-Disminuir el frente.- Este toque se compone con los cuatro primeros compases del toque de reunión e indica, cualquiera que sea la formación de la tropa, a pie firme o marchando, que se disminuya el frente.
+E. Embrazar.- Se usará para poner el arma en la posición indicada.
 
-E.- Embrazar.- Se usará para poner el arma en la posición indicada.
-
-Entrada de banda.- Sirve para que la banda repita el toque dado por el corneta de órdenes, agregando un punto agudo cuando tenga que romper la marcha con alguna fracción.
+Entrada de banda.- Sirve para que la Banda repita el toque dado por el Corneta de Ordenes, agregando un punto agudo cuando tenga que romper la marcha con alguna fracción.
 
 Envainar.- Se usará para desinsertar la bayoneta del arma y envainarla.
 
-F.- Fajina.- En el regimiento y el batallón este toque servirá para que las unidades subordinadas disloquen la formación y se retiren a sus respectivos alojamientos.
+F. Fajina.- En el Regimiento y el Batallón, este toque servirá para que las unidades subordinadas disloquen la formación y se retiren a sus respectivos alojamientos.
 
-Firmes.- Se emplearán los tres primeros compases del número cinco de diana y servirá como toque preventivo para que la tropa adopte la posición fundamental.
+Firmes.- Se emplearán los tres primeros compases del número cinco de Diana y servirá como toque preventivo para que la tropa adopte la posición fundamental.
 
-Flancos.- Marchando, este toque, seguido del de derecha o izquierda, indicará que se debe continuar la marcha al flanco que se indique.
+Flancos.- Marchando, este toque, seguido del de derecha o izquierda, indicará que se puede continuar la marcha simultáneamente al flanco que se indique.
 
-I.- Izquierda.- Si las tropas estuvieren marchando, indicará cambio de dirección; a pie firme, girar hacia ese flanco.
+I. Izquierda.- Si las tropas estuvieren marchando, indicará cambio de dirección; a pie firme, girar hacia el flanco.
 
-L.- Línea.- Se usarán para que la tropa que estuviere en otra formación, entre en línea.
+L. Línea.- Se usará para que la hopa que estuviere en otra formación, entre en línea.
 
-LL.- Llamada de honor.- Se usará para hacer honores.
+M. Media vuelta.- Servirá para que una tropa, a pie firme o marchando, ejecute este movimiento.
 
-Llamada de tropa.- Se dará este toque para que la tropa forme sin armas en sus cuadras o en su lugar en el campamento, vivac o acantonamiento.
+P. Paso redoblado.- Los dos primeros compases se usarán como toque preventivo para romper la marcha a este paso. Sobre las marchas servirán para tomar este paso cuando se marche a otra cadencia o se esté marcando el mismo.
 
-M.- Marcha de honor.- Sólo se usará este toque para hacer los honores a quien corresponda, según lo prescrito en el Reglamento de Ceremonial Militar.
+El toque completo se empleará como primer toque de Revista, así como para el relevo de guardias.
 
-Media vuelta.- Servirá para que una tropa, a pie firme o marchando, ejecute este movimiento.
+Paso acelerado.- Servirá para que la tropa marche a la cadencia de éste. El antiguo toque de Paso de Camino llevará esta denominación.
 
-O.- Orden.- Servirá para que acudan los encargados de recibirla al lugar donde se comunica.
-
-P.- Paso redoblado.- Los dos primeros compases se usarán como toque preventivo para romper la marcha a este paso. Sobre las marchas servirán para tomar este paso, cuando se marche a otra cadencia o se esté marcando el mismo.
-
-El toque completo se empleará como primer toque de revista, así como para el relevo de guardias.
-
-Paso acelerado.- Servirá para que la tropa marche a la cadencia de éste. El antiguo toque de paso de camino llevará esta denominación.
-
-Paso veloz.- Servirá para que la tropa, ya sea que esté a pie firme o marchando, tome la cadencia y longitud de este paso.
+Paso veloz.- Servirá para que la tropa, ya sea que esté a pie firme o marchando, torne la cadencia y longitud de este paso.
 
 Presentar.- Se usará para poner el arma en la posición indicada.
 
 Este toque servirá también para que la tropa formada sin armas, adopte la posición de saludar.
 
-R.- Regimiento.- Servirá para indicar que esta unidad deberá efectuar algún movimiento o evaluación. Llevarán este nombre los dos primeros compases del antiguo toque de empeñarse.
+R. Regimiento.- Servirá para indicar que esta unidad deberá efectuar algún movimiento o evolución. Llevará este nombre los dos primeros compases del antiguo toque de empeñarse.
 
-Reunión.- Se usará para conducir la bandera de la unidad, del local donde esté depositada o encuadrada o viceversa. Servirá también para que las tropas formen con armas en el lugar designado. Dándose después el de llamada, servirá de tercer toque para toda marcha, revista, etc.
+COMBINACION de toques para las evoluciones de orden cerrado correspondientes a las escuelas del Batallón y Regimiento.
 
-TOQUES DE CUARTEL
+TOQUES DEL BATALLON
 
-Diana.
+Movimientos Toques
 
-Instrucción.
+Marchando una tropa en columna
 
-Lista.
+por tres o por dos, para hacer
 
-Llamada de academias.
+alto por cualquiera de los flancos
 
-Llamada de banda.
+se tocará Alto, e izquierda (o derecha).
 
-Llamada de clases.
+(o derecha).
 
-Llamada de músicos.
+Para que la tropa, marchando
 
-Llamada de oficiales.
+en cualquier formación, haga alto
 
-Parte.
+con frente a retaguardia, se tocará Alto y media vuelta.
 
-Rancho.
+Para pasar de la línea, en una,
 
-Silencio.
+dos o tres filas, a la columna, se
 
-Visita de médico.
+tocara Flanco e izquierda
 
-TOQUES DE TAMBOR
+(o derecha).
 
-Atención.
+Para pasar de la columna por
 
-Alarma.
+uno; por dos, o por tres a la línea,
 
-Asamblea.
+se tocará Flanco e izquierda
 
-Bando.
+(o derecha).
 
-Diana.
+Para pasar de la línea de compañías
 
-Fajina.
+a la columna por tres, se
 
-Llamada de banda.
+tocará Columna y tres
 
-Llamada de instrucción.
+puntos agudos.
 
-Llamada de tropa.
+Para pasar de la columna por
 
-Marcha de honor.
+tres a la columna por dos, se tocará Columna y dos
 
-Orden.
+puntos agudos.
 
-Paso acelerado.
+Para pasar de la columna por
 
-Paso redoblado.
+dos a la columna por tres, se tocará Columna y tres
 
-Reunión.
+puntos agudos.
 
-COMBINACION DE TOQUES PARA LAS EVOLUCIONES DEL ORDEN CERRADO CORRESPONDIENTES A LAS ESCUELAS DEL BATALLON Y REGIMIENTO.
+Para pasar de la columna de
 
-Movimientos y toques.
+compañías en masa a la columna
 
-Marchando una tropa en columna por tres o por dos, para hacer alto por cualquiera de los flancos, se tocará: Alto, e izquierda (o derecha).
+por tres, se tocará Columna y tres
 
-Para que la tropa, marchando en cualquier formación, haga alto con frente a retaguardia, se tocará: Alto y media vuelta.
+puntos agudos.
 
-Para pasar de la línea en una, dos o tres filas, a la columna, se tocará: Flanco izquierdo (o derecho).
+Para pasar de la línea en tres
 
-Para pasar de la columna por uno, por dos o por tres a la línea, se tocará: Flanco izquierdo (o derecho).
+filas a la línea de compañías en
 
-Para pasar de la línea de compañías a la columna por tres, se tocará: Columna y tres puntos agudos.
+masa, se tocará Línea y Compañías.
 
-Para pasar de la columna por tres a la columna por dos, se tocará: Disminuir y tres puntos agudos.
+Para pasar de la línea de compañías
 
-Para pasar de la columna por dos a la columna por tres, se tocará: Aumentar y tres puntos agudos.
+en masa a la columna de
 
-Para pasar de la columna de compañías en masa a la columna por tres, se tocará: Disminuir y tres puntos agudos.
+compañías en masa, se tocará Columna y Compañías.
 
-Para pasar de la línea en tres filas a la línea de compañías en masa, se tocará: Líneas y compañías.
+Para pasar de la columna por
 
-Para pasar de la línea de compañías en masa a la columna de compañías en masa, se tocará: Columna y compañías.
+tres a la columna de compañías en
 
-Para pasar de la columna por tres a la columna de compañías en masa, se tocará: Columna y compañías.
+masa, se tocara Columna y Compañías.
 
-TOQUES DE REGIMIENTO.
+TOQUES DE REGIMIENTO
 
-Movimientos y toques
+Para pasar de la línea en tres
 
-Para pasar de la línea en tres filas a la línea de batallones, se tocará: Línea y batallón.
+filas a la línea de batallones, se
 
-Para pasar de la línea de batallones a la línea en tres filas, se tocará: Línea y tres puntos.
+tocará Línea y Batallón.
 
-Para pasar de la línea de batallones a la columna de batallones, se tocará: Columna y batallón.
+Para pasar de la línea de batallones
 
-Para pasar de la columna de batallones a la línea de batallones, se tocará: Línea y batallón.
+a la línea en tres filas, se tocará Línea y tres puntos.
 
-Para pasar de la columna por tres a la columna de batallones, se tocará: Columna y batallón.
+Para pasar de la línea de batallones
 
-Para pasar de la columna de batallones a la columna por tres, se tocará: Columna y tres puntos.
+a la columna de batallones,
 
-Para pasar de la columna por tres a la columna de regimiento, se tocará: Columna y regimiento.
+se tocará Columna y Batallón.
 
-Para pasar de la columna de regimiento a la columna por tres, se tocará: Columna y tres puntos.
+Para pasar de la columna de
 
-Para pasar de la columna de regimiento a la línea en tres filas, se tocará: Línea y tres puntos.
+batallones a la línea de batallones,
 
-Para pasar de la columna de regimiento a la línea de regimiento, se tocará: Línea y regimiento.
+se tocará Línea y Batallón.
 
-Para pasar de la línea de regimiento a la columna de batallones, se tocará: Columna y batallón.
+Para pasar de la columna por
+
+tres a la columna de batallones, se
+
+tocará Columna y Batallón.
+
+Para pasar de la columna de
+
+batallones a la columna por tres,
+
+se tocará Columna y tres puntos.
+
+Para pasar de la columna por
+
+tres a la columna de regimiento,
+
+se tocará Columna y Regimiento.
+
+Para pasar de la columna de
+
+regimiento a la columna por tres,
+
+se tocará Columna y tres puntos.
+
+Para pasar de la columna de
+
+regimiento a la línea en tres filas,
+
+se tocará Línea y tres puntos.
+
+Para pasar de la columna de regimiento
+
+a la línea de regimiento,
+
+se tocará Línea y Regimiento.
+
+Para pasar la línea de regimiento
+
+a la columna de batallones,
+
+se tocará Columna y Batallón.
 
 ###### ARTICULO 6º.
 
@@ -586,8 +614,6 @@ Ordenes
 31.- Las órdenes pueden ser verbales o escritas; se transmiten por conducto de oficiales o clases, o por cualquier medio de transmisión.
 
 ## TITULO TERCERO. Instrucción individual
-
-### CAPITULO UNICO. Definiciones, símbolos, abreviaturas y medios de mando
 
 ### CAPITULO I. ARTICULO UNICO
 
@@ -971,71 +997,25 @@ Dos.- Se girará sobre la planta de ambos pies medio círculo a la derecha.
 
 Tres.- Se dará un paso más y se unirá el pie derecho al izquierdo
 
-## TITULO CUARTO. Instrucción de conjunto en orden cerrado
-
 ### CAPITULO III. Instrucción del soldado con armas
 
 ARTICULO 1º
 
 Generalidades
 
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
 58.- Antes de dar al soldado la instrucción del manejo del arma, se le enseñará la nomenclatura general del mosquetón, con el objeto de que pueda comprender mejor las explicaciones que al respecto le dé el instructor.
 
-MOSQUETON REGLAMENTARIO
+La nomenclatura general del mosquetón será impartida de acuerdo con los lineamientos del Reglamento General de Tiro.
 
-> <small>N. DE E. VER IMAGEN EN LA SEGUNDA SECCION DEL D.O. F. DE 16 DE OCTUBRE DE 1944, PAGINA 13.</small>
-
-1.- Cañón y cubre mira.
-
-2.- Alza.
-
-3.- Cajón de mecanismos.
-
-4.- Cerrojo.
-
-5.- Culata.
-
-6.- Cantonera.
-
-7.- Anilleta inferior.
-
-8.- Guardamonte.
-
-9.- Disparador.
-
-10.- Palanca de maniobra.
-
-11.- Guardamano.
-
-12.- Abrazaderas superior e inferior con anilletes.
-
-13.- Baqueta.
-
-14.- Tetón de la abrazadera superior.
-
-15.- Empuñadura.
-
-16.- Guarnición.
-
-17.- Hoja.
-
-La nomenclatura detallada será impartida de acuerdo con los lineamientos del R.G.T.
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
 
 59.- En el manejo del arma sólo deberán moverse los brazos y las manos, debiendo el resto del cuerpo permanecer inmóvil y erguido. Queda estrictamente prohibido golpear el arma.
 
-Siempre que al romper la marcha se tenga el arma descansada, si no se previno antes otro movimiento, ésta invariablemente se llevará al hombro derecho, durante los tres primeros pasos. Sólo se pasará al hombro izquierdo para dar descanso a la tropa durante marchas prolongadas. Cuando se lleve el arma en cualquier posición, excepto a la granadera y se haga alto, primero se ejecutará éste, descansando en seguida aquélla sin esperar orden expresa.
+Los soldados que marchen aislados o transiten por oficinas o locales cerrdos, así como la tropa que conduzca prisioneros, llevarán el arma suspendida o suspendida del hombro.
 
-Los soldados que marchen aislados o transiten por oficinas o locales cerrados, así como la tropa que conduzca prisioneros, llevará el arma suspendida del hombro.
-
-El soldado aislado que lleve su arma, sólo hará el saludo con ella descansada, suspendida del hombro, o cuando la lleve sobre cualquiera de los hombros.
-
-Todos los ejercicios que se efectúen partiendo de la posición de suspender, se harán de manera análoga a los que se prescriben teniendo el arma descansada; se procederá igualmente con los de que de cualquier posición desciendan a la de suspender, con la diferencia de que no se sentará el arma en tierra.
-
-Para marchar al paso veloz, previamente se mandará embrazar el arma y al pasar de éste al redoblado y una vez que se hayan corregido las distancias, se mandará poner el arma en la posición que se juzgue conveniente.
-
-Para las revistas de armas, se adoptará la posición de embrazar. Cada soldado ejecutará el movimiento al presentarse frente a él quien habrá de revisarlo, y cuando el superior pase con el siguiente, descansará su arma tomando la posición en descanso.
-
-Para efectuar giros, paso de costado, paso atrás, tomar distancias e intervalos y en general para cualquier pequeño desplazamiento, el arma se llevará a la posición de suspender al expirar la voz preventiva y se descansará tan pronto termine la ejecución de lo ordenado.
+Todos los ejercicios que se efectúen partiendo de la posición de suspender, se harán de manera análoga a los que se prescriben teniendo el arma descansada; se procederá igualmente con los que de cualquier posición descienden a la de suspender, con la diferencia de que el arma no se sentará en tierra.
 
 60.- En el manejo del mosquetón a pie firme, se tomará como velocidad para la ejecución de los diferentes tiempos, la asignada al paso redoblado. Sobre la marcha, dichos tiempos se ejecutarán a la cadencia del paso que se lleve. Al principio sólo se procurará que el soldado comprenda el mecanismo de los movimientos y no solo se le exigirá la cadencia citada, ya que ésta se irá adquiriendo progresivamente por la práctica.
 
@@ -1094,6 +1074,18 @@ A la voz ejecutiva se llevará el arma diagonalmente frente al cuerpo, recibién
 Dos.- La mano derecha pasará a tomar el arma por la garganta; los codos deberán mantenerse unidos al cuerpo; el guardamonte quedará hacia abajo.
 
 > <small>N. DE E. VER IMAGENES EN LA SEGUNDA SECCION DEL D.O. F. DE 16 DE OCTUBRE DE 1944, PAGINA 14.</small>
+
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+65-bis.- Para descansar el arma teniéndola embrazada se mandará:
+
+Descansar.
+
+Ya. (Dos tiempos).
+
+A la voz ejecutiva, la mano derecha pasará a tomar el arma a la altura de la abrazadera inferior.
+
+Dos.- Llevará el arma al costado derecho, sentándola en tierra sin golpearla. El brazo izquierdo pasará a su costado con energía.
 
 66.- Para poner el arma al hombro, teniéndola descansada o suspendida se mandará:
 
@@ -1311,6 +1303,18 @@ Si se desea, posteriormente se ordenará restirar el porta-mosquetón.
 
 > <small>N. DE E. VER IMAGENES EN LA SEGUNDA SECCION DEL D.O. F. DE 16 DE OCTUBRE DE 1944, PAGINA 18.</small>
 
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+82-bis.- Para hacer el saludo teniendo el arma a la granadera, se mandará:
+
+Saludar.
+
+Ya.
+
+A la voz ejecutiva, se efectuará el saludo como quedó indicado para el soldado sin armas.
+
+Cuando el Soldado conduzca de mano una acémila, simplemente tomará la posición fundamental, haciendo que el animal levante un poco la cabeza.
+
 83.- Para insertar la bayoneta al mosquetón se tendrá éste descansado y se mandará:
 
 Calar...
@@ -1351,15 +1355,39 @@ Debido a las especiales características de construcción y diferencia de peso e
 
 86.- Cuando el pelotón tome las posiciones fundamental, en descanso o ejecute el saludo con armas, el soldado de 1ª Fro. Am., las adoptará siguiendo los lineamientos prescritos para el manejo del mosquetón.
 
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+86-a.- Cuando una tropa armada emprenda la marcha, siempre que no se ordene otra cosa, llevará el arma al hombro en las tres primeras pisadas.
+
+También puede hacerse que la tropa emprenda la marcha con el arma suspendida embrazada. Para esto se antepondrá a la voz preventiva de marcha la de
+
+Suspendiendo,
+
+Embrazando,
+
+según se desee. En cada caso se llevará el arma a la posición ordenada, en los primeros tiempos de la marcha.
+
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+86-b.- Para marchar al paso veloz, se mandará previamente embrazar; pero si no es así, la tropa embrazará a la voz preventiva de paso veloz.
+
+> <small>(ADICIONADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+86-c.- Cuando se lleve el arma en cualquier posición, excepto a la granadera y se haga alto, primero se ejecutará este, descansando a continuación el arma sin esperar orden expresa.
+
 87.- Para suspender el fusil ametrallador y ejecutar todos los movimientos que requieren llevar el arma en esta posición, el soldado de 1ª Fro. Am., la suspenderá tomándola por la anilleta superior y la bandolera del porta-fusil.
 
 88.- Cuando el pelotón tome la posición de embrazar, el soldado de 1ª Fro. Am., tomará igual posición, pero a continuación se pasará el porta-fusil atrás del cuello con la mano derecha.
 
 89.- Cuando el pelotón ejecute los movimientos de poner el arma al hombro o cambiar de hombro, el soldado de 1ª Fro. Am. adoptará la de suspender del hombro o bien cambiará de hombro según el caso.
 
-90.- Cuando el pelotón adopte la posición de presentar, el soldado de 1ª Fro. Am. adoptará la del saludo en la fundamental.
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+90.- Cuando el pelotón lleve el arma al hombro, la suspenda de él o la cambie de hombro, el soldado de 1ª Fro. Am. adoptará la de suspender del hombro o la cambiará según el caso.
 
 91.- Cuando el pelotón ponga armas y mochilas a tierra, el soldado de 1ª Fro. Am. desplegará el bipie del fusil ametrallador y colocará el arma en el piso, alineándola con las demás del pelotón.
+
+## TITULO CUARTO. Instrucción de conjunto en orden cerrado
 
 ### CAPITULO I. Escuela del pelotón
 
@@ -1425,15 +1453,17 @@ Estas formaciones se emplearán para actos del servicio interior de los cuerpos 
 
 Reunión
 
-103.- El pelotón se reúne en línea en una fila a la voz de:
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
 
-> <small>N. DE E. VER IMAGENES EN LA SEGUNDA SECCION DEL D.O. F. DE 16 DE OCTUBRE DE 1944, PAGINA 20.</small>
+103.- Para que el pelotón deje sus armas y mochilas en tierra, se mandará:
 
-Reunirse...
+Armas y mochilas a tierra.
 
 Ya.
 
-Los hombres se colocarán frente a su comandante a cinco pasos de él, en posición de descanso; este movimiento siempre se ejecutará al paso veloz.
+A la voz ejecutiva, los soldados, manteniendo su arma entre las piernas, se quitarán la mochila sentándola en tierra al frente, con las correas cargadoras hacia atrás; acto seguido colocarán su arma apoyando el cañón sobre la parte superior y media de la mochila con el mecanismo hacia abajo; hecho lo anterior los soldados se enderezarán, recogerán la carrillera del tocado y dando un paso de costado a la izquierda, adoptarán la posición fundamental.
+
+Este ejercicio se hará a discreción.
 
 104.- El pelotón formado en línea en una o dos filas, se numera de derecha a izquierda, excluyendo al comandante; los individuos de segunda fila tomarán el número de su cabeza de hilera.
 
@@ -1699,11 +1729,17 @@ Los sargentos formarán parte de la hilera de la izquierda al frente de los suyo
 
 La columna por dos es una formación de marcha.
 
-123.- La columna por tres es la constituida por los tres pelotones en columna por uno, colocados unos al lado de los otros de izquierda a derecha, con sus cabezas a la misma altura.
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
 
-> <small>N. DE E. VER IMAGEN EN LA SEGUNDA SECCION DEL D.O. F. DE 16 DE OCTUBRE DE 1944, PAGINA 23.</small>
+123.- La sección cierra las filas a las voces de:
 
-La columna por tres es una formación de marcha y desfile.
+Cerrar las filas.
+
+Ya.
+
+A la voz preventiva, la segunda y tercera filas se preparan para marchar.
+
+A la voz ejecutiva, la segunda fila dará tres pasos al frente y la tercera, si la hubiere, marchará siete pasos al frente.
 
 Reunión.
 
@@ -1933,7 +1969,21 @@ Ya.
 
 Cuando el alineamiento es por el centro, servirá de base el sargento 2º, comandante del 2º pelotón, de la segunda sección, quien a la voz preventiva se colocara el arma frente a la mitad del cuerpo, apoyándose la culata sobre el cinturón de la fornitura; los de su derecha llevaran la vista a la izquierda y los de este costado a la derecha.
 
-149.- La compañía abre o cierra filas y rompe la formación, siguiendo los mismos principios impuestos en la escuela de la sección y empleando las mismas voces.
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
+
+149.- Estando la Compañía en línea en tres filas, para que forme en masa, se mandará:
+
+En masa.
+
+Ya.
+
+A la voz preventiva, la Compañía se prepara para emprender la marcha por el flanco derecho.
+
+A la voz ejecutiva, emprende la marcha. La primera sección cambiará de dirección a la izquierda inmediatamente y una vez que haya marchado en la nueva dirección un frente de sección, su comandante mandará marcar el paso.
+
+La segunda y tercera secciones, cambiarán de dirección a la izquierda una vez que hayan avanzado lo suficiente para colocarse a la izquierda de la precedente y marcarán el paso al llegar a su altura.
+
+Cuando la tercera sección llegue a la altura de las otras dos, el comandante de la compañía mandará hacer alto o continuar la marcha.
 
 150.- La compañía pone armas y mochilas a tierra y las toma, en igual forma y con las mismas voces indicadas en la escuela de la sección.
 
@@ -2203,17 +2253,21 @@ La compañía de ametralladoras y la de morteros, entrará en ese orden a la izq
 
 Sobre la marcha se ejecutara el movimiento en igual forma, con la diferencia de que la primera compañía acortara el paso, y una vez terminada la evolución, se continuara la marcha.
 
-172.- El batallón en línea de compañías en masa, formara la línea en tres filas, a las voces de:
+> <small>(REFORMADO, D.O.F. 11 DE FEBRERO DE 1949)</small>
 
-Línea en tres filas…
+172.- Para que el batallón en columna de compañías en masa forme en columna por tres, se mandará:
+
+Columna por tres.
 
 Ya.
 
-A la voz preventiva los comandantes mandaran, por hileras derecha.
+A la voz preventiva, el batallón se prepara para emprender la marcha.
 
-A la ejecutiva, las compañías romperán la marcha entrando inmediatamente a la columna por tres, para cuyo efecto, las compañías segunda y tercera acortarán el paso; la de ametralladoras y la de morteros entrarán en columna por uno a continuación de la 3ª compañía.
+A la ejecutiva, rompe la marcha y cada compañía irá entrando a la formación ordenada. La compañía de ametralladoras y la de morteros sucesivamente y en columna por uno, entrarán a continuación de la tercera compañía.
 
-Cuando el batallón haya entrado a la columna por tres, su comandante mandara hacer alto por flanco izquierdo.
+Terminado el movimiento, el comandante del Batallón mandará hacer alto o bien continuar la marcha.
+
+Marchando, el movimiento se ejecuta siguiendo las mismas prescripciones, con la diferencia de que, al terminar la evolución, se continuará la marcha.
 
 173.- Para que el batallón en línea de compañías en masa, forme en columna de compañías en masa, se mandará:
 
@@ -2278,8 +2332,6 @@ Marchas
 178.- Por regla general, marchando en columna por dos o por tres y en columnas de compañías en masa, la hilera de la izquierda servirá de base para la conformación de la marcha.
 
 Para las marchas por caminos o en las calles de una plaza, el batallón seguirá los mismos principios expuestos en la escuela de la sección.
-
-## TITULO QUINTO. Complementarías
 
 ### CAPITULO V. Escuela del regimiento
 
@@ -2629,6 +2681,8 @@ El regimiento solo marchará en línea para recorrer distancias no mayores de qu
 
 Para marchar por caminos o en las calles de una plaza, el regimiento seguirá los mismos principios expuestos en la escuela de la sección.
 
+## TITULO QUINTO. Complementarías
+
 ### CAPITULO I. La valla
 
 ARTICULO UNICO
@@ -2806,3 +2860,11 @@ Para iniciar el movimiento, en las diferentes formaciones, deberán seguirse los
 229.- El comandante de las tropas que desfilen, después de pasar saludando como ya se ha indicado, despeja el frente de la columna, y seguido de su estado mayor y escolta, se sitúa como a veinte pasos sobre el flanco de la columna, dando frente a la persona que presencie el desfile; una vez terminado éste, el comandante se dirigirá a ella en espera de órdenes.
 
 230.- Las tropas dislocarán la columna, en el punto designado, dirigiéndose a sus alojamientos por las vías de desahogo previstas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE FEBRERO DE 1949.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
