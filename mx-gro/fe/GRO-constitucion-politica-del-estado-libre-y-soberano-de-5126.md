@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1933-03-01"
+last_updated: "1933-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1933.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -429,7 +429,11 @@ XIII. Autorizarlo así mismo para que celebre toda clase de contratos relativos 
 
 XIV. Decretar los arbitrios Municipales, teniendo en cuenta las proposiciones que sobre el particular hagan los Ayuntamientos respectivos; revisar y aprobar las cuentas que éstos presenten por el ejercicio económico anterior, y aprobar y revisar los Presupuestos para el año siguiente.
 
-XV. (DEROGADA, P. O. 28 DE DICIEMBRE DE 1932)
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1933)</small>
+
+XV. Resolver sobre la validez o nulidad de las elecciones de Ayuntamientos, cuando haya dudas acerca de ellas, previo informe del Ejecutivo.
 
 XVI. Habilitar a los menores de edad, en quienes concurran los requisitos necesarios, para que administren libremente sus bienes.
 
@@ -679,13 +683,23 @@ IX. Arrestar a cualquiera persona cuando lo exija la tranquilidad pública, y as
 
 X. Imponer gubernativamente las penas correccionales, pecuniarias o de reclusión, a que se refiere el artículo 21 de la Constitución general.
 
-XI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1932)
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
+
+> <small>(REFORMADA. P. O. 5 DE ABRIL DE 1933)</small>
+
+XI. Suspender con causa justificada, a los Ayuntamientos o alguno de sus miembros, dando cuenta al Congreso o a la Diputación Permanente, en su caso, con el expediente, respectivo para que determine lo conveniente.
 
 XII. Celebrar los contratos que deban hacerse en el Estado para la apertura y construcción de caminos, puentes, calzadas y demás obras públicas que fueren necesarias para el mejoramiento y progreso material del mismo; prefiriendo para la ejecución de dichos contratos la forma de subasta pública, siempre que el contrato sea de mil pesos en adelante, mediante convocatorias que al efecto expida en demanda de postores.
 
 XIII. Informar al Tribunal Superior de Justicia de las faltas que cometan los Jueces inferiores.
 
-XIV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1932)
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
+
+> <small>(REFORMADA. P. O. 5 DE ABRIL DE 1933)</small>
+
+XIV. Mandar visitar los Ayuntamientos cuando notare irregularidades, faltas o graves deficiencias en el funcionamiento y marcha administrativa de dichas corporaciones.
+
+Las visitas respectivas podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso, a las instrucciones que por escrito les diere el Ejecutivo.
 
 > <small>(REFORMADA P.O. 22 DE ENERO DE 1930)</small>
 
@@ -973,9 +987,11 @@ La presente Constitución puede ser adicionada o reformada por el H. Congreso de
 
 I. Presentar una iniciativa, suscrita cuando menos por dos Diputados o por el Gobernador.
 
-> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 1932)</small>
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
 
-II. Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1933)</small>
+
+II.- Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas y se tendrán por conformes con ellas a los que, en el término de sesenta días, no contestaren en sentido afirmativo o en el negativo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 1931)</small>
 
@@ -1194,3 +1210,9 @@ P.O. 1 DE MARZO DE 1933.
 DECRETO NUMERO 110.
 
 Este Decreto surtirá sus efectos desde la fecha de su publicación.
+
+P.O. 5 DE ABRIL DE 1933.
+
+1° El presente decreto empezará a regir desde el día de su publicación en el "Periódico Oficial" de este Gobierno.
+
+2° Envíese a los Ayuntamientos Constitucionales del Estado de Guerrero, para su sanción un proyecto de reformas a la Constitución Política del mismo.
