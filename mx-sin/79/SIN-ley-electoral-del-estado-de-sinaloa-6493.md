@@ -4,7 +4,7 @@ identifier: "SIN-ley-electoral-del-estado-de-sinaloa-6493"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-06"
-last_updated: "1995-04-05"
+last_updated: "1998-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ELECTORAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1998.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de mayo de 1992.
 
@@ -45,11 +45,13 @@ LEY ELECTORAL DEL ESTADO DE SINALOA.
 
 Las disposiciones de esta ley son de orden publico y de observancia general en el Estado de Sinaloa, y reglamentan las normas constitucionales relativas a las instituciones políticas y a la función estatal de organizar las elecciones de los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos de la entidad.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 2.
 
-La aplicación de esta Ley, corresponde a los Consejos Electorales, a las Mesas Directivas de Casilla, al Tribunal Estatal Electoral y al Colegio Electoral del Congreso del Estado, en sus respectivos ámbitos de competencia.
+La aplicación de esta ley, corresponde a los Consejos Electorales, a las Mesas Directivas de Casilla, al Tribunal Estatal Electoral y al Congreso del Estado, en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, P.O. 05 DE ABRIL DE 1995)</small>
 
 La interpretación de la ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto por el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -63,11 +65,23 @@ La presente Ley reconoce el derecho de los ciudadanos mexicanos a participar com
 
 ### CAPITULO I. DE LA INTEGRACION DE LOS PODERES LEGISLATIVO, EJECUTIVO Y DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 3.
 
-El Poder Legislativo de la entidad se deposita en una asamblea que se denomina Congreso del Estado y se integrará con veintitrés diputados electos en Distritos Electorales uninominales conforme al sistema de mayoría relativa y con dieciséis diputados electos de acuerdo al principio de representación proporcional, mediante listas estatales votadas en una sola circunscripción plurinominal.
+Las elecciones de Gobernador del Estado, de los Diputados del Congreso del Estado y de Presidentes Municipales y Regidores de los Ayuntamientos en la entidad, se realizarán mediante sufragio universal, libre, secreto y directo, en los términos que disponen la Constitución Política del Estado y esta ley.
 
-Por cada diputado propietario se elegirá un suplente.
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+###### ARTICULO 3 Bis.
+
+El Poder Legislativo de la entidad se deposita en una Asamblea que se denomina Congreso del Estado y se integrará con 40 diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 diputados electos de acuerdo con el principio de representación proporcional mediante el sistema de listas de candidatos votada en una sola circunscripción plurinominal.
+
+Por cada Diputado Propietario se elegirá un suplente. El suplente entrará en funciones para cubrir las faltas temporales o absolutas del propietario.
+
+En los casos de vacantes de miembros del Congreso del Estado, electos por el principio de mayoría relativa, el Congreso del Estado convocará en los términos previstos por la Constitución Política del Estado de Sinaloa.
+
+Las vacantes de los diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con los candidatos postulados por su propio partido que hubiesen quedado en lugar preferente en la lista de candidatos de la circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -151,33 +165,21 @@ III.- CHOIX, ANGOSTURA, BADIRAGUATO, COSALA, ELOTA, SAN IGNACIO Y CONCORDIA, con
 
 DE LA REPRESENTACION PROPORCIONAL EN LA INTEGRACION DEL PODER LEGISLATIVO Y AYUNTAMIENTOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 8.
 
-Para la elección de los 16 de (sic) diputados según el principio de representación proporcional y el sistema de listas regionales, el territorio del Estado se dividirá en tres circunscripciones plurinominales, que se integrarán en la forma siguiente:
+Para la elección de los Diputados de Representación Proporcional, la circunscripción plurinominal corresponde al total del territorio del Estado.
 
-PRIMERA CIRCUNSCRIPCION PLURINOMINAL.- Comprende los municipios de Culiacán, Angostura, Mocorito, Salvador Alvarado, Badiraguato y Navolato, con cabecera en la ciudad de Culiacán Rosales.
+Para que un partido político obtenga el registro de su lista estatal para la elección de diputados de representación proporcional deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales.
 
-SEGUNDA CIRCUNSCRIPCION PLURINOMINAL.- Comprende los municipios de Ahome, Choix, El Fuerte, Guasave y Sinaloa, con cabecera en la ciudad de Los Mochis.
+Las listas estatales se integrarán con dieciséis fórmulas de candidatos propietarios y suplentes.
 
-TERCERA CIRCUNSCRIPCION PLURINOMINAL.- Comprende los municipios de Mazatlán, Elota, Cosalá, San Ignacio, Concordia, Rosario y Escuinapa con cabecera en la ciudad de Mazatlán.
+En ningún caso, se deberá de registrar una lista en la que más de doce de los candidatos propietarios y suplentes sean de un mismo sexo.
 
-Las listas regionales se integrarán de la siguiente manera:
+Sólo tendrán derecho que se les asignen diputados de representación proporcional, los partidos políticos que como mínimo alcancen el dos por ciento de la votación estatal emitida para la elección de diputados.
 
-A.- 7 fórmulas para la primera circunscripción plurinominal.
-
-B.- 5 fórmulas para la segunda circunscripción plurinominal.
-
-C.- 4 fórmulas para la tercera circunscripción plurinominal.
-
-Para que un partido político obtenga el registro de sus listas regionales para la elección de diputados de representación proporcional deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos mínimamente tres deberán estar en cada circunscripción plurinominal.
-
-Todo partido político que como mínimo alcance el 1.5 por ciento del total de la votación emitida para la elección de diputados en cada circunscripción, tendrá derecho, cuando menos, a que se le asigne un diputado de representación proporcional.
-
-En ningún caso un partido político podrá contar con más de 26 diputados por ambos principios.
-
-Ningún partido político que haya obtenido el 60% o menos de la votación estatal emitida podrá contar con más de 24 diputados por ambos principios.
+En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -195,29 +197,29 @@ Las listas municipales se integrarán con el número de Regidores que correspond
 
 Para los efectos de esta Ley, se entiende por fórmula electoral el conjunto de normas, elementos matemáticos y mecanismos que se utilizan para asignar a los partidos políticos los Diputados y Regidores de Representación Proporcional, que conforme a su votación les corresponde.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-Para la aplicación de la fórmula electoral, en la asignación de Diputados por el Principio de Representación Proporcional, se entiende por:
+Para la aplicación de la fórmula electoral, en la asignación de Diputados por el Principio de Representación Proporcional, se considerarán los siguientes elementos:
 
-VOTACION ESTATAL EMITIDA.- Es la suma o total de los votos depositados en las urnas para le elección de diputados en las tres circunscripciones plurinominales del Estado, deducidos los votos nulos y los de los partidos políticos que no hayan alcanzado por lo menos el 1.5% de la votación en cada circunscripción.
+VOTACIÓN ESTATAL EMITIDA. Es la suma o total de los votos depositados en las urnas para la elección de diputados del Estado de todos los partidos políticos, deducidos los votos nulos y los de los candidatos no registrados.
 
-VOTACION CIRCUNSCRIPCIONAL EMITIDA.- La suma o total de votos depositados en las urnas para la elección de diputados, en cada circunscripción.
+PORCENTAJE MÍNIMO. Elemento por medio del cual se asigna la primer curul a cada partido político que por sí solo haya obtenido mínimo el 2% y máximo el 5% de la votación estatal emitida para diputados.
 
-PORCENTAJE MÍNIMO.- Elemento por medio del cual se asigna la primer curul a cada partido político que haya obtenido como mínimo el 1.5% de la votación circunscripcional emitida para diputados en la circunscripción plurinominal que corresponda.
+VOTACIÓN EFECTIVA. Es la suma de los votos obtenidos por los partidos políticos que hayan alcanzado una votación mayor al porcentaje mínimo.
 
-VALOR DE ASIGNACIÓN.- Es el número de votos que resultan de dividir la votación circunscripcional emitida entre el número de curules de representación proporcional que correspondan a cada circunscripción.
+VALOR DE ASIGNACIÓN. Es el número de votos que resulta de dividir la votación efectiva de todos los partidos políticos, entre el número de diputados de representación proporcional que se vayan a repartir.
 
-VOTACION EFECTIVA.- La suma de los votos obtenidos por los partidos políticos que hayan alcanzado cuando menos el 1.5% de la votación circunscripcional emitida para diputados en la circunscripción plurinominal que corresponda, una vez descontado a cada uno de ellos el valor de asignación.
+COCIENTE NATURAL.- La resultante de dividir la votación efectiva de cada partido político, entre el valor de asignación.
 
-COCIENTE NATURAL.- La resultante de dividir la votación efectiva, entre el número de curules de representación proporcional que hayan quedado después de haber aplicado el porcentaje mínimo.
+VALOR DE ASIGNACIÓN AJUSTADO. Es el número de votos que resulta de restar a la votación efectiva la votación del partido que haya alcanzado el límite máximo de diputaciones establecido en esta ley y dividirlo entre el número de curules de representación proporcional que queden por asignar después de aplicar el cociente natural.
 
-COCIENTE NATURAL AJUSTADO.- Para obtenerlo se deberá restar a la votación efectiva el número de votos del partido político que haya alcanzado el límite máximo de diputaciones establecido en esta Ley, resultado que se dividirá entre el número de curules que falten por asignar.
+COCIENTE AJUSTADO. La resultante de dividir la votación efectiva de cada partido político que no haya alcanzado el límite máximo de diputados establecido en esta ley, entre el valor de asignación ajustado.
 
-RESTO MAYOR.- El remanente más alto entre los restos de las votaciones de cada partido político, deducidos los sufragios utilizados en la aplicación de los elementos antes mencionados.
+RESTO MAYOR. El remanente más alto entre los restos de las votaciones de cada partido político, deducidos los sufragios utilizados en la aplicación de los elementos antes mencionados.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -225,23 +227,27 @@ La asignación de Diputados de Representación Proporcional se sujetará a las s
 
 I.- Tendrán derecho a obtener diputaciones por el principio de representación proporcional los partidos políticos que hayan cumplido los siguientes requisitos:
 
-A).- Haber registrado candidatos a diputados de mayoría relativa en por lo menos 10 distritos uninominales. De ellos, mínimamente 3, deberán estar en cada circunscripción plurinominal.
+Haber registrado candidatos a diputados de mayoría relativa en por lo menos 10 distritos uninominales y que dichos candidatos hayan permanecido durante el proceso electoral.
 
-B).- Haber obtenido cuando menos el 1.5% de la votación total emitida para diputados en la circunscripción plurinominal que corresponda.
+Haber obtenido cuando menos el 2% de la votación estatal emitida para diputados.
 
-II.- La fórmula electoral para la asignación de las diputaciones plurinominales, seguirá el siguiente procedimiento:
+II.- La fórmula electoral para la asignación de las diputaciones de representación proporcional seguirá el siguiente procedimiento:
 
-A). En cada una de las tres circunscripciones, iniciando por la primera, continuando con la segunda y concluyendo con la tercera, se asignará una diputación a cada partido político que haya obtenido el porcentaje mínimo, y no haya alcanzado el límite de curules previsto en esta Ley.
+A). Se asignará una diputación de representación proporcional a cada partido político que haya obtenido el porcentaje mínimo.
 
-B). Hecha la asignación anterior, se procederá con las 3 circunscripciones a determinar el valor de asignación, el cual se restará a cada partido político que haya obtenido el porcentaje mínimo.
+B). Enseguida el partido que por sí solo obtuvo entre el 35% y el 52.5% de la votación estatal efectiva y, al menos, 14 diputados de mayoría relativa, se le asignarán tantos diputados de representación proporcional como sean necesarios para completar por ambos principios un total de 21 diputados.
 
-Realizada la operación anterior, el número de votos que a cada partido político le quede servirá para continuar la asignación de curules conforme a lo establecido en los incisos C o D de este artículo, según corresponda.
+Si ningún partido político reúne las condiciones contenidas en el párrafo anterior, se continuará la asignación de diputados de representación proporcional a partir de la cláusula siguiente.
 
-C). Si ningún partido político obtuvo el máximo de curules establecido en esta ley, se continuará asignando las curules mediante la aplicación del cociente natural. A continuación la asignación se hará mediante la aplicación del cociente natural ajustado. Si aún quedasen curules por repartir, se hará aplicando los restos mayores.
+C). Hecha la asignación anterior, se procederá a continuar la distribución de los diputados de representación proporcional que hayan quedado, distribuyéndoseles a aquellos partidos políticos que no se les haya asignado diputados de representación proporcional, conforme a las cláusulas A o B.
 
-D). Si algún partido político obtuvo el máximo de curules establecido en esta ley, continuará la asignación de diputaciones plurinominales mediante la aplicación del cociente natural ajustado. Si después de ello aún quedasen curules por repartir, se hará aplicando los restos mayores.
+1.- Se obtiene el valor de asignación, mediante la suma de la votación efectiva de todos los partidos políticos que obtuvieron más del 5% de la votación, con excepción del partido al que ya se le distribuyó diputados conforme a la cláusula B y se divide entre el número de diputados de representación proporcional que queden por repartir.
 
-En todo caso en el cual el número de partidos políticos que tengan derecho a la asignación de diputaciones de representación proporcional en una circunscripción sea mayor al número de curules que a ésta correspondan, la asignación se hará a los partidos políticos que tengan mayor número de votos en orden descendente hasta agotar las diputaciones.
+2.- Se obtiene el cociente natural, el cual indicará el número de diputados de representación proporcional que a cada partido político se le asignará.
+
+3.- Si algún partido político llega al máximo de curules establecido en esta ley, continuará la asignación de diputaciones plurinominales restantes mediante la aplicación del valor de asignación y el cociente ajustados.
+
+4.- En cualesquiera de los dos casos anteriores, si aún quedasen curules por repartir, se asignarán aplicando los restos mayores.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -309,11 +315,11 @@ Para ser Diputado, Gobernador Constitucional del Estado, Presidente Municipal o 
 
 A ninguna persona podrá registrarsele como candidato a distintos cargos de elección popular en el mismo proceso electoral, excepto en el caso de Presidente Municipal y Regidor.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 20.
 
-Los partidos políticos podrán registrar simultáneamente, hasta cuatro candidatos a diputados y tres regidores por mayoría relativa y por representación proporcional, en cada lista regional y en la lista municipal, respectivamente.
+Los partidos políticos podrán registrar simultáneamente, hasta cuatro candidatos a diputados y tres regidores por mayoría relativa y por representación proporcional, en lista estatal y en la lista municipal, respectivamente.
 
 ## TITULO TERCERO. DE LOS PARTIDOS POLITICOS
 
@@ -485,7 +491,13 @@ VII.- Actuar y conducirse sin ligas de dependencia con partidos políticos, orga
 
 VIII.- Abstenerse de realizar alusiones ofensivas a las personas, expresiones contrarias a la moral o a las buenas costumbres y las que inciten al desorden; y,
 
-IX.- Las demás que establezca la Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
+
+IX.- Rendir los informes de justificación sobre el financiamiento público y su aplicación, en los términos que esta ley dispone; y
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+X.- Las demás que establezca la Ley.
 
 ### CAPITULO V. DE LOS FRENTES Y COALICIONES
 
@@ -607,15 +619,21 @@ II.- Acceso, previa solicitud y autorización de la Autoridad correspondiente, a
 
 Para este fin, se excluyen los inmuebles que sean sede de los Poderes Estatales, de los Ayuntamientos, los destinados a fines culturales y los de las Agrupaciones de carácter religioso;
 
-III.- Participar, en los términos del Capítulo VII de este Título, del financiamiento público correspondiente para el desarrollo de sus actividades.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- Participar de manera equitativa del financiamiento público, de acuerdo a las disponibilidades presupuestales del estado, y del acceso a los medios de comunicación social, para el desarrollo de sus actividades, en los términos de los Capítulos VII y VIII de este Título, respectivamente.
 
 ### CAPITULO VII. DEL FINANCIAMIENTO PUBLICO DE LOS PARTIDOS POLITICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 45.
 
-Los partidos políticos tendrán derecho durante el año de la elección y los dos posteriores, al financiamiento público de sus actividades conforme a las reglas siguientes:
+Los partidos políticos tendrán derecho durante el año de la elección y los dos posteriores al financiamiento público de sus actividades de campaña electoral y ordinarias permanentes, conforme a las reglas siguientes:
 
-I.- El monto total del financiamiento público será el resultante de multiplicar un salario mínimo general diario vigente en el Estado al inicio del proceso electoral por el número total de los ciudadanos empadronados.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+I.- El monto total del financiamiento público será el resultante de multiplicar cuatro salarios del mínimo general diario vigente en el Estado al inicio del proceso electoral por el número total de los ciudadanos empadronados.
 
 II.- Del total del financiamiento, un veinte por ciento se dividirá por igual entre todos los partidos políticos, el ochenta por ciento restante se dividirá conforme a la votación obtenida por cada partido político en la última elección de diputados.
 
@@ -625,37 +643,69 @@ IV.- La cantidad que resulte del financiamiento público a cada partido se ajust
 
 V.- Determinado el financiamiento público que corresponda a cada partido político, el Consejo Estatal Electoral definirá el calendario de ministraciones mensuales.
 
-VI.- (DEROGADA, P.O. 5 DE ABRIL DE 1995)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+VI.- En el año de la elección, adicional al monto del financiamiento público previsto en la fracción I de este artículo, se dividirá entre los partidos políticos, conforme a las bases de la fracción II, la cantidad que resulte de multiplicar 0.5 salario mínimo general diario, vigente en el Estado al inicio del proceso electoral, por el número de ciudadanos empadronados para ser destinado a medios de comunicación.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Para el adecuado desarrollo de sus actividades los partidos políticos podrán autofinanciarse o recibir recursos de sus militantes debidamente identificados, así como de rendimientos financieros, fondos y fideicomisos, sin que el total de todos esos financiamientos exceda el 40% del monto del financiamiento público. Para el mismo fin podrán recibir aportaciones de sus simpatizantes debidamente identificados, cuyo monto total no excederá al 10% del financiamiento público que les corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 45 Bis.
 
-Los partidos políticos deberán presentar ante el Consejo Estatal Electoral, los informes del origen y monto de los ingresos que reciban por concepto de financiamiento público estatal y municipal, así como su empleo y aplicación, atendiendo las siguientes reglas:
+Los partidos políticos deberán presentar ante el Consejo Estatal Electoral, informes justificando el origen y monto de los ingresos que reciban por concepto de financiamiento, así como de su empleo y aplicación, atendiendo las siguientes reglas:
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 I.- Informes anuales:
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
 A.- Serán presentados a más tardar dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte; y
 
-B.- En el informe anual serán reportados los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+B.- En el informe anual serán reportados y acreditados los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 II.- Informes de campaña:
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+
 A.- Deberán presentarse por los partidos políticos, por cada una de las campañas en las elecciones respectivas especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 B.- Serán presentados dentro de los noventa días siguientes contados a partir del día de la jornada electoral, y
 
-C.- En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros y topes que acuerde el Consejo Estatal Electoral, así como el monto y destino de dichas erogaciones.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+C.- En cada informe será reportado y acreditado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros y topes que acuerde el Consejo Estatal Electoral, así como el monto y destino de dichas erogaciones.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 El procedimiento para la presentación y revisión de los informes de los partidos políticos se sujetará a las siguientes reglas:
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 I.- El Consejo Estatal Electoral determinará la comisión o despacho contable, que procederá a la revisión y dictamen de los informes presentados;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 II.- La comisión contará con sesenta días a partir de su entrega para revisar los informes anuales y con ciento veinte días para los informes de campaña presentados por los partidos políticos. Tendrá en todo momento la facultad de solicitar a los órganos responsables del financiamiento de cada partido político, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 III.- Si durante la revisión de los informes la comisión advierte la existencia de errores u omisiones técnicas, notificará al partido político que hubiere ocurrido en ellos, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 IV.- Al vencimiento del plazo señalado en la fracción II de este párrafo, o en su caso, al concedido para la rectificación de errores u omisiones, la comisión dispondrá de un plazo de veinte días para elaborar un dictamen consolidado que deberá presentar al Consejo Estatal Electoral dentro de los tres días siguientes a su conclusión.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 V.- El dictamen deberá contener por lo menos:
 
@@ -665,9 +715,15 @@ B.- En su caso, la mención de los errores o irregularidades encontradas en los 
 
 C.- El señalamiento de las aclaraciones o rectificaciones que presentaron los partidos políticos, después de haberles notificado con ese fin.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 VI.- En el Consejo Estatal Electoral se dará a conocer el dictamen que haya formulado la comisión, procediendo a la aplicación de las sanciones correspondientes a las irregularidades señaladas;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+
 VII.- Los partidos políticos podrán impugnar, previa notificación, ante el Tribunal Estatal Electoral el dictamen formulado por la comisión dentro de los tres días contados a partir de dicha notificación;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
 VIII.- Durante el mes de julio, el Consejo Estatal Electoral hará la publicación de los dictámenes y, en su caso, de las resoluciones recaídas.
 
@@ -675,17 +731,35 @@ VIII.- Durante el mes de julio, el Consejo Estatal Electoral hará la publicaci�
 
 Los Ayuntamientos otorgarán a los partidos políticos de conformidad con lo dispuesto en el Artículo 7 de esta Ley, financiamiento mensual en base a cien salarios mínimos generales por cada regiduría que les corresponda. Para este efecto, será presupuestado por los respectivos cabildos.
 
-### CAPITULO I. DE LAS AUTORIDADES ELECTORALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 1998)</small>
+
+### CAPITULO VIII. DEL ACCESO DE LOS PARTIDOS POLITICOS A LOS MEDIOS DE COMUNICACION SOCIAL
+
+###### ARTICULO 46 Bis.
+
+Los partidos políticos tendrán acceso de manera equitativa a las frecuencias de radio y canales de televisión, para promover sus actividades de campaña electoral, dentro del tiempo que gratuitamente corresponde al Estado, conforme a las siguientes bases:
+
+A.- Cada partido político disfrutará de manera igualitaria, durante el proceso electoral, del uso de hasta 15 minutos mensuales del tiempo que en la radio y en la televisión otorguen las autoridades federales al Consejo Estatal Electoral, en base al convenio que al efecto celebren en los términos del apartado A, de la fracción XXI, del artículo 56 de esta ley.
+
+B.- Para los efectos de la base que antecede, los partidos políticos, con la debida oportunidad, solicitarán al Consejo Estatal Electoral, la asignación de sus tiempos y presentarán los guiones técnicos para la difusión de sus programas, que se realizarán en los lugares y horarios que determine el propio Consejo.
+
+C.- Para determinar el tiempo mensual que les corresponda en la radio y la televisión y el orden en que habrán de usarlo los partidos políticos, según el número de éstos se dividirán semanalmente por sorteo que realizará el Consejo Estatal Electoral en presencia de los representantes de partido que debidamente citados al acto decidan asistir.
+
+D.- El Consejo Estatal Electoral determinará a los partidos políticos, las fechas, canales, estaciones y los horarios de sus transmisiones, procurando que sus actividades de campaña electoral se difundan con cobertura estatal o regional según se requiera y dentro de la programación general.
+
+E.- De formar dos o más partidos, coaliciones para la postulación de los mismos candidatos, únicamente podrán disfrutar durante el proceso electoral respectivo, del uso de tiempo en radio y televisión como un solo partido, sin que se pueda multiplicar por el número de partidos integrantes.
+
+Los partidos políticos tienen derecho exclusivo de contratar a su costa tiempos adicionales en radio y televisión, pero respetando los horarios de aquellas transmisiones ya programadas por el Consejo Estatal Electoral a los partidos.
 
 ## TITULO CUARTO. DE LAS AUTORIDADES Y ORGANIZACIÓN ELECTORAL
 
-### CAPITULO II. DEL CONSEJO ESTATAL ELECTORAL
+### CAPITULO I. DE LAS AUTORIDADES ELECTORALES
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 47.
 
-La organización de las elecciones es una función estatal, que se ejerce por:
+La organización de las elecciones es una función estatal, que se ejerce por el organismo público, autónomo en su funcionamiento e independiente en sus decisiones, integrado por:
 
 I.- El Consejo Estatal Electoral;
 
@@ -695,27 +769,35 @@ III.- Los Consejos Municipales Electorales; y
 
 IV.- Las Mesas Directivas de Casilla.
 
-Las Autoridades Electorales son responsables de aplicar y vigilar el cumplimiento de esta Ley y de las disposiciones constitucionales en materia electoral. Regirán su actuación por los principios de legalidad, imparcialidad, objetividad y certeza.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Las autoridades electorales son responsables de aplicar y vigilar el cumplimiento de esta Ley y de las disposiciones constitucionales en materia electoral. Regirán su actuación por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
 
 ###### ARTICULO 48.
 
 Los actos y resoluciones que emitan las Autoridades Electorales, serán revisados en los términos del Título Séptimo de esta Ley, por el Tribunal Estatal Electoral, como el órgano encargado por mandato constitucional, a través de la resolución de los recursos dar definitividad a las distintas etapas del proceso electoral, garantizando que las actividades comprendidas en cada una de ellas se sujeten invariablemente al principio de legalidad.
 
-### CAPITULO III. DE LOS CONSEJOS DISTRITALES ELECTORALES
+### CAPITULO II. DEL CONSEJO ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 49.
 
-El Consejo Estatal Electoral es el órgano dotado de autonomía, personalidad jurídica y patrimonio propio, encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados. En su ejercicio serán principios rectores la certeza, legalidad, independencia y objetividad. Será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones.
+El Consejo Estatal Electoral es el órgano dotado de autonomía, personalidad jurídica y patrimonio propio, encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados. En su ejercicio serán principios rectores la certeza, legalidad, independencia imparcialidad y objetividad. Será autoridad en la materia, profesional en su desempeño e independiente en sus decisiones.
 
-Se integra con un Presidente, ocho Consejeros Ciudadanos, Consejeros del Poder Legislativo, un Representante por cada Partido Político contendiente, un Secretario, y un representante de la Dirección del Registro Estatal de Electores.
+Se integra con un Presidente, ocho Consejeros Ciudadanos, Consejeros del Poder Legislativo, un Representante por cada Partido Político o coalición de partidos contendientes, un Secretario, y un representante de la Dirección del Registro Estatal de Electores.
+
+El domicilio del Consejo Estatal Electoral será la ciudad de Culiacán, capital del Estado de Sinaloa, donde mantendrá oficinas permanentes.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 50.
 
 El Presidente será designado por el Congreso del Estado con votación de las dos terceras partes de sus miembros, a propuesta de los partidos políticos, organizaciones de la sociedad, instituciones académicas y organismos intermedios reconocidos por la ley. Las propuestas recibidas, previa convocatoria pública emitida por el Congreso o la Diputación Permanente, se turnarán a Comisiones para su valoración y dictaminación. Queda a juicio del Congreso del Estado el perfil especial que debe reunir el Presidente del Consejo Estatal Electoral quien deberá contar, además de los requisitos señalados en el Artículo 52 de esta Ley con título profesional, con ejercicio no menor de cinco años al día de su designación.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+El Presidente del Consejo Estatal Electoral será designado para dos procesos electorales.
 
 Los consejeros del Poder Legislativo serán diputados designados por el Congreso del Estado, uno por cada fracción parlamentaria que representen la primera, segunda y tercera fuerza política representadas en el Congreso, si sólo hubiere dos fuerzas políticas la primera fuerza tendrá derecho a proponer dos. Por cada consejero propietario se designará un suplente.
 
@@ -727,11 +809,11 @@ Los representantes de los partidos políticos serán designados de conformidad c
 
 Los partidos políticos podrán sustituir en todo tiempo a sus representantes, notificando oportunamente al Presidente del Consejo.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 51.
 
-En las sesiones del Consejo Estatal Electoral, sólo el Presidente y los Consejeros Ciudadanos tendrán derecho a voz y voto, el Presidente tendrá voto de calidad en caso de empate. Los representantes del Congreso, de los partidos políticos y el Secretario sólo tendrán derecho a voz. El representante de la Dirección del Registro Estatal de Electores tendrá voz y voto únicamente para asuntos de su competencia.
+En las sesiones del Consejo Estatal Electoral, sólo el Presidente y los Consejeros Ciudadanos tendrán derecho a voz y voto, el Presidente tendrá voto de calidad en caso de empate. Los representantes del Congreso, de los partidos políticos y el Secretario sólo tendrán derecho a voz. El representante de la Dirección del Registro Estatal de Electores tendrá voz únicamente para asuntos de su competencia.
 
 ###### ARTICULO 52.
 
@@ -767,9 +849,9 @@ VII.- Gozar de buena reputación y no haber sido condenado por delito alguno, sa
 
 Los Consejeros Ciudadanos serán designados para dos procesos electorales ordinarios pudiendo ser reelectos.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-Para el desempeño de sus funciones tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales.
+Los Consejeros Ciudadanos en el ejercicio de sus funciones, para garantizar su independencia, objetividad e imparcialidad, se abstendrán de emitir públicamente juicios de valor en favor o en contra de candidatos o partidos políticos. Para el desempeño de sus cargos tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -821,7 +903,7 @@ VII.- Resolver sobre los Convenios de Frentes y Coaliciones que sometan a su con
 
 VIII.- Recibir y resolver las solicitudes de registro de candidaturas a Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
 IX.- Recibir y resolver las solicitudes de registro de las listas regionales de candidatos a diputados por el principio de representación proporcional;
 
@@ -829,7 +911,9 @@ X.- Expedir el Reglamento para la difusión y fijación de la propaganda elector
 
 XI.- Vigilar la adecuada aplicación del mecanismo para el sorteo de ciudadanos que habrán de integrar las Mesas Directivas de Casilla;
 
-XII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral, en la forma y términos que señala esta Ley, los recursos que sean interpuestos por los partidos políticos contra sus actos y resoluciones;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral, en la forma y términos que señala esta Ley, los recursos que sean interpuestos contra sus actos y resoluciones;
 
 XIII.- Proporcionar a los organismos electorales la documentación y material electoral, así como los demás elementos y útiles necesarios;
 
@@ -847,7 +931,7 @@ XVIII.- Aplicar la fórmula de asignación de curules por el principio de repres
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
 
-XIX.- Enviar a las instancias correspondiente el expedientes relativo a la elección de Gobernador del Estado;
+XIX.- Enviar a las instancias correspondientes el expediente relativo a la elección de Gobernador del Estado;
 
 XX.- Aprobar los formatos de la documentación electoral;
 
@@ -881,9 +965,25 @@ XXVII.- Nombrar al Secretario del Consejo a propuesta del Presidente;
 
 XXVIII.- El Consejo Estatal Electoral, elaborará su propio Reglamento de funciones, organización, responsabilidades y trabajo;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
 
-XXIX.- Las demás que le confiere esta Ley y disposiciones complementarias.
+XXIX.- Nombrar, a propuesta del Presidente, a los coordinadores de capacitación, organización y administración;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XXX.- Fijar los topes de campaña a que se deberán sujetar los candidatos y los partidos políticos, previo estudio que le presente su Presidente;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XXXI.- Aprobar anualmente el anteproyecto de presupuesto del Consejo que le proponga el Presidente y remitirlo al titular del Poder Ejecutivo a más tardar en el mes de octubre, para su inclusión en el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XXXII.- Conocer y aprobar, en sesión especial, el informe financiero que durante la segunda quincena del mes de febrero, le presente el Presidente, el cual será turnado al Congreso del Estado para los efectos legales que correspondan; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1998)</small>
+
+XXXIII.- Las demás que le confieran esta ley y disposiciones complementarias.
 
 ###### ARTICULO 57.
 
@@ -895,9 +995,9 @@ Son atribuciones del Presidente del Consejo Estatal Electoral, las siguientes:
 
 I.- Convocar, presidir y conducir las sesiones del Consejo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Proponer al Consejo el nombramiento del Secretario en los términos del Artículo 50; así como nombrar al personal necesario que tenga a su cargo los trabajos relativos a la organización electoral, a la capacitación y en general las relacionadas con el desarrollo del proceso electoral;
+II.- Proponer al Consejo el nombramiento del Secretario y de los coordinadores de capacitación, organización y administración; así como nombrar al demás personal que sea necesario para los trabajos relacionados con el desarrollo del proceso electoral;
 
 III.- Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
 
@@ -913,9 +1013,25 @@ VIII.- Publicar mediante avisos colocados en el exterior de las Oficinas del Con
 
 IX.- Recibir y remitir, una vez substanciados, los recursos que se interpongan en contra de los acuerdos y resoluciones del Consejo;
 
-X.- (DEROGADA, P.O. 5 DE ABRIL DE 1995)
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
 
-XI.- Las demás que le sean conferidas por el Consejo, esta Ley y demás disposiciones complementarias.
+X.- Presentar al Consejo Estatal Electoral un informe financiero, durante la segunda quincena del mes de febrero, el cual ya aprobado será turnado al Congreso del Estado para los efectos legales que correspondan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
+
+XI.- Remitir al Congreso del Estado, en los términos de ley, el informe financiero que cada año apruebe el Consejo Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XII.- Elaborar anualmente el anteproyecto de presupuesto del Consejo Estatal Electoral y presentarlo al Pleno de dicho Consejo para su aprobación;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XIII.- Presentar, durante la primer quincena de junio del año de la elección, el estudio para determinar los topes de campaña que regirán durante el proceso correspondiente; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1998)</small>
+
+XIV.- Las demás que le sean conferidas por el Consejo, esta ley y demás disposiciones complementarias.
 
 ###### ARTICULO 59.
 
@@ -929,7 +1045,7 @@ III.- Firmar, junto con el Presidente del Consejo, todos los acuerdos y resoluci
 
 IV.- Las demás que le confieran esta Ley, el Consejo y su Presidente.
 
-### CAPITULO IV. DE LOS CONSEJOS MUNICIPALES ELECTORALES
+### CAPITULO III. DE LOS CONSEJOS DISTRITALES ELECTORALES
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -937,9 +1053,11 @@ IV.- Las demás que le confieran esta Ley, el Consejo y su Presidente.
 
 Los Consejos Distritales Electorales son los organismos encargados de la preparación, desarrollo, vigilancia y calificación del proceso electoral en sus respectivos ámbitos de competencia. Son dependientes del Consejo Estatal Electoral y funcionan durante el proceso electoral con residencia en la cabecera de cada Distrito.
 
-Se integran por un Presidente, un Secretario, ocho Consejeros Ciudadanos, un representante de cada partido político y un representante de la Dirección del Registro Estatal de Electores.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+Se integran por un Presidente, un Secretario, ocho Consejeros Ciudadanos, un representante de cada partido político o coalición de partidos y un representante de la Dirección del Registro Estatal de Electores.
+
+(REFORMADO, P.O. 5 DE ABRIL DE 1995) (F. DE E., P.O. DE 24 DE ABRIL DE 1998)
 
 ###### ARTICULO 61.
 
@@ -951,11 +1069,17 @@ El Presidente y los Consejeros Ciudadanos de los Consejos Distritales, serán no
 
 Los miembros de los Consejos Distritales tendrán voz y voto, con excepción del Secretario y los representantes de los partidos políticos, quienes únicamente tendrán derecho a voz.
 
-El representante de la Dirección del Registro Estatal de Electores tendrá voz y voto únicamente para asuntos de su competencia.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+El representante de la Dirección del Registro Estatal de Electores tendrá voz únicamente para asuntos de su competencia.
 
 Los representantes de los partidos políticos serán designados de conformidad con sus estatutos y por cada representante propietario habrá un suplente.
 
 Los partidos políticos podrán sustituir en todo tiempo a sus representantes, notificando oportunamente al Presidente del Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+El Secretario del Consejo será designado por el propio Consejo a propuesta del Presidente del mismo.
 
 ###### ARTICULO 62.
 
@@ -1009,7 +1133,9 @@ XI.- Realizar el cómputo municipal, calificar y declarar la validez de la elecc
 
 XII.- Enviar a las instancias correspondientes los expedientes electorales, cuya integración les impone la presente Ley;
 
-XIII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral, en la forma y términos que señala esta Ley, los recursos que sean interpuestos por los partidos políticos contra sus actos o resoluciones;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XIII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral, en la forma y términos que señala esta ley, los recursos que sean interpuestos contra sus actos o resoluciones;
 
 XIV.- Recibir, sustanciar y resolver los recursos de aclaración que se interpongan en los términos del Artículo 219 de esta Ley;
 
@@ -1017,9 +1143,13 @@ XIV.- Recibir, sustanciar y resolver los recursos de aclaración que se interpon
 
 XV.- Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezcan, que hayan presentado su solicitud para participar como observadores durante el proceso electoral; y
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
 
-XVI.- Las demás que le confieren esta Ley, el Consejo Estatal y disposiciones complementarias.
+XVI.- Nombrar al Secretario del Consejo a propuesta del Presidente;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+XVII.- Las demás que les confiera esta ley, el Consejo Estatal y disposiciones complementarias.
 
 ###### ARTICULO 66.
 
@@ -1027,7 +1157,9 @@ Son atribuciones del Presidente del Consejo Distrital, las siguientes:
 
 I.- Convocar, presidir y conducir las sesiones del Consejo;
 
-II.- Nombrar al Secretario del Consejo;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+II.- Proponer el nombramiento del Secretario al Consejo;
 
 III.- Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
 
@@ -1047,13 +1179,17 @@ IX.- Las demás que le sean conferidas por esta Ley, los Consejos Estatal y Dist
 
 El Secretario del Consejo Distrital Electoral tendrá en el ámbito de su competencia, las mismas atribuciones que el Secretario del Consejo Estatal Electoral.
 
-### CAPITULO V. DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO IV. DE LOS CONSEJOS MUNICIPALES ELECTORALES
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 68.
 
 Los Consejos Municipales Electorales son organismos encargados de la preparación, desarrollo, vigilancia y calificación del proceso electoral, dentro de sus respectivas jurisdicciones, conforme a lo establecido por esta Ley y disposiciones relativas. Funcionarán en los Municipios donde exista mas de un Distrito Electoral y se instalarán en la cabecera respectiva. En los Municipios que tengan un solo Distrito Electoral, el Consejo Distrital hará las veces de Consejo Municipal.
 
-Se integrarán con un Presidente, un Secretario, ocho Consejeros ciudadanos, un representante por cada partido y un representante de la Dirección del Registro Estatal de Electores.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Se integrarán con un Presidente, un Secretario, ocho Consejeros ciudadanos, un representante por cada partido político o coalición de partidos, y un representante de la Dirección del Registro Estatal de Electores.
 
 ###### ARTICULO 69.
 
@@ -1063,9 +1199,9 @@ La designación del Presidente, el Secretario, los Consejeros ciudadanos y los r
 
 Los miembros de los Consejos Municipales Electorales tendrán voz y voto, con excepción del Secretario y los representantes de los partidos políticos, que tendrán voz.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-El representante de la Dirección del Registro Estatal de Electores tendrá voz y voto únicamente para asuntos de su competencia.
+El representante de la Dirección del Registro Estatal de Electores tendrá voz únicamente para los asuntos de su competencia.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -1111,7 +1247,13 @@ VII.- Enviar a las instancias correspondientes los expedientes electorales cuya 
 
 VIII.- Recibir, sustanciar y remitir al Tribunal Estatal Electoral en la forma y términos que señala esta Ley los recursos que sean interpuestos por los partidos políticos contra sus actos y resoluciones; y,
 
-IX.- Las demás que les confiera esta Ley, el Consejo Estatal y disposiciones complementarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE ENERO DE 1998)</small>
+
+IX.- Nombrar al Secretario del Consejo a propuesta del Presidente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1998)</small>
+
+X.- Las demás que le confiera esta Ley, el Consejo Estatal y demás disposiciones complementarias.
 
 ###### ARTICULO 74.
 
@@ -1121,7 +1263,7 @@ El Presidente del Consejo Municipal Electoral en el ámbito de su competencia, t
 
 El Secretario del Consejo Municipal Electoral tendrá en el ámbito de su competencia las mismas atribuciones que el Secretario del Consejo Estatal Electoral.
 
-### CAPITULO VI. DISPOSICIONES COMUNES A LOS CONSEJOS ELECTORALES
+### CAPITULO V. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 76.
 
@@ -1135,9 +1277,11 @@ Las Mesas Directivas de Casilla tienen a su cargo la recepción, escrutinio y c�
 
 En cada sección electoral se instalará una casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en los Artículos 119 y 120 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 79.
 
-Las Mesas Directivas de Casilla se integran con un Presidente, un Secretario, dos Escrutadores y sus respectivos suplentes.
+Las Mesas Directivas de casilla se integran con un Presidente, un Secretario, dos escrutadores y tres suplentes generales.
 
 ###### ARTICULO 80.
 
@@ -1227,7 +1371,9 @@ I.- En el mes de julio del año en que deban celebrarse las elecciones, los Cons
 
 II.- A los ciudadanos sorteados, se les hará una evaluación objetiva y se excluirá a los que no sean elegibles, por su avanzada edad, porque no sepan leer ni escribir o que por alguna razón estén impedidos. A los restantes se les dará una capacitación en materia electoral durante el mes de agosto y hasta la segunda semana de septiembre del año de la elección;
 
-III.- Recibida la capacitación el Presidente del Consejo procederá a efectuar una selección grupal para que según sus aptitudes y conocimientos en materia electoral sean susceptibles de fungir como Presidentes de Casilla;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- Recibida la capacitación, el Consejo Distrital procederá a efectuar una selección grupal para que según sus aptitudes y conocimientos en materia electoral sean susceptibles de fungir como Presidente de Casilla;
 
 A la lista de posibles Presidentes, el Consejo aplicará un nuevo sorteo, que definirá quién será el Presidente de Casilla; de los que resten se elegirán el Secretario y los Escrutadores;
 
@@ -1243,13 +1389,15 @@ VI.- En sucesivas elecciones de acuerdo a la efectividad que los funcionarios de
 
 VII.- En caso de presentarse impedimentos de los funcionarios u otras causas supervinientes que impidan el cumplimiento de sus responsabilidades, el Consejo acordará lo conducente y ordenará una segunda publicación conteniendo la ubicación e integrantes de mesas directivas de casilla definitivas, a más tardar tres días antes de la elección.
 
-### CAPITULO I. DE LAS FUNCIONES, ESTRUCTURA Y ATRIBUCIONES DEL REGISTRO DE ELECTORES
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CONSEJOS ELECTORALES
 
 ###### ARTICULO 86.
 
 Los integrantes del Consejo Estatal Electoral, de los Consejos Distritales y Municipales, antes de tomar posesión de sus cargos, deberán rendir la protesta de Ley.
 
-Para ser postulados a cargos de elección popular, los integrantes de los organismos electorales deberán renunciar antes de su postulación.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Para ser postulados a cargos de elección popular, los Presidentes, Secretarios y Consejeros Ciudadanos de los Consejos Electorales deberán haber renunciado, al menos, dos años antes del día de la elección correspondiente.
 
 ###### ARTICULO 87.
 
@@ -1281,7 +1429,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 ## TITULO QUINTO. DEL REGISTRO ESTATAL DE ELECTORES
 
-### CAPITULO II. DE LA INSCRIPCION DE CIUDADANOS
+### CAPITULO I. DE LAS FUNCIONES, ESTRUCTURA Y ATRIBUCIONES DEL REGISTRO DE ELECTORES
 
 ###### ARTICULO 90.
 
@@ -1297,7 +1445,9 @@ También podrá establecer oficinas y agencias en ciudades, poblaciones y lugare
 
 El Registro Estatal de Electores se administrará internamente y dispondrá de los recursos humanos y materiales necesarios, en los términos que disponga la reglamentación que al efecto expida el Consejo Estatal Electoral.
 
-El Director y el Secretario General serán designados por el Presidente del Consejo Estatal Electoral.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+El Director y el Secretario General serán nombrados por el Consejo Estatal Electoral a propuesta de su Presidente.
 
 Los directores de área o de unidades técnicas, los jefes de departamento y el personal de confianza serán nombrados por el Director General.
 
@@ -1329,7 +1479,7 @@ IX.- Las demás que le confieran esta Ley, su reglamentación interna y disposic
 
 El Consejo Estatal Electoral podrá firmar convenios con el Director General del Instituto Federal Electoral para utilizar el catálogo general, el padrón electoral, la credencial para votar y las listas nominales, en el desarrollo de los procesos electorales estatales y municipales.
 
-### CAPITULO III. DE LA CREDENCIAL PARA VOTAR
+### CAPITULO II. DE LA INSCRIPCION DE CIUDADANOS
 
 ###### ARTICULO 95.
 
@@ -1343,7 +1493,7 @@ Para efectos de su inscripción en el Registro Estatal de Electores, las certifi
 
 Los ciudadanos inscritos quedan obligados con el Registro estatal de Electores a comunicarle sus cambios de domicilio dentro de los treinta días siguientes a la fecha en que ocurran.
 
-### CAPITULO IV. DE LA DEPURACION DEL PADRON ELECTORAL Y DEL PROCEDIMIENTO TECNICO CENSAL
+### CAPITULO III. DE LA CREDENCIAL PARA VOTAR
 
 ###### ARTICULO 97.
 
@@ -1357,7 +1507,7 @@ Será nula toda credencial para votar cuyos datos estén alterados.
 
 Durante la jornada electoral, los Presidentes de Casillas recogerán las credenciales para votar que aparezcan alteradas y las remitirán a la autoridad competente para que proceda conforme a la Ley.
 
-### CAPITULO V. DE LAS LISTAS NOMINALES DE ELECTORES
+### CAPITULO IV. DE LA DEPURACION DEL PADRON ELECTORAL Y DEL PROCEDIMIENTO TECNICO CENSAL
 
 ###### ARTICULO 98.
 
@@ -1399,11 +1549,13 @@ Las autoridades federales, estatales y municipales, así como los ciudadanos en 
 
 Analizada la información obtenida por la aplicación de las técnicas censales electorales, se harán las correcciones que procedan en el Padrón Electoral.
 
-### CAPITULO VI. DE LOS COMITES ESTATAL Y DISTRITALES DE VIGILANCIA
+### CAPITULO V. DE LAS LISTAS NOMINALES DE ELECTORES
 
-###### ARTÍCULO 102.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
-Las Listas Nominales de Electores contendrán los nombres y datos de los ciudadanos que puedan ejercer su derecho a votar en una determinada sección electoral. Estas listas serán clasificadas por distrito y sección electoral.
+###### ARTICULO 102.
+
+Las Listas Nominales de Electores contendrán los nombres, datos y fotografías de los ciudadanos que puedan ejercer su derecho a votar en una determinada sección electoral. Estas listas serán clasificadas por distrito y sección electoral.
 
 La sección electoral es la demarcación territorial en la que se dividen los distritos electorales y se nomerarán (sic) por orden progresivo. En las listas de cada sección los ciudadanos aparecerán por orden alfabético.
 
@@ -1421,9 +1573,7 @@ Hechas las correcciones procedentes que hubieren solicitado ciudadanos o partido
 
 El Consejo Estatal Electoral recibirá del Registro Estatal de Electores las Listas Nominales definitivas de toda la Entidad antes del día 30 de Septiembre del año de los comicios.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO VI. DE LOS COMITES ESTATAL Y DISTRITALES DE VIGILANCIA
 
 ###### ARTICULO 104.
 
@@ -1499,9 +1649,9 @@ Tratándose de la elección de Ayuntamientos los Comités Municipales Electorale
 
 ## TITULO SEXTO. DEL PROCESO ELECTORAL
 
-### CAPITULO I Bis. DE LOS OBSERVADORES ELECTORALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 109.
 
@@ -1511,7 +1661,9 @@ Se iniciará con la publicación de la convocatoria a elecciones y concluirá co
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ABRIL DE 1995)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO PARA EL REGISTRO DE CANDIDATOS
+### CAPITULO I Bis. DE LOS OBSERVADORES ELECTORALES
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 109 Bis.
 
@@ -1569,7 +1721,7 @@ G.- Recepción de escritos de incidentes y protestas.
 
 X.- Los observadores podrán presentar informe por escrito de sus actividades ante la autoridad electoral donde actuó o ante el Consejo Estatal Electoral en un plazo de 24 horas posteriores a la jornada electoral. En ningún caso los informes, juicios, opiniones o conclusiones de los observadores tendrán efectos jurídicos sobre el proceso electoral y sus resultados.
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA LA UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPITULO II. DEL PROCEDIMIENTO PARA EL REGISTRO DE CANDIDATOS
 
 ###### ARTICULO 110.
 
@@ -1583,9 +1735,9 @@ I.- Para candidatos a Gobernador del Estado, durante el mes de julio, por el Con
 
 II.- Para candidatos a Diputados por el sistema de mayoría relativa, durante la primera quincena de agosto, por los Consejos Distritales correspondientes;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA P.O. 28 DE ENERO DE 1998)</small>
 
-III.- Para las Listas Regionales de candidatos a Diputados por el principio de representación proporcional, durante la segunda quincena de agosto, por el Consejo Estatal Electoral;
+III.- Para las listas de candidatos a Diputados por el principio de representación proporcional, durante la segunda quincena de agosto, por el Consejo Estatal Electoral;
 
 IV.- Para las planillas de candidaturas a Presidente Municipal y Regidores por el sistema de mayoría relativa, durante la primera quincena de agosto, por los Consejos Distritales y Municipales rrespondientes (sic); y,
 
@@ -1613,9 +1765,9 @@ VI.- Cargo para el que se les postule.
 
 La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar, así como la constancia de residencia de los candidatos propietarios y suplentes en su caso.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-La solicitud de Registro de la Lista Regional de candidaturas a Diputados por el principio de representación proporcional, deberá acompañarse además de los documentos referidos en los párrafos anteriores, de la constancia de registro de, por lo menos, diez candidaturas de Diputados por el sistema de mayoría relativa.
+La solicitud de registro de la lista de candidatos a Diputados por el principio de representación proporcional, deberá acompañarse además de los documentos referidos en los párrafos anteriores, de la constancia de registro de, por lo menos, diez candidaturas de Diputados por el sistema de mayoría relativa.
 
 ###### ARTICULO 114.
 
@@ -1649,9 +1801,9 @@ Para la corrección o sustitución en su caso, de las boletas electorales se est
 
 III.- En los casos en que la renuncia del candidato fuera notificada por este a los Consejos, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a la sustitución.
 
-### CAPITULO IV. DEL REGISTRO DE REPRESENTANTES
+### CAPITULO II Bis. DE LOS CONCEPTOS Y TOPES DE CAMPAÑA ELECTORAL
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 117.
 
@@ -1675,7 +1827,27 @@ VII.- Dentro del término de diez días naturales, contados a partir de la fecha
 
 VIII.- Las campañas electorales concluirán tres días antes del de la elección.
 
-### CAPITULO V. DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 1998)</small>
+
+###### ARTICULO 117 Bis.
+
+Para los efectos de esta ley, la campaña electoral es el conjunto de actividades efectuadas por los partidos políticos y coaliciones y sus candidatos registrados para obtener el voto de los electores.
+
+El Consejo Estatal Electoral, a más tardar en el mes anterior al término establecido para el registro de candidatos, aprobará el tope de gastos de campaña para cada elección, los cuales no podrán ser rebasados por los partidos políticos o coaliciones.
+
+Los gastos de campaña comprenderán:
+
+A.- Los gastos de propaganda, realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos efectuados en lugares alquilados, propaganda utilitaria y demás similares;
+
+B.- Los gastos de operación de la campaña en sueldos y salarios del personal eventual, arrendamiento temporal de bienes muebles e inmuebles, transporte de recursos humanos y materiales, viáticos y similares; y
+
+C.- Los gastos hechos en propaganda en prensa, radio y televisión.
+
+Los topes de campaña se fijarán por el Consejo Estatal Electoral, previo estudio que le presente su Presidente, tomando en cuenta el cargo de elección popular de que se trate, la densidad de población, las condiciones geográficas y el tiempo de campaña respectivo.
+
+Quedan excluidos de los gastos de campaña los realizados por los partidos en su operación ordinaria y en el sostenimiento de sus órganos directivos y organizaciones.
+
+### CAPITULO III. DEL PROCEDIMIENTO PARA LA UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### ARTICULO 118.
 
@@ -1691,7 +1863,9 @@ I.- En caso de que el número de ciudadanos inscritos en la lista nominal de ele
 
 II.- No existiendo un local que permita la instalación en un mismo sitio de las casillas necesarias, se ubicarán éstas en lugares diversos atendiendo a la concentración y distribución de los electores en la sección; y,
 
-III.- Cuando las condiciones geográficas de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de una o varias casillas extraordinarias. En este caso en cada casilla se contará con una lista nominal de electores de la sección.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- Cuando las condiciones geográficas de una sección hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores. Para lo cual, si técnicamente fuese posible, se deberá elaborar el listado nominal conteniendo únicamente los datos de los ciudadanos que habitan en la zona geográfica donde se instalen dichas casillas.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -1737,13 +1911,15 @@ III.- Durante el mes de agosto, los Consejos Distritales Electorales revisarán 
 
 IV.- Los Consejos Distritales Electorales sesionarán en la última semana de agosto y aprobarán la lista en que se contenga la ubicación de las casillas.
 
-### CAPITULO VI. DE LA JORNADA ELECTORAL
+### CAPITULO IV. DEL REGISTRO DE REPRESENTANTES
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 124.
 
-Los Partidos políticos, a partir del 20 de septiembre y hasta diez días antes del de la elección, tendrán derecho a nombrar un representante propietario y un suplente ante cada Mesa Directiva de Casilla, un representante general propietario por cada 10 casillas urbanas y uno por cada cinco casillas rurales. Los representantes serán residentes del Distrito en que actuarán.
+Los partidos políticos, a partir del 20 de septiembre y hasta diez días antes del de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente ante cada Mesa Directiva de Casilla, un representante general propietario por cada 10 casillas urbanas y uno por cada cinco casillas rurales. Los representantes serán residentes del Distrito en que actuarán.
+
+> <small>(REFORMADO, P.O. 05 DE ABRIL DE 1995)</small>
 
 El Consejo Estatal Electoral determinará la clasificación de las casillas atendiendo las disposiciones previstas en el Artículo 7 de la Ley Orgánica Municipal del Estado de Sinaloa, en vigor.
 
@@ -1755,7 +1931,9 @@ I.- Ejercerán su cargo exclusivamente ante las Mesas Directivas de Casilla inst
 
 II.- Deberán actuar individualmente, y en ningún caso podrán hacerse presentes al mismo tiempo en las casillas mas de un representante general, de un mismo partido político;
 
-III.- No sustituirán en sus funciones a los representantes de los partidos políticos ante las Mesas Directivas de Casilla;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- No sustituirán en sus funciones a los representantes de los partidos políticos ante las mesas directivas de casillas, sin embargo, podrán coadyuvar en sus funciones y en el ejercicio de los derechos de éstos ante las propias mesas directivas de casillas;
 
 IV.- En ningún caso ejercerán o asumirán las funciones de los integrantes de las Mesas Directivas de Casilla;
 
@@ -1785,9 +1963,9 @@ V.- Acompañar al Presidente al Consejo Distrital o Municipal correspondiente, p
 
 VI.- Podrá ser reemplazado por su suplente en cualquier momento hasta antes del escrutinio y cómputo;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-VII.- Utilizar el logotipo de su partido en lugar visible para su mejor identificación. El logotipo tendrá las medidas que acuerde el Consejo Estatal Electoral;
+VII.- Utilizar el distintivo de su partido en lugar visible para su mejor identificación, durante toda la jornada electoral; el mismo será de un tamaño de hasta 2.5 por 2.5 centímetros, con el emblema del partido político o coalición que represente y con la leyenda visible de "representante";
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -1829,9 +2007,9 @@ V.- Domicilio del representante;
 
 VI.- Clave de la credencial para votar;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-VII.- Firma del representante o carta de anuencia firmada por éste;
+VII.- Firma del representante, lo cual se podrá realizar hasta antes de la instalación de la casilla y previa identificación;
 
 VIII.- Lugar y fecha de expedición;
 
@@ -1849,7 +2027,7 @@ Los nombramientos de los representantes generales deberán contener los mismos d
 
 De estos nombramientos se formará una lista que deberá entregarse a los Presidentes de las Mesas Directivas de Casilla.
 
-### CAPITULO VII. DE LA RECEPCION DE PAQUETES ELECTORALES Y LA INFORMACION PRELIMINAR DE RESULTADOS
+### CAPITULO V. DE LA DOCUMENTACION Y EL MATERIAL ELECTORAL
 
 ###### ARTICULO 132
 
@@ -1866,6 +2044,10 @@ IV.- Espacio en blanco para anotar los nombres de los candidatos no registrados:
 V.- El nombre del estado, distrito, municipio, número de sección y casilla; y,
 
 VI.- Las firmas impresas del Presidente y Secretario del Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contendrá ese talón será a la que hace referencia la fracción V de este artículo. El número de folio será progresivo.
 
 ###### ARTICULO 133.
 
@@ -1907,7 +2089,9 @@ VI.- Los representantes de los partidos bajo su mas estricta responsabilidad, si
 
 Los presidentes de los Consejos Distritales Electorales entregarán a cada presidente de mesa directiva de casilla, dentro de siete días previos y a más tardar tres días antes al de la elección y contra el recibo detallado correspondiente:
 
-I.- Dos ejemplares de la lista nominal de electores de la sección;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+I.- Dos ejemplares de la lista nominal con fotografía de electores de la sección;
 
 II.- La relación de los representantes de los partidos registrados para la casilla;
 
@@ -1947,7 +2131,13 @@ El presidente y el secretario de cada casilla cuidarán que las condiciones del 
 
 Los Consejos Distritales Electorales fijarán, dentro de los cinco días previos al día de la jornada electoral, en los lugares en que habrán de instalarse las casillas, un aviso comunicando dicho evento a la ciudadanía.
 
-### CAPITULO VIII. DE LOS COMPUTOS DISTRITALES Y MUNICIPALES
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Asimismo mandará publicar en los diarios de mayor circulación, el día de la jornada electoral, la lista conteniendo la ubicación de las casillas electorales y su integración por municipios, distrito electoral, sección y número de casilla según corresponda.
+
+### CAPITULO VI. DE LA JORNADA ELECTORAL
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 144.
 
@@ -1969,19 +2159,45 @@ Los representantes propietarios de los partidos podrán ser sustituidos por el s
 
 En caso de no instalarse la casilla conforme al artículo anterior, se procederá a lo siguiente:
 
-I.- Si a las ocho horas con quince minutos no se presentara alguno o algunos de los funcionarios propietarios, actuarán en su lugar los respectivos suplentes;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Si a las ocho horas con treinta minutos no está integrada la mesa directiva conforme a la fracción anterior, pero estuviera el presidente o su suplente, cualquiera de los dos designará a los funcionarios necesarios para suplir a los ausentes y procederá a su instalación;
+I.- Si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración, recorriendo, en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes presentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la casilla;
 
-III.- En ausencia del presidente y de su suplente, el Consejo Distrital Electoral tomará las medidas necesarias para la instalación de la casilla; y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-IV.- Cuando por razones de distancia o dificultad en las comunicaciones no sea posible la intervención oportuna del Consejo Distrital Electoral, los representantes de los partidos políticos acreditados ante las casillas designarán, de común acuerdo, a los funcionarios necesarios para integrar la mesa directiva. En este supuesto se requerirá:
+II.- Si no estuviera el Presidente, pero estuviera el Secretario, éste asumirá las funciones de Presidente de la casilla y procederá a integrarla en los términos señalados en la fracción anterior.
 
-A). La presencia de un Juez o Notario Público, quien tiene la obligación de acudir y dar fe de los hechos, y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-B). En ausencia del Juez o Notario Público, bastará que los representantes expresen su conformidad para designar, de común acuerdo, a los miembros de la mesa directiva.
+III.- Si no estuvieran el Presidente ni el Secretario, pero estuviera alguno de los Escrutadores, éste asumirá las funciones de Presidente y procederá a integrar la casilla de conformidad con lo señalado en la fracción I de este artículo;
 
-Los nombramientos que se hagan conforme a las fracciones II, III y IV de este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer en los representantes de los partidos políticos.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+IV.- Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de Presidente, los otros las de Secretario y Primer Escrutador, procediendo el primero a instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+V.- Si no asistiera ninguno de los funcionarios de la casilla, el Consejo Distrital tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+VI.- Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Consejo Distrital designado, a las diez horas, los representantes de los partidos políticos ante las mesas directivas de casilla designarán, por mayoría, a los funcionarios necesarios para integrar las casillas de entre los electores presentes;
+
+> <small>(ADICIONADA P.O. 28 DE ENERO DE 1998)</small>
+
+VII.- En todo caso, integrada conforme a los anteriores supuestos, la mesa directiva de casilla, iniciará sus actividades, recibirá validamente la votación y funcionará hasta su clausura;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+VIII.- En el supuesto previsto en la fracción VI, se requerirá:
+
+A.- La Presencia de un juez o notario público, quien tiene la obligación de acudir y dar fe de los hechos; y,
+
+B.- En ausencia del juez o notario público, bastará que los representantes expresen su conformidad para designar, de común acuerdo, a los miembros de la mesa directiva; y,
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+IX.- Los nombramientos que se hagan conforme a lo dispuesto en la fracción I de este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos.
 
 ###### ARTICULO 146.
 
@@ -2309,9 +2525,7 @@ III.- El apoyo necesario para Practicar las diligencias que les sean demandadas 
 
 IV.- La información de los hechos que puedan influir o alterar el resultado de las elecciones.
 
-### CAPITULO IX. DEL COMPUTO ESTATAL
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO VII. DE LA RECEPCION DE PAQUETES ELECTORALES Y LA INFORMACION PRELIMINAR DE RESULTADOS
 
 ###### ARTICULO 177.
 
@@ -2351,7 +2565,7 @@ Del mismo modo, dicho consejo podrá dar a conocer avances más precisos sobre l
 
 Los datos consignados en las actas finales de escrutinio y cómputo constituyen la única fuente del resultado preliminar de las elecciones.
 
-### CAPITULO X. DE LA CALIFICACION DE LAS ELECCIONES
+### CAPITULO VIII. DE LOS COMPUTOS DISTRITALES Y MUNICIPALES
 
 ###### ARTICULO 181.
 
@@ -2551,11 +2765,13 @@ Los presidentes de los consejos distritales y municipales conservarán en su pod
 
 Asimismo, tomarán las medidas necesarias para el depósito y salvaguarda de toda la documentación electoral, en el lugar que para tal efecto se determine, por el tiempo que sea necesario, hasta que el Consejo Estatal Electoral acuerde su destrucción; cualquier acto que contra esta disposición se realice, será sancionado como delito electoral grave.
 
-### CAPITULO II. DE LAS NULIDADES Y SUS EFECTOS
+### CAPITULO IX. DEL COMPUTO ESTATAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 194.
 
-El Consejo Estatal Electoral celebrará sesión el segundo jueves a partir del día de la elección, para realizar el cómputo estatal de las elecciones de diputados por el principio de representación proporcional y de Gobernador Constitucional del Estado.
+El Consejo Estatal Electoral celebrará sesión el domingo siguiente al de la elección, para realizar el cómputo Estatal de las elecciones de Diputados por el principio de representación proporcional y de Gobernador Constitucional del Estado.
 
 Al instalarse la sesión, se iniciará la elaboración de un acta circunstanciada, en la que se harán constar los resultados y los incidentes que ocurriesen durante su celebración.
 
@@ -2609,9 +2825,9 @@ C). El acta de cómputo estatal de la elección de Gobernador del Estado.
 
 El presidente del consejo estatal, una vez integrados los expedientes a que se refiere el artículo anterior procederá a:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
-I.- Remitir al Tribunal Estatal Electoral, cuando se hubiera interpuesto recurso de inconformidad en contra del cómputo estatal de la elección de diputados por el principio de representación proporcional y de Gobernador Constitucional del Estado, los siguientes documentos:
+I.- Remitir al Tribunal Estatal Electoral, cuando se hubiera interpuesto el recurso de reconsideración en contra de la asignación de Diputados por el principio de representación proporcional y de inconformidad en contra del cómputo estatal de la elección de Gobernador Constitucional del Estado los siguientes documentos:
 
 A). El escrito de recurso de inconformidad interpuesto;
 
@@ -2629,25 +2845,29 @@ F). Un informe circunstanciado sobre el acto o resolución impugnados, en el que
 
 G). Los demás elementos que estime pertinentes para la resolución.
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor del Congreso del Estado el expediente del cómputo estatal de la elección de Gobernador del Estado.
+II.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, al Tribunal Estatal Electoral, el expediente del cómputo de la elección de Gobernador del Estado.
 
-### CAPITULO III. DE LOS RECURSOS
+### CAPITULO X. DE LA CALIFICACION DE LAS ELECCIONES
 
 ###### ARTICULO 198.
 
 (DEROGADO, P.O. 5 DE ABRIL DE 1995)
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 199.
 
-Las elecciones para Gobernador del Estado serán calificadas por la legislatura que quede definitivamente instalada el primero de diciembre del año que corresponda. La declaratoria se expedirá a más tardar el día diez de diciembre a fin de que el gobernador electo tome posesión de su cargo el día primero de enero del año siguiente. Esta resolución será definitiva e inatacable.
+El Tribunal Estatal Electoral en pleno, realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos. La declaratoria se emitirá a más tardar el día cinco de diciembre, y será remitida al Congreso del Estado para que expida el Bando Solemne, a fin de que el Gobernador Electo tome posesión de su cargo el día primero de enero del año siguiente.
 
-La declaratoria de Gobernador electo, será promulgada por bando solemne en las cabeceras de las municipalidades.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 200.
 
-(DEROGADO, P.O. 5 DE ABRIL DE 1995)
+El Congreso del Estado expedirá, entre el 15 y el 20 de diciembre, el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Tribunal Estatal Electoral.
+
+El Bando Solemne se publicará en las cabeceras municipales.
 
 ## TITULO SEPTIMO. DEL SISTEMA DE IMPUGNACIONES
 
@@ -2655,19 +2875,21 @@ CAPITUL I (sic)
 
 DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 201.
 
-El Tribunal Estatal Electoral, es un órgano autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva e inatacable las impugnaciones que se hagan con excepción de las que se presenten en relación con la elección de Gobernador del Estado, en donde la última instancia para su calificación será el Colegio Electoral del Congreso del Estado.
-
-El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garantizará que en los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+El Tribunal Estatal Electoral, es un órgano autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se hagan en el período no electoral y durante el proceso electoral.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
+El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garantizará que en los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 202.
 
-El Tribunal Estatal Electoral se instalará dentro de la segunda quincena del mes de abril del año de la elección, para entrar en receso una vez calificadas las elecciones. Tendrá su sede en la ciudad de Culiacán Rosales, Sinaloa. Los Magistrados que formen parte de él, durarán siete años en su encargo y recibirán remuneración únicamente durante el proceso electoral.
+El Tribunal Estatal Electoral se instalará dentro de la segunda quincena del mes de abril del año de la elección, para entrar en receso una vez calificadas las elecciones. Tendrá su sede en la ciudad de Culiacán Rosales, Sinaloa. Los Magistrados que formen parte de él, durarán siete años en su encargo y recibirán remuneración únicamente durante el proceso electoral. Se exceptúa de lo anterior, la Sala de Reconsideración, la que funcionará en forma permanente y sus integrantes recibirán la remuneración correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -2687,13 +2909,13 @@ C). De no lograrse la votación mencionada se procederá al sorteo. Los que se h
 
 D).- Para cubrir ausencias definitivas de los magistrados o en caso de incremento en su número, su designación se sujeta al procedimiento establecido en el inciso "A" de este artículo.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-Se integrará una Sala de Reconsideración con tres magistrados, entre los que estará el Presidente del Tribunal Estatal Electoral, que serán designados por el Congreso del Estado. Deberá quedar integrada en el mes de abril del año de la elección. Se instalará para iniciar sus funciones durante el mes anterior al día de la votación y las concluirá inmediatamente después de resolver el último de los recursos que se haya interpuesto, en su caso.
+Durante el proceso electoral, se integrará una Sala de Reconsideración con tres magistrados, entre los que estará el Presidente del Tribunal Estatal Electoral. Deberá quedar integrada en el mes de abril del año de la elección. Se instalará para iniciar sus funciones durante el mes anterior al día de la votación y las concluirá inmediatamente después de resolver el último de los recursos que se haya interpuesto, en su caso. En período no electoral, la Sala de Reconsideración funcionará como sala unitaria para resolver las impugnaciones que se presenten contra los actos y resoluciones del Consejo Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-Esta sala es competente para conocer y resolver únicamente el recurso de reconsideración, que se interponga en contra de las resoluciones del pleno del Tribunal y que recaigan al recurso de inconformidad que se haya interpuesto con relación a los resultados de los cómputos, la declaratoria de validez y constancia de mayoría en las elecciones de Diputados por mayoría relativa, de Presidentes Municipales y Regidores por mayoría relativa y Diputados y Regidores de representación proporcional.
+Esta sala es competente para resolver durante el proceso electoral los recursos que se interpongan respecto de la elección de Gobernador del Estado y en contra de la asignación de Diputados por el principio de representación proporcional que realice el Consejo Estatal Electoral. Los fallos de esta Sala serán definitivos y firmes.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -2827,9 +3049,7 @@ II.- Auxiliar a los Magistrados Numerarios en el estudio, análisis y valoració
 
 III.- Las demás que le encomiende el Presidente del Tribunal.
 
-### CAPITULO IV. DE LAS NOTIFICACIONES
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO II. DE LAS NULIDADES Y SUS EFECTOS
 
 ###### ARTICULO 210.
 
@@ -2897,9 +3117,7 @@ Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignaci�
 
 Cuando el candidato a diputado, presidente municipal, o regidor que haya obtenido constancia de mayoría relativa o de asignación proporcional en la elección respectiva, no reúna los requisitos de elegibilidad a que se refiere la Constitución Política del Estado, se declararán nulos los votos emitidos a su favor.
 
-### CAPITULO V. DE LAS PRUEBAS
-
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE ABRIL DE 1995)</small>
+### CAPITULO III. DE LOS RECURSOS
 
 ###### ARTICULO 218.
 
@@ -2915,9 +3133,11 @@ III.- Inconformidad; y
 
 IV.- Reconsideración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 219.
 
-El recurso de aclaración lo podrán interponer los ciudadanos cuando sean incluidos o excluidos indebidamente en la lista nominal de electores, o bien cuando se presenten errores en la credencial para votar respecto de sus datos personales o cualesquier otra información que le impida el libre ejercicio del sufragio. Su resolución corresponde al Presidente del Consejo Distrital en que resida el elector.
+El recurso de aclaración lo podrán interponer los ciudadanos o los partidos políticos registrados conforme a la ley, cuando los primeros sean incluidos o excluidos indebidamente en la lista nominal de electores, o cuando por errores en la credencial para votar respecto de sus datos personales o cualesquier información que les impida el libre ejercicio del sufragio. Su resolución corresponde al Presidente del Consejo Distrital en que resida el elector.
 
 Deberá interponerse en un plazo de veinte días, contados a partir de la exhibición pública de las listas nominales de electores, y se tramitará en la forma siguiente:
 
@@ -2971,9 +3191,9 @@ Dentro de las cuarenta y ocho horas siguientes de su fijación, los representant
 
 En el caso de los coadyuvantes podrán comparecer, siempre y cuando no varíe ni se amplíe la materia del recurso.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
-Una vez cumplido el plazo a que se refiere el párrafo que precede el Consejo que reciba el recurso de revisión deberá hacer llegar al Tribunal Estatal Electoral, dentro de las veinticuatro horas siguientes:
+Una vez cumplido el plazo a que se refiere el párrafo segundo de este artículo, el Consejo que reciba el recurso de revisión deberá hacer llegar al Tribunal Estatal Electoral, de inmediato:
 
 I.- El escrito mediante el cual se interpone;
 
@@ -3033,9 +3253,11 @@ El presidente del Tribunal, a petición del secretario general, podrá requerir 
 
 En caso extraordinario, el presidente del tribunal podrá ordenar que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello lo permitan los plazos establecidos por esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 225.
 
-Los recursos de revisión deberán ser resueltos en la primera sesión que celebre después de su presentación, salvo que se haya acordado su diferición. El Tribunal contará con un plazo no mayor de ocho días para resolverlos, contados a partir de que fueron presentados.
+Los recursos de revisión deberán ser resueltos en la primera sesión que celebre después de su presentación, salvo que se haya acordado diferirlos. El Tribunal contará con un plazo no mayor de cinco días para resolverlos, contados a partir de que fueron presentados, ante el órgano electoral respectivo.
 
 Las resoluciones que recaigan a los recursos de revisión, tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnada.
 
@@ -3059,9 +3281,11 @@ VI.- Los puntos resolutivos; y,
 
 VII.- En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 227.
 
-El recurso de inconformidad podrán interponerlo los partidos políticos para objetar los resultados de los cómputos por nulidad de la votación emitida en una o varias casillas o para solicitar la nulidad de las elecciones. Se hará valer dentro del término de tres días contados a partir del siguiente a que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
+El recurso de inconformidad podrán interponerlo los partidos políticos para objetar los resultados de los cómputos por error aritmético o por nulidad de la votación emitida en una o varias casillas, así como para solicitar la nulidad de las elecciones de Gobernador del Estado, Diputados por el principio de Mayoría Relativa y Presidentes Municipales y Regidores de los Ayuntamientos. Se hará valer dentro del término de tres días contados a partir del siguiente a que tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
 
 El escrito de protesta será requisito de procedencia del recurso de inconformidad en los casos en que se impugnen los resultados consignados en el acta final de escrutinio y cómputo de las mesas directivas de casilla, por irregularidades durante la jornada electoral.
 
@@ -3111,65 +3335,77 @@ I.- Confirmar los resultados consignados en las actas de cómputo estatal, distr
 
 II.- Declarar la nulidad de la votación emitida en una o varias casillas cuando se den las causas previstas en el artículo 211 de esta Ley, y modificar en consecuencia, el acta de cómputo de la elección de que se trate la impugnación;
 
-III.- Revocar la constancia de mayoría o de asignación expedidas por los Consejos Estatal, Distrital y Municipal correspondientes.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+III.- Revocar la Constancia de Mayoría o de Asignación de Regidores por el principio de Representación Proporcional, expedida por el Consejo correspondiente.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 1998)</small>
+
+IV.- Hacer la corrección de los cómputos cuando sean impugnados por error aritmético.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 232 Bis.
 
-El recurso de reconsideración, podrá interponerse para impugnar las resoluciones de fondo del pleno del Tribunal recaídas a los recursos de inconformidad, cuando se esgriman agravios en virtud de los cuales se puede dictar una resolución por la que se pueda modificar el resultado de la elección, así como en contra de la asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral.
+El recurso de reconsideración podrá interponerse para impugnar la asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral.
 
-La interposición del recurso de reconsideración corresponde exclusivamente a los partidos políticos, por conducto de quien promovió el recurso de inconformidad correspondiente o bien por su representante acreditado ante el Consejo Estatal Electoral. Deberá interponerse:
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-I.- Dentro de los tres días contados a partir del día siguiente al día en que se haya notificado la resolución de fondo impugnada al Pleno del Tribunal que conoce del recurso de inconformidad.
+La interposición del recurso de reconsideración corresponde exclusivamente a los partidos políticos, y deberá promoverse ante el Consejo Estatal Electoral dentro de los tres días siguientes contados a partir de la conclusión de la sesión en la que el propio Consejo haya realizado la asignación de Diputados por el principio de Representación Proporcional:
 
-II.- Dentro de los tres días siguientes contados a partir de la conclusión de la sesión en la que el Consejo Estatal Electoral haya realizado la asignación de Diputados por el principio de Representación Proporcional.
+I.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
-Se interpondrán dentro de los plazos señalados en el párrafo anterior, ante la Sala de Reconsideración, del Tribunal Estatal Electoral o ante el Organo Electoral que corresponda cuando se impugne la asignación de Diputados y Regidores de Representación Proporcional.
+II.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
-Al interponerse, además de los requisitos señalados en las fracciones II, III y VI, del Artículo 220 de esta Ley, se deberá señalar claramente el presupuesto y los razonamientos por los que se aduzca que la resolución puede modificar el resultado de la elección. En el caso del recurso en mención, se entenderá que se modifica el resultado de una elección cuando la resolución que dicte la Sala de Reconsideración, pueda tener como efecto:
+> <small>(DEROGADO TERCER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
-I.- Anular la elección;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Revocar la anulación de la elección;
+Al interponerse, además de los requisitos señalados en la fracciones II, III y VI, del Artículo 220 de esta ley, se deberá señalar claramente el presupuesto y los razonamientos por los que se aduzca que la resolución puede modificar la asignación de Diputados de Representación Proporcional:
 
-III.- Otorgar el triunfo a un candidato o fórmula distinto; y,
+I.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
-IV.- Corregir la asignación de diputados y Regidores según el principio de representación proporcional realizada por la Autoridad Electoral correspondiente.
+II.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
+
+III.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
+
+IV.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
 Al interponerse el recurso de reconsideración y recibido éste por la Sala respectiva, se hará del conocimiento público mediante cédula que se fijará en los estrados. Los partidos políticos y los terceros interesados únicamente deberán formular por escrito los alegatos dentro de las cuarenta y ocho horas siguientes contadas a partir de la fijación de la cédula.
 
-Una vez recibido el recurso de reconsideración en la Sala respectiva, será turnado al magistrado que corresponda, a efecto de que revise si se acreditan los presupuestos, si se cumplió con los requisitos de procedibilidad y si los agravios pueden traer como consecuencia que se modifique el resultado de la elección respectiva. De no cumplir con cualesquiera de ellos, el recurso será desechado de plano por la Sala. De lo contrario, el magistrado procederá a formular el proyecto de resolución que someterá a la consideración de la Sala en la sesión pública que corresponda.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-Los presupuestos señalados en el párrafo anterior, son:
+Una vez recibido el recurso de reconsideración en la Sala respectiva, será turnado al magistrado que corresponda, a efecto de que revise si se cumplió con los requisitos de procedibilidad y si los agravios pueden traer como consecuencia que se corrija la asignación de Diputados. De no advertirse así, el recurso será desechado por la Sala. De lo contrario, el magistrado procederá a formular el proyecto de resolución que someterá a la consideración de la Sala en la sesión pública que corresponda.
 
-I.- Que la resolución del pleno haya dejado de tomar en cuenta causales de nulidad; que las invocadas se hubiesen probado en tiempo y forma y se hubiese podido modificar el resultado de la elección;
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Se haya otorgado indebidamente la constancia de mayoría y validez a una fórmula de candidatos distintos a la que correspondía;
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-III.- Haya anulado indebidamente una elección;
+Las resoluciones de la Sala de Reconsideración que recaigan a los recursos de reconsideración tendrán como efecto el de corregir la asignación de Diputados por el principio de Representación Proporcional, realizada por el Consejo Estatal Electoral:
 
-IV.- Que el Consejo Electoral que corresponda haya asignado Diputados o Regidores por el principio de Representación Proporcional, sin haber tomado en cuenta las resoluciones que en su caso hubiere dictado el Tribunal o lo haga contraviniendo las fórmulas establecidas en esta Ley para elección de que se trate.
+I.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
-V.- Que el Consejo Electoral que no corresponda haya asignado Diputados o Regidores por el principio de Representación Proporcional.
+II.- (DEROGADA, P.O. 28 DE ENERO DE 1998)
 
-Las resoluciones de la Sala de Reconsideración que recaigan a los recursos de reconsideración serán definitivas e inatacables y podrán tener los siguientes efectos:
-
-I.- Confirmar el acto o resolución impugnada; y,
-
-II.- Modificar o revocar la resolución impugnada en los términos de las fracciones II y III del Artículo 232 de la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
 Las resoluciones de la Sala de Reconsideración del Tribunal Estatal Electoral, serán notificadas:
 
-I.- Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio en la ciudad sede del Tribunal, o por estrados, en el supuesto de que no se señaló domicilio alguno. La notificación se hará a más tardar dentro de las cuarenta y ocho horas siguientes al día en que se dictó la resolución;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-II.- Al Consejo Estatal Electoral, la notificación se hará por oficio, acompañada de copia certificada del expediente y de la resolución, a más tardar dentro de las cuarenta y ocho horas siguientes al día en que se dictó la resolución; y,
+I.- Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio en la ciudad sede del Tribunal o por estrados, en el supuesto de que no se señaló domicilio alguno, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución:
 
-III.- A la Oficialía Mayor del Congreso del Estado, a más tardar dentro de las cuarenta y ocho horas siguientes al día en que se dictó la resolución.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 1995)</small>
+II.- Al Consejo Estatal Electoral, por oficio, acompañado de copia certificada del expediente y de la resolución, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución; y,
 
-Los recursos de reconsideración deberán estar resueltos en su totalidad, a más tardar el día 25 de noviembre del año de la elección.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
+
+III.- A la Oficialía Mayor del Congreso del Estado, por oficio, acompañado de copia certificada del expediente y la resolución, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Los recursos de reconsideración deberán resolverse en período no mayor de cinco días, contado a partir de su presentación.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3199,9 +3435,9 @@ VI.- No señalen agravios o los que expongan manifiestamente no tengan relación
 
 VII.- Se impugne más de una elección con un mismo recurso.
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 1998)</small>
 
-VIII.- En el recurso de reconsideración, no se hayan agotado previamente en tiempo y forma las instancias de impugnación señaladas en esta Ley, los agravios no estén debidamente fundados, no resulten determinantes, o no se modifique el resultado de la elección, al no actualizarse los presupuestos señalados en el párrafo séptimo del Artículo 232 Bis de esta Ley.
+VIII.- En el recurso de reconsideración, los agravios no estén debidamente fundados, no tengan como consecuencia la corrección de la asignación de Diputados o no se cumpla con los requisitos de procedibilidad del recurso.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3225,9 +3461,9 @@ De igual manera, se considerarán representantes legítimos de los partidos pol�
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1995)</small>
 
-### CAPITULO VI. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
+### CAPITULO IV. DE LAS NOTIFICACIONES
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 236.
 
@@ -3279,6 +3515,10 @@ El recurso de aclaración será notificado personalmente al interesado por corre
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1995)</small>
 
+### CAPITULO V. DE LAS PRUEBAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 5 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 243.
 
 En materia electoral podrán ser admitidas como pruebas las documentales, las técnicas cuando por su naturaleza no requieran de perfeccionamiento, presuncionales e instrumental de actuaciones.
@@ -3309,7 +3549,9 @@ Las documentales públicas tendrán valor probatorio pleno. Las documentales pri
 
 El promovente aportará con su escrito inicial o dentro del plazo para la interposición de los recursos las pruebas que obren en su poder.
 
-Ninguna prueba aportada fuera de estos casos será tomada en cuenta al resolver.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+
+Ninguna prueba aportada fuera de estos casos será tomada en cuenta al resolver. La única excepción a esta regla será la de pruebas supervinientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes de que se dicte resolución.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -3320,6 +3562,10 @@ Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hech
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1995)</small>
+
+### CAPITULO VI. DE LAS FALTAS ADMINISTRATIVAS Y DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 246.
 
@@ -3478,3 +3724,17 @@ P.O. 5 DE ABRIL DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 28 DE ENERO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para el caso del financiamiento público a que tienen derecho los partidos políticos, conforme a las bases establecidas en el presente decreto, tendrán aplicación en forma retroactiva a partir del primero de enero de 1998.
+
+###### ARTICULO TERCERO.
+
+Lo dispuesto en el segundo párrafo del artículo 86 reformado, tendrá aplicación a partir de los procesos electorales posteriores al de 1998.
