@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2003-08-04"
+last_updated: "2004-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -647,7 +647,7 @@ XIII. Rastros, Mercados y Centrales de Abasto; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
 
-XIV. De concertación Política.
+XIV. De concertación Política
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -655,11 +655,11 @@ Las Comisiones Permanentes tendrán la competencia que se derive de su denominac
 
 Las comisiones transitorias serán designadas por el Ayuntamiento en cualquier tiempo de su ejercicio, para el estudio de determinado asunto o la realización de una labor o comisión oficial específica.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 46.
 
-Las comisiones permanentes y transitorias serán colegiadas y plurales, por lo cual, no podrán estar integradas por regidores de un solo partido político.
+Las Comisiones permanentes o transitorias serán colegiadas y plurales, por lo cual, no podrán estar integradas por regidores de un solo partido político y tendrán un máximo de cinco integrantes.
 
 ###### Artículo 47.
 
@@ -1324,3 +1324,9 @@ P.O. 4 DE AGOSTO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE FEBRERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
