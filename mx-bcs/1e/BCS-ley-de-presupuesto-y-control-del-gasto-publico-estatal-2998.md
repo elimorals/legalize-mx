@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-presupuesto-y-control-del-gasto-publico-estatal-2998"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "1985-12-10"
+last_updated: "1986-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 1984.
 
@@ -45,7 +45,7 @@ LEY DE PRESUPUESTO Y CONTROL DEL GASTO PUBLICO ESTATAL.
 
 El presupuesto, la contabilidad y el gasto público Estatal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 2°.
 
@@ -71,17 +71,9 @@ IX. SECRETARIA DE SALUD
 
 X. PROCURADURIA GENERAL DE JUSTICIA
 
-XI. CONTRALORIA GENERAL
+XI. CONTRALORIA
 
-XII. OBRAS PUBLICAS Y CONSTRUCCIONES
-
-XIII. SUBSIDIOS Y PARTICIPACIONES A MUNICIPIOS
-
-XIV. DEUDA PUBLICA
-
-XV. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
-
-XVI. SERVICIOS GENERALES DEL GOBIERNO DEL ESTADO
+XII. ORGANISMOS DESCENTRALIZADOS Y PROGRAMAS INSTITUCIONALES
 
 ###### ARTICULO 3°.
 
@@ -107,9 +99,11 @@ El Ejecutivo Estatal autorizará, por conducto de la Secretaría de Finanzas, la
 
 Para el cumplimiento del Artículo 7°. la Secretaría de Finanzas guardará estrecha relación y coordinación con la Secretaría de Desarrollo para su eficaz cumplimiento.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 9°.
 
-Sólo se podrán concertar créditos para financiar programas incluídos en los presupuestos de las Entidades a que se refieren las Fracciones II, IV, V, VI, VII, VIII, IX, XI, XIV, XV, XVII, XVIII, XIX, XX, XXI y XXII del Artículo 2°. de esta Ley que previamente hayan sido aprobados por la Secretaría de Finanzas.
+Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las Fracciones II, IV, a la XII del Artículo 2o. de esta Ley, que previamente hayan sido aprobados por la Secretaría de Finanzas.
 
 ###### ARTICULO 10.
 
@@ -215,11 +209,13 @@ En casos excepcionales y debidamente justificados, la Secretaría de Finanzas po
 
 Cuando se trate de programas cuyos presupuestos se incluyan en el Presupuesto de Egresos del Estado, se hará mención especial de estos casos al presentar el Proyecto de Presupuesto al Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 27.
 
-El Ejecutivo Estatal por conducto de la Secretaría de Finanzas establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas Entidades en los actos y contratos que celebren. El propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas.
+El Ejecutivo Estatal por conducto de la Secretaría de Finanzas establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades en los actos y contratos que celebren, el propio Ejecutivo determinará las excepciones cuando a su juicio estén justificadas.
 
-La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal, en los casos de las fracciones I a la XXI del Artículo 2°. de esta Ley y a ella le corresponderá conservar la documentación respectiva y, en su caso, ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad se le habrán de permitir las informaciones y documentos necesarios.
+La Secretaría de Finanzas será la beneficiaria de todas las garantías que se otorguen a favor del Gobierno Estatal, en los casos del Artículo 2o. de esta Ley y a ella le corresponderá conservar la documentación respectiva y en su caso, ejercitar los derechos que correspondan al Gobierno del Estado, a cuyo efecto y con la debida oportunidad, se le habrán de permitir las informaciones y documentos necesarios.
 
 ###### ARTICULO 28.
 
@@ -243,9 +239,11 @@ La acción para exigir el pago de las remuneraciones del personal al servicio de
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 32.
 
-Cuando algún funcionario o empleado perteneciente a las Entidades a las que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, XIV, XVI, XVII, XX, XXI y XXII del Artículo 2°. de esta Ley fallezcan y tuviere cuando menos una antigüedad en el servicio, de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, percibirán hasta el importe de cuatro meses de los sueldos, salarios, gastos de representación y asignaciones de técnico que estuviere percibiendo en esa fecha.
+Cuando algún Funcionario o Empleado perteneciente a las entidades a que se refiere el Artículo 2o. de esta Ley fallezcan y tuviere cuando menos una antigüedad en el servicio de seis meses, los familiares o quienes hayan vivido con él en la fecha del fallecimiento y se hagan cargo de los gastos de inhumación, percibirán hasta el importe de cuatro meses de los sueldos, salarios, gastos de representación y asignaciones de técnicos que estuviere percibiendo en esa fecha.
 
 ###### ARTICULO 33.
 
@@ -271,11 +269,13 @@ Los lineamientos, normas, sistemas, procedimientos, instructivos y metodología 
 
 ### CAPITULO V. DEL CONTROL Y LA EVALUACION
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 38.
 
-La Secretaría de Finanzas llevará la Contabilidad del Estado, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del Presupuesto.
+La Secretaría de Finanzas llevará la Contabilidad del Estado, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del Presupuesto.
 
-El Catálogo de Cuentas que utilizarán las Entidades a que se refiere el Artículo 2°. de esta Ley será emitido por la Secretaría de Finanzas y los de las Entidades mencionadas en las fracciones XIV a la XXI del mismo Artículo, serán autorizadas expresamente por dicha Secretaría.
+El Catálogo de Cuentas que utilizarán las entidades a que se refiere el Artículo 2o. de esta Ley, será emitido por la Secretaría de Finanzas y los de la Fracción XII "Organismos Descentralizados y Programas Institucionales", serán autorizados expresamente por esa Secretaría.
 
 ###### ARTICULO 39.
 
@@ -313,13 +313,15 @@ Las responsabilidades que se constituyan tendrán por objeto indemnizar por los 
 
 La Secretaría de Finanzas podrá cancelar los créditos derivados de responsabilidades que no excedan del equivalente a 15 días de salario del responsable, siempre que no se haya podido obtener su cobro por algún medio legal o por incosteabilidad practicada del cobro. Cuando los créditos excedan de esa cantidad, se propondrá su cancelación al Congreso del Estado al rendir la cuenta anual correspondiente, acompañando los datos que funden la propuesta.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 46.
 
-La Secretaría de Finanzas podrá imponer indistintamente las siguientes correcciones disciplinarias a los servidores públicos de las Entidades a que se refieren las Fracciones II y de la IV a la XXII del Artículo 2°. de esta Ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades:
+La Secretaría de Finanzas podrá imponer indistintamente las siguientes correcciones disciplinarias a los Servidores Públicos de las entidades a que se refieren las Fracciones II y de la IV a la XII del Artículo 2o. de esta Ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades:
 
-I. Sanción económica que en ningún caso será inferior al importe de 10 días, ni mayor de 100 del sueldo base presupuestal que percibe el servidor público.
+I.- Sanción económica que en ningún caso será inferior al importe de 10 días, ni mayor de 100 del sueldo base presupuestal que percibe el Servidor Público.
 
-II. Suspensión temporal de funciones hasta por 15 días laborales.
+II.- Suspensión temporal de funciones hasta por 15 días laborales.
 
 Las correcciones disciplinarias señaladas, se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido.
 
@@ -390,3 +392,9 @@ Por esta única vez y en virtud de que la Secretaría de Salud fué creada a med
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día Io. (sic) de Enero de 1986, previa su publicación en el Boletín Oficial del H. Congreso del Estado y en lo referente al Artículo Transitorio anterior, surtirá efecto el día siguiente al de su publicación.
+
+B.O. 20 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
