@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2003-03-18"
+last_updated: "2003-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -34,8 +34,6 @@ Por el que se expide el Reglamento para el Gobierno Interior del Poder Legislati
 ###### ARTÍCULO ÚNICO.
 
 Se expide el siguiente
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, LOS "... ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES...Y QUE EN SU DENOMINACION CONTENGAN LA EXPRESION '... ESTADO DE VERACRUZ-LLAVE', SE ENTENDERAN REFERIDAS AL '... ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE'."</small>
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1219,13 +1217,17 @@ La Junta de Trabajos Legislativos someterá al acuerdo del Pleno la regulación 
 
 ### CAPÍTULO I. De las Comparecencias de Servidores Públicos
 
+> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 153.
 
-Los titulares de las dependencias y entidades de la administración pública estatal, de conformidad a lo establecido por la Constitución y la Ley, comparecerán ante el Congreso en los casos siguientes:
+Los titulares de las dependencias y entidades de la administración pública, de conformidad a lo establecido por la Constitución y la Ley, comparecerán ante el Congreso en los casos siguientes:
 
 I. Para la Glosa del informe anual del titular del Poder Ejecutivo del Estado;
 
-II. Para informar del estado que guarden las dependencias a su cargo. En este caso, las comparecencias serán en el mes de junio y/o julio de cada año; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+II. Para informar del estado que guarden las dependencias a su cargo, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso; y
 
 III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus respectivos ramos.
 
@@ -1444,3 +1446,7 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 21 DE NOVIEMBRE DE 2003.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
