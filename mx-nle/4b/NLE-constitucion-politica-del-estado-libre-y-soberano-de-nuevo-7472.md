@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1982-02-12"
+last_updated: "1982-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1159,6 +1159,10 @@ Esta Constitución será protestada por los Diputados, el Gobernador y los Magis
 
 Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opongan a esta Constitución.
 
+###### Art. 3o.
+
+El censo electoral a que se refiere el art. 45 se levantará desde la próxima elección de Gobernador.
+
 ###### Art. 1o.
 
 El Pueblo Nuevoleonés reconoce que los derechos del hombre son la base y el objeto de las instituciones sociales. En consecuencia, declara que todas las leyes y todas las autoridades del Estado deben respetar y sostener las garantías que otorga la presente Constitución.
@@ -1166,6 +1170,8 @@ El Pueblo Nuevoleonés reconoce que los derechos del hombre son la base y el obj
 ###### Art. 2o.
 
 En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobran por ese solo hecho su libertad y tienen derecho (sic) la protección de las Leyes.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 ###### Art. 3.
 
@@ -1181,7 +1187,17 @@ En los establecimientos oficiales se impartirá gratuitamente la enseñanza prim
 
 ###### Art. 3o.
 
-El censo electoral a que se refiere el art. 45 se levantará desde la próxima elección de Gobernador.
+El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su buena formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar los derechos del niño.
+
+La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
+
+Ninguna corporación religiosa ni Ministro de algún culto podrán establecer o dirigir escuelas de instrucción primaria.
+
+Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
+
+En los establecimientos oficiales se impartirá gratuitamente la enseñanza primaria.
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 4o.
 
@@ -1678,3 +1694,7 @@ P.O. 12 DE FEBRERO DE 1982.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MARZO DE 1982.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
