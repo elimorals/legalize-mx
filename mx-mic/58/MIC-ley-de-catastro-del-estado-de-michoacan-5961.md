@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1990-12-20"
+last_updated: "1991-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -253,6 +253,10 @@ Con base en la actualización a que se refiere el párrafo anterior, se faculta 
 
 Los valores unitarios de terreno y construcción que apruebe el Congreso del Estado, conforme al artículo 9o. de esta ley, se actualizarán para aplicarse en el año de que se trate, a lo que resulte de multiplicar los valores vigentes durante el año de calendario anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año, entre el Indice Nacional de Precios al consumidor del mes de noviembre del año precedente, que publique el Banco de México.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la unidad de millar más próxima.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 12.
@@ -288,6 +292,10 @@ En los casos en que no se pueda determinar técnicamente el valor catastral de u
 ###### ARTICULO 14.
 
 La Tesorería General del Estado, practicará las actuaciones de medición y deslinde catastral, en atención a la solicitud de los interesados o por interés propio, con objeto de ratificar o rectificar la situación real de los linderos y superficies de un predio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Para los efectos a que se refiere el párrafo anterior, se tomará como base el documento mediante el que acredite la propiedad o posesión, así como los datos del Registro Catastral correspondiente.
 
 ###### ARTICULO 15.
 
@@ -553,33 +561,319 @@ La autoridad catastral, examinará los motivos expuestos y las pruebas aportadas
 
 Para el caso de que la autoridad catastral requiera realizar trabajos de rectificación de superficies, citación a interesados o concurrencia a inspección ocular, se amplía el término para resolver a noventa días hábiles.
 
-### CAPITULO DECIMO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+### CAPITULO DECIMO PRIMERO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+I. DEL PROCEDIMIENTO SOBRE VARIACIONES CATASTRALES DE BIENES HEREDITARIOS.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 52.
 
-Las manifestaciones y avisos de los particulares y de los fedatarios públicos que exige esta Ley, deberán hacerse en las formas que apruebe la Tesorería General.
+El Tesorero General del Estado, a su juicio puede autorizar la variación de cuentas catastrales sobre bienes hereditarios, si éstos en la fecha de presentación de la solicitud no rebasan un valor de $17'000,000.00, mismo que se determinará mediante avalúo catastral practicado por perito que designe la Tesorería General del Estado, y siempre que las pruebas que presenten; los interesados sean bastantes para acreditar el parentesco de éstos con el autor de la herencia.
+
+El Gobernador del Estado, podrá autorizar que se siga el procedimiento anterior, cuando el valor de los bienes rebasen el límite señalado en el párrafo anterior pero no el de $25'000,000.00. El acuerdo respectivo deberá ser por escrito, fundarse y motivarse en razones sociales que los justifiquen.
+
+Los valores mencionados de los párrafos anteriores, se actualizarán para aplicarse en el año de que se trate, atendiendo a la fecha de presentación de la solicitud correspondiente, a lo que resulte de multiplicar el valor de los bienes, vigente durante el año de calendario anterior, por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor correspondiente al mes de noviembre de dicho año entre el Indice Nacional de Precios al Consumidor del mes de noviembre del año precedente, que publique el Banco de México.
+
+Los resultados que se obtengan de realizar las operaciones a que se refiere el párrafo anterior, se ajustarán a la centena de millar más próxima.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 53.
 
-Las personas obligadas a presentar las manifestaciones y los avisos correspondientes, deberán hacerlo en as formas oficiales acompañando los documentos o planos necesarios.
+La solicitud de variación catastral, se presentará por escrito a elección de los interesados, directamente a la Tesorería General del Estado, o a la oficina de rentas del lugar a donde correspondan los bienes, consignando las medidas y linderos de cada uno de los predios que constituyen el caudal hereditario, con ellas se exhibirán los documentos que acrediten la muerte del autor de la herencia y el derecho que asista al peticionario, quien además expresará, en su caso, bajo protesta de decir verdad, los nombres de los demás presuntos herederos y sus domicilios, debiendo anexar además el certificado de archivo de notarías en que conste que el testamento presentado es el último del autor de la herencia o que no existe testamento alguno por él cuando se trate de un intestado. La omisión de estos requisitos, hará que se tenga por improcedente la solicitud y que se dé vista al Ministerio Público para los efectos a que hubiere lugar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 54.
+
+Admitida la solicitud por la Tesorería General del Estado, ésta la hará del conocimiento de los demás interesados por medio de oficio que les girará por correo certificado con acuse de recibo, a quienes ante la citada dependencia podrán deducir sus derechos dentro del término de 15 días hábiles siguientes a la fecha en que reciban la comunicación.
+
+La Tesorería General del Estado, ordenará al recaudador de rentar del lugar donde estén ubicados los bienes, que proceda a fijar los avisos en la parte exterior de los locales que ocupen la presidencia municipal y oficina de rentas, por el término de 15 días hábiles haciendo saber que cualquier persona que se considere con derecho a la herencia de que se trate, podrá hacerlo valer ante aquella dependencia y dentro de dicho plazo. Los avisos deberán tener la certificación de la autoridad municipal acerca de la fecha de su publicación. Cuando la solicitud de variación catastral se refiera a fincas urbanas, se fijará además un aviso en la puerta de cada una de aquellas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 55.
+
+Vencido el término de las publicaciones el recaudador de rentas remitirá toda la documentación a la Tesorería General del Estado, acompañándola de un informe que contendrá los siguientes datos: el nombre del autor de la herencia, nombre del interesado, grado de parentesco de éste con aquél, el valor catastral de los bienes y si se registran individualmente al extinto o en mancomún con alguna otra persona.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 56.
+
+Las oposiciones a la solicitud de variación catastral que se presenten, deberán hacerse por escrito ante la Tesorería General del Estado, o a la oficina de rentas del lugar a donde correspondan los bienes acompañada de la documentación que justifique el derecho del opositor, a las oposiciones que no reúnan estos requisitos no se les dará entrada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 57.
+
+Cuando los interesados comprueben su derecho a la herencia con copia certificada de la declaratoria de herederos dictada en los juicios de intestado o del testamento y auto que lo declare legítimo, siempre que la resolución en cada caso no haya sido recurrida legalmente, no será necesaria la publicación de los avisos a que se refiere el segundo párrafo del artículo 54 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 58.
+
+Los acuerdos firmados por el Tesorero General del Estado, mediante los cuales autorice la variación catastral de bienes hereditarios, tendrán los mismos efectos que si la aplicación de éstos se hubiere hecho conforme a la legislación civil. Dichos acuerdos se remitirán a los interesados con copia para la oficina de rentas respectiva, cuyo documento original les servirá de título de propiedad sobre los bienes hereditarios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 59.
+
+El procedimiento administrativo de variación catastral, mientras no se dicte el acuerdo que concede ésta, será sobreseído:
+
+I. Cuando aparezca que el valor de los bienes hereditarios excede la cantidad señalada en el artículo 52 de esta ley;
+
+II. Si se demuestra que al ser presentada la solicitud ya sea tramitada judicialmente en la misma sucesión, salvo lo dispuesto en el artículo 57 de esta Ley;
+
+III. En el caso de que durante el procedimiento administrativo surja oposición de derechos entre presuntos herederos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+II. DEL PROCEDIMIENTO SOBRE HERENCIAS VACANTES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 60.
+
+Se entenderá por herencias vacantes, los bienes sucesorios que adquiera el Fisco del Estado por falta de herederos legítimos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 61.
+
+Cuando la Tesorería General del Estado, tenga conocimiento, ya sea por denuncia o sin ella, del fallecimiento de alguna persona que haya dejado bienes sin que el juicio correspondiente se hubiere radicado, procederá desde luego, a promoverlo ante el juzgado competente, recabando previamente copia del acta de fallecimiento del autor de la herencia y comprobante del Archivo de Notarías de que no se otorgó disposición testamentaria, formulando las promociones necesarias hasta obtener resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 62.
+
+La denuncia de herencias vacantes se hará por escrito a la Tesorería General del Estado, o a la oficina de rentas respectiva, indicando la fecha y lugar del fallecimiento del autor de la sucesión, y la ubicación de los bienes vacantes. El interesado deberá recabar por escrito el acuse de recibo de su denuncia, sin cuyo requisito no podrá hacer ninguna reclamación posterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 63.
+
+No tendrán valor legal las denuncias de herencias vacantes, cuyos juicios ya se encuentren radicados judicialmente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 64.
+
+Cuando las denuncias sean ante las oficinas de rentas, éstas las turnarán en un plazo no mayor de tres días a la Tesorería General del Estado, con un informe de los bienes que constituya el caudal hereditario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 65.
+
+Los recaudadores de rentas que no envíen las denuncias a la Tesorería General del Estado, dentro del plazo indicado en el artículo anterior, serán responsables ante los denunciantes de las participaciones que les correspondan en caso de que se declare heredero al Fisco, pudiendo hacérseles efectivas de sus sueldos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 66.
+
+Una ve declarado heredero el Fisco del Estado por resolución judicial firme, la Tesorería General del Estado y los recaudadores de rentas, en sus respectivos casos, recabarán copia certificada de dicha resolución y del inventario, procediendo a realizar las gestiones necesarias para su inscripción tanto en el Catastro como en el Registro Público de la Propiedad en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 67.
+
+El Fisco del Estado, no requerirá diligencias o acto especial para adquirir la posesión de los bienes sobre los que haya sido declarado heredero, porque dicha transmisión será simultánea a la declaración.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 68.
+
+A juicio del titular del Poder Ejecutivo, la propiedad de los bienes que el Fisco del Estado adquiera por herencias vacantes, preferentemente podrá transmitirla, en donación a favor de la Universidad Michoacana de San Nicolás de Hidalgo.
+
+El decreto que apruebe la donación, previa su inscripción en el Catastro y Registro Público de la Propiedad en el Estado, le servirá de título de dominio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 69.
+
+Si no se realiza transmisión alguna a favor de la Universidad o ésta no acepta la donación, los bienes objeto de la misma, podrán conservarse en propiedad del Estado o ser enajenados por la Tesorería General del Estado, previo acuerdo del titular del Poder Ejecutivo cuando sean muebles, en caso de inmuebles, su venta se llevará a cabo previa autorización del Congreso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 70.
+
+Al denunciante de una herencia vacante, se le abonará una cuarta parte del producto de la venta de los bienes sucesorios, una vez deducidos los gastos correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 71.
+
+Para los efectos del artículo anterior, cuando los bienes sucesorios no fueren enajenados, se tomará como base el avalúo que formule el perito que corresponda la cantidad que resulte, será pagada al denunciante por la Tesorería General del Estado, o en su caso, por la Universidad Michoacana de San Nicolás de Hidalgo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+III. DEL PROCEDIMIENTO SOBRE INMUEBLES MOSTRENCOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 72.
+
+Se entenderá por bien mostrenco todo inmueble que carezca de dueño o se encuentre abandonado por éste.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 73.
+
+La denuncia de bienes mostrencos se hará por escrito ante la Tesorería General del Estado, o a la oficina de rentas respectiva, indicando la ubicación del predio, sus medidas y linderos y en su caso, el nombre del propietario. El interesado deberá recabar por escrito el acuse de recibo de su denuncia, sin cuyo requisito no podrá hacer ninguna reclamación posterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 74.
+
+Cuando las denuncias sean presentadas a las oficinas de rentas, las turnará en un plazo no mayor de tres días, a la Tesorería General del Estado.
+
+De no hacerlo serán responsables ante los denunciantes de las participaciones que les correspondan, en caso de que se declare el inmueble mostrenco como propiedad del Estado, pudiendo hacérseles efectivas de sus sueldos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 75.
+
+Los recaudadores de rentas, al tener conocimiento de algún bien mostrenco, ya sea por sí o por denuncia que se les presente, practicarán de común acuerdo con el presidente municipal y agente del ministerio público las investigaciones pertinentes, levantando al efecto acta debidamente circunstanciada, en la que se hará constar en todo caso:
+
+I. Nombre del último propietario del inmueble;
+
+II. Medidas y linderos del predio;
+
+III. Manifestación que hagan los colindantes acerca del tiempo que lleva abandonado el predio;
+
+IV. Antecedentes registrales del predio, tanto en la oficina de rentas, como en el Registro Público de la Propiedad en el Estado;
+
+V. Ultimo pago realizado por concepto de impuesto predial; y
+
+VI. Cualquier otro dato que a su juicio pueda influir en el trámite respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 76.
+
+Los presidentes municipales y agentes del ministerio público, están obligados a proporcionar los informes que sobre el particular les soliciten los recaudadores de rentas, en el caso de que quienes no lo hagan serán sancionados por el Ejecutivo del Estado con multa de 20 a 30 días de salario mínimo diario vigente en la región.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 77.
+
+Si de la investigación resultare que es procedente la denuncia, el recaudador de rentas lo hará del conocimiento del público, por medio de avisos que se publicarán por el término en 15 días hábiles en la parte exterior de los locales que ocupa la presidencia municipal y receptoría de rentas, así como el lugar donde se encuentre ubicado el predio y por una sola vez en el Periódico Oficial, consignando en ellos la ubicación, extensión y linderos del predio, para que la persona que se crea con algún derecho a él, lo deduzca ante la Tesorería General del Estado, dentro del término de 30 días hábiles a partir de la fecha de la publicación en el Periódico Oficial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 78.
+
+Si fenecido el término a que se refiere el artículo anterior, no se presenta ninguna reclamación, el recaudador de rentas turnará el expediente a la Tesorería General del Estado, acompañado de un avalúo practicado por dos peritos, para que si lo encuentra ajustado a la Ley, declare los bienes propiedad del Estado para el caso de que exista negligencia por parte de los recaudadores de rentas durante el procedimiento, se les sancionará de conformidad a lo estipulado por el artículo 76 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 79.
+
+Si durante el término de las publicaciones de los avisos se presentare alguna reclamación, el recaudador de rentas la hará del conocimiento del denunciante, si éste insiste en su denuncia, podrá deducir su acción en contra del opositor dentro del término de 8 días con audiencia del Ministerio Público. Transcurrido este término sin que el denunciante ejercite la acción, la Tesorería General del Estado, resolverá la reclamación.
+
+Si la resolución es adversa al reclamante, la Tesorería General del Estado, procederá en los términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 80.
+
+La Tesorería General del Estado, emitirá el acuerdo que declare algún inmueble mostrenco como propiedad del Gobierno del Estado, el que le servirá de título de dominio, previa su inscripción en el Catastro y Registro Público del la Propiedad en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 81.
+
+A la persona que denuncie ante la Tesorería General del Estado, la existencia de un inmueble mostrenco, se le abonará la cuarta parte del producto de su venta o del valor que le fuere fijado pericialmente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 82.
+
+Las personas que se crean con derecho sobre algún inmueble declarado mostrenco, deberán denunciarlo ante el juez competente dentro del término de ciento ochenta días naturales, contados desde la fecha en que se inscriba en el Registro Público de la Propiedad en el Estado, el acuerdo correspondiente. Transcurrido ese plazo, quedará prescrito el derecho de cualquier reclamante.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 83.
+
+Los predios rústicos y urbanos que estén fuera del conocimiento fiscal, pueden inscribirse en el Catastro mediante manifestación que presenten los dueños a la oficina de rentas del lugar de su ubicación o a la Tesorería General del Estado, después de que ésta determine el valor catastral sobre el que deben tributar.
+
+Las excedencias o demasías de predios registrados, no serán objeto de este procedimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 84.
+
+Las manifestaciones deberán formularse de acuerdo con los modelos que autorice la Tesorería General del Estado y con ellos se presentará acta de posesión, de colindantes y croquis de localización. Estos certificados por las autoridades municipales del lugar donde se encuentre ubicado el inmueble; asimismo, cuando se trate de predios rústicos se agregará constancia de no afectación a núcleos agrarios, y de existir título de propiedad, deberá anexar copia simple del mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 85.
+
+En caso de que los presuntos dueños de predios ignorados carezcan de título de propiedad, podrán inscribirse en el Catastro a su favor salvo los siguientes casos:
+
+I. Si se trata de bienes de alguna herencia vacante o inmueble mostrenco, hecho que certificará el recaudador de rentas del lugar en que aquellos estén ubicados.
+
+II. Si durante la tramitación de la solicitud se presentaran reclamaciones justificadas de tercero, oponiéndose a la inscripción en el Catastro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 86.
+
+Los recaudadores de rentas al recibir la manifestación de predio ignorado, la remitirán a la Tesorería General del Estado, con los informes y valuaciones respectivos para que ésta determine el valor catastral del predio manifestado. Después la propia Tesorería General del Estado, devolverá la manifestación a la oficina de su origen para que publique avisos en la parte exterior de los locales de la presidencia municipal y oficina de rentas, por el término de quince días hábiles y por una sola vez en el Periódico Oficial, a efecto de que las personas que se crean con algún derecho para oponerse lo hagan valer ante la misma Tesorería General del Estado.
+
+Concluido el plazo de quince días hábiles siguientes a la fecha de la publicación en el Periódico Oficial, el recaudador de Rentas remitirá el expediente al Tesorero General del Estado, con un informe sobre los incidentes que hubieren, ocurrido, quien si estima correcto el trámite, ordenará la inscripción catastral del inmueble manifestado, previo el pago de derechos e impuestos que se hubieren causado, siempre que no esté prescrito.
+
+Los acuerdos que autorice la inscripción catastral de predios ignorados, no constituye título de propiedad en favor de los manifestantes.
+
+Los registros catastrales a que se refiere el párrafo anterior, podrán ser cancelados o modificados, cuando se acredite que sus datos son erróneos o falsos, previo acuerdo del Tesorero General del Estado.
+
+### CAPITULO DECIMO SEGUNDO. DISPOSICIONES GENERALES
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1991)
+
+###### ARTICULO 87.
+
+Las manifestaciones y avisos de los particulares y de los fedatarios públicos que exige esta ley, deberán hacerse en las formas que apruebe la Tesorería General del Estado.
+
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1991)
+
+###### ARTICULO 88.
+
+Las personas obligadas a presentar las manifestaciones y los avisos correspondientes, deberán hacerlo en las formas oficiales acompañando los documentos o planos necesarios.
 
 En caso de no cumplir con esta disposición, la autoridad catastral otorgará un plazo de quince días hábiles para que se subsane esta omisión, contados a partir del día siguiente de su requerimiento.
 
 Si transcurrido dicho plazo no se cumple con lo anterior, la autoridad catastral tendrá por no presentadas las manifestaciones y avisos e impondrá las sanciones que correspondan de acuerdo a este ordenamiento.
 
-###### ARTICULO 54.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1991)
+
+###### ARTICULO 89.
 
 Las autoridades municipales deberán comunicar a la autoridad catastral de las licencias otorgadas para nuevas construcciones, reconstrucciones o ampliaciones de las existentes y la fecha de terminación de las obras, para actualizar el padrón catastral.
 
-###### ARTICULO 55.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1991)
+
+###### ARTICULO 90.
 
 Los propietarios o poseedores de predios o sus representantes legales, deberán manifestar a la autoridad catastral, la terminación de nuevas construcciones, reconstrucciones o ampliaciones de las existentes, dentro de los quince días hábiles siguientes a la fecha de terminación de la obra.
 
-###### ARTICULO 56.
+(REUBICADO, P.O. 30 DE DICIEMBRE DE 1991)
 
-Los propietarios o poseedores de predios, están obligados a dar aviso a la autoridad catastral, del cambio de su domicilio para oír notificaciones, dentro de las quince días hábiles siguientes a la fecha que éste se efectúe.
+###### ARTICULO 91.
+
+Los propietarios o poseedores de predios, están obligados a dar aviso a la autoridad catastral, del cambio de su domicilio para oír notificaciones, dentro de los quince días hábiles siguientes a la fecha que éste se efectúe.
 
 Si no lo hicieren, se tendrá como legal el que hubieren señalado con anterioridad o el del predio mismo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+IV. DEL PROCEDIMIENTO SOBRE PREDIOS IGNORADOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ## TRANSITORIOS
 
@@ -633,4 +927,18 @@ P.O. 20 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el 1o. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
+El presente decreto entrara en vigor el día 1o. de enero de 1991, previa publicación en el Periódico Oficial Del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El tercer párrafo del artículo 52 de la Ley de Catastro del Estado de Michoacán de Ocampo a que se refiere el presente decreto, entrará en vigor a partir del 1o. de enero de 1993.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
