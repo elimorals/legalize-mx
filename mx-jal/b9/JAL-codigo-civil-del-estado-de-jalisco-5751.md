@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2004-09-18"
+last_updated: "2004-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1684,6 +1684,10 @@ VII. La familia constituye el medio natural para el desarrollo de las interrelac
 VIII. En la familia debe buscarse el afecto y la fidelidad, así como darse apoyo recíproco; y
 
 IX. El afecto familiar es reconocido como una dignidad, no como un sometimiento de un ser a otro, sino como un perfecto entendimiento sobre los valores de existencia humana.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2004)</small>
+
+Los esposos tienen el derecho natural e inalienable de fundar una familia y decidir responsablemente sobre el intervalo entre los nacimientos y el número de hijos a procrear.
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
@@ -3526,6 +3530,10 @@ IV. Cuando ninguno de los dos progenitores tenga la custodia del menor; ésta po
 V. Establecimientos públicos previamente constituidos para esos fines; organismos descentralizados que otorguen esas prestaciones y en las instituciones de particulares especialmente instituidos para ello; y
 
 VI. En cualquiera de los supuestos previstos en las fracciones que anteceden, los progenitores tienen el deber y el derecho de visitar y convivir con sus hijos, para que no se pierdan los vínculos afectivos que nacen de toda relación paterno-filial.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2004)</small>
+
+Los huérfanos y los niños privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte de la sociedad y del Estado.
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
@@ -17552,3 +17560,9 @@ DECRETO 20579
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Respecto de la reforma del artículo 1005 del Código Civil del Estado de Jalisco, los municipios deberán formular sus normas de zonificación de conformidad con la legislación aplicable, para que establezcan las disposiciones relativas a los condominios de usos distintos al habitacional; hasta en tanto no entre (sic) en vigor las mismas, se continuará aplicando la disposición que se deroga del artículo 1005 del Código Civil del Estado de Jalisco.
+
+P.O. 21 DE OCTUBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se emite la siguiente declaración Estatal de los Derechos de la Familia, instruyéndose a la Secretaría General del Congreso del Estado de Jalisco para que proceda a su impresión, enviándose a las autoridades competentes, estatales y municipales, con el fin de que participen en la difusión de esta declaratoria entre la sociedad.
