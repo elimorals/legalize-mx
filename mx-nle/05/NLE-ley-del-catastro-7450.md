@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1984-12-31"
+last_updated: "1985-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -43,19 +43,29 @@ De la Integración y Atribuciones de los Organismos Catastrales.
 
 La presente Ley regula el control y valorización de los inmuebles ubicados en el Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 2o.
 
-Corresponde a la Tesorería General del Estado la aplicación de la presente Ley.
+Corresponde a la Secretaría de Finanzas y Tesorería General del Estado la aplicación de la presente Ley.
 
-Son organismos auxiliares de la Tesorería General:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+Son organismos auxiliares de la Secretaría de Finanzas y Tesorería General del Estado:
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 a).- La Junta Central Catastral;
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 b).- Las Juntas Municipales Catastrales;
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 c).- Las Cámaras de Comercio, de Industria y Propietarios de Bienes Raíces; y
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 d).- Las Personas o Instituciones Privadas cuya colaboración se requiera.
 
@@ -63,47 +73,63 @@ d).- Las Personas o Instituciones Privadas cuya colaboración se requiera.
 
 (DEROGADO P.O. 28 DE DICIEMBRE DE 1974)
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 4o.
 
-La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, y dos representantes de la Cámara de Propietarios de Bienes Raíces en el Estado, con el carácter de vocales. Se nombrarán suplentes tanto para los Representantes Oficiales como para los de la Cámara, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
+La Junta Central Catastral se integrará por dos Representantes Oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado y que tendrán el carácter de Presidente y Secretario, y dos representantes de la Cámara de Propietarios de Bienes Raíces en el Estado, con el carácter de vocales. Se nombrarán suplentes tanto para los representantes oficiales como para los de la Cámara, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios. El Presidente tendrá voto de calidad en caso de empate.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Central Catastral auxiliará a la Oficina Técnica Catastral en la formulación de los Proyectos de Bases Generales de Valores por Unidades Tipo.
+La Junta Central Catastral auxiliará a la Dirección de Catastro en la formulación de los Proyectos de Bases Generales de Valores por Unidades Tipo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 6o.
 
-Las Juntas Municipales Catastrales se integrarán por dos representantes oficiales, que designará el Tesorero General del Estado, quienes tendrán el carácter de Presidente y Secretario, y por dos representantes de la Cámara de Propietarios o de otra Asociación de Propietarios en los lugares en donde la Cámara no tenga Delegación, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún Municipio no haya Asociación de Propietarios, la Tesorería General del Estado o las Recaudaciones de Rentas harán las designaciones de los representantes de los particulares, para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios, de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los de los particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
+Las Juntas Municipales Catastrales se integrarán por dos representantes oficiales, que designará el Secretario de Finanzas y Tesorero General del Estado, quienes tendrán el carácter de Presidente y Secretario, y por dos representantes de la Cámara de Propietarios o de otra Asociación de Propietarios en los lugares en donde la Cámara no tenga Delegación, los cuales tendrán el carácter de vocales. El Presidente tendrá voto de calidad en caso de empate. Cuando en algún municipio no haya Asociación de Propietarios, la Secretaría de Finanzas y Tesorería General del Estado o las Delegaciones de Finanzas Estatales harán las designaciones de los representantes de los particulares para cuyo efecto deberán reunir a un número no menor de diez propietarios de predios, de los tres tipos que la Ley señala, para que del grupo se designe a las personas que deban representar a los propietarios en las Juntas Municipales Catastrales. Se nombrarán suplentes tanto para los representantes oficiales como para los de los particulares, quienes se encargarán de suplir las faltas temporales o definitivas de los propietarios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 7o.
 
-Las Juntas Municipales Catastrales tendrán función auxiliar a la Oficina Técnica Catastral en la formulación de Bases Generales de Valores por Unidades Tipo.
+Las Juntas Municipales Catastrales tendrán función auxiliar a la Dirección de Catastro en la formulación de Bases Generales de Valores por Unidades Tipo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 8o.
 
-La Oficina Técnica Catastral se compondrá de un Jefe, Ingeniero Civil, y de los empleados técnicos y administrativos que designe el Ejecutivo del Estado.
+La Dirección de Catastro se compondrá de un Director y de los empleados técnicos y administrativos que designe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 9o.
 
-La Oficina Técnica Catastral tendrá a su cargo la formulación de proyectos de Bases Generales por Unidades Tipo y la realización de los trabajos de limitación de regiones y planificación de cada Municipio del Estado, dividiéndolo en zonas urbanas, sub-urbanas y rústicas.
+La Dirección de Catastro tendrá a su cargo la formulación de proyectos de Bases Generales por Unidades Tipo y la realización de trabajos de limitación de regiones y planificación de cada Municipio del Estado, dividiéndolo en zonas urbanas, suburbanas y rústicas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 10o.
 
-El Departamento del Impuesto Predial y del Catastro estará integrado por un Jefe y por los demás funcionarios y empleados que designe el Ejecutivo del Estado.
+Los Departamentos de Catastro Local y Foráneo estarán integrados individualmente por un jefe y por los demás funcionarios y empleados que designe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 11o.
 
-Al Departamento del Impuesto Predial y del Catastro le competerán todas las atribuciones catastrales no encomendadas a los demás organismos mencionados y la liquidación de los Impuestos Prediales.
+A la Dirección de Catastro le competerán todas las atribuciones catastrales no encomendadas a los demás organismos mencionados y en su caso la liquidación de los Impuestos Prediales.
 
 ### CAPITULO SEGUNDO
 
 De las Operaciones Catastrales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 12o.
 
-De acuerdo con el artículo 9o. la Oficina Técnica Catastral procederá al deslinde y levantamiento de los planos de predios rústicos, urbanos y suburbanos, y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de las Bases Generales de Valores por Unidades Tipo y para la valorización de predios.
+De acuerdo con el Artículo 9o. la Dirección de Catastro procederá al deslinde y levantamiento de los planos de predios rústicos, urbanos y sub-urbanos, y formará y mantendrá al día un plano catastral de cada Municipio, así como los planos parciales de los mismos, por regiones o zonas, que sean necesarios para tener un conocimiento de la propiedad raíz, que sirva para la elaboración de las Bases Generales de Valores por Unidades Tipo y para la valorización de los predios.
 
 ###### ARTICULO 13o.
 
@@ -127,11 +153,11 @@ En las zonas rústicas, la determinación de las Bases Generales de Valores Tipo
 
 El valor de la tierra y el de las mejoras que ésta contenga, será determinado con base en la estimación técnica de su valor real, y dicho valor será el "valor real catastral".
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 18o.
 
-Las Bases Generales de Valor por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las oficinas Recaudadoras de Rentas de los Municipios respectivos.
+Las Bases Generales de Valores por Unidades Tipo deberán ser del dominio público mediante exhibición de las mismas en los estrados del Palacio de Gobierno y en las Delegaciones de Finanzas Estatales de los Municipios respectivos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -145,7 +171,7 @@ Las Bases Generales de Valores para la propiedad urbana, suburbana y la rústica
 
 Excepto en el año que sean objeto de revisión, las Bases Generales por Unidades Tipo a que se refiere el Artículo anterior y los Valores Reales Catastrales de los inmuebles, tendrán un ajuste anual automático del 15% -quince por ciento-, que entrará en vigor el 1o. de enero de cada año, sin necesidad de que los mismos sean notificados a los interesados para tener plena validez. Fuera de este supuesto, las Bases Generales por Unidades Tipo y los Valores Reales Catastrales no podrán ser modificados mientras no sean objeto de revisión, a menos que deban introducirse nuevos valores unitarios o cuando sea indispensable crear una nueva categoría no prevista en la tabla original, ya sea por motivo de la ampliación de zonas urbanas o sub-urbanas, o por cualquier otra causa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 21.
 
@@ -155,7 +181,7 @@ El avalúo de los predios se hará con estricto apego a las Bases Generales de V
 
 ###### ARTICULO 21o.
 
-El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $100,000.00 (Cien Mil Pesos). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
+El avalúo de los predios se hará con estricto apego a las Bases Generales de Valores por Unidades Tipo. No obstante lo anterior, para los efectos de la aplicación del Impuesto Predial, el valor catastral de los predios en ningún caso podrá ser inferior a $134,000.00 (CIENTO TREINTA CUATRO MIL PESOS). En el Reglamento de esta Ley, se señalará el procedimiento para formular los avalúos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
@@ -165,37 +191,45 @@ Los valores de los predios a los que ya se hubiese determinado un valor catastra
 
 I.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones.
 
-II.- Cuando al expedirse el certificado de valor real, para los efectos del Impuesto Municipal sobre Traslación de Dominio, se aprecien adiciones a su valor.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+II.- Cuando al expedirse el certificado de valor real, para los efectos del Impuesto Municipal sobre Adquisición de Inmuebles, se aprecien adiciones a su valor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 23o.
 
-Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Oficina Técnica Catastral auxiliada por la Junta Central Catastral, hará que tal valor coincida con el valor de los predios del fraccionamiento ya urbanizado.
+Para determinar el valor catastral de los predios de los nuevos fraccionamientos o urbanizaciones, la Dirección de Catastro auxiliada por la Junta Central Catastral, hará que tal valor coincida con el valor de los predios del fraccionamiento ya urbanizado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 Sin embargo, por un plazo de tres años, para predios ubicados en zonas habitacionales y de cinco años, para predios ubicados en zonas comerciales, los nuevos fraccionadores pagarán el Impuesto Predial sobre el valor que los predios tenían antes de ser urbanizados.
 
-En los fraccionamientos o nuevas urbanizaciones, se considerarán baldíos para efectos de la aplicación de la tasa prevista en el Artículo 13 de la Ley de Hacienda, aquellos lotes que no hubieren pasado en propiedad a otras personas, en un plazo de tres años contados a partir de la fecha de aprobación de la venta de lotes del fraccionamiento por la autoridad Estatal respectiva, siempre que dichos predios carezcan de construcciones permanentes y su superficie exceda de 300 metros cuadrados.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+En los fraccionamientos o nuevas urbanizaciones, se considerarán baldíos para efectos de la aplicación de la tasa prevista en la Ley de Hacienda para los Municipios del Estado, aquéllos lotes que no hubieren pasado en propiedad a otras personas, en un plazo de tres años contados a partir de la fecha de aprobación de la venta de lotes del fraccionamiento por la autoridad Estatal respectiva, siempre que dichos predios carezcan de construcciones permanentes y su superficie exceda de 300 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 24o.
 
-Las personas físicas que adquieran lotes de terrenos urbanos en zonas habitacionales de los fraccionamientos o nuevas urbanizaciones, pagarán la tasa establecida por el Artículo 13 fracción IV de la Ley de Hacienda del Estado para terrenos baldíos, cuando transcurridos cinco años de la fecha de adquisición de los predios no hayan edificado construcciones permanentes, en los mismos.
+Las personas físicas que adquieran lotes de terrenos urbanos en zonas habitacionales de los fraccionamientos o nuevas urbanizaciones, pagarán la tasa establecida por el Artículo 21 bis-7 inciso d) de la Ley de Hacienda para los Municipios del Estado para terrenos baldíos, cuando transcurridos cinco años de la fecha de adquisición de los predios no hayan edificado construcciones permanentes en los mismos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 25o.
 
-Se faculta a la Oficina Técnica Catastral para, con el auxilio de la Junta Central Catastral, fijar Valores por Unidades Tipo a los inmuebles ubicados en los Municipios del Estado que a Diciembre de 1974 no hayan sido objeto de catastración, en los términos de esta Ley.
+Se faculta a la Dirección de Catastro para, con el auxilio de la Junta Central Catastral, fijar Valores por Unidades Tipo a los inmuebles ubicados en los Municipios del Estado que a Diciembre de 1974 no hayan sido objeto de catastración, en los términos de esta Ley.
 
 ### CAPITULO TERCERO
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 26o.
 
-Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para todos los fines fiscales en relación con la propiedad raíz en el Estado y no podrán ser alterados para los mismos fines, a menos que se pruebe que su determinación se hizo con violación a la presente Ley y su Reglamento. A falta de manifestación oportuna, los avalúos se harán de oficio por el Departamento del Impuesto Predial y del Catastro, sin perjuicio de la sanción que procediere.
+Los avalúos practicados con sujeción a la presente Ley y su Reglamento, servirán de base para todos los fines fiscales en relación con la propiedad raíz en el Estado y no podrán ser alterados para los mismos fines, a menos que se pruebe que su determinación se hizo con violación a la presente Ley y su Reglamento. A falta de manifestación oportuna, los avalúos se harán de oficio por la Dirección de Catastro, sin perjuicio de la sanción que procediere.
 
 ###### ARTICULO 27o.
 
@@ -205,9 +239,11 @@ Los bienes pertenecientes a la Nación, al Gobierno del Estado, a los Municipios
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1974)
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 29o.
 
-En caso de traslación de dominio de bienes raíces, los Notarios y demás Autoridades facultadas para dar fe pública de la enajenación de dichos, bienes deberán dar aviso al Departamento del Impuesto Predial y del Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo que fije el Reglamento.
+En caso de traslación de dominio de bienes raíces, los Notarios y demás Autoridades facultadas para dar fe pública de la enajenación de dichos bienes, deberán dar aviso a la Dirección de Catastro, de las transacciones en que hubieren intervenido. Los avisos se darán dentro del plazo que fije el Reglamento.
 
 ###### ARTICULO 30o.
 
@@ -221,9 +257,11 @@ De las Infracciones y de las Sanciones.
 
 Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de predios que no presenten las declaraciones o manifestaciones dentro de los plazos que fijen las convocatorias respectivas. III.- Los propietarios o poseedores de predios que se nieguen a aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, II, III, y IV, se les aplicará una multa de cinco a quinientos pesos por cada infracción, a juicio del Tesorero General del Estado. II.- Si están comprendidos en los casos de la fracción V, se les aplicará una multa de cinco a quinientos pesos a juicio del Tesorero General del Estado, y si en opinión de este funcionario la infracción es grave, además serán destituidos, sin perjuicio en todo caso de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, II, III y IV, se les aplicará una multa de quinientos a cinco mil pesos por cada infracción a juicio del secretario de Finanzas y Tesorero General del Estado. II.- Si están comprendidos en los casos de la fracción V, se les aplicará una multa de quinientos a cinco mil pesos a juicio del Secretario de Finanzas y Tesorero General del Estado, y si en opinión de este funcionario la infracción es grave, además serán destituidos, sin perjuicio en todo caso de la instancia de responsabilidad, si procediera.
 
 T R A N S I T O R I O S :
 
@@ -350,3 +388,13 @@ Este Decreto entrará en vigor el día 1o. de Enero de 1985.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contraríen o se opongan al contenido de este Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las leyes, resoluciones y disposiciones que se opongan al presente Decreto.
