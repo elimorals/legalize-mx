@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-la-procuraduria-de-los-derechos-humanos-y-13619"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-10"
-last_updated: "1998-11-06"
+last_updated: "2002-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial de Estado de Baja California, el domingo 10 de marzo de 1991.
 
@@ -77,11 +77,11 @@ Para los mismos efectos se reputarán como servidores públicos los señalados e
 
 ### CAPITULO SEGUNDO. DE SU INTEGRACION
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 6o.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana estará integrada por un Procurador y hasta cuatro Subprocuradores, los cuales actuarán en nombre y representación del Procurador; un Consejo Consultivo y el Personal Técnico y Administrativo necesario para el ejercicio de sus funciones.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana estará integrada por un Procurador, y hasta cuatro Subprocuradores, un Visitador General, los cuales actuarán en nombre y representación del Procurador, un Consejo Consultivo y el Personal Técnico y Administrativo necesario para el ejercicio de las funciones.
 
 ###### ARTICULO 7o.
 
@@ -117,7 +117,9 @@ E).- Gozar de elevado prestigio profesional y personal.
 
 El Congreso del Estado para la elección del Procurador de los Derechos Humanos y Protección Ciudadana observará las siguientes bases:
 
-A).- Emitirá una convocatoria para concurso de interesados a ocupar el cargo, en un plazo no menor a treinta días antes de que concluya el período para el cual fué electo el Procurador en funciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+A).- Emitirá una convocatoria para concurso de interesados a ocupar el cargo dentro de un plazo de cuarenta y cinco días antes de que concluya el período para el cual fue electo el Procurador en funciones.
 
 La convocatoria deberá contener:
 
@@ -125,7 +127,9 @@ La convocatoria deberá contener:
 
 2.- Fecha para dar a conocer la lista oficial de los aspirantes al cargo.
 
-3.- Fecha día y hora para efectuarse el concurso por oposición, y
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+3.- Fecha día y hora para efectuarse la comparecencia pública de aspirantes ante el Congreso, y
 
 4.- Fecha para conocer los resultados.
 
@@ -133,19 +137,33 @@ B).- Calificará y determinará a las personas idóneas para ocupar el cargo de 
 
 C).- Resolverá por mayoría absoluta sobre la elección inmediatamente después de que hayan expuesto los aspirantes o dentro de las veinticuatro horas siguientes, en todo caso se deberá fundar y motivar públicamente los criterios que determinaron la elección.
 
-D).- Una vez electa la persona que ocupará el puesto de Procurador, lo citará para que comparezca en sesión pública para rendir protesta de Ley.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
-Este procedimiento no deberá exceder de treinta días del plazo en que se produzca la vacante.
+D).- El Procurador electo, rendirá protesta ante los integrantes del Congreso del Estado, en una sesión pública al día siguiente de que concluya su período el Procurador saliente.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+E).- En cualquier caso, el Congreso del Estado resolverá dentro de un plazo de diez días antes de la fecha en que el Procurador concluya su período.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+El Congreso podrá ratificar al Procurador en funciones para un siguiente período por una sola vez.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 10.
 
-Para apoyar y orientar a la Procuraduría en el desempeño de sus responsabilidades y como organismo de participación ciudadana de carácter multisectorial para la vigilancia del respeto a los derechos humanos en el territorio del estado, la Procuraduría contará con un Consejo Consultivo integrado por un mínimo de siete ciudadanos que gocen de reconocido prestigio en la sociedad bajacaliforniana que se haya significado por su interés y capacidad en la defensa, difusión y promoción de los derechos humanos.
+Para apoyar y orientar a la Procuraduría en el desempeño de sus responsabilidades y como organismo de participación ciudadana de carácter multisectorial para la vigilancia del respeto a los derechos humanos en el territorio del Estado, la Procuraduría contará con un Consejo Consultivo integrado por hombres y mujeres, con un mínimo de siete ciudadanos que gocen de reconocido prestigio en la sociedad bajacaliforniana que se hayan significado por su interés y capacidad en la defensa, difusión y promoción de los derechos humanos.
+
+El Consejo es un órgano de la Procuraduría que realiza una función de análisis y opinión acerca de los problemas que enfrenten los derechos humanos en el Estado de Baja California y en aquellos asuntos que ponga a su consideración el Procurador.
+
+El cargo de Consejero es de carácter honorífico.
 
 Al Procurador de los Derechos Humanos le corresponderá proponer los nombramientos de los integrantes del Consejo Consultivo, los que deberán de ser aprobados por mayoría absoluta del Congreso del Estado.
 
-El Consejo se reunirá ordinariamente cada dos meses y extraordinariamente a solicitud del Procurador.
+El Consejo se reunirá ordinariamente cada dos meses y extraordinariamente a solicitud del Procurador. En las reuniones de Consejo, el Visitador General de la Procuraduría desempeñará la función de Secretario Técnico, quien participará en las reuniones sin derecho a voto. Los acuerdos del Consejo se adoptarán preferentemente por consenso, en caso de empate en la votación del Consejo, el Procurador tendrá voto de calidad.
+
+El Procedimiento de ratificación del Consejo Consultivo por parte del Congreso, no deberá exceder de diez días contados a partir de la solicitud formulada por el Procurador.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -175,15 +193,21 @@ I.- Recibir las quejas que formulen los particulares sobre actos de los Servidor
 
 II.- Recibir, investigar y atender las quejas y denuncias que le presenten los afectados, sus familiares o las organizaciones sociales que los represente sobre posibles violaciones a los Derechos Humanos.
 
-III.- Formular y realizar programas tendientes a promover entre los ciudadanos el conocimiento de las Leyes Nacionales y de los Tratados Internacionales sobre Derechos Humanos, organizar actividades que contribuyan a difundir la doctrina y los órganos legales para su defensa.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
-IV.- Formular propuestas conciliatorias entre las Autoridades Administrativas y los particulares, sobre la base del respeto a los derechos humanos, la legalidad y la eficacia administrativa.
+III.- Formular propuestas conciliatorias entre las autoridades administrativas y los particulares, sobre las bases del respeto a los derechos humanos, la legalidad y la eficacia administrativa, aún cuando se hubiera formulado un procedimiento formal de queja.
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+IV.- Solicitar la intervención del Ministerio Público, cuando pueda presumirse como resultado de la investigación practicada la Comisión de un delito; y de los órganos competentes en materia de responsabilidades cuando se conozca de irregularidades de su competencia.
 
 V.- Acudir a cualquier oficina o dependencia de la administración pública estatal y municipal, para investigar todo lo relativo a la queja o denuncia de que se trate, solicitar información a los servidores públicos involucrados, citarlos en su despacho cuando lo crea necesario; y en general, cualquier otra diligencia que coadyuve al esclarecimiento de la verdad y al cumplimiento de su función.
 
 Los servidores públicos están obligados a auxiliar en forma preferente y adecuada al personal de la Procuraduría de los Derechos Humanos y Protección Ciudadana en el desempeño de sus funciones.
 
-Bajo ninguna circunstancia se le negará al Procurador o a los Subprocuradores el acceso a personas, dependencias o documentos que a su juicio sean relevantes en las investigaciones que realice en el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+Bajo ninguna circunstancia se le negará al Procurador o a los Subprocuradores el acceso a personas, dependencias o documentos que a su juicio sean relevantes en las investigaciones que realicen en el desempeño de sus funciones, mismas que podrán realizar a través del personal técnico de la procuraduría.
 
 VI.- Verificar la eficiencia, diligencia y honestidad en los servicios de Defensoría de Oficio que presta el Estado en materia penal y familiar, haciendo del conocimiento del titular de la Defensoría de Oficio los resultados de la labor realizada.
 
@@ -197,9 +221,9 @@ X.- Sugerir al superior jerárquico del servidor público infractor, la aplicaci
 
 XI.- Actuar de oficio o a petición de parte para conocer de violaciones a los Derechos Humanos en el Estado.
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
-XII.- Solicitar la intervención del Ministerio Público, cuando pueda presumirse como resultado de la investigación practicada la comisión de un delito; y de los órganos competentes en materia de responsabilidades cuando se conozca de irregularidades de su competencia.
+XII.- Formular y realizar programas tendientes a promover entre los ciudadanos el conocimiento de las Leyes Nacionales y de los Tratados Internacionales sobre Derechos Humanos, organizar actividades que contribuyan a difundir la doctrina y los órganos legales para su defensa.
 
 XIII.- Certificar los hechos en que intervenga en el Ejercicio de sus funciones.
 
@@ -207,9 +231,11 @@ XIV.- Mantener informados, mediante comunicaciones periódicas, a los superiores
 
 XV.- En el mes de noviembre de cada año, presentar un informe de actividades ante el Congreso del Estado, en el que dará a conocer el balance de su ejercicio; dicho informe deberá publicarse y circular entre los diversos órganos de la Administración Pública.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 13.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana cuando tenga pleno conocimiento de actos violatorios de los derechos fundamentales de las personas cometidos por servidores públicos dependientes de la jurisdicción federal, lo comunicará inmediatamente al titular de la Secretaría General de Gobierno del Estado y verificará que por su conducto se realicen las gestiones necesarias a fin de lograr la intervención de las Autoridades Federales para la prevención, reparación y sanción de dichos actos.
+La Procuraduría de los Derechos Humanos y Protección ciudadana cuando tenga pleno conocimiento de actos violatorios de los derechos fundamentales de las personas atribuidos a servidores públicos dependientes de la Jurisdicción Federal, registrará los hechos motivo de la queja, para su inmediata canalización a la Comisión Nacional de Derechos Humanos, o según sea el caso ante la autoridad federal correspondiente, enviando copia de todo lo actuado a la Secretaría General de Gobierno.
 
 ###### ARTICULO 14.
 
@@ -233,9 +259,11 @@ La Procuraduría de los Derechos Humanos y Protección Ciudadana estará impedid
 
 El Procurador de los Derechos Humanos y Protección Ciudadana del Estado de Baja California no estará sujeto a mandato imperativo alguno. Desempeñará sus funciones con autonomía, sin más restricciones que las que señalan las Constituciones Federal y Local y las Leyes que de ellas emanen.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 18.
 
-El Procurador durará en su encargo un período de tres años y no podrá ser removido si no es por causa justificada a juicio del Congreso del Estado en los términos de la Ley de Responsabilidades de los Servidores Públicos, pudiendo ser ratificado para un segundo período.
+El Procurador durará en su encargo un período de tres años y no podrá ser removido si no es por causa justificada a juicio del Congreso del Estado en los términos de la Ley de Responsabilidades de los Servidores Públicos, pudiendo ser ratificado para un segundo período, en los términos del procedimiento establecido en el artículo 9 de esta Ley.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -263,9 +291,11 @@ El Procurador de los Derechos Humanos y Protección Ciudadana al final de cada e
 
 ### CAPITULO QUINTO. DE LAS QUEJAS Y DENUNCIAS
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 24.
 
-Toda persona física o moral está facultada para presentar quejas o denuncias ante la Procuraduría de los Derechos Humanos, sin distinción alguna por razón de raza, sexo, idioma, religión, situación migratoria, opinión política, origen nacional o social, posición económica o cualquier otra condición, toda queja o denuncia deberá presentarse en el plazo no mayor de noventa días a partir de la fecha en que ocurrió el acto reclamado.
+Toda persona física o moral sin distinción, está facultada para presentar quejas o denuncias ante la Procuraduría de los Derechos Humanos. Toda queja o denuncia deberá presentarse dentro del plazo de noventa días a partir de la fecha en que ocurrió el acto reclamado.
 
 ###### ARTICULO 25.
 
@@ -281,11 +311,17 @@ C).- Pruebas que se ofrecen, tendientes a comprobar las imputaciones vertidas en
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana, registrará las quejas y denuncias que se presenten. Extenderá un acuse de recibo de las mismas, y en caso que considere inadmisible una queja o denuncia, lo dará a conocer al interesado mediante escrito motivado en un plazo máximo de cinco días hábiles. La correspondencia dirigida a la Procuraduría no podrá ser objeto de censura de ningún tipo, especialmente la remitida desde los centros de detención, internamiento o de readaptación social.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 27.
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana, no podrá conocer de quejas y denuncias sobre actos de la Administración Pública sobre los que se haya interpuesto recurso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado o ante cualquier otra instancia jurisdiccional competente.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana, no podrá conocer las quejas y denuncias sobre actos de la administración pública sobre los que se haya interpuesto recurso administrativo ante el Tribunal de lo Contencioso Administrativo del Estado o ante cualquier otra instancia jurisdiccional competente.
 
-En el caso de haber admitido una queja encuadrada en el supuesto anterior, dejará de conocer de la misma en cuanto tome conocimiento de la existencia de un trámite contencioso, ventilado ante la Autoridad Jurisdiccional competente.
+La Procuraduría de los Derechos Humanos y Protección Ciudadana no podrá pronunciarse en cuanto al fondo, sobre actos u omisiones de autoridad, contra los que se hayan interpuesto demandas o recursos ante cualquier tribunal jurisdiccional competente.
+
+Las quejas que se presenten ante la Procuraduría, así como los acuerdos, peticiones y resoluciones que dicte, no afectarán el ejercicio de otros derechos y medios de defensa que pudieran corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán los plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá hacerse del conocimiento de los quejosos en el acuerdo de admisión de la queja.
+
+Cuando los hechos motivo de la queja no sean competencia de la procuraduría, esta orientará al afectado para que acuda ante la autoridad o servidor público que corresponda.
 
 ###### ARTICULO 28.
 
@@ -337,17 +373,35 @@ V.- Solicitar la intervención en el ámbito de su competencia, del Congreso del
 
 También podrá sugerir al órgano legislativo o al órgano administrativo correspondiente, la adición o reforma de las normas cuando la aplicación estricta de estas pueda llegar a producir una situación injusta o un trato perjudicial para los particulares o gobernados.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 37.
 
-El servidor público infractor podrá solicitar una sola vez la reconsideración de los dictámenes y resoluciones dictadas por la Procuraduría. Al resolver este recurso de reconsideración, sea confirmado o modificado su resolución, la Procuraduría le da el carácter de definitiva a la misma, el término para la interposición de dicho recurso es de tres días hábiles, contados a partir de que se notificó al servidor público infractor la resolución dictada por la Procuraduría.
+El servidor público infractor podrá solicitar una sola vez la reconsideración de los dictámenes y resoluciones dictadas por la Procuraduría. Al resolver este recurso de reconsideración, sea confirmado o modificado su resolución. La Procuraduría le otorga el carácter de definitiva a la misma. El término para la interposición de dicho recurso es de tres días hábiles, contados a partir de que se notificó al servidor público infractor la resolución dictada por la Procuraduría.
+
+Las resoluciones de recomendación se notificarán tanto al superior jerárquico como al servidor público infractor. Este último, dentro del término de tres días contados a partir de la recepción, podrá interponer el recurso de reconsideración en caso de que se recomienden sanciones en su contra. El Procurador resolverá tomando en cuenta el dictamen elaborado por los miembros del consejo consultivo que al efecto comisione.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 38.
 
-El superior jerárquico del servidor público infractor, esta obligado a informar por escrito a la Procuraduría de los Derechos Humanos y Protección Ciudadana el cumplimiento o rechazo que hubiese hecho respecto a la resolución adoptada. Para tal efecto cuenta con cinco días hábiles a partir de la fecha de la notificación.
+El superior jerárquico a quien se dirija la recomendación debe contestar por escrito a la Procuraduría de los Derechos Humanos sobre la aceptación o rechazo dentro del plazo de cinco días hábiles, contados a partir del día siguiente de su recepción.
+
+Con el objeto de proteger la seguridad y los derechos de las partes, la Procuraduría de los Derechos Humanos tendrá facultad discrecional para expedir o no, copias de documentales relacionadas con las actuaciones vinculadas con alguna queja o resolución.
+
+Las recomendaciones son públicas pero en casos excepcionales y atendiendo la naturaleza de su contenido, la procuraduría previa votación por mayoría absoluta de los miembros de su Consejo Consultivo, podrá decidir si las mismas se comunican únicamente a los interesados directos.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 39.
 
-La Procuraduría podrá verificar y cerciorarse de que se ha cumplido efectivamente su resolución, para lo cual podrá realizar toda clase de diligencias. En caso de que el superior jerárquico hubiese proporcionado un informe falso, aquella dará conocimiento de este hecho al Ministerio Público.
+El superior jerárquico deberá acreditar el avance o cumplimiento de la resolución, dentro de un término de diez días hábiles contados a partir de su aceptación.
+
+La Procuraduría podrá verificar y cerciorarse de que se ha cumplido efectivamente su resolución, para lo cual podrá realizar toda clase de diligencias.
+
+En caso de que el superior jerárquico hubiese proporcionado un informe falso, aquella dará conocimiento de este hecho al Ministerio Público.
+
+La Procuraduría deberá notificar a los quejosos los resultados de la investigación y resolución adoptada, con relación a los hechos motivo de la queja.
 
 ### CAPITULO SEPTIMO. DE LAS SANCIONES
 
@@ -416,3 +470,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en Pe
 ###### ARTICULO SEGUNDO.
 
 Inmediatamente después de la entrada en vigor del presente decreto, se deberán actuar las disposiciones normativas reglamentarias de la Ley Sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California en los términos de estas modificaciones.
+
+P.O. 6 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones de esta reforma, no afectará la situación jurídica de los servidores públicos nombrados con anterioridad a su vigencia.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones legales y reglamentarias que se opongan al presente Decreto, deberán reformarse en un plazo de 30 días a partir de la entrada en vigor de las presentes reformas.
