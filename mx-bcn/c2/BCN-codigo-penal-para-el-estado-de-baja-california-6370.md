@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-04-04"
+last_updated: "2003-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1607,6 +1607,8 @@ Querella.- El delito de revelación de secreto se perseguirá por querella de la
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2003)</small>
+
 ### CAPITULO III. ABUSO DE CONFIANZA
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
@@ -1967,7 +1969,9 @@ QUINQUIES.- Al que use un vehículo de motor que porte placas de circulación re
 
 ###### Artículo 209.
 
-Tipo y punibilidad.- Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, en el medio rural, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de tres a doce años y hasta quinientos días multa.
+Tipo y punibilidad.- Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, en el medio rural, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de uno a ocho años y hasta trescientos días multa.
+
+Cuando se ejecute en el medio rural, se le impondrá de tres a doce años y trescientos a quinientos días multa.
 
 ###### Artículo 210.
 
@@ -3706,3 +3710,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE ABRIL DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE JUNIO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
