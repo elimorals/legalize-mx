@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "1996-12-20"
+last_updated: "1997-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-10"
 
 LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -208,7 +208,9 @@ El Comité del Patrimonio Inmobiliario es un órgano colegiado de la Administrac
 
 El Comité estará integrado por:
 
-I. El Oficial Mayor, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 1997)</small>
+
+I. La Oficialía Mayor, cuyo titular lo presidirá;
 
 II. La Secretaría de Gobierno;
 
@@ -468,9 +470,15 @@ El precio de los inmuebles que se vayan a adquirir, así como el monto de indemn
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 41.
 
-Toda enajenación onerosa de inmuebles que realice el Distrito Federal deberá ser de contado, salvo lo dispuesto en otros ordenamientos.
+Toda enajenación onerosa de inmuebles que realice el Distrito Federal deberá ser de contado, salvo las enajenaciones que tengan como finalidad la ejecución de proyectos de vivienda de interés social. El Jefe de Gobierno del Distrito Federal designará la Entidad a favor de la cual se desincorporarán y transmitirán esos inmuebles para su enajenación. El Organo de Gobierno de la Entidad establecerá las modalidades, plazos y tasas de interés, atendiendo a la situación económica de los adquirentes.
+
+Los recursos que reciba la Entidad por las enajenaciones a que se refiere el párrafo anterior los ingresará a la Tesorería del Distrito Federal, quien los destinará a la Bolsa Inmobiliaria.
+
+En el caso de programas de regularización de la tenencia de la tierra, el Jefe de Gobierno del Distrito Federal podrá mediante acuerdo, establecer la autoridad encargada de la enajenación, así como los plazos y tasas de interés.
 
 ###### Artículo 42.
 
@@ -528,9 +536,11 @@ Los honorarios del Notario Público, así como los gastos que se generen con mot
 
 ### CAPÍTULO IV. DE LA DESIGNACIÓN DE NOTARIOS EN LAS ENAJENACIONES DE INMUEBLES DE BIENES DE DOMINIO PRIVADO DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 53.
 
-Los actos jurídicos relacionados con inmuebles en los que sea parte el Distrito Federal y que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los notarios del Distrito Federal.
+Los actos jurídicos sobre bienes inmuebles en los que sea parte el Distrito Federal con excepción hecha de lo previsto en el artículo 48 de esta Ley, y que en términos de la misma requieran intervención de notario, se celebrarán ante los notarios públicos del Distrito Federal que designará (sic) Gobierno, a través de la Subsecretaría de Asuntos Jurídicos.
 
 Ningún notario del Distrito Federal podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Distrito Federal, sin la aprobación previa de la Oficialía y Desarrollo Urbano, de conformidad con sus competencias.
 
@@ -550,9 +560,11 @@ V. Adquisiciones y enajenaciones a título oneroso que realice el Distrito Feder
 
 En los casos a que se refieren las fracciones I, II, III y V, el documento que consigne el contrato respectivo tendrá el carácter de escritura pública, debiendo inscribirse en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 55.
 
-La Oficialía y Finanzas expedirán las normas a que se sujetará la clasificación de los bienes muebles de dominio privado del Distrito Federal, la organización de los sistemas de inventario y estimación de su depreciación y el procedimiento que deba seguirse en lo relativo a la afectación y destino final de esos bienes.
+La Oficialía y Finanzas expedirán las normas a que se sujetará la clasificación de los bienes muebles de dominio privado del Distrito Federal, la organización de los sistemas de inventario, estimación de su depreciación, organización de los almacenes y el procedimiento que deba seguirse en lo relativo a la afectación y destino final de esos bienes.
 
 ###### Artículo 56.
 
@@ -560,9 +572,11 @@ Las adquisiciones y arrendamientos de bienes muebles para el servicio de las dis
 
 ### CAPÍTULO V. DE LA ENAJENACIÓN DE LOS BIENES MUEBLES DE DOMINIO PRIVADO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 57.
 
-Corresponde a las Dependencias y Entidades del Distrito Federal la enajenación de los bienes muebles de propiedad del Distrito Federal que figuren en sus respectivos inventarios y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo.
+Corresponde a las Dependencias y Entidades del Distrito Federal la enajenación de los bienes muebles propiedad del Distrito Federal que figuren en sus respectivos inventarios y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando en el mismo, se procederá de acuerdo a lo preceptuado en este capítulo.
 
 Salvo los casos comprendidos en el párrafo siguiente, la enajenación se hará mediante licitación pública.
 
@@ -1024,9 +1038,11 @@ I. A título gratuito, cuando no se exija al particular una contraprestación pe
 
 II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie a cambio del uso y goce del inmueble permisionado, la que en todo caso deberá estar fijada previamente por Oficialía y Finanzas.
 
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 106.
 
-Los Permisos Administrativos Temporales Revocables tendrán una vigencia mínima de un año y una máxima de hasta 10 años, los cuales podrán prorrogarse especialmente, en los casos en que la persona física o moral a la que se le haya otorgado el permiso, tenga como finalidad la asistencia privada o desarrollo de actividades educativas y deportivas, y las que reporten un beneficio en general a la comunidad.
+Los Permisos Administrativos Temporales Revocables tendrán una vigencia máxima de hasta 10 años, los cuales podrán prorrogarse especialmente, en los casos en que la persona física o moral a la que se haya otorgado el permiso, tenga como finalidad la asistencia privada o desarrollo de actividades educativas y deportivas, y las que reporten un beneficio en general a la comunidad.
 
 ###### Artículo 107.
 
@@ -1264,12 +1280,32 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan a la prese
 
 Artículo Cuarto.- Todos los asuntos que se encuentren en trámite a la fecha de entrada en vigor de esta Ley, se efectuarán con arreglo a ésta, en lo que no perjudique a los interesados.
 
-Artículo Quinto.- Hasta en tanto es nombrado el primer el Jefe de Gobierno del Distrito Federal, todas las menciones que en esta Ley se formulan al Jefe de Gobierno del Distrito Federal, se entenderán hechas al Jefe del Departamento del Distrito Federal con anterioridad al mes de noviembre de l997 (sic).
+> <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
+Artículo Quinto.- Hasta en tanto tome posesión el Jefe de Gobierno del Distrito Federal, todas las menciones que en esta Ley se formulan al Jefe de Gobierno del Distrito Federal, se entenderán hechas al Jefe del Departamento del Distrito Federal con anterioridad al mes de noviembre de 1997.
+
+De igual forma, para los casos de los artículos 8o., fracción III y 34 de la Ley del Régimen Patrimonial y del Servicio Público, todas las menciones que se formulen al Jefe de Gobierno, se entenderán hechas, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, y de la Ley Orgánica de la Administración Pública del Distrito Federal, al Presidente de los Estados Unidos Mexicanos.
 
 Artículo Sexto.- Hasta en tanto la Oficialía no integre el Sistema de Valuación de Bienes del Distrito Federal a que alude esta Ley, los dictámenes que tengan que llevarse a cabo para la realización de las operaciones inmobiliarias a que se refiere esta Ley, se continuarán tramitando ante Finanzas y la Comisión de Avalúos de Bienes Nacionales.
 
 Una vez integrado el Sistema de Valuación de Bienes del Distrito Federal, todos aquellos asuntos que se encuentren en trámite ante la Comisión de Avalúos de Bienes Nacionales, se seguirán hasta su conclusión, siendo válidos los dictámenes que ésta emita. Sin embargo, todos los demás que sean nuevos, deberán solicitarse a la Oficialía.
 
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
+Asimismo, para el caso de las enajenaciones de los bienes muebles, su valor se tomará con base en los precios mínimos de avalúo que periódicamente determina y publica la Secretaría de la Contraloría y Desarrollo Administrativo, en el Diario Oficial de la Federación; tratándose de aquellos bienes cuyo valor no sea determinado por la Dependencia mencionada, la valuación se practicará a través de instituciones de Banca y Crédito o peritos especializados capacitados y autorizados para ello.
+
+> <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 1997)</small>
+
+Como consecuencia de lo expresado en el párrafo precedente, lo preceptuado en el artículo 55 de esta Ley, será aplicable, a partir de que entre en operación el Sistema de Valuación de Bienes del Distrito Federal. Entretanto (sic), continuarán vigentes las disposiciones que actualmente rigen en la materia.
+
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintiún días del mes de octubre de mil novecientos noventa y seis.- Rep. Gonzalo Altamirano Dimas, Presidente.- Rep. Alberto Nava Salgado, Secretario.- Rep. Filiberto Paniagua García, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de diciembre del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+D.O.F. 17 DE JUNIO DE 1997.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
