@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-62-de-expropiacion-para-el-estado-de-veracruz-de-657
 country: "mx"
 rank: "ley"
 publication_date: "1987-10-08"
-last_updated: "1987-10-08"
+last_updated: "1987-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 8 de octubre de 1987.
 
@@ -49,35 +49,49 @@ DE EXPROPIACION PARA EL ESTADO DE VERACRUZ-LLAVE.
 
 Las disposiciones de esta Ley son de interés público y de observancia general en el Estado de Veracruz.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 2o.
 
-Podrán ser objeto de expropiación, ocupación temporal, total o parcial o de limitación de los derechos de dominio, en los términos de esta Ley, toda clase de bienes de propiedad particular estén o no en el comercio y cualquiera que sea su titular.
+La expropiación, ocupación temporal, total o parcial o limitación de derechos de dominio, sólo procederá por causa de utilidad pública, mediante indemnización, conforme al procedimiento señalado en esta Ley.
+
+Por causa de utilidad pública podrán ser objeto de expropiación, ocupación temporal total o parcial o de limitación de los derechos de dominio, toda clase de bienes, estén o no en el comercio.
 
 ###### ARTICULO 3o.
 
 Le corresponde a la Secretaría de Comunicaciones y Obras Públicas, por conducto de la Dirección General del Patrimonio del Estado:
 
-a).- Recabar toda la información y documentación tendiente a determinar la existencia de la causa de utilidad pública.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
-b).- Tramitar el procedimiento para expropiación, ocupación temporal o limitación de dominio.
+a).- Recabar toda la información y documentación tendientes a comprobar y, en su caso, a determinar la existencia de algunas de las causas que las Leyes consideren de utilidad pública y poner a la disposición del Presidente Municipal respectivo y del Colegio de Notarios, para que en un plazo de diez días hábiles emitan su opinión sobre si han sido satisfechos los requisitos legales.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+b).- Tramitar el expediente de expropiación, de ocupación temporal o de limitación de dominio en el que se demuestre que la autoridad administrativa verificó la existencia concreta de una necesidad general o de un requerimiento social, que exige la satisfacción del interés colectivo y que dicha autoridad, además, identificó los bienes que por sus características o cualidades deben ser objeto de cualesquiera de las afectaciones previstas para ser destinados al fin que se persigue, explicando así razonadamente la necesidad de privar a determinada persona de sus bienes para afectarlos a un destino distinto.
 
 c).- Representar al Ejecutivo de la Entidad, ante cualquier autoridad administrativa o jurisdiccional, que intervenga como consecuencia de la aplicación de la presente Ley.
 
 d).- El ejercicio de las demás facultades que establezcan ésta u otras leyes relacionadas con la materia.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 4o.
 
-La expropiación procederá contra el propietario o sus causa-habientes a título particular o universal, aun cuando el derecho de propiedad esté sujeto a decisión judicial, se desconozca su identidad o no fuere posible su localización.
+La expropiación procederá contra el propietario o sus causa-habientes, aun cuando el derecho de propiedad esté sujeto a decisión judicial.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 5o.
 
-Sólo tendrán derecho a indemnización, los propietarios del bien expropiado.
+Tendrán derecho a indemnización, los propietarios, sus legítimos herederos o causa-habientes del bien expropiado.
 
 ### CAPITULO II. CAUSAS DE UTILIDAD PUBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 6o.
 
-Se considera de utilidad pública:
+Se consideran causas de utilidad pública:
 
 I.- El establecimiento, explotación o conservación de un servicio público.
 
@@ -85,33 +99,47 @@ II.- La apertura, prolongación, ampliación y alineamiento de arterias de circu
 
 III.- La creación, ampliación, saneamiento y mejoramiento parcial o total de centros de población.
 
-IV.- La construcción de cementerios, hospitales, oficinas públicas, escuelas, bibliotecas, parques, jardines, campos deportivos, instalaciones para fomentar la cultura, o cualesquiera otras cuyo destino sea prestar un servicio para beneficio colectivo.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+IV.- La construcción de cementerios, hospitales, oficinas públicas, escuelas, bibliotecas, parques, jardines, campos deportivos e instalaciones para fomentar la cultura.
 
 V.- La creación, fomento y conservación de una empresa de interés social, para beneficio de la colectividad.
 
-VI.- La conservación de los lugares de belleza panorámica, de antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o de interés histórico y de las cosas que se consideren como características notables de nuestra cultura.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
-VII.- La equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas y con perjuicio de la colectividad en general o de una clase en particular.
+VI.- La conservación de los lugares de belleza panorámica, de antigüedades y objetos de arte, de los edificios de interés histórico conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+VII.- El fomento y desarrollo de la pequeña propiedad.
 
 VIII.- El abastecimiento y distribución de medicamentos, víveres o artículos de consumo necesarios en caso de siniestros, epidemias, plagas, incendios o cualquier otra calamidad pública.
 
-IX.- Crear y conservar el ámbito de reserva territorial para el crecimiento ordenado de las poblaciones en general, así como todo lo referente a la regularización de asentamientos humanos y desarrollo urbano.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+IX.- Crear y conservar el ámbito de reserva territorial para el crecimiento ordenado de las poblaciones en general, así como todo lo referente a la regularización de asentamientos humanos y desarrollo urbano, conforme a las Leyes y Reglamentos de estas materias.
 
 X.- Las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad o bien cuando por cualquier medio se ataque el equilibrio ecológico del medio ambiente.
 
-XI.- Las medidas necesarias para evitar perjuicio a la colectividad por la suspensión de un servicio público.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+XI.- Las medidas necesarias para evitar perjuicio a la colectividad por la suspensión de un servicio público concesionado.
 
 XII.- Los demás casos previstos por leyes especiales.
 
 ### CAPITULO III. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 7o.
 
-El Ejecutivo del Estado, hará la declaratoria de expropiación, ocupación temporal o limitación de dominio, en los casos previstos por la presente Ley.
+El Ejecutivo del Estado, cumplidos los trámites y satisfechos los requisitos a que se refieren los dos primeros incisos del artículo tercero, dictará, fundando y motivando, la declaratoria de expropiación, ocupación temporal o limitación de dominio según proceda, demostrando la necesidad de ocupar por esta vía la propiedad privada de que se trate, en virtud de la existencia de una causa de utilidad pública, fijando el precio de indemnización y el plazo en que el pago deberá hacerse con cargo al erario del Estado.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 8o.
 
-La declaratoria de expropiación, de ocupación temporal o de limitación de dominio, se hará mediante decreto que se publicará en la "Gaceta Oficial" del Estado y se inscribirá en el Registro Público de la Propiedad, debiendo ser notificados personalmente los afectados.
+El Decreto conteniendo la declaratoria a que se refiere el artículo anterior será publicado en la "Gaceta Oficial" del Estado y notificado personalmente a los interesados, y en caso de inmuebles, se anotará preventivamente al margen de la inscripción de los mismos en el Registro Público de la Propiedad que corresponda.
 
 ###### ARTICULO 9o.
 
@@ -125,29 +153,43 @@ Las notificaciones personales se practicarán en el domicilio del interesado. En
 
 Los afectados, después de la primera notificación personal, están obligados a señalar domicilio en la capital del Estado, a efecto de que ahí se practiquen las ulteriores notificaciones; en caso de omisión, se realizará, por edictos que se publicarán en a "Gaceta Oficial" del Estado, por una sola vez.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 12.
 
-Contra el decreto que contenga la declaratoria de expropiación, los afectados podrán interponer precisamente por escrito y dentro de los quince días naturales siguientes a su notificación, recurso administrativo de revocación ante la Dirección General del Patrimonio del Estado, con el que deberán exhibir y ofrecer las pruebas y el pliego de alegatos que a sus intereses convenga. El recurso de revocación deberá ser resuelto en un plazo no mayor de quince días naturales.
+Contra el Decreto que contenga la declaratoria de expropiación, los afectados, podrán interponer ante el Gobernador del Estado, por conducto del Departamento Jurídico del Gobierno del Estado, por escrito y dentro de los quince días hábiles siguientes a su notificación, Recurso Administrativo de Revocación, con el que deberán exhibir y ofrecer las pruebas y el pliego de alegatos que a sus intereses convenga. El recurso deberá ser resuelto en un plazo no mayor de treinta días hábiles.
+
+Si la autoridad administrativa no resuelve el recurso interpuesto dentro del plazo legal, se entenderá fallado en favor de los afectados y como consecuencia quedará revocada la resolución y, en su caso, el Registro Público de la Propiedad que corresponda cancelará la anotación preventiva que hubiese hecho conforme al artículo octavo de esta Ley.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 13.
 
-Cuando no se haya hecho valer el recurso de revocación o se haya resuelto en contra de las pretensiones del recurrente, la Dirección General del Patrimonio del Estado procederá a la ocupación inmediata del o de los bienes materia de la expropiación.
+Cuando no se haya hecho valer el recurso a que se refiere el artículo anterior, o en el caso de que haya sido resuelto contra las pretenciones del recurrente, la Dirección General del Patrimonio del Estado procederá a tomar posesión material de los bienes expropiados o de cuya ocupación temporal se trate o impondrá la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
+
+Tan pronto como cause estado la resolución respectiva y los bienes de propiedad particular afectados sean inmuebles, se comunicará a la oficina del Registro Público de la Propiedad correspondiente para que proceda a su inscripción definitiva y, a la Secretaría de Finanzas y Planeación, para que ordene la variación de los padrones catastrales.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 14.
 
-En los casos a que se refieren las fracciones I, II, III, IV exceptuando campos deportivos, VIII, IX, X y XI del artículo 6° de esta Ley, la Dirección General del Patrimonio del Estado, hecha la declaratoria sin mayor trámite ocupará los bienes objeto de la misma, sin que la interposición del recurso administrativo de revocación suspenda dicha ejecución.
+En los casos a que se refieren las fracciones II, IV, VIII y IX del artículo 6° de esta Ley, la Dirección General del Patrimonio del Estado, hecha la declaratoria sin mayor trámite, ocupará los bienes objeto de la misma, sin que la interposición del recurso administrativo de revocación suspenda dicha ejecución.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 15.
 
-Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no son destinados al fin que dio causa a la misma dentro del término de cinco años, el propietario afectado podrá ejercitar la reversión del bien de que se trata.
+Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no son destinados al fin que dio causa a la misma en un plazo de tres años, el propietario afectado podrá ejercitar la reversión del bien de que se trate. En este caso el importe de la indemnización recibida será conservado por el afectado y no estará obligado a restituirlo.
 
 ###### ARTICULO 16.
 
 La reversión se interpondrá por escrito ante la Dirección General del Patrimonio del Estado, acompañando las pruebas necesarias, la autoridad las recibirá, y en un término no mayor de quince días naturales, dictará la resolución contra la cual no procederá recurso alguno.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 17.
 
-La división y translación de los bienes afectables, no producirán efectos cuando se inscriban en el Registro Público de la Propiedad y del Comercio, con posterioridad a la fecha de la publicación del Decreto de Expropiación.
+La división y traslación de los bienes afectados no producirán efectos cuando se inscriban en el Registro Público de la Propiedad y del Comercio con posterioridad a la fecha de la publicación de la declaratoria de expropiación, ocupación temporal o limitación de dominio, siempre que ésta resulte finalmente favorable a la autoridad administrativa.
 
 ###### ARTICULO 18.
 
@@ -157,21 +199,41 @@ Las acciones reales o personales que se deduzcan o hayan deducido con relación 
 
 Los gravámenes y derechos que personas distintas al propietario tengan sobre los bienes afectados se extinguirán de pleno derecho con la declaratoria respectiva, quedando a salvo los derechos personales de los acreedores, así como los laborales en su caso, quienes tendrán preferentemente derecho a la indemnización. Los encargados del Registro Público de la Propiedad y del Comercio, harán oportunamente las anotaciones correspondientes, cancelando los gravámenes.
 
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
+### CAPITULO IV. DE LA INDEMNIZACION
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 20.
 
-El precio que será señalado como indemnización, será la cantidad que como valor catastral del bien esté fijado en las oficinas de Hacienda del Estado, ya sea que este valor haya sido declarado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus impuestos con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, al igual que en los casos de ocupación temporal o limitación de dominio, quedarán sujetos a juicio pericial, debiendo observarse lo mismo cuando se trate de objetos cuyo valor no esté fijado en las oficinas de Hacienda del Estado.
+El precio que será señalado como indemnización, será la cantidad que como valor catastral del bien esté fijado en las oficinas de Hacienda del Estado, ya sea que este valor haya sido declarado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus impuestos con esta base. El exceso de valor o el demérito que haya tenido la propiedad por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, al igual que en los casos de ocupación temporal o limitación de dominio, quedarán sujetos a juicio pericial, y a resolución judicial, debiendo observarse lo mismo cuando se trate de objetos cuyo valor no esté fijado en las oficinas de Hacienda del Estado.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 21.
 
-Cuando se controvierta el monto de la indemnización a que se refiere el artículo anterior, se hará la consignación ante una Sociedad Nacional de Crédito. En un plazo de tres días la Dirección General del Patrimonio y el afectado deberán designar sus peritos apercibido el segundo de que en su rebeldía lo hará la Dirección. Para el caso de discordia y si en el plazo de tres días no hubiere acuerdo entre las partes para la designación de un tercero, se solicitará de la Presidencia del H. Tribunal Superior de Justicia del Estado el nombramiento de un perito oficial que desempeñará el cargo.
+Cuando se controvierta el monto de la indemnización a que se refiere el artículo anterior, se hará la consignación ante una Sociedad Nacional de Crédito y a disposición del Juez de Primera Instancia del Ramo Civil que corresponda, quien fijará a las partes el término de tres días para que designen sus peritos, a partir de la radicación del asunto, con apercibimiento de designarlos en rebeldía si aquéllos no lo hacen, también se les prevendrá designe de común acuerdo un tercer perito para el caso de discordia; y si no lo nombraren, será designado por el Juez.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 22.
 
-La indemnización se pagará de inmediato de ser posible; en los demás casos el Ejecutivo fijará la forma y los plazos en que ésta deberá pagarse, los que no excederán nunca de un término mayor de diez años. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización y demás gastos erogados.
+La indemnización se pagará de inmediato de ser posible, en los demás casos el Ejecutivo fijará la forma y los plazos en que éste deberá pagarse, los que no excederán; nunca del término de un año.
+
+El importe de la indemnización será cubierto por el Estado, aun cuando la cosa expropiada pase al patrimonio de persona distinta, debiendo el propio Estado, en su caso, recobrar de dichos terceros el importe y demás gastos que hubiese erogado.
+
+Esta disposición se aplicará, en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio y también si los bienes afectados son muebles.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 23.
 
-Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, la Dirección General del Patrimonio del Estado fijará de plano el monto de la indemnización; en caso de discrepancia el tercero nombrado dentro del plazo que se le fije, que no excederá de treinta días, rendirá su dictamen. Con vista de los dictámenes de los peritos, la Dirección resolverá dentro del término de diez días lo que estime procedente.
+El Juez fijará un plazo que no excederá de quince días hábiles para que los peritos de las partes rindan su dictamen.
+
+Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, o en su caso en el valor corriente de plaza o valor de mercado, el Juez de plano fijará el monto de la indemnización; en caso de desacuerdo llamará al tercero, para que dentro del plazo que le fije, que no excederá de quince días hábiles, rinda su dictamen.
+
+Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días hábiles lo que estime procedente.
 
 ###### ARTICULO 24.
 
@@ -181,9 +243,11 @@ En los casos de renuncia, muerte, incapacidad o impedimento legal, de alguno de 
 
 Los honorarios de cada perito, serán cubiertos por la parte que deba nombrarlo y los del tercero, por ambas partes.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 26.
 
-Contra la resolución que fije el monto de la indemnización, o la designación de perito, no procederá recurso alguno.
+Contra la resolución judicial que fije el monto de la indemnización, o la designación de perito, no procederá recurso alguno.
 
 TRANSITORIOS:
 
@@ -198,3 +262,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en la "Ga
 DADA en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, su capital, a los diecinueve días del mes de agosto de mil novecientos ochenta y siete.- Diputado Presidente: LIC. NICODEMUS SANTOS LUCK.- Rúbrica.- Diputado Secretario: C. BENITO CASTELLANOS MARIN.- Rúbrica".
 
 En cumplimiento de los dispuesto por los artículos 75, 87 fracción I y 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los diecinueve días del mes de agosto de mil novecientos ochenta y siete.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, GUSTAVO NACHON AGUIRRE.- Rúbrica.- El Secretario de Finanzas y Planeación, RAUL OJEDA MESTRE.- Rúbrica.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente a la fecha de su publicación en la "Gaceta Oficial" del Gobierno del Estado.
