@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1930-02-06"
+last_updated: "1930-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -241,15 +241,19 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 26.
 
-El Congreso del Estado se compondrá de representantes electos popularmente en número no menor de quince.
+El Congreso del Estado se compondrá de siete representantes electos popularmente.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
 ###### Art. 27.
 
-La elección de Diputados será directa por mayoría de sufragios, en los términos que prevenga la Ley Electoral. Deberá elegirse un Diputado Propietario por cada diez mil habitantes o fracción no menor de siete mil, teniendo en cuenta el último censo del Estado.
+La elección de Diputados será directa por mayoría de sufragios, en los términos que prevenga la Ley Electoral.
 
-Por cada Diputado Propietario se elegirá un Suplente.
+Por cada Diputado propietario se elegirá un suplente.
 
 ###### Art. 28.
 
@@ -259,15 +263,17 @@ I. Ser mexicano por nacimiento.
 
 II. Tener veinticinco años de edad cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 1925)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-III. Ser originario del Distrito Electoral que deba representar o vecino del mismo por dos años anteriores al día de la elección, siempre que el Candidato sea ciudadano Nayarita.
+III. Ser originario del Distrito que deba representar, o nacido en el Estado y tener dos años de residencia en aquel, anteriores al día de la elección.
 
 ###### Art. 29.
 
 No pueden ser Diputados:
 
-I.- El Gobernador del Estado; los Jefes de los Departamentos Gubernativos; los Presidentes Municipales; los Magistrados del Supremo Tribunal de Justicia; los Jueces de Primera Instancia y Menores, en sus respectivas Jurisdicciones; los empleados federales; los militares en servicio activo del Ejercito Nacional o de las fuerzas propias del Estado, a menos que se hubieren separado del servicio noventa días antes de la fecha de la elección.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+I.- El Gobernador del Estado; el Secretario General de Gobierno, el Oficial Mayor del mismo, los Magistrados del Supremo Tribunal de Justicia en funciones, el Procurador General de Justicia; los militares del Ejército Nacional o de las fuerzas del Estado en servicio activo; los Jueces de Primera Instancia y Menores y los Presidentes Municipales en sus respectivas jurisdicciones.
 
 II.- Los ministros de cualquier culto religioso o secta.
 
@@ -329,9 +335,13 @@ II. Por el Ejecutivo.
 
 III. Por acuerdo de las dos terceras partes del número total de los Diputados.
 
-En los dos últimos casos la convocatoria se hará por conducto de la misma Diputación, quien a la vez informará la causa que la motive y determinará el asunto o asuntos que deban tratarse.
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
-A estas sesiones extraordinarias precederá una junta preparatoria.
+En este último caso la convocatoria se hará por conducto de la misma diputación, quien a la vez informará la causa que la motive y determinará el asunto o asuntos que deban tratarse.
+
+> <small>N. DE E. ESTE PARRAFO NO FUE ABROGADO EXPRESAMENTE EN EL DECRETO DE REFORMAS</small>
+
+A estas sesiones extraordinarias, precederá una junta preparatoria.
 
 ###### Art. 41.
 
@@ -379,13 +389,17 @@ III. Crear nuevas Municipalidades y modificar los límites de las ya existentes,
 
 A.- Que la fracción o fracciones que traten de erigirse en Municipalidad, cuenten con una población cuando menos de cinco mil habitantes, tomando en cuenta el asentimiento de la mayoría.
 
-B.- Que compruebe ante el Congreso que tiene los elementos suficientes para proveer a su existencia política.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
+B.- Que compruebe ante el Congreso que tiene los elementos suficientes para proveer a su existencia política y económica.
 
 C.- Que sea aprobada la erección de la nueva Municipalidad cuando menos por las dos terceras partes de los Diputados presentes.
 
 IV. Fijar los límites de las Municipalidades, terminando las diferencias que entre ellos se susciten, sobre las demarcaciones de sus respectivos territorios, salvo que aquellas tengan carácter contencioso.
 
-V. Crear y suprimir empleos en el Estado, y señalar, aumentar o disminuir las respectivas remuneraciones.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+V. Crear y suprimir empleos en el Estado, y señalar, aumentar y disminuir las respectivas remuneraciones según las necesidades y con la aprobación del Ejecutivo.
 
 VI. Fijar anualmente, a propuesta del Gobernador del Estado, los gastos de la Administración Pública, y designar las contribuciones que deban imponerse para cubrirlos.
 
@@ -409,9 +423,9 @@ XII. Resolver las competencias y dirimir las controversias que se susciten entre
 
 XIII. Elegir quien deba sustituir al Gobernador en sus faltas.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XIV. Conceder licencias, resolver las renuncias de sus miembros, del Gobernador y de los Magistrados del Supremo Tribunal de Justicia.
+XIV. Autorizar al Ejecutivo para que a nombre del Estado acepte y reciba donaciones, contraiga deudas designando los recursos con que deban cubrirse; siempre que para ello se cuente con la aprobación por lo menos de las dos terceras partes del número total de diputados.
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 1926)</small>
 
@@ -441,7 +455,9 @@ XXV. Decretar la expropiación por causa de utilidad pública en la forma que de
 
 XXVI. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los Presupuestos, sino que se extenderá al examen de la actitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
 
-XXVII. Cambiar provisionalmente, por circunstancias especiales, la residencia de los Poderes del Estado, previo acuerdo de las tres cuartas partes del número de los Diputados presentes.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+XXVII. Cambiar provisionalmente, por circunstancias especiales, la residencia de los Poderes del Estado, previo acuerdo de las dos terceras partes del número de los Diputados presentes, y con aprobación del Ejecutivo.
 
 XXVIII. Declarar Beneméritos del Estado a sus benefactores y a los que se hayan distinguido por servicios eminentes prestados a la República, diez años después de su fallecimiento.
 
@@ -449,25 +465,27 @@ XXIX. Formar los Códigos y demás leyes de su régimen interior.
 
 XXX. Dar reglas sobre colonización y enajenación de terrenos baldíos en el Estado.
 
-(RERFORMADA, P.O. 30 DE MARZO DE 1919)
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XXXI. Condonar contribuciones cuando lo considere justo y equitativo y absolver de responsabilidades a los empleados en Rentas cuando así lo estimare de justicia.
+XXXI. Condonar contribuciones cuando lo considere equitativo y en caso de notoria insolvencia del deudor, pero siempre de acuerdo en el Ejecutivo; y absolver de responsabilidades a los empleados en Rentas cuando así procediere.
 
 XXXII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que anteceden.
 
 XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución General de la República y a la presente.
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XXXIV.- Fijar el revalúo de cualquiera finca urbana o rústica cuando sea de equidad y justicia.
+XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 1919)</small>
 
 XXXV.- Designar, en funciones de Colegio Electoral, el candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación según el artículo 96 de la Constitución General. En la elección de este Candidato, el Congreso se sujetará a lo ordenado para la elección de los Magistrados del Supremo Tribunal de Justicia en el Estado.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 48.
 
-El Congreso no podrá abandonar, renunciar, suspender o delegar las facultades que en Hacienda le correspondan.
+El Congreso no podrá abandonar, renunciar, suspender o delegar las facultades que le corresponden, salvo lo dispuesto por la fracción XXIII del artículo anterior.
 
 ### CAPITULO IV. De la iniciativa y formación de las Leyes
 
@@ -487,25 +505,29 @@ IV. A los Ayuntamientos en lo relativo a la Administración Municipal.
 
 Todo proyecto de ley, como los asuntos en que deba recaer resolución del Congreso, se sujetarán en su tramitación, a lo que su reglamento interior establezca.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 51.
 
-Para discutirse un proyecto de ley enviado por alguno de los funcionarios que tienen derecho de iniciativa, se le avisará al iniciador con dos días de anterioridad al designado para la discusión, a fin de que, si lo estima conveniente, mande al Congreso el día mencionado, un orador, que sin "voto", tome parte en los debates.
+Para discutir un proyecto de ley enviado por alguna de las personas que tienen derecho de iniciativa, se avisará a su autor con dos días de anterioridad al designado para la discusión, para que si lo estima conveniente, mande al Congreso el día de la discusión, un orador que, que sin voto, tome parte en los debates.
 
 ###### Art. 52.
 
 En los casos de notoria urgencia calificada por la mayoría de los Diputados presentes, y cuando fueren dispensados los trámites de reglamento, se dará el aviso desde luego. Si a pesar de ello no concurriere el representante, el Congreso procederá a la discusión y votación del proyecto presentado.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 53.
 
-Las resoluciones del Congreso no tendrán otro carácter que el de ley, decreto o acuerdo.
+Las resoluciones del Congreso no tendrán otro carácter que el de Ley, decreto o acuerdo.
 
-Es materia de ley, toda resolución que otorgue derechos o imponga obligaciones a generalidad de personas.
+Es materia de Ley, toda resolución que otorgue derechos o imponga obligaciones a generalidad de personas.
 
-Es materia de decreto, toda resolución que otorgue derechos y obligaciones a determinadas personas individuales o morales, con expresión de sus nombres.
+Es materia de decreto toda resolución que otorgue derecho (sic) y obligaciones a determinadas personos (sic) individuales o morales con expresión de sus nombres.
 
-Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de ley o decreto.
+Son materia de acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de ley o decreto.
 
-Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos solo por los Secretarios. Aprobado por la Legislatura un proyecto de ley o decreto, lo enviará desde luego al Ejecutivo, para que dentro del plazo de cinco días haga las observaciones pertinentes.
+Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un proyecto de ley o decreto, lo enviará desde luego al Ejecutivo para que dentro del plazo de diez días haga las observaciones que juzgue pertinentes.
 
 ###### Art. 54.
 
@@ -611,11 +633,11 @@ Si al comenzar el período constitucional no se presentare el Gobernador electo,
 
 El cargo de Gobernador del Estado solo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
 ###### Art. 68.
 
-El Gobernador no podrá salir del Territorio del Estado, ni separarse del ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente, en su caso.
+El Gobernador no podrá salir del territorio del Estado, ni separarse del ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente, en su caso, salvo que su ausencia no exceda de cinco días.
 
 ### CAPITULO VII. De las facultades y obligaciones del Gobernador
 
@@ -625,7 +647,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos.
 
-II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo Federal y Local, y formar en la parte administrativa, los reglamentos necesarios para la exacta observancia de los segundos.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Legislativo Federal y local, y formar en la parte administrativa los reglamentos necesarios para la exacta observancia de las resoluciones del segundo.
 
 III.- Iniciar ante la Legislatura las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
@@ -643,11 +667,13 @@ V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales púb
 
 VI.- Fomentar por todos los medios posibles, la educación popular y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras morales y materiales que interesen a la colectividad.
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-VII.- Visitar, previo aviso a la Legislatura y dentro del periodo de su Gobierno, todos los pueblos del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras dando cuenta al Congreso del resultado de cada visita.
+VII.- Visitar los Municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras.
 
-VIII.- Convocar, por conducto de la Diputación Permanente, a la Legislatura a sesiones extraordinarias.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+VIII.- Convocar a la Legislatura a sesiones extraordinarias.
 
 IX.- Tomar parte sin voto, en la discusión de las leyes o decretos, comisionando para ello ante el Congreso al Secretario General o cualquiera otra persona.
 
@@ -663,9 +689,9 @@ XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General
 
 XIV.- Otorgar las habilitaciones y dispensas matrimoniales para cuya concesión lo faculte la ley, pudiendo delegar esta facultad a los Presidentes Municipales.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan sus disposiciones como Gobernador, en los términos que establece el artículo 21 de la Constitución General de la República no pudiendo legalmente en ningún caso exceder la multa de cincuenta pesos, y si se trata de jornaleros u obreros, aquella no podrá pasar del equivalente del jornal de una semana.
+XV.- Castigar corresccionalmente (sic) a los que le falten al respecto o desobedezcan sus disposiciones gubernamentales en los términos que establece el artículo 21 de la Constitución General de la República, no pudiendo exceder la multa de quinientos pesos.
 
 XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión en ellas.
 
@@ -673,7 +699,9 @@ XVI.- Hacer que las elecciones sean libres e impedir que alguno ejerza presión 
 
 XVII.- Suspender a los Presidentes Municipales y a los Regidores que abusaren de sus facultades, dando aviso justificado a la Legislatura o en su receso a la Diputación Permanente.
 
-XVIII.- Formar el Catastro del Estado, proponiéndolo a la Legislatura para su aprobación.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+XVIII.- Formar el catastro del Estado.
 
 XIX.- Conceder o denegar indulto o conmutar la pena, a los delincuentes sujetos a la competencia de los Tribunales del Estado, con los requisitos establecidos por las leyes.
 
@@ -687,7 +715,9 @@ XXIII.- Poner sobre las armas la Guardia Nacional, con aprobación de la Legisla
 
 XXIV.- Disponer de las fuerzas de seguridad pública y movilizar la Guardia Nacional dentro de los límites del Estado, según lo exijan las necesidades públicas; y ordenar que pase la guardia a otros Estados, en los términos que dispone la Constitución General.
 
-XXV.- Tomar, en caso de invasión extranjera o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible a la aprobación de la Legislatura si estuviere reunida; si no lo estuviere, convocará, con acuerdo de la Diputación Permanente, a sesiones extraordinarias.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+XXV.- Tomar, en caso de invasión extranjera o conmoción interior armada las medidas extraordinarias que fueren necesarias para salvar al Estado, sujetándolas, lo más pronto posible a la aprobación de la Legislatura, si estuviere reunida; si no lo estuviere, convocará a sesiones extraordinarias.
 
 XXVI.- Concurrir cada año al acto de abrir la Legislatura su primer período de sesiones ordinarias.
 
@@ -725,7 +755,9 @@ VII. Ejercer influencia en cualquier sentido que pueda entorpecer la acción de 
 
 VIII. Mandar inmediata y personalmente, en campaña la Guardia Nacional, y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación permanente.
 
-IX. Promulgar leyes, decretos y reglamentos o expedir órdenes de pago, sin que vayan autorizadas por la firma del Secretario General de Gobierno.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
+
+IX. Promulgar leyes, decretos y reglamentos, expedir órdenes de pago, sin que vayan autorizadas por la firma del Secretario General de Gobierno o de quien haga sus veces.
 
 ###### Art. 71.
 
@@ -765,9 +797,11 @@ El Secretario General de Gobierno, mientras esté en ejercicio de sus funciones,
 
 El mismo funcionario reglamentará la Secretaría de su cargo, de acuerdo con el Gobernador, y distribuirá los trabajos de la Oficina entre los empleados de la planta que señala la Ley de Presupuesto respectiva.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 80.
 
-Sustituir al Gobernador en las faltas no previstas en los artículos 63 y 64 de esta Constitución.
+Sustituir al Gobernador en las faltas no previstas por el artículo 64 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
 
@@ -1019,11 +1053,11 @@ Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo caucionar
 
 El año fiscal queda comprendido del primero de enero al treinta y uno de diciembre inclusive.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
 ###### Art. 121 Bis.
 
-Para el arreglo y Administración de los caudales del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un individuo que se denominará "Director General de Rentas"; quien desempeñará su cargo bajo la inmediata inspección del Poder Ejecutivo. A este funcionario, sólo se le podrá separar de su cargo, por ineptitud en el desempeño de sus labores, declarada por el Ejecutivo, de acuerdo con la Legislatura o por delitos en los que se pronuncie sentencia condenatoria ejecutoriada.
+Para el arreglo y Administración de los caudales del Estado, el Ejecutivo nombrará y removerá libremente a un individuo que se denominará "Director General de Rentas"; quien desempeñará su cargo bajo las inmediatas órdenes e inspecsión (sic) del Gobernador.
 
 ## TITULO OCTAVO
 
@@ -1031,11 +1065,13 @@ Para el arreglo y Administración de los caudales del Estado, el Ejecutivo, con 
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
 ###### Art. 123.
 
-En los delitos del orden común que cometieren los Diputados, el Gobernador, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Director General de Rentas y el Secretario General de Gobierno; la Legislatura erigida en gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes, si ha o no lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero.
+En los delitos del común (sic) que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno y el Director General de Rentas; la Legislatura, erigida en Gran Jurado, declarará, con aprobación de las dos terceras partes de sus miembros presentes, si ha o no lugar a formación de causa.
 
-En caso afirmativo, el acusado, queda por el mismo hecho separado de su encargo y sujeto desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado, pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
+Cuando se trate del Gobernador, la Legislatura, erigida en Gran Jurado, declarará, con la aprobación de las dos terceras partes del número total de sus miembros, si ha no (sic) lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda por el mismo hecho separado de su encargo y sugeto (sic) desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1930)</small>
 
@@ -1098,6 +1134,18 @@ La Instrucción Pública Primaria en el Estado, deberá ser laica, obligatoria p
 ###### Art. 137.
 
 Los funcionarios y empleados públicos que no tengan limitado el tiempo de su duración, permanecerán en sus puestos por todo aquél a que los hicieren acreedores sus servicios y buena conducta.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
+###### Art. 138.
+
+En el caso de la fracción V del Art. 76 de la Constitución General de la República, asumirá el Poder Ejecutivo, el Presidente del Congreso o el de la Comisión Permanente si aquél estuviere en receso y a falta de estos funcionarios, el Vicepresidente, el Primer Secretario o el segundo por el orden que se indica. Si los miembros legisladores ya dicho se encontraren impedidos por fuerza de las circunstancias anormales que rijan, entonces será Gobernador el último Secretario de Gobierno o el último Presidente del Supremo Tribunal de Justicia, en el mismo orden que se menciona. Quien fuere Gobernador en las condiciones citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejerciendo el provisionalato, ajustándose en todo a la Constitución local y Ley Electoral.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)</small>
+
+###### Art. 139.
+
+Los Poderes del Estado no reconocerán a los individuos que se apoderen del Poder Ejecutivo de la Unión o del Estado, por medio de una asonada motín o cuartelazo. Tampoco reconocerán como buena la renuncia del Presidente de los Estados Unidos Mexicanos, ni del Gobernador del Estado, cuando dicha renuncia sea hecha bajo presión de los infidentes (sic) del caso, bien por la fuerzas de las armas o bien por la fuerza bruta.
 
 T R A N S I T O R I O S
 
@@ -1184,3 +1232,7 @@ El presente decreto comenzará a surtir sus efectos legales a partir del día de
 P.O. 6 DE FEBRERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
+
+P.O. 9 DE FEBRERO DE 1930
+
+El presente decreto comenzará a surtir sus efectos a partir del día de su promulgación.
