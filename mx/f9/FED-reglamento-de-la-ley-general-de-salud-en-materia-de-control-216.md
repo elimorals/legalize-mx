@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-control-216
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-01-18"
-last_updated: "1999-08-09"
+last_updated: "2004-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=216&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1988-01-04"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 1999.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO EN MATERIA DE REGISTROS, AUTORIZACIONES DE IMPORTACION Y EXPORTACION Y CERTIFICADOS DE EXPORTACION DE PLAGUICIDAS, NUTRIENTES VEGETALES Y SUSTANCIAS Y MATERIALES TOXICOS O PELIGROSOS, SE DEROGAN EN LO QUE SE OPONGAN LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1988.
 
@@ -6189,7 +6191,7 @@ VIII. Su emisión o disposición final o temporal, así como la de sus residuos,
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS, D.O.F. 9 DE AGOSTO DE 1999)
 
-V.- (sic) ARTICULO 1255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS, D.O.F. 9 DE AGOSTO DE 1999)
+V.- (SIC) ARTICULO 1255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS, D.O.F. 9 DE AGOSTO DE 1999)
 
 ###### ARTICULO 1256.
 
@@ -6882,3 +6884,25 @@ II. A los doce meses, el artículo 182.
 SEGUNDO. Se derogan los artículos 2o., fracción III, incisos del a) al q) y t), IV inciso b); 36; 45; 47; 48; 49; 54; 60; 65; 80; 119, fracciones I, II, III, IV, VI, VII, VIII y XI; 149, fracción I, incisos a), b), e), f) y g); 167, fracciones I, II, III, VII, VIII y IX; 1271; 1276; 1277; 1283; 1284; 1288; 1289; 1292; 1293 y 1294; el Capítulo II del Título Tercero, y los títulos Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Decimoprimero, Decimosegundo, Decimotercero, Decimocuarto, Decimoquinto, Decimosexto, Decimoséptimo, Decimonoveno, Vigésimo y Vigesimotercero del Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios, publicado en el Diario Oficial de la Federación el 18 de enero de 1988.
 
 Asimismo, se abrogan los reglamentos de Restaurantes, Cafés, Fondas, Loncherías, Torterías, Taquerías, Servicio de Comedor en Casa de Huéspedes, Neverías, Ostionerías, Salones de Té y demás establecimientos similares y de Control Sanitario de los Molinos de Nixtamal, Expendios de Masa y Tortillas en el Distrito Federal y Territorios Federales, publicados en el Diario Oficial de la Federación el 8 y 17 de febrero de 1962, respectivamente.
+
+D.O.F. 28 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los tres meses siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga cualquier disposición reglamentaria o administrativa que se oponga a lo establecido en el presente Reglamento. En consecuencia, se instruye a las Secretarías de Salud; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de Medio Ambiente y Recursos Naturales para que procedan a la revisión y cancelación, en su caso, de las disposiciones administrativas correspondientes, en los términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+
+TERCERO.- Se derogan en lo que se opongan al presente Reglamento, las disposiciones previstas en el Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios.
+
+CUARTO.- Los formatos para la presentación de las solicitudes a que se refiere el presente Reglamento deberán ser publicados por COFEPRIS y SEMARNAT en el Diario Oficial de la Federación, dentro de los tres meses siguientes a la publicación del presente Reglamento.
+
+QUINTO.- Las solicitudes de registro, de autorizaciones de importación y exportación y de certificados de exportación de plaguicidas, nutrientes vegetales y sustancias y materiales tóxicos o peligrosos, que se encuentren en trámite a la entrada en vigor del presente Reglamento, se desahogarán conforme a la normatividad vigente en la fecha de su presentación.
+
+SEXTO.- En los casos en que conforme a este Reglamento se requiera proporcionar el número de licencia sanitaria para la obtención de una autorización o certificado y ésta se encuentre pendiente de resolución por parte de COFEPRIS, se podrá realizar el trámite señalando el número de solicitud de licencia sanitaria, siempre y cuando ésta haya ingresado dentro de los ciento ochenta días naturales anteriores a la presentación de la solicitud de que se trate.
+
+SÉPTIMO.- En tanto se expiden las normas oficiales mexicanas correspondientes para la evaluación de equivalencias, éstas se determinarán conforme a los lineamientos internacionales contenidos en el "Manual sobre Elaboración y Empleo de las Especificaciones de la Organización de las Naciones Unidas para la Agricultura y la Alimentación y de la Organización Mundial de la Salud para Plaguicidas".
+
+OCTAVO.- En tanto la Secretaría de Salud emite el acuerdo a que se refiere el artículo 4, serán aceptados los estudios y metodologías conocidos internacionalmente como "Guías para el Ensayo y Evaluación de Productos Químicos" y "Guías sobre Buenas Prácticas de Laboratorio", elaboradas por la Organización para la Cooperación y el Desarrollo Económico; "Lineamientos sobre Criterios Ambientales para el Registro de Plaguicidas" de la Organización de las Naciones Unidas para la Agricultura y la Alimentación; "Manual sobre Elaboración y Empleo de las Especificaciones de la Organización de las Naciones Unidas para la Agricultura y la Alimentación y de la Organización Mundial de la Salud para Plaguicidas", y "Métodos Analíticos desarrollados por el Consejo Internacional para la Colaboración sobre Plaguicidas".
+
+NOVENO.- En tanto se expide la norma oficial mexicana a que se refiere el último párrafo del artículo 12 del Reglamento, se podrán aceptar los límites máximos de residuos establecidos por la Agencia para la Protección Ambiental de los Estados Unidos de América, por Codex Alimentarius o en su defecto, por los establecidos por la Unión Europea o cualquier país que forma parte de ésta, siempre y cuando sea el país de mayor importación de los productos agrícolas.
+
+DÉCIMO.- En caso de que el límite máximo de residuos aceptado por COFEPRIS para una combinación cultivo-plaguicida o productos o subproductos de origen animal-plaguicida sea revocado o cancelado por la entidad que emitió la normatividad que sirvió de referencia para su aceptación, COFEPRIS podrá revisar el uso autorizado y, en su caso, cancelarlo o revocar el registro, en términos de las disposiciones aplicables, cuando se trate de la única combinación cultivo-plaguicida o productos o subproductos de origen animal-plaguicida autorizada.
