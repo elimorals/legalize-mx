@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-materiales-de-guerra-123"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,13 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República
 
-CARLOS SALlNAS DE GORTARl, Presidente Constitucional de los Estados Unidos Mexicanos, en uso de la facultad que me confiere el artículo 89 fracción l de la Constitución Política de los Estados Mexicanos y con fundamento en los artículos 3o., 17, 122, 123 y 124 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como el artículo 29 fracciones I y XIII de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
+CARLOS SALlNAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, en uso de la facultad que me confiere el artículo 89 fracción l de la Constitución Política de los Estados Mexicanos y con fundamento en los artículos 3o., 17, 122, 123 y 124 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como el artículo 29 fracciones I y XIII de la Ley Orgánica de la Administración Pública Federal, he tenido a bien expedir el siguiente
 
 REGLAMENTO DE LA ESCUELA MILITAR DE MATERIALES DE GUERRA
 
@@ -259,9 +259,9 @@ V. Convocar a la Junta Técnico-Consultiva;
 
 VI. Conferir los cargos que desempeñe el personal académico, docente, del cuerpo de alumnos, administrativo y de la planta de la escuela; excepto aquellos que sean designados por el Alto Mando;
 
-Vll. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de Alumnos;
+VII. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de Alumnos;
 
-Vlll. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+VIII. Vigilar permanentemente el bienestar del personal del plantel, promoviendo su afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -363,7 +363,7 @@ VII. En coordinación con la Ayudantía General, elaborar y aplicar los planes d
 
 VIII. Supervisar y dirigir las prácticas de tiro y ejercicios sobre el terreno del personal de alumnos;
 
-lX. Organizar las compañías de alumnos;
+IX. Organizar las compañías de alumnos;
 
 X. Proponer a la Dirección del plantel los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de alumnos;
 
@@ -415,7 +415,7 @@ VII. Proponer mecanismos para la selección de profesores de nuevo ingreso, medi
 
 VIII. Proponer la designación de profesores e instructores y sus cargas horarias;
 
-IX. Elaborar el proyecto de calendario escolar para los ciclos Iectivos de cada curso y las distribuciones de tiempo correspondientes;
+IX. Elaborar el proyecto de calendario escolar para los ciclos lectivos de cada curso y las distribuciones de tiempo correspondientes;
 
 X. Analizar los instrumentos de evaluación antes de su aplicación;
 
@@ -939,7 +939,7 @@ II. El resultado del examen final ordinario constituirá el 40% de la calificaci
 
 ###### ARTICULO 54.
 
-La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDlNARIO"' u "OBTENIDA EN EXAMEN ESPECIAL", esta situación excluye al alumno de la posibilidad de obtener algún premio académico.
+La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación "OBTENIDA EN EXAMEN EXTRAORDINARIO"' u "OBTENIDA EN EXAMEN ESPECIAL", esta situación excluye al alumno de la posibilidad de obtener algún premio académico.
 
 ###### ARTICULO 55.
 
@@ -949,7 +949,7 @@ Los alumnos que utilicen medios fraudulentos para resolver algún examen, serán
 
 ###### ARTICULO 56.
 
-Los jurados para apIicar los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la Secretaría de la Defensa Nacional.
+Los jurados para aplicar los diferentes tipos de exámenes mencionados en este Reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la Secretaría de la Defensa Nacional.
 
 ## TITULO SEPTIMO. De las Faltas, Bajas y Reingresos
 
@@ -1093,15 +1093,23 @@ Los alumnos que causen baja del plantel por situarse en lo establecido en el art
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
-### CAPITULO I. De los Certificados de Estudio
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
+### CAPITULO I. De los Certificados, Patentes y Nombramientos
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 73.
 
 Los alumnos que terminen satisfactoriamente sus estudios en la Escuela Militar de Materiales de Guerra recibirán:
 
-I. Certificados de estudios; y
+I. Certificado de estudios;
 
-II. Patente o nombramiento, según corresponda.
+II. Grado de Subteniente, Sargento Primero o Sargento Segundo de Materiales de Guerra, según corresponda;
+
+III. Patente o nombramiento, y
+
+IV. Gafete distintivo del curso.
 
 ### CAPITULO II. De los Premios y Recompensas
 
@@ -1129,11 +1137,9 @@ IV. Exento de realizar el examen final ordinario al personal de alumnos que obte
 
 V. Otros que autorice la Secretaría de la Defensa Nacional.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
-
 ###### ARTICULO 74 Bis.
 
-El personal de alumnos que termine satisfactoriamente sus estudios además de lo establecido en este Reglamento recibirá gafete distintivo del curso correspondiente.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
@@ -1234,3 +1240,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
