@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fondo-auxiliar-para-la-administracion-de-justicia-2906"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-31"
-last_updated: "1989-03-31"
+last_updated: "2004-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 31 de marzo de 1989.
 
@@ -41,13 +41,17 @@ LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CAL
 
 ### CAPITULO I. FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 1o.
 
-El Fondo para la Administración de Justicia del Estado de Baja California será administrado por el Tribunal Superior de Justicia del Estado.
+El Fondo para la Administración de Justicia del Estado de Baja California estará bajo la vigilancia, supervisión y administración del Consejo de la Judicatura del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 2o.
 
-El Fondo para la Administración de Justicia se integra con:
+El Patrimonio del Fondo para la Administración de Justicia se integra con:
 
 I.- Fondos propios constituidos por:
 
@@ -85,39 +89,55 @@ Transcurrido el plazo legal en los casos de los incisos C y D de la fracción I 
 
 ### CAPITULO I. DE LA ADMINISTRACION DEL FONDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 6o.
 
-El Pleno del Tribunal Superior de Justicia Administrará el Fondo conforme a las bases siguientes:
+El Pleno del Consejo de la Judicatura del Estado tendrá a su cargo y bajo su responsabilidad de administración de Fondo conforme a las bases siguientes:
 
 I.- Podrá invertir las cantidades que integran el Fondo en la adquisición de valores de renta fija o Inversiones Bancarias, siempre que éstas, dentro de lo previsible, garanticen disponibilidad inmediata y suficiente de dinero para devoluciones de depósitos judiciales que deban hacerse.
 
-II.- Deberá elaborar en diciembre de cada año el presupuesto de Egresos, al cual deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente. El Pleno del Tribunal Superior podrá cambiar los extremos de dicho período anual.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+II.- Deberá elaborar en diciembre de cada año el presupuesto de egresos, al cual deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente, observando que además cumpla con las disposiciones legales que para su elaboración y autorización señala la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California, debiendo anexar el presupuesto de egresos, del fondo al proyecto de presupuesto de Egresos del Poder Judicial.
 
 III.- Podrá designar con cargo al Fondo el personal que debe auxiliarlo en su control y administración.
 
-IV.- La Contaduría Mayor de Hacienda del Congreso del Estado, queda facultada para revisar anualmente el manejo del fondo, así como el cumplimiento de esta Ley.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+IV.- Este fondo formará parte de la Cuenta Pública del Poder Judicial y será fiscalizado de conformidad con lo que establece la Ley de Fiscalización de las Cuentas Públicas para el Estado de Baja California, así como lo que establece esta Ley y demás ordenamientos jurídicos aplicables.
 
 ### CAPITULO II. DEL DESTINO DEL FONDO PARA LA ADMINISTRACION DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 7o.
 
-El patrimonio del Fondo se destinará:
+El patrimonio del Fondo se destinará exclusivamente a los siguientes fines:
 
 I.- A sufragar los gastos que origine su Administración.
 
-II.- A la adquisición de mobiliario y libros de consulta para el Tribunal Superior de Justicia y Organos Dependientes.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
 
-III.- A la formación y actualización profesional del personal del Poder Judicial.
+II.- A la adquisición de mobiliario, equipo de cómputo y libros de consulta para el Tribunal Superior de Justicia y órganos dependientes, no considerados en el presupuesto.
 
-IV.- A otorgar estímulos económicos y sociales al personal del Poder Judicial que desempeñe funciones jurídicas.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+III.- A la formación, actualización y especialización profesional del personal del Poder Judicial; y
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+
+IV.- Un programa de estímulos económicos al personal del Poder Judicial que desempeñe funciones jurisdiccionales. Los Consejeros, Magistrados y Jueces no podrán participar en este programa.
 
 V.- En general, al mejoramiento de la Administración de Justicia.
 
 ### CAPITULO III. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO P.O. 16 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 8o.
 
-Independiente de las visitas ordinarias y extraordinarias a los Juzgados que prevé la Ley Orgánica del Poder Judicial, el Pleno del Tribunal Superior de Justicia, podrá acordar visitas especiales por auditores, para que revisen el manejo de los valores y depósitos a cargo de dichas dependencias; según el resultado de la visita el Pleno tomará el acuerdo correspondiente.
+Independiente de las visitas ordinarias y extraordinarias a los Juzgados que prevé la Ley Orgánica del Poder Judicial, el Pleno del Consejo de la Judicatura, podrá acordar visitas especiales por auditores, para que revisen el manejo de los valores y depósitos a cargo de dichas dependencias; según el resultado de la visita el Pleno tomará el acuerdo correspondiente.
 
 T R A N S I T O R I O S:
 
@@ -170,3 +190,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. ARTURO GUERRA FLORES.
 
 (Rúbrica)
+
+P.O. 16 DE ENERO DE 2004
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Pleno del Consejo de la Judicatura, en un término no mayor de treinta días posteriores a la entrada en vigor de la presente reforma, deberá de realizar las adecuaciones necesarias al Reglamento de la Ley del Fondo Auxiliar para la Administración de Justicia.
