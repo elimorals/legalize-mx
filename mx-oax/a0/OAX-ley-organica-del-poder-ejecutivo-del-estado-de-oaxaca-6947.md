@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "2001-03-17"
+last_updated: "2001-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -156,6 +156,10 @@ XIV.- SECRETARIA DE ASUNTOS INDIGENAS.
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
 
 Al frente de cada una de las Dependencias a que se refiere este artículo habrá un servidor público que será su Titular y se denominará respectivamente Secretario, Procurador General de Justicia y Contralor General. Para el despacho de los asuntos de la competencia de sus respectivas Dependencias los Secretarios, el Procurador General de Justicia y el Contralor General se auxiliarán de Directores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que requieran para la eficaz atención y eficiente desempeño de sus atribuciones, en los términos prescritos por la Constitución Política del Estado, la presente Ley, el Presupuesto de Egresos y las demás disposiciones legales relativas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+Para auxiliar en sus funciones a los Secretarios y suplirlos en sus faltas temporales, a excepción de la Secretaría General de Gobierno, habrá en cada dependencia un Subsecretario. En el caso de la Secretaría General de Gobierno, habrá los Subsecretarios que se requieran para el cumplimiento de las atribuciones que a dicha dependencia competen y su nombramiento será ratificado por el Congreso del Estado, en los términos ordenados por la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
 
@@ -1064,3 +1068,7 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicac
 SEGUNDO.- La Procuraduría para la Defensa del Indígena se integrará a la Secretaría de Asuntos Indígenas como un órgano administrativo, la reestructuración no afectará los derechos laborales de sus trabajadores.
 
 TERCERO.- El Gobernador del Estado dispondrá la dotación de recursos materiales, financieros y humanos para el funcionamiento de la Secretaría de Asuntos Indígenas, y a través de las dependencias competentes aprobará su estructura orgánica.
+
+P.O. 20 DE JULIO DE 2001.
+
+ÚNICO.- Este Decreto entrará en vigor el día 1º de enero del año 2002, publíquese en el Periódico Oficial del Estado
