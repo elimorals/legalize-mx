@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2004-01-31"
+last_updated: "2005-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -51,7 +51,7 @@ Los alumnos de la Universidad Tecnológica se clasifican de la siguiente forma:
 
 I. Regulares: los que están inscritos y cursan alguno de los programas de formación académica, cuya evaluación sea aprobatoria en cualquiera de sus modalidades;
 
-II. Irregulares: los estudiantes que no aprueben una evaluación en cualquiera de sus modalidades en un cuatrimestre y no puedan inscribirse al inmediato superior, y en tanto no presente el examen de Última Asignatura.
+II. (DEROGADA, P.O. 16 DE FEBRERO DE 2005)
 
 III. Especiales: los que se inscriban en cursos de extensión o especialización y que no tienen como finalidad la obtención de un grado académico;
 
@@ -61,7 +61,9 @@ III. Certificados: los que acrediten asignaturas mediante examen a Título de Su
 
 La condición de alumno de la Universidad Tecnológica se pierde:
 
-I. Por interrumpir sus estudios por diez días hábiles consecutivos sin notificación previa ante servicios escolares, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2005)</small>
+
+I. Por interrumpir sus estudios por diez días hábiles consecutivos sin notificación previa al Director de Carrera, y
 
 II. Por causar baja definitiva, según lo estipula el presente reglamento.
 
@@ -427,17 +429,17 @@ V. Por actos cometidos en contra de la disciplina según lo establecido en el ca
 
 ### CAPÍTULO NOVENO. DE LAS DISTINCIONES ACADÉMICAS
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 51.
 
-Son candidatos a recibir Mención Honorífica, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a nueve y hasta nueve punto nueve, que no hayan reprobado asignatura alguna, no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional.
+Son candidatos a recibir Mención Honorífica, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a nueve y hasta nueve punto nueve, que no hayan reprobado asignatura alguna, no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica, y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional, o en su caso que hayan obtenido un resultado de alto rendimiento académico en el EGETSU, aplicado por el CENEVAl (SIC).
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 52.
 
-Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a diez; que no hayan reprobado asignatura alguna, no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica, y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional.
+Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a diez, que no hayan reprobado asignatura alguna, y no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica, y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional, o en su caso que hayan obtenido un resultado de alto rendimiento académico en el EGETSU, aplicado por el CENEVAL.
 
 ### CAPÍTULO DÉCIMO. DE LOS TÍTULOS Y RECONOCIMIENTOS
 
@@ -576,5 +578,9 @@ ACTA POR LA QUE SE REFORMAN LOS ARTICULOS 51 Y 52 DEL REGLAMENTO DE ALUMNOS.
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
 
 P.O. 31 DE ENERO DE 2004.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 16 DE FEBRERO DE 2005.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
