@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "1997-09-23"
+last_updated: "1998-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1998.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -601,6 +601,10 @@ XXIV.- Asuntos de la Juventud; y
 
 XXV.- Prevención y Readaptación.
 
+> <small>(ADICIONADA, P.O 21 DE AGOSTO DE 1998)</small>
+
+XXVI.- Asuntos de Equidad y Género.
+
 ###### ARTICULO 57.
 
 Las Comisiones de Dictamen, durarán todo el ejercicio constitucional de la H. Legislatura. Podrán renovarse con el acuerdo de la mayoría de los Diputados presentes y a propuesta de la Gran Comisión.
@@ -609,9 +613,11 @@ Las Comisiones de Dictamen, durarán todo el ejercicio constitucional de la H. L
 
 Las Comisiones de Dictamen tendrán la competencia que se derive de su denominación y que la H. Legislatura acuerde, en correspondencia a las áreas respectivas de la administración pública estatal y municipal.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO 59.
 
-Las Comisiones Permanentes de Dictamen de Régimen Político, Participación Ciudadana, de Administración de Justicia, Prevención y Readaptación, de Hacienda, Instructora, de Audiencia Pública; Información, Gestoría y Quejas, siempre se integraran pluralmente.
+Las Comisiones Permanentes de Dictamen de Régimen Político, Participación Ciudadana, de Administración de Justicia, Prevención y Readaptación, de Hacienda, Instructora, de Audiencia Pública, Información, Gestora y Quejas, de Asuntos de Equidad y Género siempre se integraran pluralmente.
 
 ###### ARTICULO 60.
 
@@ -1198,3 +1204,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 21 DE AGOSTO DE 1998
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
