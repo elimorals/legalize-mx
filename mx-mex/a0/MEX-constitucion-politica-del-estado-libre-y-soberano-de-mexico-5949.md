@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1942-07-04"
+last_updated: "1942-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 1942.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -90,6 +90,8 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 G.G. 4 DE JULIO DE 1942.
 
 El presente Decreto entrará en vigor a partir de su publicación en la "Gaceta del Gobierno". El Gobernador designado por esta Legislatura con el carácter de Interino con fecha 16 de marzo de 1942, continuará en el desempeño de su cargo, con el carácter de Substituto, hasta la terminación del periodo de 1941 a 1945.
+
+G.G. 30 DE DICIEMBRE DE 1942.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -293,17 +295,17 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 38.
 
-Por cada ochenta mil habitantes o fracción mayor de cuarenta mil, se elegirán un Diputado propietario y un suplente.
+Por cada 100,000 habitantes o fracción mayor de 50,000 se elegirán un Diputado Propietario y un Suplente.
 
-> <small>(REFORMADO, G.G. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 39.
 
-Para ser Diputado Propietario o Suplente, se requiere: ser mayor de veinticinco años, nativo del Distrito, ciudadano del Estado e hijo de padres mexicanos por nacimiento y con vecindad en el Distrito, no menor de cinco años inmediatos anteriores al día de la elección.
+Para ser Diputado Propietario o Suplente, se requiere ser mayor de 25 años, originario y ciudadano del Estado, con residencia efectiva en su territorio o con vecindad no menor de un año inmediato anterior al día de la elección.
 
 ###### Art. 40.
 
@@ -311,7 +313,9 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I. Los ministros de cualquier culto;
 
-II. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
+
+II. Los Diputados y Senadores propietarios y suplentes al Congreso de la Unión que estén en ejercicio;
 
 III. Los funcionarios y empleados públicos de la Federación;
 
@@ -1395,7 +1399,7 @@ IV. El trabajo nocturno se pagará con cuota doble de la fijada para el diurno, 
 
 V. En ningún trabajo se utilizarán los servicios de menores de quince años que no hayan recibido o no reciban la educación primaria obligatoria;
 
-VI. Las incapacidades para el trabajo, provenientes de trabajo de riesgo constante y ocurridas por accidentes ocasionados por el trabajo mismo, en empresas capitalistas cuyo capital exceda de cincuenta mil pesos, podrán ser de tres clases:
+VI. Las incapacidades para el trabajo, provenientes de trabajo de riesgo contante y ocurridas por accidentes ocasionados por el trabajo mismo, en empresas capitalistas cuyo capital exceda de cincuenta mil pesos, podrán ser de tres clases:
 
 a. Incapacidad permanente y absoluta;
 
@@ -1834,3 +1838,7 @@ Los Poderes públicos del Estado se consideran como superiores jerárquicos de l
 ###### Art. 12.
 
 El Poder público del Estado, que designe la presente Constitución, representará a los Cuerpos Municipales en todos los asuntos de éstos que se relacionen con la Federación, con los demás Estados de la República y con los Poderes del mismo Estado.
+
+###### ARTICULO TERCERO.
+
+Estas reformas y adiciones entrarán en vigor el día de su publicación en la "Gaceta del Gobierno".
