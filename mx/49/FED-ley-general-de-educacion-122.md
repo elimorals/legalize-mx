@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2000-06-12"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -96,7 +96,9 @@ IX.- Estimular la educación física y la práctica del deporte;
 
 X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
-XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desemvolvimoiento armónico e integral del individuo y la sociedad.
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
 
@@ -306,9 +308,11 @@ Los beneficiados directamente por los servicios educativos deberán prestar serv
 
 #### Sección 3.- Del financiamiento a la educación
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 25.
 
-El Ejecutivo Federal y gobierno de cada entidad federativa, con sujeción a las correspondientes disposiciones de ingresos y gasto público que resulten aplicables, concurrirán al financiamiento de los servicios educativos.
+El Ejecutivo Federal y gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación publica y de los servicios educativos. El monto anual que el Estado- Federación, entidades federativas y municipios-, destine al gasto en la educación pública y en los servicios educativos, no podra ser menor a 8% del producto interno bruto del país, destinado a este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las instituciones de Educación Superior Públicas.
 
 Los recursos federales recibidos para ese fin por cada entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
 
@@ -504,7 +508,9 @@ La Secretaría determinará los planes y programas de estudio, aplicables y obli
 
 Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, expresadas a través del Consejo Nacional de Participación Social en la Educación a que se refiere el artículo 72.
 
-Las autoridades educativas locales propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones y demás aspectos propios de la entidad y municipios respectivos.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Las autoridades educativas locales propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
 
 La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados.
 
@@ -879,3 +885,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 12 DE JUNIO DE 2000.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- para dar cabal cumplimiento a esta disposición, los presupuestos del Estado contemplaran un incremento gradual anual, a fin de alcanzar en el año 2006, recursos equivalentes al 8% del Producto Interno Bruto que mandata la presente reforma.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
