@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1986-12-27"
+last_updated: "1999-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -177,9 +177,11 @@ Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema
 
 ### CAPITULO SEGUNDO. EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 15.
 
-El Organismo a que se refiere al artículo 134 de la Ley Estatal de Salud, se denomina Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, el cual será el organismo rector de la Asistencia Social y tendrá como objetivos la promoción de la Asistencia Social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las Instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+El órgano a que se refiere al artículo 132 de la Ley Estatal de Salud se denomina Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, el cual será el órgano rector de la asistencia social, de naturaleza desconcentrada y tendrá como objetivos la promoción de la asistencia social, la prestación de servicios en ese campo, la promoción de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
 
 ###### ARTICULO 16.
 
@@ -389,9 +391,11 @@ El Organismo se integrará con las unidades técnicas y administrativas que el d
 
 Con el objeto de representar a los menores de edad ante las diversas autoridades, defendiendo sus derechos y protegiéndolos en todos los aspectos y velando por la integración familiar, funcionará como Dependencia del Organismo, la Procuraduría de la Defensa del Menor y la Familia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 34.
 
-Los Municipios del Estado de Tabasco que cuenten con capacidad de recursos humanos, materiales y financieros y que sus necesidades en el campo de la asistencia social lo requieran, crearán Organismos Públicos Paramunicipales con personalidad jurídica y patrimonio propio, que se denominarán Sistemas Municipales para el Desarrollo Integral de la Familia, cuyos objetivos y funciones serán las mismas que este Organismo Estatal.
+Los Municipios del Estado de Tabasco que cuenten con capacidad de recursos humanos, materiales y financieros y que sus necesidades en el campo de la asistencia social lo requieran, crearán órganos desconcentrados, que se denominarán Sistemas Municipales para el Desarrollo Integral de la Familia, cuyos objetivos y funciones serán los mismos que los del órgano estatal.
 
 ###### ARTICULO 35.
 
@@ -554,3 +558,19 @@ GOBERNADOR DEL EDO. DE TABASCO
 Lic. José Ma. Peralta López
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+SEGUNDO.- Las Secretarías de Planeación y Finanzas, y de Contraloría y Desarrollo Administrativo, emitirán en su caso, los lineamientos que consideren necesarios, para dar cumplimiento dentro de sus respectivas competencias, a los términos del presente Decreto.
+
+TERCERO.- El patrimonio de las entidades que mediante este Decreto cambian su naturaleza jurídica, quedará igualmente adscrito a las dependencias a las que el mismo se refiere.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
