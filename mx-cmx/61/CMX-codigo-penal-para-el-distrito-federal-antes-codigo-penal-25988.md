@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-05-08"
+last_updated: "1945-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1945.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -1519,6 +1519,8 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ## TITULO SEPTIMO. Delitos Contra la Salud
+
+> <small>N. DE E. POR DECRETO PUBLICADO EN EL D.O.F. DE 12 DE MAYO DE 1945, SE ESTABLECE QUE EN TANTO DURE LA SUSPENSION DE GARANTIAS INDIVIDUALES VIGENTE EN LA REPUBLICA SE DECLARA LEY DE EMERGENCIA EL CAPITULO 1°, TITULO 7° , LIBRO 2°, DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES Y FEDERAL EN TODA LA REPUBLICA EN MATERIA DE ESTE FUERO, RELATIVO A LA TENENCIA Y TRAFICO DE ENERVANTES. EL ARTICULO SEGUNDO DEL DECRETO SEÑALA QUE LOS INDIVIDUOS QUE INFRINJAN DICHO CAPITULO, SUFRIRAN LAS PENAS QUE EL MISMO ESTABLECE, PERO SUJETOS A LO DISPUESTO POR LAS LEYES DE PREVENCIONES GENERALES RELATIVAS A LA SUSPESION DE GARANTIAS, POR LO QUE HACE A LA PRIVACION DE SU LIBERTAD.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -3219,6 +3221,10 @@ D.O.F. 8 DE MAYO DE 1945.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
+
+D.O.F. 12 DE MAYO DE 1945.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
