@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1979-07-20"
+last_updated: "1980-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -687,7 +687,9 @@ Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación
 
 ART. 159.- En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
-ART. 160.- De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Jueces de lo Civil.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ART. 160.- De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Jueces de Primera Instancia de lo familiar.
 
 ART. 161.- En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero no la inversa.
 
@@ -2811,9 +2813,9 @@ ART. 700.- La apelación interpuesta en los juicios sumarios, solo se admirán (
 
 ART. 701.- En las apelaciones en materia sumaria, solo será admisible la prueba documental pública superveniente.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
-ART. 702.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio para las causas expresadas en los Artículos 238, 239 y 245 a 248 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y, aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
+ART. 702.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los Artículos 238, 239 y 245 a 248 del Código Civil abre de oficio la segunda instancia, con intervención del Ministerio Público y, aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1979)</small>
 
@@ -3663,7 +3665,9 @@ Si hubieren transcurrido menos de seis meses de la exposición o abandono, se de
 
 Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismos efectos.
 
-ART. 909.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil, el juez de lo civil resolverá dentro del tercero día lo que proceda sobre la adopción.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+ART. 909.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 394 y 395 del Código Civil, el Juez de Primera Instancia de lo familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
 
 ART. 910.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá, conforme a lo dispuesto en el artículo 404 del Código Civil.
 
@@ -3749,7 +3753,9 @@ II.- (DEROGADA, P.O. 20 DE JUNIO DE 1975)
 
 III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 445 del Código Civil;
 
-IV.- La aclaración de actas del estado civil cuando se trate de errores gramaticales o mecanográficos o de letras o de palabras concernientes a la real identificación de la persona y no cuando se trate de hechos esenciales señalados por el artículo 24.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+
+IV.- La rectificación de actas del estado civil cuando se trate de hechos esenciales asentados en las mismas.
 
 ART. 924.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
@@ -4014,3 +4020,9 @@ El presente Arancel deja sin efecto el Artículo Transitorio Tercero del Código
 P.O. 20 DE JULIO DE 1979.
 
 UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado, entrará en vigor el día primero de octubre de mil novecientos ochenta.
