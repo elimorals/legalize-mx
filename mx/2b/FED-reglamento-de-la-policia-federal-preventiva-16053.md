@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-policia-federal-preventiva-16053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-26"
-last_updated: "2000-04-26"
+last_updated: "2001-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-17"
 
 REGLAMENTO DE LA POLICIA FEDERAL PREVENTIVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de abril de 2000.
 
@@ -747,7 +747,7 @@ El Comisionado determinará los lugares en los que se establecerán las comandan
 
 Las comandancias regionales estarán a cargo de los comisarios regionales quienes dependerán operativamente del Comisionado, en tanto que administrativa y orgánicamente lo harán de la Coordinación de Seguridad Regional. Esta última gestionará y justificará, ante la Coordinación de Administración y Servicios, los recursos humanos, materiales y financieros para el desempeño de sus funciones.
 
-Con independencia de la relación orgánica de las comandancias regionales, las unidades administrativas a que se refieren las fracciones II, III, apartados A, B, C, E eI del artículo 9 del presente reglamento, mantendrán canales de comunicación directa con aquéllas para el desahogo y tramitación de los asuntos de su competencia.
+Con independencia de la relación orgánica de las comandancias regionales, las unidades administrativas a que se refieren las fracciones II, III, apartados A, B, C, E e I del artículo 9 del presente reglamento, mantendrán canales de comunicación directa con aquéllas para el desahogo y tramitación de los asuntos de su competencia.
 
 ###### Artículo 27.
 
@@ -1881,7 +1881,7 @@ La Comisión se integrará de la forma siguiente:
 
 I. Un presidente, que será el Comisionado;
 
-II. Un secretario, que será el titular de la Unidad de Desarrollo;
+II. (DEROGADA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, D.O.F. 6 DE FEBRERO DE 2001)
 
 III. Cinco vocales, que serán los titulares del Estado Mayor; de la Coordinación de Inteligencia para la Prevención; de la Coordinación de Seguridad Regional; de la Coordinación de Fuerzas Federales de Apoyo, y de Asuntos Jurídicos;
 
@@ -2058,3 +2058,11 @@ Los procedimientos que se inicien, a partir de la entrada en vigor del presente 
 OCTAVO.- Se abroga el Reglamento Interior de la Policía Federal de Caminos publicado en el Diario Oficial de la Federación el 13 de octubre de 1997.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de abril de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS RELACIONADOS CON EL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga la fracción II del artículo 152 del Reglamento de la Policía Federal Preventiva, así como todas aquellas disposiciones que se opongan al presente Reglamento.
