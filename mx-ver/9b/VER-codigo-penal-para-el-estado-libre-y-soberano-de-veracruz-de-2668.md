@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1991-02-19"
+last_updated: "1991-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 1991.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -514,6 +514,10 @@ La garantía de no ofender consiste en la caución que el juez puede exigir al s
 ###### ARTICULO 65.
 
 Los jueces al pronunciar la sentencia que corresponda, fijarán las sanciones que estimen justas, dentro de los límites establecidos por este Código, apreciando conforme a su prudente arbitrio, los antecedentes y condiciones personales del responsable, su peligrosidad, los móviles del delito, los daños materiales y morales causados, el peligro corrido, las circunstancias que concurrieron en el hecho y las condiciones personales del ofendido.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+
+Cuando el responsable pertenezca a un grupo étnico indígena, igualmente se tomará en consideración el grado de diferencia cultural que guarde con relación a la media del Estado, así como las costumbres y demás características de la etnia.
 
 ### CAPITULO II. DELITOS CULPOSOS Y PRETERINTENCIONALES
 
@@ -1123,6 +1127,10 @@ Al que sin motivo justificado o empleando engaño se introduzca a una morada o a
 
 Las mismas sanciones se aplicarán al que permanezca en una morada o sus dependencias, sin el consentimiento de la persona autorizada para darlo.
 
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+
+No se procederá contra los autores de este delito, sino por querella de los ofendidos o de sus legítimos representantes.
+
 ### CAPITULO I. VIOLACION
 
 > <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
@@ -1150,6 +1158,10 @@ A quien por medio de la violencia física o moral tenga cópula con una persona 
 ###### ARTICULO 153.
 
 Al que tenga cópula con persona menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir se le impondrán de seis a nueve años de prisión y multa hasta de doscientas veces el salario mínimo.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+
+Cuando se tenga cópula con persona mayor de doce y menor de catorce años de edad, con su consentimiento y el responsable sea menor de veintiún años y contraiga matrimonio con la persona ofendida, previa autorización de sus padres o quien deba otorgarla, la sanción será de dos a ocho años de prisión y multa hasta cien veces el salario mínimo.
 
 > <small>(REFORMADO, G.O. 9 DE ABRIL DE 1988)</small>
 
@@ -1359,9 +1371,7 @@ e).-Lo cometan los obreros, artesanos, aprendices o discípulos en la casa, tall
 
 f).-Se aprovechen las condiciones de confusión que se produzcan por catástrofe o desorden público; y
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
-
-g).-Se efectúe por varias personas.
+g).- (DEROGADA, G.O. 23, JULIO DE 1991)
 
 > <small>(REFORMADA, G.O. 9 DE ABRIL DE 1988)</small>
 
@@ -1616,6 +1626,10 @@ Asimismo, se perseguirá a petición de la parte ofendida el fraude, cuando su m
 ###### ARTICULO 200.
 
 Las sanciones previstas para los delitos de robo, abigeato, fraude, administración fraudulenta, usura, despojo, daños y encubrimiento por receptación, se disminuirán en una tercera parte cuando se repare el daño causado antes de que se dicte sentencia. Lo dispuesto en este artículo no procederá, cuando el responsable sea reincidente o cuando se trate de robo calificado en términos de la fracción II del artículo 176 de este Código, o el delito de que se trate se haya cometido con violencia a las personas, durante su ejecución o fuga.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 1991)</small>
+
+Lo dispuesto en la párrafo anterior se aplicará cuando se trate de los delitos previstos en los artículos 177 y 178 de este Código.
 
 ## TITULO VII. DELITOS CONTRA LA FAMILIA
 
@@ -2133,7 +2147,7 @@ IV.-Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o 
 
 ### CAPITULO IV. COHECHO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 254.
 
@@ -2143,9 +2157,9 @@ Se impondrán de seis meses a seis años de prisión y multa hasta de doscientas
 
 Se impondrán prisión de uno a ocho años y multa hasta de cuatrocientas veces el salario mínimo, al servidor público que:
 
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 1991)</small>
 
-I.-Teniendo conocimiento por razón de su empleo, cargo o comisión de que existe interés en lesionar el patrimonio de los poderes Legislativo, Ejecutivo o Judicial, de alguna Dependencia o Entidad de la Administración Pública, Estatal o Municipal, organismos descentralizados o desconcentrados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos, por cualquier acto u omisión, no informe por escrito a su superior jerárquico o lo evite si está dentro de sus atribuciones, facultades o funciones;
+I.-Teniendo conocimiento por razón de su empleo, cargo o comisión de que existe interés en lesionar el patrimonio de los Poderes Legislativo, Ejecutivo o Judicial, de alguna Dependencia o Entidad de la Administración Pública, Estatal o Municipal, organismos descentralizados o desconcentrados, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas o fideicomisos públicos, por cualquier acto u omisión, no informe por escrito a su superior jerárquico o no lo evite, si está dentro de sus atribuciones, facultades o funciones;
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -2185,15 +2199,13 @@ Se impondrán prisión de seis meses a 6 años y multa hasta de doscientas veces
 
 ###### ARTICULO 256.
 
-Se impondrán prisión de seis meses a diez años y multa hasta de seiscientas veces el salario mínimo:
+Comete el delito de cohecho:
 
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
+I.-El servidor público que solicite o reciba indebidamente dinero o dádivas para sí o para otro, o acepte una promesa para realizar una conducta lícita o ilícita relacionada con sus funciones; y
 
-I.-A los servidores públicos que soliciten o reciban indebidamente dinero o dádivas para sí o para otro, o acepten una promesa para realizar una conducta lícita o ilícita relacionada con sus funciones; y
+II.-El que dé u ofrezca dinero o dádivas a las personas a que se refiere la fracción anterior, para lograr los mismos fines.
 
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
-
-II.-Al que dé u ofrezca dinero o dádivas a las personas a que se refiere la fracción anterior, para lograr los mismos fines.
+Cuando el dinero o dádivas de que se trate, sea inferior al equivalente de cien veces el salario mínimo, se aplicará prisión de seis meses a seis años y multa hasta de doscientas veces el salario mínimo y cuando el equivalente rebase las cien veces el salario mínimo, la sanción será de tres a diez años de prisión y multa hasta de seiscientas veces el salario mínimo.
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
@@ -2447,7 +2459,7 @@ c).-Los que estén ligados con el delincuente por amor, respeto, gratitud o estr
 
 ### CAPITULO I. FRACCIONAMIENTO INDEBIDO
 
-> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 283.
 
@@ -2455,7 +2467,7 @@ Al que quebrante una sanción de privación, suspensión o inhabilitación de de
 
 ### CAPITULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
-> <small>(ADICIONADO, 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 284.
 
@@ -2483,15 +2495,19 @@ V.-Pida términos para probar lo que notoriamente no puede demostrar o no ha apr
 
 ###### ARTICULO 285.
 
-Se impondrán de cinco a diez años de prisión y multa hasta el importe de mil días de salario mínimo de la zona, al que sin contar con el permiso o la licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
+Se impondrá de tres a diez años de prisión y multa hasta de mil veces el salario mínimo, al que sin contar con el permiso o licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 286.
 
-Se aplicarán de cinco a diez años de prisión y multa hasta el importe de mil días de salario mínimo de la zona, al que sin contar con el permiso o la licencia de la autoridad competente, o cuando existiendo éste, no se hayan satisfecho los requisitos en él señalados:
+Se aplicará de tres a diez años de prisión y multa hasta de mil veces el salario mínimo, al que sin contar con el permiso o la licencia de la autoridad competente, o cuando existiendo éste, no se hayan satisfecho los requisitos en él señalados:
+
+> <small>(ADICIONADA, 23 DE SEPTIEMBRE DE 1986)</small>
 
 I.-Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
+
+> <small>(ADICIONADA, 23 DE SEPTIEMBRE DE 1986)</small>
 
 II.-Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
@@ -2574,3 +2590,13 @@ La presente Ley entrará en vigor a los quince días siguientes a su publicació
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE JULIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
