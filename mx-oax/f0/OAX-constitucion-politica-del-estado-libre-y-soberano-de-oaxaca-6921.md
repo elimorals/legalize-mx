@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1969-04-26"
+last_updated: "1969-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1969.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -721,6 +721,8 @@ El ciudadano electo para suplir las faltas absolutas de Gobernador Constituciona
 
 #### SECCION TERCERA. Del Despacho del Ejecutivo
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+
 ###### ARTICULO 79.
 
 Son facultades del Gobernador:
@@ -733,9 +735,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Enviar cada vez que lo crea conveniente, al Secretario General del Despacho para que tome parte en las discusiones de las leyes o decretos, pero sin que esté presente en el momento de la votación;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 1969)</small>
 
-V. Nombrar y remover, con las limitaciones que establezcan las leyes, al Secretario General del Despacho, Subsecretario, Tesorero General y demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
+V. Nombrar y remover libremente al Secretario General del Despacho, Subsecretario, Directores Generales, Jefes de Departamento y demás empleados del Estado, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución, o en las Leyes que de ella se deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -845,15 +847,17 @@ XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos
 
 ###### ARTICULO 82.
 
-Para el despacho de los asuntos que son a cargo del Ejecutivo del Estado, habrá un Secretario General del Despacho.
+Para el despachado (sic) de los asuntos que son a cargo del Ejecutivo del Estado, habrá un Secretario General del Despacho, un Subsecretario y los Directores Generales y Jefes de Departamento que sean necesarios.
 
 ###### ARTICULO 83.
 
 Para ser Secretario General del Despacho se requiere: ser ciudadano mexicano en el ejercicio de sus derechos, nativo del Estado, mayor de treinta años y tener un modo honesto de vivir.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+
 ###### ARTICULO 84.
 
-Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que dicte el Gobernador, deberán en todo caso ser autorizados con la firma del Secretario General del Despacho y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir firmados por el Secretario General del Despacho, y sin este requisito no surtirán efectos legales. El Secretario General del Despacho será responsable de todas las órdenes y providencias que autorice contra disposiciones de la Constitución y leyes del Estado.
+Todas las leyes y decretos, así como los reglamentos, circulares, acuerdos y órdenes que dicte el Gobernador, en todo caso deberán ser autorizados con la firma del Secretario General del Despacho y comunicados por los Directores Generales en sus respectivos ramos. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir firmados por el Secretario General del Despacho y sin este requisito no surtirán efectos legales. El Secretario General del Despacho y los Directores Generales en sus ramos respectivos, serán responsables de todas las órdenes y providencias que dicten contra disposiciones de la Constitución y leyes del Estado.
 
 ###### ARTICULO 85.
 
@@ -881,9 +885,11 @@ Los nombramientos de Secretario General del Despacho y Subsecretario serán rati
 
 El Secretario General del Despacho no puede dictar disposición alguna sin acuerdo expreso del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+
 ###### ARTICULO 90.
 
-Para el despacho de los negocios del orden administrativo del Estado habrá en la Secretaría General el número de departamentos que establezca la Legislatura por una ley, la que distribuirá los negocios que han de estar a cargo de cada departamento.
+Para el despacho de los negocios del orden administrativo del Estado, se contará con la Secretaría General del Despacho, la Subsecretaría y número de Direcciones Generales y Departamentos administrativos que establezca la Legislatura por una Ley, la que distribuirá los asuntos que han de estar a cargo de cada dependencia. Los Directores Generales acordarán directamente con el Gobernador y los acuerdos que se tomen serán refrendados por el Secretario General del Despacho y comunicados por los Directores Generales en sus respectivos ramos.
 
 ###### ARTICULO 91.
 
@@ -1580,5 +1586,9 @@ P.O. 6 DE JULIO DE 1963.
 UNICO.- Una vez aprobadas las presentes reformas, entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE ABRIL DE 1969.
+
+Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1969.
 
 Unico.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
