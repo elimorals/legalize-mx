@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1932-09-15"
+last_updated: "1932-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 1932.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -6001,25 +6001,27 @@ III.- Continua;
 
 IV.- Pública.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 1932)</small>
+
 ARTICULO 1185
 
 Los bienes inmuebles se prescriben:
 
-I.- En cinco años cuando se poseen en concepto de propietario, con buena fe, pacífica, continua y públicamente;
+I.- En diez años, cuando se poseen en concepto de propietario, con justo título, con buena fe, pacífica, continua y públicamente;
 
-II.- En cinco años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
+II.- En diez años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
 
-III.- En diez años, cuando se poseen de mala fe, si la posesión es en concepto de propietario, pacífica, continua y públicamente;
-
-IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
+III.- En veinte años, cuando se poseen de mala fe si la posesión es en concepto de propietario, pacífica, continua y públicamente.
 
 ARTICULO 1186
 
 Los bienes muebles se prescriben en tres años cuando son poseídos con buena fe, pacífica y continuamente. Faltando la buena fe, se prescribirán en cinco años.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 1932)</small>
+
 ARTICULO 1187
 
-Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de diez años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
+Cuando la posesión se adquiera por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de veinte años para los inmuebles y de cinco para los muebles, contados desde que cese la violencia.
 
 ARTICULO 1188
 
@@ -6041,9 +6043,11 @@ ARTICULO 1191
 
 La prescripción negativa se verifica por el solo transcurso del tiempo fijado por la ley.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 1932)</small>
+
 ARTICULO 1192
 
-Fuera de los casos de excepción, se necesita el lapso de diez años, contados desde que una obligación pudo exigirse, para que se extinga el derecho de pedir su cumplimiento.
+Fuera de los casos de excepción, se necesita el lapso de veinte años, contados desde que una obligación pudo exigirse, para que se extinga el derecho de pedir su cumplimiento.
 
 ARTICULO 1193
 
@@ -14870,3 +14874,9 @@ Jalapa-Enríquez, a 1º de septiembre de 1932.
 El Secretario de Gobierno.
 
 Lic. Miguel Aguillón Guzmán.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 6 DE DICIEMBRE DE 1932.
+
+Esta Ley comenzará a regir, desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
