@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-22077"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-23"
-last_updated: "1993-07-23"
+last_updated: "2001-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE ABASOLO, N . L
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de julio de 1993.
 
@@ -420,19 +420,31 @@ Si la sanción a aplicar es la multa, ésta no podrá exceder de 20 cuotas consi
 
 Entendiéndose como cuota, el equivalente a un día de salario mínimo general.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 33.
 
-Al aplicarse la multa, deberá tomarse en consideración la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica, la condición social, la educación y los antecedentes del infractor.
+Al aplicarse la multa, deberá tomarse en consideración la naturaleza de la infracción cometida, las causas que lo produjeron, la capacidad económica, la condición social, la educación y los antecedentes del infractor.
 
 Si el infractor a sancionar con la aplicación de la multa fuere un obrero o campesino, aquella no podrá exceder de una cuota.
+
+Las multas se clasificarán en:
+
+a) Menores. Las que por su origen no perjudican a terceras personas. Se sancionaran con multa de 1 a 10 cuotas.
+
+b) Medias. Las que por sus consecuencias alteren el bienestar y el orden público. Se sancionarán con multa de 11 a 20 cuotas.
+
+c) Mayores. Las que por la gravedad de sus hechos lesionan o perjudican bienes y personas. Se sancionarán con multa de 21 a 30 cuotas.
 
 ###### ARTICULO 34.
 
 Si el infractor fuere reincidente, al haber incurrido en la comisión de idénticas infracciones en un período de tres meses posteriores a la primera, se le sancionará con treinta y seis horas de arresto.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 35.
 
-Si el infractor omitiere el pago de una multa que se hubiere impuesto, esta le será permutada por la de arresto, la cual no excederá de treinta y seis horas.
+Si el infractor omitiere el pago de una multa que se hubiere impuesto, ésta se conmutara por arresto de 36 treinta y seis horas o por servicios comunitarios.
 
 ###### ARTICULO 36.
 
@@ -533,3 +545,13 @@ C. RAMON ANTONIO SANDOVAL RAMIREZ
 SINDICO PRIMERO DEL R. AYUNTAMIENTO
 
 APROBADO EL REGLAMENTO DE POLICIA Y BUEN GOBIERNO. POR LO TANTO ENVIASE (SIC) AL EJECUTIVO PARA SU PROMULGACION Y PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO DE NUEVO LEON. POR LO ANTERIOR, MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2001.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 33 Y 35 DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE ABASOLO, NUEVO LEÓN, Y QUE FUE APROBADA POR UNANIMIDAD DE VOTOS, EN SESIÓN ORDINARIA CELEBRADA EL DÍA 14 DE MARZO DEL 2001”.]
+
+Artículo Primero. La Secretaría del R. Ayuntamiento deberá turnar para su publicación el presente acuerdo, tanto en la Gaceta como en el Periódico Oficial del Estado. De conformidad con lo establecido en el artículo 27 fracción IV 167 de la Ley Orgánica de la Administración Pública Municipal y 45 del Reglamento de Policía y Buen Gobierno de este municipio.
+
+Artículo segundo. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
