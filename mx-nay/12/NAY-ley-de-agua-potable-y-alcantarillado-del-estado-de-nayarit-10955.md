@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-agua-potable-y-alcantarillado-del-estado-de-nayarit-1095
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-04"
-last_updated: "1995-10-04"
+last_updated: "2002-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 4 de octubre de 1995.
 
@@ -1255,6 +1255,8 @@ QUEDA FACULTADO EL ORGANISMO OPERADOR O, EN SU DEFECTO, LA COMISION ESTATAL DE A
 
 RECURSOS ADMINISTRATIVOS.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 114.
@@ -1349,39 +1351,27 @@ LOS INGRESOS A QUE SE REFIERE EL PRESENTE ARTICULO, PARA EFECTOS DE COBRO, EN LO
 
 ###### ARTICULO 121.
 
-CONTRA RESOLUCIONES Y ACTOS DE LOS ORGANISMOS OPERADORES Y DE LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO, QUE CAUSEN AGRAVIO A LOS PARTICULARES Y QUE PARA SU IMPUGNACION NO TENGAN SEÑALADO TRAMITE ESPECIAL EN ESTA LEY, PROCEDERA EL RECURSO DE RECONSIDERACION, EL CUAL SE TRAMITARA EN LA FORMA Y TERMINOS DEL PRESENTE CAPITULO.
+CONTRA LAS RESOLUCIONES Y ACTOS ADMINISTRATIVOS DE LAS AUTORIDADES QUE CONTRAVENGAN LO PREVISTO EN ESTE ORDENAMIENTO, PODRÁ INTERPONERSE EL RECURSO ADMINISTRATIVO DE INCONFORMIDAD O EL JUICIO ANTE EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, EN TÉRMINOS DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT.
 
 ###### ARTICULO 122.
 
-EL RECURSO DE RECONSIDERACION SE INTERPONDRA POR ESCRITO ANTE LA AUTORIDAD QUE HAYA EMITIDO LA RESOLUCION O EJECUTADO EL ACTO, DENTRO DE LOS QUINCE DIAS HABILES SIGUIENTES A SU NOTIFICACION O DE AQUEL EN QUE SE HAYA TENIDO CONOCIMIENTO SI NO HUBO NOTIFICACION.
-
-EN DICHO ESCRITO SE EXPRESARA:
-
-I. EL NOMBRE Y DOMICILIO DEL RECURRENTE, LOS AGRAVIOS QUE LE CAUSEN, LA RESOLUCION O EL ACTO IMPUGNADO Y LOS ELEMENTOS DE PRUEBA QUE SE CONSIDEREN NECESARIOS. AL ESCRITO SE ACOMPAÑARAN LAS CONSTANCIAS QUE ACREDITEN LA PERSONALIDAD DEL RECURRENTE, CUANDO ACTÚE EN NOMBRE DE OTRO O DE PERSONAS MORALES;
-
-II. LA FECHA EN QUE TUVO CONOCIMIENTO DE LA RESOLUCION RECURRIDA, ANEXANDO LA DOCUMENTACION RESPECTIVA;
-
-III. EL ACTO O RESOLUCION QUE SE IMPUGNE; Y
-
-IV. LA MENCION DE LA AUTORIDAD QUE HAYA DICTADO LA RESOLUCION U ORDENADO O EJECUTADO EL ACTO.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 123.
 
-LA AUTORIDAD, AL RECIBIR EL RECURSO, VERIFICARA SI ESTE FUE INTERPUESTO EN TIEMPO, ADMITIÉNDOLO O RECHAZÁNDOLO.
-
-EN CASO DE ADMISION, DECRETARA, EN SU CASO, LA SUSPENSION RESPECTIVA, Y DESAHOGARA LAS PRUEBAS QUE PROCEDAN EN UN PLAZO QUE NO EXCEDERA DE VEINTE DIAS HABILES CONTADOS A PARTIR DE LA NOTIFICACION DEL PROVEIDO DE ADMISION.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 124.
 
-DENTRO DE LOS DIEZ DIAS HABILES SIGUIENTES AL DESAHOGO DE LAS PRUEBAS, SI LAS HUBIERE, SE DICTARA RESOLUCION EN LA QUE SE CONFIRME, MODIFIQUE O REVOQUE LA RESOLUCION RECURRIDA O EL ACTO IMPUGNADO. DICHA RESOLUCION SE NOTIFICARA AL INTERESADO, PERSONALMENTE O POR CORREO CERTIFICADO.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 125.
 
-EN LO RELATIVO A LA INTERPRETACION, SUSTANCIACION Y DECISION DE LOS RECURSOS QUE CONTEMPLA ESTA LEY, SE APLICARAN SUPLETORIAMENTE LAS DISPOSICIONES VIGENTES EN LOS CODIGOS CIVIL Y DE PROCEDIMIENTOS CIVILES DEL ESTADO.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 126.
 
-CONTRA EL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION QUE APLIQUEN LAS AUTORIDADES FISCALES COMPETENTES, A SOLICITUD HECHA POR EL ORGANISMO OPERADOR, PROCEDERAN LOS MEDIOS DE IMPUGNACION DE LA LEGISLACION FISCAL RESPECTIVA.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ## TRANSITORIOS
 
@@ -1446,3 +1436,33 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gob.
 
 C.P. Antonio Echevarría Domínguez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
