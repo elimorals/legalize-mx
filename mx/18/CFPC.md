@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "1988-01-12"
+last_updated: "1993-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1993.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -504,6 +504,8 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 II.- Multa que no exceda de quinientos pesos, y
 
 III.- Suspensión de empleo hasta por quince días.
@@ -525,6 +527,8 @@ Los jueces, magistrados y ministros podrán ordenar que se subsane toda omisión
 ###### ARTICULO 59.
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 I.- Multa hasta de mil pesos, y
 
@@ -1094,6 +1098,8 @@ Rendidos los dictámenes, dentro de los tres días siguientes del últimamente p
 
 El perito tercero no está obligado a adoptar alguna de las opiniones de los otros peritos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 ###### ARTICULO 153.
@@ -1135,6 +1141,8 @@ Los honorarios de cada perito serán pagados por la parte que lo nombró, o en c
 ###### ARTICULO 160.
 
 Para el pago de los honorarios de que trata el artículo anterior, los peritos presentarán, al tribunal, la correspondiente regulación, de la cual se dará vista, por el término de tres días, a la parte o partes que deban pagarlos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 Transcurrido dicho término, contesten o no las partes, hará el tribunal la regulación definitiva, y ordenará su pago, teniendo en consideración, en su caso, las disposiciones arancelarias. Esta resolución es apelable si los honorarios reclamados exceden de mil pesos.
 
@@ -1597,6 +1605,8 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 En los autos que queden en el tribunal, no podrá nunca dictarse resolución alguna que modifique, revoque o, en otra forma, afecte lo acordado en la resolución apelada, entretanto que el recurso esté pendiente, para lo cual se dejará copia de ella.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 238.
 
@@ -2246,6 +2256,8 @@ Abierta la audiencia, pondrá el tribunal a discusión, en los puntos que estime
 
 Discutida la prueba documental, se pasará a la discusión de la pericial, en los puntos que el tribunal estime necesarios, si hubiere habido discrepancia entre los peritos, concediéndose a éstos el uso de la palabra, sólo una vez, por un término que no excederá de treinta minutos. Si no hubiere habido discrepancia, se pasará a la discusión de la prueba testimonial, la que se llevará a efecto exclusivamente por interrogatorio directo del tribunal a los testigos y a las partes, puestos en formal careo, para el efecto de aclarar los puntos contradictorios observados en sus declaraciones.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 No impedirá la celebración de la audiencia la falta de asistencia de las partes ni la de los peritos o testigos, siendo a cargo de cada parte, en su caso, la presentación de los peritos o testigos que cada una haya designado. La falta de asistencia de los peritos o testigos que el tribunal haya citado para la audiencia, por estimarlo así conveniente, tampoco impedirá la celebración de la audiencia; pero se impondrá a los renuentes una multa hasta de mil pesos.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
@@ -2852,6 +2864,8 @@ XV.- Los demás bienes exceptuados por la ley.
 
 En los casos de las fracciones IV y VII, el nombramiento del perito será hecho, cuando el tribunal lo estime conveniente, al practicar la revisión de que trata el artículo 68.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 ###### ARTICULO 435.
@@ -3093,6 +3107,8 @@ El depositario que no rinda la cuenta mensual, será separado, de plano, de la a
 ###### ARTICULO 467.
 
 Siempre que hubiere cambio de depositario, se prevendrá, a quien tuviere los bienes, que haga entrega de ellos, dentro de tres días, al que fuere nombrado nuevamente, con el apercibimiento de que, de no hacerlo, se hará uso inmediato de la fuerza pública. Si el plazo indicado no bastare para concluir la entrega, el tribunal lo ampliará discrecionalmente.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -3746,43 +3762,65 @@ V.- En los casos en que lo dispongan así otras leyes.
 
 ### CAPITULO VI. Ejecución de Sentencias
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 569.
 
-Las sentencias, laudos arbitrales privados y demás resoluciones jurisdiccionales extranjeras tendrán eficacia y serán reconocidos en la República en todo lo que no sea contrario al orden público interno en los términos de este Código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Las sentencias, los laudos arbitrales privados de carácter no comercial y demás resoluciones jurisdiccionales extranjeros tendrán eficacia y serán reconocidos en la República en todo lo que no sea contrario al orden público interno en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 Tratándose de sentencias, laudos o resoluciones jurisdiccionales que sólo vayan a utilizarse como prueba ante tribunales mexicanos, será suficiente que los mismos llenen los requisitos necesarios para ser considerados como auténticos.
 
-Los efectos que las sentencias o resoluciones jurisdiccionales y laudos arbitrales privados extranjeros produzcan en el territorio nacional, estarán regidos por lo dispuesto en el Código Civil, por este Código y demás leyes aplicables.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+Los efectos que las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales extranjeros produzcan en el territorio nacional, estarán regidos por lo dispuesto en el Código Civil, por este código y demás leyes aplicables.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 570.
 
-Las sentencias, resoluciones jurisdiccionales y laudos arbitrales privados extranjeros se cumplirán coactivamente en la República, mediante homologación en los términos de este Código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales extranjeros se cumplirán coactivamente en la República, mediante homologación en los términos de este código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
 
-> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 571.
 
-Las sentencias, laudos arbitrales privados y resoluciones jurisdiccionales dictados en el extranjero, podrán tener fuerza de ejecución si cumplen con las siguientes condiciones:
+Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales dictados en el extranjero, podrán tener fuerza de ejecución si cumplen con las siguientes condiciones:
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
 I.- Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos provenientes del extranjero;
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
+
 II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
 III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código;
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
+
 IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
 V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
+
 VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
 
 VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1988)</small>
+
 VIII.- Que llenen los requisitos para ser considerados como auténticos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 No obstante el cumplimiento de las anteriores condiciones, el tribunal podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o laudos extranjeros en casos análogos.
 
@@ -3863,3 +3901,9 @@ D.O.F. 12 DE ENERO DE 1988.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procedimientos relativos a las materias a que se refiere el presente Decreto que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 22 DE JULIO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo establecido en el presente decreto se aplicará a los procedimientos arbitrales de carácter comercial en trámite, así como al reconocimiento y a la ejecución de los laudos arbitrales comerciales, salvo acuerdo en contrario de las partes.
