@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "1997-11-12"
+last_updated: "1998-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -927,7 +927,7 @@ Para efectos de su publicidad, remítase un ejemplar de la presente al Secretari
 
 ###### ARTICULO SEPTIMO.
 
-El Congreso expedirá el Reglamento de la presente, en un término que no exceda de sesenta días naturales a partir de la aprobación de esta Ley, mientras tanto continuará aplicándose en lo conducente la Ley que se abroga, siempre y cuando no se contravenga lo preceptuado en la presente.
+(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO DE MORELOS, P.O. 4 DE NOVIEMBRE DE 1998)
 
 RECINTO LEGISLATIVO DEL H. CONGRESO DEL ESTADO A LOS TRES DÍAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
@@ -962,3 +962,17 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE MORALES BARUD
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE NOVIEMBRE DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento entrará en vigor al día siguiente de su aprobación.
+
+###### ARTICULO CUARTO.
+
+Se deroga el artículo séptimo transitorio de la Ley Orgánica del Congreso del Estado de Morelos.
