@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-06-23"
+last_updated: "1988-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 1988.
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: 14 DE JULIO DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -87,7 +89,9 @@ IV.- CUARTO CIRCUITO:
 
 1.- Tres tribunales Colegiados y un tribunal Unitario con residencia en la ciudad de Monterrey, Nuevo León;
 
-2.- Cinco Juzgados de Distrito en el Estado de Nuevo León, con residencia en la ciudad de Monterrey.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 10/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F., TOMO I, ENERO-JUNIO DE 1988 Y APENDICES, PRIMERA PARTE-2, PAGINA 499)</small>
+
+2.- Seis Juzgados de Distrito en el estado de Nuevo León, con residencia en la ciudad de Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -424,5 +428,9 @@ D.O.F. 17 DE MAYO DE 1988.
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 D.O.F. 23 DE JUNIO DE 1988.
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+S.J.F. 14 DE JULIO DE 1988.
 
 UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
