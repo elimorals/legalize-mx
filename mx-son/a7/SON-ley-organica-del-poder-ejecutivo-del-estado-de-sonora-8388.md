@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1988-03-28"
+last_updated: "1988-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 1988.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -705,11 +705,13 @@ V.- Contratar y llevar el registro de las personas sujetas a pago de honorarios.
 
 VI.- Proveer en los términos de la ley de la materia, al otorgamiento de estímulos a los funcionarios y empleados de la administración pública directa, y llevar el registro de los nombres de las personas a quienes se les otorguen premios, estímulos o recompensas.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1988)</small>
 
-VII.- Dictar las normas para las adquisiciones de bienes, excepto las relativas a los inmuebles, que realicen las dependencias y entidades de la administración pública estatal, así como las normas y procedimientos para el manejo de almacenes y baja de bienes muebles, que formen parte del patrimonio del Poder Ejecutivo; y, en general, aplicar y vigilar el cumplimiento de la Ley Sobre Adquisiciones, Arrendamientos, Servicios y Almacenes de la Administración Pública del Estado de Sonora.
+VII.- Expedir Las normas complementarias de carácter general, que requiera la aplicación de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles de la Administración Pública Estatal y de sus disposiciones reglamentarias; así como las normas para la formulación, mantenimiento y actualización de inventarios y la baja de bienes muebles del dominio del Estado y para el control y operación de almacenes de los bienes muebles asignados a las Dependencias.
 
-VIII.- Suministrar, en su caso, los bienes y servicios que requiera el funcionamiento de las dependencias del Poder Ejecutivo.
+> <small>(REFORMADA, B.O. 10 DE NOVIEMBRE DE 1988)</small>
+
+VIII.- Suministrar, en su caso, los servicios que requiera el funcionamiento de las Dependencias del Poder Ejecutivo, de conformidad con las disposiciones reglamentarias que se emitan.
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
@@ -1072,3 +1074,9 @@ Las atribuciones que se le confieran a la Secretaría de Fomento Agrícola y Asu
 ###### ARTICULO TERCERO.
 
 Los recursos financieros, humanos y materiales asignados a la Subsecretaría de Asuntos Agrarios, así como a las unidades administrativas adscritas a la misma, se transfieren a la Secretaría de Gobierno.
+
+B.O. 10 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
