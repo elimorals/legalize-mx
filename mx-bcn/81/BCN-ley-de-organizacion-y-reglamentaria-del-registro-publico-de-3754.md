@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-organizacion-y-reglamentaria-del-registro-publico-de-375
 country: "mx"
 rank: "ley"
 publication_date: "1978-07-20"
-last_updated: "1979-07-20"
+last_updated: "1980-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ORGANIZACION Y REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1978.
 
@@ -57,19 +57,19 @@ El Registro Público de la Propiedad y de Comercio es una institución que tiene
 
 ### CAPITULO II. De la Organización del Registro Público de la Propiedad y de Comercio
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 4o.
 
-El Registro Público de la Propiedad y de Comercio estará a cargo de la dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los Registradores que funcionarán en la ciudad de Mexicali, Tijuana y Ensenada.
+El Registro Público de la Propiedad y de Comercio estará a cargo de la dependencia del Poder Ejecutivo denominada Dirección del Registro Público de la Propiedad y de Comercio, con sede en la Capital del Estado y se desempeñará, por lo que se refiere a las inscripciones de los documentos objeto de él, por los Registradores que funcionarán en la ciudades de Mexicali, Tijuana, Ensenada y Tecate.
 
-El titular del Registro Público de la Propiedad y de Comercio, será el Director de la Dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
+El titular del Registro Público de la Propiedad y de Comercio, será el Director de la dependencia del Ejecutivo a que se refiere este Artículo, quien con el Subdirector, Registradores y demás personal administrativo, integrarán dicha Dependencia.
+
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
 
 ###### ARTICULO 5o.
 
-La circunscripción en que actúen los Registradores Públicos de la Propiedad y de Comercio a que se refiere el Artículo anterior, será la de los Municipios de Mexicali y Ensenada, con excepción del que funcionará en la ciudad de Tijuana, que comprenderá el Municipio del mismo nombre y el Municipio de Tecate.
-
-El Ejecutivo del Estado queda facultado, conforme las condiciones demográficas y económicas que se presenten, para crear otras circunscripciones que queden a cargo de los registradores respectivos.
+Los Registradores Públicos actuarán dentro de su circunscripción Municipal. El Ejecutivo del Estado queda facultado, conforme las condiciones demográficas y económicas que se presenten, para crear otras circunscripciones que queden a cargo de los Registradores respectivos.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
@@ -662,3 +662,17 @@ C. ARMANDO GALLEGO MORENO.
 P.O. 20 DE JULIO DE 1979.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE FEBRERO DE 1980.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, a los cuarenta y cinco días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Una vez establecido el Registro Público de la Propiedad y de Comercio de la Ciudad de Tecate, previamente a cada inscripción de documento objeto de registro, se solicitará, a costa del interesado, del Registro de la ciudad de Tijuana o de Ensenada, según se trate, copia de la última partida y en su caso de sus anotaciones y gravámenes, que sea antecedente del documento objeto del registro, y una vez que se haga la inscripción en el Registro de la ciudad de Tecate, éste lo comunicará al de la ciudad de Tijuana o Ensenada, para que cancele la partida y anote al margen de ella que ha sido trasladada a los libros del Registro de la ciudad de Tecate.
+
+###### ARTICULO TERCERO.
+
+La expedición de certificados se solicitarán en el Registro de la ciudad de Tijuana o Ensenada, según se trate, hasta en tanto las partidas de las que deriven no queden inscritas en el Registro de la ciudad de Tecate.
