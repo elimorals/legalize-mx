@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1997-07-16"
+last_updated: "1998-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1661,9 +1661,9 @@ I.- Aquellos cuyo interés no exceda de diez días de salario mínimo vigente en
 
 II.- Los que versen sobre el pago o aseguramiento de alimentos;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1998)</small>
 
-III.- Los que versen sobre cualquier cuestión relativa a los contratos de alquiler, depósito, comodato, aparcería, transportes, hospedajes y arrendamiento excepto cuando se trate de rescisión de contratos de arrendamiento de fincas, en cuyo caso se aplicará el procedimiento y términos que establecen el artículo 448 Bis y demás relativos al juicio de desocupación;
+III.- Los que versen sobre cualquier cuestión relativa a los contratos de alquiler, depósito, comodato, aparcería, transportes, hospedajes y arrendamiento, excepto en los casos previstos por el artículo 448 de este Código;
 
 IV.- Los juicios que tengan por objeto la firma de una escritura, la elevación de minuta a instrumento público o el otorgamiento de documentos y el caso del artículo 2065 del Código Civil;
 
@@ -1833,21 +1833,25 @@ IV.- Cuando se ocupe una habitación u otro local o predio sin haberse celebrado
 
 V.- En la infracción de cualquiera otra de las condiciones que con arreglo al Código Civil motiven la rescisión del contrato.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 1997)</small>
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 1998)</small>
 
-ART. 448 BIS.- Las causales de desocupación previstas en el artículo inmediato anterior, se sujetarán al siguiente procedimiento:
+ART. 448 BIS.- Las causales de desocupación previstas en el artículo inmediato anterior, se sujetará (sic) al siguiente procedimiento:
 
-I.- Los actuarios deberán notificar y emplazar al demandado en un término no mayor de cinco días, siguientes a la radicación de la demanda:
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 1998)</small>
 
-El juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia compruebe con el recibo correspondiente estar al corriente en el pago de las rentas, para que cubra desde luego su adeudo, o para que, en su caso, exhiba el contrato de arrendamiento; y de no hacerlo se le prevenga para que, dentro del plazo de treinta días cuando la finca sirva para habitación, giro industrial o mercantil, o dentro del plazo de cuarenta y cinco días cuando se trate de predios rústicos, proceda a desocuparla apercibiendo de su lanzamiento a su costa si no lo hace.
+I.- A la presentación de la demanda, el juez procederá a su radicación y en el mismo auto ordenará emplazar a la parte demandada para que ocurra a contestar la demanda dentro del término improrrogable de cinco días, contados a partir del día siguiente al del emplazamiento.
 
-En el mismo acto se le emplazará para que ocurra a contestar la demanda dentro del término improrrogable de nueve días, contados a partir del día siguiente al de la notificación y emplazamiento;
+Cuando la demanda se funde en las fracciones III y IV del artículo 448 de este Código, en el mismo proveído, el juez además mandará requerir al arrendatario para que en el acto de la diligencia, compruebe con el recibo correspondiente estar al corriente en el pago de las rentas, o bien para que cubra desde luego su adeudo, o para que, en su caso, exhiba el contrato de arrendamiento en cualquiera de los casos a satisfacción del actor; y de no hacerlo se le prevenga para que, dentro del plazo de cuarenta y cinco días cuando la finca sirva para habitación, giro industrial o mercantil, o dentro del plazo de noventa días, cuando se trate de predios rústicos, proceda a desocuparla, apercibiéndolo de su lanzamiento a su costa, si no lo hace.
 
-II.- En el emplazamiento, se le hará saber al demandado que con la contestación de la demanda deberá oponer las excepciones que estime pertinentes y ofrecer las pruebas que deban ser desahogadas.
+Si en el acto de diligencia, justifica el inquilino, haber pagado la pensión o pensiones según lo convenido; si satisface inmediatamente su adeudo, o exhibe en su caso el contrato de arrendamiento en cualquiera de los casos a satisfacción del actor, se suspenderá la diligencia, asentándose en ella los hechos y agregándose los comprobantes que se exhibieren, o en su caso el pago, para dar cuenta al juez.
 
-III.- En todos los casos, sólo existirá una audiencia, cuya fecha se determinará en el auto que tenga por contestando (sic) la demanda, la que deberá fijarse en un plazo que no será mayor de treinta días contados a partir de la contestación de la misma, y en ella se discutirán las excepciones, el ofrecimiento de pruebas, el desahogo de las mismas y los alegatos; y
+Cuando el inquilino en el momento de la diligencia hubiere realizado el pago o (sic) satisfacción del actor el juez mandará entregar a éste el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación a costas. De igual manera procederá en caso de que el demandado haya justificado a satisfacción del actor estar al corriente en el pago de las rentas, o hubiere exhibido en su caso el contrato de arrendamiento respectivo.
 
-IV.- El juez tendrá un término de cinco días contados a partir del siguiente a la audiencia a que se refiere la fracción anterior, o en su caso contados a partir del auto en que se haga la declaratoria de rebeldía, para dictar sentencia.
+II.- Contestada la demanda o transcurrido el término para hacerlo, el juez, expresamente, decretaráa (sic) un término común de cinco días para que las partes ofrezcan todas sus pruebas, sin excepción.
+
+III.- En el mismo proveído que tenga por ofrecidas las pruebas de las partes, el juez determinará las que se admitan y fijará fecha y hora para que tenga verificativo en una sola audiencia el desahogo de las mismas, excepción hecha de las que por su naturaleza requieran preparación especial, las que deberán concluirse a más tardar el día de la audiencia. En la misma audiencia se llevará a cabo la recepctión (sic) de alegatos por su orden, los que podrán expresarse en forma verbal en un lapso no mayor de quince minutos. Esta audiencia se celebrará dentro de los treinta días siguientes al auto que la señala, y tendrá efectos de citación para sentencia.
+
+IV.- El juez tendrá un término de cinco días contados a partir del siguiente a la audiencia a que se refiere la fracción anterior para dictar sentencia.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 1997)</small>
 
@@ -1880,52 +1884,6 @@ ART. 457.- Si el actor lo pide, al ejecutarse el lanzamiento se embargarán y de
 ART. 458.- En los juicios sobre desocupación se entiende domicilio legal la finca o departamento de cuya desocupación se trate, salvo pacto en contrario.
 
 ART. 459.- (DEROGADO, P.O. 16 DE JULIO DE 1997)
-
-### CAPITULO IV. De los Interdictos
-
-ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
-
-ART. 461.- Los interdictos proceden así mismo para los efectos que expresa el artículo 313 del Código Civil, en los casos de la segunda parte del artículo 24 de éste.
-
-ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
-
-ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
-
-ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
-
-ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
-
-ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
-
-ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
-
-ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
-
-ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
-
-ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
-
-ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
-
-ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -2128,6 +2086,52 @@ ART. 481.18.- Las resoluciones que se dicten en términos de lo dispuesto en est
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
+
+### CAPITULO IV. De los Interdictos
+
+ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
+
+ART. 461.- Los interdictos proceden así mismo para los efectos que expresa el artículo 313 del Código Civil, en los casos de la segunda parte del artículo 24 de éste.
+
+ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
+
+ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
+
+ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
+
+ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
+
+ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
+
+ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
+
+ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
+
+ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
+
+ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
+
+ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
+
+ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
 
 ## TITULO OCTAVO. De las Tercerías
 
@@ -4543,94 +4547,6 @@ ART. 1136.- Las disposiciones de este Título se aplicarán también a los juici
 
 ## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
 
-### CAPITULO I. De las controversias del Orden Familiar
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
-
-En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
-
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
-
-Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
-
-Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
-
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
-
-Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-## TITULO DECIMO SEXTO
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
 ### CAPITULO II. De la Audiencia de Pruebas y Alegatos
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
@@ -4734,6 +4650,94 @@ V.- Siempre será pública la audiencia excepto en los casos en que a juicio del
 ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia durante horas inhábiles, no se requiere providencia de habilitación.
 
 Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+## TITULO DECIMO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+### CAPITULO I. De las controversias del Orden Familiar
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
+
+Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
+
+Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
+
+Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4840,3 +4844,9 @@ P.O. 16 DE JULIO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 24 DE JULIO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
