@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2003-01-02"
+last_updated: "2003-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -477,9 +477,17 @@ XV. Firmar la correspondencia y demás comunicaciones del Congreso;
 
 XVI. Comunicar al Secretario General del Congreso los acuerdos, observaciones y propuestas que sobre las tareas a su cargo formule la Junta de Trabajos Legislativos;
 
-XVII. Requerir a los Diputados que no asistan, a concurrir a las sesiones del Congreso y comunicar al Pleno, en su caso, las medidas o sanciones que correspondan; y
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2003)</small>
 
-XVIII. Las demás que expresamente señalen la Constitución del Estado, esta ley, la normatividad interior del Congreso y las leyes del Estado.
+XVII. Requerir a los Diputados que no asistan, a concurrir a las sesiones del Congreso y comunicar al Pleno, en su caso, las medidas o sanciones que correspondan;
+
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2003)</small>
+
+XVIII. Establecer las condiciones generales de trabajo de todos los servidores públicos del Congreso del Estado; y
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2003)</small>
+
+XIX. Las demás que expresamente le señalen la Constitución del Estado, esta ley, la normatividad interior del Congreso y las leyes del Estado.
 
 #### SECCIÓN CUARTA. DEL VICEPRESIDENTE
 
@@ -959,7 +967,9 @@ I. Velar por la imparcialidad de los servicios a su cargo;
 
 II. Realizar la compilación y registro de los acuerdos, precedentes y prácticas legislativas;
 
-III. Asistir al Secretario General en el cumplimiento de sus funciones, acordar con el los asuntos de su responsabilidad y suplirlo cuando no pueda concurrir a las reuniones de la Mesa Directiva;
+> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2003)</small>
+
+III. Asistir al Secretario General en el cumplimiento de sus funciones, acordar con él los asuntos de su responsabilidad y suplirlo en sus ausencias temporales;
 
 IV. Realizar estudios sobre la organización, el funcionamiento y los procedimientos del Congreso, así como promover y difundir estudios e investigaciones jurídicas en coordinación, en su caso, con instituciones públicas o privadas; y
 
@@ -989,11 +999,33 @@ VIII. Las demás que expresamente le confieran esta ley, la normatividad interio
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE FISCALIZACIÓN
 
-> <small>(F. DE E., G.O. 25 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### Artículo 61.
 
-Para los efectos del artículo 18, fracción XXXII, de esta Ley, la Secretaría de Fiscalización realizará las tareas de fiscalización e investigación que, por acuerdo del Congreso, le instruya la Secretaría General; asimismo, llevará a cabo auditorías y aplicará los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del mismo. Para los efectos de lo dispuesto en el artículo 56, fracción III, de esta ley, su titular deberá contar con título de licenciado en Derecho o Contador Público.
+La Secretaría de Fiscalización, cuyo titular deberá contar con título de Licenciado en Derecho o de Contador Público, tendrá a su cargo las funciones siguientes:
+
+I. Revisar y analizar la aplicación de los recursos públicos de los Ayuntamientos, durante el ejercicio fiscal correspondiente, mediante la verificación de sus estados financieros, anexos y demás información relativa que les requiera el Congreso;
+
+II. Fiscalizar e investigar a los Ayuntamientos, durante el año de que se trate, conforme a su Programa Operativo Anual;
+
+III. Practicar, por instrucciones del Secretario General, previo acuerdo del Presidente de la Mesa Directiva del Congreso o, en su caso, de la Diputación Permanente, auditorías a los Ayuntamientos durante el ejercicio fiscal correspondiente o designarles interventores;
+
+IV. Implementar programas permanentes de capacitación y orientación preventiva para los servidores públicos municipales;
+
+V. Apoyar a la Secretaría General en la recepción, control y sistematización de las declaraciones de situación patrimonial que presenten los servidores públicos estatales y municipales, así como programar y ejecutar acciones tendientes al cumplimiento de las disposiciones en la materia;
+
+VI. Fungir como órgano de control interno del Congreso en los procedimientos previstos en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles para el Estado de Veracruz-Llave;
+
+VII. Tener a su cargo el Registro de Deuda Pública Municipal;
+
+VIII. Recibir quejas o denuncias administrativas en contra de servidores públicos municipales, excepto ediles, turnarlas a los órganos de control interno respectivos y darles el seguimiento correspondiente;
+
+IX. Supervisar la correcta interpretación y aplicación de la normatividad vigente en materia de presentación de los estados financieros de los Ayuntamientos, con anexos y demás información relativa;
+
+X. Establecer un banco de información del ámbito municipal, que sirva de base para la elaboración de manuales que permitan una adecuada funcionalidad y manejo de la información; y
+
+XI. Las demás que expresamente le señalen el Congreso o la Diputación Permanente, en su caso, así como las leyes y reglamentos aplicables.
 
 ## TRANSITORIOS
 
@@ -1030,3 +1062,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 2 DE ENERO DE 2003.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 28 DE FEBRERO DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
