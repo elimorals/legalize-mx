@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-colegio-estatal-de-seguridad-publica-17885"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-30"
-last_updated: "2000-08-30"
+last_updated: "2001-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL COLEGIO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de agosto de 2000.
 
@@ -147,27 +147,51 @@ II.- El Coordinador General del Colegio; y
 
 III.- El Consejo Técnico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 8.
 
-El Órgano Supremo del Colegio es la Junta de Gobierno, la cual se integrará por un Presidente y diez Vocales. La presidencia estará a cargo del Gobernador del Estado, pudiendo sustituirlo en la presidencia el funcionario que él determine; en tanto que los Vocales estarán distribuidos de la siguiente forma:
+El Órgano Supremo del Colegio es la Junta de Gobierno, la cual se integrará por un Presidente y once vocales. La presidencia estará a cargo del Gobernador del Estado, pudiendo sustituirlo en la presidencia el funcionario que él determine; en tanto que los Vocales estarán distribuidos de la siguiente forma:
 
-I.- El Secretario de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(ADICIONADA, P. O. 3 DE OCTUBRE DE 2001)</small>
 
-II.- El Secretario de Hacienda del Estado;
+I.- El Secretario de Gobierno del Estado;
 
-III.- El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
 
-IV.- El Secretario de Bienestar Social del Estado;
+II.- El Secretario de Seguridad Pública del Estado;
 
-V.- El Oficial Mayor del Gobierno del Estado;
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
 
-VI.- El Presidente de la Comisión de Asuntos de Seguridad Pública e Interés Social del Congreso del Estado;
+III.- El Secretario de Hacienda del Estado;
 
-VII.- El Rector de la Universidad Autónoma del Estado de Morelos;
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
 
-VIII.- El Magistrado Presidente del Tribunal Superior de Justicia del Estado; y
+IV.- El Procurador General de Justicia del Estado;
 
-IX.- Dos Presidentes Municipales, que serán rotados cada cuatro meses, iniciando los de los Municipios que por orden alfabético les corresponda.
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+V.- El Secretario de Educación del Estado;
+
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+VI.- El Oficial Mayor del Gobierno del Estado;
+
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+VII.- El Presidente de la Comisión de Asuntos de Seguridad Pública e Interés Social del Congreso del Estado;
+
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+VIII.- El Rector de la Universidad Autónoma del Estado de Morelos;
+
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+IX.- El Magistrado Presidente del Tribunal Superior de Justicia del Estado; y
+
+> <small>(REFORMADA, P. O. 3 DE OCTUBRE DE 2001)</small>
+
+X.- Dos Presidentes Municipales, que serán rotados cada cuatro meses, iniciando los de los Municipios que por orden alfabético les corresponda.
 
 El Coordinador General del Colegio asistirá a las sesiones de la Junta de Gobierno con voz, paro sin voto.
 
@@ -555,7 +579,9 @@ ATENTAMENTE
 
 "SUFRAGIO EFECTIVO. NO REELECCION".
 
-LOS CC. INTEGRANTES DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO.
+LOS CC. INTEGRANTES DE LA MESA DIRECTIVA
+
+DEL H. CONGRESO DEL ESTADO.
 
 P R E S I D E N T E.
 
@@ -586,3 +612,15 @@ SECRETARIO GENERAL DE GOBIERNO
 VÍCTOR MANUEL SAUCEDO PERDOMO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
