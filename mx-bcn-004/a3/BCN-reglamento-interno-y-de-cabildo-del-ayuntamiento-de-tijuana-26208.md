@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2005-02-04"
+last_updated: "2005-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -75,15 +75,19 @@ Naturaleza Constitucional del Ayuntamiento.- El Municipio de Tijuana ser (sic) g
 
 Corresponde al Ayuntamiento el ejercicio de las atribuciones que le conceden la Constitución Polític (sic) de los Estados Unidos Mexicanos, la particular del Estado Libre y Soberano de Baja California, en lo (sic) términos de la Ley del Régimen Municipal para el estado de Baja California y las leyes federales locales (sic) aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 6.
 
-Composición del Ayuntamiento.- El Ayuntamiento se integra por un President (sic) Municipal, un Síndico, regidores electos por el principío de mayoría relativa y regidores electos por e (sic) principio de representación proporcional, en los términos de lo dispuesto por la Constitución Polític (sic) del Estado.
+Composición del Ayuntamiento.- El Ayuntamiento se integrará por un President (sic) Municipal, un Síndico, regidores electos por el principío de mayoría relativa y regidores electos por e (sic) principio de representación proporcional, en los términos de lo dispuesto por la Constitución Polític (sic) del Estado.
 
 El Ayuntamiento funcionará en forma colegiada, integrado en sesión de Cabildo, con igual derecho d (sic) participación de todos sus integrantes.
 
 Todos los integrantes del Cabildo tienen derecho a voz y voto y gozan de las mismas prerrogativas.
 
-En la sesión de instalación del Ayuntamiento, el Cabildo designará de una terna propuesta por e (sic) Ejecutivo Municipal en los términos de la Ley del Régimen Municipal para el Estado de Baja California, al ciudadano que deba ejercer el cargo de Secretario de Gobierno Municipal, quien fungir (sic) en calidad de Secretario Fedatario del Ayuntamiento y no tendrá derecho a voto y sólo derecho a vo (sic) en los términos de este Ordenamiento.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+En la sesión de instalación del Ayuntamiento, entendiéndose que el Ayuntamiento se instala cuando toman protesta sus integrantes, el Cabildo designará de una terna propuesta por el Ejecutivo Municipal al ciudadano que deba ejercer el cargo de Secretario de Gobierno Municipal, mediante votación económica por mayoría simple, quien fungirá en calidad de Secretario Fedatario del Ayuntamiento mismo que tendrá derecho a voz en los términos de este Ordenamiento.
 
 ###### ARTICULO 7.
 
@@ -91,19 +95,19 @@ De la transición.- En la sesión de instalación, cada fracción representada e
 
 Para proceder a la instalación del Ayuntamiento previamente se deberá haber conformado la comisió (sic) de enlace a la que se refiere el Reglamento de Entrega Recepción para la Administración Públic (sic) Municipal, la cual deberá ser plural entendiéndose que deberá estar integrada por un Regidor de cad (sic) fracción política que integre el Cabildo.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 8.
 
-De los informes de Gestión Municipal.- El responsable del órgano ejecutivo de (sic) Ayuntamiento, deberá rendir informe detallado de la gestión municipal, cuando menos una vez po (sic) año, debiéndose sujetar a lo siguiente:
+De los informes de Gestión Municipal.- El Presidente Municipal deberá rendir un Informe de Gobierno respecto de la gestión municipal, cuando menos una vez por año, debiéndose sujetar a lo siguiente:
 
-I.- Antes de iniciar el informe del ejecutivo municipal y en presencia de este, un regidor de cad (sic) partido político representado en el Ayuntamiento, hará el posicionamiento de su fracción, respectó d (sic) la gestión municipal, la cual no deberá exederse (sic) de cinco minutos por regidor;
+I.- La sesión solemne de Informe de Gobierno se llevará conforme al acuerdo de protocolo, aprobado en el pleno de Cabildo.
 
-II.- una vez agotadas las intervenciones de las fracciones representadas en el Cabildo, el President (sic) Municipal procederá a rendir el informe de la Gestion Municipal;
+II.- Antes de iniciar el informe del ejecutivo municipal y en presencia de este, un regidor de cada partido político representado en el Ayuntamiento, hará el posicionamiento de su fracción, respectó de la gestión municipal, la cual no deberá excederse de cinco minutos por regidor;
 
-III.- Al concluir el informe, se abrirá una única ronda de preguntas sin derecho de replica, en la que u (sic) regidor de cada una de las fracciones representadas en el Cabildo, podrá preguntar, respecto a (sic) informe presentado. Debiendo el Ejecutivo Municipal dar respuesta de manera general a la (sic) interrogantes planteadas en el mismo acto;
+III.- Una vez agotadas las intervenciones de las fracciones representadas en el Cabildo, el Presidente Municipal procederá a rendir el informe de la Gestión Municipal, y
 
-IV.- Las intervenciones, interrogantes y respuestas deberán de apegarse a los principios de respeto, tolerancia, y
-
-V.- La sesión solemne de informe de gobierno se llevará conforme al acuerdo de protocolo aprobado en el pleno de Cabildo.
+IV.- Las intervenciones, deberán de apegarse a los principios de respeto y tolerancia.
 
 ###### ARTICULO 9.
 
@@ -115,19 +119,35 @@ El ejercicio de dichas atribuciones se deposita en el Cabildo y en las entidades
 
 ### CAPITULO SEGUNDO. DE LOS ACUERDOS Y RESOLUCIONES DE CABILDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 10.
 
-Reglas Generales.- El Cabildo ejercerá las atribuciones materialmente legislativa (sic) que le conceden las leyes mediante la expedición de acuerdos y resoluciones de naturalez (sic) administrativa, para efectos de regular las atribuciones de su competencia de acuerdo con la (sic) disposiciones legales aplicables.
+Reglas Generales.- Para el ejercicio de las atribuciones que las Leyes y Reglamentos le conceden al Cabildo, este las ejercerá mediante la expedición de acuerdos y resoluciones de orden Legislativo y de orden Administrativo.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Los acuerdos y resoluciones serán de orden Legislativo cuando, de manera enunciativa más no limitativa, versen sobre la iniciativa de Leyes o Decretos, creación, derogación o reforma de disposiciones normativas abstractas y de alcance general, en materia Municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Serán de naturaleza administrativa cuando, de manera enunciativa mas no limitativa, acuerden o resuelvan respecto de nombramiento de servidores públicos, otorgamiento, revocación o modificación de permisos o concesiones en materia de venta y almacenaje de alcoholes, transporte publico, servicios públicos o cualesquiera de los que tengan que ver con las atribuciones, funciones y servicios públicos que las Leyes o Reglamentos le otorguen al Ayuntamiento.
 
 El procedimiento para la aprobación de los acuerdos y resoluciones del Cabildo se regula por el presente Reglamento, y en todo caso, deberá observase en su reforma, derogación y abrogación el mismo procedimiento que les dio origen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 11.
 
-Clasificación de los acuerdos y resoluciones de Cabildo.- Los acuerdos resoluciones del Cabildo podrán ser:
+Clasificación de las resoluciones de Cabildo.- Las resoluciones del Cabildo podrán ser:
 
-I.- Reglamentos;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
 
-II.- Bando de Policía y Buen Gobierno;
+I.- Expedición, reforma, derogación o abrogación de Reglamentos;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+II.- Bando de Policía y Gobierno;
 
 III.- Presupuesto de egresos;
 
@@ -137,7 +157,7 @@ V.- Disposiciones Normativas de observancia general;
 
 VI.- Disposiciones normativas de alcance particular, y
 
-VII.- Acuerdos económicos.
+VII.- (DEROGADA, P.O. 11 DE FEBRERO DE 2005)
 
 ###### ARTICULO 12.
 
@@ -165,31 +185,43 @@ Disposiciones normativas de observancia general.- Son disposiciones normativa (s
 
 Disposiciones normativas de alcance particular.- Son disposiciones normativa (sic) de alcance particular las resoluciones de Cabildo que teniendo el carácter de concretas, personales de cumplimiento optativo, se dicten a petición de una persona o grupo de personas para l (sic) satisfacción de necesidades particulares.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 18.
 
-Acuerdos económicos.- Son acuerdos económicos las resoluciones de Cabildo qu (sic) sin incidir directa o indirectamente en la esfera jurídica de los particulares, y sin modificar el esquema de competencias de la autoridad municipal, tienen por objeto establecer la posición política económica, social o cultural del Ayuntamiento respecto de asuntos de interés público.
+Acuerdos económicos.- Son acuerdos económicos las determinaciones de Cabildo que sin incidir directa o indirectamente en la esfera jurídica de los particulares y que, sin modificar el esquema de competencias de la autoridad municipal, tienen por objeto establecer la posición política económica, social o cultural del Ayuntamiento respecto de asuntos de interés público, o cuando así lo determine el Cabildo.
 
-Tienen la naturaleza de acuerdos económicos, las resoluciones que dicte el Cabildo respecto de s (sic) funcionamiento interior, en los casos previstos por este Reglamento.
+Serán considerados acuerdos económicos, las determinaciones que emita el Cabildo respecto de su funcionamiento interior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-Vigencias de los acuerdos y resoluciones de Cabildo.- Los acuerdos resoluciones (sic) del Cabildo deberán ser publicadas para efectos del inicio de su vigencia en el Periódic (sic) Oficial del Estado.
+Vigencia de los acuerdos y resoluciones de Cabildo.- Para el inicio de su vigencia, los acuerdos y resoluciones del Cabildo deberán ser publicados en el Periódico Oficial del Estado y/o en la Gaceta Municipal, órgano oficial de difusión del H. Ayuntamiento de Tijuana.
 
-Por regla general y salvo previsión transitoria en otro sentido, los acuerdos y resoluciones del Cabild (sic) entrarán en vigor simultáneamente en todo el territorio del Municipio al día siguiente al de s (sic) publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Por regla general y salvo previsión transitoria en otro sentido, las resoluciones del Cabildo entrarán en vigor simultáneamente en todo el territorio del Municipio al día siguiente al de su publicación.
 
 Las disposiciones normativas de observancia general deberán señalar en sus previsiones transitoria (sic) el tiempo durante el cual estarán vigentes.
 
-Las resoluciones que deban ser publicadas en el Periódico Oficial del Estado deberán contener a (sic) final, la certificación que extienda el Secretario de Gobierno Municipal respecto de la difusión a que s (sic) refiere el artículo siguiente.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Los acuerdos económicos que versen sobre el funcionamiento interno del Ayuntamiento entraran en vigor al momento de su aprobación.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Las resoluciones y acuerdos que deban ser publicadas deberán contener al final, la certificación que extienda el Secretario de Gobierno Municipal respecto de la difusión a que se refiere el artículo siguiente.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL ACTA NÚMERO 08, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2005, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 20.
 
-Difusión de los acuerdos y resoluciones de Cabildo.- Para efectos de que lo (sic) vecinos del municipio conozcan los acuerdos y resoluciones que dicte el Cabildo, éstas será (sic) publicadas en un diario de los de mayor circulación en el Municipio, sin perjuicio de que la autorida (sic) responsable de su aplicación implemente programas especiales de difusión para conseguir est (sic) propósito.
-
-Sin perjuicio de lo anterior, la Secretaría de Gobierno Municipal dispondrá que los reglamentos presupuesto de egresos, iniciativas de Ley y disposiciones normativas de observancia general sea (sic) publicados en la tabla de avisos del Ayuntamiento.
+Difusión de los acuerdos y resoluciones de Cabildo.- Para efectos de que los vecinos del municipio conozcan los acuerdos y resoluciones que dicté el Cabildo, éstas serán publicadas en un diario de mayor circulación en el Municipio, en la tabla de avisos del ayuntamiento, sin perjuicio de que la autoridad responsable de su aplicación implemente programas especiales de difusión para conseguir este propósito.
 
 La Secretaría de Gobierno Municipal notificará directamente los (sic) interesados en tratándose d (sic) disposiciones normativas de alcance particular, resoluciones éstas (sic) que salvo disposición transitoria e (sic) otro sentido, no quedarán sujetas a la publicidad a que se refiere el párrafo anterior.
-
-Los acuerdos económicos serán publicados en un diario de los de mayor circulación en el Municipio.
 
 ###### ARTICULO 21.
 
@@ -217,13 +249,17 @@ Clasificación de las sesiones.- Las sesiones de Cabildo serán ordinarias extra
 
 Quórum Legal.-Para que las sesiones de Cabildo sean válidas se requiere qu (sic) hayan sido convocados todos sus integrantes y que se encuentren presente por lo menos la mita (sic) mas uno de sus miembros, entre los que deberá estar el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-Sesiones ordinarias.-. El Ayuntamiento sesionará en forma ordinaria por lo meno (sic) dos veces al mes para tratar los asuntos de su competencia, conforme al acuerdo para que tal efect (sic) dicte el Cabildo.
+Sesiones ordinarias.- El Ayuntamiento sesionará en forma ordinaria las veces que sean necesarias por mes conforme a la convocatoria que expida el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 27.
 
-Sesiones extraordinarias.- Podrán celebrarse sesiones extraordinarias de Cabild (sic) cuando sea necesario, a petición del Presidente Municipal o de la mayoría de sus miembros, d (sic) acuerdo con el procedimiento a que se refieren los artículos 33, 34 y 35 del presente Ordenamiento.
+Sesiones extraordinarias.- Podrán celebrarse sesiones extraordinarias de Cabildo cuando sea necesario, conforme a la convocatoria que expida el Presidente Municipal o de la mayoría calificada de sus miembros, de acuerdo con el procedimiento a que se refieren los artículos 33, 34 y 35 del presente Ordenamiento.
 
 ###### ARTICULO 28.
 
@@ -231,73 +267,103 @@ Sesiones solemnes.-El Ayuntamiento se reunirá en sesión solemne de Cabildo só
 
 I.- Cuando el Presidente Municipal deba rendir el informe anual respecto del estado que guarda l (sic) administración pública municipal, a celebrarse durante la última semana de noviembre del año qu (sic) corresponda.
 
-II.- Cuando deban rendir protesta los integrantes del Ayuntamiento entrante, en los términos de (sic) artículo 35 de la Ley del Régimen Municipal para el Estado de Baja California, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+II.- En la instalación del Ayuntamiento, cuando deban rendir protesta los integrantes del Ayuntamiento entrante, en los términos del artículo 35 de la Ley del Régimen Municipal para el Estado de Baja California, y
 
 III.- Cuando así lo determine el propio Cabildo, en atención a la importancia del caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 29.
 
-Sesiones Privadas.- Podrán celebrarse sesiones ordinarias o extraordinarias d (sic) carácter privado a petición del Presidente Municipal o de la mayoría de los miembros del Cabildo cuando existan elementos suficientes para ello, y cualquiera de los siguientes casos:
+Sesiones Reservadas.- Podrán celebrarse sesiones ordinarias o extraordinarias de carácter reservado cuando así lo determine el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y la naturaleza de los asuntos a tratar así lo ameriten o en cualquiera de los siguientes casos:
 
 I.- Cuando se traten asuntos relativos a la responsabilidad de los integrantes del Cabildo o lo (sic) funcionarios, empleados y servidores públicos de la administración municipal; en todo momento e (sic) acusado tiene el derecho de asistir a la sesión respectiva, escuchar los cargos que se le imputen establecer la defensa que convenga a sus intereses, salvo que renuncie al derecho de comparecer, y
 
 II.- Cuando deban rendirse informes en materia contenciosa.
 
-A las sesiones privadas sólo asistirán los integrantes del Cabildo y el Secretario de Gobiern (sic) Municipal; el acta que de las mismas se levante seguirá el procedimiento de dispensa a que se refier (sic) el artículo 71 de este Ordenamiento, y cuando se traten asuntos de invasión, epidemias, perturbació (sic) grave de la paz publica, seguridad nacional o de cualquier otro que ponga a la sociedad en grav (sic) peligro.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+A las sesiones reservadas sólo asistirán los integrantes del Cabildo y el Secretario de Gobierno Municipal, el acta que de las mismas se levante seguirá el procedimiento de dispensa a que se refiere el artículo 71 de este Ordenamiento, y cuando se traten asuntos de invasión, epidemias, perturbación grave de la paz publica, seguridad nacional o de cualquier otro que ponga a la sociedad en grave peligro.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 30.
 
-Recinto Oficial.- Es recinto oficial del Ayuntamiento la Sala de Cabildo ubicada en e (sic) segundo nivel del Palacio Municipal.
+Recinto Oficial.- Es recinto oficial del Ayuntamiento la Sala de Cabildo ubicada en el primer nivel del Palacio Municipal.
 
-Podrán celebrarse sesiones de Cabildo en cualquier otro lugar del Municipio, siempre que haya sid (sic) declarado previamente recinto oficial para tal efecto, debiendo celebrarse por lo menos dos sesione al año, fuera de Palacio Municipal.
+Asimismo, conforme lo establezca la convocatoria respectiva podrán celebrase sesiones de cabildo en cualquier otro lugar del municipio. Deberán celebrarse por lo menos dos sesiones al año, fuera de Palacio Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 31.
 
-Orden de las sesiones.- El recinto del Cabildo es inviolable. Toda fuerza públic (sic) que no sea a cargo del propio Ayuntamiento está impedida de tener acceso al mismo, salvo co (sic) permiso de la Presidencia Municipal, o en su ausencia, del Secretario de Gobierno Municipal.
+Orden de las sesiones.- Las sesiones de Cabildo son inviolables. Toda fuerza pública que no sea a cargo del propio Ayuntamiento está impedida de tener acceso al lugar en donde se desarrolle la sesión, salvo con permiso del Presidente Municipal, o en su ausencia, del Secretario de Gobierno Municipal.
 
-El público que asista a las sesiones de Cabildo deberá guardar compostura y silencio quedand (sic) prohibido alterar el orden, hacer ruido, faltar al respeto, proferir insultos o cualquier otro acto qu (sic) distraiga la atención del público o de los integrantes del Cabildo.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Las personas en general, que asista (sic) a las sesiones de Cabildo deberán guardar compostura y silencio quedando prohibido alterar el orden, abstenerse de invadir el área reservada para los Ediles, hacer ruido, faltar al respeto, proferir insultos o cualquier otro acto que distraiga la atención del público o de los integrantes del Cabildo.
 
 El Presidente Municipal podrá ordenar el desalojo del recinto del Cabildo, haciendo uso de la fuerz (sic) pública si resulta necesario.
 
 ### CAPITULO SEGUNDO. EL PROCEDIMIENTO DE CONVOCATORIA
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 32.
 
-Objeto de convocatoria.- Para efectos de proceder a la celebración de sesiones d (sic) Cabildo, deberá convocarse previamente a los integrantes del Ayuntamiento por escrito, indicando l (sic) fecha y hora en que deberá celebrarse la Sesión, y en su caso el recinto que haya sido declarad (sic) oficial para el efecto.
+Objeto de convocatoria.- Para efectos de proceder a la celebración de sesiones de Cabildo, deberá convocarse previamente a los integrantes del Ayuntamiento por escrito, indicando la fecha, hora y lugar en que deberá celebrarse la Sesión.
 
 ###### ARTICULO 33.
 
-Autoridad convocante.- Para efectos de celebrar sesiones ordinarias extraordinarias y solemnes de Cabildo, a petición del Presidente Municipal la convocatoria ser (sic) expedida por el Secretario de Gobierno Municipal y notificada al Síndico y a los Regidores.
+Autoridad Convocante.- Para efectos de celebrar sesiones ordinarias extraordinarias y solemnes de Cabildo, a petición del Presidente Municipal la convocatoria ser (sic) expedida por el Secretario de Gobierno Municipal y notificada al Síndico y a los Regidores.
 
-En el caso de la celebración de sesiones extraordinarias de Cabildo, a petición de la mayoría de su (sic) miembros, los interesados deberán expedir la convocatoria, firmada por todo los convocantes, notificada al Presidente Municipal, al Secretario de Gobierno Municipal, al Síndico Procurador y a lo (sic) Regidores no convocantes.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Para celebrar sesiones extraordinarias a petición de la mayoría calificada de los miembros del Cabildo, los interesados deberán elaborar y firmar la Convocatoria, debiendo notificarla al Presidente Municipal, al Secretario de Gobierno Municipal, al Síndico Procurador y a (sic) resto de los ediles no convocantes.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 34.
 
-Plazo para convocatoria.- La convocatoria para la celebración de sesione (sic) ordinarias y solemnes deberá notificarse a los interesados por lo menos con treinta y seis horas d (sic) anticipación, salvo en caso de sesiones extraordinarias que serán 24 horas.
+Plazo para convocatoria.- La convocatoria para la celebración de sesiones ordinarias y solemnes deberá notificarse a los interesados por lo menos con treinta y seis horas naturales de anticipación. Las sesiones extraordinarias, serán convocadas con 24 horas naturales de anticipación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 35.
 
-Orden del día.-La convocatoria que se expida para la celebración, de sesiones d (sic) Cabildo deberá ir acompañada del Orden del Día, mismo que deberá contener, por lo menos, lo (sic) siguientes puntos:
+Orden del día.- La convocatoria que se expida para la celebración, de las sesiones de Cabildo deberá ir acompañada del Orden del Día, mismo que deberá sujetarse a los siguientes puntos;
 
 I.- Lista de asistencia y declaración de quórum legal;
 
 II.- Proyecto de acta de sesión anterior para aprobación;
 
-III.- Presentación de proyectos de acuerdos y resoluciones;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
 
-IV.- Presentación de informes y dictámenes de las Comisiones, y
+III.- Proyectos de acuerdos y resoluciones;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+IV.- Informes y dictámenes de las Comisiones, y
 
 V.- Asuntos generales, excepto en el caso de sesiones extraordinarias y solemnes.
 
-Las sesiones solemnes y extraordinarias tendrán por objeto, exclusivamente, desahogar los asunto (sic) para los que sean convocadas, no pudiendo tratarse ningún otro asunto distinto.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
-En las sesiones privadas se exime del requisito del orden del día debiendo manifestar exclusivamente de que se trata de una sesión privada de carácter ordinario o extraordinario.
+Las sesiones solemnes y extraordinarias tendrán por objeto, exclusivamente, desahogar los asuntos para los que sean convocadas, no pudiendo tratarse ningún otro asunto distinto, salvo acuerdo económico en contrario que adopte el Cabildo, para el caso de las sesiones extraordinarias.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+En las sesiones reservadas se exime del requisito del orden del día debiendo manifestar exclusivamente de que se trata de una sesión reservada de carácter ordinario o extraordinario.
 
 ### CAPITULO TERCERO. DEL DESARROLLO DE LAS SESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 36.
 
-Desarrollo de las sesiones.- Las sesiones de Cabildo se desarrollarán con sujeció (sic) a la convocatoria y al Orden del Día que hayan sido expedidos en los términos de este Reglamento.
+Desarrollo de las sesiones.- Las sesiones de Cabildo se desarrollarán con sujeción al orden del día establecido en la convocatoria respectiva en los términos de este Reglamento.
 
 Si a la hora señalada para el inicio de la sesión no se encuentran presentes integrantes del Cabild (sic) en el número suficiente para la declaración de quórum legal, se esperará a los ausentes hasta po (sic) media hora; si transcurrido este plazo no se reúne el quórum legal, la sesión será diferida en lo (sic) términos del artículo 39 de (sic) presente ordenamiento, imponiéndose a los faltistas, previa certificació (sic) del Secretario de Gobierno de que fueron citados legalmente, la sanción que corresponda.
 
@@ -315,35 +381,51 @@ II.- Cuando el Presidente Municipal estime imposible continuar con el desarrollo
 
 Cuando se suspenda una sesión de Cabildo, el Secretario de Gobierno hará constar en el acta l (sic) causa de la suspensión.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 38.
 
-Del receso.- Cuando se acuerde suspender temporalmente una sesión se declarar (sic) un receso, notificando a los integrantes del Cabildo el día y la hora en que la sesión deber (sic) reanudarse, lo cual deberá suceder dentro de las siguientes veinticuatro horas.
+Del receso.- El Presidente Municipal, a petición de otro miembro del Cabildo o por iniciativa propia podrá decretar el receso de la sesión.
+
+Cuando se decrete un receso, los integrantes del Cabildo serán notificados del día y/o la hora en que la sesión deba reanudarse, dicha notificación se hará en el mismo acto en el que se decrete el receso o en un término no mayor de 24 horas naturales, a partir de que fue decretado el receso.
 
 ###### ARTICULO 39.
 
 Del diferimiento.- Habiéndose convocado en los términos de este Reglamento par (sic) que sea celebrada una sesión de Cabildo, ésta no podrá diferirse sino en los siguientes casos:
 
-I.- Cuando lo solicite la mayoría de los regidores mediante escrito firmado por todos ellos, dirigido a (sic) Presidente Municipal, y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
 
-II.- Cuando el Presidente Municipal esté impedido para asistir a la sesión, en atención a las funcione (sic) propias de su envestidura.
+I.- A solicitud de la mayoría calificada de los regidores mediante escrito firmado por todos ellos, dirigido al Presidente Municipal, y
 
-Cuando se difiera una sesión, el Secretario de Gobierno lo comunicará a los demás integrantes de Cabildo; convocando para celebrar la sesión dentro de los cinco días hábiles siguientes a la fecha e (sic) que debía celebrarse.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+II.- Cuando el Presidente Municipal así lo determine, atendiendo a la naturaleza de los asuntos a tratar en la sesión el Presidente podrá optar por designar a un regidor para que la presida o diferirla, según sea el caso.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Cuando se difiera una sesión, el Secretario de Gobierno lo comunicará a los demás integrantes del Cabildo, emitiendo una nueva convocatoria siendo notificada está en los términos del presente ordenamiento.
 
 ### CAPITULO QUINTO. DE LAS FUNCIONES DE LOS MIEMBROS DEL AYUNTAMIENTO EN LAS SESIONES DE CABILDO
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL ACTA NÚMERO 08, PUBLICADA EN EL P.O. DE 11 DE FEBRERO DE 2005, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### ARTICULO 40.
 
 Funciones del Cabildo.- Las funciones que respecto de los miembros del Cabild (sic) se establecen en el presente Reglamento, se otorgan sin perjuicio de las atribuciones previstas po (sic) las leyes y demás reglamentos municipales, y sólo para regular el funcionamiento colegiado de Cabildo, en los términos del artículo 1 de este Ordenamiento.
 
-El Cabildo será presidido por el Presidente Municipal o quien desempeñe sus funciones, y que ser (sic) un Regidor designado por Cabildo, quien lo suplirá en sus ausencias.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
-Actuará como Secretario Fedatario del Cabildo, el Secretario de Gobierno Municipal, y en caso d (sic) ausencia temporal, el Director General de Gobierno.
+Durante las ausencias temporales del Presidente Municipal quien desempeñara sus funciones será el edil designado por el Cabildo.
 
-Los integrantes del Ayuntamiento son inviolables en el ejercicio de su función, particularmente en el derecho a manifestar libremente sus ideas.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Los integrantes del Ayuntamiento son inviolables por sus opiniones manifestadas en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 41.
 
-Funciones del Presidente.-El Presidente Municipal, en lo que al funcionamient (sic) del Cabildo se refiere, tendrá las siguientes funciones;
+Atribuciones del Presidente.- El Presidente Municipal, en lo que al funcionamiento del Cabildo se refiere, tendrá las siguientes atribuciones;
 
 I.- Convocar a los integrantes del Ayuntamiento para efectos de celebrar sesión de Cabildo, po (sic) conducto del Secretario de Gobierno Municipal, en los términos del presente Ordenamiento;
 
@@ -371,31 +453,43 @@ XII.- Requerir a los regidores faltistas en los términos del artículo 110 del 
 
 XIII.- Someter los asuntos a votación cuando hayan sido suficientemente discutidos y hayan concluid (sic) las rondas de oradores a que se refiere el artículo 57 de este Reglamento, y
 
-XIV.- En general, tomar las medidas necesarias, durante la celebración de las sesiones, para provee (sic) al cumplimiento de la Ley, del presente Reglamento y de los acuerdos del Cabildo.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+XIV.- En general, tomar las medidas necesarias e instruir al Secretario de Gobierno para que durante la celebración de las sesiones provea lo necesario a efecto del buen desarrollo de las mismas, el cumplimiento de la Ley, del presente Reglamento y de los acuerdos del Cabildo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 42.
 
-Funciones del Secretario.- El Secretario de Gobierno Municipal, en lo que a funcionamiento del Cabildo se refiere, tendrá las siguientes funciones:
+Funciones del Secretario Fedatario.- El Secretario de Gobierno Municipal, en lo que al funcionamiento del Cabildo se refiere y conforme a las instrucciones del Presidente Municipal, tendrá las siguientes funciones:
 
-I.- Formular el proyecto de Orden del Día de las sesiones, en atención a los asuntos que conforme a las disposiciones del presente Reglamento deban agendarse;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
 
-II.- Tomar lista de asistencia y verificar y declarar la existencia de quórum legal para sesionar;
+I.- Formular, conforme a las instrucciones del Presidente Municipal, el Orden del Día de las sesiones de Cabildo;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+II.- Tomar lista de asistencia, y verificar y declarar la existencia de quórum legal para sesionar, dar lectura del orden del día y su desahogo;
 
 III.- Levantar el acta de la sesión, formando el apéndice correspondiente, y legalizándola con su firma;
 
 IV.- Dar lectura al acta de la sesión anterior, solicitando la dispensa de lectura que en su caso result (sic) procedente conforme a lo dispuesto por el artículo 70 de este Reglamento;
 
-V.- Ser el conducto para presentar ante el Cabildo proyectos de acuerdos y resoluciones, integrand (sic) el expediente y formulando el dictamen de procedimiento correspondiente;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+V.- Informar al Cabildo sobre los proyectos de acuerdos y resoluciones que se reciban en la Secretaria de Gobierno, y el tramite que les dio para su análisis y estudio, mediante la integración del expediente y formulando el oficio de turnación correspondiente, en los términos del articulo 49 del presente ordenamiento;
 
 VI.- Compilar los acuerdos y resoluciones dictadas por el Cabildo y proveer al cumplimiento de l (sic) previsto por el artículo 19 del presente Ordenamiento;
 
-VII.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005)
+VII.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005) (REPUBLICADA, P.O. 11 DE FEBRERO DE 2005)
 
 VIII.- Expedir copias simples de los acuerdos o resoluciones de los documentos que se anexen en la (sic) sesiones de cabildo, igualmente videos y grabaciones magnetofonías de las sesiones de Cabildo Regidores (sic) que así lo soliciten por escrito;
 
 IX.- Proveer en lo general para la debida distribución y entrega de la documentación a que hac (sic) referencia el artículo 35 y 54 del presente reglamento, y
 
-X.- En general, aquellas que el Presidente Municipal, el Cabildo, las leyes y los reglamentos l (sic) concedan.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+X.- En general, aquellas que el Presidente Municipal le instruya, el Cabildo, las leyes y los reglamentos le concedan.
 
 ###### ARTICULO 43.
 
@@ -417,27 +511,33 @@ Los miembros del Cabildo deberán excusarse de conocer, dictaminar o votar respe
 
 Iniciativa ciudadana.- Los ciudadanos mexicanos, en pleno ejercicio de su (sic) derechos civiles y políticos, podrán promover ante el Cabildo proyectos de acuerdos y resolucione (sic) por si o por conducto de las organizaciones sociales reconocidas por la Ley, sometiéndose l (sic) iniciativa ciudadana al procedimiento que marca el artículo 47 del presente ordenamiento.
 
-### CAPITULO SEGUNDO. DEL ANALISIS Y DISCUSION DE LOS ASUNTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2005)</small>
+
+### CAPITULO SEGUNDO. DEL TRAMITE A LOS PROYECTOS DE ACUERDOS Y RESOLUCIONES
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 46.
 
-Correspondencia recibida.- La correspondencia que se dirija al Cabildo deber (sic) presentarse ante la Secretaría de Gobierno Municipal en los términos del artículo siguiente.
+Correspondencia recibida y despachada.- La correspondencia que se dirija al Cabildo debe presentarse ante la Secretaría de Gobierno Municipal en los términos de este Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 47.
 
-Presentación de Proyectos.- Para efectos de que los proyectos de acuerdos resoluciones (sic) puedan ser atendidos en sesión de Cabildo, deberán ser presentados en original y copi (sic) ante el Secretario de Gobierno Municipal por lo menos con tres días hábiles de anticipación a la fech (sic) en que deba expedirse la convocatoria para la sesión respectiva, con el objeto de que se emita e (sic) dictamen de procedimiento a que se refiere el artículo siguiente.
+Presentación de Proyectos.- Para efectos de que los proyectos de acuerdos y resoluciones puedan ser atendidos en sesión de Cabildo, deberán ser presentados en original y copia ante el Secretario de Gobierno Municipal por lo menos con tres días hábiles de anticipación a la fecha en que deba expedirse la convocatoria para la sesión respectiva.
 
-En caso de que un proyecto sea recibido dentro de los tres días hábiles a que se refiere el párraf (sic) anterior, será agendado para su presentación hasta la siguiente sesión ordinaria de Cabildo.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 48.
 
-Dictamen de procedimiento.- Recibido que sea en la Secretaría de Gobiern (sic) Municipal un proyecto de acuerdo o resolución, el Secretario procederá a integrar el expedient (sic) respectivo, emitiendo el dictamen de procedimiento que corresponda.
+Turnación de Proyectos de Acuerdo o Resoluciones.- Recibido que sea en la Secretaría de Gobierno Municipal un proyecto de acuerdo o resolución se integrara el expediente respectivo, remitiéndose mediante oficio de turnación a la Comisión que corresponda o al Cabildo según su naturaleza y en su caso con la propuesta de dispensa o dispensas aplicables de conformidad con en (sic) el presente ordenamiento.
 
-El dictamen de procedimiento tendrá por objeto proponer el trámite al que deberá sujetarse e (sic) proyecto presentado, y en ningún caso podrá contener juicios de valor respecto de la procedencia improcedencia (sic) del proyecto o propuesta.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 49.
 
-Estructura del dictamen de procedimiento.- El dictamen de procedimiento deber (sic) indicar, por lo menos:
+Estructura del Oficio de Turnación.- El oficio de turnación deberá indicar, por lo menos:
 
 I.- Número de expediente;
 
@@ -445,27 +545,29 @@ II.- Fecha de recepción en la Secretaría;
 
 III.- Nombre del integrante o integrantes del Cabildo, o de la persona o personas que presentan e (sic) asunto, y
 
-IV.- Trámite propuesto para la atención del asunto presentado, en atención a la naturaleza de acuerdo o resolución a la que pueda dar origen, motivando, en su caso, la dispensa del trámite que se proponga.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+IV.- Trámite dado al asunto recibido, en atención a la naturaleza del acuerdo o resolución a la que pueda dar origen, proponiendo, en su caso, la dispensa del trámite que corresponda.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 50.
 
-Dispensa de trámite en Comisiones.- El dictamen de procedimiento podrá dispone (sic) la dispensa del trámite en Comisiones, lo cual será procedente sólo en casos excepcionales y po (sic) acuerdo económico del Cabildo.
+Dispensa de trámite a Comisiones.- Mediante acuerdo económico que adopte el Cabildo podrán dispensarse del trámite a Comisiones, los proyectos de acuerdos y resoluciones presentados ante este cuerpo edilicio.
 
-### CAPITULO TERCERO. DE LA VOTACION
+De aprobarse la dispensa del trámite en Comisiones, el Cabildo procederá de inmediato al análisis y discusión del expediente, de acuerdo con las reglas previstas por el presente Ordenamiento.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE FEBRERO DE 2005)</small>
+
+### CAPITULO TERCERO. DEL ANALISIS Y DISCUSION DE LOS ASUNTOS
 
 ###### ARTICULO 51.
 
-Presentación en pleno.- Los proyectos serán presentados al pleno en la sesión d (sic) Cabildo más próxima a la fecha de su recepción en la Secretaría, salvo que hayan sido recibidos e (sic) forma extemporánea, caso en el cual se presentarán en la próxima sesión.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2005)
 
 ###### ARTICULO 52.
 
-Aprobación del dictamen de procedimiento.- Habiéndose dado lectura al dictamen de procedimiento, el Presidente Municipal lo someterá a votación del Cabildo en forma económica.
-
-De ser aprobado el dictamen de procedimiento propuesto, el expediente será turnado por l (sic) Secretaría a la Comisión o Comisiones que corresponda, dentro de las veinticuatro horas siguientes la (sic) clausura de la sesión.
-
-De aprobarse la dispensa del trámite en Comisiones, el Cabildo procederá de inmediato al análisis discusión (sic) del expediente, de acuerdo con las reglas previstas por el presente Ordenamiento.
-
-De desecharse el dictamen de procedimiento propuesto, el trámite será acordado por el Cabildo y e (sic) expediente seguirá el curso que señalan los dos párrafos que anteceden.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2005)
 
 ###### ARTICULO 53.
 
@@ -477,7 +579,9 @@ En tratándose de proyectos que tengan el carácter de presupuesto de egresos, e
 
 En tratándose de asuntos que tengan el carácter de disposiciones normativas de alcance particular, e (sic) dictamen de las Comisiones deberá rendirse en la próxima sesión de Cabildo siguiente a la fecha d (sic) su presentación.
 
-En tratándose de asuntos que tengan el carácter de acuerdos económicos, éstos serán resueltos d (sic) inmediato, salvo petición en otro sentido del Presidente Municipal o de tres o más miembros de Cabildo, caso en el cual el dictamen de las Comisiones deberá rendirse en la próxima sesió (sic) siguiente a la fecha de su presentación.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+En tratándose de asuntos que tengan el carácter de acuerdos económicos, éstos serán resueltos de inmediato, salvo que por mayoría simple el Cabildo decida lo contrario.
 
 A petición de la Comisión interesada, los plazos a que se refiere este artículo podrán extenderse po (sic) una sola ocasión hasta por un plazo igual al original; la solicitud que al respecto se formule deber (sic) hacerse en los términos del artículo 109 de este Reglamento.
 
@@ -485,13 +589,15 @@ A petición de la Comisión interesada, los plazos a que se refiere este artícu
 
 Presentación del dictamen a la Secretaría.- Los dictámenes deberán hacers (sic) llegar a la Secretaría de Gobierno Municipal acompañados del expediente correspondiente por l (sic) menos con tres días hábiles de anticipación a la fecha de la sesión de Cabildo en que pretend (sic) discutirse.
 
-De no presentarse el dictamen dentro de este plazo, la Comisión interesada podrá presentarl (sic) directamente en la sesión de Cabildo, pero no podrá discutirse ni resolverse sino hasta la siguient (sic) sesión, salvo acuerdo económico en contrario.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+De no presentarse el dictamen dentro de este plazo, la Comisión interesada podrá solicitar la dispensa del cumplimiento de este trámite misma que deberá ser aprobada por mayoría simple para proceder a su discusión y, en su caso, aprobación en la sesión de Cabildo.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 55.
 
-Distribución del dictamen a la Secretaría.- Recibido que sea en la Secretaría u (sic) dictamen con su expediente, deberán distribuirse copias simples del mismo entre los integrantes de Cabildo que no sean miembros de la Comisión dictaminadora, a más tardar al día siguiente hábil al d (sic) su recepción.
-
-El Secretario de Gobierno Municipal enlistará los asuntos dictaminados en el proyecto de Orden de (sic) Día.
+Distribución del dictamen.- Recibido que sea en la Secretaría un dictamen con su expediente, deberán distribuirse copias simples del mismo entre los integrantes del Cabildo que no sean miembros de la Comisión dictaminadora.
 
 ###### ARTICULO 56.
 
@@ -499,35 +605,49 @@ Exposición en el Pleno.-Una vez distribuido el dictamen en los términos del ar
 
 Acto seguido, el Presidente de la Comisión correspondiente dará lectura al dictamen, formulando la (sic) aclaraciones que considere pertinentes.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 57.
 
-Análisis y discusión en lo general y en lo particular.- Habiéndose dado lectura un (sic) dictamen, el Presidente Municipal lo someterá a la discusión primero en lo general y en su caso e (sic) lo particular.
+Análisis y discusión de los asuntos.- Habiéndose dado lectura a un dictamen, será sometido para su discusión. La discusión de los dictámenes versará sobre el contenido de éstos.
 
-La discusión de los dictámenes versará sobre el contenido de éstos, pudiendo los integrantes del Cabild (sic) referirse al expediente, de acuerdo con el orden de los oradores que se registren ante el Presidente Municipal.
+Los Ediles en la discusión de los asuntos propuestos al Cabildo, gozaran de hasta cinco minutos para sustentar sus intervenciones en la discusión y de hasta tres minutos para reservas en lo particular y razonamiento de su voto.
 
-Una vez concluida la ronda de oradores, y en su caso la tercera, el Presidente Municipal someterá el dictame (sic) a votación en lo general.
+Para la discusión de los asuntos, se abrirá una lista de hasta tres oradores en contra y tres a favor. De no haber oradores en contra, no procederá lista de oradores a favor.
 
-De ser aprobado el dictamen en lo general, se procederá a su discusión en lo particular. De ser desechado e (sic) dictamen en lo general, no se entrará a la discusión en lo particular; en este caso, el Cabildo podrá determina (sic) mediante acuerdo económico si el asunto se tiene por concluido o si se regresa a Comisiones para elaborar u (sic) nuevo dictamen.
+De haber lista de oradores, se les concederá el uso de la voz en el orden de registro, primero en contra y luego en favor hasta agotar las intervenciones.
 
-Si el dictamen presentado se refiere a un segundo análisis originado de Comisiones y result (sic) desechado en lo general, el asunto se tendrá por concluido.
+Una vez agotada la lista, se preguntara a los Ediles si el asunto esta suficientemente discutido.
+
+Si el pleno del Cabildo considera suficientemente discutido el asunto se procederá a su votación. De lo contrario se abrirá otra lista de oradores.
+
+De ser aprobado el asunto en lo general, se discutirá en lo particular. Las reservas que en lo particular se hagan respecto de Reglamentos, deberán hacerse de manera concreta sobre los apartados que contenga el asunto en discusión. En este caso, el Cabildo podrá determinar mediante votación económica si el asunto se tiene por concluido o si se regresa a Comisión para elaborar un nuevo dictamen.
+
+Si el asunto presentado es un dictamen que se refiera a un segundo análisis originado de Comisiones y resulta desechado en lo general, el asunto se tendrá por concluido.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 58.
 
-Reservas en lo particular.-La discusión en lo particular versará sobre los punto (sic) que concretamente se hayan reservado por cualquiera de los integrantes del Cabildo; no podr (sic) reservarse para su discusión en lo particular la totalidad del dictamen.
+Reservas en lo particular.- La discusión en lo particular versará sobre los puntos que concretamente se hayan reservado por cualquiera de los integrantes del Cabildo; no podrá reservarse para su discusión en lo particular la totalidad del dictamen.
 
-Al abrir la discusión del dictamen en lo particular, el Presidente Municipal registrará los nombres de los integrantes del Cabildo con los puntos que se reservan; la discusión en lo particular seguirá e (sic) orden de los puntos reservados, independientemente del orden en el que se registren los solicitantes.
+Al abrir la discusión del dictamen en lo particular, el Presidente Municipal registrará los nombres de los integrantes del Cabildo con los apartados que se reserven; la discusión en lo particular seguirá el orden en que se registren los solicitantes.
 
-La discusión en lo particular de cada punto reservado se efectuará mediante una sola ronda d (sic) oradores, concluida la cual se procederá a su votación.
+La discusión en lo particular de los apartados reservados se efectuará mediante una sola ronda de oradores, concluida la cual se procederá a su votación.
 
 ###### ARTICULO 59.
 
 Suspensión de la discusión.- La discusión de los dictámenes no podr (sic) suspenderse sino por acuerdo económico del Cabildo, y en su caso, deberá reanudarse en la misma sesión, previo receso que se acuerde para la consulta de asesores o documentos.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 60.
 
-Consulta y voz informativa.- El Secretario de Gobierno Municipal, los funcionario (sic) de la administración pública municipal y los ciudadanos en general sólo podrán hacer uso de la vo (sic) para informar al Cabildo respecto del asunto que se trate, a petición de alguno de sus miembros.
+Consulta y voz informativa.- Previa autorización del Presidente Municipal y a petición de un Edil; los servidores públicos municipales y ciudadanos en general, podrán hacer uso de la voz para responder, informar, abundar o ilustrar al Cabildo respecto de los asuntos que se les planteen en la sesión de Cabildo respectiva.
 
-### CAPITULO CUARTO. DEL ACTA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE FEBRERO DE 2005)</small>
+
+### CAPITULO CUARTO. DE LA VOTACION
 
 ###### ARTICULO 61.
 
@@ -537,11 +657,17 @@ Cuando el acuerdo o resolución a aprobar se refiera a cualesquiera de los casos
 
 Cuando el acuerdo o resolución se refiera a reglamentos municipales estos deberán ser aprobado (sic) por mayoría absoluta, que será la mitad mas uno del total de los miembros que integran el Cabildo.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+La votación la levantara el Secretario de Gobierno Municipal preguntando quienes estén en primer término a favor, después quienes estén en contra y al final quienes se abstengan.
+
 Corresponde al Secretario de Gobierno Municipal realizar el cómputo de los votos y declarar e (sic) resultado de la votación.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 62.
 
-Votación nominal.- Por regla general, la votación se hará en forma nomina (sic) manifestando cada regidor su nombre y el sentido de su voto, en voz alta.
+Votación nominal.- Es nominal la votación que emite cada miembro del Cabildo manifestando su nombre y el sentido de su voto, en voz alta.
 
 ###### ARTICULO 63.
 
@@ -553,11 +679,15 @@ Votación por cédula.- Las resoluciones se tomarán por votación por cédula p
 
 La votación por cédula se realizará en forma impersonal, mediante la manifestación de (sic) sentido de voto en boletas diseñadas para el efecto, mismas que serán destruidas una vez computado e (sic) resultado de la votación.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 65.
 
-Voto razonado.- Los integrantes del Cabildo que así lo deseen, podrán razonar e (sic) sentido de su voto al momento de emitirlo, el cual se hará constar en el acta, o en su defect (sic) presentarlo mediante escrito que hagan llegar a la Secretaría de Gobierno Municipal a más tardar a (sic) siguiente día hábil al de la clausura de la sesión, siempre y cuando hayan discutido su posición e (sic) pleno.
+Voto razonado.- Los integrantes del Cabildo que así lo deseen, podrán razonar el sentido de su voto anunciándolo al momento de emitirlo y razonarlo al concluir la votación disponiendo de tres minutos para ello, el cual se hará constar en el acta, o en su defecto presentarlo mediante escrito que hagan llegar a la Secretaría de Gobierno Municipal a más tardar al siguiente día hábil al de la clausura de la sesión, siempre y cuando hayan discutido su posición en pleno.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE FEBRERO DE 2005)</small>
+
+### CAPITULO QUINTO. DEL ACTA
 
 ###### ARTICULO 66.
 
@@ -601,9 +731,7 @@ En la sesión correspondiente, el Secretario informará de la remisión anticipa
 
 ## TITULO CUARTO. DE LAS COMISIONES
 
-### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES, ESPECIALES Y CONJUNTAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 72.
 
@@ -611,17 +739,21 @@ Naturaleza.- Los Regidores ejercen las atribuciones que la Ley del Régimen Muni
 
 Para estudiar y supervisar que se ejecuten las disposiciones y acuerdos del Cabildo, se designará (sic) Comisiones entre sus miembros. Estas se integrarán con dos o más regidores, que actuarán en forma colegiada.
 
-El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, y e (sic) Sindico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten involucren lo (sic) intereses patrimoniales del Ayuntamiento.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+El Presidente Municipal podrá participar por si o mediante un representante que designe y que únicamente tendrá voz, en todas las Comisiones que considere necesario, y el Sindico Procurador se adherirá a cualquiera de ellas cuando los asuntos que se traten involucren lo intereses patrimoniales del Ayuntamiento.
 
 Las Comisiones propondrán al Cabildo los proyectos de solución a los problemas de su conocimiento a efecto de atender todos los ramos de la administración pública municipal, mediante el dictamen de los asuntos que les sean turnados.
 
 Las Comisiones podrán ser permanentes o especiales, y actuarán y dictaminarán en forma individua (sic) o conjunta.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 73.
 
-Atribuciones.- En ejercicio de sus funciones, las Comisiones actuarán con plen (sic) autoridad para requerir por escrito a los funcionarios, empleados y servidores públicos de l (sic) administración pública municipal la información que requieran para el despacho de los asuntos de s (sic) conocimiento.
+Atribuciones.- En ejercicio de sus funciones, las Comisiones actuarán con plena autoridad para requerir, por conducto del Presidente Municipal, a los funcionarios, empleados y servidores públicos de la administración pública municipal la información que requieran para el despacho de los asuntos de su conocimiento.
 
-Los funcionarios, empleados y servidores públicos de la administración municipal estarán obligados rendir (sic) a las Comisiones la información que les soliciten y tengan en su poder en razón de s (sic) competencia; igualmente, deberán comparecer ante la Comisión que corresponda, cuando sea (sic) citados por la misma, con el objeto de brindar orientación y asesoría respecto de los asuntos qu (sic) sean del conocimiento de la Comisión interesada, en un plazo no mayor de quince días.
+Los funcionarios, empleados y servidores públicos de la administración municipal, que sean requeridos en los términos de este articulo, estarán obligados rendir a las Comisiones la información que les soliciten y tengan en su poder en razón de su competencia; igualmente, deberán comparecer ante la Comisión que corresponda, cuando sean citados por la misma, con el objeto de brindar orientación y asesoría respecto de los asuntos que sean del conocimiento de la Comisión interesada, en un plazo no mayor de quince días.
 
 ###### ARTICULO 74.
 
@@ -639,7 +771,9 @@ I.- Presidir las sesiones de Comisión;
 
 II.- Convocar a los miembros de la Comisión para celebrar sesiones, en los términos del artículo 104 de este Ordenamiento;
 
-III.- Determinar el orden en que deber (sic) ser atendidos los asuntos en Comisiones, mediante l (sic) autorización del Orden del Día;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+III.- Proponer para su aprobación el orden en que deben ser atendidos los asuntos en Comisiones, mediante la autorización del Orden del Día;
 
 IV.- Emitir voto de calidad en caso de empate;
 
@@ -665,11 +799,15 @@ V.- En general, aquellas que al (sic) Presidente de la Comisión o la Comisión 
 
 De los Regidores que no son miembros de una Comisión.- Los regidores que n (sic) sean miembros de una Comisión podrán asistir a las reuniones de ésta con voz pero sin voto.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 78.
 
-Funcionarios de la administración municipal y ciudadanos.- A solicitud de l (sic) Comisión, podrán comparecer ante la misma los funcionarios de la administración municipal y en s (sic) caso, invitar a los ciudadanos interesados en el asunto de que se trate, a fin de brindar orientación establecer consensos y hacer las aclaraciones que les sean solicitadas.
+Comparecencia de ciudadanos e invitados.- Las Comisiones podrán recibir en comparecencia o invitar a los ciudadanos interesados en el asunto de que se trate, a fin de brindar orientación establecer consensos y hacer las aclaraciones que les sean solicitadas.
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
+### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES, ESPECIALES Y CONJUNTAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 79.
 
@@ -727,7 +865,9 @@ Para efectos de crear nuevas Comisiones permanentes, deberá procederse a la ref
 
 Comisión de Gobernación y Legislación.- La Comisión de Gobernación Legislación (sic) tendrá las siguientes atribuciones:
 
-I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, Bando de Policía Gobierno (sic), iniciativas de Leyes y decretos y disposiciones normativas de observancia general, e (sic) conjunto con la Comisión o las Comisiones especializadas en materia de que se trate;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+I.- Dictaminar respecto de los proyectos de acuerdos y resoluciones de reglamentos municipales, Bando de Policía y Gobierno, iniciativas de Leyes y decretos, disposiciones normativas de observancia general, así como respecto de las diversas materias de las Administración Publica Municipal.
 
 II.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios par (sic) promover l (sic) actualización constitucional, legal, política y socioeconómica de los reglamentos municipales;
 
@@ -1037,11 +1177,15 @@ V.- En general, aquellas que el Cabildo le encomiende.
 
 Comisiones especiales.- El Cabildo podrá establecer, mediante disposición normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atender transitoriamente asuntos de interés público.
 
-También se conformara Comisión Especial Plenaria integrada por todos los Miembros del Cabildo, siempre que se deba llevar a cabo el análisis de las ternas a que se refiere la Fracción VIII del Artículo 13, del Reglamento de la Administración Pública del Municipio de Tijuana, relativo al nombramiento del Administrador Municipal, de los Secretarios de Gobierno Municipal, de Seguridad Pública y de Administración y Finanzas, así como los Delegados Municipales, misma que estará presidida por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+También se conformará Comisión Especial Plenaria integrada por todos los Miembros del Cabildo, cuando exista vacantes en cualquiera de los casos previstos en este párrafo, para el efecto de llevar a cabo el análisis de las ternas a que se refiere la Fracción VIII del Artículo 13, del Reglamento de la Administración Pública del Municipio de Tijuana, relativo al nombramiento de los Secretarios de Gobierno Municipal, de Seguridad Pública y de Administración y Finanzas, así como los Delegados Municipales, misma que estará presidida por el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 98.
 
-Comisiones conjuntas.- Las Comisiones actuarán y dictaminarán en forma conjunta respecto de los asuntos que competan a dos o más de ellas, de acuerdo con el dictamen de procedimiento que para el efecto se apruebe.
+Comisiones conjuntas.- Previo acuerdo de Cabildo, las Comisiones actuarán y dictaminarán en forma conjunta respecto de los asuntos que por su materia, pudieran ser competencia de dos o mas de ellas.
 
 ###### ARTICULO 99.
 
@@ -1055,23 +1199,35 @@ Integración de la Secretaria Técnica.- Previa justificación y aprobación por
 
 Requisito para ser Secretario Técnico.- Para ser Secretario Técnico se requier (sic) contar por lo menos con licenciatura o especialidad.
 
-### CAPITULO PRIMERO. DE LAS SANCIONES Y RECURSOS
+### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 102.
 
-Iniciativas propias.- Los proyectos que se formulen al Cabildo, originados e iniciativas propias de sus integrantes o de las Comisiones, se sujetarán al procedimiento a que s (sic) refiere el artículo 51 de este Ordenamiento.
+Iniciativas propias.- Los proyectos que se formulen al Cabildo, originados en iniciativas propias de sus integrantes o de las Comisiones, se sujetarán al procedimiento a que se refiere a (sic) los artículos 47 y 48 de este Ordenamiento.
 
 ###### ARTICULO 103.
 
 Proyectos remitidos.- Los proyectos que hayan sido remitidos a las Comisiones se substanciarán y dictaminarán dentro del plazo que para el efecto prevé el artículo 53 de est (sic) Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 104.
 
-Convocatoria.- Las sesiones de las Comisiones serán convocadas por s (sic) Presidente, y Secretario en su caso, cuando menos con treinta y seis horas de anticipación. Al inici (sic) de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en esto (sic) términos.
+Convocatoria.- Las sesiones de las Comisiones serán convocadas por su Presidente y Secretario en su caso, cuando menos con veinticuatro horas de anticipación. Al inicio de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en estos términos.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
-Para que las comisiones puedan sesionar válidamente, se requiere la asistencia de la mitad más uno de sus miembros, entre los que deberá estar su presidente, y en el caso de que este, pasados treinta minutos de la hora en que fue convocada la sesión, se encontrara ausente, la sesión será presidida por el presidente de la comisión subsiguiente respectiva, de acuerdo con el dictamen de procedimiento aprobado por el Cabildo para tal efecto, siempre y cuando lo apruebe la mayoría de los ediles presentes, con la salvedad de que éste, carecerá de la facultad de ejercer el voto de calidad.
+La mayoría de los miembros de la Comisión de que se trate podrán solicitar por escrito al Presidente de la Comisión convoque a sesión en los términos de este artículo. De negarse el Presidente a convocar, lo harán la mayoría de los miembros de la Comisión de que se trate.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Turnado un asunto a Comisión, su Presidente deberá convocar a sesión para su análisis, discusión y resolución.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Para que las Comisiones puedan sesionar válidamente, se requiere la asistencia de la mitad mas uno de sus miembros, entre los que deberá estar su Presidente, si pasados treinta minutos de la hora en que fue convocada la sesión se encontrara ausente, la misma será presidida por el secretario, siempre y cuando lo apruebe la mayoría de los ediles presentes, con la salvedad de que éste carecerá de la facultad de ejercer el voto de calidad.
 
 Si no ocurre (sic) la mayoría de los regidores integrantes de la Comisión, se señalará hora para sesiona (sic) en segunda convocatoria a más tardar al siguiente día hábil, celebrado válidamente la sesión con lo (sic) integrantes que concurran.
 
@@ -1149,7 +1305,7 @@ Informes administrativos.- Si antes de que deba rendirse el dictamen se celebr (
 
 ## TITULO QUINTO
 
-### CAPITULO SEGUNDO. DE LOS RECURSOS
+### CAPITULO PRIMERO. DE LAS SANCIONES Y RECURSOS
 
 ###### ARTICULO 110.
 
@@ -1169,6 +1325,8 @@ Sanciones a ciudadanos.- Los ciudadanos que incurran en violaciones al present (
 
 Los casos de reincidencia y el procedimiento a que debe sujetarse la imposición de las sancione (sic) previstas por este artículo, serán resueltos en los términos del Bando de Policía y Gobierno y de (sic) Reglamento para la Administración de Justicia en el Municipio.
 
+### CAPITULO SEGUNDO. DE LOS RECURSOS
+
 ###### ARTICULO 113.
 
 Nulidad de acuerdos y resoluciones de Cabildo.- Los acuerdos y resolucione (sic) del Cabildo se presumen válidas para todos los efectos legales y serán nulos cuando el procedimient (sic) se hayan dejado de observar las formalidades a que se refiere este Reglamento.
@@ -1181,17 +1339,25 @@ Nulidad de las sesiones de Cabildo.- Las sesiones del Cabildo se presumen válid
 
 Procedimiento para reclamar la nulidad.- La nulidad de las sesiones y de lo (sic) acuerdos y resoluciones del Cabildo sólo podrá ser reclamada por el Presidente Municipal, lo (sic) Regidores y el Síndico Procurador; no podrá invocar la nulidad el integrante o integrantes del Cabild (sic) que le hubiera dado origen; los ciudadanos vecinos del Municipio podrán impugnar los acuerdos resoluciones (sic) del Cabildo mediante la interposición de los recursos ordinarios previstos en la Ley.
 
-La nulidad de los acuerdos y resoluciones del Cabildo deberá reclamarse a más tardar al día siguient (sic) hábil en que se hubieren aprobado; si el integrante del Cabildo se manifiesta sabedor o consient (sic) implícita o explícitamente el acto presuntamente nulo, se tendrá por consentido y perderá en s (sic) perjuicio el derecho de invocar su nulidad.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+La nulidad de los acuerdos y resoluciones del Cabildo deberá reclamarse durante las próximas veinticuatro horas en que se hubiera aprobado; si el integrante del Cabildo se manifiesta sabedor o consiente implícita o explícitamente el acto presuntamente nulo, se tendrá por consentido y perderá en su perjuicio el derecho de invocar su nulidad.
 
 La nulidad se reclamará por escrito presentado ante la Secretaría de Gobierno Municipal, en el que s (sic) señalen con claridad los actos cuya nulidad se reclama, las violaciones al procedimiento que s (sic) hubieren producido y acompañado las pruebas que se estimen pertinentes.
 
-Recibida que sea una reclamación de nulidad, el Secretario elaborará un dictamen sobre la valide (sic) del acto impugnado, acompañando las constancias y certificaciones del caso y dictado las medida (sic) necesarias para proveer al cumplimiento de lo dispuesto por el artículo siguiente; el expediente ser (sic) turnado a la Comisión de Gobernación y Legislación, la que resolverá lo conducente mediant (sic) dictamen que será sometido a votación en la próxima sesión ordinaria de Cabildo.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
+Recibida que sea una reclamación de nulidad, el Secretario elaborará un dictamen sobre la validez del acto impugnado, acompañando las constancias y certificaciones del caso y el expediente mismo será turnado a la Comisión de Gobernación y Legislación, la que resolverá lo conducente en un termino que no deberá en ningún caso de exceder de 180 días, mediante dictamen que será sometido a votación en sesión ordinaria de Cabildo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 116.
 
-Efectos de la declaración de nulidad.- La interposición de la reclamación d (sic) nulidad suspende los efectos del acto reclamado, salvo en los siguientes casos:
+Efectos de la declaración de nulidad.- La declaración que resuelva la reclamación de nulidad podrá ordenar la reposición del procedimiento a partir del momento que dio origen al acto reclamado, salvo en los siguientes casos;
 
-I.- Cuando se trate de disposiciones por las cuales deba cumplirse con un plazo o términ (sic) establecidos en la Ley;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2005)</small>
+
+I.- Cuando se trate de actos por los cuales deba cumplirse con un plazo o término establecidos en la Ley,
 
 II.- Cuando el acto reclamado haya sido declarado de interés público;
 
@@ -1252,3 +1418,9 @@ P.O. 4 DE FEBRERO DE 2005.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
 
 SEGUNDO: Publíquese es (sic) un periódico de mayor circulación en la localidad para conocimiento público.
+
+P.O. 11 DE FEBRERO DE 2005.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
+
+SEGUNDO: Publíquese para conocimiento público en un periódico de circulación local.
