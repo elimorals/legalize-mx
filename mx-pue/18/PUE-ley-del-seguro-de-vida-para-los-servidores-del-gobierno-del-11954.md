@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-seguro-de-vida-para-los-servidores-del-gobierno-del-119
 country: "mx"
 rank: "ley"
 publication_date: "1952-03-14"
-last_updated: "1965-09-14"
+last_updated: "1967-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SEGURO DE VIDA PARA LOS SERVIDORES DEL GOBIERNO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 1967.
 
 Ley publicada en el periódico oficial del Estado de Puebla, el viernes 14 de marzo de 1952.
 
@@ -69,11 +69,11 @@ El Gobernador del Estado, siempre dentro de las prescripciones del párrafo ante
 
 La resolución del Gobernador será ejecutada dentro de tercero día, conjuntamente por el Tesorero General del Estado y el de la Junta de Administración del Seguro de Vida de los Servidores del Gobierno del Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1965)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 1967)</small>
 
 ###### ARTICULO 8.
 
-En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla, así como en el de incapacidad total y permanente del asegurado, deberá pagarse a éste o al beneficiario o beneficiarios de aquél, la cantidad de $ 35,000.00 (TREINTA Y CINCO MIL PESOS, CERO CENTAVOS), constituida por la suma de las cuotas descontadas a los asegurados en términos del Artículo 3°. de esta Ley y con la cantidad ministrada por el Gobierno del Estado por conducto de la Caja de la Tesorería General del mismo, hasta completar la cantidad antes mencionada.
+En cada caso de defunción de algún servidor del Gobierno del Estado de Puebla, así como en el de incapacidad total y permanente del asegurado, deberá pagarse a éste o al beneficiario o beneficiarios de aquél, la cantidad de $ 38,000.00 (TREINTA Y OCHO MIL PESOS, CERO CENTAVOS), constituida por la suma de las cuotas descontadas a los asegurados en términos del artículo 3o. de esta Ley y con la cantidad ministrada por el Gobierno del Estado por conducto de la Caja de la Tesorería General del mismo, hasta completar la cantidad antes mencionada.
 
 ###### ARTICULO 9o.
 
@@ -218,3 +218,7 @@ P.O. 14 DE SEPTIEMBRE DE 1965.
 PRIMERO.- El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En las incapacidades que fueren sido acordadas en beneficio de pensionistas, se estará a lo dispuesto en el primer párrafo del artículo 3 del Gobierno del Estado.
+
+P.O. 21 DE MARZO DE 1967.
+
+EL DECRETO DE REORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE PUEBLA.
