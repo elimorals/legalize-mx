@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1995-05-03"
+last_updated: "1995-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -297,17 +297,97 @@ Las Leyes Orgánicas de los Poderes determinarán los casos en que los órganos 
 
 (ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE NOVIEMBRE DE 1993) ARTICULO 21.- Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xalóstoc, Xaltócan, Papalotla de Xicohténcatl, Xicohtzinco, Yauhquemecan y Zacatelco.
 
-(REFORMADO, P.O. 1 DE FEBRERO DE 1984) (F. DE E. P.O. 12 DE ENERO DE 1994)
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1995)</small>
 
-Para crear nuevos Municipios se requerirá:
+Para constituir un Municipio, se requieren las cualidades siguientes:
 
-I.- Que cuenten con una población mayor de 30,000 habitantes, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 1995)</small>
 
-II.- Demostrar conforme lo solicite el Congreso del Estado:
+I.- Que el Municipio a constituir tenga una demarcación territorial que conforme una unidad demográfica continua.
 
-a).- Ser autosuficientes económicamente, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 1995)</small>
 
-b).- Contar con la infraestructura mínima de servicios.
+II.- Que exista conformidad de los Municipios colindantes y de los pueblos que integran la unidad geográfica propuesta, en cuanto a los límites territoriales existentes entre ellos.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+III.- Que presenten posible solución a los problemas de conurbación que tengan con otros Municipios.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+IV.- Que los límites territoriales del Municipio y la jurisdicción del Municipio en formación, sean congruentes con la división política electoral existente.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+V.- Que presenten el proyecto de contar con reservas territoriales para prever el ordenado crecimiento urbano.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+VI.- Que han presentado los proyectos de convenios, acuerdos o acciones para sentar las bases de la prestación de servicios, ejecución de obras y aprovechamiento de recursos, en los casos de conurbación.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+VII.- Que prevean la existencia de un padrón de contribuyentes de obligaciones fiscales municipales.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+VIII.- Que hayan elaborado un proyecto del programa previo que defina la captación y el manejo de la Hacienda Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+IX.- Que cuando menos las dos terceras partes de los contribuyentes, cumplan y hayan cumplido constante y permanentemente sus obligaciones fiscales, municipales, estatales y federales.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+X.- Que presenten los proyectos de convenios para la transferencia y cumplimiento de obligaciones crediticias, contraídas en su régimen de Gobierno anterior a la petición.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XI.- Que, cuando menos las dos terceras partes de los ciudadanos de la unidad demográfica, expresen su libre voluntad de aprobar la solicitud.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XII.- Que se han presentado los proyectos de plan de desarrollo municipal, de desarrollo urbano de regularización de la tenencia de la tierra, de ecología, de presupuesto de ingresos y egresos, de bando de policía y buen gobierno y reglamentos necesarios respecto de los servicios públicos.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XIII.- Que presenten los proyectos de los ordenamientos adecuados, para lograr la prevención y respeto al medio ambiente.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XIV.- Que el Proyecto de Programas de Obras, se funde en la distribución equitativa y porcentual, por Presidencia Auxiliar, en su caso, de los recursos federales y estatales asignados.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XV.- Ser autosuficiente económicamente.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XVI.- Contar con la infraestructura mínima de servicios
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XVII.- Presenten los proyectos de las políticas y ordenamientos necesarios que requieran el crecimiento demográfico.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XVIII.- Tener la infraestructura suficiente, para dotar a la población de los servicios de transporte público, salud y educación básica.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XIX.- Reunir los requisitos que a juicio del Congreso del Estado sea necesario acreditar, atendiendo a las circunstancias propias de la población y del territorio.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XX.- Si la unidad demográfica abarca varios pueblos, el consentimiento aprobatorio de los ciudadanos en cada uno de ellos, deberá ser también cuando menos de las dos terceras partes.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XXI.- La petición de constituir un Municipio, deberá ser firmada por ciudadanos empadronados en el registro de electores, que estén en pleno ejercicio de sus derechos civiles y políticos, que sean residentes de la población solicitante, y que este documento deba estar certificado ante Notario Público.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 1995)</small>
+
+XXII.- La manifestación expresada en la solicitud y la acreditada durante la instrucción, será tomada como tal y con características de virtual, la cual será definitiva si se demuestra en dos procesos electorales municipales continuos.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1776,3 +1856,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE MAYO DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
+
+P.O. 9 DE AGOSTO DE 1995.
+
+PRIMERO.- La Constitución de un Ayuntamiento no modifica la división territorial distrital federal, por tanto el territorio del Ayuntamiento constituido seguirá perteneciendo al Distrito Electoral correspondiente.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente reforma constitucional.
