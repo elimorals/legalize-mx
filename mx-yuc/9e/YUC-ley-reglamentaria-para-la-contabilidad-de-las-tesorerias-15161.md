@@ -4,7 +4,7 @@ identifier: "YUC-ley-reglamentaria-para-la-contabilidad-de-las-tesorerias-15161"
 country: "mx"
 rank: "ley"
 publication_date: "1929-08-01"
-last_updated: "1929-08-01"
+last_updated: "1930-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY REGLAMENTARIA PARA LA CONTABILIDAD DE LAS TESORERIAS MUNICIPALES DEL ESTADO Y PARA LA FORMACION, COMPROBACION Y PRESENTACION DE SUS CUENTAS A LA CONTADURIA MAYOR DE HACIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE SEPTIEMBRE DE 1930.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 1 de agosto de 1929.
 
@@ -41,9 +41,11 @@ Ley Reglamentaria para la Contabilidad de las Tesorerías Municipales del Estado
 
 I. CONTABILIDAD
 
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 1930)</small>
+
 ###### Artículo 1o.
 
-Las Tesorerías Municipales cuyos ingresos anuales excedan de seis mil pesos, llevarán su Contabilidad arreglada al sistema de "PARTIDA DOBLE", en los siguientes libros: "DIARIO", "MAYOR", "CAJA" de "INVENTARIOS" y uno especial de "CORTES DE CAJA". Podrán usar, además, los libros auxiliares que juzguen necesarios para facilitar sus operaciones.
+Las Tesorerías Municipales cuyos ingresos anuales excedan de quince mil pesos, llevarán su Contabilidad arreglada al sistema de "Partida Doble" en los siguientes libros: "Diario", "Mayor", "Caja" de "Inventarios" y uno especial de "Cortes de Caja". Podrán usar, además, los libros auxiliares que juzguen necesarios para facilitar sus operaciones.
 
 ###### Artículo 2o.
 
@@ -79,7 +81,7 @@ Terminado el arqueo, el Tesorero formará un Corte de Caja de segunda operación
 
 De los "CORTES DE CAJA" a que se refiere el artículo que antecede, se sacarán las copias que sean necesarias, autorizadas por el Presidente y por el Secretario de la Corporación Municipal, de las que se enviarán a la Oficina Federal de Hacienda las que solicite según sus disposiciones, quedará una en el archivo de la Corporación Municipal respectiva, y acompañará otra a las cuentas que mensualmente se remiten por los conductos legales a la Contaduría Mayor de Hacienda del Estado.
 
-II. CUENTAS GENERALES
+II CUENTAS GENERALES
 
 ###### Artículo 10.
 
@@ -266,3 +268,9 @@ ALVARO TORRE DIAZ
 EL Oficial Mayor en funciones de Secretario General,
 
 JULIO V. CORREA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 10 DE SEPTIEMBRE DE 1930.
+
+EL DECRETO QUE REFORMA A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LA LEGISLACION DEL FUERON COMUN.
