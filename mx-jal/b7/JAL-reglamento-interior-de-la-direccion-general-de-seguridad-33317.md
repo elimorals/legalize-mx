@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-direccion-general-de-seguridad-33317"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-14"
-last_updated: "2000-06-14"
+last_updated: "2001-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE SEGURIDAD PUBLICA DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 10 DE AGOSTO DE 2001.
 
-Reglamento publicado en la Gaceta Municipal del H. Ayuntamiento del Estado de Guadalajara, el miércoles 14 de junio de 2000.
+Reglamento publicado en la Gaceta Municipal del H. Ayuntamiento de Guadalajara, el miércoles 14 de junio de 2000.
 
 Reglamento Interior de la Dirección General de Seguridad Pública de Guadalajara
 
@@ -1094,19 +1094,23 @@ IV.- Reconocimientos, y
 
 V.- Estímulos.
 
+> <small>(REFORMADO, G.M. 10 DE AGOSTO DE 2001)</small>
+
 ###### Artículo 86.
 
-Las medallas que otorgue el Ayuntamiento a los Cuerpos de Seguridad Pública son los siguientes:
+Las medallas que otorgue el Ayuntamiento a los cuerpos de Seguridad Pública son los siguientes:
 
-I.- Medalla de Heroísmo: Se otorgará por el gran valor demostrado, ya sea a uno o varios elementos por acción coordinada al exponer su vida o integridad física al rescatar a personas en peligros graves o en siniestros. Se requiere solicitud escrita a la Dirección General por parte de quien desee promoverla, debiendo contener los relatos o testimonios del suceso. Se otorgará a miembros de cualquier jerarquía.
+I.- Medalla de Heroísmo: Se otorgará por el gran valor demostrado, ya sea a uno o varios elementos por acción coordinada al exponer su vida o integridad física al rescatar a personas en peligros graves o en siniestros. Se requiere solicitud escrita por parte de quien desee promoverla.
 
-II.- Medalla de Honor: Se otorgará por constante y ejemplar comportamiento durante su servicio, que lo hace ser digno de confianza, así como por haber participado en situaciones hostiles o adversas, donde la magnitud de dichas situaciones haya sido mayor que los recursos disponibles para hacerles frente.
+II.- Medalla de Honor: Se otorgará a aquel elemento que durante su servicio se haya caracterizado por su constante y ejemplar comportamiento, que lo hace ser digno de confianza, así como por haber participado en situaciones hostiles o adversas, donde la magnitud de dichas situaciones haya sido mayor que los recursos disponibles para hacerles frente. Ésta será solicitada por el superior jerárquico.
 
-III.- Medalla a la Perseverancia: Se otorgará al personal de cualquier nivel jerárquico que cumpla quince años de servicio activo, con o sin interrupción. Corresponde al Departamento de Personal dirigir la constancia a la Dirección General.
+III.- Medalla a la Perseverancia: Se otorgará al personal de cualquier nivel jerárquico que cumpla quince años de servicio activo, con o sin interrupción. Corresponde al Departamento de Personal dirigir la solicitud, acompañada de las constancias respectivas.
 
-IV.- Medalla de Eficiencia: Se otorgará a elementos del Cuerpo de Seguridad Pública con dos años o más de servicio que, en el desarrollo de su trabajo, se advierta claramente en el área asignada en el desempeño de su servicio, una notable disminución de hechos delictivos. Corresponde al superior jerárquico iniciar el procedimiento por medio de escrito dirigido al Director General.
+IV.- Medalla de Eficiencia: Se otorgará a los elementos del Cuerpo de Seguridad Pública con dos años o más de servicio que, en el desarrollo de su función, se advierta claramente en el área asignada en el desempeño de su servicio, una notable disminución de hechos delictivos. Corresponde al superior jerárquico dirigir la solicitud respectiva.
 
-V.- Medalla de Servicio Distinguido: Se otorgará a los oficiales con más de cinco años en puesto de mando y que, siendo poseedores de la medalla de eficiencia, han mantenido en forma destacada el índice de aprovechamiento eficaz y la calidad del servicio en el área asignada para el desempeño de su servicio. El promovente será el superior jerárquico, quien adjuntará las constancias necesarias para el efecto de su evaluación a la petición por escrito dirigida al Director General.
+V.- Medalla de Servicio Distinguido: Se otorgará a los oficiales con más de 5 años en puesto de mando y que, siendo poseedores de la medalla de eficiencia han mantenido en forma destacada el índice de aprovechamiento eficaz y la calidad del servicio en el área asignada para el desempeño de su servicio. La solicitud la realizará el superior jerárquico.
+
+En todos los supuestos anteriores, la solicitud contendrá los relatos, testimonios o constancias respectivas y deberá estar dirigida a la Dirección de Asuntos Internos, la que en breve término la remitirá con el expediente respectivo a la Comisión de Honor y Justicia para que se aboque al conocimiento y dictamen de la solicitud, escuchando para ello la opinión del Director General.
 
 ###### Artículo 87.
 
@@ -1257,3 +1261,13 @@ C. Héctor Pérez Plazola
 El Secretario General y Síndico
 
 Lic. Víctor Manuel León Figueroa
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.M. 10 DE AGOSTO DE 2001.
+
+Primero.- Se derogan todas las disposiciones normativas que se opongan al presente acuerdo.
+
+Segundo.- Las presentes reformas y adiciones entrarán en vigor al tercer día de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero.- Los asuntos iniciados al amparo de las disposiciones que se derogan, continuarán tramitándose conforme a las mismas hasta su conclusión.
