@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1997-12-27"
+last_updated: "1997-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1445,6 +1445,10 @@ IV.- Los consignatarios o comisionistas en cualquier operación de adquisición 
 
 140.- Son objeto de este impuesto los ingresos percibidos por la obtención de premios, derivados de la participación en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, independiente de donde se celebre el evento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+Para los efectos de este impuesto no se considera como premio el reintegro correspondiente al billete que permitió participar en loterías.
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 141.- Son sujetos de este impuesto las personas físicas o morales, que compran o adquieran en el territorio del Estado, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los respectivos eventos y que resulten premiados, independientemente del lugar donde se celebre el evento. Las personas o instituciones que organicen o celebren los eventos correspondientes, están obligados a retener el impuesto que se cause.
@@ -1453,9 +1457,17 @@ IV.- Los consignatarios o comisionistas en cualquier operación de adquisición 
 
 142.- La base para el cálculo del impuesto se integra con el valor total determinado o determinable del premio que se obtenga. Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+No se aplicará el Impuesto Adicional del 4% contemplado en el Párrafo Segundo del Artículo 28 de este Código, al Impuesto sobre Loterías, Rifas y Sorteos.
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 143.- El monto del impuesto se calculará aplicando a la base gravable a que alude el artículo anterior la tasa del 6%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+
+Para el cálculo del Impuesto derivado de juegos con apuestas, se aplicará a la base gravable la tasa del 2%.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -4562,3 +4574,9 @@ P.O. 27 DE DICIEMBRE DE 1997.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos noventa y ocho.
+
+P.O. 31 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
