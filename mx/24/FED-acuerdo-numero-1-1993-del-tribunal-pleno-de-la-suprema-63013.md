@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1998-03-13"
+last_updated: "1998-06-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 1998.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -361,7 +361,9 @@ XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
-1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas, Zacatecas;
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 19/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE JUNIO DE 1998)</small>
+
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Zacatecas y un tribunal colegiado, con residencia en la ciudad de Aguascalientes;
 
 2.- Juzgados Primero y Segundo de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
 
@@ -784,6 +786,16 @@ TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo q
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 D.O.F. 13 DE MARZO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE JUNIO DE 1998.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
