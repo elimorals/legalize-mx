@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1961-08-31"
+last_updated: "1962-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1961.
-
-> <small>[N. DE E. LA ACLARACIÓN PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 1961 NO APLICA AL ARTÍCULADO DEL DECRETO NO. 207 PUBLICADO EN EL P.O. DEL 29 DE AGOSTO DE 1961.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2011,7 +2009,7 @@ No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
 
 ###### Art. 354.
 
-Puede haber transación (sic) o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
 
 ### CAPITULO V.
 
@@ -14323,7 +14321,7 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 ###### Art. 2812.
 
-La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
+La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
 
 ###### Art. 2813.
 
@@ -14881,9 +14879,9 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1961)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1962)</small>
 
-III.- Los documentos privados válidos con arreglo a la Ley, para su inscripción en el Registro Público de la Propiedad, deberán contener al calce de los mismos certificación notarial en que, conste la ratificación de los interesados, de ser suyas las firmas y de que el documento contiene la libre voluntad de los mismos. De esta certificación deberán los Notarios extender constancia o toma de razón en el Protocolo a su cargo la que deberá ser firmada por los propios interesados.
+III.- Los documentos privados, que en esta forma fueran válidos con arreglo a la Ley, siempre que al calce de los mismos contengan la constancia de la ratificación que las partes hagan de sus firmas, así como de que el documento contiene la libre expresión de su voluntad. Esta ratificación debe hacerse ante notario público en las poblaciones en que residan éstos, y ante el Juez de Paz, la Autoridad Municipal o el Registrador, en las poblaciones en que no residan dichos notarios. Toda autoridad o funcionario que intervenga en la constancia de ratificación, deberá firmarla, así como asentar el sello de la oficina respectiva.
 
 ###### Art. 2903.
 
@@ -15117,7 +15115,9 @@ P.O. 24 DE SEPTIEMBRE DE 1946.
 
 UNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 29 DE AGOSTO DE 1961.
+P.O. 29 DE DICIEMBRE DE 1962.
+
+Unico.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
