@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "1999-10-15"
+last_updated: "2001-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2001.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -794,7 +794,7 @@ A la coalición de Diputados a la Asamblea Legislativa le serán asignados el n�
 
 Concluida la etapa de resultados y de declaraciones de validez de las elecciones que se trate, terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso los candidatos a Diputados de la coalición que resultaren electos, quedarán comprendidos en el Partido Político o grupo parlamentario que se haya señalado en el convenio de coalición.
 
-### Capítulo llI. De las candidaturas comunes
+### Capítulo III. De las candidaturas comunes
 
 ###### Artículo 48.
 
@@ -1468,7 +1468,7 @@ c) Ordenar la entrega a los Presidentes de las Mesas Directivas de Casilla, de l
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
-d) Recibir los paquetes electorales y la documentación relativa a las elecciones de Jefe de Gobierno, Jefes Delagacionales y Diputados;
+d) Recibir los paquetes electorales y la documentación relativa a las elecciones de Jefe de Gobierno, Jefes Delegacionales y Diputados;
 
 e) Efectuar los cómputos distritales de las elecciones de Diputados de mayoría relativa y entregar las constancias respectivas;
 
@@ -1514,7 +1514,7 @@ Para la elección de Jefes Delegacionales, y para los procesos de elección veci
 
 Los Consejos de los Distritos Cabecera de Delegación, además de lo dispuesto en el artículo anterior, tendrán las atribuciones de registrar a los candidatos a Jefe Delegacional, así como realizar el cómputo total de dicha elección. Asimismo, entregarán las constancias de mayoría y remitirán al Tribunal Electoral del Distrito Federal los medios de impugnación que al efecto se interpongan, en los casos de nulidad previstos en este Código.
 
-### Capítulo III. De las atribuciones del Presidente y Secretario de los Consejos Distritales
+### Capítulo lII. De las atribuciones del Presidente y Secretario de los Consejos Distritales
 
 ###### Artículo 87.
 
@@ -1652,7 +1652,7 @@ e) Analizar, supervisar, evaluar y auditar el desarrollo y avance de los program
 
 f) Analizar los catálogos de cartografía básicos de secciones y localidades para su cotejo con la información del Padrón Electoral y las listas nominales de electores;
 
-g) Supervisar el centro de cómputo para conocer materialmente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico-electoral del domicilio de los ciudadanos, la corrección de inconsistencias, la coordinación entre el operativo de campo y los sistemas informáticos y los sistemas de control. Para este efecto, deberá elaborarse un calendario de supervisión;
+g) Supervisar el centro de cómputo para conocer materiaImente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico-electoral del domicilio de los ciudadanos, la corrección de inconsistencias, la coordinación entre el operativo de campo y los sistemas informáticos y los sistemas de control. Para este efecto, deberá elaborarse un calendario de supervisión;
 
 h) Conocer los avances del impacto de la campaña de comunicación social y en su caso proponer acciones que la hagan más eficiente;
 
@@ -3270,7 +3270,7 @@ a) Se procederá a anotar el resultado final en el acta de cómputo respectiva, 
 
 b) El Presidente del Consejo Distrital procederá a expedir la constancia del Jefe Delegacional electo por el principio de mayoría relativa, al Partido Político o coalición que por sí mismo haya obtenido el mayor número de votos;
 
-c) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren;
+c) Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo y los incidentes que ocurrieren.
 
 > <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -4296,7 +4296,9 @@ NOVENO.- El Estatuto del Servicio Profesional Electoral deberá ser aprobado por
 
 DECIMO.- (DEROGADO, G.O. 15 DE OCTUBRE DE 1999)
 
-DECIMO PRIMERO.- Para los procesos electorales y de participación ciudadana a celebrarse hasta el año 2000, por Padrón Electoral, Lista Nominal y credencial para votar con fotografía se considerarán los insumos relativos del Registro Federal de Electores, de acuerdo al convenio respectivo, que se celebre con el Instituto Federal Electoral. Posterior al proceso electoral ordinario del año 2000, y una vez conocidos los resultados definitivos del censo de población y vivienda de ese año el Instituto Electoral del Distrito Federal, realizará los estudios técnicos necesarios, a fin de determinar la viabilidad o no de la conformación del Catálogo, Padrón y Listado Nominal, así como para la expedición de la Credencial para votar con fotografía propia del Distrito Federal.
+> <small>(REFORMADO, G.O. 18 DE ENERO DE 2001)</small>
+
+DECIMOPRIMERO.- Para los procesos electorales y de participación ciudadana a celebrarse hasta el año 2000, por Padrón Electoral, lista nominal y credencial para votar con fotografía se considerarán los insumos relativos del Registro Federal de Electores, de acuerdo al convenio respectivo, que se celebre con el Instituto Federal Electoral. Posteriormente al proceso electoral ordinario del año 2000, y una vez conocidos los resultados definitivos del censo de población y vivienda de ese año el Instituto Electoral del Distrito Federal, podrá realizar los estudios técnicos necesarios, a fin de determinar la viabilidad o no de la conformación del catálogo, padrón y listado nominal, así como para la expedición de la credencial para votar con fotografía propia del Distrito Federal.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 1999)</small>
 
@@ -4367,3 +4369,9 @@ SEGUNDO.- Para el ejercicio del año 2000 el cálculo a que se refiere el inciso
 TERCERO.- El Presidente del Tribunal Electoral del Distrito Federal que fue designado por la Asamblea Legislativa el 18 de enero de 1999, fungirá como tal hasta el 17 de enero del año 2003, y podrá ser reelecto en términos de lo dispuesto por el artículo 229 de este Código.
 
 CUARTO.- Se deroga el Artículo Segundo Transitorio del Decreto por el que se reforman diversas disposiciones del Código Electoral del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 30 de septiembre de 1999, y todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE ENERO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Túrnese al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
