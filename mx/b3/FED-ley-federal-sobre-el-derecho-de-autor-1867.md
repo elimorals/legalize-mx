@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-1867"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1948-01-14"
-last_updated: "1948-01-14"
+last_updated: "1948-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1947-12-31"
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1948.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de enero de 1948.
 
@@ -85,9 +85,11 @@ Las traducciones, adaptaciones, compilaciones, arreglos, compendios, dramatizaci
 
 Cuando las versiones previstas en el párrafo precedente sean de obras del dominio público, aquéllas serán protegidas en lo que tengan de originales; pero tal protección no comprenderá el derecho al uso exclusivo de la obra primigenia, ni al de otras versiones nuevas de la misma.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1948)</small>
+
 ###### ARTICULO 7°.
 
-Las autoridades, dentro de sus respectivas atribuciones, deberán vigilar, restringir o prohibir, la publicación, reproducción, circulación, representación o exhibición de las obras contrarias al respeto debido a la vida privada, a la moral, o a la paz pública. En ningún caso tales obras serán amparadas por el derecho de autor.
+No serán amparadas por el Derecho de Autor las obras literarias, científicas o artísticas comprendidas en el artículo 4º de esta Ley, cuando sean contrarias a la moral, al respeto a la vida privada o al orden público.
 
 ###### ARTICULO 8°.
 
@@ -834,3 +836,11 @@ Mientras se crea el Boletín del Derecho de Autor, las publicaciones a que se re
 Luis Díaz Infante, D.P.- Carlos I. Serrano, S.P.- Jesús Aguirre Delgado, D.S.- Mauro Angulo, S.S.- Rúbricas”.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y siete.- Miguel Alemán.- Rúbrica.- El Secretario de Educación Pública, Manuel Gual Vidal.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Gobernación, Héctor Pérez Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 1948.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 7º DE LA LEY FEDERAL SOBRE DERECHO DE AUTOR”.]
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
