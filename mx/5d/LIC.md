@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2004-01-28"
+last_updated: "2004-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -608,9 +608,13 @@ I. Si no presenta la escritura constitutiva para su aprobación dentro de los tr
 
 II. Si los accionistas, en asamblea general extraordinaria, resuelven solicitarla;
 
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2004)</small>
+
 III. Si la institución arroja pérdidas que afecten su capital mínimo.
 
-La Secretaría de Hacienda y Crédito Público podrá establecer un plazo que no será menor de sesenta días para que se reintegre el capital en la cantidad necesaria para mantener la operación de la institución dentro de los límites legales;
+La Secretaría de Hacienda y Crédito Público podrá establecer un plazo que no será menor de quince días para que se reintegre el capital en la cantidad necesaria para mantener la operación de la institución dentro de los límites legales.
+
+Para efectos de lo previsto en esta fracción, no resultarán aplicables los plazos para llevar a cabo las convocatorias para las asambleas generales de accionistas, señalados en la Ley General de Sociedades Mercantiles;
 
 IV. Si a pesar de las observaciones de la Comisión Nacional Bancaria, la institución reiteradamente realiza operaciones distintas de las que le están permitidas, no mantiene las proporciones legales de activo y capitalización, no se ajusta a las previsiones de calificación de cartera de créditos o constitución de las reservas previstas en esta Ley, altera los registros contables, o bien, si a juicio de la Secretaría de Hacienda y Crédito Público, no cumple adecuadamente con las funciones de banca y crédito para las que fue autorizada, por falta de diversificación de sus operaciones activas y pasivas de acuerdo con las sanas prácticas bancarias o por poner en peligro con su administración los intereses de los depositantes o inversionistas;
 
@@ -622,13 +626,17 @@ VI. Cuando por causas imputables a la institución de banca múltiple no aparezc
 
 VII. Si la institución se disuelve, entra en estado de liquidación o quiebra, salvo que el procedimiento respectivo termine por rehabilitación y el Banco de México y la Comisión Nacional Bancaria y de Valores opinen favorablemente para que continúe con la autorización;
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-VIII. Si la institución transgrede en forma grave o reiterada las disposiciones legales o administrativas que le son aplicables, y
+VIII. Si la institución transgrede en forma grave o reiterada las disposiciones legales o administrativas que le son aplicables;
 
-> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2004)</small>
 
-IX. Cuando la institución no cubra al Instituto para la Protección del Ahorro Bancario las cuotas establecidas en la ley que regula a dicho Instituto, en los términos por ella previstos.
+IX. Cuando la institución no cubra al Instituto para la Protección al Ahorro Bancario las cuotas establecidas en la ley que regula a dicho Instituto, en los términos por ella previstos, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+X. Si la institución de banca múltiple no cumple cualquiera de las medidas correctivas mínimas; no cumple con más de una medida correctiva especial adicional, o bien incumple de manera reiterada una medida correctiva especial adicional.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
@@ -1242,7 +1250,7 @@ Independientemente de las sanciones previstas en esta Ley, el Banco de México p
 
 > <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
 
-###### Artículo 49.
+###### ARTICULO 49.
 
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, las instituciones de crédito o las sociedades a que se refiere la fracción IV del artículo 103 de esta Ley, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia en materia de comisiones o tarifas, respecto de operaciones activas, pasivas y de servicios de las citadas entidades financieras.
 
@@ -2198,6 +2206,10 @@ El incumplimiento o la violación de la presente Ley, de la Ley Orgánica del Ba
 
 En la imposición de estas sanciones, la Comisión Nacional Bancaria tomará en cuenta las medidas correctivas que aplique el Banco de México.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+El incumplimiento por parte de las instituciones de banca múltiple de cualquiera de las medidas correctivas a que se refieren los artículos 134 Bis y 134 Bis 1 de esta Ley, así como de las establecidas en las reglas de carácter general que de ellos emanen, será sancionado por parte de la Comisión Nacional Bancaria y de Valores con multa equivalente de veinte mil a doscientas mil veces el salario mínimo general diario vigente en el Distrito Federal. Lo anterior es sin perjuicio de la facultad de la Secretaría de Hacienda y Crédito Público para revocar la autorización otorgada para organizarse como institución de banca múltiple y operar con tal carácter, cuando se ubique en el supuesto previsto en la fracción X del artículo 28 de esta Ley.
+
 ###### ARTICULO 109.
 
 La infracción a cualquiera de las disposiciones de esta Ley, que no tengan sanción especialmente señalada, se castigará con multa equivalente de cien a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, que impondrá administrativamente la Comisión Nacional Bancaria.
@@ -2580,31 +2592,109 @@ La vigilancia consistirá en cuidar que las instituciones cumplan con las dispos
 
 Las medidas adoptadas en ejercicio de esta facultad serán preventivas para preservar la estabilidad y solvencia de las instituciones, y normativas para definir criterios y establecer reglas y procedimientos a los que deban ajustar su funcionamiento, conforme a lo previsto en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 134 Bis.
 
-En el ejercicio de sus funciones de vigilancia, la Comisión Nacional Bancaria y de Valores, mediante reglas de carácter general, clasificará a las instituciones en niveles, según su adecuación a los requerimientos de capitalización emitidos por la Secretaría de Hacienda y Crédito Público, las cuales podrán tomar en cuenta indicadores que reflejen el grado de estabilidad y solvencia de cada institución.
+En ejercicio de sus funciones de inspección y vigilancia, la Comisión Nacional Bancaria y de Valores, mediante las reglas de carácter general que al efecto apruebe su Junta de Gobierno, clasificará a las instituciones de banca múltiple en categorías, tomando como base el índice de capitalización requerido conforme a las disposiciones aplicables a los requerimientos de capitalización, emitidas por la Secretaría de Hacienda y Crédito Público en términos del artículo 50 de esta Ley.
 
-Las citadas reglas establecerán medidas correctivas que las instituciones de crédito, en su caso, deberán adoptar de acuerdo al nivel en que hubiesen sido clasificadas y los plazos para su cumplimiento, entre las cuales se encuentran:
+Para efectos de la clasificación a que se refiere el párrafo anterior, la Comisión Nacional Bancaria y de Valores podrá establecer diversas categorías, dependiendo si las instituciones de banca múltiple mantienen un índice de capitalización superior o inferior al requerido de conformidad con las disposiciones que las rijan.
 
-I. Suspender el pago de dividendos, recompras de acciones y cualquier otro mecanismo que implique una transferencia de beneficios patrimoniales a los accionistas;
+Las reglas que emita la Comisión Nacional Bancaria y de Valores deberán establecer las medidas correctivas mínimas y especiales adicionales que las instituciones de banca múltiple deberán cumplir de acuerdo con la categoría en que hubiesen sido clasificadas.
 
-II. Presentar un plan de restauración de capital que deberá ser aprobado por la Comisión Nacional Bancaria y de Valores, oyendo la opinión de la Secretaría;
+Para la expedición de las reglas de carácter general, la Comisión Nacional Bancaria y de Valores deberá observar lo dispuesto en el artículo 134 Bis 1.
 
-III. Revisar e instrumentar adecuaciones a las políticas de compensaciones adicionales y extraordinarias al salario de los funcionarios de niveles superiores de las instituciones de crédito, así como a las políticas de contratación de personal de la misma;
+Las medidas correctivas deberán tener por objeto prevenir y, en su caso, corregir los problemas que las instituciones de banca múltiple presenten, derivados de las operaciones que realicen y que puedan afectar su estabilidad financiera o solvencia.
 
-IV. Diferir el pago de principal de las obligaciones subordinadas que haya emitido, o en su caso, convertirlas anticipadamente en acciones, y
+La Comisión Nacional Bancaria y de Valores deberá notificar por escrito a las instituciones de banca múltiple las medidas correctivas que deban observar en términos de este Capítulo, así como verificar su cumplimiento de acuerdo con lo previsto en este ordenamiento. En la notificación a que se refiere este párrafo, la Comisión Nacional Bancaria y de Valores deberá definir los términos y plazos para el cumplimiento de las medidas correctivas a que hacen referencia el presente artículo y el 134 Bis 1 siguiente.
 
-V. Abstenerse de realizar operaciones que impliquen disminución en el índice de capitalización de la institución.
+Lo dispuesto en este artículo, así como en los artículos 134 Bis 1 y 134 Bis 2, se aplicará sin perjuicio de las facultades que se atribuyen a la Comisión Nacional Bancaria y de Valores de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+Las instituciones de banca múltiple deberán prever lo relativo a la implementación de las medidas correctivas dentro de sus estatutos sociales, obligándose a adoptar las acciones que, en su caso, les resulten aplicables.
+
+La adopción de cualquiera de las medidas correctivas que imponga la Comisión Nacional Bancaria y de Valores, con base en este precepto y en el artículo 134 Bis 1, así como en las reglas que deriven de ellos, y, en su caso, las sanciones o procedimientos de revocación que deriven de su incumplimiento, se considerarán de orden público e interés social, por lo que no procederá en su contra medida suspensional alguna, ello en protección de los intereses del público ahorrador.
+
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 134 Bis 1.
 
-Las instituciones de crédito que no cumplan con los requerimientos de capitalización establecidos por esta Ley y las disposiciones que de ella emanen, deberán suspender el pago de dividendos, las operaciones de adquisición de acciones por la propia institución o por la sociedad controladora del grupo al que aquélla, en su caso, pertenezca y cualquier otro acto que implique beneficios patrimoniales para los accionistas, diferir o cancelar el pago de intereses, o diferir el pago de principal de las obligaciones subordinadas que haya emitido, o en su caso convertirlas anticipadamente en acciones, presentar un plan de restauración de capital que deberá ser aprobado por la Comisión Nacional Bancaria y de Valores, oyendo la opinión de la Secretaría de Hacienda y Crédito Público y abstenerse de celebrar operaciones adicionales con las personas a que se refiere el artículo 73 de esta Ley.
+Para efectos de lo dispuesto en el artículo 134 Bis anterior, se estará a lo siguiente:
 
-La Comisión Nacional Bancaria y de Valores deberá verificar el cumplimiento de las disposiciones contenidas en este artículo, así como de las disposiciones que de él emanen.
+I. Cuando las instituciones de banca múltiple no cumplan con los requerimientos de capitalización establecidos conforme a lo dispuesto en el artículo 50 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas siguientes:
+
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
+
+En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
+
+b) En un plazo no mayor a 20 días, presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, un plan de restauración de capital que tenga como resultado un incremento en su índice de capitalización, el cual podrá contemplar un programa de mejora en eficiencia operativa, racionalización de gastos e incremento en la rentabilidad, la realización de aportaciones al capital social y límites a las operaciones que la institución de banca múltiple de que se trate pueda realizar en cumplimiento de su objeto social, o a los riesgos derivados de dichas operaciones. El plan de restauración de capital deberá ser aprobado por el consejo de administración de la institución de que se trate antes de ser presentado a la propia Comisión.
+
+La institución de banca múltiple de que se trate deberá determinar en el plan de restauración de capital que, conforme a este inciso, deba presentar, metas periódicas, así como el plazo en el cual el capital de dicha institución obtendrá el nivel de capitalización requerido conforme a las disposiciones aplicables.
+
+La Comisión Nacional Bancaria y de Valores deberá resolver lo que corresponda sobre el plan de restauración de capital que, en su caso, le haya sido presentado, en un plazo máximo de sesenta días naturales, contados a partir de la fecha de presentación del plan de que se trate.
+
+Las instituciones de banca múltiple a las que resulte aplicable lo previsto en este inciso, deberán cumplir con el plan de restauración de capital dentro del plazo que establezca la Comisión Nacional Bancaria y de Valores, el cual en ningún caso podrá exceder de 270 días naturales contados a partir del día siguiente al que se notifique a la institución de banca múltiple, la aprobación respectiva. Para la determinación del plazo para el cumplimiento del plan de restauración, la Comisión deberá tomar en consideración la categoría en que se encuentre ubicada la institución, su situación financiera, así como las condiciones que en general prevalezcan en los mercados financieros. La Comisión Nacional Bancaria y de Valores, por acuerdo de su Junta de Gobierno, podrá prorrogar por única vez este plazo por un periodo que no excederá de 90 días naturales.
+
+La Comisión Nacional Bancaria y de Valores dará seguimiento y verificará el cumplimiento del plan de restauración de capital, sin perjuicio de la procedencia de otras medidas correctivas dependiendo de la categoría en que se encuentre clasificada la institución de banca múltiple de que se trate;
+
+c) Suspender el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo.
+
+Lo dispuesto en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la institución de banca múltiple de que se trate, cuando el referido pago se aplique a la capitalización de la institución de banca múltiple;
+
+d) Suspender los programas de recompra de acciones representativas del capital social de la institución de banca múltiple de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
+
+e) Diferir el pago de intereses y, a juicio de la Comisión Nacional Bancaria y de Valores, diferir el pago de principal o convertir anticipadamente en acciones las obligaciones subordinadas que se encuentren en circulación, hasta por la cantidad que sea necesaria para cubrir el faltante de capital. Esta medida correctiva será aplicable a aquellas obligaciones subordinadas que, en términos de lo previsto en las disposiciones a que se refiere el primer párrafo del artículo 50 de esta Ley, computen como parte del capital neto de las instituciones de banca múltiple.
+
+Las instituciones de banca múltiple que emitan obligaciones subordinadas de las referidas en el párrafo inmediato anterior, deberán incluir en los títulos de crédito correspondientes, en el acta de emisión, en el prospecto informativo, así como en cualquier otro instrumento que documente la emisión, la posibilidad de que sea procedente la implementación de esta medida cuando se actualicen las causales correspondientes conforme a las reglas a que se refiere el artículo 134 Bis de esta Ley, sin que sea causal de incumplimiento por parte de la institución emisora;
+
+f) Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple cumpla con los niveles de capitalización requeridos por la Secretaría de Hacienda y Crédito Público en términos de las disposiciones a que se refiere el artículo 50 de esta Ley. Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo.
+
+Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los funcionarios de la institución.
+
+La medida prevista en este artículo es sin perjuicio de los derechos laborales adquiridos a favor de las personas que conforme a la misma puedan resultar afectadas;
+
+g) Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo 73 de esta Ley, y
+
+h) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 134 Bis de esta Ley;
+
+II. Cuando una institución de banca múltiple cumpla con el índice mínimo de capitalización requerido de acuerdo con el artículo 50 de esta Ley y las disposiciones que de ella emanen, será clasificada en la categoría que incluya a dicho mínimo. La Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas siguientes:
+
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
+
+En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
+
+b) Abstenerse de celebrar operaciones cuya realización genere que su índice de capitalización se ubique por debajo del requerido conforme a las disposiciones aplicables, y
+
+c) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 134 Bis de esta Ley;
+
+III. Independientemente del índice de capitalización de las instituciones de banca múltiple, la Comisión Nacional Bancaria y de Valores podrá ordenar la aplicación de medidas correctivas especiales adicionales.
+
+Las medidas correctivas especiales adicionales que, en su caso, deberán cumplir las instituciones de banca múltiple serán las siguientes:
+
+a) Definir las acciones concretas que llevará a cabo la institución de que se trate para no deteriorar su índice de capitalización;
+
+b) Contratar los servicios de auditores externos u otros terceros especializados para la realización de auditorías especiales sobre cuestiones específicas;
+
+c) Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
+
+Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los empleados o funcionarios de la institución;
+
+d) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia institución a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión Nacional Bancaria y de Valores previstas en el artículo 25 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la institución, o
+
+e) Las demás que determine la Comisión Nacional Bancaria y de Valores, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas bancarias y financieras.
+
+Para la aplicación de las medidas a que se refiere esta fracción, la Comisión Nacional Bancaria y de Valores podrá considerar, entre otros elementos, la categoría en que la institución de banca múltiple haya sido clasificada, su situación financiera integral, el cumplimiento al marco regulatorio, la tendencia del índice de capitalización de la institución y de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información, y
+
+IV. Cuando las instituciones de banca múltiple mantengan un índice de capitalización superior en un veinticinco por ciento o más, al requerido de conformidad con las disposiciones aplicables, no se aplicarán medidas correctivas mínimas ni medidas correctivas adicionales.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 134 Bis 2.
+
+La Comisión Nacional Bancaria y de Valores deberá dar aviso al Instituto para la Protección al Ahorro Bancario sobre la situación financiera de la institución de banca múltiple de que se trate, cuando ésta no cumpla con los requerimientos de capitalización, de conformidad con las disposiciones aplicables, proporcionándole para tales efectos la información que resulte necesaria para que dicho Instituto tome conocimiento de esta situación.
+
+El Instituto para la Protección al Ahorro Bancario podrá solicitar a las instituciones de banca múltiple información relevante sobre las obligaciones garantizadas a que se refiere el artículo 6o. de la Ley de Protección al Ahorro Bancario, cuando lo considere necesario.
+
+Lo dispuesto en este artículo es sin perjuicio de las facultades conferidas al Instituto para la Protección al Ahorro Bancario en la Ley de Protección al Ahorro Bancario.
 
 ###### ARTICULO 135.
 
@@ -3223,3 +3313,25 @@ D.O.F. 28 DE ENERO DE 2004.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO; DE LA LEY DE AHORRO Y CRÉDITO POPULAR; DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO; DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS; DE LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS; DE LA LEY DEL MERCADO DE VALORES; DE LA LEY DE SOCIEDADES DE INVERSIÓN, Y DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DE CRÉDITO.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en el inciso f) de la fracción I y en el inciso c) de la fracción III, ambas del artículo 134 Bis 1, que en su caso resulten aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de banca múltiple contarán con un plazo de 180 días naturales a partir de la entrada en vigor de este Decreto para modificar sus estatutos sociales conforme a lo previsto en el presente Decreto y someterlos a la aprobación de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de lo previsto en el inciso e) de la fracción I del artículo 134 Bis 1 de esta Ley, las emisiones de obligaciones subordinadas que las instituciones de banca múltiple hayan emitido con anterioridad a la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes al momento de su emisión.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días naturales, contados a partir de la publicación de este Decreto, para emitir las reglas de carácter general a que se refiere el artículo 134 Bis de esta Ley.
