@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1983-12-29"
+last_updated: "1984-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE AGOSTO DE 1984.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -2907,7 +2907,7 @@ del punto anterior, por cada prórroga 200.00
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 1984)</small>
 
 ###### Artículo 309.
 
@@ -3291,177 +3291,85 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ###### Artículo 320.
 
-Los servicios que la Dirección de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
+Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+1.- Por la expedición de concesión para la explotación del servicio público de transporte, por unidad:
 
-1.- Por la expedición de concesión para la
+I.- DE JURISDICCION ESTATAL
 
-explotación de servicios públicos de jurisdicción
+a) PASAJE $50,000.00
 
-estatal, por unidad:
+b) CARGA $25,000.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+II.- JURISDICCION MUNICIPAL
 
-a).- Pasaje de: $50,000.00
+a) PASAJE $13,725.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+b) CARGA $8,800.00
 
-b).- Carga de: 25,000.00
+2.- Por revisión anual de las concesiones que amparan la explotación del servicio público de transporte concesionado, tanto de jurisdicción Estatal como Municipal, por unidad:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+a) PASAJE $1,500.00
 
-2.- Por revisión anual de las concesiones que
+b) CARGA $1,000.00
 
-amparen la explotación de servicio público de
+3.- Por la expedición de concesiones temporales para la explotación del servicio público de transporte, de jurisdicción Estatal y Municipal, por unidad:
 
-transporte de jurisdicción estatal por unidad:
+a) PASAJE $5,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+b) CARGA $5,000.00
 
-a).- Pasaje 1,500.00
+4.- Autorización de vehículos de emergencia, tanto de jurisdicción Estatal como Municipal, por Unidad:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+a) PASAJE $3,000.00
 
-b).- Carga 500.00
+b) CARGA $3,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
+5.- Autorización de Alta y Baja de unidad para la explotación del servicio público de transporte, tanto de jurisdicción Estatal como Municipal, por unidad:
 
-3.- Por la explotación de concesión temporal
+a) PASAJE $1,000.00
 
-para la explotación del servicio público de
+b) CARGA $1,000.00
 
-transporte de jurisdicción Estatal, por unidad:
+6.- Autorización temporal a vehículos no concesionados por reparación de unidades autorizadas, de jurisdicción Estatal y Municipal, por unidad:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+a) PASAJE $1,000.00
 
-a).- Pasaje de: 5,000.00
+b) CARGA $1,000.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+7.- Expedición de permisos que amparen el servicio particular de Transporte, sean de jurisdicción Estatal o Municipal, por unidad:
 
-b).- Carga de: 5,000.00
+a) PERSONAS FISICAS $3,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+b) PERSONAS MORALES $5,000.00
 
-4.- Por autorización de vehículos de emergencia
+8.- Por estudios que realice el Departamento Técnico adscrito a la Dirección, a solicitud de particulares para determinar las necesidades de servicio público de transporte de jurisdicción Estatal o Municipal:
 
-para los concesionarios de servicio público de
+a) PASAJE $50,000.00
 
-transporte de jurisdicción estatal por unidad:
+b) CARGA $50,000.00
 
-a).- Pasaje 3,000.00
+9.- Por la expedición de concesiones con motivo de ampliación de ruta o radios de jurisdicción en la explotación de servicio público de Transporte de Jurisdicción Estatal o Municipal:
 
-b).- Carga 3,000.00
+I.- PASAJE:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
+a) Que exceda del 50% del kilometraje que tenga autorizado en la concesión, por unidad: $25,000.00
 
-5.- Por autorización de alta y baja de unidades
+b) Que no exceda del 50% del kilometraje que tenga autorizado en la concesión, por unidad: $12,500.00
 
-concesionadas por unidad:
+II.- CARGA:
 
-a).- Pasaje 1,000.00
+a) Que exceda del 50% del radio de acción autorizado en la concesión, por unidad: $12,500.00
 
-b).- Carga 1,000.00
+b) Que no exceda del 50% del radio de acción autorizado en la concesión, por unidad: $6,250.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+10.- Para expedición de concesiones para la explotación de centrales y terminales camioneras: $100,000.00
 
-6.- Por estudios que realice el Departamento Técnico
+11.- Por estudios técnicos y socio económicos que a solicitud de concesionario realice el Departamento Técnico, adscrito a la Dirección, para la modificación de tarifas $50,000.00
 
-adscrito a la Dirección, a solicitud de particulares para
+12.- Por la expedición de certificados que acrediten el carácter de no concesionario del servicio público de Transporte: $250.00
 
-determinar las necesidades de servicio público de
-
-transporte de jurisdicción Estatal y Municipal.
-
-a).- Pasaje $50,000.00
-
-b).- Carga 50,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1983)</small>
-
-7.- Por la expedición de concesiones con motivo
-
-de ampliación de ruta o radios de jurisdicción en
-
-la explotación de Servicio Público de Transporte
-
-de Jurisdicción Estatal:
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-I.- Pasaje:
-
-a).- Que exceda del 50% del kilometraje que tenga
-
-autorizado en la concesión, por unidad de 25,000.00
-
-b).- Que no exceda del 50% del kilometraje que tenga
-
-autorizado en la concesión, por unidad de 12,500.00
-
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-II.- Carga:
-
-a) Que exceda del 50% del radio de acción autorizado
-
-en la concesión, por unidad de 12,500.00
-
-b).- Que no exceda del 50% del radio de acción autorizado
-
-en la concesión, por unidad de 6,250.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
-
-8.- Por expedición de permisos que amparen el
-
-Servicio Particular de Transporte sean de
-
-Jurisdicción Estatal, por unidad:
-
-I.- Personas físicas:
-
-a).- Vehículo hasta de una tonelada de capacidad $1,000.00
-
-b).- Vehículos con capacidad mayor de una tonelada 3,000.00
-
-II.- Personas morales: 5,000.00
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-a).- Personas Físicas 3,000.00
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-b).- Personas morales 3,000.00
-
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
-
-Se exceptúan de esta obligación los permisos
-
-particulares a ganaderos que utilicen para su
-
-servicio, vehículos con capacidad hasta de una
-
-tonelada.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
-
-9.- Por expedición de concesiones para la
-
-explotación de centrales y terminales
-
-camioneras 100,000.00.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1983)</small>
-
-10).- Por estudios técnicos y socioeconómicos
-
-que a solicitud de concesionarios realice el
-
-Departamento Técnico, adscrito a la Dirección
-
-para la modificación de tarifas $50,000.00
+13.- Por certificación de copias de cualquier documento existente en los archivos de la Dirección General de Transporte, a solicitud de parte o en cumplimiento de un mandato judicial gestionado por particulares: $250.00
 
 ### Capítulo Unico
 
@@ -3910,3 +3818,9 @@ SEGUNDO.- A partir de la fecha en que esta ley entre en vigor queda abrogada la 
 Asimismo, quedan derogadas las Fracciones I, II Inciso (sic) a), b), c), d) y Fracción IV del Artículo 5o.; Artículo 6o.; Fracciones I, II, III y V del Artículo 7o.; Fracciones I, II y IV del Artículo 8o.; Fracción I y el inciso b) de la Fracción II, del Artículo 9o.; Artículo 10, a excepción de su Fracción V; Artículos 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, a excepción de su último párrafo, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 y 67, todos de la Ley de Hacienda del Estado.
 
 CUARTO.- Hasta el año de 1988 para el cobro de Impuesto Predial a que se refiere el Artículo 65 de esta Ley, las Autoridades Municipales, de acuerdo al contenido del segundo párrafo del Artículo 26, determinarán la prestación fiscal en los términos de la presente Ley, y de la Ley de Hacienda del Estado, enterando al Fisco Estatal, las cantidades que por ese concepto recaude, en la proporción que resulte de acuerdo al período de causación.
+
+B.O. 23 DE AGOSTO DE 1984.
+
+###### ARTICULO UNICO.
+
+Esta ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
