@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "1993-12-24"
+last_updated: "1995-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 1995.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -51,11 +51,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea de Representantes
 
 El Congreso tendrá la organización y funcionamiento que establecen la Constitución Política del Estado, esta Ley y las disposiciones que se deriven de la misma. La presente Ley y sus reformas y adiciones no necesitarán de promulgación del Ejecutivo del Estado, ni podrán ser objeto de veto. Para reformar algún artículo de la misma la proposición relativa deberá someterse precisamente a todos los trámites en ella señalados.
 
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+(REFORMADO, D.O. 12 DE JUNIO DE 1995) (F. DE E., D.O. 15 DE JUNIO DE 1995)
 
 ###### ARTICULO 4.
 
-La Legislatura tendrá su residencia en la Capital del Estado y celebrará sus sesiones en el Recinto Sede del Poder Legislativo, no pudiendo trasladarse provisionalmente a otro sitio, requiriendo para ello del acuerdo de las dos terceras partes de los Diputados presentes y se cumpla con lo previsto en el artículo 90 de esta Ley.
+La Legislatura tendrá su residencia en la Capital del Estado y celebrará sus sesiones en el Recinto Sede del Poder Legislativo, no pudiendo trasladarse provisionalmente a otro sitio, requiriendo para ello del acuerdo de las dos terceras partes de los diputados presentes. El Recinto del Poder Legislativo es el que actualmente ocupa o aquél que por Decreto del propio Congreso así lo declare en forma temporal o definitiva.
 
 ###### ARTICULO 5.
 
@@ -69,163 +69,137 @@ El ejercicio de las funciones de los Diputados durante su gestión constituciona
 
 Para ser tomado en consideración cualquier documento dirigido al Congreso deberá darse a éste el trato de Honorable.
 
-## TITULO SEGUNDO. DEL COLEGIO ELECTORAL Y LA CALIFICACION DE LAS ELECCIONES
+> <small>(REFORMADA SU DENOMINACION, D.O. 12 DE JUNIO DE 1995)</small>
 
-### CAPITULO I. DE LA CALIFICACION DE LAS ELECCIONES DE LOS PRESUNTOS DIPUTADOS
+## TITULO SEGUNDO. DE LA INSTALACION DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADA SU NUMERACION, D.O. 12 DE JUNIO DE 1995)</small>
+
+### CAPITULO UNICO.. DE LA COMISION INSTALADORA Y DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 8.
 
-Cada Legislatura calificará definitiva e irrevocablemente las elecciones de sus propios miembros a través de un Colegio Electoral que se integrará, cuando menos, con más de la mitad de los presuntos Diputados que hubieren obtenido sus respectivas constancias de mayoría o de asignación.
+El Congreso del Estado, quince días antes de clausurar el último período de sesiones de cada Legislatura, nombrará, de entre sus miembros, una Comisión Instaladora de la Legislatura que deba sucederla.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+Los miembros de la Comisión serán tres diputados y fungirán el primero, como Presidente, el segundo, como Primer Secretario y el tercero, como Segundo Secretario.
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 9.
 
-Recibidas las constancias de mayoría o de asignación expedidas por los Consejos Electorales correspondientes, los presuntos diputados deberán presentárselas al Oficial Mayor del Congreso del Estado para su registro antes del primer día hábil de la tercera semana siguiente a la elección. El Oficial Mayor retendrá una copia autorizada de las constancias y devolverá los originales a los interesados. En ningún caso podrá objetar las constancias legalmente expedidas que se le presenten y negarse a efectuar su registro, bajo pena de destitución del cargo.
+La Comisión Instaladora tendrá a su cargo:
+
+> <small>(F. DE E., D.O. 15 DE JUNIO DE 1995)</small>
+
+I.- Recibir de la Oficialía Mayor del Congreso del Estado, las copias certificadas de las constancias de mayoría y validez de la fórmula de candidatos a diputados de mayoría relativa que la hubiese obtenido, y de las constancias de asignación extendidas a los diputados electos por el sistema de representación proporcional, así como toda la documentación relacionada con las elecciones de diputados al Congreso del Estado, provenientes de las autoridades electorales competentes.
+
+II.- Entregar credenciales de identificación y acceso a los diputados electos que integrarán la nueva Legislatura, cuya constancia de mayoría y validez, de asignación proporcional o por resolución firme del Tribunal Electoral del Estado, haya recibido la Cámara.
+
+III.- Citar a los diputados electos a junta previa dentro de los diez días anteriores al inicio del primer período de sesiones ordinarias de la Legislatura entrante.
+
+IV.- Entregar por inventario a la primera Mesa Directiva de la Legislatura entrante, la totalidad de los documentos electorales a que se refieren las fracciones anteriores.
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 10.
 
-El Presidente de la Gran Comisión instalará el Colegio Electoral que calificará la elección de sus propios miembros a fin de integrar la nueva Legislatura.
+En la fecha y hora en que hubieren sido convocados conforme a lo previsto en la fracción III del artículo anterior, presentes en el salón de sesiones, la Comisión Instaladora y los diputados electos procederán a la instalación de la nueva Legislatura. Al efecto:
+
+a).- La Comisión Instaladora por conducto del Primer Secretario, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refiere la fracción IV de dicho artículo, a la Mesa Directiva que habrá de elegirse.
+
+b).- Enseguida se pasará lista de presencia de los diputados miembros de la nueva Legislatura para, en su caso, declarar debidamente instalada la Legislatura.
+
+c).- Acto continuo el Presidente de la Comisión Instaladora exhortará a los diputados electos a que en escrutinio secreto y por mayoría de votos, elijan la primera Mesa Directiva de la nueva Legislatura, que fungirá durante el primer período de sesiones ordinarias, misma que se integrará conforme a lo dispuesto en esta Ley.
+
+d) Realizada la elección de la primera Mesa Directiva de la Legislatura entrante conforme a los correspondientes resultados que serán anunciados por los Secretarios de la Comisión Instaladora, el Presidente de ésta invitará a los recién nombrados a tomar su lugar en el presidium del salón de sesiones. Antes de retirarse, el Presidente de la Comisión Instaladora hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder y declarará concluidas sus funciones.
+
+e).- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los diputados asistentes que se pongan de pie.
+
+f).- El Presidente tomará la protesta a los demás miembros integrantes de la Cámara.
+
+g).- Enseguida, el Presidente de la Mesa Directiva dirá en voz alta: "La (número) Legislatura del H. Congreso del Estado de Yucatán se declara legalmente constituida".
+
+h).- Por último, el Presidente de la Mesa Directiva citará a los diputados el día 1 de julio del año que corresponda, para iniciar el primer período de sesiones ordinarias, conforme lo establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 11.
 
-A las diez horas del primer día hábil de la tercera semana siguiente al de la elección, sin necesidad de citatorio previo, se reunirán el Presidente de la Gran Comisión del Congreso del Estado y los presuntos Diputados, quienes procederán a la constitución formal del Colegio Electoral. Para tal efecto se seguirá el procedimiento siguiente:
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
-
-a) El Presidente de la Gran Comisión dará lectura a la lista de los presuntos diputados elaborada con base en los registros, informes, expedientes, documentación y copias recibidas del Consejo Electoral del Estado y los Consejos Distritales Electorales;
-
-b) Acto continuo exhortara a los presuntos Diputados para que elijan por mayoría de votos la Mesa Directiva del Colegio Electoral que se integrará por un Presidente, un Secretario y un Vocal;
-
-c) Hecha la elección de la Mesa Directiva del Colegio Electoral, el Presidente de la Gran Comisión del Congreso del Estado pedirá a los electos ocupen su lugar en el Presidium; les hará entrega mediante inventario, de los informes, constancias, paquetes electorales y demás documentación relativa en su poder y dará por concluida su función instaladora;
-
-d) Seguidamente, el nuevo Presidente de la Mesa Directiva designará una Comisión de Cortesía integrada por tres presuntos Diputados, para que acompañen al Presidente de la Gran Comisión hasta las puertas del salón en que están sesionando.
+La instalación de la nueva Legislatura se publicará en el Diario Oficial del Gobierno del Estado y se comunicará a los Poderes de la Federación, a los del Estado y a las Legislaturas de las otras entidades federativas. Igual participación se hará cada vez que el Congreso inaugure un período de sesiones ordinarias o extraordinarias.
 
 ###### ARTICULO 12.
 
-El Colegio Electoral no puede constituirse ni iniciar sus sesiones sin la concurrencia de más de la mitad del número total de sus integrantes.
-
-Si no hubiere la asistencia mínima legal de los presuntos Diputados, el Presidente de la Gran Comisión señalará fecha para la celebración de una nueva reunión, citará a los ausentes cuyas constancias ya estén registradas en la Oficialía Mayor del Congreso, a que concurran dentro de los tres días siguientes, apercibiéndolos de que si no lo hacen se llamará en forma definitiva a los suplentes respectivos, quienes deberán presentarse en un plazo de dos días; en caso de no acudir, se declarará vacante el cargo, y, en su caso, se convocará a nueva elección, la que se verificará dentro del término de sesenta días.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 13.
 
-En caso de que el Presidente de la Gran Comisión del Congreso del Estado no se presente el día señalado para la instalación del Colegio Electoral, los presuntos Diputados se constituirán por sí mismos, siempre que se encuentren presentes más de la mitad del número total de ellos.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 14.
 
-En la propia sesión de instalación del Colegio Electoral se elegirán de entre los presuntos Diputados dos Comisiones Dictaminadoras compuestas, cada una, por un Presidente, un Secretario y dos Vocales, así como sus respectivos suplentes, se procurará que un presunto Diputado de minoría forme parte de cada Comisión Dictaminadora.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 15.
 
-Las Comisiones Dictaminadoras procederán en la forma siguiente:
-
-I.- La primera dictaminará sobre la elección de los presuntos Diputados, excepto la de sus miembros;
-
-II.- La segunda dictaminará sobre la elección de los presuntos Diputados miembros de la primera Comisión;
-
-El Presidente de la Mesa Directiva del Colegio Electoral distribuirá los expedientes electorales que correspondan a cada una de las Comisiones.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 16.
 
-Los dictámenes que presenten las Comisiones deberán estar firmados por sus integrantes cuando estén conformes con sus puntos resolutivos; en caso de disenso se formularán por escrito las inconformidades y se agregarán al expediente respectivo, sustanciándose en el dictamen la valoración de éste y su procedencia o improcedencia.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 17.
 
-El primer día hábil de la semana siguiente a la integración el Colegio Electoral, sesionará éste para recibir los dictámenes de las Comisiones y calificar la elección de los presuntos Diputados, de la manera siguiente:
-
-I.- Resolverá respecto de la de aquéllos que obtuvieron mayoría relativa en cada uno de los Distritos Electorales, con base en los dictámenes de ambas Comisiones;
-
-II.- Resolverá respecto de la de aquéllos que obtuvieron constancias de asignación como presuntos Diputados electos por el principio de minoría, con base en los dictámenes de ambas comisiones.
-
-En los casos que así lo resuelva, declarará la nulidad de la elección de que se trate en los términos y en los casos previstos en la Ley Electoral del Estado.
-
-Para la calificación de la elección de sus miembros, el Colegio Electoral podrá realizar las sesiones que fueren necesarias, las que serán diarias hasta agotar su cometido, a más tardar el treinta y uno de Diciembre del año de la elección.
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
-
-En los casos que así lo resuelva, declarará la nulidad de la elección de que se trate en los términos y en los casos previstos en el Código Electoral del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 24 DE DICIEMBRE DE 1993)</small>
-
-Para la calificación de la elección de sus miembros, el Colegio Electoral podrá realizar las sesiones que fueren necesarias, las que serán diarias hasta agotar su cometido, a más tardar el 30 de junio del año de la elección.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ### CAPITULO II. DEL CONGRESO DEL ESTADO
 
 ###### ARTICULO 18.
 
-Las resoluciones del Colegio Electoral serán definitivas inatacables e irrevocables.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 19.
 
-La declaración que haga el Congreso sobre la elección de Gobernador, tendrá el carácter de definitiva e irrevocable, y será motivo de un Decreto que enviará al Ejecutivo Estatal para su promulgación y publicación en el Diario Oficial, como lo establece la fracción II del Artículo 55 de la Constitución Política del Estado.
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 20.
 
-El Congreso del Estado en ningún caso dejará de resolver sobre la calificación, cómputo y declaratoria de la elección de Gobernador, cuando menos diez días antes de la primera sesión de julio del año de la elección.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 21.
 
-El Gobernador electo otorgará la protesta de Ley en términos semejantes a los del Presidente del Congreso con el ceremonial que expresan los artículos 84, 85 y 86 de esta propia Ley.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 22.
 
-Para calificar y resolver sobre elecciones extraordinarias de Gobernador, se aplicará esta Ley en la parte conducente sujetándose en todo a lo dispuesto por la Constitución Política del Estado y por las Leyes relativas.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 23.
 
-En todo caso se calificará la elección de Gobernador antes de calificar las elecciones de Ayuntamientos.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ### CAPITULO III. DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS, Y DECLARATORIA DE VALIDEZ O NULIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 24.
 
-Durante la tercera semana siguiente a la de las elecciones, el Colegio Electoral del Congreso del Estado, se encargará de revisar por medio de la Comisión que corresponda, los expedientes electorales que le hayan sido entregados por los Consejos Municipales Electorales, y el informe rendido por el Consejo Electoral del Estado. Dicha Comisión rendirá su dictamen en el que incluirá, en su caso, el proyecto de resolución sobre los recursos interpuestos.
-
-Con base en el dictamen rendido, el Colegio Electoral someterá el asunto a discusión y calificará las elecciones.
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 25.
 
-El Colegio Electoral, en ningún caso dejará de resolver sobre la calificación, declaratoria de validez o nulidad de la elección de Ayuntamientos, antes del día 30 de junio del año de la elección.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 26.
 
-Una vez que se haya realizado la calificación a que se refiere el artículo precedente, el Colegio Electoral procederá a expedir el Decreto correspondiente, que enviará al Gobernador del Estado para su sanción, promulgación y publicación en el Diario Oficial del Gobierno del Estado.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ## TITULO TERCERO
 
 ### CAPITULO UNICO. DE LA INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 27.
 
-Para la instalación del Congreso, los diputados electos se reunirán el día uno de julio del año de la elección, presididos por la Mesa Directiva del Colegio Electoral y procederán en la forma siguiente:
-
-I.- El Presidente de la Mesa Directiva del Colegio Electoral pedirá al Secretario de la misma, proceda a dar lectura a la lista de los Diputados que hayan resultado electos y comprobará que se tiene la concurrencia que prescribe el artículo 26 de la Constitución Política del Estado;
-
-II.- Seguidamente el Presidente de la Mesa Directiva del Colegio Electoral ante los Diputados electos que integrarán la nueva Legislatura, puestos de pie todos otorgará la protesta de Ley en los siguientes términos:
-
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, y la del Estado de Yucatán, las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, y mirar en todo por el bien y la prosperidad de la Nación y del Estado, y si así no lo hiciere, que la Nación y el Estado me lo demanden".
-
-Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás Diputados electos que permanecerán de pie:
-
-¿"Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Yucatán, las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo les ha conferido, y mirar en todo por el bien y prosperidad de la Nación y del Estado"?; los interrogados deberán contestar: "Si protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
-
-Igual protesta están obligados a otorgar cada uno de los Diputados propietario o suplente que se presenten después de la instalación.
-
-III.- El Presidente invitará a los Diputados a elegir la Mesa Directiva, en escrutinio secreto y por mayoría de votos, de acuerdo con lo dispuesto por el artículo 38 de esta Ley; y
-
-> <small>(REFORMADA D.O. 31 DE DICIEMBRE DE 1988)</small>
-
-IV.- Dado a conocer el resultado de la votación por el Secretario de la Mesa Directiva del Colegio Electoral, el Presidente declarará que el Colegio ha concluido sus funciones. Los elegidos pasarán a ocupar sus sitios en el Presidium y el Presidente de la Mesa Directiva del Congreso, pedirá a los diputados ponerse de pie y dirá en voz alta: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, se declara legítimamente constituida".
-
-Esta instalación se publicará en el Diario Oficial del Gobierno del Estado y se comunicará a los Poderes Federación, a los del Estado y a las Legislaturas de las otras Entidades Federativas. Igual participación se hará cada vez que el Congreso inaugure un periodo Ordinario o Extrardinario de Sesiones.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ## TITULO CUARTO. DE LOS DIPUTADOS
 
@@ -583,7 +557,17 @@ IX.- Trabajo, Asistencia y Seguridad Social y Peticiones.
 
 X.- Corrección de Estilo.
 
-Las atribuciones del aquéllas serán las siguientes:
+> <small>(REFORMADA, [N. DE E. ADICIONADA] D.O. 12 DE JUNIO DE 1995)</small>
+
+XI.- Derechos Humanos.
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA] D.O. 12 DE JUNIO DE 1995)</small>
+
+XII.- Desarrollo Municipal.
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
+
+Las atribuciones de las Comisiones serán las siguientes:
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -597,23 +581,51 @@ a) Legislación, Puntos Constitucionales y Gobernación, y Asuntos Electorales, 
 
 4.- Todos los asuntos electorales.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 b).- Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda, y Patrimonio Estatal y Municipal. Esta Comisión dictaminará sobre las cuestiones de tipo económico que se presenten a la consideración del Congreso, sobre las inspecciones que realice la Contaduría Mayor de Hacienda, y en los asuntos que afecten de alguna forma el patrimonio del Estado y sus Municipios.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 c).- Educación, Ciencia, Arte y Tecnología. Esta Comisión estudiará y dictaminará sobre cuestiones de Educación Pública, con el fin de desarrollar y acrecentar las facultades intelectuales de las personas; al conocimiento exacto y razonado de la ciencia por sus principios y causas; a la cultura; al reconocimiento de las obras artísticas, científicas, tecnológicas, así como de los métodos y técnicas empleados para el mejoramiento de su producción.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 d).- Industria, Comercio, Artesanías y Turismo. Esta Comisión, se avocará (sic) al estudio de los asuntos que tienden al desarrollo de la técnica, de la producción industrial y de las comunicaciones; a propiciar el intercambio, compra o venta de productos naturales e industriales; a fomentar el trabajo artesanal y a crear fuentes turísticas en la entidad.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 e).- Tenencia de la Tierra, Agricultura, Ganadería, Forestal y Recursos Pesqueros. Esta Comisión tendrá a su cargo el estudio y dictamen de los problemas relativos a la Regularización de la Tenencia de la Tierra, coadyuvando a que su ejecución sea expedita, justa y equitativa; a las reservas territoriales, para que los Municipios del Estado puedan desarrollarse racional y armónicamente, a impulsar la agroindustria, a proteger la repoblación forestal y a fomentar la pesca en el Estado.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 f).- Salud Pública, Ecología, Vivienda, Protección y Mejoramiento del Ambiente. Esta Comisión, estudiará y dictaminará cuestiones relativas a la salud, en la concepción de sus leyes propiciando que éstas instrumenten los medios necesarios para fomentar los programas que se deben llevar a cabo para la protección del ser humano en su higiene personal como ambiental; a preservar el equilibrio ecológico; a la demanda de vivienda propugnando por soluciones que beneficien a los sectores socialmente desprotegidos; a proteger y a mejorar el ambiente para que todos los valores naturales, sociales y culturales del hombre mejoren sus condiciones de vida.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 g) Obras Públicas, Comunicaciones, Transporte y Desarrollo Urbano. Esta Comisión estudiará y dictaminará sobre cuestiones que tiendan a propiciar las obras de interés público en el Estado; autorizar a las empresas encargadas de comunicaciones y transportes, créditos para el mejor funcionamiento y servicio a la colectividad; y a impulsar el desarrollo de nuestra urbe armónica y congruente con la justicia social.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 h) Administración e Impartición de Justicia, Seguridad Pública, Prevención y Readaptación Social. Esta Comisión estudiará y dictaminará sobre aspectos de la administración de justicia, propiciando que el desempeño de las funciones se realice en forma justa y eficiente; que la impartición de justicia sea pronta y expedita; que los responsables de la seguridad pública reciban permanentemente capacitación adecuada, para mejorar la protección de la sociedad; y que se establezcan unidades capaces para la readaptación social del hombre y la mujer y éstos logren reintegrarse a la sociedad como personas productivas.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 i) Trabajo, Asistencia y Seguridad Social y Peticiones. Esta Comisión estudiará y dictaminará sobre asuntos relacionados con la planeación y creación de nuevas fuentes de trabajo; para diversificar la economía del Estado; a satisfacer la demanda de trabajo y de mano de obra calificada tomando medidas y precauciones necesarias en determinados hechos; a propiciar que las medidas de asistencia y seguridad social protejan a la comunidad; los asuntos que se refieran a las solicitudes que se presenten y no corresponda específicamente a ninguna de las comisiones anteriormente relacionadas.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 j) Corrección de Estilo. Esta Comisión tendrá a su cargo la redacción de las minutas de Ley, Decreto o Acuerdo aprobados.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O. 12 DE JUNIO DE 1995)</small>
+
+k).- Derechos Humanos. Esta Comisión tendrá por objeto estudiar y dictaminar sobre los asuntos relacionados con los Derechos Humanos, entendiéndose por tales el conjunto de facultades, prerrogativas, libertades y pretensiones propias del ser humano como ente social, incluidos los recursos y mecanismos de garantía de todas ellas que se reconocen en el hombre, considerado individual y colectivamente. Tendrá la responsabilidad de proponer y vigilar el cumplimiento de la política estatal en materia de respeto y defensa de los Derechos Humanos, tanto de los mexicanos, como de los extranjeros que se encuentren en el Estado, velando por la preservación del orden, la paz y la estabilidad social de nuestra Entidad, para salvaguardar el pleno ejercicio de las Garantías establecidas en la Constitución de la República, la particular del Estado de Yucatán y demás leyes, reglamentos, tratados y convenios que de ellas emanen, inclusive los de carácter internacional.
+
+> <small>(REFORMADO [N. DE ADICIONADO], D.O. 12 DE JUNIO DE 1995)</small>
+
+l).- Desarrollo Municipal. Esta Comisión estudiará y dictaminará sobre los asuntos relacionados con la promoción del desarrollo socioeconómico de los municipios cooperando con los Ayuntamientos de la entidad al cumplimiento de las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Yucatán y en los demás ordenamientos legales aplicables, promoviendo el desarrollo integral de los mismos.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
@@ -667,15 +679,21 @@ Son además atribuciones de la Diputación Permanente las consignadas en el art�
 
 ### CAPITULO I. DE LA INICIACION Y PERIODOS DE SESIONES
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 12 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 76.
 
-El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sea necesario para tratar los asuntos que se le presenten y comenzarán a partir del 16 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 15 de septiembre, 15 de enero del año siguiente y 15 de mayo. Este último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso se Constituya en Colegio Electoral.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias que durarán el tiempo que sean necesario para tratar los asuntos que se le presenten y comenzarán a partir del 1 de julio, del 16 de noviembre y del 16 de marzo y sin que los mismos puedan prolongarse más que hasta el 31 de agosto, 15 de enero del año siguiente y 15 de mayo. El último período podrá ampliarse hasta el 30 de junio de los años en que el Congreso concluya su ejercicio legal.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
 
 El Congreso celebrará el cuarto domingo de julio de cada uno de los cinco primeros años del período del Ejecutivo y el segundo domingo de junio del sexto año del mismo, una Sesión Solemne en la cual el Gobernador del Estado deberá comparecer a rendir un informe por escrito, acerca de la situación que guarden las diversas ramas de la Administración. En dicho informe podrá dar respuesta además a las preguntas que le hubieren formulado los integrantes del H. Congreso, a través del Presidente en turno, con una antelación no menor de veinte días naturales al del informe correspondiente. Las preguntas comprenderán exclusivamente cualquier asunto de la administración pública, relativo al período a que se refiere el informe del Ejecutivo.
 
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
+
 El Presidente del Congreso contestará a dicho informe.
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1993)</small>
 
 El informe será analizado por el Congreso en reuniones subsecuentes.
 
@@ -743,7 +761,7 @@ Siempre se destinarán lugares preferentes en el Recinto del Poder Legislativo, 
 
 ###### ARTICULO 90.
 
-El Congreso deberá celebrar sus sesiones en el Recinto Oficial; entendiéndose por tal, el que actualmente ocupa o aquél que por Decreto del propio Congreso así lo declare en forma temporal o definitiva.
+(DEROGADO, D.O. 12 DE JUNIO DE 1995)
 
 ###### ARTICULO 91.
 
@@ -1263,4 +1281,8 @@ TERCERO.- El Gobernador electo que fungirá del uno de febrero de 1994 al 31 de 
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado, con excepción de las reformas relativas a los artículos 17 párrafo 5º, 20, 25, 27 primer párrafo, 46 fracción X inciso f) y 76 de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, que entrarán en vigor el día uno de enero de mil novecientos noventa y cuatro.
+QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación ene l Diario Oficial del Gobierno del Estado, con excepción de las reformas relativas a los artículos 17 párrafo 5º, 20, 25, 27 primer párrafo, 46 fracción X inciso f) y 76 de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, que entrarán en vigor el día uno de enero de mil novecientos noventa y cuatro.
+
+D.O. 12 DE JUNIO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
