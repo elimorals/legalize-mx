@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2003-02-03"
+last_updated: "2004-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -759,7 +759,9 @@ IV.- De Justicia;
 
 V.- De Desarrollo Social;
 
-VI.- Del Medio Ambiente;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+VI.- Del Medio Ambiente y Recursos Naturales;
 
 VII.- De Desarrollo Económico;
 
@@ -771,7 +773,9 @@ X.- De Recreación y Deporte;
 
 XI.- De Desarrollo Agropecuario;
 
-XII.- De Obras Públicas;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+XII.- Agrietamiento del Suelo y Sustentabilidad del Agua;
 
 XIII.- De Salud Pública y Asistencia Social;
 
@@ -785,15 +789,27 @@ XVII.- De la Familia;
 
 XVIII.- De Fortalecimiento Municipal;
 
-XIX.- De Equidad entre Hombres y Mujeres;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
-XXI (sic).- De Información; y
+XIX.- De Equidad Social y Humana;
 
-XXII (sic).- De Redacción y Estilo.
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+XX. Planeación, Desarrollo Urbano y Obra Pública;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+XXI.- De Transporte Público; y
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+XXII.- De Ciencia y Tecnología.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 76.
 
-La Comisión de Reglamentos y Prácticas Parlamentarias se integrará con cinco miembros de entre los Diputados con mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Le corresponden el estudio y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Reglamentos y Prácticas Parlamentarias el estudio y dictamen de los siguientes asuntos:
 
 I.- La preparación de proyectos de ley o de decreto para adecuar las normas que rigen las actividades parlamentarias;
 
@@ -881,31 +897,31 @@ VII.- La ratificación del Procurador General de Justicia del Estado; y
 
 VIII.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 80.
 
 Corresponde a la Comisión de Desarrollo Social, el conocimiento y dictamen de los siguientes asuntos:
 
 I.- Las leyes relativas al desarrollo social del Estado;
 
-II.- Las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y relotificación de terrenos;
+II.- Las bases sobre las cuales se reglamente la coordinación de acciones entre el Ejecutivo del Estado con los Municipios y sectores de la población para la ejecución de los programas de beneficio colectivo;
 
-III.- El dictamen de la planeación del desarrollo social y urbano;
-
-IV.- Las bases sobre las cuales se reglamente la coordinación de acciones entre el Ejecutivo del Estado con los municipios y sectores de la población para la ejecución de los programas de beneficio colectivo;
-
-V.- La promoción para que se mejoren los programas federales, estatales y municipales destinados a la vivienda, salud, educación, seguridad, infraestructura urbana, infraestructura rural, cultura, educación, combate a las drogas y al alcoholismo, recreación y deporte; y
+III.- La promoción para que se mejoren los programas federales, estatales y municipales destinados a la salud, educación, seguridad, cultura, educación, combate a las drogas y al alcoholismo, recreación y deporte; y
 
 VI.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 81.
 
-Corresponde a la Comisión del Medio Ambiente el conocimiento y dictamen de los siguientes asuntos:
+Corresponde a la Comisión del Medio Ambiente y Recursos Naturales el conocimiento y dictamen de los siguientes asuntos:
 
-I.- La preservación y restauración del equilibrio ecológico y la protección al ambiente;
+I.- La preservación y restauración del equilibrio ecológico, la protección al ambiente y la utilización ordenada y sustentable del os recursos naturales;
 
-II.- La legislación en materia ambiental;
+II.- La legislación en materia ambiental, forestal y de protección a los recursos naturales;
 
-III.- Las campañas para promover la cultura y el conocimiento de los asuntos relacionados con el ambiente; y
+III.- Las campañas para promover la cultura y el conocimiento de los asuntos relacionados con el ambiente y la utilización responsable de los recursos naturales; y
 
 IV.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
@@ -971,15 +987,25 @@ III.- Las acciones que se realicen en materia de fomento agropecuario y para la 
 
 IV.- Otros análogos que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento de esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 87.
 
-Corresponde a la Comisión de Obras Públicas, el estudio y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Agrietamiento del Suelo y Sustentabilidad del Agua, el estudio y dictamen de los siguientes asuntos:
 
-I.- Las normas jurídicas relacionadas con las obras públicas de los Gobiernos del Estado o los municipios;
+I.- La legislación, normatividad, planes y programas encaminados a la optimización de uso y la sustentabilidad del agua;
 
-II.- La legislación en materia de obra pública; y
+II.- La legislación tendiente a la regulación y sanción del manejo de aguas residuales y su tratamiento;
 
-III.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+III.- La legislación y programas tendientes a la regulación y difusión de la cartografía de agrietado en el Estado;
+
+IV. La legislación y programas tendientes a la regulación del suelo, difusión, restricciones y fomento en materia de agrietamiento;
+
+V.- La legislación y programas tendientes a la regulación y fomento de la reutilización del agua;
+
+VI.- La legislación y programas tendientes a la regulación y fomento de estudios geofísicos relativos a las fallas y agrietamientos en el Estado; y
+
+VII.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTICULO 88.
 
@@ -991,17 +1017,17 @@ II.- Las normas jurídicas relacionadas con la asistencia social; y
 
 III.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 89.
 
 Corresponde a la Comisión de Seguridad Pública, el conocimiento y dictamen de los siguientes asuntos:
 
 I.- El orden público, la tranquilidad y seguridad jurídica de las personas y sus bienes;
 
-II.- El tránsito de vehículos, la vialidad y el transporte público;
+II.- Las leyes que establezcan y regulen el sistema de tratamiento penal. Así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
 
-III.- Las leyes que establezcan y regulen el sistema de tratamiento penal. Así como el funcionamiento de los cuerpos de seguridad pública, privada y de protección civil; y
-
-IV.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+III.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTICULO 90.
 
@@ -1049,47 +1075,75 @@ II.- La creación y supresión de municipios; y
 
 III.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 94.
 
-Corresponde a la Comisión de Equidad entre Hombres y Mujeres el conocimiento y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Equidad Social y Humana el conocimiento y dictamen de los siguientes asuntos:
 
-I.- Las iniciativas de Ley, reformas o adiciones relacionadas con la promoción de la igualdad entre hombres y mujeres en el ámbito legal;
+I.- Las iniciativas de Ley, reformas o adiciones relacionadas con la promoción de la igualdad entre las personas, sin importar cuestiones de género, edad, creencias religiosas, posición económica, cultura y demás actividades y comportamientos humanos que pudieren causar discriminación o segregación social o humana;
 
-II.- Las propuestas y medidas legislativas para dar cumplimiento a las convenciones internacionales de apoyo a la mujer y en particular su defensa en contra de la desigualdad;
+II.- Las propuestas y medidas legislativas para dar cumplimiento a las convenciones internacionales de apoyo a la mujer, los menores, las personas de la tercera edad, y los grupos socialmente desprotegidos, y en particular su defensa en contra de la desigualdad;
 
 III.- Las campañas para establecer medidas de acción afirmativas tendientes a desaparecer las desigualdades existentes, con el fin de posibilitar los cambios sociales requeridos que permitan hacer efectivo el ejercicio de la equidad;
 
-IV.- Las campañas para promover la cultura y equidad entre los géneros femenino y masculino; y
+IV.- Las campañas para promover la cultura y equidad social y humana; y
 
 V.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 95.
 
-Corresponde a la Comisión de Información el conocimiento y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Planeación, Desarrollo Urbano y Obra Pública, el conocimiento y dictamen de los siguientes asuntos:
 
-I.- La promoción de la difusión de los actos a través de los cuales la Legislatura lleva a cabo el cumplimiento de las funciones que la Constitución del Estado y esta Ley le encomiendan;
+I.- Las normas y programas relacionadas con la planeación y programación de las obras, planes y programas de los Gobiernos Municipales y Estatal;
 
-II.- La publicación y difusión de las normas de observancia general y obligatorias para el Estado con el carácter de leyes, decretos y acuerdos;
+II.- Las actividades de gobierno relacionadas con la planeación y programación de las actividades administrativas y de gobierno;
 
-III.- La supervisión de la difusión institucional;
+III.- Las normas jurídicas encaminadas a la regulación de la planeación y programación en el Estado;
 
-IV.- La colaboración con las instancias correspondientes, federales, estatales y municipales para garantizar la libertad de prensa;
+IV.- Las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y relotificación de terrenos;
 
-V.- La custodia, salvaguarda y archivo de los expedientes relativos a las notas de prensa, boletines, publicaciones y otros relacionados con la información; y
+V.- El dictamen de la planeación del desarrollo social y urbano;
 
-VI.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+VI.- La promoción para que se mejoren los programas federales, estatales y municipales destinados a la vivienda, infraestructura urbana y rural;
+
+VII.- Las normas jurídicas relacionadas con las obras públicas de los gobiernos del Estado o los municipios;
+
+VIII.- La legislación en materia de obra pública; y
+
+IX.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 96.
 
-Corresponde a la Comisión de Redacción y Estilo el conocimiento y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Transporte Público el conocimiento y dictamen de los siguientes asuntos:
 
-I.- La revisión gramatical y de estilo de los dictámenes relativos a los proyectos de leyes, decretos, acuerdos y reglamentos;
+I.- Las normas jurídicas destinadas a regular, reglamentar lo relacionado con el transporte público y de servicios ene l Estado;
 
-II.- La coordinación con las comisiones dictaminadoras, cuando se trate de leyes o decretos, revisando el texto final del dictamen, y cuidando la redacción exacta, a fin de evitar al máximo que los artículos se presten a equivocadas interpretaciones;
+II.- El tránsito de vehículos, la vialidad y el transporte público;
 
-III.- La corrección gramatical y de construcción pertinentes, sin variar esencialmente el fondo de su contenido; y
+III.- Las normas y programas referentes a la reglamentación de concesiones del transporte público colectivo en el Estado;
 
-IV.- Otros análogos, que a juicio del Presidente del Congreso o del de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+IV.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 96 Bis.
+
+Corresponde a la Comisión de Ciencia y Tecnología el conocimiento y dictamen de los siguientes asuntos:
+
+I.- Los planes estatales de desarrollo en ciencia y tecnología que ejecute el Gobierno del Estado;
+
+II.- La ciencia y tecnología que se promueva y fomenta en el Estado y los Municipios;
+
+III.- Las normas de esta materia, así como actividades que lleven a cabo las universidades e instituciones de educación superior en el estado, en los asuntos que sean competencia del Congreso del Estado, o en aquellos que les sena solicitados por dichas instituciones, investigadores y científicos;
+
+IV.- Las acciones que realicen el Estado y Municipios en materia de ciencia y tecnología; y
+
+V.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTICULO 97.
 
@@ -1485,13 +1539,17 @@ Los Diputados también solicitarán a la Dirección General de Servicios Parlame
 
 La Dirección General de Servicios Parlamentarios deberá proporcionar la información u opinión respectiva a las Comisiones correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 148.
 
-Los proyectos de dictamen, una vez redactados por la Comisión respectiva, deberán turnarse para efectos de estilo y corrección gramatical y ortográfica a la Comisión de Redacción y Estilo y a la Dirección General de Servicios Parlamentarios.
+Los proyectos de dictamen, una vez redactados por la Comisión respectiva, deberán turnarse para efectos de estilo y corrección gramatical y ortográfica a la Dirección General de Servicios Parlamentarios.
 
 Una vez efectuada esta revisión se regresará el texto a la Comisión correspondiente para la suscripción definitiva del dictamen.
 
-Ningún dictamen será sometido a la consideración del Pleno, sin que antes se lleve a cabo la revisión señalada por parte de la Comisión de Redacción y Estilo y de la Dirección General de Servicios Parlamentarios.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
+Ningún dictamen será sometido a la consideración del Pleno, sin que antes se lleve a cabo la revisión señalada por parte de la Dirección General de Servicios Parlamentarios.
 
 ###### ARTICULO 149.
 
@@ -1923,9 +1981,11 @@ Los actos de instalación del Congreso del Estado y de Apertura del Periodo Ordi
 
 ### CAPITULO II. De la Apertura y Clausura de los Periodos de Sesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 192.
 
-El Congreso del Estado tendrá cada año dos periodos ordinarios de sesiones. El primero iniciará el 15 de noviembre y concluirá el 15 de febrero; y el segundo iniciará el 30 de abril y concluirá el 31 de julio.
+El Congreso del Estado tendrá cada año dos periodos ordinarios de sesiones. El primero iniciará el 15 de noviembre y concluirá el 15 de marzo; y el segundo iniciará el 30 de abril y concluirá el 31 de julio.
 
 El Congreso del Estado podrá ser convocado a periodos extraordinarios de sesiones, en los términos del artículo 25 de la Constitución Política del Estado y de esta Ley.
 
@@ -2035,9 +2095,11 @@ Se entenderá por periodo la serie continuada de sesiones efectuadas dentro de l
 
 Las sesiones pueden ser ordinarias, extraordinarias, solemnes, públicas, secretas y permanentes.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 202.
 
-Son sesiones ordinarias las que se celebren durante los periodos comprendidos del 15 de noviembre al 15 de febrero y del 30 de abril al 31 de julio.
+Son sesiones ordinarias las que se celebren durante los periodos comprendidos del 15 de noviembre al 15 de marzo y del 30 de abril al 31 de julio.
 
 ###### ARTICULO 203.
 
@@ -2653,4 +2715,10 @@ Salvador Delgado Esquivel.
 
 P.O. 3 DE FEBRERO DE 2003.
 
-UNICO.- El presente Decreto de reformas a los artículos 133 y 138 de la Ley Orgánica del Poder Legislativo iniciarán su vigencia a partir de su publicacion en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto de reformas a los artículos 133 y 138 de la Ley Orgánica del Poder Legislativo iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor para efectos de la vida interna del Congreso del Estado, a partir de su aprobación y para los efectos ante terceros, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
