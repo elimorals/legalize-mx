@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-economico-del-estado-de-baja-california-sur-2928
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "1998-12-31"
+last_updated: "2004-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE FEBRERO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de diciembre de 1995.
 
@@ -111,13 +111,29 @@ Para el cumplimiento y aplicación de esta Ley, el Ejecutivo del Estado promover
 
 ### CAPITULO II. DE LOS BENEFICIARIOS
 
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 5.
 
-Podrán ser sujetos de los estímulos y beneficios previstos por esta Ley, todas las empresas que realicen o vayan a realizar actividades económicas en el Estado de Baja California Sur, que cumplan con los requisitos señalados por la misma.
+Los estímulos y beneficios a que se refiere esta Ley se otorgarán a todas las empresas que realicen o vayan a realizar actividades económicas en el Estado de Baja California Sur, que cumplan con los requisitos señalados por la misma.
+
+Tratándose de los estímulos y beneficios relativos al Impuesto Sobre Nóminas, solo se aplicarán respecto al número de empleos nuevos generados con motivo del inicio o ampliación de actividades.
+
+En relación a los estímulos y beneficios fiscales de carácter municipal a que se refieren los incisos b), c), d), e) y f) de las fracciones I, II y III del Artículo 9 de esta Ley, únicamente se aplicará sobre los bienes que se encuentren dentro del Municipio donde se vayan a desarrollar las actividades que se inicien o se amplíen y aplicará solo para los bienes en los que se desarrollen o se vayan a desarrollar las actividades del beneficiado con los estímulos fiscales.
+
+> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 6.
 
-Las empresas que tendrán derecho a recibir los estímulos fiscales y beneficios que otorga esta Ley, serán aquéllas que generen por lo menos diez nuevos empleos permanentes por inicio o ampliación de sus actividades o que el monto de la inversión en activos fijos que realicen sea superior al equivalente a cien días de salario mínimo general vigente en el Estado, elevados al año.
+Las empresas que tendrán derecho a recibir los estímulos fiscales y beneficios que otorga esta Ley, serán aquellas que se coloquen en alguno de los siguientes supuestos:
+
+I.- Generen por lo menos diez nuevos empleos permanentes por inicio o ampliación de actividades, incrementen el monto de su inversión en activos fijos en el equivalente a cien o más días de salario mínimo general vigente en el Estado elevado al año, y que el importe total de su capital incluyendo el incremento, rebase doscientos días de Salario Mínimo General vigente en el Estado elevado al año. Para obtener por segunda o sucesivas ocasiones los estímulos que otorga esta Ley, el número de nuevos empleos generados deberá ser de veinte o más, además de cumplir con los otros requisitos establecidos en esta fracción.
+
+II.- Generen más de cien nuevos empleos permanentes por inicio o ampliación de actividades, incrementen el monto de su inversión en activos fijos en el equivalente a doscientos o más días de Salario Mínimo General vigente en el Estado elevado al año, y que el importe total de su capital incluyendo el incremento, rebase los cuatrocientos días de salario mínimo general vigente en el Estado elevados al año. Las empresas que deseen obtener por segunda o sucesivas ocasiones los estímulos fiscales que otorga esta Ley, además de cumplir con los requisitos de generación de nuevos empleos, establecidos en esta fracción, deberán realizar una inversión de por lo menos mil días de Salario mínimo general vigente en el Estado elevado al año.
+
+Para los efectos de este artículo, los empleos ofertados por la solicitante de estímulos fiscales, deberán ser cubiertos por personas que, a la fecha de la contratación correspondiente, tengan una residencia mínima e ininterrumpida de seis meses en el Estado de Baja California Sur, requisito que deberá quedar debidamente acreditado con documento expedido por autoridad competente.
+
+Se otorgarán estímulos fiscales por inicio de actividades a las empresas de nueva creación, siempre que los soliciten dentro de los treinta días naturales siguientes a aquél en que presentaron su solicitud de inscripción al Registro Federal de Contribuyentes.
 
 ###### ARTICULO 7.
 
@@ -147,6 +163,22 @@ VII.- El acreditamiento del monto total de adquisición de los predios donde el 
 
 ###### ARTICULO 8.
 
+A.- Además de los casos previstos para la condonación del impuesto sobre nóminas en el artículo 9 fracciones I. a) II. a) y III. a). de esta Ley, se condonará este impuesto a favor de las empresas nacionales y extranjeras que tengan o establezcan relación laboral con personas discapacitadas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+B.- Para la obtención de la condonación del impuesto sobre nóminas aludido, las empresas deberán acompañar en la primera declaración para pagar este impuesto que se causará en el momento que se realicen las erogaciones por el trabajo personal subordinado del discapacitado, lo siguiente:
+
+I.- Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas discapacitadas, expresando el nombre en cada una de ellas y las condiciones de dicha relación, y
+
+II.- Certificado que acredite la incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o del Sistema para el Desarrollo Integral de la Familia (DIF) tratándose de incapacidades congénitas o de nacimiento.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
 C.- En todas las declaraciones que el contribuyente presente para el pago del impuesto sobre nóminas en la Secretaría de Finanzas, deberá precisar, en relación a los discapacitados, la cantidad de trabajadores por los cuales aplica la condonación, el monto mensual de sus remuneraciones, el importe condonado y el monto del impuesto resultante a pagar, utilizando para el efecto, los espacios preestablecidos en la forma oficial autorizada.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
@@ -162,22 +194,6 @@ E.- Las empresas beneficiadas con este estímulo fiscal, deberán llevar un regi
 D.- Este estímulo fiscal se otorgará directamente por la Secretaría de Finanzas sin mayores requisitos que cumplir con lo señalado en el artículo 8B de la presente Ley.
 
 La Secretaría de Finanzas tendrá la facultad de verificar en cualquier momento la información que le suministren las empresas que se acojan a este estímulo. Las empresas que se encuentren en este supuesto deberán otorgar las facilidades necesarias para la práctica de visitas de inspección.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-###### ARTICULO 8.
-
-A.- Además de los casos previstos para la condonación del impuesto sobre nóminas en el artículo 9 fracciones I. a) II. a) y III. a). de esta Ley, se condonará este impuesto a favor de las empresas nacionales y extranjeras que tengan o establezcan relación laboral con personas discapacitadas.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
-
-###### ARTICULO 8.
-
-B.- Para la obtención de la condonación del impuesto sobre nóminas aludido, las empresas deberán acompañar en la primera declaración para pagar este impuesto que se causará en el momento que se realicen las erogaciones por el trabajo personal subordinado del discapacitado, lo siguiente:
-
-I.- Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas discapacitadas, expresando el nombre en cada una de ellas y las condiciones de dicha relación, y
-
-II.- Certificado que acredite la incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o del Sistema para el Desarrollo Integral de la Familia (DIF) tratándose de incapacidades congénitas o de nacimiento.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -606,3 +622,7 @@ B.O. 31 DE DICIEMBRE DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes adiciones entrarán en vigor y surtirán sus efectos a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 29 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
