@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1985-02-08"
+last_updated: "1989-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -137,6 +137,14 @@ Las personas que celebren operaciones a nombre de la sociedad, antes del registr
 ###### ARTICULO 8°.
 
 En caso de que se omitan los requisitos que señalan las fracciones VIII a XIII, inclusives (sic), del artículo 6°., se aplicarán las disposiciones relativas de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 8-A.
+
+El ejercicio social de las sociedades mercantiles coincidirá con el año de calendario, salvo que las mismas queden legalmente constituidas con posterioridad al 1o. de enero del año que corresponda, en cuyo caso el primer ejercicio se iniciará en la fecha de su constitución y concluirá el 31 de diciembre del mismo año.
+
+En los casos en que una sociedad entre en liquidación o sea fusionada, su ejercicio social terminará anticipadamente en la fecha en que entre en liquidación o se fusione y se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación debiendo coincidir este último con lo que al efecto establece el artículo 11 del Código Fiscal de la Federación.
 
 ###### ARTICULO 9°.
 
@@ -1827,3 +1835,19 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 PRIMERO.- El presente Decreto entrará en vigor 90 días naturales después de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general vigentes, dictadas con anterioridad a la fecha en que entre en vigor este Decreto, seguirán observándose en lo que no se opongan al mismo.
+
+D.O.F. 28 DE DICIEMBRE DE 1989.
+
+DISPOSICION TRANSITORIA
+
+ARTICULO TRIGESIMO SEPTIMO.- Para los efectos de lo dispuesto en el artículo 8o.-A de la Ley General de Sociedades Mercantiles, aquellas sociedades mercantiles que inicien su ejercicio social con posterioridad al 1o. de enero de 1990, lo concluirán el 31 de diciembre de dicho año.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
