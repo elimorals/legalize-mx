@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-contaduria-mayor-de-hacienda-11908"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-15"
-last_updated: "1995-11-15"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1995.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIODICO OFICIAL EL 16 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 15 de septiembre de 1994.
 
@@ -654,3 +656,23 @@ P.O. 15 DE NOVIEMBRE DE 1995.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se abrogan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año 2004, previa su publicación en el Periódico Oficial del Gobierno del Estado, y se aplicará lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda, publicada en el Periódico Oficial del Gobierno del Estado el 15 de septiembre de 1994, así como sus posteriores modificaciones, y se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan a esta Ley.
+
+TERCERO.- Hasta en tanto se designa al Auditor Superior del Estado, conforme al procedimiento previsto en el Capítulo Segundo del Titulo Cuarto de esta Ley, el actual Encargado de Despacho del Órgano Superior de Fiscalización del Estado continuará, con el carácter de interino, como Auditor Superior del Estado, con efectos a partir del día primero de enero de 2004.
+
+CUARTO.- Los equipos, archivos, expedientes, papeles y en general todos los bienes muebles y recursos al servicio del Órgano Superior de Fiscalización del Estado quedarán destinados y afectos a su patrimonio.
+
+Para tal efecto, la Legislatura del Estado, por conducto de su Oficialía Mayor y en coordinación con la Auditoría Superior del Estado, procederá a realizar las transferencias y a formular los inventarios correspondientes, dentro de los quince días siguientes a la entrada en vigor de la presente Ley.
+
+Los recursos asignados en el Presupuesto de Egresos del Estado al Órgano Superior de Fiscalización, para el ejercicio fiscal 2004, serán ministrados por la Secretaría de Hacienda en forma directa a la Auditoría Superior del Estado, la cual los ejercerá a partir del inicio del citado ejercicio fiscal 2004.
+
+Las erogaciones que realice el Órgano Superior de Fiscalización del Estado en lo que resta del ejercicio fiscal 2003, estarán a cargo del Poder Legislativo del Estado, conforme al presupuesto asignado para este ejercicio fiscal.
+
+QUINTO.- Los asuntos que se encuentren en trámite o en proceso en el Órgano Superior de Fiscalización de la Legislatura del Estado a la entrada en vigor de la presente Ley, continuarán tramitándose por dicho Órgano, en lo conducente, en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda a que se refiere el artículo segundo transitorio de esta Ley.
+
+Las referencias a la Contaduría Mayor de Hacienda que se realicen en diversas disposiciones legales, se entenderán hechas, en lo que no contravenga a la presente Ley, a la Auditoría Superior del Estado.
