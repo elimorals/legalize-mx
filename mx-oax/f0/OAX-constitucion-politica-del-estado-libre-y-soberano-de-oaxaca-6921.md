@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1985-03-18"
+last_updated: "1985-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1985.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -79,7 +79,9 @@ I.- Si la detención es resultado de una orden de aprehensión, será puesta a d
 
 II.- En caso de delito infraganti, el detenido será puesto a disposición del ministerio Público, para los efectos concernientes a su investidura, dentro de un plazo de 24 horas.
 
-III.- Si la detención es resultado de infracciones al Reglamento de Policía, serán calificadas de inmediato y, en su caso, sancionadas con multa no mayor de los emolumentos que el indicado (sic) perciba en un día de trabajo o de arresto no mayor de diez días.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 1985)</small>
+
+III.- Si la detención es resultado de infracciones a los reglamentos gubernativos y de Policía, serán calificadas de inmediato y, en su caso, sancionadas con multas no mayor a la retribución que el infractor perciba en un día de trabajo, la cual se permutará por arresto hasta de 36 horas, si no fuere pagada.
 
 IV.- Si al vencer los términos señalados en las fracciones anteriores, el Alcaide o encargado del lugar en que se realice la detención, no ha recibido copia del auto de formal prisión o de la resolución administrativa correspondiente, pondrá en libertad al detenido y lo comunicará a su superior jerárquico para los efectos legales procedentes.
 
@@ -201,13 +203,13 @@ Los Municipios, en los términos de las Leyes Federales y Estatales relativas, e
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos Centros con apego a la Ley Federal de la materia.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1985)</small>
+
 ###### ARTICULO 21.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquel.
 
-Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que jamás excederá de quince días.
-
-Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
+Compete a la Autoridad Administrativa la aplicación de las sanciones por las infracciones a los reglamentos gubernativos y de Policía.
 
 ###### ARTICULO 22.
 
@@ -1922,3 +1924,7 @@ UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 18 DE MARZO DE 1985.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
