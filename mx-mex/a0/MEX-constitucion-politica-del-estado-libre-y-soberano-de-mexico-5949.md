@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1948-09-15"
+last_updated: "1950-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE SEPTIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 1950.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -295,13 +295,13 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 38.
 
 Por cada 100,000 habitantes o fracción mayor de 50,000 se elegirán un Diputado Propietario y un Suplente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 39.
 
@@ -313,7 +313,7 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I. Los ministros de cualquier culto;
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 1942)</small>
 
 II. Los Diputados y Senadores propietarios y suplentes al Congreso de la Unión que estén en ejercicio;
 
@@ -325,7 +325,7 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 1944)</small>
+> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
 
 VI.- El Gobernador, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia y el Director General de Hacienda del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
 
@@ -347,13 +347,13 @@ El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o em
 
 Durante los ocho días a que se refiere el artículo anterior, se tendrán las juntas necesarias para la calificación de credenciales y su aprobación y se elegirán Presidente, Vicepresidente y Secretarios de la Legislatura en los términos que dispongan el mismo Reglamento interior.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 47.
 
 La legislatura se reunirá en sesiones ordinarias una vez al año.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1944)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 1944)</small>
 
 ###### Art. 48.
 
@@ -383,11 +383,11 @@ La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concu
 
 ###### Art. 54.
 
-(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 55.
 
-(DEROGADO, P.O. 9 DE NOVIEMBRE DE 1935)
+(DEROGADO, G.G. 9 DE NOVIEMBRE DE 1935)
 
 ###### Art. 56.
 
@@ -403,11 +403,11 @@ Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto,
 
 #### SECCION SEGUNDA. DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1950)</small>
 
 ###### Art. 44.
 
-La Legislatura se renovará en su totalidad, cada tres años; sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros, pueda prorrogarse más allá de este período de tiempo.
+La Legislatura se renovará en su totalidad cada cuatro años, sin que por ningún motivo el mandato por virtud del cual funcionen sus miembros pueda prorrogarse más allá de este período de tiempo.
 
 ###### Art. 45.
 
@@ -511,13 +511,13 @@ IX. Convocar a elecciones de Gobernador y Diputados en los períodos constitucio
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1945)</small>
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 1945)</small>
 
 XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los casos que determina la presente Constitución.
 
 Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)</small>
 
 XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, de los Jueces de Primera Instancia y del Contador de Glosa, con arreglo a las siguientes fórmulas:
 
@@ -533,15 +533,15 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
 
 XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y Jueces de Primera Instancia, cuando habiendo sido aprobadas previamente por el Ejecutivo, las de los Funcionarios Judiciales, les sean sometidas a su aprobación, y de los funcionarios y empleados que fueren, de su nombramiento.
 
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
+(REFORMADA, G.G. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
 
 XV.- Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
+XVI.- (DEROGADA, G.G. 17 DE OCTUBRE DE 1945)
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -627,7 +627,7 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-VII.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
+VII.- (DEROGADA, G.G. 17 DE OCTUBRE DE 1945)
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -651,9 +651,9 @@ El Gobernador durará en su encargo seis años, y nunca podrá ser reelecto ni e
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1950)</small>
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento, nativo del Estado y con vecindad en él no menor de cinco años inmediatamente anteriores al día de la elección.
+I. Ser mexicano por nacimiento y nativo del Estado, o con vencidad (sci) en él, no menor de cinco años, inmediatamente anteriores al día de la elección;
 
 II. Ser ciudadano del Estado en el pleno goce de sus derechos políticos;
 
@@ -777,7 +777,7 @@ VII. Presentar a la Legislatura, al terminar su período Constitucional, una mem
 
 VIII. Informar a la Legislatura por escrito, o verbalmente por conducto del Secretario de Gobierno o del Oficial Mayor en su caso, sobre cualquier ramo de la Administración, cuando la misma Legislatura lo solicite;
 
-IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa su exacta observancia;
+IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
 X. Formar los reglamentos que juzgue necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
 
@@ -863,11 +863,15 @@ XIII. Conceder licencias para juegos de azar.
 
 Para el despacho de los negocios que la presente Constitución encomienda al Ejecutivo, habrá un Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1950)</small>
 
 ###### Art. 92.
 
-Para ser Secretario General de Gobierno, se requieren los mismos requisitos que para ser Gobernador del Estado.
+Para ser Secretario General de Gobierno, se requiere:
+
+I. Ser originario del Estado, o ciudadano del mismo en el pleno goce de sus derechos;
+
+II. Ser mayor de treinta años.
 
 ###### Art. 93.
 
@@ -1451,7 +1455,7 @@ VII. Los patrones de las empresas a que se refiere la fracción anterior, son re
 
 a. El cónyuge supérstite, no divorciado o separado legalmente, mientras permanezca viudo, percibirá a título de pensión alimenticia, hasta su fallecimiento o por el tiempo de vida probable del trabajador, el veinticinco por ciento del producto del salario de éste;
 
-b. Si concurren cónyuge e hijos legitímos, legitimados o naturales reconocidos, éstos percibirán a título de pensión alimenticia, por todo el tiempo de vida probable del cónyuge finado o hasta llegar a los dieciséis años, la pensión alimenticia estimada como sigue: si fuere un solo hijo menor percibirá el quince por ciento; el veinticinco por ciento si fueren dos, el treinta y cinco por ciento para tres, y el cuarenta por ciento para mayor número, sin perjuicio de la pensión que corresponde al cónyuge supérstite.
+b. Si concurren cónyuge e hijos legítimos, legitimados o naturales reconocidos, éstos percibirán a título de pensión alimenticia, por todo el tiempo de vida probable del cónyuge finado o hasta llegar a los dieciséis años, la pensión alimenticia estimada como sigue: si fuere un solo hijo menor percibirá el quince por ciento; el veinticinco por ciento si fueren dos, el treinta y cinco por ciento para tres, y el cuarenta por ciento para mayor número, sin perjuicio de la pensión que corresponde al cónyuge supérstite.
 
 c. Si sólo existieren hijos menores legítimos, legitimados o naturales reconocidos, la pensión alimenticia, en los términos de la fracción anterior, será de veinte por ciento, si fuere un solo hijo, treinta por ciento si fueren dos, cuarenta por ciento si fueren tres, y cincuenta por ciento si fueren más de tres;
 
@@ -1976,3 +1980,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.G. 15 DE SEPTIEMBRE DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 4 DE ENERO DE 1950.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
