@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "1990-07-26"
+last_updated: "1993-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACION INTERNACIONAL DE FOMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,11 +42,15 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México hará la aportación de México, correspondiente a la Novena Reposición de Capital de la Asociación Internacional de Fomento, hasta por 20'000,000 (Veinte Millones) de Derechos Especiales de Giro (DEG), equivalente a 25'200,000 (Veinticinco Millones Doscientos Mil) dólares de los Estados Unidos de América, al tipo de cambio promedio entre el 1o. de mayo y el 31 de octubre de 1989, la cual se adicionará a las suscripciones anteriores efectuadas por nuestro país, para hacer un total equivalente a 95'289,291 (Noventa y Cinco Millones Doscientos Ochenta y Nueve Mil Doscientos Noventa y Uno) dólares de los Estados Unidos de América, considerados a los distintos tipos de cambio autorizados.
+Se autoriza al Gobierno Federal para que, por conducto del Banco de México, efectúe las siguientes aportaciones a la Asociación Internacional de Fomento, hasta por el equivalente en Derechos Especiales de Giro que a continuación se indican:
+
+a) 5'050,000 (cinco millones cincuenta mil), por concepto de suscripción adicional correspondiente a la Décimo Primera Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país; y
+
+b) 3'000,000 (tres millones), por concepto de participación al Fondo Fiduciario, Provisional para el ejercicio de 1997.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -60,7 +64,7 @@ El Banco de México, S. A. será el depositario en México de las disponibilidad
 
 ###### ARTICULO 5o.
 
-El Gobierno Federal garantizará al Banco de México, S. A. la aportación que éste realice en la Asociación Internacional de Fomento, así como todas las operaciones que el Banco de México, S. A. efectúe con dicho organismo en forma tal, que el Banco de México, S. A. no resienta pérdida alguna con motivo de dicha aportación y operaciones.
+(DEROGADO, D.O.F. 7 DE MAYO DE 1997)
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -153,3 +157,9 @@ D.O.F. 26 DE JULIO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
