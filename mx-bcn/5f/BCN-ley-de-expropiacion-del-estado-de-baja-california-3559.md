@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-del-estado-de-baja-california-3559"
 country: "mx"
 rank: "ley"
 publication_date: "1954-02-28"
-last_updated: "1955-02-28"
+last_updated: "1957-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1957.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 28 de febrero de 1954.
 
@@ -83,9 +83,11 @@ Al Ejecutivo corresponde declarar la utilidad pública, bien sea de oficio o bie
 
 Con la iniciativa se acompañará un proyecto de la obra que se pretenda ejecutar, expresando la utilidad pública que produzca la propiedad o propiedades que deban ocuparse; nombres y domicilios de sus dueños o poseedores, o la circunstancia de ser desconocidos. El Ejecutivo, cuando lo crea conveniente, recabará información, dictámenes u opiniones, a efecto de resolver sobre la pública utilidad; y cuando proceda de oficio a la expropiación, formará el expediente relativo.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1957)</small>
+
 ###### ARTICULO 6o.
 
-El Ejecutivo hará la declaratoria de expropiación respectiva mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial, que se hará no menos de quince días después de la primera.
+El Ejecutivo hará la declaratoria de expropiación respectiva mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el nombre o el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del Acuerdo en el Periódico Oficial, que se hará no menos de quince días después de la primera.
 
 ###### ARTICULO 7o.
 
@@ -186,3 +188,7 @@ LIC. RAFAEL MORENO HENRIQUEZ
 P.O. 28 DE FEBRERO DE 1955.
 
 UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+P.O. 31 DE MARZO DE 1957.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
