@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2001-11-30"
+last_updated: "2003-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1485,9 +1485,9 @@ Artículo 180 Bis IX.- En toda resolución que autorice la separación cautelar 
 
 Artículo 180 Bis X.- En contra de toda resolución que conceda o niegue la medida cautelar de separación de personas o depósito de menores solicitada, procede el recurso de apelación.
 
-### CAPITULO IV
+### CAPITULO III BIS. DE LA INVESTIGACION DE LA FILIACION
 
-DE LAS PROVIDENCIAS PRECAUTORIAS.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 181.
 
@@ -1533,13 +1533,49 @@ Cuando el acreedor se rehusare en el acto de la diligencia a recibir la cosa, co
 
 El depositario que se constituya en estas diligencias será designado por el juez.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO IV
+
+DE LAS PROVIDENCIAS PRECAUTORIAS.
+
+###### Artículo 190 Bis.
+
+Este acto tendrá por objeto preparar la acción correspondiente a la investigación de la filiación a fin de determinar la paternidad o la maternidad, mediante el estudio del ADN, la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de sus células, en la que deberán utilizarse las pruebas de mayor avance científico, en los casos en que determina este Código.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis I.- Quien ejerza la patria potestad, la tutela, o tenga la custodia de un menor, el hijo mayor de edad e incluso el Ministerio Público, podrá solicitar al juez de lo familiar la práctica de la prueba biológica a que se hace referencia en el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis II.- Presentada la solicitud de investigación de la filiación, se resolverá de plano sobre su admisión, ordenándose dar vista a la persona a quien se impute la filiación a fin de que comparezca ante la Autoridad dentro del término de tres días, para que manifieste su aceptación o negativa a dicha imputación. Para el caso de que se omita manifestación alguna por parte de la persona requerida, se entenderá como una negativa de la filiación que se le atribuye.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis III.- En el supuesto de que se acepte la filiación, previa ratificación de la misma ante la Autoridad, se ordenará mediante oficio el levantamiento del acta de reconocimiento ante el Oficial del Registro Civil en los términos de ley, dándose por concluido este acto.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis IV.- En caso de negativa de la filiación, se ordenará la práctica de la prueba biológica respectiva, misma que deberá realizarse ante una institución que haya sido certificada con capacidad para realizar este tipo de pruebas por la Secretaría de Salud del Estado. En el mismo proveído se señalará la fecha para su desahogo, a fin de que se tomen las muestras respectivas, previa citación de las personas que se someterán a dicha prueba, constituyéndose el juez en el lugar señalado para la práctica de la prueba, levantando acta circunstanciada de lo que acontezca. La institución designada tendrá un plazo de treinta días para rendir el dictamen, pudiéndose prorrogar dicho término a solicitud de la misma.
+
+El dictamen remitido a la autoridad judicial versará únicamente sobre los datos relativos a la filiación, conservándose en la confidencialidad los demás datos o características genéticas que pudiera arrojar la misma, a fin de preservar los derechos que en cuanto a su intimidad le asisten a la persona.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis V.- Si la persona que deba practicarse la prueba, no asistiere a la misma o se negare a proporcionar la muestra necesaria, hará presumir la filiación que se le atribuye en los términos del Código Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis VI.- La acción correspondiente deberá intentarse por parte del solicitante dentro del término de treinta días, una vez recibido el dictamen con resultado positivo o generada la presunción de filiación; apercibido de que en caso de no hacerlo así, quedarán sin materia los beneficios obtenidos en este procedimiento.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+
+Artículo 190 Bis VII.- El costo de la prueba biológica será a cargo del padre biológico cuando éste resulte serlo; en caso contrario será a cargo y por cuenta del promovente.
+
 ### CAPITULO V
 
 DE LA SUSPENSION DE LA OBRA NUEVA.
-
-### CAPITULO I
-
-REGLAS GENERALES.
 
 ###### Artículo 191.
 
@@ -1665,9 +1701,9 @@ Aquél contra quien se hubiere decretado un embargo precautorio, que es revocado
 
 En la indemnización a que se refiere el artículo anterior no quedan comprendidas las costas en caso de condenación.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL TERMINO PROBATORIO.
+REGLAS GENERALES.
 
 ###### Artículo 214.
 
@@ -1715,17 +1751,17 @@ La resolución que conceda la autorización para continuar la obra será apelabl
 
 En el mismo auto en que se decrete la suspensión de la obra, el Juez prevendrá al solicitante que dentro del término de tres días promueva su demanda sobre suspensión definitiva y demolición de lo construido; y de no hacerlo, se levantará la suspensión condenándolo al pago de los daños y perjuicios y de una multa hasta de ciento ochenta cuotas, según la importancia de la obra.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA CONFESION.
+DEL TERMINO PROBATORIO.
 
 ## TITULO QUINTO
 
 DE LA PRUEBA.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA PRUEBA INSTRUMENTAL.
+DE LA CONFESION.
 
 ###### Artículo 223.
 
@@ -1835,9 +1871,9 @@ VII.- Fotografías, copias fotostáticas, registros dactiloscópicos, y, en gene
 
 VIII.- Presunciones.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA PRUEBA PERICIAL.
+DE LA PRUEBA INSTRUMENTAL.
 
 ###### Artículo 240.
 
@@ -1951,9 +1987,9 @@ Las diligencias de prueba practicadas en otros juzgados en virtud de requerimien
 
 En los términos y para los efectos del artículo 49, los jueces nunca tendrán limitación temporal en materia de prueba.
 
-### CAPITULO VI
+### CAPITULO V
 
-DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
+DE LA PRUEBA PERICIAL.
 
 ###### Artículo 260.
 
@@ -2093,9 +2129,9 @@ Las autoridades, las corporaciones oficiales y los establecimientos que forman p
 
 En caso de personas que se encuentren imposibilitadas para trasladarse al local del Tribunal en razón de que su edad sea mayor a los setenta años o de padecer una enfermedad legalmente comprobada, el personal autorizado del Tribunal se trasladará al domicilio de aquéllas o al lugar en el que se encuentren a fin de efectuar la diligencia, misma que podrá realizarse en presencia de la otra parte, si asistiere.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DE LA PRUEBA TESTIMONIAL.
+DEL RECONOCIMIENTO O INSPECCION JUDICIAL.
 
 ###### Artículo 287.
 
@@ -2233,9 +2269,9 @@ Los telegramas se tendrán como documentos públicos o privados según que sean 
 
 Si la parte contra quien se produce la prueba negare la autenticidad del telegrama, se procederá a la comprobación, y al efecto, se pedirá el original a la oficina que lo trasmitió, en la que quedará copia del mismo telegrama autorizado por el jefe de dicha oficina.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS Y DEMAS ELEMENTOS.
+DE LA PRUEBA TESTIMONIAL.
 
 ###### Artículo 309.
 
@@ -2351,9 +2387,9 @@ IV.- Si los precios de plaza o de los costos de construcción dieren un resultad
 
 V.- En todo avalúo decidirán los peritos los gastos de conservación, cultivo y reparaciones ordinarias, fijándolos por las constancias que se les suministren, y a falta de ellas, por las reglas de su arte y por las costumbres del lugar.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DE LAS PRESUNCIONES.
+DE LAS FOTOGRAFIAS, COPIAS FOTOSTATICAS Y DEMAS ELEMENTOS.
 
 ###### Artículo 321.
 
@@ -2373,9 +2409,9 @@ Del reconocimiento se levantará un acta que firmarán todos los que a él concu
 
 Cuando fuere necesario se levantarán planos, se marcarán las señas de los objetos que hayan sido reconocidos y se tomarán fotografías o videograbaciones de los lugares en que se practique la diligencia, a solicitud de parte o a juicio del Juez.
 
-### CAPITULO X
+### CAPITULO IX
 
-DEL VALOR DE LAS PRUEBAS.
+DE LAS PRESUNCIONES.
 
 ###### Artículo 324.
 
@@ -2533,11 +2569,9 @@ Cada uno de los litigantes puede presentar hasta cinco testigos, y el juez podr�
 
 El juez tendrá cuidado de calificar los interrogatorios en los términos de este Capítulo y contra sus decisiones a este respecto, no habrá recurso alguno.
 
-### CAPITULO XI
+### CAPITULO X
 
-DE LAS TACHAS.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+DEL VALOR DE LAS PRUEBAS.
 
 ###### Artículo 352.
 
@@ -2557,9 +2591,11 @@ La parte que presente esos medios de prueba deberá ministrar al tribunal los ap
 
 Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
-### CAPITULO UNICO
+### CAPITULO XI
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+DE LAS TACHAS.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 355.
 
@@ -2581,9 +2617,9 @@ No se admite prueba contra la presunción legal cuando la ley lo prohibe expresa
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-REGLAS GENERALES.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 360.
 
@@ -2745,9 +2781,9 @@ La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a
 
 No tendrán ningún valor legal las pruebas rendidas con infracción de lo dispuesto en los capítulos anteriores de este título.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA SENTENCIA EJECUTORIADA.
+REGLAS GENERALES.
 
 ###### Artículo 389.
 
@@ -2793,9 +2829,9 @@ El incidente de tachas suspende el término para dictar sentencia definitiva.
 
 DE LOS ALEGATOS.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LA ACLARACION.
+DE LA SENTENCIA EJECUTORIADA.
 
 ###### Artículo 398.
 
@@ -2811,9 +2847,9 @@ Pasado el término a que se refiere el artículo anterior el juez dictará su se
 
 DE LAS SENTENCIAS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA REVOCACION.
+DE LA ACLARACION.
 
 ###### Artículo 400.
 
@@ -2849,9 +2885,9 @@ III.- A continuación, bajo la palabra CONSIDERANDO, consignará clara y concisa
 
 IV.- Pronunciará, por último, la parte resolutiva en los términos prevenidos en los artículos anteriores haciéndose la correspondiente declaración sobre costas.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA APELACION.
+DE LA REVOCACION.
 
 ###### Artículo 406.
 
@@ -2889,11 +2925,9 @@ No será necesario hacer declaración alguna para que las resoluciones causen ej
 
 DE LOS RECURSOS.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA DENEGADA APELACION.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+DE LA APELACION.
 
 ###### Artículo 410.
 
@@ -2935,9 +2969,9 @@ Siempre que los jueces o tribunales resuelvan que no procede la aclaración que 
 
 La interposición del recurso de aclaración no interrumpe el término señalado para hacer uso del recurso de apelación.
 
-### CAPITULO I
+### CAPITULO IV
 
-DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
+DE LA DENEGADA APELACION.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -2957,9 +2991,11 @@ La promoción se hará saber a las otras partes para que dentro de tres días co
 
 Contra el auto en que se decida si se concede o no la revocación no se admitirá recurso alguno.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
+DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 423.
 
@@ -3133,9 +3169,9 @@ Todas las notificaciones de la segunda instancia, se harán en la forma que prev
 
 La revisión de las sentencias recaídas en los casos y procedimientos señalados en el artículo 956 de este Código y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia con intervención del Ministerio Público. Y aunque las partes no expresaren agravios, la Sala de lo Familiar examinará la legalidad de la sentencia de primera instancia, observándose en lo conducente las formalidades previstas por el artículo 446 de este Código, quedando entre tanto sin ejecutarse aquélla.
 
-### CAPITULO I
+### CAPITULO II
 
-DEL SECUESTRO JUDICIAL.
+DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNALES DE LOS ESTADOS Y DEL EXTRANJERO.
 
 ###### Artículo 453.
 
@@ -3177,9 +3213,9 @@ Si la denegada apelación se declara improcedente, el Tribunal impondrá a la pa
 
 DE LA EJECUCION DE LAS SENTENCIAS.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LOS REMATES.
+DEL SECUESTRO JUDICIAL.
 
 ###### Artículo 459.
 
@@ -3325,9 +3361,9 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LOS INCIDENTES EN GENERAL.
+DE LOS REMATES.
 
 ###### Artículo 486.
 
@@ -3397,9 +3433,9 @@ Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la
 
 DEL SECUESTRO Y DE LOS REMATES.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LA ACUMULACION DE AUTOS.
+DE LOS INCIDENTES EN GENERAL.
 
 ###### Artículo 496.
 
@@ -3651,7 +3687,9 @@ Lo dispuesto en este capítulo, es aplicable a todos los casos de secuestro judi
 
 Todos los incidentes relativos al depósito, se substanciará por cuerda separada.
 
-### CAPITULO UNICO
+### CAPITULO II
+
+DE LA ACUMULACION DE AUTOS.
 
 ###### Artículo 527.
 
@@ -3867,8 +3905,6 @@ DE LOS INCIDENTES.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
-
 ###### Artículo 561.
 
 Todas las cuestiones incidentales relacionadas con un litigio o con cualquiera diligencia de otro orden que surjan durante su tramitación, se substanciarán por cuerda separada y conforme a las reglas de este Capítulo, salvo los casos en que este Código disponga expresamente lo contrario.
@@ -3913,9 +3949,9 @@ La sentencia de los incidentes será apelable en los casos en que lo fuere la se
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
-### CAPITULO UNICO.
+### CAPITULO UNICO
 
-REGLAS GENERALES PARA TODOS LOS JUICIOS.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 568.
 
@@ -4019,9 +4055,9 @@ Cuando se acumulen los autos, se suspenderá el curso del juicio que estuviere m
 
 DE LAS TERCERIAS.
 
-### CAPITULO I
+### CAPITULO UNICO.
 
-DEL JUICIO ORDINARIO.
+REGLAS GENERALES PARA TODOS LOS JUICIOS.
 
 ###### Artículo 584.
 
@@ -4125,9 +4161,9 @@ Los impedimentos del juez en una tercería, ya en razón de competencia o por cu
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL JUICIO EJECUTIVO.
+DEL JUICIO ORDINARIO.
 
 ###### Artículo 603.
 
@@ -4181,9 +4217,9 @@ DE LA JURISDICCION CONTENCIOSA.
 
 ## TITULO PRIMERO
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTERDICTOS.
+DEL JUICIO EJECUTIVO.
 
 ###### Artículo 612.
 
@@ -4371,9 +4407,9 @@ La reconvención y la compensación, lo mismo que las excepciones opuestas con e
 
 DE LOS JUICIOS.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INTERDICTO DE OBRA PELIGROSA.
+DE LOS INTERDICTOS.
 
 ###### Artículo 638.
 
@@ -4409,57 +4445,9 @@ Respecto al término extraordinario de prueba se observará lo dispuesto en los 
 
 Las partes alegarán, de buena prueba en los términos a que se refieren los artículos 398 y 399 y se dictará la sentencia que corresponda dentro del término legal.
 
-### CAPITULO IV BIS
+### CAPITULO IV
 
-CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS.- Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
-
-I.- Las controversias que versen sobre la custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, o cuando tenga el hábito de embriagarse o el uso indebido y persistente de drogas enervantes, que amenace causar la ruina de los hijos;
-
-II.- Las controversias respecto de la convivencia entre los padres en relación con sus hijos o entre éstos y aquéllos mientras estén sujetos a la patria potestad;
-
-III.- Las controversias que versen sobre los derechos de posesión de estado de padre o de hijo a que se refiere el Artículo 353 del Código Civil en vigor.
-
-Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente en aquellos en que dicha cuestión hubiere sido motivo de sentencia ejecutoria.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS I.- La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en los artículos 612 y 614 de este Código.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS II.- Presentada la demanda en los términos que se expresan en el artículo anterior se correrá traslado de ella por el término de tres días para que se conteste.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS III.- Transcurrido el período de emplazamiento dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
-
-La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el Juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
-
-Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la demanda o en la contestación, respectivamente, mencionando los nombres y apellidos de los testigos exhibiendo copia de los interrogatorios al tenor de los cuales deberán ser examinados los testigos. El Juez ordenará que se entregue una copia a la contraria, para que pueda formular por escrito o hacer verbalmente las preguntas, al celebrarse la audiencia.
-
-La sentencia se pronunciará dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS IV.- En los supuestos de las fracciones I y III del Artículo 723 bis, la sentencia que declare procedente la acción, mandará amparar o restituir la custodia o posesión, dictando los apercibimientos y providencias oportunas.
-
-En el supuesto de la fracción II del Artículo 723 bis, en la sentencia, el Juez señalará los días y horas para la convivencia entre padres e hijos, dictando los apercibimientos y providencias necesarias para su cumplimiento.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS V.- La sentencia que se dicte en los asuntos a que se refieren las fracciones I y II del artículo 723 bis, podrán modificarse cuando cambien las circunstancias que afectan el ejercicio de la acción que se dedujo, observándose para ello la vía incidental.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS VI.- La sentencia que se emita será apelable en el efecto devolutivo.
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
-
-Artículo 723 BIS VII.- La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se dicte la sentencia ejecutoria.
+DEL INTERDICTO DE OBRA PELIGROSA.
 
 #### SECCION PRIMERA. DE LOS TITULOS QUE MOTIVAN EJECUCION Y DE LOS
 
@@ -4713,11 +4701,57 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declare infundada la oposición, el opositor será condenado en las costas y al pago de una multa equivalente al cinco por ciento sobre el interés del pleito, cuya multa se aplicará por mitad, al acreedor y al Fisco del Estado.
 
-### CAPITULO V
+### CAPITULO IV BIS
 
-DEL JUICIO SUMARIO DE ALIMENTOS.
+CONTROVERSIAS SOBRE CONVIVENCIA Y POSESION INTERINA DE MENORES.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS.- Se tramitarán conforme a las reglas de este Capítulo, los juicios que tengan por objeto:
+
+I.- Las controversias que versen sobre la custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto cuando haya menores de siete años, éstos siempre deberán permanecer al lado de la madre, salvo que ésta realice actos inmorales que tiendan a su corrupción, o cuando tenga el hábito de embriagarse o el uso indebido y persistente de drogas enervantes, que amenace causar la ruina de los hijos;
+
+II.- Las controversias respecto de la convivencia entre los padres en relación con sus hijos o entre éstos y aquéllos mientras estén sujetos a la patria potestad;
+
+III.- Las controversias que versen sobre los derechos de posesión de estado de padre o de hijo a que se refiere el Artículo 353 del Código Civil en vigor.
+
+Están legitimados para acudir en esta vía las personas que ejercen la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente en aquellos en que dicha cuestión hubiere sido motivo de sentencia ejecutoria.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS I.- La demanda en que se ejercite cualquier acción de las previstas en el artículo que antecede, reunirá los requisitos señalados en los artículos 612 y 614 de este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS II.- Presentada la demanda en los términos que se expresan en el artículo anterior se correrá traslado de ella por el término de tres días para que se conteste.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS III.- Transcurrido el período de emplazamiento dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+La prueba documental podrá presentarse con anterioridad, sin perjuicio de que el Juez haga relación de ella en la audiencia y la tenga por recibida en ese acto, aunque no exista gestión expresa del interesado.
+
+Cuando las partes tengan que rendir prueba testimonial deberán anunciarla en la demanda o en la contestación, respectivamente, mencionando los nombres y apellidos de los testigos exhibiendo copia de los interrogatorios al tenor de los cuales deberán ser examinados los testigos. El Juez ordenará que se entregue una copia a la contraria, para que pueda formular por escrito o hacer verbalmente las preguntas, al celebrarse la audiencia.
+
+La sentencia se pronunciará dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS IV.- En los supuestos de las fracciones I y III del Artículo 723 bis, la sentencia que declare procedente la acción, mandará amparar o restituir la custodia o posesión, dictando los apercibimientos y providencias oportunas.
+
+En el supuesto de la fracción II del Artículo 723 bis, en la sentencia, el Juez señalará los días y horas para la convivencia entre padres e hijos, dictando los apercibimientos y providencias necesarias para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS V.- La sentencia que se dicte en los asuntos a que se refieren las fracciones I y II del artículo 723 bis, podrán modificarse cuando cambien las circunstancias que afectan el ejercicio de la acción que se dedujo, observándose para ello la vía incidental.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS VI.- La sentencia que se emita será apelable en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1997)</small>
+
+Artículo 723 BIS VII.- La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se dicte la sentencia ejecutoria.
 
 ###### Artículo 692.
 
@@ -4807,47 +4841,11 @@ Sea cual fuere la sentencia, contendrá siempre la expresión de que se dicta re
 
 Los documentos que se hubieren presentado en juicio deben devolverse a las partes, quedanlo (sic) en autos razón pormenorizada de ellos.
 
-### CAPÍTULO V BIS
+### CAPITULO V
 
-JUICIO ESPECIAL SOBRE PÉRDIDA DE LA PATRIA POTESTAD.
+DEL JUICIO SUMARIO DE ALIMENTOS.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS.- Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores acogidos por una Institución pública de Asistencia Social para el efecto de que se decrete la pérdida de la patria potestad, en los casos previstos por el artículo 444 fracciones II, III y IV del Código Civil, correspondiendo la acción al Ministerio Público.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS I. - Admitida que sea la demanda, se correrá traslado de ella a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 414 del Código Civil a fin de que en el plazo de cinco días produzcan su contestación.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS II.- Las notificaciones se ajustarán a lo dispuesto por el capítulo V del Título Primero del Libro Primero de este Código, y en caso de que se haga mediante edictos, éstos deberán ser publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tengan mayor circulación, a juicio del juez; publicación que igualmente se hará en el Boletín Judicial. La notificación así hecha surtirá sus efectos a los tres días siguientes al de la última publicación.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS III.- Todas las excepciones deberán hacerse valer en la contestación.
-
-Los incidentes no suspenderán el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
-
-Si la parte demandada no formula su contestación, se le tendrá por contestando en sentido negativo.
-
-En este juicio no es admisible la reconvención.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS IV.- Transcurrido el período de emplazamiento, dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
-
-Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
-
-Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
-
-Desahogadas las pruebas y concluida la fase de alegatos, la sentencia se dictará dentro de los cinco días siguientes.
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
-
-Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### Artículo 712.
 
@@ -4909,15 +4907,51 @@ En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio P
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 1997)</small>
 
+### CAPÍTULO V BIS
+
+JUICIO ESPECIAL SOBRE PÉRDIDA DE LA PATRIA POTESTAD.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS.- Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores acogidos por una Institución pública de Asistencia Social para el efecto de que se decrete la pérdida de la patria potestad, en los casos previstos por el artículo 444 fracciones II, III y IV del Código Civil, correspondiendo la acción al Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS I. - Admitida que sea la demanda, se correrá traslado de ella a quienes ejerzan la patria potestad y a las personas a que se refiere el artículo 414 del Código Civil a fin de que en el plazo de cinco días produzcan su contestación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS II.- Las notificaciones se ajustarán a lo dispuesto por el capítulo V del Título Primero del Libro Primero de este Código, y en caso de que se haga mediante edictos, éstos deberán ser publicados por tres veces consecutivas en el Periódico Oficial y en algún periódico de los que tengan mayor circulación, a juicio del juez; publicación que igualmente se hará en el Boletín Judicial. La notificación así hecha surtirá sus efectos a los tres días siguientes al de la última publicación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS III.- Todas las excepciones deberán hacerse valer en la contestación.
+
+Los incidentes no suspenderán el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+Si la parte demandada no formula su contestación, se le tendrá por contestando en sentido negativo.
+
+En este juicio no es admisible la reconvención.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS IV.- Transcurrido el período de emplazamiento, dentro de los tres días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+
+Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días.
+
+Desahogadas las pruebas y concluida la fase de alegatos, la sentencia se dictará dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1992)</small>
+
 ### CAPITULO V I. DEL PROCEDIMIENTO ESPECIAL DE LAS CUESTIONES DE ARRENDAMIENTO
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
-
-### CAPITULO VII
-
-DEL JUICIO DE MENOR CUANTIA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 724.
 
@@ -4997,13 +5031,15 @@ De este juicio solo conocerán los Jueces de lo Familiar. En donde no los haya, 
 
 > <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 1999)</small>
 
+### CAPITULO VII
+
+DEL JUICIO DE MENOR CUANTIA.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO I
 
 REGLAS GENERALES.
-
-### CAPITULO II
-
-DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
 
 ###### Artículo 733.
 
@@ -5079,9 +5115,9 @@ La impugnación contra las demás resoluciones que se dicten durante el procedim
 
 En todo lo aquí no previsto, se estará a las reglas de este Código, en cuanto no se opongan a lo dispuesto en el presente Capítulo.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ADMINISTRACION DEL CONCURSO.
+DE LA RECTIFICACION Y GRADUACION DE CREDITOS.
 
 ###### Artículo 743.
 
@@ -5133,9 +5169,9 @@ DE LA JURISDICCION MIXTA.
 
 DE LOS CONCURSOS.
 
-### CAPITULO IV
+### CAPITULO III
 
-REGLAS COMUNES DEL DEUDOR.
+DE LA ADMINISTRACION DEL CONCURSO.
 
 ###### Artículo 749.
 
@@ -5193,9 +5229,9 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas. Si no lo presentare lo hará el síndico.
 
-### CAPITULO I
+### CAPITULO IV
 
-REGLAS GENERALES.
+REGLAS COMUNES DEL DEUDOR.
 
 ###### Artículo 755.
 
@@ -5287,9 +5323,9 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS TESTAMENTARIAS.
+REGLAS GENERALES.
 
 ###### Artículo 771.
 
@@ -5331,9 +5367,9 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido mediante los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 773.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS INTESTADOS.
+DE LAS TESTAMENTARIAS.
 
 ###### Artículo 778.
 
@@ -5345,9 +5381,9 @@ Es también parte y podrá intervenir personalmente en las cuestiones relativas 
 
 JUICIOS SUCESORIOS.
 
-### CAPITULO IV
+### CAPITULO III
 
-DEL INVENTARIO Y AVALUO.
+DE LOS INTESTADOS.
 
 ###### Artículo 779.
 
@@ -5543,9 +5579,9 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formulación.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LA ADMINISTRACION.
+DEL INVENTARIO Y AVALUO.
 
 ###### Artículo 808.
 
@@ -5589,9 +5625,9 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevista por el artículo 808 podrán los herederos nombrar interventor conforme a la facultad que les concede al artículo 1625 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1628 del mismo Código.
 
-### CAPITULO VI
+### CAPITULO V
 
-DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
+DE LA ADMINISTRACION.
 
 ###### Artículo 817.
 
@@ -5633,9 +5669,9 @@ En la misma sentencia resolverá quien es el albacea que será nombrado por el j
 
 La sentencia a que se refifere (sic) el artículo anterior será apelable en ambos efectos y la de segunda instancia causará ejecutoria para los que hubieren sido parte en el juicio.
 
-### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
+### CAPITULO VI
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
+DE LA LIQUIDACION Y PARTICION DE LA HERENCIA.
 
 ###### Artículo 825.
 
@@ -5717,9 +5753,9 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 (DEROGADO, P.0. 21 DE JULIO DE 1997)
 
-### CAPITULO VII
+### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
 
-DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 841.
 
@@ -5827,9 +5863,9 @@ El auto que aprueba o reprueba la cuenta es apelable en ambos efectos.
 
 Concluído y aprobado el inventario el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA TRAMITACION POR NOTARIOS.
+DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 863.
 
@@ -5963,9 +5999,9 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL TESTAMENTO PUBLICO CERRADO.
+DE LA TRAMITACION POR NOTARIOS.
 
 ###### Artículo 879 Bis.
 
@@ -6005,9 +6041,9 @@ La resolución que decida la oposición será apelable en ambos efectos.
 
 Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeción a lo previsto en los párrafos anteriores.
 
-### CAPITULO X
+### CAPITULO IX
 
-DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
+DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 880.
 
@@ -6029,9 +6065,9 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- Tratándose de la sucesión del patrimonio familiar, formado con los bienes a que se refiere el Artículo 734 del Código Civil del Estado, con la certificación de la defunción del autor de la herencia se acompañará el título que acredita la constitución del patrimonio de familia; y el Juez, de Oficio y sin más trámites que oír el parecer del Ministerio Público, dictará resolución en la que reconozca la calidad al heredero designado en la cláusula testamentaria y decrete la adjudicación en su favor de los bienes materia del patrimonio de familia. Dicha resolución servirá de título de propiedad al heredero y adjudicatario testamentario, ordenándose por la propia Autoridad Judicial su inscripción en el Registro Público de la Propiedad con las anotaciones que correspondan en el Título antecedente, todo lo cual se deberá efectuar en un plazo que nunca exceda de treinta días.
 
-### CAPITULO XI
+### CAPITULO X
 
-DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
+DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
 
 ###### Artículo 881.
 
@@ -6071,9 +6107,9 @@ IV.- De ser procedente, el notario redactará el instrumento en el que se relaci
 
 V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar a su vez un testamento público simplificado en los términos del artículo 1446 bis del código civil del Estado.
 
-### CAPITULO XII
+### CAPITULO XI
 
-DEL TESTAMENTO MILITAR.
+DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
 
 ###### Artículo 886.
 
@@ -6093,9 +6129,9 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1391 y 1393 del Código Civil.
 
-### CAPITULO XIII
+### CAPITULO XII
 
-DEL TESTAMENTO MARITIMO.
+DEL TESTAMENTO MILITAR.
 
 ###### Artículo 890.
 
@@ -6109,9 +6145,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1458 
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO XIV
+### CAPITULO XIII
 
-EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
+DEL TESTAMENTO MARITIMO.
 
 ###### Artículo 893.
 
@@ -6139,9 +6175,9 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1572 d
 
 De la resolución que niegue la declaración solicitada puede apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO I
+### CAPITULO XIV
 
-DISPOSICIONES GENERALES.
+EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 897.
 
@@ -6153,17 +6189,17 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
+DISPOSICIONES GENERALES.
 
 ###### Artículo 899.
 
 Hechas las publicaciones que ordena el artículo 1487 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a éste que lo envíe.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
 
 ###### Artículo 900.
 
@@ -6179,11 +6215,9 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA ADOPCION.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
 ###### Artículo 902.
 
@@ -6245,11 +6279,11 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 
 Los actos de jurisdicción voluntaria a que haga mención este Código, se sujetarán a lo dispuesto en este Capítulo.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS INFORMACIONES AD-PERPETUAM.
+DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 914.
 
@@ -6369,9 +6403,11 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
-### CAPITULO VI
+### CAPITULO V
 
-APEO Y DESLINDE.
+DE LAS INFORMACIONES AD-PERPETUAM.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 927.
 
@@ -6429,9 +6465,9 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
+APEO Y DESLINDE.
 
 ###### Artículo 935.
 
@@ -6485,11 +6521,9 @@ Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en 
 
 La impugnación de la adopción y su revocación, en los casos de los artículos 401 y 405 fracciones II y III del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
 
 ###### Artículo 939.
 
@@ -6545,11 +6579,11 @@ Las informaciones se protocolizarán ante el Notario que designe el promovente, 
 
 En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
 
-### CAPITULO I
+### CAPITULO UNICO
 
-DISPOSICIONES GENERALES.
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 944.
 
@@ -6607,9 +6641,9 @@ Los puntos respecto de los cuales hubiere oposición, no quedarán deslindados n
 
 Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designan y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL ACUERDO DE ARBITRAJE.
+DISPOSICIONES GENERALES.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6639,9 +6673,9 @@ DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 
 > <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
-### CAPITULO III
+### CAPITULO II
 
-COMPOSICION DEL TRIBUNAL ARBITRAL.
+DEL ACUERDO DE ARBITRAJE.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6721,9 +6755,9 @@ DEL ARBITRAJE.
 
 > <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
+COMPOSICION DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6747,9 +6781,9 @@ Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
+DE LA COMPETENCIA DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6803,9 +6837,9 @@ Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
+DE LAS ACTUACIONES DEL TRIBUNAL ARBITRAL.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -6867,11 +6901,11 @@ Los honorarios, gastos de funcionamiento y costas de los árbitros serán fijado
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VII
+### CAPITULO VI
 
-IMPUGNACION DEL LAUDO.
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 971.
 
@@ -6883,11 +6917,11 @@ El árbitro o árbitros podrán decidir las excepciones a que se hace referencia
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
-### CAPITULO VIII
+### CAPITULO VII
 
-RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+IMPUGNACION DEL LAUDO.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 972.
 
@@ -6924,6 +6958,12 @@ V.- En las actuaciones arbitrales en que hubiera más de un árbitro toda decisi
 Si durante las actuaciones arbitrales las partes llegaren a una transacción que resuelva la controversia, el árbitro dará por terminadas las actuaciones y si lo piden ambas partes, hará constar la transacción en forma de laudo arbitral en los términos que hayan convenido.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
+### CAPITULO VIII
+
+RECONOCIMIENTO Y EJECUCION DE LOS LAUDOS.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Artículo 975.
 
@@ -7339,7 +7379,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7562,3 +7602,7 @@ P.O. 30 DE NOVIEMBRE DE 2001.
 ###### ARTÍCULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
