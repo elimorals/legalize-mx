@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1996-02-09"
+last_updated: "1996-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4057,7 +4057,7 @@ Si se declare infundada la oposición, el opositor será condenado en las costas
 
 DEL JUICIO DE MENOR CUANTIA.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 692.
 
@@ -4377,7 +4377,7 @@ DE LAS TESTAMENTARIAS.
 
 Serán objeto del juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de quinientas cincuenta cuotas de salario mínimo general.
+I.- Los negocios cuyo interés no exceda de ochocientas cincuenta cuotas de salario mínimo general.
 
 II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, cuyo monto anual no exceda de quinientas cincuenta cuotas de salario mínimo general.
 
@@ -6700,3 +6700,17 @@ P.O. 9 DE FEBRERO DE 1996.
 DECRETO NUM. 158, QUE SE REFORMA LOS ARTICULOS 461 Y 462, Y SE ADICIONA UN LIBRO SEXTO, A DENOMINARSE "DEL ARBITRAJE", CON UN TITULO UNICO, CAPITULOS I A VIII, QUE COMPRENDEN LOS ARTICULOS 958 A 988.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+###### ARTICULO TERCERO
+
+- Los asuntos que se encuentren en trámite al entrar en vigor este decreto, seguirán siendo competencia de los órganos jurisdiccionales que estén conociendo de los mismos hasta su conclusión.
