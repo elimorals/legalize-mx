@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2002-07-30"
+last_updated: "2003-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2003.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -852,13 +852,13 @@ c) (DEROGADO, D.O.F. 30 DE JULIO DE 2002)
 
 De igual manera coordinará la operación de la Escuela de Enfermería.
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XIII.- Planear, organizar, normar, coordinar y controlar, la conservación, mantenimiento y equipamiento de las unidades médicas pertenecientes al Instituto, estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+XIII.- Planear, organizar, normar, coordinar y controlar, la conservación, mantenimiento del equipo médico y electrónicamente de las Unidades Médicas a nivel nacional, y de los Inmuebles pertenecientes al Instituto ubicados en el Distrito Federal, de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XIV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los bienes que integran la infraestructura médica del Instituto;
+XIV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los equipos médicos y electromecánicos a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal;
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -868,11 +868,13 @@ XV.- Realizar y mantener actualizado el registro general de los bienes que const
 
 XVI.- Establecer las normas y especificaciones técnicas para la operación de las unidades médicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
 
-(ADICIONADA, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XVII.- Programar, convocar y celebrar las licitaciones y/o concursos, que tengan por objeto la adquisición de medicamentos, materiales de curación, equipo e instrumental médico, así como la conservación y mantenimiento de áreas médicas, e intervenir en los contratos o convenios respectivos.
+XVII.- Programar, convocar y celebrar las licitaciones y/o concursos, que tengan por objeto la adquisición de medicamentos, materiales de curación, equipo e instrumental médico, y la conservación y mantenimiento de los equipos médicos y electromecánicos de las Unidades Médicas a nivel nacional y de los inmuebles pertenecientes al Instituto ubicados en el Distrito Federal.
 
-Llevar a cabo la evaluación y programación del proceso de abasto de estos insumos y efectuar la explotación de la información relacionada con este tipo de adquisiciones, y
+> <small>(F. DE E., D.O.F. 16 DE JUNIO DE 2003)</small>
+
+Suscribir los contratos y/o convenios respectivos, y aplicar las sanciones económicas que en derecho procedan con base en la legislación aplicable, y
 
 XVIII.- Las demás que señalen otras disposiciones aplicables.
 
@@ -1220,55 +1222,63 @@ II.- Coordinar y controlar el diseño y registro de las estructuras de organizac
 
 III.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido a favor de los trabajadores del Instituto;
 
-IV.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de informática;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-V.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
+IV.- Planear, organizar, normar, coordinar y controlar sistemas institucionales de tecnología de la información;
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
+
+V.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos tecnología (sic) de la información;
 
 VI.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
 
-VII.- Planear, organizar, normar, coordinar y controlar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+VII.- Planear, organizar, normar y coordinar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
-VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y la contratación de servicios, en los contratos o convenios de suministros respectivos, excepto en los casos a que se refiere la fracción XVII del artículo 45 de este Estatuto.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-(ADICIONADO, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+VIII.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará la prestación de los servicios generales requeridos para su operación y funcionamiento.
 
-Llevar a cabo la evaluación y programación del proceso del abasto de estos insumos y efectuar la explotación de la información relacionada con este tipo de adquisiciones;
+Programar y llevar a cabo los procedimientos de contratación relativos a la adquisición o arrendamiento de bienes muebles y la prestación de servicios generales, celebrar los contratos y convenios respectivos conforme a la normatividad establecida, excepto en los casos a que se refiere la fracción XVII del Artículo 45 de este Estatuto, así como aplicar las sanciones económicas que, en su caso, procedan con base en la legislación aplicable.
 
-IX.- Normar, coordinar y evaluar la operación de los almacenes regionales; almacenar, custodiar y proporcionar a los diversos centros de trabajo y unidades médicas del Instituto, los bienes, servicios e insumos médicos que requieran para su funcionamiento, así como establecer el control de inventarios, conforme a las disposiciones relativas;
+Llevar a cabo la programación y evaluación del proceso de abasto de estos insumos;
 
-X.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazos de los mismos;
+IX.- Normar, coordinar y evaluar la operación de los almacenes regionales, delegacionales y de los hospitales regionales; almacenar, custodiar y distribuir, en coordinación con los almacenes delegacionales, a los diversos centros de trabajo del Instituto, los insumos médicos conforme lo determine la Subdirección General Médica, y los demás bienes de consumo inversión, de acuerdo a lo que establezca el área requirente, así como establecer el control de inventarios, conforme a las disposiciones relativas;
 
-XII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2002)</small>
+X.- Elaborar con base en la información que proporcionen las áreas del Instituto, su programa anual de adquisiciones, obra, arrendamientos y servicios, de conformidad con las disposiciones legales aplicables;
 
-De igual manera expedir las normas para el control del inventario de los bienes inmuebles propiedad del Instituto en coordinación con la Subdirección General Jurídica.
+XI.- (DEROGADA, D.O.F. 16 DE MAYO DE 2003)
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
+
+XII.- Normar y coordinar las acciones relativas al control del inventario de los bienes muebles que integran el activo fijo del Instituto;
 
 XIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XIV.- Planear, organizar, normar, coordinar y controlar el diseño, construcción, conservación, mantenimiento y equipamiento de las unidades físicas, pertenecientes al Instituto; estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+XIV.- Planear, programar, organizar y coordinar la obra pública y los servicios relacionados con la misma de las unidades pertenecientes al Instituto y vigilar que las obras se realicen de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y el equilibrio ecológico;
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
 XV.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
 
-(ADICIONADA, D.O.F. 30 DE JULIO DE 2002) (F. DE E., D.O.F. 30 DE AGOSTO DE 2002)
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XVI.- Programar, convocar y celebrar las licitaciones o concursos que tengan por objeto la adjudicación de contratos de obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, excepto los de las áreas médicas, con base en la legislación aplicable;
+XVI.- Programar, convocar y celebrar las licitaciones públicas que tengan por objeto la adjudicación de contratos de obra pública y servicios relacionados con la misma, con base en la legislación aplicable;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XVII.- Formular y ejecutar los programas de inversión en construcción de obras y reserva territorial del Instituto, de conformidad con las disposiciones legales aplicables;
+XVII.- Elaborar con base en la información que proporcionan las áreas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas de conformidad con las disposiciones legales aplicables y registrar su avance;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2003)</small>
 
-XVIII.- Realizar estudios, programar y llevar a cabo los trámites para la adquisición de terrenos y bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables;
+XVIII.- Coadyuvar con la Subdirección General Jurídica en la expedición de lineamientos, en relación con la elaboración del dictamen de factibilidad inmobiliaria, en lo relacionado con los aspectos técnicos para la adquisición y arrendamiento de bienes inmuebles, que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables; y elaborar en su caso, los dictámenes técnicos que le sean solicitados;
 
 > <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 2002)</small>
 
@@ -2087,3 +2097,7 @@ SEGUNDO.- En su oportunidad, inscríbanse las presentes adecuaciones en el Regis
 TERCERO.- Los manuales de organización y de procedimientos a que se refiere el presente Acuerdo, deberán expedirse en un plazo que no excederá de 180 días naturales, a partir de la publicación del mismo en el Diario Oficial de la Federación.
 
 CUARTO.- Se deroga el acuerdo 28.1271.2002, de fecha 21 de febrero del año 2002, en lo que se oponga al presente Acuerdo.
+
+D.O.F. 16 DE MAYO DE 2003.
+
+Artículo Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
