@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1926-12-05"
+last_updated: "1926-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1926.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1926.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -493,7 +493,9 @@ XV. Facultar al Ejecutivo para la creación y organización de cuerpos Rurales o
 
 XVI. Conceder en sesión ordinaria o extraordinaria indulto a los reos de la competencia de los Tribunales del Estado.
 
-XVII. Recibir al Gobernador del Estado, a los Magistrador (sic) Propietarios y supernumerarios del Tribunal, a los Defensores de Oficio y a los Jueces de Primera Instancia, la protesta de ley.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+XVII. Recibir al Gobernador del Estado y a los Magistrados Propietarios y Supernumerarios del Tribunal la Protesta de Ley.
 
 XVIII. Prorrogar hasta por un mes cualquiera de los períodos ordinarios de sesiones.
 
@@ -501,7 +503,9 @@ XIX. Expedir la Ley Orgánica de los Municipios y sus Leyes de Arbitrios, confor
 
 XX. Convocar a elecciones para los Ayuntamientos conforme a las leyes respectivas.
 
-XXI. Conceder licencias y aceptar renuncias al Gobernador del Estado, a los Ministros del Tribunal de Justicia, a los Jueces de Primera Instancia, a los Defensores de Oficio y a sus propios miembros.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+XXI. Conceder licencias y aceptar renuncias al Gobernador del Estado, a los Miembros del propio Congreso y a los Magistrados del Tribunal.
 
 XXII. Designar, en funciones de Colegio Electoral, al candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación, según el artículo 96 de la Carta Fundamental. En la elección de este candidato, el Congreso se sujetará a lo prescrito para elección de los Magistrados del Supremo Tribunal de Justicia del Estado.
 
@@ -539,7 +543,9 @@ II. Ejercer las funciones electorales, que, por esta Constitución y las leyes r
 
 III. Recibir la protesta al Gobernador, Magistrados, Jueces de Primera Instancia y defensores de Oficio, en los casos prescriptos (sic) por esta Constitución.
 
-IV. Conceder licencias hasta por tres meses al Gobernador del Estado, a los Magistrados del Supremo Tribunal de Justicia, Director de Rentas, Jueces de Primera Instancia y Defensores de Oficio.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+IV. Conceder licencias hasta por tres tres (sic) meses al Gobernador del Estado y a los Magistrados del Supremo Tribunal de Justicia.
 
 V. Acordar por sí o excitada por el Ejecutivo, la reunión de la Legislatura a sesiones extraordinarias.
 
@@ -550,6 +556,8 @@ VII. Dictar sus acuerdos en todos los casos que lo dispusieren la Constitución 
 VIII. Abrir dictamen cuando los negocios de la competencia de la Legislatura, dando cuenta en el período inmediato de sesiones.
 
 IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Legislatura de las infracciones que notare.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 70.
 
@@ -619,9 +627,13 @@ II.- Promulgar y ejecutar las leyes que expida la Legislatura del Estado, reglam
 
 III.- Proveer a la Administración interior del Estado y cuidar de la conservación del órden público.
 
-IV.- Nombrar y remover libremente al Secretario del Despacho; y suspender hasta por tres meses a los demás empleados de nombramiento de Gobierno, poniéndolos a disposición del Juez competente cuando la falta merezca castigo.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
-V.- Nombrar al Director General de Rentas del Estado, sometiendo dicho nombramiento a la aprobación de la Legislatura. Nombrar también al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director y Encargado del Registro Público de la Propiedad y Director del Archivo General de Notarías.
+IV.- Nombrar y remover libremente al Secretario del Despacho y a todos los demás empleados de la dependencia del Poder Ejecutivo; concederles licencias con o sin goce de sueldo y admitir sus renuncias. Corregir las faltas que cometan en el desempeño de su empleo con suspensión hasta por un mes y consignarlos cuando incurran en delito.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+V.- Nombrar al Director General de Rentas del Estado, con aprobación de la Legislatura y removerlo libremente, cuando así lo exija el servicio público. Nombrar al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director del Archivo General de Notarías, Director y Encargado del Registro Público de la Propiedad, Defensores de Oficio y a los respectivos empleados subalternos. Concederles licencias y aceptarles renuncias, pudiendo removerlos también libremente, con excepción de los Defensores que sólo podrán serlo al concluir su período legal o por causa de responsabilidad.
 
 VI.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
 
@@ -637,11 +649,17 @@ XI.- Convocar a la Legislatura a sesiones extraordinarias, por sí y cuando lo a
 
 XII.- Presentar al Congreso, dentro de los quince días del primer período de sesiones, los Presupuestos de Ingresos y Egresos del Estado y los Municipios durante el año anterior.
 
-XIII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o Presidentes Municipales. Resolver los conflictos que se suscitaren en los Ayuntamientos, conforme a la ley respectiva.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+XIII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o Presidentes Municipales. Resolver los conflictos que se susciten en los Ayuntamientos y que no sean de los que, conforme a la Ley Municipal respectiva, corresponde conocer a la Legislatura.
 
 XIV.- Celebrar convenios sobre limites con los Estados vecinos sometiéndolos a la deliberación de la Legislatura.
 
-XV.- Nombrar con aprobación de la Legislatura, a los Jefes Superiores de las fuerzas del Estado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
+XV.- Nombrar, con aprobación de la Legislatura, a los Jueces Superiores de las Fuerzas del Estado, y sin este requisito nombrar y remover libremente la Oficialidad de éstas.
+
+Nombrar y remover libremente a los Jefes y Oficiales de la Policía Urbana del lugar donde tengan asiento los Poderes del Estado y transitoriamente a aquellos mientras en cualquier Municipalidad se encuentre accidentalmente el Ejecutivo.
 
 XVI.- EI Ejecutivo no puede hacer observaciones a la Legislatura cuando ejerza funciones de Colegio Electoral o de Jurado, ni a las resoluciones que se dicten en tales casos.
 
@@ -693,17 +711,21 @@ III. Los peritos Médicos Legistas y demás que sean necesarios.
 
 El Supremo Tribunal de Justicia del Estado se compondrá de seis Magistrados Propietarios y seis Supernumerarios, quienes cubrirán las faltas temporales de los Propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 87.
 
-Los Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, así como los Jueces de Primera Instancia y defensores de Oficio, serán de elección popular indirecta y nombrados por el Congreso del Estado, en funciones de colegio electoral, siendo indispensable cuando menos las dos terceras partes del número total de Diputados. En consecuencia, dicha elección la hará el Congreso en sesiones ordinarias; y en caso de que este Cuerpo se halle en receso, la comisión permanente respectiva la convocará a sesiones extraordinarias para ese fin. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, siendo previamente propuestos y discutidos los candidatos por los miembros de la misma Cámara. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá ésta entre los dos candidatos que hubieren obtenido más votos.
+Los Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, serán de elección popular indirecta y nombrados por el Congreso del Estado, en funciones de Colegio Electoral, siendo indispensable cuando menos las dos terceras partes del número total de Diputados. Dicha elección la hará el Congreso en sesiones ordinarias y en caso de que este Cuerpo se halle en receso, la Comisión Permanente respectiva lo convocará a sesiones extraordinarias para ese fin. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, siendo previamente propuestos y discutidos los candidatos por los Miembros de la misma Cámara. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá ésta entre los dos candidatos que hubieren obtenido más votos.
 
 ###### Artículo 88.
 
 Los Magistrados del Supremo Tribunal de Justicia durarán seis años en su encargo; los Jueces de Primera Instancia cuatro años y los Defensores de Oficio dos años. No podrán ser removidos unos y otros de su cargo sin previo juicio de responsabilidad o por incapacidad para desempeñarlo en los términos que establezca la ley.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 89.
 
-El Supremo Tribunal de Justicia podrá cambiar de lugar, con aprobación de la Legislatura o de la Diputación Permanente, a los Jueces de Primera Instancia, cuando el mejor servicio público así lo exigiere.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, a propuesta en terna de la Legislatura del mismo o de la Diputación Permanente.
 
 ###### Artículo 90.
 
@@ -737,27 +759,35 @@ III.- Poseer título profesional de Abogado, expedido por Autoridad o Corporaci�
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 94.
 
-Los Magistrados Propietarios no podrán desempeñar ningún otro empleo o comisión públicos del Estado o de la Federación, salvo el de Profesores de Derecho en los Colegios del Estado y previo permiso de la Legislatura o de la Diputación permanente. La misma prescripción se observará respecto de los Jueces de Primera Instancia y Defensores de Oficio.
+Los Magistrados Propietarios y Supernumerarios en funciones, no podrán desempeñar ningún otro empleo o comisión públicos del Estado, de la Federación o del Municipio, salvo el de Profesores en los Colegios del Estado y previo permiso de la Legislatura o de la Diputación Permanente. Lo mismo se observará respecto a los Jueces de Primera Instancia, Agentes del Ministerio Público y Defensores de Oficio, con la salvedad que el permiso lo solicitará de su Superior respectivo.
 
 ###### Artículo 95.
 
 Para ser Magistrado Supernumerario se necesitan los mismos requisitos que para propietario.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 96.
 
-Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor Propietario, se necesita tener veinticinco años cumplidos, y los demás requisitos señalados para los Magistrados propietarios.
+Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor, se necesita tener veinticinco años cumplidos, y los demás requisitos señalados para los Magistrados Propietarios, con excepción de los de ciudadanía durangueña y tiempo de vecindad.
+
+Sin embargo, podrá conferirse el cargo de Juez de Primera Instancia y de Juez Menor, a persona no titulada, siempre que a juicio del Tribunal reúna los requisitos de competencia en materia de leyes, los determinados en las fracciones I y IV del artículo 93 de esta Constitución, y el de haber desempeñado con acierto empleos de categoría de la Judicatura en el Estado.
 
 ###### Artículo 97.
 
 Son requisitos para el nombramiento de los demás funcionarios de la Administración de justicia los que señale la Ley Orgánica y Reglamentaria de ésta.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 98.
 
-Los Magistrados Propietarios y Supernumerarios, los Jueces de Primera Instancia y los Defensores de Oficio, protestarán ante la Legislatura o ante la Diputación permanente, y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada, a juicio de la misma Cámara.
+Los Magistrados Propietarios y Supernumerarios protestarán ante la Legislatura y ante la Diputación Permanente y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada, a juicio de la misma Cámara.
 
-La protesta referida será otorgada el día señalado por la Legislatura del Estado. Cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura, los citará, para tal objeto, por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá al juicio de responsabilidad respectivo y la Legislatura, erigida en Colegio Electoral, procederá a nuevos nombramientos.
+La protesta referida será otorgada el día señalado por la Legislatura del Estado. Cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura los citará para tal objeto por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá a juicio de responsabilidad respectivo, y la Legislatura eregida (sic) en Colegio Electoral, procederá a nuevos nombramientos.
 
 ###### Artículo 99.
 
@@ -771,13 +801,17 @@ Es asimismo Tribunal de apelación, o bien de última instancia en los negocios 
 
 Habrá en el Estado jurados de hecho para los delitos de prensa contra el orden público o la seguridad interior del Estado, y su institución será reglamentada por la ley respectiva.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 102.
 
 La Hacienda Pública del Estado se formará de las contribuciones que estableciere la Legislatura y demás rentas que le señalaren las Leyes.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 103.
 
-Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un individuo que se denominará Director General de Rentas; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda, y desempeñará su cargo bajo la inmediata inspección del Gobierno. Este funcionario gozará de las prerrogativas que señala el artículo 108 de esta Constitución.
+Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legislatura, nombrará un ciudadano que se denominará Director General de Rentas; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda, y desempeñará su cargo bajo la inmediata inspección del Ejecutivo del Estado.
 
 ###### Artículo 104.
 
@@ -805,25 +839,39 @@ Igualmente se declararán nulos los contratos y concesiones cuyos interesados no
 
 ###### Artículo 108.
 
-Ningún funcionario público tiene derecho de propiedad en el empleo que desempeña, aunque sí opción a ser reelecto en los casos en que no lo prohiba la presente Constitución, y no podrá llevarse a efecto su separación del cargo, sin que antes se le forme causa y se pronuncie sentencia que cause ejecutoria.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia Propietarios y Supernumerarios, no tienen derecho de propiedad en el puesto que desempeñen; pero sí el de ser reelectos en los casos en que no lo prohiba la presente Constitución; y no podrá llevarse a efecto su separación del cargo, sino que antes se les forme causa y se pronuncie sentencia que cauce (sic) ejecutoria.
+
+Tampoco tienen derecho de propiedad en el empleo que desempeñen, ningún funcionario ni empleado público de los no comprendidos en el párrafo anterior, y en tal virtud, el ser removidos o supensos (sic) por sus superiores, no tendrán más derechos que los que les fije la Ley del Servicio Civil que la H. Legislatura deberá expedir.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 109.
 
-Todo funcionario público cualquiera que sea su categoría, es responsable de los delitos comunes que cometa durante su destino, y de los delitos, faltas u omisiones en que incurra en su desempeño. No incurren en responsabilidad los alcaides y carceleros que, después de llamar la atención del Juez y no recibiendo la copia del auto de formal prisión en el término de setenta y dos horas, pusieren en libertad al reo.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, Propietarios y Supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Director General de Rentas, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
 
-El Gobernador, mientras dure en el ejercicio de su encargo, sólo podrá ser acusado por traición a la patria; por contravenir la Constitución General y particular del Estado; por oponerse a la libertad electoral, y la perpetración de delitos graves del orden común.
+El Gobernador, durante el tiempo de su encargo sólo podrá ser acusado por traición a la Patria, por contravenir las Constituciones General de la República y Particular del Estado y por la comisión de delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 110.
 
-De los delitos oficiales del Gobernador, Secretario del Despacho, Diputados, Magistrados Propietarios y Supernumerarios, Procurador General de Justicia y Director General de Rentas, conocerá el Congreso como Jurado de acusación y el Tribunal como Jurado de sentencia.
+Cuando se trate de delitos del orden común, la Cámara de Diputados, eregida (sic) en Gran Jurado, declarará por el voto de las dos terceras partes del número total de los Diputados que la formen si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
+
+En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo, y sujeto desde luego a la acción de los tribunales comunes, a menos que se trate del Gobernador del Estado, pues en tal caso sólo habrá lugar a pasar la acusación al Supremo Tribunal de Justicia como si se tratare de un delito oficial.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 111.
 
-El Jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos si el acusado es no culpable. Si la declaración fuere absoluta, el funcionario continuará en el ejercicio de su encargo; si fuere condenatoria, quedará a disposición del Supremo Tribunal de Justicia, quién, eregido (sic) en jurado de sentencia con audiencia del reo, de un abogado fiscal que nombrará y del acusador si lo hubiere, procederá a aplicar a mayoría absoluta de votos la pena que por la ley corresponda.
+No gozan de fuero Constitucional los altos empleados del Estado por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión públicos, que hayan aceptado, durante el período en que conforme a la Ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 112.
 
-Cuando los funcionarios de que habla el artículo 109, fueren acusados de delito del orden común perpetrado dentro del Estado, el Jurado de acusación declarará si ha o no lugar a formación de causa, y en el primer caso quedarán sujetos aquéllos a los Tribunales ordinarios en la forma y términos que cualquier particular. Los Diputados suplentes gozarán de esas prerrogativas sólo cuando se hallen en ejercicio.
+De los delitos oficiales del Gobernador del Estado, Diputados, Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, del Secretario de Gobierno, del Procurador de Justicia, y del Director General de Rentas, conocerá el Congreso como Jurado de Acusación y el Tribunal como Jurado de Sentencia. Las resoluciones del Gran Jurado y la declaración en su caso, son inatacables.
+
+El Congreso del Estado expedirá la Ley sobre Responsabilidades de todos los funcionarios y empleados del Estado, determinando como faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aún cuando hasta la fecha no hayan tenido carácter de delictuosos.
 
 ###### Artículo 113.
 
@@ -867,13 +915,15 @@ El Ejecutivo o el Municipio al remitir a la Legislatura para su discusión y apr
 
 Las convocatorias para la ejecución de obras públicas, serán decretadas por la Legislatura, ya sea a propuesta nacida en el seno de la misma ya iniciativa del Ejecutivo del Estado o del Municipio respectivo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+
 ###### Artículo 122.
 
-La presente Constitución podrá ser reformada en todo tiempo; pero con la condición precisa, de que no han de ser atacados en manera alguna los principios consignados en la carta fundamental de la República, debiendo formarse las formalidades siguientes:
+La presente Constitución podrá ser reformada o adicionada en todo tiempo; pero con la condición precisa de que no han de ser atacados en manera alguna los principios consignados y que se consignen en la Carta Fundamental de la República, debiendo observarse las formalidades siguientes:
 
-I. La reforma o reformas se presentarán en cualquiera de los períodos ordinarios de sesiones, pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas derectamente (sic) al Ejecutivo, Tribunal de Justicia y a cada uno de los Ayuntamientos del Estado, a fin de que emitan su juicio por escrito dirigiéndolo al Congreso o Diputación permanente quienes formarán un expediente con todas las contestaciones que se recibieren.
+I. La reforma, reformas o adiciones, se presentarán en cualquiera de los períodos ordinarios de sesiones; pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas directamente al Ejecutivo, Tribunal de Justicia y a cada uno de los Ayuntamientos del Estado a fin de que emitan su juicio por escrito, dirigiéndolo al Congreso o Diputación Permanente, quienes formarán un expediente con todas las contestaciones que recibieren.
 
-II. Este expediente se pasará a la Comisión de puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron la reforma o reformas. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haber recibido el expediente, y se procederá a la discusión conforme al reglamento si hubiere nueve Diputados presentes por lo menos, necesitándose, para que dichas reformas formen parte de la Constitución, que sean votadas por los mismos Diputados.
+II. Este expediente se pasará a la Comisión de Puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron las reformas o adiciones. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haberse recibido el expediente y se procederá a la discusión conforme al Reglamento. Para que las adiciones o reformas formen parte de la Constitución, se requiere que el Congreso, por el voto de las dos terceras partes de los Diputados que deban integrarlo, las acuerde, y que sean aprobadas por la mayoría de los Ayuntamientos, conceptuándose mayoría, la mitad más uno de los existentes en el Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las reformas o adiciones.
 
 ###### Artículo 123.
 
@@ -881,19 +931,21 @@ En ningún caso perderá esta Constitución su fuerza y vigor; y siempre que hub
 
 ## TITULO VI.
 
-DEL PODER EJEUTIVO (SIC).
+DEL PODER EJECUTIVO.
 
 ## TITULO VII.
 
 DEL PODER JUDICIAL.
 
-## TITULO VII (SIC).
+## TITULO VIII.
 
 DE LA HACIENDA DEL ESTADO.
 
-## TITULO VIII (SIC).
+## TITULO IX.
 
-DE LA RESPONSABILIDAD DE FUNCIONARIOS PUBLICOS.
+DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
 
 ## TRANSITORIOS.
 
@@ -973,6 +1025,8 @@ Los Diputados de número par electos en las elecciones de 6 de junio del corrien
 
 Esta disposición surtirá sus efectos desde el día de su promulgación en el Periódico Oficial del Estado.
 
+P.O. 9 DE DICIEMBRE DE 1926.
+
 ###### Artículo 3º.
 
 Queda derogada la Constitución Política anterior, así como también quedan derogadas todas las demás leyes del Estado, en todo aquello que se opongan a la presente Constitución, y a la General de la República de 1917.
@@ -1018,3 +1072,15 @@ P.O. 27 DE DICIEMBRE DE 1925.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 5 DE DICIEMBRE DE 1926.
+
+###### Artículo 1o.
+
+Las presentes reformas formarán parte integrante de las disposiciones relativas de la Constitución Política del Estado, desde el día de su publicación en el Periódico Oficial, teniendo desde entonces el carácter de Constitucionales.
+
+###### Artículo 2o.
+
+El Supremo Tribunal de Justicia proveerá al nombramiento de los Jueces de Primera Instancia, como se previene en el Artículo 89 que se reforma, al reorganizarse los Distritos Judiciales del Estado, quedando a su cargo la facultad de concederles licencias y aceptar sus renuncias; continuando mientras tanto en sus funciones, los nombrados con anterioridad por la Legislatura.
+
+###### Artículo 3o.
+
+Los actuales Defensores de Oficio, continuarán en funciones hasta que termine su período legal, y para lo sucesivo, el Ejecutivo los nombrará y tendrá las demás atribuciones que le señalen las leyes respectivas, quedando facultado mientras tanto, para conceder licencias y aceptar renuncias a los actuales Defensores.
