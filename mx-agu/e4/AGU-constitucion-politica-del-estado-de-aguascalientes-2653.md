@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2003-09-29"
+last_updated: "2005-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -209,49 +209,89 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2005)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado estará integrado por veintitrés Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán trece al Municipio de Aguascalientes y al menos uno a cada uno de los municipios restantes, y hasta por cuatro Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales y hasta nueve Diputados Electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 El Instituto Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales basado en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos, del cociente resultante. La revisión o adecuación se realizará después de cada Censo General de Población.
 
-La asignación de los cuatro Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2005)</small>
 
-I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos quince de los veintitrés distritos uninominales.
+La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2005)</small>
+
+I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales.
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 II.- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida.
 
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 III.- El Código Estatal Electoral determinará la fórmula y el procedimiento que se observará en dicha asignación; y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 IV.- Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Sus obligaciones consisten en el ejercicio de la representación popular y desempeñarán sus funciones en el Congreso del Estado, Diputación Permanente y Gran Jurado.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 El Código Estatal Electoral de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos; determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales y jurisdiccionales que gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los resultados electorales que sean aplicables, a las figuras del plebiscito y el referéndum, serán calificados por el Consejo General del Instituto Estatal Electoral en los términos establecidos en las Leyes de la materia.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 La Ley del Sistema de Medios de Impugnación en Materia Electoral, reglamentará todos los actos y resoluciones electorales para que se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad de las etapas de los procesos electorales, tomando en cuenta los plazos convenientes para el desahogo de todas las instancias impugnativas.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Los Códigos Penal y Estatal Electoral tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones de carácter administrativo y/o penal que por ellos deban imponerse a los infractores de sus disposiciones.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Con relación a las figuras del Plebiscito, Referéndum e Iniciativa Popular, el Instituto Estatal Electoral será el órgano responsable de organizarlos.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 El Referéndum y Plebiscito podrán solicitarlo:
 
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 I.- El cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contienen en la credencial de elector; o
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 II.- Una tercera parte de los Diputados que integran el H. Congreso del Estado.
 
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 III.- Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; y
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 IV.- El Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Para que la solicitud se declare aprobada se requiere del voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos que contemplen las siguientes materias:
 
@@ -265,17 +305,31 @@ d).- Ley Orgánica del Poder Judicial del Estado; y
 
 e).- Las demás que determinen las leyes.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 El Tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos. El Tribunal Local Electoral tendrá la facultad de declarar la validez de la elección.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 El Instituto Estatal Electoral se integrará y funcionará conforme a lo que disponga el Código Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Se consideran a los partidos políticos como entidades de interés público; el Código Estatal Electoral determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios y plataformas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Los partidos políticos nacionales con registro, tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+
 Los partidos políticos tendrán derecho al uso permanente y en condiciones de equidad de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezcan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 El Código Estatal Electoral establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Instituto Estatal Electoral. También determinará los topes para gastos de precampañas, campañas y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
 
@@ -1581,7 +1635,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 2 DE JUNIO DE 1985.
 
-DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO No. 55, QUE REFORMA EL ARTICULO 52 DE LA CONSTITUCION POLITICA LOCAL.
 
 Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
 
@@ -1872,3 +1926,9 @@ SEGUNDO.- La aprobación de la reforma constitucional implicará necesariamente 
 P.O. 29 DE SEPTIEMBRE DE 2003.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MARZO DE 2005.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
