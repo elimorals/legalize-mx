@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-08-16"
+last_updated: "2000-08-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -119,9 +119,9 @@ I.- PRIMER CIRCUITO:
 
 1.- Cuarenta y dos tribunales colegiados especializados: seis en materia penal, once en materia administrativa, trece en materia civil y doce en materia de trabajo; y, seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 38/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 55/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-2.- Treinta y siete juzgados de distrito especializados: doce en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+2.- Cuarenta juzgados de distrito especializados: nueve en materia de procesos penales federales, seis de amparo en materia penal, diez en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -131,9 +131,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Tres tribunales unitarios: dos con sede en la ciudad de Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 29/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 52/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-3.- Once juzgados de distrito: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en la ciudad de Toluca; tres juzgados de distrito con sede en Naucalpan de Juárez, uno con residencia en Tlalnepantla y dos con sede en Ciudad Nezahualcóyotl.
+3.- Trece juzgados de distrito: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en la ciudad de Toluca; cinco juzgados de distrito con sede en Naucalpan de Juárez, uno con residencia en Tlalnepantla y dos con sede en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -163,9 +163,9 @@ V.- QUINTO CIRCUITO:
 
 VI.- SEXTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 20/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 47/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-1.- Siete tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, tres en materia civil y uno en materia de trabajo; y, un tribunal unitario, con residencia en la ciudad de Puebla.
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo; y un tribunal unitario, con residencia en la ciudad de Puebla.
 
 2.- Seis juzgados de distrito con sede en la ciudad de Puebla.
 
@@ -175,9 +175,9 @@ VI.- SEXTO CIRCUITO:
 
 VII.- SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 7/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 48/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-1.- Seis tribunales colegiados especializados: dos en materias administrativa y de trabajo y dos en materia penal, con residencia en Boca del Río; y, dos en materia civil con sede en la ciudad de Xalapa.
+1.- Siete tribunales colegiados especializados: dos en materias administrativa y de trabajo y dos en materia penal, con residencia en Boca del Río; y tres en materia civil con sede en la ciudad de Xalapa.
 
 > <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 24/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2000)</small>
 
@@ -205,7 +205,9 @@ IX.- NOVENO CIRCUITO:
 
 X.- DECIMO CIRCUITO:
 
-1.- Tres tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Villahermosa.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 49/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Villahermosa.
 
 2.- Tres juzgados de distrito con sede en la ciudad de Villahermosa.
 
@@ -215,9 +217,9 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 1.- Tres tribunales colegiados y dos tribunales unitarios, con sede en la ciudad de Morelia.
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 54/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-2.- Seis juzgados de distrito: cuatro con residencia en la ciudad de Morelia y dos con sede en la ciudad de Uruapan.
+2.- Siete juzgados de distrito: cuatro con residencia en la ciudad de Morelia y tres con sede en la ciudad de Uruapan.
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
@@ -229,7 +231,9 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 2.- Diez juzgados de distrito: cuatro con residencia en la ciudad de Culiacán, tres con sede en la ciudad de Los Mochis y tres con residencia en la ciudad de Mazatlán.
 
-3.- Un juzgado de distrito en el Estado de Baja California Sur, con sede en la ciudad de La Paz.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 51/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+3.- Dos juzgados de distrito en el Estado de Baja California Sur, con sede en la ciudad de La Paz.
 
 4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)
 
@@ -277,11 +281,13 @@ XVI.- DECIMO SEXTO CIRCUITO:
 
 1.- Cuatro tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Guanajuato.
 
-2.- Cinco juzgados de distrito: dos con residencia en la ciudad de Guanajuato, dos con sede en la ciudad de León y uno con residencia en la ciudad de Celaya.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 53/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+2.- Seis juzgados de distrito: dos con residencia en la ciudad de Guanajuato, dos con sede en la ciudad de León y dos con residencia en la ciudad de Celaya.
 
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 6/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE MARZO DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 6/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CHIHUAHUA, D.O.F. 3 DE MARZO DE 1999)</small>
 
 1.- Tres tribunales colegiados y tres tribunales unitarios, con sede en la ciudad de Chihuahua.
 
@@ -317,7 +323,7 @@ XX.- VIGESIMO CIRCUITO:
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 42/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, GUERRERO, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
 1.- Tres tribunales colegiados y un tribunal unitario, con sede en la ciudad de Chilpancingo.
 
@@ -343,7 +349,9 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 2.- Dos juzgados de distrito en el Estado de Zacatecas, con sede en la ciudad del mismo nombre.
 
-3.- Dos juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 50/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+3.- Tres juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
@@ -459,9 +467,9 @@ CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguient
 
 I.- PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 38/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE JULIO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 55/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-Los treinta y siete juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+Los juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
 
 II.- SEGUNDO CIRCUITO:
 
@@ -469,7 +477,9 @@ II.- SEGUNDO CIRCUITO:
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en Materia de Procesos Penales Federales y los Juzgados Primero y Segundo de Distrito en Materias de Amparo y de Juicios Civiles Federales, con residencia en la ciudad de Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez y el Juzgado Cuarto de Distrito en el Estado de México, con residencia en Tlalnepantla de Baz, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes Municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 52/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+Los Juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez y en Tlalnepantla de Baz, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes Municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
 
 Los Juzgados Quinto y Sexto de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes Municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
 
@@ -543,9 +553,9 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 Los Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 47/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 54/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
-Los Juzgados Quinto y Sexto de Distrito en el Estado de Michoacán, con residencia en la ciudad de Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tingüindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
+Los Juzgados de Distrito en el Estado de Michoacán, con residencia en la ciudad de Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tingüindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
@@ -561,7 +571,9 @@ Los Juzgados Quinto, Sexto y Séptimo de Distrito en el Estado de Sinaloa, con r
 
 Los Juzgados Octavo, Noveno y Décimo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
-El Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerá jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO, POR EL PUNTO NOVENO DEL ACUERDO GENERAL 51/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 XIII.- DECIMO TERCER CIRCUITO:
 
@@ -603,7 +615,9 @@ Los Juzgados Primero y Segundo de Distrito en el Estado de Guanajuato, con resid
 
 Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
 
-El Juzgado Quinto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya, ejercerá jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortazar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 53/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+Los Juzgados de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortazar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
 
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
@@ -659,7 +673,9 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-Los Juzgados Primero y Segundo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 50/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+
+Los Juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
@@ -933,7 +949,7 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 9/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 9/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día veintisiete de marzo del año dos mil.
 
@@ -941,7 +957,7 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 10/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 10/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
 
@@ -949,7 +965,7 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 
 D.O.F. 13 DE MARZO DE 2000.
 
-ACUERDO GENERAL NUMERO 11/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 11/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de abril del año dos mil.
 
@@ -1041,8 +1057,80 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 16 DE AGOSTO DE 2000.
 
-ACUERDO GENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDOGENERAL NUMERO 46/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el dieciocho de agosto de dos mil.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 47/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 48/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 49/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 50/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 51/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 52/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 53/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 54/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 2000.
+
+ACUERDO GENERAL NUMERO 55/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
