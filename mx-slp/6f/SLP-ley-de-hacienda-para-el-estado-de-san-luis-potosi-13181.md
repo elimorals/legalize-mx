@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2003-02-01"
+last_updated: "2003-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -699,7 +699,317 @@ Por la autorización que otorgue la Dirección General de Protección Social y V
 
 Para los efectos de la obligación que la Ley de Peritos del Estado establece a peritos dictaminadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de constancia de registro inicial el importe de diez días de salario mínimo general de la zona y, por revalidación anual de la misma, el importe de cinco días de salario mínimo general de la zona.
 
-### CAPITULO VI. OTROS SERVICIOS
+### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+ARTICULO 93 BIS. Las personas que hagan uso de las siguientes carreteras de cuota estatal que forman parte de los bienes del dominio público del Estado, cubrirán los derechos establecidos en el presente artículo.
+
+I. Por el uso de la carretera San Luis Potosí-Bledos-Villa de Arriaga:
+
+a) Caseta "Calderón":
+
+Tramo San Luis Potosí - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 71.00
+
+B2 Autobús de Pasajeros. 2 ejes 127.00
+
+B3 Autobús de Pasajeros. 3 ejes 127.00
+
+B4 Autobús de Pasajeros. 4 ejes 127.00
+
+C2 Camión de Carga. 2 ejes 127.00
+
+C3 Camión de Carga. 3 ejes 127.00
+
+C4 Camión de Carga. 4 ejes 127.00
+
+C5 Camión de Carga. 5 ejes 138.00
+
+C6 Camión de Carga. 6 ejes 138.00
+
+C7 Camión de Carga. 7 ejes 138.00
+
+C8 Camión de Carga. 8 ejes 138.00
+
+C9 Camión de Carga. 9 ejes 138.00
+
+Eje excedente 35.00
+
+Tramo San Luis Potosí - Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 28.00
+
+B2 Autobús de Pasajeros. 2 ejes 49.00
+
+B3 Autobús de Pasajeros. 3 ejes 49.00
+
+B4 Autobús de Pasajeros. 4 ejes 49.00
+
+C2 Camión de Carga. 2 ejes 49.00
+
+C3 Camión de Carga. 3 ejes 49.00
+
+C4 Camión de Carga. 4 ejes 49.00
+
+C5 Camión de Carga. 5 ejes 54.00
+
+C6 Camión de Carga. 6 ejes 54.00
+
+C7 Camión de Carga. 7 ejes 54.00
+
+C8 Camión de Carga. 8 ejes 54.00
+
+C9 Camión de Carga. 9 ejes 54.00
+
+Eje excedente 35.00
+
+Tramo San Luis Potosí – Bledos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 41.00
+
+B2 Autobús de Pasajeros. 2 ejes 75.00
+
+B3 Autobús de Pasajeros. 3 ejes 75.00
+
+B4 Autobús de Pasajeros. 4 ejes 75.00
+
+C2 Camión de Carga. 2 ejes 75.00
+
+C3 Camión de Carga. 3 ejes 75.00
+
+C4 Camión de Carga. 4 ejes 75.00
+
+C5 Camión de Carga. 5 ejes 81.00
+
+C6 Camión de Carga. 6 ejes 81.00
+
+C7 Camión de Carga. 7 ejes 81.00
+
+C8 Camión de Carga. 8 ejes 81.00
+
+Camión de Carga. 9 ejes 81.00
+
+Eje excedente 35.00
+
+Tramo Villa de Reyes - Villa de Arriaga
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 43.00
+
+B2 Autobús de Pasajeros. 2 ejes 78.00
+
+B3 Autobús de Pasajeros. 3 ejes 78.00
+
+B4 Autobús de Pasajeros. 4 ejes 78.00
+
+C2 Camión de Carga. 2 ejes 78.00
+
+C3 Camión de Carga. 3 ejes 78.00
+
+C4 Camión de Carga. 4 ejes 78.00
+
+C5 Camión de Carga. 5 ejes 84.00
+
+C6 Camión de Carga. 6 ejes 84.00
+
+C7 Camión de Carga. 7 ejes 84.00
+
+C8 Camión de Carga. 8 ejes 84.00
+
+C9 Camión de Carga. 9 ejes 84.00
+
+Eje excedente 35.00
+
+Cuotas aplicables a los ejidatarios de los núcleos agrarios Bledos y Villa de Reyes
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 14.00
+
+B2 Autobús de Pasajeros. 2 ejes 25.00
+
+B3 Autobús de Pasajeros. 3 ejes 25.00
+
+B4 Autobús de Pasajeros. 4 ejes 25.00
+
+C2 Camión de Carga. 2 ejes 25.00
+
+C3 Camión de Carga. 3 ejes 25.00
+
+C4 Camión de Carga. 4 ejes 25.00
+
+C5 Camión de Carga. 5 ejes 27.00
+
+C6 Camión de Carga. 6 ejes 27.00
+
+C7 Camión de Carga. 7 ejes 27.00
+
+C8 Camión de Carga. 8 ejes 27.00
+
+C9 Camión de Carga. 9 ejes 27.00
+
+Eje excedente 35.00
+
+II. Por el uso de la primera etapa de la Supercarretera Central de San Luis Potosí, tramo San Luis Potosí - Río Verde:
+
+a) Caseta "Cerritos":
+
+Tramo San Luis Potosí – Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 72.00
+
+B2 Autobús de Pasajeros. 2 ejes 125.00
+
+B3 Autobús de Pasajeros. 3 ejes 161.00
+
+B4 Autobús de Pasajeros. 4 ejes 161.00
+
+C2 Camión de Carga. 2 ejes 125.00
+
+C3 Camión de Carga. 3 ejes 161.00
+
+C4 Camión de Carga. 4 ejes 161.00
+
+C5 Camión de Carga. 5 ejes 161.00
+
+C6 Camión de Carga. 6 ejes 161.00
+
+C7 Camión de Carga. 7 ejes 285.00
+
+C8 Camión de Carga. 8 ejes 285.00
+
+C9 Camión de Carga. 9 ejes 285.00
+
+Eje excedente 26.00
+
+Tramo San Luis Potosí – Cerritos
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 23.00
+
+B2 Autobús de Pasajeros. 2 ejes 40.00
+
+B3 Autobús de Pasajeros. 3 ejes 52.00
+
+B4 Autobús de Pasajeros. 4 ejes 52.00
+
+C2 Camión de Carga. 2 ejes 40.00
+
+C3 Camión de Carga. 3 ejes 52.00
+
+C4 Camión de Carga. 4 ejes 52.00
+
+C5 Camión de Carga. 5 ejes 52.00
+
+C6 Camión de Carga. 6 ejes 52.00
+
+C7 Camión de Carga. 7 ejes 91.00
+
+C8 Camión de Carga. 8 ejes 91.00
+
+C9 Camión de Carga. 9 ejes 91.00
+
+Eje excedente 26.00
+
+Tramo Cerritos – Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 49.00
+
+B2 Autobús de Pasajeros. 2 ejes 85.00
+
+B3 Autobús de Pasajeros. 3 ejes 109.00
+
+B4 Autobús de Pasajeros. 4 ejes 109.00
+
+C2 Camión de Carga. 2 ejes 85.00
+
+C3 Camión de Carga. 3 ejes 109.00
+
+C4 Camión de Carga. 4 ejes 109.00
+
+C5 Camión de Carga. 5 ejes 109.00
+
+C6 Camión de Carga. 6 ejes 109.00
+
+C7 Camión de Carga. 7 ejes 194.00
+
+C8 Camión de Carga. 8 ejes 194.00
+
+C9 Camión de Carga. 9 ejes 194.00
+
+Eje excedente 26.00
+
+a) Caseta auxiliar "Villa Juárez":
+
+Tramo Cerritos – Río Verde
+
+Clase Tipo de Vehículo Cuota por
+
+aplicar $
+
+A Automóvil 36.00
+
+B2 Autobús de Pasajeros. 2 ejes 62.00
+
+B3 Autobús de Pasajeros. 3 ejes 80.00
+
+B4 Autobús de Pasajeros. 4 ejes 80.00
+
+C2 Camión de Carga. 2 ejes 62.00
+
+C3 Camión de Carga. 3 ejes 80.00
+
+C4 Camión de Carga. 4 ejes 80.00
+
+C5 Camión de Carga. 5 ejes 80.00
+
+C6 Camión de Carga. 6 ejes 80.00
+
+C7 Camión de Carga. 7 ejes 141.00
+
+C8 Camión de Carga. 8 ejes 141.00
+
+C9 Camión de Carga. 9 ejes 141.00
+
+Eje excedente 26.00
+
+Las cantidades correspondientes a las cuotas de los derechos establecidos en el presente artículo, se actualizarán automáticamente en forma semestral en los meses de enero y julio mediante la aplicación del Indice Nacional del (sic) Precios al Consumidor, de conformidad con lo establecido en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización se efectuará en períodos menores cuando el incremento de ese índice haya sido mayor a un 5%, en un lapso de menos de seis meses.
+
+Los derechos anteriores se cubrirán al cruzar las casetas establecidas y las que en un futuro se puedan constituir en razón de los flujos vehiculares y por el establecimiento y cruce de nuevos tramos carreteros y no estarán sujetos a lo dispuesto por el artículo 93 de la Ley de Hacienda para el Estado de San Luis Potosí.
+
+Los comprobantes de pago que se expidan en dichas casetas serán idóneos para acreditar el pago de los derechos.
+
+La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
 ###### ARTICULO 64.
 
@@ -995,7 +1305,7 @@ Tratándose de avalúo para adquisición de vivienda de interés social o popula
 
 En este caso, los contribuyentes deberán comprobar, a satisfacción de la autoridad fiscal, el carácter de interés social o popular de la vivienda objeto de los derechos citados.
 
-### CAPITULO UNICO
+### CAPITULO VI. OTROS SERVICIOS
 
 ###### ARTICULO 70.
 
@@ -1147,13 +1457,9 @@ b) En su modalidad intermedia, ciento tres; y
 
 c) En su modalidad específica, ciento cincuenta y seis.
 
-III. La verificación del cumplimiento de las medidas de prevención y
+III. La verificación del cumplimiento de las medidas de prevención y mitigación será gratuita;
 
-mitigación será gratuita;
-
-IV. Por la revalidación de evaluación de la autorización de impacto
-
-ambiental (artículo 55 de la Ley de Protección al Ambiente del Estado):
+IV. Por la revalidación de evaluación de la autorización de impacto ambiental (artículo 55 de la Ley de Protección al Ambiente del Estado):
 
 a) En su modalidad general, veintitrés;
 
@@ -1176,6 +1482,10 @@ Por el servicio de laboratorio en el análisis de muestras industriales, se cubr
 ###### ARTICULO 90.
 
 Se impondrá una multa de 1,675.72 salarios mínimos por infracciones derivadas de denuncias populares o visitas de verificación en materia de impacto ambiental y de 837.86 salarios mínimos diarios por violaciones a la ley respectiva, detectadas a través de inspección.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 91.
 
@@ -1658,3 +1968,15 @@ P.O. 1 DE FEBRERO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2003.
+
+PRIMERO. Se ordena la publicación del presente Decreto en el Periódico Oficial del Estado, y sus disposiciones entrarán en vigor a partir de que se publique en el mismo órgano informativo oficial que las carreteras a que se hace referencia pasen al dominio y explotación del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. La recaudación de los derechos que se establecen se realizará a partir de la entrada en vigor del presente Decreto, por las autoridades competentes a través de la entidad operadora de las carreteras cuyo uso se grava.
+
+CUARTO. Para efectos de realizar en julio de 2003 la primera actualización del monto de los derechos por el uso de las carreteras a que este Decreto se refiere, se tomará como base el Indice Nacional de Precios al Consumidor de enero de 2003, en virtud de que los mencionados derechos están a precios de ese mes.
+
+QUINTO. Se amplían la Ley de Ingresos, y la Ley del Presupuesto de Egresos del Estado de San Luis Potosí para el ejercicio fiscal 2003, por el equivalente al monto que durante este año obtenga el Gobierno del Estado por la explotación de las carreteras a que este Decreto se refiere, facultándose al Ejecutivo del Estado a realizar las adecuaciones que procedan para el ejercicio del gasto conforme al párrafo final del artículo que se adiciona.
