@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1969-11-10"
+last_updated: "1972-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 67, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 1969, SE ABROGA EL DECRETO NO. 127 DE FECHA 3 DE SEPTIEMBRE DE 1965, QUE FUE PUBLICADO EN EL P.O. NO. 31 DEL 10 DE OCTUBRE DEL PRESENTE AÑO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 1969.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1972.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -223,7 +221,7 @@ De la Dirección de Profesiones.
 
 ###### ARTICULO 15.
 
-Se crea la Dirección de Profesiones que como dependencia directa del gobierno del Estado, tendrá a su cargo el control y la vigilancia del ejercicio profesional en el Estado de Baja California. Serán sus atribuciones las que establece la presente Ley.
+(DEROGADO, P.O. 20 DE MAYO DE 1972)
 
 ###### ARTICULO 16.
 
@@ -652,3 +650,7 @@ P.O. 10 DE NOVIEMBRE DE 1969.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se expongan en el presente Decreto.
+
+P.O. 20 DE MAYO DE 1972.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
