@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1928-09-27"
+last_updated: "1931-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1931.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -133,23 +133,25 @@ Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio
 
 El Congreso se instalará en cada bienio el primer día de febrero posterior a la elección.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1931)</small>
 
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias: uno durará del primero de febrero al último de mayo; el otro será por el mes de septiembre, siendo prorrogable por un mes más, siempre que lo acuerden las dos terceras partes de los miembros de la Cámara.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del 1o. de febrero al último de marzo; el otro comprenderá del 1°. de octubre al 31 de diciembre.
 
 En el primer periodo se ocupará preferentemente:
 
 I. Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
 
-II. Del examen y aprobación del Presupuesto de Ingresos y Egresos del Estado, para el siguiente año fiscal.
+En el segundo período se ocupará preferentemente:
 
-III. De la revisión y aprobación de los Presupuestos de Ingresos de los Municipios.
+I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal siguiente y decretará los impuestos necesarios para cubrirlo.
 
-IV. De las modificaciones necesarias a la Ley de Hacienda del Estado y Municipal.
+II. Del examen, discusión y aprobación de los presupuestos de Ingresos de los Municipios.
+
+En ambos periodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
@@ -369,9 +371,9 @@ Son facultades y obligaciones del Gobernador:
 
 I. Promulgar, ejecutar y hacer que se ejecuten las Leyes haciendo uso en su caso, de la facultad que le concede el artículo 20.
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1931)</small>
 
-II. Presentar cada año al Congreso a más tardar el día 1º. de abril, los proyectos del Presupuesto de Ingresos y Egresos del Estado para el ejercicio fiscal venidero.
+II. Presentar cada año al Congreso a más tardar el día 15 de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el ejercicio fiscal venidero.
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 1927)</small>
 
@@ -654,5 +656,9 @@ P.O. 19 DE FEBRERO DE 1927.
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
 
 P.O. 27 DE SEPTIEMBRE DE 1928.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 27 DE JUNIO DE 1931.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
