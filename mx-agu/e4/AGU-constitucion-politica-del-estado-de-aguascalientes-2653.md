@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1992-12-13"
+last_updated: "1993-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -915,6 +915,18 @@ El Procurador General de Justicia intervendrá personalmente en todos los negoci
 
 El Procurador General de Justicia será el consejero jurídico del Gobierno del Estado. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsable de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
+
+El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos, a la Procuraduría de Protección Ciudadana, quien conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial Estatal, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
+
+Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales, ni consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y legales.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
+
+Para el pleno desempeño de sus atribuciones la Procuraduría de Protección Ciudadana, contará con un Consejo Consultivo integrado por cinco personas con conocimiento en diversas materias: técnicas, científicas y humanísticas y con carácter honorífico, designados por el Titular y por un período igual al del Procurador de Protección Ciudadana, para la resolución de algunos casos que requieran sus conocimientos.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 CAPITULO DECIMOCUARTO
@@ -1453,7 +1465,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 10 DE NOVIEMBRE DE 1974.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1590,3 +1602,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Todo ordenamiento y demás escritos que refieran la denominación Tesorería General o Tesorero General, en lo sucesivo serán Secretaría de Finanzas o Secretario de Finanzas, según corresponda.
+
+P.O. 6 DE JUNIO DE 1993.
+
+PRIMERO.- En virtud de que esta reforma eleva a rango Constitucional a la Procuraduría de Protección Ciudadana, como organismo expresamente para tutelar los derechos humanos se deja sin efecto el decreto que crea la Comisión Estatal de Derechos Humanos.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
