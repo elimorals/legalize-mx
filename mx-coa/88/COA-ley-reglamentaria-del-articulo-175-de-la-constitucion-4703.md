@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-articulo-175-de-la-constitucion-4703"
 country: "mx"
 rank: "ley"
 publication_date: "1924-05-24"
-last_updated: "1924-05-24"
+last_updated: "1924-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL ARTICULO 175 DE LA CONSTITUCION POLITICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1924.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 24 de mayo de 1924.
 
@@ -45,15 +45,17 @@ Del Artículo 175 de la Constitución Política del Estado.
 
 ###### Artículo 1o.
 
-La presente Ley Reglamenta el (sic) artículo 175 de la Constitución Política del Estado, en relación con la segunda parte del artículo 4o. de la Constitución General de la República, en lo que concierne al ejercicio de la medicina, la cirugía, la obstetricia, la odontología y la farmacia.
+La presente Ley Reglamenta el artículo 175 de la Constitución Política del Estado, en relación con la segunda parte del artículo 4o. de la Constitución General de la República, en lo que concierne al ejercicio de la medicina, la cirugía, la obstetricia, la odontología y la farmacia.
 
 ###### Artículo 2o.
 
 Para ejercer en el Estado de Coahuila las Profesiones a que se refiere el artículo anterior, se requiere la posesión de un título legal.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1924)</small>
+
 ###### Artículo 3o.
 
-Para los efectos del Artículo anterior se considerarán como legales los títulos profesionales expedidos en Coahuila conforme a las leyes y los expedidos por la Escuela Nacional de Medicina en México, por la Universidad Nacional de México, por las Universidades Extranjeras que hayan sido revalidados en el País por convenios especiales, por reciprocidad internacional o previo examen general, los de las Escuelas de Homeopatia de la ciudad de México, los de la Escuela Nacional Odontológica y los expedidos por los Planteles Oficiales y Universidades de los Estados de la República, conforme a las Leyes de instrucción Secundaria y profesional de los mismos.
+Para los efectos del artículo anterior se considerarán como legales los títulos profesionales expedidos en Coahuila conforme a las leyes, y los expedidos por la Universidad Nacional de México, por las Universidades Extranjeras que hayan sido revalidados en el país por convenios especiales, por reciprocidad internacional o previo examen general; los de la Escuela Nacional Odontológica y los expedidos por los Planteles Oficiales y Universidades de los Estados de la República, conforme a las leyes de Instrucción Secundaria y Profesional de los mismos.
 
 ###### Artículo 4o.
 
@@ -111,6 +113,10 @@ Al expedirse algunos de los títulos a que se refiere el artículo 13 se publica
 
 Las infracciones a la presente Ley, serán castigadas de conformidad con el artículo 749 del Código Penal y se faculta al Consejo Superior de Salubridad para que por medio de sus Delegados o Agentes, o por medio de la policía impida que los infractores ejerzan las profesiones cuyo ejercicio reglamenta esta ley, mientras se hacen las consignaciones respectivas de los responsables a las Autoridades competentes.
 
+###### Artículo 18.
+
+Quedan revocados los permisos concedidos administrativamente para el ejercicio de las profesiones que se reglamentan, fijándose a los interesados un plazo de dos meses a partir de la fecha en que se promulguen esta Ley para que cumplan con las prescripciones que contiene.
+
 TRANSITORIO. Quedan derogadas todas las leyes y disposiciones que se opongan a la presente, la cual quedará en vigor desde la fecha de su promulgación.
 
 Dado en el Salón de sesiones del H. Congreso del Estado en la Ciudad de Saltillo, a los catorce días del mes de mayo de mil novecientos veinticuatro.
@@ -132,3 +138,9 @@ J. GARZA GARCIA.
 El Srio. del Ejvo. del Edo.
 
 Lic. P. AGUIRRE S.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 1924.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
