@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-14743"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "1993-12-22"
+last_updated: "1998-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 22 de diciembre de 1993.
 
@@ -71,9 +71,11 @@ Con las modificaciones que se han estimado pertinentes, algunos puramente gramat
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MORELOS
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
 ###### Artículo 1°.
 
-Las disposiciones de esta Ley son de orden público, y tienen por objeto la prevención y sanción de la tortura en el Estado de Morelos.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto la Prevención y Sanción de la Tortura en el Estado de Morelos.
 
 ###### Artículo 2°.
 
@@ -89,9 +91,15 @@ IV. La profesionalización de los servidores públicos que participan en la cust
 
 V. La protección y respeto a los derechos humanos de los detenidos o reos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
 ###### Artículo 3°.
 
-Comete el delito de tortura el servidor público que, con motivo de sus atribuciones y de manera intencional, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido.
+Comete el delito de tortura el servidor público que, con motivo de sus atribuciones y de manera intencional, inflija a una persona, dolores o sufrimientos sean físicos o psíquicos, con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarlo por un acto que haya cometido o se sospeche ha cometido, o para obligarlo a hacer o dejar de hacer cualquier acto.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
+Para los efectos de esta Ley se consideran servidores públicos a las personas reconocidas como tales en términos de lo dispuesto por el artículo 134 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 No se considerará como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad, siempre que no incluyan la realización de los actos o la aplicación de los métodos a que se refiere este artículo.
 
@@ -99,31 +107,39 @@ No se considerará como tortura las molestias o penalidades que sean consecuenci
 
 A quien cometa el delito de tortura se aplicará prisión de tres a doce años, multa de doscientos a quinientos días de salario mínimo general vigente en el Estado, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por dos tantos de lapso de privación de libertad impuesta.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
 ###### Artículo 5°.
 
-Las penas previstas en el artículo anterior se aplicarán al servidor público que, con motivo del ejercicio de su cargo, con cualesquiera de las finalidades señaladas en el artículo 3º de esta Ley, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que este bajo su custodia.
+Las penas previstas en el artículo anterior se aplicarán al servidor público que, con motivo del ejercicio de su cargo, con cualesquiera de las finalidades señaladas en el artículo 3 de esta Ley, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona.
 
-Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, emplícita (sic) o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos sean físicos o psíquicos, a una persona.
 
 ###### Artículo 6°.
 
 No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-###### Artículo 7°.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
 
-Los servidores públicos dependientes del Ejecutivo Estatal que participen en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión, deberán asegurar la plena protección de su salud e integridad física y en particular tomarán medidas inmediatas para proporcionarle atención médica cuando sea necesario.
+###### Artículo 7º.
 
-###### Artículo 8°.
+Los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a investigación, arresto, detención o prisión, deberán asegurar la plena protección de su salud e integridad física y en particular tomarán medidas inmediatas para proporcionarle atención médica cuando sea necesario.
 
-En el momento en que lo solicite cualquier detenido o reo deberá ser reconocido por perito médico legista; y en caso de falta de éste, o si lo requiere además, por un facultativo de su elección.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
+###### Artículo 8º.
+
+En el momento en que lo solicite cualquier detenido, reo o agraviado deberá ser reconocido por perito médico legista; y en caso de falta de éste, o si lo requiere además, por facultativo de su elección.
 
 El que haga el reconocimiento queda obligado a expedir de inmediato el certificado correspondiente y en caso de apreciar que se han infligido dolores o sufrimientos, de los comprendidos en el primer párrafo del artículo 3º de esta Ley, deberá comunicarlo a la autoridad competente.
 
 La solicitud de reconocimiento médico puede formularla el defensor del detenido o reo, o un tercero.
 
-###### Artículo 9°.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
 
-Ninguna confesión, declaración o información que haya sido obtenida mediante tortura podrá invocarse como prueba.
+###### Artículo 9º.
+
+Ninguna confesión, declaración, información o hecho, que se acredite hubiere sido obtenido mediante tortura, podrá invocarse como prueba.
 
 ###### Artículo 10.
 
@@ -149,15 +165,17 @@ VII. Menoscabo de la reputación.
 
 Para fijar los montos correspondientes, el Juez tomará en cuenta la magnitud del daño causado.
 
-El Estado estará obligado subsidiariamente a la reparación del daño en los términos en que disponga la legislación aplicable.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
+
+El Estado, en su ámbito correspondiente, estará obligado solidariamente a la reparación del daño en los términos en que disponga la legislación aplicable y tendrá la obligación de repetir en contra del servidor público responsable, en un plazo no mayor de un año.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1998)</small>
 
 ###### Artículo 12.
 
-Cualquier persona que conozca de la comisión del delito de tortura, deberá ponerlo de inmediato en conocimiento de las autoridades correspondientes.
+El servidor público o la persona que conozca de la comisión del delito de tortura deberá hacerlo inmediatamente del conocimiento del ministerio público y en caso de no cumplir esta disposición, se le sancionara con las penas del delito de encubrimiento y, en su caso, con la suspensión del cargo.
 
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de tres meses a tres años de prisión, y multa de quince a sesenta días de salario mínimo general vigente en el Estado, sin perjuicio de lo que establezcan otras leyes.
-
-El agente del Ministerio Público que en ejercicio de sus funciones tenga conocimiento por sí o por denuncia de terceros de la comisión de hechos que constituyan el delito de tortura, deberá de iniciar, de oficio e inmediatamente, la averiguación previa correspondiente para determinar lo ocurrido y en su caso ejercitar la acción penal en contra de quienes resulten responsables; si no lo hiciere se le impondrán las sanciones establecidas en el párrafo anterior.
+El agente del ministerio público que en ejercicio de sus funciones tenga conocimiento por sí o por denuncia, de la comisión de hechos que constituyan o presuman el delito de tortura, deberá de iniciar inmediatamente y de oficio, la averiguación previa correspondiente para determinar lo ocurrido y en su caso ejercitar la acción penal en contra de quien o quienes resulten responsables; si no lo hiciere se le impondrán las sanciones referidas en el párrafo anterior, independientemente de las sanciones que se deriven de la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 13.
 
@@ -198,3 +216,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE NOVIEMBRE DE 1998.
+
+PRIMERO.- Aprobado que sea el presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Aprobado que sea el presente dictamen, emítase el decreto correspondiente y túrnese al Ejecutivo del Estado para los efectos conducentes.
