@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-notariado-para-el-estado-de-guerrero-no-114-19432"
 country: "mx"
 rank: "ley"
 publication_date: "1967-09-06"
-last_updated: "1967-09-06"
+last_updated: "1975-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUERRERO NO. 114
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1975.
 
 Ley publicada en los Periódicos Oficiales del Estado de Guerrero, el 6 de septiembre de 1967; el 13 de septiembre de 1967; el 20 de septiembre de 1967; y el 4 de octubre de 1967.
 
@@ -617,13 +617,17 @@ La oficina de los Notarios se denominará "Notaría número ....estará abierta 
 
 De las Notarías y Demarcaciones Notariales.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1975)</small>
+
 ###### Art. 90.
 
-En el Estado de Guerrero habrá tantas Notarías como Distritos Judiciales existan; pero en caso de notoria necesidad a juicio del Ejecutivo del Estado, éste tiene facultad para designar tantos Notarios cuantos fueren necesarios, en la proporción aproximada de uno por cada veinticinco mil habitantes del Distrito Judicial de que se trate.
+En el Estado de Guerrero habrá tantas Notarías como Distritos Judiciales existan; pero en caso de notoria necesidad a juicio del Ejecutivo del Estado, éste tiene facultad para designar tantos Notarios cuantos fueren necesarios, en la proporción aproximada de uno por cada 50 mil habitantes del Distrito Judicial de que se trate.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1975)</small>
 
 ###### Art. 91.
 
-En la actual comprensión política administrativa y judicial de Distrito de Tabares existirán siete Notarios y en los demás que integran el Estado de Guerrero, mientras el Ejecutivo del Estado no haga la designación correspondiente, los Jueces de Primera Instancia respectivos actuarán por receptoría.
+En la actual comprensión política administrativa y judicial del Distrito de Tabares existirán nueve Notarios y en los demás que integran el Estado de Guerrero, mientras el Ejecutivo del Estado no haga la designación correspondiente, los Jueces de Primera Instancia respectivos actuarán por receptoría.
 
 ###### Art. 92.
 
@@ -1168,3 +1172,9 @@ DR. RAYMUNDO ABARCA ALARCON.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALBERTO SAAVEDRA TORIJA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE ENERO DE 1975.
+
+UNICO:- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
