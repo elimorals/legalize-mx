@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-escalafon-para-los-maestros-dependientes-de-9616"
 country: "mx"
 rank: "reglamento"
 publication_date: "1954-07-07"
-last_updated: "1954-07-07"
+last_updated: "1963-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SON"
 
 REGLAMENTO DE ESCALAFON PARA LOS MAESTROS DEPENDIENTES DE LA DIRECCION GENERAL DE EDUCACION PUBLICA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JUNIO DE 1963.
 
 Reglamento publicado en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 7 de julio de 1954.
 
@@ -164,9 +164,11 @@ DE LA COMISION DE ESCALAFON.
 
 ### CAPITULO l.. DE LA ESTRUCTURA DE LA COMISION DE ESCALAFON
 
+> <small>(REFORMADO, B.O. 5 DE JUNIO DE 1963)</small>
+
 ###### ARTICULO 11.
 
-La Comisión de Escalafón se integrará por dos representantes del Director General de Educación, dos de la Federación Estatal de Maestros y un Presidente Arbitro designado por los anteriores, de una tema propuesta por la Dirección General de Educación.
+La Comisión de Escalafón se integrará por dos representantes del Director General de Educación, dos de la Federación Estatal de Maestros y un Presidente Arbitro designado por los anteriores, de una terna propuesta por la Dirección General de Educación. En caso de empate será el titular de la Dirección General de Educación quien haga la designación del Presidente Arbitro.
 
 ###### ARTICULO 12.
 
@@ -380,9 +382,11 @@ Los catálogos estarán en vigor desde dos meses después de su publicación, ha
 
 Las listas escalafonarias servirán de base para todo movimiento de ascenso, si se presentaren vacantes definitivas, o para la obtención de estímulos o recompensas, de conformidad con la Fracción VII del Articulo 9 de la Ley de Educación.
 
+> <small>(REFORMADO, B.O. 5 DE JUNIO DE 1963)</small>
+
 ###### ARTICULO 37.
 
-Si las licencias fueren por seis meses o menos, será la Dirección General quien cubra las vacantes, según las disposiciones legales relativas. Igualmente serán cubiertas las vacantes de última categoría. Se consideran plazas de base los nombramientos de Catedráticos.
+En los interinatos será la Dirección General de Educación quien cubra las vacantes, según las disposiciones legales relativas. En la misma forma serán cubiertas las vacantes de última categoría. Los nombramientos de catedráticos serán considerados como plazas de base.
 
 ### CAPITULO III.
 
@@ -572,9 +576,11 @@ Cualquier maestro puede ocupar una plaza inferior a la que se señale, si así c
 
 Cuando a juicio de la Dirección General de Educación, un maestro demuestre ineptitud para desempeñar el puesto a que haya sido promovido, se le removerá a la plaza que ocupaba anteriormente, o so le asignará otra de categoría semejante.
 
+> <small>(REFORMADO, B.O. 5 DE JUNIO DE 1963)</small>
+
 ###### ARTICULO 69.
 
-La Comisión boletinará oportunamente las plazas vacantes para que, dentro de un término de treinta días, se presenten las solicitudes por los aspirantes, las que serán atendidas según el lugar que se ocupe en los catálogos. Si no se presentaren candidatos, será la Dirección General quien cubra las vacantes.
+La Comisión boletinará oportunamente las plazas vacantes para que, dentro de un término de quince días, se presenten las solicitudes por los aspirantes, las que serán atendidas según el lugar que se ocupe en los catálogos. Si no se presentaren candidatos, será la Dirección General de Educación quien cubra las vacantes.
 
 ###### ARTICULO 70.
 
@@ -797,3 +803,11 @@ IGNACIO SOTO.
 El Secretario de Gobierno,
 
 LIC. RAMON CORRAL DELGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DCRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 5 DE JUNIO DE 1963.
+
+Artículo Primero.- En consecuencia con lo establecido en el artículo 3 transitorio del Reglamento que ahora se reforma, la Dirección General de Educación del Estado, podrá oportunamente y por los medios adecuados, en conocimiento de los maestros de su dependencia las reformas a que se contrae este Decreto.
+
+Artículo Segundo.- El presente Decreto entrará en vigor cinco días después de su publicación en el Boletín Oficial del Estado.
