@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-estacionamientos-publicos-del-distrito-federal-14
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-03-27"
-last_updated: "1991-03-27"
+last_updated: "1991-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,15 @@ issue_date: "1991-01-14"
 ---
 # REGLAMENTO DE ESTACIONAMIENTOS PUBLICOS DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL DIARIO OFICIAL DE LA FEDERACIÓN NÚMERO 18 DE FECHA 27 DE MARZO DE 1991.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 1991 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 REGLAMENTO DE ESTACIONAMIENTOS PÚBLICOS DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el miércoles 27 de marzo de 1991.
+Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el miércoles 27 de marzo de 1991. (REPUBLICADO EN LA G.O. 15 DE ABRIL DE 1991).
 
 Al margen un logotipo, que dice: I Asamblea de Representantes del Distrito Federal 88-91.- Oficialía Mayor.
 
@@ -76,13 +76,13 @@ Los talleres locales que, como pensiones, sean destinados de manera secundaria a
 
 ###### Artículo 4.
 
-El servicio al público de estacionamiento de vehículos, podrá ser prestado por personas físicas o morales, privadas o públicas.
+El servicio al público de estacionamiento de vehículos podrá ser prestado por personas físicas o morales privadas o públicas.
 
 ### CAPITULO II. DE LA APERTURA
 
 ###### Artículo 5.
 
-Para la apertura de un estacionamiento público, el propietario o administrador deberá presentar la declaración de apertura ante la Delegación correspondiente, con los datos y documentos siguientes:
+Para la apertura de un estacionamiento público el propietario o administrador deberá presentar la declaración de apertura ante la Delegación correspondiente con los datos y documentos siguientes:
 
 I.- Nombre o razón social y domicilio del solicitante;
 
@@ -90,7 +90,7 @@ II.- Ubicación del estacionamiento;
 
 III.- Testimonio notarial de la escritura pública del inmueble o, en su caso, el contrato de arrendamiento;
 
-IV.- Copia de la constancia de zonificación, de la licencia de construcción y de la autorización de uso y ocupación;
+IV.- Copia de la constancia de zonificación de la licencia de construcción y de la autorización de uso y ocupación;
 
 V.- El número y/o rango de cajones de estacionamiento;
 
@@ -104,17 +104,17 @@ IX.- Fecha en que se iniciará la operación;
 
 X.- El horario en que prestará el servicio;
 
-XI.- La forma y términos en que se responderá por los daños que sufran los vehículos estacionados, de conformidad del artículo 22;
+XI.- La forma y términos en que se responderá por los daños que sufran los vehículos estacionados de conformidad del artículo 22;
 
-XII.- Copia de la solicitud hecha ante la autoridad competente del Departamento del Distrito Federal para el señalamiento de la tarifa autorizada, y
+XII.- Copia de la solicitud hecha ante la autoridad competente del Departamento del Distrito Federal para el señalamiento de la tarifa autorizada y
 
 XIII.- El libro de visitas.
 
 ###### Artículo 6.
 
-En el acto de la presentación de la declaración de apertura, la Delegación verificará el cumplimiento de los requisitos establecidos en el artículo anterior; aprobará el número o rango de cajones así como el horario de funcionamiento y sellará el escrito respectivo y el libro de visitas, foliando cada una de sus hojas.
+En el acto de la presentación de la declaración de apertura la Delegación verificará el cumplimiento de los requisitos establecidos en el artículo anterior; aprobará el número o rango de cajones así como el horario de funcionamiento y sellará el escrito respectivo y el libro de visitas, foliando cada una de sus hojas.
 
-La Delegación mantendrá un expediente integrado en los términos del artículo anterior, para cada estacionamiento público ubicado en su jurisdicción e informará a la Comisión Consultiva de Fomento a los Estacionamientos sobre la apertura de nuevos establecimientos especificando los datos señalados en el artículo 5 de este ordenamiento.
+La Delegación mantendrá un expediente integrado en los términos del artículo anterior para cada estacionamiento público ubicado en su jurisdicción e informará a la Comisión Consultiva de Fomento a los Estacionamientos sobre la apertura de nuevos establecimientos especificando los datos señalados en el artículo 5 de este ordenamiento.
 
 ###### Artículo 7.
 
@@ -132,9 +132,9 @@ Se establece un órgano de promoción denominado Comisión Consultiva de Fomento
 
 La Comisión tendrá las siguientes atribuciones:
 
-I.- Mantener actualizado el padrón de los estacionamientos públicos en el Distrito Federal, con la información que para tal efecto le proporcionen cada una de las Delegaciones;
+I.- Mantener actualizado el padrón de los estacionamientos públicos en el Distrito Federal con la información que para tal efecto le proporcionen cada una de las Delegaciones;
 
-II.- Elaborar estudios de zonificación según la afluencia vehicular y las necesidades y demanda de cajones de estacionamiento en las distintas áreas de la ciudad;
+II.- Elaborar estudios de zonificación según la afluencia vehicular y los (sic) necesidades y demanda de cajones de estacionamiento en las distintas áreas de la ciudad;
 
 III.- Sostener, en materia de estacionamientos públicos, un contacto permanente con las distintas instituciones públicas receptoras de quejas ciudadanas;
 
@@ -144,11 +144,11 @@ V.- Presentar al Jefe del Departamento del Distrito Federal un documento en el q
 
 ###### Artículo 10.
 
-El Departamento del Distrito Federal esta facultado para mejorar las tarifas de los estacionamientos, tomando en consideración los siguientes criterios:
+El Departamento del Distrito Federal está facultado para mejorar las tarifas de los estacionamientos, tomando en consideración los siguientes criterios:
 
 I.- El tiempo de servicio, de acuerdo con lo dispuesto por el artículo 1, segundo el (sic) párrafo, de este ordenamiento;
 
-II.- Las características de las instalaciones, de conformidad con el artículo 3;
+II.- Las características de las instalaciones de conformidad con el artículo 3;
 
 III.- El tipo de servicio, según el artículo 3, y
 
@@ -158,7 +158,7 @@ En la fijación de las tarifas, el Departamento del Distrito Federal considerar�
 
 ###### Artículo 11.
 
-El Departamento del Distrito Federal, a fin de estimular la utilización de los medios colectivos de transporte, acordará las medidas más convenientes para alentar la construcción y el desarrollo de estacionamientos en zonas periféricas de transferencia modal, los cuales estarán sujetos a las tarifas reducidas que para este caso se autoricen.
+El Departamento del Distrito Federal, a fin de estimular la utilización de los medios colectivos de transporte acordará las medidas más convenientes para alentar la construcción y el desarrollo de estacionamientos en zonas periféricas de transferencia modal, los cuales estarán sujetos a tarifas reducidas que para este caso se autoricen.
 
 El Departamento del Distrito Federal deberá prever la construcción de estacionamientos en los proyectos de nuevas estaciones o paraderos de transporte público colectivo y concesionado.
 
@@ -170,19 +170,19 @@ El Departamento del Distrito Federal fomentará que las empresas y centros educa
 
 ###### Artículo 13.
 
-Todo estacionamiento público deberá cumplir con los requisitos estructurales y arquitectónicos que exige el Reglamento de Construcciones para la seguridad, higiene y comodidad del usuario.
+Todo estacionamiento público deberá cumplir con los requisitos estructurales y arquitectónicos que exige el Reglamento de Construcciones para la seguridad higiene y comodidad del usuario.
 
 ###### Artículo 14.
 
 Los estacionamientos públicos deberán solicitar a la autoridad competente del Departamento del Distrito Federal la tarifa autorizada que les corresponda.
 
-El Departamento del Distrito Federal expedirá, dentro de los diez días hábiles siguientes a la solicitud, una cartulina en la que consten la clasificación y zona del estacionamiento así como la tarifa que esté autorizado a cobrar.
+El Departamento del Distrito Federal expedirá dentro de los diez días hábiles siguientes a la solicitud, una cartulina en la que consten la clasificación y zona del estacionamiento así como la tarifa que esté autorizado a cobrar.
 
 El propietario o administrador deberá colocar la cartulina autorizada en la caseta de cobro a la vista del público.
 
 ###### Artículo 15.
 
-Cuando el servicio se preste por hora, sólo se cobrará completa la primera, independientemente del tiempo transcurrido. A partir de ella, el servicio se cobrará por fracciones de quince minutos.
+Cuando el servicio se preste por hora, sólo se cobrará completa la primera, independientemente del tiempo transcurrido. A partir de ella el servicio se cobrará por fracciones de quince minutos.
 
 ###### Artículo 16.
 
@@ -192,7 +192,7 @@ Para prestar sus servicios, los acomodadores deberán contar con licencia de con
 
 ###### Artículo 17.
 
-Los estacionamientos de superficie o de estructura metálica, además de los requisitos que exige la reglamentación correspondiente, deberán contar con un piso de rodamiento provisto de material de recubrimiento, debidamente nivelado y con la infraestructura de drenaje adecuada.
+Los estacionamientos de superficie o de estructura metálica, además de los requisitos que exige la reglamentación correspondiente deberán contar con un piso de rodamiento provisto de material de recubrimiento, debidamente nivelado y con la infraestructura de drenaje adecuada.
 
 ###### Artículo 18.
 
@@ -220,15 +220,15 @@ X.- Colocar, cuando se encuentren ocupados todos los lugares autorizados de esta
 
 XI.- Vigilar que los acomodadores del estacionamiento porten uniforme y gafete de identificación a la vista;
 
-XII.- Dar aviso a la Secretaría de Protección y Vialidad, cuando se introduzcan en el estacionamiento vehículos sin placas de circulación o el permiso correspondiente;
+XII.- Dar aviso a la Secretaría de Protección y Vialidad, cuando se introduzcan en el estacionamiento vehículos sin placa de circulación o el permiso correspondiente;
 
 XIII.- Llevar el registro del personal que labore en el estacionamiento, incluyendo aquellos que prestan servicios complementarios de lavado, encerado y otros similares; y
 
-XIV.- Contar con libro de visitas debidamente autorizado y foliado.
+XIV.- Contar con libro de visitas debidamente autorizado y foliado
 
 ###### Artículo 19.
 
-El Departamento del Distrito Federal deberá establecer los sistemas necesarios para que los usuarios puedan exponer sus quejas, y responderá a los mismos en un término de diez días hábiles, sobre las medidas que se lleven a cabo para corregir las anomalías. De esto, informará a la Comisión Consultiva de Fomento a los Estacionamientos.
+El Departamento del Distrito Federal deberá establecer los sistemas necesarios para que los usuarios puedan exponer sus quejas, y responderá a los mismos en un término de diez días hábiles, sobre las medida (sic) que se lleven a cabo para corregir las anomalías. De esto, informará a la Comisión Consultiva de Fomento a los Estacionamientos.
 
 ###### Artículo 20.
 
@@ -258,7 +258,7 @@ Queda prohibido a los propietarios, administradores, encargados y acomodadores d
 
 I.- Permitir que personas ajenas a los acomodadores manejen los vehículos de los usuarios;
 
-II.- Permitir una entrada mayor de vehículos al número o rango de cajones autorizado, según el tipo de servicio que preste el estacionamiento;
+II.- Permitir una entrada mayor de vehículos al número o rango de cajones autorizado, según el tipo de servido (sic) que preste el estacionamiento;
 
 III.- Permitir que los empleados se encuentren en estado de ebriedad o bajo el efecto de sustancias tóxicas, y
 
@@ -270,13 +270,13 @@ Los propietarios o administradores de estacionamientos deberán cubrir a los usu
 
 I.- En los estacionamientos de autoservicio: sólo por robo total;
 
-II.- En los acomodadores: robo total o parcial, así como daños y destrucción causados por el personal del estacionamiento.
+II.- En los acomodadores: robo total o parcial, así como daño y destrucción causados por el personal del estacionamiento.
 
 ###### Artículo 23.
 
 Los propietarios o administradores, a fin de cumplir con la obligación señalada en el artículo anterior, contratarán una póliza de seguro o bien podrán reparar los automóviles en el taller particular que acuerden con el usuario.
 
-En este último caso, deberán garantizar mediante fianza que la reparación sea de la satisfacción del propietario o poseedor del vehículo y que la entrega del automóvil reparado se efectúe dentro de un plazo que no exceda de los diez días hábiles siguientes a la fecha del siniestro.
+En este último caso, deberán garantizar mediante fianza que la reparación sea de la satisfacción dentro de un plazo que no exceda de los diez días hábiles siguientes a la fecha del siniestro.
 
 ###### Artículo 24.
 
@@ -286,11 +286,11 @@ La prestación del servicio de estacionamiento no podrá condicionarse a la de l
 
 ###### Artículo 25.
 
-Los vehículos dados en guarda se presumirán abandonados cuando su propietario o poseedor no los reclame dentro de los treinta días naturales siguientes a su ingreso, siempre que el servicio no se haya contratado por un tiempo mayor.
+Los vehículos dados en guarda se presumirán abandonados cuando su propietario o poseedor no los reclame dentro de Los treinta días naturales siguientes a su ingreso, siempre que el servicio no se haya contratado por un tiempo mayor.
 
 Vencido el plazo señalado en el párrafo anterior, el estacionamiento deberá reportar el automóvil, especificando sus características, al Servicio Público de Localización Telefónica del Departamento del Distrito Federal y a la Secretaría General de Protección y Vialidad.
 
-Si pasados treinta días naturales adicionales no es reclamado el vehículo, el estacionamiento podrá trasladarlo a otro local, notificando de ello a las autoridades correspondientes, y proceder en su caso conforme a las leyes y reglamentos aplicables.
+Si pasados treinta días naturales adicionales no es reclamado el vehículo, el estacionamiento podrá trasladarlo a otro local, notificando de ello a las autoridades correspondientes, y proceder en su caso conforme a las Leyes y reglamentos aplicables.
 
 ### CAPITULO V. DE LA REVALIDACION Y TRASPASO
 
@@ -302,7 +302,7 @@ Al efecto, los interesados deberán presentar a la Delegación, dentro de los tr
 
 ###### Artículo 27.
 
-Cuando se enajene o se cedan los derechos sobre un estacionamiento, el adquirente o cesionario deberá informarlo por escrito a la Delegación correspondiente y a la Comisión Consultiva de Fomento a los Estacionamientos, dentro de los quince días siguientes a su celebración, acompañando fotocopia del comprobante de la Tesorería del Distrito Federal por concepto de sustitución del titular de la declaración de apertura.
+Cuando se enajene o se cedan los derechos sobre un estacionamiento, el adquirente o cesionario deberá informarlo por escrito a la Delegación correspondiente y a la Comisión Consultiva de Fomento a los Estacionamientos, dentro de Los quince días siguientes a su celebración, acompañando fotocopia del comprobante de La Tesorería del Distrito Federal por concepto de sustitución del titular de La declaración de apertura.
 
 ### CAPITULO VI. DE LA INSPECCION
 
@@ -316,9 +316,9 @@ La inspección de los estacionamientos se sujetará a las siguientes bases:
 
 I.- El inspector deberá contar con orden por escrito, la cual contendrá el fundamento legal de la visita, la ubicación del estacionamiento, la fecha de expedición y la firma de la autoridad que suscribe.
 
-II.- El inspector practicará la visita dentro de las 48 horas siguientes a la expedición de la orden, identificándose como tal y mostrando la orden respectiva;
+II.- El inspector practicará la visita dentro de Las 48 hora (sic) siguientes a la expedición de La orden, identificándose como tal y mostrando la orden respectiva;
 
-III.- De toda visita se levantará acta circunstanciada por triplicado, en la que se expresará lugar, fecha, nombre de la persona con la que se entendió la diligencia y el resultado de la misma, anotando con precisión cada una de las violaciones cometidas al presente reglamento;
+III.- De toda visita se levantará acta circunstanciada por triplicado, en la que se expresará lugar, fecha, nombre de La persona con la que se entendió la diligencia y el resultado de La misma, anotando con precisión cada una de las violaciones cometidas al presente reglamento;
 
 IV.- El inspector comunicará al interesado, haciéndolo constar en el acta, que una vez que le sean notificadas las multas a que haya lugar, contará con cinco días hábiles para interponer el recurso de revocación y para aportar las pruebas y formular los alegatos que a su derecho convengan;
 
@@ -330,15 +330,163 @@ VII.- El inspector, por último, anotará en el libro de visitas del estacionami
 
 ###### Artículo 30.
 
-La Delegación, dentro de los cinco días hábiles siguientes a la visita, revisará el expediente y el acta, calificará las violaciones al presente reglamento e impondrá las sanciones a que hubiere lugar, mismas que deberán ser notificadas personalmente, en los términos del Código de Procedimientos Civiles para el Distrito Federal, al propietario, administrador o encargado del estacionamiento dentro de los tres días hábiles siguientes.
+La Delegación, dentro de los cinco días hábiles siguientes a la visita, revisará el expediente y el acta, calificará las violaciones al presente reglamento e impondrá las sanciones a que hubiere lugar, mismas que deberán ser notificadas personalmente, en los términos del código de Procedimientos Civiles para el Distrito Federal, al propietario, administrador o encargado del estacionamiento dentro de los tres días hábiles siguientes.
 
 ### CAPITULO VII. DE LAS SANCIONES
 
 ###### Artículo 31.
 
-Las sanciones que se impongan a los propietarios o administradores de estacionamientos que contravengan las disposiciones del presente reglamento se calcularán multiplicando el número o rango de cajones por la tarifa autorizada y el resultado que se obtenga, a su vez, por un tiempo de servicio de ocho, dieciséis o veinticuatro horas, de acuerdo con la siguiente tabla:
+Las sanciones que se impongan a los propietarios o administradores de estacionamientos que contravengan las disposiciones del presente reglamento se calcularán multiplicando el número o rango de cajones por la tarifa autorizada y el resultado que se obtenga a su vez, por un tiempo de servicio de ocho, dieciséis o veinticuatro horas, de acuerdo con la siguiente tabla:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 27 DE MARZO DE 1991, PÁGINAS DE LA 28 A LA 29.]</small>
+FALTA 8 16 24
+
+HS HS HS
+
+a) No respetar las tarifas autorizadas. (a.10) X
+
+b) No cobrar el servicio por fracciones
+
+de quince minutos, después de la primera
+
+hora. (a.15) X
+
+c) Operar sin haber presentado
+
+debidamente requisitada la declaración
+
+de apertura. (a. 5) X
+
+ch) Cambiar el giro del local sin
+
+comunicarlo a la Delegación o colocar
+
+el aviso al público. (a. 8) X
+
+d) Abstenerse de solicitar la cartulina con
+
+la tarifa autorizada o de colocarla en la
+
+caseta de cobro a la vista del público.
+
+(a. 14, y 18, IV) X
+
+e) Ocupar más allá del tiempo
+
+necesario los carriles de entrada, salida
+
+o circulación, según el caso. (a.18, XI) X
+
+f) No tener a la vista la declaración de
+
+apertura. (a. 18, V) X
+
+g) Que los trabajadores no utilicen
+
+uniforme o gafete de identificación.
+
+(a. 18, XI) X
+
+h) Omitir el registro del personal y de
+
+quienes prestan servicios complementarios.
+
+(a. 18, XII) X
+
+i) Condicionar el servicio de
+
+estacionamiento a la prestación de los
+
+servicios complementarios, o no mantener
+
+a la vista del público la lista de precios
+
+correspondiente. (a.24) X
+
+j) No colocar a la vista del público el
+
+horario, o no observarlo. (a. 18, VI) X
+
+k) Omitir la entrega del boleto. (a. 18, VIII) X
+
+l) Que el boleto no contenga los requisitos
+
+señalados. (a. 20) X
+
+ll) Rehusarse a expedir el comprobante
+
+de pago. (a. 18, IX) X
+
+m) Estacionar un número mayor de
+
+vehículos al autorizado o no colocar el
+
+anuncio respectivo cuando no haya cupo.
+
+(a. 5, V; 18, X; y 21, II) X
+
+n) Abstenerse de proporcionar la
+
+vigilancia necesaria. (a. 18, III) X
+
+ñ) No colocar en lugar visible los números
+
+telefónicos para quejas. (a. 18, VII) X
+
+o) Contar con personal sin capacitación o
+
+licencia para conducir. (a. 16) X
+
+p) Que el piso del estacionamiento no
+
+esté recubierto, nivelado o no cuente
+
+con la infraestructura de drenaje. (a. 17) X
+
+q) Permitir que personas ajenas a los
+
+acomodadores conduzcan los vehículos
+
+en guarda. (a. 21, I) X
+
+r) Que el personal se encuentre ebrio o
+
+intoxicado. (a. 21, III) X
+
+s) Sacar sus vehículos dados en custodia.
+
+(a. 21, IV) X
+
+t) No cubrir a los usuarios los daños
+
+ocasionados a sus vehículos durante el
+
+tiempo de guarda. (a. 22 y 23) X
+
+u) Reparar los daños de los vehículos
+
+fuera del plazo o sin satisfacción del
+
+usuario. (a. 23) X
+
+v) Omitir la revalidación anual del registro
+
+de la declaración de apertura. (a. 26) X
+
+w) Abstenerse de informar sobre la
+
+sustitución del propietario o administrador
+
+del estacionamiento. (a. 27) X
+
+x) No pagar los derechos por cualesquiera
+
+de los conceptos señalados (a. 5, 26 y 27) X
+
+y) Obstaculizar la labor del inspector en
+
+sus visitas o no contar con el libro
+
+respectivo. (a. 29) X
 
 ###### Artículo 32.
 
@@ -393,3 +541,17 @@ Tercero.- Los estacionamientos públicos que se encuentren funcionando de acuerd
 Cuarto.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal y, por ser interés general, en el Diario Oficial de la Federación.
 
 Salón de Sesiones de la Primera Asamblea de Representantes del Distrito Federal, a 14 de enero de 1991.- El Presidente, Adolfo Kunz Bolaños.- Rúbrica.- El Secretario, Daniel Aceves Villagrán.- Rúbrica.- El Secretario, Salvador Abascal Carranza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE ABRIL DE 1991.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ESTACIONAMIENTOS PÚBLICOS DEL DISTRITO FEDERAL”.]
+
+Primero.- El presente ordenamiento entrará en vigor a los sesenta días de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
+
+Segundo.- A partir de la fecha en que entre en vigor, quedará abrogado el Reglamento para el Estacionamiento de Vehículos en el Distrito Federal, publicado en el Diario Oficial de la Federación el 1o. de julio de 1980.
+
+Tercero.- Los estacionamientos públicos que se encuentren funcionando de acuerdo con las concesiones, permisos o licencias obtenidas con anterioridad, podrán seguirlo haciendo sin que para ello sea necesario presentar la declaración de apertura que se establece en el artículo 5, siempre que se ajusten en lo demás a lo dispuesto por el presente reglamento.
+
+Cuarto.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal y, por ser interés general, en el Diario Oficial de la Federación.
