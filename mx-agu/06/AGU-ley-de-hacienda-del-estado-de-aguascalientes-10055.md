@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "1996-12-29"
+last_updated: "1999-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -623,27 +623,17 @@ Son ingresos extraordinarios aquellos que la hacienda pública del Estado percib
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
 #### SECCION SEGUNDA. De los Sujetos
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
 #### SECCION CUARTA. De la Base
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO I. Del Impuesto Sobre el Ejercicio de Profesiones
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION QUINTA. Del Pago
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 37.
 
@@ -659,8 +649,6 @@ IV.- Expropiaciones.
 
 #### SECCION SEXTA. De las Obligaciones
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 38.
 
 Lo constituyen los ingresos provenientes de:
@@ -671,13 +659,19 @@ I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteri
 
 #### SECCION SEPTIMA. De las Facultades de la Autoridad
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 39.
 
-Son objeto de este impuesto, los ingresos que se obtengan en efectivo o en especie, derivados del libre ejercicio de una profesión, de una actividad cultural, artística, deportiva o de cualquier otra naturaleza.
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
 
-En tanto el Estado se encuentre adherido al Sistema Nacional de Coordinación Fiscal, sólo podrán ser objeto de este impuesto los ingresos percibidos que no estén gravados por la Ley del Impuesto al Valor Agregado.
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION PRIMERA. Del Objeto
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 40.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -685,9 +679,25 @@ En tanto el Estado se encuentre adherido al Sistema Nacional de Coordinación Fi
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 40.
+###### ARTICULO 41.
 
-Son sujetos de este impuesto las personas físicas que habitual o eventualmente obtengan los ingresos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 42.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
+
+###### ARTICULO 43.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 44.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -695,33 +705,9 @@ Son sujetos de este impuesto las personas físicas que habitual o eventualmente 
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 41.
+###### ARTICULO 45.
 
-Serán solidariamente responsables del pago de este impuesto, las agrupaciones, sociedades o asociaciones, así como cualquiera otras, independientemente del nombre con el que se les designe, de las que formen parte en calidad de socios o asociados, los contribuyentes que perciban los ingresos señalados en este Capítulo.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 42.
-
-Es base de este impuesto, el monto total de los ingresos percibidos, disminuidos los descuentos y bonificaciones que realicen.
-
-El cálculo del impuesto se hará sobre la cantidad determinada conforme al párrafo anterior, aplicándole la tasa que señale la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 43.
-
-El impuesto a que se refiere este Capítulo, se calculará por ejercicios fiscales. Al impuesto del ejercicio se le disminuirán los pagos provisionales mensuales efectuados.
-
-Los sujetos que obtengan ingresos de los mencionados en este Capítulo, estarán obligados a presentar declaración del ejercicio, a más tardar en el mes de mayo del año siguiente al que corresponda el pago.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 44.
-
-Los Contribuyentes efectuarán pagos provisionales mensuales a más tardar los días 17 o siguiente hábil, del mes siguiente al que corresponda el ingreso mediante declaraciones que presentarán en las oficinas autorizadas de la Secretaría de Finanzas del Estado, en las formas oficiales aprobadas para el efecto.
-
-El pago provisional se determinará considerando la totalidad de los ingresos percibidos en el mes, sin considerar los descuentos y bonificaciones que realice, a este resultado se le aplicará la tasa establecida en la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -729,41 +715,9 @@ El pago provisional se determinará considerando la totalidad de los ingresos pe
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 45.
-
-Los contribuyentes que obtengan ingresos de los comprendidos en este Capítulo, tendrán las siguientes obligaciones:
-
-I. Solicitar su inscripción al Padrón de Contribuyentes del Estado de Aguascalientes, en las formas aprobadas por la Secretaría de Finanzas del Estado.
-
-La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos federales;
-
-II. Pagar el impuesto establecido en este capítulo, presentando en las fechas establecidas, las declaraciones del ejercicio y de pagos provisionales;
-
-III. Proporcionar a las autoridades fiscales, los datos e informes que le sean solicitados dentro del plazo que para ello se les fije;
-
-IV. Recibir las órdenes de visita domiciliaria y previa identificación de los visitadores autorizados por las autoridades fiscales, proporcionar todos los informes y documentos que le soliciten para el desempeño de sus funciones, cumpliendo con las formalidades y requisitos que se establecen en el Código Fiscal del Estado;
-
-V. Llevar contabilidad, conforme a las disposiciones fiscales federales, o de acuerdo a los principios de contabilidad generalmente aceptados;
-
-VI. Expedir documentación comprobatoria, de acuerdo con las disposiciones fiscales federales aplicables; y
-
-VII. Conservar los comprobantes de pago de este impuesto.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
-#### SECCION QUINTA. De la Tasa
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 46.
 
-La Secretaría de Finanzas del Estado podrá estimar los ingresos de los contribuyentes de este impuesto, en los siguientes casos:
-
-I. Cuando no presenten declaraciones del ejercicio o de pagos provisionales; no lleven contabilidad conforme a la legislación aplicable o no efectúen los registros contables en los libros correspondientes; o no expidan la documentación comprobatoria de sus operaciones; o
-
-II. Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingresos superior, cuando menos en un diez por ciento al declarado por el contribuyente.
-
-Para practicar las estimaciones a que se refiere este artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios similares por la prestación de esos servicios, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+(DEROGADO, P.O. 14 DE FEBRERO DE 1999)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -771,7 +725,7 @@ Para practicar las estimaciones a que se refiere este artículo se tendrán en c
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEXTA. Del Pago
+#### SECCION QUINTA. De la Tasa
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -779,7 +733,9 @@ Para practicar las estimaciones a que se refiere este artículo se tendrán en c
 
 Es objeto de este impuesto la obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado.
 
-#### SECCION SEPTIMA. De la Retención
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION SEXTA. Del Pago
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -791,7 +747,7 @@ Las personas físicas, morales o unidades económicas sin personalidad jurídica
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION OCTAVA. De la Causación
+#### SECCION SEPTIMA. De la Retención
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -803,7 +759,7 @@ Los organizadores del evento de cuyo resultado dependa la obtención del ingreso
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. Del Objeto
+#### SECCION OCTAVA. De la Causación
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
@@ -848,8 +804,6 @@ I. Para los sujetos que obtengan los ingresos o premios derivados de loterías, 
 ###### ARTICULO 55.
 
 Las infracciones al presente Título se sancionarán de conformidad a lo previsto por el Código Fiscal del Estado.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO TERCERO. De los Productos
 
@@ -930,3 +884,7 @@ P.O. 29 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 Las reformas establecidas en el presente Decreto, entrarán en vigor el día primero de enero de mil novecientos noventa y siete.
+
+P.O. 14 DE FEBRERO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
