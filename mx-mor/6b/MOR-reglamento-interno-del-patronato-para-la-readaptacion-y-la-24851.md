@@ -1,0 +1,330 @@
+---
+title: "REGLAMENTO INTERNO DEL PATRONATO PARA LA READAPTACION Y LA REINCORPORACION SOCIAL POR EL EMPLEO Y LA INDUSTRIA PENITENCIARIA DEL ESTADO DE MORELOS"
+identifier: "MOR-reglamento-interno-del-patronato-para-la-readaptacion-y-la-24851"
+country: "mx"
+rank: "reglamento"
+publication_date: "2002-05-01"
+last_updated: "2002-05-01"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24851&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "24851"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "4184"
+reform_count: "2"
+scjn_last_update: "2004-04-28"
+issue_date: "2002-03-08"
+state: "MOR"
+---
+# REGLAMENTO INTERNO DEL PATRONATO PARA LA READAPTACION Y LA REINCORPORACION SOCIAL POR EL EMPLEO Y LA INDUSTRIA PENITENCIARIA DEL ESTADO DE MORELOS
+
+REGLAMENTO INTERNO DEL PATRONATO PARA LA READAPTACION Y LA REINCORPORACION SOCIAL POR EL EMPLEO Y LA INDUSTRIA PENITENCIARIA DEL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de mayo de 2002.
+
+Al margen izquierdo un escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Poder Ejecutivo del Estado de Morelos.
+
+SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS ATRIBUCIONES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, 2, 8 Y 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA ESTATAL Y 120 DE LA LEY DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD, PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE MORELOS, Y
+
+CONSIDERANDO.
+
+Por lo antes expuesto, he tenido a bien expedir el siguiente:
+
+REGLAMENTO INTERNO DEL PATRONATO PARA LA READAPTACIÓN Y LA REINCORPORACIÓN SOCIAL POR EL EMPLEO Y LA INDUSTRIA PENITENCIARIA DEL ESTADO DE MORELOS
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El presente Reglamento tendrá por objeto regular la integración y funcionamiento del Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado, el cual estará dotado de personalidad jurídica y patrimonio propios.
+
+El Patronato tendrá a su cargo la asistencia moral y material de los liberados tanto por cumplimiento de su sanción, como por libertad procesal, absolución, condena condicional, remisión parcial de la sanción, libertad preparatoria y tratamiento preliberacional. Así mismo, tendrá como finalidad proponer a las autoridades encargadas de la readaptación social de los internos la formulación y ejecución de planes, proyectos y acciones encaminadas a cumplir lo dispuesto por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, según las características y posibilidades de cada Institución de Readaptación Social en el Estado.
+
+###### Artículo 2.
+
+Para efectos del presente Reglamento se entenderá por:
+
+I. Patronato. El Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado;
+
+II. Ley. La Ley de Ejecución de Sanciones y Medidas de Seguridad, Privativas y Restrictivas de la Libertad para el Estado de Morelos;
+
+III. Consejo. El Consejo de Patronos del Patronato para la Readaptación y la Reincorporación Social por el Empleo y la Industria Penitenciaria del Estado;
+
+IV. Institución de Readaptación Social. El Centro Estatal de Readaptación Social y los Establecimientos Distritales de Readaptación Social;
+
+V. Interno. Toda persona que ha ingresado en una Institución de Readaptación Social, sea en calidad de indiciado, procesado, sentenciado o sujeto a extradición, y
+
+VI. Liberado. A la persona que ha egresado de una Institución de Readaptación Social, tanto por cumplimiento de su sanción, como libertad procesal, absolución, condena condicional, remisión parcial de la sanción, libertad preparatoria y tratamiento preliberacional.
+
+###### Artículo 3.
+
+Los fines y actividades a cargo del Patronato no serán de carácter lucrativo.
+
+La asistencia que otorgue el Patronato se brindará conforme a las circunstancias de cada caso y a las posibilidades del propio organismo, estará exenta de carácter policial y podrá comprender medidas de auxilio moral, económico, jurídico, social y laboral.
+
+###### Artículo 4.
+
+El Patronato podrá prestar colaboración a otras instituciones similares o solicitarla de ellas para el mejor cumplimiento de sus objetivos. Además formará parte de la Sociedad de Patronatos, dependiente de la autoridad federal competente, prevista por la Ley que establece las Normas Mínimas sobre la Readaptación Social de Sentenciados.
+
+###### Artículo 5.
+
+El Patronato para el cumplimiento de su objeto constituirá su propio patrimonio, buscando en todo momento su autosuficiencia.
+
+El patrimonio se integrará por:
+
+I. Los recursos que le asigne el H. Congreso del Estado en el Presupuesto de Egresos;
+
+II. Los bienes que el Titular del Ejecutivo le asigne;
+
+III. Las aportaciones, legados, donaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal, o las personas físicas o morales de carácter privado.
+
+###### Artículo 6.
+
+El Patronato gozará de las prerrogativas y exenciones previstas en las leyes fiscales del Estado, en virtud de que es un organismo no lucrativo y su finalidad es promover, alentar y asegurar la readaptación social de internos y liberados, a través de la capacitación y promoción del empleo.
+
+### CAPITULO II. DE LA INTEGRACIÓN DEL PATRONATO
+
+###### Artículo 7.
+
+El Patronato para el ejercicio de sus funciones contará con los siguientes órganos de gobierno, administración y vigilancia:
+
+I. Consejo de Patronos;
+
+II. Comité Ejecutivo;
+
+III. Dirección General, y
+
+IV. Comisaría Pública.
+
+###### Artículo 8.
+
+Los integrantes del Consejo no gozarán de emolumentos, por tratarse de cargos y funciones de carácter honorífico.
+
+### CAPITULO III. DEL CONSEJO
+
+###### Artículo 9.
+
+El Consejo será el órgano superior de gobierno del Patronato y estará integrado por:
+
+I. Un representante del Poder Ejecutivo, quien lo presidirá;
+
+II. Un representante del Poder Legislativo, designado de entre los integrantes de la Comisión de Industria, Comercio y Servicios;
+
+III. Un representante del Poder Judicial del Estado;
+
+IV. Un representante del Sector Obrero;
+
+V. Un representante de una Institución Tecnológica, y
+
+VI. Un representante del Sector Empresarial.
+
+El Presidente del Consejo designará a los representantes señalados en las fracciones IV a VI.
+
+###### Artículo 10.
+
+Los titulares integrantes del Consejo cuando por causas de fuerza mayor se vean imposibilitados para asistir a las reuniones bimestrales, tendrán la facultad de designar a sus representantes suplentes.
+
+###### Artículo 11.
+
+Podrán ser admitidos en el Consejo con el carácter de auxiliares, con voz pero sin voto, los representantes de aquellas instituciones que presten colaboración efectiva para el cumplimiento de su objeto.
+
+###### Artículo 12.
+
+El Consejo de Patronos tendrá la obligación de celebrar sesiones ordinarias bimestralmente con la finalidad de conocer y revisar los avances que en materia de capacitación laboral, comercialización de los productos y administración financiera guarde el Patronato.
+
+###### Artículo 13.
+
+El Consejo sesionará con la asistencia de la mitad más uno de sus miembros, sus resoluciones se adoptarán por la mayoría de los asistentes y en caso de empate será el Presidente del Patronato, o su representante, quien tendrá voto de calidad. En caso necesario se podrá convocar a sesiones extraordinarias, cuando la mayoría de sus miembros lo solicite o en caso de urgencia, cuando así lo amerite.
+
+###### Artículo 14.
+
+Las sesiones del Consejo se harán previa convocatoria expedida por el Presidente o Secretario, en la cual se señalará el lugar, fecha y hora de la reunión, se anexará orden del día y, en su caso, el apoyo documental de los asuntos a tratar.
+
+La convocatoria se hará llegar a los integrantes del Consejo cuando menos con cinco días hábiles de anticipación a la fecha de la sesión ordinaria y con veinticuatro horas de anticipación tratándose de una extraordinaria.
+
+###### Artículo 15.
+
+De cada sesión celebrada se levantará el acta correspondiente, la cual contendrá el orden del día, un resumen de los asuntos tratados y los acuerdos o resoluciones tomados.
+
+El acta se someterá a la consideración y aprobación del Consejo en la siguiente sesión, debiendo ser firmada por los integrantes que hubiesen asistido.
+
+###### Artículo 16.
+
+Son atribuciones del Consejo:
+
+I. Fijar los programas a desarrollar, así como las estrategias para el apoyo a los internos a través de la capacitación y adiestramiento para el empleo, en los centros y establecimientos de internamiento;
+
+II. Incentivar al interno y a su familia a mejorar el nivel de vida, por medio del fruto de su esfuerzo y su trabajo;
+
+III. Orientar al interno para que con el producto de su trabajo participe en la reparación del daño a sus víctimas;
+
+IV. Encauzar al interno para su reincorporación en el seno familiar y de la sociedad;
+
+V. Determinar los canales adecuados para la debida comercialización de los productos generados por los internos, con el objeto de obtener ingresos que permitan la creación de nuevos empleos y lograr la autosuficiencia penitenciaria;
+
+VI. Conocer, discutir y aprobar, en su caso, los informes que rinda el Director General;
+
+VII. Promover ante los diferentes organismos públicos y privados, apoyo para la consolidación de fondos para el arranque financiero del Patronato;
+
+VIII. Conocer, discutir y aprobar los estados financieros del Patronato, como son sus estados contables, ingresos y presupuestos de egresos;
+
+IX. Crear una bolsa de trabajo gratuita;
+
+X. Ofrecer asistencia médica a través de las instituciones especializadas;
+
+XI. Prestar servicios educativos por medio de las instituciones correspondientes;
+
+XII. Proporcionar asistencia jurídica;
+
+XIII. Determinar las tareas que deberá cumplir el Comité Ejecutivo, y
+
+XIV. Las demás que le confieran otras disposiciones legales aplicables.
+
+###### Artículo 17.
+
+Son atribuciones del Presidente del Consejo:
+
+I. Presidir las sesiones del Consejo;
+
+II. Efectuar ante las autoridades correspondientes las gestiones requeridas para la realización de las funciones del Patronato;
+
+III. Someter para discusión y aprobación del Consejo los estados financieros del Patronato;
+
+IV. Vigilar que se cumplan los acuerdos o resoluciones tomadas por el Consejo, y
+
+V. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+### CAPITULO IV. DEL COMITÉ EJECUTIVO
+
+###### Artículo 18.
+
+El Comité Ejecutivo se constituirá con el Presidente del Consejo, un Secretario y un Tesorero, designados éstos últimos por el Gobernador del Estado, debiendo señalar además a los respectivos suplentes.
+
+###### Artículo 19.
+
+El Comité Ejecutivo se reunirá por lo menos una vez al mes, procurando que sus reuniones se celebren en fecha inmediata anterior a la fijada para la sesión del Consejo.
+
+###### Artículo 20.
+
+El Comité Ejecutivo tiene a su cargo la ejecución de las medidas acordadas por el Consejo, al que deberá informar sobre el particular, por conducto del Presidente o del Secretario, en las sesiones ordinarias o extraordinarias.
+
+###### Artículo 21.
+
+El Secretario tendrá las siguientes atribuciones:
+
+I. Suscribir, junto con los miembros del Consejo, los acuerdos o resoluciones que hubiesen tomado y vigilar su cumplimiento;
+
+II. Dar cuenta al Presidente del avance de los asuntos o cumplimiento de los acuerdos del Consejo;
+
+III. Expedir las convocatorias para las sesiones del Consejo, en los términos que señala el presente Reglamento;
+
+IV. Redactar las actas de las sesiones, en los términos señalados por el presente Reglamento, y someterlas a la consideración, aprobación y, en su caso, rúbrica de los miembros del Consejo;
+
+V. Encargarse de las comunicaciones internas del Patronato;
+
+VI. Las demás que le encomienden otras disposiciones jurídicas.
+
+###### Artículo 22.
+
+El Tesorero tendrá las siguientes atribuciones:
+
+I. Formular los estados financieros del Patronato y someterlos a la consideración del Consejo;
+
+II. Manejar los recursos destinados a la realización de las actividades y funciones del Patronato;
+
+III. Disponer el pago de documentos debidamente requisitados que se refieran a adquisiciones, remuneraciones y demás erogaciones autorizadas;
+
+IV. Aplicar, de acuerdo a lo establecido en el Presupuesto de Egresos, las cantidades designadas a gastos administrativos;
+
+V. Llevar bajo su responsabilidad los libros de contabilidad del Patronato, y
+
+VI. Las demás que le otorguen otras disposiciones jurídicas.
+
+### CAPITULO V. DE LA DIRECCIÓN GENERAL
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 23.
+
+La Dirección General estará a cargo de un titular que será el representante legal del Patronato y para ser designado deberá reunir los requisitos que señala el artículo 32 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado.
+
+> <small>(F. DE E., P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 24.
+
+El Director General será designado y removido de su cargo por el titular del Ejecutivo, debiendo asistir a las sesiones del Consejo, con voz pero sin voto.
+
+En sus ausencias será suplido por la persona que designe el Consejo.
+
+###### Artículo 25.
+
+El Director General tendrá las atribuciones siguientes:
+
+I. Elaborar los programas de trabajo, así como las metas y objetivos para el cumplimiento de los mismos;
+
+II. Convocar a los integrantes del Consejo a asambleas ordinarias y extraordinarias, cuando la urgencia del caso lo amerite;
+
+III. Promover los donativos ante las diversas dependencias gubernamentales, iniciativa privada, asociaciones y clubes;
+
+IV. Atender los asuntos relacionados con la promoción y capacitación del empleo de los internos;
+
+V. Promover la comercialización y venta de los productos que se elaboren en los Centros y Establecimientos de Readaptación Social;
+
+VI. Vigilar el manejo de los fondos destinados al financiamiento y administración de las ventas de los productos elaborados por los internos;
+
+VII. Someter a la consideración del Patronato los informes que se rindan a los internos respecto de las utilidades obtenidas con el producto de su trabajo;
+
+VIII. Representar legalmente al Patronato, con la facultad de celebrar los convenios, contratos y ejecutar los actos jurídicos que requiera el objeto o la marcha ordinaria del mismo, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+### CAPITULO VI. DE LOS ÓRGANOS DE VIGILANCIA
+
+###### Artículo 26.
+
+La Comisaría será el órgano de vigilancia del Patronato, se integrará por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Estado.
+
+###### Artículo 27.
+
+El Comisario tendrá las siguientes atribuciones:
+
+I. Representar a la Secretaría de la Contraloría ante el Consejo;
+
+II. Analizar y evaluar los sistemas, mecanismos y procedimientos de control utilizados en el Patronato;
+
+III. Vigilar que el manejo y aplicación de los recursos públicos se efectúe de acuerdo a las disposiciones legales aplicables;
+
+IV. Realizar auditorías y revisiones de cualquier naturaleza, para verificar el cumplimiento de las disposiciones legales;
+
+V. Presentar al Director General y al Consejo los informes que resulten de las revisiones, auditorías, análisis y evaluaciones que realice;
+
+VI. Asistir a las sesiones del Consejo con voz, pero sin voto, y
+
+VII. Las demás que le encomienden otras disposiciones jurídicas.
+
+###### Artículo 28.
+
+Los integrantes del Consejo, del Comité Técnico y el Director General, así como los demás servidores públicos que intervengan en el Patronato, serán responsables de los delitos y las faltas en que incurran en el ejercicio de sus funciones y se les sancionará conforme a las disposiciones legales aplicables.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de información del Gobierno del Estado.
+
+SEGUNDO. El Director General realizará los trámites necesarios para la inscripción del presente Reglamento en el Registro Público de Organismos Descentralizados del Estado de Morelos, de acuerdo a lo dispuesto por el artículo 34 de la Ley de Organismos Auxiliares de la Administración Pública del Estado.
+
+Dado en la Residencia del Poder Ejecutivo Estatal, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los ocho días del mes de marzo del año dos mil dos.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+LIC. SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ
+
+EL SECRETARIO DE GOBIERNO
+
+EDUARDO BECERRA PÉREZ.
+
+RUBRICA
