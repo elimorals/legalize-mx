@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2004-09-08"
+last_updated: "2004-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2004.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -321,9 +321,67 @@ XXXVIII. Formular el reporte estadístico integrado;
 
 XXXIX. Remitir el reporte estadístico autorizado a las áreas que así lo requieran;
 
-XL. Diseñar y elaborar reportes que integren la información procesada, en forma tal que permitan canalizar la atención de los usuarios hacia puntos específicos de interés, y
+XL. Diseñar y elaborar reportes que integren la información procesada, en forma tal que permitan canalizar la atención de los usuarios hacia puntos específicos de interés, y (sic)
+
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL 56/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+XL bis. Dar seguimiento a las actividades de la Dirección General de Relaciones Nacionales e Internacionales a fin de que se ajuste a las directrices de la Comisión de Carrera Judicial, y en su caso, a las del Pleno del Consejo de la Judicatura Federal;
 
 XLI. Las demás que determine el Pleno del Consejo y las Comisiones de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 56/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 12 bis.- Estructura. La Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos, contará con la Dirección General de Relaciones Nacionales e Internacionales que estará adscrita a la Comisión de Carrera Judicial.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 56/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 12 ter.- Objetivo. La Dirección General de Relaciones Nacionales e Internacionales, será la responsable de reforzar la presencia del Consejo de la Judicatura Federal tanto en el ámbito nacional como en el internacional, en particular para contribuir al fortalecimiento del propio consejo, de su independencia y de la capacitación de sus funcionarios, así como de efectuar programas especiales de utilidad real y efectiva para el desempeño de las funciones encomendadas a los servidores públicos del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 56/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 12 quater.- Atribuciones. La Dirección General de Relaciones Nacionales e Internacionales tendrá las siguientes atribuciones:
+
+I. Ejecutar la política que determine la Comisión de Carrera Judicial con aprobación del Pleno del Consejo de la Judicatura Federal en las relaciones con los Consejos de la Judicatura estatales, y en su defecto, con los Poderes Judiciales de los Estados de la República mexicana y de otros países, organizaciones internacionales, gobiernos extranjeros, así como instituciones académicas y barras o colegios de abogados nacionales y extranjeros;
+
+II. Establecer y mantener contacto con las áreas encargadas de las relaciones internacionales de los otros poderes, así como con la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+
+III. Dar trámite y seguimiento a los asuntos relacionados con eventos nacionales que expresamente se le encomienden;
+
+IV. Dar trámite y seguimiento a todos los asuntos relacionados con eventos internacionales que se sometan a la consideración de este Consejo de la Judicatura Federal;
+
+V. Planear y organizar las visitas oficiales a los Consejos de la Judicatura de otros países, así como las que se reciban en el Consejo de la Judicatura Federal;
+
+VI. Elaborar proyectos de acuerdos marco y específicos de cooperación a celebrarse con los Consejos de la Judicatura de las entidades federativas de la nación, los de otros países y con organizaciones nacionales e internacionales;
+
+VII. Coordinar la participación del Consejo de la Judicatura Federal en los Encuentros Iberoamericanos de Consejos de la Judicatura de conformidad con las normas de funcionamiento de tales encuentros;
+
+VIII. Apoyar al presidente del Consejo de la Judicatura Federal cuando, en su caso, le corresponda asumir la Secretaría Permanente o Pro-tempore de los Encuentros Iberoamericanos de Consejos de la Judicatura, de acuerdo con las normas de funcionamiento de estos encuentros;
+
+IX. Ser el enlace del Consejo de la Judicatura Federal con los encuentros internacionales que se organicen sobre impartición o administración de justicia;
+
+X. Apoyar a los consejeros de la Judicatura Federal o a quienes acudan en representación de este consejo, en los eventos nacionales que incumban a la dirección general, y en los internacionales a los que asistan o les corresponda realizar en interés del propio consejo;
+
+XI. Coordinarse con las áreas administrativas del Consejo de la Judicatura Federal y sus órganos auxiliares, así como con diversas organizaciones e instituciones, públicas o privadas, que coadyuven al objetivo mencionado en la fracción anterior;
+
+XII. Llevar la relación de los acuerdos marco y específicos de cooperación a que se refiere la fracción VI; así como de los asuntos nacionales e internacionales y proyectos especiales que corresponda conocer a la dirección general y mantener el acervo documental correspondiente;
+
+XIII. Llevar el registro de las participaciones de los señores consejeros en los diversos foros internacionales, y procurar su difusión entre los miembros del Poder Judicial de la Federación, en tanto tengan relación con la función judicial, por conducto de las correspondientes áreas del Consejo de la Judicatura Federal, conforme a las directrices que señale la Comisión de Carrera Judicial o el Pleno del propio consejo;
+
+XIV. Proponer a la Comisión de Carrera Judicial los proyectos especiales a cargo de la dirección general, así como la forma y medios para instrumentarlos;
+
+XV. Establecer los enlaces con instituciones de los sectores público, social y privado y, en su caso, promover la firma de convenios de colaboración para el desarrollo de las actividades del orden nacional y de los programas especiales que estén a cargo de la dirección general;
+
+XVI. Establecer vínculos de colaboración con la Suprema Corte de Justicia de la Nación y con el Tribunal Electoral del Poder Judicial de la Federación, cuando sean necesarios para el desarrollo de las atribuciones y obligaciones de la dirección general;
+
+XVII. Establecer vínculos de colaboración con los órganos del Consejo de la Judicatura Federal cuando sea necesario para el desarrollo de las atribuciones de dichas entidades;
+
+XVIII. Proponer a la Comisión de Carrera Judicial los instrumentos y medios que propicien la eficiencia, y la eficacia en el desarrollo de las atribuciones y cumplimiento de las obligaciones de la dirección general;
+
+XIX. Dar cuenta a la Comisión de Carrera Judicial y, en su caso, al Pleno del Consejo de la Judicatura Federal de todos los asuntos que le hayan sido turnados o que le hayan encomendado directamente;
+
+XX. Rendir a la Comisión de Carrera Judicial y al Pleno del Consejo de la Judicatura Federal el informe anual de las actividades efectuadas, así como los reportes de evaluación administrativa, con la periodicidad que le sean requeridos;
+
+XXI. Las demás que expresamente le confieran los acuerdos y disposiciones generales correspondientes o le asigne el Pleno del Consejo de la Judicatura Federal, el presidente del propio consejo, la Comisión de Carrera Judicial o la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 54/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1462,3 +1520,9 @@ QUINTO.-La Secretaría Ejecutiva de Administración será responsable de dar con
 SEXTO.-Al cumplirse seis meses de la entrada en vigor del presente acuerdo, la Comisión de Administración presentará al Pleno del consejo una evaluación respecto del funcionamiento de las Secretarías Ejecutivas de Administración, y de Obra, Recursos Materiales y Servicios Generales.
 
 SÉPTIMO.-Se instruye a la Secretaría Ejecutiva de Finanzas para que, en el ámbito de su competencia elabore los manuales de organización, funciones específicas de puestos y de procedimientos, que correspondan a la estructura de las unidades administrativas objeto del presente acuerdo.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese este acuerdo en el Diario Oficial de la Federación; así como en el Semanario Judicial de la Federación y su Gaceta.
