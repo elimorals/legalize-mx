@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-del-codigo-fiscal-del-estado-de-tamaulipas-9732"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-14"
-last_updated: "1994-09-28"
+last_updated: "1998-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAM"
 
 REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 14 de octubre de 1992.
 
@@ -78,6 +78,8 @@ En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior
 
 #### SECCION PRIMERA. DEL PAGO, DE LA DEVOLUCIÓN Y DE LA COMPENSACIÓN DE CONTRIBUCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 7.
 
 Para los efectos del artículo 21 del Código, el pago de contribuciones que se efectúe mediante declaración periódica, incluyendo sus accesorios, solo podrá hacerse con cheques personales del contribuyente sin certificar, cuando sean expedidos por el mismo. Los notarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques sin certificar de las cuentas personales de los contribuyentes, siempre que cumplan con los demás requisitos a que se refiere este artículo.
@@ -86,7 +88,21 @@ Las autoridades fiscales exigirán en todo caso cheque certificado cuando el con
 
 El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Secretaría de Hacienda del Estado. El cheque deberá librase a cargo de las instituciones de crédito que se encuentren dentro de la población donde esté establecido la autoridad recaudadora de que se trate. La Secretaría mediante disposiciones de carácter general, podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquélla, en donde esté establecimiento la autoridad recaudadora.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 1998)</small>
+
 Cuando las contribuciones se paguen con cheque, éste deberá tener la inscripción “para abono en cuenta". Dicho cheque no será negociable y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Secretaría de Hacienda del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Los contribuyentes que decidan ejercer la opción de pago con tarjetas de crédito y de débito a que se refiere el artículo 21 del Código, solo podrán hacerlo en las oficinas recaudadoras, que para tal efecto autorice la Secretaría mediante acuerdos de carácter general que se publiquen en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Cuando los contribuyentes utilicen como medio de pago las transferencias de fondos a que se refiere el artículo 21 del Código, deberá presentar en la oficina correspondiente la declaración respectiva junto cm el comprobante de la transferencia efectuada, a más tardar el día hábil siguiente a la fecha M que se haya realizado.
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Las transferencias de fondos que se realicen, deberán efectuarse a la cuenta bancaria que para tal efecto designe .la Secretaría.
 
 ###### ARTICULO 8.
 
@@ -236,225 +252,73 @@ Si el documento respectivo se exhibe en el momento de la diligencia de notificac
 
 Para los efectos de la autorización del pago a plazo a que se refiere el artículo 66 del Código, la solicitud deberá presentarse ante la autoridad administradora correspondiente, acompañando a dicha solicitud, cuando se trate de contribuyentes que se dediquen a actividades empresariales, un informe acerca del movimiento de efectivo en caja y bancos, correspondiente al plazo que se solicita.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
-
 ###### ARTICULO 26-A.
 
-El contador público que desee obtener el registro a que se refiere la fracción I del Artículo 52 del Código deberá presentar solicitud ante la Secretaría acompañando copia certificada de la constancia expedida por la Secretaría de Hacienda y Crédito Público, mediante la cual acredite tener vigente el registro a que se refiere la fracción I del Artículo 52 del Código Fiscal de la Federación.
-
-Una vez obtenido el registro, se obliga a comunicar a la Secretaría cualquier cambio en los datos contenidos en su solicitud, dentro del mes siguiente al que ocurran.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-B.
 
-Los contadores públicos registrados ante la Secretaría o los que deseen obtener su registro en los términos del Artículo 52 del Código, que presten sus servicios a una persona moral, deberán presentar aviso conjuntamente con el que prevé el Artículo 26-C de este Reglamento, en el que harán constar lo siguiente:
-
-I.- Denominación o razón social de la persona moral a la que prestan sus servicios,
-
-II.- Domicilio fiscal, clave del Registro de Contribuyentes de la Secretaría de Hacienda del Estado y clave del Registro Federal de Contribuyentes de la persona moral antes citada.
-
-III.- Nombre de los contadores públicos que presten sus servicios a la misma persona moral que estén autorizados para suscribir el informe.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-C.
 
-Los contribuyentes que opten y los que estén obligados a informar sobre el cumplimiento de las disposiciones establecida., en el Capítulo XIII de la Ley de Hacienda del Estado, en los términos de los Artículos 52 y 52-A del Código, respectivamente, deberán presentar aviso a la Secretaría dentro de los cuatro meses siguientes a la terminación del año de calendario por el que se formula el informe, observando las siguientes reglas:
-
-I.- El aviso deberá ser suscrito tanto por el contribuyente, como por el contador público que vaya a formular el informe.
-
-II.- El informe se referirá, invariablemente, al último año de calendario. La Secretaría, a petición del contribuyente, podrá autorizar que el informe se refiera a un período mayor.
-
-III.- Cuando los contribuyentes operen con varios establecimientos, acumularán la información de todos ellos, para efectos del aviso y el informe a que se refiere este artículo.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-D.
 
-El aviso a que se refiere el artículo anterior, no surtirá efectos en el caso de contribuyentes que opten por informar sobre el cumplimiento de las disposiciones establecidas en el Capítulo XIII de la Ley de Hacienda del Estado cuando:
-
-I.- No haya sido presentado en los términos de dicho precepto.
-
-II.- No esté registrado el contador público propuesto por el contribuyente para formular el informe o su registro se encuentro suspendido o cancelado.
-
-III.- Con anterioridad a la presentación del aviso haya sido notificada orden de visita domiciliaria al contribuyente por el año de calendario que se refiere el aviso.
-
-IV.- Se esté practicando visita domiciliaria al contribuyente por años de calendarios anteriores a aquel a que se refiere el aviso, o bien, por haberse emitido, aun cuando no se haya notificado orden de vista domiciliaria referente a dicho año de calendario.
-
-Cuando la visita domiciliaria se refiera a años de calendario anteriores a aquel por el cual se formule el informe, la Secretaría tomando en cuenta los antecedentes del contribuyente respecto al cumplimiento de las disposiciones establecidas en el Capítulo XIII de la Ley de Hacienda del Estado, podrá dar efectos a la presentación del aviso, si es así se le notificará a éste y al contador público dentro de los tres meses siguientes a la fecha en que 'se efectúe dicha presentación.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-E.
 
-Los contribuyentes a que se refiere el Artículo 26-C de este Reglamento podrán sustituir al contador público designado y en el caso de contribuyentes que opten por informar sobre el cumplimiento de las disposiciones establecidas en el Capítulo XIII de la Ley de Hacienda del Estado, podrán renunciar a la presentación del informe siempre que en ambos casos lo comuniquen a la Secretaría, dentro de los 3 meses siguientes a la presentación del aviso a que se refiere el citado artículo, manifestando los motivos que tuvieren.
-
-Cuando el contador público no pueda formular un informe por incapacidad física, impedimento legal, el aviso para sustituirlo se podrá dar en cualquier tiempo antes de que concluya el plazo para presentar el informe.
-
-Si existe sustitución del contador público, la Secretaría podrá autorizar a solicitud del contribuyente que el informe se presente dentro del octavo mes siguiente a la terminación del año de calendario de que se trate.
-
-El contador público tendrá la obligación de formular su informe, salvo que tenga incapacidad física o impedimento legal para hacerlo o que dentro de los 3 meses siguientes a la fecha de presentación del aviso a que se refiere el Artículo 26-C, presente nuevo aviso ante las mismas autoridades comentando que renuncia a formular o, justificando los motivos que tuviere.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-F.
 
-Los contribuyentes a que se refiere el Artículo 26-C de este Reglamento, deberán presentar ante la Secretaría dentro de los siete meses siguientes a la terminación del año de calendario de que se trate, la documentación a que se refiere el Articulo 26-G de este Reglamento.
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
-La Secretaría podrá conceder prórroga hasta por un mes para la presentación del informe y los documentos citados, si existen causas debidamente fundadas, a juicio de la Secretaría, que impidan el cumplimiento dentro del plazo mencionado en este artículo. La solicitud correspondiente deberá ser firmada por el contribuyente o su representante legal y presentarse a más tardar antes del vencimiento del plazo de siete meses.
-
-El informe y los documentos citados que se presenten fuera de los plazos que prevé este Reglamento, no surtirán. efecto alguno, salvo que la Secretaría considere que existen razones para admitir tales documentos, caso en el cual deberá comunicar tal hecho al contribuyente, con copia al contador público, dentro de los tres meses siguientes a la fecha de presentación.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
-
-ARTlCULO 26-G.- Los contribuyentes a que se refiere el artículo inmediato anterior, deberán presentar la siguiente documentación:
-
-I.- Carta de presentación del informe con firma autógrafa del contribuyente y en el caso J~ personas morales la de su representante legal y la del contador público que emita su informe.
-
-II.- Informe sobre el cumplimiento de las disposiciones establecidas en el Capítulo XIII de la Ley de Hacienda del Estado, debidamente firmado por el contador público registrado.
-
-III.- Determinación de la base para el Impuesto sobre Nóminas del año de calendario de que se trate.
-
-IV.- Relación de pagos determinados y efectuados.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+ARTlCULO 26-G.- (DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-H.
 
-La información a que se refieren las fracciones III y IV del artículo anterior deberá presentarse de acuerdo con el instructivo que para tal efecto expida la Secretaría.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-I.
 
-Para los efectos de la fracción Ir del Artículo 52 del Código, las normas de auditoría se considerarán cumplidas en la forma siguiente:
-
-I.- Las relativas a la capacidad, independencia e imparcialidad profesionales del contador público, cuando su registro se encuentre vigente y no tenga impedimento.
-
-II.- Las relativas al trabajo profesional cuando:
-
-a).- La planeación del trabajo y la supervisión de sus auxiliares le permitan allegarse los elementos de juicio suficientes para fundar su informe; y
-
-b).- El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría que habrán de emplearse.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-J.
 
-Está impedido para informar sobre el cumplimiento de las disposiciones estabecidas (sic) en el Capítulo XIII de la Ley de Hacienda del Estado por afectar su independencia e imparcialidad, el contador público registrado que:
-
-I.- Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto y por afinidad dentro del segundo, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la Administración.
-
-II.- Sea o haya sido en el año de calendario por el que formule su informe, director, miembro del consejo de administración, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le atribuyan sus servicios.
-
-El comisario de la sociedad no se considerará impedido para informar, salvo que concurra otra causal de las que se mencionan en este artículo.
-
-III.- Tenca o haya tenido en el año de calendario por el que formule su informe, alguna injerencia o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad.
-
-IV.- Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados de su revisión o emita su informe en circunstancias en las cuales su emolumento depende del resultado del mismo.
-
-V.- Sea servidor público del Gobierno del Estado en áreas competentes para determinar contribuciones.
-
-VI.- Se encuentre vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-K.
 
-El informe a que se refiere la fracción III del Artículo 52 del Código se integrará en la forma siguiente:
-
-I.- Se declarará bajo protesta de decir verdad que se emite el informe con apego a lo dispuesto en el Artículo 52 y demás aplicables del Código y de este Reglamento, y en relación con la revisión practicada conforme a las normas y procedimientos de auditoría que hayan considerado necesarias, a las partidas específicas sobre los estados financieros del contribuyente que estén relacionadas con los pagos y erogaciones objeto del Impuesto sobre Nóminas.
-
-II.- Se manifestara que se verificó la determinación de la base para el Impuesto sobre Nominas correspondiente al año de calendario de que se trate llevando a cabo pruebas selectivas en cumplimento de las normas y procedimientos de auditoría.
-
-III.- Se hará mención expresa de que se verificó el cálculo y entero del Impuesto sobre Nóminas correspondiente a cada uno de los meses del año de calendario de que se trate, detallando cualquier diferencia determinada o pago omitido independientemente de su importancia relativa.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-L.
 
-Cuando la Secretaría revise el informe y demás documentación a que se refiere el Artículo 26-G de este Reglamento podrá requerir:
-
-I.- Al contador público que haya emitido el informe, lo siguiente:
-
-a).- La exhibición de los papeles de trabajo elaborados con motivo de la revisión practicada, los cuales, en todo caso, se entiende que son propiedad del contador público.
-
-b).- La información que considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
-
-c).- La exhibición de los sistemas y registros contables y documentación original, en aquellos cases que así se considere necesario.
-
-Para estos efectos, si la información que proporcione el contador público conforme a lo que establecen los incisos a) y b) es suficiente, no se requerirá de la información a que se refiere el inciso c).
-
-La información, exhibición de documentos y papeles de trabajo a que se refiere esta fracción. Se solicitará al contador público por escrito con copa al contribuyente.
-
-II.- Al contribuyeite (sic), la información y documentos a que se refieren los incisos b) y c) de la fracción anterior, cuando no haya sido proporcionada por el contador público; dicho requerimiento será por escrito con copia al contador.
-
-III.- A terceros relacionados con los contribuyentes o responsables solidarios, la información y documentación que considere necesaria para verificar si son ciertos los datos consignados en el informe y demás documentos.
-
-Lo dispuesto en este artículo es sin perjuicio de lo establecido en el penúltimo párrafo del Artículo 52 del Código.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-M.
 
-Se considerará que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado el informe en los términos del Artículo 26-G de este Reglamento, cuando la Secretaría lleve a cabo alguno de los actos señalados en las fracciones II y III del artículo inmediato anterior.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26-N.
 
-La Secretaría amonestará al contador público, suspenderá o cancelará su registro de acuerdo al último párrafo del Artículo 52 del Código conforme a lo siguiente:
-
-I.- Se amonestará al contador público cuando:
-
-a).- Se presente incompleta la información a que se refieren los Artículos 26-G y 26-K de este Reglamento.
-
-b).- No cumpla con lo señalado en el Articule 26-L, fracción I, incisos b) y c) de este Reglamento.
-
-c).- No cumpla con lo establecido en el segundo párrafo del Artículo 26-A de este Reglamento.
-
-II.- La suspensión procederá por cualquiera de los siguientes motivos:
-
-a).- Formule el informe en contravención en a lo dispuesto en los Artículos 52 del Código, 26-F, 26-G: 26-H y 26-K de este Reglamento. En este caso la suspensión será hasta por dos años.
-
-b).- El contaor (sic) público acumule tres aniones raciones En este caso la suspensión será hasta por un año.
-
-c).- El contador público no cumpla con lo señalado en el Artículo 26-L, fracción I, inciso a) ele este Reglamento. En este caso la suspensión será hasta por un año.
-
-d).- No formule el informe debiendo hacerlo. En este caso la suspensión podrá ser hasta por tres años.
-
-e).- Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal por el tiempo que dure el proceso.
-
-IIl.- La cancelación procederá cuando:
-
-a).- Hubiere reincidencia en la violación a las disposiciones que rigen la formulación del informe y demás información para efectos fiscales.
-
-Para estos efectos se entiende que hay reincidencia cuando el contador público acumule tres suspensiones.
-
-b).- Hubiera participado en la comisión de delitos de carácter fiscal o intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
-
-El cómputo de lo dispuesto en los incisos a) de las fracciones I y II de este artículo, se hará por cada actuación del contador público independientemente del contribuyente a que se refieran.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ###### ARTICULO 26
 
-Ñ.- Cuando la Secretaría ejercite las facultades a que se refiere el artículo anterior, se observará el siguiente procedimiento:
-
-I.- Determinada irregularidad, se hará del conocimiento del contador público por escrito, concediéndole un plazo ele quince días a efecto de manifieste lo que a su derecho convenga y ofrezca las pruebas documentales pertinentes, mismas que deberá acompañar a su escrito.
-
-II.- Agotada la fase anterior, con vista en los elementos que obren en el expediente, la autoridad emitirá la resolución que proceda, dando aviso por escrito al colegio profesional y, en su caso, a la federación de colegios profesionales a que pertenezca el contador público, cuando se trate de suspensión o cancelación del registro.
+Ñ.- (DEROGADO, P.O. 21 DE FEBRERO DE 1998)
 
 ### CAPITULO IV. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION PRIMERA. DE LA GARANTIA DE INTERES FISCAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 27.
 
-La garantía del Interés Fiscal relativa a los créditos fiscales a que ese refieren los artículos 65 y 139 del Código, se otorgará a favor de la Secretaría.
+La garantía del interés fiscal relativa a los créditos fiscales a que ese refieren los artículos 6, 65 y 139 del Código, se otorgará a favor de la Secretaría.
 
 Las garantías subsistirán hasta que proceda su cancelación en los términos del Código y este Reglamento.
 
@@ -576,6 +440,12 @@ La autoridad recaudadora vigilará que los gastos extraordinarios que se efectú
 
 No se cobrarán los gastos de ejecución a que se refiere el artículo 145 del Código, cuando los créditos fiscales respecto de los cuales se ejercitó el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+###### ARTICULO 41-A.
+
+Las autoridades fiscales, para la determinación del monto de los gastos de ejecución a que se refiere el artículo 145 del Código Fiscal del Estado, considerarán como un solo crédito la totalidad de los adeudos que se determinen en una resolución, así como la totalidad de los adeudos por los que se solicite, en un mismo acto, el pago en parcialidades, aun cuando provengan de diferentes contribuciones o correspondan a años distintos.
+
 ###### ARTICULO 42.
 
 Quienes intervengan en un procedimiento administrativo de ejecución, cualesquiera que sean las funciones que desempeñen, en ningún caso podrán cobrar los honorarios a que tengan derecho conforme a los establecidos en este Reglamento, directamente de los contribuyentes.
@@ -667,3 +537,9 @@ P.O. 28 DE SEPTIEMBRE DE 1994.
 ###### ARTICULO SEGUNDO
 
 - En los términos de lo establecido por el artículo séptimo transitorio de la Ley Orgánica para la Administración Pública del Estado, se modifican todos los artículos del Reglamento del Código Fiscal, para que en donde se haga referencia a Tesorería General del Estado, Tesorería y Tesorero General del Estado, se sustituya por Secretaría de Hacienda, Secretaría y Secretario de Hacienda del Estado, respectivamente.
+
+P.O. 21 DE FEBRERO DE 1998.
+
+###### ARTICULO UNICO.
+
+Las disposiciones de este acuerdo entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
