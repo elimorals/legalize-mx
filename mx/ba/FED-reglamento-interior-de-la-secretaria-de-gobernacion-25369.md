@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2002-07-30"
+last_updated: "2003-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-29"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación el martes 30 de julio de 2002.
 
@@ -172,6 +172,10 @@ XVI. Someter a la consideración del titular del Ejecutivo Federal, previo dicta
 XVII. Aprobar el Programa Operativo Anual y el anteproyecto de presupuesto anual de la Secretaría, de las comisiones que la misma presida por ley o por encargo del Presidente de la República, y del sector bajo su coordinación;
 
 XVIII. Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo Federal con los demás Poderes de la Unión, con los órganos constitucionales autónomos, con los gobiernos de las entidades federativas y con las autoridades municipales y establecer, por acuerdo del titular del Ejecutivo Federal, mecanismos de coordinación con las dependencias y entidades de la Administración Pública Federal que realicen funciones relacionadas con las entidades federativas y los municipios; así como, rendir las informaciones oficiales del Ejecutivo Federal;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2003)</small>
+
+XVIII bis. Expedir, en el ámbito de su competencia, las disposiciones a las que deberán sujetarse las dependencias y entidades de la Administración Pública Federal, para la conducción y coordinación, de las relaciones del Poder Ejecutivo Federal con el Poder Legislativo de la Unión;
 
 XIX. Fomentar las relaciones de colaboración entre los secretarios de Estado, jefes de Departamento Administrativo y titulares de entidades paraestatales, para la mejor coordinación entre las diversas dependencias y entidades de la Administración Pública Federal;
 
@@ -2088,3 +2092,9 @@ SÉPTIMO. El Secretario de Gobernación contará con 60 días contados a partir 
 OCTAVO. Los derechos laborales de los trabajadores de la Secretaría y de sus órganos desconcentrados serán respetados conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
