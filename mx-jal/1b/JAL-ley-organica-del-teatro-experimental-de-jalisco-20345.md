@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-teatro-experimental-de-jalisco-20345"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1960-12-06"
-last_updated: "1960-12-06"
+last_updated: "1965-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGANICA DEL "TEATRO EXPERIMENTAL DE JALISCO"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO JALISCIENSE DE BELLAS ARTES, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE FEBRERO DE 1965.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 6 de diciembre de 1960.
 
@@ -176,3 +178,17 @@ Juan Gil Preciado
 El Srio. Gral. de Gobierno.
 
 Lic. Luis Macías Meléndez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE FEBRERO DE 1965.
+
+PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Queda abrogada la Ley contenida en el Decreto 5831, promulgada el día veintisiete de diciembre de mil novecientos cincuenta y dos; pero sus disposiciones en cuanto no contraríen la presente Ley, continuarán aplicándose entre tanto no se expida por el Poder Ejecutivo el Reglamento General de la misma.
+
+TERCERO.- Queda abrogada la Ley Orgánica del teatro experimental de Jalisco, contenida en el Decreto 7525 del día veintiocho de noviembre de mil novecientos sesenta; pero sus disposiciones en cuanto no contraríen la presente Ley, continuarán aplicándose entre tanto no se expida por el Poder Ejecutivo, el Reglamento General de la misma.
+
+CUARTO.- El gobernador del Estado, expedirá el Reglamento General de esta Ley y decidirá cuales de las Instituciones que directamente de él dependen, van a ser parte constitutivas del Instituto.
+
+QUINTO.- Inmediatamente que entre en vigor esta Ley, el Gobernador designará a la persona que deberá ser Director en el Próximo trienio, quien desde luego procederá a la integración del Consejo General a más tardar para el día último de marzo de 1965. Asimismo extenderá las invitaciones a las Asociaciones cultural-artísticas que señala el artículo 11 de la Ley, con el objeto de que éstas designen sus delegados con anterioridad a la fecha en que deba encontrarse integrado el Consejo General.
