@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-10-24"
+last_updated: "2003-11-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -143,9 +143,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Cinco tribunales unitarios: cuatro con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 69/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 74/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
 
-3.- Dieciocho juzgados de distrito en el Estado de México: seis especializados en materia de procesos penales federales y cuatro especializados en materias de amparo y de juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y dos con sede en Ciudad Nezahualcóyotl.
+3.- Diecinueve juzgados de distrito en el Estado de México: seis especializados en materia de procesos penales federales y cuatro especializados en materia de amparo y juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y tres con sede en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -1178,5 +1178,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 24 DE OCTUBRE DE 2003.
 
 PRIMERO.- Este acuerdo entrará en vigor el veintiséis de octubre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el veinticuatro de noviembre de dos mil tres.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
