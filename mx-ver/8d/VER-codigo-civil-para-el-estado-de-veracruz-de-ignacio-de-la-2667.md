@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1937-08-07"
+last_updated: "1939-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 1937.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 1939.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -10767,7 +10767,7 @@ ARTICULO 2210
 
 Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-ARTICULO 2211
+ARTICULO 2711
 
 Los hijos sujetos a la patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 357.
 
@@ -11091,9 +11091,11 @@ ARTICULO 2251
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 1939)</small>
+
 ARTICULO 2252
 
-La venta de un inmueble que tenga un valor hasta de cinco mil pesos, podrá hacerse en instrumento privado que firmará el vendedor y el comprador ante dos testigos.
+La venta de un inmueble cuyo valor fiscal no exceda de un mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos.
 
 ARTICULO 2253
 
@@ -11103,9 +11105,11 @@ ARTICULO 2254
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 1939)</small>
+
 ARTICULO 2255
 
-Si el valor fiscal del inmueble excede de cinco mil pesos su venta se hará en escritura pública.
+Si el valor fiscal del inmueble, excede de un mil pesos, su venta se hará en escritura pública.
 
 ARTICULO 2256
 
@@ -14025,9 +14029,11 @@ El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 1939)</small>
+
 ARTICULO 2850
 
-Cuando el crédito hipotecario exceda de cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad, podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
+Cuando el crédito hipotecario exceda de un mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad podrá otorgarse en escritura privada, ante dos testigos, de la cual se harán tantos ejemplares como sean las partes contratantes.
 
 ARTICULO 2851
 
@@ -14603,7 +14609,9 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-III.- Los documentos privados que en esta fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+> <small>(REFORMADA, G.O. 18 DE MAYO DE 1939)</small>
+
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el Registrador, la Autoridad Municipal, un Notario o el Juez Municipal, se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
 
 ARTICULO 2945
 
@@ -14898,3 +14906,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.O. 7 DE AGOSTO DE 1937.
 
 UNICO.- Esta Ley comenzará a regir desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 18 DE MAYO DE 1939.
+
+El presente Decreto comenzará a surtir sus efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
