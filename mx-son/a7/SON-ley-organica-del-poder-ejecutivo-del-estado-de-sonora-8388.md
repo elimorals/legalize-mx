@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1985-12-30"
+last_updated: "1986-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1986.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -71,9 +71,15 @@ La constitución de las empresas de participación estatal, fideicomisos y socie
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
+
 ###### ARTICULO 7o.
 
-Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios de Despacho, al Tesorero General del Estado, al Oficial Mayor, al Procurador General de Justicia y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad. Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de la administración pública directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos.
+Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios de Despacho, al Tesorero General del Estado, al Oficial Mayor, al Procurador General de Justicia del Estado y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+
+Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar, por Acuerdo, esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
+
+El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO 8o.
 
@@ -816,3 +822,9 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO,
 
 MANLIO FABIO BELTRONES R.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 19 DE JUNIO DE 1986.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
