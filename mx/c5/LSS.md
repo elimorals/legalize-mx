@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2001-12-20"
+last_updated: "2004-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2004.
 
 Ley publicada en la primera sección del Diario Oficial de la Federación el jueves 21 de diciembre de 1995.
 
@@ -3782,15 +3782,19 @@ Por única ocasión, como transición hacia al régimen establecido en este Decr
 
 Décimo Tercero. Las Reservas Operativas y la Reserva de Operación para Contingencias y Financiamiento se constituirán dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, por acuerdo del Consejo Técnico a propuesta del Director General, respetando la distribución de activos por seguro que se dé a la misma fecha y las disposiciones específicas de este Decreto.
 
-Décimo Cuarto. Las pensiones otorgadas con fundamento en el Título Segundo, Capítulo V, Secciones tercera y cuarta de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 12 de marzo de 1973 y en el Título Segundo, Capítulo VI, Secciones segunda y tercera de la Ley del Seguro Social vigente, otorgadas hasta el inicio de vigencia del presente Decreto, se determinarán de acuerdo con los factores y modalidades siguientes:
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-a) Los pensionados cuyo monto de pensión sea menor a un salario mínimo general vigente en el Distrito Federal, ésta se incrementará hasta igualar dicho salario mínimo;
+Décimo Cuarto. Las pensiones otorgadas con fundamento en el Título Segundo, Capítulo III, artículo 65, fracciones II y III, artículo 71, fracciones II, III, IV y V, artículo 73, párrafo tercero y, Capítulo V, Secciones segunda, tercera, cuarta y quinta de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 12 de marzo de 1973; y en el Título Segundo, Capítulo III, artículo 58, fracciones II y III, artículo 64, fracciones II, III, IV, V y VI, artículo 66, párrafo tercero, Capítulo V, Secciones segunda y tercera y Capítulo VI, Secciones segunda y tercera de la Ley del Seguro Social vigente, se determinarán de acuerdo con los factores y modalidades siguientes:
 
-b) Los pensionados de 60 años o más, con pensión igual o mayor a un salario mínimo general vigente en el Distrito Federal, el monto de su pensión será el resultado de multiplicar la pensión que reciban al 31 de marzo del 2002, por el factor 1.1.
+a) Para los pensionados cuyo monto de pensión sea menor a un salario mínimo general vigente en el Distrito Federal, ésta se incrementará hasta igualar dicho salario mínimo;
 
-Para todas las viudas cuya pensión sea igual o menor a 1.5 salarios mínimos vigentes en el Distrito Federal, el monto de su pensión será el que resulte de multiplicar la pensión que reciban al 31 de marzo del 2002, por un factor de 1.1111. Este supuesto se aplicará a aquellas viudas con pensiones otorgadas hasta el inicio de vigencia del presente Decreto.
+b) Para los pensionados de 60 años o más, con pensión igual o mayor a un salario mínimo general vigente en el Distrito Federal, el monto de su pensión será el resultado de multiplicar la pensión que reciban al 31 de diciembre de 2003, o la pensión que se determine si se pensionan después de esa fecha, por el factor de 1.11;
 
-Los incrementos previstos en este artículo se aplicarán a partir del 1o. de abril de 2002.
+c) Para los pensionados en orfandad y ascendencia, el monto de la pensión será el que resulte de multiplicar la que reciban al 31 de diciembre de 2003, o la pensión que se determine si se pensionan después de esa fecha, por un factor de 1.11;
+
+d) Para los pensionados del seguro de riesgos de trabajo y edad de 60 años o más con cuantía de pensión equivalente a un salario mínimo vigente en el Distrito Federal o menor de esa cantidad, el monto de su pensión será el que resulte de multiplicar la pensión que reciban al 31 de diciembre de 2003, o la que se determine al otorgarla si es después de esa fecha, por el factor de 1.11, y
+
+e) Para las viudas cuya pensión sea igual o menor a 1.5 salarios mínimos vigentes en el Distrito Federal, el monto de su pensión será el que resulte de multiplicar la pensión que reciban al 31 de diciembre de 2003, o la que se determine al otorgarla si es después de esa fecha, por un factor de 1.11.
 
 Décimo Quinto. Los trabajadores de confianza clasificados como "A" a que hace referencia el artículo 256 de la Ley, que a partir de la entrada en vigor de este Decreto sean contratados por el Instituto Mexicano del Seguro Social, sólo serán sujetos del régimen laboral establecido en el Estatuto a que se refiere el artículo 286 I de esta Ley.
 
@@ -3818,6 +3822,30 @@ Vigésimo Segundo. Lo dispuesto en el artículo 111 A que se adecúa a la Ley, e
 
 Vigésimo Tercero. El incremento anual a que se refiere el artículo 242 de la presente reforma, comenzará a aplicarse a partir del 1o. de febrero del 2003.
 
-Vigésimo Cuarto. A los jubilados antes de 1982 de Ferrocarriles Nacionales de México deberá reconocerles su carácter de pensionados. Para este propósito el Gobierno Federal otorgará un pago anual de $9,500.00 M.N. para cada jubilado. La cuantía de esos montos será actualizada anualmente en el mes de febrero del año que corresponda, conforme al Índice Nacional de Precios al Consumidor correspondiente al año calendario inmediato anterior. Para los efectos de este artículo, la Secretaría de Hacienda y Crédito Público canalizará los recursos correspondientes a la Secretaría de Comunicaciones y Transportes para que ésta pague mensualmente a los jubilados la cantidad resultante de dividir el monto anual entre los doce meses del año correspondiente.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+
+Vigésimo Cuarto. A los jubilados antes de 1982 de Ferrocarriles Nacionales de México deberá reconocerles su carácter de pensionados. Para este propósito el Gobierno Federal otorgará a cada jubilado una pensión garantizada mensual, equivalente a un salario mínimo general en el Distrito Federal, así como un pago anual por concepto de aguinaldo equivalente a un mes de pensión en los términos señalados. La cuantía de esos montos se actualizará anualmente en el mes de febrero del año que corresponda, conforme al incremento del salario mínimo general aplicable en el Distrito Federal, correspondiente al año por el que se realice la actualización. Respecto de aquellos ferrocarrileros jubilados antes de 1982 por las empresas ferroviarias Ferrocarril Chihuahua al Pacífico, Ferrocarril Sonora Baja California y Ferrocarriles Unidos del Sureste, cuyas actuales y legítimas esposas o concubinas les sobrevivan, a éstas les serán pagadas en forma vitalicia los pagos correspondientes al jubilado.
+
+El pago de las pensiones no podrá ser retenido sino por decisión judicial, y por lo tanto deberán estar a disposición de los beneficiarios a más tardar el quinto día hábil del mes que corresponda. En el caso de la anualidad por concepto de aguinaldo, ésta deberá ser pagada a más tardar el diez de diciembre de cada año.
 
 Vigésimo Quinto. El Ejecutivo Federal deberá presentar al Congreso de la Unión, un estudio sobre la suficiencia financiera de los seguros y coberturas que conforme a la Ley del Seguro Social administra el IMSS y las propuestas que, en su caso, sean necesarias para que la medicina social brinde servicios eficientes y oportunos y se fortalezca el régimen de pensiones, a fin de que brinde mayor protección a los trabajadores con el menor costo social, a más tardar el 15 de octubre del 2002.
+
+D.O.F. 5 DE ENERO DE 2004.
+
+ARTÍCULOS TRANSITORIOS ARTÍCULO DÉCIMO CUARTO TRANSITORIO
+
+Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El pago correspondiente al incremento a las pensiones a que se refiere el presente Decreto se efectuará a más tardar el 1o. de abril de 2004. Los recursos destinados a dar cumplimiento a lo dispuesto por este artículo deberán atenderse con cargo al presupuesto aprobado para el Instituto Mexicano del Seguro Social y Gobierno Federal, respectivamente.
+
+Tercero. Los incrementos previstos en este Decreto surtirán sus efectos a partir del 1o. de marzo de 2003 para quienes ya estaban pensionados a esa fecha por los ramos de seguro de invalidez y vida, riesgos de trabajo, vejez, cesantía en edad avanzada y muerte; y para aquellos que se hayan pensionado después de la fecha señalada, la parte proporcional que les corresponda.
+
+Los incrementos a los que se refiere el párrafo anterior, no se aplicarán en aquellas pensiones que fueron contempladas en la reforma a la Ley del Seguro Social publicada el 20 de diciembre de 2001.
+
+Cuarto. A los beneficiados por los incrementos a que se refieren los incisos b), c) y e), no se les aplicarán adicionalmente los incrementos que señalan los incisos a) y d).
+
+ARTÍCULOS TRANSITORIOS ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2004.
+
+Segundo. Los pagos correspondientes a esta reforma se efectuarán a más tardar el 1o. de abril de 2004. Los recursos para dar cumplimiento a lo dispuesto por este Decreto, deberán atenderse con cargo al presupuesto aprobado para dicho efecto por la Cámara de Diputados.
