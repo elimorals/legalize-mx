@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2003-12-30"
+last_updated: "2004-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -106,7 +106,7 @@ II.- Presentar iniciativas de leyes o decretos en materias relativas al Distrito
 
 III.- Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto;
 
-IV.- Formular observaciones al Programa General de Desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
+IV. - Formular observaciones al Programa General de Desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
 
 V.- Formular su proyecto de presupuesto que enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste ordene su incorporación en el proyecto de Presupuesto de Egresos del Distrito Federal. La Asamblea manejará, administrará y ejercerá de manera autónoma su presupuesto;
 
@@ -128,7 +128,9 @@ XIII.- Designar a dos Consejeros de la Judicatura del Distrito Federal, en los t
 
 XIV.- Designar o remover a los titulares de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, en términos de lo dispuesto por esta ley y por la Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa;
 
-XV.- Nombrar a los titulares de la Oficialía Mayor, Tesorería General, Contraloría Interna, Coordinación General de Comunicación Social, al Director del Instituto de Investigaciones Legislativas, al Director de la Unidad de Estudios de Finanzas Públicas, así como al titular de la Coordinación de Servicios Parlamentarios, todos de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XV.- Nombrar a los titulares de la Oficialía Mayor, Tesorería General, Contraloría General, Coordinación General de Comunicación Social, Director de (sic) Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, así como al titular de la Coordinación de Servicios Parlamentarios, todos de la Asamblea Legislativa del Distrito Federal;
 
 XVI.- Aprobar, en su caso, las solicitudes de licencia de sus miembros para separarse de su encargo;
 
@@ -808,15 +810,17 @@ Los Comités tomarán sus decisiones por mayoría de votos de sus miembros prese
 
 La Asamblea dispondrá de las unidades administrativas que sean necesarias para el mejor cumplimiento de sus atribuciones y que determine su presupuesto.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 77.
 
-Los nombramientos del Oficial Mayor, Tesorero, Contralor Interno, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas Públicas, así como del titular de la Coordinación de Servicios Parlamentarios, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la sesión del Pleno respectiva.
+Los nombramientos del Oficial Mayor, Tesorero, Contralor General, Coordinador General de Comunicación Social, Director del Instituto de Investigaciones Legislativas, Director de la Unidad de Estudios de Finanzas, así como del titular de la Coordinación de Servicios Parlamentarios, serán propuestos por la Comisión de Gobierno y serán ratificados por el voto de la mayoría de los miembros presentes en la Sesión del Pleno respectiva.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 78.
 
-La Oficialía Mayor, la Tesorería, la Contraloría Interna, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la Unidad de Estudios de Finanzas Públicas, así como al titular de la Coordinación de Servicios Parlamentarios y las demás unidades administrativas que se creen, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
+La Oficialía Mayor, la Tesorería, la Contraloría General, la Coordinación General de Comunicación Social, el Instituto de Investigaciones Legislativas, la unidad de Estudios de Finanzas Públicas, así como el titular de la Coordinación de Servicios Parlamentarios y las demás unidades administrativas que se creen, tendrán las atribuciones que les señale el Reglamento para el Gobierno Interior y otras disposiciones que emita la Asamblea.
 
 ### CAPITULO VII. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -1061,3 +1065,7 @@ G.O. 30 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE ENERO DE 2004.
+
+PRIMERO.- Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
