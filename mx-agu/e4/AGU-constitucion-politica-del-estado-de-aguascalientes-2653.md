@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1950-08-13"
+last_updated: "1953-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 1950.
-
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA APROBADA POR LA H. XXXVII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES PUBLICADA EN SUPLEMENTO AL P.O. DE 8 DE AGOSTO DE 1950, SE MODIFICÓ DE FORMA SUSTANCIAL TEXTO Y ESTRUCTURA DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -239,7 +237,9 @@ III.- Los individuos que hayan sido condenados por delito intencional a sufrir p
 
 IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
 
-Los individuos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos seis meses antes del día de la elección.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
+
+Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -433,6 +433,10 @@ El proyecto de ley o decreto vetado total o parcialmente por el Ejecutivo, será
 
 Las votaciones serán nominales.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1953)</small>
+
+El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste actúe como Colegio Electoral o como Gran Jurado. Tampoco podrá hacerlo respecto de los Decretos que expida la Diputación Permanente convocando al Congreso a períodos extraordinarios de sesiones.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 33.
@@ -487,11 +491,11 @@ II.- El que haya sido condenado por delito intencional, con pena privativa de la
 
 III.- El que haya desempeñado con anterioridad ese cargo por elección popular.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
 
 ###### Artículo 39.
 
-No pueden ser electos como Gobernador, los funcionarios y empleados del Estado o Municipales, sea cual fuere el origen de su designación, a menos que se separen de sus cargos seis meses antes del día de la elección.
+No pueden ser electos como Gobernador, los funcionarios y empleados públicos, sea cual fuere el origen de su designación, a menos que se separen de sus cargos noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1136,3 +1140,7 @@ P.O. 13 DE AGOSTO DE 1950.
 3o.- Las reformas relativas a los nombramientos de Magistrados del Supremo Tribunal de Justicia, se aplicarán cuando falte alguno o algunos de los actualmente en funciones.
 
 4o.- Se derogan todas las disposiciones que se opongan a las reformas de esta Constitución.
+
+P.O. 1 DE FEBRERO DE 1953.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
