@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-que-establece-el-archivo-general-de-18500"
 country: "mx"
 rank: "reglamento"
 publication_date: "1941-09-20"
-last_updated: "1941-09-20"
+last_updated: "1941-12-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY QUE ESTABLECE EL ARCHIVO GENERAL DE NOTARIAS Y DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1941.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, los días 20 y 27 de septiembre, 4, 18 y 25 de octubre, 1 y 8 de noviembre de 1941.
 
@@ -37,21 +37,19 @@ REGLAMENTO de la Ley que establece el Archivo General de Notarias y del Registro
 
 El Departamento del Archivo General de Notarías y del Registro Público de la Propiedad del Estado, creado por la Ley de 16 de diciembre último, estará a cargo de un Notario Público con residencia en la Capital del mismo Estado, el que se denominará "DIRECTOR GENERAL DEL ARCHIVO DE NOTARIAS Y DEL REGISTO PUBLICO DE LA PROPIEDAD", de quien dependerán todos los empleados de esa Oficina en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+
 ###### Artículo 2o.
 
 El Personal de empleados será el siguiente:
 
 Un Oficial Mayor.
 
-Un Oficial Segundo.
+Un Taquimecanógrafo.
 
 Dos Mecanógrafos Amanuenses.
 
-Un Encuadernador.
-
 Un Mozo de Aseo.
-
-Los nombramientos y remociones de estos empleados se harán por el Gobierno del Estado.
 
 ###### Artículo 3o.
 
@@ -183,7 +181,11 @@ La Sección Segunda del Archivo General de Notarías y del Registro Público est
 
 Esta sección será el conducto para la remisión de los libros necesarios a los Notarios y Jueces Receptores; así como también a los Notarios de esta Capital cuando los necesiten y los pidan, previo acuerdo del Director. Llevará un libro en el que se anotarán los pedidos, la fecha en que se hagan y la en que le sean remitidos.
 
-Artículo.17o.- A cargo de la misma Sección Segunda estará la vigilancia de la confección de los libros empastados que se proporcionarán a los Notarios del Estado y a los Jueces Registradores a fin de que nunca falten en el Almacén conforme lo expresado en la letra H. del Artículo 7º. de este Reglamento.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+
+###### Artículo 17o.
+
+La Tesorería General del Estado tendrá a su cargo la confección de los libros empastados que se proporcionarán a los Notarios del Estado y a los Jueces Registradores a fin de que nunca falten en el Almacén conforme a lo expresado en la letra "H" del artículo séptimo de este Reglamento.
 
 ###### Artículo 18o.
 
@@ -197,17 +199,21 @@ Asimismo se irán archivando los protocolos que en lo sucesivo se recojan, bien 
 
 Los testimonios o copias, certificados y demás constancias que deban tomarse de estos protocolos serán expedidos por el Director General como está prevenido para los relativos del Registro Público. Las copias, testimonios y certificados permitidos por la Ley, serán expedidos por los mismos actuarios durante el año corriente, hasta el día último de cada año en cuya fecha cerrarán cada libro con la certificación correspondiente, aún cuando les sobraren hojas en blanco y los remitirán al Archivo General como está prevenido; no teniendo valor legal alguno las copias o documentos expedidos por ellos desde el día primero del año siguiente al de su terminación legal.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+
 ###### Artículo 21o.
 
-El Oficial Segundo como auxiliar de esta Sección será el jefe del encuadernador y vigilará la confección de los libros de los libros destinados al servicio de las Notarías del Estado y a los encargados del Registro Público. Estos libros estarán todos formados (sic) de papel lino, rayado, de treinta y cinco centímetros de largo por veinticuatro de ancho con margen a la izquierda de siete centímetros, más uno y medio para costura, fabricados con toda limpieza, uno de cien fojas, otros de cincuenta y otros de veinticinco. Todos esos libros serán empastados de manera igual, con esquineros de metal.
+Los libros destinados al servicio de las Notarías del Estado se confeccionarán en papel de lino, rayado, de treinta y cinco centímetros de largo por veinticuatro de ancho, con margen a la izquierda de siete centímetros, más uno y medio para costura, unos de 150 fojas, otros de 100 y otros de 50 y 25. Los que se destinen a las Oficinas del Registro Público, tendrán los mismas dimensiones de aquellos, manufacturados en papel ministro rayado gris. Unos y otros serán empastados en estilo uniforme con esquineros fuertes.
 
 ###### Artículo 22o.
 
 Los Notarios harán su pedido con suficiente anticipación para que la Segunda Sección del Archivo General prepare la remisión y canje de ellos, la que no se hará sino mediante el comprobante del pago en la Recaudación de Rentas del Estado, del impuesto fiscal correspondiente, cuya circunstancia la hará constar el Jefe del Departamento, en la primera hoja del libro que remita a su destino, con especificación del nombre del Notario u Oficial del Registro Público a quien lo remita. Ese pago lo pueden hacer los interesados en la Recaudación de Rentas del Distrito en el que actúen, remitiendo al Archivo General el comprobante del pago.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+
 ###### Artículo 23º.
 
-El valor de los libros será: de diez pesos los que tengan cien fojas; de cinco pesos los de cincuenta, y de tres pesos los que sólo tengan veinticinco fojas.
+El valor de los libros para los Protocolos será: de $ 25.00 los que tengan 150 fojas; de $ 20.00 los de 100; de $ 10.00 los de 50; y de $ 5.00 los de 25.
 
 ###### Artículo 24o.
 
@@ -247,7 +253,9 @@ A.- Por toda inscripción de títulos o bienes cuyo valor no exceda de $ 500.00 
 
 B.- Si el valor excede de $ 500.00 cs. hasta $ 5,000.00 cs., por cada millar o fracción que exceda de los $ 500.00 cs. $ 1,00 cs
 
-C.- Si el valor excede de $5,000.00 cs. Se cobrará por lo que exceda hasta $25,000.00 cs. por cada millar o fracción. 0.50
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
+
+C.- Si el valor excede de $ 5,000.00 se cobrará por lo que exceda por cada millar o fracción $ 0.50 cs.
 
 D.- Por la inscripción o registro de títulos de bienes cuyo valor sea indeterminado $ 3.00 cs.
 
@@ -365,7 +373,7 @@ La Dirección General de Notarías y Registro Público de la Propiedad no extend
 
 A.- Por los testimonios de escrituras que aún no hubiere expedido el Notario ante cuya fe pasaron los actos. 10.00 cs.
 
-B.- Por los anteriores testimonios "8.00 "
+B.- Por los anteriores testimonios "8.00"
 
 C.- Por las copias autorizadas de otros actos notariales, por cada foja que contenga el documento copiado, cinco pesos por la primera y un peso por cada una de las demás fojas.
 
@@ -384,3 +392,9 @@ Palacio de los Poderes del Estado, Oaxaca de Juárez, a primero de marzo de mil 
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 
 Sufragio Efectivo. No Reelección.- Carreteras y Escuelas.- Oaxaca de Juárez, a primero de marzo de mil novecientos treinta y cuatro.- El Subsecretario Encargado del Despacho, Lic. Aristeo V. Guzmán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 1941.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
