@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1992-07-02"
+last_updated: "1992-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1992.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -348,7 +348,7 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -388,273 +388,107 @@ Los comerciantes están obligados a conservar los originales de aquellas cartas,
 
 Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)</small>
+
 ## TÍTULO TERCERO.
 
 DE LOS CORREDORES.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
-
 ###### Art. 51.
 
-Corredor es el agente auxiliar del comercio, con cuya intervención se proponen y ajustan los actos, contratos y convenios y se certifican los hechos mercantiles. Tiene fe pública cuando expresamente lo faculta este Código u otras leyes, y puede actuar como perito en asuntos de tráfico mercantil.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 52.
 
-Sólo podrán usar la denominación de Corredor la personas habilitadas por la Secretaría de Industria y Comercio o por los Gobernadores de los Estados en los términos de este Código. La autoridad habilitante impondrá a quienes violen esta disposición, multas hasta de cinco mil pesos, que podrán imponerse diariamente mientras persista la infracción independientemente de la sanción penal a que se hagan acreedores.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 53.
 
-Los actos y contratos mercantiles celebrados sin intervención de corredor, se comprobarán conforme a su naturaleza, sin atribuir a los intermediarios función alguna de correduría.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 54.
 
-Para ser corredor se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles;
-
-II. Estar domiciliado en la plaza en que se ha de ejercer;
-
-III. Haber practicado como aspirante durante seis meses en el despacho de algún corredor en ejercicio;
-
-IV. Ser de absoluta moralidad;
-
-V. Tener título de Licenciado en Relaciones Comerciales o de Licenciado en Derecho;
-
-VI. Tener el carácter de aspirante y aprobar el examen práctico, jurídico mercantil y el de oposición en su caso, ante el Colegio de Corredores respectivos; y
-
-VII. Obtener la habilitación a que se refiere el artículo 56 que se otorgará cuando a juicio de la autoridad correspondiente se hayan cumplido satisfactoriamente todos los requisitos establecidos en las fracciones anteriores.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 55.
 
-Para ser aspirante se requiere:
-
-I. Satisfacer los requisitos señalados en las fracciones I, II, IV y V del artículo 54; y
-
-II. Haber aprobado el examen teórico, jurídico mercantil, a que habrá de someterse el solicitante ante el Colegio de Corredores respectivo.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 56.
 
-Las habilitaciones para ejercer como corredor serán expedidas en el Distrito Federal por la Secretaría de Industria y Comercio, y en los Estados por los Gobernadores.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
-
-Cada año los corredores deberán rendir a dichas autoridades por conducto del Colegio de Corredores correspondiente, los informes que exija el reglamento.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 57.
 
-Los corredores solamente podrán ejercer en la plaza mercantil para la que hayan sido habilitados; sin embargo, los actos en que intervengan pueden referirse a cualquier otro lugar.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 58.
 
-Cuando los corredores intervengan en la proposición y ajuste de un contrato, así como cuando actúen como peritos, podrán actuar accidentalmente en cualquier plaza de la República Mexicana.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 59.
 
-Los corredores caucionarán su manejo por medio de fianzas, o en su defecto con hipoteca en la cuantía que establezca el reglamento.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 60.
 
-En el caso de que las garantías se hagan efectivas, se aplicarán, en primer lugar, al pago de responsabilidades fiscales que resulten de los actos en que intervengan; y en sus excedentes al pago de las responsabilidades contraídas en el ejercicio de la correduría.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 61.
 
-La fianza de los corredores será otorgada ante la Tesorería de la Federación y la Tesorería de la Entidad que corresponda, a disposición de la autoridad habilitante. En su caso, la hipoteca se constituirá sobre un bien raíz ubicado en la Entidad en la que el corredor ejerza sus funciones, siempre que dicha propiedad esté libre de gravámenes y tenga un valor catastral cuando menos igual al monto de la caución. Esta garantía se constituirá conforme a las leyes comunes.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 62.
 
-Las personas habilitadas para ejercer como corredor deben llenar previamente a su ejercicio y mantener en forma permanente durante toda su actuación, los siguientes requisitos:
-
-I. Otorgar la garantía en la forma establecida en el artículo anterior;
-
-II. Proveerse a su costa de sello y libro de Registro debidamente autorizado;
-
-III. Registrar sello y firma ante la autoridad que los hubiere habilitado en el Registro Público de la Propiedad y de Comercio y en el Colegio de Corredores respectivos; y
-
-IV. Establecer su oficina en la plaza en que vayan a desempeñar su función, dentro de los treinta días siguientes a la fecha en que hayan rendido su protesta.
-
-Satisfechos todos los requisitos que anteceden, la autoridad habilitante mandará publicar, en el "Diario Oficial" de la Federación o en el periódico oficial de la Entidad que corresponda, sin costo alguno para el interesado, la habilitación conferida.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 63.
 
-Los Corredores tendrán derecho a cobrar a los interesados en cada caso los honorarios que devenguen conforme al Arancel; pudiendo excusarse de actuar, si los interesados no les anticipan los gastos y honorarios respectivos.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 64.
 
-Los contratos de compraventa en abonos, con reserva de dominio o con cláusula resolutoria sobre bienes muebles, así como los relativos a prenda que se constituya sobre los mismos bienes, para garantizar el cumplimiento de cualquier contrato mercantil, podrán otorgarse o ratificarse ante Corredor, cuando la Ley no exija otra formalidad especial. El documento en que se haga constar el cumplimiento de las obligaciones pactadas en dichos contratos, puede también ser otorgado o ratificado ante Corredor.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 65.
 
-Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los contratos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en el libro especial que llevarán al efecto y que se denominará de registro, sin raspaduras, enmendaduras, interlineaciones o abreviaturas.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 66.
 
-El Libro de Registro y el archivo de pólizas y actas de los corredores que por cualquier motivo dejen de ejercer, serán entregados por quien los tuviere en su poder, al Colegio de Corredores respectivo para su guarda, y si no lo hubiere, a la autoridad habilitante.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 67.
 
-Las actas y pólizas autorizadas por los corredores surten los efectos de un instrumento público. Los asientos de su Libro de Registro y las copias certificadas que expidan de las pólizas, actas y asientos antes dichos, son documentos que hacen prueba plena de los contratos o actos respectivos. Póliza es el instrumento redactado por el Corredor para hacer constar en él un contrato mercantil en el que esté autorizado a intervenir como funcionario revestido de fe pública, en los términos de este Código y de las disposiciones legales aplicables. Acta es la relación escrita de un acto jurídico en el que el Corredor intervino; contendrá las circunstancias relativas al mismo y la firma y sello del Corredor. Los contratos mercantiles en que pueda intervenir el Corredor y que no hubieren sido otorgados ante él, podrán autenticarse mediante ratificación que bajo su firma hagan las partes en su presencia y el Corredor no adquiere ninguna responsabilidad sobre el contenido o la materia de los actos o hechos jurídicos.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 68.
 
-Son obligaciones de los corredores:
-
-I. Asegurarse de la identidad y capacidad legal para contratar de las personas en cuyos negocios intervengan;
-
-II. Proponer los negocios con exactitud, claridad y precisión;
-
-III. Guardar secreto en todo lo que concierna a los negocios que se le encarguen, y, cuando actúe con el carácter de intermediario, no revelar, mientras no se concluya la operación, los nombres de los contratantes a menos que exija lo contrario la Ley, o la naturaleza de las operaciones o por el consentimiento de los interesados;
-
-IV. Expedir a las autoridades y a los interesados siempre que lo pidieren copias certificadas de las pólizas y actas correspondientes, así como de los extractos de las pólizas, pudiendo ser éstas mecanográficas, fotostáticas, manuscritas, fotográficas o impresas;
-
-V. Ejercer personalmente sus funciones;
-
-VI. Asistir a la entrega de los efectos cuando alguno de los contratantes lo solicite;
-
-VII. Conservar marcada con un sello y firma, mientras no la reciba a su satisfacción el comprador, una muestra de las mercancías, siempre que la operación se hubiere hecho sobre muestras;
-
-VIII. Servir de peritos por nombramiento hecho o confirmado por la autoridad y dar a ésta los informes que les pida sobre materias de su competencia;
-
-IX. Pertenecer al Colegio de Corredores de la plaza en que ejerzan;
-
-X. Dar toda clase de facilidades para la inspección que de su archivo y Libros de Registro practique la autoridad habilitante acompañada de un representante del Colegio de Corredores de la plaza; y
-
-XI. Dar aviso a la autoridad habilitante cuando deseen separarse del ejercicio de su función por un lapso menor de treinta días, y cuando exceda de este término, deberán solicitar de dicha autoridad por conducto del Colegio de Corredores de la plaza, la licencia respectiva, la cual podrá ser renunciable.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 69.
 
-Se prohibe a los Corredores:
-
-I. Comerciar por cuenta propia y ser comisionistas;
-
-II. Ser factores o dependientes de un comerciante;
-
-III. Adquirir para sí o para su esposa, parientes consanguíneos hasta el cuarto grado, y afines en la colateral hasta el segundo grado, los efectos que se negocien por su conducto;
-
-IV. Intervenir en cualquier forma en contratos cuyo objeto o fin sea contrario a la Ley o a las buenas costumbres;
-
-V. Garantizar los contratos en que intervengan, ser endosantes de los títulos a la orden negociados por su conducto, y, en general contraer en los negocios ajustados con su mediación, responsabilidad extraña al simple ejercicio de la correduría;
-
-VI. Autorizar los contratos que ajusten u otorguen en nombre propio o en representación de tercera persona, para su esposa, para sus parientes consanguíneos o afines en los grados que expresa la fracción III, y los dos comerciantes de los que sean socios o de las empresas en que figuren como miembros del consejo de administración o de vigilancia;
-
-VII. Expedir copias certificadas de constancias que no obren, en su archivo, o en su Libro de Registro, o no expedirlas íntegras; y
-
-VIII. Con excepción de los cargos docentes, ser empleado público o militar en servicio.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 70.
 
-Los Corredores, que a pesar de la prohibición existente ejerzan el comercio, no podrán hacer cesión de sus bienes, y la quiebra en que de hecho caigan, será calificada siempre de fraudulenta.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 71.
 
-Los Corredores, además de las penas a que se hagan acreedores por los delitos cometidos en el ejercicio de sus funciones, serán sancionados administrativamente como sigue:
-
-I. Con suspensión hasta de un año en caso de infracción al artículo 68; y
-
-II. Con cancelación definitiva de su habilitación cuando ejecuten alguno de los actos que prohibe el artículo 69, sean declarados en quiebra, no lleven libros de registro o sean condenados por delitos intencionales cuya pena exceda de un año de prisión.
-
-Las sanciones serán aplicadas por la autoridad habilitante, oyendo al interesado, con intervención del Colegio de Corredores respectivo y de acuerdo con los procedimientos que establezca el reglamento .
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 72.
 
-La resolución que se dicte suspendiendo o cancelando la habilitación a un Corredor, deberá publicarse en el "Diario Oficial" de la Federación y en el periódico oficial de la entidad correspondiente; y el Colegio de Corredores respectivo se encargará de darla a conocer en la plaza, publicándola durante tres días consecutivos en alguno de los diarios de mayor circulación.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 73.
 
-En cada plaza mercantil en que haya más de cinco corredores, se establecerá un Colegio que tendrá a su cargo:
-
-I. Formular los cuestionarios para el examen teórico, jurídico mercantil, a que habrán de someterse las personas que deseen ser aspirantes;
-
-II. Examinar a los solicitantes;
-
-III. Comprobar que los aspirantes han hecho su práctica durante seis meses ininterrumpidos bajo la dirección y responsabilidad de un corredor en ejercicio;
-
-IV. Examinar a los aspirantes, con la intervención de un representante de la autoridad habilitante correspondiente, en los términos que señale el Reglamento;
-
-V. Dar aviso a la autoridad habilitante de las solicitudes recibidas y de los resultados de ambos exámenes en su caso, así como de la idoneidad de los aspirantes;
-
-VI. Solicitar de la autoridad habilitante la suspensión de algún Corredor, o la cancelación de su habilitación en los casos en que proceda;
-
-VII. Publicar anualmente en el periódico oficial que corresponda, en el mes de enero, la lista de corredores en ejercicio;
-
-VIII. Rendir a las autoridades los informes que le soliciten en materia de su competencia;
-
-IX. Proponer a la autoridad habilitante el Arancel a que deberán sujetarse sus asociados, y publicarlo en el periódico oficial correspondiente una vez aprobado por dicha autoridad;
-
-X. Nombrar de entre sus asociados a las personas que deban desempeñar alguna comisión;
-
-XI. Fijar las cuotas que deban cubrirle sus asociados, así como el monto de los derechos relativos a intervenciones, que establezca el Reglamento. Las cuotas y los derechos a que se refiere esta fracción deben ser aprobados previamente por la autoridad habilitante;
-
-XII. Asistir a las inspecciones del archivo y libros de sus asociados cuando las hubiere de practicar la autoridad habilitante; y
-
-XIII. Constituirse en asociación para los fines que señala este Código y los Reglamentos.
-
-En las plazas en que no exista Colegio de Corredores, las atribuciones asignadas a los mismos en el presente Código, en su caso, estarán a cargo de la autoridad habilitante.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 74.
 
-El Ejecutivo de la Unión y los Gobernadores de las Entidades Federativas expedirán el Reglamento y el arancel de Corredores respectivo. El Reglamento contendrá:
-
-I. Los informes que los Corredores deberán rendir, anualmente, a la autoridad habilitante por conducto del Colegio de Corredores;
-
-II. El número máximo de Corredores que existirá en cada plaza;
-
-III. La cuantía de la caución a que se refiere el artículo 59;
-
-IV. Los procedimientos mediante los cuales se aplicarán las sanciones que establece el presente título;
-
-V. Los requisitos, formas y procedimientos para efectuar los exámenes a los aspirantes y corredores;
-
-VI. El señalamiento de los fines necesarios para la constitución del Colegio de Corredores;
-
-VII. La forma de comprobar la calidad necesaria para el ejercicio de la función de Corredor, los conocimientos profesionales, técnicos y prácticos que se requieran para ello; las circunstancias relativas a las cauciones y la inspección a los Corredores; así como todas aquellas disposiciones que se requieran para su cumplimiento; y
-
-VIII. Las sanciones que podrán consistir en multa hasta de cinco mil pesos y suspensión hasta por seis meses, por incumplimiento de las obligaciones impuestas a los corredores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 # LIBRO SEGUNDO.
 
@@ -6574,7 +6408,7 @@ Art. 1,375. Bastará la interposición de una tercería excluyente, para que el 
 
 Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete á la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación á lo prevenido en los artículos anteriores.
 
-### CAPÍTULO III.
+### CAPÍTULO III. (SIC)
 
 De la rectificación de créditos.
 
@@ -7253,3 +7087,15 @@ CUARTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto
 D.O.F. 2 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1992.
+
+PRIMERO.- La presente ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan el Título Tercero del Libro Primero del Código de Comercio que comprende los artículos 51 a 74, así como las demás disposiciones legales y reglamentarias que se opongan a lo establecido en el presente decreto.
+
+TERCERO.- A partir de que entre en vigor la presente ley, sólo podrán ser habilitados como corredores, licenciados en derecho con título legalmente expedido y registrado.
+
+CUARTO.- Los corredores públicos que hayan sido habilitados conforme a las disposiciones del Código de Comercio se continuarán regulando por éste. Los corredores públicos que hayan sido habilitados antes de la entrada en vigor de la presente Ley podrán solicitar y obtener una nueva habilitación sin más requisitos, en cuyo caso serán regulados por la presente ley a partir de la publicación del acuerdo correspondiente en el Diario Oficial de la Federación.
+
+QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.
