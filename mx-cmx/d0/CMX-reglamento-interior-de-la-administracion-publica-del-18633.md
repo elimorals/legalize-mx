@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-09-24"
+last_updated: "2004-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -198,7 +198,7 @@ VII. A la Secretaría de Salud:
 
 1. Dirección General de Servicios Médicos y Urgencias; y (sic)
 
-2. Dirección General de Medicamentos e Insumos para la Salud; y
+2. (DEROGADO, G.O. 1 DE OCTUBRE DE 2004)
 
 3. Dirección General de Planeación y Coordinación Sectorial.
 
@@ -1460,8 +1460,6 @@ XV. Llevar un registro de las personas que ejerzan actividades en la vía públi
 
 XVI. Coordinar y proponer la realización de estudios técnicos para determinar la viabilidad del establecimiento de empresas y unidades productivas, como una alternativa para las personas que realizan actividades en la vía pública, con el fin de proponer los planes y programas que resulten a las autoridades competentes;
 
-> <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
-
 XVII. Proporcionar asesoría técnica, jurídica y administrativa a las personas que realicen sus actividades en la vía pública;
 
 > <small>(ADICIONADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
@@ -2586,57 +2584,105 @@ VIII. Realizar todas aquellas acciones que sean necesarias para mejorar la calid
 
 IX. Promover la ampliación de la cobertura y la prestación de los servicios a su cargo, apoyando las políticas y programas que para tal efecto dicten y formulen las autoridades correspondientes de la Secretaría de Salud del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+X. Establecer las necesidades institucionales de medicamentos, insumos y equipo médico de la Secretaría de Salud del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XI. Definir políticas y criterios generales a los que deberá sujetarse el proceso de selección, distribución, adquisición, almacenamiento, prescripción, dispensación y uso de medicamentos, vacunas y toxoides en los servicios de las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría y de las entidades
+
+sectorizadas a ella;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XII. Establecer y actualizar el Cuadro Institucional de Medicamentos, Insumos y Equipo médico de la Secretaría de Salud del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIII. Garantizar la calidad, seguridad, eficiencia, efectividad y uso racional de medicamentos en los servicios de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIV. Establecer lineamientos generales que permitan la capacitación y el asesoramiento adecuado y oportuno a los profesionales de la salud y al público en general para garantizar el uso seguro y costo efectivo de los medicamentos;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XV. Supervisar técnicamente la selección, adquisición, distribución, almacenamiento, prescripción, dispensación y uso de medicamentos, en los almacenes y farmacias de los servicios de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría, de acuerdo con la normativa sanitaria vigente;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XVI. Implantar un sistema de farmacovigilancia que garantice la seguridad y eficacia del uso de medicamentos y enviar las notificaciones recibidas al Centro Nacional de Farmacovigilancia de la Secretaría de Salud Federal;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XVII. Implantar el programa de farmacoeconomía que permita evaluar las diferentes alternativas medicamentosas y servicios, para establecer las mejores relaciones de costo-beneficio y costo-efectividad de los mismos;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XVIII. Elaborar y proponer normas y reglamentos para la completa aplicación de la legislación referente a los medicamentos, basados en el análisis de la Ley de Salud del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIX. Establecer y operar centros de información de medicamentos que presten servicios de información científica, objetiva, actualizada, relevante y confiable al personal médico y paramédico de los servicios de salud del Gobierno del Distrito Federal y al público en general.
+
 ###### Artículo 66.
 
-Corresponde a la Dirección General de Medicamentos e Insumos para la Salud:
-
-I. Definir Políticas y criterios generales a los que deberá sujetarse el proceso de selección, adquisición, distribución, almacenamiento, prescripción, dispensación y uso de medicamentos, vacunas y toxoides en los servicios de salud del Gobierno del Distrito Federal;
-
-II. Establecer y actualizar el cuadro básico de medicamentos para cada nivel de atención de los servicios de salud del Gobierno del Distrito Federal;
-
-III. Garantizar la calidad, seguridad, eficiencia, efectividad y uso racional de medicamentos en la atención a la salud del Gobierno del Distrito Federal;
-
-IV. Establecer lineamientos generales que permitan la capacitación y el asesoramiento adecuado y oportuno a los profesionales de la salud y al público en general que permita garantizar el uso seguro y costo efectivo de los medicamentos;
-
-V. Supervisar la selección, adquisición, distribución, almacenamiento, prescripción, dispensación y uso de medicamentos, en los almacenes y farmacias de los servicios de salud del Gobierno del Distrito Federal, de acuerdo a la normatividad sanitaria vigente;
-
-VI. Implantar un sistema de fármaco vigilancia que garantice la seguridad y eficacia del uso de medicamentos y enviar las notificaciones recibidas al Centro Nacional de Farmacovigilancia de la Secretaría de Salud Federal;
-
-VII. Implantar el programa de Farmacoepidemiología que permita evaluar las diferentes alternativas medicamentosas y servicios para establecer las mejores relaciones de costo beneficio y costo efectividad de los mismos;
-
-VIII. Elaborar y proponer normas y reglamentos necesarios para la completa aplicación de la legislación, referente a los medicamentos, basados en el análisis de la Ley de Salud del Distrito Federal, vigente; y
-
-IX. Establecer y operar centros de información de medicamentos que presten servicios de información científica, objetiva, actualizada, relevante y confiable al personal médico y paramédico de los servicios de salud del Gobierno del Distrito Federal y al público en general.
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2004)
 
 ###### Artículo 67.
 
 Corresponde a la Dirección General de Planeación y Coordinación Sectorial:
 
-I. Establecer las acciones de coordinación sectorial, para la organización y funcionamiento de los grupos interinstitucionales de trabajo para la integración del Sistema de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-II. Instrumentar los mecanismos de coordinación para la planeación, organización, control y evaluación del Sistema de Salud del Distrito Federal;
+I. Establecer las acciones de coordinación sectorial, para la organización y funcionamiento de los grupos interinstitucionales de trabajo que integran el Sistema de Salud del Distrito Federal;
 
-III. Proponer las acciones de coordinación entre el Sistema de Salud del Distrito Federal y de éste con otras Dependencias y Entidades de las Administraciones Públicas, tanto Federal como del Distrito Federal, y de los gobiernos estatales que por sus atribuciones deban participar en la instrumentación de mecanismos de coordinación metropolitana;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-IV. Impulsar las acciones de participación, concertación e inducción con los sectores social y privado para la elaboración, actualización y ejecución de los programas que requiera el Sistema de Salud del Distrito Federal;
+II. Instrumentar los mecanismos de coordinación para el desarrollo del Sistema de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. Proponer las acciones de coordinación entre el Sistema de Salud del Distrito Federal y de éste con otras Dependencias y Entidades de la Administración Pública, tanto Federal como del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+IV. Impulsar las acciones de participación, concertación e inducción con los sectores social y privado para la elaboración y ejecución de los programas que requiere el Sistema de Salud del Distrito Federal;
 
 V. Proponer las bases para la formulación y ejecución de las políticas de salud del Distrito Federal, así como para el desarrollo del Sistema de Salud del Distrito Federal;
 
-VI. Establecer las políticas, sistemas, normas y procedimientos de carácter técnico a las que deban sujetarse las Unidades Administrativas de la Administración Pública, que realicen actividades en materia de salud;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-VII. Planear y evaluar el funcionamiento de las Unidades Administrativas de la Administración Pública, que realicen actividades en materia de salud;
+VI. Definir las políticas, sistemas, normas y procedimientos de carácter técnico a las que deban sujetarse las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas a la Secretaría y organismos sectorizados a ella;
 
-VIII. Regular, coordinar e integrar el anteproyecto de presupuesto y programa operativo anual de la Secretaría de Salud;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-IX. Coordinar y aprobar la formulación del anteproyecto de presupuesto y programa operativo anual de las Unidades Administrativas de la Administración Pública, que realicen actividades en materia de salud;
+VII. Planear y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo Técnico-Operativo adscritas a la Secretaría y entidades sectorizadas a ella;
 
-X. Autorizar y regular el ejercicio, las transferencias, ampliaciones y modificaciones del presupuesto que se requieran, de las Unidades Administrativas de la Administración Pública, que realicen actividades en materia de salud;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XI. Controlar el ejercicio del presupuesto de la Secretaría de Salud y de las Unidades Administrativas de la Administración Pública, que realicen actividades en materia de salud;
+VIII. Coordinar e integrar el anteproyecto de Presupuesto de la Secretaría de Salud del Distrito Federal;
 
-XII. Recopilar e integrar con la debida oportunidad, la información que se requiera para enviar a la Secretaría de Finanzas, a efecto de que se formule la Cuenta Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XIII. Apoyar técnicamente la desconcentración de funciones de la Secretaría de Salud, de las Unidades Administrativas y organismos públicos descentralizados sectorizados a ella;
+IX. Elaborar, seguir y evaluar el Programa Operativo Anual de la Secretaría de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+X. Otorgar asesoría para la formulación del anteproyecto de presupuesto y del Programa Operativo Anual a las entidades sectorizadas a la Secretaría de Salud del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XI. Coordinar la formulación del anteproyecto de presupuesto y el Programa Operativo Anual de las entidades sectorizadas a la Secretaría;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XII. Participar en la integración de la información que se requiera para enviar a la Secretaría de Finanzas, a efecto de que se formule la cuenta pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIII. Apoyar técnicamente la desconcentración de funciones de la Secretaría de Salud, de sus Unidades Administrativas y de los organismos públicos descentralizados sectorizados a ella;
 
 XIV. Definir las políticas, estrategias, normas y procedimientos para asegurar la oportuna y eficiente prestación de los servicios de salud a cargo de los organismos públicos descentralizados sectorizados a la Secretaría de Salud, así como vigilar su cumplimiento;
 
@@ -2644,11 +2690,15 @@ XV. Coordinar y controlar el sistema de información estadística de la Secretar
 
 XVI. Emitir los lineamientos, criterios y procedimientos de captación, elaboración, producción, actualización y difusión de la información estadística en salud;
 
-XVII. Diseñar y aplicar métodos e indicadores para el análisis estadístico de la información que se genere en las Unidades Administrativas y organismos públicos descentralizados de la Secretaría de Salud y para el Sistema de Salud del Distrito Federal, así como establecer los mecanismos y estrategias para el adecuado seguimiento de indicadores de resultados;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XVII. Diseñar y aplicar métodos e indicadores para el análisis estadístico de información que se genere en las Unidades Administrativas y organismo público descentralizado de la Secretaría de Salud y para el Sistema de Salud ambos del Distrito Federal, así como establecer los mecanismos y estrategias para el adecuado seguimiento de los indicadores de resultados;
 
 XVIII. Desarrollar sistemas y programas de información con la participación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo adscritas y organismos públicos descentralizados sectorizados a la Secretaría, así como vigilar su adecuado cumplimiento, mediante supervisión, asesoría y capacitación;
 
-XIX. Generar y difundir la información estadística en salud que requieran las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Salud y otras Dependencias y Entidades de la Administración Pública tanto Federal como del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIX. Generar y difundir la información estadística en materia de salud que requieran las Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de Salud del Distrito Federal y otras Dependencias y Entidades de la Administración Pública, tanto Federal como del Distrito Federal;
 
 XX. Mantener informada a la población sobre el desarrollo de los programas de la Secretaría de Salud y contribuir a la difusión de las actividades y logros del Sistema de Salud del Distrito Federal;
 
@@ -2656,11 +2706,15 @@ XXI. Observar la aplicación de las políticas, sistemas, normas y procedimiento
 
 XXII. Realizar los estudios e investigaciones necesarias, con el objeto de fortalecer las acciones de salud;
 
-XXIII. Coordinar y controlar las acciones de los programas de inversión de la Secretaría de Salud en el proceso de la obra pública que se efectúe para la conservación y desarrollo de la infraestructura e instalaciones en las unidades médicas de la Administración Pública;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXIII. Coordinar técnicamente las acciones de los programas de inversión de la Secretaría de Salud en el proceso de la obra pública que se efectúe para la conservación y desarrollo de la infraestructura e instalaciones en sus unidades médicas;
 
 XXIV. Participar en el establecimiento de las políticas e intervenir en los programas en materia de formación, capacitación y actualización de recursos humanos, de las Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública que realicen actividades en materia de salud;
 
-XXV. Participar en la elaboración y vigilar el cumplimiento de convenios y programas de colaboración, que celebre la Secretaría de Salud con el sector educativo, instituciones nacionales e internacionales, en coordinación con las Unidades Administrativas, en materia de educación e investigación en salud;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXV. Participar en la elaboración y vigilar el cumplimiento de convenios y programas de colaboración que celebre la Secretaría de Salud con el sector educativo, instituciones nacionales e internacionales, en coordinación con Unidades Administrativas sectorizadas a ella, en materia de educación e investigación en la salud;
 
 XXVI. Coadyuvar con las autoridades e instituciones educativas en la definición del perfil de los profesionales para la salud, en sus etapas de formación y del número óptimo de egresados que se requieran para cubrir las necesidades de recursos humanos del Sistema de Salud del Distrito Federal;
 
@@ -2668,21 +2722,37 @@ XXVII. Proporcionar la información y la cooperación técnica en las materias d
 
 XXVIII. Ejercer el control, vigilancia y fomento sanitarios en el Distrito Federal, conforme a lo que señale la Ley General de Salud, sus reglamentos y la Ley de Salud para el Distrito Federal, con el apoyo del organismo público descentralizado Servicios de Salud Pública del Distrito Federal;
 
-XXIX. Expedir las autorizaciones sanitarias para las actividades, establecimientos, productos y servicios en el ámbito de su competencia, conforme lo señalen las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XXX. Integrar el padrón local de actividades, establecimientos, productos y servicios que se encuentren sujetos a control y vigilancia sanitaria;
+XXIX. Expedir autorizaciones sanitarias para las actividades, establecimientos, productos y servicios en el ámbito de su competencia, conforme lo señalen las disposiciones jurídicas y administrativas aplicables, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
 
-XXXI. Ordenar y practicar verificaciones de conformidad con las disposiciones jurídicas y administrativas aplicables a la materia;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XXXII. Controlar la fauna nociva en mercados, centros de abasto y demás establecimientos públicos donde se comercialicen productos para consumo humano con el apoyo del organismo público descentralizado Servicios de Salud Pública en el Distrito Federal;
+XXX. Integrar el padrón local de actividades, establecimientos, productos y servicios que se encuentran sujetos a control y vigilancia sanitaria, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
 
-XXXIII. Emitir los dictámenes sanitarios y expedir las notificaciones de resultados derivadas de las acciones de vigilancia sanitaria;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XXXIV. Imponer sanciones y aplicar medidas de seguridad cuando existan riesgos y daños a la salud de las personas, por incumplimiento de las disposiciones sanitarias aplicables;
+XXXI. Ordenar y practicar verificaciones sanitarias de conformidad con las disposiciones jurídicas y administrativas aplicables a la materia, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
 
-XXXV. Realizar el control y vigilancia sanitarios en los establecimientos que expendan alimentos en la vía pública; y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
 
-XXXVI. Realizar el control y vigilancia sanitarios relacionados con el traslado, inhumación y exhumación de cadáveres.
+XXXII. Controlar la fauna nociva en mercados, centros de abasto y demás establecimientos públicos donde se comercialicen productos para consumo humano, a través del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXXIII. Emitir dictámenes sanitarios y expedir las notificaciones de resultados derivadas de las acciones de vigilancia sanitaria, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXXIV. Imponer sanciones y aplicar medidas de seguridad cuando existan riesgos y daños a la salud de las personas, por incumplimiento de las disposiciones sanitarias aplicables, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXXV. Realizar el control y vigilancia sanitarios en los establecimientos que expendan alimentos en la vía pública, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal; y
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXXVI. Realizar el control y vigilancia sanitarios relacionados con el traslado, inhumación y exhumación de cadáveres, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal.
 
 #### SECCION IX
 
@@ -8369,5 +8439,9 @@ G.O. 23 DE JULIO DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 24 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 1 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
