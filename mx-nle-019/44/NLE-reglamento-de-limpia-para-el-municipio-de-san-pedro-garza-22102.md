@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-san-pedro-garza-22102
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-25"
-last_updated: "1996-10-25"
+last_updated: "2001-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE LIMPIA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2001.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de octubre de 1996.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de Octubre de 1996.
 
 EL C. FERNANDO MARGÁIN BERLANGA PRESIDENTE MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, EN USO DE LAS FACULTADES A QUE SE REFIERE EL ARTÍCULO 27 FRACCIÓN IV DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO, A LOS HABITANTES DE ESTE MUNICIPIO HACER SABER:
 
@@ -49,7 +49,9 @@ I.- El R. Ayuntamiento;
 
 II.- El Presidente Municipal; y
 
-III.- La Secretaría de Servicios Primarios.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
+III.- La Secretaría de Servicios Públicos.
 
 ###### ARTÍCULO 3.
 
@@ -65,9 +67,11 @@ d) Vía pública: espacios destinados para el libre tránsito de personas, vehí
 
 ### CAPÍTULO II. DEL SERVICIO DE LIMPIA
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 4.
 
-El servicio de limpia se prestará coordinadamente por la Secretaría de Servicios Primarios y los vecinos del Municipio, pudiéndose éste concesionarse en términos de ley.
+El servicio de limpia se prestará coordinadamente por la Secretaría de Servicios Públicos y los vecinos del Municipio, pudiéndose éste concesionarse en términos de ley.
 
 ###### ARTÍCULO 5.
 
@@ -85,19 +89,25 @@ IV. La instalación de los contenedores adecuados en la vía pública, con capac
 
 El barrido y limpieza de las calles del Municipio se efectuará por los propietarios e inquilinos de las edificaciones o lotes, quienes deberán barrer la calle, banqueta y el arroyo que les corresponda por estar frente a sus predios.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 7.
 
-La recolección de basura, desperdicios y transporte a los tiraderos autorizados se hará dentro del horario y frecuencia que fijará la Secretaría de Servicios Primarios para cada una de las secciones del Municipio, dándosele la publicidad necesaria para el conocimiento de los vecinos.
+La recolección de basura, desperdicios y transporte a los tiraderos autorizados se hará dentro del horario y frecuencia que fijará la Secretaría de Servicios Públicos para cada una de las secciones del Municipio, dándosele la publicidad necesaria para el conocimiento de los vecinos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 8.
 
-La Secretaría de Servicios Primarios podrá cambiar el sistema de recolección, tomando en consideración las necesidades operativas, obligándose a difundir dicho cambio con quince días de anticipación.
+La Secretaría de Servicios Públicos podrá cambiar el sistema de recolección, tomando en consideración las necesidades operativas, obligándose a difundir dicho cambio con quince días de anticipación. Así mismo deberá de informar a la Secretaria de Finanzas y Tesorería Municipal de aquellos establecimientos industriales, comerciales o de servicios, de los cuales efectúan la recolección de los derechos que estos generan.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 9.
 
-La autoridad municipal podrá otorgar concesiones a favor de una o varias personas, para instalar depósitos metálicos con tapa movible en cuyos recipientes se pinten anuncios comerciales, quedando prohibido que en esa clase de depósitos metálicos se arrojen otros desperdicios que no sean los depositados por los que transiten en la vía pública.
+El R. Ayuntamiento podrá otorgar concesiones a favor de una o varias personas, para instalar depósitos metálicos con tapa movible en cuyos recipientes se pinten anuncios comerciales, quedando prohibido que en esa clase de depósitos metálicos se arrojen otros desperdicios que no sean los depositados por los que transiten en la vía pública.
 
-El concesionario se hará cargo de la conservación, mantenimiento y revisión periódicas para el buen funcionamiento de dichos depósitos. Los depósitos metálicos deberán ser lo suficientemente resistentes para soportar el peso de las cargas que deben contener, ser susceptibles de ser lavados con agua y pintados con pintura de aceite en su exterior y su diseño debe ser aprobado por la Secretaría de Servicios Primarios.
+El concesionario se hará cargo de la conservación, mantenimiento y revisión periódicas para el buen funcionamiento de dichos depósitos. Los depósitos metálicos deberán ser lo suficientemente resistentes para soportar el peso de las cargas que deben contener, ser susceptibles de ser lavados con agua y pintados con pintura de aceite en su exterior y su diseño debe ser aprobado por la Secretaría de Servicios Públicos.
 
 ###### ARTÍCULO 10.
 
@@ -107,9 +117,11 @@ Los vehículos tanto oficiales como de particulares, usados para el transporte d
 
 Queda prohibido quemar basura, hojas o ramas en cualquier lugar, ya sea público o privado, a excepción de lo establecido en el segundo párrafo del artículo 13.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 12.
 
-En el caso de cadáveres de animales de propiedad particular, sus propietarios deberán transportarlos a los tiraderos que determine la ley, o solicitarán el transporte a la Secretaría de Servicios Primarios, realizando el pago correspondiente.
+En el caso de cadáveres de animales de propiedad particular, sus propietarios deberán transportarlos a los tiraderos que determine la ley, o solicitarán el transporte a la Secretaría de Servicios Públicos, realizando el pago correspondiente.
 
 ###### ARTÍCULO 13.
 
@@ -143,27 +155,35 @@ Los propietarios o inquilinos de casas habitación deberán recolectar su basura
 
 Los propietarios de los terrenos baldíos deberán colocar banquetas en los lados que colinden con la calle o vía pública. Igualmente deberán conservarlos en estado de higiene y libres de basura y escombro, evitando insalubridad e impidiendo que sean usados como tiraderos. En caso contrario se observará lo dispuesto por la Ley de Hacienda de los Municipios del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 20.
 
-Los propietarios o encargados de los condominios o edificios comerciales e industriales o de dependencias públicas, mandarán instalar en los lugares adecuados en el interior, los depósitos metálicos para que en ellos se recolecten (sic) basura, debiendo sacar tales depósitos metálicos a la banqueta para que ahí sean recogidos por los empleados de la Secretaría de Servicios Primarios en los horarios establecidos.
+Los propietarios o encargados de los condominios o edificios comerciales e industriales o de dependencias públicas, mandarán instalar en los lugares adecuados en el interior, los depósitos metálicos para que en ellos se recolecten (sic) basura, debiendo sacar tales depósitos metálicos a la banqueta para que ahí sean recogidos por los empleados de la Secretaría de Servicios Públicos en los horarios establecidos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 21.
 
-Las empresas, comercios e industrias establecidas en el municipio deberán registrarse al iniciar operaciones, ante la Secretaría de Finanzas y Tesorería Municipal para los efectos de los artículos 22 y 23 de éste ordenamiento.
+Las empresas, centros comerciales, comercios, industrias y puestos semifijos establecidas en el municipio deberán registrarse al iniciar operaciones, ante la Secretaría de Finanzas y Tesorería Municipal para los efectos de los artículos 22 y 23 de éste ordenamiento.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 22.
 
-Las empresas y centros comerciales o industriales donde se genere basura en promedio de un peso mayor de 200 kilogramos por día la deberán entregar separada, de acuerdo a las indicaciones que dictamine la Secretaría de Servicios Primarios, y transportarla a los lugares que se les indique, debiendo realizar el acarreo con las debidas condiciones de higiene. También podrá efectuar lo anterior la Secretaría de Servicios Primarios, mediante convenio celebrado por la empresa y el Municipio previo pago de los derechos correspondientes ante la Secretaría de Finanzas y Tesorería Municipal.
+Las empresas, centros comerciales, comercios, industrias y puestos semifijos donde se genere basura en promedio de un peso mayor de 200 kilogramos por día la deberán entregar separada, de acuerdo a las indicaciones que dictamine la Secretaría de Servicios Públicos, y transportarla a los lugares que se les indique, debiendo realizar el acarreo con las debidas condiciones de higiene. También podrá efectuar lo anterior la Secretaría de Servicios Públicos, mediante convenio celebrado por la empresa y el Municipio previo pago de los derechos correspondientes ante la Secretaría de Finanzas y Tesorería Municipal.
 
-Los aceites, filtros de vehículos motorizados, insecticidas, pinturas, solventes, residuos de carpintería, maquinado y similares, ácidos, materiales explosivos y demás productos químicos deberán separarse y ser depositados en el lugar que señale la ley y por cuenta de quien los genere.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 23.
 
-Las empresas y centros comerciales o industriales que generen basura por un peso menor de 200 kilogramos por día en promedio, pagarán los derechos establecidos en la Ley de Hacienda para los Municipios del Estado, por el servicio de recolección y transportación de la basura que generen. Cuando esas actividades sean a cargo de particulares, deberá de recabarse de la Secretaría de Servicios Primarios la autorización para realizar el acarreo al lugar o lugares que se les indique; de acuerdo a las especificaciones establecidas en el artículo anterior.
+Las empresas, centros comerciales, comercios, industrias y puestos semifijos que generen basura por un peso menor de 200 kilogramos por día en promedio, pagarán los derechos establecidos en la Ley de Hacienda para los Municipios del Estado, por el servicio de recolección y transportación de la basura que generen. Cuando esas actividades sean a cargo de particulares, deberá de recabarse de la Secretaría de Servicios Públicos la autorización para realizar el acarreo al lugar o lugares que se les indique; de acuerdo a las especificaciones establecidas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 24.
 
-Los locatarios de mercados o puestos semifijos, deberán mantener en condiciones higiénicas el exterior e interior de sus establecimientos y depositarán la basura en los lugares señalados para ese fin por los administradores de los mercados o en su defecto por la Secretaría de Servicios Primarios, deberán lavar diariamente el frente de sus respectivos puestos o locales e instalarán depósitos para que el público coloque la basura, siendo ellos mismos responsables de su limpieza.
+Los locatarios de mercados o puestos semifijos, deberán mantener en condiciones higiénicas el exterior e interior de sus establecimientos y deberán depositar la basura en los lugares señalados para ese fin por los administradores de los mercados o en su defecto por la Secretaría de Servicios Públicos, deberán lavar diariamente el frente de sus respectivos puestos o locales e instalarán depósitos para que el público coloque la basura, siendo ellos mismos responsables de su limpieza.
 
 ###### ARTÍCULO 25.
 
@@ -199,13 +219,17 @@ Los propietarios o encargados de estaciones de servicio para venta de gasolina, 
 
 Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, tanto públicas como privadas, son responsables solidarios por la diseminación de materiales, escombros o cualquier otra clase de basura.
 
-Todos los lados del inmueble en construcción o demolición que colinden con la calle deberán mantenerse en completa limpieza, quedando prohibido acumular escombros y materiales en la vía pública. En caso de resultar inevitable su utilización, se obtendrá previamente el permiso correspondiente de la Secretaría de Desarrollo Urbano y Ecología y en tal caso circundarán con block o madera tales materiales para evitar sean diseminados. Los responsables deberán transportar los escombros a los sitios que determine la Secretaría de Servicios Primarios y, en su caso, instalarán letrinas portátiles durante y hasta el término de la obra.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
+Todos los lados del inmueble en construcción o demolición que colinden con la calle deberán mantenerse en completa limpieza, quedando prohibido acumular escombros y materiales en la vía pública. En caso de resultar inevitable su utilización, se obtendrá previamente el permiso correspondiente de la Secretaría de Desarrollo Urbano y en tal caso circundarán con block o madera tales materiales para evitar sean diseminados. Los responsables deberán transportar los escombros a los sitios que determine la Secretaría de Servicios Públicos y, en su caso, instalarán letrinas portátiles durante y hasta el término de la obra.
 
 ###### ARTÍCULO 33.
 
 Los propietarios, administradores o encargados de camiones y transporte colectivo en general, destinados al servicio de pasajeros o de carga; de automóviles de alquiler; de andenes de estación de ferrocarril y del metro, deberán mantener en perfecto estado de limpieza las salas de espera, andenes y patios de las terminales o lugares de estacionamiento.
 
-La basura y desperdicios provenientes del público usuario, edificios, equipo y taller de sus empresas, si no son transportados por su cuenta conforme lo prevé la Ley de Hacienda para los Municipios de Nuevo León, deberán depositarse en recipientes metálicos en la banqueta del establecimiento, para su recolección por la Secretaría de Servicios Primarios, quedando sujetos al pago de los derechos señalados en la citada Ley.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
+La basura y desperdicios provenientes del público usuario, edificios, equipo y taller de sus empresas, si no son transportados por su cuenta conforme lo prevé la Ley de Hacienda para los Municipios de Nuevo León, deberán depositarse en recipientes metálicos en la banqueta del establecimiento, para su recolección por la Secretaría de Servicios Públicos, quedando sujetos al pago de los derechos señalados en la citada Ley.
 
 ###### ARTÍCULO 34.
 
@@ -217,59 +241,53 @@ Las personas que transiten con animales por la vía pública, tienen la obligaci
 
 ### CAPÍTULO IV. DE LAS PROHIBICIONES EN GENERAL
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 36.
 
 Queda prohibido:
 
-I. Arrojar o abandonar basura, escombro o desperdicios en la vía pública, parques, plazas, terrenos baldíos, arroyos, cañadas y en general en sitios no autorizados.
+I.- Arrojar o abandonar basura, escombro o desperdicios en la vía pública, parques, plazas, terrenos baldíos, arroyos, cañadas y en general en sitios no autorizados;
 
-II. Sacar la basura en botes, bolsas, depósitos o recipientes en mal estado que provoquen que se esparza la misma.
+II.- Sacar del domicilio, oficina, establecimiento y demás locales, la basura, en botes, bolsas, depósitos o recipientes en mal estado que provoquen que se esparza la misma;
 
-III. Quemar basura, hojas o ramas.
+III.- Quemar basura, hojas o ramas o incinerar desechos sólidos, tales como llantas, telas, papel, plásticos u otros elementos cuya combustión sea perjudicial para la salud, en patios, jardines, o vías públicas;
 
-IV. La quema o incineración de desechos sólidos, tales como llantas, telas, papel, plástico u otros elementos cuya combustión sea perjudicial para la salud.
+IV.- Depositar trozos peligrosos de vidrio, navajas de afeitar u otros objetos que puedan causar lesiones, en los botes de basura, sin aviso al recolector. En ningún caso se permitirá colocar en los botes de basura botellas que contengan ácidos o materiales explosivos;
 
-V. Depositar en los botes de basura, sin aviso al recolector trozos peligrosos de vidrio, navajas de afeitar u otros objetos que puedan causar lesiones. En ningún caso se permitirá colocar en los botes de basura botellas que contengan ácidos o materiales explosivos.
+V.- Dejar los botes de basura, en la vía pública, después de las ocho horas siguientes al paso del camión recolector y arrojar en la vía pública o en los depósitos de otros vecinos los desperdicios de cualquier clase que provengan del interior de talleres, establecimientos mercantiles, comerciales o de casa habitación;
 
-VI. Dejar los botes de basura en la vía pública después de las ocho horas siguientes al paso del camión recolector.
+VI.- Lavar en la vía pública toda clase de muebles, vasijas, herramientas, animales u objetos de uso doméstico; así como la reparación de vehículos, fabricación de muebles y la ejecución de cualquier actividad similar en la vía pública. Las personas a cuyo cargo se encuentren estos vehículos o quienes personalmente ejecuten esos actos, son responsables de la infracción que cometa esa disposición;
 
-VII. Lavar en la vía pública toda clase de muebles, vasijas, herramientas, animales u objetos de uso doméstico; así como la reparación de vehículos, fabricación de muebles y la ejecución de cualquier actividad similar en la vía pública. Las personas a cuyo cargo se encuentren estos vehículos o quienes personalmente ejecuten esos actos, son responsables de la infracción que cometa esa disposición.
+VII.- Arrojar fuera de los depósitos instalados para ese fin, basura o desperdicios provenientes de la vía pública; los transeúntes deberán arrojar los papeles y desperdicios en el interior de los mencionados depósitos;
 
-VIII. Tener permanentemente o habitualmente animales de cualquier especie en la vía pública, ya sea amarrados, enjaulados o sueltos.
+VIII.- Hacer fogatas en la vía pública;
 
-IX. Arrojar en la vía pública o en los depósitos de otros vecinos, los desperdicios de cualquier clase que provengan del interior de talleres, establecimientos mercantiles, comerciales o de casas habitación.
+IX.- Regar macetas instaladas en balcones, lavar ventanas, balcones y fachadas de casas particulares, ensuciando la vía pública;
 
-X. Arrojar fuera de los depósitos instalados para ese fin, basura o desperdicios provenientes de la vía pública; los transeúntes deberán arrojar los papeles y desperdicios en el interior de los mencionados depósitos.
+X.- Arrojar confeti, serpentinas u objetos similares en las calles, excepto durante la celebración de fiestas nacionales, populares o cualquier acto cívico, sin previa autorización de la autoridad municipal;
 
-XI. Arrojar aguas sucias o desperdicios desde el interior de las casas habitación, oficinas, edificios, establecimientos y vehículos hacia la vía pública.
+XI.- Arrojar aguas sucias o desperdicios desde el interior de las casas habitación, oficinas, edificios, establecimientos y vehículos hacia la vía pública;
 
-XII. Sacudir hacia la vía pública o por los balcones o azoteas ropa, alfombras, tapetes, cortinajes u otros objetos.
+XII.- Extraer de los botes colectores instalados por la autoridad municipal o por los particulares, la basura y desperdicios que se encuentre en su interior, sin la previa autorización de la Secretaría de Servicios Públicos;
 
-XIII. Hacer fogatas en la vía pública.
+XIII.- Colocar tendederos en la vía pública;
 
-XV. Regar macetas instaladas en balcones, lavar ventanas, balcones y fachadas de casas particulares, ensuciando la vía pública.
+XIV.- Drenar en la vía pública el agua de los ventiladores o aparatos de refrigeración;
 
-XVI. Arrojar confeti, serpentinas u objetos similares en las calles excepto durante la celebración de fiestas nacionales, populares o cualquier acto cívico, sin previa autorización de la autoridad municipal.
+XV.- Arrojar con motivo de las lluvias, la basura y desperdicios a las corrientes en el arroyo de la calle o en la calle misma;
 
-XVII. Arrojar a la vía pública, drenajes pluviales o a los contenedores de basura, cadáveres de animales.
+XVI.- Abandonar vehículos chatarra en la vía pública;
 
-XVIII. Extraer de los botes colectores instalados por la autoridad municipal o por los particulares, la basura y desperdicios que se encuentre en su interior, porque ello es facultad exclusiva de los empleados de la Secretaría de Servicios Primarios.
+XVII.- Tirar la basura, desechos y materiales a que se refieren los artículos 13 y 15 del presente Reglamento;
 
-XIX. Colocar tendederos en la vía pública.
+XVIII.- Todo acto u omisión que contribuya al desaseo de las vías públicas, plazas y parques o que impida o dificulte la prestación del servicio de limpia;
 
-XX. Drenar en la vía pública el agua de los ventiladores o aparatos de refrigeración.
+XIX.- Distribuir avisos, volantes o propaganda impresa, en la vía pública, sin permiso de la autoridad municipal, y en su caso, no recoger la basura generada por la distribución;
 
-XXI. Arrojar con motivo de las lluvias, la basura y desperdicios a las corrientes en el arroyo de la calle o en la calle misma.
+XX.- Fijar anuncios en la vía pública, paredes, postes de alumbrado público, semáforos y pasos peatonales, sin permiso de la autoridad municipal. Por ningún motivo se usará engrudo o gomas en ello; y,
 
-XXII. Abandonar vehículos chatarra en la vía pública.
-
-XXIII. Tirar la basura, desechos y materiales a que se refieren los artículos 13 y 15 del presente Reglamento.
-
-XXIV. Todo acto u omisión que contribuya al desaseo de las vías públicas, plazas y parques o que impida o dificulte la prestación del servicio de limpia.
-
-XXV. Distribuir avisos, volantes o propaganda impresa, en la vía pública, sin permiso de la autoridad municipal, y en su caso, no recoger la basura generada por la distribución.
-
-XXVI. Fijar anuncios en la vía pública, paredes, postes de alumbrado público, semáforos y pasos peatonales, sin permiso de la autoridad municipal. Por ningún motivo se usará engrudo o gomas en ello.
+XXI.- Tirar basura a la vía pública, desde cualquier tipo de vehículo automotor en circulación o estacionado.
 
 ### CAPÍTULO V. DE LA VIGILANCIA
 
@@ -281,7 +299,9 @@ I. Los vecinos del Municipio.
 
 II. Los Jueces Auxiliares del Municipio.
 
-III. Los inspectores en el ramo de limpia que nombre el Secretario de Servicios Primarios.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
+III. Los inspectores en el ramo de limpia que nombre el Secretario de Servicios Públicos.
 
 IV. Los empleados de la Secretaría de Seguridad Pública y Vialidad.
 
@@ -289,13 +309,17 @@ V. Los inspectores de Obras Públicas Municipales.
 
 VI. Los inspectores de la Dirección de Salud Pública Municipal.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 38.
 
-La Secretaría de Servicios Primarios podrá organizar y coordinar a los vecinos que auxilien en la vigilancia del cumplimiento del presente Reglamento, tales vecinos tendrán el carácter de inspectores honorarios.
+La Secretaría de Servicios Públicos podrá organizar y coordinar a los vecinos que auxilien en la vigilancia del cumplimiento del presente Reglamento, tales vecinos tendrán el carácter de inspectores honorarios.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 39.
 
-Los inspectores honorarios serán nombrados y removidos por la Secretaría de Servicios Primarios, el cargo será de servicio social y el vecino a quien se le confiera lo cumplirá en el horario que le resulte más conveniente. El inspector honorario únicamente reportaran (sic) a la autoridad competente los hechos u omisiones que consideren constituyen infracciones.
+Los inspectores honorarios serán nombrados y removidos por la Secretaría de Servicios Públicos, el cargo será de servicio social y el vecino a quien se le confiera lo cumplirá en el horario que le resulte más conveniente. El inspector honorario únicamente reportaran (sic) a la autoridad competente los hechos u omisiones que consideren constituyen infracciones.
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
@@ -303,29 +327,35 @@ Los inspectores honorarios serán nombrados y removidos por la Secretaría de Se
 
 Para los efectos del presente se considera como infracción todo hecho u omisión que contravenga las disposiciones contenidas en este Reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 41.
 
 Con independencia de las sanciones que señalan otros reglamentos municipales, las infracciones al presente serán sancionadas con:
 
-I. Amonestación.
+I.- Amonestación;
 
-II. Apercibimiento.
+II.- Apercibimiento;
 
-III. Multa de 1 a 50 cuotas. Para el caso de infracciones al artículo 36 fracción XXIII la multa será de 500 hasta 1000 cuotas.
+III.- Multa de 1 a 50 cuotas de salario mínimo vigente en esta zona económica en los casos previstos en las prohibiciones que señala el artículo 36 de este ordenamiento, exceptuándose las fracciones III y XVII en las cuales la multa será de 500 hasta 1000 cuotas; y/o
 
-Por cuota se entiende el salario mínimo diario vigente para esta zona económica.
+IV.- Arresto de hasta 36 horas.
 
-IV. Arresto de hasta 36 horas.
+En todos los casos el infractor será responsable de restituir los gastos que la autoridad municipal tenga que erogar con motivo de la reparación del daño que se causo.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 42.
 
-La Secretaría de Servicios Primarios impondrá las sanciones, tomando en consideración la naturaleza de la infracción, las causas que la produjeron, si existe reincidencia y la condición social, educación, capacidad económica y antecedentes del infractor.
+La Secretaría de Servicios Pública (sic) impondrá las sanciones, tomando en consideración la naturaleza de la infracción, las causas que la produjeron, si existe reincidencia y la condición social, educación, capacidad económica y antecedentes del infractor.
 
 ###### ARTÍCULO 43.
 
 A los infractores reincidentes podrá aplicárseles hasta el máximo de la sanción y multa de 51 a 200 cuotas, en caso de desacato una sanción adicional de 10 cuotas diarias mientras persista en la infracción.
 
-A los infractores reincidentes al artículo 36 fracción XXIII, se les aplicará adicionalmente multa de 1001 a 4000 cuotas y una multa extra de 200 cuotas diarias mientras persista la infracción.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2001)</small>
+
+A los infractores reincidentes al artículo 36 fracciones III y XVII, se les aplicará adicionalmente multa de 1001 a 4000 cuotas y una multa extra de 200 cuotas diarias mientras persista la infracción.
 
 ###### ARTÍCULO 44.
 
@@ -378,3 +408,11 @@ PRESIDENTE MUNICIPAL
 MA. TERESA GARCIA DE MADERO
 
 SECRETARIA DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2001.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y para su difusión se publicará en la Gaceta Municipal.
+
+SEGUNDO: La Secretaría del R. Ayuntamiento distribuirá ejemplares del presente, a través de las Juntas de Vecinos y de las oficinas públicas municipales, con el objeto de informar a los habitantes del municipio de lo establecido en este Reglamento.
