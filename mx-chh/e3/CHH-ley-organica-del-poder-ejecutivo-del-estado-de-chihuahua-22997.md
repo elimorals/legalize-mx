@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1995-07-05"
+last_updated: "1996-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -307,7 +307,9 @@ XXI.- Celebrar los contratos que tengan por objeto proporcionar locales a las of
 
 XXII.- Cuidar de la conservación y el mantenimiento de los bienes muebles propiedad del Estado y celebrar acuerdos o convenios con las demás dependencias y entidades de la Administración Pública Estatal y Paraestatal, para encomendarles esta función;
 
-XXIII.- Planear y diseñar integralmente las modificaciones que deban hacerse a la Administración Pública Estatal en lo relativo al establecimiento de las estructuras de organización y de los sistemas de organización y operación mas adecuadas para el logro de los objetivos del Gobierno;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 1996)</small>
+
+XXIII.- Planear y diseñar integralmente las modificaciones que deban hacerse a la Administración Pública Estatal en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del Gobierno;
 
 XXIV.- Asesorar a las Dependencias del Poder Ejecutivo de la Administración Centralizada como de la Paraestatal, en materia de Organización y Sistemas Administrativos;
 
@@ -812,3 +814,7 @@ QUINTO.- Las funciones establecidas a cargo de la Dirección General de Desarrol
 P.O. 5 DE JULIO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 1996.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
