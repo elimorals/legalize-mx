@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "2002-07-10"
+last_updated: "2004-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -45,25 +45,25 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
 El procedimiento penal tiene cinco períodos:
 
-I. El de averiguación previa a la consignación a los tribunales, que comprende las diligencias legalmente necesarias para que el Ministerio Público pueda resolver si ejercita la acción penal;
+I.- El de averiguación previa a la consignación a los tribunales, que comprende las diligencias legalmente necesarias para que el Ministerio Público pueda resolver si ejercita la acción penal;
 
-II. El constitucional de setenta y dos horas cuando se haya ejercitado la acción penal con detenido. Si no hubiere detenido tendrá el carácter de averiguación judicial;
+II.- El constitucional de setenta y dos horas cuando se haya ejercitado la acción penal con detenido. Si no hubiere detenido tendrá el carácter de averiguación judicial;
 
-III. El de instrucción, que comprende las diligencias practicadas por los tribunales con el fin de averiguar la existencia de los delitos, las circunstancias en que hubieren sido cometidos y la responsabilidad o irresponsabilidad de los inculpados;
+III.- El de instrucción, que comprende las diligencias practicadas por los tribunales con el fin de averiguar la existencia de los delitos, las circunstancias en que hubieren sido cometidos y la responsabilidad o irresponsabilidad de los inculpados;
 
-IV. El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa, ante los tribunales, y éstos valoran las pruebas y pronuncian sentencia definitiva; y
+IV.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa, ante los tribunales, y éstos valoran las pruebas y pronuncian sentencia definitiva; y
 
-V. El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales hasta la extinción de las sanciones aplicadas.
+V.- El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales hasta la extinción de las sanciones aplicadas.
 
 ###### ARTICULO 2o.
 
 Dentro del período de averiguación previa, la Policía Judicial, deberá, en ejercicio de sus facultades:
 
-I. Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos del orden común. En estos casos, las diversas policías cuando actúen en funciones de Policía Judicial, inmediatamente darán aviso al Ministerio Público dejando de actuar cuando éste así lo determine;
+I.- Recibir las denuncias y querellas de los particulares o de cualquiera autoridad, sobre hechos que puedan constituir delitos del orden común. En estos casos, las diversas policías cuando actúen en funciones de Policía Judicial, inmediatamente darán aviso al Ministerio Público dejando de actuar cuando éste así lo determine;
 
-II. Practicar la averiguación previa; y
+II.- Practicar la averiguación previa; y
 
-III. Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
+III.- Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado.
 
 ###### ARTICULO 3o.
 
@@ -105,7 +105,7 @@ Para la decisión de las competencias se observarán las siguientes reglas: las 
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2002)</small>
 
-Las cuestiones de competencia que se susciten entre los jueces de primera instancia y municipales serán resueltas de plano por el Tribunal Superior de Justicia. Sino se planteara conflicto alguno bastará la aceptación de la competencia para conocer del asunto.
+Las cuestiones de competencia que se susciten entre los jueces de primera instancia y municipales serán resueltas de plano por el Tribunal Superior de Justicia. Si no se planteara conflicto alguno bastará la aceptación de la competencia para conocer del asunto.
 
 ###### ARTICULO 10.
 
@@ -113,13 +113,13 @@ En materia penal no cabe prórroga ni renuncia de jurisdicción.
 
 La prórroga de la misma solamente procederá cuando el Tribunal Superior de Justicia, con audiencia del Procurador lo acuerde así, en los siguientes casos:
 
-I.- Cuando el Juez que sea competente para conocer del asunto, se encuentre impedido de hecho o de derecho para llenar su misión en un caso particular.
+I.- Cuando el Juez que sea competente para conocer del asunto, se encuentre impedido de hecho o de derecho para llenar su misión en un caso particular;
 
 II.- Cuando la apertura o continuación de la causa ante el Juez competente presente peligros para la seguridad o el orden públicos;
 
 III.- Cuando el inculpado sea de tal peligrosidad, que la cárcel del lugar, no presente las seguridades debidas, o
 
-IV. Cuando corra peligro la integridad corporal del inculpado si continúa su estancia dentro de la jurisdicción del Juez competente.
+IV.- Cuando corra peligro la integridad corporal del inculpado si continúa su estancia dentro de la jurisdicción del Juez competente.
 
 En el caso de que el Tribunal Superior de Justicia acuerde la prórroga de Jurisdicción, las actuaciones pasarán al conocimiento de alguno de los Jueces de la misma jerarquía de la Capital del Estado que tenga competencia Penal.
 
@@ -451,7 +451,7 @@ Se formará un inventario de los objetos que se recojan relacionados con el deli
 
 ###### ARTICULO 66.
 
-Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; y si no supiere firmar, sus huella digitales. En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
+Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; y si no supiere firmar, sus huellas digitales. En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
 
 ### CAPITULO VIII. Términos
 
@@ -852,6 +852,38 @@ Cuando se determine la internación de alguna persona a un hospital u otro estab
 El Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de policía judicial no estuvieren en estado de consignarse, desde luego a los tribunales.
 
 Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito, y, por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver se darán por el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 124 BIS.- Cuando ocurra la muerte de un donador voluntario o los disponentes secundarios manifiesten su conformidad con la disposición de órganos, tejidos o cadáveres para fines terapéuticos, científicos o de docencia, el Ministerio Público manifestará su conformidad con dicha disposición, siempre y cuando, el Consejo Estatal de Trasplantes solicite la disposición en atención a que se han cumplido los trámites establecidos en la Ley General de Salud y la Norma Técnica en Materia de Control Sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
+
+Cuando no existan datos para presumir que la muerte se ha producido por un hecho presuntamente delictuoso, sin demora, el Ministerio Público dictaminará su conformidad y enviará la autorización al hospital público o privado en donde se encuentre el cadáver, a fin de que se realicen los procedimientos necesarios para el trasplante de órganos o tejidos, así como para la disposición del cadáver.
+
+En el caso de muerte de un donador por un hecho presuntamente delictuoso, el Ministerio Público evaluará si la extracción de órganos o tejidos puede alterar el resultado de las investigaciones, en cuyo caso negará la disposición mediante determinación debidamente fundada y motivada.
+
+En caso de su autorización, deberá agregarse al expediente un certificado de lesiones y el dictamen de pérdida de la vida, expedidos por la Dirección de Servicios Periciales de la Procuraduría de Justicia del Estado, el expediente clínico y el informe sobre los procedimientos aplicados para el trasplante. El Consejo Estatal de Trasplantes estará obligado a ampliar la información cuando la autoridad investigadora así lo solicite.
+
+Para la certificación de la pérdida de la vida, deberán comprobarse la existencia de los signos de muerte señalados en el artículo 327 de la Ley General de salud. En caso de muerte cerebral, el dictamen de la pérdida de la vida podrá realizarse con el diagnóstico de un médico neurocirujano o un médico internista.
+
+De igual manera, el Ministerio Público podrá autorizar la disposición de órganos y tejidos para trasplante en caso de muerte cerebral y a solicitud del Consejo Estatal de Trasplantes.
+
+La muerte cerebral se presenta cuando existe alguno de los siguientes signos:
+
+I. Pérdida permanente irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+II. Ausencia de automatismo respiratoria; y
+
+III. Evidencia de daño irreversible del tallo cerebral, manifestando por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+Se debe descartar que dichos signos sean producto de notificación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas, que sobrepasen los niveles terapéuticos.
+
+La muerte cerebral deberá corroborarse con la práctica de cualquiera de las siguientes pruebas:
+
+I. Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes, con espacio de cinco horas entre uno y otro; o
+
+II. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral.
+
+La certificación de la muerte cerebral podrá realizarse por un médico neurólogo, neurocirujano o internista, que no forme parte del equipo médico que realizará el trasplante.
 
 ###### ARTICULO 125.
 
@@ -1877,7 +1909,7 @@ VII.- Cuando esté plenamente comprobado que en favor del inculpado existe algun
 
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 1991)</small>
 
-VIII.-Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado.
+VIII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado.
 
 ###### ARTICULO 284.
 
@@ -3400,3 +3432,7 @@ P.O. 10 DE JULIO DE 2002
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Las personas cuya situación jurídica sea la de procesadas con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido el delito, sin perjuicio de aplicar, cuando proceda lo previsto en el artículo 56 del Código Penal del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
