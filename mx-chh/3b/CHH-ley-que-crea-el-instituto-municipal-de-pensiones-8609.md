@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-instituto-municipal-de-pensiones-8609"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-27"
-last_updated: "1983-08-27"
+last_updated: "1988-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1988.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de agosto de 1983.
 
@@ -193,15 +193,15 @@ El Instituto llevará a cabo en el mercado de dinero operado por instituciones n
 
 #### SECCION PRIMERA. JUBILACIONES Y PENSIONES POR ANTIGUEDAD E INVALIDEZ
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1988)</small>
+
 ###### ARTICULO 17.
 
-Los Trabajadores al Servicio del Municipio y organismos descentralizados Municipales que se incorporen, tienen derecho a jubilarse con el cien por ciento del último sueldo devengado, cuando reúnan los siguientes requisitos:
+Los trabajadores al servicio del Municipio y Organismos Descentralizados Municipales que se incorporen, tienen derecho a jubilarse con el 100% (cien por ciento), del último sueldo devengado cuando reúnan los siguientes requisitos:
 
-I.- Haber prestado sus servicios durante treinta años o más;
+1.- Haber prestado sus servicios, durante 30 o más años. En el caso de las mujeres tendrán derecho a la jubilación cuando tengan 28 años de servicio.
 
-II.- Haber aportado a la Institución durante todos los años de servicio; y
-
-III.- Haber cumplido sesenta años de edad.
+2.- Haber aportado a la Institución durante todos los años de servicio.
 
 ###### ARTICULO 18.
 
@@ -620,3 +620,9 @@ LIC. OSCAR ORNELAS K.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ARMANDO ALMEIDA MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
