@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2002-05-31"
+last_updated: "2003-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -242,7 +242,9 @@ El Director General tendrá las siguientes facultades y Obligaciones:
 
 6.- Llevar las relaciones laborales de acuerdo con las disposiciones legales establecidas en la Ley del Servicio Civil para los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas del Estado de B. C., debiendo celebrar sus contratos laborales de manera independiente al Estado y al Municipio.
 
-7.- Tener la representación jurídica, del organismo para los actos de dominio, de administración y para pleitos y cobranzas.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2003)</small>
+
+7.- Tener la representación jurídica del organismo para los actos de dominio de administración y para pleitos y cobranzas, así como para absolver y articular posiciones y llevar a cabo convenios de orden civil, laboral o de cualquier índole. Estas atribuciones podrán ser delegadas a terceras personas, previa aprobación de la Presidenta del Sistema.
 
 8.- Presentar al Consejo los planes y labores, informes de actividades y estados financieros anuales.
 
@@ -353,5 +355,9 @@ P.O. 25 DE JUNIO DE 1999.
 TRANSITORIOS (SIC) UNICO.- LA PRESENTE REFORMA ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 P.O. 31 DE MAYO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 17 DE ENERO DE 2003.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
