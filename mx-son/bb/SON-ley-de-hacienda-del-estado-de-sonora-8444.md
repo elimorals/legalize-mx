@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1976-12-31"
+last_updated: "1977-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE FEBRERO DE 1977.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -1509,13 +1509,13 @@ b).- Sean hatos de equinos de buena calidad y los sementales finos registrados y
 
 c).- Sean enajenados o sacrificados en los rastros o fuera de ellos.
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 171.
 
-La Tesorería General del Estado entregará a la Unión Ganadera Regional del Estado la cantidad de $6.50 por cabeza de ganado vacuno que se sacrifique o exporte, por concepto de subsidio para que la Unión la emplee en el fomento de la industria pecuaria.
+La Tesorería General del Estado entregará a la Unión Ganadera Regional de Sonora la cantidad de $6.50 por cabeza de ganado vacuno que se sacrifique o se movilice fuera de la entidad, que como cuota social se han impuesto sus miembros para el cumplimiento de los fines que persigue su organismo.
 
-La Tesorería General del estado se reserva el derecho de verificar el buen uso de esta cantidad y de retenerla cuando compruebe que no se emplea en los fines indicados.
+No se entregará el producto de la cuota anterior cuando la Unión Ganadera Regional deje de funcionar conforme a las leyes de la materia, o cuando se compruebe que su producto no se emplea en los fines que las propias leyes indican.
 
 ###### Artículo 172.
 
@@ -2717,11 +2717,11 @@ III.- Lo señalado en la fracción III, a los Comités locales de Caminos Vecina
 
 IV.- Lo señalado en la fracción IV, a la Unión Ganadera Regional de Sonora.
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 295.
 
-Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado bovino que se exporte, movilice fuera de su lugar de origen o se sacrifique dentro del Estado, $50.00.
+Para la realización del Programa de Carreteras Estatales que desarrollará el Gobierno del Estado, por cabeza de ganado que se movilice a otras entidades o se sacrifique en el interior del Estado, $50.00, de acuerdo al convenio celebrado por el Gobierno del Estado y la Unión Ganadera Regional, que fenece el 31 de agosto de 1979.
 
 ###### Artículo 296.
 
@@ -3191,7 +3191,7 @@ automóviles o camiones 50.00
 
 5.- Reposición de tarjetas de circulación para
 
-motocicletas 25.00
+motocicletas 25.0
 
 ###### Artículo 318.
 
@@ -3642,3 +3642,9 @@ P. EL SECRETARIO DE GOBIERNO,
 EL SUBSECRETARIO,
 
 Dr. Samuel Ocaña García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 19 DE FEBRERO DE 1977.
+
+UNICO.- Esta ley entrará en vigor el día de su publicación en el Boletín Oficial del Estado.
