@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-expropiacion-para-el-estado-de-zacatecas-8873"
 country: "mx"
 rank: "ley"
 publication_date: "1944-09-23"
-last_updated: "1944-09-23"
+last_updated: "1958-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1958.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 23 de sptiembre de 1944.
 
@@ -73,7 +73,11 @@ XIV. La creación o mejoramiento de centros de población o de sus fuentes de vi
 
 XV. La creación y fomento de vías de comunicación de todas clases.
 
-XVI. Las demás que especialmente fijen las leyes.
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1958)</small>
+
+XVI. No construir en los lotes de terreno adquiridos de las Juntas Urbanas de Fraccionamiento y Colonización, en los términos y plazos señalados en la Ley que crea dichos Organismos.
+
+XVII. Las demás que especialmente fijen las leyes.
 
 ###### ARTICULO 2o.
 
@@ -150,3 +154,9 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento man
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veinte días del mes de septiembre de mil novecientos cuarenta y cuatro.
 
 LEOBARDO REYNOSO.- EL Srio. General de Gobierno, Lic. Roberto del Real.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE OCTUBRE DE 1958
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
