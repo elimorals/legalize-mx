@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2002-08-17"
+last_updated: "2002-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -545,7 +545,7 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socio-económicas del usuario debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
 
-> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000</small>
+> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
 
@@ -1469,8 +1469,6 @@ I.- Capacitar a sus servidores públicos para tratar a víctimas de dicha violen
 
 II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
 ###### ARTICULO 150.
 
 El gobierno del Estado se coordinará con las autoridades sanitarias federales para el ejercicio en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
@@ -1545,11 +1543,13 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ## TITULO DECIMO PRIMERO. CONDUCTAS DAÑINAS A LA SALUD
 
-> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
+
+> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
@@ -2093,7 +2093,7 @@ Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legisl
 
 La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
 
-I.- Cuando, por causas supervinientes, se compruebe que los productos; o el ejercicio de las actividades que se hubieren autorizado, constituyan riesgo o daño para la salud humana;
+I.- Cuando, por causas supervinientes, se compruebe que los productos; el ejercicio de las actividades que se hubieren autorizado, constituyan riesgo o daño para la salud humana;
 
 II.- Cuando el ejercicio de la actividad que se hubiere autorizado, exceda los límites fijados en la autorización respectiva.
 
@@ -2679,23 +2679,31 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 
 P.O. 17 DE AGOSTO DE 2002
 
-Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el tres de marzo del año 2003.
 
-Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el tres de marzo del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
 
-Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+Segundo.- El Gobernador dentro de los primeros diez días del mes de noviembre siguientes a la entrada en vigor del presente decreto, en los términos a que hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
 
-El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de febrero del año 2003 preverán lo conducente a efecto de elegir a su presidente; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día tres de marzo del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día tres de marzo del año 2003.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Cuarto.- El Gobernador del Estado y el Congreso del Estado preverán lo conducente a efecto de incluir dentro del presupuesto de egresos del año 2003 las partidas suficientes que garanticen el adecuado funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit a partir de la fecha en que este mismo decreto se señalan
 
 Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
 
-Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
 
 Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
 
@@ -2704,3 +2712,7 @@ Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en
 Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
 
 En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
+
+P.O. 28 DE SEPTIEMBRE DE 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
