@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1992-06-03"
+last_updated: "1993-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -220,7 +220,7 @@ e).- A no ser separado del seno de la familia sino en los casos excepcionales qu
 
 III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
-### CAPITULO UNICO.
+### CAPITULO I.
 
 DIVISION DE PODERES.
 
@@ -228,85 +228,81 @@ DIVISION DE PODERES.
 
 DE LOS PODERES PUBLICOS.
 
-### CAPITULO I.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+### CAPITULO II.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+INSTITUCIONES Y PROCESOS ELECTORALES.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 20.
 
 El poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 21.
 
-No podrán reunirse dos o más Poderes en una sola persona o corporación, ni encomendarse el Legislativo a un Congreso formado por menos de nueve Diputados.
+No podrán reunirse dos o más poderes en una sola persona o corporación, ni encomendarse el Legislativo a un Congreso formado por un número de diputados menor al previsto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 22.
 
 Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 1993)</small>
+
+### CAPITULO I.
+
+DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+
+###### Artículo 23.
+
+Para promover el acceso de los ciudadanos al ejercicio del Poder Público, la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos morelenses podrán organizarse en partidos políticos.
+
+Los partidos políticos son entidades de interés público; la Ley determinará las formas de su intervención en los procesos electorales estatales.
+
+En los procesos electorales estatales, los partidos políticos deberán contar con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular. La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y el de sus campañas electorales.
+
+La Ley establecerá las reglas para que los partidos políticos, en condiciones de igualdad, puedan acceder a los medios de comunicación.
+
+La organización de las elecciones estatales y municipales, es una función que se ejerce por los Poderes Legislativo, Ejecutivo y Judicial del Estado, con la participación corresponsable de los partidos políticos y de los ciudadanos, según lo disponga la Ley. Esta función se realizará a través de un organismo público, de carácter permanente, dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de esta función.
+
+En la integración del organismo público participarán consejeros de los Poderes Ejecutivo y Legislativo, representantes de los partidos políticos y consejeros ciudadanos, según lo disponga la Ley.
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerán el Organo Electoral y el Tribunal Electoral, que tendrán las atribuciones, competencia y organización que determine la Ley. Las resoluciones del Tribunal serán definitivas e inatacables.
+
+En materia electoral la interposición de un recurso no producirá efectos suspensivos del acto o resolución impugnado.
+
+En cada proceso electoral funcionará el Tribunal Estatal Electoral como órgano autónomo y máxima autoridad jurisdiccional electoral. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración. La Ley establecerá el procedimiento para la designación de sus magistrados.
+
+El Tribunal Estatal Electoral tendrá competencia para dirimir de manera definitiva e inatacable las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten en los organismos electorales. Expedirá su reglamento interior y ejercerá las demás atribuciones que le confiere la Ley.
+
+La Ley establecerá los requisitos de procedencia, presupuestos procesales y formas de sustanciación de los medios de impugnación.
+
 ### CAPITULO II.
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
-
-###### Artículo 23.
-
-El Poder Legislativo se deposita en una Asamblea que se denomina "Congreso del Estado de Morelos" integrada por Diputados electos cada 3 años, de acuerdo a las disposiciones de la Ley Electoral del Estado, y no podrán ser electos para el período inmediato, ni aún tratándose de distinto Distrito Electoral.
-
-La Ley Electoral determinará la forma de participación de los Partidos Políticos en los procesos electorales conforme a las bases siguientes:
-
-I.- Se reconoce la intervención de los partidos políticos en los procesos electorales, estatales y municipales y para ese fin, contarán en forma equitativa con representantes en el Congreso del Estado y en los Ayuntamientos, con garantías amplias para el sufragio popular y las actividades que les son propias.
-
-II.- El fin de los partidos políticos será el de promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan.
-
-III.- Para los procesos electorales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
-
-IV.- Los partidos políticos, en términos de la Ley respectiva, tendrán derecho a participar en las elecciones estatales y municipales.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
-
-### CAPITULO III.
-
-DE LAS FACULTADES DEL CONGRESO.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 ## TITULO TERCERO.
 
 DEL PODER LEGISLATIVO.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
-
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 24.
 
-El Congreso del Estado estará integrado por doce Diputados electos por el principio de mayoría relativa mendiante (sic) el Sistema de Distritos Electorales Uninominales, cuya demarcación fijará la Ley, y hasta por seis Diputados que serán electos según el principio de representación proporcional, electos mediante el sistema de listas en una sola circunscripción territorial, por cada Diputado Propietario se elegirá un suplente.
+El Poder Legislativo se deposita en una Asamblea que se denomina "Congreso del Estado de Morelos", integrada por quince diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales, y por hasta diez diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial. La Ley determinará la demarcación territorial de cada uno de los distritos y el territorio del Estado comprenderá una circunscripción plurinominal única.
 
-La elección de Diputados plurinominales se sujetará a lo que disponga la Ley y a las bases siguientes:
+La asignación de diputados por el principio de representación proporcional se sujetará a lo que disponga la Ley.
 
-I.- Tendrán derecho a obtener Diputaciones plurinominales los Partidos Políticos que hayan cumplido los siguientes requisitos:
-
-A).- Haber registrado candidatos en cuando menos la tercera parte de los Distritos Uninominales;
-
-B).- Que hayan registrado oportunamente sus listas de candidatos a Diputados por representación proporcional;
-
-C).- Que hayan obtenido el 1.5% de la votación para Diputados en toda la Entidad.
-
-II.- Para la asignación de las Diputaciones Plurinominales se aplicará el siguiente procedimiento:
-
-A).- Se sumarán los votos de los Partidos Políticos que habiendo alcanzado el 1.5% de la votación para Diputados en todo el Estado, cumplan con los requisitos exigidos en la Fracción I;
-
-B).- El resultado de la suma anterior se dividirá entre el número de curules a distribuir para obtener un factor común que servirá de base para asignar a cada partido tantas Diputaciones como factores alcance;
-
-C).- Si ningún Partido alcanza, con sus constancias de mayoría relativa, la mitad más uno de los miembros del Congreso, al Partido que obtenga mayoría de votos y de curules le serán asignados Diputados de representación proporcional, hasta alcanzar la mayoría absoluta del Congreso, sin que en ningún caso pueda obtener más de doce curules, sumados ambos principios; y
-
-D).- Si concluido el procedimiento anterior quedan Diputaciones por asignar, éstas se distribuirán en orden decreciente de acuerdo tanto con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes, como con los porcentajes excedentes de los Partidos que obtuvieron curules con la aplicación del factor común.
+El Congreso del Estado se renovará en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente; los diputados propietarios no podrán ser electos para el período inmediato, ni aún tratándose de distinto distrito electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
@@ -384,15 +380,17 @@ Nadie puede excusarse de servir el cargo de Diputado, sino por causa bastante ca
 
 El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA DIPUTACION PERMANENTE.
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 30.
 
-Las elecciones de Diputados serán calificadas por un Colegio Electoral integrado por la totalidad de los presuntos Diputados electos según el principio de votación mayoritaria relativa y por un presunto Diputado de representación proporcional, que resultare electo en la circunscripción electoral que obtuviera la votación más alta.
+Las elecciones de diputados serán calificadas por el organismo que instituye el párrafo quinto del artículo 23, que otorgará las constancias de mayoría y hará la asignación de diputados por el principio de representación proporcional.
+
+Las resoluciones de dicho organismo serán revisables por el Tribunal Electoral del Estado de acuerdo con las formas y los procedimientos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -456,15 +454,17 @@ El Congreso expedirá la ley que en lo sucesivo regulará su estructura y funcio
 
 Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como Gran Jurado, prorrogará aquéllas hasta pronunciar su veredicto, sin ocuparse, entretanto, de ningún otro asunto.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DEL GOBERNADOR.
+DE LA DIPUTACION PERMANENTE.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 40.
 
 Son facultades del Congreso:
 
-I.- Decidir de manera definitiva e irrevocable sobre la validez o nulidad de las elecciones de sus miembros, y resolver las dudas que ocurran respecto de ellas, de acuerdo con el artículo 30.
+I.- (DEROGADA, P.O. 13 DE OCTUBRE DE 1993)
 
 II.- Expedir, aclarar, reformar, derogar o abrogar las leyes, decretos y acuerdos para el Gobierno y Administración interior del Estado.
 
@@ -740,11 +740,9 @@ IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayunta
 
 En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
-### CAPITULO II.
+### CAPITULO I.
 
-DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+DEL GOBERNADOR.
 
 ###### Artículo 42.
 
@@ -806,11 +804,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS SECRETARIOS.
+DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 53.
 
@@ -870,11 +868,11 @@ X.- Las demás que le confiere expresamente esta misma Constitución.
 
 DEL PODER EJECUTIVO.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
+DE LOS SECRETARIOS.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 57.
 
@@ -890,7 +888,7 @@ I.- Ser ciudadano Morelense por nacimiento;
 
 II.- Tener 35 años cumplidos el día de la elección;
 
-III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección;
+III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección,
 
 IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1991)
 
@@ -982,11 +980,11 @@ Integrado el Congreso del Estado, procederá a hacer la designación de Gobernad
 
 En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
+DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
 
 ###### Artículo 70.
 
@@ -1150,11 +1148,11 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 74.
 
@@ -1204,9 +1202,9 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DE LA PROCURADURIA ECOLOGICA.
+DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
@@ -1236,9 +1234,11 @@ El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y d
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO I.
+### CAPITULO VII.
 
-DISPOSICIONES PRELIMINARES.
+DE LA PROCURADURIA ECOLOGICA.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 80.
 
@@ -1304,11 +1304,9 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+DISPOSICIONES PRELIMINARES.
 
 ###### Artículo 85-C.
 
@@ -1316,23 +1314,25 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
 ###### Artículo 85-D.
 
 La conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado, estarán encomendadas a la Procuraduría Ecológica.
 
-### CAPITULO IV.
+### CAPITULO III.
+
+DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
 
-### CAPITULO V.
-
-DE LA DEFENSORIA PUBLICA.
+### CAPITULO IV.
 
 ###### Artículo 86.
 
@@ -1348,11 +1348,9 @@ La Ley establecerá y organizará los Tribunales, garantizará la independencia 
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y sus respectivos Secretarios, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de Educación Pública o de Beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo de Magistrado, Juez o Secretario.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+DE LA DEFENSORIA PUBLICA.
 
 ###### Artículo 89.
 
@@ -1368,11 +1366,11 @@ En éste Período de Sesiones, dentro de los primeros cinco días, la Cámara de
 
 Para ser Magistrado, Propietario o Suplente, del Tribunal Superior de Justicia, se requiere:
 
-I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles: (sic)
+I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles.
 
 II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
 
-III.- Poseer al momento de su designación, con antigüedad (sic) mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello: (sic)
+III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
 
 IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
 
@@ -1500,9 +1498,11 @@ VII.- No podrán ser objeto de estas controversias los actos de Congreso como Ju
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
-### CAPITULO II.
+### CAPITULO I.
 
-PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
+DE LA ORGANIZACION DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 102.
 
@@ -1523,6 +1523,10 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+
+### CAPITULO II.
+
+PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 ###### Artículo 106.
 
@@ -1586,9 +1590,9 @@ I.- La circunscripción geográfica de cada Municipio deberá establecerse de ta
 
 Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes, con el concurso del Estado, tendrán a su cargo los siguientes Servicios Públicos:
 
-a).- Agua Potable y Alcantarillado;
+a).- Agua Potable y Alcantarillado,
 
-b).- Alumbrado Público;
+b).- Alumbrado Público,
 
 c).- Limpia;
 
@@ -2176,8 +2180,6 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 76
-
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE DICIEMBRE DE 1983.
@@ -2337,3 +2339,9 @@ P.O. 3 DE JUNIO DE 1992.
 DECRETO NUMERO 224
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 13 DE OCTUBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
