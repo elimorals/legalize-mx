@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1993-07-21"
+last_updated: "1993-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 1993.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -7516,8 +7516,24 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-PRIMERO.- El presente decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
-SEGUNDO.- Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de octubre de 1998, salvo lo dispuesto por los transitorios siguientes.
 
-TERCERO.- Los juicios y procedimientos judiciales o administrativos actualmente en trámite, se seguirán rigiendo por las disposiciones vigentes con anterioridad a la entrada en vigor del presente decreto.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+
+SEGUNDO.- Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
+
+I.- No se encuentren arrendados al 19 de octubre de 1993;
+
+II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o
+
+III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+
+TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de octubre de 1998 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+
+D.O.F. 23 DE SEPTIEMBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
