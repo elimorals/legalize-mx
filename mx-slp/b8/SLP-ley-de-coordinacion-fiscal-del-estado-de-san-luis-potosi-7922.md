@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1988-01-15"
+last_updated: "1989-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -187,7 +187,9 @@ III.- Efectuar en forma permanente estudios de Legislación Fiscal, así como es
 
 La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-El Secretario de Finanzas, el Contador General de Glosa del Poder Legislativo y por cuatro Municipios representados por sus Tesoreros, elegidos anualmente por los Ayuntamientos, en el número que para cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la comisión permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+El Secretario de Finanzas, el Presidente de la Comisión de Vigilancia del Poder Legislativo y por cuatro Municipios representados por sus Tesoreros, elegidos anualmente por los Ayuntamientos en el número que para cada grupo se indica, así como por el suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales en su ausencia.
 
 ###### ARTICULO 17o.
 
@@ -252,3 +254,9 @@ LEOPOLDINO ORTIZ SANTOS
 El Secretario General de Gobierno,
 
 ADALBERTO NOYOLA VAZQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
