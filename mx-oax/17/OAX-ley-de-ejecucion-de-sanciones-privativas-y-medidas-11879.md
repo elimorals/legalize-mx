@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ejecucion-de-sanciones-privativas-y-medidas-11879"
 country: "mx"
 rank: "ley"
 publication_date: "1973-01-27"
-last_updated: "1998-10-03"
+last_updated: "2000-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de enero de 1973.
 
@@ -43,17 +43,67 @@ I
 
 OBJETO.
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 23 SEPTIEMBRE DE 2000)</small>
 
-La presente Ley tiene por objeto la ejecución de sanciones privativas de libertad en el Estado de Oaxaca, en armonía con la Ley que establece las Normas Mínimas sobre Readaptación Social de Sentenciados, expedida por el Congreso de la Unión, debiendo entenderse que forman parte de la misma el o los convenios de coordinación que se celebren con el Gobierno Federal. Se faculta al Ejecutivo del Estado para la celebración de tales convenios.
+###### Artículo 1o.
+
+Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto establecer las bases para la ejecución de las penas y medidas de seguridad, impuestas por las Autoridades Judiciales en el Estado, conforme a las disposiciones Constitucionales y a las Leyes aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 SEPTIEMBRE DE 2000)</small>
 
 II
 
-DE LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL
+DE LA COMPETENCIA
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, P.O. 23 SEPTIEMBRE DE 2000)</small>
 
-La Dirección de Prevención y Readaptación Social será el órgano del Poder Ejecutivo al que corresponderá la ejecución de las sanciones privativas y medidas restrictivas de libertad, así como el control de la administración y dirección de todos los establecimientos penitenciarios que existan en el Estado, sin perjuicio de lo que establezcan los convenios de coordinación que se celebren con el Gobierno Federal.
+###### Artículo 2o.
+
+Corresponde al Ejecutivo del Estado, a través de la Secretaria de Protección Ciudadana, la Ejecución de Sanciones Privativas y Medidas Restrictivas de la Libertad, impuestas por la Autoridad Judicial o el Consejo de Tutela en el Estado; el control, administración y dirección de cada uno de los establecimientos destinados al cumplimiento de las Sanciones Privativas y Restrictivas de Libertad, de las Instituciones de Prevención y la Atención Especializada que se otorgue al infractor desde el momento de su aprehensión.
+
+En los términos de los Convenios que el Ejecutivo celebre con el Gobierno Federal también podrán ser recluidos en dichos establecimientos los reos del fuero federal.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 2o.
+
+Bis (A).- La Secretaria de Protección Ciudadana, a través de la Dirección de Prevención y Readaptación Social, aplicará las disposiciones contenidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 2o.
+
+Bis (B).- Para los efectos de esta Ley, la Dirección de Prevención y Readaptación Social, tendrá las siguientes atribuciones:
+
+I.- Crear, organizar, dirigir y administrar los Centros de Custodia y de Readaptación Social en el Estado:
+
+II.- Expedir normas y demás disposiciones de orden interno por las que habrán de regirse los Centros, así como vigilar su cumplimiento;
+
+III.- Custodiar a toda persona que fuere privada de su libertad por órdenes de los Tribunales Judiciales del Estado o Autoridad competente, desde el momento de su ingreso, así como a su traslado, a otras instituciones en los casos previstos por esta Ley, ya sea por conducto de su personal o con apoyo de los cuerpos de seguridad pública;
+
+IV.- Llevar el registro de todas las personas privadas de la libertad, incluyendo sus generales y los datos sobre el delito o delitos cometidos, así como el diagnóstico de su personalidad, de acuerdo a los estudios que les hubiesen practicado después de dictado el auto de formal prisión;
+
+V.- Clasificar a los internos a fin de aplicar a cada uno el tratamiento individualizado que corresponda, de acuerdo al sistema progresivo técnico;
+
+VI.- Aplicar y vigilar el tratamiento adecuado para inimputables;
+
+VII.- Conocer invariablemente las quejas del Ministerio público, los internos, sus familiares o defensores sobre el tratamiento de que sean objeto en los Centros de reclusión;
+
+VIII.- Otorgar a los internos los beneficios ha (sic) que se hayan hecho acreedores, en los términos de esta Ley;
+
+IX.- Supervisar la vigilancia a que estarán sujetas las personas que gocen de los beneficios señalados en esta Ley;
+
+X.- Determinar los lugares donde deberán quedar recluidos los inculpados o reos sordomudos, ciegos, farmacodependientes, de mayor peligrosidad o enfermos mentales, contagiosos y graves, aplicándoles el tratamiento que se estime adecuado;
+
+XI.- Supervisar la vigilancia ha (sic) que serán sometidas las personas sujetas a tratamiento de deshabituación, desintoxicación, confinamiento, prohibición de ir a un lugar determinado y vigilancia de Autoridad;
+
+> <small>(F. DE E., P.O. 21 DE OCTUBRE DE 2000)</small>
+
+XII.- Adoptar las medidas más convenientes para la prevención y disminución de la delincuencia en los centros penitenciarios, coadyuvando con las demás Instituciones en la política criminal que implemente el Ejecutivo del Estado, tanto en lo que se refiere a la prevención del delito como en lo que atañe al tratamiento del interno, procurando realizar investigaciones de carácter criminológico para este fin;
+
+XIII.- Seleccionar y capacitar al personal de los centros del Sistema Penitenciario Estatal en todos sus niveles de acuerdo a la Ley de la materia; y
+
+XIV.- Ejecutar las demás penas y medidas de seguridad o las funciones que ésta u otras leyes le asignen.
 
 III
 
@@ -479,7 +529,7 @@ Durante el período de tratamiento se someterá a cada interno a las medidas edu
 
 El tratamiento a los condenados a semilibertad consistirá en la aplicación de medidas educativas, laborales o curativas autorizadas por la ley y conducentes al exclusivo fin de que el sentenciado no vuelva a delinquir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 67.
 
@@ -493,27 +543,23 @@ III.- Concesión de mayor libertad dentro del establecimiento;
 
 IV.- Desempeño de comisiones de confianza, que no impliquen jerarquía o autoridad sobre los demás internos, previo acuerdo de la Dirección de Prevención y Readaptación Social;
 
-V.- Traslado a instituciones abiertas;
+V.- Traslado a Instituciones abiertas;
 
-VI.- Permisos de salida de fin de semana o en ocasiones especiales, o diario con reclusión nocturna, o bien de salida en días hábiles con reclusión de fin de semana, previo acuerdo de la Dirección de Prevención y Readaptación Social;
+VI.- Permisos de salida de fin de semana o en ocasiones especiales, o diario con reclusión nocturna, o bien de salida en días hábiles con reclusión de fin de semana, previo Acuerdo de la Dirección de Prevención y Readaptación Social; y
 
 VII.- Otras medidas adecuadas que apruebe previamente la Dirección de Prevención y Readaptación Social.
 
-> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Si el interno tiene varias penas de prisión, en ningún caso se compurgarán simultáneamente. Para efectos de las remisiones parciales de pena, de la libertad preparatoria y de la preliberación se tomará en cuenta la suma de dichas penas.
+Para la compurgacion de sentencias, en ningún caso se variaran los términos y condiciones impuestos por la Autoridad Judicial.
 
 ###### Artículo 68.
 
 El Ejecutivo del Estado promoverá la creación de establecimientos abiertos, en los cuales el tratamiento se fundará en la confianza, en una disciplina aceptada y en el sentimiento de responsabilidad del interno respecto a la comunidad en que vive.
 
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 21 DE OCTUBRE DE 2000)
+
 ###### Artículo 69.
 
-El régimen de establecimiento abierto, así como los sistemas de permisos de salida de fin de semana, diario con reclusión nocturna o en días hábiles con reclusión de fin de semana, podrán servir tanto al tratamiento preliberacional, como para el cumplimiento de penas privativas de libertad, cuando esto sea técnicamente recomendable tomando en cuenta la ausencia de peligrosidad o grado de readaptación de cada sujeto, siempre y cuando el tiempo por compurgar hasta la posible liberación, bien sea por el cumplimiento de la sanción, o por la posible obtención de los beneficios de libertad preparatoria o remisión parcial de la pena, no exceda de dos años.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-La prevención del párrafo anterior no es aplicable al reo que no haya compurgado la mitad de la prisión impuesta.
+El régimen de establecimiento abierto, así como los sistemas de permisos de fin de semana, diario con reclusión nocturna o en días hábiles con reclusión de fin de semana, podrán servir tanto al tratamiento preliberacional como para el cumplimiento de penas privativas de libertad, cuando esto sea técnicamente recomendable tomando en cuenta la ausencia de peligrosidad o grado de readaptación de cada sujeto, siempre y cuando el tiempo por compurgar hasta la posible liberación, bien sea por el cumplimiento de la sanción, o por la posible obtención de beneficios de libertad preparatoria o remisión parcial de la pena, no exceda de dos años.
 
 ###### Artículo 70.
 
@@ -705,21 +751,19 @@ La remisión de la pena se entiende sin perjuicio del derecho a la libertad prep
 
 III.- Libertad preparatoria.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 93.
 
-Se concederá libertad preparatoria al condenado que hubiere cumplido las tres quintas partes de su condena si se trata de delitos intencionales o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
+Se concederá libertad preparatoria al condenado que hubiere cumplido las tres quintas partes de su condena si se trata de delitos intencionales o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando se cumplan los siguientes requisitos:
 
-I.- Que haya observado buena conducta durante la ejecución de su sentencia.
+I.- Que haya observado buena conducta durante la ejecución de su sentencia;
 
-II.- Que el examen de su personalidad haga presumir que está reformado y socialmente readaptado, de acuerdo con el dictamen del Consejo Técnico del establecimiento y a juicio de la Dirección de Prevención y Readaptación Social.
+II.- Que el examen de su personalidad haga presumir que está reformado y socialmente readaptado, de acuerdo con el dictamen del Consejo Técnico del establecimiento y a juicio de la Dirección de Prevención y Readaptación Social;
 
-III.- Que haya reparado o se obligue formalmente a reparar el daño causado, si fue condenado a ello, sujetándose a la forma, medidas y términos que de acuerdo con su situación se fijen por la Dirección de Prevención y Readaptación Social, si no puede cubrirlo desde luego.
+III.- Que haya reparado o se obligue formalmente a reparar el daño causado, si fue condenado a ello, sujetándose a la forma, medidas y términos que de acuerdo con su situación se fijen por la Dirección de Prevención y Readaptación Social, si no puede cubrirlo desde luego;
 
-> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 3 DE OCTUBRE DE 1998)</small>
-
-IV.- No se trate de alguno de los delitos graves así calificados por la ley; y
-
-> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 3 DE OCTUBRE DE 1998)</small>
+IV.- No se trate de los delitos de Corrupción de Menores previsto por el artículo 195, Pornografía Infantil previsto por el artículo 195 Bis, Lenocinio de Menores previsto por el artículo 200 Bis, Violación previsto por los artículos 246, 247 y 248; Asalto previsto por los artículos 268 y 269; y Privación Ilegal de la Libertad en su modalidad de plagio o secuestro previsto por el artículo 348 del Código Penal para el Estado Libre y Soberano de Oaxaca; y
 
 V.- No se trate de reincidentes.
 
@@ -727,11 +771,11 @@ Llenados los requisitos anteriores, la Dirección de Prevención y Readaptación
 
 a).- Observar buena conducta, residir o, en su caso, no residir, en lugar determinado, sin que pueda cambiar de domicilio sin autorización previa de la Dirección. La designación de residencia se hará conciliando la circunstancia de que el agraciado pueda proporcionarse trabajo o en el caso de la fracción (sic) siguiente, continuar su preparación, en el lugar que se fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
 
-b).- Desempeñar, en el plazo que la resolución determine, un trabajo lícito o continuar su preparación para tal fin si se trata de una persona sin dependientes económicos y en edad apropiada;
+b).- Desempeñar, en el plazo que la resolución determine, un trabajo licito o continuar su preparación para tal fin si se trata de una persona sin dependientes económicos y en edad apropiada;
 
-c).- Abstenerse del uso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos, salvo prescripción médica. En estos casos el liberado y el médico respectivo deberán comunicar de inmediato la prescripción a la Dirección de Prevención Social, la que podrá confirmar la necesidad de la misma o revocarla. En este caso podrá investigar las circunstancias en que el hecho se produjo y proceder en consecuencia; y
+c).- Abstenerse del uso de bebidas embriagantes y del empleo de estupefacientes substancias de efectos análogos, salvo prescripción médica. En estos casos el liberado y el médico respectivo deberán comunicar de inmediato la prescripción a la Dirección de Prevención y Readaptación Social, la que podrá confirmar la necesidad de la misma o revocarla. En este caso podrá investigar las circunstancias en que el hecho se produjo y proceder en consecuencia; y
 
-d).- Sujetarse a las medidas de orientación y supervisión que se dicten y a la vigilancia de una persona honrada y de arraigo, que se responsabilice de informar cuando menos una vez al mes infringe sus deberes, presentándolo siempre que sobre su conducta, y de inmediato si el liberado para ello fuere requerida. (sic)
+d).- Sujetarse a las medidas de orientación y supervisión que se dictan y a la vigilancia de una persona honrada y de arraigo, que se responsabilice de informar cuando menos una vez al mes infringe sus deberes, presentándolo siempre que sobre su conducta, y de inmediato si el liberado para ello fuere requerida. (sic)
 
 ###### Artículo 94.
 
@@ -916,3 +960,9 @@ PRIMERO.- El presente decreto entrará en vigor diez días después de su public
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
 
 TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
