@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2002-12-05"
+last_updated: "2003-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -2561,19 +2561,25 @@ ART. 642.- Sólo puede constituirse el patrimonio de la familia con bienes, sito
 
 ART. 643.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2003)</small>
 
-ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 20,000 veces el importe del salario mínimo general, fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción a avalúo realizado por perito oficial, debidamente autorizado, en el que determinará el valor comercial de los bienes en cuestión.
+ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 30,000 veces el importe del salario mínimo general, fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción al avalúo realizado por perito oficial, debidamente autorizado, en el que determinará el valor comercial de los bienes en cuestión.
 
 ART. 645.- Cuando por cualquier causa el valor de los bienes afectos al patrimonio de la familia es inferior al máximo fijado en el artículo anterior, podrá ampliarse el patrimonio hasta el límite legal.
 
-ART. 646.- Cualquier miembro de la familia puede constituir el patrimonio, quien para tal efecto deberá manifestarlo así al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público los bienes que van a quedar afectados.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2003)</small>
+
+ART. 646.- Cualquier miembro de la familia puede constituir el patrimonio, quien para tal efecto deberá manifestarlo así al Juez de su domicilio o al Notario Público con ejercicio en el mismo, designando con toda precisión los bienes que van a ser afectados, de manera que puedan ser inscritos en el Registro Público de la Propiedad.
 
 ART. 647.- Puede aportarse al patrimonio de la familia bienes gravados, aunque el acreedor no dé su consentimiento para ello; pero, en todo caso, el bien responderá del pago del adeudo a que se refiere el gravamen. Para fijar el máximo del valor del patrimonio, no se tomará en cuenta el valor de los gravámenes.
 
 ART. 648.- Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tiene derecho de exigir judicialmente que se constituya el Patrimonio de la Familia.
 
 ART. 649.- Si el solicitante vive en concubinato, el Juez citará a las dos personas que hacen vida matrimonial y sin formalidad alguna procurará convencerlas para que contraigan entre sí matrimonio si no existe impedimento no dispensable, y para que reconozcan a los hijos que hayan procreado; pero el hecho de que no contraigan matrimonio no impedirá la constitución del patrimonio de familia. La negativa a reconocer a sus hijos, será impedimento para constituir el patrimonio.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2003)</small>
+
+Cuando la constitución del patrimonio se realice ante Notario Público, éste hará las exhortaciones a que se refiere el párrafo anterior y la explicación de la consecuencia de no reconocer a los hijos producto del concubinato para la solicitud de constitución del patrimonio de la familia.
 
 ART. 650.- Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que se obliguen a hacerlo, las propiedades raíces que a continuación se expresan:
 
@@ -9944,3 +9950,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 5 DE DICIEMBRE DE 2002.
 
 Único.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Périódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
