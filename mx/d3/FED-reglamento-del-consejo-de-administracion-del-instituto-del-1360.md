@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-consejo-de-administracion-del-instituto-del-1360
 country: "mx"
 rank: "reglamento"
 publication_date: "1972-12-14"
-last_updated: "1992-10-20"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1360&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "1998-12-22"
 
 REGLAMENTO DEL CONSEJO DE ADMINISTRACION DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 14 de diciembre de 1972.
 
@@ -34,11 +34,11 @@ El Consejo de Administración se integrará en la forma que establece el artícu
 
 DE LAS SESIONES
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 2o.
 
-El consejo de administración sesionará por lo menos dos veces al mes, el día y hora que se hayan fijado en la sesión anterior.
+El Consejo de Administración sesionará por lo menos una vez al mes, el día y hora que se hayan fijado en la sesión anterior.
 
 ###### ARTICULO 3o.
 
@@ -152,11 +152,11 @@ Durante las sesiones ordinarias y extraordinarias, el Presidente será auxiliado
 
 DE LA SECRETARIA
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21o.
 
-El consejo de administración nombrará a un secretario del mismo y podrá nombrar a un prosecretario que suplirá provisionalmente al secretario en sus ausencias.
+La Secretaría del Consejo de Administración será desempeñada por el Secretario General del Instituto.
 
 ###### ARTICULO 22o.
 
@@ -197,3 +197,9 @@ D.O.F. 20 DE OCTUBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
