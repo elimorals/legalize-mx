@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1998-12-31"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -443,11 +443,11 @@ Las autoridades competentes para expedir los certificados de aeronavegabilidad o
 
 ### Capítulo III-A. Vehículos Usados
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.0. 31 DE DICIEMBRE DE 1999)</small>
 
-###### Artículo 15-B.
+###### ARTICULO 15-B.
 
-Tratándose de vehículos de fabricación nacional o importados, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste. Dicho factor será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo a la siguiente
+Tratándose de vehículos de fabricación nacional o importados, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste. Dicho factor será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente
 
 TABLA
 
@@ -473,39 +473,47 @@ antigüedad
 
 9 0.500
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 El factor de actualización a que se refiere este artículo, será el correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de ajuste en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Tratándose de automóviles de servicio público de transporte denominados "taxis", que pasen a ser de servicio particular, el impuesto sobre tenencia o uso de vehículos se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- El impuesto pagado por el contribuyente en el último ejercicio en que el automóvil fue de servicio público de transporte "taxi", se multiplicará por el factor de ajuste a que se refiere el primer párrafo de este artículo.
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- La cantidad obtenida conforme a la fracción anterior, se multiplicará por el factor a que se refiere esta fracción, de acuerdo a la categoría que le corresponda al automóvil en términos del artículo 5o. de esta Ley.
-
-Factor
-
-Para categoría "A" 10.612
-
-Para categoría "B" 26.531
-
-Para categoría "C" 34.694
-
-Para categoría "D" 42.449
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- El resultado obtenido será el impuesto a pagar, mismo que servirá de base para el cálculo del impuesto correspondiente a los años subsecuentes.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 Para efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 15-C.
+
+Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de esta Ley, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador, distribuidor autorizado o empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa para importar autos usados, según sea el caso, se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa que le corresponda conforme a la categoría del automóvil, en términos del artículo 5o. de esta Ley.
+
+El factor de actualización será el correspondiente al periodo comprendido desde el último mes del año inmediato anterior a aquél en que se adquirió el automóvil de que se trate, hasta el último mes del año inmediato anterior a aquél por el que se debe efectuar el pago, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el citado factor en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
@@ -807,7 +815,7 @@ UNICA 130000 97500 65000 52000
 
 Los contribuyentes del impuesto sobre tenencia o uso de vehículos podrán optar por pagar dicho impuesto por los vehículos de los años modelo que se indican en este artículo, aplicando lo dispuesto en el mismo o conforme a las disposiciones de la Ley de la materia vigente.
 
-D.O.F. 30 DE DICIEMBRE DE 1983.
+D.O.F. 30 DE DICIEMBRE DE 1983
 
 DISPOSICIONES DE VIGENCIA ANUAL
 
@@ -1143,7 +1151,7 @@ d).- Embarcaciones y los vehículos a que se refiere el artículo 13, fracciones
 
 e).- Aeronaves .......... $ 2'320,400.00
 
-f).-Motocicletas.......... $ 504,600.00
+f).-Motocicletas .......... $ 504,600.00
 
 II.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelos anteriores a que hace referencia el artículo 6o., Apartado A, fracción I, inciso b) de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, será la que resulte de aplicar los siguientes factores:
 
@@ -1644,3 +1652,25 @@ Los contribuyentes que ejerzan la opción establecida en esta fracción, para ca
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+D.O.F. 31 DE DICIEMBRE DE 1999.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+Artículo Décimo Tercero. En relación con las modificaciones a que se refiere el Artículo Décimo Segundo de esta Ley, se estará a lo siguiente:
+
+I. El pago del impuesto correspondiente al ejercicio fiscal de 2000 se podrá realizar en el periodo comprendido del 1o. de enero al 30 de abril de dicho año.
+
+II. Tratándose de automóviles de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros, de año modelo 1991 a 1994, que no cuenten con los documentos a que se refiere el inciso a) del artículo 15-C de esta Ley, la Secretaría de Hacienda y Crédito Público determinará el precio promedio de enajenación del año modelo al que corresponda, mismo que se utilizará para efectos de determinar el impuesto en términos del artículo 15-C citado.
+
+III. El precio promedio de enajenación será el que se determine al 1o. de enero del año siguiente al del año modelo, dividiendo el importe total de las ventas de cada versión, del fabricante y sus distribuidores autorizados, al consumidor, que se hubieran efectuado en el año modelo al que corresponda el vehículo, adicionado con el impuesto sobre automóviles nuevos y el impuesto al valor agregado, entre el número total de unidades vendidas de dicha versión en el periodo mencionado. La Secretaría de Hacienda y Crédito Público dará a conocer a más tardar el 3 de enero de cada año el precio promedio de enajenación a que se refiere este párrafo. Además, con el objeto de facilitar el cálculo del impuesto a que se refiere esta fracción, dicha Secretaría publicará en el Diario Oficial de la Federación el impuesto a pagar que corresponda.
+
+Para el caso de vehículos importados que no aparezcan en las listas que para los efectos del pago del impuesto sobre tenencia o uso de vehículos publique la Secretaría de Hacienda y Crédito Público, el contribuyente determinará el impuesto a su cargo en términos del artículo 15-C de esta Ley, considerando el valor que se haya tomado en cuenta para efectos del impuesto general de importación, adicionado con el monto de este último y los demás gravámenes que se hayan pagado con motivo de la misma, incluyendo el impuesto al valor agregado.
+
+IV. Tratándose de automóviles de servicio público de transporte denominados "taxis", que pasen a ser de servicio particular, el impuesto sobre tenencia o uso de vehículos para el ejercicio fiscal en que se dé esta circunstancia, se calculará en los términos del artículo 15-B y para los ejercicios fiscales subsecuentes, se calculará en los términos del artículo 15-C de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+
+En el caso de automóviles de servicio público de transporte denominados "taxis", de año modelo 1991 a 1994, en lugar de considerar el valor total del automóvil establecido en la factura original o carta factura a que se refiere el inciso a) del artículo 15-C de esta Ley, podrán considerar el precio promedio de enajenación a que se refiere la fracción II de este artículo.
+
+## TRANSITORIO
+
+Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
