@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-de-derechos-humanos-del-estado-de-5935
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-20"
-last_updated: "1997-03-03"
+last_updated: "1997-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JULIO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 20 de octubre de 1992.
 
@@ -57,7 +57,9 @@ El patrimonio de la Comisión de Derechos Humanos se integra con los bienes mueb
 
 La Comisión de Derechos Humanos es el organismo responsable de proteger los derechos humanos que otorga el orden jurídico mexicano, a los habitantes del Estado de México y a los mexicanos y extranjeros que se encuentren en su territorio.
 
-La Comisión de Derechos Humanos hará lo necesario para la promoción, observancia, estudio y divulgación de los derechos humanos contenidos en la Constitución General de la República, así como los establecidos en los tratados internacionales suscritos por México.
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
+La Comisión de Derechos Humanos estará obligada a promover, observar, estudiar y divulgar, los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos, así como los establecidos en los tratados internacionales suscritos y ratificados por México.
 
 ### CAPITULO SEGUNDO. De las Atribuciones
 
@@ -89,13 +91,17 @@ X. Formular programas y proponer acciones que impulsen el cumplimiento dentro de
 
 XI. Establecer canales de comunicación permanentes con las organizaciones no gubernamentales nacionales e internacionales en materia de derechos humanos;
 
-XII. Expedir su Reglamento Interno; y
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+XII. Expedir su Reglamento Interno, con sujeción estricta al presente ordenamiento; y
 
 XIII. Las demás que sean necesarias para el cumplimiento de sus objetivos y que se deriven de esta Ley y demás ordenamientos legales relativos.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 6.
 
-Los procedimientos que se sigan ante la Comisión de Derechos Humanos deberán estar sujetos solo a las formalidades esenciales que requiera la documentación de los expedientes respectivos.
+Los procedimientos que se sigan ante la Comisión de Derechos Humanos deberán estar sujetos solo a las formalidades esenciales que requiera la documentación de los expedientes respectivos, bajo los principios de buena fe, gratuidad, simplificación, celeridad e inmediatez.
 
 ###### Artículo 7.
 
@@ -117,13 +123,25 @@ IV. Consultas que le formulen autoridades, particulares u otras entidades sobre 
 
 La Comisión de Derechos Humanos estará constituida por:
 
-I.- El Presidente;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-II.- El Secretario Ejecutivo;
+I. El Comisionado de los Derechos Humanos;
+
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+II. El Secretario;
 
 III.- Los Visitadores Generales; y
 
-IV.- El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+> <small>(ADICIONADA, G.G. 1 DE JULIO DE 1997)</small>
+
+IV. Los Visitadores Adjuntos que sean necesarios; y
+
+V. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+La Comisión de Derechos Humanos para el mejor desempeño de sus responsabilidades contará con un Consejo.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE FEBRERO DE 1994)</small>
 
@@ -131,7 +149,9 @@ IV.- El personal profesional, técnico y administrativo necesario para la realiz
 
 La Comisión, para el mejor desempeño de sus responsabilidades, contará con un Consejo integrado por:
 
-I. Un presidente, que lo será el de la Comisión de Derechos Humanos;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+I. El Comisionado de los Derechos Humanos, que la presidirá;
 
 II. Cuatro Consejeros Ciudadanos; y
 
@@ -141,15 +161,19 @@ III. Un Secretario, que lo será el Secretario Ejecutivo de la Comisión de Dere
 
 Los Consejeros Ciudadanos deberán ser personas que gocen de reconocido prestigio en pleno ejercicio de sus derechos ciudadanos.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 11.
 
-La designación de los Consejeros Ciudadanos será hecha por el Gobernador del Estado y sometida a la aprobación de la Legislatura.
+La designación de los Consejeros Ciudadanos será hecha por la Legislatura del Estado, con la aprobación de las dos terceras partes de sus integrantes presentes.
 
-Para los efectos de lo previsto en este Artículo, el Gobernador del Estado propondrá a la Legislatura por lo menos seis candidatos.
+Para los efectos previstos en este artículo, la Legislatura del Estado podrá establecer un mecanismo de consulta para la formulación de los nombramientos respectivos, en la que se tomarán en cuenta las propuestas de las fracciones legislativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 12.
 
-Los Consejeros Ciudadanos durarán en su cargo tres años, pudiendo ser nombrados por un término similar.
+Los Consejeros Ciudadanos durarán en su cargo tres años, pudiendo ser reelectos para un período similar.
 
 Los Consejeros Ciudadanos durante el período de su encargo no podrán desempeñar ningún cargo o comisión en el servicio público.
 
@@ -163,37 +187,47 @@ Los Consejeros Ciudadanos tendrán la dieta de asistencia que determine el Presu
 
 Los Consejeros Ciudadanos no podrán arrogarse la representación del Consejo ni de la Comisión de Derechos Humanos ni difundir por sí los asuntos que sean del conocimiento de esos órganos, ni prejuzgar públicamente sobre su fundamento o pertinencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 15.
 
-El Presidente de la Comisión de Derechos Humanos deberá reunir los siguientes requisitos:
+El Comisionado de los Derechos Humanos deberá reunir los siguientes requisitos:
 
 I. Ser Mexicano por nacimiento y vecino del Estado con residencia efectiva de cinco años anteriores a la fecha de su nombramiento, en pleno goce de sus derechos políticos y civiles;
 
 II. No tener más de setenta y cinco años de edad ni menos de treinta y cinco al momento de su designación; y
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 1994)</small>
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-IV.- No haber sido sancionado en el desempeño de empleo, cargo o comisión federal, estatal o municipal, con motivo de una recomendación de las comisiones de derechos humanos creadas por la ley.
+> <small>(ADICIONADA, G.G. 1 DE JULIO DE 1997)</small>
+
+IV. No ser ministro de culto de alguna asociación religiosa, excepto que se haya separado de su ministerio con cinco años de anticipación;
+
+V. No haber sido objeto de recomendaciones o sanción en el desempeño de empleo, cargo o comisión federal, estatal o municipal, con motivo de una recomendación de Organismos Oficiales de Derechos Humanos Nacionales o Internacionales reconocidos por la ley.
+
+> <small>(REFORMADO, G.G. 1 DEJULIO DE 1997)</small>
 
 ###### Artículo 16.
 
-El Presidente de la Comisión de Derechos Humanos es la autoridad ejecutiva responsable del organismo y será propuesto por el Gobernador del Estado y sometido a la aprobación de la Legislatura Local.
+El Comisionado de los Derechos Humanos es la autoridad ejecutiva responsable del organismo y será nombrado por la Legislatura del Estado con el voto de las dos terceras partes de los diputados presentes.
 
-Para los efectos de lo previsto en el párrafo anterior, el Gobernador del Estado, propondrá a la Legislatura Local al menos dos candidatos.
+Para los efectos de lo previsto en el párrafo anterior, la Legislatura del Estado podrá establecer un mecanismo de consulta para la formulación del nombramiento respectivo, en la que se tomarán en cuenta las propuestas de las distintas fracciones legislativas.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 17.
 
-El Presidente de la Comisión de Derechos Humanos durará en sus funciones cuatro años, y podrá ser designado por la Legislatura del Estado para un segundo período, a propuesta del titular del Poder Ejecutivo, observándose para el efecto lo dispuesto por el artículo anterior.
+El Comisionado de los Derechos Humanos durará en sus funciones cuatro años, y podrá ser designado por la legislatura con el voto de las dos terceras partes de los diputados presentes, hasta por un período más, observándose para el efecto lo dispuesto en el artículo anterior.
 
 ###### Artículo 18.
 
 Los visitadores de la Comisión de Derechos Humanos, deberán reunir para su designación los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+I. Ser mexicano por nacimiento y vecino del Estado con residencia efectiva de cinco años anteriores a la fecha de su nombramiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser mayor de treinta años de edad, el día de su nombramiento;
 
@@ -205,25 +239,47 @@ IV. Ser de reconocida buena conducta.
 
 V.- No haber sido sancionado en el desempeño de empleo, cargo o comisión federal, estatal o municipal, con motivo de una recomendación de las comisiones de derechos humanos creadas por la ley.
 
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+Los visitadores adjuntos deberán reunir para su designación los mismos requisitos, con excepción de lo previsto en la fracción II.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 19.
 
-Para ser Secretario Ejecutivo deberán reunirse los mismos requisitos que se exigen para ser Presidente y contar con un grado académico de nivel licenciatura.
+Para ser Secretario deberán reunirse los mismos requisitos que se exigen para ser Comisionado y contar con un grado académico del nivel licenciatura.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 20.
 
-El Presidente de la Comisión de los Derechos Humanos, el Secretario Ejecutivo y los Visitadores, están impedidos para el ejercicio libre de su profesión y no podrán desempeñar cualquier otro cargo, empleo o comisión, que sean remunerados, exceptuando las actividades académicas.
+El Comisionado de los Derechos Humanos, el Secretario y los Visitadores, están impedidos para el ejercicio libre de su profesión y no podrán desempeñar cualquier otro cargo, empleo o comisión, que sean remunerados, exceptuando las actividades académicas, igualmente no podrán ejercer función alguna en órganos de dirección de partidos políticos, asociaciones políticas nacionales, ni desempeñar actividades electorales.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 21.
 
-El Presidente de la Comisión de los Derechos Humanos y los Visitadores son inviolables por las opiniones y Recomendaciones que formulen o por los actos que realicen en ejercicio de su encargo y jamás podrán ser reconvenidos por ellas.
+El Comisionado de los Derechos Humanos y los Visitadores son inviolables por las opiniones y recomendaciones que formulen o por los actos que realicen en ejercicio de su encargo y jamás podrán ser reconvenidos por ellas. La Legislatura del Estado velará por su respeto.
 
-> <small>(REFORMADO PRIMERO PARRAFO, G.G. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 22.
 
-El Presidente de la Comisión de Derechos Humanos podrá ser sustituido y, en su caso, sujeto a responsabilidad, solo por las causas y mediante los procedimientos establecidos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
+El Comisionado de los Derechos Humanos dejará de ejercer su encargo por alguna de las siguientes causas:
 
-En este supuesto, el Presidente será sustituido por el Primer Visitador en tanto no se designe un nuevo Presidente.
+I. Renuncia;
+
+II. Incapacidad;
+
+III. Por haber sido condenado por delito doloso; y
+
+IV. Por desempeñar actividades incompatibles con su cargo, en términos de esta ley.
+
+Para el caso de lo señalado en las fracciones III y IV, la Legislatura del Estado se sujetará a los procedimientos establecidos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
+
+En estos supuestos el Comisionado de los Derechos Humanos será sustituido por el primer Visitador, quién asumirá las funciones y obligaciones de éste de manera plena hasta en tanto se designe al nuevo comisionado de los Derechos Humanos.
+
+En caso de ausencia temporal será sustituido por el primer Visitador. Para este efecto se entiende como tal las que excedan de quince pero no de sesenta días.
 
 ###### Artículo 23.
 
@@ -239,7 +295,9 @@ El Consejo de la Comisión de Derechos Humanos tendrá las siguientes atribucion
 
 I. Establecer las políticas, normas y criterios que orienten las actividades de la Comisión de Derechos Humanos;
 
-II. Proponer al Presidente de la Comisión de Derechos Humanos los mecanismos y programas necesarios para el respeto, defensa, protección, promoción, estudio y divulgación, de los derechos humanos;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+II. Proponer al Comisionado de los Derechos Humanos los mecanismos y programas necesarios para el respeto, defensa, protección, promoción, estudio y divulgación de los derechos humanos;
 
 > <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
 
@@ -247,19 +305,25 @@ III.- Aprobar el Reglamento Interno de la Comisión de Derechos Humanos, así co
 
 IV. Transmitir a la Comisión de Derechos Humanos el sentir de la sociedad respecto al trabajo de la misma;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-V.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión de Derechos Humanos deberá rendir;
+V. Opinar sobre el proyecto de informe anual que el Comisionado de los Derechos Humanos deberá rendir;
 
-VI. Solicitar al Presidente información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión de Derechos Humanos;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+VI. Solicitar al Comisionado de los Derechos Humanos información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión de Derechos Humanos;
 
 VII.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
-VIII. Aprobar, en su caso, las propuestas generales, que le formule el Presidente de la Comisión de Derechos Humanos, conducentes a una mejor protección de los derechos humanos en el Estado;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+VIII. Aprobar, en su caso, las propuestas generales que le formule el Comisionado de los Derechos Humanos, conducentes a una mejor protección de los derechos humanos en el Estado;
 
 IX.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
-X. Turnar al Secretario Ejecutivo, para su cumplimiento y seguimiento, los acuerdos que dicte el Consejo;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+X. Turnar al Secretario, para su cumplimiento y seguimiento, los acuerdos que dicte el Consejo;
 
 XI. Formar con sus miembros los comités que considere pertinentes para el mejor desempeño de sus funciones;
 
@@ -267,29 +331,41 @@ XI. Formar con sus miembros los comités que considere pertinentes para el mejor
 
 XII.- Conocer el Presupuesto Anual de Egresos autorizado para la Comisión de Derechos Humanos;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-XIII.- Conocer el informe del Presidente de la Comisión de Derechos Humanos en relación al ejercicio anual del presupuesto;
+XIII. Conocer el informe del Comisionado de los Derechos Humanos en relación al ejercicio anual de presupuesto;
 
-XIV. Las demás que le sean conferidas en la presente Ley y otras disposiciones legales.
+> <small>(ADICIONADA, G.G. 1 DE JULIO DE 1997)</small>
+
+XIV. Nombrar al Secretario, a propuesta del Comisionado de los Derechos Humanos; y
+
+XV. Las demás que le sean conferidas en la presente Ley y otras disposiciones legales.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 25.
 
-El consejo como órgano colegiado, celebrará cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias cuando las convoque el Presidente o por los menos tres de sus miembros. La convocatoria a las sesiones se hará en todos los casos por escrito.
+El Consejo como órgano colegiado, celebrará cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias cuando las convoque el Comisionado de los Derechos Humanos o por los menos tres de sus miembros. La convocatoria a las sesiones se hará en todos los casos por escrito.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 26.
 
-Para que el Consejo pueda sesionar válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá de estar el Presidente. Tomará sus resoluciones por mayoría de votos, y en caso de empate, el Presidente tendrá voto de calidad.
+Para que el Consejo pueda sesionar válidamente es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá de estar el Comisionado de los Derechos Humanos. Tomará sus resoluciones por mayoría de votos, y en caso de empate, el Comisionado de los Derechos Humanos tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 27.
 
-Cuando no se reúna más de la mitad de los integrantes del Consejo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los integrantes que asistan entre los que deberá estar el Presidente.
+Cuando no se reúna más de la mitad de los integrantes del Consejo, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los integrantes que asistan entre los que deberá estar el Comisionado.
 
 El Secretario asistirá a las sesiones con voz, pero sin voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 28.
 
-El Presidente de la Comisión de Derechos Humanos tendrá las siguientes atribuciones:
+El Comisionado de Derechos Humanos tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
 
@@ -299,11 +375,13 @@ II. Formular los lineamientos generales a los que se sujetarán las actividades 
 
 III. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión de Derechos Humanos;
 
-IV. Coordinar a los Visitadores y al Secretario Ejecutivo y distribuir entre ellos los asuntos de su competencia;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+IV. Coordinar a los Visitadores y al Secretario y distribuir entre ellos los asuntos de su competencia;
 
-V.- Rendir un informe anual con la asistencia de los poderes Legislativo y Ejecutivo, sobre las actividades que la Comisión de Derechos Humanos haya realizado en dicho período. El informe será difundido para conocimiento de la sociedad;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+V. Rendir un informe anual ante el pleno de la Legislatura, con la asistencia del titular del Poder Ejecutivo sobre las actividades que la Comisión de Derechos Humanos haya realizado en dicho período. El informe será difundido para conocimiento de la sociedad;
 
 VI. Promover y fortalecer las relaciones de la Comisión de Derechos Humanos con organismos públicos, sociales y privados;
 
@@ -331,27 +409,39 @@ XV. Convocar y conducir las sesiones del Consejo; y
 
 XVI. Las demás que le confiera esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 29.
 
-El Secretario Ejecutivo de la Comisión de Derechos Humanos, tendrá las siguientes atribuciones:
+El Secretario de la Comisión de Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Presentar al Consejo, por acuerdo del Presidente, las propuestas de política generales que habrá de seguir la Comisión de Derechos Humanos ante los organismos gubernamentales y no gubernamentales, nacionales e internacionales;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+I. Presentar al Consejo, por acuerdo del Comisionado, las propuestas de política generales que habrá de seguir la Comisión de Derechos Humanos ante los organismos gubernamentales y no gubernamentales, nacionales e internacionales;
 
 II. Realizar estudios en materia de derechos humanos;
 
 III. Preparar los proyectos e iniciativas de Leyes y Reglamentos que la Comisión de Derechos Humanos haya de someter a los órganos competentes;
 
-IV. Cumplir y dar seguimiento a los acuerdos dictados por el Presidente de la Comisión de Derechos Humanos y a los que emanen del Consejo;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-V. Colaborar con el Presidente de la Comisión de Derechos Humanos en la elaboración de los informes anuales, así como de los especiales;
+IV. Cumplir y dar seguimiento a los acuerdos dictados por el Comisionado de los Derechos Humanos y a los que emanen del Consejo;
+
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+V. Colaborar con el Comisionado de los Derechos Humanos en la elaboración de los informes anuales, así como de los especiales;
 
 VI. Enriquecer y mantener la biblioteca y el acervo documental de la Comisión de Derechos Humanos;
 
 VII. Mantener el archivo de la Comisión de Derechos Humanos;
 
-VIII. Auxiliar al Presidente de la Comisión de Derechos Humanos en las tareas administrativas;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-IX. Preparar, por acuerdo del Presidente, el proyecto del orden del día de las sesiones del Consejo;
+VIII. Auxiliar al Comisionado de los Derechos Humanos en las tareas administrativas;
+
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+IX. Preparar, por acuerdo del Comisionado, el proyecto del orden del día de las sesiones del Consejo;
 
 X. Llevar el control de asistencia de los miembros del Consejo;
 
@@ -371,21 +461,41 @@ III. Iniciar discrecionalmente de oficio la investigación de las denuncias que 
 
 IV. Realizar las actividades necesarias para detener de manera inmediata las violaciones de derechos humanos;
 
-V. Representar al Presidente de la Comisión de Derechos Humanos en todos aquellos actos relacionados con el desahogo de las funciones del organismo;
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
 
-VI. Realizar las investigaciones y estudios necesarios para formular los proyectos de Recomendación o acuerdos, que se someterán al Presidente para su consideración;
+V. Representar al Comisionado de los Derechos Humanos en todos aquellos actos relacionados con el desahogo de las funciones del organismo;
+
+> <small>(REFORMADA, G.G. 1 DE JULIO DE 1997)</small>
+
+VI. Realizar las investigaciones y estudios necesarios para formular los proyectos de Recomendación o acuerdos, que se someterán al Comisionado para su consideración;
 
 VII. Pedir a las autoridades o servidores públicos a los que se imputen violaciones de derechos humanos, la presentación de informes o documentación adicionales;
 
 VIII. Practicar visitas e inspecciones, ya sea personalmente o por medio del personal técnico o profesional bajo su dirección en términos de Ley;
 
-IX. Citar a las personas que deban comparecer como peritos o testigos; y
+> <small>(ADICIONADA, G.G. 1 DE JULIO DE 1997)</small>
 
-X. Las demás que le señale la presente Ley y las que sean necesarias para el mejor cumplimiento de sus funciones.
+IX. Solicitar la comparecencia de los servidores públicos a quienes se atribuya violación a derechos humanos y aquellos que tengan relación con los hechos motivo de la queja;
+
+X. Citar a las personas que deban comparecer como peritos o testigos; y
+
+XI. Las demás que le señale la presente Ley y las que sean necesarias para el mejor cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+Los Visitadores Generales para el mejor desempeño de sus funciones tendrán una ordenación númerica.
+
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+Los Visitadores adjuntos desempeñarán funciones de apoyo a los Visitadores generales y estarán bajo la dirección de éstos, conforme a los lineamientos generales que emita el Comisionado de los Derechos Humanos.
+
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 31.
 
-El Presidente de la Comisión de Derechos humanos y los Visitadores tendrán fé pública en sus actuaciones.
+El Comisionado de los Derechos Humanos y los Visitadores tendrán fe pública en sus actuaciones.
+
+Para los efectos de esta ley, fe pública es la facultad de certificar la veracidad de los hechos, documentos preexistentes o declaraciones que tengan lugar o estén aconteciendo en su presencia, que se relacionen con el ejercicio de sus atribuciones.
 
 ### CAPITULO QUINTO. Del Procedimiento
 
@@ -435,21 +545,25 @@ La presentación de quejas y denuncias, así como las resoluciones y Recomendaci
 
 Cuando la queja sea inadmisible por ser manifiesta y notoriamente infundada, en virtud de que no corresponda de manera ostensible a la competencia de la Comisión de Derechos Humanos, será rechazada de inmediato pero se deberá proporcionar asesoría al reclamante, a fin de que acuda a la Autoridad o Servidor Público a quien corresponda conocer a resolver el asunto.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 40.
 
-Una vez corregidos los errores o las deficiencias, si la queja o denuncia corresponde a las materias que competen a la Comisión de Derechos Humanos, la misma deberá ser admitida expresamente, abriéndose expediente, y a la brevedad deberá ponerse en conocimiento de las autoridades o servidores púbIicos contra los cuales se interpongan, utilizando en los casos de urgencia el teléfono, telefax o cualquier medio de comunicación electrónica.
+Una vez corregidos los errores o las deficiencias, si la queja o denuncia corresponde a las materias que competen a la Comisión de Derechos Humanos, la misma deberá ser admitida expresamente, abriéndose expediente y a la brevedad deberá ponerse en conocimiento del superior jerárquico de las autoridades o servidores públicos contra los cuales (sic) superior jerárquico de las autoridades o servidores públicos contra los cuales se interpongan, utilizando en los casos de urgencia el teléfono, telefax o cualquier medio de comunicación electrónica.
 
-En la misma comunicación se solicitará a dichas autoridades o servidores públicos que rindan un informe sobre los actos, omisiones o resoluciones que se les atribuyan en la queja, el cual deberá presentar dentro de un plazo máximo de diez días naturales y por los medios que sean convenientes, de acuerdo con el caso. En las situaciones que a juicio de la Comisión de Derechos Humanos considere urgente dicho plazo podrá ser reducido.
+En la misma comunicación se solicitará un informe sobre los actos, omisiones o resoluciones que se atribuyan en la queja, el cual deberá presentar dentro de un plazo máximo de diez días naturales y por los medios que sean convenientes, de acuerdo con el caso.
+
+En las situaciones que a juicio de la Comisión de Derechos Humanos considere urgentes dicho plazo podrá ser reducido. Durante la tramitación del procedimiento de queja, la Comisión de Derechos Humanos podrá solicitar informes al superior jerárquico o a los servidores públicos a quienes se atribuyan las violaciones a derechos humanos.
 
 ###### Artículo 41.
 
 Cuando la queja se refiera a privación de la libertad, el informe requerido a los servidores públicos que corresponda, deberá rendirse en forma escrita en un plazo que no excederá de 24 horas.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 42.
 
-Una vez admitida la queja, la Comisión de Derechos Humanos designará al personal que se entrevistará con la autoridad o servidor público señalado como responsable, procurando conciliar los intereses de las partes involucradas, a fin de dar solución al conflicto.
-
-De lograrse una avenencia satisfactoria, la Comisión de Derechos Humanos lo hará constar así y ordenará archivar el expediente, el cual podrá reabrirse cuando no se haya cumplido con lo convenido en un plazo de noventa días. Para estos efectos, la Comisión de Derechos Humanos en el término de setenta y dos horas dictará el acuerdo correspondiente, y en su caso, proveerá las acciones y determinaciones conducentes.
+Una vez admitida la queja, la Comisión de Derechos Humanos designará al personal que se entrevistará con la autoridad o servidor público señalado como responsable, procurando conciliar los intereses de las partes involucradas, a fin de dar solución al conflicto. De lograrse una avenencia satisfactoria, la Comisión de Derechos Humanos lo hará constar así y ordenará archivar el expediente, el cual podrá reabrirse cuando no se haya dado cumplimiento con lo convenido en un plazo de cuarenta y cinco días. Para estos efectos, la Comisión de Derechos Humanos en el término de setenta y dos horas dictará el acuerdo correspondiente, y en su caso, proveerá las acciones y determinaciones conducentes.
 
 ###### Artículo 43.
 
@@ -467,6 +581,14 @@ Recibidos o no los informes dentro del término señalado para ello, se abrirá 
 
 Las pruebas serán valoradas en su conjunto por el Visitador de acuerdo a los principios de la lógica y de la experiencia, y en su caso de la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja.
 
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+###### Artículo 45 Bis.
+
+La Comisión de Derechos Humanos podrá solicitar a las autoridades competentes, medidas precautorias o cautelares para que, sin sujeción a mayores formalidades se conserve o restituya a una persona en el goce de sus derechos humanos.
+
+Estas medidas podrán solicitarse cuando la violación reclamada se considere grave, sin necesidad de que estén comprobados los hechos u omisiones aducidos, constituyendo razón suficiente el que, de ser ciertos los mismos, resulte difícil o imposible la reparación del daño causado o la restitución al agraviado en el goce de sus derechos humanos.
+
 ###### Artículo 46.
 
 Las conclusiones del expediente que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el mismo.
@@ -479,21 +601,29 @@ Concluida la investigación a cargo del Visitador, éste elaborará un proyecto 
 
 En dicho proyecto se propondrán las medidas que podrán tomarse para el respecto (sic) y protección de los derechos humanos del quejoso.
 
-El proyecto de Recomendación será turnado al Presidente de la Comisión de Derechos Humanos para su consideración final.
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
+El proyecto de Recomendación será turnado al Comisionado de los Derechos Humanos para su consideración final.
 
 ###### Artículo 48.
 
 En el caso de que se pruebe que las autoridades no hayan cometido las violaciones de derechos humanos que se les hubiesen imputado, la Comisión de Derechos Humanos dictará acuerdo de no responsabilidad, enviándose el expediente al archivo.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 49.
 
-Una vez aprobado el proyecto de Recomendación, el Presidente de la Comisión de Derechos Humanos, lo dará a conocer a las autoridades o servidores públicos a los que se les imputen actos u omisiones violatorias de los derechos humanos, sin perjuicio de presentar la denuncia penal correspondiente en los casos en que a su juicio exista un delito.
+Una vez aprobada la recomendación, el Comisionado de los Derechos Humanos, la notificará al superior jerárquico de las autoridades o servidores públicos a los que se les imputen actos u omisiones violatorias de los derechos humanos, sin perjuicio de presentar la denuncia penal correspondiente en los casos en que a su juicio exista un delito.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
 
 ###### Artículo 50.
 
-Las Recomendaciones de la Comisión de Derechos Humanos no tendrá el carácter imperativo para las autoridades o servidores públicos, sin embargo el Presidente de la Comisión de Derechos Humanos, dará cuenta en los informes que rinda al Gobernador del Estado y a la Legislatura Local de las Recomendaciones dictadas y el cumplimiento que a ellas se hubiese dado, quienes podrán formular comentarios y observaciones a los mismos pero no están facultados para dirigirle instrucciones específicas.
+Las recomendaciones de la Comisión de Derechos Humanos no tendrán el carácter imperativo para las autoridades o servidores públicos, sin embargo el Comisionado de los Derechos Humanos, dará cuenta en los informes que rinda a la Legislatura del Estado de las recomendaciones dictadas y del cumplimiento que a ellas se hubiese dado, quienes podrán formular comentarios y observaciones a los mismos pero no están facultados para dirigirle instrucciones específicas.
 
-En todo caso, una vez recibida la Recomendación, la autoridad o servidores públicos de que se trate deberán informar dentro de los quince días hábiles siguientes a su notificación, se aceptan dicha Recomendación y, dentro de los quince días hábiles siguientes deberán entregar, en su caso, las pruebas correspondientes que han cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
+El superior jerárquico, una vez notificado de la recomendación definitiva, deberá informar dentro de los quince días hábiles siguientes si acepta dicha recomendación, y dentro de los quince días hábiles siguientes, deberá entregar en su caso, las pruebas correspondientes, que demuestren su cumplimiento. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
 
 La Comisión podrá verificar que se han cumplido efectivamente sus recomendaciones.
 
@@ -515,9 +645,13 @@ El término para interposición de recursos de reconsideración es de tres días
 
 ###### Artículo 54.
 
-Todas las autoridades o servidores públicos estatales y municipales, deberán colaborar, dentro del ámbito de su competencia con la Comisión de Derechos Humanos .
+Todas las autoridades o servidores públicos estatales y municipales, deberán colaborar, dentro del ámbito de su competencia con la Comisión de Derechos Humanos.
 
 La Comisión de Derechos Humanos podrá celebrar convenios con dichas autoridades y servidores públicos, para que puedan actuar como receptores de quejas y denuncias las que remitirán a la Comisión de Derechos Humanos por los medios más expeditos.
+
+> <small>(ADICIONADO, G.G. 1 DE JULIO DE 1997)</small>
+
+En el caso de los Ayuntamientos, la Comisión establecerá los mecanismos necesarios de colaboración, a través de la Coordinación Municipal de Derechos Humanos.
 
 ### CAPITULO OCTAVO. De las Notificaciones y los Informes
 
@@ -525,17 +659,21 @@ La Comisión de Derechos Humanos podrá celebrar convenios con dichas autoridade
 
 La Comisión de Derechos Humanos notificará oportunamente a los quejosos los resultados de la investigación, la Recomendación que haya dirigido a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a la misma, así como, en su caso, el acuerdo de no responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 56.
 
-Los informes anuales del Presidente de la Comisión de Derechos Humanos, deberán comprender una descripción resumida del número y características de las quejas y denuncias que se hayan presentado; las investigaciones realizadas, las Recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos, así como las estadísticas y demás datos que se consideren convenientes.
+Los informes anuales del Comisionado de los Derechos Humanos, deberán comprender una descripción resumida del número y características de las quejas y denuncias que se hayan presentado; las investigaciones realizadas, las Recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos, así como las estadísticas y demás datos que se consideren convenientes.
 
 Asimismo, el informe podrá contener las proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para expedir o modificar las disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
 
 Se informará, también, sobre cada uno de los programas generales que la Comisión de Derechos Humanos lleve a cabo.
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 57.
 
-Tanto el titular del Ejecutivo como el Congreso Local, deberán adoptar las medidas necesarias o iniciarán las investigaciones conducentes que correspondan a su ámbito de competencia, a fin de lograr una efectiva protección de los derechos humanos en el territorio estatal.
+Tanto el titular del Ejecutivo, los Ayuntamientos y la Legislatura del Estado deberán adoptar las medidas necesarias o iniciarán las investigaciones conducentes que correspondan a su ámbito de competencia, a fin de lograr una efectiva protección de los Derechos Humanos en el territorio estatal.
 
 ### CAPITULO NOVENO. De la Responsabilidad de las Autoridades y Servidores Públicos
 
@@ -555,13 +693,17 @@ La Comisión de Derechos Humanos deberá poner en conocimiento de las autoridade
 
 Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por las Comisión de Derechos Humanos, podrá solicitar la amonestación pública o privada, según el caso, al titular de la dependencia de que se trate.
 
-En el caso de que no se hayan comprobado las violaciones de derechos humanos imputadas, la Comisión dictará acuerdo de no responsabilidad y expedirá los documentos que lo hagan constar.
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
+En el caso de servidores públicos que de manera grave y sistemática sean señalados como violadores de Derechos humanos, y por su encargo deban ser sujetos al procedimiento señalado en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México, la Comisión podrá solicitarlo a la Legislatura del Estado.
 
 ### CAPITULO DECIMO. Del Régimen Laboral
 
+> <small>(REFORMADO, G.G. 1 DE JULIO DE 1997)</small>
+
 ###### Artículo 61.
 
-Las relaciones laborales de los trabajadores que presten sus servicios en la Comisión de Derechos Humanos, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado, de los Municipios y de los Organismos Coordinados y Descentralizados de carácter Estatal, considerándose como personal de confianza al Presidente de la Comisión de Derechos Humanos, al Secretario Ejecutivo, y a los Visitadores.
+Las relaciones laborales de los trabajadores que presten sus servicios en la Comisión de Derechos Humanos, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado, de los Municipios y de los Organismos Coordinados y Descentralizados de carácter Estatal, considerándose como personal de confianza al Comisionado de los Derechos Humanos, al Secretario y a los Visitadores Generales y Adjuntos, y a los Jefes de las Unidades Administrativas.
 
 T R A N S I T O R I O S
 
@@ -626,3 +768,17 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 1 DE JULIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno"
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor a los diez días naturales siguientes al de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+A partir del inicio de la vigencia del presente decreto el actual titular de la Comisión de Derechos Humanos se denominará Comisionado de los Derechos Humanos.
