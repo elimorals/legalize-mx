@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-alcoholes-para-el-municipio-de-sabinas-25799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-28"
-last_updated: "2002-08-28"
+last_updated: "2004-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE SABINAS HIDALGO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en Periódico Oficial de Estado de Nuevo León, el miércoles 28 de agosto de 2002.
 
@@ -125,7 +125,9 @@ h) Servidores Públicos a quienes se deleguen facultades expresas para la aplica
 
 Son atribuciones del R. Ayuntamiento:
 
-a) Fijar los horarios de funcionamiento de los establecimientos que se encuentran preceptuados en el presente Reglamento, atendiendo a su clasificación y giro.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+a) Fijar los horarios de funcionamiento de los establecimientos que se encuentran preceptuados en el presente Reglamento, atendiendo a su clasificación y giro, de acuerdo con lo previsto en el artículo 15 fracción IV párrafo tercero de la Ley Estatal de Prevención y Combate al Abuso del Alcohol.
 
 b) Aprobar o rechazar, en su caso, las licencias o permisos a que se refiere este ordenamiento.
 
@@ -175,7 +177,9 @@ e) Ordenar el retiro de sellos y/o símbolos de clausura una vez que hayan liqui
 
 f) Ordenar la reimposición de sellos o símbolos de clausura en caso de violación a los mismos.
 
-g) Enviar en un término de 10 días hábiles el expediente relativo a las clausuras definitivas realizadas, por conducto de la Comisión de Alcoholes del R. Ayuntamiento para los efectos de la cancelación, en su caso, de la licencia o permiso.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+g) Enviar en un término de 10 días hábiles al R. Ayuntamiento el listado relativo a las clausuras definitivas realizadas, por conducto de la Comisión de Alcoholes del R. Ayuntamiento para los efectos de la cancelación, en su caso, de la licencia o permiso.
 
 h) Expedir certificados o constancias de licencias o permisos al solicitante, cuando este reúna los requisitos que fija este ordenamiento.
 
@@ -269,6 +273,10 @@ f) Solicitar el auxilio de la fuerza publica en caso de oposición de parte del 
 
 g) Las demás que señale el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+ARTICULO 14 BIS.- Es obligación del C. Secretario de Seguridad, Vialidad y Tránsito Municipal, informar mensualmente a la autoridad encargada de la expedición de las licencias de conducir, de la (sic) infracciones de vialidad o tránsito cometidas de conformidad con la Ley Estatal de Prevención y Combate al Abuso del Alcohol o sea, las previstas en los artículos 18 párrafo primero 19 fracción VII y 21 párrafo primero de la citada Ley.
+
 ## TITULO II. ESTABLECIMIENTOS DE VENTA Y CONSUMO
 
 ### CAPITULO PRIMERO. CLASIFICACION Y DEFINICIÓN DE ESTABLECIMIENTOS
@@ -347,7 +355,9 @@ En el supuesto en que se otorgue el permiso provisional se deberá de condiciona
 
 Son obligaciones de los titulares de las licencias y los permisos o sus representantes, administradores y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, los siguientes:
 
-I. Contar con la licencia o el permiso correspondiente que permita al establecimiento iniciar su actividad y tener a la vista el permiso o licencia original en material de acrílico en el interior del local, así como el refrendo anual respectivo y el aviso de inicio de actividades presentado ante la Tesorería Municipal.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+I. Contar con la licencia o permiso correspondiente que permita al establecimiento iniciar su actividad y el aviso de inicio de actividades presentado ante la Tesorería Municipal.
 
 II. Operar únicamente el giro o giros autorizados.
 
@@ -377,7 +387,9 @@ XIV. Refrendar en los primeros 90 días de cada año el empadronamiento de su pe
 
 XV. Los propietarios de los bares, discotecas, cantinas, cervecerías, centros nocturnos, billares y demás establecimientos similares, deberán efectuar las obras necesarias que impidan la visibilidad hacia el interior del local, y que eviten que la música o el ruido se escuchen fuera del local, a efecto de no dar molestias a los vecinos o transeúntes.
 
-XVI. Denunciar ante la autoridad competente cualquier hecho que (sic) delictuoso.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+XVI. Denunciar ante la autoridad competente cualquier hecho delictuoso.
 
 XVII. Separar físicamente las bebidas alcohólicas de las no alcohólicas.
 
@@ -387,7 +399,9 @@ XVIII. Las demás que fije este ordenamiento.
 
 Son prohibiciones:
 
-I. Vender o servir bebidas alcohólicas y/o cerveza a menores de edad.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+I. Vender o servir bebidas alcohólicas y/o cerveza a menores de edad o personas con incapacidad mental.
 
 II. Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones V, VI, VII, VIII, IX, X, y XI del artículo 17, en cuanto a los establecimientos descritos en la fracción IX del articulo ya mencionado, únicamente se admitirán la entrada a menores acompañados de sus padres o tutores.
 
@@ -397,7 +411,9 @@ IV. Alterar las bebidas alcohólicas o la cerveza.
 
 V. Emplear a menores de edad en los negocios a que se refieren las fracciones II, V, VI, VII, VIII, IX, X, XI del artículo 17.
 
-VI. Vender bebidas alcohólicas a militares uniformados, policías o cuerpos de seguridad en servicio o a personas que porten armas.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VI. Vender bebidas alcohólicas a militares, policías o cuerpos de seguridad uniformados o en servicio y a personas que porten armas.
 
 VII. Ofrecer, vender, comercializar o consumir en envase cerrado o abierto bebidas alcohólicas y/o cerveza en la vía y lugares públicos, así como en los comercios ambulantes, fijo, semifijo, pulgas, tianguis, mercados, mercados rodantes o establecimientos que operen maquinas de video-juegos.
 
@@ -409,7 +425,9 @@ X. Vender o suministrar, bebidas alcohólicas y/o cerveza a personas físicas o 
 
 XI. Los titulares o dependientes de los establecimientos en los que se expandan bebidas alcohólicas y/o cerveza en envase cerrado, les esta prohibido permitir el consumo de esas bebidas dentro de sus instalaciones, debiendo tener en lugar visible dentro del local, avisos que hagan saber al publico esa prohibición.
 
-XII. No se permitirá que persona alguna ofrezca el servicio de serviciar fuera del techado dedicado a la venta. Esto incluye por tanto, las vías de acceso, banquetas o resto del inmueble. A los conductores de vehículos automotores no se les venderán bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+XII. No se permitirá que persona alguna ofrezca el servicio de servicar fuera del techado dedicado a la venta. Esto incluye por tanto, las vías de acceso, banquetas o resto del inmueble.
 
 XIII. Vender o consumir bebidas alcohólicas fuera del establecimiento tales como patios, traspatios, estacionamientos, pasillos, habitaciones contiguas o a través de ventanas.
 
@@ -431,13 +449,13 @@ XXI. Presentar o permitir la exhibición de personas desnudas o semidesnudas.
 
 XXII. Las demás que señalen las leyes u ordenamientos.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 20.
 
-Queda prohibida la instalación u operación de los giros referidos en los artículos 16 y 17 de este ordenamiento a una distancia menor de 200 metros en línea recta de centros educativos, Iglesias o Templos, hospitales, centros de salud, clínicas y centros de beneficencia, sin excepción.
+Únicamente podrán realizar actividades de venta o expendio de bebidas alcohólicas, aquellas personas o establecimientos que cuenten con la debida licencia o permiso expedido por la autoridad competente.
 
-En avenidas comerciales podrán operar giros iguales a una distancia de 200 metros uno de otro a una distancia de 100 metros los giros reglamentados con actividad diferente, con excepción de las fracciones V, VI, VII, VIII Y IX del articulo 16 y I, II, IX del articulo 17. La distancia se medirá de puerta principal a puerta principal de cada local.
-
-El R. Ayuntamiento puede bajo su mas estricta objetividad en el asunto, dispensar de los requisitos señalados en este articulo, a establecimientos que por su giro, inversión, los empleos que genera y los servicios que ofrezcan, deban ser exceptuados de las exigencias de distancia.
+Dichos establecimientos deberán ubicarse a una distancia perimetral mínima de 200 metros, contados a partir de los límites de la propiedad de las instituciones educativas, iglesias, templos, hospitales, clínicas y centros de salud, con excepción de las tiendas de abarrotes, minisúper, tiendas de conveniencia, tiendas de autoservicio; restaurantes y establecimientos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos; centros o clubes sociales o deportivos; hoteles; estadios de futbol y béisbol; arenas de box y lucha libre; plazas de toros y en general todo lugar en que se realicen actividades deportivas.
 
 ### CAPITULO TERCERO. DIAS Y HORAS DE VENTA DE BEBIDAS ALCOHOLICAS
 
@@ -467,11 +485,13 @@ Los establecimientos siguientes:
 
 - Supermercados
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 Deberán de respetar para expender bebidas alcohólicas y/o cerveza el siguiente horario:
 
-De los días Lunes a Sábado: de las 8:00 a las 23:00 horas.
+De los días Lunes a Sábado: de las 9:00 a las 23:00 horas.
 
-Del día Domingo: de las 8:00 a las 20:00 horas.
+Del día Domingo: de las 9:00 a las 18:00 horas.
 
 ###### ARTICULO 22.
 
@@ -489,11 +509,15 @@ Los Establecimientos siguientes:
 
 - Centro Social
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 Expenderán bebidas alcohólicas y/o cerveza dentro del siguiente horario:
 
-De los días de Lunes a Sábado: de 8:00 horas a las 1:00 horas del día siguiente.
+De los días de Lunes a Sábado: de 9:00 horas a las 1:00 horas del día siguiente.
 
-Del día Domingo: de 8:00 a las 20:00 horas.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+Del día domingo: de 9:00 a las 18:00 horas.
 
 Cuando se refiera a los establecimientos siguientes:
 
@@ -507,11 +531,17 @@ Cuando se refiera a los establecimientos siguientes:
 
 - Hoteles y Moteles
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 Expenderán bebidas alcohólicas y/o cerveza dentro del siguiente horario:
 
-De los Días de Lunes a Sábado: de 8:00 horas a las 23:00 horas.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
-Del día Domingo: de 8:00 a las 20:00 horas.
+De los días de Lunes a Sábado: de 9:00 horas a las 23:00 horas.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+Del día Domingo: de las 9:00 a las 18:00 horas.
 
 Cuando se refiera a los establecimientos siguientes:
 
@@ -519,27 +549,49 @@ Cuando se refiera a los establecimientos siguientes:
 
 - Rodeo Discos
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 Expenderán bebidas alcohólicas y/o cerveza dentro del siguiente horario:
 
-De los Días de Lunes a Sábado: de 18:00 horas a la 3:00 horas del día siguiente.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
-Del día domingo: de 12:00 a 0:00 horas del día siguiente.
+De los días de Lunes a Viernes: de las 18:00 horas a la 1:00 horas del día siguiente.
+
+Del día sábado de las 18:00 a las 2:00 del día siguiente
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+Del día domingo: de las 9:00 a las 18:00 horas.
 
 Cuando se refiera a el establecimiento siguiente:
 
 - Centros Nocturnos
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 Expenderán bebidas alcohólicas y/o cerveza dentro del siguiente horario:
 
-De los días Lunes a Jueves: de 18:00 horas a 2:00 horas del día siguiente.
+De Lunes a Viernes: de las 9:00 a la 1:00 horas del día siguiente.
 
-Del día Viernes y Sábado: de 18:00 horas a las 3:00 horas del día siguiente.
+Del día Sábado: de las 9:00 a las 2:00 horas del día siguiente.
 
-Del día Domingo: de las 12:00 horas a 0:00 horas del día siguiente.
+Del día Domingo: de las 9:00 a las 18:00 horas.
 
 Los horarios señalados en el presente capitulo solo son aplicables en la venta y consumo de bebidas alcohólicas y/o cerveza, mas no implica el cierre de los establecimientos, en el caso de los señalados en los artículos 16 fracción V, VI, VII, VIII, IX, y 17 fracciones I y IX de esta normativa.
 
 En los demás casos se concede una hora mas de gracia para el cierre total del negocio, durante doce días al año, debiendo quedar a elección del negocio, debiendo quedar cerrada la barra del establecimiento dentro del horario de cierre fijado. Se considerará infracción a este reglamento, si se sirve una o más bebidas alcohólicas en esta hora de gracia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+El horario a que se refiere este artículo no será aplicable a quienes vendan y distribuyan bebidas alcohólicas directamente a mayoristas y detallistas; siempre y cuando fuera del horario referido, se evite la venta al público en general en los establecimientos que la adquieran.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+Fuera del horario establecido, los establecimientos a que se refiere éste artículo deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumos de alimentos; hoteles, moteles, supermercados: tiendas de abarrotes, autoservicios y de conveniencia que operan las 24:00 horas; centros nocturnos y lugares públicos de reunión con variedad artística y similares, así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni el consumo. En estos casos· de excepción los establecimientos podrán permanecer abiertos, pero no podrán vender o expender bebidas alcohólicas fuera del horario que dispone éste artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+La Dirección de Espectáculos y Alcoholes llevará un registro de los establecimientos que deberán estar cerrados y de los que se encuentren exceptuados de tal supuesto en los términos de ésta disposición.
 
 ###### ARTICULO 23.
 
@@ -599,7 +651,9 @@ El solicitante deberá presentar el original y 4 fotocopias de la solicitud y de
 
 Toda información deberá ser formulada bajo protesta de decir verdad y los tramites a realizarse por el directamente interesado o su representante legal, debidamente acreditado.
 
-No se desecha trámite alguno a las solicitudes de licencia que no reúnan los requisitos señalados.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+No se dispensa tramite alguno a las solicitudes de licencia que no reúnan los requisitos señalados.
 
 ###### ARTICULO 27.
 
@@ -639,9 +693,11 @@ X.- Nombre y firma del Director de Espectáculos y Alcoholes.
 
 Las licencias o permisos deberán ser inscritos en los registros correspondientes debiendo para ello, demostrarse el pago del refrendo y la constancia de no adeudo en la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 31.
 
-Las licencias originales ya existentes, expedidas con anterioridad a la entrada en vigor del presente Reglamento, deberán ser actualizadas, mediante la sustitución de la anterior por una nueva en material de acrílico que contara con la fotografía del titular de la licencia cuando sea persona física, así como todos los requisitos exigidos por él artículo 28 de este ordenamiento.
+Las licencias originales ya existentes, expedidas con anterioridad a la entrada en vigor del presente Reglamento, deberán ser actualizadas, mediante la sustitución de la anterior por una nueva en material de acrílico que contara con la fotografía del titular de la licencia cuando sea persona física, así como todos los requisitos exigidos por él artículo 29 de este ordenamiento.
 
 ###### ARTICULO 32.
 
@@ -869,37 +925,59 @@ Corresponde a la Tesorería Municipal el cobro de la infracción cuando la calif
 
 Los establecimientos que habiendo obtenido licencia o permiso del R. Ayuntamiento, no la tengan a la vista se considerara que comete infracción, debiendo ser apercibidos; si esta situación se repite, se le aplicara la sanción que corresponda.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 63.
 
-Los establecimientos comprendidos en los artículos 16, fracción V y 17 fracciones I, III, IX, XII que infrinjan o violen lo dispuesto en este ordenamiento será sancionado con las siguientes multas:
+Los establecimientos comprendidos en los artículos 16 fracción V y 17 fracciones I, III, IX, XII que infrinjan o violen lo dispuesto en este ordenamiento será sancionado con las siguientes multas:
 
-a) De 20 a 60 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones IV, VIII, XVII.
+a) De 20 a 100 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones IV, VIII, XVII.
 
-b) De 40 a 80 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones III, XIV, XV y XVI y al artículo 19 fracciones XV, XVII, XIX, XX, XXI, XXII.
+b) De 40 a 150 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones III, XIV, XV y XVI y al artículo 19 fracciones XV, XVII, XIX, XX, XXI, XXII.
 
-c) De 60 a 100 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones V, X, XII, XIII; y el artículo 19 fracciones III, IV, V, VIII, XIII, XIV.
+c) De 60 a 200 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones V, X, XII, XIII; y el artículo 19 fracciones III, IV, V, VIII, XIII, XIV.
 
-d) De 100 a 150 veces el salario mínimo vigente en el Municipio de Sabinas Hidalgo por violaciones a lo dispuesto en el artículo 18 fracciones I, II, VI, VII, IX, XI; y al artículo 19 fracciones I, II, VI, VII, IX, XI, XVI, XVIII, XXIII, XIV.
+d) De 100 a 250 veces el salario mínimo vigente en el Municipio de Sabinas Hidalgo por violaciones a lo dispuesto en el artículo 18 fracciones I, II, VI, VII, IX, XI; y al artículo 19 fracciones II, VII, IX, XI, XIV, XVI, y XVIII.
 
 e) De 350 a 500 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 19 fracciones X y XII.
+
+f) De 250 a 1500 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violación a lo dispuesto en el artículo 19 fracción VI.
+
+g) De 350 a 2500 el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violación a lo dispuesto en el Artículo 19 Fracción I.
+
+Las anteriores sanciones económicas son sin perjuicio de la responsabilidad civil o penal que pudiera resultarle a los infractores.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 64.
 
 Los establecimientos comprendidos en el artículo 16 fracciones I, II, III, IV, VI, VII, VIII y IX y en el artículo 17 fracciones II, IV, V, VI, VII, VIII, X, XI, y XIII que violen o infrinjan lo dispuesto por este reglamento, será sancionado con las siguientes multas:
 
-a) De 20 a 60 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones IV y VIII y al articulo 19 fracción IV.
+a) De 20 a 100 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones IV y VIII.
 
-b) De 60 a 150 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo por violaciones a lo dispuesto en el artículo 18 fracciones III, V y XI y 19 fracciones XI y XXII.
+b) De 100 a 250 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo por violaciones a lo dispuesto en el artículo 18 fracciones III, V y XI y 19 fracciones XI y XXII.
 
-c) De 150 a 250 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 18 fracciones IX, X, XIII, XIV, XV, XVI; y al articulo 19 fracciones III, VII, IX, XIII, XIX, XX, XXI y XXIV.
+c) De 150 a 350 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 19 fracciones III, VII, IX, XIII, XIX y XXI
 
-d) De 250 a 300 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en los artículo 18 fracciones I, II, VI, VII y XII y 19 fracciones I, II, V, VI, VIII, XIV, XV, XVI, XVII, XVIII, XXIII.
+d) De 250 a 400 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en los artículo (sic) 18 fracciones I, II, VI, VII y XII y 19 fracciones II, V, VIII, XIV, XV, XVI, XVII y XVIII.
 
-e) De 350 a 500 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 19 fracciones X y XII.
+e) De 350 a 500 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, por violaciones a lo dispuesto en el artículo 19 fracciones IV, X y XII.
+
+Las anteriores sanciones económicas son sin perjuicio de la responsabilidad civil o penal que pudiera resultarle a los infractores.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 65.
 
-Las contravenciones a las demás disposiciones contenidas en este Reglamento, se sancionaran con multa de 100 a 150 veces el salario mínimo general vigente, y/o la clausura definitiva del establecimiento o ambas.
+Las contravenciones a las demás disposiciones contenidas en este Reglamento, se sancionaran con multa de 200 a 250 veces el salario mínimo general vigente, y/o la clausura definitiva del establecimiento o ambas sanciones.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+ARTICULO 65 BIS.- Se sancionará con multa de 250 a 2000 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, a las personas que infrinjan lo dispuesto en el artículo 19 fracción III, V y VI de la Ley de Prevención y Combate al Abuso del Alcohol.
+
+Con multa de 350 a 2500 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, a las personas que violen el artículo 19 fracción IV de la Ley de Prevención y Combate al Abuso del Alcohol y,
+
+Con multa de 20 a 100 veces el salario mínimo general vigente en el Municipio de Sabinas Hidalgo, a las personas que se encuentren en el supuesto que prevee (sic) la fracción I, VII, VIII, XI, del artículo 19 de la Ley Estatal de Prevención y Combate al Abuso del Alcohol.
 
 ###### ARTICULO 66.
 
@@ -933,7 +1011,9 @@ c) Por quebrantamiento de sellos o símbolos de clausura preventiva por segunda 
 
 d) Por operar el establecimiento sin licencia o permiso del R. Ayuntamiento o del Presidente Municipal.
 
-e) Por infringir lo dispuesto en el artículo 19 fracción XXIII.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+e) Por infringir lo dispuesto en el artículo 20 de este Reglamento.
 
 f) Por violación a los supuestos contemplados en el capítulo tercero del Título tercero de este reglamento.
 
@@ -1090,3 +1170,11 @@ PRESIDENTE MUNICIPAL
 LIC. DANIEL OMAR GONZALEZ GARZA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE JUNIO DE 2004.
+
+PRIMERO: Estas adecuaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones reglamentarias que contravengan el contenido de las presentes adecuaciones.
