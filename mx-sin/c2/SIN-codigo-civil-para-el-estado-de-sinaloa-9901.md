@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1997-08-13"
+last_updated: "1998-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11447,7 +11447,7 @@ Si la concesión del plazo fue posterior al contrato, el comprador estará oblig
 
 ###### Artículo 2181.
 
-Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión (sic) o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
+Cuando el comprador a plazo o con espera del precio fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 
 ###### Artículo 2182.
 
@@ -11537,11 +11537,11 @@ De las Donaciones en General.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### Artículo 2199.
 
-La venta de un inmueble que tenga un valor hasta de ciento once veces el salario mínimo general vigente en el Estado, podrá otorgarse en escritura privada.
+La venta de un inmueble que tenga un valor hasta de trescientas cincuenta veces el salario mínimo general vigente en el Estado, podrá otorgarse en escritura privada.
 
 ###### Artículo 2200.
 
@@ -11551,19 +11551,21 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### Artículo 2202.
 
-Si el valor del inmueble excede de ciento once veces el salario mínimo general vigente en el Estado, su venta se otorgará en escritura pública.
+Si el valor del inmueble excede de trescientas cincuenta veces el salario mínimo general vigente en el Estado, su venta se otorgará en escritura pública.
 
-Se excepcionan de lo anterior los contratos y las operaciones relacionadas con los inmuebles que se adquieran directamente con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, del Instituto de la Vivienda del Estado de Sinaloa y de la Comisión Reguladora de la Tenencia de la Tierra, o de los organismos que los sustituyan, que podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
+Se excepcionan de lo anterior los contratos y las operaciones relacionadas con los inmuebles que se adquieran directamente con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, del Instituto de la Vivienda del Estado de Sinaloa, de la Comisión Reguladora de la Tenencia de la Tierra o de los organismos que los sustituyan, que podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1990)</small>
+También se excepcionan a los Ayuntamientos, quienes podrán otorgar títulos de propiedad, previa autorización del Congreso del Estado, en programas de regularización y en las transferencias de poderes de sus reservas territoriales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
 ###### Artículo 2203.
 
-Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de ciento once veces el salario mínimo general vigente en el Estado, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de trescientas cincuenta veces el salario mínimo general vigente en el Estado, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
 El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
@@ -12077,7 +12079,7 @@ I.- Si en el contrato o posteriormente lo autorizó para hacerlas y se obligó a
 
 II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el contrato;
 
-III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que se transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
+III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que se transcurra el tiempo necesario para que el arrendatario quede compensado (sic) con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 ###### Artículo 2306.
 
@@ -12129,7 +12131,7 @@ Si sólo se impide en parte el uso de la cosa, podrá el arrendatario pedir la r
 
 ###### Artículo 2315.
 
-Lo dispuesto en los artículos anteriores no es renunciable.
+Lo dispuesto en los artículos anteriores no es renunciable (sic).
 
 ###### Artículo 2316.
 
@@ -15095,7 +15097,7 @@ De las Oficinas del Registro.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que ha habla(sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II.
 
@@ -15652,3 +15654,13 @@ El presente Decreto entrará en vigor treinta días después al de su publicaci�
 ###### ARTICULO SEGUNDO.
 
 Lo dispuesto en el presente decreto no se aplicará a aquellos créditos que habiéndose contratado con anterioridad se encuentren en litigio al entrar en vigor el mismo.
+
+P.O. 8 DE ABRIL DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
