@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1954-04-28"
+last_updated: "1960-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1960.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -43,11 +43,11 @@ Del Estado en General, Forma de Gobierno,
 
 Nuevoleoneses y Ciudadanos
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1924)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1960)</small>
 
 ###### Art. 28.
 
-El Estado de Nuevo León comprende el territorio de lo que fué provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey (Capital del Estado), Abasolo, Agualeguas, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería Chica, Rayones, Sabinas Hidalgo, Salinas Victoria, Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo, Villaldama, y el territorio de la Congregación de Colombia, con las demás Municipalidades que se formen en lo sucesivo.
+El Estado de Nuevo León, comprende el territorio de lo que fué provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey (Capital del Estado), Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás Hidalgo (sic), San Nicolás de los Garza, Santa Catarina, Santiago, Vallecillo, Villaldama, y la Congregación de Colombia y con las demás Municipalidades que se formen en lo sucesivo.
 
 ###### Art. 29.
 
@@ -1326,3 +1326,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 28 DE ABRIL DE 1954.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 21 DE MAYO DE 1960.
+
+UNICO.- Este decreto comenzará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial del Estado.
