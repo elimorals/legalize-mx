@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-12803"
 country: "mx"
 rank: "estatuto"
 publication_date: "1998-12-22"
-last_updated: "1998-12-22"
+last_updated: "2001-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,236 +19,624 @@ issue_date: "1998-12-08"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-REGLAMENTO DE LA BOLSA CENTRAL DE TRABAJO DEL ESTADO DE TABASCO
+ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2001.
 
-Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 30 mayo de 1962.
+Estatuto publicado en la Primera Sección del Diario Oficial de la Federación el martes 22 de diciembre de 1998.
 
-Lic. Carlos A. Madrazo, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE y SOBERANO DE TABASCO, en uso de la facultad que me confiere el artículo 2o. de la Ley Orgánica del Poder Ejecutivo del Ejecutivo del Estado de Tabasco, para cumplir íntegramente con lo dispuesto en los Artículos 123 Fracción XXV de la Constitución de los Estados Unidos Mexicanos y 14 de la Ley Federal del Trabajo, he tenido a bien expedir el siguiente:
+Al margen un logotipo, que dice: Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-REGLAMENTO DE LA BOLSA CENTRAL DE TRABAJO DEL ESTADO DE TABASCO
+ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO PRIMERO. De la Dirección General
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-La oficina de la Bolsa Central de Trabajo del Estado de Tabasco, tendrá por objeto principal relacionar a los trabajadores desocupados o en demanda de mejor colocación, con los patrones que necesiten sus servicios, a fin de lograr una mejor distribución de la mano de obra.
+###### ARTICULO 1o.
 
-###### ARTÍCULO 2.
+El Director General, como autoridad ejecutiva del Instituto, tendrá las siguientes atribuciones y funciones:
 
-Los servicios de la Bolsa Central de Trabajo y de las Agencias que se establezcan serán gratuitos.
+I. Representar legalmente al Instituto con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, actos de administración y de dominio, y las especiales que requieran cláusula especial conforme a la Ley, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Estas facultades las ejercerá en la forma que acuerde el Consejo de Administración;
 
-###### ARTÍCULO 3.
+El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante las Juntas de Conciliación y Arbitraje, así como otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el acuerdo del Consejo de Administración;
 
-La Oficina de la Bolsa Central de Trabajo del Estado tendrá como sede la Capital del Estado.
+II. Ejercer las facultades y atribuciones que corresponden al Instituto, en su carácter de organismo fiscal autónomo, conforme a lo señalado en los artículos 23 y 30 de la Ley del INFONAVIT;
 
-###### ARTÍCULO 4.
+III. Asistir a las sesiones de la Asamblea General, del Consejo de Administración y de la Comisión de Vigilancia, con voz pero sin voto;
 
-Se establecerán Agencias de la Bolsa Central de Trabajo en las Cabeceras Municipales y Centros de Población en que se haga necesario.
+IV. Ejecutar los acuerdos del Consejo de Administración;
 
-###### ARTÍCULO 5.
+V. Presentar anualmente al Consejo de Administración, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior;
 
-Cuando un trabajador se presente al lugar y hora convenida por la persona que lo solicite y no sean utilizados sus servicios, el patrón queda obligado a pagarle un día del salario mínimo y los gastos que haya hecho con motivo del traslado, si este último se justifica.
+VI. Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, los presupuestos de ingresos y egresos y de gastos de administración, operación y vigilancia, así como los programas de labores y de financiamientos para el año siguiente;
 
-###### ARTÍCULO 6.
+VII. Presentar a la consideración del Consejo de Administración un informe mensual sobre las actividades del Instituto;
 
-Con el objeto de evitar el desempleo de los trabajadores tabasqueños, todos los Contratistas, Maestros de Obra o Delegados de Trabajo, que laboren dentro del Estado quedan obligados a solicitar a la Bolsa Central de Trabajo o a sus Agencias, un 25 por ciento como mínimo, de los trabajadores que empleen en las Obras que tengan a su cargo.
+VIII. Presentar al Consejo de Administración, para su consideración y, en su caso, aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 42 de la Ley del INFONAVIT a ser subastados y otorgados, según corresponda, por el Instituto;
 
-###### ARTÍCULO 7.
+IX. Proponer al Consejo de Administración los nombramientos del Secretario General, de los Subdirectores Generales, de los Coordinadores Generales de Zona y de los Delegados Regionales;
 
-En relación con el artículo anterior tendrán preferencia los trabajadores tabasqueños y solamente en casos de obreros especializados que no los tenga, la Bolsa Central de Trabajo o sus Agencias, podrán traerlos de otros lugares.
+X. Dirigir las actividades de las Subdirecciones Generales, de la Contraloría Interna, de las Coordinaciones Generales de Zona y de la Coordinación de Comunicación Social;
 
-###### ARTÍCULO 8.
+XI. Nombrar y remover al personal del Instituto, señalando sus funciones y remuneraciones, con sujeción a las leyes, presupuestos, tabuladores y en su caso del Contrato Colectivo de Trabajo;
 
-Como cuerpo consultivo de la Bolsa Central de Trabajo se integrará una Comisión Técnica con las siguientes representaciones: un representante de la Junta Central de Conciliación y Arbitraje del Estado, un representante de la Junta Federal Permanente de Conciliación No. 26, de la Secretaría del Trabajo, un representante de la Secretaría de Industria y Comercio, un representante de los trabajadores de la C.T.M., un representante de los trabajadores de la F.U.T.E.T., un representante de la Cámara de Comercio, un representante de la Sección 31 y 22 del S.T.P.R.M., y todos aquellos que legalmente tengan reconocida su personalidad como representativos de los trabajadores en el Estado.
+XII. Efectuar la readscripción de las unidades administrativas y del personal del Instituto, en su caso;
 
-### CAPITULO SEGUNDO. DEL PERSONAL
+XIII. Resolver los casos de duda que se presenten con motivo de la interpretación o aplicación del presente Estatuto, así como los casos no previstos en el mismo;
 
-###### ARTÍCULO 9.
+XIV. Establecer la integración de los Comités Internos con carácter temporal o permanente para el mejor cumplimiento de los fines del Instituto;
 
-El personal administrativo de la Bolsa Central de Trabajo del Estado estará integrada, inicialmente, por las siguientes personas: Un Director, un Inspector y un Taquimecanógrafo y podrá ser aumentado de acuerdo con las necesidades de trabajo.
+XV. Las demás que le señalen la Ley del Instituto y sus disposiciones reglamentarias o que le sean encomendadas por el Consejo de Administración.
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-Las representaciones que formen parte de la Comisión Técnica de la Bolsa Central de Trabajo, son honoríficas.
+###### ARTICULO 2o.
 
-###### ARTÍCULO 11.
+La Dirección General dispondrá de asesoría y del personal técnico y administrativo que requiera, para la atención de los asuntos de su competencia, conforme a los presupuestos y tabuladores aprobados.
 
-El sueldo que se asignará al personal de las Agencias de la Bolsa Central de Trabajo en los Municipios, estará sujeto al inciso b).- del artículo doceavo de la Ley que la creó.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 12.
+###### ARTICULO 3o.
 
-Para formar parte del personal de la Bolsa Central de Trabajo y de sus Agencias, se requiere:
+El Director General designará un Secretario Particular, quien desempeñará las funciones que le sean encomendadas por el titular.
 
-a) Ser de honorabilidad reconocida.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-b) Vecino de la localidad con dos años de residencia cuando menos.
+## TITULO SEGUNDO. De las Direcciones Sectoriales
 
-c) Tener buenas relaciones con los trabajadores, Sindicatos y Patrones.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-d) Poseer la instrucción necesaria para el buen desempeño de su comisión.
+###### ARTICULO 4o.
 
-###### ARTÍCULO 13.
+En las ausencias temporales del Director General, ejercerá las facultades que le corresponden a éste, el funcionario que designe el propio Director General.
 
-Los empleados de la Bolsa Central de Trabajo y de sus Agencias deberán abstenerse de toda preferencia en relación con las solicitudes de trabajo u ofertas de colocación, a menos que estén expresamente consignadas en este reglamento u otro ordenamiento legal aplicable.
+###### ARTICULO 5o.
 
-###### ARTICULO 14.
+Las Direcciones Sectoriales constituyen el enlace entre el sector que representan y el Director General.
 
-Queda prohibido al personal, aceptar dádivas o regalos de los trabajadores o patrones con motivo del servicio que se le proporcione.
+Para el efecto de cumplir y desarrollar la función de enlace que les otorga la Ley, los Directores Sectoriales tendrán las siguientes atribuciones y funciones:
 
-###### ARTÍCULO 15.
+I. Asistir a las sesiones de la Asamblea General, con voz pero sin voto;
 
-Los empleados de las Oficinas de la Bolsa Central y de las Agencias, guardarán el mayor respeto a las ideas políticas, sociales o religiosas de las personas que ocurran a solicitar sus servicios.
+II. Asistir a las sesiones del Consejo de Administración y de la Comisión de Vigilancia con voz pero sin voto;
 
-###### ARTÍCULO 16.
+III. Solicitar la incorporación de asuntos en el orden del día de las sesiones del Consejo de Administración y de la Comisión de Vigilancia, por conducto del Director General;
 
-Los representantes de los Organismos Sindicales e Instituciones que han de formar parte de la Comisión Técnica de la Bolsa Central de Trabajo; se acreditarán con credenciales expedidas por las Instituciones que representen.
+IV. Coordinar el nombramiento y funcionamiento de los miembros de las Comisiones Consultivas Regionales en lo referente al sector que representan;
 
-Los representantes ante la Bolsa Central de Trabajo durarán en su cargo dos años, pero podrán ser removidos a juicio de sus representantes cuando no cumplan con su cometido o por otras causas que así lo ameriten.
+V. Plantear las políticas y criterios del sector que representan al Director General, para coadyuvar a la mejor realización de los objetivos del Instituto;
 
-### CAPITULO TERCERO. DEL FUNCIONAMIENTO
+VI. Coordinar y recopilar las opiniones, sugerencias, políticas y criterios de su sector y propiciar su enlace adecuado con el Instituto;
 
-###### ARTÍCULO 17.
+VII. Ser órgano de enlace a solicitud de las organizaciones respectivas y la Dirección General, para la participación de ésta en reuniones de trabajo e informativas en materia de vivienda;
 
-De acuerdo con su objeto, la Bolsa Central de Trabajo y sus Agencias, tendrán como funciones primordiales las siguientes:
+VIII. En general, todas aquellas cuestiones necesarias y relativas al debido cumplimiento de los fines del Instituto, relacionadas con su competencia.
 
-a) Abrir un registro con l ordenado en el Artículo 6o, del Acuerdo que creó la Bolsa Central de Trabajo del Estado.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-b) Registrar las solicitudes de trabajos y ofertas de colocación que se presenten.
+## TITULO TERCERO. De la Secretaría General
 
-c) Cooperar, a la selección profesional, aprendizaje y reeducación de los trabajadores.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-d) Formar estadísticas de las solicitudes y ofertas de colocación.
+###### ARTICULO 6o.
 
-e) Obtener datos que contribuyan a la investigación de las diversas causas de los paros y demás movimientos de la población trabajadora.
+Las Direcciones Sectoriales contarán con el personal y los elementos que requieran para el eficaz cumplimiento de sus atribuciones y funciones en los términos de los presupuestos y tabuladores aprobados.
 
-###### ARTÍCULO 18.
+###### ARTICULO 7o.
 
-La inscripción de los trabajadores desocupados o en demanda de mejor colocación, deberá hacerse estrictamente por su orden de presentación.
+La Secretaría General fungirá como unidad de apoyo a los órganos colegiados y tendrá a su cargo las Secretarías de la Asamblea General, del Consejo de Administración, de la Comisión de Vigilancia, así como todos aquellos Comités, Comisiones y Subcomisiones que se deriven de éstos, con las atribuciones y funciones que establezcan los Reglamentos de dichos órganos tripartitos.
 
-###### ARTÍCULO 19.
+En las ausencias temporales del Secretario General, el Prosecretario ejercerá sus funciones.
 
-Al inscribirse a los trabajadores, después de tomárseles su filiación, deberán anotarse en la ficha respectiva los siguientes datos: nombre y domicilio del trabajador, sexo, lugar y fecha de nacimiento, estado civil, Sindicato a que pertenezca o expresión, en su caso, de ser libre, oficio o especialidad, tiempo de servicios, tiempo de cesantía, ocupación que se desea obtener, último trabajo desempeñado, nombre o razón social y domicilio del patrón a quien se prestaron los últimos servicios, procurando en todo caso, precisar el grado de instrucción del solicitante, su estado de salud y capacidad física aparente para el trabajo, así como el número y edad de las personas que dependan de aquel para su subsistencia.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 20.
+###### ARTICULO 8o.
 
-Obtenidos los datos anteriores, se entregará al trabajador una tarjeta debidamente requisitada para el objeto de su identificación, en la cual, expresándose la filiación del trabajador, se hará constar de su número de inscripción o ir en busca de mejor ocupación, las labores habituales que desempeñe y en su caso, la clase de ocupación solicitada.
+Para el mejor cumplimiento de sus funciones, la Secretaría General deberá establecer comunicación permanente con las Direcciones Sectoriales.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-Al serle entregada la tarjeta que se menciona, el trabajador deberá firmarla si lo saber hacer, en presencia del empleado que haya hecho el registro; marcando, en todo caso, la huella digital correspondiente al pulgar derecho.
+###### ARTICULO 9o.
 
-###### ARTÍCULO 22.
+La Secretaría General fungirá como unidad de enlace entre la Dirección General y las Comisiones Consultivas Regionales, en los términos que establezca el Reglamento de dichos órganos de consulta.
 
-Cuando el solicitante sea mayor de doce años y menor de dieciséis, su inscripción solo podrá hacerse, previa autorización de su padre o representante legal y, en su defecto, el Sindicato a que pertenezca, de la Junta Central de Conciliación y Arbitraje o de la autoridad política de la localidad.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 23.
+## TITULO CUARTO. De las Subdirecciones Generales
 
-El personal de la Bolsa Central y el de las Agencias en ningún caso asentará en las fichas de inscripción, datos adicionales que puedan impedir o dificultar la colocación de los trabajadores.
+> <small>(ADICIONADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 24.
+### CAPITULO I. De las Subdirecciones Generales
 
-Al recibirse una oferta de trabajo, se procederá inmediatamente a la formación de la fecha de inscripción correspondiente a la Sección de ofertas, en la cual harán constar la forma en que se haya recibido el aviso del solicitante (personal, escrito, telefónico o por boletines), su nombre o razón social, domicilio, clase de trabajo propuesto, número de trabajadores solicitados, duración de la jornada de trabajo y salario que ofrezca pagar, si se trata de una obra determinada y que la remuneración no esté dentro de la tabulación del salario mínimo.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 25.
+###### ARTICULO 10o.
 
-La Bolsa Central de Trabajo y sus Agencias, al enviar a sus trabajadores que soliciten, deberá tener en cuenta la antigüedad de inscripción. Cuando se reciba una oferta de colocación y no se tenga inscrito el personal que se requiere, deberá hacerlo del conocimiento público, por medio de la colocación de avisos que se fijen en sitios adecuados, en la prensa local y anuncios radiofónicos.
+La Secretaría General fungirá, a través de la Secretaría Técnica, como unidad de apoyo de los Comités Internos cuya responsabilidad no corresponda a otra Unidad Administrativa.
 
-###### ARTÍCULO 26.
+###### ARTICULO 11o.
 
-El patrón queda obligado a dar aviso, si fueron aceptados o no los trabajadores que hayan solicitado, con el objeto de llevar el control estadístico correspondiente.
+Para el cumplimiento de los objetivos, atribuciones y funciones de sus órganos, el Instituto contará con las Subdirecciones Generales de Crédito, de Administración de Cartera, Jurídica y de Fiscalización, Técnica, de Innovación y Calidad, y de Planeación y Finanzas.
 
-###### ARTÍCULO 27.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-Los trabajadores tendrán la obligación de dar aviso al quedar cesantes después que se les haya contratado, advertidos que de no hacerlo perderán el derecho de preferencia que le corresponde, por la antigüedad de su inscripción.
+###### ARTICULO 12o.
 
-###### ARTÍCULO 28.
+La Dirección General conducirá las actividades de las Subdirecciones Generales de conformidad con el presente Estatuto, las que, independientemente de las funciones específicas de cada una de ellas, tendrán las siguientes de carácter general:
 
-La Bolsa Central de Trabajo y sus Agencias se abstendrán de tramitar cualquier oferta de colocación que sea contraria a la moral o que pueda traer consigo la violación o el menoscabo de los derechos de los trabajadores.
+I. Programar, organizar, dirigir y evaluar el desempeño de las labores de su competencia;
 
-###### ARTÍCULO 29.
+II. Establecer procedimientos administrativos internos de los asuntos en el ámbito de su competencia;
 
-Tratándose de trabajadores extranjeros, se tendrá en cuenta lo dispuesto por el artículo 5o., y demás relativos de la Ley Federal de Trabajo. Consecuentemente, antes de relacionar a los trabajadores extranjeros con los patrones, deberá obtenerse los informes necesarios.
+III. Difundir y vigilar el cumplimiento de la normatividad institucional, particularmente observar que se establezcan fianzas u otro tipo de garantías que protejan el patrimonio del Instituto, en el ámbito de su competencia;
 
-###### ARTÍCULO 30.
+IV. Delegar facultades a las Delegaciones Regionales y normar y planear el ejercicio de dichas facultades;
 
-La Bolsa Central de Trabajo y sus Agencias estarán en contacto directo con los Sindicatos de trabajadores en sus respectivas jurisdicciones, a fin de inscribir oportunamente a sus agremiados que soliciten empleo, así como para solicitar de ellos, en su caso, el personal disponible que les sea requerido por los patrones.
+V. Coordinar sus actividades con las de los titulares de otras áreas, así como con instituciones públicas, privadas o sociales relacionadas con su competencia;
 
-###### ARTÍCULO 31.
+VI. Planear, evaluar y controlar el funcionamiento de las unidades que le sean adscritas por el Director General;
 
-Cuando alguna Agencia no tenga inscrito trabajadores del oficio o especialidad solicitados, se comunicará inmediatamente con la Bolsa Central, para que ésta, en vista de los informes rendidos por las demás Agencias, procure satisfacer las ofertas de colocación.
+VII. Coadyuvar a promover el desarrollo de su personal, participando en la formulación de cursos de capacitación;
 
-###### ARTÍCULO 32.
+VIII. Formular y emitir opiniones e informes.
 
-La Bolsa Central de Trabajo coordinará para los fines del Artículo anterior, el intercambio de solicitudes y ofertas entre las Agencias de los Municipios, sirviendo de órgano compensador.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 33.
+### CAPITULO II. De la Subdirección General de Crédito
 
-Queda prohibido a la Bolsa Central de Trabajo o Agencias, publicar anuncios exagerados o falsos en relación con sus actividades y hacer declaraciones falsas sobre el carácter, capacidad profesional, etc., de los trabajadores que pretendan emplear.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-###### ARTÍCULO 34.
+###### ARTICULO 13o.
 
-No se podrá constreñir a los solicitantes para que acepten un empleo determinado, así como incitar a los trabajadores para que abandonen su colocación.
+Las Subdirecciones Generales tendrán igual rango y contarán con las unidades administrativas necesarias para la realización de las funciones encomendadas, en los términos de los presupuestos y tabuladores aprobados.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-Las Agencias de la Bolsa Central de Trabajo mensualmente enviarán a la Oficina Central, resumen del movimiento habido en sus respectivas circunscripciones.
+### CAPITULO III. De la Subdirección General de Administración de Cartera
 
-###### ARTÍCULO 36.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-La Bolsa Central de Trabajo está facultada para efectuar inspecciones a las Agencias cada vez que lo crea necesario.
+###### ARTICULO 14o.
 
-###### ARTÍCULO 37.
+La Subdirección General de Crédito tendrá a su cargo las siguientes funciones:
 
-La Bolsa Central, tiene obligación de informar mensualmente, al Ejecutivo del Estado, el resumen general de sus actividades, comprendiendo el de las Agencias Municipales, debiendo anexar el cuadro estadístico correspondiente.
+I. Asegurar que los sistemas de otorgamiento de crédito respondan adecuadamente a los requerimientos de operación en todas sus fases;
 
-###### ARTÍCULO 38.
+II. Proponer al Consejo de Administración las innovaciones y mejoras a las distintas alternativas de crédito, para ejecutarlas y satisfacer las necesidades de los diferentes grupos de derechohabientes del Instituto;
 
-El Ejecutivo del Estado podrá ordenar inspección a la Bolsa Central y sus Agencias cuantas veces lo considere necesario.
+III. Adecuar el procedimiento de otorgamiento de crédito para brindar al derechohabiente un servicio más ágil y eficaz;
 
-###### ARTÍCULO 39.
+IV. Analizar y administrar el riesgo de crédito tanto en sus aspectos cualitativos como cuantitativos;
 
-Los Gerentes o Representante de Compañías Constructoras, Contratistas, Sub-Contratistas o Jefes de Obras quedan obligados a proporcionar los datos que ordena el artículo 17 del presente Reglamento y los que solicite la Bolsa Central de Trabajo y sus Agencias, a través del personal acreditado, con el objeto de mantener los datos estadísticos actualizados.
+V. Garantizar la calidad financiera de los créditos originados, asegurando la veracidad y pertinencia de la documentación e información tanto del crédito propiamente dicho, como de sus aspectos técnicos y jurídicos, en coordinación con las áreas competentes;
 
-###### ARTÍCULO 40.
+VI. Apoyar, orientar y capacitar al personal de las Delegaciones en el proceso de otorgamiento de crédito;
 
-Cualquier empresa que contrate algún trabajador deberá protegerlo en la forma que establece la Ley Federal del Trabajo y la Ley del Seguro Social vigente en el país.
+VII. Promover y administrar programas de colaboración y apoyo con entidades gubernamentales, instituciones financieras y crediticias, así como con organismos privados, en el área de su competencia;
 
-###### ARTÍCULO 41.
+VIII. Ofrecer al derechohabiente alternativas innovadoras para solicitar y tramitar su crédito;
 
-La Bolsa Central de Trabajo y sus agencias vigilarán el cumplimiento del presente Reglamento. Cuando éste se viole se harán efectivas las sanciones previstas en él y si las faltas fueran mayores, la Bolsa turnará a las autoridades competentes el caso particular de que se trate para los efectos de la Ley a que haya lugar.
+IX. Asesorar a los derechohabientes en lo referente a sus derechos para obtener financiamiento para la adquisición de una vivienda digna y en toda aquella información y orientación que requieran por parte del Instituto;
 
-SANCIONES:
+X. Revisar y proponer los ajustes necesarios a las pólizas de seguro de las viviendas con objeto de garantizar el valor de las mismas al momento del otorgamiento del crédito;
 
-###### ARTÍCULO 42.
+XI. Vigilar la adecuada formalización de los créditos mediante la integración del expediente personal y de vivienda, así como la firma e inscripción de la escritura, coordinándose con la Subdirección General Jurídica y de Fiscalización en lo procedente;
 
-Sin perjuicio del artículo 5o., del presente Reglamento, cuando un trabajador se le tenga esperando más de 24 horas la empresa será sancionada con multa de $50.00 a $500.00, en proporción del tiempo transcurrido.
+XII. Evaluar desde el punto de vista de los derechohabientes los distintos procesos de originación y asignación de los créditos;
 
-###### ARTÍCULO 43.
+XIII. Evaluar desde el punto de vista crediticio los paquetes de línea II y III, cofinanciamientos, subastas y demás esquemas de financiamiento, incluido el descuento de cartera, que se presenten para aprobación del Instituto;
 
-Cuando algún empleado de la Bolsa Central de Trabajo o de sus Agencias infrinjan el presente Reglamento, será amonestado oralmente por primera vez, por segunda vez con el descuento de un día de haber y en caso de reincidencia, será destituido de su empleo, poniendo en antecedente del caso a la autoridad competente para los efectos de Ley.
+XIV. Vigilar la correcta aplicación, distribución y registro de los recursos destinados a las diferentes líneas de crédito y subastas;
 
-###### ARTÍCULO 44.
+XV. Establecer programas que aseguren la reasignación de la vivienda irregular recuperada por el Instituto a los trabajadores derechohabientes;
 
-Cuando una empresa o contratista pague menos del salario mínimo al trabajador o cuando éste haya laborado tiempo extraordinario por acuerdo del patrón negándole el pago, se aplicarán las sanciones establecidas en los artículos 59 y 674 de la Ley Federal del Trabajo.
+XVI. Proporcionar a la Subdirección General de Planeación y Finanzas la información del área de su competencia para la elaboración del Programa Anual de Financiamientos del Instituto;
 
-###### ARTÍCULO 45.
+XVII. Instrumentar aquellos apoyos a los constructores que sean con cargo a los créditos de los trabajadores;
 
-Las sanciones a que se refiere este Reglamento serán aplicadas por la Dirección Central de Trabajo previa comprobación de las denuncias hechas por el trabajador afectado o mediante las actas de inspección que el personal de esta Oficina levante. Los fondos obtenidos por este concepto, ingresarán a la Tesorería General del Estado.
+XVIII. Operar las Reglas para el Otorgamiento de Crédito al amparo del artículo 43 Bis de la Ley del INFONAVIT;
 
-DISPOSICIONES TRANSITORIAS.
+XIX. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto, que sean afines con las fracciones que anteceden y que le encomiende el Director General.
 
-PRIMERA.- El presente Reglamento, entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-SEGUNDA.- Las Agencias de la Bolsa Central de Trabajo del Estado que por acuerdo del Ejecutivo se establezcan, regirán sus actividades por el presente reglamento.
+### CAPITULO IV. De la Subdirección General Jurídica y de Fiscalización
 
-TERCERA.- Quedan suprimidas todas las Agencias de colocaciones lucrativas que hayan estado funcionando en la Entidad.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
 
-Expido el presente Reglamento en el Palacio del Poder Ejecutivo en la ciudad de Villahermosa, Capital del Estado de Tabasco, a los quince días del mes de mayo de 1962.
+###### ARTICULO 15o.
 
-LIC. CARLOS A. MADRAZO.
+La Subdirección General de Administración de Cartera tendrá las siguientes funciones:
 
-EL SECRETARIO GENERAL DE GOBIERNO
+I. Registrar, operar, supervisar y controlar la cartera de créditos, una vez que éstos hayan sido otorgados y hasta su liquidación definitiva. Las funciones sustantivas a considerar son: la conciliación de cifras contables con las áreas con quienes se interactúa; aplicación de pagos; análisis de amortización; generación y envío de estados de cuenta y comunicación a acreditados; evaluación de la cartera, atención a acreditados y resolución de quejas y aclaraciones; recuperación y cobranza extrajudicial; emitir oportunamente los Avisos de Suspensión de la Retención cuando el crédito haya sido liquidado, traspasado o cancelado y, en general, funciones relacionadas con los créditos que se encuentran en administración;
 
-LIC. MANUEL GURRÍA ORDOÑEZ.
+II. Establecer los programas y sistemas internos para el control y recuperación de créditos, en coordinación con las áreas de informática;
+
+III. Planear, diseñar e instrumentar estrategias de cobro conforme a los planes aprobados, así como administrar el proceso de recuperación de los créditos otorgados, a través de la aplicación de programas e instrumentos administrativos y legales existentes y aquellos que, en su caso, aprueben los Organos Colegiados, que coadyuven a su amortización;
+
+IV. Diseñar e instrumentar programas de facilidades de pago a los acreditados que no están sujetos a una relación laboral, conforme a las autorizaciones que, en su caso, reciban del Consejo de Administración. Instrumentar y operar los programas de recuperación necesarios que permitan una atención y seguimiento personalizado a los acreditados en el Régimen Especial de Amortización, y coordinándose con el Area de Fiscalización para los que se encuentren en el Régimen Ordinario;
+
+V. Realizar gestiones y emitir solicitudes a los trabajadores para el pago de abonos omitidos, en los casos que no se encuentren sujetos a una relación laboral y que no estén inscritos en los programas de facilidades de pago al acreditado;
+
+VI. Administrar la cartera descontada a las entidades financieras que, en su caso, sea aprobada por el Consejo de Administración, en los términos del Artículo 42 de la Ley del Instituto;
+
+VII. Analizar y determinar el nivel de riesgo y no pago por tipo de cartera, para la propuesta de estrategias de cobranza y recuperación, así como para informar a los Organos Colegiados;
+
+VIII. Instrumentar los mecanismos de control y conciliación con las áreas de tesorería y recaudación, de los ingresos al Instituto por los diferentes esquemas de recuperación de cartera;
+
+IX. Preparar y administrar la cartera institucional susceptible de respaldar la emisión de títulos hipotecarios y ser utilizada en otros esquemas de financiamiento previamente aprobados por el Consejo de Administración;
+
+X. Establecer procedimientos internos para los asuntos de su competencia;
+
+XI. Difundir y dar cumplimiento a la normatividad y procedimientos emitidos con base en los planes institucionales de calidad;
+
+XII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+
+XIII. Coordinar y dar seguimiento con el Area de Fiscalización, a las metas de cobranza de empresas omisas;
+
+XIV. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO V. De la Subdirección General Técnica
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 16o.
+
+La Subdirección General Jurídica y de Fiscalización tendrá las siguientes funciones:
+
+I. Representar legalmente al Instituto en toda clase de convenios, contratos o actos jurídicos que conforme a las instituciones y poderes generales o especiales le otorgue la Dirección General, así como llevar el registro y control de los mismos;
+
+II. Revisar y sancionar legalmente todos los actos jurídicos, convenios y contratos en que sea parte el Instituto;
+
+III. Ejercer las atribuciones que corresponden al Instituto en su carácter de organismo fiscal autónomo, conforme a lo dispuesto por los artículos 23, 30 y 55 de su Ley y en los términos que establezcan los Reglamentos Internos del Instituto en Materia de Facultades como Organismo Fiscal Autónomo y el de Imposición de Multas por Infracción a las disposiciones de la Ley, publicados en el Diario Oficial de la Federación, el 24 de marzo de 1998;
+
+IV. Establecer procedimientos administrativos internos de los asuntos en el ámbito de su competencia;
+
+V. Difundir y vigilar el cumplimiento de la normatividad y procedimientos emitidos;
+
+VI. Verificar el sistema de administración de las aportaciones al Fondo Nacional de la Vivienda, depositadas en las subcuentas de vivienda, de las cuentas individuales del Sistema de Ahorro para el Retiro, así como de los descuentos patronales para la amortización de los créditos, a fin de detectar las posibles omisiones y requerir su pago;
+
+VII. Establecer las normas y el control de los programas para la devolución y compensación de las cantidades pagadas en exceso de las aportaciones y amortizaciones de crédito, al Fondo Nacional de la Vivienda;
+
+VIII. Establecer las normas y el control de los programas de titulación e inscripción ante los Registros Públicos de la Propiedad, de los instrumentos privados a que se refieren los artículos 42 y 51 de la Ley del Instituto, así como coordinar las actividades que en esta materia lleve a cabo el Instituto con el apoyo del Notariado Nacional;
+
+IX. Llevar el control y custodia de los títulos de propiedad correspondientes a los conjuntos habitacionales financiados por el Instituto con anterioridad a las reformas legales de 1992;
+
+X. Intervenir en los actos jurídicos para la enajenación de la reserva territorial del Instituto;
+
+XI. Revisar y sancionar los aspectos legales de todas las convocatorias de subastas o licitaciones que lleve a cabo el Instituto y participar en los procesos de éstas;
+
+XII. Suscribir convenios de coordinación con la Secretaría de Hacienda y Crédito Público, Instituto Mexicano del Seguro Social y demás autoridades fiscales locales, para coadyuvar en la función recaudatoria del Instituto;
+
+XIII. Coordinar las labores de fiscalización del INFONAVIT con otras entidades dentro del marco legal aplicable;
+
+XIV. Determinar los lineamientos y establecer los procedimientos para controlar los recursos administrativos y juicios de carácter fiscal en que el Instituto sea parte;
+
+XV. Defender los intereses del Instituto ante el Tribunal Federal de Justicia Fiscal y Administrativa y ante el Poder Judicial de la Federación en su carácter de Organismo Fiscal Autónomo;
+
+XVI. Coordinar los programas de abatimiento a la vivienda irregular, estableciendo los lineamientos y criterios a seguir en esta materia;
+
+XVII. Llevar el control de los poderes que otorgue el Director General, en términos del Artículo 23, fracción I de la Ley del INFONAVIT, a los funcionarios del Instituto o terceros que autorice el Consejo de Administración, así como las revocaciones de dichos poderes;
+
+XVIII. Coordinar y dar seguimiento con las Areas Jurídicas y de Fiscalización de las Delegaciones Regionales a las metas de los programas que se operen conforme a la competencia de estas áreas;
+
+XIX. Revisar y sancionar la reglamentación interna y normatividad en el ámbito de su competencia que se someterá a los Organos Colegiados del Instituto para su aprobación;
+
+XX. Verificar que los anteproyectos y proyectos ejecutivos en materia de subastas reúnan los requisitos indispensables para la contratación del financiamiento;
+
+XXI. Verificar que las ofertas de paquetes en línea II y las solicitudes de paquetes en línea III y cofinanciamiento y demás esquemas de financiamiento, reúnan la documentación señalada en los instructivos correspondientes;
+
+XXII. Intervenir con la representación del Instituto en los juicios y conflictos jurídicos en los que éste sea parte;
+
+XXIII. Diseñar la política de contratación y caución de despachos externos que en representación del INFONAVIT intervengan en litigios en los que el Instituto sea parte o tenga algún interés, vigilando que se apeguen en todo momento a los intereses institucionales;
+
+XXIV. Vigilar el cumplimiento de la Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, así como difundir y unificar los criterios jurídicos en la aplicación de las normas que rigen al Instituto y actuar como órgano de consulta respecto a ellas;
+
+XXV. Formular y someter a la Dirección General las propuestas de proyectos de Ley, Reglamentos, Reglas Generales, Instructivos, Acuerdos y Circulares, relativos a las actividades del Instituto;
+
+XXVI. Establecer los programas y el control de entrega de depósitos a los trabajadores o a sus beneficiarios y de la liberación de adeudos y en su caso en coordinación con la Subdirección General de Crédito en apoyo a los nuevos esquemas de crédito que el Consejo de Administración apruebe;
+
+XXVII. Coordinar el desahogo de las visitas y demás solicitudes que formule la Comisión de Inconformidades y de Valuación, en los términos del Reglamento respectivo;
+
+XXVIII. Autorizar la aceptación de fianzas que otorguen desarrolladores, contratistas, proveedores y terceros, que garanticen obligaciones a su cargo ante el Instituto, en los contratos y convenios que éstos celebren;
+
+XXIX. Establecer las normas y acciones para la aplicación de sanciones a empresas que presten sus servicios al Instituto;
+
+XXX. Atender las relaciones jurídico-laborales con el personal del Instituto, en coordinación con la Subdirección General de Innovación y Calidad;
+
+XXXI. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+
+XXXII. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO VI. De la Subdirección General de Innovación y Calidad
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 17o.
+
+La Subdirección General Técnica tendrá a su cargo las siguientes funciones:
+
+I. Normar, controlar, evaluar y vigilar las acciones para la evaluación técnica de los proyectos ejecutivos y el desarrollo de los programas de construcción de vivienda financiada por el Instituto, a través del sistema de subastas;
+
+II. Establecer procedimientos administrativos internos de los asuntos en el ámbito de su competencia;
+
+III. Difundir y vigilar el cumplimiento de la normatividad y procedimientos emitidos;
+
+IV. Validar técnicamente los proyectos de vivienda en paquetes de línea II;
+
+V. Evaluar con apego a la normatividad y desde el punto de vista urbanístico, de infraestructura y arquitectónico las ofertas de paquetes de vivienda en líneas II y III que se presenten al Instituto;
+
+VI. Emitir normas y procedimientos relativos a la supervisión, valuación, inspección y verificación de las obras en el sistema de subastas y de paquetes de líneas II, III, cofinanciamientos y demás esquemas de financiamiento;
+
+VII. Realizar la evaluación operativa de las empresas de supervisión, valuación, verificación, compañías constructoras y promotoras que participen en los programas de
+
+financiamiento de vivienda;
+
+VIII. Administrar y promover la vivienda institucional con la demanda, a través de organismos, empresas e instituciones en la materia;
+
+IX. Verificar que las viviendas nuevas o usadas que vayan a ser objeto de créditos del Instituto reúnan los requisitos señalados en las Reglas para el Otorgamiento de Crédito a los Trabajadores Derechohabientes del Instituto;
+
+X. Revisar y sancionar los costos estimados del valor de la obra en los financiamientos que otorgue el Instituto;
+
+XI. Revisar y sancionar los precios de venta de las viviendas para asegurar que los créditos con las que se adquieran, estén suficientemente respaldados con una garantía hipotecaria;
+
+XII. Analizar, evaluar y dictaminar los anteproyectos y proyectos de construcción de vivienda en lo relativo a aspectos arquitectónicos, de ingeniería y equipamiento urbano conforme a las normas expedidas;
+
+XIII. Elaborar y proponer programas de capacitación e intercambio para el personal, en lo relativo a las funciones de su competencia;
+
+XIV. Las demás que le señalen las disposiciones normativas institucionales y en general todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO VII. De la Subdirección General de Planeación y Finanzas
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 18o.
+
+La Subdirección General de Innovación y Calidad tendrá a su cargo las funciones siguientes:
+
+I. Elaborar y aplicar la normatividad que garantice que los servicios del Instituto cumplan con las más estrictas normas de calidad, transparencia, eficiencia y bajo costo, a través de la profesionalización del personal y la mejora continua e innovación de los sistemas y los procesos;
+
+II. Administrar al personal del Instituto y desarrollar, conjuntamente con las demás áreas, los programas de capacitación y desarrollo tendientes a elevar la productividad y la calidad de los servicios;
+
+III. Establecer, evaluar y supervisar el Servicio Civil de Carrera;
+
+IV. Promover y coordinar las actividades de bienestar social y de eventos culturales, artísticos, deportivos y recreativos que beneficien a los empleados del Instituto y a sus familias;
+
+V. Intervenir en los conflictos laborales que surjan entre el Instituto y sus trabajadores, así como administrar el Contrato Colectivo de Trabajo, sin perjuicio de las atribuciones que le correspondan a la Subdirección General Jurídica y de Fiscalización;
+
+VI. Normar y controlar el Fondo de Jubilaciones y Pensiones de los Trabajadores del Instituto;
+
+VII. Conducir los procesos de modernización administrativa del Instituto a nivel central y regional;
+
+VIII. Estudiar, analizar y diagnosticar sobre la estructura, sistemas, procedimientos y métodos de trabajo del Instituto, a fin de lograr una mayor simplificación administrativa;
+
+IX. Proponer y orientar las acciones necesarias para el logro de los objetivos y metas del Instituto, formulando para tal efecto, los manuales de organización y de procedimientos del Instituto;
+
+X. Integrar y formular los proyectos de presupuestos de gastos de administración, operación y vigilancia y el de inversiones propias del Instituto;
+
+XI. Programar, registrar y controlar las erogaciones que se efectúen con cargo a los gastos de administración, operación y vigilancia y el de inversiones propias del Instituto;
+
+XII. Proporcionar a la Subdirección General de Planeación y Finanzas la información de gastos de administración, operación y vigilancia y de inversiones propias para la elaboración de los Presupuestos de Ingresos y Egresos del Instituto;
+
+XIII. Garantizar el desarrollo y la operación de los sistemas y procesos de medición y seguimiento de la calidad de los servicios que proporciona el Instituto;
+
+XIV. Vigilar los remanentes de la reserva territorial y bienes adjudicados del Instituto;
+
+XV. Promover, coordinar y dar seguimiento, con las áreas responsables de los servicios, a la aplicación de políticas y procedimientos que cumplan con las normas internacionales de certificación ISO (Organización Internacional de Estándares), aplicables a los procesos del Instituto;
+
+XVI. Definir la estrategia tecnológica y los modelos de operación del Instituto;
+
+XVII. Diseñar, implantar, desarrollar y mantener los sistemas de informática que requiera el Instituto;
+
+XVIII. Dirigir y supervisar el desarrollo del Centro de Cómputo y de la Red de Comunicaciones del Instituto;
+
+XIX. Proporcionar a las diversas dependencias del Instituto los recursos materiales y servicios generales necesarios para el correcto desempeño de sus funciones;
+
+XX. Efectuar y controlar las adquisiciones y adjudicaciones de arrendamiento de bienes y/o servicios, así como coordinar y presidir el Comité de Adquisiciones y Arrendamiento de Bienes y/o Servicios y vigilar el cumplimiento de la normatividad aplicable en la materia;
+
+XXI. Integrar y controlar el inventario físico de los bienes muebles propiedad del Instituto;
+
+XXII. Administrar los bienes inmuebles destinados a las oficinas del Instituto;
+
+XXIII. Proporcionar el servicio de consulta y préstamo del acervo documental existente en el Instituto;
+
+XXIV. Promover y administrar programas de colaboración y apoyo con entidades gubernamentales, instituciones financieras y crediticias, así como con organismos privados, en el área de su competencia;
+
+XXV. Coordinar con la PROCESAR los sistemas de información que hagan posible el intercambio adecuado de datos entre ambas instituciones, así como su homologación;
+
+XXVI. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al debido cumplimiento de los objetivos del Instituto, que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 19o.
+
+La Subdirección General de Planeación y Finanzas tendrá a su cargo las funciones siguientes:
+
+I. Formular y dar seguimiento a los planes y programas, así como administrar la subcuenta de vivienda y los recursos financieros del Instituto;
+
+II. Coordinar la planeación estratégica del Instituto, tomando en consideración el contenido del Plan Nacional de Desarrollo y sus programas sectoriales;
+
+III. Formular e integrar los Programas de Labores y de Financiamientos y el Informe Anual de Actividades en los términos y plazos señalados por la Ley del INFONAVIT;
+
+IV. Formular y administrar los presupuestos anuales de ingresos y egresos, en los términos y plazos señalados por la Ley del INFONAVIT, así como controlar la asignación y aplicación de los recursos del Instituto;
+
+V. Establecer y operar los mecanismos e indicadores de evaluación de las acciones del Instituto y coordinar las que sean necesarias para el cumplimiento de las metas establecidas en los Programas de Labores y de Financiamientos;
+
+VI. Realizar los cálculos necesarios para que la Dirección General someta a la aprobación del Consejo de Administración los remanentes de operación, estimado y definitivo de cada ejercicio que deberán aplicarse al pago de intereses a las subcuentas de vivienda de los derechohabientes;
+
+VII. Garantizar una adecuada coordinación con las dependencias del Sistema de Ahorro para el Retiro como son: CONSAR, IMSS, PROCESAR, AFORES, SIEFORES y las demás instituciones participantes en dicho Sistema;
+
+VIII. Asegurar el óptimo rendimiento de los fondos de los trabajadores depositados en la subcuenta de vivienda del Sistema de Ahorro para el Retiro;
+
+IX. Administrar y controlar la recaudación de aportaciones y amortizaciones que provengan del esquema fiscal obligado a los patrones, así como la de otros ingresos;
+
+X. Dictar los lineamientos para transferir los fondos de la Subcuenta de Vivienda a las AFORES para la contratación de la pensión correspondiente en los términos y condiciones que señala la legislación aplicable;
+
+XI. Administrar los recursos líquidos del Instituto, cuidando que sean suficientes para cumplir con sus compromisos presentes y futuros;
+
+XII. Realizar estudios y análisis de los mercados financieros y, en su caso, instrumentar nuevas alternativas de fondeo que apruebe el Consejo de Administración que permitan al Instituto obtener recursos adicionales para financiar un mayor número de créditos;
+
+XIII. Promover con entidades financieras la existencia de programas de financiamiento a la construcción de vivienda;
+
+XIV. Evaluar desde el punto de vista financiero, las empresas que tengan relación con el Instituto, con excepción de lo dispuesto en las fracciones XIII y XIV del artículo 14o. del presente Estatuto;
+
+XV. Administrar la caja de seguros de crédito y autoseguro de daños del Instituto;
+
+XVI. Operar los sistemas de contabilidad de los ingresos y egresos del Instituto, sus controles internos para el conocimiento y vigilancia de sus operaciones y la formulación de los Estados Financieros;
+
+XVII. Validar y valuar la reserva territorial, lotes comerciales y bienes adjudicados y asegurar su enajenación;
+
+XVIII. Promover y administrar programas de colaboración y apoyo con entidades gubernamentales, instituciones financieras y crediticias, así como con organismos privados, en el área de su competencia;
+
+XIX. Las demás que señalen las disposiciones normativas aplicables y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+###### ARTICULO 20o.
+
+La Coordinación de Comunicación Social dependerá directamente del Director General y tendrá a su cargo las funciones siguientes:
+
+I. Proporcionar a los medios de comunicación colectiva la información sobre las actividades institucionales;
+
+II. Actuar como enlace entre los medios de comunicación colectiva y las unidades administrativas del Instituto;
+
+III. Coordinar la edición de las publicaciones institucionales;
+
+IV. Coordinar la elaboración y difusión de revistas, videos, trípticos, carteles, convocatorias, avisos y demás elementos relacionados con las actividades institucionales;
+
+V. Coordinar y operar las campañas de difusión institucionales;
+
+VI. Las demás que le señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+## TITULO QUINTO. De la Coordinación de Comunicación Social
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 21o.
+
+La Contraloría Interna dependerá directamente del Director General y tendrá a su cargo las funciones siguientes:
+
+I. Vigilar que las inversiones y las operaciones del Instituto se apeguen estrictamente a la normatividad institucional;
+
+II. Establecer las políticas y normas para el desarrollo de los sistemas de auditoría interna del Instituto;
+
+III. Practicar las auditorías a las distintas áreas del Instituto, conforme a las directrices que fije el Director General;
+
+IV. Tramitar y atender las quejas y denuncias que se presenten con motivo de los actos de funcionarios y empleados del Instituto;
+
+V. Vigilar el cumplimiento de las normas y procedimientos de operación y, en su caso, aplicar las sanciones a que hubiere lugar de conformidad con los ordenamientos jurídicos institucionales;
+
+VI. Coordinar las relaciones institucionales con los auditores externos designados por la Comisión de Vigilancia, sin perjuicio de las atribuciones que correspondan a otras dependencias del Instituto;
+
+VII. Las demás que le señalen las disposiciones normativas aplicables y, en general, todas aquellas cuestiones relativas al cumplimiento de los objetivos del Instituto que sean afines con las fracciones anteriores y que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+## TITULO SEXTO. De la Contraloría Interna
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 22o.
+
+Las Coordinaciones Generales de Zona son entidades revestidas de facultades por la Dirección General, para supervisar la operación conforme a las normas establecidas y para promover el desarrollo de las Delegaciones Regionales, así como de la Coordinación del Distrito Federal, en su caso, que tengan asignadas en el área de su circunscripción.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+## TITULO SEPTIMO. De las Coordinaciones Generales de Zona
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 23o.
+
+Las Coordinaciones Generales de Zona dependerán directamente del Director General y tendrán las facultades siguientes:
+
+I. Supervisar las actividades de las Delegaciones Regionales de su circunscripción;
+
+II. Realizar evaluaciones periódicas de la operación delegacional, en el cumplimiento de los objetivos y programas institucionales;
+
+III. Vigilar que las Delegaciones Regionales cumplan en tiempo y forma con el envío de información que permita la toma de decisiones ágiles y oportunas;
+
+IV. Establecer, en coordinación con las Delegaciones Regionales, las relaciones institucionales con las autoridades municipales, estatales y federales, así como con los representantes de los sectores privado y social para el cumplimiento de los programas del Instituto;
+
+V. Promover las acciones que permitan un mejor desarrollo de los programas de vivienda para los derechohabientes del Instituto en su circunscripción;
+
+VI. Coordinar la celebración de convenios de desregulación, desgravación y estímulos a la vivienda de interés social con los gobiernos estatales y municipales, así como también con otras instituciones que contribuyan a estos propósitos;
+
+VII. Las demás que señalen las disposiciones normativas institucionales y, en general, todas aquellas cuestiones relativas al cumplimiento de los fines del Instituto, que sean afines con las fracciones anteriores y que les encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 24o.
+
+Las Delegaciones Regionales son órganos revestidos de facultades delegadas por la Dirección General y las Subdirecciones Generales en el ámbito de su competencia, las cuales se ejercerán en representación del Instituto en la circunscripción territorial que se les asigne, así como de aquellas recomendaciones derivadas de la supervisión que, en lo específico, les sean encomendadas por las Coordinaciones Generales de Zona.
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 25o.
+
+Para el mejor cumplimiento de los objetivos del Instituto, las funciones operativas se desconcentrarán a las delegaciones, conforme a los lineamientos establecidos en el reglamento respectivo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+## TITULO OCTAVO. De las Delegaciones Regionales
+
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 26o.
+
+Para articular y coordinar las actividades de las Delegaciones Regionales, el Instituto contará con las Coordinaciones Generales de Zona autorizadas por el Director General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+## TITULO NOVENO. De los Comités Internos
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 27o.
+
+El Director General establecerá Comités Internos con carácter temporal o permanente para el mejor cumplimiento de los fines del Instituto.
+
+I. Los Comités Internos establecidos por el Director General no requerirán, para su funcionamiento, de recursos humanos, materiales y financieros propios;
+
+II. Para el desempeño de las actividades de los Comités Internos que se establezcan, se determinará la normatividad que regule su integración y funcionamiento.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Estatuto entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, expedido en la quincuagésima sexta Asamblea General, celebrada los días 25 y 26 de abril de 1994 y publicado en el Diario Oficial de la Federación el 4 de mayo de 1994.
+
+TERCERO.- Se abrogan las reformas al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicadas en el Diario Oficial de la Federación el 11 de abril de 1995.
+
+CUARTO.- Cuando en los términos del presente Estatuto se dé una denominación nueva o distinta a alguna de las unidades administrativas cuyas funciones estén establecidas con anterioridad en las disposiciones normativas del Instituto, dichas atribuciones se entenderán concedidas a las unidades administrativas que determine este Estatuto.
+
+México, Distrito Federal, a los ocho días del mes de diciembre de 1998. Enrique Ramos Rodríguez, Presidente de la Asamblea General; Lic. Luis de Pablo Serna, Director General; Lic. Miguel González Avelar, Secretario General.
+
+CERTIFICACION
+
+CERTIFICO que la H. Asamblea General en su sesión número 71, celebrada el día ocho de diciembre de mil novecientos noventa y siete, tomó el siguiente:
+
+ACUERDO NUMERO 951
+
+Se aprueban las reformas al Estatuto Orgánico del INFONAVIT en los términos del documento que se anexa al acta con el número siete, que incorpora las precisiones que, al efecto, propuso la Comisión designada para su revisión y dictamen, las cuales también se anexan al acta con el número ocho.
+
+Atentamente
+
+México, D.F., a 21 de diciembre de 1998.- El Secretario de la Asamblea General, Miguel González Avelar, Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico modifica al aprobado por Acuerdo 1046 de la sesión número 78 ordinaria de la Asamblea General del Instituto.
+
+###### ARTICULO SEGUNDO.
+
+Estas modificaciones entrarán en vigor a partir de la fecha de su aprobación por la Asamblea General del INFONAVIT.
