@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-06-21"
+last_updated: "2002-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -331,21 +331,27 @@ Substitución de la Multa.- Cuando se acredite que el sentenciado no puede pagar
 
 Cuando no sea posible o conveniente la substitución de la multa por prestación de servicios, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa substituido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 31.
 
-Exigibilidad de la Multa.- Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo. La autoridad a quien corresponde el cobro de la multa, podrá fijar plazos para el pago de ésta.
+Exigibilidad de la multa.- Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo. Tomando en cuenta las circunstancias del caso, la autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta, siempre y cuando no excedan de seis meses y se garantice suficientemente.
 
 En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad o al tiempo de prisión que el reo hubiere cumplido.
 
 Si el Estado no logra el pago de la multa a través del procedimiento económico coactivo se estará a lo dispuesto por el artículo anterior.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 32.
 
-Naturaleza de la reparación del daño.- La reparación del daño que deba ser hecha por el responsable de un delito, tiene el carácter de pena pública y será exigible de oficio por el Ministerio Público en el proceso penal, con la intervención que corresponda al ofendido y su representante legal.
+Naturaleza de la reparación del daño.- La reparación del daño que deberá cubrir el responsable de un delito, tiene el carácter de pena pública y se exigirá de oficio en los casos que sea procedente por el Ministerio Público en el proceso penal. La persona o personas que tengan derecho a la reparación del daño, podrán aportar por sí o a través de su representante al Ministerio Público, los datos y pruebas que tengan para demostrar la procedencia y monto de dicha reparación.
 
-Cuando la misma reparación sea exigible a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma incidental, conforme a las disposiciones del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+Cuando la reparación del daño sea exigible a terceros, tendrá el carácter de responsabilidad civil y podrá tramitarse en forma incidental, conforme a las disposiciones del Código de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Cuando la reparación del daño sea cubierta por cualquier vía, su pago excluirá la reclamación por otra diversa.
 
@@ -355,7 +361,9 @@ Cuando la reparación del daño sea cubierta por cualquier vía, su pago excluir
 
 Contenido de la reparación del daño.- La reparación del daño comprende:
 
-I.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesiones y, si no fuese posible, el pago de su valor actualizado por el Juez o el ejecutor fiscal al momento en que se realice su liquidación, atendiendo a las pruebas aportadas y a los índices inflacionarios publicados por el Banco de México.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+I.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos, accesiones y en su caso, el pago de los deterioros o menoscabo; si no fuese posible, el pago de su valor actualizado por el Juez atendiendo a las pruebas aportadas o en su caso a los índices inflacionarios publicados por el Banco de México.
 
 Tratándose de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fue materia del delito, sin necesidad de recurrir a la prueba pericial.
 
@@ -363,11 +371,11 @@ II.- La reparación del daño material y la indemnización de los perjuicios der
 
 III.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 34.
 
-Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
+Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
 
 ###### Artículo 35.
 
@@ -379,51 +387,83 @@ I.- El ofendido;
 
 II.- A falta de éste, sus dependientes económicos, sean o no herederos; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
-III.- Los herederos que no hayan dependido del ofendido, en la proporción que señale el derecho sucesorio;
+III.- El cónyuge, y a falta de éste la concubina o concubino;
 
-IV.- Sus herederos; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
-V.- Las personas que dependen económicamente de él.
+IV.- Descendientes;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+V.- Ascendientes;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+VI.- Parientes colaterales hasta el cuarto grado, y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+VII.- Sus herederos.
 
 En caso de concurrencia, serán preferidos en el orden que antecede.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+Salvo prueba en contrario, se presume que dependen económicamente del ofendido:
+
+a).- El cónyuge;
+
+b).- La concubina o concubino;
+
+c).- Los descendientes y ascendientes en primer grado;
+
+d).- El adoptante y adoptado.
 
 ###### Artículo 36.
 
 Preferencia al pago de la sanción pecuniaria.- La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 37.
 
-Ejecución de la garantía otorgada.- Al momento de dictar sentencia, el juez tomará en consideración la caución otorgada para garantizar la reparación del daño, ordenando que se haga efectiva sí el condenado no cubre voluntariamente su importe, en el plazo de quince días a partir de que se declare ejecutoriada la sentencia, o solicita y garantiza su pago en parcialidades ante la misma autoridad judicial.
+Ejecución de la garantía otorgada.- Al momento de dictar sentencia, el juez tomará en consideración la caución otorgada para garantizar la reparación del daño, ordenando que se haga efectiva si el condenado no cubre voluntariamente su importe, en el plazo de cinco días a partir de que se declare ejecutoriada la sentencia, sin que medie requerimiento; asimismo ordenará hacer efectiva la garantía de referencia cuando iniciado el proceso el inculpado se evada de la acción de la justicia, procediendo a su entrega en los términos previstos por el Código de Procedimientos Penales del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 38.
 
-Distribución de la sanción pecuniaria.- El importe de la sanción pecuniaria se distribuirá entre el Estado y la parte ofendida; al primero se aplicará el importe de la multa, y a la segunda el de la reparación.
+Distribución de la sanción pecuniaria.- El importe de la sanción pecuniaria se distribuirá entre el Estado y la persona o personas que tengan derecho a ello; al primero se aplicará el importe de la multa, y a las segundas el de la reparación del daño.
 
-Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre los ofendidos.
+Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre las personas que tengan derecho a ella.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+Si la persona o personas que tengan derecho conforme al Artículo 35, renunciaren a la reparación, el importe de ésta se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
-Si la parte ofendida o sus herederos renunciaren a la reparación, el importe de ésta se aplicará al Fondo Auxiliar para la Administración de Justicia.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 39.
 
-Individualidad de la multa y solidaridad de la reparación del daño.- Cuando varias personas cometan el delito, el juez fijará la multa para cada uno de los delincuentes, según su participación en el hecho delictuoso y sus condiciones económicas y en cuanto a la reparación del daño, la deuda se considerará como solidaria.
+Individualidad de la multa y solidaridad de la reparación del daño.- Cuando varias personas participen en la comisión de un delito, el juez fijará la multa para cada uno de ellos según su participación en el hecho delictuoso y sus condiciones económicas y de ser condenadas a la reparación del daño, esta obligación será solidaria.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 40.
 
-Exigibilidad de la reparación del daño.- El cobro de la reparación del daño se hará efectivo en la misma forma que la multa.
+Exigibilidad de la reparación del daño.- El cobro de la reparación del daño se hará efectivo con la garantía exhibida, con independencia de quien o quienes la constituyeron, y cuando resultare insuficiente el pago total de la misma o no existiera, el faltante se hará efectivo mediante el procedimiento económico coactivo.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 41.
 
-Obligación del reo al pago de la reparación del daño.- Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto del trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
+Obligación del reo al pago de la reparación del daño.- Si no alcanza a cubrirse la reparación del daño con los bienes del responsable o con el producto del trabajo en la prisión, el reo liberado continuará obligado a cubrir la parte que falte.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 42.
 
-Plazos para el pago de la sanción pecuniaria.- La autoridad judicial o la ejecutora tomando en cuenta la situación económica del obligado, podrá fijar plazos para el pago de la sanción pecuniaria, que en conjunto no excederán de un año.
+Plazos para el pago de la reparación del daño.- La autoridad judicial tomando en cuenta la situación económica del obligado y a petición de parte interesada, podrá fijar plazos para el pago de la reparación del daño, siempre y cuando no excedan de seis meses y se garantice suficientemente.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1992)</small>
 
@@ -434,6 +474,28 @@ Reparación del daño moral.- La reparación del daño moral será fijada a prud
 Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la víctima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
 
 En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
+
+I.- Corrupción de menores o incapaces en cualquiera de las modalidades previstas en este Código;
+
+II.- Violencia intra familiar;
+
+III.- Violación en cualquiera de sus formas de comisión;
+
+IV.- Rapto mediante violencia, o engaño cuando se trate de menores de 14 años o que no tengan capacidad de comprender el hecho;
+
+V.- Abuso sexual mediante violencia;
+
+VI.- Privación de la libertad personal agravada;
+
+VII.- Secuestro.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+Para efectos de este Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
 
 ###### Artículo 44.
 
@@ -447,7 +509,11 @@ III.- Las personas morales o las que se ostentan como tales, por los delitos de 
 
 IV.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que en ocasión de su tenencia, custodia o uso cometan culposamente las personas que los manejen o tengan a su cargo, siempre que la tenencia, custodia o uso la confieran voluntariamente; exceptuándose los casos de contratos de compra venta con reserva de dominio y de compra venta; y
 
-V.- El Estado y los Municipios por los delitos que sus funcionarios o empleados cometan culposamente con motivo o en el desempeño de su servicio.
+V.- El Estado y los Municipios por los delitos que sus funcionarios o empleados cometan culposamente con motivo o en el desempeño de su servicio;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+VI.- Las personas morales que presten los servicios de seguros, por el daño que con motivo de delito culposo causen sus asegurados, según los conceptos de la póliza de seguro respectiva, de conformidad con la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -459,11 +525,11 @@ Solidaridad del pago de la reparación del daño.- La reparación del daño podr
 
 Terceros con derecho a la reparación del daño.- Además, quienes hubieran erogado gastos que conforme a esta Ley deban ser a cargo del obligado ala (sic) reparación del daño, tendrán derecho a que se les resarzan, así como también los perjuicios derivados de estos gastos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 47.
 
-Aseguramiento oficioso de los instrumentos del delito culposo.- Los automóviles, camiones y otros objetos de uso lícito con que se cometan delitos culposos, si son propiedad del acusado se asegurarán de oficio por el Ministerio Público o la autoridad judicial, según la fase procesal, para garantizar el pago de la reparación del daño, dejándolos en depósito del inculpado, cuando no exista riesgo de ocultamiento o traslado. Solamente podrá negarse el aseguramiento o levantarse, en su caso, si se otorga caución bastante en forma legal.
+Aseguramiento oficioso de los instrumentos del delito culposo.- Los automóviles, camiones y otros objetos de uso lícito con que se cometan delitos culposos, si son propiedad del inculpado se asegurarán de oficio por el Ministerio Público o la autoridad judicial, según la fase procesal, para garantizar el pago de la reparación del daño, dejándolos en depósito del propio inculpado, cuando no exista riesgo de ocultamiento o traslado y se haya observado lo dispuesto por el Artículo 248 del Código de Procedimientos Penales. Solamente podrá negarse el aseguramiento o levantarse, en su caso, si se otorga caución bastante en forma legal.
 
 ### CAPITULO VI. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES O EMPLEOS
 
@@ -2573,6 +2639,12 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 Tipo de punibilidad.- Se impondrá prisión de dos a treinta años y hasta quinientos días multa, sin perjuicio de las sanciones que correspondan por los delitos que resulten, al que usando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público que produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública, o tratar de menoscabar la autoridad del Estado, o Municipios, o presionar a la autoridad para que tome una determinación. Se aplicará sanción de uno a cinco años de prisión y hasta doscientos días multa al que teniendo conocimientos de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+###### Artículo 279
+
+BIS.- Subtipo y Punibilidad.- Se impondrá pena de uno a tres años de prisión y hasta ciento cincuenta días multa, a quien por cualquier forma, ya sea escrita, oral, electrónica, o medio de comunicación, anuncie a un servidor público o particular a sabiendas de su falsedad, la existencia de explosivos, sustancias tóxicas, biológicas, incendiarias o de cualquier otro medio capaz de causar daños en instalaciones públicas o privadas, que produzcan alarma, temor o terror a las personas que se encuentren en su interior, perturben la paz pública o suspendan un servicio.
+
 ### CAPITULO XIII. PREVENCION Y SANCION DE LA TORTURA
 
 > <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)</small>
@@ -2989,7 +3061,7 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 
 ###### Artículo 324.
 
-Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
+Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
 ###### Artículo 325.
 
@@ -3516,3 +3588,15 @@ P.O. 21 DE JUNIO DE 2002.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2002.
+
+DECRETO NUMERO 89.
+
+UNICO.- La presente adición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2002.
+
+DECRETO NUMERO 92.
+
+UNICO: Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
