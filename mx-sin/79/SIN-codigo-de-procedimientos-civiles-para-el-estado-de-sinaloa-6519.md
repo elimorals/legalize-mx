@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1983-08-10"
+last_updated: "1984-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1984.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -229,6 +229,8 @@ La caducidad será declarada de oficio por el Tribunal.
 
 De las Excepciones.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1984)</small>
+
 ###### Artículo 35.
 
 Son excepciones dilatorias las siguientes:
@@ -237,9 +239,9 @@ I. La incompetencia del Juez;
 
 II. La litispendencia;
 
-III. La conexidad de la causa;
+III. La conexidad por causa;
 
-IV. La falta de personalidad o de capacidad en el actor;
+IV. La falta de personalidad o capacidad en el actor;
 
 V. La falta de cumplimiento del plazo o de la condición a que esté sujeta la acción intentada;
 
@@ -247,13 +249,7 @@ VI. La división;
 
 VII. La excusión;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1983)</small>
-
-VIII. La falta de Conciliación en los casos con arreglo a la Ley debe ser acto previo.
-
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 1983)</small>
-
-IX. Las demás a que dieren ese carácter las Leyes.
+VIII. Las demás a que dieren ese carácter las Leyes.
 
 ###### Artículo 36.
 
@@ -6189,8 +6185,6 @@ Del Procedimiento en los Negocios de la Competencia de los Jueces Menores.
 
 ### CAPITULO UNICO.
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
-
 ###### Artículo 998.
 
 Los jueces menores en los negocios de su competencia o sean aquellos cuyo interés no exceda de dos mil quinientos pesos, procederán, con sujeción a las disposiciones especiales de este título y, en lo no previsto, observarán las reglas generales y disposiciones de este Código, para el juicio ordinario.
@@ -6365,109 +6359,73 @@ III. Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo d
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en estos juicios, ocurrirá al Juez presentando sus pruebas, y éste con audiencia inmediata de las partes resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre los hechos controvertidos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1983)</small>
+> <small>(DEROGADO, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)</small>
 
 ## TITULO XVII.
 
 De la Conciliación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1983)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)</small>
 
 ###### Artículo 1031.
 
-La Conciliación sólo será necesaria como requisito previo para la admisión de una demanda:
-
-I. En las causas de divorcio necesario establecidas en el Código Civil.
-
-II. En los juicios de alimentos que tengan por objeto su pago o aseguramiento y que se deban o se tenga derecho por disposición de la Ley, contrato o testamento.
-
-III. En las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposiciones de maridos, padres y tutores y en general todas las cuestiones familiares que reclamen intervención judicial.
-
-IV. En los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1032.
 
-En todos los demás casos no comprendidos en el Artículo anterior, los que resulten pueden ser objeto de conciliación.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1033.
 
-Son competentes los Jueces de Primera Instancia para conocer la Conciliación en los casos que ésta se comprenda y fijen los Artículos 153, 155 del Código Procesal Civil y lo que no se oponga en el Título III Capítulos I y II del citado Código.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1034.
 
-Para celebrar la Conciliación, tanto pretenso actor como demandado pueden concurrir por si o por apoderado con facultades para transigir sin admitirse la carta poder expresando por escrito el motivo.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1035.
 
-El Juez citará a una junta al pretenso demandado por cédula en la que se explicará con claridad el motivo del caso que se quiere conciliar y la persona que la promueve, condenando a aquél con que se dará por celebrado el acto y se expedirá al promovente la constancia correspondiente de haber intentado la Conciliación, si no comparece. Salvo casos de fuerza mayor o caso fortuito.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1036.
 
-Si concurriere a la junta del pretenso demandado y dejare de hacerlo el pretenso actor, no se dará por intentado el acto y será condenado a los gastos que haya ocasionado a aquél por su comparecencia, salvo los casos previstos en el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1037.
 
-La cédula se llevará por el Actuario correspondiente y se entregará personalmente al citado en su domicilio legal o convencional y no hallándose en cualquiera de ellos a cualquier persona de su familia o trabajador mayor de edad. Tomándose razón del nombre del sujeto que reciba la citación.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1038.
 
-Entre la citación y la comparecencia mediará lo menos tres a nueve días naturales para la junta prevista a juicio del Juez, cuando el citado tenga su residencia en el mismo lugar. Pudiendo reducir aquellos plazos en casos de urgencia manifiesta y grave.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1039.
 
-Cuando el citado viva en otra población fuera del lugar de residencia del Tribunal, la cita se hará por medio de exhorto o requisitoria según la clase de Juez que exista en dicho lugar aumentando por 150 kilómetros un día más por razón de la distancia con la advertencia señalada en el Artículo 1035.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1040.
 
-Si celebrada la Junta de Conciliación no se llega a la componeda procesal el Tribunal librará al reclamante la constancia de haber intentado la Conciliación expresándose en ella si tal acto dejó de verificarse por renuncia del promovente o por falta de concurrencia del citado.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1041.
 
-Cuando el reclamante y el citado asistieren por sí o por sus apoderados el Juez como conciliador procurará por cuanto medio legal sea posible lograr la Conciliación de los interesados, levantando un acta tanto de las razones que se expongan como de los términos en que se arregló el negocio.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1042.
 
-Si aquéllos se concilian tal acta se firmará por los interesados al igual que el Juez y el Secretario mas si no hubiere convenio sólo se asentará una razón de haberse intentado la Conciliación sin efecto. Para tales casos el Tribunal correspondiente debe asentar tales diligencias en un libro de Conciliaciones.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1043.
 
-Del resultado del acto sea cual fuere, se darán copias certificadas a los interesados, a costa del que las pidiere. Y lo convenido en la Conciliación tendrá la misma fuerza entre las partes obligadas como autoridad de cosa juzgada.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1044.
 
-No habiendo conciliación en los casos señalados o los que resulten como objeto de conciliación, sólo podrá volverse a intentar de nuevo transcurridos dos meses. Si no, se inicia la demanda.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1983)</small>
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ###### Artículo 1045.
 
-En caso de que se ignore el domicilio del citado se publicará un extracto del acto que se quiere Conciliar a la junta prevista por la Ley por una sola vez en el Periódico Oficial y en otro de mayor circulación haciendo saber los efectos de la no comparecencia.
+(DEROGADO, P.O. 29 DE JUNIO DE 1984)
 
 ## TRANSITORIOS.
 
@@ -6714,3 +6672,7 @@ P.O. 10 DE AGOSTO DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE JUNIO DE 1984.
+
+Artículo Unico.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
