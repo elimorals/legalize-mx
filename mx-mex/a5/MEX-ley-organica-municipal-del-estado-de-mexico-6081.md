@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2000-08-11"
+last_updated: "2001-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 2001.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -65,11 +65,11 @@ La creación y supresión de municipios, la modificación de su territorio, camb
 
 Para el eficaz cumplimiento de sus funciones, los ayuntamientos podrán coordinarse entre si y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 6.
 
-Los municipios del Estado son 122, con la denominación y cabeceras municipales que a continuación se especifican:
+Los municipios del Estado son 124, con la denominación y cabeceras municipales que a continuación se especifican:
 
 MUNICIPIO CABECERA MUNICIPAL
 
@@ -179,6 +179,8 @@ LA PAZ LOS REYES ACAQUILPAN
 
 LERMA LERMA DE VILLADA
 
+LUVIANOS VILLA LUVIANOS
+
 MALINALCO MALINALCO
 
 MELCHOR OCAMPO MELCHOR OCAMPO
@@ -220,6 +222,8 @@ RAYON SANTA MARIA RAYON
 SAN ANTONIO LA ISLA SAN ANTONIO LA ISLA
 
 SAN FELIPE DEL PROGRESO SAN FELIPE DEL PROGRESO
+
+SAN JOSE DEL RINCÓN SAN JOSE DEL RINCÓN CENTRO
 
 SAN MARTIN DE LAS PIRAMIDES SAN MARTIN DE LAS PIRAMIDES
 
@@ -1419,7 +1423,7 @@ No podrán ser integrantes de los comités las personas que sean dirigentes de o
 
 Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
 
-ADICIONADO, G.G. 15 DE FEBRERO DE 1999)
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
 
 Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
 
@@ -2138,3 +2142,9 @@ G.G. 11 DE AGOSTO DE 2000.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 2 DE OCTUBRE DE 2001.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil dos.
