@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1999-06-05"
+last_updated: "2000-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -137,11 +137,11 @@ VI.- Los Subdirectores, Jefes y Subjefes de Departamento; y,
 
 VII.- El personal técnico, administrativo y de custodia que señale el Presupuesto de Egresos.
 
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10.
 
-Los servidores públicos a que se refieren las fracciones I a IV del Artículo anterior, deberán ser mexicanos, mayores de veintisiete años de edad, preferentemente casados, licenciados en derecho con título debidamente inscrito ante las autoridades competentes, contar con estudios y experiencia sobre derecho penitenciario y régimen tutelar para menores, en los respectivos casos, tener buena conducta y no haber sido condenados con sentencia firme por delito intencional.
+Los servidores públicos a que se refieren las fracciones I a IV del Artículo anterior, deberán ser mexicanos, mayores de veintisiete años de edad, contar con buena conducta, no haber sido condenados con sentencia firme por delito intencional y, preferentemente, casados y con estudios o experiencia en derecho, penintenciarismo y régimen tutelar para menores.
 
 El personal a que se refiere la fracción VI del Artículo anterior deberá reunir los requisitos que preceden, con excepción de la edad, que podrán ser mayores de veinticuatro años.
 
@@ -1293,7 +1293,7 @@ La Ley que crea los Consejos Tutelares Estatales en el Estado, que por la presen
 
 ###### ARTICULO CUARTO.
 
-La Ley de Ejecución de Sanciones que Privan y Registren la Libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
+La Ley de Ejecución de Sanciones que Privan y Restringen la Libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
 
@@ -1316,6 +1316,12 @@ P.O. 5 DE JUNIO DE 1999
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2000
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
