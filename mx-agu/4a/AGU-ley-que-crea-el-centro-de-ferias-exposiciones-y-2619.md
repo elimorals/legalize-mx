@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-centro-de-ferias-exposiciones-y-2619"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "1988-03-20"
+last_updated: "1992-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL CENTRO DE FERIAS, EXPOSICIONES Y CONVENCIONES DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 20 de marzo de 1988.
 
@@ -93,6 +93,8 @@ II.- El Director General; y
 
 III.- Un Tesorero.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 9o.
 
 La Junta de Gobierno estará integrada por:
@@ -101,15 +103,11 @@ a).- Presidente: el Gobernador Constitucional del Estado;
 
 b).- Vocal: el representante del Ayuntamiento de Aguascalientes;
 
-c).- Vocal: el representante de la Tesorería General del Estado;
+c).- Vocal: el representante de la Secretaría de Finanzas;
 
-d).- Vocal: el representante del Sistema DIF voluntariado de Aguascalientes;
+d).- Vocal: el representante del Patronato de la Feria Nacional de San Marcos; y
 
-e).- Vocal: el representante de la Dirección Estatal de Turismo;
-
-f).- Vocal: el representante del Patronato de la Feria Nacional de San Marcos; y
-
-g).- Secretario: quien designe el Gobernador Constitucional del Estado.
+e).- Secretario: quien designe el Gobernador Constitucional del Estado.
 
 ###### ARTICULO 10.
 
@@ -308,3 +306,9 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
