@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-transparencia-y-acceso-a-la-informacion-36868"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-27"
-last_updated: "2004-01-27"
+last_updated: "2004-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE ALLENDE, GTO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2004.
 
-Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de enero de 2004.
+Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 27 de enero de 2004.
 
 EL CIUDADANO LUIS ALBERTO VILLARREAL GARCÍA, PRESIDENTE MUNICIPAL DE ALLENDE, ESTADO DE GUANAJUATO, A LOS HABITANTES DEL MISMO HACE SABER:
 
@@ -49,15 +49,17 @@ Salvo las excepciones previstas en este Reglamento, toda la información guberna
 
 Para efectos de interpretación del presente Reglamento se deberá favorecer el principio de publicidad de la información en posesión de los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 3.
 
-La vigilancia e interpretación del presente reglamento compete al Instituto de Transparencia Municipal, así como a las entidades obligadas a proporcionar información.
+La vigilancia del presente reglamento compete al Instituto de Transparencia Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 4.
 
-Toda la información gubernamental municipal a que se refiere este reglamento es pública, con las excepciones que contempla el presente ordenamiento, y los particulares tendrán acceso a la misma en los términos que éste señala.
-
-Sólo podrá negarse la información que conforme a este reglamento tenga el carácter de reservada o confidencial de conformidad con este reglamento o a criterio del Instituto de Transparencia Municipal.
+Sólo podrá negarse la información que conforme a este reglamento tenga el carácter de reservada o confidencial de conformidad con este reglamento.
 
 La información pública que tenga el carácter de reservada o confidencial no podrá divulgarse cuando lo disponga este reglamento u otras leyes o en los casos que sean datos personales por referirse a los domicilios y números telefónicos particulares, así como aquellos otros datos que no se encuentren relacionados con el ejercicio del cargo desempeñado por cualquier servidor o empleado municipal.
 
@@ -73,7 +75,9 @@ III. Dependencias, entidades, unidades administrativas: Las señaladas en el Org
 
 IV. Información: La contenida en los documentos que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier título;
 
-V. Información reservada: Aquella información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en el Artículo 10 de este reglamento o por disposición expresa de cualquier otra ley o por facultad discrecional del Instituto de Transparencia Municipal.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+V. Información reservada: Aquella información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en el artículo 10 de este reglamento o por disposición expresa de cualquier otra ley;
 
 VI. Instituto: El Instituto de Transparencia Municipal establecido en el Artículo 25 de este reglamento;
 
@@ -95,7 +99,9 @@ d) Los regidores y síndicos del municipio, y sus comisiones;
 
 e) Cualquier otro órgano de gobierno municipal;
 
-XI.- Ventanilla Universal.- La Unidad responsable que entre otras funciones deberá dar trámite a las solicitudes de acceso a la información que presenten los particulares.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XI.- Ventanilla Universal.- Unidad responsable a que se refieren los artículos 36 y 37 de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, que entre otras funciones deberá dar trámite a las solicitudes de acceso a la información que presenten los particulares.
 
 ###### Artículo 6.
 
@@ -104,6 +110,8 @@ El acceso a la información pública sólo tendrá un costo de recuperación por
 Sólo se entregará la información pública una vez cubierto el derecho correspondiente.
 
 ### Capítulo Segundo. Obligaciones de Transparencia
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 7.
 
@@ -153,13 +161,17 @@ XVII. Las Actas de Sesiones de cabildo; y
 
 XVIII. Cualquier otra información que sea de utilidad o se considere relevante, además de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público.
 
-La información a que se refiere este Artículo deberá publicarse en idioma español de tal forma que facilite su uso y comprensión por las personas, y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las dependencias, entidades y unidades administrativas deberán atender las recomendaciones que al respecto expida el Instituto.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+La información a que se refiere este Artículo deberá publicarse en idioma español de tal forma que facilite su uso y comprensión por las personas y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad. Las dependencias, entidades y unidades administrativas deberán atender en lo posible las recomendaciones que al respecto expida el Instituto, y les sean notificadas por conducto del Presidente Municipal.
 
 ###### Artículo 8.
 
 La información a que se refiere el Artículo 7 deberá estar a disposición del público, a través de medios remotos o locales de comunicación electrónica.
 
-Las dependencias, entidades y unidades administrativas deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea, en los términos que dispongan los lineamientos que al respecto expida el Instituto. Asimismo, la información de interés general adecuadamente ordenada y clasificada, deberá publicarse en tableros de información instalados estratégicamente en el recinto de la Presidencia Municipal, o cualquier otro medio de comunicación impreso y al alcance de los ciudadanos.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+Las dependencias, entidades y unidades administrativas deberán preparar la automatización, presentación y contenido de su información, como también su integración en línea, en los términos que dispongan los lineamientos que al respecto expida la Ventanilla Universal. Asimismo, la información de interés general adecuadamente ordenada y clasificada, deberá publicarse en tableros de información instalados estratégicamente en el recinto de la Presidencia Municipal, o cualquier otro medio de comunicación impreso y al alcance de los ciudadanos.
 
 ###### Artículo 9.
 
@@ -173,7 +185,9 @@ Como información reservada podrá clasificarse aquella cuya difusión pueda:
 
 I. Comprometer la seguridad pública;
 
-II. Menoscabar la conducción de las negociaciones o bien, de las relaciones con otros entes públicos, incluida aquella información que otros estados u organismos internacionales entreguen con carácter de confidencial al Gobierno Municipal;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+II.- Menoscabar la conducción de las negociaciones o bien, de las relaciones con otros estados u organismos internacionales, incluida aquella información que otros estados, municipios u organismos internacionales entreguen con carácter de confidencial al gobierno municipal;
 
 III. Dañar la estabilidad financiera, económica o monetaria del Municipio;
 
@@ -195,7 +209,7 @@ XI.- La que contenga las opiniones, recomendaciones o puntos de vista que formen
 
 XII.- La información referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones en proceso que las autoridades lleven a cabo para adquirir, enajenar, arrendar o contratar bienes o servicios municipales. Una vez adjudicados los contratos dicha información perderá el carácter de reservada;
 
-XIII.- La información que por facultad discrecional del Instituto de Transparencia Municipal así lo amerite.
+XIII.- (DEROGADA, P.O. 24 DE FEBRERO DE 2004)
 
 Cuando concluya el periodo de reserva o las causas que hayan dado origen a la reserva de la información a que se refiere este Artículo, dicha información podrá ser pública, protegiendo la información confidencial que en ella se contenga.
 
@@ -207,17 +221,27 @@ No podrá invocarse el carácter de reservado cuando se trate de la investigaci�
 
 La información clasificada como reservada según el artículo 10 de este Reglamento, podrá permanecer con tal carácter hasta por un periodo de diez años a partir de la fecha de emisión de dicha información. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el periodo de reserva.
 
-La disponibilidad de esa información será sin perjuicio de lo que, al respecto, establezcan otras leyes. El Instituto, establecerá los criterios y lineamientos para la clasificación y desclasificación de la información reservada. Excepcionalmente, los sujetos obligados podrán solicitar al Instituto, la ampliación del período de reserva, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+La disponibilidad de esa información será sin perjuicio de lo que, al respecto establezcan otras leyes. La Ventanilla Universal aplicará los criterios específicos de clasificación y desclasificación de la información reservada con base en los criterios que al efecto emita el Archivo General del Estado, con fundamento en el artículo 38 de la Ley de Acceso a la Información Pública del Estado y los Municipios de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+Excepcionalmente podrá solicitarse al Instituto de Acceso a la Información Pública del Estado de Guanajuato la ampliación del período de reserva.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 12.
 
-Los titulares de las dependencias, entidades y unidades administrativas serán responsables de clasificar la información de conformidad con los criterios establecidos en este reglamento y los lineamientos expedidos por el Instituto.
+Los titulares de las dependencias, entidades y unidades administrativas serán responsables de preclasificar la información de conformidad con los criterios establecidos en este reglamento.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 13.
 
 Las dependencias, entidades y unidades administrativas elaborarán semestralmente y por rubros temáticos, un índice de los expedientes clasificados como reservados. Dicho índice deberá indicar la dependencia, entidad y unidad administrativa que generó la información, la fecha de la clasificación, su fundamento, el plazo de reserva y en su caso, las partes de los documentos que se reserven. En ningún caso el índice será considerado como información reservada. Este índice o cualquier modificación será notificada de inmediato a la Ventanilla Universal.
 
-El titular de cada dependencia, entidad o unidad administrativa deberá adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados. En todo momento, el Instituto tendrá acceso a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
+El titular de cada dependencia, entidad o unidad administrativa deberá adoptar las medidas necesarias para asegurar la custodia y conservación de los expedientes clasificados. En todo momento, la Ventanilla Universal tendrá acceso a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de otorgar su acceso.
 
 ###### Artículo 14.
 
@@ -225,7 +249,9 @@ Como información confidencial se considerará:
 
 I. La entregada con tal carácter por los particulares a los sujetos obligados, de conformidad con lo establecido en el Artículo 15 de este Reglamento, y
 
-II. Los datos personales que requieran el consentimiento de los individuos para su difusión, distribución o comercialización en los términos de este reglamento. No se considerará confidencial la información que se halle en los registros públicos o en fuentes de acceso público.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+II. Los datos personales que requieran el consentimiento de los individuos para su difusión, distribución o comercialización en los términos de este reglamento. No se considerará confidencial la información que se halle en los registros públicos o en fuentes de acceso público de conformidad con las leyes aplicables.
 
 ###### Artículo 15.
 
@@ -269,9 +295,11 @@ V. A terceros cuando se contrate la prestación de un servicio que requiera el t
 
 VI. En los demás casos que establezcan los ordenamientos jurídicos federales, estatales y municipales.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 19.
 
-Los sujetos obligados que posean, por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto, quienes mantendrán un listado actualizado de los sistemas de datos personales.
+Los sujetos obligados que posean, por cualquier título sistemas de datos personales, deberán hacerlo del conocimiento de la Ventanilla Universal; así mismo, mantendrán un listado actualizado de los Sistemas de Datos Personales.
 
 ###### Artículo 20.
 
@@ -285,17 +313,21 @@ Aquélla deberá entregar al solicitante, en un plazo de 30 días hábiles desde
 
 La representación de personas físicas se acreditará con carta poder firmada ante dos testigos ratificada ante fedatario público; para personas morales a través de instrumento público.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 21.
 
-Contra la negativa de entregar o corregir datos personales, procederá la interposición del recurso de revisión previsto en este ordenamiento ante el Instituto en términos del Artículo 40 de este Reglamento.
+Contra la negativa de entregar o corregir datos personales, procederá lo establecido en el Título Tercero de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
 
 ### Capítulo Quinto. Ventanilla Universal e Instituto de Transparencia Municipal
 
 #### Sección Primera. Ventanilla Universal
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 22.
 
-Es obligación del Ayuntamiento, de las entidades y dependencias de la Administración Pública Municipal y de los Organismos Autónomos, destinar el personal, el espacio y cualquier elemento que se requiera para la recepción adecuada de las solicitudes de información, así como para su oportuna entrega.
+Es obligación del Ayuntamiento, de las entidades y dependencias de la Administración Pública Municipal y de los organismos autónomos, destinar el personal, el espacio y cualquier elemento que se requiera para garantizar por medio de enlaces con la Ventanilla Universal, la tramitación adecuada de las solicitudes de información, así como su oportuna respuesta.
 
 ###### Artículo 23.
 
@@ -309,7 +341,9 @@ III. Auxiliar a los usuarios en la elaboración de solicitudes y, en su caso, or
 
 IV. Realizar los trámites internos de cada dependencia o entidad, necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
 
-V. Proponer al Instituto los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+V. Establecer los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
 VI. Habilitar a los servidores públicos de la dependencia o entidad que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información;
 
@@ -319,17 +353,41 @@ VIII. Las demás necesarias para garantizar y agilizar el flujo de información 
 
 IX. Promover y, en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales; y
 
-X.- Realizar las gestiones necesarias para localizar los documentos administrativos en los que conste la información solicitada.
+X.- Realizar las gestiones necesarias para localizar los documentos administrativos en los que conste la información solicitada;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XI.- Interpretar en el orden administrativo este reglamento;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XII.- Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en términos del presente reglamento y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XIII.- Coadyuvar con el archivo municipal en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las dependencias, entidades y unidades administrativas;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XIV.- Elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+XV.- Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las dependencias y entidades.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 24.
 
-En coordinación con el archivo municipal (sic) Instituto de Transparencia Municipal deberá emitir los criterios para la catalogación, clasificación y conservación de los documentos administrativos, así como su organización.
+En coordinación con el archivo municipal la Ventanilla Universal deberá emitir los criterios para la catalogación, clasificación y conservación de los documentos administrativos, así como su organización, de conformidad con los criterios que establezca el Archivo General del Estado.
 
 #### Sección Segunda. Instituto de Transparencia Municipal
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 25.
 
-El Instituto de Transparencia Municipal es un cuerpo colegiado; el cual tendrá el objeto de promover y difundir la transparencia de los recursos públicos y el ejercicio del derecho de acceso a la información, resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de las entidades, dependencias y unidades administrativas municipales.
+El Instituto de Transparencia Municipal es un cuerpo colegiado; el cual tendrá el objeto de promover y difundir la transparencia de los recursos públicos y el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 26.
 
@@ -355,63 +413,47 @@ VI.- No pertenecer a agrupación, partido o asociación política por lo menos 5
 
 El Instituto será presidido por un Comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de un año, y será elegido por la mayoría de los comisionados que lo integran. Este podrá ser reelegido por sólo un periodo más.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 29.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I.- Interpretar en el orden administrativo este reglamento;
+I.- Vigilar el cumplimiento de lo establecido en el artículo 7 de este reglamento y hacer las recomendaciones pertinentes a las dependencias, entidades y unidades administrativas por conducto del Presidente Municipal;
 
-II.- Conocer y resolver los recursos de revisión interpuestos por los usuarios;
+II.- Orientar y asesorar a los usuarios acerca de su derecho de acceso a la información;
 
-III.- Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en términos del presente reglamento y demás disposiciones legales aplicables;
+III.- Promover en coordinación con la Ventanilla Universal y en su caso ejecutar la capacitación de las organizaciones de la sociedad civil, en materia de acceso a la información y protección de datos personales;
 
-IV.- Coadyuvar con el archivo municipal en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las dependencias, entidades y unidades administrativas;
+IV.- Difundir entre los usuarios, los beneficios del manejo público de la información;
 
-V.- Vigilar y, en caso de incumplimiento, hacer las recomendaciones a las dependencias, entidades y unidades administrativas para que se dé cumplimiento a lo dispuesto en el Artículo 7 de este ordenamiento;
+V.- Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de este reglamento;
 
-VI.- Orientar y asesorar a los usuarios acerca de las solicitudes de acceso a la información;
+VI.- Celebrar acuerdos o programas, con el Instituto de Acceso a la Información Pública del Estado de Guanajuato; o por su conducto, con otros similares;
 
-VII. Elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
+VII. Elaborar sus normas de operación interna; y
 
-VIII.- Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las dependencias y entidades;
+VIII.- Las demás que le confiera el presente reglamento.
 
-IX.- Hacer del conocimiento de la Dirección de Contraloría Municipal, las presuntas infracciones a este Reglamento. Las resoluciones finales que al respecto expida la Contraloría Municipal y que hayan causado estado deberán ser notificadas al Instituto, quien deberá hacerlas públicas a través de su informe anual;
-
-X.- Promover en coordinación con la Ventanilla universal y, en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales;
-
-XI.- Difundir entre los servidores públicos y los usuarios, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquella;
-
-XII.- Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de este reglamento;
-
-XIII.- La celebración de acuerdos o programas con el Instituto Federal de Acceso a la Información Pública y sus similares estatales y municipales;
-
-XIV.- Elaborar sus normas de operación;
-
-XV.- Designar a otros ciudadanos que sin emolumento alguno coadyuven con el Instituto a su cargo;
-
-XVI.- Clasificar discrecionalmente como confidencial o reservada cualquier información que por su naturaleza lesione la moral o transgreda disposiciones de orden público, y;
-
-XVII.- Las demás que le confieran este Reglamento y cualquier otra disposición aplicable.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 30.
 
-El Instituto rendirá anualmente al Ayuntamiento un informe público sobre el acceso a la información, el cual deberá incluir cuando menos:
+El Instituto rendirá anualmente al ayuntamiento un informe público sobre el acceso a la información, el cual deberá incluir cuando menos:
 
 I.- Número de solicitudes de acceso a la información y su resultado;
 
-II.- Tiempos de respuesta;
+II.- Tiempos de respuesta; y
 
-III.- Asuntos atendidos por el Instituto;
-
-IV. Estado que guardan las denuncias presentadas ante la dependencia competente, que se susciten en el ámbito de competencia del presente reglamento;
-
-V. Dificultades observadas en el cumplimiento del presente reglamento.
+III.- Dificultades observadas en el cumplimiento del presente reglamento.
 
 ### Capítulo Sexto. Procedimiento de Acceso a la Información
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 31.
 
-Cualquier persona o su representante legal podrá presentar, ante la ventanilla universal, una solicitud de acceso a la información mediante escrito libre o en los formatos que apruebe el Instituto de Transparencia Municipal. La solicitud deberá contener:
+Cualquier persona o su representante legal podrá presentar, ante la Ventanilla Universal, una solicitud de acceso a la información mediante escrito libre o en los formatos que apruebe la propia Ventanilla. La solicitud deberá contener:
 
 I. El nombre del usuario y/o promovente, domicilio u otro medio para recibir notificaciones, como el correo electrónico, así como los datos generales de su representante, en su caso;
 
@@ -443,7 +485,9 @@ Las unidades administrativas, dependencias y entidades municipales sólo estará
 
 El acceso se dará solamente en la forma en que lo permita el documento de que se trate, pero se entregará en su totalidad o parcialmente, a petición del usuario.
 
-En el caso que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+En el caso que la información solicitada por la persona ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos disponibles en Internet o en cualquier otro medio, se le hará saber por escrito la fuente, el lugar y la forma en que puede consultar o reproducir, o adquirir dicha información. Si el usuario insiste, en la solicitud, esta deberá ser tramitada en los términos de este reglamento.
 
 ###### Artículo 34.
 
@@ -455,135 +499,71 @@ Las unidades administrativas, dependencias o entidades municipales podrán entre
 
 La respuesta a la solicitud deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor de veinte días hábiles, contados desde la presentación de aquélla. Además, se precisará el costo y la modalidad en que será entregada la información, atendiendo en la mayor medida de lo posible a la solicitud del usuario.
 
-Excepcionalmente, este plazo podrá ampliarse hasta por un periodo igual cuando existan razones que lo motiven a criterio del Instituto, siempre y cuando estas se le notifiquen con antelación al usuario.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
+Excepcionalmente, este plazo podrá ampliarse hasta por diez días hábiles cuando existan razones que lo motiven, siempre y cuando estas se le notifiquen con antelación al usuario.
 
 Una vez que haya sido notificada por parte de la Ventanilla universal la respuesta de la solicitud de acceso a la información al usuario, ésta deberá entregarse dentro de los diez días hábiles siguientes a que el usuario compruebe haber cubierto el pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 36.
 
-Cuando los documentos no se encuentren en los archivos de la unidad administrativa, dependencia o entidad municipal, ésta deberá remitir al Instituto de Transparencia Municipal la solicitud de acceso y el oficio en donde lo manifieste. El Instituto de Transparencia Municipal analizará el caso y tomará las medidas pertinentes para localizar, en la Unidad Administrativa, Dependencia o Entidad Municipal, el documento solicitado y resolverá en consecuencia. En caso de no encontrarlo, expedirá una resolución que confirme la inexistencia del documento solicitado y notificará al usuario, marcando copia a la Ventanilla Universal y Dirección de Contraloría Interna para que proceda en consecuencia. Dicha notificación deberá realizarse dentro de los 20 días hábiles a que hace referencia el artículo 35 del presente reglamento.
+Cuando los documentos no se encuentren en los archivos de la Unidad Administrativa, dependencia o entidad municipal, ésta deberá remitir a la Ventanilla Universal el oficio donde así lo manifieste en un plazo no mayor de cinco días hábiles. Así mismo, orientará sobre la posible ubicación de la información requerida.
+
+En este caso, la Ventanilla Universal deberá requerir a otras unidades administrativas, dependencias o entidades municipales para localizar la información; mismas que, de ser el caso contestarán en los términos del párrafo anterior.
 
 ###### Artículo 37.
 
 Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, serán públicas. Asimismo, las unidades administrativas, dependencias y entidades municipales deberán poner a disposición del público esta información, en la medida de lo posible a través de medios remotos o locales de comunicación electrónica o tableros de información.
 
+REFORMADO, P.O. 24 DE FEBRERO DE 2004)
+
 ###### Artículo 38.
 
-La ventanilla universal no estará obligada a dar trámite a solicitudes de acceso ofensivas, cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona, o cuando la información se encuentre disponible públicamente.
-
-En este caso, deberán indicar al solicitante el lugar donde se encuentra la información.
+La Ventanilla Universal no estará obligada a dar trámite a solicitudes de acceso ofensivas, cuando hayan entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona.
 
 ###### Artículo 39.
 
-El solicitante a quien se le haya notificado la negativa de acceso a la información, podrá interponer, por sí mismo o a través de su representante legal, el recurso de revisión ante el Instituto de Transparencia Municipal o ante la ventanilla universal, dentro de los ocho días hábiles siguientes a la fecha de la notificación: La ventanilla universal deberá remitir el asunto al Instituto al día siguiente de haberlo recibido.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 40.
 
-El recurso también procederá en los mismos términos cuando:
-
-I. La unidad administrativa, dependencia o entidad municipal no entregue al solicitante los datos personales solicitados, o lo haga en contravención a lo dispuesto en este Reglamento;
-
-II. La unidad administrativa, dependencia o entidad municipal se niegue a efectuar modificaciones o correcciones a los datos personales;
-
-III. El usuario no este conforme con la clasificación de la información solicitada;
-
-IV. El usuario no este conforme con la modalidad de entrega; o
-
-V. El usuario considere que la información entregada es incompleta o no corresponda a la información requerida en la solicitud.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 41.
 
-El Instituto subsanará las deficiencias de los recursos interpuestos por los particulares. Asimismo, deberá proporcionar un servicio de apoyo a los interesados para que puedan presentar el recurso.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 42.
 
-La falta de respuesta a una solicitud de acceso, en el plazo señalado en el Artículo 35 de este Reglamento, se entenderá resuelta en sentido negativo, por lo que, transcurrido es plazo, el solicitante podrá interponer el recurso ante el Instituto de Transparencia Municipal.
-
-En este caso, el usuario deberá adjuntar a su recurso copia de la solicitud en la que conste la fecha de su presentación ante la Ventanilla universal, además de los requisitos señalados en el próximo artículo.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 43.
 
-El escrito de interposición del recurso de revisión deberá contener:
-
-I. La fecha en que presentó la solicitud ante la Ventanilla universal;
-
-II. El nombre del recurrente y del tercero interesado si lo hay, así como el domicilio o medio que señale para recibir notificaciones;
-
-III. La fecha en que se le notificó o tuvo conocimiento del acto reclamado;
-
-IV. El acto en que se recurre y los puntos petitorios;
-
-V. Los argumentos y hechos que funden y motiven sus pretensiones;
-
-VI. La copia de la resolución que se impugna y, en su caso, de la notificación correspondiente; y
-
-VII. Los demás elementos de prueba que considere procedente someter a juicio del Instituto.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 44.
 
-El Instituto sustanciará el recurso de revisión conforme a los lineamientos siguientes:
-
-I. Interpuesto el recurso, el Presidente del Instituto, lo turnará al Comisionado ponente, quien deberá, dentro de los treinta días hábiles siguientes a la interposición del recurso, integrar el expediente y presentar un proyecto de resolución al Pleno del Instituto;
-
-II. El Pleno del Instituto podrá determinar la celebración de audiencias con las partes;
-
-III. Durante el procedimiento deberá aplicarse la suplencia de la queja a favor del recurrente y asegurarse de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones, así como formular sus alegatos;
-
-IV: Mediante solicitud del interesado podrán recibirse, por vía electrónica, las promociones y escritos;
-
-V. El Pleno resolverá, en definitiva, dentro de los veinte días hábiles siguientes en que se presentó el proyecto de resolución; y
-
-VI: Las resoluciones del Pleno serán públicas.
-
-Cuando haya causa justificada, el Pleno del Instituto podrá ampliar por un periodo igual, y hasta por una vez, los plazos establecidos en las fracciones I y V de este Artículo.
-
-La información reservada o confidencial que, en su caso, sea solicitada por el Instituto por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 45.
 
-Las resoluciones del Instituto podrán:
-
-I. Desechar el recurso por improcedente o bien, sobreseerlo;
-
-II. Confirmar la resolución de la Ventanilla universal; o
-
-III. Revocar o modificar las decisiones de la Ventanilla universal y ordenar a la unidad administrativa, dependencia o entidad municipal que permita al usuario el acceso a la información solicitada o a los datos personales; que reclasifique la información o bien, que modifique tales datos.
-
-Las resoluciones, que deberán ser por escrito, establecerán los plazos para su cumplimiento, los cuales no podrán ser mayores de 15 días hábiles, y los procedimientos para asegurar la ejecución.
-
-En caso de negativa en la ejecución de la resolución del Instituto, por parte de la unidad administrativa, dependencia o entidad municipal, el Instituto deberá notificar a la Contraloría Municipal para que proceda conforme a derecho.
-
-Si el Instituto no resuelve en el plazo establecido en esta Ley, la resolución que se recurrió se entenderá confirmada.
-
-Cuando el Instituto determine durante la substanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento a la Contraloría Municipal, para que ésta inicie, en su caso, el procedimiento de responsabilidad que corresponda.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 46.
 
-El recurso será desechado por improcedente cuando:
-
-I. Sea presentado, una vez transcurrido el plazo señalado en el Artículo 39 de este Reglamento;
-
-II. El Instituto haya conocido anteriormente el recurso respectivo y resuelto en definitiva;
-
-III. Se recurra una resolución que no haya sido emitida por la Ventanilla universal o que no sea materia de acceso a la información; o
-
-IV. Ante los tribunales jurisdiccionales o arbitrales se esté tramitando algún recurso o medio de defensa que verse sobre el mismo asunto y que haya sido interpuesto por el recurrente.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
 ###### Artículo 47.
 
-El recurso será sobreseído cuando:
+(DEROGADO, P.O. 24 DE FEBRERO DE 2004)
 
-I. El recurrente se desista expresamente del recurso;
-
-II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
-
-III. Cuando admitido el recurso de impugnación, aparezca alguna causal de improcedencia en los términos del presente reglamento; o
-
-IV. La unidad administrativa, dependencia o entidad municipal responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 48.
 
-Las resoluciones del Instituto serán definitivas. Cualquier autoridad que para uso oficial deba tener acceso a información clasificada como reservada o confidencial, tiene la obligación de mantenerla con ese carácter y no ponerla a disposición de cualquier persona.
+Cualquier autoridad que para uso oficial deba tener acceso a información clasificada como reservada o confidencial, tiene la obligación de mantenerla con ese carácter y no ponerla a disposición de cualquier persona.
 
 ### Capítulo Séptimo. Responsabilidades y Sanciones
 
@@ -601,7 +581,9 @@ II. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitud
 
 III. Denegar intencionalmente información no clasificada como reservada o no considerada confidencial conforme a este Reglamento;
 
-IV. Clasificar como reservada, con dolo, información que no cumple con las características señaladas en este Reglamento y los lineamientos y criterios emitidos por el Instituto y el archivo municipal. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información del Instituto, o las instancias correspondientes;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2004)</small>
+
+IV. Clasificar como reservada, con dolo, información que no cumple con las características señaladas en este Reglamento y demás leyes aplicables;
 
 V. Entregar información considerada como reservada o confidencial conforme a lo dispuesto por esta Ley;
 
@@ -644,3 +626,13 @@ Presidente Municipal
 José Jesús Correa Ramírez
 
 Secretario del H. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2004.
+
+Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+Segundo.- El Presidente Municipal propondrá desde luego, al Ayuntamiento el nombramiento del Titular de la Ventanilla Universal, debiendo iniciar sus funciones a partir de la fecha de su designación, asimismo deberá notificarlo a la Contraloría Municipal que a su vez deberá publicar en los tableros de la Presidencia Municipal, su domicilio, horarios y funcionarios encargados. La conformación de las estructuras a que se refiere esta disposición deberá realizarse con los recursos humanos, materiales y presupuestarios y asignados por lo que no deberán implicar erogaciones adicionales. Los particulares podrán presentar las solicitudes de acceso a la información pública o de acceso y corrección de datos personales a partir del 31 de agosto del año 2004.
+
+Tercero.- Quedan sin efecto las demás disposiciones que se opongan al presente decreto.
