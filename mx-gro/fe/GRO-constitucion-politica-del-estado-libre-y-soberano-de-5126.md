@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1956-05-31"
+last_updated: "1958-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1958.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -477,11 +477,11 @@ En los períodos intermediarios entre los de sesiones ordinarias, o sea en los r
 
 El Congreso tendrá sesiones extraordinarias cuando así lo demanden la naturaleza, urgencia y gravedad de los negocios a juicio de la Diputación Permanente o del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1955)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1958)</small>
 
 ###### Artículo 46.
 
-Al iniciarse el primer período de sesiones, o sea el día primero de marzo de cada año, el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado de la Gestión Administrativa realizada durante el año anterior, a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
+Un mes después de iniciado el Primer Período de Sesiones, o sea el día primero de abril de cada año, el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado, relativo a la Gestión Administrativa realizada durante los doce meses anteriores, a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1560,3 +1560,7 @@ DECRETO NUMERO 84.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1958.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
