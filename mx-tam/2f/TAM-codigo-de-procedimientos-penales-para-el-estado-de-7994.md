@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2000-04-19"
+last_updated: "2001-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -757,9 +757,9 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2001)</small>
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refieren la segunda parte del artículo 159 y el artículo 160; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores en los casos del segundo párrafo del Artículo 193 y en el artículo 195; tortura previsto por el artículo 213; cohecho previsto por los artículos 216 en relación con el 217 fracción II; peculado previsto por los artículos 218 en relación con el artículo 219 fracción II; concusión previsto por los artículos 220 en relación con el 221 fracción II; uso indebido de atribuciones y facultades previsto por los artículos 222 en relación con el 223 fracción II; ejercicio abusivo de funciones previsto por los artículos 226 en relación con el 227 fracciones II y III; enriquecimiento ilícito previsto por los artículos 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en los artículos 313 en relación con el 314 y 315; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto en los artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353 y 354; secuestro previsto en el artículo 391 exceptuando el caso contemplado en el artículo 392; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del Artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 fracción I, y 411; extorsión previsto por el artículo 426; y daño en propiedad en los casos previstos por el artículo 435, todos del Código Penal para el Estado de Tamaulipas.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el Artículo 143; evasión de presos previsto por el Artículo 158 en los casos a que se refieren la segunda parte del Artículo 159 y el Artículo 160; ataques a los medios de transporte previsto por el Artículo 174; corrupción de menores en los casos del segundo párrafo del Artículo 193 y en el Artículo 195; tortura previsto por el Artículo 213; cohecho previsto por los Artículo 216 en relación con el 217 Fracción II; peculado previsto por los Artículos 218 en relación con el Artículo 219 Fracción II; concusión previsto por los Artículos 220 en relación con el 221 Fracción II; uso indebido de atribuciones y facultades previsto por los Artículos 222 en relación con el 223 Fracción II; ejercicio abusivo de funciones previsto por los Artículos 226 en relación con el 227 Fracciones II y III; enriquecimiento ilícito previsto por los Artículos 230 en relación con el 231 Fracción III; violación previsto en los Artículos 273, 274, 275, 276 y 277; asalto previsto en los Artículos 313 en relación con el 314 y 315; lesiones previsto por el Artículo 319 en relación con el 322 Fracción III; homicidio culposo previsto por el Artículo 318; homicidio previsto en los Artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353 y 354; secuestro previsto en el Artículo 391, exceptuando el caso contemplado en el Artículo 392; robo previsto por el Artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los Artículos 405, 406, 407 Fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del Artículo 402 Fracción I; 410 exceptuando de este el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 Fracción I, 411; extorsión previsto por el Artículo 426; despojo de cosas inmuebles o de aguas, previsto por el Artículo 427, cuando se realice en las circunstancias previstas en la Fracción IV; y daño en propiedad en los casos previstos por el Artículo 435, todos del Código Penal para el Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
 
@@ -2193,7 +2193,7 @@ Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de
 
 ###### ARTICULO 319.
 
-El Tribunal, con vista del aviso a que se refiere el Artículo anterior podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
+El Tribunal, con vista del aviso a que se refiere el Artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -2673,7 +2673,7 @@ El recurso podrá interponerse verbalmente o por escrito, dentro de los tres dí
 
 ###### ARTICULO 388.
 
-Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segunda instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que conste la naturaleza y estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas po las que señalen las partes y en su caso por el promovente.
+Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segunda instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que conste la naturaleza y estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas por las que señalen las partes y en su caso por el promovente.
 
 ###### ARTICULO 389.
 
@@ -4096,3 +4096,9 @@ P.O. 19 DE ABRIL DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
