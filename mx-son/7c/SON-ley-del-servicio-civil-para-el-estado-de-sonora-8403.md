@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "1983-01-03"
+last_updated: "1992-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -43,9 +43,11 @@ LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
 Esta ley es de observancia general para los trabajadores del servicio civil y para los titulares de todas las entidades y dependencias públicas en que prestan sus servicios.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 2o.
 
-Servicio civil es el trabajo que se desempeña en favor del Estado, de los municipios, de las instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Sistema Estatal para el Desarrollo Integral de la Familia, Juntas para el Progreso y Bienestar, Comités de Caminos Vecinales; así como de los otros organismos descentralizados, cuando las leyes que rijan su funcionamiento así lo dispongan.
+Servicio civil es el trabajo que se desempeña en favor del Estado, de los municipios, de las instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Sistema Estatal para el Desarrollo Integral de la Familia; así como de los otros organismos descentralizados, cuando el ordenamiento jurídico de su creación así lo disponga.
 
 ###### ARTICULO 3o.
 
@@ -63,15 +65,21 @@ I.- Al servicio del Estado:
 
 a) En el Poder Ejecutivo:
 
-El Secretario y el Subsecretario de Gobierno; los Directores Ejecutivos del Desarrollo Económico y Social y de Asuntos Rurales; el Oficial Mayor; el Tesorero, el Subtesorero y el Cajero General; los agentes y subagentes fiscales; los recaudadores de rentas y los auditores o inspectores fiscales; los presidentes, secretarios y actuarios de las Juntas Locales de Conciliación y Arbitraje; los magistrados, secretarios y actuarios del Tribunal Contencioso Administrativo; el Procurador y el Subprocurador General de Justicia; el Secretario General de la Procuraduría, los agentes y subagentes del Ministerio Público, así como sus secretarios; el cuerpo de defensores de oficio; el Secretario Particular del Gobernador y el personal a su servicio; los ayudantes personales y agentes confidenciales del Gobernador; en la Dirección de Educación Pública, el Director, el Secretario y los jefes de departamento y de sección; los oficiales del registro civil y encargados del Registro Público de la Propiedad y de Comercio; los miembros de la Policía Judicial del Estado y el personal de vigilancia de los centros de prevención y readaptación social; los médicos legistas; los procuradores e inspectores del trabajo; y en general, los directores, subdirectores, jefes y subjefes de departamento, secretarios generales, administradores o vocales administrativos, contadores, coordinadores, asesores y delegados.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios y Subsecretarios; el Pagador General; los Agentes y Subagentes Fiscales; los Recaudadores de Renta y los Auditores e Inspectores Fiscales; los Presidentes, Secretarios y Actuarios de las Juntas Locales de Conciliación y de Conciliación y Arbitraje; el Magistrado, Secretarios y Actuarios del Tribunal de lo Contencioso Administrativo; el Procurador General de Justicia del Estado y Subprocuradores; Agentes del Ministerio Público, así como sus Secretarios; el cuerpo de Defensores de Oficio; el Secretario Particular del Gobernador y el personal a su servicio; los ayudantes personales del Gobernador; los Oficiales del Registro Civil y los Encargados de las Oficinas del Registro Público de la Propiedad; los miembros de la Policía Judicial del Estado y el personal de vigilancia de los Centros de Prevención y Readaptación Social y del Consejo Tutelar para Menores; los Médicos Legistas e integrantes de los servicios periciales; los Procuradores e Inspectores del Trabajo; el personal secretarial que esta a cargo de los Directores Generales, Subdirectores, Secretarios del ramo y demás funcionarios análogos en ese nivel; los Directores, Subdirectores, Secretarios Generales, Administradores y Vocales Administrativos, Contadores, Coordinadores, Asesores y Delegados, Secretarios Particulares y sus Auxiliares, Jefes de Ayudantes, Secretarios Privados, Jefes de Departamento y de Sección y, en general, todos aquellos funcionarios o empleados que realicen labores de inspección, auditoría, supervisión, fiscalización, mando y vigilancia o que por la índole de sus actividades laboren en contacto directo con el titular del Ejecutivo, o con los titulares de las dependencias.
 
 b) En el Poder Legislativo:
 
-El Oficial Mayor y el Contador Mayor de Glosa.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El Oficial Mayor, Contador Mayor de Hacienda, Directores, Subdirectores, Jefes de Departamento y personal de la Contaduría Mayor de Hacienda.
 
 c) En el Poder Judicial:
 
-Los secretarios general y auxiliares del Supremo Tribunal de Justicia; los secretarios proyectistas adscritos a los Magistrados; los jueces de primera instancia, locales y menores y los secretarios y actuarios de juzgado.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios General y Auxiliares del Supremo Tribunal de Justicia y de las Salas Regionales; los Secretarios Proyectistas adscritos a los Magistrados; los Jueces de Primera Instancia y Locales; los Secretarios y Actuarios de Tribunal y de Juzgado; los Oficiales de Partes y los Archivistas; el Oficial Mayor del Supremo Tribunal; Directores, Subdirectores, Jefes de Departamento y el personal de apoyo administrativo y asesoría de los Magistrados y Jueces.
 
 II.- Al servicio de los municipios:
 
@@ -79,7 +87,9 @@ El Secretario del Ayuntamiento, el Oficial Mayor, el Tesorero Municipal, el cont
 
 III.- Al servicio de otras entidades públicas:
 
-Los secretarios generales; directores, subdirectores, jefes y subjefes de dependencias o departamentos; gerentes, auditores, tesoreros, cajeros, pagadores y en general, los que disponga la ley que rija el organismo de que se trate.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios Generales; Directores, Coordinadores, Subdirectores, Jefes y Subjefes de Departamento; Gerentes, Auditores, Tesoreros, Cajeros, Pagadores, y, en general, los que disponga el ordenamiento jurídico que rija el organismo de que se trate.
 
 IV.- Los demás que se determinen en otras leyes.
 
@@ -493,9 +503,11 @@ Para la defensa de sus intereses comunes o el mejoramiento de las condiciones ge
 
 Las coaliciones de trabajadores únicamente podrán formalizarse en sindicatos, constituidos por un número de veinte trabajadores o más.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 61.
 
-En los tres Poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de maestros como organización autónoma especializada. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
+En los tres poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de trabajadores de la educación. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
 
 ###### ARTICULO 62.
 
@@ -1080,3 +1092,13 @@ Firmado.
 B.O. 3 DE ENERO DE 1983.
 
 UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
