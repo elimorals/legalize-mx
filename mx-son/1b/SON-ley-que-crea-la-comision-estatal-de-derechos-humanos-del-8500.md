@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "2003-12-15"
+last_updated: "2005-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2005.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -179,9 +179,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones a los Visitadores, en los términos del Reglamento Interno;
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2005)</small>
 
-V.- Presentar directamente un informe anual al Congreso del Estado y al Titular del Poder Ejecutivo Estatal sobre las actividades de la Comisión, o en su caso, cuando éstos se lo requieran oportunamente;
+V.- Presentar directamente un informe anual al Congreso del Estado y a los titulares de los poderes Ejecutivo y Judicial sobre las actividades de la Comisión;
 
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -199,33 +199,55 @@ Tanto el Presidente de la Comisión, como los Visitadores y los Visitadores adju
 
 ### CAPITULO III. DE LA INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 18.
 
-El Consejo a que se refiere el artículo 6 de esta ley, estará integrado por siete personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos cuatro de entre ellos, no deben desempeñar ningún cargo, empleo o comisión como servidor público.
+El Consejo a que se refiere el artículo 6 de esta Ley estará integrado por el Presidente de la Comisión y seis personas de prestigio reconocidas en la sociedad sonorense, que sean mexicanos en ejercicio pleno de sus derechos ciudadanos y que no desempeñen cargo, empleo o comisión como servidores públicos.
 
-El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, cada dos años deberán ser substituidos dos miembros del Consejo de mayor antigüedad.
+El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, cada dos años deberán ser sustituidos los dos miembros del Consejo de mayor antigüedad.
+
+El Consejo contará con un Secretario Técnico que será designado por los propios consejeros a propuesta del Presidente de la Comisión.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 19.
 
-El nombramiento de los miembros del Consejo será hecho por el titular del Poder Ejecutivo Estatal, valorando previamente las opiniones de la sociedad sonorense para la integración de dicho Consejo, y posteriormente someterlo a la aprobación del Congreso del Estado.
+El nombramiento de los miembros del Consejo será formulado por el Titular del Poder Ejecutivo sometiéndolo a la ratificación del Congreso. Para dicho particular se efectuarán las designaciones correspondientes procurando un equilibrio entre las diversas regiones y actividades del Estado en relación con trayectorias de honorabilidad y presencia en los ámbitos del ejercicio ciudadano.
 
-El Consejo contará con un Secretario Técnico, quien será designado por el propio Consejo a propuesta del Presidente de la Comisión.
+Si el Congreso niega total o parcialmente la ratificación precitada, permanecerán en el cargo el o los consejeros que no se hayan substituido, hasta por tres meses adicionales, en cuyo lapso el Gobernador formulará nuevas propuestas para el efecto de la integración correspondiente.
+
+Si el Titular del Poder Ejecutivo dejare de formular los nombramientos que se indican en este artículo dentro de un plazo de treinta días posterior al vencimiento de las designaciones que deben ser substituidas, el Congreso del Estado lo requerirá para que presente dichos nombramientos dentro de los siete días siguientes a la notificación respectiva y, si pasare este plazo sin respuesta del Gobernador, el Congreso hará el nombramiento directamente.
+
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 20.
 
-El Consejo de la Comisión tendrá las siguientes facultades:
+El Consejo de la Comisión tendrá las siguientes atribuciones:
 
-I.- Establecer los lineamientos generales de actuación de la Comisión;
+I.- Definir anualmente, a propuesta del Presidente, y revisar cuando lo considere prudente, los lineamientos generales que regirán la actuación de la Comisión durante dicho período, con especificación de las acciones que se consideren prioritarias para la protección de los derechos humanos y las estrategias que deban implementarse para atenderlos, así como la designación de los funcionarios de la Comisión que deberán asumir las responsabilidades correspondientes.
 
-II.- Aprobar el Reglamento Interno de la Comisión;
+II.- Conocer mensualmente el informe que deberá rendir el Presidente sobre los avances de las estrategias referidas en la fracción anterior.
 
-III.- Aprobar las normas de carácter interno relacionadas con la Comisión;
+III.- Conocer mensualmente un informe ejecutivo que deberá rendir el Presidente sobre el estado de las quejas de violación de derechos humanos que se encuentran en trámite.
 
-IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión presente al Congreso del Estado y al titular del Poder Ejecutivo Estatal;
+IV.- Obtener del Presidente, en cualquier momento, toda clase de información sobre los asuntos que se encuentran en trámite o haya resuelto la Comisión.
 
-V.- Solicitar al Presidente de la Comisión información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
+V.- Recibir anualmente un informe general que deberá rendir el Presidente sobre el cumplimiento de las estrategias referidas en la fracción I de este artículo, junto a una evaluación de los costos que haya generado su ejecución.
 
-VI.- Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal.
+VI.- Conocer anualmente el informe que deberá rendir el Presidente sobre el ejercicio presupuestal respectivo junto con opinión de auditor externo sobre dicho gasto, así como recibir, por trimestres vencidos dentro de los treinta días siguientes a cada trimestre natural, información detallada sobre los avances del mismo.
+
+VII.- Opinar sobre el proyecto del informe que el Presidente deberá rendir anualmente ante los tres poderes del Estado, debiendo incluirse en dicho informe, en apartado específico y separado, cualquier opinión contraria al mismo que sea sostenida por un mínimo de tres consejeros.
+
+VIII.- Opinar previamente sobre el nombramiento o remoción del titular de la Secretaría Ejecutiva y los visitadores.
+
+IX.- Opinar previamente a su resolución, sobre aquellos casos que por su importancia o trascendencia, a juicio del Presidente o de los consejeros, pueden generar consecuencias especiales en la consolidación de la cultura de los derechos humanos.
+
+X.- Aprobar, revisar y modificar el reglamento interior y todas las normas administrativas de carácter interno de la Comisión.
+
+El Presidente de la Comisión deberá remitir mensualmente al Congreso para su conocimiento, copia certificada de la o las actas y documentos relacionados con las sesiones que sean celebradas en cumplimiento de las atribuciones referidas en las fracciones II y III de este artículo.
+
+Para los efectos del informe que debe rendir el Presidente de la Comisión ante los tres poderes del Estado según se previene en la fracción VI de este artículo, durante la primera semana del mes de febrero de cada año se celebrará sesión pública solemne en el recinto del Congreso con la presencia de los diputados, el Gobernador y el Presidente del Supremo Tribunal de Justicia del Estado. El día y hora de dicha sesión serán determinados por el Congreso o la Diputación Permanente, según sea el caso, que comunicará lo conducente a los titulares de los otros dos poderes con un mínimo de cinco días de anticipación.
 
 ###### ARTICULO 21.
 
@@ -441,11 +463,13 @@ La Comisión notificará inmediatamente a los quejosos los resultados de la inve
 
 El Presidente de la Comisión deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad emitidos por la Comisión. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 53.
 
-El Presidente de la Comisión deberá presentar directamente un informe anual, tanto al Congreso del Estado, como al Titular del Ejecutivo Estatal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El informe previsto por los artículos 16, fracción V y 20, fracción VII, de la presente Ley será difundido en la forma más amplia posible para conocimiento de la sociedad.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1998)</small>
 
 En el caso del Congreso del Estado, dicho informe deberá presentarse personalmente por el Presidente de la Comisión Estatal de Derechos Humanos, a través de las Comisiones de Justicia y Derechos Humanos de ese Organo Legislativo, quiénes resolverán el procedimiento de análisis y evaluación correspondiente, con sujeción a su propia normatividad interior.
 
@@ -592,3 +616,13 @@ B.O. 15 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de quince días hábiles a partir del inicio de la vigencia del presente Decreto, el Titular del Poder Ejecutivo deberá remitir al Congreso del Estado los nombres de las seis personas que se propongan para integrar al Consejo de la Comisión Estatal de Derechos Humanos en substitución de los que actualmente desempeñan dichos cargos, y en su caso, ratificados que fueren los correspondientes nombramientos, las personas que resulten designadas resolverán por sorteo, ante la presencia del Presidente de la Comisión, el orden en que serán substituidos para cumplir con la forma escalonada de dos, cuatro y seis años de las subsecuentes designaciones en los términos del artículo 18 de la ley, comunicándose lo conducente tanto al titular del Poder Ejecutivo como al Congreso del Estado. Si concluye dicho plazo de quince días sin recibirse la propuesta del Gobernador, el Congreso procederá en los términos del último párrafo del artículo 19 de la ley.
