@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2002-02-11"
+last_updated: "2002-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -1065,13 +1065,13 @@ Dentro de los ocho días siguientes al examen, el Pleno designará como servidor
 
 El Fondo Auxiliar para la Impartición de Justicia se constituye con:
 
-I. Las cauciones que garanticen la libertad provisional de los indiciados y procesados, ante la Sala y Juzgados Penales;
+I. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
-II. Las sanciones pecuniarias que se decreten por las autoridades jurisdiccionales del Estado;
+II. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
-III. Las cantidades que se deriven por concepto de conmutación de la pena de prisión;
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
-IV. Las cauciones que garanticen los beneficios de libertad anticipada de los sentenciados en los términos de Ley;
+IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
 V. Los rendimientos que se generen por los depósitos que se efectúen ante el Fondo;
 
@@ -1079,7 +1079,7 @@ VI. El producto de la venta de los instrumentos del delito que sean decomisados,
 
 VII. El producto de la venta de los muebles y valores depositados por cualquier motivo ante la autoridad judicial, que no fueren retirados por quien tenga derecho a ellos dentro del término de un año, computado a partir de la fecha en que se le notifique al interesado la posibilidad de solicitar su devolución;
 
-VIII. El monto de la reparación del daño cuando la parte ofendida renuncie al mismo o no lo reclame dentro del término de un año a partir de la fecha en que tenga derecho a obtenerlo, siempre que le hubiere sido notificado. Los Jueces declararán de oficio que el monto de la reparación del daño pasa a formar parte del fondo auxiliar, si la parte ofendida renuncia a ella o a su reclamación dentro del plazo legal al efecto establecido;
+VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2002)
 
 IX. El pago de los derechos por la publicación de inserciones en el Boletín Judicial, así como de los productos por la venta de sus ejemplares y de los de la revista del Poder Judicial;
 
@@ -1093,17 +1093,25 @@ XII. Los demás que señalen las Leyes y reglamentos.
 
 La Comisión de Gobierno Interno y Administración del Poder Judicial se encargará de la administración del Fondo Auxiliar para la Impartición de Justicia, el que se ejercerá bajo criterios de estricta racionalidad, disciplina fiscal, contabilidad, evaluación, información periódica, auditoría y control de gestión que dispongan las Leyes de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2002)</small>
+
 ### Capítulo Primero. Del Régimen Laboral
 
 ###### Artículo 102.
 
-Los depósitos se harán precisamente en la cuenta bancaria del Fondo. Para tal efecto en todas las oficinas del Poder Judicial se colocarán los avisos respectivos.
+Los depósitos se harán en la cuenta bancaria del Fondo Auxiliar para la Impartición de Justicia. Para tal efecto en todas las oficinas del Poder Judicial se colocarán los avisos respectivos.
 
-En materia penal, suspensiones y de alimentos, así como en los demás casos urgentes, el depósito podrá hacerse ante la propia autoridad judicial del conocimiento, quien bajo su estricta responsabilidad lo enterará en la Institución Bancaria correspondiente, a más tardar el día hábil siguiente, dando cuenta a la superioridad de este hecho.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
 
-En tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por la Comisión; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
+En materia de suspensiones, alimentos, así como en los demás casos urgentes, el depósito podrá hacerse ante la propia autoridad judicial del conocimiento, quien bajo su estricta responsabilidad lo enterará en la Institución Bancaria correspondiente, a más tardar el día hábil siguiente, dando cuenta a la superioridad de este hecho.
 
-Los depósitos en consignación, cuando fueren en numerario, se harán directamente por el interesado en la cuenta bancaria del Fondo Auxiliar de la Justicia y el comprobante del mismo, se deberá exhibir en el expediente que corresponda.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de fianzas no personales, sólo se admitirán cauciones o garantías a través de pólizas expedidas por las casas afianzadoras expresamente autorizadas por la Comisión; en ningún caso admitirán consignaciones hechas a través de otra Institución distinta del Fondo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Los depósitos en consignación, cuando fueren en numerario, se harán directamente por el interesado en la cuenta bancaria del Fondo Auxiliar para la impartición de Justicia y el comprobante del mismo, se deberá exhibir en el expediente que corresponda.
 
 Para que surta sus efectos la suspensión que se otorgue bajo condición de exhibir cantidad determinada, se estará al párrafo anterior.
 
@@ -1299,11 +1307,11 @@ El Pleno conocerá excepcionalmente de los recursos de reclamación que se hayan
 
 Se derogan los incisos a), b) y c) del Artículo 2° del Decreto número 130, expedido por este Congreso, que crea el Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado con fecha nueve de enero de mil novecientos noventa y ocho.
 
-> <small>(F. DE E., P.O. 12 DE ENERO DE 2002)</small>
+> <small>N. DE E. DEROGADO EL ARTICULO DECIMO PRIMERO DEL PUNTO DE ACUERDO QUE CONTIENE LA FE DE ERRATAS, PUBLICADA CON FECHA 12 DE ENERO DE 2002, POR LO CUAL EL CONTENIDO DEL PRESENTE CORRESPONDE A LA LEY EN SU TEXTO ORIGINAL, PUBLICADO EN EL P.O. 10 DE ENERO DE 2002.</small>
 
 ###### ARTICULO DECIMO PRIMERO.
 
-El Consejo Técnico del Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados remitirá al Fondo Auxiliar para la Administración de la Justicia, los recursos financieros que a la fecha de entrada en vigencia de esta Ley, tenga bajo su custodia, derivados de la caución a que se refiere el inciso c) del Artículo 2 del Decreto Número 130, aprobado por el Congreso del Estado, con fecha diez de enero de mil novecientos noventa y ocho; y los recursos financieros por conceptos de multas y conmutaciones enumerados en los incisos a) y b) respectivamente, del citado Artículo 2, y que tenga en su poder el Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados, se transferirán al citado Fondo Auxiliar el día uno de enero del dos mil tres. El Ejecutivo del Estado presupuestará para el ejercicio fiscal del año dos mil tres, los recursos financieros necesarios para la consecución de los fines de ese fondo.
+La Comisión Estatal de Derechos Humanos remitirá al Fondo Auxiliar para la Administración de la Justicia, los recursos financieros que a la fecha de entrada en vigencia de esta Ley, tenga bajo su custodia, derivados de los conceptos a que se refieren los incisos.
 
 ###### ARTICULO DECIMO SEGUNDO.
 
@@ -1350,3 +1358,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 La Gran Comisión y la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos, programarán dentro de este periodo ordinario de sesiones, las actividades de tendientes a reformar y adicionar la Ley Orgánica del Poder Judicial necesarias.
+
+P.O. 19 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las cauciones que garanticen la libertad provisional de los indiciados y procesados, las sanciones pecuniarias que se decreten por las autoridades jurisdiccionales del Estado, las cantidades que se deriven por concepto de conmutación de la pena de prisión, las cauciones que garanticen los beneficios de libertad anticipada de los sentenciados, y el monto de la reparación del daño cuando la parte ofendida renuncie al mismo o no la reclame dentro del término de un año a partir de la fecha en que tenga derecho a obtenerlo, siempre que le hubiere sido notificado, se depositarán ante la cuenta bancaria del Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Artículo Décimo Primero del Punto de Acuerdo que contiene la Fe de Erratas, publicada con fecha 12 de enero del 2002, en el Periódico Oficial del Gobierno del Estado, Tomo LXXXI, Segunda época, Número Extraordinario.
