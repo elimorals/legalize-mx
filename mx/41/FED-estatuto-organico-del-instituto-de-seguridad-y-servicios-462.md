@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1995-05-30"
+last_updated: "1995-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 1995.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -106,7 +106,7 @@ A).- Organos de Gobierno:
 
 - Comisión de Vigilancia.
 
-> <small>(REFORMADO, D.O.F. 12 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
 B).- Unidades Administrativas:
 
@@ -138,19 +138,29 @@ B).- Unidades Administrativas:
 
 - Coordinación General de Atención al Derechohabiente
 
-- Fondo de la Vivienda.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
-- Delegaciones.
+C) Organos Desconcentrados
 
-> <small>(ADICIONADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)</small>
+- Fondo de la Vivienda
 
--Centro Médico Nacional "20 de Noviembre".
+- Delegaciones
 
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1995)</small>
+- Centro Médico Nacional "20 de Noviembre"
 
 - Hospitales Regionales
 
-C).- Comisión Interna de Administración y Programación.
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+- Sistema Integral de Tiendas y Farmacias
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+- Gerencias Regionales
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+D) Comisión Interna de Administración y Programación
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
@@ -774,27 +784,7 @@ XXI.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
-La Subdirección General de Protección al Salario tendrá las funciones siguientes:
-
-I.- Planear, organizar, normar y controlar la operación y desarrollo del sistema de almacenes, envasadoras y farmacias, observando los lineamientos generales del Plan Nacional de Desarrollo y del Sistema Nacional para el Abasto;
-
-II.- Realizar estudios, proponer y aplicar las normas de los servicios para aumentar la Protección al Salario de los derechohabientes a través de un sistema integral de abasto que en coordinación con los sectores público, social y privado, sirva de vínculo directo entre la producción y el consumo;
-
-III.- Establecer centros de acopio, transporte y distribución así como centros comerciales, tiendas y farmacias en toda la república, previos los estudios que apruebe la Junta;
-
-IV.- Implantar y desarrollar políticas para el integral y oportuno abasto de las diferentes unidades de operación, así como el abatimiento de costo en los productos y servicios;
-
-V.- Instrumentar y observar una política de relaciones comerciales con los productores del campo, especialmente ejidos, comunidades rurales, uniones de crédito y cooperativas, para la adquisición y consumo de su producción, así como con los integrantes de la pequeña y mediana industria, prefiriendo sus productos a los de otros proveedores en igualdad de calidad, servicio y precio;
-
-VI.- Crear, implementar y desarrollar los servicios de normalización, comercialización e información de mercados así como almacenamiento especializado, a fin de que los derechohabientes tengan mayor conocimiento en su decisión de compra;
-
-VII.- Participar en los instrumentos de abasto, observando los lineamientos generales del Sistema Nacional para el Abasto tales como las lonjas y bolsas mercantiles;
-
-VIII.- Crear y desarrollar una política económica que haga llegar a los derechohabientes los artículos y servicios a precios económicos en relación a los vigentes en el mercado;
-
-IX.- Elaborar y adecuar el programa general para el desarrollo del sistema de tiendas conforme a los lineamientos y marco de la planeación nacional, para su aprobación por la Junta; y
-
-X.- Las demás que señalen otras disposiciones aplicables.
+(DEROGADO, D.O.F. 30 DE AGOSTO DE 1995)
 
 > <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
 
@@ -1124,9 +1114,11 @@ VIII.- Las demás que señalen otras disposiciones aplicables.
 
 #### SECCION PRIMERA. DEL FONDO DE LA VIVIENDA
 
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 55.
 
-La administración del Fondo de la Vivienda a cargo del Instituto, tiene por objeto establecer y operar un sistema de financiamiento que permita a los trabajadores incorporados al régimen de la Ley obtener, por una sola vez, crédito barato y suficiente mediante préstamos con garantía hipotecaria sobre inmuebles urbanos, para adquirir, construir, reparar y ampliar o mejorar su vivienda, para el pago del enganche, gastos de escrituración y en su caso la constitución de un fideicomiso de apoyo cuando tenga por objeto la adquisición de viviendas de interés social, amortizar pasivos adquiridos por dichos conceptos, así como coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores, mediante créditos que otorgue el Instituto directamente o con la participación de entidades públicas y/o privadas.
+La administración del Fondo de la Vivienda, como órgano desconcentrado del Instituto, tiene por objeto establecer y operar un sistema de financiamiento que permita a los trabajadores incorporados al régimen de la Ley obtener, por una sola vez, crédito barato y suficiente mediante préstamos con garantía hipotecaria sobre inmuebles urbanos, para adquirir, construir, reparar y ampliar o mejorar su vivienda, para el pago del enganche, gastos de escrituración y en su caso la constitución de un fideicomiso de apoyo cuando tenga por objeto la adquisición de viviendas de interés social, amortizar pasivos adquiridos por dichos conceptos, así como coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores, mediante créditos que otorgue el Instituto directamente o con la participación de entidades públicas y/o privadas.
 
 #### SECCION SEGUNDA. DE LAS DELEGACIONES
 
@@ -1158,15 +1150,9 @@ Su integración, organización y funcionamiento será de conformidad con el Regl
 
 #### SECCION TERCERA. DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE" Y LOS HOSPITALES REGIONALES
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
 
-DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE" Y LOS HOSPITALES REGIONALES
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1995)</small>
-
-###### ARTICULO 59
-
-Bis.- El Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, como unidades administrativas desconcentradas del Instituto, tienen por objeto, el primero, otorgar atención médica integral de alta especialidad, y los segundos, atención médica del tercer nivel a los trabajadores y derechohabientes del mismo, para cuyo efecto contarán con los recursos técnicos y científicos más avanzados acorde a su nivel, que permitan otorgar servicios médicos de excelencia con eficiencia y calidad. La organización, integración y funcionamiento del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, se establecerá conforme a lo que se disponga en los respectivos manuales de organización que al efecto expida el Director General.
+ARTICULO 59 A.- El Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, como unidades administrativas desconcentradas del Instituto, tienen por objeto, el primero, otorgar atención médica integral de alta especialidad, y los segundos, atención médica del tercer nivel a los trabajadores y derechohabientes del mismo, para cuyo efecto contarán con los recursos técnicos y científicos más avanzados acorde a su nivel, que permitan otorgar servicios médicos de excelencia con eficiencia y calidad. La organización, integración y funcionamiento del Centro Médico Nacional "20 de Noviembre" y de los Hospitales Regionales, se establecerá conforme a lo que se disponga en los respectivos manuales de organización que al efecto expida el Director General.
 
 Para su administración y funcionamiento, el Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales, contarán, respectivamente, con un Consejo Directivo, presidido, en el Centro Médico Nacional "20 de Noviembre", por el Director General, y en los Hospitales Regionales, por el servidor público que designe el Director General. Asimismo, se auxiliarán de Consejos Consultivos que, en el Centro Médico Nacional "20 de Noviembre", presidirá el Subdirector General Médico del Instituto, y en los Hospitales Regionales los Subdelegados Médicos.
 
@@ -1215,6 +1201,104 @@ VI. Proponer innovaciones dirigidas a mejorar el modelo asistencial, y el sistem
 VII. Aprobar la instalación de los grupos de trabajo o comisiones para apoyar sus funciones; y
 
 VIII. Las demás que les señalen otros ordenamientos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+#### SECCION CUARTA. DEL SISTEMA INTEGRAL DE TIENDAS Y FARMACIAS Y DE LAS GERENCIAS REGIONALES
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+ARTICULO 59 B.- El Sistema Integral de Tiendas y Farmacias, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, dirigir y normar las acciones de protección del poder adquisitivo del salario de los trabajadores al servicio del estado, mediante la venta de productos básicos y de consumo para el hogar, medicamentos y material de curación, a precios económicos, así como garantizar el abasto oportuno de bienes y servicios de comercialización a los derechohabientes, para lo cual contará con autonomía técnica y operativa, así como con los recursos humanos, materiales y financieros que determine el presupuesto, que le permitan otorgar estas prestaciones sociales a cargo del Instituto, con eficiencia, oportunidad y calidad.
+
+Para la eficaz coordinación, evaluación y control, así como el eficiente despacho de los asuntos de su competencia, el Sistema Integral de Tiendas y Farmacias contará con órganos administrativos desconcentrados que se denominarán Gerencias Regionales, las que estarán jerárquicamente subordinadas al Sistema, y tendrán las facultades específicas que les señala este Estatuto para resolver sobre la materia y dentro del ámbito territorial que se determine.
+
+La estructura orgánica, integración y funcionamiento del Sistema Integral de Tiendas y Farmacias, del Consejo Directivo y de las Gerencias Regionales, se establecerán en los respectivos manuales de organización y de procedimientos que al efecto expida el Director General.
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+ARTICULO 59 C.- Para su administración y funcionamiento, el Sistema Integral de Tiendas y Farmacias contará con un Consejo Directivo, presidido por el Director General.
+
+El Consejo Directivo tendrá respecto del Sistema, las siguientes atribuciones:
+
+I. Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
+
+II. Aprobar los mecanismos de coordinación y colaboración institucionales, así como los de concertación con los sectores público, social y privado, para el cumplimiento de su objeto;
+
+III. Aprobar el programa de desconcentración administrativa del Sistema, y supervisar el debido cumplimiento del mismo;
+
+IV. Definir los objetivos a los que deberá sujetarse en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
+
+V. Aprobar el anteproyecto de Programa Operativo Anual, que especifique los volúmenes de compras de bienes y contratación de servicios para comercialización, abasto y distribución; las ventas que se espere lograr y las unidades responsables de su cumplimiento, así como evaluar sus avances;
+
+VI. Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
+
+VII. Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
+
+VIII. Aprobar los programas anuales de compras de bienes y contratación de servicios, objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
+
+IX. Proponer su estructura orgánica y las modificaciones correspondientes;
+
+X. Aprobar las políticas de comercialización, inversión y administración, que permitan obtener beneficios económicos y financieros con proveedores nacionales y extranjeros;
+
+XI. Aprobar las normas y políticas necesarias, conforme a la legislación aplicable, para asegurar el abasto oportuno de bienes de consumo y servicios, en los centros comerciales, tiendas y farmacias del Instituto, y verificar que éstos se otorguen a precios módicos en relación a los vigentes en el mercado;
+
+XII. Aprobar los lineamientos generales para la suscripción de los convenios y contratos necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de conformidad con las disposiciones legales aplicables y las políticas institucionales;
+
+XIII. Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
+
+XIV. Conocer los informes que rinda el Director del Sistema Integral de Tiendas y Farmacias, y evaluar los resultados en materia de comercialización y administración;
+
+XV. Aprobar los nombramientos de los subdirectores del Sistema y de los titulares de las Gerencias Regionales;
+
+XVI. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo;
+
+XVII. Acordar el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias, en todo el país;
+
+XVIII. Establecer la circunscripción territorial que corresponde a las Gerencias Regionales; y
+
+XIX. Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+ARTICULO 59 D.- El Director del Sistema Integral de Tiendas y Farmacias, tendrá las siguientes funciones:
+
+I. Planear, programar, organizar, dirigir y normar las funciones encomendadas al Sistema Integral de Tiendas y Farmacias;
+
+II. Elaborar el anteproyecto del Programa Operativo Anual y del presupuesto desconcentrado del Sistema, así como integrar los de las Gerencias Regionales, y someterlos a la consideración del Consejo Directivo;
+
+III. Ejecutar los acuerdos del Consejo Directivo e informar sobre su cumplimiento, conforme a las normas y políticas generales del Instituto;
+
+IV. Realizar los estudios e investigaciones necesarios para proponer al Consejo Directivo los proyectos de mejoramiento del Sistema Integral de Tiendas y Farmacias;
+
+V. Elaborar los programas anuales de compras de bienes y contratación de servicios objeto de comercialización, así como de las ventas que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
+
+VI. Proponer al Consejo Directivo, el establecimiento de centros de acopio, transporte y distribución, así como centros comerciales, tiendas y farmacias en todo el país;
+
+VII. Proponer el nombramiento de los subdirectores y de los titulares de las Gerencias Regionales, así como nombrar a los demás empleados del Sistema;
+
+VIII. Formular, proponer y ejecutar el programa de desconcentración administrativa del Sistema, que permita optimizar la distribución y acceso de los bienes y servicios a los derechohabientes;
+
+IX. Coordinar la operación, control y desarrollo de las Gerencias Regionales, conforme a las políticas, normas y lineamientos institucionales;
+
+X. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema Integral de Tiendas y Farmacias, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales; y
+
+XI. Las demás que le confiera el Director General y le señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+
+ARTICULO 59 E.- Las Gerencias Regionales del Sistema Integral de Tiendas y Farmacias, tendrán las siguientes funciones:
+
+I. Planear, supervisar, evaluar, coordinar y controlar las actividades de los centros comerciales, tiendas y farmacias situadas en su ámbito territorial, y formular los programas específicos de operación a que éstas se sujetarán;
+
+II. Vigilar el acondicionamiento, apertura y funcionamiento de las unidades comerciales y farmacias;
+
+III. Recabar y evaluar la información sobre la recepción, existencias, transferencias, ventas y devoluciones de las mercancías, así como sobre las anomalías, problemas y necesidades que se presenten durante la operación;
+
+IV. Informar periódicamente al Director del Sistema sobre el cumplimiento de los programas, objetivos y lineamientos del Sistema e institucionales;
+
+V. Coadyuvar en la realización de estudios de mercado, comportamiento de precios, proveedores y productos a nivel regional, y proponer al Director del Sistema, las soluciones a los problemas y desviaciones que se presenten en la operación de los programas; y
+
+VI. Las demás que señalen otras disposiciones aplicables, y las que le asigne el Director del Sistema.
 
 ### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
 
@@ -1359,3 +1443,13 @@ PRIMERO.- Publíquense en el Diario Oficial de la Federación las presentes refo
 SEGUNDO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- En un plazo de noventa días a partir de la fecha de publicación del presente Acuerdo, deberán expedirse los manuales de organización y procedimientos correspondientes.
+
+D.O.F. 30 DE AGOSTO DE 1995.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor, a los 30 días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Los recursos humanos, materiales y financieros, actualmente asignados a la Subdirección General de Protección al Salario, pasarán, a partir de la fecha de entrada en vigor del presente Acuerdo, a la unidad administrativa desconcentrada Sistema Integral de Tiendas y Farmacias.
+
+CUARTO.- En un plazo de 90 días a partir de la fecha de publicación del presente Acuerdo, deberán expedirse los manuales de organización y de procedimientos correspondientes; y dentro de este mismo plazo, quedar constituido el Consejo Directivo a que se refiere el artículo 59 C.
