@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-15325"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-13"
-last_updated: "2002-11-01"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15325&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-11-30"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 13 de diciembre de 1999.
 
@@ -1851,11 +1851,23 @@ b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servic
 
 ## TITULO SEPTIMO. DE LOS FLUJOS DE INFORMACION
 
-### CAPITULO UNICO. REDES DE INFORMACION Y COLABORACION
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE SEPTIEMBRE DE 2003)</small>
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
+### CAPITULO UNICO. FLUJOS DE INFORMACION, INTERNOS Y EXTERNOS
+
+> <small>(ADICIONADO, D.O.F. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ARTICULO 77
+
+1. La información institucional, que no se difunda en la página de internet del Instituto, será proporcionada por los funcionarios del Instituto de conformidad con las siguientes reglas:
+
+a) (sic)
+
+2. No se aplicará lo dispuesto en el párrafo anterior, a la unidad de Enlace ni al Comité de Información, quienes podrán solicitar directamente al titular o cargo jerárquico inmediato inferior del órgano o área correspondiente, los datos que requieran para el cumplimiento de sus funciones. Estos últimos darán celeridad a su respuesta, con independencia de su rango, en los plazos y términos establecidos por la normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 78
 
 1. El flujo de información, en un mismo rango o de un rango inferior a uno superior, se regulará conforme a las siguientes disposiciones:
 
@@ -1871,15 +1883,17 @@ e) Los órganos técnicos, que requieran información de los órganos ejecutivos
 
 f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran información de órganos de vigilancia de nivel superior, podrán solicitarla directamente a los órganos superiores. Cuando la información que requieran sea de órganos de dirección, ejecutivos o técnicos de nivel superior, deberán solicitarla al Secretario Ejecutivo por conducto del Vocal Ejecutivo correspondiente.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
+2. No resultará aplicable lo dispuesto en el párrafo anterior a la Unidad de Enlace ni al Comité de Información, de conformidad con lo establecido en el párrafo 2 del artículo anterior.
 
-ARTICULO 78
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2003)</small>
 
-1. La información que publiquen los órganos del Instituto se difundirá, además de los medios oficiales escritos, por vía interna y externa.
+ARTICULO 79
 
-2. La información institucional se difundirá, de manera interna, en la base de datos de la “Red Nacional Informática del Instituto Federal Electoral”. La elaboración del formato para la difusión de la información institucional se hará con base en los parámetros que fije el Consejo.
+1. La información que publiquen los órganos del Instituto se difundirá por los medios oficiales escritos y, además por vía interna y externa.
 
-3. La información institucional se difundirá de manera externa, en la página de internet del Instituto, de conformidad con los criterios del Consejo y de las disposiciones del presente Reglamento. La información sólo será confidencial en aquellos supuestos que marque la ley.
+2. La información institucional se difundirá de manera interna en la base de datos de la “red nacional informática del Instituto Federal Electoral” o intranet. La elaboración del formato par a (sic) la difusión de la información institucional se hará con base en los parámetros que fije el Consejo.
+
+3. La información institucional se divulgará externamente en la página de internet del Instituto, de conformidad con los criterios del Consejo, de las disposiciones del presente reglamento y de la normatividad relativa a la transparencia y acceso a la información pública. La información sólo será confidencial y temporalmente reservada en aquellos supuestos que marque el reglamento de la materia.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO CON EL CAPITULO QUE LO INTEGRA [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
 
@@ -1887,67 +1901,47 @@ ARTICULO 78
 
 ### CAPITULO PRIMERO. PROTESTA CONSTITUCIONAL
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 79
+ARTICULO 80
 
 1. El Secretario Ejecutivo, los consejeros del Poder Legislativo y los representantes de los partidos políticos ante el órgano superior de dirección rendirán la protesta constitucional ante el Consejo General.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 80
+ARTICULO 81
 
 1. Los Directores Ejecutivos, Titulares de las Unidades Técnicas y los Presidentes de los Consejos Locales rendirán la protesta constitucional ante el Presidente y Secretario del Instituto.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 81
+ARTICULO 82
 
 1. Los Vocales Ejecutivos Distritales rendirán la protesta constitucional ante el Vocal Ejecutivo Local o el Secretario Ejecutivo respectivos.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 82
+ARTICULO 83
 
 1. Los consejeros electorales y representantes de los partidos políticos de los Consejos Locales y Distritales, inmediatamente después de haber tomado posesión, rendirán la protesta constitucional ante el Consejo respectivo.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 83
+ARTICULO 84
 
 1. Los ciudadanos que integren las mesas directivas de casilla y demás servidores del Instituto rendirán la protesta constitucional por escrito.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 84
+ARTICULO 85
 
 1. En toda protesta constitucional se levantará el acta correspondiente de la cual se agregará un tanto al expediente personal del servidor público respectivo, así como de los Consejeros y Representantes de Partido y del Poder Legislativo.
 
 ### CAPITULO SEGUNDO. DE LA INTERPRETACION
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 85
+ARTICULO 86
 
 1. Las disposiciones del presente Reglamento se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código y los criterios gramatical, sistemático y funcional, atendiendo a lo señalado en el último párrafo del artículo 14 Constitucional.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 86
+ARTICULO 87
 
 1. La interpretación del presente Reglamento corresponde al Consejo, quien podrá contar con la orientación y asesoría de la Comisión de Reglamentos y de la Dirección Jurídica.
 
 ### CAPITULO TERCERO. DE LAS REFORMAS AL REGLAMENTO
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 87
+ARTICULO 88
 
 1. El Consejo podrá reformar el contenido del presente reglamento cuando así lo requiera la estructura y funcionamiento del Instituto.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 88
+ARTICULO 89
 
 1. Podrán presentar propuesta de reforma:
 
@@ -1969,9 +1963,7 @@ h) Los Consejos Distritales;
 
 i) Las Juntas Distritales.
 
-(REUBICADO, D.O.F. 1 DE NOVIEMBRE DE 2002)
-
-ARTICULO 89
+ARTICULO 90
 
 1. Las reformas a este Reglamento se ajustarán al siguiente procedimiento:
 
@@ -2016,3 +2008,7 @@ D.O.F. 1 DE NOVIEMBRE DE 2002.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON ESTE REGLAMENTO.
 
 TERCERO.- ESTE ACUERDO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2003.
+
+Unico.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
