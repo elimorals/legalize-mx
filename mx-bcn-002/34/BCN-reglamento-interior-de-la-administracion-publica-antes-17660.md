@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-12-10"
+last_updated: "2005-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,437 +23,461 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA -- ANTES REGLAMENTO DE LA ADMINISTRACION PUBLICA -- DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
 
-Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
+Ley publicada en el Número 8 Sección VI del Boletín Oficial del Estado de Sonora, el jueves 25 de enero de 2018.
 
-ACUERDO DE CREACIÓN DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+CLAUDIA ARTEMIZA PAVLOVICH ARELLANO, Gobernadora del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-[...]
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente:
 
-Por lo anterior y con fundamento en el artículo 18, 19 y 20 de la Ley de Régimen Municipal para el Estado de Baja California, los integrantes del XVII Ayuntamiento ponemos a consideración de este H. Cabildo la siguiente propuesta de Reglamento de la Administración Pública del Municipio de Mexicali Baja California al tenor de los siguientes:
+LEY
 
-[...]
+NÚMERO 277
 
-RESOLUTIVO
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-UNICO.- Es de aprobarse y se aprueba la expedición del Reglamento Interior del Ayuntamiento de Mexicali para quedar como sigue:
-
-Reglamento de la Administración Pública del Municipio de Mexicali Baja California
+LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO PRIMERO. OBJETO Y DEFINICIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto establecer las bases de organización, funcionamiento y distribución de competencias de la Administración Pública Municipal del Ayuntamiento de Mexicali, Baja California.
+La presente Ley tiene por objeto:
 
-###### ARTICULO 2.
+I.- Fomentar las actividades que llevan a cabo las organizaciones de la sociedad civil, las agrupaciones y redes registradas mediante una normatividad integral y coherente que propicie condiciones para el ejercicio pleno de la libertad de las personas y grupos que integran la sociedad. Asimismo, estimular su participación en la vida social, económica, política y cultural de la entidad;
 
-Para efectos de lo dispuesto en el presente reglamento, se establecen las siguientes definiciones, todas referidas al Ayuntamiento y Municipio de Mexicali, Baja California:
+II.- Promover la participación de las organizaciones en la definición de agenda, así como en la elaboración, construcción colectiva, implementación y evaluación de políticas públicas con relación a las actividades que señala la presente Ley;
 
-I.- Administración Pública Municipal.- Es la organización administrativa dependiente del Presidente Municipal, a través de la cual el Ayuntamiento proporciona los servicios públicos y ejerce las demás atribuciones ejecutivas de su competencia.
+III.- Establecer los derechos y obligaciones que tienen las organizaciones conforme a esta Ley;
 
-Se divide en centralizada, que está conformada por las dependencias, órganos desconcentrados de éstas y delegaciones municipales; y en descentralizada o paramunicipal, que es la que se integra con las entidades paramunicipales.
+IV.- Establecer la vinculación entre la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil y la presente Ley; y
 
-Cuando el presente Reglamento mencione dependencias o entidades, se entenderá que se refiere a las de la Administración Pública Municipal del Ayuntamiento de Mexicali, Baja California. A su vez, al mencionarse dependencias, se considerarán comprendidas las Delegaciones Municipales;
+V.- Establecer las facultades y coordinación interinstitucional de las autoridades que la aplicarán y los órganos que coadyuvarán en ello.
 
-II.- Ayuntamiento.- Es el órgano colegiado conformado por los Munícipes, responsable del gobierno del Municipio;
+###### ARTÍCULO 2.
 
-III.- Cabildo.- Es la sesión de Munícipes para la resolución de los asuntos de competencia del Ayuntamiento;
+Para los efectos de esta Ley se entiende por:
 
-IV.- Gobierno Municipal.- Es la conjunción del Ayuntamiento y la Administración Pública Municipal; y,
+I.- Agrupaciones: colectivos de ciudadanos organizados sin estar constituidos legalmente, cuyas actividades cumplan con lo establecido por el artículo 3 de la presente Ley;
 
-V.- Municipio.- Es la institución jurídica, política y social que se constituye para el logro de los intereses de convivencia de una comunidad; reconocida como un orden de gobierno, base de la división política y territorial del Estado.
+II.- Comité: el Comité para el Fomento y Participación de las Organizaciones de la Sociedad Civil;
 
-###### ARTICULO 3.
+III.- Fomento: reconocimiento y apoyo a las actividades de las organizaciones de la sociedad civil, agrupaciones y redes registradas mediante los mecanismos establecidos en la presente Ley;
 
-A fin de dar una adecuada atención a las atribuciones a cargo del gobierno municipal, la Administración Pública Municipal se auxiliará de las Delegaciones Municipales, que tendrán la naturaleza de órganos desconcentrados de aquella, y que ejercerán las atribuciones que les establece el presente Reglamento, así como los demás ordenamientos aplicables. Las Delegaciones Municipales contarán con:
+IV.- Ley: la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil en el Estado de Sonora;
 
-I.- Una delimitación del territorio del Municipio en el que ejercerán su jurisdicción;
+V.- Ley Federal: la Ley Federal de Fomento a las Actividades realizadas por Organizaciones de la Sociedad Civil;
 
-II.- La estructura administrativa que les establece el presente Reglamento;
+VI.- Organizaciones de la sociedad civil (OSC’s): agrupaciones autónomas de la ciudadanía, formal y legalmente constituidas;
 
-III.- Los recursos humanos y materiales que les asigne el Presupuesto de Egresos para el Municipio, para el ejercicio de sus funciones; y,
+VII.- Participación: presencia activa de las organizaciones de la sociedad civil, agrupaciones y redes registradas en el proceso de construcción social de las políticas públicas, de conformidad con el artículo 1 fracción II de la Ley;
 
-IV.- El personal de las dependencias y entidades que se determinen por el Presidente Municipal, que se adscribirá a las Delegaciones para la atención de los asuntos competencia de dichas dependencias y entidades, que se generen en las poblaciones de las mismas Delegaciones. Las propuestas de programas y recursos que se asignarán a las oficinas de las dependencias y entidades adscritas a las Delegaciones, se determinarán tomando la opinión de los Consejos Delegacionales y deberán ser conocidos, revisados y aprobados por los Delegados.
+VIII.- Poderes del Estado: Al Poder Ejecutivo, Legislativo y Judicial;
 
-###### ARTICULO 4.
+IX.- Redes registradas (redes): agrupaciones no constituidas legalmente, integradas por organizaciones de la sociedad civil o por éstas y agrupaciones, mediante la suscripción de un convenio de adhesión mutua que se presenta al Comité, que se plantean un objetivo y un plan de trabajo en común, el cual supera los planes de trabajo que cada una se plantea en lo individual;
 
-La Sindicatura Municipal es el órgano de representación legal de los intereses del Ayuntamiento y Municipio, así como de control y vigilancia de la Administración Pública Municipal, por lo que fiscalizará la correcta administración de los bienes y aplicación de los recursos municipales, además de la actuación de los servidores públicos, contando para tal efecto con la estructura administrativa que se establece en el presente Reglamento.
+X.- Registro Estatal: el Registro Estatal de las Organizaciones de la Sociedad Civil, a cargo del Comité; y
 
-###### ARTICULO 5.
+XI.- Registro Federal: el Registro Federal de las Organizaciones de la Sociedad Civil.
 
-La interpretación de las disposiciones del presente Reglamento, y la resolución de los conflictos de competencia que se generen en la Administración Pública Municipal, corresponderá al Presidente Municipal, quien en su caso, someterá a consideración del Ayuntamiento las propuestas de reforma a este reglamento que sean necesarias.
+###### ARTÍCULO 3.
 
-### CAPITULO SEGUNDO. DE LA CONDUCCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
+Las actividades realizadas por las organizaciones de la sociedad civil, agrupaciones y redes que se reconocen como de interés público, son aquellas orientadas a mejorar la calidad de vida de la ciudadanía, el ejercicio pleno de sus derechos humanos, la participación y el acceso a bienes y servicios públicos, con énfasis en la población vulnerable, así como la promoción e investigación social, conforme lo establecen:
 
-###### ARTICULO 6.
+I.- La Ley Federal;
 
-El Presidente Municipal como titular de la función ejecutiva del Ayuntamiento, conducirá la Administración Pública Municipal de conformidad con las atribuciones que le conceden los ordenamientos aplicables.
+II.- La Ley del Impuesto sobre la Renta, en lo aplicable a las organizaciones reguladas por esta Ley;
 
-###### ARTICULO 7.
+III.- La Ley de Hacienda Estatal;
 
-Las Dependencias y entidades de la Administración Pública Municipal conducirán sus actividades en forma programada, con base en las políticas que para la consecución de los objetivos y prioridades del gobierno municipal se establezcan en el Plan Municipal de Desarrollo, y con sujeción estricta a las metas y recursos programados en los presupuestos de egresos.
+IV.- El (sic) Ley de Asistencia Social del Estado de Sonora;
 
-###### ARTICULO 8.
+V.- Lo que se derive del artículo 79 de la Constitución Política del Estado Libre y Soberano de Sonora; y
 
-Las políticas y medidas que adopten el Presidente Municipal y los titulares, de las dependencias y entidades respecto de la administración de éstas, deberán perseguir los siguientes objetivos:
+VI.- Las que establezcan las demás disposiciones aplicables en la materia.
 
-I.- Desconcentrar la ejecución de aquéllas atribuciones cuya naturaleza permita que sean realizadas con mayor eficiencia por conducto de las Delegaciones Municipales, los órganos desconcentrados y los organismos descentralizados;
+###### ARTÍCULO 4.
 
-II.- Simplificar los procedimientos y concentrar los tiempos de atención y respuesta al público;
+Son derechos de las organizaciones de la sociedad civil, agrupaciones y redes:
 
-III.- Optimizar el gasto público, procurando el ahorro y observando los controles establecidos al ejercicio presupuestal;
+I.- Tener representación ante el Comité en los términos de esta Ley;
 
-IV.- Eficientar el aprovechamiento de los recursos humanos y materiales; y
+II.- Ser objeto de las acciones de fomento por parte de los tres poderes del Estado, los organismos públicos autónomos y los municipios, o de otros organismos designados por el Comité para tal efecto, de conformidad con lo establecido en la presente ley;
 
-V.- Dar cumplimiento a las metas establecidas en el Plan Municipal de Desarrollo.
+III.- Acceder, en igualdad de circunstancias, a los recursos, estímulos fiscales, exenciones, apoyos económicos y administrativos por parte de los tres Poderes del Estado, los organismos públicos autónomos y sus municipios, así como los acordados o convenidos con la federación para la realización de sus actividades, de conformidad con las disposiciones legales aplicables en la materia;
 
-###### ARTICULO 9.
+IV.- Las redes podrán acceder a lo establecido en el párrafo anterior a través de la o las organizaciones de la sociedad civil legalmente constituidas que las componen;
 
-El Presidente Municipal podrá emitir disposiciones de orden técnico y administrativo que tengan por objeto el eficiente desarrollo y funcionamiento de la Administración Pública Municipal mediante circulares y normas técnicas relativas a los procedimientos que deberán observar las dependencias y entidades en el desarrollo de sus actividades, así como en la administración de recursos humanos y materiales. Dichas disposiciones, deberán ser acatadas obligatoriamente por las dependencias y entidades a que se refieran.
+V.- Promover y participar en mecanismos de observación y contraloría social;
 
-Las circulares que se emitan con base en lo previsto por este artículo, contendrán normas concretas a que deberán sujetarse las dependencias y entidades en la atención del asunto al que se refieran.
+VI.- Proponer a los tres Poderes del Estado, organismos públicos autónomos y a los municipios políticas públicas relacionadas con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley;
 
-Las normas técnicas contendrán disposiciones de ese carácter, cuyo objeto será definir los procedimientos a seguir para la ejecución de determinadas actividades de la administración pública.
+VII.- Llevar a cabo proyectos relacionados con el fomento y desarrollo de las actividades a que se refiere el artículo 3 de la Ley, que para tal efecto acuerden con cualquiera de los Poderes del Estado o sus municipios;
 
-###### ARTICULO 10.
+VIII.- Colaborar en los órganos de participación y consulta instaurados por la administración pública estatal y municipal, en las áreas vinculadas con las actividades referidas en el artículo 3 de la Ley;
 
-Con el objeto de definir, dar seguimiento y evaluar las políticas y programas que se establezcan para la atención de materias que sean competencia concurrente de varias dependencias o entidades, el Presidente Municipal, directamente o por conducto del Coordinador de Directores, dispondrá la integración de gabinetes interdisciplinarios que se deberán reunir periódicamente para atender los asuntos que se les asignen.
+IX.- Participar en el diseño y aplicación de políticas y normas para el ejercicio de recursos públicos destinados al fortalecimiento y participación de las organizaciones de la sociedad civil; y
 
-###### ARTICULO 11.
+X.- Las demás que les otorguen otras disposiciones aplicables.
 
-La selección, contratación, capacitación, control y fijación de remuneraciones al personal de confianza de las dependencias corresponderá al Presidente Municipal, quien podrá encomendar tal atribución a los titulares de las mismas. La fijación de remuneraciones en todos los casos se hará de acuerdo con las bases que emita la Oficialía Mayor. Dicha base se dará a conocer al Ayuntamiento junto con el proyecto de presupuesto de egresos.
+###### ARTÍCULO 5.
 
-### CAPITULO TERCERO. DEL EJERCICIO DE ATRIBUCIONES
+Para gozar de los derechos señalados en el artículo anterior, las organizaciones de la sociedad civil, agrupaciones y redes deben cumplir con las siguientes obligaciones:
 
-###### ARTICULO 12.
+I.- Inscribirse en el Registro Estatal. En caso de estar inscrito en el Registro Federal, contemplado en la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, éste se le reconocerá y se le incorporará en el Registro Estatal, por lo que no será necesario llevar a cabo un nuevo trámite de registro;
 
-Las atribuciones de carácter ejecutivo que en las diversas Leyes o en los convenios de transferencia de funciones que se celebren, se establecen a cargo del Ayuntamiento o del gobierno municipal, serán ejercidas por las dependencias y entidades a las que corresponda la atención de los asuntos en materia, de acuerdo con lo previsto en el Presente Reglamento y en los acuerdos de creación o funcionamiento de las entidades. En el caso de materias que no se encuentren encomendadas a alguna dependencia o entidad, se estará a lo que determine el Ayuntamiento.
+II.- Los miembros deberán abstenerse de obtener para sí o para personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, un lucro mediante bien, utilidad o provecho con las actividades que desempeña y, en su caso, el ejercicio de los recursos públicos que recibiera;
 
-Requerirá la intervención del Ayuntamiento, el ejercicio de aquellas atribuciones respecto de las cuales la Ley o convenio de transferencia de funciones que las contenga, la prevea expresamente, o su participación se haya establecido en el reglamento municipal respectivo, o en algún acuerdo del mismo Ayuntamiento.
+III.- No realizar actividades de proselitismo político-electoral, sindical, partidista o religioso;
 
-###### ARTICULO 13.
+IV.- Integrar a la población beneficiaria de forma incluyente de acuerdo con su perfil según su objeto social, evitando cualquier tipo de discriminación, e incorporando medidas de participación corresponsable en el desempeño de las actividades de la organización, agrupación o red registrada, de conformidad con las disposiciones legales aplicables;
 
-Las atribuciones cuyo ejercicio constituya un acto de autoridad, que en el presente Reglamento y en las demás disposiciones legales y reglamentarias aplicables, se establecen a cargo de determinada coordinación, dirección, o delegación, serán ejercidas por el titular de dicha dependencia, o por el jefe del departamento a quien se le señala en este ordenamiento la atención del asunto del que se trate, quienes se auxiliarán para el desarrollo de las actividades inherentes a la ejecución de tales atribuciones en el personal que tengan asignado.
+V.- Estar activo en el Registro Estatal;
 
-A su vez, las atribuciones de la naturaleza aludida que se prevén a cargo de los departamentos, serán ejercidas por los jefes de éstos, o por sus superiores jerárquicos.
+VI.- Destinar los recursos públicos que reciban al cumplimiento de las actividades que señala el artículo 3 de la Ley;
 
-###### ARTICULO 14.
+VII.- Cumplir con las obligaciones de presentación de información, de conformidad con las disposiciones legales aplicables y los lineamientos que establezca la instancia que aporta los recursos públicos, así como sobre el manejo y uso de los mismos, de conformidad con la legislación en materia de transparencia y acceso a la información pública del Estado de Sonora; y
 
-Cuando las leyes o reglamentos municipales establezcan que el ejercicio de una atribución corresponde a un funcionario designado expresamente, se estará a dicha reglamentación, independientemente de lo previsto en este Reglamento.
+VIII.- Las demás que señalen otras disposiciones aplicables.
 
-###### ARTICULO 15.
+### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES REGISTRADAS
 
-El personal de las dependencias y entidades que se adscriba a las Delegaciones Municipales, así como a las oficinas de servicios municipales que se establezcan, contará con las atribuciones que le confiera el acuerdo de delegación de facultades que se emita, en el caso de las dependencias; por el Presidente Municipal y los titulares de éstas, y respecto de las entidades, por sus órganos de gobierno.
+###### ARTÍCULO 6.
 
-Dichos acuerdos de delegación de facultades establecerán las atribuciones cuyo ejercicio corresponderá exclusivamente a quien se encargue la atención de los asuntos de la dependencia o entidad en la delegación u oficina de servicios, y las que requerirán necesariamente la intervención del Delgado o del titular de la dependencia o entidad.
+El Ejecutivo Estatal constituirá el Comité como un órgano de vinculación entre los tres Poderes del Estado y sus municipios, y las organizaciones, agrupaciones y redes registradas, encargado de la elaboración del Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil y de la consulta, opinión, asesoría, propuesta, seguimiento y evaluación de los planes, políticas públicas y proyectos relacionados con el desarrollo de las actividades a que se refiere esta Ley.
 
-Los acuerdos de delegación de facultades a que se refiere el presente artículo, deberán ser publicados en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+###### ARTÍCULO 7.
 
-### CAPITULO CUARTO. DE LA REPRESENTACION LEGAL DEL MUNICIPIO Y DEL AYUNTAMIENTO
+El Comité se integra de la siguiente manera:
 
-###### ARTICULO 16.
+I.- El Secretario de Desarrollo Social del Estado de Sonora;
 
-De acuerdo con lo previsto por la Constitución Política del Estado Libre y Soberano de Baja California, el Municipio es una persona moral que cuenta con personalidad jurídica, por lo que actúa a través de sus órganos de representación.
+II.- El Secretario de Hacienda del Estado de Sonora;
 
-La representación legal del Municipio recae en el Ayuntamiento, que es el órgano facultado para dar cumplimiento a los fines y objetos de la persona moral municipal.
+III.- El Secretario de Salud del Estado de Sonora;
 
-El Ayuntamiento, en ejercicio de tal representación legal del Municipio, faculta a su vez al presidente Municipal ya los demás funcionarios de la administración pública municipal, para que celebren y atiendan en representación del Municipio, los actos jurídicos que se les determinan en reglamentos y acuerdos municipales; asimismo, reconoce las facultades que la Ley les encomienda directamente.
+IV.- El Secretario de Gobierno del Estado de Sonora;
 
-###### ARTICULO 17.
+V.- El Secretario de Economía del Estado Sonora;
 
-El Presidente Municipal en representación del Municipio tendrá las siguientes facultades exclusivas, que en todos los casos deberá ejercer con sujeción a las disposiciones legales y reglamentarias que les sean aplicables:
+VI.- El Diputado Presidente de la Comisión de Desarrollo Social y Asistencia Pública del Poder Legislativo del Estado;
 
-I.- Celebrar contratos, convenios y demás actos jurídicos, para los que no estén expresamente facultados otros funcionarios de la Administración Pública Municipal en leyes, reglamentos, o acuerdos de cabildo;
+VII.- El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
 
-II.- Representar al Municipio ante toda clase de autoridades administrativas, judiciales, o políticas, sean federales, estatales, municipales, o de organismos autónomos, así como ante los particulares, con todas las facultades de un mandatario general, sin limitación alguna, incluyendo aquellas que conforme a la Ley requieran cláusula especial y expresa.
+VIII.- El Vocal Ejecutivo del Instituto Catastral y Registral del Estado de Sonora;
 
-Se entienden comprendidas en las facultades a que se refiere esta fracción de manera enunciativa:
+IX.- El Presidente Municipal de un municipio urbano del estado, elegido por orden alfabético en función del nombre del municipio, el cual durara en su cargo dos años;
 
-Articular y absolver posiciones, promover o desistirse de cualquier juicio, aún el de amparo, promover procedimientos de inconstitucionalidad o de controversia constitucional; presentar denuncias y querellas de carácter penal, constituirse en coadyuvante del Ministerio Público, y otorgar el perdón en su caso.
+X.- Dos titulares de organizaciones de la sociedad civil cuyas actividades se lleven a cabo en el municipio de Hermosillo, quienes durarán en su cargo dos años sin posibilidad de reelección para el periodo inmediato;
 
-Asimismo, podrá promover acciones de carácter civil, administrativo o laboral, y defender al Municipio de las que se promuevan en su contra, oponiendo excepciones y defensas, y promoviendo recursos y demás medios de defensa.
+XI.- Un titular de organización de la sociedad civil radicadas y cuyas actividades se lleven a cabo en otro municipio del Estado distinto al indicado en la fracción anterior, quienes durarán en su cargo dos años sin posibilidad de reelección para el periodo inmediato;
 
-Además, podrá conciliar o convenir los asuntos contenciosos en los que sea parte el Municipio, así como aquellos que le puedan generar algún litigio; convenir el pago de daños de los que sea responsable, o las condenas que se dicten en su contra.
+XII.- Un representante académico de universidad con reconocimiento y validez oficial en el Estado de Sonora, quien durará en su cargo dos años con posibilidades de reelección para el período inmediato;
 
-También podrá actuar en calidad de representante legal del Municipio, en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y IIl, Y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones; y,
+XIII.- Un Secretario Técnico, quien durará en su cargo tres años con posibilidades de reelección para el período inmediato; y
 
-III.- Nombrar uno o más apoderados generales o especiales, para que ejerzan las facultades de representación del Municipio que se mencionan en la fracción anterior, otorgar y revocar sus poderes, o sustituir el mandato.
+XIV.- Los integrantes del Comité establecidos en las fracciones IX, X, XI y XII del presente artículo serán designados por los miembros indicados en las fracciones I a la VIII, según los mecanismos establecidos para tal efecto en la normatividad respectiva.
 
-El otorgamiento de poderes para el ejercicio de facultades de representación del Municipio, diversas a las enumeradas en la fracción anterior, requerirá la aprobación del Ayuntamiento.
+Adicionalmente, por invitación del Comité, se podrá incorporar a uno o más Presidentes Municipales de municipios del interior del Estado.
 
-###### ARTICULO 18.
+###### ARTÍCULO 8.
 
-El Presidente Municipal requerirá autorización del Ayuntamiento para celebrar convenios que tengan alguna de las siguientes características:
+El cargo como miembro del Comité es honorífico y, por lo tanto, no remunerado, con excepción del Secretario Técnico quien será integrante de la Fundación que tenga convenido los recursos asignados por el Estado para beneficio de las OSC’s.
 
-I.- Los que se vayan a celebrar con el Gobierno del Estado, para la toma por parte del Municipio, de funciones o prestación de servicios cargo de aquel;
+###### ARTÍCULO 9.
 
-II.- Los que tengan por objeto que el Gobierno del Estado, asuma de manera temporal, total o parcialmente, o se coordine con el Municipio en la prestación de servicios públicos municipales;
+Cada miembro del Comité tendrá derecho a voz y voto, las decisiones del Comité se toman por mayoría de votos de los presentes.
 
-III.- Los convenios con otro u otros Municipios, para la coordinación o asociación en la prestación de servicios públicos, o en el ejercicio de funciones;
+###### ARTÍCULO 10.
 
-IV.- Aquellos cuyo cumplimiento implique la modificación del presupuesto de egresos para el Municipio que se encuentre vigente, o el desarrollo de programas o actividades que requieran la asignación de recursos no previstos al darse la aprobación de dicho presupuesto;
+Cada representante titular del Comité podrá designar a un suplente, el cual deberá ser de un nivel jerárquico similar o inmediato inferior al del titular. El suplente tendrá voz y voto únicamente en ausencia del titular.
 
-V.- Los contratos de comodato para fines públicos, cuando vayan a celebrarse con particulares; y,
+###### ARTÍCULO 11.
 
-VI.- Los demás que conforme a la normatividad correspondiente, exijan dicha autorización. Para solicitar la autorización en este caso, se seguirán los procedimientos previstos en el ordenamiento que la exija, o en su caso, lo dispuesto en el presente Reglamento.
+El Comité tendrá al Secretario de Desarrollo Social del Estado de Sonora como Presidente del mismo, y cuyas ausencias serán cubiertas por el subsecretario del ramo debiéndose elegir en la primera sesión ordinaria del año calendario.
 
-###### ARTICULO 19.
+### CAPÍTULO III. DEL COMITÉ PARA EL FOMENTO Y PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-La celebración de convenios con el Gobierno del Estado de Baja California, para asumir por parte del Municipio la prestación de servicios, o la atención de funciones a cargo de aquel, se sujetará a lo siguiente:
+###### ARTÍCULO 12.
 
-I.- El Presidente Municipal dispondrá la integración con los titulares de las dependencias, entidades o departamentos que correspondan, de las comisiones necesarias para la negociación de los términos del convenio a celebrar;
+Para la elección de las organizaciones de la sociedad civil que conformarán el Comité, éste realizará una convocatoria pública a organizaciones que acrediten tener, por lo menos, tres años registradas formalmente ante algún organismo Federal o Estatal, y estar activa al momento de su elección.
 
-II.- Una vez que se hayan fijado las condiciones principales de la transferencia de funciones, se deberá presentar a las Comisiones del Ayuntamiento correspondientes, la siguiente información:
+De entre las organizaciones que cumplan con los requisitos de la convocatoria, el Comité elegirá por mayoría de votos a los representantes del Comité.
 
-a) Alcance de las funciones que se asumirían por el gobierno municipal.
+###### ARTÍCULO 13.
 
-b) Dependencia o entidad que asumiría las funciones transferidas.
+El Comité sesionará de manera ordinaria, por lo menos, una vez cada cuatro meses, y de manera extraordinaria las veces que sea necesario.
 
-c) Forma en que se financiaría el ejercicio de las nuevas facultades.
+###### ARTÍCULO 14.
 
-d) Reformas a ordenamientos municipales que se requerían por virtud de la asunción de funciones Estatales.
+El Comité contará con recursos que serán asignados en el presupuesto de egresos del Estado de Sonora, para la realización de las actividades derivadas de esta Ley.
 
-e) Recursos humanos y materiales que se entregarían por el Gobierno del Estado al Municipio como consecuencia del convenio a celebrar.
+###### ARTÍCULO 15.
 
-f) Análisis de la conveniencia de que se asuman por el Municipio las funciones Estatales.
+El Comité tiene las siguientes atribuciones:
 
-III.- La Comisión del Ayuntamiento, actuando conjuntamente si fueren varias, emitirá un dictamen que someterá a consideración de éste, en el que propondrá la aprobación de la celebración del convenio, o en su caso, los aspectos que a su juicio deban revisarse previamente a tal celebración, indicando las razones que tuviere; y,
+I.- Realizar propuestas de políticas públicas a las dependencias de los tres Poderes del Estado y sus municipios, en lo que se refiere a las actividades señaladas por el artículo 3 de esta Ley;
 
-IV.- Al aprobarse la celebración del convenio, se autorizará al Presidente Municipal para que lo suscriba.
+II.- Asesorar a las instancias de los tres Poderes del Estado y sus municipios, en la realización de los planes y programas que se implementen para el desarrollo del fomento y de la participación conforme lo establece la Ley;
 
-###### ARTICULO 20.
+III.- Opinar sobre los mecanismos y políticas empleados para otorgar a las organizaciones de la sociedad civil los recursos públicos, conforme lo establece el capítulo IV de esta Ley;
 
-El procedimiento a que se sujetará el otorgamiento de la autorización para la celebración de convenios que tengan por objeto que el gobierno del Estado, asuma de manera temporal, total o parcialmente, o se coordine con el Municipio, en la prestación de servicios públicos municipales se sujetará a lo siguiente:
+IV.- Proponer modificaciones, ante las autoridades competentes, a las disposiciones legales aplicables en la materia;
 
-I.- El Presidente Municipal propondrá al Ayuntamiento la celebración del convenio correspondiente, acompañando dicha propuesta de lo siguiente:
+V. Establecer las medidas que permitan el funcionamiento adecuado del Registro Estatal;
 
-a) Los estudios técnicos de los que derive la necesidad de transferir al gobierno del estado, la prestación del servicio público municipal del que se trate, o que en su caso, justifiquen la conveniencia de la prestación coordinada del mismo.
+VI.- Imponer las sanciones a las organizaciones de la sociedad civil, agrupaciones y redes por el incumplimiento de las obligaciones establecidas por esta Ley, previa propuesta que presente el Secretario Técnico;
 
-b) Los documentos en los que el Gobierno del Estado manifieste su disposición de asumir la prestación del servicio público municipal, o a coordinarse con el Municipio en tal prestación.
+VII.- Elaborar y expedir su Reglamento Interno;
 
-c) Los planes y programas que pretendan implementarse para que el Municipio esté en posibilidad de retomar la prestación del servicio, una vez que concluya el plazo o condiciones por el que se pretenda que el Gobierno del Estado lo preste.
+VIII.- Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil; y
 
-d) Los estudios que expliquen las consecuencias administrativas, organizacionales y presupuestales que se generarían por la celebración del convenio.
+IX.- Las demás que le otorguen otras disposiciones legales aplicables.
 
-II.- La propuesta presentada deberá ser dictaminada por la comisión o comisiones del Ayuntamiento a las que competa la atención del asunto al que se refiera el convenio a celebrar; y,
+### CAPÍTULO IV. DEL FOMENTO DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-III.- El dictamen que se emita por la comisión, autorizará la celebración del convenio, o en su caso, indicará las modificaciones que deberán incluirse al mismo, o las acciones que deberán desarrollarse a fin de lograr los objetivos que con el convenio se propongan, sin que tenga que celebrarse éste.
+###### ARTÍCULO 16.
 
-###### ARTICULO 21.
+El Presidente del Comité tendrá las siguientes atribuciones:
 
-La autorización de la celebración de convenios con otro u otros Municipios, para la coordinación o asociación en la prestaciones servicios públicos, o en el ejercicio de funciones, se sujetará a lo siguiente:
+I.- Convocar a las reuniones ordinarias y extraordinarias del Comité;
 
-I.- El Presidente Municipal propondrá al Ayuntamiento la celebración del convenio respectivo. La propuesta se deberá acompañar de lo siguiente:
+II.- Representar legalmente, junto con el Secretario Técnico al Comité;
 
-a) El texto que se proponga al convenio. En este deberán especificarse por lo menos: los servicios o funciones sujetos de coordinación, el alcance de ésta, las dependencias o entidades responsables de su operación, el término al que se pretenda sujetar el convenio, las consecuencias del incumplimiento de las condiciones pactadas, la forma de terminación, y los compromisos presupuestales de cada parte;
+III.- Conducir las sesiones del Comité;
 
-b) Los estudios técnicos que justifiquen la viabilidad y conveniencia de la coordinación, así como los beneficios que ésta tendría para los habitantes del Municipio;
+IV.- Elaborar el proyecto de presupuesto y someterlo a consideración del Comité, para su posterior remisión a la autoridad correspondiente;
 
-II.- La comisión o comisiones del Ayuntamiento respectivas dictaminarán la propuesta y someterán a consideración del mismo Ayuntamiento la aprobación de la celebración del convenio, o en su caso, explicarán las razones por las que no lo consideran conveniente.
+V.- Contar con voto de calidad en caso de empate; y
 
-###### ARTICULO 22.
+VI.- Las demás que el Comité le asigne.
 
-Para la autorización de la celebración de convenios cuyo cumplimiento implique la modificación del presupuesto de egresos para el Municipio que se encuentre vigente, o el desarrollo de programas o actividades que requieran la asignación de recursos no previstos al darse la aprobación de dicho presupuesto, se estará a lo siguiente:
+###### ARTÍCULO 17.
 
-I.- El Presidente Municipal someterá a consideración del cabildo el proyecto de acuerdo de autorización, acompañándolo del texto del convenio a celebrar y de la solicitud de modificación del presupuesto de egresos;
+La Secretaría Técnica tiene las siguientes atribuciones:
 
-II.- Se conformará una comisión conjunta del Ayuntamiento entre, la de hacienda y la que le corresponda conocer del asunto al que se refiera el convenio, que dictaminará sobre las propuestas presentadas; y,
+I.- Organizar la creación y funcionamiento del Registro Estatal;
 
-III.- Se someterá el dictamen a consideración del Ayuntamiento, que en su caso autorizará la celebración del convenio, o solicitará la modificación del mismo, expresando las razones que tuviere.
+II.- Levantar las actas de sesión del Comité;
 
-### CAPITULO QUINTO. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES Y JEFES DE DEPARTAMENTOS DE LA ADMINISTRACION PUBLICA MUNICIPAL
+III.- Vigilar que las organizaciones de la sociedad civil, agrupaciones y redes inscritas en el Registro Estatal cumplan las obligaciones derivadas de esta Ley;
 
-###### ARTICULO 23.
+IV.- Proponer al Comité las sanciones aplicables a las organizaciones por incumplimiento de las obligaciones derivadas de esta Ley;
 
-El Síndico Procurador actuará como representante jurídico del Municipio y Ayuntamiento, en los litigios en que éste sea parte.
+V.- Realizar las gestiones necesarias para el debido funcionamiento del Comité y el cumplimiento de los fines de la Ley; y
 
-En ejercicio de tal representación, podrá designar delegados o representantes para oír y recibir notificaciones, presentar pruebas y promociones, hacer alegatos, promover recursos y demás medios de defensa.
+VI.- Las demás que les sean asignadas por el Comité.
 
-Podrá también nombrar uno o más apoderados especiales o generales, a fin de que actúen en representación del ayuntamiento ante los órganos jurisdiccionales y administrativos en los que se ventilen los litigios en que éste sea parte o tenga interés, otorgándoles facultades suficientes para la adecuada defensa de los intereses del mismo.
+###### ARTÍCULO 18.
 
-### CAPITULO SEXTO. DEL NOMBRAMIENTO Y SUPLENCIA DE FUNCIONARIOS PUBLICOS
+Para ser Secretario Técnico se deberán cumplir los siguientes requisitos:
 
-###### ARTICULO 24.
+I.- Ser ciudadano mexicano por nacimiento y que no haya adquirido otra nacionalidad, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-Los titulares de las dependencias y entidades, y los subdirectores y jefes de departamentos de éstas, tendrán las siguientes obligaciones:
+II.- Tener treinta años de edad o más, el día de la designación;
 
-I.- Programar, organizar, coordinar, supervisar la ejecución y evaluar, las actividades a cargo de la dependencia, entidad o departamento;
+III.- Poseer al día de la designación, título profesional de nivel licenciatura y contar con los conocimientos y experiencia que le permita el desempeño de sus funciones;
 
-II.- Ejercer las facultades que le confieran las Leyes, los reglamentos municipales y los acuerdos del Ayuntamiento;
+IV.- Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-III.- Cumplir con las obligaciones que les establezcan las Leyes, los diversos reglamentos municipales, los acuerdos del Ayuntamiento, y las disposiciones que emita el Presidente Municipal;
+V.- No haber sido registrado como candidato a cargo alguno de elección popular en el último año anterior a la designación; y
 
-lV.- Atender las normas y lineamientos establecidos para el ejercicio y control del gasto público;
+VI. - No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en el último año anterior a la designación.
 
-V.- Permitir a la Sindicatura Municipal el ejercicio de sus atribuciones de fiscalización y control, proporcionándole la información que les solicite, y atendiendo sus citaciones, recomendaciones y observaciones;
+###### ARTÍCULO 19.
 
-VI.- Dar seguimiento a la (sic) líneas de acción que le correspondan a la dependencia o entidad señaladas en el Plan Municipal de Desarrollo, y participar en los consejos, comisiones, comités o subcomités de planeación emanados de las disposiciones legales y reglamentarias aplicables.
+Las autoridades estatales y municipales fomentarán a las organizaciones de la sociedad civil a través de los siguientes mecanismos:
 
-VII.- Formar parte de los órganos de gobierno de las entidades paramunicipales, cuando así lo determinen sus respectivos acuerdos de creación o funcionamiento;
+I.- Capacitación y asesoría para la profesionalización e institucionalización;
 
-VIII.- Participar en los órganos desconcentrados de las dependencias cuando así lo dispongan los ordenamientos que los establezcan, con el carácter que en los mismos se prevea;
+II.- Apoyos y estímulos fiscales, de conformidad con las disposiciones legales aplicables;
 
-IX.- Integrar los gabinetes interdisciplinarios que se conformen de acuerdo a lo previsto en el presente Reglamento;
+III.- Simplificación de trámites administrativos;
 
-X.- Mantener estrecha relación con las demás dependencias, entidades y departamentos, así como con las demás instancias de gobierno, sobre problemas correspondientes a sus áreas de competencia, para su coordinación y solución;
+IV.- Reducción de cobros por servicios públicos, de conformidad con la legislación aplicable;
 
-XI.- Coordinar la integración de los proyectos de ingresos y egresos de la dependencia, entidad o departamento;
+V.- Acciones de defensoría y representación;
 
-XIl.- Informar o comparecer a la comisión del Ayuntamiento que le corresponda, con la periodicidad que aquel determine, de las actividades realizadas por la dependencia, entidad, o departamento;
+VI.- Designar un área o responsable permanente de enlace con organizaciones de la sociedad civil; y
 
-XIII.- Atender diligentemente y resolver en su caso, los planteamientos y consultas que respecto de asuntos competencia de la dependencia, entidad o departamento, les formulen los Regidores del Ayuntamiento;
+VII.- El acceso mediante las modalidades disponibles, a proyectos o fondos públicos.
 
-XIV.- Integrar y rendir al Presidente Municipal los titulares de las dependencias, y a éstos los jefes de los departamentos, los informes sobre las actividades de la misma dependencia o departamento, con la periodicidad, formato, contenido y por el conducto que el Presidente o el titular indique;
+###### ARTÍCULO 20.
 
-XV.- Proporcionar la información necesaria con la finalidad de cumplir con los preceptos legales en relación con el ejercicio del gasto, informes de actividades del gobierno municipal, integración de la cuenta pública, y demás que les correspondan;
+Los tres Poderes del Estado, sus dependencias y los organismos públicos autónomos, así como los municipios, fomentarán las actividades de las organizaciones de la sociedad civil, agrupaciones y redes; y en su caso, podrán otorgar recursos públicos para las actividades contempladas en el artículo 3 de esta Ley.
 
-XVI.- Dar respuesta a las peticiones que por escrito les sean formuladas por los particulares, en un término máximo de veinte días hábiles, cuando no se prevea otro término en los ordenamientos aplicables;
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
 
-XVIl.- Coordinar y supervisar las actividades que lleve a cabo el personal a su cargo;
+De igual manera, podrán transferirse recursos para los fines establecidos en el artículo 3 de esta Ley, a las organizaciones de la sociedad civil que tengan convenido los recursos asignados por el Estado para beneficio de las OSC's, bajo los siguientes esquemas financieros en materia de derechos sociales:
 
-XVIII.- Establecer mecanismos para asegurar la asistencia y presencia en sus labores del personal a su cargo;
+l. Coinversión o cofinanciamiento;
 
-XIX.- Procurar que el personal de la dependencia, entidad o departamento, cuente con la capacitación y adiestramiento necesarios para el desarrollo de las actividades que se les encomienden;
+II. Subsidio;
 
-XX.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Delegaciones Municipales, se sujete a los Delegados y a su supervisión, con excepción del personal de Sindicatura Municipal;
+III. Subvención estructural o por proyecto;
 
-XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
+IV. Donaciones; y
 
-XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
+V. Apoyo financiero.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2018)</small>
 
-XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Aparte de los fines de esta Ley, cada uno de los siguientes esquemas se podrán utilizar de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2004)</small>
+I. Coinversión o cofinanciamiento en:
 
-La Declaración Patrimonial de los Titulares de las Dependencias de la Administración Pública Municipal Centralizada, de las Entidades Paramunicipales, la del Subdirector de Operación y Seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor se publicarán en el Periódico Oficial del Estado de Baja California, dentro de los 30 días siguientes a aquel en que concluyan los plazos señalados en el Artículo 78 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+a) Desarrollo comunitario en población en situación de pobreza;
+
+b) Rehabilitación de espacios para albergues permanentes o temporales, casas hogar y centros de atención a adultos mayores, niñas y niños de Sonora;
+
+c) Apoyos a la certificación de centros de tratamiento y rehabilitación de adicciones; y
+
+d) Fondo para mejorar la convivencia social.
+
+ll. Subsidio en:
+
+a) Capacitaciones y talleres para el desarrollo de capacidades productivas para autoempleo;
+
+b) Atención a migrantes;
+
+c) Fondo para la mejora a casas hogar y/o albergues;
+
+d) Fomento a la activación física, deportiva, cultural y artística para el desarrollo social;
+
+e) Prevención de enfermedades transmitidas por vector;
+
+f) Prevención y atención a la violencia contra las mujeres;
+
+g) Seguridad alimentaria y nutrición; y
+
+h) Investigación en materia de derechos sociales.
+
+III. Subvención estructural o por proyecto en:
+
+a) Fortalecimiento institucional a organizaciones de la sociedad civil que atienden grupos vulnerables;
+
+b) Atención al rezago educativo;
+
+c) Fomento a la mejora educativa;
+
+d) Inclusión y mejora de comunidades indígenas;
+
+e) Mejora de espacios recreativos para niños y niñas;
+
+f) Fomento de valores e identidad regional;
+
+g) Fondo para el desarrollo sustentable; y
+
+h) Prevención y rehabilitación de adicciones.
+
+IV. Donaciones en:
+
+a) Fondo para donaciones en especie a organizaciones sin fines de lucro.
+
+V. Apoyo financiero en:
+
+a) Fondo para organizaciones de la sociedad civil en situación de crisis o contingencia.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2018)</small>
+
+Lo anterior se podrá realizar con independencia de las actividades y programas que regulen otras leyes.
+
+###### ARTÍCULO 21.
+
+Para otorgar recursos públicos a las organizaciones de la sociedad civil y redes, los tres Poderes del Estado y sus dependencias, los organismos públicos autónomos, y los municipios deberán utilizar los criterios y mecanismos que aseguren:
+
+I.- Condiciones de acceso igualitarias y equitativas;
+
+II.- Transparencia en el proceso de selección;
+
+III.- Difusión a través del Boletín oficial, de las gacetas municipales y, en su caso, de los diarios de mayor circulación estatal. De igual forma, los criterios y mecanismos serán dados a conocer a las organizaciones registradas a través del Comité;
+
+IV.- Imparcialidad en el dictamen para otorgar los recursos, así como que los mismos estén debidamente fundados y motivados;
+
+V.- Otorgar un tiempo de por lo menos veinte días naturales para cumplir con los requerimientos establecidos; y
+
+VI.- Claridad de los criterios técnicos por los cuales se otorgan recursos.
+
+###### ARTÍCULO 22.
+
+Para el otorgamiento de recursos públicos a organizaciones de la sociedad civil y redes, las dependencias de la administración pública estatal deberán contar con reglas de operación la cuales incluirán dentro de sus bases el mecanismo de convocatoria, de conformidad con las disposiciones legales aplicables.
+
+Se exceptúa de lo anterior las asignaciones directas que establezca el Presupuesto de Egresos correspondiente.
+
+### CAPÍTULO V. DE LAS SANCIONES
+
+###### ARTÍCULO 23.
+
+Las redes registradas podrán acceder a recursos públicos siempre y cuando cumplan con los siguientes requisitos:
+
+I.- Contar entre sus integrantes, por lo menos, con una organización de la sociedad civil; y
+
+II.- En el caso de las redes, formalizarse mediante convenio de adhesión mutua aprobado por el Comité, el cual deberá contener, al menos, lo siguiente:
+
+a) Denominación de la Red;
+
+b) Objeto y duración;
+
+c) Nombre de las organizaciones y agrupaciones, integrantes y sus respectivos representantes;
+
+d) Datos generales del contacto de las organizaciones y agrupaciones;
+
+e) Designación de la organización de la sociedad civil que fungirá como representante y administradora responsable solidaria en caso de recibir recursos públicos;
+
+f) Estructura y operación; y
+
+g) Causas y mecanismos de rescisión anticipada.
+
+### CAPÍTULO VI. DE LOS MEDIOS DE DEFENSA
+
+###### ARTÍCULO 24.
+
+Las organizaciones de la sociedad civil, agrupaciones y redes que incumplan algunas de las obligaciones a que se refiere esta Ley se harán acreedores a las siguientes sanciones:
+
+I.- Apercibimiento por escrito en caso de que las organizaciones incumplan, por primera ocasión, con las obligaciones previstas por las fracciones IV y VI del artículo 5 de esta Ley;
+
+II.- Suspensión del registro, hasta por un año, en caso de que las organizaciones incumplan con las obligaciones previstas por las fracciones I, II, III y V del artículo 5 de esta Ley, o reincidan en el incumplimiento de las obligaciones previstas en la fracción anterior; y
+
+III.- Cancelación definitiva del registro en caso de reincidencia por parte de las organizaciones que incumplan con las obligaciones previstas en la fracción anterior.
 
 ### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
 
-###### ARTICULO 25.
+###### ARTÍCULO 25.
 
-La designación de los titulares de las dependencias y de los jefes de departamentos, corresponderá al Presidente Municipal, salvo de aquellos que se reserven al Ayuntamiento, o a otro órgano.
+Para efectos del presente capítulo, se entiende que existe reincidencia cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción.
 
-###### ARTICULO 26.
+###### ARTÍCULO 26.
 
-Para efectos de la designación de delegados municipales se estará a los siguiente:
+El Comité, previo dictamen del Secretario Técnico, valorará la obligación incumplida y emitirá resolución fundada y motivada de la sanción aplicable.
 
-I.- Deberán ocupar dichos cargos, personas que sean vecinas y tengan una residencia de por lo menos cinco años anteriores a la designación, en alguna de las comunidades ubicadas dentro de la jurisdicción de la delegación. Dicha residencia no se perderá por la realización de estudios o la ocupación de cargos de elección popular;
+En el caso de suspensión del registro, para la determinación del tiempo en que ésta dure, debe atenderse la gravedad del hecho.
 
-II.- El Presiente Municipal en sesión de cabildo, dará a conocer los nombres de las personas que propone para ocupar cada uno de los puestos vacantes, sus antecedentes y trayectoria;
+###### ARTÍCULO 27.
 
-III.- Entre la sesión de cabildo a que se refiere la fracción anterior, y la que deba celebrarse para que el Ayuntamiento emita los nombramientos, deberán transcurrir por lo menos cinco días hábiles, dentro de los cuales la comisión del Ayuntamiento responsable de vigilar los aspectos relativos al desarrollo rural, organizará y coordinará reuniones con los propuestos, con el objeto de entrevistarlos. En dichas reuniones podrán participar todos los munícipes, por lo que la comisión mencionada les informará de las fechas y horas en que se llevarán a cabo;
+La suspensión temporal o la cancelación definitiva del registro, impiden a las organizaciones el disfrute de los derechos que establece esta Ley.
 
-IV.- El Ayuntamiento designará mediante acuerdo de cabildo tomado por mayoría simple de los miembros presentes en sesión; y,
+###### ARTÍCULO 28.
 
-V.- Una vez hechas las designaciones correspondientes, el Presidente Municipal tomará las protestas de Ley. Los delegados durarán en su cargo hasta la conclusión del período del Ayuntamiento.
-
-###### ARTICULO 27.
-
-Los titulares de las dependencias, departamentos y delegaciones de la Administración Pública Municipal, serán suplidos en sus faltas temporales en la forma prevista en este artículo:
-
-I.- La suplencia de titulares de dependencias se llevará a cabo conforme a lo siguiente:
-
-a) En la (sic) dependencias cuya estructura se integra con un subdirector, será éste quien suplirá las faltas del titular. Si fueren varios subdirectores, el Presidente Municipal designará mediante oficio al que deba actuar como suplente;
-
-b) En las dependencias en cuya estructura no hay subdirectores, suplirá las faltas del titular, el jefe del departamento de la misma dependencia que determine el Presidente Municipal;
-
-II.- En caso de falta de un jefe de departamento, asumirá sus funciones durante la misma el titular de la dependencia, quien podrá encomendar tal responsabilidad a:
-
-a) Un funcionario del departamento; o,
-
-b) A un jefe de otro departamento de la misma dependencia;
-
-III.- Las faltas de los delegados municipales serán suplidas por el secretario de la Delegación.
-
-Para efectos de este artículo se considerará que el titular de una dependencia, el jefe de un departamento, o el delegado municipal, faltan, cuando por cualquier causa no puedan ejercer de manera temporal las atribuciones que les correspondan. Es temporal el término que no exceda de quince días hábiles consecutivos.
-
-###### ARTICULO 28.
-
-La suplencia del Presidente Municipal, de los titulares de las dependencias y de los jefes de departamentos (sic), en sesiones de gabinetes, comisiones, comités, órganos de gobierno de entidades, órganos desconcentrados y organismos similares, en los casos en que no exista disposición sobre el particular, se llevará a cabo por el funcionario que el mismo Presidente Municipal, el titular de la dependencia o el jefe de departamento determinen en cada caso.
+Si la cancelación definitiva del registro se debió a causas imputables a los representantes legales o asociados de la organización, éstos no podrán solicitar el registro para el reconocimiento de alguna nueva organización.
 
 ### CAPITULO PRIMERO. DE LAS DEPENDENCIAS Y ORGANOS QUE INTEGRAN LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
 
-###### ARTICULO 29.
+###### ARTÍCULO 29.
 
-Las dependencias que dispone el presente Reglamento contarán con Coordinaciones Administrativas, que serán áreas de vinculación y apoyo para la administración de recursos humanos, materiales y financieros de las dependencias en las que funcionen, por lo que tendrán a su cargo:
-
-I.- Administrar los recursos humanos de la dependencia con base en las políticas establecidas para la Administración Pública Municipal;
-
-II.- Evaluar las necesidades de (sic) personal de las distintas áreas de la dependencia;
-
-III.- Coordinar el análisis y evaluación de desempeño del personal de la dependencia;
-
-IV.- Tramitar las adquisiciones de bienes y la contratación de servicios requeridos por los diferentes departamentos de la dependencia, para la realización de sus funciones. Así mismo, las adquisiciones, almacenamiento, conservación, arrendamiento y enajenación de todo tipo de bienes, así como la contratación de obras y de servicios de cualquier naturaleza, que se realicen por parte de las dependencias o entidades de la administración pública municipal, se adjudicarán o llevarán a cabo mediante licitaciones públicas y convocatorias públicas de conformidad con lo que establece esta Ley y el Reglamento correspondiente;
-
-V.- Aplicar las políticas establecidas para el control y manejo de recursos materiales;
-
-VI.- Coordinar el correcto ejercicio del Presupuesto de Egresos del Municipio, en las partidas asignadas a la dependencia;
-
-VII.- Coordinar la elaboración de informes de avances de programas de acciones de la dependencia;
-
-VIII.- Auxiliar a la Oficialía Mayor en el resguardo de los bienes asignados a la dependencia, así como la realización de inventarios físicos a éstos, y supervisiones de su uso y mantenimiento;
-
-IX.- Apoyar la elaboración de los manuales administrativos para la dependencia;
-
-X.- Supervisar y mantener en buen estado de funcionalidad los bienes muebles e inmuebles asignados a la dependencia; y
-
-XI.- Las demás que le señalen los titulares de la dependencia.
+Las sanciones previstas por esta Ley para las organizaciones son independientes de las del orden civil o penal a que haya lugar.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA MUNICIPAL CENTRALIZADA
 
 ### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
 
-###### ARTICULO 30.
+###### ARTÍCULO 30.
 
-La administración pública municipal centralizada, contará con las siguientes dependencias:
-
-I.- Oficina de la Presidencia Municipal;
-
-II.- Secretaría del Ayuntamiento;
-
-III.- Tesorería Municipal;
-
-IV.- Oficialía Mayor;
-
-V.- Dirección de Obras Públicas;
-
-VI.- Dirección de Servicios Públicos;
-
-VIl.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2002)
-
-VIII.- Dirección de Ecología;
-
-IX.- Dirección de Seguridad Pública;
-
-X.- Dirección de Bomberos y Protección Civil;
-
-XI.- Dirección de Comunicación Social;
-
-XII.- Dirección de Relaciones Públicas;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
-XIII.- Dirección de Fomento Deportivo;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
-XIV.- Dirección de Cultura;
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
-XV.- Dirección de Administración Urbana; y,
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
-
-XVI.- Dirección de Planeación Urbana.
+En contra de las resoluciones emitidas conforme a esta Ley proceden los recursos administrativos que prevén la (sic) Leyes correspondientes.
 
 ###### ARTICULO 31.
 
@@ -1711,40 +1735,6 @@ XIV.- Desarrollar las acciones que correspondan a la Dirección en situaciones d
 
 XV.- Asegurar el cumplimiento de manuales e instructivos emitidos por la Dirección.
 
-###### ARTICULO 97.
-
-La Comandancia de Policía tendrá como función, operar y aplicar los programas y estrategias a seguir por el cuerpo de seguridad pública municipal, con la finalidad de mantener el orden, la seguridad y tranquilidad públicas en el Municipio, por lo que se encargará de:
-
-I.- Establecer en coordinación con el Subdirector de Policía y Tránsito, las medidas disciplinarias y vigilar estricta observancia de las mismas por todos los elementos de la corporación policíaca;
-
-II.- Realizar estudios para implementar estrategias tendientes a mejorar el desempeño de las actividades de vigilancia y seguridad;
-
-III.- Ejercer las atribuciones que las disposiciones legales y reglamentarias aplicables le confieren a los agentes de la Dirección;
-
-IV.- Prevenir la comisión de actos que contraríen el orden público y la tranquilidad social, así como organizar las tareas de vigilancia y custodia, auxiliándose de los subcomandantes a su cargo;
-
-V.- Supervisar las distintas secciones de la corporación, a fin de verificar su buen funcionamiento y operación;
-
-VI.- Organizar los programas que se implantarán para llevar a cabo la vigilancia en lugares de mayor incidencia delictiva;
-
-VII.- Establecer dispositivos de seguridad en eventos que lo requieran;
-
-VIII.- Administrar los establecimientos en los que deban permanecer arrestados los infractores a disposiciones administrativas, y los detenidos por cualquier tipo de falta, y custodiar a éstos durante el tiempo que deban permanecer en dichos establecimientos;
-
-IX.- Operar el traslado de detenidos para su remisión a las autoridades competentes, así como la prestación del servicio de traslado de procesados, a los órganos jurisdiccionales que correspondan;
-
-X.- Aplicar dentro de la esfera de su competencia la Ley Federal de Armas de Fuego y Explosivos;
-
-XI.- Supervisar la correcta operación y utilización del equipo, armamento y municiones asignados a los elementos de la corporación policial;
-
-XII.- Delegar a las secciones subordinadas las funciones que les correspondan;
-
-XIII.- Llevar a cabo reuniones periódicas con los elementos del cuerpo de seguridad pública con el fin de mejorar la prestación del servicio;
-
-XIV.- Desarrollar las acciones que correspondan a la Dirección en situaciones de emergencia o en casos de desastres; y,
-
-XV.- Asegurar el cumplimiento de manuales e instructivos emitidos por la Dirección.
-
 ###### ARTICULO 98.
 
 La Subdirección Académica tendrá como función, supervisar, dirigir y controlar todas las actividades que se desarrollen en la Academia de Policía de la Dirección, encargándose de:
@@ -2615,94 +2605,36 @@ XVIII.- Normar y regular el establecimiento de espacios destinados a estacionami
 
 XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estacionamientos en áreas de la vía pública exclusivos para comercios, zonas de carga y descarga, así los casos de áreas que se requieran para la introducción o construcción de vialidades o soluciones al tránsito de vehículos y peatones.
 
-## ARTÍCULOS TRANSITORIOS
+## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Administración Pública Municipal de Mexicali, Baja California publicado el 10 de Noviembre de 2000 en el Periódico Oficial del Estado; así mismo, se derogan todas aquellas disposiciones normativas de carácter municipal, aplicables al Municipio de Mexicali que se opongan al presente ordenamiento.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-DADO en la sala de sesiones del Honorable Cabildo del XVII Ayuntamiento de la Ciudad de Mexicali Baja California, el día primero de diciembre del año dos mil uno.
+###### ARTÍCULO SEGUNDO.
 
-LOS INTEGRANTES DEL AYUNTAMIENTO:
+El Ejecutivo del Estado expedirá el Reglamento de la presente Ley dentro de los noventa días hábiles posteriores a la fecha de entrada en vigor de la presente Ley.
 
-JAIME RAFAEL DIAZ OCHOA.
+###### ARTÍCULO TERCERO.
 
-Presidente Municipal.
+El Comité deberá quedar conformado dentro de los noventa días hábiles siguientes a la entrada en vigor del Reglamento de la presente Ley.
 
-RUBEN ERNESTO ARMENTA ZANABIA.
+###### ARTÍCULO CUARTO.
 
-Síndico Procurador.
+El Secretario de Desarrollo Social nombrará al Secretario Técnico, conforme a lo establecido en el artículo 8 de la presente Ley, mismo que será aprobado en la primera reunión ordinaria del Comité.
 
-Regidores:
+Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 13 de diciembre de 2017. C. CARLOS ALBERTO LEÓN GARCÍA, DIPUTADO PRESIDENTE.- RUBRICA.- C. JOSÉ LUIS CASTILLO GODÍNEZ, DIPUTADO SECRETARIO.- RÚBRICA. C. TERESA MARÍA OLIVARES OCHOA, DIPUTADA SECRETARIA.- RÚBRICA.
 
-Antonio Ramírez Ortiz
+Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
-María Griselda Romero Villanueva
+Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinte días del mes de diciembre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
 
-Alejandro Morgan Lara
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Baltazar Martínez Zambrano
+B.O. 31 DE JULIO DE 2018.
 
-Manuel Alberto Ramos Rubio
+###### ARTÍCULO ÚNICO.
 
-Jorge Mancilla Villa
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-Benjamín Castillo Valdez
-
-Emanuel Mendoza Gómez
-
-Wilfrido García Tavizón
-
-Rosa Elena Flores Velarde
-
-Martina Montenegro Espinoza
-
-Federico López Magaña
-
-José Braulio González González
-
-Ana Imelda Corella Torres
-
-David Montaño Córdova
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-P.O. 18 DE OCTUBRE DE 2002.
-
-TRANSITORIO UNICO: LA PRESENTE MODIFICACION ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO."
-
-P.O. 20 DE DICIEMBRE DE 2002.
-
-UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
-
-P.O. 26 DE SEPTIEMBRE DE 2003.
-
-ARTICULO TRANSITORIO UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
-
-P.O. 26 DE MARZO DE 2004.
-
-ÚNICO.- LA PRESENTE MODIFICACIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA."
-
-P.O. 9 DE ABRIL DE 2004.
-
-ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DEL ESTADO.
-
-P.O. 7 DE MAYO DE 2004.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
-
-P.O. 27 DE AGOSTO DE 2004.
-
-ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
-
-P.O. 1 DE OCTUBRE DE 2004.
-
-ÚNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE DICIEMBRE DE 2004.
-
-ÚNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-P.O. 10 DE DICIEMBRE DE 2004.
-
-Único.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
