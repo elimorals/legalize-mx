@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-de-puebla-7732"
 country: "mx"
 rank: "ley"
 publication_date: "1968-11-05"
-last_updated: "1983-10-04"
+last_updated: "1990-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1990.
 
-Ley publicada en el Suplemento Número 1 Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
+Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- H. Congreso del Estado L. Y S. de Puebla.
 
@@ -71,9 +71,11 @@ Las funciones notariales serán ejercidas por los Notarios; sin embargo, en los 
 
 El cargo de Notario es vitalicio. Los notarios actualmente en ejercicio, así como los que con posterioridad sean nombrados conforme a la presente Ley, sólo podrán ser suspensos o cesados, en los términos y casos previstos por esta misma Ley.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+
 ###### Artículo 6o.
 
-El Notario conservará temporalmente los instrumentos y documentos, con sus anexos, relativos al ejercicio de sus funciones; pero no podrá retenerlos por un términos (sic) mayor de 20 años, debiendo remitirlos al Archivo General de Notarías.
+El notario conservará temporalmente los instrumentos y documentos, con sus anexos, relativos al ejercicio de sus funciones, pero no pueden retenerlos por un término mayor de 3 años, debiendo remitirlos al Archivo General de Notarías.
 
 ###### Artículo 7o.
 
@@ -257,7 +259,7 @@ El primero, con la patente respectiva; el segundo, por los medios que establece 
 
 ###### Artículo 29.
 
-En las informaciones testimoniales, para la comprobación de los requisitos anteriores, serán oídos, el Ministerio Público y el delegado que designe el Consejo de Notarios, quienes podrán repreguntar y tachar a los testigos que se presenten.
+En las informaciones testimoniales, para la comprobación de los requisitos anteriores serán oídos, el Ministerio Público y el delegado que designe el Consejo de Notarios, quienes podrán repreguntar y tachar a los testigos que se presenten.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
 
@@ -457,7 +459,7 @@ Una vez concluido el examen, el Jurado procederá, a puerta cerrada, y en escrut
 
 El Secretario del Jurado levantará el acta relativa al examen, que deberá ser firmada por todos los integrantes del mismo.
 
-El Consejo de Notarios enviará al Ejecutivo del Estado, un ejemplar del acta de examen, para la integración del expediente formado con motivo de la solicitud del aspirante a Notario.
+El Consejo de Notarios enviará al Ejecutivo del Estado, un ejemplar del acta del examen, para la integración del expediente formado con motivo de la solicitud del aspirante a Notario.
 
 ###### Artículo 60.
 
@@ -667,11 +669,11 @@ Cuando el Notario calcule que ya no puede dar cabida a otro instrumento más, en
 
 Los Notarios foráneos presentarán personalmente al Archivo General de Notarías, dentro de los 10 días siguientes al en que pongan la razón de que habla el artículo anterior, los volúmenes del protocolo a fin de que el Jefe del Archivo proceda en la forma antes indicada.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 94.
 
-Los Notarios del Distrito Judicial de Puebla guardarán en sus archivos, si así lo prefieren, los libros cerrados de su protocolo durante 20 años, contados desde la fecha en que el Archivo General de Notarías puso la certificación de cierre. Las Notarías foráneas podrán conservar los protocolos hasta de 20 años, si los encargados de ellas fueren Notarios Titulares, pues en caso contrario, sólo conservarán los correspondientes a 2 años después de haber sido cerrados.
+Los Notarios del Estado de Puebla, guardarán en sus archivos, si así lo prefieren, los libros cerrados de su protocolo durante 3 años, contados desde la fecha en que el Archivo General de Notarías puso la certificación de cierre, si los encargados no fueren titulares, sólo conservarán los correspondientes a dos años después de haber sido cerrados.
 
 En caso de pérdida o de inutilización total o parcial de algún libro del protocolo, el Notario dará inmediato aviso de ello a la Secretaría de Gobernación, para que ésta, dicte las medidas que estime oportunas, sin perjuicio de la obligación del Notario de poner los medios que estén a su alcance, para la recuperación, o reposición si fuere posible y de la responsabilidad en que haya podido incurrir.
 
@@ -697,7 +699,7 @@ No pueden desglosarse los documentos del "Apéndice", de los cuales, el Notario 
 
 ###### Artículo 99.
 
-Los Notarios tendrán obligación de llevar un índice de todos los instrumentos que autoricen. Los índices se formarán por duplicado por cada volumen, se llevarán por orden alfabético de apellidos o denominación de cada otorgante, con expresión del número del instrumento, naturaleza del acto o contrato, folio y fecha. Llegada la vez de entregar los volúmenes del protocolo al Archivo General de Notarías, se acompañarán de un ejemplar de dichos índices y el otro lo conservará el Notario.
+Los Notarios tendrán obligación de llevar un índice de todos los instrumentos que autoricen. Los índices se formarán por duplicado por cada volumen, se llevarán por orden alfabético de apellidos o denominación de cada otorgante, con expresión del número de instrumento, naturaleza del acto o contrato, folio y fecha. Llegada la vez de entregar los volúmenes del protocolo al Archivo General de Notarías, se acompañarán de un ejemplar de dichos índices y el otro lo conservará el Notario.
 
 ## TITULO SEXTO. De la Actuación Notarial
 
@@ -825,7 +827,7 @@ Si el instrumento fuera firmado dentro del término a que se refiere el artícul
 
 ###### Artículo 111.
 
-Si el instrumento contuviere varios actos jurídicos que no fueren dependientes entre sí, y dentro del término que se establece en el artículo 109 se firmare por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro u otros actos, el Notario pondrá la razón de "ante mí", su firma y su sello, en lo concerniente a los actos cuyos otorgantes hubieren firmado, y acto continuo, pondrá al margen y firmará la nota de "No pasó" ordenada por el propio artículo 109, sólo respecto del acto o actos no firmados, los cuales quedarán sin efectos.
+Si el instrumento contuviere varios actos jurídicos que no fueren dependientes entre sí, y dentro del término que se establece en el artículo 109 se firmare por los otorgantes de uno o de varios de dichos actos y dejare de firmarse por los otorgantes de otro u otros actos, el Notario pondrá la razón de "ante mí", su firma y su sello, en lo concerniente a los actos cuyos otorgantes hubieren firmado y acto continuo, pondrá al margen y firmará la nota de "No pasó" ordenada por el propio artículo 109, sólo respecto del acto o actos no firmados, los cuales quedarán sin efectos.
 
 Cualesquiera otras razones que se pusieren marginalmente, sólo llevarán la media firma del Notario.
 
@@ -929,7 +931,7 @@ El Notario no expedirá testimonio o copia parcial, cuando por la omisión de lo
 
 ###### Artículo 129.
 
-Sólo a los otorgantes y a sus causa-habientes, en su caso, podrán expedirse testimonios.
+Sólo a los otorgantes y a sus causa-habientes, en su caso podrán expedirse testimonios.
 
 ###### Artículo 130.
 
@@ -1535,7 +1537,7 @@ Habrá en la Ciudad de Puebla, un Archivo General de las Notarías Públicas del
 
 El Archivo General se formará:
 
-I.- Con los protocolos cerrados, sus anexos y los demás documentos que los Notarios o los que ejerzan estas funciones, deben remitirle según las prevenciones de la presente Ley.
+I.- Con los protocolos cerrados, sus anexos y los demás documentos que los Notarios, o los que ejerzan estas funciones, deben remitirle según las prevenciones de la presente Ley.
 
 II.- Con los demás documentos propios del Archivo General.
 
@@ -1634,3 +1636,7 @@ P.O. 4 DE OCTUBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 1990.
+
+TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
