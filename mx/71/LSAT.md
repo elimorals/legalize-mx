@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "1999-01-04"
+last_updated: "2003-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAT"
 
 LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -50,9 +50,15 @@ Ley del Servicio de Administración Tributaria
 
 El Servicio de Administración Tributaria es un órgano desconcentrado de la Secretaría de Hacienda y Crédito Público, con el carácter de autoridad fiscal, y con las atribuciones y facultades ejecutivas que señala esta Ley.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
 ###### Artículo 2o.
 
-El Servicio de Administración Tributaria tiene por objeto la realización de una actividad estratégica del Estado consistente en la determinación, liquidación y recaudación de impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos federales y de sus accesorios para el financiamiento del gasto público. En la consecución de este objetivo deberá observar y asegurar la aplicación correcta, eficaz, equitativa y oportuna de la legislación fiscal y aduanera, así como promover la eficiencia en la administración tributaria y el cumplimiento voluntario por parte del contribuyente de las obligaciones derivadas de esa legislación.
+El Servicio de Administración Tributaria tiene la responsabilidad de aplicar la legislación fiscal y aduanera con el fin de que las personas físicas y morales contribuyan proporcional y equitativamente al gasto público, de fiscalizar a los contribuyentes para que cumplan con las disposiciones tributarias y aduaneras, de facilitar e incentivar el cumplimiento voluntario de dichas disposiciones, y de generar y proporcionar la información necesaria para el diseño y la evaluación de la política tributaria.
+
+El Servicio de Administración Tributaria implantará programas y proyectos para reducir su costo de operación por peso recaudado y el costo de cumplimiento de las obligaciones por parte de los contribuyentes.
+
+Cuando en el texto de esta Ley se haga referencia a contribuciones, se entenderán comprendidos los aprovechamientos federales.
 
 ###### Artículo 3o.
 
@@ -108,15 +114,71 @@ VII. Vigilar y asegurar el debido cumplimiento de las disposiciones fiscales y a
 
 VIII. Participar en la negociación de los tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias fiscal y aduanera, así como celebrar acuerdos interinstitucionales en el ámbito de su competencia;
 
-IX. Proporcionar, bajo el principio de reciprocidad, la asistencia que le soliciten instancias supervisoras y reguladoras de otros países con las cuales se tengan firmados acuerdos o formen parte de convenciones internacionales de las que México sea parte, para lo cual, en ejercicio de sus facultades de vigilancia, podrá recabar respecto de los contribuyentes información y documentación que sea objeto de la solicitud;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+IX. Proporcionar, bajo el principio de reciprocidad, la asistencia que le soliciten instancias supervisoras y reguladoras de otros países con las cuales se tengan firmados acuerdos o formen parte de convenciones internacionales de las que México sea parte, para lo cual, en ejercicio de sus facultades de vigilancia, podrá recabar respecto de los contribuyentes y terceros con ellos relacionados, la información y documentación que sea objeto de la solicitud;
 
 X. Fungir como órgano de consulta del Gobierno Federal en las materias fiscal y aduanera;
 
 XI. Localizar y listar a los contribuyentes con el objeto de ampliar y mantener actualizado el registro respectivo;
 
-XII. Emitir las disposiciones de carácter general necesarias para el ejercicio eficaz de sus facultades, así como para la aplicación de las leyes, tratados y disposiciones que con base en ellas se expidan, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE JUNIO DE 2003)</small>
 
-XIII. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
+XII. Allegarse la información necesaria para determinar el origen de los ingresos de los contribuyentes y, en su caso, el cumplimiento correcto de sus obligaciones fiscales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE JUNIO DE 2003)</small>
+
+XIII. Proponer, para aprobación superior, la política de administración tributaria y aduanera, y ejecutar las acciones para su aplicación. Se entenderá como política de administración tributaria y aduanera el conjunto de acciones dirigidas a recaudar eficientemente las contribuciones federales y los aprovechamientos que la legislación fiscal establece, así como combatir la evasión y elusión fiscales, ampliar la base de contribuyentes y facilitar el cumplimiento voluntario de las obligaciones de los contribuyentes.
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+XIV. Diseñar, administrar y operar la base de datos para el sistema de información fiscal y aduanera, proporcionando a la Secretaría de Hacienda y Crédito Público los datos estadísticos suficientes que permitan elaborar de manera completa los informes que en materia de recaudación federal y fiscalización debe rendir el Ejecutivo Federal al Congreso de la Unión.
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+XV. Contribuir con datos oportunos, ciertos y verificables al diseño de la política tributaria.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE JUNIO DE 2003)</small>
+
+XVI. Emitir las disposiciones de carácter general necesarias para el ejercicio eficaz de sus facultades, así como para la aplicación de las leyes, tratados y disposiciones que con base en ellas se expidan;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+XVII. Emitir los marbetes y los precintos que los contribuyentes deban utilizar cuando las leyes fiscales los obliguen, y
+
+XVIII. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 7o.-A.
+
+El Servicio de Administración Tributaria en materia de recaudación del pago de contribuciones mediante la entrega de obras plásticas que realicen sus autores, deberá recibir las obras de conformidad con el procedimiento de selección que se establece en el artículo 7o.-B, debiendo llevar el registro de las mismas y distribuirlas entre la Federación y las Entidades Federativas, así como los Municipios.
+
+El registro de las obras plásticas que formen parte del patrimonio artístico de la Nación se dará a conocer en la página de Internet del Servicio de Administración Tributaria, señalando el lugar de destino de la obra.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 7o.-B.
+
+La recepción en pago de las obras se realizará, previa selección que de ellas haga un Comité integrado por personas expertas en artes plásticas, considerando para su selección que las obras ofrecidas en pago sean representativas de la obra del autor, realizada en los últimos tres años. Aquellas obras que se consideren no representativas, se devolverán al autor para que en un plazo de tres meses ofrezca otras obras que sí lo sean o para que realice el pago en efectivo. Una vez transcurrido el plazo, de no haber un nuevo ofrecimiento, se entenderá que el autor opta por realizar el pago en efectivo.
+
+Las Entidades Federativas y los Municipios participarán en una tercera parte cada uno del total de las obras aceptadas. Una vez aceptadas como pago las obras ofrecidas por su autor, el Comité determinará cuáles de ellas deberán formar parte del patrimonio artístico de la Nación. Las obras que formen parte de dicho patrimonio y que correspondan a las Entidades Federativas y Municipios serán entregadas a éstos cuando acrediten contar, al menos, con una pinacoteca abierta al público en general, a la cual enviarán las obras recibidas, pudiendo las mismas ser prestadas para participar en exposiciones temporales. Las Entidades Federativas y los Municipios deberán de informar al Servicio de Administración Tributaria del cambio de ubicación de las obras que formen parte del patrimonio artístico de la Nación, incluso cuando dicho cambio sea temporal.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 7o.-C.
+
+Cuando un artista decida donar una parte de su obra plástica a un museo de su elección establecido en México y abierto al público en general y las obras donadas representen, por lo menos, el 500% del pago que por el impuesto sobre la renta le correspondió en el año inmediato anterior al que hizo la donación, quedará liberado del pago de dicho impuesto por la producción de sus obras plásticas, por ese año y los dos siguientes.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 7o.-D.
+
+El Comité a que se refiere el artículo 7o.-B se integrará por ocho personas expertas en artes plásticas, que serán nombrados por la Junta de Gobierno, un representante del Servicio de Administración Tributaria y un representante del Consejo Nacional para la Cultura y las Artes. Los dos representantes mencionados en último término tendrán voz pero no voto.
+
+Los miembros del Comité que tengan derecho a voto, durarán en su encargo cuatro años y no podrán ser designados para formar parte del Comité dentro de los cuatro años siguientes a la fecha en que dejaron de formar parte del mismo. Las vacantes que se den en el Comité de los integrantes con derecho a voto serán ocupadas por las personas que designe el propio Comité. La designación de miembros para cubrir las vacantes que se produzcan antes de la terminación del periodo por el que fue designado el miembro a sustituir, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
+
+El Comité establecerá el reglamento para su funcionamiento interno y la conformación de su estructura orgánica.
 
 ## Título Segundo. De la Organización
 
@@ -128,7 +190,9 @@ Para la consecución de su objeto y el ejercicio de sus atribuciones, el Servici
 
 I. Junta de Gobierno;
 
-II. Presidente, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+II. Jefe, y
 
 III. Las unidades administrativas que establezca su reglamento interior.
 
@@ -138,13 +202,27 @@ III. Las unidades administrativas que establezca su reglamento interior.
 
 La Junta de Gobierno del Servicio de Administración Tributaria se integrará por:
 
-I. El Secretario de Hacienda y Crédito Público, quien la presidirá;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
 
-II. Dos representantes de la Secretaría de Hacienda y Crédito Público, designados por el titular de esa dependencia;
+I. El Secretario de Hacienda y Crédito Público y tres consejeros designados por él de entre los empleados superiores de Hacienda. El Secretario de Hacienda y Crédito Público presidirá la Junta de Gobierno y podrá ser suplido por otro empleado superior de Hacienda que sea distinto de los designados para integrar la Junta de Gobierno, y
 
-III. El Presidente del Servicio de Administración Tributaria, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
 
-IV. Dos titulares de unidades administrativas del Servicio de Administración Tributaria, de nivel inmediatamente inferior al del Presidente, designados por éste.
+II. Tres consejeros independientes, designados por el Presidente de la República, dos de éstos a propuesta de la Reunión Nacional de Funcionarios Fiscales a que hace referencia la Ley de Coordinación Fiscal. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la administración tributaria, federal o estatal, y quienes por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos y puedan contribuir a mejorar la eficiencia de la administración tributaria y la atención al contribuyente.
+
+Al aceptar el cargo cada consejero independiente deberá suscribir un documento donde declare bajo protesta de decir verdad que no tiene impedimento alguno para desempeñarse como consejero, así como aceptar los derechos y obligaciones derivados de tal cargo, sin que por ello se le considere servidor público en los términos de la legislación aplicable.
+
+Los consejeros independientes deberán cumplir con los siguientes requisitos:
+
+a) No haber ocupado cargos en el último año anterior a su nombramiento, en la administración pública federal o de las entidades federativas o, municipales, y
+
+b) Durante el tiempo que dure su nombramiento no podrán llevar a cabo el ejercicio particular de una profesión en materia fiscal o aduanera, ni ejercer cualquier actividad cuando ésta sea incompatible con sus funciones. Esta limitante no aplicará cuando se trate de causa propia, la de su cónyuge o concubina o concubinario, así como parientes consanguíneos en línea recta sin limitación de grado, y colaterales hasta el cuarto grado, por afinidad o civil.
+
+Los consejeros independientes deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrá ser designado otro en su lugar.
+
+III. (DEROGADA, D.O.F. 12 DE JUNIO DE 2003)
+
+IV. (DEROGADA, D.O.F. 12 DE JUNIO DE 2003)
 
 ###### Artículo 10.
 
@@ -162,11 +240,43 @@ V. Examinar y, en su caso, aprobar los informes generales y especiales que somet
 
 VI. Estudiar y, en su caso, aprobar todas aquellas medidas que, a propuesta del Presidente del Servicio de Administración Tributaria, incrementen la eficiencia en la operación de la administración tributaria y en el servicio de orientación al contribuyente para el cumplimiento de sus obligaciones fiscales, y
 
-VII. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE JUNIO DE 2003)</small>
+
+VII. Aprobar el programa anual de mejora continua y establecer y dar seguimiento a las metas relativas a aumentar la eficiencia en la administración tributaria y mejorar la calidad del servicio a los contribuyentes.
+
+El programa anual de mejora continua deberá contener indicadores de desempeño para medir lo siguiente:
+
+a) El incremento en la recaudación por mejoras en la administración tributaria.
+
+b) El incremento en la recaudación por aumentos en la base de contribuyentes.
+
+c) El incremento en la recaudación por combate a la evasión de impuestos.
+
+d) El incremento en la recaudación por una mejor percepción de la efectividad del Servicio de Administración Tributaria por parte de los contribuyentes.
+
+e) La disminución del costo de operación por peso recaudado.
+
+f) La disminución del costo de cumplimiento de obligaciones por parte de los contribuyentes.
+
+g) La disminución del tiempo de cumplimiento de obligaciones por parte de los contribuyentes.
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+VIII. Analizar las propuestas sobre mejora continua que incluyan los aspectos relacionados con la disminución de los costos de recaudación, la lucha contra la evasión, la elusión, el contrabando y la corrupción, la mejor atención al contribuyente, la seguridad jurídica de la recaudación y del contribuyente, la rentabilidad de la fiscalización y la simplificación administrativa y reducción de los costos de cumplimiento, que sean elaboradas por las unidades administrativas del Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+IX. Proponer a la Secretaría de Hacienda y Crédito Público, como responsable de la política de ingresos, los cambios a la legislación pertinentes para la mejora continua de la administración tributaria.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCION VII], D.O.F. 12 DE JUNIO DE 2003)</small>
+
+X. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ###### Artículo 11.
 
-La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y extraordinarias cuando así lo proponga el Secretario de Hacienda y Crédito Público o el Presidente del Servicio de Administración Tributaria. Para que la Junta de Gobierno sesione válidamente se requerirá la asistencia de más de la mitad de sus integrantes, siempre que entre ellos se encuentren presentes, por lo menos, dos de los mencionados en las fracciones I y II del artículo 9o.
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos una vez cada tres meses y extraordinarias cuando así lo proponga el Secretario de Hacienda y Crédito Público o el Jefe del Servicio de Administración Tributaria. Para que la Junta de Gobierno sesione válidamente, se requerirá la asistencia de más de la mitad de sus integrantes.
 
 Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos de los integrantes presentes. El Secretario de Hacienda y Crédito Público tendrá voto de calidad en caso de empate.
 
@@ -178,15 +288,47 @@ El Servicio de Administración Tributaria realizará periódicamente una evaluac
 
 ### Capítulo III. De la Presidencia
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
 ###### Artículo 13.
 
-El Presidente del Servicio de Administración Tributaria será nombrado y removido por el Presidente de la República y deberá reunir los requisitos siguientes:
+El Jefe del Servicio de Administración Tributaria será nombrado por el Presidente de la República. Este nombramiento estará sujeto a la ratificación del Senado de la República o, en su caso, de la Comisión Permanente del Congreso de la Unión, y deberá reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano;
 
-II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en las materias fiscal y aduanera, y
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
 
-III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en las materias fiscal y aduanera;
+
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+III. No haber sido sentenciado por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+IV. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo dentro de la Federación, Estados, Distrito Federal, Municipios, organismos descentralizados, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 13-A.
+
+El Secretario de Hacienda y Crédito Público, con la aprobación de la Junta de Gobierno, podrá proponer al Presidente de la República la remoción del Jefe del Servicio de Administración Tributaria, en los siguientes casos:
+
+I. Cuando tenga incapacidad física o mental que le impida el correcto ejercicio de sus funciones durante más de seis meses;
+
+II. Deje de reunir alguno de los requisitos señalados en el artículo 13;
+
+III. No cumpla los acuerdos de la Junta de Gobierno o actúe deliberadamente en exceso o defecto de sus atribuciones;
+
+IV. Utilice, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como cuando divulgue la mencionada información sin la autorización de la Junta de Gobierno;
+
+V. Someta a sabiendas, a la consideración de la Junta de Gobierno, información falsa;
+
+VI. Se ausente de sus labores por periodos de más de quince días sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
+
+En las ausencias del Jefe, el Secretario de Hacienda y Crédito Público podrá designar al servidor público que lo sustituirá provisionalmente. Dicho funcionario deberá ser un empleado Superior de Hacienda, y
+
+VII. Incumpla sin justificación las metas y los indicadores de desempeño que apruebe anualmente la Junta de Gobierno en dos ejercicios fiscales consecutivos.
 
 ###### Artículo 14.
 
@@ -264,6 +406,246 @@ Las instancias y comités que se constituyan tendrán como objetivo primordial c
 
 Las relaciones laborales entre el Servicio de Administración Tributaria y sus trabajadores se regirán por lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, por la Ley Federal de los Trabajadores al Servicio del Estado y demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 20-A.
+
+El Servicio de Administración Tributaria podrá abstenerse de llevar a cabo la determinación de contribuciones y sus accesorios, así como de imponer las sanciones correspondientes a las infracciones descubiertas con motivo del ejercicio de sus facultades de comprobación, cuando el monto total de los créditos fiscales no excediera del equivalente en moneda nacional a 3,500 unidades de inversión. Para el ejercicio de esta facultad el Servicio de Administración Tributaria tomará en cuenta las siguientes circunstancias:
+
+a) Ningún contribuyente podrá beneficiarse de esta excepción dos veces.
+
+b) El monto total de los créditos fiscales no debe exceder el equivalente en moneda nacional a 3,500 unidades de inversión.
+
+c) Que las contribuciones omitidas correspondan a errores u omisiones no graves.
+
+Los contribuyentes beneficiados por esta excepción recibirán un apercibimiento por escrito.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+## Título Quinto. De la Información, la Transparencia y la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+### Capítulo I. De la Información y la Transparencia
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 21.
+
+Anualmente, el Servicio de Administración Tributaria deberá elaborar y hacer público un programa de mejora continua que establezca metas específicas sobre los siguientes aspectos:
+
+I. Combate a la evasión y elusión fiscales;
+
+II. Aumento esperado de la recaudación por menor evasión y elusión fiscales;
+
+III. Combate a la corrupción;
+
+IV. Disminución en los costos de recaudación;
+
+V. Aumento en la recaudación por la realización de auditorías, con criterios de mayor rentabilidad de las mismas;
+
+VI. Aumento estimado del número de contribuyentes en el Registro Federal de Contribuyentes y aumento esperado en la recaudación por este concepto;
+
+VII. Mejores estándares de calidad en atención al público y reducción en los tiempos de espera;
+
+VIII. Simplificación administrativa y reducción de los costos de cumplimiento al contribuyente y el aumento en la recaudación esperada por este concepto;
+
+IX. Indicadores de eficacia en la defensa jurídica del fisco ante tribunales;
+
+X. Indicadores de productividad de los servidores públicos y del desarrollo del personal del Servicio de Administración Tributaria, y
+
+XI. Mejorar la promoción de los servicios e información que el público puede hacer a través de la red computacional y telefónica.
+
+El cumplimiento de las metas del programa de mejora continua será el único criterio y base del sistema de evaluación del desempeño con los cuales el Jefe del Servicio de Administración Tributaria propondrá a la Junta de Gobierno un esquema de incentivos a la productividad de los servidores públicos. En ningún caso se otorgarán estímulos por el solo aumento general de la recaudación o el cobro de multas.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 22.
+
+El Servicio de Administración Tributaria estará obligado a proporcionar los datos estadísticos necesarios para que el Ejecutivo Federal proporcione la información siguiente al Congreso de la Unión:
+
+I. Informes mensuales sobre la evolución de la recaudación. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público de las Cámaras de Diputados y de Senadores a más tardar 35 días después de terminado el mes de que se trate;
+
+II. Informes trimestrales sobre la evolución de la recaudación, dentro de los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública. Dichos informes deberán presentarse a las Comisiones de Hacienda y Crédito Público de las Cámaras de Diputados y de Senadores a más tardar 35 días después de terminado el trimestre de que se trate, y
+
+III. El presupuesto anual de gastos fiscales, entendido como el monto que el erario federal deja de recaudar por concepto de tasas diferenciadas, tratamientos y regímenes especiales, estímulos, diferimientos de pagos, deducciones autorizadas y condonaciones de créditos establecidos en las leyes tributarias. Dicha información será presentada cuando menos por impuesto, por rubro específico y por tipo de contribuyente beneficiado. El presupuesto anual de gastos fiscales para el ejercicio fiscal correspondiente deberá presentarse junto con la iniciativa de Ley de Ingresos de la Federación y el Proyecto de Presupuesto de Egresos de la Federación.
+
+La información que el Servicio de Administración Tributaria proporcione en los términos de este artículo deberá ser completa y oportuna. En caso de incumplimiento se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 23.
+
+Para la elaboración de los informes trimestrales a que se refiere el artículo 22 de esta Ley, el Servicio de Administración Tributaria proporcionará la información necesaria para que el Ejecutivo Federal señale los avances de los programas de recaudación, así como las principales variaciones en los objetivos y en las metas de los mismos. Dichos informes contendrán lo siguiente:
+
+I. La recaudación federal con la desagregación correspondiente establecida en la Ley de Ingresos de la Federación;
+
+II. Los ingresos recabados u obtenidos por el Gobierno Federal, atendiendo al origen petrolero y no petrolero de los recursos, especificando los montos que corresponden a impuestos, derechos, aprovechamientos e ingresos propios de Petróleos Mexicanos;
+
+III. Los ingresos recabados u obtenidos conforme a la clasificación institucional de los recursos;
+
+IV. Los ingresos excedentes a los previstos en la Ley de Ingresos de la Federación, sin considerar las aportaciones de seguridad social;
+
+V. Dentro del Informe trimestral, un comparativo que presente las variaciones de los ingresos obtenidos al trimestre por cada concepto indicado en la fracción I del presente artículo respecto a las estimaciones de ingresos publicadas en el Diario Oficial de la Federación para el Ejercicio Fiscal que corresponda, así como las razones que expliquen estas variaciones, y
+
+VI. Los avances en el cumplimiento de las metas respectivas establecidas en el programa a que hace referencia el artículo 21 de esta Ley, así como un análisis de costo-efectividad de las acciones llevadas a cabo para el cumplimiento de los objetivos y metas.
+
+Los informes a que se refiere este artículo deberán integrarse bajo una metodología que permita hacer comparaciones consistentes a lo largo del ejercicio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 24.
+
+El Servicio de Administración Tributaria proporcionará a la Secretaría de Hacienda y Crédito Público los datos estadísticos necesarios para que el Ejecutivo Federal informe en una sección específica en los informes trimestrales a que se refiere la fracción II del artículo 22 de esta Ley, lo relativo a:
+
+I. Recaudación, saldos de los créditos fiscales, número de contribuyentes, por sector de actividad y por tamaño de contribuyente, de acuerdo a la clasificación siguiente:
+
+A. Personas físicas.
+
+B. Personas físicas con actividades empresariales.
+
+C. Personas morales.
+
+II. Recaudación por actividad económica.
+
+III. Recaudación del Impuesto sobre la Renta de personas morales; personas físicas; residentes en el extranjero y otros regímenes fiscales que establece la ley de la materia; asimismo, presentar datos sobre el número de contribuyentes por régimen fiscal y recaudación por sector de actividad y por tamaño de contribuyente.
+
+IV. Recaudación del Impuesto al Valor Agregado de personas físicas y morales; por sector de actividad económica; por tamaño de contribuyente; por régimen fiscal que establece la ley de la materia, y por su origen petrolero y no petrolero, desagregando cada uno de los rubros tributarios asociados al sector;
+
+V. Los derechos; aprovechamientos, e ingresos propios de Petróleos Mexicanos;
+
+VI. Recaudación del Impuesto Especial sobre Producción y Servicios de cerveza y bebidas refrescantes; bebidas alcohólicas; tabacos labrados, y gas, gasolinas y diesel;
+
+VII. Monto de la Recaudación Federal Participable e integración de los fondos que se distribuirán a las entidades federativas y municipios vía Participaciones Federales;
+
+VIII. Ingresos derivados de auditoría y de las acciones de fiscalización, así como los gastos efectuados con motivo de estas tareas;
+
+IX. Aplicación de multas fiscales;
+
+X. Los montos que representan para el erario federal los estímulos fiscales a que se refieren las disposiciones fiscales, así como los sectores de la actividad económica que reciben los beneficios;
+
+XI. Datos sobre los juicios ganados y perdidos por el Servicio de Administración Tributaria ante tribunales;
+
+XII. Información detallada sobre los sectores de la actividad económica beneficiados por los estímulos fiscales, así como el monto de los costos para la recaudación por este concepto;
+
+XIII. Cartera de créditos fiscales exigibles, así como el saldo de los créditos fiscales en sus distintas claves de tramitación de cobro y el importe mensual recuperado;
+
+XIV. Universo de contribuyentes por sector de actividad económica, por tamaño de contribuyente y por personas físicas y morales;
+
+XV. Importe de las devoluciones efectuadas y de las compensaciones aplicadas por cada uno de los impuestos;
+
+XVI. Número de funcionarios respecto de los cuales el Servicio de Administración Tributaria haya presentado denuncias o querellas ante el Ministerio Público o ante la Contraloría Interna, las áreas donde se detectaron los ilícitos, y su distribución regional;
+
+XVII. Indicadores de la calidad del servicio al contribuyente, que incluyan al menos:
+
+A. Calidad de la atención personal de los funcionarios.
+
+B. Calidad del lugar.
+
+C. Información recibida de acuerdo a las necesidades del contribuyente.
+
+D. Tiempo del trámite.
+
+E. Costos de cumplimiento.
+
+XVIII. Datos estadísticos sobre el uso de los recursos informáticos del Servicio de Administración Tributaria por los contribuyentes, y
+
+XIX. La información completa sobre el número de empleados del Servicio de Administración Tributaria, así como su costo, por cada uno de los niveles y áreas establecidos en esta Ley y su reglamento interior.
+
+Para la presentación de esta información las Comisiones de Hacienda y Crédito Público de la Cámara de Diputados y de la Cámara de Senadores podrán definir el contenido de los cuadros estadísticos requeridos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 25.
+
+Cuando las Comisiones de Hacienda y Crédito Público de la Cámara de Diputados o de la Cámara de Senadores, requieran información adicional o aclaratoria, respecto de los datos estadísticos y demás informes a cargo del Servicio de Administración Tributaria, que haya presentado el Ejecutivo Federal, podrán solicitarla directamente al órgano desconcentrado mencionado. Dicha información deberá entregarse en forma impresa y en medios magnéticos en los términos que estas Comisiones determinen. Dicha información deberá ser entregada por el Servicio de Administración Tributaria a la Comisión que la solicite en el plazo que se establezca en la propia solicitud, el cual no será inferior a 10 días naturales, contados a partir de la recepción de la solicitud que se haga.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 26.
+
+Con el propósito de transparentar la relación fiscal entre la Federación y sus miembros, y de garantizar el estricto cumplimiento de la Ley de Coordinación Fiscal, el Servicio de Administración Tributaria proporcionará la información necesaria para que el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, publique mensualmente en el Diario Oficial de la Federación la información relativa a la recaudación federal participable y a las participaciones federales, por estados y la correspondiente al Distrito Federal, incluyendo los procedimientos de cálculo. La publicación de referencia deberá efectuarse a más tardar, dentro de los 30 días siguientes a la terminación del mes de que se trate y enviarse a las Comisiones de Hacienda y Crédito Público de la Cámara de Diputados y Cámara de Senadores.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 27.
+
+La Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria atenderán las obligaciones que sobre transparencia e información les impone la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y difundirán entre la población en general, a través de las páginas electrónicas que tengan establecidas en el sistema "Internet", la información relativa a la legislación, reglamentos y disposiciones de carácter general así como las tablas para el pago de impuestos. Para tal efecto, deberán incluir la información en sus páginas electrónicas dentro de las 24 horas siguientes a la que se haya generado dicha información o disposición.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+### Capítulo II. De la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 28.
+
+En las tareas de recaudación y de fiscalización del Gobierno Federal, el Servicio de Administración Tributaria estará obligado a proporcionar a la Secretaría de Contraloría y Desarrollo Administrativo y a la Entidad de Fiscalización Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones que apliquen, la información estadística en materia de recaudación y fiscalización que éstas requieran, así como los elementos para la revisión selectiva que sean necesarios para verificar dicha información con el único propósito de corroborarla y, en su caso, fincar las responsabilidades que correspondan a los servidores públicos que la hayan elaborado. En todo caso, la Secretaría de Contraloría y Desarrollo Administrativo, así como la Entidad de Fiscalización Superior de la Federación estarán obligadas a guardar absoluta reserva de los datos en los términos del artículo 69 del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 29.
+
+Con el propósito de conocer con mayor detalle los niveles de evasión fiscal en el país, el Servicio de Administración Tributaria deberá publicar anualmente estudios sobre la evasión fiscal. En dichos estudios deberán participar al menos dos instituciones académicas de prestigio en el país. Sus resultados deberán darse a conocer a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión, a más tardar 35 días después de terminado el ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 30.
+
+Con el objeto de facilitar la evaluación de la eficiencia recaudatoria, el Servicio de Administración Tributaria deberá elaborar y entregar a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión una metodología para determinar el costo beneficio de la recaudación y la fiscalización por cada impuesto contemplado en la legislación tributaria federal. Los resultados de aplicar dicha metodología para los distintos impuestos federales deberán incluirse en los informes trimestrales a los que se refiere el artículo 22 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 31.
+
+Con el propósito de coadyuvar a mejorar la evaluación de la eficiencia recaudatoria y sus efectos en el ingreso de los distintos grupos de la población, el Servicio de Administración Tributaria deberá realizar anualmente un estudio de ingreso-gasto que muestre por decil de ingreso de las familias su contribución en los distintos impuestos y derechos que aporte, así como los bienes y servicios públicos que reciben con recursos federales, estatales y municipales. Dicho estudio se presentará a las Comisiones de Hacienda y Crédito Público de las Cámaras de Diputados y Senadores, a más tardar 35 días después de terminado el ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 32.
+
+El Servicio de Administración Tributaria establecerá un sistema que permita evaluar su desempeño. Dicho sistema incluirá los indicadores necesarios para medir la eficiencia en el desempeño de dichas tareas con base en los resultados obtenidos. Al menos deberán incluirse indicadores que midan la eficiencia en el cumplimiento de las metas establecidas en el programa a que hace referencia el artículo 21 de esta Ley, así como la evolución de los aspectos contenidos en los informes trimestrales a que se refiere el artículo 22 de la misma ley.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 33.
+
+La Contraloría Interna del Servicio de Administración Tributaria vigilará el cumplimiento de los planes y programas aprobados por la Junta de Gobierno, fundamentalmente, el sistema de evaluación del desempeño, y, en su caso, someterá a consideración del Jefe del Servicio de Administración Tributaria, las mejoras que estime pertinentes.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+## Título Sexto. De la Responsabilidad del Servicio de Administración Tributaria
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+
+###### Artículo 34.
+
+El Servicio de Administración Tributaria será responsable del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les correspondan.
+
+El cumplimiento de la responsabilidad del Servicio de Administración Tributaria establecida en el párrafo anterior, no exime a los servidores públicos que hubieran realizado la conducta que originó los daños y perjuicios de la aplicación de las sanciones administrativas que procedan en términos de la Ley Federal de Responsabilidades de los Servidores Públicos, así como de las penales y laborales que, en su caso, se deban imponer.
+
+El cumplimiento de la responsabilidad del Servicio de Administración Tributaria será exigible ante el Tribunal Federal de Justicia Fiscal y Administrativa, en sustitución de las acciones que los particulares puedan ejercer de conformidad con las disposiciones del derecho federal común.
+
+El contribuyente que solicite una indemnización deberá probar, entre los hechos de los que deriva su derecho, la lesión, la acción u omisión del Servicio de Administración Tributaria y la relación de causalidad entre ambos; así mismo, deberá probar la realidad y el monto de los daños y perjuicios.
+
+En la misma demanda en que se controvierte una resolución o en una por separado, se podrá solicitar la indemnización a que se refiere este artículo. En relación con la documentación que se debe acompañar a la demanda, en los casos de responsabilidad, el contribuyente no estará obligado a adjuntar el documento en que conste el acto impugnado, la copia en la que obre el sello de recepción de la instancia no resuelta por la autoridad ni, en su caso, el contrato administrativo.
+
+Las sentencias que dicte el Tribunal Federal de Justicia Fiscal y Administrativa en materia de responsabilidad, deberán, en su caso, declarar el derecho a la indemnización, determinar el monto de los daños y perjuicios y condenar al Servicio de Administración Tributaria a su pago. Cuando no se haya probado el monto de los daños y perjuicios, la sentencia podrá limitarse a declarar el derecho a la indemnización; en este caso, el contribuyente deberá promover incidente ante la Sala del Tribunal Federal de Justicia Fiscal y Administrativa en la que originalmente impugnó, pidiendo la liquidación de los daños y perjuicios, una vez que tenga los elementos necesarios para determinarlos.
+
+El Servicio de Administración Tributaria deberá indemnizar al particular afectado por el importe de los gastos y perjuicios en que incurrió, cuando la unidad administrativa de dicho órgano cometa falta grave al dictar la resolución impugnada y no se allane al contestar la demanda en el concepto de impugnación de que se trate. Para estos efectos, únicamente se considera falta grave cuando la resolución impugnada:
+
+I. Se anule por ausencia de fundamentación o de motivación, en cuanto al fondo o a la competencia.
+
+II. Sea contraria a una jurisprudencia de la Suprema Corte de Justicia de la Nación en materia de legalidad. Si la jurisprudencia se publica con posterioridad a la contestación no hay falta grave.
+
+III. Se anule por desvío de poder.
+
+En los casos de responsabilidad del Servicio de Administración Tributaria, se aplicarán supletoriamente las disposiciones del derecho federal que rijan materias similares y los principios generales del derecho que mejor se avengan a la naturaleza y fines de la institución.
+
 T r a n s i t o r i o s
 
 Primero. La presente Ley entrará en vigor el 1o. de julio de 1997.
@@ -305,3 +687,29 @@ Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamien
 ...
 
 SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 12 DE JUNIO DE 2003.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Para los efectos de lo dispuesto por los artículos 7o.-B y 7o.-D, la Junta de Gobierno del Servicio de Administración Tributaria llevará a cabo la designación de los ocho expertos en artes plásticas que por vez primera integrarán el Comité a que se refieren dichos numerales, previa opinión del Consejo Nacional para la Cultura y las Artes.
+
+El periodo de vigencia de las designaciones mencionadas se determinará por la Junta de Gobierno, en la forma siguiente:
+
+a) Dos integrantes, un año.
+
+b) Dos integrantes, dos años.
+
+c) Dos integrantes, tres años.
+
+d) Dos integrantes, cuatro años.
+
+Los miembros que cubran las vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
+
+Artículo Tercero. En las disposiciones donde se refiera al Presidente del Servicio de Administración Tributaria se entenderá como Jefe del Servicio de Administración Tributaria.
+
+Artículo Cuarto. El Ejecutivo Federal propondrá al titular del Servicio de Administración Tributaria dentro de los 60 días naturales posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación, conforme al artículo 13 de esta Ley.
+
+Artículo Quinto. En el marco del proceso de modernización del Servicio de Administración Tributaria, este organismo deberá llevar a cabo una revisión de su plan estratégico. Con base en dicha revisión elaborará un programa de acciones necesarias de corto plazo, así como los programas operativos de cada una de las unidades administrativas, incluyendo los indicadores de cumplimiento respectivo. Además, establecerá un sistema de evaluación del desempeño de dichas unidades hasta el nivel de administración local, tanto de impuestos internos como de aduanas.
+
+Las medidas anteriores deberán ser cumplidas dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto.
