@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-dispone-que-el-conjunto-de-la-25102"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1982-11-12"
-last_updated: "1982-11-12"
+last_updated: "1998-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25102&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1982-10-28"
 
 ACUERDO POR EL QUE SE DISPONE QUE EL CONJUNTO DE LA DOCUMENTACION CONTABLE, CONSISTENTE EN LIBROS DE CONTABILIDAD, REGISTROS CONTABLES Y DOCUMENTACION COMPROBATORIA O JUSTIFICATORIA DEL INGRESO Y DEL GASTO PUBLICO DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL, CONSTITUYEN EL ARCHIVO CONTABLE GUBERNAMENTAL QUE DEBERA GUARDARSE, CONSERVARSE Y CUSTODIARSE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS A QUE SE SUJETARA LA GUARDA, CUSTODIA Y PLAZO DE CONSERVACION DEL ARCHIVO CONTABLE GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 1998, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de noviembre de 1982.
 
@@ -68,3 +70,13 @@ NOVENO.- Las dependencias coordinadoras de sector cuidarán del cumplimiento de 
 ÚNICO.- El presente Acuerdo entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
 
 Dado en el Palacio del Poder Ejecutivo de la Unión, en México, Distrito Federal, a los veintiocho días del mes de octubre de 1982.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de la Defensa Nacional, Félix Galván López.- Rúbrica.- El Secretario de Marina, Ricardo Cházaro Lara.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Programación y Presupuesto, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Patrimonio y Fomento Industrial, José Andrés Oteyza.- Rúbrica.- El Secretario de Comercio, Jorge de la Vega Domínguez.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Francisco Merino Rábago.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Mújica Montoya.- Rúbrica.- El Secretario de Asentamientos Humanos y Obras Públicas, Pedro Ramírez Vázquez.- Rúbrica.- El Secretario de Educación Pública, Fernando Solana Morales.- Rúbrica.- El Secretario de Salubridad y Asistencia, Mario Calles López Negrete.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Sergio García Ramírez.- Rúbrica.- El Secretario de la Reforma Agraria, Gustavo Carvajal Moreno.- Rúbrica.- La Secretaría de Turismo, Rosa Luz Alegría.- Rúbrica.- El Secretario de Pesca, Fernando Rafful Miguel.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Carlos Hank González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 25 DE AGOSTO DE 1998.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el diverso de fecha 28 de octubre de 1982, publicado en el Diario Oficial de la Federación el 12 de noviembre del mismo año.
+
+TERCERO. El cumplimiento de lo dispuesto en este Acuerdo no implicará la ampliación de recursos presupuestarios.
