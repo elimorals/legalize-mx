@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1994-10-23"
+last_updated: "1994-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -669,11 +669,11 @@ III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro d
 
 Este Impuesto se liquidará de conformidad con las cuotas y tasas, que al efecto señale la Ley de Ingresos del Municipio.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 49.
 
-El pago de este impuesto se efectuará a más tardar el último día hábil de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
-
-Los pagos pueden hacerse por anticipado sin perjuicio del cobro de diferencia en caso de que se modifique la base gravable.
+Este impuesto se pagará en forma anual dentro del periodo comprendido del mes de enero al último día hábil del mes de marzo.
 
 ###### ARTICULO 50.
 
@@ -1660,5 +1660,9 @@ P.O. 24 DE OCTUBRE DE 1993.
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE OCTUBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
