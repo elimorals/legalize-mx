@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1995-04-02"
+last_updated: "1995-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1995.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -375,7 +375,15 @@ Los Tribunales, para hacer cumplir sus determinaciones pueden emplear, a discrec
 
 I.- Multa hasta de diez días de salario mínimo general vigente en el Estado;
 
-II.- El auxilio de la fuerza pública.
+II.- El auxilio de la fuerza pública;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 1995)</small>
+
+III.- El cateo por orden escrita; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 1995)</small>
+
+IV.- La privación de la libertad hasta por quince días.
 
 Si fuese insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 
@@ -5376,3 +5384,7 @@ Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado 
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
