@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1984-11-16"
+last_updated: "1985-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1985.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -3661,6 +3661,88 @@ ART. 334.- En imcumplimiento (sic) de estas disposiciones causará sanciones que
 
 Mientras se expide el Código Sanitario del Estado de Sinaloa, la inspección, vigilancia, servicio, normas y procedimientos sanitarios, se aplicarán de conformidad con las disposiciones establecidas en el Código Sanitario de los Estados Unidos Mexicanos y sus Reglamentos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 1985)</small>
+
+### CAPITULO XIII. Carretera Costera Plan Mar de Cortez (sic)
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1985)</small>
+
+ART. 334 Bis.- El uso de la Carretera Costera Plan Mar de Cortez (sic), mediante el tránsito de vehículos, estará sujeto a las cuotas que a continuación se establecen:
+
+I.- Automóviles, de hasta diez pasajeros, camiones sencillos de hasta una tonelada tipos pick-up y panel y motocicletas:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de: $ 100.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 300.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 250.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 100.00.
+
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 1985)</small>
+
+II.- Automóviles de hasta diez pasajeros con remolque y camiones sencillos de hasta una tonelada tipo pick-up y panel con remolque:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 150.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de: $ 400.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 300.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
+
+III.- Omnibuses:
+
+a).- En el tramo comprendido entre Las Brisas Alhuey o viceversa, la cantidad de $ 150.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 400.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 300.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
+
+IV.- Camiones de carga de dos ejes:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 150.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 500.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 350.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
+
+V.- Camiones de carga o tractores con semiremolque (sic) de tres ejes:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 200.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 600.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 400.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
+
+VI.- Camiones de carga o tractores con remolque de cuatro ejes:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 200.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 650.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 450.00.
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
+
+VII.- Camiones de carga o tractores con remolque de cinco ejes:
+
+a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 250.00.
+
+b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad de $ 750.00.
+
+c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 550.00
+
+d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
+
+Por cada eje excedente, la cuota se incrementará en un 10%.
+
 ### CAPITULO UNICO
 
 ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Finanzas del Estado.
@@ -3793,6 +3875,40 @@ MUNICIPIOS PORCENTAJE DE PARTICIPACION
 
 ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
 
+### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+
+ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+
+Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+
+ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+
+ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+
+ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+
+ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+
+ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+
+I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+
+II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+
+III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+
+IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+
+V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+
+ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
 > <small>(REFORMADO PRIMER PARRAFO, P. O. 1 DE ENERO DE 1982)</small>
@@ -3873,39 +3989,39 @@ ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
 
-### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
-ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
 
-Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
 
-ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
 
-ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
 
-ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+T A R I F A
 
-ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+I.- Camarón $ 375.00 Tonelada
 
-ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+II.- Otras Especies 100.00 "
 
-I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+ART. 250.- El pago de este impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros 20 días del mes siguiente, en la Oficna (sic) Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
 
-II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
 
-III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
 
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
 
-V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
 
-ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
-ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO II. Adicional Municipal
 
@@ -3967,52 +4083,6 @@ ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 378 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en las Fracciones II, III, IV, V, y XIII, del Artículo 371, de la Fracción II del Artículo 372, así como el Artículo 376, de este Capítulo.
 
-### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
-
-ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
-
-ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
-
-T A R I F A
-
-I.- Camarón $ 375.00 Tonelada
-
-II.- Otras Especies 100.00 "
-
-ART. 250.- El pago de este impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros 20 días del mes siguiente, en la Oficna (sic) Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para el efecto autorice la Secretaría de Finanzas del Estado.
-
-ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
-
-ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
-
-I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
-
-II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
-
-### CAPITULO III. 21 y 22% Adicionales
-
-ART. 379.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 21%, que se causará sobre el monto de los impuestos sobre Productos de Capitales, sobre Producción de Alcohol y sobre Producción de Azúcar y Mascabado.
-
-ART. 380.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 22%, que se causará sobre el monto del Impuesto sobre Producción Agrícola.
-
-ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se causará gravamen adicional alguno.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
-
 ### CAPITULO XIX. Impuesto a la Industria Harinera
 
 ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
@@ -4049,6 +4119,20 @@ ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras 
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
+### CAPITULO III. 21 y 22% Adicionales
+
+ART. 379.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 21%, que se causará sobre el monto de los impuestos sobre Productos de Capitales, sobre Producción de Alcohol y sobre Producción de Azúcar y Mascabado.
+
+ART. 380.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 22%, que se causará sobre el monto del Impuesto sobre Producción Agrícola.
+
+ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se causará gravamen adicional alguno.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
+
+## TITULO SEPTIMO. TASAS ADICIONALES
+
 ### CAPITULO UNICO
 
 ART. 382.- Son ingresos extraordinarios, los que obtenga el Estado por concepto de:
@@ -4058,8 +4142,6 @@ I.- Empréstitos;
 II.- Aportaciones de los entes públicos;
 
 III.- No especificados.
-
-## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO UNICO
 
@@ -4411,6 +4493,8 @@ TITULO ONCEAVO
 
 DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
+## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 401.- Las autoridades fiscales del Estado, seguirán el procedimiento fiscal de ejecución para obtener el pago de los créditos fiscales que no hubieren sido pagados espontáneamente, dentro de los plazos que las leyes fiscales establecen.
@@ -4435,7 +4519,7 @@ ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que 
 
 Los ejecutores notificadores recibirán a título de honorarios el 16% sobre el crédito fiscal notificado, sin que en ningún caso pueda exceder de $ 2,000.00, lo que por este concepto corresponda.
 
-## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
 
 ### CAPITULO II. De la Suspensión del Procedimiento de Ejecución Fiscal
 
@@ -4459,7 +4543,7 @@ ART. 408.- La Secretaría de Finanzas dictará los requisitos que deban reunir l
 
 ART. 409.- La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
-## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
+## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO III. Del Requerimiento de Pago
 
@@ -4480,8 +4564,6 @@ VI.- En los casos previstos en la fracción anterior y en aquéllos otros en que
 VII.- En caso de negativa a firmar se hará constar el hecho, en acta que levante el ejecutor.
 
 VIII.- Lo asentado por el Ejecutor notificador hará prueba plena mientras no se demuestre lo contrario.
-
-## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO IV. De los Embargos
 
@@ -5224,3 +5306,9 @@ El presente Decreto entrará en vigor a partir del día 1o. de Noviembre de mil 
 ###### ARTICULO QUINTO.
 
 Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE JUNIO DE 1985.
+
+###### ARTICULO UNICO.
+
+Este Decreto empezará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"
