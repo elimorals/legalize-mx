@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-81"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-12-24"
-last_updated: "1998-01-23"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LOAM"
 
 LEY ORGANICA DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ARMADA DE MEXICO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 30 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el día viernes 24 de diciembre de 1993.
 
@@ -1307,3 +1309,17 @@ TERCERO.- Se derogan todas las disposiciones legales, que se opongan al presente
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente Ley abroga a la Ley Orgánica de la Armada de México, publicada en el Diario Oficial de la Federación el veinticuatro de diciembre de mil novecientos noventa y tres, así como a su reforma del doce de diciembre de mil novecientos noventa y cinco.
+
+TERCERO.- El personal de los Cuerpos General e Ingenieros Mecánicos Navales, creados por la Ley Orgánica de la Armada de México del treinta y uno de diciembre de mil novecientos cincuenta y uno, continuará prestando sus servicios conforme a las disposiciones de la presente Ley hasta causar baja; estos cuerpos quedarán en extinción.
+
+CUARTO.- El personal del Cuerpo de Aeronáutica Naval e Infantería de Marina a que se refieren los artículos 74 y 75 de la Ley Orgánica de la Armada de México del veintiséis de diciembre de mil novecientos ochenta y cuatro, continuará prestando sus servicios conforme a las disposiciones de la presente Ley hasta causar baja; estos cuerpos quedarán en extinción.
+
+QUINTO.- El personal de la milicia permanente perteneciente a los servicios creados en la Ley Orgánica de la Armada de México del veinticuatro de diciembre de mil novecientos noventa y tres, con reformas y adiciones publicadas en el Diario Oficial el doce de diciembre de mil novecientos noventa y cinco, continuará prestando sus servicios conforme a las disposiciones de la presente Ley, pudiendo pasar a situación de retiro o causar baja en los términos en que lo establecen las disposiciones aplicables.
+
+SEXTO.- El personal de la milicia auxiliar que posea un grado superior al máximo especificado en esta Ley, continuará prestando sus servicios y podrá pasar a la milicia permanente en los términos de la Ley Orgánica de la Armada de México del veinticuatro de diciembre de mil novecientos noventa y tres, con sus reformas y adiciones publicadas en el Diario Oficial de la Federación el doce de diciembre de mil novecientos noventa y cinco.
