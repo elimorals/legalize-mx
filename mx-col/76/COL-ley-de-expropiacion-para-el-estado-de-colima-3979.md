@@ -4,7 +4,7 @@ identifier: "COL-ley-de-expropiacion-para-el-estado-de-colima-3979"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-12"
-last_updated: "2001-03-31"
+last_updated: "2004-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 12 de septiembre de 1992.
 
@@ -81,7 +81,9 @@ III.- La creación, ampliación, saneamiento y mejoramiento de centros de poblac
 
 IV.- La construcción y ampliación de cementerios, hospitales, centros y clínicas de salud, oficinas públicas, centrales de autobuses, viviendas y conjuntos habitacionales de interés social, escuelas, bibliotecas, parques, jardines, instalaciones deportivas, teatros, auditorios, casas de usos múltiples, establecimientos penitenciarios e instalaciones para fomentar la cultura, la recreación y el sano esparcimiento;
 
-V.- La creación, fomento y conservación de empresas e industrias, para beneficio de la colectividad;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2004)</small>
+
+V.- La creación, fomento y conservación de parques, zonas industriales, empresas e industrias para beneficio de la colectividad, así como la creación y conservación de reservas territoriales para el establecimiento de las mismas;
 
 VI.- La conservación de los edificios y monumentos arqueológicos o de interés histórico o artístico y de los bienes o cosas que se consideran como características notables de nuestra cultura;
 
@@ -95,9 +97,21 @@ X.- La construcción de carreteras, así como de caminos locales, comunales, vec
 
 XI.- La dotación de fundos legales de las poblaciones y la ampliación de los mismos, cuando sus necesidades lo requieran;
 
-XII.- La construcción de presas, canales, bordos, establecimiento y explotación de pozos profundos, artesianos y desecación de pantanos; y
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2004)</small>
 
-XIII.- La construcción de edificios e infraestructura de apoyo administrativo para los gobiernos estatal o municipales.
+XII.- La construcción de presas, canales, bordos, establecimientos y explotación de pozos profundos, artesianos y desecación de pantanos;
+
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2004)</small>
+
+XIII.- La construcción de edificios e infraestructuras de apoyo administrativo para los gobiernos estatal y municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE MAYO DE 2004)</small>
+
+XIV.- La creación, establecimiento, impulso, promoción y fomento de áreas, zonas, lugares y puntos de interés y desarrollo turístico; y
+
+> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2004)</small>
+
+XV.- Las que sean declaradas como tales en las leyes expedidas por el Congreso del Estado.
 
 ### CAPITULO III. DE LAS AUTORIDADES EN MATERIA DE EXPROPIACION
 
@@ -181,7 +195,9 @@ Los edictos se publicarán por una sola vez en el Periódico Oficial "El Estado 
 
 El procedimiento de expropiación se iniciará por:
 
-I.- El Secretario del ramo, cuando se trate de expropiar bienes que serán utilizados directamente por el Gobierno del Estado;
+> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2004)</small>
+
+I.- El secretario del ramo, en los casos en que se trate de expropiar bienes que serán utilizados directamente por el Gobierno del Estado o cuya construcción estará a cargo de la respectiva dependencia o se trate de un bien que deba aportarse por el Gobierno del Estado en un esquema de coordinación con los gobiernos federal o municipales, para la realización de una obra que se destine a alguna de las causas de utilidad pública prevista por el artículo 5° del presente ordenamiento. De igual manera, podrá iniciar dicho procedimiento, cuando el bien cuya expropiación se solicite vaya a ser utilizado para la realización de acciones que se ubiquen dentro del ámbito de competencia de la respectiva Secretaria;
 
 II.- Los Ayuntamientos, cuando se pretendan expropiar bienes enclavados en sus respectivas jurisdicciones; y
 
@@ -340,3 +356,7 @@ P.O. 31 DE MARZO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+D.O.F. 8 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Colima".
