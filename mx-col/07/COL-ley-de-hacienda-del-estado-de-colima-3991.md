@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1997-12-31"
+last_updated: "1999-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1999.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -111,7 +111,9 @@ Para los efectos del Artículo anterior, el impuesto se calculará sobre el ingr
 
 Son objeto de este impuesto, los ingresos que se obtengan en efectivo o en especie, derivado del libre ejercicio de una profesión, de una actividad técnica o que requiera habilidad, de una actividad cultural, artística, deportiva o de cualquier otra naturaleza.
 
-En tanto esté en vigor el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado por el Gobierno Federal y el Gobierno del Estado de Colima, solo podrán ser objeto de este impuesto los ingresos que no estén gravados por la Ley del Impuesto al Valor Agregado.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+En tanto esté en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado por el Gobierno Federal y el Gobierno del Estado de Colima, solo podrán ser objeto de este impuesto los ingresos que no están gravados por la Ley del Impuesto al Valor Agregado.
 
 ###### Artículo 11.
 
@@ -307,7 +309,33 @@ II.- Los comisionistas, consignatarios o cualquier otra persona que intervengan 
 
 III.- Los servidores públicos que autoricen cualquier trámite de los referidos en la fracción III del Artículo 30.
 
-### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
+
+Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
+
+Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 33.
 
@@ -367,8 +395,6 @@ Las autoridades competentes, al otorgar permisos para la explotación de espect�
 
 Garantizarán preferentemente el pago de este impuesto, los bienes muebles, el equipo y las instalaciones, que se utilicen para el desarrollo de la actividad gravada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
 ### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
@@ -425,31 +451,7 @@ II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, regis
 
 III.- Cuando se imposibilite por cualquier medio el conocimiento de las operaciones realizadas por servicios objeto de este impuesto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
-
-Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
-
-Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
-
-Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -499,7 +501,9 @@ salarios mínimos
 
 I.- Expedición de Fiat de Notario 270,000
 
-II.- Por nombramiento de Notario Interino 90,000
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+II.- Por nombramiento de Notario Interino y/o Adscrito 110.000
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
 
@@ -523,9 +527,7 @@ VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.500
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.350
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-X.- Por servicio foráneo de la tramitación de la documentación de pasaporte 1.750
+X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
 XI. Por autorización de Registros Extemporáneos 1,350
 
@@ -561,13 +563,29 @@ XX.- Por la revalidación anual de los servicios privados de seguridad 40.000
 
 XXI.- Por trámite de permiso para constituir sociedades, asociaciones y modificaciones de estatutos 1.750
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+XXII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-XXII.- Aviso de la utilización del permiso ante la Secretaría de Relaciones Exteriores 1.750
+XXIII.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
 
-XXIII.- Certificado de nacionalidad 1.750
+XXIV.- Anuencia para palenques de gallos 19.000
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXV.- Anuencia para compra-venta, transporte, manejo, almacenamiento de explosivos y juegos pirotécnicos 9,000
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXVI.- Otras anuencias 3,830
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.000
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XXVIII.- Autorización para registro de documentos 1.000
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -613,17 +631,11 @@ Más:
 
 3.- Por cada hora de maniobras 2.250
 
-III.- Por la aplicación de exámenes para obtener licencia de manejo:
+III.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-a).- De conocimientos viales (incluye material didáctico) 0.900
+IV.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-b).- Para determinación de tipo sanguíneo 0.900
-
-c).- De agudeza visual 0.900
-
-IV.- Por la aplicación de examen para determinar estado de ebriedad 1.800
-
-V.- Expedición de credencial de identificación para conductores de vehículos de servicio público de pasajeros 0.900
+V.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
 VI.- Por expedición de constancias, por cada una 1.350
 
@@ -635,7 +647,7 @@ Numero de días de salario
 
 mínimo
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 I.- Expedición y reposición de licencia para manejar vehículos de motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
@@ -645,9 +657,7 @@ b).- Chofer y conductor de servicios 5.830
 
 c).- Motociclista 3.239
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-d).- Expedición y/o refrendo anual de identificación de choferes y/o conductores de servicio público de pasaje 2.000
+d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -655,7 +665,9 @@ e).- La reposición de licencias para manejar vehículos de motor, será del equ
 
 Los derechos consignados en el inciso d), deberán pagarse durante los meses de enero a junio.
 
-II.- Por expedición de concesión, cesión o traspaso de derecho, a vehículos de servicio público, conforme a la siguiente clasificación:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 5 DE ENERO DE 1999)</small>
+
+II.- Por la expedición de concesión, cesión o traspaso de derecho a vehículos de servicio público conforme a la siguiente clasificación:
 
 a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento
 
@@ -669,9 +681,19 @@ d).- Servicio exclusivo funerario 97.170
 
 e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 23,752
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Los derechos que establece esta fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+En el caso de cesión o traspaso de la concesión, si ésta se realiza entre cónyuges y ascendientes o descendientes en línea recta en primer grado, se pagará el 30% de la cuota que corresponda a los incisos anteriores.
+
 III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación este sujeta a contrato de arrendamiento, anualmente:
 
-a).- Por cada vehículo de sitio y escuelas de manejo 10.257
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+a).- Por cada vehículo de sitio y escuelas de manejo 11.257
 
 b).- Por cada vehículo de ruta 11.900
 
@@ -682,6 +704,10 @@ d).- Por cada vehículo que preste servicio de materialista, carga y turismo 15.
 e).- Por cada vehículo exclusivo funerario 16.200
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 3.250
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Los derechos que establece esta fracción, deberán cubrirse durante los meses de enero a marzo de cada año.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -703,7 +729,13 @@ g).- Reposición de tarjeta de circulación de automóviles y camiones 2.000
 
 h).- Renovación de tarjeta de circulación de automóviles y camiones 2.000
 
-Los derechos consignados en los incisos a), b), c), d) y f), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a marzo.
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+i).- Placas para vehículos antiguos 15.000
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Los derechos consignados en los incisos a), b), c), d), e), f), h) e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a marzo.
 
 V.- Por expedición de constancias, por cada una 1.000
 
@@ -738,6 +770,30 @@ IX.- Por la expedición de bajas de placas de otros Estados 6.000
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1995)</small>
 
 X.- Por expedición de baja definitiva del padrón vehícular 1.600
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XI.- Por la aplicación de exámenes para obtener licencia de manejo:
+
+a).- De conocimientos viales (incluye material didáctico) 0.900
+
+b).- Para determinación de tipo sanguíneo 0.900
+
+c).- De agudeza visual 0.900
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XII.- Gafetes de identificación:
+
+a).- Por la expedición o refrendo anual de identificación de choferes y/o conductores de servicio público de pasajeros 1.000
+
+b).- Por la expedición o refrendo de gafetes de representación y gestoría 1.000
+
+Los derechos de refrendo a que se refieren los incisos a) y b) que anteceden, deberán tramitarse durante los meses de enero y febrero
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XIII.- Por la aplicación de examen para determinar estado de ebriedad, en caso de resultar positivo 5.000
 
 ###### Artículo 51.
 
@@ -777,7 +833,9 @@ III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financie
 
 IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.4%, sin que el mínimo sea inferior a 5.000
 
-Si el gravamen afecta propiedades inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el Estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral actualizado de los inmuebles gravados ubicados en el Estado de Colima, en cuyo caso se aplicará la tasa del 0.6%.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Si el gravamen afecta propiedades inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral de los inmuebles gravados ubicados en el estado de Colima, en cuyo caso se aplicará la tasa del 0.6%.
 
 V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.4%, sin que el mínimo sea inferior a Para las sucursales de las sociedades se tomará como base el capital asignado a ellas 5.000
 
@@ -813,21 +871,29 @@ IX.- Por la inscripción de la constitución del patrimonio de la familia y de l
 
 X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.2%, sin que el importe del derecho sea menor de 5.000
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
 XI.- Por la inscripción de fraccionamientos, se pagará por cada lote, de acuerdo con la siguiente clasificación:
 
-a).- Residencial y campestre 3.149
+a).- Habitacional densidad baja y campestre 3.149
 
-b).- Industrial y granjas 0.900
+b).- Habitacional densidad media 2.000
 
-c).- Popular 0.500
+c).- Habitacional densidad alta 0.500
 
-XII.- Inscripción de relotificaciones de fraccionamientos, por cada lote, conforme a la clasificación siguiente:
+d).- Industrial, comercial y granjas 0.900
 
-a).- Residencial y campestre 2.069
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-b).- Industrial y granjas 0.360
+XII.- Inscripción de relotificaciones de fraccionamientos, por cada lote, conforme a la siguiente clasificación;
 
-c).- Popular 0.400
+a).- Habitacional densidad baja y campestre 2.069
+
+b).- Habitacional densidad media 1.200
+
+c).- Habitacional densidad alta 0.400
+
+d).- Industrial, comercial y granjas 0.360
 
 XIII.- Inscripción de actas de asambleas de socios o de juntas de administradores 3.689
 
@@ -859,6 +925,10 @@ a).- Otorgamiento o sustitución de poderes:
 
 b).- Renovación de poderes, por cada apoderado 1.080
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+c).- Revocación de poderes, por cada apoderado 1.080
+
 XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 5.000
 
 XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 2.609
@@ -872,6 +942,10 @@ b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y co
 XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a
 
 XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.25%, sin que se pague menos de 5.000
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+XX BIS.- Por la corrección de folios respecto de errores cometidos en el documento inscrito, cuando no traiga consigo la modificación al valor que hubiera servido de base para la determinación de los derechos pagados por la inscripción, por cada dato que se corrija 0.500
 
 XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 3.149
 
@@ -943,11 +1017,11 @@ Numero de días de
 
 salario mínimo
 
-I.- Certificaciones y constancias, cuando para su expedición no se requiera búsqueda en los archivos 1.000
+I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
-II.- Certificaciones y constancias, cuando para su expedición se requiera de búsqueda en los archivos y certificaciones por consultas relacionadas con el control vehicular, a otras entidades o agencias de vehículos.
+II.- Certificaciones y constancias, en general, así como certificaciones por consultas relacionadas con el control vehicular a otras entidades o agencias de vehículos 2.000
 
 III.- Estacionamiento Constitución, por el derecho de uso:
 
@@ -959,19 +1033,27 @@ a).- Por la primera hora:
 
 2.- Motocicletas por cada hora 0.067
 
-b).- Por cada hora adicional 0.090
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantado 13.500
+b).- Por cada hora adicional 0.135
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+c).- Pensión mensual de vehículos, por cada uno y por mes calendario adelantado 17.700
 
 d).- Pensión mensual, de motocicletas, por cada una y por mes de calendario adelantado 4.500
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-e).- Pensión mensual de vehículos propiedad o al servicio del Gobierno del Estado, por cada uno 6.667
+e).- Pensión mensual de vehículos propiedad o al servicio del Gobierno del Estado, por cada uno 13.270
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por la renovación anual de la calcomanía fiscal vehicular o su reposición 7.000
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+
+V.- Por la reexpedición de estados de cuenta para el pago de contribuciones estatales 0.300
 
 ###### Artículo 54.
 
@@ -1013,13 +1095,13 @@ e).- Fotos aéreas, más costo de laboratorio según tamaño 10.000
 
 f).- Plano manzanero 1:500, graficado y certificado 5.000
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-g).- Plano general a diferentes escalas
+g).- Plano general a diferentes escalas:
 
-1.- Graficado y certificado, incluyendo, manzanas, predios y calles 8.000
+1.- Graficado y certificado, incluyendo, manzanas, predios y calles Por cada impresión hasta de 1.10x0.84 Mts. 8.000
 
-2.- Por cada capa adicional al plano general 5.000
+2.- Por cada capa adicional al plano general Por cada impresión hasta de 1.10x0.84 Mts. 5.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1028,6 +1110,18 @@ h).- Formato de fusión o subdivisión debidamente requisitado 5.000
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. escala 1:4500 1.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+j).- Copia fotostática de planos de predios rústicos:
+
+1.- Hasta 1-00-00 hectárea 10.000
+
+2.- De 1-00-01 a 3-00-00 hectáreas 15.000
+
+3.- De 3-00-01 a 5-00-00 hectáreas 20.000
+
+4.- Más de 5-00-00 hectáreas 25,000
 
 II.- Certificaciones:
 
@@ -1233,29 +1327,77 @@ más, por cada lote producto de la relotificación 2.000
 
 más, por cada lote producto de la relotificación 1.000
 
-4.- Mixto de barrio, corredor mixto y mixto central, densidad baja 60.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+4.- Mixto de barrio densidad baja 60.000
 
 más, por cada lote producto de la relotificación 3.000
 
-5.- Mixto de barrio, corredor mixto y mixto central, densidad media 40.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-más, por cada lote producto de la relotificación 2.000
+5.- Mixto de barrio densidad media 45.000
 
-6.- Mixto de barrio, corredor mixto y mixto central, densidad alta 20.000
+más, por cada lote producto de la relotificación 2.500
 
-más, por cada lote producto de la relotificación 1.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-7.- Comercial y de servicios de barrio, corredor comercial y de servicios central, intensidad baja 70.000
+6.- Mixto de barrio densidad alta 30.000
+
+más, por cada lote producto de la relotificación 1.500
+
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+6A.- Corredor mixto y mixto central densidad baja 80.000
 
 más, por cada lote producto de la relotificación 4.000
 
-8.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad media 50.000
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+6B.- Corredor mixto y mixto central densidad media 70.000
+
+más, por cada lote producto de la relotificación 3.500
+
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+6C.- Corredor mixto y mixto centra densidad alta 60.000
 
 más, por cada lote producto de la relotificación 3.000
 
-9.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad alta 30.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-más, por cada lote producto de la relotificación 2.000
+7.- Comercial y de servicios de barrio, intensidad baja 70.000
+
+más, por cada lote producto de la relotificación 3.500
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+8.- Comercial y de servicios de barrio, intensidad media 60.000
+
+más, por cada lote producto de la relotificación 3.000
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+9.- Comercial y de servicios de barrio, intensidad alta 50.000
+
+más, por cada lote producto de la relotificación 2.500
+
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+9A.- Corredor comercial y de servicios central, intensidad baja 90,000
+
+más por cada lote producto de la relotificación 4.500
+
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+9B.- Corredor comercial y de servicios central, intensidad media 80.000
+
+más, por cada lote producto de la relotificación 4.000
+
+> <small>(ADICIONADO, P.O 5 DE ENERO DE 1999)</small>
+
+9C.- Corredor comercial y de servicios central, intensidad alta. 70.000
+
+más, por cada lote producto de la relotificación 3,500
 
 10.- Comercial y de servicios regional 75.000
 
@@ -1277,89 +1419,119 @@ más, por cada lote producto de la relotificación 5.000
 
 más, por cada lote producto de la relotificación 3.000
 
-15.- Turístico densidad baja 90.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+15.- Turístico intensidad baja 90.000
 
 más, por cada lote producto de la relotificación 5.000
 
-16.- Turístico densidad media 70.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+16.- Turístico intensidad media 70.000
 
 más, por cada lote producto de la relotificación 4.000
 
-17.- Turístico densidad alta 50.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+17.- Turístico intensidad alta 50.000
 
 más, por cada lote producto de la relotificación 3.000
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
 c).- Para la subdivisión de predios urbanos:
 
 1.- Habitacional densidad baja 9.000
 
-más, por cada lote producto de la relotificación 4.500
+más, por cada lote producto de la subdivisión 4.500
 
 2.- Habitacional densidad media 4.000
 
-más, por cada lote producto de la relotificación 2.000
+más, por cada lote producto de la subdivisión 2.000
 
 3.- Habitacional densidad alta 2.000
 
-más, por cada lote producto de la relotificación 1.000
+más, por cada lote producto de la subdivisión 1.000
 
-4.- Mixto de barrio, corredor mixto y mixto central, densidad baja 10.000
+4.- Mixto de barrio, densidad baja 10.000
 
-más, por cada lote producto de la relotificación 5.000
+más, por cada lote producto de la subdivisión 5.000
 
-5.- Mixto de barrio, corredor mixto y mixto central, densidad media 6.000
+5.- Mixto de barrio, densidad media 5.000
 
-más, por cada lote producto de la relotificación 3.000
+más, por cada lote producto de la subdivisión 2.500
 
-6.- Mixto de barrio, corredor mixto y mixto central, densidad alta 3.000
+6.- Mixto de barrio, densidad alta 3.000
 
-más, por cada lote producto de la relotificación 1.500
+más, por cada lote producto de la subdivisión 1.500
 
-7.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad baja 14.000
+6A.- Corredor mixto y mixto central, densidad baja 13.000
 
-más, por cada lote producto de la relotificación 7.000
+más, por cada lote producto de la subdivisión 6.500
 
-8.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad media 10.000
+6B.- Corredor mixto y mixto central, densidad media 10.000
 
-más, por cada lote producto de la relotificación 5.000
+más, por cada lote producto de la subdivisión 5.000
 
-9.- Comercial y de servicios de barrio, corredor comercial y de servicios central, densidad alta 6.000
+6C.- Corredor mixto y mixto central, densidad alta 7.000
 
-más, por cada lote producto de la relotificación 3.000
+más, por cada lote producto de la subdivisión 3.500
+
+7.- Comercial y de servicios de barrio, intensidad baja 12.000
+
+más, por cada lote producto de la subdivisión 6.000
+
+8.- Comercial y de servicios de barrio, intensidad media 9.000
+
+más, por cada lote producto de la subdivisión 4.500
+
+9.- Comercial y de servicios de barrio, intensidad alta 6.000
+
+más, por cada lote producto de la subdivisión 3.000
+
+9A.- Corredor Comercial y de servicios central, intensidad baja 15.000
+
+más, por cada lote producto de la subdivisión 7.500
+
+9B.- Corredor Comercial y de servicios central, intensidad media 12.000
+
+más, por cada lote producto de la subdivisión 6.000
+
+9C.- Corredor Comercial y de servicios central, intensidad alta 9.000
+
+más, por cada lote producto de la subdivisión 4.500
 
 10.- Comercial y de servicios regional 15.000
 
-más, por cada lote producto de la relotificación 7.500
+más, por cada lote producto de la subdivisión 7.500
 
 11.- Servicios a la industria y el comercio 12.000
 
-más, por cada lote producto de la relotificación 6.000
+más, por cada lote producto de la subdivisión 6.000
 
 12.- Industrial 6.000
 
-más, por cada lote producto de la relotificación 3.000
+más, por cada lote producto de la subdivisión 3.000
 
 13.- Habitacional campestre 15.000
 
-más, por cada lote producto de la relotificación 7.500
+más, por cada lote producto de la subdivisión 7.500
 
 14.- Granjas y huertos 12.000
 
-más, por cada lote producto de la relotificación 6.000
+más, por cada lote producto de la subdivisión 6.000
 
-15.- Turístico densidad baja 18.000
+15.- Turístico intensidad baja 18.000
 
-más, por cada lote producto de la relotificación 9.000
+más, por cada lote producto de la subdivisión 9.000
 
-16.- Turístico densidad media 14.000
+16.- Turístico intensidad media 14.000
 
-más, por cada lote producto de la relotificación 7.000
+más, por cada lote producto de la subdivisión 7.000
 
-17.- Turístico densidad alta 10.000
+17.- Turístico intensidad alta 10.000
 
-más, por cada lote producto de la relotificación 5.000
+más, por cada lote producto de la subdivisión 5.000
 
 d).- Para modificación, demolición o ampliación de inmuebles del Patrimonio Urbano Arquitectónico 10.000
 
@@ -1389,35 +1561,95 @@ IV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1994)
 
 V.- Por la autorización para la constitución de condominios se pagará:
 
-1.- Popular 30.00
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-más, por cada condominio o parte en que se integre el condominio 3.000
+1.- Habitacional, densidad alta 30.000
 
-2.- Medio 70.000
+más, por cada unidad que se integre el condominio 3.000
 
-más, por cada condominio o parte en que se integre el condominio 7.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+2.- Habitacional, densidad medio 70.000
+
+más, por cada unidad que integre el condominio 7.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+2A.- Habitacional densidad baja 180.000
+
+más, por cada unidad que integre el condominio 18.000
 
 3.- Industrial 60.000
 
 más, por cada condominio o parte en que se integre el condominio 6.000
 
-4.- Turístico 450.000
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
 
-más, por cada condominio o parte en que se integre el condominio 45.000
+4.- Turístico, intensidad alta 350.000
 
-5.- Residencial 180.000
+más, por cada unidad que integre el condominio 35.000
 
-más, por cada condominio o parte en que se integre el condominio 18.000
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
-6.- Comercial 350.000
+4A.- Turístico, intensidad media 400.000
 
-más, por cada condominio o parte en que se integre el condominio 35.000
+más, por cada unidad que integre el condominio 40.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+4B.- Turístico, intensidad baja 450.000
+
+más, por cada unidad que integre el condominio 45.000
+
+5.- (DEROGADO, P.O. 5 DE ENERO DE 1999)
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
+6.- Comercial y de servicios de barrio, intensidad alta 200.000
+
+más, por cada unidad que integre el condominio 20.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+7.- Comercial y de servicios de barrio, intensidad media 230.000
+
+más, por cada unidad que integre el condominio 23.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+8.- Comercial y de servicios de barrio, intensidad baja 250.000
+
+más, por cada unidad que integre el condominio 25.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+9.- Corredor comercial y de servicios central, intensidad alta 300.000
+
+más, por cada unidad que integre el condominio 30.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+10.- Corredor comercial y de servicios central, intensidad media 330.000
+
+más, por cada unidad que integre el condominio 33.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+11.- corredor comercial y de servicios central, intensidad baja 350.000
+
+más, por cada unidad que integre el condominio 35.000
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+12.- Corredor comercial y de servicios regional 350.000
+
+más, por cada unidad que integre el condominio 35.000
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
-
 ### CAPITULO IX. Otros Derechos
+
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 56.
 
@@ -1463,17 +1695,27 @@ f).- Bachillerato 62.980
 
 g).- Licenciatura 71.980
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
 VI.- Por reincorporación (anual):
 
-a).- Licenciatura 71.980
+a).- Licenciatura, por alumno inscrito 0.960
 
-b).- Bachillerato y equivalente 67.480
+b).- Bachillerato y equivalente, por alumno inscrito 0.860
 
-c).- Secundaria y equivalente 62.980
+c).- Secundaria y equivalente, por alumno inscrito 0.760
 
-d).- Primaria 58.480
+d).- Primaria, por alumno inscrito 0.600
 
-e).- Preescolar 53.990
+e).- Preescolar, por alumno inscrito 0.550
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Para la determinación del número de alumnos, se tomará como base la estadística inicial del ciclo escolar inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+El pago de este derecho deberá efectuarse en el mes de agosto de cada año. Su pago extemporáneo causará recargos a la tasa que fije esta ley y podrán ser exigidos a través del Procedimiento Administrativo de Ejecución.
 
 ###### Artículo 58.
 
@@ -1601,15 +1843,21 @@ V.- Ingreso a la Zona de Bosque 0.045
 
 ###### Artículo 62.
 
-(DEROGADO, P.O. 27 DE JULIO DE 1996)]
+(DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
-
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
 ### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO UNICO
 
@@ -1641,7 +1889,7 @@ III.- Registro y diligencia de exhortos 0.720
 
 IV.- Copias certificadas de sentencias 1.350
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+### CAPITULO UNICO
 
 ###### Artículo 64.
 
@@ -1671,7 +1919,13 @@ a).- Por la primera hoja 1.000
 
 b).- Por cada hoja más o fracción 0.270
 
-II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+
+II.- Servicios de vigilancia e inspección de Obra Pública:
+
+a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia del Gobierno del Estado, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos a los contratistas, las cuales deberán enterar los importes retenidos a la Receptoría de Rentas correspondiente, dentro de los primero cinco días hábiles del mes siguiente a aquel en que se efectúe la retención
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -1761,11 +2015,15 @@ XII.- Los contratistas y destajistas que realicen obras para el Gobierno del Est
 
 XIII.- Otros ingresos no especificados.
 
-## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+
+## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
 
@@ -1803,9 +2061,17 @@ Para los efectos del Título Segundo, se entenderá por ``día de salario mínim
 
 Los gastos de ejecución y los honorarios por notificación que se recauden, se distribuirán entre el personal de la Secretaría de Finanzas que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamentos respectivo.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1999)</small>
+
 ###### Artículo 77.
 
-Las liquidaciones de créditos fiscales que contengan fracción en centavos se ajustarán al múltiplo de cinco centavos más próximos.
+Para determinar las contribuciones que se establecen en esta Ley, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará de la siguiente forma:
+
+De 1 hasta 25 centavos a la unidad inmediata anterior.
+
+De 26 hasta 75 centavos a la media unidad del peso.
+
+De 76 centavos en adelante a la unidad inmediata superior.
 
 ## TRANSITORIOS
 
@@ -1912,3 +2178,9 @@ De 76 centavos en adelante a la unidad inmediata superior.
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día 1o. de enero de 1998, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 5 DE ENERO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1999, y deberá publicarse en el Periódico Oficial "EL ESTADO DE COLIMA".
