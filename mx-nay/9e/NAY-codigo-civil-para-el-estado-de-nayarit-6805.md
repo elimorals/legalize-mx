@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1983-02-02"
+last_updated: "1983-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1983.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -253,7 +253,9 @@ La infracción de esta regla producirá la nulidad del acta y se castigará con 
 
 Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las del Archivo General del Gobierno del Estado, al que se hubieren remitido los duplicados.
 
-El Procurador General de Justicia del Estado cuidará de que se cumpla esta disposición, y, a este efecto, el Juez del Registro, o el Encargado del Archivo General del Gobierno del Estado le dará aviso de la pérdida.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1983)</small>
+
+El Jefe del Departamento Estatal del Registro Civil cuidará de que se cumpla esta disposición y, a este efecto, el Juez del Registro Civil o el encargado del Archivo General del Gobierno le dará aviso de la pérdida.
 
 ###### Artículo 39.
 
@@ -14945,7 +14947,7 @@ El Secretario Gral. de Gobierno
 
 Dr. J. Jesús Osuna Gómez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE AGOSTO DE 1982.
 
@@ -14954,3 +14956,7 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 P.O. 2 DE FEBRERO DE 1983
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 1983.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
