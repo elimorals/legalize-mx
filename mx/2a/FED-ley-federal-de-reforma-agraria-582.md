@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1972-05-06"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -51,7 +51,9 @@ La aplicación de esta Ley está encomendada a:
 
 I.- El Presidente de la República;
 
-II.- Los Gobernadores de los Estados y Territorios Federales y el Jefe del Departamento del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Los Gobernadores de los Estados y el Jefe del Departamento del Distrito Federal;
 
 III.- El Departamento de Asuntos Agrarios y Colonización;
 
@@ -69,9 +71,11 @@ El Departamento de Asuntos Agrarios y Colonización es la dependencia del Ejecut
 
 Las comisiones Agrarias Mixtas, se integrarán por un Presidente, un Secretario y tres Vocales, y tendrán las atribuciones que se determinen en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 5o.
 
-El Presidente de la Comisión Agraria Mixta será el Delegado del Departamento de Asuntos Agrarios y Colonización que resida en la Capital del Estado o Territorio de que se trate, o en el Distrito Federal.
+El Presidente de la Comisión Agraria Mixta será el Delegado del Departamento de Asuntos Agrarios y Colonización que resida en la capital del Estado de que se trate o en el Distrito Federal.
 
 El Primer Vocal será nombrado y removido por el Jefe del Departamento de Asuntos Agrarios y Colonización; el Secretario y el Segundo Vocal lo serán por el Ejecutivo local, y el tercero, representante de los ejidatarios y comuneros, será designado y substituido por el Presidente de la República, de una terna que presente la liga de Comunidades Agrarias y Sindicatos Campesinos de la entidad correspondiente.
 
@@ -111,9 +115,11 @@ VII.- De establecimiento de zonas urbanas ejidales y comunales; y
 
 VIII.- Los demás que señala esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 9o.
 
-Son atribuciones de los Gobernadores de los Estados y Territorios Federales y del Jefe del Departamento del Distrito Federal:
+Son atribuciones de los Gobernadores de los Estados y del Jefe del Departamento del Distrito Federal:
 
 I.- Dictar mandamiento para resolver en primera instancia los expedientes relativos a restitución y a dotación de tierras y aguas, inclusive dotación complementaria y ampliación de ejidos;
 
@@ -3269,9 +3275,11 @@ El Departamento de Asuntos Agrarios y Colonización realizará los estudios e in
 
 ### CAPITULO UNICO. Delitos, faltas y sanciones
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 458.
 
-Las autoridades agrarias, y los empleados que intervengan en la aplicación de esta Ley, serán responsables por las violaciones que cometan a los preceptos de la misma. Quienes incurran en responsabilidad serán consignados a las autoridades competentes y se les aplicarán las sanciones administrativas que correspondan, sin perjuicio de que sean sancionados conforme a la Ley de Responsabilidades de Funcionarios y Empleados de la Federación, del Distrito y Territorios Federales y de los Altos Funcionarios de los Estados y, en su caso, a las Leyes de responsabilidad de los Estados.
+Las autoridades agrarias, y los empleados que intervengan en la aplicación de esta Ley, serán responsables por las violaciones que cometan a los preceptos de la misma. Quienes incurran en responsabilidad serán consignados a las autoridades competentes y se les aplicarán las sanciones administrativas que correspondan, sin perjuicio de que sean sancionados conforme a la Ley de Responsabilidades de Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados y en su caso, a las Leyes de responsabilidad de los Estados.
 
 ###### ARTICULO 459.
 
@@ -3506,3 +3514,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 6 DE MAYO DE 1972.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
