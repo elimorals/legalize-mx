@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-los-servicios-de-seguridad-privada-22513
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-13"
-last_updated: "2001-11-13"
+last_updated: "2003-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de noviembre de 2001.
 
@@ -563,7 +563,9 @@ I.- Que el personal operativo desempeñe el servicio sin el uniforme, accesorios
 
 II.- Que el personal operativo desempeñe el servicio con uniforme en condiciones deplorables o con los accesorios y equipo incompleto o en mal estado;
 
-III.- Que los prestadores que ya se encuentran laborando y habiendo solicitado su registro ante la Secretaría, no cumplan los requisitos establecidos en el Artículo 12 de este ordenamiento dentro del plazo de sesenta días hábiles después de la publicación del presente Reglamento;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+III.- Que los prestadores que ya se encuentran laborando y habiendo solicitado su registro ante la Secretaría, no cumplan los requisitos establecidos en el Artículo 14 de este ordenamiento dentro del plazo de sesenta días hábiles después de la publicación del presente Reglamento;
 
 IV.- Que los prestadores no den cumplimiento a lo establecido en el Artículo 24 del presente Reglamento;
 
@@ -667,6 +669,68 @@ Cuando se sancione con la cancelación de la autorización y registro, la Secret
 
 La Secretaría comprobará que las sanciones se difundan en los diarios de mayor circulación en el Estado las veces que se estime necesario. Además se remitirá copia de la resolución a los clientes del prestador sancionado.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO IX. DEL PROCEDIMIENTO PARA EJECUCION DE SANCIONES
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 63.
+
+La Secretaría de Seguridad Pública y Protección Ciudadana, impondrá las sanciones administrativas a que se refieren los Capítulos VII y VIII del presente Reglamento, realizando la secuencia procedimental por conducto de la Unidad de Supervisión y Registro de Servicios de Seguridad Privada, de acuerdo al siguiente procedimiento:
+
+I.- Citarán al prestador del servicio, física o moral, a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de defensor o su representante legal.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de 5 días ni mayor de 15 días hábiles;
+
+II.- Al concluir la audiencia o dentro de los 3 días hábiles siguientes, la Secretaría resolverá sobre la existencia o inexistencia de responsabilidad, imponiendo en su caso al infractor las sanciones previstas en el presente Reglamento y notificará la resolución dentro de los 3 días hábiles siguientes al prestador del servicio;
+
+III.- Si en la audiencia la Secretaría encontrare que no cuenta con elementos suficientes para resolver sobre el particular, o en su caso advierta elementos que impliquen nueva infracción administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigación y citar para otra u otras audiencias; y
+
+IV.- En cualquier momento previo o con posterioridad al citatorio al que se refiere la fracción I, la Secretaría podrá determinar la advertencia respectiva a que pudiera ser acreedor el presunto infractor, a efecto de que éste proceda a la enmienda correspondiente, cuya advertencia no prejuzga sobre la infracción que se le impute. La determinación de la Secretaría hará constar expresamente esta salvedad.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 64.
+
+En los procedimientos que se sigan para investigar y aplicar las sanciones a que se refiere el artículo anterior, deberá valorarse el acta circunstanciada que se haya levantado con motivo de la visita y supervisión correspondiente al prestador del servicio, debiéndose desglosar su contenido, por cuanto respecta a las anomalías observadas, así como en lo que beneficie al prestador de servicio.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 65.
+
+En el procedimiento que se instaure al prestador de servicios que corresponde, deberán admitirse todas las pruebas que guarden relación con la actividad procedimental, tanto públicas como privadas y aquellas contempladas por las leyes procesales, siempre y cuando no contravengan la moral y las buenas costumbres, a efecto de valorarse en el momento legal oportuno.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 66.
+
+Las resoluciones y acuerdos que emita la Secretaría en el procedimiento, constará por escrito y se asentarán en el registro respectivo, debiéndose glosar al expediente instaurado, además de publicarse en estrados de la Unidad Sustanciadora, deberán hacerse las notificaciones en los casos que proceda.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 67.
+
+La resolución definitiva deberá emitirse en un plazo no mayor de 30 días a aquel en que se haya decretado el cierre de instrucción por virtud de no existir otras diligencias por practicar.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 68.
+
+Toda resolución que emita la Secretaría, deberá estar debidamente fundada y motivada, en la que se harán constar los requisitos de fondo y forma que debe contener todo procedimiento, la que concluirá con el apartado de puntos resolutivos, notificando al prestador de servicio, o a su representante legal que haya autorizado, el sentido de la resolución.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 69.
+
+La resolución puede ser en el sentido de imposición de sanciones por comisión de infracción, o de absolución de éstas por inexistencia de las mismas.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+###### ARTICULO 70.
+
+La resolución final del procedimiento deberá notificarse a la brevedad posible al prestador de servicios, debiendo levantarse el acta de dicha diligencia en la que se deberá entregar copia autorizada de la misma y asentando la razón de esto último.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
@@ -698,3 +762,9 @@ El Secretario de Seguridad Pública y Protección Ciudadana.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
