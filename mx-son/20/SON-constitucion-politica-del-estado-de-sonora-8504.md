@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1928-08-04"
+last_updated: "1928-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE AGOSTO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE OCTUBRE DE 1928.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -277,9 +277,11 @@ Elección de Diputados.
 
 Los Diputados del Congreso del Estado serán electos en su totalidad cada dos años.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 31.
 
-Se elegirán un Diputado Propietario y un Suplente por cada Distrito Electoral. La división del Estado en Distritos Electorales se hará proporcionalmente a la población que arroje el último censo practicado, en el concepto de que los Distritos no podrán ser menos de quince.
+Se elegirán un Diputado Propietario y Suplente por cada Distrito Electoral. La división del Estado en Distritos Electorales se hará proporcionalmente a la población que arroje el último censo practicado, en el concepto de que los Distritos no podrán ser menos de nueve.
 
 ###### Artículo 32.
 
@@ -319,17 +321,21 @@ Instalación y funcionamiento del Congreso.
 
 El Congreso del Estado se instalará el día diez y seis de Septiembre.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 36.
 
-El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de la mayoría absoluta del número total de sus miembros.
+El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes del número total de sus miembros.
 
 ###### Artículo 37.
 
 Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los Diputados electos, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen, perderán su carácter. En este caso, se llamarán a los Suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros, en el uso de sus derechos de ciudadano por todo el tiempo que deberían durar en su encargo.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 38.
 
-Cuando los Diputados que asistan oportunamente no constituyan la mayoría absoluta, ni pueda, después de cumplirse con lo preceptuado en el Artículo anterior, instalarse el Congreso, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos Representantes no se presentaren a ocupar su asiento en la Cámara.
+Cuando los Diputados que asistan oportunamente no constituyan las dos terceras partes, ni pueda, después de cumplirse con lo preceptuado en el Artículo anterior, instalarse el Congreso, el Ejecutivo del Estado convocará a elecciones extraordinarias en los Distritos cuyos representantes no se presentaren a ocupar su asiento en la Cámara.
 
 ###### Artículo 39.
 
@@ -337,7 +343,7 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
 
 ###### Artículo 41.
 
@@ -559,9 +565,17 @@ XXXVIII. Para calificar definitivamente las elecciones de Ayuntamiento y Comisar
 
 Diputación Permanente.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+
 ###### Artículo 65.
 
-El mismo día en que el Congreso deba cerrar sus sesiones para entrar en receso, antes de verificarlo nombrará de su seno, por mayoría de votos y en escrutinio secreto una Comisión Permanente compuesta de cinco Diputados Propietarios y tres Suplentes, que durará hasta el nuevo período de sesiones. El primero y segundo de los Diputados Propietarios nombrados será el Presidente y el Vice-Presidente de la Comisión y el último Secretario.
+El mismo día en que el Congreso deba cerrar sus sesiones para entrar en receso, antes de verificarlo nombrará de su seno, por maría (sic) de votos y en escrutineo (sic) secreto, una Comisión Permanente compuesta de cuatro Miembros Propietarios y un Suplente, que durará hasta el nuevo período de sesiones. El primero y segundo de los miembros propietarios nombrados serán el Presidente y el Vice-Presidente de la Comisión y el último el Secretario. El Suplente será llamado a suplir indistintamente al Propietario que falte.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 1928)</small>
+
+###### Artículo 65 Bis.
+
+La Comisión Permanente no podrá ejercer sus funciones sin la concurrencia del número total de sus miembros.
 
 ###### Artículo 66.
 
@@ -585,7 +599,9 @@ VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Cong
 
 VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trate de cubrir las faltas de los funcionarios a que se contrae la fracción II de este artículo; cuando igualmente se trate de delitos cometidos por los altos funcionarios del Estado, y en todos aquellos casos que a su juicio sean de gravedad y urgencia.
 
-VIII. Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, y de los nuevos que se presenten, a fin de que sean resueltos al reunirse el Congreso.
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 1928)</small>
+
+VIII. Dictaminar únicamente en los asuntos cuya resolución definitiva sea de su exclusiva competencia.
 
 #### SECCION I.
 
@@ -1448,6 +1464,10 @@ UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Bolet
 B.O. 4 DE AGOSTO DE 1928.
 
 UNICO. Esta Ley principiará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE OCTUBRE DE 1928.
+
+Unico.- La reforma al artículo 31 de la expresada Constitución entrará en vigor al verificarse las elecciones de Diputados para el próximo período constitucional, y las demás, así como el Artículo 65 bis adicionado, cuando los electos entren legalmente en funciones.
 
 ###### ARTÍCULO ÚNICO.
 
