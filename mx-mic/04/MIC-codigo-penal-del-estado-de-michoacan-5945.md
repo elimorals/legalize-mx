@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1980-07-07"
+last_updated: "1980-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE NOVIEMBRE DE 1980.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -371,9 +371,7 @@ IV. Los directores o propietarios de internados, colegios o talleres que reciban
 
 V. Las personas físicas, las jurídicas y las que se ostenten con este último carácter, por los delitos que cometa cualquier persona vinculada con aquéllas por una relación laboral, con motivo y en el desempeño de sus servicios;
 
-VI. Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores, y en general por quienes actúen en su representación.
-
-Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios de la reparación del daño que origine su conducta delictiva;
+VI. Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores, y en general por quienes actúen en su representación. Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios de la reparación del daño que origine su conducta delictiva;
 
 VII. Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que en ocasión de su tenencia, custodia o uso, cometan las personas que los manejen o tengan a su cargo; y,
 
@@ -443,7 +441,11 @@ Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán adem
 
 ###### Artículo 48.
 
-La caución, de no ofender consiste en la garantía que el juez puede exigir al sentenciado, en los casos que estime conveniente, para que no cause un nuevo daño al ofendido, la cual se fijará atendiendo a sus condiciones personales. Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofendido. Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
+La caución de no ofender consiste en la garantía que el juez puede exigir al sentenciado, en los casos que estime conveniente, para que no cause un nuevo daño al ofendido, la cual se fijará atendiendo a sus condiciones personales.
+
+Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofendido.
+
+Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
 
 ### CAPITULO X. Suspensión, Privación e Inhabilitación de Derechos
 
@@ -469,7 +471,7 @@ La sanción de prisión suspende los derechos políticos y los de tutor, curador
 
 ###### Artículo 51.
 
-La publicación especial de sentencia, consiste en la inserción total o parcial de ella en uno o dos periódicos que circulen en la localidad, los cuales serán escogidos por el juez, quien resolverá la forma en que deberá hacerse. Los gastos originados con tal motivo serán por cuenta del Estado si el juez estima pertinente la publicación, pero si lo pide el sentenciado o el ofendido éstos cubrirán el gasto respectivo.
+La publicación especial de sentencia, consiste en la inserción total o parcial de ella en uno o dos periódicos que circulen en la localidad, los cuales serán escogidos por el juez, quien resolverá la forma en que deberá hacerse. Los gastos originados con tal motivo serán por cuenta del Estado si el juez estima pertinente la publicación, pero si lo piden el sentenciado o el ofendido éstos cubrirán el gasto respectivo.
 
 El juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en entidad diferente o en algún otro periódico.
 
@@ -585,7 +587,7 @@ Los sordomudos y los ciegos de nacimiento que carezcan totalmente de instrucció
 
 ###### Artículo 69.
 
-Las personas internadas conforme a este capítulo, podrán ser entregadas por el juez a quienes puedan hacerse cargo de ellas con agrreglo (sic) a la ley, siempre que se obliguen a tomar las medidas adecuadas para su vigilancia y tratamiento o educación, y se otorgue fianza o constituya depósito de diez mil a cincuenta mil pesos, para garantizar el resarcimiento del daño que pudieren causar.
+Las personas internadas conforme a este capítulo, podrán ser entregadas por el juez a quienes puedan hacerse cargo de ellas con arreglo a la ley, siempre que se obliguen a tomar las medidas adecuadas para su vigilancia y tratamiento o educación, y se otorgue fianza o constituya depósito de diez mil a cincuenta mil pesos, para garantizar el resarcimiento del daño que pudieren causar.
 
 La determinación se revocará si no se toman las medidas adecuadas para la vigilancia y tratamiento o educación de las personas mencionadas en el párrafo anterior.
 
@@ -671,7 +673,7 @@ La retención se hará efectiva cuando, a juicio fundado del Ejecutivo, no se ha
 
 ###### Artículo 79.
 
-Al dictarse sentencia firme, se podrá suspender, a petición de parte o de oficio, la ejecución de la sanción privativa de libertad que no exceda de dos años cuando se trate de un delincuente primario, que no concurran circunstancias que evidencien su peligrosidad, que haya tenido modo honesto de vivir y haya observado buena conducta con anterioridad al delito y durante el proceso.
+Al dictarse sentencia firme, se podrá suspender, a petición de parte o de oficio, la ejecución de la sanción privativa de libertad que no exceda de dos años cuando se trate de un delincuente primario, que no concurran circunstancias que evidencien su peligrosidad, que hay tenido modo honesto de vivir y haya observado buena conducta con anterioridad al delito y durante el proceso.
 
 Para gozar de este beneficio, el sancionado deberá otorgar garantía por la cantidad que le fije el juez, de que se presentará ante la autoridad competente siempre que fuere requerido.
 
@@ -859,9 +861,7 @@ Se impondrán prisión de dos a seis años, multa de cien a cinco mil pesos y pr
 
 Se impondrán las mismas penas propuestas en el artículo anterior:
 
-I. Al que residiendo en territorio ocupado por el gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte, o de radiocomunicación, o impida que las tropas del gobierno reciban esos auxilios.
-
-Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a un año; y,
+I. Al que residiendo en territorio ocupado por el gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte, o de radiocomunicación, o impida que las tropas del gobierno reciban esos auxilios. Si residiere en territorio ocupado por los rebeldes, la prisión será de seis meses a un año; y,
 
 II. Al funcionario público que sabiendo el secreto de una expedición militar revele éste a los rebeldes.
 
@@ -961,7 +961,7 @@ Si la reaprehensión del evadido se lograre por gestiones del responsable de la 
 
 ###### Artículo 123.
 
-Al detenido, procesado o sentenciado que se fugue, no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros y se fugue alguno de ello (sic) o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
+Al detenido, procesado o sentenciado que se fugue, no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
 ###### Artículo 124.
 
@@ -1021,11 +1021,11 @@ III. Al que sin un fin lícito o sin el permiso correspondiente, hiciere acopio 
 
 En todos los casos comprendidos en este artículo y en el 128, además de las sanciones señaladas, se decomisarán las armas.
 
-### CAPITULO III. Violación de Correspondencia
+### CAPITULO III. Violación por Correspondencia
 
 ###### Artículo 132.
 
-Se impondrán (sic) prisión de seis meses a seis años y multa de doscientos a seis mil pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito que pudiere cometer o haya cometido.
+Se impondrán prisión de seis meses a seis años y multa de doscientos a seis mil pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito que pudiere cometer o haya cometido.
 
 ###### Artículo 133.
 
@@ -1257,7 +1257,9 @@ I. Toda persona que explote el cuerpo de otra por medio del comercio carnal, se 
 
 II. Al que induzca a una persona o la solicite para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución;
 
-III. Al que sin autorización regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y,
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1980)</small>
+
+III. Al que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y,
 
 IV. Al que oculte, concierte o permita el comercio carnal de un menor de edad.
 
@@ -1275,7 +1277,7 @@ Al que públicamente instigare o provocare a cometer un delito determinado o hag
 
 ###### Artículo 172.
 
-Se aplicarán prisión de seis meses a tres años y multa de trescientos a tres mil pesos, al que sin justa causa revelare algún secreto o comunicación reservada que por cualquier medio conociere o se la haya confiado con motivo de su empleo, cargo, oficio o arte, si de ello pudiera resultar daño para alguna persona.
+Se aplicarán prisión de seis meses a tres años y multa de trescientos a tres mil pesos, al que sin justa causa revelare algún secreto o comunicación reservada que por cualquier medio conociere o se le haya confiado con motivo de su empleo, cargo, oficio o arte, si de ello pudiera resultar daño para alguna persona.
 
 ###### Artículo 173.
 
@@ -1365,7 +1367,7 @@ III. Abrieren o consintieren abrir, sin la autorización correspondiente, papele
 
 Comete el delito de abuso de autoridad todo funcionario público, agente de gobierno o sus comisionados, sea cual fuere su categoría cuando:
 
-I. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pidan auxilio o la fuerza pública a la empleen con ese objeto;
+I. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pidan auxilio a la fuerza pública a la empleen con ese objeto;
 
 II. Con abuso de sus funciones o quebranto de las formalidades de ley, priven de la libertad a alguna persona;
 
@@ -1457,9 +1459,7 @@ Se impondrán prisión de tres meses a seis años y multa de quinientos a cinco 
 
 I. Al que presente denuncias o querellas calumniosas, entendiéndose por tales, aquéllas en que su autor imputa un delito a persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido; y,
 
-II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa, o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
-
-En los casos anteriormente señalados, si el calumniado es declarado penalmente responsable, se impondrá al calumniador la misma sanción que a aquél.
+II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa, o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad. En los casos anteriormente señalados, si el calumniado es declarado penalmente responsable, se impondrá al calumniador la misma sanción que a aquél.
 
 No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución de sobreseimiento dictado por el juez o tribunal que hubiese conocido del delito imputado.
 
@@ -1661,7 +1661,7 @@ Se sancionarán con prisión de uno a cinco años y multa de mil a quince mil pe
 
 I. Al que sin ser funcionario público se atribuya ese carácter y ejerza alguna de sus funciones;
 
-II. Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5° Constitucional:
+II. Al que sin tener título profesional o autorización para ejercer alguna reglamentada, expedidos por autoridad u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5° Constitucional:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -1693,9 +1693,11 @@ Si el falsificador hiciere uso de los documentos u objetos falsos que se detalla
 
 Las disposiciones contenidas en este Título, se aplicarán solamente en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
+## TITULO DECIMO SEPTIMO. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
+
 ###### Artículo 211.
 
-Se aplicarán prisión de seis meses a cuatro años a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes. Se estimarán como malos antecedentes para los efectos de este artículo ser identificado como sujeto peligroso contra la propiedad, explotador de prostitutas, traficante de drogas prohibidas, toxicómano o ebrio habitual, tahúr o mendigo simulador.
+Se aplicarán prisión de seis meses a cuatro años a quienes no se dediquen a un trabajo honesto sin causa justificada y tengan malos antecedentes. Se estimarán como malos antecedentes para los efectos de este artículo ser identificado sujeto peligroso contra la propiedad, explotador de prostitutas, traficante de drogas prohibidas, toxicómano o ebrio habitual, tahúr o mendigo simulador.
 
 ###### Artículo 212.
 
@@ -1831,7 +1833,7 @@ VI. Cuando se obre en grupo o en banda.
 
 ###### Artículo 229.
 
-Si el secuestrador pone en libertad a la persona secuestrada, espontáneamente dentro de tres días y sin causar perjuicio grave, se le impondrán prisión de seis meses a un año y multa de quinientos a mil pesos.
+Si el secuestrador ponen en libertad a la persona secuestrada, espontáneamente dentro de tres días y sin causar perjuicio grave, se le impondrán prisión de seis meses a un año y multa de quinientos a mil pesos.
 
 ### CAPITULO I. Injurias
 
@@ -2021,11 +2023,11 @@ La injuria, la difamación y la calumnia, contra cualquier institución oficial,
 
 ###### Artículo 257.
 
-Cualquier objeto que hubiere servido de medio para cometer los delitos de injurias, difamación y calumnia, se inutilizará, a menos que se porte de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este último caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa, si no cupiere.
+Cualquier objeto que hubiere servido de medio para cometer los delitos de injurias, difamación y calumnia, se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En este último caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa, si no cupiere.
 
 ###### Artículo 258.
 
-Siempre que sea condenado el responsable de un delito de injuria, difamación o calumnia, si lo solicita la parte ofendida, se publicará la sentencia en los periódicos que designe el juez. Cuando el delito se haya cometido por medio de un órgano periodístico, los dueños, directores o gerentes de éste, están obligados a publicar el fallo, imponiéndoseles una multa de cien pesos por cada día que pase sin hacerlo, contado desde el día siguiente a aquél en que se le haya notificado la sentencia.
+Siempre que sea condenado el responsable de un delito de injuria, difamación o calumnia, si lo solicita la parte ofendida, se publicará la sentencia en los periódicos que designe el juez. Cuando el delito se haya cometido por medio de un órgano periodístico, los dueños, directoras o gerentes de éste, están obligados a publicar el fallo, imponiéndoseles una multa de cien pesos por cada día que pase sin hacerlo, contado desde el día siguiente a aquél en que se le haya notificado la sentencia.
 
 ###### Artículo 259.
 
@@ -2223,10 +2225,6 @@ No es punible el aborto culposo causado por la mujer embarazada o cuando el emba
 
 No se aplicará sanción, cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un daño grave a su salud, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no resulte peligrosa la demora.
 
-TITULO DECIMOSEPTIMO
-
-DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
-
 ###### Artículo 292.
 
 Se impondrán prisión de seis meses a tres años y multa de quinientos a tres mil pesos:
@@ -2361,7 +2359,7 @@ Comete el delito de abigeato, el que, se apodera de una o más cabezas de ganado
 
 ###### Artículo 312.
 
-Al responsable del delito de abigeato consumado en ganado vacuno, caballar o mular, se le sancionará con prisión de tres a diez años y multa de tres mil a diez mil pesos.
+Al responsable del delito de abigeato consumado en ganado vacuno, caballar o mular, se le sancionará con prisión de tres a diez años y multa de tres mil a diez mil pesos;
 
 ###### Artículo 313.
 
@@ -2511,9 +2509,9 @@ A las sanciones que señalan el artículo anterior, se acumularán las que corre
 
 ###### Artículo 332.
 
-Se aplicarán de tres días a cinco años de prisión y multa de cien a cinco mil pesos, al que, por cualquier medio cause daño a cosa ajena o propia en perjuicio de tercero.
+Se aplicarán de tres días a cinco años de prisión y multa de cien a cinco mil peso, al que, por cualquier medio cause daño a cosa ajena o propia en perjuicio de tercero.
 
-Cuando el delito de daño en las cosas, se consume en edificios públicos o que por su valor histórico o arquitectónico forman parte del acervo cultural del Estado, se aplicará de dos a ocho años de prisión y multa de dos mil a ocho mil pesos.
+Cuando el delito de daño en las cosas, se consume en edificios públicos o que por su valor histórico o arquitectónico forman parte del acervo cultural el Estado, se aplicará de dos a ocho años de prisión y multa de dos mil a ocho mil pesos.
 
 ###### Artículo 333.
 
@@ -2581,7 +2579,7 @@ T R A N S I T O R I O S :
 
 PRIMERO.- Este Código comenzará a regir el día 15 de agosto de 1980.
 
-SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1o. de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
+SEGUNDO.- Se abroga el Código Penal que entró en vigor el 1° de mayo de 1962, los Decretos que lo hayan adicionado o reformado; así como las Leyes anteriores sobre la materia, en lo que se oponga al nuevo Código.
 
 TERCERO.- Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo no previsto en este Código.
 
@@ -2592,3 +2590,9 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Michoacán de Ocampo, a 27 de junio de 
 Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich. a 7 de julio de 1980.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. AUSENCIO CHAVEZ HERNANDEZ.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 1980.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
