@@ -4,7 +4,7 @@ identifier: "LONF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "1986-12-26"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LONF"
 
 LEY ORGANICA DE NACIONAL FINANCIERA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -124,13 +124,15 @@ X.- Recibir de terceros, en prenda, títulos o valores de la emisión que direct
 
 XI.- Realizar las actividades análogas y conexas a sus objetivos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 7o.
 
-La Sociedad será exclusiva depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas y judiciales de la Federación y del Distrito Federal y de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y del Distrito Federal.
+La sociedad será exclusiva depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas o judiciales de la Federación y por o ante las autoridades administrativas del Distrito Federal, así como de las sumas en efectivo, títulos o valores que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal.
 
-Los jueces y las autoridades administrativas estarán obligados a entregar a la Sociedad dichos bienes, en su indicado carácter de depositaria.
+Las autoridades mencionadas estarán obligadas a entregar a la sociedad dichos bienes, en su indicado carácter de depositaria.
 
-También deberán hacerse exclusivamente en la Sociedad, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales, del Distrito Federal o por órdenes o contratos de autoridades de la Federación o del Distrito Federal.
+También deberán hacerse exclusivamente en la sociedad, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales, y en su caso, del Distrito Federal, o por órdenes o contratos de autoridades de la Federación, y en su caso, del Distrito Federal.
 
 ###### ARTICULO 8o.
 
@@ -373,3 +375,11 @@ El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de
 México, D. F., a 17 de diciembre de 1986.- Dip. Reyes R. Flores Zaragoza, Presidente.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Eliseo Rodríguez R., Secretario.- Sen. Héctor Vázquez Paredes, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 24 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+SEGUNDO.- La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal.
