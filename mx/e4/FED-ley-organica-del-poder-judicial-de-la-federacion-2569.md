@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "1998-01-23"
+last_updated: "1998-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -578,6 +578,8 @@ SECCION 1a.
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 48.
 
 Los jueces de distrito que no tengan jurisdicción especial conocerán de todos los asuntos a que se refieren los artículos del presente Capítulo.
@@ -1052,9 +1054,11 @@ Los secretarios técnicos deberán tener título profesional expedido en alguna 
 
 ###### ARTICULO 88.
 
-Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos auxiliares: la Unidad de Defensoría del Fuero Federal, el Instituto de la Judicatura, la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación.
+Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación y el Instituto Federal de Defensoría Pública.
 
-Los titulares de los órganos auxiliares del Consejo de la Judicatura Federal deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos auxiliares contarán con el personal que fije el presupuesto.
+Con excepción del Director General del Instituto Federal de Defensoría Pública, cuyos requisitos para ser designado se mencionan en la ley de la materia, los demás titulares de los órganos del Consejo de la Judicatura Federal deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos contarán con el personal que fije el presupuesto.
+
+El Instituto Federal de Defensoría Pública estará vinculado al Consejo de la Judicatura Federal, exclusivamente, administrativa y presupuestalmente.
 
 SECCION 2a.
 
@@ -1062,29 +1066,15 @@ DE LA UNIDAD DE DEFENSORIA DEL FUERO FEDERAL
 
 ###### ARTICULO 89.
 
-La prestación del servicio gratuito y obligatorio de defensa del fuero federal a que se refiere la fracción IX del artículo 20 constitucional, estará a cargo de la Unidad de Defensoría del Fuero Federal.
-
-El Consejo de la Judicatura Federal designará por cada tribunal unitario de circuito y juzgado de distrito en materia penal, cuando menos a un defensor de oficio y al personal de auxilio correspondiente.
+(DEROGADO, D.O.F. 28 DE MAYO DE 1998)
 
 ###### ARTICULO 90.
 
-Los defensores de oficio deberán satisfacer los requisitos exigidos para ser titular de los órganos auxiliares del Consejo de la Judicatura Federal, y su designación se hará por el propio Consejo mediante el concurso de oposición previsto en esta ley para el nombramiento de magistrados de circuito y jueces de distrito, en aquello que fuere aplicable.
-
-Las adscripciones, promociones y determinación de las categorías de los defensores de oficio deberán hacerse de conformidad con las disposiciones generales que dicte el Consejo de la Judicatura Federal, atendiendo, en lo conducente, a las bases que esta ley prevé en materia de carrera judicial.
-
-El Consejo de la Judicatura Federal establecerá, mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los defensores de oficio, para efectos de lo que se dispone en esta ley en materia de responsabilidad.
+(DEROGADO, D.O.F. 28 DE MAYO DE 1998)
 
 ###### ARTICULO 91.
 
-Son obligaciones de los defensores de oficio:
-
-I. Representar a los indiciados que no cuenten con un defensor particular, cuando ellos mismos o el órgano correspondiente los designen, en términos de la fracción IX del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Aportar y promover las pruebas, alegatos, diligencias y recursos que sean necesarios para una eficaz defensa en todas las etapas del proceso, vigilar el adecuado cumplimiento de las sentencias, y obtener para sus defendidos los beneficios previstos en las leyes aplicables;
-
-III. Recabar la información necesaria para el éxito de la defensa y mantener con sus defendidos la comunicación debida, y
-
-IV. Cumplir con los reglamentos, programas y acuerdos dictados por el Consejo de la Judicatura Federal.
+(DEROGADO, D.O.F. 28 DE MAYO DE 1998)
 
 SECCION 3a.
 
@@ -1642,13 +1632,17 @@ XVIII. Cualquier otra análoga a las anteriores.
 
 Para los efectos del artículo anterior, en los asuntos del orden penal se considerarán como interesados al inculpado o a la persona que tenga derecho a la reparación del daño o a la responsabilidad civil.
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 148.
 
-Los defensores de oficio, los visitadores y los peritos estarán impedidos para actuar cuando se encuentren en alguna de las causales de impedimento previstas por las fracciones I, II, IX, XIII, XIV, XV del artículo 146 de esta ley o en las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al órgano jurisdiccional ante el cual debieran ejercer sus atribuciones o cumplir sus obligaciones.
+Los visitadores y los peritos estarán impedidos para actuar cuando se encuentren en alguna de las causales de impedimento previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo 146 de esta Ley o en las leyes de la materia, siempre que pudieran comprometer la prestación imparcial de sus servicios. La calificación del impedimento corresponderá, en todo caso, al órgano jurisdiccional ante el cual debieran ejercer sus atribuciones o cumplir sus obligaciones.
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 149.
 
-Además de los servidores públicos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, los actuarios, los defensores de oficio y los visitadores no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+Además de los servidores públicos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, los actuarios, los visitadores, no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
 ### CAPITULO VII. DE LA JURISPRUDENCIA
 
@@ -1824,9 +1818,11 @@ DE SU INTEGRACION Y FUNCIONAMIENTO
 
 En la Suprema Corte de Justicia de la Nación tendrán el carácter de servidores públicos de confianza, el secretario general de acuerdos, el subsecretario general de acuerdos, los secretarios de estudio y cuenta, los secretarios y subsecretarios de Sala, los secretarios auxiliares de acuerdos, los actuarios, la persona o personas designadas por su Presidente para auxiliarlo en las funciones administrativas, el Coordinador de Compilación y Sistematización de Tesis, los directores generales, los directores de área, los subdirectores, los jefes de departamento, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+
 ###### ARTICULO 181.
 
-Tendrán también el carácter de servidores públicos de confianza, los secretarios ejecutivos, los secretarios de comisiones, los secretarios técnicos, los titulares de los órganos auxiliares, los coordinadores generales, directores generales, directores de área, visitadores, defensores de oficio, personal técnico de la Visitaduría Judicial y la Contraloría del Poder Judicial de la Federación, subdirectores, jefes de departamento, oficiales comunes de partes, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, cajeros, pagadores y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
+También tendrán el carácter de servidores públicos de confianza, los secretarios ejecutivos, los secretarios de comisiones, los secretarios técnicos, los titulares de los órganos, los coordinadores generales, directores generales, directores de área, visitadores, defensores públicos, asesores jurídicos y personal técnico del Instituto Federal de Defensoría Pública, de la Visitaduría Judicial y de la Contraloría del Poder Judicial de la Federación, subdirectores, jefes de departamento, oficiales comunes de partes, el personal de apoyo y asesoría de los servidores públicos de nivel de director general o superior, cajeros, pagadores y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
 ###### ARTICULO 182.
 
@@ -2913,3 +2909,21 @@ Para que los criterios de jurisprudencia a que se refiere el párrafo anterior r
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 28 DE MAYO DE 1998.
+
+## TRANSITORIOS
+
+PRIMERO. La Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga la Ley de la Defensoría de Oficio Federal, publicada en el Diario Oficial de la Federación el día 9 de febrero de 1922.
+
+TERCERO. Todos los recursos humanos y materiales adscritos a la Unidad de Defensoría del Fuero Federal, pasarán al Instituto Federal de Defensoría Pública. Los derechos laborales del personal que preste sus servicios en la citada Unidad, serán respetados en todos sus términos. Los asuntos que estén a cargo de la Unidad de Defensoría pasarán al Instituto Federal de Defensoría Pública.
+
+CUARTO. El Consejo de la Judicatura Federal nombrará al Director General del Instituto Federal de Defensoría Pública, en un plazo de treinta días y en un plazo de sesenta días, a las personas que integrarán la Junta Directiva del propio Instituto; ambos plazos contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. Dentro de los seis meses siguientes a la entrada en vigor de la Ley Federal de Defensoría Pública, todos los miembros del Instituto Federal de Defensoría Pública deberán estar ejerciendo sus funciones y brindando los servicios previstos en esta Ley.
+
+SEXTO. Dentro de los seis meses siguientes a la entrada en vigor de esta Ley, la Junta Directiva del Instituto Federal de Defensoría Pública deberá aprobar las Bases Generales de Organización y Funcionamiento del propio Instituto.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
