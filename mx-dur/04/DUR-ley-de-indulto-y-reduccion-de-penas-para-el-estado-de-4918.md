@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "1999-12-23"
+last_updated: "2000-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -63,9 +63,9 @@ II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en 
 
 III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2000)</small>
 
-IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2000.
+IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2003. y
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -93,7 +93,7 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. 23 DE DICIEMBRE DE 1999, SE DEJA EN SUSPENSO LA VIGENCIA DE ESTE ARTICULO, UNICA Y EXCLUSIVAMEMTE EN LO QUE RESPECTA AL DELITO DE ROBO CALIFICADO. [VEASE ARTICULO SEGUNDO DEL DECRETO No. 220, PUBLICADO EN P.O. 23 DE DICIEMBRE DE 1999]</small>
+> <small>N. DE E. CONFORME A LO DISPUESTO POR ARTICULO SEGUNDO DEL DECRETO NO. 307, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2000, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO, EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS CONDENADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2003, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE.</small>
 
 ###### ARTICULO CUARTO.
 
@@ -184,3 +184,15 @@ P.O. 23 DE DICIEMBRE DE 1999.
 DECRETO No. 220.
 
 UNICO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2000.
+
+DECRETO NO. 306.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2000.
+
+DECRETO No. 307.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
