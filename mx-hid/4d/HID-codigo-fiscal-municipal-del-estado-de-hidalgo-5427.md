@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1986-12-31"
+last_updated: "1987-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -191,13 +191,17 @@ III.- Fuera de los dos casos anteriores y a falta de disposición expresa, las d
 
 ### CAPITULO II. DE LOS PRESUPUESTO DE INGRESOS Y EGRESOS
 
+> <small>(REFORMADO, P.O 30 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 22.
 
-Los proyectos de los Presupuestos de Ingresos y Egresos se formularán en el mes de octubre de cada año, y se remitirán a más tardar el último día de referido mes al Congreso del Estado, acompañado de un cuadro de estimaciones del rendimiento probable de cada concepto de Ingreso y dividiendo el Presupuesto de Egresos en secciones, una para cada gasto, numerando aquellas y éstas.
+El proyecto del presupuesto de ingresos se formulará en el mes de noviembre de cada año, y se remitirá a más tardar el día quince de diciembre al Congreso del Estado. Acompañado de un cuadro de estimaciones del rendimiento probable de cada concepto de ingreso y dividiendo el Presupuesto de Egresos en secciones, una para cada gasto, numerando aquellas y éstas.
+
+> <small>(REFORMADO, P.O 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 23.
 
-Cuando los proyectos de Presupuestos de Ingresos y Egresos sean formulados por un Ayuntamiento cuyo ejercicio concluya ese mismo año, el nuevo Ayuntamiento podrá enviar al Congreso sus puntos de vista dentro de los treinta días anteriores a su toma de posesión. La Legislatura del Estado tomará en cuenta esta opinión antes de aprobar o modificar dichos documentos.
+Cuando el proyecto de presupuesto de ingresos sea formulado por un Ayuntamiento cuyo ejercicio concluya ese mismo año, el nuevo Ayuntamiento podrá enviar al Congreso sus puntos de vista dentro de los treinta días anteriores a su toma de posesión. La Legislatura del Estado tomará en cuenta esta opinión antes de aprobar o modificar dichos documentos.
 
 ###### ARTICULO 24.
 
@@ -2526,3 +2530,7 @@ Cuando se de una denominación nueva o distinta a alguna unidad administrativa e
 P.O. 31 DE DICIEMBRE DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1987.
+
+UNICO.- La presente Ley entrará en vigor el 1º. de enero de 1988, y publicada en el Periódico Oficial del Gobierno del Estado.
