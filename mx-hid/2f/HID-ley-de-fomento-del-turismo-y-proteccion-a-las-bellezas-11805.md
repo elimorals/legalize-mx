@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-del-turismo-y-proteccion-a-las-bellezas-11805"
 country: "mx"
 rank: "ley"
 publication_date: "1949-11-08"
-last_updated: "1949-11-08"
+last_updated: "2003-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE FOMENTO DEL TURISMO Y PROTECCION A LAS BELLEZAS NATURALES Y OBJETOS DE INTERES HISTORICO Y ARTISTICO EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE HIDALGO PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de noviembre de 1949.
 
@@ -250,3 +252,19 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU DEBIDO CUMPLIMIENTO.
 PALACIO DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE PACHUCA de SOTO, A LOS DIECIOCHO DIAS DEL MES DE OCTUBRE DE MIL NOVECIENTOS CUARENTA Y NUEVE.
 
 El Gobernador Constitucional del estado, LIC. VICENTE AGUIRRE.- El Secretario General, LIC. F. OCAMPO NOBLE. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O 24 DE MARZO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Fomento del Turismo y Protección a las Bellezas Naturales y Objetos de Interés Histórico y Artístico en el Estado de Hidalgo, publicada en el Periódico Oficial del Estado el día ocho de noviembre de 1949.
+
+TERCERO.- Se derogan todas las disposiciones Legales que se opongan a la presente Ley.
+
+CUARTO.- A partir de la fecha que sea vigente la presnte Ley, el Titular del Poder Ejecutivo Estatal a través de la Secretaría, contará con ciento sesenta días para expedir Reglamento de esta Ley.
+
+QUINTO.- En cuanto a lo enunciado en el Artículo 44, referente a la imágen corporativa, a partir de la fecha que sea vigente la presente Ley, cuenta la Secretaría con ciento ochenta días para la elaboración de la misma.
+
+SEXTO.- La creación de los Organismos Auxiliares y el establecimiento de Planes y Programas a que se refiere esta Ley, estará sujeta a la disponibilidad presupuestaria.
