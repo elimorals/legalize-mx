@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-2581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-05-10"
-last_updated: "1999-05-18"
+last_updated: "2002-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-05-07"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
+> <small>N. DE E. A LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 10 de mayo de 1996.
 
@@ -848,3 +850,21 @@ D.O.F. 18 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+
+D.O.F.27 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Asamblea Legislativa del Distrito Federal, publicada el 24 de mayo de 1999 en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+CUARTO.- Las comisiones y comités a que se refieren los articulo 62 y 74 de este Decreto, entraran en vigor, a partir de la instalación de la Asamblea Legislativa del Distrito Federal, Tercera Legislatura, en tanto, seguirán funcionando aquellas comisiones y comités cuya integración fue aprobada por la presente Legislatura.
+
+En caso de que se presenten controversias sobre la distribución de las competencias de las comisiones, la Comisión de Estudios Legislativos y Prácticas Parlamentarias resolverá lo conducente.
+
+QUINTO.- Todo lo relativo a la Diputación Permanente, entrará en vigor a partir de la instalación de la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
+
+SEXTO.- Por lo que se refiere a los nombramientos establecidos en el artículo 77 del presente Decreto, la Asamblea expedirá el Reglamento específico que regule dicho procedimiento, mismo que será aplicable para los servidores públicos que designe la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
+
+SEPTIMO.- Hasta en tanto la Asamblea Legislativa expida un nuevo Reglamento para el Gobierno Interior, seguirá vigente en lo que no se oponga al presente Decreto el Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 13 de septiembre de 1999.
