@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-25"
-last_updated: "1997-05-02"
+last_updated: "1998-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de enero de 1996.
 
@@ -705,13 +705,21 @@ III.- Un Comisario.
 
 El Consejo de Administración se integrará con los siguientes miembros:
 
-I.- El Secretario de Obras y Servicios Públicos del Estado, quien asumirá la Presidencia del Consejo de Administración;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
 
-II.- El Secretario de Planeación y Finanzas del Estado;
+I.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, quien asumirá la Presidencia del Consejo de Administración;
 
-III.- El Secretario de Fomento Agropecuario y Recursos Hidráulicos;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
 
-IV.- Un representante de la Comisión Nacional del Agua; y
+II.- El Secretario de Planeación del Desarrollo;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+III.- El Secretario Finanzas;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+IV.- El Secretario de Desarrollo Agropecuario y Recursos Hidráulicos;
 
 V.- Un representante por cada uno de los ayuntamientos de los municipios en los que preste la Comisión directamente, los servicios de agua potable, alcantarillado y saneamiento.
 
@@ -1492,3 +1500,9 @@ P.O. 2 DE MAYO DE 1997.
 PRIMERO.- Las disposiciones contenidas en el presente decreto, entrarán en vigor el primero de enero de mil novecientos noventa y ocho.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
