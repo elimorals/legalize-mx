@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1989-05-08"
+last_updated: "1990-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1990.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -4531,47 +4531,7 @@ II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total
 
 III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
 
-La proporción que recibirá cada Municipio, será de acuerdo a los siguientes porcentajes o índices de participación.
-
-MUNICIPIOS PORCENTAJE DE PARTICIPACION
-
-1.- AHOME 13.23
-
-2.- EL FUERTE 2.88
-
-3.- CHOIX 1.83
-
-4.- GUASAVE 7.35
-
-5.- SINALOA 2.60
-
-6.- MOCORITO 2.11
-
-7.- ANGOSTURA 2.46
-
-8.- SALVADOR ALVARADO 5.27
-
-9.- BADIRAGUATO 1.79
-
-10.- CULIACAN 24.69
-
-11.- NAVOLATO 3.40
-
-12.- ELOTA 2.00
-
-13.- COSALA 1.78
-
-14.- SAN IGNACIO 1.86
-
-15.- MAZATLAN 19.79
-
-16.- CONCORDIA 1.97
-
-17.- ROSARIO 2.46
-
-18.- ESCUINAPA 2.53
-
-100.00%
+> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
 
 ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
 
@@ -6080,3 +6040,15 @@ P.O. 08 DE MAYO DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE ENERO DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que entre en vigor esta Ley, quedará derogado el último párrafo del Artículo 365 de la Ley de Hacienda del Estado.
