@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "1987-12-03"
+last_updated: "1990-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE JUNIO DE 1990.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -123,7 +123,9 @@ La renuncia de cualesquiera de los derechos que la presente Ley otorga a los tra
 
 En lo no previsto por esta Ley o disposiciones especiales, se aplicará supletoriamente y en su orden, la Ley Federal del Trabajo, el Código Federal de Procedimientos Civiles, las Leyes del orden común, la costumbre, el uso, los principios generales del derecho y la equidad.
 
-## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES
+## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES
+
+DE LOS TRABAJADORES
 
 ### CAPITULO I
 
@@ -141,7 +143,7 @@ Son condiciones nulas y no obligan a los trabajadores aún cuando las admitan ex
 
 I.- Una jornada mayor de la permitida por esta Ley.
 
-II.- Las labores peligrosas o insalubres o nocturnas para menores de dieciseis años de edad.
+II.- Las labores peligrosas o insalubres o nocturnas para menores de dieciséis años de edad.
 
 III.- Una jornada inhumana por lo peligroso o insalubre para el trabajador o para la trabajadora embarazada o el producto de la concepción.
 
@@ -413,7 +415,9 @@ II.- La prisión preventiva del trabajador seguida de sentencia absolutoria o el
 
 Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia respectiva, cuando apareciese alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve lo conducente.
 
-### CAPITULO VII. RESCISION DE LAS RELACIONES DE TRABAJO
+### CAPITULO VII. RESCISION DE LAS RELACIONES
+
+DE TRABAJO
 
 ###### ARTICULO 48.
 
@@ -433,7 +437,9 @@ V.- Por resolución del Tribunal de Conciliación y Arbitraje para los Trabajado
 
 ## TITULO TERCERO
 
-### CAPITULO II. DE LAS COMISIONES MIXTAS DE ESCALAFON
+### CAPITULO II. DE LAS COMISIONES MIXTAS DE
+
+ESCALAFON
 
 ###### ARTICULO 49.
 
@@ -805,9 +811,11 @@ Si no hubiere acuerdo entre el Titular respectivo y el Sindicato correspondiente
 
 Los trabajadores que se jubilaran, conforme a la Ley, tendrán derecho al pago de un fondo de retiro por la cantidad de $ 250,000.00 moneda nacional, a cargo del Ejecutivo del Estado.
 
+> <small>(REFORMADO, D.O. 29 DE JUNIO DE 1990)</small>
+
 ###### ARTICULO 117.
 
-Al fallecimiento de cualquier trabajador jubilado o pensionado, sus beneficiarios, tendrán derecho al pago del seguro de defunción equivalente al importe de dos meses de salario mínimo vigente en la zona económica que corresponda y que rija en la fecha de la defunción.
+Al fallecimiento de cualquier trabajador jubilado o pensionado, sus beneficiarios, familiares o dependientes económicamente, tendrán derecho al pago del seguro de defunción equivalente al importe de dos meses de salario mínimo general vigente, que rija en el Estado en la fecha de defunción. Tendrán derecho también a una pensión alimenticia equivalente al setenta y cinco por ciento del importe de la jubilación o pensión vitalicia que correspondía al fallecido, siempre y cuando se encuentren en las circunstancias y casos que establece el Artículo 121 de esta Ley.
 
 ###### ARTICULO 118.
 
@@ -821,9 +829,15 @@ Los trabajadores en servicio activo disfrutarán de un seguro de vida colectivo 
 
 Las prestaciones a que se contraen los artículos 111, 112, 113, 116 y 117 de esta Ley, estarán a cargo del Ejecutivo, en tanto el Instituto de Seguridad Social de los Trabajadores al Servicio del Estado (I.S.S.T.E.Y.), asume la obligación que le corresponde de conformidad con la Ley respectiva.
 
+> <small>(REFORMADO, D.O. 29 DE JUNIO DE 1990)</small>
+
 ###### ARTICULO 121.
 
-Las jubilaciones y pensiones a que se refiere este Capítulo, son personales e intransferibles
+Las jubilaciones y pensiones a que se refiere este Capítulo son personales e instransferibles, con excepción de los siguientes casos:
+
+I.- Cuando se deje cónyuge supérstite, que sea mayor de sesenta años de edad o menor, que se encuentre incapacitado física o mentalmente cuando menos en un cincuenta por ciento y que dependiere económicamente del trabajador jubilado o pensionado fallecido y acredite no tener medios propios para subsistir y mantenga el estado civil de viudez; y
+
+II.- Cuando existan hijos menores de edad o mayores que se encuentren incapacitados física o mentalmente cuando menos en un cincuenta por ciento y que dependieren económicamente del trabajador jubilado o pensionado fallecido; requisitos que se acreditarán con las documentales públicas respectivas o con el certificado médico expedido por Institución Pública.
 
 ## TITULO SEPTIMO. DE LAS PRESCRIPCIONES
 
@@ -1112,3 +1126,9 @@ VICTOR M. CERVERA PACHECO
 EL SECRETARIO DE GOBIERNO
 
 JOSE IGNACIO MENDICUTI PAVON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 29 DE JUNIO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
