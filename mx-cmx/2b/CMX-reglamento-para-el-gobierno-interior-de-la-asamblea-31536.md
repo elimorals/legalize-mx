@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2003-05-27"
+last_updated: "2003-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -302,7 +302,9 @@ Los Diputados integrantes de las Comisiones no tendrán ninguna retribución ext
 
 Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen deberá contener una parte expositiva de las razones en que se funde, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
 
-Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. En todos los casos, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular.
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
+Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. En todos los casos, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
 
 En caso de negativa respecto a la ampliación, el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, el Presidente enviará la iniciativa a la Comisión de Estudios Legislativos y Practicas Parlamentarias consultándole al Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
 
@@ -454,15 +456,17 @@ Para la elaboración de los criterios relacionados con el apoyo a los Grupos Par
 
 El informe anual del ejercicio del gasto que el Comité de Administración debe presentar al Pleno, será elaborado por el Oficial Mayor y por el Tesorero de la Asamblea, en la esfera de sus respectivas competencias. Dicho informe se presentará al Pleno durante el mes de marzo siguiente a la conclusión del ejercicio respectivo.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 52.
 
-Corresponde al Comité de Asuntos Editoriales y Bibliotecas:
+Corresponde al Comité de Asuntos Editoriales:
 
 I.- Nombrar al Director Editorial del Órgano Informativo denominado "Asamblea";
 
 II.- Convocar a estudiosos en las diversas ramas del conocimiento relacionadas con asuntos competencia de la Asamblea y los reservados al Congreso de la Unión en materia del Distrito Federal a fin de realizar coloquios, intercambios, seminarios y, en general, eventos culturales, cursos y conferencias;
 
-III.- Editar y publicar el órgano informativo denominado "Asamblea"
+III.- Editar y publicar el órgano informativo denominado "Asamblea";
 
 IV.- Editar publicaciones con temas relacionados con el Distrito Federal;
 
@@ -470,25 +474,29 @@ V.- Fomentar el análisis y estudio de temas relacionados con el Distrito Federa
 
 VI.- Publicar las memorias de la Asamblea;
 
-VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito, y
+VII.- Difundir los temas más trascendentes para la vida política y social del Distrito Federal, a través de medios escritos, electrónicos o cualquier otro que sirva al propósito;
 
-VIII.- Administrar la biblioteca de la Asamblea en los términos del propio reglamento de la Biblioteca;
+VIII.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades; y
 
-IX.- Mantener actualizada y vigentes las colecciones bibliográficas de la Asamblea y dotar las facilidades a los Diputados, autoridades y público en general para su consulta;
+IX.- Los demás asuntos inherentes al tema editorial.
 
-X.- Promover el estudio de los temas referentes al Distrito Federal y auspiciar la consulta bibliográfica de la población sobre dichos temas;
+> <small>(ADICIONADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
-XI.- Custodiar en la biblioteca la información que pongan a su disposición las demás comisiones para consulta pública;
+Artículo 52 bis.- Corresponde al Comité de Bibliotecas:
 
-XII.- Impulsar que la Biblioteca de la Asamblea sea un espacio de producción de conocimientos sobre la ciudad y sus temas legislativos;
+I.- Administrar la biblioteca de la Asamblea en los términos del propio reglamento de la Biblioteca;
 
-XIII.- Celebrar convenios interbibliotecarios con otros órganos legislativos e institucionales de educación superior y centros de investigación;
+II.- Mantener actualizada y vigentes las colecciones bibliográficas de la Asamblea y dotar las facilidades a los Diputados, autoridades y público en general para su consulta;
 
-XIV.- Difundir al interior de la Asamblea el acervo con que cuenta la Biblioteca de la Asamblea, así como las próximas adquisiciones; y
+III.- Promover el estudio de los temas referentes al Distrito Federal y auspiciar la consulta bibliográfica de la población sobre dichos temas;
 
-XV.- Celebrar convenios con casas editoriales para la presentación de fondos y novedades.)
+IV.- Custodiar en la biblioteca la información que pongan a su disposición las demás comisiones para consulta pública;
 
-XVI.- Los demás asuntos inherentes al tema editorial.
+V.- Impulsar que la Biblioteca de la Asamblea sea un espacio de producción de conocimientos sobre la ciudad y sus temas legislativos;
+
+VI.- Celebrar convenios interbibliotecarios con otros órganos legislativos e institucionales de educación superior y centros de investigación; y
+
+VII.- Difundir al interior de la Asamblea el acervo con que cuenta la Biblioteca de la Asamblea, así como las próximas adquisiciones.
 
 ###### Artículo 53.
 
@@ -526,9 +534,11 @@ El informe de la Contraloría será evaluado por la Comisión de Gobierno y el C
 
 Las áreas administrativas que se creen, dependerán jerárquica y funcionalmente de las Unidades Administrativas especificadas en el presente Reglamento y tendrá las funciones que les señale el manual de organización y procedimiento que al efecto expida el Comité de Administración.
 
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 56.
 
-Una vez que haya concluido el concurso de oposición a que se refiere el artículo 77 de la Ley Orgánica, el Pleno de la Asamblea ratificará por el voto de la mayoría de los miembros presentes en la sesión respectiva, a los seleccionados para ocupar los cargos de Titulares de cada una de las Unidades Administrativas, considerando se haya cumplido con lo dispuesto por el presente Reglamento y el Reglamento del Concurso de Oposición para los Titulares de las Unidades Administrativas.
+El Pleno de la Asamblea ratificará por el voto de la mayoría de los miembros presentes en la sesión respectiva, la propuesta que haga la Comisión de Gobierno respecto a los Titulares de cada una de las Unidades Administrativas.
 
 ###### Artículo 57.
 
@@ -836,7 +846,7 @@ VII.- No haber sido empleado o funcionario de la Contaduría Mayor de Hacienda d
 
 VIII.- No haber sido postulado para cargo de elección popular en los 5 años anteriores a su designación.
 
-IX.- Cumplir con el requisito establecido en el articulo 77 de la Ley Orgánica de la Asamblea.
+IX.- (DEROGADA, G.O. 23 DE SEPTIEMBRE DE 2003)
 
 ###### Artículo 77.
 
@@ -1464,10 +1474,18 @@ TERCERO.- Se abroga el Reglamento para el Gobierno Interior de la Asamblea Legis
 
 CUARTO.- La Unidad de Estudios y Finanzas Públicas se instalará según las disponibilidades presupuestales del 2003, de conformidad con el acuerdo que al respecto tome el Pleno de la Asamblea, respecto de la propuesta que le formule la Comisión de Gobierno.
 
-QUINTO.- Por lo que se refiere a los nombramientos de los titulares de las Unidades Administrativas, la Asamblea Legislativa del Distrito Federal expedirá el Reglamento específico que regule dicho procedimiento, mismo que será aplicable para los servidores públicos que designe la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
+QUINTO.- (DEROGADO, G.O. 23 DE SEPTIEMBRE DE 2003)
 
 SEXTO.- La disposición prevista por el artículo 158 de este reglamento, deberá entrar en vigor durante el ejercicio de la III Legislatura de la Asamblea Legislativa del Distrito Federal.
 
 Recinto Legislativo a 29 de abril de 2003
 
 PRESIDENTE, DIP. TOMÁS LÓPEZ GARCÍA.- SECRETARIO, DIP. ROBERTO E. LÓPEZ GRANADOS.- (Firmas).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 23 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente a su aprobación por el Pleno de la Asamblea.
