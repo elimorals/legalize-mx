@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1950-09-21"
+last_updated: "1953-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1953.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -7113,7 +7113,7 @@ De las diligencias a que se refiere el artículo anterior se levantará el acta 
 
 ###### Artículo 1393.
 
-Cuando el hijo natural o legítico (sic) no haya sido presentado para el registro de su nacimiento, o esa presentación se hiciere después de los términos señalados en el artículo 59 del Código Civil, la persona que pretenda reconocer a aquél o simplemente que se haga el registro, ocurrirá al juez de primera instancia respectivo, ofreciendo una información sobre los motivos de la omisión y sobre la fecha y lugar en que se verificó el nacimiento. El juez, en vista de la información, mandará hacer el registro, remitiendo testimonio de las diligencias al encargado de la Oficina del Estado Civil, para que se haga la inscripción correspondiente. Este registro surtirá los efectos legales, sin perjuicio de que se haga efectiva la multa de que trata la ley.
+(DEROGADO, P.O. 6 DE ABRIL DE 1953)
 
 ###### Artículo 1394.
 
@@ -7646,3 +7646,9 @@ P.O. 21 DE SEPTIEMBRE DE 1950.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 1953.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
