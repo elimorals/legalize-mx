@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2004-06-19"
+last_updated: "2004-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -396,6 +396,8 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
 ### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
 
@@ -1327,7 +1329,7 @@ La recaudación obtenida en términos del presente artículo se destinará en su
 
 ###### ARTICULO 70.
 
-Las concesiones para servicio público de transporte de personas, de carga, mixto, automóviles de alquiler y otros, o su adjudicación por herencia, causarán los siguientes derechos que se expresan en salarios mínimos, por cada uno:
+Las concesiones para servicio público de transporte en todas sus modalidades, su adjudicación por herencia, el otorgamiento de permisos especiales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
 
 I. Camiones, ómnibus y automóviles de alquiler, de pasajeros:
 
@@ -1346,6 +1348,10 @@ c) Carga y transporte de materiales para construcción 146.04.
 III. Los permisos especiales para servicio público causarán 3.60, por mes o fracción; y
 
 IV. Cuando se trate de concesiones para transporte escolar, se cobrará el 50% de las tarifas establecidas en este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+
+La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
 
 ###### ARTICULO 71.
 
@@ -2010,3 +2016,11 @@ P.O. 19 DE JUNIO DE 2004.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las validaciones de cesiones de derechos a que se refiere el quinto transitorio de las modificaciones aprobadas el 11 de agosto de 2004 por el Congreso del Estado, a la Ley de Transporte Público del Estado de San Luis Potosí, además de los derechos a que se refiere el artículo 70 del presente ordenamiento legal, pagarán el equivalente a diez salarios mínimos vigentes en el Estado, por cada año contado entre la fecha del contrato de cesión de derechos materia de validación, y la fecha de su solicitud ante la Secretaría de Comunicaciones y Transportes.
