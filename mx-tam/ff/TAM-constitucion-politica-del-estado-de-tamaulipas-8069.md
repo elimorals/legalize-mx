@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1946-12-07"
+last_updated: "1949-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1949.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -815,7 +815,7 @@ Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado pa
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituido en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -919,9 +919,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1946)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1949)</small>
 
-XXXIII.- Concurrir a la apertura de los periodos de sesiones del Congreso, pudiendo informar en ellas acerca de todos o algunos de los Ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un Informe completo sobre ésta, en sesión pública extraordinaria del Congreso, el día 5 de Febrero de cada año.
+XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso pudiendo informar en ellas acerca de todos o algunos de los ramos de la Administración Pública, cuando lo estime conveniente o así lo solicite el Congreso; pero deberá rendir un informe completo sobre ésta, en sesión pública extraordinaria del Congreso, el día catorce de septiembre de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -1714,3 +1714,9 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 7 DE DICIEMBRE DE 1946.
 
 Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 1949.
+
+PRIMERO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial de Estado.
+
+SEGUNDO.- Queda abrogado el Artículo 12 del Decreto No. 107 expedido por la H. Legislatura del Estado, el 19 de noviembre de 1946.
