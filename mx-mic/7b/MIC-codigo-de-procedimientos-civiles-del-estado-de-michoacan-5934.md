@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1953-09-24"
+last_updated: "1955-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1955.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -1531,11 +1531,13 @@ Las fianzas de que se trata en este capítulo, se otorgarán ante el juez.
 
 ### CAPITULO III. De la providencia de lanzamiento
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1955)</small>
+
 ###### Artículo 290.
 
-La providencia de lanzamiento de una finca urbana o rústica, contra del arrendatario, tiene lugar cuando se funda en la falta de pago de una o más mensualidades, o por vencimiento del plazo para la terminación del contrato y sus prórrogas en los términos de los artículos 2337 al 2340 del Código Civil.
+La providencia de lanzamiento de una finca urbana o rústica, contra el arrendatario, tiene lugar cuando se funda en la falta de pago de tres o más mensualidades, si la finca urbana se destina a habitación, y de una o más mensualidades en los demás casos, o por vencimiento del plazo para la terminación del contrato y sus prórrogas en los términos de los artículos 2337 al 2340 del Código Civil.
 
-El juez, bajo su responsabilidad, no dará entrada a la providencia de lanzamiento por terminación del contrato, sin antes cerciorarse de que, en su caso, han transcurrido las prórrogas de que hablan los artículos relativos del Código Civil.
+El Juez, bajo su responsabilidad, no dará entrada a la providencia de lanzamiento por terminación del contrato, sin antes cerciorarse de que, en su caso, han transcurrido las prórrogas de que hablan los artículos relativos del Código Civil.
 
 ###### Artículo 291.
 
@@ -1545,9 +1547,11 @@ A la solicitud de desocupación se acompañará el contrato escrito del arrendam
 
 Tratándose de contratos por tiempo indefinido a más de los requisitos a que se refiere el artículo anterior, se presentará la constancia de haberse dado el aviso, en los términos del artículo 2331 del Código Civil.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1955)</small>
+
 ###### Artículo 293.
 
-Cumplidos los requisitos de que hablan los artículos anteriores, el juez dictará auto mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de la renta o presente constancia por escrito de que el contrato ha sido novado o modificado en alguna forma y no haciéndolo, se le prevenga que dentro de treinta días, si la finca sirve para habitación o de sesenta si sirve para giro mercantil o industrial, o dentro de noventa días si fuere rústica, proceda a desocuparla, apercibido del lanzamiento a su costa si no lo verifica.
+Cumplidos los requisitos de que hablan los artículos anteriores, el Juez dictará auto mandado requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de la renta o presente constancia por escrito de que el contrato ha sido novado o modificado en alguna forma y no habiciéndolo (sic), se le prevenga que dentro de sesenta días, si la finca está destinada para giro mercantil o industrial, o dentro de noventa días si sirve para habitación o fuere rústica, proceda a desocuparla, apercibido del lanzamiento a su costa si no lo verifica.
 
 ###### Artículo 294.
 
@@ -7221,19 +7225,33 @@ El propietario que se encuentre en el caso del artículo 2849 del Código Civil,
 
 La información se recibirá con citación de la persona de quien se haya adquirido la posesión, o de sus herederos, si aquélla o éstos fueren conocidos del registrador de la propiedad, de los colindantes y del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1955)</small>
+
 ###### Artículo 1374.
 
-El escrito en que se ofrezca rendir la información testimonial expresará:
+La solicitud sobre iformación (sic) adperpétuam para suplir título escrito de dominio, deberá reunir los siguientes requisitos:
 
-I. La naturaleza, situación, medida superficial, linderos y nombre, si lo tuviere, del inmueble cuya posesión trate de acreditar;
+I. El promovente, bajo protesta de decir verdad, expresará:
 
-II. La manera como se haya adquirido ésta; sus generales del promovente, y si fuere posible, las de la persona que haya transferido la posesión;
+a). La naturaleza, situación, medida superficial, linderos y nombre, si lo tuviere, del inmueble cuya posesión trate de acreditar;
 
-III. La fecha, aunque sea aproximada, en que comenzó la misma posesión;
+b). La manera como haya adquirido ésta; sus generales, y si fuere posible, las de su causante;
 
-IV. La razón o motivos por que no exista el título escrito que se trata de suplir con la información;
+c). La fecha, aunque sea aproximada, en que comenzó la posesión;
 
-V. Si hay o no otros poseedores pro indiviso del inmueble;
+d). La razón o motivos por los que no exista el título escrito que se trata de suplir con la información;
+
+e). Si hay o no otros poseedores pro-indiviso del inmueble.
+
+II. El mismo promovente exhibirá con la solicitud, los documentas (sic) siguientes:
+
+a). Certificado por el que se haga constar la historia de la cuenta catastral del inmueble objeto de la información y con referencia al antecedente más antiguo que exista en el archivo de la Oficina de rentas respectiva;
+
+b). Certificado de que en el Registro Público de la Propiedad no se inscribe el inmueble objeto de la información a ninguna de las personas que figuren en el certificado de que habla el inciso inmediato anterior;
+
+c). Certificado que solo será exigible en tratándose de predios rústicos, por el que se haga constar que el inmueble materia de la información, no forma parte de alguna propiedad agraria o comunal de los poblados que le sean circunvecinos.
+
+Los certificados anteriores y en su caso el que previene el último inciso, deberán insertarse en el testimonio o copia certificada de la información aprobada a fin de inscribirse en el Registro Público de la Propiedad Raíz y si falta este requisitos (sic), el Registrador se abstendrá de hacer la inscripción.
 
 ###### Artículo 1375.
 
@@ -7662,3 +7680,9 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 P.O. 24 DE SEPTIEMBRE DE 1953.
 
 Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 17 DE ENERO DE 1955.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
