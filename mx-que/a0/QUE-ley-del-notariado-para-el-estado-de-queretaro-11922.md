@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1992-01-09"
+last_updated: "1992-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 9 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA PERIODICO OFICIA: 30 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -33,7 +33,7 @@ LA CUADRAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERÉTARO, EN 
 
 L E Y :
 
-DEL NOTARIADO PARA EL ESTADO DE QUERÉTARO.
+DEL NOTARIADO PARA EL ESTADO DE QUERÉTARO
 
 ### CAPITULO I
 
@@ -517,13 +517,17 @@ I. Expresará el lugar y fecha en que se extienda la escritura, su nombre y apel
 
 II. Indicará la hora en los casos en que la Ley así lo prevenga;
 
-III. Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles, relacionará cuando menos el último titulo de propiedad del bien o del derecho a que se refiere la escritura, y citará los datos de su inscripción en el Registro Público de la Propiedad o expresará que aún no está registrada;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+III. Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles, relacionará cuando menos y bajo su responsabilidad, el último título de propiedad del bien o del derecho a que se refiere la escritura, y citará los datos de su inscripción en el Registro Público de la Propiedad o expresará que aún no está registrada;
 
 IV. Al citar el nombre de un Notario ante cuya Fe se haya pasado algún instrumento, mencionará el número de la Notaría de que se trata y la fecha del acto;
 
 V. Consignará el acto en cláusula redactada con claridad y concisión;
 
-VI. Designará con precisión las cosa que sean objeto del acto, de tal modo que no puedan confundirse con otra, y si se tratare de bienes inmuebles, determinará su naturaleza, su ubicación, sus colindantes, la medida de sus linderos y su extensión superficial, en cuanto fuere posible;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VI. Designará, bajo su responsabilidad y con precisión las cosas que sean objeto del acto, de tal modo que no puedan confundirse con otra, y si se tratare de bienes inmuebles, determinará su naturaleza, su ubicación, sus colindantes, la medida de sus linderos y su extensión superficial, en cuanto fuere posible;
 
 VII. Determinará las renuncias de derechos o de leyes que hagan los contratantes, válidamente;
 
@@ -723,7 +727,7 @@ V.- Si se omitió la constancia relativa a la lectura;
 
 VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
 
-VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer merito de esta circunstancia;
+VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer mérito de esta circunstancia;
 
 VIII.- Si no está autorizada preventivamente con la firma y sello del Notario o falta la nota "ante mi" o la razón de la autorización definitiva;
 
@@ -861,7 +865,9 @@ La infracción que produzca una responsabilidad administrativa, que no tenga san
 
 I.- Apercibimiento;
 
-II.- Multa que no excederá de trecientos días de salario mínimo general vigente en la zona;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+II.- Multa de cincuenta a cincuenta mil veces el salario mínimo general diario vigente en la zona;
 
 III.- Suspensión de funciones hasta por seis meses y,
 
@@ -869,15 +875,11 @@ IV.- Suspensión o separación definitiva del cargo.
 
 Estas sanciones administrativas podrán aplicarse sin seguir el orden de su enumeración y atendiendo sólo a la gravedad de la falta.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 113.
 
-Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Ejecutivo se auxiliará de la Comisión de Honor y Justicia del Consejo de Notarios, que estará integrada por los últimos cuatro ex-presidentes del mismo y por el Presidente en funciones quien además será el Presidente de dicha comisión.
-
-> <small>(F. DE E., P.O., 14 DE MAYO 1992)</small>
-
-Para el caso de que la Comisión de Honor y Justicia no pudiera integrarse con los últimos cuatro ex-presidentes o por el Presidente del Consejo en funciones, ya sea por ausencia o por ser la queja en contra de alguno de ellos, la Directiva del Consejo de Notarios en Pleno deberá designar de entre sus miembros a quien habrá de sustituirlo, no pudiendo exceder dicha Comisión de cinco miembros.
+Para aplicar a los Notarios las sanciones administrativas a que se refiere el artículo anterior, el Ejecutivo a través de la Secretaría de Gobierno, podrá ordenar oficiosamente o a petición de parte, visitas, inspecciones o instruir actuaciones que practicará la Dirección del Archivo General de Notarias o la persona designada expresamente para tal efecto. En todo caso, se concederá el Derecho de Audiencia al Notario afectado y podrá escucharse la opinión de la Comisión de Honor y Justicia del Consejo de Notarios.
 
 (REFORMADO, P.O. 9 DE ENERO DE 1992) (F. DE E., P.O. 14 DE MAYO DE 1992)
 
@@ -1065,11 +1067,9 @@ Cualquiera falta o irregularidad que cometa el Director del Archivo General de N
 
 TRANSITORIOS:
 
-RTICULO PRIMERO.- Esta Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
-
 ###### ARTICULO PRIMERO.
 
-Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial " La Sombra de Arteaga".
+Esta Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
 
 ###### ARTICULO SEGUNDO.
 
@@ -1113,7 +1113,7 @@ Diputado Secretario,
 
 FRANCISCO BRISEÑO LÓPEZ.
 
-EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN SEGUNDA DEL ARTICULO NOVENTA Y TRES, DE LA CONSTITUCIÓN POLÍTICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS SETENTA Y SEIS
+EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN SEGUNDA DEL ARTICULO NOVENTA Y TRES, DE LA CONSTITUCIÓN POLÍTICA DE ESTA ENTIDAD Y PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTE DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS SETENTA Y SEIS.
 
 El Gobernador Constitucional del Estado,
 
@@ -1148,3 +1148,13 @@ PRIMERO.- La presente Ley entrará en vigor el día quince de mayo de mil noveci
 > <small>(F. DE E., P.O. 14 DE MAYO DE 1992)</small>
 
 SEGUNDO.- El catorce de mayo de mil novecientos noventa y dos, todos los Notarios en el Estado deberán dar por concluidos los libros protocolos que actualmente usan, haciendo anotaciones a que se refiere el artículo 49 de la actual Ley y en la misma fecha darán aviso de ello por escrito a la Secretaría de Gobierno del Estado, indicando a partir de que número de Escritura inicia el sistema de Protocolo Abierto y los números de Escritura que no se usarán, para el efecto de que empiecen su numeración con el número uno de la centena siguiente más próxima.
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
