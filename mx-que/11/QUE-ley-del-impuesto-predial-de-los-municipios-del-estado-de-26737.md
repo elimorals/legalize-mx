@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-de-los-municipios-del-estado-de-26737"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-12-03"
+last_updated: "2004-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -479,11 +479,11 @@ La presente Ley entrará en vigor a partir del día primero de enero del año 20
 
 Se derogan todas aquellas disposiciones que se opongan a la presente, y se abroga la Ley del Impuesto Predial publicada el 31 de diciembre de 1986.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO TERCERO.
 
-En los casos que la actualización de los valores catastrales y la aplicación de la tarifa correspondiente, resulte como consecuencia un incremento mayor al 20% del impuesto causado en el Ejercicio Fiscal inmediato anterior, únicamente se incrementará un 20% cada año, hasta que el resultado de la aplicación de la tarifa a la base sea menor al 20%.
+En los casos en que la aplicación de los valores catastrales y la tarifa correspondiente, resulte como consecuencia un incremento mayor al 15 por ciento del impuesto causado en el Ejercicio Fiscal inmediato anterior, únicamente se incrementará un 15 por ciento cada año, hasta que el resultado de la aplicación de la tarifa a la base sea menor al 15 por ciento.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -610,3 +610,9 @@ La presente Ley entrará en vigor a partir del día siguiente de su publicación
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 9 DE DICIEMBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del primero de enero de 2005.
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
