@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "2004-03-09"
+last_updated: "2005-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2005.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -839,9 +839,33 @@ II.- Visitar, cuando menos cada mes, el lugar de reclusión de su jurisdicción 
 
 III.- Periodicamente revisar los expedientes de los prófugos para decretar de oficio, cuando proceda la prescripción de la pena o de la accion penal
 
-### CAPITULO NOVENO. DE LOS SECRETARIOS DE ACUERDOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
 
-### CAPITULO DECIMO. DE LOS SUBSECRETARIOS
+### CAPITULO OCTAVO BIS.. DE LOS JUECES AUXILIARES
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+
+ARTICULO 97 bis.- El Pleno del Supremo Tribunal de Justicia del Estado, por conducto de su Presidente, deberá, oportunamente, emitir las convocatorias correspondientes a cada una de las fracciones de los diferentes Municipios del Estado, a fin de que los ciudadanos del lugar de su residencia, propongan y elijan en asamblea general, a las personas que deberán ser nombradas como Jueces Auxiliares.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+
+ARTICULO 97 bis bis (sic).- La convocatoria a que se refiere el artículo anterior, deberá contener los siguientes requisitos:
+
+a) Lugar y fecha de emisión;
+
+b) Fracción, comunidad, poblado, ejido o localidad para la cual se proponga la terna de jueces auxiliares;
+
+c) Lugar, fecha y hora en que se celebrará la asamblea general de ciudadanos;
+
+d) El orden del día conforme a la cual se desahogará la asamblea, que contendrá: lista de asistencia de los ciudadanos del lugar con derecho a voto; declaratoria de quórum; aprobación del orden del día; y, la propuesta y elección de la terna de jueces auxiliares;
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2005)</small>
+
+ARTICULO 97 ter.- La convocatoria será fijada en los sitios públicos más concurridos de cada una de las fracciones y para este fin, será remitida al Juez Auxiliar Propietario saliente o de quien lo supla a través del Presidente del Municipio que corresponda, debiendo éste devolver a la Presidencia del Supremo Tribunal el respectivo acuse de recibo.
+
+Será responsabilidad del Juez Auxiliar Propietario Saliente o de quien lo supla, la oportuna publicación de la convocatoria.
+
+### CAPITULO NOVENO. DE LOS SECRETARIOS DE ACUERDOS
 
 ###### ARTICULO 98.
 
@@ -963,7 +987,7 @@ III.- Al aceptarse el recurso de apelación en materia penal, el Secretario de A
 
 IV.- Mensualmente, dará cuenta al Juez, de los procesados que, estando en libertad provisional no se presenten en las fechas indicadas, a fin de acordar lo procedente.
 
-### CAPITULO DECIMO PRIMERO. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
+### CAPITULO DECIMO. DE LOS SUBSECRETARIOS
 
 ###### ARTICULO 103.
 
@@ -1009,7 +1033,7 @@ I.- Auxiliar en el levantamiento de las diligencias;
 
 II.- Dar cuenta de los expedientes para fijar el monto de garantías y para calificar una detención.
 
-### CAPITULO DECIMO SEGUNDO. DE LOS ACTUARIOS
+### CAPITULO DECIMO PRIMERO. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
 
 ###### ARTICULO 106.
 
@@ -1021,7 +1045,7 @@ II.- Controlar y conservar, bajo su estricta responsabilidad, los expedientes qu
 
 III.- Las demás que les señalen las leyes y este Reglamento.
 
-### CAPITULO DECIMO TERCERO. DEL PERSONAL ADMINISTRATIVO
+### CAPITULO DECIMO SEGUNDO. DE LOS ACTUARIOS
 
 ###### ARTICULO 107.
 
@@ -1059,7 +1083,7 @@ Se prohíbe a los Actuarios pedir o recibir, por el cumplimiento de sus funcione
 
 La inobservancia de lo dispuesto en el párrafo anterior, será sancionada con suspensión de su cargo y en el supuesto de reincidencia, con la destitución de conformidad a las fracciones IV y V del artículo 132 de la Ley Orgánica.
 
-### CAPITULO DECIMO CUARTO. DE LOS TRABAJADORES SOCIALES DE LOS JUZGADOS FAMILIARES
+### CAPITULO DECIMO TERCERO. DEL PERSONAL ADMINISTRATIVO
 
 ###### ARTICULO 109.
 
@@ -1099,7 +1123,7 @@ VII.- Formar los legajos de sentencias por fechas sucesivas y por año.
 
 Las Secretarias de los Secretarios de Estudio y Cuenta, además de las obligaciones que establece el artículo 109 de este Reglamento, deberán elaborar técnicamente los proyectos de resolución que les dicten los Secretarios de Estudio y Cuenta, cuidando escrupulosamente la ortografía y forma de los mismos y que se reproduzca el número de copias necesarias
 
-### CAPITULO DECIMO QUINTO. DISPOSICIONES COMUNES A LOS SERVIDORES PUBLICOS DE LAS SALAS Y JUZGADOS
+### CAPITULO DECIMO CUARTO. DE LOS TRABAJADORES SOCIALES DE LOS JUZGADOS FAMILIARES
 
 ###### ARTICULO 113.
 
@@ -1115,7 +1139,7 @@ C).- Cerciorarse de la forma de vida familiar, platicando al efecto con los meno
 
 II.- Rendir el informe correspondiente sobre el estudio que antecede al Juez de su adscripción.
 
-### CAPITULO DECIMO SEXTO. DEL PERSONAL DE INTENDENCIA DE LAS DEPENDENCIAS DEL PODER JUDICIAL
+### CAPITULO DECIMO QUINTO. DISPOSICIONES COMUNES A LOS SERVIDORES PUBLICOS DE LAS SALAS Y JUZGADOS
 
 ###### ARTICULO 114.
 
@@ -1157,11 +1181,7 @@ El Magistrado Presidente de la Sala o el Juez, en su caso, tendrán la custodia 
 
 Los estudiantes de la carrera de Derecho, podrán cumplir con su servicio social, previo cumplimiento de los requisitos que al efecto se exijan en las Salas o Juzgados del Poder Judicial.
 
-### CAPITULO DECIMO SEPTIMO. DEL DESPACHO DE LOS ASUNTOS
-
-Sección 1a.
-
-DE LOS LIBROS DE CONTROL
+### CAPITULO DECIMO SEXTO. DEL PERSONAL DE INTENDENCIA DE LAS DEPENDENCIAS DEL PODER JUDICIAL
 
 ###### ARTICULO 124.
 
@@ -1231,7 +1251,11 @@ VI.- Auxiliar en la atención al público, cuando así le sea ordenado;
 
 VII.- Las demás que les encomiende su Superior Jerárquico.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO DECIMO SEPTIMO. DEL DESPACHO DE LOS ASUNTOS
+
+Sección 1a.
+
+DE LOS LIBROS DE CONTROL
 
 ###### ARTICULO 128.
 
@@ -2747,7 +2771,7 @@ El Secretario de Acuerdos y el encargado del archivo, cuidarán que los expedien
 
 ## TITULO TERCERO. DE LOS PERITOS
 
-### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 216.
 
@@ -2759,7 +2783,7 @@ Los Peritos Médicos observarán, igualmente, las disposiciones contenidas en lo
 
 ## TITULO CUARTO. DE LAS UNIDADES DE APOYO TECNICO DEL SUPREMO TRIBUNAL
 
-### CAPITULO SEGUNDO. DE LA BIBLIOTECA DEL SUPREMO TRIBUNAL
+### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL
 
 ###### ARTICULO 218.
 
@@ -3105,7 +3129,7 @@ VI (SIC).- Para el envío de expedientes al Archivo Histórico:
 
 A).- Después de ser revisado el expediente por el Dictaminador, previa su autorización, se procederá a la clasificación por Juzgado y deberá elaborarse un inventario en donde se anote: Número de expediente, año, nombre del actor, nombre del demandado, si se trata de asuntos Civiles; y número de proceso, nombre(s) del acusado(s) y delito(s), si se trata de asuntos Penales; además, número del legajo respectivo en orden progresivo, por Sala o Juzgado. Realizado lo anterior, se hará la entrega del expediente al Archivo Histórico, por conducto de quien esta Institución autorice, previa identificación. El oficio que contenga la relación de los expedientes enviados deberá ser archivado. Los expedientes que se envían serán hasta el año que fije el Pleno del Supremo Tribunal de Justicia.
 
-### CAPITULO TERCERO. DE LAS OFICIALIAS DE PARTES COMUN
+### CAPITULO SEGUNDO. DE LA BIBLIOTECA DEL SUPREMO TRIBUNAL
 
 ###### ARTICULO 230.
 
@@ -3201,7 +3225,7 @@ V.- El retraso en la devolución del material prestado a domicilio implicará un
 
 VI.- Podrá renovarse el préstamo de las obras por el mismo período del préstamo inicial
 
-### CAPITULO CUARTO. DEL INSTITUTO DE ESTUDIOS JUDICIALES
+### CAPITULO TERCERO. DE LAS OFICIALIAS DE PARTES COMUN
 
 ###### ARTICULO 241.
 
@@ -3251,7 +3275,7 @@ El Oficial de Partes y sus auxiliares observarán en lo que sea compatible, las 
 
 Los auxiliares atenderán, además, las obligaciones que el propio Oficial de Partes les señale
 
-### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
+### CAPITULO CUARTO. DEL INSTITUTO DE ESTUDIOS JUDICIALES
 
 ###### ARTICULO 246.
 
@@ -3485,7 +3509,7 @@ DISPOSICION GENERAL PARA EL INSTITUTO
 
 Lo no previsto en este capítulo, será resuelto por la Comisión del Instituto.
 
-### CAPITULO SEXTO. DEL FONDO DE APOYO PARA LA ADMINISTRACION DE JUSTICIA
+### CAPITULO QUINTO. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 272.
 
@@ -3681,7 +3705,7 @@ VIII.- Realizar todos aquellos trabajos que le encomiende el Oficial Mayor, la C
 
 La Oficialía Mayor deberá contar con manuales de operatividad para el cumplimiento de las funciones que registra el presente Reglamento tanto para el Oficial Mayor, como para las Areas que integran la Oficialía Mayor y para el Fondo de Apoyo para la Administración de Justicia. Dichos manuales deberán ser revisados por la Comisión de Presupuesto y Administración y aprobados por el Pleno del Supremo Tribunal
 
-### CAPITULO SEPTIMO. DE LA CONTRALORIA
+### CAPITULO SEXTO. DEL FONDO DE APOYO PARA LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 288.
 
@@ -3707,7 +3731,7 @@ Para el desempeño de sus funciones, el Jefe de la Oficina de Consignaciones y G
 
 Lo que no se encuentre contemplado en la Ley Orgánica, en el presente Reglamento y en los manuales de operatividad correspondientes, será resuelto por la Comisión de Presupuesto y Administración en consulta y autorización del Pleno del Supremo Tribunal.
 
-### CAPITULO OCTAVO. DE LA GACETA JUDICIAL O REVISTA DEL PODER JUDICIAL
+### CAPITULO SEPTIMO. DE LA CONTRALORIA
 
 ###### ARTICULO 294.
 
@@ -3775,7 +3799,7 @@ XI.- Realizar los trabajos que le encomiende el Pleno del Supremo Tribunal relac
 
 Las obligaciones y atribuciones que señalan las fracciones I, II, IV, VI, VII, y IX del artículo anterior, no son delegables.
 
-### CAPITULO NOVENO. DE LA UNIDAD DE INFORMATICA Y ESTADISTICA DEL PODER JUDICIAL
+### CAPITULO OCTAVO. DE LA GACETA JUDICIAL O REVISTA DEL PODER JUDICIAL
 
 ###### ARTICULO 300.
 
@@ -3809,7 +3833,7 @@ La Gaceta Judicial o Revista del Poder Judicial puede aceptar las diferentes ide
 
 La selección de los trabajos que se presentan para su publicación, queda a criterio del Consejo Editorial.
 
-### CAPITULO PRIMERO. LEYES APLICABLES
+### CAPITULO NOVENO. DE LA UNIDAD DE INFORMATICA Y ESTADISTICA DEL PODER JUDICIAL
 
 ###### ARTICULO 308.
 
@@ -3865,11 +3889,13 @@ XIII.- Las demás actividades que le encomiende la Comisión de Informática y E
 
 ## TITULO QUINTO. DE LAS RELACIONES Y CONDICIONES GENERALES DE TRABAJO
 
-### CAPITULO SEGUNDO. DE LA CALIDAD EN EL SERVICIO
+### CAPITULO PRIMERO. LEYES APLICABLES
 
 ###### ARTICULO 312.
 
 Las relaciones y condiciones generales de trabajo del personal del Poder Judicial se regirán por lo previsto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, este Reglamento y las demás leyes de la materia que sean aplicables. Lo no previsto en las leyes, será resuelto por el Pleno del Supremo Tribunal.
+
+### CAPITULO SEGUNDO. DE LA CALIDAD EN EL SERVICIO
 
 ###### ARTICULO 313.
 
@@ -3992,3 +4018,11 @@ P.O. 9 DE MARZO DE 2014.
 PRIMERO.- El presente Acuerdo entrara en vigor al dia siguiente de su publicacion en el Periodico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a este acuerdo.
+
+P.O. 14 DE ENERO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN DIVERSOS ARTÍCULOS AL REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI”.]
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones y acuerdos que se opongan al presente.
