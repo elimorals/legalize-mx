@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2002-12-30"
+last_updated: "2003-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -913,173 +913,69 @@ V.- Enlace con el C-4 para la atención de emergencias de Seguridad Pública, Pr
 
 VI.- Asistencia ciudadana para orientación y enlace con las dependencias competentes en eventos masivos.
 
-## TITULO QUINTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)</small>
+
+## TITULO QUINTO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 80.
 
-Las personas físicas o morales que pretendan prestar servicios de seguridad, protección o vigilancia, sistemas de alarma, custodia de personas, lugares, establecimientos, bienes y valores, incluido su traslado en el Estado, deberán obtener autorización previa de la Subsecretaría y realizar el pago de derechos correspondiente.
-
-Los prestadores de servicios a que se refiere el párrafo anterior, y que cuenten con autorización de la Secretaría de Seguridad Pública, en términos del Artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, además de sujetarse a las disposiciones legales del presente ordenamiento deberán notificar a la Subsecretaría, su operación dentro de los siguientes quince días naturales a su establecimiento en el Estado.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 81.
 
-Los prestadores de los servicios de Seguridad Privada, serán auxiliares a la función de Seguridad Pública, por lo que sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública cuando así se les requiera.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-Al efecto, la Secretaría, la Procuraduría, la Subsecretaría, y los Municipios, signarán los convenios con los prestadores de estos servicios para establecer los requisitos y condiciones en que habrá de darse tal colaboración.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 82.
 
-Para efectos de esta Ley se entenderá como prestador de servicios de Seguridad Privada a:
-
-I.- Los organismos y empresas establecidas dentro de las instituciones y organizaciones auxiliares de crédito, industrias, establecimientos fabriles o comerciales para su vigilancia interna, cuyos integrantes tengan una relación laboral de prestación de servicios con la unidad económica en la que desempeñen sus funciones;
-
-II.- Las personas morales legalmente constituidas cuyo objeto social sea la prestación de servicios de Seguridad Privada. Quedan asimilados a este grupo las personas físicas que presten el servicio de Seguridad Privada por conducto de terceros empleados a su cargo;
-
-III.- Los grupos de seguridad que a su costa organicen los habitantes de las colonias, fraccionamientos y zonas residenciales para ejercer en cualquier horario la función única y exclusiva de resguardar los inmuebles o las casas habitación ubicadas en las áreas que previamente se señalen;
-
-IV.- Los custodios de personas que presten servicios de seguridad personal a costa de quienes reciben tal servicio;
-
-V.- Las personas físicas que en forma independiente desempeñan la función de vigilancia sobre casas habitación, comercios o personas;
-
-VI.- Las personas físicas o morales, que presten los servicios de sistemas de alarmas en todas sus modalidades; y
-
-VII.- En general, toda persona física o moral que realice actividades similares y auxiliares relacionadas con la Seguridad Pública.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 83.
 
-Para obtener la autorización como prestador de servicios de Seguridad Privada se deberán reunir los siguientes requisitos:
-
-I.- Ser de nacionalidad mexicana;
-
-II.- En el caso de las personas morales, demostrar que se encuentran constituidos legalmente conforme a las leyes mexicanas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-III.- Presentar solicitud por escrito dirigida a la Subsecretaría;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-IV.- Presentar a la Subsecretaría los informes y documentos que se le requieran para el registro de su personal y equipo;
-
-V.- Contar con domicilio legal en el Estado;
-
-VI.- Indicar denominación o razón social con la que pretenda prestar su servicio;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VII.- Otorgar fianza mediante compañía debidamente constituida conforme a las leyes mexicanas, por el monto que fijen las autoridades de la materia, misma que deberá garantizar:
-
-a).- Las obligaciones en materia de seguridad social y los adeudos que se contraigan con su personal, por la prestación del servicio; y
-
-b).- Las obligaciones civiles y administrativas derivadas de la prestación del servicio de seguridad privada, en términos de las leyes aplicables.
-
-VIII.- Las personas físicas deberán acreditar no tener antecedentes penales;
-
-IX.- No haber sido sancionado con la cancelación de la autorización por cualquiera de las autoridades estatales o federal; y
-
-X.- Los demás que establezcan las disposiciones legales aplicables en la materia.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 84.
 
-Los prestadores del servicio de Seguridad Privada a que se refieren las fracciones I, II, III y IV del Artículo 82 de esta Ley, deberán capacitar a sus elementos bajo los lineamientos y programas del Instituto, a efecto de que éstos cuenten con los conocimientos necesarios para el eficaz desempeño de su función.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-Otorgar al personal el equipo necesario para el desempeño de las funciones, así como asistirlo en caso de riesgo o accidentes que se generen por la naturaleza misma del servicio, desde que éste se origine hasta su total restablecimiento; de no ser posible, se indemnizará al afectado o a sus beneficiarios, de conformidad con lo previsto en la Ley Federal del Trabajo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 85.
 
-Satisfechos los requisitos a que se refiere el artículo 83 del presente ordenamiento, la Subsecretaría dictaminará en un plazo no mayor de 30 días hábiles contados a partir de la integración del expediente, la procedencia de la solicitud y en su caso, expedirá al organismo o empresa de seguridad privada la autorización correspondiente en la que constará las características, vigencia y el tipo de servicio que prestará.
-
-En el caso de los vigilantes independientes a que se refiere el Artículo 82 fracción V, de esta Ley, la Subsecretaría expedirá la credencial que los identifique como prestador de servicios de seguridad privada.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 86.
 
-Los prestadores de servicios de Seguridad Privada no podrán por ningún motivo y bajo ninguna circunstancia realizar actividades de investigación o intervenir en asuntos que sean competencia exclusiva del Ministerio Público. Aun tratándose de sus áreas de trabajo.
-
-En caso de que los prestadores de los servicios de Seguridad Privada tengan conocimiento de hechos que se presuman constitutivos de delito o de pruebas que acrediten la probable responsabilidad penal de un individuo, deberán notificar de inmediato a la autoridad competente.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 87.
 
-Los prestadores de este servicio, excepto los señalados en la fracción V del Artículo 85 de esta Ley, deberán rendir diariamente a la Dirección General parte informativo de las novedades que se susciten con motivo de la prestación de su servicio.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 88.
 
-Los prestadores del servicio de Seguridad Privada deberán sujetarse a los siguientes lineamientos:
-
-I.- Queda estrictamente prohibida la realización de funciones que constitucional o legalmente sean competencia exclusiva de los Cuerpos de Seguridad Pública o de las Fuerzas Armadas;
-
-II.- Queda prohibido usar en su denominación, razón social o nombre, papelería, credenciales, identificaciones, documentación y demás bienes de la negociación, las palabras: "Policía", "Agente", "Investigador" o cualquier otro que derive de los anteriores que puedan dar a entender la vinculación con o pertenencia a las Corporaciones de Seguridad Pública. Sólo podrá utilizarse el término "Seguridad Privada";
-
-III.- En sus documentos, bienes, insignias e identificaciones no podrán usar logotipos oficiales, ni el escudo o los colores nacionales, tampoco podrán utilizar escudos o banderas oficiales de otros países. Queda prohibido el uso de todo tipo de placas metálicas de identidad;
-
-IV.- Deberán utilizar uniformes, insignias, divisas o equipo diferente a los que reglamentariamente corresponde usar a las Corporaciones de Seguridad Pública o a las Fuerzas Armadas en forma tal que a simple vista no exista la posibilidad de confusión;
-
-V.- Deberán cumplir con los requisitos de capacitación y certificación que al efecto se señala en el Artículo 100 del presente ordenamiento;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VI.- Llevarán un registro de su personal en acuerdo con lo establecido en esta Ley, señalando todas las altas y bajas del personal, lo que deberá notificarse mensualmente a la Subsecretaría y al C-4;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VII.- Brindarán las facilidades necesarias para que las autoridades de la Subsecretaría puedan ejercer las funciones de supervisión y verificación de sus actividades;
-
-VIII.- Deberán cumplir todas y cada una de las obligaciones que señale el Reglamento respectivo y la autorización correspondiente; y
-
-IX.- Responderán solidariamente de los daños y perjuicios que cause su personal al prestar sus servicios.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 89.
 
-Corresponde a la Subsecretaría:
-
-I.- Fijar los requisitos de forma para obtener la autorización e inscripción en el registro estatal;
-
-II.- Dictaminar sobre las solicitudes para la prestación de servicios de Seguridad Privada en el Estado;
-
-III.- Evaluar por conducto de la unidad administrativa correspondiente, previo pago de los derechos respectivos, el funcionamiento de los servicios de Seguridad Privada;
-
-IV.- Supervisar permanentemente al personal, el equipo y la operación de las empresas que presten servicios de Seguridad Privada, para ello podrá realizar las visitas de inspección que estime necesarias; y
-
-V.- Sancionar conforme a lo dispuesto en el Artículo 92 de este ordenamiento, a los prestadores del servicio de Seguridad Privada cuando dejen de cumplir con los requisitos establecidos en esta Ley o en otras disposiciones legales aplicables.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 90.
 
-Ningún elemento activo de las Corporaciones de Seguridad del Estado o Municipios podrá ser socio o propietario por sí o por interpósita persona de una empresa que preste servicios de Seguridad Privada.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 91.
 
-Los casos, condiciones, requisitos y lugares para la portación de armas de fuego por parte de quienes presten sus servicios en las empresas a que se refiere el presente Título, se ajustarán a lo dispuesto por la Ley Federal de Armas de Fuego y Control de Explosivos.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 92.
 
-El incumplimiento por parte de los prestadores del servicio de Seguridad Privada a las obligaciones establecidas en esta Ley y demás disposiciones aplicables, dará lugar a las siguientes sanciones:
-
-I.- Amonestación por escrito;
-
-II.- Multa hasta de cinco mil veces el salario mínimo diario general vigente en el Estado;
-
-III.- Suspensión temporal de actividades hasta que se subsane el incumplimiento, con difusión pública de dicha sanción; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-IV.- Cancelación definitiva del registro a través de un procedimiento en acuerdo con lo estipulado en el reglamento correspondiente con difusión pública de la misma. En este caso la Subsecretaría notificará la cancelación a las autoridades correspondientes a efecto de que realicen en los términos de sus competencias, los actos que legalmente procedan.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ###### ARTICULO 93.
 
-La Subsecretaría podrá solicitar a la Procuraduría y al Municipio que corresponda, el auxilio necesario para la supervisión del funcionamiento de las empresas de seguridad privada.
+(DEROGADO, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA, P.O 26 DE MAYO DE 2003)
 
 ## TITULO SEXTO. DE LA PROFESIONALIZACION DEL PERSONAL DE SEGURIDAD PUBLICA
 
@@ -1464,3 +1360,17 @@ P.O. 30 DE DICIEMBRE DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2003.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+Los ordenamientos y acuerdos en materia de servicios de seguridad privada expedidos con anterioridad a la entrada en vigor de la presente Ley, permanecerán vigentes en todo lo que no se oponga a la misma.
+
+Una vez que entre en vigor esta Ley, quedará derogado el Título Quinto de la Ley de Seguridad Pública para el Estado de Aguascalientes, referente a los Servicios de Seguridad Privada.
+
+SEGUNDO.- Las personas físicas o morales que presten servicios de seguridad privada en el Estado de Aguascalientes, sin contar con la autorización respectiva, gozarán de un plazo hasta de sesenta días naturales improrrogables, contados a partir de la entrada en vigor de esta Ley, para obtener dicha autorización.
+
+TERCERO.- Las personas físicas y morales que a la entrada en vigor de esta Ley presten servicios de seguridad privada, continuarán haciéndolo hasta el vencimiento del plazo de la autorización respectiva, sin perjuicio de que se cumplan las obligaciones previstas en los artículos 15, 16, 17, 18, 19, 20 y 21 de esta Ley. Al concluir la vigencia de su autorización, sólo podrán prestar dichos servicios de conformidad con lo que dispone esta Ley.
+
+CUARTO.- Lo establecido en el párrafo último del Artículo 22 de la presente Ley, se aplicará a partir del mes de enero del año 2004.
