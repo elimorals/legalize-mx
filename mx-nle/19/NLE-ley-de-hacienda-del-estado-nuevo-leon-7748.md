@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2003-12-26"
+last_updated: "2004-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1281,9 +1281,9 @@ e).- Pagos por gastos funerarios;
 
 f) Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del impuesto sobre la renta;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2004)</small>
 
-g) Fondo de ahorro, despensas y alimentación, hasta por un monto que en su conjunto, no exceda de una cuota elevada al mes, por el excedente deberá cubrirse el impuesto correspondiente;
+g) Fondo de ahorro, despensas y alimentación;
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -1331,7 +1331,7 @@ b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobr
 
 > <small>(REFORMADO, P.O. DE 26 DE DICIEMBRE DE 2001)</small>
 
-c).- Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+c) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -1343,7 +1343,7 @@ c).- Las actividades realizadas por el causante y otros datos que puedan utiliza
 
 Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de Finanzas y Tesorería General del Estado, que optan por dictaminar sus estados financieros en materia del Impuesto sobre Nóminas y presentar el dictamen respectivo, en un plazo no mayor de 30 días hábiles, contados a partir de la fecha del escrito respectivo.
 
-> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ARTICULO 160 bis-2. - Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
 
@@ -1363,7 +1363,7 @@ I.- La autoridad fiscal en el ejercicio de sus facultades de comprobación, requ
 
 a) Tratándose del contador público registrado, la autoridad fiscal podrá solicitarle, por escrito con copia al contribuyente, lo siguiente:
 
-1.-Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
+1.- Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
 
 2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada; los cuales, en todo caso, se entiende que son propiedad del contador público.
 
@@ -1379,7 +1379,7 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-ARTICULO 160 bis-5. - Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
+ARTICULO 160 bis-5.- Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
 
 ###### ARTICULO 160 Bis
 
@@ -3027,11 +3027,11 @@ En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda 
 
 ## TITULO CUARTO. De los Productos
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 ARTICULO 276 BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 278.
 
@@ -3568,3 +3568,9 @@ Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
 Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Publico, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
 
 Artículo Quinto.- Si se da por terminada la Coordinación en Materia Federal de Derechos, entre la Federación y el Estado de Nuevo León a que se refiere el transitorio que antecede, entrando en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de la citada Coordinación, los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
+
+P.O. 17 DE FEBRERO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las erogaciones a que se refiere esta reforma, que se hubieren efectuado entre el 1º de enero de 2004 y la fecha de entrada en vigor de esta reforma, quedarán sujetas a lo dispuesto por el presente Decreto.
