@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2004-05-21"
+last_updated: "2004-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -627,13 +627,13 @@ III. Citar, por conducto de su Presidente, al Auditor Superior de Fiscalización
 
 IV. Conocer el proyecto de presupuesto anual del Órgano, así como el Informe anual de su ejercicio, y darlo a conocer al Pleno del Congreso para los efectos legales conducentes;
 
-V. Evaluar si el Órgano cumple con las funciones que conforme a la Constitución y esta Ley le corresponden y proveer, lo necesario para garantizar su autonomía de gestión;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
-VI. Presentar al Pleno del Congreso, el acuerdo relativo a la propuesta para ocupar el cargo de Auditor Superior de Fiscalización.
+V.- Evaluar si el Órgano cumple con las funciones que conforme a la Constitución y esta Ley le corresponden, y proveer lo necesario para garantizar la autonomía de gestión; y
 
-VII. Acordar acerca de la solicitud de licencia o remoción del Auditor Superior de Fiscalización, y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
-VIII. Las demás que establezca esta Ley y otras disposiciones aplicables.
+VI.- Las demás que establezca esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 73.
 
@@ -649,13 +649,21 @@ El titular del Órgano será el Auditor Superior de Fiscalización, designado po
 
 La designación del Auditor Superior de Fiscalización del Estado se sujetará al procedimiento siguiente:
 
-I. La Comisión procederá a la revisión y análisis de los requisitos y documentos que señale esta Ley de las propuestas que se presenten para ocupar el cargo de Auditor Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
-II. Si del análisis de la documentación se acreditan los requisitos correspondientes, se procederá a formular el acuerdo que menciona la fracción VI del Art. 72 de esta Ley;
+I.- La Comisión procederá a la revisión y análisis de los requisitos y documentos previstos en esta Ley de las propuestas que se presenten en su seno, para ocupar el cargo de Auditor Superior de Fiscalización;
 
-III. Formulado el acuerdo a que se refiere la fracción anterior, en un plazo que no deberá exceder de tres días hábiles, la Comisión propondrá al Pleno la propuesta acordada, para que éste proceda, en los términos del artículo anterior, a la designación del Auditor Superior de Fiscalización del Estado;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
-V. La persona designada para ocupar el cargo de Auditor Superior de Fiscalización del Estado, protestará su cargo ante el Congreso, en sesión pública.
+II.- Si del análisis se acreditan los requisitos correspondientes, se procederá a formular opinión relativa sobre la persona o personas que estime idóneas para ocupar el cargo de Auditor Superior de Fiscalización del Estado, la cual se remitirá a Comisión de Régimen Interno y Prácticas Parlamentarias;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+III.- Formulada la opinión a que se refiere la fracción anterior, en un plazo que no deberá exceder de tres días hábiles, la Comisión de Régimen Interno y Prácticas Parlamentarias presentará al Pleno la propuesta correspondiente, para que éste proceda en los términos del artículo anterior, a la designación del Auditor Superior de Fiscalización del Estado, y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+
+IV.- La persona designada para ocupar el cargo de Auditor Superior de Fiscalización del Estado, protestará su cargo ante el Congreso, en sesión pública.
 
 ###### ARTÍCULO 76.
 
@@ -900,3 +908,9 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
