@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2004-09-18"
+last_updated: "2004-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -205,11 +205,15 @@ Todos los individuos del Estado de Chihuahua deberán cursar la educación prees
 
 #### SECCIÓN I. DE LA EDUCACIÓN INICIAL
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
 Son de interés social las actividades e inversiones de cualquier tipo que en materia educativa realicen el Estado, los municipios, los organismos descentralizados de éstos y los particulares.
 
 #### SECCIÓN II. DE LA EDUCACIÓN PREESCOLAR
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 13.
 
@@ -421,6 +425,8 @@ El sostenimiento de dichas escuelas comprende la obligación patronal de proporc
 
 ### CAPÍTULO V. DE LA EDUCACIÓN QUE IMPARTAN LOS PARTICULARES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 25.
 
 El Gobierno del Estado, de manera concurrente con la Federación, promoverá:
@@ -577,7 +583,7 @@ Las escuelas de nueva creación llevarán el nombre que designe o elija la autor
 
 ###### Artículo 35.
 
-La educación inicial está dirigida a niñas y a niños, a partir de los 45 días de su nacimiento y hasta los cuatro años; se impartirá en centros de desarrollo infantil, estancias infantiles y albergues escolares.
+La educación inicial está dirigida a niñas y a niños, a partir de los 45 días de su nacimiento y hasta los tres años; se impartirá en centros de desarrollo infantil, estancias infantiles y albergues escolares.
 
 #### SECCIÓN VI. DE LA EDUCACIÓN MEDIA SUPERIOR
 
@@ -607,9 +613,7 @@ VIII.- Brindar a las niñas y a los niños los servicios médicos, psicológicos
 
 ###### Artículo 37.
 
-La educación preescolar se impartirá a niñas y a niños, de tres años con seis meses a seis años, en jardines de niños, albergues escolares e instituciones similares, cualquiera que sea su denominación.
-
-El Estado tiene la obligación de extender la cobertura de este nivel y otorgar a las instituciones del mismo, el apoyo económico suficiente y los materiales didácticos adecuados.
+La educación preescolar se impartirá a niñas y a niños, de tres años a seis años, en jardines de niños, albergues escolares e instituciones similares, cualquiera que sea su denominación.
 
 #### SECCIÓN VII. DE LA EDUCACIÓN ESPECIAL
 
@@ -723,7 +727,9 @@ XVI.- Impulsar en el educando la apreciación y el reconocimiento a las formas d
 
 En el Estado funcionarán centros de educación primaria, para:
 
-I.- Niñas y niños a partir de los seis años de edad al día de su inscripción o que hayan acreditado la educación preescolar;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+I.- Niñas y niños a partir de los seis años de edad al día de su inscripción y que hayan acreditado la educación preescolar;
 
 II.- Niñas y niños con necesidades especiales en su aprendizaje, atendiendo a sus aptitudes y capacidades; y
 
@@ -777,7 +783,7 @@ XI.- Fomentar en los educandos una cultura sobre el cuidado del agua;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-XII.- Fomentar, promover y difundir en el educando la apreciación y el reconocimiento de la organización, prácticas y actividades de cualquier tipo, producto de las minorías culturales, basado en el respecto a la diversidad cultural.
+XII.- Fomentar, promover y difundir en el educando la apreciación y el reconocimiento de la organización, prácticas y actividades de cualquier tipo, producto de las minorías culturales, basado en el respeto a la diversidad cultural.
 
 ###### Artículo 46.
 
@@ -1401,11 +1407,13 @@ La educación a que se refiere la presente sección tendrá las modalidades de e
 
 ###### Artículo 115.
 
-Los particulares podrán impartir educación en cualquier tipo, nivel y modalidad; por lo que concierne a la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener, previamente y para cada caso, la autorización expresa del Poder Ejecutivo. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial.
+Los particulares podrán impartir educación en cualquier tipo, nivel y modalidad; por lo que concierne a la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener, previamente y para cada caso, la autorización expresa del Poder Ejecutivo. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial.
 
 Se entiende por reconocimiento de validez oficial de estudios el acto mediante el cual la autoridad educativa estatal, admite expresamente y en forma específica como procedente un plan y sus programas de estudios que imparten los particulares distintos de la educación básica, normal y demás para la formación de maestros de educación básica.
 
-Se entiende por autorización el acto mediante el cual exclusivamente la autoridad educativa local, otorga el consentimiento a los particulares, específicamente para impartir la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+Se entiende por autorización el acto mediante el cual exclusivamente la autoridad educativa local, otorga el consentimiento a los particulares, específicamente para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica.
 
 ###### Artículo 116.
 
@@ -1515,7 +1523,9 @@ VI.- Recibir información periódica sobre el desempeño de sus hijos o pupilos.
 
 Son obligaciones de quienes ejercen la patria potestad o tutela sobre los educandos, entre otras:
 
-I.- Hacer que sus hijos o pupilos menores de edad reciban la educación primaria y la secundaria;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+I.- Hacer que sus hijos o pupilos menores de edad reciban la educación preescolar, la primaria y la secundaria;
 
 II.- Colaborar con las autoridades escolares y los organismos de padres de familia, en las actividades que se realicen en los planteles;
 
@@ -1969,7 +1979,9 @@ XX.- No contar con las instalaciones que satisfagan las condiciones de salubrida
 
 XXI.- No cumplir, en los casos de educación inicial y preescolar, con los requisitos pedagógicos que para planes y programas de estos niveles fije la autoridad educativa competente;
 
-XXII.- Impartir educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+XXII.- Impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
 
 XXIII.- Incumplir cualesquiera de las obligaciones previstas en el artículo 119; y
 
@@ -2166,3 +2178,13 @@ SEGUNDO.- La educación preescolar será obligatoria para todos en los siguiente
 En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
 
 TERCERO.- Una vez aprobado (sic) la reforma constitucional, en su caso, remítase al Ejecutivo Estatal el presente Decreto para su promulgación y publicación en el Periódico Oficial.
+
+P.O. 29 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
