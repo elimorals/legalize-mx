@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1994-05-14"
+last_updated: "1994-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -353,11 +353,11 @@ II. Tener 18 años cumplidos al día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 29.
 
-No pueden ser Diputados: El Gobernador del Estado, el Secretario General de Gobierno, el Subsecretario General de Gobierno, el Secretario de Finanzas, los Magistrados del Tribunal Superior de Justicia en funciones, el Procurador General de Justicia, los miembros del Ejército Nacional, los Jueces de Primera Instancia o Menores, los Presidentes Municipales en sus respectivas jurisdicciones, a menos que se separen de su cargo o servicio 90 días antes de su elección.
+No pueden ser diputados: El Gobernador del Estado, los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia en funciones, los jueces de Primera Instancia o Menores, los miembros del Ejército Nacional, los Presidentes Municipales, los Regidores y Síndicos de los Ayuntamientos en sus respectivas jurisdicciones, a menos que se separen de su cargo o servicio 90 días antes de su elección.
 
 ###### Art. 30.
 
@@ -444,6 +444,10 @@ La celebración de sesiones extraordinarias no impedirá la elección del Congre
 ###### Art. 42.
 
 El Congreso celebrará sesión solemne el dieciocho de Agosto de cada año, a la que comparecerá el Gobernador y rendirá por escrito un informe anual en el que expondrá suscintamente el estado que guardan todos los Ramos de la Administración Pública. El Presidente de la Legislatura contestará en términos generales.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
+
+Cuando en proximidad a esa fecha se celebren elecciones federales o se renueven los poderes de la unión, la sesión de apertura del primer período ordinario y el informe que rinda el gobernador, tendrán excepcionalmente lugar el primer domingo del mes de agosto del año respectivo. La Legislatura reiniciará sus actividades ocho días después del término a que alude el Artículo 36 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -943,55 +947,67 @@ IX. Promulgar Leyes, Decretos o Reglamentos, o expedir órdenes de pago, sin que
 
 El Gobernador del Estado durante el tiempo de sus funciones, será responsable por los delitos oficiales que cometa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1969)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 1994)</small>
 
-### CAPITULO II (sic). Del Director General de Gobernación
+### CAPITULO III (sic). De la Organización del Poder Ejecutivo
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 72.
 
-Para el despacho de los negocios oficiales del Poder Ejecutivo, habrá un funcionario responsable que se denominará Secretario General de Gobierno.
+Para el despacho de los negocios oficiales del Poder Ejecutivo, la Administración Pública será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso, la que distribuirá los asuntos del orden administrativo de las dependencias y organismos y definirá las bases para la creación de las entidades paraestatales y la intervención del Ejecutivo en su funcionamiento.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+Las leyes determinarán las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, o entre éstas y las dependencias de la administración centralizada. Al efecto, se formará en la esfera administrativa, los reglamentos necesarios para la exacta observancia de las disposiciones legales.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 73.
 
-Para ser Secretario General de Gobierno se requiere: Ser mexicano por nacimiento, en el ejercicio pleno de sus derechos; ser mayor de 30 años, no ser militar en servicio activo, ni ministro de algún culto religioso.
+La Administración Pública será eficaz y congruente con la planeación del desarrollo económico y social del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos poderes.
+
+El Gobernador, en el ejercicio de sus funciones constitucionales, podrá dar a conocer sus resoluciones a través de los Secretarios del Despacho, cuando así lo estime pertinente o lo disponga la ley.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 74.
 
-Los acuerdos, circulares, órdenes y disposiciones que dicte el Gobernador, así como los documentos que suscriba en el ejercicio de sus funciones Constitucionales deberán ser autorizadas por el Secretario General de Gobierno y por el Secretario encargado del Ramo a que el asunto corresponda, sin cuyo requisito no surtirán efectos legales.
+Para ser Secretario General de Gobierno o Secretario del Despacho, se requiere: Ser mexicano por nacimiento, originario del Estado o vecino de él, en pleno goce de sus derechos, mayor de treinta años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 75.
 
-El Secretario General de Gobierno es responsable de las disposiciones del Gobernador, que autorice con su firma, cuando fueren contrarias a la Constitución y Leyes del Estado.
+Todos los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador, deberán ser firmados por el Secretario de la dependencia a que el asunto corresponda, sin cuyo requisito no surtirá sus efectos legales.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
+Tratándose de los actos promulgatorios de las leyes o decretos que realice el Gobernador, solo se requerirá el refrendo del Secretario General de Gobierno, requisito sin el cual no serán obligatorios.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 76.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el Director General de Gobierno, en cuyo caso tendrá las mismas responsabilidades y prerrogativas de aquél.
+Los titulares de las dependencias de la Administración Pública Centralizada y Paraestatal, serán responsables de las disposiciones que autoricen cuando fueren contrarias a la Constitución General de la República, a esta Constitución y leyes del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 77.
 
-El Secretario General de Gobierno o el Director General de Gobierno en su caso, concurrirán a las Sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, debe asistir. Los Secretarios sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
+Las faltas de los titulares de las dependencias del Poder Ejecutivo, serán suplidas en los términos de la ley respectiva o su reglamento.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 78.
 
-El Secretario General de Gobierno al igual que los demás Secretarios, no podrá patrocinar a particulares en asuntos judiciales, ni administrativos, mientras estén en ejercicio de sus funciones.
+El Secretario General de Gobierno o quien legalmente lo supla en sus faltas temporales, concurrirán a las sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, deba asistir.
+
+Los demás Secretarios de las dependencias lo harán sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 79.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1969)
+Los titulares de dependencias del Poder Ejecutivo, no podrán patrocinar a particulares en asuntos judiciales ni administrativos, mientras estén en ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -1387,11 +1403,11 @@ Las Leyes determinarán casos y circunstancias en los que se deba sancionar pena
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 1994)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Secretarios de despacho, Directores Generales, Directores de Area, Jefes de Departamentos, Jefes de Oficina, Encargados de Dependencias, el Procurador General de Justicia, los Jueces de Primera Instancia, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaiones (sic) asimiladas a éstas y los de fideicomisos públicos, los coordinadores generales, presidentes, regidores y síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamentos y Oficinas de los mismos.
+Podrán ser sujetos de juicio político los diputados al Congreso del Estado, los magistrados del Tribunal Superior de Justicia, los Secretarios de despacho y los servidores públicos de la estructura básica centralizada, el Procurador General de Justicia, los jueces de Primera Instancia, los directores generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de fideicomisos públicos, los coordinadores generales, presidentes, regidores y síndicos de los Ayuntamientos de la Entidad, así como el secretario, tesorero, directores, jefes de departamentos y oficinas de los mismos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2034,3 +2050,23 @@ Remítase la Minuta aprobada a los HH. Ayuntamientos Constitucionales del Estado
 P.O. 14 DE MAYO DE 1994.
 
 UNICO.- Seguidos los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE JUNIO DE 1994
+
+DECRETO 7763, QUE REFORMA ART. 42.
+
+###### ARTICULO PRIMERO.
+
+Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+###### ARTICULO SEGUNDO.
+
+Para todos los efectos prevenidos en la Ley Orgánica del Poder Legislativo y el Reglamento de Gobierno Interior y del Proceso Legislativo vigentes, los actos y fechas se ajustarán por esa única vez, a los términos y alcances de adición que contiene el presente Decreto.
+
+P.O. 1 DE JUNIO DE 1994.
+
+DECRETO NUM. 7766, QUE REFORMA LOS ARTS. 29 Y 124.
+
+###### ARTICULO UNICO.
+
+Con fundamento a los trámites a que se refiere el Artículo 131 de la Constitución Política, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
