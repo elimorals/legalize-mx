@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-catastro-para-los-municipios-del-estado-de-baja-2840"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-20"
-last_updated: "1983-12-20"
+last_updated: "1989-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 1983.
 
@@ -229,7 +229,9 @@ Para determinar el valor catastral de cada predio se aplicarán los valores unit
 
 Los valores unitarios que aplique la Dependencia de Catastro deberán ser los que apruebe la Comisión Técnica de Catastro.
 
-Estos valores serán objeto de revisión, aprobación y aplicación cada dos años calendario.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+Estos valores serán objeto de revisión, aprobación y aplicación cada año calendario.
 
 ###### ARTICULO 14.
 
@@ -241,7 +243,9 @@ Dicho valor será, por lo tanto, análogo al valor comercial que tenga el predio
 
 Para las aplicaciones fiscales, el valor catastral de los predios será el valor técnicamente determinado que se convertirá en valor fiscal de los mismos, base del impuesto predial, el cual será modificado por las autoridades competentes en la cantidad y período que fijen las Leyes de la materia o esta Ley o cuando concurran las siguientes causas que den motivo a una revaluación o actualización de valores:
 
-I. Cuando el valor del inmueble tenga una antigüedad de dos años calendario, ya sean predios urbanos, rústicos, ejidales y plantas de beneficio o establecimientos metalúrgicos.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+I. Cuando el valor del inmueble tenga una antigüedad de un año calendario, ya sean predios urbanos, rústicos, ejidales y plantas de beneficio o establecimientos metalúrgicos.
 
 II. Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes.
 
@@ -410,3 +414,11 @@ Presidente.
 DIP. PROFR. ALEJANDRO MOTA VARGAS.
 
 Secretario.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
