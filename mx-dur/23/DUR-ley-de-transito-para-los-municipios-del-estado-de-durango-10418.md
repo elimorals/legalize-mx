@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "1996-12-22"
+last_updated: "2002-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -606,3 +608,15 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los cuatro días del mes de Diciembre de mil novecientos noventa y seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 13 DE JUNIO DE 2002.
+
+PRIMERO.- La presente Ley entrará en vigor al tercer día al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transportes del Estado de Durango, cuya aprobación fue prevista en el decreto número 217 de fecha 10 de Diciembre de 1996, y que se publicó en el Periódico Oficial del Estado, signado con el número 50 de fecha 22 de Diciembre de 1996.
+
+TERCERO.- El Reglamento relativo a esta Ley deberá ser expedido en un término que no excederá de 90 días contados a partir de la fecha de la vigencia del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones que se opongan a la presente ley en materia de autorización, expedición, renovación y reposición de licencias de chofer del servicio público, establecidas en la Ley de Tránsito para los Municipios del Estado de Durango.
