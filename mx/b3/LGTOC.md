@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1985-02-08"
+last_updated: "1990-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -254,9 +254,9 @@ El endoso puede hacerse en blanco, con la sola firma del endosante. En este caso
 
 El endoso al portador produce los efectos del endoso en blanco.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito y certificados de participación el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno.
+Tratándose de acciones, bonos de fundador, obligaciones, certificados de depósito, certificados de participación y cheques, el endoso siempre será a favor de persona determinada; el endoso en blanco o al portador no producirá efecto alguno. Lo previsto en este párrafo no será aplicable a los cheques expedidos por cantidades hasta de cinco millones de pesos.
 
 ###### ARTICULO 33.
 
@@ -1274,6 +1274,10 @@ El cheque será siempre pagadero a la vista. Cualquiera inserción en contrario 
 
 El cheque puede ser nominativo o al portador.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El cheque expedido por cantidades superiores a cinco millones de pesos, siempre deberá ser nominativo. Dicha cantidad, así como la establecida por el artículo 32 de esta Ley, se actualizará el 1o. de enero de cada año en los términos del artículo 17-A del Código Fiscal de la Federación, por el período transcurrido desde el mes de diciembre del penúltimo año hasta el mes de diciembre del último año inmediato anterior a aquél en que se actualiza.
+
 > <small>(F. DE E., D.O.F. 10 DE FEBRERO DE 1933)</small>
 
 El cheque que no indique a favor de quién se expide, así como el emitido a favor de persona determinada y que, además, contenga la cláusula "al portador," se reputarán al portador.
@@ -1396,9 +1400,11 @@ El cruzamiento general puede transformarse en cruzamiento especial; pero el segu
 
 El librado que pague un cheque cruzado en términos distintos de los que este artículo señala, es responsable del pago irregularmente hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 198.
 
-El librador o el tenedor pueden prohibir que el cheque sea pagado en efectivo, mediante la inserción en el documento de la expresión "para abono en cuenta". En este caso, el librado sólo podrá hacer el pago, abonando el importe del cheque en la cuenta que lleve o abra en favor del tenedor. El cheque no es negociable a partir de la inserción de la cláusula "para abono en cuenta". La cláusula no puede ser borrada.
+El librador o el tenedor pueden prohibir que un cheque sea pagado en efectivo, mediante la inserción en el documento de la expresión "para abono en cuenta". En este caso el cheque se podrá depositar en cualquier institución de crédito, la cual sólo podrá abonar el importe del mismo a la cuenta que lleve o abra a favor del beneficiario. El cheque no es negociable a partir de la inserción de la cláusula "para abono en cuenta". La cláusula no puede ser borrada.
 
 El librado que pague en otra forma, es responsable del pago irregularmente hecho.
 
@@ -2984,6 +2990,14 @@ SEGUNDO.- Las disposiciones de carácter general vigentes, dictadas con anterior
 
 ...
 
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+DISPOSICION TRANSITORIA
+
+ARTICULO TRIGESIMO TERCERO.- La reforma al artículo 32, último párrafo y la adición al artículo 179, con un segundo párrafo, ambos de la Ley General de Títulos y Operaciones de Crédito, entrarán en vigor a partir del 1o. de julio de 1991.
+
 ## TRANSITORIO
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -2993,3 +3007,9 @@ D.O.F. 31 DE DICIEMBRE DE 1946.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE DICIEMBRE DE 1951.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
+
+...
