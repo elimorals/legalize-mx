@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1984-08-08"
+last_updated: "1986-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1986.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -293,31 +293,27 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará con 17 Diputados Electos por Mayoría y hasta 5 Diputados, asignados por Minoría. Por cada Diputado electo por Mayoría, se elegirá un suplente. Los suplentes de los Diputados por Minoría se determinarán de acuerdo con el Artículo 32 de esta Constitución.
+El Congreso del Estado se integrará con dieciocho Diputados electos por Mayoría Relativa y hasta doce Diputados asignados por Representación Proporcional.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1984)</small>
+La Demarcación Territorial de los dieciocho Distritos Electorales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales señalados, considerando regiones geográficas de la Entidad.
 
-La demarcación territorial de los 17 Distritos Electorales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales señalados, considerando regiones geográficas de la Entidad.
+Las elecciones de Diputados serán calificadas por un Colegio Electoral, que se integrará con todos los presuntos Diputados electos por Mayoría Relativa y todos los presuntos Diputados asignados por Representación Proporcional.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
-
-Las elecciones de Diputados serán calificadas por un Colegio Electoral, que se integrará con cuatro presuntos Diputados electos por mayoría y dos presuntos Diputados asignados por minoría, que serán aquellos que hayan obtenido la votación más alta en la elección o asignación respectiva. Sesionarán en la sede del Poder Legislativo y su resolución será definitiva e inatacable.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 27.
 
-La asignación de los Diputados por minoría, se efectuará mediante lista de candidatos que presentarán los Partidos Políticos, por la Comisión Electoral del Estado, quien después de haber realizado el cómputo de la votación obtenida por cada Partido Político en la totalidad de los Distritos Electorales, hará la asignación iniciando por el Candidato que tenga mayor votación y en el orden señalado por los Partidos Políticos en la lista registrada, siguiendo en forma decreciente con los demás Partidos Políticos, observando las siguientes reglas:
+La asignación de los Diputados por Representación Proporcional, se efectuará mediante lista de candidatos que presentarán los Partidos Políticos, por la Comisión Electoral del Estado, quien después de haber realizado el cómputo de la votación obtenida por cada Partido Político en la totalidad de los Distritos Electorales, hará la asignación iniciando por el Candidato que tenga mayor votación y en el orden señalado por los Partidos Políticos en la lista registrada, siguiendo en forma decreciente con los demás partidos políticos, observando las siguientes reglas:
 
-I.- Tendrán derecho a concurrir en la asignación de Diputados de Minoría, los partidos políticos que hayan registrado fórmulas para elección de Diputados de Mayoría, en cuando menos las dos terceras partes de los Distritos Electorales de la Entidad.
+I.- Tendrán derecho a concurrir en la asignación de Diputados de Representación Proporcional, los Partidos Políticos que hayan registrado fórmulas para elección de Diputados de Mayoría Relativa, en cuando menos seis Distritos Electorales de la Entidad.
 
-La Ley Electoral del Estado determinará el procedimiento a que se sujetará la asignación de Diputados de Minoría.
+II.- Tendrán derecho a concurrir en la asignación de Diputados de Representación Proporcional, los Partidos Políticos que hayan obtenido un mínimo de 1.5 por ciento de la votación total.
 
-II.- Tendrán derecho a concurrir en la asignación de Diputados de Minoría los partidos políticos que no hayan logrado tres o más diputaciones de mayoría. En su caso, la asignación de Diputados que se realice, sumada a los electos por mayoría, no excederá de tres para cada Partido Político.
+La Ley Electoral del Estado, determinará el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
@@ -1393,9 +1389,11 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 
 Nadie en el Estado podrá desempeñar dos o más cargos de elección popular; pero el interesado puede elegir el que le convenga.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 135.
 
-A toda petición debe recaer un acuerdo escrito de la autoridad a quien se dirija, y ésta, tiene la obligación de dar a conocer al peticionario el resultado, en breve plazo.
+Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los Organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los Partidos Políticos y de los Ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los Organismos Electorales se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen e instituirá un Tribunal que tendrá la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral que será la última instancia en la calificación de las elecciones y por tanto, sus resoluciones tendrán el carácter de definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -1786,3 +1784,7 @@ UNICO.- Remítase el presente Decreto a los Ayuntamientos de la Entidad en los t
 P.O. 8 DE AGOSTO DE 1984.
 
 UNICO.- Remítase el presente Decreto a los Honorables Ayuntamientos de la Entidad, para los efectos del Artículo 131 de la Constitución Política Local, y publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
