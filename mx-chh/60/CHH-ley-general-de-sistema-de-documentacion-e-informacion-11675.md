@@ -4,7 +4,7 @@ identifier: "CHH-ley-general-de-sistema-de-documentacion-e-informacion-11675"
 country: "mx"
 rank: "ley_general"
 publication_date: "1997-07-19"
-last_updated: "1997-07-19"
+last_updated: "1999-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY GENERAL DEL SISTEMA DE DOCUMENTACION E INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de julio de 1997.
 
@@ -315,17 +315,23 @@ II. Dictaminar la baja de documentos de contenido meramente administrativo, coor
 
 III. Realizar estudios, sobre las formas de eliminación de documentos y emitir, cuando le sean requeridas, las opiniones correspondientes.
 
-### CAPÍTULO QUINTO. DEL CENTRO DE INFORMACIÓN DEL ESTADO DE CHIHUAHUA
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+### CAPÍTULO QUINTO. DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 32.
 
-El Centro de Información del Estado de Chihuahua, creado mediante el Decreto 670/85 publicado en el Periódico Oficial del Estado del 22 de febrero de 1986, tiene los siguientes objetivos y facultades:
+El Instituto Chihuahuense de la Cultura, tiene los siguientes objetivos y facultades:
 
 A. EN MATERIA DE ADMINISTRACIÓN DE DOCUMENTOS:
 
 I. Ser el Centro de Referencia de Información sobre el Estado de Chihuahua;
 
-II. En su calidad de Secretario del Comité Técnico de Documentación, el Director del Centro vigilará el efectivo funcionamiento del Sistema de Documentación e Información Pública del Estado de Chihuahua;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+II. El Director del Instituto vigilará el efectivo funcionamiento del Sistema de Documentación e Información Pública del Estado de Chihuahua;
 
 III. Ser el encargado de operar y administrar el Archivo Histórico del Poder Ejecutivo y previo convenio que para tal efecto se suscriba, podrá administrar los archivos históricos de los Poderes Legislativo y Judicial Estatales, así como de los municipios y dependencias federativas con representación en el Estado que así lo soliciten;
 
@@ -367,9 +373,13 @@ V. Desarrollar y apoyar en forma integral, hábitos de lectura y trabajo intelec
 
 VI. Organizar, promover y apoyar la realización de congresos, asambleas y reuniones, eventos, cursos y concursos de carácter científico, técnico y cultural;
 
-VII. Asegurar, de modo integral, y conservar en buen estado las instalaciones, el equipo y los acervos documentales del Centro;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
-VIII. Difundir los servicios documentales del Centro y las actividades afines a éste;
+VII. Asegurar, de modo integral, y conservar en buen estado las instalaciones, el equipo y los acervos documentales del Instituto;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+VIII. Difundir los servicios documentales del Instituto y las actividades afines a éste;
 
 IX. Gestionar ante el Ejecutivo Estatal y los Ayuntamientos, la asignación de locales, mobiliario y equipo que se requieran para la instalación de bibliotecas públicas;
 
@@ -377,7 +387,9 @@ X. Formular convenios de participación con los ayuntamientos y promover la crea
 
 XI. Otorgar asesoría para enriquecer sistemáticamente las bibliotecas y archivos históricos instalados en el Estado;
 
-XII. Las demás que le confieran las leyes, reglamentos y acuerdos relativos al objeto y ámbito de las actividades del Centro.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+XII. Las demás que le confieran las leyes, reglamentos y acuerdos relativos al objeto y ámbito de las actividades del Instituto.
 
 ###### ARTÍCULO 33.
 
@@ -552,3 +564,31 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto 670/85 que en su momento creó el Centro de Información del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+El personal de base que labora actualmente en el Centro de Información del Estado de Chihuahua, que en aplicación de este Decreto pase a depender del Instituto Chihuahuense de la Cultura, no resultará afectado en los derechos que haya adquirido en virtud de su relación laboral anterior, misma que en lo sucesivo se entenderá para todos los efectos con dicho Instituto.
+
+###### ARTÍCULO CUARTO.
+
+En los términos de los artículos que anteceden, los recursos patrimoniales, humanos y financieros del Centro de Información del Estado de Chihuahua pasarán a formar parte del Instituto Chihuahuense de la Cultura y se entregarán, bajo las formalidades administrativas procedentes, en un término de sesenta días. Los asuntos pendientes pasarán de inmediato al Instituto Chihuahuense de la Cultura para su trámite y resolución.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades y obligaciones contenidas en otros ordenamientos se entenderán referidas al Instituto Chihuahense de la Cultura, hasta en tanto se lleven a cabo las adecuaciones legales pertinentes.
+
+###### ARTÍCULO SEXTO.
+
+Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
