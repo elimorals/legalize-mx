@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2003-07-09"
+last_updated: "2003-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -445,9 +445,7 @@ En toda pena de prisión que se imponga por sentencia, se computará el tiempo d
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-###### ARTICULO 46
-
-BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
 
 I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
 
@@ -459,15 +457,17 @@ c).- Salida diurna con reclusión nocturna; y
 
 d).- Salida nocturna con reclusión diurna.
 
-Quienes cumplan prisión intermitente, en los periodos que deban internarse permanecerán separados de los demás sentenciados. El incumplimiento de está obligación originará la destitución del responsable del establecimiento donde se extinga la sanción que lo hubiere autorizado o permitido durante su gestión. El superior de dicho responsable, al tener conocimiento de la infracción, procederá a destituirlo del cargo, sin perjuicio de las demás responsabilidades en que hubiere incurrido y, de no hacerlo el superior, será igualmente sancionado con la misma medida por el Ejecutivo del Estado. Los Jueces y Agentes del Ministerio Público, cuando tomen conocimiento directo del hecho, lo informarán al Supremo Tribunal de Justicia y al Procurador de Justicia del Estado, respectivamente, a fin de que procedan a solicitar al Ejecutivo las sanciones que aquí se establecen.
+(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
 
-II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales o educativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
+Quienes cumplan prisión intermitente, en los periodos que deban internarse permanecerán separados de los demás sentenciados. El incumplimiento de está obligación será materia responsabilidad.
 
-El trabajo en favor de la comunidad puede ser pena autónoma o sustitutiva de la prisión o de la multa.
+(REFORMADA, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
 
-Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo con las jornadas que fije el juzgador, según las circunstancias del caso.
+II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el condenado.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa.Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+
+Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
 III.- El régimen especial en libertad, que consiste en la aplicación de una o varias de las sanciones establecidas en los incisos f) y k) del artículo 45 de este Código.
 
@@ -559,7 +559,7 @@ La caución de no ofender consiste en la garantía que el Juez debe exigir al se
 
 ###### ARTICULO 51.
 
-La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, según parezca prudente al Juez.
+La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público, en privado, según parezca prudente al Juez.
 
 ###### ARTICULO 52.
 
@@ -660,6 +660,10 @@ Dentro de los límites fijados por la Ley, los Jueces aplicarán las sanciones e
 3o.- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse, así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
 4o.- Tratándose de los delitos cometidos por servidores públicos, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2003)</small>
+
+5o.- La conducta procesal del inculpado, para lo cual se observara lo dispuesto en los artículos 192 y 198 del Código de Procedimientos Penales para el Estado de Tamaulipas
 
 Para los efectos anteriores, el Juez deberá tomar conocimiento directo del sujeto, de la víctima y de las condiciones que considere importantes en cada caso, que se encuentren debidamente probadas y que sirvan para evaluar el grado de temibilidad del sujeto, razonando su criterio personal al respecto en las consideraciones de su sentencia.
 
@@ -925,7 +929,9 @@ c).- Las medidas de seguridad previstas en la fracción IV de este artículo dur
 
 d).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo de la condena.
 
-El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 23 DE JULIO DE 2003)
+
+El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior.
 
 II.- Cuando la pena de prisión impuesta no exceda de cuatro años, se podrá sustituir por:
 
@@ -935,7 +941,9 @@ b).- Las medidas de seguridad previstas en la fracción IV de este artículo dur
 
 c).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad.
 
-El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior.
 
 Para la procedencia de los sustitutivos mencionados en las fracciones I y II anteriores será necesario que el sentenciado opte por ellos y acredite la disponibilidad de la institución donde prestará sus servicios de carácter laboral.
 
@@ -965,7 +973,9 @@ b).- En el caso de la modalidad consistente en la suspensión parcial o total de
 
 10).- La asistencia obligatoria una vez por semana con su cónyuge o concubina, hijos y demás miembros de su familia que lo deseen, a lugares de sano esparcimiento, aquellos donde se practique el deporte o adquiera cultura tales como parques recreativos y deportivos, plazas públicas, cinematógrafo, zoológicos, museos, bibliotecas, conciertos, exposiciones y cualquiera otro a juicio del Juez o del Órgano de Ejecución que fomenten la unión, el respeto familiar, la convivencia social, el sano entretenimiento, el deporte y la cultura.
 
-Esta última medida se impondrá siempre al sentenciado con régimen especial en libertad. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el punto 10 anterior. El Ministerio Público vigilará el cumplimiento de esta obligación del Juez y en caso de incumplimiento, además de recurrir la resolución respectiva, informará al Supremo Tribunal de Justicia para los efectos legales que procedan.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Esta última se impondrá siempre al sentenciado con régimen especial en libertad. Solo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el punto 10 anterior.
 
 c).- La autoridad judicial, al determinar el régimen especial en libertad, cuidará asimismo que la afectación al desarrollo personal del sentenciado sea la mínima posible, que se evite su reincidencia, que tenga un sentido formativo y que contribuya a la protección de la sociedad, y particularmente de las víctimas;
 
@@ -981,7 +991,9 @@ b).- Recibir capacitación para el trabajo y cursos de especialización en su á
 
 c).- Someterse a tratamiento terapéutico contra vicios, adicciones y enfermedades físicas o mentales que el Órgano de Ejecución aconseje o que el Juez considere adecuado de conformidad con los datos que obren en la causa.
 
-Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva, y el Juez, al conceder la sustitución, determinará el o los establecimientos públicos o privados de asistencia donde recibirá el tratamiento, la educación y la capacitación para el trabajo, sin que la duración de estas medidas pueda exceder el máximo de prisión que se sustituyó o del máximo de la pena sustituida aplicada. El Órgano de Ejecución tendrá obligación de proporcionar al Juez, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda, previo estudio biopsicosocial del inculpado. Si el Órgano de Ejecución no proporcionara dicha información al Juez, éste informará lo anterior al Supremo Tribunal de Justicia para que, a su vez, lo haga del conocimiento del Ejecutivo del Estado y se imponga la destitución y responsabilidades que procedan al Director del establecimiento y al Consejo Técnico Interdisciplinario competentes.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva. El Órgano de Ejecución tendrá obligación de proporcionar al Juez, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda.
 
 V.- Para la aplicación de penas sustitutivas se requerirá, además, que:
 
@@ -1003,17 +1015,17 @@ VI.- Como medidas de seguridad, cuando se aplique una pena sustitutiva, el sente
 
 a).- No podrá cambiar de residencia, sin autorización de la autoridad judicial;
 
-b).- Comparecer ante el Juez de la causa y ante la dependencia del Ejecutivo a la que corresponda la ejecución de la sanción privativa de la libertad, cuantas veces sea requerido, e informar a ésta mensualmente y por escrito, sobre el cumplimiento de la pena sustitutiva, adjuntando las constancias que así lo acredite y que le deberán expedir los establecimientos donde cumpla las medidas de seguridad y la que le deberá expedir su familia respecto a las actividades semanales que se le ordenaron; y
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+b).- Comparecer ante el Juez de la causa y ante la dependencia del Ejecutivo a la que corresponda la ejecución de la sanción privativa de la libertad, cuantas veces sea requerido, e informar a este mensualmente y por escrito, sobre el cumplimiento de la pena sustitutiva, adjuntando las constancias que así lo acredite.
 
 c).- Deberá observar una actitud de respeto hacia la comunidad y de estricto cumplimiento a las leyes.
 
 Tanto el Código de Procedimientos Penales como la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado, en lo conducente, reglamentarán las formas en que deberá cumplirse, por el sujeto, con los informes y constancias mensuales.
 
-De los informes y constancias que reciba el órgano encargado de la ejecución se llevará un expediente individualizado de control y vigilancia y tendrá dicho órgano la obligación de informar al Juez de la causa:
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-1.- Cualquier dato que pudiera ocasionar la revocación de la pena sustitutiva; y
-
-2.- Cualquier informe o el desarrollo de actividad que sea competencia del órgano de ejecución, cuantas veces le requiera el juzgador.
+De los informes y constancias que reciba el órgano encargado de la ejecución se llevará un expediente individualizado de control y vigilancia.
 
 VII.- La duración de las sanciones de prisión intermitente y de trabajo en favor de la comunidad, será la misma que la de la sanción de privación de la libertad a la que sustituye, fijada previamente por el juzgador según sus equivalencias.
 
@@ -1027,15 +1039,27 @@ b).- Cuando el sentenciado incumpla con cualquiera de las condiciones o medidas 
 
 c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al sustitutivo.
 
-Cuando el Juez notifique personalmente a los responsables de los establecimientos donde el sentenciado recibirá el tratamiento, la educación, la capacitación y prestará su trabajo a favor de la comunidad, insertará en la cédula el texto del artículo 258 bis de este Código que contiene las penas para los responsables del delito de falsedad en esta clase de informes y les solicitará que en cada informe mensual que rindan deberán incluir la protesta de decir verdad. Cuando la autoridad tenga conocimiento de que pudo incurrir en falsedad alguno de los responsables de dichos establecimientos, pondrá los hechos en conocimiento del Ministerio Público y del Procurador de Justicia para los efectos legales que procedan. La víctima o el ofendido tendrá legitimación para acudir al Juez de la causa e informarle sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutas. Ninguna autoridad estatal o municipal podrá negarse a cumplir la orden judicial de aplicar el tratamiento, la educación, la capacitación y demás medidas que se ordenen en substitución de la pena de prisión, salvo en casos justificados que se deberán acreditar por el servidor público respectivo, mediante incidente en que se oirá a su superior inmediato, a la Unidad de la Contraloría del Ejecutivo, al Ministerio Público, a la víctima u ofendido y al sentenciado.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución donde las decida a la Secretaría General de Gobierno para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutas deberá informarlo a la Dependencia dicha para que a su vez lo comunique al Juez de la causa. Si alguna autoridad incumple esta obligación de informar, será destituido del cargo de inmediato, independientemente de otras sanciones que le correspondan.
+La victima o el ofendido tendrá legitimación para acudir ante el Ministerio Público y la autoridad
+
+ejecutora e informarles sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutivas.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución donde las decida a la Secretaría General de Gobierno para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutas deberá informarlo a la Dependencia dicha para que a su vez lo comunique al Juez de la causa.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
 Para la revocación o modificación de las condiciones o medidas del sustitutivo, o su sustitución por otro, al igual que para su concesión, si no se otorgó en sentencia, se estará al incidente respectivo previsto en el Código de Procedimientos Penales.
 
-Si se revocaren las penas sustitutivas, el Juez dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado a virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-En caso de que el sentenciado incumpliera sus obligaciones, independientemente de la revocación de la pena sustituida, se hará acreedor a las sanciones que le correspondan de conformidad con los artículos 164 a 167 de este Código o por algún otro delito que con tal conducta cometiere.
+Si se revocaren las penas sustitutivas, el Juez dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado en virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+En caso de que el sentenciado incumpla sus obligaciones, independientemente de la revocación de la pena sustituida, se hará acreedor a las sanciones que le corresponden de conformidad con los artículos 164 a 167 de este Código o por algún otro delito que con tal conducta cometiere.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1063,11 +1087,15 @@ Para que pueda operar la conmutación, es indispensable cubrir o garantizar la r
 
 ### CAPITULO XIV. CONDENA CONDICIONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 112.
 
-La condena condicional suspende la ejecución de las sanciones impuestas por sentencia definitiva, de acuerdo con los siguientes requisitos:
+La condena condicional suspende la ejecución de las sanciones impuestas por sentencias definitivas en los términos de este artículo, de acuerdo con los siguientes requisitos:
 
-I.- Deberá otorgarse, a petición de parte o de oficio, al pronunciarse sentencia definitiva, que no exceda de tres años de prisión, si concurren las siguientes condiciones:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Deberá otorgarse, a petición de parte o de oficio, al pronunciarse sentencia definitiva, que no exceda de cinco años de prisión, si concurren los siguientes requisitos:
 
 a).- Que no hubiera sido condenado con anterioridad por sentencia firme;
 
@@ -1079,11 +1107,15 @@ d).- Que otorgue fianza que fijará el Juez o Tribunal de que se presentará ant
 
 e).- Que haya reparado el daño causado o depositado el monto de la condena por este concepto.
 
-II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado no diere lugar a nuevo proceso que concluya con sentencia condenatoria firme, se considerará extinguida la sanción fijada en aquélla.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
 
 En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida.
 
-III.- La suspensión comprenderá no sólo las sanciones privativas de libertad, sino las demás que se hayan impuesto al delincuente, excepto la reparación del daño;
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de éste Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
 
 IV.- A los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber el contenido de las fracciones II y III de este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en las mismas;
 
@@ -1119,15 +1151,29 @@ La amnistía extingue tanto la acción penal como las sanciones impuestas, queda
 
 ### CAPITULO III. PERDON DEL OFENDIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
 ###### ARTICULO 116.
 
-El perdón del ofendido extingue la acción penal, cuando concurran los requisitos siguientes:
+El perdón del ofendido o de la víctima, en sun caso, extingue la acción penal, cuando concurran los requisitos siguientes:
 
 I.- Que el delito sea de los que se persiga a instancia de parte;
 
 II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia definitiva que se dicte; y
 
-III.- Que se otorgue por el ofendido o su representante legal o convencional con cláusula especial.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+III.- Que lo otorgue el ofendido o la victima por sí, o por medio de su representante legal o convencional con cláusula especial.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+
+También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
+
+a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículo 305 fracciones I y II, 307, 310, 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
+
+b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
+
+c).- Que se haya reparado el daño.
 
 El perdón otorgado beneficia a los autores, partícipes y encubridores.
 
@@ -1703,7 +1749,7 @@ I.- Si el delito es cometido con un menor de catorce años de edad, la sanción 
 
 II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta; y
 
-III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes más y será destituido del empleo. (sic) Cargo, o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1821,7 +1867,7 @@ QUATER.- Al que sin autorización conozca o copié información contenida en sis
 
 ###### ARTICULO 207
 
-QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
+QUINQUIES .- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1941,13 +1987,15 @@ II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva 
 
 Al responsable del delito de cohecho se le sancionará en la forma siguiente:
 
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de tres mil días de salario, o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos; y
+
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de quinientos días salario, o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
-
-II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientos días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, mismos que se aplicarán en beneficio del Estado.
 
@@ -1969,13 +2017,13 @@ IV.- Cualquier persona que sin tener el carácter de servidor público y estando
 
 Al responsable del delito de peculado se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de quinientos días salario o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de tres mil días de salario o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO III. FALSIFICACION Y USO DE DOCUMENTOS PUBLICOS O PRIVADOS
 
@@ -1989,13 +2037,13 @@ Comete el delito de concusión el servidor público que con el carácter de tal 
 
 Al responsable del delito de concusión se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días salario o no sea valuable, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de tres mil días de salario o no sea valuable, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario de y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO IV. FALSEDAD EN DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDAD
 
@@ -2023,13 +2071,13 @@ III.- El servidor público que teniendo a su cargo fondos públicos, les dé a s
 
 Al responsable del delito de uso indebido de atribuciones y facultades, se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de quinientos días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de tres mil días de salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos; y
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente a quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
 
@@ -2063,17 +2111,15 @@ III.- El servidor público que por sí o por interpósita persona, sustraiga, de
 
 Al responsable del delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de tres mil días de salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de mil pero no de tres mil días salario, se impondrán de seis a nueve años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a doce años para desempeñar otro empleo cargo o comisión pública;
+II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
-
-III.- Cuando la cuantía a que asciendan las operaciones excedan a tres mil días de salario, se impondrán de nueve a doce años de prisión, multa de trescientos a cuatrocientos días salario y destitución e inhabilitación de ocho a catorce años para desempeñar otro empleo, cargo o comisión pública.
+III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -2111,13 +2157,13 @@ Al responsable del delito de enriquecimiento ilícito se le impondrán las sigui
 
 I.- Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de cinco mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de tres mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de cinco mil días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de tres mil días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
@@ -2181,61 +2227,37 @@ XXV.- Dar a conocer resoluciones que deban mantenerse en el secreto judicial por
 
 XXVI.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligado a él por negocios de interés común;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXVII.- Ordenar que una persona sujeta a prisión intermitente, en cumplimiento de dicha sanción se ha internado en lugares donde tenga contacto directo con otros sentenciados que se encuentren cumpliendo pena diversa;
+XXVIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXIX.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXVIII.- Negarse injustificadamente a ejecutar la orden judicial firme de impartir educación, capacitar para el trabajo o aplicar un tratamiento a un sentenciado al que se substituyó la pena de prisión por otras alternativas;
+XXX.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXXI.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXIX.- Abstenerse de informar a la autoridad competente, teniendo obligación legal de hacerlo, del incumplimiento de un sentenciado a sus obligaciones derivadas de una resolución donde se le hubiere concedido el beneficio de penas alternativas;
+XXXII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXXIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXX.- No decretar en la resolución que substituya la pena de prisión por las demás alternativas, las medidas a que se refiere el número 10 del inciso b) de la fracción III del artículo 108 de este Código, salvo que dichas medidas perjudiquen a la familia del sentenciado o su readaptación;
+XXXIV.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXXV.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXXI.- Negarse injustificadamente los responsables de establecimientos públicos a expedir gratuitamente las constancias mensuales a los sentenciados que efectivamente hubieren acudido a recibir tratamiento, educación o capacitación para el trabajo, como medidas o penas decretadas en substitución de la de prisión y que el Juez respectivo les ordenó ejecutar;
+XXXVI.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
+XXXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
-XXXII.- Abstenerse la autoridad ejecutora, teniendo obligación legal de hacerlo, de llevar un expediente actualizado e individualizado de control, supervisión y vigilancia de cada sentenciado por penas y medidas de seguridad decretadas en substitución de la de prisión;
-
-> <small>(F. DE E., P.O. 19 DE JUNIO DE 1999)</small>
-
-XXXIII.- Abstenerse la autoridad ejecutora de proporcionar los informes que de oficio y de acuerdo con la ley deba rendir o que le solicite el Juez, para decretar éste en su caso penas alternativas, para modificarlas o para revocarlas.
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-XXXIV.- Abstenerse de informar a la autoridad competente, teniendo obligación legal de hacerlo, del incumplimiento del Juez o del Ministerio Público o de los miembros de los consejos técnicos interdisciplinarios, a las leyes que rigen el otorgamiento, modificación y revocación de las penas alternativas a la de prisión;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-XXXV.- No ordenar notificación personal, mediante cédula donde se inserte íntegramente el artículo 258 bis de este Código, a los responsables de los establecimientos donde deban cumplirse las penas y medidas substitutivas de la de prisión, u ordenarla omitiendo poner en conocimiento de los destinatarios de dicha notificación de su obligación legal de informar mensualmente bajo protesta de decir verdad y manifestar en cada informe mensual que tienen conocimiento del texto de dicha disposición legal;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-XXXVI.- Tener por legalmente rendidos los informes mensuales de los responsables de los establecimientos públicos donde se cumplan las penas y medidas decretadas en substitución de la de prisión, sin exigir en ellos la protesta de decir verdad y la manifestación del conocimiento del texto del artículo 258 bis de este Código;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-XXXVII.- Rendir dolosamente dos o más informes a la autoridad competente sin formularlo bajo protesta de decir verdad o sin la manifestación de tener conocimiento del delito y penas que establece el artículo 258 bis de este Código, teniendo obligación legal de hacerlo; y
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
-
-XXXVIII.- Abstenerse de informar a la Secretaría General de Gobierno del texto íntegro de las resoluciones donde se concedan penas alternativas, tendiendo obligación legal de hacerlo.
+XXXVIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
 
 ###### ARTICULO 233.
 
 Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+(REFORMADA, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
 
-I.- Si infringió las fracciones I, II, III, VII, VIII, IX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII o XXXVIII se le impondrá una pena de prisión de uno a seis años de prisión y multa de cien a doscientos días salario; y
+I.- Si infringió las fracciones I, II, III, VII, VIII, XXI, XXV o XXVI, se le impondrá una sanción de uno a seis años de prisión y multa de cien a doscientos días de salario; y
 
 II.- Si infringió las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII o XXIV, se le impondrá una sanción de dos a ocho años de prisión y multa de cien a doscientos días salario.
 
@@ -2473,25 +2495,7 @@ Al que soborne a un testigo, a un perito o a un intérprete para que se produzca
 
 Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diere, sólo se le impondrá una multa de cinco a veinte días salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
-
-ARTICULO 258 BIS.- Comete el delito de falsedad en informes escritos dados a una autoridad, el que habiendo recibido la encomienda por un Juez:
-
-I.- Para aplicar tratamiento a un sentenciado, informe que dicho sentenciado acudió a recibir el tratamiento ordenado, no siendo cierto;
-
-II.- Para capacitar en el trabajo a un sentenciado, informe que dicho sentenciado adquirió o recibió la capacitación ordenada, sin ser cierto; y
-
-III.- Para impartir educación a un sentenciado, informe falsamente que dicho sentenciado cumplió con el aprendizaje ordenado.
-
-Para que se considere cometido este delito será necesario:
-
-I.- Que el responsable, previamente al informe falso, sea notificado personalmente del contenido de este artículo por el Juez que le encomendó el tratamiento, la capacitación o la educación; y
-
-II.- Que en el escrito donde informe falsamente lleve insertas la protesta de decir verdad y la manifestación textual de estar enterado de las penas que este artículo establece.
-
-(F. DE. E., P.O. 19 DE JUNIO DE 1999)
-
-A los responsables de los delitos a que se refiere este artículo se les impondrá una sanción de dos meses a dos años de prisión y si fuere servidor público se le impondrá además pena de destitución del cargo e inhabilitación para ejercer otro cualquiera durante diez años.
+ARTICULO 258 BIS.- (DEROGADO, P.O. 10 DE JULIO DE 2003)
 
 ### CAPITULO IV. ADULTERIO
 
@@ -4238,5 +4242,11 @@ Los procesos que se estén instruyendo por hechos que este Decreto deja de consi
 P.O. 9 DE JULIO DE 2001.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2003.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
