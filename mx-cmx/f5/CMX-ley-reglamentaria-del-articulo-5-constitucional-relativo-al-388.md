@@ -4,7 +4,7 @@ identifier: "CMX-ley-reglamentaria-del-articulo-5-constitucional-relativo-al-388
 country: "mx"
 rank: "ley"
 publication_date: "1945-05-26"
-last_updated: "1974-01-02"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=388&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1944-12-30"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 5°. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN LA CIUDAD DE MEXICO -- ANTES LEY REGLAMENTARIA DEL ARTICULO 5° CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL -- ANTES -- LEY REGLAMENTARIA DE LOS ARTICULOS 4° Y 5° CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS
 
-LEY REGLAMENTARIA DE LOS ARTICULOS 4o. y 5o. CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES
+LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 26 de mayo de 1945.
 
@@ -36,7 +36,9 @@ D E C R E T O :
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
-LEY REGLAMENTARIA DE LOS ARTICULOS 4o. y 5o. CONSTITUCIONALES, RELATIVOS AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO Y TERRITORIOS FEDERALES
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+LEY REGLAMENTARIA DEL ARTICULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE ENERO DE 1974)</small>
 
@@ -72,9 +74,11 @@ Para el ejercicio de una o varias especialidades, se requiere autorización de l
 
 En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, la presente Ley será interpretada en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a esta Ley, y a las leyes que regulen su actividad, en lo que no se oponga a este ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 7°.
 
-Las disposiciones de esta Ley regirán en el Distrito y en los Territorios Federales en asuntos del orden común, y en toda la República en asuntos del orden federal.
+Las disposiciones de esta ley regirán en el Distrito Federal en asuntos de orden común, y en toda la República en asuntos de orden federal.
 
 ### CAPITULO II. Condiciones que deben llenarse para obtener un título profesional
 
@@ -92,7 +96,9 @@ Para que pueda registrarse un título profesional expedido por institución que 
 
 ### CAPITULO III. Instituciones autorizadas que deben expedir los títulos profesionales
 
-#### SECCION I. Títulos expedidos en el Distrito Federal y Territorios Federales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. DE 23 DE DICIEMBRE DE 1974)</small>
+
+#### SECCION I. Títulos expedidos en el Distrito Federal
 
 > <small>(REFORMADO, D.O.F. 2 DE ENERO DE 1974)</small>
 
@@ -118,7 +124,9 @@ El Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, pod
 
 I.- Instituir un solo servicio para el registro de títulos profesionales;
 
-II.- Reconocer para el ejercicio profesional en los estados, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en el Distrito Federal y Territorios Federales las cédulas expedidas por los Estados;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Reconocer para el ejercicio profesional en los Estados, la cédula expedida por la Secretaría de Educación Pública y, consecuentemente, reconocer para el ejercicio profesional en el Distrito Federal las cédulas expedidas por los Estados;
 
 III.- Establecer los requisitos necesarios para el reconocimiento de los títulos profesionales, así como los de forma y contenido que los mismos deberán satisfacer;
 
@@ -132,15 +140,17 @@ Por ningún concepto se registrarán títulos ni se revalidarán estudios de aqu
 
 #### SECCION III. Registro de títulos expedidos en el extranjero
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 15.
 
-Ningún extranjero podrá ejercer en el Distrito y Territorios Federales las profesiones técnico-científicas que son objeto de esta Ley.
+Ningún extranjero podrá ejercer en el Distrito Federal las profesiones técnico-científicas que son objeto de esta Ley.
 
-Los mexicanos naturalizados que hubieren hecho todos los estudios superiores en los planteles que autoriza esta Ley, quedarán en igualdad de condiciones, para el ejercicio profesional, a los mexicanos por nacimiento.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 16.
 
-Sólo por excepción podrá la Dirección General de Profesiones, de acuerdo con los colegios respectivos y cumplidos los requisitos que exige esta Ley, conceder permiso temporal para ejercer alguna profesión de las clasificadas en el artículo 2°, a los profesionales extranjeros residentes en el Distrito y Territorios Federales, que comprueben ser víctimas en su país de persecuciones políticas.
+Sólo por excepción podrá la Dirección General de Profesiones, de acuerdo con los colegios respectivos y cumplidos los requisitos que exige esta ley, conceder permiso temporal para ejercer alguna profesión de las clasificadas en el artículo 2o., a los profesionales extranjeros residentes en el Distrito Federal, que comprueben ser víctimas en su país de persecuciones políticas.
 
 ###### ARTICULO 17.
 
@@ -214,9 +224,11 @@ XIV.- Las demás que le fijen las leyes y reglamentos.
 
 Se entiende por ejercicio profesional, para los efectos de esta Ley, la realización habitual a título oneroso o gratuito de todo acto o la prestación de cualquier servicio propio de cada profesión, aunque sólo se trate de simple consulta o la ostentación del carácter del profesionista por medio de tarjetas, anuncios, placas, insignias o de cualquier otro modo. No se reputará ejercicio profesional cualquier acto realizado en los casos graves con propósito de auxilio inmediato.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 25.
 
-Para ejercer en el Distrito y Territorios Federales cualquiera de las profesiones técnico-científicas a que se refieren los artículos 2° y 3°, se requiere:
+Para ejercer en el Distrito Federal cualquiera de las Profesiones técnico-científicas a que se refieren los artículos 2o. y 3o., se requiere:
 
 I.- Ser mexicano por nacimiento o naturalización y estar en pleno goce y ejercicio de sus derechos civiles;
 
@@ -320,23 +332,23 @@ Para los efectos a que se contrae la fracción VII del artículo 23 de esta Ley,
 
 ### CAPITULO VI. De los colegios de profesionistas
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 44.
 
-Todos los profesionistas de una misma rama podrán constituir en el Distrito y Territorios Federales, uno o varios colegios, sin que excedan de cinco por cada rama profesional, gobernados por un Consejo compuesto por un presidente, un vicepresidente, dos secretarios propietarios y dos suplentes, un tesorero y un subtesorero, que durarán dos años en el ejercicio de su encargo.
-
-El Consejo será electo por mayoría mediante voto individual escrito y público que cada profesionista emitirá desde el lugar en que se encuentre por envío postal certificado, con acuse de recibo a la sede del colegio.
-
-Las asociaciones se denominarán: "Colegio de ...", indicándose la rama profesional que corresponda. Cada Colegio tendrá secciones locales regidas en igual forma que la anterior. Todo profesionista cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho para formar parte del Colegio de Profesionistas.
-
-Cuando sean varios los colegios de profesionistas, éstos designarán por mayoría, el representante a que se refiere la parte final del artículo 22 de esta Ley; y en caso de empate, será la Dirección General de Profesiones la que elija entre las personas designadas quién debe representar al Colegio de que se trate.
+Todos los profesionales de una misma rama podrán constituir en el Distrito Federal uno o varios colegios, sin que excedan de cinco por cada rama profesional, gobernados por un Consejo compuesto por un presidente, un vicepresidente, dos secretarios propietarios y dos suplentes, un tesorero y un subtesorero, que durarán dos años en el ejercicio de su encargo.
 
 ###### ARTICULO 45.
 
 Para constituir y obtener el registro del Colegio Profesional respectivo, deberán reunirse los siguientes requisitos:
 
-I.- Tener cien socios como mínimo los que se constituyan en el Distrito Federal. Para estimar debidamente el número no se tomarán en cuenta los nombres de las personas que figuren como socios activos en un Colegio ya registrado, a menos de que se demuestre que han dejado de tener tal carácter.
+I.- (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
-Si el Colegio de Profesionistas radica en alguno de los Territorios Federales, el mínimo será de quince miembros ahí domiciliados; cuando se trate de una profesión nueva o no hubiere el número de profesionistas requerido, la Dirección General de Profesiones autorizará discrecionalmente, la constitución del Colegio;
+> <small>N. DE E. EN RELACIÓN CON ESTE PRECEPTO, TÓMESE EN CUENTA LO INDICADO EN EL ARTÍCULO DECIMOPRIMERO DEL DECRETO PUBLICADO EL 23 DE DICIEMBRE DE 1974, POR EL QUE SE REFORMAN DIVERSAS LEYES PARA CONCORDARLAS CON EL DECRETO QUE REFORMÓ EL ARTÍCULO 43 Y DEMÁS RELATIVOS, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE EN LA PARTE CONDUCENTE SEÑALA: "...se deroga el segundo párrafo de la fracción I del artículo 45...", ASÍ COMO LO RESUELTO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EN EL AMPARO EN REVISIÓN 295/99, EL 8 DE MAYO DE 2000; EN LA INTELIGENCIA DE QUE EL TEXTO ORIGINAL DE LA FRACCIÓN I DEL CITADO ARTÍCULO 45, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 26 DE MAYO DE 1945, ES DEL TENOR LITERAL SIGUIENTE:</small>
+
+"I.- Tener cien socios como mínimo los que se constituyan en el Distrito Federal. Para estimar debidamente el número no se tomarán en cuenta los nombres de las personas que figuren como socios activos en un Colegio ya registrado, a menos de que se demuestre que han dejado de tener tal carácter.
+
+"Si el Colegio de Profesionistas radica en alguno de los Territorios Federales, el mínimo será de quince miembros ahí domiciliados; cuando se trate de una profesión nueva o no hubiere el número de profesionistas requerido, la Dirección General de Profesiones autorizará discrecionalmente, la constitución del Colegio;"
 
 II.- Que se reúnan los requisitos de los artículos 2670, 2671 y 2673 del Código Civil vigente;
 
@@ -699,3 +711,9 @@ Profesor de educación secundaria.
 Químico.
 
 Trabajador social.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
