@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1954-07-21"
+last_updated: "1957-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1957.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -589,9 +589,9 @@ En estos casos, sus resoluciones serán definitivas e inatacables.
 
 XIII.- (DEROGADA, P.O. 14 DE ENERO DE 1931)
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
 
-XIV.- Nombrar y remover a los empleados de su Secretaría, quienes no podrán PERTENECER AL ESTADO ECLESIASTICO, NI SER MINISTRO DE ALGUN CULTO;
+XIV.- Nombrar a los empleados de su Secretaría, quienes no podrán pertenecer al Estado Eclesiástico ni ser Ministros de algún culto, observándose lo que dispongan las Leyes respectivas, tanto en lo referente a la designación como a las remociones de los mismos;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -809,9 +809,9 @@ El Gobernador del Estado podrá ausentarse del territorio del mismo, hasta por e
 
 Son facultades y obligaciones del Gobernador:
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1933)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
 
-I.- Nombrar y remover libremente al Secretario General de Gobierno, Subsecretario de Gobierno, Oficial Mayor de Gobierno, Director General de Hacienda, Procurador General de Justicia, Sub-Procurador General de Justicia y Empleados Subalternos, en los ramos administrativos y hacendarios, quienes no podrán pertenecer al Estado Eclesiástico o ser Ministros de algún culto;
+I.- Nombrar remover libremente al Secretario General de Gobierno, Subsecretario General de Gobierno, Oficial Mayor, Secretario Particular, Procurador General de Justicia, Sub-Procurador General de Justicia, Directores, Sub Directores y Jefes de Departamento dependientes del Poder Ejecutivo y Recaudadores y Sub Recaudadores de Hacienda. Así mismo, nombrar a todos los empleados subalternos observándose sobre el particular y su remoción, lo que prevengan las Leyes respectivas que determinarán, además, la categoría de empleados de Base y de Confianza, en la inteligencia que ninguno de los funcionarios y empleados podrá pertenecer al Estado Eclesiástico o ser Ministros de algún culto;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 1931)</small>
 
@@ -949,9 +949,11 @@ El tribunal Superior de Justicia del Estado funcionará en Pleno y por Salas, en
 
 El Presidente del Tribunal Superior de Justicia informará al Congreso del Estado, en la apertura del Primer Período Ordinario de Sesiones de cada año, sobre el estado general que guarde la Administración de Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 1957)</small>
+
 ###### ARTICULO 59.
 
-Corresponde al Tribunal Superior de Justicia:
+Corresponde al H. Tribunal Superior de Justicia:
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -959,9 +961,9 @@ I.- Conocer como Tribunal de sentencias en las causas instruídas contra los fun
 
 II.- Conocer en segunda instancia de los negocios que conforme a la Ley deban tenerla;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 1957)</small>
 
-III.- Nombrar y remover libremente a los Secretarios y demás empleados de su Secretaría;
+III.- Nombrar y remover libremente a los Secretarios del Tribunal y Juzgados, así como a los demás empleados del Roder (sic) Judicial, acatando en la designación y para la remoción de estos lo que dispongan la Leyes respectivas, que fijarán también la categoría de los servidores públicos;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
 
@@ -1514,3 +1516,7 @@ Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan
 ###### Artículo 2o.
 
 Este Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1957.
+
+Unico.- Este decreto comenzará a regir a partir de su publicación en el Periódico Oficial del Estado.
