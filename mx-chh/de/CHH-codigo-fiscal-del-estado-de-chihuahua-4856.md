@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1996-06-05"
+last_updated: "1996-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -67,11 +67,9 @@ Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su admin
 
 9o.- El Tesorero General del Estado será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados por el Presupuesto, por ley posterior o por el Gobernador del Estado. El Tesorero tendrá derecho a hacer observaciones a las órdenes de pago pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 1996)</small>
 
-10.- La cuenta general de ingresos y egresos del erario deberá formularse mensualmente dándole la debida publicidad dentro de los primeros veinte días siguientes al mes que corresponda. El Director General de Finanzas del Estado formulará la cuenta general para que se envíe oportunamente al Congreso.
-
-El Director General de Finanzas del Estado recabará de la Contaduría General del Congreso el finiquito correspondiente a las cuentas que envíe para su estudio y aprobación y dará aviso al Gobernador cuando éstas no hayan sido glosadas y aprobadas dentro del plazo de seis meses, para que se promueva ante el Congreso la resolución correspondiente.
+10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguients (sic) al mes que corresponda. El Director General de Finanzas y Administración formulará trimestralmente la cuenta general para que se envíe oportunamente al Congreso.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -4416,3 +4414,7 @@ Económico.- Aprobado que sea, túrnese a la Secretaría para que elabore la min
 P.O. 5 DE JUNIO DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 1996.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
