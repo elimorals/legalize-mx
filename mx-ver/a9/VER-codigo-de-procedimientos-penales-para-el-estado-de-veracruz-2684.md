@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1998-01-24"
+last_updated: "1998-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 08 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1256,6 +1256,12 @@ Si de la comprobación de todas estas circunstancias así como de los antecedent
 ###### ARTICULO 172.
 
 El cuerpo de los delitos de peculado, abuso de confianza y fraude, si no hubiere sido posible comprobarlo en los términos del artículo 164, podrá tenerse por comprobado en la forma que establece la fracción I del artículo 170.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+
+ARTICULO 172 BIS.- Para integrar los elementos constitutivos del delito de violencia familiar, deberán acreditarse las calidades específicas y las circunstancias de los sujetos señalados en los artículos 138 BIS y 138 TER del Código Penal. Además se agregarán a la averiguación previa los dictámenes correspondientes emitidos por los peritos expertos en materia de salud física y mental, del Ministerio Público, de la parte agraviada con su coadyuvante y del inculpado o su defensor.
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con la violencia familiar, podrán rendir por escrito los informes que le sean solicitados por el Ministerio Público o el Tribunal Instructor, y colaborar como peritos sujetándose a lo dispuesto en este Código.
 
 ###### ARTICULO 173.
 
@@ -2974,5 +2980,9 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 Se derogan todas las disposiciones que se opongan a este Decreto.
 
 G.O. 24 DE ENERO DE 1998.
+
+ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 8 DE SEPTIEMBRE DE 1998.
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
