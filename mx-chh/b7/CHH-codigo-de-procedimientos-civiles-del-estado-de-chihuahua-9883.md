@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-05-25"
+last_updated: "2002-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -595,7 +595,9 @@ Las demás notificaciones personales se harán al interesado, o a su representan
 
 123.- Cuando la persona que por primera vez deba ser notificada se encontrare o residiere en punto distinto del lugar del juicio, pero dentro del mismo territorio judicial, se hará la notificación por conducto del Tribunal de la municipalidad donde se encuentre o resida, mediante despacho. Si se halla en otro distrito judicial o fuera del Estado, se librará exhorto al Tribunal respectivo, en el cual se insertará copia de la petición, de los documentos en que ésta se funde, y la resolución en cuya virtud se libra. No será necesario insertar en el exhorto la petición y documentos que la funden, cuando de ellos deban entregarse al interesado las copias simples correspondientes, las cuales para este efecto, se acompañarán al exhorto.
 
-No sabiéndose en que lugar se encuentra la persona por notificar o cuando se ignore su domicilio y el lugar donde trabaja habitualmente, se le citará por edictos que se publicarán por tres veces consecutivas en el Periódico Oficial del Estado, de siete en siete días, a más de fijarse un tanto de ellos en el tablero del Tribunal. Además el Tribunal ordenará que la publicación de los edictos se lleve a cabo en un diario que se edite en el lugar del juicio y en caso de no existir, en uno de la Capital del Estado.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2002)</small>
+
+No sabiéndose en qué lugar se encuentra la persona por notificar o cuando se ignore su domicilio y el lugar donde trabaja habitualmente, el Juez mandará recibir los medios pertinentes de prueba, a fin de acreditar que el desconocimiento del domicilio, así como la ubicación del demandado es general; una vez demostrado lo anterior, se le citará por edictos que se publicarán por tres veces consecutivas en el Periódico oficial del Estado, de siete en siete días, a más de fijarse un tanto de ellos en el tablero del tribunal. Además el tribunal ordenará que la publicación de los edictos se lleve a cabo en un diario que se edite en el lugar del juicio y en caso de no existir, en uno de la Capital del Estado.
 
 124.- En los despachos o exhortos que se libren y en los edictos que se publiquen conforme al artículo anterior se señalará a los emplazados un término prudente, a juicio del Tribunal, para que se apersonen a continuar el procedimiento en el lugar del juicio, apercibiéndolos de que de no verificarlo, éste seguirá su curso sin que se les admitan promociones de fuera del lugar del litigio, y de que todas las ulteriores notificaciones y citaciones se les harán por medio de la lista, lo cual se hará así mientras no comparezcan por sí o por apoderado.
 
@@ -1121,9 +1123,9 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
-
 ## TITULO SEXTO. DEL JUICIO ORDINARIO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -4530,3 +4532,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La reforma al artículo 456 del Código de Procedimientos Civiles, sólo se aplicará a los nuevos procedimientos iniciados a partir de la vigencia del presente decreto, por lo que los que se encuentran en trámite se regirán por la disposición anterior.
+
+P.O. 25 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
