@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1924-11-08"
+last_updated: "1926-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 1924.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 1926.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -58,6 +58,10 @@ G.O. 8 DE NOVIEMBRE DE 1924.
 La presente Ley entrará en vigor, tan luego como sea publicada en la "Gaceta Oficial".
 
 El período de funcionamiento de los Magistrados del H. Tribunal, comenzará el día primero de diciembre próximo y el del Procurador General de Justicia el primero de enero del año entrante. A este efecto, las próximas elecciones de dichos funcionarios se efectuarán cuando lo estime conveniente la H. Legislatura, la que deberá procurar verificarlas con la oportunidad necesaria para que, en las fechas antes expresadas tomen posesión de sus puestos los nuevos Magistrados y Procurador General electos ya de acuerdo con esta Ley.
+
+G.O. 30 DE OCTUBRE DE 1926.
+
+UNICO.- Esta reforma comenzará a surtir sus efectos, desde el momento de su publicación en la Gaceta Oficial del Estado, y se publicará por Bando Solemne en todas las poblaciones del Estado.
 
 ### CAPITULO II.
 
@@ -1135,9 +1139,11 @@ VI. No haber figurado ni directa ni indirectamente en alguna asonada o cuartelaz
 
 El Gobernador, en cada período constitucional, tomará posesión de su encargo el día 1o de diciembre y hará previamente, ante la Legislatura, formal protesta de guardar y hacer guardar esta Constitución y la General de la República, así como las leyes que de ambas emanen, y cumplir bien y fielmente las obligaciones de su encargo.
 
+> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 1926)</small>
+
 ###### Artículo 85.
 
-El Gobernador del Estado durará cuatro años en su cargo y no podrá ser electo nuevamente, sino después de transcurrir dos períodos desde que dejó de serlo. El ciudadano que substituya al Gobernador Constitucional, en caso de falta absoluta de éste, no podrá ser electo Gobernador para el período inmediato. Tampoco podrá ser electo para el período inmediato el ciudadano que fuere nombrado Gobernador interino en las faltas temporales del constitucional.
+El Gobernador durará cuatro años en su cargo y no podrá ser electo nuevamente, sino para después de transcurrir un período desde que termine aquel en que haya ejercido sus funciones. El ciudadano que substituya al Gobernador en caso de falta absoluta de éste, no podrá ser electo para el período inmediato. Tampoco podrá ser electo para el período inmediato, el ciudadano que fuere nombrado Gobernador Interino en las faltas temporales del constitucional.
 
 ###### Artículo 86.
 
