@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2000-12-23"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA
 
 > <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -599,11 +599,17 @@ Se podrán rescindir administrativamente los contratos en caso de incumplimiento
 
 Asimismo, se podrán dar por terminados anticipadamente los contratos por razones de interés general fundadas, dando aviso al proveedor o contratista, cuando menos con cinco días naturales de anticipación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 42.
 
 Los entes públicos se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
 
-I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. En casos especiales y por razones fundadas, la Contraloría podrá autorizar la celebración del contrato respectivo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte. En casos especiales o por razones fundadas, la Contraloría podrá autorizar la celebración del contrato respectivo.
+
+Queda exceptuado de lo anterior, el caso de licitación restringida o adjudicación directa a que se refiere la fracción IX del punto "A" del artículo 102 de esta Ley, siempre que se trate de Municipios, que teniendo el carácter de rurales, tengan una población inferior a los 50,000 habitantes de conformidad con el último Censo General de Población y Vivienda y que el monto de cada operación de este tipo no exceda el equivalente a 200 salarios mínimos de la zona económica de que se trate, asimismo que el global de estas operaciones no supere el 3.0% del Presupuesto Total de Egresos del Municipio, para el ejercicio fiscal de que se trate, además de que esta limitante es complementaria a la que establece en este mismo sentido, el artículo 47 de la Ley de Presupuesto de Egresos, contabilidad y Gasto Público del Estado de Chihuahua.
 
 II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
@@ -1342,3 +1348,9 @@ CUARTO.- El Reglamento, deberá expedirse dentro de los ciento veinte días natu
 QUINTO.- Todas las disposiciones administrativas expedidas en las materias, así como las licitaciones, actos, contratos o convenios celebrados con anterioridad a la entrada en vigor de la presente Ley, se seguirán aplicando y/o cumpliendo, respectivamente, conforme a la normatividad anterior a la presente, hasta su conclusión.
 
 SEXTO.- En el ámbito del Poder Ejecutivo, las Dependencias y Organismos deberán adecuar en lo conducente y en su caso, sus estructuras administrativas para la correcta aplicación de esta Ley.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2001.
