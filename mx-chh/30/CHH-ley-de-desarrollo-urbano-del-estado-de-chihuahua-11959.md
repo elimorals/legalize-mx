@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "1998-12-05"
+last_updated: "2003-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1893,7 +1893,9 @@ En materia de fraccionamientos, los Municipios establecerán en sus respectivos 
 
 I.- En fraccionamientos de urbanización progresiva o de vivienda popular, ciento veintiséis metros cuadrados;
 
-II.- En fraccionamientos de vivienda de interés social unifamiliar, noventa metros cuadrados;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2003)</small>
+
+II.- En fraccionamientos de vivienda de interés social unifamiliar, ciento veinte metros cuadrados;
 
 III.- En fraccionamientos de vivienda de interés social bifamiliar:
 
@@ -2474,3 +2476,7 @@ LIC. EDUARDO ROMERO RAMOS.
 P.O. 5 DE DICIEMBRE DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
