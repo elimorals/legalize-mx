@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1990-06-27"
+last_updated: "1992-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1992.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -338,9 +338,9 @@ La propiedad de las tierras y aguas comprendidas dentro de los límites del terr
 
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1992)</small>
 
-La Nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para preservar y restaurar el equilibrio ecológico; para el fraccionamiento de los latifundios; para disponer en los términos de la Ley Reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad agrícola en explotación; para la creación de nuevos centros de población agrícola con tierras y aguas que les sean indispensables; para el fomento de la agricultura y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad. Los núcleos de población que carezcan de tierras y aguas o no las tengan en cantidad suficiente para las necesidades de su población, tendrán derecho a que se les dote de ellas, tomándolas de las propiedades inmediatas, respetando siempre la pequeña propiedad agrícola en explotación.
+La nación tendrá en todo tiempo el derecho de imponer a la propiedad privada las modalidades que dicte el interés público, así como el de regular, en beneficio social, el aprovechamiento de los elementos naturales susceptibles de apropiación, con objeto de hacer una distribución equitativa de la riqueza pública, cuidar de su conservación, lograr el desarrollo equilibrado del país y el mejoramiento de las condiciones de vida de la población rural y urbana. En consecuencia, se dictarán las medidas necesarias para ordenar los asentamientos humanos y establecer adecuadas provisiones, usos, reservas y destinos de tierras, aguas y bosques, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población; para preservar y restaurar el equilibrio ecológico; para el fraccionamiento de los latifundios; para disponer, en los términos de la ley reglamentaria, la organización y explotación colectiva de los ejidos y comunidades; para el desarrollo de la pequeña propiedad rural; para el fomento de la agricultura, de la ganadería, de la silvicultura y de las demás actividades económicas en el medio rural, y para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad.
 
 > <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
 
@@ -376,25 +376,39 @@ II.- Las asociaciones religiosas denominadas iglesias, cualquiera que sea su cre
 
 III.- Las instituciones de beneficencia, pública o privada, que tengan por objeto el auxilio de los necesitados, la investigación científica, la difusión de la enseñanza, la ayuda recíproca de los asociados o cualquier otro objeto lícito, no podrán adquirir más bienes raíces que los indispensables para su objeto, inmediata o directamente destinados a él; pero podrán adquirir, tener y administrar, capitales impuestos sobre bienes raíces, siempre que los plazos de imposición no excedan de diez años. En ningún caso las instituciones de esta índole podrán estar bajo el patronato, dirección, administración, cargo o vigilancia de corporaciones o instituciones religiosas, ni de ministros de los cultos o de sus asimilados, aunque éstos o aquéllos no estuvieren en ejercicio.
 
-IV.- Las sociedades comerciales, por acciones, no podrán adquirir, poseer, o administrar fincas rústicas. Las sociedades de esta clase que se constituyeren para explotar cualquiera industria fabril, minera, petrolera o para algún otro fin que no sea agrícola, podrán adquirir, poseer o administrar terrenos únicamente en la extensión que sea estrictamente necesaria para los establecimientos o servicios de los objetos indicados, y que el Ejecutivo de la Unión o los de los Estados, fijarán en cada caso.
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
+
+IV.- Las sociedades mercantiles por acciones podrán ser propietarias de terrenos rústicos pero únicamente en la extensión que sea necesaria para el cumplimiento de su objeto.
+
+En ningún caso las sociedades de esta clase podrán tener en propiedad tierras dedicadas a actividades agrícolas, ganaderas o forestales en mayor extensión que la respectiva equivalente a veinticinco veces los límites señalados en la fracción XV de este artículo. La ley reglamentaria regulará la estructura de capital y el número mínimo de socios de estas sociedades, a efecto de que las tierras propiedad de la sociedad no excedan en relación con cada socio los límites de la pequeña propiedad. En este caso, toda propiedad accionaria individual, correspondiente a terrenos rústicos, será acumulable para efectos de cómputo. Asimismo, la ley señalará las condiciones para la participación extranjera en dichas sociedades.
+
+La propia ley establecerá los medios de registro y control necesarios para el cumplimiento de lo dispuesto por esta fracción.
 
 V.- Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 1992)</small>
 
-VI.- Fuera de las corporaciones a que se refieren las fracciones III, IV y V, así como de los núcleos de población que de hecho o por derecho guarden el estado comunal, o de los núcleos dotados, restituidos o constituidos en centro de población agrícola, ninguna otra corporación civil podrá tener en propiedad o administrar por sí bienes raíces o capitales impuestos sobre ellos, con la única excepción de los edificios destinados inmediata y directamente al objeto de la institución. Los Estados y el Distrito Federal, lo mismo que los municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
+VI.- Los estados y el Distrito Federal, lo mismo que los municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
 
 Las leyes de la Federación y de los Estados en sus respectivas jurisdicciones, determinarán los casos en que sea de utilidad pública la ocupación de la propiedad privada, y de acuerdo con dichas leyes la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
 El ejercicio de las acciones que corresponden a la Nación, por virtud de las disposiciones del presente artículo, se hará efectivo por el procedimiento judicial; pero dentro de este procedimiento y por orden de los tribunales correspondientes, que se dictará en el plazo máximo de un mes, las autoridades administrativas procederán desde luego a la ocupación, administración, remate o venta de las tierras o aguas de que se trate y todas sus accesiones, sin que en ningún caso pueda revocarse lo hecho por las mismas autoridades antes que se dicte sentencia ejecutoriada.
 
-> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1937)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
 
-VII.- Los núcleos de población que de hecho o por derecho guarden el estado comunal, tendrán capacidad para disfrutar en común las tierras, bosques y aguas que les pertenezcan o que se les hayan restituido o restituyeren.
+VII.- Se reconoce la personalidad jurídica de los núcleos de población ejidales y comunales y se protege su propiedad sobre la tierra, tanto para el asentamiento humano como para actividades productivas.
 
-Son de jurisdicción federal todas las cuestiones que por límites de terrenos comunales cualquiera que sea el origen de éstos, se hallen pendientes o se susciten entre dos o más núcleos de población. El Ejecutivo Federal se avocará al conocimiento de dichas cuestiones y propondrá a los interesados la resolución definitiva de las mismas. Si estuvieren conformes, la proposición del Ejecutivo tendrá fuerza de resolución definitiva y será irrevocable; en caso contrario, la parte o partes inconformes podrán reclamarla ante la Suprema Corte de Justicia de la Nación, sin perjuicio de la ejecución inmediata de la proposición presidencial.
+La ley protegerá la integridad de las tierras de los grupos indígenas.
 
-La ley fijará el procedimiento breve conforme el cual deberán tramitarse las mencionadas controversias.
+La ley, considerando el respeto y fortalecimiento de la vida comunitaria de los ejidos y comunidades, protegerá la tierra para el asentamiento humano y regulará el aprovechamiento de tierras, bosques y aguas de uso común y la provisión de acciones de fomento necesarias para elevar el nivel de vida de sus pobladores.
+
+La ley, con respeto a la voluntad de los ejidatarios y comuneros para adoptar las condiciones que más les convengan en el aprovechamiento de sus recursos productivos, regulará el ejercicio de los derechos de los comuneros sobre la tierra y de cada ejidatario sobre su parcela. Asimismo establecerá los procedimientos por los cuales ejidatarios y comuneros podrán asociarse entre sí, con el Estado o con terceros y otorgar el uso de sus tierras; y, tratándose de ejidatarios, transmitir sus derechos parcelarios entre los miembros del núcleo de población; igualmente fijará los requisitos y procedimientos conforme a los cuales la asamblea ejidal otorgará al ejidatario el dominio sobre su parcela. En caso de enajenación de parcelas se respetará el derecho de preferencia que prevea la ley.
+
+Dentro de un mismo núcleo de población, ningún ejidatario podrá ser titular de más tierra que la equivalente al 5% del total de las tierras ejidales. En todo caso, la titularidad de tierras en favor de un solo ejidatario deberá ajustarse a los límites señalados en la fracción XV.
+
+La asamblea general es el órgano supremo del núcleo de población ejidal o comunal, con la organización y funciones que la ley señale. El comisariado ejidal o de bienes comunales, electo democráticamente en los términos de la ley, es el órgano de representación del núcleo y el responsable de ejecutar las resoluciones de la asamblea.
+
+La restitución de tierras, bosques y aguas a los núcleos de población se hará en los términos de la ley reglamentaria.
 
 VIII.- Se declaran nulas:
 
@@ -408,85 +422,55 @@ Quedan exceptuadas de la nulidad anterior, únicamente las tierras que hubieren 
 
 IX.- La división o reparto que se hubiere hecho con apariencia de legítima entre los vecinos de algún núcleo de población y en la que haya habido error o vicio, podrá ser nulificada cuando así lo soliciten las tres cuartas partes de los vecinos que estén en posesión de una cuarta parte de los terrenos, materia de la división, o una cuarta parte de los mismos vecinos cuando estén en posesión de las tres cuartas partes de los terrenos.
 
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
+X.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-X.- Los núcleos de población que carezcan de ejidos o que no puedan lograr su restitución por falta de títulos, por imposibilidad de identificarlos o porque legalmente hubieren sido enajenados, serán dotados con tierras y aguas suficientes para constituirlos, conforme a las necesidades de su población, sin que en ningún caso deje de concedérseles la extensión que necesiten, y al efecto se expropiará por cuenta del Gobierno Federal el terreno que baste a ese fin, tomándolo del que se encuentre inmediato a los pueblos interesados.
+XI.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-La superficie o unidad individual de dotación no deberá ser en lo sucesivo menor de diez hectáreas de terrenos de riego o humedad o, a falta de ellos, de sus equivalentes en otras clases de tierras, en los términos del párrafo tercero de la fracción XV de este artículo.
+XII.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-XI.- Para los efectos de las disposiciones contenidas en este artículo y de las leyes reglamentarias que se expidan, se crean:
+XIII.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-a).- Una dependencia directa del Ejecutivo Federal encargada de la aplicación de las leyes agrarias y de su ejecución.
+XIV.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-b).- Un cuerpo consultivo compuesto de cinco personas que serán designadas por el Presidente de la República y que tendrá las funciones que las leyes orgánicas reglamentarias le fijen.
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+XV.- En los Estados Unidos Mexicanos quedan prohibidos los latifundios.
 
-c).- Una Comisión Mixta compuesta de representantes iguales de la Federación, de los gobiernos locales, y de un representante de los campesinos, cuya designación se hará en los términos que prevenga la Ley Reglamentaria respectiva, que funcionará en cada Estado y en el Distrito Federal, con las atribuciones que las mismas leyes orgánicas y reglamentarias determinen.
+Se considera pequeña propiedad agrícola la que no exceda por individuo de cien hectáreas de riego o humedad de primera o sus equivalentes en otras clases de tierras.
 
-d).- Comités particulares ejecutivos para cada uno de los núcleos de población que tramiten expedientes agrarios.
+Para los efectos de la equivalencia se computará una hectárea de riego por dos de temporal, por cuatro de agostadero de buena calidad y por ocho de bosque, monte o agostadero en terrenos áridos.
 
-e).- Comisariados ejidales para cada uno de los núcleos de población que posean ejidos.
+Se considerará, asimismo, como pequeña propiedad, la superficie que no exceda por individuo de ciento cincuenta hectáreas cuando las tierras se dediquen al cultivo de algodón, si reciben riego; y de trescientas, cuando se destinen al cultivo del plátano, caña de azúcar, café, henequén, hule, palma, vid, olivo, quina, vainilla, cacao, agave, nopal o árboles frutales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+Se considerará pequeña propiedad ganadera la que no exceda por individuo la superficie necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, en los términos que fije la ley, de acuerdo con la capacidad forrajera de los terrenos.
 
-XII.- Las solicitudes de restitución o dotación de tierras o aguas se presentaran en los Estados directamente ante los gobernadores.
+Cuando debido a obras de riego, drenaje o cualesquiera otras ejecutadas por los dueños o poseedores de una pequeña propiedad se hubiese mejorado la calidad de sus tierras, seguirá siendo considerada como pequeña propiedad, aún cuando, en virtud de la mejoría obtenida, se rebasen los máximos señalados por esta fracción, siempre que se reúnan los requisitos que fije la ley.
 
-Los Gobernadores turnarán las solicitudes a las Comisiones Mixtas, las que substanciarán los expedientes en plazo perentorio y emitirán dictamen: Los Gobernadores de los Estados aprobarán o modificarán el dictamen de las Comisiones Mixtas y ordenarán que se dé posesión inmediata de las superficies que en su concepto procedan. Los expedientes pasarán entonces al Ejecutivo Federal para su resolución.
+Cuando dentro de una pequeña propiedad ganadera se realicen mejoras en sus tierras y éstas se destinen a usos agrícolas, la superficie utilizada para este fin no podrá exceder, según el caso, los límites a que se refieren los párrafos segundo y tercero de esta fracción que correspondan a la calidad que hubieren tenido dichas tierras antes de la mejora.
 
-Cuando los Gobernadores no cumplan con lo ordenado en el párrafo anterior, dentro del plazo perentorio que fije la ley, se considerará desaprobado el dictamen de las Comisiones Mixtas y se turnará el expediente inmediatamente al Ejecutivo Federal.
+XVI.- (DEROGADA, D.O.F. 6 DE ENERO DE 1992)
 
-Inversamente, cuando las Comisiones Mixtas no formulen dictamen en plazo perentorio, los Gobernadores tendrán facultad para conceder posesiones en la extensión que juzguen procedente.
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1992)</small>
 
-XIII.- La dependencia del Ejecutivo y el Cuerpo Consultivo Agrario dictaminará sobre la aprobación, rectificación o modificación de los dictámenes formulados por las Comisiones Mixtas, con las modificaciones que hayan introducido los Gobiernos locales, se informará al C. Presidente de la República, para que éste dicte resolución como suprema autoridad agraria.
+XVII.- El Congreso de la Unión y las legislaturas de los estados, en sus respectivas jurisdicciones, expedirán leyes que establezcan los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados en las fracciones IV y XV de este artículo.
 
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
+El excedente deberá ser fraccionado y enajenado por el propietario dentro del plazo de un año contado a partir de la notificación correspondiente. Si transcurrido el plazo el excedente no se ha enajenado, la venta deberá hacerse mediante pública almoneda. En igualdad de condiciones, se respetará el derecho de preferencia que prevea la ley reglamentaria.
 
-XIV.- Los propietarios afectados con resoluciones dotatorias o restitutorias de ejidos o aguas, que se hubiesen dictado en favor de los pueblos, o que en lo futuro se dictaren, no tendrán ningún derecho ni recurso legal ordinario, ni podrán promover el juicio de amparo.
-
-Los afectados con dotación, tendrán solamente el derecho de acudir al Gobierno Federal para que les sea pagada la indemnización correspondiente. Este derecho deberán ejercitarlo los interesados dentro del plazo de un año, a contar desde la fecha en que se publique la resolución respectiva en el “Diario Oficial” de la Federación. Fenecido este término, ninguna reclamación será admitida.
-
-Los dueños o poseedores de predios agrícolas o ganaderos, en explotación, a los que se haya expedido, o en lo futuro se expida, certificado de inafectabilidad, podrán promover el juicio de amparo contra la privación o afectación agraria ilegales de sus tierras o aguas.
-
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
-
-XV.- Las Comisiones Mixtas, los gobiernos locales y las demás autoridades encargadas de las tramitaciones agrarias, no podrán afectar, en ningún caso, la pequeña propiedad agrícola o ganadera en explotación; e incurrirán en responsabilidad, por violaciones a la Constitución, en caso de conceder dotaciones que la afecten.
-
-Se considerará pequeña propiedad agrícola la que no exceda de cien hectáreas de riego o humedad de primera o sus equivalentes en otras clases de tierras, en explotación.
-
-Para los efectos de la equivalencia se computará una hectárea de riego por dos de temporal; por cuatro de agostadero de buena calidad y por ocho de monte o de agostadero en terrenos áridos.
-
-Se considerará, asimismo, como pequeña propiedad, las superficies que no excedan de doscientas hectáreas en terrenos de temporal o de agostadero susceptible de cultivo; de ciento cincuenta cuando las tierras se dediquen al cultivo del algodón, si reciben riego de avenida fluvial o por bombeo; de trescientas, en explotación, cuando se destinen al cultivo de plátano, caña de azúcar, café, henequén, hule, cocotero, vid, olivo, quina, vainilla, cacao o árboles frutales.
-
-Se considerará pequeña propiedad ganadera la que no exceda de la superficie necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, en los términos que fije la ley, de acuerdo con la capacidad forrajera de los terrenos.
-
-Cuando debido a obras de riego, drenaje o cualesquiera otras ejecutadas por los dueños o poseedores de una pequeña propiedad a la que se haya expedido certificado de inafectabilidad, se mejore la calidad de sus tierras para la explotación agrícola o ganadera de que se trate, tal propiedad no podrá ser objeto de afectaciones agrarias aun cuando, en virtud de la mejoría obtenida, se rebasen los máximos señalados por esta fracción, siempre que se reúnan los requisitos que fije la ley.
-
-XVI.- Las tierras que deban ser objeto de adjudicación individual, deberán fraccionarse precisamente en el momento de ejecutar las resoluciones presidenciales, conforme a las leyes reglamentarias.
-
-XVII.- El Congreso de la Unión y las Legislaturas de los Estados, en sus respectivas jurisdicciones, expedirán leyes para fijar la extensión máxima de la propiedad rural; y para llevar a cabo el fraccionamiento de los excedentes, de acuerdo con las siguientes bases:
-
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
-
-a).- En cada Estado y en el Distrito Federal se fijará la extensión máxima de tierra de que pueda ser dueño un solo individuo, o sociedad legalmente constituida.
-
-b).- El excedente de la extensión fijada deberá ser fraccionado por el propietario en el plazo que señalen las leyes locales, y las fracciones serán puestas a la venta en las condiciones que aprueben los Gobiernos de acuerdo con las mismas leyes.
-
-c).- Si el propietario se opusiere al fraccionamiento, se llevará éste a cabo por el Gobierno local, mediante la expropiación.
-
-d).- El valor de las fracciones será pagado por anualidades que amorticen capital y rédito, a un tipo de interés que no exceda de 3% anual.
-
-e).- Los propietarios estarán obligados a recibir bonos de la Deuda Agraria local para garantizar el pago de la propiedad expropiada. Con este objeto, el Congreso de la Unión expedirá una ley facultando a los Estados para crear su Deuda Agraria.
-
-f).- Ningún fraccionamiento podrá sancionarse sin que hayan quedado satisfechas las necesidades agrarias de los poblados inmediatos. Cuando existan proyectos de fraccionamiento por ejecutar, los expedientes agrarios serán tramitados de oficio en plazo perentorio.
-
-g).- Las leyes locales organizarán el patrimonio de familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen ninguno.
+Las leyes locales organizarán el patrimonio de familia, determinando los bienes que deben constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni a gravamen ninguno.
 
 XVIII.- Se declaran revisables todos los contratos y concesiones hechas por los Gobiernos anteriores desde el año de 1876, que hayan traído por consecuencia el acaparamiento de tierras, aguas y riquezas naturales de la Nación, por una sola persona o sociedad, y se faculta al Ejecutivo de la Unión para declararlos nulos cuando impliquen perjuicios graves para el interés público.
 
 > <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 XIX.- Con base en esta Constitución, el Estado dispondrá las medidas para la expedita y honesta impartición de la justicia agraria, con objeto de garantizar la seguridad jurídica en la tenencia de le (sic) tierra ejidal, comunal y de la pequeña propiedad, y apoyará la asesoría legal de los campesinos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1992)</small>
+
+Son de jurisdicción federal todas las cuestiones que por límites de terrenos ejidales y comunales, cualquiera que sea el origen de éstos, se hallen pendientes o se susciten entre dos o más núcleos de población; así como las relacionadas con la tenencia de la tierra de los ejidos y comunidades. Para estos efectos y, en general, para la administración de justicia agraria, la ley instituirá tribunales dotados de autonomía y plena jurisdicción, integrados por magistrados propuestos por el Ejecutivo Federal y designados por la Cámara de Senadores o, en los recesos de ésta, por la Comisión Permanente.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1992)</small>
+
+La ley establecerá un órgano para la procuración de justicia agraria, y
 
 > <small>(ADICIONADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -3708,7 +3692,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 7 DE ABRIL DE 1986.
 
-DECRETO QUE REFORMA LOS ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+DECRETO QUE REFORMA LO ARTICULOS 65, 66 Y 69, Y ADICIONA LOS ARTICULOS DECIMO SEPTIMO Y DECIMO OCTAVO TRANSITORIOS.
 
 ###### ARTICULO 1o.
 
@@ -3766,7 +3750,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
 
-TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
+TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso a) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
 
 CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
 
@@ -3815,3 +3799,21 @@ D.O.F. 27 DE JUNIO DE 1990.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- En tanto se expiden las nuevas normas aplicables, las instituciones de banca y crédito y las sucursales en México de bancos extranjeros que cuenten con concesión del Gobierno Federal continuarán rigiéndose por las disposiciones legales y reglamentarias vigentes.
+
+D.O.F. 6 DE ENERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto y en tanto no se modifique la legislación reglamentaria en materia agraria, continuarán aplicándose sus disposiciones, incluidas las relativas a las autoridades e instancias competentes y a la organización interna de los ejidos y comunidades, siempre que no se opongan a lo establecido en este mismo Decreto.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de la Reforma Agraria, el Cuerpo Consultivo Agrario, las comisiones agrarias mixtas y las demás autoridades competentes, continuarán desahogando los asuntos que se encuentren actualmente en trámite en materia de ampliación o dotación de tierras, bosques y aguas; creación de nuevos centros de población, y restitución, reconocimiento y titulación de bienes comunales, de conformidad con las disposiciones legales que reglamenten dichas cuestiones y que estén vigentes al momento de entrar en vigor el presente Decreto.
+
+Los expedientes de los asuntos arriba mencionados, sobre los cuales no se haya dictado resolución definitiva al momento de entrar en funciones los tribunales agrarios, se pondrán en estado de resolución y se turnarán a éstos para que, conforme a su ley orgánica, resuelvan en definitiva, de conformidad con las disposiciones legales a que se refiere el párrafo anterior.
+
+Los demás asuntos de naturaleza agraria que se encuentren en trámite o se presenten a partir de la entrada en vigor de este Decreto, y que conforme a la ley que se expida deban pasar a ser de la competencia de los tribunales agrarios, se turnarán a éstos una vez que entren en funciones para que resuelvan en definitiva.
