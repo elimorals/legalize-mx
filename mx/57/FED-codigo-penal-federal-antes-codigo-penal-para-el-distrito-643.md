@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1986-11-19"
+last_updated: "1989-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
+
+(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989).
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -349,11 +351,13 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 25.
 
-La prisión consiste en la privación de la libertad corporal; será de 3 días a 40 años y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señale el órgano ejecutor de las sanciones penales.
+La prisión consiste en la privación de la libertad corporal y su duración será de tres días a cuarenta años, con excepción de lo previsto por los artículos 315 bis, 320, 324 y 366 en que el límite máximo de la pena será de cincuenta años; y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señalen las leyes o el órgano ejecutor de las sanciones penales, ajustándose a la resolución judicial respectiva.
+
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
 ###### ARTICULO 26.
 
@@ -1569,7 +1573,7 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 ### CAPITULO IV. Asociaciones delictuosas
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
 
@@ -1687,15 +1691,17 @@ b). Comprobar la necesidad que tiene para la portación de armas y sus anteceden
 
 ###### ARTICULO 164.
 
-Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinientos pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiera cometer o haya cometido.
+Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de uno a ocho años, y de treinta a cien días multa.
 
-> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 1968)</small>
+Cuando el miembro de la asociación sea o haya sido servidor público de alguna corporación policiaca, la pena a que se refiere el párrafo anterior se aumentará en una mitad y se le impondrá, además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
-###### ARTICULO 164 Bis.
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
-Cuando se ejecuten uno o más delitos por pandilla, se aplicará a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
+ARTICULO 164 bis.- Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión, hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
 
-Se entiende por pandilla, para los efectos de esta disposición la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
 (REUBICADO [N. DE E. ANTES TITULO SEXTO], D.O.F. 29 DE JULIO DE 1970)
 
@@ -1883,9 +1889,9 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO II. Corrupción de menores
+### CAPITULO II. Corrupción de menores e incapaces
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 189.
 
@@ -1898,6 +1904,8 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
 
 ### CAPITULO III. Trata de personas y lenocinio
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 191.
 
@@ -1951,11 +1959,13 @@ La simple posesión de cannabis o mariguana, cuando tanto por la cantidad como p
 
 No se aplicará ninguna sanción por la simple posesión de medicamentos, previstos entre las sustancias a las que se refiere el Artículo 193, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento médico de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 195.
 
-Se impondrá prisión de dos a ocho años y multa de mil a veinte mil pesos a quien por cuenta o con financiamiento de terceros siembre, cultive o coseche plantas de cannabis o mariguana, siempre que en él concurran escasa instrucción y extrema necesidad económica. Las mismas sanciones se impondrán a quien permita, en iguales circunstancias que en el caso anterior, que en un predio de su propiedad, tenencia o posesión, se cultiven dichas plantas.
+Al que dedicándose a las labores propias del campo, siembre, cultive o coseche plantas de cannabis o mariguana, por cuenta o con financiamiento de terceros, cuando en él concurran evidente atraso cultural, aislamiento social y extrema necesidad económica, se le impondrá prisión de dos a ocho años.
+
+Igual pena se impondrá a quien permita que en un predio de su propiedad, tenencia o posesión, se cultiven dichas plantas, en circunstancias similares al caso anterior.
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
 
@@ -1963,37 +1973,45 @@ Se impondrá prisión de dos a ocho años y multa de mil a veinte mil pesos a qu
 
 Se impondrá prisión de dos a ocho años y multa de mil a veinte mil pesos a quien, no siendo miembro de una asociación delictuosa, transporte cannabis o mariguana, por una sola ocasión siempre que la cantidad no exceda de cien gramos.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 197.
 
-Fuera de los casos comprendidos en los artículos anteriores:
+Se impondrá prisión de diez a veinticinco años y de cien a quinientos días multa, al que, fuera de los casos comprendidos en los artículos anteriores:
 
-Se impondrá prisión de siete a quince años y multa de diez mil a un millón de pesos:
+I.- Siembre, cultive, coseche, produzca, manufacture, fabrique, elabore, prepare, acondicione, transporte, venda, compre, adquiera, enajene o trafique, comercie, suministre aún gratuitamente, o prescriba alguno de los vegetales o substancias señalados en el artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud;
 
-I.- Al que siembre, cultive, coseche, manufacture, fabrique, elabore, prepare, acondicione, posea, transporte, venda, compre, adquiera, enajene o trafique en cualquier forma, comercie, suministre aun gratuitamente, o prescriba vegetales o substancias de los comprendidos en cualquiera de las fracciones del artículo 193, sin satisfacer los requisitos fijados por las normas a que se refiere el primer párrafo del propio artículo.
+II.- Introduzca o saque ilegalmente del país alguno de los vegetales o substancias de los comprendidos en el artículo 193, aunque fuere en forma momentánea o en tránsito, o realice actos tendientes a consumar tales hechos;
 
-II.- Al que ilegalmente introduzca o saque del país vegetales o substancias de los comprendidos en cualquiera de las fracciones del artículo 193, aunque fuere en forma momentánea o en tránsito, o realice actos tendientes a consumar tales hechos.
+Las mismas sanciones se impondrán al servidor público, que en ejercicio de sus funciones o aprovechando su cargo, encubra o permita los hechos anteriores o los tendientes a realizarlos;
 
-Las mismas sanciones se impondrán al funcionario o empleado público que permita o encubra los hechos anteriores o los tendientes a realizarlos.
+III.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, para la ejecución de alguno de los delitos a que se refiere este capítulo;
 
-III.- Al que aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, para la ejecución de alguno de los delitos a que se refiere este capítulo.
+IV.- Realice actos de publicidad, propaganda, instigación o auxilio ilegal a otra persona para que consuma cualquiera de los vegetales o substancias comprendidos en el artículo 193;
 
-IV.- Al que realice actos de publicidad, propaganda, provocación general, proselitismo, instigación o auxilio ilegal a otra persona para que consuma cualquiera de los vegetales o substancias comprendidos en el artículo 193.
+V.- Al que posea alguno de los vegetales o substancias señalados en el Artículo 193, sin la autorización correspondiente a que se refiere la Ley General de Salud, se le impondrá prisión de siete a veinticinco años y de cien a quinientos días de multa.
 
-Si el agente aprovechare su ascendiente o autoridad sobre la persona instigada, inducida o auxiliada, las penas se aumentarán en una tercera parte. Los farmacéuticos, boticarios, droguistas, laboratoristas, médicos, químicos, veterinarios y personal relacionado con la medicina en algunas de sus ramas, así como los comerciantes que directamente o a través de terceros cometan cualquiera de los delitos previstos en este capítulo, además de las penas que les correspondan, serán inhabilitados para el ejercicio de su profesión, oficio o actividad, por un plazo que podrá ser hasta el equivalente de la sanción corporal que se les imponga y que se empezará a contar una vez que se haya cumplido esta última. Si reincidieren, además del aumento de la pena derivada de esta circunstancia, la inhabilitación será definitiva.
-
-Si el propietario de un establecimiento de cualquier naturaleza lo empleare para realizar alguno de los delitos previstos en este capítulo o permitiere su realización por terceros, además de la sanción que deba aplicársele, según el caso, se clausurará en definitiva aquel establecimiento.
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 198.
 
-Cuando alguno de los delitos previstos en este capítulo se cometa por servidores públicos que actúen en relación con el ejercicio o con motivo de sus funciones, así como cuando la víctima fuere menor de edad o incapaz, o no pudiese, por cualquier otra causa evitar la conducta del agente, o cuando se cometa en centros educativos, asistenciales o penitenciarios o en sus inmediaciones, la sanción que en su caso resulte aplicable se aumentará en una tercera parte.
+Las penas que en su caso resulten aplicables por los delitos previstos en este capítulo serán aumentadas en una mitad en los casos siguientes:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+I.- Cuando se cometa por servidores públicos encargados de prevenir o investigar la comisión de los delitos contra la salud;
 
-El mismo aumento de pena se aplicará cuando el agente utilice a menores de edad o a incapaces, para cometer cualquiera de los delitos previstos en este Capítulo, o cuando el agente participe en una organización delictiva establecida dentro o fuera de la República para realizar alguno de los delitos que previene este mismo Capítulo.
+II.- Cuando la víctima fuere menor de edad o incapacitada para comprender la relevancia de la conducta, o para resistirla;
+
+III.- Cuando se cometa en centros educativos, asistenciales, o penitenciarios o en sus inmediaciones, con quienes a ellos acudan;
+
+IV.- Cuando se utilice a menores de edad o a incapaces para cometer cualquiera de los delitos previstos en este capítulo;
+
+V.- Cuando el agente participe en una organización delictiva establecida dentro o fuera de la República para realizar alguno de los delitos que prevé este capítulo;
+
+VI.- Cuando la conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionados con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esa situación para cometerlos. Además se impondrá suspensión de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años, e inhabilitación hasta por un tiempo equivalente al de la prisión impuesta;
+
+VII.- Cuando una persona aprovechando el ascendiente familiar o moral o la autoridad o jerarquía sobre otra, la determine a cometer algún delito de los previstos en este capítulo.
+
+VIII.- Cuando se trate del propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare para realizar alguno de los delitos previstos en este capítulo o permitiere su realización por terceros. Además se clausurará en definitiva el establecimiento.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -2021,7 +2039,7 @@ Tratándose de instrumentos y vehículos utilizados para cometer los ilícitos c
 
 ### CAPITULO III. Abuso de autoridad
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ### CAPITULO IV. Coalición de servidores públicos
 
@@ -2045,19 +2063,13 @@ II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhi
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
+(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
 ###### ARTICULO 201.
 
-Se aplicará prisión de seis meses a cinco años al que facilite o procure la corrupción de un menor de dieciocho años de edad.
+Al que procure o facilite la corrupción de un menor de dieciocho años de edad o de quien estuviere de hecho incapacitado por otra causa, mediante actos sexuales, o lo induzca a la práctica de la mendicidad, ebriedad, toxicomanía o algún otro vicio, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará de tres a ocho años de prisión y de veinte a cien días multa.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Comete el delito de corrupción de menores el que procure o facilite su depravación sexual, si es púber, la iniciación en la vida sexual o la depravación de un impúber, o los induzca, incite o auxilie a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor y debido a ellos éste adquiera los hábitos del alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dedique a la prostitución o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y multa hasta de veinticinco mil pesos.
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz y debido a ello éstos adquieran los hábitos del alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, se dediquen a la prostitución o a las prácticas homosexuales, o a formar parte de una asociación delictuosa, la pena de prisión será de cinco a diez años y de cien a cuatrocientos días multa.
 
 Si además de los delitos previstos en este capítulo resultase cometido otro, se aplicarán las reglas de acumulación.
 
@@ -2093,7 +2105,7 @@ Las sanciones que señalan los artículos anteriores se duplicarán cuando el de
 
 Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ### CAPITULO IX. Tráfico de Influencia
 
@@ -2101,7 +2113,9 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 ###### ARTICULO 205.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país, se le impondrá prisión de seis meses a seis años y hasta quinientos días multa.
+Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del país, se le impondrá prisión de dos a nueve años y de cien a quinientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE ENERO DE 1984)</small>
 
 Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena se agravará hasta en una mitad más.
 
@@ -2113,7 +2127,7 @@ Si se emplease violencia o el agente se valiese de una función pública que tuv
 
 ###### ARTICULO 206.
 
-El lenocinio se sancionará con prisión de seis meses a ocho años y multa de cincuenta a mil pesos.
+El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
 
 > <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -2193,6 +2207,10 @@ Se impondrán las mismas sanciones previstas para el delito de que se trate a cu
 
 Para la individualización de las sanciones previstas en este Título, el Juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+ARTICULO 213 bis.- Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
@@ -2227,35 +2245,63 @@ Al infractor de las fracciones III, IV, o V, se le impondrán de dos años a sie
 
 ###### ARTICULO 215.
 
-Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las infracciones siguientes:
+Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las conductas siguientes:
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 II.- Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 V.- Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 VII.- Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 IX.- Cuando, con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
+
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
 
 XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y
 
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
 
-Al que comete el delito de abuso de autoridad se le impondrán de un año a ocho años de prisión, multa desde treinta hasta trescientas veces salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución e inhabilitación de un año a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
-Iguales sanciones se impondrán a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X, XI y XII.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -2372,6 +2418,8 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO I. Atentados al pudor, estupro y violación
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 222.
 
@@ -2985,13 +3033,17 @@ Delitos sexuales
 
 ###### ARTICULO 260.
 
-Al que sin consentimiento de una persona púber o impúber, o con consentimiento de esta última, ejecute en ella un acto erótico-sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicarán de tres días a seis meses de prisión y multa de cinco a cincuenta pesos.
+Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual con intención lasciva o la obligue a ejecutarlo, se le impondrá prisión de quince días a un año o de diez a cuarenta días de trabajo en favor de la comunidad.
 
-Si se hiciere uso de la violencia física o moral, la pena será de seis meses a cuatro años de prisión y multa de cincuenta a mil pesos.
+Si se hiciere uso de la violencia física o moral, la pena será de uno a cuatro años de prisión.
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 261.
 
-El delito de atentado contra el pudor sólo se castigará cuando se haya consumado.
+Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o en persona que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le impondrá de seis meses a dos años de prisión o de veinte a ochenta días de trabajo en favor de la comunidad.
+
+Si se hiciere uso de la violencia física o moral, la pena será de dos a siete años de prisión.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -3007,23 +3059,29 @@ No se procederá contra el estuprador sino por queja de la mujer ofendida o de s
 
 (DEROGADO, D.O.F. 13 DE ENERO DE 1984)
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 265.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le aplicará prisión de seis a ocho años. Si la persona ofendida fuere impúber, la pena de prisión será de seis a diez años.
+Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+Se sancionará con prisión de uno a cinco años al que introduzca por la vía anal o vaginal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 266.
 
-Se equipara a la violación y se sancionará con las mismas penas, la cópula con persona menor de doce años o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+Se impondrá la misma pena a que se refiere el primer párrafo del artículo anterior, al que sin violencia realice cópula con persona menor de doce años de edad o que por cualquier causa no tenga posibilidad para resistir la conducta delictuosa. Si se ejerciere violencia, la pena se aumentará en una mitad.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+ARTICULO 266 bis.- Cuando la violación fuere cometida conintervención (sic) directa o inmediata de dos o más personas, las penas previstas en los artículos anteriores se aumentarán hasta en una mitad.
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
-ARTICULO 266 bis.- Cuando la violación fuere cometida con intervención directa e inmediata de dos o más personas, la prisión será de ocho a veinte años y la multa de cinco mil a doce mil pesos. A los demás partícipes se les aplicarán las reglas contenidas en el artículo 13 de este Código.
-
 Además de las sanciones que señalan los artículos que anteceden, se impondrán de seis meses a dos años de prisión cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. En los casos en que la ejerciera, el culpable perderá la patria potestad o la tutela, así como el derecho de heredar al ofendido.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
 
@@ -3375,6 +3433,12 @@ Hay premeditación: siempre que el reo cause intencionalmente una lesión, despu
 
 Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra sustancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1989)</small>
+
+ARTICULO 315 bis.- Se impondrá la pena del artículo 320 de este Código, cuando el homicidio sea cometido intencionalmente, a propósito de una violación o un robo por el sujeto activo de éstos, contra su víctima o víctimas.
+
+También se aplicará la pena a que se refiere el Artículo 320 de este Código, cuando el homicidio se cometiera intencionalmente en casa-habitación, habiéndose penetrado en la misma de manera furtiva, con engaño o violencia, o sin permiso de la persona autorizada para darlo.
+
 ###### ARTICULO 316.
 
 Se entiende que hay ventaja:
@@ -3405,11 +3469,11 @@ La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o 
 
 Se dice que obra a traición: el que no solamente emplea la alevosía s.no (sic) también la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 320.
 
-Al autor de un homicidio calificado se le impondrán de 20 a 40 años de prisión.
+Al autor de un homicidio calificado se le impondrán de veinte a cincuenta años de prisión.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3429,11 +3493,11 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 Se da el nombre de parricidio: al homicidio del padre, de la madre o de cualquier otro ascendiente consanguíneo y en línea recta, sean legítimos o naturales, sabiendo el delincuente ese parentesco.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 324.
 
-Al que comete el delito de parricidio se le aplicarán de 13 a 40 años de prisión.
+Al que cometa el delito de parricidio se le aplicará de trece a cincuenta años de prisión.
 
 ###### ARTICULO 325.
 
@@ -3737,6 +3801,10 @@ Cuando el delito lo comete un familiar del menor que no ejerza sobre él la patr
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 364.
 
+(ADICIONADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
+En caso de que el secuestrado sea privado de la vida, por su o sus secuestradores, la pena será hasta de cincuenta años de prisión.
+
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ARTICULO 366 bis.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará pena de prisión de dos a nueve años y de doscientos a quinientos días multa.
@@ -3797,9 +3865,11 @@ Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco 
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se aplicarán de tres días a dos años de prisión.
 
+(REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+
 ###### ARTICULO 372.
 
-Si el robo se ejecutare con violencia, a la persona que corresponda por el robo simple, se agregarán de seis meses a tres años de prisión. Si la violencia constituye otro delito, se aplicarán las reglas de la acumulación.
+Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple se agregarán de seis meses a cinco años de prisión. Si la violencia constituye otro delito, se aplicarán las reglas de la acumulación.
 
 ###### ARTICULO 373.
 
@@ -3843,11 +3913,11 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodera una
 
 Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 381.
 
-Además de la pena que le corresponde, conforme a los artículos 370 y 371, se aplicarán al delincuente de tres días a tres años de prisión, en los casos siguientes:
+Además de la pena que le corresponda conforme a los artículos 370 y 371, se aplicarán al delincuente hasta cinco años de prisión, en los casos siguientes:
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
@@ -3880,6 +3950,26 @@ IX.- Cuando se cometa por una o varias personas armadas, o que utilicen o porten
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE ENERO DE 1984)</small>
 
 X.- Cuando se cometa en contra de una oficina bancaria, recaudatoria u otra en que se conserven caudales, contra personas que las custodien o transporten aquéllos.
+
+(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
+
+(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
+
+(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+XIII.- Cuandos (sic) se comete sobre equipaje o valores de viajeros en cualquier lugar durante el transcurso del viaje;
+
+(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años, y
+
+(ADICIONADA, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADA, D.O.F. 4 DE ENERO DE 1989)
+
+XV.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -4556,3 +4646,9 @@ D.O.F. 19 DE NOVIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 1989.
+
+REPUBLICADO, D.O.F. 4 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de febrero de 1989.
