@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1994-02-11"
+last_updated: "1994-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 1994.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 11 DE FEBRERO DE 1994.
 
@@ -1306,7 +1306,7 @@ En el caso de que con motivo de sus facultades de comprobación, las autoridades
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-(SIC) Se tendrán los siguientes plazos para su presentación:
+(SIC)Se tendrán los siguientes plazos para su presentación:
 
 a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
@@ -2418,7 +2418,9 @@ Para que proceda la condena condicional, la sustitución y conmutación de sanci
 
 Comete el delito de contrabando quien introduzca al país o extraiga de él mercancías:
 
-I. Omitiendo el pago total o parcial de los impuestos que deban cubrirse.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
+
+I. Omitiendo el pago total o parcial de las contribuciones o cuotas compensatorias que deban cubrirse.
 
 II. Sin permiso de autoridad competente, cuando sea necesario este requisito.
 
@@ -2456,23 +2458,25 @@ IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de $30,000,000.00.
+I. De tres meses a seis años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta N$100,000.00, respectivamente o, en su caso, la suma de ambas es de hasta N$150,000.00.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 1992)</small>
-
-II. De tres a nueve años, si el monto de los impuestos omitidos excede de $30,000,000.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de N$100,000.00, respectivamente o, en su caso, la suma de ambas excede de N$150,000.00.
 
 III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En los demás casos de mercancías de tráfico prohibido, la sanción será de tres a nueve años de prisión.
 
-IV. De tres meses a seis años, cuando no sea posible determinar el monto de los impuestos omitidos con motivo del contrabando o se trate de mercancías por las que no deban pagarse impuestos y requieran permiso de autoridad competente.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
-Para determinar el valor de las mercancías y el monto de los impuestos omitidos, se tomarán en cuenta las averías de aquéllas si son producidas antes del contrabando.
+IV. De tres meses a seis años, cuando no sea posible determinar el monto de las contribuciones o cuotas compensatorias omitidas con motivo del contrabando o cuando se trate de mercancías que requiriendo de permiso de autoridad competente no cuenten con él.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Para determinar el valor de las mercancías y el monto de las contribuciones o cuotas compensatorias omitidas, sólo se tomarán en cuenta los daños ocasionados antes del contrabando.
 
 ###### Artículo 105.
 
@@ -2558,9 +2562,9 @@ Cuando los delitos a que se refiere este artículo sean calificados, la sanción
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco federal.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de $30,000,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de N$100,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -4768,7 +4772,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1988.
 
 D.O.F. 5 DE ENERO DE 1988.
 
-REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
+REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988).
 
 Disposiciones Transitorias
 
@@ -5081,3 +5085,13 @@ D.O.F. 11 DE FEBRERO DE 1994.
 ###### ARTICULO UNICO.
 
 La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
