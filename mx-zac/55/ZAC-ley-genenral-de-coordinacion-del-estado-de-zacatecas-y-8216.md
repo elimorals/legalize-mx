@@ -4,7 +4,7 @@ identifier: "ZAC-ley-genenral-de-coordinacion-del-estado-de-zacatecas-y-8216"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "1984-02-04"
+last_updated: "1988-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY GENERAL DE COORDINACION DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
 
 Ley publicada en el Periódico Oficial el 4 de febrero de 1984.
 
@@ -117,45 +117,37 @@ Los municipios recibirán el 20% de las participaciones federales que reciba el 
 
 Los municipios recibirán íntegramente el Fondo de Fomento Municipal, así como las cantidades que por ley les correspondan de otras participaciones federales que reciba el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
+
 ###### ARTICULO DECIMO CUARTO.
 
-La cantidad que a cada municipio corresponda del Fondo General de Participaciones se determinará conforme a las siguientes reglas:
+Con la suma de los porcentajes a que se refieren los artículos décimo segundo y décimo tercero de esta Ley, se integrará el Fondo Único de Participaciones Federales a los Municipios.
 
-I.- El municipio recibirá anualmente hasta una cantidad igual a la suma que le hubiere correspondido en el Fondo en el año inmediato anterior.
-
-II.- Adicionalmente , percibirá la cantidad que resulte de aplicar el coeficiente que se determine conforme a los incisos siguientes, al monto del incremento que tenga el Fondo General en el año al que se hace el cálculo en relación con el año precedente:
-
-a).- La suma de las participaciones que correspondan al municipio, provenientes del Fondo General de Participaciones, en el último año anterior a aquel para el que se efectúe el cálculo, se divdirán (sic) entre la recaudación Federal obtenida en el municipio en el penúltimo año.
-
-b).- El monto de la recaudación Federal obtenida en el municipio en el último año anterior a aquel para el que se haga el cálculo, se dividirá entre la recaudación federal percibida en todo el Estado en dicho último año.
-
-c).- Se multiplicarán entre sí los cocientes obtenidos conforme a los incisos a) y b).
-
-Se sumarán los resultados que se obtengan de acuerdo con el inciso c), calculados para todos los municipios y se determinará el tanto por ciento que el resultado que corresponde a cada uno de ellos represente en el total. Este tanto por ciento será la proporción en que cada municipio participará en el incremento del Fondo General de participaciones en el año para el que se haga el cálculo.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
 
 ###### ARTICULO DECIMO QUINTO.
 
-La cantidad que a cada municipio corresponda en el fondo Financiero Complementario, se determinará conforme a las siguientes reglas:
+La distribución a los municipios del Fondo Unico de Participaciones Federales a los Municipios se hará conforme a las siguientes reglas:
 
-I. El Municipio recibirá anualmente hasta una cantidad igual a la suma que le hubiera correspondido en el Fondo en el año inmediato anterior.
+I. El 60% conforme al porcentaje de la recaudación de ingresos federales coordinados, obtenida en e l municipios respecto de la total del estado, durante el año inmediato anterior a aquél para el que se haga el cálculo, proveniente de los contribuyentes menores, así como de las personas que enajenen bienes o presten servicios en forma accidental.
 
-II. El Municipio participará en el incremento que tiene el Fondo Financiero Complementario, con relación al año anterior, en forma proporcionalmente inversa a la participación por habitante que haya tenido en el Fondo General de Participaciones, en el año de que se trate.
+II. El 10% conforme al porcentaje de la población, que registre el municipio, respecto de la total del estado, de acuerdo a la última información de que disponga el Consejo Nacional de Población o el Censo General de Población y Vivienda.
 
-El dato de la población se tomará de la última información de que se disponga, del Consejo Nacional de Población o de Censo General de Población.
+III.- El 10% conforme al porcentaje de localidades que registre el municipio, respecto de las totales del Estado, en base a la última información de que disponga el Consejo Nacional de Población o el Censo General de Población y Vivienda.
+
+IV. El 20% en función a las características que cada Municipio represente dentro del Plan Estatal de Desarrollo para el ejercicio de que se trate, cuya distribución será autorizada anualmente por la Legislatura en el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
 
 ###### ARTICULO DECIMO SEXTO.
 
-La cantidad que a cada municipio corresponda del Fondo de Fomento Municipal y de otras participaciones federales que reciba el estado, diferentes a los Fondos General y Financiero Complementario y que por ley se les deba participar, será conforme a las siguientes reglas:
+Las participaciones federales que correspondan a los municipios del fondo que establece la presente Ley, se calcularán para cada ejercicio fiscal.
 
-a).- Se sumará el coeficiente de participaciones del Fondo General determinado en la fracción II del artículo décimo cuarto de esta ley para el año en que se hace el cálculo, al coeficiente de participación del Fondo Financiero Complementario establecido en la Fracción II del artículo décimo quinto para el mismo año.
-
-b).- Se dividirá la suma del inciso a) entre dos.
-
-El resultado del inciso b) será el tanto por ciento en que cada municipio participará del Fondo de Fomento Municipal.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1988)</small>
 
 ###### ARTICULO DECIMO SEPTIMO.
 
-La entrega de las participaciones a los municipios a que se refieren los artículos anteriores, se hará por conducto de la Dirección General de Finanzas y Tesorería del Gobierno del Estado.
+La entrega de las participaciones a los municipios a que se refieren los artículos anteriores, se hará por conducto de la Secretaría de Finanzas del Gobierno del Estado.
 
 ###### ARTICULO DECIMO OCTAVO.
 
@@ -220,3 +212,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE ENERO DE 1988
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
