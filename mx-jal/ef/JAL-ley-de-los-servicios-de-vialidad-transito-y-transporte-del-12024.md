@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-02-10"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,769 +21,849 @@ state: "JAL"
 ---
 # LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. SE ADVIERTE QUE LA NUMERACIÓN DE ALGUNOS ARTÍCULOS REFERIDOS EN EL DECRETO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, NO CORRESPONDE AL CONTENIDO DE LOS ARTÍCULOS CITADOS.]</small>
+LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-CÓDIGO HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2022.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
-Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 20 de agosto de 2003.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
 
-Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+DECRETO
 
-Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme el siguiente Código para su promulgación y publicación:
+NÚMERO 17167. EL CONGRESO DEL ESTADO DECRETA:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco
 
-La Quincuagésima Novena Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide el siguiente:
+## TITULO PRIMERO. Disposiciones generales
 
-CÓDIGO NÚMERO 570
-
-HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-
-# LIBRO PRIMERO. DISPOSICIONES GENERALES
-
-## TÍTULO ÚNICO
-
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
+### CAPITULO I. Del objeto de la Ley
 
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en el Municipio de Coatzacoalcos del Estado de Veracruz de Ignacio de la Llave, y tienen por objeto regular:
+La presente Ley tiene por objeto:
 
-I. La planeación, programación y presupuestación del gasto público;
+I. Regir el tránsito en el Estado de Jalisco para establecer el orden y control de la circulación vehicular y peatonal en las vías públicas abiertas a la circulación, que no sean de la competencia federal;
 
-II. La administración financiera y tributaria de la Hacienda Municipal;
+II. Establecer las bases para programar, organizar, administrar y controlar la infraestructura vial, la infraestructura carretera y el equipamiento vial;
 
-III. Las normas que regulan las contribuciones, aprovechamientos y productos;
+III. Determinar las bases para planear, establecer, regular, administrar, controlar y supervisar el servicio público de transporte; y
 
-IV. La administración de los recursos humanos, financieros y materiales;
+IV. Establecer la coordinación del Estado y los municipios para integrar y administrar el sistema de vialidad, tránsito y transporte, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-V. La integración de la cuenta pública municipal;
-
-VI. La administración y contratación de su deuda pública; y
-
-VII. El dominio y la administración de sus bienes.
+Las disposiciones de esta Ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la Ley que regule el procedimiento ante el Tribunal de lo Administrativo y las instancias que deriven del mismo.
 
 ###### Artículo 2.
 
-Para los efectos de este Código se entenderá por:
+Para los efectos de la fracción I, del artículo anterior:
 
-I. Administración Pública Municipal: El conjunto de instituciones gubernamentales que aplican políticas, normas, técnicas, sistemas y procedimientos, a través de los cuales se prestan servicios que demanda la sociedad, en cumplimiento a las atribuciones que las Constituciones Federal y Estatal confieren al Ayuntamiento;
+I. Son vías públicas: Las calles, calzadas, avenidas, viaductos, caminos y autopistas, así como las vialidades primarias y corredores de movilidad con prioridad al transporte público y, en general:
 
-II. Autoridades fiscales: Aquellas a las que se refiere el artículo 14 de este Código;
+a) Los predios destinados a los fines públicos del tránsito peatonal, vehicular y al transporte colectivo; y
 
-III. Ayuntamiento: El órgano de gobierno y administración, integrado por el Presidente Municipal, Síndico y Regidores, elegidos en términos de la legislación aplicable.
+b) Los caminos públicos de jurisdicción estatal, destinados temporal o permanentemente al tránsito de personas, semovientes y vehículos, incluyendo el área del derecho de vía de los mismos;
 
-En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán aplicables las disposiciones de este Código referidas al Ayuntamiento.
+II. No tienen el carácter de vías públicas los predios pertenecientes al dominio privado de la Federación, del Estado, de los municipios o de los particulares, para fines restringidos o aprovechamientos privados, así como los bienes de uso común de los condominios;
 
-IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
+III. Se denominan vías públicas de comunicación local: Las vías públicas, incluyendo sus construcciones de ingeniería como puentes, alcantarillas, pasos a desnivel y demás elementos de protección, a excepción de aquéllas que comuniquen al Estado con otra u otras entidades federativas, o las construidas en su totalidad o en su mayor parte por la Federación, siempre que éstas no se hubieren cedido al Estado; y
 
-V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
-
-VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
-
-VII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
-
-VIII. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
-
-IX. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
-
-X. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
-
-XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
-
-XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
-
-XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
-
-XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
-
-XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
-
-XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
-
-XVII. Municipio: El Municipio de Coatzacoalcos del Estado de Veracruz de Ignacio de la Llave;
-
-XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
-
-XIX. Presidente: El Presidente Municipal del Ayuntamiento;
-
-XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
-
-XXI. Síndico: El Síndico del Ayuntamiento;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXII. Tesorería: La Tesorería del Municipio;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXIII. Tesorero: El Titular de la Tesorería del Municipio;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXIV. Hacienda Municipal: La Hacienda Pública Municipal, se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que les pertenezcan, de las contribuciones y otros ingresos fiscales que las legislaturas establezcan a su favor, de acuerdo a lo establecido por el artículo 3 del presente Código;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXV. Refrendo: Es el acto por el cual el contribuyente solicita a las autoridades competentes la actualización de su registro municipal de contribuyentes;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXVI. Unidad de Medida y Actualización (UMA): Unidad que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas aplicables;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXVII. Unidad Económica: Todo establecimiento comercial, industrial o de prestación de servicios que se encuentre dentro del territorio del Municipio de Coatzacoalcos, Veracruz de Ignacio de la Llave;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXVIII. CFDI: Comprobante Fiscal Digital por Internet previsto en el Código Fiscal de la Federación y toda su normatividad relacionada;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXIX. Estado de Cuenta: El documento donde se contiene el reporte de adeudos consolidado o resumido de un contribuyente con fines informativos y que no constituye instancia; mismo que puede ser enviado por mensajería ordinaria o certificada de forma indistinta, o bien generada a través de los portales electrónicos que para tal efecto implemente o contrate la Tesorería;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXX. Formato: Documento oficial solicitado por las dependencias municipales como parte de los requisitos necesarios para realizar un trámite o solicitar un servicio y que deberá ser previamente autorizado para su utilización por la Tesorería;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXI. Cédula de Empadronamiento: es el documento expedido por la Tesorería Municipal que acredita la inscripción, pago anual de derechos por refrendo y/o modificaciones al régimen de un establecimiento comercial, industrial o de servicios, al Padrón Fiscal Municipal;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXII. Familia Monoparental: Aquellas en las que un/a progenitor/a ascendiente convive con y es responsable en solitario de sus hijos e hijas hasta los 18 años, dependientes económicos y personas con discapacidad. Se considerarán familias monoparentales primarias a aquellas en las que la o el progenitor convive con sus hijas e hijos. Se considerarán a las y los ascendientes en segundo grado, sin importar que se cuente con uno o con ambos, como familias monoparentales secundarias;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXIII. Ley de Ingresos: La Ley de Ingresos del Municipio de Coatzacoalcos, Veracruz de Ignacio de la llave, correspondiente al ejercicio fiscal del año de que se trate;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXIV. Licencia de Funcionamiento: Documento expedido por la Tesorería que permite el funcionamiento de los establecimientos cuyo giro sea la enajenación de bebidas alcohólicas realizadas total o parcialmente al público en general;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no reincidan en la omisión en el cumplimiento-normativo;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXVI. Multa Administrativa: Sanción de carácter pecuniario que consiste en la imposición del pago de una suma de dinero que se deriva de la verificación de la comisión de una conducta que contraviene disposiciones administrativas de competencia municipal;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXVII. Multa Fiscal: Sanción económica, prevista en la normatividad aplicable, que imponen las autoridades fiscales a los contribuyentes cuando no cumplen de manera espontánea sus obligaciones fiscales o por cumplirlas incorrectamente;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXVIII. Pago espontáneo: Acción por la cual el contribuyente de forma voluntaria realiza el pago de sus obligaciones sin que medie entre éste y la autoridad algún requerimiento o notificación de pago;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XXXIX. Padrón Fiscal Municipal de Unidades Económicas o Padrón Fiscal Municipal: Para efectos del presente Código se entenderá como tal, al registro administrativo de índole fiscal que contempla la información cualitativa y cuantitativa de las unidades económicas, que se encuentran regularizadas en el territorio municipal;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XL. SCIAN: Sistema de Clasificación Industrial de América del Norte.
+IV. Se entiende por derecho de vía, a la zona afecta a una vía pública en ambos lados de ésta, con las medidas que determine el reglamento correspondiente.
 
 ###### Artículo 3.
 
-La Hacienda Pública Municipal se formará por los bienes municipales del dominio público y privado, así como por los rendimientos de los bienes que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, tasas adicionales establecidas por el Congreso sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que aquél establezca a su favor, en términos de las disposiciones legales aplicables.
+Las disposiciones de la presente Ley regularán:
+
+I. Las acciones tendientes a garantizar a las personas el acceso y aprovechamiento a los servicios de vialidad, tránsito y transporte, en condiciones de higiene, seguridad y continuidad;
+
+II. Las acciones relativas a la construcción, administración y aprovechamiento de las obras de infraestructura afectas a los servicios de vialidad, tránsito y transporte;
+
+III. Las características de los vehículos y sus condiciones operativas, necesarias para permitir su circulación, con base en las normas oficiales mexicanas aplicables;
+
+IV. Los requisitos, condiciones y limitaciones para operar o conducir vehículos;
+
+V. Los requisitos, condiciones, términos y procedimientos para el otorgamiento de las concesiones y permisos destinados a la prestación del servicio público de transporte en sus distintas modalidades, y en la operación de servicios conexos en el área del derecho de vía; y
+
+VI. Los requisitos y condiciones para establecer y operar servicios conexos.
 
 ###### Artículo 4.
 
-Todos los recursos públicos pertenecientes al Municipio ingresarán a la Tesorería, con excepción de los casos expresamente señalados en el presente ordenamiento y demás disposiciones legales aplicables. El Ayuntamiento, previo convenio que al respecto celebre, podrá autorizar a instituciones bancarias, crediticias o comerciales a recibir el pago de las contribuciones y otros ingresos fiscales previstos en este Código.
+El servicio público de transporte, por su cobertura se clasifica en:
+
+I. Urbano: El que se genera en las áreas que integran un centro de población;
+
+II. Conurbado o metropolitano: El que se proporciona entre las áreas de dos o más centros de población, localizados en distintos municipios, cuando por su crecimiento y relaciones socioeconómicas formen o tiendan a formar una unidad urbana y, para los efectos de las normas constitucionales que disponen su planeación conjunta y coordinada, se consideran como un sólo centro de población; y
+
+III. Suburbano: El que se presta entre las áreas de un centro de población y sus poblaciones aledañas alrededor de su zona de influencia; y
+
+IV. Foráneo:
+
+a) Interurbano: El que se proporciona entre centros de población o lugares de áreas rurales, dentro del mismo Municipio; y
+
+b) Intermunicipal: El que se presta entre centros de población localizados en diferentes municipios dentro del Estado.
 
 ###### Artículo 5.
 
-La Tesorería ejercerá los recursos públicos de acuerdo con las disposiciones de la Ley Orgánica del Municipio Libre y de este Código y con base en el presupuesto de egresos aprobado por el Cabildo.
+Las acciones relativas a los servicios de vialidad, tránsito y transporte, se regularán mediante los procedimientos administrativos que se establecen en esta Ley y en sus reglamentos. Para tal efecto, se entenderá por:
+
+I. Licencia: La autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
+
+II. Concesión: El acto administrativo del Estado mediante el cual autoriza a las personas, físicas o jurídicas, a concurrir en la prestación del servicio público de transporte por el tiempo que establece esta Ley, en sus distintas modalidades, o en los servicios conexos a las vías públicas de comunicación local, independientemente del permiso o permisos para la explotación del servicio público de autos de alquiler, taxis o radiotaxis;
+
+III. Permiso: Autorización que, sin crear derechos permanentes, concede la autoridad competente en atención a ciertos hechos o condiciones de carácter transitorio, para:
+
+a) La circulación, conducción u operación de vehículos; o
+
+b) La prestación del servicio público de transporte, en sus distintas modalidades, para atender por un tiempo determinado el incremento en la demanda por actividades derivadas de acontecimientos y festividades públicas o situaciones de emergencia.
+
+Esta definición no es aplicable al transporte público de alquiler, taxis o radiotaxis;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IV. Subrogación: Es un acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+V. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VIII (sic). Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público; y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IX. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte.
 
 ###### Artículo 6.
 
-Las finanzas públicas municipales estarán apegadas a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca, aprobado por el Cabildo, sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
+El ordenamiento y regulación de la vialidad, el tránsito y el transporte, tienen como principal finalidad garantizar la integridad y el respeto a la persona, a sus bienes, a los del Estado y municipios, así como al medio natural y al patrimonio cultural del Estado, mediante:
 
-El incumplimiento de lo dispuesto en el párrafo anterior será sancionado por la autoridad competente, en los términos de la Ley Orgánica del Municipio Libre.
+I. El respeto a los derechos de los peatones y usuarios del servicio público de transporte;
 
-### CAPÍTULO ÚNICO
+II. La determinación de los derechos, obligaciones y responsabilidades de los conductores de vehículos, así como de los operadores, concesionarios y permisionarios del servicio público de transporte y de los peatones;
+
+III. El mejoramiento de la seguridad vial;
+
+IV. La promoción del uso ordenado y racional del automóvil;
+
+V. La prestación del servicio público de transporte en forma regular, continua, segura y acorde a las necesidades de la población;
+
+VI. El mejoramiento de las vías públicas y de los medios de transporte;
+
+VII. La protección, ampliación y promoción de vías y rutas para el desarrollo de actividades turísticas, deportivas y de esparcimiento; y
+
+VIII. La aplicación al tránsito y transporte de criterios y normas ecológicos.
+
+### CAPITULO II. De las personas en sus derechos y obligaciones
 
 ###### Artículo 7.
 
-El Ayuntamiento, para casos excepcionales, podrá recurrir al endeudamiento directo como fuente de recursos, previa autorización del Congreso y en los términos establecidos en el presente Código.
+Todas las personas que, en su calidad de peatones, transiten por las vías públicas, están obligadas a cumplir en lo que a ellos concierne, con las disposiciones de esta Ley y sus reglamentos, acatando en lo que corresponda el señalamiento vial, así como las indicaciones que hagan los oficiales o agentes de vialidad y tránsito cuando dirijan el tránsito.
 
 ###### Artículo 8.
 
-Para los efectos de este Código, los plazos se computarán por días hábiles, excepto los establecidos en los Libros Cuarto y Quinto, así como en disposiciones expresas en contrario.
-
-# LIBRO SEGUNDO. DE LAS RELACIONES JURÍDICAS TRIBUTARIAS
+Los peatones tendrán siempre el derecho de paso preferencial en los lugares en donde se determine mediante el respectivo señalamiento, así como en aquellos lugares en donde la circulación sea controlada por los oficiales o agentes de vialidad y tránsito, quienes en todo tiempo deberán cuidar por su seguridad y respeto.
 
 ###### Artículo 9.
 
-Las disposiciones de este Libro regulan las relaciones jurídicas entre las autoridades fiscales, los sujetos pasivos de la relación tributaria y los responsables solidarios de éstos, con motivo del nacimiento, extinción, cumplimiento o incumplimiento de las obligaciones fiscales, así como los procedimientos administrativos correspondientes.
+Los escolares tendrán el derecho de paso preferencial en todas las intersecciones y zonas señaladas para esos fines, próximos a los centros escolares, y tendrán prioridad para el ascenso y descenso en los vehículos de servicio público de transporte en general; en consecuencia, las autoridades competentes deberán proteger, mediante dispositivos, señalamientos e indicaciones convenientes, el tránsito de los escolares en los horarios y lugares establecidos.
 
 ###### Artículo 10.
 
-La aplicación de las disposiciones de este Libro corresponde al Ayuntamiento, por conducto de las autoridades fiscales Municipales.
+Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación vehicular, ni cruzar las vías rápidas por lugares no autorizados al efecto.
 
 ###### Artículo 11.
 
-Para los efectos de este Código se consideran leyes fiscales municipales:
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-I. El Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-II. El presente Código;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-III. La Ley de Ingresos del Municipio; y
-
-> <small>(ADICIONADA, G.O. 25 DE JULIO DE 2008)</small>
-
-IV. Los demás ordenamientos de naturaleza fiscal que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
-
-La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
+Las aceras de las vías públicas sólo deberán ser utilizadas para el tránsito de los peatones, con las excepciones que determinen las autoridades municipales dentro de la jurisdicción que les corresponda.
 
 ###### Artículo 12.
 
-El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adicionar el control y forma de pago, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de las contribuciones y sus accesorios, infracciones y sanciones, de acuerdo a lo dispuesto en este Código.
+Adicionalmente a los derechos que corresponden a los peatones en general, las personas con problemas de discapacidad tendrán preferencia de paso en todos los cruceros o zonas de paso peatonal; asimismo, deberán dárseles las facilidades necesarias para que puedan abordar las unidades de transporte público.
 
-Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 294 de este Código.
-
-### CAPÍTULO I. DE LAS LEYES Y AUTORIDADES FISCALES
+### CAPITULO III. De los ámbitos de competencia del Estado y del Municipio
 
 ###### Artículo 13.
 
-Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios, éstos se entenderán del primero de enero al treinta y uno de diciembre del año de que se trate.
+En la aplicación de esta Ley y sus normas reglamentarias, concurrirán el Ejecutivo del Gobierno del Estado y los ayuntamientos, en los ámbitos de sus respectivas competencias y conforme a las atribuciones que establece el presente Ordenamiento.
 
 ###### Artículo 14.
 
-En el Municipio son autoridades fiscales:
+Las autoridades estatales y municipales deberán:
 
-I. El Ayuntamiento;
+I. Programar y organizar sus acciones conforme a lo previsto en esta Ley y en sus normas reglamentarias, observando las disposiciones del ordenamiento territorial y ecológico;
 
-II. El Presidente;
+II. Promover la participación de la sociedad en los programas que tengan como objeto conservar, mejorar y optimizar los sistemas de vialidad, tránsito y transporte; y
 
-III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
-
-IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
-
-V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
-
-VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
-
-Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+III. Coadyuvar con el Ministerio Público y con los órganos de administración de justicia en la prevención, averiguación y esclarecimiento de los delitos, así como dar cumplimiento a las sanciones que en su caso se determinen y apliquen, relacionadas con la regulación y administración de la vialidad, el tránsito y el transporte.
 
 ###### Artículo 15.
 
-Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
+Los ámbitos de competencia del Estado y del municipio en materia de vialidad, tránsito y transporte, se integrarán y delimitarán conforme a las siguientes bases:
+
+I. Corresponde al Estado:
+
+a) La formulación y conducción de la política estatal de comunicaciones y transportes terrestres;
+
+b) La expedición de las normas generales de carácter técnico en las materias objeto de esta Ley;
+
+> <small>(REFORMADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores y operadores, para su identificación y la certificación de derechos;
+
+d) La programación, construcción y administración de la infraestructura carretera y de la infraestructura y equipamiento vial, así como la reglamentación y control del tránsito en sus vías de comunicación;
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+e) La regulación y administración del tránsito con la intervención de los ayuntamientos, cuando los programas y acciones afecten dos o más municipios de la Entidad;
+
+f) La regulación y administración del transporte; y
+
+g) La coordinación para integrar el sistema de vialidad, tránsito y transporte del Estado, con el sistema nacional de comunicaciones;
+
+II. Corresponde al Municipio:
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+a) Intervenir, conjuntamente con el Ejecutivo en la formulación y aplicación de programas de transporte público, cuando éstos afecten su ámbito territorial;
+
+b) La autorización de los proyectos de infraestructura vial, infraestructura carretera, equipamiento vial y servicios conexos, en lo relativo a su territorio, a su localización y aprovechamiento de áreas, conforme a las normas aplicables de carácter técnico y de ordenamiento territorial;
+
+c) La integración y administración de la infraestructura vial; y
+
+d) La reglamentación y control del tránsito en los centros de población que se localicen en su territorio.
 
 ###### Artículo 16.
 
-Las disposiciones tributarias que establezcan cargas fiscales y las que señalen excepciones a las mismas, así como las que fijen las infracciones, delitos y sanciones, son de aplicación estricta. Se considera que establecen cargas fiscales las normas que se refieren al sujeto, objeto, base, tasa, cuota o tarifa.
-
-A falta de norma fiscal expresa, se aplicará supletoriamente la legislación civil estatal, cuando sus disposiciones no sean contrarias a la naturaleza propia del derecho fiscal.
+El Titular del Poder Ejecutivo Estatal expedirá los reglamentos que resulten necesarios para proveer a la observancia de esta Ley, a excepción de aquéllos que correspondan a la competencia de los ayuntamientos.
 
 ###### Artículo 17.
 
-Los ingresos del Municipio son las percepciones en dinero, especie, crédito, servicios o cualquier otra forma que incremente la Hacienda Municipal y que se destine al gasto público.
+En el ejercicio de sus atribuciones, los municipios observarán las disposiciones de esta Ley, los ordenamientos que de ella se deriven y aplicarán las normas generales de carácter técnico.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO. De las atribuciones de las autoridades de vialidad, tránsito y transporte
 
-### CAPÍTULO II. DE LOS INGRESOS
+### CAPITULO I. De las autoridades estatales y municipales
 
 ###### Artículo 18.
 
-La Hacienda Municipal percibirá en cada ejercicio fiscal los ingresos provenientes de:
+Son autoridades responsables de la aplicación y de vigilar la observancia de la presente Ley, en el ámbito de sus respectivas competencias:
 
-I. La recaudación de contribuciones municipales;
+I. En el Gobierno del Estado:
 
-II. Los productos y aprovechamientos;
+a) El Gobernador del Estado;
 
-III. Las transferencias de recursos por concepto de participaciones y aportaciones federales; y
+b) La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte;
 
-IV. Los demás que establezca el presente Código, las leyes aplicables y los convenios celebrados con la Federación, el Estado, otras Entidades Federativas, Municipios y los particulares.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-La Ley de Ingresos estimará, en lo procedente, el monto global de los ingresos que, por cada uno de estos conceptos, obtendrá el Municipio durante el ejercicio fiscal de que se trate.
+c) La dependencia municipal competente en materia de vialidad, tránsito y transporte;
 
-### CAPÍTULO I. DE LOS SUJETOS
+d) El Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+II. En los gobiernos municipales:
+
+a) El ayuntamiento;
+
+b) El presidente municipal;
+
+c) La dependencia municipal competente en materia de vialidad y tránsito;
+
+d) Los jueces municipales en materia de tránsito;
+
+e) La tesorería municipal; y
+
+f) Las autoridades ejecutoras y recaudadoras que de ellos dependan;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+III. En la zona metropolitana de Guadalajara u otras zonas conurbadas que se definan, aquellos organismos y dependencias que tengan facultades de mando y decisión en materia de vialidad, tránsito y transporte.
+
+### CAPITULO II. De las atribuciones del Ejecutivo del Estado
 
 ###### Artículo 19.
 
-Los ingresos públicos del Municipio se dividen en:
+Son atribuciones del Ejecutivo del Estado:
 
-I. Ordinarios: los previstos en la Ley de Ingresos; y
+I. Administrar la estructura orgánica y funcional de la dependencia del Ejecutivo Estatal, competente en materia de vialidad, tránsito y transporte. Para ello, se elaborarán y autorizarán los manuales de organización, procedimientos y de servicios al público que sean necesarios;
 
-II. Extraordinarios: los aprobados por el Congreso o los derivados de disposiciones administrativas, para atender erogaciones imprevistas o por derivarse de normas o actos posteriores al inicio de un ejercicio fiscal.
+II. Establecer, ordenar, administrar y regular las comunicaciones terrestres y los transportes en el ámbito de competencia del Estado;
+
+III. Expedir las normas generales de carácter técnico relativas a las características de la infraestructura carretera, de la infraestructura y equipamiento vial, circulación, señalamiento y transporte;
+
+IV. Formular, aprobar, aplicar, evaluar y modificar el Programa Estatal de Comunicaciones Terrestres y Transporte, que incluirá las políticas, estrategias y acciones relativas a la construcción y mantenimiento de la infraestructura carretera y de la infraestructura y equipamiento vial;
+
+V. Formular, dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y mantenimiento de las obras de infraestructura carretera e infraestructura y equipamiento vial; evaluar los proyectos que se formulen para dictaminar su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+
+VI. Coordinar los proyectos y programas de construcción y ampliación de las obras del sistema de transporte eléctrico; autorizarlos en el ámbito de su competencia y vigilar aquéllos que directa o indirectamente sean operados por el Estado;
+
+VII. Establecer, impartir y administrar los programas de educación vial;
+
+VIII. Establecer, diseñar y administrar los programas de instrucción y capacitación para conductores y operadores de vehículos, así como señalar los requisitos y criterios para su evaluación;
+
+IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y precise su reglamento;
+
+X. Registrar vehículos y expedir los elementos de identificación conforme a su tipo y características, como placas, calcomanías, hologramas y tarjetas de circulación;
+
+XI. Otorgar concesiones para la construcción, mantenimiento y operación de la infraestructura carretera y equipamiento de las vías de comunicación;
+
+XII. Otorgar concesiones para establecer y administrar servicios en las zonas que correspondan al derecho de vía en el ámbito local;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XIII. Otorgar concesiones y permisos con la intervención de los ayuntamientos que dentro de su ámbito territorial corresponda la prestación del servicio público de transporte;
+
+XIV. Autorizar las tarifas para el servicio público de transporte de pasajeros, con base en los estudios y propuestas que formulen el Consejo Consultivo, el CEIT y el Organismo Coordinador;
+
+XV. Autorizar las tarifas para el servicio público de transporte de carga que opere en las vías públicas de comunicación local;
+
+XVI. Reglamentar, organizar y controlar el funcionamiento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
+
+XVII. Celebrar acuerdos y convenios de coordinación con los ayuntamientos, para la realización de acciones en las materias objeto de esta Ley que correspondan a éstos;
+
+XVIII. Coordinar las actividades en materia de vialidad, tránsito y transporte con las autoridades federales y municipales;
+
+XIX. Proponer los términos de coordinación con los municipios, a fin de establecer los modos de participación y consulta a efecto de autorizar, en su caso, las concesiones y permisos en materia del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XX. Asesorar y apoyar a los municipios en materia de vialidad, tránsito y transporte, conforme a los convenios de coordinación que celebre con los ayuntamientos;
+
+XXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de esta Ley y a sus normas reglamentarias, en el ámbito de su competencia, y en la que en su caso asuma por la coordinación que establezca con los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta Ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que por ámbito territorial deban participar y escuchando al Consejo Consultivo, al CEIT y al Organismo Coordinador;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte su ámbito territorial, las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, así como la intervención de los ayuntamientos afectados;
+
+XXV. Determinar, señalar, ampliar o reducir en cada camino, ruta o tramo de vía pública de jurisdicción local, el número, capacidad y demás características de los vehículos que en ella deban de operar, según las necesidades del servicio de transporte y las exigencias de su mejoramiento, en los términos de la fracción precedente;
+
+XXVI. Ordenar se lleven a cabo en las vías de comunicación, en los medios de transporte y en los servicios auxiliares, las obras de construcción, reparación, conservación y adaptación que sean necesarias para la mayor seguridad del público;
+
+XXVII. Asegurar las condiciones de vigilancia y de dirección técnico administrativa, que sean convenientes para el mejor funcionamiento del servicio;
+
+XXVIII. Asegurar que los concesionarios y permisionarios cumplan con las condiciones de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión o permiso;
+
+XXIX. Cuando se compruebe el deterioro en la prestación del servicio, obligar a los concesionarios a que mejoren su higiene, seguridad, calidad y eficiencia, dentro de los plazos razonables que se les fijen, de acuerdo con los términos de la concesión o permiso;
+
+XXX. Ordenar la suspensión temporal o total del servicio cuando no reúna las condiciones de seguridad, higiene, calidad y eficiencia;
+
+XXXI. Modificar los itinerarios, horarios y frecuencias previamente autorizadas en atención al interés público y a la demanda del transporte;
+
+XXXII. Autorizar y vigilar el cumplimiento de las tarifas para los servicios públicos de transporte; y
+
+XXXIII. Las demás que determine la presente Ley.
 
 ###### Artículo 20.
 
-Las contribuciones se clasifican en:
+El Ejecutivo Estatal ejercerá las atribuciones que le otorga esta Ley, a través de las dependencias de la Administración Pública, en los términos que establezcan su Ley Orgánica y las disposiciones de este Ordenamiento.
 
-I. Impuestos: Son las contribuciones establecidas en ley que deben pagar las personas físicas o morales que se encuentren en la situación jurídica o de hecho prevista por la misma, y que sean distintas de las señaladas en las fracciones II y III de este artículo;
-
-II. Derechos: Son las contribuciones establecidas en ley por recibir servicios que prestan las dependencias y entidades de la Administración Pública Municipal, en sus funciones de derecho público, así como por el uso o disfrute de los bienes del dominio público del Municipio, salvo en los casos que dichos bienes o servicios se encuentren concesionados a particulares para su explotación; y
-
-III. Contribuciones por mejoras: Son las establecidas en este Código, a cargo de las personas físicas o morales que, con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas.
-
-### CAPÍTULO II. DEL NACIMIENTO Y EXTINCIÓN DE LAS OBLIGACIONES Y DE LOS CRÉDITOS FISCALES
+### CAPITULO III. De las atribuciones de los ayuntamientos
 
 ###### Artículo 21.
 
-Los aprovechamientos son ingresos que percibe el Municipio en sus funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos, de las participaciones federales, de las aportaciones federales e ingresos federales coordinados, así como los que obtengan los organismos de la administración pública paramunicipal.
+Son atribuciones de los ayuntamientos:
+
+I. Expedir reglamentos para ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en su territorio y en las vías públicas de jurisdicción municipal, conforme a las disposiciones de esta Ley y su reglamento;
+
+II. Hacer los estudios necesarios para conservar y mejorar los servicios de vialidad y tránsito, conforme a las necesidades y propuestas de la sociedad;
+
+III. Dictar medidas tendientes al mejoramiento de los servicios de vialidad y tránsito;
+
+IV. Realizar las tareas relativas a la ingeniería de tránsito y al señalamiento de la vialidad en los centros de población;
+
+V. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida humana, protección del ambiente, seguridad, comodidad y fluidez en la vialidad;
+
+VI. Indicar las características específicas y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito, conforme a las normas generales de carácter técnico;
+
+VII. Apoyar y participar en los programas de educación vial que establezca el Estado;
+
+VIII. Coordinarse con el Ejecutivo del Gobierno del Estado y con otros municipios de la entidad, para dar cumplimiento a las disposiciones de esta Ley;
+
+IX. Autorizar la localización y características de los elementos que integran la infraestructura y el equipamiento vial de los centros de población, a través de los planes y programas de desarrollo urbano que les corresponda sancionar y aplicar;
+
+X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
+
+> <small>(REFORMADA P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
+
+XII. Autorizar la ubicación de los lugares para el establecimiento de los sitios y matrices de éstos, a propuesta de los interesados;
+
+XIII. En coordinación con el Titular del Ejecutivo del Gobierno del Estado, autorizar la localización de las obras de infraestructura carretera; de la infraestructura y equipamiento vial; de los derechos de vía como destinos; de las zonas de restricción, así como las normas que regulen su uso;
+
+XIV. Solicitar, en su caso, al Ejecutivo del Gobierno del Estado, asesoría y apoyo para realizar los estudios técnicos y acciones en materia de vialidad y tránsito;
+
+XV. Vigilar el cumplimiento de esta Ley y de los reglamentos que de ella emanen;
+
+XVI. En el ámbito de su competencia determinar, aplicar y ejecutar las sanciones correspondientes, a quienes incurran en infracciones a esta Ley y a sus reglamentos; y
+
+XVII. Las demás que determine la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 22.
 
-Los productos son contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de sus bienes de dominio privado.
+El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de vialidad y tránsito, así como intervenir en la formulación y aplicación de los programas de transporte de pasajeros, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
 
-También se consideran productos los ingresos provenientes de la venta de primera mano que, por la explotación de sus bienes de dominio privado, haga el Ayuntamiento al realizar actividades agrícolas, ganaderas, pesqueras, silvícolas o cualesquiera otras de naturaleza similar.
-
-### CAPÍTULO III. DE LA GARANTÍA DE LOS CRÉDITOS FISCALES
+### CAPITULO IV. De la concurrencia y coordinación de las autoridades estatales y municipales
 
 ###### Artículo 23.
 
-Las participaciones federales son fondos constituidos en beneficio del Municipio, con cargo a recursos que la Federación transfiere al Estado, como consecuencia de su adhesión al Sistema Nacional de Coordinación Fiscal, o en los términos previstos en el artículo 73 fracción XXIX de la Constitución Política de los Estados Unidos Mexicanos.
+Los ayuntamientos, en atención a sus condiciones territoriales y socioeconómicas, así como a su capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de vialidad y tránsito con el Ejecutivo del Estado, a efecto de que:
+
+I. El Ejecutivo estatal asesore y apoye al municipio para realizar acciones y estudios técnicos;
+
+II. La dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, supla a la dependencia municipal, en la ejecución de acciones específicas que correspondan al municipio; o
+
+III. El ayuntamiento colabore con el Ejecutivo del Gobierno del Estado, ejerciendo funciones de administración y control del servicio público de tránsito y transporte, en programas y acciones que correspondan al ámbito de competencia estatal.
 
 ###### Artículo 24.
 
-Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
+Los convenios de coordinación a que se refiere el artículo anterior precisarán, conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos:
 
-### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+I. Los medios para recaudar las contribuciones que tienen como objeto las actividades del servicio público de tránsito y transporte;
+
+II. Los procedimientos para ejecutar las sanciones económicas; y
+
+III. La participación que corresponda al Estado o a los municipios, respecto a las contribuciones que se recauden.
+
+### CAPITULO V. De las funciones de la Policía de Vialidad y Tránsito, estatal o municipal
 
 ###### Artículo 25.
 
-Son accesorios de las contribuciones y de los aprovechamientos, los recargos, las sanciones, los gastos de ejecución y la indemnización por devolución de cheques presentados a tiempo y que no sean pagados, y participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
+Son funciones de la policía de vialidad y tránsito, estatal o municipal en su caso:
 
-En los demás artículos de este Código en que se haga referencia únicamente a las contribuciones no se entenderán incluidos los accesorios.
+I. La orientación, participación y colaboración con la población en general, tendiente a la prevención tanto de accidentes viales, como de infracciones a las normas de tránsito;
 
-Las contribuciones y los aprovechamientos se regirán por este Código y, supletoriamente, por el derecho común; los demás ingresos se regirán por las leyes y convenios respectivos.
+II. Cuidar de la seguridad y respeto del peatón en las vías públicas, dando siempre preferencia a éste sobre los vehículos;
+
+III. Proteger y auxiliar a las personas, particularmente cuando sufran accidentes en las vías públicas;
+
+IV. Coadyuvar con otras autoridades en la conservación del orden público y la tranquilidad de la comunidad;
+
+V. Cuidar que se cumplan y apliquen las disposiciones de esta Ley y sus reglamentos en materia de vialidad, tránsito y transporte, así como informar y orientar a quienes transiten en las vías públicas;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+VI. Tomar conocimiento de las infracciones que cometan los conductores de los vehículos, concesionarios, permisionarios y subrogatarios, a esta Ley o sus reglamentos y, en su caso, levantar o hacer constar dichas infracciones, para los efectos de determinar y aplicar la sanción correspondiente; y
+
+VII. Las demás que les sean señaladas por esta Ley y sus reglamentos.
 
 ###### Artículo 26.
 
-Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código y las demás leyes aplicables.
+Los oficiales y agentes de vialidad y tránsito deberán, siempre, conducirse con el público en forma comedida y respetuosa.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales o agentes de tránsito en funciones deberán ubicarse en lugar visible para los conductores, salvo el tiempo estrictamente necesario que en cumplimiento de sus funciones implique separarse de aquel.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2000)</small>
+
+Los oficiales y agentes de tránsito encargados de la vialidad en horario nocturno deberán de conducir las unidades para este servicio con las farolas encendidas.
+
+### CAPITULO VI. De la concurrencia y coordinación de las autoridades estatales y municipales en las zonas conurbadas y las zonas metropolitanas
 
 ###### Artículo 27.
 
-El cobro de las contribuciones, productos o aprovechamientos se realizará en días y horas hábiles, en las oficinas de la Tesorería o en los lugares que ésta designe.
-
-La ampliación de horarios y autorización de días inhábiles para el pago de dichos ingresos se publicará en la Tabla de Avisos del Ayuntamiento, misma que deberá ubicarse en el recinto oficial de éste y, de ser posible, se difundirá a través del medio de comunicación de mayor cobertura en el Municipio.
-
-Si el último día del plazo o fecha determinada fuera inhábil o viernes, o permanecieren cerradas las oficinas recaudadoras durante el horario normal de labores, se prorrogará el plazo para el día hábil siguiente.
-
-Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Municipio se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
+El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, en los términos de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, programarán, autorizarán y ejecutarán las acciones en materia de vialidad y tránsito, en forma conjunta y coordinada mediante las instancias que establezcan, conforme al régimen de zonas de conurbación.
 
 ###### Artículo 28.
 
-Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+Asimismo el Ejecutivo Estatal y los ayuntamientos atenderán, conforme a los convenios que celebren, los servicios de vialidad y tránsito, a efecto de integrar sistemas metropolitanos eficientes que garanticen la atención de la población.
 
-Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
-
-Quien haga pago de créditos fiscales obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
-
-Tratándose de los pagos efectuados en las oficinas de las instituciones bancarias, crediticias o comerciales, obtendrá la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente.
-
-Cuando las disposiciones tributarias establezcan opciones a los contribuyentes para el cumplimiento de sus obligaciones fiscales o para determinar las contribuciones a su cargo, la opción elegida no podrá variar respecto al mismo ejercicio.
-
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPITULO VII. De los organismos de participación social y consulta, y auxiliares
 
 ###### Artículo 29.
 
-En los plazos no se computarán los días en que tengan vacaciones generales las autoridades fiscales. No son vacaciones generales las que se otorguen en forma escalonada.
+Son organismos de participación social y de consulta:
 
-Lo previsto en el párrafo anterior no será aplicable cuando se trate de plazos para el pago de contribuciones, en cuyo caso esos días se considerarán hábiles, por lo que quedará en funcionamiento una guardia de la oficina recaudadora que para tal efecto se designe.
+I. El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte;
 
-En los plazos establecidos por períodos se computarán todos los días. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que, en el primer caso, el plazo concluye el mismo día del mes de calendario de que se trate y, en el segundo, vencerá el mismo día del año que corresponda. En los plazos que se fijen por mes o por año, cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+II. Las comisiones de las zonas conurbadas y zonas metropolitanas intermunicipales; y
+
+III. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal.
 
 ###### Artículo 30.
 
-Las autoridades fiscales municipales tendrán las atribuciones que establece el Código de Procedimientos Administrativos en materia de:
-
-I. Requisitos de los actos y procedimientos administrativos;
-
-II. Procedimiento administrativo ordinario;
-
-III. Procedimientos administrativos especiales de visitas de verificación, visitas domiciliarias, control de obligaciones y determinación presuntiva;
-
-IV. Procedimiento administrativo de ejecución; y
-
-V. Recurso de revocación y demás medios de impugnación.
+Los organismos y autoridades referidas en este capítulo tendrán la participación que determinen esta Ley, así como las normas estatales y municipales que regulen su integración y funcionamiento.
 
 ###### Artículo 31.
 
-Sujeto pasivo es la persona física o moral, mexicana o extranjera que, de acuerdo con las leyes fiscales, está obligada al pago de un crédito fiscal determinado a favor del erario municipal.
+Son auxiliares en la aplicación de esta Ley y sus reglamentos:
 
-Es tercero, en una relación jurídico tributaria, toda persona que no interviene directamente en ella, pero que por estar vinculado con el sujeto pasivo asume las obligaciones que le impone la ley.
+I. El Organismo Coordinador de la operación integral del servicio de transporte público del estado;
 
-### CAPÍTULO II. DE LAS SANCIONES
+II. El Centro Estatal de Investigación de la Vialidad y el Transporte;
+
+III. Las policías, cualquiera que sea su denominación y adscripción;
+
+IV. Las unidades, consejos consultivos y grupos de vigilancia y seguridad que integren las asociaciones de vecinos, conforme a las disposiciones estatales y municipales aplicables; y
+
+V. Los grupos de promotores voluntarios integrados en las escuelas de educación primaria y secundaria, coordinados por las propias autoridades escolares con la finalidad de promover y vigilar el respeto a las normas de esta Ley y su reglamento en materia de vialidad y tránsito.
+
+### CAPITULO VIII. De la estructura institucional para la planeación y el control del servicio de transporte público
 
 ###### Artículo 32.
 
-Son responsables solidarios con los sujetos pasivos:
+El Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte, es un organismo auxiliar de consulta, con funciones deliberativas y propositivas, donde participen los sectores público, privado y social, que se integrará en forma permanente por:
 
-I. Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
 
-II. Los copropietarios, coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales, derivados del bien o derecho en común y hasta por el monto del valor de éste. Se exceptúa de esta responsabilidad a los condóminos.
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, quien será el secretario técnico;
 
-Por el excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
+III. Un representante, en su caso, de la dependencia del Poder Ejecutivo Federal competente en materia de comunicaciones y transportes;
 
-III. Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de contribuyentes, hasta por el monto total de las contribuciones;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-IV. Los legatarios, donatarios y herederos a título particular, respecto de los créditos fiscales causados en relación con los bienes o negociaciones que se les hubieren transferido, hasta por el monto de éstos;
+IV. Los representantes de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
 
-V. Los terceros que, para garantizar créditos fiscales a cargo de los contribuyentes, constituyan depósito, prenda o hipoteca o permitan el embargo de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
+V. Los representantes de los municipios que se integren como consejeros, en los supuestos siguientes:
 
-VI. Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del erario municipal y que correspondan a períodos anteriores a la fecha de adquisición, hasta por el valor de la negociación;
+a) Un representante de cada uno de los municipios de la Zona Conurbada de Guadalajara; y
 
-VII. Los servidores públicos, Notarios, Corredores y demás fedatarios públicos que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento generador de obligaciones fiscales de pago, si no se cercioran de que se han cubierto los impuestos, derechos y productos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de la contribución respectiva;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-VIII. Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales que se hubieran causado, derivados de la actividad objeto del contrato de fideicomiso, hasta donde alcance el patrimonio fideicomitido, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen, en relación con dicho patrimonio;
+b) Un representante de los ayuntamientos cuando los asuntos a discutir en el Consejo, incidan en el ámbito territorial de éstos; y
 
-IX. Los representantes de los contribuyentes que, para cubrir créditos fiscales, hayan librado cheques sin tener fondos disponibles o que, teniéndolos, dispongan de ellos antes de que venza el plazo de su presentación;
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-X. Los servidores públicos municipales que acepten cheques en pago de créditos fiscales y éstos no sean pagados;
+c) Un representante de los ayuntamientos de cada región del Estado, según se defina en el ordenamiento territorial del Estado, designados conforme al procedimiento que determine su reglamento y convocados de acuerdo a los proyectos existentes para dicha región;
 
-XI. La persona o personas que tengan conferida la dirección general, la gerencia general o la administración única, o cualquiera que sea el nombre con que se le designe, de las personas morales, por las contribuciones causadas o no retenidas por las mismas durante su gestión, así como por las que debieron pagarse o enterarse durante ésta, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen.
+VI. El director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
 
-Los representantes de personas físicas serán responsables solidarios en los mismos términos a que se refiere esta fracción;
+VII. El director del organismo coordinador de la operación integral del servicio de transporte público en el Estado.
 
-XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la persona moral, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenían en el capital o patrimonio de la persona moral durante el período o a la fecha de que se trate;
-
-XIII. Los liquidadores o síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
-
-XIV. Los representantes, sea cual fuere el nombre con el que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de éstas;
-
-XV. Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de sus representados;
-
-XVI. Los propietarios o poseedores de bienes inmuebles, por el importe de los créditos fiscales a cargo del propietario o poseedor anterior, así como los propietarios de bienes inmuebles que hubieren vendido con reserva de dominio;
-
-XVII. Las personas morales o físicas que administren o sean propietarios de bienes inmuebles afectos al servicio turístico de tiempo compartido;
-
-XVIII. El personal de la Tesorería que formule constancias de no adeudo con datos falsos;
-
-XIX. Las instituciones bancarias que, sin culpa del librador, no cubran el importe de un cheque girado a favor del fisco municipal, hasta por el importe del cheque con sus accesorios; y
-
-XX. Las demás personas que señalen las leyes fiscales.
-
-La responsabilidad solidaria comprenderá la totalidad de los créditos fiscales, con excepción de las multas, por tanto, el fisco podrá exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales. Lo dispuesto en este párrafo no impedirá que los responsables solidarios sean sancionados por actos u omisiones propios.
+El Consejo además, deberá invitar a representantes de los diversos sectores de la población y de las organizaciones sociales y civiles, cuando se atiendan o discutan programas y proyectos que se refieran o afecten a alguno de dichos sectores o bien, cuando éstos manifiesten interés en participar en tales programas y proyectos.
 
 ###### Artículo 33.
 
-Para efectos fiscales se considera domicilio fiscal:
+Corresponderá al Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte:
 
-I. Tratándose de personas físicas:
+I. Recibir, analizar y emitir opinión por escrito ante las autoridades competentes, los comentarios, estudios, propuestas y demandas que en materia de vialidad, tránsito y transporte, le presente cualquier persona o grupo de la comunidad;
 
-a) El que declaren a la autoridad fiscal.
+II. Promover y apoyar la investigación académica que pueda dar soluciones a los problemas estatales, regionales y municipales en materia de vialidad y transporte;
 
-b) El lugar en que se realicen los actos o actividades gravadas o se generen obligaciones fiscales.
+III. Proponer la creación, modificación o supresión de las modalidades del servicio público de transporte;
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Proponer la creación, ampliación y supresión de rutas;
 
-c) Cuando realicen actividades comerciales, industriales, de prestación de servicios, agrícolas, ganaderas o silvícolas, el local en que se encuentre el principal asiento de sus negocios o aquel que hubiesen señalado en el Padrón Fiscal Municipal de contribuyentes que les corresponda.
+V. Proponer criterios de coordinación para solucionar problemas del transporte entre el Estado y los municipios;
 
-d) Cuando presten servicios personales independientes, el local que utilicen como base fija para el desempeño de sus actividades.
+VI. Formular, revisar y aprobar los procedimientos y criterios técnicos para que el Organismo Coordinador de la operación integral del servicio de transporte público del estado calcule las tarifas aplicables al servicio público de transporte en sus distintas modalidades; y
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-e) A falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal, o en su defecto, el lugar donde se encuentre el contribuyente en términos del artículo 10 del Código Fiscal de la Federación.
-
-II. Tratándose de personas morales:
-
-a) El manifestado a la autoridad fiscal.
-
-b) El lugar en que esté ubicado el negocio o donde se encuentre establecida la administración del mismo.
-
-c) Si existen varios establecimientos, aquel en donde se encuentre la administración principal del negocio.
-
-d) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal.
-
-III. Tratándose de personas físicas o morales residentes fuera del territorio del Municipio y que realicen actividades gravadas en el mismo, el de su representante, y a falta de éste, el lugar en que se haya realizado el hecho generador de la obligación fiscal; y
-
-IV. Tratándose de personas físicas o morales sujetas al pago de contribuciones sobre la propiedad inmobiliaria y sólo en caso de que no señalen su domicilio fiscal, se considerará como tal el de la ubicación del inmueble que origine la obligación fiscal.
-
-Las personas domiciliadas fuera del Municipio, que generen créditos fiscales a favor del Erario Municipal, cumplirán con las obligaciones establecidas en las leyes fiscales municipales.
-
-Se considerará que hay cambio de domicilio fiscal, cuando el contribuyente lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos de este Código; en todo caso, el contribuyente tendrá la obligación de comunicar por escrito a la autoridad fiscal su nuevo domicilio, de no ser así y con independencia de las sanciones a que se hiciere acreedor, la autoridad fiscal podrá válidamente efectuar la notificación en el domicilio en que tenga su negociación.
-
-El aviso de cambio de domicilio fiscal se presentará a la Tesorería dentro de los treinta días siguientes al en que tenga lugar la situación jurídica o de hecho que corresponda.
-
-En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal actualizará los datos correspondientes, sin que el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+VII. Formular su reglamento interno.
 
 ###### Artículo 34.
 
-La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
+El Organismo Coordinador de la operación integral del servicio de transporte público del estado, es una entidad pública, descentralizada del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, cuyas principales características serán:
 
-Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+a) Ser un organismo promotor del desarrollo y ejecución de acciones en la operación, supervisión y control del servicio de transporte público;
+
+b) Ser un agente de transformación y de obtención de resultados;
+
+c) Ser el responsable del desarrollo de los sistemas y de sus partes;
+
+Dicho Organismo se integrará en forma permanente por:
+
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
+
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte;
+
+III. El Director del Organismo Coordinador de la operación integral del servicio de transporte público del estado, quien será el Secretario Técnico;
+
+IV. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+V. Los representantes debidamente acreditados de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VI. Los municipios cuando se traten asuntos que afecten su ámbito territorial.
 
 ###### Artículo 35.
 
-La determinación de los créditos fiscales corresponde a los sujetos pasivos, salvo disposición expresa en contrario.
+Corresponderán al Organismo Coordinador de la operación integral del servicio de transporte público del estado, las siguientes funciones:
 
-Cuando las leyes establezcan que la determinación deba ser hecha por la autoridad fiscal, los sujetos pasivos informarán a ésta de la realización de los hechos que hubieren dado nacimiento a la obligación fiscal y los que sean pertinentes para la liquidación del crédito en los términos que establezca este Código y, en su defecto, por escrito, dentro de los quince días siguientes al nacimiento de la obligación fiscal.
+I. Planear, dimensionar y coordinar la ejecución de la operación del servicio de transporte público requerido en los corredores de movilidad con prioridad de este servicio, vialidades primarias, secundarias y alimentadoras definidas por el CEIT para el uso del transporte público;
 
-Los responsables solidarios, excepto los fedatarios públicos, proporcionarán, a solicitud de las autoridades, la información que tengan a su disposición.
+II. Recibir, estudiar y dictaminar en coordinación con el CEIT, las propuestas y demandas que en materia de operación del servicio de transporte público presenten personas, grupos e instituciones que, en su caso, modifiquen la operación del mismo;
+
+III. Instrumentar, en coordinación con el CEIT, las normas de calidad para el servicio de transporte público;
+
+IV. Con base en los procedimientos y criterios técnicos aprobados por el Consejo Consultivo de Vialidad Tránsito y Transporte y en coordinación con el CEIT, proponer las tarifas aplicables al servicio público de transporte en sus distintas modalidades, que deberán ser presentadas a la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte, para que a su vez gestione la autorización del Titular del Poder Ejecutivo del Estado;
+
+V. Mantener informada a la ciudadanía sobre el uso y alternativas de transporte público a través de elementos visuales, orales e impresos, para optimizar, facilitar y promover el uso del transporte público;
+
+VI. Llevar un registro de los principales indicadores y estadísticas en materia de servicio público de transporte, que permitan informar, apoyar y facilitar la toma de decisiones, con la finalidad de resolver la problemática existente; y
+
+VII. Formular su reglamento interno.
 
 ###### Artículo 36.
 
-Son créditos fiscales los que tenga derecho a percibir el Municipio o sus entidades, que deriven de contribuciones, aprovechamientos, accesorios y de responsabilidades administrativas, así como aquellos a los que las leyes les den ese carácter.
+El Centro Estatal de Investigación de la Vialidad y el Transporte, es un organismo público, descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, que se integrará en forma permanente por:
 
-A falta de señalamiento expreso, el pago se hará:
+I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
 
-I. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los quince días siguientes a la fecha del nacimiento de la obligación fiscal;
+II. El Titular de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, quien será el secretario técnico;
 
-II. Si es a las autoridades a las que corresponde formular la liquidación, dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma;
+III. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
 
-III. Si se trata de obligaciones derivadas de contratos o concesiones que no señalen fecha de pago, éste se hará dentro de los quince días siguientes a la fecha de su celebración u otorgamiento;
+a) Finanzas;
 
-IV. Si el crédito se determina mediante un convenio, en la fecha que éste señale; y
+b) Desarrollo urbano, ordenamiento territorial y obras públicas;
 
-V. Tratándose de actos de fiscalización, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
+c) Planeación económica y social; y
+
+d) Equilibrio ecológico y protección del ambiente;
+
+> <small>(REFORMADA P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
+IV. Dos representantes del transporte estatal; un representante de los subrogatarios; tres representantes de los permisionarios del servicio público de transporte de las agrupaciones que tengan mayor número de afiliados; un representante de la agrupación cuyo reconocimiento otorguen los integrantes del CEIT y un representante del Consejo Metropolitano de Desarrollo;
+
+V. El Director del Organismo Coordinador de la Operación Integral del Transporte Público; y
+
+VI. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VII. Un representante de los municipios cuando se discutan asuntos que afecten su ámbito territorial.
 
 ###### Artículo 37.
 
-El pago de los créditos fiscales y cualquier ingreso en favor del Municipio se hará en efectivo con moneda de curso legal, salvo los casos que este Código autorice que se efectúen en especie.
+Corresponderá al Centro Estatal de Investigación de la Vialidad y el Transporte:
 
-Los giros postales, telegráficos o bancarios y los cheques de cuenta personal del contribuyente se admitirán salvo buen cobro.
+I. Estudiar y dictaminar las demandas que en materia de vialidad y transporte reciba del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Transporte y de la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte;
 
-El pago también podrá efectuarse por medio de cheques certificados o cheques de caja; tratándose de cheques no certificados de cuentas personales, de pago con tarjetas de crédito, tarjetas de débito y de transferencias de fondos de cuentas bancarias de los contribuyentes, únicamente se aceptarán cuando lo autorice la Tesorería. Queda prohibido a la Autoridad Fiscal recibir en pago cheques postdatados.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-La Tesorería podrá autorizar expresamente la aceptación de otros instrumentos de pago.
+II. Realizar los estudios técnico, económicos y sociales, que permitan desarrollar un sistema eficiente de vialidad y transporte, con la participación de los concesionarios, permisionarios, subrogatarios y de las instituciones de educación superior, así como determinar las vialidades dando prioridad al servicio colectivo del transporte público de pasajeros y la regularización de su operación;
 
-## TÍTULO SEGUNDO. DE LOS CRÉDITOS FISCALES
+III. Realizar los estudios técnicos necesarios para la elaboración de los dictámenes que justifiquen, en su caso:
 
-### CAPÍTULO ÚNICO
+a) La creación, modificación o supresión de las modalidades del servicio de transporte público;
+
+b) La creación, ampliación o supresión de rutas;
+
+c) La definición de la (sic) vías a utilizar por la Red Integral de Transporte Público; y
+
+d) Las propuestas de tarifas, aplicables al servicio de transporte público, en sus distintas modalidades;
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Los ayuntamientos podrán participar en los supuestos de los incisos a), b) y c) que anteceden, cuando dichos estudios tengan interés particular para el municipio del que se trate;
+
+IV. Llevar un registro de los principales indicadores y estadísticas en materia de transporte público, que permitan apoyar los dictámenes emitidos;
+
+V. Proporcionar asesoría especializada en materia de transporte y vialidad a las autoridades estatales y municipales; y
+
+VI. Formular su reglamento interno.
+
+## TITULO TERCERO. Del servicio de tránsito
+
+### CAPITULO I. De los reglamentos municipales de tránsito y de zonas conurbadas
 
 ###### Artículo 38.
 
-Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediata inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediata superior.
+Serán objetivos del Reglamento de Tránsito que expedirán los ayuntamientos con fundamento en las disposiciones de esta Ley:
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. Definir las normas que establezcan el orden y control vial, para que la circulación de los peatones y vehículos sea segura y fluida, aplicando las normas técnicas de carácter general expedidas conforme a las bases establecidas en esta Ley;
 
-Para los efectos de este Código, se entenderá por UMA (Unidad de Medida y Actualización), el establecido en las disposiciones legales respectivas de orden federal.
+II. Definir la estructura orgánica y precisar la competencia de la dependencia municipal competente en materia de vialidad y tránsito;
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+III. Desarrollar y promover condiciones de seguridad a los peatones y a los conductores de vehículos; y
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en Unidades de Medida y Actualización, el cobro se realizará conforme a la vigente al momento de su incumplimiento.
+IV. Promover el respeto entre las personas que concurren en el aprovechamiento de las vías públicas, en particular, de los oficiales y agentes responsables de atender los problemas de vialidad y de vigilar el cumplimiento de las normas de tránsito;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+V. Definir las normas de aplicación y vigilancia en el cumplimiento de la prestación del servicio de transporte público dentro de su ámbito territorial.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 39.
 
-La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecido en las disposiciones respectivas determina que el crédito sea exigible.
-
-Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
+El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, mediante las instancias de coordinación que establezcan, autorizarán las normas reglamentarias que serán aplicables al tránsito y transporte público de pasajeros en el centro de población.
 
 ###### Artículo 40.
 
-Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
+El Ejecutivo Estatal y los ayuntamientos correspondientes, para aplicar las normas de vialidad y tránsito en una zona conurbada o zona metropolitana, determinarán la participación que se convenga tanto para la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, como para el o los municipios involucrados, así como la coordinación entre las dependencias responsables de la seguridad pública.
 
-La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
-
-La primera parcialidad a pagar será el resultado de dividir el saldo del adeudo inicial a la fecha de la autorización, entre el número de parcialidades solicitadas.
-
-El saldo del adeudo inicial a la fecha de autorización se integrará por la suma de:
-
-a) El monto de las contribuciones omitidas;
-
-b) Las multas; y
-
-c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente.
-
-Durante los plazos concedidos se causarán recargos por prórroga sobre el saldo insoluto, incluyendo los accesorios a la tasa que fije anualmente la Ley de Ingresos del Municipio.
-
-El Tesorero, al autorizar el pago a plazos, ya sea en una sola exhibición o en parcialidades, exigirá que se garantice el interés fiscal dentro de los quince días siguientes a la fecha en que se hubiere notificado la autorización.
-
-### CAPÍTULO I. DEL IMPUESTO PREDIAL
+### CAPITULO II. De la educación vial
 
 ###### Artículo 41.
 
-Cesará la prórroga o la autorización para pagar a plazos y el crédito fiscal será inmediatamente exigible cuando el deudor:
+Los programas de educación vial tendrán como objetivo:
 
-I. No otorgue en el plazo establecido en este Código, desaparezca o resulte insuficiente la garantía del interés fiscal;
+I. Fomentar el respeto en la sociedad, a partir de la educación básica, de los derechos y obligaciones del individuo como peatón, pasajero, conductor, y como responsable del cuidado del medio ambiente;
 
-II. Sea declarado en quiebra o solicite su liquidación judicial;
+II. Divulgar las disposiciones en materia de vialidad, tránsito y transporte;
 
-III. Deje de cubrir tres parcialidades sucesivas; o
+III. Promover el respeto por los señalamientos existentes en las vías públicas;
 
-IV. Cambie de domicilio sin dar aviso de dicho cambio a la autoridad fiscal, dentro del plazo de treinta días.
+IV. Divulgar y promover medidas para la prevención de accidentes viales;
 
-Los contribuyentes que se encuentren en cualquiera de los supuestos mencionados no podrán solicitar nuevamente autorización por los mismos conceptos que fueron objeto del cese de prórroga.
+V. Difundir los procedimientos para reaccionar ante condiciones de emergencia con motivo de la vialidad, para autoprotegerse y, en su caso, prestar ayuda y protección a las víctimas de accidentes o ilícitos, informando a los cuerpos de seguridad y unidades de protección civil;
 
-En los supuestos a que se refiere este artículo, el saldo será exigible inmediatamente, por lo que las autoridades fiscales lo requerirán y lo harán exigible mediante el procedimiento administrativo de ejecución.
+VI. Difundir entre las personas el conocimiento de sus garantías y derechos, así como de sus obligaciones en materia de vialidad y tránsito, para promover su ejercicio y cumplimiento; y
+
+VII. Llevar a cabo todas las acciones que redunden en beneficio y enriquecimiento de los principios de la educación vial.
 
 ###### Artículo 42.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalado en las disposiciones respectivas, se pagarán recargos por mora en concepto de indemnización al fisco municipal por falta de pago oportuno, conforme a la tasa que anualmente se fije en la Ley de Ingresos del Municipio.
+Las autoridades estatales y municipales de vialidad y tránsito, establecerán programas a fin de:
 
-Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el período a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
+I. Divulgar los preceptos de esta Ley, sus reglamentos y demás disposiciones relacionadas con la materia;
 
-Los recargos se causarán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por cheque no pagado a que se refiere el artículo siguiente, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+II. Promover en los servicios de vialidad, tránsito y transporte, el respeto a las personas y el aprovechamiento ordenado de la infraestructura y equipamiento vial y carretero;
 
-Los recargos se causarán hasta por cinco años, salvo en los casos en los que no se haya extinguido por prescripción la facultad de la autoridad fiscal para el cobro de las contribuciones o aprovechamientos omitidos y sus accesorios, de acuerdo a las disposiciones de este Código.
+III. Orientar a los peatones y conductores sobre la forma de desplazarse en las vías públicas, para garantizar el tránsito seguro de peatones, pasajeros, ciclistas y automovilistas;
 
-Al garantizarse las obligaciones fiscales por terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
+IV. Aprovechar en forma segura y eficiente el servicio público de transporte;
 
-Si el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+V. Evitar que quienes conducen vehículos, los manejen fuera de los límites de velocidad permitidos;
 
-Si los recargos determinados por el contribuyente son inferiores a los que calcule la autoridad fiscal, ésta aceptará el pago y procederá a exigir el remanente.
+VI. Evitar que las personas en estado de ebriedad o bajo el influjo de substancias que alteren la capacidad para conducir, manejen automotores; y
 
-En caso de aprovechamientos, los recargos se calcularán, de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los recargos, los gastos de ejecución y la indemnización por cheque no pagado.
+VII. Promover una relación digna, honesta y respetuosa, entre la ciudadanía y los oficiales y agentes de vialidad y tránsito.
 
-Las autoridades fiscales no liberarán ni condonarán, total o parcialmente, el pago de las contribuciones y de los recargos correspondientes, salvo en los casos que prevé este mismo Código.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El Ayuntamiento sólo podrá condonar total o parcialmente recargos a través de un programa temporal por cada año, debiendo ser autorizado mediante un acuerdo de Cabildo, que deberá contener las bases y especificaciones que sean necesarias.
-
-### CAPÍTULO II. DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
+### CAPITULO III. De las clases de vehículos
 
 ###### Artículo 43.
 
-El cheque recibido por las autoridades fiscales, que sea librado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización del veinte por ciento del valor de éste, así como a la comisión bancaria que resulte de su devolución, sin perjuicio de que se tenga por no cumplida la obligación fiscal y se cobren los créditos, recargos y sanciones procedentes por el falso pago.
+Los vehículos, conforme a sus características propias, se clasifican:
 
-La autoridad fiscal correspondiente requerirá al librador del cheque para que, dentro del plazo de tres días, efectúe el pago junto con la indemnización del veinte por ciento, la comisión bancaria por cheque devuelto y los demás accesorios, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que realizó el pago o que éste no se efectuó por causas imputables a la librada.
+I. Por su sistema de fuerza motriz, en:
 
-Transcurrido el plazo anteriormente señalado sin que el contribuyente o librador del cheque efectúe el pago o demuestre cualesquiera de los supuestos mencionados, la autoridad fiscal procederá a hacer efectivo el crédito fiscal en los términos previstos en el párrafo primero de este artículo, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+a) Automotores o automóviles de combustión;
 
-Si el cheque no se paga por responsabilidad del librado se estará a lo dispuesto por la Ley General de Títulos y Operaciones de Crédito.
+b) Automotores o automóviles de electricidad;
+
+c) Vehículos de propulsión humana (Bicicletas);
+
+d) Vehículos de tracción animal;
+
+e) Otras formas de propulsión; y
+
+II. Por su rodamiento, en:
+
+a) Neumático; y
+
+b) Metálico.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
+
+La diversidad de vehículos que se deriven de la anterior clasificación, se regirán por el reglamento respectivo y la norma general de carácter técnico.
 
 ###### Artículo 44.
 
-Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y antes del adeudo principal a los accesorios, en el orden siguiente:
+Los vehículos, atendiendo a las actividades en que se utilicen y para los efectos de esta Ley, se clasifican en:
 
-I. Gastos de ejecución;
+I. De uso privado: Los utilizados en el transporte de personas u objetos, para satisfacer las necesidades particulares de sus propietarios o poseedores legales, ya sean éstos personas físicas o jurídicas, sin que dicho transporte constituya de manera alguna actividad remunerada o profesional;
 
-II. Recargos;
+II. De transporte público: Los destinados para el transporte de personas o cosas, cuando esta actividad constituya un servicio que administre el Estado u opere, salvo el de alquiler o taxi, en virtud de concesiones o de permisos; y se subclasifican en:
 
-III. Multas; y
+a) De alquiler o taxi: Los empleados para el transporte de personas sin sujeción a itinerarios fijos, mediante el pago de un precio que se determinará según la tarifa de taxímetro correspondiente, y autorizados en sitios o asignados a centros de control o ruleteros;
 
-IV. La indemnización y la comisión bancaria, relativas a cheques recibidos por la autoridad fiscal, no pagados y devueltos por instituciones bancarias.
+b) De pasajeros: Los destinados al transporte urbano, suburbano o foráneo de personas en general, en viajes regulares, con itinerarios y horarios; los dedicados al transporte urbano o suburbano de escolares o de trabajadores o turistas, en recorridos especiales, todos, mediante el pago de un precio que se determinará según la tarifa correspondiente;
 
-Cuando el contribuyente interponga algún medio de defensa que impugne alguno de los conceptos previstos en las fracciones anteriores, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
+c) De carga: Los dedicados exclusivamente al transporte de materiales u objetos. Por su capacidad serán de carga pesada, mediana o ligera;
 
-### CAPÍTULO III. DEL IMPUESTO SOBRE ESPECTÁCULOS PÚBLICOS
+d) De carga especial: Los autorizados para el transporte de materiales clasificados como peligrosos, por sus características explosivas, corrosivas, altamente combustibles o contaminantes, u otros que generen riesgo;
+
+e) Mixtos: Los autorizados para transportar pasajeros, carga ligera u objetos; y
+
+f) Equipo móvil especial: Los vehículos no comprendidos en las subclasificaciones anteriores, cualquiera que sea el servicio, uso o finalidad a que se les destine;
+
+III. De uso oficial: Los destinados a la prestación de servicios públicos estatales o municipales; y
+
+IV. De seguridad: Los adaptados para servicios de seguridad, protección civil y emergencia, operados tanto por entidades públicas como por particulares, plenamente identificables por colores, rótulos y las señales de seguridad reglamentarias.
+
+### CAPITULO IV. Del registro y control de vehículos
 
 ###### Artículo 45.
 
-Cuando de oficio o por escrito del contribuyente se solicite la devolución de cantidades pagadas indebidamente y las que procedan de conformidad con este Código, la autoridad fiscal deberá reintegrarlas mediante cheque nominativo.
-
-La devolución procederá cuando no haya créditos fiscales exigibles, de lo contrario, cualquier excedente se aplicará en cuenta, de oficio. Los retenedores podrán solicitar la devolución, siempre que ésta se haga directamente a los contribuyentes.
-
-Si el pago de lo indebido se hubiere efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nacerá cuando dicho acto quede insubsistente.
-
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de treinta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal, con los datos, informes y documentos en que se sustente el derecho. En caso de omisiones, la autoridad requerirá al promovente, dentro de un plazo de cinco días, para que las subsane, dentro los diez días siguientes, en cuyo defecto, la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de treinta días se contará a partir de que se subsane la omisión.
-
-Si la devolución no se efectúa en el plazo de treinta días, la autoridad fiscal pagará intereses que se calcularán a partir del día siguiente al del vencimiento, conforme a una tasa que será igual a la prevista para los recargos por pago extemporáneo.
-
-El pago de intereses se incluirá de oficio en la liquidación correspondiente.
-
-El contribuyente que haya pagado un crédito fiscal, interponga oportunamente los medios de defensa y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a recibir intereses sobre las cantidades pagadas indebidamente, a partir de la fecha de pago. En estos casos, podrá compensar las cantidades a su favor, incluidos los intereses contra la misma contribución que se pague, ya sea a su cargo o que deba enterar en su carácter de retenedor.
-
-En ningún caso los intereses excederán del cien por ciento del monto de las contribuciones. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+Todo vehículo, para transitar u ocupar la vía pública, deberá reunir las condiciones requeridas de acuerdo con lo dispuesto en esta Ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, etc.
 
 ###### Artículo 46.
 
-Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución, sólo se podrán compensar en los casos en que así lo acuerde el Cabildo.
-
-No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
-
-Sólo se causarán recargos por el periodo comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar, cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar.
-
-Las autoridades fiscales podrán compensar de oficio o a petición de los contribuyentes las cantidades que tengan a su favor por cualquier concepto, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros y que hayan quedado firmes por cualquier causa. No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlos.
-
-En el caso de que la compensación se realice de oficio, la autoridad lo notificará personalmente al interesado.
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, integrará y operará el Registro Estatal de los Servicios Públicos de Tránsito y Transporte a que se refiere esta Ley.
 
 ###### Artículo 47.
 
-La compensación entre particulares y el fisco municipal, podrá ser realizada respecto de cualquier clase de contribuciones, aprovechamientos, créditos o deudas, si unos y otros son líquidos.
+El registro de los vehículos se acreditará mediante:
+
+I. La tarjeta de circulación; y
+
+II. Las placas y la calcomanía u holograma correspondientes.
 
 ###### Artículo 48.
 
-Las contribuciones, aprovechamientos, créditos y deudas en favor del Fisco Municipal, únicamente podrán compensarse cuando provengan de la aplicación de las disposiciones de este Código y se satisfagan los requisitos que para esta forma de extinción señala el derecho común.
-
-La compensación será autorizada por el Tesorero, a petición del interesado.
-
-La misma autoridad fiscal, al tener conocimiento de que se han satisfecho los requisitos para la compensación, podrá autorizarla mediante resolución particular.
+Las placas de circulación y las calcomanías para los vehículos serán expedidas por la dependencia competente del Ejecutivo del Estado, con los colores, emblemas y matrículas que permitan la identificación del vehículo, conforme a la clasificación establecida en esta Ley y, en su caso, con la advertencia de que es conducido por una persona con problemas de discapacidad.
 
 ###### Artículo 49.
 
-El derecho de los particulares a la compensación o devolución de las cantidades pagadas indebidamente o en cantidad mayor a la debida, prescribe en los mismos términos que el crédito fiscal.
+Cualquier vehículo registrado en el Estado o en otra entidad federativa, podrá circular libremente en el mismo; por tanto, los oficiales y agentes de vialidad y tránsito no deberán interrumpir o suspender la circulación a ningún vehículo, salvo en los casos de infracciones flagrantes o por la aplicación de alguna medida de seguridad, de las expresamente previstas en este Ordenamiento.
 
 ###### Artículo 50.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera, mientras no prescriba el crédito fiscal, a uno y a otros de su obligación. Procederá la cancelación de los créditos fiscales cuando:
-
-I. Resulte imposible localizar al contribuyente o responsables solidarios y ni uno, ni los otros, cuenten con bienes sobre los cuales se pueda trabar embargo;
-
-II. Por insolvencia de los deudores; y
-
-III. Por incosteabilidad en el cobro.
-
-Las disposiciones reglamentarias que expida el Ayuntamiento deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere este artículo.
+Los vehículos no registrados o que carezcan de la documentación a que se refiere esta Ley, podrán circular si sus propietarios o poseedores cuentan con permiso de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, en tanto concluyan los trámites necesarios para la obtención de dicha documentación. En caso contrario, el personal operativo de dicha dependencia podrá detener el vehículo y solicitar a su conductor que muestre la documentación correspondiente para poder circular.
 
 ###### Artículo 51.
 
-Las facultades de las autoridades para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades para verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen por caducidad en el término de cinco años, no sujeta a interrupción ni suspensión. Dicho término empezará a correr a partir:
-
-I. Del día siguiente a aquél en que hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos;
-
-II. Del día siguiente a aquél en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
-
-III. Del día siguiente a aquél en que se hubiere cometido la infracción a las disposiciones fiscales municipales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiere cesado la continuidad.
+Los vehículos registrados en el extranjero podrán circular en el Estado, si sus conductores acreditan la legal internación y estancia en el país de los mismos, mediante la documentación expedida por las autoridades federales competentes.
 
 ###### Artículo 52.
 
-La facultad de las autoridades para cobrar un crédito fiscal se extingue por prescripción en el término de cinco años.
-
-El término de la prescripción se inicia a partir de la fecha en que el pago debió ser legalmente exigido y se podrá oponer como excepción en el recurso administrativo que al efecto se interponga.
-
-El término para que opere la prescripción se interrumpe con cada gestión de cobro que la autoridad fiscal notifique o haga saber al sujeto pasivo, o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad fiscal dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del sujeto pasivo.
-
-Los obligados podrán solicitar a la autoridad fiscal, con las formalidades a que se refiere el Código de Procedimientos Administrativos, la declaratoria de que ha operado la prescripción de los créditos fiscales.
+A los vehículos registrados en otra entidad federativa, para circular en las vías públicas del Estado, no se les exigirán requisitos diferentes o adicionales a los que deban de satisfacer en su lugar de procedencia; su cumplimiento se comprobará mediante los documentos que expidan las autoridades de su jurisdicción.
 
 ###### Artículo 53.
 
-Los contribuyentes podrán garantizar el interés fiscal mediante alguna de las formas siguientes:
+El propietario o poseedor de un vehículo, para efectuar su registro, deberá de cumplir con los requisitos siguientes:
 
-I. Depósito en efectivo en la Tesorería;
+I. Exhibir el documento que acredite la propiedad o posesión legítima del vehículo, en la forma que establezca el reglamento respectivo;
 
-II. Prenda o hipoteca;
+II. Acreditar el pago de los impuestos y derechos que establezcan las disposiciones fiscales aplicables;
 
-III. Fianza otorgada por institución afianzadora autorizada, la que no gozará de los beneficios de orden y excusión;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-IV. Obligación solidaria asumida por tercero, que compruebe su idoneidad y solvencia suficiente a juicio de la autoridad fiscal; o
+III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación, así como la póliza del seguro que al efecto señala el artículo 67 de esta Ley;
 
-V. Embargo en la vía administrativa.
+IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el cambio de propietario;
 
-La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes.
+V. Si el vehículo es de procedencia extranjera, acreditar su legal importación en los términos que señale la autoridad competente; y
 
-La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías. La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco.
-
-Se podrá dispensar el otorgamiento de la garantía del interés fiscal, mediante acuerdo que emita el Cabildo, cuando en relación con el monto del crédito respectivo, sea notoria la insuficiencia de la capacidad económica del deudor.
+VI. Presentar solicitud por escrito conforme al reglamento de esta Ley.
 
 ###### Artículo 54.
 
-Procede garantizar el interés fiscal, cuando:
+Cuando con posterioridad al registro ocurra algún hecho o acto que modifique los datos o características de los vehículos, el propietario deberá comunicarlo a la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, para llevar a cabo su actualización, dentro del plazo que establezca el Reglamento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte.
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución, en términos del Código de la materia;
-
-II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente; o
-
-III. En los demás casos que señalen este ordenamiento.
-
-No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
-
-### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+### CAPITULO V. De los operadores y conductores
 
 ###### Artículo 55.
 
-Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo anterior, se harán efectivas a través del procedimiento administrativo de ejecución.
+Para operar o conducir vehículos en el Estado de Jalisco, es necesario contar con licencia o permiso vigente, expedido por:
+
+I. La dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, la que expedirá estos documentos conforme a las características y normas establecidas en esta Ley;
+
+II. Las autoridades competentes en materia de vialidad, tránsito y transporte de otras entidades y de la Federación, para operar o conducir vehículos por las vías públicas; y
+
+III. Por lo que se refiere a las licencias para conducir vehículos expedidas en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales de los que México forme parte.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 55 Bis.
 
@@ -791,1969 +871,1075 @@ El conductor de vehículos del Servicio de Transporte Público colectivo de pasa
 
 ###### Artículo 56.
 
-Tratándose de fianza a favor de la Tesorería, esta dependencia ejercerá los procedimientos establecidos en la legislación federal aplicable.
+Para conducir vehículos, los operadores y conductores se clasifican en:
+
+I. Motociclistas;
+
+II. Automovilistas;
+
+III. Choferes;
+
+IV. Conductores de servicio de transporte público;
+
+V. Operadores de maquinaria y equipo móvil especial; y
+
+VI. Operadores de vehículos de seguridad.
 
 ###### Artículo 57.
 
-Las pólizas de fianza que se otorguen ante la Tesorería para garantizar obligaciones fiscales a cargo de terceros deberán expedirse por institución nacional autorizada, en favor del Municipio, y establecerán, en su texto, lo siguiente:
+Para obtener licencia, o permiso para operar o conducir vehículos, se requerirá:
 
-I. El nombre completo de la persona física o moral afianzada, el importe de la póliza y su vigencia, la mención expresa de que se garantiza el debido cumplimiento de las obligaciones fiscales que correspondan al fiado, así como todos y cada uno de sus accesorios legales;
+I. Ser mayor de dieciocho años, salvo los casos previstos en esta Ley;
 
-II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión, y
+II. Demostrar aptitud física y mental para conducir;
 
-III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
+III. Sustentar y aprobar el examen pericial de manejo, con las condiciones y modalidades que señale el reglamento de esta Ley, conforme al tipo de vehículo y las actividades o servicios a realizar;
 
-La fianza solamente podrá cancelarse mediante autorización escrita de la Tesorería.
+IV. Acreditar su domicilio;
+
+V. Sustentar y aprobar examen respecto al conocimiento de las disposiciones reglamentarias en materia de vialidad y tránsito; y
+
+VI. Pagar los derechos que determine la Ley de Ingresos conforme a las disposiciones de la Ley de Hacienda del Estado.
 
 ###### Artículo 58.
 
-Para que se conceda la suspensión del procedimiento administrativo de ejecución, el contribuyente o interesado deberá impugnar el crédito fiscal mediante el recurso de revocación o el juicio contencioso, garantizar el interés fiscal en cualquiera de las formas previstas por este Código y solicitar por escrito dicha suspensión ante la autoridad fiscal.
+En las licencias o permisos para operar o conducir vehículos se precisarán:
 
-Cuando en el recurso de revocación o juicio contencioso se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución haya sido suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
+I. El tipo de licencia o permiso;
 
-Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria y garantizará la parte controvertida y sus recargos.
+II. Los tipos de vehículos que autoriza a operar o conducir;
 
-En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
+III. En su caso, el servicio público de transporte que se autoriza a prestar;
+
+IV. El término de su vigencia; y
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. El número de registro de dicha licencia;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. El nombre y domicilio del titular;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. Las restricciones al titular si las hubiere;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VIII. La persona a quien se deberá avisar en caso de accidente;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IX. El tipo de sangre del titular de la licencia; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+X. La anuencia del titular en caso de que así sea su voluntad, para que se le considere donador de órganos en los casos previstos y autorizados por la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+Para los efectos de la fracción anterior, el Ejecutivo del Estado, celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 58 Bis.
+
+Los conductores de servicio de transporte público de pasajeros deberán contar invariablemente con licencia expedida en el Estado de Jalisco, conforme a lo dispuesto en el artículo 55 fracción I de esta Ley.
 
 ###### Artículo 59.
 
-La autoridad fiscal no exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieren embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare, bajo protesta de decir verdad, que son los únicos que posee. En caso de que la autoridad compruebe, por cualquier medio, que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de la responsabilidad que le resulte al contribuyente.
+Cuando por prescripción médica se estime indispensable el uso de lentes o de aparatos protésicos para conducir vehículos, así se hará constar en la licencia respectiva y además se prohibirá al conductor manejar sin usarlos.
 
 ###### Artículo 60.
 
-La cancelación de las garantías otorgadas a favor del Fisco Municipal en los términos de este Código, procederá cuando:
-
-I. Se otorgue una nueva garantía que sustituya a otra, previa su calificación por parte de las autoridades fiscales;
-
-II. Se cubra la totalidad del crédito fiscal garantizado, a satisfacción de la autoridad fiscal y se emita el comprobante de pago correspondiente; o
-
-III. En definitiva, quede sin efecto la resolución que dio origen al otorgamiento de la garantía.
-
-Para que proceda la cancelación de la garantía, el interesado presentará solicitud por escrito ante la Tesorería, acompañando los documentos que demuestren la procedencia de la cancelación, de conformidad con lo previsto en el presente Código.
-
-Procederá la cancelación, por parte de la autoridad, aun cuando no medie solicitud del particular, en aquellos casos en que, de las constancias que obren en los archivos en su poder, se desprenda que se han dado uno o varios de los supuestos señalados en el presente artículo.
-
-Cuando con motivo de la garantía otorgada se haya procedido a su inscripción en el Registro Público de la Propiedad, una vez hecha la cancelación de la misma se comunicará ese acto a la oficina registral.
+Cuando la licencia autorice a una persona con problemas de discapacidad, el manejo de vehículos con adaptaciones especiales, se indicarán en este documento, las placas de identificación correspondientes a la unidad autorizada.
 
 ###### Artículo 61.
 
-Son obligaciones de los contribuyentes:
+La expedición y refrendo de licencias y permisos, se realizará conforme a las siguientes normas:
 
-I. Inscribirse en el padrón municipal que les corresponda, dentro de los treinta días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
+I. Las licencias y sus refrendos se expedirán con vigencia de cuatro años;
 
-II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
+II. Los permisos para conducir y operar vehículos tendrán vigencia máxima de un año;
 
-III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
+III. Los operadores o conductores de vehículos, al término de la vigencia de su licencia o permiso, podrán tramitar su refrendo, cumpliendo con los requisitos que establecen las fracciones II, IV y VI, del artículo 57, de esta Ley; y
 
-IV. Presentar los avisos, declaraciones y cualquier otro documento de naturaleza análoga que dispongan las leyes, en las formas oficiales autorizadas por la Tesorería, o bien, previa autorización de la misma dependencia, cumpliendo con los requisitos legales;
-
-V. Firmar todos los documentos dirigidos a las autoridades fiscales municipales;
-
-VI. Mantener actualizados los documentos de control y cumplimiento de sus obligaciones fiscales, que deberán ser proporcionados, en copia fotostática, a la autoridad fiscal cuando sean requeridos;
-
-VII. Conservar toda la documentación fiscal o la relacionada con ésta, así como los elementos contables y comprobatorios del cumplimiento de las obligaciones en dicha materia, en el domicilio fiscal ubicado en el Municipio, durante un término no menor de cinco años;
-
-VIII. Proporcionar a las autoridades fiscales los datos o informes que les soliciten, dentro del plazo fijado para ello;
-
-IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamiento, las licencias, permisos o autorizaciones originales, así como otros documentos diversos de la misma naturaleza de los anteriores que les sean requeridos;
-
-X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el Padrón Fiscal Municipal;
-
-XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIII. Recibir estados de cuenta o cartas invitación de carácter informativo con el propósito de proporcionar información de sus adeudos fiscales, los cuales no constituirán instancia alguna; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIV. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+IV. Cuando un conductor u operador pierda la licencia, el permiso o el gafete a que se refiere el artículo 64 de esta Ley, o éstos se destruyan o sufran deterioro, deberá de solicitar la expedición de un duplicado, el cual se le otorgará previo el pago de los derechos correspondientes.
 
 ###### Artículo 62.
 
-Toda persona física o moral que, conforme a las leyes, esté en el ejercicio de sus derechos, podrá comparecer ante las autoridades fiscales, ya sea por sí o por quien legalmente la represente.
+El menor de dieciocho años de edad, pero mayor de dieciséis, podrá obtener permiso para el manejo de automóviles o motocicletas, previo el cumplimiento de los requisitos que se exigen a los conductores de esos tipos de vehículos. Deberá además, satisfacer los siguientes requerimientos:
 
-La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverá copia sellada y comprobante de pago, en su caso, a quien lo presente.
+I. Que el padre o tutor asuma expresamente responsabilidad solidaria y mancomunada por las infracciones que se cometan a esta Ley y a su reglamento; y
 
-Además de los casos que señalen las leyes fiscales y el Código de Procedimientos Administrativos, se podrá rechazar la presentación de promociones de los particulares, cuando no contengan o se anote de manera incorrecta el nombre del contribuyente; el número de cuenta y de licencia, o cualquier otro que lo identifique en los registros municipales de la contribución de que se trate; su domicilio fiscal; no aparezcan debidamente firmados; no se acompañen los anexos; o, tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
-
-Los contribuyentes podrán presentar las declaraciones respectivas a través de medios electrónicos, cuando el Cabildo hubiere aprobado esta modalidad.
-
-En los casos de personas que se encuentren incapacitadas, las concursadas, las ausentes, y en el de las sucesiones, comparecerán sus representantes legales.
+II. Garantizar, mediante fianza o seguro, el pago de los daños y perjuicios que se ocasionen a terceros durante la vigencia de la licencia provisional obtenida.
 
 ###### Artículo 63.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales se resolverán dentro de un plazo de cuarenta y cinco días hábiles, salvo disposición expresa en contrario.
+En el reglamento de esta Ley se precisarán, conforme al tipo de vehículo, la actividad a que se dedique y, en su caso, el servicio público al que se destine:
 
-Dicho plazo comenzará a partir del día siguiente a aquél en que el promovente haya presentado su solicitud requisitada o haya proporcionada (sic) a la autoridad fiscal la información requerida por ésta.
+I. Los requisitos específicos adicionales a los establecidos en la fracción III del artículo 57, de esta Ley, como experiencia y capacitación específica;
 
-En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, salvo disposición expresa en contrario, y dará lugar a la interposición de los recursos legales procedentes cuando no se dé respuesta en el término que corresponda.
+II. Los documentos que deberán presentar los solicitantes, a fin de acreditar el cumplimiento de los requisitos generales previstos en esta Ley, así como los requisitos específicos que en su caso se requieran;
+
+III. Los procedimientos para solicitar la expedición de las licencias o permisos para operar o conducir vehículos;
+
+IV. Los procedimientos para solicitar el refrendo o reposición de las licencias o permisos;
+
+V. El término de vigencia de los permisos y refrendos para operar o conducir vehículos;
+
+VI. Las bases generales de los programas de capacitación para operadores y conductores, así como las condiciones y requisitos para impartirlos; y
+
+VII. El procedimiento para presentar el examen pericial correspondiente y la forma de acreditar su resultado positivo.
 
 ###### Artículo 64.
 
-Las autoridades fiscales están obligadas a contestar las consultas que sobre situaciones reales y concretas les formulen por escrito los interesados.
+Los conductores y operadores de vehículos del servicio público de transporte deberán, siempre, portar a la vista durante sus actividades, un gafete con fotografía y demás elementos que permitan su identificación.
+
+Tratándose del servicio de autos de alquiler, taxis y radiotaxis, el gafete será entregado al chofer acompañado del permisionario del vehículo.
+
+El Reglamento determinará los requisitos y procedimientos para tramitar, expedir y refrendar el gafete de identificación personal, que deberán portar en forma visible los operadores, conductores y choferes de vehículos de servicio público.
 
 ###### Artículo 65.
 
-Los sujetos pasivos y los retenedores darán aviso a la Tesorería de cualquiera de los siguientes cambios:
+La licencia para conducir vehículos automotores, así como los gafetes de identificación de operadores, conductores y choferes de vehículos de servicio público, se suspenderán:
 
-I. De domicilio;
+I. Por resolución judicial ejecutoriada, durante el tiempo que la misma señale; y
 
-II. De razón o denominación social, a la que acompañarán copia de la escritura correspondiente;
+II. Por resolución administrativa, cuando se compruebe la incapacidad física o mental de su titular para conducir, o en los casos previstos en los artículos 174 y 175 de esta Ley.
 
-III. De sus actividades, cuando aumenten o disminuyan sus obligaciones fiscales;
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-IV. De traspaso de la negociación, clausura definitiva, cese definitivo de actividades o suspensión de operaciones; o
-
-V. En los casos de fusión o escisión.
-
-Los sujetos pasivos y los retenedores a que se refiere este artículo citarán el número de registro que les sea asignado por la Tesorería en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
+III. Por resolución administrativa hasta por 6 meses cuando incurra dentro del término de sesenta días dos ocasiones o más, en cualquiera de las sanciones previstas en los artículos 164, fracción XIII, 166, fracción II, 167 fracciones VI y VII.
 
 ###### Artículo 66.
 
-Son atribuciones de las autoridades fiscales, además de las previstas en el Código de Procedimientos Administrativos, las siguientes:
+La licencia se cancelará en los siguientes casos:
 
-I. Proporcionar orientación y asistencia gratuita a los contribuyentes, con respecto a las disposiciones fiscales de su competencia;
+I. A solicitud del interesado;
 
-II. Contestar las consultas que sobre situaciones reales y concretas le hagan los interesados individualmente. De su resolución favorable se derivarán derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido mediante escrito de la autoridad competente para ello;
+II. Por sentencia que cause ejecutoria;
 
-III. Expedir circulares para dar a conocer a las diversas dependencias o unidades administrativas el criterio que deberán seguir en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacerán obligaciones ni derechos para los particulares. Únicamente se derivarán derechos de las mismas cuando sean publicadas en la Gaceta Oficial y en la Tabla de Avisos del Ayuntamiento;
+III. Cuando el titular contraiga enfermedad o discapacidad permanente que lo imposibilite para manejar;
 
-IV. Solicitar el auxilio de la fuerza pública cuando los contribuyentes, responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, así como imponer sanciones que señalen este Código y los demás ordenamientos fiscales;
+IV. Por resolución administrativa; y
 
-V. Expedir los oficios de designación, credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, vigilancia, verificaciones, requerimientos y demás actos que se deriven de las disposiciones fiscales municipales;
+V. En caso de operadores, conductores o choferes de servicio público, cuando incurran en violación de la tarifa autorizada;
 
-VI. Reconocer la anulabilidad, declarar la nulidad o revocar de oficio los actos administrativos que sean emitidos en contravención a las disposiciones legales aplicables;
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-VII. Contestar las demandas e intervenir como parte en los juicios que se susciten con motivo del ejercicio de las facultades conferidas en este ordenamiento al Ayuntamiento;
+VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un año;
 
-VIII. Designar abogados con el carácter de delegados o autorizados para oír y recibir notificaciones en su nombre y representación en los juicios en que intervenga;
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
 
-IX. Emitir o, en su caso, ordenar la publicación de los edictos que procedan en los asuntos de su competencia;
+VII. Cuando cualquier conductor utilice vehículos de uso privado, que porten los colores asignados por la dependencia del ejecutivo del estado, competente en materia de Vialidad, Tránsito y Transporte, para las unidades del transporte público;
 
-X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, así como los demás registros que establezcan las leyes fiscales; y
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
 
-XI. Determinar, mediante resolución, la responsabilidad solidaria.
+VIII. Cuando cualquier conductor preste el servicio de transporte público sin contar con el permiso o la concesión correspondiente.
 
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XII. Enviar estados de cuenta o cartas invitación de carácter informativo a los domicilios de los contribuyentes sin que se consideren resoluciones administrativas, y sin constituir instancia al tener como finalidad que el contribuyente regularice su situación fiscal;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIII. Utilizar firmas digitales o firmas electrónicas avanzadas, así como sellos digitales, en sustitución de las firmas autógrafas, en documentos que hagan constar el cumplimiento de disposiciones fiscales;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIV. Requerir a los contribuyentes el cumplimiento de sus obligaciones, para el caso de incumplimiento ejercer sus facultades de comprobación;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XV. Interpretar a efectos administrativos y resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a las autoridades fiscales, en la materia que no estén expresamente asignadas por esta (sic) Código a otras autoridades administrativas;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVI. Autorizar convenios de pagos en parcialidades previa solicitud escrita por parte del contribuyente, apreciando discrecionalmente las circunstancias del caso, y
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVII. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y las que le sean delegadas o encomendadas.
-
-### CAPÍTULO V. DEL IMPUESTO SOBRE JUEGOS PERMITIDOS
+### CAPITULO VI. De la circulación
 
 ###### Artículo 67.
 
-Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+Para transitar en las vías públicas de comunicación local, los vehículos deberán contar con un seguro vigente para responder en forma efectiva de los posibles daños a terceros, en los términos que señale el reglamento de esta Ley.
 
 ###### Artículo 68.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica o social de alguna región del territorio municipal. También podrá hacerlo cuando, por cuestiones de salud pública, caso fortuito, fuerza mayor u otras circunstancias, se provoquen trastornos graves, pérdidas materiales o se generen gastos adicionales. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+La dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, podrá autorizar provisionalmente la circulación de un vehículo, sin la documentación completa, mediante permiso que se otorgará en los siguientes casos:
 
-Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
+I. Para darlo de alta en el Registro Estatal, amparándose con el informe de venta o con el aviso de la baja correspondiente. El permiso en este caso se otorgará por una sola vez;
+
+II. Cuando se requiera su traslado de un lugar a otro dentro de las poblaciones del Estado. En el permiso se especificará el lugar en donde se encuentra el vehículo y a donde vaya a ser trasladado. Este permiso se otorgará por una sola vez;
+
+III. Cuando por motivos de reparación tenga que ser trasladado a distinta población. En este caso el permiso se otorgará por una sola vez;
+
+IV. Para llevar a cabo su exhibición al público o su demostración. El permiso se otorgará en los términos que señale el reglamento;
+
+V. Cuando se trate de maquinaria, siempre que su desplazamiento no destruya o deteriore el pavimento de las vías públicas. La autorización se limitará al traslado del vehículo al lugar donde será utilizado; y
+
+VI. En casos distintos a los anteriores, conforme a las disposiciones del reglamento de esta Ley.
+
+Los permisos a que se refiere este artículo en los casos previstos en las fracciones I a IV, tendrán una vigencia máxima de hasta quince días.
 
 ###### Artículo 69.
 
-Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad los créditos fiscales que adeuden, el Tesorero podrá conceder prórrogas adicionales a las previstas en el artículo 40 de este Código para el pago de créditos fiscales, mismas que no podrán exceder de seis meses, pero si a juicio del propio Tesorero se trata de créditos fiscales cuantiosos o situaciones excepcionales, podrá ampliar el plazo hasta por seis meses más; dicho plazo, en ningún caso, podrá rebasar el período constitucional del Ayuntamiento. El Tesorero fijará el monto de la garantía que deberá otorgar el deudor de la prestación fiscal, en su caso.
+Para circular en las vías públicas de comunicación local, los propietarios, legítimos poseedores o conductores de vehículos, deberán acatar las siguientes normas:
+
+I. Todo vehículo debe cumplir con los requerimientos de dimensiones y peso que se especifiquen en el reglamento;
+
+II. Queda prohibido transportar en un vehículo a un número mayor de personas que el especificado en la tarjeta de circulación, o carga que exceda a la capacidad autorizada;
+
+III. Todo vehículo que circule en las vías públicas de comunicación local, deberá estar en buen estado mecánico y contar con los equipos, sistemas, señales, y dispositivos de seguridad que especifiquen esta Ley y sus reglamentos;
+
+IV. Los vehículos automotores deberán contar con dispositivos para prevenir y controlar la emisión de ruidos y contaminantes, conforme a las normas oficiales mexicanas y los ordenamientos ecológicos aplicables;
+
+V. Toda modificación a la estructura o diseño de vehículos automotores deberá realizarse por personal calificado y con estricto apego a las normas oficiales mexicanas;
+
+VI. Los vehículos automotores registrados en el Estado, deberán someterse a las verificaciones mecánicas con la periodicidad que establezcan los ordenamientos aplicables, para comprobar que conservan las condiciones adecuadas para circular, conforme a las disposiciones de esta Ley; y
+
+VII. El reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
 
 ###### Artículo 70.
 
-Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación, fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales o comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para realizar conjunta o separadamente, los siguientes actos:
-
-I. Revisar las bases de datos y los padrones fiscales;
-
-II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales;
-
-III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
-
-IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
-
-V. Calificar, para su aceptación, las garantías del interés fiscal que deban ser otorgadas en favor del Ayuntamiento; hacerlas efectivas y resolver sobre la dispensa o el otorgamiento de las mismas; vigilar que sean suficientes y exigir su ampliación, así como ordenar el secuestro de otros bienes;
-
-VI. Practicar, de conformidad con el procedimiento previsto en Código de la materia, visitas en el domicilio fiscal o negociaciones de los sujetos pasivos, de los responsables solidarios o de los terceros relacionados con ellos, con el fin de verificar el cumplimiento de obligaciones fiscales derivadas de disposiciones legales y reglamentarias, así como de la presentación de documentos e informes relacionados con el cumplimiento de las obligaciones fiscales; revisar sus bienes, mercancías y, en general, la documentación que tenga relación con las obligaciones fiscales y, en su caso, asegurarlos, dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
-
-VII. Proceder a la inspección, verificación física, clasificación, valuación o comprobación de toda clase de bienes;
-
-VIII. Solicitar de los sujetos pasivos, responsables solidarios o terceros con ellos relacionados, toda clase de datos, documentos e informes relacionados con el cumplimiento de las disposiciones fiscales;
-
-IX. Practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes o mercancías, en la forma que para el control de las obligaciones fiscales determine la Tesorería, de conformidad con el Código de Procedimientos Administrativos;
-
-X. Ordenar la clausura provisional o definitiva de establecimientos comerciales por incumplimiento o infracción a las disposiciones fiscales;
-
-XI. Practicar avalúos de bienes inmuebles, de acuerdo a la legislación aplicable;
-
-XII. Designar personal que supervise y verifique el número de personas que ingresen a los espectáculos públicos, así como los ingresos que perciban;
-
-XIII. Autorizar y verificar el manejo de los boletos o documentos que otorguen el derecho de admisión a una diversión o espectáculo público;
-
-XIV. Designar personal para presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban;
-
-XV. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales municipales;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVI. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes, manifestaciones, avisos o avalúos; para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate;
-
-XVII. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, si, a juicio de ésta, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
-
-XVIII. Allegarse las pruebas necesarias para presentar denuncia ante el Ministerio Público, sobre la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva; y
-
-XIX. Cuando los sujetos pasivos, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de comprobación de las autoridades fiscales, éstas podrán indistintamente:
-
-a) Imponer la multa que corresponda en los términos de este Código;
-
-b) Solicitar el auxilio de la fuerza pública; o
-
-c) Solicitar a la autoridad correspondiente que se proceda por desobediencia a un mandato legítimo de autoridad competente.
-
-Las facultades señaladas en las fracciones VI, VII, IX, XII, XIII y XIV de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
+Las autoridades estatales y municipales de vialidad y tránsito, conforme a las normas del reglamento respectivo y como medida de seguridad, retirarán de circulación los vehículos en los casos previstos y conforme al procedimiento que se establece en esta Ley.
 
 ###### Artículo 71.
 
-Las visitas domiciliarias deberán cumplir con las formalidades que señala el Código de Procedimientos Administrativos.
+Las autoridades de vialidad, tránsito y transporte, realizarán las acciones previstas en las leyes federales y estatales en materia de equilibrio ecológico y protección del medio ambiente, en relación a la operación de vehículos, a efecto de que se realice de conformidad a las normas técnicas ecológicas vigentes.
 
 ###### Artículo 72.
 
-Las autoridades fiscales podrán determinar presuntivamente la base gravable de las contribuciones a cargo de los sujetos pasivos, cuando:
-
-I. Se resistan u obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva;
-
-II. No proporcionen la documentación, informes o datos que les soliciten, o los presenten alterados, falsificados o existan vicios o irregularidades en los mismos;
-
-III. No tengan la documentación a que estén obligados;
-
-IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;
-
-V. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
-
-VI. Nieguen u obstaculicen, por cualquier medio, el acceso a los lugares en donde se presenten los espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, al personal designado por las autoridades fiscales para verificar el cumplimiento de las obligaciones del contribuyente;
-
-VII. Nieguen u obstaculicen el acceso a los predios, inmuebles e instalaciones al personal designado por las autoridades fiscales para la práctica de avalúos de los mismos. Se considerará que hay negativa u obstaculización, cuando habiéndose avisado al propietario o poseedor la fecha y hora de la diligencia por medio de citatorio entregado por lo menos con tres días de anticipación, ésta no pueda realizarse por causas imputables a dicho propietario o poseedor;
-
-VIII. No obstante tener la obligación de contar con el permiso o autorización de la autoridad municipal competente, realicen u organicen actos o eventos con omisión de los requisitos legales establecidos; y
-
-IX. Incurran en cualquier otro supuesto que señale el Código de Procedimientos Administrativos.
+Los vehículos no registrados en el Estado y que permanezcan por más de seis meses en el mismo, deberán satisfacer los requisitos exigidos por esta Ley y su reglamento; si su permanencia en el Estado es por menos tiempo, sólo deberán acreditar los requisitos exigidos en el lugar de su procedencia.
 
 ###### Artículo 73.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales procederán de la manera siguiente:
+Las autoridades estatales o municipales de vialidad y tránsito, no están facultadas y por tanto, no deberán requerir a quienes transiten en las vías públicas de comunicación local, el cumplimiento de requisitos diferentes o adicionales a los que deban cumplir en su lugar de procedencia, mismos que se comprobarán mediante los documentos que expidan las autoridades de su jurisdicción, tal como lo previene el artículo 52, de esta Ley.
 
-I. Tratándose de diversiones o espectáculos públicos, el número total de localidades, asientos, lugares o aforo con que cuente el local en donde se desarrolló el espectáculo público, se multiplicará por el precio de la localidad más alta que para dicho espectáculo se hubiere dado, y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna;
+## TITULO CUARTO. De las vías públicas de comunicación local y los servicios conexos
 
-II. Con relación a loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, el número total de boletos o billetes de participación emitidos se multiplicará por el precio de venta de los mismos y el resultado obtenido será considerado como base gravable, la cual no será objeto de deducción o reducción alguna; si no se contare con los elementos suficientes para realizar el procedimiento antes descrito, se considerará como base gravable el triple del valor que en la publicidad o boletos correspondientes se le haya asignado al o a los premios a otorgar; y
-
-III. Para el caso de oposición de los propietarios, poseedores o detentadores de predios, a la práctica de las operaciones catastrales de valuación, tratándose de contribuciones relacionadas con bienes inmuebles, la autoridad fiscal solicitará a la autoridad catastral que determine el valor catastral o catastral provisional de dichos bienes, si éstos no estuvieren valuados previamente por dicha autoridad.
-
-Todo esto sin perjuicio de las formalidades y facultades de las autoridades fiscales que señala el Código de Procedimientos Administrativos.
-
-## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
-
-### CAPÍTULO VI. DE LA CONTRIBUCIÓN ADICIONAL SOBRE INGRESOS MUNICIPALES
+### CAPITULO UNICO. De las concesiones y permisos en las vías públicas de comunicación local
 
 ###### Artículo 74.
 
-Para la comprobación del pago y de la base gravable de las contribuciones, salvo prueba en contrario, se presumirán los supuestos a que se refiere el Código de Procedimientos Administrativos.
+Corresponde al Estado regular y administrar las vías de comunicación local. Se requerirá de concesión o permiso para que los particulares adquieran derechos a fin de:
+
+I. Construir y administrar vías públicas de comunicación local; y
+
+II. Establecer y explotar servicios conexos a las vías públicas.
 
 ###### Artículo 75.
 
-Los servidores públicos que, en el ejercicio de sus funciones, conozcan de acciones u omisiones que puedan entrañar infracción a las disposiciones fiscales, las comunicarán a la autoridad fiscal dentro de los cinco días siguientes a la fecha en que tengan conocimiento de aquéllas.
+El Estado tendrá siempre la facultad de establecer o explotar por sí mismo, o mediante convenios con la Federación, las vías de comunicación objeto de esta Ley. Los convenios que se celebren con esta finalidad, deberán especificar la competencia, derechos y obligaciones que el Estado o la Federación se reserven o asuman, en cuanto a:
+
+I. La construcción, conservación y explotación de las vías;
+
+II. Su inspección y vigilancia;
+
+III. El otorgamiento, revocación, modificación o caducidad de concesiones y permisos; y
+
+IV. La autorización y revisión de tarifas, horarios e itinerarios.
 
 ###### Artículo 76.
 
-Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las disposiciones fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales o municipales, y a las autoridades judiciales cuando la ley impone tal obligación.
+Las concesiones para construir y administrar vías públicas de comunicación local, se regirán por las disposiciones aplicables a las concesiones para el aprovechamiento de bienes del dominio público del Estado o del municipio.
 
 ###### Artículo 77.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que los motiven, cuando el afectado los niegue lisa y llanamente, excepto que la negativa implique la afirmación de otro hecho.
+Para establecer y explotar servicios conexos a las vías públicas de comunicación local, se observarán las disposiciones del reglamento de esta Ley.
 
 ###### Artículo 78.
 
-Corresponde a las autoridades fiscales declarar que una acción o una omisión constituye una infracción a las disposiciones fiscales.
+Los propietarios de terrenos contiguos a las vías públicas de comunicación local, en donde habitualmente exista ganado, deberán cercarlos en forma adecuada para evitar que el mismo represente algún peligro para la circulación.
+
+La dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, procederá a notificar al propietario o poseedor del predio, señalándole un plazo, no menor de treinta días, para que proceda a construir o reparar el cerco de que se trate.
+
+Si el propietario o poseedor del predio no cumplimenta el requerimiento, la autoridad competente podrá sancionarlo de conformidad con lo dispuesto por esta Ley y su reglamento.
 
 ###### Artículo 79.
 
-La aplicación de multas, por infracción a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+Las dependencias municipales competentes en materia de urbanización y edificación, para expedir licencias o permisos de construcción, requerirán el dictamen previo de la dependencia de la administración pública estatal competente en materia de obras públicas, cuando se solicite autorización para:
+
+I. Ejecutar obras en el área del derecho de vía;
+
+II. Realizar obras fuera del área del derecho de vía, cuando afecten a la vía pública o la seguridad de los usuarios;
+
+III. Instalar anuncios; y
+
+IV. Hacer construcciones para servicios conexos o auxiliares al transporte.
 
 ###### Artículo 80.
 
-Son responsables en la comisión de las infracciones previstas en este Código, las personas que se encuentren en las hipótesis normativas de este Capítulo. Se consideran como tales las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales.
+Las licencias o permisos a que se refiere el artículo anterior, se sujetarán a las siguientes normas generales:
 
-## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
+I. No se autorizarán ni permitirán construcciones, ni la instalación de anuncios, a una distancia menor de cien metros de los cruceros en caminos, carreteras y autopistas estatales;
 
-### CAPÍTULO VII. DEL IMPUESTO SOBRE FRACCIONAMIENTOS
+II. Por regla general, en los predios adyacentes a los caminos, carreteras y autopistas estatales, hasta en una distancia de cien metros del límite del área de derecho de vía, no deberá autorizarse ni permitirse realizar trabajos de explotación de canteras o cualesquiera otros que requieran el empleo de explosivos; y
+
+III. Solo en casos justificados, la dependencia estatal competente en materia de obras públicas, emitirá dictamen favorable para que se autorice realizar los trabajos a que se refiere la fracción anterior, exigiendo las garantías y medidas de seguridad que estime convenientes.
+
+## TITULO QUINTO. Del servicio público de transporte
+
+### CAPITULO I. De las modalidades del servicio público de transporte
 
 ###### Artículo 81.
 
-Se libera de la obligación establecida en el artículo 75 a los siguientes servidores públicos:
+Corresponde al Estado planear, establecer, regular y supervisar la prestación del servicio público de transporte, en las vías públicas de comunicación local ya sean urbanas, suburbanas o carreteras de jurisdicción estatal.
 
-I. Aquellos que, de conformidad con otras leyes, tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones; y
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-II. Los que participen en tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+Tratándose de concesiones y permisos para la explotación de las vías públicas de carácter municipal, la Secretaría deberá, previamente, hacer intervenir directamente a los municipios de que se trate, en la formulación y aplicación de los programas de transporte público de pasajeros.
 
 ###### Artículo 82.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones de esa naturaleza o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de las autoridades.
+El servicio público de transporte comprende las siguientes modalidades:
 
-Se considerará que el cumplimiento no es espontáneo en el caso de que:
+I. Transporte de personas y objetos:
 
-I. La omisión sea descubierta y notificada por las autoridades fiscales; y
+a) Servicio colectivo de pasajeros: urbano;
 
-II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
+b) Servicio colectivo de pasajeros: conurbado o metropolitano;
+
+c) Servicio colectivo de pasajeros: suburbano;
+
+d) Servicio colectivo de pasajeros y mixto foráneo:
+
+1.- Interurbano; y
+
+2.- Intermunicipal;
+
+e) Servicios de autos de alquiler o taxis;
+
+1.- Con sitio;
+
+2.- Radiotaxi;
+
+f) Servicio de transporte exclusivo de turismo;
+
+II. Transporte de carga:
+
+a) Servicio de carga;
+
+b) Servicio de carga especial; y
+
+c) Servicio de grúas con sus modalidades:
+
+1.- Arrastre;
+
+2.- Arrastre y salvamento; y
+
+3.- Remolque;
+
+III. Transporte especializado:
+
+a) De ambulancias en el traslado de enfermos o accidentados;
+
+b) De discapacitados;
+
+c) De transporte escolar;
+
+d) De empresas particulares para el traslado de su personal;
+
+e) De empresas funerarias en el desempeño de sus actividades;
+
+f) De vehículos auto-escuela para el aprendizaje de manejo; y
+
+g) De carga liviana con sitio.
+
+Las diferentes modalidades del servicio público de transporte, se regularán por el reglamento respectivo.
 
 ###### Artículo 83.
 
-Siempre que se omita el pago de una contribución cuya determinación corresponda a los servidores públicos municipales, a los notarios o corredores públicos titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes, los accesorios serán a cargo de éstos.
+El servicio colectivo de pasajeros, urbano, conurbado o metropolitano, suburbano y foráneo, se prestará en autobuses cerrados, trolebuses, tren eléctrico o vehículos similares. Sus características específicas serán establecidas en el reglamento correspondiente; estará sujeto a itinerario, horario establecido, y el precio se determinará en la tarifa autorizada.
 
 ###### Artículo 84.
 
-Las autoridades fiscales, al imponer multas por la comisión de infracciones señaladas en este Código y demás disposiciones fiscales, deberán:
+El servicio colectivo de pasajeros urbano, conurbado, suburbano y foráneo, se prestará con itinerario fijo y el precio se determinará en las tarifas autorizadas.
 
-I. Fundar y motivar debidamente su resolución;
-
-II. Tomar en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de combatir prácticas tendientes a evadir la prestación fiscal o a infringir en cualquier otra forma las disposiciones legales o reglamentarias;
-
-III. Considerar como agravante a la infracción fiscal, el hecho de que el infractor sea reincidente. Se da la reincidencia:
-
-a) Tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
-
-b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
-
-Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos tres años.
-
-IV. Considerar como agravante en la comisión de una infracción fiscal, cuando se dé cualquiera de los siguientes supuestos:
-
-a) Que la infracción sea en forma continua.
-
-b) Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas.
-
-Cuando los responsables de una infracción sean varios, se les aplicará en forma individual la sanción que le corresponda, independientemente de la que se imponga a los demás infractores.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 85.
 
-Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso en un formato oficial y se omita hacerlo por alguna de ellas, se aplicará una multa por cada contribución no declarada u obligación no cumplida.
+El servicio de autos de alquiler, taxis o radiotaxis, se prestará en vehículos cerrados, aprobados para el tipo de servicio, sin itinerario; y podrá tener o no horario, además podrá presentarse en dos modalidades, según sea su forma de operar:
+
+I. Sujeto a tarifa con taxímetro de uso obligatorio; y
+
+II. Con tarifas establecidas previamente de acuerdo a la zonificación autorizada por conducto de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos de los organismos auxiliares y de consulta competentes.
+
+Los prestadores de servicio del transporte público de autos de alquiler o taxis que presten el servicio con la modalidad de sitios y que deseen operar en la modalidad establecida en la fracción II, deberán contar con una base que será su punto de partida.
 
 ###### Artículo 86.
 
-Cuando se incurra en agravantes en la comisión de infracciones fiscales, las multas se aumentarán en una cantidad igual al importe de las contribuciones o ingresos retenidos o recaudados y no enterados.
+El servicio de transporte público exclusivo de turismo, se prestará en vehículos especialmente acondicionados, para personas que viajen con fines de esparcimiento, recreo o estudio. Las características de estos vehículos se regularán por el reglamento respectivo.
 
 ###### Artículo 87.
 
-Tratándose de la omisión parcial de contribuciones por error aritmético en las declaraciones, se impondrá una multa del diez al veinte por ciento de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los cinco días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+El servicio público de transporte especializado en sus diferentes modalidades, se prestará en vehículos cuyas características se precisarán en el Reglamento respectivo.
 
 ###### Artículo 88.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de una prestación fiscal:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. No inscribirse en el Padrón Fiscal Municipal, o en el padrón municipal que corresponda, o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea;
-
-II. No incluir, en las manifestaciones para su inscripción, las actividades por las que sea contribuyente habitual;
-
-III. Falsear datos o información a las autoridades fiscales;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. No refrendar su inscripción o registro en el Padrón Fiscal Municipal o hacerlo fuera de los plazos legales establecidos;
-
-V. Obtener o usar más de una clave de registro que corresponda para el cumplimiento de las obligaciones fiscales municipales;
-
-VI. Manifestar negociaciones propias o realizar actividades gravables a través de terceros, sin pagar las contribuciones correspondientes;
-
-VII. No tener los permisos, cédulas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales, en los lugares que para el efecto se señalen; no citar su clave de registro o cuenta, según el caso, en las declaraciones, manifestaciones, solicitudes y gestiones que hagan ante cualquier dependencia;
-
-VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y, en su caso, la licencia correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
-
-IX. Tener en las negociaciones o establecimientos comerciales, industriales o de prestación de servicios, instalaciones diversas de las aprobadas por el Ayuntamiento, cuando las disposiciones legales exijan tal aprobación, o modificarlas sin el correspondiente aviso o permiso;
-
-X. No entregar oportunamente a las autoridades fiscales los comprobantes de pago de las prestaciones fiscales, cuando lo exijan las disposiciones relativas;
-
-XI. Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales; no exigirlos cuando tengan obligación de hacerlo; o no consignar por escrito los actos, convenios o contratos que, de acuerdo con las disposiciones fiscales, deben constar en esa forma;
-
-XII. No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales; no comprobarlos o no aclararlos, cuando las autoridades fiscales lo soliciten;
-
-XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias o documentos a que se refiere la fracción anterior, incompletos, inexactos o con errores que traigan consigo la evasión de una prestación fiscal;
-
-XIV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados;
-
-XV. No pagar, en forma total o parcial, las contribuciones y productos dentro de los plazos señalados por las leyes fiscales;
-
-XVI. Evadir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones u otras maniobras similares;
-
-XVII. Traficar con los documentos o comprobantes del pago de prestaciones fiscales o hacer uso ilegal de ellos;
-
-XVIII. Resistirse por cualquier medio no jurídico al desarrollo de cualquier acto relativo al procedimiento administrativo de ejecución o de las visitas domiciliarias practicadas por las autoridades fiscales; no suministrar los datos e informes que legalmente puedan exigir los visitadores; no mostrar los documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquier otra instalación y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado en relación con el objeto de la visita;
-
-XIX. No conservar la documentación comprobatoria durante el plazo que establece la fracción VII del artículo 61 de este Código. Asimismo, no conservar la documentación o bienes que les sean dejados en depósito en virtud de una visita domiciliaria o de la aplicación del procedimiento administrativo de ejecución;
-
-XX. Omitir total o parcialmente el pago de contribuciones o créditos fiscales de cualquier tipo y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
-
-XXI. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo; y
-
-XXII. Incurrir en cualquier otro acto u omisión distinta de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales.
+El servicio de carga se prestará en vehículos cerrados o abiertos, con las características adecuadas para transportar productos agropecuarios, animales, maquinaria, materiales para la construcción, minerales y en general para todo tipo de mercancías y objetos. El servicio no estará sujeto a itinerario, ni horario determinado, y el precio del mismo podrá o no estar sujeto a tarifa.
 
 ###### Artículo 89.
 
-Son infracciones cuya responsabilidad corresponde a los encargados del Registro Público de la Propiedad, Notarios Públicos, Corredores Públicos, autoridades judiciales y, en general, de los fedatarios públicos:
-
-I. No proporcionar los avisos, datos, informes o documentos que establecen las disposiciones legales o incurrir, al hacerlo, en falsedad o error;
-
-II. Autorizar actos o contratos, cualesquiera que sean, relacionados con fuentes de ingresos establecidos en la legislación municipal, sin cerciorarse previamente de que los contratantes están al corriente en el cumplimiento de sus obligaciones fiscales y en el pago de los impuestos o derechos a su cargo;
-
-III. No proporcionar los avisos, informes o datos, o no exhibir los documentos en el plazo que fijen las disposiciones legales aplicables, o cuando lo pidan las autoridades competentes, presentarlos incompletos o inexactos y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
-
-IV. Proporcionar los informes o documentos a que se refiere la fracción anterior alterados o falsificados;
-
-V. No declarar o enterar las contribuciones municipales a la Tesorería en los términos que establecen las leyes fiscales, cuando les corresponda hacerlo por cuenta de los sujetos pasivos, de obligaciones fiscales que requieran de sus servicios; y
-
-VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o parcial del pago de las contribuciones, mediante alteraciones, simulaciones, ocultación u otras acciones u omisiones.
+El servicio de carga especial será prestado en vehículos acondicionados o que cuenten con equipo adicional, para garantizar el transporte seguro de valores, materiales clasificados como peligrosos de acuerdo a las normas técnicas ecológicas, tales como explosivos, corrosivos, inflamables o contaminantes; o que por sus dimensiones, peso y otras características extraordinarias, representen riesgo. Este servicio no tendrá itinerario, ni horario determinado y podrá o no estar sujeto a tarifa.
 
 ###### Artículo 90.
 
-Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
-
-I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
-
-II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
-
-III. No exigir el pago total de las prestaciones fiscales o recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con los requisitos establecidos por las disposiciones aplicables y en perjuicio del control e interés fiscal;
-
-IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias;
-
-V. Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
-
-VI. Asentar falsamente que se ha dado cumplimiento a las disposiciones legales o que se practicaron visitas domiciliarias o incluir datos falsos en las actas relativas;
-
-VII. No practicar las inspecciones, verificaciones o avalúos cuando tengan obligación de hacerlo;
-
-VIII. Intervenir, durante el ejercicio de sus funciones, en la tramitación o resolución de algún asunto en el que el servidor público tenga interés y del que se derive algún beneficio personal o de terceros con los que tenga relación familiar, laboral o de negocios, cuando estuviere impedido para hacerlo de acuerdo a las disposiciones legales;
-
-IX. Faltar a la obligación de guardar absoluta reserva respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos;
-
-X. Facilitar o permitir la alteración de declaraciones, avisos o cualquier otro documento o coadyuvar en cualquier forma para que se evadan las prestaciones fiscales;
-
-XI. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
-
-XII. Exigir cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias de su cargo; y
-
-XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+El servicio de grúa en sus modalidades de arrastre, arrastre y salvamento, así como el de remolque de cualquier tipo, es el adaptado para transportar o remolcar cualquier clase de objetos, maquinaria u otros vehículos. No estará sujeto a itinerario ni horario determinado y las tarifas en cada una de las modalidades señaladas, serán fijadas por la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, las cuales no podrán ser rebasadas; pero los concesionarios podrán ajustarlas a la baja según su conveniencia y acuerdo con el usuario.
 
 ###### Artículo 91.
 
-Son infracciones cuya responsabilidad recae sobre terceros:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Consentir o tolerar que se inscriban a su nombre en el Padrón Fiscal Municipal negociaciones o establecimientos ajenos, así como realizar a nombre propio actividades gravables que correspondan a otra persona, cuando esto último traiga como consecuencia la omisión en el pago de contribuciones;
-
-II. No proporcionar avisos, informes, datos, documentos o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades lo exijan con apoyo en sus facultades legales y, en su caso, no aclararlos cuando las mismas autoridades lo soliciten;
-
-III. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior incompletos, inexactos, alterados o falsificados;
-
-IV. Autorizar o hacer constar documentos, inventarios, balances, asientos, valores o datos falsos o inexactos cuando actúen como contadores, peritos, valuadores o testigos;
-
-V. Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales;
-
-VI. Ser cómplice, en cualquier forma, en la comisión de infracciones fiscales;
-
-VII. No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar;
-
-VIII. Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones;
-
-IX. Adquirir, ocultar, retener o enajenar productos, mercancías, artículos y, en general, toda clase de bienes, a sabiendas de que no se cubrieron las contribuciones que en relación con aquellos se hubieran debido pagar;
-
-X. Aceptar documentos con los que pretenda comprobarse el cumplimiento de las obligaciones de las disposiciones fiscales, cuando no se haya cumplido con el pago de la prestación fiscal o no se acredite su cumplimiento de acuerdo con las disposiciones fiscales;
-
-XI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales;
-
-XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos;
-
-XIII. No guardar absoluta reserva respecto de los asuntos que conozcan, cuando intervengan como representantes de los contribuyentes en juntas o reuniones que califiquen, tabulen o aprueben en su caso determinaciones para efectos fiscales; y
-
-XIV. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
+El servicio de transporte mixto-foráneo, se prestará para transportar personas y objetos en el mismo vehículo, el cual deberá estar acondicionado en forma adecuada para la comodidad y seguridad de los pasajeros, de su equipaje y de la carga transportada. Este servicio deberá tener itinerario, horario determinado y su precio máximo se determinará según las tarifas autorizadas para personas y objetos.
 
 ###### Artículo 92.
 
-Las autoridades fiscales impondrán las sanciones administrativas por infracción a las disposiciones de este Capítulo, de acuerdo a lo siguiente:
+Para los efectos de esta Ley, se considera que no tienen carácter de servicio de transporte público:
 
-I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
+I. El transporte de carga que realicen los productores agropecuarios o las agrupaciones de éstos, legalmente constituidas, en vehículos de su propiedad, para trasladar sus insumos o productos;
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-a) De 8.9831 a 26.94 UMA, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV;
+II. Los servicios a que se refieren los artículos 86 al 90, de esta Ley, cuando atiendan única y exclusivamente a los fines de la propia empresa o institución;
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
 
-b) De 27 a 53.89 UMA, por infracción a las fracciones XIX, XXI y XXII; y
+III. El servicio de vehículos en arrendamiento, que se preste a personas sin incluir en el contrato los servicios de conductor, mediante el pago de una renta por días, horas o distancia recorrida. Sin embargo, cuando se trate de vehículos que pertenezcan a empresas cuya actividad sea específicamente el arrendamiento de vehículos, tendrán la obligación de registrarlos ante el Registro Estatal de los Servicios Públicos de Tránsito y Transporte; y
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2003)</small>
 
-c) De 54 a 89.8306 UMA, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII y XVIII;
-
-II. La infracción que establece la fracción XX del artículo 88 de este Código, se sancionará con multa igual al valor del crédito omitido;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de 90 a 179.6611 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de 134.74 a 179.6611 UMA; y
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de 80.85 a 161.70 UMA.
-
-Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
-
-Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. El transporte que realicen los particulares de carga ligera en vehículos de uso privado para transportar determinados bienes muebles o enseres de su propiedad.
 
 ###### Artículo 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 8.98 a 179.66 UMA.
+Los vehículos destinados al servicio público de transporte, se sujetarán a las siguientes normas generales y a las particulares que establezca el reglamento correspondiente:
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+I. Tratándose de vehículos para el transporte de personas, tanto los modelos de los mismos, como su antigüedad máxima para su incorporación al servicio, así como la fecha en que deberán de sustituirse, serán establecidos en el reglamento correspondiente;
+
+II. Las características específicas de los vehículos para cada modalidad del servicio público de transporte, sus condiciones de seguridad, comodidad y capacidad para transportar personas y carga, así como los colores y emblemas que los identifiquen, se precisarán en el reglamento de esta Ley; y
+
+III. En el caso de vehículos para carga especial, se aplicarán las normas de seguridad establecidas por las autoridades competentes en materia de protección del medio ambiente, seguridad y protección civil.
+
+### CAPITULO II. De las concesiones y permisos para la prestación del servicio público de transporte
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
 
 ###### Artículo 94.
 
-Los delitos fiscales son de comisión intencional, dirigidos a causar un daño patrimonial al erario municipal y sancionado por este Código.
+Las personas físicas o jurídicas para participar en la prestación del servicio público de transporte, en cualquiera de sus modalidades, requerirá obtener concesión o permiso según corresponda, expedida por el Ejecutivo del Estado, por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte y se encontrarán limitadas hasta tres concesiones o permisos por persona física. Así mismo, las concesiones o permisos para la prestación del servicio público de transporte de autos de alquiler, sitio, taxis o radiotaxis sólo se otorgará a personas físicas.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros, deberá elaborar colegiadamente con los ayuntamientos, los programas de transporte público de pasajeros que elaboren las autoridades competentes, ya sea para renovarlos o los nuevos que se expidan al otorgar nuevas concesiones o permisos, siempre y cuando se trate de vías públicas locales de carácter municipal.
 
 ###### Artículo 95.
 
-Para proceder penalmente por los delitos previstos en este Título, será necesario que el Síndico formule la querella respectiva; en los casos previstos por el artículo 111 de este Código, cualquier persona podrá denunciar los hechos ante el Ministerio Público.
+El Ejecutivo del Estado expedirá las concesiones o permisos para la prestación del servicio público de transporte, conforme a las siguientes bases generales:
 
-El derecho para formular la querella por delitos fiscales prescribirá en un año, a partir del día en que se tenga conocimiento del delito; y en tres años, independientemente de esta circunstancia.
+I. La concesión o permiso otorga a su titular un derecho, no exclusivo, para prestar el servicio público de transporte en la modalidad y características que se especifiquen;
+
+II. La duración ordinaria de las concesiones y permisos de autos de alquiler, taxis o radiotaxis será de cinco años. No obstante, a petición de sus titulares, podrán prorrogarse por periodos de igual tiempo, siempre que aquéllos acrediten haber cumplido con las condiciones que para tal efecto se impongan, y previo el pago que establezcan las leyes hacendarias aplicables. La duración extraordinaria de las concesiones para transporte masivo ecológico se establecerá a propuesta que formule el Organismo Coordinador;
+
+III. Por regla general sólo se tramitará una concesión por persona física ó jurídica y la misma amparará únicamente un vehículo. Sin embargo, excepcionalmente se podrá conceder un mayor número de concesiones para transporte masivo ecológico, así como el número de vehículos o unidades amparados por cada concesión, siempre y cuando se acrediten los extremos siguientes:
+
+a) La necesidad de la prestación del servicio público de transporte en determinada modalidad;
+
+b) La urgencia o conveniencia de satisfacer esa demanda;
+
+c) El beneficio que su otorgamiento signifique para el interés público por la magnitud de la inversión; por la transferencia de tecnología que se genere, o por el impacto positivo que redunde en el provecho social;
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+d) La opinión favorable del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Servicio de transporte Público y del Centro Estatal de Investigación de la Vialidad y Transporte, así como del ayuntamiento, cuando la concesión o permiso afecte su ámbito territorial.
+
+e) La convocatoria a una licitación pública para la prestación de dicho servicio;
+
+IV. Los derechos derivados de una concesión o permiso de auto de alquiler, taxi o radiotaxi, no son embargables ni gravables;
+
+V. Las concesiones y permisos y los derechos derivados de las mismas, sólo serán transmisibles en los casos, conforme a las condiciones y cumpliendo con los requisitos que se especifican en el presente Ordenamiento;
+
+VI. El Registro Estatal certificará a quién corresponde la titularidad de las concesiones y permisos de autos de alquiler, taxi o radiotaxi, sus modalidades y los actos que se hayan realizado respecto de las mismas; y
+
+VII. La participación de personas físicas y jurídicas extranjeras en el servicio público de transporte en las vías públicas de comunicación local, se sujetará a los requisitos y condiciones previstos en las (sic) ley y los tratados internacionales vigentes.
 
 ###### Artículo 96.
 
-El que tenga conocimiento de un delito procederá a comunicarlo por escrito a la autoridad fiscal, precisando los hechos que lo constituyen. Lo anterior tendrá el carácter de confidencial y, si un servidor público violare esta disposición, se le aplicará la sanción prevista en el artículo 111, fracción I, inciso b) de este Código. Si se tratare de un particular, se le impondrá la sanción que corresponda.
+El Ejecutivo del Estado, a través de la dependencia competente en materia de vialidad, tránsito y transporte, expedirá los permisos temporales para la prestación del servicio público de transporte, conforme a las siguientes bases generales:
+
+I. Los permisos otorgan el derecho de prestar el servicio público de transporte, en la modalidad y con las características que se especifiquen, para atender, por un plazo determinado, un incremento en la demanda del servicio público;
+
+II. Los permisos se otorgarán, preferentemente, a quienes sean titulares de concesiones en las modalidades del servicio público de transporte que corresponda. Unicamente cuando los concesionarios no estén en condiciones de atender a la demanda extraordinaria del servicio, se otorgarán permisos a personas distintas;
+
+III. Los permisos se expedirán para un plazo determinado, no mayor de ciento veinte días. Dichos permisos podrán prorrogarse a solicitud de su titular, por una sola vez, por el mismo plazo para el cual fueron inicialmente expedidos;
+
+IV. Los permisos precisarán la causa que motive su expedición o prórroga; y
+
+V. Los permisos y los derechos derivados de los mismos, en ningún caso serán transmisibles, ni crearán derechos permanentes a favor de sus titulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 97.
 
-Serán responsables de la comisión de delitos fiscales, quienes:
+Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi y del servicio público colectivo de transporte, tendrán los siguientes derechos y obligaciones:
 
-I. Realicen la conducta o hecho, tipificado y legalmente descrito en el Código;
+I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
-II. Concierten, maquinen o asesoren en su ejecución;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-III. Concreten su realización;
+II. En el caso del transporte público, deberán destinar al menos dos asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
 
-IV. Lo realicen conjuntamente;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-V. Presten dolosamente ayuda en su realización; o
+III. Proteger, orientar y respetar a los usuarios del servicio;
 
-VI. Encubran su ejecución.
+IV. Entregar al usuario en su caso contra el pago del precio, el boleto o comprobante correspondiente;
 
-Cuando el delito se cometa por medio de persona moral, el responsable será el representante legal de ésta, independientemente de la responsabilidad que los socios tengan en la comisión del ilícito.
+V. Responder de los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje y a sus pertenencias, por accidentes ocurridos con motivo de la prestación del servicio; para tal efecto estarán obligados a contar con un seguro de viajero que cubra el daño a las cosas, atención médica y hospitalaria a las personas;
+
+VI. Verificar que los conductores u operadores a su servicio, reúnan los requisitos establecidos en esta Ley y se desempeñen conforme a las fracciones II a V, de este artículo;
+
+VII. Identificar a sus vehículos mediante los colores, emblemas y numeración que asigne la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, correspondientes al servicio concesionado y a su adscripción por localidad; de acuerdo a la agrupación a que pertenezcan o al titular de la concesión;
+
+VIII. Inscribirse y mantener actualizada su inscripción en el Registro Estatal;
+
+IX. Solicitar la prórroga de la concesión;
+
+X. Podrán integrar personas jurídicas que los representen ante las autoridades estatales y municipales, en los actos relativos a la administración del servicio público de transporte, conforme a su modalidad y clase; y
+
+XI. En caso de ser persona física el concesionario o permisionario podrá designar libremente a quien deba sucederle en sus derechos derivados de la concesión, conforme al procedimiento establecido en el artículo siguiente de esta Ley.
 
 ###### Artículo 98.
 
-Serán responsables de encubrimiento en los delitos fiscales quienes, sin previo acuerdo y sin haber participado en ellos, después de su ejecución:
+Para los efectos de la última fracción del artículo que antecede, se estará a las disposiciones siguientes:
 
-I. Con ánimo de dominio, lucro o uso, adquieran, trasladen, reciban u oculten el producto u objeto del delito, a sabiendas de que provenía de éste, o sin tomar las debidas precauciones para cerciorarse de su legítima procedencia o que, de acuerdo a las circunstancias, debían presumir su ilegitimidad o ayuden a otro para los mismos fines; o
+I. Formulará una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia que se respetará al hacer la adjudicación de derechos a su fallecimiento;
 
-II. Ayuden en cualquier forma al inculpado a eludir las investigaciones de la autoridad con el propósito de evadirse de la acción de la justicia, o bien oculten, alteren, destruyan o hagan desaparecer las huellas, vestigios, pruebas o instrumentos del delito o aseguren para el inculpado el objeto o provecho del mismo.
+II. La lista de sucesión deberá ser depositada en el Registro Estatal o formalizada ante notario público; en este caso, el fedatario estará obligado a verificar el depósito de la lista en el Registro Estatal;
 
-En los casos previstos por la fracción I de este artículo, si el delito se comete con ánimo de dominio o uso se sancionará a los responsables con prisión de tres meses a dos años; si es con ánimo de lucro, con prisión de un año a cuatro años.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-En los supuestos de la fracción II, se impondrá sanción de seis meses a tres años de prisión.
+III. Con las mismas formalidades, la lista de sucesión podrá ser modificada por el propio concesionario, cuando as¡ (sic) lo determine, en cuyo caso será válida la de fecha posterior. Para el caso de los permisionarios, éstos harán una lista de quiénes tienen derecho preferente a utilizar el permiso durante el resto de su vigencia, en caso de faltar el titular del mismo;
+
+IV. A falta de lista de sucesión, en el caso de fallecimiento de su titular, los derechos se transmitirán conforme a las disposiciones en materia de sucesiones, establecidas en la legislación civil.
 
 ###### Artículo 99.
 
-En los procesos penales instaurados por la comisión de delitos fiscales, la acción penal se extinguirá cuando el perdón judicial se otorgue:
+Si fallece el titular, la concesión deberá actualizarse en los términos de su vigencia, a favor de la persona que tenga derecho, conforme a lo dispuesto en el artículo anterior.
 
-I. Expresamente por el Síndico;
-
-II. Una vez que el inculpado haya pagado el crédito fiscal y todos sus accesorios legales, originados por la comisión del ilícito de que se trate o, en su caso, que a juicio de la autoridad fiscal quede debidamente garantizado el interés del erario municipal; y
-
-III. Antes de que se dicte sentencia definitiva.
-
-El perdón judicial que se otorgue a uno de los inculpados beneficiará a los demás copartícipes o encubridores.
-
-No se podrá otorgar perdón, en ningún caso, al inculpado que durante los cinco años anteriores se le haya concedido el mismo beneficio por la comisión de delitos fiscales.
+Para hacer valer el derecho como sucesor, el interesado deberá presentar la solicitud correspondiente ante la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, en un plazo que no deberá exceder de sesenta días hábiles, a partir de la fecha del fallecimiento del titular de la concesión o permiso, que dé origen a esta renovación.
 
 ###### Artículo 100.
 
-La persona condenada por delitos fiscales gozará de los beneficios que establece el Código Penal para el Estado, siempre y cuando se acredite que el interés fiscal ha quedado resarcido o garantizado plenamente.
+El titular de una concesión o permiso, al término de ésta, podrá solicitar su prórroga, si acredita ante la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte que cumplió con todos y cada uno de los requisitos de esta Ley.
 
 ###### Artículo 101.
 
-Cuando en la comisión de delitos fiscales intervengan o participen auditores, notificadores, técnicos fiscales, contadores, economistas, abogados o peritos, o de alguna otra profesión, o personas que tengan el carácter de autoridad fiscal, independientemente de las penas que les correspondan conforme al delito de que se trate en este Código, se les inhabilitará para ejercer su profesión o actividad, hasta por tres años, o definitivamente, según lo resuelva el Juez, conforme a las reglas generales establecidas en el Código Penal para el Estado de Veracruz.
+A fin de obtener la prórroga de la concesión o permiso, su titular deberá:
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+I. Presentar solicitud por escrito dentro de los sesenta días hábiles anteriores al vencimiento de la concesión o, quince días anteriores del vencimiento del permiso, ante la dependencia del Ejecutivo del Estado, competente en materia de Vialidad, Tránsito y Transporte;
+
+II. Acreditar en la forma que precise el reglamento; y
+
+III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, conductores y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2003)</small>
+
+La falta de solicitud de prórroga en el plazo previsto en este artículo, será sancionado de 20 a 50 días de salario mínimo general, vigente en la zona económico (sic) que se trate. Si pasados 10 días hábiles de que a través del Registro Estatal se haya impuesto legalmente la sanción mencionada, no se tramita la prórroga, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ellas se deriven.
+
+La autoridad deberá comunicar al interesado lo resuelto a su solicitud, así como informar el contenido de su resolución al Registro Estatal y a la Secretaría de Finanzas. Si presentada en tiempo y forma la solicitud y esta no es contestada por la autoridad dentro de un plazo de noventa días, se entenderá favorable la misma al interesado.
 
 ###### Artículo 102.
 
-Los servidores públicos a quienes se imputen la comisión de un delito fiscal y estén sujetos a proceso, serán suspendidos en sus derechos laborales, a partir del momento en que se les dicte auto de formal prisión. Emitida la resolución del proceso penal y que haya causado estado, el superior jerárquico del inculpado procederá a:
-
-I. Si resultare inocente, ordenar la restitución de sus derechos; o
-
-II. Si resultare culpable, ordenar el cese definitivo y turnar el expediente a la autoridad competente para que determine su inhabilitación.
+La concesión o permiso será prorrogada a favor de su titular si está prestando el servicio público de transporte y subsiste la necesidad del servicio, siempre que no se afecte el interés público y se cumplan los requisitos señalados en esta Ley.
 
 ###### Artículo 103.
 
-Se considera que hay tentativa en los delitos fiscales, cuando exista en el sujeto activo del delito intención dirigida a cometerlos y se exteriorice en un principio de ejecución o en la realización de actos que debieran producirlos, si no se consuma por causas ajenas a su voluntad.
-
-La tentativa se sancionará con prisión de hasta las dos terceras partes de la que corresponda por el delito de que se trate, si éste se hubiese consumado.
-
-Si el autor desistiere de la ejecución o impidiere la consumación del delito, no se le impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
+La prórroga se autorizará por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, mediante acuerdo que se informará al Registro Estatal, para los efectos de asentar las inscripciones, respecto de las concesiones que se prorrogan y aquellas que se declaren extintas, a efecto de realizar la anotación correspondiente.
 
 ###### Artículo 104.
 
-Para los efectos de este Código, se entenderá por delito continuado, aquel cuya acción se prolonga en el tiempo, con unidad de resolución, pluralidad de acciones y unidad de violación al bien jurídico tutelado.
+Los concesionarios o permisionarios del servicio público de transporte de pasajeros, invariablemente deberán entregar a los usuarios el boleto o comprobante que acredite el pago del servicio, el cual, contendrá los datos y las características que se precisen en el reglamento, a fin de:
 
-En el delito continuado, la sanción podrá aumentarse hasta por una mitad más de la que resulte aplicable al delito de que se trate.
+I. Indicar la modalidad y clase del servicio;
+
+II. Identificar al concesionario o permisionario y al vehículo asignado;
+
+III. Informar al usuario con relación al seguro que lo protege contra los riesgos en su transportación;
+
+IV. Señalar el precio o cuota pagado por el usuario; y (sic).
 
 ###### Artículo 105.
 
-Existe reincidencia, cuando el sancionado por sentencia ejecutoria comete otro delito en materia fiscal municipal.
-
-Al reincidente se le aplicará la sanción privativa de libertad que corresponda por el último delito cometido, la que podrá aumentarse hasta en tres años.
+Los concesionarios y permisionarios del servicio público de transporte, deberán adquirir y conservar vigente un seguro, de acuerdo con la reglamentación que al respecto se expida, con el objeto de hacer efectivas las obligaciones que se establecen en la fracción V, del artículo 97, de esta Ley, en el que queden puntualizados los montos de las indemnizaciones.
 
 ###### Artículo 106.
 
-Para los delitos señalados en este Título se aplicarán supletoriamente las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado de Veracruz.
+Los concesionarios y permisionarios, sin alterar las características a que se refiere la fracción VII, del artículo 97, de esta Ley, deberán colocar en sus vehículos emblemas o distintivos, a fin de:
+
+I. Identificar las unidades de transporte habilitadas para el servicio de personas con discapacidad; y
+
+II. Ofrecer servicios y atenciones especiales a los usuarios en las modalidades que el concesionario o permisionario considere convenientes.
 
 ###### Artículo 107.
 
-Las actas administrativas harán prueba plena en materia fiscal municipal, siempre que:
+Las personas jurídicas que constituyan los concesionarios o permisionarios del servicio público de transporte, tendrán por objeto:
 
-I. Sean elaboradas por autoridad fiscal competente;
+I. Representar a sus asociados ante las autoridades y organismos auxiliares, en los actos previstos en este Ordenamiento;
 
-II. Intervengan, por lo menos, dos testigos de asistencia; y
+II. Promover la capacitación de las personas que realicen actividades relacionadas con la prestación del servicio público, como choferes conductores, operadores, despachadores y supervisores;
 
-III. Se asiente la firma del interesado o se haga constar el motivo o la causa de su negativa a firmar; pero cuando resulte imposible localizar al interesado, se asentarán las razones y circunstancias que justifiquen la ausencia.
+III. Coordinar sus actividades, operar terminales, adquirir insumos, mejorar sus sistemas de mantenimiento, reducir los costos de operación; y
+
+IV. Otras actividades que no contravengan las disposiciones de esta Ley, que tiendan a brindar un mejor servicio.
+
+El acta constitutiva que contenga los estatutos de la persona jurídica, deberá otorgarse ante fedatario público y, para los efectos de esta Ley, inscribirse en el Registro Estatal.
 
 ###### Artículo 108.
 
-Los bienes muebles asegurados por la comisión de un delito fiscal, cuyo proceso hubiere concluido, se adjudicarán en forma definitiva a la Hacienda Pública Municipal, mediante resolución judicial, si después de un año, contado a partir del aseguramiento, no se reclamaren por quien tenga derecho para hacerlo.
+Los trabajadores del transporte que presten sus servicios como choferes, conductores u operadores de vehículos de servicio público, con la finalidad de acreditar su antigüedad con el propósito de acreditar su antigüedad (sic) para los fines de esta Ley, deberán inscribirse y mantener actualizada su inscripción en el Registro Estatal.
 
-### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA EN EL PADRÓN FISCAL MUNICIPAL DE UNIDADES ECONÓMICAS
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 195.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Artículo 194 (SIC).- Es objeto de este derecho el registro o refrendo al Padrón Fiscal Municipal de Unidades Económicas existentes en el territorio municipal, así como las autorizaciones que modifiquen su régimen de operación, y las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Se entiende por despliegue técnico, las actividades que tienen como propósito corroborar mediante la supervisión y revisión a las unidades económicas y a la universalidad de éstas, con el fin de verificar el debido cumplimiento de los lineamientos municipales de protección al medio ambiente, uso de suelo, seguridad física del inmueble, salud pública, prevención en materia de vialidad, protección civil y seguridad pública, con la finalidad de salvaguardar la vida de las personas.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Los titulares de las Unidades Económicas, deberán pagar por la prestación de los servicios brindados por el Municipio durante el transcurso del ejercicio fiscal, como obligación administrativa, por la implicación de una serie de verificaciones y/o inspecciones ordinarias o extraordinarias que se traducen en trabajo de campo y de gabinete derivado de las consecuencias de las actividades realizadas por las mismas según sea el caso específico, dichas cuotas por el registro y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas tiende a garantizar los derechos humanos a un ambiente sano, a la vida, a la seguridad pública, a la salud y a la urbanización, con la finalidad de ponderar los derechos de los habitantes de este Municipio y con ello optimizar su calidad de vida y satisfacer lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) Se entiende por verificaciones ordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de diversas dependencias de forma periódica, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) Se entiende por verificaciones extraordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de sus diversas dependencias de forma espontánea o por caso fortuito, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 196.]</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+### CAPITULO III. De las bases generales para otorgar concesiones del servicio público de transporte
 
 ###### Artículo 109.
 
-Comete el delito de falsificación fiscal quien, con el fin de obtener un lucro o provecho, o para causar daño o perjuicio al erario municipal, falsifique o altere documentación oficial; en este caso, se le impondrán las sanciones siguientes:
-
-I. De nueve meses a cuatro años de prisión, a quien falsifique sellos, contraseñas o marcas oficiales, firmas, rúbricas en forma total o parcial, grabe o manufacture, sin autorización de la autoridad fiscal, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia autoridad usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
-
-II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele, sin autorización de la autoridad fiscal, cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen como medios de control fiscal;
-
-III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. De seis meses a dos años de prisión y una multa de 53.89 a 898.31 UMA, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, determinará, de conformidad con los estudios y datos proporcionados por los organismos competentes, el número de concesiones que el Ejecutivo vaya a otorgar en cada modalidad del transporte, y aprobará la convocatoria para que los interesados presenten sus solicitudes.
 
 ###### Artículo 110.
 
-Comete el delito de defraudación fiscal quien, mediante engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga o contribuya a obtener un beneficio indebido, en perjuicio del erario municipal, por alguno de los supuestos siguientes:
-
-I. Realizar actos simulados que tengan por objeto defraudar a la Hacienda Pública Municipal;
-
-II. Consignar en las declaraciones ingresos o utilidades menores que los realmente obtenidos, o aplicar deducciones falsas;
-
-III. Proporcionar con falsedad a las autoridades fiscales, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que cause;
-
-IV. Ocultar a las autoridades fiscales, total o parcialmente, la producción sujeta a impuestos o el monto de las ventas;
-
-V. No expedir los documentos o comprobantes fiscales con los requisitos establecidos por las disposiciones aplicables para acreditar el pago de una contribución de esa naturaleza;
-
-VI. No enterar en tiempo y forma a las autoridades fiscales, las cantidades que hubiere recaudado de los contribuyentes, por concepto de contribuciones;
-
-VII. No mantener los registros de las operaciones contables, fiscales o sociales, conforme a las disposiciones legales aplicables;
-
-VIII. Destruir, ordenar o permitir la destrucción total o parcial de los registros contables que prevengan las leyes aplicables;
-
-IX. Certificar hechos falsos o participar en cualquier forma en actos, manifestaciones o simulaciones que tengan por objeto engañar al Fisco Municipal;
-
-X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o alterados; y
-
-XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede 1,796.62 UMA, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
-
-Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
-
-No se procederá legalmente si quien hubiere cometido el delito entera espontáneamente la contribución omitida, con sus accesorios, antes de que la autoridad fiscal lo descubra.
-
-Para la aplicación de sanciones se tomará en cuenta el monto de las contribuciones defraudadas dentro de un mismo período fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+Propondrá también la substitución de las que hayan sido canceladas o estén vacantes, mismas que se otorgarán a quienes tengan derecho y manifiesten interés, con base en los estudios y datos proporcionados por los organismos competentes.
 
 ###### Artículo 111.
 
-Comete el delito de ejercicio indebido de la función pública en materia fiscal, el servidor público que ordene o realice cualquier acto ilegal o deje de cumplir con los deberes de su encargo o función, en perjuicio del erario municipal, de los derechos de una persona física o moral o en beneficio propio o ajeno. Se impondrá prisión de:
+El Ejecutivo estatal, a través de la dependencia competente en materia de vialidad, tránsito y transporte, otorgará las concesiones observando el siguiente procedimiento:
 
-I. De tres meses a dos años, a quien:
+I. Informará al Organismo Coordinador, el número de concesiones que se proponga otorgar y la convocatoria que haya autorizado;
 
-a) Practique visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
+II. Para el caso de la (sic) concesiones extraordinarias de transporte masivo ecológico, a efecto de obtener la autorización prevista en la fracción XX, del artículo 50, de la Constitución Política del Estado de Jalisco, la solicitará al Congreso del Estado, presentando la siguiente documentación:
 
-b) Al que proporcione información confidencial, o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión en perjuicio del erario municipal, con el propósito de obtener un lucro indebido en beneficio propio o ajeno.
+a) El número de concesiones que se proponga otorgar, indicando su modalidad y si son nuevas o fueron declaradas canceladas o vacantes;
 
-II. De dos años a seis años, a quien:
+b) La información sobre las características de las concesiones y, en general, los términos de las mismas;
 
-a) Acepte como legales, documentos que presenten evidentes indicios de falsificación, con el propósito de realizar cualquier tipo de trámite del orden fiscal, incluso el de ostentar el pago de alguna prestación de ese carácter, sin que sea cierto.
+c) La convocatoria autorizada;
 
-b) Reciba dádivas, exija gratificaciones, extorsione a los contribuyentes u obtenga otros lucros indebidos, con objeto de realizar algún trámite de carácter fiscal, en razón de su encargo o comisión.
+d) La opinión, datos y estudios de los organismos competentes; y
 
-c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisión de sellos o grabados, sin la debida autorización; o bien los posea, proporcione, utilice o comercie con ellos.
+e) El proyecto de iniciativa de la concesión que se propone para otorgar las mismas;
 
-Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
+III. En forma conjunta con el Organismo Coordinador, publicará la convocatoria para otorgar las concesiones en el Periódico Oficial "El Estado de Jalisco" y en un periódico de mayor circulación, indicando su modalidad, condiciones y el número disponible, así como la referencia a la resolución del Congreso del Estado en donde se haya otorgado su autorización cuando le competa;
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Asimismo, se publicará en el Periódico Oficial "El Estado de Jalisco" y en un periódico, el de mayor circulación en la zona o municipio en que operará el servicio, el acuerdo que resuelva sobre el otorgamiento de las concesiones, indicando los nombres de las personas a quienes se haya acordado otorgarlas;
+
+V. En su caso, la publicación a que se refiere la fracción anterior, indicará la antigüedad de los solicitantes como conductores u operadores de vehículos del servicio público de transporte;
+
+VI. La información relativa a las concesiones otorgadas, se enviará al Organismo Coordinador y a la Contaduría Mayor de Hacienda del Congreso del Estado; y
+
+VII. La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, verificará que las concesiones otorgadas, queden debidamente inscritas en el Registro Estatal.
 
 ###### Artículo 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de 53.90 a 898.31 UMA, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+En los casos establecidos por esta Ley, el derecho de preferencia para adquirir la titularidad de una concesión de servicio público de transporte de personas y objetos, con ruta determinada, que se otorga a los conductores u operadores de este servicio, se regulará con el procedimiento siguiente:
 
-# LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
+I. Se otorgará preferencia a las solicitudes de quienes acrediten una antigüedad en la prestación del servicio, no menor a tres años;
+
+II. Entre los solicitantes que acrediten una antigüedad mínima de tres años, se otorgará preferencia a quienes no sean concesionarios; y
+
+III. En igualdad de condiciones, se preferirá a quienes acrediten mayor antigüedad en la prestación del servicio.
 
 ###### Artículo 113.
 
-Es objeto del Impuesto Predial:
+Para los efectos del artículo anterior:
 
-I. La propiedad de predios urbanos, suburbanos o rurales ubicados en el Municipio;
+I. La antigüedad de los solicitantes como conductores u operadores de vehículos de servicio público, se acreditará mediante el registro que elabore el Registro Estatal, en el que deberá incluirse a los conductores y operadores actuales, con reconocimiento de la antigüedad que demuestren como tales; y
 
-II. La posesión de predios urbanos, suburbanos o rurales ubicados en el Municipio, en términos del derecho común, la Ley de Catastro y su Reglamento; y
+II. El propio Registro Estatal certificará si los solicitantes son o no titulares de concesiones del servicio público de transporte, indicando en su caso la modalidad, clase y datos del vehículo autorizado para operar al amparo de la misma.
 
-III. La propiedad o posesión ejidal o comunal.
-
-El objeto del impuesto a que se refiere este artículo incluye la propiedad o posesión de las construcciones permanentes edificadas sobre los predios; tratándose de predios rurales, el objeto del impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente con fines agrícolas, ganaderos o forestales.
-
-### CAPÍTULO III. DE LOS DERECHOS POR OBRAS MATERIALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 206.
-
-Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, en términos de las disposiciones legales y reglamentarias en la materia, conforme a los conceptos siguientes:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Alineamiento de predios;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Asignación de número oficial;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Expedición de licencias que tendrán como propósito autorizar cualquier modificación a bienes inmuebles que por su naturaleza o por disposición de la Ley estén destinadas al servicio público o sean propiedad de particulares:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) De construcción, reconstrucción o remodelación de bardas;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) De construcción para obra nueva, ampliación, modificación, reconstrucción o reparación que afecte elementos estructurales de una obra existente, para modificación del proyecto de una obra autorizada, por remodelación de fachadas, estacionamientos, patios de maniobras o almacenaje;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-c) Para fusionar, subdividir, generar servidumbre de paso, actos de fusión-subdivisión, actos de subdivisión-fusión, lotificación, relotificación y fraccionamiento de cualquier predio y su regularización;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DEL INCISO C, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-d) Para la construcción, instalación, hincado, mantenimiento o retiro de todo tipo de ductos, gasoductos, oleoductos, poliductos, líneas de conducción, transmisión o interconexión, combustole (sic) o ducto, túneles de servicio, subestaciones en general;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DEL INCISO D, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-e) La demolición parcial o total de construcciones;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DEL INCISO E, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-f) Por la construcción de albercas, tanques subterráneos, tanques elevados, silos, torres, plantas de tratamiento, cisternas y todo tipo de depósitos para almacenamiento de materiales en estado sólido, líquido o gaseoso;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-g) Por las obras de despalme, terracerías, movimiento de tierras, excavación y relleno;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-h) Para la conversión al régimen de propiedad en condominio;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-i) La construcción e instalaciones en inmuebles de características especiales: que constituyen un conjunto complejo de uso especializado, integrado por suelo, edificios, instalaciones y obras de urbanización y mejora que, por su carácter unitario y por estar ligado de forma definitiva para su funcionamiento, se configura a efectos catastrales como único bien inmueble. Serán considerados bienes inmuebles o instalaciones de características especiales, los siguientes:
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-1. Los destinados a la producción de energía eléctrica como lo son: las centrales y subestaciones eoloeléctrica, fotovoltaica, o eólicas, geotérmicas, hidroeléctricas, de hidrocarburos, parques industriales, generadora solar, así como plantas, gasoductos, oleoductos, poliductos, subestaciones y aquellas dedicadas a la producción de gas, refino del petróleo y sus derivados;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-2. Las autopistas, carreteras, puentes, presas, represas, minas, túneles de peaje, puertos comerciales y zonas económicas especiales y de desarrollo turístico; y en general todas las construcciones e instalaciones ubicadas en el Municipio destinadas a cualesquiera actividades reguladas por la Ley de la Industria Eléctrica, Ley de Hidrocarburos, Ley Minera Ley Federal de Telecomunicaciones y Radiodifusión, Ley de Vías Generales de Comunicación, Ley de Aeropuertos, Ley de Puertos, Ley Aduanera y Ley de Aguas Nacionales.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-j) La construcción e instalación de antenas de radiocomunicaciones, telecomunicaciones y anuncios publicitarios que requieran de elementos estructurales;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-k) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes e instalaciones superficiales, subterráneas o aéreas en servidumbres de paso, vía pública y áreas de uso común;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-l) Por el uso de suelo y por cambio de uso de suelo, de densidad o intensidad de su aprovechamiento o por el cambio de altura máxima permitida de un predio o inmueble permisibles por el Programa de Desarrollo Urbano y/o Ordenamiento Territorial vigente;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN III, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Por deslinde de predios, con fundamento en los títulos de propiedad;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN IV, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Por registro, validación, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, modificación y revalidación de proyectos autorizados, retiro de sellos de obra suspendida, retiro de sellos de obra clausurada; aviso de término de obra parcial o total, suspensión voluntaria de obra;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Por las visitas de verificación, inspección, supervisión en predios y construcciones;
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VI, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Por la expedición de autorizaciones en materia ambiental:
-
-a) Licencia ambiental de funcionamiento para fuentes fijas de establecimientos comerciales y de servicio, que requieran de la combustión de materiales de nueva creación o en funcionamiento;
-
-b) Licencia ambiental de funcionamiento para establecimientos comerciales y de servicio;
-
-c) Dictamen de impacto y riesgo ambiental;
-
-d) Expedición de permiso para la poda o derribo de árboles;
-
-e) Dictamen de impacto ambiental para vivienda unifamiliar, para uso de suelo y construcción;
-
-f) Opinión técnica en materia ambiental; y
-
-g) Por el visto bueno de manejo de residuos.
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Por el registro y refrendo en el padrón de peritos responsables de obra, de peritos corresponsables de obra, de peritos en desarrollo urbano y por inscripción al padrón de contratistas de obras públicas;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IX. Cualquier otro previsto en el presente capítulo.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 206 Bis.
-
-Son sujetos de este derecho las personas físicas o morales que soliciten el servicio a que se refiere el artículo anterior, o que realicen por cuenta propia o ajena las mismas actividades referidas y que causen el pago de este derecho.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 206 Ter.
-
-Estos derechos, se tramitarán mediante los formatos previamente autorizados por la Tesorería y deberán cubrirse con anticipación al otorgamiento de las licencias o permisos referidos, y en caso de que sean derechos que se causen anualmente la revalidación deberá cubrirse dentro de los primeros tres meses del año. El otorgamiento de licencias, constancias o autorizaciones será conforme a las especificaciones establecidas en la normatividad aplicable vigente, los que se causarán y pagarán conforme a los conceptos y tarifas siguientes:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 95 A LA 103.]</small>
-
-###### Artículo 207.
-
-En el caso de la asignación de número oficial, una vez asignado éste y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambios ordenados por el Ayuntamiento, en un plazo de cinco años, contado a partir de su otorgamiento.
-
-###### Artículo 208.
-
-Por lo que hace a las licencias de construcción o ampliación, se tomará como base la superficie total de las sumas de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que conste la construcción.
-
-###### Artículo 209.
-
-Los derechos por la licencia de demolición tendrán como base la superficie horizontal total, que resulte de sumar las superficies horizontales parciales correspondientes a cada uno de los pisos que cubran las construcciones a demolerse.
-
-###### Artículo 210.
-
-En el caso de que el servicio se preste en rebeldía del usuario, se notificará a éste el costo del mismo, para que, en un plazo de quince días hábiles, realice el pago correspondiente.
-
-###### Artículo 211.
-
-Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
+### CAPITULO IV. De la transmisión de las concesiones del servicio público de transporte
 
 ###### Artículo 114.
 
-Son sujetos del Impuesto Predial:
+Las concesiones y los derechos derivados de las mismas sólo podrán ser transmitidas o cedidos:
 
-I. Los propietarios o poseedores de predios urbanos, suburbanos o rurales;
+I. Por vía sucesoria; y
 
-II. Los propietarios o poseedores de predios ejidales o comunales;
-
-III. Los copropietarios y los coposeedores;
-
-IV. Los nudo propietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
-
-V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
+II. En los supuestos que en forma expresa y restrictiva establece esta Ley para cada modalidad del servicio público de transporte.
 
 ###### Artículo 115.
 
-Son sujetos con responsabilidad solidaria los siguientes:
+Son requisitos para que opere la transmisión de una concesión y la cesión de los derechos derivados de la misma, que:
 
-I. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única, interventor o liquidador de una persona moral;
+I. El concesionario acredite la titularidad de la concesión y sus elementos, mediante certificado expedido por el Registro Estatal, dentro de los treinta días anteriores a la celebración del contrato;
 
-II. Los integrantes de los órganos de representación ejidal o comunal;
+II. El concesionario compruebe estar al corriente en el pago de los impuestos y derechos correspondientes y haber cumplido todas las obligaciones a su cargo que deriven de la concesión;
 
-III. Tratándose de copropietarios, coposeedores y nudo propietarios, cualquiera de ellos responderá del monto total del adeudo del crédito fiscal y sus accesorios.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2003)</small>
 
-Lo dispuesto en esta fracción no es aplicable a los condóminos ni a los usuarios de tiempos compartidos;
+III. Realizar el pago de los derechos que se establecen en la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
 
-IV. Los representantes legales de sociedades, asociaciones civiles y comunidades, respecto de los impuestos a cargo de sus representadas, cuando tengan facultades para actos de administración;
+IV. El adquirente, sea persona física o jurídica, llene los requisitos establecidos para el otorgamiento de la concesión, y sea calificada y aceptada por la autoridad competente que la otorgó; y
 
-V. Los albaceas de la sucesión, hasta en tanto no se adjudiquen los bienes a los herederos;
+V. La cesión o transmisión de los derechos, no esté en contravención a lo dispuesto en esta Ley.
 
-VI. Las instituciones fiduciarias, en los casos de la fracción V del artículo anterior de este Código; y
+El incumplimiento de cualquiera de estos requisitos, implicará la nulidad de pleno derecho del acto, independientemente de las sanciones que resulten aplicables al concesionario.
 
-VII. Los usufructuarios.
-
-### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
-
-###### Artículo 212.
-
-Es objeto de los derechos a que se refiere este Capítulo la prestación de los servicios de distribución de agua potable, así como de conexión a los sistemas de drenaje y de distribución, realizada directamente por el Ayuntamiento.
-
-###### Artículo 213.
-
-Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
-
-###### Artículo 214.
-
-Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz de Ignacio de la Llave.
-
-###### Artículo 215.
-
-El pago de los derechos previstos en este Capítulo se realizará sin perjuicio de cubrir las reparaciones necesarias al pavimento, cuyo costo será equivalente al de los materiales empleados y los de mano de obra, debiendo pagarse ambos conceptos antes de que se preste el servicio.
-
-###### Artículo 216.
-
-Los predios responderán preferentemente del pago de los derechos por el servicio de agua. En consecuencia, el Ayuntamiento tendrá acción real que podrá ejercitar contra el propietario o poseedor del inmueble.
-
-###### Artículo 217.
-
-Estarán exentos de pago de los derechos por servicio de agua potable los gobiernos Federal, Estatal y Municipal, cuando dicho servicio se preste en locales o edificios pertenecientes a los mismos, que estén destinados a servicios públicos.
-
-###### Artículo 218.
-
-Las instituciones que tengan derecho a gozar de exención de pago de la contribución por el servicio de agua deberán solicitarla al Ayuntamiento.
-
-Las mismas instituciones darán aviso al Ayuntamiento, en un plazo de diez días, cuando dejaren de existir las circunstancias que motivaron la exención para que, a partir de esa fecha, se cobre la contribución correspondiente.
-
-###### Artículo 219.
-
-Los Notarios y demás fedatarios públicos, salvo mandamiento judicial, no autorizarán los testimonios que contengan los actos traslativos de dominio de bienes inmuebles, cuando no se acredite estar al corriente en el pago de los derechos previstos en este Capítulo.
-
-###### Artículo 220.
-
-Las autoridades municipales no autorizarán el traspaso o traslado de un giro mercantil o industrial o el cambio de giro, mientras no se les acredite estar al corriente en el pago de derechos previstos en este Capítulo.
+### CAPITULO V. De las concesiones y permisos para la prestación del servicio público de transporte de pasajeros, carga y mixto
 
 ###### Artículo 116.
 
-Son base del Impuesto Predial, los valores catastrales o catastrales provisionales que se determinen conforme a la Ley de Catastro.
+Las concesiones y permisos para prestar el servicio público de transporte de pasajeros y mixto, ya sea urbano, conurbano o metropolitano, suburbano, interurbano e intermunicipal, se otorgarán y explotarán conforme a las siguientes condiciones y requisitos específicos:
 
-Dichos valores se modificarán cuando se dé cualquiera de los supuestos que señala el artículo 38 de la Ley de Catastro.
+I. Los concesionarios serán personas físicas o jurídicas, con domicilio legal en el Estado de Jalisco;
 
-Cuando se determine o modifique el monto de la base gravable en términos de la Ley de Catastro, esta base surtirá sus efectos para cálculo del impuesto a partir del mes siguiente a aquel en que ocurran estos supuestos. En este caso, la Tesorería formulará y notificará al contribuyente las liquidaciones de las diferencias del impuesto a enterar que resulten del cambio de base, proporcionalmente a los meses que falten por transcurrir hasta el fin del ejercicio fiscal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Para los efectos de aplicación de este impuesto se estará a la clasificación de predios y construcciones que establece la Ley de Catastro, su Reglamento y las Tablas de Valores Unitarios autorizadas.
+II. Las concesiones, permisos o subrogaciones serán otorgados para prestar el servicio público de transporte, exclusivamente con la ruta, derrotero, itinerarios y horarios que se precisen en la concesión. La dependencia del Ejecutivo del Estado competente en materia de Vialidad, Tránsito y Transporte, en coordinación con la dependencia municipal competente, establecerá los recorridos de las rutas. Para tal efecto tomará en cuenta la opinión, estudios y datos de los organismos competentes;
 
-Los valores que sirven de base gravable del impuesto se actualizarán para cada ejercicio fiscal, de acuerdo a la tabla de valores unitarios de suelo y construcciones que autorice el Congreso. Las tasas o tarifas para el cobro de este impuesto se aplicarán a los valores mencionados.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-Cuando se hubieren establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva se cobrarán o reintegrarán las diferencias que resulten.
+III. Para un mismo itinerario, ruta o tramo, podrán concurrir a la prestación del servicio público de transporte uno o más concesionarios, permisionarios o subrogatarios, conforme a datos y estudios que para tal efecto proporcionen los organismos competentes;
 
-En los casos de predios que no hubieren tenido modificaciones físicas no procederá el cobro de diferencias de años anteriores, cuando éstas sean consecuencia de la actualización del valor catastral o catastral provisional, que resulte de la valuación en que se utilicen sistemas fotogramétricos digitales para elaborar la cartografía. El nuevo valor surtirá efectos a partir del mes siguiente al de su notificación.
+IV. La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, tendrá siempre la facultad de modificar las rutas, tramos, itinerarios e inclusive de suprimirlos en función de las opiniones, datos y estudios proporcionados por los organismos competentes;
 
-Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuevo valor generado por la introducción de obras de urbanización se considerará a partir de la conclusión de éstas.
+V. Cada concesión autorizará la operación de un vehículo;
+
+VI. Cada persona podrá aprovechar solamente hasta tres concesiones o permisos, ya sea como titular, beneficiario, arrendatario o administrador; y
+
+VII. Si en la ruta, itinerario, zona o región en donde se realice la prestación del servicio, hubiere otras personas físicas titulares de concesiones similares, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación, en las formas autorizadas por la Ley.
 
 ###### Artículo 117.
 
-El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a la tasa que sobre la base gravable autorice el Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
+Las concesiones o permisos para prestar el servicio público de transporte de carga, se otorgarán y explotarán conforme a las siguientes condiciones y requisitos:
+
+I. Los concesionarios o permisionarios serán personas físicas o jurídicas, con domicilio legal en el Estado de Jalisco;
+
+II. Cada concesión o permiso autorizará la operación de un vehículo;
+
+III. Cada persona podrá aprovechar hasta tres concesiones o permisos, ya sea como titular, beneficiario, arrendatario o administrador; y
+
+IV. Los prestadores de este servicio público de transporte, podrán asociarse o celebrar convenios de coordinación para brindar un mejor servicio y reducir los costos de operación en las formas autorizadas por la Ley, para cuyo efecto procederá la transferencia respectiva, previa anuencia del organismo coordinador.
 
 ###### Artículo 118.
 
-El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
+Las concesiones se otorgarán conforme a lo dispuesto en los artículos 110 al 113, de esta Ley, y se observarán las siguientes disposiciones:
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+I. Las nuevas concesiones, o aquéllas que queden disponibles por su cancelación o por haber quedado vacantes, se otorgarán a quienes acrediten reunir los requisitos de esta Ley y tener la capacidad necesaria para prestar el servicio conforme a su modalidad y clase;
+
+II. Se dará preferencia a las personas físicas o jurídicas que hubiesen prestado el servicio de transporte, antes de que los caminos abiertos hubieren estado atendidos por el Gobierno del Estado; y
+
+III. Atendidas las solicitudes fundadas en la fracción anterior, se buscará preferir a los operadores o conductores en activo que lo soliciten, observando el orden previsto en los artículos 112 y 113, de esta Ley.
 
 ###### Artículo 119.
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+Serán improcedentes las solicitudes de concesiones, en los siguientes casos:
+
+I. Cuando la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, haya declarado previamente que la ruta esta cerrada;
+
+II. Cuando, con base en las opiniones, estudios, y datos que proporcionen los organismos de consulta y auxiliares competentes, se determine que el número de concesionarios es suficiente;
+
+III. Cuando el solicitante ya sea titular de tres concesiones; y
+
+IV. Cuando la solicitud sea presentada por persona extranjera, que no acredite en su calidad migratoria, debe tener autorización para dedicarse a esta actividad.
 
 ###### Artículo 120.
 
-Cuando la Tesorería advierta que un inmueble ha salido del dominio público de la Federación, del Estado o de los Municipios, ordenará el cobro de los impuestos cuyo pago se hubiese omitido, incluidos los recargos, multas y accesorios que procedan.
+Independientemente de cumplimentar los requisitos establecidos en el artículo 115, de esta Ley, las concesiones otorgadas para esta modalidad de servicio y los derechos que de las mismas se deriven, serán susceptibles de transmisión conforme a las siguientes condiciones:
+
+I. El concesionario, para adquirir el derecho a transmitir la concesión, deberá haber operado el servicio público en forma continua y eficiente por un mínimo de dos años;
+
+II. Para ceder o traspasar sus derechos, el concesionario deberá obtener autorización previa de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte;
+
+III. El adquirente deberá reunir los requisitos que se establecen en este ordenamiento para ser titular de una concesión en esta modalidad, mismos que verificará la autoridad concesionante.
 
 ###### Artículo 121.
 
-Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+Se podrán conceder permisos para el servicio suburbano, interurbano e intermunicipal de transporte de pasajeros:
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. Cuando los caminos del Estado no estén en condiciones para que se pueda realizar un servicio regular y permanente;
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de 10,779.7 UMA.
+II. Cuando exista un servicio irregular en parte del camino, en tanto se revisan las tarifas y se escucha a los concesionarios de las rutas que pudieran resultar afectadas;
 
-> <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
+III. Cuando exista mayor demanda de transporte motivada por ferias, exposiciones, excursiones y causas análogas. En este caso tendrán preferencia los concesionarios de las líneas establecidas aun cuando tuvieran el máximo número de vehículos autorizados por la Ley; y
 
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, así como a las víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
-
-A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Cuando se trate de vehículos que, de manera eventual, hagan uso de los caminos para el traslado de contingentes con fines de recreación o excursionismo.
 
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a 3.54 UMA, excepto lo dispuesto por el artículo 118 de este Código.
+Cuando se trate del servicio de carga, el Ejecutivo del Estado, en casos excepcionales y previo estudio, podrá conceder permisos, tomando como base lo dispuesto en el artículo anterior.
 
-El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
-
-### CAPÍTULO V. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
-
-###### Artículo 221.
-
-Son objeto de estos derechos:
-
-I. La expedición de certificados, constancias y copias certificadas de documentos que obren en los archivos municipales; y
-
-II. La evaluación de impacto ambiental.
-
-###### Artículo 222.
-
-Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
-
-###### Artículo 223.
-
-Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
-
-Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.20 UMA.
-
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Copias de documentos que obren en los archivos de oficinas municipales:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) Por hoja escrita a doble espacio en ambas caras, 1 UMA.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.10 UMA.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1 UMA.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-d) Copias certificadas de planos de construcción, 5 UMA.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la búsqueda, 0.30 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Evaluación de impacto ambiental, 37.73 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Certificados de conducta, 2.10 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Certificados de dependencia económica, 2.10 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Certificados de reclutamiento militar, 2.10 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Certificados de huellas dactilares 2.10 UMA;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Constancias de Zonificación, expedidas por las dependencias de Desarrollo Urbano, por cada una, según los numerales siguientes:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) Habitacional, 17.97 UMA;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) Comercial, 35.94 UMA;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-c) Agropecuario y de Servicios, 26.955 UMA;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-d) Industrial hasta 1 hectárea, 53.91 UMA; y,
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-e) Industrial mayor a 1 hectárea, 89.85 UMA.
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IX. Constancia de verificación sanitaria, la cantidad de 5 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-X. Constancia por Visto Bueno en materia ambiental, la cantidad de 5 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XI. Cédula de empadronamiento por el registro o refrendo en el Padrón Fiscal Municipal de Unidades Económicas, 5 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XII. Licencia de funcionamiento por la expedición o refrendo en el Padrón Fiscal Municipal de establecimientos cuyo giro sea la enajenación de bebidas alcohólicas realizada total o parcialmente al público en general, 5 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIII. Por vigencia de uso de suelo para los establecimientos comerciales, industriales y de prestación de servicios, causarán la cantidad de 5 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIV. Constancia de no registro comercial, 1.50 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XV. Constancia de Afectación y/o Visto Bueno de Construcción, 4 UMA;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVI. Constancias y formatos diversos, la cantidad de 4.5 UMA; y,
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVII. Constancias de no registro de reclutamiento, la cantidad de 3.78 UMA
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
+### CAPITULO VI. Del servicio público de transporte en autos de alquiler o taxis
 
 ###### Artículo 123.
 
-En los casos de predios no registrados en el padrón factura (sic) de la Tesorería, por causa imputable al sujeto del Impuesto, se fincará liquidación presuntiva y se requerirá su pago por los cinco años anteriores a la fecha de la detección de la omisión y la tasa que se aplicará será la vigente en cada uno de los ejercicios omitidos. Tratándose de construcciones no manifestadas, si no se pudiera fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo prueba en contrario.
+Se requiere concesión o permiso otorgada por el Ejecutivo del Estado por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte, para explotar, dentro del Estado, el servicio de transporte público de autos de alquiler o taxis en cualquiera de sus dos modalidades: alquiler con sitio y radiotaxi.
+
+El número total de concesiones o permisos que podrán otorgarse, referentes a las modalidades del servicio público del transporte señaladas en el presente artículo, se definirán para la zona conurbada de Guadalajara y los demás municipios del Estado, a través de estudios técnicos particulares con base en parámetros establecidos y necesidades específicas de cada localidad, por conducto de la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos de los organismos auxiliares y de consulta competentes.
+
+Los prestadores del servicio del transporte público de autos de alquiler o taxis, para su mejor organización, operación y seguridad, dependiendo de la modalidad de su servicio, deberán:
+
+I. Establecerse en lugares denominados sitios, ya sea en áreas de la vía pública, o en locales cerrados con acceso a la vía pública, autorizados por los ayuntamientos del municipio que corresponda, en coordinación con la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
+
+Las características de las áreas o lugares de los sitios y sus especificaciones serán determinadas en el reglamento respectivo;
+
+II. Los automóviles de alquiler o taxis, que presten el servicio con la modalidad de "sitios", deberán llevar en su sitio o matriz de control de cada unidad para el número de servicios, el tiempo de permanencia en base y mantener unidades disponibles para la prestación del servicio que se demande vía radio comunicación o telefónica. El registro podrá ser supervisado por la autoridad en cualquier momento para el debido control de esta disposición;
+
+III. Los automóviles de alquiler, con la modalidad de radiotaxis, prestarán el servicio mediante equipos de radiocomunicación, debiendo contar con una matriz central a fin de que puedan transitar para la atención eficiente del servicio; y
+
+IV. En el servicio de transporte público de automóviles de alquiler o taxis, en cualquiera de sus modalidades, será obligatorio usar el taxímetro, cuyas tarifas se establecerán por acuerdo del Ejecutivo Estatal, con base en las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, en coordinación con la dependencia del Ejecutivo, competente en materia de vialidad, tránsito y transporte.
 
 ###### Artículo 124.
 
-Las manifestaciones y avisos que los particulares y Notarios Públicos, éstos en el ejercicio de sus funciones, deban realizar para efectos de este impuesto, se harán en las formas oficiales autorizadas y se presentarán acompañando los documentos o planos que en la misma se exijan ante la Tesorería.
+Las concesiones o permisos para la explotación del servicio de transporte público de autos de alquiler o taxis, en cualquiera de sus modalidades, podrán cambiar de una a otra modalidad con autorización previa que otorgará la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte y, para su otorgamiento, se sujetarán a las disposiciones específicas siguientes:
+
+I. Se otorgarán exclusivamente a personas físicas de nacionalidad mexicana, mayores de edad, que cuenten con licencia oficial de chofer, y demuestren por los medios idóneos su antigüedad como choferes con un mínimo de tres años en el servicio público de transporte;
+
+II. Otorgada la concesión o permiso, el interesado tendrá un plazo de noventa días naturales para presentar el vehículo, mismo que deberá cumplir con los requisitos señalados en esta Ley y su Reglamento;
+
+III. Para el efecto de la preferencia en el otorgamiento de las concesiones o permisos, se tomará en cuenta:
+
+a) El orden cronológico de las solicitudes registradas en la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte;
+
+b) Un estudio socioeconómico que deberá practicarse a los solicitantes, en el que se determine y valore, preponderantemente, si la concesión o permiso significa un medio prioritario de subsistencia para él y su familia, y que no rebase el límite de concesiones o permisos permitidas por la Ley; y
+
+c) La antigüedad que señale el padrón del Registro Estatal de los Servicios Públicos de Tránsito y Transporte, en lo que se refiere exclusivamente a choferes, siempre y cuando se constate que dicha antigüedad sea realmente acreditada en la prestación de servicio público de transporte.
 
 ###### Artículo 125.
 
-Cuando en las manifestaciones o avisos, que deban presentarse conforme a lo dispuesto en este capítulo, no se expresen los datos o no se acompañen los documentos o planos, las autoridades fiscales requerirán al contribuyente para que, en un plazo de cinco días, corrija la omisión, apercibiéndolo que de no hacerlo se le impondrán las sanciones que procedan.
+La administración de los sitios y matrices de control, se regirá conforme a las siguientes disposiciones:
+
+I. Se identificarán con la denominación, clave o número, que determine la autoridad competente; y
+
+II. El sitio contará con una matriz y, en su caso, podrá tener una o más derivaciones, cubriendo los pagos que correspondieren al municipio.
 
 ###### Artículo 126.
 
-Para efectuar por primera vez el pago de este impuesto o cuando exista modificación del valor con motivo de la revaluación del predio, los interesados deberán presentar en la Tesorería, la cédula catastral o, en su caso, la notificación correspondiente.
+Las autorizaciones para el establecimiento de sitios o matrices de control y sus derivaciones, se otorgarán y administrarán conforme a las siguientes bases:
+
+I. Se requerirá que los propietarios o legítimos poseedores de autos de alquiler o taxis, prestadores del servicio, se organicen de acuerdo a las disposiciones del artículo siguiente;
+
+II. Los prestadores del servicio, debidamente organizados y constituidos, presentarán su solicitud a la dependencia municipal; y
+
+III. En la autorización se fijarán las condiciones para su administración, para su renovación o revocación, conforme a las normas que se precisen en el Reglamento de esta Ley.
 
 ###### Artículo 127.
 
-Los sujetos del impuesto están obligados a manifestar a la Tesorería los cambios de domicilio, dentro de los treinta días siguientes al en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para todos los efectos legales, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+Los propietarios o legítimos poseedores de autos de alquiler o taxis, en sus dos modalidades, tendrán los siguientes derechos y obligaciones:
+
+I. Podrán constituirse como personas jurídicas y elegir una mesa directiva que los represente en los términos de Ley;
+
+II. Podrán nombrar un representante, mediante carta poder que registrarán, sin mayores formalidades, en el Registro Estatal; y
+
+III. Deberán pagar al municipio las cuotas que se determinen por concepto de autorización o licencia del sitio o base de control.
+
+Los concesionarios y permisionarios podrán pertenecer o separarse de cualquier persona jurídica, sin perjuicio o menoscabo de sus derechos con respecto al permiso o concesión.
 
 ###### Artículo 128.
 
-La Tesorería tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a éste.
+Los ayuntamientos, en coordinación con la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, están facultados para dictar todas las disposiciones encaminadas a que los sitios no se conviertan en focos de molestias para el vecindario, para los transeúntes o en obstáculos para la circulación.
 
-En consecuencia, el procedimiento administrativo de ejecución, que establece el Código de la materia, afectará directamente los predios y a quien resulte ser el propietario, nudo propietario, copropietario, poseedor o coposeedor.
-
-### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
-
-###### Artículo 224.
-
-Son objeto de estos derechos los servicios que se presten en el Rastro Municipal o en los lugares autorizados, relativos al sacrificio de animales para el consumo humano, así como por el uso de los espacios e instalaciones del Rastro Municipal.
-
-###### Artículo 225.
-
-Son sujetos de este derecho, las personas físicas o morales que hagan uso de los servicios descritos en el artículo anterior, sin perjuicio del cumplimiento de los requisitos sanitarios.
-
-###### Artículo 226.
-
-Es base de este derecho, cada animal en pie considerado por cabeza y por tipo; en el caso del uso de instalaciones como frigoríficos y corrales, se pagará por el tiempo utilizado de acuerdo a las cuotas que se establecen en el artículo siguiente.
-
-El Rastro Municipal no será responsable por la suspensión o el retraso de los servicios que presta, cuando obedezcan a fallas mecánicas, falta de energía eléctrica, captación de agua o circunstancias fortuitas no imputables al Rastro. Tampoco será responsable por mermas, utilidades o pérdidas comerciales supuestas, ni por las acciones que ejerza autoridad diferente en demérito de la prestación del servicio.
-
-###### Artículo 227.
-
-El pago de este derecho se efectuará previamente a la prestación del servicio, en la Tesorería o ante la oficina de ésta en el Rastro. Los funcionarios encargados del Rastro Municipal no prestarán servicio alguno, si previamente no se comprueba que se pagaron los derechos correspondientes.
-
-Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Bovino, por cada animal: 2.69 a 5.39 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Porcino y equino, por cada animal: 0.90 a 1.80 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Ovino y caprino, por cada animal: 0.38 a 0.77 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Aves y otras especies menores, por cada animal: 0.018 a 0.036 UMA;
-
-V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
-
-VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores.
+### CAPITULO VII. De las concesiones para operar el servicio de transporte de carga
 
 ###### Artículo 129.
 
-Los Notarios Públicos, para autorizar la expedición del título en forma definitiva, en que se hagan constar contratos y resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Municipio, exigirán la constancia de no adeudo en el pago de este impuesto y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación.
+El Ejecutivo del Estado, por conducto de la dependencia competente en materia de vialidad, tránsito y transporte, podrá conceder a las personas físicas o jurídicas que lo soliciten y cumplan con los requisitos que se establezcan al efecto, concesiones para prestar el servicio público de transporte de carga, dentro del Estado de Jalisco o de los municipios correspondientes, en sus diferentes modalidades.
 
-### CAPÍTULO VII. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
-
-###### Artículo 228.
-
-Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas, fosas o nichos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 229.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en UMA, las cuotas siguientes:
-
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Inhumaciones por siete años y refrendo de fosas:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) Sin bóveda 5.15
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) Con bóveda 17.51
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Inhumaciones en fosas
-
-a perpetuidad 10
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Depósito de restos en osario por una
-
-temporalidad de 7 años 13
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Depósito de restos en el osario a perpetuidad 1.80
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Construcción, reconstrucción, ampliación o
-
-modificación de monumentos, criptas o fosas 1.80
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Inhumación de restos, apertura
-
-o cierre de gavetas y
-
-demás operaciones semejantes 5.15
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Exhumaciones 5.15
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Reinhumaciones 5.15
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IX. Cremaciones 4.19
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-X. Nichos en el panteón municipal 13
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XI. Cambio de propietario 9
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XII. Traslado de cadáver foráneo 5.60
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
+### CAPITULO VIII. De las concesiones para operar el servicio de transporte exclusivo de turismo
 
 ###### Artículo 130.
 
-Es objeto de este Impuesto, la adquisición de bienes inmuebles, que consistan en el suelo o en éste y las construcciones adheridas al mismo, ubicados en el Municipio.
+El Ejecutivo del Estado, por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte, podrá conceder tanto a personas físicas como a jurídicas que lo soliciten y reúnan los requisitos que se establezcan al efecto, concesiones para prestar el servicio público de transporte exclusivo de turismo.
+
+Las concesiones para explotar el servicio público de transporte exclusivo de turismo, solamente se concederán para el traslado de personas a los lugares de interés turístico, arqueológico, arquitectónico, panorámico, religioso, artístico, deportivo o análogos, sujetándose su recorrido al itinerario, horario y tarifas que, en cada caso, se autoricen.
 
 ###### Artículo 131.
 
-Para los efectos de este capítulo se entiende por adquisición de bienes inmuebles, la que se derive de:
+El personal de operadores y ayudantes en la prestación del servicio de transporte exclusivo de turismo, así como los vehículos destinados al mismo, deberán de llenar los requisitos que establezca el reglamento de esta Ley.
 
-I. Todo acto por el que se transmita la propiedad de bienes inmuebles, la que ocurra por causa de fallecimiento y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, así como al cambiar las capitulaciones matrimoniales, siempre que sean inmuebles de los copropietarios o de los cónyuges;
-
-II. La compraventa de bienes inmuebles, incluso, hecha con reserva de dominio o sujeta a condición;
-
-III. La cesión de derechos de bienes inmuebles;
-
-IV. La constitución, fusión y escisión de las sociedades, cuando a través de ellas se realice la transmisión de dominio de bienes inmuebles, incluso en los casos siguientes:
-
-a) En escisión aun cuando los accionistas propietarios de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos.
-
-b) En fusión aun cuando los accionistas propietarios de las acciones con derecho a voto de la sociedad que surge con motivo de la misma, no las enajenen.
-
-Para los efectos de esta fracción no se considerarán como acciones con derecho a voto, aquellas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen como acciones de goce; tratándose de sociedades que no sean por acciones, se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que lo tengan limitado;
-
-V. Las aportaciones en especie para la constitución, aumento o disminución de capital, pago en especie de remanentes, utilidades o dividendos y la adjudicación por liquidación de asociaciones o sociedades civiles o mercantiles, cuando a través de ellas se realice transmisión de dominio de bienes inmuebles y sobre el valor de éstos;
-
-VI. La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
-
-VII. La prescripción positiva y la información ad perpetuam, en los términos que establecen los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz;
-
-VIII. La adjudicación de bienes inmuebles, derivada de remate judicial o administrativo, excepto la adjudicación en materia laboral;
-
-IX. La readquisición de la propiedad de bienes inmuebles, a consecuencia de la extinción o la rescisión voluntaria del contrato;
-
-X. La adjudicación por cesión, aportación o cualesquiera otra forma de transmisión de derechos hereditarios sobre bienes inmuebles;
-
-XI. La permuta de bienes inmuebles;
-
-XII. La donación de bienes inmuebles;
-
-XIII. La transmisión de la propiedad a través de fideicomiso.
-
-Para los efectos de este impuesto, se considera que existe transmisión de la propiedad de bienes inmuebles a través de fideicomiso:
-
-a) En el acto de la constitución del fideicomiso si se designa fideicomisario diverso del fideicomitente y siempre que éste no tenga derecho a readquirir del fiduciario los bienes;
-
-b) En el acto en que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si al constituirse el fideicomiso, se hubiera establecido tal derecho; y
-
-c) En el acto de designar fideicomisario, si éste no se designó al constituirse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente;
-
-XIV. La cesión de derechos de fideicomitentes o fideicomisarios cuando se hayan afectado bienes inmuebles. Se considera que existe ésta cuando haya substitución de un fideicomitente o de un fideicomisario, por cualquier motivo; y
-
-XV. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía de la porción que correspondía al copropietario o cónyuge.
-
-El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en toda operación traslativa de dominio, aun cuando ésta no se inscriba en el Registro Público de la Propiedad.
-
-### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
-
-###### Artículo 230.
-
-Son objeto de estos derechos los servicios de recolección, transporte y disposición final de los residuos sólidos que preste el Ayuntamiento a casa habitación, condominios, departamentos, unidades habitacionales o a sus similares; así como a comercios, industrias, prestadores de servicios o empresas de espectáculos públicos.
-
-###### Artículo 231.
-
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
-
-El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo.
-
-Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por el Ayuntamiento.
-
-###### Artículo 232.
-
-La base gravable se determinará de la siguiente manera:
-
-I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
-
-II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos.
-
-En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
-
-###### Artículo 233.
-
-El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
-
-I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
-
-II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 148 (sic), fracción II, inciso h).
-
-###### Artículo 234.
-
-Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmente de conformidad con las cuotas siguientes:
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Por cada inmueble destinado a uso habitacional, de tipo:
-
-Derecho en UMA
-
-a) Residencial 1
-
-b) Medio 0.60
-
-c) Interés social 0.40
-
-d) Popular 0.20
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Por cada industria, comercio así como empresas que presenten espectáculos públicos, 0.018 UMA por kilogramo o 0.05 UMA por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
-
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+### CAPITULO IX. De las concesiones para operar el servicio público de transporte con grúa
 
 ###### Artículo 132.
 
-Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
+La explotación de servicio público especializado de transporte con grúa, en sus modalidades de arrastre; arrastre y salvamento, así como de remolque de cualquier tipo, requerirá concesión otorgada por el Ejecutivo del Estado por conducto de la dependencia competente en materia de vialidad, tránsito y transporte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+En el servicio de grúas de arrastre se incluirán, mediante convenio, todas las operaciones manuales y mecánicas ordinarias que permitan dejar a los vehículos en condiciones de ser trasladados.
+
+Para la modalidad de arrastre y salvamento, las maniobras correspondientes a salvamento llevadas a cabo por personal y equipo especializado, que impliquen trasladar el vehículo de una distancia superior a la establecida para el derecho de vía, hasta la franja de pavimento dentro de la vía de circulación, será motivo de un cargo adicional por dicho concepto, convenido previamente entre el usuario y el prestador del servicio, pudiendo ser por tiempo utilizado en el salvamento o por precio global.
 
 ###### Artículo 133.
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base a las Tablas de Valores publicadas en la Gaceta Oficial Órgano del Gobierno del Estado, en términos de la Ley Número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
+Cuando el servicio de grúa se preste a solicitud de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, para retirar a vehículos de la vía pública, los concesionarios deberán sujetarse estrictamente a lo dispuesto por el artículo 147, de esta Ley.
 
-Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
-
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de condonarlas, el importe de ellas se considerará como parte del precio pactado.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Para los efectos de este impuesto, se considera que el usufructo, la nuda propiedad, la disolución de la sociedad conyugal y la adjudicación testamentaria en los términos de la normatividad aplicable, tienen un valor del cincuenta por ciento del valor de la propiedad para cada uno de ellos.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
-
-### CAPÍTULO IX. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA EN PREDIOS Y LOTES DESHABITADOS O NO EDIFICADOS
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 235.
-
-Son objeto de estos derechos, los servicios de limpieza que el Ayuntamiento efectúe en predios y lotes deshabitados o no edificados, a solicitud o en rebeldía de sus propietarios o poseedores.
-
-###### Artículo 236.
-
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias o poseedoras de predios, en los cuales el Ayuntamiento haya prestado los servicios a que se refiere este Capítulo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 237.
-
-El pago de estos derechos se enterará a la Tesorería, de acuerdo con la tabla siguiente:
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) A solicitud del ciudadano: Por anticipado a la prestación del servicio correspondiente.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) En rebeldía: Dentro del plazo de treinta días calendario siguientes a aquél en que se haya efectuado el servicio necesario mínimo de limpieza. Se deberá de tomar las evidencias fotográficas del servicio prestado y ejecutado.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Los propietarios o poseedores de predios están obligados a realizar la limpieza de los mismos, para mantener la buena imagen del Municipio y evitar la proliferación de focos de infección y, en caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En caso de impago en el plazo correspondiente y previa notificación en el domicilio registrado, se hará el cobro junto con el pago del impuesto predial del año inmediato siguiente.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO CON SU TABLA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Los derechos por los servicios de limpieza de predios y lotes deshabitados o no edificados se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada para llevar a cabo el servicio. Los mismos serán pagados de acuerdo a la tabla de valores siguientes:
-
-Tarifas de cobros de derechos Derechos Unidad Tarifa mínima
-
-por servicios en predios y lotes en UMA de medida de cobro
-
-deshabitados o no edificados
-
-I. Desmonte y limpieza 0.03 m2 100 m2
-
-II. Carga y traslado de arena
-
-y residuos verdes 1.00 m3 1.00 m3
-
-III. Recolección
-
-de escombro o 1.20 m3 2.00 m3
-
-cascajo
+### CAPITULO X. De las autorizaciones para prestar servicios especializados de transporte
 
 ###### Artículo 134.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+Los servicios de transporte público especializado no requieren de concesión, sino únicamente de la autorización de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, en los términos que establezca el Reglamento.
 
 ###### Artículo 135.
 
-Además de los documentos a que se refiere el artículo anterior, los contribuyentes de este impuesto presentarán, ante quien se haga constar el acto objeto del impuesto, la constancia de no adeudo expedida por las autoridades municipales en la forma oficial autorizada y la última boleta del pago del impuesto predial que acredite estar al corriente. El Notario dará fe de haber tenido a la vista dichos comprobantes y los agregará al apéndice del protocolo.
+La autorización expresará, conforme a las disposiciones reglamentarias de esta Ley:
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. El número de vehículos que podrán operar al amparo de la misma;
 
-Las constancias de no adeudo en el pago de contribuciones municipales se expedirán por la Tesorería, si procedieren, a aquellos contribuyentes que no tenga (sic) adeudos de servicios que preste el Municipio, así como de contribuciones y/o accesorios, dentro de los siete días siguientes al de la fecha de solicitud por escrito del interesado. Transcurrido dicho plazo, si la Tesorería no expidiere las constancias solicitadas ni diere respuesta negativa por escrito, motivada y fundada, se tendrá como reconocido el no adeudo.
+II. Las características del vehículo;
 
-Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vigentes durante sesenta días a partir de la fecha de su expedición o hasta la fecha de firma de la escritura, si ésta ocurriere antes.
+III. La vigencia; y
 
-Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
+IV. Las condiciones que deban observarse en la prestación del servicio.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
-
-###### Artículo 238.
-
-Es objeto de este derecho, la prestación de los servicios de supervisión técnica sobre la explotación de bancos de material ubicados en el territorio del Municipio.
-
-###### Artículo 239.
-
-Son sujetos de este derecho, las personas físicas o morales que sean propietarias, poseedoras, usufructuarias, concesionarias y, en general, quienes bajo cualquier título realicen la extracción del material a que se refiere este Capítulo.
-
-###### Artículo 240.
-
-Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.018 UMA.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de 13.475 UMA, por día.
+### CAPITULO XI. De las causas de revocación y extinción de las concesiones
 
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del dos por ciento.
+Cuando se compruebe que una persona tiene un número mayor de concesiones que las permitidas en esta Ley, o tiene en servicio un número mayor de vehículos a los autorizados, a nombre propio o de terceros, se le sancionará con la revocación de todas las concesiones de que sea titular.
 
 ###### Artículo 137.
 
-En las adquisiciones que se hagan constar en escritura pública, los Notarios calcularán el impuesto bajo su responsabilidad, lo enterarán una vez expensados para ello, mediante declaración que presentarán ante la Tesorería en la forma oficial autorizada y lo harán constar en el testimonio. En los demás casos, los contribuyentes enterarán el impuesto mediante la forma oficial autorizada ante dicha Tesorería.
+Las concesiones para la prestación de un servicio público de transporte, en cualesquiera de sus modalidades y características, podrán ser revocadas por alguna de las causas siguientes:
 
-Se presentará declaración por todas las operaciones, aun cuando no proceda el pago del impuesto.
+I. Cuando se hubiere extendido a favor de una persona jurídica y ésta se extinga;
 
-Con la forma oficial de declaración deberán acompañarse:
+II. Cuando se oferte o realice un servicio distinto del autorizado en la concesión o fuera de la ruta, tramo o itinerario aprobado;
 
-I. Certificado de Valor Catastral o Catastral Provisional; y
+III. Cuando se haga la transmisión de la concesión o del vehículo, o la sustitución de este último, sin observarse los requisitos que para tales casos establezcan esta Ley y su reglamento;
 
-II. Copia de la constancia de no adeudo y de la boleta de pago del impuesto predial correspondiente al ejercicio en que se realice la operación.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
+
+IV. Cuando el concesionario suspenda el servicio por más de cuatro meses sin justificación alguna;
+
+V. Cuando se reincida en el incumplimiento en los itinerarios y horarios;
+
+VI. Cuando se reincida en cobrar por el servicio un precio o cuota mayor al que resulte de aplicar la tarifa correspondiente;
+
+VII. Cuando no se establezca la prestación del servicio dentro del plazo fijado, sin justificación;
+
+VIII. Cuando los concesionarios no sustituyan los vehículos que deban ser retirados del servicio por orden de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, en virtud de no reunir los requisitos exigidos por esta Ley;
+
+IX. Cuando el concesionario, en su condición de tal, cometa algún delito doloso sobre el cual hubiere recaído sentencia condenatoria que cause ejecutoria;
+
+X. Por cualquiera otra irregularidad cometida en la prestación del servicio y sea calificada como grave, conforme al reglamento aplicable;
+
+XI. Por trasmitir o ceder a título oneroso la concesión;
+
+XII. Por violaciones a esta Ley y a su reglamento que alteren substancialmente la prestación del servicio; y
+
+XIII. Por exigirlo así el interés público.
+
+> <small>(ADICIONADO P.O. 15 DE JUNIO DE 1999)</small>
+
+Las resoluciones administrativas que acuerden la revocación de las concesiones de transporte podrán ser impugnadas mediante la interposición de los medios de defensa que correspondan, en los términos previstos en el capítulo VIII de esta ley.
 
 ###### Artículo 138.
 
-Los adquirentes que celebren operaciones de constitución de usufructo, transmisión de éste o de la nuda propiedad, podrán optar por pagar el impuesto, considerando el cien por ciento de la base gravable.
-
-En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
+Para hacer efectivas las disposiciones de los artículos que anteceden, la dependencia del Ejecutivo del Estado competente en materia de vialidad, tránsito y transporte, tiene, en todo tiempo, el derecho de ordenar de oficio o a petición de parte interesada, las investigaciones necesarias para determinar los casos en que los particulares tengan concesiones, en contravención a las disposiciones de esta Ley.
 
 ###### Artículo 139.
 
-La Tesorería, en ejercicio de sus facultades de comprobación respecto de contribuyentes de este impuesto, cuando lo estime necesario, podrá solicitar de los contribuyentes que presenten el testimonio respectivo en original, para obtener una copia del mismo.
+Las concesiones se extinguen por cualesquiera de las siguientes causas:
 
-Si en la declaración se oculta superficie de terreno o de las construcciones consignadas en el antecedente de propiedad, independientemente de la diferencia de impuesto que resulte, se aplicará la sanción que corresponda.
+I. A petición del titular;
+
+II. Por la extinción de las personas jurídicas a las que se les hubiere otorgado;
+
+III. Por la muerte del titular, sin perjuicio de lo establecido por lo previsto en esta Ley; y
+
+IV. Por el cumplimiento del plazo para el que fue otorgada la concesión y no se autorice la prórroga.
 
 ###### Artículo 140.
 
-El pago de este impuesto se realizará dentro de los treinta días siguientes a la fecha en que sean firmadas las escrituras públicas correspondientes o, cuando se trate de resoluciones administrativas o judiciales o de documentos otorgados fuera del Estado, dentro de los treinta días siguientes a la fecha en que causen ejecutoria o sean autorizados.
+Si subsiste la necesidad del servicio y siempre que no se afecte el interés público, la concesión se declarará vacante y se procederá a otorgarla a un nuevo concesionario, conforme las disposiciones de esta Ley.
 
-### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, informará al Registro Estatal el acuerdo que declare las concesiones canceladas, extintas o vacantes.
 
-###### Artículo 241.
-
-Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
-
-A.- Por servicios Catastrales
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Por la expedición de una 12.58 UMA
-
-Cédula Catastral
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Por la expedición de
-
-un Certificado de Valor Catastral
-
-o Catastral Provisional, para
-
-efectos del pago de Impuesto
-
-de Traslación de Dominio u otros 17.97 UMA
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Por la expedición
-
-de una constancia de datos
-
-Catastrales 7.19 UMA
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Por la certificación
-
-de cada plano catastral
-
-expedido
-
-por el Municipio 5.39 UMA
-
-V. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2022)
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO DEL APARTADO A, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-B.- Por constancia de no
-
-adeudo o cualquier otro
-
-que se expida 1.125 UMA
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-C.- Por la certificación de datos
-
-o documentos que existan
-
-en el archivo de la Tesorería 1.125 UMA
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-D.- Trámite administrativo
-
-para la intermediación de trámite
-
-de pasaporte 3.43 UMA
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En los casos de trámites urgentes, se aumentará su costo en un cuarenta por ciento más de la cuota autorizada.
-
-###### Artículo 242.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere este Capítulo.
+### CAPITULO XII. De las tarifas, horarios e itinerarios
 
 ###### Artículo 141.
 
-No se causará este impuesto, en las adquisiciones de bienes inmuebles que realicen la Federación, los Estados y los Municipios, para formar parte del dominio público.
+El Organismo Coordinador, considerando las opiniones y datos proporcionados por el Consejo Consultivo y el CEIT, propondrá al Titular del Poder Ejecutivo, la aprobación, revisión o modificación de las tarifas del servicio público de transporte, a través de su dependencia competente en materia de vialidad, tránsito y transporte, con base en:
 
-No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
+I. Los elementos que conforman el costo administrativo y operativo, que determinen la costeabilidad del servicio, los cuales se tomarán como base para proponer las tarifas aplicables a las distintas modalidades y clases del servicio público del transporte; y
 
-I. Por los Partidos Políticos nacionales, siempre y cuando dichos inmuebles sean para el cumplimiento de sus fines;
-
-II. La constitución, disolución o liquidación de la sociedad conyugal;
-
-III. La devolución de los bienes inmuebles del enajenante, por la revocación, rescisión o anulación del contrato respectivo que consten en resolución judicial;
-
-IV. La división de la cosa común entre los copropietarios siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos;
-
-V. Los actos constitutivos de fideicomiso de garantía, salvo que se realicen en cumplimiento de los fines de estos fideicomisos. Asimismo, no causarán este impuesto los actos constitutivos de fideicomisos estatales y bursátiles, así como las operaciones que los fideicomisos estatales realicen, cuando precisen la traslación del dominio de bienes inmuebles, con el fin de cumplir con su objeto público o de incorporarlos al dominio público;
-
-VI. Por los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
-
-VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente a 2 UMA.
+II. Además se deberán tomar en cuenta, entre otros conceptos, los horarios de prestación del servicio, las tablas de distancias, tipo de piso, clasificación de carga, costos de transporte, problemas de circulación y riesgos de accidentes.
 
 ###### Artículo 142.
 
-Los fedatarios son responsables solidarios con el contribuyente por el incumplimiento de las obligaciones que les imponen los artículos 129 y 137 de este Código. Además, deberán:
-
-I. Comprobar que el inmueble motivo de la operación se encuentre al corriente en el pago del Impuesto Predial;
-
-II. Hacer constar en la declaración a que se refiere el artículo 137 los datos solicitados para la identificación de los predios que permitan su regularización fiscal;
-
-III. Insertar en las escrituras o documentos que otorguen, los datos relativos al pago de este impuesto; y
-
-IV. Abstenerse de autorizar escritura pública alguna, en la que hagan constar operaciones de traslado de dominio de bienes inmuebles, así como la constitución o transmisión de derechos reales sobre los mismos, si no han obtenido la constancia de no adeudo.
+El Organismo Coordinador determinará la existencia de condiciones económicas que motiven la revisión de tarifas, a efecto de que aquéllos que tienen a su cargo la prestación de un servicio público de transporte, no se vean afectados en su economía por realizar dicho servicio en condiciones incosteables.
 
 ###### Artículo 143.
 
-Es objeto del Impuesto Sobre Espectáculos Públicos, la explotación de cualquier diversión o espectáculo público que se realice en forma eventual o habitual en el Municipio.
+Para los efectos de lo dispuesto en los dos artículos anteriores, se deberá tomar en cuenta también lo siguiente:
 
-Por diversión o espectáculo público debe entenderse toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión, excepto cines.
+I. Dictamen del Organismo Coordinador que determine la variación porcentual que se haya producido, debido a la modificación de los costos, y justifique autorizar una tarifa distinta a la vigente;
 
-Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso a ellos se paga alguna cantidad en dinero.
+II. Observar en la aprobación de las tarifas, igual tratamiento para todos los concesionarios y prestadores que realicen el transporte en las mismas condiciones;
 
-Cuando los promotores que organicen espectáculos públicos, expidan pases u otorguen cortesías, causarán el Impuesto Sobre Espectáculos Públicos correspondiente, como si se hubiere cubierto el importe del boleto o cuota respectiva.
+III. Que la vigencia de las tarifas será indefinida y éstas sólo se modificarán al entrar en vigor las que se publiquen con posterioridad; y
+
+IV. Una vez aprobadas las tarifas, entrarán en vigor quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 144.
 
-Son sujetos del Impuesto Sobre Espectáculos Públicos, las personas físicas o morales que habitual o eventualmente promuevan, organicen o exploten las actividades señaladas en el artículo anterior.
+Los concesionarios y en general los prestadores de servicios públicos de transporte, deberán de aplicar las tarifas autorizadas conforme a las disposiciones siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+I. Las cuotas o precios tabulados en las tarifas para el transporte de pasajeros son aplicables a los adultos. Para los niños mayores de cinco años y menores de doce, se aplicará media cuota y, para los menores de cinco años, el servicio será gratuito;
+
+II. El transportista de carga, según las tarifas correspondientes a diversas clases de objetos, tendrá obligación de combinarlas, siempre y cuando esto resulte más ventajoso para el público que la aplicación de una tarifa aislada de una de ellas; y
+
+III. Los concesionarios podrán convenir con el usuario, u ofertar una cuota menor; pero en ningún caso podrán cobrar una cuota mayor a la que resulte de la aplicación de la tarifa.
 
 ###### Artículo 145.
 
-Es base gravable del Impuesto Sobre Espectáculos Públicos, el monto total del importe de los boletos de entrada o derechos de admisión vendidos, y el equivalente a los pases o cortesías.
+De la observancia de igualdad de trato para los usuarios de los servicios públicos de transporte, por parte de los concesionarios y permisionarios, quedan exceptuados:
 
-Cuando en un mismo local, se celebren diversos espectáculos explotados por una misma persona, que causen el impuesto a que se refiere este capítulo con tasas distintas, para determinar la base sobre la que deba pagarse, se aplicará la más alta.
+I. Los convenios celebrados entre el Gobierno del Estado y los concesionarios, en interés de la sociedad o de un servicio público;
+
+II. Las reducciones en las cuotas que hagan las empresas por razones de beneficencia a maestros, estudiantes, colonos, turistas, niños, compañías de espectáculos públicos o conjuntos deportivos;
+
+III. Las tarifas transitorias de pasajeros en viajes de recreo;
+
+IV. Las tarifas reducidas cuando se trate de un servicio cuantificado en kilómetros, que el pasajero podrá recorrer en cualquier dirección en determinado período de tiempo o con el carácter de abonos;
+
+V. Las tarifas para viajes redondos;
+
+VI. El transporte de artículos de primera necesidad a los lugares donde se requiera por causa de calamidad pública o de carestía, o por cualquier otra causa de interés general, en cuyo caso se podrán aplicar cuotas reducidas;
+
+VII. El transporte de personas o mercancías hacia regiones o poblados susceptibles de convertirse en centros de producción o de trabajo;
+
+VIII. El transporte de artículos inflamables y explosivos, así como aquellos objetos que por su naturaleza y características, su peso, volumen o cantidad, sean elementos determinantes para especificar la cuota o precio; y
+
+IX. Las maniobras para servicios especiales, tales como: carga o descarga, transbordo, almacenaje, limpia, demoras y arrastres.
 
 ###### Artículo 146.
 
-El Impuesto Sobre Espectáculos Públicos se causará, liquidará y pagará sobre la base que en cada caso corresponda, las tarifas o tasas siguientes:
+Los concesionarios podrán conceder pases o franquicias:
 
-I. Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., el cinco punto cuatro por ciento sobre la entrada bruta;
+I. Obligatoriamente a servidores públicos de la Federación, del Estado o de los municipios, cuyas funciones se relacionen con el servicio y estén en el ejercicio de las mismas, siempre que para ello exhiban el original del respectivo oficio de comisión;
 
-II. Circos, el cinco punto cuatro por ciento sobre la entrada bruta;
+II. Potestativamente a los empleados de los concesionarios y sus familiares, ya sean de la misma empresa o de otra similar;
 
-III. Espectáculos deportivos:
+III. En reciprocidad con otros concesionarios; y
 
-a) Box, lucha libre y otros similares, el diez por ciento sobre la entrada bruta;
-
-b) Carreras de automóviles, caballos, perros, bicicletas y motocicletas, el diez por ciento sobre la entrada bruta;
-
-c) Béisbol, fútbol, básquetbol, tenis, pelota vasca y otros juegos de pelota, el ocho por ciento sobre la entrada bruta.
-
-IV. Corridas de toros, becerradas, novilladas, jaripeos, peleas de gallos y otros espectáculos similares, el diez por ciento sobre los ingresos brutos obtenidos;
-
-V. Representaciones teatrales de comedias, drama, ópera, opereta, zarzuela, revista, vodevil, variedades, ballet o revistas sobre hielo o acuáticas, conciertos y conferencias, el cinco punto cuatro por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
-
-VI. Exhibiciones y concursos, el nueve por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo;
-
-VII. Espectáculos nocturnos diferentes a los anteriores, el diez por ciento sobre la entrada bruta; y
-
-VIII. Los no previstos en las fracciones anteriores, el diez por ciento sobre el precio de cada boleto, ficha o pase de cualquier tipo que permita el ingreso al espectáculo.
-
-Cuando el espectáculo se realice en beneficio de instituciones de asistencia pública legalmente constituidas, se aplicará la tasa del tres por ciento sobre el precio del boleto.
+IV. A las personas o grupos beneficiarios de descuentos que acuerden con los concesionarios.
 
 ###### Artículo 147.
 
-El pago del Impuesto Sobre Espectáculos Públicos, se realizará en la forma siguiente:
+La reducción de tarifas en un cincuenta por ciento de la cuota ordinaria, solamente será obligatoria:
 
-I. Previo a la realización de la diversión o espectáculo público, en el caso de que se pueda determinar anticipadamente el monto del mismo. En este caso el pago es requisito para que se pueda celebrar el evento;
+I. En los casos de calamidad pública;
 
-II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando se cause sobre el importe, de los boletos vendidos o cuotas de admisión recaudadas, diariamente, al finalizar el espectáculo, los interventores fiscales, designados por la autoridad municipal para vigilar la entrada a los mismos, harán la liquidación correspondiente y levantarán acta por duplicado, en la que se hará constar dicha liquidación. Un ejemplar del acta lo entregarán al causante y otro a la Tesorería. Con base en dicha liquidación, el contribuyente pagará el impuesto en la Tesorería que corresponda a los interventores fiscales;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-III. Si en la liquidación del impuesto hubiere error, la Tesorería determinará el impuesto causado, procediendo al cobro de la diferencia o a la devolución. En caso de que se hubiese pagado de menos, el contribuyente cubrirá la diferencia dentro de las veinticuatro horas siguientes a la notificación de la liquidación respectiva;
+II. Para estudiantes de educación secundaria, media superior y superior así como los equivalentes de estos niveles de instituciones pública (sic) o privadas, durante todo el año;
 
-IV. Si el impuesto se causa conforme a cuotas correspondientes a períodos determinados, deberán pagarse:
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2002)</small>
 
-a) Si es mensual, dentro de los primeros diez días de cada mes; o
+III. Para maestros en periodo escolar;
 
-b) Si es bimestral o por un período mayor, dentro de los quince primeros días del término; y
+IV. Para personas de edad avanzada;
 
-V. Si el espectáculo se clausura antes de la conclusión del término por el que se hubiere cubierto la cuota respectiva, quien haya hecho el pago tendrá derecho a que se le devuelva la parte proporcional que, de la cuota pagada, corresponda al tiempo comprendido entre la fecha de terminación de sus actividades gravables y la de la conclusión del plazo que haya cubierto con dicha cuota.
+V. Para personas con problemas de discapacidad; y
+
+VI. En los servicios que en forma oficial se presten a las dependencias del Gobierno del Estado, o de los municipios.
+
+Las personas de edad avanzada o con problemas de discapacidad, podrán acreditar su derecho al descuento en la tarifa a través de la apreciación personal, directa de los representantes de las empresas o con la identificación otorgada por un organismo público de asistencia social.
 
 ###### Artículo 148.
 
-Son solidariamente responsables del pago del Impuesto Sobre Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos.
+El pasaje obligatoriamente será gratuito para los miembros de la policía preventiva y autoridades de vialidad y tránsito, debidamente identificados y en el cumplimiento de sus funciones. Se presumirá que están en cumplimiento de sus funciones, cuando estén uniformados.
 
 ###### Artículo 149.
 
-Los sujetos del Impuesto Sobre Espectáculos Públicos tendrán las obligaciones siguientes:
+Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, tomando en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta competentes, conforme a las normas y procedimientos que se establezcan en el reglamento.
 
-I. Al solicitar la autorización, lo harán cuando menos siete días antes de la celebración o inicio del espectáculo, indicando en las formas aprobadas oficialmente:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-a) Su nombre y domicilio;
+### CAPITULO XIII. De la Subrogación de la Operación en la Prestación del Servicio Público de Transporte
 
-b) El tipo de evento a celebrarse;
-
-c) La ubicación del local en que vaya a celebrarse;
-
-d) El día o días en que se celebrarán las funciones y la fecha y hora en que deberán dar inicio; y
-
-e) El número de cada clase de localidades de que conste el local donde vaya a celebrarse el espectáculo.
-
-II. Al serles concedida la autorización:
-
-a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente;
-
-b) Cada boleto deberá estar numerado progresivamente y contener el nombre de la empresa o persona que realice la función, precio de entrada o admisión, la identificación de la localidad a que de derecho, lugar, fecha y hora de la función;
-
-c) Entregar a la Tesorería por duplicado y dentro del término a que se refiere la fracción anterior, el programa de la diversión o espectáculo público, los precios y horarios correspondientes, los cuales una vez autorizados, no podrán ser modificados;
-
-d) Dar aviso del cambio en los datos proporcionados en la fracción I de este artículo;
-
-e) Dar aviso de la terminación o clausura de los espectáculos, cuando éstos se celebren por un periodo indefinido, por lo menos tres días antes de la terminación, que en su momento deberá comprobar a la Tesorería;
-
-f) Los sujetos al pago de este impuesto, deberán otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería, para que desempeñen su cometido proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto, la cual se efectuará al terminar cada función, elaborándose el acta respectiva por duplicado, cuya copia conservará el contribuyente;
-
-g) Otorgar garantía suficiente en términos del presente Código; y
-
-h) Pagar los derechos por servicio de limpia, en caso necesario.
-
-El pago de este impuesto no libera a las personas físicas o morales que exploten o realicen diversiones o espectáculos públicos, de la obligación de tramitar y obtener cuando otros ordenamientos jurídicos lo determinen, las licencias o autorizaciones que se requieran para el desarrollo de las actividades a que se refiere este capítulo o para la prestación de servicios de otra naturaleza dentro del mismo local.
-
-### CAPÍTULO XII. DE LOS DERECHOS POR LOS SERVICIOS DEL REGISTRO CIVIL
-
-###### Artículo 243.
-
-Son objeto de estos derechos los servicios de inscripción de actos del estado civil y la expedición de copias de las actas respectivas, así como los servicios extraordinarios de celebración de matrimonios a domicilio y los demás que señale la legislación en la materia.
-
-###### Artículo 244.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 245.
-
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en UMA, de acuerdo a las cuotas siguientes:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-UMA
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Por la expedición de copias de actas locales del
-
-Registro Civil, incluyendo el papel sellado, por cada
-
-hoja 1.71 UMA, con excepción de la primera copia
-
-certificada del acta de registro de nacimiento de una
-
-persona y, en su caso, del acta de adopción;
-
-> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
-
-El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
-
-> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
-
-II. Registro de nacimientos ordinarios y extemporáneos, cero;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Reconocimiento de hijos 1.37
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Adopciones 2.87
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Celebración de matrimonios en oficina 11.46
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Celebración de matrimonios 57.34
-
-a domicilio de lunes a
-
-domingo
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Inscripción de sentencias 15.13
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Divorcios 20.06
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IX. Expedición de certificados de vecindad 1.37
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-X. Notas marginales en los libros de actas 2.87
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XI. Celebración de matrimonios en oficina, sábado 22.93
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XII. Rectificación de actas 1.50
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIII. Por la expedición de copias de actas foráneas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.38 UMA, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XIV. Publicación de edictos, por día 2.6
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XV. Inscripción de actas 12.30
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-XVI. Copia fiel del libro de actas 1.55
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Por búsqueda de los documentos anteriores, se pagarán 2.29 UMA, cuando no se proporcionen los datos exactos para su localización.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada. Se exceptúa de lo anterior, las fracciones I y XII.
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 149 Bis.
 
@@ -2795,733 +1981,283 @@ XII. Los demás que se establezcan en esta Ley, en el contrato de subrogación y
 
 El reglamento, establecerá las condiciones en las que los organismos públicos descentralizados puedan subrogar la operación del servicio, así como los requisitos particulares a que diera lugar la celebración del contrato.
 
-## TÍTULO QUINTO. DE LOS DELITOS FISCALES
+## TITULO SEXTO. Del Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
-### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 246.
-
-Es objeto de estos derechos la ocupación de inmuebles del dominio público del Municipio y sujetos de aquéllos las personas físicas o morales que reciban los servicios correspondientes, previa autorización correspondiente y que no afecte el flujo peatonal o vehicular.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 247.
-
-Los derechos por la ocupación de espacios, se calcularán y pagarán en UMA de conformidad con las cuotas siguientes:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.11 UMA;
-
-Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Por ocupación de espacios en la vía pública o áreas municipales para colocación de material de construcción o similar, por metro cuadrado o fracción pagarán una cuota diaria de 0.09 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Por ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos, casetas telefónicas, mobiliario urbano, por tianguis, en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.09 UMA;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, se pagará mensualmente por metro lineal, 0.1375 UMA;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican: Andamios, tapiales y otros usos no especificados, por metro lineal, metro cuadrado o fracción, por día:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a). Sobre el arroyo de una calle de la ciudad, 0.09 UMA;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b). Por ocupación de banqueta en la ciudad, 0.09 UMA;
-
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-a) Instalaciones lineales diversas por metro, 0.09 UMA;
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-b) Instalaciones no lineales, registros, cajas de válvulas y otras estructuras por metro cuadrado o fracción por planta o piso de profundidad, 0.1438 UMA;
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-c) Instalaciones lineales de tubería de cualquier tipo de combustible fósil, líquido o gas diferente de agua, por metro lineal o fracción, 0.247 UMA.
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.135 UMA; y
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Por cada poste de madera, metal, concreto o cualquier otro material, sean propios, en comodato, concesionadas o bajo cualquier título y que sean portadoras de líneas conductoras de energía eléctrica, telefonía o señales de cualquier otra índole, anualmente 0.5 UMA.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+### CAPITULO I. De la organización y funcionamiento del Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
 ###### Artículo 150.
 
-Los representantes de la Tesorería, nombrados como inspectores o interventores y facultados para tal efecto, previa autorización por escrito, podrán intervenir la taquilla, suspender o clausurar cualquier diversión o espectáculo público, cuando los sujetos de este impuesto se nieguen a permitir que éstos cumplan con su comisión o cuando no se cumplan o se violen las disposiciones que establece el presente Capítulo.
+El Registro Estatal de los Servicios Públicos de Tránsito y Transporte se organizará y funcionará conforme a las siguientes bases:
 
-El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+I. Será público y cualquier persona podrá obtener información sobre sus asientos e inscripciones y obtener a su costa las copias certificadas que solicite;
+
+II. El Registro Estatal inscribirá los documentos en donde consten las concesiones que expidan las autoridades estatales conforme a las disposiciones de esta Ley; las modificaciones que sufran y los derechos legalmente constituidos sobre las mismas;
+
+III. Será un órgano desconcentrado de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte. Su organización interna y funcionamiento, se determinará en el reglamento que al efecto expida el Titular del Poder Ejecutivo, conforme a las disposiciones de este título;
+
+IV. Las autoridades estatales están obligadas a proporcionar al Registro Estatal de los servicios públicos de tránsito y transporte, la información estadística, documental, técnica, catastral y de planificación, que éste requiera para el mejor desempeño de sus funciones;
+
+V. La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, promoverá la coordinación necesaria para reunir y procesar la información relativa a licencias y permisos, integrándola al Registro Estatal, para acreditar los supuestos de suspensión y cancelación; y
+
+VI. El Ejecutivo del Gobierno del Estado prestará la asistencia técnica necesaria y se coordinará con los ayuntamientos, para garantizar la actualización de las inscripciones en el Registro Estatal y facilitar su consulta expedita a las autoridades municipales.
 
 ###### Artículo 151.
 
-Quedan preferentemente afectos en garantía de este impuesto:
+Los concesionarios estarán obligados a proporcionar al Registro Estatal de los servicios públicos de tránsito y transporte, la información necesaria para integrar y conservar actualizados sus inscripciones y registros.
 
-I. Los bienes inmuebles en los que se exploten o realicen diversiones o espectáculos públicos, cuando sean propiedad del sujeto obligado al pago de este impuesto; y
+Para acreditar los elementos de toda concesión, los gobiernos estatal y municipales, los concesionarios y en general toda persona autorizada, solicitará los registros y certificaciones correspondientes al Registro Estatal de los Servicios Públicos de Tránsito y Transporte.
 
-II. El equipo y las instalaciones que se utilicen en la diversión o espectáculo público.
-
-### CAPÍTULO XIV. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 247 Bis.
-
-Son objeto de estos derechos los servicios prestados en materia de Protección Civil y los demás que señalen las disposiciones aplicables en la materia.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 247 Ter.
-
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 247 Quáter.
-
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en UMA los siguientes derechos (sic):
-
-I. Por la emisión de dictámenes técnicos de instalaciones públicas y privadas, existentes y futuras, de acuerdo a la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave y su Reglamento.
-
-UMA
-
-a) Alto Riesgo
-
-1. De 1 a 166 metros cuadrados de superficie 31.598
-
-2. De 167 a 332 metros cuadrados de superficie 63.196
-
-3. De 333 a 500 metros cuadrados de superficie 97.224
-
-b) Riesgo Medio
-
-1. De 1 a 166 metros cuadrados de superficie 27.952
-
-2. De 167 a 332 metros cuadrados de superficie 55.904
-
-3. De 333 a 500 metros cuadrados de superficie 85.071
-
-c) Bajo Riesgo
-
-1. De 1 a 60 metros cuadrados de superficie 8.507
-
-2. De 61 a 125 metros cuadrados de superficie 17.014
-
-3. De 126 a 190 metros cuadrados de superficie 25.521
-
-4. De 191 a 250 metros cuadrados de superficie 34.028
-
-5. De 251 a 315 metros cuadrados de superficie 42.536
-
-6. De 316 a 380 metros cuadrados de superficie 51.043
-
-7. De 381 a 500 metros cuadrados de superficie 72.918
-
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 24.036 UMA adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
-
-II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
-
-UMA
-
-a) Persona Física 2.431
-
-b) Persona Moral 72.918
-
-III. Por registro al padrón municipal de tercero acreditado, que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo de vulnerabilidad, programas internos y especiales, de persona física o moral, la cantidad de 30.383 UMA;
-
-Para poder tramitar el registro a que se refiere el párrafo anterior, se requerirá contar con su acreditación estatal vigente.
-
-IV. Renovación anual al padrón municipal de terceros acreditados, de persona física o moral, la cantidad de 14.584 UMA;
-
-Para poder tramitar la renovación a que se refiere el párrafo anterior, se requerirá contar con su acreditación estatal vigente.
-
-V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el Municipio para promotores particulares, se pagará:
-
-Por aforo del evento:
-
-UMA
-
-a) De 1 a 1,000 asistentes: 48.612
-
-b) De 1,001 a 5,000 asistentes: 72.918
-
-c) De 5,001 a 10,000 asistentes: 97.224
-
-d) De 10,001 en adelante: 109.377
-
-VI. Por el Visto bueno sin uso de gas, para locales comerciales establecidos en el Municipio se pagarán:
-
-UMA
-
-a) De 1 a 30 metros cuadrados 4
-
-b) De 31 a 60 metros cuadrados 8
-
-c) De 61 a 90 metros cuadrados 17
-
-d) De 91 a 125 metros cuadrados 12
-
-e) De 126 a 190 metros cuadrados 25
-
-f) De 191 a 250 metros cuadrados 34
-
-g) De 251 a 315 metros cuadrados 42
-
-h) De 316 a 380 metros cuadrados 50
-
-De 381 a 500 metros cuadrados 59
-
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 UMA adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
-
-VII. Por Visto bueno con uso de gas, para locales comerciales establecidos en el Municipio, se pagarán:
-
-UMA
-
-a) De 1 a 30 metros cuadrados 12
-
-b) De 31 a 60 metros cuadrados 17
-
-c) De 61 a 90 metros cuadrados 25
-
-d) De 91 a 125 metros cuadrados 34
-
-e) De 126 a 190 metros cuadrados 42
-
-f) De 191 a 250 metros cuadrados 50
-
-g) De 251 a 315 metros cuadrados 59
-
-h) De 316 a 380 metros cuadrados 68
-
-i) De 381 a 500 metros cuadrados 76
-
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 24 UMA adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
-
-VIII. Por Visto Bueno o constancia de afectación, en la cual, derivado de la revisión se podrá indicar si existe o no daño o afectación en el inmueble y se cobrará conforme a lo siguiente:
-
-a) Para micro, pequeña y mediana empresa, se pagará la cantidad de 5.2 UMA.
-
-b) Para construcciones particulares por riesgo y vulnerabilidad del lugar donde se habita, se pagará la cantidad de 2 UMA.
-
-IX. Por Servicios de supervisión y apoyo en el desarrollo de espectáculos privados en el Municipio, se pagarán por día:
-
-UMA
-
-a) Por cada elemento operativo 4
-
-b) Por cada supervisor 6
-
-c) Por vehículo de emergencia requerido 12.5
-
-X. Constancia de Anuencia y/o Visto Bueno de Protección Civil, respecto de la revisión de seguridad de las Unidades Económicas Lucrativas, 5 UMA;
-
-XI. Constancia de Visto Bueno de Programa Interno de Protección Civil, respecto de la revisión de seguridad de las Unidades Económicas Lucrativas, 5 UMA;
-
-XII. Constancia de Visto Bueno de no riesgo, respecto de la revisión de seguridad de las Unidades Económicas Lucrativas, para establecimientos comerciales, industriales y de servicios, se pagará en UMA, de acuerdo a la clasificación siguiente:
-
-UMA
-
-a) De 1 a 30 metros cuadrados 8
-
-b) De 31 a 60 metros cuadrados 14.37
-
-c) De 61 a 90 metros cuadrados 20.75
-
-d) De 91 a 125 metros cuadrados 27.12
-
-e) De 126 a 190 metros cuadrados 33.50
-
-f) De 191 a 250 metros cuadrados 39.87
-
-g) De 251 a 315 metros cuadrados 46.25
-
-h) De 316 a 380 metros cuadrados 52.62
-
-i) De 381 a 500 metros cuadrados 59
-
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 UMA adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
-
-XIII. Pliego de recomendaciones o medidas de seguridad de Protección Civil, respecto de la revisión de seguridad de las Unidades Económicas Lucrativas, para los giros comerciales, industriales, de servicios y asentamientos urbanos de riesgo medio, 12 UMA;
-
-XIV. Constancia técnica de Protección Civil, respecto de la revisión de seguridad de las Unidades Económicas Lucrativas:
-
-a) Para los giros comerciales de riesgo bajo, 8 UMA;
-
-b) Para los giros comerciales de riesgo medio, 12 UMA; y,
-
-c) Para los giros comerciales de riesgo alto, 16 UMA;
-
-XV. Por la prestación del servicio de ambulancia municipal a personas físicas que cuenten con algún tipo de seguro que les cubra este servicio, se cobrará a la aseguradora:
-
-a) Por prestación del servicio de primeros auxilios sin traslado, la cantidad de 2 UMA;
-
-b) Por el traslado de acuerdo a la siguiente clasificación:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINA 113.]</small>
-
-La atención fuera del Municipio de Coatzacoalcos, considera 50 km después del perímetro del Municipio.
-
-Se entenderá por Ambulancia de urgencias básicas o avanzadas a aquellas con un operador de ambulancia Técnico en Atención Médica Prehospitalaria, capacitado en conducción de vehículos para traslado de pacientes ambulatorios y al menos un copiloto Técnico en Atención Médica Prehospitalaria, quienes deberán estar capacitados de acuerdo con la capacidad operativa de la ambulancia.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+### CAPITULO II. De las inscripciones en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte
 
 ###### Artículo 152.
 
-Es objeto de este impuesto, la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos y concursos dentro del Municipio, así como la obtención de los premios correspondientes.
+Deberán inscribirse en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte:
+
+I. Las licencias o permisos para operar o conducir vehículos que expida la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte;
+
+II. Los vehículos domiciliados en el Estado;
+
+III. Las licencias y contratos que permitirán a los conductores, choferes y operadores de vehículos, acreditar su antigüedad como trabajadores del servicio público de transporte;
+
+IV. Todas las concesiones y permisos en sus distintas modalidades, que expida el Ejecutivo del Gobierno del Estado;
+
+V. Todas las resoluciones judiciales o administrativas que reconozcan, creen, modifiquen o extingan derechos en relación con la titularidad y los derechos derivados de las concesiones a que se refiere la fracción anterior;
+
+VI. Todos los actos, autorizados conforme a las disposiciones de esta Ley, para trasmitir la titularidad de las concesiones;
+
+VII. La lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos de la concesión, cuando su titular sea una persona física;
+
+VIII. Los documentos relativos a las asociaciones de concesionarios;
+
+IX. Las unidades pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos;
+
+X. La demás información relevante, relacionada con la administración del servicio público de transporte, actos y documentos que dispongan esta Ley y sus reglamentos.
+
+Cuando los actos que deban inscribirse en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte, no se inscriban, si no contravienen las disposiciones de esta Ley, sólo surtirán efectos entre los otorgantes, pero no podrán producir perjuicio a terceros, quienes sí podrán aprovecharlos en lo que les fueren favorables.
+
+El Registro Estatal de los Servicios Públicos de Tránsito y Transporte deberá publicar, cada seis meses, en el Periódico Oficial "El Estado de Jalisco", la lista de los conductores y operadores, indicando de cada uno su antigüedad como trabajador del servicio público de transporte; la concesión en que se encuentre laborando y su modalidad, así como las modificaciones que cada seis meses se registren en el padrón.
 
 ###### Artículo 153.
 
-Son sujetos de este impuesto, las personas físicas o morales, que promuevan u organicen los eventos, así como quienes obtengan los premios a que se refiere el artículo anterior.
+Las inscripciones en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y las constancias que de ellas se expidan, harán prueba plena. En todo caso, dichas constancias serán los documentos que permitirán acreditar:
 
-## TÍTULO PRIMERO. DE LOS IMPUESTOS
+I. Los requisitos para solicitar y obtener una concesión;
 
-### CAPÍTULO XV. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR EL CENTRO DE SALUD ANIMAL
+II. La titularidad de toda concesión, en sus distintas modalidades y los derechos específicos derivados de la misma;
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+III. La designación de sucesor que formule el titular de la concesión, cuando sea una persona física;
 
-###### Artículo 247 Quinquies.
+IV. Las modificaciones de una concesión y los derechos que legalmente se constituyan sobre las mismas; y
 
-Son objeto de estos derechos los servicios prestados por el Centro de Salud Animal y los demás que señalen las disposiciones aplicables en la materia.
+V. Las asociaciones que integren los concesionarios.
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+El Registro Estatal de los Servicios Públicos de Tránsito y Transporte, expedirá a quienes las soliciten, copias certificadas de los documentos que obren en su poder y certificará los datos contenidos en los mismos.
 
-###### Artículo 247 Sexies.
+## TITULO SEPTIMO. De las responsabilidades; medidas de seguridad; infracciones; sanciones; inspección y vigilancia y medios de defensa de los particulares
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 247 Septies.
-
-Los derechos a que se refiere este Capítulo se causarán y cobrarán, de conformidad con las cuotas siguientes:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 113 A LA 115.]</small>
-
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+### CAPITULO I. De las responsabilidades
 
 ###### Artículo 154.
 
-Es base gravable de este impuesto:
+Incurrirán en responsabilidad los encargados del Registro Estatal por:
 
-I. El importe total de los boletos o billetes de participación vendidos;
+I. Inscribir o registrar documentos e instrumentos que no se ajusten a las disposiciones de esta Ley y del reglamento que regule su funcionamiento;
 
-II. El importe total de los premios ofrecidos, en rifas o sorteos en que no se emitan billetes o que no tengan valor nominal; y
+II. Proporcionar informes, datos o documentos alterados o falsificados; y
 
-III. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero.
-
-Si los premios consisten en bienes distintos al dinero, se tendrá como base del impuesto, el valor que señalen a dichos bienes los organizadores.
-
-Si la Tesorería considera que el valor a que se refiere el párrafo anterior, no es el que realmente le corresponde, ordenará que se valúen los bienes en cuestión, por medio de peritos y el valor así determinado será la base gravable.
-
-Quienes promuevan u organicen los eventos a que se refiere este capítulo serán responsables de retener el impuesto que le corresponde pagar al ganador del premio y enterarlo a la Tesorería.
+III. Faltar a la obligación de mantener a consulta del público los documentos que conforme a esta Ley, deban inscribirse en el Registro Público a su cargo.
 
 ###### Artículo 155.
 
-Este impuesto se causará, liquidará y pagará, aplicando a la base gravable determinada, la tasa del veinte por ciento sobre el valor nominal total de los boletos o billetes vendidos o, cuando el mismo no pueda determinarse, sobre el valor total de los premios ofrecidos.
+Los servidores públicos, estatales y municipales, encargados de la aplicación de la presente Ley, que no observen u omitan acatar sus disposiciones, incurrirán en responsabilidad y serán sancionados conforme las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Las personas que obtengan premios por participar en loterías, rifas, sorteos o concursos pagarán una tasa del seis por ciento sobre el monto total del ingreso obtenido.
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 248.
-
-Es objeto de estas contribuciones la mejora o beneficio particular que tengan los bienes inmuebles, por la realización de las obras públicas de urbanización siguientes:
-
-I. Las de captación de agua; Las de instalación de tuberías de distribución de agua;
-
-II. Las de construcción o reconstrucción de alcantarillado, drenaje, desagüe, entubamiento de aguas de ríos, arroyos y canales;
-
-III. Las de pavimentación de calles y avenidas;
-
-IV. Las de apertura, ampliación y prolongación de calles y avenidas;
-
-V. Las de construcción y reconstrucción de banquetas; y
-
-VI. Las de instalación de alumbrado público.
-
-###### Artículo 249.
-
-Son sujetos de las Contribuciones por Mejoras y están obligados a pagarlas, las personas físicas o morales propietarias o poseedoras de los bienes inmuebles que tengan una mejora o beneficio particular por la realización de obras públicas.
-
-###### Artículo 250.
-
-Para los efectos de este capítulo se entiende por beneficio o mejora general o particular que tengan los bienes inmuebles, el costo neto de la realización de una obra pública, conforme al artículo 253 de este Código.
-
-El beneficio o mejora particular es el resultado de aplicar los porcentajes siguientes, a los costos netos de las obras realizadas:
-
-Tratándose de las obras señaladas en el artículo 248 sobre el costo neto:
-
-I. Las comprendidas en la fracción I, cincuenta por ciento;
-
-II. Las comprendidas en la fracción II, ochenta y cinco por ciento; y
-
-III. Las comprendidas en las fracciones III a VII:
-
-a) Si las obras son realizadas en avenidas o calles de circulación intensa de vehículos o personas, cincuenta por ciento;
-
-b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas setenta y cinco por ciento;
-
-c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento;
-
-###### Artículo 251.
-
-Para la determinación de las contribuciones por mejoras que se hará a través del sistema de derrama del beneficio particular, se atenderá a las siguientes reglas.
-
-I. Se obtendrá una cuota unitaria dividiendo el beneficio o mejora particular entre la suma de los metros cuadrados de superficie de los bienes inmuebles beneficiados;
-
-II. Tratándose de los casos comprendidos en el artículo 248, excepto las fracciones I y V, serán bienes inmuebles beneficiados:
-
-a) En materia de redes de distribución de agua, drenaje y alcantarillado, los de ambas aceras si se trata de una o más tuberías instaladas en la calle, pero que presten servicio a las dos;
-
-b) Si la tubería queda instalada en uno de los lados de la calle y sólo presta servicio a los de la acera más cercana, son beneficiados los de ésta;
-
-c) En los casos de banquetas, los adyacentes a las banquetas construidas en cada acera;
-
-d) En los casos de alumbrado público los de ambas aceras, independientemente de donde se coloquen los postes y lámparas;
-
-e) En los casos de pavimentación de calles y avenidas:
-
-1.- Los de ambas aceras cuando la pavimentación cubra la totalidad del arroyo;
-
-2.- Los de la acera más cercana a la faja pavimentada partiendo del eje del arroyo, si ésta cubre la mitad o menos de la mitad; y
-
-3.- Los de ambas aceras cuando la obra de pavimentación cubra ambos lados del eje del arroyo en función al número de metros cuadrados de pavimento que cubra cada mitad del arroyo.
-
-III. Tratándose de los casos comprendidos en las fracciones I y V del artículo 248 serán bienes inmuebles beneficiados los que se señalen en la relación a que se refiere la fracción VI del artículo 253.
-
-###### Artículo 252.
-
-Las contribuciones por mejoras se causarán al terminarse y ponerse en servicio las obras; y se liquidarán y pagarán de acuerdo a lo siguiente:
-
-I. Se multiplicará la cuota unitaria por el número de metros cuadrados de superficie de cada inmueble beneficiado y el resultado será el importe de la contribución. Cuando se trate de inmuebles sujetos al régimen de propiedad en condominio divididos en pisos, de departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra de construcción o reconstrucción. La parte de los derechos a cargo de cada condómino se determinará dividiendo el monto que corresponda a todo el inmueble entre la superficie de construcción del mismo, exceptuando las áreas de uso común y multiplicando ese cociente por el número de metros que corresponda, al piso, departamento, vivienda o local de que se trate;
-
-II. Se pagarán:
-
-a) Cuando las obras se realicen con recursos provenientes de créditos, en los plazos máximos de los créditos recibidos para tal fin; y
-
-b) Cuando las obras se realicen con recursos propios, en un plazo máximo de tres años.
-
-El importe de la contribución que resulte, se dividirá entre el número de bimestres que comprenda el plazo que corresponda, cubriéndose en los meses de febrero, abril, junio, agosto, octubre y diciembre, debiéndose hacer el primer pago en el bimestre siguiente al en que se haya notificado dicho importe.
-
-###### Artículo 253.
-
-Los planes o proyectos, aprobados por el Ayuntamiento, referentes a la realización de cualquiera de las obras mencionadas en el artículo 248, deberán notificarse a los particulares de acuerdo a la Ley Orgánica del Municipio Libre y ser publicados por lo menos quince días antes de su inicio, para que los contribuyentes hagan las observaciones pertinentes, en un periódico de circulación local y en la tabla de avisos, conteniendo los datos siguientes:
-
-I. Naturaleza de la obra, especificando si se trata de construcción o reconstrucción de la existente;
-
-II. Determinación de la zona que se beneficia o mejora con la obra, así como de las afectaciones en su caso;
-
-III. Costo total de la obra que incluirá los siguientes conceptos:
-
-a) Importe del anteproyecto y del proyecto;
-
-b) Importe de materiales, mano de obra e indirectos a erogar con motivo de la ejecución material de la obra;
-
-c) Gastos por financiamiento, en su caso;
-
-d) Gastos por pago de indemnizaciones que deban cubrirse, en su caso;
-
-IV. Deducciones en su caso, por:
-
-a) Aportaciones de los Gobiernos Federal, Estatal y Municipal;
-
-b) Donativos de los particulares;
-
-c) Recuperaciones por venta de excedentes de bienes inmuebles expropiados;
-
-V. Costo neto;
-
-VI. Relación de bienes inmuebles afectados o beneficiados, señalando su propietario o poseedor, así como la fuente de información;
-
-VII. Relación de metros cuadrados de superficie por predio y su fuente de información;
-
-VIII. Cuota unitaria por metro cuadrado determinada en términos del artículo 251 fracción I; y
-
-IX. Plazo para el pago.
-
-La documentación que sustenta la realización de los proyectos de obra estará a disposición de las personas obligadas a pagar las contribuciones durante los quince días siguientes a la fecha de la publicación a que se refiere este artículo, pudiendo impugnar el acto durante los treinta días posteriores a la mencionada publicación.
-
-Las afectaciones de inmuebles se regirán por la Ley Orgánica del Municipio Libre y por la ley de la materia. Una vez que hayan ingresado al patrimonio municipal se regirán por lo que dispone este Código.
-
-###### Artículo 254.
-
-Para los efectos del artículo 252 de este Código se entiende por terminada y puesta en servicio la obra, el día en que el ejecutor de la misma, la entregue mediante acta circunstanciada al Ayuntamiento.
-
-###### Artículo 255.
-
-La falta de pago de dos cuotas bimestrales consecutivas hará exigible el total del crédito fiscal, el cual podrá recuperarse mediante el procedimiento administrativo de ejecución.
-
-La contribución a que se refiere este capítulo, afecta directamente a los predios beneficiados. En consecuencia, la Tesorería tendrá acción real, contra cualquier poseedor o propietario de los inmuebles beneficiados.
-
-###### Artículo 256.
-
-Los notarios y funcionarios con fe pública no autorizarán contrato alguno de compraventa, cesión o cualquier otro que tenga por objeto la enajenación de bienes inmuebles, si no se demuestra por medio de recibos o boletas y constancias de no adeudo, que el bien inmueble de que se trata está al corriente del pago de las contribuciones que establece este capítulo. En caso de que existan créditos no vencidos a la fecha de la escrituración, los fedatarios señalados anteriormente podrán autorizarla, siempre y cuando acepte el adquirente dicho crédito y se haga constar en el texto de la misma.
-
-###### Artículo 257.
-
-Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
-
-## TÍTULO CUARTO. DE LOS PRODUCTOS
-
-###### Artículo 258.
-
-Los productos de su patrimonio, que obtenga el Ayuntamiento, en funciones de derecho privado, se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
-
-###### Artículo 259.
-
-Quedan comprendidos como productos, los ingresos que obtiene el Municipio por concepto de:
-
-I. Venta de bienes de dominio privado, en términos del Libro Sexto de este Código.
-
-II. De arrendamiento de bienes muebles o inmuebles, considerados como bienes de dominio privado, en términos del Libro Sexto del presente Código;
-
-III. Explotación o enajenación de cualquier naturaleza de los bienes de propiedad municipal no destinados a servicio público;
-
-IV. Venta de impresos y papel especial que no causen derechos;
-
-V. Rendimientos financieros provenientes de capitales o valores a favor del Municipio;
-
-VI. Actividades de empresas o establecimientos en los que participe el Municipio;
-
-VII. Almacenaje o guarda de bienes; y
-
-VIII. Diversos.
-
-Los productos por conceptos diversos se cobrarán en términos de los contratos o de las concesiones correspondientes y de conformidad con las disposiciones legales aplicables.
-
-###### Artículo 260.
-
-Los productos a que se refieren las fracciones I a IV del artículo anterior se sujetarán a las disposiciones del Libro Sexto de este Código; los de la fracción V, a los contratos que al efecto celebre el Ayuntamiento con la institución crediticia correspondiente; y los de la fracción VI, conforme a los rendimientos que se generen.
-
-###### Artículo 261.
-
-Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.036 UMA; y
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.072 UMA;
-
-Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
-
-###### Artículo 262.
-
-Para el aseguramiento de las obligaciones respecto al uso o aprovechamiento de bienes de dominio privado municipales, el usuario deberá otorgar garantía que asegure el interés fiscal.
-
-## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
-
-###### Artículo 263.
-
-El Ayuntamiento tendrá los siguientes aprovechamientos:
-
-I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente. En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, arbolado, áreas verdes, jardineras o parques públicos, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
-
-III. Legados y Donaciones recibidos; y
-
-IV. Aprovechamientos diversos.
-
-###### Artículo 264.
-
-Los aprovechamientos, se aplicarán y pagarán de conformidad con lo que establece este ordenamiento y las demás leyes fiscales que resulten aplicables.
-
-Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, en la vía judicial o por medio del procedimiento económico coactivo.
-
-###### Artículo 265.
-
-Las cantidades en efectivo o los bienes que el Ayuntamiento reciba por concepto de herencia, legado, donación o indemnización, se harán efectivos de acuerdo con las leyes respectivas y con las disposiciones de los testadores o donantes, o con sujeción a las resoluciones en que se decreten las indemnizaciones o a los convenios que respecto a ellas se celebren.
-
-## TÍTULO SEXTO. DE LAS PARTICIPACIONES FEDERALES
-
-###### Artículo 266.
-
-Las participaciones que correspondan al Municipio en materia de ingresos federales, se integrarán a la Hacienda Pública Municipal, con arreglo a la normatividad aplicable, para ser destinadas a los fines previstos en el Presupuesto de Egresos del Municipio y demás disposiciones.
-
-## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
-
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
-
-###### Artículo 267.
-
-Las aportaciones federales son ingresos que percibe el Municipio, derivados de los fondos establecidos en el Capítulo V de la Ley de Coordinación Fiscal.
-
-## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
-
-###### Artículo 268.
-
-Los ingresos extraordinarios se causarán y recaudarán de conformidad con los ordenamientos, decretos, acuerdos o convenios que los establezcan y formarán parte de la Cuenta Pública.
-
-# LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL
-
-## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
+### CAPITULO II. De las medidas de seguridad
 
 ###### Artículo 156.
 
-Este impuesto se deberá pagar en la Tesorería, a más tardar el día hábil siguiente a aquél en que se efectúen los eventos a que se refiere el presente capítulo.
+Procederá aplicar, como medida de seguridad, el retiro de la circulación de un vehículo, cuando:
+
+I. Circule sin placas o sin el permiso correspondiente;
+
+II. El vehículo porte placas sobrepuestas;
+
+III. Carezca de los requisitos necesarios para circular, o contando con permiso vigente, se use con fines distintos a los estipulados en el mismo;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IV. El vehículo se encuentre estacionado en lugar prohibido, frente a cochera, estacionamiento exclusivo o abandonado en la vía pública; o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor, y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Contamine visiblemente, en este caso se estará a lo dispuesto por el reglamento respectivo; y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
+
+VI. El vehículo sea de uso particular y porte los colores asignados por la dependencia del ejecutivo del estado competente en materia de vialidad, tránsito y transporte, para las unidades de transporte público.
 
 ###### Artículo 157.
 
-Son responsables solidarios del pago de este impuesto, las personas físicas o morales, que promuevan u organicen loterías, rifas y sorteos de toda clase, respecto de la obligación de retener y enterar el impuesto que corresponda a cargo de quienes obtienen premios derivados de dichos eventos.
+Las autoridades estatales y municipales de vialidad y tránsito, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
+
+I. La autoridad, a través de sus agentes, notificará al propietario del vehículo o a su conductor u operador que, con el carácter de medida de seguridad, el vehículo deberá ser retirado de la circulación, señalando los motivos e indicando su fundamento;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+II. En el mismo acto, el particular notificado deberá indicar el depósito público al cual deberán trasladar el vehículo;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Sólo en caso de negativa del propietario, conductor u operador del vehículo, manifestada en forma expresa o tácita o, en caso de ausencia de éste, el agente de tránsito podrá ordenar se retire el vehículo de la vía pública, tomando las medidas necesarios (sic) para trasladarlo a un depósito público;
+
+IV. En el caso previsto en la fracción IV, del artículo anterior, si el conductor llegare cuando se estén realizando las maniobras para retirar el vehículo, podrá recuperarlo de inmediato previo pago contra recibo que le expida el servicio de grúa, sin perjuicio de las infracciones en que haya incurrido; y
+
+V. En todo caso, el agente de tránsito que intervenga levantará el acta correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 158.
 
-Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
+Las autoridades de vialidad y tránsito, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
 
-I. Presentar a la Tesorería la emisión total del boletaje o billetes de participación, cuando menos quince días hábiles anteriores a aquél en que se realizará el evento de que se trate, con el propósito de que sean autorizados con el sello correspondiente;
+I. Participación en flagrante delito en el que el vehículo sea instrumento del mismo;
 
-II. Numerar progresivamente cada boleto o billete, que contendrá el nombre de la persona o institución que organice el evento, el importe del boleto, la identificación del o los números claves de participación, lugar y fecha de celebración del evento, así como la descripción de los premios a ganar;
+II. Existencia de informe oficial de un delito o de su presunción fundada, en el que el vehículo sea objeto o instrumento;
 
-III. Presentar a favor de la Tesorería dentro del plazo señalado en la fracción anterior alguna de las siguientes garantías: Depósito en efectivo, fianza de institución afianzadora autorizada u obligación solidaria asumida por tercero que compruebe su solvencia.
+III. Acatamiento de una orden judicial; y
 
-Dicha garantía deberá ser al menos, por un importe igual al total de la emisión de boletos o billetes de participación;
+IV. Violación, por el conductor, de una medida de seguridad aplicada conforme a los artículos que anteceden.
 
-IV. Dar aviso a la Tesorería por escrito, a más tardar dos días hábiles anteriores a aquél señalado para efectuar los eventos de referencia, de cualquier modificación que se haga a los términos establecidos para la realización de los mismos;
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-V. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido, proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto;
+V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuando no demuestre la posesión o legal propiedad del vehículo.
 
-VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154 y 156 de este Código, el día hábil siguiente al de la entrega de los premios, entretanto no se cancelarán las garantías otorgadas; y
+Las autoridades de vialidad y tránsito, en ningún otro caso de los antes previstos, podrán retener un vehículo.
 
-VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 159.]</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Artículo 158 (SIC).- No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a las 718.64 UMA.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 159.
 
 Las autoridades de vialidad y tránsito, no están autorizadas para recoger al operador o conductor, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento, con excepción de los vehículos de transporte público, de carga o de pasajeros.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
-
-###### Artículo 269.
-
-Son atribuciones de la Tesorería, en materia de administración financiera, las siguientes:
-
-I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
-
-II. La recepción de fondos ajenos en calidad de depósito;
-
-III. La guarda, custodia y control de fondos y valores de propiedad municipal;
-
-IV. La emisión, guarda, custodia, control, distribución y destrucción de formas valoradas;
-
-V. La programación y realización de pagos a terceros con cargo al presupuesto del Municipio;
-
-VI. La contratación de servicios bancarios o de seguros y fianzas que requiera el Ayuntamiento;
-
-VII. La constitución de garantías a favor o a cargo del Municipio, así como su guarda y custodia;
-
-VIII. Participar con voz en la formación y discusión de los presupuestos;
-
-IX. Informar al Ayuntamiento de los derechos que tenga a su favor el fisco municipal, para que sean ejercitados o deducidos por el Síndico;
-
-X. Supervisar, el primer día de cada mes, con la intervención de la Comisión de Hacienda, el corte de caja del movimiento de caudales del mes anterior. De este documento remitirán una copia al Congreso, así como a los Ediles que lo soliciten y, en su caso, contestar a éstos, por escrito y en el término de diez días hábiles, las dudas que tuvieren;
-
-XI. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del anterior para su glosa preventiva, debiendo aquél remitirla al Congreso dentro de los diez días siguientes;
-
-XII. Proporcionar todos los informes que el Ayuntamiento o alguno de los ediles le solicite;
-
-XIII. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados de la Tesorería;
-
-XIV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
-
-XV. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
-
-###### Artículo 270.
-
-La Tesorería emitirá los lineamientos bajo los cuales se brindarán los servicios que presta y dictará las reglas administrativas que establezcan los sistemas e instrucciones en la materia.
-
-###### Artículo 271.
-
-Son obligaciones de los servidores públicos que recauden, manejen, custodien o administren fondos o valores de la propiedad municipal o al cuidado del Ayuntamiento, en términos de este Código, la Ley Orgánica del Municipio Libre y otras disposiciones aplicables, las siguientes:
-
-I. Dar o presentar los avisos, datos informes, libros, registros, padrones y demás documentos que se les exijan;
-
-II. Abstenerse de asentar hechos falsos o alterar los libros y documentos a que se refiere la fracción anterior; o coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para terceros;
-
-III. Abstenerse de faltar en cualquier otro caso a las obligaciones que le impongan este Código y las disposiciones reglamentarias; y
-
-IV. Pagar de su peculio las primas relativas a las fianzas suficientes para garantizar el pago de las responsabilidades en que pudiere incurrir en el desempeño de su encargo.
-
-###### Artículo 272.
-
-El servicio de recaudación y concentración de fondos podrá efectuarse por conducto de las instituciones bancarias, crediticias o comerciales que autorice la Tesorería.
-
-###### Artículo 273.
-
-Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
+### CAPITULO III. De las sanciones administrativas en materia de vialidad y tránsito
 
 ###### Artículo 160.
 
-El Cabildo podrá autorizar el pago de cuotas fijas como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en este Capítulo o cuando no se compense el sostenimiento de su interventor.
+Las infracciones en materia de vialidad y tránsito, serán sancionadas administrativamente por las autoridades de la materia, en los términos de esta Ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
 ###### Artículo 161.
 
-Es objeto de este impuesto, la explotación comercial de los juegos siguientes: billar, dominó, dados, ajedrez, damas, boliche, similares y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal.
+Se sancionará con multa equivalente a un día de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+
+I. Falta de defensa;
+
+II. Falta de limpiabrisas;
+
+III. Falta de espejo lateral;
+
+IV. Falta de equipo de protección que señale el reglamento de esta Ley;
+
+V. No presentar la tarjeta de circulación vigente;
+
+VI. Tener el vehículo su parabrisas estrellado, de tal manera que dificulte la visibilidad;
+
+VII. Carecer el vehículo de holograma que contenga el número de las placas; y
+
+VIII. Usar luces no permitidas por el reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 162.
 
-Son sujetos de este impuesto, las personas físicas o morales, ya sean propietarias o arrendatarias de los establecimientos donde tenga acceso el público, en que se practiquen los juegos a que se refiere este capítulo.
+Se sancionará con multa equivalente a un día de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+
+I. No presentar licencia o permiso vigente para conducir;
+
+II. Estacionarse en zona prohibida en calle local;
+
+III. Falta parcial de luces;
+
+IV. Usar cristales u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo;
+
+V. (DEROGADA, P.O. 13 DE MARZO DE 2003)
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. Estacionarse en sentido contrario a la circulación;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. No usar el cinturón de seguridad, tanto el conductor como sus acompañantes;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VIII. Circular en reversa más de diez metros;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IX. Dar vuelta prohibida;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+X. Producir ruido excesivo con claxon o mofle; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XI. Falta de una placa de circulación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 163.
 
-Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
+Se sancionará con multa equivalente a dos días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 164.]</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
-Artículo 163 (SIC).- Este impuesto se causará y pagará conforme a las tarifas y clasificaciones siguientes:
+I. Prestar servicio de reparación en la vía pública, cuando obstaculice o entorpezca la vialidad, salvo casos de emergencia;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+II. Abandonar el vehículo en la vía pública, en los términos que establezca el reglamento;
 
-I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, 3.6 UMA;
+III. Cargar y descargar fuera del horario autorizado;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Manejar vehículos de motor con personas, mascotas u objetos que obstaculicen la conducción;
 
-II. Los juegos de boliche, por mesa, 5.39 UMA;
+V. Colocar las placas en lugar distinto al que señale el reglamento de esta Ley;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+VI. Negarse a acatar la medida que ordene retirar a un vehículo de circulación;
 
-III. Videojuegos, 3.6 UMA por máquina; y
+VII. Conducir un vehículo al que la autoridad de vialidad y tránsito lo haya declarado fuera de circulación;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+VIII. Circular con placas ocultas, total o parcialmente; o llevar en la parte exterior del vehículo, además de las placas autorizadas, otras diferentes que contengan numeración o que impidan la visibilidad de aquéllas.;
 
-IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, 5.39 UMA.
+IX. Estacionarse en lugares reservados para vehículos conducidos por personas con problemas de discapacidad;
+
+X. Modificar, sin autorización oficial, las características del vehículo previstas en el reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XI. Transportar carga en forma distinta a la señalada por el reglamento;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XII. No respetar las indicaciones de los oficiales y agentes de vialidad y tránsito;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XIII. Invadir zona peatonal;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XIV. No hacer alto en vías férreas,
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 164.
 
@@ -3581,35 +2317,9 @@ XX. A la persona que conduzca un vehículo de motor en ciclo pistas, zonas peato
 
 ###### Artículo 165.
 
-Este impuesto se pagará en la Tesorería, los primeros cinco días de cada mes.
+Se sancionará con multa equivalente de ocho días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, por no respetar la luz roja del semáforo (alto), o el señalamiento de Alto que realice un oficial o agente de vialidad y tránsito.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 166.]</small>
-
-Artículo 165 (SIC).- Las personas a quienes se conceda autorización para celebrar los eventos a que se refiere este capítulo, tendrán las siguientes obligaciones:
-
-I. Solicitar previamente la licencia para celebrar los juegos a la autoridad competente;
-
-II. Dar aviso a la Tesorería de la iniciación de sus actividades, con cinco días de antelación cuando menos, indicando el número y fecha de oficio en que conste la licencia que se le haya concedido y la autoridad que la haya otorgado;
-
-III. Dar aviso a la Tesorería del traspaso o traslado del negocio y de la terminación de las actividades gravadas, antes de que estos hechos ocurran; y
-
-IV. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido.
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-V. Avisar por escrito a la autoridad competente de los incrementos o disminuciones de juegos permitidos;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VI. Solicitar por escrito la suspensión temporal de actividad;
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VII. Realizar el pago correspondiente conforme a lo establecido en la Ley de Ingresos y demás ordenamientos jurídicos aplicables; y
-
-> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-VIII. Refrendar cada año la licencia para la explotación comercial de los juegos permitidos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 166.
 
@@ -3637,57 +2347,111 @@ VI. No disponer de un seguro que cubra los posibles daños a terceros, dicha san
 
 ###### Artículo 167.
 
-La Tesorería podrá impedir la celebración de los juegos a que se refiere este capítulo cuando se carezca de la licencia respectiva, cuando no se pague el impuesto en términos de ley o cuando se impida a las autoridades fiscales cumplir su cometido.
+Se sancionará con multa equivalente a diez días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones, además de que se retirará de la circulación la unidad en los casos de las fracciones I, III y IV.
+
+I. No coincidir la tarjeta de circulación o calcomanía con el número de placas; y
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+II. A la persona que conduzca un vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, conforme lo establezca el reglamento de esta ley, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en arresto administrativo de veinticuatro horas o cuatro jornadas de trabajo de índole social, en materia de vialidad y tránsito. La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 del presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Circular sin placas o placas vencidas;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IV. Hacer mal uso de las placas demostración;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. Impedir el paso a vehículos de emergencia;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. Al conductor de un vehículo que exceda, en más de diez kilómetros por hora, el límite máximo permitido de velocidad en viaductos o caminos vecinales, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 168.
 
-La Tesorería podrá nombrar interventores para vigilar el cumplimiento de las obligaciones fiscales, a cargo de los sujetos del impuesto.
+Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
 ###### Artículo 169.
 
-Es objeto de esta contribución, la realización de pagos por concepto de impuestos, derechos y productos que establece este Código, excepto el relativo al Impuesto sobre Traslación de Dominio de Bienes Inmuebles.
+Se sancionará con multa equivalente a cien días de salario mínimo general vigente en la zona económica correspondiente a quien cometa las siguientes infracciones:
+
+I. Preste servicios de transporte público sin contar con el permiso o la concesión correspondiente;
+
+II. Porte en un vehículo de uso particular los colores asignados por la dependencia del ejecutivo del estado competente en materia de Vialidad Tránsito y Transporte, para las unidades de transporte Público.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 170.
 
-Son sujetos de esta contribución, quienes realicen los pagos a que se refiere el artículo anterior.
+En caso de reincidencia en las infracciones previstas en el presente capítulo, cometidas dentro de los siguientes tres meses siguientes (sic), se duplicará el importe de la multa correspondientes (sic).
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+En caso de reincidencia en las infracciones previstas en las fracciones VI y VII del artículo 167 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
 
-###### Artículo 274.
+Tratándose de la infracción contenida en la fracción II del Artículo 167, al reincidente dentro de los treinta días siguientes o al grado de ebriedad, se le sancionará además con arresto administrativo inconmutable de 36 horas, y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
-La Tesorería y las entidades efectuarán los pagos que les correspondan con cargo al presupuesto del Municipio.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2002)</small>
 
-La Tesorería ministrará los fondos en función de sus disponibilidades financieras y del calendario financiero autorizado.
+Por la reincidencia en las infracciones previstas en los artículos 165, 166 fracción II, 167 Fracción II y VI, 169 y 173 Bis Fracción I y II, cometidas por conductores del servicio público de transporte colectivo de pasajeros dentro de los 30 días siguientes, la sanción se incrementará en doscientos días de salario mínimo general vigente en la zona que se cometa la infracción.
 
-###### Artículo 275.
-
-El Ayuntamiento acordará anualmente las remuneraciones para sus integrantes y empleados de confianza, de acuerdo con los lineamientos que determine la Ley Orgánica del Municipio Libre.
-
-El pago por remuneraciones al personal de la Administración Pública Municipal centralizada se llevará a cabo por conducto de la Tesorería, con observancia de las disposiciones administrativas aplicables.
-
-###### Artículo 276.
-
-La Tesorería y las entidades solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
-
-Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
+### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
 
 ###### Artículo 171.
 
-Es base de esta contribución el importe de los pagos por concepto de los impuestos, derechos y productos municipales.
+Las infracciones en materia de transporte serán sancionadas administrativamente por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, en los términos de esta Ley y su reglamento, y se aplicarán al concesionario, permisionario, propietario o conductor del vehículo. Todos ellos responderán solidariamente del pago de la sanción.
+
+La aplicación de las sanciones económicas se hará independientemente de la determinación de la autoridad competente, de impedir la circulación del vehículo con el que se haya cometido la infracción de que se trate.
+
+(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999) (F. DE E., P.O. 27 DE JULIO DE 2000)
 
 ###### Artículo 172.
 
-Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
+Se sancionará con multa equivalente a diez días de salario mínimo general vigente en la zona económica donde se cometan las siguientes infracciones, en la operación de vehículos del servicio público de transporte por:
 
-I. Siete y medio por ciento adicional sobre el impuesto predial;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-II. Quince por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+I. No coincidir la rotulación con el número de placas;
 
-III. Quince por ciento adicional sobre los derechos y productos que establece el presente Código.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+II. Abastecer combustible con pasaje a bordo o con motor encendido; y
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+III. Al conductor del servicio de transporte público de pasajeros por no contar con licencia de conductor de servicio de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 173.
 
-Esta contribución se liquidará y pagará junto con los impuestos, derechos o productos sobre los que recae y su pago se hará en el momento en que se haga el entero de estos últimos.
+Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
+
+I. Tratándose de vehículos de transporte colectivo, realizar viajes especiales fuera de ruta, sin el permiso de excursión;
+
+II. Omitir los despachadores, los controles, o no proporcionar la información que determine el reglamento de esta Ley;
+
+III. Los vehículos de itinerario fijo, circular fuera de la ruta autorizada;
+
+IV. Los vehículos de carga pesada y los destinados al servicio público foráneo, circular en zona prohibida;
+
+V. Negarse injustificadamente a recibir carga o a levantar pasaje;
+
+VI. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente; y
+
+VII. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2002)</small>
 
 ###### Artículo 173 Bis.
 
@@ -3699,187 +2463,93 @@ II. Realizar el servicio en vehículos distintos a los autorizados.
 
 ###### Artículo 174.
 
-Es objeto de este impuesto la percepción de ingresos que obtengan los fraccionadores por la enajenación de lotes de terreno.
+Los gafetes de identificación de operadores y conductores de vehículos de servicio público, se suspenderán como sanción y por resolución administrativa, cuando el operador o conductor:
+
+I. Se niegue a entregar al usuario el boleto correspondiente a la prestación del servicio, o se omita precisar en el mismo cualquiera de los datos a que se refiere el artículo 104, de esta Ley;
+
+II. Ofrezca un servicio especial y se niegue a proporcionarlo; y
+
+III. Oferte un descuento en el cobro, con relación a la tarifa correspondiente y no lo haga efectivo.
+
+En los casos antes previstos, la suspensión será hasta por seis meses.
 
 ###### Artículo 175.
 
-Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que el fraccionamiento se realice o surta sus efectos dentro del territorio del Municipio.
+La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, suspenderá como sanción y por resolución administrativa, los gafetes de identificación de los propietarios o legítimos poseedores de autos de alquiler o taxis, por las causas siguientes:
+
+I. En lo conducente, por las señaladas en el artículo anterior, y
+
+II. Por no presentarse los conductores de los automóviles de sitio a prestar el servicio en el lugar para el que fueron autorizados, en los términos que señale el reglamento de esta Ley.
+
+En cualesquiera de los casos antes descritos, la suspensión será hasta por seis meses.
 
 ###### Artículo 176.
 
-La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
+La licencia de operador o conductor de servicio público se cancelará como sanción y mediante resolución administrativa, cuando se incurra en violación de la tarifa autorizada, en los casos previstos por esta Ley y el reglamento.
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
-
-###### Artículo 277.
-
-Los depósitos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
-
-En los asuntos sobre los cuales se hayan constituido depósitos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficio del fisco municipal.
-
-Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito, se tomará como base la de la constitución del mismo, para efectos de la prescripción.
-
-Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
+### CAPITULO V. De las infracciones, de su calificación, aplicación y ejecución de las sanciones correspondientes
 
 ###### Artículo 177.
 
-Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos al millar.
+Son Autoridades competentes de Vialidad, Tránsito y Transporte, para el levantamiento de infracciones a esta Ley y su Reglamento, su calificación y la aplicación de las sanciones administrativas previstas:
+
+I. El Gobernador del Estado por conducto de la Dependencia competente en materia de Vialidad, tránsito y transporte, y específicamente, su Titular, el Director Vial y personal operativo; Dirección Jurídica y Jueces Calificadores para la Zona Metropolitana, y
+
+II. En los municipios, los presidentes municipales por conducto de la dependencia competente en materia de vialidad y tránsito; su personal operativo y los jueces municipales.
 
 ###### Artículo 178.
 
-El pago de este impuesto deberá efectuarse en la Tesorería correspondiente al domicilio del bien a fraccionar, dentro de los veinte días siguientes a la fecha en que se hubiere causado.
+La ejecución de sanciones económicas se realizará conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos aplicables, a través de:
+
+I. La Secretaría de Finanzas y sus dependencias recaudadoras; y
+
+II. Las tesorerías municipales y sus dependencias recaudadoras.
+
+Cuando las dependencias a que se refiere la fracción I de este artículo, ejecuten una sanción económica impuesta por los municipios, el fisco estatal percibirá los gastos de ejecución y hasta un máximo del quince por ciento de las multas y recargos, por concepto de gastos de administración.
 
 ###### Artículo 179.
 
-Las disposiciones de este Capítulo afectarán exclusivamente a aquellas operaciones que se encuentren comprendidas en la fracción I del artículo 9 de la Ley del Impuesto al Valor Agregado.
+Las autoridades competentes, tanto para levantar infracciones como para calificarlas y aplicar las sanciones correspondientes, así como las medidas de seguridad que procedan, deberán fundar y motivar su acto, notificarlo personalmente al infractor o, en su caso, por medio de cédula, al infractor ausente.
+
+Si en el procedimiento que sigan las autoridades para tomar conocimiento de infracciones y ejecutar las sanciones administrativas previstas en esta Ley, constatan actos u omisiones que puedan integrar delitos, formularán la denuncia correspondiente al Ministerio Público.
 
 ###### Artículo 180.
 
-Los sujetos de este impuesto deberán inscribirse en el registro municipal, dentro del plazo de los treinta días siguientes a la fecha en que hayan iniciado sus actividades, en la Tesorería, acompañando plano autorizado del fraccionamiento, en el que se señalará el área y número de lotes a enajenar.
-
-Cuando un mismo contribuyente realice más de un fraccionamiento deberá registrarlos por separado, con observancia de lo dispuesto en el párrafo anterior.
+El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los quince días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros cinco días hábiles, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del sexto a (sic) decimocuarto día, la reducción será únicamente del veinticinco por ciento.
 
 ###### Artículo 181.
 
-Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ###### Artículo 182.
 
-Para los efectos de este impuesto se entenderá por:
+Cuando el infractor acredite ante la autoridad competente, que no puede pagar la multa o solamente puede cubrir parte de ella, la propia autoridad podrá sustituirla, total o parcialmente, por la prestación de jornadas de trabajo en favor de la comunidad. Cada jornada de trabajo, que no será mayor de tres horas, saldará un día de multa.
 
-I. Fraccionador: la persona física o moral que realice un fraccionamiento con fines de lucro;
-
-II. Fraccionamiento: división, aprobada por la autoridad competente, de un terreno en lotes, con servicios de infraestructura y equipamiento;
-
-III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capitulo IV de la Ley de Catastro; y
-
-IV. Enajenación: toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
-
-## TÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
+En los casos de sanciones alternativas en que el infractor opte por el trabajo en favor de la comunidad, e incumpliere sin justificación en la prestación del mismo, será sancionado con el arresto previsto en la otra opción de la sanción.
 
 ###### Artículo 183.
 
-Es objeto de estos derechos la prestación de servicios por parte del Municipio, a través de sus dependencias o entidades, en sus funciones de derecho público.
+Cuando se imponga un arresto administrativo, se comunicará la resolución a la autoridad competente para que lo ejecute.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
-
-###### Artículo 278.
-
-La Tesorería establecerá los lineamientos generales para el otorgamiento de las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebren las dependencias y entidades.
-
-El Municipio, a través de la Tesorería, será el beneficiario de todas las garantías que se otorguen.
-
-Lo anterior, sin perjuicio de las atribuciones del Síndico, en el caso de que el cobro de garantías genere procedimientos formal o materialmente jurisdiccionales.
-
-Corresponde a las dependencias y entidades integrar y remitir a la Tesorería los expedientes de contratos en los que se hubieren otorgado garantías de cumplimiento a favor del Municipio, para que ésta proceda a ejercitar los derechos que correspondan.
-
-###### Artículo 279.
-
-El Municipio está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública municipal directa o contingente.
-
-###### Artículo 280.
-
-La Tesorería calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda, las garantías que se otorguen a favor del Municipio.
-
-###### Artículo 281.
-
-La garantía del interés fiscal se constituirá en los casos y con las formalidades y requisitos previstos en el Libro Segundo de este Código.
-
-###### Artículo 282.
-
-Las garantías que reciba el Ayuntamiento por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del Municipio, y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
-
-Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
+### CAPITULO VI. De las notificaciones
 
 ###### Artículo 184.
 
-Son sujetos del pago de derechos las personas físicas o morales que reciban servicios prestados por el Municipio o por sus entidades, en funciones de derecho público.
+Las resoluciones que dicten las autoridades en la aplicación de esta Ley, que afecten intereses de particulares, les serán notificadas personalmente, conforme a las reglas establecidas en la Ley que regule el procedimiento ante el Tribunal de lo Administrativo y sus dependencias.
 
 ###### Artículo 185.
 
-Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
+Para los efectos de esta Ley, el cómputo de los plazos se sujetará a las reglas siguientes:
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 186.]</small>
+I. Comenzará a correr a partir del día siguiente a aquél en que surta efectos la notificación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+II. Si los plazos están fijados en días, se computarán sólo los hábiles, conforme el calendario oficial del Estado;
 
-Artículo 185 (SIC).- Los derechos por los servicios prestados por la administración pública municipal se causarán y pagarán conforme a las tasas, cuotas o tarifas que para cada caso señale este Código o la Ley de Ingresos Municipal correspondiente al ejercicio fiscal de que se trate.
+III. Si están señalados en semanas, meses o años, o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día de plazo o la fecha determinada fuere inhábil, el término se prorrogará hasta el día siguiente hábil; y
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las veinticuatro a las veinticuatro horas.
 
-Los servicios por el uso de transbordadores municipales, se causarán y pagarán, conforme a la cuota o tarifa que para tal efecto establezca la Ley de Ingresos Municipal del ejercicio fiscal de que se trate y autorizado por las autoridades competentes.
-
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
-
-###### Artículo 283.
-
-La Tesorería ejercerá los derechos patrimoniales de los valores que representen inversiones financieras del Municipio.
-
-###### Artículo 284.
-
-Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
-
-###### Artículo 285.
-
-La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
-
-###### Artículo 286.
-
-La contabilidad de fondos municipales a cargo de la Tesorería deberá:
-
-I. Registrar diariamente la información del ingreso y del egreso efectuados;
-
-II. Conciliar la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas municipales y la cuenta concentradora de la Tesorería;
-
-III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones; y
-
-IV. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
-
-###### Artículo 287.
-
-Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias, crediticias o comerciales autorizadas, en cuyo caso estas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Tesorería.
-
-###### Artículo 288.
-
-Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería.
-
-###### Artículo 289.
-
-Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Ayuntamiento, deberán registrarse en el sistema de contabilidad de fondos municipales.
-
-###### Artículo 290.
-
-Los créditos no fiscales a cargo del Municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 291.
-
-En caso de que el Ayuntamiento cuente con varias cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
-
-I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
-
-II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Municipio y demás disposiciones que para el efecto expidan la Tesorería y la Contraloría en el ámbito de su competencia;
-
-III. Comprobar la existencia de los fondos y valores que obren en poder de las oficinas del Municipio;
-
-IV. Participar, con carácter obligatorio, en los actos relacionados con la instalación, entrega y clausura de oficinas del Municipio que administren fondos y valores, en la destrucción de valores que realicen las autoridades administrativas del Municipio y los demás que fije la Tesorería;
-
-V. Informar a las autoridades competentes acerca de las anomalías o deficiencias que se observen y recomendar las medidas preventivas y correctivas necesarias; y
-
-VI. Las demás que de manera expresa determinen este Código u otras leyes.
-
-###### Artículo 292.
-
-Los actos u omisiones de que tenga conocimiento la Tesorería, que impliquen incumplimiento de este Código y demás disposiciones legales, se comunicarán a la Contraloría y a la Comisión de Hacienda, para que se practiquen las investigaciones y auditorías necesarias. Si de ellas apareciere la probable responsabilidad administrativa de los servidores públicos, se impondrán las sanciones disciplinarias correspondientes, conforme al procedimiento previsto en el Código de la materia, de ser de carácter penal, el Síndico presentará la denuncia o querella respectiva.
-
-###### Artículo 293.
-
-Cuando con motivo del ejercicio de la facultad de vigilancia, la Tesorería determine fondos o valores sobrantes o faltantes, procederá como sigue:
-
-I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del conocimiento de la dependencia para que lo concentre de inmediato; y
-
-II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
+### CAPITULO VII. De la inspección y vigilancia
 
 ###### Artículo 186.
 
@@ -3887,2050 +2557,282 @@ Las autoridades estatales de vialidad, tránsito y transporte y municipales de v
 
 ###### Artículo 187.
 
-Los derechos que, en su caso, se recauden por el otorgamiento de la concesión de bienes o servicios municipales, se ingresarán con arreglo a lo previsto en cada título de concesión.
+La autoridad competente podrá, en las visitas de inspección que practique, verificar bienes, documentos y vehículos, con el objeto de comprobar el cumplimiento de las normas aplicables a la operación del servicio público.
 
 ###### Artículo 188.
 
-Cuando se concesione total o parcialmente un servicio público gravado por ley, el Ayuntamiento revisará que la tarifa que se cobre sea proporcional a la participación del concesionario en la prestación del servicio.
+Los inspectores, para practicar visitas o verificación de vehículos en operación, deberán estar provistos de orden escrita, con firma autógrafa expedida por la autoridad competente, en la cual deberá precisarse, en relación con el acto de inspección:
+
+I. La autoridad que lo ordena;
+
+II. Las disposiciones legales que lo fundamentan;
+
+III. El lugar o zona y fecha en donde deberá llevarse a cabo;
+
+IV. Su objeto y alcance; y
+
+V. Los vehículos o instalaciones que se ordena inspeccionar y verificar.
 
 ###### Artículo 189.
 
-En el caso de servicios concesionados, el concesionario podrá convenir con las dependencias o entidades de que se trate, el mecanismo que permita el cobro oportuno del servicio.
+Al iniciar la visita de inspección, el inspector deberá identificarse; para ello, exhibirá credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a que se refiere el artículo anterior, de la cual deberá dejar copia legible para el titular de la concesión o permiso, o para su representante legal.
 
 ###### Artículo 190.
 
-Salvo disposición expresa en contrario, los derechos se pagarán ante la Tesorería o la entidad de que se trate, o en las oficinas que éstas autoricen para tal efecto.
+Los titulares de las concesiones o permisos, así como los responsables, encargados u ocupantes de los establecimientos, instalaciones o vehículos objeto de la inspección, estarán obligados a permitir el acceso y dar las facilidades e informes a los inspectores para el cumplimiento de su función.
 
 ###### Artículo 191.
 
-El pago de derechos deberá hacerse por el contribuyente, salvo disposición expresa en contrario, antes de que le sean prestados los servicios que solicite.
+De toda visita de inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique, si aquélla se hubiere negado a proponerlos.
 
 ###### Artículo 192.
 
-Los administradores de bienes o servicios concesionados serán solidariamente responsables de que los concesionarios enteren con oportunidad y en los términos previstos en el título de concesión, los derechos respectivos.
+De toda acta de inspección se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el inspector haga constar tal circunstancia en la propia acta circunstanciada.
 
 ###### Artículo 193.
 
-Son facultades de las autoridades fiscales, en materia de derechos:
+En las actas de inspección se hará constar:
 
-I. Verificar su pago, así como la obtención oportuna por parte de los contribuyentes de la cédula de empadronamiento y la autorización, en su caso;
+I. Nombre, denominación o razón social del visitado;
 
-II. Auxiliar a los concesionarios de servicios en el cobro de tarifas; y
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
-III. Las demás que prevén este ordenamiento, la legislación aplicable y los reglamentos administrativos.
+III. Domicilio del lugar en donde se practique la visita, indicando la calle, número, código postal, colonia, población, municipio y, en su caso, teléfono u otra forma de comunicación disponible;
+
+IV. Número y fecha de la orden que motivó la inspección;
+
+V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI. Nombres y domicilios de las personas que fungieron como testigos;
+
+VII. Datos relativos a la actuación;
+
+VIII. Declaración del visitado, si quisiere hacerla;
+
+IX. Nombres y firmas de quienes intervinieron en la diligencia; y
+
+X. En su caso, la mención de la negativa del visitado o de su representante legal a designar a los testigos o a suscribir el acta, con la prevención de que ello no afectará su validez.
 
 ###### Artículo 194.
 
-Las cuotas señaladas en este Título para certificados o copias certificadas se refieren a documentos expedidos en hojas de papel que no excedan de treinta y cinco centímetros de largo por veinticuatro centímetros de ancho y que no deberán contener más de ochenta renglones, por ambos lados; los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones causarán doble cuota.
+Los titulares de concesiones o permisos, o sus representantes legales, con quienes se practique o se haya practicado una inspección, así como los prestadores del servicio de autos de alquiler o taxis, podrán formular observaciones y ofrecer pruebas:
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Tesorería, o bien en las instituciones bancarias previamente autorizadas en los términos de este Código; ningún otro comprobante justificará el pago correspondiente.
+I. En el mismo acto de la diligencia, lo cual deberá hacerse constar en el acta de la misma; y
 
-El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
-
-La recepción del pago de derechos por parte de las autoridades fiscales, en el caso de solicitarse el otorgamiento de permisos, licencias o autorizaciones, sus ampliaciones o refrendos, no obliga a la autoridad a emitir una respuesta favorable, pero sí a devolver lo pagado en caso de negativa.
-
-La falta de pago, por sí misma, justifica la no prestación del servicio o la no expedición de la licencia, permiso o autorización de que se trate.
-
-Cuando la ley establezca la obligación de pago de un refrendo de permisos, licencias o autorizaciones, sin especificar el plazo dentro del que debe realizarse, se estará a lo que mediante disposiciones generales dé a conocer el Cabildo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+II. Por escrito, dentro de un plazo de cinco días, contado a partir de la fecha en que la autoridad que haya ordenado la visita de inspección, les comunique el resultado de la misma.
 
 ###### Artículo 195.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula de empadronamiento, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula se tendrá que renovar cada año, hasta en tanto no se realice la baja definitiva, cambio de giro o de domicilio.
+En todo caso, la autoridad que practique la inspección, deberá comunicar al visitado el resultado de la misma en un plazo no mayor de quince días, siguientes a la fecha en que se hubiere practicado la visita de inspección. El incumplimiento de este requisito invalidará los efectos de la misma que fueren adversos a los intereses del visitado y producirá la responsabilidad a que haya lugar, para el servidor público que intervino.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 197.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
-
-###### Artículo 294.
-
-El Ayuntamiento, previa autorización del Congreso, podrá suscribir con el Estado, con Municipios, con organismos descentralizados, con entidades auxiliares de la Administración Pública de ambos órdenes de gobierno o con organismos autónomos, Convenios de Colaboración Administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
-
-###### Artículo 295.
-
-En el caso de que la colaboración administrativa sea entre el Municipio y el Estado o sus organismos descentralizados, en materia de gasto o deuda, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos, los procedimientos y destinos del mismo serán los que se deriven de los convenios de colaboración, en los que también podrá determinarse la constitución de fondos para la ejecución de programas específicos.
-
-En los Convenios de Colaboración Administrativa que el Ayuntamiento suscriba con el Estado o sus organismos descentralizados para el entero de cuotas y aportaciones de seguridad social, o para la prestación de algún servicio público, podrá pactarse que el Ayuntamiento, previo acuerdo de Cabildo y del Congreso, solicite al Gobierno del Estado el descuento directo aplicable a sus participaciones federales para realizar el entero al organismo que brinde la seguridad social a los trabajadores del Municipio o para aquel que preste el servicio público de que se trate.
-
-###### Artículo 296.
-
-Los Convenios de Colaboración Administrativa que comprometan al Municipio por un plazo mayor a la gestión del Ayuntamiento de que se trate, deberán ser aprobados por el Cabildo y por el Congreso, en la forma y términos que señale la legislación aplicable.
-
-## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
-
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
-
-#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
-
-###### Artículo 297.
-
-El presente Capítulo tiene por objeto normar y regular el presupuesto de egresos.
-
-###### Artículo 298.
-
-La aplicación de este Capítulo será a cargo de la Comisión de Hacienda y del Presidente a través de la Tesorería.
-
-###### Artículo 299.
-
-El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el período de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
-
-El Presupuesto de Egresos del Municipio será aprobado con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
-
-Asimismo, contendrá las erogaciones previstas en cada año, correspondientes a las entidades a cuyos programas se destinen recursos comprendidos en la Ley de Ingresos del Municipio.
-
-###### Artículo 300.
-
-El gasto público municipal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas de las dependencias y entidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
-
-###### Artículo 301.
-
-La Comisión de Hacienda, al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
-
-###### Artículo 302.
-
-El Presupuesto de Egresos del Municipio comprenderá las previsiones de gasto público que habrán de realizar las entidades por conducto de la Tesorería.
-
-###### Artículo 303.
-
-Para la formulación del proyecto de Presupuesto de Egresos del Municipio, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
-
-Las entidades remitirán su respectivo anteproyecto presupuestal a la Tesorería, con sujeción a las normas que el Cabildo establezca por medio de la propia Tesorería.
-
-###### Artículo 304.
-
-La Comisión de Hacienda validará los proyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo programas que deban quedar comprendidos en la integración del proyecto de presupuesto del Municipio.
-
-La Comisión de Hacienda, en coordinación con la Tesorería, queda facultada para formular el proyecto de presupuesto de las entidades, en el caso de que no le sea presentado en los plazos que al efecto se le hubiere señalado, sin perjuicio de la responsabilidad a que se haga acreedor el titular de la entidad omisa.
-
-###### Artículo 305.
-
-El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieran a:
-
-I. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y dependencias y entidades responsables de su ejecución, así como su costo estimado por programa;
-
-II. Explicación y comentarios de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
-
-III. Estimación de ingresos por cada concepto de contribuciones municipales, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos; contenida en el presupuesto respectivo y propuesta de gastos del ejercicio fiscal para el que se propone;
-
-IV. Ingresos y gastos reales del último ejercicio fiscal;
-
-V. Tabulador de sueldos de los ediles, empleados de confianza y trabajadores de base, así como todos aquellos, cualquiera que sea su denominación, que presten servicios de manera subordinada permanentemente o de forma eventual al Ayuntamiento;
-
-VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso, de acuerdo a su clasificación económica, administrativa y funcional;
-
-VII. Situación de la deuda pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediatos siguientes;
-
-VIII. La contratación de operaciones de financiamiento que se someterán a la consideración del Congreso;
-
-IX. Situación de la Tesorería al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
-
-X. Comentarios sobre las condiciones económicas, financieras y hacendarías actuales y las que se prevén para el futuro; y
-
-XI. En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
-
-###### Artículo 306.
-
-Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
-
-###### Artículo 307.
-
-La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
-
-###### Artículo 308.
-
-Una vez aprobado el presupuesto de egresos y por causas supervenientes, podrá ser objeto de ampliación presupuestal o de creación de partidas, en cuyo caso, la Tesorería proveerá lo conducente para que sea agregada la correspondiente justificación del ingreso, si con tal proposición se altera el equilibrio presupuestal.
-
-La Ley de Ingresos del Municipio señalará los conceptos de ingresos ordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
-
-###### Artículo 309.
-
-La división de los capítulos en conceptos y partidas específicas se hará con base en el instructivo que al efecto emita el Congreso.
-
-El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 310.
-
-En cumplimiento de lo dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al Congreso, en el curso de la segunda quincena del mes de septiembre de cada año, los Ayuntamientos remitirán por triplicado, al Congreso del Estado, el proyecto anual de ley de ingresos y el Presupuesto de Egresos del año siguiente.
-
-###### Artículo 311.
-
-Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las dependencias y entidades solicitarán al Presidente, a través de la Tesorería, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
-
-Cuando se considere justificada la modificación, si existieran recursos suficientes, la Tesorería preparará la modificación para someterla a consideración del Presidente y del Cabildo que, en su caso, la aprobará, lo cual se hará del conocimiento del Congreso.
-
-###### Artículo 312.
-
-Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones extraordinarias o imprevisibles de la economía nacional que repercutan en el Municipio o cuando se trate de la aplicación de leyes, decretos o acuerdos para los que se requieran erogaciones adicionales no previstas, la Tesorería solicitará la aprobación del Cabildo para modificar el Presupuesto de Egresos, con el mismo procedimiento aplicable de la aprobación del presupuesto original y la propuesta de ingresos para cubrirlas.
-
-###### Artículo 313.
-
-La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
-
-### CAPÍTULO II. DEL GASTO PÚBLICO
-
-#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
-
-###### Artículo 314.
-
-El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto de capital y servicio de la deuda pública que se realicen con recursos aprobados en la Ley de Ingresos del Municipio para la ejecución de programas a cargo de:
-
-I. Las dependencias;
-
-II. Los organismos;
-
-III. Las empresas de participación municipal mayoritaria; y
-
-IV. Los fideicomisos en que el fideicomitente sea el Ayuntamiento o alguna de las entidades mencionadas en las fracciones II y III.
-
-###### Artículo 315.
-
-La Tesorería efectuará los cobros y los pagos correspondientes a las erogaciones a cargo de las dependencias.
-
-Por lo que se refiere a las entidades, se estará a los términos que en cada caso se convengan, considerando la naturaleza de los programas a ejecutarse y las condiciones de pago que, en su caso, se pacten con contratistas, proveedores o cualquier otro tipo de acreedores.
-
-La ministración de los fondos correspondientes será autorizada en todos los casos por el Presidente y la Comisión de Hacienda, de conformidad con el Presupuesto de Egresos del Municipio.
-
-###### Artículo 316.
-
-Las entidades informarán a la Tesorería, dentro de los plazos y en la forma que ésta les dé a conocer oportunamente, los elementos que permitan conocer el destino del presupuesto municipal ejercido.
-
-###### Artículo 317.
-
-Una vez concluida la vigencia de un Presupuesto de Egresos del Municipio, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado, debida y oportunamente, las operaciones correspondientes.
-
-En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos o más años.
-
-En casos excepcionales, debidamente fundados, deberán existir recursos provisionados para el efecto de pagos en ejercicios posteriores o, en su defecto, se registrarán dichos pagos como deuda para el siguiente ejercicio.
-
-###### Artículo 318.
-
-Quienes efectúen gasto público municipal estarán obligados a proporcionar a la Tesorería la información que se les solicite y a permitirle al personal de ésta la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en él.
-
-###### Artículo 319.
-
-El Ayuntamiento y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, basados en las disposiciones de este Código y en los lineamientos que expida el Congreso, emitirán los criterios y lineamientos para la administración del gasto público municipal, los que serán de observancia obligatoria para las dependencias y entidades.
-
-###### Artículo 320.
-
-El Cabildo asignará los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos del Municipio, a los programas que considere prioritarios y autorizará los traspasos de partidas cuando sea procedente, dándole, en su caso, la participación que corresponda a entidades interesadas. Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá sujetarse a lo dispuesto por este ordenamiento, los parámetros establecidos en el presupuesto de egresos y las asignaciones que acuerde el Ayuntamiento por conducto de la Tesorería. En todo caso, la aplicación de esta disposición será informada al Congreso al rendir la cuenta pública.
-
-###### Artículo 321.
-
-El gasto público municipal se sujetará al monto autorizado por los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
-
-###### Artículo 322.
-
-El Cabildo determinará la forma en que deberán invertirse los subsidios que otorgue, cuyos beneficiarios proporcionarán a la Tesorería la información que se les solicite sobre la aplicación que hagan de los mismos, en la forma, plazos y términos que ésta determine.
-
-###### Artículo 323.
-
-El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
-
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
-
-#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
-
-###### Artículo 324.
-
-No se podrá hacer pago alguno que no esté comprendido en el presupuesto de egresos autorizado o modificado conforme a los lineamientos que señala este Código.
-
-###### Artículo 325.
-
-Las entidades se abstendrán de formalizar o modificar convenios, cuando dicha modificación genere una erogación mayor y no se cuente con disponibilidad presupuestal en la partida correspondiente.
-
-###### Artículo 326.
-
-Las entidades serán responsables de la administración de los recursos municipales y federales de que dispongan para la realización de los programas a su cargo.
-
-###### Artículo 327.
-
-Tratándose de fondos estatales y, en su caso, federales el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
-
-###### Artículo 328.
-
-La Tesorería será responsable de llevar un padrón de servidores públicos autorizados para realizar y tramitar pagos con cargo a fondos públicos; para tal efecto se establecerán los criterios y los lineamientos procedentes.
-
-Los servidores públicos que administren fondos y valores del Municipio caucionarán debidamente su manejo.
-
-###### Artículo 329.
-
-Tratándose de operaciones con cargo a partidas de dos o más ejercicios presupuestales, se desglosarán los montos que correspondan a cada uno de ellos.
-
-En el caso de que el Ayuntamiento y las entidades requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales.
-
-La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control respectivos.
-
-###### Artículo 330.
-
-Las entidades no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
-
-En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese período constitucional.
-
-Para los efectos del párrafo anterior, la Tesorería recabará los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
-
-###### Artículo 331.
-
-Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean, con observancia, en lo que les sea aplicable, de las disposiciones que sobre el ejercicio del gasto se detallan en este Título.
-
-###### Artículo 332.
-
-Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
-
-#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
-
-###### Artículo 333.
-
-La Tesorería dará a conocer el presupuesto de egresos autorizado por el Cabildo y el calendario a las dependencias y entidades, durante los primeros cinco días del mes de enero de cada año.
-
-###### Artículo 334.
-
-Con base en el presupuesto de egresos autorizado, las dependencias y entidades harán las adecuaciones que correspondan a sus programas operativos y calendarios anuales y los presentarán a la Tesorería antes de que concluya el mes de enero de cada año.
-
-Se faculta a la Tesorería para elaborar los calendarios, cuando éstos no se le hubieran presentado en tiempo y forma por las dependencias y entidades.
-
-###### Artículo 335.
-
-La Tesorería, con la supervisión de la Comisión de Hacienda, autorizará la suficiencia presupuestaria a las dependencias y entidades, conforme a la calendarización respectiva y al monto global estimado para atender los programas a ejecutar.
-
-###### Artículo 336.
-
-En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de gasto que establezca la Tesorería.
-
-Las dependencias y entidades respetarán la distribución presupuestal autorizada por la Tesorería.
-
-###### Artículo 337.
-
-Los recursos presupuestales que no se hubieren destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Tesorería.
-
-###### Artículo 338.
-
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización del Cabildo, podrán aplicarse a programas prioritarios de las dependencias y entidades que los originen, conforme a los lineamientos administrativos que al efecto expida la Tesorería.
-
-###### Artículo 339.
-
-Corresponde a las dependencias y entidades operar y controlar los fondos revolventes, los cuales se ejercerán de acuerdo a los criterios y lineamientos que emita la Tesorería.
-
-Las dependencias y entidades, durante los primeros cinco días hábiles del mes de enero, cancelarán los fondos revolventes del ejercicio del año anterior de sus áreas administrativas o, en su defecto, solicitarán a éstas la reintegración total de los recursos no ejercidos.
-
-###### Artículo 340.
-
-Todas las dependencias y entidades informarán a la Tesorería, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
-
-###### Artículo 341.
-
-Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Tesorería, de acuerdo con los programas y metas correspondientes.
-
-###### Artículo 342.
-
-La Tesorería, previo acuerdo del Presidente y de la Comisión de Hacienda, autorizará las transferencias de un área administrativa a otra o entre conceptos y partidas de gasto, para lo cual verificará previamente:
-
-I. Que se justifique la aplicación de los recursos solicitados, en función de la disponibilidad y el cumplimiento de las metas;
-
-II. Que no se cuenten con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase;
-
-III. El avance programático presupuestal de los programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado; y
-
-IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
-
-###### Artículo 343.
-
-El Presidente, por conducto de la Tesorería, previo acuerdo del Cabildo, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestales.
-
-Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en el Municipio y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
-
-Los ajustes y reducciones que se efectúen en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
-
-###### Artículo 344.
-
-Los montos de ingresos excedentes a los previstos en la Ley de Ingresos del Municipio podrán generarse a partir de:
-
-I. Excedentes a las estimaciones en la recaudación de contribuciones municipales y rendimientos financieros;
-
-II. Remanentes que tengan las entidades entre sus ingresos y gastos netos que se consignen como erogaciones recuperables dentro de sus presupuestos;
-
-III. Ingresos que obtenga el Municipio como consecuencia de la enajenación de bienes muebles o inmuebles no prioritarios; así como de los provenientes de la recuperación de seguros y fianzas; y
-
-IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal o Estatal.
-
-El Cabildo podrá asignar los recursos excedentes a los programas que considere convenientes. La Tesorería queda facultada para la ministración de los mismos.
-
-De los movimientos que se efectúen en los términos de este artículo, el Ayuntamiento informará al Congreso al rendir la Cuenta Pública Municipal de dicho ejercicio.
-
-Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
-
-#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
-
-###### Artículo 345.
-
-En la administración de los recursos humanos, el Ayuntamiento se sujetará a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
-
-###### Artículo 346.
-
-Para la contratación de personal deberá mediar opinión de la Tesorería, respecto de la disponibilidad presupuestal para cubrir sus salarios y prestaciones.
-
-###### Artículo 347.
-
-El Municipio y sus entidades, en el ejercicio del presupuesto, en el capítulo de servicios personales deberán:
-
-I. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos aprobados en los presupuestos;
-
-II. Reducir el pago de horas extras y de compensaciones, a fin de optimizar los resultados del personal en horas normales de trabajo;
-
-III. Tratándose de remuneraciones adicionales por jornadas y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha;
-
-IV. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Juntas Directivas, Consejos, Comités Técnicos y otros;
-
-V. Sujetarse a los lineamientos existentes para realizar las erogaciones necesarias para el desempeño de comisiones oficiales;
-
-VI. Vigilar que no se realicen pagos de servicios personales por medio de fondos revolventes; y
-
-VII. Vigilar que los servidores públicos, en el desempeño de su actividad, no incurran en duplicidad de funciones.
-
-###### Artículo 348.
-
-Las dependencias y entidades deberán analizar las estructuras orgánicas y ocupacionales, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que se establezcan el Plan de Desarrollo Municipal.
-
-###### Artículo 349.
-
-Los servidores públicos adscritos a las dependencias y entidades se abstendrán de intervenir o de participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier otro servidor, cuando tenga interés personal, familiar o de negocios en el caso y pueda derivar alguna ventaja o beneficio para ellos.
-
-###### Artículo 350.
-
-El Ayuntamiento y las entidades se abstendrán de contratar personas inhabilitadas en el servicio público municipal, estatal o federal, para desempeñar un empleo, cargo o comisión.
-
-###### Artículo 351.
-
-El Ayuntamiento y entidades no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
-
-###### Artículo 352.
-
-Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
-
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
-
-#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
-
-###### Artículo 353.
-
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
-
-###### Artículo 354.
-
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
-
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
-
-###### Artículo 355.
-
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
-
-Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
-
-A su vez, la Tesorería consolidará la información para que el Cabildo la apruebe y la remita al Congreso, a efectos de control legislativo del gasto.
-
-###### Artículo 356.
-
-La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público contenido en el Presupuesto.
-
-Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
-
-###### Artículo 357.
-
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
-
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
-
-II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
-
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
-
-IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
-
-V. Proporcionar al Presidente y a la Comisión de Hacienda la información necesaria para Justificar ante las autoridades competentes, la aplicación de recursos transferidos al Municipio de fondos estatales o federales, en los términos de los ordenamientos aplicables;
-
-VI. Efectuar el registro contable del patrimonio de bienes muebles e inmuebles del Municipio;
-
-VII. Participar en la depuración de cuentas de balance; y
-
-VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
-
-###### Artículo 358.
-
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
-
-#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
-
-###### Artículo 359.
-
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
-
-I. Activo;
-
-II. Pasivo;
-
-III. Hacienda Pública;
-
-IV. Ingresos;
-
-V. Egresos,
-
-VI. Cuentas de Orden, y
-
-VII. Presupuesto.
-
-###### Artículo 360.
-
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
-
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
-
-###### Artículo 361.
-
-El Ayuntamiento y sus entidades registrarán en cuentas específicas los movimientos de sus fondos asignados.
-
-###### Artículo 362.
-
-Será responsabilidad de las dependencias y entidades la desagregación de las subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
-
-###### Artículo 363.
-
-La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
-
-###### Artículo 364.
-
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
-
-###### Artículo 365.
-
-El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su poder y bajo custodia de la Tesorería los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
-
-###### Artículo 366.
-
-El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
-
-###### Artículo 367.
-
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
-
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto;
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago; y
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
-
-#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
-
-###### Artículo 368.
-
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
-
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
-
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
-
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
-
-IV. Estado de Deuda Pública; y
-
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
-
-###### Artículo 369.
-
-Las entidades enviarán a la Tesorería, dentro de los primeros diez días de cada mes, la misma información a que se refiere el artículo anterior.
-
-###### Artículo 370.
-
-Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Municipio, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las dependencias y entidades por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las dependencias y entidades informarán con el mismo detalle a la Tesorería del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
-
-###### Artículo 371.
-
-La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
-
-#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
-
-###### Artículo 372.
-
-La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
-
-###### Artículo 373.
-
-Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
-
-###### Artículo 374.
-
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 371.
-
-###### Artículo 375.
-
-Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
-
-#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
-
-###### Artículo 376.
-
-La Tesorería será responsable de integrar la cuenta pública del Municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades.
-
-###### Artículo 377.
-
-La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
-
-###### Artículo 378.
-
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
-
-###### Artículo 379.
-
-El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
-
-De no presentar en tiempo la cuenta pública anual al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
-
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
-
-#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
-
-###### Artículo 380.
-
-El control y la evaluación del gasto público municipal comprenden:
-
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
-
-II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
-
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
-
-###### Artículo 381.
-
-El control y la evaluación del gasto público municipal se basarán en la información siguiente:
-
-I. La contabilidad de las dependencias y entidades;
-
-II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
-
-III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
-
-IV. Las demás fuentes y medios que se juzguen convenientes.
-
-###### Artículo 382.
-
-El seguimiento y medición del ejercicio del gasto público se realizará en la forma siguiente:
-
-I. En reuniones entre la Tesorería y las dependencias y entidades en plazos que no sean mayores a un bimestre;
-
-II. Mediante visitas y auditorías, y
-
-III. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Tesorería y la Contraloría en su caso.
-
-###### Artículo 383.
-
-Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Tesorería, la Contraloría en su caso, y las dependencias y entidades, de conformidad con lo dispuesto por el presente Código y otros ordenamientos en la materia, efectuarán, según el caso, las siguientes actividades:
-
-I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público municipal;
-
-II. Adecuaciones presupuestarias;
-
-III. Fincamiento de las responsabilidades que procedan, y
-
-IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
-
-#### SECCIÓN II. DE LA CONTRALORÍA
-
-###### Artículo 384.
-
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control y evaluación.
-
-###### Artículo 385.
-
-Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
-
-Los sistemas de auditoría interna permitirán:
-
-I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
-
-II. Promover la eficiencia y eficacia operativa; y
-
-III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
-
-###### Artículo 386.
-
-La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
-
-###### Artículo 387.
-
-La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
-
-###### Artículo 388.
-
-Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
-
-###### Artículo 389.
-
-Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
-
-Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
-
-###### Artículo 390.
-
-La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
-
-I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
-
-II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
-
-III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
-
-IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
-
-V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
-
-VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
-
-VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
-
-VIII. Promover la capacitación del personal de auditoría;
-
-IX. Vigilar el cumplimiento de las medidas correctivas; y
-
-X. Las demás que determine el Cabildo.
-
-###### Artículo 391.
-
-La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
-
-I. Los tipos de auditoría a practicar;
-
-II. Las dependencias y entidades, programas y actividades a examinar; y
-
-III. Los períodos estimados de realización.
-
-###### Artículo 392.
-
-La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
-
-###### Artículo 393.
-
-La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
-
-Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
-
-###### Artículo 394.
-
-La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
-
-###### Artículo 395.
-
-Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
-
-I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
-
-II. Informes de las observaciones derivadas de las auditorías, y
-
-III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
-
-###### Artículo 396.
-
-Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
-
-# LIBRO QUINTO. DE LA DEUDA PÚBLICA
-
-## TÍTULO ÚNICO
-
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
-
-###### Artículo 397.
-
-El presente Libro tiene por objeto regular la planeación, contratación, ejercicio, control y vigilancia de la deuda pública del Municipio y de sus entidades.
-
-Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
-
-Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
-
-###### Artículo 398.
-
-La deuda pública municipal, para efectos de este ordenamiento, está constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos y a cargo del patrimonio de:
-
-I. El Municipio;
-
-II. Los organismos descentralizados;
-
-III. Las empresas de participación municipal mayoritaria; y
-
-IV. Los fideicomisos en los que el fideicomitente sea el Municipio o alguna de las entidades mencionadas en las fracciones II y III de este artículo.
-
-###### Artículo 399.
-
-Para los efectos de este ordenamiento, se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
-
-I. La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
-
-II. La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se pacte en plazos que excedan de un ejercicio presupuestal;
-
-III. Los pasivos contingentes relacionados con los actos mencionados; y
-
-IV. La celebración de actos jurídicos análogos a los anteriores.
-
-El Congreso sólo autorizará la contratación de operaciones de financiamiento, directas o contingentes, cuando se trate de inversiones públicas productivas.
-
-###### Artículo 400.
-
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Municipio, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Municipio, o tengan una clara repercusión en beneficio de la sociedad y de la economía local.
-
-###### Artículo 401.
-
-Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
-
-###### Artículo 402.
-
-La Tesorería es la dependencia del Ayuntamiento encargada de la aplicación de las normas en materia de deuda pública y de expedir las disposiciones necesarias para su debido cumplimiento.
-
-Quienes contraten financiamientos en representación de los sujetos a que se refiere el artículo 398 de este Código, serán responsables del estricto cumplimiento de este ordenamiento, de sus disposiciones reglamentarias y de las demás leyes aplicables, así como de las directrices de contratación que expida la Tesorería.
-
-###### Artículo 403.
-
-La deuda pública que contrate el Municipio será ordinaria y extraordinaria.
-
-La deuda pública ordinaria se contratará y ejercerá con base en el programa anual de financiamiento que anualmente apruebe el Congreso, mientras que la deuda pública extraordinaria la autorizará éste, para la contratación de financiamientos que se destinen a la atención de necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional, estatal y municipal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que altere la planeación financiera del Municipio y que no pudiera preverse en el programa anual de financiamiento.
-
-Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
-
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
-
-###### Artículo 404.
-
-Corresponde al Cabildo por conducto de la Tesorería y, en su caso, del Presidente y del Síndico:
-
-I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
-
-II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal, para la contratación de financiamientos a cargo de las entidades a que se refieren las fracciones II a IV del artículo 398 de este ordenamiento;
-
-III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-IV. Contratar y manejar la deuda pública del Municipio; afectar los ingresos, el derecho, o ambos, a las aportaciones federales que les correspondan, susceptibles de destinarse, como fuente de pago, garantía, o ambos, para el cumplimiento de sus obligaciones; o en su caso, otorgar la garantía del Municipio para la realización de operaciones crediticias;
-
-V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
-
-VI. Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por el Municipio, y que las partidas destinadas a su amortización sean fijadas en el presupuesto de egresos respectivo;
-
-VII. Participar en las negociaciones y suscribir los convenios que tengan por objeto, la reestructuración, conversión o consolidación de la deuda pública, a fin de reducir las cargas financieras del Municipio;
-
-VIII. Llevar el registro de la deuda del sector público municipal, conforme a la normatividad respectiva e inscribirse y proporcionar la información que le sea requerida para efectos del Registro de Deuda Municipal que tiene a su cargo el Congreso, o en su caso, para efectos del Registro de Deuda Estatal que controla la Secretaría de Finanzas y Planeación del Gobierno del Estado;
-
-IX. Sustituir su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por el Ayuntamiento; pudiendo también asumir la calidad de avalista;
-
-X. Informar trimestralmente al Congreso sobre el estado que guarda la deuda pública, así como proporcionar la información que éste y el Ejecutivo del Estado le requieran; y
-
-XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conforme a la ley, y las que establezcan las normas aplicables.
-
-Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
-
-###### Artículo 405.
-
-Corresponde al H. Congreso del Estado:
-
-I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten o éstos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
-
-III. Autorizar de manera expresa la contratación de endeudamiento por el Ayuntamiento, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fue elegido;
-
-IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento;
-
-> <small>(REFORMADA, G.O. 25 DE JULIO DE 2008)</small>
-
-V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado; así como autorizar la afectación de los ingresos, el derecho, o ambos, a las aportaciones federales que le correspondan y que sean susceptibles de destinarse, como fuente de pago, garantía, o ambas, para el cumplimiento de sus obligaciones, en los términos de la legislación vigente;
-
-VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
-
-VII. Informar al Ejecutivo del Estado, con propósitos de registro, así como al Ayuntamiento, de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen;
-
-VIII. Operar el Registro de Deuda Pública Municipal; y
-
-IX. Las demás que le confieran este Código y otras leyes.
-
-###### Artículo 406.
-
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación:
-
-I. A solicitud expresa del Ayuntamiento, proporcionar los informes, datos y cooperación técnica que requiera para la elaboración de programas financieros;
-
-II. Asesorar técnicamente y apoyar al Municipio y a las entidades a que se refiere el artículo 398 de este Código en la gestión, concertación y contratación de sus operaciones de deuda pública;
-
-III. Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal, incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, constitución de fondos y otros que autoricen las leyes respectivas;
-
-IV. Expedir los certificados de afectación a los ingresos municipales en participaciones federales, cuando el Ayuntamiento los otorgue como garantía de financiamiento;
-
-V. Cuando el Estado sea avalista del Municipio, solicitar al Ayuntamiento la información sobre sus operaciones de financiamiento y sobre los saldos y circunstancias de su deuda pública; y
-
-VI. Las demás que le confieran este Código y otras leyes.
-
-###### Artículo 407.
-
-A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
-
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
-
-###### Artículo 408.
-
-El Ayuntamiento y las entidades, al solicitar autorización del Congreso para contratar financiamientos, indicarán:
-
-I. El monto de la deuda que se solicita contratar;
-
-II. Las tasas de interés a pactar;
-
-III. Las instituciones que podrán fungir como acreditantes;
-
-IV. Los plazos de amortización;
-
-V. La denominación en que podrá contratarse;
-
-VI. El destino de los recursos;
-
-VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obligaciones;
-
-VIII. La forma y tiempos de disposición de los recursos;
-
-IX. Los períodos de inversión;
-
-X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
-
-XI. Las garantías que podrán otorgarse; y
-
-XII. Los demás requisitos que fije el Congreso.
-
-###### Artículo 409.
-
-El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
-
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
-
-###### Artículo 410.
-
-Para la obtención y contratación de créditos y empréstitos, el Municipio y las entidades podrán ocurrir a Instituciones de banca de desarrollo, de banca nacional o cualquier institución de crédito o auxiliar de crédito que funcionen conforme a la legislación sobre la materia. En todo caso se elegirá, entre diversas opciones, la que resulte más favorable para la obtención de recursos.
-
-###### Artículo 411.
-
-Los proyectos a cargo de las dependencias del Ayuntamiento que requieran financiamiento para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago del Ayuntamiento.
-
-###### Artículo 412.
-
-Las entidades mencionadas en las fracciones II a IV del artículo 398 de este ordenamiento, sólo requerirán autorización previa y expresa del Ayuntamiento, cuando el Municipio sea garante de sus créditos.
-
-La Tesorería, previo el análisis de la información que le remita la entidad pública solicitante, emitirá una opinión al Presidente, misma que será sometida por conducto de éste al Cabildo. La resolución que se emita se comunicará por escrito, a las entidades solicitantes, precisando en su caso, las características y condiciones en que los créditos puedan ser concertados.
-
-En los demás casos, bastará que el órgano interno de cada entidad pública autorice la contratación de financiamiento, misma que deberá ser aprobada por el Congreso, en los términos de este Código.
-
-###### Artículo 413.
-
-El Congreso vigilará que en la garantía que se otorgue para el pago de operaciones de financiamiento, no se afecte la continuidad, permanencia y generalidad de los servicios públicos, o que en general, no se cause un perjuicio al interés público.
-
-###### Artículo 414.
-
-El Municipio, previa autorización del Cabildo, podrá realizar operaciones en virtud de las cuales, los particulares, las entidades públicas, concesionarios o usuarios del sector privado o social se subroguen en los adeudos suscritos originalmente por el Ayuntamiento.
-
-###### Artículo 415.
-
-El Municipio, por conducto del Ayuntamiento, y las entidades podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere este Libro.
-
-En el caso del Municipio, los contratos y convenios serán firmados por el Presidente, Síndico, Secretario y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente, Síndico y Tesorero Municipales.
-
-En el caso de las entidades, los documentos a que se refiere este artículo serán suscritos por sus representantes legales.
-
-De la misma forma se documentarán las operaciones por las que se substituyan como acreditado, cambien su calidad de deudores directos o avalistas o subroguen su deuda a terceros.
-
-###### Artículo 416.
-
-Los montos derivados de la contratación de obligaciones directas a corto plazo se computarán como deuda pública municipal extraordinaria, requerirán la autorización previa del Congreso y reunirán los requisitos siguientes:
-
-I. Que el saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente;
-
-II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
-
-III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
-
-IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos
-
-El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
-
-###### Artículo 417.
-
-En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
-
-###### Artículo 418.
-
-Las entidades mencionadas en las fracciones II a IV del artículo 398 de este Código, sólo podrán solicitar autorización para contratar empréstitos o créditos, previa acuerdo del órgano de gobierno interno correspondiente.
-
-###### Artículo 419.
-
-Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
-
-### CAPÍTULO V. DE LAS GARANTÍAS Y LAS FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
-
-###### Artículo 420.
-
-Se podrá otorgar como fuente de pago o garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para tales efectos.
-
-El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria
-
-El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del Congreso.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-Los mecanismos de fuente de pago, garantía, o ambas, pueden instrumentarse a través de fideicomisos, mandatos irrevocables o cualquier otro autorizado por las disposiciones aplicables.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-Los fideicomisos que se constituyan como fuente de pago, garantía, o ambas, de las obligaciones a cargo del Municipio no serán considerados, en ningún caso, parte de la administración pública paramunicipal, por lo que no les serán aplicables las disposiciones de las entidades paramunicipales.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-Dichos fideicomisos podrán prever que el fiduciario realice el pago a los acreedores conforme a las condiciones pactadas en los contratos respectivos y sólo podrán modificarse con el consentimiento de los acreedores fideicomisarios.
-
-###### Artículo 421.
-
-En los casos en que se requiera el aval del Gobierno del Estado respecto de obligaciones del Municipio o de las entidades, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá su justificación, además de la autorización del Cabildo o del órgano de gobierno interno, según corresponda.
-
-###### Artículo 422.
-
-Cuando el Municipio solicite el aval del Gobierno del Estado, deberá cumplir con los siguientes requisitos:
-
-I. Que el importe a contratar se encuentre dentro del programa anual de financiamiento que haya sido aprobado por el Congreso en la Ley de Ingresos para el ejercicio correspondiente;
-
-II. Que medie autorización del Congreso;
-
-III. Que cuando se trate de operaciones a corto plazo, éstas reúnan los requisitos establecidos en el artículo 416 del presente ordenamiento;
-
-IV. Que el monto acumulado de los avales otorgados por el Gobierno del Estado no excedan del porcentaje a que se refiere el artículo 420 de este ordenamiento y la previsión contenida en la Ley de Ingresos del Estado, del ejercicio presupuestal correspondiente, en la partida expresa de asignación fiscal al Ayuntamiento;
-
-V. Que el Ayuntamiento haya acreditado que cuenta con elementos económicos suficientes para hacer frente a la obligación en los montos y plazos, conforme a su programación financiera; y
-
-VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro de Deuda Pública Municipal y, en su caso, Estatal.
-
-Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
-
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
-
-###### Artículo 423.
-
-Es responsabilidad de la Tesorería la vigilancia del cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, y de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, en el caso de que el Municipio actúe como su garante.
-
-Para tal efecto, las dependencias del Ayuntamiento y, en su caso, las entidades referidas, deberán proporcionar información a la Tesorería en la forma y términos que le sean requeridos.
-
-En todos los casos el titular de la dependencia o entidad de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraten.
-
-###### Artículo 424.
-
-La Tesorería vigilará que se incluyan en el presupuesto de egresos del Municipio, los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos.
-
-La misma obligación corresponderá a los titulares de las entidades.
-
-###### Artículo 425.
-
-El Ayuntamiento y las entidades llevarán un registro interno de su deuda pública, pero deberán informar a la Tesorería, periódicamente, del estado que guarda la misma, para su registro.
-
-En todo caso, la Tesorería o los titulares de las entidades rendirán los informes que les sean requeridos por las autoridades estatales competentes, para los efectos del Registro de Deuda Municipal y, en su caso, del Estatal.
-
-###### Artículo 426.
-
-El Ayuntamiento, al solicitar la inscripción en el Registro de la Deuda Estatal, anexará a su petición lo siguiente:
-
-I. El instrumento jurídico en que se haga constar la obligación cuyo registro solicita;
-
-II. El acta de Cabildo en la que se autorice contratar y afectar, en garantía de pago de las obligaciones contraídas, los ingresos municipales propios y participaciones federales;
-
-III. El acta de Cabildo en la que se autorice a afectar otras garantías distintas a las señaladas en la fracción anterior;
-
-IV. La autorización del Congreso; y
-
-V. Información sobre el destino del crédito.
-
-###### Artículo 427.
-
-Todas las obligaciones que contraigan el Municipio y las entidades se inscribirán en el Registro de Deuda Pública Municipal.
-
-###### Artículo 428.
-
-En el Registro de Deuda Pública Municipal se anotarán los datos siguientes:
-
-I. El número progresivo y fecha de inscripción;
-
-II. Las características del acto jurídico, con identificación de las obligaciones contraídas, su objeto, plazo y monto;
-
-III. La fecha del acta de Cabildo donde se autoriza al Ayuntamiento a asumir obligaciones y en su caso a afectar garantías;
-
-IV. La autorización del Congreso;
-
-V. Las garantías afectadas;
-
-VI. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron; y
-
-VII. Las variaciones de los endeudamientos.
-
-###### Artículo 429.
-
-El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
-
-###### Artículo 430.
-
-El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave.
-
-###### Artículo 431.
-
-El Municipio y las entidades tendrán las obligaciones siguientes:
-
-I. Llevar registro de las operaciones a que se refiere este Libro;
-
-II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los datos relacionados con la contratación y reestructuración de créditos, así como los derivados de obligaciones contingentes, en un plazo no mayor de diez días hábiles, contado a partir de la celebración del acto; y
-
-III. Comunicar al Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
-
-###### Artículo 432.
-
-La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a cargo del Municipio, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago por el Municipio, se cubran con cargo a los ingresos municipales en gravámenes y participaciones federales, que deba entregarles el Estado.
-
-###### Artículo 433.
-
-Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
-
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
-
-### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
-
-###### Artículo 434.
-
-Las participaciones que corresponden al Municipio son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones derivadas o contraídas, con apego a las disposiciones legales, por el Municipio o sus entidades, que hayan requerido de afectación en garantía de dichas participaciones.
-
-Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-El Municipio podrá afectar como fuente de pago o garantía de sus obligaciones, el derecho, los ingresos o ambos a las aportaciones federales susceptibles de destinarse a dichos fines en términos de la legislación aplicable.
-
-###### Artículo 435.
-
-En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
-
-> <small>(ADICIONADO, G.O. 25 DE JULIO DE 2008)</small>
-
-En el caso de que se afecten aportaciones, el Ayuntamiento, podrá instrumentar como fuente de pago, garantía, o ambas, fideicomisos, mandatos irrevocables o cualquier otro mecanismo autorizado por las disposiciones aplicables.
-
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2008)</small>
-
-Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave y el Código Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, según corresponda.
-
-# LIBRO SEXTO. DE LOS BIENES MUNICIPALES
-
-## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-###### Artículo 436.
-
-El presente libro tiene por objeto definir y regular el dominio, uso, usufructo, aprovechamiento, enajenación, destino, registro y control de los bienes muebles e inmuebles que integran el patrimonio del Municipio y de sus Entidades.
-
-###### Artículo 437.
-
-El patrimonio del Municipio se compone de:
-
-I. Bienes de dominio público; y
-
-II. Bienes de dominio privado.
-
-###### Artículo 438.
-
-Son bienes de dominio público:
-
-I. Los de uso común;
-
-II. Los destinados por el Municipio a un servicio público, y los equiparados a éstos conforme a la ley;
-
-III. Los monumentos históricos y artísticos, muebles e inmuebles, de propiedad municipal;
-
-IV. Los muebles de propiedad municipal que, por su naturaleza no sean normalmente substituibles, como los documentos y expedientes de las oficinas: los manuscritos, incunables, ediciones, libros, documentos, publicaciones, periódicos, mapas, folletos y grabados importantes o raros, así como las colecciones de esos bienes; los archivos; las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
-
-V. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Municipio o del patrimonio de las Entidades;
-
-VI. Los puentes y carreteras del dominio municipal;
-
-VII. Los inmuebles adquiridos para destinarse a fines de utilidad pública;
-
-VIII. Los montes y bosques propiedad del dominio del gobierno municipal, que se destinen a fines de interés públicos, y
-
-IX. Los demás bienes del dominio municipal no considerados en las fracciones anteriores, que proporcionen un servicio público.
-
-###### Artículo 439.
-
-Son bienes de dominio privado:
-
-I. Los no comprendidos en el artículo anterior;
-
-II. Los inmuebles que formen parte del fundo legal no enajenados a particulares;
-
-III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
-
-IV. Los que hayan formado parte del patrimonio de las Entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
-
-V. La totalidad o la parcialidad de los bienes del dominio público, que sean desafectados o desincorporados del mismo;
-
-VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
-
-VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
-
-VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
-
-###### Artículo 440.
-
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
-
-###### Artículo 441.
-
-Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del Congreso o de la Diputación Permanente.
-
-Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del Congreso o, en su caso, de la Diputación Permanente.
-
-###### Artículo 442.
-
-Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
-
-###### Artículo 443.
-
-Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
-
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
-
-###### Artículo 444.
-
-Son atribuciones del Ayuntamiento, respecto a sus bienes, las siguientes:
-
-I. Vigilar la observancia del presente Código;
-
-II. Programar la adquisición, uso, aprovechamiento, usufructo, destino, enajenación y arrendamiento de los bienes municipales;
-
-III. Promover la titulación y registro de todos los bienes y derechos que formen parte de su patrimonio y, si procediere, de aquellos que se presuman de su propiedad, mediante escritura pública o título supletorio de dominio;
-
-IV. Realizar o promover, en su caso, los deslindes sobre sus bienes patrimoniales;
-
-V. Ejecutar todas las acciones jurídicas y materiales tendientes a la reivindicación o recuperación de sus bienes;
-
-VI. Suscribir, por conducto del Presidente Municipal y del Síndico, los contratos que el Congreso o la Diputación Permanente autorice;
-
-VII. Intervenir, conforme a las leyes de la materia, en la regularización de la tenencia de la tierra en el Municipio;
-
-VIII. Formular un inventario de todos los bienes y derechos municipales;
-
-IX. Establecer y mantener actualizado un registro de solicitudes y enajenaciones relativas a sus bienes;
-
-X. Ejercitar las acciones de rescisión administrativa respecto a los bienes municipales que establece este Código;
-
-XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenación, considerando su ubicación y calidad. En ningún caso su valor será inferior al valor catastral o fiscal; y
-
-XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
-
-### CAPÍTULO III. DEL INVENTARIO
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 445.
-
-El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera (sic) naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
-
-El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
-
-###### Artículo 446.
-
-Los bienes se clasificarán en el inventario agrupándolos de la siguiente manera:
-
-I. Muebles;
-
-II. Inmuebles;
-
-III. Derechos;
-
-IV. Valores mobiliarios, inmobiliarios, financieros y bursátiles;
-
-V. Créditos; y
-
-VI. Semovientes;
-
-Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
-
-###### Artículo 447.
-
-Las dependencias de la administración pública municipal y las demás instituciones públicas y privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Municipio proporcionarán información necesaria para la elaboración y actualización del inventario de bienes municipales.
-
-Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de las Entidades.
-
-###### Artículo 448.
-
-La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
-
-## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
-
-### CAPÍTULO I. DE LOS BIENES MUEBLES
-
-###### Artículo 449.
-
-El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas relativas al dominio y la administración de los bienes muebles del Municipio, de conformidad con las disposiciones legales aplicables.
-
-###### Artículo 450.
-
-Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
-
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
-
-###### Artículo 451
-
-Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
-
-###### Artículo 452.
-
-Las dependencias de la administración pública municipal presentarán al Cabildo un programa anual, que prevea sus necesidades inmobiliarias y contenga la información necesaria para fundar las políticas y decisiones en la materia.
-
-Las adquisiciones de bienes inmuebles que se programen se orientarán al cumplimiento de los fines previstos en el Plan de Municipal de Desarrollo.
-
-En todos los casos, el Ayuntamiento verificará que el uso para el que se requieran los inmuebles sea compatible con las disposiciones vigentes en materia de desarrollo urbano y verificará la disponibilidad presupuestal para la adquisición de los mismos. Al momento de la adquisición deberá contarse con la partida presupuestal autorizada.
-
-###### Artículo 453.
-
-Para satisfacer los requerimientos de inmuebles que formulen las Dependencias y Entidades, la Comisión de Hacienda, con base en la información que proporcione el Inventario de Bienes Municipales, procederá conforme a las disposiciones aplicables.
-
-###### Artículo 454.
-
-Cuando el Municipio adquiera un inmueble, por vías de derecho privado, para cumplir con finalidades de orden público, en su caso, podrá convenir con los poseedores, derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamientos, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, con la posibilidad de cubrir, en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no excederá de un año.
-
-###### Artículo 455.
-
-Las dependencias sólo podrán arrendar bienes inmuebles para su servicio, cuando previo informe que le rindan al Cabildo, éste lo apruebe si no fuere posible o conveniente su adquisición.
-
-Tanto el arrendamiento de inmuebles para oficinas públicas como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará con la asesoría de la dependencia responsable de Obras Públicas.
-
-El Presidente, con la asesoría de la dependencia responsable de Obras Públicas, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
-
-###### Artículo 456.
-
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, corresponderá a la Comisión de Hacienda:
-
-I. Validar los avalúos de los inmuebles objeto de la operación de adquisición, enajenación o permuta o de cualquier otra autorizada por la ley cuando se requiera; y
-
-II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
-
-#### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
-
-###### Artículo 457.
-
-Para aprovechamientos especiales sobre los bienes de uso común o destinados a un servicio público, se requiere permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo.
-
-###### Artículo 458.
-
-Los permisos y autorizaciones sobre bienes de uso común y los destinados o afectos a un servicio público, no generan derechos reales, sólo otorgan, frente a la Administración Municipal y sin perjuicio de terceros, el derecho a realizar los usos o aprovechamientos de conformidad con las reglas y condiciones que establezcan las leyes y el permiso o autorización.
-
-###### Artículo 459.
-
-Los permisos o autorizaciones a que se refiere el artículo anterior, los concederá el Cabildo hasta por el lapso de un año, que podrá prorrogarse por igual término siempre que no exceda del periodo de la Administración que lo emite.
-
-Los permisos o autorizaciones se otorgarán a título personal y serán intransferibles.
-
-###### Artículo 460.
-
-Serán nulos los permisos o autorizaciones que se otorguen en contravención a las disposiciones anteriores, además, serán revocados por las causas siguientes:
-
-I. Dar un fin distinto al permiso o autorización o no usar el bien de acuerdo con lo dispuesto en éste Código, los reglamentos y permisos o autorizaciones;
-
-II. Dejar de pagar en forma oportuna los derechos que se hayan fijado en el permiso o autorización;
-
-III. Realizar obras no autorizadas por escrito;
-
-IV. Dañar en forma reiterada ecosistemas como consecuencia del uso o aprovechamiento; o
-
-V. Las demás previstas en éste ordenamiento.
-
-###### Artículo 461.
-
-Los inmuebles considerados, en términos de este Código, como bienes de dominio privado deberán destinarse prioritariamente al uso común o al servicio de las Dependencias y Entidades de la Administración Pública Municipal.
-
-###### Artículo 462.
-
-Los inmuebles que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán ser objeto de los siguientes actos de dominio y administración, sin perjuicio de lo dispuesto por la Ley Orgánica del Municipio Libre:
-
-I. Enajenación a título oneroso; para adquirir o permutar otros inmuebles que se requieran para la prestación de los servicios a cargo de las dependencias de la Administración Pública Municipal; para el pago de indemnizaciones o adeudos en los que el municipio tenga el carácter de deudor; para la instalación de empresas particulares que contribuyan, a través de la generación de empleos, a elevar el nivel económico de la localidad; a particulares para la construcción de viviendas de interés social; y, en general, para promover el bienestar colectivo;
-
-II. Enajenación a título gratuito, a favor de los Gobiernos Federal, de los Estados o de los Municipios, para la prestación de servicios públicos, de personas físicas o morales de carácter privado, que realicen actividades de interés social y no persigan fines de lucro; y
-
-III. Arrendamiento o comodato, según convengan al interés público, a favor de personas físicas o morales, públicas o privadas, de conformidad con la legislación aplicable.
-
-###### Artículo 463.
-
-El Ayuntamiento, previa autorización del Congreso o, en su caso, de la Diputación Permanente, podrá conceder el uso o el usufructo de inmuebles considerados como bienes de dominio privado.
-
-###### Artículo 464.
-
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, en materia de avalúos se estará a lo dispuesto por la Ley de Catastro.
-
-La transmisión de dominio, a título gratuito u oneroso, de los bienes inmuebles propiedad del Ayuntamiento sólo podrá realizarse mediante acuerdo del Ayuntamiento, emitido en términos de la legislación aplicable.
-
-###### Artículo 465.
-
-En los casos de enajenación a título gratuito, el acuerdo del Ayuntamiento fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien para el objeto solicitado; en su defecto se entenderá que el plazo será de un año.
-
-Si el beneficiario no hiciere uso del bien dentro del plazo previsto o destinare el inmueble a un uso distinto al autorizado, tanto el inmueble como sus mejoras, si las hubiere, se revertirán a favor del Municipio, sin derecho a repetir.
-
-Cuando la beneficiaria sea una persona física o moral de carácter privado y deje de cumplir con su objeto o se extinga, también procederá la reversión del bien y sus mejoras, si las hubiere, a favor del Municipio, sin derecho a repetir.
-
-###### Artículo 466.
-
-En la enajenación de bienes el precio de venta no será menor al valor catastral actualizado, preferentemente será de contado y podrá realizarse a censo redimible en los supuestos previstos en el artículo siguiente.
-
-###### Artículo 467.
-
-Toda enajenación onerosa de inmuebles que realice el Municipio deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de organismos, asociaciones de beneficencia o personas de escasos recursos y que tengan como finalidad resolver necesidades de vivienda de interés social, las que se verifiquen para la realización de actividades sociales y culturales, o las que se realicen teniendo por objeto el desarrollo de programas de interés social o popular, la incorporación de asentamientos irregulares al desarrollo urbano, el mejoramiento y la conservación de bienes públicos o con valor histórico o arqueológico, así como la integración económica de una zona o región.
-
-###### Artículo 468.
-
-Mientras no esté totalmente pagado el precio, los compradores de inmuebles municipales no podrán hipotecarlos ni constituir sobre ellos derechos reales a favor de terceros, ni estarán facultados para derribar o modificar las construcciones sin acuerdo expreso del Ayuntamiento, mismo que se expedirá considerando el destino final de los bienes y la necesidad de su afectación, salvo excepción prevista en este Código.
-
-En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades por concepto de los abonos a cuenta del precio y en su caso de los intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
-
-Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
-
-###### Artículo 469.
-
-El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracción III del artículo 439 de este Código, mediante requerimiento al poseedor de las mismas para que entere el pago a la Tesorería, de lo cual se informará al Registro Público de la Propiedad para que éste realice la rectificación correspondiente.
-
-El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 444.
-
-#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
-
-###### Artículo 470.
-
-La enajenación de los bienes de dominio privado a los particulares, será para fines habitacionales; excepcionalmente y previa autorización del Congreso o de la Diputación Permanente, en su caso, para otros fines, de preferencia los de beneficio colectivo, debiendo satisfacer los requisitos, limitaciones, modalidades y procedimiento que imponen los siguientes artículos de este Código, la Ley de Desarrollo Regional y Urbano para el Estado de Veracruz, así como los Planes de Desarrollo Estatal, Regional o Municipal.
-
-###### Artículo 471.
-
-Serán requisitos para la enajenación a particulares con fines habitacionales, los siguientes:
-
-I. Presentar ante el Ayuntamiento solicitud escrita en la que, bajo protesta de decir verdad, se proporcionen los datos requeridos por el mismo;
-
-II. Tener modo honesto de vivir, ser mayor de edad y preferentemente jefe de familia;
-
-III. Ser vecino del lugar de la ubicación del inmueble por lo menos desde un año antes de la solicitud;
-
-IV. Acreditar, mediante constancia del Registro Público de la Propiedad, no ser propietario de bienes inmuebles;
-
-V. Acreditar, mediante constancia expedida por fedatario público, si se encuentra en posesión del predio cuya compra pretende, o ha construido en el mismo; y
-
-VI. Acompañar el plano del predio con la indicación de sus linderos, superficie y ubicación, si está en el supuesto de la fracción anterior.
-
-###### Artículo 472.
-
-Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento, en sesión de Cabildo y en los términos dispuestos por la legislación aplicable, emitirá el Acuerdo correspondiente, en el cual de ser favorable al solicitante, deberán asentarse los datos del beneficiario y del bien a enajenar, así como el precio de venta y la forma de pago.
-
-###### Artículo 473.
-
-Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al Congreso, a efecto de que éste o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
-
-###### Artículo 474.
-
-Autorizada por el Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se estipularán las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
-
-La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
-
-###### Artículo 475.
-
-Serán limitaciones para la enajenación a particulares, las siguientes:
-
-I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
-
-II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
-
-III. En caso de que el precio se pague a plazos, estos no excederán de tres años, constituyéndose en garantía real el propio bien inmueble; y
-
-IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento urbano de las unidades habitacionales.
-
-###### Artículo 476.
-
-La enajenación a particulares se sujetará a las condiciones siguientes:
-
-I. Obligarse a construir y habitar su vivienda, en un plazo de dos años a partir de la fecha de notificada la autorización de enajenación por el Congreso;
-
-II. No gravar, ni arrendar o dar en uso, aprovechamiento o en usufructo el bien inmueble adquirido dentro de los dos años siguientes a la fecha de escrituración; se exceptúa de esta disposición el gravamen que se constituya para edificar su casa habitación, siempre que medie autorización expresa del Ayuntamiento; y
-
-III. Si en el término de dos años, el adquirente no concluye el proceso de escrituración una vez obtenido el acuerdo para su enajenación, se procederá a la rescisión administrativa del mismo.
-
-###### Artículo 477.
-
-Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme a las disposiciones legales aplicables. Para su ejercicio se otorga acción pública.
-
-## TÍTULO TERCERO
-
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
-
-###### Artículo 478.
-
-Son causas de rescisión administrativa:
-
-I. La falsedad de los datos proporcionados por el adquirente en su solicitud;
-
-II. El incumplimiento de las disposiciones de este Libro o de alguna de las cláusulas del contrato; o
-
-III. Mantener el lote baldío por más de dos años, contándose este término a partir de la fecha de notificada la autorización por el Congreso.
-
-###### Artículo 479.
-
-Cuando el Ayuntamiento tenga conocimiento de alguna causa de rescisión administrativa de un contrato, a solicitud de parte o de oficio, sin mayor trámite el Síndico del Ayuntamiento procederá de la forma siguiente:
-
-I. Integrará un expediente con el nombre del beneficiario del inmueble, anotando el domicilio particular donde pueda ser notificado, la ubicación del lote, superficie y estado en que se encuentra, señalando la causal de que se trate, agregando copia certificada del contrato de compraventa, expedida por el Registro Público de la Propiedad;
-
-II. Integrado el expediente, dictará acuerdo de inicio del procedimiento administrativo de rescisión;
-
-III. El acuerdo recaído se notificará al propietario en su domicilio mediante instructivo de notificación o por edicto si se desconociere, publicándolo en la Gaceta Oficial del Estado y en el periódico de mayor circulación en el lugar de ubicación del lote motivo del contrato, para que surta efectos de notificación personal;
-
-IV. El propietario del inmueble dispondrá del término de nueve días hábiles, contado a partir del en que surta efectos la notificación, para que por escrito manifieste lo que a su derecho convenga y para ofrecer pruebas, señalando domicilio para recibir notificaciones; de no hacerlo, las subsecuentes se harán en la tabla de avisos del Ayuntamiento;
-
-V. Hechas las manifestaciones y ofrecidas las pruebas, dentro de los tres días hábiles siguientes se señalará día y hora para su recepción. Las pruebas que sean admitidas serán recibidas y desahogadas en la misma audiencia, comparezca o no el oferente;
-
-VI. Si transcurrido el término a que se refiere la fracción IV de este artículo, el propietario no hiciere manifestación alguna, se practicará certificación de dicha circunstancia, turnándose el expediente al Cabildo, para resolver dentro de los tres días hábiles siguientes; y
-
-VII. Celebrada la audiencia, dentro de los tres días hábiles siguientes, el Cabildo dictará resolución conforme a derecho. Esta se notificará al interesado como se prevé en la fracción III de este artículo.
-
-###### Artículo 480.
-
-Al resolverse la rescisión administrativa de un contrato celebrado conforme a este Código, el interesado tendrá derecho a que se le reintegre únicamente la cantidad que hubiere pagado por el lote, solicitándolo por escrito al Ayuntamiento.
-
-###### Artículo 481.
-
-Contra la resolución de rescisión administrativa, el interesado podrá interponer dentro de los quince días hábiles siguientes a la fecha de la notificación de la misma, ante el propio Ayuntamiento, el recurso administrativo de revocación. Admitido el recurso deberá ser resuelto por votación mayoritaria de los miembros del cabildo dentro de igual término.
-
-La interposición del recurso suspenderá de plano la ejecución de la resolución.
-
-###### Artículo 482.
-
-Cuando no se haya hecho valer el recurso de revocación o haciéndolo, se confirme la resolución, se comunicará por oficio al Encargado del Registro Público de la Propiedad de la zona registral de la ubicación del lote, para que practique la anotación marginal correspondiente y el Ayuntamiento proceda a la recuperación física del predio y realice la variación del padrón catastral como consecuencia de la rescisión administrativa.
-
-###### Artículo 483.
-
-El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión administrativa prevista en este Título, se sujetará a las disposiciones del Código de Procedimientos Administrativos.
+### CAPITULO VIII. De los medios de defensa
 
 ###### Artículo 196.
 
-El inicio de actividades, modificación (ampliación de actividades, cambio de giro, cambio de razón social, cambio de domicilio, cambio de propietario, cambio de nombre comercial, etc.), suspensión y baja definitiva de las unidades económicas a las que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Cuando los titulares de establecimientos de tipo comercial, industrial o de prestación de servicios, omitan realizar su registro al Padrón Fiscal Municipal de Unidades Económicas conforme a lo estipulado en el presente Código, las autoridades fiscales, determinarán de manera presuntiva el importe que les corresponde pagar conforme a lo establecido en el presente capítulo. Para los efectos de la determinación presuntiva, ésta se calculará acorde a la tarifa que proceda por concepto de registro o refrendo, según corresponda, tomando como base los datos proporcionados por terceros a solicitud de las autoridades fiscales o con información obtenida en el ejercicio de sus facultades de comprobación.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-La determinación presuntiva a que hace referencia el párrafo anterior, no prejuzga ni convalida el funcionamiento del establecimiento comercial, asimismo, no preconstituye un derecho y procederá independientemente de las sanciones a que haya lugar.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 198.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+Las resoluciones y acuerdos administrativos, así como las sanciones por infracciones a esta Ley y su reglamento, que los interesados estimen antijurídicos, infundados o faltos de motivación, podrán ser impugnados mediante el recurso de inconformidad que deberán hacer valer por escrito, dentro de los 15 días hábiles contados a partir de aquél en que sean notificados o del que tengan conocimiento de la resolución, acuerdo o infracción de que se trate; o bien, mediante juicio ante el Tribunal de lo Administrativo del Estado.
 
 ###### Artículo 197.
 
-Son sujetos de los derechos del presente capítulo, las personas físicas o morales titulares de las unidades económicas que realicen actividades de tipo comercial, industrial o de prestación de servicios, mismos que tienen la obligación de obtener su registro o en su caso el refrendo al Padrón Fiscal Municipal de Unidades Económicas.
+Procede la inconformidad:
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. Contra los actos de autoridades que impongan las sanciones a que esta Ley se refiere y que el interesado estime indebidamente fundadas y motivadas; y
 
-La base para el cálculo de este derecho será de acuerdo a los impactos causados por las unidades económicas y por la erogación que realiza el Municipio en cada caso específico.
+II. Contra los actos de autoridades administrativas que los interesados estimen violatorios de esta Ley.
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El pago del derecho por el Registro al Padrón Fiscal Municipal de Unidades Económicas, deberá realizarse durante los primeros 15 días naturales al que haya iniciado actividades comerciales, industriales o de prestación de servicios, independientemente de la autorización o no de las dependencias adscritas a este Municipio para la obtención del registro de su unidad económica. Para la obtención del registro plasmado con anterioridad, la autoridad fiscal en cualquier momento tendrá la facultad de solicitar los requisitos que considere necesarios de acuerdo a las características particulares del giro comercial que pretende desarrollar en su establecimiento mercantil.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El pago por el refrendo al Padrón Fiscal Municipal de Unidades Económicas se causará de forma anual y se deberá realizar durante los meses de enero, febrero y marzo del ejercicio fiscal que corresponda.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Las personas físicas o morales titulares de las Unidades Económicas, deberán colocar la cédula de empadronamiento correspondiente del giro autorizado, en un lugar visible y de fácil acceso en el inmueble donde ejerzan su actividad.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 199.]</small>
-
-> <small>(ADICIONADO PRIMER PÁRRAFO CON SUS FRACCIONES [N. DE E. REFORMADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+Es optativo para el particular, agotar la inconformidad como medio de defensa o promover juicio ante el Tribunal de lo Administrativo.
 
 ###### Artículo 198.
 
-Para los efectos del presente capítulo, los registros y/o verificaciones administrativas de las Unidades Económicas se clasificarán de la siguiente manera:
-
-I. Giros de registro normal: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación, ordenamiento territorial e impacto vial implican bajo o nulo riesgo para la población. (Tipo 1, Tipo 2 y Tipo 3).
-
-II. Giros o actividades de mediano impacto: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación, ordenamiento territorial e impacto vial, alteran el orden o la seguridad de la población. (Tipo A, Tipo B, Tipo C, Tipo D, Tipo E, Tipo F, Tipo G, Tipo H, Tipo I, Tipo J, Tipo K, Tipo L, Tipo M, Tipo N, Tipo O, Tipo P, Tipo Q, Tipo R).
-
-III. Giros o actividades de alto impacto: Son aquellas que por sus actividades económicas y características en su ubicación, giro, instalación, apertura y operación representan un riesgo alto para la población de este Municipio, catalogados así para proteger la vida, la salud, el medio ambiente y la seguridad de las personas, y en general aquellos cuyo manejo debe realizarse de acuerdo a normas especiales. (Tipo 1, Tipo 2, Tipo 3, Tipo 4, Tipo 5, Tipo 6, Tipo 7, Tipo 8, Tipo 9, Tipo 10, Tipo 11 y Tipo 12).
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Para efectos de la aplicación del presente capítulo, la clasificación de las unidades económicas, consideradas como de normal, mediano y alto impacto para la población, en materia de protección civil y demás verificaciones administrativas necesarias para llevar a cabo el registro y/o refrendo anual de las actividades económicas en el Padrón Fiscal Municipal de Unidades Económicas serán facultad exclusiva de las Autoridades Municipales de conformidad con lo establecido en este artículo y en el tabulador contemplado en el artículo 198 Bis (sic) del presente Código.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-La Dirección de Protección Civil Municipal, es el área encargada de emitir dictamen técnico, pliego de recomendaciones y opiniones técnicas de acuerdo con lo establecido en los artículos 82 de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 199 BIS.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 198 Bis.
-
-Por el registro, refrendo y/o modificación de los giros mercantiles al Padrón Fiscal Municipal de Unidades Económicas, se aplicará la tarifa correspondiente según las actividades que desarrollen estas unidades, la cual se muestra en el catálogo de giros que se presenta a continuación:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 73 A LA 83.]</small>
-
-El catálogo de giros es independiente del SCIAN, debido a que este último contempla una amplia variedad de giros, los cuales en su mayoría no son aplicables para el Municipio de Coatzacoalcos, Veracruz.
-
-1. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local que no excedan los 25.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
-
-CONCEPTO MONTO EN UMA
-
-a) Registro 0.26 por m2
-
-b) Refrendo 3
-
-2. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local de 26 a 50.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
-
-CONCEPTO MONTO EN UMA
-
-a) Registro 0.26 por m2
-
-b) Refrendo 5
-
-3. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local de 51 a 100.99 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
-
-CONCEPTO MONTO EN UMA
-
-a) Registro 0.26 por m2
-
-b) Refrendo 8
-
-4. Con excepción del catálogo de giros del presente artículo, tratándose de establecimientos comerciales, industriales y de prestación de servicios de presencia local que excedan los 101 metros cuadrados de superficie, se cobrará de acuerdo a lo siguiente:
-
-CONCEPTO MONTO EN UMA
-
-a) Registro 0.30 por m2
-
-b) Refrendo 0.20 por m2
-
-Las unidades económicas que excedan los metros permitidos pagarán por metro adicional el proporcional de dividir el costo de registro o refrendo entre el número de metros tope que corresponda.
-
-Costo del registro en UMA
-
-= Costo por m2 adicional
-
-Superficie Máxima en m2
-
-Para los efectos de este capítulo, las unidades económicas que presten servicios complementarios o adicionales al giro o actividad principal, deberán pagar por el registro y/o refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro complementario, aun cuando este sea menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional, la actividad o actividades que se ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 201 del presente Código.
-
-El cobro de los derechos previstos en el presente capítulo deberá efectuarse de forma conjunta con los derechos que sean relacionados al funcionamiento del giro, es decir, los derechos por limpia pública, protección civil, uso de suelo, constancia sanitaria, anuncios publicitarios, constancia en materia ambiental, pago de formatos diversos y demás verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en el presente Código, así como el respectivo pago del impuesto adicional establecido en el artículo 171 del presente Código.
-
-La Tesorería será la facultada para emitir órdenes de pago de las Unidades Económicas que se encuentren debidamente registradas en el Padrón Fiscal Municipal de Unidades Económicas y así mismo, realizar el cálculo de los derechos de forma conjunta respecto de las demás contribuciones con motivo de la misma a que sean sujetos los titulares, con la finalidad de determinar el importe total a liquidar. Para las unidades económicas que no se encuentren regularizadas o empadronadas, deberán pagar un 25 por ciento más sobre el monto que corresponde al Registro al Padrón Fiscal Municipal de Unidades Económicas, conjuntamente con el pago de los accesorios a que sea acreedor, debiendo cumplir con los requisitos y procedimientos establecidos para la expedición.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 199 TER.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 198 Ter.
-
-Los trámites que modifiquen el régimen de funcionamiento de las Unidades Económicas derivados de los derechos del presente capítulo, se realizarán mediante los formatos autorizados vigentes por las autoridades municipales competentes de conformidad con la reglamentación y demás ordenamientos aplicables y se pagarán de acuerdo a las siguientes tarifas:
-
-I. Por traspaso de la Unidad Económica, 0.25 UMA por metro cuadrado que tenga el establecimiento;
-
-II. Por cambio de domicilio del registro de la Unidad Económica, 0.20 UMA por metro cuadrado que tenga el establecimiento;
-
-III. Por ampliación de horario de funcionamiento 10 por ciento del costo del refrendo de la Unidad Económica por cada hora adicional del horario ordinario que se tenga autorizado.
-
-IV. Por cambio de denominación la Unidad Económica, 8 UMA;
-
-V. Por afectación de superficie, cuando aumente el número de metros cuadrados del establecimiento, 0.25 UMA por metro cuadrado;
-
-VI. Por autorización de ampliación de giro causará derechos del 30 por ciento del costo del registro del giro solicitado.
-
-VII. Por corrección de datos, 1.5 UMA.
-
-VIII. Por autorización de trámite especial la tarifa será de 2.5 UMA.
-
-IX. Por reposición de la Cédula de empadronamiento por extravío, destrucción o robo (sic) 30% (treinta por ciento) del costo del refrendo.
-
-X. Por la instalación de anexos temporales de establecimientos comerciales, siempre que no invada la vía pública ni obstruyan la visibilidad peatonal. Así como dentro de espectáculos públicos conforme a lo siguiente:
-
-SUPERFICIE UMA POR METRO TARIFA ADICIONAL
-
-CUADRADO DIARIA UMA
-
-a) De 1 a 4 m2 1 0.3
-
-b) De 4.01 m2 en adelante 1.5 1
-
-El monto que resulte será independiente al pago por el refrendo al Padrón Fiscal Municipal de Unidades Económicas de la cédula de funcionamiento y (sic) cual amparará únicamente el periodo autorizado.
-
-XI. Otros trámites no especificados en las fracciones anteriores 1.5 UMA.
-
-El horario ordinario de funcionamiento de las unidades económicas a que se refiere este capítulo será de las 07:00 a 23:00 horas.
-
-El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva del Registro al Padrón Fiscal Municipal de Unidades Económicas siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad Municipal se cerciore que el contribuyente presenta adeudos por el Refrendo al Padrón Fiscal Municipal de Unidades Económicas, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del refrendo entre los 12 meses que corresponden al ejercicio fiscal.
-
-El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar el Registro al Padrón Fiscal Municipal de Unidades Económicas, cubriendo la totalidad (sic) los derechos correspondientes.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 199 QUÁTER.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 198 Quáter.
-
-Por ejercicios fiscales los contribuyentes tendrán derecho de un 20%, 15% y 10% de descuento en los meses de enero, febrero y marzo respectivamente, en el pago del refrendo al Padrón Fiscal Municipal de Unidades Económicas del giro correspondiente.
-
-Para ser sujetos de los presentes estímulos fiscales, los contribuyentes deberán estar al corriente con el pago de sus obligaciones fiscales respecto al ejercicio fiscal inmediato anterior, debiendo presentar el último recibo de pago, copia de identificación oficial y su cédula de empadronamiento.
-
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 200.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+La inconformidad deberá interponerse ante la propia autoridad que emitió la resolución impugnada, dentro del plazo de quince días, computado a partir de la fecha en que fuere notificada la sanción o la medida de seguridad; o de la fecha en que la resolución se notifique o se haga del conocimiento del o los interesados, conforme a las disposiciones establecidas en la presente Ley.
 
 ###### Artículo 199.
 
-Es objeto de este derecho la expedición o refrendo de licencias o permisos para el funcionamiento de establecimientos que enajenen, fabriquen o expendan bebidas alcohólicas total o parcialmente al público en general, las autorizaciones que modifiquen su régimen de operación, así como, las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio, conforme al Reglamento que corresponda.
+La inconformidad deberá presentarse por escrito, firmada por el afectado o por su representante debidamente acreditado. El escrito deberá indicar:
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. El nombre y domicilio del inconforme afectado y, en su caso, de quien promueve en su nombre. Si fueren varios los recurrentes, deberán señalar un representante común;
 
-El pago por la expedición de la licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen bebidas alcohólicas, deberá efectuarse al momento en el que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en el presente Código, de conformidad con las tarifas establecidas en el artículo 201 de este ordenamiento. El pago por el derecho de refrendo de licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen bebidas alcohólicas, se causará de manera anual y se deberá pagar durante los meses de enero, febrero y marzo de cada ejercicio fiscal correspondiente, a excepción de la expedición de licencia y el otorgamiento de permisos para el expendio, venta o degustación de bebidas alcohólicas por una sola ocasión en eventos y espectáculos o diversiones públicas transitorias, estos se deberán pagar al momento en que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en la reglamentación de la materia.
+II. El interés jurídico con que comparece;
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+III. La autoridad o autoridades que dictaron el acto impugnado;
 
-Para el caso de lo plasmado con anterioridad, la autoridad tendrá la facultad de solicitar los requisitos necesarios que considere pertinentes de acuerdo a las características particulares de cada establecimiento comercial, industrial o de prestación de servicios.
+IV. La fecha en que, bajo protesta de decir verdad, manifieste el afectado que tuvo conocimiento de la resolución que impugna;
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 201.]</small>
+V. La mención precisa del acto de autoridad que motive la interposición de la inconformidad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+VI. Los conceptos de violación o, en su caso, las objeciones a la resolución o acto que se reclama;
+
+VII. Las pruebas que ofrezca; y
+
+VIII. El lugar y fecha de la presentación de la inconformidad.
 
 ###### Artículo 200.
 
-Son sujetos de este derecho las personas físicas o morales que realicen actividades de tipo comercial, industrial o de prestación de servicios que incluye la enajenación, fabricación o que expendan bebidas alcohólicas de manera total o parcial con el público en general.
+Al escrito de inconformidad, se deberá acompañar:
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+I. Identificación y los documentos que acrediten su personalidad, cuando actúe en nombre de otro o de personas jurídicas;
 
-El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva de su licencia siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad Municipal se cerciore que el contribuyente presenta adeudos por el refrendo de su licencia, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del refrendo entre los 12 meses que corresponden al ejercicio fiscal.
+II. El documento en que conste el acto impugnado;
 
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+III. Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta decir verdad que no la recibió; y
 
-El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar nuevamente la expedición de su licencia de funcionamiento, cubriendo la totalidad de los derechos correspondientes.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 202.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+IV. Las pruebas documentales que ofrezca.
 
 ###### Artículo 201.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
-
-> <small>(REFORMADO [N. DE E. CON SU TABLA], G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Por la expedición de licencias de venta de bebidas alcohólicas a que este artículo se refiere, se pagarán las cuotas siguientes:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 89.]</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El cobro de los derechos por la expedición o refrendo de licencias a que hace referencia la presente sección, deberá efectuarse de forma conjunta con los derechos de protección civil, uso de suelo, ambiental, limpia pública, anuncios publicitarios y salud, así como el impuesto adicional establecido en el artículo 171 del presente Código, además de los pagos de formatos diversos y demás de verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en el presente Código, y demás disposiciones internas que emitan las autoridades fiscales municipales.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Para efectos de esta sección, los establecimientos comerciales que presten servicios complementarios o adicionales al giro principal, deberán pagar por la expedición o refrendo de la licencia de funcionamiento de éstos, aun cuando sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional la actividad o actividades que ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 198 Bis (sic) del presente Código.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El horario ordinario de funcionamiento a que se refiere este capítulo será de las 08:00 a 00:00 horas, de forma general y de forma específica atendiendo al horario autorizado en sesión de cabildo por las autoridades municipales correspondientes.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Así mismo, la autoridad fiscal podrá acordar la ampliación o disminución temporal de los horarios establecidos en el reglamento aplicable, cuando existan eventos o situaciones especiales en la ciudad que a su consideración lo ameriten.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-De igual manera, las inspecciones que realicen las autoridades municipales competentes tendrán un costo por cada una de 3 UMA, conforme a lo previsto en el Reglamento respectivo.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 202 BIS.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 201 Bis.
-
-Los servicios y trámites que modifiquen el régimen de funcionamiento de los establecimientos comerciales, industriales o de prestación de servicios de esta sección, se tramitarán mediante los formatos previamente autorizados por las autoridades fiscales y se pagarán de acuerdo a las siguientes tarifas:
-
-I. Por el cambio de propietario del establecimiento, entre personas físicas o morales, se pagará únicamente el 50% de la expedición u otorgamiento de la licencia que corresponda, siempre que no existan adeudos, en caso contrario, se deberá cubrir el monto total del costo de la licencia más el adeudo correspondiente.
-
-II. Por cualquier cambio de giro o actividad comercial del establecimiento, se pagará una nueva expedición de licencia y la cancelación de la licencia ya existente.
-
-III. Por el cambio de nombre o denominación comercial, la cantidad de 5 UMA.
-
-IV. Por cambio de régimen de razón social, la cantidad de 4 UMA.
-
-V. Por cambio de domicilio del establecimiento, la cantidad de 5 UMA.
-
-VI. Por corrección de domicilio del establecimiento, la cantidad de 2 UMA.
-
-VII. Por disminución de la actividad comercial, la cantidad de 5 UMA.
-
-VIII. Por autorización de ampliación de horario extraordinario de funcionamiento de forma anual la cantidad del 10% (diez por ciento) por cada hora respecto al pago del refrendo que establece el artículo anterior.
-
-IX. Por reposición de licencia de funcionamiento, la cantidad de 4 UMA.
-
-X. Por copia certificada del estudio de impacto social, la cantidad de 20 UMA.
-
-XI. Por expedición de constancia de no adeudo de licencias o permisos de establecimientos comerciales, industriales o de prestación de servicios que enajenen bebidas alcohólicas, la cantidad de 1 UMA.
-
-XII. Por expedición de constancia de baja del establecimiento comercial, industrial o de prestación de servicios, la cantidad de 1 UMA.
-
-XIII. Por autorizaciones temporales de hasta 30 días el 10% del costo del Refrendo al Padrón Fiscal Municipal de Establecimientos Comerciales, Industriales o de Prestación de Servicios que enajenen Bebidas Alcohólicas de acuerdo al giro que corresponda o el de mayor similitud. Los permisos o autorizaciones de carácter temporal mayores a treinta días no especificados dentro del presente artículo, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro que corresponde o al de mayor similitud. En ningún caso el costo será menor al que corresponda a quince días.
-
-XIV. Por autorizaciones de una sola ocasión ya sea en espectáculos, diversiones o eventos públicos que se realicen en lugares abiertos o cerrados, se pagará de conformidad con las siguientes tarifas:
-
-CONCEPTO UMA
-
-a) Eventos deportivos,
-
-exposiciones,
-
-kermeses y eventos
-
-públicos similares. 40 por día
-
-b) Ferias, bailes tradicionales,
-
-rodeo y eventos públicos
-
-similares. 50 por día
-
-c) Conciertos, obras de teatro y
-
-bailes musicales masivos
-
-y presentaciones artísticas. 450 por evento
-
-d) Permiso para la degustación de
-
-bebidas alcohólicas en
-
-calendas o romerías. 100 por día
-
-e) Permiso para la autorización
-
-para degustación de
-
-bebidas alcohólicas en tiendas
-
-de autoservicio. 70 por día
-
-XV. Anexos para la venta de artículos por temporada de establecimientos comerciales, pagarán conforme a lo siguiente:
-
-SUPERFICIE UMA POR M2 TARIFA
-
-ADICIONAL
-
-DIARIA UMA
-
-a) 1. De 1 a 4 m2 1.00 0.2
-
-b) 2. De 4.01 m2 en adelante 1.50 0.5
-
-XVI. Por autorización de trámite especial la tarifa será de 5 UMA.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 202 TER.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+La inconformidad suspenderá la ejecución de las sanciones. Las autoridades encargadas de resolver este medio de defensa, a petición del interesado y sin mayores requisitos que los exigidos por la Ley de Amparo en materia de suspensión, estarán facultadas para ordenar que las cosas se mantengan en el estado que guardan, comunicándolo por la vía más rápida a las responsables, con el fin de evitar la ejecución inmediata de la resolución o del acto que se impugna, facilitando copia del acuerdo al promovente de la inconformidad.
 
 ###### Artículo 202.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos, sin la autorización previa del Cabildo, en términos de las disposiciones legales correspondientes, sujetándose a las condiciones siguientes:
+Cuando se trate del levantamiento de infracciones de tránsito, o de la imposición de sanciones por el mismo motivo, las autoridades encargadas de resolver las inconformidades, una vez que las hayan admitido, las resolverán de plano, si aparece de manera obvia e indubitable la ilegalidad de la infracción, o bien, cuando el interesado se conforme con la calificación del Juez o autoridad.
 
-I. Las licencias no serán negociables;
-
-II. La licencia no podrá ser utilizada para giro diferente al que se indique en la misma, ni se operará en sitio diferente al que fue autorizada;
-
-III. No se podrá exceder del horario permitido; y
-
-IV. No se podrá vender bebidas alcohólicas, en envase cerrado y/o abierto y/o al copeo, durante los días que así lo determinen las Leyes Federales y Estatales o cuando así lo acuerde el Ayuntamiento.
-
-Los traspasos, cambios de giro, cambios de nombre de negocio, cambios de domicilio o ampliaciones de horarios que se realicen sin el consentimiento de la Tesorería, serán nulos y se aplicará una multa al propietario de la licencia de acuerdo a lo establecido en el artículo siguiente. Asimismo, las licencias de funcionamiento que después de 5 años de la fecha de otorgamiento o último pago, no se encuentren refrendadas, serán canceladas, y aquellas licencias que no estén en actividad comercial y que por lo mismo se suspendan temporalmente, deberán de cubrir el 100 por ciento del costo anual de la licencia;
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 465 PUBLICADO EN LA GACETA OFICIAL EL 29 DE DICIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE ARTÍCULO CORRESPONDE AL NUMERAL 202 QUÁTER.]</small>
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Artículo 202 BIS.- Los establecimientos comerciales, industriales y de servicios a que hace referencia esta sección serán sancionados por lo (sic) servidores públicos competentes, considerando las circunstancias particulares del caso, la situación económica del contribuyente, las reincidencias y los motivos de la sanción, conforme a lo siguiente:
-
-I. Apercibimiento por no acatar lo previsto en los Reglamentos Municipales de Coatzacoalcos, Estado de Veracruz de Ignacio de la Llave.
-
-II. Multa de 1 a 50 unidades de medida y actualización;
-
-III. Suspensión o cancelación de la licencia; y
-
-IV. Clausura temporal hasta por 30 días naturales o definitiva.
-
-#### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
+Cuando se pretenda combatir otro tipo de resoluciones o actos con motivo de la aplicación de esta Ley, las autoridades encargadas de resolver la inconformidad, una vez que la hayan admitido, proveerán desde luego al desahogo de las pruebas. Al efecto se señalará un término de quince días que podrá ser ampliado hasta por treinta días, si por la naturaleza de las pruebas ofrecidas, la autoridad considera insuficiente el primer plazo.
 
 ###### Artículo 203.
 
-Es objeto de estos derechos la autorización que otorgue la autoridad municipal para la colocación de anuncios comerciales, en forma temporal o permanente, o para la realización de publicidad mediante altavoz móvil en la vía pública.
-
-También es objeto de estos derechos la colocación de anuncios comerciales en el interior o exterior de los vehículos en los que se preste el servicio público de pasajeros.
-
-Para efectos de este derecho se entiende por anuncios comerciales o publicidad todo medio que proporcione información, orientación o identifique un servicio profesional, marca, producto o establecimiento con fines de venta de bienes o servicios, en tanto se realice, ubique o desarrolle en la vía pública del Municipio o tenga efectos sobre ésta repercutiendo en la imagen urbana.
-
-La expedición de licencias, permisos o autorizaciones a que se refiere esta Sección será anual o eventual.
+Transcurrido el término para el desahogo de las pruebas, si las hubiere, se dictará resolución en un plazo no mayor de quince días, en la que se confirme, modifique o revoque la resolución impugnada. Dicha resolución se notificará al interesado.
 
 ###### Artículo 204.
 
-Son sujetos de este derecho, las personas físicas o morales que utilicen para anunciarse la vía pública del Municipio, los propietarios o usuarios de un inmueble que se utilice para colocar anuncios ajenos al mismo, los propietarios de los vehículos en los que se preste el servicio público de pasajeros, así como los promotores de cualquier empresa que soliciten anunciar y hacer publicidad en las modalidades que señala el primer párrafo del artículo anterior, debiendo solicitar en todos los casos la autorización correspondiente.
-
-Son responsables solidarios en el pago de los derechos a que se refiere esta Sección, los propietarios o poseedores de predios, fincas o construcciones y lugares de espectáculos en los que se realicen los actos publicitarios, así como los promotores de eventos, propietarios o administradores de marcas o negocios anunciados. En el caso de la publicidad móvil en altavoz, será responsable solidario aquel que preste dicho servicio de publicidad.
-
-Las autoridades municipales establecerán en sus reglamentos respectivos, o mediante disposiciones de carácter general, los requisitos para el otorgamiento de licencias, permisos o autorizaciones en su caso, para colocar anuncios, el plazo de su vigencia, así como sus características, dimensiones y espacios en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación que se utilicen en su construcción. Asimismo establecerán las condiciones en que se autorice la publicidad móvil por medio de altavoz y en los vehículos en los que se preste el servicio de transporte público de pasajeros.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-###### Artículo 205.
-
-Los derechos a que se refiere esta Sección, se cobrarán por la autorización, regularización y/o refrendo del permiso respectivo de anuncios comerciales y publicidad, de acuerdo a las cuotas siguientes:
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de 14.38 a 28.75 UMA, anualmente;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, 7.19 UMA por evento;
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-III. Por el anuncio de eventos en altavoz móvil, 7.19 UMA por evento; y
-
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, 10.78 UMA anualmente.
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio. La regularización por omisión de registros, licencias o refrendos causará los derechos normales más un cincuenta por ciento de los mismos.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-Cuando los contribuyentes, a los que hace mención la presente sección, no se encuentren inscritos en el padrón de anuncios municipal, las autoridades fiscales, determinarán como pago provisional del ejercicio, por anuncio publicitario de tipo denominativo, la cuota mínima de 4 UMA, tratándose de giros que no enajenen bebidas alcohólicas y de 6 UMA, para aquellos giros que expendan bebidas alcohólicas, sin que lo anterior, implique la regularización del anuncio publicitario con el que cuente el establecimiento y que le corresponda de acuerdo al tipo y dimensiones del mismo, por lo que, el contribuyente deberá regularizarse y darse de alta en el Padrón de Anuncios Municipal, cumpliendo con los requisitos establecidos en los reglamentos y disposiciones legales aplicables en el área municipal encargada.
-
-> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
-
-El anuncio denominativo a que se refiere el párrafo anterior, es obligatorio para los establecimientos comerciales o de servicios ubicados en el Municipio, para la debida identificación del establecimiento, dicho anuncio deberá expresar denominación, razón social o giro autorizado del que se trate.
+En contra de la resolución dictada por la autoridad, para resolver la inconformidad interpuesta, procederá el juicio ante el Tribunal de lo Administrativo o sus dependencias.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Código entrará en vigor el 1 de enero de 2004, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
+Artículo Primero.- Este decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el municipio de Coatzacoalcos del estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
+Artículo Segundo.- Los reglamentos de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco cuya formulación corresponda al Titular del Poder Ejecutivo, se deberán expedir en un plazo de seis meses contados a partir de su entrada en vigor.
 
-TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del estado de Veracruz de Ignacio de la Llave y a la Ley de Hacienda Municipal del estado de Veracruz de Ignacio de la Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, así como a este último, se entenderán referidos al presente Código.
+Artículo Tercero.- El Reglamento de la Ley del Servicio de Tránsito publicado en el Periódico Oficial "El Estado de Jalisco" del 15 de enero de 1976, continuará vigente en lo que no contravenga a las disposiciones de esta Ley, en tanto no se expidan las normas reglamentarias que lo sustituyan.
 
-CUARTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+Artículo Cuarto.- Se establece un plazo de seis meses a partir de la vigencia de esta Ley, para que los ayuntamientos por acuerdo de Cabildo, determinen e informen al Congreso del Estado y al Titular del Poder Ejecutivo, la fecha en que tomarán a su cargo las funciones que les corresponden en materia de vialidad y tránsito, o en su caso, su decisión de celebrar el convenio correspondiente con el Gobierno del Estado, para que la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, las realice, conforme las disposiciones de este ordenamiento.
 
-Dado en el Salón de Usos Múltiples (SUM), declarado recinto oficial en la ciudad de Coatzacoalcos, Veracruz de Ignacio de la Llave, sede provisional de la LIX Legislatura del Honorable Congreso del Estado, a los veinticuatro días del mes de julio del año dos mil tres. Felipe Amadeo Flores Espinosa, diputado presidente.-Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.-Rúbrica.
+Artículo Quinto.- Los convenios de colaboración en materia de vialidad y tránsito, celebrados por el Gobierno del Estado y los ayuntamientos de acuerdo con la Ley de Servicio de Tránsito que se deroga mediante este decreto, se darán por terminados a partir de la fecha que se determine conforme el artículo anterior.
 
-Por tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo y 49, fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/00956, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta y un días del mes de julio del año dos mil tres.
+Artículo Sexto.- El Gobierno del Estado, de conformidad con las facultades que le otorga la Ley, celebrará con los ayuntamientos, los convenios de colaboración que resulten necesarios de acuerdo a las disposiciones de la Ley que se expide mediante este decreto.
 
-A T E N T A M E N T E
+Artículo Séptimo.- En tanto los ayuntamientos determinen la fecha de cuándo tomarán a su cargo las funciones que les corresponden en materia de vialidad y tránsito, o en su caso, celebren y entre en vigencia el convenio correspondiente con el Gobierno del Estado, la dependencia del Ejecutivo, competente en materia de vialidad, tránsito y transporte, ejercerá las atribuciones que se establecen en esta Ley para la dependencia Municipal.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.
+Artículo Octavo.- El Gobernador del Estado a través de la dependencia competente en materia de vialidad, tránsito y transporte, en un plazo de seis meses a partir de la vigencia de esta Ley, realizará las acciones necesarias a fin de integrar el Consejo Consultivo, y constituir el Organismo Coordinador de la operación integral del servicio de transporte público, el Centro Estatal de Investigación de la Vialidad y del Transporte, y el Registro Estatal de los Servicios Públicos de Tránsito y Transporte. Asimismo ordenará a la Secretaría de Finanzas y demás instancias correspondientes, que proporcionen al Registro Estatal de los Servicios Públicos de Tránsito y Transporte, toda la información relativa que obre en su poder.
 
-LICENCIADO MIGUEL ALEMÁN VELAZCO
+Artículo Noveno.- Las funciones asignadas al Consejo Consultivo de Vialidad y Tránsito previsto en la fracción VIII del Artículo 5 de la Ley del Servicio de Tránsito que se deroga mediante este decreto, se integrarán al nuevo Consejo Consultivo Estatal de Vialidad, Tránsito y Transporte, de acuerdo a las disposiciones de las normas reglamentarias que expida el Titular del Poder Ejecutivo.
 
-GOBERNADOR DEL ESTADO
+Artículo Décimo.- Las funciones asignadas al Comité Técnico para la Racionalización del Transporte en la Zona Metropolitana de Guadalajara, que se prevé en la fracción IX del artículo 5 de la Ley del Servicio de Tránsito que se deroga mediante este decreto, se integrarán al Organismo Coordinador y al CEIT, de acuerdo a la propuesta que formule el Titular del Poder Ejecutivo y se apruebe en esta instancia de concertación social y coordinación gubernamental.
 
-RÚBRICA.
+Artículo Décimo Primero.- Se delega en forma temporal al Secretario de Vialidad y Transporte del Estado, la autorización, sanción y resolución de la tramitología relacionada con los diversos permisos de servicio de transporte público, al que se refiere el artículo 42 de la Ley del Servicio de tránsito del Estado que se deroga y siempre que hayan sido otorgados con anterioridad a la vigencia de la presente Ley, con el fin primordial de regularizar el rezago de solicitudes de prorroga y transmisiones, así como determinar la titularidad o la revocación de los permisos, en aquellos casos en que exista conflicto de derechos, por el tiempo necesario hasta la culminación de los trabajos que resuelvan el rezago.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+Artículo Décimo Segundo.- Los permisionarios o concesionarios del servicio de transporte público en cualquiera de sus modalidades, conservarán sus derechos que se encuentren vigentes y hayan sido adquiridos legalmente conforme a la Ley del Servicio de Tránsito que se deroga mediante este decreto, pudiendo permanecer prestando el servicio que tienen autorizado, sujetándose a la normatividad establecida en esta Ley y sus Reglamentos correspondientes. Los titulares de dichos permisos o concesiones, conforme vayan venciendo su vigencia, tendrán la obligación de sujetarse a las disposiciones vigentes de esta nueva Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco, teniendo un plazo de sesenta días para presentar su solicitud, ante la Dependencia del Ejecutivo competente en materia de vialidad, tránsito y transporte, para efecto de prorrogar su concesión, sin que sean necesarios otros requisitos, que los establecidos por la Ley vigente.
 
-G.O. 25 DE JULIO DE 2008.
+Las personas que tengan hasta cinco permisos autorizados conforme a la Ley que se deroga, se extenderá su vigencia cinco años después de la publicación de la presente Ley, y transcurrido dicho término deberán someterse a su normatividad para efecto de no contar con más de tres permisos o concesiones.
 
-Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+Los permisionarios o concesionarios del servicio de transporte público en la modalidad de autos de alquiler o taxis, podrán elegir prestar el servicio en sus sitios autorizados o pasar a la modalidad de radiotaxi y operar en forma independiente; debiendo en ambos casos sujetarse a la normatividad establecida por la presente Ley y sus Reglamentos correspondientes.
 
-Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+En los casos que un concesionario tenga autorizadas más de cinco concesiones de acuerdo a la Ley que se deroga, e incurra en su ocultamiento por cualquier medio que sea comprobado, será motivo de cancelación de todas las concesiones que se encuentren a su nombre y/o a sus prestanombres.
 
-G.O. 13 DE MARZO DE 2015.
+Artículo Décimo Tercero.- Las obligaciones de los propietarios de vehículos automotores, conductores y concesionarios de contratar y disponer de un seguro que cubra los posibles daños, en las condiciones y términos que establecen los artículos 67, 97, fracción V, y 105 de esta Ley, se hará efectiva a partir de la vigencia de las normas reglamentarias que expida el Titular del Poder Ejecutivo.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+Artículo Décimo Cuarto.- Se deroga la Ley del Servicio de Tránsito en el Estado de Jalisco, expedida mediante el Decreto No. 9180, publicado en el Periódico Oficial "El Estado de Jalisco", con fecha 1º de febrero de 1975.
 
-Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+Artículo Décimo Quinto.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-G.O. 26 DE DICIEMBRE DE 2017.
+Salón de Sesiones del Congreso del Estado
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Guadalajara, Jalisco, 24 de enero de 1998
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+Diputado Presidente
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Benito de Jesús Meza Pérez
 
-G.O. 30 DE MAYO DE 2019.
+Diputado Secretario
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ, Y A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, PAPANTLA, TIERRA BLANCA Y XALAPA, DEL ESTADO DE VERACRUZ”.]
+Francisco Javier Mora Hinojosa
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+Diputado Secretario
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Carlos Flores de la Torre
 
-G.O. 30 DE MAYO DE 2019.
+En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTES AL EJERCICIO FISCAL DEL AÑO 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+Emitido en Palacio del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los tres días del mes de febrero de mil novecientos noventa y ocho.
 
-Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+El C. Gobernador Constitucional del Estado
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Ing. Alberto Cárdenas Jiménez
 
-G.O. 15 DE OCTUBRE DE 2019.
+El C. Secretario General de Gobierno
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 73 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, RECORRIÉNDOSE LAS SUBSECUENTES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 230 DEL CÓDIGO HACENDARIO MUNICIPAL, ASÍ COMO A DIVERSAS DISPOSICIONES DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, PAPANTLA, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS PARA EL ESTADO DE VERACRUZ”.]
+Lic. Raúl Octavio Espinoza Martínez
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+P.O. 3 DE ABRIL DE 1999.
 
-G.O. 10 DE MARZO DE 2021.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", a excepción de lo dispuesto en la fracción V del artículo 162 del presente, que entrará en vigor a partir de los seis meses posteriores a su publicación.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 839 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL, A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, ORIZABA, PAPANTLA, TIERRA BLANCA, VERACRUZ Y XALAPA, ASÍ COMO AL CÓDIGO DE DERECHOS Y A LA LEY DE CAMINOS Y PUENTES, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+P.O. 15 DE JUNIO DE 1999.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+P.O. 8 DE JULIO DE 1999.
 
-G.O. 29 DE DICIEMBRE DE 2022.
+ÚNICO.- Este decreto entrará en vigor 30 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 465 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE COATZACOALCOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+P.O. 6 DE NOVIEMBRE DE 1999.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+PRIMERO. Para la celebración de nuevos contratos de subrogación, con motivo de la presente reforma, el organismo público descentralizado deberá pedir opinión al representante de los subrogatarios.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+P.O. 7 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+UNICO: El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. Los ayuntamientos tendrán 180 días a partir del 1º de enero del 2001, para revisar conjuntamente con la Secretaría de Vialidad, Tránsito y Transporte del Gobierno del Estado de Jalisco, los planes y programas de transporte público de pasajeros que incidan en su ámbito territorial.
+
+Cuarto. Los derechos y obligaciones adquiridos por los permisionarios, concesionarios y subrogatorios del transporte público de pasajeros deberán ser respetados en los términos y condiciones en que los adquirieron.
+
+P.O. 9 DE MARZO DE 2002.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE MAYO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+Primero.- Este decreto entrará en vigor a los 20 días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se otorga un plazo de 30 días hábiles posteriores a la entrada en vigor del presente decreto, a los conductores del servicio de transporte público colectivo de pasajeros que no cuenten con la licencia de conductor de servicio de transporte público expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte para obtener esta y así evitar el ser sancionados.
+
+P.O. 13 DE MARZO DE 2003.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estad (sic) de Jalisco".
+
+P.O. 8 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los concesionarios y permisionarios del transporte público, que no hayan realizado la solicitud de prórroga, tendrán un plazo de 60 días posteriores a la entrada en vigor del presente decreto, para solicitarla.
+
+P.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE JUNIO DE 2004.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+SEGUNDO.- El Titular del Poder Ejecutivo contará con un plazo de 90 días para realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
