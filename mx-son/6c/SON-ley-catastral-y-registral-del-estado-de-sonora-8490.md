@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2001-12-31"
+last_updated: "2002-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -163,6 +163,12 @@ La localización de predios y el levantamiento de planos comprende las operacion
 
 Con base en los elementos físicos del predio y los datos obtenidos según el artículo anterior, se elaborarán los planos catastrales que se requieran, por los procedimientos técnicos que presten mayor garantía de exactitud para un conocimiento objetivo de las áreas y características del terreno y la construcción.
 
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 9o.
+
+BIS.- Las autoridades catastrales, en los primeros cuatro meses del ejercicio fiscal correspondiente, se encargarán de realizar las acciones que resulten necesarias para localizar los predios y elaborar los planos catastrales de los inmuebles que correspondan a su circunscripción territorial.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 10.
@@ -171,23 +177,41 @@ Todos los predios ubicados dentro del territorio de los Municipios del Estado, d
 
 Las autoridades competentes deberán determinar el valor catastral de cada inmueble con la aplicación de los planos y tablas generales de valores unitarios de suelo y construcción aprobadas por el Congreso del Estado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 11.
 
-Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado, los planos y tablas generales de valores unitarios de terrenos y construcción por zona, región y subregión catastral en zonas urbanas y, tratándose de predios rurales, por hectárea, atendiendo a su clase y categoría.
+Las autoridades catastrales publicarán en el Tablón de Anuncios del Municipio, durante los meses de mayo y junio, los planos y tablas generales de valores unitarios de terrenos y construcción por zonas homogéneas y bandas de valor en zonas urbanas y, tratándose de predios rurales, por hectárea, atendiendo a su clase y categoría, a efecto de que los propietarios o poseedores de inmuebles puedan realizarle, por escrito y a más tardar el 30 de junio, las observaciones que estimen pertinentes a las autoridades catastrales, quienes deberán considerarlas al momento de presentar la propuesta de planos y tablas de valores al Ayuntamiento.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 La propuesta de planos deberá elaborarse tomando en cuenta los servicios públicos y todos aquellos elementos físicos, sociales, económicos, históricos o cualquier otro que influya en el valor de los predios, obteniendo todos los datos de información necesarios para una correcta definición de las zonas homogéneas y bandas de valor.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
 Los valores unitarios que propongan los ayuntamientos, deberán ser análogos a los valores de mercado al momento de elaborarse el estudio correspondiente.
 
-Los planos y tablas de valores aprobados por el congreso del Estado, deberán ser publicados en el Boletín Oficial del Gobierno del Estado, sin cargo a los Ayuntamientos, y serán de observancia obligatoria para el ejercicio fiscal para el que se formularon.
+> <small>(DEROGADO CUARTO PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 11 BIS.- A más tardar el 15 de julio del ejercicio fiscal correspondiente, las autoridades catastrales presentarán al Ayuntamiento los planos y tablas generales de valores unitarios de suelo y construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos del primer párrafo del artículo anterior. A su vez, el Ayuntamiento, a más tardar el 30 de agosto, resolverá sobre la propuesta de planos y tablas de valores que presentará al Congreso del Estado para su aprobación antes del 20 de septiembre, las cuales regirán en el ejercicio fiscal siguiente al en que se aprueben.
+
+El Congreso del Estado deberá aprobar los planos y tablas a que se refiere el párrafo anterior, a más tardar el día 10 de octubre del año anterior al en que estarán vigentes, pudiendo asesorarse del Instituto para el estudio y análisis de los mismos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 12.
 
 En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevos planos y tablas de valores, continuarán vigentes los anteriores y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor, del mes de noviembre del año inmediato anterior a aquél por el que se efectúe el cálculo entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 12 BIS.- Una vez aprobados los planos y tablas de valores unitarios de suelo y construcción por el Congreso del Estado, los mandará publicar, sin costo para los ayuntamientos, en el Boletín Oficial del Gobierno del Estado, a efecto de que entren en vigor para el ejercicio fiscal siguiente al en que fueron aprobados.
+
+Los planos y tablas de valores aprobados por el Congreso del Estado, publicados en el Boletín Oficial del Gobierno del Estado, serán de observancia obligatoria en el ejercicio fiscal para el que se formularon.
+
+Los ayuntamientos procederán a realizar el avalúo de los predios y a cuantificar el cobro de las contribuciones sobre la propiedad inmobiliaria a cargo de los propietarios o poseedores de inmuebles en sus respectivos municipios, con base en los planos y tablas de valores unitarios aprobados por el Congreso y las tarifas establecidas en sus respectivas leyes de ingresos.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -319,9 +343,17 @@ II.- Inexacta aplicación de las tablas de valores; y
 
 III.- Asignación de una extensión mayor o clase y tipo diverso de las que efectivamente tenga el predio.
 
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 El recurso de reconsideración, se interpondrá por escrito, ante la autoridad catastral correspondiente. El término para su interposición, será de diez días hábiles contados a partir del día siguiente de la fecha de notificación de la resolución recurrida.
 
-La autoridad deberá emitir su resolución dentro del plazo de 30 días hábiles contados a partir de la fecha de presentación del recurso.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+La autoridad deberá emitir su resolución fundada y motivada dentro del plazo de 30 días naturales contados a partir de la fecha de presentación del recurso.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+La resolución que recaiga al recurso de reconsideración previsto en este artículo, podrá impugnarse mediante el recurso previsto por la Ley de Gobierno y Administración Municipal en el Capítulo Quinto del Título Décimo Cuarto.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -509,7 +541,9 @@ El Consejo Técnico Catastral tendrá las siguientes atribuciones:
 
 I.- Estudiar, analizar y formular propuestas en relación con la normatividad administrativa en materia catastral;
 
-II.- Opinar, cuando así lo soliciten los Ayuntamientos, en relación con la propuesta de planos y valores unitarios por zona, región o subregión catastral de terrenos, y tablas de construcción en zonas urbanas y por hectáreas en zonas rurales, que éstos formulen para su aprobación por el Congreso del Estado;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+II.- Opinar, cuando así lo soliciten los Ayuntamientos, en relación con la propuesta de planos y valores unitarios por zonas homogéneas y bandas de valor de terrenos, y tablas de construcción en zonas urbanas y por hectáreas en zonas rurales, que éstos formulen para su aprobación por el Congreso del Estado;
 
 III.- Proponer adecuaciones a los montos de los derechos o de cualesquiera otros ingresos que deba percibir el propio Instituto por las demás actividades que realice y, asimismo, a los mecanismos o procedimientos necesarios para su cobro y percepción;
 
@@ -1292,3 +1326,13 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a los (sic) dis
 TERCERO.- Los convenios celebrados en materia catastral entre el Estado y los Municipios con anterioridad al presente Decreto, se ajustarán a los (sic) establecido en la presente Ley.
 
 CUARTO.- El Ejecutivo del Estado, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, deberá proveer las adecuaciones correspondientes al Reglamento de la Ley Catastral y Registral para el Estado de Sonora.
+
+B.O. 19 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El segundo párrafo del artículo 59 de la Ley de Hacienda Municipal contenido en el presente Decreto, entrará en vigor a partir del día primero de enero de 2004, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El resto de las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
