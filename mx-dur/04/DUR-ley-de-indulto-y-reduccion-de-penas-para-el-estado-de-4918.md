@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "2000-10-29"
+last_updated: "2003-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -63,9 +63,9 @@ II.- Que el delito por el que haya sido condenado no se encuentre exceptuado en 
 
 III.- Haber sido consignadas al Juez de la causa las diligencias de averiguación previa correspondiente al delito que se le imputa en una fecha posterior al día veinte de octubre de mil novecientos noventa y cuatro;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2003)</small>
 
-IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2003. y
+IV.- Haber sido condenado por ese mismo delito por una sentencia irrevocable, dictada antes del día 14 de septiembre del 2004, y
 
 V.- No encontrarse substraído a la acción de la justicia.
 
@@ -93,7 +93,7 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>N. DE E. CONFORME A LO DISPUESTO POR ARTICULO SEGUNDO DEL DECRETO NO. 307, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2000, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO, EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS CONDENADOS POR DICHO DELITO CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2003, SIEMPRE Y CUANDO SE ENCUENTREN COMPURGANDO LA SANCION CORRESPONDIENTE.</small>
+> <small>N. DE E. CONFORME A LO DISPUESTO POR ARTICULO SEGUNDO DEL DECRETO NO. 275, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2003, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO, EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS QUE HAYAN SIDO SENTENCIADOS CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2004.</small>
 
 ###### ARTICULO CUARTO.
 
@@ -193,6 +193,22 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 29 DE OCTUBRE DE 2000.
 
-DECRETO No. 307.
+DECRETO NO. 307.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2003.
+
+DECRETO NO. 274.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2003.
+
+DECRETO NO. 275.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja en suspenso la vigencia del Artículo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, contenida en el Decreto No. 307 de fecha 25 de octubre de 2000, publicado en el periódico Oficial del Estado correspondiente al número 35 de fecha 29 de octubre de 2000, única y exclusivamente en lo que respecta al delito de robo calificado, a favor de internos que hayan sido condenados con fecha anterior al día 14 de septiembre del 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
