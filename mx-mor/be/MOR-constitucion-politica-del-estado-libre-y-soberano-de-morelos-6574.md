@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1933-11-12"
+last_updated: "1936-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1936.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -96,13 +96,11 @@ DE LOS MORELENSES.
 
 Los morelenses se clasifican en: morelenses por nacimiento y morelenses por residencia.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1936)</small>
+
 ###### Artículo 10.
 
-Son morelenses por nacimiento:
-
-I.- Los nacidos dentro o fuera del territorio del Estado, de padres morelenses.
-
-II.- Los nacidos en el territorio del Estado, de padres mexicanos que aunque no sean morelenses, tengan más de dos años de vecindad en el mismo.
+Son morelenses por nacimiento, los nacidos dentro del territorio del Estado.
 
 ###### Artículo 11.
 
@@ -176,7 +174,7 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
 
-VI.- Es que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 ###### Artículo 18.
 
@@ -548,7 +546,7 @@ E.- Cuando lo pida el Ejecutivo del Estado.
 
 F.- Para conocer la legalidad de elecciones en todos los casos.
 
-VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic) por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
+VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
@@ -914,7 +912,9 @@ XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y 
 
 XIII.- Suspender hasta por tres meses a los Jueces de Primera Instancia y a los de inferior categoría, por causas graves justificadas a juicio del Tribunal y que no constituyan motivo de responsabilidad penal.
 
-XIV.- Nombrar a los Jueces Menores a propuesta en terna de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1936)</small>
+
+XIV.- Nombrar a los Jueces Menores y de Paz, a propuesta de terna de los Ayuntamientos.
 
 XV.- Ejercer las demás atribuciones que les señalen las Leyes.
 
@@ -1287,5 +1287,9 @@ P.O. 16 DE OCTUBRE DE 1932.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 12 DE NOVIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 13 DE DICIEMBRE DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
