@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1990-12-27"
+last_updated: "1992-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -173,7 +173,9 @@ Son campechanos por nacimiento:
 
 I.- Los que nazcan en el territorio del Estado sea cual fuere la nacionalidad de sus padres, siempre y cuando con ello adquieran la calidad de mexicanos;
 
-II.- Los hijos de padres campechanos nacidos fuera del territorio del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+II.- Los hijos de padre campechano o madre campechana nacidos fuera del territorio del Estado;
 
 III.- Los que nazcan en el extranjero, de padre campechano y madre extranjera o de madre campechana y padre desconocido.
 
@@ -239,7 +241,11 @@ V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano
 
 VI.- Hacer que sus hijos o pupilos menores de 15 años concurran a las escuelas públicas o privadas, para obtener la instrucción primaria elemental durante el tiempo que marquen las leyes relativas;
 
-VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes.
+VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes;
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+VIII.- Asistir a los lugares, días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de sus derechos y en el cumplimiento de sus obligaciones de ciudadano, diestros en el manejo de las armas, conocedores de la disciplina militar y de la solidaridad social. Las Autoridades Municipales tomarán la participación que señalen las Leyes del Estado en esta función educativa y organizarán la que corresponda impartir, o recibir a los residentes del Municipio.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -385,19 +391,25 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 31.
 
-El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y por hasta siete diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes, sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
+El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y por hasta nueve diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes, sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
 La asignación de los diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
-a). Para obtener el registro de sus listas de candidatos a diputados, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en todos los distritos uninominales del Estado;
+a) Para obtener el registro de sus listas de candidatos a diputados, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en todos los distritos uninominales del Estado.
 
-b). Todo partido político que alcance el 3 % del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sea atribuido un diputado según el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+b) Todo partido político que alcance el 1.5 por ciento del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sea atribuido un diputado, según el principio de representación proporcional, hasta el límite que se fije en la ley electoral.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -405,7 +417,9 @@ b). Todo partido político que alcance el 3 % del total de la votación emitida 
 
 Los diputados no podrán ser reelectos para el período inmediato.
 
-Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, pero siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+Esta prohibición comprende a los diputados suplentes y a los que aparezcan en la lista de representación proporcional, siempre que hubiesen ejercido el cargo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
@@ -421,21 +435,21 @@ I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derec
 
 II.- Tener 21 años cumplidos, el día de la elección;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-III.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
+III.- Además de los requisitos anteriores, según el caso se necesitarán los siguientes:
 
-a).- Ser originario del distrito en que se haga la elección, con residencia en él de seis meses inmediatamente anteriores a la fecha en que aquélla se verifique;
+a).- Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquella se verifique;
 
-b).- Ser nativo del Estado, con residencia de un año en el distrito respectivo, inmediatamente anterior a la fecha de la elección;
+b).- Ser nativo del Estado, con residencia de un año en el municipio en donde esté ubicado el distrito respectivo, inmediatamente anterior a la fecha de la elección;
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco años en el de Campeche y de un año en el municipio en donde esté ubicado el distrito electoral de que se trate.
 
-c) Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de seis meses en el distrito electoral de que se trate.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 34.
 
@@ -451,7 +465,7 @@ II.- Los Diputados y Senadores al Congreso de la Unión, que estén en ejercicio
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
-III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio;
+III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -491,35 +505,39 @@ Las resoluciones del Colegio Electoral serán definitivas e inatacables.
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y no podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 38.
 
 El desempeño del cargo de diputado es incompatible con cualquier otro cargo o empleo público, ya sea federal, estatal o municipal, en que se disfrute de sueldo, exceptuados los de instrucción pública, beneficencia y salubridad.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
-
 Los diputados sólo podrán desempeñar estos empleos o cargos con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure su nuevo cargo, empleo o comisión.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+Cada diputado será gestor de las demandas sociales de los habitantes que representan en el Congreso del Estado, tienen el deber de promover las soluciones de los problemas que afecten a los habitantes de sus distritos o a sus representaciones proporcionales minoritarias. Los diputados de mayoría relativa tienen además la obligación de visitar sus respectivos distritos durante los períodos de receso del Congreso. Se exceptúan de esta obligación los diputados que integran la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 39.
 
-El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de diputados que deban integrarlo; pero los que se reúnan el día señalado por la Ley, deberán compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hiciesen se entenderá, por ese sólo hecho, que no aceptan su cargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
+El Congreso no puede abrir sus sesiones ni ejercer su cargo sin la concurrencia de más de la mitad del número total de diputados que deban integrarlo; pero los que se reúnan el día señalado por la ley, deberán compeler a los ausentes a que concurran dentro de los tres días siguientes con la advertencia de que si no lo hiciesen se entenderá por ese solo hecho, que no aceptan su cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
+Tratándose de los diputados de asignación proporcional serán llamados los que les sigan en el orden de la lista respectiva y si ninguno de ellos acude, el partido que los postuló perderá su derecho a tener representación en el seno de la Legislatura.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los tres días de que antes se habla.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 40.
 
-Se entiende también que los diputados que falten 10 días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
+El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 41.
 
-El Congreso tendrá un período de sesiones ordinarias que comenzará el 7 de agosto y terminará el 31 de diciembre, y otro que comenzará el 1o. de marzo y terminará el día 31 de mayo. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
+El Congreso tendrá dos períodos ordinarios de sesiones; el primero comenzará el día 2 de Octubre y concluirá el día 31 de Diciembre; el segundo se iniciará el día 1o. de abril y concluirá el día 30 de junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -527,33 +545,33 @@ El Congreso tendrá un período de sesiones ordinarias que comenzará el 7 de ag
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 43.
 
-A la apertura de sesiones ordinarias del Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador, si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado, dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
+A la apertura de sesiones ordinarias al Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado en la sesión extraordinaria que fije el Congreso previa convocatoria al efecto de la Diputación Permanente, o dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 44.
 
-Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes y Decretos se comunicarán al Ejecutivo, firmados por el Presidente y los Secretarios.
+Las resoluciones del Congreso tendrán carácter de ley, decreto, iniciativa, ante el Congreso de la Unión o acuerdo. Para su sanción, promulgación y publicación, las leyes y decretos se enviarán al Gobernador del Estado, firmados por el Presidente y los dos Secretarios de la Directiva del Congreso. Los acuerdos requerirán sólo de la firma de los dos Secretarios y no ameritarán sanción ni promulgación del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 45.
 
-Las sesiones del Congreso tendrán el carácter de públicas o secretas, en los casos que determinará el reglamento respectivo.
+Las sesiones del Congreso tendrán el carácter de públicas o reservadas, en los casos que determine la Ley Orgánica respectiva.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 46.
 
-El derecho de iniciar Leyes o Decretos compete:
+El derecho de iniciar leyes o decretos compete:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -571,11 +589,11 @@ III.- A los Ayuntamientos en asuntos del Ramo Municipal.
 
 IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 47.
 
-Las iniciativas presentadas por el Gobernador del Estado, o firmadas por tres o más diputados, pasarán desde luego a la comisión del ramo. Las presentadas en cualquiera otra forma, se sujetarán a los trámites establecidos en el Reglamento Interior del Congreso.
+Las iniciativas presentadas por el Gobernador del Estado, o firmadas por tres o más diputados, pasarán desde luego a la Comisión del Ramo. Las presentadas en cualquiera otra forma, se sujetarán a los trámites establecidos en la Ley Orgánica y el Reglamento Interior del Congreso.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -625,7 +643,9 @@ Son facultades del Congreso:
 
 I.- Crear nuevos Municipios libres, dentro de los límites de los existentes, siendo necesario al efecto:
 
-a).- Que la fracción o fracciones que pidan erigirse en Municipios libres, cuenten con una población de más de 6,000 habitantes;
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+
+a).- Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de más de veinticinco mil habitantes;
 
 b).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
 
@@ -639,7 +659,7 @@ II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fu
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquel y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
+III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquél y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -651,13 +671,17 @@ V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos 
 
 VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuír sus emolumentos;
 
-VII.- Nombrar y remover a los empleados de su dependencia, concederles licencia en los términos de Ley y aceptarles sus renuncias;
+> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+
+VII.- Nombrar, remover, conceder licencia y aceptar la renuncia de los integrantes del personal al servicio del Poder Legislativo del Estado. Esta facultad la ejercerá en los casos que estime conveniente a través de la Gran Comisión, salvo cuando se trate del Oficial Mayor y del Contador Mayor de Hacienda, cuyos nombramientos, remoción, licencia o aceptación de renuncia serán resueltos por el Congreso directamente;
 
 > <small>(REFORMADA, P.O., 5 DE ENERO DE 1974)</small>
 
 VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado;
 
-IX.- Expedir su reglamento interior;
+> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+
+IX.- Expedir la Ley Orgánica y el Reglamento Interior que regulen su estructura y funcionamiento internos, los que no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
 
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
@@ -673,7 +697,9 @@ XIII.- Declarar justificadas o nó, por mayoría absoluta de votos, las solicitu
 
 XIV.- Otorgar licencia al Gobernador del Estado, a los Magistrados y a los Diputados, para separarse de sus funciones hasta por seis meses;
 
-XV.- Llamar a los diputados suplentes en los casos de renuncia, muerte, inhabilidad previamente calificada, y licencia a los propietarios, cuando ésta exceda de un mes;
+> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+
+XV.- Llamar a quienes deban sustituir a los diputados en ejercicio en los casos de renuncia, muerte, inhabilidad previamente calificada, y licencia. El llamamiento sólo tendrá lugar cuando la falta ponga en peligro la existencia de quórum;
 
 XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
@@ -681,7 +707,9 @@ XVII.- Erigirse en Colegio Electoral para calificar la elección de Gobernador;
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
-XIX.- Revisar los expedientes relativos a las elecciones de funcionarios municipales y hacer la declaratoria de los ciudadanos que resulten electos;
+> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
+
+XIX.- Constituirse en Colegio Electoral para calificar las elecciones de Presidente, Regidores y Síndicos de Ayuntamientos y Juntas Municipales.
 
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
@@ -691,9 +719,9 @@ XXI.- Aprobar las cuentas de la recaudación e inversión de las rentas pública
 
 XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio, que anualmente le serán remitidas por conducto del Ejecutivo del Estado, ya glosadas;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
-XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados y a los Secretarios de los diversos Ramos de la Administración Pública Estatal, y como Jurado de Declaraciones y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
+XXIII.- Conocer de los procedimientos en materia de juicio político;
 
 XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
 
@@ -703,17 +731,17 @@ XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su sen
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-XXVIII.- Autorizar al Ejecutivo para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado y aprobar en su caso tales contratos o convenios;
+XXVIII.- Autorizar al Ejecutivo para enajenar o gravar los bienes del Estado, o para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado, y aprobar en su caso tales contratos o convenios;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya violación alguna a la soberanía del Estado o a la Constitución General de la República;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-XXX.- Citar al Secretario del Ramo que corresponda para que informe cuando se discuta una ley o se estudie un negocio relativo a su Secretaría;
+XXX.- Citar a los titulares de las dependencias y entidades de la Administración Pública Estatal centralizada y descentralizada, para que informen cuando se estudie y discuta una Ley o asunto relativo a su dependencia, entidad o cargo;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -739,17 +767,15 @@ XXXV.- Las demás que le asignen esta Constitución y la General de la Repúblic
 
 ### CAPITULO XIV. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 55.
 
-Durante los recesos del Congreso, funcionará una Diputación Permanente compuesta de tres diputados.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+Durante los períodos de receso del Congreso, su Gran Comisión funcionará como Diputación Permanente.
 
 ###### ARTICULO 56.
 
-La Diputación Permanente será nombrada por el Congreso por mayoría de votos de los diputados presentes, la víspera de la clausura de cada uno de los períodos de sus sesiones ordinarias, y se instalará el siguiente día.
+(DEROGADO, P.O. 1 DE ABRIL DE 1992)
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -775,9 +801,13 @@ V.- Otorgar al gobernador el permiso que necesite para separarse de sus funcione
 
 VI.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia cuando excedan de 30 días;
 
-VII.- Conceder en su caso, a los diputados propietarios o suplentes en ejercicio, licencia para separarse de sus funciones;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-VIII.- Conceder en su caso, a los diputados propietarios o suplentes en ejercicio, el permiso respectivo para aceptar algún empleo o comisión;
+VII.- Conceder en su caso, a los Diputados en ejercicio, licencia para separarse de sus funciones;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+VIII.- Conceder en su caso, a los Diputados en ejercicio, la licencia prevista en el artículo 38;
 
 IX.- Nombrar con carácter provisional a los empleados de las dependencias del Congreso y conceder licencias a los mismos;
 
@@ -813,7 +843,9 @@ I.- Ser ciudadano campechano en pleno goce de sus derechos;
 
 II.- Haber nacido en el territorio del Estado, con residencia en él, de todo el año anterior a su elección;
 
-III.- Si se es oriundo de otra Entidad, tener residencia cuando menos de veinticinco años en Campeche; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+III.- Si se es oriundo de otra entidad, pero campechano por nacimiento en términos de la fracción II, del artículo 15 de esta Constitución, tener residencia efectiva cuando menos de cinco años en Campeche; y
 
 IV.- Tener 35 años cumplidos el día de la elección.
 
@@ -829,11 +861,11 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 63.
 
-El Gobernador del Estado entrará a ejercer su cargo el 16 de septiembre del año de la elección y durará en él seis años.
+El Gobernador del Estado entrará a ejercer su cargo el 16 de octubre y durará en él seis años.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -853,11 +885,11 @@ Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde lu
 
 Cuando la falta de gobernador ocurriese después de los dos primeros años del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá al gobernador substituto que deberá concluír el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de un gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que calificando la renuncia, proceda en la forma ya señalada.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 66.
 
-Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviese hecha y declarada el 16 de septiembre, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el ciudadano que designe el Congreso del Estado o, en su caso, con el carácter de provisional, el que designe la Diputación Permanente, de acuerdo con lo dispuesto en los artículos 64 y 65 de esta Constitución.
+Si al comenzar un período Constitucional no se presentase el Gobernador electo, o la elección no estuviese hecha y declarada el 16 de octubre, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso del Estado o, en su caso, con el carácter de provisional, el que designe la Diputación Permanente, de acuerdo con lo dispuesto en los artículos 64 y 65 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -963,7 +995,9 @@ XVI.- Enajenar, con autorización del Congreso, los bienes que según las leyes 
 
 XVII.- Otorgar el Fíat para el ejercicio de la función Notarial;
 
-XVIII.- Promover y ejecutar las leyes y decretos que expida el Congreso del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+XVIII.- Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, con la única salvedad prevista en la fracción IX del artículo 54 de esta Constitución;
 
 XIX.- Dar órdenes y expedir reglamentos para el mejor cumplimiento de esta Constitución y de las leyes;
 
@@ -1019,11 +1053,11 @@ Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrá
 
 Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despachados por las diversas Secretarías del Poder Ejecutivo, irán firmados por el Titular de la Dependencia que los despache y por el Gobernador del Estado; sin este requisito no obligarán.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 74.
 
-Las faltas de los Secretarios de los diversos ramos de la Administración Pública, serán suplidas en la forma que determine la Ley Orgánica del Poder Ejecutivo del Estado.
+Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1085,7 +1119,9 @@ Los Magistrados durarán en sus cargos seis años, a cuyo término si fueren con
 
 Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano campechano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento.
 
@@ -1177,13 +1213,9 @@ El Presidente del Tribunal Superior rendirá anualmente al Pleno, en la sesión 
 
 Corresponde al Tribunal Pleno:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+I.- (DEROGADA, P.O. 1 DE ABRIL DE 1992)
 
-I.- Conocer como Jurado de Sentencia de los delitos oficiales que cometan el Gobernador del Estado, los Diputados al Congreso y los Secretarios de los diversos Ramos de la Administración Pública de la entidad.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
-
-II.- Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y concejales y a los jueces de primera instancia y menores;
+II.- (DEROGADA, P.O. 1 DE ABRIL DE 1992)
 
 III.- Dirimir las competencias que se susciten entre los Tribunales inferiores del Estado, así como todas aquellas controversias y asuntos que determinen las leyes;
 
@@ -1231,31 +1263,31 @@ Para los efectos de las responsabilidades a que alude este Capítulo, se reputar
 
 El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violaciones a la Constitución Federal y del Estado y a las leyes que de ambas emanen, ataque a la libertad electoral, delitos graves del orden común, y manejo indebido de fondos y recursos federales, o estatales.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 91.
 
-Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, interrumpiéndose el término prescriptorio; en el afirmativo, quedará el acusado, separado de su cargo y sujeto a la acción de los tribunales comunes.
+Si el delito fuere común, el Congreso erigido en Jurado de Procedencia declarará, por mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio; en caso afirmativo, quedará el acusado separado de su cargo y sujeto a la acción de los Tribunales comunes.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 92.
 
-De los delitos cometidos por los servidores públicos que transgredan esta Constitución y las leyes del Estado conocerá el Congreso como Jurado de Declaración y el Tribunal en Pleno como Jurado de Sentencia; pero si el acusado fuese Magistrado o el Procurador General de Justicia, conocerá el Congreso como Jurado de Sentencia.
+Conocerá el Congreso como Jurado de procedencia de los delitos cometidos por los servidores públicos que transgredan esta Constitución y las leyes del Estado.
 
-Si la falta contraviniere la Constitución o Leyes Federales, o concurrieren uno o varios actos violatorios de ambos fueros, se aplicará en primer lugar lo dispuesto en las disposiciones federales y a continuación lo previsto por el fuero estatal.
+Si la falta contraviniere la Constitución o las leyes federales, o concurrieren uno o varios actos violatorios de ambos fueros, se aplicará en primer lugar lo previsto en las disposiciones federales y a continuación lo establecido por el fuero estatal.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 93.
 
-El primer Jurado declarará, a mayoría absoluta de votos, si el acusado es o no culpable. Si la declaración fuese absolutoria, el funcionario continuará en el ejercicio de su encargo, y si es condenatoria, quedará inmediatamente separado de él y puesto a disposición del Tribunal Pleno o del Congreso en su caso.
+Si la declaración fuese absolutoria, el servidor público continuará en el ejercicio de su encargo, y si es condenatoria quedará inmediatamente separado de él y puesto a disposición de los Tribunales comunes.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 94.
 
-El Congreso o el Tribunal en Pleno, constituídos del modo prevenido en el Artículo 92, se erigirá como Jurado de Sentencia y, con audiencia del reo, del Procurador General de Justicia, del defensor y del acusador si lo hubiere, procederá a aplicar, a mayoría absoluta de votos, la pena que la Ley designe.
+Las declaraciones y resoluciones que el Congreso emita como Jurado de Sentencia o Jurado de Procedencia, son inatacables.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1325,27 +1357,39 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-b) Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
+b) Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
 
-La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+La ley electoral determinará los procedimientos que se observarán en dicha designación.
+
+Los Comisarios Municipales durarán en sus cargos tres años y serán electos a través de los procedimientos de elección directa que prevenga la Ley Orgánica de los Municipios del Estado. Dichos procedimientos se aplicarán por los Ayuntamientos respectivos de los municipios de la Entidad dentro de los 30 treinta días siguientes a su instalación y toma de posesión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 103.
 
-Para ser electo componente de un ayuntamiento, junta o comisaría municipal, se requiere:
+Para ser electo componente de un Ayuntamiento o Junta Municipal, se requiere:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- No haber sido condenado por algún delito que merezca pena corporal;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 III.- Tener 25 años cumplidos, el día de la elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 IV.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
 
@@ -1353,25 +1397,35 @@ a).- Ser originario del Municipio en que se haga la elección, con residencia en
 
 b).- Ser nativo del Estado, con residencia de un año en el Municipio respectivo, inmediatamente anterior a la fecha de la elección;
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-c).- Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de un año en el municipio de que se trate.
+c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco años en el de Campeche y de un año en el municipio de que se trate.
 
-No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
+No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad del otro Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 104.
 
-No podrán ser componentes de ayuntamientos, juntas municipales o comisarías:
+No podrán ser componentes de Ayuntamientos o Juntas Municipales:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Los que sean o hayan sido ministros de algún culto;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- Los empleados de la Federación, del Estado o del municipio, si no se separan cuando menos cuarenta y cinco días antes del fijado para la elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Si el empleado del municipio fuese el Tesorero Municipal o administrador de fondos municipales, no podrá ser electo, aun separándose de su empleo en el término que fija la Ley, si no han sido aprobadas sus cuentas;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 IV.- Los que tuvieren mando de fuerza pública, si no dejaren el mando por lo menos cuarenta y cinco días antes de la elección, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 V.- El padre en concurrencia con el hijo, el hermano en concurrencia con el hermano, el socio con su consocio y el patrón con su dependiente.
 
@@ -1860,3 +1914,15 @@ P.O. 27 DE DICIEMBRE DE 1990.
 Primero.- El presente decreto entrará en vigor el día de su publicación en el periódico oficial del Estado.
 
 Segundo.- Se derogan el Artículo Segundo del decreto número 104 expedido por la LII Legislatura del Congreso del Estado el 28 de diciembre de 1987 y publicado el día 30 de ese mismo mes y año en el periódico oficial del Estado, y las demás disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE ABRIL DE 1992.
+
+Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- La disposición contenida en el artículo 41 de este Decreto de reformas entrará en vigor el día 1 de enero del año de 1993.
+
+Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del día 7 de agosto de 1992 al 30 de septiembre de 1994. La LV Legislatura ejercerá sus funciones del día 1 de octubre de 1994 al 30 de septiembre de 1997.
+
+Cuarto.- El Gobernador electo para fungir durante el sexenio 1991 - 1997, concluirá su encargo el día 15 de septiembre de 1997. Dentro de la primera semana de septiembre de 1997, el Congreso del Estado elegirá un Gobernador Interino que fungirá del 16 de septiembre al 15 de octubre de 1997.
+
+Quinto.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
