@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1988-08-07"
+last_updated: "1995-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1995.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -14525,9 +14525,9 @@ Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficac
 
 El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2793, se dé conocimiento al deudor y sea inscrita en el Registro.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1948)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE MAYO DE 1995)</small>
 
-Pero si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título, sin ningún otro requisito.
+Sólo entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
 
 ###### Artículo 2802.
 
@@ -15394,3 +15394,7 @@ UNICO.- Este Decreto entrará en vigor al tercer día de su publicación en el P
 P.O. 7 DE AGOSTO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
