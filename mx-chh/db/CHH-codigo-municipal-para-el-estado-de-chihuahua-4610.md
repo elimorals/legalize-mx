@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1999-06-05"
+last_updated: "1999-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1233,7 +1233,7 @@ VIII.- Las demás que le otorguen las leyes, reglamentos y manuales de organizac
 
 ###### ARTICULO 69.
 
-La Policia Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
+La Policía Municipal se instituye para proveer a la seguridad, tranquilidad, moralidad y orden públicos en la comunidad y a la preservación de los derechos del individuo y en consecuencia:
 
 I.- Estará organizada y funcionará conforme a su propia Ordenanza y Bando aprobados por el Ayuntamiento y tendrá como normas reguladoras de su actuación la disciplina interna y externa, la organización jerárquica, el espíritu de cuerpo y la vocación de servicio;
 
@@ -2193,7 +2193,9 @@ XII.- La permuta, en cuyo caso, se considerará que se efectúan dos adquisicion
 
 Será base gravable del impuesto, lo que resulte mayor de:
 
-I.- El valor de Avalúo bancario que se determine sobre el inmueble que se adquiere. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad mayor de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 1999)</small>
+
+I.- El valor del inmueble cuyo dominio se adquiera y se determine por medio del avalúo que practique la Tesorería Municipal o avalúo bancario en base al valor físico del inmueble. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
 
 II.- El valor catastral; y
 
@@ -2207,7 +2209,11 @@ Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regul
 
 En cuanto a operaciones que tengan como fin la regularización de la tenencia de la tierra, llevadas a cabo por la Comisión para la Regularización de la Tenencia de la Tierra, será optativo para el contribuyente acogerse al tratamiento anterior o al avalúo global practicado por la Comisión de Avalúos de Bienes Nacionales, e individualizado en su operación.
 
-En las adquisiciones que hubieran sido objeto de una operación anterior a la que se calcula el impuesto, pero sin que entre una y otra medien más de tres años, el valor gravable se determinará deduciendo el valor de la adquisición anterior.
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS PUBLICADO EN P.O. 9 DE JUNIO DE 1999, EL LEGISLADOR SEÑALA QUE SE REFORMA EL "PARRAFO SEGUNDO DE LA FRACCION TERCERA", SIN EMBARGO, DE SU LECTURA SE CONCLUYE QUE ES EL PRESENTE PARRAFO EL COINCIDENTE CON DICHA REFORMA.</small>
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1999)</small>
+
+En las adquisiciones que hubieran sido objeto de una operación anterior a la que se calcula el impuesto, pero sin que entre una y otra medien más de tres años, el valor gravable se determinará deduciendo del valor gravable en adquisición presente el valor gravado de la adquisición anterior.
 
 En los contratos de arrendamiento financiero, se pagará el impuesto cuando el arrendatario financiero ejerza la opción de compra en los términos del contrato celebrado.
 
@@ -2894,3 +2900,7 @@ P.O. 5 DE JUNIO DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 1999.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
