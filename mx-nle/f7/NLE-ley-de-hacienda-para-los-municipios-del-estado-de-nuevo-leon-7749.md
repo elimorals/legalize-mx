@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -63,11 +63,11 @@ Las normas de Derecho Tributario que establezcan cargas a los particulares y las
 
 La representación y defensa de los Derechos de la Hacienda Pública Municipal corresponderá al C. Tesorero o al representante o representantes que designe, con facultades para practicar las promociones conducentes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 6o.
 
-Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, sólo procede la interposición de los medios de defensa que establecen el Código Fiscal del Estado, el Código Procesal del Tribunal de lo Contencioso Administrativo del Estado y esta ley.
+Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, sólo procede la interposición de los medios de defensa que establecen el Código Fiscal del Estado, la Ley de Justicia Administrativa del Estado y esta Ley.
 
 ###### ARTICULO 7o.
 
@@ -161,19 +161,21 @@ TASA MENORES.- Los causantes menores pagarán impuestos, a cuota fija, de $75.00
 
 TASA MAYORES.- Los causantes mayores pagarán el impuesto, de acuerdo con la siguiente tarifa:
 
-INGRESOS TOTALES IMPUESTO FIJO MENSUAL
+INGRESOS IMPUESTO MENSUAL
 
-ANUALES: A PAGAR:
+TOTALES FIJO A PAGAR:
 
-1.- De $150,000.01 a $250,000.00 $330.00
+ANUALES:
 
-2.- " $250,000.01 " "390,000.00 $360.00
+1.- De$150,000.01 a $250,000.00 $330.00
 
-3.- " $390,000.01 " "420,000.00 $395.00
+2.-" $250,000.01 " "390,000.00 $360.00
 
-4.- " $420,000.01 " "520,000.00 $430.00
+3.-" $390,000.01 " "420,000.00 $395.00
 
-5.- " $520.000.01 " "630,000.00 $475.00
+4.-" $420,000.01 " "520,000.00 $430.00
+
+5.-" $520.000.01 " "630,000.00 $475.00
 
 6.- " $630.000.01 " "760,000.00 $520.00
 
@@ -181,59 +183,59 @@ ANUALES: A PAGAR:
 
 8.- " $930,000.01 " "1'100,000.00 $620.00
 
-9.- " $1'100,000.01 " "1'300,000.00 $660.00
+9.- " $1'100,000.0 " "1'300,000.00 $660.00
 
-10.- " $1'300,000.01 " "1'600,000.00 $690.00
+10.- " $1'300,000.0 " "1'600,000.00 $690.00
 
-11.- " $1'600,000.01 " "2'000,000.00 $745.00
+11.- " $1'600,000.0 " "2'000,000.00 $745.00
 
-12.- " $2'000,000.01 " "2'400,000.00 $800.00
+12.- " $2'000,000.0 " "2'400,000.00 $800.00
 
-13.- " $2'400,000.01 " "2'900,000.00 $870.00
+13.- " $2'400,000.0 " "2'900,000.00 $870.00
 
-14.- " $2'900,000.01 " "3'500,000.00 $935.00
+14.- " $2'900,000.0 " "3'500,000.00 $935.00
 
-15.- " $3'500,000.01 " "4'300,000.00 $1,005.00
+15.- " $3'500,000.0 " "4'300,000.00 $1,005.00
 
-16.- " $4'300,000.01 " "5'200,000.00 $1,080.00
+16.- " $4'300,000.0 " "5'200,000.00 $1,080.00
 
-17.- " $5'200,000.01 " "6'300,000.00 $1,170.00
+17.- " $5'200,000.01" "6'300,000.00 $1,170.00
 
-18.- " $6'300,000.01 " "7'500,000.00 $1,260.00
+18.- " $6'300,000.01" "7'500,000.00 $1,260.00
 
-19.- " $7'500,000.01 " "9'200,000.00 $1,375.00
+19.- " $7'500,000.01" "9'200,000.00 $1,375.00
 
-20.- " $9'200,000.01 " "11'000,000.00 $1,510.00
+20.- " $9'200,000.01" "11'000,000.00 $1,510.00
 
-21.- " $11'000,000.01 " "13'000,000.00 $1,650.00
+21.- " $11'000,000.01" "13'000,000.00 $1,650.00
 
-22.- " $13'000,000.01 " "16'000,000.00 $1,855.00
+22.- " $13'000,000.01" "16'000,000.00 $1,855.00
 
-23.- " $16'000,000.01 " "20'000,000.00 $2,060.00
+23.- " $16'000,000.01" "20'000,000.00 $2,060.00
 
-24.- " $20'000,000.01 " "24'000,000.00 $2,475.00
+24.- " $20'000,000.01" "24'000,000.00 $2,475.00
 
-25.- " $24'000,000.01 " "30'000,000.00 $2,925.00
+25.- " $24'000,000.01" "30'000,000.00 $2,925.00
 
-26.- " $30'000,000.01 " "38'000,000.00 $3,300.00
+26.- " $30'000,000.01" "38'000,000.00 $3,300.00
 
-27.- " $38'000,000.01 " "50'000,000.00 $3,900.00
+27.- " $38'000,000.01" "50'000,000.00 $3,900.00
 
-28.- " $50'000,000.01 " "60'000,000.00 $4,500.00
+28.- " $50'000,000.01" "60'000,000.00 $4,500.00
 
-29.- " $60'000,000.01 " "75'000,000.00 $5,100.00
+29.- " $60'000,000.01" "75'000,000.00 $5,100.00
 
-30.- " $75'000,000.01 " "100'000,000.00 $6,300.00
+30.- " $75'000,000.01" "100'000,000.00 $6,300.00
 
-31.- " $100'000,000.01 " "145'000,000.00 $8,700.00
+31.- " $100'000,000.01" "145'000,000.00 $8,700.00
 
-32.- " $145'000,000.01 " "195'000,000.00 $11,250.00
+32.- " $145'000,000.01" "195'000,000.00 $11,250.00
 
-33.- " $195'000,000.01 " "300'000,000.00 $17,250.00
+33.- " $195'000,000.01" "300'000,000.00 $17,250.00
 
-34.- " $300,000,000.01 " "450'000,000.00 $24,750.00
+34.- " $300,000,000.01" "450'000,000.00 $24,750.00
 
-35.- " $450,000,000.01 " "675'000,000.00 $30,750.00
+35.- " $450,000,000.01" "675'000,000.00 $30,750.00
 
 36.- " $675'000,000.01 o más $36,000.00
 
@@ -337,11 +339,13 @@ Es objeto de este impuesto:
 
 I.- La propiedad de los predios urbanos;
 
-II.- La propiedad de los predios sub-urbanos;
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 III.- La propiedad de predios rústicos;
 
-IV.- La posesión de predios urbanos, sub-urbanos o rústicos, en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IV.- La posesión de predios urbanos o rústicos, en los casos siguientes:
 
 a) Cuando no exista propietario.
 
@@ -475,21 +479,15 @@ Si una parte de la edificación tiene un uso habitacional, la tasa a que se refi
 
 El Impuesto Predial se pagará a una tarifa única especial de 2 cuotas anuales, cuando se trate de los siguientes casos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza obligatoria en los términos del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, incluyendo los planteles que impartan enseñanza universitaria, siempre que el inmueble sea propio.
+I.- Los Predios destinados a planteles escolares no oficiales donde se imparta enseñanza obligatoria en los términos del Artículo 3°. de la Constitución Política de los Estados Unidos Mexicanos, autorizada por el Gobierno Federal o Estatal y sometida a su vigilancia, incluyendo los planteles que impartan enseñanza universitaria, siempre que el inmueble sea propio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+Quedan comprendidos en este beneficio los predios en donde se desarrollen actividades complementarias, conexas o accesorias a la labor educativa, siempre y cuando no sean explotados o utilizados con fines de lucro.
 
-No quedan comprendidos dentro de este beneficio, los predios destinados a usos distintos de aulas, laboratorios o instalaciones similares de dichos planteles educativos.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Para efectos de esta fracción, se entiende por predios destinados a planteles escolares, los que cuenten con la construcción correspondiente y en los mismos se estén realizando las actividades de impartición de enseñanza educativa al momento de la solicitud de la tarifa especial.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
-
-II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como los predios propiedad de instituciones publicas que se destinen a planteles escolares.
+II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como los predios propiedad de instituciones públicas, excepto en aquellos en que se realicen actividades con fines de lucro. No se considerarán actividades con fines de lucro respectivamente las que tengan como objeto prestar servicios a maestros, estudiantes, universitarios y servidores de las instituciones públicas.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -549,7 +547,7 @@ Si el valor catastral del predio excede de 7,354 cuotas y no de 14,708 cuotas, s
 
 Para quedar dentro de los supuestos de esta fracción, las personas antes citadas deberán habitar el inmueble en cuestión y no poseer otro bien raíz en el Estado.
 
-X .- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2000)
+X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -739,9 +737,9 @@ En la adquisición de viviendas cuyo valor gravable no exceda de 25 cuotas eleva
 
 El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única especial por cada inmueble equivalente a 7 cuotas, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-I.- En las adquisiciones hechas por instituciones de beneficencia privada, respecto de bienes destinados exclusivamente a sus fines.
+I.- En las adquisiciones realizadas por instituciones de beneficencia privada, constituidas en términos legales, respecto de bienes destinados exclusivamente a sus fines.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -769,13 +767,11 @@ VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federa
 
 En estos casos cubrirán la tarifa referida, en las adquisiciones de terrenos cuyo valor base del Impuesto sea inferior a 7,500 cuotas y en casos de vivienda hasta de 15,000 cuotas, en caso contrario por el valor excedente será cubierto conforme a lo dispuesto por el artículo 28 BIS.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-VII.- En las adquisiciones hechas por entes u organismos públicos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas, siempre y cuando dichas personas no sean propietarias o poseedoras de otro bien raíz en el Estado y que lo destinen para su habitación.
+VII.- En las adquisiciones realizadas por entes u organismos públicos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, y en las adquisiciones realizadas por o con personas sin fines de lucro que lleven a cabo programas concretos, con finalidades y características iguales o similares, así como las personas que resulten directamente beneficiadas con dichos programas, siempre y cuando estas personas no sean propietarias o poseedoras de otro bien inmueble en el Estado y que lo destinen para su habitación.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-VIII.- En las adquisiciones realizadas por o con personas sin fines de lucro que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el Plan Tierra Propia y el fideicomiso Fomento Metropolitano de Monterrey.
+VIII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -887,19 +883,15 @@ En la determinación de este impuesto se deberán seguir las reglas siguientes:
 
 I.- Para efectos de este impuesto, se utilizará el salario mínimo general de la zona económica en donde se encuentre ubicado el inmueble, vigente al momento en que se pague el impuesto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
 El Valor Catastral que se utilice para la determinación del impuesto, será el vigente al momento en que se protocolice la escritura, y en los casos en que no se requiera o se cumpla esta formalidad, se aplicará el que esté vigente al momento en que se pague el impuesto. Cuando se trate de las operaciones a que se refieren las fracciones II, III y IV, del artículo 28 bis-2 se aplicará el factor de actualización a que se refiere el artículo 18 bis del Código Fiscal del Estado para referenciar el Valor Catastral a la fecha de firma del contrato, para tales efectos el Valor Catastral vigente se dividirá entre el factor de actualización mencionado y el resultado será el Valor Catastral vigente a la fecha de firma del contrato. Dicho valor referenciado servirá para determinar el valor gravable del inmueble, al cual se le aplicará la tasa vigente en aquella fecha, debiendo generarse los recargos y demás accesorios en los términos legales.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
 II.- Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-Cuando no se pacte precio, el impuesto se calculará con base en el valor catastral. En la constitución, adquisición o extinción de usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado sino el del valor a que se refiere este párrafo.
+Cuando no exista valor de operación, el impuesto se calculará con base en el valor catastral.
 
 Para los fines del Impuesto Sobre Adquisición de Inmuebles, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -933,9 +925,9 @@ El enajenante responde solidariamente del impuesto que deba pagar el adquirente,
 
 El plazo para computar la extinción de las facultades de las autoridades fiscales a que se refiere el artículo 67 del Código Fiscal del Estado se iniciará a partir de la fecha en que se presente la declaración del impuesto ante la Tesorería Municipal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-En caso de que no se realizaran estos trámites, las facultades de las autoridades fiscales mencionadas en el párrafo anterior, no se extinguirán.
+En caso de que no se presente la declaración del impuesto ante la Tesorería Municipal, las facultades de las autoridades fiscales mencionadas en el párrafo anterior, no se extinguirán.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1117,9 +1109,15 @@ I.- Los sujetos expedirán el boletaje correspondiente. Cada boleto deberá ser 
 
 En caso de que los contribuyentes no expidan el boletaje con anterioridad al evento y el organizador del evento utilice medios electrónicos de impresión y/o venta de boletos, se tomará como base para la determinación y liquidación del Impuesto el documento que contiene el reporte electrónico de la venta en las diferentes localidades, el costo de cada una de ellas y el acumulado correspondiente. Los emisores y vendedores de boletaje electrónico serán solidariamente responsables con los organizadores del evento ante el Municipio, de la presentación de toda la documentación necesaria para la determinación y liquidación del impuesto de espectáculos.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Cuando no se expida el boletaje del evento con anterioridad, y no se utilicen los medios electrónicos a que se refiere el párrafo anterior, el aforo o capacidad de ocupación del recinto en el que se celebre el espectáculo público y el precio de entrada al evento, será la base para determinar y liquidar el impuesto, salvo en los casos que los sujetos acrediten la entrada bruta por otros medios aceptados por la autoridad.
+
 II.- El impuesto se determinará, al terminar cada función, por los interventores que designe la Tesorería Municipal.
 
-III.- Los sujetos deberán garantizar, previamente, a la Autoridad Municipal, la recaudación y entrega puntual del rendimiento del impuesto a que se refiere este artículo.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+III.- La Tesorería Municipal podrá exigir que los sujetos garanticen, previamente, a la autoridad municipal, la recaudación y entrega puntual del rendimiento del impuesto a que se refiere este Artículo, mediante efectivo o cheque certificado a nombre de la Tesorería Municipal correspondiente, el cual se depositará una vez vencido el término del pago del impuesto, cuando éste no se haya realizado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -1505,11 +1503,11 @@ En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 1997)
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 41 Bis 25.
 
-Los Notarios Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectados a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
+Al expedirse el decreto legislativo que autoriza la aplicación del Impuesto Sobre Aumento de Valor y Mejoría Específica de la Propiedad para una obra pública, la Tesorería Municipal o la autoridad con facultades delegadas, notificará por oficio al Registro Público de la Propiedad y del Comercio para que realice las anotaciones marginales e inscripción del gravamen en relación con las propiedades afectas al citado impuesto. Los Notarios y Corredores Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectados a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1691,7 +1689,7 @@ III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 2 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1 .5 cuotas
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1.5 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2099,11 +2097,37 @@ En todo caso, la placa con el número oficial podrá adquirirse, a elección del
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-I.- Por expedición de certificados y constancias, 1 cuota por cada uno.
+I.- Por la expedición de copias, certificaciones, constancias y reproducciones diversas, que expidan las dependencias y entidades del gobierno municipal, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-> <small>(F. DE E., P.O. 18 DE ENERO DE 1999)</small>
+a) Copias simples por hoja 0.012 cuotas
+
+b) Copias a color por hoja 0.24 cuotas
+
+c) Copias certificadas por cada documento, sin perjuicio de lo
+
+dispuesto en las fracciones anteriores 1 cuota
+
+d) Copias simples de planos 0.43 cuotas
+
+e) Copias simples de planos a color 2 cuotas
+
+f) Copias certificadas de planos 3 cuotas
+
+g) Copias certificadas de planos a color 5 cuotas
+
+h) Diversas constancias y certificaciones 1 cuota
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+En todos los casos, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
+
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)(F. DE E., P.O. 18 DE ENERO DE 1999)
 
 Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
 
@@ -2823,9 +2847,9 @@ Se exceptúan de lo anterior, los lugares en donde se encuentren instalados parq
 
 Dicha tarifa deberá pagarse de manera proporcional conforme los meses completos del año que hayan transcurrido.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-IV.- Por estacionamientos de vehículos en la vía pública, en aquellos lugares donde existen instalados parquímetros, por cada hora o fracción, $2.50.
+IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares donde existan instalados parquímetros, por cada hora $ 2.50
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -2851,9 +2875,13 @@ CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SU
 
 Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos de los artículos 151, 156, 162, 163 y 165, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por el artículo 185 de la citada Ley.
 
-Las construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al Municipio, en los términos a que se refiere el artículo 149 de la misma Ley.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-Los fraccionamientos funerarios o cementerios cederán la superficie o pagarán al municipio en los términos a que se refiere el artículo 166 de la Ley de referencia.
+Las personas a quienes se les autoricen construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los términos a que se refiere el Artículo 149 de la misma Ley.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+A quien se le autorice realizar un fraccionamiento funerario o cementerio cederá la superficie o pagará al Municipio en los mismos términos a que se refiere el Artículo 149 de la misma Ley.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -2929,11 +2957,11 @@ Las participaciones a los Municipios en los impuestos y en las participaciones d
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 69.
 
-Es facultad de los Tesoreros Municipales, fijar las cuotas aplicables a los derechos y multas, de acuerdo con los márgenes establecidos por la propia Ley, tomando en consideración el capital invertido en los negocios, el sector en que están ubicados, el volumen de las operaciones, el monto de los ingresos, los gastos propios del giro y otros elementos que permitan graduar la cuantía del impuesto o derecho correspondiente, de acuerdo con los datos que proporcionen los contribuyentes, o los que en su caso se obtengan a través de las inspecciones que mande practicar la misma Tesorería en los términos de esta Ley.
+Es facultad de los tesoreros municipales, el determinar los impuestos, aplicar las cuotas de los derechos o establecer el monto de los productos e imponer las multas, de acuerdo con lo establecido por esta Ley o, en su caso, conforme al Código Fiscal del Estado; Cuando se trate de multas, se tomará en consideración el capital invertido en los negocios, el sector en que están ubicados, el volumen de las operaciones, el monto de los ingresos, los gastos propios del giro y otros elementos que permitan graduar la cuantía de la multa correspondiente, de acuerdo con los datos que proporcionen los contribuyentes, o los que en su caso obtenga la autoridad a través del ejercicio de las facultades legales que le correspondan.
 
 En ningún caso se calificará a los causantes con cuotas inferiores a las mínimas.
 
@@ -2971,17 +2999,15 @@ En los casos en que se requiera permiso previo para operar, deberá cumplirse es
 
 Para los efectos de esta Ley, se entiende como fecha de iniciación de operaciones de los contribuyentes, aquélla en que se efectúe la apertura del negocio o en la que se obtenga el primer ingreso o en la que se consigne en el registro de instancias hacendarias federales o estatales, cualquiera de los hechos anteriores que ocurra primero.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-No podrán iniciar operaciones sin autorización previa y por escrito de la Autoridad Municipal, los siguientes negocios: establecimientos donde se expenda o distribuya cualquier clase de carne; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías; salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; establecimientos donde se fabrique cualquier clase de tortillas y tostadas; cabarets; centros nocturnos; discotecas; rodeos; lugares públicos de reunión con variedad artística y similares; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; estadios de futbol; beisbol; arenas de box; lucha libre; plazas de toros y en general todo lugar donde se realicen actividades deportivas; futbolitos; billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; boliches; patinaderos; salones de baile; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
+No podrán iniciar operaciones sin autorización previa y por escrito de la autoridad municipal, los siguientes negocios: establecimientos donde se expenda o distribuya cualquier clase de carne; fábricas de hielo; estacionamientos con cobro de tarifa o pensión; peluquerías; salones de belleza; salones de masaje que no sean atendidos por quiroprácticos; baños públicos; molinos de nixtamal; establecimientos donde se fabrique cualquier clase de tortillas y tostadas; cabarets; centros nocturnos; discotecas; casas y establecimientos de apuestas; rodeos; lugares públicos de reunión con variedad artística y similares; hoteles de paso; cantinas; bares; cervecerías; restaurantes-bares; estadios de futbol; beisbol; arenas de box; lucha libre; plazas de toros y en general todo lugar donde se realicen actividades deportivas; futbolitos; billares; cualquier establecimiento que venda cerveza, vinos de mesa y bebidas alcohólicas; salas de cine; terrazas de cine; auto cinemas; boliches; patinaderos; salones de baile; salones de fiestas infantiles; centros o clubes; sociales o deportivos; juegos electrónicos; radiolas; sinfonolas y tocadiscos.
 
 Los negocios que requieran autorización, deberán solicitarla oportunamente por escrito dirigido al C. Presidente Municipal con las copias que se soliciten, pidiendo la autorización respectiva y una vez resuelta favorablemente su solicitud, se procederá a la inscripción del negocio, trámite que deberá realizar el interesado dentro del término de 30 días naturales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 76.
 
-La Tesorería Municipal expedirá dentro de los treinta días siguientes a la fecha de presentación de la solicitud de inscripción del contribuyente, las cédulas de empadronamiento respectivas. Para que estas últimas sean válidas, deberán estar firmadas por el funcionario competente autorizado por el Tesorero Municipal y el Jefe del Departamento correspondiente.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3053,11 +3079,11 @@ Queda prohibido la celebración de convenios sobre el pago de impuestos de cualq
 
 Los impuestos, derechos, productos y aprovechamientos deben ser recaudados por la Tesorería Municipal; las participaciones serán recaudadas de acuerdo con los preceptos de la Ley de Egresos del Estado y demás Leyes Especiales en vigor.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 89.
 
-Una vez iniciado el Procedimiento Administrativo de Ejecución, se cobrarán al contribuyente los gastos del mismo, lo (sic) cuales no podrán ser superiores al 10% del crédito fiscal omitido, ni inferiores a media cuota, vigente al momento en que se inicie el Procedimiento Administrativo de Ejecución.
+Una vez iniciado el procedimiento administrativo de ejecución, se cobrarán al contribuyente los gastos del mismo, cuyo importe se establecerá en los términos del Artículo 145 del Código Fiscal del Estado. Las cuotas que se tomen en cuenta para determinar los gastos de ejecución serán las que estén vigentes al momento en que se inicie el procedimiento administrativo de ejecución.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -3540,3 +3566,7 @@ P.O. 27 DE DICIEMBRE DE 2002.
 DECRETO NUMERO 314.
 
 Artículo Primero.- Este Decreto entrará en vigor a partir del 1° de Enero de 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
