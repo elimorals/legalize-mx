@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1987-04-23"
+last_updated: "1990-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -183,7 +183,9 @@ I.- Predio Rústico 6 al Millar
 
 II.- Predio Urbano 8 al Millar
 
-III.- Predios Baldíos 10 al Millar
+> <small>(REFORMADA, P.O. 04 DE ENERO DE 1990)</small>
+
+III.- Predios Baldíos 40 al Millar
 
 ###### ARTÍCULO 19.
 
@@ -484,3 +486,9 @@ P.O. 23 DE ABRIL DE 1987
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+P.O. 04 DE ENERO DE 1990
+
+ARTICULO PRIMERO La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga"
+
+ARTICULO SEGUNDO Se derogan todas las disposiciones que se opongan a la presente.
