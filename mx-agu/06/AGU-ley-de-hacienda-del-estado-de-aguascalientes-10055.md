@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2003-12-31"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -32,8 +32,6 @@ RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
 El H. Congreso del Estado en sesión ordinaria celebrada hoy, y en uso de la facultad que le concede la Fracción II del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente
-
-> <small>N. DE E. ES DE OBSERVARSE QUE LA LVIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES EXPIDIO EL DECRETO No. 124, QUE CONTIENE DIVERSAS REFORMAS Y ADICIONES A LA LEY DE HACIENDA DEL ESTADO QUE MODIFICAN EN SU TOTALIDAD DICHO ORDENAMIENTO, POR LO QUE PARA SU MEJOR COMPRENSION, SE PUBLICA EL TEXTO INTEGRO Y ACTUALIZADO DE LA MISMA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2003.</small>
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
@@ -63,11 +61,11 @@ Para cubrir el gasto público y las demás obligaciones a su cargo, el Estado pe
 
 Las personas físicas y morales están obligadas al pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos, conforme a las disposiciones de esta Ley y de la Ley de Ingresos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 4°.
 
-Las cantidades en moneda nacional correspondientes a cuotas y sanciones que se establezcan en las leyes fiscales, se actualizarán en los meses de enero y julio de cada año, con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización. Dicho factor será el que para tal efecto publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
+Las cantidades en moneda nacional correspondientes a cuotas, tarifas y sanciones que se establezcan en las leyes fiscales, se actualizarán en los meses de enero y julio de cada año, con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización. Dicho factor será el que para tal efecto publique la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación.
 
 Las cantidades actualizadas deberán publicarse semestralmente por la Secretaría de Finanzas y Administración en el Periódico Oficial del Gobierno del Estado.
 
@@ -191,7 +189,7 @@ Si la cuantía de la obligación es indeterminada pero se estipula la forma para
 
 II.- En los casos de novación, el importe del nuevo beneficio estipulado.
 
-III.- En los actos o contratos que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales ya sea que se celebren a precio alzado, precio unitario, por administración o adaptándose cualquiera otra modalidad, el valor mayor de entre el convenio o el que resulte del avalúo de la obra. Dicho avalúo será practicado por las autoridades fiscales al terminarse la construcción en caso de que el presupuesto de la obra no sea exhibido por los contratantes, o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción.
+III.- En los actos o contratos que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales ya sea que se celebren a precio alzado, precio unitario, por administración o adaptándose cualquiera otra modalidad. el valor mayor de entre el convenio o el que resulte del avalúo de la obra. Dicho avalúo será practicado por las autoridades fiscales al terminarse la construcción en caso de que el presupuesto de la obra no sea exhibido por los contratantes, o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción.
 
 IV.- En los demás contratos, actos e instrumentos notariales de índole contractual sin valor pecuniario, el número de hojas en que se extiendan.
 
@@ -199,15 +197,11 @@ IV.- En los demás contratos, actos e instrumentos notariales de índole contrac
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
-Este impuesto se causará y pagará aplicando a la base, la tasa de 3 por cada millar o fracción respecto de los actos o contratos que representen interés pecuniario.
-
-Tratándose de actos o contratos materia de protocolización que no representen interés pecuniario para los contratantes, se pagará la cuota de $50.00 por página.
-
-En los contratos de mutuo que se relacionen con la adquisición de bienes inmuebles a través de créditos de interés social se disminuirá la cuota en un 50%.
+Este impuesto se causará y pagará aplicando a la base, la tasa de 3 por cada millar o fracción respecto de los actos o contratos que representen interés pecuniario. Tratándose de actos o contratos materia de protocolización que no representen interés pecuniario para los contratantes, se pagará la cuota de $50.00 por cada hoja, entendiéndose como hoja, al contenido impreso o escrito de cualquiera de las caras del documento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -385,13 +379,25 @@ Para los efectos del párrafo anterior, los boletos de cortesía no podrán exce
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21.
 
-El Impuesto sobre Diversiones y Espectáculos Públicos se determinará aplicando a la base la siguiente:
+El impuesto por Diversiones y Espectáculos Públicos se determinará aplicando a la base la siguiente:
 
-(VEASE TABLA ANEXA)
+TARIFA:
+
+Límite Límite Tasa
+
+inferior superior aplicable
+
+$0.01 $500.00 5.01%
+
+500.01 1,000.00 5.5%
+
+1,000.00 En adelante 6.5%
+
+Los espectáculos públicos consistentes en obras de teatro y funciones de circo pagarán el impuesto a que se refiere el presente artículo, aplicando la tasa del 4% sobre la base, de conformidad a lo dispuesto en la fracción VI del artículo 41 de la Ley del Impuesto al Valor Agregado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -565,7 +571,7 @@ Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba 
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. Del Pago
+#### SECCION SEGUNDA. Del Objeto
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -587,7 +593,7 @@ e).- Tractores: vehículos fabricados para arrastrar remolques enganchados media
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEGUNDA. Del Objeto
+#### SECCION TERCERA. De la Base
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -595,7 +601,7 @@ e).- Tractores: vehículos fabricados para arrastrar remolques enganchados media
 
 El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna de 1, 2, 4, 6, 8 ó más cilindros.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA. De la Responsabilidad Solidaria
 
@@ -607,9 +613,9 @@ Este impuesto se causará y pagará de acuerdo a la siguiente:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. De la Base
+#### SECCION CUARTA. Del Pago
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -691,7 +697,7 @@ Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo au
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION QUINTA. Del Pago
 
@@ -741,9 +747,9 @@ Son responsables solidarios del pago del impuesto, los servidores públicos enca
 
 ###### ARTICULO 40.
 
-La base para este impuesto estará constituida por el ingreso neto de las contraprestaciones por los servicios de hospedaje recibidos por el prestador.
+La base para este impuesto estará constituida por el ingreso neto de las contraprestaciones por los servicios indicados en el artículo 37 de esta ley, recibidos por el prestador.
 
-En ningún caso se considerará que el monto del impuesto forma parte del ingreso neto por los servicios de hospedaje.
+En ningún caso se considerará que el monto del impuesto forma parte del ingreso neto por los servicios indicados en el artículo 37 de esta ley.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1334,3 +1340,7 @@ PRIMERO.- El Titular del Poder Ejecutivo del Estado, deberá emitir el Reglament
 Entre tanto se emite el Reglamento a que se refiere el párrafo anterior, se faculta a la Secretaría de Finanzas y Administración para llevar a cabo los trámites de inscripción, cambios, rectificaciones y bajas en el Padrón Vehicular conforme a las (sic) procedimientos que tiene establecidos.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigencia, el día siguiente de su publicación en el Periódico Oficial del Estado.
