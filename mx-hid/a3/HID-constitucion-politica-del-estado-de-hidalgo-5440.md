@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1944-05-08"
+last_updated: "1945-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 ABRIL DE 1945.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -40,6 +40,10 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 ## TITULO I
 
 ### CAPITULO I. DEL TERRITORIO DEL ESTADO Y DE SU DIVISION POLITICA
+
+###### Artículo 1o.
+
+Las reformas a los artículos 58 y 59 empezarán a surtir sus efectos a partir del día primero de abril de mil novecientos cuarenta y cinco.
 
 ###### Artículo 2º.
 
@@ -661,13 +665,17 @@ No podrán ser Secretario General del Gobierno, los Ministros de cualquier culto
 
 El Secretario General es el órgano de comunicación entre el Gobernador y las autoridades y empleados del Estado. Todas las leyes y decretos del Congreso, los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador del Estado, deberán ir firmados por el Secretario General. Sin este requisito no deberán ser obedecidos.
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
+
 ###### Artículo 58.
 
-Las faltas temporales del Secretario General, serán suplidas por un Subsecretario, para cuyo nombramiento son aplicables las disposiciones de los dos artículos 55 Y 56 anteriores.
+Además del Secretario General de Gobierno, habrá un Oficial Mayor para cuyo nombramiento son aplicables las disposiciones de los artículos 55 y 56 anteriores, excepto la consignada en la fracción IV del artículo 55. Las faltas temporales del Secretario General serán suplidas por el Oficial Mayor, quien ejercerá además, las funciones que determine la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
 
 ###### Artículo 59.
 
-El Secretario General así como el Subsecretario, no pueden desempeñar los oficios de abogado o apoderado en negocios ajenos ante las autoridades del Estado.
+El Secretario General así como el Oficial Mayor, no pueden desempeñar los oficios de abogado o apoderado en negocios ajenos ante las autoridades del Estado.
 
 ###### Artículo 60.
 
@@ -785,7 +793,7 @@ Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembr
 
 ###### Artículo 74.
 
-Las Asambleas Municipales se compondrán de Munícipes electos directa y popularmente, en la forma y términos que disponga la Ley Electoral, a razón de un Propietario y un Suplente por cada mil habitantes, pero ninguna Asamblea podrá tener menos de cinco ni más de nueve Munícipes. Para el efecto, cuando algún Municipio no tuviere cinco mil habitantes, se dividirá en cinco secciones para la elección de cinco Munícipes y, cuando pasare de nueve mil habitantes, se dividirá en nueve secciones, para el nombramiento de nueve Munícipes.
+Las Asambleas Municipales se compondrán de cinco Munícipes electos directa y popularmente en la forma y términos que disponga la Ley Electoral para cuyo efecto cada Municipio se dividirá en cinco secciones.
 
 > <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
 
@@ -947,7 +955,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
 
 ###### Artículo 93.
 
@@ -1021,6 +1029,10 @@ Las autoridades y funcionarios del Estado no tienen mas facultades que las que e
 
 El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
+###### Artículo 2o.
+
+La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
+
 ###### ARTICULO UNICO
 
 - Este Decreto comenzará a surtir sus efectos desde el primero de junio de este año.
@@ -1048,3 +1060,5 @@ P.O. 8 DE MAYO DE 1944.
 2º.- Por una sola vez la mitad de las Asambleas Municipales que deberán ser electas el primer domingo de diciembre próximo conforme al artículo 61 de la Ley Electoral vigente, durarán en su encargo solamente un año o sea a partir del primero de enero y hasta el 31 de diciembre de 1945, fecha en que deberán tomar posesión los próximos Presidentes Municipales y la totalidad de miembros de las Asambleas Municipales que conforme al cuerpo de este Decreto durarán en funciones tres años.
 
 El presente decreto deberá publicarse en el Periódico Oficial del estado y las reformas Constitucionales a que se refiere surtirán sus efectos a partir de la renovación de los próximos Poderes.
+
+P.O. 1 DE ABRIL DE 1945.
