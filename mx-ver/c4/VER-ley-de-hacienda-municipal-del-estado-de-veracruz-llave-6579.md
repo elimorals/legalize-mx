@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2001-10-12"
+last_updated: "2001-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -597,27 +597,21 @@ Las Tesorerías Municipales formularán liquidaciones por las diferencias del im
 
 En los casos de predios que no hayan tenido modificaciones físicas no procederá el cobro de diferencias de años anteriores, cuando éstas sean consecuencia de la actualización del Valor Catastral Provisional, resultante de la valuación en que se utilicen sistemas aerofogramétricos digitales para elaborar la cartografía. El nuevo valor surtirá efectos a partir del mes siguiente al que se produzca la actualización.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 38.
 
-El impuesto predial se determinará, liquidará y pagará de acuerdo con la siguiente
+El impuesto predial se determinará, liquidará y pagará conforme a las tasas que se establezcan en las respectivas Leyes de Ingresos de los Municipios.
 
 TARIFA TASA AL MILLAR ANUAL
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2001)
 
-I.-Predios urbanos construidos ……………………………………………………...2
-
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-II.-Predios rústicos con o sin edificaciones …………………………………………4.
+II.- (DEROGADA, G.O. 19 DE DICIEMBRE DE 2001)
 
 III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-IV.- Predios urbanos baldíos ………………………………………………………………...........7.5
+IV.- (DEROGADA, G.O. 19 DE DICIEMBRE DE 2001)
 
 > <small>(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -799,11 +793,11 @@ XI.- EI usufructuario, el cesionario de los derechos de usufructo o el adquirent
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 55.
+###### Artículo 55.
 
-La base de este impuesto será el valor del inmueble, Catastral o Catastral Provisional, actualizado con los últimos valores unitarios para terreno y construcción publicados o el de operación si éste es mayor. El impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base indicada en este artículo.
+La base de este impuesto será el valor catastral o catastral provisional del inmueble, actualizado con los últimos valores unitarios para terreno y construcción publicados, o el de operación, si éste es mayor. El impuesto se causará, liquidará y pagará conforme alas tasas que se establezcan en las respectivas Leyes de Ingresos de los municipios, sobre la base indicada en este artículo.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -3924,3 +3918,11 @@ Artículo Unico.- La presente ley entrará en vigor el día 1° de enero de 1999
 G.O. 12 DE OCTUBRE DE 2001.
 
 UNICO.-El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 19 DE DICIEMBRE DE 2001.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Los impuestos predial y de traslación de dominio de los bienes inmuebles, correspondientes al ejercicio fiscal de 2002, se determinarán, causarán y liquidarán conforme a las tasas que apruebe el Congreso, a partir de las propuestas que, en términos de lo dispuesto por el artículo segundo transitorio de la Ley número 28 que regula el procedimiento para fijar las cuotas, tarifas y tablas de valores unitarios de las contribuciones sobre propiedad inmobiliaria, de fecha 25 de septiembre de 2001, fueron presentadas por los Ayuntamientos.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
