@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1978-11-11"
+last_updated: "1983-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -117,29 +117,29 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 22.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de 7 Diputados electos según el principio de votación mayoritaria relativa y hasta por dos Diputados electos según el principio de representación proporcional. Al efecto el Estado se dividirá en 7 Distritos Electorales Uninominales y una Circunscripción Plurinominal.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de diez Diputados Electos según el principio de votación mayoritaria relativa y hasta por tres Diputados Electos según el principio de representación proporcional. Al efecto el Estado se dividirá en diez Distritos Electorales Uninominales y una circunscripción plurinominal.
 
-La demarcación electoral de los 7 Distritos Electorales Uninominales será la que señala el artículo 104 de esta Constitución.
+La demarcación Electoral de los diez Distritos Electorales Uninominales será la que señala el Artículo 104 de esta Constitución.
 
 La Circunscripción Electoral Plurinominal comprenderá la extensión territorial total del Estado.
 
-Por cada Diputado propietario se elegirá un suplente.
+Por cada Diputado propietario se eligirá (sic) un suplente.
 
 Para la elección por representación proporcional y lista regional, se deberá observar la Ley respectiva y las siguientes bases:
 
-I.- El Partido que solicite el registro de su lista regional deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres de los Distritos Uninominales.
+I.- El Partido que solicite el registro de su lista regional deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos cuatro de los Distritos Uninominales.
 
-II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de representación proporcional, todo aquel Partido que:
+II.- Tendrá derecho a que le sean atribuidos Diputados Electos según el principio de representación proporcional, todo aquel partido que:
 
-a).- No haya obtenido dos o más constancias de mayoría y,
+A).- No haya obtenido dos o más constancias de mayoría y,
 
-b).- Que alcance por lo menos el 5% del total de la votación emitida en la Circunscripción Plurinominal.
+B).- Que alcance por lo menos el 5% del total de la votación emitida en la circunscripción plurinominal.
 
-III.- Al Partido que reúna las condiciones señaladas en las fracciones que anteceden le será asignado un Diputado electo mediante el principio de representación proporcional en la Circunscripción electoral Plurinominal. En el caso de que dos o más Partidos con derecho a participar en la asignación de Diputados electos por el principio de representación proporcional obtengan, en su conjunto, dos o más constancias de mayoría, se le asignará una sola curul a aquél de entre ambos, que hubiere obtenido el mayor número de votos.
+III.- Al partido que reúna las condiciones señaladas en las Fracciones que anteceden, le será asignado un Diputado Electo mediante el principio de representación proporcional en la circunscripción electoral plurinominal. En el caso de que dos o más partidos con derecho a participar en la asignación de Diputados Electos por el principio de representación proporcional obtengan, en su conjunto, dos o más constancias de mayoría, se le asignará una sola curul a aquel de entre ambos, que hubiere obtenido el mayor número de votos.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -659,7 +659,7 @@ XXVIII.- Rendir ante el Congreso del Estado el informe a que se refiere el Artí
 
 XXIX.- Asistir a la apertura del Periodo de Sesiones Ordinarias del Congreso.
 
-XXX.- Suspender a los Ayuntamiento (sic), a las Juntas Municipales, o a los miembros de ambos y a los Comisarios, en el ejercicio de sus funciones, en los casos que determinen las leyes; dando inmediatamente parte justificada al Congreso y en sus recesos a la Diputación Permanente, para que se apruebe o no la suspensión.
+XXX.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 1983)
 
 XXXI.- (DEROGADA, P.O. 23 DE ENERO DE 1954)
 
@@ -921,23 +921,87 @@ La ley organizará el Ministerio Público y Defensorío (sic) de Oficio, fijará
 
 (DEROGADO, P.O. 21 DE JUNIO DE 1952)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 ## TITULO VI.
 
 ###### Artículo 87.
 
-La Administración Municipal se ejerce:
+El Estado de Colima adopta para su Régimen Interior la forma de Gobierno representativo o popular teniendo como base de su división territorial y de su organización política y administrativa al Municipio Libre, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1951)</small>
+I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años. Por cada Munícipe Propietario se elegirá un Suplente, no pudiendo ser nuevamente electos en ningún tiempo los ciudadanos que hayan desempeñado el cargo de Presidente Municipal por más de un año.
+Los Presidentes Municipales de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos en ningún tiempo; los Regidores y Síndicos no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato.
 
-En las Elecciones Municipales participarán las mujeres, en igualdad de condición que los varones, con derecho a votar y ser votadas.
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
-II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
+La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por las causas que determinen las leyes aplicables, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
+En caso de declarar desaparecido un Ayuntamiento por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura Estatal designará entre los vecinos al Consejo (sic) Municipal que concluirá el período respectivo.
 
-III.- Por los Comisarios Municipales que residirán en las Rancherías. Los Comisarios y demás empleados inferiores serán nombrados por los Ayuntamientos respectivos.
+Si alguno de los miembros dejare de desempeñar su cargo será sustituido por su suplente o se procederá según lo disponga la Ley Orgánica Municipal.
+
+II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
+
+Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado, los bandos de policía y buen Gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+III.- Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+A).- Agua Potable y Alcantarillado.
+
+B).- Alumbrado Público.
+
+C).- Limpia.
+
+D).- Mercados y Centrales de Abastos.
+
+E).- Panteones.
+
+F).- Rastro.
+
+G).- Calles, Parques y Jardinez (sic).
+
+H).- Seguridad Pública y Tránsito.
+
+I).- Los demás que la Legislatura Local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
+IV.- Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor y en todo caso:
+
+A).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tenga por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
+
+B)- Las participaciones Federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura del Estado.
+
+C).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las Leyes Federales no limitarán la facultad del Estado para establecer las contribuciones a que se refieren los incisos A) y C), ni concederá exenciones en relación con las mismas. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+La Legislatura del Estado aprobará las Leyes de ingresos de los Ayuntamientos y revisará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus Ingresos disponibles.
+
+V.- Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales: controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+VI.- Cuando dos o más centros urbanos situados en territorios de dos o más Municipios, tanto del Estado como de otra entidad Federativa, formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia.
+
+VII.- El Ejecutivo Federal y el o la Titular del Poder Ejecutivo Estatal tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
+
+VIII.- La Administración Municipal se ejerce:
+
+1.- Por los Ayuntamientos que residirán en las cabeceras de los Municipios y cuyos miembros serán electos popular y directamente cada tres años. Por cada Munícipe propietario se elegirá su suplente no pudiendo ser nuevamente electos en ningún tiempo los ciudadanos que hayan desempeñado el cargo de Presidente Municipal.
+
+En las Elecciones Municipales participarán las mujeres en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+
+2.- Por las Juntas Municipales que residirán en los pueblos y estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca al Artículo 89. Por cada miembro de la Junta Municipal se eligirá (sic) un suplente.
+
+3.- Por los Comisarios Municipales que residirán en las rancherías. Los Comisarios y demás empleados inferiores serán nombrados por los Ayuntamientos respectivos.
+
+IX.- Las relaciones de trabajo entre el Estado y sus trabajadores, se regirán por la ley que expida la Legislatura del Estado, con base en lo dispuesto en el Artículo 123, Apartado "B" de la Constitución Política de los Estados Unidos Mexicanos y sus Disposiciones Reglamentarias. Los Municipios observarán estas mismas reglas por lo que a sus trabajadores se refiere.
+
+X.- El Estado y la Federación en los términos de Ley podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el Desarrollo Económico y Social lo hagan necesario.
+
+El Estado estará facultado para celebrar esos convenios con sus municipios, a efectos (sic) de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
 (REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
 
@@ -955,33 +1019,35 @@ Para ser miembro de un Ayuntamiento se necesita ser Ciudadano Mexicano por nacim
 
 Las renuncias y licencias de los Munícipes se admitirán y concederán por los respectivos Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 91.
 
-La ley reglamentaria Municipal se sujetará a las bases siguientes:
+La Ley Orgánica Municipal se sujetará a las siguientes bases:
 
-I.- Los Municipios, administrarán libremente su hacienda que se formará de las Contribuciones que anualmente les señale la Legislatura.
+I.- La Ley que organice los Municipios, su número y condiciones para la creación de nuevos, cuidará de que queden constituidos por el número de habitantes suficientes y elementos necesarios, para que puedan substituir con sus propios recursos.
 
-II.- La ley que organice los Municipios, su número y condiciones para la creación de nuevos, cuidará de que queden constituidos por el número de habitantes suficientes, y elementos necesarios, para que puedan subsistir con sus propios recursos.
+II.- Los Ayuntamientos de la Entidad estarán integrados de la siguiente manera:
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+A).- El de la Capital del Estado por un Presidente Municipal, un Síndico y siete Regidores.
 
-III.- Los Ayuntamientos estarán integrados por cinco miembros excepto el de la Capital que constará de siete.
+B).- Los Ayuntamientos de Tecomán y Manzanillo por un Presidente Municipal, un Síndico y siete Regidores cada uno.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+C).- El resto de los Ayuntamientos, por un Presidente Municipal, un Síndico y cinco Regidores cada uno.
 
-En la Capital del Estado y también en los Municipios que cuenten con más de 150,000 habitantes habrá además Regidores Electos mediante el principio de representación proporcional en los términos que señale la Ley de la materia.
+Todos los anteriores serán electos según el principio de votación mayoritaria relativa.
 
-IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Egresos e Ingresos a la misma Legislatura.
+III.- En todos los Municipios del Estado habrá además, Regidores electos mediante el principio de representación proporcional en los términos que señale la Ley de la materia.
 
-V.- (DEROGADA, P.O. 22 DE AGOSTO DE 1964)
+IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del Estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Ingresos a la misma Legislatura.
 
 ###### Artículo 92.
 
-Son obligaciones de los ayuntamientos. Enjercer (sic) en materia de Instrucción Pública las facultades que le concede la ley relativa, cuidar del aseo, salubridad, ornato y comodidad de las poblaciones; las construcciones de puentes, calzadas, caminos, jardines, teatros, panteones, cárceles, mercados y abastos y en general toda mejora material y la conservación de las existentes; recoger y ministrar datos para la estadística; dotar al Municipio de policía urbana y ejercer las demás atribuciones y obligaciones que le confíen e impongan las leyes, administrando los arbitrios (sic) necesarios para cubrir los gastos que demanden unas y otras todo conforme lo disponga la ley orgánica para la Administración Municipal del Estado.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1983)
 
 ###### Artículo 93.
 
-Los Municipios tienen personalidad jurídica, para todos los efectos legales.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1983)
 
 ###### Artículo 94.
 
@@ -999,9 +1065,11 @@ Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las
 
 (REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1942) (REPUBLICADO, P.O. 4 DE SEPTIEMBRE DE 1954)
 
-## TITULO VII
+## TITULO VII.
 
-De la Administración Municipal.
+De la Administración del Gobierno Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 97.
 
@@ -1049,9 +1117,27 @@ De la Educación Pública.
 
 ###### Artículo 104.
 
-El Estado se dividirá para su Administración Política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Colima, Cuauhtémoc, Villa de Alvarez, Coquimatlán, Comala, Tecomán, Manzanillo, Ixtlahuacán, Minatitlán y Armería.
+El Estado se dividirá para su administración política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Colima, Cuauhtémoc, Villa de Alvarez, Coquimatlán, Comala, Tecomán, Manzanillo, Ixtlahuacán, Minatitlán y Armería.
 
-Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez, Minatitlán, formarán un solo Distrito Electoral, así como también los Municipios de Tecomán e ixtlahuacán.- A su vez, el Municipio de Cuauhtémoc y la Zona Rural del Municipio de Colima, integrarán un solo Distrito Electoral, comprendiendo el Primer Distrito Electoral, únicamente la ciudad de Colima.- Igualmente los Municipios de Manzanillo y Armería formarán un solo Distrito Electoral.
+Tratándose de elecciones para Diputados propietarios y suplentes al Congreso Local, el Estado de Colima se dividirá en diez Distritos Electorales, los que se formarán de la siguiente manera:
+
+I.- Los Distritos Electorales primero y segundo comprenderán la zona urbana de la Ciudad de Colima.
+
+II.- El tercer Distrito Electoral comprenderá al Municipio de Cuauhtémoc y parte de la Zona Foránea del Municipio de Colima.
+
+III.- El cuarto Distrito Electoral estará integrado por el Municipio de Villa de Alvarez.
+
+IV.- El Quinto Distrito Electoral se integrará por el Municipio de Coquimatlán y parte de la Zona Foránea del Municipio de Colima.
+
+V.- El sexto Distrito Electoral estará integrado por los Municipios de Comala y Minatitlán.
+
+VI.- Los Distritos Electorales Séptimo y Octavo, se integrarán por el Municipio de Manzanillo, conformándose cada uno de ellos con parte del área urbana de la Ciudad de Manzanillo y parte de la Zona Foránea del propio Municipio.
+
+VII.- El noveno Distrito Electoral quedará integrado con la zona urbana de la Ciudad de Tecomán y con parte de la Zona Foránea de este mismo Municipio y el Municipio de Ixtlahuacán.
+
+VIII.- El décimo Distrito Electoral quedará integrado con el Municipio de Armería y con parte del área foránea del Municipio de Tecomán.
+
+Los límites distritales deberán ser establecidos por la Ley Electoral del Estado de Colima.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
@@ -1071,7 +1157,7 @@ Las congregaciones que tengan menos de doscientos habitantes, se considerarán a
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1967)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 107.
 
@@ -1147,9 +1233,13 @@ La Contaduría General, expedirá en la forma que la Ley prevenga, el finiquito 
 
 El Tribunal Fiscal Unitario del Estado, es el Supremo Organo Administrativo Fiscal y conocerá, en la forma y términos que establezca el procedimiento contencioso del Título Segundo del Código Administrativo de esta misma Entidad, de las inconformidades de los causantes en contra de las resoluciones dictadas por las autoridades fiscales del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 119.
 
-Todo funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por delitos y faltas oficiales en que incurra en el ejercicio del mismo; el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución o de la General, ataques a la libertad electoral y delitos graves del orden común.
+Para los efectos de las responsabilidades en que puedan incurrir los servidores públicos, se reputarán como tales a los representantes de Elección Popular, a los miembros de los Poderes Ejecutivo y Judicial del Estado, a los funcionarios y empleados y en general a toda persona que desempeñe un empleo o comisión de cualquier naturaleza en la administración pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados del Supremo Tribunal de Justicia del Estado serán responsables por las violaciones a esta Constitución o a las Leyes Federales, así como por el manejo indebido de fondos y recursos Federales.
 
 ###### Artículo 120.
 
@@ -1201,7 +1291,9 @@ Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas o
 
 ## TITULO XI.
 
-De las responsabilidades de los Funcionarios y Empleados públicos.
+De las Responsabilidades de los Funcionarios, Empleados y Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 129.
 
@@ -1766,3 +1858,13 @@ P.O. 11 DE NOVIEMBRE DE 1978.
 ###### ARTICULO UNICO.
 
 Este Decreto empezará a surtir efectos a partir del día siguiente al de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 24 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+Los Diputados que se aumentan en la presente reforma Constitucional, empezarán a desempeñar sus funciones a partir del primero de octubre de 1985; y a partir del primero de enero de 1986 los Regidores Electos mediante el principio de votación mayoritaria relativa, así como los Electos según el principio de representación proporcional, pudiendo participar en las Elecciones previas que se celebren conforme a la Ley de la materia.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial El Estado de Colima.
