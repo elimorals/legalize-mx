@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1983-12-30"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1212,7 +1212,9 @@ El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la c
 
 Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión social de las empresas y se aplicarán en su totalidad a constituir depósitos en favor de los trabajadores que se sujetarán a las bases siguientes:
 
-I.- En caso de incapacidad total permanente, de jubilación o de muerte del trabajador, se entregará el total de los depósitos constituidos a él o a sus beneficiarios con una cantidad adicional igual a dichos depósitos, en los términos de la Ley a que se refiere el Artículo 139.
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1986)</small>
+
+I. En los casos de incapacidad total permanente, de incapacidad parcial permanente, cuando ésta sea del 50% o más; de invalidez definitiva, en los términos de la Ley del Seguro Social; de jubilación; o de muerte del trabajador, se entregará el total de los depósitos constituidos, a él o sus beneficiarios, con una cantidad adicional igual a dichos depósitos, en los términos de la Ley, a que se refiere el artículo 139;
 
 II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
@@ -1252,11 +1254,15 @@ g) Las cuotas al Instituto Mexicano del Seguro Social a cargo del trabajador que
 
 Se tendrá como salario máximo para el pago de las aportaciones el equivalente a diez veces el salario mínimo general en la zona de que se trate.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### Artículo 145.
 
-Los créditos que se otorguen por el organismo que administre el Fondo Nacional de la Vivienda estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones derivadas del crédito.
+Los créditos que se otorguen por el organismo que administre el Fondo Nacional de la Vivienda, estarán cubiertos por un seguro, para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones, gravámenes o limitaciones de dominio a favor del citado organismo, derivadas de esos créditos.
+
+Para tales efectos, se entenderá por incapacidad total permanente la pérdida de facultades o aptitudes de una persona, que la imposibiliten para desempeñar cualquier trabajo por el resto de su vida, cualquiera que sea la naturaleza del riesgo que la haya producido.
+
+Tratándose de los casos de incapacidad parcial permanente, cuando ésta sea del 50% o más, o invalidez definitiva, se liberará al trabajador acreditado del adeudo, los gravámenes o limitaciones de dominio a favor del Instituto, siempre y cuando no sea sujeto de una nueva relación de trabajo por un período mínimo de dos años, lapso durante el cual gozará de una prórroga sin causa de intereses, para el pago de su crédito. La existencia de cualquiera de estos supuestos deberá comprobarse ante el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dentro del mes siguiente a la fecha en que se determinen.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1286,7 +1292,7 @@ El Ejecutivo Federal podrá establecer modalidades para facilitar la aportación
 
 El organismo que se cree para administrar los recursos del Fondo Nacional de la Vivienda, determinará las sumas que se asignarán al financiamiento de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores y los que se aplicarán para la adquisición, construcción, reparación o mejoras de dichas casas, así como para el pago de pasivos adquiridos por estos conceptos.
 
-Al efectuar la aplicación de recursos, se distribuirán equitativamente entre las distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
+Al efectuar la aplicación de recursos, se distribuirán equitativamente entre la distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
 
 Para el otorgamiento individual de los créditos se procederá en caso necesario conforme a un sistema de sorteos, en los términos que establezca la ley a que se refiere el artículo 139.
 
@@ -2302,7 +2308,7 @@ III. El tráfico de drogas enervantes.
 
 Son causas especiales de rescisión de las relaciones de trabajo:
 
-l. La recepción de carga o pasaje fuera de los lugares señalados por la empresa para estos fines; y
+I. La recepción de carga o pasaje fuera de los lugares señalados por la empresa para estos fines; y
 
 II. La negativa a efectuar el viaje contratado o su interrupción, sin causa justificada.
 
@@ -3020,7 +3026,7 @@ Dentro del tiempo que el Médico Residente debe permanecer en la Unidad Médica 
 
 ###### Artículo 353-F.
 
-La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353-G.
+La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353.-G.
 
 En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
 
@@ -3030,7 +3036,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -3430,7 +3436,7 @@ Si el patrón se niega a firmar el contrato, podrán los trabajadores ejercitar 
 
 Si dentro de la misma empresa existen varios sindicatos, se observarán las normas siguientes:
 
-I. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que tenga mayor número de trabajadores dentro de la empresa;
+l. Si concurren sindicatos de empresa o industriales o unos y otros, el contrato colectivo se celebrará con el que tenga mayor número de trabajadores dentro de la empresa;
 
 II. Si concurren sindicatos gremiales, el contrato colectivo se celebrará con el conjunto de los sindicatos mayoritarios que representen a las profesiones, siempre que se pongan de acuerdo. En caso contrario, cada sindicato celebrará un contrato colectivo para su profesión; y
 
@@ -5170,7 +5176,7 @@ III. Las Comisiones dispondrán de un término que vencerá el quince de noviemb
 
 Dentro del mismo término podrán solicitar de la Dirección Técnica de la Comisión Nacional investigaciones y estudios complementarios; y
 
-lV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
+IV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
 
 ###### Artículo 572.
 
@@ -5900,7 +5906,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -7966,7 +7972,7 @@ II. Las autoridades citadas harán las designaciones de los representantes obrer
 
 Las disposiciones de este Capítulo rigen la tramitación y resolución de los conflictos individuales y colectivos de naturaleza jurídica que no tengan una tramitación especial en esta Ley.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 871.
 
@@ -9551,3 +9557,9 @@ PRIMERO.- Las solicitudes de entrega de depósitos presentadas con anterioridad 
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las aportaciones que se efectúen a favor de los trabajadores ya acreditados, se aplicarán íntegramente a constituir su fondo de ahorro.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+PRIMERO.- Las solicitudes de entrega de depósitos y de liberación de adeudos presentadas con anterioridad a estas reformas y las que se presenten posteriormente, pero cuyos hechos generadores del derecho hayan surgido antes de su vigencia, serán resueltas conforme a dichas reformas.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
