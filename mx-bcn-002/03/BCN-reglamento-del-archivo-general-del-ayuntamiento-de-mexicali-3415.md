@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-archivo-general-del-ayuntamiento-de-mexicali-341
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-01-10"
-last_updated: "1984-01-10"
+last_updated: "2000-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA ADMINISTRACION DE DOCUMENTOS PUBLICOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 20 DE JUNIO DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el martes 10 de enero de 1984.
 
@@ -316,3 +318,31 @@ REG. E ING. MANUEL A. RAMOS RUBIO
 REG. Y PROFR. JESÚS A. VILLA H.
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE JUNIO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento abroga el Reglamento del Archivo General del Ayuntamiento de Mexicali, Baja California, publicado en el Periódico Oficial del Estado del día diez de enero de mil novecientos ochenta y cuatro.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los quince días siguientes a la entrada en vigor del presente Reglamento, el Secretario del Ayuntamiento aprobará las cédulas de control a que se refiere el mismo, y las dará a conocer a las dependencias y entidades. Asimismo, iniciará las gestiones para el diseño y funcionamiento del programa informático par las Fichas Informativas del archivo de trámite, así como para las Fichas Descriptivas de Expedientes en Archivo de Concentración, a fin de que se cuente con el mismo a más tardar al inicio del siguiente ejercicio fiscal.
+
+###### ARTÍCULO CUARTO.
+
+El Departamento, dentro de los treinta días siguientes a la entrada en vigor del presente Reglamento, remitirá al Archivo Histórico, los documentos que mantiene en el archivo de concentración, cuyo término de conservación en éste haya fenecido.
+
+El Secretario del Ayuntamiento deberá determinar el periodo de tiempo por el que deberán permanecer en el archivo de concentración del Departamento, los documentos que actualmente se encuentran depositados en el mismo, sin contar con una fecha específica para ser remitidos al Archivo Histórico.
+
+###### ARTÍCULO QUINTO.
+
+Las dependencias y entidades remitirán al Departamento, en un lapso no mayor de quince días a que entre en vigor este ordenamiento, una relación con las características que en el mismo se describen, de los documentos que mantengan en sus archivos de trámite, y que consideren deben integrarse al archivo de concentración.
+
+El Departamento en el mes siguiente a la recepción de dichas relaciones, formulará el calendario para la recepción de dichos documentos.
