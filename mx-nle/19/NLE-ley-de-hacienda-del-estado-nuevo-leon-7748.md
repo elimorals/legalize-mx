@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1183,17 +1183,19 @@ La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para qu
 
 ### CAPITULO NOVENO. Impuesto sobre Nóminas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 154.
 
-Es objeto de este Impuesto la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, dentro del territorio del Estado.
+Es objeto de este impuesto la realización de pagos en efectivo, en servicios o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, dentro del territorio del estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, fondo de ahorro, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y otros conceptos de naturaleza semejante, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado. Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, Miembros del (sic) los Consejos Directivos o de Vigilancia de Sociedades o Asociaciones.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que por dichos servicios no se pague el Impuesto al Valor Agregado.
+También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas físicas que presten servicios personales preponderantemente a un prestatario, siempre que por dichos servicios no se pague el impuesto al valor agregado.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1206,6 +1208,10 @@ Antes de que se efectúe el primer pago de honorarios en el año de calendario d
 ###### ARTICULO 155.
 
 Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+La federación, los organismos descentralizados, fideicomisos y demás entidades paraestatales, deberán cubrir el impuesto a su cargo.
 
 ###### ARTICULO 156.
 
@@ -1221,9 +1227,9 @@ Este impuesto se causará con tasa del 2% sobre la base a que se refiere el Art�
 
 El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes siguiente a aquél al que corresponda dicho pago, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
+Cuando se presente una declaración sin pago, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las mismas, hasta que exista cantidad a pagar, siempre que se presente conjuntamente con la primera declaración sin pago, escrito libre en el que se señalen las razones por las que no se tuvieron erogaciones gravadas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -1249,7 +1255,9 @@ II.- Presentar ante las mismas autoridades y dentro del plazo que señala la fra
 
 III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señaldos (sic) al eefcto (sic);
 
-IV.- Las sucursales, bodegas, agencias, u otras dependencias de la matriz, deberán empadronarse por separado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IV.- Los contribuyentes deberán presentar aviso de apertura o cierre de sucursales, bodegas, agencias u otras dependencias de la matriz, en la forma que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado y pagarán el impuesto correspondiente en la declaración que presenta la matriz. Cuando la misma se encuentre fuera del territorio del Estado, deberá inscribirse una de las sucursales, para efectos del pago del impuesto correspondiente al territorio del Estado.
 
 V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
@@ -1269,11 +1277,13 @@ d).- Indemnizaciones por rescición (sic) o terminación, que tengan su origen e
 
 e).- Pagos por gastos funerarios;
 
-f).- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+f) Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del impuesto sobre la renta;
 
-g) Fondos de ahorro, despensas y alimentación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+g) Fondo de ahorro, despensas y alimentación, hasta por un monto que en su conjunto, no exceda de una cuota elevada al mes, por el excedente deberá cubrirse el impuesto correspondiente;
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
@@ -1281,9 +1291,9 @@ h).- Remuneraciones a personas discapacitadas invidentes, con deficiencia total 
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-a) El Estado y los Municipios. La Federación, los Organismos Descentralizados, Fideicomisos y demás Entidades Paraestatales, deberán cubrir el impuesto a su cargo.
+a) El Estado y los Municipios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2037,7 +2047,7 @@ Estos servicios podrán ser prestados por profesionistas independientes con tít
 
 El profesionista que realice la inspección deberá presentar ante la Secretaría del Trabajo, dentro de los meses de Enero y Julio del semestre correspondiente, o en su caso, dentro del mes siguiente al inicio de actividades, una constancia en la que se certifique que ha cumplido con las disposiciones previstas en el reglamento respectivo. Esto no libera al contribuyente de permitir inspecciones ordenadas por la Secretaría del Trabajo, para verificar el cumplimiento de las disposiciones aplicables en esta materia.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2057,7 +2067,7 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de N$55.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2203,13 +2213,9 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
-II.- Por la expedición de copias, por cada hoja, sin perjuicio del derecho establecido en esta Ley.. .023 cuotas
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-III.- Por certificación de copias, por cada documento.... 2.32 cuotas
+III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2455,7 +2461,7 @@ II.- Balances de Empresas 7.50 cuotas.
 
 La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circulares de carácter general y demás disposiciones a que se refiere el Artículo 10 de la Ley del Periódico Oficial del Estado, emitidos por las autoridades, estará exenta de los derechos previstos en este Artículo.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2567,7 +2573,7 @@ g) Constancias de Servicio Social de escuelas desaparecidas ….. 1.5 cuotas
 
 a) Trámite de Cédula Profesional, así como Autorización para el ejercicio de especialidad, por cada trámite ….. 5 cuotas
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003.</small>
 
 II.- Instituciones Educativas:
 
@@ -2829,9 +2835,9 @@ XVIII.- Por expedición de constancias y certificaciones……………. 1 cuota
 
 XIX. - Por servicio de información de datos o documentos de control vehicular, obtenidos mediante sistemas de comunicación, proporcionada por otras Entidades Federativas, por documento...2 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-Para dar trámite al pago de los derechos por servicios de control vehicular, expedición o reposición de placas o baja de vehículos del padrón vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito en vigor, además de acreditar el pago del Impuesto Sobre Transmisión de Propiedad de Vehículos Automotores Usados, en caso de que éste se haya generado.
+Para dar trámite al pago de los derechos por servicios de control vehicular, expedición o reposición de placas o baja de vehículos del padrón vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito correspondiente, además de acreditar el pago del impuesto sobre transmisión de propiedad de vehículos automotores usados, en caso de que éste se haya generado, así como el pago del impuesto sobre tenencia o uso de vehículos, además del pago del impuesto sobre automóviles nuevos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2897,13 +2903,13 @@ En caso de que estos servicios sean prestados a trabajadores de patrones con má
 
 El examen médico, el análisis sanguíneo y el catastro torácico podrán ser practicados por personas o establecimientos públicos o particulares, autorizados para prestar servicios médicos. Una vez acreditado lo anterior, el certificado de salud se expedirá en forma gratuita.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por verificación semestral del cumplimiento de las disposiciones en materia de seguridad, ecología, salud e higiene, por metro cuadrado de área de trabajo, de servicios y de atención al público, N$0.50, sin que la cantidad a pagar por establecimiento sea inferior a N$50.00, ni mayor a N$850.00.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2967,13 +2973,17 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 
 2.- Por incorporación a las redes de drenaje .044 cuotas
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
+
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VIII.- Por clasificación de carne de res, por canal N$3.80
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 26 DE DICIEMBRE DE 2003</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2987,9 +2997,29 @@ b) Tiendas de autoservicio N$400.00
 
 X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble 5 cuotas
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 277 Bis.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+Por la expedición de copias, certificaciones y reproducciones diversas, que expidan las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial del Gobierno del Estado, se causarán los derechos de acuerdo a las siguientes tarifas:
+
+I. Copias simples por hoja ….. 0.012 cuotas
+
+II. Copias a color por hoja ….. 0.24 cuotas
+
+III. Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores ….. 1 cuota
+
+IV. Copias simples de planos ….. 0.43 cuotas
+
+V. Copias simples de planos a color ….. 2 cuotas
+
+VI. Copias certificadas de planos ….. 3 cuotas
+
+VII. Copias certificadas de planos a color ….. 5 cuotas
+
+En caso de reproducción en medios magnéticos, fotográficos, sonoros, ópticos o visuales y otros, los materiales que se requieran serán proporcionados por el interesado.
+
+En todos los casos, con excepción del Poder Judicial del Estado, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
 ### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
 
@@ -2997,35 +3027,11 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
-
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+ARTICULO 276 BIS.- (DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
-ARTICULO 276 bis.- Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, se causarán los siguientes derechos:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-I.- Por expedición de copias certificadas de planos 3.5 cuotas
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-II.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
-
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 278.
 
@@ -3071,7 +3077,7 @@ Los productos se cobrarán de acuerdo con los contratos, o en los términos de l
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
 ###### ARTICULO 280.
 
@@ -3545,6 +3551,20 @@ Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero d
 
 Artículo Segundo.- Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco y franja color arena con caracteres en color verde, con emblema de la Entidad (Cerro de la Silla) en la parte superior izquierda, escudo del Estado centrado en la parte inferior para el servicio privado y fondo blanco con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, tendrán una vigencia hasta el último día del mes de agosto del 2002, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia, de acuerdo a lo establecido por la Norma Oficial Mexicana NOM-001-SCT-2-2000 publicada en fecha 26 de Enero del 2001 en el Diario Oficial de la Federación.
 
-P.O. 27 DE DICIEMBRE DE 2002
+P.O. 27 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
+
+Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Publico, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
+
+Artículo Quinto.- Si se da por terminada la Coordinación en Materia Federal de Derechos, entre la Federación y el Estado de Nuevo León a que se refiere el transitorio que antecede, entrando en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de la citada Coordinación, los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
