@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1999-11-12"
+last_updated: "2000-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1165,7 +1165,7 @@ I.- Aborto culposo.- Cuando sea resultado de una conducta culposa de la mujer em
 
 II.- Aborto cuando el embarazo es resultado de una violación o de una inseminación artificial.- Cuando el embarazo sea resultado de una violación o de una inseminación artificial practicada en contra de la voluntad de la embarazada, siempre que el aborto se practique dentro del término de los noventa días de la gestación y el hecho haya sido denunciado, caso en el cual bastará la comprobación de los hechos por parte del Ministerio Público para autorizar su práctica;
 
-III.- Aborto terapéutico.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, quien dará aviso de inmediato al Ministerio Público, y éste oirá el dictamen de un médico legista, siempre que ésto fuere posible y no sea peligrosa la demora.
+III.- Aborto terapéutico.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, quien dará aviso de inmediato al Ministerio Público, y éste oirá el dictamen de un médico legista, siempre que esto fuere posible y no sea peligrosa la demora.
 
 ### CAPITULO VII. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -2729,19 +2729,19 @@ En ningún caso se devolverá al responsable del delito de cohecho, el dinero o 
 
 Tipo.- Comete el delito de peculado el servidor público que, para usos propios o ajenos distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o municipios, a organismos descentralizado (sic), o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2000)</small>
+
 ###### Artículo 299.
 
 Punibilidad.- Al servidor público que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+I.- Cuando el monto de lo distraído no exceda de mil veces el salario, o no sea valuable, se le impondrá de dos a siete años de prisión y de cien a doscientos cincuenta días multa.
 
-Cuando el monto de lo distraído no exceda de mil veces el salario, o no sea valuable, se impondrá de cuatro a siete años de prisión y de cien a doscientos cincuenta días multa.
+II.- Cuando el monto de lo distraído exceda de mil veces el salario, o no sea valuable, se le impondrá de cinco a diez años de prisión y de ciento cincuenta a trescientos días multa.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+III.- Cuando el monto de lo distraído exceda de dos mil veces el salario, se le impondrá de ocho a catorce años de prisión y de trescientos a seiscientos días multa.
 
-Cuando el monto de lo distraído exceda de mil veces el salario, se impondrá de seis a doce años de prisión y de doscientos cincuenta a quinientos días multa.
-
-Al servidor público responsable de peculado se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se le haya aplicado.
+Al servidor público responsable de peculado, se le destituirá e inhabilitará para desempeñar otro empleo, cargo o comisión públicos por un término igual a los señalados en los párrafos anteriores, según el que se haya aplicado.
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
