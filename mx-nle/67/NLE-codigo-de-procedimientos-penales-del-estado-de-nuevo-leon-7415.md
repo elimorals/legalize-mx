@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1999-07-07"
+last_updated: "2004-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -141,13 +141,27 @@ II.- Coadyuvar con el Ministerio Público;
 
 III.- Estar presente en el desarrollo de todos los actos procesales en los que el inculpado tenga este derecho;
 
-IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requieran; y
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
+
+IV.- Recibir la asistencia médica de urgencia y psicológica cuando lo requieran, pudiendo optar por el profesionista de su elección cuando la disponibilidad de éstos así lo permita; y
 
 V. Los demás que señalen las leyes.
 
 En virtud de lo anterior, podrán proporcionar al Ministerio Público o al juzgador directamente o por medio de aquél, todos los datos o elementos de prueba con que cuenten, que conduzcan a acreditar los elementos del tipo penal y la probable o plena responsabilidad del inculpado, según el caso, y la procedencia y monto de la reparación del daño.
 
 En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+La víctima o el ofendido tendrán derecho a solicitar al Juez que dicte las medidas y providencias necesarias que prevea la ley para su seguridad y auxilio, y para que se les restituya en el goce de sus derechos, en los términos previstos en este Código.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+A consideración del Juez, se podrá designar personal capacitado en psiquiatría, psicología, trabajo social o cualquier otro con conocimientos del ramo, preferentemente con certificación profesional, para la atención y asistencia en las diligencias en que participe la víctima u ofendido menor de edad, actuando, de estimarse pertinente, como intermediario para que no se establezca debate directo entre el menor y el inculpado. El Juez deberá tomar las medidas pertinentes cuando la víctima o el ofendido sea mayor de edad con discapacidad mental y se encuentre en el supuesto anterior. Si el presunto responsable ejerce la patria potestad, tutela o custodia legal y la víctima u ofendido es menor de edad, o mayor de edad con discapacidad mental, y no tiene familiar idóneo para hacerse cargo de él, se le procurará un hogar sustituto o su ingreso a alguna institución asistencial adecuada, hasta que cause ejecutoria la sentencia que se dicte.
 
 ###### ARTICULO 9.
 
@@ -655,15 +669,19 @@ Los plazos se reputarán comunes, salvo que por su naturaleza, o por disposició
 
 ### CAPITULO OCTAVO. AUDIENCIAS
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 91.
 
-Las audiencias serán públicas, excepto cuando el Juez o Magistrado estimen que por razones graves que afecten la moral o el orden público o en los casos que determine la Ley, sólo asistan las partes y demás personas que deban intervenir en ellas; en este caso la diligencia se celebrará en el Despacho del Juez o Magistrado.
+Las audiencias serán públicas, excepto cuando el Juez o Magistrado por su propia consideración o a petición de las partes, estimen que solo asistan las partes y demás personas que deban intervenir en ellas, en virtud de que pudiera afectarse la moral; la integridad física, psicológica o la seguridad de alguna de las partes; directamente el pudor de la víctima o de alguna persona citada para participar; se examine a un menor; se afecte el orden público o en los casos que determine la Ley. En estos casos las diligencias se celebrarán en el despacho del Juez o Magistrado.
 
 Las audiencias se llevarán a cabo concurran o no las partes, salvo el Ministerio Público que no podrá dejar de asistir a ellas.
 
 En el supuesto a que se refiere el Artículo 34 de este Código, no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el intérprete o traductor a que dicho precepto se refiere.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+La declaración de la víctima o el ofendido, cuando se trate de delitos sexuales, secuestro o violencia familiar, se llevará a cabo de una manera que no perciba la presencia del inculpado.
 
 ###### ARTICULO 92.
 
@@ -2123,6 +2141,10 @@ III.- Si después de la ejecución del hecho la ha visto, en qué lugar, y por q
 
 Se conducirá entonces al declarante frente a las personas que formen fila; si hubiera afirmado conocer a aquella de cuya confrontación se trata, se le permitirá reconocerla detenidamente, y se le prevendrá que la señale en forma precisa.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+Cuando la víctima, el ofendido o el testigo sean menores de edad o se trate de delitos sexuales, secuestro o violencia familiar, la diligencia de confrontación se efectuará de tal manera que quien deba de identificar al inculpado no pueda ser visto por éste. Tratándose de los demás delitos calificados como graves por el Artículo 16 Bis del Código Penal, a criterio de la autoridad competente, la diligencia de confrontación podrá efectuarse en los términos anteriores. En ambos casos invariablemente deberá estar presente el defensor del inculpado.
+
 ###### ARTICULO 304.
 
 Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos separados, cuantas sean las confrontaciones que deban hacerse.
@@ -3423,9 +3445,9 @@ III.- Cuando amenazare a la parte ofendida o a algún testigo de los que hayan d
 
 IV.- Cuando lo solicite el mismo inculpado y se presente al Juez o Tribunal;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
 
-V.- Cuando en el curso de la instrucción apareciere que el delito o los delitos imputados, son de los graves previstos en las tres fracciones del artículo 16 bis del código penal;
+V.- Cuando en el curso de la instrucción apareciere que el delito o los delitos imputados, son de los graves previstos en el artículo 16 Bis del Código Penal;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1994)</small>
 
@@ -3505,11 +3527,47 @@ Pronunciada una sentencia condenatoria irrevocable, el Tribunal que la dicte exp
 
 El Tribunal estará obligado a tomar de oficio todas las providencias conducentes para que el reo sea puesto a disposición del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 516.
 
-(DEROGADO PRIMER PARRAFO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+La ejecución de la sentencia, en lo relativo a la reparación del daño y perjuicio, a cargo del delincuente, corresponde al Juez del proceso previa solicitud de la víctima o del ofendido. Esta autoridad concederá al sentenciado un término de tres días hábiles para que voluntariamente cumpla la condena al pago de la reparación del daño y perjuicio; en caso de incumplimiento y si la condena fuese la restitución de la cosa obtenida por el delito, el juez dictará las providencias necesarias para restituir a la víctima u ofendido en el goce de sus derechos.
 
-La ejecución de la sentencia, en lo relativo a la reparación del daño y perjuicio a cargo del delincuente, corresponde al Juez del proceso ajustándose a las disposiciones del Código de Procedimientos Civiles a ese respecto.
+Si la condena fuese el pago de la reparación del daño y perjuicio, el Juez decretará el embargo de bienes propiedad del procesado que sean suficientes para cubrir el pago. Si hubiere garantía otorgada por el inculpado o por terceras personas, por concepto de la reparación del daño y perjuicio, y la misma bastara para cubrir la condena por este concepto, el Juez procederá a hacerla efectiva mediante su entrega a la persona a cuyo favor se condenó al acusado al pago de la reparación del daño y perjuicio; si resultase insuficiente, el Juez se la entregará y acordará el embargo de bienes propiedad del sentenciado hasta por la cantidad faltante del total de la reparación del daño y perjuicio a que hubiere sido condenado.
+
+El depósito recaerá en la víctima o el ofendido, o en la persona que éste designe, a quien se le entregarán los bienes previa aceptación del cargo y protesta de su fiel y legal desempeño.
+
+Quedan exceptuados de embargo los bienes que establece el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 516 Bis.
+
+El procedimiento de ejecución se suspenderá si el condenado hace paga llana de lo reclamado, en cuyo caso se levantará el embargo trabado en los bienes, procediendo a su devolución.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 516 Bis 1.
+
+Tratándose de bienes inmuebles, el Juez de oficio procederá a su valorización, para lo cual girará oficio al Director de Catastro o a las autoridades que tengan estas funciones para la valuación del o de los inmuebles, y tratándose de bienes muebles la valuación será realizada por los peritos que soliciten las partes, los cuales serán designados de conformidad a las reglas establecidas en el Capítulo respectivo del presente Código. De así requerirse, el Juez designará el perito, consultando primeramente en la lista de los peritos del Tribunal Superior de Justicia, y posteriormente, en caso de ser necesario, en la lista de la Procuraduría General de Justicia del Estado.
+
+En el caso de los inmuebles, adicionalmente se girará oficio al Director del Registro Público de la Propiedad y del Comercio a fin de que remita certificado de gravámenes de los últimos diez años. En el caso de existir acreedores se les citará personalmente para que comparezcan a deducir sus derechos.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+
+###### ARTICULO 516 Bis 2.
+
+Los bienes embargados serán vendidos en pública subasta, mediante la publicación de un edicto en el boletín judicial y otro en los estrados del juzgado, por lo que el Juez señalará fecha y hora precisa para su celebración, convocando a postores.
+
+Los postores presentarán el certificado de depósito que cubra el diez por ciento del valor de los bienes dados en remate como requisito para ser aceptados como postores, el Juez pasará la lista de postores y rechazará a los que no reúnan dicho requisito. La víctima u ofendido pueden participar como postores sin necesidad de exhibir el certificado mencionado.
+
+En el orden en que se presentaron los postores harán públicamente su postura, pudiendo pujar y mejorarla, y el Juez fincará el remate a favor de la postura mayor. No habiendo postor quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por las dos terceras partes del precio que sirvió de base para el remate o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación. Esta segunda subasta se anunciará y celebrará en igual forma que la anterior.
+
+Para decretar adjudicados los bienes, el adjudicatario deberá exhibir mediante certificado de depósito dentro de los tres días siguientes, la diferencia entre el depósito presentado a efecto de ser aceptado como postor y el precio en que se fincó el remate.
+
+En lo no previsto a ese respecto por el presente artículo, el Juez se ajustará a las disposiciones del Código de Procedimientos Civiles del Estado.
+
+Las resoluciones dictadas en ejecución de sentencia para la reparación y perjuicio no admiten recurso alguno.
 
 ### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
 
@@ -3794,3 +3852,11 @@ P.O. 24 DE JUNIO DE 1998.
 P.O. 7 DE JULIO DE 1999.
 
 Artículo Único: Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
+
+Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
