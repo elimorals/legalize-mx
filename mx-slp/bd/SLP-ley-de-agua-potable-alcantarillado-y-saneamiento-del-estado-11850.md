@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-25"
-last_updated: "1998-05-26"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de enero de 1996.
 
@@ -51,7 +51,9 @@ Esta ley regulará:
 
 I.- El Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
 
-II.- La prestación de los servicios públicos de agua potable, alcantarillado y saneamiento;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- La prestación de los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento; entendiéndose por éste último la conducción, depuración, alejamiento, disposición y descarga de las aguas residuales;
 
 III.- La organización y funcionamiento de los organismos operadores del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento;
 
@@ -1506,3 +1508,9 @@ P.O. 26 DE MAYO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2001.
+
+PRIMERO. Lo dispuesto en el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
