@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1951-03-14"
+last_updated: "1951-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE FEBRERO DE 1951.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 14 DE MARZO DE 1951.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 1951.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -600,13 +598,13 @@ Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán dir
 
 DE LA DIVISION DE PODERES.
 
-> <small>(REFORMADO, D.O.F. 12 DE AGOSTO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
 ###### Art. 49.
 
-El Supremo Poder de la Federación se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de Facultades Extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29.- En ningún otro caso se otorgarán al Ejecutivo facultades extraordinarias para legislar.
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 
 ### CAPITULO II.
 
@@ -1848,6 +1846,10 @@ Los procesos por infracción a las anteriores bases, nunca serán vistos en jura
 
 Es facultad privativa de la federación, gravar las mercancías que se importen o exporten o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo, y aún prohibir por motivos de seguridad o de policía, la circulación en el interior de la República, de toda clase de efectos, cualquiera que sea su procedencia; pero sin que la misma Federación pueda establecer ni dictar en el Distrito y Territorios Federales, los impuestos y leyes que expresan las fracciones VI y VII del Art. 117.
 
+> <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 1951)</small>
+
+El Ejecutivo podrá ser facultado por el Congreso de la Unión para aumentar, disminuir o suprimir las cuotas de las tarifas de exportación e importación, expedidas por el propio Congreso, y para crear otras; así como para restringir y para prohibir las importaciones, las exportaciones y el tránsito de productos, artículos y efectos, cuando lo estime urgente, a fin de regular el comercio exterior, la economía del país, la estabilidad de la producción nacional, o de realizar cualquiera otro propósito, en beneficio del país. El propio Ejecutivo al enviar al Congreso el Presupuesto Fiscal de cada año, someterá a su aprobación el uso que hubiese hecho de la facultad concedida.
+
 ###### Art. 132.
 
 Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles destinados por el Gobierno de la Unión al servicio público o al uso común, estarán sujetos a la jurisdicción de los Poderes Federales en los términos que establezca la ley que expedirá el Congreso de la Unión; mas para que lo estén igualmente los que en lo sucesivo adquiera dentro del territorio de algún Estado, será necesario el consentimiento de la legislatura respectiva.
@@ -2319,3 +2321,9 @@ Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Fed
 ###### ARTICULO NOVENO.
 
 El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
+
+D.O.F. 28 DE MARZO DE 1951.
+
+###### ARTICULO UNICO.
+
+La adición al artículo 131 de la Constitución General de la República, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
