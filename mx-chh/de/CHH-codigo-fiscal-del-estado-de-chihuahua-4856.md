@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1975-12-31"
+last_updated: "1976-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1976.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1051,8 +1051,6 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 2 DE ENERO DE 1974.
-
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
@@ -1335,6 +1333,10 @@ De 0.01 a 2,500.00 0.00 exento
 
 " 30,000.01 en adelante 1,698.50 " 8.7
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 1976)</small>
+
+Cuando los causantes de este impuesto perciban hasta $500.00 mensuales en adición al salario mínimo general de la zona económica respectiva o a la base mínima gravada, cualquiera que sea mayor, por concepto de sobresueldos, horas extras, comisiones, premios, gratificaciones o por cualquier otro concepto gravable, el importe del impuesto a pagar se calculará aplicando al ingreso que exceda al salario mínimo general o a la base mínima gravada, el factor .002 y el resultado obtenido se multiplicará por el importe que resulte de aplicar la tarifa contenida en este artículo al ingreso total percibido durante el mes.
+
 DE LAS EXENCIONES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1972)</small>
@@ -1351,11 +1353,13 @@ IV.- Dotes matrimoniales que se concedan a los trabajadores de conformidad con l
 
 V.- Indemnizaciones para gastos funerarios.
 
-VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores cuyos sueldos o salarios no excedan de dos mil pesos mensuales y siempre que dichas gratificaciones no excedan de un mes de sueldo.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1976)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+VI.- Las gratificaciones de fin de año, acordadas en forma general, a favor de los empleados públicos, así como las que perciban, también a fin de año, otros trabajadores, que no sean superiores a un mes de sueldo y que éste no exceda del salario mínimo general de la zona económica respectiva con $500.00.
 
-VII.- Las cantidades recibidas por concepto de salario mínimo general, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en casos de invalidez, cesantía, vejez y muerte.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1976)</small>
+
+VII.- Las cantidades recibidas por concepto de salario mínimo general, prima dominical, vacacional y de antigüedad sobre la base de dicho salario, las participaciones en las utilidades, las indemnizaciones por cese o separación, los retiros o rentas vitalicias que tengan su origen en la prestación de servicios personales, las jubilaciones y pensiones en casos de invalidez, cesantía, vejez y muerte, siempre que las prestaciones mencionadas no excedan de las señaladas como mínimo por la Legislación Laboral.
 
 VIII.- Los haberes que obtengan los miembros del Ejército Nacional.
 
@@ -4472,3 +4476,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 31 DE DICIEMBRE DE 1975.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día 1o. de Enero de mil novecientos setenta y seis.
+
+P.O. 6 DE NOVIEMBRE DE 1976.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, a partir del día siguiente de su publicación en el Periódico Oficial del Estado y surtirá efectos retroactivamente en beneficio de los trabajadores a partir del día primero de octubre de 1976.
