@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1985-07-12"
+last_updated: "1987-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1987.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -481,7 +481,9 @@ XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
 XXII. Revisar, por medio de la Contaduría Mayor de Hacienda, las cuentas mensuales del gasto público efectuado por el Estado y de cada uno de los Municipios. La revisión de dichas cuentas mensuales no se limitará a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o en su caso a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las tesorerías municipales.
 
-XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estado y aprobar o no los contratos respectivos.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1987)</small>
+
+XXIII. Autorizar al Gobernador del Estado para que celebre empréstitos, conforme a lo previsto por el Artículo 84 de ésta Constitución, y otorgue avales para garantizar obligaciones legalmente establecidas. Así como aprobar o no los contratos respectivos.
 
 XXIV. Reconocer, aprobar y ordenar el pago de la Deuda Preferente del Estado.
 
@@ -783,7 +785,9 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-XXI. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1987)</small>
+
+XXI. Otorgar avales, previa autorización del Congreso del Estado, para garantizar empréstitos concedidos a organismos públicos legalmente instituidos, a que se refiere el Artículo 84 de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -925,11 +929,11 @@ La dirección de la política fiscal del Estado en la esfera administrativa y la
 
 Ningún servidor público del Estado o de los Municipios que tengan a su cargo el manejo de caudales públicos entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsable a las autoridades a quienes la Ley encomienda hacer efectivo este requisito.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1987)</small>
 
 ###### Art. 84.
 
-No podrán contratarse empréstitos por el Estado o por los Municipios sino para la ejecución de obras que estén destinadas a producir directamente un incremento en sus respectivos ingresos y previa autorización del Congreso del Estado otorgada mediante el voto de las dos terceras partes de la totalidad de sus miembros.
+Sólo podrán contratarse empréstitos por el Estado o sus Municipios en forma directa o a través de sus organismos públicos, cuando se trate de obtener ingresos extraordinarios que, para el cumplimiento de sus atribuciones de derecho público sean justificados en cada caso, a juicio del Congreso del Estado, quien mediante el voto de las dos terceras partes de la totalidad de sus miembros, deberá aprobar y autorizar previamente los contratos respectivos, formas de financiamiento, constituyéndose como aval el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -2290,3 +2294,9 @@ P.O. 12 DE JULIO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE FEBRERO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
