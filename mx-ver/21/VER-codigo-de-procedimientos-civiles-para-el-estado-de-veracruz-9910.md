@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1940-11-14"
+last_updated: "1966-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1817 +21,2597 @@ state: "VER"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2017.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1966.
 
-Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
+Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+El C. Gobernador se ha servido dirigirme el siguiente decreto:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+"ADALBERTO TEJEDA, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
 
-La LXII Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+Que en uso de la facultad que ha tenido a bien conferirme la H. Legislatura del mismo, por Decreto número 214 de 4 de julio de 1931, expido el siguiente
 
-Decreto Número 152
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-## TÍTULO PRIMERO. DEL OBJETO
+## TITULO PRIMERO. DE LAS ACCIONES Y EXCEPCIONES
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPITULO I. De las acciones
 
-###### ARTÍCULO 1º.
+ARTICULO 1°
 
-El presente Código es de orden público y de observancia general en el Estado de Aguascalientes, tiene por objeto reglamentar las disposiciones que en materia electoral establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes, de manera armonizada con las normas contenidas en la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, la Ley General de Delitos Electorales y la Ley General del Sistema de Medios de Impugnación en Materia Electoral, relativas a:
+El ejercicio de las acciones civiles requiere:
 
-I. El ejercicio de los derechos y obligaciones político-electorales de los ciudadanos, candidatos independientes, asociaciones políticas y partidos políticos;
+I.- La existencia de un derecho;
 
-II. La organización, facultades y obligaciones del Instituto y demás órganos electorales y jurisdiccionales de la materia;
+II.- La violación de un derecho o el desconocimiento de una obligación, o la necesidad de declarar, preservar o constituir aquél;
 
-III. La acreditación, funcionamiento, prerrogativas y obligaciones de los partidos políticos acreditados y asociaciones políticas con registro;
+III.- La capacidad para ejercitar la acción por sí, o por legítimo representante;
 
-IV. La función pública estatal de organizar las elecciones ordinarias y en su caso extraordinarias para renovar a los integrantes de los poderes Legislativo, Ejecutivo y los ayuntamientos del Estado;
+IV.- El interés en el actor para deducirlo.
 
-V. Derechos y el acceso a las prerrogativas de los candidatos independientes, partidos políticos y candidatos que emanen de estos;
+Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
 
-VI. La preparación de la jornada electoral;
+ARTICULO 2°
 
-VII. Lo relativo a la capacitación para el fortalecimiento cívico y político de la ciudadanía;
+La acción procede en juicio, aun cuando no se exprese su nombre o se exprese equivocadamente, con tal de que se determine con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
 
-VIII. Impresión de documentos y la producción de materiales electorales;
+ARTICULO 3°
 
-IX. Resultados preliminares; encuestas o sondeos de opinión; observación electoral y conteos rápidos, conforme a la LGIPE y a lo que establezca el Consejo General del INE;
+La acción real puede ejercitarse contra cualquier poseedor.
 
-X. Escrutinio y cómputo de las elecciones locales;
+ARTICULO 4°
 
-XI. Declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ayuntamientos;
+Cuando haya varias acciones contra una misma persona, deben intentarse en una sola demanda. Por el ejercicio de una o más, quedan extinguidas las restantes. No pueden acumularse en una sola demanda las acciones contrarias o contradictorias; ni las que dependan entre sí por el resultado que la sentencia dictada en una de ellas, haya de tener sobre las otras.
 
-XII. El cómputo de la elección de Gobernador del Estado en cada uno de los distritos electorales uninominales;
+Queda prohibida la práctica de deducir subsidiariamente acciones contrarias o contradictorias.
 
-XIII. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la Constitución y legislación local;
+ARTICULO 5°
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+En los contratos de prestaciones periódicas, cualquiera que sea el estado del pleito, pueden pedirse las que venzan durante él, acumulándose a las demás.
 
-XIV. Lo relativo a las faltas y sanciones del Instituto y demás órganos electorales a los ciudadanos, asociaciones políticas, partidos políticos, coaliciones, candidaturas comunes y candidatos independientes, y
+ARTICULO 6°
 
-XV. Lo relativo a los medios de impugnación en materia electoral.
+Para deducir las acciones mancomunadas, sean reales o personales, se considerará parte legítima, cualquiera de los acreedores, salvo que del mismo título aparezca que alguno de ellos se ha reservado aquel derecho.
 
-###### ARTÍCULO 2°.
+ARTICULO 7°
 
-Para efectos de este Código se entiende por:
+En las acciones mancomunadas por título de herencia o legado, sean reales o personales, se observarán las reglas siguientes:
 
-I. Afiliado o Militante: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
+I.- Si no se ha nombrado interventor o albacea, pueden ejercitarlas cualquiera de los presuntos herederos o legatarios;
 
-II. Código: Al Código Electoral del Estado de Aguascalientes;
+II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y únicamente podrán hacerlo los herederos o legatarios, cuando excitados para ello, el albacea o interventor se rehuse a hacerlo, dentro de un plazo perentorio que fijará el juez y que no excederá de treinta días.
 
-III. Consejo: Al Consejo General del Instituto Estatal Electoral;
+ARTICULO 8°
 
-IV. Consejo General: Al Consejo General del Instituto Nacional Electoral;
+El comunero podrá ejercitar las acciones relativas a la cosa o bien común, en calidad de dueño, salvo pacto en contrario, o ley especial.
 
-V. Constitución: A la Constitución Política del Estado de Aguascalientes;
+ARTICULO 9°
 
-VI. Contralor: Al Contralor Interno del Instituto;
+El perjudicado por falta de documento legal, tiene acción para exigir que el obligado se lo extienda. En caso de rebeldía, el juez extenderá el documento en nombre del rebelde.
 
-VII. CPEUM: A la Constitución Política de los Estados Unidos Mexicanos;
+ARTICULO 10
 
-VIII. INE: Al Instituto Nacional Electoral;
+Las acciones que se tramiten contra los herederos sólo obligan a éstos en proporción a sus cuotas hereditarias; salvo en todo caso la responsabilidad que les resulte, cuando sea mancomunada su obligación con el autor de la herencia, cuando haya habido ocultación de bienes, omisión o dilación al formar inventario, o dolo o fraude en la administración de bienes indivisos.
 
-IX. Instituto: Al Instituto Estatal Electoral de Aguascalientes;
+ARTICULO 11
 
-X. LGIPE: A la Ley General de Instituciones y Procedimientos Electorales;
+Intentada una acción y contestada la demanda, el desistimiento de alguna de las partes implica la pérdida de los derechos que tenga en ese juicio, y la condenación en costas, salvo pacto en contrario o disposición distinta de la ley.
 
-XI. LGPP: A la Ley General de Partidos Políticos;
+Se tendrá por abandonado un juicio y por perdido el derecho de las partes si éstas no promueven durante trescientos sesenta días naturales en la primera instancia o ciento ochenta en la segunda, salvo los casos de fuerza mayor o cuando se trate de ejecución de una sentencia firme. El abandono en la segunda instancia sólo da lugar a la pérdida del recurso y a la devolución de los autos.
 
-XII. SecretarioEjecutivo (sic): Al Secretario Ejecutivo del Consejo;
+Por promoción deberá entenderse todo lo que tienda a la secuela legal de un procedimiento.
 
-XIII. Tribunal: Al Tribunal Electoral del Estado de Aguascalientes,
+La caducidad será declarada de oficio por el tribunal.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 12
 
-XIV. Votación Emitida: La suma de los votos depositados en las urnas sin distinción alguna;
+A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+I.- Cuando alguno se jacte públicamente de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquel de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiendo que señale un término al jactancioso para que deduzca la acción que afirma tener, apercibido de que de no hacerlo en el plazo designado, se le tendrá por desistido de la acción que ha sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial o administrativo se reserva los derechos que pueda tener sobre alguna cosa o contra alguna persona. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos o hechos que la originan;
 
-XV. Votación Válida Emitida: La que resulte de deducir de la suma de todos los votos depositados en las urnas, los votos nulos y los correspondientes a los candidatos no registrados;
+II.- En los casos en que habiéndose interpuesto tercería, no ocurra el tercer opositor a continuarla;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga, o continúe desde luego.
 
-XVI. Paridad de género: principio por el cual se procura la igualdad material entre hombres y mujeres, tanto en la postulación de candidaturas de los órganos de elección popular, como la asignación de diputados y regidores de representación proporcional de manera equitativa, y
+En los casos de las dos últimas fracciones, se seguirá el mismo procedimiento que marca la fracción primera.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 13
 
-XVII. Violencia Política de Género: como cualquier acción u omisión, que basada en el género de una persona, tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos; o bien afectar la equidad en los procesos electorales.
+Las acciones duran lo que la obligación que las engendra, menos en los casos de caducidad de la instancia y cuando la ley señale distintos plazos.
 
-###### ARTÍCULO 3°.
+ARTICULO 14
 
-La aplicación de este Código, en el ámbito de sus respectivas competencias, corresponde a:
+Al poseedor con justo título y de buena fe, le compete la acción posesoria para que el poseedor de mala fe le restituya la cosa con sus frutos y accesiones en los términos prescritos por el Código Civil. Igual acción procede contra el que teniendo título de igual calidad, ha poseído por menos tiempo que el actor. No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviere su título registrado y el actor no.
 
-I. El INE;
+ARTICULO 15
 
-II. El Instituto;
+La petición de herencia se deducirá por el heredero testamentario o abintestato, o por el que haga sus veces en la disposición testamentaria; y se da contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero, o cesionario de éste y contra el que no alega título ninguno de posesión de bien hereditario, o dolosamente dejó de poseerlo.
 
-III. El Tribunal;
+ARTICULO 16
 
-IV. La Fiscalía Especial en Delitos Electorales;
+Al perturbado en la posesión jurídica, o derivada de un bien inmueble, compete la acción para retener la posesión contra el perturbador, contra el que ordenó tal perturbación o contra el que, a sabiendas y directamente, se aprovechó de ella, y contra el sucesor del despojante. El objeto de esta acción, es poner término a la perturbación, indemnizar al poseedor, y que el demandado afiance no volver a perturbar y sea conminado con multa, o arresto para el caso de reincidencia.
 
-V. La Cámara de Senadores, y
+La procedencia de esta acción requiere que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta, o a impedir el ejercicio del derecho, y que se reclame dentro de un año.
 
-VI. El Congreso del Estado.
+La acción de recuperar la posesión, se deducirá dentro del año siguiente a los actos de violencia o de ejecución causantes del despojo.
 
-Para el desempeño de sus facultades, las autoridades indicadas en las fracciones anteriores, contarán con el apoyo y colaboración de las autoridades federales, estatales y municipales, de los Notarios Públicos y de las organizaciones que realicen actividades de interés público, relacionadas con la materia.
+ARTICULO 17
 
-Dichas autoridades podrán celebrar acuerdos o convenios con autoridades de los tres órdenes de gobierno u organismos afines para el cumplimiento de sus labores.
+Al poseedor de un predio o de algún derecho real sobre él, compete la acción para suspender la conclusión de una obra perjudicial a sus posesiones, su demolición o modificación, en su caso, y la restitución de las cosas al estado anterior de la obra nueva. Compete también al vecino del lugar cuando la obra nueva se construya en bienes de uso común.
 
-###### ARTÍCULO 4º.
+Esta acción se da contra quien mandó construir, sea poseedor, o detentador de la heredad donde se construye.
 
-El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, imparcialidad, independencia, máxima publicidad, definitividad, objetividad y equidad.
+Para los efectos de esta acción, por obra nueva se entiende como tal, no sólo la construcción de nueva planta, sino también la que se realiza sobre edificio antiguo, añadiéndole, quitándole o dándole una forma distinta.
 
-La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional; a falta de disposición expresa se aplicarán los principios generales del derecho, y en todo caso se respetarán y garantizarán de la manera más amplia, los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+ARTICULO 18
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+La acción de obra peligrosa se da al poseedor de una propiedad contigua o cercana, que pueda resentirse, o padecer por la construcción, reforma, reparación, ruina o derrumbe de la obra, caída de un árbol u otro objeto análogo; y su finalidad es la de adoptar medidas urgentes para evitar los riesgos que ofrezca el mal estado de los objetos requeridos; obtener la demolición total o parcial de la obra, o la destrucción del objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.
 
-###### ARTÍCULO 5°.
+ARTICULO 19
 
-La promoción de la participación ciudadana para el ejercicio del derecho al sufragio en el Estado corresponde al Instituto, a los partidos políticos y a los candidatos.
+Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho dependa de la subsistencia del derecho del demandado o actor. El deudor de obligación indivisible que sea demandado por la totalidad de la prestación, puede hacer concurrir a juicio a sus codeudores, siempre que su cumplimiento no sea de tal naturaleza que sólo pueda satisfacerse por el demandado.
 
-En el cumplimiento de la obligación referida en el párrafo anterior, se promoverá la igualdad sustantiva entre mujeres y hombres y se prohibirá la discriminación por cualquier motivo.
+El tercero obligado a la evicción, deberá ser llamado a juicio oportunamente para que le pare en perjuicio la sentencia.
 
-El Instituto, el Tribunal, los partidos políticos y las asociaciones políticas, en términos de los artículos 1°, 2°, y 4° de la CPEUM, en el ámbito de sus atribuciones, establecerán mecanismos, para prevenir, atender, sancionar y erradicar la violencia política de género, la cual se podrá configurar en los siguientes casos:
+ARTICULO 20
 
-I. Imponer la realización de actividades distintas a las atribuciones inherentes al cargo o función;
+Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento y defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio, conservación o cambio de nombre, y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil, benefician o perjudican aun a los que no hayan litigado.
 
-II. Restringir injustificadamente la realización de acciones o actividades inherentes al cargo o función;
+Las acciones del estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
-III. Proporcionar o difundir información con la finalidad de impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de atribuciones o facultades;
+ARTICULO 21
 
-IV. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de derechos político-electorales o inducir al ejercicio indebido de atribuciones o facultades;
+Ninguna acción puede ejercitarse sino por aquél a quien competa, o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor cuando conste el crédito de aquél en título ejecutivo; y excitado éste para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.
 
-V. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de derechos político-electorales o inducir al ejercicio indebido de atribuciones;
+Las acciones derivadas de derechos inherentes a la persona del deudor, nunca se ejercitarán por el acreedor.
 
-VI. Impedir o restringir la incorporación, toma de protesta o acceso al cargo o función por razón de género;
+Los acreedores que acepten la herencia que corresponda a su deudor ejercitarán las acciones pertenecientes a éste, en los términos en que el Código Civil lo permita.
 
-VII. Impedir o restringir la reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables, y
+### CAPITULO II. De las excepciones
 
-VIII. Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos en razón de género.
+ARTICULO 22
 
-### CAPÍTULO I. De los Derechos y Prerrogativas
+Los demandados podrán oponer en su oportunidad todas las defensas que les permita la Ley.
 
-###### ARTÍCULO 6º.
+ARTICULO 23
 
-Son derechos y prerrogativas de los ciudadanos:
+Son excepciones dilatorias:
 
-I. El ejercicio del sufragio universal, libre, secreto, directo, personal e intransferible, para elegir a los integrantes de los poderes Legislativo, Ejecutivo y ayuntamientos del Estado;
+I.- La incompetencia;
 
-II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la normatividad en la materia. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridadde (sic) género;y (sic) a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la normatividad en la materia;
+II.- La falta de personalidad en el actor o en el demandado.
 
-III. Constituir partidos políticos y afiliarse a ellos individual y libremente;
+III.- Las demás que tengan el efecto de impedir el curso de la acción.
 
-IV. Participar en los procedimientos previstos en la Ley de Participación Ciudadana del Estado de Aguascalientes;
+> <small>(F. DE E. G.O., 13 DE OCTUBRE DE 1932)</small>
 
-V. Participar como observadores electorales en las elecciones estatales así como en los procesos de participación ciudadana;
+ARTICULO 24
 
-VI. Constituir asociaciones políticas estatales y afiliarse a ellas individual y libremente;
+La incompetencia promovida por la inhibitoria debe substanciarse conforme al Capítulo I, Título Tercero, de este Código.
 
-VII. Desempeñar las funciones electorales de conformidad con lo establecido en la normatividad de la materia, y
+ARTICULO 25
 
-VIII. Las demás que señale la LGIPE y este Código.
+El derecho de promover la inhibitoria no exime al reo de la obligación de comparecer en juicio y continuarlo, mientras aquélla no se decida en forma legal.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 26
 
-El ejercicio de los derechos y atribuciones de los ciudadanos en el ámbito político electoral, deberá realizarse de forma pacífica.
+Sólo se podrá substanciar incidente previo para resolver sobre la competencia del juez, promovida por declinatoria. Las demás excepciones dilatorias, así como las perentorias, se propondrá a la vez en la contestación de la demanda y se fallarán en la sentencia definitiva.
 
-## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
+ARTICULO 27
 
-### CAPÍTULO II. Del Voto
+Después de contestada la demanda, no se admitirá excepción alguna que no sea originada por causa superveniente, ni se permitirá al demandado que cambie la excepción opuesta. La excepción procede aun cuando no se exprese su nombre o éste fuere equivocadamente expresado, con tal de que se pueda entender el hecho en que se hace consistir la defensa.
 
-###### ARTÍCULO 7º.
+## TITULO SEGUNDO. DE LOS PROCEDIMIENTOS EN GENERAL
 
-El voto es universal, libre, secreto, directo, personal e intransferible. El voto se ejercerá dentro de la sección electoral, que corresponda al domicilio del ciudadano en donde se encuentra registrado dentro del Padrón Electoral, considerándose como casos de excepción los expresamente señalados en la LGIPE y este Código.
+### CAPITULO I. De la capacidad y personalidad
 
-###### ARTÍCULO 8º.
+ARTICULO 28
 
-Los ciudadanos del Estado, para ejercer el derecho al voto, deberán satisfacer, además de los requisitos que señala el artículo 34 de la CPEUM, los siguientes:
+Todo el que, conforme a la ley, esté en el pleno ejercicio de sus derechos civiles, puede comparecer en juicio.
 
-I. Estar inscrito en el Registro Federal de Electores y aparecer en la lista nominal de electores correspondiente, en los términos que establezca la LGIPE, y
+ARTICULO 29
 
-II. Contar con credencial para votar con fotografía, vigente.
+Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos, o los que deban suplir su incapacidad, conforme a derecho. Los ausentes e ignorados serán representados como se previene en el Título Undécimo, Libro Primero, del Código Civil.
 
-### CAPÍTULO III. De los Requisitos de Elegibilidad
+ARTICULO 30
 
-###### ARTÍCULO 9º.
+Los interesados y sus representantes legítimos podrán comparecer en juicio por sí, o por medio de procurador.
 
-Son requisitos para ser Diputado, Gobernador o miembro de un Ayuntamiento, además de los que señalan los artículos 19, 20, 37, 38, 39 y 66 de la Constitución, los siguientes:
+Representan a la Hacienda Pública los Agentes del Ministerio Público que se acrediten con una credencial expedida por el Ejecutivo del Estado, o los Agentes Fiscales que nombre el propio Ejecutivo.
 
-I. Estar inscrito en el Padrón Electoral y contar con credencial para votar con fotografía,vigente;
+ARTICULO 31
 
-II. Los Presidentes, Consejeros Electorales, Secretario Ejecutivo del Consejo o Secretariode (sic) los consejos distritales y municipales electorales, miembros del Instituto o del Servicio Profesional Electoral,durante (sic) los tres años posteriores al término de su encargo, no podrán ser postulados a un cargo de elección popular;
+El tribunal examinará cuidadosamente la personalidad de las partes bajo su responsabilidad; esto no obstante, el litigante tiene el derecho de impugnarla, cuando tenga razones para ello. Contra el auto en que el juez desconozca la personalidad del actor, negándose a dar curso a la demanda, procede el recurso de queja.
 
-III. No ser ministro de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección de que se trate;
+ARTICULO 32
 
-IV. No ocupar cargo de elección popular o ser funcionario o servidor público de alguno de los tres órdenes de Gobierno Federal, Estatal o Municipal, a menos que se separe de su cargo, noventa días antes del día de la elección, y
+El que no estuviere presente en el lugar del juicio, ni tuviere persona que legítimamente lo represente, será representado por el Ministerio Público, cuando a juicio del tribunal, fuere urgente la diligencia de que se trata o perjudicial la dilación. Si el Ministerio Público debiere ejercer conforme a la ley otra representación en el mismo juicio, se nombrará al ausente un representante interino.
 
-V. Ser electo de conformidad con la normatividad interna del partido que lo postule y cumplir con los requisitos establecidos en la LGIPE y la LGPP, o bien, cumplir con lo establecido en este Código en el caso de candidaturas independientes.
+ARTICULO 33
 
-###### ARTÍCULO 10.
+En el caso del artículo anterior, si se presentare por el ausente una persona que pueda comparecer en juicio, será admitida como gestor judicial.
 
-Para los efectos de los artículos 20, fracción III, 38, fracción II y 66, párrafo décimo primero, fracción III de la Constitución, nopodrá (sic) ser candidato a cargo de elección popular y ocupar el cargo de Diputado, Gobernador y miembro de un Ayuntamiento:
+ARTICULO 34
 
-I. Durante la ejecución de una pena corporal, y
+La gestión judicial es admisible para representar al actor o al demandado.
 
-II. Por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos.
+El gestor debe sujetarse a las disposiciones de los artículos relativos del Código Civil, y gozará de los derechos y facultades de un procurador.
 
-### CAPÍTULO IV. De los Observadores Electorales
+El gestor judicial, antes de ser admitido, debe dar fianza de que el interesado pasará por lo que él haga y de pagar lo juzgado y sentenciado e indemnizar los perjuicios y gastos que se causen. La fianza será calificada por el tribunal, bajo su responsabilidad.
 
-###### ARTÍCULO 11.
+El fiador del gestor judicial renunciará todos los beneficios legales, observándose en este caso lo dispuesto en el Capítulo VI, Título Decimotercero, Libro IV, del Código Civil.
 
-El Instituto desarrollará, en términos de lo dispuesto por la LGIPE y por los lineamientos y criterios que emita el INE, las actividades que se requieran para garantizar el derecho de los ciudadanos a participar como observadores en procesos electorales locales y en procesos de participación ciudadana.
+ARTICULO 35
 
-### CAPÍTULO I. Disposiciones Preliminares
+Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar unidas y bajo una misma representación. A este efecto, deben todos hacerse representar por un procurador, con las facultades necesarias para la continuación del juicio; o elegir de entre ellos mismos un representante común. Si no nombraren procurador ni hicieren la elección del representante, o no se pusieren de acuerdo con ella, el juez nombrará al representante común, escogiendo a alguno de los que hayan sido propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados. El representante común tendrá las mismas facultades que si litigare exclusivamente por su propio derecho, excepto la de transigir y comprometer en árbitros; a menos de que expresamente le fueren también concedidas por los interesados.
 
-###### ARTÍCULO 12.
+### CAPITULO II. De las actuaciones y resoluciones judiciales
 
-En las elecciones estatales, participarán los partidos políticos nacionales y locales los cuales se regirán por lo dispuesto en la CPEUM, la LGPP, la LGIPE, y en lo conducente, por lo establecido en este Código.
+ARTICULO 36
 
-La denominación de partido político nacional se reserva para los efectos de este Código, a las organizaciones políticas que obtengan su registro como tal ante el INE y su constancia de acreditación ante el Consejo.
+Las actuaciones judiciales y los ocursos deberán escribirse en idioma español. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción. Las fechas y cantidades se escribirán con letra.
 
-Los partidos políticos locales serán aquellos que obtengan su registro como tal ante el Instituto.
+ARTICULO 37
 
-Los partidos políticos constituyen entidades de interés público, que cuentan con personalidad jurídica y patrimonio propio, el cual administrarán libremente con apego a la ley. Tienen como finalidad promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de los órganos de representación estatal y municipal y hacer posible mediante el sufragio, el acceso de los ciudadanos a los cargos de elección, de acuerdo con los programas, principios e ideología que postulan.
+En las actuaciones judiciales no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin, con toda precisión, el error cometido.
 
-Los partidos políticos gozan de los derechos y prerrogativas previstas en las leyes y están sujetos a las obligaciones que se establecen en las mismas.
+ARTICULO 38
 
-###### ARTÍCULO 13.
+Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, por el funcionario público a quien corresponda dar fe o certificar el acto.
 
-El Consejo, vigilará que las actividades de los partidos políticos acreditados en el Estado, se desarrollen con apego a las leyes de la materia.
+ARTICULO 39
 
-### CAPÍTULO II. De la Acreditación de los Partidos Políticos Nacionales
+Todas las diligencias y actuaciones judiciales se practicarán públicamente, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás que, a juicio del tribunal, convenga que sean secretas.
 
-###### ARTÍCULO 14.
+ARTICULO 40
 
-Los partidos políticos nacionales deberán acreditar su calidad ante el Consejo mediante la entrega de la siguiente documentación:
+Los jueces y magistrados a quienes corresponda, recibirán por sí mismo las declaraciones y presidirán todos los actos de prueba, bajo la pena de suspensión de uno a dos meses, independientemente de otra responsabilidad que pudiera resultarles.
 
-I. Constancia de registro vigente expedida por el INE;
+ARTICULO 41
 
-II. Copia certificada por autoridad competente de su declaración de principios, programa de acción, estatutos y reglamentos internos;
+Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados auxiliares, de diez pesos; en los municipales, de veinte; en los de primera instancia, de cincuenta, y de cien pesos en el Tribunal Superior. Pueden también acudir al uso de la fuerza pública.
 
-III. Señalar domicilio legal en el Estado, y
+ARTICULO 42
 
-IV. Acreditar a través de su órgano de dirección estatal y por conducto de quien tenga su representación legal en términos de su normatividad interna, a los representantes del partido ante el Consejo y demás órganos del Instituto, quienes deberán ser vecinos del Estado.
+Se entenderá corrección disciplinaria:
 
-Para que los partidos políticos nacionales participen en el proceso electoral local, deberán presentar la documentación, a más tardar, el día quince de septiembre del año previo al de la elección, de no hacerlo se aplicará amonestación pública y se otorgará un plazo de setenta y dos horas contadas a partir de que sea notificada la determinación respectiva para que se subsane la omisión. De no cumplirse con el requerimiento de referencia, perderán su derecho a participar en el proceso electoral, así como a las prerrogativas y derechos relativos al proceso de que se trate.
+I.- El apercibimiento o amonestación;
 
-###### ARTÍCULO 15.
+II.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia, y
 
-En ningún caso podrá participar en elecciones ordinarias o extraordinarias el partido político que hubiere perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido que hubiese perdido su registro, siempre y cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
+III.- La suspensión que no exceda de un mes.
 
-### CAPÍTULO III. De la Pérdida de Registro de los Partidos Políticos Nacionales y de su Acreditación en el Estado
+ARTICULO 43
 
-###### ARTÍCULO 16.
+Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia, sin substanciación especial, y se citará para la audiencia dentro del tercer día, en la que se resolverá, sin más recurso que el de responsabilidad.
 
-Los partidos políticos nacionales que pierdan su registro por no haber alcanzado el porcentaje mínimo de votación en el último proceso ordinario federal, en términos del párrafo 5 del artículo 95 de la LGPP, podrán optar por registrarse como partido político local en el Estado, siempre y cuando en la elección inmediata anterior de Gobernador, de diputados, o de ayuntamientos indistintamente, hubieren obtenido por lo menos el 3% de la Votación Válida Emitida y hubieren postulado candidatos propios en al menos la mitad de los municipios y distritos, condición con la cual se le tendrá por cumplido y acreditado el requisito del número mínimo de militantes con que debe contar, establecido en el artículo10,párrafo2, (sic) inciso c), de la LGPP, y en lo conducente por este Código.
+ARTICULO 44
 
-El partido político nacional que se encuentre en el supuesto establecido en el párrafo anterior, deberá informar tal propósito al Consejo en el mes de enero del año siguiente del proceso ordinario federal. El Consejo dentro de los sesenta días naturales siguientes a la solicitud, resolverá sobre el fondo de la petición, comunicándola al Consejo General.
+Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren inhábiles.
 
-A partir del momento del aviso a que se refiere el párrafo anterior, hasta la resolución sobre la procedencia del registro, la organización informará mensualmente al Instituto sobre el origen y destino de sus recursos, dentro de los primeros diez días de cada mes.
+Se entienden horas hábiles, las que median desde la salida a la puesta del sol. En los juicios sobre alimentos, impedimento de matrimonio, servidumbres legales, posesión, cuestiones familiares y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos el juez puede habilitar los días y horas inhábiles, para actuar, o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
-En caso de no hacer uso del derecho establecido en el párrafo primero de este artículo, o no reúna los requisitos señalados en el citado párrafo primero, perderán su acreditación en el Estado, una vez que obren en el Consejo las constancias correspondientes, y en consecuencia también perderán sus prerrogativas y derechos estatales.
+ARTICULO 45
 
-El Consejo, emitirá el acuerdo de pérdida de la acreditación estatal, en términos de lo establecido en el presente Código.
+Cuando lo pidan las partes, las copias simples de los documentos que presenten, confrontadas y autorizadas por el secretario o por un notario, correrán en los autos, quedando los originales bajo la guarda del tribunal y pudiendo verlos la parte contraria, cuando lo solicite.
 
-###### ARTÍCULO 17.
+Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-La pérdida del registro de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones según los principios de mayoría relativa y representación proporcional.
+ARTICULO 46
 
-###### ARTÍCULO 18.
+El secretario hará constar el día y hora en que se presente un escrito y si éste contiene o no la firma del patrono, e inmediatamente dará cuenta con él, bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
 
-La pérdida de la acreditación o registro estatal traerá como consecuencia, adicional y directa a la cancelación de los derechos y prerrogativas estatales, que la totalidad de los activos que el partido político haya adquirido a través de las prerrogativas estatales recibidas el tiempo que mantuvo su acreditación, pasen a propiedad del Instituto, sujetándose a lo que disponga el Consejo, con base en sus facultades.
+ARTICULO 47
 
-###### ARTÍCULO 19.
+Los secretarios cuidarán de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
-En el caso de la pérdida de registro o de la acreditación estatal de un partido político, el Consejo dispondrá lo necesario para que sean adjudicados al Instituto los recursos y bienes remanentes obtenidos con el financiamiento público estatal en los términos del artículo anterior; para tal efecto se estará a lo siguiente, y a lo que determine en reglas de carácter general el propio Consejo:
+ARTICULO 48
 
-I. Una vez declarada por el Consejo la pérdida de la acreditación o registro estatal, el mismo designará de inmediato a un interventor responsable del control directo y vigilancia directa del uso y destino de los recursos y bienes del partido de que se trate;
+El promovente de diligencias de jurisdicción voluntaria, así como los litigantes, de común acuerdo, podrán designar un notario que desempeñe las funciones que este Código asigna al secretario. En las testamentarías o intestados, la designación podrá hacerse por el albacea.
 
-II. La designación del interventor será notificada de inmediato, por conducto de su representante ante el Consejo, al partido de que se trate, en ausencia del mismo la notificación se hará en el domicilio social del partido afectado, o en caso extremo por estrados, y
+ARTICULO 49
 
-III. A partir de su designación el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político obtenidos con financiamiento público estatal, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles adquiridos por el partido político con financiamiento público estatal.
+Sólo se entregarán los autos a las partes para formar o glosar cuentas y para que tomen apuntes, antes de alegar; o cuando de común acuerdo lo pidieren. Los autos y copias en su caso, se entregarán por el secretario directamente a las partes, por medio del conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
-###### ARTÍCULO 20.
+ARTICULO 50
 
-El interventor designado deberá:
+Los autos que se perdieren, serán repuestos a costa del que fue responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
-I. Emitir aviso de liquidación del Partido Político de que se trate, mismo que deberá publicarse en el Periódico Oficial del Estado;
+La reposición se substanciará incidentalmente; y sin necesidad de acuerdo judicial, el secretario hará constar desde luego la existencia anterior y la falta posterior del expediente.
 
-II. Determinar las obligaciones laborales, fiscales, con proveedores o acreedores, a cargo del partido político en liquidación;
+Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
-III. Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere la fracción anterior;
+ARTICULO 51
 
-IV. Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
+Para sacar copia o testimonio de cualquier documento de los archivos o protocolos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte; y si no la hay, con la del Ministerio Público, procediéndose incidentalmente en caso de oposición.
 
-V. Formular un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
+ARTICULO 52
 
-VI. Si realizado lo anterior quedasen bienes, los mismos serán adjudicados íntegramente al Instituto, el cual determinará el destino final a favor del Sistema para el Desarrollo Integral de la Familia del Estado y de los Municipios, y
+Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de substanciación alguna; y en su caso, consignarán el hecho al Agente del Ministerio Público, para que se apliquen las sanciones del Código Penal. Cuando los incidentes o recursos se refieran a puntos de mero derecho, los admitirán o desecharán también de plano, según proceda.
 
-VII. En todo tiempo deberá garantizarse al partido político de que se trate, el ejercicio de las garantías que la CPEUM y las leyes establecen para estos casos. Los acuerdos del Consejo serán impugnables ante el Tribunal.
+ARTICULO 53
 
-### CAPÍTULO IV. De los Partidos Políticos Locales
+Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-###### ARTÍCULO 21.
+I.- La multa desde cinco hasta cien pesos, que se duplicará en caso de reincidencia;
 
-La constitución de partidos políticos locales, así como plazos y requisitos para su registro; derechos y obligaciones de sus militantes; lineamientos para la integración de sus órganos directivos; contenido mínimo de sus documentos básicos y en general, todo aspecto relacionado con su funcionamiento, se regirá por lo dispuesto en la LGPP y en lo conducente, por este Código.
+II.- El auxilio de la fuerza pública;
 
-## TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS
+III.- El cateo por orden escrita; y
 
-### CAPÍTULO V. De los Derechos y Obligaciones de los Partidos Políticos
+IV.- La privación de libertad hasta por quince días.
 
-###### ARTÍCULO 22.
+Si el caso exige mayor sanción se dará parte a la autoridad competente.
 
-Son derechos y obligaciones de los partidos políticos acreditados o registrados ante el Consejo, los establecidos en el Capítulo III del Título Segundo de la LGPP, la LGIPE, y en lo conducente, por este Código.
+ARTICULO 54
 
-###### ARTÍCULO 23.
+La parte que haya dado lugar a la nulidad de actuaciones, no podrá invocarla.
 
-No podrán actuar como representantes de los partidos políticos y candidatos independientes ante los órganos del Instituto, quienes desempeñen la función de:
+La nulidad establecida en beneficio de una de las partes no puede ser invocada por la otra.
 
-I. Juez, magistrado o ministro del Poder Judicial Federal;
+ARTICULO 55
 
-II. Juez o magistrado del Poder Judicial del Estado;
+Las notificaciones hechas en forma distinta a la prevenida en el Capítulo V del Título Segundo, serán nulas; pero si la persona notificada se hubiere manifestado en juicio sabedora de la providencia, la notificación surtirá desde entonces sus efectos, como si estuviere legítimamente hecha.
 
-III. Magistrado electoral o secretario del Tribunal Electoral del Poder Judicial de la Federación;
+La nulidad de una actuación debe de reclamarse en la actuación subsecuente en que haya intervenido el interesado en solicitar la nulidad, pues de lo contrario, aquélla queda revalidada de pleno derecho; con excepción de la nulidad por defecto en el emplazamiento.
 
-IV. Magistrado electoral o secretario del Tribunal;
+La tramitación de los incidentes de nulidad no suspenderá el curso de los juicios.
 
-V. Miembro en servicio activo de cualquier fuerza armada o policial, y
+ARTICULO 56
 
-VI. Agente del Ministerio Público federal o local.
+Las resoluciones judiciales son:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+I.- Sentencias, cuando deciden el asunto principal controvertido;
 
-###### ARTÍCULO 24.
+II.- Autos, cuando entrañan un mandamiento de pago, de entrega, de hacer o de no hacer, cuando deciden sobre personalidad, competencia o cualquiera otra excepción dilatoria, procedencia de demanda, reconvención, compensación, denegación de pruebas y todas las que resuelvan un incidente, y
 
-Los partidos políticos, podrán solicitar al Consejo, se apliquen sanciones respecto a hechos o actividades de otros partidos políticos, candidatos, coaliciones, candidaturas comunes, asociaciones políticas o candidatos independientes.
+III.- Decretos, todas las demás no comprendidas en las anteriores.
 
-El procedimiento para la aplicación de sanciones a los partidos políticos será en términos de lo establecido en el Libro Octavo de la LGIPE y en lo conducente en el Libro Cuarto de este Código.
+Todas las resoluciones serán autorizadas con la firma entera de los magistrados, jueces o secretarios que intervengan.
 
-En el supuesto que del procedimiento realizado se adviertan hechos punibles, se hará del conocimiento del Ministerio Público.
+ARTICULO 57
 
-###### ARTÍCULO 25.
+Las sentencias deben ser claras, precisas y congruentes con la demanda y la contestación y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se dará la resolución correspondiente a cada uno de ellos.
 
-Son obligaciones de los partidos políticos en el Estado, además de las establecidas en el artículo 25 de la LGPP, las siguientes:
+Las sentencias deben expresar el lugar, fecha y juez o tribunal que las pronuncie; los nombres de las partes contendientes, el carácter con que litiguen y el objeto del pleito.
 
-I. Contar con domicilio social dentro del Estado para sus órganos directivos;
+No son necesarias las antiguas fórmulas de las sentencias y basta con que el juez apoye sus puntos resolutivos en preceptos legales o principios jurídicos, de acuerdo con el artículo 14 constitucional.
 
-II. Mantener en funciones, por lo menos un centro de formación política;
+Los jueces o tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
-III. Cuando se deleguen por el INE las facultades de fiscalización previstas en el artículo 41 de la CPEUM y en la LGPP, permitir la práctica de auditorías y verificaciones por los órganos del Instituto facultados para ello, así como entregar la documentación que dichos órganos les requieran respecto a sus ingresos y egresos;
+ARTICULO 58
 
-IV. Utilizar las prerrogativas y aplicar los ingresos del financiamiento público estatal y del que no provenga del erario público, exclusivamente para el sostenimiento de sus actividades ordinarias y de campaña en el Estado. En el caso de bienes muebles de consumo duradero y de inmuebles, en la factura y escritura pública respectivamente, deberá hacerse constar que dichos bienes fueron adquiridos con recursos públicos provenientes del erario público estatal o en su caso, en la proporcionalidad que corresponda, quedando dichos bienes afectos a las disposiciones que la LGPP y el presente Código establecen;
+Los tribunales no podrán variar ni modificar sus sentencias después de firmadas; pero sí aclarar algún concepto, o suplir cualquiera omisión que contengan sobre puntos discutidos en el litigio.
 
-V. La pérdida de registro y acreditación de la calidad de partido político, no exime a sus dirigentes y responsables del órgano de administración, finanzas o su equivalente, de las obligaciones que se deriven del presente Código y de las responsabilidades relativas al uso de los recursos del financiamiento público otorgado al partido político;
+Estas declaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, presentada dentro del día siguiente al de la notificación.
 
-VI. Presentar un informe anual al Consejo que contenga una relación de sus activos y recursos, y
+En este último caso, el juez o tribunal, resolverá lo que estime procedente, dentro del día siguiente al de la presentación del escrito en que se solicita la aclaración.
 
-VII. Las demás que establezca este Código.
+ARTICULO 59
 
-###### ARTÍCULO 26.
+Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará su importe en cantidad líquida, o se establecerán, por lo menos, las bases con arreglo a las cuales deba hacerse la liquidación.
 
-Los partidos políticos, precandidatos y candidatos, dentro del periodo de las precampañas y campañas políticas y hasta inclusive la jornada electoral, no podrán utilizar o publicitar la obra pública de gobierno, la imagen personal de quienes son titulares de los poderes ejecutivos Federal y Estatal y presidentes municipales, recursos, servicios e influencias de servidores públicos que sean emanados de las filas del partido político o que se demuestre que tenga relación con el mismo; para tal efecto, el Consejo, previa comprobación de los hechos, ordenará el retiro o suspensión de las acciones que contravengan esta disposición y dará vista a la autoridad competente.
+Sólo en el caso de no ser posible lo uno ni lo otro, se hará la condena, a reserva de fijar su importancia y hacerla efectiva en la ejecución de la sentencia.
 
-###### ARTÍCULO 27.
+ARTICULO 60
 
-Ser candidato, dirigente o representante de un partido político, no exime de las responsabilidades jurídicas o de cualquier otra índole que se generen por las conductas realizadas en el ejercicio de sus funciones o actividades.
+Los puntos resolutivos de las sentencias se dictarán en la misma audiencia de alegatos, debiéndose engrosar dentro de los cinco días siguientes. Sólo cuando hubiere necesidad de que el tribunal examine documentos que en conjunto pasen de cien fojas, podrá disponer de ocho días para resolver en forma.
 
-### CAPÍTULO VI. De las Obligaciones de los Partidos Políticos en Materia de Transparencia
+ARTICULO 61
 
-###### ARTÍCULO 28.
+Los decretos y autos deben ser dictados inmediatamente después del último trámite, o de la promoción respectiva; y sólo podrá disponerse de veinticuatro horas para los decretos y de tres días para los autos.
 
-Toda persona tiene derecho a acceder a la información de los partidos políticos de manera directa, conforme a las normas previstas en la LGPP y en la legislación en materia de transparencia y acceso a la información.
+### CAPITULO III. De la presentación de documentos
 
-## TÍTULO CUARTO. DEL FINANCIAMIENTO Y OTRAS PRERROGATIVAS DE LOS PARTIDOS POLÍTICOS
+ARTICULO 62
 
-### CAPÍTULO VII. De los Asuntos Internos de los Partidos Políticos
+A toda demanda o contestación deberá acompañarse necesariamente:
 
-###### ARTÍCULO 29.
+I.- El poder que acredite la personalidad del que comparece en nombre de otro;
 
-Las autoridades electorales locales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que expresamente señale la normatividad en la materia.
+II.- El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona;
 
-Los asuntos internos de los partidos políticos se regularán de conformidad a lo establecido por el Título Tercero de la LGPP.
+III.- Una copia en papel común del escrito cuando haya de correrse traslado al colitigante. Los documentos quedarán en la secretaría para que se instruyan las partes.
 
-### CAPÍTULO I. Disposiciones Generales
+ARTICULO 63
 
-###### ARTÍCULO 30.
+También deberá acompañarse a toda demanda, contestación o réplica, el documento o documentos en que la parte interesada funde su derecho.
 
-El régimen de financiamiento de los partidos políticos acreditados en el Estado tendrá las siguientes modalidades:
+Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales.
 
-I. Financiamiento público, y
+Se entenderá que el actor tiene a su disposición los documentos y deberá acompañarlos precisamente a la demanda, siempre que existan los originales en un protocolo o archivo público del que pueda pedir y obtener copias autorizadas de ellos.
 
-II. Financiamiento privado.
+ARTICULO 64
 
-El financiamiento público prevalecerá sobre los otros tipos de financiamiento.
+La presentación de documentos de que habla el artículo anterior, cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto, si hasta la audiencia respectiva no se presentare una copia del documento con los requisitos necesarios para que haga fe en juicio. Esa copia simple no motivará ejecución previa.
 
-Son prerrogativas de los partidos políticos en el Estado:
+ARTICULO 65
 
-I. Tener acceso a la radio y televisión en los términos de la CPEUM y la LGIPE;
+Después de la demanda y la contestación, no se admitirá la presentación de documentos a ninguna de las partes, salvo que se encuentren en alguna de las siguientes circunstancias:
 
-II. Participar, en los términos de este Código, del financiamiento público estatal;
+I.- Que sean de fecha posterior a aquellos escritos;
 
-III. Gozar de las prerrogativas del régimen fiscal que se establecen en la LGPP, en este Código y en las leyes de la materia;
+II.- Que siendo anteriores, proteste la parte que los presente que no tuvo conocimiento de su existencia;
 
-IV. Usar las franquicias postales que sean necesarias para el cumplimiento de sus funciones, en términos de la LGPP, y
+III.- Que no haya sido posible adquirirlos con anterioridad por causas no imputables a la parte interesada, y siempre que ésta haya hecho oportunamente la designación prescrita por el artículo 63.
 
-V. Las demás que se deriven de la CPEUM, la Constitución, la LGIPE, la LGPP y del presente Código.
+No se admitirá documento alguno después de la celebración de la audiencia de alegatos. El juez repelerá de oficio los que se presenten, mandando devolverlos a la parte, sin ulterior recurso. Esto se entenderá, sin perjuicio de la facultad que tienen los tribunales para investigar la verdad, de acuerdo con las reglas generales de prueba.
 
-### CAPÍTULO II. Del Financiamiento Público Estatal de los Partidos Políticos
+De todo documento que se presente después de la audiencia de pruebas, se dará traslado a la otra parte, para que dentro del segundo día manifieste lo que a su derecho convenga.
 
-###### ARTÍCULO 31.
+ARTICULO 66
 
-Para que un partido político cuente con recursos públicos locales deberá haber obtenido el 3% de la Votación Válida Emitida en la elección de Gobernador, de diputados o de ayuntamientos indistintamente, del proceso electoral local anterior.
+Las copias de los escritos se entregarán a la parte, o partes contrarias al notificarles la providencia que haya recaído al escrito respectivo, o al hacerles el emplazamiento que proceda.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 67
 
-Los partidos políticos nacionales con registro local que no hubiesen obtenido al menos el 3% por ciento del total de la votación valida en la elección de Gobernador, de diputados o de ayuntamientos indistintamente, del proceso electoral anterior, solo tendrán derecho a recibir el financiamiento correspondiente a sus gastos de campaña durante los procesos electorales que participen.
+La omisión de las copias no será motivo para dejar de admitir los escritos que se presenten en tiempo oportuno. En este caso, el juez señalará sin ulterior recurso, un término que no exceda de tres días, para exhibir las copias, y si no se presentasen en dicho plazo, las mandará hacer por el secretario a costa de la parte que las omitió.
 
-###### ARTÍCULO 32.
+Se exceptúan de esta disposición, los escritos de demanda principal o incidental y en los que se pidan liquidaciones, que no serán admitidos si no se acompañan de las copias correspondientes.
 
-El Presidente del Consejo someterá el proyecto de presupuesto para el financiamiento público estatal anual al Consejo, para su aprobación en el mes de agosto de cada año.
+### CAPITULO IV. De los exhortos y oficios
 
-Previa aprobación del Consejo, el Presidente de ese órgano, a más tardar en (sic) el veinte de septiembre lo enviará al Poder Ejecutivo para que lo integre al Proyecto de Presupuesto de Egresos del Estado, con copia para el Congreso del Estado a efecto de su análisis, discusión y aprobación.
+ARTICULO 68
 
-En el caso de los candidatos independientes, los procedimientos se apegarán a lo dispuesto en el Libro Sexto de este Código.
+Los exhortos y oficios exhortatorios que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los tres días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo.
 
-###### ARTÍCULO 33.
+ARTICULO 69
 
-Los partidos políticos tendrán derecho al financiamiento público para el sostenimiento de actividades ordinarias permanentes, independientemente de las demás prerrogativas otorgadas en la LGPP y en este Código, conforme a las disposiciones siguientes:
+Las diligencias que no puedan practicarse en el Distrito en que se siga el juicio, deberán encomendarse precisamente al juez de aquél en que han de ejecutarse.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+También puede un tribunal, aunque una diligencia deba practicarse dentro de su propia jurisdicción, encomendarla a otro de inferior categoría, si por razón de la distancia u otro motivo poderoso fuere más conveniente que éste la practique.
 
-I. El Consejo determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado, a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del Valor Diario de la Unidad de Medida y Actualización;
+En este último caso, se empleará el oficio.
 
-II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes;
+ARTICULO 70
 
-III. El financiamiento público estatal, se dividirá en dos porciones: la primera porción del 40%, se destinará al fortalecimiento del sistema de partidos acreditados en el Estado, y se distribuirá conforme a la fracción IV del presente artículo; y la segunda porción del 60% a distribuirse según el criterio de estricta proporcionalidad a las votaciones obtenidas por cada partido político conforme a la fracción V de este articulo;
+En los oficios y exhortos, no se requiere la legalización de las firmas del tribunal que los expida, a menos que lo exija la ley de la jurisdicción del tribunal requerido, como requisito para obsequiarlos.
 
-IV. La primera porción del 40% se destinará a su operación normal en el Estado, y se distribuirá en forma igualitaria a los partidos políticos que hubieran alcanzado el 3% del total de la Votación Valida Emitida en el Estado en la elección de Gobernador, de diputados o de ayuntamientos indistintamente, del proceso electoral local anterior;
+Para que los exhortos de los tribunales de los Estados o del Distrito y Territorios Federales sean diligenciados por los de Veracruz, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
 
-V. La segunda porción del 60% del financiamiento, será entregada a los partidos políticos acreditados, de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior;
+ARTICULO 71
 
-VI. La asignación que corresponda a cada partido por estricta proporcionalidad, a la que se refiere la fracción anterior, se calculará obteniendo el porcentaje que corresponda de los votos recibidos por cada partido con derecho al financiamiento, en las elecciones inmediatas anteriores de diputados locales de mayoría relativa;
+Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
 
-VII. El financiamiento público que corresponda a cada partido político, para su operación normal, será entregado prorrateado en ministraciones mensuales a quien así lo determine la dirigencia estatal, conforme al calendario presupuestal que el Consejo apruebe anualmente. Los partidos políticos deberán contar con un órgano estatal interno encargado de la administración de sus recursos para el gasto ordinario y de campaña;
+ARTICULO 72
 
-VIII. La omisión en la entrega de los informes anuales de origen y monto de los ingresos totales y gastos ordinarios por un partido político dentro de los sesenta días señalados en este Código, suspenderá la entrega del financiamiento público que para gasto ordinario le corresponda, a partir del mes de abril, y
+Pueden los tribunales acordar que los exhortos y oficios que manden expedir, se entreguen, para hacerlos llegar a su destino y diligenciarlos en su caso, a la parte interesada que hubiere solicitado la expedición de los mismos, la cual los devolverá diligenciados, a no ser que el tribunal requerido los envíe directamente al tribunal exhortado.
 
-IX. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección o aquéllos que habiendo conservado su registro legal no cuenten con representación en el Congreso del Estado, se les asignará el financiamiento público que para el sostenimiento de actividades ordinarias permanentes establece la formula contenida en el artículo 51, párrafo 2, inciso a) de la LGPP, misma que se aplicará en lo conducente.
+### CAPITULO V. De las notificaciones
 
-Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el dos por ciento del financiamiento público ordinario que se le haya asignado.
+ARTICULO 73
 
-###### ARTÍCULO 34.
+Las notificaciones, requerimientos, entrega de expedientes o emplazamientos, se efectuarán a más tardar el día siguiente a aquel en que se dicten las resoluciones que los prevengan, siempre que en éstas el juez o tribunal no dispusieren otra cosa. A los infractores de esta disposición se les impondrá de plano una multa que no exceda de veinticinco pesos.
 
-Los partidos políticos tendrán derecho al financiamiento público para gastos de campaña.
+ARTICULO 74
 
-En año de elecciones locales para el financiamiento de los gastos de campaña, se otorgará adicionalmente un monto de:
+Las notificaciones podrán ser:
 
-I. En el año de la elección en que se renueven el Poder Ejecutivo, el Congreso del Estado y los ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+I.- Personales;
 
-II. En el año de la elección en que se renueve solamente el Congreso del Estado y los ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+II.- Por lista de acuerdos;
 
-III. El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas, y
+III.- Por edictos;
 
-IV. Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección o aquéllos que habiendo conservado su registro legal no cuenten con representación en el Congreso del Estado, se les asignará el financiamiento público que para gastos de campaña establece la formula contenida en el artículo 51, párrafo 2, inciso a) de la LGPP, misma que se aplicará en lo conducente.
+IV.- Por correo; y
 
-Los partidos políticos que no registren candidatos en por lo menos 7 municipios para renovar los ayuntamientos y 14 distritos uninominales en la elección de diputados, no les será ministrado el financiamiento para gastos de campaña, y en caso de que se les haya asignado y entregado una parte o el total de éste, se les deducirá del monto del financiamiento público para actividades ordinarias permanentes que esté pendiente de entregar.
+V.- Por telégrafo.
 
-###### ARTÍCULO 35.
+Las diversas formas de notificación se ajustarán a las reglas que se establecen en los artículos siguientes.
 
-Los partidos políticos como entidades de interés público, tendrán derecho al financiamiento público para actividades específicas que serán: la educación y capacitación política, la investigación socioeconómica y política, así como las tareas editoriales. Este financiamiento público equivaldrá al 3% del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior.
+ARTICULO 75
 
-Los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección o aquéllos que habiendo conservado su registro legal no cuenten con representación en el Congreso del Estado, se les asignará el financiamiento público que para actividades específicas establece la formula contenida en el artículo 51, párrafo 2, inciso b) de la LGPP, misma que se aplicará en lo conducente.
+Todos los litigantes en su primer escrito o en la primera diligencia judicial en que intervengan, deben designar casa ubicada en el lugar del juicio, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias; y en tal casa se harán válidamente, mientras el interesado no designe otra en el mismo lugar del juicio. También harán esa designación, al notificárseles la determinación relativa, para el nuevo lugar a donde por cualquier motivo se mande pasar el negocio, en cuyo caso se hará saber a los interesados el nombre del tribunal y del funcionario o funcionarios de la nueva adscripción. Igualmente, deben designar la casa en que haya de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando la función de fiscalización sea delegada al Instituto, a través de la Contraloría Interna, vigilará que los recursos de los partidos políticos se destinen al financiamiento de las actividades señaladas en el presente artículo, de existir violaciones dará cuenta al órgano técnico del INE, para los efectos legales a que haya lugar.
+Si no cumplen con las dos primeras prevenciones del párrafo anterior, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se harán por lista de acuerdos, en los términos del artículo 79. Si no cumplen con la última prevención, no se hará notificación alguna a la persona contra quien se promueva, hasta que se subsane la omisión.
 
-Las cantidades que para actividades específicas se determinen para cada partido político, serán entregadas en una sola ministración conforme al calendario presupuestal que apruebe el Consejo.
+ARTICULO 76
 
-###### ARTÍCULO 36.
+La primera notificación se hará personalmente al interesado o interesados, por el juez, secretario, actuario, conserje o persona designada, y no encontrándose al que deba ser notificado o si está cerrada la casa, después de cerciorarse el notificador de que ahí vive, se le dejará instructivo, en el que se harán constar el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar, la fecha y la hora en que se deja y el nombre y apellido de la persona a quien se entrega. En los casos de emplazamiento, se dejarán también las copias simples correspondientes. La notificación se entenderá con la persona que se halle en la casa, y si se negare a intervenir o está cerrada esta última, con el vecino más inmediato o con el gendarme de punto.
 
-En el caso de que un partido político pierda su registro, y no opere el supuesto establecido en el artículo 16 de este Código, se suspenderá de inmediato su financiamiento.
+ARTICULO 77
 
-En el caso de que el partido político interponga los recursos que previenen las leyes en su defensa, sus ministraciones serán resguardadas por el Instituto y una vez que se emita la resolución del órgano jurisdiccional correspondiente, en caso de ser favorable al partido político, se le hará entrega de las cantidades retenidas. En caso de que la resolución ejecutoria declare la pérdida del registro del partido político y su acreditación como tal en el Estado, las cantidades se reintegrarán a la parte de financiamiento de partidos políticos, distribuyéndose en la forma establecida en los términos señalados en este Capítulo.
+Cuando se trate de requerimientos, no encontrándose a la primera busca la persona a quien deba hacerse, se le dejará aviso para que espere al siguiente día a hora determinada, y si no espera se practicará la diligencia con las personas que se mencionan en el artículo anterior.
 
-### CAPÍTULO III. Del Financiamiento Privado
+La segunda y ulteriores notificaciones se harán personalmente por el secretario o juez a los interesados o procuradores si concurren al tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones que hayan de practicarse o al día siguiente.
 
-###### ARTÍCULO 37.
+ARTICULO 78
 
-Además de lo establecido en el Capítulo que antecede, los partidos políticos podrán recibirf inanciamiento (sic) que no provenga del erario público, con las modalidades siguientes:
+Si las partes o procuradores no concurren al tribunal o juzgado como se previene en el artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución, siempre que se haya publicado el acuerdo respectivo en la puerta del tribunal o en su tabla de avisos, y en la propia fecha del acuerdo; si no se hubiere hecho la publicación, los términos se contarán desde que ésta se haga.
 
-I. Financiamiento por la militancia;
+ARTICULO 79
 
-II. Financiamiento de simpatizantes;
+Es obligación de los jueces, secretarios y demás empleados a quienes la ley encomiende hacer notificaciones, publicar todos los días, antes de las trece horas, en la puerta de sus oficinas o en las tablas de avisos, la lista numerada de los negocios acordados o resueltos, designándose en ella solamente los nombres y apellidos de los interesados y la naturaleza del procedimiento judicial. La lista se hará por triplicado, para que uno de los ejemplares se guarde en el archivo de la oficina para resolver cualquiera duda que se suscite, irá autorizada con el sello y la firma del juez o magistrado en todo caso, y no contendrá entrerrenglonados ni repetición de números. En esa lista no se inscribirán las resoluciones judiciales que tengan por objeto el depósito de personas, el requerimiento de pago, los embargos precautorios, el aseguramiento de bienes u otras diligencias semejantes de carácter reservado a juicio del juez.
 
-III. Autofinanciamiento, y
+ARTICULO 80
 
-IV. Financiamiento por rendimientos financieros, fondos y fideicomisos.
+Si se probare que no se hizo la notificación personalmente, compareciendo la parte al tribunal con ese objeto, será responsable el secretario o la persona que debió hacer aquélla, de los daños y perjuicios, y se le impondrá además, una multa de diez a treinta pesos, sin perjuicio de otras penas que merezca conforme al Código Penal.
 
-###### ARTÍCULO 38.
+ARTICULO 81
 
-El financiamiento privado en sus distintas modalidades se regirá por lo establecido en el Capítulo II del Título Quinto de la LGPP y en este Código, pero en todo caso no deberá exceder el monto anual de:
+Se notificarán personalmente los emplazamientos para contestar una demanda, para posiciones o reconocimiento de firmas y documentos, libros o papeles y cuando se haga saber el envío de los autos a otro tribunal, así como cuando en el juicio se haya dejado de actuar por seis meses consecutivos.
 
-I. Para el caso de las aportaciones de militantes, el dos por ciento del financiamiento público otorgado a la totalidad de los partidos políticos para el sostenimiento de sus actividades ordinarias y precampañas en el año de que se trate;
+ARTICULO 82
 
-II. Para el caso de las aportaciones de candidatos, así como de simpatizantes durante los procesos electorales, el diez por ciento del tope de gasto para la elección de Gobernador inmediata anterior, para ser utilizadas en las campañas de sus candidatos;
+Cuando se ignore el lugar y habitación donde resida la persona que deba ser emplazada o notificada, se le hará la primera notificación por medio de edictos, publicados por dos veces en la "Gaceta Oficial" y en algún otro periódico de mayor circulación, a juicio del juez, sin perjuicio de observarse las disposiciones del Código Civil en materia de ausencia. La notificación hecha por medio de los periódicos, surtirá sus efectos a los diez días contados desde el siguiente al de la última publicación. Si el aludido no compareciere, se le harán las demás notificaciones en los términos del artículo 78 de este Código.
 
-III. Cada partido político, a través del órgano previsto en el artículo 43 inciso c) de la LGPP, determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de sus militantes, así como de las aportaciones voluntarias y personales que los precandidatos y candidatos aporten exclusivamente para sus precampañas y campañas, y
+ARTICULO 83
 
-IV. Las aportaciones de simpatizantes tendrán como límite individual anual el 0.5 por ciento del tope de gasto para la elección de gobernador inmediata anterior.
+Cuando el demandado resida en el extranjero, se ampliará el término del emplazamiento a todo el que el juez considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.
 
-Los partidos políticos deberán expedir recibos a los aportantes, en términos de lo dispuesto por el artículo 56, párrafo 3 de la LGPP.
+ARTICULO 84
 
-###### ARTÍCULO 39.
+Deben firmar las notificaciones las personas que las hacen y aquellas a quienes se hagan. Si éstas no quisieren o no supieren firmar, lo hará el secretario o quien haga sus veces, haciendo constar esta circunstancia.
 
-El financiamiento general de los partidos políticos y para sus campañas que provenga de la militancia estará conformado por las cuotas obligatorias ordinarias y extraordinarias.
+ARTICULO 85
 
-###### ARTÍCULO 40.
+En los casos de notificación por lista de acuerdos, se pondrá en los autos razón del número y la fecha con que se haya listado el acuerdo respectivo, así como también del momento en que surta todos sus efectos la notificación.
 
-El financiamiento de simpatizantes estará conformado por las aportaciones hechas a los partidos políticos, en forma libre y voluntaria por las personas físicas con residencia en el país, en la forma y términos que establece el Capítulo II del Título Quinto de la LGPP y en este Código.
+ARTICULO 86
 
-Las aportaciones de particulares que reciba cada partido político o asociación política deberán ser realizadas solo por personas físicas debidamente identificadas, y deberán constar en los archivos de los partidos políticos y asociaciones políticas, así como en los expedientes contables, copia de la documentación que acredite nombre y domicilio de cada aportante.
+Cuando haya de notificarse a una persona residente en otro lugar, comprendido en la jurisdicción del juez que la mande hacer, la notificación se hará por medio de oficio a la autoridad judicial correspondiente, para que ésta haga la notificación en los términos de ley.
 
-###### ARTÍCULO 41.
+ARTICULO 87
 
-El autofinanciamiento estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, rifas y sorteos, eventos culturales, ventas editoriales, de bienes y de propaganda utilitaria así como cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza.
+Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán los nombres y apellidos completos de los nuevos funcionarios.
 
-Cada partido político deberá presentar mensualmente al Consejo, el listado de eventos, obras y actividades que se habrán de realizar como mecanismo de autofinanciamiento, debiéndose acompañar el documento en que conste la autorización del órgano facultado para ello.
+ARTICULO 88
 
-Para efectos de este Código, el órgano responsable de la administración del patrimonio y recursos financieros de cada partido político, reportará los ingresos obtenidos por estas actividades en los informes respectivos.
+Cuando se trate de notificar a peritos, terceros que sirvan de testigos y personas que no sean parte en el juicio, se puede hacer personalmente o por instructivo en sobre cerrado y sellado, conteniendo la determinación del tribunal que mande practicar la diligencia. Estos sobres pueden entregarse por conducto de la policía, de las partes mismas o de los notificadores, recogiéndose la firma del notificado en el mismo sobre, que será devuelto para agregarse a los autos. Las mismas personas pueden ser notificadas también por correo certificado, con acuse de recibo o por telégrafo, en ambos casos, a costa del promovente. Cuando se haga por telegrama se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá, con el correspondiente recibo o sellado, uno de los ejemplares que se agregará al expediente.
 
-###### ARTÍCULO 42.
+ARTICULO 89
 
-Los partidos políticos deberán establecer en instituciones bancarias domiciliadas en México cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos a fin de obtener rendimientos financieros; sujetos a las siguientes reglas:
+También podrán hacerse notificaciones a los abogados de las partes, cuando en autos hayan sido facultados al efecto por sus clientes. La facultad de oír notificaciones autoriza al abogado para promover en contestación de las mismas lo que no perjudique a su cliente, y para alegar o presentar alegatos.
 
-I. Deberán informar al Instituto de la apertura de la cuenta, fondo o fideicomiso respectivo, a más tardar dentro de los cinco días siguientes a la firma del contrato respectivo, acompañando copia fiel del mismo, expedida por la institución de banca privada con la que haya sido establecido;
+ARTICULO 90
 
-II. Las cuentas, fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, pero solo podrán hacerlo en instrumentos de deuda emitidos por el gobierno mexicano en moneda nacional y a un plazo no mayor de un año;
+El incidente de nulidad que se promueva por defecto en las notificaciones, se substanciará ante el mismo juez o magistrado que conozca del negocio. Si la parte contraria estuviere conforme, se declarará desde luego la nulidad de lo actuado desde la notificación hecha indebidamente. Si no estuviere conforme, se convocará a una audiencia que tendrá verificativo a más tardar dentro de cinco días, en la que los interesados pueden presentar las pruebas que tuvieren. En la misma audiencia se resolverá lo que procediere en justicia. En el caso de que proceda la nulidad, se impondrá al responsable una multa de diez a veinticinco pesos y se le condenará al pago de los gastos y costas.
 
-III. Para superar las limitaciones del secreto bancario fiduciario y fiscal, el Instituto estará a lo dispuesto por el artículo 195 de la LGIPE, y
+ARTICULO 91
 
-IV. Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político.
+Cuando por culpa del actor, no se emplace personalmente al demandado, se impondrá al responsable una multa de veinticinco a cien pesos, si el asunto fuere de la competencia de los jueces de primera instancia o de los magistrados, y de cinco a veinte pesos, si fuere de la de los jueces municipales, sin perjuicio de las que correspondan por los delitos que resultaren cometidos.
 
-###### ARTÍCULO 43.
+### CAPITULO VI. De los términos judiciales
 
-La verificación de las operaciones financieras se hará en la forma y términos establecidos en el artículo 58 de la LGPP.
+ARTICULO 92
 
-### CAPÍTULO IV. Del Régimen Financiero
+Los términos judiciales empezarán a correr desde el día siguiente a aquél en que hubiere quedado hecho el emplazamiento o notificación.
 
-###### ARTÍCULO 44.
+ARTICULO 93
 
-El régimen financiero de los partidos políticos acreditados en el Estado se sujetará a lo establecido por el Título Sexto de la LGPP, y en lo conducente por este Código.
+Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquel en que todas hayan quedado notificadas.
 
-### CAPÍTULO V. De la Fiscalización de los Recursos de los Partidos Políticos y de los Candidatos Independientes
+ARTICULO 94
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
 
-###### ARTÍCULO 45.
+En autos se hará constar el día en que comiencen a correr los términos y aquél en que deban concluir.
 
-El Instituto podrá fiscalizar los ingresos y egresos de los partidos políticos, sus coaliciones, candidaturas comunes y de los candidatos a cargos de elección popular, cuando tal atribución le sea delegada por el INE, a través de su Contraloría Interna.
+ARTICULO 95
 
-El órgano auxiliar para la fiscalización previsto en el artículo 17, Apartado B, párrafo noveno de la Constitución, se denominará Contraloría Interna.
+Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que dentro de ellos debió ejercitarse; salvo los casos en que la ley disponga otra cosa.
 
-En caso de que sea delegada al Instituto la función de fiscalización a que se refiere el párrafo primero de este artículo, se realizará por conducto de la Contraloría Interna en términos de la CPEUM, la LGIPE, la LGPP,los (sic) lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General.
+ARTICULO 96
 
-El Consejo establecerá en las disposiciones reglamentarias del Instituto, procedimientos acordes a la legislación federal en materia de fiscalización.
+Siempre que la práctica de un acto jurídico requiera la notificación de personas que estén fuera del lugar del juicio, para que concurran ante el tribunal, se debe señalar un término en el que se aumente al fijado por la ley un día más del que emplee el servicio de correos de la Federación en ir y volver. En caso de que no haya servicio de correo, se atenderá a la distancia y dificultades de las comunicaciones a juicio del juez, para fijar un término especial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 97
 
-El titular de la Contraloría Interna durará en su encargo 4 años, será electo y removido por el Congreso del Estado mediante el voto de la mayoría de los diputados presentes, y deberá cumplir con lo dispuesto en el artículo 80 del presente Código a excepción de su fracción VII; además de reunir los siguientes requisitos:
+Los términos que por disposición expresa de la ley, o por la naturaleza del caso no son individuales, se tienen por comunes para las partes.
 
-I. No ser consejero electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
+Para fijar la duración de los términos, los meses se computarán por treinta días, y los días se entenderán de veinticuatro horas naturales y completas, contadas a partir de media noche.
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratara de delitos en contra del patrimonio de las personas, ello lo inhabilitará para el cargo cualquiera que haya sido la pena;
+ARTICULO 98
 
-III. Contar, al momento de su designación, con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
+Cuando este Código no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello, y
+I.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
 
-V. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o a algún partido político.
+II.- (DEROGADA, G.O. 29 DE DICIEMBRE DE 1966)
 
-###### ARTÍCULO 46.
+III.- Tres días para la celebración de juntas, reconocimiento de firmas y documentos, dictamen de peritos, exhibición de documentos; a no ser que por circunstancias especiales creyere el juez conveniente ampliar el término, lo cual podrá hacer por tres días más;
 
-Los partidos políticos y los candidatos independientes fiscalizados, podrán impugnar ante el Tribunal, el dictamen y resolución que en su caso emita el Consejo, para tal efecto deberá:
+IV.- Tres días para todos los demás casos.
 
-I. Remitir al Tribunal, cuando se hubiere interpuesto el recurso, junto con éste, el dictamen de la Contraloría Interna y el informe respectivo;
+ARTICULO 99
 
-II. Remitir, una vez cumplido el plazo para la interposición del recurso, o presentado éste, habiendo sido resuelto por los órganos jurisdiccionales, al Periódico Oficial del Estado el dictamen y, en su caso, la resolución recaída al recurso para su publicación, y
+Todos los términos serán improrrogables, salvo cuando expresamente autorice la ley lo contrario.
 
-III. Publicar en la página de internet del Instituto el dictamen y, en su caso, las resoluciones emitidas por los órganos jurisdiccionales.
+No se concederá prórroga alguna sino con audiencia de la parte contraria y siempre que haya sido pedida antes de que expire el término señalado. En ningún caso podrá exceder la prórroga de los días señalados como término legal.
 
-###### ARTÍCULO 47.
+### CAPITULO VII. De las costas
 
-El personal de la Contraloría Interna está obligado a guardar reserva sobre el curso de las revisiones y auditorías en las que tenga participación o sobre las que disponga de información. El Contralor conocerá de las violaciones a esta norma y en su caso impondrá las sanciones que correspondan conforme a este Código.
+ARTICULO 100
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Por ningún acto judicial se cobrarán costas, ni aun cuando se actuare con testigos de asistencia, o se practicaren diligencias fuera del lugar del juicio. Cada parte será inmediatamente responsable de las que originen las diligencias que promueva. En caso de condenación en costas, la parte condenada indemnizará a la otra de todas las que hubieren sido causadas. La condenación no comprenderá la remuneración del procurador, ni la del patrono, sino cuando fueren abogados recibidos o pasantes de derecho y hubieren firmado con las partes. Como pasante de derecho se entiende la persona que ha terminado los estudios profesionales.
 
-###### ARTÍCULO 48.
+Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen, en el ejercicio de la abogacía.
 
-Cuando sea delegada al Instituto la facultad de fiscalización de los ingresos y egresos de los partidos políticos, sus coaliciones, candidaturas comunes y de los candidatos a cargos de elección popular, el Consejo recibirá del Contralor informes periódicos respecto del avance en las revisiones y auditorías que se realicen.
+ARTICULO 101
 
-###### ARTÍCULO 49.
+Los procuradores y los abogados patronos serán responsables solidariamente con las partes que representen o patrocinen, hasta del cincuenta por ciento de las costas y multas, en caso de condenación.
 
-Para los efectos de este Capítulo se entienden como gastos de campaña los establecidos en el artículo 76 de la LGPP.
+ARTICULO 102
 
-###### ARTÍCULO 50.
+Los funcionarios judiciales que por notoria torpeza ordenen la práctica de diligencias inútiles a juicio del superior, estarán obligados a pagar las costas y los gastos que por estas diligencias hayan sufragado las partes.
 
-El Consejo, apropuesta (sic) de la Contraloría Interna y previo al inicio de las precampañas, determinará el tipo de gastos que serán estimados como de precampaña de acuerdo a la naturaleza de las convocatorias emitidas por los partidos políticos y de la etapa de promoción de aspirantes a candidaturas independientes.
+ARTICULO 103
 
-###### ARTÍCULO 51.
+Los honorarios de los abogados, apoderados, depositarios, peritos y demás personas que intervengan en el juicio, serán regulados conforme a arancel.
 
-El Consejo, en la determinación de los topes de gastos de campaña, aplicará las siguientes reglas:
+ARTICULO 104
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Siempre será condenado en costas el litigante que no obtuviere resolución favorable, ya en lo principal, ya en los incidentes que surgieren.
 
-I. Para la elección de Gobernador, a más tardar el día quince de enero del año de la elección, determinará el tope máximo de gastos de campaña, el cual será aquella cantidad que resulte de multiplicar el 0.25 del valor diario de la Unidad de Medida y Actualización, por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Estado al día primero de enero del año de la elección;
+Esta condenación no comprenderá los honorarios y gastos ocasionados por promociones, pruebas y actuaciones que sean inútiles, superfluas o no autorizadas por la ley, las cuales debe pagar el funcionario responsable de ellas, en los términos de este Código.
 
-II. Para la elección de diputados y ayuntamientos, a más tardar el último día de enero del año de la elección, procederá en los siguientes términos:
+La condenación en costas no se hará efectiva cuando el superior revoque la recurrida.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 105
 
-a) El tope máximo de gastos de campaña para la elección de diputados por el principio de mayoría relativa será para cada distrito, la cantidad que resulte de multiplicar el 0.15 del valor diario de la Unidad de Medida y Actualización por el número total de ciudadanos empadronados en el Registro Federal de Electores en el distrito de que se trate, y
+Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 106
 
-b) El tope máximo de gastos de campaña para la elección de ayuntamientos será la cantidad que resulte de multiplicar el 0.20 del valor diario de la Unidad de Medida y Actualización por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Ayuntamiento de que se trate; en aquellos ayuntamientos en que el tope máximo de gastos de campaña en aplicación a la presente fórmula sea menor a cuatro mil veces el valor diario de la Unidad de Medida y Actualización en la fecha en que se haga el cálculo, se tomará como tope ésta cantidad.
+Presentada la regulación de costas, se emplazará a las partes para una audiencia que deberá efectuarse a más tardar dentro de cinco días, en la cual se dictará la resolución que proceda. Si nada expusiere la parte demandada, se aprobará la regulación, siempre que esté de acuerdo con el arancel y salvo lo dispuesto en la segunda parte del artículo 104, que de oficio estimará el juez.
 
-###### ARTÍCULO 52.
+ARTICULO 107
 
-La Contraloría Interna fiscalizará los recursos y programas del Instituto en términos del presente Código, contará con la estructura administrativa que determine su Reglamento Interior y con el presupuesto que apruebe el Consejo.
+Por ningún motivo, sean cuales fueren los trabajos ejecutados y gastos expensados en un negocio, podrán exceder las costas del veinte por ciento sobre el interés del mismo. Los jueces deberán de oficio reducir la cantidad que importe la regulación, ajustándola a dicho veinte por ciento. Si el valor total del negocio no consistiere en cantidad líquida o que pueda liquidarse, se hará la valuación correspondiente por medio de peritos.
 
-## TÍTULO QUINTO. DE LOS FRENTES, LAS COALICIONES, LAS CANDIDATURAS COMUNES Y LAS FUSIONES
+ARTICULO 108
 
-### CAPÍTULO VI. Del Régimen Fiscal
+Si los honorarios de que se trata no estuvieren sujetos a arancel y fueren impugnados, se oirá a dos individuos del mismo arte o profesión de la persona que los hubiere devengado, nombrados por el juez.
 
-###### ARTÍCULO 53.
+## TITULO TERCERO. DE LA COMPETENCIA
 
-Los partidos políticos en el Estado, no son sujetos de los impuestos y derechos siguientes:
+### CAPITULO I. Disposiciones generales
 
-I. Los relacionados con las rifas y sorteos que celebren previa autorización legal, y con las ferias, festivales y otros eventos que tengan por objeto allegarse de recursos para el cumplimiento de sus fines;
+ARTICULO 109
 
-II. Los relativos a la venta de los impresos que editen para la difusión de sus principios, programas, estatutos y en general para su propaganda, así como por el uso de equipos y medios audiovisuales en la misma, y
+Toda demanda debe formularse ante juez competente.
 
-III. Las demás que establezcan las disposiciones legales aplicables.
+ARTICULO 110
 
-###### ARTÍCULO 54.
+Ningún tribunal puede negarse a conocer de un asunto sino por considerarse incompetente. En este caso debe expresar en su resolución los fundamentos legales en que apoya su incompetencia.
 
-A los partidos políticos en el Estado, no se les podrán otorgar exenciones en los siguientes casos:
+Lo anterior se entiende sin perjuicio de lo dispuesto en este Código para los casos de excusa.
 
-I. En el de contribuciones, incluyendo tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, adicionales que se establezcan sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles;
+ARTICULO 111
 
-II. De los impuestos y derechos que establezcan el Estado y los municipios por la prestación de los servicios públicos;
+Es juez competente aquel de los señalados en el artículo 116, ante quien los litigantes se hubieren sometido expresa o tácitamente.
 
-III. Por el pago de derechos, por la expedición de copias, que realice el propio Instituto y cualquiera de sus unidades administrativas a petición de los partidos políticos, asociaciones políticas, precandidatos, candidatos o ciudadanos, para lo cual se estará a lo siguiente:
+Hay sumisión expresa, cuando los interesados renuncian terminantemente el fuero que la ley les concede y designan con precisión el juez a quien se someten.
 
-a) Por copia simple y por copia certificada, se pagará el importe señalado en la Ley de Ingresos del ejercicio fiscal de que se trate.
+ARTICULO 112
 
-b) No podrá entregarse copia alguna, simple o certificada, si el partido político, asociación política, precandidato, candidato o ciudadano, según corresponda, no realizó el pago respectivo ante la Dirección Administrativa del Instituto, salvo que se vayan a destinar a la sustanciación de un recurso o procedimiento electoral, o bien, en el caso a que se refiere el inciso siguiente.
+Se entienden sometidos tácitamente:
 
-c) Cuando las copias, simples o certificadas, sean ofrecidas como prueba en cualquiera de los medios de impugnación o en el proceso jurisdiccional electoral y con los que prueben los hechos en que se basa la impugnación, y no los tuvieren a su disposición, señalarán el archivo o lugar en que se encuentren los originales, los cuales previa solicitud de parte, podrán ser requeridos a la autoridad o archivo que los detente a costa del solicitante.
+I.- El demandante, por el hecho de ocurrir al juez entablando su demanda, ya sea al ejercitar una acción, o contestando la reconvención que se le opusiere;
 
-d) En materia de transparencia, se estará a lo preceptuado por la ley de la materia.
+II.- El demandado, por oponer excepciones, por contestar la demanda en cuanto al fondo, o por reconvenir a su colitigante;
 
-Los ingresos derivados de la presente fracción formarán parte del patrimonio del Instituto.
+III.- El que, habiendo promovido la incompetencia del juez, se desiste de ella;
 
-###### ARTÍCULO 55.
+IV.- El tercer opositor o el que por cualquier motivo viniere al juicio en virtud de incidente.
 
-El régimen fiscal a que se refiere el artículo 53 de este Código, no releva a los partidos políticos del cumplimiento de otras obligaciones fiscales.
+ARTICULO 113
 
-Los partidos políticos deberán retener y enterar a las autoridades fiscales, conforme a las leyes aplicables, el impuesto sobre la renta que corresponda por los sueldos, salarios, honorarios y cualquier otra retribución equivalente que realicen a sus dirigentes, empleados, trabajadores o profesionistas independientes que les presten servicios. El Consejo dará aviso a las autoridades fiscales competentes de la omisión en el pago de impuestos y otras contribuciones en que incurran los partidos políticos.
+Ni por sumisión expresa ni por tácita, se puede prorrogar jurisdicción sino a juez que la tenga del mismo género que la que se prorroga.
 
-### CAPÍTULO VII. De las Franquicias Postales
+ARTICULO 114
 
-###### ARTÍCULO 56.
+Los litigantes sólo pueden promover la competencia cuando no se hayan sometido a una jurisdicción, expresa o tácitamente.
 
-Los partidos políticos acreditados en el Estado disfrutarán de las franquicias postales y telegráficas dentro del territorio nacional, que sean necesarias para el desarrollo de sus actividades, en términos de lo señalado por el Capítulo II del Título Segundo del Libro Cuarto de la LGIPE y lo establecido en este Código.
+El juez que, por resolución expresa haya reconocido la jurisdicción de otro, no puede promoverle competencia. Si la jurisdicción ajena ha sido reconocida, no por acto propio, sino cumplimentando un exhorto, el tribunal que así lo haya hecho no estará impedido para entablar competencia sosteniendo su jurisdicción.
 
-Las franquicias postales asignadas a los partidos políticos se sujetarán a las siguientes reglas:
+ARTICULO 115
 
-I. El Consejo determinará en el presupuesto anual de egresos del propio Instituto la partida destinada a cubrir el costo de la franquicia postal de los partidos políticos; en años no electorales el monto total será equivalente al dos por ciento del financiamiento público para actividades ordinarias; en años electorales equivaldrá al cuatro por ciento;
+Es nulo lo actuado por el juez que fuere declarado incompetente, exceptuándose los casos de incompetencia por razón de jurisdicción territorial o por convenio de las partes sobre la validez de lo actuado; así como también si se trata de incompetencia sobrevenida o de casos declarados por la ley. La nulidad de que trata este artículo, es de pleno derecho y por tanto no requiere declaración judicial.
 
-II. La franquicia postal será asignada en forma igualitaria a los partidos políticos;
+Los tribunales declarados competentes harán de oficio que las cosas se restituyan al estado que tenían antes de practicarse las actuaciones nulas; salvo que la ley disponga lo contrario.
 
-III. El Instituto informará al Servicio Postal Mexicano del presupuesto que corresponda anualmente por concepto de esta prerrogativa a cada partido político y le cubrirá, trimestralmente, el costo de los servicios proporcionados a cada uno de ellos hasta el límite que corresponda. En ningún caso el Instituto ministrará directamente a los partidos los recursos destinados a este fin. Si al concluir el ejercicio fiscal que corresponda quedaren remanentes por este concepto, serán reintegrados a la Secretaría de Finanzas del Gobierno del Estado como economías presupuestarias;
+### CAPITULO II. Reglas para la fijación de la competencia
 
-IV. Sólo podrán hacer uso de la franquicia postal los comités directivos estatales o su equivalente de cada partido. Los representantes de los partidos ante el Consejo informarán oportunamente al Instituto sobre la asignación anual entre dichos comités de la prerrogativa que les corresponda;
+ARTICULO 116
 
-V. Los partidos políticos acreditarán ante la Secretaría Ejecutiva un representante autorizado por cada uno de sus comités para facturar el envío de su correspondencia ordinaria, su propaganda y sus publicaciones periódicas. La propia Secretaría Ejecutiva comunicará al Servicio Postal Mexicano los nombres de los representantes autorizados y hará las gestiones necesarias para que se les tenga por acreditados;
+Es juez competente:
 
-VI. El Servicio Postal Mexicano informará al Instituto sobre las oficinas en que los partidos políticos harán los depósitos de su correspondencia, garantizando que estén dotadas de los elementos necesarios para su manejo. Los representantes autorizados y registrados por cada comité ante la Secretaría Ejecutiva deberán facturar los envíos y firmar la documentación respectiva;
+I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
-VII. En la correspondencia de cada partido político se mencionará de manera visible su condición de remitente;
+II.- El del lugar señalado en el contrato para el cumplimiento de la obligación. Tanto en este caso como en el anterior, el fuero es efectivo no sólo para la ejecución o cumplimiento del contrato, sino para la rescisión o nulidad;
 
-VIII. El Instituto celebrará los convenios y acuerdos necesarios con el Servicio Postal Mexicano para los efectos establecidos en el presente artículo, este último informará en los términos y plazos que se convengan, del uso que haga cada partido político de su prerrogativa, así como de cualquier irregularidad que en el uso de la misma llegue a conocer, y
+III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto de las cuestiones derivadas del contrato de arrendamiento de inmuebles; cuando éstos estuvieren comprendidos en dos o más Distritos, la competencia se decidirá a prevención;
 
-IX. Los partidos informarán oportunamente a la Secretaría Ejecutiva de la sustitución de sus representantes autorizados, a fin de que ésta lo notifique al Servicio Postal Mexicano.
+IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil. Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el juez del domicilio que escoja el actor;
 
-Tendrán derecho a franquicias postales los candidatos independientes en los términos que para ello establezca el Consejo.
+V.- En los juicios hereditarios, el juez en cuya comprensión haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia, y si estuvieren en varios Distritos, el juez de cualquiera de ellos a prevención; y a falta de domicilio y bienes raíces el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2017)</small>
+VI.- Aquél en cuyo territorio radica un juicio sucesorio para conocer: a).- De las acciones de petición de herencia; b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes; c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+VII.- En los concursos de acreedores, el juez del domicilio del deudor;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promueva, pero si se tratare de bienes raíces, lo será el del lugar en que estén ubicados;
 
-###### ARTÍCULO 57.
+IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de éste;
 
-Los frentes, las coaliciones y las fusiones de los partidos políticos, se regirán por lo establecido en el Título Noveno de la LGPP; así como por los reglamentos y acuerdos que expida el INE.
+X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hallen los pretendientes;
 
-Los votos en los que se hubiesen marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto y se distribuirán equitativamente entre los partidos para efectos de la asignación de posiciones de representación proporcional y prerrogativas.
+XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio y cuestiones familiares, es juez competente el del domicilio conyugal o familiar;
 
-Los frentes, las coaliciones y las fusiones de los partidos políticos, se regirán por lo establecido en el Título Noveno le (sic) la LGPP.
+XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+XIII.- En los casos de reclamación de alimentos, el del domicilio del acreedor alimentario;
 
-ARTÍCULO 57 A.- En los procesos electorales, los partidos tendrán derecho a postular candidatos, fórmulas o planillas por sí mismos, en coalición o en candidatura común con otros partidos en los términos establecidos en la Ley General de Partidos Políticos, los Reglamentos aplicables que expida el INE, y este Código.
+XIV.- En los casos relativos al nombre, lo será el del domicilio del promovente;
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+XV.- El que deba conocer por virtud de la cuantía de las reclamaciones. Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor como suerte principal. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se atenderá al monto de las mismas. Para conocer de las reclamaciones cuyo importe no pase de quinientos pesos, es competente un juez municipal, y de quinientos en adelante uno de primera instancia.
 
-ARTÍCULO 57 B.- La candidatura común es la unión de dos o más partidos políticos, sin mediar coalición, para postular al mismo candidato, fórmulas o planillas, cumpliendo los requisitos de este Código; por lo tanto, en el caso de que exista coalición, los partidos políticos que participen en la misma no podrán postular candidaturas comunes.
+ARTICULO 117
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+De las cuestiones sobre estado, nombre o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas emanare, conocerán los jueces de primera instancia.
 
-ARTÍCULO 57 C.- Los partidos políticos tendrán derecho a postular candidaturas comunes para la elección de gobernador, Diputados y miembros de los Ayuntamientos, de acuerdo con lo siguiente:
+ARTICULO 118
 
-I.- Deberán suscribir un convenio firmado por sus representantes y dirigentes, el cual presentarán para su registro ante el Consejo, a más tardar treinta días antes del inicio del periodo de precampaña de la elección de que se trate. Los partidos políticos no podrán celebrar más de un convenio de candidatura común en un mismo proceso electoral, de acuerdo al tipo de elección;
+En la reconvención, es juez competente el que lo sea para conocer de la demanda principal, aunque el valor de aquélla sea inferior a la cuantía de su competencia, pero si dicha reconvención fuera por más de quinientos pesos y estuviere conociendo del caso un juez municipal, pasará a conocer del mismo el de primera instancia correspondiente.
 
-II.- No se podrá participar en más del 10% de los municipios o distritos, tratándose de la elección de integrantes de Ayuntamientos y Diputados;
+ARTICULO 119
 
-III.- Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos que participen en el convenio de candidatura común, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato común y contarán de manera independiente para cada uno de los partidos políticos para todos los efectos establecidos en esta Ley; y
+Las cuestiones de tercería deben substanciarse y decidirse por el juez que sea competente para conocer del asunto principal.
 
-IV. Los votos en los que se hubiesen marcado más de una opción de los partidos que integren la candidatura común, serán considerados válidos para el candidato postulado, contarán como un solo voto, y los mismos serán distribuidos equitativamente entre los partidos políticos que la integran.
+Cuando el interés de la tercería que se interponga exceda del que la ley somete a la competencia del juez que está conociendo del negocio principal, se remitirá lo actuado en éste y la tercería al que designe el tercer opositor y sea competente para conocer la cuestión por razón de la materia, del interés mayor y del territorio.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 120
 
-ARTÍCULO 57 D.- El convenio de candidatura común deberá contener:
+Para los actos preparatorios del juicio, será competente el juez que lo fuere para el negocio principal.
 
-I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
+En las providencias precautorias regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en segunda instancia, será competente para dictar la providencia precautoria, el juez que conoció de ellos en primera. En caso de urgencia, puede dictarla el del lugar donde se hallen la persona o la cosa objeto de la providencia y, efectuada, se remitirán las actuaciones al competente.
 
-II. Emblema común de los partidos que lo conforman y el color o colores con que se participa, para efectos de la campaña exclusivamente;
+ARTICULO 121
 
-III. La manifestación por escrito de proporcionar al Instituto, una vez concluido (sic) sus procesos internos, el nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar y el consentimiento por escrito del candidato común;
+Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria.
 
-IV. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
+La inhibitoria se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los asuntos.
 
-V. Indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión, y a los topes de gastos de campaña determinados por el Consejo, y
+La declinatoria se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente.
 
-VI. Para las elecciones de Diputados y miembros de los Ayuntamientos, determinar el partido político al que pertenecerán los candidatos en caso de resultar electos.
+En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente, puede inhibirse del conocimiento del negocio, remitiendo los autos a su superior para que decida la competencia.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 122
 
-ARTÍCULO 57 E.- Al convenio de candidatura común se acompañará lo siguiente:
+Cuando dos o más jueces se nieguen a conocer de determinado asunto, la parte a quien perjudique ocurrirá al superior a fin de que ordene a los que se nieguen a conocer, que le envíen los expedientes en que se contengan sus respectivas resoluciones.
 
-I. El compromiso por escrito de que los partidos políticos postulantes del candidato común entregarán en tiempo y forma al Instituto su plataforma electoral por cada uno de ellos, y
+Una vez recibidos los autos por dicho tribunal, citará a las partes y al Ministerio Público a una audiencia de pruebas y alegatos que se efectuará dentro del tercer día, y en ella pronunciará resolución.
 
-II. Las actas que acrediten que los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
+ARTICULO 123
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+El juez ante quien se promueva la inhibitoria, mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio y remitirá desde luego las actuaciones respectivas al superior, haciéndolo saber al interesado.
 
-ARTÍCULO 57 F.- El Consejo dentro de los cinco días siguientes a la presentación de la solicitud de registro del convenio de candidatura común, deberá resolver lo conducente sobre la procedencia del mismo y publicará su acuerdo en el Periódico Oficial del Estado.
+Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento y remitirá a su vez los autos originales al superior con citación de las partes.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+Recibidos los autos en el tribunal que debe decidir la competencia, citará a las partes y al representante del Ministerio Público, a una audiencia verbal dentro de los tres días siguientes al de la citación, en la que recibirá pruebas y alegatos y pronunciará resolución.
 
-ARTÍCULO 57 G.- Los partidos políticos que postulen candidatos comunes no podrán postular candidatos propios, ni de otros partidos políticos para la elección que convinieron (sic) la candidatura común.
+Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 124
 
-ARTÍCULO 57 H.- Para los efectos de la integración de los órganos electorales, del financiamiento, asignación de tiempos de radio y televisión y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
+El litigante que hubiere optado por uno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro; tampoco podrá emplearlos sucesivamente.
 
-Los partidos políticos que participen en la postulación de candidaturas comunes no podrán convenir otras formas de participación con otros partidos en el mismo proceso electoral.
+ARTICULO 125
 
-### CAPÍTULO ÚNICO. De su Integración y Funcionamiento
+Todo tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria, o luego que en su caso la reciba. Igualmente, suspenderá sus procedimientos al promoverse la declinatoria.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 126
 
-###### ARTÍCULO 58.
+La infracción del artículo anterior producirá la nulidad de lo actuado. En este caso el tribunal será responsable de los daños y perjuicios originados a las partes, sin perjuicio de otras penas en que incurra conforme a la ley.
 
-Las asociaciones políticas estatales son formas de agrupación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada. Las asociaciones políticas estatales no podrán utilizar bajo ninguna circunstancia las denominaciones de “partido” o “partido político”; asimismo establecerán en el ámbito de sus atribuciones, mecanismos, para prevenir, atender, sancionar y en su caso erradicar la violencia política de género.
+No obstante lo dispuesto anteriormente, los jueces competidores podrán dictar bajo su responsabilidad las providencias que tuvieren el carácter de urgentes o precautorias, cuya subsistencia quedará pendiente de la resolución de la cuestión jurisdiccional.
 
-###### ARTÍCULO 59.
+## TITULO CUARTO. DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS
 
-Para obtener el registro como asociación política estatal, quien lo solicite deberá acreditar ante el Consejo los siguientes requisitos:
+### CAPITULO I. De los impedimentos y excusas
 
-I. Acta constitutiva debidamente protocolizada ante notario público, en la que conste la existencia legal, así como la estructura orgánica y funcional de la misma, en términos del Código Civil del Estado;
+ARTICULO 127
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Todo magistrado, juez o secretario, se tendrá por forzosamente impedido para conocer en los casos siguientes:
 
-II. Contar con un mínimo de tres mil asociados que estén inscritos en el padrón electoral, los cuales se acreditarán mediante la celebración de la Asamblea General de la Asociación ante Notario Público, en la que participe un representante que para el efecto designe el Instituto;
+I.- En los negocios en que tenga interés directo o indirecto;
 
-III. Contar con un órgano directivo de carácter estatal; además, tener delegaciones en cuando menos ocho municipios de la Entidad;
+II.- En los negocios que interesen de la misma manera a su cónyuge o a sus parientes consanguíneos en la línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo;
 
-IV. Disponer de Declaración de Principios y Estatutos, así como una denominación distinta a cualquier otra agrupación o partido político;
+III.- Siempre que entre el funcionario de que se trate, su cónyuge o sus hijos y algunos de los interesados, haya relación de intimidad nacida de algún acto o ceremonia, sancionado y respetado por la costumbre;
 
-V. Que sus miembros no formen parte de otra Asociación Política Estatal similar;
+IV.- Si fuere pariente por consanguinidad o afinidad, del abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
 
-VI. Deberá acompañarse copia simple y certificada del Acta de Asamblea General celebrada ante Notario Público del Estado;
+V.- Cuando él, su cónyuge o alguno de sus hijos, sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las partes, o administrador actual de sus bienes;
 
-VII. Deberá acompañarse copia simple de todos y cada uno de los documentos con que se hayan acreditado sus asociados en la Asamblea General de la Asociación ante Notario Público del Estado;
+VI.- Si ha hecho promesa, o amenazas, o ha manifestado de otro modo su odio o afecto por alguno de los litigantes;
 
-VIII. Sus asociados deberán tener su domicilio y ser vecinos del Estado, y
+VII.- Si asiste o ha asistido a convites que especialmente para él diere o costeare alguno de los litigantes, después de comenzado el pleito, o si tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, en una misma casa;
 
-IX. Deberá acompañar en medios informáticos la relación de sus asociados, incluyendo su domicilio y clave de elector.
+VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguno de sus hijos, dádivas y servicios de alguna de las partes;
 
-Para efecto de que las asociaciones participen de las prerrogativas del año fiscal, éstas deberán registrarse a más tardar el primero de septiembre del año previo. Procederá el registro solicitado en fecha posterior, sin que asista derecho a las prerrogativas durante dicho año.
+IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
 
-El Consejo establecerá como criterios de verificación los siguientes:
+X.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún punto que afecte a la substancia de la cuestión, en la misma instancia o en otra;
 
-I. Se solicitará al INE se sirva informar al Consejo si las personas que pretendan participar en esas asociaciones, se encuentran o no registradas dentro del Padrón Electoral, cerciorándose a partir de una muestra aleatoria respecto de la identidad de los asociados, y
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en la línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no haya pasado un año de haber seguido, un juicio civil o una causa criminal, como acusador, querellante o denunciante, o se haya constituído parte civil en causa criminal seguida contra cualquiera de ellas;
 
-II. Investigará sobre la veracidad y fidelidad de todos y cada uno de los documentos que se anexen a la solicitud de registro de la Asociación Política interesada.
+XII.- Cuando alguno de los litigantes o de sus abogados, es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos;
 
-El Consejo dentro del plazo máximo de treinta días naturales contados a partir de la fecha en que se conozca de las solicitudes de registro, resolverá lo conducente.
+XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
-Cuando proceda el registro, el Consejo expedirá el certificado respectivo. En caso de negativa, expresará las causas que la motivan y lo comunicará a la asociación interesada. La resolución correspondiente deberá publicarse en el Periódico Oficial del Estado.
+XIV.- Si él, su cónyuge o alguno de sus expresados parientes, sigue algún proceso civil o criminal en que sea juez, Agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 
-El registro de las asociaciones políticas cuando hubiese procedido, surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 128
 
-Las asociaciones políticas deberán refrendar su registro cada 3 años, ante el Consejo General, en las mismas condiciones de su registro inicial, mediante la ratificación que acuerden sus miembros en la celebración de asamblea general de la asociación ante notario público, y en la que participe un representante del Instituto. El Consejo General declarará la pérdida del registro de las asociaciones políticas que no cumplan con la obligación de refrendar.
+Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior o cualquiera otra análoga, aun cuando las partes no los recusen.
 
-Las asociaciones políticas perderán su registro mediante acuerdo aprobado por el Consejo en virtud a la violación a las obligaciones establecidas en el presente Código.
+Sin perjuicio de las providencias que conforme a este Código deben dictarse, tienen la obligación de inhibirse inmediatamente que se avoquen el conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
 
-###### ARTÍCULO 60.
+Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al Presidente del Tribunal, quien encontrando justificada la abstención, podrá imponer una corrección disciplinaria.
 
-Las asociaciones políticas con registro, gozarán del régimen fiscal previsto para los partidos políticos que prevean las leyes estatales y municipales.
+### CAPITULO II. De la recusación
 
-Las asociaciones políticas debidamente registradas, gozarán de financiamiento público estatal. Para tal efecto se constituirá un fondo para el financiamiento de las asociaciones equivalente al 1.5% del financiamiento público estatal anual que reciben para el sostenimiento de sus gastos ordinarios los partidos políticos. El Consejo al enviar a los Poderes Ejecutivo y Legislativo el proyecto de presupuesto de financiamiento público estatal anual para gasto ordinario a los partidos políticos, adicionará el monto correspondiente al fondo para el financiamiento de las asociaciones políticas.
+ARTICULO 129
 
-El fondo se distribuirá de manera igualitaria entre las asociaciones con registro.
+Cuando los magistrados, jueces o secretarios, no se excusaren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal.
 
-Tendrán derecho a recibir financiamiento privado en los términos y montos previstos por lo establecido en el Capítulo II del Título Quinto de la LGPP y en este Código.
+Se desecharán de plano las recusaciones que se funden en notorias argucias de las partes.
 
-Las asociaciones políticas debidamente registradas, deberán acreditar ante el Consejo al titular del órgano de administración, finanzas o su equivalente, responsable del debido destino de los recursos públicos asignados.
+ARTICULO 130
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+En los concursos sólo podrán hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten el interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate.
 
-Las asociaciones políticas serán fiscalizadas por la Contraloría Interna en términos del presente Código y de las disposiciones que emita el Consejo, así como lo establecido en las leyes en materia de transparencia.
+En los juicios hereditarios sólo podrá hacer uso de la recusación, el interventor o albacea.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 131
 
-###### ARTÍCULO 61.
+Cuando en un negocio intervengan varias personas, antes de haber nombrado representante común conforme a la ley, se tendrán por una sola para el efecto de la recusación. En este caso se admitirá la recusación cuando la proponga la mayoría de los interesados en cantidades.
 
-Las asociaciones políticas estatales solo podrán participar en procesos electorales locales mediante acuerdos de participación con un partido político. No podrán hacerlo con coaliciones, ni con candidaturas comunes, ni con candidatos independientes. Las candidaturas surgidas de los acuerdos de participación serán registradas por el partido político y serán votadas con la denominación, emblema, color o colores de éste.
+ARTICULO 132
 
-El acuerdo de participación a que se refiere el párrafo anterior, deberá presentarse para su registro ante el Consejero Presidente previo al registro de los candidatos, en los plazos previstos en este Código para cada elección, según corresponda.
+En los tribunales colegiados, la recusación relativa a magistrados o jueces que lo integren, sólo importa la de los funcionarios expresamente recusados.
 
-En la propaganda y campaña electoral, se podrá mencionar a la asociación participante.
+### CAPITULO III. Negocios en que no tiene lugar la recusación
 
-###### ARTÍCULO 62.
+ARTICULO 133
 
-Las asociaciones políticas deberán presentar cuatrimestralmente un informe de sus actividades al Consejo.
+No se admitirá recusación:
 
-###### ARTÍCULO 63.
+I.- En los actos prejudiciales;
 
-Las asociaciones políticas perderán su registro por las siguientes causas:
+II.- Al cumplimentar exhortos, despachos u oficios;
 
-I. Cuando se haya acordado su disolución por la mayoría de sus miembros;
+III.- En las demás diligencias cuya práctica se encomiende por otros jueces o tribunales;
 
-II. Haberse dado las causas de disolución conforme a sus documentos básicos;
+IV.- En las diligencias de mera ejecución; mas sí en aquéllas en las que el juez haya de resolver sobre algún punto que se someta a su consideración;
 
-III. Por incumplir de manera grave con sus obligaciones, apartarse de sus objetivos y de las funciones contenidas en este Código;
+V.- En los demás actos que no radiquen jurisdicción ni importen conocimiento de causa, y
 
-IV. Haber dejado de cumplir con los requisitos necesarios para obtener el registro;
+VI.- En todos los otros casos en que así lo disponga la ley.
 
-V. Omitir la presentación de informes de actividades a que se refiere este Título;
+### CAPITULO IV. Del tiempo en que debe proponerse la recusación
 
-VI. Por la no realización del objeto para el cual fueron constituidas o por la imposibilidad legal o material del mismo;
+ARTICULO 134
 
-VII. Por no refrendar su registro cada tres años mediante la ratificación que acuerden sus miembros en asamblea general, refrendo que deberá ser acreditado y aprobado por el Consejo previa integración del expediente respectivo en los términos del trámite para el registro inicial, y
+En los procedimientos de apremio, embargos y ejecuciones, no se dará curso a ninguna recusación, sino practicado el aseguramiento y hecho el embargo o desembargo en su caso. Tampoco se admitirá la recusación empezada la audiencia de pruebas y alegatos.
 
-VIII. Las demás que establezca este Código.
+Una vez comenzada la audiencia a que se refiere el párrafo anterior, sólo podrá admitirse una recusación cuando hubiere cambiado el personal del juzgado.
 
-El Consejo garantizará el derecho de audiencia en los trámites de cancelación del registro de las asociaciones políticas.
+### CAPITULO V. De los efectos de la recusación
 
-# LIBRO SEGUNDO. DE LOS ORGANISMOS ELECTORALES
+ARTICULO 135
 
-### CAPÍTULO I. Disposiciones Preliminares
+Entretanto se califica y decide, la recusación suspende la jurisdicción del tribunal, sin perjuicio de que prosiga la mera ejecución.
 
-###### ARTÍCULO 64.
+ARTICULO 136
 
-La organización de las elecciones estatales es una función que se realiza a través del INE y del Instituto en la forma y términos establecidos en la CPEUM, la LGIPE, la Constitución y este Código.
+Declarada procedente la recusación, termina la jurisdicción del magistrado o juez, o la intervención del secretario en el negocio de que se trate.
 
-###### ARTÍCULO 65.
+ARTICULO 137
 
-El Instituto, para el pleno desarrollo de sus actuaciones y atribuciones, podrá celebrar los convenios con el INE, en los términos de lo dispuesto por la CPEUM, la LGIPE, la LGPP, la Constitución, el presente Código y demás disposiciones aplicables.
+Una vez interpuesta la recusación, la parte recusante no podrá alzarla en ningún tiempo, ni variar la causa.
 
-El Instituto, en el ámbito de su competencia, contará con lo necesario para asegurar el cumplimiento de este Código.
+ARTICULO 138
 
-### CAPÍTULO II. De la Integración del Instituto
+Si se declarare improcedente o no probada la causa de recusación que se hubiere alegado, no se volverá a admitir otra recusación, aunque el recusante proteste que la causa es superveniente o que no había tenido conocimiento de ella, salvo cuando hubiere variación en el personal, en cuyo caso podrá hacerse valer la recusación respecto al nuevo magistrado, juez o secretario.
 
-###### ARTÍCULO 66.
+### CAPITULO VI. De la substanciación y decisión de la recusación
 
-El Instituto es un organismo público dotado de personalidad jurídica y patrimonio propio, así como profesional en su desempeño; gozará de autonomía en su funcionamiento e independencia en sus decisiones y es el depositario del ejercicio de la función estatal de organizar las elecciones así como los procesos de participación ciudadana en los términos de las leyes de la materia. Sus principios rectores serán la certeza, la legalidad, la imparcialidad, la independencia, máxima publicidad, definitividad y objetividad.
+ARTICULO 139
 
-El patrimonio del Instituto se integra por:
+Los tribunales desecharán de plano toda recusación:
 
-I. Los muebles e inmuebles que se destinen al cumplimiento de su objeto y fines;
+I.- Cuando no estuviere hecha en tiempo;
 
-II. Las partidas que anualmente se señalen en el Presupuesto de Egreso del Estado;
+II.- Cuando no se funde en alguna de las causas enumeradas anteriormente.
 
-III. Los recursos obtenidos por el pago de derechos de la expedición de copias que realice el propio Instituto y cualquiera de sus unidades administrativas a petición de los partidos políticos, asociaciones políticas, precandidatos, candidatos o ciudadanos, y
+ARTICULO 140
 
-IV. Los demás ingresos que se reciban por cualquier concepto derivado de la aplicación de las disposiciones de este Código.
+Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con claridad y precisión la causa en que se funde.
 
-El presupuesto anual del Instituto para su funcionamiento será programático, por lo que las partidas que anualmente se le señalen en el Presupuesto del Estado para el ejercicio que corresponda, nunca podrán ser menores a las asignadas en el año no electoral anterior.
+Los jueces de primera instancia decidirán las recusaciones de los jueces municipales, y el Tribunal Superior de Justicia, por medio de la sala respectiva, las de los jueces de primera instancia y las de los magistrados.
 
-###### ARTÍCULO 67.
+ARTICULO 141
 
-Los organismos del Instituto que intervienen en la función de organizar elecciones, son:
+En el incidente de recusación son admisibles todos los medios de prueba establecidos por este Código y además la confesión del funcionario recusado y la de la parte contraria.
 
-I. El Consejo del Instituto;
+ARTICULO 142
 
-II. La Junta Estatal Ejecutiva;
+Los magistrados y jueces que conozcan de una recusación, son irrecusables para sólo este efecto.
 
-III. Los Consejos Distritales Electorales;
+ARTICULO 143
 
-IV. Los Consejos Municipales Electorales, y
+Si se declarare improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de uno a veinticinco pesos, si se trata de un juez municipal; de veinticinco a doscientos, si el recusado fuere un juez de primera instancia, y de doscientos a cuatrocientos, si fuere un magistrado. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla, el billete de depósito por el máximo de la multa, la que en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario al Fisco.
 
-V. La Contraloría Interna.
+ARTICULO 144
 
-###### ARTÍCULO 68.
+Si en la sentencia se declara que procede la recusación, se remitirán los autos al juzgado que corresponda, dándose aviso al recusado. En el Tribunal quedará el magistrado recusado separado del conocimiento del negocio y se completará la sala en la forma que determina la ley.
 
-Son fines del Instituto los siguientes:
+ARTICULO 145
 
-I. Contribuir al desarrollo de la vida democrática;
+Las recusaciones de los secretarios se substanciarán ante los jueces o salas con quienes actúen, resolviéndose de plano.
 
-II. Preservar el fortalecimiento del régimen de partidos políticos así como la promoción de la figura de candidaturas independientes;
+## TITULO QUINTO. ACTOS PREJUDICIALES
 
-III. Asegurar a los ciudadanos el ejercicio de los derechos político-electorales y de participación ciudadana, así como vigilar el cumplimiento de sus obligaciones;
+### CAPITULO I. Medios preparatorios del juicio
 
-IV. Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes del Poder Legislativo, Poder Ejecutivo y ayuntamientos del Estado;
+ARTICULO 146
 
-V. Garantizar el adecuado desarrollo de procedimientos previstos, en la Ley de Participación Ciudadana del Estado de Aguascalientes;
+El juicio podrá prepararse:
 
-VI. Velar por la autenticidad y efectividad del sufragio universal, libre, secreto, directo, personal e intransferible;
+I.- Pidiendo declaración bajo protesta el que pretende demandar, de aquel contra quien se proponga dirigir la demanda, acerca de algún hecho relativo a su personalidad o a la calidad de su posesión o tenencia;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+II.- Pidiendo la exhibición de la cosa mueble que haya de ser objeto de la acción real que se trate de entablar;
 
-VII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
+III.- Pidiendo el legatario o cualquiera otro que tenga el derecho de elegir una o más cosas entre varias, la exhibición de ellas;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+IV.- Pidiendo el que se crea heredero, coheredero o legatario, la exhibición de un testamento;
 
-VIII. Llevar a cabo la promoción del voto, la educación cívico-electoral, y coadyuvar a la difusión de la cultura democrática, y
+V.- Pidiendo el comprador al vendedor, o el vendedor al comprador, en el caso de evicción, la exhibición de títulos u otros documentos que se refieran a la cosa vendida;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+VI.- Pidiendo un socio o comunero, la presentación de los documentos y cuentas de la sociedad o comunidad, al consocio o condueño que los tenga en su poder;
 
-IX. Prevenir, atender, sancionar y en su caso erradicar la violencia política de género, así como cumplir con las atribuciones que en esa materia le confieran la LGIPE, la LGPP, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se hallen en peligro inminente de perder la vida, o próximos a ausentarse a un lugar con el cual sean tardías o difíciles las comunicaciones si por cualquiera causa justificada no pueda deducirse aún la acción;
 
-###### ARTÍCULO 69.
+VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior.
 
-El Consejo es el órgano superior de dirección y decisión electoral en el Estado, residirá en la ciudad de Aguascalientes y funcionará de manera permanente; estará integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+ARTICULO 147
 
-El Consejero Presidente tendrá voto de calidad en caso de empate.
+Al pedirse la diligencia preparatoria debe expresarse el motivo por el que se solicita y el litigio que se trata de seguir o que se tema.
 
-El Consejo podrá invitar a sus sesiones, al Vocal Ejecutivo de la Junta Local del INE en Aguascalientes, quien podrá acudir personalmente o por medio de un representante, participando sólo con voz.
+ARTICULO 148
 
-El Consejero Presidente y los consejeros electorales serán designados por el Consejo General, en los términos previstos por la LGIPE. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General hará la designación correspondiente. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+El juez puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita la diligencia preparatoria, ya de la urgencia de examinar a los testigos.
 
-En caso de que ocurra una vacante del Consejero Presidente o de los consejeros electorales, el Consejo sesionará inmediatamente a fin de informar al Consejo General, el cual hará la designación correspondiente en los términos de ley.
+Contra la resolución que conceda la diligencia preparatoria, no habrá ningún recurso.
 
-Los consejeros electorales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General, por las causas graves establecidas en el artículo 102 de la LGIPE.
+ARTICULO 149
 
-Los consejeros electorales, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+La acción que puede ejercitarse conforme a las fracciones II, III y IV del artículo 146, procede contra cualquiera persona que tenga en su poder las cosas que en ellas se mencionan.
 
-El Instituto contará, además, con el personal administrativo y profesional necesario para el cumplimiento de sus funciones, el cual se nombrará bajo los criterios del Servicio Profesional Electoral Nacional, a excepción del Secretario Ejecutivo, el Director Administrativo; el Director de Capacitación y Organización Electoral; el Director Jurídico y el Contralor, los cuales serán nombrados conforme al procedimiento establecido en este Código.
+ARTICULO 150
 
-###### ARTÍCULO 70.
+Cuando se pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en la oficina respectiva, sin que en ningún caso salgan de ella los documentos originales.
 
-Los consejeros electorales locales deberán cumplir los requisitos establecidos en el artículo 100 de la LGIPE.
+ARTICULO 151
 
-Es obligación de los consejeros electorales, realizar actividades tendientes a mejorar la cultura democrática y la educación cívica en el Estado a través de estudios, investigaciones, foros, convenios, talleres y demás actividades e instrumentos que le permitan alcanzar dichos objetivos, debiendo informarse de ello en forma mensual al Consejo.
+Las diligencias preparatorias de que se trata en las fracciones II a IV, VII y VIII del artículo 146, se practicarán con intervención de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
-###### ARTÍCULO 71.
+ARTICULO 152
 
-El Consejero Presidente y los consejeros serán electos y removidos de sus cargos en la forma y términos previstos en los capítulos III y IV del Título Segundo del Libro Tercero de la LGIPE.
+Promovido el juicio, el tribunal, a solicitud del que hubiere pedido la preparación, mandará agregar las diligencias practicadas para que surtan sus efectos.
 
-Los consejeros representantes de cada uno de los partidos políticos serán designados por los partidos políticos por conducto de su Comité Directivo Estatal o su equivalente en el Estado, y podrán ser sustituidos libremente en cualquier momento, previo aviso al Consejero Presidente.
+ARTICULO 153
 
-El representante del candidato independiente a Gobernador que en su caso participe, será designado por éste y podrá ser sustituido libremente en cualquier momento, previo aviso al Consejero Presidente.
+Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá incidentalmente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 154
 
-###### ARTÍCULO 72.
+Puede prepararse la ejecución previa, pidiendo al deudor confesión judicial bajo protesta de decir verdad, y el juez señalará día y hora para la comparecencia. En este caso, el deudor habrá de estar en el lugar del juicio cuando se le haga la notificación, y ésta deberá ser personal, expresándose el objeto de la diligencia, la cantidad que se reclama y la causa de la obligación.
 
-El Consejo elegirá al Secretario Ejecutivo, al Director Administrativo, al Director de Capacitación y Organización Electoral y al Director Jurídico, en términos del Reglamento aplicable que expida el INE y conforme al procedimiento siguiente:
+Si el deudor no fuere hallado en su habitación, se entregará el instructivo bajo sobre cerrado, a cualquiera de las personas mencionadas en el artículo 76. Si la notificación se hiciere personalmente al deudor, el notificador tendrá la obligación de prevenirle que si no comparece a la hora señalada, se le tendrá por confeso de la obligación que se le reclama. Si la notificación se entiende con otras personas y no comparece el deudor en la hora que se le indique, se le notificará por segunda vez, haciéndose constar en el instructivo el apercibimiento.
 
-El Presidente propondrá al Consejo una terna de profesionales con sus respectivos currículos y constancias documentales que acrediten los requisitos de ley, y haber aprobado un examen de oposición que elaborará, aplicará y evaluará por el Consejo, asesorado por una Institución de Educación Superior debidamente reconocida y que determine el propio Consejo. Una vez conocidos los resultados se someterán al análisis y discusión en sesión plenaria, a efecto de que lo elijan por mayoría de cuando menos cinco votos. El Secretario Ejecutivo y los Directores podrán ser removidos por el Consejo con la misma votación, en cualquier momento por causa justificada.
+Si a pesar de los apercibimientos no compareciere ni alegare justa causa que se lo impida, se le tendrá por confeso en la certeza de la deuda.
 
-###### ARTÍCULO 73.
+ARTICULO 155
 
-Todos los integrantes del Instituto y sus funcionarios, deberán desempeñar sus actividades con eficiencia, probidad y profesionalismo. No deberán utilizar en beneficio propio o de terceros la información confidencial de que dispongan en razón de su cargo, ni la divulgarán sin autorización del Consejo.
+El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma en el mismo acto de la notificación. Cuando intimado dos veces rehuse contestar si es o no es suya la firma, se tendrá por reconocida. Si la reconoce y confiesa la deuda no habrá lugar a condenarlo en costas.
 
-###### ARTÍCULO 74.
+Cuando el contenido del documento en que aparezca la firma reconocida, no fuere reconocido también por el firmante, esto dará lugar a que se investigue la falsedad, sin perjuicio de que se lleve adelante el embargo.
 
-El Consejo, dentro y fuera del proceso electoral, se reunirá ordinariamente cuando menos una vez al mes y extraordinariamente cuando sea convocado por su Presidente o a solicitud de la mayoría de los consejeros electorales o de la mayoría de los representantes de los partidos políticos. Las convocatorias se harán por escrito, expresando los asuntos a tratar, cuando menos con tres días de anticipación a la fecha de celebración de la sesión correspondiente, a excepción de las extraordinarias que podrán ser convocadas con 24 horas de anticipación.
+ARTICULO 156
 
-Cuando la mayoría de los representantes de los partidos políticos y de los candidatos independientes en su caso, soliciten la realización de una sesión extraordinaria del Consejo, la petición se formulará por escrito al Consejero Presidente expresando las razones, motivos y señalando los asuntos a tratar en la sesión. El Consejero Presidente revisará la solicitud, y si advierte que se trata de asuntos competencia del Consejo citará a la sesión correspondiente.
+Puede hacerse el reconocimiento de documentos firmados ante notario público, ya en el momento del otorgamiento, o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo o su mandatario con poder bastante.
 
-En la primera semana del mes de octubre del año previo al de la elección, el Consejo se reunirá con objeto de declarar el inicio del proceso electoral y preparar la elección.
+El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 
-###### ARTÍCULO 75.
+ARTICULO 157
 
-Son atribuciones del Consejo, además de las establecidas en el artículo 104 de la LGIPE y que este Código no confiera a otro organismo del Instituto, las siguientes:
+Si es instrumento público o privado reconocido y contiene cantidad líquida, puede prepararse el embargo previo, siempre que la liquidación pueda hacerse en un término que no exceda de nueve días.
 
-I. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos así como la constancia de asignación a las fórmulas de representación proporcional al Congreso del Estado y ayuntamientos, conforme al cómputo y declaración de validez que efectúe el propio Consejo;
+La liquidación se hará con un escrito de cada parte y la resolución del juez sin ulterior recurso, salvo la responsabilidad del mismo juez.
 
-II. Publicar en el Periódico Oficial del Estado la integración del Consejo y la de los demás organismos electorales;
+### CAPITULO II. Del depósito o guarda de personas como acto prejudicial
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 158
 
-III. Designar al Secretario Ejecutivo, y a los titulares de las áreas ejecutivas de Dirección, unidades técnicas; así como al Presidente, Secretario y consejeros electorales propietarios y suplentes de los consejos distritales y municipales;
+En los casos previstos por el artículo 156 del Código Civil y en todo aquél en que alguno de los cónyuges intente demandar o acusar al otro, podrá dictarse provisionalmente el depósito o guarda del cónyuge que esté en el caso de ser protegido física o moralmente de acuerdo con la ley.
 
-IV. Recibir y registrar los documentos que acrediten la personalidad del partido político nacional, así como la personalidad jurídica de sus representantes, debiendo emitir las certificaciones de acreditación y reconocimiento de personalidades, dentro de los cinco días siguientes a que los partidos interpongan sus promociones; el mismo procedimiento se seguirá para el representante del candidato independiente a Gobernador;
+ARTICULO 159
 
-V. Aprobar el registro de las solicitudes de los partidos políticos nacionales que manifiesten su deseo de participar en el proceso electoral, dentro de los plazos establecidos en este Código;
+Sólo los jueces de primera instancia pueden decretar el depósito de que habla el artículo anterior, a no ser que, por circunstancias especiales, no pueda ocurrirse al juez competente, pues entonces el juez del lugar donde ocurra la emergencia podrá decretar el depósito provisionalmente, remitiendo las diligencias al competente y poniendo la persona a su disposición.
 
-VI. Registrar a los partidos políticos locales en términos de lo previsto en la LGPP y en el artículo 16 de este Código;
+ARTICULO 160
 
-VII. Ordenar se expidan las certificaciones de registro a los candidatos que hayan cumplido con los requisitos de ley, dentro de las 24 horas siguientes a la sesión en la que se aprobaron éstos;
+La solicitud de depósito puede ser escrita o verbal, y el juez debe proceder con toda rapidez, trasladándose al lugar de los hechos, para cerciorarse de la necesidad de la medida, designando desde luego, en tal caso, la persona o institución que habrá de encargarse del depósito, y vigilará el cumplimiento del mismo.
 
-VIII. Tomar la protesta de ley a los consejeros representantes de los partidos políticos y del candidato independiente ante el Consejo;
+ARTICULO 161
 
-IX. Registrar las candidaturas a Gobernador del Estado, las planillas de ayuntamientos por el principio de mayoría relativa; y las listas de diputados y regidores por el principio de representación proporcional;
+La casa o institución en que deba constituirse el depósito, será en todo caso, designada por el juez; y el depositario deberá ser persona honorable, de buenas costumbres, e idónea para la seguridad y guarda del depositado.
 
-X. Registrar supletoriamente las candidaturas a diputados por el principio de mayoría relativa y de miembros de los ayuntamientos, en caso de negativa del órgano electoral respectivo;
+ARTICULO 162
 
-XI. Registrar y publicar en el Periódico Oficial del Estado los acuerdos, circulares, convenios de coalición de los partidos políticos, así como cualquier disposición obligatoria en el proceso electoral;
+En los casos previstos por la fracción III, del artículo 156 del Código Civil, el juez dictará las medidas que crea convenientes para que, sin perjuicio de la resolución que recaiga en la sentencia de divorcio, los acreedores alimentarios, inclusive el cónyuge en su caso, queden protegidos y asegurados en la percepción de alimentos.
 
-XII. Registrar supletoriamente los nombramientos de los representantes generales o de casilla de los partidos políticos, o candidatos independientes en caso de negativa del organismo electoral respectivo, debidamente motivada ante el Consejo;
+Igualmente dictará las medidas adecuadas, de acuerdo con las restantes fracciones del precepto citado del Código Civil, para el aseguramiento y cuidado de los hijos, para evitar perjuicio de un cónyuge al otro, para cumplir con las precauciones establecidas en el caso de que la mujer quede encinta, y las demás que prevenga la ley.
 
-XIII. Recibir, registrar y en su caso turnar a la autoridad competente, las denuncias de hechos sobre actos presuntamente delictivos relacionados con el proceso electoral;
+Cualquiera reclamación sobre las medidas a que se refiere este Capítulo, se resolverá con un solo escrito de cada parte, sin ulterior recurso.
 
-XIV. Solicitar la fuerza pública, de ser necesario, para garantizar el normal desarrollo del proceso electoral;
+ARTICULO 163
 
-XV. Proporcionar en tiempo y forma a los organismos electorales la documentación y el material electoral necesario;
+En el caso de que el depósito se haya constituído para demandar o acusar un cónyuge al otro, la providencia se considerará sin efectos, si dentro de diez días, la parte interesada no acredita haber presentado la demanda o acusación. La declaración respectiva se hará de oficio por el tribunal y se notificará a los cónyuges y al depositario.
 
-XVI. (DEROGADA, P.O. 29 DE MAYO DE 2017)
+ARTICULO 164
 
-XVII. Aprobar los topes de gastos de precampaña y campaña de conformidad a lo establecido en el Código y coadyuvar en vigilar que se cumpla con los topes a los gastos de precampaña y campaña de la elección de Gobernador, diputados y ayuntamientos;
+Se dará al depositario copia certificada de la constitución del depósito, para su resguardo.
 
-XVIII. Proveer lo necesario para que la ciudadanía acceda a los instrumentos de participación ciudadana previstos en la ley de la materia;
+ARTICULO 165
 
-XIX. Promover el ejercicio de la democracia en la Entidad, impulsando la participación ciudadana en aspectos cívico-electorales;
+El término señalado para la duración del depósito podrá prorrogarse si se acreditare que por causa no imputable al interesado, le ha sido imposible intentar su acción o formular la acusación.
 
-XX. Dictar los acuerdos necesarios a fin de cumplimentar lo establecido en el presente Código;
+ARTICULO 166
 
-XXI. Conocer, discutir y en su caso, aprobar los presupuestos de ingresos y egresos del Instituto así como los correspondientes informes anuales de su ejercicio;
+Las providencias o medidas que propongan respecto al depósito, la mujer, el marido o el depositario, se resolverán de plano por el juez.
 
-XXII. Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales del Instituto;
+ARTICULO 167
 
-XXIII. Aprobar la integración de las comisiones del Consejo, en términos de los reglamentos respectivos;
+No acreditándose haberse intentado la demanda o la acusación dentro del término señalado, levantará el juez el depósito y restituirá las cosas al estado que guardaban con anterioridad.
 
-XXIV. Verificar que la Legislatura se integre con diputados electos, según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de Votación Emitida. Esta norma no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputados del total de la Legislatura, superior a la suma del porcentaje de su Votación Emitida más el ocho por ciento;
+ARTICULO 168
 
-XXV. Proporcionar toda la información, expedientes y archivos al Contralor para el debido desempeño de sus labores;
+Si el juez que decretó el depósito no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará el nombramiento de depositario, o hará otro, siguiendo el juicio su curso legal.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+### CAPITULO III. De la designación de árbitros
 
-XXVI. Ejercer las facultades que en su caso delegue al Instituto el INE, en términos de lo dispuesto por el artículo 8° de la LGPP y por el artículo 125 de la LGIPE;
+ARTICULO 169
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Cuando en escritura pública o privada sometieren los interesados las diferencias que surjan a la decisión de un árbitro y no estando nombrado éste, se preparará el juicio arbitral de acuerdo con las disposiciones contenidas en los artículos siguientes.
 
-XXVII. Celebrar convenios con el INE en la forma y términos establecidos en el Reglamento aplicable, para que se haga cargo de la organización de los procesos electorales locales y de otros aspectos previstos en la ley y en el propio Reglamento;
+ARTICULO 170
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Presentando el documento con la cláusula compromisoria por cualquiera de los interesados, llamará el juez a una junta dentro del tercer día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
 
-XXVIII. Aprobar en la primera semana del mes de noviembre, del año previo al de la elección, las reglas sobre medidas afirmativas para garantizar la paridad de género, y
+Si la cláusula compromisoria forma parte de documento privado, al emplazar a la otra parte a la junta a que se refiere el artículo anterior, el notificador la requerirá previamente para que reconozca la firma del documento y si se rehusare a contestar a la segunda interrogación, se tendrá por reconocida.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 171
 
-XXIX. Establecer en el ámbito de sus atribuciones, mecanismos para prevenir, atender, sancionar y en su caso erradicar la violencia política de género, y
+En la junta procurará el juez que elijan árbitro de común acuerdo los interesados y, en caso de no conseguirlo, el mismo juez hará la designación.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 172
 
-XXX. Las demás que le confiere la CPEUM, la LGIPE, la LGPP, aquéllas no reservadas al INE y las establecidas en este Código.
+Con el acta de la junta a que se refieren los artículos anteriores se iniciarán las labores del árbitro, emplazando a las partes como se determina en el título relativo.
 
-### CAPÍTULO III. De la Presidencia
+### CAPITULO IV. De los preliminares de la consignación
 
-###### ARTÍCULO 76.
+ARTICULO 173
 
-Corresponden al Consejero Presidente las atribuciones siguientes:
+Si el acreedor rehusare recibir la prestación debida o dar el documento justificativo de pago, o si fuere persona incierta o incapaz de recibir, podrá el deudor librarse de la obligación haciendo consignación de la cosa.
 
-I. Convocar por escrito y con anticipación de cuando menos setenta y dos horas a los integrantes del Consejo, así como presidir y conducir las sesiones del Consejo;
+ARTICULO 174
 
-II. Elaborar anualmente el presupuesto del Instituto, someterlo a la aprobación del Consejo y remitirlo al titular del Poder Ejecutivo, para que lo presente al Congreso;
+Si el acreedor fuere cierto y conocido, se le emplazará para día, hora y lugar determinado, a fin de que reciba o vea depositar la cosa debida. Si la cosa fuere mueble de difícil conducción, la diligencia se practicará en el lugar donde se encuentre, siempre que fuere dentro de la jurisdicción territorial; si estuviere fuera, se le notificará y se librará el exhorto o el oficio correspondiente al juez del lugar, para que en su presencia el acreedor reciba o vea depositar la cosa debida.
 
-III. Ejercer el presupuesto de egresos del Instituto, bajo la aprobación y supervisión del Consejo;
+ARTICULO 175
 
-IV. Ejecutar y vigilar el cumplimiento de los acuerdos del Consejo;
+Si el acreedor fuere desconocido se le notificará por los periódicos y para el plazo que designe el juez.
 
-V. Establecer la comunicación y los vínculos necesarios entre el Instituto y las autoridades federales, estatales y municipales, para lograr su apoyo y colaboración en el ámbito de su competencia;
+ARTICULO 176
 
-VI. Proponer al Consejo el nombramiento del Secretario Ejecutivo, o en su caso, nombrar un Secretario Ejecutivo interino mientras el Consejo designa titular;
+Si el acreedor estuviere ausente o fuere incapaz será notificado su representante legítimo.
 
-VII. Proponer al Consejo, la designación de los ciudadanos que fungirán como consejeros presidentes, consejeros electorales y secretarios, propietarios y suplentes, de los consejos distritales y municipales, así como la revocación del cargo para el que fueron propuestos, cuando existan razones fundadas para ello, en términos de este Código;
+Si el acreedor no comparece en el lugar, día y hora designados, o no envía procurador con autorización bastante para que reciba la cosa, el juez extenderá certificación en que conste la no comparecencia del acreedor, la descripción de la cosa ofrecida y que quedó constituído el depósito en la persona o establecimiento designado por el juez o por la ley.
 
-VIII. Formular y suscribir, previa aprobación del Consejo, los convenios de colaboración con el INE, en términos de la LGIPE;
+ARTICULO 177
 
-IX. Ejercer las facultades de administración y representación jurídica del Instituto, en los términos de este Código;
+Si la cosa debida fuese cierta y determinada y debiera ser consignada en el lugar en donde se encuentra y el acreedor no la retirara ni la transportara, el deudor puede obtener del juez la autorización para depositarla en otro lugar.
 
-X. Proponer al Consejo las ternas de profesionales para nombrar al Director Administrativo, al Director de Capacitación y Organización Electoral y al Director Jurídico del Instituto;
+ARTICULO 178
 
-XI. Convocar en tiempo y forma a los partidos políticos y en elecciones en las que se renueve al Gobernador del Estado, hacerlo también con el o los candidatos independientes, a fin de que nombren sus representantes ante el Consejo;
+Cuando el acreedor no haya estado presente en la oferta y depósito, debe de ser notificado de esas diligencias, entregándosele copia simple de ellas si la pidiere.
 
-XII. Enviar para su publicación en el Periódico Oficial del Estado, la relación completa de los candidatos cuyo registro haya sido aprobado por los consejeros, las cancelaciones de registro, la sustitución de candidatos que se presenten, y los demás actos, resoluciones o acuerdos que disponga este Código;
+ARTICULO 179
 
-XIII. En general coordinar el funcionamiento y actividades del Instituto así como elaborar los planes, programas, presupuestos, procedimientos y políticas, los cuales deberá someter a la consideración del Consejo a efecto de que éste los analice, discuta, modifique y apruebe en su caso;
+La consignación del dinero puede hacerse exhibiendo el certificado de depósito de la institución autorizada por la ley para el efecto.
 
-XIV. Firmar, junto con el Secretario Ejecutivo, los acuerdos, resoluciones y actas de sesiones del Consejo;
+La consignación y el depósito de que habla este artículo puede hacerse por conducto de notario público.
 
-XV. Para ejecutar el marco normativo definido por el Consejo, el Consejero Presidente tendrá a su mando el personal administrativo, técnico y de asesoría que sea necesario para la eficaz administración del Instituto;
+ARTICULO 180
 
-XVI. Velar por el cumplimiento de las obligaciones que impone al Instituto, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
+Las mismas diligencias se seguirán si el acreedor fuere conocido pero dudosos sus derechos. Este depósito sólo podrá hacerse bajo la intervención judicial y a condición de que el interesado justifique sus derechos por los medios legales.
 
-XVII. Representar legalmente al Instituto y delegar dicha representación en la persona o personas que resulte necesario, para lo cual podrá otorgar y revocar poderes para actos de administración, pleitos y cobranzas a los servidores públicos de las unidades administrativas que por la naturaleza de sus funciones les correspondan, y
+ARTICULO 181
 
-XVIII. Las demás que le confiere la CPEUM, la Constitución, la LGIPE y este Código.
+Cuando el acreedor se rehusare en el acto de la diligencia a recibir la cosa; con la certificación a que se refieren los artículos anteriores, podrá pedir el deudor la declaración de liberación mediante juicio.
 
-## TÍTULO SEXTO. DE LAS ASOCIACIONES POLÍTICAS
+ARTICULO 182
 
-### CAPÍTULO IV. De la Secretaría Ejecutiva
+El depositario que se constituya en estas diligencias, será designado por el juez si con intervención de él se practicaren. Si fueren hechas con intervención de notario, la designación será bajo la responsabilidad del deudor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+### CAPITULO V. De las providencias precautorias
 
-###### ARTÍCULO 77.
+ARTICULO 183
 
-El Secretario Ejecutivo deberá cumplir con los requisitos establecidos en el Reglamento aplicable que expida el INE, así como de los siguientes:
+Las providencias precautorias sólo pueden dictarse:
 
-I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, además de estar en pleno goce de sus derechos civiles y políticos;
+I.- Para impedir que una persona se ausente del lugar donde ha de ser o ha sido demandada, sin dejar apoderado instruído y expensado que conteste la demanda y siga el juicio hasta su terminación;
 
-II. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar vigente;
+II.- Para impedir que un deudor eluda el cumplimiento de sus obligaciones o el resultado del juicio que se ha promovido o se intente promover en su contra;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+III.- Para asegurar el éxito de una acción que se funde en un título ejecutivo, que constituya prueba preestablecida de acuerdo con la ley;
 
-III. Tener más de treinta años de edad al día de la designación y contar con título de licenciado en derecho debidamente registrado en términos de Ley, con una antigüedad mínima de cinco años en el ejercicio profesional; y
+IV.- Para ordenar la suspensión o destrucción de una obra nueva o peligrosa;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+V.- Para retener la posesión.
 
-V. Ser originario de Aguascalientes o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+ARTICULO 184
 
-VI. No haber sido registrado como candidato ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+En el primer caso del artículo anterior, basta la petición del actor para que se notifique al demandado que no se ausente del lugar del juicio sin dejar apoderado instruído y expensado.
 
-VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
+Se entenderá como expensado el procurador que esté en aptitud de efectuar por el poderdante, el pago o cumplimiento de la obligación y el de sus accesorios.
 
-VIII. No estar afiliado a partido político alguno en los últimos cuatro años;
+ARTICULO 185
 
-IX. No estar inhabilitado para ejercer cargos públicos en cualquier institución pública federal o local, y
+El apoderado que se presente instruído y expensado quedará obligado solidariamente con el deudor a la ejecución de la sentencia. En el caso de que, no obstante su afirmación, resultare que no está expensado, incurrirá en la pena de los que se producen con falsedad en declaraciones judiciales.
 
-X. No haberse desempeñado durante los cuatro años previos a la designación como titular de secretaría o dependencia del gabinete legal o ampliado tanto del gobierno de la Federación o como de las entidades federativas, ni subsecretario u oficial mayor en la administración pública de cualquier nivel de gobierno. No ser Gobernador, ni Secretario de Gobierno o su equivalente a nivel local. No ser Presidente Municipal, Síndico o Regidor o titular de dependencia de los ayuntamientos.
+ARTICULO 186
 
-###### ARTÍCULO 78.
+En el caso de la fracción II del artículo 183, el embargo se pedirá expresando el valor de la demanda o la cosa que se reclame, designando ésta con toda precisión; y el juez lo decretará de plano, fijando la cantidad por la cual haya de practicarse la diligencia y los bienes en que deba ejecutarse.
 
-El Secretario Ejecutivo tendrá las siguientes atribuciones:
+En los casos de la fracción III del precepto acabado de citar, el juez mandará requerir de pago al deudor y, en su caso, a practicar el embargo en los bienes que éste o el acreedor designen, de acuerdo con lo establecido en el Capítulo de la ejecución y del embargo.
 
-I. Participar en las sesiones del Consejo General, con derecho a voz, pero sin voto;
+ARTICULO 187
 
-II. Informar sobre el cumplimiento de los acuerdos del Consejo General;
+Si el demandado consigna el valor u objeto reclamado, no se llevará adelante la providencia, o se levantará la que se hubiere dictado. Igualmente, cuando la providencia no se haya decretado por virtud de la presentación de un título ejecutivo, si el deudor o ejecutado da fianza bastante, también se levantará la providencia.
 
-III. Elaborar la agenda del proceso electoral con base a este Código y someterla a la aprobación del Consejo;
+ARTICULO 188
 
-IV. Preparar el orden del día de las sesiones y la documentación relativa a las mismas, declarar la existencia de quórum, dar fe de lo actuado y levantar el acta correspondiente;
+Los bienes embargados por providencia precautoria se depositarán en algún establecimiento de crédito o en persona abonada, propuesta por el actor, bajo su responsabilidad.
 
-V. Recibir de los partidos políticos y de los ciudadanos que aspiren a obtener candidaturas independientes las solicitudes de registro de candidatos de manera directa o supletoria, e informar a los organismos electorales, según corresponda;
+ARTICULO 189
 
-VI. Atender los requerimientos de los partidos políticos y candidatos independientes sobre información y documentación electoral;
+Cuando el embargo se practique sobre bienes raíces, se comunicará al encargado del Registro Público de la Propiedad del lugar en que aquéllos estén ubicados, para impedir que dichos bienes se vendan, enajenen o graven. Lo mismo se hará en los casos de embargo sobre bienes muebles, cuyo dominio sea susceptible de registro conforme al Código Civil.
 
-VII. Recibir y dar trámite a los recursos y denuncias que presenten los partidos políticos y candidatos independientes, así como atender los procedimientos jurídicos y contenciosos en los que el Instituto sea parte;
+Si se tratare de una negociación mercantil, industrial, agrícola o minera, se nombrará un interventor, a propuesta del actor y bajo su responsabilidad.
 
-VIII. Elaborar análisis jurídicos sobre hechos, actos, acuerdos o normas relacionadas con el proceso electoral, así como proyectos de normatividad en esta materia;
+ARTICULO 190
 
-IX. Firmar con el Consejero Presidente para su validez, todos los acuerdos, resoluciones y actas del Consejo;
+El que pida una providencia precautoria deberá entablar la demanda cuando proceda, dentro de los tres días siguientes a la ejecución de la providencia.
 
-X. Llevar el libro de registro de los directivos de los partidos políticos y de sus candidatos a puestos de elección, así como de los candidatos independientes y de sus representantes;
+ARTICULO 191
 
-XI. Expedir las constancias que acrediten la personalidad de los integrantes de los organismos electorales, los gafetes de identificación y expedir las certificaciones que se requiera de la documentación que obra en los archivos del Instituto;
+Si el que ha solicitado la providencia no entablare la demanda dentro del término fijado anteriormente; si la providencia fuere revocada, o si entablada la demanda fuere absuelto el reo, pagará por vía de indemnización a su contrario: una multa que no baje de diez pesos ni exceda de cinco mil, a juicio del juez, cuando se trate de la providencia de arraigo; o una igual al veinte por ciento del valor de los bienes secuestrados, en los demás casos.
 
-XII. Supervisar que la integración, instalación y funcionamiento de los organismos electorales se haga en términos de Ley;
+ARTICULO 192
 
-XIII. Elaborar los proyectos de documentación y materiales electorales, resoluciones o acuerdos para su aprobación por el Consejo;
+De las providencias precautorias queda responsable el que las pida, y no podrá decretarse sin que el solicitante dé fianza para responder de la indemnización que establece el artículo anterior.
 
-XIV. Fijar las cédulas en estrados en los términos establecidos por este Código y las leyes de la materia;
+Ni las multas a que se refiere el artículo anterior, ni el requisito de la fianza, podrán exigirse al que promueva el embargo, de acuerdo con la fracción III del artículo 183.
 
-XV. Elaborar las estadísticas electorales, así como la memoria del proceso estatal electoral respectivo, dándole su debida difusión;
+Ni el Ministerio Público ni los agentes fiscales estarán obligados a otorgar fianza.
 
-XVI. Integrar los informes que requieran las dependencias gubernamentales;
+ARTICULO 193
 
-XVII. Elaborar los proyectos de normatividad sobre financiamiento y prerrogativas de los partidos políticos y en lo conducente, de los candidatos independientes;
+La providencia de retener la posesión da fin, por sí misma, a la materia de la precautoria.
 
-XVIII. Elaborar la propuesta de distribución de financiamiento público a los partidos políticos y a candidatos independientes;
+La providencia de obra peligrosa, sin perjuicio de poder promoverse como acto prejudicial o después de iniciado el juicio respectivo, puede también, por sí misma, poner fin al objeto de la precautoria.
 
-XIX. Ejercer y atender oportunamente la función de oficialía electora1 (sic) por sí o por conducto de los Secretarios de los consejos distritales y municipales electorales u otros servidores públicos del Instituto en los que delegue dicha función de actos o hechos exclusivamente de naturaleza electoral;
+ARTICULO 194
 
-XX. Recibir, tramitar y substanciar los recursos de inconformidad que se interpongan para impugnar actos o resoluciones de los demás órganos electorales del Instituto y preparar el proyecto de resolución correspondiente; así como recibir y dar trámite con base en este Código, a los medios de defensa que se interpongan en contra de los actos o resoluciones emitidos por el Instituto, informando al Consejo sobre los mismos en la sesión inmediata siguiente;
+Puede promover la providencia precautoria de retener la posesión, el que estando en posesión civil o precaria de un bien raíz, de un derecho real o del estado de hijo o padre de una persona, es amenazado grave e ilegalmente de despojo por parte de un tercero y prueba que éste ha ejecutado o hecho ejecutar actos preparatorios que tiendan directamente a una perturbación violenta e inminente de su derecho.
 
-XXI. Atender las peticiones de los partidos políticos y candidatos independientes con relación a la información que se genere en las sesiones del organismo;
+ARTICULO 195
 
-XXII. Elaborar e instrumentar los acuerdos con las autoridades administrativas con relación al otorgamiento de prerrogativas a los partidos políticos y candidatos independientes, así como los apoyos que requieren los organismos electorales;
+En los casos a que se refiere el artículo 17, los interesados a que el mismo se refiere, podrán promover la providencia precautoria relativa a obra nueva.
 
-XXIII. Informar al Consejo de las resoluciones que le competan y que sean dictadas por el Tribunal u otras autoridades jurisdiccionales competentes;
+En estos casos, la providencia tendrá por objeto impedir la continuación de la obra, entretanto que se resuelve definitivamente el juicio correspondiente.
 
-XXIV. Substanciar los procedimientos sancionadores que se establecen en el Libro Cuarto de este Código, y
+ARTICULO 196
 
-XXV. Las demás que le confiera este Código, el Consejo y otras disposiciones aplicables.
+No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequías donde se recojan las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por mal olor, o por causa de los materiales que se arrojen en su predio o en la calle. En estos casos, se observarán los reglamentos gubernativos.
 
-### CAPÍTULO V. De las Direcciones Ejecutivas
+ARTICULO 197
 
-###### ARTÍCULO 79.
+En los casos de obra nueva o peligrosa, el tribunal nombrará un perito para que dentro de un plazo que no exceda de tres días, examine la obra y rinda dictamen sobre el perjuicio que ocasione o pueda ocasionar en los intereses del promovente, del Estado o del público. Si el dictamen confirmare la amenaza denunciada, se tomarán las medidas prudentes o las que marque la ley, para evitar el peligro.
 
-Para su funcionamiento, el Instituto contará con las siguientes direcciones ejecutivas:
+En vista del dictamen rendido por el perito, y estando justificado el derecho del actor para gestionar, previo el otorgamiento de la fianza a que se refiere el artículo siguiente, el secretario se trasladará al lugar donde se esté construyendo la obra nueva o peligrosa, y dando fe de su existencia y pormenorizando las circunstancias en que se halle, notificará la suspensión provisional.
 
-I. Dirección Administrativa;
+ARTICULO 198
 
-II. Dirección de Capacitación y Organización Electoral, y
+Para que sea hecha la notificación a que se refiere el último párrafo del artículo anterior, el interesado deberá dar fianza bastante a juicio del juez, para responder de los daños y perjuicios que se sigan al dueño de la obra, bien porque el juicio no sea promovido dentro del término legal, o porque en el que se promueva sea absuelto el demandado.
 
-III. Dirección Jurídica.
+La obra deberá suspenderse luego que se notifique el auto al dueño, al encargado de la obra o a los que la estén ejecutando.
 
-Las direcciones dependerán de la Presidencia del Consejo.
+ARTICULO 199
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+El dueño de la obra tiene derecho a pedir autorización para continuarla, mientras no se resuelve el juicio sobre la suspensión definitiva o su demolición, siempre que otorgue fianza bastante, que será calificada por el Tribunal con audiencia del que obtuvo la providencia, para responder de la demolición y de los daños y perjuicios que se sigan en sus respectivos casos.
 
-###### ARTÍCULO 80.
+ARTICULO 200
 
-El titular de cualquier dirección ejecutiva y unidad técnica, deberá cumplir con los requisitos establecidos en el Reglamento aplicable que expida el INE, además de los siguientes:
+El que haya obtenido la providencia de suspensión provisional de una obra nueva, debe promover el juicio sobre suspensión definitiva y demolición de lo construído, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, nacido o con vecindad mínima de cinco años en el Estado anterior al día de su designación;
+ARTICULO 201
 
-II. Estar inscrito en el Registro Federal de Electores, aparecer en la lista nominal y contar con credencial para votar con fotografía;
+Cuando el que solicite la providencia, estimare que las medidas urgentes adoptadas para el caso de obra peligrosa, no fueren bastantes para prevenir definitivamente el riesgo, puede promover juicio para obtener la demolición de la obra o la destrucción del objeto o árbol que ofrece los riesgos.
 
-III. Tener por lo menos treinta años de edad al día de su designación;
+ARTICULO 202
 
-IV. No encontrarse en los supuestos previstos en el artículo 10 de este Código;
+El tribunal investigará por medio de un perito oficial, la existencia y magnitud del peligro denunciado; y, en su caso, decretará inmediatamente las medidas oportunas para procurar la debida seguridad. En este caso, compelerá a la ejecución de ellas, por su orden, al dueño o a su administrador o apoderado, o al inquilino por cuenta de rentas. En defecto de éstos puede ejecutarlas el solicitante de la providencia, el Estado o el Municipio, con reserva de sus derechos para reclamar el importe de los gastos que se ocasionen.
 
-V. No ser miembro activo de ningún partido político y no desempeñar ni haber desempeñado cargo de dirección en el comité ejecutivo nacional, estatal o municipal, o equivalente de un partido político o cualquier otro tipo de organización política, en los últimos cinco años anteriores a la fecha de la designación;
+ARTICULO 203
 
-VI. No ocupar ni haber ocupado cargo alguno de elección popular en los últimos cinco años anteriores a la designación; ni haber sido candidato en ese mismo período a cargo alguno de elección popular;
+Para dictar una providencia precautoria se guardará reserva y no se notificará a la persona contra quien se pida. En su ejecución no se admitirá excepción alguna.
 
-VII. Tener título de licenciatura registrado en términos de ley, además de experiencia y conocimiento acreditable en materia electoral;
+ARTICULO 204
 
-VIII. No ser servidor público de ninguno de los tres órdenes de gobierno o de organismos públicos descentralizados; con excepción de los servicios no remunerados que se ejerzan en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, y
+La persona contra quien se dicte una providencia precautoria, puede reclamarla antes de la sentencia definitiva.
 
-IX. No haber sido Fiscal General del Estado, o Secretario de la Administración Pública Estatal o Municipal, durante los tres años anteriores al día de su nombramiento.
+Igualmente puede reclamar la providencia un tercero, cuando alegue que los bienes secuestrados, o parte de ellos, le corresponden en propiedad o por lo menos que los posee legalmente.
 
-###### ARTÍCULO 81.
+ARTICULO 205
 
-Corresponden a la Dirección Administrativa las siguientes atribuciones:
+Reclamada la providencia, la oposición se tramitará en la forma que para los incidentes establece la ley. La resolución que se dicte, será apelable en el efecto devolutivo.
 
-I. Elaborar el proyecto de Presupuesto Anual de Egresos del Instituto de conformidad con la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, a más tardar en la primera semana del mes de julio, el cual entregará al Consejero Presidente;
+ARTICULO 206
 
-II. Gestionar la entrega de los recursos financieros para la operación del Consejo y demás organismos electorales;
+Las fianzas a que se refiere este Capítulo, se otorgarán ante el juez de los autos.
 
-III. Contratar, adquirir y administrar los recursos humanos y materiales, así como los servicios que requieran los organismos electorales y las direcciones ejecutivas del Instituto para el funcionamiento y ejecución de sus programas;
+### CAPITULO I. De la demanda y contestación
 
-IV. Las compras y suministros de todo tipo de materiales deberá realizarla de conformidad con lo establecido en la Ley Patrimonial del Estado de Aguascalientes;
+ARTICULO 207
 
-V. Llevar los registros contables de las operaciones financieras que se realicen en el Instituto;
+Toda contienda judicial principiará con la demanda en la cual se expresarán:
 
-VI. Elaborar los estados financieros del Instituto;
+I.- El Tribunal ante el que se promueve;
 
-VII. Proporcionar a los organismos electorales los recursos y documentación necesarios para su funcionamiento; así como los recursos del financiamiento público ordinario y extraordinario que correspondan a los partidos políticos y en su caso, a los candidatos independientes;
+II.- El nombre del actor y la casa que señale para notificaciones;
 
-VIII. Apoyar a los organismos electorales en las actividades que se realicen el día de la jornada electoral;
+III.- El nombre del demandado y su domicilio;
 
-IX. Proporcionar al Contralor la información y documentación necesaria para el desempeño de sus labores, y
+IV.- El objeto u objetos que se reclamen con sus accesorios;
 
-X. Las demás que les sean asignadas por el Consejo, el Consejero Presidente y otras disposiciones.
+V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos sucintamente con claridad y precisión de tal manera que el demandado pueda preparar su contestación y defensa;
 
-###### ARTÍCULO 82.
+VI.- Los fundamentos de derecho, procurando citar los preceptos legales o principios jurídicos aplicables;
 
-Corresponde a la Dirección de Capacitación y Organización Electoral, lo siguiente:
+VII.- En su caso el valor de lo demandado.
 
-I. Auxiliar al INE, para llevar a cabo la capacitación de los funcionarios que integrarán las mesas directivas de casilla en términos de los programas aprobados por el Consejo General, y en su caso, en el procedimiento de ubicación e integración de las mesas directivas de casilla;
+La demanda debe ser escrita; pero cuando sean notorias la pobreza e ignorancia del reclamante y en tanto no se establezca en el Estado la Defensoría de Oficio en materia civil; el juez aceptará la relación sencilla que se le haga, y si la reclamación es legal, se encargará de suplir en una acta los defectos de forma. En este caso, el demandado podrá ocurrir al juzgado a tomar los datos que necesite para formular su contestación. Se procederá en esta forma cuando la demanda sea por menos de cinco mil pesos y además concurran las circunstancias previstas.
 
-II. Llevar a cabo las funciones de capacitación electoral que en su caso delegue el INE al Instituto;
+ARTICULO 208
 
-III. Diseñar programas y elaborar materiales de educación cívica, así como para la promoción y difusión de la cultura política, en coordinación con instituciones educativas y dependencias de gobierno;
+Precisamente con la demanda debe el actor presentar todas las pruebas justificativas de su acción y ofrecer las que para su recepción necesiten tramitación especial.
 
-IV. Fomentar la participación ciudadana a través de los programas de educación cívica y de cultura política;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
-V. Promover la cultura democrática en la Entidad;
+ARTICULO 209
 
-VI. Establecer, previa aprobación del Secretario Ejecutivo, los programas de capacitación y evaluaciones para garantizar que los servidores públicos que ejerzan la función de Oficialía Electoral cuenten con los conocimientos y probidad necesarios para el debido ejercicio de la función, y
+El Juez examinará de oficio la demanda y si la encontrare obscura o irregular o no estuviere acreditada la personalidad del actor, le prevendrá que la aclare, corrija o complete de acuerdo con la Ley en los primeros casos, señalando en concreto los defectos y en el último, se negará a darle curso. El Juez puede hacer la prevención que se indica por una sola vez, y verbalmente.
 
-VII. Las demás que le sean encomendadas por el Consejo, el Consejero Presidente y otras disposiciones.
+ARTICULO 210
 
-###### ARTÍCULO 83.
+Presentada la demanda con los documentos y copias prevenidas, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que contesten dentro de nueve días.
 
-Para efectos de la capacitación de los consejeros distritales y municipales, personal administrativo que no pertenezca al servicio profesional electoral nacional de los diversos órganos electorales, la Dirección de Capacitación y Organización Electoral, deberá presentar al Consejo a más tardar en la primera semana del mes de diciembre del año previo al de la elección, el programa de capacitación para la elección correspondiente, el cual deberá incluir los contenidos y el calendario de capacitación con lugares y horas de la misma, a efecto de que sea aprobada por el Consejo. A dicha capacitación podrán asistir los representantes de los partidos políticos acreditados ante el Consejo, o bien las personas que éstos acrediten para tal efecto.
+ARTICULO 211
 
-###### ARTÍCULO 84.
+Los efectos de la presentación de la demanda son:
 
-Corresponde a la Dirección Jurídica las siguientes funciones:
+I.- Interrumpir la prescripción si no lo estuviere por otros modos;
 
-I. Asesorar al Consejo, al Presidente, al Secretario Ejecutivo y a los diferentes órganos del Instituto en asuntos de orden jurídico;
+II.- Señalar el principio de la instancia;
 
-II. Coadyuvar en la instrucción y tramitación de los medios de impugnación interpuestos contra actos y resoluciones de los órganos del Instituto;
+III.- Determinar el valor de las prestaciones exigidas.
 
-III. Coadyuvar en la substanciación de los procedimientos sancionadores establecidos en el Libro Cuarto de este Código;
+ARTICULO 212
 
-IV. Atender y resolver consultas sobre la aplicación de la LGIPE, la LGPP y este Código, que formulen las diversas áreas del Instituto para conformar criterios de interpretación legal;
+Los efectos del emplazamiento, son:
 
-V. Preparar proyectos de reglamentos y demás disposiciones normativas para el buen funcionamiento del Instituto;
+I.- Prevenir el juicio en favor del juez que lo hace;
 
-VI. Preparar o en su caso, revisar los proyectos de acuerdos, dictámenes y lineamientos que deban ser expedidos por los órganos del Instituto;
+II.- Sujetar al emplazado a seguir el juicio ante el juez que lo emplazó siendo competente al tiempo de la notificación, aunque después deje de serlo con relación al demandado, porque éste cambie de domicilio, o por otro motivo legal;
 
-VII. Prestar servicios legales a los órganos del Instituto;
+III.- Obligar al demandado a contestar ante el juez que lo emplazó, salvo siempre el derecho de provocar la incompetencia;
 
-VIII. Apoyar al Secretario Ejecutivo en la defensa de los intereses patrimoniales e institucionales ante los diversos órganos jurisdiccionales en materia civil, mercantil, penal, laboral, administrativa y fiscal;
+IV.- Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituído ya en mora el obligado;
 
-IX. Formular y en su caso revisar los actos jurídicos en que intervenga el Instituto;
+V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
-X. Brindar asesoría y realizar estudios jurídicos a petición de las Comisiones del Consejo que así lo soliciten,
+ARTICULO 213
 
-XI. Coadyuvar con la Fiscalía Especial en Delitos Electorales, y
+Para la contestación de la demanda y principalmente para la reconvención o la compensación, se observarán los mismos requisitos exigidos para la demanda.
 
-XII. Las demás que le sean encomendadas por el Consejo, el Consejero Presidente y otras disposiciones.
+Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fuesen supervenientes. En la misma forma se propondrá la reconvención.
 
-### CAPÍTULO VI. De la Junta Estatal Ejecutiva
+ARTICULO 214
 
-###### ARTÍCULO 85.
+Las excepciones y la reconvención se discutirán al propio tiempo que la demanda y se decidirán en la misma sentencia.
 
-La Junta Estatal Ejecutiva del Instituto, es un organismo electoral técnico y de apoyo, que depende del Consejo, y que se integra de la siguiente manera:
+ARTICULO 215
 
-I. El Presidente del Consejo, quien la presidirá;
+La declinatoria de jurisdicción se propondrá ante el juez, pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de tres días, más el que se necesite por razón de la distancia, comparezcan ante éste, el cual en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
 
-II. El Secretario Ejecutivo, quien será el secretario de la misma, y
+Cuando no proceda la declinatoria, debe pagar las costas causadas el que la promovió y una multa hasta de trescientos pesos que, según la importancia del litigio, le impondrá el superior a favor del colitigante.
 
-III. Los titulares de la Dirección de Capacitación y Organización Electoral, de la Dirección Administrativa y de la Dirección Jurídica.
+ARTICULO 216
 
-El Presidente podrá convocar al Contralor a las sesiones de la Junta Estatal Ejecutiva, el cual podrá participar sólo con voz.
+Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, se abstendrá el juez de fallar la cuestión principal, reservando el derecho del actor.
 
-###### ARTÍCULO 86.
+ARTICULO 217
 
-La Junta Estatal Ejecutiva se reunirá por lo menos una vez al mes con los siguientes propósitos:
+La contestación de la demanda quedará en el juzgado a la vista del actor.
 
-I. Fijar las políticas generales, los programas y los procedimientos administrativos del Instituto;
+ARTICULO 218
 
-II. Cuidar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
+Cuando sin justa causa después de hacerse personalmente el emplazamiento, el emplazado dejare de contestar la demanda o alguna de sus partes, se presumirán confesados los hechos que no hayan sido contestados. El silencio y las evasivas en la contestación respecto a uno o más hechos de la demanda, establecen igual presunción.
 
-III. Aprobar el calendario y el plan integral del proceso electoral de que se trate, para ser puestos a consideración del Consejo;
+ARTICULO 219
 
-IV. Presentar a consideración del Consejo, el proyecto de dictamen de pérdida de registro de la asociación política que se encuentre en los supuestos previstos por el presente Código;
+A los ocho días siguientes al de la contestación de la demanda, llamará el juez a las partes a una junta en la que en debate verbal fijen con claridad los puntos cuestionados. En esa junta se observarán las siguientes reglas:
 
-V. Supervisar el cumplimiento de los distintos programas del Instituto;
+I.- El demandado y el actor, en sus casos, deberán confesar, negar o explicar los hechos aducidos en la demanda y en la contestación;
 
-VI. Estudiar y preparar las propuestas relativas al desarrollo del Instituto y sus órganos electorales;
+II.- El silencio y respuestas evasivas de las partes, se tendrán como confesión de los hechos a que se refieren;
 
-VII. Recibir informes del Contralor respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto, y
+III.- Debe examinarse a los testigos que presenten las partes, y, de ser posible, practicarse las pruebas pericial y de inspección que hayan sido ofrecidas;
 
-VIII. Las demás que señale el presente Código, las disposiciones reglamentarias, el Consejo o su Presidente.
+IV.- No se requiere acta pormenorizada de las juntas, basta con asentar en ella los puntos controvertidos, entendiéndose que hay conformidad de las partes, con todos los demás, y
 
-Durante el tiempo que transcurra entre los procesos electorales, la Junta Estatal Ejecutiva realizará las actividades que el presupuesto le permita.
+V.- Debe el juez, con toda energía, suprimir digresiones y alegatos de los litigantes, compeliéndolos a responder llanamente sobre los hechos de la contestación, sobre la réplica y sobre las preguntas que se formulen en materia de pruebas.
 
-### CAPÍTULO I. De la Integración, Instalación y Funcionamiento de los Consejos Distritales
+ARTICULO 220
 
-###### ARTÍCULO 87.
+Si transcurrido el término del emplazamiento no es contestada la demanda, se hará la declaración de rebeldía.
 
-Los consejos distritales electorales son los responsables de organizar las elecciones dentro de sus respectivos distritos, conforme a lo dispuesto por la LGIPE y este Código. Gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
+Para hacer la declaración de rebeldía, el juez examinará escrupulosamente si las notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
-###### ARTÍCULO 88.
+ARTICULO 221
 
-Con residencia en cada uno de los distritos electorales en que se divide el Estado, funcionará un Consejo Distrital que a más tardar en la primera semana del mes de enero del año de la elección, iniciará sus sesiones. A partir de esa fecha y hasta la terminación del proceso electoral, sesionará por lo menos una vez al mes.
+Si no fue posible la recepción de todas las pruebas en la junta a que se refiere el artículo 219, se citará para otra, dentro de los veinte días siguientes al en que se haya efectuado la primera o al último del emplazamiento en caso de rebeldía.
 
-Dichos Consejos podrán ser clausurados antes de la conclusión del proceso electoral, una vez que hayan causado ejecutoria los acuerdos mediante los cuales determinaron y validaron los resultados de la elección de su competencia y por ende hayan terminado sus funciones.
+En esta segunda junta, se recibirán las pruebas pendientes, inclusive las de tachas, se oirá el alegato de las partes y se dictarán los puntos decisorios de la sentencia, salvo el caso en que la ley concede mayor término al sentenciador.
 
-El Consejo velará por el cumplimiento al principio de definitividad en los términos del presente Código.
+Al acabar la audiencia en esta junta, se tendrá por concluído el término probatorio que principia por ministerio de la ley con la notificación del primer emplazamiento.
 
-###### ARTÍCULO 89.
+ARTICULO 222
 
-Los consejos distritales electorales se integrarán por cinco consejeros electorales propietarios, con derecho a voz y voto, de entre los cuales uno de ellos será el Presidente; por un Secretario Técnico y por un representante de cada uno de los partidos políticos y el que corresponda al o candidatos independientes, con derecho a voz.
+Las excepciones supervenientes, se harán valer hasta antes de la sentencia y dentro de tercero día de aquél en que tenga conocimiento la parte. Se substanciarán por cuerda separada y en forma de incidente, procurando que su resolución se reserve para la definitiva.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 223
 
-El Consejo por el voto de cuando menos cinco de sus miembros, designará a los consejeros electorales y secretarios técnicos de los consejos distritales, de entre los ciudadanos que proponga el Consejero Presidente.
+Confesada la demanda en todas sus partes o manifestada la conformidad del actor con la contestación de ella, se pronunciará sentencia desde luego.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 224
 
-El Consejero Presidente, en la primera semana de noviembre del año previo al de la elección emitirá la convocatoria, la cual se sujetará a los términos del Reglamento aplicable que expida el INE a los ciudadanos para integrar los consejos distritales; los solicitantes en la segunda quincena del mes de noviembre del año previo al de la elección, recibirán la capacitación y se procederá a la realización de un examen para acreditar los conocimientos en materia electoral; con base en los resultados el Presidente del Consejo formulará las propuestas de integración de cada Consejo Distrital, que presentará al Consejo para su designación en la última quincena de diciembre del año previo a la elección.
+Si las cuestiones controvertidas fueren puramente de derecho, que no estuviere sujeto a prueba, se señalará día y hora para la audiencia de alegatos.
 
-Por cada consejero distrital propietario será nombrado también un consejero distrital suplente.
+### CAPITULO II. Reglas generales sobre la prueba
 
-Ante la falta del Presidente del Consejo Distrital a una sesión, los consejeros distritales designarán de entre ellos a quien presidirá exclusivamente esa sesión, debiéndose asentar esa situación en el acta correspondiente.
+ARTICULO 225
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+Para conocer la verdad sobre los puntos controvertidos, puede el juzgador valerse de cualquier persona, sea parte o tercero, y de cualquiera cosa o documento, ya sea que pertenezca a las partes o a un tercero; sin más limitación que la de que las pruebas no estén prohibidas por la ley, ni sean contrarias a la moral.
 
-###### ARTÍCULO 90.
+ARTICULO 226
 
-Para ser Consejero Electoral o Secretario Técnico de un Consejo Distrital o Municipal se deben cumplir con los requisitos establecidos en el Reglamento aplicable que expida el INE, además de los siguientes:
+Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquiera diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. En la práctica de estas diligencias, el juez obrará como estime procedente, para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes, oyéndolas y procurando en todo su igualdad.
 
-I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos políticos y civiles;
+ARTICULO 227
 
-II. Tener una residencia en el Estado, no menor de tres años, al día de la jornada electoral;
+Los daños y perjuicios que se ocasionen a tercero por comparecer, o exhibir alguna cosa, serán indemnizados por la parte que ofreció la prueba, o por ambas, si el juez procedió de oficio, sin perjuicio de que sea hecha la regulación de costas en su oportunidad.
 
-III. Tener reconocida honorabilidad;
+ARTICULO 228
 
-IV. Poseer suficientes conocimientos en materia electoral para el desempeño de sus funciones;
+El actor debe probar los hechos constitutivos de su acción y el reo los de sus excepciones.
 
-V. No estar en los supuestos a que se refiere el artículo 10 de este Código;
+ARTICULO 229
 
-VI. Estar inscrito en el Registro Federal de Electores, aparecer en la lista nominal y contar con credencial para votar;
+El que niega sólo estará obligado a probar:
 
-VII. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años anteriores a la designación;
+I.- Cuando la negación envuelva la afirmación expresa de un hecho;
 
-VIII. No ser servidor público de ninguno de los tres órdenes de gobierno o de organismos públicos descentralizados, con excepción de los servicios no remunerados que se ejerzan en asociaciones docentes, científicas, culturales, de investigación o de beneficencia;
+II.- Cuando se desconozca la presunción legal que tenga en su favor el colitigante;
 
-IX. No ser o haber sido dirigente nacional, estatal o municipal de partido político en los tres años inmediatos anteriores a la designación, ni ser ministro de culto religioso, y
+III.- Cuando se desconozca la capacidad;
 
-X. No estar afiliado a algún Partido Político.
+IV.- Cuando la negativa fuere elemento constitutivo de la acción.
 
-###### ARTÍCULO 91.
+ARTICULO 230
 
-Los Consejos Distritales Electorales tendrán las atribuciones siguientes:
+Ni la prueba en general, ni los medios de prueba establecidos por la ley, son renunciables.
 
-I. Vigilar la observancia de este Código, la LGIPE, la LGPP y demás leyes relativas;
+ARTICULO 231
 
-II. Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo;
+Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
 
-III. En caso de que el INE delegue esta función, aprobar el número y ubicación de las mesas directivas de casillas, así como nombrar a sus funcionarios, en los términos que establece la LGIPE y este Código;
+ARTICULO 232
 
-IV. Registrar a los candidatos a diputados por el principio de mayoría relativa;
+El tribunal debe recibir las pruebas que le presenten las partes, siempre que estén permitidas por la ley y se refieran a los puntos cuestionados.
 
-V. Realizar el cómputo distrital de la elección de diputados según el principio de mayoría relativa;
+Los hechos notorios no necesitarán ser probados, y el juez puede invocarlos, aunque no hayan sido alegados por las partes.
 
-VI. Declarar la validez de la elección de diputados de mayoría relativa y expedir la constancia de mayoría a la fórmula de diputados electa por este principio;
+ARTICULO 233
 
-VII. Integrar y remitir el expediente de la elección de diputados de mayoría relativa al Consejo, para los efectos de la asignación de los diputados de representación proporcional;
+Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal la cosa o documento que tiene en su poder.
 
-VIII. Realizar el cómputo distrital de la elección de Gobernador y remitir el expediente al Consejo;
+ARTICULO 234
 
-IX. Solicitar, por conducto de su Presidente, apoyo de la fuerza pública para asegurar el desarrollo de sus funciones y del proceso electoral;
+Los terceros están obligados, en todo tiempo, a prestar auxilio a los tribunales en la averiguación de la verdad. En consecuencia, deben sin demora exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos.
 
-X. Registrar los nombramientos de representantes de partidos políticos y del candidato independiente ante el Consejo Distrital y en su caso, los de mesas directivas de casillas, así como de representantes generales de conformidad a lo establecido en la LGPP y este Código, y
+Los tribunales tienen la facultad y el deber de compeler a terceros, con los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
-XI. Las demás que le confiere este Código.
+De la mencionada obligación están exentos los ascendientes, descendientes, cónyuge y personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con quien estén relacionados.
 
-### CAPÍTULO II. De la Presidencia del Consejo Distrital
+ARTICULO 235
 
-###### ARTÍCULO 92.
+La ley reconoce como medios de prueba:
 
-Corresponden al Presidente del Consejo Distrital las atribuciones siguientes:
+I.- La confesión;
 
-I. Convocar y conducir las sesiones del Consejo Distrital;
+II.- Los documentos públicos;
 
-II. Establecer los vínculos entre el Consejo Distrital y el Consejo, para coordinarse en sus respectivos ámbitos de competencia para el mejor cumplimiento de sus atribuciones;
+III.- Los documentos privados;
 
-III. Solicitar al Instituto, la información, documentación y cartografía para llevar a cabo el proceso electoral en su distrito;
+IV.- Los documentos periciales;
 
-IV. Proponer al Consejo de entre los suplentes, los candidatos para cubrir las vacantes que se generen de consejeros electorales;
+V.- El reconocimiento o inspección judicial;
 
-V. Recibir de los partidos políticos y del candidato independiente la acreditación de sus representantes;
+VI.- Los testigos;
 
-VI. Remitir al Consejo copia de las actas y dictámenes levantados y aprobados durante las sesiones;
+VII.- Las fotografías, copias fotostáticas, registros dactiloscópicos, y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia;
 
-VII. En caso de que el INE delegue esta función, elaborar el proyecto de la lista de casillas, su ubicación e integración, auxiliado por el Secretario, con base en la propuesta que le remita la Dirección de Capacitación y Organización Electoral, y presentarla para su aprobación ante el pleno del Consejo Distrital; ordenar la publicación de la ubicación de las mesas directivas de casillas y sus integrantes; entregar a los presidentes de las mesas directivas de casilla el material y la documentación electoral necesaria, y auxiliar a las mesas directivas de casilla en su demarcación territorial;
+VIII.- La fama pública;
 
-VIII. Publicar los resultados de los cómputos distritales mediante avisos colocados en el exterior de sus oficinas;
+IX.- Las presunciones, y
 
-IX. Integrar y remitir al Consejo las actas de los cómputos distritales con los demás documentos que deben contener los expedientes;
+X.- Los demás medios que produzcan convicción en el juzgador.
 
-X. Recibir los recursos que se promuevan y darles el trámite que proceda;
+ARTICULO 236
 
-XI. Informar al Consejo sobre el desarrollo de sus funciones;
+Las pruebas deben ser ofrecidas, relacionándolas con cada uno de los puntos controvertidos, declarando el nombre y domicilio de testigos y peritos, si de éstos se trata, y pidiendo la citación de la contraparte para absolver posiciones, cuando se pretenda la prueba de confesión.
 
-XII. Dar seguimiento al cumplimiento de los acuerdos del Consejo Distrital, y
+ARTICULO 237
 
-XIII. Las demás establecidas por la LGIPE, el presente Código y las que le sean conferidas por el Consejo.
+La prueba de confesión se ofrece presentando el pliego que contenga las posiciones. Si éste se presentare cerrado, deberá guardarse así en el secreto del juzgado, asentándose la razón respectiva en la misma cubierta. La prueba será admisible aunque no se exhiba el pliego, pidiendo tan sólo la citación; pero si no concurriere el absolvente a la diligencia de prueba, no podrá ser declarado confeso, más que de aquellas posiciones que con anticipación se hubieren formulado.
 
-### CAPÍTULO III. Del Secretario Técnico del Consejo Distrital
+ARTICULO 238
 
-###### ARTÍCULO 93.
+La prueba pericial procede cuando sean necesarios conocimientos especiales en alguna ciencia, arte o industria o cuando lo mande la ley, y se ofrecerá expresando los puntos sobre los que versará y, si así se desea, las cuestiones que deben resolver los peritos.
 
-Corresponden al Secretario del Consejo Distrital Electoral las siguientes atribuciones:
+ARTICULO 239
 
-I. Auxiliar al Presidente en el ejercicio de sus atribuciones;
+Las constancias de autos se tomarán como pruebas, aunque no se ofrezcan.
 
-II. Preparar el orden del día de las sesiones del consejo distrital, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a su aprobación;
+ARTICULO 240
 
-III. Preparar la documentación y proyectos de dictamen que deban ser tratados en las sesiones del organismo;
+Al solicitarse la inspección judicial, se determinarán los puntos sobre que deba versar.
 
-IV. Proporcionar la información y documentación necesaria para la substanciación de los recursos que se interpongan en contra de los actos y resoluciones del organismo, informando sobre esto en la sesión inmediata siguiente;
+ARTICULO 241
 
-V. Llevar el archivo del Consejo Distrital;
+El juez queda facultado, al admitir las pruebas ofrecidas, para elegir la forma escrita o la forma oral en la recepción y práctica de ellas, a menos que ambas partes hubieren propuesto con anterioridad forma expresa de recibirlas.
 
-VI. Expedir los documentos que acrediten la personalidad de los representantes de partidos políticos y del candidato independiente ante el Consejo Distrital y en su caso, los de mesas directivas de casillas, así como de representantes generales de conformidad a lo establecido en la LGPP y este Código;
+En la forma escrita, las pruebas se recibirán durante el período probatorio, a medida que se vayan presentando o el juez lo determine.
 
-VII. Firmar junto con el Presidente, todos los acuerdos y resoluciones del mismo, sin el cual no tendrá validez;
+ARTICULO 242
 
-VIII. Integrar los expedientes con las actas y demás documentación de la elección de diputados y Gobernador, para presentarlos oportunamente al Consejo;
+Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario, siempre que se llenen los requisitos siguientes:
 
-IX. Expedir y proporcionar las copias de la documentación e información, que le sea solicitada, siempre que guarde relación con la elección distrital, y
+I.- Que se solicite durante el término;
 
-X. Las demás que le confiera el Presidente o el Consejo Distrital.
+II.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados cuando la prueba sea de testigos;
 
-### CAPÍTULO I. De la Integración, Instalación y Funcionamiento de los Consejos Municipales
+III.- Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse originales.
 
-###### ARTÍCULO 94.
+El juez al calificar la admisión de las pruebas, resolverá sobre el término extraordinario, y se determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba, tomando en cuenta lo dispuesto en el artículo siguiente. Sin este depósito, no surtirá efecto el término extraordinario concedido.
 
-Los consejos municipales electorales son los responsables de celebrar el cómputo de la elección de Ayuntamiento de los once Municipios del Estado, conforme a lo dispuesto en este Código, gozarán de autonomía en su funcionamiento e independencia en sus decisiones.
+ARTICULO 243
 
-###### ARTÍCULO 95.
+El litigante a quien se hubiere concedido la dilación extraordinaria y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del juez, será condenado, al extinguirse el período probatorio, a pagar a su contraparte una multa de cincuenta a mil pesos como indemnización de daños y perjuicios.
 
-Con residencia en cada una de las cabeceras municipales de cada uno de los once municipios del Estado, funcionará un Consejo Municipal que a más tardar la primera semana del mes de marzo del año de la elección, iniciará sus sesiones. A partir de esa fecha y hasta la terminación del proceso electoral, sesionará por lo menos una vez al mes.
+ARTICULO 244
 
-Dichos Consejos podrán ser clausurados antes de la conclusión del proceso electoral, una vez que hayan causado ejecutoria los Acuerdos mediante los cuales determinaron y validaron los resultados de la elección de su competencia y por ende hayan terminado sus funciones.
+El término extraordinario de prueba será:
 
-El Consejo, velará por el cumplimiento al principio de definitividad en los términos del presente Código.
+I.- Hasta de cincuenta días, si las pruebas para las que se solicitó han de practicarse dentro del territorio nacional y fuera del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+II.- Hasta de cien días, si hubieren de practicarse en la América del Norte, en la Central o en las Antillas, y
 
-###### ARTÍCULO 96.
+III.- Hasta de ciento veinte días, si hubieren de practicarse en cualquiera otra parte.
 
-Los consejos municipales electorales se integrarán por cinco consejeros electorales propietarios, con derecho a voz y voto, de entre los cuales uno de ellos será el Presidente, por un Secretario Técnico y por un representante de cada uno de los partidos políticos y el que corresponda a las planillas que obtengan la candidatura independiente, con derecho a voz.
+ARTICULO 245
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Después de concluído el término de prueba, no se recibirá prueba alguna que no fuere aquella para cuya recepción se concedió el término extraordinario.
 
-El Consejo, por el voto de cuando menos cinco de sus miembros, designará a los consejeros electorales y secretarios técnicos de los consejos municipales, de entre los ciudadanos que proponga el Consejero Presidente.
+El término extraordinario correrá desde el día siguiente al auto que califica las pruebas, y concluirá luego que se rindan aquéllas para las que se pidió, aunque haya expirado el plazo señalado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 246
 
-El Consejero Presidente, en la segunda semana de enero del año de la elección, emitirá la convocatoria, la cual se sujetará a los términos del Reglamento aplicable que expida el INE, a los ciudadanos para integrar los consejos municipales; los solicitantes en la primera quincena de febrero del año de la elección, recibirán la capacitación y se procederá a la realización de un examen para acreditar los conocimientos en materia electoral; con base en los resultados el Presidente del Consejo formulará las propuestas de integración de cada Consejo Municipal, que presentará al Consejo para su designación en la última semana de febrero del año de la elección.
+Ni el término ordinario ni el extraordinario, podrán suspenderse ni ampliarse, ni aún por consentimiento común de los interesados. Sólo causas muy graves, a juicio del juez, y bajo su responsabilidad, podrán producir la ampliación o suspensión.
 
-Por cada consejero municipal propietario será nombrado también un consejero municipal suplente.
+ARTICULO 247
 
-Ante la falta del Presidente del Consejo Municipal a una sesión, los consejeros distritales designarán de entre ellos a quien presidirá exclusivamente esa sesión, debiéndose asentar esa situación en el acta correspondiente.
+Las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo pena de nulidad y responsabilidad del juez. Se exceptúan aquellas diligencias que, pedidas en tiempo legal, no pudieron practicarse por causas no imputables al interesado, o que provengan de caso fortuito, de fuerza mayor o dolo del colitigante; en estos casos, el juez, si lo cree prudente, podrá mandar concluirlas dando conocimiento de ellas a las partes y señalando al efecto un término prudente por una sola vez.
 
-###### ARTÍCULO 97.
+## TITULO SEXTO. DEL JUICIO
 
-Son requisitos para ser Consejero Electoral o Secretario de un Consejo Municipal, los establecidos para ser Consejero Distrital.
+### CAPITULO III. De la confesión
 
-###### ARTÍCULO 98.
+ARTICULO 248
 
-Los consejos municipales electorales tendrán las atribuciones siguientes:
+Dentro del término de prueba, todo litigante está obligado a declarar bajo protesta de decir verdad cuando así lo exigiere el contrario.
 
-I. Vigilar la observancia de este Código y demás disposiciones relativas;
+El que haya de absolver posiciones será notificado personalmente, a más tardar el día anterior del señalado para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, será tenido por confeso.
 
-II. Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo;
+ARTICULO 249
 
-III. Realizar el cómputo Municipal de la elección de Ayuntamiento según el principio de mayoría relativa;
+La parte está obligada a absolver personalmente las posiciones cuando así lo exija el que las articula, o cuando el apoderado ignore los hechos.
 
-IV. Declarar la validez de la elección de Ayuntamiento y expedir la constancia de mayoría a la planilla electa;
+Es permitido articular posiciones al procurador que tenga poder especial para absolverlas, o general con cláusula para hacerlo.
 
-V. Integrar y remitir el expediente de la elección de Ayuntamiento al Consejo, para los efectos de la asignación de los regidores por el principio de representación proporcional;
+El cesionario se considera como apoderado del cedente para los efectos del inciso que precede.
 
-VI. Registrar los nombramientos de representantes de partidos políticos y el de la planilla de candidatos independientes ante el Consejo Municipal;
+Si el que deba de absolver posiciones estuviere ausente, el juez librará el correspondiente exhorto, acompañando cerrado y sellado el pliego en que constan las preguntas, del cual deberá sacar previamente una copia que, autorizada conforme a la ley con su firma y la del secretario, quedará en la secretaría del tribunal.
 
-VII. Tramitar los medios de impugnación que les sean presentados en términos del presente Código;
+El juez exhortado recibirá la confesión, pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 250
 
-VIII. Informar al Consejo sobre el desarrollo de sus funciones;
+Las posiciones deben articularse en términos precisos; no han de ser insidiosas; no contendrán más que un solo hecho cada una y éste ha de ser propio del que declara. Un hecho complejo puede comprenderse en una posición cuando por la íntima relación que exista entre ellos no pueda afirmarse o negarse uno sin afirmar o negar el otro. Se tienen por insidiosas las preguntas que se dirijan a ofuscar la inteligencia del que ha de responder con el objeto de obtener una confesión contraria a la verdad.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+Las posiciones deberán concretarse a hechos que sean objeto del debate, debiendo repelerse de oficio las que no reúnan este requisito. El juez deberá ser escrupuloso en el cumplimiento de este precepto.
 
-IX. Registrar las planillas de candidatos de su respectivo Ayuntamiento por el principio de mayoría relativa; y
+ARTICULO 251
 
-(REUBICADA, P.O. 29 DE MAYO DE 2017)
+Si el llamado a absolver posiciones comparece, el juez abrirá el pliego si lo hubiere, e impuesto de ellas, las calificará. En caso de aprobación de una o más preguntas, el absolvente firmará el pliego de posiciones, antes de procederse al interrogatorio.
 
-X. Las demás que le confiere este Código.
+Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
-### CAPÍTULO II. De la Presidencia del Consejo Municipal
+ARTICULO 252
 
-###### ARTÍCULO 99.
+En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador, ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente no supiere el castellano, podrá ser asistido por un intérprete nombrado por el juez.
 
-Corresponden al Presidente del Consejo Municipal las atribuciones siguientes:
+ARTICULO 253
 
-I. Convocar y conducir las sesiones del Consejo Municipal;
+Las contestaciones deberán ser categóricas, en sentido afirmativo o negativo, pudiendo el que las dé, agregar las explicaciones que estime convenientes, o las que el juez le pida.
 
-II. Establecer los vínculos entre el Consejo Municipal, Distrital y el Consejo, para coordinarse en sus respectivos ámbitos de competencia para el mejor cumplimiento de sus atribuciones;
+En el caso de que el declarante se negare a contestar o contestare con evasivas, o dijere ignorar los hechos propios, el juez lo apercibirá; en el acto, de tenerlo por confeso de los hechos sobre los cuales sus respuestas no fueren categóricas o terminantes.
 
-III. Solicitar al Instituto, la información y apoyos necesarios para el debido cumplimiento de sus facultades y obligaciones;
+ARTICULO 254
 
-IV. Proponer al Consejo de entre los suplentes, los candidatos para cubrir las vacantes de consejeros electorales;
+La parte que promovió la prueba puede formular posiciones al absolvente.
 
-V. Recibir de los partidos políticos y de la planilla de candidatos independientes la acreditación de sus representantes ante el Consejo Municipal;
+Absueltas las posiciones, el absolvente tiene derecho a su vez de formularlas en el acto al articulante si hubiere asistido. El tribunal puede libremente interrogar a las partes sobre los hechos y circunstancias que sean conducentes a la averiguación de la verdad.
 
-VI. Remitir al Consejo copia de las actas y dictámenes levantados y aprobados durante las sesiones;
+ARTICULO 255
 
-VII. Publicar los resultados de los cómputos municipales mediante avisos colocados en el exterior de sus oficinas;
+De las declaraciones de las partes se levantarán actas en las que se hará constar la contestación implicando la pregunta, iniciándose con la protesta de decir verdad y las generales.
 
-VIII. Integrar y remitir al Consejo, el acta del cómputo municipal así como el expediente del cómputo de la elección de ayuntamientos con los demás documentos que deben contener dicho expediente;
+Esta acta deberá ser firmada al pie de la última hoja y al margen de las demás en que se contengan las declaraciones producidas por los absolventes después de leerlas por sí mismos si quisieren hacerlo, o de que les sean leídas por la secretaría. Si no supieren firmar se hará constar esa circunstancia.
 
-IX. Recibir los recursos que se promuevan y darles el trámite que proceda;
+ARTICULO 256
 
-X. Informar al Consejo sobre el desarrollo de sus funciones, y
+En caso de enfermedad o imposibilidad legalmente comprobada del que deba declarar para asistir al recinto del tribunal, éste se trasladará al domicilio de aquél, donde se efectuará la diligencia a presencia de la otra parte si asistiere.
 
-XI. Las demás establecidas en el presente Código y las que le sean conferidas por el Consejo.
+ARTICULO 257
 
-### CAPÍTULO III. Del Secretario Técnico del Consejo Municipal
+El que deba absolver posiciones, será declarado confeso:
 
-###### ARTÍCULO 100.
+I.- Cuando sin justa causa no comparezca;
 
-Corresponden al Secretario del Consejo Municipal las siguientes atribuciones:
+II.- Cuando se niegue a declarar;
 
-I. Auxiliar al Presidente en el ejercicio de sus atribuciones;
+III.- Cuando al hacerlo insista en no responder afirmativa o negativamente.
 
-II. Preparar el orden del día de las sesiones del Consejo Municipal, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a su aprobación;
+En el primer caso, el juez abrirá el pliego y calificará las posiciones antes de hacer la declaración.
 
-III. Preparar la documentación y proyectos de dictamen que deban ser tratados en las sesiones del organismo;
+No podrá ser declarado confeso el llamado a absolver posiciones, si no hubiere sido apercibido legalmente.
 
-IV. Proporcionar la información y documentación necesaria para la substanciación de los recursos que se interpongan en contra de los actos y resoluciones del organismo, informando de esto, en la sesión inmediata siguiente;
+ARTICULO 258
 
-V. Llevar el archivo del Consejo Municipal;
+El auto en que se declare confeso al litigante o en el que se deniegue esta declaración, puede ser invocado como agravio en la apelación que proceda contra la sentencia.
 
-VI. Expedir los documentos que acrediten la personalidad de los representantes de los partidos políticos y el de la planilla de candidatos independientes;
+ARTICULO 259
 
-VII. Firmar junto con el Presidente del Consejo Municipal, todos los acuerdos y resoluciones del mismo, sin lo cual no tendrán validez;
+Se tendrá por confeso al articulante respecto a los hechos propios que afirmare en las posiciones.
 
-VIII. Integrar los expedientes con las actas y demás documentación de la elección de ayuntamientos, para presentarlos oportunamente al Consejo;
+ARTICULO 260
 
-IX. Expedir y proporcionar las copias de la documentación que le sea solicitada, que guarde relación con el Consejo Municipal; y
+Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio con acuse de recibo, insertando las preguntas que quiera hacerles para que, por vía de informe, sean contestadas dentro del término que designe el tribunal y que no excederá de cinco días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le ha fijado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
-X. Las demás que le confiera el Presidente o el propio Consejo Municipal.
+### CAPITULO IV. De la prueba instrumental
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+ARTICULO 261
 
-###### ARTÍCULO 101.
+Son documentos públicos:
 
-La función de la Oficialía Electoral es atribución del Secretario Ejecutivo y los secretarios técnicos de los consejos distritales y municipales, los cuales tendrán fe pública en el ejercicio de sus atribuciones.
+I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho y las escrituras originales mismas;
 
-Los secretarios técnicos de los consejos distritales y municipales sólo podrán ejercer esta función en la demarcación territorial que les corresponda y en relación a las atribuciones de los órganos electorales a que pertenezcan.
+II.- Los documentos auténticos expedidos por funcionarios que desempeñen cargo público, en lo que se refiere al ejercicio de sus funciones;
 
-###### ARTÍCULO 102.
+III.- Los documentos auténticos, libros de actas, estatutos, registros y catastros, que se hallen en los archivos públicos, o dependientes del Gobierno General o de los Estados, de los Ayuntamientos y delegaciones municipales del Estado de Veracruz;
 
-La Oficialía Electoral tendrá las siguientes atribuciones:
+IV.- Las certificaciones de actas del estado civil expedidas por los oficiales del Registro, respecto a constancias existentes en los libros correspondientes;
 
-I. Constatar, dentro y fuera del proceso electoral, actos y hechos que pudieran afectar la equidad en la contienda electoral;
+V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+VI.- Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o por quien haga sus veces con arreglo a derecho;
 
-II. Evitar, a través de su certificación, que se pierdan o alteren los indicios o elementos relacionados con actos o hechos que constituyan presuntas infracciones a la Legislación Electoral, para lo cual, dentro de las setenta y dos horas contadas a partir de la presentación de la solicitud de los partidos o candidatos de certificación de hechos, deberá comprobar su veracidad, tras lo cual a mas tardar en setenta y dos horas procederá a expedir la certificación;
+VII.- Los estatutos y reglamentos de sociedades, asociaciones o universidades, siempre que estuvieren aprobados por el Gobierno General o de los Estados y las copias que de ellas se expidieren, certificadas por notario;
 
-III. Recabar, en su caso, elementos probatorios dentro de los procedimientos instruidos por organismos del Instituto;
+VIII.- Las actuaciones judiciales de toda especie;
 
-IV. Certificar cualquier otro acto, hecho o documento relacionado con las atribuciones propias del Instituto, y
+IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la ley, y las expedidas por corredores titulados con arreglo al Código de Comercio;
 
-V. Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral. El día de la jornada electoral, también se podrá pedir colaboración de los jueces de primera instancia y agentes del ministerio público del fuero común.
+X.- Los demás a los que la ley reconozca ese carácter.
 
-La función de Oficialía Electoral no limita el derecho de los partidos políticos o candidatos independientes para solicitar los servicios de notarios públicos, tampoco limita la colaboración que deben brindar éstos, los jueces de primera instancia y los ministerios públicos del fuero común, durante el desarrollo de la jornada electoral.
+ARTICULO 262
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Los documentos públicos expedidos por autoridades federales o de los Estados, harán fe en el Estado sin necesidad de legalización.
 
-La Oficialía Electoral podrá realizar las funciones referidas en este artículo de oficio o previa petición presentada por un partido político o candidato independiente ante el Secretario Ejecutivo, o Secretarios Técnicos, la que deberá cumplir con los requisitos y formas que señalen las disposiciones reglamentarias de la función de Oficialía Electoral.
+Para que hagan fe en el Estado los documentos públicos procedentes del extranjero, deberán llenar los requisitos que fija el Código Federal de Procedimientos Civiles.
 
-###### ARTÍCULO 103.
+ARTICULO 263
 
-La fe pública para actos o hechos de naturaleza electoral, sólo podrá ser delegada por el Secretario Ejecutivo y a servidores públicos adscritos al Instituto que cumplan con los siguientes requisitos:
+De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria para que, dentro del tercer día, manifieste si está conforme. Si lo estuviere o no la objetare, se pasará por la traducción; en caso contrario, el tribunal nombrará traductor.
 
-I. Título de licenciatura, y
+ARTICULO 264
 
-II. Acreditar la evaluación que aplique la Dirección de Capacitación y Organización Electoral, la cual será referente a conocimientos en derecho electoral y notarial.
+Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento, o pieza que obre en los archivos públicos, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento.
 
-La delegación que realice el Secretario Ejecutivo de las atribuciones de la Oficialía Electoral, será mediante acuerdo que cumpla, al menos, con lo siguiente:
+ARTICULO 265
 
-I. Los nombres, cargos y datos de identificación de los servidores públicos del Instituto a quienes se delegue la función;
+Los instrumentos públicos se tendrán por legítimos y eficaces, salvo que se impugnare expresamente su autenticidad o exactitud por la parte a quien perjudiquen. En este caso, se decretará el cotejo con los protocolos y archivos, y se practicará por el secretario, constituyéndose, al efecto, en el archivo o local donde se halle la matriz, a presencia de las partes, si concurrieren, a cuyo fin se señalará previamente el día y la hora, salvo cuando se hiciere en el acto de la audiencia de pruebas.
 
-II. La atribución de la Oficialía Electoral que se delega a los servidores públicos;
+También podrá hacerlo el juez por sí mismo cuando lo estime conveniente.
 
-III. La demarcación territorial en la que estará habilitado;
+ARTICULO 266
 
-IV. El tiempo que tendrá vigencia la habilitación, y
+Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieran sido reconocidos expresamente. Puede exigirse el reconocimiento expreso si el que los presente así lo pidiere, con este objeto se mostrarán los originales a quien deba reconocerlos y se le dejará ver todo el documento.
 
-V. Publicarse en el Periódico Oficial del Estado, sin lo cual, el Acuerdo no podrá surtir efectos.
+Los documentos privados se presentarán originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
 
-El acuerdo a que se refiere este artículo, deberá ser emitido por el Secretario Ejecutivo un mes antes de que se inicie el proceso Electoral respectivo.
+ARTICULO 267
 
-###### ARTÍCULO 104.
+Si el documento se encuentra en libros o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cuál sea, y la copia testimoniada se tomará en el escritorio del establecimiento, sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, ni a más que a presentar las partidas o documentos designados.
 
-Dirección de Capacitación y Organización Electoral, previa aprobación del Secretario Ejecutivo, establecerá los programas de capacitación y evaluaciones para garantizar que los servidores públicos que ejerzan la función de Oficialía Electoral cuenten con los conocimientos y probidad necesarios para el debido ejercicio de la función.
+ARTICULO 268
 
-La realización de la función de Oficialía Electoral se apegará a lo dispuesto por este Código y por las disposiciones reglamentarias que emita el Consejo.
+Podrá pedirse el cotejo de firmas y letras, siempre que se niegue o que se ponga en duda la autenticidad de un documento privado o de un documento público que carezca de matriz.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+La persona que pida el cotejo designará el documento o documentos indubitados con que deba hacerse, o pedirá al tribunal que llame al interesado para que en su presencia ponga la firma o letras que servirán para el cotejo.
 
-###### ARTÍCULO 105.
+ARTICULO 269
 
-Las mesas directivas de casillas son los organismos electorales que tienen a su cargo la recepción, escrutinio y cómputo del voto emitido en las secciones en que se dividen los distritos electorales del Estado, con motivo de las elecciones para renovar los poderes Legislativo, Ejecutivo y los ayuntamientos del Estado, así como en el referéndum y el plebiscito. El número de casillas, su integración y la ubicación se determinará de conformidad con lo dispuesto en el Capítulo V del Título Segundo del Libro Quinto de la LGIPE, así como de las disposiciones reglamentarias y acuerdos que emita el Consejo General.
+Se considerarán indubitados por el cotejo:
 
-### CAPÍTULO I. De los Consejos y Otras Autoridades
+I.- Los documentos que las partes reconozcan como tales, de común acuerdo;
 
-###### ARTÍCULO 106.
+II.- Los documentos privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya la dudosa;
 
-Los servidores públicos de los órganos electorales desempeñarán su función con probidad, no deberán utilizar ni divulgar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones.
+III.- Los documentos privados cuya letra o firma ha sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
 
-###### ARTÍCULO 107.
+IV.- El escrito impugnado en la parte en que reconozca la letra como suya a aquél a quien perjudique.
 
-Los presidentes de los consejos electorales convocarán por escrito a la sesión de instalación del organismo electoral que presidan; éstos se instalarán válidamente con la mayoría de los consejeros electorales; y con los representantes que para esa fecha hubieren acreditado los partidos políticos o candidatos independientes que en su caso estén presentes.
+V.- Las firmas puestas en actuaciones judiciales en presencia del secretario del tribunal por la parte cuya firma o letra se trata de comprobar.
 
-###### ARTÍCULO 108.
+ARTICULO 270
 
-Los consejos distritales y municipales electorales, dentro de las cuarenta y ocho horas siguientes a su instalación, remitirán copia del acta respectiva al Consejo. En idéntica forma procederán respecto de las subsecuentes sesiones.
+El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica, sin tener que sujetarse al dictamen de aquéllos; y aun puede ordenar que se repita el cotejo por otros peritos.
 
-###### ARTÍCULO 109.
+ARTICULO 271
 
-Los partidos políticos deberán acreditar a sus representantes ante los consejos electorales, a más tardar dentro de los quince días siguientes a la fecha de la sesión de instalación del Consejo del que forman parte.
+Cuando alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales. En este caso, no se efectuará la audiencia de alegatos mientras no se decida sobre la falsedad por la autoridad competente. Si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, el juez oirá a las partes sobre el valor probatorio del instrumento y se continuará el juicio.
 
-En el caso de los candidatos independientes, deberán acreditar a sus representantes ante los consejos electorales a más tardar dentro de los quince días siguientes a la fecha de obtención del registro de la candidatura independiente que se trate.
+### CAPITULO V. De la prueba pericial
 
-###### ARTÍCULO 110.
+ARTICULO 272
 
-Los partidos políticos y candidatos independientes podrán sustituir en todo tiempo a sus representantes ante los consejos distritales y municipales. Por cada representante propietario habrá un suplente.
+Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sujeto a su dictamen, si la profesión o el arte estuvieren legalmente reglamentados.
 
-###### ARTÍCULO 111.
+Si la profesión o el arte no estuvieren legalmente reglamentados o estándolo, no hubiere peritos titulados en el lugar, podrán ser nombradas cualesquiera personas entendidas, aun cuando no tengan título.
 
-Cuando el representante propietario de un partido político o candidato independiente, y en su caso el suplente de alguno de ellos, no asistan durante tres veces consecutivas a las sesiones del organismo ante el cual se encuentren acreditados, el partido político o candidato independiente dejará de formar parte del mismo en el proceso electoral del que se trate. En las primeras dos faltas, el presidente del consejo respectivo requerirá al representante para que asista a la siguiente sesión y dará aviso al partido político o candidato independiente, así como al Consejo de cada inasistencia.
+ARTICULO 273
 
-###### ARTÍCULO 112.
+Cada parte dentro del tercero día nombrará un perito a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
 
-Los consejos distritales y municipales, expedirán a solicitud de los representantes de los partidos políticos o de los candidatos independientes acreditados, copias certificadas de las actas de las sesiones que celebren, las cuales deberán ser previamente pagadas por los solicitantes. El Secretario Técnico del órgano correspondiente recabará el recibo de las copias certificadas que se expida conforme a este artículo.
+ARTICULO 274
 
-###### ARTÍCULO 113.
+El juez nombrará los peritos que correspondan a cada parte en los siguientes casos:
 
-Las sesiones de los consejos serán públicas. Los asistentes deberán guardar el debido orden en el recinto donde se celebren las sesiones.
+I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo anterior;
 
-Para garantizar el orden, los Presidentes podrán tomar las siguientes medidas:
+II.- Cuando el designado por las partes no aceptare dentro de las cuarenta y ocho horas que sigan a la notificación de su nombramiento;
 
-I. Exhortación a guardar el orden;
+III.- Cuando habiendo aceptado, no rindiere su dictamen dentro del término fijado o en la diligencia respectiva;
 
-II. Conminar a abandonar el local, y
+IV.- Cuando el que fue nombrado y aceptó el cargo lo renunciare después;
 
-III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
+V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba o no se hubiere señalado su domicilio.
 
-###### ARTÍCULO 114.
+ARTICULO 275
 
-En las sesiones de los consejos, solo ocuparán lugar y tomarán parte en las deliberaciones, los consejeros electorales y los representantes de los partidos políticos y del o los candidatos independientes acreditados.
+El juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquiera otro caso fijará a los peritos un término prudente para que presenten su dictamen. Las partes pueden en todo caso formular a los peritos las cuestiones que sean pertinentes.
 
-###### ARTÍCULO 115.
+ARTICULO 276
 
-Para que los consejos electorales puedan sesionar es necesario que estén presentes más de la mitad de los consejeros.
+En el caso de la primera parte del artículo anterior, concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-Las resoluciones se tomarán por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión suspendida tendrá lugar, previa convocatoria notificada en el domicilio de sus integrantes, dentro de las veinticuatro horas siguientes, la cual será válida con los miembros que asistan, y por lo tanto los acuerdos y resoluciones que en ella se tomen.
+I.- El perito que dejare de concurrir sin causa justa, calificada por el tribunal, incurrirá en una multa de diez a cincuenta pesos y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 274;
 
-###### ARTÍCULO 116.
+II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse para que los peritos discutan y deliberen solos;
 
-El Instituto celebrará los convenios necesarios con las dependencias correspondientes, a fin de que los organismos electorales gocen de las franquicias postales de conformidad con los ordenamientos legales aplicables.
+III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto, de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado a los otros.
 
-###### ARTÍCULO 117.
+ARTICULO 277
 
-Las autoridades federales, estatales y municipales están obligadas a proporcionar a los organismos electorales, a petición de los presidentes respectivos, los informes, certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
+El perito que nombre el juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a la en que se notifique su nombramiento a los litigantes, siempre que concurra alguna de las siguientes causas:
 
-###### ARTÍCULO 118.
+I.- Consanguinidad dentro del cuarto grado;
 
-Los consejos electorales determinarán su horario de labores. Los consejos distritales y municipales lo comunicarán oportunamente al Consejo; todos los consejos deberán notificar a los partidos políticos y a los candidatos independientes de forma personal y por estrados, el domicilio del Secretario Técnico o persona autorizada para la recepción de los escritos de término fuera del horario de labores.
+II.- Interés directo o indirecto en el pleito;
 
-Durante el proceso electoral, todos los días y horas son hábiles.
+III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
-###### ARTÍCULO 119.
+El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer.
 
-Para asegurar el orden y garantizar el desarrollo de la jornada electoral, los cuerpos de Seguridad Pública de la Federación, estatales y municipales o, en su caso, las fuerzas armadas, deben prestar el auxilio que les requieran los órganos del Instituto y los presidentes de las mesas directivas de casilla, en el ámbito de sus respectivas competencias, conforme a las disposiciones de este Código.
+Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que el recusado.
 
-El día de la elección y el precedente, las autoridades competentes de acuerdo a la normatividad, podrán establecer medidas para limitar el horario de servicio de los establecimientos en los que se sirvan bebidas embriagantes. El día de la elección, los cuerpos de seguridad pública estatal y municipal, no establecerán retenes o adoptarán cualquier tipo de medidas que inhiban, restrinjan o impidan la libertad de tránsito.
+En caso de ser desechada la recusación, se impondrá al recusante una multa que no excederá de veinte pesos, en favor del colitigante.
 
-###### ARTÍCULO 120.
+ARTICULO 278
 
-Las autoridades federales, estatales y municipales tendrán la obligación de proporcionar a los organismos electorales lo siguiente:
+El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el juez. El del tercero, será pagado por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas.
 
-I. Información que obre en su poder y que se relacione con el proceso electoral;
+### CAPITULO VI. Del reconocimiento o inspección judicial
 
-II. Certificación de los hechos o documentos que existan en los archivos a su cargo, y
+ARTICULO 279
 
-III. Apoyo necesario para practicar las diligencias que les sean demandadas para fines electorales.
+El reconocimiento o inspección se practicará siempre previa notificación a las partes, fijándose día, hora y lugar.
 
-###### ARTÍCULO 121.
+Las partes, sus representantes o abogados, pueden concurrir al acto y hacer las observaciones que estimen oportunas.
 
-Los notarios públicos en ejercicio, los jueces de primera instancia, los agentes del ministerio público del fuero común, mantendrán abiertas sus oficinas el día de la elección y deberán atender las solicitudes que les hagan los miembros de las mesas directivas de casilla, ciudadanos, representantes de los partidos políticos y de los candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
+También podrán concurrir los testigos de identidad o peritos que fueren necesarios.
 
-El Supremo Tribunal, la Fiscalía General del Estado y el Colegio de Notarios publicarán, cinco días antes del día de la elección, los nombres de los jueces, agentes del ministerio público y notarios, así como los domicilios de sus oficinas.
+ARTICULO 280
 
-### CAPÍTULO II. Del Servicio Profesional Electoral
+Del reconocimiento se levantará acta, que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. Cuando el juez dicte la sentencia en el momento mismo de la inspección, no se necesitan esas formalidades, bastando con que se haga referencia a las observaciones que haya provocado su convicción.
 
-###### ARTÍCULO 122.
+Si fuere necesario se levantarán planos o croquis, o se sacarán vistas fotográficas del lugar u objeto inspeccionado.
 
-Los miembros del servicio profesional electoral nacional del Instituto se regirán por lo dispuesto en el Título Tercero del Libro Cuarto de la LGIPE, el estatuto y demás disposiciones y acuerdos que apruebe el Consejo General.
+### CAPITULO VII. De la prueba testimonial
 
-# LIBRO TERCERO. DEL SISTEMA ELECTORAL Y EL PROCESO ELECTORAL
+ARTICULO 281
 
-## TÍTULO PRIMERO. DE LA ELECCIÓN DE LOS PODERES LEGISLATIVO, EJECUTIVO Y AYUNTAMIENTOS DEL ESTADO
+Todos los que tengan conocimiento de los hechos que las partes quieran probar, están obligados a declarar como testigos.
 
-## TÍTULO PRIMERO. DEL INSTITUTO ESTATAL ELECTORAL
+ARTICULO 282
 
-### CAPÍTULO I. De los Sistemas Electorales
+Los testigos serán llamados a declarar cuando la parte que ofrezca su testimonio manifieste no poder por sí misma hacer que se presenten.
 
-###### ARTÍCULO 123.
+Los que llamados legalmente se nieguen a comparecer sin causa justificada y los que habiendo comparecido se nieguen a declarar, serán apremiados por el tribunal.
 
-El Poder Legislativo se deposita en el Congreso del Estado, el cual estará integrado por dieciocho diputados electos, según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y hasta nueve diputados electos según el principio de representación proporcional, mediante el sistema de listas en una circunscripción plurinominal cuya demarcación es el Estado. El Congreso del Estado se renovará en su totalidad cada tres años.
+A los ancianos de más de sesenta años y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 283
 
-Para su integración se respetarán en todo momento los principios de paridad de género y alternancia, tanto en el registro de las fórmulas para su elección por parte de los partidos políticos, como en la asignación de curules de representación proporcional por parte de las autoridades electorales competentes.
+Al Gobernador, Secretario de Gobierno, diputados, magistrados, jueces, generales con mando y a las primeras autoridades políticas de los distritos, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes rendirán su declaración directamente.
 
-La distribución y delimitación territorial de los distritos electorales uninominales será determinada por el INE.
+ARTICULO 284
 
-###### ARTÍCULO 124.
+Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una solo (sic) no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen.
 
-El Poder Ejecutivo del Estado de Aguascalientes se deposita en una sola persona que se denomina Gobernador, electo cada seis años por mayoría relativa y por el voto directo de los habitantes de toda la entidad y ciudadanos que residan en el extranjero con derecho a ello.
+ARTICULO 285
 
-###### ARTÍCULO 125.
+La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Interrogará el promovente de la prueba y a continuación los demás litigantes.
 
-Cada Municipio será gobernado por un Ayuntamiento integrado por representantes electos por los principios de mayoría relativa y de representación proporcional, en términos de lo establecido por el artículo 66 de la Constitución.
+ARTICULO 286
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas, para que las otras partes dentro de tres días, puedan presentar sus interrogatorios de repreguntas. Para el examen de los testigos que no residan en el lugar del juicio, se librará exhorto, o en su caso oficio, en el que se incluirán, en pliego cerrado, las preguntas y repreguntas.
 
-Para su integración se respetarán en todo momento los principios de paridad de género y alternancia, tanto en el registro de las fórmulas para su elección, como en la asignación de regidores de representación proporcional.
+ARTICULO 287
+
+Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
+
+ARTICULO 288
+
+Los testigos serán examinados separada y sucesivamente, sin que unos puedan presenciar las declaraciones de los otros.
+
+ARTICULO 289
+
+Cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del juez para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
+
+ARTICULO 290
+
+El tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad, respecto a los puntos controvertidos.
+
+ARTICULO 291
+
+Si el testigo no sabe el idioma, rendirá su declaración por medio de intérprete nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
+
+ARTICULO 292
+
+Los testigos están obligados a dar la razón de su dicho y el juez la exigirá en todo caso.
+
+Una vez firmada la declaración, no puede variarse ni en la sustancia ni en la redacción.
+
+En el acto del examen de un testigo o dentro de los tres días siguientes, pueden las partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su credibilidad, cuando esa circunstancia no haya sido ya expresada en sus declaraciones.
+
+No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
+
+### CAPITULO VIII. Fotografías, copias fotostáticas y otros elementos de prueba
+
+ARTICULO 293
+
+Para acreditar hechos o circunstancias que tengan relación con el negocio que se ventile, pueden las partes presentar fotografías o copias fotostáticas.
+
+Quedan comprendidas dentro del término fotografías, las cintas cinematográficas y cualesquiera otras producciones fotográficas.
+
+ARTICULO 294
+
+Como medio de prueba pueden admitirse también los registros dactiloscópicos, fonográficos y demás procedimientos científicos que tiendan a producir convicción en el ánimo del juez.
+
+La parte que presente esos medios de prueba, deberá ministrar al tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras.
+
+ARTICULO 295
+
+Los escritos y notas taquigráficas, pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
+
+### CAPITULO IX. De la fama pública
+
+ARTICULO 296
+
+Para que la fama pública sea admitida como prueba, debe tener las condiciones siguientes:
+
+I.- Que se refiera a época anterior al principio del pleito;
+
+II.- Que tenga origen de personas determinadas, que sean o hayan sido conocidas, honradas, fidedignas y que no hayan tenido ni tengan interés alguno en el negocio de que se trate;
+
+III.- Que sea uniforme, constante y aceptada por la generalidad de la población donde se supone acontecido el suceso de que se trate;
+
+IV.- Que no tenga por fundamento las preocupaciones religiosas o populares, ni los partidarismos políticos, sino una tradición racional, o algunos hechos que, la comprueben, aunque sea indirectamente.
+
+ARTICULO 297
+
+La fama pública debe probarse con testigos que no sólo sean mayores de toda excepción, sino que por su edad, por su inteligencia y por la independencia social merezcan verdaderamente el nombre de fidedignos.
+
+ARTICULO 298
+
+Los testigos no sólo deben declarar quiénes son las personas a quienes oyeron referir el suceso, sino también las causas probables en que descanse la creencia de la sociedad.
+
+### CAPITULO X. De las presunciones
+
+ARTICULO 299
+
+Presunción es la consecuencia que la ley o el juez deducen de un hecho conocido para averiguar la verdad de otro desconocido: la primera se llama legal y la segunda humana.
+
+Hay presunción legal cuando la ley lo establece expresamente y cuando la consecuencia nace inmediata y directamente de la ley; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia ordinaria de aquél.
+
+ARTICULO 300
+
+El que tiene a su favor la presunción legal, sólo está obligado a probar el hecho en que se funda la presunción.
+
+ARTICULO 301
+
+No se admite prueba contra la presunción legal cuando la ley lo prohiba expresamente.
+
+Contra las demás presunciones legales y contra las humanas, es admisible prueba.
+
+### CAPITULO XI. De la recepción de las pruebas
+
+ARTICULO 302
+
+Antes de la celebración de la audiencia respectiva, las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse y al efecto se procederá:
+
+I.- A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidas por confesas, sin perjuicio de ser conducidas por la policía si el juez lo estima conveniente;
+
+II.- A citar a los testigos y peritos bajo el apercibimiento, de multa o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
+
+III.- A dar todas las facilidades necesarias a los peritos para el examen de objetos, documentos, lugares o personas, para que rindan su dictamen a la hora de la audiencia;
+
+IV.- A delegar o exhortar al juez que corresponda, para que practique la inspección ocular y las compulsas que tenga que efectuarse fuera del lugar del juicio;
+
+V.- A exhortar al juez que corresponda para que reciba la información de testigos, cuando esta prueba tenga que practicarse fuera del lugar del juicio;
+
+VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
+
+ARTICULO 303
+
+La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda hasta seis días antes de la audiencia de pruebas y alegatos. La parte que impugne de falso un documento debe indicar específicamente los motivos y las pruebas; cuando impugne la autenticidad, debe señalar los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tiene por no redargüido o impugnado el instrumento.
+
+De la impugnación se correrá traslado al colitigante y en una audiencia se presentarán las pruebas y contrapruebas relativas a ella.
+
+Lo dispuesto en este artículo sólo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna general que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
+
+Si al celebrarse la audiencia estuviera tramitándose proceso penal sobre la falsedad de un documento exhibido en el juicio civil, el tribunal, sin suspender el procedimiento y según las circunstancias, determinará, al dictar sentencia, si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad, o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una fianza.
+
+ARTICULO 304
+
+Constituído el tribunal en audiencia pública el día y hora señalados al efecto, serán llamados por el secretario los litigantes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio y se determinará quiénes deben permanecer en el salón, quiénes en lugar separado para ser introducidos en su oportunidad y quiénes deban ser inmediatamente notificados o traídos para que concurran a la diligencia si no se hallaren presentes.
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
+
+ARTICULO 305
+
+El secretario o el relator que el juez designare, referirá oralmente la demanda y en su caso, la contestación, y dará lectura a un extracto que contenga los puntos controvertidos en la litis. A continuación las pruebas se recibirán o practicarán en el orden fijado en el artículo 235.
+
+ARTICULO 306
+
+La prueba de confesión se recibirá asentando las contestaciones en que vaya implícita la pregunta, sin necesidad de asentar ésta. El juez debe particularmente atender a que no se formulen proposiciones extrañas a los puntos cuestionados. Las partes pueden hacerse preguntas una a la otra y formularse posiciones, y el juez tiene la facultad de asentar el resultado de este careo o las contestaciones conteniendo las preguntas.
+
+ARTICULO 307
+
+En seguida se relatarán los documentos presentados, poniéndose de manifiesto planos, croquis o esquemas. Las partes, con sencillez, pueden explicar al juez los documentos en que funden su derecho, mostrándolos y leyéndolos en la parte conducente; el juez puede hacer todas las preguntas necesarias sobre el contenido de los instrumentos. No se requiere hacer constar en el acta las exposiciones de las partes sobre los documentos ni las preguntas del tribunal.
+
+Durante la audiencia no se pueden redargüir de falsos ni desconocer documentos que no lo fueron en su oportunidad. Cuando se hubiere hecho la impugnación de falsedad de un documento, de acuerdo con lo que dispone el artículo 303, se recibirán las pruebas y contrapruebas relativas a la objeción, asentándose sólo el resultado de ellas.
+
+ARTICULO 308
+
+Los peritos dictaminarán por escrito u oralmente en presencia del tercero en discordia, si lo hubiere. Las partes y el juez les pueden formular observaciones y hacer preguntas pertinentes.
+
+La prueba pericial se rendirá en la audiencia, reproduciendo los peritos, en su caso, sus dictámenes oralmente, en presencia del tercero, y éste dirá su parecer.
+
+ARTICULO 309
+
+Concluída la recepción de las pruebas, el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el reo; el Ministerio Público alegará también en los casos en que intervenga.
+
+Se concederá el uso de la palabra por dos veces a cada una de las partes, las que procurarán la mayor brevedad y concisión, evitando palabras injuriosas, alusiones a la vida privada u opiniones políticas, limitándose a tratar de las acciones y excepciones que quedaron fijadas en la clausura del debate preliminar y de las cuestiones incidentales que surgieren. No se podrá hacer uso de la palabra por más de un cuarto de hora cada vez, en primera instancia y de media hora, en segunda.
+
+Los alegatos pueden hacerse verbalmente o por escrito.
+
+ARTICULO 310
+
+Los tribunales deben dirigir los debates previniendo a las partes se concreten exclusivamente a los puntos controvertidos, evitando digresiones. Pueden interrumpir a los litigantes para pedirles explicaciones e interrogarlos sobre los puntos que estimen convenientes, ya sobre las constancias de autos o ya sobre otros particulares relativos al negocio.
+
+Cuando se invoquen jurisprudencias, doctrinas o leyes de los Estados, pueden exigir que se acrediten en el acto mismo.
+
+ARTICULO 311
+
+Al terminar de alegar las partes, el tribunal dictará los puntos resolutivos de la sentencia, pudiendo retirarse por un término no mayor de una hora a la sala de deliberaciones, con el objeto de estudiar la resolución; dentro del tercer día engrosará el fallo.
+
+Sólo en las causas en que tuviere que examinar documentos voluminosos o las pruebas hubieren consistido exclusivamente en instrumentos, dictará resolución dentro de los cinco días que sigan a la celebración de la audiencia, interrumpiéndola con tal objeto.
+
+ARTICULO 312
+
+De esta audiencia, el secretario, bajo la vigilancia del juez, levantará acta desde que principie hasta que concluya la diligencia, haciendo constar el día, lugar, hora, la autoridad judicial ante quien se celebra, los nombres de las partes y abogados, peritos, testigos, intérpretes; el nombre de las partes que no concurrieron, las decisiones judiciales sobre personalidad, competencia e incidentes, declaraciones de las partes en la forma expresada en el artículo 306, extracto de las conclusiones de los peritos, y de las declaraciones de los testigos, el resultado de la inspección ocular si la hubo y los documentos ofrecidos como pruebas, si no constaron ya en el auto de admisión; las conclusiones de las partes en el debate oral, a no ser que por escrito las hubieren presentado los litigantes, los demás puntos que se estimen pertinentes y los resolutivos del fallo.
+
+Los peritos y testigos pueden retirarse de la audiencia después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
+
+ARTICULO 313
+
+Los tribunales bajo su más estricta responsabilidad al celebrar la audiencia de pruebas y alegatos, deben observar las siguientes reglas:
+
+I.- Continuación del procedimiento, de tal modo que no pueda suspenderse ni interrumpirse la audiencia hasta que no haya terminado, salvo lo dispuesto en el artículo 311; en consecuencia, desecharán de plano las recusaciones y los incidentes que pudieren interrumpirla;
+
+II.- Los jueces que resuelvan deben ser los mismos que asistieron a la recepción de las pruebas y alegatos de las partes. Si por causa inexcusable dejare el juez de asistir a la audiencia y fuere distinto, el que lo substituyere en el conocimiento del negocio, puede mandar repetir las diligencias de prueba, si éstas no consisten sólo en documentos;
+
+III.- Mantener la mayor igualdad entre las partes, de modo que no se haga concesión a una de ellas sin que se haga lo mismo con la otra;
+
+IV.- Evitar digresiones reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento.
+
+ARTICULO 314
+
+Si por causas graves hubiere necesidad de prolongar la audiencia durante horas inhábiles, no se requiere providencia de habilitación. Cuando haya necesidad de diferirla, se continuará en las primeras horas hábiles siguientes.
+
+ARTICULO 315
+
+En los tribunales colegiados sólo cuando faltare la mayoría, tendrá efecto la repetición de las pruebas y alegatos a que se refiere la fracción II del artículo 313.
+
+### CAPITULO XII. Del valor de las pruebas
+
+ARTICULO 316
+
+La confesión judicial hace prueba plena cuando concurren en ella las siguientes condiciones:
+
+I.- Que sea hecha por persona capaz de obligarse;
+
+II.- Que sea hecha con pleno conocimiento y sin coacción ni violencia;
+
+III.- Que sea de hecho propio o, en su caso, del representado o del cedente, y concerniente al negocio;
+
+IV.- Que se haga de acuerdo con las formalidades de la ley.
+
+ARTICULO 317
+
+El declarado confeso, sin que haya hecho confesión, puede rendir prueba en contrario, siempre que esta prueba no importe una excepción no opuesta en tiempo oportuno.
+
+ARTICULO 318
+
+La confesión judicial expresa, que afecte a toda la demanda, engendra el efecto de obligar al juez a otorgar al deudor, en la sentencia, un plazo de gracia hasta por noventa días, después de efectuado el secuestro y a reducir las costas.
+
+ARTICULO 319
+
+La reclamación de nulidad de la confesión por error o violencia, se tramitará incidentalmente por cuerda separada y se decidirá en la definitiva.
+
+ARTICULO 320
+
+La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio, hará prueba plena sin necesidad de ratificación, ni de ser ofrecida como prueba.
+
+ARTICULO 321
+
+La confesión extrajudicial hará prueba plena si el juez incompetente ante quien se hizo era competente en el momento de la confesión o las dos partes lo reputaban como tal. También lo hará la hecha en la demanda o en la contestación.
+
+ARTICULO 322
+
+La confesión extrajudicial hecha en testamento hace prueba plena, salvo los casos de excepción señalados por el Código Civil.
+
+ARTICULO 323
+
+La confesión no producirá el efecto probatorio a que se refieren los artículos anteriores, en los casos en que la ley lo niegue y en aquéllos en que venga acompañada con otras pruebas o presunciones que la hagan inverosímil o descubran la intención de defraudar a terceros. Debe el juez razonar cuidadosamente esta parte de su fallo.
+
+ARTICULO 324
+
+La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace y no puede dividirse contra el que la hizo, salvo cuando se refiere a hechos diferentes, cuando una parte de la confesión esté probada por otros medios o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
+
+ARTICULO 325
+
+Las partidas registradas por los párrocos, anteriores al establecimiento del Registro Civil, sólo harán prueba plena en lo relativo al estado civil de las personas cuando estén cotejadas por notario público.
+
+ARTICULO 326
+
+Las actuaciones judiciales hacen prueba plena.
+
+ARTICULO 327
+
+Los documentos privados sólo harán prueba plena, y contra su autor, cuando fueren reconocidos o se den por reconocidos legalmente.
+
+ARTICULO 328
+
+El reconocimiento hecho por el albacea o por el síndico hace prueba plena, y también lo hace el hecho por un heredero en lo que a él concierna.
+
+ARTICULO 329
+
+Los documentos simples comprobados por testigos tendrán el valor que merezcan sus testimonios recibidos conforme a la ley.
+
+ARTICULO 330
+
+El documento que un litigante presenta, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
+
+ARTICULO 331
+
+El reconocimiento o inspección judicial hará prueba plena, cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos.
+
+ARTICULO 332
+
+El dictamen de peritos y la prueba testimonial serán valorizados según el prudente arbitrio del juez.
+
+ARTICULO 333
+
+Las fotografías, copias fotostáticas y demás pruebas científicas, quedan a la prudente calificación del juez. Las copias fotostáticas sólo harán fe cuando estén certificadas por notario.
+
+ARTICULO 334
+
+Las presunciones legales hacen prueba plena.
+
+ARTICULO 335
+
+Para que la presunción de cosa juzgada surta efecto en otro juicio, es necesario que entre el caso resuelto por la sentencia y aquél en que ésta sea invocada, concurra: identidad en las cosas, las causas, las personas de los litigantes y la calidad con que lo fueren.
+
+En las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la presunción de cosa juzgada es eficaz contra terceros, aunque no hubiesen litigado.
+
+Se entiende que hay identidad de personas siempre que los litigantes del segundo pleito, sean causahabientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
+
+ARTICULO 336
+
+Para que las presunciones no establecidas por la ley sean apreciables como medios de prueba, es indispensable que entre el hecho demostrado y aquél que se trata de deducir, haya un enlace preciso, más o menos necesario.
+
+Los jueces apreciarán en justicia el valor de las presunciones humanas.
+
+ARTICULO 337
+
+La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a menos que por el enlace interior de las pruebas rendidas y de las presunciones formadas, el tribunal adquiera convicción distinta respecto de los hechos del litigio. En este caso, deberá fundar el juez cuidadosamente esta parte de su sentencia.
+
+### CAPITULO XIII. De la sentencia ejecutoria
+
+ARTICULO 338
+
+Hay cosa juzgada cuando la sentencia causa ejecutoria.
+
+Causan ejecutoria:
+
+I.- Las sentencias consentidas expresamente por las partes o por sus mandatarios con poder o cláusula especial;
+
+II.- Las sentencias notificadas en forma y con respecto a las cuales no se interpone recurso en el término señalado por la ley;
+
+III.- Las sentencias recurridas, cuando se haya desistido del recurso la parte o su mandatario con poder o cláusula especial;
+
+IV.- La sentencia de segunda instancia;
+
+V.- Las que resuelvan una queja;
+
+VI.- Las que dirimen o resuelven una competencia, y
+
+VII.- Las demás que se declaren irrevocables por prevención expresa de la ley, así como aquellas de las que se dispone que no haya más recurso que el de responsabilidad.
+
+ARTICULO 339
+
+Para que las sentencias a que se refiere el artículo anterior produzca los efectos de la cosa juzgada, no se requiere promoción de las partes ni declaración judicial, bastando con una certificación de la secretaría en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos por el juez.
+
+### CAPITULO I. De la ejecución
+
+ARTICULO 340
+
+Para que la ejecución tenga lugar se necesita un título que la lleve aparejada.
+
+Traen aparejada ejecución:
+
+I.- La primera copia de la escritura pública expedida por el juez o notario ante quien se otorgó;
+
+II.- Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
+
+III.- Los demás instrumentos públicos que conforme al artículo 265 hacen prueba plena;
+
+IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo mandó extender, bastando con que se reconozca la firma aun cuando se niegue la deuda;
+
+V.- La confesión de la deuda hecha ante juez competente por el deudor o por su representado con facultades para ello;
+
+VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea por las partes entre sí o por terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
+
+VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
+
+VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
+
+IX.- La primera copia certificada, expedida por la Junta Central de Conciliación y Arbitraje del Estado, de los laudos que pronuncie, y
+
+X.- Las demás que señale la ley.
+
+ARTICULO 341
+
+Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+
+ARTICULO 342
+
+Cuando la confesión judicial se haga durante la secuela del juicio, se procederá a la ejecución si el actor así lo pidiere.
+
+Si la confesión sólo afecta a una parte de lo demandado, se procederá a la ejecución por la parte confesada, si el actor lo pidiere así, sin perjuicio de que prosiga el juicio.
+
+ARTICULO 343
+
+La ejecución no puede despacharse sino por cantidad líquida.
+
+Si el título ejecutivo o las diligencias preparatorias determinan una cantidad líquida en parte y en parte ilíquida, por aquélla se decretará la ejecución, reservándose por el resto los derechos del promovente.
+
+Las cantidades que por intereses o perjuicios formen parte de la deuda reclamada y no estuvieren liquidadas al despacharse la ejecución, lo serán en su oportunidad y se decidirán en la sentencia definitiva.
+
+ARTICULO 344
+
+Las obligaciones sujetas a condición suspensiva o a plazo, sólo serán ejecutivas cuando aquéllas o éste se hayan cumplido, salvo lo dispuesto en los artículos 1878 y 1892 del Código Civil.
+
+ARTICULO 345
+
+Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
+
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1997 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+
+II.- Si en el contrato se estableció alguna pena, por el importe de ésta se decretará la ejecución;
+
+III.- Si no se fijó la pena, el importe de los daños y perjuicios, será fijado por el actor, cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de daños y perjuicios; en este caso el juez debe moderar prudentemente la cantidad señalada;
+
+IV.- Hecho el acto por el tercero o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado, de la misma manera que en las demás ejecuciones.
+
+ARTICULO 346
+
+Cuando el título ejecutivo contenga la obligación de entregar cosas que sin ser dinero se cuentan por número, peso o medida, se observarán las reglas siguientes:
+
+I.- Si no se designa la calidad de la cosa y existieren de varias clases en poder del deudor, se embargarán las de mediana calidad;
+
+II.- Si hubiere sólo de calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes;
+
+III.- Si no hubiere en poder del demandado la cosa objeto del pleito, se despachará ejecución por la cantidad de dinero que señale el actor, debiendo prudentemente moderarla el ejecutor, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que se señale por daños y perjuicios, moderables también.
+
+ARTICULO 347
+
+Cuando la ejecución se ejercite sobre cosa cierta y determinada o en especie, si hecho el requerimiento de entrega el demandado no la hace, se pondrá en secuestro judicial.
+
+Si la cosa ya no existe, se embargarán bienes que cubran su valor fijado por el ejecutante y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados, y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
+
+### CAPITULO II. De la vía de apremio
+
+ARTICULO 348
+
+Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo.
+
+ARTICULO 349
+
+La ejecución de la sentencia que haya causado ejecutoria, se hará por el juez que hubiere conocido del negocio en primera instancia.
+
+La ejecución de los autos firmes que resuelvan un incidente, queda a cargo del juez que conozca del principal.
+
+La ejecución de los convenios celebrados en juicio, se hará por el juez que conozca del negocio en que tuvieron lugar, pero no procede en la vía de apremio, si no constan en escritura pública o judicialmente en autos.
+
+ARTICULO 350
+
+Cuando las transacciones o los convenios se celebren en segunda instancia, serán ejecutados por el juez que conoció en la primera, a cuyo efecto el tribunal devolverá los autos al inferior, acompañándole testimonio del convenio.
+
+ARTICULO 351
+
+El tribunal que haya dictado en segunda instancia sentencia ejecutoria, dentro de los tres días siguientes a la notificación, devolverá los autos al inferior, acompañándole la ejecutoria y constancias de las notificaciones.
+
+ARTICULO 352
+
+La ejecución de las sentencias arbitrales, se hará por el juez competente designado por las partes y en su defecto, por el juez del lugar del juicio y si hubiere varios, por el de número más bajo.
+
+ARTICULO 353
+
+Cuando se pida la ejecución de sentencia, el juez señalará al deudor el término improrrogable de cinco días para que la cumpla, si en ella no se hubiere fijado algún término para ese efecto.
+
+ARTICULO 354
+
+Si la sentencia condenare al pago de la cantidad líquida, se procederá siempre y sin necesidad de previo requerimiento personal al condenado, al embargo de bienes en los términos prevenidos para los secuestros.
+
+ARTICULO 355
+
+Sólo hasta después de asegurados los bienes por medio del secuestro, podrán tener efecto los términos de gracia concedidos por el juez o por la ley.
+
+ARTICULO 356
+
+Pasado el plazo del artículo 353 sin haberse cumplido la sentencia, se procederá al embargo.
+
+ARTICULO 357
+
+Si los bienes embargados fueren dinero, sueldos, pensiones o créditos realizables en el acto como efectos de comercio o acciones de compañías que se coticen en la Bolsa, se hará el pago al acreedor inmediatamente después del embargo. Los efectos de comercio y acciones, bonos o títulos de pronta realización, se venderán a costa del obligado.
+
+ARTICULO 358
+
+Si los bienes embargados no estuvieren valuados anteriormente, se pasarán al avalúo y venta en almoneda pública en los términos prevenidos por este Código.
+
+No se requiere avalúo cuando el precio conste en instrumento público, cuando se haya fijado por consentimiento de los interesados o cuando se determine por otros medios, según las estipulaciones del contrato.
+
+ARTICULO 359
+
+Del precio del remate se pagará al ejecutante el importe de su crédito, y se cubrirán los gastos que haya causado la ejecución.
+
+ARTICULO 360
+
+Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
+
+ARTICULO 361
+
+Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución, presentará su liquidación de la cual se dará vista por tres días a la parte condenada. Si ésta nada expusiere dentro del término fijado, se decretará la ejecución por la cantidad que importe la liquidación; mas si expresare su inconformidad, se dará vista de las razones que alegue a la parte promovente, por tres días. El juez fallará dentro de igual término lo que estime justo. De esta resolución no habrá más recurso que el de responsabilidad.
+
+ARTICULO 362
+
+Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar su importe en cantidad líquida, háyanse establecido o no en aquélla las bases para la liquidación, el que haya obtenido a su favor el fallo, presentará con la solicitud relación de los daños y perjuicios y de su importe. De esta regulación se correrá traslado al que haya sido condenado, observándose lo prevenido en el artículo anterior.
+
+Lo mismo se hará cuando la cantidad líquida proceda de frutos, rentas o productos de cualquier clase.
+
+ARTICULO 363
+
+Si la sentencia condena a hacer alguna cosa, el juez señalará al que fue condenado, un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+
+Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
+
+I.- Si el hecho fuere personal del obligado y no pudiere prestarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
+
+II.- Si el hecho pudiere prestarse por otro, el juez nombrará persona que lo ejecute a costa del obligado, en el término que le fije;
+
+III.- Si el hecho consiste en el otorgamiento de algún instrumento a la celebración de un acto jurídico, el juez lo ejecutará por el obligado, expresándose en el documento, que se otorgó en rebeldía.
+
+ARTICULO 364
+
+Si el ejecutante optare en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, se procederá a embargar bienes del deudor, por la cantidad que aquél señalare y que el juez podrá moderar prudentemente, sin perjuicio de que el deudor reclame sobre el monto. Esta reclamación se substanciará como el incidente de liquidación de sentencia.
+
+ARTICULO 365
+
+Cuando la sentencia condene a rendir cuentas, el juez señalará un término prudente al obligado para que las rinda e indicará también a quien debe rendirlas.
+
+ARTICULO 366
+
+El obligado rendirá cuentas en el término que se le fije y que no se prorrogará sino por una sola vez y por causa grave a juicio del tribunal.
+
+Las cuentas deben contener un preámbulo en que conste la exposición sucinta de los hechos que dieron lugar a la gestión y a la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose los documentos justificativos, como recibos, comprobantes de gastos y demás.
+
+ARTICULO 367
+
+Si el deudor presenta sus cuentas en el término señalado, quedarán éstas por seis días a la vista de las partes en el tribunal y dentro del mismo tiempo presentarán sus objeciones determinando las partidas no consentidas.
+
+La impugnación de algunas partidas no impide que se despache la ejecución a solicitud de parte, respecto de aquellas cantidades que confiese tener en su poder el deudor, sin perjuicio de que en el cuaderno respectivo se substancíen las oposiciones a las partidas objetadas. Las objeciones se substancían en la misma forma que los incidentes para liquidación de sentencias.
+
+ARTICULO 368
+
+Si el obligado no rindiere cuentas en el plazo que se le señaló, puede el actor pedir que se despache ejecución contra el deudor si durante el juicio comprobó que éste percibió los ingresos que debían figurar en ellas. El obligado puede impugnar el monto de la ejecución, sustanciándose el incidente en la misma forma indicada por el artículo anterior.
+
+ARTICULO 369
+
+Cuando la sentencia condene a dividir una cosa común y no dé las bases para ello, se convocará a los interesados a una junta para que en la presencia judicial determinen las bases de la partición o designen un partidor y si no se pusieren de acuerdo en una u otra cosa, el juez designará la persona que haga la partición y que sea perito en la materia, si fuere menester conocimientos especiales. Señalará a éste el término prudente para que presente el proyecto partitorio.
+
+Presentado el plan de partición, quedará en la secretaría a la vista de los interesados por seis días, comunes, para que formulen las objeciones dentro de ese mismo tiempo. Si las formulan, se correrá traslado al partidor y se substanciarán en el incidente en la misma forma de los de liquidación de sentencia. El juez, al resolver, mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
+
+ARTICULO 370
+
+Si la sentencia condena a no hacer, su infracción, se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos, para que por ellos se despache ejecución.
+
+ARTICULO 371
+
+Cuando en virtud de la sentencia o de la determinación del juez deba entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin, todas las diligencias conducentes que solicite el interesado.
+
+Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado indicado en la resolución. Si el obligado se resistiere, lo hará el actuario, quien podrá emplear el uso de la fuerza pública y aun mandar romper las cerraduras.
+
+En caso de no poderse entregar los bienes señalados en la sentencia, se despachará ejecución por la cantidad que señale el actor, la cual puede ser moderada prudentemente por el juez, sin perjuicio de que el deudor se oponga al monto.
+
+ARTICULO 372
+
+Cuando la sentencia ordene la entrega de personas, el juez dictará las disposiciones conducentes para que el fallo no se frustre.
+
+ARTICULO 373
+
+> <small>(DEROGADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+ARTICULO 374
+
+Todos los gastos y costas que se originen en la ejecución de una sentencia, serán a cargo del que fue condenado en ella.
+
+ARTICULO 375
+
+La acción para pedir la ejecución de una sentencia, transacción o convenio judiciales, durará diez años contados desde el día en que se venció el término judicial para el cumplimiento voluntario de lo juzgado y sentenciado.
+
+ARTICULO 376
+
+Contra la ejecución de sentencias y convenios judiciales, no se admitirá más excepción que la de pago, si la ejecutoria se pide dentro de treinta días; si ha pasado ese término, se admitirán además las de transacción, compensación o compromiso en árbitros, novación, espera, quita, pacto de no pedir, falsedad y cualquiera otro arreglo que modifique la obligación. Todas estas excepciones deberán ser posteriores a la sentencia, convenio o juicio y constar por instrumento público, por documento judicialmente reconocido o por confesión judicial, y se sustanciarán en forma de incidente.
+
+ARTICULO 377
+
+Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia o convenio; a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida si se tratare de prestaciones periódicas.
+
+ARTICULO 378
+
+Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
+
+## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
+
+### CAPITULO III. De los embargos
+
+ARTICULO 379
+
+Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
+
+No es necesario el requerimiento de pago en la ejecución del embargo precautorio, ni en la ejecución de sentencias cuando no fuere hallado el condenado.
+
+Contra la Hacienda Pública en ningún caso procede el aseguramiento de bienes.
+
+ARTICULO 380
+
+En los casos en que sea necesario el requerimiento, se practicará en los términos fijados por este mismo Código, y en seguida se procederá al embargo.
+
+ARTICULO 381
+
+El derecho de designar los bienes que han de embargarse, corresponde al deudor y sólo que éste se rehuse a hacerlo o que esté ausente, podrá ejercerlo el actor o su representante, pero cualquiera de ellos se sujetará al siguiente orden:
+
+I.- Los bienes consignados como garantía de la obligación que se reclama;
+
+II.- Dinero;
+
+III.- Créditos realizables en el acto;
+
+IV.- Alhajas;
+
+V.- Frutos y rentas de toda especie;
+
+VI.- Bienes muebles no comprendidos en las fracciones anteriores;
+
+VII.- Bienes raíces;
+
+VIII.- Sueldos o comisiones;
+
+IX.- Créditos.
+
+ARTICULO 382
+
+El ejecutante puede señalar los bienes que han de ser objeto del secuestro, sin sujetarse al orden establecido por el artículo anterior:
+
+I.- Si para hacerlo estuviere autorizado por el obligado en virtud de convenio expreso;
+
+II.- Si los bienes que señala el demandado no fueren bastantes o si no se sujeta al orden establecido en el artículo anterior;
+
+III.- Si los bienes estuvieren en diversos lugares; en este caso puede señalar los que se hallen en el lugar del juicio.
+
+ARTICULO 383
+
+El embargo sólo subsiste en cuanto los bienes que fueron objeto de él basten a cubrir la suerte principal y costas, incluídos los nuevos vencimientos y réditos hasta la total solución, a menos de que la ley disponga expresamente lo contrario.
+
+ARTICULO 384
+
+Cualquiera dificultad suscitada en la diligencia de embargo no la impedirá ni suspenderá; el actuario o secretario la allanará prudentemente a reserva de lo que determine el juez.
+
+ARTICULO 385
+
+Cuando practicado el remate de los bienes consignados en garantía, no alcanzare su producto para cubrir la reclamación, el acreedor puede pedir el embargo de otros bienes.
+
+ARTICULO 386
+
+Podrá pedirse la ampliación del embargo:
+
+I.- En cualquier caso en que a juicio del juez no basten los bienes secuestrados para cubrir la deuda y las costas;
+
+II.- Si el bien secuestrado que se sacó a remate dejare de cubrir el importe de lo reclamado a consecuencia de las retasas que sufriere, o si transcurrido un año desde la remisión, tratándose de muebles, no se hubiere obtenido su venta;
+
+III.- Cuando no se embarguen bienes suficientes por no tenerlos el deudor y después aparecen o los adquiera;
+
+IV.- En los casos de tercería.
+
+ARTICULO 387
+
+De todo secuestro se tendrá como depositario a la persona que nombre el acreedor, bajo su responsabilidad, mediante formal inventario.
+
+Se exceptúan de lo dispuesto en este precepto:
+
+I.- El embargo de dinero o de créditos fácilmente realizables que se efectúe en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en casa comercial de crédito reconocido. El billete de depósito se conservará en el seguro del juzgado;
+
+II.- El secuestro de bienes que han sido objeto de embargo judicial anterior, en cuyo caso el depositario anterior en tiempo lo será respecto de todos los embargos subsecuentes, mientras subsista el primero, a no ser que el reembargo sea por virtud de derecho de prenda u otro derecho real; porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
+
+III.- El secuestro de alhajas y demás muebles preciosos que se hará depositándolos en casa de comercio de crédito reconocido.
+
+ARTICULO 388
+
+Quedan exceptuados de embargo:
+
+I.- Los bienes que constituyen el patrimonio de familia, en los términos establecidos por el Código Civil;
+
+II.- El lecho cotidiano, la provisión alimenticia de la familia, los vestidos y los muebles del uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del juez;
+
+III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
+
+IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del juez, a cuyo efecto oirá el informe de un perito nombrado por él;
+
+V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
+
+VI.- Las armas y caballos que usen los militares en servicio activo, indispensables para éste conforme a las leyes relativas;
+
+VII.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles o industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio del juez, a cuyo efecto oirá el dictamen de un perito nombrado por él; pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
+
+VIII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
+
+IX.- El derecho de usufructo, pero no los frutos de éste;
+
+X.- Los derechos de uso y habitación;
+
+XI.- Las servidumbres, a no ser que se embarguen el fundo a cuyo favor están constituídas; excepto la de aguas que es embargable independientemente;
+
+XII.- La renta vitalicia, en los términos establecidos en los artículos 2718 y 2720 del Código Civil;
+
+XIII.- Los sueldos y el salario de los trabajadores en los términos que establece la Ley Federal del Trabajo, siempre que no se trate de deudas alimenticias o de responsabilidad proveniente de delito;
+
+XIV.- Las asignaciones de los pensionistas del Erario;
+
+XV.- Los ejidos de los pueblos y la parcela individual que en su fraccionamiento haya correspondido a cada ejidatario.
+
+Si se tratare de sentencias contra la Hacienda Pública, de la Federación o de los Estados, la autoridad judicial las notificará directamente al gobierno respectivo, para que, dentro de la órbita de sus facultades, proceda a cumplirlas, sin que en ningún caso pueda librarse mandamiento de ejecución o providencia de embargo.
+
+ARTICULO 389
+
+El deudor sujeto a patria potestad o tutela, el que estuviere físicamente impedido para trabajar y el que sin culpa carezca de bienes o de profesión u oficio, tendrán alimentos que el juez fijará, atendidas la importancia de la demanda y de los bienes y las circunstancias del demandado.
+
+ARTICULO 390
+
+De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad, librándose al efecto, por duplicado, copia certificada de la diligencia de embargo; uno de los ejemplares, después del registro, se unirá a los autos y el otro quedará en la expresada oficina.
+
+ARTICULO 391
+
+Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor o a quien deba pagarlos, que no verifique el pago sino que retenga la cantidad o cantidades correspondientes a disposición del juzgado, apercibido de doble pago en caso de desobediencia; y el acreedor contra quien se haya dictado el secuestro, que no disponga de esos créditos, bajo las penas que señala el Código Penal. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar todas las acciones y recursos que la ley conceda, para hacer efectivo el crédito, quedando sujeto, además, a las obligaciones que impone el Libro Cuarto, segunda parte, Título Octavo del Código Civil.
+
+ARTICULO 392
+
+Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia de secuestro se notificará al juez de los autos respectivos, dándole a conocer al depositario nombrado, a fin de que éste pueda, sin obstáculo alguno, desempeñar las obligaciones que le impone la parte final del artículo anterior.
+
+ARTICULO 393
+
+Recayendo el secuestro sobre bienes muebles que no sean dinero, alhajas, ni créditos, el depositario que se nombre sólo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del juez respectivo. Si los muebles fueren fructíferos, rendirán cuentas en los términos del artículo 401.
+
+ARTICULO 394
+
+El depositario, en caso del artículo anterior, pondrá en conocimiento del juzgado el lugar en que quede constituído el depósito, y recabará la autorización para hacer en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, pondrá esta circunstancia en conocimiento del juez para que éste, oyendo a las partes, en una junta que se celebrará dentro de tres días, decrete el modo de hacer los gastos, según en la junta se acordare o, en caso de no haber acuerdo, imponiendo esa obligación al que obtuvo la providencia de secuestro.
+
+ARTICULO 395
+
+Si los muebles depositados fueren cosas fungibles, el depositario tendrá, además, la obligación de imponerse del precio que en la plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga desde luego en conocimiento del juez, con objeto de que éste determine lo que fuere conveniente.
+
+ARTICULO 396
+
+Si los muebles depositados fueren cosas fáciles de deteriorarse o demeritarse, el depositario deberá examinar frecuentemente su estado y poner en conocimiento del juez el deterioro o demérito que en ellos observe o tema fundadamente que sobrevenga, a fin de que éste dicte el remedio oportuno para evitar el mal, o acuerde su venta en las mejores condiciones, en vista de los precios de plaza y del demérito que hayan sufrido o estén expuestos a sufrir los objetos secuestrados.
+
+ARTICULO 397
+
+Si el secuestro recayere en finca urbana y sus rentas o sobre éstas solamente, el depositario tendrá el carácter de administrador, con las facultades y obligaciones siguientes:
+
+I.- Podrá contratar los arrendamientos, sobre la base de que las rentas no sean menores de las que al tiempo de verificarse el secuestro rindiere la finca o departamento de ésta que estuviere arrendado; para el efecto, si ignorase cuál era en ese tiempo la renta, lo pondrá en conocimiento del juez, para que recabe la noticia de la oficina de contribuciones. Exigirá para asegurar el arrendamiento las garantías de estilo, bajo su responsabilidad. Si no quiere aceptar ésta, recabará la autorización judicial;
+
+II.- Recaudará las pensiones que por arrendamiento rinda la finca, en sus términos y plazos; procediendo en su caso contra los inquilinos morosos, con arreglo a la ley;
+
+III.- Hará sin previa autorización los gastos ordinarios de la finca, como el pago de contribuciones y los de mera conservación, servicio y aseo, no siendo excesivo su monto; cuyos gastos incluirá en la cuenta mensual de que después se hablará;
+
+IV.- Presentará a la oficina de contribuciones, en tiempo oportuno, las manifestaciones que la ley de la materia previene; y de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión origine;
+
+V.- Para hacer los gastos de reparación o de construcción, ocurrirá al juez solicitando la licencia para ello, y acompañando al efecto los presupuestos respectivos;
+
+VI.- Pagará, previa autorización judicial, los réditos de los gravámenes reconocidos sobre la finca.
+
+ARTICULO 398
+
+Pedida la autorización a que se refiere la fracción V del artículo anterior, el juez citará a una audiencia que se verificará dentro de tres días, para que las partes resuelvan de común acuerdo si se autoriza o no el gasto. No lográndose el acuerdo, el juez dictará la resolución que corresponda.
+
+ARTICULO 399
+
+Si el secuestro se efectúa en una finca rústica o en una negociación mercantil o industrial, el depositario será mero interventor con cargo a la caja, vigilando la contabilidad y tendrá las siguientes atribuciones:
+
+I.- Inspeccionará el manejo de la negociación o finca rústica en su caso, y las operaciones que en ellas respectivamente se hagan, a fin de que produzcan el mejor rendimiento posible;
+
+II.- Vigilará en las fincas rústicas la recolección de los frutos y su venta, y recogerá el producto de ésta;
+
+III.- Vigilará las compras y ventas hechas en las negociaciones mercantiles, recogiendo bajo su responsabilidad el numerario;
+
+IV.- Vigilará la compra de materia prima, su elaboración y la venta de los productos, en las negociaciones industriales, recogiendo el numerario y efectos de comercio para hacerlos efectivos en su vencimiento;
+
+V.- Ministrará los fondos para los gastos de la negociación o finca rústica, y cuidará de que la inversión de esos fondos se haga convenientemente;
+
+VI.- Depositará el dinero que resultare sobrante, después de cubiertos los gastos necesarios y ordinarios, como se previene en el artículo 387;
+
+VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar los abusos y malos manejos en los administradores, dando inmediatamente cuenta al juez para su ratificación y, en su caso, para que determine lo conducente a remediar el mal.
+
+ARTICULO 400
+
+Si en el cumplimiento de los deberes que el artículo anterior impone al interventor, éste encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos del que pidió y obtuvo el secuestro, lo pondrá en conocimiento del juez, para que oyendo a las partes y al interventor, determine lo conveniente.
+
+ARTICULO 401
+
+Los que tengan administración o intervención, presentarán al juzgado cada mes, una cuenta de los esquilmos y demás frutos de la finca, y de los gastos erogados, no obstante cualquier recurso interpuesto en el principal.
+
+ARTICULO 402
+
+El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
+
+ARTICULO 403
+
+Será removido de plano el depositario en los siguientes casos:
+
+I.- Si dejare de rendir la cuenta mensual o la presentada no fuere aprobada;
+
+II.- Cuando no haya manifestado su domicilio o el cambio de éste;
+
+III.- Cuando tratándose de bienes muebles, no pusiere en conocimiento del juzgado, dentro de las cuarenta y ocho horas que sigan a la entrega, el lugar en donde quede constituído el depósito.
+
+Si el removido fuere el deudor, el ejecutante nombrará nuevo depositario. Si lo fuere la persona nombrada por el acreedor, la nueva elección se hará por el juez.
+
+ARTICULO 404
+
+El depositario y el actor, cuando éste lo hubiere nombrado, son responsables solidariamente de los bienes.
+
+Los depositarios designados por los representantes de la Hacienda Pública, en los casos de secuestro constituído en favor de ésta, no necesitarán caucionar su manejo, pues el fisco responderá por ellos y por las obligaciones o responsabilidades en que puedan incurrir.
+
+ARTICULO 405
+
+Los depositarios e interventores percibirán por honorario el que señale el arancel.
+
+ARTICULO 406
+
+Al ejecutarse las sentencias, se formará la Sección de Ejecución y se integrará con el mandamiento de embargo; los incidentes relativos a ampliación y reducción del mismo; los de venta y remate de los bienes secuestrados; nombramientos, remociones y remuneración de peritos y depositarios y, en general, con todo lo que comprenda a esta parte del procedimiento.
+
+Los incidentes de liquidación de sentencia, rendición de cuentas y determinación de daños y perjuicios se seguirán en el cuaderno principal.
+
+ARTICULO 407
+
+Lo dispuesto en este Capítulo es aplicable a todos los casos de secuestro judicial, salvo aquéllos en que disponga expresamente otra cosa este Código.
 
 ###### ARTÍCULO 339.
 
@@ -1891,3777 +2671,2305 @@ e) Los resultados consignados en las actas de cómputo municipal de la elección
 
 f) El otorgamiento de las constancias de mayoría y de asignación.
 
-###### ARTÍCULO 340.
+## TITULO OCTAVO. DEL JUICIO ARBITRAL
 
-El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio que pueden hacer valer los representantes de los partidos políticos o en su caso de los candidatos independientes en el que manifiestan presuntas violaciones durante el día de la jornada electoral, siendo un medio para establecer la existencia de presuntas violaciones.
+### CAPITULO IV. De los remates
 
-El escrito de protesta deberá contener:
+ARTICULO 408
 
-I. El partido político o coalición, o en su caso, candidato independiente que lo presenta, nombre, firma autógrafa y cargo partidario de quien lo presenta;
+Toda venta que conforme a la ley deba ser hecha en subasta o almoneda, se sujetará a las disposiciones contenidas en este Capítulo, salvo en los casos en que la ley disponga expresamente lo contrario.
 
-II. La mesa directiva de casilla ante la que se presenta o se dieron los hechos;
+ARTICULO 409
 
-III. La elección que se protesta;
+Todo remate de bienes raíces será público y deberá celebrarse en el juzgado en que actúe el juez que fuere competente para la ejecución.
 
-IV. La causa por la que se presenta la protesta, y
+ARTICULO 410
 
-V. La relación de hechos y la fundamentación legal de la protesta.
+Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, se acordará que se expida orden al registrador de la propiedad para que remita certificado de gravámenes de los últimos diez años, pero si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquél hasta aquélla en que se solicite.
 
-Cuando se presente ante el Consejo Distrital o Municipal correspondiente, se deberán identificar además, individualmente cada una de las casillas que se impugnan, cumpliendo los requisitos anteriores.
+ARTICULO 411
 
-El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que inicie la sesión a que se refiere el artículo 227 de este Código.
+Si del certificado aparecieren gravámenes, se hará saber por notificación personal a los acreedores el estado de ejecución para que intervengan en el avalúo y subasta de los bienes, si les conviniere.
 
-De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito, los funcionarios de la casilla, o bien, del Consejo Distrital o Municipal ante el que se presente.
+ARTICULO 412
 
-### CAPÍTULO II. De los Requisitos Especiales del Escrito de Nulidad
+Los acreedores citados conforme al artículo anterior, tendrán derecho:
 
-###### ARTÍCULO 341.
+I.- Para intervenir en el acto del remate, pudiendo hacer al juez las observaciones que estimen oportunas para garantizar sus derechos;
 
-Además de los requisitos establecidos en el artículo 302 del presente Código, en el escrito por el cual se promueva el recurso de nulidad se deberá cumplir con lo siguiente:
+II.- Para recurrir el auto de aprobación del remate, cuando no hayan sido atendidas sus observaciones en el caso de la fracción anterior;
 
-I. Señalar la elección que se impugna, manifestando expresamente si se objetan los resultados del cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas;
+III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante y el ejecutado practique el avalúo de la cosa. Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, cuando la valorización se haga por otros medios.
 
-II. La mención individualizada del acta de cómputo de la elección que se impugne;
+ARTICULO 413
 
-III. La mención individualizada de las casillas cuya votación se solicite anular en cada caso y la causal que se invoque para cada una de ellas;
+El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores, no habrá necesidad de nombrar tercero en discordia.
 
-IV. El señalamiento del error aritmético, cuando por este motivo se impugnen los resultados consignados en las actas de cómputo de la elección que se impugne;
+ARTICULO 414
 
-V. Manifestar expresamente los hechos o causas por las cuales se impugna el otorgamiento de las constancias de mayoría o asignación, y
+Hecho el avalúo, se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, por medio de edictos fijados en los sitios públicos de costumbre e insertos en la "Gaceta Oficial" del Estado, y otro periódico de circulación, si el valor de la cosa pasare de cinco mil pesos. A petición de cualquiera de las partes y a su costa, el juez puede usar además de los expresados, algún otro medio de publicidad para convocar postores.
 
-VI. La conexidad en su caso, que guarde con otras impugnaciones.
+ARTICULO 415
 
-### CAPÍTULO III. De la Legitimación y Personería
+Antes de fincarse el remate o declararse la adjudicación, podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 416
 
-###### ARTÍCULO 342.
+Si los bienes raíces estuvieren situados en diversos lugares, en todos éstos se publicarán los edictos en los sitios de costumbre y en las puertas de los juzgados respectivos. En el caso a que se refiere este artículo, se ampliará el término de los edictos, concediéndose el que el juez estime necesario en atención a la distancia y dificultad de las comunicaciones.
 
-El recurso de nulidad sólo podrá ser promovido por los partidos políticos, coaliciones, candidaturas comunes o candidatos.
+ARTICULO 417
 
-### CAPÍTULO IV. De las Sentencias
+Es postura legal la que cubra las tres cuartas partes del avalúo o del precio fijado a la cosa por los contratantes, con tal de que la parte de contado sea suficiente para pagar el crédito o créditos que han sido objeto del juicio y las costas.
 
-###### ARTÍCULO 343.
+Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las tres cuartas partes del avalúo dadas al contado.
 
-Las sentencias que resuelvan los recursos de nulidad, podrán tener los efectos siguientes:
+ARTICULO 418
 
-I. Confirmar el acto impugnado;
+Para tomar parte en la subasta, deberán los licitadores consignar previamente en el establecimiento de crédito destinado al efecto por la ley, una cantidad igual al diez por ciento efectivo del valor que sirva de base para el remate, sin cuyo requisito no serán admitidos.
 
-II. Declarar la nulidad de la Votación Emitida en una o varias casillas cuando se den los supuestos previstos en este Código;y (sic) modificar, en consecuencia, las actas de cómputo que correspondan;
+Se devolverán dichas consignaciones a sus respectivos dueños acto continuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía de cumplimiento de su obligación y, en su caso, como parte del precio de la venta.
 
-III. Revocar la constancia expedida en favor de una fórmula o candidato a diputado, a regidor, síndico, presidente municipal o gobernador; otorgarla al candidato o fórmula de candidatos que resulte ganadora como resultado de la anulación de la Votación Emitida en una o varias casillas en uno o, en su caso, de varios distritos; y modificar, en consecuencia, las actas respectivas, según la elección que corresponda;
+ARTICULO 419
 
-IV. Declarar la nulidad de la elección de diputados y Ayuntamiento, en consecuencia, revocar las constancias expedidas cuando se den los supuestos previstos en este Código;
+El postor no puede rematar para un tercero sino con poder y cláusula especial, quedando prohibido hacer posturas reservándose la facultad de declarar después el nombre de la persona para quien se hizo.
 
-V. Revocar la determinación sobre la declaración de validez u otorgamiento de constancias de mayoría y validez en las elecciones de diputados y de Ayuntamiento, según corresponda;
+ARTICULO 420
 
-VI. Hacer la corrección de los cómputos, cuando sean impugnados por error aritmético, y
+Desde que se anuncie el remate y durante éste, se pondrán de manifiesto los planos que hubiere y estarán a la vista los avalúos.
 
-VII. Declarar la nulidad de la elección de Gobernador cuando se actualicen los supuestos previstos en este Código.
+ARTICULO 421
 
-## TÍTULO SEXTO. DE LAS NULIDADES
+El juez decidirá de plano cualquiera cuestión que se suscite durante la subasta, y de sus resoluciones no se dará más recurso que el de responsabilidad; a menos que la ley disponga otra cosa.
 
-### CAPÍTULO I. De las Reglas Generales
+ARTICULO 422
 
-###### ARTÍCULO 344.
+El día del remate, a la hora señalada, pasará el juez personalmente lista de los postores presentados y concederá media hora para admitir a los que de nuevo se presenten. Concluída la media hora, el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida revisarán las propuestas presentadas, desechando desde luego las que no tengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 418.
 
-Los efectos de las nulidades decretadas por el Tribunal respecto de la Votación Emitida en una o varias casillas o de una elección de Gobernador, de diputados de mayoría relativa, representación proporcional o en un municipio para un Ayuntamiento o asignación de regidores de representación proporcional, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el recurso de nulidad.
+ARTICULO 423
 
-###### ARTÍCULO 345.
+Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cuál sea la preferente.
 
-Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
+Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
 
-###### ARTÍCULO 346.
+ARTICULO 424
 
-Cuando el candidato que haya obtenido la constancia de mayoría no reúna los requisitos de elegibilidad previstos por la Constitución y por este Código, entonces se llamará al suplente para tomar el lugar del primero una vez que se declare que el candidato no reúne los requisitos de elegibilidad; si éste último tampoco es elegible se convocará a elección extraordinaria.
+Al declarar fincado el remate, mandará el juez que dentro de los tres días siguientes se otorgue a favor del comprador la escritura de adjudicación correspondiente en los términos de su postura y que se le entreguen los bienes rematados.
 
-Tratándose de la inasignabilidad de candidatos a diputados y regidores por el principio de representación proporcional, se asignará el lugar al candidato propietario de la fórmula que sea asignable en el orden de prelación de la lista correspondiente al mismo partido.
+ARTICULO 425
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+No habiendo postor, quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por el precio que sirvió de base para el remate, o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación.
 
-###### ARTÍCULO 347.
+Esta segunda subasta se anunciará y celebrará en igual forma que la anterior.
 
-Los partidos políticos, coaliciones, candidaturas comunes o candidatos no podrán invocar a su favor, a través de algún medio de impugnación, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado, y solamente podrán invocar aquellas causales que expresamente prevé este Código.
+ARTICULO 426
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Si en ella tampoco hubiere licitadores, el actor podrá pedir: o la adjudicación en los términos fijados, o que se le entreguen en administración los bienes, para aplicar sus productos al pago de los intereses y extinción del capital y de las costas.
 
-###### ARTÍCULO 348.
+ARTICULO 427
 
-Cuando el Tribunal establezca que las inconsistencias encontradas en las actas no pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por él, y que es necesario el recuento de los votos, procederá a la apertura del paquete electoral a fin de realizar el recuento correspondiente, debiendo para ello citar a los representantes de los partidos políticos, coaliciones, candidaturas comunes o candidatos.
+No conviniendo al ejecutante ninguno de los dos medios expresados en el artículo que precede, podrá pedir que se celebre una tercera subasta sin sujeción a tipo.
 
-### CAPÍTULO II. De la Nulidad de la Votación Recibida en Casilla
+En este caso si hubiere postor que ofrezca las tres cuartas partes del precio que sirvió de base para la segunda subasta y que acepte las condiciones de la misma, se fincará el remate sin más trámite en él.
 
-###### ARTÍCULO 349.
+Si no llegase a dichas tres cuartas partes, con suspensión del fincamiento del remate, se hará saber el precio ofrecido al deudor, el cual, dentro de los veinte días siguientes podrá pagar al acreedor librando los bienes, o presentar persona que mejore la postura.
 
-La votación recibida en una casilla será nula cuando se acredite cualquiera de las siguientes causales:
+Transcurridos los veinte días sin que el deudor haya pagado ni traído mejor postor, se aprobará el remate mandando llevar a efecto la venta.
 
-I. Instalar la casilla, sin causa justificada, en lugar distinto al señalado por el órgano electoral competente, o bien, aun cuando sea con causa justificada en los términos de este Código si causan desorientación en el electorado; y en ambos casos, sea determinante para el resultado de la votación;
+Los postores a que se refiere este artículo cumplirán con el requisito previo del depósito a que se refiere el artículo 418.
 
-II. Entregar, sin causa justificada, el paquete que contenga los expedientes electorales a los Consejos Distritales, fuera de los plazos que este Código señala, siempre y cuando tal irregularidad sea determinante para el resultado de la votación;
+ARTICULO 428
 
-III. Realizar sin causa justificada, el escrutinio y cómputo en local diferente al determinado por la autoridad electoral competente, siempre y cuando tal irregularidad sea determinante para el resultado de la votación;
+Cuando dentro del término expresado en el artículo anterior se mejorare la postura, el juez mandará abrir nueva licitación entre los dos postores, citándolos dentro de tercero día para que en su presencia hagan las pujas y adjudicará la finca al que hiciere la proposición más ventajosa.
 
-IV. Recibir la votación en fecha distinta a la señalada para la celebración de la elección, entendiéndose como fecha para estos efectos, día y hora;
+Si el primer postor, en vista de la mejora hecha por el segundo, manifestare que renuncia a sus derechos, o no se presentare a la licitación, se fincará en favor del segundo, lo mismo se hará con el primero si el segundo no se presenta a la licitación.
 
-V. Recibir la votación por personas u organismos distintos a los facultados por la LGIPE o este Código;
+ARTICULO 429
 
-VI. Haber mediado dolo o error en el cómputo de los votos que beneficien a uno de los candidatos, fórmula de candidatos o planilla y esto sea determinante para el resultado de la votación;
+Si en la tercera subasta se hiciere postura admisible en cuanto al precio, pero ofreciendo pagar a plazos o alterando alguna otra condición, se hará saber al acreedor, el cual podrá pedir en los nueve días siguientes la adjudicación de los bienes; y si no hiciere uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
 
-VII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores, siempre que ello sea determinante para el resultado de la votación, salvo en los casos de excepción señalados por este Código;
+ARTICULO 430
 
-VIII. Haber impedido el acceso a los representantes de los partidos políticos, de los candidatos independientes o haberlos expulsado, sin causa justificada, siempre y cuando tal irregularidad sea determinante para el resultado de la votación;
+Cualquier liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de la ejecución y demás, se regulará por el juez con un escrito de cada parte y resolución dentro del tercero día.
 
-IX. Ejercer violencia física, moral o presión contra los miembros de la Mesa Directiva de Casilla o los electores siempre que esos hechos sean determinantes para el resultado de la votación;
+ARTICULO 431
 
-X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación, y
+Aprobado el remate al mandar el juez el otorgamiento de la escritura de adjudicación y la entrega de los bienes, se prevendrá al comprador que consigne, ya sea ante el propio juez o ante el notario que va a autorizar la escritura respectiva, el precio del remate.
 
-XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
+Si el comprador no consignare el precio en el plazo que el juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiera celebrado, perdiendo el postor el depósito a que se refiere el artículo 418 que se aplicará por vía de indemnización por partes iguales, al ejecutante y al ejecutado.
 
-Todo lo anterior sin perjuicio de las responsabilidades personales en que incurran los funcionarios electorales, servidores públicos, representantes de los partidos políticos, candidatos y ciudadanos.
+ARTICULO 432
 
-### CAPÍTULO III. De la Nulidad de la Elección
+Consignado el precio, se hará saber al deudor que dentro del tercero día otorgue la escritura de venta a favor del comprador, apercibido que, de no hacerlo, el juez lo hará en su rebeldía, haciéndolo constar así.
 
-###### ARTÍCULO 350.
+ARTICULO 433
 
-Son causales de nulidad de una elección de Diputado de mayoría relativa en un distrito electoral o de un Ayuntamiento, cualesquiera de las siguientes:
+Otorgada la escritura se darán al comprador los títulos de propiedad, apremiando en su caso al deudor para que los entregue, y se pondrán los bienes a disposición del mismo comprador, dándose para ello las órdenes necesarias aun las de desocupación de fincas habitadas por el deudor o por tercero que no tuvieren contrato, para acreditar el uso en los términos que fija el Código Civil. El mismo comprador será dado a conocer como dueño a las personas que él mismo designe.
 
-I. Cuando alguna o algunas de las causales señaladas en el artículo anterior se acrediten en por lo menos el 20% de las secciones en el distrito o Municipio de que se trate;
+ARTICULO 434
 
-II. Cuando no se instalen las casillas en el 20% de las secciones en el distrito o Municipio de que se trate, y consecuentemente, la votación no hubiere sido recibida, o
+Con el precio se pagará al acreedor hasta donde alcance y si hubiere costas pendientes que liquidar, se mantendrá en depósito la cantidad que se estime bastante para cubrirlas hasta que sean aprobadas las que faltaren de cubrirse; pero si el ejecutante no formula su liquidación dentro de los ocho días de hecho el depósito, perderá el derecho de reclamarlas.
 
-III. Cuando los dos integrantes de la fórmula de candidatos de diputados de mayoría relativa que hubieren obtenido constancia de mayoría sean inelegibles, o en la planilla para un Ayuntamiento, resulten inelegibles los candidatos propietario y suplente para Presidente Municipal o el Síndico y su suplente.
+ARTICULO 435
 
-Sólo podrá ser declarada nula una elección, cuando las causas que se invoquen hayan sido plenamente acreditadas, y sean determinantes para el resultado de la elección.
+Si la ejecución se hubiere despachado a instancia de un segundo acreedor hipotecario o de otro hipotecario de ulterior grado, el importe de los créditos hipotecarios preferentes de que responda la finca rematada, se consignará ante el juzgado correspondiente y el resto se entregará sin dilación al ejecutante, si notoriamente fuera inferior a su crédito o lo cubriere.
 
-###### ARTÍCULO 351.
+En igual forma se procederá cuando un rematante sólo tenga derecho a un remanente.
 
-Son causales de nulidad de la elección de Gobernador cuando se acrediten alguna o algunas de las causales señaladas en las fracciones I y II del artículo anterior en por lo menos el 20% de las secciones de la entidad, siempre y cuando sean determinantes para el resultado de la elección, o cuando el candidato que haya obtenido la mayoría de los votos sea inelegible.
+Si excediere se le entregarán capital e intereses y las costas líquidas. El remanente quedará a disposición del deudor a no ser que se hallare retenido judicialmente para el pago de otras deudas.
 
-###### ARTÍCULO 352.
+ARTICULO 436
 
-Además, son causas de nulidad de la elección de Gobernador, de Diputado de mayoría relativa en un distrito electoral o de un Ayuntamiento en un Municipio, cuando en la etapa de preparación de la elección o de la jornada electoral se cometan por el partido político, coalición o por el candidato independiente que obtenga la constancia de mayoría, cualquiera de los siguientes hechos:
+El acreedor que se adjudique la cosa reconocerá a los demás hipotecarios sus créditos para pagarlos al vencimiento de sus escrituras y entregará al deudor al contado lo que resulte libre del precio después de hecho el pago.
 
-I. Por violaciones graves, dolosas y determinantes en los siguientes casos;
+ARTICULO 437
 
-a) Se exceda el gasto de campaña en un 5% del monto total autorizado;
+Cuando se hubiere seguido la vía de apremio en virtud de título al portador con hipoteca inscrita sobre la finca vendida, si existieren otros títulos con igual derecho, se prorrateará entre todos el valor líquido de la venta, entregando al ejecutante lo que le corresponda y depositándose la parte correspondiente a los demás títulos hasta su cancelación.
 
-b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley, y
+ARTICULO 438
 
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+En los casos a que se refieren los artículos 435 y 437, se cancelarán las inscripciones de las hipotecas a que estuviere afecta la finca vendida, expidiéndose para ello mandamiento en el que se exprese que el importe de la venta no fue suficiente para cubrir el crédito del ejecutante y, en su caso, que fue consignado el importe del crédito o de los créditos preferentes, o el sobrante si lo hubiere, a disposición de los interesados.
 
-Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al 5%.
+En el caso del artículo 436, si el precio de la venta fuese insuficiente para pagar las hipotecas anteriores y las posteriores, sólo se cancelarán éstas conforme a lo prevenido en la primera parte de este artículo.
 
-Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+ARTICULO 439
 
-Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+Cuando conforme a lo prevenido en el artículo 426 el acreedor hubiere optado por la administración de las fincas embargadas, se observarán las siguientes reglas:
 
-II. En forma generalizada se den violaciones sustanciales tales como que se ejerza violencia de servidores públicos, de tal manera que provoque temor o afecte la libertad y esos hechos sean determinantes para el resultado de la elección.
+I.- El juez mandará que se le haga entrega de ellas bajo el correspondiente inventario y que se le dé a conocer a las personas que el mismo acreedor designe;
 
-En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+II.- El acreedor y el deudor podrán establecer por acuerdos particulares las condiciones y término de la administración, forma y época de rendir las cuentas. Si así no lo hicieren, se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
 
-Las causales señaladas no procederán cuando los hechos de las mismas sean imputables a los partidos o a sus candidatos, o a los candidatos independientes que promuevan.
+III.- Si las fincas fueren rústicas, podrá el deudor intervenir las operaciones de la recolección;
 
-## TÍTULO SÉPTIMO. DEL RECURSO DE REVISIÓN DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+IV.- La rendición de cuentas y las diferencias que de ellas surgieren, se substanciarán incidentalmente;
 
-### CAPÍTULO ÚNICO. De la Procedencia y Competencia
+V.- Cuando el ejecutante se haya hecho pago de su crédito, intereses y costas con el producto de las fincas, volverán éstas a poder del ejecutado;
 
-###### ARTÍCULO 353.
+VI.- El acreedor podrá cesar en la administración de la finca cuando lo crea conveniente y pedir se saque de nuevo a pública subasta.
 
-Procede el recurso de revisión respecto del procedimiento especial sancionador previsto en este Código, en contra:
+ARTICULO 440
 
-I. De las medidas cautelares que ordene el Instituto, y
+Si en el contrato se ha fijado el precio en que una finca hipotecada haya de ser adjudicada al acreedor, sin haberse renunciado la subasta, el remate se hará teniéndose como postura legal la que exceda del precio señalado para la adjudicación, y cubra con el contado lo sentenciado. Si no hubiere postura legal, se llevará a efecto desde luego la adjudicación en el precio convenido.
 
-II. Del acuerdo de desechamiento que emita el Instituto sobre una denuncia.
+Si en el contrato se ha fijado precio a la finca hipotecada sin convenio expreso sobre la adjudicación al acreedor, no se hará nuevo avalúo y el precio señalado será el que sirva de base para el remate.
 
-El Tribunal será competente para conocer de este recurso.
+ARTICULO 441
 
-El plazo para impugnar las resoluciones del Instituto referidas en el presente artículo, será decuatrodías (sic) contados a partir del día siguiente del que se haya notificado la resolución correspondiente, con excepción del recurso que se interponga en contra de las medidas cautelares emitidas por el Instituto, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dichas medidas.
+Cuando los bienes cuyo remate se haya decretado, fueran muebles, se observará lo siguiente:
 
-Para la tramitación, sustanciación y resolución de este recurso, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en este Código en particular las señaladas en el recurso de apelación contenidas en el Título Cuarto de este Libro.
+I.- Se efectuará su venta siempre de contado, por medio de corredor o casa de comercio que expenda objetos o mercancías similares, haciéndose saber, para la busca de compradores, el precio fijado por peritos o por convenio de las partes;
 
-## TÍTULO OCTAVO. DEL TRIBUNAL ELECTORAL DEL ESTADO
+II.- Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el tribunal ordenará una rebaja del diez por ciento del valor fijado primitivamente y, conforme a ella, comunicará al corredor o casa de comercio el nuevo precio de venta, procediéndose en igual forma cada diez días, hasta obtener la realización;
 
-### CAPÍTULO ÚNICO. De sus Funcionarios y Atribuciones
+III.- Efectuada la venta, el corredor o casa de comercio entregará los bienes al comprador, otorgándosele la factura correspondiente que firmará el ejecutado o el tribunal en su rebeldía;
 
-###### ARTÍCULO 354.
+IV.- Después de ordenada la venta puede el ejecutante pedir la adjudicación de los bienes, por el precio que tuvieren señalado al tiempo de su petición, eligiendo los que basten para cubrir su crédito, según lo sentenciado;
 
-El Tribunal es el máximo órgano jurisdiccional especializado en el Estado en materia electoral; gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones; se regirá por los principios de certeza, imparcialidad, objetividad, legalidad, probidad, definitividad y máxima publicidad; funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación establecidos en este Código.
+V.- Los gastos de corretaje o comisión serán por cuenta del deudor y se deducirán preferentemente del precio de venta que se obtenga;
 
-Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
+VI.- En todo lo demás se estará a las disposiciones de este Capítulo.
 
-La integración del Tribunal; elección, requisitos y remociones de los magistrados; atribuciones; impedimentos y excusas se regirá por lo establecido en el Título Tercero del Libro Tercero de la LGIPE y en este Código.
+### CAPITULO V. De la ejecución de las sentencias y demás resoluciones dictadas por los tribunales de los Estados, del Distrito Federal y Territorios y del extranjero
 
-El Tribunal se integrará por tres magistrados propietarios. El Magistrado Presidente será designado por votación mayoritaria de los magistrados del propio Tribunal, durará en ese encargo dos años y no podrá ser reelecto en el periodo inmediato siguiente.
+ARTICULO 442
 
-Las licencias de los magistrados que no excedan de tres meses, las concederá el Pleno del Tribunal, sin que puedan coincidir las de dos o más magistrados. Los magistrados serán suplidos en sus faltas temporales por el Secretario General de Acuerdos; la del Presidente por el segundo Magistrado y en las faltas definitivas se hará del conocimiento del Senado de la República, para que haga nueva designación.
+El juez que reciba exhorto con las inserciones necesarias, conforme a derecho, para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el juez requeriente, siempre que lo que haya de ejecutarse no sea contrario a las leyes del Estado.
 
-La remuneración de los magistrados será establecida en el Presupuesto de Egresos del Estado, la cual no podrá disminuirse durante el ejercicio de su cargo.
+ARTICULO 443
 
-###### ARTÍCULO 355.
+Los jueces requeridos no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requeriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
-El Tribunal es competente para conocer de:
+ARTICULO 444
 
-I. Recursos de apelación en contra actos o resoluciones del Consejo;
+Si al ejecutar las resoluciones insertas en las requisitorias, se opusiere algún tercero, el juez lo oirá incidentalmente y calificará las excepciones opuestas conforme a las reglas siguientes:
 
-II. Recursos de inconformidad, contra los resultados consignados en las actas de cómputo municipal o distrital;
+I.- Cuando un tercero que no hubiere sido oído por el juez requeriente poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
 
-III. Recursos de nulidad, para anular la votación recibida en una casilla o declarar la nulidad de una elección;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
-IV. Recursos de revisión del Procedimiento Especial Sancionador;
+II.- Si el tercer opositor que se presente ante el Juez requerido, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenado a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado.
 
-V. La resolución de procedimientos especiales sancionadores, y
+ARTICULO 445
 
-VI. Las demás atribuciones que este Código y las leyes le confieran.
+Los jueces requeridos sólo ejecutarán las sentencias cuando reúnan las siguientes condiciones:
 
-Todas las sesiones del Tribunal serán públicas y sus resoluciones se tomaran por mayoría de votos, en términos de lo que disponga su Reglamento.
+I.- Que versen sobre cantidad líquida o cosa determinada individualmente;
 
-###### ARTÍCULO 356.
+II.- Que si tratan de derechos reales sobre inmuebles o de bienes inmuebles ubicados en el Estado, sean conformes a las leyes del mismo;
 
-Son atribuciones del Pleno del Tribunal, las siguientes:
+III.- Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la jurisdicción que la pronunció;
 
-I. Designar al Presidente del Tribunal;
+IV.- Que la parte condenada haya sido emplazada personalmente para ocurrir al juicio.
 
-II. Conceder licencias a los Magistrados hasta por tres meses existiendo causa justificada, y, en los términos aplicables, a los Secretarios de Estudio, al Secretario General de Acuerdos y al personal administrativo del Tribunal;
+ARTICULO 446
 
-III. Establecer las reglas para la distribución de los asuntos entre los Magistrados;
+El juez que reciba despacho u orden de su superior para ejecutar cualquier diligencia, es mero ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, tomándose simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-IV. Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio, Actuariosy (sic) al personal administrativo del Tribunal;
+ARTICULO 447
 
-V. Aprobar el proyecto del Presupuesto de Egresos del Tribunal, que deberá elaborar el Presidente del Tribunal;
+Las sentencias y demás resoluciones judiciales dictadas en países extranjeros, tendrán en el Estado la fuerza que establezcan los tratados respectivos. En su defecto se estará a la reciprocidad internacional.
 
-VI. Aprobar el Reglamento Interior del Tribunal;
+ARTICULO 448
 
-VII. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos competencia del Tribunal;
+Sólo tendrán fuerza en el Estado de Veracruz las ejecutorias extranjeras que reúnan las siguientes condiciones:
 
-VIII. Aplicar los medios de apremio, por conducto del Presidente del Tribunal;
+I.- Que aparezcan cumplidas las formalidades prescritas para los exhortos del extranjero;
 
-IX. Substanciar y resolver en forma definitiva los recursos a que se refiere el artículo anterior,
+II.- Que no contraríen alguna ley de orden público, vigente en el Estado;
 
-X. Aprobar el informe que se debe rendir a los poderes del Estado, sobre la intervención del Tribunal en el desarrollo de los comicios;
+III.- Que hayan sido dictadas a consecuencia del ejercicio de una acción personal;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+IV.- Que la obligación para cuyo cumplimiento se haya procedido sea lícita en el Estado;
 
-XI. Ordenar la publicación en el Periódico Oficial del Estado, los puntos resolutivos contenidos en las resoluciones definitivas;
+V.- Que haya sido emplazado personalmente el demandado para ocurrir al juicio;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+VI.- Que sean ejecutorias, conforme a las leyes de la Nación en que hayan sido dictadas;
 
-XII. Establecer en el ámbito de sus atribuciones, mecanismos para prevenir, atender, sancionar y en su caso erradicar la violencia política de género, y
+VII.- Que llenen los requisitos necesarios para ser consideradas como auténticas.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 449
 
-XIII. Las demás que determinen las leyes y las disposiciones reglamentarias aplicables.
+Es competente para ejecutar una sentencia dictada en el extranjero el juez que lo sería para seguir el juicio en que se dictó.
 
-###### ARTÍCULO 357.
+ARTICULO 450
 
-Son atribuciones del Presidente del Tribunal;
+Traducida la ejecutoria en la forma prevista por la ley, se presentará al juzgado competente para su ejecución, pero previamente, con audiencia del Ministerio Público, se examinará su autenticidad y si conforme a las leyes nacionales deba o no ser ejecutada.
 
-I. Convocar en los términos del reglamento respectivo a las sesiones del Pleno;
+ARTICULO 451
 
-II. Presidir las sesiones del Pleno, dirigir los debates y conservar el orden durante las mismas;
+Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye; limitándose a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes del Estado.
 
-III. Integrar el Pleno para los asuntos de su competencia;
+### CAPITULO UNICO. Reglas generales
 
-IV. Dictar las medidas que exijan el buen servicio y la disciplina del Tribunal e imponer las sanciones administrativas que procedan a los secretarios y personal administrativo, dando cuenta al Pleno de las mismas;
+ARTICULO 452
 
-V. Conocer y despachar la correspondencia del Tribunal;
+Las partes tienen el derecho de sujetar sus diferencias a juicio arbitral.
 
-VI. Autorizar, junto con el Secretario General de Acuerdos, las actas en las que se harán constar las deliberaciones del Tribunal en Pleno y los acuerdos que éste dicte;
+ARTICULO 453
 
-VII. Representar al Tribunal ante toda clase de autoridades;
+El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
 
-VIII. La administración del Tribunal que comprenderá, al menos, lo siguiente:
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
 
-a) Elaborar el proyecto de Presupuesto de Egresos del Tribunal;
+ARTICULO 454
 
-b) Elaborar el proyecto de informe que el Tribunal debe rendir a los poderes del Estado, sobre su intervención en el desarrollo de los comicios;
+El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
 
-c) Vigilar que el Tribunal cuente con los recursos humanos, materiales y financieros necesarios para su buen funcionamiento;
+ARTICULO 455
 
-d) Informar mensualmente al Pleno del Tribunal el estado del presupuesto, y
+Todo el que esté en pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
 
-e) Turnar a los magistrados los asuntos de su competencia.
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sin aprobación judicial, salvo cuando dichos incapacitados sean herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros, se hará siempre con la intervención judicial como se previno en los medios preparatorios.
 
-IX. Las demás que le confiera el Pleno del Tribunal, las disposiciones reglamentarias aplicables y este Código.
+ARTICULO 456
 
-###### ARTÍCULO 358.
+Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo cuando se trata de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado, se nombrará necesariamente con intervención judicial.
 
-El Tribunalcontará (sic) con un Secretario General de Acuerdos y tres secretarios de estudio, los cuales serán designados por el Pleno y deberán cumplir los siguientes requisitos:
+ARTICULO 457
 
-I. Ser ciudadano mexicano, con residencia en el Estadode (sic) cuando menos dos años antes del día de su designación;
+Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
 
-II. Ser licenciado en derecho con título debidamente registrado en términos de ley, con antigüedad mínima de seis años al día de su designación tratándose del Secretario General de Acuerdos, y cuatro años tratándose de secretarios de estudio;
+ARTICULO 458
 
-III. Acreditar por lo menos tres años de práctica en materiaelectoral (sic), y
+No se pueden comprometer en árbitros los siguientes negocios:
 
-IV. Tener notoria buena conducta.
+I.- El derecho de recibir alimentos;
 
-###### ARTÍCULO 359.
+II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
 
-Corresponde al Secretario General de Acuerdos:
+III.- Las acciones de nulidad de matrimonio;
 
-I. Apoyar al Presidente del Tribunal en las tareas que le encomiende;
+IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 270 del Código Civil.
 
-II. Acordar con el Presidente lo relativo a las sesiones del Tribunal;
+ARTICULO 459
 
-III. Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones;
+El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
 
-IV. Llevar el turno de los Magistrados que deban formular ponencias para las resoluciones del Tribunal;
+Cuando las partes no hayan designado los árbitros se entienden que se reservan para hacerlo con intervención judicial, como se previene en los medios preparatorios.
 
-V. Expedir certificaciones de las constancias que obren en los expedientes de la Secretaría General de Acuerdos;
+ARTICULO 460
 
-VI. Revisar los engroses de las resoluciones;
+El compromiso será válido aunque no se fije término para el juicio arbitral. En este caso la misión de los árbitros durará sesenta días. El plazo se cuenta desde que se acepta el nombramiento.
 
-VII. Supervisar el debido funcionamiento de la Oficialía de Partes y del Archivo Jurisdiccional;
+ARTICULO 461
 
-VIII. Autorizar con su firma las actuaciones del Tribunal, y
+Durante el plazo del arbitraje los árbitros no podrán ser recusados sino por el consentimiento unánime de las partes.
 
-IX. Las demás que le confiera el Pleno, las disposiciones reglamentarias aplicables y este Código.
+ARTICULO 462
 
-###### ARTÍCULO 360.
+Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales, si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
 
-Corresponde a los Secretarios de Estudio:
+Las partes podrán renunciar a la apelación.
 
-I. Dar cuenta, en las audiencias, de los asuntos encomendados al Magistrado Instructor;
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
 
-II. Proyectar los acuerdos de trámite;
+ARTICULO 463
 
-III. Efectuar las diligencias que les encomiende el Magistrado Instructor, cuando éstas deban practicarse fuera del local del Tribunal;
+El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
 
-IV. Redactar y autorizar las actas de las audiencias que les corresponda dar cuenta, y autorizar las resoluciones que recaigan en los expedientes;
+ARTICULO 464
 
-V. Expedir certificaciones de lo actuado en los expedientes;
+Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará para que, a costa de los mismos interesados, desempeñe sus funciones.
 
-VI. Dar fe de las actuaciones de la ponencia a la que estén adscritos;
+Cuando fueren varios los árbitros, entre ellos mismos elegirán al que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
 
-VII. Llevar el control de los libros de entradas y salidas de los recursos en la ponencia a la que estén adscritos;
+ARTICULO 465
 
-VIII. Ser responsable del orden y buen manejo del archivo de la ponencia a la que estén adscritos;
+El compromiso termina:
 
-IX. Hacer las funciones de Actuario, cuando así sea necesario;
+I.- Por muerte del árbitro elegido en el compromiso o en la cláusula compromisoria, si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
 
-X. Remitir a la Secretaría General de Acuerdos, al concluir el proceso electoral o cuando corresponda, los expedientes, libros y documentos generales de la ponencia, para los efectos de su custodia y archivo, y
+II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
 
-XI. En general, prestar auxilio al Magistrado Instructor para el control del personal adscrito a su ponencia y en cualquier otra actividad que le encomiende relacionada con el buen funcionamiento de su ponencia, así como las demás que le confiera el Pleno, las disposiciones reglamentarias aplicables y este Código.
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
 
-# LIBRO SEXTO. DE LAS CANDIDATURAS INDEPENDIENTES
+IV.- Por nombramiento recaído en el árbitro de magistrado, o de juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
 
-## TÍTULO PRIMERO. DE DERECHOS Y OBLIGACIONES DE LOS CANDIDATOS INDEPENDIENTES
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 460.
 
-### CAPÍTULO I. Disposiciones Generales
+ARTICULO 466
 
-###### ARTÍCULO 361.
+Los árbitros designados por el juez sólo son recusables por las mismas causas que lo fueren los demás jueces.
 
-Los ciudadanos que resulten seleccionados conforme al procedimiento previsto en el presente Libro tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los siguientes cargos de elección popular:
+ARTICULO 467
 
-I. Gobernador Constitucional del Estado de Aguascalientes;
+Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
 
-II. Diputados por el principio de mayoría relativa, y
+ARTICULO 468
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+El laudo será firmado por cada uno de los árbitros y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
 
-III. Ayuntamientos por el principio de mayoría relativa y representación proporcional.
+ARTICULO 469
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Si los árbitros no estuvieren autorizados para nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de Primera Instancia para que sea hecho el nombramiento.
 
-Para cada cargo de elección, el procedimiento de registro variará.
+ARTICULO 470
 
-###### ARTÍCULO 362.
+Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más, que se sumarán a dicho término para que pueda pronunciar el laudo.
 
-Por cada elección de la que se trate, podrán ser registrados como candidatos independientes los ciudadanos que cumplan con los requisitos establecidos en este Código.
+ARTICULO 471
 
-###### ARTÍCULO 363.
+Los árbitros decidirán según las reglas de derecho, a menos que en el compromiso o en la cláusula se les recomiende la amigable composición o el fallo en conciencia.
 
-Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán atender a las disposiciones constitucionales, legales y reglamentarias establecidas al efecto, así como los criterios o acuerdos que emita el Consejo.
+ARTICULO 472
 
-###### ARTÍCULO 364.
+De las recusaciones y excusas de los árbitros, conocerá el juez ordinario sin ulterior recurso, sujetándose al procedimiento indicado para las recusaciones o excusas de los jueces municipales.
 
-Las disposiciones establecidas en el presente Código para los candidatos de partidos políticos, se aplicarán en forma supletoria, para los candidatos independientes.
+ARTICULO 473
 
-### CAPÍTULO II. De los Derechos y Obligaciones de los Candidatos Independientes
+Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso de que sea opuesta como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 474
 
-###### ARTÍCULO 365.
+Los árbitros pueden condenar en costas y en daños y perjuicios a las partes, y aun imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
 
-Los ciudadanos podrán solicitar al Consejo su registro como candidatos independientes a cargos de elección popular que correspondan.
+ARTICULO 475
 
-###### ARTÍCULO 366.
+Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
 
-Son derechos de los candidatos independientes:
+Para la ejecución de autos, se acudirá también al juez de primera instancia.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para el juicio.
 
-I. Participar en las elecciones de Diputados por el principio de mayoría relativa, Gobernador del Estado y miembros de los ayuntamientos por el principio de mayoría relativa y representación proporcional en condiciones de equidad;
+ARTICULO 476
 
-II. Gozar de las garantías y prerrogativas que este Código les otorga para realizar sus actividades;
+Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje, y, si hubiere varios jueces de lo civil, el de número más bajo.
 
-III. Designar un representante propietario y a un suplente ante los órganos electorales estatales, de acuerdo a lo siguiente:
+ARTICULO 477
 
-a) El candidato independiente a Gobernador del Estado, ante el Consejo y cada uno de los Consejos Distritales de la entidad;
+Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
 
-b) Los candidatos independientes a diputados por el principio de mayoría relativa, ante el Consejo Distrital correspondiente;
+ARTICULO 478
 
-c) Los candidatos independientes integrantes de una planilla para Ayuntamiento ante el Consejo Municipal correspondiente;
+La apelación sólo será admisible conforme a las reglas del derecho común.
 
-d) Nombrar dos representantes propietarios y un suplente ante cada una de las mesas directivas de casilla que correspondan a la demarcación electoral del cargo por el cual estén contendiendo; así como acreditar en cada uno de los distritos electorales uninominales correspondientes, un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales;
+ARTICULO 479
 
-e) Los representantes se deberán acreditar ante los consejos electorales a más tardar dentro de los quince días siguientes a la fecha de obtención del registro de la candidatura independiente que se trate, en caso de no realizarse dentro de este plazo perderá este derecho, y
+El juez debe compeler a los árbitros para que cumplan con sus obligaciones.
 
-f) Las disposiciones aplicables a los representantes de los partidos políticos, establecidas en este Código, se aplicarán supletoriamente a los representantes de los candidatos independientes.
+### CAPITULO UNICO. ARTICULO 480
 
-IV. Interponer los medios de impugnación establecidos en este Código;
+En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tenga interés propio y distinto al del actor o reo en la materia del juicio.
 
-V. Tener acceso a los tiempos en radio y televisión de conformidad con el acuerdo que emita el Consejo General; y a los espacios en los medios de comunicación impresos durante la campaña electoral, en los términos que establezca el presente Código;
+ARTICULO 481
 
-VI. Recibir el listado nominal de la demarcación correspondiente;
+La tercería deberá deducirse en los términos prescritos para formular una demanda ante el juez que conoce del juicio.
 
-VII. De la disposición sin costo de alguno de los locales públicos, instalaciones e infraestructura estatal y municipal, con el objeto de llevar a cabo actos proselitistas durante el tiempo de campañas electorales; los cuales el Consejo gestionará sin costo o en su caso, el de recuperación, ante las autoridades que correspondan y conforme a la disponibilidad de éstos; siempre previa verificación de disponibilidad de las instalaciones e infraestructura;
+ARTICULO 482
 
-VIII. Disponer equitativamente de los espacios públicos que para efectos de propaganda electoral, gestione el Consejo ante las autoridades estatales y municipales, según corresponda al tipo de elección por el que obtenga su registro como candidato, y
+Las tercerías que se deduzcan en el juicio, se substanciarán en la misma forma que él.
 
-IX. Participar en los debates que organice el Instituto entre los candidatos a Gobernador del Estado, en términos de lo establecido en el presente Código;
+ARTICULO 483
 
-###### ARTÍCULO 367.
+Las tercerías coadyuvantes, pueden oponerse en el juicio, sea cual fuere la acción que se ejercite y cualquiera que sea el estado en que éste se encuentre, con tal que aún no se haya pronunciado sentencia que cause ejecutoria.
 
-Son obligaciones de los candidatos independientes:
+ARTICULO 484
 
-I. Conducir sus actividades y las de sus simpatizantes dentro de los cauces previstos por este Código y ajustar su conducta a los principios del Estado democrático, con respeto a la libre participación política de los partidos políticos y los derechos de los ciudadanos;
+Los terceros coadyuvantes se consideran asociados a la parte cuyo derecho coadyuvan y, en consecuencia, podrán:
 
-II. Ser responsables, junto con el Tesorero, dentro de los procedimientos de fiscalización de los recursos utilizados en la campaña electoral, hasta la total conclusión de los mismos;
+I.- Salir al pleito en cualquier estado en que se encuentre, con tal de que no se haya pronunciado sentencia que cause ejecutoria;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+II.- Hacer las gestiones que estimen oportunas dentro del juicio, siempre que no deduciendo la misma acción u oponiendo la misma excepción que el actor o que el reo, respectivamente, no hubieren designado representante común;
 
-III. Señalar domicilio y correo electrónico para oír y recibir notificaciones y comunicar de manera inmediata cualquier cambio del mismo;
+III.- Continuar su acción y defensa aun cuando el principal se desistiere;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+IV.- Apelar e interponer los recursos procedentes.
 
-IV. Notificar al Consejo de manera inmediata cualquier cambio de los integrantes de su órgano directivo;
+ARTICULO 485
 
-V. Retirar la propaganda electoral en los términos de lo establecido en el párrafo cuarto del artículo 163 del presente Código;
+El demandado debe denunciar el pleito al obligado a la evicción, antes de la contestación de la demanda, solicitándolo así del juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
 
-VI. Devolver, al Instituto el listado nominal de la demarcación correspondiente que le haya sido proporcionado, una vez que haya concluido la jornada electoral;
+ARTICULO 486
 
-VII. Permitir la práctica de auditorías y verificaciones a que se refiere este Código, así como entregar la documentación que la Contraloría Interna le solicite respecto a sus ingresos y egresos, lo anterior en el caso que el INE delegue esta función al Instituto;
+De la primera petición que haga el tercero coadyuvante, cuando venga al juicio, se correrá traslado a los litigantes, con excepción del caso previsto en el artículo anterior.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 487
 
-VIII. Conducirse sin ligas de dependencia o subordinación con partidos políticos, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de culto de cualquier asociación religiosa;
+Las tercerías excluyentes de dominio deben fundarse en el dominio que sobre los bienes en cuestión o sobre la acción que se ejercita alega el tercero.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+No puede interponer tercería excluyente de dominio aquél que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
 
-IX. Abstenerse de cualquier expresión que implique calumniar a las personas; en sus actos proselitistas así como en su propaganda electoral que utilice durante la campaña de que se trate;
+ARTICULO 488
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+La tercería excluyente de preferencia debe fundarse en el mejor derecho que el tercero deduzca para ser pagado.
 
-X. Constituir una Asociación Civil, misma que contará con un órgano directivo que estará integrado por lo menos de un presidente, un secretario y un tesorero;
+ARTICULO 489
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+Con la demanda de tercería excluyente, deberá presentarse el título en que se funde, sin cuyo requisito se desechará de plano.
 
-XI. Abstenerse de hacer actos de precampaña, campaña y utilizar propaganda electoral en conjunto con algún partido político, coalición, candidatura común y/u otro candidato independiente; y
+ARTICULO 490
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+No pueden ocurrir en tercería de preferencia:
 
-XII. Las demás que establezca este Código y las normas generales en la materia, en lo conducente a los candidatos de partidos políticos y coaliciones.
+I.- El acreedor que tenga hipoteca u otro derecho real accesorio en finca distinta a la embargada;
 
-###### ARTÍCULO 368.
+II.- El acreedor que, sin tener derecho real, no haya embargado el bien objeto de la ejecución;
 
-En materia de responsabilidades y sanciones, a los candidatos independientes en cualquier etapa del proceso electoral en el que participen, les será aplicable lo establecido para los candidatos en el Título Primero del Libro Cuarto de este Código.
+III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
 
-###### ARTÍCULO 369.
+IV.- El acreedor a quien la ley lo prohiba en otros casos.
 
-Ninguna persona podrá ser registrada como candidato independiente a más de un cargo de elección popular en el mismo proceso electoral.
+ARTICULO 491
 
-###### ARTÍCULO 370.
+El tercer excluyente de crédito hipotecario, tiene derecho a pedir que el depósito se haga por su cuenta, sin acumularse las actuaciones.
 
-Quedan prohibidos todos los actos que generen presión o coacción sobre la ciudadanía para obtener los apoyos requeridos por la legislación para el registro de la candidatura independiente, o para la obtención del voto.
+ARTICULO 492
 
-###### ARTÍCULO 371.
+Las tercerías excluyentes, pueden oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al rematante o al actor, en su caso, por vía de adjudicación, y que, si son de preferencia, no se haya hecho el pago al demandante.
 
-Los aspirantes a la candidatura independiente deberán abstenerse en todo momento de realizar actos anticipados de campaña.
+ARTICULO 493
 
-###### ARTÍCULO 372.
+Las tercerías excluyentes no suspenderán el curso del negocio en que se interponen. Si fueren de dominio, el juicio principal seguirá sus trámites hasta antes del remate y desde entonces se suspenderán sus procedimientos hasta que se decida la tercería. Entretanto se decide ésta, se depositará a disposición del juez el precio de la venta.
 
-La propaganda política o electoral que difundan los candidatos independientes deberá estar exenta de expresiones que calumnien a las personas.
+ARTICULO 494
 
-###### ARTÍCULO 373.
+Si el actor y el demandado aceptaren la demanda de tercería, el juez, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia si fuere de preferencia.
 
-Los candidatos independientes, en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+Lo mismo hará cuando ambos dejaren de contestar a la demanda de tercería.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 495
 
-###### ARTÍCULO 374.
+Cuando se presenten tres o más acreedores que hicieren oposición, si estuvieren conformes, se seguirá un solo juicio, graduando en una sola sentencia sus créditos; pero si no lo estuvieren, se seguirá el juicio de concurso necesario de acreedores.
 
-En ningún caso, los candidatos independientes participarán en los procedimientos de asignación de diputados por el principio de representación proporcional.
+ARTICULO 496
 
-###### ARTÍCULO 375.
+Si fueren varios los opositores, reclamando el dominio, se procederá en cualquier caso que sea a decidir incidentalmente la controversia, en unión del ejecutante y del ejecutado.
 
-Para la determinación de la votación estatal emitida en la asignación de curules de representación proporcional, el Instituto deducirá además de los mencionados en la fracción II del artículo 233 de este Código, aquellos votos que se hubiesen emitido en favor de las candidaturas independientes.
+ARTICULO 497
 
-## TÍTULO SEGUNDO. DEL REGISTRO DE LOS CANDIDATOS INDEPENDIENTES
+Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
 
-### CAPÍTULO I. Requisitos para su Registro
+### CAPITULO UNICO. ARTICULO 498
 
-###### ARTÍCULO 376.
+Cuando ambos cónyuges convengan en divorciarse y sean menores de edad, tengan hijos o no hayan liquidado la sociedad conyugal, si bajo ese régimen se casaron, acudirán ante el juez de su domicilio para completar su personalidad, fijar la situación en que deban quedar los hijos y liquidar y dividir los bienes de la sociedad.
 
-Los ciudadanos que aspiren a obtener la candidatura independiente al cargo de Gobernador, Diputado de mayoría relativa o de la planilla a Ayuntamiento además de observar los requisitos generales establecidos en este Código y en la Constitución, deberán cumplir con lo siguiente:
+ARTICULO 499
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+En el caso del artículo anterior, el juez señalará día y hora para una audiencia que debe celebrarse a los cinco días de presentada la solicitud. En esa audiencia, con intervención del Ministerio Público, se completará la personalidad de los promoventes y se denunciará el convenio que los interesados hayan formalizado, de acuerdo con el artículo 147 del Código Civil.
 
-I. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de Gobernador, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Estado y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5 % de ciudadanos que figuren en la lista nominal de electores en cada una de ellas;
+ARTICULO 500
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+A falta de convenio sobre los hijos o en este mismo en lo que sea compatible con los arreglos que propongan los cónyuges, el juez procurará que los hijos queden confiados al cuidado del padre y de la madre en justa proporción, siguiendo hasta donde se estime oportuno, la elección de los propios hijos, expresada por éstos libremente. En caso de incapacidad de los mismos para optar o expresar su elección, el juez decidirá en los términos convenientes al interés social y familiar de los hijos y los padres. El juez, con auxilio del Ministerio Público y de los interesados, suplirá las deficiencias u omisiones para la liquidación social.
 
-II. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de diputado de mayoría relativa, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral distrital por la que aspire a participar y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5% de ciudadanos que figuren en la Lista Nominal de Electores en cada una de ellas;
+ARTICULO 501
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+En la misma audiencia resolverá el juez; y en caso de quedar resuelta la situación de los hijos y de los bienes, mandará expedir copia de las diligencias a los interesados para que se presenten ante el Encargado del Registro Civil, en los términos del artículo 146 del Código de la materia para obtener su divorcio.
 
-III. En el caso de los ciudadanos que aspiren a obtener la candidatura independiente al cargo de planilla a Ayuntamiento, deberán acreditar contar con el apoyo de al menos el 2.5 % de los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores correspondiente a la demarcación electoral total del Municipio de que se trate y estar integrada por ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 2.5 % de ciudadanos que figuren en la lista nominal de electores en cada una de ellas;
+ARTICULO 502
 
-Los porcentajes mencionados en todos los casos de la Lista Nominal de Electores serán con corte al 31 de agosto del año previo al de la elección.
+En todos los casos de divorcio se observarán las disposiciones del Código Civil.
 
-IV. Presentar la plataforma electoral que sostendrá a lo largo del periodo de campañas;
+TITULO DECIMOPRIMERO
 
-V. Presentar el logotipo e imagen que utilizarán para distinguir su candidatura, la cual no podrá coincidir con los colores de alguno de los partidos políticos;
+DEL CAMBIO DE NOMBRE
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+## TITULO NOVENO. DE LAS TERCERIAS
 
-VI. No ser militante o afiliado de algún partido político, en los últimos doce meses al día del inicio del proceso electoral;
+## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
 
-VII.- (DEROGADA, P.O. 29 DE MAYO DE 2017)
+### CAPITULO UNICO. ARTICULO 503
 
-###### ARTÍCULO 377.
+Los cambios de nombre por homonimia contra persona determinada, se ventilarán en la forma que para el juicio establece este Código.
 
-En el caso de la candidatura al cargo de Gobernador señalado en el artículo anterior, deberá obtenerse el porcentaje señalado en cada uno de los municipios de la entidad, tomando como base para ello, los ciudadanos inscritos en el Registro Federal de Electores y que aparezcan en la Lista Nominal de Electores.
+ARTICULO 504
 
-###### ARTÍCULO 378.
+En cualquier otro caso en que se solicite el cambio de nombre, se mandará publicar el extracto de la solicitud, por tres veces consecutivas en la "Gaceta Oficial" y en otro periódico de mayor circulación, a juicio del juez. Si dentro de los quince días siguientes a la última publicación se presentare algún reclamante, con él se substanciará el juicio correspondiente. Si no hubiere reclamación, se concederá el cambio.
 
-En el caso de los ciudadanos que aspiren a integrar una planilla de candidatos independientes para algún Ayuntamiento de mayoría relativa o en su caso fórmula de Diputado por el mismo principio, solo podrán acreditar apoyo de ciudadanos que tengan como lugar de residencia la demarcación electoral por la que aspiran contender.
+ARTICULO 505
 
-Los aspirantes a candidatos independientes a diputados y de la planilla para ayuntamientos deberán especificar cuáles de sus integrantes están optando por reelegirse en sus cargos y el número de veces que han ocupado el mismo cargo de manera consecutiva.
+Las sentencias que se pronuncien en esta materia, se comunicarán al Encargado del Registro Civil.
 
-###### ARTÍCULO 379.
+TITULO DECIMOSEGUNDO
 
-Los ciudadanos solo podrán expresar su apoyo a un aspirante a una candidatura independiente por elección, en caso de que dos o más aspirantes presenten a un mismo ciudadano dentro de su lista de apoyo popular, la autoridad electoral lo nulificará y solicitará su reposición a los aspirantes interesados dentro de las setenta y dos horas siguientes, contadas a partir de que sea notificada esta determinación por la autoridad electoral.
+DE LOS RECURSOS
 
-### CAPÍTULO II. Del Procedimiento de Pre Registro de Aspirantes y de Registro de Candidatos Independientes
-
-###### ARTÍCULO 380.
-
-Corresponde al Consejo llevar a cabo los procedimientos de pre registro de aspirantes y de registro de candidatos independientes, para ello, el Consejo emitirá, a más tardar el día quince de enero del año de la elección, una convocatoria abierta a los ciudadanos que deseen aspirar por una candidatura independiente, la cual deberá contener por lo menos:
-
-I. Los requisitos que tendrán que satisfacer quienes aspiren a obtener una candidatura independiente, y
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-II. Las fechas y el lugar en donde se recibirán las solicitudes de pre registro y registro, la primera con la que se otorgará a los ciudadanos la calidad de aspirantes, y la segunda la de candidatos independientes.
-
-El Consejo podrá acordar la inclusión de algún otro elemento en la convocatoria, siempre y cuando no transgreda la CPEUM, la Constitución o este Código.
-
-###### ARTÍCULO 381.
-
-Los plazos para la entrega de las solicitudes de registro de aspirantes a una candidatura independiente serán:
-
-I. Durante el proceso en el que se renueve al titular del Poder Ejecutivo, al Congreso del Estado y a los ayuntamientos, el pre registro de candidatos independientes se realizará en la tercera semana de enero del año de la elección, y
-
-II. Durante el proceso en el que sólo se renueven al Congreso del Estado y a los ayuntamientos, el pre registro de candidatos independientes se realizará en la última semana de enero del año de la elección.
-
-###### ARTÍCULO 382.
-
-El Consejo, una vez fenecido el plazo para la entrega de solicitudes, contará con cuatro días para revisar y analizar la totalidad de solicitudes, debiendo sesionar al día siguiente con el objeto de aprobar el pre registro de aquellas solicitudes que hayan cumplido los requisitos establecidos en la convocatoria de mérito y que por ende podrán contender por el registro de la candidatura independiente que corresponda a la solicitud de cada uno de ellos.
-
-###### ARTÍCULO 383.
-
-Los ciudadanos que hayan obtenido el pre registro, para efecto de reunir la documentación que acredite el apoyo popular de los ciudadanos en la demarcación electoral por la que aspiran obtener la candidatura deberán de realizarlo dentro de los siguientes plazos:
-
-I. Durante el proceso en el que se renueve al titular del Poder Ejecutivo, al Congreso del Estado y a los ayuntamientos, lo harán únicamente dentro del periodo comprendido entre el primero de febrero y hasta el once de marzo del año de la elección sin que pueda excederse de dos terceras partes de lo que dure la campaña de la elección de que se trate, y
-
-II. Durante el proceso en el que sólo se renueven al Congreso del Estado y a los ayuntamientos, lo harán únicamente dentro del periodo comprendido entre el diez de febrero y hasta el diez de marzo del año de la elección sin que pueda excederse de dos terceras partes de lo que dure la campaña de la elección de que se trate.
-
-###### ARTÍCULO 384.
-
-Los aspirantes que hayan obtenido su pre registro para contender por una candidatura independiente, con el objeto de acreditar el apoyo ciudadano requerido deberán presentar ante el Consejo, la siguiente documentación:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-I. El nombre, la clave de elector y la firma autógrafa de cada uno de los ciudadanos que respalde la candidatura;
-
-II. Manifestación respecto a no formar parte de algún puesto de dirección dentro de algún partido político, y
-
-III. Que el ciudadano que apoye la candidatura, esté registrado en la lista nominal de electores de la demarcación electoral por la que el candidato aspire a participar.
-
-###### ARTÍCULO 385.
-
-A efecto de que los ciudadanos que hayan obtenido el pre registro puedan recabar la documentación y firmas necesarias para acreditar el apoyo popular, el instituto deberá realizar el diseño e impresión y posterior entrega de los formatos que estos deberán utilizar para concentrar sus manifestaciones de apoyo.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Las cédulas de apoyo ciudadano una vez concluido el proceso electoral local respectivo, serán destruidas bajo los mismos criterios que la documentación y material electoral.
-
-###### ARTÍCULO 386.
-
-En el caso de que dos o más aspirantes soliciten registro como candidato independiente a un mismo cargo de elección popular y cumplan con los requisitos que establece el presente Código, la autoridad electoral registrará a todos ellos.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 387.
-
-La manifestación de la intención de ser candidato independiente será presentada en el tiempo de pre registro, la cual contendrá los siguientes datos y deberá acompañarse de los documentos que se enlistan a continuación:
-
-I. Nombre y apellidos del ciudadano;
-
-II. Domicilio y ocupación;
-
-III. Cargo para el que aspira a ser registrado;
-
-IV. Domicilio y correo electrónico para oír y recibir notificaciones;
-
-V. Copia certificada del acta de nacimiento, y de constancia de residencia;
-
-VI. Declaratoria por medio de la cual manifiesten bajo protesta de decir verdad no encontrarse en alguno de los impedimentos de elegibilidad;
-
-VII. El emblema y colores con los que pretende obtener el apoyo ciudadano y contender en caso de aprobarse el registro, mismos que no deberán ser parecidos a los de los partidos políticos con registro o acreditación ante el Instituto;
-
-VIII. El nombre de la persona que fue nombrada a través de los estatutos de la Asociación Civil, como tesorera, es decir la encargada del manejo de los recursos financieros y rendición de informes de gastos de apoyo ciudadano y de campaña;
-
-IX. La documentación que acredite la creación de la persona moral constituida en Asociación Civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal;
-
-X. La documentación que acredite el registro ante el Sistema de Administración Tributaria;
-
-XI. La documentación que contenga los datos de la cuenta bancaria aperturada a nombre de la persona moral para recibir el financiamiento público y privado correspondiente;
-
-XII. Copia de la credencial para votar del ciudadano que aspire a ser candidato independiente, así como de los miembros del órgano directivo de la Asociación Civil que sea constituida; y
-
-XIII. La plataforma electoral.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-ARTÍCULO 387 A.- La solicitud de registro de candidatos independientes de aquellos que primero obtuvieron la calidad de aspirantes, será presentada ante el Consejo debiendo contener:
-
-I. Relación de apoyo ciudadano que contenga el nombre, clave de elector y firma autógrafa de cada uno de los ciudadanos que respalden dicha candidatura en la demarcación electoral en la que participe como candidato independiente;
-
-II. En su caso, el documento mediante el cual acredite haber obtenido la totalidad mínima necesaria de firmas de apoyo ciudadano para contender por el cargo que aspira; y
-
-III. La declaración de aceptación de candidatura.
-
-Al momento de la solicitud del registro, las planillas de aspirantes a Ayuntamiento por el principio de mayoría relativa, deberán presentar su lista de candidatos a contender por el principio de representación proporcional, quienes deberán cumplir en ese momento con los requisitos que sean necesarios de los establecidos en este artículo, ante el Consejo General.
-
-La lista de candidatos independientes por el principio de representación proporcional deberá estar integrada por ciudadanos que formen parte de la planilla de aspirantes a Ayuntamiento por el principio de mayoría relativa.
-
-El Consejo correspondiente resolverá sobre el pre registro y registro de candidatos independientes en los plazos y términos previstos por este Código.
-
-## TÍTULO TERCERO. DEL FINANCIAMIENTO Y FISCALIZACIÓN DE LOS RECURSOS DE LOS CANDIDATOS INDEPENDIENTES
-
-### CAPÍTULO I. Disposiciones Generales
-
-###### ARTÍCULO 388.
-
-El candidato independiente que obtenga su registro y participe en la contienda electoral, tendrá derecho a recibir financiamiento público y privado, para destinarlos a sufragar exclusivamente sus gastos de campaña, lo anterior de conformidad a las siguientes reglas:
-
-I. Como financiamiento público para gastos de campaña le corresponderá el que se asignaría a un partido político de nueva creación, según el tipo de elección de que se trate;
-
-II. El monto del financiamiento privado no podrá rebasar en ningún caso, el 10% del tope de gasto para la elección de que se trate yse (sic) constituye por:
-
-a) Las aportaciones que realicen el candidato independiente y sus simpatizantes; no podrán rebasar el 6% del tope de gasto privado para la elección de que se trate;
-
-b) El autofinanciamiento estará comprendido por los ingresos que obtengan los candidatos independientes, producto de actividades de promoción, todas ellas deberán estar sujetas a las leyes correspondientes a su naturaleza y realizarse de acuerdo a lo especificado en el artículo 393 del presente Código, no podrá rebasar el 3% del tope de gasto privado para la elección de que se trate, y
-
-c) Los rendimientos financieros, fondos y fideicomisos podrán ser establecidos con la finalidad exclusiva de obtener rendimientos financieros para la campaña del candidato independiente, no podrá rebasar el 1% del tope de gasto privado para la elección de que se trate.
-
-###### ARTÍCULO 389.
-
-Los candidatos independientes que obtengan su registro deberán designar a la persona o comité encargado de la obtención de recursos de campaña y exclusivamente a una persona encargada de la administración de los recursos públicos y privados obtenidos, así como para la presentación de los informes a que se refiere el artículo 79 de la LGPP.
-
-Los candidatos deberán establecer en instituciones bancarias domiciliadas en Aguascalientes, una cuenta única para el manejo de los recursos de campaña electoral a su nombre y que no deberá exceder del importe correspondiente al tope de gastos de campaña aprobado por el Consejo en la elección en la que contienda, sujetos a las reglas que establece el artículo 42 de este Código.
-
-Todas las aportaciones deberán realizarse exclusivamente en dicha cuenta, mediante cheque o transferencia bancaria.
-
-###### ARTÍCULO 390.
-
-Los candidatos independientes tienen prohibido recibir aportaciones y donaciones en efectivo, así como de metales y piedras preciosas, por cualquier persona física o moral.
-
-Los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas
-
-###### ARTÍCULO 391.
-
-No podrán realizar aportaciones o donativos en efectivo, metales y piedras preciosas o en especie por sí o por interpósita persona, a los aspirantes o candidatos independientes a cargos de elección popular, bajo ninguna circunstancia:
-
-I. Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades, así como los ayuntamientos;
-
-II. Las dependencias, entidades u organismos de la Administración Pública Federal, estatal o municipal;
-
-III. Los organismos autónomos federales, estatales y del Distrito Federal;
-
-IV. Los partidos políticos, personas físicas o morales extranjeras;
-
-V. Las organizaciones gremiales, sindicatos y corporativos;
-
-VI. Los organismos internacionales de cualquier naturaleza;
-
-VII. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
-
-VIII. Las personas que vivan o trabajen en el extranjero, y
-
-IX. Las empresas mexicanas de carácter mercantil.
-
-###### ARTÍCULO 392.
-
-Las aportaciones de bienes muebles, servicios o de cualquier otra en especie, deberán destinarse exclusivamente a las actividades de la candidatura independiente de que se trate.
-
-En ningún caso, los candidatos independientes podrán recibir en propiedad bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
-
-###### ARTÍCULO 393.
-
-Los ingresos que se obtengan por medio de autofinanciamiento deberán soportarse con un informe por cada evento, dicho informe deberá especificar lo siguiente:
-
-I. Fecha y descripción del evento;
-
-II. Número consecutivo;
-
-III. Mecanismo de administración;
-
-IV. Fuente de ingresos para organizarlo;
-
-V. Control de folios;
-
-VI. Permisos y autorizaciones legales, de ser el caso;
-
-VII. Importe bruto de ingresos;
-
-VIII. Importe desglosado de los gastos;
-
-IX. Ingreso neto obtenido, y
-
-X. Nombre y firma del responsable.
-
-###### ARTÍCULO 394.
-
-Los candidatos podrán obtener rendimientos financieros de los recursos que le sean otorgados con la finalidad exclusiva de ser utilizados en su campaña, lo anterior atendiendo a lo siguiente:
-
-I. El establecimiento del fondo, fideicomiso o inversión deberá estar vinculada a la cuenta aperturada en el Estado de Aguascalientes para el manejo de los recursos de la campaña del candidato independiente;
-
-II. Estarán obligados a informar al INE o en su caso a la Contraloría Interna, acerca de la apertura del fondo, fideicomiso o inversión, a más tardar dentro de los cinco días siguientes a la firma del contrato;
-
-III. Los fondos y fideicomisos serán manejados por el responsable del manejo de los recursos de la campaña, y
-
-IV. Estos solo podrán ser en instrumentos de deuda emitidos por el gobierno mexicano en moneda nacional y en un plazo no mayor a dos meses.
-
-Los candidatos independientes no podrán obtener rendimientos de inversiones en el mercado bursátil, inversiones en moneda extranjera, en el extranjero o créditos que provengan de la banca de desarrollo.
-
-###### ARTÍCULO 395.
-
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
-
-Los comprobantes que amparen los egresos que realicen los candidatos independientes, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la unidad de Fiscalización del INE o en su caso a la Contraloría Interna. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, así como las establecidas por el Reglamento de Fiscalización de la Unidad de Fiscalización del INE o en su caso de la Contraloría Interna.
-
-###### ARTÍCULO 396.
-
-Los candidatos independientes deberán presentar ante el INE o en su caso, ante la Contraloría Interna, los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento para el gasto de campaña, así como su empleo y aplicación, atendiendo a las reglas establecidas en el artículo 79 de la LGPP.
-
-El INE podrá tener acceso a la información de las cuentas, fondos o fideicomisos que estén protegidos por el secreto bancario o fiduciario, así como su manejo.
-
-###### ARTÍCULO 397.
-
-En caso de que el INE delegue la facultad de fiscalización al Instituto, la Contraloría Interna fiscalizará el ejercicio de los recursos que los candidatos independientes hayan ejercido durante el periodo de campañas electorales.
-
-###### ARTÍCULO 398.
-
-En la segunda quincena del mes de diciembre del año previo de la elección, la Contraloría Interna deberá proponer al Consejo para que este apruebe los formatos que tendrán que entregar los candidatos independientes para respaldar la obtención y aplicación de los recursos para la campaña electoral del proceso electoral del que se trate.
-
-###### ARTÍCULO 399.
-
-El financiamiento público entregado a los candidatos independientes por concepto de gastos de campaña, que no sean ejercidos, deberá ser reintegrado al erario público dentro de los treinta días posteriores a la jornada electoral en la que contienda.
-
-### CAPÍTULO II. Del Procedimiento de Liquidación y Finiquito
-
-###### ARTÍCULO 400.
-
-El Instituto podrá disponer de lo necesario para que le sean adjudicados al Estado los recursos y bienes remanentes de los candidatos independientes, al término del proceso electoral; para tal efecto se estará a lo siguiente, y a lo que determine el Consejo:
-
-I. Una vez concluido el proceso electoral, el Consejo designará de inmediato a un interventor especial que será responsable del control y vigilancia directo del destino de los recursos y bienes del candidato independiente de que se trate;
-
-II. La designación del interventor especial será notificada de inmediato, por conducto de su representante ante el consejo respectivo, en ausencia del mismo la notificación se hará en el domicilio social de la asociación civil que con objeto de la candidatura ciudadana hubiese constituido;
-
-III. A partir de su designación el interventor especial tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos que con motivo del financiamiento público, haya obtenido el candidato independiente;
-
-IV. El interventor especial designado deberá:
-
-a) Determinar en su caso las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del candidato independiente en liquidación;
-
-b) Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de dichas obligaciones;
-
-c) Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores. Realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del candidato independiente en liquidación, aplicando en lo conducente las leyes en esta materia, y
-
-d) Formular un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines indicados en los incisos a), b) y c).
-
-V. El informe que emita el interventor especial será sometido a la aprobación del Consejo, y el interventor especial ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
-
-VI. Si realizado lo dispuesto en las fracciones IV y V de este artículo, aún quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente al Estado, y
-
-VII. En todo tiempo se le deberá garantizar al candidato independiente de que se trate el ejercicio de las garantías que la CPEUM y las leyes le confieren.
-
-Las decisiones de los órganos electorales pueden ser impugnadas jurisdiccionalmente.
-
-## TÍTULO CUARTO. DE LAS CAMPAÑAS ELECTORALES
-
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-###### ARTÍCULO 401.
-
-Las campañas electorales de los candidatos independientes se sujetarán a las reglas establecidas en el Capítulo IV del Título Segundo, Libro Tercero de este Código, por lo tanto, en caso de incumplir con las mismas se harán merecedores a las sanciones que correspondan.
-
-###### ARTÍCULO 402.
-
-El candidato independiente deberá presentar ante el Consejo, la relación de integrantes de su comité de campaña electoral, señalando las funciones de cada uno y el respectivo domicilio oficial en la Capital del estado, cabecera municipal sede de distrito o cabecera municipal, según corresponda.
-
-T R A N S I T O R I O S:
-
-## TÍTULO SEGUNDO. DE LOS CONSEJOS DISTRITALES
-
-### CAPÍTULO II. De las Elecciones Ordinarias
-
-###### ARTÍCULO 126.
-
-Las elecciones ordinarias se verificarán el primer domingo del mes de junio del año que corresponda.
-
-El proceso electoral ordinario inicia con la sesión de instalación que celebre el Consejo dentro de la primera semana del mes de octubre del año previo al de la elección, y concluye:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-I. Cuando no se presente algún medio de impugnación electoral, respecto de cualquier tipo de elección;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-II. Cuando cause estado la resolución del órgano jurisdiccional electoral, del último de los medios de impugnación que se hubieren interpuesto; y
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-III. Cuando interpuesto un medio de impugnación sin que se hubiere resuelto, a la fecha de la toma de protesta constitucional del candidato electo.
-
-IV. (DEROGADA, P.O. 29 DE MAYO DE 2017)
-
-V. (DEROGADA, P.O. 29 DE MAYO DE 2017)
-
-VI. (DEROGADA, P.O. 29 DE MAYO DE 2017)
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 127.
-
-A más tardar tres meses antes del inicio del proceso electoral, el Instituto podrá convenir con el INE que se haga cargo de la organización de los procesos electorales locales. La celebración del convenio correspondiente deberá ser aprobada por cuando menos cinco de los miembros del Consejo.
-
-Las facultades de asunción o atracción que en su caso ejerza el INE sobre procesos electorales locales, se realizará en la forma y términos establecidos en el Capítulo I del Título Quinto del Libro Tercero de la LGIPE y en el Reglamento aplicable que expida el INE.
-
-### CAPÍTULO III. De las Elecciones Extraordinarias
-
-###### ARTÍCULO 128.
-
-Se convocará a elecciones extraordinarias en los términos y plazos que marca la Constitución y este Código, en los siguientes casos:
-
-I. Cuando quede la vacante de diputado propietario y suplente, en términos del artículo 26 de la Constitución;
-
-II. Cuando el Gobernador electo no se presente al comenzar un periodo constitucional o cuando exista falta absoluta del Gobernador ocurrida dentro de los dos primeros años del periodo constitucional, en términos de los artículos 42 y 44 de la Constitución, y
-
-III. Cuando se declare nula o empatada la elección ya sea de Gobernador, de diputados o de ayuntamientos por el órgano jurisdiccional electoral.
-
-En estos casos, la convocatoria para la elección extraordinaria deberá emitirla el Congreso del Estado, dentro de los cuarenta y cinco días siguientes a la resolución ejecutoria correspondiente. La convocatoria será publicada en el Periódico Oficial del Estado y en los diarios de mayor circulación de la Entidad.
-
-###### ARTÍCULO 129.
-
-La convocatoria para la celebración de elecciones extraordinarias, no podrá restringir los derechos que este Código otorga a los ciudadanos, a los partidos políticos y a los candidatos independientes, ni alterar los procedimientos y formalidades que establece.
-
-Las bases mínimas que debe establecer la convocatoria para elecciones extraordinarias son:
-
-I. Los plazos de inicio y término del proceso electoral extraordinario;
-
-II. Las fechas de registros de candidatos a los cargos de elección popular de que se trate;
-
-III. La duración de las campañas electorales;
-
-IV. La fecha de la celebración de la jornada electoral;
-
-V. La autorización del ejercicio del presupuesto para sufragar los gastos de su realización;
-
-VI. Los términos en que se podrán interponer los medios de impugnación previstos en este Código, y
-
-VII. Las facultades expresas del Consejo para el proceso electoral extraordinario correspondiente.
-
-## TÍTULO SEGUNDO. DEL PROCESO ELECTORAL
-
-### CAPÍTULO I. De los Actos Preparatorios a la Elección
-
-###### ARTÍCULO 130.
-
-El proceso electoral es el conjunto de actos ordenados por la Constitución y este Código, realizados por las autoridades electorales, partidos políticos, asociaciones políticas, candidatos independientes y los ciudadanos, que tiene por objeto la renovación periódica del Congreso del Estado, Gobernador y ayuntamientos.
-
-###### ARTÍCULO 131.
-
-El proceso electoral ordinario se inicia a más tardar la primera semana del mes de octubre del año previo al de la elección y concluye con el dictamen y declaración de validez de la elección de Gobernador del Estado, diputados y ayuntamientos. En todo caso, la conclusión será una vez que los órganos jurisdiccionales en materia electoral hayan resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
-
-Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
-
-I. Preparación de la elección;
-
-II. Jornada electoral, y
-
-III. Resultados y declaratorias de validez de las elecciones.
-
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo celebre durante la primera semana de octubre del año previo al de la elección y concluye al iniciarse la jornada electoral.
-
-La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de la casilla.
-
-La etapa de resultados y de declaratorias de validez de las elecciones se inicia con la remisión de los paquetes electorales, documentación y expedientes electorales a los consejos distritales y concluye con los cómputos y declaraciones que realicen los consejos, o las resoluciones que, en su caso, emita en última instancia el órgano jurisdiccional. El dictamen y declaratoria de validez de la elección y de Gobernador electo del Estado, se inicia al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de esta elección o cuando se tenga constancia de que no se presentó ninguno y concluye al aprobar el Tribunal, el dictamen que contenga el cómputo final y las declaraciones de validez de la elección de Gobernador.
-
-Atendiendo al principio de definitividad que rige en los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, el Secretario Ejecutivo o el Secretario Técnico, según corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
-
-### CAPÍTULO II. De los Procesos de Selección de Candidatos a Cargos de Elección Popular y las Precampañas Electorales
-
-###### ARTÍCULO 132.
-
-Los procesos internos para la selección de candidatos a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y los precandidatos a dichos cargos, de conformidad con lo establecido en este Código, en los Estatutos y Reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
-
-Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea o convención electoral, estatal, distrital o municipal.
-
-En caso de realización de la jornada comicial interna, ésta se desarrollará conforme a lo establecido en sus Estatutos y Reglamentos, y en apego a las siguientes reglas:
-
-I. Durante el proceso electoral en que se renueven el titular del Poder Ejecutivo, el Congreso del Estado y ayuntamientos, el registro interno de precandidatos se hará en la tercera semana de enero del año de la elección y las precampañas de los precandidatos que obtengan el registro interno del partido en cuestión darán inicio el primero de febrero del año de la elección;
-
-II. Durante el proceso electoral en que se renueven el Congreso del Estado y los ayuntamientos el registro interno de precandidatos se hará en la última semana de enero del año de la elección y las precampañas de los precandidatos que obtengan el registro interno del partido en cuestión darán inicio el diez de febrero del año de la elección, y
-
-III. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa o externa, ésta se realizará dentro de los términos y plazos establecidos para las precampañas.
-
-Las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
-
-###### ARTÍCULO 133.
-
-Los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas, ni tampoco lo podrán hacer después de obtener la candidatura del partido en cuestión y hasta el inicio de las campañas.
-
-Asimismo, no podrán contratar o adquirir propaganda o cualquier otra forma de promoción personal en radio y televisión.
-
-La violación a lo dispuesto en el párrafo anterior, se sancionará con la negativa de registro como precandidato o candidato, o en su caso, con la cancelación del registro respectivo.
-
-###### ARTÍCULO 134.
-
-Se entiende por precampaña electoral el conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido.
-
-Se entiende por actos de precampaña electoral las reuniones públicas, asambleas, marchas y en general aquellos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular.
-
-Se entiende por propaganda de precampaña el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el período establecido por este Código y el que señale la convocatoria respectiva, difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido.
-
-Precandidato es el ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a este Código y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
-
-Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición. De igual forma, no podrán participar dentro de los procedimientos de pre-registro de candidatos independientes quienes estén en el presente supuesto.
-
-Durante las precampañas está prohibido el otorgamiento de artículos promocionales utilitarios.
-
-###### ARTÍCULO 135.
-
-Los partidos políticos, conforme a sus Estatutos, deberán establecer el órgano interno responsable de la organización de los procesos de selección de sus candidatos y, en su caso, de las precampañas los cuales no podrán contravenir lo dispuesto en este Capítulo.
-
-Los precandidatos podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten, y en general los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular. Cada partido en caso de no contar con ello emitirá un Reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias.
-
-###### ARTÍCULO 136.
-
-Solamente los precandidatos debidamente registrados por el partido de que se trate podrán impugnar el resultado del proceso de selección de candidatos en que hayan participado.
-
-Los medios de impugnación que presenten los precandidatos en contra de los resultados de elecciones internas, o de la asamblea en que se hayan adoptado decisiones sobre candidaturas, se presentarán ante el órgano interno competente a más tardar dentro de los tres días siguientes a la emisión del resultado o a la conclusión de la asamblea; los cuales deberán quedar resueltos en definitiva a más tardar ocho días después de la fecha de realización de la consulta mediante voto directo, o de la asamblea en que se haya adoptado la decisión sobre candidaturas.
-
-Es facultad de cada partido político, a través del órgano establecido por sus estatutos, o por el Reglamento o convocatoria correspondiente, negar o cancelar el registro a los precandidatos que incurran en conductas contrarias a este Código o a las normas que rijan el proceso interno, así como confirmar o modificar sus resultados, o declarar la nulidad de todo el proceso interno de selección, aplicando en todo caso los principios legales y las normas establecidas en sus Estatutos o en los Reglamentos y convocatorias respectivas.
-
-###### ARTÍCULO 137.
-
-A más tardar en el mes de noviembre del año previo al de la elección, el Consejo determinará los topes de gasto de precampaña para cada precandidato de acuerdo al tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas anteriores, según la elección de que se trate.
-
-###### ARTÍCULO 138.
-
-El precandidato que rebase el tope de gastos de precampaña establecido por el Consejo será sancionado con la cancelación de su registro o, en su caso, con la pérdida de la candidatura que haya obtenido, para lo cual los partidos conservan el derecho de realizar las sustituciones que procedan.
-
-###### ARTÍCULO 139.
-
-Quedan comprendidos dentro de los topes de gasto de precampaña los siguientes conceptos:
-
-I. Gastos de propaganda: Los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados y otros similares;
-
-II. Gastos operativos de la campaña: Los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
-
-III. Gastos de propaganda en diarios, revistas y otros medios impresos: Los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendientes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán insertar la leyenda de que se trata de propaganda o inserción pagada, y
-
-IV. Gastos de producción de los mensajes para radio y televisión; Los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
-
-No se considerarán dentro de los topes de precampaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
-
-###### ARTÍCULO 140.
-
-A las precampañas y a los precandidatos se les aplicará, en lo conducente, las normas previstas en la LGPP, la LGIPE y este Código respecto de los actos de precampaña y propaganda electoral.
-
-El Consejo emitirá los Reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en este Código.
-
-### CAPÍTULO III. Del Procedimiento de Registro de Candidatos de los Partidos Políticos y Candidaturas Independientes
-
-###### ARTÍCULO 141.
-
-Para el registro de candidaturas de partidos políticos a todo cargo de elección popular, el partido político o coalición postulante, deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
-
-En el caso de los candidatos independientes, quienes aspiren a obtener una candidatura, también deberán obtener el registro de la plataforma electoral en los términos especificados en el Libro Sexto.
-
-Asimismo, los partidos políticos deberán acreditar que realizaron los procesos internos establecidos en sus estatutos, reglamentos y demás ordenamientos que hayan emitido, en caso de no acreditarlo, se les negará el registro a los que no hayan cumplido con este requisito.
-
-###### ARTÍCULO 142.
-
-Las Plataformas Política y Legislativa, deberán presentarse para su registro ante el Consejo, por elección en expediente separado, a más tardar el día quince del mes de diciembre del año anterior al de la elección a efecto de que este último, dentro de los diez días siguientes revise que no contravenga los derechos fundamentales y prerrogativas del ciudadano consagradas en la Constitución, de existir contravenciones, se requerirá para que éstas sean subsanadas dentro del plazo de cinco días.
-
-De no solventarse las observaciones se tendrán por no presentadas dichas plataformas.
-
-Para el caso de que un Partido Político y aspirantes a candidatura independiente no cumplan con esta obligación, el Consejo lo tendrá por no presentado y acreditado, y por lo tanto no podrá participar en el proceso electoral correspondiente.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2017)</small>
-
-#### SECCIÓN PRIMERA. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 143.
-
-Corresponde a los partidos políticos, candidaturas comunes y coaliciones el derecho de solicitar el registro de candidatos a cargos de elección popular, por conducto del presidente del Comité Directivo Estatal o su equivalente, de conformidad con sus estatutos; en el caso de las candidaturas comunes en los términos que establezca este Código; y en el caso de las coaliciones en los términos del convenio de coalición; Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán solicitarlo por su propio derecho.
-
-Los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes que presenten ante el Consejo sus solicitudes de registro de candidatos, para las elecciones a diputados por el principio de mayoría relativa y Ayuntamiento por ambos principios, deberán cumplir con lo siguiente:
-
-I. PARIDAD EN LAS FÓRMULAS.
-
-a) La postulación por parte de los partidos políticos, candidatos independientes, candidaturas comunes y coaliciones en lo individual a cada partido político que las integre, de los candidatos al cargo de diputados por el principio de mayoría relativa, se realizará por fórmulas, y estas deberán integrarse de manera que el propietario y suplente sean del mismo género;
-
-b) Las fórmulas que se postulen tanto por partidos políticos, como candidaturas comunes, coaliciones en lo individual a cada partido político que las integre y candidatos independientes, para integrar las planillas a Ayuntamiento, por ambos principios, deberán formularse con ciudadanos del mismo género;
-
-II. PARIDAD HORIZONTAL.
-
-a) Para la postulación por parte de los partidos políticos, candidaturas comunes y coaliciones en lo individual a cada partido político que las integre, de los candidatos a los cargos de diputados por el principio de mayoría relativa, se deberá garantizar que al menos el cincuenta por ciento de las mismas, o bien, el porcentaje más cercano al cincuenta por ciento de las candidaturas postuladas, en caso de ser impar el número de postulaciones, sean del mismo género;
-
-b) Para la postulación por parte de los partidos políticos, candidaturas comunes y coaliciones en lo individual a cada partido político que las integre, de planillas a Ayuntamiento por el principio de mayoría relativa, se deberá garantizar que al menos el cincuenta por ciento de las postuladas, o bien, el porcentaje más cercano al cincuenta por ciento de las mismas, en caso de ser impar el número de postulaciones, sean del mismo género;
-
-III. PARIDAD VERTICAL.
-
-a) La integración de las planillas a Ayuntamiento por el principio de mayoría relativa, que postulen los partidos políticos, coaliciones en lo individual a cada partido político que las integre, y candidatos independientes, deberá hacerse de forma alternada entre los géneros; así pues, se deberá listar al principio de la planilla la fórmula de ciudadanos que ocuparán el cargo de Presidente Municipal, posteriormente podrán listar el número de fórmulas para ocupar el cargo de Regidores necesarios para la misma, y al final la fórmula o fórmulas que ocuparán el cargo de Síndico o Síndicos, o bien, después de la fórmula postulada al cargo de Presidente Municipal, se podrá listar la fórmula o fórmulas que ocuparán el cargo de Síndico o Síndicos (según lo decida cada Partido Político) y posteriormente el número de fórmulas para ocupar el cargo de Regidores necesarios. Lo anterior en la inteligencia de que, si la fórmula postulada al cargo de Presidente Municipal es del género femenino, la fórmula siguiente que se postule, ya sea de Síndico o de Primer Regidor, deberá ser del género masculino, y así se alternarán sucesivamente hasta agotar la planilla respectiva;
-
-VI (SIC). PARIDAD VERTICAL EN LISTAS DE REGIDORES DE REPRESENTACIÓN PROPORCIONAL.
-
-a) La conformación que hagan los partidos políticos y candidatos independientes, de cada una de las listas de Regidores por el principio de representación proporcional debe atender al principio de alternancia, esto es, si se postula al primer lugar de la lista de Regidores a Ayuntamiento por el principio de representación proporcional una fórmula del género masculino, la siguiente fórmula deberá corresponder al género femenino, y así se alternaran sucesivamente hasta agotar el número de lugares posibles en la lista; y
-
-VII. SESGO.
-
-a) Los partidos políticos y coaliciones deben observar en su postulación la obligación de no destinar exclusivamente un solo género en aquellos tres distritos o dos municipios en los que tuvieron los porcentajes de votación más bajos en el Proceso Electoral Local ordinario inmediato anterior. En el caso de las coaliciones, se tomarán los porcentajes que obtuvo cada partido político o en caso de haber ido también en coalición, a la asignación del convenio respectivo.
-
-b) El Consejero Presidente una vez remitida y notificada la última solicitud de registro de candidatos de los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes, por los Consejos Distritales y Municipales, realizará la revisión y calificación final respecto del cumplimiento de las reglas de paridad de género contenidas en este artículo, y en caso de incumplimiento podrá requerir a los partidos políticos, coaliciones y candidatos independientes para que en el término de cuarenta y ocho horas subsanen las deficiencias que al respecto se adviertan.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-ARTÍCULO 143 A.- De no subsanarse las omisiones respecto de la observancia de las reglas de paridad de género por parte de los partidos políticos, coaliciones o candidatos independientes, se aplicará el siguiente procedimiento para garantizarla:
-
-I. En el caso de las candidaturas de mayoría relativa, se les negará el registro, a las fórmulas registradas por el partido político o coalición, en orden ascendiente partiendo desde aquella que haya obtenido el porcentaje de votación más bajo en el Proceso Electoral Local ordinario inmediato anterior, hasta satisfacer el requisito de paridad entre los géneros, y observando siempre el sesgo de cada Partido Político; y
-
-II. Para el caso de las candidaturas de representación proporcional o por planilla, se estará a lo siguiente:
-
-a) Si de la lista o planilla se desprende que numéricamente cumple con el requisito de paridad, pero las fórmulas no se encuentran alternadas, se tomará como base para el orden de la lista o planilla el género de los integrantes de la primera fórmula y se procederá a ubicar en el segundo lugar de la misma a la fórmula inmediata, de género distinto al de la primera, que se encuentren en la lista o planilla, recorriendo los lugares sucesivamente en forma alternada entre los géneros hasta cumplir con el requisito; y
-
-b) Si numéricamente, la lista de representación proporcional no se ajusta al requisito de paridad, se suprimirán de la respectiva lista las fórmulas necesarias hasta ajustarse a la paridad de género, iniciando con los registros ubicados en los últimos lugares de cada una de las listas, constatando la alternancia de las fórmulas de distinto género para lo cual, en su caso, se seguirá el procedimiento establecido en el inciso anterior.
-
-Tanto en el caso de mayoría relativa como de representación proporcional, la negativa del registro de candidaturas se realizará respecto de la fórmula completa, es decir, propietario y suplente.
-
-Las listas de candidatos a diputados y ayuntamientos por ambos principios, deberán especificar cuáles integrantes de las listas están optando por reelegirse en sus cargos y el número de veces que han ocupado el mismo cargo de manera consecutiva, con independencia de los principios por los que hayan sido electos.
-
-###### ARTÍCULO 144.
-
-La solicitud del registro de candidaturas se hará:
-
-I. Durante el proceso electoral en que se renueven el titular del Poder Ejecutivo, el Congreso del Estado y ayuntamientos, se hará del día dieciocho al veinticuatro de marzo del año de la elección, y
-
-II. Durante el proceso electoral en que se renueven solamente el Congreso del Estado y ayuntamientos, se hará del día cinco al once de abril del año de la elección.
-
-###### ARTÍCULO 145.
-
-La solicitud de registro de candidatos de los partidos políticos será presentada ante:
-
-I. El Consejo: La de Gobernador, la lista de diputados por el principio de representación proporcional y las planillas de candidatos a miembros de ayuntamientos de mayoría y de representación proporcional, y
-
-II. El Consejo Distrital respectivo: La de diputados por el principio de mayoría relativa, o ante el Consejo en forma supletoria.
-
-###### ARTÍCULO 146.
-
-Los consejos distritales comunicarán al Consejo, la solicitud del registro de candidatos dentro de las cuarenta y ocho horas siguientes a la fecha en que se lleve a cabo.
-
-###### ARTÍCULO 147.
-
-La solicitud de registro de candidato de los partidos políticos deberá contener:
-
-I. Nombre y apellidos del candidato;
-
-II. Edad, lugar de nacimiento, domicilio y ocupación;
-
-III. Cargo para el que se le postula;
-
-IV. Denominación, color o colores del partido o coalición que lo postulan;
-
-V. Copia de la credencial para votar con fotografía;
-
-VI. Declaratoria bajo protesta de decir verdad, de no ser ministro de ningún culto religioso, ni encontrarse en alguno de los supuestos a que se refiere el artículo 9º de este Código;
-
-VII. Para efectos de los artículos 18 y 72 de la Constitución, los que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites constitucionales, y
-
-VIII. Copia certificada de la documentación que acredite que el proceso de selección interno se realizó en términos de la normatividad interna del partido en que fue electo.
-
-Tratándose de reelección, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-La solicitud deberá acompañarse de copia certificada del acta de nacimiento; de constancia de residencia y declaración de aceptación de candidatura.
-
-###### ARTÍCULO 148.
-
-Las candidaturas de los partidos políticos para los ayuntamientos serán registradas por planillas de propietarios y suplentes; las de diputados por el principio de mayoría relativa y por representación proporcional, por fórmulas de candidatos, compuestas, cada una, por un candidato propietario y un candidato suplente.
-
-###### ARTÍCULO 149.
-
-El Consejo podrá registrar candidatos a diputados por el principio de representación proporcional de los partidos políticos siempre y cuando hubieren registrado candidatos a diputados por el principio de mayoría relativa, en por lo menos catorce distritos electorales uninominales.
-
-###### ARTÍCULO 150.
-
-La lista estatal de candidatos a diputados de representación proporcional que los partidos presenten deberá integrarse de la siguiente manera:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-I. El partido político hará seis designaciones, tres fórmulas del género femenino y tres fórmulas del género masculino, debiendo respetar el principio de alternancia. Así pues, según elija el Partido Político, de manera libre e independiente en el proceso electoral de que se trate en los lugares primero, quinto y octavo la fórmula designada deberá ser del mismo género; y en los lugares cuarto, séptimo y noveno deberá designarse fórmula del mismo género, pero opuesto del que se designó en los lugares primero, quinto y octavo.
-
-II. El segundo, tercero y sexto sitio de la lista se reservará para las fórmulas de candidatos de los partidos políticos que no obtuvieron el triunfo por el principio de mayoría relativa, asignándolos en orden decreciente, a las que hubieren obtenido los más altos porcentajes de votación en su distrito electoral.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-La autoridad electoral deberá respetar en todo caso la paridad de género y el principio de alternancia con la finalidad de que ningún género quede subrepresentado o sobre representado.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-La lista de candidatos a diputados por el principio de representación proporcional, deberán especificar cuáles integrantes de las listas están optando por reelegirse al cargo y el número de veces que han ocupado el mismo cargo de manera consecutiva, con independencia de los principios por los que hayan sido electos.
-
-Si algún partido no presenta para su registro la lista estatal de candidatos a diputados por el principio de representación proporcional, en los términos señalados por los párrafos anteriores, perderá su derecho a participar en la elección de diputados por este principio.
-
-###### ARTÍCULO 151.
-
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular por el principio de mayoría relativa, en el mismo proceso electoral; así como al ciudadano que obteniendo la candidatura en cuestión hubiese contravenido lo dispuesto por este Código.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Tampoco se registrará como candidato a cualquier cargo de elección popular tanto de mayoría relativa como de representación proporcional, a quienes, dentro de un proceso de selección interna de candidatos a cargos de elección popular, participe como precandidato en un partido diferente al que lo postula, salvo el caso de las coaliciones o candidaturas comunes.
-
-###### ARTÍCULO 152.
-
-Los partidos políticos podrán registrar simultáneamente en el mismo proceso electoral candidatos a diputados por mayoría relativa y por representación proporcional, sin que exceda de cinco el número de candidatos registrados por ambos principios.
-
-###### ARTÍCULO 153.
-
-Para el registro de candidatos de coalición según corresponda, deberá acreditarse que se cumplió con lo dispuesto en la LGPP y en la LGIPE.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 154.
-
-Recibida una solicitud de registro de candidaturas de los partidos políticos o candidatos independientes por el presidente o el secretario del consejo que corresponda, se verificará dentro de los siete días siguientes que se cumplió con los requisitos constitucionales y legales.
-
-Sí de la verificación señalada, se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político o coalición correspondiente para que dentro de las cuarenta y ocho horas siguientes, subsane el o los requisitos omitidos, o sustituya la candidatura, siempre y cuando esto pueda realizarse dentro de los plazos que establece el artículo 144 de este Código.
-
-Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 144 de este Código será desechada de plano y por lo tanto se tendrá por no registrada la candidatura o candidaturas; y tendrá los mismos efectos para el caso de que las solicitudes y documentación presentada no cumplan los requisitos que establece este Código.
-
-Dentro de los tres días siguientes al término del plazo a que se refiere el artículo 144 de este Código, el Consejo y los consejos distritales celebrarán una sesión cuyo único objeto será analizar, y en su caso aprobar el registro de las candidaturas de los partidos políticos que procedan.
-
-Los consejos distritales comunicarán dentro de las veinticuatro horas siguientes al Consejo el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
-
-De igual manera, el Consejo comunicará a los consejos distritales las determinaciones que haya tomado sobre el registro de las listas de candidatos de los partidos políticos a diputados por el principio de representación proporcional.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 155.
-
-Los partidos políticos, coaliciones y candidaturas comunes podrán sustituir a los candidatos registrados de acuerdo con las disposiciones siguientes:
-
-I. Solicitarlo por escrito ante el Consejo o consejos distritales correspondientes;
-
-II. Podrán sustituirlos libremente dentro del plazo a que se refiere el artículo 144 de este Código;
-
-III. Vencido el plazo a que se refiere el artículo 144 sólo podrán sustituirlo por fallecimiento, inhabilitación, incapacidad, expulsión del partido que lo postula, renuncia o ubicarse en alguno de los supuestos establecidos en el artículo 10 de este Código; en caso de renuncia no podrá sustituirlos cuando la renuncia se presente dentro de los quince días anteriores al de la elección. Para la corrección o sustitución de boletas electorales se estará a lo dispuesto por la LGIPE y este Código, y
-
-IV. En los casos que la renuncia o negativa del candidato fuere notificada por el mismo Consejo, éste lo hará del conocimiento del partido político o coalición de que se trate a efecto de que proceda a sustituirlo.
-
-###### ARTÍCULO 156.
-
-El Consejo enviará para su publicación en el Periódico Oficial del Estado la relación completa de candidatos registrados dentro de los tres días siguientes al de la sesión en que fueron aprobados los registros.
-
-Las cancelaciones de registro o sustitución de candidatos, se mandarán publicar en el Periódico Oficial del Estado dentro de los tres días siguientes en que se produzcan.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2017)</small>
-
-#### SECCIÓN SEGUNDA. De la Reelección Consecutiva
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-ARTÍCULO 156 A.- Son sujetos de reelección consecutiva los servidores públicos de elección popular propietarios o suplentes que hayan ocupado el cargo.
-
-Se entenderá que los servidores públicos de elección popular suplentes, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo.
-
-Quien hubiese sido reelecto de manera consecutiva como diputado, presidente municipal, regidor o síndico, con el carácter de propietario, no podrá ser reelecto para el siguiente período con el carácter de suplente del mismo cargo de elección popular.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-ARTÍCULO 156 B.- El término para separarse del cargo de los diputados, presidentes municipales, regidores, o síndicos, ya sea como propietario o suplente en funciones, que aspiren a reelección consecutiva, deberán separarse de los mismos, noventa días antes de la elección salvo que la Constitución y este Código establezcan otro término.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
-
-ARTICULO 156 C.- Los servidores públicos que participen en los procesos de reelección consecutiva no podrán hacer uso de los recursos institucionales de los que dispongan por el ejercicio de sus funciones, para promoverse con fines electorales.
-
-## TÍTULO TERCERO. DE LOS CONSEJOS MUNICIPALES
-
-## TÍTULO CUARTO. DE LA OFICIALÍA ELECTORAL
-
-### CAPÍTULO IV. De las Campañas Electorales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 157.
-
-La campaña electoral, para los efectos de este Código, es el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones, candidaturas comunes y los candidatos registrados para la obtención del voto.
-
-Para los efectos de este Código se entiende por:
-
-I. Actos de campaña: Las reuniones públicas, asambleas, marchas y en general aquellos en que los candidatos o voceros de los partidos políticos o de los candidatos independientes se dirigen al electorado para promover sus candidaturas, y
-
-II. Propaganda electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas.
-
-Tanto la propaganda electoral como las actividades de campaña a que se refiere el presente artículo, deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijados por los partidos políticos en sus documentos básicos y por los candidatos independientes en sus plataformas electorales, que para la elección en cuestión hubieren registrado.
-
-###### ARTÍCULO 158.
-
-Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la CPEUM, el informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, se sujetarán a lo previsto por el artículo 242, párrafo 5 de la LGIPE.
-
-Asimismo, durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios y cualquier otro ente público. Se exceptúan las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 159.
-
-Los gastos que realicen los partidos políticos, las coaliciones, las candidaturas comunes y los candidatos registrados, en la propaganda electoral y las actividades de campaña, no podrán rebasar los topes que para cada elección acuerde el Consejo.
-
-Para los efectos de este artículo quedarán comprendidos dentro de los topes de gasto los siguientes conceptos:
-
-I. Gastos de propaganda: Los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
-
-II. Gastos operativos de la campaña: Los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
-
-III. Gastos de propaganda en diarios, revistas y otros medios impresos: Los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendentes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con una leyenda de que se trata de propaganda o inserción pagada, y
-
-IV. Gastos de producción de los mensajes para radio y televisión: Los realizados para el pago de servicios profesionales, uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo.
-
-No se considerarán dentro de los topes de campaña los gastos que realicen los partidos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 160.
-
-La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos y los candidatos independientes se ajustarán a lo dispuesto por el primer párrafo del artículo 6º de la CPEUM.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones y los candidatos, deberán abstenerse de expresiones que calumnien a las personas y/o que constituyan violencia política de género.
-
-Los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6º de la CPEUM respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley de Imprenta y de las disposiciones civiles y penales aplicables.
-
-El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la ley de la materia.
-
-###### ARTÍCULO 161.
-
-La duración de las campañas no deberá exceder de:
-
-I. Sesenta días para las elecciones de Gobernador;
-
-II. Cuarenta y cinco días para las elecciones de diputados locales, y
-
-III. De treinta a sesenta días para las elecciones de ayuntamientos, en términos de las siguientes reglas:
-
-a) Para el Ayuntamiento de Aguascalientes Capital, será de sesenta días únicamente cuando se verifique simultáneamente la elección de Gobernador, y de cuarenta y cinco días cuando sólo se verifique la elección de diputados locales;
-
-b) Para los ayuntamientos del interior, será de treinta días para ayuntamientos con menos de cuarenta mil habitantes, tomándose como base el último Censo General de Población levantado por el Instituto Nacional de Estadística y Geografía, actualizado según el caso, y
-
-c) Para los ayuntamientos del interior, será de cuarenta y cinco días tratándose de ayuntamientos con cuarenta mil habitantes o más, tomándose como base el último Censo General de Población levantado por el Instituto Nacional de Estadística y Geografía, actualizado según el caso.
-
-Las campañas electorales se iniciarán el día que el Consejo señale, pero en todo caso deberán concluir tres días antes de celebrarse la jornada electoral.
-
-El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Las reuniones públicas realizadas por los partidos políticos, coaliciones, candidaturas comunes, asociaciones políticas y los candidatos registrados se regirán por lo dispuesto en el artículo 9° de la CPEUM y no tendrán más límite que el respeto a los derechos de terceros, en particular los de otros partidos, coaliciones y candidatos, así como las disposiciones que para el ejercicio de la garantía de reunión y la preservación del orden público dicte la autoridad administrativa competente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-En aquellos casos en los que las autoridades concedan gratuitamente a los partidos políticos, coaliciones, candidaturas comunes o candidatos el uso de locales cerrados de propiedad pública, deberán estarse a lo siguiente:
-
-I. Las autoridades federales, estatales y municipales deberán dar un trato equitativo en el uso de los locales públicos a todos los partidos políticos y candidatos independientes que participan en la elección, y
-
-II. Los partidos políticos y los candidatos independientes deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre del ciudadano autorizado por el partido político, coalición o el candidato en cuestión que se responsabilice del buen uso del local y sus instalaciones.
-
-El Consejero Presidente podrá solicitar a las autoridades competentes los medios de seguridad personal para los candidatos que lo requieran, a partir de que se apruebe su registro.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Los partidos políticos, coaliciones, candidaturas comunes o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán hacer del conocimiento de la autoridad competente su itinerario a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
-
-###### ARTÍCULO 162.
-
-La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener, en todo caso, una identificación precisa del partido político o coalición que ha registrado al candidato.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-La propaganda que durante una campaña difundan por medios gráficos los partidos políticos, coaliciones, candidaturas comunes y candidatos, no tendrán más límite, que lo establecido por el artículo 7º de la CPEUM, así como el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
-
-La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el artículo 6º de la CPEUM.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-En la propaganda política o electoral que realicen los partidos políticos, las coaliciones, las candidaturas comunes y los candidatos, deberán abstenerse de expresiones que calumnien a las personas o que constituyan violencia política de género. En el caso de los mensajes en radio o televisión contrarios a esta norma, el Consejo realizará la denuncia respectiva ante el INE en términos de lo dispuesto por el artículo 471, párrafo 1 de la LGIPE y del apartado D de la base III del artículo 41 de la CPEUM.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-La propaganda que los partidos políticos, coaliciones, candidaturas comunes y candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por los párrafos anteriores, así como a las disposiciones administrativas expedidas en materia de prevención de la contaminación por ruido.
-
-Al interior y al exterior de las oficinas, edificios y locales ocupados por la administración y los poderes públicos no podrá fijarse ni distribuirse propaganda electoral de ningún tipo.
-
-No podrá colocarse propaganda en el primer cuadro de las cabeceras municipales, circunscripción que determinarán los ayuntamientos a más tardar el veinte de enero del año de la elección, acuerdo que deberán comunicar de inmediato al Consejo. El Consejero Presidente a más tardar la última semana de enero del año de la elección, comunicará a los ayuntamientos los términos de esta disposición para los efectos conducentes.
-
-Está estrictamente prohibido a los partidos, candidatos, sus equipos de campaña o persona alguna, la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con la LGIPE y este Código y se presumirá como indicio de presión al elector para obtener su voto.
-
-###### ARTÍCULO 163.
-
-En la colocación o fijación de propaganda electoral, los partidos y candidatos actuarán conforme a las reglas siguientes:
-
-I. No podrá colgarse en elementos del equipamiento urbano, ni obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma;
-
-II. En inmuebles de propiedad privada, siempre que medie permiso escrito del propietario;
-
-III. En lugares de uso común que determine el Consejo, previo acuerdo con las autoridades correspondientes. Los bastidores y mamparas de uso común serán repartidos por sorteo en forma equitativa de conformidad a lo que corresponda a los partidos políticos registrados, conforme al procedimiento acordado en la sesión del Consejo que celebre en enero del año de la elección;
-
-IV. No podrá fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
-
-V. No podrá colgarse, fijarse o pintarse en monumentos ni en edificios públicos;
-
-VI. No podrán emplearse expresiones verbales o escritas contrarias a la moral, que inciten al desorden o que calumnien a las personas;
-
-VII. Cada partido político, coaliciones y candidatos deberán cuidar que su propaganda no modifique el paisaje ni perjudique a los elementos que forman el entorno natural. En consecuencia, se abstendrán de utilizar con estos fines, árboles y accidentes orográficos tales como: Cerros, colinas, barrancas y montañas para promocionarse, y
-
-VIII. El Consejo Distrital hará una revisión en las secciones electorales y ordenará al personal del Instituto quitar o eliminar dentro de los tres días anteriores a la elección, la propaganda electoral de los candidatos, partidos políticos que se encuentren a una distancia menor de cincuenta metros del lugar donde se instalará la casilla electoral.
-
-Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
-
-La propaganda que contravenga las disposiciones de este Código, será retirada de inmediato y el costo generado será cargado a las prerrogativas del partido político o del candidato independiente en su caso.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Los partidos políticos, coaliciones, candidaturas comunes y candidatos independientes deberán retirar, para su reciclaje, su propaganda electoral dentro de los treinta días siguientes al de la jornada electoral de no retirarla, el Consejo con el auxilio de las autoridades competentes tomará las medidas necesarias para su retiro, con cargo a las ministraciones de financiamiento público que correspondan al partido político.
-
-Los candidatos independientes que incurran en la falta señalada en el párrafo anterior se harán acreedores de una multa en los términos previstos en el presente Código.
-
-Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Secretario Ejecutivo o al Secretario Técnico respectivo, a fin de que se verifiquen los hechos, se integre el expediente y se remita al Tribunal para su resolución.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 164.
-
-Los organismos electorales, dentro del ámbito de su competencia, velarán por la observancia de estas disposiciones y adoptarán las medidas a que hubiere lugar, con el fin de asegurar a partidos políticos, coaliciones, candidaturas comunes y candidatos el pleno ejercicio de sus derechos en la materia.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 165.
-
-Los partidos políticos, coaliciones, candidaturas comunes y candidatos que rebasen los topes de gastos de campaña se harán acreedores a las sanciones establecidas por este Código.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 166.
-
-Para la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, en el período comprendido desde el inicio del proceso electoral y hasta dos horas después del cierre oficial de las casillas el día de la elección, se estará a lo dispuesto por el Reglamento aplicable que expida el INE en términos de lo establecido por el inciso a) del Apartado B de la Base V del artículo 41 de la CPEUM y en el Capítulo III del Título Primero del Libro Quinto de la LGIPE.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 167.
-
-El Instituto organizará dos debates obligatorios entre todos los candidatos a Gobernador, los cuales serán transmitidos por las estaciones de radio y televisión en términos de lo dispuesto por el artículo 41 de la CPEUM y la LGIPE y el Reglamento aplicable que expida el INE.
-
-Asimismo, el Instituto promoverá la celebración de debates de candidatos a diputados locales y de candidatos a presidentes municipales.
-
-Tratándose de debates organizados por medios de comunicación, éstos deberán convocar fehacientemente a todos los candidatos de la elección de que se trate.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-La organización de debates por los medios de comunicación; y demás aspectos relacionados con el acceso a radio y televisión para la transmisión de debates organizados por el Instituto, se regirá por lo dispuesto en el artículo 218 y demás preceptos aplicables de la LGIPE y del Reglamento aplicable que expida el INE.
-
-###### ARTÍCULO 168.
-
-El Programa de Resultados Electorales Preliminares es el mecanismo de información electoral encargado de proveer los resultados preliminares y no definitivos, de carácter estrictamente informativo a través de la captura, digitalización y publicación de los datos asentados en las Actas de Escrutinio y Cómputo de las casillas, el cual se sujetará a las reglas, lineamientos y criterios que para efecto emita el INE, de conformidad a lo establecido en el artículo 41, Base V, Apartado B inciso a) de la CPEUM y en el artículo 219 de la LGIPE.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
-
-Su objetivo será el de informar oportunamente bajo los principios de seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los partidos políticos, coaliciones, candidaturas comunes, candidatos, medios de comunicación y a la ciudadanía.
-
-###### ARTÍCULO 169.
-
-El Consejo determinará la viabilidad de realizar conteos rápidos, en términos de lo dispuesto por el artículo 220 de la LGIPE y los criterios que establezca el INE.
-
-###### ARTÍCULO 170.
-
-Cualquier infracción a las disposiciones contenidas en el presente Capítulo será sancionada en los términos de este Código y de la legislación penal aplicable.
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
 ## TÍTULO QUINTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-### CAPÍTULO V. De la Ubicación e Integración de Mesas Directivas de Casilla
+### CAPITULO I. De la revocación, apelación y reposición
 
-###### ARTÍCULO 171.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
-La integración y ubicación de Mesas Directivas de Casilla se hará de conformidad con lo previsto en el Capítulo V del Título Segundo del Libro Quinto de la LGIPE, así como en las disposiciones reglamentarias y acuerdos que emita el Consejo General.
+ARTICULO 506
+
+Los autos que no causen daño irreparable en la sentencia y los decretos pueden ser revocados por el Juez que los dicta, o por el que los substituya en el conocimiento del negocio.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+ARTICULO 507
+
+La revocación puede pedirse en el acto de la notificación o dentro de veinticuatro horas. Se resolverá de plano o en audiencia que tendrá lugar dentro de los tres días siguientes. Sólo podrán ofrecerse las pruebas que puedan rendirse en dicha audiencia.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+ARTICULO 508
+
+De los decretos y autos del Tribunal de Segunda Instancia puede pedirse la reposición, que se substanciará en la misma forma que la revocación.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
+
+ARTICULO 509
+
+El recurso de apelación tiene por efecto que el superior confirme, revoque o modifique la resolución del inferior. Son apelables las sentencias, los autos que resuelven un incidente y los autos que causan daño irreparable en la sentencia.
+
+ARTICULO 510
+
+Pueden apelar: el litigante, si creyere haber recibido algún agravio; los terceros que hayan salido al juicio y los demás interesados a quienes perjudique la resolución judicial.
+
+No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago de costas, si puede hacerlo.
+
+ARTICULO 511
+
+La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esa notificación. En este caso la adhesión al recurso sigue la suerte de éste.
+
+ARTICULO 512
+
+La apelación debe interponerse por escrito o verbalmente en el acto de notificarse, ante el juez que pronunció la resolución; cuando sea por escrito, dentro de tres días si se tratare de sentencia, o dentro de dos si fuere auto.
+
+ARTICULO 513
+
+El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez; de lo contrario, quedará sujeto a la corrección disciplinaria que proceda.
+
+ARTICULO 514
+
+Al interponerse la apelación se expresará el motivo que originó la inconformidad, los puntos que deben ser materia de la segunda instancia o los agravios que en concepto del apelante irrogue la resolución recurrida.
+
+Se aceptará como expresión de agravios la enumeración sencilla que haga la parte sobre los errores o violaciones del derecho que en su concepto haya cometido el juzgador.
+
+ARTICULO 515
+
+Interpuesta una apelación el juez la admitirá sin substanciación alguna, si fuere procedente, expresando si la admite en ambos efectos o en uno sólo.
+
+ARTICULO 516
+
+El recurso de apelación procede en un solo efecto y en ambos efectos. En el primer caso no se suspende la prosecución del juicio, y en el segundo, se suspende la ejecución de la sentencia, hasta que ésta cause ejecutoria, o la tramitación del juicio cuando se haya interpuesto contra un auto.
+
+Para la tramitación de la apelación que proceda sólo en el efecto devolutivo, se compulsará y remitirá al tribunal, dentro de tres días, testimonio de las constancias que señalen las partes.
+
+ARTICULO 517
+
+Se admitirán en ambos efectos las apelaciones que se interpongan:
+
+I.- De las sentencias;
+
+II.- De los autos que paralizan o ponen término al juicio, haciendo imposible su terminación;
+
+III.- De otras resoluciones que especifique la ley.
+
+ARTICULO 518
+
+Admitida la apelación en ambos efectos, el juez remitirá los autos originales desde luego, a la sala correspondiente del Tribunal Superior, dentro del tercer día, comunicándolo a las partes para que ocurran, si lo desearen, a dicho Tribunal; en el que no se les notificará la llegada de las actuaciones.
+
+ARTICULO 519
+
+En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la parte de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
+
+ARTICULO 520
+
+Llegados los autos o el testimonio en su caso al tribunal de segunda instancia, éste, de oficio y dentro del término de tres días, examinará la admisión del recurso y la calificación del grado hecha por el inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación, se procederá en su consecuencia como corresponda, para que a la mayor brevedad se cumplan las disposiciones de este Capítulo.
+
+ARTICULO 521
+
+Si se confirma la calificación y no hay motivo para desechar el recurso, se convocará a las partes a una audiencia para el octavo día de los siguientes a la declaración anterior. En esta audiencia se oirá el alegato de las partes y se pronunciarán los puntos decisorios de la resolución. El fallo será engrosado en el término de tres días y dentro de otros tres se devolverán los autos.
+
+Si las partes no concurrieren a la audiencia ni enviaren sus alegatos, la sentencia se pronunciará dentro de tres días.
+
+ARTICULO 522
+
+En la segunda instancia sólo se admitirán las pruebas que injustificadamente, a juicio del tribunal, fueren denegadas en la primera, y las que sean supervenientes.
+
+Para los casos anteriores, el término de prueba será el que medie entre la primera resolución del tribunal y la audiencia de alegatos.
+
+ARTICULO 523
+
+Se prohibe en la segunda instancia la práctica de diligencias y trámites inútiles, así como la de pasar los autos a estudio de vocales; éstos se enterarán de ellos sin necesidad de trámite especial alguno.
+
+Sólo en las causas en que se tuviere que examinar documentos voluminosos o las pruebas hubieren consistido exclusivamente en documentos, se dictará resolución dentro de los cinco días que sigan a la celebración de la audiencia, interrumpiéndola con tal objeto.
+
+ARTICULO 524
+
+La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, sobre nulidad de matrimonio por las causas expresadas en los artículos 115, 116 y 122 a 125 del Código Civil y sobre divorcio, para sólo el efecto que determina dicho Código, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+
+Las sentencias adversas a la Hacienda Pública no apeladas, serán revisables en los términos de este artículo.
 
 ## TÍTULO SEXTO. DE LAS DISPOSICIONES COMUNES PARA LAS AUTORIDADES ELECTORALES
 
-### CAPÍTULO VI. De los Representantes de los Partidos Políticos y de los Candidatos Independientes
+### CAPITULO II. De la queja
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 525
 
-###### ARTÍCULO 172.
+El recurso de queja tiene lugar:
 
-En términos de lo dispuesto por el artículo 259 de la LGIPE y el Reglamento aplicable que expida el INE, los candidatos independientes, así como los partidos políticos una vez registrados sus candidatos, fórmulas y listas, hasta trece días antes del día de la elección, tendrán derecho a nombrar:
+I.- Contra el juez que se niegue a admitir una demanda o desconoce de oficio la personalidad de un litigante;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+II.- Respecto de los autos dictados en ejecución de sentencia;
 
-I. Dos representantes propietarios y un suplente ante cada mesa directiva de casilla.
+III.- Contra la denegación de apelación;
 
-II. En cada uno de los distritos electorales uninominales, un representante general propietario y un suplente por cada diez casillas electorales ubicadas en zonas urbanas y un representante general propietario y un suplente por cada cinco casillas rurales.
+IV.- En los demás casos fijados por la ley.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 526
 
-El registro, derechos, nombramientos y regulación de la actuación de los representantes generales y de los representantes ante mesas directivas de casillas, se regirá en lo conducente, por lo dispuesto en el Capítulo VI del Título Segundo del Libro Quinto de la LGIPE y el Reglamento aplicable que expida el INE.
+Se da el recurso de queja en contra de los ejecutores o secretarios, por omisiones y negligencias en el desempeño de sus funciones.
 
-El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales, en el caso de elecciones para Gobernador, diputados y ayuntamientos, se podrá hacer en forma complementaria ante el correspondiente Consejo Distrital del Instituto, respetando en todo caso las disposiciones referidas en el párrafo anterior.
+ARTICULO 527
 
-### CAPÍTULO VII. De los Asistentes Electorales y Capacitadores
+El recurso de queja contra el juez se interpondrá ante el superior inmediato, dentro de las veinticuatro horas que sigan al acto reclamado, haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. Dentro del tercero día, a partir de aquel en que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior dentro del tercero día decidirá lo que corresponda.
 
-###### ARTÍCULO 173.
+ARTICULO 528
 
-Los asistentes electorales serán nombrados por el Consejo dentro de la última semana del mes de diciembre del año anterior al de la elección, su función será auxiliar a los organismos electorales en el desarrollo de sus atribuciones el día de la jornada electoral y en la circunscripción electoral para la cual sean designados por el Consejo, lo cual se hará dentro de la segunda semana del mes de enero del año de la elección; asimismo en los cómputos distritales y municipales en términos de lo establecido en este Código.
+Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa que no exceda de cincuenta pesos.
 
-Los capacitadores electorales serán nombrados por el Consejo en la última semana del mes de diciembre del año anterior al de la elección; su función será participar en la capacitación y adiestramiento de los consejeros distritales y municipales, así como en las funciones de capacitación electoral que en su caso delegue el INE al Instituto. Estarán adscritos a la Dirección de Capacitación y Organización Electoral.
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
-###### ARTÍCULO 174.
+TITULO DECIMOSEGUNDO BIS
 
-Los asistentes electorales y los capacitadores electorales, deberán reunir los siguientes requisitos:
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 1966)</small>
 
-I. Ser ciudadano mexicano con pleno ejercicio de sus derechos políticos y civiles;
+### CAPITULO UNICO. Del juicio de responsabilidad
 
-II. Estar inscrito en el Registro Federal de Electores, aparecer en la lista nominal y contar con credencial para votar con fotografía, vigente;
+ARTICULO 529
 
-III. Aprobar el examen de conocimientos en materia electoral que le aplique la Dirección de Capacitación y Organización Electoral;
+La responsabilidad civil en que puedan incurrir jueces y magistrados cuando en el desempeño de sus funciones infrinjan las leyes por negligencia o ignorancia inexcusables, solamente podrá exigirse a instancia de la parte perjudicada o de sus causahabientes, en juicio y ante el inmediato superior del que hubiere incurrido en ella.
 
-IV. Ser de reconocida honorabilidad y no encontrarse en alguno de los supuestos contenidos en el artículo 10 de este Código;
+ARTICULO 530
 
-V. No haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años anteriores a la designación;
+No podrá promoverse demanda de responsabilidad civil, mientras no quede terminado por sentencia o auto firme el pleito o causa en que se suponga causado el agravio.
 
-VI. No militar en ningún partido ni formar parte del equipo de campaña de candidato independiente registrado en el proceso del que se trate, y
+ARTICULO 531
 
-VII. Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
+Cuando la demanda se dirija contra un juez municipal, cualquiera que sea su cuantía, conocerá de ella el juez de primera instancia a que aquél corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para ante el Tribunal Superior.
 
-###### ARTÍCULO 175.
+ARTICULO 532
 
-Los asistentes electorales auxiliarán al Consejo, consejos distritales y municipales, en los trabajos de:
+Las salas del Tribunal Superior conocerán en primera y única instancia de las demandas de responsabilidad civil presentadas contra los jueces de primera instancia. Contra las sentencias que aquéllas dicten en estos casos, no procede recurso alguno.
 
-I. Recepción y distribución de la documentación y materiales electorales en los días previos a la jornada;
+ARTICULO 533
 
-II. Verificación de la instalación y clausura de las mesas directivas de casilla;
+El Tribunal Pleno conocerá de dichas demandas en primera y única instancia, cuando se entablen contra los magistrados.
 
-III. Información sobre los incidentes ocurridos durante la jornada electoral;
+ARTICULO 534
 
-IV. Apoyar a los funcionarios de casilla en el traslado de los paquetes electorales, y
+La demanda de responsabilidad debe entablarse dentro del año siguiente al día en que se hubiere dictado la sentencia o auto firme que puso término al pleito. Transcurrido este plazo, quedará prescrita la acción.
 
-V. Los que expresamente les confieran el Consejo, Consejo Distrital o Consejo Municipal respectivo, apegándose a lo dispuesto por la LGIPE y el presente Código.
+ARTICULO 535
 
-### CAPÍTULO VIII. De la Documentación y Material Electoral
+No podrá entablar el juicio de responsabilidad civil contra un funcionario judicial el que no haya utilizado a su tiempo los recursos legales ordinarios contra la sentencia, auto o resolución en que se suponga causado el agravio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 536
 
-###### ARTÍCULO 176.
+Toda demanda de responsabilidad civil deberá acompañarse con certificación o testimonio que contenga:
 
-La documentación y materiales electorales que se utilicen en las elecciones locales, se sujetarán a lo establecido en el Reglamento aplicable que expida el INE, y además tendrán las siguientes características:
+I.- La sentencia, auto o resolución en que se suponga causado el agravio;
 
-I. Deberán elaborarse utilizando materias primas que permitan ser recicladas, una vez que se proceda a su destrucción, y
+II.- Las actuaciones que, en concepto de la parte, conduzcan a demostrar la infracción de ley y que a su tiempo se entablaron los recursos o reclamaciones procedentes;
 
-II. En el caso de las boletas electorales deberán elaborarse utilizando los mecanismos de seguridad que apruebe el INE.
+III.- La sentencia o auto firme que haya puesto término al pleito o causa.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 537
 
-Para la emisión del voto, se imprimirán las boletas electorales en el número y de acuerdo al modelo que apruebe el Consejo, en términos del Reglamento aplicable que expida el INE y este Código.
+La sentencia que absuelva de la demanda de responsabilidad civil, condenará en costas al demandante y las impondrá a los demandados cuando en todo o en parte se acceda a la demanda.
 
-La salvaguarda y cuidado de las boletas electorales son considerados como un asunto de seguridad nacional.
+ARTICULO 538
 
-La destrucción de la documentación y materiales electorales deberá llevarse a cabo empleando métodos que protejan el medio ambiente.
+En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil alterará la sentencia firme que haya recaído en el pleito en que se hubiere ocasionado el agravio.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
+TITULO DECIMOTERCERO
 
-En la salvaguarda y cuidado de las boletas electorales, así como la destrucción de la documentación y materiales se estará a lo dispuesto en el Reglamento aplicable que expida el INE.
+DE LOS INCIDENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+### CAPITULO UNICO. ARTICULO 539
 
-###### ARTÍCULO 177.
+Todas las cuestiones que se promuevan en un juicio y tengan relación con el negocio principal, si su tramitación no está fijada por la ley, se regirá por los artículos siguientes. También se substanciará como incidente cualquiera intervención judicial que no amerite la tramitación de un juicio.
 
-Las boletas para la elección de Gobernador, diputados y de ayuntamientos, siempre que no se contravenga los lineamientos establecidos en el Reglamento aplicable que expida el INE, deberán contener lo siguiente:
+ARTICULO 540
 
-I. Distrito y Municipio que corresponda;
+Con la promoción que deberá venir acompañada de las pruebas pertinentes y de la copia de la misma, en su caso, se mandará correr traslado a la parte o partes contrarias para que formulen su contestación dentro de tres días.
 
-II. Cargo para el que se postula el candidato o candidatos;
+Desde el primer proveído, se citará a una audiencia que deberá verificarse a los ocho días de promovido el incidente.
 
-III. Color o colores y emblema de los partidos políticos que hubieran registrado candidatos, así como del o los candidatos independientes;
+ARTICULO 541
 
-IV. Nombre y apellidos del candidato o candidatos;
+En esa audiencia se practicarán las pruebas y se pronunciará la resolución que proceda.
 
-V. Un sólo espacio para cada fórmula de candidatos propietario y suplente postulados por un partido político y del candidato independiente en caso de diputados por mayoría relativa y de ayuntamientos;
+ARTICULO 542
 
-VI. Un sólo espacio para cada candidato en la elección de Gobernador;
+Si las partes no concurrieren a la audiencia, ni enviaren sus alegatos, la resolución será dictada, a más tardar, dentro de tres días.
 
-VII. Espacio en blanco para anotar los nombres de los candidatos no registrados;
+TITULO DECIMOCUARTO
 
-VIII. Las listas estatales de candidatos a diputados por representación proporcional, serán impresas al reverso de la boleta para la elección de diputados de mayoría relativa, y
+DE LOS CONCURSOS
 
-IX. Las firmas impresas del Presidente y Secretario Ejecutivo del Consejo y el sello de éste.
+### CAPITULO I. Reglas generales
 
-Los emblemas a color de los partidos políticos aparecerán en la boleta en el orden que les corresponde de acuerdo a la fecha de su registro.
+ARTICULO 543
 
-En el caso de que el registro a dos o más partidos políticos haya sido otorgado en la misma fecha, los emblemas de los partidos políticos aparecerán en la boleta en el orden descendente que les corresponda de acuerdo al porcentaje de votación obtenido en la última elección de diputados. En el caso de los candidatos independientes, el emblema o logotipo con el que se identifique aparecerá a color en el siguiente lugar en relación con el partido político de más reciente registro.
+El concurso de un deudor no comerciante puede ser voluntario o necesario:
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentando por escrito una solicitud acompañada de un estado de su activo y pasivo, con expresión del nombre y domicilio de sus deudores y acreedores y de las causas que hayan motivado su llegada al concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan ser embargados.
 
-En caso de existir coaliciones o candidaturas comunes, los emblemas de los partidos coaligados o con candidaturas comunes y los nombres de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquellos que se destinen en la boleta a los partidos que participan por sí mismos, así como de los candidatos independientes. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados o con candidaturas comunes en un mismo recuadro, ni utilizar emblemas distintos para la coalición o las candidaturas comunes.
+Es necesario, cuando dos o más acreedores de plazo cumplido han demandado y ejecutado ante uno mismo o diversos jueces a su deudor común y no hay bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
 
-Las boletas serán desprendibles de un talonario que contendrá folio con numeración consecutiva, código de barras, tipo de elección, cargo que se elige, municipio así como distrito electoral.
+Admitida la solicitud del deudor o tan pronto como los acreedores hayan justificado que aquél está comprendido dentro de lo dispuesto en el párrafo que antecede, el juez declarará formado el concurso.
 
-En todo caso, el número de boletas que se impriman, no debe exceder del cinco por ciento del número de electores que aparezcan en la lista nominal de cada casilla.
+ARTICULO 544
 
-Las boletas electorales serán elaboradas en los Talleres Gráficos del Estado, bajo las mejores condiciones de seguridad en cuanto a su inviolabilidad, no falsificación, protección y cuidado. Cuando el Consejo determine que los Talleres Gráficos del Estado no garanticen las mejores condiciones de seguridad, objetividad e imparcialidad, siempre que cuente con razones suficientemente comprobables, o que en éstos no sea posible su elaboración utilizando los mecanismos de seguridad que apruebe el INE, se podrán elaborar en la iniciativa privada de conformidad con lo que señale la Ley Patrimonial del Estado.
+Declarado el concurso el juez resolverá:
 
-###### ARTÍCULO 178.
+I.- Notificar personalmente al deudor la formación de su concurso necesario;
 
-No habrá modificación a las boletas en caso de cancelación del registro, o sustitución de uno o más candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen legalmente registrados ante el Consejo o consejos distritales correspondientes.
+II.- Hacer saber a los acreedores la formación del concurso mediante la lista de acuerdos y de edictos que se publicarán en la "Gaceta Oficial" y en otro periódico de información que designará el juez. Si hubiere acreedores en el lugar del juicio se les citará por correo o por telégrafo, si fuere necesario;
 
-###### ARTÍCULO 179.
+III.- Nombrar síndico provisional;
 
-Para cada mesa directiva de casilla habrá dos tipos de actas que tendrán código de barras: La de jornada electoral y la de escrutinio y cómputo. Serán impresas según el modelo que apruebe el Consejo. Deberán contener, siempre que no se contravenga los lineamientos establecidos por el INE, lo siguiente:
+IV.- Decretar, para que sean practicados en el mismo día, el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor. En esta diligencia serán selladas las puertas de los almacenes y del despacho del deudor y asegurados los muebles susceptibles de embargo que se hallen en el domicilio del mismo deudor;
 
-I. Acta de Jornada Electoral:
+V.- Hacer saber a los deudores la prohibición de hacer pagos o entregar efectos al concursado y la orden a éste de entregar los bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
 
-a) El lugar, la fecha y la hora en que se inicie el acto de instalación, municipio, distrito electoral así como el número de sección y el tipo de casilla;
+VI.- Señalar un término no menor de ocho días ni mayor de veinte, para que los acreedores presenten en el juzgado los títulos justificativos de sus créditos con copia para ser entregada al síndico;
 
-b) Los nombres de las personas que actúen como funcionarios y de los representantes de los partidos, acreditados en la casilla;
+VII.- Señalar día y hora para la junta de rectificación y graduación de créditos, la cual deberá celebrarse diez días después de que expire el plazo fijado en la fracción anterior. El día de esta junta y el nombre y domicilio del síndico se harán saber en los edictos a que se refiere la fracción II;
 
-c) El número de boletas recibidas para cada elección con sus respectivos números de folios;
+VIII.- Pedir a los jueces ante quienes se tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Se exceptúan los juicios relativos a hipotecas que estén pendientes o se promuevan después, los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley.
 
-d) Constancia de que las urnas se abrieron y armaron en presencia de los funcionarios, representantes y electores presentes, para comprobar que estaban vacías;
+ARTICULO 545
 
-e) En su caso, una breve relación de los incidentes suscitados durante la instalación y votación;
+El deudor puede oponerse al concurso necesario dentro del tercero día de su declaración. La oposición se substanciará por cuerda separada, sin suspender las medidas a que se refiere el artículo anterior y en forma incidental; la resolución de este incidente será apelable en el efecto devolutivo.
 
-f) El número de boletas no utilizadas para cada elección;
+Revocado el auto que declaró abierto el concurso deberán reponerse las cosas al estado que tenían antes. El síndico, en caso de haber realizado actos de administración, deberá rendir cuentas al interesado.
 
-g) La hora de cierre de la votación, y
+ARTICULO 546
 
-h) La hora en que se clausura la casilla.
+Los acreedores, aun los garantizados con privilegio, hipoteca o prenda, podrán pedir por cuerda separada que se revoque la declaración del concurso, aun cuando el concursado haya manifestado ya su estado o haya consentido el auto judicial respectivo.
 
-II. La de Escrutinio y Cómputo:
+ARTICULO 547
 
-a) El número de votos emitidos en favor de cada partido político o candidatos;
+El concursado que hubiere hecho cesión de bienes no podrá pedir la revocación de la declaración respectiva, a no ser que alegue y acredite algún error en la apreciación de sus negocios.
 
-b) El número de votos nulos, y
+En este caso y en el previsto en el artículo anterior, la revocación se tramitará como lo previene el artículo 545.
 
-c) Los datos de identificación de la casilla.
+ARTICULO 548
 
-###### ARTÍCULO 180.
+El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas; si no lo presentare lo hará el síndico.
 
-Las actas que deban ser levantadas por la mesa directiva de casilla, deberán ser firmadas sin excepción, por todos los funcionarios, los representantes de los partidos políticos y los representantes de los candidatos independientes, estos dos últimos, tendrán el derecho de firmar el acta respectiva bajo protesta, señalando los motivos de la misma.
+### CAPITULO II. De la rectificación y graduación de créditos
 
-###### ARTÍCULO 181.
+ARTICULO 549
 
-Las boletas deberán obrar en poder de los consejos distritales electorales, diez días antes de la elección y serán selladas al reverso.
+Todo acreedor podrá hasta tres días antes de la fecha designada para la reunión de la junta, presentarse por escrito, observando todos o alguno de los créditos reconocidos por el deudor o denunciando cualquier acto culpable o fraudulento del mismo, ofreciendo con precisión las pruebas de su dicho. Todo acreedor que no haya sido incluído en el estado presentado por el deudor, podrá presentarse al juzgado dentro del término fijado en la fracción VI del artículo 544 expresando el monto, origen y naturaleza de su crédito y acompañando, en su caso, la prueba de sus afirmaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+Los acreedores pueden examinar los papeles y documentos del concursado en la secretaría, antes de la rectificación de créditos.
 
-###### ARTÍCULO 182.
+ARTICULO 550
 
-Para el control de las boletas electorales además de lo establecido en el Reglamento aplicable que expida el INE, se tomarán las medidas siguientes:
+La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos, previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo y de los documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le haya corrido traslado.
 
-I. El personal autorizado del Instituto entregará las boletas en el día, hora y lugar preestablecidos, al Consejero Presidente Distrital quien estará acompañado de los demás integrantes del propio Consejo Distrital;
+En el informe deberá también clasificar los créditos de acuerdo con sus privilegios, según el Código Civil.
 
-II. El Secretario Técnico del Consejo Distrital levantará acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de boletas, las características del embalaje que las contiene así como los nombres y cargos de los funcionarios presentes;
+ARTICULO 551
 
-III. A continuación, los miembros presentes del Consejo Distrital acompañarán al Presidente para depositar la documentación recibida, en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele, además, una multa de cincuenta pesos.
 
-IV. El mismo día o a más tardar el siguiente, el Consejero Presidente, el Secretario Técnico y los consejeros electorales del Consejo Distrital, procederán a contar las boletas para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar. El Secretario Técnico registrará los datos de esta distribución, y
+ARTICULO 552
 
-V. Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos y de los candidatos independientes que decidan asistir.
+El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta, siempre que dentro del término fijado en la fracción VI del artículo 544 haya presentado al juzgado los justificantes del mismo.
 
-Los representantes de los partidos y de los candidatos independientes bajo su más estricta responsabilidad, si lo desearen y siempre y cuando lo soliciten al inicio de los trabajos de entrega-recepción, podrán firmar las boletas, levantándose un acta en la que conste el número de boletas que se les dio a firmar, el número de las firmadas y, en su caso, el número de boletas faltantes después de haber realizado el procedimiento de firma. En este último caso se dará aviso de inmediato a la autoridad competente.
+El concursado podrá asistir, por sí o por apoderado, a toda junta que se celebre, debiendo siempre notificársele por correo.
 
-La falta de firma de los representantes en las boletas no impedirá su oportuna distribución.
+ARTICULO 553
 
-###### ARTÍCULO 183.
+Los acreedores podrán hacerse representar por apoderado o procurador, siendo bastante también el poder ordinario de administración. Las mayorías se computarán por capital; pero quien represente a más de un acreedor sólo podrán tener cinco votos como máximo.
 
-Los presidentes de los consejos distritales entregarán, contra el recibo detallado correspondiente, a los presidentes de las mesas directivas de casilla, dentro de los tres días anteriores al de la jornada electoral, lo siguiente:
+ARTICULO 554
 
-I. La lista nominal de electores con fotografía de la sección que corresponda;
+Si el crédito no es objetado se tendrá por bueno y verdadero y se inscribirá en la lista de créditos reconocidos.
 
-II. La relación de los representantes de los partidos políticos y de los candidatos independientes que se hayan registrado para la casilla de que se trate;
+Esa lista contendrá los nombres de los acreedores e importe de cada crédito. El crédito verificado puede ser objetado por cualquier acreedor a su costa, siguiéndose, por cuerda separada, el trámite establecido para los incidentes.
 
-III. La relación de los representantes generales acreditados por cada partido y por el candidato independiente en el distrito en que se ubique la casilla en cuestión;
+ARTICULO 555
 
-IV. Las boletas para cada elección, en número igual al de los electores que figuren en la lista nominal de electores de la casilla;
+Si uno o más de los créditos admitidos por la mayoría, fuesen objetados por el deudor, por el síndico o por alguno de los acreedores, se tendrán por verificados provisionalmente, sin perjuicio de que en incidente y por cuerda separada, pueda seguirse la cuestión sobre legitimidad del crédito.
 
-V. Las urnas para recibir la votación, una por cada elección de que se trate;
+Si los objetantes fuesen acreedores, ellos deberán seguir el incidente a su costa sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido su concurso.
 
-VI. La tinta indeleble;
+ARTICULO 556
 
-VII. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
+Los acreedores que no presenten los documentos justificativos de sus créditos, no serán admitidos a la masa sin que preceda la rectificación de sus créditos, que se hará judicialmente a su costa, por cuerda separada y en incidente. Sólo tomarán parte en los dividendos que estuviesen aún por hacerse en el momento de presentar su reclamación, sin que les sea admitido en ningún caso reclamar su parte en los dividendos anteriores.
 
-VIII. Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla, y
+Si cuando se presenten los acreedores morosos a reclamar sus créditos, estuviese ya repartida la masa de bienes, no serán oídos, salvo su acción personal contra el deudor, la cual debe reservárseles.
 
-IX. Las mamparas que garanticen que el elector pueda emitir su voto en secreto.
+ARTICULO 557
 
-La entrega y recepción del material a que se refiere este artículo, se hará con la participación de los integrantes de los consejos distritales que decidan asistir.
+Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el juez suspenderá la audiencia para continuarla al día siguiente, haciéndolo constar en el acta sin necesidad de una nueva convocatoria.
 
-A los presidentes de mesas directivas de las casillas especiales les será entregada la documentación y materiales a que se refiere el párrafo anterior, con excepción de la lista nominal de electores con fotografía, en lugar de la cual recibirán los medios informáticos necesarios para verificar que los electores que acudan a votar se encuentran inscritos en la lista nominal de electores que corresponde al domicilioconsignado (sic) en su credencial para votar. El número de boletas que reciban no será superior a mil quinientas.
+ARTICULO 558
 
-###### ARTÍCULO 184.
+En la misma junta, una vez terminada la rectificación y graduación, los acreedores por mayoría de créditos y las personas asistentes a la junta, designarán síndico definitivo. En su defecto lo designará el juez.
 
-En términos de los lineamientos que establezca el INE, el Consejo encargará a una institución de reconocido prestigio la certificación de las características y calidad del líquido indeleble que ha de ser usado el día de la jornada electoral. La tinta seleccionada deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+Podrán también, por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes cuyos créditos hayan sido verificados la adjudicación en copropiedad de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
 
-Para constatar que la tinta indeleble utilizada el día de la jornada electoral es idéntica a la aprobada por el Consejo, al término de la elección, se recogerá el sobrante del líquido utilizado en aquellas casillas que determine el propio Consejo, para ser analizado muestralmente por la institución que al efecto se autorice.
+Si el deudor común se opusiere, se substanciará la oposición incidentalmente.
 
-###### ARTÍCULO 185.
+ARTICULO 559
 
-Las urnas en que los electores depositen las boletas en que hayan sufragado, deberán construirse de un material transparente y de preferencia plegable o armable, en términos de los lineamientos que establezca el INE.
+Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado y el juez mandará hacer la de los muebles conforme a lo prevenido en el artículo 441, sirviendo de base para la venta el que conste en inventario, con un quebranto de veinte por ciento. Si no hubiere valor en los inventarios, se mandará tasar por un corredor titulado si lo hubiere y, en su defecto, por comerciante acreditado. Los inmuebles se sacarán a remate conforme a las reglas respectivas, nombrando el juez el perito valuador.
 
-Las urnas llevarán en el exterior y en lugar visible, impresa o adherida en el mismo color de la boleta que corresponda, la denominación de la elección de que se trate.
+ARTICULO 560
 
-###### ARTÍCULO 186.
+El producto de los bienes se distribuirá proporcionalmente entre los acreedores, de acuerdo con su privilegio y graduación.
 
-El Presidente y el Secretario de cada casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la votación, garantizar la libertad y el secreto de voto y asegurar el orden en la elección. En el local de la casilla y en su exterior no deberá haber propaganda partidaria, ni de candidato independiente alguno, de haberla, la mandarán retirar.
+Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento destinado al efecto por la ley, hasta la resolución definitiva del juicio.
 
-###### ARTÍCULO 187.
+La Hacienda Pública no entra en los concursos. En consecuencia, asegurados los intereses que persiga, responderá ante los tribunales por las reclamaciones que se le hagan contra la legitimidad de su procedimiento o la preferencia en los pagos de sus créditos.
 
-Los consejos distritales darán publicidad a la lista de los lugares en que habrán de instalarse las casillas y de un instructivo para los votantes.
+ARTICULO 561
 
-###### ARTÍCULO 188.
+El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
 
-Dentro de los treinta días siguientes a la fecha en que el Consejo haga la declaratoria de conclusión del proceso electoral, el Consejo destruirá la documentación y material electoral utilizado en la celebración de las elecciones, con excepción de las actas a que se refieren los artículos 228 fracción IX y 231 fracción V de este Código.
+Si antes de establecido el derecho de preferencia de algún acreedor se distribuyera un dividendo, se considerará como acreedor común, reservándose el precio del bien afectado, hasta la concurrencia del importe de su crédito por si esa preferencia quedase reconocida.
 
-La destrucción se realizará mediante la trituración de la papelería en el lugar y fecha que el Consejo acuerde, y el material electoral conforme lo disponga la legislación aplicable para el destino final de residuos industriales, sean peligrosos o no, lo cual se llevará a cabo previa vista que se dé al Ministerio Público para que manifieste su conformidad y ante la presencia de Notario Público.
+ARTICULO 562
 
-## TÍTULO TERCERO. DE LA JORNADA ELECTORAL EN ELECCIONES CONCURRENTES
+Cuando se hubiere pagado íntegramente a los acreedores, celebrado convenio o adjudicado los bienes del concurso, se dará éste por terminado. Si el precio en que se vendiere no bastare a cubrir todos los créditos, se reservarán los derechos de los acreedores para cuando el deudor mejore de fortuna.
 
-### CAPÍTULO I. De la Instalación y Apertura de la Casilla, Recepción de la Votación, así como del Escrutinio y Cómputo
+ARTICULO 563
 
-###### ARTÍCULO 189.
+Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al juez y a la junta de acreedores en su oportunidad, las observaciones que estimen pertinentes.
 
-La instalación y apertura de la casilla única, la recepción de la votación, así como el escrutinio y cómputo, se realizarán en la forma y términos establecidos en el Título Tercero, del Libro Quinto de la LGIPE, así como en los lineamientos y acuerdos que al respecto emita el INE y los convenios que éste celebre con el Instituto.
+ARTICULO 564
 
-### CAPÍTULO II. De la Clausura de la Casilla y Remisión del Paquete Electoral
+Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, tercera parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-###### ARTÍCULO 190.
+### CAPITULO III. De la administración del concurso
 
-Los miembros de la mesa directiva de la casilla no podrán retirarse sino hasta que ésta sea clausurada.
+ARTICULO 565
 
-Al finalizar el escrutinio y cómputo se clausurará la casilla. El secretario levantará constancia de la hora de clausura y del nombre de los funcionarios y representantes que harán la entrega del paquete que contenga los expedientes al Consejo Distrital respectivo. Dicha constancia será firmada por los funcionarios de la casilla y los representantes de los partidos y de Candidatos Independientes que deseen hacerlo.
+Aceptado el cargo por el síndico, se le pondrá bajo inventario desde el día siguiente del aseguramiento, en posesión de los bienes, libros y papeles del deudor. Si éstos estuviesen fuera del lugar del juicio, se inventariarán con intervención de la autoridad judicial exhortada al efecto y se notificará al deudor para la diligencia.
 
-La entrega de los paquetes electorales referentes a elecciones locales, se realizará dentro de las siguientes ocho horas contadas a partir de la clausura.
+El dinero se depositará en el establecimiento destinado al efecto por la ley, dejándose en poder del síndico lo indispensable para atender a los gastos de administración.
 
-###### ARTÍCULO 191.
+ARTICULO 566
 
-Los consejos distritales, previamente al día de la elección, podrán determinar la ampliación del plazo referido en el artículo anterior, para aquellas casillas que lo justifiquen, asimismo, tomarán las prevenciones necesarias para que los paquetes electorales sean entregados en el plazo respectivo.
+El síndico es el administrador de los bienes del concurso, debiendo entenderse con él las operaciones ulteriores y toda cuestión judicial o extrajudicial que el concursado tuviere pendiente o que hubiere de iniciarse.
 
-Se considerará que existe causa justificada para que los paquetes con los expedientes de casilla sean entregados al Consejo Distrital fuera del plazo establecido, cuando medie caso fortuito o fuerza mayor. El Consejo Distrital de que se trate, hará constar en acta circunstanciada las causas que se invoquen para el retraso en la entrega de los paquetes.
+Ejecutará personalmente las funciones del cargo a menos que tuviera que desempeñar sus funciones fuera del asiento del juzgado, caso en el cual podrá valerse de mandatarios.
 
-Los consejos distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario, lo cual se realizará, en su caso, bajo la vigilancia de los partidos políticos que deseen hacerlo.
+ARTICULO 567
 
-Los consejos distritales sesionarán a partir de las ocho horas del día siguiente al de la jornada electoral, para remitir los paquetes de elección de Ayuntamiento a los consejos municipales, dentro de las seis horas siguientes del inicio de dicha sesión.
+No puede ser síndico el pariente del concursado o del juez, dentro del cuarto grado de consanguinidad ni segundo de afinidad, ni su amigo, ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
 
-### CAPÍTULO III. De la Recepción de los Paquetes Electorales
+El que se halle en alguno de estos casos, deberá excusarse y ser substituido inmediatamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 568
 
-###### ARTÍCULO 192.
+El síndico deberá otorgar fianza dentro de los primeros quince días que siguen a la aceptación del cargo.
 
-Para la recepción de los paquetes electorales por los consejos distritales se estará a lo establecido en el Reglamento aplicable que expida el INE y conforme a las reglas siguientes:
+ARTICULO 569
 
-I. El Consejero Presidente Distrital designará al personal encargado de recibirlos y colocarlos en el sitio que se determine. Las actas de escrutinio y cómputo destinadas al Programa de Resultados Electorales Preliminares serán separadas de los paquetes electorales y su información se pondrá a disposición del Consejo en términos de los lineamientos y reglas de operación que emita el INE;
+Si el síndico provisional comprendiere que hay necesidad de realizar efectos, bienes o valores que pudieran perderse, disminuir su precio o deteriorarse, o fuere muy costosa su conservación, podrá enajenarlos con autorización del juez, quien la dará, previa audiencia del Ministerio Público, en el plazo que le señale, según la urgencia del caso.
 
-II. Se recibirán en el orden en que sean entregados;
+Esto mismo se hará cuando fuere estrictamente indispensable para cubrir gastos urgentes de administración y conservación.
 
-III. Se colocarán en orden numérico para facilitar las acciones a realizar el día del cómputo;
+ARTICULO 570
 
-IV. El Consejero Presidente Distrital recibirá las actas de escrutinio y cómputo, y de inmediato dará lectura en voz alta del resultado de las votaciones que aparezcan en ellas, procediendo a realizar la suma correspondiente para informar inmediatamente al Consejo, y
+El síndico deberá presentar del primero al diez de cada mes, en cuaderno por separado, un estado de la administración, previo depósito en el establecimiento respectivo, del dinero que hubiere percibido. Esas cuentas estarán a disposición de los interesados hasta el fin del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán con la contestación del síndico y la resolución judicial dentro del tercero día. Contra ella procede la apelación en el efecto devolutivo.
 
-V. Los representantes de los partidos políticos y de los candidatos independientes acreditados ante los consejos electorales, contarán con los formatos adecuados para anotar en ellos los resultados de la votación en las casillas.
+ARTICULO 571
 
-## TÍTULO CUARTO. DE LA JORNADA ELECTORAL EN ELECCIONES NO CONCURRENTES
+El síndico será removido de plano si dejare de rendir la cuenta mensual o dejare de caucionar su manejo.
 
-### CAPÍTULO I. De la Instalación y Apertura de la Casilla en Elecciones no Concurrentes
+Será removido por los trámites establecidos para los incidentes, por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 567.
 
-###### ARTÍCULO 193.
+### CAPITULO IV. Del deudor común
 
-El primer domingo de junio del año de la elección, a las ocho horas, los ciudadanos nombrados presidente; secretario y escrutadores propietarios de las mesas directivas de las casillas electorales, procederán a su instalación en presencia de los representantes de los partidos políticos y de los candidatos independientes que concurran.
+ARTICULO 572
 
-A solicitud del representante de un partido político o de un candidato independiente, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas o de uno de los candidatos independientes ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. En el supuesto de que el representante del partido político o de alguno de los candidatos independientes que resultó facultado en el sorteo se negare a firmar o sellar las boletas, el representante que en un principio lo haya solicitado tendrá ese derecho. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos. Acto continuo, se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
+El deudor es parte para litigar en los incidentes relativos a la rectificación de los créditos, pero no en las cuestiones referentes a la graduación.
 
-###### ARTÍCULO 194.
+Es también parte en las cuestiones relativas a enajenación de los bienes. En todo lo demás será representado por el síndico, aun en los juicios hipotecarios.
 
-Los ciudadanos nombrados funcionarios suplentes, deberán presentarse a la hora de instalación para entrar en funciones, en caso de ausencia de algún funcionario propietario.
+ARTICULO 573
 
-###### ARTÍCULO 195.
+El deudor de buena fe tiene derecho a alimentos cuando el valor de los bienes exceda al importe de los créditos.
 
-De no instalarse la casilla de la forma prevista por este ordenamiento, a las ocho horas con quince minutos se procederá en la forma siguiente:
+TITULO DECIMOQUINTO
 
-I. Si estuviera el presidente, éste designará a los funcionarios necesarios para su integración, recorriendo en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes, con los propietarios presentes y habilitando a los suplentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la casilla;
+DE LAS SUCESIONES
 
-II. Si no estuviera el presidente, pero estuviera el secretario, éste asumirá las funciones de presidente de la casilla y procederá a integrarla en los términos señalados en la fracción anterior;
+### CAPITULO I. Disposiciones generales
 
-III. Si no estuvieran el presidente ni el secretario, pero estuviera alguno de los escrutadores, éste asumirá las funciones de presidente y procederá a integrar la casilla de conformidad con lo señalado en la fracción I;
+ARTICULO 574
 
-IV. Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de presidente, los otros las de secretario y primer escrutador, procediendo el primero a instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar;
+Luego que el tribunal tenga conocimiento de la muerte de una persona, dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados y sin perjuicio de lo dispuesto en el artículo 193 del Código Civil, las providencias necesarias para asegurar los bienes. Lo mismo hará si el difunto no era conocido o estaba de transeúnte en el lugar o si hay menores interesados o peligro de que se oculten o dilapiden los bienes.
 
-V. Si ninguno de los funcionarios de la casilla asiste, el Consejo Distrital autorizará la instalación de la casilla por un asistente electoral de los asignados al distrito electoral que corresponda, quien nombrará a los funcionarios correspondientes;
+ARTICULO 575
 
-VI. Si a las diez horas aún no se ha instalado, y en ausencia de asistente electoral, los representantes de los partidos políticos y de los candidatos independientes ante la Mesa Directiva de Casilla, designarán, por mayoría, a los funcionarios necesarios para integrar la casilla, de entre los electores presentes, en cuyo caso se requerirá:
+Las medidas urgentes para la conservación de los bienes, que el juez debe decretar en el caso del artículo anterior, son las siguientes:
 
-a) La presencia de un fedatario, quien tiene la obligación de acudir, y dar fe de los hechos, y
+I.- Reunir los papeles del difunto que cerrados y sellados se depositarán en el secreto del juzgado;
 
-b) En ausencia de juez o notario público, bastará que los representantes de los partidos y de los candidatos independientes expresen su conformidad para designar de común acuerdo, a los miembros de la Mesa Directiva de Casilla.
+II.- Ordenar a la administración de correos que le remita la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles;
 
-VII. En todo caso, integrada conforme a los anteriores supuestos, la Mesa Directiva de Casilla iniciará sus actividades, recibirá válidamente la votación y funcionará hasta su clausura, y
+III.- Mandar depositar el dinero y alhajas en un establecimiento autorizado por la ley;
 
-VIII. Los nombramientos que se hagan conforme a lo dispuesto en este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto, en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos o de los candidatos independientes.
+El Ministerio Público asistirá a la diligencia de aseguramiento de los bienes que se hallen en el lugar donde se tramite el juicio.
 
-###### ARTÍCULO 196.
+ARTICULO 576
 
-La hora de instalación de la casilla se registrará en el espacio correspondiente del acta respectiva. En la misma se hará constar los incidentes ocurridos durante la instalación.
+Si pasados diez días de la muerte del autor de la sucesión no se presenta el testamento, si en el no está nombrado el albacea o si no se denuncia el intestado, el juez nombrará un interventor que reúna los requisitos siguientes:
 
-###### ARTÍCULO 197.
+I.- Ser mayor de edad;
 
-Serán causas justificadas para la instalación de la casilla en lugar distinto al señalado, las siguientes:
+II.- De notoria buena conducta;
 
-I. Cuando no exista el local indicado en la publicación respectiva;
+III.- Estar domiciliado en el lugar del juicio;
 
-II. Cuando el local se encuentre cerrado o clausurado, o no se tenga acceso para realizar la instalación;
+IV.- Otorgar fianza judicial para responder de su manejo.
 
-III. Cuando el local no ofrezca condiciones que garanticen seguridad para la realización de las operaciones electorales, o no permita que los funcionarios de la mesa directiva o los votantes se resguarden de las inclemencias del tiempo. En este caso, será necesario que los funcionarios y los representantes de partido y de los candidatos independientes tomen la determinación por mayoría, y
+La fianza deberá otorgarse en el plazo de diez días, contados a partir de la aceptación del cargo, bajo pena de remoción.
 
-IV. Cuando en el momento de instalar la casilla se determine que:
+ARTICULO 577
 
-a) El local es un lugar prohibido por este Código;
+El interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario, sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieran al pago de las deudas mortuorias, con autorización judicial.
 
-b) Que el lugar no cumple con los requisitos establecidos por este Código, y
+Si los bienes estuvieren situados en lugares diversos o a largas distancias, bastará para la formación del inventario que se haga mención en él de los títulos de propiedad, si existen entre los papeles del difunto, o la descripción de ellos según las noticias que se tuvieren.
 
-c) Que la ubicación se encuentre fuera de la sección correspondiente.
+ARTICULO 578
 
-###### ARTÍCULO 198.
+El interventor cesará en su encargo luego que se nombre o dé a conocer al albacea; entregará a éste los bienes sin que pueda retenerlos bajo ningún pretexto, ni aun por razón de mejoras o gastos de manutención o reparación.
 
-En el caso de cambio de ubicación de casilla por causa justificada, el nuevo sitio deberá estar comprendido en la misma sección y en el lugar adecuado más próximo, y se dejará aviso de la nueva ubicación en el exterior del lugar original, dando parte inmediatamente al Consejo Distrital.
+ARTICULO 579
 
-### CAPÍTULO II. De la Votación en Elecciones no Concurrentes
+Al promoverse el juicio sucesorio debe presentarse la partida de defunción del autor de la herencia, y no siendo esto posible, otro documento o prueba bastante.
 
-###### ARTÍCULO 199.
+ARTICULO 580
 
-Una vez instalada la casilla, los electores votarán en el orden en que se presenten ante la Mesa Directiva de la misma, y para ello deberán:
+Cuando con fundamento en la declaración de ausencia o presunción de muerte de un ausente se haya abierto sucesión, si durante la tramitación del juicio se hace constar la fecha de la muerte, desde ella, se entenderá abierta la sucesión; y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea, con arreglo a derecho.
 
-I. Exhibir su credencial para votar con fotografía, o en su caso la resolución de la autoridad jurisdiccional competente que les otorga el derecho de votar sin aparecer en la lista nominal o sin contar con credencial para votar o en ambos casos;
+ARTICULO 581
 
-II. Identificarse a petición del presidente de la Mesa Directiva de Casilla, adicional a la credencial de elector, por alguno de los siguientes medios:
+En los juicios sucesorios en que haya herederos o legatarios menores que no tuvieren representante legítimo, dispondrá el tribunal que designen un tutor si han cumplido dieciséis años. Si los menores no han cumplido dieciséis años, o los incapacitados no tienen tutor, será éste nombrado por el juez.
 
-a) Con credencial o documento diverso que no haya sido expedido por organizaciones políticas en donde consten los datos personales del elector, y
+ARTICULO 582
 
-b) Mediante cotejo de la firma que conste en su credencial para votar con fotografía.
+En las sucesiones de extranjeros se dará a los cónsules o agentes consulares, la intervención que les conceda la ley.
 
-III. El presidente de la Mesa Directiva se cerciorará de que el nombre del ciudadano que aparece en la credencial para votar con fotografía figure en la lista nominal, además dará lectura en voz alta el nombre del elector;
+ARTICULO 583
 
-Los representantes de los partidos políticos y de los candidatos independientes debidamente acreditados ante las mesas directivas de casillas, votarán en la casilla en donde se encuentren acreditados.
+Son acumulables a los juicios testamentarios y a los intestados:
 
-IV. En las casillas especiales podrán votar los ciudadanos que se encuentren transitoriamente en lugar distinto al de su sección electoral. En este caso, deberá exhibir su credencial para votar con fotografía siguiéndose, en lo conducente, el procedimiento previsto en las fracciones anteriores. En este supuesto se observará lo siguiente:
+I.- Las demandas por acción personal, pendientes en primera instancia contra el finado;
 
-a) Si el elector se encuentra fuera de su distrito pero dentro de su Municipio, podrá votar por Ayuntamiento y Gobernador;
+II.- Los pleitos incoados contra el mismo por acción real que se hallen en primera instancia cuando no se sigan en el juzgado del lugar en que esté sita la cosa inmueble o donde se hubieren hallado los muebles sobre que se litigue;
 
-b) Si el elector se encuentra fuera de su municipio, podrá votar únicamente por Gobernador; y si el elector se encuentra fuera de su municipio pero dentro de su distrito, por Gobernador y Diputado;
+III.- Todas las demandas que se deduzcan contra los herederos del difunto en su calidad de tales, después de denunciado el intestado;
 
-c) El Secretario de la Mesa Directiva elaborará una lista adicional de los electores comprendidos en los supuestos anteriores y anotará el número progresivo, nombre y apellidos, lugar de origen, domicilio, ocupación y clave de elector, que se integrará al paquete electoral, y
+IV.- Los juicios que sigan los herederos deduciendo la acción de petición de herencia, ya impugnando el testamento o la capacidad de los herederos presentados o reconocidos, o exigiendo, su reconocimiento, siempre que esto último acontezca antes de la adjudicación;
 
-d) Cumplidos los requisitos para acreditar la calidad de elector, el presidente de la casilla le entregará las boletas correspondientes.
+V.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la facción de inventarios y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-###### ARTÍCULO 200.
+ARTICULO 584
 
-El presidente de la Mesa Directiva permitirá que voten los ciudadanos que, registrados en la lista nominal de electores correspondiente a su domicilio, su credencial para votar con fotografía contenga algún error.
+En los juicios sucesorios el Ministerio Público representará a los herederos ausentes, mientras no se presenten o no acrediten su representante legítimo a los menores o incapacitados que no tengan representantes legítimos y al Fisco, mientras no designe representante especial y no haya heredero legítimo dentro del grado de ley.
 
-###### ARTÍCULO 201.
+ARTICULO 585
 
-El presidente de la Mesa Directiva de casilla recogerá la credencial para votar con fotografía que presente muestras de alteración, o que no pertenezca al elector y pondrá a disposición de las autoridades correspondientes a quien la hubiere presentado. El Secretario anotará el incidente en el acta respectiva con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
+La intervención que debe tener el representante del Fisco será determinada por leyes especiales, pero conservando siempre la unidad del juicio.
 
-###### ARTÍCULO 202.
+ARTICULO 586
 
-La votación se efectuará de la forma siguiente:
+El albacea manifestará dentro de tres meses de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el juez que dentro de otros tres debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1641 y 1642 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
-I. El elector, de manera secreta marcará en la boleta el emblema del partido político o del candidato independiente por el que sufrague, o escribirá en el lugar correspondiente el nombre de su candidato o fórmula, si éstos no estuvieren registrados. En este último caso no podrán utilizarse engomados, sellos, ni cualquier otro medio pre elaborado.
+ARTICULO 587
 
-Si el elector es ciego o se encuentra físicamente impedido para votar, podrá auxiliarse de otra persona.
+Cuando los herederos sean mayores de edad, o lo sea la mayoría de ellos, o hubiere un solo heredero, aunque éste fuere menor de edad, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado, siempre que la ley civil no lo impida y se garantice previa y debidamente el pago de los derechos fiscales.
 
-El personal de las fuerzas armadas y cuerpos policiales deberá presentarse a votar sin armas y sin vigilancia o mando superior alguno;
+Los arreglos a que se refiere este artículo, se tomarán ante un notario público, de acuerdo con las disposiciones de esta ley.
 
-II. El elector personalmente, o quien lo auxilie en caso de impedimento, introducirá la boleta electoral en la urna respectiva, y
+ARTICULO 588
 
-III. El secretario de la Mesa Directiva anotará en la lista nominal la palabra “votó”.
+El juez dará aviso de la separación inmediatamente al Fisco, haciéndose saber el nombre del notario en su caso y de los demás particulares. El notario, bajo su responsabilidad, vigilará que se garantice el pago de los impuestos fiscales.
 
-###### ARTÍCULO 203.
+ARTICULO 589
 
-Para identificar a los electores que ya hubieren votado, el Secretario de la Mesa Directiva procederá:
+En todo juicio sucesorio se formarán cuatro secciones simultáneamente, cuando no hubiere impedimento de hecho.
 
-I. A marcar la credencial del elector en el lugar indicado para ello, y
+ARTICULO 590
 
-II. A impregnar con tinta indeleble el dedo pulgar de la mano derecha del elector. Enseguida, se le devolverá la credencial para votar con fotografía.
+La primera sección se llamará de sucesión y contendrá en sus respectivos casos:
 
-###### ARTÍCULO 204.
+I.- El testamento o testimonio de protocolización o la denuncia del intestado;
 
-Corresponde al presidente de la Mesa Directiva mantener el orden, asegurar el libre acceso a los electores, garantizar el secreto del voto y vigilar la estricta observancia de este Código.
+II.- Las notificaciones a los herederos y la convocación a los que se crean con derecho a la herencia;
 
-Los miembros de la Mesa Directiva deberán permanecer en la casilla a lo largo de la votación, pero en ningún caso podrán interferir en la libertad y el secreto del voto de los electores.
+III.- Lo relativo al nombramiento y remoción de albacea o interventores, y al reconocimiento de derechos hereditarios;
 
-###### ARTÍCULO 205.
+IV.- Los incidentes que se promuevan sobre el nombramiento de tutores;
 
-Permanecerán en la casilla, además de los funcionarios de ella, los representantes de los partidos políticos y de los candidatos independientes, los electores que pueden ser atendidos y, en su caso, los fedatarios en ejercicio de sus funciones. Los representantes generales, asistentes electorales y los observadores electorales, permanecerán en la casilla en forma transitoria, sólo para cumplir con las funciones que les correspondan conforme a este Código.
+V.- Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y preferencia de derechos.
 
-###### ARTÍCULO 206.
+ARTICULO 591
 
-En ningún caso se permitirá el acceso a la casilla a personas que acudan armadas, en estado de ebriedad o bajo influjo de cualquier droga.
+La sección segunda se llamará de inventarios, y contendrá:
 
-Tampoco tendrán acceso, salvo que sea para ejercer su derecho al voto, dirigentes de partidos políticos, candidatos o representantes populares.
+I.- El inventario provisional del interventor;
 
-###### ARTÍCULO 207.
+II.- El inventario y avalúo que forme el albacea;
 
-El presidente de la Mesa Directiva podrá solicitar el auxilio de la fuerza pública, a fin de preservar el orden en la casilla y la normalidad de la votación y podrá ordenar el retiro de cualquier persona que indebidamente interfiera o altere el orden.
+III.- Los incidentes que se promuevan;
 
-###### ARTÍCULO 208.
+IV.- La resolución sobre inventarios y avalúos.
 
-Los representantes de los partidos políticos y de los candidatos independientes podrán presentar al secretario de la Mesa Directiva, escritos sobre cualquier incidente que, en su concepto, constituya una infracción a lo dispuesto por este Código. El secretario los anexará al expediente electoral sin que pueda mediar discusión sobre su admisión.
+ARTICULO 592
 
-###### ARTÍCULO 209.
+La tercera sección se llamará de administración y contendrá:
 
-Ninguna autoridad podrá detener a los integrantes de las mesas directivas de casillas, asistentes electorales, a los representantes de los partidos políticos o a los de los candidatos independientes durante la jornada electoral, salvo el caso de flagrante delito.
+I.- Todo lo relativo a la administración;
 
-###### ARTÍCULO 210.
+II.- Las cuentas, su glosa y calificación;
 
-La votación se cerrará a las dieciocho horas. Sólo podrá cerrarse antes, cuando el presidente y el secretario certifiquen que han votado todos los electores incluidos en la lista nominal correspondiente, o en el caso de las casillas especiales cuando se agoten las boletas asignadas. La casilla permanecerá abierta después de las dieciocho horas, cuando aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes, formados a esa hora, hayan votado.
+III.- La comprobación de haberse cubierto los impuestos fiscales.
 
-###### ARTÍCULO 211.
+ARTICULO 593
 
-Concluida la emisión del voto, se llenará el espacio correspondiente en el acta de la jornada electoral. En la misma se harán constar los incidentes ocurridos durante la votación.
+La cuarta sección se llamará de partición y contendrá:
 
-### CAPÍTULO III. Del Escrutinio y Cómputo en Elecciones no Concurrentes
+I.- El proyecto de distribución provisional de los productos de los bienes hereditarios;
 
-###### ARTÍCULO 212.
+II.- El proyecto de partición de los bienes;
 
-Una vez cerrada la votación y levantada el acta respectiva, los integrantes de la Mesa Directiva procederán al escrutinio y cómputo de los votos emitidos.
+III.- Los incidentes que se promuevan respecto a los proyectos a que se refieren las fracciones anteriores;
 
-###### ARTÍCULO 213.
+IV.- Los arreglos relativos;
 
-El escrutinio y cómputo es el procedimiento por el cual los integrantes de cada una de las mesas directivas de casilla, determinarán y asentarán en el acta correspondiente:
+V.- Las resoluciones sobre los proyectos mencionados;
 
-I. El número de electores que votó en la casilla;
+VI.- Lo relativo a la aplicación de los bienes.
 
-II. El número de votos emitidos en favor de cada uno de los partidos políticos o candidatos;
+ARTICULO 594
 
-III. El número de votos nulos, y
+Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél, para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-IV. El número de boletas sobrantes de cada elección.
+### CAPITULO II. De las testamentarías
 
-Se entiende por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
+ARTICULO 595
 
-###### ARTÍCULO 214.
+El que promueva el juicio de testamentaría, debe presentar el testamento del difunto. El juez sin más trámite lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que, si hubiere albacea nombrado en el testamento, se les dé a conocer y, si no lo hubiere, procedan a elegirlo con arreglo a lo prescripto en los artículos 1616, 1617, 1618 y 1621 del Código Civil.
 
-El procedimiento de escrutinio y cómputo se practicará para cada una de las elecciones en el orden siguiente:
+ARTICULO 596
 
-I. Elección de diputados;
+La junta se verificará dentro de los seis días siguientes a la notificación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias. La notificación se hará por correo certificado.
 
-II. Elección de Gobernador, y
+ARTICULO 597
 
-III. Elección de Ayuntamiento.
+Si no se conociere el domicilio de los herederos y éstos estuvieren fuera del lugar del juicio, se mandará publicar edictos en los sitios de costumbre, en el del último domicilio del finado y en el de su nacimiento.
 
-###### ARTÍCULO 215.
+Estando ausentes los herederos y sabiéndose su residencia, se les notificará por exhorto cuando estuvieren fuera del Estado.
 
-El escrutinio y cómputo de cada elección se llevará a cabo conforme a las reglas siguientes:
+ARTICULO 598
 
-I. El secretario de la Mesa Directiva contará las boletas sobrantes, las inutilizará con dos rayas diagonales con tinta, las guardará en un sobre especial el cual quedará cerrado y anotará en el exterior del mismo el número de boletas que se contienen en él;
+Si hubiere herederos menores o incapacitados que tengan tutor, se mandará notificar a éste para la junta.
 
-II. El primer escrutador contará el número de ciudadanos que votaron conforme a la lista nominal de electores de la sección, sumando, en su caso, el número de electores que votaron por resolución de la autoridad jurisdiccional competente sin aparecer en la lista nominal;
+Si los herederos menores no tuvieren tutor, el juez dispondrá que se nombre con arreglo a derecho.
 
-III. El segundo escrutador de la Mesa Directiva de casilla, sacará las boletas depositadas en la urna y mostrará a sus integrantes que ha quedado vacía;
+ARTICULO 599
 
-IV. El segundo escrutador contará las boletas extraídas de la urna;
+Respecto del declarado ausente, se entenderá la notificación con el que fuere su representante legítimo.
 
-V. Los escrutadores de la Mesa Directiva clasificarán las boletas para determinar:
+ARTICULO 600
 
-a) El número de votos emitidos a favor de cada uno de los partidos políticos o candidatos, y
+Se notificará también al Ministerio Público para que represente a los herederos cuyo paradero se ignore y a los que habiendo sido notificados no se presentaren y mientras se presenten.
 
-b) El número de votos nulos.
+Luego que se presenten los herederos ausentes, cesará la representación del Ministerio Público.
 
-VI. El secretario de la Mesa Directiva asentará en el acta respectiva los resultados de las operaciones realizadas.
+ARTICULO 601
 
-VII. Tratándose de partidos coaligados, si apareciera cruzado más de uno de sus respectivos emblemas, deberá consignarse en el apartado respectivo del acta de escrutinio y cómputo correspondiente.
+Si el tutor o cualquier representante legítimo de algún heredero menor o incapacitado, tiene interés en la herencia, le proveerá el juez con arreglo a derecho de un tutor especial para el juicio o hará que lo nombre si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el propietario o representante legítimo tenga incompatibilidad.
 
-###### ARTÍCULO 216.
+ARTICULO 602
 
-El Presidente de la Mesa Directiva de Casilla, una vez concluido el escrutinio y cómputo, publicará los resultados de la elección en el exterior de la casilla.
+Si el testamento no es impugnado ni se objeta la capacidad de los interesados, el juez, en la misma junta, reconocerá como herederos a los que estén nombrados, en las porciones que les corresponda.
 
-###### ARTÍCULO 217.
+Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se sustanciará el juicio correspondiente con el albacea o el heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
 
-Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
+ARTICULO 603
 
-I. Se contará un voto para cada partido político o candidato independiente cuyo emblema haya sido marcado. Cuando la marca del voto sea de dimensiones mayores al emblema, pero la intención del voto sea clara e indudable, este se computará como válido;
+En la junta prevenida por el artículo 595, podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1661 del Código Civil y se nombrará precisamente en los casos previstos por el 1664 del mismo Código.
 
-II. Se considerarán votos nulos:
+### CAPITULO III. De los intestados
 
-a) Aquel expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o candidato independiente, y
+ARTICULO 604
 
-b) Cuando el elector marque dos o más cuadros sin existir coalición entre los partidos cuyos emblemas hayan sido marcados, o bien, que marque el emblema de un candidato independiente y el de algún partido político.
+Al promoverse un intestado, justificará el denunciante el parentesco o lazo, si existiere, y que lo hubiere unido con el autor de la herencia en el grado por el que pueda considerarse heredero legítimo.
 
-III. Cuando el elector marque en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla, y
+Debe el denunciante indicar los nombres y domicilios de los parientes en línea recta y del cónyuge supérstite o, a falta de ellos, de los parientes colaterales dentro del cuarto grado. De ser posible, se presentarán las partidas del Registro Civil que acrediten la relación.
 
-IV. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
+ARTICULO 605
 
-###### ARTÍCULO 218.
+El juez tendrá por radicada la sucesión y mandará notificar por correo certificado, con acuse de recibo, a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o, en su defecto, como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado, con los demás particulares que lo identificaren y la fecha del lugar del fallecimiento, para que justifiquen sus derechos a la herencia y nombren albacea.
 
-Si se encontraren boletas de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
+ARTICULO 606
 
-###### ARTÍCULO 219.
+Los herederos abintestado que sean descendientes del finado, podrán obtener la declaración de su derecho, justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el mismo y con información testimonial que acredite que ellos o los que designen, son los únicos herederos.
 
-Al término del escrutinio y cómputo de cada una de las elecciones, y una vez levantada el acta correspondiente, se formará un expediente de casilla con la siguiente documentación:
+ARTICULO 607
 
-I. Un ejemplar del Acta de la Jornada Electoral;
+Dicha información se practicará con citación del Ministerio Público, quien dentro de los tres días que sigan al de la diligencia, debe formular su pedimento. Si éste fuere impugnando sólo de incompleta la justificación, se dará vista a los interesados para que subsanen la falta.
 
-II. Un ejemplar del Acta de Escrutinio y Cómputo;
+ARTICULO 608
 
-III. Los escritos de protesta que se hubieren recibido, y
+Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el juez, sin más trámites, dictará auto, haciendo la declaración de herederos abintestado, si la estimare procedente, o denegándola, con reserva de sus derechos para el juicio, a los que la hayan pretendido.
 
-IV. Las hojas adicionales de incidentes.
+Este auto será apelable en el efecto devolutivo.
 
-Se remitirán en sobres separados las boletas sobrantes inutilizadas y las que contengan votos válidos y los nulos, así como la lista nominal de electores.
+ARTICULO 609
 
-Se entregarán copias legibles de las actas a los representantes de los partidos políticos conforme a la antigüedad de cada partido político. Se le entregará también a los representantes de los candidatos independientes, posterior a haberlo hecho con los partidos políticos.
+El mismo procedimiento establecido en los tres artículos que preceden, se empleará para la declaración de herederos abintestado, cuando lo solicitaren ascendientes del finado o el cónyuge supérstite. Si éste fuere la viuda, no se admitirá promoción de la concubina, devolviéndole la que hiciere sin ulterior recurso.
 
-###### ARTÍCULO 220.
+ARTICULO 610
 
-Para garantizar la inviolabilidad de la documentación anterior, con el expediente de casilla de cada una de las elecciones y los sobres respectivos, se formarán los paquetes electorales, uno por cada tipo de elección, en cuya envoltura firmarán los integrantes de la Mesa Directiva y los representantes de los partidos políticos que deseen hacerlo.
+Hecha la declaración de herederos, de acuerdo con los artículos precedentes, el juez, en el mismo auto en que la hizo, convocará a una junta de herederos dentro de los seis días siguientes, para que designen albacea. Se omitirá la junta si el heredero fuere único o si los interesados desde su presentación dieron su voto por escrito o en comparecencia; en este último caso, al hacerse la declaración de herederos hará el juez la designación de albacea.
 
-En el exterior de los paquetes electorales, se fijarán en sobre cerrado las actas necesarias para el conocimiento de los resultados preliminares.
+Este albacea tiene el carácter de definitivo.
 
-###### ARTÍCULO 221.
+ARTICULO 611
 
-Los representantes de los partidos políticos y de los candidatos independientes podrán acompañar al presidente de la Mesa Directiva, a entregar los paquetes electorales al Consejo Distrital respectivo.
+Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o el que en su defecto se nombre.
 
-### CAPÍTULO IV. De la Clausura de la Casilla y Remisión del Paquete Electoral en Elecciones no Concurrentes
+ARTICULO 612
 
-###### ARTÍCULO 222.
+Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial relativa, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar, los nombres y el grado de parentesco de los que reclaman la herencia, llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de treinta días.
 
-Al finalizar el escrutinio y cómputo se clausurará la casilla. Acto seguido los presidentes de las Mesas Directivas, bajo su responsabilidad, entregarán al Consejo Distrital correspondiente los paquetes electorales y las copias de las actas a que se refieren los artículos 219 y 220 de este Código, dentro de las siguientes ocho horas contadas a partir de la hora de clausura.
+El juez, prudentemente, podrá ampliar el plazo anterior, cuando por el origen del difunto u otras circunstancias, se presuma que puede haber parientes fuera de la República.
 
-###### ARTÍCULO 223.
+Los edictos se insertarán, además, dos veces, de diez en diez días, en la "Gaceta Oficial" del Estado y en un periódico de información, si el valor de los bienes hereditarios excediere del cinco mil pesos.
 
-El Consejo Distrital electoral tomará las prevenciones necesarias para que los paquetes electorales sean entregados en el plazo señalado en el artículo anterior.
+ARTICULO 613
 
-Se considerará que existe causa justificada para que los paquetes con los expedientes de casilla sean entregados al Consejo Distrital fuera del plazo establecido, cuando medie caso fortuito o fuerza mayor. El Consejo Distrital de que se trate, hará constar en acta circunstanciada las causas que se invoquen para el retraso en la entrega de los paquetes.
+Transcurrido el término de los edictos, a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, el juez, trayendo los autos a la vista, hará la declaración prevenida en el artículo 610.
 
-La recepción de los paquetes electorales en elecciones no concurrentes, se realizará en términos de lo dispuesto por el artículo 192 del presente Código.
+Si hubieren comparecido otros parientes, el juez les señalará un término no mayor de diez días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 608 a 612.
 
-Los consejos distritales y municipales sesionarán a partir de las ocho horas del día siguiente al de la elección para la remisión de los paquetes de la elección de Ayuntamiento a los consejos municipales dentro de las seis horas siguientes al inicio de la sesión.
+ARTICULO 614
 
-## TÍTULO QUINTO. DE LOS RESULTADOS ELECTORALES
+Si dentro del mes de iniciado el juicio sucesorio, no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos, de la manera y por el término expresados en el artículo 612, anunciando la muerte intestada de la persona de cuya sucesión se trate, y llamando a los que se crean con derecho a la herencia.
 
-### CAPÍTULO I. De los Cómputos
+ARTICULO 615
 
-###### ARTÍCULO 224.
+Si a consecuencia de dichos llamamientos se presentare un aspirante o varios que aleguen igual derecho, fundados en un mismo título, se procederá como se indica en los artículos 608 a 612.
 
-El cómputo de una elección es la suma que realizan los organismos electorales de los resultados anotados en las actas de escrutinio y cómputo de las casillas de su competencia.
+Si fueren dos o más los aspirantes a la herencia y no estuvieren conformes en sus pretensiones, los impugnadores harán de demandantes y los impugnados de demandados; debiendo, los que hagan causa común, formular sus pretensiones o defensas en un mismo escrito y bajo representante común. La controversia se substanciará en forma de incidente, y el Ministerio Público presentará su pedimento en la audiencia respectiva.
 
-El Consejo determinará para cada proceso electoral el personal que podrá auxiliar a los consejos distritales y municipales en el recuento de votos en los casos establecidos en esta Ley.
+Hecha la declaración, se procederá a la elección del albacea.
 
-###### ARTÍCULO 225.
+ARTICULO 616
 
-Cuando el Consejo Distrital o Municipal considere que no es posible realizar el cómputo de la elección por prevalecer circunstancias ajenas que afecten sustancialmente su normal funcionamiento, lo comunicará al Consejo, el cual, previo acuerdo de cinco de sus integrantes, podrá realizar el cómputo de la elección, por lo que ordenará que le sean enviados los paquetes y demás documentos electorales.
+La declaración de herederos de un intestado, surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto, a la persona en cuyo favor se hizo.
 
-###### ARTÍCULO 226.
+ARTICULO 617
 
-Los presidentes de los consejos distritales y municipales, y del Consejo, conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes que integren en el ámbito de sus respectivas competencias, así como de los cómputos relativos que se realicen.
+Después de los plazos a que se refieren los artículos 612 y 613, no serán admitidos los que se presenten deduciendo derechos hereditarios; pero les queda a salvo su derecho para que lo hagan valer en los términos de ley contra los que fueren declarados herederos.
 
-Asimismo, tomarán las medidas necesarias para el resguardo de los sobres que contengan la documentación usada en el Programa de Resultados Electorales Preliminares, hasta la calificación de todas las elecciones. Concluida la elección, la documentación de los sobres de referencia, formará parte del archivo histórico electoral correspondiente.
+ARTICULO 618
 
-### CAPÍTULO II. De los Cómputos de los Consejos Distritales y Municipales
+Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 193 del Código Civil.
 
-###### ARTÍCULO 227.
+ARTICULO 619
 
-Los consejos distritales y municipales sesionarán en forma ininterrumpida a partir de las ocho horas del miércoles siguiente al día de la elección, para hacer el cómputo final de votos para la elección, en el siguiente orden:
+Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredero al Fisco del Estado.
 
-I. Los consejos distritales:
+### CAPITULO IV. Del inventario y avalúo
 
-a) Elección de diputados, y
+ARTICULO 620
 
-b) Elección de Gobernador.
+Dentro de diez días de haber aceptado su cargo el albacea, debe proceder a la formación de inventarios y avalúos, dando aviso al juzgado para los efectos del artículo 623 y dentro de los sesenta días de la misma fecha, deberá presentarlo.
 
-II. Los consejos municipales: Elección de ayuntamientos.
+ARTICULO 621
 
-Cada uno de los cómputos se realizará sucesiva e ininterrumpidamente hasta su conclusión.
+Los herederos que así lo deseen, podrán solicitar se les tenga por asociados al albacea para la facción del inventario.
 
-Los consejos distritales y municipales deberán contar con los elementos humanos, materiales, técnicos y financieros, necesarios para la realización de los cómputos en forma permanente.
+ARTICULO 622
 
-Los consejos distritales y municipales, en sesión previa a la jornada electoral, podrán acordar que el personal del Instituto pueda sustituirse o alternarse entre sí en las sesiones de computo, de manera que se pueda sesionar permanentemente.
+Para los efectos del artículo anterior, y para la defensa de sus intereses, deben ser notificados por correo con acuse de recibo, el cónyuge que sobreviva, los herederos, acreedores y legatarios que se hubieren presentado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 623
 
-###### ARTÍCULO 228.
+Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito valuador y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
 
-El cómputo distrital y municipal de la elección se sujetará al procedimiento establecido en el Reglamento aplicable que expida el INE, y en las reglas siguientes:
+ARTICULO 624
 
-I. Se abrirán los paquetes que contengan los expedientes de la elección que no tengan muestras de alteración y siguiendo el orden numérico de las casillas, se cotejará el resultado del acta de escrutinio y cómputo contenido en el expediente de casilla con los resultados que de la misma obre en poder del Presidente del Consejo Distrital o Municipal de que se trate. Si los resultados de ambas actas coinciden, se asentarán en las formas establecidas para ello y se computará;
+El albacea procederá con los que concurran, a hacer la descripción de los bienes con toda claridad y precisión, por el orden siguiente: dinero, alhajas, efectos de comercio o industria, semovientes, frutos, muebles, bienes raíces, documentos y papeles de importancia y bienes ajenos que tenía en su poder el finado en comodato, depósito, prenda o bajo cualquier otro título, expresándose éste.
 
-II. Si los resultados de las actas no coinciden, o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla ni obrare en poder del Presidente del Consejo Distrital o Municipal, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente.
+ARTICULO 625
 
-Para llevar a cabo lo anterior, el Secretario Técnico del Consejo Distrital o Municipal, abrirá el paquete en cuestión y cerciorado de su contenido, contabilizará en voz alta, las boletas no utilizadas, los votos nulos y los votos válidos, asentando la cantidad que resulte en el espacio del acta correspondiente. Al momento de contabilizar la votación nula y válida, los representantes de los partidos políticos así como del candidato independiente que así lo deseen, y un consejero electoral, verificarán que se haya determinado correctamente la validez o nulidad del voto emitido, de acuerdo a lo dispuesto por los artículos 290, párrafo 2 y 291 de la LGIPE.
+La diligencia o diligencias de inventario serán firmadas por todos los concurrentes y en ella se expresará cualquiera inconformidad que se manifestare, precisándose los bienes sobre cuya inclusión o exclusión recae.
 
-Los resultados se anotarán en la forma establecida para ello dejándose constancia en el acta circunstanciada correspondiente; de igual manera, se harán constar en dicha acta las objeciones que hubiese manifestado cualquiera de los representantes ante el Consejo Distrital o Municipal, quedando a salvo sus derechos para impugnar ante el Tribunal el cómputo de que se trate. En ningún caso se podrá interrumpir u obstaculizar la realización de los cómputos.
+ARTICULO 626
 
-En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición o entre las combinaciones marcadas en caso de ser mas de dos partidos políticos coaligados; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación en el computo correspondiente.
+El perito designado valuará todos los bienes inventariados.
 
-III. El Consejo Distrital o Municipal que corresponda, deberá realizar nuevamente el escrutinio y cómputo cuando:
+ARTICULO 627
 
-a) Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado;
+Los títulos y acciones que se coticen en la bolsa de comercio, podrán valuarse por informes de la misma. No será necesario tasar los bienes cuyos precios consten en instrumento público, cuya fecha esté comprendida dentro del año inmediato anterior.
 
-b) Todos los votos hayan sido depositados a favor de un mismo partido o de un candidato independiente, y
+ARTICULO 628
 
-c) El número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugares en votación.
+Practicado el inventario y avalúo, serán agregados a los autos y se pondrán de manifiesto en la secretaría por cinco días, para que los interesados puedan examinarlos, notificándoseles al efecto por correo.
 
-IV. A continuación se abrirán los paquetes con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada respectiva;
+ARTICULO 629
 
-V. Durante la apertura de paquetes electorales conforme a lo señalado en las fracciones anteriores, el Presidente o el Secretario Técnico del consejo respectivo, extraerá:
+Si transcurriese ese término sin haberse hecho oposición, el juez los aprobará sin más trámite. Si se dedujese oposición contra el inventario o avalúo, se substanciará en forma incidental, con una audiencia que será común si fueren varios los opositores, a la que concurrirán los interesados y el perito que hubiese practicado la valorización para que, con las pruebas rendidas, se discuta la cuestión promovida.
 
-a) Los escritos de protesta, si los hubiere;
+Para dar curso a esta oposición, es indispensable expresar concretamente cual es el valor que se atribuye a cada uno de los bienes, cuales se juzgan omitidos o listados indebidamente y cuales sean las pruebas que se invocan como base de la objeción al inventario.
 
-b) La lista nominal correspondiente;
+ARTICULO 630
 
-c) La relación de ciudadanos que votaron y no aparecen en la lista nominal, y
+Si los que dedujeron oposición no asistieren a la audiencia, se les tendrá por desistidos. Si el perito dejare de presentarse, perderá el derecho de cobrar honorarios por los trabajos practicados.
 
-d) Las hojas de incidentes y la demás documentación que determine el Consejo en acuerdo previo a la jornada electoral.
+En la tramitación de este incidente, cada parte podrá proponer el nombramiento de nuevos peritos, quedando responsable de su asistencia, de manera que la audiencia no se suspenderá por la falta de todos o de alguno de los propuestos.
 
-De la documentación así obtenida, se dará cuenta al Consejo Distrital o Municipal, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del Presidente del Consejo Distrital o Municipal de que se trate, para atender los requerimientos que llegare a presentar el Tribunal o el Consejo;
+ARTICULO 631
 
-VI. Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa del representante del partido político que postuló al segundo de los candidatos o bien del representante del candidato independiente en los supuestos antes señalados, el Consejo Distrital o Municipal respectivo, deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento;
+Si los reclamantes fueren varios e idénticas sus oposiciones, deberán nombrar un representante común para la audiencia.
 
-VII. Conforme a lo establecido en la fracción anterior, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital o Municipal respectivo, dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral.
+ARTICULO 632
 
-Para tales efectos, el Presidente del Consejo Distrital o Municipal dará aviso inmediato al Secretario Técnico; ordenará la creación de grupos de trabajo integrados por los representantes de los partidos políticos y del candidato independiente, los asistentes electorales y los consejeros electorales de los cuales presidirá el que designe el Consejero Presidente distrital o municipal en cuestión. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos y los candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+Si las reclamaciones tuvieren por objeto impugnar simultáneamente el inventario y el avalúo respecto de un mismo bien, una misma resolución abarcará las dos oposiciones.
 
-Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se remitirán en su caso al consejo respectivo que las deba contabilizar. Ningún consejo podrá clausurar su sesión, sin antes cerciorarse si en algún otro existen boletas de la elección que le corresponde contabilizar.
+ARTICULO 633
 
-El que presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido político y candidato.
+El inventario hecho por albacea o por heredero, aprovecha a todos los interesados, aunque no hayan sido notificados, incluso a los sustitutos y a los herederos por intestado.
 
-El Presidente del Consejo Distrital o Municipal, realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+El inventario hecho por albacea o por heredero, aprovecha (sic) aprobaron.
 
-Los errores contenidos en las actas originales de escrutinio y cómputo de casilla que sean corregidos por los consejos distritales y municipales siguiendo el procedimiento establecido en este artículo, no podrán invocarse como causa de nulidad ante el Tribunal.
+Aprobado el inventario por el juez o por el consentimiento de todos los interesados, no puede reformarse sino por error o dolo declarados por sentencia.
 
-VIII. Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo de la elección que corresponda, los incidentes que ocurrieren durante la misma, y
+Si pasados los términos que señala el artículo 620, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1684 y 1685 del Código Civil.
 
-IX. Se formará un expediente por cada elección que contendrá:
+La remoción a que se refiere este último precepto será de plano.
 
-a) Copia de las actas levantadas en casilla;
+ARTICULO 634
 
-b) Copia del acta de la sesión de cómputo;
+Los gastos de inventario y avalúo son a cargo de la herencia, salvo cuando el testador hubiere dispuesto otra cosa.
 
-c) Copia del acta del cómputo de la elección correspondiente, y
+### CAPITULO V. De la administración
 
-d) El informe del Presidente del Consejo Distrital o Municipal sobre el desarrollo del proceso electoral y en su caso, copia de los recursos.
+ARTICULO 635
 
-Este expediente deberá remitirse al Consejo.
+El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal, con intervención del albacea, conforme al artículo 193 del Código Civil, y será puesto en ella en cualquier momento en que la pida, aunque antes la haya tenido el albacea u otra persona, sin que por esto pueda empeñarse cuestión alguna.
 
-El resultado de la votación emitida desde el extranjero para la elección de Gobernador, se asentará en las actas respectivas, las cuales se integrarán al expediente de esa elección, en términos de lo dispuesto por el artículo 352 de la LGIPE y los lineamientos que emita el INE.
+Contra el auto que otorgue la posesión y administración al cónyuge, no se admitirá recurso alguno; contra el que la niegue habrá el de apelación en el efecto devolutivo.
 
-###### ARTÍCULO 229.
+ARTICULO 636
 
-El Consejo Distrital o Municipal respectivo, una vez realizado el procedimiento establecido en el artículo anterior, procederá a lo siguiente:
+En el caso del artículo anterior, la intervención del albacea se limitará a vigilar la administración del cónyuge, y en cualquier momento en que observe que no procede convenientemente, dará cuenta al tribunal, quien citará a ambos a una audiencia para dentro de los tres días siguientes, y dentro de otros tres resolverá lo que corresponda.
 
-I. Los Consejos Distritales:
+ARTICULO 637
 
-a) Declarar de validez de la elección de diputados por el principio de mayoría relativa, y publicar los resultados;
+Si la falta de herederos de que trata el artículo 1620 del Código Civil, depende de que el testador declare no ser suyos los bienes, o de otra causa que impida la sucesión por intestado, el albacea judicial durará en su encargo hasta que se entreguen los bienes a su legítimo dueño.
 
-b) Expedir la constancia de mayoría a la fórmula de diputados electos por este principio, y
+ARTICULO 638
 
-c) Remitir los expedientes del cómputo de Gobernador al Consejo.
+Si la falta de herederos depende de la incapacidad legal del nombrado o de renuncia, el albacea judicial durará en su encargo el tiempo señalado en el artículo 1622 del Código Civil.
 
-II. Los Consejos Municipales:
+ARTICULO 639
 
-a) Declarar la validez de la elección del Ayuntamiento, y publicar los resultados, y
+Si por cualquier motivo no hubiere albacea después de un mes de iniciado el juicio sucesorio, podrá el interventor, con autorización del tribunal, intentar las demandas que tengan por objeto recobrar bienes o hacer efectivos los derechos pertenecientes a la sucesión y contestar las demandas que contra ella se promuevan.
 
-b) Expedir la constancia de mayoría a la planilla de miembros del Ayuntamiento ganadora.
+En los casos muy urgentes, podrá el juez, aun antes de que se cumpla el término que se fija en el párrafo que antecede, autorizar al interventor para que demande y conteste a nombre de la sucesión. La falta de autorización no podrá ser invocada por tercero.
 
-### CAPÍTULO III. De los Cómputos en el Consejo
+ARTICULO 640
 
-###### ARTÍCULO 230.
+El interventor solo puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, cuando haya hecho esos gastos con autorización previa.
 
-El Consejo sesionará en forma ininterrumpida a partir de las ocho horas del domingo siguiente al de la elección, a efecto de:
+ARTICULO 641
 
-I. Realizar el cómputo final de la elección de Gobernador del Estado;
+El interventor recibirá como retribución el dos por ciento del importe de los bienes, si no exceden de veinte mil pesos; si exceden de esa suma, pero no de cien mil, tendrá además el uno por ciento sobre el exceso, y si excedieren de cien mil pesos, tendrá el medio por ciento, además, sobre la cantidad excedente.
 
-II. Realizar el cómputo de la Votación Válida Emitida en el Estado para la elección de diputados de mayoría relativa, para efectos de la asignación de las diputaciones por el principio de representación proporcional, y
+El albacea judicial y el tutor, tendrán el mismo honorario que el interventor.
 
-III. Realizar las asignaciones de regidores de representación proporcional.
+ARTICULO 642
 
-###### ARTÍCULO 231.
+El juez abrirá la correspondencia que venga dirigida al difunto, en presencia del secretario y del interventor, en los períodos que se señalen, según las circunstancias. El interventor recibirá la que tenga relación con el caudal, dejándose testimonio de ella en los autos; y el juez conservará la restante para darle en su oportunidad el destino correspondiente.
 
-Para hacer el cómputo final de la elección de Gobernador del Estado y la de diputados, el Consejo se sujetará a las siguientes reglas:
+Todas las disposiciones relativas al interventor regirán respecto del albacea judicial.
 
-I. Se tomará nota de los resultados que consten en las actas de cómputo distritales;
+ARTICULO 643
 
-II. Para la asignación de las diputaciones de representación proporcional se computarán los votos de la elección de diputados de mayoría relativa;
+Durante la sustanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos en los artículos 1650 y 1691 del Código Civil, y en los siguientes:
 
-III. La suma de esos resultados constituirá el cómputo final de la elección correspondiente;
+I.- Cuando los bienes puedan deteriorarse;
 
-IV. Se harán constar en el acta respectiva los resultados del cómputo y los incidentes, y
+II.- Cuando sean de difícil y costosa conservación;
 
-V. Se formará un expediente que contendrá copias de las actas de escrutinio y cómputo distritales, copia del acta del cómputo estatal e informe del Consejero Presidente sobre el desarrollo del proceso electoral. El expediente de la elección de Gobernador también contendrá copia de las actas de cómputo de votos emitidos en el extranjero.
+III.- Cuando para la enajenación de los frutos se presenten condiciones ventajosas.
 
-###### ARTÍCULO 232.
+ARTICULO 644
 
-Una vez concluido el cómputo final de la elección para diputados de mayoría relativa, el Consejo procederá a la asignación de las diputaciones por el principio de representación proporcional y para tal efecto se observará lo siguiente:
+Los libros de cuentas y papeles del difunto, se entregarán al albacea y, hecha la participación, a los herederos reconocidos; observándose respecto a los títulos, lo prescripto en el Capítulo siguiente. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo.
 
-Para que un partido político tenga derecho a participar en la asignación de diputados por el principio de representación proporcional, es necesario que obtenga por lo menos el 3% de la Votación Válida Emitida en la elección de diputados de mayoría relativa y que haya registrado candidatos a diputados por mayoría relativa en por lo menos en catorce de los distritos electorales uninominales.
+ARTICULO 645
 
-Los candidatos independientes no podrán acceder a cargos bajo el principio de representación proporcional.
+Si nadie se hubiere presentado alegando derechos a la herencia, o no hubieren sido reconocidos los que se hubiesen presentado y se hubiere declarado heredero al Fisco del Estado, se entregarán a éste los bienes y los libros y papeles que tengan relación con ellos. Los demás se archivarán en los autos del intestado, en un pliego sellado y cerrado, en cuya cubierta firmarán el juez, el Ministerio Público y el secretario.
 
-###### ARTÍCULO 233.
+ARTICULO 646
 
-Las normas para la asignación de curules de representación proporcional son las siguientes:
+Aprobados el inventario y el avalúo de los bienes y terminados todos los incidentes a que uno y otro hayan dado lugar, se procederán a la liquidación del caudal.
 
-I. Todos los partidos que hayan obtenido por lo menos el 3% de la Votación Válida Emitida en el Estado, tendrán derecho a participar en la asignación de diputados de representación proporcional;
+### CAPITULO VI. De la rendición de cuentas
 
-II. La asignación de diputados por este principio, se hará considerando como votación estatal emitida, la que resulte de deducir de la Votación Válida Emitida en el Estado, los votos a favor de los partidos políticos que no hayan obtenido el 3% de la Votación Válida Emitida en el Estado, los votos de los candidatos independientes y los votos nulos;
+ARTICULO 647
 
-III. Para distribuir las diputaciones, se utilizará la fórmula electoral siguiente:
+El interventor, el cónyuge, en el caso del artículo 635, y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir dentro de los cinco primeros días de cada año del ejercicio de su cargo, las cuentas de su administración correspondiente al año anterior, pudiendo el juez de oficio exigir el cumplimiento de este deber.
 
-a) Porcentaje Mínimo: Lo representa el 3% de la Votación Válida Emitida;
+ARTICULO 648
 
-b) Cociente electoral: Se calcula dividiendo la suma de los porcentajes obtenidos con respecto a la votación válida emitida estatal por los partidos políticos con derecho a participar en la asignación deducido el 3%, entre el número de curules a repartir, y
+Las cantidades que resulten líquidas se depositarán, a disposición del juzgado, en el establecimiento destinado por la ley.
 
-c) Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de curules mediante el cociente electoral. El resto mayor se utilizará cuando aún hubiese diputaciones por distribuir.
+ARTICULO 649
 
-IV. Para la aplicación de la fórmula se observará el siguiente procedimiento:
+La garantía otorgada por el interventor o por el albacea no se cancelará sino hasta que haya sido aprobada la cuenta general de administración.
 
-a) A los partidos políticos que hayan obtenido el 3% o más de la Votación Válida Emitida, se le asignará una diputación en orden decreciente de la votación válida emitida que hayan obtenido. En caso de empate porcentual, se asignará al partido político que obtenga el mayor número de votos;
+ARTICULO 650
 
-b) En segundo término se asignará una diputación adicional a cada uno de los partidos políticos que, una vez deducido el 3%, alcancen el cociente electoral, y
+Cuando el que administre no rinda dentro del término legal su cuenta anual, será removido de plano. También será removido, a juicio del juez y a solicitud de cualquiera de los interesados, cuando alguna de las cuentas no quede aprobada en su totalidad.
 
-c) Si aún quedaren curules por repartir, éstas se asignarán utilizando los restos mayores.
+ARTICULO 651
 
-En la asignación de las curules a los partidos políticos, se deberá estar a lo establecido por el artículo 150 de este Código.
+Cuando no alcancen los bienes para pagar las deudas y legados, el albacea debe dar cuenta de su administración a los acreedores y legatarios.
 
-###### ARTÍCULO 234.
+ARTICULO 652
 
-Todo partido político que obtenga el triunfo en la totalidad de los distritos uninominales, no tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional.
+Concluídas las operaciones de liquidación dentro de los ocho días siguientes, presentará el albacea su cuenta general de albaceazgo; si no lo hace, se le apremiará por los medios legales, siendo aplicables las reglas de ejecución de sentencia.
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de Votación Emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su Votación Emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+ARTICULO 653
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+Presentada la cuenta mensual, anual o general de administración, se mandará poner en la Secretaría, a disposición de los interesados, por un término de diez días, para que se impongan de ella.
 
-###### ARTÍCULO 235.
+ARTICULO 654
 
-Con base en los resultados finales de los cómputos de la elección de Ayuntamiento, el Consejo procederá a la asignación de regidurías de representación proporcional a los partidos políticos y planillas de candidatos independientes que tenga derecho a participar en la misma, para lo que es preciso observar lo siguiente:
+Si todos los interesados aprobaren la cuenta, o no la impugnaren, el juez la aprobará. Si alguno o algunos de los interesados no estuvieren conforme, se tramitará el incidente respectivo, pero es indispensable, para que se le dé curso, precisar la objeción y que los que sostengan la misma pretensión nombren representante común.
 
-I. No haber obtenido la mayoría relativa de la elección en el Municipio de que se trate, y
+El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
-II. Que la votación recibida a su favor sea igual o mayor al 2.5% de la Votación Válida Emitida en el Municipio correspondiente.
+ARTICULO 655
 
-###### ARTÍCULO 236.
+Concluído y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-Para la asignación de regidores por el principio de representación proporcional, se procederá de la siguiente forma:
+### CAPITULO VII. De la liquidación y partición de la herencia
 
-I. Porcentaje mínimo: Es el 2.5% de la Votación Válida Emitida;
+ARTICULO 656
 
-II. Cociente electoral: Se calcula dividiendo la suma de los porcentajes obtenidos con respecto a la votación válida emitida en el municipio por los partidos políticos con derecho a participar en la asignación deducido el 2.5%, entre el número de regidurías a repartir, y
+El albacea, dentro de los quince días después de aprobado el inventario, presentará al juzgado un proyecto para la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos y legatarios, en proporción a su haber. La distribución de los productos se hará en efectivo o en especie.
 
-III. Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución mediante el cociente electoral.
+ARTICULO 657
 
-Para la aplicación de la fórmula se observará el siguiente procedimiento:
+Presentado el proyecto, mandará el juez ponerlo a la vista de los interesados, por cinco días.
 
-a) A los partidos políticos que hayan obtenido el 2.5% o más de la Votación Válida Emitida en el Municipio, se le asignará una regiduría, en orden decreciente al porcentaje alcanzado en la elección;
+Si los interesados están conformes o nada exponen dentro del término de la vista, lo aprobará el juez y mandará abonar a cada uno la porción que le corresponda. La inconformidad expresa se substanciará en forma incidental.
 
-b) Si quedaren regidurías, se asignará una regiduría adicional a cada uno de los partidos políticos que, una vez deducido el 2.5%, alcancen el cociente electoral, en orden decreciente al porcentaje alcanzado en la elección, y
+ARTICULO 658
 
-c) Si aún quedaren regidurías por repartir, éstas se asignarán utilizando los restos mayores.
+Cuando los productos de los bienes variaren de bimestre a bimestre, el albacea presentará su proyecto de distribución por cada uno de los períodos indicados. En este caso, deberá presentarse el proyecto dentro de los primeros cinco días del bimestre.
 
-###### ARTÍCULO 237.
+ARTICULO 659
 
-El Consejo, una vez realizados los cómputos finales procederá:
+Aprobada la cuenta general de administración, dentro de los quince días siguientes, presentará el albacea el proyecto de partición de los bienes, en los términos que dispone el Código Civil y con sujeción a este Capítulo, y si no hiciere por sí mismo la partición, lo manifestará al juez dentro de los tres días de aprobada la cuenta, a fin de que se nombre contador que la haga.
 
-I. A declarar la validez de la elección y expedir constancia de mayoría al Gobernador electo, y
+ARTICULO 660
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Será separado el albacea en los siguientes casos:
 
-II. A expedir las constancias de asignación de diputados de representación proporcional y de regidores por el mismo principio, a los partidos y en su caso, a las planillas de candidatos independientes que les corresponda. De lo anterior informará al Congreso del Estado y a los municipios respectivos.
+I.- Si no presentare el proyecto de partición dentro del término indicado en el artículo anterior o dentro de la prórroga que le concedan los interesados por mayoría de votos;
 
-###### ARTÍCULO 238.
+II.- Cuando no haga la manifestación a que se refiere el final del artículo anterior, dentro de los tres días que sigan a la aprobación de la cuenta;
 
-El Presidente del Consejo, agregará al expediente de la elección de Gobernador, la siguiente documentación:
+III.- Si no presentare el proyecto de distribución provisional de los productos de los bienes hereditarios, dentro de los plazos mencionados en los artículos 656 y 658, y
 
-I. Copia certificada de la plataforma del partido político o coalición que haya propuesto al candidato electo o bien la presentada por el candidato independiente electo;
+IV.- Cuando durante dos bimestres consecutivos, sin justa causa, deje de cubrir a los herederos o legatarios las porciones de frutos correspondientes.
 
-II. Copia certificada de la solicitud de registro del candidato electo, así como de toda la documentación anexa;
+ARTICULO 661
 
-III. Copia certificada de la cédula y del acuerdo de recepción de la solicitud de registro del candidato electo;
+Tienen derecho a pedir la partición de la herencia:
 
-IV. Copia certificada de la resolución emitida por parte del Consejo, con respecto a las solicitudes de registro de candidatos presentadas por el partido político o coalición a la que pertenezca el candidato electo, o en su caso, del candidato independiente;
+I.- El heredero que tenga la libre disposición de sus bienes, en cualquier tiempo que lo solicite, siempre que hayan sido aprobados los inventarios y rendida la cuenta de administración; puede, sin embargo, hacerse la partición antes de la rendición de cuentas o de su aprobación, si así lo conviniere la mayoría de los herederos;
 
-V. Copia certificada de la constancia de registro del candidato electo;
+II.- Los herederos bajo condición, luego que se haya cumplido ésta;
 
-VI. Copia certificada de cada una de las actas de cómputo distrital de la elección de Gobernador, debiéndose precisar el contenido de éstas, así como establecer los criterios y bases para el armado del expediente de la elección de Gobernador;
+III.- El cesionario y el acreedor de un heredero que haya trabado ejecución en los derechos que tenga en la herencia, siempre que hubiere obtenido sentencia de remate y no haya otros bienes con que hacer el pago;
 
-VII. Copia certificada del acta de cómputo final de la elección de Gobernador;
+IV.- Los coherederos del heredero condicional, siempre que aseguren los derechos de éste, para el caso de que se cumpla la condición, hasta saberse que ésta ha faltado o no puede ya cumplirse, y sólo por lo que respecta a la parte en que consiste el derecho pendiente y a las cauciones con que se haya asegurado. El albacea o el contador partidor, en su caso, proveerá al aseguramiento del derecho pendiente;
 
-VIII. Copia certificada de la constancia de mayoría del candidato electo;
+V.- Los herederos del heredero que muera antes de la partición.
 
-IX. Copia certificada del acta que, con motivo de la sesión ininterrumpida, levante el Consejo, y
+ARTICULO 662
 
-X. Certificación emitida por parte del Secretario Ejecutivo con respecto a la existencia de algún medio de impugnación con respecto de la elección de Gobernador.
+Cuando el albacea no haga la petición por sí mismo, promoverá dentro del tercer día de aprobada la cuenta, la elección de un contador o abogado con título oficial registrado en el asiento del tribunal, para que haga la distribución de los bienes. El juez convocará a los herederos por medio del correo, a una junta que se celebrará dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
 
-El Presidente del Consejo, procederá al resguardo de los expedientes de las elecciones de Gobernador, diputados y ayuntamientos, hasta por el término de dos años, debiéndolos remitir al Tribunal en caso de que éste los requiera.
+Sin (sic) no hubiere mayoría, el juez nombrará partidor eligiéndolo entre los propuestos.
 
-## TÍTULO SEXTO. DEL VOTO DE LOS MEXICANOS RESIDENTES EN EL EXTRANJERO
+El cónyuge, aunque no tenga el carácter de heredero, será tenido como parte, si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+ARTICULO 663
 
-###### ARTÍCULO 239.
+El juez pondrá a disposición del partidor los autos y bajo inventario los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de treinta días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, de ser separado de plano de su cargo y de multa de cinco a cien pesos.
 
-Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador, de conformidad con lo previsto en el artículo 12, párrafo segundo de la Constitución, en el Libro Sexto de la LGIPE, así como en los lineamientos y acuerdos que emita el INE.
+ARTICULO 664
 
-# LIBRO CUARTO. DE LOS REGÍMENES SANCIONADOR ELECTORAL, DISCIPLINARIO INTERNO Y DEL MINISTERIO PÚBLICO
+El partidor pedirá a los interesados las instrucciones que juzgue necesarias, a fin de hacer las adjudicaciones de conformidad con ellos en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones.
 
-## TÍTULO PRIMERO. DE LAS FALTAS ELECTORALES Y SU SANCIÓN
+Puede ocurrir al juez para que por correo convoque a una junta, a fin de que en ella los interesados fijen de común acuerdo las bases para la partición, que se considerará como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
 
-### CAPÍTULO I. De los Sujetos, Responsabilidades y Sanciones
+En todo caso, al hacerse la división, se separarán los bienes que correspondan al cónyuge que sobreviva, conforme a las capitulaciones matrimoniales o a las disposiciones que regulan la sociedad conyugal.
 
-###### ARTÍCULO 240.
+ARTICULO 665
 
-En la sustanciación de los procedimientos sancionadores, se aplicará supletoriamente lo establecido en el Libro Quinto de este Código, referente a los Medios de Impugnación.
+El proyecto de partición se sujetará en todo caso a la designación de partes que haya hecho el testador.
 
-###### ARTÍCULO 241.
+A falta de convenio entre los interesados, se incluirán en cada porción bienes de la misma especie, si fuere posible.
 
-Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en este Código:
+Si hubiere bienes gravados, se especificarán los gravámenes indicando el modo de redimirlos o de dividirlos entre los herederos.
 
-I. Los partidos políticos;
+ARTICULO 666
 
-II. Las asociaciones políticas;
+Concluído el proyecto de partición, el juez lo mandará poner a la vista de los interesados en la secretaría por un término de cinco días.
 
-III. Los aspirantes, precandidatos, candidatos o candidatos independientes a cargos de elección popular;
+Vencidos sin hacerse oposición, el juez aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada interesado los bienes que le hubieren sido aplicados con los títulos de propiedad, después de ponerse en ellos, por el secretario, una nota en que se haga constar la adjudicación.
 
-IV. Los ciudadanos, dirigentes y afiliados a los partidos políticos o cualquier persona física o moral;
+ARTICULO 667
 
-V. Los observadores electorales o las organizaciones de observadores electorales;
+Si se dedujese oposición contra el proyecto, se sustanciará en forma incidental, procurando que, si fueren varias, la audiencia sea común, y a ella concurrirán los interesados y el partidor, para que se discutan las cuestiones promovidas y se reciban pruebas.
 
-VI. Las autoridades o los servidores públicos federales, estatales, municipales, órganos autónomos, y cualquier otro ente público;
+Para dar curso a esa oposición, es indispensable expresar concretamente cuál es el motivo de la inconformidad y cuáles son las pruebas que se invocan como base de la oposición.
 
-VII. Los notarios públicos;
+Si los que se opusieron dejaren de asistir a la audiencia, se les tendrá por desistidos.
 
-VIII. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
+ARTICULO 668
 
-IX. Los consejeros, funcionarios y trabajadores del Instituto, y
+Todo legatario de cantidad tiene derecho para pedir que se le apliquen en pago bienes de la herencia, y a ser tenido como interesado en las diligencias de partición.
 
-X. Los demás sujetos obligados en los términos del presente Código.
+ARTICULO 669
 
-###### ARTÍCULO 242.
+Pueden oponerse a que se lleve a efecto la partición:
 
-Constituyen infracciones de los partidos políticos al presente Código:
+I.- Los acreedores hereditarios legalmente reconocidos, mientras no se pague su crédito si ya estuviere vencido, y si no lo estuviere, mientras no se les asegure debidamente el pago;
 
-I. El incumplimiento de las obligaciones señaladas en la LGPP, la LGIPE y en el Capítulo V del Título Tercero del Libro Primero de este Código;
+II.- Los legatarios de cantidad, de alimento, de educación y de pensiones, mientras no se les pague o garantice legalmente el derecho.
 
-II. El incumplimiento de las resoluciones o acuerdos del Instituto o del Tribunal;
+ARTICULO 670
 
-III. El incumplimiento de las obligaciones, prohibiciones y topes que en materia de financiamiento y fiscalización les impone la LGIPE y el presente Código;
+La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la ley exige para su venta. El notario ante quien deba otorgarse la escritura será designado por el albacea.
 
-IV. No presentar los informes trimestrales, anuales, de precampaña o de campaña, o no atender los requerimientos de información de la Contraloría Interna, en los términos y plazos previstos en la LGPP, este Código y las disposiciones reglamentarias;
+ARTICULO 671
 
-V. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos;
+La escritura de partición, cuando haya lugar a su otorgamiento, deberá contener además de los requisitos legales:
 
-VI. Exceder los topes de gastos de campaña,o (sic) los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas;
+I.- Los nombres, medidas y linderos de los predios adjudicados, con expresión de la parte que cada heredero adjudicatario, tenga obligación de devolver si el precio de la cosa excede al de su porción o de recibir si falta;
 
-VII. El incumplimiento de las demás disposiciones previstas en la LGIPE y en el presente Código en materia de precampañas y campañas electorales;
+II.- La garantía especial que para la devolución del exceso constituya el heredero en el caso de la fracción que precede;
 
-VIII. La difusión de propaganda política o electoral que calumnie a las personas;
+III.- La enumeración de los muebles o cantidades repartidas;
 
-IX. El incumplimiento de las obligaciones establecidas en la LGPP en materia de transparencia y acceso a su información;
+IV.- Noticia de la entrega de los títulos de las propiedades adjudicadas o repartidas;
 
-X. El incumplimiento de las reglas establecidas en la LGPP y en el presente Código, para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
+V.- Expresión de las cantidades que algún heredero quede reconociendo a otro y de la garantía que haya constituído;
 
-XI. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+VI.- La firma de todos los interesados.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 672
 
-XII. Conductas graves por las que se viole reiteradamente la CPEUM, la LGPP y este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos;
+La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+### CAPITULO VIII. De la transmisión hereditaria del patrimonio familiar
 
-XIII. La realización de actos u omisiones que constituyan violencia política de género, o de cualquier otro que limite, condicione, excluya o impida el ejercicio efectivo de los derechos político-electorales de las personas y su acceso o pleno ejercicio de las atribuciones inherentes a su cargo o función, sea del poder público o partidista, y
+ARTICULO 673
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+En todo lo relativo a la sucesión de los bienes del patrimonio familiar, se observarán las disposiciones de este Título, que no se opongan a las siguientes reglas:
 
-XIV. El incumplimiento de cualquier disposición contenida en este Código.
+I.- Con el certificado de defunción del autor de la herencia, se acompañarán los comprobantes de la constitución del patrimonio familiar y su registro; así como el testamento o la denuncia del intestado;
 
-Las infracciones cometidas por los partidos políticos se sancionarán, según la gravedad, de la siguiente manera:
+II.- El inventario y avalúo se harán por el cónyuge que sobreviva o por el albacea, si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 
-I. Con amonestación pública;
+III.- El juez convocará a una junta a los interesados, nombrando en ella tutores especiales a los menores que no tuvieren representante legítimo, o cuando el interés de éstos fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales que presten servicios al Erario, para que en el término de cinco días, presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a la que serán convocados por correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+IV.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado que se hará con copia;
 
-II. Las señaladas en las fracciones I, II, III, IV, V, VII, VIII, IX, X, XI y XIV del párrafo anterior, con multa de diez hasta diez mil veces el valor diario de la Unidad de Medida y Actualización;
+V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados;
 
-III. En los casos de infracción a lo dispuesto a la fracción VI del párrafo anterior, con multa de un tanto igual al monto ejercido en exceso y hasta un 30% más de dicho monto;
+VI.- La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+### CAPITULO IX. De la tramitación por notarios
 
-IV. La referida en la fracción XII del párrafo anterior, con la cancelación de su acreditación o registro estatal;
+ARTICULO 674
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Cuando todos los herederos fueren mayores de edad o se encuentren en los otros casos del artículo 587, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna, con arreglo a lo que se establece en los artículos siguientes.
 
-V. La referida en la fracción XIII del párrafo anterior, con multa de doscientos hasta diez mil veces el valor diario de la unidad de medida y actualización, sin perjuicio de las sanciones que procedan de conformidad con otras leyes, y
+ARTICULO 675
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+El albacea, si lo hubiere, y los herederos, exhibiendo la partida de defunción del autor de la herencia, y un testimonio del testamento en su caso, se presentarán ante un notario para hacer constar que aceptan la herencia, que se reconocen entre sí sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
-VI. En caso de reincidencia en la comisión de las infracciones referidas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII y XIV del párrafo anterior, la multa será de hasta un cien por ciento más en sus mínimos y máximos. En caso de reincidencia de las infracciones referidas en las fracciones III, V, VI, VIII y XIII del párrafo anterior, también se aplicará la reducción del cinco por ciento hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por un periodo que podrá ir de tres a doce meses.
+El notario dará a conocer estas declaraciones por medio de dos publicaciones que serán hechas de diez en diez días, en la "Gaceta Oficial" del Estado y en otro periódico de los de más circulación.
 
-###### ARTÍCULO 243.
+ARTICULO 676
 
-Constituyen infracciones de las asociaciones políticas, al presente Código:
+Practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al notario para que lo protocolice.
 
-I. No acreditar ante el Consejo, a su titular del órgano de administración, finanzas o equivalente, responsable del debido destino de los recursos públicos que les son asignados;
+ARTICULO 677
 
-II. No proporcionar la información y documentación que sea requerida por la Contraloría Interna, a fin de realizar los trabajos de fiscalización respectivos;
+Formado por el albacea con la aprobación de los herederos el proyecto de partición de la herencia, lo exhibirá al notario, quien efectuará su protocolización.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el notario suspenderá su intervención.
 
-III. Participar en procesos electorales locales, con coaliciones, candidaturas comunes y con candidatos independientes;
+ARTICULO 678
 
-IV. Participar en procesos electorales locales con un partido político, sin que exista el acuerdo de participación respectivo, registrados ante el Instituto;
+Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este Capítulo.
 
-V. Utilizar las denominaciones de "partido" o "partido político" para ostentarse;
+### CAPITULO X. Del testamento público cerrado
 
-VI. No presentar ante el Consejo su informe cuatrimestral de sus actividades;
+ARTICULO 679
 
-VII. Por no refrendar su registro cada tres años mediante la ratificación que acuerden sus miembros en asamblea general, refrendo que deberá ser acreditado y aprobado por el Consejo previa integración del expediente respectivo en los términos del trámite para el registro inicial, y
+Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el sobre que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
 
-VIII. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+ARTICULO 680
 
-Las infracciones referidas en el párrafo anterior se sancionarán, según la gravedad, de la siguiente manera:
+Cumplido lo prescripto en sus respectivos casos por los artículos 1475 a 1480 del Código Civil, el juez, en presencia del notario, testigos, representante del Ministerio Público y secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
 
-I. Con amonestación pública;
+En seguida firmarán al margan (sic) del testamento las personas que hayan intervenido en la diligencia, con el juez y el secretario, y se le pondrá el sello del juzgado, asentándose acta de todo ello.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 681
 
-II. Las señaladas en las fracciones I, II y VIII del párrafo anterior, con multa de cincuenta hasta mil veces el valor diario de la Unidad de Medida y Actualización;
+Será preferida para la protocolización de todo testamento cerrado, la notaría del lugar en que haya sido abierto, y si hubiere varias, se preferirá la que designe el promovente.
 
-III. Las señaladas en las fracciones III, IV y V del párrafo anterior, con la suspensión del registro por seis y hasta veinticuatro meses, y
+ARTICULO 682
 
-IV. Las señaladas en las fracciones VI y VII del párrafo anterior, con pérdida de su registro.
+Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar por un mismo notario, para los efectos a que haya lugar en los casos previstos por los artículos 1427 y 1429 del Código Civil.
 
-Las asociaciones políticas podrán perder su registro, por las demás causas señalas en el artículo 63 del presente Código.
+### CAPITULO XI. De la declaración de ser formal el testamento autógrafo
 
-###### ARTÍCULO 244.
+ARTICULO 683
 
-Constituyen infracciones de los aspirantes, precandidatos, candidatos o candidatos independientes a cargos de elección popular, al presente Código:
+El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento autógrafo, como se dispone en el artículo 1486 del Código Civil, dirigirá oficio al encargado del Registro Público, en que se hubiere hecho el depósito, pidiéndole remita el pliego cerrado en que el testador declaró contenida su última voluntad.
 
-I. Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o metales y piedras preciosas;
+ARTICULO 684
 
-II. Omitir en los informes respectivos los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña;
+Recibido el pliego, el tribunal procederá como se dispone en el artículo 1494 del Código Civil.
 
-III. No presentar el informe de gastos de precampaña o campaña establecidos en este Código;
+ARTICULO 685
 
-IV. La difusión de propaganda política o electoral que calumnie a las personas;
+Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
-V. Exceder el tope de gastos de precampaña o campaña establecido por el Consejo;
+### CAPITULO XII. Declaración de ser formal el testamento privado
 
-VI. La realización de actos anticipados de precampaña o campaña, según sea el caso;
+ARTICULO 686
 
-VII. Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
+A instancia de parte legítima formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado de una persona, sea que conste por escrito o sólo de palabra en el caso del artículo 1501 del Código Civil.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 687
 
-VIII. En el caso de los aspirantes o precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código;
+Es parte legítima para los efectos del artículo anterior:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+I.- El que tuviere interés en el testamento;
 
-IX. La acción u omisión que constituya violencia política de género, y
+II.- El que hubiere recibido en él algún encargo del testador.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 688
 
-X. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+Hecha la solicitud, se señalarán día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
 
-Las infracciones referidas en el párrafo anterior se sancionarán, según la gravedad, de la siguiente manera:
+Para la información se citará al representante del Ministerio Público, quien tendrá la obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
 
-I. Con amonestación pública;
+Los testigos declararán al tenor del interrogatorio respectivo, que se sujetará estrictamente a lo dispuesto en el artículo 1507 del Código Civil.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+Recibidas las declaraciones, el tribunal procederá conforme al artículo 1508 del Código Civil.
 
-II. Las señaladas en las fracciones I, II, III y X del párrafo anterior, con multa de cuarenta hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización;
+ARTICULO 689
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+De la resolución que niegue la declaración solicitada, pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-III. Las señaladas en las fracciones IV y V del párrafo anterior, con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
+### CAPITULO XIII. Del testamento militar
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 690
 
-IV. La referida en la fracción IX del párrafo anterior, con multa de cien hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, con la pérdida del derecho del precandidato o aspirante infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo, sin perjuicio de las sanciones que procedan de conformidad con otras leyes, y
+Luego que el tribunal reciba, por conducto del Secretario de Guerra, el parte a que se refiere el artículo 1514 del Código Civil, citará a los testigos que estuvieren en el lugar y, respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 691
 
-V. Las señaladas en las fracciones VI, VII y VIII del párrafo anterior, con la pérdida del derecho del precandidato o aspirante infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo.
+De la declaración judicial se remitirá copia autorizada al Secretario de Guerra.
 
-Cuando las infracciones cometidas por precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate, sin embargo cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como su candidato.
+En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-###### ARTÍCULO 245.
+### CAPITULO XIV. Del testamento marítimo
 
-Las infracciones cometidas por los Candidatos Independientes, también se sancionarán, según su gravedad, de la siguiente manera:
+ARTICULO 692
 
-I. Con amonestación pública;
+Hecha la publicación que ordena el artículo 1523 del Código Civil, podrán los interesados ocurrir al tribunal competente, para que pida al Gobierno del Estado, o a quien lo tenga en su poder, la remisión del testamento.
 
-II. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
+### CAPITULO XV. Del testamento hecho en país extranjero
 
-III. En caso de que el aspirante omita informar y comprobar a la unidad de fiscalización del INE, o en su caso a la Contraloría Interna los gastos tendentes a recabar el apoyo ciudadano, no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable, y
+ARTICULO 693
 
-IV. En caso de que el Candidato Independiente omita informar y comprobar a la unidad de fiscalización del INE, o en su caso a la Contraloría Interna los gastos de campaña y no los reembolse, no podrá ser registrado como candidato en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
+Si el testamento fuere autógrafo, luego que lo reciba el encargado del Registro Público, tomará razón en el libro a que se refiere el artículo 1490 del Código Civil, asentando acta en la que hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul, por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título Tercero, Libro Tercero del Código Civil.
 
-###### ARTÍCULO 246.
+ARTICULO 694
 
-Constituyen infracciones de los ciudadanos, de los dirigentes de partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:
+Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al autógrafo, como está dispuesto para esas clases de testamentos otorgados en el país.
 
-I. La negativa a entregar la información requerida por el Instituto, entregarla en forma incompleta o con datos falsos o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
+TITULO DECIMOSEXTO
 
-II. Realizar donativos o aportaciones que violen lo dispuesto en este Código, a partidos políticos, aspirantes, precandidatos o candidatos;
+DE LA JURISDICCION VOLUNTARIA
 
-III. La promoción de denuncias o quejas frívolas, que serán:
+### CAPITULO I. Disposiciones generales
 
-a) Las demandas o promociones en las cuales se formulen pretensiones que no se pueden alcanzar jurídicamente, por ser notorio y evidente que no se encuentran al amparo del derecho;
+ARTICULO 695
 
-b) Aquéllas que refieran hechos que resulten falsos o inexistentes de la sola lectura cuidadosa del escrito y no se presenten las pruebas mínimas para acreditar su veracidad;
+La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
-c) Aquéllas que se refieran a hechos que no constituyan una falta o violación electoral, y
+Nunca se practicará diligencia alguna de jurisdicción voluntaria de que pueda resultar perjuicio a la Hacienda Pública. Las que se practiquen en contravención a lo dispuesto en este artículo, no producirán efecto legal.
 
-d) Aquéllas que únicamente se fundamenten en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
+El Ministerio Público cuidará del cumplimiento de esta disposición.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 696
 
-IV. Realizar actos u omisiones que constituyan violencia política de género, y
+Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndose en la notificación que quedan por tres días las actuaciones en la secretaría del juzgado para que se imponga de ellas, señalándole a la vez día y hora para la audiencia, a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 697
 
-V. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+Se oirá precisamente al Ministerio Público:
 
-Las infracciones referidas en el párrafo anterior se sancionarán, según la gravedad, de la siguiente manera:
+I.- Cuando la solicitud promovida afecte los intereses públicos;
 
-I. Con amonestación pública;
+II.- Cuando se refiera a la persona o bienes de menores o incapacitados;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+III.- Cuando tenga relación con los derechos o bienes de un ausente;
 
-II. Las señaladas en las fracciones I y V del párrafo anterior, con multa de diez a cien veces el valor diario de la unidad de medida y actualización;
+IV.- Cuando lo dispusieren las leyes.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 698
 
-III. Las señaladas en las fracciones II y IV del párrafo anterior, cuando se cometa por ciudadanos, o dirigentes de los partidos políticos, con multa de cien a quinientas veces el valor diario de la unidad de medida y actualización, sin perjuicio de las sanciones que procedan de conformidad con otras leyes;
+Si a la solicitud promovida se opusiere parte legítima, se seguirá el negocio en procedimiento incidental, siempre que la oposición no se funde en la negativa del derecho del que promueve el negocio de jurisdicción voluntaria. En tal caso, se sustanciará el pleito conforme a los trámites establecidos para el juicio.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 699
 
-IV. Las señaladas en las fracciones II y IV del párrafo anterior, cuando se cometa por personas morales, con multa de quinientos a diez mil veces el valor diario de la unidad de medida y actualización, sin perjuicio de las sanciones que procedan de conformidad con otras leyes, y
+El juez podrá variar o modificar las providencias que dictare, sin sujeción estricta a los términos y formas establecidos respecto de la jurisdicción contenciosa.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recurso alguno.
 
-V. La señalada en la fracción III del párrafo anterior, con amonestación pública y, en caso de reincidencia, con multa de cien hasta trescientas veces el valor diario de la unidad de medida y actualización.
+Las resoluciones dictadas en jurisdicción voluntaria, son apelables en ambos efectos, salvo disposición expresa en contrario.
 
-Para la individualización de las sanciones, se estará a lo previsto en el artículo 251 de este Código.
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
-###### ARTÍCULO 247.
+ARTICULO 700
 
-Constituyen infracciones de los observadores electorales y de las organizaciones con el mismo propósito, al presente Código:
+Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
 
-I. El incumplimiento de las obligaciones que les impone la LGIPE, y
+La declaración de estado de minoridad o de demencia, puede pedirse:
 
-II. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+I.- Por el mismo menor;
 
-Las infracciones referidas en el párrafo anterior se sancionarán, según la gravedad, de la siguiente manera:
+II.- Por su cónyuge;
 
-I. Con amonestación pública;
+III.- Por sus presuntos herederos legítimos;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+IV.- Por el albacea, y
 
-II. Con multa de uno hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, y
+V.- Por el Ministerio Público.
 
-III. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarse como tales en al menos dos procesos electorales.
+Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
 
-###### ARTÍCULO 248.
+ARTICULO 701
 
-Constituyen infracciones al presente Código de las autoridades o los servidores públicos federales, estatales, municipales, órganos autónomos, y cualquier otro ente público:
+Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará inmediatamente a una audiencia dentro del tercero día, a la que concurrirán el menor, si fuere posible, y el Ministerio Público. En ella, con o sin la asistencia de éste, y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
-I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+ARTICULO 702
 
-II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
+La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en incidente que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
-III. El incumplimiento del principio de imparcialidad establecido en el artículo 134 de la CPEUM así como en el artículo 89 de la Constitución, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, mujer, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos, serán preferidos los mayores de edad.
 
-IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la CPEUM;
+En el caso de no haber ninguna de las personas indicadas, o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+ARTICULO 703
 
-V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
+En el incidente a que se refiere el artículo anterior, se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+I.- La tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
 
-VI. La acción u omisión que constituya violencia política de género, y
+II.- El estado de demencia puede probarse por testigos o documentos, pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas. El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2017)</small>
+III.- Si el auto de primera instancia fuere declaratorio de estado, proveerá el juez, aunque fuere apelado o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo guarda del presunto incapacitado, y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
 
-VII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino.
 
-Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se estará a lo siguiente:
+V.- Luego que cause ejecutoria la sentencia de interdicción, se proveerá a discernir el cargo al tutor propietario en los términos de ley.
 
-I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
+ARTICULO 704
 
-II. El superior jerárquico a que se refiere la fracción anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso, y
+Todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el Código Civil, para que se le discierna el cargo, a no ser que la ley lo exceptuare expresamente.
 
-III. Si la autoridad infractora no tuviese superior jerárquico, se procederá en los términos que señala la Constitución relativo a la responsabilidad de los servidores públicos y responsabilidad patrimonial del Estado.
+El tutor debe manifestar si acepta o no el cargo dentro de los cinco días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas, disfrutando un día más por cada cuarenta kilómetros que medien entre su domicilio y el lugar de la residencia del juez competente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2017)</small>
+Cuando el impedimento o la causa legal de excusa ocurrieren después de la admisión de la tutela, los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de excusa.
 
-Las faltas cometidas por las autoridades o los servidores públicos federales, estatales, municipales, órganos autónomos, y cualquier otro ente público a lo establecido por las fracciones II, III, IV, V y VI del párrafo primero de este artículo, se sancionarán con multa de mil a diez mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones que procedan de conformidad con otras leyes.
+La aceptación o el lapso de los términos en su caso, importan renuncia de la excusa.
 
-###### ARTÍCULO 249.
+ARTICULO 705
 
-Constituyen infracciones de los notarios públicos al presente Código, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y de los candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
+El menor podrá oponerse al nombramiento de tutor hecho por la persona, que no siendo ascendiente le haya instituído heredero o legatario, cuando tuviere dieciséis años o más.
 
-Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente Código les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable; esta última deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+ARTICULO 706
 
-###### ARTÍCULO 250.
+Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
 
-Constituyen infracciones al presente Código de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
+ARTICULO 707
 
-I. La inducción a la abstención, o a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
+En los juzgados de primera instancia, bajo el cuidado y responsabilidad del juez pupilar y a disposición del consejo de tutelas, habrá un registro en el que se pondrá testimonio simple de todos los discernimientos que se hicieren del cargo de tutor o curador.
 
-II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular, y
+ARTICULO 708
 
-III. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas (sic) este Código.
+Dentro de los ocho primeros días de cada año, en audiencia pública, con citación del consejo de tutelas y del Ministerio Público, se procederá a examinar dicho registro y en su vista, se dictarán las siguientes medidas:
 
-Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación del Gobierno Federal para los efectos legales conducentes.
+I.- Si resultare haber fallecido algún tutor, harán que sea reemplazado con arreglo a la ley;
 
-###### ARTÍCULO 251.
+II.- Si hubiere alguna cantidad de dinero depositada para destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
 
-Para la individualización de las sanciones a que se refiere este Libro, una vez acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
+III.- Exigirán que rindan cuentas los tutores que deban darla y por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 520 del Código Civil;
 
-I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de este Código, en atención al bien jurídico tutelado, o las que se dicten con base en él;
+IV.- Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 468, 469 y 484 del Código Civil y de pagado el tanto por ciento de administración;
 
-II. Las circunstancias de modo, tiempo y lugar de la infracción;
+V.- Si los jueces lo creyeren conveniente, decretarán el depósito, cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 487 y 488 del Código Civil;
 
-III. Las condiciones socioeconómicas del infractor;
+VI.- Pedirán, al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
-IV. Las condiciones externas y los medios de ejecución;
+ARTICULO 709
 
-V. La reincidencia en el incumplimiento de obligaciones, y
+En todos los casos de impedimento, separación o excusa del curador propietario, se nombrará curador interino mientras se decide el punto. Resuelto, se nombarrá (sic) en su caso nuevo curador conforme a derecho.
 
-VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+ARTICULO 710
 
-Se considerará reincidente al infractor que habiendo sido declarado responsable mediante resolución firme del incumplimiento a alguna de las obligaciones a que se refiere el presente Código, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+Sobre la rendición y aprobación de cuentas de los tutores, regirán las disposiciones relativas de este Código con estas modificaciones:
 
-Las multas deberán ser pagadas en la Dirección Administrativa del Instituto; si el infractor no cumple con su obligación, el Instituto dará vista a las autoridades hacendarias a efecto de que procedan a su cobro conforme a la legislación aplicable.
+I.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año, conforme a lo que dispone el artículo 520 del Código Civil;
 
-En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
+II.- Se requiere prevención judicial para que las rindan antes de llegar a ese término;
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2016)</small>
+III.- Las personas a quienes deban ser rendidas, son el mismo juez, el curador, el consejo local de tutelas, el mismo menor que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejare de serlo, y las demás personas que fije el Código Civil;
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Capítulo, serán destinados al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes.
+IV.- La sentencia que desaprobare las cuentas indicará, si fuere posible, los alcances. Del auto de aprobación pueden apelar el Ministerio Público, los demás interesados y el curador si hizo observaciones. Del auto de desaprobación pueden apelar el tutor, el curador y el Ministerio Público;
 
-### CAPÍTULO II. Del Procedimiento Sancionador
+V.- Si se objetaren de falsas algunas partidas se substanciará el incidente por cuerda separada, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público y el tutor.
 
-###### ARTÍCULO 252.
+ARTICULO 711
 
-Los procedimientos sancionadores se clasifican de la siguiente manera:
+Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa, y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto, el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
 
-I. Procedimiento Sancionador Ordinario: Los cuales se pueden instaurar por faltas cometidas dentro y fuera de los procesos electorales, y
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
-II. Procedimiento Especial Sancionador: Los cuales deben ser expeditos y se instauran por faltas cometidas dentro de los procesos electorales.
+ARTICULO 712
 
-Son órganos competentes para la tramitación y resolución del procedimiento sancionador:
+Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y que correspondan a las clases siguientes:
 
-I. El Consejo;
+I.- Bienes raíces;
 
-II. El Tribunal;
+II.- Derechos reales;
 
-III. La Secretaría Ejecutiva, y
+III.- Alhajas y muebles preciosos;
 
-IV. Las Secretarías Técnicas Distritales.
+IV.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
 
-Los consejos distritales y municipales, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores, salvo lo establecido en el artículo 268 de este Código.
+ARTICULO 713
 
-###### ARTÍCULO 253.
+Para decretar la venta de bienes se necesita que al pedirse se expresen los motivos de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
 
-Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
+Si fuere el tutor quien solicitare la venta, debe proponer, al hacer la promoción, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
 
-Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del Instituto. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
+La solicitud del tutor se sustanciará en forma de incidente con el curador y el Ministerio Público. La resolución que se dictare es apelable.
 
-Las notificaciones personales se realizarán en días y horas hábiles al interesado o por conducto de la persona que éste haya autorizado para el efecto.
+Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
-Las notificaciones serán personales cuando así se determine, pero en todo caso, la primera notificación a las partes se llevará de forma personal.
+ARTICULO 714
 
-Cuando deba realizarse una notificación personal, el notificador deberá cerciorarse, por cualquier medio, que la persona que deba ser notificada tiene su domicilio en el inmueble designado y, después de ello, practicará la diligencia entregando copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
+Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta se hará por conducto de una casa de comercio; de lo contrario, se procederá conforme al artículo 441.
 
-Si no se encuentra al interesado en su domicilio se le dejará con cualquiera de las personas que allí se encuentren, un citatorio que contendrá:
+El remate de los inmuebles se hará conforme a los artículos 409 y siguientes y en él no podrá admitirse postura que baje de las tres cuartas partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
 
-I. Denominación del órgano que dictó la resolución que se pretende notificar;
+Si en la primera almoneda no hubiere postor, el juez convocará a solicitud del tutor, del curador o del consejo de tutelas, a una junta dentro del tercero día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
-II. Datos del expediente en el cual se dictó;
+ARTICULO 715
 
-III. Extracto de la resolución que se notifica;
+Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado o, en su defecto, de comerciante establecido y acreditado.
 
-IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega, y
+ARTICULO 716
 
-V. El señalamiento de la hora a la que, al día siguiente, deberá esperar la notificación.
+El precio de la venta se entregará al tutor si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
 
-Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente.
+El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-Si las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada del domicilio y se procederá en términos del párrafo anterior.
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 1940)</small>
 
-Si a quien se busca se niega a recibir la notificación, se procederá a realizar la notificación por estrados, asentándose razón de ello en autos.
+ARTICULO 717
 
-Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante, o de su autorizado ante el órgano que corresponda.
+Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, requerirá el ascendiente la autorización judicial. Se sustanciará la solicitud en un incidente con el Ministerio Público y con un tutor especial que para el efecto nombre el Juez. En el incidente se recibirá al ascendiente la justificación que ofrezca para probar la necesidad o utilidad de la venta, y encontrándola el Juez comprobada, nombrará dos peritos para que practiquen el avalúo y dará autorización para que se verifique fuera de remate, pero nunca en menos de cuatro quintas partes del avalúo.
 
-La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquel en que se dicten, entregando al denunciante y al denunciado, copia certificada de la resolución.
+Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
 
-Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
+ARTICULO 718
 
-###### ARTÍCULO 254.
+Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor autorización judicial, que sólo se otorgará con la conformidad del curador y del consejo de tutelas.
 
-Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría Ejecutiva como el Consejo, podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio contradictorio de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+ARTICULO 719
 
-###### ARTÍCULO 255.
+Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que se tratan de acreditar con las mismas, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
+### CAPITULO IV. Adopción
 
-Sólo serán admitidas las siguientes pruebas:
+ARTICULO 720
 
-I. Documentales públicas;
+El que pretenda adoptar a alguna persona, deberá acreditar:
 
-II. Documentales privadas;
+I. Que es mayor de edad y tiene, por lo menos, diecisiete años más de edad que la persona que trata de adoptar;
 
-III. Técnicas;
+II. Que no tiene descendientes;
 
-IV. Pericial contable;
+III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio, según las circunstancias de la persona que trata de adoptarse;
 
-V. Presuncional legal y humana, y
+IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
-VI. Instrumental de actuaciones.
+V.- Que el adoptante es persona de buenas costumbres;
 
-La confesional y la testimonial podrán ser admitidas cuando se ofrezcan en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho.
+VI.- Que la adopción es conforme con lo dispuesto por el Código Civil.
 
-La autoridad que sustancie el procedimiento podrá ordenar el desahogo de reconocimientos o inspecciones judiciales, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados.
+En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre el la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido.
 
-El quejoso o el denunciado podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
+ARTICULO 721
 
-Admitida una prueba superveniente, se dará vista por estrados al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 327 y 328 del Código Civil, el Tribunal resolverá dentro del tercer día.
 
-La Secretaría Ejecutiva podrá admitir aquellas pruebas que fueron ofrecidas en el escrito por el que se comparezca al procedimiento y que hayan sido solicitadas a las instancias correspondientes pero que no se hubiesen aportado, siempre que se aporten hasta veinticuatro horas antes de la sesión en que se tratará la aprobación del proyecto de resolución.
+ARTICULO 722
 
-Se apercibirá a las autoridades en caso de que éstas no atiendan en tiempo y forma, el requerimiento de las pruebas.
+Cuando el adoptante o el adoptado pidan que la adopción sea revocada, el juez los convocará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en los artículos 337 y 338 del Código Civil.
 
-En el caso del procedimiento especial sancionador, las veinticuatro horas referidas en el párrafo anterior, serán antes del inicio de la audiencia de pruebas y alegatos.
+Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción, y sin oír al representante del Ministerio Público.
 
-Asimismo, se podrán admitir aquellos elementos probatorios que, habiendo sido solicitados dentro de la investigación correspondiente, no se hubiesen recibido sino hasta veinticuatro horas antes de la sesión respectiva.
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
 
-Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
+ARTICULO 723
 
-###### ARTÍCULO 256.
+La impugnación de la adopción y su revocación, en los casos de los artículos 324 y 335 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica, la experiencia y de la sana crítica, así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre los hechos denunciados.
+### CAPITULO V. De las informaciones ad perpétuam
 
-Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+ARTICULO 724
 
-Las documentales privadas, técnicas, periciales, e instrumental de actuaciones, así como aquellas en las que un fedatario haga constar las declaraciones de alguna persona debidamente identificada, sólo harán prueba plena cuando a juicio del órgano competente para resolver, generen convicción sobre la veracidad de los hechos alegados, al concatenarse con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
+La información ad perpétuam podrá decretarse cuando sólo tenga interés el promovente y se trate:
 
-En caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
+I.- De justificar algún hecho o acreditar un derecho;
 
-###### ARTÍCULO 257.
+II.- Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble; y
 
-Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-### CAPÍTULO III. Del Procedimiento Sancionador Ordinario
+En los casos de las dos primeras fracciones, la información será recibida con intervención del Ministerio Público, sujetándose a lo establecido en los Capítulos IV y V, Título Segundo, Libro Cuarto, tercera parte, del Código Civil, para el registro de las informaciones de dominio y para las inscripciones de posesión.
 
-###### ARTÍCULO 258.
+En los casos comprendidos en la fracción III se recibirá la información con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
 
-El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte, o de oficio cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+El Ministerio Público y las personas con cuya intervención sea recibida la información, pueden tachar a los testigos por circunstancias que afecten su credibilidad.
 
-La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de tres años, contados a partir de que se cometan los hechos.
+ARTICULO 725
 
-###### ARTÍCULO 259.
+El juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes, para asegurarse de la veracidad de su dicho.
 
-Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante la Secretaría Ejecutiva; las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
+ARTICULO 726
 
-La queja o denuncia será presentada por escrito, y deberá cumplir con los siguientes requisitos:
+Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
 
-I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+ARTICULO 727
 
-II. Domicilio en el Estado, para oír y recibir notificaciones;
+Las informaciones se protocolizarán en la notaría que designe el promovente, a quien le será entregado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
 
-III. Los documentos que sean necesarios para acreditar la personería;
+En los casos comprendidos en los Capítulos IV y V, Título Segundo, Libro Cuarto, tercera parte, del Código Civil, el registro será hecho directamente, sin que sea necesaria la protocolización.
 
-IV. Narración expresa y clara de los hechos en que se basa la queja o denuncia y, de ser posible, los preceptos presuntamente violados;
+ARTICULO 728
 
-V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, cuando el promotor acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos, y
+En ningún caso se admitirán en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-VI. Acompañar copias de traslado para cada uno de los denunciados.
+### CAPITULO VI. Apeo y deslinde
 
-Los partidos políticos y los candidatos independientes, también deberán presentar las quejas o denuncias por escrito y cumplir con los requisitos señalados en el párrafo anterior. En caso de que los representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.
+ARTICULO 729
 
-###### ARTÍCULO 260.
+El apeo y deslinde tiene lugar siempre que no se hayan fijado los límites que separan un predio de otro u otros, o que habiéndose fijado hay motivo fundado para creer que no son exactos, ya porque naturalmente se hayan confundido, porque se hayan destruído las señales que marcaban, o porque éstas se hayan colocado en lugar distinto del primitivo.
 
-Cuando se omita cualquiera de los requisitos señalados en el artículo anterior, la Secretaría Ejecutiva prevendrá al denunciante para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la queja o denuncia.
+ARTICULO 730
 
-Recibida la queja o denuncia, la Secretaría Ejecutiva procederá a:
+Tienen derecho para promover el apeo:
 
-I. Su registro, debiendo informar de su presentación al Consejo;
+I.- El propietario;
 
-II. Su revisión para determinar si debe prevenir al quejoso;
+II.- El poseedor con título bastante para transferir el dominio;
 
-III. Su análisis para determinar la admisión o desechamiento de la misma, y
+III.- El usufructuario.
 
-IV. En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
+ARTICULO 731
 
-La Secretaría Ejecutiva contará con un plazo de cinco días contados a partir de que reciba queja o denuncia, para emitir el acuerdo de admisión o propuesta de desechamiento. En caso de que se hubiese prevenido al denunciante o quejoso, dicho plazo correrá a partir de que atienda la prevención o de la fecha en que concluya el término que se le otorgó sin que hubiese atendido la misma.
+La petición de apeo debe contener:
 
-###### ARTÍCULO 261.
+I.- El nombre y ubicación de la finca que debe deslindarse;
 
-La queja o denuncia será improcedente cuando:
+II.- La parte o partes en que el acto debe ejecutarse;
 
-I. Se trate de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político y el quejoso o denunciante no acredite su pertenencia al partido político de que se trate o su interés jurídico;
+III.- Los nombres de los litigantes que pueden tener interés en el apeo;
 
-II. El quejoso o denunciante no agote previamente las instancias internas del partido político denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
+IV.- El sitio donde están y donde deben colocarse las señales, y, si éstas no existen, el lugar donde estuvieron;
 
-III. Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia que cuente con resolución del Consejo respecto al fondo y ésta no se haya impugnado ante el Tribunal, o habiendo sido impugnada se haya confirmado, y
+V.- Los planos y demás documentos que vengan a servir para la diligencia, y la designación de un perito por parte del promovente.
 
-IV. Se denuncien actos de los que el Instituto resulte incompetente para conocer.
+ARTICULO 732
 
-###### ARTÍCULO 262.
+Hecha la promoción, el juez la mandará hacer saber a los colitigantes para que dentro de tres días presenten los títulos o documentos de su posesión y nombren peritos si quieren hacerlo, y se señalará el día, hora y lugar para que dé principio la diligencia de deslinde.
 
-Procederá el sobreseimiento de la queja o denuncia, cuando:
+Si fuere necesario identificar alguno o algunos de los puntos de deslinde, los interesados podrán presentar dos testigos de identificación cada uno, a la hora de la diligencia.
 
-I. Habiendo sido admitida la queja o denuncia, sobrevenga alguna de las causales de improcedencia;
+ARTICULO 733
 
-II. El denunciado sea un partido político que, con posterioridad a la admisión de la queja o denuncia, haya perdido su registro o acreditación estatal, y
+El día y hora señalados, el juez acompañado del secretario, peritos, testigos de identificación, e interesados que asistan al lugar designado, dará principio a la diligencia conforme a las reglas siguientes:
 
-III. El denunciante presente escrito de desistimiento, siempre y cuando dicho escrito lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría Ejecutivay (sic) que a juicio de la misma, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+I.- Practicará el apeo, asentándose acta en que constarán todas las observaciones que hicieren los interesados;
 
-###### ARTÍCULO 263.
+II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento debidamente registrado, que pruebe que el terreno que se trata de deslindar es de su propiedad;
 
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Secretaría Ejecutiva elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+III.- El juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiere, o mandará que se le mantenga en la que esté disfrutando;
 
-Cuando durante la sustanciación de una investigación la Secretaría Ejecutiva advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar de oficio, el inicio de un nuevo procedimiento de investigación.
+IV.- Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, el tribunal oirá a los testigos de identificación y a los peritos e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a los interesados para que los hagan valer en juicio;
 
-La Secretaría Ejecutiva llevará un registro de las quejas desechadas e informará de ello al Consejo.
+V.- El juez mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales.
 
-###### ARTÍCULO 264.
+Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
-Admitida la queja o denuncia, la Secretaría Ejecutiva emplazará al denunciado, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación al denunciado se le correrá traslado con una copia de la queja o denuncia, así como de las pruebas que en su caso haya aportado el denunciante o hubiera obtenido a prevención la autoridad que la recibió, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
+ARTICULO 734
 
-El escrito de contestación deberá cumplir con los siguientes requisitos:
+Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colitigantes, serán pagados por el que nombre a los unos o presente a los otros.
 
-I. Nombre del denunciado o su representante, con firma autógrafa o huella digital;
+### CAPITULO VII. De los bienes mostrencos
 
-II. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
+ARTICULO 735
 
-III. Domicilio para oír y recibir notificaciones;
+Tan pronto como una autoridad municipal tenga conocimiento de la existencia de un bien mostrenco, lo comunicará al juez de primera instancia del Distrito, para que esto mande fijar avisos en los lugares públicos de costumbre, por el término de veinte días, y designe a un perito valuador que dictaminará desde luego sobre el valor del bien.
 
-IV. Los documentos que sean necesarios para acreditar la personería, y
+ARTICULO 736
 
-V. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con los hechos; o en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá identificar con toda precisión dichas pruebas.
+Si la cosa hallada fuere de las que no pueden conservarse, el juez dispondrá desde luego su venta y mandará depositar el precio. Igual procedimiento se seguirá cuando la conservación de la cosa pueda ocasionar gastos que no estén en relación con su valor.
 
-###### ARTÍCULO 265.
+ARTICULO 737
 
-La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+Si durante el plazo designado se presentare alguna persona reclamando la cosa, deberá justificar su acción, mediante juicio seguido ante el juez correspondiente. En esta reclamación, el Ministerio Público será considerado como parte demandada.
 
-Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
+ARTICULO 738
 
-Admitida la queja o denuncia por la Secretaría Ejecutiva, desahogará los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, solicitará mediante oficio a los órganos del Instituto que lleven a cabo las investigaciones o recaben las pruebas necesarias. El plazo para llevar a cabo la investigación no podrá exceder de veinte días, contados a partir de la recepción del escrito de queja o denuncia en la Secretaría Ejecutiva o del inicio de oficio del procedimiento por la propia Secretaría Ejecutiva. Dicho plazo podrá ser ampliado de manera excepcional por una vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva.
+En el caso del artículo anterior, la resolución que se dicte tomará en cuenta las disposiciones del artículo 817 del Código Civil. También se estará a lo ordenado por dicho precepto, cuando transcurrido el plazo de veinte días no compareciere ninguno a reclamar la cosa; en este caso, el juez dictará la resolución correspondiente.
 
-Si dentro del plazo fijado para la admisión de la queja o denuncia, la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, lo propondrá al Consejo para que éste, en un plazo de veinticuatro horas, resuelva lo conducente para la cesación de los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en este Código.
+### CAPITULO VIII. De los bienes vacantes
 
-La Secretaría Ejecutiva podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
+ARTICULO 739
 
-Las diligencias que se realicen en el curso de la investigación deberán ser efectuadas por la Secretaría Ejecutiva, o a través del servidor público en quien legalmente se haya delegado dicha facultad.
+Ante el juez de primera instancia que corresponda por la ubicación del bien o de los bienes que el Código Civil considera como vacantes, se presentará la denuncia respectiva con las pruebas que la justifiquen.
 
-###### ARTÍCULO 266.
+ARTICULO 740
 
-Concluido el desahogo de las pruebas, la Secretaría Ejecutiva pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido el plazo a que se refiere el párrafo anterior procederá a elaborar el proyecto de resolución correspondiente, en un término no mayor a diez días contados a partir del desahogo de la última vista, vencido este plazo, el Secretario Ejecutivo podrá ampliarlo mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
+Con vista de la información testimonial o de las otras pruebas que presente el denunciante, el mismo juez decretará el depósito de acuerdo con la ley, procediendo a investigar el valor de los bienes. Al efecto, si dicho valor no estuviere consignado en las oficinas registradoras, nombrará a un perito oficial para que dictamine dentro de cinco días.
 
-El proyecto de resolución que formule la Secretaría Ejecutiva será enviado al Consejo, dentro del término de cinco días, para su conocimiento y estudio.
+ARTICULO 741
 
-El Presidente del Consejo, a más tardar al día siguiente de la recepción del proyecto de resolución, convocará a los demás integrantes a sesión del Pleno, la cual deberá celebrarse pasadas setenta y dos horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice, valore y resuelva.
+En la misma resolución se mandará publicar en los lugares de costumbre y en la "Gaceta Oficial", por una sola vez, el extracto de la denuncia, para que, si alguno se creyere con derecho para reclamarla, se presente del término de tres meses a entablar su demanda.
 
-###### ARTÍCULO 267.
+ARTICULO 742
 
-En la sesión en que conozca del proyecto de resolución, el Consejo determinará:
+La reclamación se substanciará en forma de juicio, en el que será considerado como parte demandada el Ministerio Público.
 
-I. Aprobarlo en los términos en que se le presente;
+ARTICULO 743
 
-II. Aprobarlo, ordenando al Secretario Ejecutivo realizar el engrose de la resolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría;
+Si transcurren tres meses desde la fecha de las publicaciones y no se presenta reclamación, o si se declara infundada, por sentencia firme la que se presente, se decretará la venta del bien o de los bienes vacantes, para que con el producto de ella se proceda de acuerdo con el artículo 821 del Código Civil. La venta será pública y de acuerdo con las disposiciones de este Código.
 
-III. Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen, y
+ARTICULO 744
 
-IV. Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar un nuevo proyecto en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría.
+En el caso previsto por el artículo 825 del Código Civil, se observarán las mismas disposiciones anteriores, pero en lugar del depósito, se decretará la adjudicación de esos bienes al Fisco del Estado, el cual podrá ejercitar, respecto del predio y sus productos, todos los derechos que le competan, como copropietario.
 
-Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de devolución.
+### CAPITULO IX. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
-En caso de empate, se procederá a una segunda votación; en caso de persistir el empate, el Consejero Presidente ejercerá su voto de calidad.
+ARTICULO 745
 
-El Consejero Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo si se remite al Secretario Ejecutivo dentro de los dos días siguientes a la fecha de su aprobación.
+Se tramitará en la forma de incidente que habrá de seguirse con audiencia del Ministerio Público, en todo caso:
 
-En el desahogo de los puntos de la orden del día en que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un sólo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+I.- La información para obtener la habilitación de edad o para comparecer en juicio, que solicite el mayor de dieciocho años, a fin de comprobar los requisitos que establece el Capítulo I, Título Décimo, Libro Primero del Código Civil o cuando se ignore el paradero de los padres o ascendientes que ejerzan la patria potestad o se nieguen a representarlo;
 
-### CAPÍTULO IV. Del Procedimiento Especial Sancionador
+En su caso, de la información levantada se enviará copia certificada a la Legislatura, para que ésta conceda la habilitación;
 
-###### ARTÍCULO 268.
+II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho años sujetos a patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres y tutores;
 
-Dentro de los procesos electorales, la Secretaría Ejecutiva instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
+III.- La autorización judicial que soliciten los emancipados o habilitados de edad, para enajenar o gravar los bienes raíces o para comparecer en juicio; en este último caso, se les nombrará un tutor especial;
 
-I. Violen lo establecido en el artículo 134, párrafo octavo de la CPEUM o en el artículo 89, párrafo tercero de la Constitución;
+IV.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 377 del Código Civil;
 
-II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos y los candidatos independientes en este Código, o
+V.- Todas las intervenciones de la autoridad judicial que ordene la ley y que no den ocasión a controversia.
 
-III. Constituyan actos anticipados de precampaña o campaña.
+ARTICULO 746
 
-Cuando la queja o denuncia verse sobre propaganda política o electoral en radio y televisión, podrá ser presentada ante el Secretario Ejecutivo quién, sin más trámite, la remitirá al INE para los efectos legales conducentes.
+Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos a patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; así como de los huérfanos o incapacitados que queden en abandono, por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
-(NOTA: EL 25 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE SEPTIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La mujer menor de edad que, deseando contraer matrimonio, necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
+En estos casos, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias conducentes.
 
-###### ARTÍCULO 269.
+TITULO DECIMOSEPTIMO
 
-Los procedimientos relacionados con la difusión de propaganda que se considere calumniosa, así como propaganda que constituya violencia política de género, sólo podrán iniciar a instancia de parte afectada. SE ENTENDERÁ POR CALUMNIA LA IMPUTACIÓN DE HECHOS O DELITOS FALSOS CON IMPACTO EN UN PROCESO ELECTORAL.
+### CAPITULO I. De la justicia municipal
 
-La denuncia deberá reunir los siguientes requisitos:
+ARTICULO 747
 
-I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+Conocerán los jueces municipales de los juicios cuya cuantía no exceda de quinientos pesos.
 
-II. Domicilio en el Estado, para oír y recibir notificaciones;
+Para estimar el interés del negocio se atenderá a lo que el actor demande como suerte principal.
 
-III. Los documentos que sean necesarios para acreditar la personería;
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
 
-IV. Narración expresa y clara de los hechos en que se basa la denuncia;
+ARTICULO 748
 
-V. Ofrecer y exhibir las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas;
+El demandado en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción del juez municipal por exceder de quinientos pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente se continuará la audiencia como lo establecen los artículos siguientes.
 
-VI. En su caso, las medidas cautelares que se soliciten, y
+> <small>(F. DE E., G.O. 13 DE OCTUBRE DE 1932)</small>
 
-VII. Copias de traslado para cada uno de los denunciados.
+ARTICULO 749
 
-###### ARTÍCULO 270.
+Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fija en el artículo 747 o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
 
-La denuncia deberá ser presentada ante la Secretaría Ejecutiva, para que ésta la examine junto con las pruebas aportadas.
+ARTICULO 750
 
-La denuncia será desechada de plano por la Secretaría Ejecutiva, sin prevención alguna, cuando:
+A petición del actor se llamará al demandado para que comparezca dentro del tercero día. En la notificación que en presencia del actor se le haga, se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
 
-I. No reúna los requisitos indicados en el artículo anterior;
+Debe llevarse en los juzgados municipales un libro de registro en el que se asentarán por días y meses, los nombres de actores y demandados y el objeto de las demandas.
 
-II. Los hechos denunciados no constituyan, de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo;
+Puede el actor presentar su demanda por escrito.
 
-III. El denunciante no aporte ni ofrezca prueba alguna de sus dichos;
+ARTICULO 751
 
-IV. La materia de la denuncia resulte irreparable, y
+La notificación del emplazamiento se mandará hacer al demandado por conducto del comisario del juzgado o de algún gendarme, al lugar que el actor designe para ese fin y que podrá ser:
 
-V. La denuncia sea evidentemente frívola.
+I.- La habitación del demandado, su despacho, su establecimiento mercantil o su taller;
 
-En los casos anteriores la Secretaría Ejecutiva notificará al denunciante su resolución, por el medio más expedito a su alcance, dentro del plazo de veinticuatro horas; tal resolución deberá ser confirmada por escrito e informarse al Tribunal para su conocimiento.
+II.- El lugar en donde trabaje u otro que frecuente y en que se crea encontrarlo.
 
-###### ARTÍCULO 271.
+ARTICULO 752
 
-Cuando la Secretaría Ejecutiva admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro de los tres días siguientes a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+El comisario o gendarme que practique la notificación se cerciorará de que el demandado se encuentra en el lugar designado y le entregará el instructivo personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en la fracción primera del artículo anterior, cerciorándose de este hecho, dejará el instructivo con la persona de mayor confianza que encuentre. Si no se encontrare al demandado y el lugar no fuere de los enumerados en la fracción primera, no se le dejará instructivo, debiéndose expedir de nuevo cuando lo promueva el actor.
 
-Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las impondrá dentro de un plazo de cuarenta y ocho horas, en los términos establecidos en el artículo 265 de este Código.
+ARTICULO 753
 
-###### ARTÍCULO 272.
+Cuando no se conociere el lugar en donde el demandado viva o tenga el principal asiento de sus negocios o cuando viviendo o trabajando en un lugar se negare él o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar donde se encuentre.
 
-La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría Ejecutiva debiéndose levantar constancia de su desarrollo.
+Para estos emplazamientos, el actor tiene el derecho de acompañar al comisario o al gendarme, con el fin de hacerles las indicaciones que faciliten la busca.
 
-En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+ARTICULO 754
 
-La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
+Los instructivos se extenderán en esqueletos impresos tomados de libros talonarios. Un duplicado se agregará al expediente respectivo y en el talón se anotará un extracto.
 
-I. Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor de quince minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa, la Secretaría Ejecutiva actuará como denunciante;
+ARTICULO 755
 
-II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+El comisario o gendarme que entregue el instructivo recogerá en una libreta especial, recibo de él. Si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
-III. La Secretaría Ejecutiva resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
+En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de hacer notificaciones.
 
-IV. Concluido el desahogo de las pruebas, la Secretaría Ejecutiva concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a quince minutos cada uno.
+ARTICULO 756
 
-###### ARTÍCULO 273.
+Los peritos, testigos y, en general, terceros que no constituyan parte, pueden ser citados por correo, telégrafo y aun por teléfono, cerciorándose el secretario previamente de la exactitud de la dirección de la persona notificada.
 
-Celebrada la audiencia, la Secretaría Ejecutiva deberá turnar de forma inmediata al Tribunal, el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, así como un informe circunstanciado que deberá contener, por lo menos, lo siguiente:
+ARTICULO 757
 
-I. La relatoría de los hechos que dieron motivo a la queja o denuncia;
+Cuando se presente como actor o como reo alguien que no sea conocido personalmente por el juez ni por el secretario, se procederá a su identificación por medio de declaración oral o carta de conocimiento de persona caracterizada y de arraigo, por documento bastante o por cualquier otro medio que fuere suficiente a juicio del juez.
 
-II. Las diligencias que se hayan realizado por la autoridad;
+No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-III. Las pruebas aportadas por las partes y el resultado de su desahogo, y
+El que se presente como actor o como reo usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determina el Código Penal.
 
-IV. Las demás actuaciones realizadas.
+> <small>(F. DE E., G.O. 13 DE OCTUBRE DE 1932)</small>
 
-Del informe circunstanciado se enviará una copia al Consejo para su conocimiento.
+### CAPITULO II. Del juicio
 
-###### ARTÍCULO 274.
+ARTICULO 758
 
-El Tribunal será competente para resolver sobre el procedimiento especial sancionador.
+Si a la hora señalada para la celebración del juicio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a quince pesos, que se aplicará al reo por vía de indemnización y mientras no se justifique haberse hecho el pago, no se llamará de nuevo para el juicio.
 
-Una vez que el Tribunal reciba la documentación referida en el artículo anterior, le dará el curso normal, turnándolo al Magistrado Ponente que corresponda, el cual deberá:
+ARTICULO 759
 
-I. Verificar el cumplimiento, por parte del Instituto, de los requisitos previstos en este Código, así como revocar o confirmar inmediatamente la imposición de medidas cautelares;
+Si al ser llamado a contestar la demanda no estuviere presente el demandado y constare que fue debidamente notificado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción si no demostrare el impedimento de caso fortuito o de fuerza mayor.
 
-II. Cuando advierta omisiones o deficiencias en la integración del expediente o en su tramitación, así como violación a las reglas establecidas en este Código, realizará diligencias para mejor proveer, o bien, las ordenará al Instituto señalando las que deba realizar y el plazo para llevarlas a cabo;
+ARTICULO 760
 
-III. De persistir la violación procesal, el Magistrado Ponente podrá imponer las medidas de apremio necesarias para garantizar los principios de inmediatez y de exhaustividad en la tramitación del procedimiento;
+Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la notificación que podrá hacerse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no concurra el demandado y aparezca que no fue notificado debidamente.
 
-IV. Una vez que se encuentre debidamente integrado el expediente, el Magistrado Ponente, dentro de las cuarenta y ocho horas, deberá poner a consideración del Pleno del Tribunal el proyecto de sentencia que resuelva el procedimiento especial sancionador, y
+ARTICULO 761
 
-V. El Pleno del Tribunal, en sesión pública, resolverá el asunto en un plazo de veinticuatro horas contadas a partir de que se haya distribuido el proyecto de resolución.
+Concurriendo al juzgado las partes en virtud de la notificación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
 
-###### ARTÍCULO 275.
+I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el reo su contestación y exhibirán los documentos u objetos que estimen conducentes a su defensa y presentarán a los testigos y peritos que pretendan ser oídos;
 
-Las sentencias que resuelvan el procedimiento especial sancionador, podrán tener los efectos siguientes:
+II.- Las partes pueden hacerse una a la otra las preguntas que quieran, interrogar a los testigos y peritos y, en general, presentar todas las pruebas que se puedan rendir desde luego;
 
-I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto, o
+III.- Todas las acciones y excepciones o defensas, se harán valer en el acto mismo de la audiencia, sin sustanciar incidente de previo pronunciamiento. Si de lo que expongan o prueben las partes resultare la procedencia de una excepción dilatoria, el juez lo declarará así desde luego y dará por terminada la audiencia. Ante los jueces municipales, sólo se admitirá reconvención hasta por quinientos pesos; si se excediere de esa suma, se estará a lo dispuesto en el artículo 118;
 
-II. Declarar la existencia de la violación objeto de la queja o denuncia y, en su caso, imponer las sanciones que resulten procedentes en términos de lo dispuesto en este Código.
+IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
 
-###### ARTÍCULO 276.
+V.- Cuando una de las partes lo pida, la otra deberá concurrir personalmente a la audiencia para contestar las preguntas que se le hagan, a menos que el juez la exima por causa de enfermedad, ausencia, ocupación urgente u otro motivo fundado. Hecho el llamamiento y desobedecido por el citado, o rehusándose éste a contestar si comparece, el juez podrá tener por ciertas las afirmaciones de la otra parte;
 
-Cuando las denuncias a que se refiere este Capítulo tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de la pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda, se estará a lo siguiente:
+VI.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el juez exhortará a las partes a una composición amigable, y si se lograre la avenencia, se dará por terminado el juicio;
 
-I. La denuncia será presentada ante el Secretario Técnico del Consejo Distrital que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada;
+VII.- El juez oirá las alegaciones de las partes, para lo cual concederá hasta diez minutos a cada una y en seguida pronunciará su fallo en presencia de ellos, de una manera clara y sencilla.
 
-II. El Secretario Técnico del Consejo Distrital ejercerá, en lo conducente, las facultades de la Secretaría Ejecutiva, conforme al procedimiento y plazos señalados previstos en este Capítulo, y
+ARTICULO 762
 
-III. El Tribunal resolverá el procedimiento especial sancionador, conforme a lo dispuesto en este Capítulo.
+Las sentencias se dictarán a verdad sabida sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia.
 
-La Secretaría Ejecutiva auxiliará al Secretario Técnico del Consejo Distrital a fin de que el procedimiento especial sancionador sea desahogado adecuadamente.
+ARTICULO 763
 
-La Secretaría Ejecutiva podrá atraer todo procedimiento especial sancionador que corresponda conocer a la Secretaría Técnica de algún Distrito. Dicha facultad de atracción podrá ejercerse en cualquier momento.
+No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
 
-La Secretaría Ejecutiva conocerá de las quejas o denuncias presentadas antes de que inicien sus funciones los Consejos Distritales.
+ARTICULO 764
 
-## TÍTULO SEGUNDO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+Contra las resoluciones pronunciadas por los jueces municipales, procederá el recurso de apelación en ambos efectos, que se sustanciará conforme a las reglas generales ante el juez de primera instancia que corresponda.
 
-### CAPÍTULO I. De las Responsabilidades Administrativas
+> <small>(F. DE E., G.O. 13 DE OCTUBRE DE 1932)</small>
 
-###### ARTÍCULO 277.
+### CAPITULO III. Ejecución de las sentencias
 
-Para los efectos del presente Capítulo, serán considerados como servidores públicos del Instituto el Consejero Presidente, los consejeros electorales del Consejo y de los consejos distritales y municipales, el Secretario Ejecutivo y secretarios técnicos distritales y municipales, los directores ejecutivos, los jefes de unidades administrativas, los funcionarios y empleados, y, en general, toda persona que empeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto y que no pertenezcan al servicio profesional electoral nacional, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+ARTICULO 765
 
-La Contraloría Interna, su titular y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la CPEUM, la LGPP, la LGIPE y este Código confieren a los funcionarios del Instituto.
+Los jueces municipales tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y a ese efecto dictarán todas las medidas necesarias en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
 
-###### ARTÍCULO 278.
+I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
 
-Serán causas de responsabilidad para los servidores públicos del Instituto, las siguientes:
+II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el juez, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días, para el cumplimiento y aun mayor tiempo si el que obtuvo estuviere conforme en ello. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno;
 
-I. Realizar conductas que atenten contra la independencia de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
+III.- Llegado el caso, el secretario, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria que haya causado ejecutoria, procederá al secuestro de bienes conforme a los artículos que siguen.
 
-II. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
+ARTICULO 766
 
-III. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común, instrumentos y útiles de trabajo, en cuanto sean enteramente indispensables a juicio del secretario, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se hará cuando la deuda reclamada fuere por alimentos o responsabilidad proveniente de delitos, graduándola el secretario equitativamente en atención al importe del sueldo y a las necesidades del ejecutado y su familia, sin perjuicio de que el juez resuelva lo que estime en justicia.
 
-IV. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+ARTICULO 767
 
-V. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
+La elección de los bienes en que hubiere de recaer el secuestro, será hecha por el ejecutor, prefiriendo los más realizables y teniendo en cuenta lo que expongan las partes.
 
-VI. No poner en conocimiento del Consejo todo acto tendiente a vulnerar la independencia de la función electoral;
+ARTICULO 768
 
-VII. No preservar los principios que rigen el funcionamiento del Instituto en el desempeño de sus labores;
+Si no se hallare al condenado en su habitación, despacho, taller o establecimiento, la diligencia se practicará con la persona que se encuentre, y si no hubiere nadie, con un vecino o el gendarme de punto.
 
-VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+ARTICULO 769
 
-IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo, y
+En caso necesario, previa orden especial y escrita del juez, se podrán practicar cateos y romper cerraduras en cuanto fuere indispensable, para encontrar bienes bastantes.
 
-X. Las demás que determine esté Código o las leyes que resulten aplicables.
+ARTICULO 770
 
-### CAPÍTULO II. Del Procedimiento para la Determinación de Responsabilidades Administrativas
+Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago o aparecer despedido el empleado o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
 
-###### ARTÍCULO 279.
+ARTICULO 771
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada ante el Consejo por cualquier persona, por el servidor público que tenga conocimiento de los hechos o, en su caso por el Ministerio Público. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este Título, prescribirán en tres años, contados a partir de que se cometan los hechos.
+Todos los actos del ejecutor o secretario serán revisados, sea de oficio o a petición de parte, por el juez, quien podrá modificarlos o revocarlos según lo creyere justo.
 
-A falta de disposición expresa en el presente Capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento sancionador previsto en el Título Primero del presente Libro y en el Libro Quinto de este Código, así como lo establecido en esta materia por la LGIPE.
+ARTICULO 772
 
-###### ARTÍCULO 280.
+El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, ocurrirá al juez municipal, presentando sus pruebas y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
 
-Las quejas o denuncias que se presenten ante el Consejo, de oficio o a petición de parte, deberán estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+### CAPITULO IV. Incidentes
 
-###### ARTÍCULO 281.
+ARTICULO 773
 
-Las quejas o denuncias serán improcedentes cuando:
+Las cuestiones incidentales que se susciten ante los jueces municipales, se resolverán juntamente con lo principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia, pero en ningún caso se formará artículo, sino que se decidirán de plano.
 
-I. Se trate de actos u omisiones imputados a una misma persona que hayan sido materia de otra queja o denuncia ante la Contraloría Interna y que cuenten con resolución definitiva, y
+Las promociones de nulidad de actuaciones por falta o defecto en la notificación, deben ser despachadas de plano.
 
-II. Se denuncien actos u omisiones de los que la Contraloría Interna resulte incompetente para conocer.
+### CAPITULO V. Disposiciones generales
 
-###### ARTÍCULO 282.
+ARTICULO 774
 
-Procederá el sobreseimiento cuando:
+En los negocios de la competencia de los juzgados municipales, únicamente se aplicarán las disposiciones generales de procedimiento en lo que fuere indispensable para completar las disposiciones de este Título y que no se opongan directa ni indirectamente a éstas.
 
-I. Recibida la queja o denuncia, sobrevenga una causa de improcedencia, y
+ARTICULO 775
 
-II. El denunciante presente escrito de desistimiento, siempre y cuando se exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
+Ante los jueces municipales no es necesaria la intervención de abogados, ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
 
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
+ARTICULO 776
 
-###### ARTÍCULO 283.
+Respecto de las actuaciones ante los jueces municipales, no hay días ni horas inhábiles.
 
-Para la determinación de las responsabilidades administrativas a que se refiere este Capítulo se observará el siguiente procedimiento:
+ARTICULO 777
 
-I. Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia, se enviará copia de la misma, con sus anexos, al servidor público presunto responsable para que, en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas correspondientes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
+Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas convocadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros de los juzgados desde la víspera.
 
-II. Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al servidor público, y en su caso al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II, IV, V, VI, VIII, IX y X del artículo 278 de este Código;
+Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la audiencia o conceder tiempo a los peritos para que examinen las cosas acerca de las que se haya de emitir dictamen u ocurriere algún otro caso que lo exija a juicio del juez, se suspenderá la audiencia por un término prudente no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria que impondrá el superior y será anotada en el expediente que a cada funcionario judicial corresponderá.
 
-III. Cuando se trate de los casos comprendidos en las fracciones I, III y VII delartículo (sic) 278 de este Código, el Contralor citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+ARTICULO 778
 
-IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otra u otras audiencias;
+Para cada asunto se formará un breve expediente con los documentos relativos, y, en todo caso, con el acta de la audiencia en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimarán (sic) sus huellas digitales.
 
-V. Con excepción del Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo, la Contraloría Interna podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, siempre que así convenga para la conducción o continuación de las investigaciones; la suspensión cesará cuando así lo resuelva la propia Contraloría Interna. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al servidor público, lo cual se hará constar expresamente en la resolución respectiva;
+Si los asuntos importaren menos de cincuenta pesos, no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatadas, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
 
-VI. Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que hubiere estado suspendido, y
+ARTICULO 779
 
-VII. Cuando se compruebe la existencia de la infracción motivo de la denuncia, el titular de la Contraloría Interna impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato.
+Los documentos y objetos presentados por las partes, les serán devueltos al terminar la audiencia, tomándose razón.
 
-###### ARTÍCULO 284.
+ARTICULO 780
 
-Las sanciones aplicables a las faltas contempladas en el presente Capítulo consistirán en:
+Para la facilidad y rapidez en el despacho, los instructivos, órdenes, actas, y demás documentos necesarios se extenderán en esqueletos impresos, que tendrán los huecos que su objeto requiera y los cuales se llenarán haciendo constar en breve extracto lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiera en el hueco correspondiente, se escribirá al reverso del documento o en hojas que se agregarán a él. Los jueces primeros o únicos de primera instancia fijarán cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los presidentes y jueces municipales, a los que convocarán a las juntas que se estimen necesarias; y cuidarán de la impresión y distribución de los esqueletos en cantidad necesaria.
 
-I. Apercibimiento privado o público;
+ARTICULO 781
 
-II. Amonestación privada o pública;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-III. Sanción económica de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente;
-
-IV. Suspensión;
-
-V. Destitución del puesto, y
-
-VI. Inhabilitación temporal, hasta por cinco años, para desempeñar empleos, cargos o comisiones en el servicio público.
-
-Tratándose del Consejero Presidente y los consejeros electorales del Consejo, sólo por infracciones administrativas que constituyan conductas graves y sistemáticas, el Contralor notificará al Consejo General, acompañando el expediente del asunto fundado y motivado, a fin de que dicho Consejo General resuelva sobre la responsabilidad.
-
-Tratándose del Secretario Ejecutivo y de los directores ejecutivos del Instituto, para la aplicación de las sanciones por las infracciones a que se refiere el párrafo anterior, el Contralor presentará ante el Consejo o en su caso, al Presidente el expediente respectivo a fin de que resuelva sobre la procedencia de la sanción.
-
-###### ARTÍCULO 285.
-
-Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos, en el artículo 251 del presente Código.
-
-###### ARTÍCULO 286.
-
-Con independencia del sentido de la resolución que se dicte al final del procedimiento, el Contralor dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja, y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, procederá en los términos previstos en este Capítulo.
-
-###### ARTÍCULO 287.
-
-Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas ante la Sala Administrativa.
-
-## TÍTULO TERCERO. DE LA CONTRALORÍA INTERNA
-
-### CAPÍTULO ÚNICO. Del Contralor y sus Facultades
-
-###### ARTÍCULO 288.
-
-La Contraloría Interna es el órgano auxiliar de control del Instituto previsto en el artículo 17, Apartado B, párrafo noveno de la Constitución, el cual se encarga de la fiscalización de los recursos y programas del citado Instituto.
-
-En su desempeño la Contraloría Interna se sujetará a los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, máxima publicidad, exhaustividad y transparencia.
-
-El Congreso del Estado, a solicitud del Consejo, resolverá sobre la aplicación de las sanciones al Contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa.
-
-###### ARTÍCULO 289.
-
-El Contralor podrá ser sancionado por las siguientes causas graves de responsabilidad administrativa:
-
-I. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos del presente Código y de la legislación en la materia;
-
-II. Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
-
-III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría Interna, con motivo del ejercicio de sus atribuciones, y
-
-IV. Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere este Código.
-
-###### ARTÍCULO 290.
-
-La Contraloría Interna tendrá las facultades siguientes:
-
-I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
-
-II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
-
-III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
-
-IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
-
-V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
-
-VI. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
-
-VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente, al logro de los objetivos y metas de los programas aprobados;
-
-VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
-
-IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la propia Contraloría, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
-
-X. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto, y llevar el registro de los servidores públicos sancionados;
-
-XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
-
-XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
-
-XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
-
-XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
-
-XV. Formular pliegos de observaciones en materia administrativa;
-
-XVI. Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
-
-XVII. Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
-
-XVIII. Presentar a la aprobación del Consejo sus programas anuales de trabajo;
-
-XIX. Presentar al Consejo los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
-
-XX. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría Interna. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
-
-XXI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
-
-XXII. Participar, a través de su titular, con voz pero sin voto, en las sesiones del Consejo por motivo del ejercicio de sus facultades cuando así lo considere necesario el Consejero Presidente;
-
-XXIII. Evaluar los informes de avance de la gestión de programas y proyectos respecto de los autorizados por el Consejo;
-
-XXIV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza electoral, de capacitación, organización y demás aprobados por el Consejo;
-
-XXV. Validar el proyecto de Cuenta Pública para que el Instituto le dé el trámite correspondiente en términos de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
-
-XXVI. Mantener una estrecha relación de colaboración y apoyo con el Órgano Superior de Fiscalización del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-XXVII. En caso que el INE delegue al Instituto la función de los ingresos y egresos de los partidos políticos, sus coaliciones, las candidaturas comunes y de los candidatos a cargos de elección popular, la Contraloría Interna realizará tal función en términos de la CPEUM, la LGIPE, la LGPP, los lineamientos, acuerdos generales, normas técnicas y demás disposiciones que emita el Consejo General, y
-
-XXVIII. Las demás que le otorgue este Código o las leyes aplicables en la materia.
-
-###### ARTÍCULO 291.
-
-Los servidores públicos adscritos a la Contraloría Interna y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo de desempeño de sus facultades así como de sus actuaciones y observaciones.
-
-###### ARTÍCULO 292.
-
-Los órganos, áreas ejecutivas y servidores públicos del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría Interna, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que este Código o las leyes aplicables les confiere.
-
-###### ARTÍCULO 293.
-
-Si transcurrido el plazo establecido por la Contraloría Interna, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría Interna procederá a fincar las responsabilidades que correspondan conforme a derecho.
-
-El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
-
-La Contraloría Interna, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
-
-Durante el desahogo de los procedimientos administrativos tendientes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de los derechos fundamentales establecidos en la CPEUM, y podrán interponer el juicio respectivo para dirimir los conflictos o diferencias laborales.
-
-## TÍTULO CUARTO. DE LA FISCALÍA ESPECIAL EN DELITOS ELECTORALES
-
-### CAPÍTULO ÚNICO. De su Titular y Facultades
-
-###### ARTÍCULO 294.
-
-La Fiscalía Especial en Delitos Electorales estará a lo dispuesto por el Título Tercero de la Ley General en Materia de Delitos Electorales, en cuanto a la distribución de competencias y tareas de coordinación entre la Federación y las Entidades Federativas.
-
-La Fiscalía Especial en Delitos Electorales será competente para investigar y perseguir los delitos electorales cuando no sea competente la Federación conforme a lo dispuesto en los artículos 21 y 22 de Ley General en Materia de Delitos Electorales y tendrá, además de las que le otorga la ley de la materia, las siguientes facultades:
-
-I. Manifestar su conformidad para la destrucción de la documentación y material electoral que proceda conforme lo dispuesto en el presente Código;
-
-II. Requerir a la autoridad electoral la documentación, informes y medios de prueba necesarios para el esclarecimiento de hechos delictivos;
-
-III. Realizar acciones tendientes a informar sobre las conductas que constituyen delito en materia electoral y las sanciones aplicables, como medidas preventivas;
-
-IV. Elaborar manuales de procedimiento e informativos para la interposición de denuncias;
-
-V. Informar al Fiscal General del Estado y al Consejo sobre el estado y resultado de las denuncias por delitos electorales que se recibieron durante el proceso electoral, y
-
-VI. Informar al Registro Federal de Electores sobre los ciudadanos que se encuentren suspendidos de sus derechos político-electorales de conformidad con lo dispuesto en el artículo 10 de este Código.
-
-###### ARTÍCULO 295.
-
-El Fiscal Especial en Delitos Electorales, durará en su cargo seis años y será designado y removido conforme a lo siguiente:
-
-I. Treinta días antes de concluir el período para el cual fue designado el Fiscal Especial en Delitos Electorales, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Fiscal General del Estado;
-
-II. Recibida la lista a que se refiere la fracción anterior, el Fiscal General formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos.
-
-Si el Fiscal General no recibe la lista en el plazo señalado en la fracción I, enviará libremente al Congreso del Estado una terna;
-
-III. Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal Especial en Delitos Electorales con el voto delas (sic) dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
-
-En caso de que el Fiscal General no envíe la terna al Congreso del Estado, éste tendrá cinco días para designar al Fiscal Especial en Delitos Electorales de entre los candidatos de la lista que señala la fracción I.
-
-Si el Congreso del Estado no hace la designación en el plazo establecido, el Fiscal General del Estado, en un término no mayor a cinco días naturales, designará al Fiscal Especial en Delitos Electorales de entre los candidatos que integren la lista referida en la fracción I, o en su caso de la terna respectiva;
-
-IV. El Fiscal Especial en Delitos Electorales, podrá ser removido por el Fiscal General del Estado por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal Especial en Delitos Electorales será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
-
-V. Las ausencias temporales del Fiscal Especial en Delitos Electorales serán suplidas en términos de lo dispuesto por la ley que regule el funcionamiento de la Fiscalía General del Estado. En caso de ausencia definitiva, quien sea designado únicamente desempeñará el cargo hasta completar el período para el cual fue elegido.
-
-Quien se haya desempeñado como Fiscal Especial en Delitos Electorales, no podrá ser reelecto en el cargo.
-
-# LIBRO QUINTO. DE LOS MEDIOS DE IMPUGNACIÓN Y EL TRIBUNAL ELECTORAL
-
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
-
-### CAPÍTULO ÚNICO. De los Recursos
-
-###### ARTÍCULO 296.
-
-Los medios de impugnación regulados por este Código tienen por objeto garantizar:
-
-I. Que todos los actos y resoluciones de los órganos electorales, en los procesos electorales, de plebiscito o de referéndum, se sujeten a los principios de constitucionalidad y legalidad, y
-
-II. La definitividad de los distintos actos y etapas de los procesos electorales.
-
-###### ARTÍCULO 297.
-
-Los medios de impugnación que integran este sistema, son los recursos de:
-
-I. Inconformidad;
-
-II. Apelación;
-
-III. Nulidad, y
-
-IV. Revisión del Procedimiento Especial Sancionador.
-
-Los recursos de Inconformidad y Apelación para garantizar la legalidad de los actos y resoluciones de los órganos electorales estatales, durante el tiempo que transcurra entre dos procesos electorales, o durante el proceso electoral hasta antes del día de la jornada electoral, conforme a los tiempos establecidos en este Código.
-
-El recurso de Nulidad para anular la votación recibida en casillas o declarar la nulidad de una elección.
-
-El recurso de Revisión del Procedimiento Especial Sancionador para impugnar una medida cautelar impuesta por el Instituto así como los acuerdos de desechamiento de denuncias o quejas.
-
-## TÍTULO SEGUNDO. DE LAS REGLAS APLICABLES A LOS MEDIOS DE IMPUGNACIÓN
-
-### CAPÍTULO I. Disposiciones Preliminares
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 298.
-
-Las disposiciones del presente Título rigen para el trámite, sustanciación y resolución de los medios de impugnación que regula el presente ordenamiento. A falta de disposición expresa se estará a lo dispuesto por la Ley del Procedimiento Contencioso Administrativo del Estado.
-
-En ningún caso la interposición de los medios de impugnación señalados en el artículo anterior, producirá efectos suspensivos sobre el acto o la resolución impugnada.
-
-###### ARTÍCULO 299.
-
-Para la resolución de los medios de impugnación previstos en esta ley, las normas se interpretarán conforme a la CPEUM, los tratados o instrumentosinternacionales (sic) celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
-
-La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la CPEUM, favoreciendo en todo tiempo a las personas con la protección más amplia.
-
-### CAPÍTULO II. De los Plazos y Términos
-
-###### ARTÍCULO 300.
-
-Durante los procesos electorales todos los días y horas son hábiles. Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
-
-Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral local, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de la Ley Federal del Trabajo.
-
-###### ARTÍCULO 301.
-
-Los recursos previstos en este Código, deberán presentarse dentro de los cuatro días siguientes, contados a partir del día siguiente de su notificación o aquél en que se tenga conocimiento del acto o resolución impugnado.
-
-### CAPÍTULO III. De los Requisitos
-
-###### ARTÍCULO 302.
-
-Los recursos deben presentarse por escrito ante la autoridad responsable del acto o resolución reclamada, debiéndose cumplir con los requisitos siguientes:
-
-I. Nombre del actor;
-
-II. Señalar domicilio para recibir notificaciones y, a quien autorizan para que a su nombre las pueda oír y recibir;
-
-III. Acompañar el o los documentos que sean necesarios para acreditar la personería del recurrente;
-
-IV. Identificar el acto o resolución impugnado y la autoridad responsable del mismo;
-
-V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación; en qué consisten los agravios que cause el acto o resolución impugnado y, los preceptos presuntamente violados;
-
-VI. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en el presente Código; mencionar, en su caso, las que se habrán de aportar dentro de la sustanciación del procedimiento; y las que deban requerirse, cuando el recurrente justifique que oportunamente las solicitó por escrito al órgano electoral o autoridad competente, y éstas no le hubieren sido entregadas, y
-
-VII. Hacer constar el nombre y la firma autógrafa del recurrente, en el escrito en que se promueve y a falta de ésta, bastará que se encuentre firmado el escrito de presentación del recurso.
-
-### CAPÍTULO IV. Del Desechamiento, la Improcedencia y el Sobreseimiento
-
-###### ARTÍCULO 303.
-
-Los recursos interpuestos se desecharán de plano, cuando:
-
-I. No se presente por escrito ante la autoridad correspondiente;
-
-II. Se incumpla cualquiera de los requisitos previstos por el artículo anterior;
-
-III. Resulte evidentemente frívolo o cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento, y
-
-IV. No existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno.
-
-###### ARTÍCULO 304.
-
-Los recursos que regula este Código, se considerarán improcedentes en los siguientes casos:
-
-I. Cuando los medios de impugnación procedentes no se hubieran interpuesto dentro del plazo señalado en este Código;
-
-II. Cuando se pretenda impugnar actos o resoluciones:
-
-a) Que no afecten el interés jurídico del actor;
-
-b) Consumados de un modo irreparable;
-
-c) Que constituyan actos consentidos por las manifestaciones de voluntad que entrañen ese consentimiento;
-
-d) En los que el recurrente carezca de legitimación en los términos del presente Código;
-
-e) En los que no se hayan agotado las instancias previas establecidas por las leyes para combatir los actos o resoluciones electorales y en virtud de las cuales se pudieran haber modificado, revocado o anulado, y
-
-f) Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo los casos señalados en los artículos 350, 351 y 352 del presente Código.
-
-III. Cuando no se ofrezcan pruebas, salvo que la violación reclamada verse exclusivamente sobre puntos de derecho, y
-
-IV. Cuando no reúnan los requisitos que señala este Código para que proceda el recurso.
-
-###### ARTÍCULO 305.
-
-El sobreseimiento de los recursos procede cuando:
-
-I. El recurrente se desista expresamente por escrito;
-
-II. La autoridad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que quede sin materia antes de que se dicte resolución o sentencia;
-
-III. Admitido el recurso, aparezca o sobrevenga alguna causal de improcedencia en los términos del presente Código, y
-
-IV. El recurrente pierda su acreditación o registro; el recurrente fallezca o sea suspendido o privado de sus derechos político-electorales.
-
-Cuando se actualice alguno de los supuestos a que se refieren las fracciones del párrafo anterior, se estará a lo siguiente:
-
-I. En los casos de competencia del Tribunal, el Magistrado que conozca del asunto propondrá el sobreseimiento al Pleno del Tribunal, y
-
-II. En los asuntos de competencia de los órganos del Instituto, el Consejo resolverá sobre el sobreseimiento.
-
-### CAPÍTULO V. De las Partes
-
-###### ARTÍCULO 306.
-
-Son partes en el procedimiento de los medios de impugnación los siguientes:
-
-I. Recurrente: Es quien estando legitimado lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
-
-II. Autoridad Responsable: Órgano electoral que haya realizado el acto o emitido la resolución que se impugna;
-
-III. Tercero Interesado: Es el ciudadano, el partido político, la coalición, el candidato, la asociación política, según corresponda, con un interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor;
-
-IV. Coadyuvante: Los candidatos podrán participar como coadyuvantes del partido político o coalición que los registró, de conformidad con las reglas siguientes:
-
-a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso se puedan tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
-
-b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los recursos o, en su caso para la presentación de los escritos de tercero interesado;
-
-c) Los escritos deberán ir acompañados del documento con el que se acredite su personería con el original o copia certificada del documento en el que conste su registro, o cualquier otro documento que demuestre fehacientemente la personalidad de los representantes de partido, y
-
-d) Los escritos deberán estar firmados autógrafamente.
-
-### CAPÍTULO VI. De la Legitimación y Personería
-
-###### ARTÍCULO 307.
-
-La interposición de los medios de impugnación corresponde a:
-
-I. Los partidos políticos a través de sus representantes propietario o suplente, entendiéndose por éstos:
-
-a) Los registrados formalmente ante el órgano electoral responsable, cuando éste haya dictado el acto o resolución impugnado. En este caso, sólo podrán actuar ante el órgano en el cual estén acreditados;
-
-b) Los miembros de los comités estatales, distritales, municipales o sus equivalentes, según corresponda. En este caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido, y
-
-c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
-
-II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro, y
-
-III. Las asociaciones políticas, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable.
-
-### CAPÍTULO VII. De las Pruebas
-
-###### ARTÍCULO 308.
-
-En el proceso jurisdiccional electoral, sólo se podrán ofrecer y admitir las pruebas siguientes:
-
-I. Documentales públicas que son:
-
-a) Las actas oficiales de las mesas directivas de casilla, así como las de los diferentes cómputos que consignen resultados electorales. Serán actas oficiales las originales, las copias autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
-
-b) Los demás documentos originales expedidos por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
-
-c) Los documentos expedidos, dentro del ámbito de sus facultades, por las autoridades federales, estatales y municipales, y
-
-d) Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con este Código y la ley, siempre y cuando en ellos se consignen hechos que les consten.
-
-Los documentos públicos que las partes ofrezcan en el proceso jurisdiccional electoral con los que prueben los hechos en que se basa la impugnación, y no los tuvieren a su disposición, señalarán el archivo o lugar en que se encuentren los originales, los cuales previa solicitud de parte, podrán ser requeridos a la autoridad o archivo que los detente a costa del solicitante.
-
-II. Documentales privadas: Todos los demás documentos o actas que aporten las partes, siempre que resulten pertinentes y relacionados con sus pretensiones;
-
-III. Técnicas: Las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritos o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance del órgano competente para resolver. En estos casos, el aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba;
-
-IV. La prueba pericial: Sólo podrá ser ofrecida y admitida en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos. Para su ofrecimiento deberán cumplirse los siguientes requisitos:
-
-a) Ser ofrecida junto con el escrito de impugnación;
-
-b) Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
-
-c) Especificarse lo que pretenda acreditarse con la misma, y
-
-d) Señalarse el nombre del perito que se proponga y exhibir su acreditación técnica.
-
-V. Las pruebas confesional y testimonial podrán ser ofrecidas y admitidas, cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho. Su valoración quedará al arbitrio del órgano competente para resolver el recurso, cuando puedan concatenarse o apoyarse con otras pruebas;
-
-VI. Inspección judicial: Los órganos competentes podrán ordenar el desahogo de reconocimientos o inspecciones judiciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda resolver adecuadamente y en su caso se modifique, revoque o anule el acto o resolución impugnado;
-
-VII. Presuncionales legales y humanas; y
-
-VIII. Instrumental de actuaciones.
-
-###### ARTÍCULO 309.
-
-Son objeto de prueba los hechos controvertibles. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
-
-El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
-
-###### ARTÍCULO 310.
-
-Las pruebas serán valoradas por el órgano competente para resolver los recursos, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este Capítulo.
-
-Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
-
-Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando a juicio del órgano competente para resolver, los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
-
-En ningún caso se tomarán en cuenta para resolver las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales, los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que el recurrente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos, o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
-
-### CAPÍTULO VIII. Del Trámite
-
-###### ARTÍCULO 311.
-
-La autoridad que reciba un medio de impugnación, en contra de un acto emitido o resolución dictada por ella, bajo su más estricta responsabilidad y de inmediato, deberá:
-
-I. Por la vía más expedita, dar aviso de su presentación al órgano competente del Instituto o a la autoridad jurisdiccional, precisando: Actor, acto o resolución impugnado, fecha y hora exactas de su recepción;
-
-II. Publicarlo mediante cédula que durante un plazo de setenta y dos horas se fije en los estrados respectivos o por cualquier otro procedimiento que garantice fehacientemente la publicidad del escrito.
-
-El incumplimiento de las obligaciones a que se refieren las fracciones anteriores, será sancionado en los términos previstos en el presente ordenamiento;
-
-III. Dentro de las setenta y dos horas siguientes a la fijación de la cédula, los terceros interesados podrán comparecer mediante los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
-
-a) Presentarse ante la autoridad responsable del acto o resolución impugnado;
-
-b) Hacer constar el nombre del tercero interesado;
-
-c) Señalar domicilio para recibir notificaciones, así como la persona o personas autorizados para ello;
-
-d) Acompañar el o los documentos que sean necesarios para acreditar la personería del compareciente;
-
-e) Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
-
-f) Ofrecer y aportar las pruebas dentro de los plazos establecidos, solicitando las que deban requerirse, cuando el recurrente justifique que oportunamente las solicitó por escrito al órgano competente y no le hubieren sido entregadas, y
-
-g) Hacer constar el nombre y la firma autógrafa del compareciente.
-
-###### ARTÍCULO 312.
-
-Dentro de las veinticuatro horas siguientes al vencimiento del plazo a que se refiere la fracción II del artículo anterior, la autoridad responsable del acto o resolución impugnado deberá remitir al órgano competente del Instituto o del Tribunal, lo siguiente:
-
-I. El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la documentación que se haya acompañado al mismo;
-
-II. La copia del documento en que conste el acto o resolución impugnado y la demás documentación relacionada y pertinente que obre en su poder;
-
-III. En su caso, los escritos de los terceros interesados y coadyuvantes, las pruebas y la documentación que se haya acompañado a los mismos;
-
-IV. En los juicios de nulidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado;
-
-V. El informe circunstanciado, que por lo menos deberá contener:
-
-a) En su caso, la mención de si el recurrente o el compareciente, tienen reconocida su personería;
-
-b) Los motivos y fundamentos jurídicos que considere pertinentes para sostener la legalidad del acto o resolución impugnado, y
-
-c) La firma del funcionario que lo rinde.
-
-VI. Cualquier otro documento que estime necesario para la resolución del asunto.
-
-### CAPÍTULO IX. De la Sustanciación
-
-###### ARTÍCULO 313.
-
-Recibida la documentación a que se refiere el artículo anterior, el Órgano Electoral o el Tribunal realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
-
-I. Se revisará que el escrito por el que interpone el recurso y el de tercero interesado reúna todos los requisitos previstos en este ordenamiento, y en su caso:
-
-a) Será desechado de plano el recurso, cuando se dé alguno de los supuestos previstos en este Código, o bien se acredite cualquiera de las causales de improcedencia enunciados en el mismo, y
-
-b) Se tendrá por no presentado el escrito de tercero interesado en caso de que éste incumpla con los requisitos señalados en este ordenamiento;
-
-II. En cuanto al informe circunstanciado, si la autoridad responsable incumple con la obligación de dar aviso al superior jerárquico u omite enviar cualquiera de los documentos a que se refiere el artículo 308 de este Código, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos se aplicarán las medidas de apremio previstas en este Código. Si la autoridad no lo envía dentro del término señalado, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario;
-
-III. Si el escrito por el que interpone el recurso reúne todos los requisitos establecidos por este ordenamiento, se dictará el auto de admisión correspondiente dentro de los tres días tratándose del recurso de apelación, y de seis días en el caso del de nulidad, siguientes a la recepción de la documentación. En seguida se ordenará fijar copia de los autos respectivos en estrados;
-
-IV. Una vez substanciado el expediente, previa admisión y desahogo de las pruebas, dentro de los plazos establecidos, se declarará cerrada la instrucción, pasando el asunto a sentencia.
-
-El Presidente del Consejo o el Presidente del Tribunal, en los asuntos de su competencia, podrán solicitar a las autoridades federales o requerir a las autoridades estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la substanciación y resolución de los medios de impugnación. Asimismo, en casos extraordinarios podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
-
-La no aportación de las pruebas ofrecidas, en ningún caso será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, el órgano electoral resolverá con los elementos que obren en autos.
-
-V. Se procederá a formular el proyecto de sentencia y se señalará fecha para dictar la Resolución.
-
-### CAPÍTULO X. De las Resoluciones y Sentencias
-
-###### ARTÍCULO 314.
-
-Los acuerdos, resoluciones o sentencias que pronuncien, el Consejo o el Tribunal, deberán hacerse constar por escrito y contendrán:
-
-I. La fecha, el lugar y el órgano electoral que la dicta;
-
-II. El resumen de los hechos o puntos de derecho controvertidos;
-
-III. En su caso, el análisis de los agravios, así como el examen y valoración de las pruebas que resulten pertinentes;
-
-IV. Los fundamentos jurídicos y razonamientos lógico-jurídicos que sirvan de base para la resolución o sentencia;
-
-V. Los puntos resolutivos, y
-
-VI. En su caso, el plazo para su cumplimiento.
-
-###### ARTÍCULO 315.
-
-Al resolver los medios de impugnación establecidos en este Código, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Instituto o el Tribunal resolverán tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
-
-###### ARTÍCULO 316.
-
-En el procedimiento ante el Tribunal se observará lo siguiente:
-
-El Presidente ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión.
-
-El Tribunal dictará sus sentencias en sesión pública, de conformidad con lo que establezca este Código y las disposiciones reglamentarias aplicables, así como las reglas y el procedimiento siguiente:
-
-I. Abierta la sesión pública por el Presidente y verificado el quórum legal por el Secretario, se procederá a exponer y discutir cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen, y cuando el pleno los considere suficientemente discutidos, los someterá a votación. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
-
-II. Si el proyecto que se presenta es votado en contra por la mayoría del Tribunal, a propuesta del Presidente se designará a otro Magistrado, para que, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, engrose el fallo con las consideraciones y razonamientos jurídicos correspondientes, y
-
-III. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los Magistrados del Tribunal ya sea directamente o a través de uno de los Secretarios de Estudio, y el Secretario General de Acuerdos el cual levantará el acta circunstanciada correspondiente.
-
-En casos extraordinarios el Presidente del Tribunal, podrá diferir la resolución de un asunto listado.
-
-###### ARTÍCULO 317.
-
-Las sentencias que dicte el Tribunal podrán confirmar, modificar o revocar los actos o resoluciones impugnados y serán definitivas.
-
-### CAPÍTULO XI. De las Notificaciones
-
-###### ARTÍCULO 318.
-
-Notificación es el acto procesal por el que las autoridades electorales, hacen saber a las partes y a los interesados la determinación de un acto o su resolución.
-
-###### ARTÍCULO 319.
-
-Las notificaciones surtirán sus efectos el mismo día en que se practiquen.
-
-Durante los procesos electorales, el Instituto y el Tribunal podrán notificar sus actos, resoluciones o sentencias en cualquier día y hora.
-
-###### ARTÍCULO 320.
-
-Las notificaciones se podrán hacer:
-
-I. Personalmente;
-
-II. Por cédula;
-
-III. En estrados;
-
-IV. Por oficio;
-
-V. Por correo certificado o por telegrama;
-
-VI. Mediante la publicación en el Periódico Oficial del Estado;
-
-VII. Por correo electrónico, y
-
-VIII. Vía fax con su respectivo acuse de recibo, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposición expresa de este Código.
-
-###### ARTÍCULO 321.
-
-Las notificaciones personales se harán al interesado a más tardar al día siguiente del que se emitió el acto o se dictó la resolución o sentencia.
-
-Se entenderán personales cuando se trate de:
-
-I. La admisión, desechamiento o sobreseimiento del recurso;
-
-II. La que consista en un requerimiento;
-
-III. La que mande citar a los testigos, peritos o a un tercero, y
-
-IV. La resolución o sentencia definitivas.
-
-Cuando se realice la notificación al Instituto o a alguno de sus órganos, ésta se hará por oficio, al cual se le anexará copia certificada de la resolución o sentencia definitiva.
-
-###### ARTÍCULO 322.
-
-Las cédulas de notificación personal deberán contener:
-
-I. La descripción del acto, resolución o sentencia que se notifica;
-
-II. Lugar, hora y fecha en que se hace;
-
-III. Nombre de la persona con quien se entienda la diligencia, y
-
-IV. Firma del actuario o notificador y sello oficial.
-
-Si no se encuentra presente el interesado, se deberá dejar citatorio para que esté presente en el lugar al día hábil siguiente, señalando una hora determinada, y en caso de que el interesado no atienda el citatorio, se entenderá la notificación con la persona que esté en el domicilio.
-
-Si el domicilio está cerrado o la persona con la que se entiende la diligencia se niega a recibir la cédula, el funcionario responsable de la notificación la fijará junto con la copia del auto, resolución o sentencia a notificar, en un lugar visible del local, asentará la razón correspondiente en autos debiendo firmar el acta que para tales efectos levante y recabará la firma de por lo menos dos testigos, y también procederá a fijar la notificación en los estrados.
-
-En todos los casos, al realizar una notificación personal, se dejará en el expediente la cédula respectiva y copia del auto, resolución o sentencia, asentando la razón de la diligencia.
-
-Cuando los promotores omitan señalar domicilio, o éste no resulte cierto o bien se encuentre ubicado fuera de la ciudad en la que tenga su sede la autoridad que realice la notificación de las resoluciones a que se refiere este artículo, ésta se practicará por estrados.
-
-###### ARTÍCULO 323.
-
-Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto y el Tribunal, para que sean colocadas las copias de los documentos, autos, acuerdos, resoluciones y sentencias que les recaigan, para su notificación y publicidad.
-
-###### ARTÍCULO 324.
-
-La notificación por correo se hará en pieza certificada agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará enviándola por duplicado para que la oficina que la trasmita devuelva el ejemplar sellado que se agregará al expediente. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax o correo electrónico y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse de recibido.
-
-###### ARTÍCULO 325.
-
-El partido político o candidato independiente, cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se tendrá por notificado del acto o resolución correspondiente para todos los efectos legales.
-
-###### ARTÍCULO 326.
-
-No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación, los actos o resoluciones que, en los términos de las leyes aplicables, o por acuerdo del órgano competente, se publiquen en el Periódico Oficial del Estado o en los diarios de mayor circulación, o en lugares públicos, o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal.
-
-### CAPÍTULO XII. De la Acumulación
-
-###### ARTÍCULO 327.
-
-Para la resolución pronta y expedita de los medios de impugnación previstos en este Código, los órganos competentes del Instituto o el Tribunal, podrán determinar su acumulación. La acumulación podrá decretarse al inicio o durante la substanciación, o para la resolución de los medios de impugnación.
-
-Podrán acumularse los expedientes de aquellos recursos en que se impugne simultáneamente, por dos o más partidos políticos o en su caso candidato independiente, el mismo acto o resolución, o aquellos expedientes de los recursos que guarden conexidad.
-
-### CAPÍTULO XIII. De los Medios de Apremio y Correcciones Disciplinarias
-
-###### ARTÍCULO 328.
-
-Para hacer cumplir las disposiciones del presente ordenamiento y las sentencias que dicten, así como para mantener el orden, el respeto y la consideración debidos, el Consejo y el Tribunal podrán aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
-
-I. Apercibimiento;
-
-II. Amonestación;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
-
-III. Multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
-
-IV. Auxilio de la fuerza pública, y
-
-V. Arresto hasta por treinta y seis horas.
-
-Lo anterior sin perjuicio de que en caso de resultar algún ilícito, se dé parte a la autoridad competente.
-
-###### ARTÍCULO 329.
-
-Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo anterior, serán aplicados por el Presidente del organismo electoral respectivo, por sí mismo o con el apoyo de la autoridad competente.
-
-## TÍTULO TERCERO. DEL RECURSO DE INCONFORMIDAD
+Los jueces municipales no son recusables; pero deben excusarse cuando estén impedidos. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
 ### CAPÍTULO I. De la Procedencia
-
-###### ARTÍCULO 330.
-
-Es competente para conocer del recurso de inconformidad el Consejo. El recurso de inconformidad procede contra actos o resoluciones de los consejos distritales y municipales.
-
-###### ARTÍCULO 331.
-
-El recurso de inconformidad deberá presentarse ante el Consejo Distrital o Municipal que emita el acto o resolución impugnado. Este recurso procederá exclusivamente durante la etapa de preparación de la elección.
-
-###### ARTÍCULO 332.
-
-El recurso de inconformidad deberá ser resuelto dentro de los seis días siguientes a la fecha en que hayan sido recibidos por el Consejo o perdido el derecho para ello, los documentos establecidos en el artículo 312 del presente Código.
-
-El Consejo emitirá la resolución correspondiente por acuerdo de la mayoría simple de sus miembros presentes.
 
 ### CAPÍTULO II. De la Sustanciación y la Resolución
 
-###### ARTÍCULO 333.
-
-Una vez cumplidas las reglas de trámite establecidas en este Código, recibido un recurso de Inconformidad por el Consejo, se realizará lo siguiente:
-
-I. Cumplidos los requisitos y etapas procesales del recurso, el Secretario Ejecutivo procederá a formular el proyecto de resolución, mismo que será sometido al Consejo en un plazo no mayor de cinco días, contados a partir de la recepción de la documentación respectiva.
-
-El Secretario Ejecutivo engrosará la resolución en los términos que determine el propio Consejo;
-
-II. En casos extraordinarios, el proyecto de resolución de un recurso de Inconformidad que se presente en una sesión, podrá retirarse para su análisis. En este supuesto, se resolverá en un plazo no mayor de tres días, contados a partir de su diferimiento, y
-
-III. Todos los recursos de Inconformidad interpuestos dentro de los cinco días anteriores al de la elección, serán enviados al Tribunal para que sean resueltos junto con los recursos de nulidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere esta fracción no guarden relación con algún recurso de nulidad, serán archivados como asuntos definitivamente concluidos.
-
-###### ARTÍCULO 334.
-
-Las resoluciones que recaigan a los recursos de inconformidad tendrán como efecto, la confirmación, modificación o revocación del acto o resolución impugnada.
-
-## TÍTULO CUARTO. DEL RECURSO DE APELACIÓN
-
 ### CAPÍTULO I. De la Procedencia
-
-###### ARTÍCULO 335.
-
-Es competente para conocer y resolver el recurso de apelación el Tribunal, y procede:
-
-I. Contra actos o resoluciones que recaigan a los recursos de inconformidad;
-
-II. Contra los actos o resoluciones emitidos por el Instituto que no sean impugnables a través del recurso de inconformidad, y
-
-III. En los demás casos que expresamente lo disponga este Código.
 
 ### CAPÍTULO II. De la Sustanciación
-
-###### ARTÍCULO 336.
-
-Todos los recursos de apelación interpuestos dentro de los cinco días anteriores al de la elección, serán resueltos junto con los recursos de nulidad con los que guarden relación. El recurrente deberá señalar la conexidad de la causa. Cuando los recursos a que se refiere este párrafo no guarden relación con algún recurso de nulidad, serán archivados como asuntos definitivamente concluidos.
-
-En la sustanciación del recurso de apelación, el Tribunal podrá citar a las partes para celebrar audiencia de desahogo de pruebas, cuando a su juicio, y por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes. En este caso, la audiencia se llevara a cabo con o sin la asistencia de las mismas, en la fecha que al efecto se señale. El Magistrado respectivo acordará lo conducente. Los interesados podrán comparecer por sí mismos o a través de representante debidamente autorizado.
-
-### CAPÍTULO III. De las Sentencias
-
-###### ARTÍCULO 337.
-
-Las sentencias de fondo que recaigan al recurso de apelación, tendrán como efecto confirmar, modificar o revocar el acto o resolución impugnado.
-
-Los recursos de apelación serán resueltos por el Tribunal, dentro de los diez días siguientes a aquel en que se admitan.
-
-## TÍTULO QUINTO. DEL RECURSO DE NULIDAD
-
-### CAPÍTULO I. De la Procedencia
-
-###### ARTÍCULO 338.
-
-Es competente para conocer del recurso de nulidad el Tribunal.
 
 ## TRANSITORIOS
 
@@ -5725,6 +5033,16 @@ El Secretario de Gobierno
 
 Lic. Miguel Aguillón Guzmán
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 14 DE NOVIEMBRE DE 1940.
+
+Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 29 DE DICIEMBRE DE 1966.
+
+TRANSITORIO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -5738,8 +5056,6 @@ Se abroga el Código Electoral del Estado de Aguascalientes, publicado en el Per
 Se aprueba el Código Electoral para el Estado de Aguascalientes, para quedar bajo los siguientes términos:
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
-
-# LIBRO PRIMERO. DE LOS CIUDADANOS, PARTIDOS POLÍTICOS Y ASOCIACIONES POLÍTICAS
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5763,98 +5079,12 @@ Los asuntos que se encuentren en trámite a la entrada en vigor del presente Dec
 
 En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Estatal Electoral, los actuales consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les correspondan conforme a este Decreto.
 
-###### ARTÍCULO QUINTO.
-
-El Consejo General del Instituto Estatal Electoral dictará los acuerdos necesarios para aplicar las disposiciones de este Decreto, y dentro de los ciento veinte días de su inicio de vigencia, deberá aprobar los reglamentos que en términos del presente Decreto le competa.
-
-###### ARTÍCULO SEXTO.
-
-El personal del Instituto Estatal Electoral, adscrito al Servicio Profesional Estatal Electoral conservará sus derechos laborales.
-
-###### ARTÍCULO SÉPTIMO.
-
-La Sala Administrativa y Electoral del Poder Judicial del Estado conocerá de los recursos establecidos en este Decreto, en tanto no se haga la instalación formal del Tribunal Electoral del Estado, instalación que se dará al día siguiente que los magistrados electorales rindan la protesta de ley ante el Senado de la República.
-
-###### ARTÍCULO OCTAVO.
-
-Una vez que las elecciones de Gobernador, diputados y ayuntamientos sean concurrentes con las elecciones federales en forma definitiva, quedará derogado el Título Cuarto “De la Jornada Electoral en Elecciones no Concurrentes” del Libro Tercero de este Código.
-
-###### ARTÍCULO NOVENO.
-
-En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias al Fiscal General del Estado y a la Fiscalía General del Estado contenidas en el presente Decreto, se entenderán hechas al Procurador General de Justicia del Estado y a la Procuraduría General de Justicia del Estado, respectivamente.
-
-En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, el nombramiento del Fiscal Especial en Delitos Electorales se realizará en términos del artículo 40 de la Ley Orgánica del Ministerio Público del Estado de Aguascalientes.
-
-Una vez que asuma sus funciones el Fiscal General del Estado, se procederá en términos del artículo 295 de este Código a fin de realizar el nombramiento correspondiente.
-
-###### ARTÍCULO DÉCIMO.
-
-La distribución del financiamiento público estatal para el sostenimiento de actividades ordinarias permanentes referida en el artículo 33, fracciones III, IV y V de este Código, se realizará de la siguiente manera:
-
-I. En el Ejercicio Fiscal correspondiente al año 2015, la primera porción que se distribuirá de forma igualitaria será del 30%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 70%;
-
-II. En el Ejercicio Fiscal correspondiente al año 2016, la primera porción que se distribuirá de forma igualitaria será del 35%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 65%, y
-
-III. En el primer semestre del Ejercicio Fiscal correspondiente al año 2017, la primera porción que se distribuirá de forma igualitaria será del 37.5%, mientras que la segunda porción que se entregará a los partidos políticos de manera proporcional, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior, será del 62.5%. A partir del segundo semestre del Ejercicio Fiscal del año 2017, se aplicará la distribución establecida en el artículo 33 de este Código.
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2016)</small>
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-La jornada electoral ordinaria del año 2018 se celebrará el primer domingo de julio, en términos de lo dispuesto por el Artículo Segundo Transitorio, Fracción II, inciso a) del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014; así como por el Artículo Décimo Primero Transitorio de la Ley General de Instituciones y Procedimientos Electorales, publicada en el Diario Oficial de la Federación el 23 de mayo de 2014; en relación con el Artículo Tercero Transitorio del Decreto Número 69 por el que se reformó la Constitución Política del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el 28 de julio de 2014.
-
-Para tal efecto, se faculta al Consejo General del Instituto Estatal Electoral de Aguascalientes, para ajustar los plazos establecidos en el Código Electoral del Estado de Aguascalientes para la celebración del Proceso Electoral Ordinario 2017-2018.
-
-Al Ejecutivo para su promulgación y publicación.
-
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los quince días del mes de febrero del año dos mil quince.
-
-Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
-
-Aguascalientes, Ags., a 15 de febrero del año 2015.
-
-A T E N T A M E N T E
-
-LA MESA DIRECTIVA:
-
-Dip. Juan Manuel Méndez Noriega,
-
-PRESIDENTE.
-
-Dip. Anayeli Muñoz Moreno,
-
-PRIMERA SECRETARIA.
-
-Dip. Oswaldo Rodríguez García,
-
-SEGUNDO SECRETARIO.
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de febrero de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 11 DE JULIO DE 2016.
-
 ###### ARTÍCULO TERCERO.
 
 Las asociaciones políticas constituidas previamente a la publicación del presente Decreto, deberán efectuar el refrendo correspondiente a más tardar a los dieciocho meses contados a partir de la publicación de la presente reforma.
 
-###### ARTÍCULO CUARTO.
-
-El Contralor Interno del Instituto Estatal Electoral que se encuentra actualmente en funciones, concluirá su encargo el último día del año 2018, por lo que el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Contralor Interno, que iniciará sus funciones el primer día del año 2019.
-
-###### ARTÍCULO QUINTO.
-
-Para las elecciones locales no concurrentes de los años 2019 y 2022 los partidos políticos y candidatos independientes nombraran a un representante propietario y un suplente ante las mesas directivas de casilla.
-
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE ADICIONA EL ARTÍCULO 251 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- SE ADICIONAN, SE REFORMAN Y DEROGAN, DIVERSOS ARTÍCULOS Y FRACCIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE ESTADO (SIC) DE AGUASCALIENTES".]
