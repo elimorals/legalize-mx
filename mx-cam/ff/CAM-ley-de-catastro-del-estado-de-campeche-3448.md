@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-catastro-del-estado-de-campeche-3448"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-11"
-last_updated: "1995-12-26"
+last_updated: "1998-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CATASTRO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 11 de abril de 1992.
 
@@ -296,6 +296,14 @@ En la conformación de la Clave Catastral, los ayuntamientos observarán la sigu
 08 Palizada
 
 09 Tenabo
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+010 Calakmul
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
+
+011 Candelaria
 
 ###### Artículo 18.
 
@@ -940,3 +948,9 @@ P.O. 26 DE DICIEMBRE DE 1995.
 Primero.- El presente decreto entrará en vigor el día primero de Enero de mil novecientos noventa y seis.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a las contenidas en este decreto.
+
+P.O. 16 DE DICIEMBRE DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con efectos retroactivos al día 20 de octubre de mil novecientos noventa y ocho.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
