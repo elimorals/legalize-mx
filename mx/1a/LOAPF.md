@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1992-05-25"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -458,7 +458,7 @@ II.- Proyectar y calcular los ingresos de la Federación, del Departamento del D
 
 III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la Federación y del Departamento del Distrito Federal;
 
-IV.- Dirigir la política monetaria y crediticia;
+IV.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
 V.- Manejar la deuda pública de la Federación y del Departamento del Distrito Federal;
 
@@ -1489,3 +1489,19 @@ Las atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de
 Igualmente, las atribuciones que en otras leyes y reglamentos se otorgan a la Secretaría de Educación Pública en las materias a que hace referencia la fracción VII del artículo 32 modificado, se entenderán otorgadas a la Secretaría de Desarrollo Social.
 
 Asimismo, las atribuciones que en otras leyes y reglamentos, con anterioridad a la entrada en vigor de este Decreto se entendían conferidas a la Secretaría de Hacienda y Crédito Público en las materias a que se refieren las fracciones II a VI y VIII del artículo 32 modificado, en lo futuro se entenderán conferidas a la Secretaría de Desarrollo Social.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
+
+La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
+
+...
+
+DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
+
+Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+
+Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
