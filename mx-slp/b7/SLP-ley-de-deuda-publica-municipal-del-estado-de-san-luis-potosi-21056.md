@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-municipal-del-estado-de-san-luis-potosi-21
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1988-01-15"
+last_updated: "2001-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -119,7 +119,9 @@ I.- Aprobar anualmente en la Ley de Ingresos de cada Municipio, las bases para d
 
 II.- Autorizar, previa solicitud del Ayuntamiento debidamente justificada y con apego a esta Ley, los montos de endeudamiento adicionales a los que resulten de la aplicación de la Ley de Ingresos, cuando a juicio de la propia Legislatura medien circunstancias extraordinarias que lo ameriten;
 
-III.- Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término de la gestión para la que fueran electos;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+III.- Previo acuerdo de las dos terceras partes de los miembros de Ayuntamiento respectivo, autorizar de manera expresa la contratación de endeudamiento por los ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término de la gestión para la que fueran electos;
 
 IV.- Verificar que las operaciones de deuda de los Municipios, sus Organismos, Empresas y Fideicomisos, se realicen conforme a las disposiciones legales aplicables;
 
@@ -169,13 +171,17 @@ VIII.- Inscribir en el Registro de Deuda Pública Municipal, sus operaciones cre
 
 Para la obtención y contratación de créditos y empréstitos, las Entidades Públicas enumeradas en el Artículo 2 de esta Ley, podrán ocurrir a Instituciones Nacionales de Banca de Desarrollo y de Banca Múltiple, proveedores y contratistas, procurando en todo caso el conocimiento de alternativas que permitan comparar y elegir el logro de recursos más favorables al interés público.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-Los Municipios por acuerdo del Cabildo podrán buscar la substitución de acreedor ó acreedores para que diferentes Entidades Públicas, particulares, concesionarios o usuarios, del sector privado o social, se subroguen en los adeudos suscritos originalmente por los Ayuntamientos.
+Los municipios por acuerdo de las dos terceras partes de los miembros de los ayuntamientos, podrán buscar la substitución de acreedores para que diferentes Entidades Públicas, particulares, concesionarios, o usuarios del sector privado o social, se subroguen en los empréstitos o financiamientos suscritos originalmente por los ayuntamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 14.
 
-Los Ayuntamientos previa autorización del Cabildo, podrán suscribir los contratos, títulos de crédito y cualquier otro documento complementario para formalizar las operaciones a que se refiere la presente Ley. Los contratos y convenios serán firmados por el Presidente, Secretario, Tesorero y Primer Síndico Municipales. Los títulos de crédito que se emitan los suscribirán el Presidente y el Tesorero Municipales.
+Los ayuntamientos previo acuerdo de las dos terceras partes de sus miembros, podrán suscribir los contratos, títulos de crédito y cualquier otro documento complementario para formalizar las operaciones a que se refiere la presente Ley. Los contratos y convenios serán firmados por el Presidente, Secretario, Tesorero y Síndico o síndicos. Los títulos de crédito que se emitan los suscribirán el Presidente y el Tesorero Municipales.
 
 En la misma forma se documentarán las operaciones por las que se substituya al Ayuntamiento como acreditado, cuando cambie su calidad de deudor directo o avalista o subroguen su deuda a terceros.
 
@@ -201,15 +207,19 @@ En la contratación de deuda, se deberá buscar que se mantenga un correcto equi
 
 Los Organismos, las Empresas y los Fideicomisos, sólo podrán contratar empréstitos o créditos ordinarios o extraordinarios si tienen la autorización del Organo de Gobierno Interno correspondiente. En ambos casos se presentará la solicitud a través del Ayuntamiento respectivo.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 19.
 
-Cuando se den los supuestos previstos en el Artículo 84 de la Ley Orgánica Municipal y un Ayuntamiento se coordine o asocie a otro similar, o al Estado, para la prestación de servicios municipales, en tal caso, se podrán contratar en forma consolidada las operaciones a que se refiere la presente Ley, siempre y cuando se establezcan por separado las obligaciones a cargo de cada participante y con esta modalidad se inscribirán en el Registro de Deuda Pública Municipal.
+Cuando un Ayuntamiento se coordine o asocie a otro similar, o al Estado, para la prestación de servicios municipales, en tal caso, se podrán contratar en forma consolidada las operaciones a que se refiere la presente Ley, siempre y cuando se establezcan por separado las obligaciones a cargo de cada participante y con esta modalidad se inscribirán en el Registro de Deuda Pública Municipal.
 
 ### CAPITULO CUARTO. DE LAS GARANTIAS Y LOS AVALES
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-Los Municipios con autorización del Cabildo, podrán comprometer y otorgar en garantía en la contratación de obligaciones directas y contingentes hasta el treinta por ciento del monto anual de sus ingresos municipales en gravámenes y fondos federales repartibles.
+Los Municipios por acuerdo de las dos terceras partes de los miembros de sus ayuntamientos, podrán comprometer y otorgar en garantía en la contratación de obligaciones directas y contingentes hasta el treinta por ciento del monto anual de sus ingresos municipales en gravámenes y fondos federales repartibles.
 
 ###### ARTICULO 21.
 
@@ -340,3 +350,11 @@ LEOPOLDINO ORTIZ SANTOS
 El Secretario General de Gobierno
 
 ADALBERTO NOYOLA VAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
