@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-06-29"
+last_updated: "2001-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -555,13 +555,13 @@ XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la 
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
+XV.- Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JUNIO DE 2001)</small>
 
-XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
+XVII.- Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -617,7 +617,9 @@ XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en lo
 
 XXXIII. Expedir las leyes que fueren necesarias para hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
-XXXIII Bis. (DEROGADA, P.O. 27 DE MARZO DE 1995)
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+XXXIII Bis. Para expedir leyes que regulen actividades relativas a la prestación de servicios inmobiliarios.
 
 XXXIV. Todas las demás facultades que las leyes le otorguen.
 
@@ -1143,7 +1145,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
@@ -1151,7 +1153,9 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 ###### Art. 90.
 
-La educación que se imparta en el Estado se regirá por la filosofía y principios que consagra el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana.
+La educación que se imparta en el Estado se regirá por la filosofía y principios que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana. Reforzando esto último con la promoción y difusión de la cultura en sus más diversas expresiones, alentando en esta tarea la mayor participación social.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
 Para la regulación de la educación dentro de la esfera de competencia del Estado, se expedirá la Ley correspondiente, cuya ejecución y vigilancia de su cumplimiento estará a cargo del Gobierno del Estado a través de la dependencia competente y de los Municipios.
 
@@ -2864,6 +2868,12 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 29 DE JUNIO DE 2001.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 30 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
