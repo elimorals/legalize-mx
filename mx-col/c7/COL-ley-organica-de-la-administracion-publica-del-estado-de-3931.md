@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1986-02-15"
+last_updated: "1988-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1988.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -67,11 +67,11 @@ El titular del Ejecutivo Estatal contará con las unidades de coordinación, ase
 
 Las dependencias y entidades de la Administración Pública del Estado conducirán sus actividades de acuerdo con los planes, programas y proyectos aprobados con base en las políticas que para el logro de los objetivos y prioridades determine el Titular del Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1988)</small>
 
 ###### ARTICULO 6o.
 
-Las Secretarías: General de Gobierno, de Programación y Finanzas, de la Contraloría, de Desarrollo, de Educación, Cultura y Deporte y de Salud y Bienestar Social, dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preemicencia (sic) alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
+Las Secretarías: General de Gobierno, de Programación y Finanzas, de la Contraloría, de Educación, Cultura y Deporte, de Desarrollo Urbano y Vivienda, de Desarrollo Económico y de Salud y Bienestar Social, dependerán directamente del Gobernador y tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Serán consideradas como dependencias de coordinación global y sus titulares ejercerán las funciones de su competencia por acuerdo del Gobernador.
 
 ###### ARTICULO 7o.
 
@@ -125,25 +125,27 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1988)</small>
 
 ###### ARTICULO 19o.
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo Estatal contará con las siguientes dependencias:
 
-Secretaría General de Gobierno
+Secretaría General de Gobierno.
 
-Secretaría de Programación y Finanzas
+Secretaría de Programación y Finanzas.
 
-Secretaría de la Contraloría
+Secretaría de la Contraloría.
 
-Secretaría de Desarrollo
+Secretaría de Desarrollo Urbano y Vivienda.
 
-Secretaría de Educación, Cultura y Deporte
+Secretaría de Desarrollo Económico.
 
-Secretaría de Salud y Bienestar Social
+Secretaría de Salud y Bienestar Social.
 
-Procuraduría General de Justicia
+Secretaría de Educación, Cultura y Deporte.
+
+Procuraduría General de Justicia.
 
 Oficialía Mayor.
 
@@ -277,33 +279,49 @@ XIII.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le 
 
 XIV.- Los demás que le atribuyan las leyes y reglamentos vigentes siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1988)</small>
+
 ###### ARTICULO 23o.
 
-A la Secretaría de Desarrollo corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Vivienda corresponde el despacho de los siguientes asuntos:
 
-I.- Formular, proponer y aplicar los programas de infraestructura y desarrollo agropecuario, forestal, pesquero, industrial, comercial, de comunicaciones y de las demás actividades inherentes al desarrollo que no correspondan expresamente a otra unidad.
+I.- Formular, proponer y aplicar los programas de desarrollo urbano y vivienda.
 
-II.- Formular, proponer y aplicar los programas de desarrollo urbano y vivienda.
+II.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que en el mismo sentido realicen los Municipios.
 
-III.- Formular, proponer y aplicar los programas de conservación y mejoramiento ecológico del Estado.
+III.- Ejecutar la obra pública que corresponda al Gobierno del Estado.
 
-IV.- Formular, proponer y aplicar los programas de abastecimiento, utilización y tratamiento de aguas en el Estado.
+IV.- Otorgar con acuerdo expreso del Titular del Poder Ejecutivo, con base en la Legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción I de este Artículo.
 
-V.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que en el mismo sentido realicen los Municipios.
+V.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
 
-VI.- Ejecutar la obra pública que corresponda al Gobierno del Estado.
+VI.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan.
 
-VII.- Organizar congresos, convencionales, exposiciones y ferias de carácter agrícola, ganadero, turístico, comercial, industrial, artesanal o actividades que se consideren relevantes al desarrollo estatal.
+VII.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
-VIII.- Participar en el levantamiento de los censos e inventarios de los recursos estatales.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1988)</small>
 
-IX.- Otorgar con acuerdo expreso del Titular del Poder Ejecutivo, con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción I de este Artículo.
+ARTICULO 23 BIS.- A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-X.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
+I.- Formular, proponer y aplicar los programas de infraestructura y desarrollo agropecuario, forestal, pesquero, industrial, comercial, turístico, de comunicaciones y de las demás actividades inherentes al desarrollo que no correspondan expresamente a otra unidad.
 
-XI.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan.
+II.- Formular, proponer y aplicar los programas de conservación y mejoramiento ecológico del Estado, en coordinación con los Municipios.
 
-XII.- Los demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+III.- Formular, proponer y aplicar los programas de abastecimiento, utilización y tratamientos de aguas en el Estado.
+
+IV.- Coordinar la ejecución de los programas de cada una de las actividades sustantivas señaladas en las anteriores fracciones, con los que en el mismo sentido realicen los Municipios.
+
+V.- Organizar congresos, convenciones, exposiciones y ferias de carácter agrícola, ganadero, turístico, comercial, industrial, artesanal o actividades que se consideren relevantes al desarrollo estatal. Servir de órgano de consulta y asesoría en su materia para las dependencias y entidades públicas, así como los sectores social y privado;
+
+VI.- Participar en el levantamiento de los censos e inventarios de los recursos estatales.
+
+VII.- Otorgar con acuerdo expreso del Titular del Poder Ejecutivo, con base en la Legislación aplicable, conseciones (sic), autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción I de esta Artículo.
+
+VIII.- Despachar los asuntos que en el área de su competencia, le encomiende el Titular del Poder Ejecutivo.
+
+IX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que les correspondan.
+
+X.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
 
 ###### ARTICULO 24o.
 
@@ -488,3 +506,9 @@ Palacio de Gobierno, Colima, Colima, a 15 de noviembre de 1985.- El Gobernador C
 P.O. 15 DE FEBRERO DE 1986.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 27 DE FEBRERO DE 1988.
+
+PRIMERO.- El Ejecutivo del Estado, dispondrá la estructura orgánica sobre la que deberán funcionar las dependencias que se crean por virtud de este decreto, de conformidad con lo establecido por el Artículo 9o. de la Ley que se reforma, debiendo posteriormente las citadas dependencias proceder conforme lo establece la propia Ley en su Artículo Primero Transitorio.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
