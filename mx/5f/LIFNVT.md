@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1986-01-13"
+last_updated: "1989-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -332,9 +332,11 @@ El trabajador tendrá derecho, en todo momento, a solicitar y obtener informaci�
 
 Al terminarse la relación laboral, el patrón deberá entregar al trabajador una constancia de la clave de su registro.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 35.
 
-Las aportaciones señaladas en la fracción II del artículo 29, deberán hacerse bimestralmente, a más tardar el día 15 o al día siguiente hábil si aquél no lo fuere, del mes subsecuente al bimestre al que correspondan. Estas aportaciones constituyen depósitos de dinero sin causa de intereses en favor de los trabajadores. La aplicación y entrega de los mismos, se hará conforme a lo dispuesto por el artículo 141 y demás disposiciones aplicables de la Ley Federal del Trabajo y de la presente Ley.
+Las aportaciones señaladas en la fracción II del artículo 29, deberán hacerse mensualmente, a más tardar el día 11 o al día siguiente hábil si aquél no lo fuere, del mes subsecuente al mes al que comprendan. Tratándose de personas físicas será el día 17 o el día siguiente hábil si aquél no lo fuere del mes subsecuente al mes al que comprenda. Estas aportaciones constituyen depósitos de dinero sin causa de intereses en favor de los trabajadores. La aplicación y entrega de los mismos, se hará conforme a lo dispuesto por el artículo 141 y demás disposiciones aplicables de la Ley Federal del Trabajo y de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -713,3 +715,19 @@ D.O.F. 13 DE ENERO DE 1986.
 PRIMERO.- Las solicitudes de entrega de depósitos y de liberación de adeudos presentadas con anterioridad a estas reformas y las que se presenten posteriormente, pero cuyos hechos generadores del derecho hayan surgido antes de su vigencia, serán resueltas conforme a dichas reformas.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1989.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1990
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+###### ARTICULO TERCERO.
+
+Los pagos provisionales de los impuestos sobre la renta, al valor agregado, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de enero de 1990, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 31 de diciembre de 1989.
