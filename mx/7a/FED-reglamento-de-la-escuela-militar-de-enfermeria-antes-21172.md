@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-enfermeria-antes-21172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21172&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE ENFERMERAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -833,7 +833,9 @@ II. Las faltas injustificadas y las justificadas por motivos de salud, por razon
 
 El registro y cómputo de faltas se dará a conocer periódicamente al personal en instrucción por la Sección Académica del plantel.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. De los Títulos, Certificados y Patentes
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 65.
 
@@ -923,17 +925,23 @@ Las cadetes que causen baja por situarse en lo establecido en el artículo 66, f
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], D.O.F. 16 DE AGOSTO DE 2004)</small>
+
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 76.
 
-El pesonal (sic) en instrucción que al terminar satisfactoriamente los estudios y aprueben el examen profesional en el plantel, recibirá:
+El personal en instrucción que termine satisfactoriamente los estudios y apruebe el examen profesional en el plantel, recibirá:
 
-I. Título de Técnico Superior en Enfermería Militar;
+I. Certificado de Estudios;
 
-II. Certificado de Estudios, y
+II. Título de Técnico Superior en Enfermería Militar;
 
-III. Patente de Subteniente Enfermera.
+III. Grado de Subteniente Enfermera;
+
+IV. Patente, y
+
+V. Gafete distintivo del curso.
 
 ###### ARTÍCULO 77.
 
@@ -961,7 +969,7 @@ IV. Exento de presentar examen final ordinario al personal en instrucción que o
 
 ###### ARTÍCULO 81.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá gafete distintivo de la carrera o curso correspondiente.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TÍTULO OCTAVO. Disposiciones Complementarias
 
@@ -1034,3 +1042,11 @@ SEGUNDO.- Se abrogan los Reglamentos siguientes: del Colegio de Defensa Nacional
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
