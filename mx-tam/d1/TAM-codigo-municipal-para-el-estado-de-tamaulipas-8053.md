@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-04-20"
+last_updated: "2004-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1355,6 +1355,18 @@ Este precepto no se interpretará en términos de conceder al mismo contribuyent
 
 El pago realizado por anualidad anticipada no impide el cobro de diferencias por cambio de las bases gravables o modificación en las cuotas del impuesto.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2004)</small>
+
+En los casos de predios que nunca hayan sido manifestados ni estén registrados en el padrón catastral del municipio respectivo, por causa imputable al contribuyente del impuesto, se fincará liquidación presuntiva y se requerirá su pago por los cinco años anteriores a la fecha de la detección de la omisión, aplicándose la tasa vigente en cada uno de los ejercicios omitidos.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2004)</small>
+
+Tratándose de construcciones no manifestadas, si no se puede fijar con precisión la fecha desde la cual se omitió el aviso correspondiente, se hará el cobro del impuesto por los cinco años anteriores a la fecha en que fue descubierta la omisión, salvo que el interesado pruebe que la construcción data de fecha posterior.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2004)</small>
+
+Los predios baldíos o no edificados, en zonas urbanas y suburbanas, excepto los que estén en zonas que carezcan de servicios públicos de urbanización y los ubicados en las comunidades rurales, causarán este impuesto conforme a la tasa que se determine anualmente en la Ley de Ingresos del Municipio respectivo, en la que podrá considerarse su incremento en razón de la expansión de los servicios públicos urbanos a zonas y áreas que permanezcan sin ser objeto de edificación, construcción o aprovechamiento económico directo durante los dos años anteriores.
+
 ###### ARTICULO 111.
 
 Las construcciones, mejoras o inversiones afectas al impuesto, se considerarán garantía real preferente por adeudos prediales.
@@ -1659,17 +1671,31 @@ En lo no previsto para este impuesto, serán de aplicación supletoria la Ley de
 
 Los derechos que cobren las Tesorerías Municipales, serán estrictamente los que señala la Ley de Ingresos Municipales en los montos, tasas y tarifas que la misma determina.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 140.
 
-En cuanto al derecho por servicio de rastro, el ganado deberá ser sacrificado precisamente en los rastros municipales.
+Los propietarios o poseedores de predios baldíos o no edificados que se ubiquen en las zonas urbanas o suburbanas de los municipios están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio. En caso de no hacerlo, el servicio será prestado por el Ayuntamiento, a costa del propietario o poseedor del predio.
 
-El sacrificio de aves que vayan a destinarse para el consumo público, ya sea en carnicerías, restaurantes u otros establecimientos similares, deberá hacerse siempre en el rastro municipal.
+Son objeto del derecho por limpieza de predios no edificados, los servicios de limpieza de los predios a que se refiere el párrafo anterior, a los que el Ayuntamiento preste el servicio en atención a sus programas de saneamiento ambiental e higiene de las comunidades. Estos programas referirán periodos para la realización de estos servicios de limpieza, de tal suerte que se contemple su aplicación escalonada en todo el Municipio.
 
-En todos los casos deberán cobrarse las cantidades que correspondan por los servicios que se prestan.
+Los derechos por limpieza de predios no edificados o baldíos se causarán y pagarán de acuerdo al costo del arrendamiento de la maquinaria y la mano de obra utilizada y, en general, el costo y demás elementos que requiere el Ayuntamiento para la prestación del servicio.
+
+Para la prestación del servicio de limpieza de predios baldíos o no edificados, el Ayuntamiento alentará la celebración de convenios con sus propietarios o poseedores, sin demérito de que el incumplimiento de la obligación de limpieza establecida en el primer párrafo de este precepto genere la imposición de las sanciones económicas a que se refiere el capítulo de sanciones administrativas de este Código.
+
+Los Ayuntamientos podrán establecer estímulos fiscales a los propietarios o poseedores de los predios señalados en este artículo, cuando acrediten haber realizado actividades específicas de limpieza durante el año inmediato anterior, conforme a las previsiones que se contengan en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 141.
 
-Los administradores o encargados de los rastros municipales, o lugares autorizados para el sacrificio de ganado, no permitirán la salida de la carne o pieles de animales sacrificados, si previamente no se comprueba que se pagaron los derechos por los servicios que se hayan prestado.
+Son objeto de los derechos por servicios de rastro, los servicios que se presten en el rastro municipal o en los lugares autorizados, relativos al sacrificio de animales para el consumo público, así como por el uso de los espacios e instalaciones del rastro municipal.
+
+El sacrificio de ganado o de aves que vayan a destinarse para el consumo público, ya sea en carnicerías, restaurantes u otros establecimientos similares, deberá hacerse siempre en el rastro municipal o en los lugares autorizados.
+
+En todos los casos deberán cobrarse las cantidades que correspondan por los servicios que se prestan, sin perjuicio del cumplimiento de los requisitos sanitarios.
+
+Los administradores o encargados de los rastros municipales o lugares autorizados para el sacrificio de ganado o de aves, no permitirán la salida de la carne, vísceras, pieles o plumas de animales sacrificados, si previamente no se comprueba que se pagaron los derechos por los servicios que se hayan prestado.
 
 ###### ARTICULO 142.
 
@@ -3320,3 +3346,9 @@ P.O. 20 DE ABRIL DE 2004.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 22 DE ABRIL DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
