@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2000-12-21"
+last_updated: "2001-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -3067,11 +3067,21 @@ b).- La inscripción de las resoluciones judiciales de cancelación o rectificac
 
 c).- La corrección de errores en inscripciones causará la cuota igual al importe de un día de salario mínimo.
 
-> <small>(REFORMADA. P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
 III.- CERTIFICACIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+
 Las certificaciones de constancias que obren en los libros del Registro Civil causarán la cuota igual al importe de un día de salario mínimo.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+IV.- DIVORCIO ADMINISTRATIVO.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2001)</small>
+
+Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de 30 días de salario mínimo.
 
 ###### ARTICULO 262o.
 
@@ -4118,3 +4128,9 @@ El presente Decreto entrará en vigor a partir del 1o. de enero del año 2001.
 ###### ARTICULO SEGUNDO.
 
 Las Cantidades que le corresponda percibir al Estado y los Municipios del mismo, por concepto de incentivos por la realización de los trámites de inscripción de vehículos de procedencia extranjera, en ningún caso podrán destinarse a gasto corriente.
+
+P.O. 25 DE OCTUBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
