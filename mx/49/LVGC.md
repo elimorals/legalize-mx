@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1975-12-15"
+last_updated: "1975-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1975.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -4780,9 +4780,25 @@ El que coloque intencionalmente señales que puedan ocasionar la pérdida o grav
 
 Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumulación con el delito o delitos que resulten consumados.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 537.
 
-Los conductores y demás tripulantes que intervengan en el manejo de vehículos, si conducen estos en estado de ebriedad o bajo la acción de cualquier enervante, incurrirán, por la primera infracción, en multa de cincuenta hasta mil pesos. En caso de reincidencia se les impondrá la pena de quince días a un año de prisión, y perderán el derecho de la licencia correspondiente por un término de uno a cinco años.
+Los conductores y demás tripulantes que intervengan en el manejo de vehículos, si conducen éstos en estado de ebriedad o bajo la acción de cualquier enervante, serán sancionados, por la primera infracción, con multa de cinco mil peso (sic), por la segunda infracción, con multa de diez mil pesos, y por la tercera infracción, se les impondrá la pena de treinta días a dos años de prisión y se les cancelará la licencia respectiva.
+
+Los operadores de autobuses cuando transporten pasajeros en carreteras federales, que rebase la velocidad de 95 kilómetros por hora, serán sancionados en los siguientes términos:
+
+I.- Por la primera infracción con multa de cinco mil pesos; y
+
+II.- Por la segunda infracción con multa de diez mil pesos;
+
+III.- Por la tercera infracción, se cancelará la licencia para conducir autobuses de autotransporte de pasajeros de servicio público federal.
+
+Los operadores de autobuses que cometan las infracciones señaladas en las fracciones I y II de este artículo, no podrán volver a conducir hasta en tanto cubran el importe de la multa impuesta.
+
+La Secretaría de Comunicaciones y Transportes, en forma inmediata deberá poner en conocimiento del concesionario o permisionario la infracción impuesta al operador, y en su caso, el pago de la multa.
+
+El concesionario o permisionario estará obligado a pagar un tanto igual a la multa impuesta al infractor, en el caso de que permita que dicho operador conduzca sin haber hecho el pago de la infracción correspondiente.
 
 ###### ARTICULO 538.
 
@@ -5423,3 +5439,7 @@ Este Decreto entrará en vigor treinta días después de su publicación en el "
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+D.O.F. 29 DE DICIEMBRE DE 1975.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
