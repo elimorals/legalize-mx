@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2001-06-01"
+last_updated: "2004-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCNBV"
 
 LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 28 de abril de 1995.
 
@@ -118,11 +118,11 @@ XVII.- Ordenar la suspensión de operaciones, así como intervenir administrativ
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XVIII. Investigar actos o hechos que contravengan lo previsto en la Ley del Mercado de Valores, para lo cual podrá practicar visitas que versen sobre tales actos o hechos, así como emplazar, requerir información o solicitar la comparecencia de presuntos infractores y demás personas que puedan contribuir al adecuado desarrollo de la investigación;
+XVIII.- Investigar actos o hechos que contravengan lo previsto en la Ley del Mercado de Valores, para lo cual podrá practicar visitas que versen sobre tales actos o hechos, así como emplazar, requerir información o solicitar la comparecencia de presuntos infractores y demás personas que puedan contribuir al adecuado desarrollo de la investigación;
 
 > <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-XIX. Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a su supervisión, así como a las disposiciones que emanen de ellas y, en su caso, coadyuvar con el ministerio público respecto de los delitos previstos en las leyes relativas al sistema financiero;
+XIX.- Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a su supervisión, así como a las disposiciones que emanen de ellas y, en su caso, coadyuvar con el ministerio público respecto de los delitos previstos en las leyes relativas al sistema financiero;
 
 XX.- Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
 
@@ -418,6 +418,44 @@ DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 D.O.F. 1 DE JUNIO DE 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México, dictan las disposiciones de carácter general a que se refiere la Ley del Mercado de Valores, seguirán aplicándose las expedidas con anterioridad a la entrada en vigor de este Decreto.
+
+TERCERO.- Las personas que presten los servicios a que se refiere el artículo 12 Bis de la Ley del Mercado de Valores que se contiene en el presente Decreto, deberán dar aviso a la Comisión Nacional Bancaria y de Valores de las actividades que desempeñen con tal carácter, en un plazo no mayor a noventa días, contado a partir de la entrada en vigor del citado Decreto.
+
+CUARTO.- Las sociedades emisoras con valores inscritos en la Sección de Valores o Especial del anterior Registro Nacional de Valores e Intermediarios, deberán ajustar sus estatutos sociales, así como integrar y designar sus consejos de administración, comités de auditoría y miembros de estos órganos, en los términos y condiciones establecidos en el artículo 14 Bis 3 de la Ley del Mercado de Valores referido en el presente Decreto, en la próxima asamblea de accionistas que, en su caso celebren, o bien, en la que lleven a cabo con motivo de la clausura de su ejercicio social. Lo anterior no afectará en forma alguna, los derechos que corresponda a sus accionistas ejercer de conformidad con el citado precepto legal.
+
+QUINTO.- Las casas de bolsa que mantengan su inscripción en la Sección de Intermediarios del anterior Registro Nacional de Valores e Intermediarios, a la fecha de entrada en vigor del presente Decreto, podrán continuar operando al amparo de la misma, sin que para ello requieran obtener la autorización a que se refiere el artículo 17 Bis de la Ley del Mercado de Valores, siempre que se ajusten a las disposiciones legales y administrativas que les resulten aplicables.
+
+SEXTO.- Los nombramientos de consejeros, director general, contralor normativo, y directivos con la jerarquía inmediata inferior a la del director general, comisarios y auditores externos, de las casas de bolsa y de las instituciones para el depósito de valores, que a la entrada en vigor del presente Decreto, se encuentren en proceso de aprobación por parte de la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores, se sujetarán a lo dispuesto por los artículos 17 Bis 6, 56 fracción VI, último párrafo de la Ley del Mercado de Valores que se modifica mediante este Decreto, contando esas casas de bolsa con un plazo de treinta días hábiles a partir de dicha fecha, para manifestar a la citada Comisión que han llevado a cabo la verificación a que se refiere dicho artículo.
+
+SEPTIMO.- Las bolsas de valores e instituciones para el depósito de valores, deberán adecuar sus estatutos sociales a lo dispuesto por los artículos 31, 31 Bis y 56 de la Ley del Mercado de Valores contenida en el presente Decreto, a más tardar dentro de los seis meses siguientes a la fecha de entrada en vigor del mencionado Decreto, debiendo someter dichas modificaciones estatutarias a las aprobaciones previstas en los artículos 30, segundo párrafo y 56, fracción IX, respectivamente, de la Ley citada.
+
+Los estatutos sociales de las bolsas de valores e instituciones para el depósito de valores, continuarán en vigor hasta que se realicen las modificaciones a que se refiere el párrafo anterior.
+
+OCTAVO.- Las bolsas de valores al integrar sus consejos de administración y designar a los miembros del consejo, comisarios, director general y directivos con la jerarquía inmediata inferior a la de este último y auditor externo, se sujetarán a lo dispuesto por el artículo 31, fracción VIII, en relación con el 17 Bis 5 y 17 Bis 6, de la Ley del Mercado de Valores que se modifica mediante este Decreto, contando con un plazo de treinta días hábiles a partir de la entrada en vigor del citado Decreto, para manifestar a la citada Comisión que han llevado a cabo la verificación a que se refiere dicho artículo.
+
+NOVENO.- Las infracciones y delitos cometidos antes de la vigencia de este Decreto, se sancionarán conforme a lo previsto en los textos anteriormente aplicables de la Ley del Mercado de Valores.
+
+DECIMO.- Lo dispuesto en los artículos 127 a 130 entrará en vigor el 1 de enero del año 2002.
+
+DECIMO PRIMERO.- Lo previsto en el artículo 14 Bis 3, fracción II, segundo párrafo de la Ley del Mercado de Valores, no será aplicable tratándose de ofertas públicas secundarias de venta de acciones que realicen accionistas de emisoras con valores inscritos en el Registro Nacional de Valores o a la adquisición o colocación de acciones propias que realicen las emisoras, cuyas acciones estuvieren inscritas con anterioridad a la fecha de entrada en vigor del presente Decreto.
+
+> <small>(ADICIONADO, D.O. F. 23 DE ENERO DE 2004)</small>
+
+No estarán sujetas a las restricciones establecidas en la fracción II, segundo y tercer párrafos del propio artículo 14 Bis 3, las emisoras que hayan emitido las acciones o instrumentado los mecanismos a que dichos párrafos se refieren, con anterioridad al inicio de vigencia del mismo precepto, siempre que para ello se hayan ajustado a las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, D.O. F. 23 DE ENERO DE 2004)</small>
+
+En caso de modificaciones al capital social, las excepciones antes señaladas serán aplicables en tanto tienda a incrementarse la proporción de acciones ordinarias original o, cuando la situación de la emisora lo justifique, se mantenga dicha proporción, siempre que se revele al público inversionista que con la modificación al capital, éste aún no se ajusta al régimen vigente. En ambos casos se requerirá la previa autorización de la Comisión Nacional Bancaria y de Valores, la cual procederá cuando a su juicio se acredite que no se afectan los intereses del público inversionista.
+
+DECIMO SEGUNDO.- Las sociedades emisoras que a la fecha de entrada en vigor del presente Decreto mantengan acciones inscritas en el Registro Nacional de Valores, no podrán prever en sus estatutos sociales las cláusulas adicionales a que se refiere el artículo 14 Bis 3, fracción VII de la Ley del Mercado de Valores, hasta en tanto no se ajusten estrictamente a lo previsto en las fracciones II a VI, del citado artículo 14 Bis 3.
+
+DECIMO TERCERO.- El artículo 43 reformado entrará en vigor seis meses después de que entre en vigor el resto del presente Decreto.
+
+DECIMO CUARTO.- No será exigible el requisito de la autorización a que se refiere el artículo 116, segundo párrafo, de la Ley General de Sociedades Mercantiles, por parte de la Comisión Nacional de Bancaria y de Valores.
+
+D.O. F. 23 DE ENERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
