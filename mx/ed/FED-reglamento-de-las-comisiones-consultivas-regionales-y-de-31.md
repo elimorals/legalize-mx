@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-comisiones-consultivas-regionales-y-de-31"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-06"
-last_updated: "1994-05-06"
+last_updated: "1999-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-04-26"
 
 REGLAMENTO DE LAS COMISIONES CONSULTIVAS REGIONALES Y DE LAS DELEGACIONES REGIONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el viernes 6 de mayo de 1994.
 
@@ -73,23 +73,35 @@ Las Comisiones Consultivas Regionales tendrán las siguientes atribuciones y fun
 
 I. Sugerir al Consejo de Administración a través de la Secretaría General, la ubicación y características de los conjuntos habitacionales susceptibles de ser financiados mediante el sistema de subastas en los casos en que la oferta de vivienda del mercado no satisfaga los programas institucionales que se pretendan desarrollar dentro del área de su jurisdicción, conforme a los criterios establecidos en el artículo 46 de la Ley del INFONAVIT;
 
-II. Apoyar al Delegado Regional que corresponda en la organización de las subastas que se convoquen para el financiamiento de los conjuntos habitacionales en la esfera de sus atribuciones, y en la difusión de la operación del sistema de subastas, dentro del marco de las autorizaciones conferidas por la Asamblea General;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
 
-III. Emitir su opinión sobre los anteproyectos de la vivienda a financiar mediante el sistema de subastas en sus respectivas regiones, misma que deberá ser tomada en cuenta por el Comité de Análisis de Anteproyectos;
+II. Apoyar al titular de la Delegación Regional que corresponda en la organización de las subastas que se convoquen para el financiamiento de los conjuntos habitacionales en la esfera de sus atribuciones, y en la difusión de la operación del sistema de subastas, dentro del marco de las autorizaciones conferidas por la Asamblea General;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+III. Emitir su opinión sobre la necesidad, tipo y características de la vivienda a financiar mediante el sistema de subastas en sus respectivas regiones, misma que deberá ser tomada en cuenta por el Comité Ejecutivo de Subastas para las convocatorias respectivas;
 
 IV. Opinar sobre las características generales de los paquetes de vivienda en líneas II y III que se presenten al Instituto, así como sobre su localización en la trama urbana de la localidad;
 
 V. Realizar las gestiones ante las autoridades locales y federales competentes a fin de asegurar que los programas habitacionales que se financien mediante el sistema de subastas, así como los paquetes de líneas II y III cuenten con la infraestructura y el equipamiento urbano indispensables para la dotación de servicios públicos;
 
-VI. Verificar en su caso, que las obras contratadas mediante el sistema de subastas o de paquetes de vivienda en líneas II y III, se ejecuten conforme a las normas técnicas, especificaciones, programas de obra, tiempo de construcción y calidades convenidas. Para este efecto, podrán solicitar al titular al Delegado Regional que proporcione los informes que les sean necesarios;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
 
-VII. Conocer las bases para la determinación bimestral de las puntuaciones mínimas para el otorgamiento de créditos en la entidad federativa de su jurisdicción, así como opinar sobre dichas puntuaciones y sobre la posibilidad de fijarlas para algunas localidades en particular, a más tardar en los primeros 10 días de los meses pares, tomando en cuenta, entre otros factores, la estadística captada de bimestres anteriores.
+VI. Verificar, en su caso, que las obras contratadas mediante el sistema de subasta o de paquetes de vivienda en líneas II y III, se ejecuten conforme a las normas técnicas, especificaciones, programas de obra, tiempo de contrucción (sic) y calidades convenidas. Para este efecto, podrán solicitar al titular de la Delegación Regional que proporcione los informes que les sean necesarios;
 
-VIII. Recibir copia de los recibos foliados que se entreguen a los solicitantes de crédito a fin de verificar que el orden en la secuencia del otorgamiento de créditos se ajuste a lo establecido en la Séptima de las Reglas para el Otorgamiento de Créditos a los Trabajadores Derechohabientes del instituto
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+VII. Conocer las bases para la determinación de las puntuaciones mínimas o de cualquier otro sistema de selección para el otorgamiento de créditos en las localidades de su jurisdicción, tomando en cuenta el programa de créditos aprobado por la Asamblea General;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+VIII. Conocer por medio del titular de la Delegación Regional que corresponda, los listados de los solicitantes de crédito en las localidades de su jurisdicción, para verificar que la selección de los acreditados se haga conforme a las normas establecidas en la materia;
 
 IX. Verificar que se coloquen en lugar visible, dentro de las oficinas de las Delegaciones, avisos que contengan los datos de los trabajadores a quienes se les haya asignado crédito;
 
-X. Opinar sobre la distribución de créditos por rangos de salario y su relación con los precios de venta de las viviendas ofertadas en paquetes de vivienda en líneas II y III y subastas, para lo que:
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 14 DE MAYO DE 1999)</small>
+
+X. Opinar sobre la distribución de créditos por rangos de salario y montos de crédito, y su relación con los valores de la oferta en cualquiera de sus modalidades, para lo que:
 
 a) Cuidará que se observen las normas y políticas relativas a la proporción de los créditos que se destinen a trabajadores de bajos ingresos;
 
@@ -105,11 +117,15 @@ XII. Conocer y opinar sobre el anteproyecto del Programa de Labores y de Financi
 
 XIII. Vigilar que la inversión del Instituto en la entidad federativa de que se trate no sea inferior a las aportaciones realizadas en la misma, con excepción del Distrito Federal;
 
-XIV. Conocer y opinar sobre el anteproyecto del Presupuesto de Gastos de Administración, Operación y Vigilancia de la Delegación de su jurisdicción, previamente a que los Delegados Regionales lo propongan al Director General;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+XIV. Conocer y opinar sobre el anteproyecto del Presupuesto de Gastos de Administración, Operación y Vigilancia de la Delegación Regional de su jurisdicción, previamente a que sus titulares lo propongan al Director General;
 
 XV. Dar seguimiento al cumplimiento de las metas institucionales de la localidad y, en su caso, enviar al Consejo de Administración y a la Comisión de Vigilancia, por conducto de la Secretaría General, sus observaciones, inquietudes o sugerencias, a fin de que puedan ser ventiladas en el seno de esos órganos colegiados para que, en su caso, éstos adopten las soluciones o fijen los criterios al respecto en el punto del orden del día de la sesión mensual que esos órganos destinen a tales cuestiones;
 
-XVI. Apoyar al Delegado Regional de su jurisdicción en las gestiones que realice ante las diversas autoridades, para el debido cumplimiento de los programas institucionales;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+XVI. Apoyar al titular de la Delegación Regional de su jurisdicción en las gestiones que realice ante las diversas autoridades, para el debido cumplimiento de los programas institucionales;
 
 XVII. Crear comités para actividades específicas comprendidas dentro de sus atribuciones, procurando la colaboración de todos los sectores interesados de la región;
 
@@ -151,19 +167,19 @@ Las sesiones se celebrarán en el local de la Delegación Regional de la entidad
 
 El orden del día que corresponda a cada sesión, será elaborado por el Delegado Regional de la localidad y presentado al Presidente en turno, para que éste lo apruebe preliminarmente y lo someta a consideración de la Comisión Consultiva Regional en la apertura de la sesión.
 
-> <small>(F. DE E., D.O.F. 21 DE JUNIO DE 1994)</small>
-
 Los miembros de la Comisión Consultiva Regional podrán solicitar la incorporación de asuntos en el orden del día citado, con una anticipación que permita dar cumplimiento al artículo 11 siguiente. Además, el propio orden del día preverá un punto de asuntos generales.
 
 ###### ARTICULO 11.
 
 El orden del día y la documentación consecuente deberán enviarse a los miembros de las Comisiones Consultivas Regionales por lo menos con tres días hábiles de anticipación a la fecha de la reunión ordinaria, por conducto del Secretario.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El Delegado Regional y el titular de la unidad de supervisión regional correspondientes, deberán asistir a las sesiones de la Comisión Consultiva Regional en calidad de invitados, con voz pero sin voto.
+El titular de la Delegación Regional y el Subdelegado, en su caso, deberán asistir a las sesiones de las Comisiones Consultivas Regionales de su jurisdicción, con voz pero sin voto.
 
-Podrán asistir también otras personas con carácter de invitados por el Delegado Regional o por la propia Comisión, para el desahogo de alguno de los puntos del orden del día, cuando la Comisión Consultiva Regional así lo autorice.
+Podrán asistir otras personas como invitados por el titular de la Delegación Regional o por la Comisión, para el desahogo de alguno de los puntos del orden del día, cuando la Comisión Consultiva Regional así lo autorice.
 
 ###### ARTICULO 13.
 
@@ -285,13 +301,17 @@ El Consejo de Administración a propuesta del Director General, resolverá sobre
 
 ### CAPITULO II. De la Delegación de Facultades
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 28.
 
-Las Delegaciones Regionales son órganos revestidos de facultades delegadas por la Dirección General y las Subdirecciones Generales, normativas en el ámbito de su competencia, las cuales ejercerán en representación del Instituto, en la circunscripción territorial que se les asigne.
+Las Delegaciones Regionales son órganos revestidos de facultades delegadas por la Dirección General y las Subdirecciones Generales, en el ámbito de su competencia, las cuales ejercerán en representación del Instituto, en la circunscripción territorial que se les asigne.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 29.
 
-Las Subdirecciones Generales normativas delegarán, previa autorización de la Dirección General y por conducto de los Delegados Regionales, facultades a las unidades delegacionales competentes. Asimismo, las propias Subdirecciones tendrán a su cargo normar, planear, conducir y supervisar el ejercicio de dichas facultades.
+Las Subdirecciones Generales delegarán, previa autorización de la Dirección General y por conducto de los titulares de las Delegaciones Regionales, facultades a las unidades delegacionales competentes. Asimismo, las propias Subdirecciones Generales tendrán a su cargo normar, planear, conducir y supervisar el ejercicio de dichas facultades.
 
 ### CAPITULO III. Estructura Administrativa de las Delegaciones
 
@@ -299,31 +319,47 @@ Las Subdirecciones Generales normativas delegarán, previa autorización de la D
 
 Las Delegaciones Regionales se integrarán por:
 
-El Delegado
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
-Los Subdelegados, y
+El Delegado Regional o, en su caso, el Representante de la Dirección General, y en el Distrito Federal, por el Coordinador del Distrito Federal;
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
+
+Los Subdelegados y Jefes de Area; y, en el Distrito Federal, por los Gerentes, y
 
 El demás personal que requieran para el eficaz cumplimiento de sus atribuciones y funciones conforme al presupuesto aprobado.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 31.
 
-Los Delegados Regionales serán nombrados por el Consejo de Administración a propuesta del Director General.
+El Coordinador del Distrito Federal y los Delegados Regionales serán nombrados por el Consejo de Administración a propuesta del Director General.
 
 ###### ARTICULO 32.
 
 El Director General podrá nombrar a representantes de la Dirección General para ocupar la titularidad de las Delegaciones por un periodo de seis meses transcurridos los cuales, podrán ser designados como Delegados Regionales por el Consejo de Administración.
 
-### CAPITULO IV. De las Atribuciones y Funciones de los Delegados Regionales y Representantes de la Dirección General
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE MAYO DE 1999)</small>
+
+### CAPITULO IV. De las Atribuciones y Funciones de los Titulares de las Delegaciones Regionales
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 33.
 
-Los Delegados Regionales y, en su caso, los Representantes de la dirección General tienen las siguientes atribuciones y funciones:
+Los titulares de las Delegaciones Regionales tienen las siguientes atribuciones y funciones:
 
 I. Representar legalmente al Instituto, dentro de su jurisdicción, en los términos del acuerdo de delegación de facultades que expida el Director General;
 
-II. Proponer a las Subdirecciones Generales normativas, los nombramientos de los Subdelegados por conducto de la Subdirección General de Delegaciones;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
 
-III. Nombrar y remover al personal de la Delegación con sujeción a las leyes y con la intervención que corresponda a la Coordinación de Servicios Administrativos;
+II. a) Proponer al Director General los nombramientos de los Subdelegados o Gerentes para el caso del Distrito Federal, y
+
+b) Nombrar a los Jefes de Area con la aprobación de la Subdirección General que corresponda;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+III. Nombrar y remover al personal de la Delegación Regional, con sujeción a las leyes y con la intervención que corresponda a la Subdirección General de Administración;
 
 IV. Administrar los recursos humanos, financieros, materiales y técnicos de la Delegación para el buen desempeño de sus funciones y presentar a la Comisión Consultiva Regional los anteproyectos del Programa de Labores y de Financiamientos, así como los de Presupuestos de Ingresos y Egresos y de Gastos de Administración, Operación y Vigilancia, respectivos, previamente a que sean propuestos a la Dirección General dentro del último cuatrimestre del año;
 
@@ -341,11 +377,19 @@ X. Fortalecer los canales de comunicación y colaboración con las autoridades e
 
 XI. Recabar las opiniones que emitan las Comisiones Consultivas Regionales y rendir los informes que ellas les soliciten, así como asistir con voz pero sin voto a sus reuniones; elaborar el orden del día y supervisar, en su caso, la remisión de las actas a las áreas competentes del Instituto;
 
-XII. Conocer las bases para la determinar las puntuaciones mínimas para el otorgamiento de créditos en la entidad federativa de su jurisdicción bimestralmente, en coordinación con la Comisión Consultiva Regional respectiva, opinando sobre las mismas y sobre la posibilidad de fijar puntuaciones para algunos municipios en particular, a más tardar en los primeros ,10 días de los meses pares, tomando en cuenta, entre otros factores, la estadística captada de bimestres anteriores;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
 
-XIII. Solicitar a la Comisión Consultiva Regional que verifique el orden autorizado en la secuencia del otorgamiento de créditos, de acuerdo al número de folio consecutivo entregado a los solicitantes, de conformidad con las Séptima de las Reglas para el Otorgamiento de Créditos a los Trabajadores Derechohabientes del Instituto
+XII. Conocer las bases para la determinación de las puntuaciones mínimas o de cualquier otro sistema de selección para el otorgamiento de créditos en las localidades de su jurisdicción, en coordinación con la Comisión Consultiva Regional respectiva, tomando en cuenta el programa de créditos aprobado por la Asamblea General;
 
-XIV. Coadyuvar en la integración de las bolsas de vivienda, de tierra y del banco de información de paquetes en línea II y darlas a conocer a los interesados, previa aprobación de la Comisión Consultiva Regional respectiva;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+XIII. Dar a conocer a la Comisión Consultiva Regional los listados de los solicitantes de crédito en las localidades de su jurisdicción, para que verifique que el orden en la selección de los acreditados se hizo conforme a las normas establecidas en la materia;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
+
+XIV. Promover la oferta de vivienda en las localidades en donde se requiera y de acuerdo con los montos de crédito de los trabajadores. Difundir la oferta registrada en cualquiera de sus modalidades, para que los acreditados la conozcan plenamente y puedan decidir libremente sobre la mejor opción, de acuerdo con sus necesidades y su capacidad crediticia.
+
+Coadyuvar en la integración de las bolsas de vivienda y de tierra para el conocimiento de los interesados, previa aprobación de la Comisión Consultiva Regional.
 
 XV. Brindar en coordinación con la Comisión Consultiva Regional respectiva, información, orientación y asesoría para la participación en subastas de financiamiento y presentación de paquetes de vivienda en líneas II y III;
 
@@ -353,31 +397,47 @@ XVI. Emitir opinión de los anteproyectos y proyectos ejecutivos presentados en 
 
 XVII. Promover en coordinación con la Comisión Consultiva Regional respectiva, ante las autoridades, organismos, empresas, promotores inmobiliarios y demás agentes relacionados, la constitución de reservas territoriales viables para la realización de programas de vivienda que puedan ser adquiridas por los acreditados del Instituto, y
 
-XVIII Las demás que les señalen las disposiciones normativas institucionales y las que les sean delegadas por la Dirección General y las Subdirecciones Generales normativas, conforme a lo señalado en el Estatuto Orgánico.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 1999)</small>
 
-### CAPITULO V. De los Subdelegados
+XVIII. Cumplir y hacer cumplir al personal de la Delegación Regional las normas que establezca el Instituto para operar y manejar con honestidad, legalidad y transparencia los recursos físicos y financieros del organismo, bajo su responsabilidad, así como las demás funciones y atribuciones que les señalen las disposiciones normativas institucionales y las que les sean delegadas por la Dirección General y las Subdirecciones Generales, conforme a lo señalado en el Estatuto Orgánico.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE MAYO DE 1999)</small>
+
+### CAPITULO V. De los Subdelegados, Gerentes y Jefes de Area
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 34.
 
-Los Subdelegados desempeñarán las funciones que las Subdirecciones Generales, normativas les asignen, previa autorización de la Dirección General y por conducto de la Subdirección General de Delegaciones y de los Delegados Regionales, así como las que les señalen las disposiciones normativas vigentes
+Los Subdelegados y Jefes de Area, y en el Distrito Federal los Gerentes, desempeñarán las funciones que les asignen la Dirección General y las Subdirecciones Generales correspondientes, así como las que les señalen las disposiciones normativas vigentes, por conducto del titular de la Delegación Regional.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 35.
 
-Las Subdirecciones Generales normativas conducirán y supervisarán el ejercicio de las facultades delegadas en los términos del artículo anterior, sin perjuicio de las atribuciones que les correspondan a los Delegados Regionales.
+Las Subdirecciones Generales conducirán y supervisarán el ejercicio de las facultades delegadas en los términos del artículo anterior, sin perjuicio de las atribuciones que les correspondan a los titulares de las Delegaciones Regionales.
 
 ### CAPITULO VI. De la Coordinación de Funciones de las Delegaciones
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 36.
 
-La relación de los Delegados y Representantes de la Dirección General con otras áreas del Instituto, se hará siempre del conocimiento de la Subdirección General de Delegaciones para efectos de coordinación.
+Para utilizar los medios más adecuados en la promoción de la oferta de vivienda y su difusión entre los derechohabientes, los titulares de las Delegaciones Regionales deberán apoyarse en la Subdirección General Técnica y en la Coordinación de Comunicación Social.
+
+Para publicaciones en general y para la divulgación de las actividades del Instituto, requerirán el apoyo de la Coordinación de Comunicación Social.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 37.
 
-La Subdirección General de Delegaciones coordinará la celebración de reuniones nacionales de los Delegados Regionales y Representantes de la Dirección General con las áreas centrales del Instituto para atender asuntos de su competencia. Dichas reuniones deberán realizarse cuando menos trimestralmente. Asimismo, celebrarán una reunión anual con cada una de las representaciones que integran los órganos colegiados del Instituto.
+Las Coordinaciones Regionales coordinarán la celebración de reuniones periódicas de los titulares de las Delegaciones Regionales con las áreas centrales del Instituto para atender asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 38.
 
-Las visitas que lleven a cabo los servidores públicos del Instituto a las Delegaciones serán programadas en coordinación con la Subdirección General de Delegaciones.
+Las visitas que lleven a cabo los trabajadores del Instituto a las Delegaciones Regionales, serán programadas en coordinación con los titulares de dichas delegaciones y con el Coordinador Regional que corresponda.
 
 ### CAPITULO VII. De las Suplencias de los Delegados
 
@@ -394,3 +454,11 @@ PRIMERO. Este Reglamento entrará en vigor a los 90 días naturales siguientes a
 SEGUNDO. Se abroga el Reglamento de las Comisiones Consultivas Regionales y de las Delegaciones Regionales del Instituto del Fondo Nacional de la Vivienda para los Trabajadores publicado en el Diario Oficial de la Federación el día 6 de febrero de 1973.
 
 Dado en la Ciudad de México, D. F., a los veintiséis días del mes de abril de mil novecientos noventa y cuatro.- En cumplimiento al Acuerdo número 733 de la sesión quincuagésima sexta de la Asamblea General, celebrada los días 25 y 26 del mismo mes y año.- El Presidente de la Asamblea General, Juan S. Millán Lizárraga.- Rúbrica.- El Director General, José Francisco Ruiz Massieu.- Rúbrica.- El Secretario General, Jorge Solórzano Zinser.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE MAYO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
