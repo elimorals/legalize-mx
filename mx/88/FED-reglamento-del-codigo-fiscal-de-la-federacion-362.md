@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1990-05-15"
+last_updated: "1992-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -73,9 +73,9 @@ Cuando los avalúos sean referidos a una fecha anterior a aquélla en que se pra
 
 I.- Se determinará el valor del bien a la fecha en que se practique el avalúo, aplicando, en su caso, los instructivos que al efecto expidan las autoridades fiscales.
 
-> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-II.- La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se practique el avalúo, entre el índice del mes al cual es referido el mismo; si el avalúo es referido a una fecha en que no se disponga del dato del índice nacional de precios al consumidor, dicha cantidad se dividirá entre el factor que corresponda, según el número de años transcurridos entre la fecha a la cual es referido el avalúo y la fecha en que se practique, de acuerdo a la tabla que establezca anualmente el Congreso de la Unión para ajustar el costo comprobado de adquisición en el impuesto sobre la renta.
+II.- La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se practique el avalúo, entre el índice del mes al cual es referido el mismo; si el avalúo es referido a una fecha en que no se disponga del dato del índice nacional de precios al consumidor, dicha cantidad se dividirá entre el factor que corresponda, según el número de años transcurridos entre la fecha a la cual es referido el avalúo y la fecha en que se practique, de acuerdo a la tabla que dé a conocer para tales efectos la Secretaría.
 
 > <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -85,27 +85,49 @@ III.- El resultado que se obtenga conforme a la fracción anterior, será el val
 
 Si el avalúo debe realizarse en poblaciones donde no se cuente con los servicios de instituciones de crédito, de la Comisión de Avalúos de Bienes Nacionales, de corredor público o de instituciones o empresas dedicadas a la compraventa y subasta de bienes, podrá designarse a personas o instituciones versadas en la materia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 5o.
 
-(DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Cuando las solicitudes o los avisos, que en los términos de las disposiciones fiscales estén obligados a presentar los contribuyentes en una fecha determinada, se hayan hecho con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría, los contribuyentes podrán rectificarlos mediante solicitudes o avisos complementarios, los cuales deberán formularse llenando la totalidad de la forma oficial, inclusive con los datos que no se modifican, señalando además que se trata de una solicitud o de un aviso complementario del original e indicando la fecha y oficina en que se hubiera presentado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 5o-A.
+
+Para los efectos de las fracciones I y II del artículo 14-A del Código, se deberán presentar los siguientes avisos:
+
+I.- De escisión de sociedades, el cual será presentado por la sociedad escindente, cuando ésta subsista, o por la escindida que al efecto se designe, en el caso de que la escindente se extinga.
+
+El aviso a que se refiere el párrafo anterior deberá presentarse dentro del mes siguiente a la fecha en que se lleve a cabo la misma y contendrá la denominación o razón social de las sociedades escindente y escindidas y la fecha en que se realizó dicho acto.
+
+II.- De fusión de sociedades, el cual será presentado por la sociedad que surja o subsista. Este aviso deberá presentarse dentro del mes siguiente a la fecha en que se llevó a cabo dicho acto y deberá contener la denominación o razón social de las sociedades que se fusionan y la fecha en que se realizó la fusión.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 5o-B.
+
+Para los efectos del primer párrafo de las fracciones I y II del artículo 14-A del Código, no se incumple con el requisito de permanencia accionaria en los periodos a que se refieren dichas fracciones cuando exista transmisión de propiedad de acciones por causa de muerte o por adjudicación judicial.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 6o.
 
-(DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Para los efectos de lo establecido en las fracciones III y IV del artículo 15 del Código, se considera que se cumple con los requisitos señalados en las mismas, cuando se consigne expresamente en el contrato de arrendamiento financiero el valor del bien objeto de la operación y la tasa de interés pactada en el contrato respectivo o la mecánica para determinarla.
 
 ### CAPITULO II. De los Derechos y Obligaciones de los Contribuyentes
 
 #### SECCION PRIMERA. Del Pago, de la Devolución y de la Compensación de Contribuciones
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-###### ARTICULO 7o
+###### ARTICULO 7o.
 
-Cuando las solicitudes o los avisos, que en los términos de las disposiciones Fiscales estén obligados a presentar los contribuyentes en una fecha determinada, se hayan hecho con errores, omisiones o empleando de manera equivocada las formas oficiales aprobadas por la Secretaría, los contribuyentes podrán certificarlos mediante solicitudes o avisos complementarios, los cuales deberán formularse llenando totalidad de la forma oficial, inclusive con los datos que no se modifican, señalando además que se trata de una solicitud o de un aviso complementario del original e indicando la fecha y oficina en que se hubiera presentado.
+Para los efectos del artículo 17-A del Código, el factor de actualización a que el mismo se refiere deberá calcularse hasta el diezmilésimo.
 
 ###### ARTICULO 7o-A.
 
-Para los efectos del artículo 17-A del Código, el factor de actualización a que el mismo se refiere deberá calcularse hasta el diezmilésimo.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 8o.
 
@@ -151,6 +173,22 @@ Cuando en los términos del artículo 23 del Código, el contribuyente efectúe 
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
 
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 13-A.
+
+Para los efectos de la fracción XI del artículo 26 del Código, las sociedades que inscriban en el registro o libro de acciones o partes sociales a socios o accionistas personas físicas que no les proporcionen la documentación necesaria para hacer la comprobación a que se refiere dicha fracción, quedan liberadas de lo dispuesto por la misma, siempre que presenten aviso en el que hagan constar dicha circunstancia dentro del mes siguiente a la inscripción, así como los datos de identificación del socio o accionista de que se trate, ante la autoridad administradora que corresponda al domicilio fiscal de la sociedad emisora.
+
+Con el objeto de mantener la confidencialidad de la información relacionada con la adquisición, el socio o accionista podrá solicitar ante la autoridad administradora que corresponda al domicilio fiscal de la sociedad emisora, la expedición de una constancia en la que se señale que se le mostró a ésta la documentación que acredita que se cumplió con la obligación de retener y enterar el impuesto sobre la renta causado por el enajenante de las acciones o partes sociales o, en su caso, la copia del dictamen respectivo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 13-B.
+
+Para los efectos de la fracción XIV del artículo 26 del Código, las personas a quienes residentes en el extranjero les presten servicios personales subordinados o independientes que sean cubiertos por residentes en el extranjero, quedarán liberadas de lo dispuesto en dicha fracción, siempre que presenten aviso señalando el nombre y domicilio del residente en el extranjero que les presta servicios, manifiesten en el mismo que desconocen el monto de las percepciones pagadas a dicho residente en el extranjero y lo acompañen de una constancia firmada por dicho residente en el extranjero en la que manifieste que asume la responsabilidad sobre el impuesto que derive por la percepción de dichos ingresos.
+
+El aviso a que se refiere el párrafo anterior se presentará ante la autoridad administradora que corresponda a su domicilio fiscal, dentro de los quince días siguientes a aquél en el que el residente en el extranjero comience a prestar sus servicios.
+
 #### SECCION SEGUNDA. Del Registro Federal de Contribuyentes
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
@@ -159,7 +197,9 @@ Cuando en los términos del artículo 23 del Código, el contribuyente efectúe 
 
 Las personas físicas o morales obligadas a solicitar su inscripción en el Registro Federal de Contribuyentes en los términos del artículo 27 del Código, deberán presentar su solicitud de inscripción, en la cual, tratándose de sociedades mercantiles, señalarán el nombre de la persona a quien se haya conferido la administración única, dirección general o gerencia general, cualquiera que sea el nombre del cargo con que se le designe. Asimismo, las personas físicas o morales presentarán, en su caso, los avisos siguientes:
 
-I.- Cambio de nombre, denominación o razón social.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- Cambio de denominación o razón social.
 
 II.- Cambio de domicilio fiscal.
 
@@ -171,17 +211,15 @@ IV.- Liquidación o apertura de sucesión.
 
 V.- Cancelación en el Registro Federal de Contribuyentes.
 
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1988)</small>
+VI.- (DEROGADA, D.O.F. 31 DE MARZO DE 1992)
 
-VI.- Cambio de régimen de capital social.
+VII.- (DEROGADA, D.O.F. 31 DE MARZO DE 1992)
 
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-VII.- Cambio de representante legal.
+Asimismo, presentarán aviso de apertura o cierre de establecimientos o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, en los términos del artículo 24 de este Reglamento.
 
-Asimismo, presentarán aviso de cambio de actividad preponderante y de apertura o cierre de establecimientos o de locales que se utilicen, como base fija para el desempeño de servicios -personales independientes, en los términos del artículo 24 de este Reglamento.
-
-Cuando las personas físicas no tengan que presentar declaraciones periódicas sólo estarán obligadas a dar el aviso de cambio de nombre.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 15.
 
@@ -199,7 +237,7 @@ III.- Las personas que efectúen los pagos a que se refiere el Capítulo I del T
 
 La solicitud de inscripción en el registro federal de contribuyentes deberá presentarse ante la autoridad recaudadora correspondiente al domicilio fiscal del contribuyente.
 
-Cuando se tengan que presentar declaraciones periódicas ante autoridades de la Federación y de las entidades federativas, la solicitud de inscripción ante el registro federal de contribuyentes y los avisos a que se refiere el artículo 14 de este reglamento, se harán ante la autoridad recaudadora de la Federación, debiendo presentarse copia sellada ante la autoridad de la entidad federativa a que corresponda presentar la declaración de que se trate, dentro del mes siguiente al día en que se hagan a la autoridad de la Federación.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 La Federación, las entidades federativas y los municipios así como los organismos descentralizados que no realicen actividades preponderantemente empresariales, podrán inscribir, por separado, a las unidades administrativas que los integran y cumplir, en la misma forma, con sus demás obligaciones como retenedores o contribuyentes, siempre que dichas unidades obtengan previamente autorización de las autoridades administradoras.
 
@@ -231,29 +269,35 @@ VIII.- Clave del registro federal de contribuyentes, en su caso.
 
 Los residentes en el extranjero, cuando únicamente tengan obligaciones que deban ser cumplidas por retenedores establecidos en territorio nacional, no estarán obligados a presentar la solicitud de inscripción ni los avisos a que se refiere el artículo 14 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 19.
 
-Para los efectos de la fracción I del artículo 14 de este Reglamento, se considera que cambia el nombre de las personas físicas cuando así se haga constar en el Registro Civil. Las mujeres deberán usar el nombre de solteras.
+Para los efectos de la fracción I del artículo 14 de este Reglamento, el aviso de cambio de denominación o razón social, deberá presentarse ante la autoridad recaudadora correspondiente dentro del mes siguiente al día siguiente en que se firme la escritura.
 
-Se entiende que cambia la denominación o razón social de las personas morales, cuando dicho cambio haya ocurrido en los términos de las disposiciones legales aplicables.
-
-El aviso de cambio de nombre, denominación o razón social, deberá presentarse ante la autoridad recaudadora correspondiente dentro del mes siguiente al día en que tenga lugar el cambio de nombre o que se firme la escritura.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 20.
 
-Se considera que hay cambio de domicilio fiscal en los términos de la fracción II del artículo 14 de este Reglamento, cuando el contribuyente o retenedor lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código. Asimismo, se considera cambio de domicilio, el cambio de nomenclatura o numeración oficial.
+Se considera que hay cambio de domicilio fiscal en los términos de la fracción II del artículo 14 de este Reglamento, cuando el contribuyente o retenedor lo establezca en lugar distinto al que se tiene manifestado o cuando deba considerarse un nuevo domicilio en los términos del Código.
 
 El aviso de cambio de domicilio fiscal deberá darse dentro del mes siguiente al día en que tenga lugar la situación jurídica o de hecho que corresponda.
 
 Cuando el nuevo domicilio fiscal del contribuyente o retenedor, esté en la misma circunscripción territorial de la autoridad ante la que ha venido presentando declaraciones periódicas, este aviso lo presentará ante ella.
 
-Cuando el nuevo domicilio fiscal del contribuyente o retenedor quede dentro de la circunscripción territorial de autoridad distinta de aquella ante la que venía presentando declamaciones periódicas, este aviso lo dará tanto a la autoridad a la que dejará de presentar dichas declaraciones como ante la que seguirá presentándolas.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentando el aviso a que se refiere este artículo al presentarse dicha declaración ante la autoridad recaudadora correspondiente.
+Cuando el nuevo domicilio fiscal del contribuyente o retenedor quede dentro de la circunscripción territorial de autoridad distinta de aquella ante la que venía presentando declaraciones periódicas, este aviso se presentará ante la autoridad recaudadora que corresponda a su nuevo domicilio.
+
+Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentado el aviso a que se refiere este artículo al presentarse dicha declaración ante la autoridad recaudadora correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal actualizará los datos correspondientes, sin que en este caso el contribuyente deba presentar el aviso de cambio de domicilio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Las personas físicas a excepción de aquéllas que perciban ingresos por actividades empresariales o por prestar servicios personales independientes, quedarán relevadas de presentar el aviso a que se refiere este artículo, manifestando su cambio de domicilio fiscal en la primera declaración anual del impuesto sobre la renta que presente o deba presentar con posterioridad a dicho cambio.
 
 > <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1987)</small>
 
@@ -309,9 +353,15 @@ II.- Sucesión, en el caso de que una persona obligada a presentar declaraciones
 
 El aviso de cancelación del registro federal de contribuyentes a que se refiere la fracción V del artículo 14 de este Reglamento, deberá presentarse conforme a las siguientes reglas:
 
-I.- Los contribuyente del impuesto sobre la renta en los términos del Título II de la Ley de la materia, deberán presentar el aviso junto con la declaración final de liquidación total del activo negocio señalada en el artículo 11 de la Ley del Impuesto sobre la Renta.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- Los contribuyentes del impuesto sobre la renta en los términos del Título II o II-A de la Ley de la materia, deberán presentar el aviso conjuntamente con la declaración final de la liquidación total del activo del negocio señalado en el artículo 11 de la Ley del Impuesto sobre la Renta.
 
 En los casos de fusión de sociedades la que subsista o resulte de la fusión presentará el aviso por las sociedades que desaparezcan, junto con la última declaración a que se refiere la fracción VIII del artículo 58 de la Ley del Impuesto sobre la Renta; la sociedad acompañará constancia de que la fusión ha quedado inscrita en el registro público correspondiente de la entidad federativa de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+En los casos de escisión de sociedades, cuando se extinga la escindente, la escindida que se designe en el acuerdo de escisión presentará el aviso por dicha escindente, junto con la última declaración del impuesto sobre la renta a que se refiere el primer párrafo de la fracción VIII del artículo 58 de la Ley del Impuesto sobre la Renta a cargo de la propia escindente.
 
 > <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -321,19 +371,15 @@ II.- Las personas morales no comprendidas en la fracción anterior, presentarán
 
 III.- El representante legal de la sucesión de personas obligadas a presentar declaraciones periódicas, que haya estado obligado a presentar el aviso a que se refiere la fracción II del artículo que antecede, presentará el aviso de cancelación del registro federal de contribuyentes del autor de la sucesión, dentro del mes siguiente al día en que haya dado por finalizada la liquidación de la sucesión, a la autoridad ante la cual el autor de la herencia venía presentando declaraciones periódicas. Cuando no se esté obligado a presentar el aviso de sucesión en los términos de la fracción II del artículo anterior, se presentará el de cancelación a que se refiere este artículo el cual podrá presentarse por terceros interesados.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 23-A.
 
-Los avisos a que se refieren las fracciones VI y VII del artículo 14 de este Reglamento, de cambio de régimen de capital social y de cambio de representante legal, deberán darse ante la autoridad recaudadora correspondiente dentro de los diez días siguientes al en que tenga lugar el cambio de régimen de capital social de la sociedad de que se trate o del cambio de la persona a quien se haya conferido la administración única, dirección general o gerencia general, cualquiera que sea el nombre del cargo con que se le designe, así como cuando se haga la designación de sindico o liquidador, respectivamente.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
+
+(REFORMADO, D.O.F. 31 DE MARZO DE 1992) (F. DE E. D.O.F. 17 DE ABRIL DE 1992)
 
 ###### ARTICULO 24.
 
-El aviso de cambio de actividad preponderante y de apertura o cierre de establecimientos o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, deberá presentarse conforme a las siguientes reglas:
-
-I.- Tratándose del cambio de actividad preponderante, ante la autoridad recaudadora correspondiente, conjuntamente con la declaración del ejercicio del impuesto sobre la renta en que se efectuó dicho cambio; los contribuyentes que no estén obligados a formular la declaración antes señalada, deberán presentar dicho aviso durante el mes de enero del año siguiente a aquél en que se realizó el cambio.
-
-II.- En el caso de apertura o cierre de establecimiento o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, ante la autoridad recaudadora en cuya circunscripción territorial se encuentre ubicado el establecimiento o local, dentro del más siguiente al día en que se realice cualquiera de estos hechos.
+El aviso de apertura o cierre de establecimientos o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, deberá presentarse ante la autoridad recaudadora en cuya circunscripción territorial se encuentre ubicado el establecimiento o local, dentro del mes siguiente al día en que se realice cualquiera de estos hechos.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -341,7 +387,9 @@ II.- En el caso de apertura o cierre de establecimiento o de locales que se util
 
 La clave en el registro federal de contribuyentes a que se refiere el cuarto párrafo del artículo 27 del Código, se dará a conocer a quien solicite la inscripción, mediante un documento que se denominará cédula de registro federal de contribuyentes.
 
-Asimismo, la Secretaría asignará nueva clave en los casos de cambio de nombre, denominación o razón social o como consecuencia de corrección de errores u omisiones que den lugar a dichos cambios. En estos casos, con los avisos o rectificaciones deberá devolverse la cédula para su reexpedición y se acusará al recibo de ésta.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Asimismo, la Secretaría asignará nueva clave en los casos de cambio de denominación o razón social o como consecuencia de corrección de errores u omisiones que den lugar a dichos cambios. En estos casos, con los avisos o rectificaciones deberá devolverse la cédula para su reexpedición y se acusará el recibo de ésta.
 
 #### SECCION TERCERA. De la Contabilidad
 
@@ -379,19 +427,13 @@ Cuando se adopte el sistema de registro manual o mecánico, el contribuyente deb
 
 Este artículo no libera a los contribuyentes de la obligación de llevar los libros que establezcan las leyes u otros reglamentos.
 
-> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 28.
 
-Los contribuyentes que adopten el sistema de registro manual, deberán llevar sus libros diario, mayor y los que estén obligados a llevar por otras disposiciones fiscales, debidamente encuadernados, empastados y foliados, debiendo presentar los dos primeros mencionados ante la autoridad recaudadora correspondiente para su sellado previamente a su utilización. Cuando se terminen dichos libros, diario y mayor, deberán presentarse conjuntamente con los nuevos, a efecto de que estos últimos sean también sellados.
+Los contribuyentes que adopten el sistema de registro manual, deberán llevar sus libros diario, mayor y los que estén obligados a llevar por otras disposiciones fiscales, debidamente encuadernados, empastados y foliados.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Cuando el contribuyente adopte los sistemas de registro mecánico o electrónico, las fojas que se destinen a formar los libros diario y/o mayor, deberán encuadernarse, empastarse y foliarse consecutivamente; dicha encuadernación podrá hacerse dentro de los tres meses siguientes al cierre del ejercicio, presentándose los libros de referencia para su sellado y control de folios ante la autoridad recaudadora correspondiente a más tardar a la fecha en que deba presentarse la declaración del ejercicio del impuesto sobre la renta, debiendo contener dichos libros el nombre, domicilio fiscal y clave de registro federal de contribuyentes; tratándose del sistema de registro mecánico las fojas que se destinen a formar el libro diario deberán presentarse para su sellado previamente a su utilización.
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Los libros fojas a que se refiere este artículo, deberán presentarse para su sellado conjuntamente con la solicitud para el sellado de libros de contabilidad. La autoridad recaudadora correspondiente, deberá efectuar el sellado el mismo día en que le sean presentados.
+Cuando el contribuyente adopte los sistemas de registro mecánico o electrónico, las fojas que se destinen a formar los libros diario y/o mayor, podrán encuadernarse empastarse y foliarse consecutivamente, dicha encuadernación podrá hacerse dentro de los tres meses siguientes al cierre de ejercicio, debiendo contener dichos libros el nombre, domicilio fiscal y clave del registro federal de contribuyentes. Los contribuyentes podrán optar por grabar dicha información en discos ópticos o en cualquier otro medio que autorice la Secretaría mediante reglas de carácter general.
 
 ###### ARTICULO 29.
 
@@ -401,11 +443,11 @@ En el libro mayor deberán anotarse los nombres de las cuentas de la contabilida
 
 Podrán llevarse libros diarios y mayores, particulares, por establecimientos o dependencias, tipos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir el libro diario y el mayor general en que se concentren todas las operaciones del contribuyente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 29-A.
 
-Los contribuyentes a que se refiere el quinto párrafo del artículo 29 del Código, así como aquéllos que estando en dicho supuesto, adquieran directamente de los fabricantes e importadores máquinas registradoras de comprobación fiscal, deberán cumplir con las obligaciones que el mismo establece en relación con dichas máquinas, para lo cual observarán lo siguiente:
+Los contribuyentes a que se refiere el sexto párrafo del artículo 29 del Código, así como quienes adquieran directamente de fabricantes o importadores máquinas registradoras de comprobación fiscal, deberán cumplir con las obligaciones que el mismo establece en relación con dichas máquinas, para lo cual observarán lo siguiente:
 
 > <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -665,7 +707,9 @@ Cuando el contribuyente adopte el sistema de registro electrónico, deberá cons
 
 Cuando en las disposiciones fiscales se haga referencia a contabilidad simplificada, se entenderá que ésta comprende un solo libro foliado de ingresos, egresos y de registro de inversiones y deducciones. Dicho libro deberá satisfacer como mínimo los requisitos previstos en las fracciones I y II del artículo 26 de este Reglamento.
 
-En los supuestos previstos por los artículos 32-A y 32-B de este Reglamento, la contabilidad simplificada comprende sólo el cuaderno a que los mismos se refieren.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+En el supuesto previsto por el artículo 32-A de este Reglamento, la contabilidad simplificada comprende sólo el cuaderno a que el mismo se refiere.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
@@ -679,43 +723,21 @@ I.- Identificar cada operación, acto o actividad y sus características, relaci
 
 II.- Identificar los bienes y deudas relacionándolos con la documentación comprobatoria, de tal forma que pueda precisarse la fecha de adquisición, enajenación o extinción, en su caso.
 
-Lo dispuesto en este artículo es sin perjuicio de que los contribuyentes utilicen, cuando a ello se encuentren obligados, las máquinas registradoras de comprobación fiscal en los términos del quinto párrafo del artículo 29 del Código.
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+Los contribuyentes a que se refiere este artículo podrán llevar su contabilidad a través del sistema de registro electrónico establecido en este Reglamento, en lugar de llevar el cuaderno a que se refiere el primer párrafo de este artículo, siempre que se reúnan los requisitos a que se refieren las fracciones I y II de este artículo.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Lo dispuesto en este artículo es sin perjuicio de que los contribuyentes utilicen, cuando a ello se encuentren obligados, las máquinas registradoras de comprobación fiscal en los términos del sexto párrafo del artículo 29 del Código.
 
 ###### ARTICULO 32-B.
 
-Los contribuyentes pequeños sujetos al régimen simplificado del impuesto sobre la renta, que hayan obtenido en el año de calendario inmediato anterior ingresos hasta por 200 millones de pesos, en lugar de aplicar lo dispuesto en el artículo anterior, estarán a lo siguiente:
-
-I.- Registrarán en el cuaderno a que se refiere el artículo anterior, sólo las entradas y salidas.
-
-II.- Efectuarán el registro de las entradas por ingresos propios de la actividad diariamente en forma global, separando el monto del impuesto al valor agregado a cargo del contribuyente. El registro de las demás entradas, se podrá efectuar en forma global una vez al mes.
-
-III.- Efectuarán el registro de las salidas por operaciones propias de la actividad diariamente en forma global, separando el monto del impuesto al valor agregado que les hubieran trasladado. El registro de las demás salidas, se podrá efectuar en forma global una vez al mes.
-
-IV.- Efectuarán el recuento de sus mercancías durante el mes de diciembre de cada año, mismo que formará parte de la relación a que se refiere la fracción V de este artículo.
-
-V.- Los contribuyentes a que se refiere este artículo formularán una relación de bienes y deudas al 31 de diciembre de cada año, valuándolos conforme a lo dispuesto por el artículo 32-C de este Reglamento.
-
-Para los efectos de las fracciones II y III que anteceden, tratándose de los retiros y depósitos en cuentas bancarias y de inversiones, se anotará como salida o como entrada el aumento o disminución que tenga el saldo del mes en relación con el del mes anterior, conforme al estado de cuenta que proporcione la institución del sistema financiero de que se trate. Para tal efecto, se considerará como salida el aumento y como entrada la disminución del saldo referido. Las anotaciones se efectuarán una vez al mes sin ajuste alguno. Los intereses que dichas instituciones abonen en el mes deberán anotarse como entradas.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 32-C.
 
-Los contribuyentes a que se refiere el artículo 32-B de este Reglamento, al ejercer la opción por el régimen simplificado presentarán un aviso, al que acompañarán una relación de bienes y deudas del negocio a esa fecha, en lugar del estado de posición financiera. La diferencia entre los valores de los bienes y las deudas, cuando aquéllos sean superiores a éstas, se considerará como el capital de aportación a que se refiere la Ley del Impuesto sobre la Renta. La Secretaría proporcionará a los contribuyentes instructivos y dará asistencia para cumplir con esta obligación.
-
-En la relación de los bienes y deudas éstos se valuarán conforme a lo siguiente:
-
-I.- Muebles, maquinaria, herramientas, equipo de transporte, terrenos y construcciones, a su valor de adquisición multiplicado por el factor que publique la Secretaria para este efecto.
-
-II.- Las mercancías en existencia, valuando cada tipo de producto al precio de su última compra o de su costo de producción, según se trate.
-
-III.- Las cuentas de cheques o de inversiones, al saldo del mes.
-
-IV.- Las cuentas y documentos por cobrar a clientes y empleados, a la cantidad adeudada.
-
-V.- Las deudas, a la cantidad debida.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 33.
 
@@ -723,47 +745,41 @@ Cuando los libros o demás registros de contabilidad del contribuyente se inutil
 
 Tratándose de destrucción o inutilización total, pérdida o robo de los libros, registros o colecciones de hojas foliadas, el contribuyente deberá asentar en los nuevos libros o en los registros de contabilidad de que se trate, los asientos relativos al ejercicio en el que sucedió la inutilización, destrucción, pérdida o robo, pudiéndose realizar por concentración.
 
-En las situaciones a que se refieren los párrafos anteriores, el contribuyente deberá conservar, en su caso, el documento público en el que consten los hechos ocurridos, hasta en tanto no se extingan las facultades de comprobación de las autoridades fiscales. respecto de los sistemas de registro manual o mecanizado, dicho documento deberá exhibirse ante la autoridad recaudadora correspondiente, conjuntamente con los nuevos libros u hojas, para ser sellados previamente a su utilización.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+En las situaciones a que se refieren los párrafos anteriores, el contribuyente deberá conservar, en su caso, el documento público en el que consten los hechos ocurridos, hasta en tanto no se extingan las facultades de comprobación de las autoridades fiscales.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 34.
 
-Para los efectos de la fracción III del artículo 28 del Código, los contribuyentes, previo aviso, podrán llevar su contabilidad en lugar distinto al domicilio fiscal, siempre que dicho lugar se encuentre ubicado en territorio nacional y sea establecimiento del contribuyente.
+Para los efectos de la fracción III del artículo 28 del Código, los contribuyentes, podrán llevar su contabilidad en lugar distinto al domicilio fiscal, cuando obtengan autorización y siempre que dicho lugar se encuentre ubicado en la misma población en la que se encuentra el domicilio fiscal del contribuyente.
 
-El aviso se presentará ante la autoridad recaudadora correspondiente a su domicilio fiscal; cuando se tengan que presentar declaraciones periódicas ante autoridades de la Federación y de las entidades federativas, el aviso a que se refiere el párrafo anterior, se hará ante la autoridad recaudadora correspondiente de la Federación, debiendo presentarse copia sellada ante la autoridad de la entidad federativa la que corresponda presentar la declaración de que se trate, dentro del mes siguiente al día en que se hubiera presentado ante aquélla.
+La solicitud de autorización se presentará ante la autoridad administradora correspondiente a su domicilio fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 35.
 
-Cuando las autoridades fiscales en los términos del segundo párrafo del artículo 28 del Código, mantengan en su poder uno o más libros de contabilidad por un plazo mayor de un mes, el contribuyente deberá asentar las operaciones pendientes de registro y las subsecuentes, en el nuevo o nuevos libros que correspondan, para lo cual, al término de dicho mes, deberá presentarlos a la autoridad recaudadora para ser, sellados previamente a su utilización, debiendo acompañar para tal efecto el documento que compruebe esa situación. La autoridad recaudadora deberá efectuar el sellado el mismo día en que se le presenten los libros de que se trate. Cuando la autoridad devuelva los libros, después de que los nuevos se hubieran presentado para su sellado, el contribuyente ya no hará asientos en los devueltos.
+Cuando las autoridades fiscales en los términos del segundo párrafo del artículo 28 del Código, mantengan en su poder uno o más libros de contabilidad por un plazo mayor de un mes, el contribuyente deberá asentar las operaciones pendientes de registro y las subsecuentes, en el nuevo o nuevos libros que correspondan. Cuando la autoridad devuelva los libros, después de que los nuevos hayan sido utilizados, el contribuyente ya no hará asientos en los devueltos.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-El plazo para que los contribuyentes presenten a la autoridad recaudadora el o los nuevos libros de contabilidad para ser sellados en los términos del párrafo anterior, será de un mes contado a partir del día siguiente a aquél en que termine el mes durante el cual las autoridades fiscales mantengan en su poder la contabilidad del contribuyente.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 Lo dispuesto en este artículo no es aplicable a los contribuyentes que utilicen los sistemas de registro mecanizado o electrónico, los cuales podrán continuar efectuando sus registros sin esperar a que transcurra el plazo a que se refiere el primer párrafo de este artículo.
 
 ###### ARTICULO 36.
 
-Los comprobantes a que se refiere el artículo 29 del Código, deberán reunir los requisitos siguientes:
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
-I.- Nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien los expida.
-
-II.- Número de folio, lugar y fecha de expedición.
-
-III.- Nombre, denominación o razón social y domicilio de la persona a favor de quien se expidan.
-
-IV.- Cantidad y clase de mercancías o descripción del servicio que amparen.
-
-V.- Valor unitario e importe total consignado en número y letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, en su caso.
-
-VI.- Número y fecha del documento aduanero así como aduana por la cual se realizó la importación, tratándose de ventas de primera mano de mercancías de importación.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 37.
 
-Los contribuyentes que realicen enajenaciones o presten servicios, al público en general y siempre que en la documentación comprobatoria no se haga la separación expresa entre el valor de la contraprestación pactada y el monto del impuesto al valor agregado que se tenga que pagar con motivo de dicha operación, podrán expedir su documentación comprobatoria en los términos del artículo anterior, o bien optar por hacerlo en alguna de las formas siguientes:
+Los contribuyentes que realicen enajenaciones o presten servicios, al público en general y siempre que en la documentación comprobatoria no se haga la separación expresa entre el valor de la contraprestación pactada y el monto del impuesto al valor agregado que se tenga que pagar con motivo de dicha operación, podrán expedir su documentación comprobatoria en los términos del artículo 29-A del Código, o bien optar por hacerlo en alguna de las formas siguientes:
 
-I.- Expedir comprobantes cuyo único contenido serán los requisitos a que se refieren las fracciones I y II del artículo anterior y que señalen además el importe total de la operación.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- Expedir comprobantes cuyo único contenido serán los requisitos a que se refieren las fracciones I, II y III del artículo 29-A del Código y que señalen además el importe total de la operación consignado en número y letra.
 
 II.- Expedir comprobantes consistentes en copias de la parte de los registros de auditoría de sus máquinas registradoras, en la que aparezca el importe de las operaciones de que se trate y siempre que el contribuyente cumpla con los siguientes:
 
@@ -771,85 +787,45 @@ a).- Los registros de auditoría de las máquinas registradoras deberán contene
 
 b).- Se deberán formular facturas globales diarias con base en los resúmenes de los registros de auditoría, separando el monto del impuesto al valor agregado a cargo del contribuyente; dichas facturas también deberán ser firmadas por el auditor interno de la empresa o por el contribuyente.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Los contribuyentes que utilicen máquinas registradoras de comprobación fiscal deberán expedir los comprobantes que emitan dichas máquinas con los requisitos señalados por el artículo 29-B, fracción III, excepto cuando exista imposibilidad de utilización de la única máquina del establecimiento de que se trate, caso en que podrán expedir comprobantes en las formas a que este artículo se refiere, siempre que se consignen todos los datos de los comprobantes que emitan dichas máquinas salvo los relativos a registro y logotipo fiscal. En los casos señalados en el párrafo siguiente, dichos contribuyentes deberán anotar en el comprobante que les sea solicitado, además de los datos previstos por el artículo anterior, el número de registro de la máquina y el número consecutivo del comprobante que emitió al registrar la operación de que se trate.
+Los contribuyentes que utilicen máquinas registradoras de comprobación fiscal deberán expedir los comprobantes que emitan dichas máquinas con los requisitos señalados por el artículo 29-B, fracción III de este Reglamento, excepto cuando exista imposibilidad de utilización de la única máquina del establecimiento de que se trate, caso en que podrán expedir comprobantes en las formas a que este artículo se refiere, siempre que se consignen todos los datos de los comprobantes que emitan dichas máquinas salvo los relativos a registro y logotipo fiscal. En los casos señalados en el párrafo siguiente, dichos contribuyentes deberán anotar en el comprobante que les sea solicitado, además de los datos previstos por el artículo 29-A del Código, el número de registro de la máquina y el número consecutivo del comprobante que emitió al registrar la operación de que se trate.
 
-No obstante lo dispuesto en este artículo, los contribuyentes estarán obligados a expedir comprobantes en los términos del artículo anterior, cuando así le sea solicitado expresamente por el interesado.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+No obstante lo dispuesto en este artículo, los contribuyentes estarán obligados a expedir comprobantes en los términos del artículo 29-A del Código, cuando así le sea solicitado expresamente por el interesado.
 
 ###### ARTICULO 37-A.
 
-Las personas físicas que tributen en el impuesto sobre la renta conforme al régimen simplificado, no estarán obligadas a expedir comprobantes de sus operaciones, cuando el monto de las mismas no exceda de mil pesos.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 38.
 
-Los contribuyentes deberán llevar los comprobantes a que se refiere el artículo 36 de este Reglamento en talonario o bien expedirlos en original y copia.
+Los contribuyentes deberán llevar los comprobantes a que se refiere el artículo 29-A del Código en talonario o bien expedirlos en original y copia.
 
 Cuando se opte por llevar talonario, éstos deberán estar empastados y foliados en forma consecutiva previamente a su utilización. La matriz contendrá los datos completos y el talón un extracto indicativo de los mismos.
 
-Si se opta por expedir los comprobantes en original y copia, éstos deberán estar foliados en forma consecutiva previamente a su utilización, debiendo conservar las copias empastándolas en su orden. Cuando las facturas se expidan por computadora el foliado podrá ser simultáneo a su expedición.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-Los contribuyentes que expidan los comprobantes a que se refiere la fracción I del artículo anterior, deberán hacerlo siempre en original y copia, debiendo estar foliados en forma consecutiva previamente a su utilización, entregar la copia de los mismos al interesado y conservar los originales empastándolos en su orden.
+Si se opta por expedir los comprobantes en original y copia, éstos deberán estar foliados en forma consecutiva previamente a su utilización, debiendo conservar las copias empastándolas en su orden. Cuando se autorice la expedición de comprobantes por computadora se deberá cumplir con los requisitos que mediante reglas de carácter general de a conocer la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Los contribuyentes que expidan los comprobantes a que se refiere la fracción I del artículo 37 de este Reglamento, deberán hacerlo siempre en original y copia, debiendo estar foliados en forma consecutiva previamente a su utilización, entregar la copia de los mismos al interesado y conservar los originales empastándolos en su orden.
 
 Cuando no se usaren en su totalidad los comprobantes o bien se recuperen como resultado de una devolución, se conservarán los sobrantes o devueltos anotando en ellos la palabra "cancelado" y la fecha de cancelación.
 
 Cuando las necesidades del contribuyente exijan el uso simultáneo de varias series de comprobantes, se utilizarán las que fueren necesarias, debiendo identificarlas adicionando consecutivamente letras a las series.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
 ###### ARTICULO 38
 
-BIS.- La adquisición de los bienes que se señalan en este artículo, se podrá comprobar sin la documentación señalada en el artículo 36 de este Reglamento, siempre que se trate de la primera enajenación realizada por:
-
-I.- Personas dedicadas a actividades agrícolas, ganaderas o de pesca respecto de los siguientes bienes:
-
-a).- Leche;
-
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
-
-b).- Frutas, legumbres o semillas
-
-c).- Pescados o mariscos.
-
-II.- Contribuyentes sin establecimiento fijo, tratándose de:
-
-a).- Chatarra;
-
-b).- Productos artesanales;
-
-c).- Desperdicios industrializables.
-
-III.- Pequeños mineros, entendiéndose por éstos los señalados en el primer párrafo del artículo 274 de la Ley Federal de Derechos, respecto de minerales sin beneficiar.
-
-IV.- Ejidatarios o comuneros, respecto de productos obtenidos en el ejido o en la comunidad respectiva.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+BIS.- (DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 39.
 
-El adquirente de los bienes a que se refiere el artículo 38- BIS anterior, a falta de la documentación señalada en el artículo 36 de este Reglamento, para comprobar las adquisiciones, cumplirá con los siguientes requisitos:
-
-I.- Que la pagos correspondientes los haga librando cheques, de su cuenta a nombre del enajenante.
-
-II.- Que expida por duplicado documentos foliados en forma consecutiva previamente a su utilización, los cuales deben contener los siguientes datos:
-
-a).- Su nombre, denominación o razón social y domicilio fiscal;
-
-b).- Nombre del enajenante, ubicación de su negocio o domicilio y firma del mismo o de quien reciba el pago;
-
-c).- Descripción del bien objeto de la enajenación, unidades, precio unitario, precio total y fecha de operación;
-
-d).- Número del cheque con el que se efectuó el pago y nombre del banco contra el cual se libra; y
-
-e).- Además, en su caso:
-
-1.- Clave del registro federal de contribuyentes, Cámara a la que pertenezca y número de registro correspondiente del enajenante, así como las características del documento con el, cual se identifique.
-
-2.- Descripción y número de placas del vehículo utilizado en la entrega del bien.
-
-III.- Entregar copia del documento a que se refiere la fracción II a quien reciba el pago; el original lo empastará y conservará, debiendo identificar en su contabilidad estas operaciones.
+(DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
 ###### ARTICULO 40.
 
@@ -865,31 +841,37 @@ IV.- Cantidad y descripción de los bienes donados o, en su caso, el monto del d
 
 V.- El señalamiento expreso que amparan un donativo.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 41.
 
-Los contribuyentes a que se refiere el cuarto párrafo del artículo 30 del Código, podrán microfilmar las comprobantes o documentación comprobatoria de los actos o actividades que realicen, de los servicios que reciban y, de las compras que efectúen, siempre y cuando cumplan con los siguientes requisitos:
+Los contribuyentes a que se refiere el cuarto párrafo del artículo 30 del Código, podrán microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante reglas de carácter general los comprobantes o documentación comprobatoria de los actos o actividades que realicen, de los servicios que reciban y de las compras que efectúen, siempre y cuando cumplan con los siguientes requisitos:
 
-I.- Antes de efectuar la microfilmación, el contador público que dictamine los estados financieros deberá hacer una revisión selectiva que sea representativa del total de los documentos, debiendo manifestar bajo protesta de decir verdad, que los documentos microfilmados, corresponden a los originales existentes en el archivo a la fecha en que este último practicó la auditoría y que la microfilmación de ajusto a lo dispuesto por este artículo. Dicha manifestación deberá ser firmada por el contador público y el contribuyente.
+I.- Antes de efectuar la microfilmación o la grabación, el contador público que dictamine los estados financieros deberá hacer una revisión selectiva que sea representativa del total de los documentos, debiendo manifestar bajo protesta de decir verdad, que los documentos microfilmados o grabados corresponden a los originales existentes en el archivo a la fecha en que este último practicó la auditoría y que la microfilmación o grabación se ajustó a lo dispuesto por este artículo. Dicha manifestación deberá ser firmada por el contador público y el contribuyente.
 
-II.- Microfilmar los documentos debiendo agruparlos, tanto los expedidos como los recibidos, por meses, en conjunto de documentos afines, clasificados por cuentas y subcuentas, de modo que los totales puedan ser confrontados con los contenidos en los sistemas y registros contables del contribuyente.
+II.- Microfilmar o grabar los documentos debiendo agruparlos, tanto los expedidos como los recibidos, por meses, en conjunto de documentos afines, clasificados por cuentas y subcuentas, de modo que los totales puedan ser confrontados con los contenidos en los sistemas y registros contables del contribuyente.
 
-III.- Sumar por cada mes el valor total que representa la documentación expedida o recibida y microfilmar el correspondiente registro de auditoría de la máquina sumadora.
+III.- Sumar por cada mes el valor total que representa la documentación expedida o recibida y microfilmar o grabar el correspondiente registro de auditoría de la máquina sumadora.
 
-IV.- Consignar, al inicio y al final de las microfilmaciones, la fecha en que se realiza la misma, debiendo ser firmada por el contador autorizado.
+IV.- Consignar, al inicio y al final de las microfilmaciones o grabación, la fecha en que se realiza la misma, debiendo ser firmada por el contador autorizado.
 
-V.- Realizar la microfilmación por duplicado, a efecto de que uno de los ejemplares pueda emplearse, para uso constante y conservarse el otro en caja de seguridad que garantice su indestructibilidad mientras no se extingan las facultades de comprobación de las autoridades fiscales.
+V.- Realizar la microfilmación o grabación por duplicado, a efecto de que uno de los ejemplares pueda emplearse para uso constante y conservarse el otro en caja de seguridad que garantice su indestructibilidad mientras no se extingan las facultades de comprobación de las autoridades fiscales.
 
 VI.- Usar para la microfilmación, película pancromática con base de seguridad, que garantice permanencia de imagen por el mismo período a que se refiere la fracción anterior.
 
-VII.- Relacionar el anverso y el reverso de los documentos, cuando la microfilmación no se haga con equipo que microfilme simultáneamente las dos caras de dichos documentos y éstos contengan anotaciones al reverso.
+La grabación en discos ópticos se efectuará en los términos y con las características que mediante reglas de carácter general expida la Secretaría.
 
-VIII.- Conservar los originales de los documentos microfilmados por lo menos hasta la fecha en que las autoridades fiscales puedan determinar la omisión en el pago de contribuciones respecto del ejercicio al que corresponde dicha documentación, en los términos de la fracción I del artículo 64 del Código, o bien, hasta la fecha en que se dicte resolución firme, cuando se hayan ejercido las facultades de comprobación en materia de impuestos y, derechos, en relación, con el ejercicio cuya documentación se microfilma. Los documentos que comprueben la adquisición de bienes de inversión, los aduaneros, los de tenencia o uso de vehículos, la documentación relacionada con aportaciones de, seguridad social y las declaraciones de contribuciones, deberán conservarse en original durante el plazo que al efecto señala el artículo 30 del Código en tanto no se extingan las facultades de comprobación de las autoridades fiscales.
+VII.- Relacionar el anverso y el reverso de los documentos, cuando la microfilmación o grabación no se haga con equipo que microfilme o grabe simultáneamente las dos caras de dichos documentos y éstos contengan anotaciones al reverso.
+
+VIII.- Conservar hasta la fecha en que se presente la siguiente declaración anual los originales de los documentos microfilmados o grabados correspondientes al último ejercicio de 12 meses por el que se presentó o debió haberse presentado declaración anual, o bien, hasta la fecha en que se dicte resolución firme, cuando se hayan ejercido las facultades de comprobación en materia de impuestos y derechos, en relación con el ejercicio cuya documentación se microfilma o graba. Los documentos que comprueben la adquisición de bienes de inversión, los aduaneros, los de tenencia o uso de vehículos, la documentación relacionada con aportaciones de seguridad social y las declaraciones de contribuciones, deberán conservarse en original durante el plazo que al efecto señala el artículo 30 del Código en tanto no se extingan las facultades de las autoridades fiscales en los términos del artículo 67 del citado Código.
 
 #### SECCION CUARTA. De las Declaraciones, Solicitudes y Avisos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 42.
 
-Cuando en la solicitud de inscripción en el registro federal de contribuyentes, en las declaraciones o avisos a que se refiere el artículo 31 de Código se requiera la clave de actividades del contribuyente, se deberá señalar la que corresponda a su actividad preponderante de acuerdo al catálogo de actividades que publique la Secretaría.
+Cuando en las declaraciones o avisos a que se refiere el artículo 31 del Código, se requiera la clave de actividad del contribuyente, éste deberá utilizar la que le hubiere sido asignada por la Secretaría. En el caso de solicitud de inscripción o cuando no se tenga asignada clave de actividad del contribuyente, éste deberá describir el tipo de actividad que realiza.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -898,6 +880,12 @@ Las formas oficiales a que se refiere el artículo 31 del Código, se podrán im
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 Cuando las formas oficiales aprobadas deban presentarse en original y un número determinado de copias, éstas podrán ser fotostáticas u hojas impresas por equipo de cómputo, siempre que se respete el formato de tamaño y características que se indiquen en cada caso.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 42-A.
+
+Para los efectos de lo dispuesto en el primer párrafo del artículo 32 del Código, no se computarán como declaración complementaria la que presenten los contribuyentes como consecuencia de una resolución definitiva que dicten los tribunales o las autoridades competentes.
 
 ###### ARTICULO 43.
 
@@ -921,23 +909,11 @@ Si el documento respectivo se exhibe en el momento de la diligencia de notificac
 
 #### SECCION PRIMERA. De los Dictámenes de Contadores Públicos
 
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 44
 
-BIS-1.- Para efectos del artículo 33 del Código Fiscal de la Federación y con el objeto de que las acciones de simplificación adquieran el carácter de conducta administrativa permanente, la Secretaría de Hacienda y Crédito Público llevará a cabo un Programa de Prevención y Resolución de Asuntos del Contribuyente, consistente en la ejecución sistemática y permanente de acciones para:
-
-1.- Mantener consulta formal y sostenida con los organismos y asociaciones representativos de los contribuyentes.
-
-2.- Conocer los puntos de vista de los contribuyentes respecto de las cuestiones fiscales, para procurar claridad en el diseño e instrumentación de los procedimientos administrativos.
-
-3.- Investigar la operación de los procedimientos administrativos que originen problemas recurrentes, para sugerir las recomendaciones correctivas que correspondan.
-
-4.- Proporcionar a los contribuyentes apoyo directo en la resolución de los asuntos individuales y específicos que confronten en la realización de trámites administrativos ante las autoridades fiscales.
-
-5.- Coordinar las acciones internas de simplificación administrativa de la Subsecretaría de Ingresos.
-
-La ejecución del programa se encomendará a un Síndico que actuará bajo las reglas que dicte la Secretaría de Hacienda y Crédito Público sin interferir en las funciones de la autoridad fiscal.
+BIS-1.- Los contribuyentes a que se refieren las fracciones I y IV del artículo 32-A del Código, no estarán obligados a dictaminar sus estados financieros a partir del segundo ejercicio en que se encuentren en suspensión de actividades, a excepción de los casos en que, de conformidad con el artículo 26 del Reglamento de la Ley del Impuesto al Activo, dichos contribuyentes continúen estando obligados al pago del impuesto a que se refiere esa Ley.
 
 ###### ARTICULO 45.
 
@@ -949,23 +925,47 @@ II.- Cédula profesional emitida por la Secretaría de Educación Pública.
 
 III.- Constancia emitida por colegio de contadores públicos que acredite su calidad de miembro activo, expedida dentro de los dos meses anteriores a la presentación de la solicitud.
 
-Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
+Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o
+
+condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Una vez otorgado el registro, el contador público que lo obtenga, deberá comunicar a la autoridad fiscal cualquier cambio en los datos contenidos en su solicitud, así como comprobar ante la autoridad competente, dentro de los tres primeros meses de cada año, que es socio activo de un colegio o asociación profesional y presentar constancia de que sustentó y aprobó examen ante la autoridad fiscal en la que se demuestre que se encuentra actualizado respecto de las disposiciones fiscales o, en defecto de esto último, presentar constancia de cumplimiento de la norma de educación continua expedida por su colegio o asociación profesional o constancia de actualización académica expedida por dicho colegio o asociación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 45-A.
+
+Los contadores públicos registrados ante la Secretaría o los que deseen obtener su registro en los términos del artículo 52 del Código, que presten sus servicios a una persona moral, deberán presentar aviso conjuntamente con el que prevé el artículo 46 de este Reglamento en el que harán constar lo siguiente:
+
+I.- Denominación o razón social de la persona moral a la que prestan sus servicios.
+
+II.- Domicilio fiscal y registro federal de contribuyentes de la persona moral antes citada.
+
+III.- Número de registro asignado por la Dirección General de Auditoría Fiscal Federal al despacho contable en el que presten sus servicios.
+
+IV.- Nombres de los contadores públicos autorizados para dictaminar que presten sus servicios a la misma persona moral.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 46.
 
-Los contribuyentes que deseen dictaminar sus estados financieros de conformidad con lo dispuesto por el artículo 52 del Código, deberán presentar aviso a las autoridades fiscales competentes dentro de los cuatro o tres meses siguientes a la fecha de terminación de su ejercicio fiscal, según se trate de personas físicas o morales, respectivamente, observando las siguientes reglas:
+Los contribuyentes que opten o se encuentren obligados a dictaminar sus estados financieros en los términos de los artículos 52 y 32-A del Código, respectivamente, deberán presentar aviso a las autoridades fiscales competentes dentro de los cuatro o tres meses siguientes a la fecha de terminación de su ejercicio fiscal, según se trate de personas físicas o morales, observando las siguientes reglas:
 
 I.- El aviso deberá ser suscrito tanto por el contribuyentes como por el contador público que vaya a dictaminar.
 
 II.- El dictamen se referirá invariablemente a los estados financieros del último ejercicio fiscal.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-En los casos de fusión o liquidación, el dictamen a que se refiere el párrafo anterior, se podrá presentar tanto por el ejercicio de doce meses, como por el ejercicio irregular que se origina por esos hechos, siempre que dicha presentación se efectúe dentro de los tres meses siguientes a la fecha de terminación de su ejercicio fiscal.
+En los casos de liquidación, el dictamen a que se refiere el párrafo anterior, se podrá presentar tanto por el ejercicio de doce meses, como por el ejercicio irregular que se origina por esos hechos, siempre que dicha presentación se efectúe dentro de los tres meses siguientes a la fecha de terminación de su ejercicio fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 47.
 
-El aviso a que se refiere el artículo anterior no surtirá efectos cuando:
+El aviso a que se refiere el artículo 46 de este Reglamento no surtirá efectos en el caso de contribuyentes que opten por dictaminar sus estados financieros cuando:
 
 I.- No haya sido presentado en los términos de dicho precepto.
 
@@ -979,9 +979,11 @@ Cuando la visita domiciliaria se refiera a ejercicios anteriores al que se dicta
 
 V.- Exista impedimento del contador público que lo suscriba.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 48.
 
-El contribuyente podrá renunciar a la presentación del dictamen sustituir al contador público originalmente designado siempre que lo comunique a la autoridad fiscal competente, dentro de los meses siguientes a la presentación del aviso a que se refiere el artículo 46 anterior, justificando los motivos que tuviere.
+Los contribuyentes a que se refiere el artículo 46 de este Reglamento podrán sustituir al contador público designado y en el caso de los contribuyentes que opten por dictaminar sus estados financieros, podrán renunciar a la presentación del dictamen, siempre que en ambos casos lo comuniquen a la autoridad fiscal competente, dentro de los tres meses siguientes a la presentación del aviso a que se refiere el citado artículo 46, manifestando los motivos que tuvieren.
 
 Cuando el contador público no pueda formular el dictamen por incapacidad física o impedimento legal, el aviso para sustituirlo se podrá dar en cualquier tiempo antes de que concluya el plazo para presentar el dictamen.
 
@@ -989,103 +991,121 @@ Si existe sustitución del contador público, las autoridades fiscales competent
 
 El contador público tendrá la obligación de formular su dictamen, salvo que tenga incapacidad física o impedimento legal para hacerlo o que dentro de los tres meses siguientes a la fecha de presentación del aviso a que se refiere el artículo 46 anterior, presente nuevo aviso ante las mismas autoridades comunicando que renuncia a formularlo, justificando los motivos que tuviere.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 49.
 
-El contribuyente que hubiere dado el aviso a que se refiere el Artículo 46 de este Reglamento, deberá presentar ante la autoridad fiscal competente, el dictamen relativo a sus estados financieros y los demás documentos a que se refiere el artículo siguiente, dentro de los siete meses siguientes a la terminación del ejercicio fiscal de que se trate.
+Los contribuyentes a que se refiere el artículo 46 de este Reglamento, deberán presentar ante la autoridad fiscal competente dentro de los siete meses siguientes a la terminación del ejercicio fiscal de que se trate a través de discos magnéticos flexibles, la documentación a que se refiere la fracción III del artículo 50 de este Reglamento, acompañando a la misma, la carta de presentación del dictamen, así como el propio dictamen firmado por el contador público que lo emite y una relación por escrito de los archivos contenidos en el disco flexible agrupados de conformidad con las reglas de carácter general que al efecto expida la Secretaría. La presentación de dichos documentos y del disco se hará en dos tantos.
 
 La autoridad fiscal competente podrá conceder prórroga hasta por un mes para la presentación del dictamen y los documentos citados, si existen causas fortuitas o de fuerza mayor debidamente comprobadas que impidan el cumplimiento dentro del plazo mencionado en este artículo. La solicitud correspondiente deberá ser firmada por el contribuyente y presentarse a más tardar un mes antes del vencimiento de dicho plazo. Se considerará concedida la prórroga por un mes, si dentro de los diez días naturales siguientes a la fecha de presentación de la solicitud de prórroga la autoridad fiscal competente no le da contestación.
 
 El dictamen y los documentos citados que se presenten fuera de los plazos que prevé este Reglamento, no surtirán efecto alguno, salvo que la autoridad fiscal competente considere que existen razones para admitir tales documentos, caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 50.
 
-El contribuyente que hubiera dado el aviso para dictaminar los estados financieros, deberá presentar los siguientes documentos:
+Los contribuyentes a que se refiere el artículo anterior, deberán presentar lo siguiente:
 
-I.- Carta de presentación del dictamen.
+I.- Carta de presentación del dictamen con firma autógrafa del contribuyente y del contador público que dictamina.
 
-II.- Dictamen del contador público relativo a sus estados financieros.
+II.- Dictamen e informe sobre la revisión de la situación fiscal del contribuyente debidamente firmados por el contador público.
 
-III.- Los siguientes estados financieros básicos examinados por el contador público respecto de los cuales emite su dictamen:
+III.- Hoja electrónica de cálculo o sistema desarrollado para este objeto que contenga la información sobre los estados financieros básicos respecto de los cuales emite su dictamen, y los datos del cuestionario de autoevaluación inicial incluidos en las reglas de carácter general que para tal efecto expida la Secretaría, así como lo siguiente:
 
-> <small>(F. DE E., D.O.F. 11 DE NOVIEMBRE DE 1988)</small>
+a).- Estados financieros básicos y las notas relativas a los mismos, en base a lo siguiente:
 
-a).- Estado de posición financiera;
+1.- Estado de posición financiera.
 
-b).- Estado de resultados;
+2.- Estado de resultados.
 
-c).- Estado de variaciones en el capital contable, y
+3.- Estado de variaciones de capital contable.
 
-d).- Estado de cambios en la situación financiera en base a efectivo.
+4.- Estado de cambios en la situación financiera en base a efectivo.
 
-Se acompañarán también las notas a dichos estados financieros.
+b).- Análisis comparativo por subcuentas de los gastos de fabricación, de administración, de ventas, financieros y otros.
 
-IV.- Informe sobre la revisión de la situación fiscal del contribuyente, emitido por el contador público.
+c).- Análisis de contribuciones a cargo del contribuyente o por pagar al cierre del ejercicio o en su carácter de retenedor, incluyendo pagos provisionales, manifestadas bajo protesta de decir verdad. En el caso de contribuyentes personas físicas con actividad empresarial, deberán mencionarse las contribuciones causadas por su realización, así como las contribuciones provenientes de ingresos distintos de dicha actividad, informando expresamente si se obtuvieron otros ingresos, de tal manera que se muestre la contribución definitiva por impuesto sobre la renta.
 
-V.- (DEROGADA, D.O.F. 15 DE MAYO DE 1990)
+d).- Conciliación entre el resultado contable y fiscal para efectos del impuesto sobre la renta.
 
-VI.- Los siguientes anexos a los estados financieros:
-
-a).- Análisis comparativo por subcuentas de los gastos de fabricación, de administración, de venta, financieros y otros;
-
-b).- Relación de contribuciones a cargo del contribuyente o en su carácter de retenedor, manifestadas bajo protesta de decir verdad. En el caso de contribuyentes personas físicas con actividad empresarial, deberán mencionarse las contribuciones causadas por su realización, así como las provenientes de ingresos distintos a dicha actividad o la mención expresa de que no causó otras contribuciones o que no obtuvo otros ingresos, de tal manera que se muestre la contribución definitiva por impuesto sobre la renta;
-
-c).- Conciliación entre el resultado contable y el fiscal para efectos del impuesto sobre la renta;
-
-d).- Conciliación entre los ingresos dictaminados y los declarados para efectos del impuesto sobre la renta, impuesto al valor agregado y, en su caso, del impuesto especial sobre producción y servicios, y
-
-e).- Relación de contribuciones por pagar al cierre del ejercicio a cargo del contribuyente o como retenedor.
-
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+e).- Conciliación entre los ingresos dictaminados y declarados para efectos del impuesto sobre la renta, impuesto al valor agregado e impuesto especial sobre producción y servicios.
 
 f).- Conciliación de registros contables con la declaración del ejercicio y con las cifras dictaminadas respecto del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+g).- Análisis de operaciones de comercio exterior.
 
-Los documentos a que se refiere este artículo se presentarán en original y copia.
+h).- En el caso de dictamen de consolidación fiscal, informe y análisis de operaciones realizadas entre controladora y controladas y empresas relacionadas que no consoliden.
 
 ###### ARTICULO 50-A.
 
 (DEROGADO, D.O.F. 15 DE MAYO DE 1990)
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 51.
 
-Los documentos a que se refieren las fracciones II, III y VI del artículo 50 de este Reglamento, deberán reunir los siguientes requisitos:
+La información a que se refiere el artículo anterior, deberá reunir los siguientes requisitos:
 
-I.- El texto del dictamen relativo a los estados financieros, deberá apegarse a alguno de los que haya adoptado la agrupación u organismo profesional de contadores públicos reconocido por la Dirección General de Procesiones de la Secretaría de Educación Pública, al que esté afiliado el contador público que lo emita, debiendo señalar éste el número que le corresponda en el registro a que se refiere la fracción I del artículo 52 del Código.
+> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 1988)</small>
 
-II.- Los estados financieros básicos, incluyendo sus notas, examinados por el contador público registrado, respecto de los cuales emita su dictamen deberán ir suscritos por el contribuyente y presentarse en forma comparativa con el ejercicio inmediato anterior, expresadas sus cifras en miles de pesos. En los casos de dictamen para efectos de consolidación fiscal, tanto para la empresa que consolida como para las consolidadas, las cifras deberán presentarse en millones de pesos.
+I.- El texto del dictamen relativo a los estados financieros, deberá apegarse a alguno de los que haya adoptado la agrupación u organismo profesional de contadores públicos reconocido por la Dirección General de Profesiones de la Secretaría de Educación Pública, al que esté afiliado el contador público que lo emita, debiendo señalar éste el número que le corresponda en el registro a que se refiere la fracción I del artículo 52 del Código.
 
-III.- Los anexos a que se refiere la fracción VI del artículo 50 de este Reglamento, deberán expresarse en miles de pesos, y sujetarse a lo siguiente:
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-a).- Los análisis comparativos por subcuentas de los gastos de fabricación, administración, venta, financieros y otros se referirán a los dos últimos ejercicios fiscales, mostrando en cada uno de los análisis los conceptos correspondientes a cuotas obrero patronales cubiertas o enteradas al Instituto Mexicano del Seguro Social y al Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+II.- Los estados financieros básicos, incluyendo sus notas, examinados por el contador público registrado, respecto de los cuales emita su dictamen deberán presentarse en forma comparativa con el ejercicio inmediato anterior, expresadas sus cifras en miles de pesos. En los casos de dictamen para efectos de consolidación fiscal, tanto para la empresa que consolida como para las consolidadas, las cifras deberán presentarse en millones de pesos.
 
-b).- La relación de contribuciones a cargo del contribuyente o en su carácter de retenedor, deberá ir suscrita por el mismo y contener:
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-1.- La descripción de bases, tasas, tarifas o cuotas causadas y el entero de contribuciones, detallando las diferencias determinadas, en su caso, en cuanto a cada uno de estos conceptos;
+III.- La información a que se refiere la fracción III del artículo 50 de este Reglamento, deberá expresarse en miles de pesos y deberá contener los índices numéricos y conceptos respectivos en base a las reglas generales que al efecto expida la Secretaría y sujetarse a lo siguiente:
 
-2.- Al calce de la misma se declarará bajo protesta de decir verdad que la relación incluye todas las contribuciones federales a que está obligado; que las únicas obligaciones solidarias como retenedor de contribuciones federales son las incluidas; que en el ejercicio surtieron efectos solamente las autorizaciones, subsidios, estímulos o exenciones que se describen o bien, la mención expresa de que no hubo
+a).- Los análisis comparativos por subcuentas de los gastos de fabricación, administración, venta, financieros y otros se referirán a los dos últimos ejercicios fiscales.
 
-3.- En cuanto al pago del impuesto sobre la renta, deberá mencionarse cualquier compensación o acreditamiento efectuado;
+b).- La relación de contribuciones a cargo del contribuyente o en su carácter de retenedor deberá contener:
 
-4.- Respecto del impuesto al valor agregado, se deberá incluir la determinación del impuesto causado, así como del acreditable del ejercicio a las tasas aplicables. Asimismo, mostrará la determinación de las reglas de prorrateo en los casos de actos o actividades por los que no se deba pagar el impuesto;
+1.- La descripción de bases, tasas, tarifas o cuotas causadas y el entero de contribuciones, detallando las diferencias determinadas, en su caso, en cuanto a cada uno de estos conceptos.
 
-5.- En relación al impuesto especial sobre producción y servicios, también se deberá incluir la determinación del impuesto causado, así como del acreditable del ejercicio a las tasas aplicables;
+2.- Se declarará bajo protesta de decir verdad que la relación incluye todas las contribuciones federales a que está obligado; que las únicas obligaciones solidarias como retenedor de contribuciones federales son las incluidas; que en el ejercicio surtieron efectos las autorizaciones, subsidios, estímulos o exenciones que se describen o bien, la mención expresa de que no hubo.
 
-6.- En cuanto a otras contribuciones federales que se causen por ejercicio, así como respecto de las aportaciones de seguridad social, se mostrará la integración con cifras aplicables de los anexos de gastos que incluyen dichas cuotas.
+3.- En cuanto al pago del impuesto sobre la renta, deberá mencionarse cualquier compensación o acreditamiento efectuado, así como la determinación del componente inflacionario de los créditos y de las deudas.
+
+4.- Respecto del impuesto al valor agregado, se deberá incluir la determinación del impuesto causado, así como del acreditable del ejercicio a las tasas aplicables. Asimismo, mostrará la determinación de las reglas de prorrateo en los casos de actos o actividades por los que no se deba pagar el impuesto.
+
+5.- En relación al impuesto especial sobre producción y servicios, también se deberá incluir la determinación del impuesto causado, así como del acreditable del ejercicio a las tasas aplicables.
+
+6.- En cuanto al impuesto al activo se presentará análisis de la determinación de dicho impuesto.
+
+7.- En relación a los impuestos al comercio exterior, se mostrará el importe anual causado y pagado.
+
+8.- En cuanto a otras contribuciones federales que se causen por ejercicio, así como respecto de las aportaciones de seguridad social, se mostrará la integración con cifras aplicables de los anexos de gastos que incluyen dichas cuotas.
 
 El análisis de las cuotas obrero patronales al Instituto Mexicano del Seguro Social, deberá presentarse por los bimestres del ejercicio señalando los ramos de seguro.
 
-Las contribuciones federales para estos efectos, son los impuestos y aportaciones de seguridad social que tengan relación directa con la actividad empresarial del contribuyente
+Las contribuciones federales para estos efectos, son los impuestos y aportaciones de seguridad social que tengan relación directa con la actividad empresarial del contribuyente.
 
-Tratándose de derechos, sólo se mencionará el retenido por el 5 al millar por concepto de inspección y vigilancia de la obra pública, indicando el importe retenido al contribuyente y el nombre del retenedor;
+Tratándose de derechos, sólo se mencionará el retenido por el 5 al millar por concepto de inspección y vigilancia de la obra pública, indicando el importe retenido al contribuyente y el nombre del retenedor.
 
-c).- La conciliación entre el resultado contable y el fiscal para efectos de la Ley del Impuesto Sobre la Renta en casos aplicables, incluirá la información y el análisis siguientes:
+9.- Relación de contribuciones por pagar al cierre del ejercicio.
+
+Este análisis se presentará por cada contribución, indicando su importe, fecha de pago, y mencionando, en su caso, cuáles no fueron cubiertas a la fecha del informe.
+
+Si el contribuyente hubiera solicitado y en su caso obtenido autorización para pago en parcialidades, deberá anexar fotocopia de la misma.
+
+10.- Análisis de créditos obtenidos del extranjero y otros pagos al extranjero por los cuales hubiera correspondido retención y entero de contribuciones.
+
+11.- Prueba global de sueldos que deberá incluir el total de remuneraciones cubiertas por el patrón con motivo de la relación de trabajo. Por lo que se refiere al Instituto Mexicano del Seguro Social y al Instituto Nacional para el Fondo de Vivienda de los Trabajadores, se determinará el monto detallado por concepto que sirvió de base para su cálculo.
+
+12.- Por lo que se refiere a las operaciones de comercio exterior se declarará en su caso, que los bienes o mercancías de procedencia extranjera que forman parte de los inventarios del contribuyente, están debidamente amparadas con documentación que comprueba su legal estancia en el país, en caso contrario hará constar dentro del dictamen o dentro del informe respectivo cualquier incumplimiento a las disposiciones fiscales, señalando lo siguiente:
+
+A).- La determinación del impuesto causado por las importaciones y exportaciones de mercancía y/o bienes, haciendo mención de las bases y fechas de pago.
+
+B).- El nombre y número de los agentes aduanales con los cuales trabajó en el ejercicio, así como el monto de las operaciones realizadas.
+
+C).- El país de procedencia o destino de las mercancías y/o bienes.
+
+D).- Por lo que se refiere a las exportaciones que haya realizado el contribuyente dentro de su ejercicio, deberá hacer la manifestación de que llevó a cabo la verificación selectiva de la documentación comprobatoria debidamente requisitada.
+
+c).- La conciliación entre el resultado contable y el fiscal para efectos de la Ley del Impuesto sobre la Renta en casos aplicables, incluirá la información y el análisis siguientes:
 
 1.- De ingresos fiscales y deducciones contables que se suman.
 
@@ -1095,39 +1115,165 @@ c).- La conciliación entre el resultado contable y el fiscal para efectos de la
 
 4.- Determinación por ejercicio de la pérdida fiscal pendiente de disminuir de la utilidad fiscal, así como de la aplicación al que se dictamina.
 
-5.- La determinación de deducciones que procedan en el ejercicio que se dictamina, provenientes de ejercicios anteriores, se efectuará en los términos de este inciso;
+5.- La determinación de deducciones que procedan en el ejercicio que se dictamina, provenientes de ejercicios anteriores, se efectuará en los términos de este inciso.
 
 d).- La conciliación entre los ingresos dictaminados y los declarados para efectos del impuesto sobre la renta y de otras contribuciones federales.
 
-En la conciliación, en el caso del impuesto especial sobre producción y servicios, correspondiente a enajenación, importación o exportación de bienes, cuando se deba trasladar expresamente y por separado dicho impuesto, así como en el impuesto al valor agregado correspondiente a la enajenación de bienes, prestación de servicios y otorgamiento del uso o goce temporal de bienes, los montos a conciliar consistirán en el valor de los actos o actividades realizadas en los que se deba pagar y trasladar el impuesto en los términos de la Ley correspondiente, debiéndose señalar también los conceptos de actos o actividades por los que no se está obligado al pago o traslado del impuesto, según sea el caso, que originen diferencia entre los ingresos gravados por el impuesto sobre la renta y el valor de los actos o actividades gravados con el impuesto especial sobre producción y servicios o el impuesto al valor agregado, o ambos, según se trate;
+En la conciliación, en el caso del impuesto especial sobre producción y servicios, correspondiente a enajenación, importación o exportación de bienes, cuando se deba trasladar expresamente y por separado dicho impuesto, así como en el impuesto al valor agregado correspondiente a la enajenación de bienes, prestación de servicios y otorgamiento del uso o goce temporal de bienes, los montos a conciliar consistirán en el valor de los actos o actividades realizadas en los que se deba pagar y trasladar el impuesto en los términos de la Ley correspondiente, debiéndose señalar también los conceptos de actos o actividades por los que no se está obligado al pago o traslado del impuesto según sea el caso, que originen diferencia entre los ingresos gravados por el impuesto sobre la renta y el valor de los actos o actividades gravados con el impuesto especial sobre producción y servicios o el impuesto al valor agregado, o ambos según se trate.
 
-e).- Relación de contribuciones federales por pagar al cierre del ejercicio.
+e).- La conciliación de registros contables con la declaración del ejercicio y con las cifras dictaminadas respecto del impuesto al valor agregado, se hará de acuerdo con lo siguiente:
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1990)</small>
+1.- Se anotará el saldo a favor pendiente de acreditar del ejercicio fiscal inmediato anterior.
 
-f).- La conciliación de registros contables con la declaración del ejercicio y con las cifras dictaminadas respecto del impuesto al valor agregado, se hará de acuerdo con lo siguiente:
+2.- Se detallará el valor de los actos o actividades realizados a las diferentes tasas incluyendo la tasa del 0% y el de los actos o actividades por los que no se está obligado al pago de este impuesto.
 
-1.- Se anotará el saldo a favor pendiente de acreditar del ejercicio fiscal inmediato anterior;
+3.- Se anotará el impuesto al valor agregado causado a las diferentes tasas y se sumarán los importes obtenidos.
 
-2.- Se detallará el valor de los actos o actividades realizados a las diferentes tasas, Incluyendo la tasa del 0% y el de los actos o actividades por los que no se está obligado al pago de este impuesto;
+4.- En relación con el impuesto al valor agregado acreditable del ejercicio, se deberá anotar el impuesto trasladado al contribuyente, el pagado en aduanas por importación de bienes tangibles y el que se pagó por otras importaciones, y se obtendrá el subtotal de este impuesto.
 
-3.- Se anotará el impuesto al valor agregado causado a las diferentes tasas y se sumarán los importes obtenidos;
+5.- Al resultado obtenido en el inciso anterior se le restará el impuesto al valor agregado correspondiente a los gastos realizados con motivo de importaciones, en los casos en que conforme a la Ley de la materia no sean acreditables, a las inversiones o gastos referentes a periodos preoperativos y a los gastos e inversiones correspondientes a los actos o actividades por los que no se está obligado al pago del impuesto y, en su caso, el impuesto al valor agregado compensado contra otros impuestos, y
 
-4.- En relación con el impuesto al valor agregado acreditable del ejercicio, se deberá anotar el impuesto trasladado al contribuyente, el pagado en aduanas por importación de bienes tangibles y el que se pagó por otras importaciones, y se obtendrá el subtotal de este impuesto;
+6.- La información anterior dará como resultado el importe total del impuesto del ejercicio a cargo o del saldo a favor del contribuyente.
 
-5.- Al resultado obtenido en el inciso anterior se le restará el impuesto al valor agregado correspondiente a los gastos realizado: con motivo de importaciones, en los casos en que conforme a la Ley de la materia no sean acreditables, a las inversiones o gastos referentes a períodos preoperativos y a los gastos e inversiones correspondientes a los actos o actividades por los que no se está obligado al pago del impuesto, y
+f).- Las sociedades controladoras que consolidan resultado fiscal, presentarán la siguiente información:
 
-6.- La información anterior dará como resultado el importe total del impuesto del ejercicio a favor o a cargo del contribuyente.
+1.- Respecto a las sociedades controladas:
 
-Este análisis se presentará por cada contribución, indicando su importe, fecha de pago, y mencionando, en su caso, cuales no fueron cubiertas a la fecha del informe.
+A).- Denominación social de cada una.
 
-Si el contribuyente hubiera solicitado y en su caso obtenido autorización para pago en parcialidades, deberá anexar fotocopia de la misma.
+B).- Utilidad o pérdida fiscal individual.
 
-Los anexos señalados en esta fracción deberán presentarse numerados en forma progresiva en el mismo orden en que son mencionados en el artículo 50 anterior.
+C).- Porciento de participación directa o indirecta de la controladora en el capital social de las controladas, durante el ejercicio.
+
+D).- Promedio por día de dicha participación.
+
+E).- Conceptos especiales de consolidación que se suman, especificando en los casos de fusión o escisión.
+
+F).- Conceptos especiales de consolidación que se restan, especificando en los casos de fusión o escisión.
+
+G).- Modificaciones a los conceptos especiales de consolidación por variación en la participación accionaria de la controladora en el capital social de las controladas.
+
+H).- Utilidad o pérdidas de ejercicios anteriores.
+
+I).- En los casos de desincorporación de sociedades deberán señalarse los conceptos especiales de consolidación que se suman y/o restan, así como las pérdidas de ejercicios anteriores de la sociedad que se desincorpora.
+
+2.- Utilidad o pérdida fiscal consolidada y resultado fiscal consolidado.
+
+3.- Impuesto correspondiente al resultado fiscal consolidado.
+
+A).- Pagos provisionales consolidados.
+
+B).- Impuesto acreditable.
+
+C).- Pagado del extranjero.
+
+D).- Pagado con motivo de la desincorporación de entidades.
+
+E).- Retenido a controladoras o controladas.
+
+4.- Pérdidas fiscales de controladas extranjeras y aplicación de las pérdidas fiscales contra utilidad fiscal.
+
+g).- Tratándose de sociedades que se escindan se presentará la siguiente información:
+
+1.- Relación relativa al porcentaje de participación accionaria de cada accionista correspondiente al año anterior al de la fecha de la escisión, así como el número, valor y naturaleza de las acciones que conforman el capital social de la sociedad escindente.
+
+2.- Relación de los accionistas de las sociedades escindidas y de la escindente, en el caso de que esta última subsista, en la que se señale el número, valor y naturaleza de las acciones que conforman el capital social de dichas sociedades con motivo de la escisión.
+
+3.- Estado de posición financiera de la sociedad escindente a la fecha de la escisión.
+
+4.- Relación que contenga la distribución de los activos, pasivos y capital transmitidos con motivo de la escisión.
+
+La información a que se refieren los subincisos 3 y 4 de este inciso, únicamente se presentará en el dictamen siguiente a la fecha de la escisión de sociedades.
+
+h).- Tratándose de sociedades que se fusionen se presentará la siguiente información:
+
+1.- Relación de los accionistas de la sociedad que surja o subsista con motivo de la fusión, indicando su participación accionaria a la fecha en que se realizó la fusión, así como el número, valor nominal y naturaleza de las acciones que conforman el capital social.
+
+2.- Relación al término de cada uno de los tres ejercicios siguientes al de la fusión, de los accionistas de la sociedad que surja o subsista con motivo de la misma, indicando su participación accionaria, así como el número, valor nominal y naturaleza de las acciones que conforman el capital social.
+
+> <small>(ADICIONADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+IV.- Deberá adherirse a los discos magnéticos flexibles una etiqueta con la siguiente información:
+
+a).- Registro federal de contribuyentes y firma del contribuyente o de su representante legal.
+
+b).- Ejercicio que se dictamina.
+
+c).- Número de registro y firma del contador público que emite el dictamen.
+
+d).- Número de serie del disco.
+
+e).- Número secuencial del disco.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 51-A.
 
-(DEROGADO, D.O.F. 15 DE MAYO DE 1990)
+Los contribuyentes que de conformidad con la fracción II del artículo 32-A del Código deban presentar dictamen fiscal simplificado, el mismo contendrá lo siguiente:
+
+I.- Dictamen e informe del contador público registrado, relativo a la situación fiscal del contribuyente.
+
+II.- Estado de ingresos y egresos.
+
+III.- Notas al estado de ingresos y egresos.
+
+IV.- Relación de donativos recibidos en especie y total de los recibidos en efectivo
+
+V.- Total de gastos de administración.
+
+VI.- Relación de los donantes y donativos que representen el 90% de sus ingresos por este concepto.
+
+VII.- Relación de contribuciones federales a cargo del contribuyente o en su carácter de retenedor.
+
+VIII.- Relación de bienes inmuebles.
+
+IX.- Análisis de contribuciones por pagar al cierre del ejercicio.
+
+X.- Relación de donatarias a las que les hayan otorgado donativos, así como de aquéllas de las que se hubieren recibido donativos.
+
+Los documentos a que se refiere este artículo se presentarán en los términos a que se refiere el artículo 49 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+###### ARTICULO 51-B.
+
+La información a que se refiere el artículo 51-A de este Reglamento, deberán reunir los siguientes requisitos:
+
+I.- El texto del dictamen fiscal simplificado, deberá apegarse a alguno de los que haya adoptado la agrupación u organismo profesional de contadores públicos reconocidos por la Dirección General de Profesiones de la Secretaría de Educación Pública, al que esté afiliado el contador público que lo emite.
+
+En el informe relativo al dictamen fiscal simplificado, el contador público registrado deberá verificar:
+
+a).- Que la donataria éste autorizada para recibir donativos deducibles para efectos del impuesto sobre la renta y que se encuentre incluida en la lista de donatarias dada a conocer por la Secretaría, señalando la fecha de publicación en el Diario Oficial de la Federación en que fue incluida.
+
+b).- Que los donativos y sus rendimientos se hayan destinado a los fines propios del objeto social de la donataria, en los términos del artículo 14-C del Reglamento de la Ley del Impuesto sobre la Renta.
+
+c).- Comprobar, en su caso, la existencia de los convenios a que se refiere el último párrafo del artículo 14-B del Reglamento de la Ley del Impuesto sobre la Renta.
+
+II.- El informe del contador público registrado, deberá indicar que el mismo se emite en cumplimiento de lo dispuesto por el artículo 32-A, fracción II del Código Fiscal de la Federación. Dicho informe deberá contener el número de registro que lo autoriza a dictaminar, así como su nombre y firma.
+
+III.- El estado de ingresos y egresos, incluyendo las notas a dicho estado, examinados por el contador público, respecto del cual emite su informe, deberá suscribirse por el representante legal de la donataria, debiendo presentarlo en forma comparativa con el del ejercicio inmediato anterior y expresarse en miles de pesos.
+
+IV.- La relación de donativos recibidos en efectivo y en especie, deberá mostrar el importe total que se haya registrado en la contabilidad de la donataria, señalando, en su caso, la existencia de donativos onerosos o remunerativos.
+
+V.- La relación de gastos de administración, mostrará el análisis por subcuentas en forma comparativa con el ejercicio anterior expresando las cifras en miles de pesos.
+
+VI.- En la relación de los donativos que representen el 90% de los ingresos por este concepto, el importe total que se haya registrado en la contabilidad de la donataria.
+
+VII.- La relación de contribuciones a cargo de la donataria o en su carácter de retenedora, deberá ir suscrita por el representante legal y contener:
+
+a).- Descripción de las bases, tasas, tarifas o cuotas causadas y el entero de contribuciones, detallando las diferencias determinadas, en su caso, en cuanto a cada uno de los conceptos anteriores.
+
+> <small>(F. DE E., D.O.F. 17 DE ABRIL DE 1992)</small>
+
+b).- Se declarará que la relación incluye todas las contribuciones federales a que está obligada que las únicas obligaciones solidarias como retenedora de contribuciones federales son las incluidas; que en el ejercicio surtieron efectos solamente las autorizaciones, subsidios, estímulos o exenciones que se describen o bien, la mención expresa de que no los hubo.
+
+Las contribuciones federales a que se refiere este inciso, son los impuestos y aportaciones de seguridad social que tengan relación directa con la actividad de la donataria.
+
+VIII.- La relación de bienes inmuebles deberá indicar el tipo de bien, su ubicación y el uso que se le da y, en su caso, el valor asentado en la contabilidad, expresado en miles de pesos.
+
+IX.- El análisis de las contribuciones federales por pagar al cierre del ejercicio, se presentará por cada contribución, indicando su importe, fecha de pago y mencionando, en su caso, cuáles no fueron cubiertos a la fecha del informe.
+
+X.- El dictamen fiscal simplificado en cuanto a avisos, sustitución de contadores públicos y plazos de presentación, se sujetará a las disposiciones contenidas en los artículos relativos del Código y este Reglamento, referidos al dictamen de estados financieros para efectos fiscales.
 
 ###### ARTICULO 52.
 
@@ -1157,7 +1303,7 @@ II.- Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del
 
 El comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las que se mencionan en este artículo;
 
-III.- Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna ingerencia(sic) o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad.
+III.- Tenga o haya tenido en el ejercicio fiscal que dictamine, alguna ingerencia (sic) o vinculación económica en los negocios del contribuyente que le impida mantener su independencia e imparcialidad.
 
 IV.- Reciba, por cualquier circunstancia o motivo, participación directa en función de los resultados de su auditoría o emita su dictamen relativo a los estados financieros del contribuyente en circunstancias en las cuales su emolumento dependa del resultado del mismo.
 
@@ -1181,9 +1327,9 @@ Se entenderá que esta manifestación no incluye el examen de la clasificación 
 
 Asimismo manifestará que dentro del alcance de las referidas pruebas selectivas, se cercioró en forma razonable, mediante la utilización de los procedimientos de auditoría aplicables en las circunstancias, que los bienes y servicios adquiridos por el contribuyente fueron recibidos y prestados, respectivamente.
 
-> <small>(F. DE E., D.O.F. 11 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
 
-III.- Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones federales que se causen por ejercicio, así como las cuotas obrero patronales cubiertas o enteradas al Instituto Mexicano del Seguro Social, incluidas en la relación de contribuciones a cargo del contribuyente o en su carácter de retenedor a que se refiere el inciso b) de la fracción VI del artículo 50 de este Reglamento, detallando cualquier diferencia determinada o pago omitido, independientemente de su importancia relativa. Se entenderá para fines de esta manifestación que en el caso de contribuciones que se calculan sobre sueldos y salarios de los empleados y trabajadores del contribuyente, se comprobaron en forma selectiva dentro de los alcances determinados para su examen, conforme a las normas de auditoría.
+III.- Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones federales que se causen por ejercicio, así como las cuotas obrero patronales cubiertas o enteradas al Instituto Mexicano del Seguro Social incluidas en la relación de contribuciones a cargo del contribuyente o en su carácter de retenedor a que se refiere el inciso c de la fracción III del artículo 50 de este Reglamento, detallando cualquier diferencia determinada o pago omitido, independientemente de su importancia relativa. Se entenderá para fines de esta manifestación que en el caso de contribuciones que se calculan sobre sueldos y salarios de los empleados y trabajadores del contribuyente, se comprobaron en forma selectiva dentro de los alcances determinados para su examen, conforme a las normas de auditoría.
 
 IV.- Se manifestará haber revisado en función de su naturaleza y mecánica de aplicación utilizada en su caso en ejercicios anteriores, las partidas que integran los siguientes anexos:
 
@@ -1199,7 +1345,9 @@ V.- Se manifestará haber revisado las declaraciones complementarias presentadas
 
 VI.- Se hará mención expresa que fue revisada en función a su naturaleza y mecánica de aplicación utilizada en su caso en ejercicios anteriores, la determinación y pago de la participación de utilidades a los trabajadores.
 
-VII.- Se declarará haber revisado los saldos de las cuentas que se indican en los anexos a los estados financieros a que se refiere el inciso a), de la fracción VI, del artículo 50 de este Reglamento, conciliando, en su caso, las diferencias con los estados financieros básicos originadas por reclasificaciones para su presentación.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+VII.- Se declarará haber revisado los saldos de las cuentas que se indica en la documentación a que se refiere el inciso b) de la fracción III del artículo 50 de este Reglamento, conciliando, en su caso, las diferencias con los estados financieros básicos originadas por reclasificaciones para su presentación.
 
 Asimismo se manifestará que se revisó la información relativa a los estímulos fiscales y a las resoluciones obtenidas de las autoridades fiscales, haciéndose constar cualquier incumplimiento de las disposiciones fiscales en que haya incurrido el contribuyente tanto en bases y cálculos como en observancia de requisitos para su disfrute.
 
@@ -1213,9 +1361,11 @@ Estas transacciones son, entre otras, la adquisición o enajenación de bienes; 
 
 El contador público deberá señalar su nombre y número de registro que lo autoriza a dictaminar, así como firmar el informe.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 55.
 
-Cuando las autoridades fiscales revisen el dictamen y demás documentos a que se refieren los artículos 52 del Código y 50 de este Reglamento, podrán requerir:
+Cuando las autoridades fiscales revisen el dictamen y demás información a que se refieren los artículos 52 del Código y 50, 51, 51-A y 51-B de este Reglamento, podrán requerir indistintamente:
 
 I.- Al contador público que haya formulado el dictamen, lo siguiente:
 
@@ -1231,7 +1381,9 @@ Para estos efectos, si la información que proporcione el contador público conf
 
 La información, exhibición de documentos y papeles de trabajo a que se refiere esta fracción, se solicitará al contador público por escrito con copia al contribuyente.
 
-II.-. Al contribuyente, la información y documentación a que se refieren los incisos c) y d) de la fracción anterior; cuando no haya sido proporcionada por el contador público; dicho requerimiento se hará por escrito, con copia al contador público.
+> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 1992)</small>
+
+II.- Al contribuyente, la información y documentos a que se refieren los incisos c) y d) de la fracción anterior; dicho requerimiento se hará por escrito, con copia al contador público.
 
 III.- A terceros relacionados con los contribuyentes o responsables solidarios, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen y demás documentos.
 
@@ -1241,39 +1393,51 @@ Lo dispuesto en este artículo es sin perjuicio de lo establecido en el penúlti
 
 Se considerará que se inicia el ejercicio de las facultades de comprobación en relación con los contribuyentes que hayan presentado estados financieros dictaminados, cuando la autoridad fiscal competente lleve a cabo alguno de los actos señalados en las fracciones II y III del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 57.
 
-La Secretaría suspenderá o cancelara el registro otorgado al contador público de acuerdo al último párrafo del artículo 52 del Código, conforme a lo siguiente:
+La Secretaría amonestará al contador público, suspenderá o cancelará su registro, de acuerdo al último párrafo del artículo 52 del Código, conforme a lo siguiente:
 
-I.- La suspensión procederá cuando:
+I.- Se amonestará al contador público cuando:
 
-a).- El contador público acumule tres amonestaciones.
+a).- Se presente incompleta la información a que se refieren los artículos 49, 50, 51, 51-A, 51-B y 54 de este Reglamento y 126 y 172 del Reglamento de la Ley del Impuesto sobre la Renta.
 
-En este caso la suspensión podrá ser hasta por un año.
+b).- La información del dictamen, presentada en disco magnético flexible en dos tantos, no coincida entre un disco y otro.
 
-Se amonestará al contador público cuando:
+c).- No cumpla con lo señalado en el artículo 55, fracción I, incisos a), c) y d) de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
+d).- No cumpla con lo establecido en el último párrafo del artículo 45 de este Reglamento, en cuyo caso la autoridad procederá a amonestarlo por cada trimestre que transcurra sin que cumpla con dicha obligación.
 
-1.- Se presenten incompletos los documentos e informes a que se refieren los artículos 50, 51 y 54 de este Reglamento, y 126 y 172 del Reglamento de la Ley del Impuesto sobre la Renta.
+II.- La suspensión procederá por cualquiera de los siguientes motivos:
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+a).- Formule el dictamen en contravención a lo dispuesto en los artículos 52 del Código, 49, 50, 51, 51-A, 51-B y 54 de este Reglamento y 126 y 172 del Reglamento de la Ley del Impuesto sobre la Renta. En este caso la suspensión será hasta por dos años.
 
-2.- No cumpla con los requerimientos que le formulen las autoridades fiscales competentes en los términos del artículo 55, fracción I de este Reglamento.
+b).- El contador público acumule tres amonestaciones. En este caso la suspensión podrá ser hasta por un año.
 
-b).- No formule el dictamen, debiendo hacerlo. En este caso, la suspensión podrá ser hasta por dos años.
+c).- El contador público no cumpla con lo señalado en el artículo 55 fracción I, inciso b) de este Reglamento. En este caso la suspensión será hasta por un año.
 
-c).- Formule el dictamen en contravención a lo dispuesto en los artículos 52 del Código y demás relativos de este Reglamento. En este caso, la suspensión podrá ser hasta por tres años.
+d).- No formule el dictamen debiendo hacerlo. En este caso la suspensión podrá ser hasta por dos años.
 
-d).- Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal.
+e).- Presente disco magnético flexible sin información. En este caso la suspensión será hasta por dos años.
 
-II.- La cancelación procederá cuando:
+f).- Presente disco magnético flexible, que no integre la información conforme a las reglas de carácter general que para tal efecto emita la Secretaría, en cuanto a paquete utilizado, estructura y denominación de archivos y manejo de índices y subíndices fijos para determinadas cuentas y subcuentas. En este caso la suspensión será hasta por un año.
 
-a).- Hubiere reincidencia en la violación a las disposiciones que rigen la formulación del dictamen y demás documentos para efectos fiscales. Se entiende que hay reincidencia cuando el contador público acumule tres suspensiones.
+g).- Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará el tiempo en el que el contador se encuentre sujeto a dicho proceso.
+
+III.- La cancelación procederá cuando:
+
+a).- Hubiere reincidencia en la violación a las disposiciones que rigen la formulación del dictamen y demás información para efectos fiscales.
+
+Para estos efectos se entiende que hay reincidencia cuando el contador público acumule tres suspensiones.
 
 b).- Hubiera participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
 
-El cómputo de lo dispuesto en las fracciones I, inciso a) y II, inciso a), se hará por cada actuación del contador público independientemente del contribuyente a que se refieran.
+> <small>(F. DE E., D.O.F. 17 DE ABRIL DE 1992)</small>
+
+El cómputo de lo dispuesto en los incisos a) de las fracciones I y II de este artículo, se hará por cada actuación del contador público independientemente del contribuyente a que se refieran.
+
+Lo dispuesto en este artículo también será aplicable a aquellos contadores públicos que emitan dictamen de acuerdo al artículo 32-A fracción II del Código, así como a los que emitan dictamen de acuerdo con el artículo 126 del Reglamento de la Ley del Impuesto sobre la Renta.
 
 ###### ARTICULO 58.
 
@@ -1301,23 +1465,37 @@ Cuando el contribuyente deje de pagar o pague fuera de plazo cualquiera de las p
 
 #### SECCION TERCERA. De la Distribución de Multas por Infracción a las Disposiciones Fiscales
 
-> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 59
 
-BIS.- La constitución y la distribución de los fondos a que se refiere el artículo 70-BIS del Código Fiscal de la Federación, se hará de conformidad con lo siguiente:
+BIS.- La constitución y la distribución de los fondos a que se refiere el artículo 70-BIS del Código, se harán, previa la reducción del 2% a que se refiere la fracción III del artículo 33 del mismo ordenamiento, de conformidad con lo siguiente:
 
-I.- El Fondo de Productividad Directa se formará con el 60% de los ingresos que la Federación obtenga efectivamente, provenientes de multas que hayan quedado firmes, impuestas por infracción a las disposiciones fiscales distintas a las de las Leyes Aduanera y del Registro Federal de Vehículos, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales y hecha excepción de las multas que tengan otro destino especifico.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+I.- El Fondo de Productividad Directa se formará con el 60% de los ingresos que la Federación obtenga efectivamente, provenientes de multas que hayan quedado firmes, impuestas por infracción a las disposiciones fiscales distintas a las de la Ley Aduanera, cuando dicha infracción se conozca con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales y hecha excepción de las multas que tengan otro destino específico.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
 
 Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda y Crédito Público que intervienen directamente, en cada caso, en el ejercicio de las facultades de comprobación, determinación, notificación y ejecución relativas a las multas que forman el citado fondo.
 
-II.- El Fondo de Productividad Indirecta se formará con el 40% restante de las multas a que se refiere la fracción anterior y con el 100% de las demás multas firmes que la Federación perciba efectivamente por infracción a las disposiciones fiscales distintas a las de las Leyes Aduanera y del Registro Federal de Vehículos, hecha excepción de aquéllas que tengan otro destino específico.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+II.- El Fondo de Productividad Indirecta se formará con el 40% restante de las multas a que se refiere la fracción anterior y con el 100% de las demás multas firmes que la Federación perciba efectivamente por infracción a las disposiciones fiscales distintas a las de la Ley Aduanera, hecha excepción de aquéllas que tengan otro destino específico.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
 
 Este fondo se distribuirá entre los servidores públicos de la Secretaría de Hacienda y Crédito Público que intervengan indirectamente respecto de las multas a que se refiere la fracción anterior, así como entre todos aquéllos que lo hagan en relación con las demás multas que constituyen este fondo.
 
+> <small>(ADICIONADA, D.O.F. 21 DE ABRIL DE 1989)</small>
+
 III.- El Fondo Complementario se formará con los remanentes que resulten de las cantidades no distribuidas durante el año, provenientes de los fondos previstos por las fracciones anteriores.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
+
 Este fondo se distribuirá entre los servidores públicos a que se refiere las (sic) fracción anterior, así como entre aquéllos que se encuentren adscritos a las unidades administrativas centrales relacionadas con el ejercicio de las facultades señaladas en dicha fracción.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ABRIL DE 1989)</small>
 
 La Secretaría de Hacienda y Crédito Público, de conformidad con lo dispuesto por este artículo y por las reglas de carácter general que al efecto dicte, determinará los límites máximos, porcentajes y montos de las participaciones, así como las categorías de los servidores públicos de la Secretaría de Hacienda y Crédito Público a que el mismo se refiere.
 
@@ -1349,7 +1527,9 @@ I.- Bienes muebles por el 75% de su valor siempre que estén libres de gravámen
 
 No serán admisibles como garantía los bienes que se encuentren en dominio fiscal o en el de acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
 
-Esta garantía podrá otorgarse entregando contratos de administración celebrados con casas de bolsa que amparen la inversión en certificados de la Tesorería de la Federación o bonos del Gobierno Federal para el pago de la indemnización bancaria, siempre que se designe como beneficiario único a la autoridad a favor de la cual se otorgue la garantía. En estos supuestos se aceptará como garantía el 100% del valor nominal de los certificados o bonos, debiendo reinvertirse una cantidad suficiente para cubrir el interés fiscal, pudiéndose retirar los rendimientos.
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
+Esta garantía podrá otorgarse entregando contratos de administración celebrados con casas de bolsa que amparen la inversión en valores a cargo del Gobierno Federal inscritos en el Registro Nacional de Valores e Intermediarios, siempre que se designe como beneficiario único a la autoridad a favor de la cual se otorgue la garantía. En estos supuestos se aceptará como garantía el 100% del valor nominal de los valores, debiendo reinvertirse una cantidad suficiente para cubrir el interés fiscal, pudiéndose retirar los rendimientos.
 
 II.- Bienes inmuebles por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del registro público de la propiedad en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar, no podrá exceder del 75% del valor.
 
@@ -1359,11 +1539,17 @@ En la hipoteca, el otorgamiento de la garantía se hará en escritura pública q
 
 Para los efectos de la fracción III del artículo 141 del Código, la póliza en que se haga constar la fianza deberá quedar en poder y guarda de la autoridad recaudadora de la Federación o del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales; las autoridades recaudadoras de las entidades federativas concentrarán la póliza ante la autoridad recaudadora de la Federación más cercana.
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 64.
 
-Para los efectos de la fracción IV del artículo 141 del Código, para que un tercero asuma la obligación de garantizar el interés fiscal, deberá estar en alguno de los supuestos a que se refieren las fracciones I y II, inciso a) del artículo 67 de este Reglamento y manifestar su aceptación mediante escrito firmado ante notario público o ante la oficina recaudadora que tenga encomendado el cobro del crédito fiscal; requiriéndose en este último caso la presencia de dos testigos.
+Para los efectos de la fracción IV del artículo 141 del Código, para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
 
-Para formalizar el otorgamiento de la garantía, el jefe de la oficina recaudadora deberá levantar un acta de la que entregará copia a los interesados y hará, en su caso las anotaciones correspondiente en el Registro Público respectivo cuando el obligados solidario acredite su idoneidad y solvencia con bienes inmuebles.
+I.- Manifestar su aceptación, mediante escrito firmado ante notario público o ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, requiriéndose en este caso la presencia de dos testigos.
+
+II.- Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social, y siempre que dicha persona no haya tenido pérdida fiscal para efectos del impuesto sobre la renta en los dos últimos ejercicios de doce meses o que aún teniéndola, ésta no haya excedido de un 10% de su capital social.
+
+III.- Cuando sea una persona física la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de los ingresos declarados en el último ejercicio, sin incluir el 75% de los ingresos declarados como actividades empresariales o del 10% del capital afecto a su actividad empresarial, en su caso.
 
 ###### ARTICULO 65.
 
@@ -1425,9 +1611,11 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 #### SECCION SEGUNDA. De los Honorarios y Gastos de Ejecución
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+
 ###### ARTICULO 72.
 
-Para los efectos del último párrafo del artículo 137 del Código, los honorarios por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará a quien incurrió en el incumplimiento, una cantidad equivalente a una vez el salario mínimo general diario de la zona económica correspondiente al Distrito Federal.
+Para los efectos del último párrafo del artículo 137 del Código, los honorarios por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará a quien incurrió en el incumplimiento la cantidad de $30,000.00.
 
 Tratándose de los honorarios a que se refiere este artículo, la autoridad recaudadora los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
 
@@ -1530,3 +1718,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los contribuyentes personas físicas sujetos al régimen simplificado del impuesto sobre la renta, que dejaron de pagar el impuesto en bases especiales de tributación o en el régimen de menores y que carezcan de documentación comprobatoria del valor de sus construcciones o de otros bienes, para determinar su valor en el estado de posición financiera o, en su caso, en la relación de bienes y deudas que deben acompañar con el aviso para ejercer la opción, podrán considerar, como valor el que el propio contribuyente estime con base en el de mercado, a la fecha en que ejerza la opción, salvo que, tratándose de construcciones, exista el determinado en el aviso de terminación de obra.
+
+D.O.F. 31 DE MARZO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, excepto la adición el último párrafo del artículo 20 que entrará en vigor el 1o. de enero de 1993.
+
+SEGUNDO.- Los contribuyentes que con anterioridad a la entrada en vigor de este Decreto hubieran estado obligados a efectuar los avisos o el sellado de los libros que fueron suprimidos por el presente Decreto, quedarán liberados de cumplir con dicha obligación.
