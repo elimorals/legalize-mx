@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-periodico-oficial-del-estado-7142"
 country: "mx"
 rank: "reglamento"
 publication_date: "1945-12-30"
-last_updated: "1945-12-30"
+last_updated: "2004-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL PERIODICO OFICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL PERIODICO OFICIAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 30 de diciembre de 1945.
 
@@ -188,3 +190,13 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Prof. José Urbán.
 
 Al margen un sello que dice: "Juzgado de lo Civil.- Cuernavaca, Mor.- Primer Distrito Judicial".- Al centro: Edicto: Convócase quienes créanse con derechos hereditarios presentarse deducirlos dentro término legal intestamentaría MARTIN JUAREZ, ex vecino de Ocotepec de este Municipio. Cuernavaca, Mor., diciembre 19 de 1945. El Secretario.- Teófilo Acuáhuitl.- Rúbrica. Al margen un sello que dice: "Juzgado de lo Civil.- Cuernavaca, Mor.- Primer Distrito Judicial".- Al centro: Edicto: Convócase quienes créanse derechos hereditarios intestamentaría CARLOS LAVIN, preséntense deducirlos dentro término legal.- Cuernavaca, Mor., diciembre 12 de 1945. El Secretario.- Teófilo Acuáhuitl.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Para dar cumplimiento a las acciones establecidas en el artículo 48, del presente reglamento, se deberá considerar en el proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 2005, la partida necesaria para estar en posibilidad de destinar los recursos humanos, materiales y financieros indispensables para la digitalización del acervo histórico del Periódico Oficial.
+
+TERCERO. Se abroga el Reglamento del Periódico Oficial de fecha 30 de Diciembre de 1945, publicado en el Periódico número 1167, así como todas las disposiciones administrativas que se opongan al presente Reglamento.
