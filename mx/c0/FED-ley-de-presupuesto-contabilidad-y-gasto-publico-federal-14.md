@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1979-12-31"
+last_updated: "1980-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -309,33 +309,57 @@ Los estados financieros y demás información financiera, presupuestal y contabl
 
 El Departamento del Distrito Federal formulará su cuenta pública anual, la que se someterá al Presidente de la República por conducto de la Secretaría de Programación y Presupuesto para los fines señalados en el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
 ###### Artículo 44.
 
-En las dependencias del Ejecutivo y en el Departamento del Distrito Federal se establecerán órganos de auditoría interna, que cumplirán los programas mínimos que fije la Secretaría de Programación y Presupuesto.
+En las dependencias del Ejecutivo Federal, en el Departamento del Distrito Federal y en las entidades de la administración pública paraestatal se establecerán órganos de auditoría interna, que dependerán del titular respectivo y cumplirán los programas mínimos que fije la Secretaría de Programación y Presupuesto.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto, podrá acordar que no se establezcan dichos órganos, en aquellas entidades paraestatales que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifiquen.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
 ### CAPITULO V. De las Responsabilidades
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 45.
 
-La Secretaría de Programación y Presupuesto, dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, así como las que deriven del incumplimiento de las disposiciones contenidas en esta ley y de las que se hayan expedido con base en ella, y que se descubran con motivo de las visitas o auditorías que practique, de las investigaciones que realice, de la glosa que de su propia contabilidad hagan las entidades o las derivadas de los pliegos preventivos que levanten las autoridades competentes.
+La Secretaría de Programación y Presupuesto dictará las medidas administrativas sobre las responsabilidades que afecten a la Hacienda Pública Federal, a la del Departamento del Distrito Federal y al patrimonio de las entidades de la administración pública paraestatal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella, y que se conozcan a través de:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+I. Visitas, auditorías o investigaciones que realice la propia Secretaría;
+
+II. Pliegos Preventivos que levanten:
+
+a) Las entidades, con motivo de la glosa que de su propia contabilidad hagan;
+
+b) Las Secretarías de Estado y Departamentos Administrativos, en relación con las operaciones de las entidades paraestatales agrupadas en su sector;
+
+c) La Secretaría de Hacienda y Crédito Público y otras autoridades competentes.
+
+III. Pliegos de observaciones que emita la Contaduría Mayor de Hacienda en los términos de su Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 46.
 
-Los funcionarios y demás personal de las entidades a que se refiere el artículo 2o. de esta Ley, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o cualquier entidad que realice gasto público federal, por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de obligaciones derivadas de esta Ley, inherentes a su cargo o relacionados con su función o actuación.
+Los funcionarios y demás personal de las entidades a que se refiere el artículo 2o. de esta Ley, serán responsables de cualquier daño o perjuicio estimable en dinero que sufra la Hacienda Pública Federal, la del Departamento del Distrito Federal o el patrimonio de cualquier entidad de la administración pública paraestatal por actos u omisiones que les sean imputables, o bien por incumplimiento o inobservancia de obligaciones derivadas de esta Ley, inherentes a su cargo o relacionadas con su función o actuación.
 
-Son solidariamente responsables por los funcionarios y demás personal a que se refiere el párrafo anterior, los particulares en todos los casos en que hayan participado deliberadamente en la comisión de los actos que originen una responsabilidad.
+Las responsabilidades se constituirán en primer término a las personas que directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los funcionarios y demás personal que, por la índole de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
 
-Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que ocasionen a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o a las entidades que realicen gasto público federal, las que se fijarán por la Secretaría de Programación y Presupuesto en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que en su caso la Tesorería de la Federación o la Tesorería del Distrito Federal, las hagan efectivas a través del procedimiento administrativo de ejecución.
+Serán responsables solidarios con los funcionarios y demás personal de las entidades, los particulares en los casos en que hayan participado y originen una responsabilidad.
+
+Los responsables garantizarán a través de embargo precautorio y en forma individual el importe de los pliegos preventivos a que se refiere el artículo anterior, en tanto la Secretaría de Programación y Presupuesto determina la responsabilidad.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+###### Artículo 47.
+
+Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios que ocasionen a la Hacienda Pública Federal y a la del Departamento del Distrito Federal, o a las entidades de la administración pública paraestatal, las que tendrán el carácter de créditos fiscales y se fijarán por la Secretaría de Programación y Presupuesto en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que, en su caso, la Tesorería de la Federación o la Tesorería del Departamento del Distrito Federal, las hagan efectivas a través del procedimiento de ejecución respectivo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-###### Artículo 47.
+###### Artículo 48.
 
 La Secretaría de Programación y Presupuesto podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan, no revistan un carácter delictuoso ni se deban a culpa grave o descuido notorio del responsable y que los daños causados no excedan de $5,000.00.
 
@@ -343,7 +367,7 @@ La Secretaría de Programación y Presupuesto podrá cancelar los créditos deri
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-###### Artículo 48.
+###### Artículo 49.
 
 La Secretaría de Programación y Presupuesto podrá imponer las siguientes correcciones disciplinarias a los funcionarios y empleados de las entidades a que se refiere el artículo 2o. de esta ley, que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades:
 
@@ -353,11 +377,15 @@ II.- Suspensión temporal de funciones.
 
 La multa a que se refiere la fracción I se aplicará, en su caso, a los particulares que en forma dolosa participen en los actos que originen la responsabilidad.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+
+Iguales medidas impondrá la propia Secretaría a sus funcionarios y empleados cuando no apliquen las disposiciones a que se refiere este Capítulo o las reglamentarias que se deriven del mismo.
+
 Las correcciones disciplinarias señaladas, se aplicarán independientemente de que se haga efectiva la responsabilidad en que hubiere incurrido.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-###### Artículo 49.
+###### Artículo 50.
 
 Las responsabilidades a que se refiere esta ley se constituirán y exigirán administrativamente, con independencia de las sanciones de carácter penal que en su caso lleguen a determinarse por la autoridad judicial.
 
@@ -408,3 +436,9 @@ D.O.F. 31 DE DICIEMBRE DE 1979.
 PRIMERO.- Este Decreto entrará en vigor el día 1o. de enero de 1980.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
+
+D.O.F. 30 DE DICIEMBRE DE 1980.
+
+PRIMERO.- Este Decreto entrará en vigor el 1o. de enero de 1981.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
