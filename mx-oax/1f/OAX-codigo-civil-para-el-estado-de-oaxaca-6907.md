@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1945-12-17"
+last_updated: "1950-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1950.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -11127,7 +11127,7 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 ## TITULO QUINTO. Del mutuo
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ###### Artículo 2259.
 
@@ -11175,7 +11175,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO II. De los derechos y obligaciones del arrendador
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 2268.
 
@@ -11233,9 +11233,11 @@ Se prohíbe a los magistrados, a los jueces y a cualesquiera otros empleados pú
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 2281.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+Los contratos de arrendamiento deben otorgarse por escrito, y los de fincas urbanas se registrarán en los términos de la Ley Reglamentaria.
 
 ###### Artículo 2282.
 
@@ -11451,9 +11453,11 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2324.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 2327.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+La renta debe pagarse en los plazos convenidos; y, a falta de convenio, por meses vencidos.
 
 ###### Artículo 2328.
 
@@ -11641,11 +11645,13 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2359 y 2360.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1950)</small>
+
 ###### Artículo 2366.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior.
+Vencido al (sic) contrato de arrendamiento, tendrá derecho el arrendatario, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue el contrato hasta por un año.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que justifiquen su necesidad de habitar la casa o de cultivar la finca cuyo arrendamiento ha vencido.
 
 ###### Artículo 2367.
 
@@ -14616,3 +14622,7 @@ El Secretario General del Despacho, Lic. RAYMUNDO MANZANO TROVAMALA.
 P.O. 17 DE DICIEMBRE DE 1945.
 
 Unico.- El presente decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial.
+
+P.O. 14 DE JULIO DE 1950.
+
+Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
