@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1930-08-13"
+last_updated: "1931-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1931.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -333,15 +333,11 @@ El día de la instalación, y antes del acto, los Diputados otorgarán la protes
 
 Para que el Congreso pueda instalarse y ejercer sus funciones, se necesita, por lo menos, la presencia de las dos terceras partes del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley, y compeler, bajo las penas que ella designe, a efecto de que concurran, a los ausentes cuya elección se hubiere declarado legal por las respectivas juntas electorales.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1927)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1931)</small>
 
 ###### Artículo 37.
 
-Cada Legislatura tendrá cinco períodos ordinarios de sesiones. El primero comenzará el 1° de marzo y terminará el 31 de mayo; el segundo, tercero y cuarto, principiarán el 1º de diciembre y concluirán el 31 de mayo del año siguiente; el último comenzará el 1° de diciembre y terminará el último día de febrero.
-
-Los períodos ordinarios podrán prorrogarse por el tiempo necesario para tratar los asuntos pendientes, cuando éstos así lo requieran, o clausurarse antes de las fechas indicadas, en caso de no haber asuntos importantes que tratar.
-
-Si por alguna circunstancia imprevista no pudieren abrirse los períodos de sesiones en los días señalados; tendrán verificativo estos actos en la fecha que acuerden los Diputados.
+Habrá en cada año dos períodos de sesiones ordinarias. El primero comenzará el día 1° de marzo y terminará el 31 de mayo. El segundo principiará el día 1° de septiembre y terminará el 30 de noviembre. Ambos períodos podrán prorrogarse hasta por treinta días cuando así lo requiera la importancia de los asuntos pendientes.
 
 ### CAPITULO II.
 
@@ -691,9 +687,9 @@ XV. Nombrar y remover al Secretario General del Gobierno, al Procurador General 
 
 XVI. Conceder o negar licencias a los funcionarios y empleados de su dependencia, con goce de sueldo las que se soliciten con causa justificada, y por término que no pase de dos meses.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 1926)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1931)</small>
 
-XVII. Salir del territorio del Estado, con simple aviso al Congreso por un término no mayor de diez días, en la inteligencia, que durante el año, solamente puede hacer uso de esa facultad; por cuarenta días, quedando encargado del Despacho el Secretario General.
+XVII. Salir hasta por 15 días del territorio del Estado, las veces que el arreglo de asuntos oficiales así lo requieran, dando aviso al Congreso y quedando encargado del Despacho, el Secretario General.
 
 ###### Artículo 66.
 
@@ -1116,3 +1112,13 @@ Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publica
 P.O. 13 DE AGOSTO DE 1930.
 
 Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 2 DE SEPTIEMBRE DE 1931.
+
+###### Art. 1°
+
+Se derogan todas las disposiciones anteriores que se opongan a este Decreto.
+
+###### Art. 2°
+
+Este Decreto, comenzará a surtir sus efectos, a partir del día de hoy.
