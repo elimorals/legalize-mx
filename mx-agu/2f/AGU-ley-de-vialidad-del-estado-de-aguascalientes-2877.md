@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2004-02-12"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -115,7 +115,7 @@ El Gobernador y los Ayuntamientos del Estado, proveerán en la esfera de su comp
 
 Son autoridades de vialidad:
 
-I.- El Gobernador Constitucional del Estado.
+I.- El Gobernador Constitucional del Estad.
 
 II.- El Secretario General de Gobierno.
 
@@ -653,9 +653,9 @@ VI.- Cuando así lo ordene la autoridad judicial.
 
 La validez de la licencia se suspenderá de uno a seis meses, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-I. Cuando el titular de la misma sea sancionado por cometer una infracción a la presente Ley, conduciendo en estado de ebriedad o bajo los efectos de algún psicotrópico o estupefaciente;
+I. Cuando el titular de la misma sea sancionado por segunda vez en el año, por conducir en estado de ebriedad o cometer alguna infracción diversa a la presente Ley conduciendo en dicho estado;
 
 II.- Si acumula tres infracciones graves previstas en la presente Ley en el transcurso de un año.
 
@@ -675,7 +675,9 @@ VI.- En los demás casos que establezca la presente Ley.
 
 Las licencias se cancelarán en los siguientes casos:
 
-I.- Cuando el titular sea sancionado por segunda vez en un año, por cometer alguna infracción a la presente Ley, por conducir en estado de ebriedad y sea legalmente comprobado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+I.- Cuando el titular sea sancionado por segunda vez en un año, por conducir en estado de ebriedad o cometer alguna infracción diversa a la presente Ley, conduciendo en ese estado.
 
 II.- Cuando el titular cometa una infracción a la presente Ley, bajo la influencia legalmente comprobada de estupefacientes, psicotrópicos u otras substancias tóxicas.
 
@@ -2039,6 +2041,22 @@ IV.- En caso de accidente en que se causen lesiones, homicidio o daños en propi
 
 En los supuestos establecidos en el presente artículo, los agentes de vialidad también se encontrarán sujetos a disposiciones que para el efecto se establecen en la Legislación Penal del Estado de Aguascalientes.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 145 Bis.
+
+Los agentes podrán impedir que alguna persona aborde su vehículo para circular en él, cuando se determine que presumiblemente se encuentra en estado de ebriedad y sus condiciones no son óptimas para conducir con responsabilidad y seguridad su vehículo por la vía pública.
+
+En el caso de que el vehículo ya se encuentre en circulación y sea detenido por el agente en virtud de un operativo, luego de la revisión del conductor si se detecta que éste se encuentra presumiblemente en estado de ebriedad, se impedirá que el vehículo continúe circulando y el conductor sea remitido de manera inmediata ante la autoridad de salud correspondiente para que se le practique examen de alcoholemia.
+
+Para determinar si la persona que pretenda conducir o conductor en el caso del segundo párrafo del presente artículo, se encuentra en probable estado de ebriedad, se procederá a examinarla a través de la prueba de alcohol en aire espirado, que consistirá en solicitar a la persona que realice una exhalación profunda en una boquilla de plástico esterilizada que estará conectada al "Alcoholímetro".
+
+El "Alcoholímetro" es un instrumento de medición que permitirá determinar cuantitativa si la persona se encuentra bajo el influjo de bebidas alcohólicas y el grado de toxicidad.
+
+Se considerará que una persona se encuentra probablemente en estado de ebriedad, si el resultado arrojado por el alcoholímetro es mayor de 0.4 miligramos por litro de alcohol en aire espirado
+
+Los operativos que realice la autoridad deberán garantizar condiciones de estricta higiene, seguridad y control en la utilización del alcoholímetro; asimismo, garantizar la transparencia, legalidad, imparcialidad y respeto de las garantías y derechos fundamentales de los conductores, los operativos deberán integrarse con personal interdisciplinario, de las áreas de seguridad pública y tránsito, personal médico, agentes del sexo masculino y femenino y personal derechos humanos.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 146.
@@ -2095,9 +2113,15 @@ VII.- Cuando no cumpla con los requisitos de seguridad previstos por esta Ley.
 
 VIII.- Cuando el vehículo tenga defecto en su sistema de frenado.
 
-IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y
+IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y (sic)
 
-X.- En los demás casos que dispongan las Leyes.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+X.- Cuando el conductor se encuentre en estado de ebriedad, previa valoración a través del alcoholímetro y ratificación por el correspondiente examen de alcoholemia; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+XI.- En los demás casos que dispongan las Leyes.
 
 Los agentes deberán tomar las medidas necesarias a fin de evitar que se produzca daños a vehículos.
 
@@ -2145,6 +2169,10 @@ Los agentes únicamente podrán detener la marcha de un vehículo, cuando su con
 
 Cuando se implementen campañas especiales, previo anuncio y publicidad de éstas, los agentes podrán detener la marcha de un vehículo, para revisar la documentación o efectuar la inspección del mismo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+Los municipios implementaran campañas permanentes antialcohólicas a través de operativos en las salidas de los establecimientos en donde se consuman bebidas alcohólicas, o en lugares estratégicos previamente determinados, a efecto de verificar el estado físico de los conductores o personas que patenten conducir, con la utilización del alcoholímetro, en los términos del artículo 145 Bis.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO XI. De las Sanciones
@@ -2175,15 +2203,17 @@ III.- Solidariamente, los propietarios de negociaciones o establecimientos; y
 
 IV.- Los titulares de autorizaciones para operar las escuelas de manejo.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 157.
 
-Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida, con el pago de una multa, de uno a diez días de salario mínimo general vigente en el Estado.
+Quien conduzca en estado de ebriedad o bajo el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, será sancionado con arresto administrativo inconmutable hasta por treinta y seis horas, independientemente de la multa a que se haga merecedor por las demás infracciones que se cometan.
 
-Tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
+Las demás infracciones a la presente Ley, serán sancionadas de acuerdo con la falta cometida, con multa de uno a veinte días de salario mínimo general vigente en el Estado.
 
-La determinación del monto de la multa que corresponda a cada tipo de infracción cometida, se establecerá en las Leyes de Ingresos de cada uno de los municipios o del Estado, en su caso, atendiendo al tipo de vehículo y a la clasificación de las infracciones establecidas en el artículo siguiente.
+Para la imposición de la multa, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el artículo 21 de la Constitución General de la República.
+
+La determinación del monto de la multa que corresponda a cada tipo de infracción cometida, se establecerá en las leyes de ingresos de cada uno de los municipios o del Estado, en su caso, atendiendo al tipo de vehículo y a la clasificación de las infracciones establecidas en el artículo siguiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2529,17 +2559,15 @@ d) Vehículos de transporte de carga:
 
 7. Efectuar fuera de los horarios señalados, maniobras de carga y descarga en vías primarias.
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
 IV.- MUY GRAVE.
 
 a) Todo tipo de vehículo:
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+1. Conducir en estado de ebriedad;
 
-1. Conducir cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2004)</small>
-
-2. Cometer una infracción a la presente ley conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
+2. Cometer una infracción a la presente Ley o causar un accidente, conduciendo cualquier tipo de vehículo en estado de ebriedad, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas.
 
 ###### ARTICULO 158.
 
@@ -2728,3 +2756,15 @@ El Ejecutivo del Estado expedirá el Reglamento para las Escuelas de Manejo a qu
 P.O. 12 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
