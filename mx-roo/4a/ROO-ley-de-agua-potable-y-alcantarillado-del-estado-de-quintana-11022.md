@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-agua-potable-y-alcantarillado-del-estado-de-quintana-110
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-06"
-last_updated: "1992-12-31"
+last_updated: "1996-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 1981.
 
@@ -125,9 +125,11 @@ Los usuarios de los servicios de agua potable y alcantarillado a que se refiere 
 
 Los servicios de agua potable y alcantarillado no podrán ser objeto de exenciones de ninguna clase, tanto en favor de usuarios particulares como de los Gobiernos y Dependencias o Entidades Federales, Estatales o Municipales, Instituciones educativas y culturales o de asistencia pública o privada.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 13.
 
-Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado, tendrán el carácter de créditos fiscales, para cuyo cobro, las Autoridades Fiscales Estatales o Municipales podrán hacer uso de la facultad económico-coactiva.
+Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado y las multas, tendrán el carácter de créditos fiscales, para cuyo cobro, la Comisión hará uso de la facultad económico-coactiva, por conducto de la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado.
 
 ###### ARTICULO 14.
 
@@ -195,11 +197,17 @@ IV.- Formular y mantener actualizado el Padrón de Usuarios de los servicios a s
 
 V.- Cobrar de acuerdo a las tarifas aprobadas los derechos correspondientes a la prestación del servicio de agua y alcantarillado;
 
-VI.- Remitir a la autoridad fiscal correspondiente, las cuotas de los usuarios morosos a fin de que sé lleve a cabo su cobro mediante el procedimiento económico coactivo;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
+
+VI.- Realizar los cobros de las cuotas de los usuarios morosos y las multas impuestas por infracciones a la presente Ley, mediante el procedimiento administrativo de ejecución;
+
+Antes de iniciar el procedimiento administrativo de ejecución y se apliquen las medidas establecidas por esta Ley, la Dirección General del organismo considerará las posibilidades de pago de los usuarios de tomas domésticas y de unidades habitacionales, que tengan adeudos hasta de doce mensualidades, para celebrar convenios de pago, en los términos que señale el Reglamento respectivo;
 
 VII.- Realizar las gestiones necesarias con el fin de obtener créditos y aportaciones económicas oficiales o particulares, promoviendo la constitución de fondos para el ejercicio de programas y cumplimiento de sus objetivos;
 
-VIII.- Formular anualmente los estudios socio-económicos necesarios para el establecimiento de las tarifas conforme a las cuales deberán cobrarse los servicios a su cargo, sometiéndolos a la revisión y en su caso, aprobación de la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
+
+VIII.- Formular anualmente los estudios socioeconómicos para el establecimiento de las tarifas conforme a las cuales deberán cobrarse los servicios a su cargo;
 
 IX.- Solicitar de las autoridades competentes el trámite y decreto de expropiación, ocupación temporal o permanente, ocupación parcial o total, imposición de servidumbres administrativas, o limitación de los derechos de dominio de los bienes de propiedad privada, ejidales o comunales, cuando se requiera de estas medidas para el cumplimiento de su objeto;
 
@@ -245,17 +253,17 @@ II.- Los subsidios, donaciones y aportaciones materiales, en valores o en efecti
 
 III.- Los remanentes, frutos, utilidades y rentas que obtenga de su propio patrimonio, así como los intereses que se produzca en su favor como rendimientos de fondos disponibles e inversiones;
 
-IV.- Las cuotas o tarifas que se cobren a los usuarios de los sistemas, por los servicios de agua potable y alcantarillado, así fuere por el procedimiento económico-coactivo;
+IV.- Las cuotas o tarifas que se cobren a los usuarios de los sistemas, por los servicios de agua potable y alcantarillado, así fuere por el procedimiento economico-coactivo;
 
 V.- Las aportaciones que le corresponda cubrir a los Ayuntamientos en relación con la construcción de obras de agua potable y alcantarillado en sus propios municipios, de acuerdo con los convenios que sobre el particular celebren con el Ejecutivo Estado;
 
 VI.- Las aportaciones que le corresponda cubrir a los núcleos de población que soliciten obras de agua potable o alcantarillado, de acuerdo con los convenios que sobre el particular celebren con la Comisión;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VII.- La capitalización de bienes y obras realizadas o adquiridas por créditos o contratos celebrados con personas físicas o morales, privadas, oficiales o sociales; o por el finiquito o término de concesiones;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VIII.- Los demás bienes inmuebles que adquiera por cualquier medio legal.
 
@@ -271,9 +279,9 @@ Cuando el Gobierno Federal otorgue apoyo económico a la Comisión, esta cuidar�
 
 La Comisión de Agua Potable y Alcantarillado del Estado, para el debido cumplimiento de sus fines y objetivos, ejercerá sus funciones y facultades a través de los siguientes órganos de Gobierno:
 
-I.- Consejo Directivo;
+I.- Consejo Directivo.
 
-II.- Dirección General;
+II.- Dirección General.
 
 III.- Organismos Operadores.
 
@@ -307,7 +315,9 @@ Son facultades del Consejo Directivo como Organo Superior de Gobierno:
 
 I.- Formular y aprobar, con base en la presente Ley, los Reglamentos y la Normatividad general que regirán las funciones de la Comisión de Agua Potable y Alcantarillado del estado, de sus Organismos Operadores y demás órganos que la integren, incluyendo las que correspondan al Consejo Directivo, a las Juntas Técnicas de los Organismos Operadores y a cada uno de sus Organos Auxiliares;
 
-II.- Determinar anualmente con base en los estudios socioeconómicos que presenten los organismos operadores, las propuestas que hagan los vocales del consejo y tomando en consideración los requerimientos que permitan la autosuficiencia financiera y administrativa de la Comisión, las tarifas que deberán pagar los usuarios de los servicios públicos que regula la presente Ley, y someterlos, por los conductos legales apropiados, a la consideración y aprobación de la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
+
+II.- Determinar anualmente, con base en los estudios socioeconómicos que presenten los organismos operadores, las propuestas que hagan los vocales del Consejo y tomando en consideración los requerimientos que permitan la autosuficiencia financiera y administrativa de la Comisión, las tarifas que deberán pagar los usuarios de los servicios públicos que regulan la presente Ley;
 
 III.- Celebrar con las autoridades competentes los convenios necesarios para el cumplimiento de sus funciones y especialmente el relativo al cobro de las cuotas o tarifas en el procedimiento de ejecución con las autoridades de Hacienda del Estado o de los Municipios;
 
@@ -333,7 +343,7 @@ IX.- Designar a los Gerentes de los Organismos Operadores, así como ordenar su 
 
 X.- Estudiar, programar y en su caso autorizar los presupuestos de ingresos y de egresos de la Comisión y de los Organismos Operadores; así como los programas de construcción de nuevos sistemas o ampliación de los existentes de agua potable, alcantarillado, drenaje, tratamiento y reuso de aguas residuales y manejo de lodos;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XI.- Proponer, en congruencia con los programas sectoriales Federación- Estado, las políticas generales en materia de agua para el Estado, y definir las prioridades a las que deberá sujetarse la Comisión en esta misma materia;
 
@@ -357,7 +367,7 @@ XV.- Aprobar los lineamientos generales para la suscripción de los convenios y 
 
 XVI.- Analizar y aprobar, en su caso, con la sanción de la contraloría de Gobierno, el informe anual que rinda el Director General de la Comisión; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XVII.- Las demás que le sean conferidas por las Leyes, Decretos, Convenios y Acuerdos que incidan en la materia.
 
@@ -401,7 +411,7 @@ III.- Las demás que les señale esta Ley y sus disposiciones reglamentarias.
 
 ###### ARTICULO 30.
 
-El consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representantes de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará a formar parte de él a representantes de las instancias Federal, Estatal y Municipal que se consideren convenientes. Será presidido por el Secretario de Obras Públicas y Desarrollo Urbano, asistido por un Secretario que será el Director General de la Comisión.
+El consejo Técnico Consultivo, como órgano de apoyo al Consejo Directivo, se integrará con representantes de los usuarios de los sectores social y privado que determine el Gobernador del Estado; asimismo se invitará a formar parte de él a representantes de las instancias Federal, Estatal y Municipal que consideren convenientes. Será presidido por el Secretario de Obras Públicas y Desarrollo Urbano, asistido por un Secretario que será el Director General de la Comisión.
 
 El Consejo funcionará en los términos del Reglamento que a efecto expida el Consejo Directivo.
 
@@ -427,7 +437,7 @@ VI.- Recomendar que la prestación de los servicios públicos de agua potable y 
 
 VII.- Recomendar la ampliación de las redes de agua potable y alcantarillado en las poblaciones en donde existan, pero sean insuficientes;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VIII.- Opinar sobre los criterior (sic) que las autoridades competentes incluyan en las normas a que deban sujetar las descargas de aguas residuales;
 
@@ -435,7 +445,7 @@ VIII.- Opinar sobre los criterior (sic) que las autoridades competentes incluyan
 
 IX.- Proponer al Consejo Directivo, con base en los estudios respectivos, las tarifas, cuotas o contraprestaciones que habrán de aplicarse por los servicios públicos de su competencia, y aquéllas que correspondan cuando el servicio se preste a través de terceros; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 X.- Las demás que le confieran las disposiciones legales aplicables y que sean necesarias para el cumplimiento de su objeto.
 
@@ -447,83 +457,137 @@ El Consejo Técnico Consultivo sesionará en forma ordinaria dos veces al año y
 
 Por cada titular habrá un suplente y sus funciones, atribuciones así como sus actuaciones, se canalizarán en la forma y términos que establezca su Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 33.
 
 El Director General tendrá la representación de la Comisión de Agua Potable y Alcantarillado del Estado, y contará con las siguientes atribuciones:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 I.- Ejecutar los acuerdos y decisiones del Consejo Directo, así como los que deriven de convenios y contratos celebrados por la Comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 II.- Representar al Consejo en los asuntos relacionados con la operación de los Organismos Operadores y con el personal de los mismos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 III.- Vigilar el funcionamiento de los Organismos Operadores, así como la aplicación estricta de sus respectivos presupuestos de ingresos y egresos, proveyendo lo necesario para su correcto ejercicio;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 IV.- Vigilar que los Organismos Operadores cumplan con las Leyes y Reglamentos Federales y Estatales, así como con los ordenamientos Municipales aplicables en la materia;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 V.- Llevar conjuntamente con los funcionarios que se precisen en el Reglamento Interior, la firma de las cuentas bancarias que se utilicen para el manejo de los fondos y valores al cuidado de la Comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VI.- Seleccionar, contratar y remover al personal de la Comisión, señalándole sus ocupaciones y obligaciones, y establecer las políticas, normas y lineamientos para la contratación o remoción en los Organismos Operadores;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 VII.- Proponer al Consejo Directivo las medidas adecuadas para el mejor funcionamiento de la Comisión y de los Organismos Operadores, así como sus programas de trabajo y presupuestos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VIII.- Rendir informes al Consejo Directivo de las Actividades que hubiese realizado en relación con su cargo, y de la situación que guarden la Comisión y sus Organismos Operadores;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 IX.- Intervenir en las negociaciones que se realicen para la obtención de créditos, financiamientos, coinversiones públicas o privadas y concesiones a favor de la Comisión, tramitando ante el Consejo Directivo su aprobación, así como el aval del Gobierno Estatal cuando se requiera;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 X.- Supervisar el ejercicio de los programas y presupuestos de los Organismos Operadores, evaluando y efectuando auditorías cuando se estime necesario;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XI.- Realizar los actos de dominio que en relación con los bienes de la Comisión, le encomiende y autorice el Consejo Directivo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XII.- Elaborar y proponer al Consejo Directivo los Reglamentos e instructivos de funciones, atribucions (sic) y labores de sus oficinas y de la organización en general;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XIII.- Vigilar que se mantenga actualizado el patrón de usuarios de los servicios que presten los Sistemas de Agua Potable y Alcantarillado de la Entidad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XIV.- Representar a la Comisión con todas las facultades generales y especiales establecidas en el Código Civil del estado, con la única salvedad de las restricciones que señala la presente Ley en materia laboral y de amparo; así como formular denuncias y querellas, otorgar perdón, celebrar convenios, sustituir o delegar poderes, absolver y articular posiciones por parte de la Comisión;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XV.- Formular y mantener actualizado el inventario estatal de los bienes y recursos que integran los sistemas de agua potable, agua desalinizada, drenaje y alcantarillado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XVI.- Asesorar Técnicamente a los Organismos Operadores, así como a las personas físicas o morales que celebren convenios privados o concesiones para operar alguno de los servicios que la Comisión preste;
 
-XVII.-.... (SIC)
+> <small>N. DE E. TODA VEZ QUE EL CONTENIDO DEL ARTICULO 32 FUE TRASLADADO AL 33 EN LA PRESENTE REFORMA, SE CONSIDERA QUE ESTA FRACCION CONSERVA SU TEXTO ORIGINAL, P.O. 31 DE DICIEMBRE DE 1992.</small>
+
+XVII.- Vigilar que los Organismos Operadores practiquen el control de calidad del agua, en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XVIII.- Autorizar los estados financieros de los Sistemas Operadores;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XIX.- Estaqblecer (sic) programas de capitación y adiestramiento para el personal de la Comisión, y establecer las normas y lineamientos de los que se prestarán en los Organismos Operadores;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XX.- Coadyuvar con la Secretaría de Salud y demás autoridades competentes, en la medición y control de las condiciones y la calidad del agua potable que se suministre en el Estado;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XXI.- Operar, conservar y desarrollar la infraestructura hidráulica, así como administrar los recursos que le asignen el Estado, los Municipios, la Federación o cualquier otra Dependencia o Entidad Pública o Privada, para el cumplimiento del objeto de la Comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XXII.- Celebrar los convenios y contratos necesarios para el cumplimiento de los objetivos de la comisión;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 XXIII.- Regular y racionalizar el suministro de agua a los usuarios, cuando por causas de fuerza mayor sea insuficiente el abastecimiento; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XXIV.- Las demás que le confieran las disposiciones legales aplicables y las que sea (sic) necesarias para el cumplimiento de la presente Ley y sus Reglamentos;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 El Reglamento Interno establecerá en quienes serán delegadas las anteriores facultades, pero en todo caso, no serán delegables las consignadas en las fracciones de la I a la XII, XIV, VIII y las establecidas en el Reglamento Interno que así se determine.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 34.
 
-Los Organismos Operadores, tendrán en otras (sic) las siguientes funciones:
+Los Organismos Operadores, tendrán entre otras las siguientes funciones:
 
-I.- Prestar los servicios de abastecimiento de agua potable y alcantarillado a los usuarios de las poblaciones en que operen;
+I.- Prestar los servicios de abastecimiento de agua potable y alcantarillado a los usuarios de las poblaciones en que operen.
 
-II.- Autorizar conexiones a la red de alcantarillado, la instalación de tomas de agua potable y las derivaciones excepcionales señaladas en esta Ley;
+II.- Autorizar conexiones a la red de alcantarillado, la instalación de tomas de agua potable y las derivaciones excepcionales señaladas en esta Ley.
 
-Siempre que las tomas de agua potable excedan de 12.5 milímetros de diámetro se requerirá acuerdo previo de la Dirección General;
+Siempre que las tomas de agua potable excedan de 12.5 milímetros de diámetro se requerirá acuerdo previo de la Dirección General.
 
-III.- Elaborar anualmente sus respectivos proyectos de presupuestos de ingresos y egresos, así como sus programas de trabajo, y someter unos y otros a la consideración y aprobación de la Dirección General;
+III.- Elaborar anualmente sus respectivos proyectos de presupuestos de ingresos y egresos, así como sus programas de trabajo, y someter unos y otros a la consideración y aprobación de la Dirección General.
 
-IV.- Recaudar las cuotas que deben cubrirse por los servicios que preste el organismo y hacer su concentración física y contable;
+IV.- Recaudar las cuotas que deben cubrirse por los servicios que preste el organismo y hacer su concentración física y contable.
 
-V.- Manejar los fondos del organismo operador de acuerdo con los presupuestos, normas y procedimientos dictados para el efecto;
+V.- Manejar los fondos del organismo operador de acuerdo con los presupuestos, normas y procedimientos dictados para el efecto.
 
-VI.- Turnar para su cobro a las Autoridades Fiscales las liquidaciones de los adeudos de los usuarios que no se hubiesen pagado oportunamente;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1996)</small>
 
-VII.- Ordenar las visitas, inspecciones y verificaciones necesarias en relación con los servicios;
+VI.- Turnar a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado, el cobro de los adeudos de los usuarios que no hubiesen pagado oportunamente.
 
-VIII.- Consignar ante el Director General, los casos de infracciones cometidas por los usuarios, para efecto de que se apliquen las sanciones que correspondan, así como la comisión de hechos delictuosos, para su respectiva denuncia al Ministerio Público;
+VII.- Ordenar las visitas, inspecciones y verificaciones necesarias en relación con los servicios.
+
+VIII.- Consignar ante el Director General, los casos de infracciones cometidas por los usuarios, para efecto de que se apliquen las sanciones que correspondan, así como la comisión de hechos delictuosos, para su respectiva denuncia al Ministerio Público.
 
 IX.- Informar al Director General, las necesidades de reparaciones de equipo, conservación y rehabilitación de los sistemas, así como de ampliaciones y sus respectivos presupuestos de obras para su estudio y aprobación.
 
@@ -663,7 +727,7 @@ Si resultare inconveniente la instalación en el lugar antes indicado, a juicio 
 
 La instalación de ramales desde la tubería de distribución hasta la llave de retención, se hará por el personal del Organismo Operador. Su costo será a cargo de los propietarios o poseedores de los predios, giros o establecimientos; pero una vez hecha la instalación, pasará a ser propiedad de la Comisión de Agua Potable y Alcantarillado.
 
-El costo de la instalación lo cubrirá el usuario previo requerimiento
+El costo de la instalación lo cubrirá el usuario previo requerimiento.
 
 ###### ARTICULO 58.
 
@@ -787,9 +851,15 @@ Cuando no pueda verificarse el consumo de agua por desarreglo en los medidores c
 
 En el caso de edificios u otras construcciones sujetos al régimen de propiedad en condominio, los propietarios de cada piso, departamento, vivienda o local están obligados a pagar las tarifas de acuerdo con las lecturas que registre el aparato medidor que se instale en cada uno, independientemente de la cuota que proporcionalmente les corresponda por el consumo de agua que se haga para el servicio común del condominio. De este último pago responderán solidariamente todos los propietarios, y por su falta de pago podrán embargarse la totalidad del inmueble. Mientras no se instalen los medidores, las cuotas se determinarán en cantidad fija que señalarán las tarifas respectivas y su pago estará a cargo de la administración del edificio o construcción en condominio en tiempo compartido.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 81.
 
-En caso de mora por parte de los usuarios, en el pago de dos o más meses de la cuota o tarifa establecida por los servicios de agua potable, podrá limitárseles el suministro a la cantidad de agua equivalente a la cuota mínimo establecida la tarifa respectiva, sin perjuicio de que la comisión encomiende el cobro de los adeudos a las autoridades fiscales.
+En caso de mora por parte de los usuarios, en el pago de dos o más meses de la cuota o tarifa establecida por los servicios de agua potable procederá la suspensión de dichos servicios, sin perjuicio de que la Comisión encomiende el cobro de los adeudos a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Dirección General de la Comisión de Agua Potable y Alcantarillado.
+
+En relación a lo dispuesto por la Ley General de Salud y la Ley Estatal de Salud, quedan exceptuados de la suspensión del servicio los usuarios de tomas domésticas y los de servicios públicos de salud, siempre que celebren convenios de pago de sus adeudos con la Comisión de Agua Potable y Alcantarillado.
+
+En tanto se celebran los convenios respectivos, únicamente se podrá reducir el suministro de agua potable.
 
 ###### ARTICULO 82.
 
@@ -933,6 +1003,24 @@ El importe de los daños causados a los aparatos medidores, se regulará atendie
 
 En caso de que la descarga se haya destruido intencionalmente o por causas imputables a los usuarios o poseedores de los predios, giros o establecimientos que hayan pagado el importe de la instalación para la descarga de aguas negras, deberán cubrir el precio de obra nueva, de acuerdo con los costos vigentes.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE ABRIL DE 1996)</small>
+
+#### SECCION III. DEL PAGO DE SERVICIOS Y COBRO DE ADEUDOS
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1996)</small>
+
+ARTICULO 105 bis.- Para el cobro de los adeudos por concepto de cuotas y tarifas, así como las multas que se impongan con motivo de las infracciones a la presente Ley y sus Reglamentos que no fueren cubiertas, serán exigidos mediante el procedimiento administrativo de ejecución previsto en el Capítulo III del Título Quinto del Código Fiscal del Estado, de acuerdo a lo previsto en la presente Ley, para lo cual:
+
+I.- Queda investida la Dirección de Recuperación de Adeudos y Ejecución Fiscal de la Comisión de Agua Potable y Alcantarillado de la facultad económico-coactiva para exigir los pagos y hacer efectivos los créditos fiscales que no hubieren sido cubiertos o garantizados en los plazos señalados por esta Ley.
+
+II.- La Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado, estará a cargo de un Director quien se auxiliará de las Jefaturas de Departamentos, Oficinas y el personal de apoyo que para el efecto designe el Director General, de acuerdo a lo previsto en el Presupuesto de Egresos de la mencionada Comisión.
+
+III.- Para el caso de mora en los pagos de los servicios concesionarios, la Dirección de Recuperación de adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado, tendrá a su cargo el cobro de los adeudos correspondientes, conforme a esta sección.
+
+IV.- En todo lo no previsto en la presente sección, se aplicará supletoriamente el Código Fiscal del Estado.
+
+V.- Los recursos en los procedimientos administrativos de ejecución, serán resueltos por la autoridad fiscal competente de la Secretaria de Hacienda del Estado.
+
 ### CAPITULO SEXTO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 106.
@@ -981,17 +1069,21 @@ XI.- Hacer mal uso del agua desperdiciándola en cualquier forma; y
 
 XII.- Las demás que expresamente se consignen y las que se deriva de disposiciones reglamentarias.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 109.
 
 Quien cometa las infracciones señaladas en el artículo anterior, será sancionado con:
 
-I.- Multa de 50 a 1,000 pesos a las fracciones I y II;
+I.- Multa de 3 a 70 salarios mínimos, por las infracciones de las fracciones I y II;
 
-II.- Con multa de 100 a 1,000 pesos a las fracciones III, IV, V, VI, VIII y IX; y
+II.- Multa de 7 a 70 salarios mínimos, por las infracciones de las fracciones III a la VII y la IX;
 
-III.- Con multa de 1,000 a 25,000 pesos a la fracción VIII.
+III.- Multa de 70 a 1,500 salarios mínimos por la infracción a la fracción VIII;
 
-En caso de reincidencia se duplicarán las multas a que se refiere este artículo.
+En la aplicación de estas multas, las oficinas encargadas de las sanciones respectivas, tendrán en cuenta la condición cultural y socioeconómica del infractor, la gravedad de la infracción, así como el daño causado y rango de consumo del infractor;
+
+El Consejo Directivo de la Comisión de Agua Potable y Alcantarillado, podrá facultar a la Dirección General del organismo para que en el caso de usuarios del servicio doméstico de colonias y unidades habitacionales populares, previo análisis de los estudios correspondientes se reduzcan las multas y sanciones respectivas.
 
 ###### ARTICULO 110.
 
@@ -1029,7 +1121,7 @@ II.- El escrito deberá presentarse dentro de los quince días hábiles siguient
 
 III.- Al recibir las copias a que se refiere la fracción anterior, los destinatarios de ellas rendirán a la autoridad que conozca del recurso, en un término de cinco días hábiles, los informes que procedan exhibiendo la justificación y pruebas que se hubieran ofrecido en tiempo y requieran de diligencias para ello. Dentro del mismo término se desahogarán los estudios, inspecciones y demás diligencias, inclusive pruebas, que en relación con los actos impugnados considere necesarios la autoridad;
 
-IV.- Interpuesto el recurso, podrá suspenderse la ejecución de la resolución impugnada o la continuación de la ejecución de los actos que se reclamen, si se garantiza el interés pecuniario en que consista el objeto de la inconformidad, y sus accesorios legales, en alguna de las formas establecidas en el artículo 18-A de la Ley de Hacienda del Estado;
+IV.- Interpuesto el recurso, podrá suspenderse la ejecución de la resolución impugnada o la continuación de la ejecución de los actos que se reclamen, si se garantiza el interés pecuniario en que consista el objeto de la inconformidad, y sus accesorios legales, en alguna de las formas establecidas en el artículo 18-A de la Ley de Hacienda del Estado.
 
 ###### ARTICULO 117.
 
@@ -1069,9 +1161,9 @@ I.- Contratos de obra pública y de prestación o de suministro de servicios;
 
 II.- Contratos para el proyecto, financiamiento, construcción, aportación de tecnología, administración, operación, conservación, mantenimiento, ampliación y rehabilitación de sistemas de prestación de servicio público de agua potable y alcantarillado, incluyendo el saneamiento, con la modalidad de inversión privada recuperable; y
 
-III.- Los demás contratos o convenios necesarios para capitalizar, mejorar, ampliar y hacer más eficiente el servicio público de agua potable y alcantarillado, incluyendo el saneamiento;
+III.- Los demás contratos o convenios necesarios para capitalizar, mejorar, ampliar y hacer más eficiente el servicio público de agua potable y alcantarillado, incluyendo el saneamiento.
 
-Los Contratos y Convenios a que se refieren las Fracciones II y III, son de Derecho Público;
+Los Contratos y Convenios a que se refieren las Fracciones II y III, son de Derecho Público.
 
 El incumplimiento de las Cláusulas del Contrato o Convenio motivará la rescisión administrativa por parte del Consejo Directivo de la Comisión, previa audiencia de la parte afectada e independientemente de que se convenga la forma de recuperación de la inversión realizada.
 
@@ -1183,25 +1275,25 @@ Los Sistemas de Agua Potable y Alcantarillado que se construyan en el futuro de 
 
 SALON DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTINUEVE DIAS DEL MES DE SEPTIEMBRE DE MIL NOVECIENTOS OCHENTA Y UNO.
 
-DIPUTADO PRESIDENTE.
+DIPUTADO PRESIDENTE
 
 PROFR. TERENCIO TAH QUETZAL
 
-DIPUTADA SECRETARIA.
+DIPUTADA SECRETARIA
 
 PROFRA. EVA FANY QUIJANO KINI
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE CHETUMAL CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TREINTA DIAS DEL MES DE SEPTIEMBRE DEL AÑO DE MIL NOVECIENTOS OCHENTA Y UNO.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. PEDRO JOAQUIN COLDWELL
 
-EL SECRETARIO DE GOBIERNO.
+EL SECRETARIO DE GOBIERNO
 
 ING. MARIO E. VILLANUEVA MADRID
 
-EL SECRETARIO DE OBRAS PUBLICAS Y DESARROLLO URBANO.
+EL SECRETARIO DE OBRAS PUBLICAS Y DESARROLLO URBANO
 
 ING. JUAN JOSE CALZADA MARRUFO
 
@@ -1220,3 +1312,13 @@ Se exceptúa de lo dispuesto en este Artículo a las cuotas de mejoras por obras
 CUARTO.- Los usuarios del servicio público de agua potable y alcantarillado en el Estado, que estén descargando aguas residuales a sistemas de alcantarillado como consecuencia de actividades productivas, deberán solicitar y tramitar el permiso de descarga a que se refiere la presente Ley durante el año de 1992 y el primer semestre de 1993.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las atribuciones conferidas a la actual Unidad de Recuperación Fiscal CAPAHACIENDA, quedan conferidas a la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado, el traspaso se hará incluyendo el personal a su servicio, sin perjuicio de sus derechos laborales, el mobiliario, los vehículos, instrumentos, aparatos, archivos y en general el equipo que dicha Unidad haya venido usando para la atención de los asuntos que tuvo encomendados.
+
+TERCERO.- Los asuntos en trámite a cargo de la Unidad de Recuperación Fiscal CAPAHACIENDA, serán continuados precisamente en el trámite en que se encuentren, por la Dirección de Recuperación de Adeudos y Ejecución Fiscal, dependiente de la Comisión de Agua Potable y Alcantarillado.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
