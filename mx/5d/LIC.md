@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1999-01-19"
+last_updated: "1999-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -253,8 +253,6 @@ VII. Las Instituciones Financieras del Exterior y las Sociedades Controladores F
 > <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
 
 VIII. Las Instituciones Financieras del Exterior, Sociedades Controladoras Filiales, sociedades controladoras de grupos financieros e instituciones de banca múltiple, cuando adquieran acciones conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con el objeto de coadyuvar al buen funcionamiento de una institución de banca múltiple, previa autorización de la propia Secretaría, quien lo otorgara discrecionalmente.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 Los mencionados límites se aplicarán, asimismo, a la adquisición del control por parte de personas que la Secretaría de Hacienda y Crédito Público, considere para estos efectos como una sola persona.
 
@@ -791,8 +789,6 @@ Los accionistas de la serie “F” designarán a seis consejeros y por cada die
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -1624,7 +1620,7 @@ La Comisión Nacional Bancaria podrá autorizar excepciones a lo dispuesto en la
 
 ### CAPITULO III. De los Delitos
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 107.
 
@@ -1686,55 +1682,155 @@ El Banco de México realizará los cargos respectivos en la fecha en que la Comi
 
 ###### ARTICULO 111.
 
-Serán sancionados con prisión de dos a diez años y con multa de quinientas a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, quienes practiquen operaciones en contravención a lo dispuesto por los artículos 2o. ó 103 de esta Ley.
+Serán sancionados con prisión de cinco a quince años y multa de quinientas a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal, las personas físicas, consejeros, funcionarios y administradores de personas morales que realicen operaciones en contravención a lo dispuesto por los artículos 2o. o 103 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 112.
 
-Serán sancionados con prisión de tres meses a tres años y multa de treinta a quinientas veces el salario mínimo general diario vigente en el Distrito Federal, cuando el monto de la operación o quebranto según corresponda, no exceda del equivalente a quinientas veces el referido salario; cuando exceda dicho monto, serán sancionados con prisión de dos a diez años y multa de quinientas a cincuenta mil veces el salario mínimo señalado:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
 
-I. Las personas que con el propósito de obtener un crédito, proporcionen a una institución de crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la institución;
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II. Los empleados y funcionarios de una institución de crédito que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el crédito a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
 
-III. Las personas que para obtener créditos de una institución de crédito presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto patrimonial para la institución;
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-IV. Los empleados y funcionarios de la institución que, conociendo los vicios que señala la fracción anterior, concedan el crédito, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la institución;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
 
-V. Los empleados y funcionarios de la institución de crédito que autoricen operaciones, a sabiendas de que éstas resultarán en quebrantos al patrimonio de la institución en la que presten sus servicios;
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
-Se considerarán comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los empleados y funcionarios de instituciones:
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+I. Las personas que con el propósito de obtener un crédito, proporcionen a una institución de crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II. Las personas que para obtener créditos de una institución de crédito, presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto o perjuicio patrimonial para la institución;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+III. Los consejeros, funcionarios, empleados de la Institución de crédito o quienes intervengan directamente en la autorización o realización de operaciones, a sabiendas de que éstas resultarán en quebranto o perjuicio al patrimonio de la institución.
+
+Se consideran comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los consejeros, funcionarios, empleados de instituciones o quienes intervengan directamente en lo siguiente:
 
 a) Que otorguen créditos a sociedades constituidas con el propósito de obtener financiamientos de instituciones de crédito, a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
 
 b) Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución respectiva unos activos por otros;
 
-c) Que otorguen créditos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto patrimonial a la institución;
+c) Que otorguen créditos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación, que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la Institución;
 
-d) Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso c) anterior;
+d) Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior, y
 
-e) Que a sabiendas, permitan a un deudor desviar el importe del crédito en beneficio propio o de terceros, y como consecuencia de ello, resulte quebrando (sic) patrimonial a la institución;
+e) Que a sabiendas, permitan a un deudor desviar el importe del crédito en beneficio propio o de terceros, y como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+IV. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+V. Los acreditados que desvíen un crédito concedido por alguna institución a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales;
 
 VI. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto patrimonial a la institución, y
 
 VII. Los acreditados que desvíen un crédito concedido por alguna institución a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
 
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 112 Bis.
+
+Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que:
+
+I. Produzca, reproduzca, introduzca al país, imprima o comercie tarjetas de crédito, de débito, formatos o esqueletos de cheques, o en general instrumentos de pago utilizados por el sistema bancario, sin consentimiento de quien esté facultado para ello;
+
+II. Posea, utilice o distribuya tarjetas de crédito, de débito, formatos o esqueletos de cheques, o en general instrumentos de pago utilizados por el sistema bancario, a sabiendas de que son falsos;
+
+III. Altere el medio de identificación electrónica y acceda a los equipos electromagnéticos del sistema bancario, con el propósito de disponer indebidamente de recursos económicos, u
+
+IV. Obtenga o use indebidamente la información sobre clientes u operaciones del sistema bancario, y sin contar con la autorización correspondiente.
+
+La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en las fracciones anteriores tiene el carácter de consejero, funcionario o empleado de cualquier institución de crédito.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 113.
 
-Serán sancionados con prisión de dos a diez años y multa de quinientas a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, a los empleados y funcionarios de las instituciones de crédito:
+Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario, los consejeros, funcionarios o empleados de las instituciones de crédito o quienes intervengan directamente en el otorgamiento del crédito:
 
-I. Que dolosamente omitan registrar en los términos del artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados, y
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
 
-II. Que a sabiendas, presenten a la Comisión Nacional Bancaria datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la institución respectiva.
+I. Que dolosamente omitan u ordenen omitir registrar en los términos del artículo 99 de esta ley, las operaciones efectuadas por la institución de que se trate, o que mediante maniobras alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
+
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+II. Que dolosamente presenten a la Comisión Nacional Bancaria y de Valores datos falsos sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos;
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+III. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el crédito, y
+
+> <small>(ADICIONADA, D.O.F. 17 DE MAYO DE 1999)</small>
+
+IV. Que conociendo los vicios que señala la fracción II del artículo 112 de esta ley, concedan el crédito, si el monto de la alteración hubiere sido determinante para concederlo.
+
+> <small>(ADICIONADO, D.O. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 113 Bis.
+
+A quien en forma indebida utilice, obtenga, transfiera o de cualquier otra forma, disponga de recursos o valores de los clientes de las instituciones de crédito, se le aplicará una sanción de tres a diez años de prisión y multa de quinientos a treinta mil días de salario.
+
+Si quienes cometen el delito que se describe en el párrafo anterior son funcionarios o empleados de las instituciones de crédito o terceros ajenos pero con acceso autorizado por éstas a los sistemas de las mismas, la sanción será de tres a quince años de prisión y multa de mil a cincuenta mil días de salario.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 113 Bis 1.
+
+Los consejeros, funcionarios, comisarios o empleados de una institución de crédito que inciten u ordenen a funcionarios o empleados de la institución a la comisión de los delitos a que se refiere la fracción III, del artículo 112 y los artículos 113 y 113 Bis, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 113 Bis 2.
+
+Serán sancionados los servidores públicos de la Comisión Nacional Bancaria y de Valores, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 111 a 113 Bis y 114 de esta ley, que:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la institución de crédito alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 113 Bis 3.
+
+Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de una institución de crédito que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional Bancaria y de Valores, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional Bancaria y de Valores, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
+
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 114.
 
-Los empleados y funcionarios de las instituciones de crédito que, con independencia de los cargos e intereses fijados por la institución, por sí o por interpósita persona, reciban indebidamente de los clientes algún beneficio como condición determinante para celebrar cualquier operación, seán (sic) sancionados con prisión de tres meses a tres años y con multa de treinta a quinientas veces el salario mínimo general diario vigente en el Distrito Federal, cuando el monto del beneficio no exceda de quinientas veces el referido salario, en el momento de cometerse el delito; cuando exceda de dicho monto serán sancionados con prisión de dos a diez años y multa de quinientas a cincuenta mil veces el salario mínimo señalado.
+Los consejeros, funcionarios o empleados de las instituciones de crédito que, con independencia de los cargos e intereses fijados por la institución, por sí o por interpósita persona, reciban indebidamente de los clientes algún beneficio para celebrar cualquier operación, serán sancionados con prisión de tres meses a tres años y con multa de treinta a quinientos días de salario cuando no sea valuable o el monto del beneficio no exceda de quinientos días de salario, en el momento de cometerse el delito; cuando exceda de dicho monto serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 115.
 
-En los casos previstos en los artículos 111 al 114 de esta Ley, se procederá a petición de la Secretaría de Hacienda y Crédito Público, quien escuchará la opinión de la Comisión Nacional Bancaria.
+En los casos previstos en los artículos 111 al 114 de esta ley, se procederá a petición de la Secretaría de Hacienda y Crédito Público, quien escuchará la opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de la institución de crédito de que se trate, o de quien tenga interés jurídico.
 
-Tratándose de los delitos a que se refieren los artículos 112 y 114 también se podrá proceder a petición de la institución de crédito de que se trate.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
@@ -1757,6 +1853,20 @@ Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público
 ###### ARTICULO 116.
 
 Para la imposición de las sanciones y multas previstas en el presente Capítulo y en el II de este Título, respectivamente, se considerará el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción o delito de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+
+> <small>(ADICIONADO, D.O.F.17 DE MAYO DE 1999)</small>
+
+Como instituciones de crédito, para los efectos de los delitos contenidos en este capítulo, se entenderán también a las sociedades financieras de objeto limitado.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 116 Bis.
+
+La acción penal en los casos previstos en esta ley perseguibles por petición de la Secretaría de Hacienda y Crédito Público, por la institución de crédito ofendida, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la institución de crédito tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 
 ## TITULO SEXTO. De la Protección de los Intereses del Público
 
@@ -2381,3 +2491,11 @@ SEXTO.- Las sociedades financieras de grupos financieros, instituciones de créd
 SÉPTIMO.- Las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa, especialistas bursátiles y Filiales del tipo de las entidades financieras anteriores, tendrán un plazo de tres años contado a partir de la entrada en vigor de este Decreto, para que su consejo de administración y órgano de vigilancia se ajusten a lo dispuesto en los artículos 24 y 27-L de la Ley para Regular las Agrupaciones Financieras, 22, 26 y 45-K de la Ley de Instituciones de Crédito, y 17 bis 1 y 28 bis 11 de la Ley del Mercado de Valores, según corresponda.
 
 Los consejeros y comisarios de las series "A", "B" y "F" de las entidades financieras mencionadas, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan en términos de lo establecido en las disposiciones referidas en el párrafo anterior, y los designados tomen posesión de sus cargos.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
