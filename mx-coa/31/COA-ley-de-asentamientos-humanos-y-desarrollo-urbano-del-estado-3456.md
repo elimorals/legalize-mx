@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2000-03-07"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -43,11 +43,15 @@ LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAG
 
 La presente ley es de orden público e interés social y tiene por objeto:
 
-I.- Establecer la concurrencia del Estado y de los municipios para la ordenación y regulación del desarrollo urbano y los asentamientos humanos en el territorio estatal, sin menoscabo de la competencia que en estas materias le correspondan a la Federación;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Establecer, en los términos previstos por las disposiciones aplicables, la concurrencia del Estado y de los municipios para la ordenación y regulación del desarrollo urbano y los asentamientos humanos en el territorio estatal, sin menoscabo de la competencia que en estas materias le correspondan a la Federación;
 
 II.- Planear y regular el ordenamiento territorial de los asentamientos humanos y la fundación, conservación, mejoramiento y crecimiento de los centros de población del Estado;
 
-III.- Establecer los principios y lineamientos generales conforme a los cuales el Gobierno del Estado y los ayuntamientos de la entidad ejercerán sus atribuciones para determinar las provisiones, reservas, usos y destinos de áreas y predios;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Precisar y establecer los lineamientos generales conforme a los cuales el Gobierno del Estado y los ayuntamientos de la entidad, bajo el principio de fidelidad municipal, ejercerán sus atribuciones para determinar las provisiones, reservas, usos y destinos de áreas y predios;
 
 IV.- Determinar las normas conforme a las cuales se sujetará la autorización de usos de suelo, subdivisiones, fusiones de terreno, relotificaciones y fraccionamientos en la entidad;
 
@@ -55,7 +59,9 @@ V.- Establecer las normas generales para la construcción, ampliación, remodela
 
 VI.- Establecer las normas generales relativas al equipamiento, la infraestructura y los servicios urbanos en la entidad;
 
-VII.- Determinar las atribuciones de las autoridades competentes en la aplicación de esta ley;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII.- Determinar y precisar las atribuciones de las autoridades competentes en la aplicación de esta ley;
 
 VIII.- Precisar los mecanismos de coordinación y concertación de los sectores público, social y privado en materia de desarrollo urbano; y
 
@@ -73,7 +79,9 @@ III.- La constitución de reservas territoriales para el desarrollo urbano y la 
 
 IV.- La conservación, mejoramiento y crecimiento de los centros de población;
 
-V.- La fundación de centros de población, cuando la decrete el Congreso del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- La fundación de centros de población, conforme a esta ley y demás disposiciones aplicables;
 
 VI.- La distribución equilibrada de la población y de las actividades económicas en el territorio del Estado;
 
@@ -143,7 +151,9 @@ XXVI.- Reservas: las áreas de un centro de población previstas para ser utiliz
 
 XXVII.- Restauración: el conjunto de operaciones y acciones tendientes a reparar un bien cultural o mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas;
 
-XXVIII.- Secretaría: la Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXVIII.- Secretaría: la Secretaría de Urbanismo y Obras Públicas del Estado;
 
 XXIX.- Servicios urbanos: las actividades operativas públicas, prestadas directamente por la autoridad competente o concesionadas, para satisfacer necesidades colectivas en los centros de población;
 
@@ -163,27 +173,31 @@ XXXIII.- Zona metropolitana: el espacio territorial de influencia dominante de u
 
 XXXIV.- Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 4.
 
 La ordenación y regulación de los asentamientos humanos y el desarrollo urbano en el Estado, se llevará a cabo conforme a lo dispuesto por:
 
-I.- La Ley General de Asentamientos Humanos;
+I.- Las Constituciones General de la República y la particular del Estado;
 
-II.- Esta ley;
+II.- La Ley General de Asentamientos Humanos;
 
-III.- Los Planes Nacional, Estatal y Municipales de Desarrollo;
+III.- Esta ley;
 
-IV.- Los planes y programas de desarrollo urbano;
+IV.- Los Planes Nacional, Estatal y Municipales de Desarrollo;
 
-V.- Las declaratorias de provisiones, reservas, destinos y usos de áreas y predios;
+V.- Los planes y programas de desarrollo urbano;
 
-VI.- Las declaratorias de conurbación, de conservación y de mejoramiento;
+VI.- Las declaratorias de provisiones, reservas, destinos y usos de áreas y predios;
 
-VII.- Las constancias de uso del suelo;
+VII.- Las declaratorias de conurbación, de conservación y de mejoramiento;
 
-VIII.- Las resoluciones, criterios y normas que expidan las autoridades competentes; y
+VIII.- Las constancias de uso del suelo;
 
-IX.- Las demás leyes y disposiciones aplicables.
+IX.- Las resoluciones, criterios y normas que expidan las autoridades competentes; y
+
+X.- Las demás leyes y disposiciones aplicables.
 
 ###### ARTICULO 5.
 
@@ -245,7 +259,9 @@ I.- Croquis del predio y de su localización precisa, indicando distancias a via
 
 II.- La documentación que en los términos que establezcan las normas aplicables, acredite fehacientemente la propiedad o legítima posesión sobre el inmueble de que se trate;
 
-III.- La constancia de libertad de gravámenes expedida por la Oficina del Registro Público de la Propiedad que corresponda;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- La constancia de libertad de gravámenes expedida por la Oficina del Registro Público que corresponda;
 
 IV.- La documentación que acredite que el solicitante está al corriente en el pago del impuesto predial;
 
@@ -263,7 +279,9 @@ Los notarios y demás fedatarios públicos sólo podrán autorizar escrituras de
 
 Conforme a esta ley, el texto correspondiente a dichas constancias, autorizaciones, permisos o licencias deberá insertarse en los instrumentos públicos respectivos.
 
-No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público de la Propiedad, ni en el Catastro Estatal o Municipal, si no se ajusta a lo dispuesto en la legislación, planes, programas y declaratorias sobre provisiones, reservas, usos y destinos en materia de desarrollo urbano y cuenta con las autorizaciones, permisos o licencias correspondientes, salvo disposición expresa en contrario de la ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro Estatal o Municipal, si no se ajusta a lo dispuesto en la legislación, planes, programas y declaratorias sobre provisiones, reservas, usos y destinos en materia de desarrollo urbano y cuenta con las autorizaciones, permisos o licencias correspondientes, salvo disposición expresa en contrario de la ley.
 
 ###### ARTICULO 9.
 
@@ -347,9 +365,13 @@ Para la aplicación de esta ley, son autoridades competentes:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Desarrollo Social del Estado; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-III.- Los ayuntamientos, el Presidente Municipal y los órganos o unidades administrativas de los municipios de la entidad, que conforme a las normas tengan a su cargo atribuciones para hacer cumplir con lo dispuesto por esta ley y demás disposiciones aplicables.
+II.- La Secretarías de Urbanismo y Obras Públicas y la de Desarrollo Social del Estado, según corresponda; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Los ayuntamientos, el Presidente Municipal y los órganos o unidades administrativas de los municipios de la entidad que conforme a las disposiciones tengan a su cargo atribuciones para hacer cumplir lo dispuesto por esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 16.
 
@@ -359,7 +381,9 @@ I.- Ordenar la elaboración, ejecución, control, revisión y evaluación del Pr
 
 II.- Aprobar y expedir el Programa Estatal de Desarrollo Urbano;
 
-III.- Proponer a los ayuntamientos y, en su caso, a la legislatura del Estado, la determinación de provisiones, reservas, usos y destinos de áreas y predios, de acuerdo con lo previsto en el Programa Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Proponer a los ayuntamientos, en los términos de las disposiciones aplicables, la determinación de provisiones, reservas, usos y destinos de áreas y predios, de acuerdo con lo previsto en el Programa Estatal de Desarrollo Urbano;
 
 IV.- Proveer, en la esfera de su competencia, las medidas necesarias para la exacta observancia de la planeación urbana en el Estado, en los términos de esta ley y demás disposiciones jurídicas aplicables;
 
@@ -369,11 +393,17 @@ VI.- Vigilar conjuntamente con las autoridades federales el cumplimiento del Pro
 
 VII.- Participar con los gobiernos federal y de las entidades vecinas, en la elaboración y ejecución de los Programas de Ordenación de las Zonas Conurbadas Interestatales, en los términos que establezcan las leyes y declaratorias correspondientes;
 
-VIII.- Celebrar con el Ejecutivo Federal y con los Gobiernos de los Estados vecinos y con los ayuntamientos de la entidad, los convenios en materia de acciones, obras e inversiones relativas al desarrollo urbano, de acuerdo con las políticas que para el Estado plantea el Programa Nacional de Desarrollo Urbano y las disposiciones estatales en la materia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IX.- Proponer ante el Comité de Planeación para el Desarrollo del Estado y los Comités Municipales respectivos, las acciones, obras e inversiones que impulsen y consoliden el desarrollo urbano en la entidad;
+VIII.- Celebrar con el Ejecutivo Federal y con los Gobiernos de los Estados vecinos y de los ayuntamientos de la entidad, los convenios en materia de acciones, obras e inversiones relativas al desarrollo urbano, de acuerdo con las políticas que para el Estado plantea el Programa Nacional de Desarrollo Urbano y las disposiciones y programas estatales en la materia;
 
-X.- Promover ante la Legislatura local la fundación de centros de población y la expedición de declaratorias de provisiones que estime necesarias para el desarrollo ordenado de la entidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX.- Proponer ante el Comité de Planeación para el Desarrollo del Estado y, en su caso, ante los Comités Municipales respectivos, las acciones, obras e inversiones que impulsen y consoliden el desarrollo urbano en la entidad;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X.- Promover ante los ayuntamientos la fundación de centros de población y la expedición de declaratorias de provisiones que estime necesarias para el desarrollo ordenado de la entidad;
 
 XI.- Ordenar la publicación de los planes y programas o declaratorias de desarrollo urbano que aprueben las autoridades competentes;
 
@@ -391,31 +421,49 @@ La Secretaría tendrá las siguientes atribuciones:
 
 I.- Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación del Programa Estatal de Desarrollo Urbano, así como de los programas regionales y subregionales de desarrollo urbano y demás disposiciones que de ellos deriven;
 
-II.- Asesorar y apoyar a los ayuntamientos en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-III.- Coordinar, conjuntamente con los ayuntamientos cuando ello proceda, la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales;
+II.- Asesorar y apoyar, previa solicitud, a los ayuntamientos en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Coordinar conjuntamente con los ayuntamientos la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales.
+
+En todo caso, la Secretaría deberá asegurar la participación de los municipios en la formulación de planes de desarrollo regional y subregionales;
 
 IV.- Promover el establecimiento y la adquisición, con base en el Programa Estatal de Desarrollo Urbano, de las reservas territoriales para la ejecución de dicho programa;
 
-V.- Proponer al Ejecutivo del Estado la fundación de centros de población y la expedición de declaratorias de provisiones, cuando ello sea procedente y convenga al interés general;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VI.- Participar coordinadamente con los ayuntamientos, los Gobiernos de las entidades federativas vecinas y con la Federación, en la planeación y ordenación de los centros de población, en los términos en que dispongan las leyes, cuando constituyan o tiendan a constituir una conurbación interestatal o intraestatal;
+V.- Proponer a los ayuntamientos de la entidad la fundación de centros de población y la expedición de declaratorias de provisiones, cuando ello sea procedente y convenga al interés general;
 
-VII.- Gestionar la inscripción de las resoluciones, programas y declaratorias de desarrollo urbano en el Registro Público de la Propiedad, que expidan las autoridades competentes;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- Participar coordinadamente con los gobiernos municipales, los de las entidades federativas vecinas y con la Federación, en la planeación y ordenación de los centros de población, en los términos en que dispongan las leyes, cuando constituyan o tiendan a constituir una conurbación interestatal o intraestatal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII.- Gestionar, cuando le competa, la inscripción de las resoluciones, programas y declaratorias de desarrollo urbano en el Registro Público que expidan las autoridades competentes;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
 
 VIII.- Llevar el registro de los programas y declaratorias estatales de desarrollo urbano para su difusión, consulta pública, control y evaluación, así como el de Directores Responsables de Obra y Corresponsables;
 
-IX.- Dictaminar sobre las declaratorias de provisiones, reservas, usos y destinos de áreas y predios que le sometan para su opinión los ayuntamientos, a efecto de que sean congruentes con la legislación y el Programa Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX.- Emitir las opiniones que le sean solicitadas respecto de las declaratorias de provisiones, reservas, usos y destinos de áreas y predios, a efecto de que sean congruentes con la legislación, el Programa Estatal de Desarrollo Urbano y demás disposiciones aplicables;
 
 X.- Autorizar y expedir las autorizaciones, licencias y permisos que esta ley le atribuye, conforme a lo previsto en ella y el programa estatal de desarrollo urbano;
 
 XI.- Proponer al titular del Ejecutivo Estatal, la adopción de las normas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas o de preservación del patrimonio cultural;
 
-XII.- Proponer los criterios y acciones ante las autoridades competentes, para la regularización y el mejoramiento de los asentamientos humanos irregulares, promoviendo la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos y, en su caso, con la Federación;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XIII.- Vigilar, en coordinación con los ayuntamientos, el equilibrado desarrollo de las diversas regiones y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
+XII.- Proponer, en coordinación con la Secretaría de Desarrollo Social, los criterios y acciones ante las autoridades competentes, para la regularización y el mejoramiento de los asentamientos humanos irregulares, promoviendo la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos y, en su caso, con la Federación;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Vigilar, en los términos de las disposiciones aplicables y en coordinación con los ayuntamientos, el equilibrado desarrollo de las diversas regiones y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
 
 XIV.- Instituir y operar el sistema estatal de normas técnicas de diseño urbano;
 
@@ -423,7 +471,9 @@ XV.- Participar en la coordinación, control y evaluación de los programas de i
 
 XVI.- Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los programas y proyectos de inversión en materia de desarrollo urbano del Gobierno del Estado, así como los convenidos con la Federación, los municipios y los sectores social y privado de la entidad;
 
-XVII.- Vigilar el cumplimiento y aplicar las disposiciones legales en materia de asentamientos humanos y desarrollo urbano que sean de su competencia, conforme a esta ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVII.- Aplicar las disposiciones legales en materia de desarrollo urbano que sean de su competencia conforme a esta ley y demás disposiciones aplicables, así como coadyuvar con la Secretaría de Desarrollo Social en la vigilancia del cumplimiento de las disposiciones legales en materia de asentamientos humanos;
 
 XVIII.- Promover la participación de los sectores social y privado del Estado en la formulación, ejecución, evaluación, actualización y modificación de los planes y programas de desarrollo urbano y de las acciones que de ellos deriven;
 
@@ -433,7 +483,9 @@ XX.- Calificar las infracciones e imponer las medidas de seguridad y sanciones q
 
 XXI.- Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta ley;
 
-XXII.- Asesorar y apoyar a los ayuntamientos que lo soliciten, respecto a la dictaminación y viabilidad de las solicitudes de uso del suelo, fraccionamientos, relotificaciones, fusiones, subdivisiones y régimen de propiedad en condominio, así como en la supervisión de la ejecución de las obras de urbanización;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXII.- Asesorar y apoyar a los ayuntamientos que lo soliciten, en los términos de las disposiciones aplicables, respecto a la dictaminación y viabilidad de las solicitudes de uso del suelo, fraccionamientos, relotificaciones, fusiones, subdivisiones y régimen de propiedad en condominio, así como en la supervisión de la ejecución de las obras de urbanización;
 
 XXIII.- Fomentar la ejecución de fraccionamientos populares y de interés social;
 
@@ -441,9 +493,13 @@ XXIV.- Asesorar, en coordinación con los ayuntamientos, a los habitantes de las
 
 XXV.- Autorizar fraccionamientos de urbanización progresiva, cuando se trate de regularizar asentamientos humanos, conforme lo previsto por esta ley;
 
-XXVI.- Promover programas de bienestar social en las colonias y fraccionamientos populares y de interés social;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XXVII.- Impedir el establecimiento de asentamientos humanos irregulares o de fraccionamientos al margen de la ley;
+XXVI.- Apoyar a la Secretaría de Desarrollo Social en la promoción de programas de bienestar social en las colonias y fraccionamientos populares y de interés social;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXVII.- Coadyuvar con la Secretaría de Desarrollo Social para impedir el establecimiento de asentamientos humanos irregulares o de fraccionamientos al margen de la ley;
 
 XXVIII.- Aplicar, en el ámbito de su competencia, las normas técnicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable;
 
@@ -463,39 +519,63 @@ XXXIV.- Las demás que le señalen esta ley y demás disposiciones jurídicas ap
 
 Los ayuntamientos tendrán las siguientes atribuciones:
 
-I.- Elaborar, aprobar, ejecutar, controlar, modificar, actualizar y evaluar los Planes y Programas Municipales de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-II.- Administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, conforme a esta ley y a los planes y programas nacionales, regionales, estatales y municipales de desarrollo urbano;
+I.- Elaborar, aprobar, ejecutar, controlar, modificar, actualizar y evaluar los Planes y Programas de Desarrollo Urbano Municipal;
 
-III.- Promover y planear el equilibrado desarrollo de las diversas comunidades y centros de población del municipio, mediante una adecuada planificación y zonificación de los mismos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- Promover y determinar conjuntamente con el Gobierno del Estado, con base en los Planes y Programas Municipales de Desarrollo Urbano, la construcción, adquisición y administración, en su caso, de las reservas territoriales necesarias para la ejecución de dichos planes y programas;
+II.- Formular, aprobar y administrar la zonificación y el control de los usos y destinos del suelo que se deriven de la planeación municipal del desarrollo urbano, conforme a esta ley y a los planes y programas nacionales, regionales, estatales y municipales de desarrollo urbano;
 
-V.- Coordinar con la Secretaría la elaboración, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Acordar la división territorial del municipio determinando las unidades políticas y administrativas y su denominación, así como promover y planear el equilibrado desarrollo de las diversas comunidades y centros de población del municipio, mediante una adecuada planificación y zonificación de los mismos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Promover, determinar y participar conjuntamente con el Gobierno del Estado, en los términos de las disposiciones aplicables y con base en los Planes y Programas Municipales de Desarrollo Urbano, en la creación, adquisición y administración, en su caso, de las reservas territoriales necesarias para la ejecución de dichos planes y programas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- Participar en la formulación, ejecución, control y evaluación de los programas de ordenación de zonas conurbadas, regionales y subregionales de desarrollo urbano;
 
 VI.- Controlar y vigilar el aprovechamiento del suelo en sus jurisdicciones territoriales;
 
-VII.- Expedir las declaratorias sobre reservas, usos y destinos de áreas y predios, oyendo la opinión de la Secretaría y del Consejo Municipal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VIII.- Someter al Congreso del Estado la fundación de centros de población y la expedición de declaratorias de provisiones, así como la asignación de las categorías político-administrativas de las localidades, dentro de los límites de su jurisdicción;
+VII.- Expedir las declaratorias sobre reservas, usos y destinos de áreas y predios, oyendo la opinión del Consejo Municipal de Desarrollo Urbano y, en su caso, de la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VIII.- Aprobar la fundación de centros de población y la expedición de declaratorias de provisiones;
 
 IX.- Promover la participación de los sectores social y privado del municipio en la formulación, ejecución, modificación, actualización y evaluación del Programa Municipal de Desarrollo Urbano;
 
-X.- Remitir a la Secretaría, previa autorización del Cabildo, el Programa Municipal de Desarrollo Urbano, el Plan o Programa Director de Desarrollo Urbano, los Planes Parciales o Sectoriales y las declaratorias de desarrollo urbano, para su inscripción en el registro correspondiente y tramitar su inscripción en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X.- Inscribir el Programa Municipal de Desarrollo Urbano, el Plan o Programa Director de Desarrollo Urbano, los Planes Parciales o Sectoriales y las declaratorias de desarrollo urbano, en el registro correspondiente y tramitar su inscripción en el Registro Público;
 
 XI.- Llevar el registro de los planes, programas y declaratorias municipales de desarrollo urbano para su difusión, consulta pública, control y evaluación;
 
-XII.- Participar en la gestión y promoción de financiamiento para la realización del Programa Municipal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XII.- Participar en la gestión y promoción de financiamiento para la realización del Programa Municipal de Desarrollo Urbano, así como en la planeación y aplicación de inversiones públicas federales y estatales;
 
 XIII.- Intervenir, en el ámbito de su competencia, en la regularización de la tenencia de la tierra;
 
 XIV.- Controlar y evaluar los programas de inversión pública del Gobierno municipal, vigilando el cumplimiento de los mismos;
 
-XV.- Proponer, gestionar y realizar en coordinación con los Gobiernos Federal y Estatal, las acciones necesarias para preservar y controlar la ecología del municipio;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XVI.- Proponer al Ejecutivo del Estado la celebración de convenios con la Federación que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano, que se realicen dentro de su jurisdicción;
+XV.- Proponer, gestionar y realizar, en los términos de las disposiciones aplicables y en coordinación con los Gobiernos Federal y Estatal, las acciones necesarias para preservar y controlar la ecología del municipio;
 
-XVII.- Impedir, en coordinación con la Secretaría, el establecimiento de asentamientos humanos irregulares;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVI.- Celebrar, en los términos de las disposiciones aplicables, convenios con el Gobierno Estatal y por conducto de éste con el Gobierno Federal, que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano y que se realicen dentro de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVII.- Impedir, en coordinación con las autoridades estatales competentes, el establecimiento de asentamientos humanos irregulares;
 
 XVIII.- Controlar que el desarrollo urbano municipal sea equilibrado, para que beneficie en forma efectiva a las diferentes partes del municipio, evaluando periódicamente los resultados obtenidos;
 
@@ -521,7 +601,9 @@ XXVIII.- Autorizar la propaganda y publicidad que utilicen los fraccionadores;
 
 XXIX.- Autorizar a los fraccionadores la venta de lotes o predios, previo el cumplimiento de los requisitos legales;
 
-XXX.- Llevar el registro de las colonias, fraccionamientos, barrios y zonas urbanas en el municipio, así como de las asociaciones que sus habitantes integren;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXX.- Llevar el registro de las colonias, fraccionamientos, barrios y zonas urbanas en el municipio y de las asociaciones que sus habitantes integren, así como aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos y el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento que, para tal efecto, emitan;
 
 XXXI.- Autorizar la relotificación de los fraccionamientos y la modificación de las especificaciones de sus obras o etapas de urbanización, conforme a lo previsto por la presente ley;
 
@@ -569,7 +651,9 @@ El Consejo Consultivo de Desarrollo Urbano del Estado se integrará por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social del Estado; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Urbanismo y Obras Públicas del Estado; y
 
 III.- Vocales, que no serán menos de siete, entre en lo que se incluirá un representante de cada una de las dependencias y entidades de la administración pública estatal relacionadas con el desarrollo urbano; un representante de cada una de las Cámaras, Colegios, Asociaciones y Organizaciones de los sectores social y privado que, a juicio del titular del Ejecutivo Estatal, deban integrarse al Consejo, en virtud de que sus actividades incidan en el desarrollo urbano o se vinculen con él.
 
@@ -601,35 +685,19 @@ IX.- Promover el establecimiento de reservas territoriales para el desarrollo ur
 
 X.- Las demás que le señalen esta ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 24.
 
-Cada uno de los ayuntamientos de la entidad contará con un órgano de opinión y consulta en materia de planeación y desarrollo urbano denominado Consejo Municipal de Desarrollo Urbano.
+Cada uno de los ayuntamientos de la entidad, en sus correspondientes ámbitos de competencia, contará con un órgano de opinión y consulta en materia de planeación y desarrollo urbano denominado Consejo Municipal de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 25.
 
-El Consejo Municipal de Desarrollo Urbano estará integrado por:
+Los Consejos Municipales de Desarrollo Urbano contarán con la integración que los ayuntamientos estimen conveniente y funcionarán en los términos en que se prevea en el acuerdo u ordenamiento municipal que los cree.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
-
-I.- Un Presidente, que será electo por los propios miembros del Consejo, a propuesta, en terna, del Presidente Municipal;
-
-II.- Un Secretario Técnico, que será el titular de la Unidad Administrativa encargada de las funciones de planificación y de desarrollo urbano del municipio;
-
-III.- Vocales, que no podrán ser menos de cinco ni más de diez, entre los que se contará un representante de cada una de las dependencias y entidades de la administración pública municipal, relacionadas con el desarrollo urbano y, a invitación del Presidente Municipal serán:
-
-a).- Un representante de cada una de las dependencias y entidades de la Administración Pública Estatal, relacionadas con el desarrollo urbano;
-
-b).- Un representante de las delegaciones o representaciones en la entidad de las dependencias y entidades de la Administración Pública Federal, que se relacionen con el desarrollo urbano;
-
-c).- Un representante de cada una de las cámaras, colegios, asociaciones y organizaciones de los sectores social y privado del municipio, que a juicio del Presidente Municipal deban integrarse al Consejo, en virtud de que sus actividades incidan en el desarrollo urbano o se vinculen con él.
-
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 1996)</small>
-
-IV.- Un coordinador que será el Presidente Municipal.
-
-Los miembros del Consejo contarán con un suplente designado por ellos mismos. Las ausencias del Presidente del Consejo serán suplidas por quien él designe.
-
-El desempeño de los cargos a que se refiere este artículo será honorífico.
+En todo caso, los ayuntamientos deberán considerar en la integración de los Consejos la participación de representantes de los sectores público, social y privado cuyas actividades incidan en la materia, especificando que el desempeño de los cargos será honorífico.
 
 ###### ARTICULO 26.
 
@@ -651,9 +719,11 @@ VII.- Proponer los proyectos de inversión de obra pública municipal y las medi
 
 VIII.- En general ejecutar todas las acciones necesarias para el mejor cumplimiento de sus atribuciones en la promoción del desarrollo urbano, conforme a esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 27.
 
-La Procuraduría General de Justicia en el Estado, la Secretaría de Finanzas, la Dirección y Jefes de las Oficinas del Registro Público de la Propiedad en el Estado, el Instituto Coahuilense del Catastro y la Planeación Territorial y sus oficinas en la entidad, así como las unidades catastrales municipales coadyuvarán con las autoridades en la aplicación de esta ley y de los programas y declaratorias de desarrollo urbano.
+La Procuraduría General de Justicia en el Estado, la Secretaría de Finanzas, la Dirección y los Jefes de las Oficinas del Registro Público, el Instituto Coahuilense del Catastro y la Planeación Territorial y sus oficinas en la entidad, así como las unidades catastrales municipales coadyuvarán con las autoridades competentes en la aplicación de esta ley y de los programas y declaratorias de desarrollo urbano.
 
 ### CAPITULO TERCERO. DEL DESARROLLO URBANO
 
@@ -661,9 +731,13 @@ La Procuraduría General de Justicia en el Estado, la Secretaría de Finanzas, l
 
 Es materia de desarrollo urbano la planeación, ordenación, conservación, mejoramiento y crecimiento de los centros de población, así como las provisiones, usos, reservas y destinos del suelo urbano en el Estado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 29.
 
-Las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios, se harán conforme a la utilidad pública y el interés social, así como a la naturaleza jurídica del derecho de propiedad, derivado de lo previsto en el párrafo tercero del artículo 27 de la Constitución General de la República y en el artículo 830 del Código Civil del Estado.
+Las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios, se harán conforme a la utilidad pública y el interés social, así como a la naturaleza jurídica del derecho de propiedad, derivado de lo previsto en el párrafo tercero del artículo 27 de la Constitución General de la República y en los artículos 1323 y 1324 del Código Civil de Coahuila.
+
+Los ayuntamientos expedirán los reglamentos y disposiciones administrativas que fueren necesarios para tal efecto.
 
 ###### ARTICULO 30.
 
@@ -677,9 +751,11 @@ En materia de fundación, conservación, mejoramiento y crecimiento de los centr
 
 Los propietarios y poseedores de inmuebles incluidos en proyectos de conservación y mejoramiento deberán cumplir con las obligaciones derivadas de los mismos. Para este efecto, la Secretaría y el presidente municipal que corresponda, según su competencia promoverán los convenios que sean necesarios entre dichos propietarios o poseedores y de ellos con la Federación, el Gobierno del Estado y los ayuntamientos o con terceros.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 33.
 
-En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados en el artículo anterior, el Gobierno del Estado podrá procederá exigir su cumplimiento y adoptar las medidas adecuadas para salvaguardar el orden público y el interés general en los términos de la legislación aplicable.
+En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados en el artículo anterior, el Gobierno del Estado o, en su caso, los ayuntamientos podrán proceder a exigir su cumplimiento y adoptar las medidas adecuadas para salvaguardar el orden público y el interés general en los términos de la legislación aplicable.
 
 ###### ARTICULO 34.
 
@@ -697,9 +773,13 @@ Toda autorización que se expida en contrario a lo dispuesto por este artículo 
 
 Para los efectos de la presente ley, se entiende por planeación del desarrollo urbano la programación de actividades y estrategias para alcanzar objetivos de ordenación y regulación de los asentamientos humanos en la entidad, mediante acciones, inversiones, obras y servicios que, con base en las atribuciones de las autoridades competentes en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, tiene como propósito alcanzar el equilibrado desarrollo urbano estatal, regional y municipal, de conformidad con esta ley y los objetivos, metas, políticas e instrumentos previstos en los planes y programas de desarrollo urbano y las declaratorias de provisiones, reservas, usos y destinos de áreas y predios que sean aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 37.
 
-La planeación del desarrollo urbano de la entidad estará a cargo, en forma concurrente del Gobierno del Estado y los ayuntamientos de la entidad, de acuerdo por lo dispuesto por esta ley, la Ley General de Asentamientos Humanos y las demás disposiciones aplicables.
+La planeación del desarrollo urbano de la entidad estará a cargo, en forma concurrente, del Gobierno del Estado y de los ayuntamientos de la entidad, de acuerdo a lo dispuesto por esta ley, la Ley General de Asentamientos Humanos y demás disposiciones aplicables.
+
+En todo caso, la planeación del desarrollo urbano se regirá por el principio de fidelidad municipal.
 
 ###### ARTICULO 38.
 
@@ -865,7 +945,9 @@ IV.- La zonificación primaria y secundaria del territorio del municipio, atendi
 
 V.- La determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento de los centros de población en el territorio del municipio;
 
-VI.- La especificación de los límites municipales determinados por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- La especificación de los límites municipales determinados conforme a las disposiciones aplicables;
 
 VII.- La zonas urbanas, la (sic) reservas para su expansión futura y las zonas de preservación ecológica de los centros de población del municipio;
 
@@ -873,9 +955,13 @@ VIII.- Los usos y destinos del suelo en el municipio; y
 
 IX.- Los planes y programas de desarrollo urbano de los centros de población y los esquemas de desarrollo urbano que procedan, en aquellas localidades que por sus características propias no requieran de la formulación de un programa.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 49.
 
-Los programas municipales de desarrollo urbano serán elaborados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes. Deberán efectuarse en coordinación con el Gobierno del Estado, oyendo la opinión de la (sic) Consejo Consultiva (sic) de Desarrollo Urbano del Estado, de la (sic) Consejo Municipal de Desarrollo Urbano y, en su caso, de la Federación, para lo cual, los presidentes municipales deberán gestionar los instrumentos jurídicos que al efecto procedan.
+Los programas municipales de desarrollo urbano serán elaborados, aprobados, ejecutados, controlados y evaluados por los ayuntamientos correspondientes oyendo la opinión del Consejo Municipal de Desarrollo Urbano.
+
+Podrán elaborarse, cuando así se solicite y convenga, en coordinación con el Gobierno del Estado oyendo, en su caso, las opiniones del Consejo Consultivo de Desarrollo Urbano del Estado y de la Federación, según corresponda, para lo cual, los presidentes municipales deberán gestionar los instrumentos jurídicos que al efecto procedan.
 
 La revisión y actualización de los programas municipales de desarrollo urbano deberá realizarse cada 3 años, debiendo coincidir con el cambio de administración pública municipal.
 
@@ -904,6 +990,10 @@ Los programas de ordenación de zonas conurbadas intraestatales serán elaborado
 ###### ARTICULO 53.
 
 Los programas de ordenación de zonas conurbadas interestatales se regirán por lo dispuesto en la Ley General de Asentamientos Humanos y la declaratoria de conurbación respectiva, expedida por la autoridad federal competente.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los ayuntamientos de la entidad planearán y regularán, en el ámbito de sus competencias y dentro de sus jurisdicciones respectivas, el desarrollo de centros urbanos situados en territorios municipales que pertenezcan también a otras entidades federativas y que formen o tiendan a formar una continuidad demográfica.
 
 ###### ARTICULO 54.
 
@@ -961,9 +1051,13 @@ a).- El Gobierno Federal o Estatal, para coordinar la solución de los problemas
 
 b).- Los propietarios de inmuebles ubicados en las zonas consideradas deterioradas, para llevar a cabo programas de conservación y mejoramiento.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 56.
 
-Los planes y programas directores de desarrollo urbano de centros de población serán elaborados, aprobados, ejecutados, controlados y evaluados por el ayuntamiento correspondiente, a través de la coordinación que para el efecto realicen los presidentes municipales con el Gobierno del Estado y oyendo la opinión del Consejo Consultivo de Desarrollo Urbano del Estado, del Consejo Municipal de Desarrollo Urbano y, en su caso, la de la Federación.
+Los planes y programas directores de desarrollo urbano de centros de población serán elaborados, aprobados, ejecutados, controlados y evaluados por el ayuntamiento correspondiente oyendo la opinión del Consejo Municipal de Desarrollo Urbano.
+
+Los ayuntamientos podrán solicitar la opinión del Gobierno del Estado, a través de la Secretaría y del Consejo Consultivo de Desarrollo Urbano del Estado y, en su caso, de la Federación.
 
 La revisión y actualización de los planes y programas directores de desarrollo urbano deberá realizarse cada 3 años.
 
@@ -999,13 +1093,19 @@ XI.- La microzonificación de los usos y destinos de los predios comprendidos en
 
 XII.- Los demás datos y requisitos que señale esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 59.
 
-Los programas parciales de desarrollo urbano serán elaborados, aprobados, controlados y evaluados por los ayuntamientos correspondientes, con la coordinación que para el efecto establezcan los presidentes municipales con el Gobierno del Estado, oyendo la opinión del Consejo Consultivo de Desarrollo Urbano del Estado, del Consejo Municipal de Desarrollo Urbano y, en su caso, la de la Federación.
+Los programas parciales de desarrollo urbano serán elaborados, aprobados, controlados y evaluados por los ayuntamientos correspondientes oyendo la opinión del Consejo Municipal de Desarrollo Urbano.
+
+Los ayuntamientos podrán solicitar el apoyo y opinión del Gobierno del Estado, a través de la Secretaría, así como del Consejo Consultivo de Desarrollo Urbano del Estado, y, en su caso, de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 60.
 
-Los planes y programas sectoriales de desarrollo urbano son el conjunto de acciones dirigidas a regular los elementos, componentes y acciones de desarrollo urbano en un centro de población determinado o en un sector del mismo, tales como el transporte, el equipamiento, la infraestructura, los servicios, la ecología urbana y otros análogos. Contendrán, además de los señalados en el artículo 28 de esta ley, los siguientes elementos:
+Los planes y programas sectoriales de desarrollo urbano son el conjunto de acciones dirigidas a regular los elementos, componentes y acciones de desarrollo urbano en un centro de población determinado o en un sector del mismo, tales como el transporte, el equipamiento, la infraestructura, los servicios, la ecología urbana y otros análogos. Contendrán, además de los señalados en el artículo 43 de esta ley, los siguientes elementos:
 
 I.- La mención del plan o programa de desarrollo urbano del cual deriven;
 
@@ -1055,6 +1155,10 @@ Los planes y programas regionales de desarrollo urbano serán elaborados, aproba
 
 Los planes y programas subregionales de desarrollo urbano son aquellos que, referidos a la ordenación y regulación de los asentamientos humanos o las actividades socioeconómicas de una zona o región que abarque el territorio de dos o más municipios del Estado, perseguirán los mismos objetivos y políticas que los programas regionales.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En la formulación de estos planes y programas deberán participar, invariablemente, los Ayuntamientos correspondientes.
+
 ###### ARTICULO 65.
 
 Para los efectos de lo dispuesto en el artículo que antecede, los planes y programas subregionales de desarrollo urbano, contendrán en lo procedente, los elementos que se especifican en el artículo 43 (sic) esta ley y aquellos correspondientes a los planes y programas regionales, cuando así proceda.
@@ -1085,17 +1189,25 @@ Si la opinión a que se refiere el párrafo anterior es contraria al plan o prog
 
 El programa estatal de desarrollo urbano y los de (sic) él se deriven conforme a esta ley, serán aprobados por el Gobernador del Estado, previa opinión del Consejo Consultivo de Desarrollo Urbano del Estado.
 
-Los planes y programas municipales de desarrollo urbano y los que de ellos se deriven, serán aprobados por los ayuntamientos respectivos, previa opinión del Consejo Consultivo de Desarrollo Urbano del Estado y del Consejo Municipal de Desarrollo Urbano respectivo.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
-Serán nulos de pleno derecho los actos de aprobación de planes y programas de desarrollo urbano que no cuenten previamente con la opinión del Consejo Consultivo de Desarrollo Urbano del Estado y del Consejo Municipal de Desarrollo Urbano respectivo.
+Los planes y programas municipales de desarrollo urbano y los que de ellos se deriven, serán aprobados por los ayuntamientos respectivos, previa opinión del Consejo Municipal de Desarrollo Urbano respectivo y, en su caso, del Consejo Consultivo de Desarrollo Urbano del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Serán nulos de pleno derecho los actos de aprobación de planes y programas de desarrollo urbano que no cuenten previamente con la opinión del Consejo Consultivo de Desarrollo Urbano del Estado o del Consejo Municipal de Desarrollo Urbano respectivo, según corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 72.
 
-Una vez aprobados los programas de desarrollo urbano, deberán ser enviados a la Secretaría, para la publicación de su memoria descriptiva, completa o abreviada en el Periódico Oficial del Gobierno del Estado.
+Una vez aprobados los programas de desarrollo urbano, deberán ser enviados por la Secretaría o, en su caso, por los Ayuntamientos para la publicación de su memoria descriptiva, completa o abreviada en el Periódico Oficial del Gobierno del Estado.
 
-Se inscribirán íntegramente en el Registro Público de la Propiedad y en los registros de planeación de desarrollo urbano que corresponda, dentro de los veinte días naturales siguientes a la fecha en que se inicie su vigencia.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Se inscribirán íntegramente en el Registro Público y en los registros de planeación de desarrollo urbano que corresponda, dentro de los veinte días naturales siguientes a la fecha en que se inicie su vigencia.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
 Los planes y programas serán obligatorios para los particulares y para las autoridades correspondientes, una vez que se publiquen en el Periódico Oficial del Gobierno del Estado y entren en vigor según lo determine el acto de su aprobación.
 
@@ -1103,9 +1215,11 @@ Los planes y programas serán obligatorios para los particulares y para las auto
 
 Sólo podrán expedirse constancias, licencias, permisos o autorizaciones relativas a la utilización de áreas y predios que resulten comprendidos en los planes y programas, cuando las solicitudes estén de acuerdo con el plan o programa respectivo. Las que se expidan en contravención a lo anterior, serán nulas de pleno derecho y no surtirán, por lo tanto, efecto alguno.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 74.
 
-El Registro Público de la Propiedad del Estado contará con una sección en la que se inscribirán los planes, programas y declaratorias que establece esta ley y todas aquellas resoluciones administrativas que se dicten con apoyo en ellos, o que se relacionen con el desarrollo urbano.
+El Registro Público contará con una sección en la que se inscribirán los planes, programas y declaratorias que establece esta ley y todas aquellas resoluciones administrativas que se dicten con apoyo en ellos, o que se relacionen con el desarrollo urbano.
 
 ###### ARTICULO 75.
 
@@ -1133,7 +1247,9 @@ La modificación o abrogación, podrá ser solicitada ante la autoridad correspo
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- La Secretaría de Urbanismo y Obras Públicas del Estado;
 
 III.- Los Ayuntamientos de la entidad, por conducto del Presidente Municipal correspondiente;
 
@@ -1151,7 +1267,9 @@ En todo caso, la autoridad competente estará facultada para negarse a acordar a
 
 Toda modificación a los planes o programas directores de desarrollo urbano se sujetará al mismo procedimiento establecido para su formulación y expedición. Si fuera solicitada por dependencias, entidades, instituciones o personas físicas o morales distintas de las que esta ley establece como autoridad en la materia, la solicitud deberá presentarse ante la Secretaría o los ayuntamientos respectivos, por conducto del presidente municipal acompañada del estudio técnico que la justifique.
 
-En todo caso, las modificaciones que sean aprobadas deberán inscribirse en el Registro Público de la Propiedad y en los registros estatal y municipal de desarrollo urbano.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+En todo caso, las modificaciones que sean aprobadas deberán inscribirse en el Registro Público y en los registros estatal y municipal de desarrollo urbano.
 
 #### SECCION SEGUNDA. DEL CONTROL DEL DESARROLLO URBANO
 
@@ -1251,11 +1369,13 @@ En caso de que la acción, obra, servicio o inversión, que se hubiese iniciado 
 
 Las constancias de uso del suelo no constituyen apeo y deslinde respecto del inmueble, ni acreditan la propiedad o posesión del mismo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 94.
 
-El Registro Público de la Propiedad no inscribirá ningún acto, contrato o convenio, sobre transmisión de propiedad de inmuebles urbanos, si no se acompañan las correspondientes constancias de uso del suelo.
+El Registro Público no inscribirá ningún acto, contrato o convenio, sobre transmisión de propiedad de inmuebles urbanos, si no se acompañan las correspondientes constancias de uso del suelo.
 
-Tratándose de lotes o predios de fraccionamientos o condominios autorizados conforme a esta ley, no se requerirá para la inscripción de los actos en el Registro Público de la Propiedad de las constancias de uso del suelo.
+Tratándose de lotes o predios de fraccionamientos o condominios autorizados conforme a esta ley, no se requerirá para la inscripción de los actos en el Registro Público de las constancias de uso del suelo.
 
 ###### ARTICULO 95.
 
@@ -1423,13 +1543,17 @@ Las declaratorias de reservas, usos y destinos de áreas y predios, deberán der
 
 En ningún caso, podrán expedirse dichas declaratorias, en ausencia o contravención a los planes a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 112.
 
-El Presidente Municipal, previa aprobación del Ayuntamiento en sesión de Cabildo, y con la opinión del Consejo Consultivo de Desarrollo Urbano del Estado y del Consejo Municipal de Desarrollo Urbano respectivo, expedirá las declaratorias de reservas, usos o destinos que se deriven de los planes o programas de desarrollo urbano.
+El Presidente Municipal, previa aprobación del ayuntamiento en sesión de Cabildo y con la opinión del Consejo Municipal de Desarrollo Urbano respectivo y, en su caso, del Consejo Consultivo de Desarrollo Urbano del Estado, expedirá las declaratorias de reservas, usos o destinos que se deriven de los planes o programas de desarrollo urbano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 113.
 
-Las declaratorias que establezcan provisiones, reservas, usos y destinos de áreas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado, y deberán ser inscritas dentro de los veinte días naturales siguientes, en el Registro Público de la Propiedad del Estado, y en los otros registros que correspondan en razón de la materia.
+Las declaratorias que establezcan provisiones, reservas, usos y destinos de áreas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado y deberán ser inscritas dentro de los veinte días naturales siguientes, en el Registro Público del Estado, y en los otros registros que correspondan en razón de la materia.
 
 Son responsables del incumplimiento de esta disposición, las autoridades que expidan las citadas declaratorias y no gestionen su inscripción, así como los jefes de las oficinas del registro que se abstengan de llevarla a cabo o la realicen con deficiencia.
 
@@ -1563,15 +1687,19 @@ La acción de fundar un centro de población consiste en crear o establecer un a
 
 La fundación de un centro de población deberá planear su desarrollo urbano, determinando sus características, previendo los elementos necesarios de equipamiento, infraestructura y de servicios, así como las áreas urbanas de reserva y de preservación ecológica.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 129.
 
-La fundación de los centros de población, que se realice conforme a esta ley, requerirá decreto expedido por la Legislatura del Estado.
+La fundación de los centros de población, que se realice conforme a esta ley, requerirá del acuerdo que emita el ayuntamiento correspondiente.
 
-El decreto a que se refiere el párrafo anterior, contendrá la declaratoria procedente sobre provisión de tierras, y ordenará la formulación del programa de desarrollo urbano respectivo.
+El acuerdo a que se refiere el párrafo anterior, contendrá la declaratoria procedente sobre provisión de tierras y ordenará la formulación del programa de desarrollo urbano respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 130.
 
-La legislatura del Estado podrá decretar la fundación de un centro de población, a iniciativa de:
+Los ayuntamientos podrán acordar la fundación de un centro de población, a iniciativa de:
 
 I.- La Federación;
 
@@ -1579,13 +1707,17 @@ II.- El Gobernador del Estado; y
 
 III.- Los Presidentes Municipales.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 131.
 
-La Legislatura del Estado solicitará en todos los casos, la opinión del Gobierno del Estado, a través de la Secretaría y del Consejo Consultivo de Desarrollo Urbano del Estado, así como del Ayuntamiento y del Consejo Municipal de Desarrollo Urbano correspondiente, respecto de las iniciativas de fundación de centros de población.
+Los ayuntamientos solicitarán en todos los casos la opinión del Consejo Municipal de Desarrollo Urbano correspondiente, así como del Gobierno del Estado, a través de la Secretaría y del Consejo Consultivo de Desarrollo Urbano del Estado, respecto de la fundación de centros de población.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 132.
 
-La Legislatura del Estado otorgará la categoría político-administrativa que le corresponda a cada centro de población, de conformidad con lo dispuesto en esta ley, el Código Municipal para el Estado y demás disposiciones jurídicas aplicables.
+Los ayuntamientos acordarán la división territorial del municipio de que se trate, determinando las unidades políticas y administrativas y su denominación, de conformidad con lo dispuesto en la Constitución Política Local, esta ley, el Código Municipal para el Estado y demás disposiciones aplicables.
 
 ###### ARTICULO 133.
 
@@ -1635,7 +1767,9 @@ Las comisiones de conurbación intraestatales, se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social del Estado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Un Secretario Técnico, que será el Secretario de Urbanismo y Obras Públicas del Estado;
 
 III.- Los presidente municipales de los ayuntamientos del Estado, en donde se localice la zona conurbada;
 
@@ -1669,7 +1803,9 @@ II.- Gestionar ante las autoridades municipales, estatales y en su caso federale
 
 III.- Opinar sobre las obras de infraestructura y equipamiento urbano que por su importancia deba conocer la comisión de conurbación a criterio de los miembros de la misma;
 
-IV.- Decidir en forma definitiva el criterio o resolución que deba prevalecer cuando entre los gobiernos estatal y municipales, y en su caso, federal, exista diferencia de opinión en cuanto al tratamiento de un asunto en materia de desarrollo urbano en la zona conurbada.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Decidir el criterio o resolución que deba prevalecer cuando entre los gobiernos estatal y municipales y, en su caso, federal, exista diferencia de opinión en cuanto al tratamiento de un asunto en materia de desarrollo urbano en la zona conurbada, sin perjuicio de que se promuevan, en los términos de las disposiciones aplicables, las controversias que procedan;
 
 V.- Crear para asesoramiento y apoyo, los grupos técnicos necesarios;
 
@@ -1783,19 +1919,21 @@ Lo dispuesto en este artículo, no exime al fraccionador de las responsabilidade
 
 Para los efectos de esta ley, se entenderá por superficie neta, la total del predio a fraccionar, disminuida del área destinada para las vías públicas y las diversas afectaciones o restricciones del predio.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 157.
 
-Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para el desarrollo urbano, según las normas que establecen los diversos programas en la materia, o en zonas insalubres o inundables, a menos que se realicen las obras necesarias de saneamiento o protección, con autorización del ayuntamiento correspondiente, previa opinión de las Secretarías de Agricultura y Recursos Hidráulicos, de Salud y de Desarrollo Social.
+Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para el desarrollo urbano, según las normas que establecen los diversos programas en la materia, o en zonas insalubres o inundables, a menos que se realicen las obras necesarias de saneamiento o protección, con autorización del ayuntamiento correspondiente, previa opinión de las dependencias y entidades federales y/o estatales que correspondan.
 
 ###### ARTICULO 158.
 
 La construcción de vivienda multifamiliar o de edificios de departamentos habitacionales dentro de algún fraccionamiento, sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido previamente autorizados por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 159.
 
-Las áreas cedidas por el fraccionador a título gratuito a favor de los ayuntamientos en cumplimiento de lo dispuesto por esta ley, serán de dominio público y, por lo tanto, el ayuntamiento correspondiente sólo podrá ejercer actos de dominio a título oneroso o gratuito, previa autorización de la Legislatura del Estado y consulta con los vecinos, respecto de las áreas de cesión siempre y cuando no se afecten las características del fraccionamiento respectivo y se garantice el equipamiento y la suficiencia de los servicios en el mismo. No podrá autorizarse la enajenación de los espacios destinados a áreas verdes, ni los relativos a las áreas de equipamiento urbano para espacios educativos, sin la opinión de la autoridad educativa estatal.
+Las áreas cedidas por el fraccionador a título gratuito en favor de los ayuntamientos en cumplimiento de lo dispuesto por esta ley, serán de dominio público y, por lo tanto, el ayuntamiento correspondiente sólo podrá ejercer actos de dominio, a título oneroso o gratuito, con el acuerdo de las dos terceras partes de sus miembros y previo decreto de desincorporación dictado por la Legislatura del Estado y consulta con los vecinos, respecto de las áreas de cesión siempre y cuando no se afecten las características del fraccionamiento respectivo y se garantice el equipamiento y la suficiencia de los servicios en el mismo. No podrá autorizarse la enajenación de los espacios destinados a áreas verdes.
 
 ###### ARTICULO 160.
 
@@ -2339,9 +2477,11 @@ Recibida la solicitud será revisada en el acto para verificar que esté correct
 
 Una vez que se hayan cubierto los requisitos que establece el artículo 199 de esta ley, se procederá a analizar la solicitud, de acuerdo con las normas técnicas y disposiciones legales vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 202.
 
-El ayuntamiento integrará con toda la documentación inherente a la solicitud, el expediente del fraccionamiento y enviará un tanto del mismo al Consejo Municipal de Desarrollo Urbano.
+El ayuntamiento integrará con toda la documentación inherente a la solicitud, el expediente del fraccionamiento y enviará un tanto del mismo al Consejo Municipal de Desarrollo Urbano, para su opinión.
 
 ###### ARTICULO 203.
 
@@ -2389,9 +2529,11 @@ Una vez que el Presidente Municipal, en representación del Ayuntamiento, haya e
 
 El fraccionador deberá entregar al ayuntamiento, dentro de los 30 días naturales siguientes a la fecha en que se le notificó la resolución favorable, el original y tres tantos del proyecto definitivo del fraccionamiento, debidamente ajustado a los lineamientos, características y especificaciones que se deriven de esta ley y de la autorización respectiva.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 211.
 
-Una vez que ha sido otorgada la licencia de fraccionamiento, se deberá remitir copia de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de los lotes o predios a la Secretaría, al Registro Público de la Propiedad y a la autoridad catastral correspondiente y al Instituto Coahuilense del Catastro y la Planeación Territorial.
+Una vez que ha sido otorgada la licencia de fraccionamiento, se deberá remitir copia de los planos definitivos de lotificación o zonificación y de la memoria descriptiva de los lotes o predios a la Secretaría, al Registro Público, a la autoridad catastral correspondiente y al Instituto Coahuilense del Catastro y la Planeación Territorial.
 
 ###### ARTICULO 212.
 
@@ -2435,7 +2577,9 @@ Tratándose del servicio de transporte, el fraccionador queda obligado a promove
 
 Cuando se trate de fraccionamientos de manzanas aisladas, el fraccionador estará obligado a realizar las obras de urbanización de las calles circundantes.
 
-No se concederán licencias para construir en lotes que no pertenezcan al fraccionamiento y que tengan frente a las calles que circundan las manzanas urbanizadas sino hasta que los interesados acrediten que han convenido con el fraccionador el pago de la parte proporcional que corresponde a cada lote en los gastos de urbanización de dicha manzana, comunicándose al Registro Público de la Propiedad la obligación que por este concepto se impone a los propietarios o poseedores de dichos lotes.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+No se concederán licencias para construir en lotes que no pertenezcan al fraccionamiento y que tengan frente a las calles que circundan las manzanas urbanizadas sino hasta que los interesados acrediten que han convenido con el fraccionador el pago de la parte proporcional que corresponde a cada lote en los gastos de urbanización de dicha manzana, comunicándose al Registro Público la obligación que por este concepto se impone a los propietarios o poseedores de dichos lotes.
 
 ###### ARTICULO 220.
 
@@ -2447,7 +2591,7 @@ Una vez que hayan sido totalmente concluidas las obras de urbanización en un fr
 
 ###### ARTICULO 222.
 
-Tratándose de fraccionamientos de urbanización progresiva, la venta de terrenos podrá otorgarse en escritura privada ratificándose los contratos respectivos ante el jefe de la oficina del Registro Público de la Propiedad correspondiente. Satisfechos tales requisitos, podrá procederse a la inscripción del documento.
+(DEROGADO, P.O. 20 DE MARZO DE 2001)
 
 ###### ARTICULO 223.
 
@@ -2529,9 +2673,11 @@ Para los efectos de este artículo el fraccionador deberá proporcionar al ayunt
 
 Las áreas destinadas a espacios educativos, conforme a lo dispuesto por este ordenamiento, invariablemente deberán ubicarse, cuando menos, a una distancia de 100 metros de cualquier cauce de corriente permanente o intermitente de agua.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 232.
 
-Las cesiones a que se refiere esta sección se formalizarán con el acta de recepción del fraccionamiento y se integrarán sin más trámite al patrimonio municipal por ese sólo acto, mismo que deberá inscribirse, para todos los efectos legales en el Registro Público de la Propiedad y el catastro correspondiente.
+Las cesiones a que se refiere esta sección se formalizarán con el acta de recepción del fraccionamiento y se integrarán sin más trámite al patrimonio municipal por ese sólo acto, mismo que deberá inscribirse, para todos los efectos legales en el Registro Público y en el catastro correspondiente.
 
 ###### ARTICULO 233.
 
@@ -2613,9 +2759,11 @@ Serán nulas de pleno derecho todas aquellas autorizaciones de relotificación q
 
 Las solicitudes de relotificación deberán ser presentadas por escrito ante la autoridad competente, acompañadas de los planos propuestos y del plano general de lotificación originalmente aprobado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 244.
 
-El ayuntamiento respectivo podrá autorizar las relotificaciones que se promuevan respecto de los predios ubicados en el territorio del municipio, siempre que cumplan con los requisitos señalados en esta ley, y remitirá al Registro Público de la Propiedad y al Instituto Coahuilense del Catastro y la Planeación Territorial, los planos con la relotificación aprobada.
+El ayuntamiento respectivo podrá autorizar las relotificaciones que se promuevan respecto de los predios ubicados en el territorio del municipio, siempre que cumplan con los requisitos señalados en esta ley, y remitirá al Registro Público y al Instituto Coahuilense del Catastro y la Planeación Territorial, los planos con la relotificación aprobada.
 
 ###### ARTICULO 245.
 
@@ -2763,9 +2911,11 @@ V.- La circulación sobre las vías públicas pavimentadas de vehículos que car
 
 VI.- Aquellos otros fines que se consideren contrarios al interés público.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 262.
 
-En las construcciones destinadas a comercio, servicios, salud, educación y cultura, recreación y deportes, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de minusválidos, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
+En las construcciones destinadas a comercio, servicios, salud, educación y cultura, recreación y deportes, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de personas discapacitadas, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
 
 ###### ARTICULO 263.
 
@@ -2827,9 +2977,11 @@ V.- La prohibición de realizar determinados actos u obras; y
 
 VI.- Arresto hasta por 36 horas.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 270.
 
-La Secretaría y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano, así como la construcción de fraccionamientos no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
+La Secretaría y el ayuntamiento respectivo, en sus correspondientes ámbitos de competencia, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano, así como la construcción de fraccionamientos no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
 
 ###### ARTICULO 271.
 
@@ -2897,9 +3049,13 @@ Los servidores públicos que tramiten documentos, contratos y convenios que cont
 
 Se harán efectivas las sanciones a que se refiere el párrafo anterior, sin perjuicio de las responsabilidades civiles, administrativas o penales en que se hubiere incurrido.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 278.
 
-Los notarios y corredores públicos, los empleados del Registro Público de la Propiedad, del Instituto Coahuilense del Catastro y la Planeación Territorial y de las unidades municipales catastrales y en general los funcionario (sic) investidos de fe pública que den trámite a documentos, contratos, convenios, escrituras o minutas que consignen operaciones que contravengan lo dispuesto en esta ley, serán sancionados con multa por la cantidad equivalente de uno a treinta días de salario mínimo general vigente en el Estado. En caso de reincidencia, se les separará en forma definitiva de su cargo. A los notarios y a los corredores públicos, se les aplicarán las sanciones que establezca la legislación que rige sus funciones.
+Los notarios y corredores públicos, los empleados del Registro Público, del Instituto Coahuilense del Catastro y la Planeación Territorial y de las unidades municipales catastrales y, en general, los funcionarios investidos de fe pública que den trámite a documentos, contratos, convenios, escrituras o minutas que consignen operaciones que contravengan lo dispuesto en esta ley, serán sancionados con multa por la cantidad equivalente de uno a treinta días de salario mínimo general vigente en el Estado.
+
+En caso de reincidencia, se les separará en forma definitiva de su cargo. A los notarios y a los corredores públicos, se les aplicarán las sanciones que establezca la legislación que rige sus funciones.
 
 ###### ARTICULO 279.
 
@@ -3076,3 +3232,17 @@ P.O. 7 DE MARZO DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
