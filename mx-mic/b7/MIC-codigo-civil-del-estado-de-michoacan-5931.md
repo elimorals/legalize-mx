@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1986-09-15"
+last_updated: "1997-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1997.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -3621,17 +3621,17 @@ III. La mujer casada en bien propio;
 
 IV. El pariente de cualquier grado que, aún sin obligación legal de dar alimentos, los suministre a sus ascendientes, descendientes o colaterales con quienes viva formando familia o a quienes tenga a su cargo.
 
-(REFORMADO, P.O 17 DE ENERO DE 1955) (F. DE E., P.O. 29 DE ENERO DE 1955)
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
 
 ###### Artículo 651.
 
-El patrimonio de familia deberá consistir en casa o fracción de casa en que more la familia, con los muebles que le pertenezcan y siempre que el valor de la finca no pase de $25,000.00; o en terreno cuyo valor no excederá de $40,000.00 que sea cultivado por el jefe de familia o en terreno y casa, aunque sean predios separados, si no están a más de dos kilómetros de distancia uno de otro, cuyo valor en conjunto no exceda de $50,000.00, de los cuales a lo más correspondan $10,000.00 a la casa y con la misma condición de que el terreno sea cultivado por el jefe y la casa habitada por la familia.
+El patrimonio de familia deberá consistir en casa habitación en que more la familia, con los muebles que le pertenezcan, incluyendo los instrumentos, herramientas e implementos necesarios para el arte, oficio o profesión a que el jefe de familia esté dedicado, de cuya explotación obtenga lo indispensable para satisfacer sus necesidades de subsistencia; o en terreno que sea cultivado por el jefe de familia, incluyendo los semovientes e instrumentos necesarios para el cultivo; o terreno y casa aunque sean predios separados, dentro de los límites del Estado, incluyendo los muebles señalados para los casos anteriores; cuyo valor, en todos estos supuestos, no exceda del resultado de multiplicar por cuarenta y cinco, el salario general diario más alto vigente en el Estado, multiplicando este resultado por los días del año, en la época en que se constituya este patrimonio.
 
-Podrán agregarse al patrimonio de familia rústico, los semovientes, útiles y aperos necesarios para el cultivo, no excediendo su valor de la cuarta parte del predio rústico.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
 
 ###### Artículo 652.
 
-Se tendrá como valor del inmueble, el que tenga en el Catastro para el pago del impuesto a propiedad raíz en la fecha de la fundación. Si no tuviere valor determinado por ser fracción de predio, un perito nombrado por el juez determinará la porción en que deba dividirse el valor catastral; en ese incidente se oirá al empleado de rentas respectivo y en caso de que este empleado y el perito no estén de acuerdo, el juez resolverá. Si la falta de valor catastral procediere de que el predio sea oculto, primero se valorizará de conformidad con las leyes fiscales vigentes.
+Se tendrá como valor del inmueble, el comercial que le asigne perito autorizado de la Dirección de Catastro del Estado o el nombrado por el juez, en la fecha de la fundación del patrimonio, de acuerdo a las leyes fiscales vigentes.
 
 ###### Artículo 653.
 
@@ -3641,19 +3641,27 @@ No podrá hacerse la fundación en finca que esté hipotecada, embargada o sujet
 
 Para la fundación se observará el siguiente procedimiento:
 
-I. El fundador presentará al juez de Primera Instancia, o Menor, en cuya jurisdicción esté situado el inmueble, un escrito en que hará constar: su voluntad de erigir el inmueble en patrimonio de familia; el carácter con que hace la fundación, determinando la fracción del artículo 650 de la ley, en que esté comprendido el caso; la descripción de la finca, con expresión de su nombre, si lo tuviere, superficie, límites y colindancias, la relación del título o títulos de adquisición y los nombres de las personas que forman la familia beneficiaria. Tratándose de hijos de matrimonio no será necesario expresar sus nombres, bastará decir que se instituye en favor de los hijos.
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 21 DE ABRIL DE 1997)</small>
+
+I. El fundador presentará al juez competente, en cuya jurisdicción esté situado el inmueble, un escrito en el que hará constar: su voluntad de erigir el inmueble en patrimonio de familia; el carácter con que hace la fundación, determinando la fracción del artículo 650 de la ley, en que esté comprendido el caso; la descripción de la finca, con expresión de su nombre, si lo tuviere, superficie, límites y colindancias; la relación de título o títulos de adquisición; la relación de bienes inmuebles que habrán también de conformar el patrimonio, en los términos del artículo 651 y los nombres de las personas que forman la familia beneficiaria. Tratándose de hijos de matrimonio no será necesario expresar sus nombres, bastará decir que se instituye en favor de los hijos.
 
 Con el escrito se presentarán los siguientes documentos:
 
-Las actas del Registro Civil que justifiquen el parentesco del fundador, con las personas que forman la familia en cuyo beneficio se instituye, a no ser que se trate de hijos de matrimonio; el título de adquisición de la finca; el certificado de estar libre de hipoteca, embargo u otro gravámen y de no estar sujeta a condición resolutoria; la constancia del valor catastral, o de no tenerlo determinado y certificado expedido por la Autoridad Municipal del lugar, de que la familia beneficiaria vive en la casa o de que el jefe de la familia cultiva el terreno. Este certificado puede ser substituído por información testimonial rendida ante el mismo juez.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
 
-II. El juez examinará si la manifestación está hecha de conformidad con la ley, y si así fuere, después de recibir, en su caso, la información a que se refiere el final de la fracción anterior y de mandar valuar la finca por un perito y con audiencia del empleado de rentas respectivo, si no hay valor catastral, remitirá copia de la manifestación a la Oficina del Registro Público de la Propiedad para que sea inscrita, aunque sea el valor de menos de quinientos pesos. En el mismo auto mandará publicar un extracto de la solicitud por tres veces en el Periódico Oficial del Estado y fijar una copia en los lugares públicos de costumbre, debiendo permanecer fijadas esas copias durante quince días.
+Las actas del Registro Civil que justifiquen el parentesco del fundador, con las personas que forman la familia en cuyo beneficio se instituye a no ser que se trate de hijos de matrimonio; el título de adquisición de la finca; el certificado de estar libre de hipoteca, embargo u otro gravamen y de no estar sujeta a condición resolutoria; avalúo comercial pericial; en su caso, constancia que acredite la propiedad de los bienes muebles que formen parte del patrimonio a constituirse y certificado expedido por la autoridad municipal del lugar, de que la familia beneficiaria vive en la casa o de que el jefe de familia cultiva el terreno. Este certificado puede ser substituido por información testimonial rendida ante el mismo juez;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 1997)</small>
+
+II. El Juez examinará si la manifestación está hecha de conformidad con la ley, y si así fuere, después de recibir, en su caso, la información a que se refiere el final de la fracción anterior, remitirá copia de la manifestación a la oficina del Registro Público de la Propiedad para que sea inscrita. En el mismo auto mandará publicar un extracto de la solicitud, por tres veces en el Periódico Oficial del Estado y fijar una copia en los lugares públicos de costumbre, debiendo permanecer fijadas esas copias durante quince días;
 
 III. Quince días después de la última publicación en el Periódico Oficial, el inmueble y los muebles accesorios, adquirirán definitivamente el carácter de patrimonio de familia, y el juez mandará expedir al fundador copia certificada de la manifestación, la cual servirá de título de la fundación. El interesado presentará esa copia al encargado del Registro Público de la Propiedad para que la anote, haciendo constar en ella que se hizo la inserción de que habla la fracción II de este artículo. Al margen de la inscripción se pondrá nota de haberse hecho así.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
+
 ###### Artículo 655.
 
-Cuando el patrimonio de familia sea de valor inferior al máximo permitido por el artículo 651, si es urbano, podrá ser extendido hasta llegar a su valor sobre departamentos contiguos; y si es rústico, podrá ser extendido hasta completar el valor sobre terrenos contiguos o que no disten más de dos kilómetros del primitivo. Para la ampliación se observarán los procedimientos del artículo anterior.
+Cuando el patrimonio de familia sea de valor inferior al máximo permitido por el artículo 651, ya sea urbano o rústico, podrá ser extendido hasta llegar a ese valor, sobre otros bienes muebles o inmuebles. Para la aplicación se observarán los procedimientos del artículo anterior.
 
 ###### Artículo 656.
 
@@ -3697,7 +3705,9 @@ Cualquier acreedor puede pedir embargo del valor en que el patrimonio de familia
 
 Si fuere posible la división, sólo la fracción separada será la que se embargue y remate, conservando la otra parte de la casa el carácter y beneficios del patrimonio de familia.
 
-Si no fuere posible la división, se rematará toda la casa, se entregará al deudor la cantidad de cinco mil pesos, deducido el valor de los muebles, para que pueda hacer nueva fundación y el resto será lo que se tenga por embargado y aplicable a los acreedores hasta la cantidad que corresponda. La cantidad entregada al deudor podrá ser depositada en las Oficinas de Rentas, en Bancos y casas de comercio mientras se hace la fundación, si el mismo deudor lo solicita y en ese caso, no podrá ser embargado durante seis meses.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
+
+Si no fuere posible la división, se rematará toda la casa, se entregará al deudor el cincuenta por ciento, deducido el valor de los muebles, para que pueda hacer una nueva fundación y el resto será lo que se tenga por embargado y aplicable a los acreedores hasta la cantidad que corresponda; si una vez cubiertos los adeudos, restare alguna cantidad, se entregará al deudor. La cantidad entregada al deudor se depositará en el juzgado correspondiente, a través del sistema del fondo judicial instituido por la ley, mientras se hace la fundación, si el mismo deudor lo solicita y en ese caso, no podrá ser embargado durante seis meses.
 
 El acreedor que promueva incidente de embargo conforme a este artículo, será condenado al pago de costas, si se resolviere que no hay valor excedente que embargar.
 
@@ -3749,9 +3759,11 @@ En el Periódico Oficial se harán gratuitamente las publicaciones a que se refi
 
 Estarán exentos de toda clase de impuestos al Estado los actos y contratos por las cuales se adquieran bienes raíces destinados a erigirlos en patrimonio de familia; más si el adquirente no comprueba en la oficina de Rentas respectiva, en el plazo de cuatro meses haber hecho la fundación, se exigirá el pago del impuesto que haya dejado de cubrirse, con recargo del veinte por ciento. La Tesorería General del Estado podrá conceder prórroga de dicho plazo, por causa justificada.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1997)</small>
+
 ###### Artículo 674.
 
-Los predios que se hayan constituído en patrimonio de familia o que se constituyeren en lo sucesivo, hasta completar quinientos estarán exentos de pago de impuestos sobre la propiedad, durante diez años, contados desde la fecha de la fundación.
+Los inmuebles que se hayan constituido en patrimonio de familia o que se constituyeren en lo sucesivo, estarán exentos de pago de impuestos sobre la propiedad, durante un año, contado desde la fecha de la fundación.
 
 ###### Artículo 675.
 
@@ -14325,11 +14337,11 @@ XII. El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas
 
 XIII. Las fianzas judiciales, cuidándose de anotar al margen de los registros que amparen bienes del fiador, la inscripción de la fianza;
 
-(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 XIV. La demanda y el auto que la admite, cuando el negocio verse sobre alguna de las cuestiones a que se refiere la fracción I, debiendo, además, hacerse anotación al margen del registro del título del demandado;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADA, P.O. 25 DE FEBRERO DE 1965)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 XV. Los demás títulos que la ley ordene expresamente que sean registrados.
 
@@ -14694,3 +14706,7 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 21 DE ABRIL DE 1997.
+
+UNICO.- El presente decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Estado.
