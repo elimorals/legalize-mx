@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-instituto-nacional-indigenista-2567"
 country: "mx"
 rank: "ley"
 publication_date: "1948-12-04"
-last_updated: "1948-12-04"
+last_updated: "2003-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2567&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "1948-11-10"
 
 LEY QUE CREA EL INSTITUTO NACIONAL INDIGENISTA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS, PUBLICADA EN EL D.O.F. DE 21 DE MAYO DE 2003. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Diario Oficial de la Federación, el sábado 4 de diciembre de 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
+
+Ley publicada en el Diario Oficial de la Federación el sábado 4 de diciembre de 1948.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -122,3 +124,31 @@ SEGUNDO.- Se derogan las disposiciones legales anteriores, que se opongan a la p
 Fernando Amilpa, D.P.- Donato Miranda Fonseca, S. V. P.- Manuel Flores Castro, Jr., D. S.- Fidel Velázquez, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez días del mes de noviembre de mil novecientos cuarenta y ocho.- Miguel Alemán, Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.- El Secretario de Educación Pública, Manuel Gual Vidal.- Rúbrica.- El Secretario de Salubridad y Asistencia, Rafael Pascasio Gamboa.- Rúbrica.- El Secretario de Agricultura y Ganadería, Nazario S. Ortiz Garza.- Rúbrica.- El Secretario de Recursos Hidráulicos, Adolfo Orive Alba.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, Agustín García López.- Rúbrica.- El Jefe del Departamento Agrario, Mario Souza.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Bienes Nacionales e Inspección Administrativa, Alfonso Caso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 21 DE MAYO DE 2003.
+
+Primero. Esta Ley entrará en vigor a los cuarenta y cinco días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley de creación del Instituto Nacional Indigenista, publicada en el Diario Oficial de la Federación el 4 de diciembre de 1948, conservando la Comisión Nacional para el Desarrollo de los Pueblos Indígenas la personalidad jurídica y el patrimonio del Instituto Nacional Indigenista.
+
+Tercero. La Secretaría de Hacienda y Crédito Público realizará las adecuaciones presupuestarias necesarias para el tratamiento de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas como entidad no sectorizada.
+
+Cuarto. La Junta de Gobierno de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas expedirá el Estatuto Orgánico de dicha entidad en un plazo de noventa días, contado a partir de la entrada en vigor de esta Ley.
+
+En tanto se expide el Estatuto Orgánico, se continuará aplicando el del Instituto Nacional Indigenista en lo que no se oponga a esta Ley; y en lo no previsto se estará a lo que resuelva la Junta de Gobierno.
+
+Quinto. El Consejo Consultivo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas deberá estar instalado dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+
+Sexto. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas establecerá el Servicio Profesional de Carrera a que se refiere el artículo 19 dentro del año siguiente a la entrada en vigor de esta Ley.
+
+Séptimo. Los trabajadores del Instituto Nacional Indigenista seguirán siéndolo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, conservando su antigüedad, derechos y condiciones laborales.
+
+Octavo. Dentro de los nueve meses siguientes a la entrada en vigor de esta Ley, las dependencias de la Administración Pública Federal propondrán al Presidente de la República, dentro del ámbito de sus respectivas competencias, las modificaciones del marco jurídico que consideren necesarias para el pleno desarrollo de los pueblos indígenas.
+
+Noveno. Los asuntos pendientes de trámite del Instituto Nacional Indigenista seguirán a cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+Décimo. Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga al Instituto Nacional Indigenista, se entenderá hecha a la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+Onceavo. Aquellos programas del Instituto Nacional Indigenista cuya finalidad se relacione con las atribuciones que la Ley Orgánica de la Administración Pública Federal y otras leyes confieren a las distintas dependencias y entidades, serán transferidos a las mismas, con los recursos correspondientes, en el plazo que convenga la Comisión Nacional para el Desarrollo de los Pueblos Indígenas con la instancia respectiva.
