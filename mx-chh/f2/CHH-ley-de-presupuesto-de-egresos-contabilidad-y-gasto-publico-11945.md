@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2000-12-30"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -71,7 +71,9 @@ III. Poder Ejecutivo,
 
 A los poderes mencionados en el artículo anterior, se les denominará genéricamente en la presente ley como "entidades" y salvo mención expresa, se entenderá por "dependencias" a las unidades de la administración centralizada y por "organismos", las unidades de la administración paraestatal.
 
-Para efectos de esta ley, a la Dirección General de Finanzas y Administración se le denominará indistintamente por su nombre o como "La Dirección".
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Para efectos de esta ley, a la Secretaría de Finanzas se le denominará indistintamente por su nombre o como "La Secretaría".
 
 ###### ARTICULO 5.
 
@@ -331,6 +333,10 @@ III.- Economías del presupuesto dentro de un mismo programa.
 
 IV.- Ingresos adicionales hasta por un monto igual al 5% del Presupuesto Directo autorizado por el H. Congreso del Estado, las que serán aplicadas preferentemente a programas prioritarios estratégicos del Plan Estatal de Desarrollo.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Corresponde a la Secretaría autorizar la asignación de los recursos presupuestales a que se refieren las fracciones III y IV de esta disposición.
+
 ###### ARTICULO 40.
 
 Se requerirá la autorización específica del H. Congreso del Estado para asignar recursos adicionales en todos los casos no señalados en el artículo anterior, principalmente tratándose de:
@@ -447,9 +453,11 @@ II.- Ajustarse a las necesidades de personal que requiera el desarrollo de sus p
 
 III.- Que la correspondiente asignación de remuneraciones se sujete, en su caso, a los catálogos y tabuladores expedidos por la Dirección y a las plazas y montos autorizados por el H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 56.
 
-De acuerdo a lo establecido en la Constitución Política del Estado, el Ejecutivo Estatal a través de la Dirección determinará la compatibilidad en el desempeño de dos o más empleos o comisiones por los que se disfrute sueldo o remuneración. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+De acuerdo a lo establecido en la Constitución Política del Estado, el Ejecutivo Estatal, a través de la Secretaría de Administración, determinará la compatibilidad en el desempeño de dos o más empleos o comisiones por los que se disfrute sueldo o remuneración. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
 
 ###### ARTICULO 57.
 
@@ -467,17 +475,21 @@ V.- Cumplir con las demás disposiciones aplicables, y
 
 VI.- Expedir los nombramientos por cada ejercicio fiscal.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 58.
 
-La Dirección mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
+La Secretaría de Administración mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
 
-El Ejecutivo Estatal verificará la forma en que se invertirán los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes deberán proporcionar a la Dirección la información respecto a la aplicación de los mismos.
+El Ejecutivo Estatal verificará la forma en que se invertirán los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes deberán proporcionar a la Secretaría de Finanzas y a la Secretaría de Administración, en el ámbito de su respectiva competencia, la información respecto a la aplicación de los mismos.
 
-Quienes manejen o efectúen Gasto Público Estatal en los términos del párrafo anterior deberán proporcionar a la Dirección la información que le solicite y permitirle a su personal la práctica de visitas y revisiones para verificar el cumplimiento de las obligaciones que establece esta Ley y demás disposiciones que se expidan con base en la misma.
+Quienes manejen o efectúen Gasto Público Estatal en los términos del párrafo anterior deberán proporcionar a las Secretarías de Finanzas y de Administración la información que les soliciten y permitirle a su personal la práctica de visitas y revisiones para verificar el cumplimiento de las obligaciones que establece esta Ley y demás disposiciones que se expidan con base en la misma.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 59.
 
-El otorgamiento de becas se sujetará a las disposiciones existentes sobre la materia y en su defecto a los lineamientos que fije la Dirección.
+El otorgamiento de becas se sujetará a las disposiciones existentes sobre la materia y en su defecto a los lineamientos que fije la Secretaría de Administración.
 
 ###### ARTICULO 60.
 
@@ -485,7 +497,9 @@ Para el ejercicio y pago de viáticos, las entidades deberán sujetarse a lo sig
 
 I. Autorizar exclusivamente el pago a personal al servicio del Gobierno del Estado,
 
-II. Aplicar en lo conducente los instructivos que la Dirección expida para la asignación de viáticos en el desempeño de comisiones, tanto en territorio nacional como en el extranjero,
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+II. Aplicar en lo conducente los instructivos que la Secretaría de Administración expida para la asignación de viáticos en el desempeño de comisiones, tanto en territorio nacional como en el extranjero.
 
 III. Para la salida del personal al extranjero el titular del Ejecutivo, el Presidente del Poder Legislativo y del Judicial deberán expedir acuerdo expreso, justificando su necesidad con los programas y objetivos de la misma dependencia,
 
@@ -603,9 +617,11 @@ La contabilización de las operaciones financieras y presupuestales del Gobierno
 
 La Dirección deberá efectuar el cierre de la contabilidad gubernamental por año calendario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 76.
 
-Es responsabilidad del Poder Ejecutivo, por conducto de la Dirección, en coordinación con los Poderes Legislativo y Judicial, establecer un sistema de control interno destinado a:
+Es responsabilidad del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de la Secretaría de Administración, según corresponda a las atribuciones de cada una, en coordinación con los Poderes Legislativo y Judicial, establecer un sistema de control interno destinado a:
 
 I. Fijar los lineamientos de organización, así como los métodos y medidas de coordinación para proteger el patrimonio del Estado.
 
@@ -878,3 +894,27 @@ P.O. 30 DE DICIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del año 2001.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
