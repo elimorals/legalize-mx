@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1922-12-31"
+last_updated: "1924-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -639,13 +639,11 @@ XI. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado, 
 
 XII. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 1924)</small>
 
-XIII. Convocar a elecciones de Gobernador, en caso de falta absoluta del que está ejerciendo el cargo, ocurrida antes de los últimos dieciocho meses del periodo Constitucional, a fin de que concluya dicho período.
+XIII. Convocar a elecciones de Gobernador, en caso de falta absoluta del que está ejerciendo el cargo, ocurrida antes de los últimos dieciocho meses del período Constitucional, a fin de que concluya dicho período.
 
-En este caso, entre tanto que se verifican las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del expresado funcionario, por más de treinta días, la Legislatura designará, para que sustituya al Ejecutivo, un Diputado de ella, propietario o suplente en ejercicio, que será electo por la mayoría de la misma.
-
-Si la falta temporal fuere de treinta días o menos se encargará del Poder Ejecutivo el Secretario General del Despacho.
+En este caso, entre tanto que se verifican las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del expresado funcionario, por más de treinta días, la Legislatura elegirá al substituto por mayoría de votos y en escrutinio secreto, debiendo el electo llenar los requisitos constitucionales para tal cargo. Entre tanto se hace la elección se encargará del Poder Ejecutivo el Secretario del Despacho, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días.
 
 XIV. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
@@ -1040,3 +1038,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE DICIEMBRE DE 1922.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 22 DE MAYO DE 1924.
+
+###### ARTICULO SEGUNDO
+
+La presente reforma surtirá sus efectos desde la fecha de su promulgación.
