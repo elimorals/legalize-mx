@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2003-12-30"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -397,9 +397,9 @@ SEGUNDO.- Para los efectos de lo dispuesto en los artículos 6 y 7 de esta Ley, 
 
 DEL DECRETO NUM. 242. (sic)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Durante los años 2004 y 2005 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
+Durante el año 2005 los factores a que se refieren los artículos arriba citados, se calcularán conforme a las proporciones que se señalan a continuación:
 
 FACTORES FACTORES
 
@@ -407,7 +407,9 @@ AÑO 1999 LEY
 
 2004 70% 30%
 
-2005 65% 35%
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+2005 70% 30%
 
 El factor de distribución del Fondo Municipal de Participaciones y el del Fondo de Fomento Municipal que corresponda a cada Municipio será el que resulte de sumar el factor de distribución aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento establecido en la presente Ley para cada uno de los fondos multiplicado por el porcentaje arriba señalado.
 
@@ -472,3 +474,7 @@ UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del a
 P.O. 30 DE DICIEMBRE DE 2003.
 
 PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2004, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2005, previa publicación en el Periódico Oficial del Gobierno del Estado.
