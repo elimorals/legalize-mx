@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-para-el-curso-de-instruccion-de-1007"
 country: "mx"
 rank: "reglamento"
 publication_date: "1947-10-29"
-last_updated: "1951-09-29"
+last_updated: "1959-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1007&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1947-10-20"
 
 REGLAMENTO ORGANICO PARA EL CURSO DE INSTRUCCION DE GUARDIAMARINAS DEL CUERPO GENERAL Y DEL CUERPO DE INGENIEROS MECANICOS NAVALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1959.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial, el miércoles 29 de octubre de 1947.
 
@@ -81,11 +81,11 @@ El más antiguo de los Guardiamarinas en cada buque será designado Brigadier de
 
 Durante las prácticas de puerto, los Guardiamarinas serán relevados del servicio de guardia en tanto duran la citada práctica.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1959)</small>
 
 ###### ARTICULO 12.
 
-Los Guardiamarinas saldrán francos, previa autorización del comandante del buque, los días en que no se le haya nombrado guardia, servicio especial o trabajos profesionales, y siempre y cuando hubieren cumplido con estos, a plena satisfacción de sus instructores. Además, es motivo de anulación de franquicia, su poca dedicación profesional e inadecuado comportamiento, tanto a bordo como en tierra; quedando facultado en este caso el comandante de buque, a limitar la franquicia de este personal únicamente a los jueves, domingos y días festivos.
+Los Guardiamarinas saldrán francos los días jueves, domingos y festivos, previa autorización del ciudadano Comandante del buque, excepto los días de guardia o de servicio especial y siempre y cuando hayan cumplido con los trabajos que les hubieren sido encomendados por los instructores correspondientes.
 
 ###### ARTICULO 13.
 
@@ -199,13 +199,11 @@ Los auxiliares de los Jefes de Instrucción calificarán mensualmente el aprovec
 
 ### CAPITULO CUARTO. Del Curso
 
-> <small>N. DE E. DE CONFORMIDAD AL ACUERDO POR EL QUE SE MODIFICA EL TIEMPO DE SERVICIO, SE CREAN LAS PLAZAS DE TENIENTES DE CORBETA Y LA CANCELACION DE LAS GUARDIAMARINAS EN LOS CUERPOS GENERAL E INGENIEROS MECANICOS NAVALES DE LA ARMADA DE MEXICO, ASI COMO LAS ASIGNACIONES DE TECNICO QUE SEAN NECESARIAS PARA AQUELLOS GUARDIAMARINAS QUE RESULTEN APROBADOS EN LOS EXAMENES RESPECTIVOS Y A PARTIR DEL PRIMERO DE JULIO DEL PRESENTE AÑO.</small>
-
-> <small>(REFORMADO, D.O. 12 DE JUNIO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1959)</small>
 
 ###### ARTICULO 31.
 
-La duración del curso de Guardiamarinas será de un año seis meses, a partir de la fecha en que hubieren egresado de la Escuela Naval. El mes siguiente a la terminación de este período se denominará “De exámenes”; destinándose 15 días para su preparación en la citada Escuela y otros 15 a las pruebas.
+La duración del curso de Guardiamarinas será de un año, a partir de la fecha en que hubieren egresado de la Heroica Escuela Naval Militar. El mes siguiente a la terminación de este período se denominará De Exámenes; destinándose 15 días para su preparación en la citada Escuela y otros 15 a las pruebas.
 
 ###### ARTICULO 32.
 
@@ -668,3 +666,9 @@ EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 D.O.F. 29 DE SEPTIEMBRE DE 1951.
 
 TRANSITORIO.- El presente decreto surtirá sus efectos a partir del día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 10 DE ENERO DE 1959.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
