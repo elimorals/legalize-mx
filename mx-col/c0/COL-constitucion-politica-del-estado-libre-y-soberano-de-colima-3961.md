@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1999-09-25"
+last_updated: "1999-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -301,7 +301,9 @@ XVII.- Declarar la desaparición, suspensión definitiva y revocación de mandat
 
 XVIII.- Reorganizar la administración municipal, nombrando funcionarios interinos siempre que por cualquier motivo faltaren los designados por elección popular o cuando no hubiere habido elecciones y se esté en la segunda mitad del periodo municipal; pero si se estuviere en la primera mitad se convocará a elecciones;
 
-XIX.- Crear y suprimir municipios de acuerdo con el Ejecutivo y conforme a las bases que fija esta Constitución;
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+XIX.- Crear y suprimir municipios de acuerdo con el Ejecutivo y conforme a las bases que fija esta Constitución, siempre y cuando por lo menos el 51% de los ciudadanos de los municipios afectados, manifiesten su aprobación mediante plebiscito;
 
 XX.- Dirimir las cuestiones que sobre límites se susciten entre municipios;
 
@@ -419,13 +421,25 @@ De la Iniciativa y Formación de las Leyes.
 
 El derecho de iniciar Leyes corresponde:
 
-I.- A los Diputados.
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-II.- Al Gobernador.
+I.- A los Diputados;
 
-III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia.
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-IV.- A los Ayuntamientos en lo que se relaciona con asuntos de la Administración Municipal.
+II.- Al Gobernador;
+
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia;
+
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+IV.- A los Ayuntamientos en lo que se relaciona con asuntos de la administración municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 4% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -719,13 +733,17 @@ XXXVIII.- Expedir los nombramientos de los Magistrados del Tribunal de lo Conten
 
 XXXIX.- Organizar y conducir la planeación democrática del desarrollo del Estado y establecer los medios para la participación ciudadana y la consulta popular.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-XL.- Promover el desarrollo del Estado en materia económica, social y cultural; y
+XL.- Promover el desarrollo del Estado en materia económica, social y cultural;
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-XLI.- Las demás que le confiera expresamente esta Constitución.
+XLI.- Solicitar al Instituto Electoral del Estado someta a plebiscito, en los términos que disponga la Ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+XLII.- Las demás que le confiera expresamente esta Constitución.
 
 ###### Artículo 59.
 
@@ -1099,6 +1117,10 @@ El Instituto Electoral del Estado agrupará para su desempeño, en forma integra
 
 El Instituto Electoral del Estado realizará el cómputo de cada elección; otorgará constancias de mayoría a los candidatos que hubieren obtenido el triunfo; declarará la validez de las elecciones de diputados de mayoría relativa y Ayuntamientos; y hará la declaratoria de validez y la asignación de diputados y regidores según el principio de representación proporcional.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+El Instituto Electoral del Estado tendrá a su cargo, además, la realización del plebiscito y referéndum, en los términos de la Ley respectiva.
+
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación de los que conocerán, según la competencia, el Instituto Electoral del Estado y el Tribunal Electoral del Estado, en los términos que señale la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos sobre el acto o la resolución impugnados.
@@ -1111,7 +1133,9 @@ El Tribunal Electoral del Estado tendrá competencia para:
 
 a).- Realizar el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiere obtenido el mayor número de votos;
 
-b).- Substanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y la ley, las impugnaciones que se susciten en materia electoral;
+> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+b).- Sustanciar y resolver en forma firme y definitiva, en los términos de esta Constitución y el Código o Ley respectiva, las impugnaciones que se susciten en materia electoral, de referéndum y plebiscito;
 
 c).- Dirimir los conflictos o diferencias laborales entre el Tribunal, el Instituto Electoral del Estado y sus servidores;
 
@@ -1122,6 +1146,10 @@ e).- Expedir su reglamento interior; y
 f).- Realizar las demás atribuciones que le confiera la ley.
 
 Las resoluciones del Tribunal Electoral serán definitivas y sólo podrán ser impugnadas ante el Tribunal Federal Electoral, en los términos establecidos por el artículo 99 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito y de referéndum, serán causa de responsabilidad. Las leyes respectivas determinarán las sanciones correspondientes.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1292,6 +1320,14 @@ Aprobado por el Cabildo el gasto público ejercido el año anterior, los Ayuntam
 ###### Artículo 94.
 
 Los Ayuntamientos, tendrán facultades para expedir en base a la Ley Orgánica del Municipio Libre, los bandos de policía y buen gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 5% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la Ley respectiva.
+
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Los actos de gobierno de las autoridades municipales podrán ser sometidos a plebiscito, en los términos de la ley respectiva.
 
 ###### Artículo 95.
 
@@ -1575,6 +1611,14 @@ III.- Que cuando sean aprobadas las adiciones o reformas, se pase a los Ayuntami
 
 IV.- Si no se obtuviere el voto de las dos terceras partes de los Diputados y la aprobación de la mayoría de los Ayuntamientos, se entenderá desechado el proyecto de Ley respectivo.
 
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidos a referéndum derogatorio, total o parcialmente, si dentro de los 45 días naturales siguientes a la fecha de su publicación así se solicita al Congreso del Estado por el 7% cuando menos, de los ciudadanos del Estado inscritos en el listado nominal de electores, debidamente identificados.
+
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Las reformas o adiciones objetadas serán derogadas si más del 50% de los ciudadanos que participen en el referéndum, votan en tal sentido, siempre y cuando intervengan cuando menos una tercera parte de los inscritos en el listado nominal de electores. En este caso, no podrán ser objeto de nueva iniciativa antes de dos años. Es improcedente el referéndum en materia fiscal o tributaria.
+
 ###### Artículo 131.
 
 El Cómputo de votos de los Ayuntamientos para los efectos del artículo anterior, se hará por corporaciones y no por personas.
@@ -1641,9 +1685,11 @@ Al concluir el período en que fueron electos los Funcionarios a que se refiere 
 
 Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto alguno que no conste en los presupuestos o que sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que lo ordenen como a los empleados que lo obedezcan.
 
+> <small>(REFORMADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 144.
 
-Cuando se decrete aumento de los sueldos a los funcionarios de elección popular, ese aumento no lo percibirán los que funcionen en el período en que se decrete, sino los que entren a ejercer en el inmediato.
+El Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia, los Diputados Locales, Presidentes Municipales, Síndicos, Regidores, así como todos los servidores públicos, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que será determinada anual y equitativamente en los presupuestos de egresos del Gobierno del Estado y municipios o en los de las dependencias paraestatales o paramunicipales, según corresponda.
 
 ###### Artículo 145.
 
@@ -1859,6 +1905,10 @@ III.- Establezcan su domicilio dentro del territorio del Estado.
 
 Las prerrogativas y obligaciones de los ciudadanos del Estado de Colima son las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
+
+Ejercer la facultad de iniciativa popular y participar en los procesos de referéndum y plebiscito, en la forma y términos que señale esta Constitución y la Ley respectiva.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 14.
@@ -1993,7 +2043,7 @@ P.O. 20 DE FEBRERO DE 1943.
 
 ###### Artículo 6.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932) (REPUBLICADO, P.O. 11 DE DICIEMBRE DE 1999)
 
 ###### Artículo 2°.
 
@@ -2270,3 +2320,15 @@ P.O. 25 DE SEPTIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE DICIEMBRE DE 1999.
+
+DECRETO No. 207, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE DICIEMBRE DE 1999.
+
+DECRETO No. 208, POR EL QUE SE REFORMA EL ARTICULO 144 Y SE DEROGA EL ARTICULO 6° TRANSITORIO DE LA CONSTITUCION DEL ESTADO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
