@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "1997-06-11"
+last_updated: "1998-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -173,13 +173,15 @@ XVIII.- BILLARES O BOLICHES: Establecimientos donde se practican los deportes de
 
 XIX.- HOTEL Y MOTEL: Establecimiento público donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas alcohólicas, siempre y cuando tengan dentro de su infraestructura general, por lo menos establecimiento de restaurante y cuenten con licencia o permiso autorizada específica, pudiendo ofrecer el servicio de bar en las habitaciones de acuerdo a su calidad turística que en todo caso dictamine la Secretaría de Turismo. La explotación de la licencia o permiso deberá ser directa por el operador del establecimiento principal, en observancia del artículo 32 de esta Ley.
 
-> <small>(F. DE E., P.O. 10 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
-XX.- CENTRO RECREATIVO Y DEPORTIVO: Lugar donde se ofrece al público servicios específicos e instalaciones deportivas y que podrán contar con venta y consumo de cerveza mediante la licencia o permiso autorizada específica.
+XX.- CENTRO RECREATIVO Y DEPORTIVO: Lugar donde se ofrecen al público servicios específicos e instalaciones deportivas incluyendo estadios, arenas, plazas de toros o cualquier otro lugar con actividad similar y que mediante la licencia o permiso autorizados de manera específica, podrán contar con venta y consumo de cerveza al menudeo en envases desechables, no de vidrio o metal ni de ningún otro material que represente un peligro al ser utilizados como proyectiles.
 
 XXI.- (DEROGADA, P.O. 8 DE ENERO DE 1997)
 
-XXII.- BAR: El lugar en el que se expenden bebidas alcohólicas en botella o en copa, sin la venta de alimentos, incluyéndose las botanas.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+XXII.- BAR: Establecimiento que vende preponderantemente bebidas alcohólicas en botella o al copeo para su consumo en el mismo local, incluyéndose necesariamente las botanas como complemento de las bebidas, pudiendo de manera adicional, presentar música viva, grabada o videograbada.
 
 ###### ARTICULO 10.
 
@@ -203,7 +205,9 @@ I.- No vender bebidas alcohólicas que estén adulteradas, contaminadas o altera
 
 II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos que esta Ley señala, a los inspectores de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
-III.- Poner en lugar visible el original de la licencia o permiso, revalidaciones de los dos últimos años. Puede tenerse copia certificada en exhibición de dichos documentos, pero los originales deberán estar en el mismo establecimiento en caja fuerte o en custodia, pero a solicitud del Inspector del ramo, deberán serle presentados.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+III.- Poner en lugar visible del propio establecimiento el original de la licencia o permiso.
 
 IV.- Retirar ebrios del establecimiento, cuando causen desorden, actos reñidos con la moral, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública.
 
@@ -217,7 +221,9 @@ Se prohibe a los propietarios, representantes legales, encargados o empleados de
 
 I.- La venta o consumo de bebidas alcohólicas a los menores de 18 años de edad.
 
-II.- Queda estrictamente prohibida la venta y consumo de toda clase de bebidas alcohólicas a personas en estado de ebriedad, bajo los efectos psicotrópicos, con carencias mentales y personas armadas. Asimismo se prohibe la venta y consumo de bebidas alcohólicas a militares y miembros de policía que se encuentren uniformados o en servicio excepto en los establecimientos a que se refieren las fracciones XII, XIII, XIV, XV, XVI, XIX y XX del artículo 8 de esta Ley.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+II.- Queda estrictamente prohibida la venta y consumo de toda clase de bebidas alcohólicas a personas en estado de ebriedad, bajo los efectos psicotrópicos, con carencias mentales y a personas armadas. Asimismo se prohibe la venta y consumo de bebidas alcohólicas a militares y miembros de policía que se encuentren uniformados o en servicio sin excepción alguna.
 
 III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones VIII; IX; X; XI; XVII; XVIII; XXI y XXII del artículo 8 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición.
 
@@ -253,21 +259,27 @@ VI.- Lugares en que lo exija la moralidad o salud pública.
 
 Igualmente se prohibe el consumo de bebidas alcohólicas, en el interior y exterior de los vehículos, en circulación o estacionados en la vía pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Las personas que concurran a los establecimientos que tengan licencia o permiso de funcionamiento conforme a lo establecido en la presente Ley, no podrán permanecer después de la hora fijada para su cierre.
+Las personas que concurran a los establecimientos que tengan licencia o permiso para la venta y consumo de bebidas alcohólicas conforme a lo establecido en la presente Ley, no podrán permanecer en ellos después de la hora fijada para su cierre.
 
 Cuando no obstante lo previsto en este artículo permanezcan algunas personas en el interior del establecimiento en contravención a esta disposición, se impondrá al propietario o encargado del mismo las sanciones que correspondan.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 17.
 
-Ningún establecimiento de los señalados en la presente Ley, podrán almacenar, distribuir, vender o consumir bebidas alcohólicas en botella cerrada o para su consumo inmediato, sin contar con la licencia o permiso de funcionamiento a que se refiere la presente Ley.
+Ningún establecimiento de los señalados en la presente Ley, podrá almacenar, distribuir o consumirse en ellos bebidas alcohólicas sin contar con la licencia o permiso a que se refiere la presente Ley.
 
 ###### ARTICULO 18.
 
 No se otorgarán licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas a:
 
-I.- Los funcionarios y empleados públicos.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+I.- A los servidores públicos de cualquier nivel de gobierno.
 
 II.- Los que no tengan capacidad legal de ejercicio.
 
@@ -275,7 +287,9 @@ III.- A quienes hayan sufrido condena por delitos sexuales, contra la vida o la 
 
 IV.- Los que hubieren tenido permiso y hayan cedido los derechos del mismo a terceras personas, sin la autorización respectiva de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
-V.- A establecimientos ubicados a menos de ciento cincuenta metros de otros similares; y,
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+V.- A establecimientos ubicados a menos de ciento cincuenta metros de otros que realicen alguna de estas actividades; y
 
 VI.- Reincidentes en la infracción de disposiciones sobre la materia.
 
@@ -295,7 +309,9 @@ IV.- Loncherías, coctelerías y taquerías de lunes a domingo de 9:00 horas a 1
 
 V.- (DEROGADA, P.O. 8 DE ENERO DE 1997)
 
-VI.- Centros turísticos, recreativos y deportivos de lunes a domingo de 9:00 horas a 19:00 horas.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+VI.- Centros recreativos y deportivos de lunes a domingo de 9:00 horas a 19:00 horas.
 
 VII.- Vinaterías, supermercados, depósitos, expendios, tiendas de abarrotes, botaneros, agencias, subagencias, minisupers y licorerías de lunes a domingo de 9:00 horas a 21:00 horas.
 
@@ -305,6 +321,14 @@ VIII.- Restaurantes de lunes a sábado de 9:00 horas a 2:00 horas, y domingo de 
 
 IX.- Bares de 13:00 horas a 1:00 horas, y bares anexos a hoteles de 13:00 horas a 2:00 horas, de lunes a domingo.
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+X.- Salón de billar o boliche de lunes a domingo de 10:00 horas a 22:00 horas, y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+XI.- Casino o club social de lunes a domingo de 10:00 horas a 3:00 horas, sin perjuicio de lo señalado por el artículo 23 de esta Ley.
+
 ###### ARTICULO 20.
 
 El horario estipulado en los artículos anteriores es para la venta y para el consumo, sin que por motivo alguno pueda excederse de lo señalado salvo el permiso expreso de la autoridad correspondiente.
@@ -313,41 +337,49 @@ El horario estipulado en los artículos anteriores es para la venta y para el co
 
 Es facultad del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, señalar discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas alcohólicas. En este caso, el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado los dará a conocer por los medios de comunicación social que considere convenientes, respetando por Ley, los días de elección popular, cambios de poder, e informes de gobiernos federales, estatales y municipales.
 
-> <small>(F. DE E., P.O. 10 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
-El Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá modificar los horarios establecidos y los días de funcionamiento a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, se podrá hacerlo mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesarios o convenientes los cambios indicados.
+El Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá modificar los horarios y los días establecidos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, se podrá hacerlo mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesario o convenientes los cambios indicados.
 
 Asimismo, el Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias o permisos que se expidan para aquellos establecimientos y giros en los que medien circunstancias especiales.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
-Los presidentes municipales, de acuerdo con las circunstancias propias de cada Municipio, podrán proponer, mediante escrito debidamente fundado y motivado, a las autoridades correspondientes la modificación de horarios y días de funcionamiento, los cuales para que entren en vigor deberán contar con el correspondiente acuerdo del Ejecutivo, emitido por conducto de su Secretaría de Finanzas y Administración.
+Los Presidentes Municipales de acuerdo con las circunstancias propias de cada Municipio, podrán proponer mediante escrito debidamente fundado y motivado a las autoridades correspondientes, la modificación de horarios y días para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, los cuales para que entren en vigor, deberán contar con el correspondiente acuerdo del Ejecutivo emitido por conducto de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 23.
 
-Las asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no económica, se sujetarán a los horarios y días de funcionamiento que establece la presente Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado considere conveniente.
+Las asociaciones civiles, centros cívicos, clubes de servicios o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no lucrativa, se sujetarán a los horarios y días establecidos en la presente Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado considere conveniente.
 
 ###### ARTICULO 24.
 
 Todos los establecimientos y giros a que se refiere esta Ley, se regirán para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, por los horarios que se señalen en la presente ley o los que se hagan constar en las propias licencias o permisos.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 25.
 
-Sólo el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá conceder horas extras a los establecimientos y giros señalados en esta Ley, para que funcionen fuera de las horas a que se refiere este mismo ordenamiento, previo pago de derechos, de conformidad con la Ley de Hacienda del Estado.
+Sólo el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, podrá conceder horas extras a los establecimientos y giros señalados en esta Ley, para que almacenen distribuyan, vendan o se consuma en ellos bebidas alcohólicas, fuera de las horas a que se refiere este Ordenamiento, previo pago de derechos, de conformidad con la Ley de Hacienda del Estado.
 
 ### CAPITULO V. DE LA EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 26.
 
-Para la apertura y el funcionamiento de los establecimientos y giros a que se refiere esta ley, se requerirá de la licencia o del permiso que expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, pudiendo emitir la opinión, en su caso, la autoridad municipal correspondiente, en los términos y con los requisitos que señale esta Ley.
+Para la apertura de los establecimientos y giros en las actividades de almacenamiento, distribución, venta y consumo a que se refiere esta Ley, se requerirá de licencia o permiso que expedirá el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, pudiendo emitir opinión, en su caso, la autoridad municipal correspondiente, en los términos y con los requisitos que señale esta Ley.
 
-Ningún establecimiento podrá iniciar su funcionamiento sin contar con la licencia o permiso respectivo.
+Ningún establecimiento de los que esta Ley regula, podrá iniciar sus actividades sin contar con la licencia o permiso respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 27.
 
-Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para la operación y funcionamiento de los establecimientos que se dediquen al almacenamiento, distribución, venta y consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a su juicio lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
+Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o el consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a juicio del Ejecutivo lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -385,9 +417,11 @@ Una vez practicada la inspección, y consecuentemente comprobado que el local re
 
 En los casos de solicitud de licencia o permiso para los establecimientos y giros a que se alude en el artículo 8 de esta Ley, el Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, en forma discrecional, podrá dispensar algún o algunos de los requisitos a que se refieren los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 32.
 
-Las licencias o permisos de funcionamiento, conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, ni arrendarse, darse en comodato, venderse o gravarse por cualquier concepto, salvo autorización expresa del titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia o permiso y la clausura del establecimiento que esté operando al amparo de la misma.
+Las licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, arrendamiento, comodato, venta o gravamen por cualquier concepto, salvo autorización expresa del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia o permiso y la clausura del establecimiento que esté operando al amparo de la misma.
 
 ###### ARTICULO 33.
 
@@ -395,9 +429,11 @@ Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimien
 
 En el caso de que hubiere oposición entre los herederos legítimos o testamentarios, deberá tomarse en cuenta lo que decida la autoridad judicial conforme al derecho civil para la expedición de la licencia o permiso al nuevo titular.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 34.
 
-Por servicio y otorgamiento de licencias o permisos y su refrendo anual, se cubrirán los derechos que señale la Ley de Hacienda del Estado.
+Por expedición de licencias, autorización de permisos eventuales, autorización de horarios extraordinarios, autorización de revalidaciones anuales de licencias o permisos, así como autorización de modificaciones tales como cambios de domicilio, ampliaciones de giro, reposición y duplicado de licencias a que se refiere esta Ley, se cubrirán los derechos que señale Ley de Hacienda del Estado.
 
 ###### ARTICULO 35.
 
@@ -433,7 +469,9 @@ II.- Que el local del establecimiento continúe reuniendo los requisitos exigido
 
 III.- Que el titular de la licencia o permiso se encuentre al corriente en el pago de sus obligaciones fiscales tanto estatales como municipales.
 
-IV.- Constancia original de la licencia o permiso y la revalidación o renovación, según corresponda.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+IV.- Original de la licencia o permiso.
 
 ###### ARTICULO 39.
 
@@ -463,15 +501,19 @@ La Secretaría de Finanzas y Administración del Gobierno del Estado, podrá oto
 
 Asimismo los H.H. Ayuntamientos, por conducto de sus Presidentes, podrán expedir permisos eventuales para bailes de especulación o negocio y fiestas tradicionales con venta de bebidas alcohólicas en envase abierto y al copeo, para una sola fecha o por varios días determinados. Estos permisos sólo se expedirán, en su caso, cuando lo soliciten clubes u organizaciones de servicio social o asistencial, legalmente constituidos. Los derechos que causen tales permisos, deberán cubrirse previamente en la oficina recaudadora de rentas del Gobierno del Estado.
 
-No se otorgarán permisos para la venta de bebidas alcohólicas en los domicilios particulares con motivo de festejo alguno. En caso de contravención a este precepto, la sanción procedente se impondrá tanto al propietario o poseedor del inmueble donde se cometa la infracción como al propietario de las bebidas alcohólicas o promotor de su venta, debiendo los inspectores de la Secretaría de Finanzas y Administración del Gobierno del Estado levantar el acta correspondiente.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+No se otorgarán permisos ni licencias para la venta de bebidas alcohólicas en los domicilios particulares con motivo de festejo alguno o por cualquier otro motivo o fin. En caso de contravención a este precepto, la sanción procedente se impondrá tanto al propietario o poseedor del inmueble donde se cometa la infracción como al propietario de las bebidas alcohólicas o promotor de su venta, debiendo los inspectores de la Secretaría de Finanzas y Administración del Gobierno del Estado o los elementos de los cuerpos policiacos correspondientes, levantar el acta respectiva.
 
 ###### ARTICULO 44.
 
 La Secretaría de Finanzas y Administración del Gobierno del Estado a través de la Dirección de Ingresos deberá recabar periódicamente de los H.H. Ayuntamientos, una relación de los permisos expedidos en los términos del artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 45.
 
-En todo caso de venta clandestina o de contravención al artículo 43 de esta Ley, se suspenderá la venta y se hará el secuestro de las bebidas alcohólicas para garantizar el interés fiscal independientemente de la aplicación de las sanciones que fija la Ley de la materia correspondiente. El producto se pondrá, en riguroso inventario, a disposición de la Secretaría de Finanzas y Administración del Gobierno del Estado para que se afecte al fin que legalmente proceda.
+En todo caso de venta clandestina de bebidas alcohólicas, entendiéndose por ésta la que se realiza en casa-habitación o en cualquier otro lugar sin contar con la licencia o permiso correspondiente, se suspenderá la venta y se hará el secuestro de las bebidas alcohólicas y envases vacíos de las mismas, para garantizar el interés fiscal independientemente de la aplicación de las sanciones que señala el Capítulo XII de esta Ley. El producto se pondrá, en riguroso inventario, a disposición de la Secretaría de Finanzas y Administración del Gobierno del Estado para que se afecte al fin que legalmente proceda.
 
 Los inspectores o servidores públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a otras disposiciones, lo comunicarán a la autoridad competente.
 
@@ -579,7 +621,9 @@ VIII.- En los casos de reincidencia a las infracciones a que se refiere el Capí
 
 IX.- En los casos de que el permisionario haya cambiado de domicilio del establecimiento sin antes haber solicitado de las autoridades correspondientes, el permiso respectivo, o de que esté operando con giro distinto al que indica su licencia.
 
-X.- Por operar fuera de los horarios establecidos en la licencia o permiso de funcionamiento correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+X.- Por operar fuera de los horarios establecidos en la licencia o permiso correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -599,9 +643,11 @@ Transcurridos los términos a que se refiere el artículo anterior, el Ejecutivo
 
 El Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos fácticos y legales que apoyen su decisión.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 57.
 
-Contra las resoluciones dictadas por la Autoridad competente, en violación a las disposiciones de esta Ley, se podrán interponer los medios de defensa previstos en el Código Fiscal del Estado.
+Contra las resoluciones dictadas por la Autoridad competente, en violación a las disposiciones de esta Ley, será optativo para el particular agotar los medios de defensa previstos en el Código Fiscal del Estado o intentar el juicio contencioso-administrativo ante la Sala Administrativa del Tribunal Superior de Justicia del Estado.
 
 ### CAPITULO X. DE LA CLAUSURA
 
@@ -615,9 +661,13 @@ La clausura procederá:
 
 A.) Clausura preventiva:
 
-I.- Cuando se opere fuera de los horarios establecidos en la licencia o permiso de funcionamiento correspondiente.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
-II.- Cuando las personas que ocurran a los establecimientos que tengan licencia o permiso de funcionamiento permanezcan después de la hora fijada para su cierre.
+I.- Cuando se opere fuera de los horarios establecidos en la licencia o permiso correspondiente.
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+II.- Cuando las personas que concurran a los establecimientos que tengan licencia o permiso expedido conforme a esta Ley, permanezcan en ellos después de la hora fijada para su cierre.
 
 III.- Cuando el establecimiento carezca de la autorización correspondiente.
 
@@ -645,19 +695,25 @@ La clausura deberá sujetarse a lo siguiente:
 
 I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada expedida por el titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, salvo lo previsto por el artículo 61.
 
-II.- Si la clausura afecta a un local, que además se dedique a otros fines comerciales o industriales, se ejecutará en tal forma que se suspenda únicamente el funcionamiento de venta o consumo de bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+II.- Si la clausura afecta a un local que además se dedique a otros fines comerciales o industriales, se ejecutará en tal forma que se suspenda únicamente las operaciones de venta o consumo de bebidas alcohólicas.
 
 ###### ARTICULO 61.
 
 La clausura podrá derivarse de la visita de inspección que practique la autoridad, sin que haya orden por escrito referente a la clausura, en los supuestos que se mencionan en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 62.
 
-El inspector o persona autorizada, que descubra un establecimiento que funciona en forma diversa a lo autorizado en la licencia o permiso que se le haya otorgado en los términos de esta Ley, levantará acta para consignar el hecho y procederá a secuestrar provisionalmente las bebidas alcohólicas que se encuentren en ese establecimiento, así como a la clausura del mismo. La clausura sólo se levantará una vez que se hubiere otorgado la licencia o permiso respectivo, así como cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales en su caso.
+El inspector o persona autorizada que descubra un establecimiento que funciona en forma diversa a la autorizada en la licencia o permiso que se le haya otorgado en los términos de esta Ley, levantará acta para consignar el hecho y procederá a secuestrar provisionalmente las bebidas alcohólicas que se encuentren en ese establecimiento, así como a la clausura del mismo. La clausura sólo se levantará una vez que se hubiere otorgado la licencia o permiso respectivo, así como cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales en su caso.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 63.
 
-Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de esta ley, deberán ser recuperadas por su propietario en un término de treinta días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece el presente ordenamiento.
+Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de esta Ley, a excepción de lo dispuesto por el artículo 45 en caso de venta clandestina, deberán ser recuperadas por su propietario en un término de cinco días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece el presente ordenamiento.
 
 ###### ARTICULO 64.
 
@@ -667,7 +723,9 @@ Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recup
 
 Una vez decretada la clausura preventiva o definitiva del establecimiento, los inspectores procederán a colocar los sellos respectivos previo inventario que al efecto formulen.
 
-Así mismo, procederá a retirar los sellos y a entregar el local y mobiliario a sus propietarios, cuando se dicte el acuerdo sobre el levantamiento de la clausura.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+Asimismo, cuando se dicte el acuerdo sobre el levantamiento de la clausura se procederá dentro de un término de veinticuatro horas contadas a partir de la fecha de la notificación del mismo, a retirar los sellos y a entregar el local y mobiliario al titular de la licencia o permiso.
 
 ###### ARTICULO 66.
 
@@ -675,9 +733,11 @@ Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorizació
 
 ### CAPITULO XI. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 67.
 
-El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley, se iniciará con la recepción de las actas de inspección que remitan los inspectores.
+El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley, se iniciará con la recepción de las actas de inspección que remitan los inspectores, o las que remitan los Cuerpos Policiacos respectivos.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1997)</small>
 
@@ -709,13 +769,13 @@ Una vez desahogadas las pruebas se dictará resolución dentro del plazo que al 
 
 Si la resolución decreta la sanción de multa, ésta se cubrirá en la forma y términos que disponga la misma, a través de las oficinas recaudadoras del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 73.
 
-La contravención a las disposiciones que se señalan en este ordenamiento se sancionará con multa, clausura del establecimiento o cancelación de las licencias de funcionamiento.
+La contravención a las disposiciones que se señalan en este Ordenamiento se sancionarán con multa, clausura del establecimiento o cancelación de la licencia o permiso respectivo.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 1997)</small>
-
-La aplicación de las sanciones consistentes en clausura definitiva y cancelación de la licencia de funcionamiento son facultades indelegables del Ejecutivo del Estado, por lo que sólo él podrá aplicarlas a través de su Secretaría de Finanzas y Administración.
+La aplicación de las sanciones consistentes en clausura definitiva y cancelación de la licencia para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, son facultades indelegables del Ejecutivo, por lo que sólo él podrá aplicarlas a través de la Secretaría de Finanzas y Administración.
 
 ###### ARTICULO 74.
 
@@ -747,7 +807,9 @@ i) Por la venta de bebidas con contenido alcohólico en los días prohibidos por
 
 j) A los solicitantes o titulares de licencias o permisos que suministren datos falsos a las autoridades del Estado, encargados de la aplicación y vigilancia de la presente Ley.
 
-k) A los que en cualquier forma enajenen, traspasen, arrienden, graven, alteren o afecten la licencia o permiso de funcionamiento, sin previa autorización de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+k) A los que en cualquier forma enajenen, traspasen, arrienden, graven, alteren o afecten la licencia o permiso para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, sin previa autorización de la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 l) Cuando el establecimiento opere sin haber tramitado u obtenido la revalidación de la licencia o permiso respectivo.
 
@@ -777,7 +839,9 @@ b) A los propietarios de los establecimientos a que se refiere el artículo 8 fr
 
 c) Por cualquier otro acto u omisión que infrinjan las disposiciones de esta Ley que no se encuentre previsto en las fracciones anteriores.
 
-Tratándose de las infracciones señaladas en la presente ley, en las fracciones I, II y III de este artículo, a la primera reincidencia se aplicará el doble de la sanción impuesta y la segunda será causal de la cancelación de la licencia o permiso de funcionamiento y clausura del establecimiento, en los casos que no se encuentren señalados específicamente.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+Tratándose de las infracciones señaladas en la presente Ley, en las fracciones I, II y III de este artículo, a la primera reincidencia se aplicará el doble de la sanción impuesta y la segunda será causal de la cancelación de la licencia o permiso para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas y, clausura del establecimiento, en los casos que no se encuentren señalados específicamente.
 
 ###### ARTICULO 76.
 
@@ -794,6 +858,30 @@ Las sanciones que establece la presente Ley se aplicarán y harán efectivas por
 ###### ARTICULO 79.
 
 El titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO XII. DE LOS DELITOS COMETIDOS POR MOTIVO DE LA VENTA ILICITA DE BEBIDAS ALCOHOLICAS
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 80.
+
+Se sancionará con prisión de uno a cuatro años y multa de veinte a quinientos días de salario mínimo general diario vigente en la Entidad, al que en forma ilícita permita, auspicie, induzca o realice la venta de bebidas alcohólicas en casa-habitación o en cualquier otro lugar, sin contar con la licencia o permiso respectivo.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 81.
+
+A quienes cometan en forma reiterada alguno de los delitos señalados, se les aplicará de cinco a siete años de prisión y multa de cien a mil días de salario mínimo. Para efectos de este artículo se considera reincidente a quien haya sido condenado por alguno de los delitos que establece este Capítulo mediante sentencia ejecutoria y vuelvan a cometer la misma conducta punitiva.
+
+La reincidencia en la comisión de estos delitos será considerada como delito grave.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 82.
+
+En el caso de los delitos precisados en esta Ley, independientemente de las medidas y sanciones que imponga la autoridad administrativa, procederá, en el procedimiento judicial respectivo, el decomiso de las bebidas alcohólicas, siempre y cuando éstas no hayan sido secuestradas por la autoridad administrativa, caso en el cual, el acta circunstanciada levantada por tal motivo, hará prueba de la preexistencia de las aludidas bebidas, cuyo documento en copia certificada, deberá ser puesto a disposición del agente investigador del Ministerio Público, a solicitud de éste.
 
 T R A N S I T O R I O S:
 
@@ -824,3 +912,9 @@ P.O. 11 DE JUNIO DE 1997.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
