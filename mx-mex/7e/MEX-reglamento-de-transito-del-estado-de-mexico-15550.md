@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "1998-10-08"
+last_updated: "1999-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE OCTUBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 1999.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -305,9 +305,17 @@ I. Factura o carta factura, en original y copia;
 
 II. Recibo del último pago del impuesto sobre tenencia o uso de vehículos en original y copia;
 
-III. Calcas del número de motor y del número de serie;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Forma de alta debidamente llenada;
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 1999)</small>
+
+III. Identificación oficial del propietario en original y copia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 1999)</small>
+
+IV. Constancia domiciliaria o recibos de servicios.
 
 V. Pago de derechos.
 
@@ -1548,3 +1556,9 @@ G.G. 8 DE OCTUBRE DE 1998.
 PRIMERO.- Publíquese el presente acuerdo en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 28 DE DICIEMBRE DE 1999.
+
+PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente acuerdo entrará en vigor el 1º de enero del año 2000.
