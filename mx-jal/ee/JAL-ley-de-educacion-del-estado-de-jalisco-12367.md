@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2003-03-04"
+last_updated: "2003-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -221,11 +221,11 @@ XIV.- Las demás que con tal carácter establezca esta ley y otras disposiciones
 
 DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### Artículo 14.
 
-Corresponde al ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
+Corresponden al Ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
 
 I.- Organizar e impartir los servicios de educación inicial, básica, incluyendo la indígena y especial, normal y las demás necesarias para la formación de maestros, incluyendo las modalidades de la educación no escolarizada y mixta;
 
@@ -239,7 +239,7 @@ b) Escuelas de Educación Preescolar.
 
 c) Escuelas Primarias.
 
-d) Escuelas Secundarias.
+d) Escuelas Secundarias
 
 e) Escuelas de Educación Media Superior.
 
@@ -257,109 +257,61 @@ k) Instituciones de Educación Superior.
 
 l) Bibliotecas;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 IV.- Elaborar, coordinar, ejecutar y evaluar los programas operativos anuales en materia educativa, de conformidad con las políticas, prioridades y lineamientos establecidos por el Programa Estatal de Desarrollo Educativo de Jalisco;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
-
-V.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar la escuela para padres;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+V.- Vigilar el estricto cumplimiento por parte de las empresas establecidas en el Estado de lo ordenado por la fracción XII del artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente a la obligación de establecer y sostener escuelas y centros de capacitación;
 
 VI.- Convocar a reuniones para estudiar los problemas educativos de la Entidad e impulsar el intercambio de estudiantes, profesores, investigadores y científicos con otros Estados, la Federación y con Instituciones educativas extranjeras y promover cuanto sea necesario para el desarrollo de la tecnología, la ciencia, la cultura, las artes y la educación en general;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 VII.- Proponer a la autoridad educativa federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, la normal y otras para la formación de educadores de preescolar, primaria y secundaria;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
-VIII.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, con respecto al calendario fijado por la Secretaría de Educación Pública, a efecto de que se cumpla con los 200 días de clase anual. En su ámbito de competencia revisará permanentemente las disposiciones, trámites y procedimientos con objeto de simplificarlos, reduciendo las cargas administrativas de maestros y directivos para alcanzar mayor tiempo efectivo de clases en cada ciclo;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+VIII.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, con respecto al calendario fijado por la Secretaría de Educación Pública, a efecto de que se cumpla con los 200 días de clase anual. En su ámbito de competencia revisará permanentemente las disposiciones, trámites y procedimientos con objeto de simplificarlos, reduciendo las cargas administrativas de maestros y directivos para alcanzar mayor tiempo efectivo de clase en cada ciclo;
 
 IX.- Formular y proponer planes y programas de estudio, distintos de los previstos en la fracción I del artículo 12 de la Ley General de Educación;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 X.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los educadores de preescolar, primaria y secundaria, de conformidad con las disposiciones generales que emita la autoridad educativa federal, buscando los conductos idóneos para facilitar a los docentes el acceso a los beneficios de la carrera magisterial;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
-XI.- Revalidar y otorgar equivalencias de estudio de la educación primaria, secundaria, normal y otras para la formación de educadores de preescolar, primaria y secundaria de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XI.- Revalidar y otorgar equivalencias de estudios de la educación primaria, secundaria, normal y otras para la formación de educadores de preescolar, primaria y secundaria de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
 XII.- Otorgar, negar y revocar autorización a los particulares para impartir la educación primaria, la secundaria, la normal y demás para la formación de educadores de preescolar, primaria y secundaria, así como supervisar el cumplimiento de sus funciones de acuerdo a lo que señalan las leyes;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XIII.- Distribuir de manera oportuna, completa, amplia y eficiente los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública proporcione, a los niveles de preescolar, primaria y secundaria;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
-XIV.- Editar y distribuir libros y material didáctico de apoyo educativo ajustados a las disposiciones de la Ley General de Educación, sin perjuicio de la distribución de los libros de texto gratuitos enviados por la Secretaría de Educación Pública.
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XIV.- Editar y distribuir libros y material didáctico de apoyo educativo ajustados a las disposiciones de la Ley General de Educación, sin perjuicio de la distribución de los libros de texto gratuitos enviados por la Secretaría de Educación Pública;
 
 XV.- Organizar y promover la investigación que sirva como base a la actualización educativa;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XVI.- Vincular a la educación con los sistemas productivos de la entidad, a fin de que se impulse el desarrollo de la enseñanza e investigación científica y tecnológica en acción armónica con el desarrollo estatal;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
 XVII.- Promover y fomentar en el Estado las actividades artísticas, culturales y deportivas destacando las aportaciones de los jaliscienses en estos campos a la cultura universal;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XVIII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones públicas que ofrezcan nuevas opciones para el educando;
 
-XVIII.- Promover la ampliación de los servidos (sic) educativos, fomentando la creación de instituciones públicas que ofrezcan nuevas opciones para el educando;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
-XIX.- Fomentar la producción y difusión de programas de radio, televisión y video, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de Comunicación;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XIX.- Fomentar la producción y difusión de programas de radio, televisión y video, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
 
 XX.- Promover que los contenidos de todo tipo de programas transmitidos por los medios de comunicación coadyuven al logro de los fines que la educación debe tener, en orden a lo establecido en la presente Ley;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XXI.- Organizar el Consejo Estatal de Participación Social en la Educación y propiciar la integración de los Consejos Municipales y Escolares de Participación Social en todos los niveles de la Educación;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
 XXII.- Celebrar en el ámbito de sus atribuciones los convenios que sean necesarios para cumplir con las funciones y deberes contenidos en el presente capítulo;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XXIII.- Administrar los fondos provenientes del Ejecutivo Federal para la educación en el Estado, con la prohibición expresa de cambiar su destino y finalidad. La violación a este precepto traerá como consecuencia sanciones administrativas penales y civiles, conforme a la legislación aplicable;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
 XXIV.- Crear un Sistema Estatal de Formación de Docentes que articule los ámbitos de formación inicial, actualización, capacitación, superación e investigación, en concurrencia con el sistema nacional y de acuerdo a los lineamientos emitidos en la Ley General de Educación;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XXV.- Crear un Sistema de Estímulos a la Docencia que brinde apoyos adicionales a los que impartan educación indígena y a la que se otorgue en zonas alejadas y de difícil acceso de la entidad;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
 XXVI.- Celebrar convenios con las empresas industriales y comerciales con la finalidad de establecer los mecanismos para otorgar estímulos económicos o de cualquier otra clase, a los hijos de los trabajadores que sobresalgan en sus estudios;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
-
 XXVII.- Coordinar el Servicio Social en el Estado;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XVIII.- Cumplir y hacer cumplir esta ley y sus disposiciones reglamentarias;
 
-XVIII.- Cumplir y hacer cumplir esta ley y sus disposiciones reglamentarias; y
+XXIX.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar la escuela de padres;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
+XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial.
 
-XXIX.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+XXXI.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -985,7 +937,13 @@ XI.- Promoverán mayor participación de la sociedad en la educación, así como
 
 XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior, y
 
-XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos así como alcanzar los propósitos mencionados en el artículo anterior.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2003)</small>
+
+XIII.- Establecerán convenio de coordinación y colaboración con las universidades e instituciones de educación superior, públicas y privadas en el Estado, para que garanticen el acceso a los espacios educativos de primer ingreso a los aspirantes indígenas si los hubiere.
+
+En igualdad de circunstancias y de conformidad a esta Ley se dará preferencia para la asignación de becas y apoyos educativos a los indígenas del Estado; y
+
+XIV.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos así como alcanzar los propósitos mencionados en el artículo anterior.
 
 ###### ARTICULO 93.
 
@@ -1612,5 +1570,17 @@ PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentaci�
 SEGUNDO.- Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
 
 P.O. 4 DE MARZO DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE JUNIO DE 2003.
+
+DECRETO 20000
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE JUNIO DE 2003.
+
+DECRETO No. 20001
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
