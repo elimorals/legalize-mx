@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1958-01-08"
+last_updated: "1959-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1959.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -909,17 +909,15 @@ IV.- Haber ejercido la profesión durante cinco años, cuando menos, a contar de
 
 Los Magistrados del Tribunal Superior de Justicia tomarán posesión de sus cargos el primero de mayo del año de su renovación, previa protesta de Ley que otorgarán ante el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1959)</small>
 
 ###### Artículo 84.
 
-Los Tribunales Inferiores son:
+Los Tribunales inferiores son:
 
 I.- Los Juzgados de Primera Instancia.
 
 II.- Los Juzgados Menores.
-
-III.- El Tribunal para Menores.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -933,11 +931,11 @@ Los Jueces de Primera Instancia tomarán posesión de su cargo en el mes de mayo
 
 Los Jueces Menores Propietario y Suplentes tomarán posesión de su empleo, previa la protesta legal ante los Ayuntamientos respectivos, en el mes de mayo del año de su renovación y durarán en dicho empleo dos años.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1959)</small>
 
 ###### Artículo 87.
 
-El Tribunal para Menores se constituirá en la forma que prescribe la Ley Orgánica del Poder Judicial y funcionará conforme a lo dispuesto en el Código de Procedimientos Penales.
+El Código del Menor establecerá los derechos, procedimientos y organismos destinados a la protección de los menores.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1564,3 +1562,7 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 P.O. 8 DE ENERO DE 1958.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 1959.
+
+PRIMERO.- Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
