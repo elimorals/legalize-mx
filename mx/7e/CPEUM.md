@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1951-03-28"
+last_updated: "1951-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1951.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -624,11 +624,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1951)</small>
 
 ###### Art. 52.
 
-Se elegirá un diputado propietario por cada ciento cincuenta mil habitantes, o por una fracción que pase de setenta y cinco mil, teniendo en cuenta el censo general del Distrito y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
+Se elegirá un Diputado Propietario por cada ciento setenta mil habitantes o por una fracción que pase de ochenta mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio, pero en ningún caso la representación de un Estado será menor de dos diputados y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
 
 ###### Art. 53.
 
@@ -970,7 +970,7 @@ c).- Gasolina y otros productos derivados del petróleo;
 
 d).- Cerillos y fósforos;
 
-e).- Aguamiel y productos de su fermentación; y
+e).- Aguamiel y productos de su fermentación; y (sic)
 
 f).- Explotación forestal;
 
@@ -2327,3 +2327,7 @@ D.O.F. 28 DE MARZO DE 1951.
 ###### ARTICULO UNICO.
 
 La adición al artículo 131 de la Constitución General de la República, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 11 DE JUNIO DE 1951.
+
+La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
