@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1994-02-02"
+last_updated: "1994-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1994.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9437,29 +9437,47 @@ Las autoridades Estatales y Municipales y los habitantes del Estado tienen el de
 
 Para coordinar las acciones de la Federación, Estado, Municipio y particulares en obras de agua y saneamiento, se crea un organismo público descentralizado con personalidad jurídica y patrimonio propios denominado Junta Central de Agua y Saneamiento, con domicilio en la Capital del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 1994)</small>
 
 ARTICULO 1551 BIS.- El patrimonio del Organismo se forma:
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 1991)</small>
+
 I.- Por los ingresos que le sean asignados por la Federación, el Estado o los Municipios;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 1991)</small>
 
 II.- De los bienes transferidos y que se le transfieran por la Federación, el Estado o los Municipios;
 
-III.- De los ingresos provenientes de las Juntas Municipales por concepto de asistencia técnica y material, que en ningún caso podrán ser superiores al cinco por ciento de sus ingresos mensuales;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 1994)</small>
+
+III.- Con el 5% (cinco por ciento) de la totalidad de los ingresos por derechos mensuales percibidos por las Juntas Municipales y Rurales.
+
+Para los efectos anteriores, se entenderá por ingresos aquellos que correspondan a las percepciones realmente ingresadas derivadas de los derechos por la prestación de servicio, así como los derechos por obras y proyectos por fraccionamientos y otros desarrollos urbanos.
+
+Esta aportación no será exigible en el supuesto de una junta cuyo estado financiero arroje déficit operativo.
+
+Es facultad discrecional de la Junta Central determinar en cada caso, el monto a aportar cuando la diferencia entre el ingreso y el egreso totales de las juntas municipales o rurales, sea menor del 5% a que se refiere este artículo. En este caso, la diferencia no será acumulable ni exigible por la Junta Central, en posteriores ejercicios.
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 1991)</small>
 
 IV.- De los bienes que se allegue en forma diversa.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 1552.
 
 La Junta General tiene las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 I.- Vigilar la organización y funcionamiento de las Juntas Municipales.
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 1991)</small>
 
 II.- Proporcionar asesoría técnica a las Juntas Municipales y organizar el cuerpo del servicio profesional de agua y saneamiento, de carácter permanente y con funciones especializadas en las áreas técnica y administrativa, cuyos miembros deberán cubrir el requisito de formación y capacitación correspondiente y solo podrán ser removidos por las causas aplicables a los trabajadores de base del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 III.- Prever el desarrollo de las poblaciones para adecuar las fuentes de abastecimiento de agua potable, redes de distribución y colectores.
 
@@ -9469,19 +9487,29 @@ IV.- Designar a su propio personal y al de las Juntas Municipales, a propuesta d
 
 La Junta Central determinará los casos en que las Juntas Municipales deban contar con el servicio profesional de agua y saneamiento, necesario para la mejor prestación del servicio, designado al personal correspondiente.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
 V.- Aprobar las tarifas para el cobro de los derechos de agua y saneamiento, a propuesta de la Junta Municipal respectiva;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 VI.- Aprobar en el mes de noviembre su Presupuesto de Ingresos y Egresos y los de las Juntas Municipales, a propuesta de éstas, que deberán regir en el año siguiente;
 
 Dentro de los tres primeros meses de cada año deberá formular los estados financieros del año anterior y el informe anual de actividades;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
 VII.- Avalar, cuando así se requiera, los créditos que se otorguen a las Juntas Municipales;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 VIII.- Programar la prestación de los servicios de agua potable y drenaje en los centros de población y especialmente en aquellos donde no existan;
 
 > <small>(REFORMADA, P.O. 28 DE ENERO DE 1984)</small>
 
 IX.- Realizar en coordinación con las Dependencias federales, municipales y otras entidades, las obras que sean necesarias para la captación, conducción y potabilización del agua y saneamiento;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 X.- Formular el inventario de las fuentes acuíferas para suministro de agua a las poblaciones; y
 
@@ -9493,9 +9521,13 @@ XI.- Establecer las restricciones que el interés público exija para el uso y a
 
 XII.- Prestar, con el concurso de los Municipios los servicios de agua potable y saneamiento en los términos de los convenios que deberá celebrarse para tal efecto; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 1994)</small>
+
+XIII.- Fiscalizar los ingresos mensuales de las Juntas Municipales y Rurales, para veriiciar (sic) el exacto cumplimiento de la fracción III del Artículo anterior.
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE ENERO DE 1984)</small>
 
-XIII.- Las demás que les fijen otras disposiciones legales.
+XIV.- Las demás que les fijen otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -9953,25 +9985,43 @@ Los encargados de los Registros Públicos de la Propiedad, los Notarios y demás
 
 Las infracciones al artículo anterior serán sancionadas por las Juntas Central o Municipales con multa equivalente al doble de los derechos adeudados.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 1600.
 
-Son infracciones de los funcionarios y empleados de las Juntas Central y Municipales:
+Son infracciones de los funcionarios y empleados de las Juntas Central, Municipal y Rurales.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 I.- Autorizar la conexión a los servicios de agua y alcantarillado sin que se hayan cumplido, en las obras respectivas, las especificaciones fijadas por la Junta Central;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
 II.- Autorizar la conexión a los servicios de agua y alcantarillado sin que se hayan cubierto los derechos en los términos de la tarifa aprobada por la Junta Central;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 III.- No exigir el pago de los derechos contenidos en la tarifa correspondiente;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
 IV.- No cumplir con las órdenes de inspección;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
 
 V.- Asentar datos o hechos falsos en las actas de inspección;
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
 VI.- Alterar los datos de medición del consumo de agua; y
 
-VII.- Intervenir en cualquier forma para que se eluda el pago de los derechos.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1982)</small>
+
+VII.- Intervenir en cualquier forma para que se eluda el pago de los derechos;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 1994)</small>
+
+VIII.- Incumplir los de la primera con las obligaciones contenidas en la fracción XIII, del artículo 1552 y los de la segunda y tercera, la que les impone la fracción III, del artículo 1551 Bis, de este Código.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -10127,15 +10177,15 @@ DECIMA SEGUNDA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA TERCERA PARTE
-
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11223,7 +11273,7 @@ SE DEROGAN LA DÉCIMA SEGUNDA PARTE, LIBRO UNICO, DE LAS RESPONSABILIDADES Y SAN
 
 P.O. 1 DE JUNIO DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 8 DE ENERO DE 1992.
 
@@ -11266,3 +11316,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- ESTA LEY ENTRARA EN VIGOR A LOS VEINTE DIAS SIGUIENTES DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN LAS DISPOSICIONES CONTENIDAS EN EL LIBRO SEXTO, TERCERA PARTE, DEL CODIGO ADMINISTRATIVO DEL ESTADO.
+
+P.O. 27 DE JULIO DE 1994.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
