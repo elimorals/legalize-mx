@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13154"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-09"
-last_updated: "2004-09-03"
+last_updated: "2004-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004 Y REPUBLICADA, 15 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de septiembre de 1988.
 
@@ -57,9 +57,13 @@ II. Llevar a cabo por sí, o a través de terceros, las actividades antes mencio
 
 III. Obtener financiamiento y créditos con cargo a su patrimonio, con sujeción a las disposiciones legales aplicables;
 
-IV. Explotar y operar por sí, o a través de terceros, mediante concesiones o cualquier otro acto jurídico permitido en términos de las disposiciones legales aplicables, los bienes y servicios relacionados con su objeto;
+(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004) (REPUBLICADA, P.O. 15 DE NOVIEMBRE DE 2004)
 
-V. Celebrar cualesquier convenio, con cesionarios o adquirientes de cualesquiera de sus derechos, con el propósito de determinar los términos y condiciones respecto de la operación, explotación y mantenimiento de las autopistas de cuota, las cuotas de peaje aplicables y cualesquier mecanismo aplicable para la determinación de dichas cuotas de peaje, así como los demás ingresos relacionados con las actividades o servicios conexos, complementarios o auxiliares, incluyendo los convenios previstos en los Artículos 16 y 17 de esta ley;
+IV. Explotar por sí, o a través de terceros mediante concesiones o cualquier otro acto jurídico permitido en términos de las disposiciones legales aplicables, los bienes y servicios relacionados con su objeto;
+
+(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004) (REPUBLICADA, P.O. 15 DE NOVIEMBRE DE 2004)
+
+V. Celebrar cualesquier convenio con el propósito de determinar los términos y condiciones respecto de la operación, explotación y mantenimiento de las autopistas de cuota, así como para la determinación de las cuotas de peaje y demás ingresos relacionados con las actividades o servicios conexos, complementarios o auxiliares, incluyendo los convenios previstos en los Artículos 16 y 17 de esta Ley y en el Artículo 129 de la Ley de Administración Financiera para el Estado de Nuevo León;
 
 VI. Participar en sociedades afines con su objeto, previa autorización de las instancias legales correspondientes;
 
@@ -229,17 +233,27 @@ Excepto por lo dispuesto en el párrafo siguiente, las cuotas y tarifas que esta
 
 En caso de que las cuotas de peaje y/o el derecho a percibirlas se hayan afectado con fundamento en lo dispuesto por el artículo 17 de esta Ley, el fiduciario o el Organismo administrador de los recursos, podrán ser los que autoricen las modificaciones a las cuotas y tarifas en la medida en que sea necesario para el cumplimiento de las obligaciones financieras derivadas de la afectación.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004) (REPUBLICADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 17o.
 
-Los recursos que perciba el organismo se destinarán a cubrir sus costos de administración y operación, a la conservación de las autopistas que le sean propias y de aquellas cuyo mantenimiento, operación o administración le correspondan, y sus excedentes, a la promoción, construcción, mejoramiento y ampliación de la red de autopistas del Estado, así como para fortalecer las finanzas públicas de éste.
+Los recursos que perciba el organismo, se destinarán principalmente a cubrir sus costos de administración y operación, a la conservación de las autopistas que le sean propias y de aquellas cuyo mantenimiento, operación o administración le correspondan, y sus excedentes, a la promoción, construcción, mejoramiento y ampliación de la red de autopistas del Estado, así como para fortalecer las finanzas públicas de éste.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
 Por acuerdo del Ejecutivo del Estado, las cuotas de peaje y/o el derecho a percibir dichas cuotas, podrán ser objeto de gravamen o afectación en fideicomiso o en cualquier otra figura, que permita, mediante actos que no generen un pasivo directo o contingente a cargo del Estado, la obtención de fondos destinados a la prestación de los servicios públicos que el Estado otorga a la comunidad, o bien, a la consolidación o pago de la deuda pública centralizada o paraestatal.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 Corresponderá exclusivamente al Organismo resarcir de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione a terceros por cualquier incumplimiento a los convenios celebrados en términos del artículo 2° fracción V de esta Ley, relacionadas con la afectación en fideicomiso o gravamen a que se refiere el presente artículo.
 
-Corresponderá exclusivamente al Estado resarcir de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione a terceros, si por cualquier acto o hecho de una entidad o autoridad gubernamental estatal, se provoca el incumplimiento de las obligaciones asumidas por el organismo o por el fiduciario respectivo, relacionadas con la afectación en el fideicomiso o gravamen a que se refiere el presente Artículo.
+(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004) (REPUBLICADO, P.O. 15 DE NOVIEMBRE DE 2004)
+
+Corresponderá exclusivamente al Estado resarcir de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione a terceros, si por cualquier acto o hecho de una entidad o autoridad gubernamental estatal, se provoca el incumplimiento de las obligaciones asumidas por el organismo relacionadas con la afectación en el fideicomiso o gravamen a que se refiere el presente Artículo.
+
+(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004) (REPUBLICADO, P.O. 15 DE NOVIEMBRE DE 2004)
+
+Los contratos que celebren los fideicomisos a que se refiere el segundo párrafo de este Artículo con cargo a su patrimonio, se regirán por las disposiciones que se estipulen en los contratos respectivos y las del derecho común.
 
 ### CAPITULO IV. DE LAS RELACIONES LABORALES
 
@@ -286,3 +300,13 @@ Artículo Segundo.- A la entrada en vigor de la presente reforma se ratifica el 
 Artículo Tercero.- Los derechos de reversión y los derechos fideicomisarios que correspondan al Estado de Nuevo León conforme al Fideicomiso 1339 de fecha 27 de mayo de 1992 redundarán en beneficio del Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León.
 
 Artículo Cuarto.- En caso de que se modifique posteriormente la Ley que crea el Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León, se deberán respetar los derechos de los terceros que hayan contratado con el organismo, en los términos y condiciones pactados.
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+REPUBLICADO, P.O. 15 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Toda referencia a fideicomisos en la Ley de Administración Financiera para el Estado de Nuevo León, se entenderá hecha a fideicomisos públicos, a menos que se especifique lo contrario.
+
+Artículo Tercero.- Las disposiciones del presente Decreto no le serán aplicables a los fideicomisos constituidos antes de la entrada en vigor del mismo.
