@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1993-09-23"
+last_updated: "1994-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1994.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1217,19 +1217,13 @@ El marido y la mujer, mayores de edad, tienen capacidad para administrar, contra
 
 El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
-
 ###### ARTICULO 174.
 
-Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+(DEROGADO, D.O.F. 6 DE ENERO DE 1994)
 
 ###### ARTICULO 175.
 
-También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
-
-La autorización, en los casos a que se refieren éste y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+(DEROGADO, D.O.F. 6 DE ENERO DE 1994)
 
 ###### ARTICULO 176.
 
@@ -6951,7 +6945,13 @@ I.- Público abierto;
 
 II.- Público cerrado; y
 
-III.- Ológrafo.
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1994)</small>
+
+III.- Público simplificado; y
+
+> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 1994)</small>
+
+IV.- Ológrafo.
 
 ARTICULO 1,501.- El especial puede ser:
 
@@ -6979,7 +6979,9 @@ VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o her
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
-ARTICULO 1,503.- Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el Notario, dos intérpretes nombrados por el mismo testador.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
+ARTICULO 1,503.- Cuando el testador ignore el idioma del país, un intérprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ARTICULO 1,504.- Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquiera coacción.
 
@@ -6997,37 +6999,47 @@ ARTICULO 1,510.- Si los interesados están ausentes o son desconocidos, la notic
 
 ### CAPITULO II. Del testamento público abierto
 
-ARTICULO 1,511.- Testamento público abierto, es el que se otorga ante Notario y tres testigos idóneos.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+ARTICULO 1,511.- Testamento público abierto es el que se otorga ante notario, de conformidad con las disposiciones de este Capítulo.
 
-ARTICULO 1,512.- El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-ARTICULO 1,513.- Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+ARTICULO 1,512.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
-ARTICULO 1,514.- Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-###### ARTICULO 1515.
+ARTICULO 1,513.- En los casos previstos en los artículos 1514, 1516 y 1517 de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
+ARTICULO 1,514.- Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
+
+ARTICULO 1,515.- (DEROGADO, D.O.F. 6 DE ENERO DE 1994)
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ARTICULO 1,516.- El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-ARTICULO 1,517.- Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1,512, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+ARTICULO 1,517.- Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1512, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-ARTICULO 1,518.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1,503. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
+ARTICULO 1,518.- Cuando el testador ignore el idioma del país, si puede, escribirá su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1503. La traducción se transcribirá como testamento en el respectivo protocolo y el original, firmado por el testador, el intérprete y el notario, se archivará, en el apéndice correspondiente del notario que intervenga en el acto.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido éste, se procederá como dispone el párrafo primero de este artículo.
 
-ARTICULO 1,519.- Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
+En este caso el intérprete podrá intervenir, además, como testigo de conocimiento.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
+ARTICULO 1,519.- Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
 
 ARTICULO 1,520.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
@@ -7094,6 +7106,26 @@ ARTICULO 1,547.- Cumpliendo lo prescrito en los cinco artículos anteriores, el 
 ARTICULO 1,548.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
 ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,508 y 1,509, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 1994)</small>
+
+### Capítulo III Bis. Testamento público simplificado
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1994)</small>
+
+ARTICULO 1,549-Bis.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.
 
 ### CAPITULO IV. Del testamento ológrafo
 
@@ -7211,6 +7243,8 @@ ARTICULO 1,581.- Los testamentos otorgados por escrito, conforme a este Capítul
 
 ARTICULO 1,582.- Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Ministerio de la Guerra, y éste a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos del 1,571 al 1,578.
 
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+
 ### CAPITULO VII. Del testamento marítimo
 
 ARTICULO 1,583.- Los que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sea de guerra o mercante, pueden testar sujetándose a las prescripciones siguientes.
@@ -7232,8 +7266,6 @@ ARTICULO 1,590.- Los Agentes Diplomáticos, Cónsules o las autoridades marítim
 ARTICULO 1,591.- El testamento marítimo solamente producirá efectos legales falleciendo el testador en el mar, o dentro de un mes contado desde su desembarque en algún lugar donde conforme a la ley mexicana o a la extranjera, haya podido ratificar u otorgar de nuevo su última disposición.
 
 ARTICULO 1,592.- Si el testador desembarca en un lugar donde no haya Agente Diplomático o Consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
-
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
 ### CAPITULO VIII. Del testamento hecho en país extranjero
 
@@ -7371,6 +7403,8 @@ ARTICULO 1,636.- A falta de todos los herederos llamados en los capítulos anter
 
 ARTICULO 1,637.- Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
 
+## TITULO PRIMERO. Fuentes de las obligaciones
+
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
 ARTICULO 1,638.- Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
@@ -7396,8 +7430,6 @@ ARTICULO 1,646.- El juez decidirá de plano todas las cuestiones relativas a ali
 ARTICULO 1,647.- Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
 
 ARTICULO 1,648.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
-
-## TITULO PRIMERO. Fuentes de las obligaciones
 
 ### CAPITULO II. De la apertura y transmisión de la herencia
 
@@ -7779,6 +7811,8 @@ ARTICULO 1,786.- Por los créditos incobrables no hay responsabilidad.
 
 ARTICULO 1,787.- El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos, caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
+## TITULO SEGUNDO. Modalidades de las obligaciones
+
 ### CAPITULO VIII. De la rescisión y nulidad de las particiones
 
 ARTICULO 1,788.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -7788,8 +7822,6 @@ ARTICULO 1,789.- El heredero preterido tiene derecho de pedir la nulidad de la p
 ARTICULO 1,790.- La partición hecha con un heredero falso, es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
 ARTICULO 1,791.- Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
-
-## TITULO SEGUNDO. Modalidades de las obligaciones
 
 ### CAPITULO I. Contratos
 
@@ -8269,6 +8301,14 @@ ARTICULO 1,951.- Respecto de bienes muebles no tendrá lugar la rescisión, salv
 
 ARTICULO 1,952.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+De las obligaciones en general
+
+## TITULO TERCERO. De la transmisión de las obligaciones
+
 ### CAPITULO II. De las obligaciones a plazo
 
 ARTICULO 1,953.- Es obligación a plazo aquella para cuyo cumplimiento se ha señalado un día cierto.
@@ -8294,14 +8334,6 @@ II.- Cuando no otorgue al acreedor las garantías a que estuviese comprometido;
 III.- Cuando por actos propios hubiese disminuído aquellas garantías después de establecidas, y cuando por caso fortuito desaparecieren, a menos que sean inmediatamente substituídas por otras igualmente seguras.
 
 ARTICULO 1,960.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-De las obligaciones en general
-
-## TITULO TERCERO. De la transmisión de las obligaciones
 
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
@@ -8565,6 +8597,12 @@ ARTICULO 2,049.- El cesionario debe, por su parte, satisfacer al cedente todo lo
 
 ARTICULO 2,050.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
+## TITULO CUARTO. Efectos de las obligaciones
+
+I.- Efectos de las obligaciones entre las partes
+
+Cumplimiento de las obligaciones
+
 ### CAPITULO II. De la cesión de deudas
 
 ARTICULO 2,051.- Para que haya sustitución de deudor es necesario que el acreedor consienta expresa o tácitamente.
@@ -8580,12 +8618,6 @@ ARTICULO 2,055.- El deudor sustituto queda obligado en los términos en que lo e
 ARTICULO 2,056.- El deudor sustituto puede oponer al acreedor las excepciones que se originen de la naturaleza de la deuda y las que le sean personales; pero no puede oponer las que sean personales del deudor primitivo.
 
 ARTICULO 2,057.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
-
-## TITULO CUARTO. Efectos de las obligaciones
-
-I.- Efectos de las obligaciones entre las partes
-
-Cumplimiento de las obligaciones
 
 ### CAPITULO III. De la subrogación
 
@@ -8871,6 +8903,8 @@ ARTICULO 2,162.- El enajenante no tiene obligación de responder de los vicios r
 
 II.- Efectos de las obligaciones con relación a tercero
 
+## TITULO QUINTO. Extinción de las obligaciones
+
 ### CAPITULO I. De los actos celebrados en fraude de los acreedores
 
 ARTICULO 2,163.- Los actos celebrados por un deudor en perjuicio de su acreedor, pueden anularse, a petición de éste, si de esos actos resulta la insolvencia del deudor, y el crédito en virtud del cual se intenta la acción, es anterior a ellos.
@@ -8908,8 +8942,6 @@ ARTICULO 2,177.- El fraude, que consiste únicamente en la preferencia indebida 
 ARTICULO 2,178.- Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, prueba que el monto de las deudas de éste excede al de sus bienes conocidos, le impone al deudor la obligación de acreditar que tiene bienes suficientes para cubrir esas deudas.
 
 ARTICULO 2,179.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
-
-## TITULO QUINTO. Extinción de las obligaciones
 
 ### CAPITULO II. De la simulación de los actos jurídicos
 
@@ -8985,14 +9017,6 @@ ARTICULO 2,204.- Las deudas pagaderas en diferente lugar, pueden compensarse med
 
 ARTICULO 2,205.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
-### CAPITULO II. De la confusión de derechos
-
-ARTICULO 2,206.- La obligación se extingue por confusión cuando las calidades de acreedor y deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
-
-ARTICULO 2,207.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de su crédito o deuda.
-
-ARTICULO 2,208.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
-
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
 ARTICULO 2,224.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -9036,6 +9060,14 @@ ARTICULO 2,242.- Todos los derechos reales o personales transmitidos a terceros 
 PARTE SEGUNDA
 
 De las diversas especies de contratos
+
+### CAPITULO II. De la confusión de derechos
+
+ARTICULO 2,206.- La obligación se extingue por confusión cuando las calidades de acreedor y deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
+
+ARTICULO 2,207.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de su crédito o deuda.
+
+ARTICULO 2,208.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
 ### CAPITULO III. De la remisión de la deuda
 
@@ -9163,16 +9195,6 @@ ARTICULO 2,281.- Los peritos y los corredores no pueden comprar los bienes en cu
 
 ARTICULO 2,282.- Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
-### CAPITULO IV. De las obligaciones del vendedor
-
-ARTICULO 2,283.- El vendedor está obligado:
-
-I.- A entregar al comprador la cosa vendida;
-
-II.- A garantir las calidades de la cosa;
-
-III.- A prestar la evicción.
-
 ## TITULO PRIMERO
 
 De los contratos preparatorios.- La promesa.
@@ -9186,6 +9208,16 @@ ARTICULO 2,245.- La promesa de contrato sólo da origen a obligaciones de hacer,
 ARTICULO 2,246.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
 
 ARTICULO 2,247.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+### CAPITULO IV. De las obligaciones del vendedor
+
+ARTICULO 2,283.- El vendedor está obligado:
+
+I.- A entregar al comprador la cosa vendida;
+
+II.- A garantir las calidades de la cosa;
+
+III.- A prestar la evicción.
 
 ### CAPITULO V. De la entrega de la cosa vendida
 
@@ -9289,6 +9321,22 @@ ARTICULO 2,314.- Si el vendedor recoge la cosa vendida porque no le haya sido pa
 
 ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
+## TITULO SEGUNDO. De la compra-venta
+
+## TITULO TERCERO. De la permuta
+
+ARTICULO 2,327.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,250.
+
+ARTICULO 2,328.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ARTICULO 2,329.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ARTICULO 2,330.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ARTICULO 2,331.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las donaciones
+
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
 > <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
@@ -9326,22 +9374,6 @@ ARTICULO 2,321.- Tratándose de bienes ya inscritos en el Registro y cuyo valor 
 La constancia de la venta será ratificada ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
 ARTICULO 2,322.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
-
-## TITULO SEGUNDO. De la compra-venta
-
-## TITULO TERCERO. De la permuta
-
-ARTICULO 2,327.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,250.
-
-ARTICULO 2,328.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ARTICULO 2,329.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ARTICULO 2,330.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ARTICULO 2,331.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. De las donaciones
 
 ### CAPITULO IX. De las ventas judiciales
 
@@ -9607,6 +9639,10 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 ARTICULO 2,424.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
+## TITULO QUINTO. Del mutuo
+
+## TITULO SEXTO. Del arrendamiento
+
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
 ARTICULO 2,425.- El arrendatario está obligado:
@@ -9666,10 +9702,6 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
-
-## TITULO QUINTO. Del mutuo
-
-## TITULO SEXTO. Del arrendamiento
 
 ### CAPITULO IV
 
@@ -9795,48 +9827,6 @@ ARTICULO 2,457.- El permiso a que se refiere el artículo que precede, no será 
 
 ARTICULO 2,458.- Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-### CAPITULO VI. Del arrendamiento de bienes muebles
-
-ARTICULO 2,459.- Son aplicables al arrendamiento de bienes muebles las disposiciones de este Título que sean compatibles con la naturaleza de esos bienes.
-
-ARTICULO 2,460.- Si en el contrato no se hubiere fijado plazo, ni se hubiere expresado el uso a que la cosa se destina, el arrendatario será libre para devolverla cuando quiera, y el arrendador no podrá pedirla sino después de cinco días de celebrado el contrato.
-
-ARTICULO 2,461.- Si la cosa se arrendó por años, meses, semanas o días, la renta se pagará al vencimiento de cada uno de esos términos, salvo convenio en contrario.
-
-ARTICULO 2,462.- Si el contrato se celebra por un término fijo, la renta se pagará al vencerse el plazo, salvo convenio en contrario.
-
-ARTICULO 2,463.- Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por un solo precio, está obligado a pagarlo íntegro; pero si el arrendamiento se ajusta por períodos de tiempo, sólo está obligado a pagar los períodos corridos hasta la entrega.
-
-ARTICULO 2,464.- El arrendatario está obligado a pagar la totalidad del precio, cuando se hizo el arrendamiento por tiempo fijo y los períodos sólo se pusieron como plazos para el pago.
-
-ARTICULO 2,465.- Si se arriendan un edificio o aposento amueblados, se entenderá que el arrendamiento de los muebles es por el mismo tiempo que el del edificio o aposento, a menos de estipulación en contrario.
-
-ARTICULO 2,466.- Cuando los muebles se alquilaren con separación del edificio, su alquiler se regirá por lo dispuesto en este Capítulo.
-
-ARTICULO 2,467.- El arrendatario está obligado a hacer las pequeñas reparaciones que exija el uso de la cosa dada en arrendamiento.
-
-ARTICULO 2,468.- La pérdida o deterioro de la cosa alquilada, se presume siempre a cargo del arrendatario, a menos que él pruebe que sobrevino sin culpa suya, en cuyo caso será a cargo del arrendador.
-
-ARTICULO 2,469.- Aun cuando la pérdida o deterioro sobrevengan por caso fortuito, serán a cargo del arrendatario, si éste usó la cosa de un modo no conforme con el contrato, y sin cuyo uso no habría sobrevenido el caso fortuito.
-
-ARTICULO 2,470.- El arrendatario está obligado a dar de comer y beber al animal durante el tiempo en que lo tiene en su poder, de modo que no se desmejore, y a curarle las enfermedades ligeras, sin poder cobrar nada al dueño.
-
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,471.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario.
-
-ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrendtario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
-
-ARTICULO 2,473.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
-
-ARTICULO 2,474.- El que contrate uno o más animales especificados individualmente, que antes de ser entregados al arrendatario se inutilizaren sin culpa del arrendador, quedará enteramente libre de la obligación si ha avisado al arrendatario inmediatamente después que se inutilizó al animal; pero si éste se ha inutilizado por culpa del arrendador o si no se ha dado el aviso, estará sujeto al pago de daños y perjuicios, o a reemplazar el animal, a elección del arrendatario.
-
-ARTICULO 2,475.- En el caso del artículo anterior, si en el contrato de alquiler no se trató de animal individualmente determinado, sino de un género y número determinados, el arrendador está obligado a los daños y perjuicios, siempre que se falte a la entrega.
-
-ARTICULO 2,476.- Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza o de cría existente en él, el arrendatario tendrá, respecto del ganado, los mismos derechos y obligaciones que el usufructuario, pero no está obligado a dar fianza.
-
-ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de la finca arrendada.
-
 ## TITULO SEPTIMO. Del comodato
 
 ARTICULO 2,497.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
@@ -9879,6 +9869,48 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
+### CAPITULO VI. Del arrendamiento de bienes muebles
+
+ARTICULO 2,459.- Son aplicables al arrendamiento de bienes muebles las disposiciones de este Título que sean compatibles con la naturaleza de esos bienes.
+
+ARTICULO 2,460.- Si en el contrato no se hubiere fijado plazo, ni se hubiere expresado el uso a que la cosa se destina, el arrendatario será libre para devolverla cuando quiera, y el arrendador no podrá pedirla sino después de cinco días de celebrado el contrato.
+
+ARTICULO 2,461.- Si la cosa se arrendó por años, meses, semanas o días, la renta se pagará al vencimiento de cada uno de esos términos, salvo convenio en contrario.
+
+ARTICULO 2,462.- Si el contrato se celebra por un término fijo, la renta se pagará al vencerse el plazo, salvo convenio en contrario.
+
+ARTICULO 2,463.- Si el arrendatario devuelve la cosa antes del tiempo convenido, cuando se ajuste por un solo precio, está obligado a pagarlo íntegro; pero si el arrendamiento se ajusta por períodos de tiempo, sólo está obligado a pagar los períodos corridos hasta la entrega.
+
+ARTICULO 2,464.- El arrendatario está obligado a pagar la totalidad del precio, cuando se hizo el arrendamiento por tiempo fijo y los períodos sólo se pusieron como plazos para el pago.
+
+ARTICULO 2,465.- Si se arriendan un edificio o aposento amueblados, se entenderá que el arrendamiento de los muebles es por el mismo tiempo que el del edificio o aposento, a menos de estipulación en contrario.
+
+ARTICULO 2,466.- Cuando los muebles se alquilaren con separación del edificio, su alquiler se regirá por lo dispuesto en este Capítulo.
+
+ARTICULO 2,467.- El arrendatario está obligado a hacer las pequeñas reparaciones que exija el uso de la cosa dada en arrendamiento.
+
+ARTICULO 2,468.- La pérdida o deterioro de la cosa alquilada, se presume siempre a cargo del arrendatario, a menos que él pruebe que sobrevino sin culpa suya, en cuyo caso será a cargo del arrendador.
+
+ARTICULO 2,469.- Aun cuando la pérdida o deterioro sobrevengan por caso fortuito, serán a cargo del arrendatario, si éste usó la cosa de un modo no conforme con el contrato, y sin cuyo uso no habría sobrevenido el caso fortuito.
+
+ARTICULO 2,470.- El arrendatario está obligado a dar de comer y beber al animal durante el tiempo en que lo tiene en su poder, de modo que no se desmejore, y a curarle las enfermedades ligeras, sin poder cobrar nada al dueño.
+
+> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+
+ARTICULO 2,471.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario.
+
+ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrendtario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
+
+ARTICULO 2,473.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
+
+ARTICULO 2,474.- El que contrate uno o más animales especificados individualmente, que antes de ser entregados al arrendatario se inutilizaren sin culpa del arrendador, quedará enteramente libre de la obligación si ha avisado al arrendatario inmediatamente después que se inutilizó al animal; pero si éste se ha inutilizado por culpa del arrendador o si no se ha dado el aviso, estará sujeto al pago de daños y perjuicios, o a reemplazar el animal, a elección del arrendatario.
+
+ARTICULO 2,475.- En el caso del artículo anterior, si en el contrato de alquiler no se trató de animal individualmente determinado, sino de un género y número determinados, el arrendador está obligado a los daños y perjuicios, siempre que se falte a la entrega.
+
+ARTICULO 2,476.- Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza o de cría existente en él, el arrendatario tendrá, respecto del ganado, los mismos derechos y obligaciones que el usufructuario, pero no está obligado a dar fianza.
+
+ARTICULO 2,477.- Lo dispuesto en el artículo 2,465 es aplicable a los aperos de la finca arrendada.
+
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
@@ -9886,6 +9918,8 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 ARTICULO 2,478.- Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dado a la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
 
 ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
+
+## TITULO OCTAVO. Del depósito y del secuestro
 
 ### CAPITULO VIII. Del subarriendo
 
@@ -9896,8 +9930,6 @@ ARTICULO 2,481.- Si el subarriendo se hiciere en virtud de la autorización gene
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ARTICULO 2,482.- Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
-
-## TITULO OCTAVO. Del depósito y del secuestro
 
 ### CAPITULO IX. Del modo de terminar el arrendamiento
 
@@ -10085,13 +10117,17 @@ ARTICULO 2,555.- El mandato debe otorgarse en escritura pública o en carta pode
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para el que se confiere llegue a cinco mil pesos o exceda de esa cantidad;
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1994)</small>
+
+II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse; o
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-ARTICULO 2,556.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a cinco mil.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1994)</small>
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+ARTICULO 2,556.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
+
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
 
 ARTICULO 2,557.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
 
@@ -10229,6 +10265,10 @@ ARTICULO 2,593.- El procurador que ha substituído un poder, puede revocar la su
 
 ARTICULO 2,594.- La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
+## TITULO NOVENO. Del mandato
+
+## TITULO DECIMO. Del contrato de prestación de servicios
+
 ### CAPITULO VI. De los diversos modos de terminar el mandato
 
 ARTICULO 2,595.- El mandato termina:
@@ -10269,15 +10309,13 @@ ARTICULO 2,603.- El mandatario que renuncie tiene obligación de seguir el negoc
 
 ARTICULO 2,604.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2,597.
 
-## TITULO NOVENO. Del mandato
-
-## TITULO DECIMO. Del contrato de prestación de servicios
-
 ### CAPITULO I. Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario sólo pone su trabajo y del contrato de aprendizaje
 
 ARTICULO 2,605.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Reglamentaria que debe expedir el Congreso de la Unión, de acuerdo con lo ordenado en el párrafo 1o. del artículo 123 de la Constitución Federal.
 
 Mientras que esa ley no se expida, se observarán las disposiciones contenidas en los capítulos I, II, V y parte relativa del III, del Título XIII, del Libro Tercero del Código Civil para el Distrito y Territorios Federales, que comenzó a estar en vigor el 1o. de junio de 1884, en lo que no contradigan las bases fijadas en el citado artículo 123 constitucional, y lo dispuesto en los artículos 4 y 5 del mismo Código Fundamental.
+
+## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO II. De la prestación de servicios profesionales
 
@@ -10302,8 +10340,6 @@ ARTICULO 2,613.- Los profesores tienen derecho de exigir sus honorarios, cualqui
 ARTICULO 2,614.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2,589.
 
 ARTICULO 2,615.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO III. Del contrato de obras a precio alzado
 
@@ -10569,6 +10605,10 @@ ARTICULO 2,707.- Ningún socio puede ser excluído de la sociedad sino por el ac
 
 ARTICULO 2,708.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
+## TITULO SEGUNDO. Del registro publico
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+
 ### CAPITULO III. De la administración de la sociedad
 
 ARTICULO 2,709.- La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiese limitado a alguno de los socios, se observará lo dispuesto en el artículo 2,719.
@@ -10602,10 +10642,6 @@ ARTICULO 2,718.- El socio o socios administradores están obligados a rendir cue
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
 ARTICULO 2,719.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2,713.
-
-## TITULO SEGUNDO. Del registro publico
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. De la disolución de las sociedades
 
@@ -12185,64 +12221,6 @@ ARTICULO 3,073.- Las demás inscripciones que se practiquen en los folios de las
 
 ARTICULO 3,074.- Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2310, fracción II; 2312, 2673, 2694 y 2859 de este Código, y les serán aplicables a los registros las disposicoines (sic) relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
 
-### CAPITULO VI. De la extinción de las inscripciones
-
-ARTICULO 3,029.- Las inscripciones no se extinguen en cuanto a terceros, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real escrito a otra persona.
-
-ARTICULO 3,030.- Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
-
-ARTICULO 3,031.- La cancelación de las inscripciones podrá ser total o parcial.
-
-ARTICULO 3,032.- Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
-
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II.- Cuando se extinga también por completo el derecho inscrito;
-
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV.- Cuando se declare la nulidad de la inscripción;
-
-V.- Cuando sea vendido judicialmente el inmueble que reporte del gravamen en el caso previsto en el artículo 2,325;
-
-VI.- Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
-
-ARTICULO 3,033.- Podrá pedirse, y deberá decretarse, en su caso, la cancelación parcial:
-
-I.- Cuando se reduzca el inmueble objeto de la inscripción;
-
-II.- Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
-
-ARTICULO 3,034.- Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico.
-
-ARTICULO 3,035.- Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
-
-ARTICULO 3,036.- Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
-
-ARTICULO 3,037.- Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
-
-ARTICULO 3,038.- Los padres, como administradores de los bienes de sus hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-ARTICULO 3,039.- La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos;
-
-III.- Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
-
-ARTICULO 3,040.- Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
-
-ARTICULO 3,041.- Procederá también la cancelación total, si se presentase, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
-
-ARTICULO 3,042.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
-
-ARTICULO 3,043.- Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por qué se hace la cancelación y su fecha.
-
-ARTICULO 3,044.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
-
 ## ARTICULOS TRANSITORIOS
 
 > <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
@@ -12297,9 +12275,9 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-D.O.F. 1 DE SEPTIEMBRE DE 1932.
+D.O.F. 1o. DE SEPTIEMBRE DE 1932.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
@@ -12313,7 +12291,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
 
 ###### ARTICULO 1o.
 
@@ -12423,7 +12401,7 @@ SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente 
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
@@ -12531,9 +12509,9 @@ El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
-
 DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -12616,3 +12594,17 @@ TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente 
 D.O.F. 23 DE SEPTIEMBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
+
+D.O.F. 6 DE ENERO DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Todas las referencias en la Ley del Notariado para el Distrito Federal, al Departamento del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
+
+TERCERO.- Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
+
+CUARTO.- La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
+
+QUINTO.- Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
+
+SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
