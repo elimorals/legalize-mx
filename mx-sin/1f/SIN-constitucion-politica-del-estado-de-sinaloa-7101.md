@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-10-10"
+last_updated: "2003-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -483,11 +483,11 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 40.
 
-El último sábado del mes de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en Sesión Solemne, un informe por escrito sobre la situación que guarde la Administración Pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
+El quince de noviembre de cada año, el Ejecutivo del Estado remitirá al Congreso del Estado instalado en Sesión, un informe por escrito sobre la situación que guarda la Administración Pública. El Presidente de la Legislatura lo recibirá y remitirá a Comisiones para su conocimiento. Una vez recibido el informe, en fecha posterior, el Congreso celebrará reunión de trabajo, en los términos de su Ley Orgánica, con el titular del Ejecutivo y los miembros de su gabinete, para la valoración y análisis del informe rendido.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -2964,6 +2964,10 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La ley reglamentaria de los procesos de consulta y participación ciudadana deberá expedirse en un plazo no mayor de un año a partir del día siguiente al que entre en vigencia el presente Decreto, y previo a un proceso de amplia consulta a la ciudadanía así como a organismos e instituciones involucrados en el tema.
+
+P.O. 29 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO CUARTO.
 
