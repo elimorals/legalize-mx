@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2001-12-17"
+last_updated: "2002-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -417,9 +417,9 @@ III. Mantener relaciones con intermediarios financieros del exterior y recabar i
 
 IV. Operar sistemas y servicios relacionados con la concertación de operaciones con valores, oro, plata y divisas;
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
 
-V. Participar en la ejecución de los convenios internacionales en materia de pagos, créditos recíprocos y de cooperación financiera, en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal;
+V. Participar en la negociación y ejecución de los convenios internacionales de cooperación financiera, en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal;
 
 > <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
 
@@ -507,13 +507,13 @@ VI. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio 
 
 VII. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
 
-VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a inversiones, cambios, metales y monedas, o aquellas que se deriven de los convenios en los que el Banco sea parte o en los que actúe por cuenta del Gobierno Federal, y
+VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto de inversiones, cambios, metales y monedas, o aquellas que se deriven de los convenios internacionales en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal;
 
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
 
-IX. Administrar los servicios de depósito y custodia de valores, así como los relativos a las cajas de seguridad que lleve el Banco;
+IX. Administrar los servicios de depósito y custodia de valores;
 
 > <small>(ADICIONADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -522,6 +522,10 @@ X. Expedir certificados relacionados con la firma electrónica en favor de las p
 > <small>(ADICIONADA, D.O.F. 16 DE MARZO DE 2001)</small>
 
 XI. Autorizar, cuando lo estime conveniente, a las personas designadas por los intermediarios financieros para que expidan certificados relacionados con la firma electrónica a terceros y, en su caso, lleven el registro de los mismos, para los efectos señalados en la fracción anterior.
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2002)</small>
+
+XII. Participar en la negociación y ejecución de las operaciones previstas en los convenios internacionales en materia de pagos y créditos recíprocos en los que el Banco actúe por propio derecho o como agente financiero del Gobierno Federal; así como en la expedición de disposiciones y atención de autorizaciones, consultas y opiniones relacionadas con los citados convenios internacionales.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
@@ -745,9 +749,7 @@ III. Diseñar e implementar sistemas de comunicaciones que permitan a los interm
 
 IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y servicios necesarios para apoyar la seguridad del Banco, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
-
-V. Coordinar las actividades para la actualización de los sistemas y bienes del Banco para el año 2000.
+V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -1144,3 +1146,7 @@ UNICO. La presente adición entrará en vigor a partir de la fecha de su publica
 D.O.F. 17 DE DICIEMBRE DE 2001.
 
 UNICO.- Las presentes reforma y adición entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 2002.
+
+UNICO. Las presentes reformas y adiciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
