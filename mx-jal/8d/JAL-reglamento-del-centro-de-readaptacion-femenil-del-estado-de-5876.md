@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-centro-de-readaptacion-femenil-del-estado-de-587
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-10-31"
-last_updated: "1981-10-31"
+last_updated: "1999-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL CENTRO DE READAPTACION FEMENIL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el sábado 31 de octubre de 1981.
 
@@ -283,7 +283,9 @@ a) Físicos:
 
 1. Estatura mínima 1.60 mt.
 
-2. Edad 22 a 35 años.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1999)</small>
+
+2. Edad veintidós a cuarenta y cinco años.
 
 3. Sin defectos físicos visibles, ni cicatrices, mutilación o tatuajes.
 
@@ -1014,3 +1016,11 @@ Lic. Alfonso de Alba Martín
 El Jefe del Departamento de Servicios Coordinados de Prevención y Readaptación Social del Estado
 
 Lic. Antonio Sánchez Galindo
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE AGOSTO DE 1999.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo.- Las personas que ingresen al servicio deberán cumplir los demás requisitos exigidos por la Ley y sus reglamentos respectivos.
