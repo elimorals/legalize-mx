@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "1996-12-27"
+last_updated: "2001-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -61,7 +61,89 @@ V.- Constituir los organismos en materia de coordinación fiscal.
 
 En cumplimiento a lo dispuesto por los Artículos 2o., 2o.-A y 6o. de la Ley de Coordinación Fiscal Federal en vigor, la Legislatura del Estado, mediante las presentes disposiciones, establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponde a los Municipios en el Fondo Municipal de Participaciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 3o.
+
+El Fondo Municipal de Participaciones, se integrará con el 20% de los recursos que perciba el Estado procedente del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial Sobre Producción y Servicios en cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, así como la recaudación del Impuesto sobre Tenencia o uso de Vehículos, el Impuesto sobre Automóviles Nuevos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 4o.
+
+El Fondo Municipal de Participaciones, se distribuirá conforme a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+I. El 45.17%, en proporción directa al número de habitantes que tenga cada municipio en relación al total estatal, en el año de que se trate.
+
+El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, en el año que se publique.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+II. El 45.17% restante, mediante la aplicación de un coeficiente de participación que se determinará conforme a la siguiente fórmula:
+
+i Bi
+
+CP= -----------
+
+t TB
+
+Donde:
+
+i
+
+Cp= Coeficiente de participación del municipio i en el año para el que se efectúa el cálculo
+
+t
+
+TB= Suma de Bi
+
+i= Cada municipio
+
+(CP i ) (RA i )
+
+t-1 t-1
+
+Bi = ---------------------------------
+
+1
+
+RA
+
+t-2
+
+i
+
+CP= . Coeficiente de participación del municipio i en el año inmediato anterior a aquel para el
+
+t -1 cual se efectúa el cálculo
+
+i Recaudación asignable del municipio i en el año inmediato anterior a aquel para el cual se
+
+RA = efectúa el cálculo.
+
+t -1
+
+i Recaudación asignable del municipio i en el segundo año inmediato anterior a aquel
+
+RA = para el cual se efectúa el cálculo.
+
+t -2
+
+La recaudación asignable a que se refiere esta fracción, será la que se obtenga anualmente en materia de ingresos propios municipales; más la captación de cuotas por el servicio de agua potable, en los términos que establezca la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales.
+
+Se considerarán ingresos propios para los efectos de esta Ley, aquellos que tenga derecho a percibir el Municipio con motivo de su función pública, previstos en la Ley de Hacienda Municipal y Ley de Ingresos del Municipio que corresponda, con excepción de los mencionados en ambas leyes como "otros aprovechamientos"; las participaciones provenientes de los gobiernos federal o estatal, empréstitos tanto de particulares como de instituciones financieras, los derivados de financiamientos, en especial los que se obtengan de la ciudadanía para la realización de obras por aportación, subsidios, de los fondos de aportaciones federales, ni los derivados de los derechos de zona federal marítimo terrestre.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+III. El 9.66% restante, se distribuirá en proporción inversa a las participaciones por habitante que tenga cada municipio, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
+
+IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
 
 ###### ARTICULO 3.
 
@@ -89,9 +171,17 @@ Los factores de participación que conforme a las bases anteriores resulten, se 
 
 Las participaciones federales que correspondan a los municipios de el Fondo que establece esta Ley, se calcularán y pagarán por cada ejercicio fiscal.
 
-La Secretaría de Hacienda Pública y Tesorería, una vez identificada la asignación mensual provisional que le corresponda a la Entidad de los fondos previstos en la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponda a cada municipio.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-Acorde a lo dispuesto en el último párrafo del Artículo 7o. de la Ley de Coordinación Fiscal Federal, la liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieran participado provisionalmente.
+La Secretaría de Administración y Finanzas, una vez identificada la asignación mensual provisional que le corresponde a la Entidad de los fondos previstos en la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponda a cada municipio.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+La liquidación anual definitiva de participaciones federales a los municipios, y en consecuencia los respectivos coeficientes, se determinarán a más tardar dentro de los ocho meses siguientes al cierre de cada ejercicio fiscal, una vez aprobadas las cuentas públicas municipales por el Congreso del Estado, con lo cual se procederá a efectuar los ajustes a las participaciones derivadas de la aplicación del coeficiente preliminar y definitivo.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+En caso de que transcurrido el término señalado en el párrafo anterior, el Congreso del Estado no haya aprobado la cuenta pública municipal se utilizará como base la certificación que emita la Contaduría Mayor de Hacienda del órgano legislativo, de los ingresos propios que haya tenido en el ejercicio inmediato anterior del Municipio de que se trate.
 
 ###### ARTICULO 6.
 
@@ -300,3 +390,21 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
+
+P.O. 19 DE SEPTIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia sera a partir del 11 de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases
+
+a) Para los efectos de la Fracción II se tomarán en cuenta el factor definitivo de distribución de participaciones de 2001, calculado en base al anterior procedimiento y los ingresos municipales propios y por captación de cuotas por el servicio de agua potable de 1999 y 2000.
+
+b) El factor provisional resultante estará en vigor hasta que se calcule el factor definitivo de 2002 con base en el factor definitivo de distribución de participaciones de 2001, calculado con la anterior metodología así como en los ingresos propios de 2001, consignados en las cuentas públicas municipales aprobadas de 2001 y los informes sobre ingresos por cuotas de agua potable de las Juntas Municipales de Agua Potable y Alcantarillado correspondientes a 2001.
+
+Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Hacienda Pública y Tesorería, se entenderán hechas a la Secretaría de Administración y Finanzas.
+
+Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
+
+Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
+
+[...]
