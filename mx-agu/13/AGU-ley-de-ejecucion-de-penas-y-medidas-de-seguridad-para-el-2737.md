@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-2737"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-07"
-last_updated: "2003-07-21"
+last_updated: "2003-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. LA PRESENTE LEY SERA ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JULIO DE 2003; ORDENAMIENTO QUE ENTRARA EN VIGOR EL 8 DE OCTUBRE DE 2003.</small>
+> <small>N. DE E. LA PRESENTE LEY SERA ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JULIO DE 2003; ORDENAMIENTO QUE ENTRARA EN VIGOR EL 15 DE ENERO DE 2004.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2003.
 
 Ley publicada en el Suplemento al No. 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -587,7 +587,9 @@ UNICO.- La presente reforma entrará en vigor a los diez días siguientes a su p
 
 P.O. 21 DE JULIO DE 2003.
 
-PRIMERO.- El presente Decreto entrará en vigor el día 8 de octubre de 2003, con excepción de lo referente a la aplicación de recursos del Fondo para la Atención de Víctimas del Delito e indemnizaciones por sentencia absolutoria, que entrarán en vigor el día 15 de enero del año 2004.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2003)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor el día 15 de enero de 2004.
 
 SEGUNDO.- Se abroga el Código Penal para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 7 de agosto de 1994.
 
@@ -630,3 +632,7 @@ SEXTO.- Se recomienda a los Honorables Cabildos de los Municipios del Estado, a 
 SEPTIMO.- Las actividades legislativas descritas en el Artículo Transitorio Quinto del presente Decreto, se realizarán antes de la entrada en vigencia de la Legislación Penal del Estado de Aguascalientes.
 
 OCTAVO.- Los trámites iniciados conforme al contenido de los códigos y ley que con este decreto se abrogan, seguirán su curso conforme a las disposiciones de la misma. No obstante, puede aplicarse la normatividad que con este decreto se aprueba, previo acuerdo general sobre situaciones específicas de orden procedimental, dictaminado por la Procuraduría General de Justicia del Estado, Supremo Tribunal de Justicia y Secretaría General de Gobierno, en sus respectivos ámbitos de competencia.
+
+P.O. 6 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
