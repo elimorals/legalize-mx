@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2003-03-07"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -649,35 +649,43 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 
 X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
-XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos; así como, revisar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía;
+XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos, así como revisar, fiscalizar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar, fiscalizar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía.
+
+Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior, que se denominará Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
 XII.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos y reconocer y autorizar el pago de los adeudos que contraiga el Estado;
 
-XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando las dos terceras partes de los adeudos que contraiga el Estado; conveniente;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
+XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando lo estime conveniente. Esta revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y el cumplimiento de los objetivos contenidos en los programas.
 
 XIV.- Legislar sobre toda clase de aranceles;
 
-XV.- Vigilar el correcto funcionamiento de la Contaduría General de Glosa;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+
+XV.- Vigilar, por conducto de la Comisión correspondiente, el correcto funcionamiento y rendimiento de la Auditoría Superior de Michoacán.
 
 XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
 
 XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, y otorgar pensiones a ellas o a los familiares que comprueben encontrarse en difíciles condiciones económicas;
 
-XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XVIII.- Citar a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, para que informen cuando se discuta una ley, decreto o asunto concerniente a sus respectivos ramos o actividades;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
 XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos o consejos municipales en su caso, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros de conformidad con la Ley.
 
-Los miembros de los ayuntamientos y, en su caso, de los concejos (sic) municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+Los miembros de los ayuntamientos y, en su caso, de los concejos municipales, tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos (sic) municipales que conluirán los períodos respectivos; estos concejos (sic), estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso designará de entre los vecinos, a los miembros de los concejos municipales que concluirán los períodos respectivos; estos concejos, estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
-XX.- Designar a las personas que han de integrar los ayuntamientos o los concejos (sic) municipales, en su caso, cuando falte definitivamente alguna de ellas, por cualquier causa, y no sea posible que los suplentes electos entren en funciones. Los ciudadanos designados deberán cumplir los requisitos de elegibilidad que para el cargo respectivo establezca esta Constitución y las leyes de la materia;
+XX.- Designar a las personas que han de integrar los ayuntamientos o los concejos municipales, en su caso, cuando falte definitivamente alguna de ellas, por cualquier causa, y no sea posible que los suplentes electos entren en funciones. Los ciudadanos designados deberán cumplir los requisitos de elegibilidad que para el cargo respectivo establezca esta Constitución y las leyes de la materia;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -995,9 +1003,11 @@ IV.- Impedir a retardar las elecciones populares o la instalación de la Legisla
 
 V.- Intervenir en las elecciones para favorecer a personas determinadas;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Oficial Mayor;
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho del Poder Ejecutivo y a falta de éste será reemplazado por el Secretario de Planeación y Desarrollo Estatal.
+
+Cuando el Gobernador salga del territorio nacional con motivos oficiales, deberá informar a su regreso, por escrito al Congreso, en un plazo no mayor de quince días, sobre las acciones realizadas en el extranjero y los resultados obtenidos.
 
 VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
 
@@ -1041,7 +1051,7 @@ El Secretario de Gobierno será el órgano por el cual el Ejecutivo comunique su
 
 Al Secretario de Gobierno le corresponde representar al Titular del Poder Ejecutivo del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte.
 
-El Gobernador podrá autorizar que comparezcan ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -2167,7 +2177,7 @@ La ley determinará las profesiones que requieran título, la forma de su regist
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO NOVENO. Disposiciones Generales
+## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2251,7 +2261,7 @@ Todas las leyes relativas a previsión social se considerarán de orden público
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO. De las Reformas a la Constitución
+## TITULO NOVENO. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2349,7 +2359,7 @@ Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los indivi
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
+## TITULO DECIMO. De las Reformas a la Constitución
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2379,13 +2389,13 @@ Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin 
 
 V.- Las adiciones o reformas que fueren aprobadas, se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
 ###### Artículo 165.
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando, por alguna rebelión o estado grave de emergencia, se interrumpa su observancia.
 
 Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ## Artículos Transitorios.
 
@@ -2577,7 +2587,7 @@ SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente
 
 P.O. 7 DE JULIO DE 1983.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NO. 337, CONTIENE ADICIONA Y REFORMA AL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
 
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
@@ -2667,7 +2677,7 @@ PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación
 
 SEGUNDO.- Para ser operante la presente reforma constitucional, se requiere adecuar los tiempos de este año de elección; por lo cual, la Sexagésima Sexta Legislatura prolongará sus funciones en el Congreso hasta el 15 de diciembre del presente año, de modo que se pueda articular con la fecha de instalación de la Sexagésima Séptima Legislatura a elegir el segundo domingo de noviembre del año actual.
 
-TERCERO.- El titular del Poder Ejecutivo del Estado, por esta única ocasión , concluirá su período constitucional el día 15 de febrero de 1996, fecha en la que entrará a ejercer su cargo del Gobernador del Estado electo para el período Constitucional a iniciarse en esa fecha.
+TERCERO.- El titular del Poder Ejecutivo del Estado, por esta única ocasión, concluirá su período constitucional el día 15 de febrero de 1996, fecha en la que entrará a ejercer su cargo del Gobernador del Estado electo para el período Constitucional a iniciarse en esa fecha.
 
 CUARTO.- Para desahogar el trabajo legislativo propio de su competencia, la Legislatura actual en funciones lo hará bajo los mecanismos del artículo 32 de la Constitución vigente.
 
@@ -2806,6 +2816,12 @@ Una vez creada la Auditoría Superior de Michoacán, todos lo (sic) recursos hum
 Artículo Cuarto. El Contador General de Glosa, será titular de la Auditoría Superior de Michoacán hasta en tanto se haga una nueva designación; podrá ser ratificado para continuar en dicho encargo hasta completar el período de 4 años a que se refiere el artículo 134 reformado de esta Constitución.
 
 Artículo Quinto. Para dar cumplimiento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría de inmediato hacer llegar a los Ayuntamientos del Estado la presente minuta de proyecto de decreto, para que se someta a discusión y aprobación, haciendo del conocimiento del Congreso su resultado.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, se ordena a la Secretaría enviar a los Ayuntamientos del Estado, la minuta Proyecto de Decreto, para que en el término de un mes después de recibida, remitan al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
 
 ###### ARTÍCULO OCTAVO.
 
