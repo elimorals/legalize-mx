@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-3238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-31"
-last_updated: "1984-01-31"
+last_updated: "1995-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de enero de 1984.
 
@@ -613,7 +613,7 @@ La Secretaría llevará el registro de la situación patrimonial de los servidor
 
 Tienen obligación de presentar declaración anual de situación patrimonial ante la Secretaría, bajo protesta de decir verdad:
 
-I.- En el Congreso del Estado: Diputado, Oficial Mayor, Contador Mayor de Hacienda y Sub-Contador, Jefe de la Unidad Administrativa y Auditores.
+I.- (DEROGADA POR ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, P.O. 13 DE SEPTIEMBRE DE 1995)
 
 II.- En el Poder Ejecutivo Estatal: Todos los funcionarios desde el nivel de Jefes de Departamento hasta el Gobernador del Estado, además de los previstos en las Fracciones IV, V y VIII de este Artículo.
 
@@ -746,3 +746,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 1995.
+
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEXTO.- Se deroga la fracción I del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido de la presente Ley.
