@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-operaciones-de-compraventa-de-780"
 country: "mx"
 rank: "ley"
 publication_date: "1948-12-30"
-last_updated: "1949-01-27"
+last_updated: "1951-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=780&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1948-12-29"
 ---
 # LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHIDRIDO CARBONICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL 6 DE FEBRERO DE 1952 EN EL D.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHÍDRIDO CARBÓNICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL DIARIO OFICIAL DEL 27 DE ENERO DE 1949.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1951.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el 30 de diciembre de 1948.
 
@@ -45,19 +45,23 @@ LEY de Impuesto sobre Operaciones de Compraventa de Primera Mano de Anhídrido C
 
 Se establece un impuesto sobre operaciones de compraventa de primera mano de anhídrido carbónico, ya sea en estado sólido, líquido o gaseoso.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1951)</small>
+
 ###### ARTICULO 2°
 
 El impuesto se causará de acuerdo con la siguiente
 
-TARIFA:
+T A R I F A:
 
-I.- Anhídrido carbónico sólido (hielo seco), para fines de refrigeración, siempre que su venta se efectúe en las condiciones del medio ambiente en cuanto a presión y temperatura (por kilogramo) $0.02
+I.- Anhídrido carbónico en cualesquiera de sus Estados (por kilogramo) excepto el caso comprendido en la fracción siguiente $0.30
 
-II.- Anhídrido carbónico en cualesquiera de sus estados físicos (por kilogramo) $0.03
+II.- Anhídrido carbónico sólido (hielo seco) para fines de refrigeración, siempre que su venta se efectúe en las condiciones del medio ambiente en cuanto a presión y temperatura (por kilogramo) $0.02
 
-El impuesto a que se refiere el párrafo y tarifa anteriores, se causará cualquiera que sea el objeto y destino industrial del anhídrido carbónico y en los diversos estados físicos antes enunciados.
+El impuesto a que se refiere el párrafo y la tarifa anteriores, se causará cualquiera que sea el objeto y destino industrial del anhídrido carbónico y en los diversos estados físicos antes enunciados.
 
-Se autoriza a los causantes a repercutir en el precio de venta el monto estricto del impuesto y gastos de inspección creados por esta Ley.
+Los causantes deberán cargar al precio de venta el monto estricto del Impuesto y quedan obligados, para el efecto, a expedir facturas, notas de venta o de remisión a los adquirentes del producto, consignando en ellas, por separado, el precio de éste y el importe del impuesto respectivo.
+
+En el caso de que no repercutan el impuesto, se les impondrá una multa de $1,000.00 a $5,000.00 por cada infracción. En cuanto a las demás infracciones, se estará a lo dispuesto por el artículo 13”.
 
 ###### ARTICULO 3°
 
@@ -89,7 +93,7 @@ e).- Materias primas empleadas en la fabricación, en su caso.
 
 f).- Clasificación de los envases que se utilicen por la capacidad de los mismos, en kilogramos; y
 
-g).- Fecha de la manifestación, firma del gerente o administrador de la fábrica y sello de la empresa.
+g).-Fecha de la manifestación, firma del gerente o administrador de la fábrica y sello de la empresa.
 
 II.- Dar aviso a la Secretaría de Hacienda y Crédito Público, con diez días de anticipación de la suspensión definitiva de labores.
 
@@ -129,11 +133,13 @@ b).- Importadores.
 
 6.- “Visto bueno” de la aduana de importación, sellado y firmado por la misma.
 
-V.- Pagar, en la Oficina Federal de Hacienda que les corresponda, los días 15 y último de cada mes, o el hábil siguiente, si aquéllos no lo fueren, el sueldo del inspector fijo que la Secretaría de Hacienda designe a cada fábrica, planta de envasamiento o almacén y, además, el de un supervisor adscrito a la Dirección de Impuestos Interiores, en la proporción que fije la propia Secretaría.
+V.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 1951)
 
-Para el efecto, la citada dependencia comunicará oportunamente, a los causantes y a las oficinas exactoras, el monto de las cantidades que deben cubrirse.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1951)</small>
 
-VI.- Poner a disposición de las autoridades fiscales que ejerzan vigilancia en las fábricas, plantas de envasamiento o almacenes, o practiquen visita de supervisión, todos los elementos indispensables para el desempeño de sus funciones.
+VI.- Dar a las autoridades fiscales que ejerzan vigilancia en las fabricas, plantas de envasamiento o almacenes, o practiquen visitas de supervisión, las facilidades indispensables para el desempeño de sus funciones.
+
+Los sueldos, viáticos y demás gastos que se eroguen con motivo de la vigilancia y supervisión, serán a cargo del Erario Federal".
 
 VII.- Adaptar sus cilindros o recipientes destinados para el envasamiento de sus producto con las características que determine la Secretaría de Hacienda.
 
@@ -155,9 +161,9 @@ Iniciada una visita, no se suspenderá, por razones de tiempo, debiéndose emple
 
 XIII.- Uniformar el contenido de los envasas (sic) destinados a la distribución del anhídrido carbónico líquido, de tal suerte que corresponda en todos los casos a unidades de kilogramo. Esta disposición no se observará cuando se trate de anhídrido carbónico sólido (hielo seco), que se presenta en simples envolturas.
 
-XIV.- Hacer en sus fábricas, a su exclusivo costo, conforme a las disposiciones generales que dicte la Secretaría, las modificaciones que se requieran en la instalación de contadores y demás útiles necesarios, para una mejor inspección fiscal.
+XIV.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 1951)
 
-XV.- Solicitar autorización previa de la Dirección General de Impuestos Interiores, para cualquier variación en la instalación de contadores o de tuberías sellados por el personal fiscal, y
+XV.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 1951)
 
 XVI.- Presentar las manifestaciones, documentos y avisos que previene esta Ley o las disposiciones generales que se dicten, así como los demás datos que solicite la Secretaría relacionado con la industria y su estadística.
 
@@ -286,3 +292,13 @@ Se abroga la Ley del Impuesto sobre Anhídrido Carbónico, de 20 de junio de 194
 Eugenio Prado, D.P.-Gustavo Díaz Ordaz, S.P.-Manuel Flores Castro Jr., D.S.-Fausto A. Marín. S. S.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debía publicación y observancia expido a presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México D.F., a los veintinueve días, del mes de diciembre de mil novecientos cuarenta y ocho.-Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.-Rúbrica,-El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 1951.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA A LOS ARTICULOS 2° Y 5° DE LA LEY DEL IMPUESTO SOBRE OPERACIONES DE PRIMERA MANO DE ANHIDRIDO CARBONICO”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el 1° de enero de 1952.
