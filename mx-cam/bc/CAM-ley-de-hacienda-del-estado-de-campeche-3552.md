@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1992-12-11"
+last_updated: "1993-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -121,9 +121,11 @@ Es base de este impuesto el monto total de los ingresos a que se refiere el art�
 
 Los profesionistas de la medicina, dentistas y médicos en todas sus especialidades deberán enterar el pago de este impuesto en los plazos establecidos en el artículo 3.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 14.
 
-El pago de este impuesto será del 5% sobre el monto total de los ingresos a que se refiere el artículo 10, mediante declaración de ingresos expresa, en los formatos que para el efecto expida la Secretaría de Finanzas.
+El pago de este impuesto será del 2% sobre el monto total de los ingresos a que se refiere el artículo 10, mediante declaración de ingresos expresa, en los formatos que para el efecto expida la Secretaría de Finanzas.
 
 ### CAPITULO II. DEL IMPUESTO AL COMERCIO DE LIBROS, PERIODICOS Y REVISTAS
 
@@ -303,7 +305,9 @@ III.- Gastos funerarios en los mismos términos que para su deducibilidad requie
 
 IV.- Contraprestaciones a que se refiere el artículo 28 cubiertas por:
 
-A) La Federación, el Estado y los Municipios, así como los Organismos Descentralizados Federales, Estatales o Municipales. No quedan comprendidas en esta exención las contraprestaciones cubiertas por las Empresas y Organismos cuyos bienes y servicios se proporcionen mediante precios, cuotas, tasas, tarifas y similares.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+A) La Federación, el Estado y los Municipios, así como los organismos descentralizados, federales, estatales o municipales. No quedan comprendidas en esta exención las contraprestaciones cubiertas por las empresas y organismos cuyos bienes y servicios se proporcionen mediante precios, cuotas, tasas, tarifas y similares;
 
 B) Instituciones de enseñanza privada reconocidas oficialmente.
 
@@ -407,6 +411,8 @@ Los actos o contratos que por disposición de las leyes de la materia o por volu
 
 I.- De la propiedad raíz, por la inscripción de inmuebles o derechos reales que transfieran o modifiquen la propiedad, el derecho se causará conforme a la siguiente tarifa:
 
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
 Cuota Fija Porcentaje
 
 sobre el
@@ -417,17 +423,15 @@ del límite
 
 inferior
 
-HASTA N$100 N$10
+HASTA N$120,000.00 N$45.00
 
-DE 101 A 1'000 12 MAS EL 2.0%
+DE 120,000.00 A 200,000.00 65.00 0.10%
 
-DE 1'001 A 3'000 15 MAS EL 1.5%
+DE 200,000.00 A 300,000.00 100.00 0.20%
 
-DE 3'001 A 5'000 20 MAS EL 1.0%
+DE 300,000.00 A 400,000.00 120.00 0.30%
 
-DE 5'001 EN
-
-ADELANTE 30 MAS EL 0.5%
+DE 400,000.00 EN ADELANTE 150.00 0.40%
 
 II.- Por el examen de cualquier documento público o privado que se presente para su inscripción y se niegue la misma, por no ser inscribible, o se resuelva sin inscripción voluntaria del interesado o por resolución judicial 1.13
 
@@ -437,7 +441,9 @@ IV.- Por inscripción de documentos hipotecarios se pagará de acuerdo con la ta
 
 V.- Las inscripciones de cualquier documento de las sociedades civiles ya sea de constitución, modificación o disolución pagarán 4
 
-VI.- Por la inscripción de contratos de permuta de inmuebles o derechos reales se cobrará con el valor que expresa cada documento y de acuerdo con la tarifa de la fracción I.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+VI.- Por la inscripción de contratos de permuta de inmuebles o derechos reales se pagará sobre el valor que exprese cada documento el 0.20%
 
 VII.- Por la inscripción de los contratos preparatorios o accesorios, sobre traslación de dominio o derechos reales de inmuebles, por cada documento 1.5
 
@@ -467,7 +473,15 @@ a) Del año en curso 3
 
 b) Por cada año anterior .5
 
-XIX.- La inscripción de créditos hipotecarios y de habilitación o avío, que soliciten las sociedades de crédito o cualquier institución y organización auxiliar de crédito, a personas físicas o morales, sobre el importe de la operación pagarán el 0.30%. Tratándose de créditos otorgados al sector agropecuario, por cualquier monto; y a particulares para adquisición de vivienda social hasta por N$100,000.00 pagarán el 2.5% al millar sobre el 10% del monto del crédito total que les otorgue.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+XIX.- La inscripción de créditos hipotecarios y de habilitación o avío que soliciten las sociedades de crédito o cualquiera institución y organización auxiliar de crédito, a personas físicas o morales, sobre el importe de la operación pagarán el 0.25%. Tratándose de créditos otorgados para el desarrollo del sector agropecuario, pagarán sobre el 10% del monto del crédito total el 0.25%.
+
+Se considera vivienda de interés social aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general diario elevado al año, vigente en el Estado.
+
+Se considera vivienda popular, aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado.
+
+Tratándose de créditos otorgados para adquisición o construcción de vivienda de interés social o popular pagarán cuatro salarios mínimos diarios vigentes en el Estado.
 
 XX.- La inscripción de cualquier tipo de embarcaciones, se pagará conforme a la tarifa de la fracción I.
 
@@ -563,7 +577,7 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE OBRAS PUBLICAS Y COMUNICACIONES
+### CAPITULO VII. DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE LA SECRETARIAS DEL GOBIERNO DEL ESTADO
 
 ###### ARTICULO 49.
 
@@ -573,11 +587,19 @@ Salarios Mínimos Diarios Vigentes
 
 I.- Los fiats que expida el Ejecutivo para el ejercicio del notariado.
 
-II.- Los títulos o diplomas de especialidades técnicas que sean registrados o reconocidos por alguna dependencia oficial.
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
 a) Expedición de fiats 100
 
-b) Por cada título o diploma 2
+II.- Los títulos o diplomas de especialidades técnicas que sean registrados o reconocidos por alguna dependencia oficial.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+a) Por cada título o diploma 2
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+b) Revalidación de títulos 1
 
 c) Revalidación de títulos 1
 
@@ -595,17 +617,27 @@ Salarios Mínimos Diarios Vigentes
 
 I.- Automóviles, Turismo, Pick-Ups y Panel con o sin remolque o trailer 1
 
-II.- Autobuses de pasajeros 2
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
-III.- Camiones de carga de 2 ejes 2.5
+II.- Autobuses de pasajeros y camiones de carga de 2 ejes 2.5
 
-IV.- Camiones de carga o tractores con semiremolques de 3 o 4 ejes. 3.5
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
-V.- Camiones de carga o tractores con remolque de 5 o más ejes 5
+III.- Camiones de carga o tractores con semi-remolque de 3 o 4 ejes 3.5
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+IV.- Camiones de carga o tractores con remolque de 5 o más ejes 5
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
+
+V.- Motocicletas con o sin Side-Car 0.3
 
 VI.- Motocicletas con o sin Sidecar 3
 
 Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
@@ -858,3 +890,9 @@ Palacio Legislativo, Campeche, Cam., 8 de Diciembre de 1992.- Dip. José Antonio
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los nueve días del mes de diciembre de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cuatro.
