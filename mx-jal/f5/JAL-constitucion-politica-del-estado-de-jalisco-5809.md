@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1983-07-05"
+last_updated: "1983-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -427,7 +427,9 @@ El Secretario de Gobierno, o quien conforme a la Ley haga sus veces, autorizará
 
 Las autoridades subalternas del Gobernador, y sus facultades, son las que determina la Ley.
 
-### CAPITULO UNICO. De la Administración Municipal
+### CAPITULO UNICO. Del Municipio Libre
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
 ###### Art. 35.
 
@@ -501,27 +503,95 @@ XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que lo
 
 ## Título Quinto
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE JULIO DE 1983)</small>
+
 ### CAPITULO UNICO. Del Poder Judicial
 
 ###### Art. 36.
 
-La Administración Municipal, se ejerce por los Ayuntamientos que residirán en las Cabeceras de las Municipalidades.
+Es base de la división territorial y de la organización política y administrativa del estado de Jalisco, el Municipio Libre investido de personalidad jurídica y patrimonio propio, con las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y los siguientes fundamentos:
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1978)</small>
+I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa que residirá en la Cabecera de la Municipalidad y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+Los Presidentes y Vice-presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, elegidos popularmente por elección directa, en los términos de las Leyes respectivas, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+Los Ayuntamientos se integrarán con Munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia. Los Munícipes durarán en su cargo tres años y se renovarán en su totalidad al final de cada periodo. Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
+
+El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandado a algunos de sus miembros, por cualquiera de las causas graves que las leyes prevengan, previo el derecho de audiencia y defensa correspondiente. Si no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, el Congreso designará entre los vecinos a los Consejos Municipales que concluirán los periodos respectivos.
+
+Si alguno de sus miembros dejare de desempeñar su cargo por causa grave, será substituido por un suplente, o se procederá según lo disponga la Ley.
+
+II. Los Ayuntamientos están investidos de facultades para expedir y aplicar los Bandos de Policía y Buen Gobierno, Reglamentos, Circulares y Disposiciones Administrativas de observancia general, dentro de sus respectivas jurisdicciones, conforme a las bases que establezcan las Leyes.
+
+III. Los municipios a través de sus Ayuntamientos, con el concurso del Gobierno del Estado cuando así fuere necesario, tendrán a su cargo los siguientes servicios públicos:
+
+a) Agua Potable y Alcantarillado;
+
+b) Alumbrado Público;
+
+c) Aseo Público;
+
+d) Mercados y Centrales de Abastos;
+
+e) Estacionamientos;
+
+f) Cementerios;
+
+g) Rastro;
+
+h) Calles, Parques y Jardines;
+
+i) Seguridad Pública y Tránsito; y
+
+j) Los demás que deban prestarse según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera; y
+
+IV. Los municipios del Estado, previo acuerdo entre Ayuntamientos, y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+
+Los Ayuntamientos podrán celebrar convenios con el Gobierno del Estado, a fin de que éste asuma la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
 ###### Art. 37.
 
-Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
+Los municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor y, en todo caso, con:
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1972)</small>
+I. Los tributos sobre la propiedad inmobiliaria, incluyendo tasas adicionales que establezca el Congreso, de su fraccionamiento, división, consolidación, translación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones;
+
+II. Las participaciones federales que serán cubiertas por la Federación a los municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado; y
+
+III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+El Congreso no podrá establecer exenciones o subsidios respecto de contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de las tres instancias de Gobierno estarán exentos de contribuciones.
+
+El Congreso del Estado aprobará las Leyes de Ingresos de los municipios y revisará sus Cuentas Públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamiento (sic), con base en sus ingresos disponibles y a las reglas establecidas en la Ley Orgánica Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
 ###### Art. 38.
 
-Los Municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades, les señale la Legislatura del Estado.
+Los municipios a través de sus Ayuntamientos, en los términos de las Leyes Federales y Estatales relativas, están facultados para:
 
-Los Municipios tienen personalidad jurídica para todos los efectos legales.
+I. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-No habrá ninguna autoridad intermedia entre el Municipio y el Gobierno del Estado. Las demás atribuciones y facultades de los Ayuntamientos, así como el número de los ciudadanos que lo formen, se determinarán en las Leyes respectivas.
+II. Participar en la creación y administración de sus reservas territoriales;
+
+III. Controlar y vigilar la utilidad del suelo en sus jurisdicciones territoriales;
+
+IV. Intervenir en la regularización de la tenencia de la tierra urbana;
+
+V. Otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reserva ecológica; y
+
+VI. Normar las relaciones de trabajo entre el municipio y sus servidores, conforme a las disposiciones que para el efecto se expidan.
+
+De conformidad a los fines señalados en el párrafo tercero del Art. 27 de la Constitución Federal de la República, expedirá los Reglamentos y Disposiciones Administrativas que fueren necesarios.
+
+Igualmente, para cumplir con los fines señalados en la fracc. IX del Art. 115 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los Reglamentos y Disposiciones necesarias para regir las relaciones de trabajo entre el municipio y sus servidores públicos.
+
+Para la prestación de los servicios de seguridad social, en beneficio de los servidores públicos del municipio, los Ayuntamientos podrán convenir con el Gobierno del Estado, a fin de que éste asuma la prestación de dichos servicios en las Instituciones de Seguridad Social.
+
+Cuando dos o más centros urbanos situados en el territorio de dos o más municipios formen o tiendan a formar una continuidad demográfica, el Ejecutivo del Estado y los Ayuntamientos respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a las Leyes de la materia.
 
 ###### Art. 39.
 
@@ -924,3 +994,11 @@ Primero. Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los 
 Segundo. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 1983.
+
+Primero.- Envíese el presente Decreto a los Ayuntamientos de la Entidad, en los términos y para los efectos del Art. 66 de la Constitución Política del Estado.
+
+Segundo.- Este Decreto entrará en vigor el día de su publicación en el Periódico oficial El Estado de Jalisco, incluyendo la Declaratoria a que se refiere el Art. 66 de la Constitución Política del Estado.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
