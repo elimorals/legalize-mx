@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1980-06-18"
+last_updated: "1980-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -509,9 +509,11 @@ XXIV. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)
 
 XXV. Expedir Leyes de expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1980)</small>
 
-XXVI. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los Presupuestos, sino que se extenderá al examen de la actitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
+XXVI. Examinar y aprobar las cuentas de todos los caudales del Estado. La revisión no se limitará a investigar si las cantidades están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar.
+
+Para tales efectos, las Instituciones de Educación Superior dotadas de autonomía, deberán presentar anualmente su informe correspondiente. Dicho informe deberá ser evaluado por la Legislatura en atención a los planes y programas que en ejercicio de su autonomía, las propias Instituciones de Educación hubiesen aprobado, de conformidad con sus fines y las Leyes que lo rigen.
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -1369,11 +1371,11 @@ P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930.
+P.O. 5 DE ENERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 6 DE FEBRERO DE 1930.
+P.O. 6 DE FEBRERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1395,7 +1397,7 @@ P.O. 14 DE MARZO DE 1934.
 
 Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación..
+SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
 
 P.O. 11 DE SEPTIEMBRE DE 1935.
 
@@ -1447,11 +1449,11 @@ P.O. 24 DE AGOSTO DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
 
-P.O. 7 DE ENERO DE 1939.
+P.O. 7 DE ENERO DE 1939
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940.
+P.O. 27 DE NOVIEMBRE DE 1940
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1590,3 +1592,9 @@ Esta XIX Legislatura, durante el tercer año de su ejercicio constitucional, cel
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE JUNIO DE 1980.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las Instituciones de Educación Superior, dotadas de autonomía, deberán presentar en el mes de abril su Informe anual, a que se refiere la Fracción XXVI del Artículo 47 de la Constitución Política del Estado.
