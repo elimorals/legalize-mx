@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1997-07-04"
+last_updated: "1999-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1999.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -183,17 +183,17 @@ Competencia por materia.
 
 Los Jueces Menores son competentes para conocer exclusivamente de negocios contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por dos mil el salario mínimo diario vigente en el Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1999)</small>
 
 ###### Art. 24.
 
-Los Jueces de Partido conocerán de todos los negocios no comprendidos en el artículo anterior y de los no valuables en dinero.
+Los jueces de partido conocerán de todos los negocios no comprendidos en el artículo anterior, de los no valuables en dinero y en segunda instancia, de los recursos en contra de las sentencias que dicten los jueces menores.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1999)</small>
 
 ###### Art. 25.
 
-Las Salas del Supremo Tribunal de Justicia conocerán de la segunda instancia tanto en los negocios de la competencia de los Jueces de Partido, como de los Menores.
+Las Salas del Supremo Tribunal de Justicia conocerán en segunda instancia de los negocios de la competencia de los jueces de partido.
 
 ###### Art. 26.
 
@@ -2651,11 +2651,11 @@ El condenado podrá proponer fianza para garantizar el cumplimiento de lo senten
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, puede ocurrir al juez, quien citará al promovente y a las partes a una audiencia verbal para dentro de tres días, y después de recibir las pruebas que se presenten y de oír a los interesados por una sola vez y sin exceder de diez minutos cada uno, decidirá en el mismo acto si subsiste o no el secuestro o el acto de ejecución, sin resolver sobre la propiedad de la cosa, ni sobre otros derechos controvertidos.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1999)</small>
 
 ###### Art. 437.
 
-Las sentencias de los Jueces Menores son recurribles a petición del interesado. Conocerán de la apelación las Salas del Supremo de Justicia, las cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
+Las sentencias de los jueces menores son recurribles a petición del interesado. Conocerán de la apelación los jueces de partido, los cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver, sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
@@ -5076,3 +5076,13 @@ P.O. 4 DE JULIO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de los artículos reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente decreto, continuarán substanciándose ante el tribunal que esté conociendo de los mismos.
