@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1956-12-20"
+last_updated: "1957-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JULIO DE 1957.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -955,7 +955,7 @@ ARTICULO 172
 
 La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
 
-ARTICUL0O 173
+ARTICULO 173
 
 Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
@@ -8453,7 +8453,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer enseguida la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
 
 ARTICULO 1701
 
@@ -11425,13 +11425,17 @@ ARTICULO 2327
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, G.O. 11 DE JULIO DE 1957)</small>
 
 ARTICULO 2328
 
-El interés legal será el que fije cada año el Ejecutivo del Estado, tomando en consideración las condiciones económicas de tiempo y lugar, la cotización del dinero y la tasa del interés. No fijando el Ejecutivo el interés legal, éste será el de nueve por ciento anual. El interés convencional será el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+> <small>(F. DE E., G.O. 1 DE AGOSTO DE 1957)</small>
 
-No podrá cobrarse por concepto de interés una cantidad que exceda de la mitad de la que realmente se haya prestado. Cuando por el tiempo transcurrido el deudor haya liquidado intereses por una suma igual a la mitad del préstamo, o mayor que esa cantidad, quedará exonerado de los subsecuentes pagos por ese concepto, y el acreedor sólo tendrá derecho a exigir el importe del capital mutuado. Esta disposición tendrá el carácter de irrenunciable.
+El interés legal será el que fije cada año el Ejecutivo del Estado, tomando en consideración las condiciones económicas de tiempo y lugar, la cotización del dinero y la tasa del interés; no fijando el Ejecutivo el interés legal, éste será el de nueve por ciento anual. El interés convencional será el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés es tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste, el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+
+No podrá cobrarse por concepto de interés, una cantidad que exceda de la mitad de la que realmente se haya prestado. Cuando por el tiempo transcurrido el deudor haya liquidado interés por una suma igual a la mitad del préstamo, o mayor que esa cantidad, quedará exonerado de los subsecuentes pagos por ese concepto, y el acreedor sólo tendrá derecho a exigir el importe del capital mutuado. Esta disposición tendrá el carácter de irrenunciable.
+
+Las Instituciones de Beneficencia legalmente constituídas, quedan exceptuadas de lo dispuesto en el párrafo inmediato anterior.
 
 ARTICULO 2329
 
@@ -12799,11 +12803,11 @@ TITULO DECIMOPRIMERO
 
 DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 
-> <small>(F. DE E., G.O 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
 
 SUBTITULO PRIMERO
 
-> <small>(F. DE E., G.O 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
 
 ## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
@@ -14988,3 +14992,9 @@ G.O. 20 DE DICIEMBRE DE 1956.
 ###### ARTICULO UNICO.
 
 Esta Ley comenzará a surtir sus efectos, a partir del día siguiente al en que se publique en la "Gaceta Oficial" del Estado.
+
+G.O. 11 DE JULIO DE 1957.
+
+###### ARTICULO UNICO.
+
+La presente Ley surtirá efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
