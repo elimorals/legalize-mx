@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2002-07-10"
+last_updated: "2002-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -10809,9 +10809,15 @@ FORMALIDADES TRATANDOSE DE INMUEBLES INSCRITOS EN EL REGISTRO PUBLICO DE LA PROP
 
 El endoso será ratificado ante el registrador quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
 
+(ADICIONADO, P.O. 14 DE AGOSTO DE 2002).
+
+La venta de bienes raíces no producirá efectos contra tercer sino después de registrada en los términos prescritos en este Código.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 1809.
 
-EFECTOS CONTRA TERCERO RESPECTO DE INMUEBLES. La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
+DE LA COMPRAVENTA DE VEHICULOS AUTOMOTORES. La venta y adquisición de vehículos y automotores, deberá constar por escrito, bajo el formato gratuito que expida el Registro Estatal de Vehículos y Automotores del Estado de Morelos, debiéndose registrar la operación correspondiente ante dicha dependencia para que produzca los efectos legales correspondientes.
 
 ### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
@@ -14579,9 +14585,13 @@ PAGO PREFERENCIAL DE ACREEDORES DE CUARTA CLASE. Pagados los créditos enumerado
 
 PAGO DE CREDITOS NO COMPRENDIDOS EN LOS ANTERIORES. Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
 
-# LIBRO SEPTIMO. DEL REGISTRO PUBLICO DE LA PROPIEDAD
+(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2002).
 
-## TITULO UNICO. DE LA INSTITUCION Y FUNCIONES DEL REGISTRO PUBLICO DE LA PROPIEDAD
+# LIBRO SEPTIMO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL REGISTRO ESTATAL DE VEHICULOS Y AUTOMOTORES
+
+> <small>(REFORMADA SU NUMERACION, P.O. 14 DE AGOSTO DE 2002)</small>
+
+## TITULO PRIMERO. DE LA INSTITUCION Y FUNCIONES DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
 ### CAPITULO II. DISPOSICIONES COMUNES A LOS DOCUMENTOS REGISTRABLES
 
@@ -15177,9 +15187,35 @@ CONTENIDO DE DIVERSAS INSCRIPCIONES SOBRE PERSONAS MORALES. Las demás inscripci
 
 EFECTOS DE LAS INSCRIPCIONES SOBRE BIENES MUEBLES Y PERSONAS MORALES. Las inscripciones relativas a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 1795, fracción II; 1800, 2106, 2123 y 2311 de este Código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
 
+### CAPITULO UNICO. DE LAS ATRIBUCIONES DEL REGISTRO ESTATAL DE VEHICULOS Y DE AUTOMOTORES DEL ESTADO DE MORELOS
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 2554.
 
 REGISTRO DE LOS PLANES ESTATAL Y MUNICIPAL DE DESARROLLO URBANO. Los planes estatal y municipales de desarrollo urbano, serán inscritos en el Registro Público de la Propiedad por orden expresa del Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2002)</small>
+
+## TITULO SEGUNDO. DEL REGISTRO ESTATAL DE VEHICULOS Y AUTOMOTORES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 2555.
+
+ATRIBUCIONES DEL REGISTRO ESTATAL DE VEHICULOS Y AUTOMOTORES. El Registro Estatal de Vehículos y Automotores del Estado de Morelos, que podrá ser identificado con las siglas REVAEM, será la dependencia encargada del registro de los vehículos y automotores, así como del registro y certificación de los contratos derivados de las operaciones o transacciones que se realicen respecto de los mismos, sea por compraventa, donación, permuta, comodato, usufructo, herencia, donación en pago, adquisición por vía judicial cualquiera que sea su forma y en general de cualquier operación que tenga por objeto la transmisión de la posesión o del dominio de vehículos y automotores. Dicha dependencia corresponderá a la Secretaría de Hacienda del Gobierno del Estado de Morelos y tendrá facultades de verificación y certificación de los datos de identificación y de la documentación de propiedad de los vehículos y automotores, para la seguridad de los contratantes y funcionará de acuerdo al reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 2556.
+
+OBLIGACION DE REGISTRO. Toda (sic) vehículo y automotor, deberá ser registrado ante el REVAEM.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 2557.
+
+REGISTRO Y CERTIFICACION DE OPERACIONES.- Para que una operación o transacción respecto de algún vehículo o automotor, produzca los efectos legales correspondientes, el contrato respectivo deberá ser registrado ante el REVAEM y además deberá obtenerse la certificación correspondiente; su omisión dentro de los plazos legales, traerá como consecuencia la imposición de las sanciones que fije el reglamento de la materia.
 
 ## TRANSITORIOS
 
@@ -15272,3 +15308,25 @@ P.O. 10 DE JULIO DE 2002.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 14 DE AGOSTO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos constitucionales correspondientes.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del artículo 2556, a todos los propietarios de vehículos y automotores se les concede un plazo de seis meses para realizar el registro correspondiente a partir de la publicación del Reglamento de la materia.
+
+###### ARTICULO TERCERO.
+
+El Poder Ejecutivo del Estado de Morelos, de quien dependerá el REVAEM, tendrá un plazo de noventa días para la publicación del Reglamento correspondiente, iniciando a partir de la vigencia del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Se faculta al Titular del Poder Ejecutivo, a efectos de que provea lo necesario para que el Registro Estatal de Vehículos y de Automotores del Estado de Morelos cuente con los medios suficientes a fin de que pueda desempeñar sus actividades.
+
+###### ARTICULO QUINTO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
