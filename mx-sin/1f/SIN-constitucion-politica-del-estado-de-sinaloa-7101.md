@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-04-09"
+last_updated: "1938-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -729,6 +729,8 @@ La Ley Orgánica del Ministerio Público, reglamentará la institución.
 
 #### SECCION III. DE LA DEFENSORIA DE OFICIO
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
+
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
 #### SECCION IV BIS. DE LA COMPETENCIA FISCAL
@@ -757,11 +759,15 @@ Art. 89 C. Para compensar a los Ayuntamientos la prohibición que tienen de fija
 
 ###### Art. 78.
 
-Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procurar por los reos en los asuntos penales, bajo las prescripciones que señale la ley relativa.
+Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procurar por los reos en asuntos penales, bajo las prescripciones de las leyes, y defender a los que lo soliciten en materia civil y administrativa, en los casos establecidos por la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 1938)</small>
 
 ###### Art. 79.
 
-Los Defensores de Oficio deberán reunir los mismos requisitos exigidos para los Agentes del Ministerio Público y serán nombrados y removidos libremente por el Gobernador del Estado.
+El personal de la Defensoría Oficial dependerá directamente del Ejecutivo del Estado; será nombrado y removido por él y estará formado por un Abogado que será el Jefe, y por el Cuerpo de Defensores que lo integren.
+
+La Ley organizará la Defensoría Oficial y determinará la forma en que debe ejercer sus funciones.
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
@@ -1388,3 +1394,7 @@ Artículo Unico.- El presente Decreto surte sus efectos desde el día de su publ
 P.O. 9 DE ABRIL DE 1938.
 
 Unico.- El presente Decreto surte sus efectos desde el día de su publicación.
+
+P.O. 3 DE MAYO DE 1938.
+
+Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
