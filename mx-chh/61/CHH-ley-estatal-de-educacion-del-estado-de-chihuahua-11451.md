@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2003-11-05"
+last_updated: "2004-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -236,6 +236,10 @@ l).- Centros de actualización de docentes;
 m).- Escuela de trabajo social;
 
 n).- Museos;
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+ñ).- Centros educativos para las niñas y los niños en y de la calle;
 
 o).- Bibliotecas;
 
@@ -1697,7 +1701,9 @@ El Estado promoverá la equidad entre las instituciones educativas públicas, ta
 
 Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las siguientes actividades:
 
-I.- Implementar programas compensatorios, en coordinación con la autoridad educativa federal, orientados al alcance de la equidad entre grupos sociales, atendiendo especialmente las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con discapacidad y, en general, a la población en condiciones de pobreza. En la aplicación de estos programas tendrán prioridad los educandos de 6 a 15 años de edad;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE FEBRERO DE 2004)</small>
+
+I.- Implementar programas compensatorios, en coordinación con la autoridad educativa federal, orientados al alcance de la equidad entre grupos sociales, atendiendo especialmente las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con discapacidad y, en general, a la población en condiciones de pobreza. En la aplicación de estos programas tendrán prioridad los educandos y educandas de 6 a 15 años de edad, poniendo énfasis en la atención a las niñas y niños en y de la calle;
 
 II.- Atender de manera especial a las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos de dichas localidades;
 
@@ -2096,3 +2102,7 @@ P.O. 5 DE NOVIEMBRE DE 2003.
 DECRETO No. 847-03 I P.O.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
