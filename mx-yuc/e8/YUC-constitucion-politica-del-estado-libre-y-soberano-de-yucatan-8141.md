@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1955-01-22"
+last_updated: "1960-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ENERO DE 1955.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1960.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -697,9 +697,9 @@ XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
 XIII.- expedir la convocatoria para las elecciones públicas;
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 1944)</small>
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1960)</small>
 
-XIV.- presentar en el segundo periodo de sesiones ordinarias del Congreso, o en su defecto, en un periodo de sesiones extraordinarias a que se convoque antes de concluir el mes de diciembre, los presupuestos de los ingresos y egresos que han regir en el año siguiente;
+XIV.- presentar en el primer periodo de sesiones ordinarias del Congreso, ante de concluir el mes de febrero, los presupuestos de los ingresos y egresos que han regir en el siguiente periodo fiscal;
 
 XV.- Resolver definitivamente sobre las sanciones que las autoridades administrativas apliquen por infracciones a los Reglamentos gubernativos y de policía;
 
@@ -1353,8 +1353,18 @@ D.O. 22 DE ENERO DE 1955.
 
 Esta Ley comenzará a regir el día siguiente al de su publicación en el "Diario Oficial" del Estado.
 
+D.O. 31 DE DICIEMBRE DE 1960.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
 ###### ARTICULO UNICO.
 
 SE DEROGA EL DECRETO NUMERO 320 DE FECHA 2 DE AGOSTO DE 1921 QUE ADICIONO EL ARTICULO 20 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
+
+###### ARTICULO PRIMERO.
+
+Se prorroga la vigencia del Plan de Ingresos y del Presupuesto de Egresos actuales, hasta el último día del mes de febrero de mil novecientos sesenta y uno.
