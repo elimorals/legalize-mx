@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2002-03-13"
+last_updated: "2002-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2002.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -289,6 +289,14 @@ XVI. Intervenir en las operaciones en que el Ejecutivo haga uso del crédito pú
 
 XVII. Diseñar, implantar y actualizar un sistema de programación del gasto público acorde con los objetivos y necesidades de las dependencias de la administración pública y asesorar en esta materia a los municipios para la integración de sus programas específicos;
 
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+XVII-A. Autorizar la liberación de recursos relativos a los gastos de inversión de obra pública convenidos con la federación o los ayuntamientos, de obra pública directa y bienes de capital;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+XVll-B. Establecer y concertar las normas específicas, las estructuras programáticas y financieras de los programas operativos y de inversión de las dependencias y organismos descentralizados de la administración pública estatal. Por lo que se refiere a los programas operativos anuales de las dependencias de la administración pública estatal, previamente deberán ser validados por la Secretaría de Planeación y Desarrollo;
+
 XVIII. Establecer las normas específicas para la elaboración del anteproyecto de presupuesto de egresos en lo relativo al gasto de operación e inversión de las dependencias y entidades de la administración pública estatal;
 
 XIX. Presupuestar el gasto en coordinación con las dependencias de la administración pública estatal y asignarlo de conformidad con los programas operativos anuales de cada una;
@@ -351,27 +359,39 @@ XLVI. Los demás que se deriven de las leyes y reglamentos aplicables o que le e
 
 A la Secretaría de Planeación y Desarrollo le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, dar seguimiento y evaluar el Plan Estatal de Desarrollo, los programas regionales de desarrollo, estatales de inversión y sectoriales, en el marco de un sistema de planeación integral, en congruencia con el artículo 11 de la Ley de Planeación para el Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+I. Formular, dar seguimiento y evaluar el Plan Estatal de Desarrollo, los programas regionales de desarrollo, especiales y sectoriales, en el marco de un sistema de planeación, en congruencia con el artículo 11 de la Ley de Planeación para el Estado de Sinaloa;
 
 II. Validar y evaluar los programas sectoriales e institucionales que elaboren las dependencias de la administración pública estatal y paraestatal;
 
-III. Diseñar, implantar, coordinar y actualizar un sistema de planeación-programación del gasto público para el impulso del desarrollo sustentable;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+III. Diseñar, implantar, coordinar y actualizar un sistema de planeación para el impulso del desarrollo sustentable;
 
 IV. Integrar con la participación de las dependencias y entidades de la administración pública, el informe anual de ejecución del Plan Estatal de Desarrollo y el Informe de Gobierno;
 
-V. Formar con la participación de las dependencias del Poder Ejecutivo Estatal y organismos de la administración pública paraestatal, los programas operativos anuales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
 
-VI. Establecer los mecanismos de seguimiento y evaluación del Plan Estatal de Desarrollo y de los programas operativos anuales, conjuntamente con la Secretaría de la Contraloría y Desarrollo Administrativo;
+V. Formular con la participación de las dependencias del Poder Ejecutivo Estatal y organismos de la administración pública paraestatal, los programas operativos anuales relativos a la planeación del desarrollo estatal;
 
-VII. Autorizar la liberación de recursos relativos a los gastos de inversión de obra pública convenidos con la federación o los ayuntamientos, de obra pública directa y bienes de capital;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
 
-VIII. Establecer y concertar las normas específicas, las estructuras programáticas y financieras de los planes y programas de inversión de las dependencias de la administración pública estatal;
+VI. Establecer los mecanismos de seguimiento y evaluación del Plan Estatal de Desarrollo y de los programas operativos anuales relativos a la planeación de desarrollo estatal;
 
-IX. Organizar e instrumentar un sistema de información y estadística para la planeación integral del desarrollo;
+VII. (DEROGADA, P.O. 12 DE AGOSTO DE 2002)
+
+VIII. (DEROGADA, P.O. 12 DE AGOSTO DE 2002)
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+IX. Organizar e instrumentar un sistema de información y estadística para la planeación del desarrollo;
 
 X. Tener a su cargo la coordinación general del Comité de Planeación para el Desarrollo del Estado de Sinaloa;
 
-XI. Apoyar al Ejecutivo en la elaboración de los convenios que celebre el Gobierno del Estado con la federación y los municipios en materia de planeación integral y programación del desarrollo sustentable;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2002)</small>
+
+XI. Apoyar al Ejecutivo en la elaboración de los convenios que celebre el Gobierno del Estado con la federación y los municipios en materia de planeación del desarrollo sustentable;
 
 XII. Formular, dirigir, coordinar y controlar la ejecución de los programas de desarrollo urbano, vivienda y desarrollo social en la Entidad;
 
@@ -1250,3 +1270,7 @@ Unico.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE MARZO DE 2002.
 
 Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
