@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "1998-01-23"
+last_updated: "2001-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1992-06-25"
 ---
 # LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS -ANTES LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS-
 
-LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS
+LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -37,7 +37,9 @@ DECRETO
 
 DECRETA:
 
-LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
 ## TITULO I
 
@@ -47,9 +49,11 @@ LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS.
 
 Esta ley es de orden público y de aplicación en todo el territorio nacional en materia de Derechos Humanos, respecto de los mexicanos y extranjeros que se encuentren en el país, en los términos establecidos por el apartado "B" del artículo 102 constitucional.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Comisión Nacional de Derechos Humanos es un organismo descentralizado, con personalidad jurídica y patrimonio propios que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
+La Comisión Nacional de los Derechos Humanos es un organismo que cuenta con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, y tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos que ampara el orden jurídico mexicano.
 
 ###### ARTICULO 3o.
 
@@ -59,7 +63,9 @@ Cuando en un mismo hecho, estuvieren involucrados tanto autoridades o servidores
 
 Tratándose de presuntas violaciones a los Derechos Humanos en que los hechos se imputen exclusivamente a autoridades o servidores públicos de las entidades federativas o municipios, en principio conocerán los organismos de protección de los derechos humanos de la Entidad de que se trate, salvo lo dispuesto por el artículo 60 de esta ley.
 
-Asimismo, corresponderá conocer a la Comisión Nacional de Derechos Humanos de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes de los Estados de la Federación, a que se refiere el artículo 102, apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+Asimismo, corresponderá conocer a la Comisión Nacional de los Derechos Humanos de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las Entidades Federativas, a que se refiere el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos; así como por la no aceptación de sus recomendaciones por parte de las autoridades, o por el deficiente cumplimiento de las mismas.
 
 ###### ARTICULO 4o.
 
@@ -89,9 +95,13 @@ a) Por actos u omisiones de autoridades administrativas de carácter federal;
 
 b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas;
 
-III.- Formular recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+III.- Formular recomendaciones públicas no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
 
 IV.- Conocer y decidir en última instancia las inconformidades que se presenten respecto de las recomendaciones y acuerdos de los organismos de derechos humanos de las Entidades Federativas a que se refiere el citado artículo 102, apartado B, de la Constitución Política;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 V.- Conocer y decidir en última instancia las inconformidades por omisiones en que incurran los organismos de derechos humanos a que se refiere la fracción anterior, y por insuficiencia en el cumplimiento de las recomendaciones de éstos por parte de las autoridades locales, en los términos señalados por esta ley;
 
@@ -131,27 +141,43 @@ IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre
 
 En los términos de esta ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales, salvo las de carácter federal, cuando dichos actos u omisiones tengan carácter administrativo. La Comisión Nacional por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
-### CAPITULO II. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISION
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO II. DE LA ELECCION, FACULTADES Y OBLIGACIONES DEL PRESIDENTE DE LA COMISION
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-El Presidente de la Comisión Nacional de Derechos Humanos deberá reunir para su designación los siguientes requisitos:
+El Presidente de la Comisión Nacional de los Derechos Humanos deberá reunir para su elección los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+I.- Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+II.- Tener cumplidos treinta y cinco años de edad, el día de su elección;
 
-II.- No tener menos de treinta y cinco años de edad, el día de su nombramiento; y
+III.- Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales;
 
-III.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+IV.- No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
+
+V.- No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Estado, Procurador General de la República, Gobernador o procurador general de justicia de alguna entidad federativa o jefe de gobierno del Distrito Federal, en el año anterior a su elección;
+
+VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VII.- Tener preferentemente título de licenciado en derecho.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 10.
 
-El nombramiento del Presidente de la Comisión Nacional de Derechos Humanos, será hecho por el Presidente de la República y sometido a la aprobación de la Cámara de Senadores, o en los recesos de ésta, a la Comisión Permanente del Congreso de la Unión.
+El Presidente de la Comisión Nacional de los Derechos Humanos, será elegido por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. Para tales efectos, la comisión correspondiente de la Cámara de Senadores procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos.
+
+Con base en dicha auscultación, la comisión correspondiente de la Cámara de Senadores propondrá al pleno de la misma, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 11.
 
-El Presidente de la Comisión Nacional de Derechos Humanos durará en sus funciones cuatro años, y podrá ser designado exclusivamente para un segundo período.
+El Presidente de la Comisión Nacional de los Derechos Humanos durará en su encargo cinco años, y podrá ser reelecto por una sola vez.
 
 ###### ARTICULO 12.
 
@@ -161,13 +187,19 @@ Las funciones del Presidente de la Comisión Nacional, de los Visitadores Genera
 
 El Presidente de la Comisión Nacional y los Visitadores Generales no podrán ser detenidos ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen, en ejercicio de las funciones propias de sus cargos que les asigna esta ley.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 14.
 
-El Presidente de la Comisión Nacional podrá ser destituido y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos. En este supuesto, el Presidente será substituido interinamente por el primer Visitador General, en tanto no se designe nuevo Presidente de la Comisión Nacional.
+El Presidente de la Comisión Nacional podrá ser removido de sus funciones y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+
+En este supuesto, el Presidente será substituido interinamente por el primer Visitador General, en tanto no se designe nuevo Presidente de la Comisión Nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 15.
 
-El Presidente de la Comisión Nacional tendrá las siguientes facultades:
+El Presidente de la Comisión Nacional tendrá las siguientes facultades y obligaciones:
 
 I.- Ejercer la representación legal de la Comisión Nacional;
 
@@ -175,13 +207,19 @@ II.- Formular los lineamientos generales a los que se sujetarán las actividades
 
 III.- Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
-IV.- Distribuir y delegar funciones a los Visitadores Generales en los términos del Reglamento Interno;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
-V.- Enviar un informe anual al Congreso de la Unión y al Titular del Poder Ejecutivo Federal sobre las actividades de la Comisión;
+IV.- Distribuir y delegar funciones en los términos del Reglamento Interno;
+
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+V.- Presentar anualmente, en el mes de febrero a los Poderes de la Unión, un informe de actividades, en los términos del artículo 52 de esta Ley;
 
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
-VII.- Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Aprobar y emitir las recomendaciones públicas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
 
 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el país;
 
@@ -193,23 +231,31 @@ X.- Las demás que le señalen la presente ley y otros ordenamientos.
 
 Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades, presentadas ante la Comisión Nacional.
 
-### CAPITULO III. DE LA INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 17.
 
 El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos siete de entre ellos no deben desempeñar ningún cargo o comisión como servidor público.
 
-El Presidente de la Comisión Nacional lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, cada año deberá ser substituido el miembro del Consejo de mayor antigüedad.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+El Presidente de la Comisión Nacional lo será también del Consejo Consultivo. Los cargos de los demás miembros del Consejo serán honorarios. A excepción de su Presidente, anualmente, durante el mes de octubre, serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo. Para el caso de que existan más de dos consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 18.
 
-El nombramiento de los miembros del Consejo será hecho por el Titular del Poder Ejecutivo Federal y sometido a la aprobación de la Cámara de Senadores, o en los recesos de ésta, a la de la Comisión Permanente del Congreso de la Unión.
+Los miembros del Consejo Consultivo serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión con la misma votación calificada.
 
-El Consejo contará con un Secretario Técnico quien será designado por el propio Consejo a propuesta del Presidente de la Comisión Nacional.
+La comisión correspondiente de la Cámara de Senadores, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los consejeros.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
-El Consejo de la Comisión Nacional tendrá las siguientes facultades:
+El Consejo Consultivo de la Comisión Nacional tendrá las siguientes facultades:
 
 I.- Establecer los lineamientos generales de actuación de la Comisión Nacional;
 
@@ -217,7 +263,9 @@ II.- Aprobar el Reglamento Interno de la Comisión Nacional;
 
 III.- Aprobar las normas de carácter interno relacionadas con la Comisión Nacional;
 
-IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión Nacional presente al Congreso de la Unión y al Titular del Poder Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión Nacional presente a los Poderes de la Unión;
 
 V.- Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional; y
 
@@ -251,9 +299,9 @@ II.- Promover y fortalecer las relaciones de la Comisión Nacional, con organism
 
 III.- Realizar estudios sobre los tratados y convenciones internacionales en materia de derechos humanos;
 
-IV.- Preparar los anteproyectos de iniciativas de leyes y reglamentos que la Comisión Nacional haya de entregar a los órganos competentes, así como los estudios que los sustenten;
+IV.- (DEROGADA, D.O.F. 26 DE NOVIEMBRE DE 2001)
 
-V.- Colaborar con la Presidencia de la Comisión Nacional en la elaboración de los informes anuales, así como de los especiales;
+V.- (DEROGADA, D.O.F. 26 DE NOVIEMBRE DE 2001)
 
 VI.- Enriquecer, mantener y custodiar el acervo documental de la Comisión Nacional; y
 
@@ -293,7 +341,7 @@ Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generale
 
 ## TITULO III. DEL PROCEDIMIENTO ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS
 
-### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES AUTONOMOS
+### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES
 
 ###### ARTICULO 25.
 
@@ -389,6 +437,8 @@ Las pruebas que se presenten, tanto por los interesados como por las autoridades
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
 ### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
 
 ###### ARTICULO 43.
@@ -407,9 +457,11 @@ Los proyectos antes referidos serán sometidos al Presidente de la Comisión Nac
 
 En caso de que no se comprueben las violaciones de derechos humanos imputadas, la Comisión Nacional dictará acuerdo de no responsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 46.
 
-La Recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
+La recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 
 En todo caso, una vez recibida, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
 
@@ -435,9 +487,11 @@ La Comisión Nacional notificará inmediatamente a los quejosos los resultados d
 
 El Presidente de la Comisión Nacional deberá publicar, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Nacional. En casos excepcionales podrá determinar si los mismos sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 52.
 
-El Presidente de la Comisión Nacional de Derechos Humanos deberá enviar un informe anual, tanto al Congreso de la Unión como al Titular del Ejecutivo Federal, sobre las actividades que haya realizado en el período respectivo. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
+El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente en el mes de febrero, a los Poderes de la Unión un informe sobre las actividades que haya realizado en el periodo comprendido entre el 1o. de enero y el 31 de diciembre del año inmediato anterior. Al efecto comparecerá primero ante el Pleno de la Comisión Permanente del Congreso de la Unión; posteriormente ante el Presidente de los Estados Unidos Mexicanos y ante el Pleno de la Suprema Corte de Justicia de la Nación. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 ###### ARTICULO 53.
 
@@ -602,3 +656,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 26 DE NOVIEMBRE DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En el informe correspondiente al año 2001, éste abarcará desde el día 16 de noviembre de 2000 hasta el 31 de diciembre de 2001.
+
+TERCERO. Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+CUARTO. Toda referencia que se haga en ésta y en otras disposiciones legales a la Comisión Nacional de Derechos Humanos y al Consejo de la Comisión Nacional de Derechos Humanos, deberán entenderse hechas a la Comisión Nacional de los Derechos Humanos y al Consejo Consultivo respectivamente.
