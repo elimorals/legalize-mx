@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "1986-12-27"
+last_updated: "1993-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,663 +21,1075 @@ state: "TAM"
 ---
 # LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES
+LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1993.
 
-Ley publicada en la Edición Vespertina al Número 16 del Periódico Oficial de Aguascalientes, el lunes 19 de abril de 2021.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
-MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
 
-La LXIV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
+DECRETO No. 436
 
-Decreto Número 534
+LA QUINCUAGESIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58, fracción I, de la Constitución Política local, tiene a bien expedir :
 
-### CAPÍTULO I. Disposiciones Generales
+LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL.
 
-###### Artículo 1°.
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Aguascalientes, y tienen por objeto la creación del Centro de Conciliación Laboral del Estado de Aguascalientes, así como de establecer su estructura, organización y funcionamiento, en términos de lo dispuesto por el segundo párrafo de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 590-E y 590-F de la Ley Federal del Trabajo y demás legislación aplicable.
+### CAPITULO I. DEL OBJETO Y APLICACION DE LA LEY
 
-###### Artículo 2°.
+###### ARTICULO 1.
 
-El Centro de Conciliación Laboral del Estado de Aguascalientes es un organismo público descentralizado de la Administración Pública Estatal, especializado e imparcial, con personalidad jurídica y patrimonio propios, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, el cual tendrá su domicilio legal en el Municipio de Aguascalientes, correspondiente al Estado del mismo nombre.
+Esta Ley tiene por objeto:
 
-Artículo 3° Para los efectos de esta Ley, se entenderá por:
+I.- La prevención de conductas antisociales;
 
-I. Centro de Conciliación: Al Centro de Conciliación Laboral del Estado de Aguascalientes;
+II.- El auxilio a víctimas y ofendidos afectados por dichas conductas;
 
-II. Conciliación: Al proceso en el que una o más personas conciliadoras asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo alternativas y soluciones al conflicto laboral;
+III.- La adaptación social de menores infractores por la realización de acciones u omisiones previstas como delictuosas por las leyes penales, mediante la organización de instituciones tutelares para su tratamiento;
 
-III. Constitución Estatal: A la Constitución Política del Estado de Aguascalientes;
+IV.- La readaptación de los delincuentes, mediante la organización del sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, ejecutando las sanciones privativas y restrictivas de la libertad impuestas por los tribunales y, el control y vigilancia de cualquiera privación de libertad impuesta en términos de ley.
 
-IV. Constitución General: A la Constitución Política de los Estados Unidos Mexicanos;
+###### ARTICULO 2.
 
-V. Junta de Gobierno: A la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes;
+La aplicación de esta Ley, así como la administración, dirección y vigilancia de los Centros de Readaptación Social y de las Instituciones Tutelares de Menores Infractores, corresponde al Ejecutivo del Estado, por conducto de los órganos que previene la propia Ley.
 
-VI. Ley: A la presente Ley del Centro de Conciliación Laboral del Estado de Aguascalientes;
+###### ARTICULO 3.
 
-VII. Ley de Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+El Ejecutivo del Estado podrá celebrar con la Federación y Estados miembros de la misma, convenios de carácter general que tengan por objeto que las personas sentenciadas ejecutoriamente por Tribunales del Estado, extingan sus condenas en establecimientos dependientes del Ejecutivo Federal o de los Ejecutivos locales, así como para que los privados de la libertad con sentencia firme por Tribunales Federales o de diversa Entidad estatal, extingan sus condenas en los Centros de Internamiento dependientes del Ejecutivo Estatal. Igualmente, podrá convenirse en remitir a la Federación o Entidades de la misma, a menores infractores cuyas familias vivan en otros Estados, en el Distrito Federal o en el extranjero y obtener recíprocamente que a menores tamaulipecos se les siga el tratamiento respectivo en este Estado, cuando sus infracciones fueran realizadas fuera del territorio de Tamaulipas o cuando el procedimiento tutelar esté a cargo de la Federación.
 
-VIII. Ley de Responsabilidades Administrativas: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+### CAPITULO II. DE LOS SUJETOS DE ESTA LEY Y SUS PRERROGATIVAS
 
-IX. LFT: A la Ley Federal del Trabajo;
+###### ARTICULO 4.
 
-X. Persona conciliadora: A la persona responsable de conducir el procedimiento de conciliación prejudicial de conflictos del ámbito estatal;
+Son sujetos de esta Ley:
 
-XI. Persona titular de la Dirección General: A la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Aguascalientes;
+I.- Los habitantes del Estado de Tamaulipas, para la prevención general de conductas antisociales, y en especial, aquellos que manifiesten o hagan presumir fundadamente, inclinación a causar daño a sí mismos, a su familia, a otras personas o a la sociedad;
 
-XII. Reglamento Interior: Al Reglamento Interior del Centro de Conciliación Laboral del Estado de Aguascalientes; y
+II.- Las víctimas y ofendidos por conductas antisociales;
 
-XIII. Servicio Profesional de Carrera: Al mecanismo para garantizar la igualdad de oportunidades en el acceso al servicio público con base en el mérito, el logro de resultados y en los valores de: vocación de servicio, efectividad, transparencia, eficiencia, cuidado de los recursos, orientación a la ciudadanía, calidad del servicio, probidad, rendición de cuentas, flexibilidad, mérito e idoneidad, con el fin de impulsar el desarrollo del servicio público para beneficio de la sociedad.
+III.- Los menores de 16 pero mayores de 6 años de edad que realicen las conductas a que se refiere la fracción III del Artículo 1º. de esta Ley;
 
-### CAPÍTULO II. Objeto y Atribuciones
+IV.- Las personas que se encuentren a disposición de las autoridades en los Centros de Internamiento del Estado, al haberse dictado en su contra, por los jueces penales, resoluciones restrictivas o privativas de la libertad.
 
-###### Artículo 4°.
+###### ARTICULO 5.
 
-El Centro de Conciliación podrá contar con oficinas en el territorio del Estado, las cuales tendrán por objeto ofrecer el servicio público de conciliación para la resolución de los conflictos entre trabajadores y patrones en asuntos del orden local antes de presentar demanda ante los juzgados laborales, procurando el equilibrio entre los factores de la producción y ofreciendo a estos una instancia eficaz y expedita para ello.
+Los menores de 16 años de edad que infrinjan los Bandos de Policía y Buen Gobierno o que a través de su conducta manifiesten o hagan presumir, fundadamente, su inclinación a causar daño a la sociedad, a su familia o a sí mismos, son sujetos de esta ley por lo que se refiere a la prevención. En cuanto a su asistencia y tratamiento por las conductas antisociales así verificadas, quedarán sujetos a las actividades del Sistema para el Desarrollo Integral de la Familia, según lo previene la Ley Sobre el Sistema Estatal de Asistencia Social.
 
-###### Artículo 5°.
+###### ARTICULO 6.
 
-El Centro de Conciliación se regirá por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+Enunciativamente, son prerrogativas de los menores a que se refiere la fracción III del Artículo 4o. de esta Ley:
 
-###### Artículo 6°.
+I.- Ser respetado en su dignidad, integridad física y mental, familia, domicilio y bienes, sin detrimento de las medidas tutelares dictadas por los Consejos;
 
-El lenguaje empleado en la presente Ley no busca generar ninguna distinción ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en su contenido hechas hacia un género representan a ambos sexos, sin discriminación alguna.
+II.- Ser estudiado en su personalidad, tanto en su conducta precedente como la efectuada durante los hechos que determinaron la intervención del Consejo Tutelar y, en su caso, la observada durante el tratamiento, hasta lograr su adaptación a la vida en sociedad;
 
-###### Artículo 7°.
+III.- Recibir los beneficios que disponga el Consejo Tutelar ante el cual se encuentre en tratamiento;
 
-El Centro de Conciliación tendrá por objeto:
+IV.- Recibir, en su caso, las visitas reglamentarias;
 
-I. Realizar la función conciliadora en conflictos laborales del ámbito estatal, prevista en los párrafos segundo y tercero de la fracción XX del apartado A del artículo 123 de la Constitución General, así como los artículos 684-A a 684-E de la LFT;
+V.- Las demás que establezca la Ley y sus reglamentos.
 
-II. Coordinar y supervisar las oficinas en el territorio del Estado que forman parte del Centro de Conciliación;
+###### ARTICULO 7.
 
-III. Establecer el Servicio Profesional de Carrera y seleccionar mediante concurso abierto en igualdad de condiciones a su personal;
+Enunciativamente, son prerrogativas de las personas restringidas o privadas de su libertad a que se refiere la fracción IV del Artículo 4:
 
-IV. Formar, capacitar y evaluar a las personas conciliadoras para su profesionalización; y
+I.- Ser respetado en su dignidad, integridad física y mental, familia, domicilio y bienes permitidos sin demérito del tratamiento readaptador;
 
-V. Lo que además le confiera la LFT y otras normas aplicables.
+II.- Ser estudiado en su personalidad por los integrantes del Consejo Técnico de los Centros de Readaptación Social que correspondan, para en su caso, proporcionarle el cuidado, asistencia y tratamiento adecuado a su edad, sexo y circunstancias personales;
 
-### CAPÍTULO III. Patrimonio
+III.- Recibir educación en la medida de su capacidad intelectual y posibilidades del centro de internamiento, de acuerdo con el grado de estudios precedentes;
 
-###### Artículo 8°.
+IV.- Trabajar, de acuerdo a las posibilidades del centro de internamiento en que se encuentre, tendiendo siempre a su capacitación;
 
-Para el cumplimiento de su objeto, el Centro de Conciliación tendrá las siguientes atribuciones:
+V.- Ser recluído de acuerdo con las clasificaciones establecidas en la Ley y sus Reglamentos;
 
-I. Recibir solicitudes de conciliación de trabajadores y/o patrones para su trámite;
+VI.- Recibir tratamiento bajo el régimen progresivo técnico de readaptación social, para estar en aptitud de acceder a la etapa preliberacional y gozar de los beneficios que esta Ley dispone;
 
-II. Celebrar convenios entre las partes del conflicto laboral, de conformidad con LFT, los cuales deberán hacerse por escrito y contener una relación circunstanciada de los hechos que lo motiven y de los derechos y obligaciones comprendidos en él;
+VII.- Recibir visitas en la forma que los reglamentos precisen; y
 
-III. Expedir las constancias de no conciliación;
+VIII.- Las demás que se establezcan en la Ley y sus reglamentos.
 
-IV. Expedir copias certificadas de los convenios laborales que celebren en el procedimiento de conciliación, así como de los documentos que obren en los expedientes que se encuentren en los archivos del Centro de Conciliación;
+### CAPITULO III. DEL ORGANO DE EJECUCION DE LA PRESENTE LEY
 
-V. Solicitar la colaboración de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipales, así como de los particulares, para el debido cumplimiento de sus objetivos;
+###### ARTICULO 8.
 
-VI. Establecer los convenios de colaboración y coordinación necesarios para lograr los propósitos de la presente Ley, con instituciones públicas o privadas, así como con organizaciones de la sociedad civil;
+Corresponde a la Secretaría General de Gobierno, como dependencia del Ejecutivo, por conducto de la Dirección General de Prevención y Auxilio, Medidas Tutelares y Readaptación Social, la aplicación del presente Ordenamiento, a la que en lo sucesivo se aludirá como "La Dirección General".
 
-VII. Presentar anualmente al titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en el Presupuesto de Egresos del Estado;
+###### ARTICULO 9.
 
-VIII. Llevar a cabo programas de difusión e información, a través de los medios masivos de comunicación que estime convenientes, para dar a conocer los servicios que presta;
+La Dirección General estará integrada por:
 
-IX. Imponer medidas de apremio, de conformidad con lo dispuesto en la LFT;
+I.- Un Director General;
 
-X. Llevar a cabo el procedimiento de selección de las personas conciliadoras, de conformidad con lo previsto en los artículos 684-K a 684-U de la LFT y demás disposiciones aplicables; y
+II.- Un Director de Prevención y Auxilio;
 
-XI. Las demás que por mandato constitucional y legal le correspondan,
+III.- Un Director de Menores Infractores;
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+IV.- Un Director de Readaptación Social;
 
-ARTÍCULO 8 BIS.- Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información y protección de datos personales, de conformidad con la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes.
+V.- Los Directores de los Centros de Internamiento de menores y adultos, así como los integrantes de los Consejos Tutelares y de los Consejos Técnicos Interdisciplinarios;
 
-###### Artículo 9°.
+VI.- Los Subdirectores, Jefes y Subjefes de Departamento; y,
 
-El patrimonio del Centro de Conciliación estará constituido por:
+VII.- El personal técnico, administrativo y de custodia que señale el Presupuesto de Egresos.
 
-I. Los bienes muebles e inmuebles que se destinen a su servicio y que le asigne el Estado;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-II. Los recursos financieros que se le asignen en el Presupuesto de Egresos del Estado para su funcionamiento;
+###### ARTICULO 10.
 
-III. Las aportaciones que perciba conforme a los contratos o convenios de colaboración y coordinación que celebre para cumplir sus fines;
+Los servidores públicos a que se refieren las fracciones I a IV del Artículo anterior, deberán ser mexicanos, mayores de veintisiete años de edad, preferentemente casados, licenciados en derecho con título debidamente inscrito ante las autoridades competentes, contar con estudios y experiencia sobre derecho penitenciario y régimen tutelar para menores, en los respectivos casos, tener buena conducta y no haber sido condenados con sentencia firme por delito intencional.
 
-IV. Los bienes y derechos que adquiera por cualquier título;
+El personal a que se refiere la fracción VI del Artículo anterior deberá reunir los requisitos que preceden, con excepción de la edad, que podrán ser mayores de veinticuatro años.
 
-V. Los rendimientos que obtenga de la inversión de sus recursos;
+## TITULO SEGUNDO. DE LA PREVENCION DE CONDUCTAS ANTISOCIALES Y DEL AUXILIO A SUS VICTIMAS Y OFENDIDOS
 
-VI. Las donaciones o legados que se otorguen a su favor;
+### CAPITULO I. DE LA PREVENCION
 
-VII. Los subsidios y apoyos que en efectivo o en especie le otorguen los gobiernos federal, estatal y municipal; y
+###### ARTICULO 11.
 
-VIII. Todos los demás bienes o derechos que perciba en el ejercicio de sus atribuciones.
+La Dirección General, por conducto de su titular o de la Dirección de Prevención y Auxilio, en materia de prevención, tendrá las siguientes atribuciones:
 
-###### Artículo 10.
+I.- Promover campañas, exposición de conferencias, distribución de folletos e ilustraciones, propagar por los distintos medios masivos de comunicación, instituir cursos en las escuelas, preparar y exponer material audiovisual, organizar seminarios, capacitar instructores hacia la comunidad, sobre los efectos perniciosos que causan el tabaco, el alcohol, los enervantes, la pornografía, los vicios en general, el pandillerismo y las conductas antisociales en que degeneran;
 
-Los bienes del Centro de Conciliación bajo el régimen del dominio público tendrán el carácter de inalienables, imprescriptibles e inembargables y, no estarán sujetos a acción reivindicatoria, de posesión definitiva, provisional o alguna otra por parte de terceros, de conformidad con lo dispuesto en la Ley de Bienes del Estado de Aguascalientes; y para cualquier acto concerniente con los bienes referidos en el presente artículo se estará a lo dispuesto por la ley de la materia referida, la Ley de Entidades Paraestatales y demás disposiciones legales aplicables.
+II .- Promover:
 
-A fin de garantizar el buen funcionamiento del Centro de Conciliación, para la administración, uso, disposición, enajenación y demás actos relacionados con los bienes muebles se deberá estar a las políticas, programas y bases generales que determine la Junta de Gobierno en los términos que señalen las disposiciones legales aplicables.
+a).- Parques infantiles;
 
-### CAPÍTULO IV. Estructura Orgánica
+b).- Lugares de sana diversión para las familias;
 
-###### Artículo 11.
+c).- Bibliotecas para jóvenes y niños;
 
-Para el cumplimiento de sus atribuciones y el despacho de los asuntos que le competen, el Centro de Conciliación contará con la siguiente estructura orgánica:
+d).- Espectáculos que contribuyan a la integración de las familias;
 
-I. Órganos de Gobierno y Administración:
+e).- Representaciones artísticas donde se expongan los efectos perniciosos del uso y consumo del tabaco, el alcohol, los enervantes y demás substancias que afectan el organismo y la salud del individuo;
 
-a) Junta de Gobierno; y
+f).- Centros de integración familiar en cooperación con el Sistema DIF, con objeto de orientar a las familias y núcleos sociales diversos;
 
-b) Dirección General;
+g).- Centros de trabajo para combatir el desempleo, así como talleres para capacitación;
 
-II. Unidades Administrativas; y
+h).- Bolsas de trabajo;
 
-III. Órganos de Control y Evaluación:
+i).- Programas que eleven el nivel de vida de la población;
 
-a) Órgano de Vigilancia; y
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-b) Órgano Interno de Control.
+III.- Establecer un programa de Seguridad Vecinal, a nivel municipal, con los Consejos Consultivos Estatal y Municipales de Seguridad Pública y las autoridades competentes, organizando a las poblaciones por secciones y manzanas.
 
-Además, contará con la estructura orgánica y el personal profesional, técnico y administrativo que requieran para el mejor desempeño de sus actividades, el cual será nombrado en términos de la Ley de Entidades Paraestatales, la Ley y las demás disposiciones aplicables, atendiendo en todo momento al presupuesto de egresos asignado.
+###### ARTICULO 12.
 
-### CAPÍTULO V. Junta de Gobierno
+Para la elaboración del Programa de Seguridad Vecinal, la Dirección General se sujetará a las siguientes bases:
 
-###### Artículo 12.
+I.- Con la intervención del Consejo Consultivo Estatal de Seguridad Pública y el Municipal que corresponda, celebrará acuerdo de coordinación con el Ayuntamiento respectivo, a efecto de instrumentar el programa.
 
-La Junta de Gobierno es el órgano máximo de decisión del Centro de Conciliación y se integrará por:
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-I. La persona titular del Poder Ejecutivo del Estado;
+II.- Los Ayuntamientos, a propuesta de sus Consejos Consultivos Municipales de Seguridad Pública, dividirán las poblaciones en secciones y manzanas;
 
-II. La persona titular de la Secretaría General de Gobierno;
+III.- Cada sección y manzana tendrán un jefe, que será considerado como Agente Honorario de la Policía Preventiva, el que se elegirá por los vecinos y se le extenderá nombramiento por parte del Ayuntamiento correspondiente;
 
-III. La persona titular de la Secretaría de Finanzas;
+IV.- Con los sectores público, privado y social se formará el Comité de Seguridad Vecinal, donde también serán representados los jefes de sección y de manzana.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+El Secretario General de Gobierno, publicará en el Periódico Oficial del Estado la integración y actividades de los diferentes órganos del Programa de Seguridad Vecinal y, en su oportunidad, el programa mismo.
 
-IV. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+### CAPITULO II. DEL AUXILIO DE LAS VICTIMAS Y OFENDIDOS POR CONDUCTAS ANTISOCIALES
 
-V. La persona que presida el Pleno del Instituto de Transparencia del Estado de Aguascalientes;
+###### ARTICULO 13.
 
-VI. La persona que presida el Supremo Tribunal de Justicia del Poder Judicial del Estado de Aguascalientes; y
+La Dirección General, por conducto de su titular o a través de la Dirección de Prevención y Auxilio, en materia de victimología, tendrá las siguientes atribuciones:
 
-VII. La persona titular de la Subsecretaría de Asuntos Jurídicos de la Secretaría de General de Gobierno.
+I.- Auxiliar a las víctimas y ofendidos que se encuentren en difícil situación económica y hubieren sufrido daño material o moral a consecuencia de hechos antisociales cuyo conocimiento corresponde a las autoridades judiciales o tutelares del Estado, sin perjuicio de lo previsto acerca de la reparación del daño en las leyes civiles y penales;
 
-Asimismo, por acuerdo de la Junta de Gobierno, podrán participar como invitados especiales, con voz pero sin voto, representantes de las organizaciones de trabajadores y patrones más representativas en el Estado.
+II.- Fomentar el funcionamiento de patronatos que recauden fondos destinados al auxilio de las víctimas y ofendidos por hechos antisociales;
 
-Los miembros de la Junta de Gobierno durarán en su cargo durante el tiempo en que se desempeñen en las funciones del puesto por el cual la integran.
+III.- Pedir información, a las autoridades judiciales y administrativas, acerca de los fondos que en esta Ley se destinan para el auxilio de las víctimas y ofendidos;
 
-Cada miembro propietario de la Junta de Gobierno designará un suplente, quienes deberán tener una jerarquía inmediata inferior a dichos propietarios y tendrán los mismos derechos y obligaciones.
+IV.- Fijar, mediante un procedimiento sumario y por los medios que estime pertinentes, la causa del daño que ante la Dirección General se manifiesta, su monto y la necesidad urgente que el dañado tenga de recibir ayuda del Estado, para lo cual exigirá al solicitante la comprobación de carecer de recursos propios para subvenir a sus necesidades inmediatas y que no le es posible obtener, en forma lícita y adecuada, auxilio de otra fuente;
 
-Las personas que sean designadas para integrar la Junta de Gobierno no percibirán retribución o compensación por su participación, ya que ésta es de carácter honorífico.
+V.- Solicitar la colaboración de dependencias y organismos públicos, que estarán obligados a prestarla en las medidas de sus posibilidades, para brindar cualquier clase de ayuda a víctimas y ofendidos por conductas antisociales, según las circunstancias del caso.
 
-### CAPÍTULO V. Junta de Gobierno
+###### ARTICULO 14.
 
-###### Artículo 13.
+La Dirección General tendrá personalidad ante el Ministerio Público para exigir a los responsables del daño moral y material causado por conductas antisociales, del todo o la parte de las cantidades que se hubieren cubierto a las víctimas o a los ofendidos, a cargo de la reparación del daño, por lo que se considerará, al pagar anticipadamente, subrogada en los derechos de los acreedores. Igualmente podrá ocurrir ejerciendo las acciones civiles conducentes.
 
-La Junta de Gobierno, además de las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales, tendrá las siguientes atribuciones:
+###### ARTICULO 15.
 
-I. Establecer las políticas generales y las prioridades que deberá desarrollar el Centro de Conciliación, relativas a la prestación de los servicios públicos que le corresponden en los términos de la presente Ley, sobre desempeño, investigación, desarrollo tecnológico y administración general;
+La asistencia económica que se preste, cuyo monto será prudentemente regulado por el Director General previa consulta al Secretario General de Gobierno, se otorgará con cargo a un fondo de reparaciones integrado en la siguiente forma:
 
-II. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, la persona titular de la Dirección General pueda disponer de los activos fijos del Centro de Conciliación que no correspondan a las operaciones propias del objeto del mismo;
+I.- El 50% de la cantidad que el Estado recabe por concepto de multas impuestas como pena por autoridades judiciales del Estado;
 
-III. Aprobar anualmente, previo informe del Comisario y, en su caso, dictamen de los auditores externos, los estados financieros del Centro de Conciliación y autorizar la publicación de los mismos;
+II.- La cantidad que el Estado recabe por concepto de cauciones que se hagan efectivas en los casos de incumplimiento de obligaciones inherentes a la libertad provisional bajo caución, la suspensión condicional de la condena, la libertad preparatoria y conmutación de sanciones, según lo previsto por las leyes respectivas;
 
-IV. Aprobar los Manuales de Organización, Procedimientos y el de Servicios al Público, Códigos y demás disposiciones administrativas necesarias para la operación y funcionamiento del Centro de Conciliación;
+III.- La cantidad que la Dirección General recupere de los responsables por la reparación del daño parcial o total pagado por la propia dependencia;
 
-V. Aprobar los proyectos de inversión que se propongan;
+IV.- La cantidad que por concepto de reparación del daño deban cubrir los sentenciados por jueces penales, cuando el particular beneficiado se abstenga de reclamar en tiempo dicha reparación o renuncie a ella y cuando la misma se deba al Estado en calidad de perjudicado;
 
-VI. Autorizar la solicitud de actos de dominio en términos de la Ley de Bienes del Estado de Aguascalientes;
+V.- El 5% de la utilidad líquida anual de todas las industrias, servicios y demás actividades lucrativas existentes en los Centros de Internamiento del Estado y;
 
-VII. Autorizar la creación de comisiones, comités, consejos, grupos de expertos y figuras similares de carácter consultivo y de asesoría técnica;
+VI.- Las aportaciones que para este fin hagan el propio Estado y los particulares.
 
-VIII. Aprobar la estructura básica de la organización del Centro de Conciliación, su Reglamento Interior y las modificaciones procedentes;
+###### ARTICULO 16.
 
-IX. Aprobar las bases para la organización, funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera, así como los lineamientos y criterios para la selección de las personas conciliadoras y demás personal del Centro de Conciliación;
+Para efectos de control, los Directores de los Centros de Readaptación Social rendirán anualmente a la Dirección General, informe sobre el resultado del último ejercicio y enterarán en la Tesorería General del Estado la cantidad que constituya el porcentaje fijado en la fracción V del Artículo anterior.
 
-X. Aprobar el programa institucional;
+La Tesorería General del Estado informará trimestralmente a la Dirección General acerca de las cantidades que integren el fondo de reparaciones.
 
-XI. Aprobar el programa anual y el anteproyecto de presupuesto de egresos, y en su caso sus modificaciones en términos de la legislación aplicable, así como el informe de resultados del ejercicio anterior que serán presentados por la Dirección General;
+###### ARTICULO 17.
 
-XII. Analizar y aprobar en su caso, los informes periódicos que rinda la persona titular de la Dirección General con la intervención que corresponda a los Comisarios;
+A fin de que la autoridad competente inicie de inmediato el procedimiento económico-coactivo que corresponda, los Tribunales y la Dirección, General harán del conocimiento de aquella, los casos de revocación de libertad provisional, libertad preparatoria o de suspensión condicional de la sentencia, cuando dicha revocación determine que se haga efectiva la caución otorgada.
 
-XIII. Conocer los informes y dictámenes que presente el Órgano Interno de Control;
+La Dirección General informará a la Tesorería General del Estado de las sentencias ejecutorias en las que se haga condena a multa y/o reparación del daño.
 
-XIV. Aprobar el calendario anual de sesiones;
+###### ARTICULO 18.
 
-XV. Nombrar y remover a propuesta de su Presidente, al Secretario Técnico de la Junta de Gobierno, así como a su suplente; y
+La asistencia a las personas que dependan del delincuente, se prestará en la forma que dispone la Ley Sobre el Sistema Estatal de Asistencia Social.
 
-XVI. Las demás que dispongan la LFT y otras disposiciones normativas aplicables.
+## TITULO TERCERO. DE LA ADAPTACION SOCIAL DE MENORES INFRACTORES MEDIANTE LA TUTELA DEL ESTADO
 
-Las atribuciones establecidas en el artículo 41 de la Ley de Entidades Paraestatales, serán facultades indelegables de la Junta de Gobierno.
+### CAPITULO I. DE LOS MENORES
 
-###### Artículo 14.
+###### ARTICULO 19.
 
-El Presidente de la Junta de Gobierno tendrá las siguientes facultades:
+Los mayores de 6 y menores de 16 años de edad no son imputables por la comisión de acciones u omisiones previstas en las leyes penales como delictuosas, por lo que no podrán ser perseguidos penalmente por las autoridades correspondientes. Sólo quedarán bajo la protección directa del Estado para su orientación y adaptación a la sociedad mediante el tratamiento tutelar individualizado que corresponda.
 
-I. Presidir las sesiones de la Junta de Gobierno;
+###### ARTICULO 20.
 
-II. Convocar, a través del Secretario Técnico, a las sesiones;
+La edad del menor se acreditará con la copia certificada del acta de nacimiento y, a falta absoluta de ésta, aquella se determinará por los integrantes del Consejo Tutelar correspondiente, que emitirán el dictamen bajo su más estricta responsabilidad. Al respecto, el Pleno del Consejo podrá solicitar del personal técnico que emita opinión.
 
-III. Dar a conocer a los integrantes de la Junta de Gobierno el orden del día para cada sesión;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-IV. Vigilar que los acuerdos y disposiciones de la Junta de Gobierno se ejecuten en los términos aprobados;
+### CAPITULO II. DE LOS ORGANISMOS TUTELARES INTEGRACION Y FUNCIONES
 
-V. Ejercer la representación oficial de la Junta de Gobierno ante cualquier autoridad o persona, pública o privada; y
+###### ARTICULO 21.
 
-VI. Las demás que le encomiende la Junta de Gobierno y establezcan otras disposiciones normativas aplicables.
+La Dirección General, por conducto de su titular o de la Dirección de Menores Infractores, tendrá las siguientes atribuciones:
 
-###### Artículo 15.
+I.- Organizar, supervisar y vigilar los Consejos Tutelares y los Centros de Observación y Tratamiento de Menores, haciendo que los servidores públicos cumplan con lo dispuesto en esta Ley y sus reglamentos.
 
-La Junta de Gobierno contará con un Secretario Técnico, quien podrá ser la persona titular de la Dirección General, el cual deberá operar y ejecutar los acuerdos y determinaciones que adopte la propia Junta de Gobierno para el desempeño de sus funciones.
+II.- Formular los reglamentos y demás disposiciones por las que habrán de regirse los organismos tutelares para el tratamiento de los menores infractores, dictando las órdenes pertinentes para su debido cumplimiento;
 
-###### Artículo 16.
+III.- Denunciar los hechos a la Procuraduría General de Justicia del Estado y vigilar el proceso penal hasta su conclusión, respecto a las autoridades que retengan o se nieguen a remitir a los organismos tutelares, a los menores infractores;
 
-El Secretario Técnico de la Junta de Gobierno tendrá las obligaciones y atribuciones siguientes:
+IV.- Trasladar y distribuir a los menores infractores en las instituciones tutelares competentes;
 
-I. Elaborar y proponer el orden del día de las sesiones ordinarias y extraordinarias, y las convocatorias respectivas;
+V.- Llevar el registro y ordenar se forme el expediente relativo, de todos los procedimientos y tratamiento relacionado con los menores infractores, cuidando que con toda oportunidad le sean remitidas, por los responsables de los organismos tutelares, la copia de las resoluciones, acuerdos y actas relativas al comportamiento de los menores y que se consideren de importancia para mantener los archivos debidamente integrados;
 
-II. Entregar con toda oportunidad, a los miembros, la convocatoria de cada sesión, así como obtener y entregar los documentos y anexos necesarios, para el estudio y discusión de los asuntos contenidos en el orden del día y recabar la constancia de recibido;
+VI.- Vigilar la aplicación del tratamiento adecuado a los menores infractores para su educación y adaptación social y que los centros de observación y tratamiento se encuentren en las mejores condiciones de higiene y seguridad;
 
-III. Organizar las sesiones, basándose en las instrucciones de logística de la Presidencia de la Junta de Gobierno;
+VII.- Conocer, investigar y resolver en única instancia las quejas de los menores infractores, sean presentadas por los propios menores o por cualquier persona interesada;
 
-IV. Elaborar las actas correspondientes de cada sesión y remitirlas a revisión de sus miembros para su firma;
+VIII.- Supervisar la vigilancia que debe ejercerse por los Consejos Tutelares de aquellos menores que estén sujetos a libertad orientada;
 
-V. Auxiliar a la Presidencia de la Junta de Gobierno en el desarrollo de las sesiones;
+IX.- Organizar Patronatos para menores infractores que los auxilien una vez que cese la tutela del Estado;
 
-VI. Elaborar la lista de asistencia de los miembros y recabar su firma, que será parte integral del acta de la sesión respectiva;
+X.- Conocer de los recursos que se presenten contra las resoluciones de los Consejos Tutelares;
 
-VII. Dar cuenta de los escritos presentados a la Junta de Gobierno;
+XI.- Solicitar al Secretario General de Gobierno la designación o remoción de los consejeros distritales y sus suplentes y proponer al personal técnico, administrativo y de custodia de los Consejos Tutelares y Centros de Observación y Tratamiento;
 
-VIII. Tomar las votaciones de los miembros e informar a la Presidencia del resultado de las mismas;
+XII.- Determinar las tesis generales que deban ser aplicadas a los casos particulares por los Consejos Tutelares; y
 
-IX. Informar sobre el cumplimiento de los acuerdos de la Junta de Gobierno;
+XIII.- Las demás que le confiera esta Ley y sus reglamentos .
 
-X. Firmar, junto con la Presidencia de la Junta de Gobierno, todos los acuerdos tomados, sin perjuicio del derecho de los demás miembros de firmarlos;
+###### ARTICULO 22.
 
-XI. Llevar el archivo de la Junta de Gobierno y un registro de las actas y acuerdos aprobados por ésta;
+La Dirección de Menores Infractores se integrará por:
 
-XII. Contar con voz, pero sin voto, en las sesiones; y
+I.- Un Director;
 
-XIII. Las demás que le sean conferidas por la Junta de Gobierno, la presente Ley u otras disposiciones normativas aplicables.
+II.- Dos Subdirectores; el primero conocerá de los asuntos relacionados con los Consejos Tutelares del Estado y, el segundo, de los Centros de Observación y Tratamiento de los menores infractores;
 
-###### Artículo 17.
+III.- Seis Consejos Distritales que tendrán su residencia en los municipios de Güémez, Ciudad Mante, Matamoros, Nuevo Laredo, Reynosa y Tampico, Tamaulipas;
 
-Las sesiones de la Junta de Gobierno podrán ser:
+IV.- El personal administrativo, técnico y de custodia de los Centros de Observación y Tratamiento de los menores infractores;
 
-I. Ordinarias: por lo menos cuatro veces al año; y
+V.- Los Secretarios de Acuerdo y Promotores de los Consejos Distritales del Estado.
 
-II. Extraordinarias: las veces que sean necesarias para el cumplimiento de sus fines.
+#### SECCION I. DE LOS CONSEJOS TUTELARES
 
-Las sesiones de la Junta de Gobierno podrán ser presenciales o virtuales debiendo sujetarse a las formalidades que se establezcan en el Reglamento Interior.
+###### ARTICULO 23.
 
-###### Artículo 18.
+Los Consejos Tutelares Distritales residirán en las cabeceras municipales de Güémez, Nuevo Laredo, Reynosa, Matamoros, Mante y Tampico, Tamaulipas, los cuales tendrán la jurisdicción que corresponda a sus respectivos distritos judiciales pero además, el de Güémez, comprenderá los del Primero, Décimo, Décimo Primero y Décimo Tercero Distritos; el de Nuevo Laredo los del Séptimo Distrito Judicial; el de Reynosa los del Décimo Cuarto Distrito; el de Matamoros los del Décimo Segundo y Décimo Quinto; el de Mante los del Noveno, y el de Tampico los del Tercero, Décimo Sexto y Décimo Séptimo Distritos Judiciales.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
+###### ARTICULO 24.
 
-En las sesiones de la Junta de Gobierno todos los miembros contarán con derecho a voz y voto en los asuntos que se sometan a su consideración; sus decisiones se tomarán por mayoría de votos de quienes concurran y, en caso de empate en la deliberación de algún asunto, el Presidente de la Junta de Gobierno tendrá voto de calidad.
+Los Consejos Tutelares estarán integrados por tres miembros titulares con sus respectivos suplentes y serán: Un Consejero Abogado, quien lo presidirá; un Consejero Médico y un Consejero Maestro Normalista o Trabajador Social. Preferentemente uno de los Consejeros será mujer. Contará además con los promotores necesarios, un Secretario de Acuerdos y el personal técnico y administrativo que señale el presupuesto. El personal técnico estará compuesto cuando menos con un médico especialista en psiquiatría, un licenciado en sociología, un maestro y un trabajador social.
 
-### CAPÍTULO VI. Dirección General
+###### ARTICULO 25.
 
-###### Artículo 19.
+El Pleno de los Consejos Distritales quedará integrado con la mayoría de los Consejeros Titulares y, en ausencia de alguno de ellos, por el suplente que corresponda y que se designará entre alguno de los profesionales que forman el cuerpo técnico del Consejo.
 
-A las sesiones de la Junta de Gobierno podrán asistir a solicitud de sus integrantes representantes de los sectores público, social y privado que, de acuerdo con la agenda de temas a tratar, sea conveniente, quienes tendrán exclusivamente derecho a voz, pero sin derecho a voto.
+###### ARTICULO 26.
 
-###### Artículo 20.
+Los Consejos Tutelares celebrarán cinco Plenos Ordinarios por semana y los Extraordinarios que sean necesarios.
 
-Las sesiones se celebrarán en el lugar que acuerde la Junta de Gobierno a propuesta del Presidente. Salvo por causas justificadas, en la convocatoria correspondiente, se señalará lugar distinto al acordado para la celebración de la sesión.
+###### ARTICULO 27.
 
-### CAPÍTULO VII. Unidades Administrativas
+Los Consejeros practicarán visitas a los Centros de Observación y Tratamiento, con el objeto de conocer el estado de los menores y apreciar los avances de su tratamiento.
 
-###### Artículo 21.
+###### ARTICULO 28.
 
-Para la celebración de las sesiones ordinarias, el Presidente de la Junta de Gobierno, a través de la Secretaría Técnica, deberá convocar mediante escrito a cada uno de los miembros, por lo menos con cinco días hábiles de anticipación a la fecha que se fije para la celebración de la sesión.
+Corresponde al Presidente del Consejo:
 
-###### Artículo 22.
+I.- Representar al Consejo en todos los asuntos que le competen;
 
-Para la celebración de las sesiones extraordinarias, el Presidente de la Junta de Gobierno, a través de la Secretaría Técnica, deberá convocar a cada integrante, por lo menos con dos días hábiles de anticipación a la fecha que se fije para la celebración de la sesión.
+II.- Presidir las sesiones del Pleno y autorizar en unión del Secretario de Acuerdos, las resoluciones que aquel dicte;
 
-En aquellos casos que el Presidente de la Junta de Gobierno considere de extrema urgencia o importancia, así como a solicitud de alguno de los miembros, podrá convocar a sesiones extraordinarias fuera del plazo señalado.
+III.- Ser el conducto para tramitar ante otras autoridades los asuntos del Consejo y de los Centros de Observación y Tratamiento;
 
-#### Sección Primera. Unidad Auditora
+IV.- Recibir quejas e informes sobre las faltas y demoras en que incurran los servidores públicos del Consejo en el desempeño de sus labores, dar a aquellos el trámite y resolución que corresponda;
 
-###### Artículo 23.
+V.- Dictar las disposiciones pertinentes para la buena marcha del Consejo y de los Centros de Observación y Tratamiento, conforme a los lineamientos generales aprobados por el Pleno;
 
-La Secretaría Técnica deberá recabar la constancia de la recepción de la convocatoria y sus anexos por cada miembro de la Junta de Gobierno.
+VI.- Las demás funciones que determinen las Leyes y Reglamentos y las que sean inherentes a sus atribuciones.
 
-###### Artículo 24.
+###### ARTICULO 29.
 
-La convocatoria a las sesiones deberá contener, como mínimo, los siguientes elementos:
+Corresponde a los Consejeros:
 
-I. El día, la hora y domicilio en que se debe celebrar;
+I.- Conocer de los casos que le sean turnados, recabando todos los elementos conducentes a la resolución del Consejo, en los términos de esta Ley;
 
-II. El número progresivo de la sesión para la que se convoca;
+II.- Redactar y someter al Consejo el dictamen que corresponda;
 
-III. La mención de ser pública o privada;
+III.- Recabar informes periódicos de los Centros de Observación y Tratamiento y sobre la situación que guarden los menores;
 
-IV. La mención de ser ordinaria o extraordinaria;
+IV.- Las demás funciones que determinen las Leyes y Reglamentos y las que le sean inherentes a sus atribuciones.
 
-V. El proyecto de orden del día propuesto por el Presidente de la Junta de Gobierno, y también podrá enlistar los temas propuestos por los miembros. Los asuntos del orden del día deberán identificar su procedencia; y
+###### ARTICULO 30.
 
-VI. La información y los documentos, de forma adjunta, necesarios para el análisis de los puntos a tratar en la sesión, los cuales se distribuirán en medios impresos, electrónicos o magnéticos, según lo disponga la Secretaría Técnica o lo solicite cualquiera de los miembros.
+Para ser Consejero se requiere:
 
-### CAPÍTULO VI. Dirección General
+I.- Ser mexicano en el pleno ejercicio de sus derechos civiles y políticos;
 
-###### Artículo 25.
+II.- Tener por lo menos 27 años cumplidos;
 
-La persona titular de la Dirección General tendrá la representación legal del Centro de Conciliación, será designada y removida por la persona Titular del Poder Ejecutivo del Estado, quien no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia; debiendo recaer tal nombramiento en la persona que, además de contar los requisitos establecidos en la Ley de Entidades Paraestatales, deberá cumplir con los siguientes:
+III.- No haber sido condenado por delito doloso y gozar de buena reputación;
 
-I. Ser ciudadano mexicano, y estar en pleno goce de sus derechos civiles y políticos;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-II. Tener por lo menos treinta años de edad cumplidos al día de la designación;
+IV. Poseer el título que corresponda en los términos del Artículo 24 de esta Ley; y,
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+V.- Preferentemente haberse especializado en el estudio, prevención y tratamiento de la conducta irregular de los menores.
 
-III. Contar con título profesional de Licenciatura en Derecho o abogado;
+###### ARTICULO 31.
 
-IV. Tener capacidad y experiencia comprobable en actividades profesionales, de servicio público o administrativo, que estén sustancialmente relacionadas en materia laboral, cuando menos de tres años;
+Corresponde al Secretario de Acuerdos de los Consejos Tutelares:
 
-V. No haber ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación;
+I.- Acordar con el Presidente del Consejo los asuntos de la competencia del mismo, llevar un registro clasificado de los casos sometidos a su conocimiento y autorizar conjuntamente con el Presidente las resoluciones del Pleno;
 
-VI. No haber sido dirigente de asociaciones patronales o sindicatos en los tres años anteriores a la designación; y
+II.- Auxiliar al Presidente del Consejo en el despacho de las tareas que a éste corresponden y en el manejo del personal administrativo adscrito a la Presidencia;
 
-VII. No encontrarse inhabilitado para el desempeño de un cargo público.
+III.- Llevar diariamente la correspondencia y el turno de los asuntos que deba conocer el Consejo, documentar las actuaciones y expedir las constancias que el Presidente determine;
 
-###### Artículo 26.
+IV.- Acordar todos los días con los Consejeros, los escritos y comparecencias que se formulen en los casos sometidos a su estudio, librar citas y hacer notificaciones en los procedimientos que se tramiten ante el Pleno, asentando y expidiendo las certificaciones y demás razones que procedan en términos de Ley;
 
-La persona titular de la Dirección General, además de las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales, tendrá las siguientes:
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-I. Celebrar actos y otorgar toda clase de documentos inherentes al objeto del Centro de Conciliación;
+V.- Tener a su cargo, bajo su responsabilidad, el sello y libros correspondientes pertenecientes al Consejo y remitir a la autoridad ejecutora copia certificada de las resoluciones en que se acuerde la resolución, modificación, o cesación de una medida.
 
-II. Tener la representación legal del Centro de Conciliación, así como ejercer facultades de dominio, administración, pleitos y cobranzas, con apego a la Ley y al Reglamento Interior;
+#### SECCION II. DE LOS PROMOTORES
 
-III. Otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial;
+###### ARTICULO 32.
 
-IV. Sustituir y revocar poderes generales o especiales;
+Corresponde a los Promotores adscritos a los Consejos Tutelares y Centros de Observación y Tratamiento:
 
-V. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+I.- Intervenir en el procedimiento que se siga ante el Consejo, desde que el menor quede a disposición de aquel órgano, para vigilar la fiel observancia de la Ley;
 
-VI. Presentar a la Junta de Gobierno los informes de actividades y estados financieros en forma trimestral;
+II.- Concurrir cuando el menor comparezca ante los Consejeros o el Pleno; proponer la práctica de pruebas y asistir a su desahogo, formular alegatos, interponer recursos e intervenir en los casos de revisión;
 
-VII. Presentar a la Junta de Gobierno, para su aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Centro de Conciliación;
+III.- Recibir instancias, quejas e informes de quienes ejerzan la patria potestad, la tutela o la guarda sobre el menor y hacerlos valer ante el órgano que corresponda, según resulte procedente en el curso del procedimiento;
 
-VIII. Proponer a la Junta de Gobierno el nombramiento o remoción de los servidores públicos del Centro de Conciliación que ocupen cargos en el segundo nivel jerárquico inferior al de él, así como expedir los nombramientos del personal según corresponda, y llevar las relaciones laborales en los términos establecidos en el presente ordenamiento;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-IX. Expedir certificaciones de los documentos que obren en los archivos del Centro de Conciliación;
+IV.- Visitar a los menores internos en el Centro de Observación y examinar las condiciones en que se encuentren, a fin de poner en conocimiento del Presidente del Consejo las irregularidades que advierta, para su inmediata corrección;
 
-X. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+V.- Visitar los Centros de Tratamiento y observar la ejecución de las medidas impuestas a fin de dar conocimiento a la autoridad competente de las irregularidades que se encuentren, para los mismos efectos de la fracción anterior;
 
-XI. Previa autorización de la Junta de Gobierno, instalar y en su caso reubicar las oficinas que sean necesarias para el cabal y oportuno cumplimiento de las atribuciones del Centro de Conciliación;
+VI.- Vigilar que los menores no sean detenidos en lugares destinados para la reclusión de adultos y denunciar ante la autoridad correspondiente las contravenciones que sobre el particular adviertan;
 
-XII. Dirigir técnica y administrativamente las actividades del Centro de Conciliación;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-XIII. Presentar a la Junta de Gobierno, para su aprobación, las modificaciones a la organización del Centro de Conciliación, así como los proyectos de iniciativa de leyes, códigos, reglamentos, decretos, acuerdos, manuales, reglas de operación, lineamientos, normas y demás necesarias para el funcionamiento del Centro de Conciliación;
+VII.- Promover la revisión del caso cuando a su juicio sea necesario, por inadecuación del tratamiento, por su ineficacia o por su éxito que hagan evidente la necesidad de modificarlo o consumarlo; y,
 
-XIV. Presentar a la Junta de Gobierno para su aprobación las bases para la organización, funcionamiento y desarrollo del Servicio Profesional de Carrera;
+VIII.- Las demás atribuciones que sean propias de su cargo.
 
-XV. Presentar a la Junta de Gobierno, para su aprobación, dentro del primer trimestre de su gestión, el proyecto de Programa Institucional que deberá contener metas, objetivos, recursos e indicadores de desempeño y cumplimiento;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-XVI. Rendir semestralmente a la Junta de Gobierno un informe de resultados del Programa Institucional;
+#### SECCION III. DE LOS CENTROS DE OBSERVACION Y TRATAMIENTO
 
-XVII. Definir las políticas de instrumentación de los sistemas de control que fuesen necesarios, incorporando información estadística para la mejora de la gestión;
+###### ARTICULO 33.
 
-XVIII. Proponer a la Junta de Gobierno los programas permanentes de actualización, capacitación, y certificación de las personas conciliadoras; y
+Cada Centro de Observación y Tratamiento contará con el siguiente personal:
 
-XIX. Las demás que se requieran para el adecuado funcionamiento del Centro de Conciliación, así como las que deriven de la LFT, de esta Ley, el Reglamento Interior y otras disposiciones legales aplicables.
+I.- Un Director del mismo, que ejercerá sus funciones en la propia institución a que fue asignado;
 
-### CAPÍTULO VII. Unidades Administrativas
+II.- EDUCACIONAL: Que ejercerá sus funciones en el Centro al que fue adscrito, instruyendo obligatoriamente a los menores en educación alfabetizadora y educación básica, y opcionalmente para los menores su ingreso a la preparatoria, de acuerdo con la capacidad y antecedentes escolares del menor;
 
-###### Artículo 27.
+III.- TECNICO: Que ejercerá sus funciones en la institución a que fuera asignado y conducirá a los menores hacia actividades productivas, no sólo como terapia ocupacional, sino también para su capacitación;
 
-La Dirección General para la atención y despacho de los asuntos de su competencia, contará con unidades administrativas que para tal efecto autorice la Junta de Gobierno; así como asesores, asistentes y demás personal conforme al presupuesto y las estructuras ocupacionales autorizadas y que sean necesarias para el buen desarrollo de funciones que le sean encomendadas.
+IV.- DE CUSTODIA: Que ejercerá sus funciones en la institución a que fue asignado y que será suficiente y adecuado para salvaguardar el orden, la paz y seguridad en el establecimiento;
 
-Las facultades y obligaciones de las unidades administrativas referidas en el presente artículo se regularán de manera específica en el Reglamento Interior, manuales de organización y demás disposiciones aplicables según corresponda.
+V.- ADMINISTRATIVO: Que ejercerá sus funciones en la institución a que fuera asignado y que cubra las necesidades del establecimiento.
 
-Los servidores públicos del primer nivel jerárquico inferior al de la persona titular de la Dirección General, serán designados y removidos por el Gobernador del Estado.
+El personal técnico, administrativo y de custodia que refieren estas disposiciones, estará sujeto al presupuesto de egresos.
 
-La designación de las personas conciliadoras será de conformidad con lo previsto en la LFT y en las demás disposiciones aplicables; su nombramiento tendrá una vigencia de tres años y podrán ratificarse por periodos sucesivos de la misma duración.
+###### ARTICULO 34.
 
-### CAPÍTULO VIII. Órgano de Vigilancia
+Corresponde a los Directores de los Centros de Observación y Tratamiento:
 
-###### Artículo 28.
+I.- Acordar con el Presidente del Consejo, en lo técnico y administrativo, los asuntos referentes a su Centro;
 
-El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del Centro de Conciliación. Estará integrado por un Comisario Público propietario y un suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+II.- Cuidar que el personal adscrito al establecimiento cumpla con sus funciones;
 
-###### Artículo 29.
+III.- Ordenar la ejecución de las resoluciones y medidas técnicas y disciplinarias, del Pleno del Consejo Tutelar;
 
-El Comisario Público cuenta con facultades para evaluar el desempeño general y por funciones del Centro de Conciliación, realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitar la información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente, y las que se establezcan en el Reglamento Interior con arreglo a las facultades aquí descritas y demás disposiciones aplicables.
+IV.- Tener a su cargo la administración, gobierno y vigilancia de los muebles e inmuebles que formen parte del Centro; y
 
-Para el cumplimiento de las funciones citadas, la Junta de Gobierno y la persona titular de la Dirección General, deberán proporcionar la información que solicite el Comisario Público del Centro de Conciliación y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
+V.- Los demás que establezca la Ley y reglamentos.
 
-### CAPÍTULO IX. Órgano Interno de Control
+### CAPITULO III. DEL PROCEDIMIENTO TUTELAR
 
-###### Artículo 30.
+#### SECCION I. DEL INGRESO, CLASIFICACION Y TRATAMIENTO
 
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del Centro de Conciliación, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-###### Artículo 31.
+###### ARTICULO 35.
 
-Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes unidades:
+Toda autoridad que tenga conocimiento de hechos comprendidos en el Artículo 19 de esta Ley o ante la cual se ha presentado un menor por igual motivo, informará de inmediato al Consejo Tutelar que corresponda, proveyendo en su caso el traslado al Centro de Observación de esa dependencia.
 
-I. Unidad Auditora;
+###### ARTICULO 36.
 
-II. Unidad Investigadora; y
+Inmediatamente que un menor quede a disposición de los integrantes del Consejo Tutelar que corresponda, procederán, de acuerdo con la especialidad y auxiliados por el personal técnico, al estudio de la personalidad del mismo, de la conducta por la cual es sujeto a la presente Ley, así como de las circunstancias personales del agente pasivo del hecho, las del tiempo, lugar, forma y ocasión en la realización de la conducta, su educación familiar y desarrollo en la misma y en sociedad y demás datos que sirvan para establecer el diagnóstico y pronóstico de los Consejeros, que serán base para pronunciar sus dictámenes.
 
-III. Unidad Substanciadora y Resolutora.
+###### ARTICULO 37.
 
-Los titulares de dichas unidades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
+La resolución del Consejo deberá pronunciarse dentro de las siguientes 72 horas seguidas al momento que quedó a disposición del mismo, y habrá de establecer fundada y motivadamente si quedará sujeto a tratamiento para su debida educación y adaptación social, declarando la medida a la que estará sujeto, pudiendo ser:
 
-El servidor público que ejerza la función de autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de autoridad Investigadora, a fin de garantizar su independencia, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas.
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+a).- De libertad orientada, consistente en que el menor siga integrado a su familia, si la tuviere, o bajo la protección y cuidado de la o las personas con quienes estuvo viviendo antes de la realización de la conducta que motivó quedara sujeto a observación y tratamiento; así como también podrá pronunciarse determinación que exprese que el menor quede incorporado a determinada familia o persona que lo deberá de proteger y cuidar.
 
-#### Sección Segunda. Unidad Investigadora
+La resolución habrá de precisar las fechas en que el menor concurrirá ante cada uno de los integrantes del Consejo para su debido tratamiento y hasta que sea declarada su adaptación y quede totalmente liberado como sujeto de esta Ley y reincorporado a la sociedad.
 
-###### Artículo 32.
+Al hacer entrega del menor, el Presidente del Consejo, en cumplimiento de la resolución, levantará acta en que conste la persona quien lo recibe y se asentará la obligación que contrae de presentar al menor ante el Consejo y de hacer saber al Presidente del mismo el comportamiento del menor y si éste abandonare el domicilio.
 
-La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+b).- De internamiento, para su estudio y tratamiento que se desarrollará en la Institución Tutelar en cuya jurisdicción el menor haya sido sujeto de estudio, diagnóstico y pronóstico por los integrantes del Consejo, sin prejuicio que el propio Consejo o la Dirección General pronuncien resolución especial sobre internamiento y tratamiento del menor.
 
-I. Elaborar y ejecutar, con aprobación de la Junta de Gobierno, el programa anual de auditorías a las diversas áreas que conforman el Centro de Conciliación;
+Si a juicio del Consejo, la infracción del menor es leve y su situación personal no revela un estado antisocial, ni sean aconsejables las medidas anteriores, sólo se impondrá al menor una amonestación privada y se le exhortará a que no reincida. Igualmente se exhortará a sus padres o tutores para que ejerzan sobre el menor mayor vigilancia.
 
-II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Centro de Conciliación;
+Si el menor resultara ajeno al hecho antisocial que motivó el conocimiento del Consejo, dictará éste su libertad incondicional.
 
-III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el Centro de Conciliación;
+###### ARTICULO 38.
 
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman el Centro de Conciliación cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la Contraloría del Estado;
+Por las resoluciones de los Consejos Tutelares, queda diferido o modificado, según sea el caso, el ejercicio de la patria potestad o la tutela, a cargo del Director del Centro de Observación en que quede con carácter de interno el menor y durará tal situación hasta que sea declarado habilitado para reincorporarse plenamente a su familia y a la sociedad.
 
-V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+###### ARTICULO 39.
 
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del Centro de Conciliación sobre el correcto ejercicio del gasto público;
+La responsabilidad civil del menor como resultado de su conducta, queda regida conforme a la legislación común aplicable, pero la tutela diferida al Estado no lo hace responsable después del tratamiento del Consejo.
 
-VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+###### ARTICULO 40.
 
-VIII. Rendir informe trimestral a la Junta de Gobierno, a través de la persona titular de la Dirección General, sobre el estado que guardan los asuntos de su competencia;
+En los Centros de Observación se alojará a los menores bajo el sistema de clasificación atendiendo a su sexo, edad, salud y demás circunstancias relativas a su personalidad. Durante el internamiento se continuará el conocimiento de la personalidad del menor, mediante la realización de los estudios conducentes a tal fin, conforme a las técnicas aplicables en cada caso. Siempre se practicarán estudios médico, psicológico, pedagógico y social, sin perjuicio de los demás que solicite el órgano competente.
 
-IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+###### ARTICULO 41.
 
-X. Asesorar a los servidores públicos y unidades administrativas del Centro de Conciliación en los asuntos de su competencia;
+El menor, durante su tratamiento y como meta para lograr su adaptación social, será guiado tanto en libertad orientada como en internamiento, en el cumplimiento de sus deberes de estudio y, en su caso, y por su edad, al trabajo que mejor le acomode por su capacidad física e intelectual, no solamente como una terapia ocupacional, sino para su capacitación en el mismo, y hacerlo útil para sí, a su familia y a la sociedad al reincorporarse cuando así lo dictamine el Consejo Tutelar.
 
-XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia;
+###### ARTICULO 42.
 
-XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades del Centro de Conciliación y a la normatividad aplicable a la materia;
+Cuando durante la fase de estudio del menor y aún en su tratamiento, tengan conocimiento los integrantes del Consejo que el menor ejecutó o tuvo intervención en otros hechos antisociales, no será necesario formarle nuevo expediente, sino que, los Consejeros ampliarán sus estudios sobre los hechos conocidos, para modificar, en su caso, el tratamiento.
 
-XIII. Participar en los actos de entrega recepción de las unidades administrativas del Centro de Conciliación; y
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-XIV. Las demás atribuciones previstas en otras disposiciones legales y reglamentarias aplicables.
+###### ARTICULO 43.
 
-#### Sección Tercera. Unidad Substanciadora y Resolutora
+Cuando alguno de los Consejeros advierta o tenga conocimiento por persona ajena al Consejo que el menor sujeto a tratamiento desobedece las instrucciones del mismo u observa mala conducta, solicitará al Presidente incluya en la agenda de sesiones del Pleno la cita del menor y de quien lo tenga bajo su guarda y cuidado si gozare de libertad orientada, o se hara presentar a aquél si estuviere bajo internamiento, para que sea tratado el caso y, el Consejo, si lo juzga necesario, volverá a someter a estudio al menor por los Consejeros, a efecto de pronunciar nueva resolución que determine el tratamiento a seguir.
 
-###### Artículo 33.
+###### ARTICULO 44.
 
-La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
+Las resoluciones del Consejo nunca causarán estado y el menor siempre estará sujeto a observación para determinarse las modificaciones de su tratamiento.
 
-I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y de probables hechos de corrupción de los servidores públicos adscritos al Centro de Conciliación y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al Centro de Conciliación, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas;
+###### ARTICULO 45.
 
-III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+El Consejo revisará de oficio, por lo menos cada dos meses, las medidas impuestas y, tomando en cuenta el éxito o fracaso de las mismas podrá hacer cesar el tratamiento o modificarlo. Al respecto deberá oirse previamente al Cuerpo Técnico del Centro de Observación y Tratamiento.
 
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+###### ARTICULO 46.
 
-V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del Centro de Conciliación o bien, referidas a faltas de particulares en relación con éste;
+Al pronunciarse resolución por el Consejo que establezca la adaptación del menor, su libertad orientada o el internamiento se declararán concluidos y le será otorgada su libertad inmediata, pero siempre se entenderá que el menor será vigilado para prevenir la realización de conductas antisociales.
 
-VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al Centro de Conciliación o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+Podrá retenerse al menor no adaptado, aun cuando llegue a la mayor edad, sin que el tiempo de internamiento pueda exceder de la mitad del mínimo que la Ley Penal señala al delito que si fuera imputable se hubiera cometido.
 
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del Centro de Conciliación o de los particulares, habilitando para ello al personal del área correspondiente;
+###### ARTICULO 47.
 
-VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+Los promotores y los integrantes técnicos de los Centros de Observación, podrán solicitar al Consejo la modificación del tratamiento del menor, cuando la conducta observada por éste lo haga necesario.
 
-IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al Centro de Conciliación;
+###### ARTICULO 48.
 
-X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
+Las resoluciones del Consejo nunca podrán ser modificadas o revocadas en forma alguna por los Tribunales Civiles.
 
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
+#### SECCION II. DE LAS ACTUACIONES
 
-XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+###### ARTICULO 49.
 
-XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
+Para los trámites del procedimiento tutelar se escuchará al menor, a sus padres, tutores o encargados y a su promotor para cuyo efecto, antes de iniciar el Procedimiento, el Consejero Presidente informará a unos y otros en lenguaje sencillo y adecuado acerca de las circunstancias y las causas por las cuales se encuentra a disposición del Consejo Tutelar.
 
-XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+###### ARTICULO 50.
 
-XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+Si el menor no hubiere sido presentado ante el Consejo, su Presidente lo citará a él y a sus familiares, o dispondrá la presentación del mismo por conducto del personal que para tal efecto cuente el Consejo. En la resolución que a este propósito expida, se expresarán los fundamentos legales y técnicos de la misma. No se procederá a la presentación de un menor sin que medie orden escrita y fundada del Consejero Presidente.
 
-XVI. Rendir informe trimestral a la Junta de Gobierno, a través de la persona titular de la Dirección General, sobre el estado que guardan los asuntos de su competencia;
+###### ARTICULO 51.
 
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+El promotor vigilará que el procedimiento tutelar se lleve a cabo en la forma que establece la ley y respetándose siempre la integridad física y dignidad del menor.
 
-XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+###### ARTICULO 52.
 
-XIX. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+Para el despacho de los asuntos sometidos a su conocimiento el Presidente o el Pleno acordarán se practiquen notificaciones, expedirán citas y órdenes de presentación y aplicarán medidas de apremio y correcciones disciplinarias a los adultos que ante ellos intervengan. A este efecto se estará a lo dispuesto en el Código de Procedimientos Penales.
 
-###### Artículo 34.
+###### ARTICULO 53.
 
-La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
+Se prescindirá siempre que sea posible y, particularmente cuando el menor se halle presente, de las formalidades propias del procedimiento para adultos, asentándose en las actuaciones la naturaleza tutelar del órgano, exenta de propósito represivo. Se procurará no emplear términos tales como delito, tipo penal, antijuridicidad, culpabilidad ni demás conceptos jurídicos penales, sino que sólo se hará referencia a los hechos en que se diga participó el menor.
 
-I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Centro de Conciliación, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+###### ARTICULO 54.
 
-Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del Centro de Conciliación.
+Los objetos remitidos al Consejo y relacionados con los hechos que se sometan a su conocimiento, se entregarán a sus legítimos propietarios tan pronto como estos comprueben su derecho y otorguen el recibo correspondiente, excepto los de uso prohibido, que serán remitidos inmediatamente a la Dirección General dejándose la constancia respectiva.
 
-Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+###### ARTICULO 55.
 
-En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+Cuando de las diligencias practicadas conforme a este Ordenamiento aparezcan datos que hagan presumir la responsabilidad penal de un adulto, se harán del conocimiento del Ministerio Público para que, en su caso, se instruya, separadamente, el procedimiento que corresponda.
 
-II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+#### SECCION III. DE LAS EXCUSAS E IMPEDIMENTOS
 
-III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+###### ARTICULO 56.
 
-IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+Los Consejeros, los Secretarios de Acuerdos y los Promotores quedan sujetos en lo aplicable a los impedimentos que establece la ley adjetiva penal y en estos casos deberán excusarse.
 
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
+###### ARTICULO 57.
 
-VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+El Pleno resolverá de plano sobre la excusa y determinará la substitución del impedido.
 
-VII. Rendir informe trimestral a la Junta de Gobierno, a través de la persona titular de la Dirección General, sobre el estado que guardan los asuntos de su competencia;
+###### ARTICULO 58.
 
-VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
+El Pleno resolverá la forma de proceder cuando no exista disposición expresa aplicable al caso, ajustándose siempre a la naturaleza de las funciones del Consejo y a los fines que éste persigue.
 
-IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+#### SECCION IV. PROHIBICIONES
 
-X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
+###### ARTICULO 59.
 
-XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
+No se permitirá el acceso de personas ajenas a las diligencias que se celebren ante el Pleno del Consejo o sus integrantes. El Promotor deberá estar presente e intervendrá en el cumplimiento de sus funciones y en todas las diligencias relativas a los procedimientos en que tenga participación.
 
-XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+###### ARTICULO 60.
 
-### CAPÍTULO X. Régimen Laboral
+Queda absolutamente prohibida la detención de menores en lugares destinados a la reclusión de mayores, por lo que inmediatamente toda autoridad deberá trasladarlos a la institución tutelar correspondiente.
 
-### CAPÍTULO VIII. Órgano de Vigilancia
+Cuando un menor haya intervenido en hechos relativos a mayores de 16 años de edad, toda autoridad que deba levantar diligencias con intervención del menor, se pondrá de acuerdo con el Director del Centro de Observación que lo tenga a su cargo, para que se actúe en el lugar que se juzgue más conveniente a la seguridad física y moral del menor, pero en ningún caso podrán trasladarse a los juzgados penales.
 
-#### Sección Primera. Unidad Auditora
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
 
-###### Artículo 35.
+###### ARTICULO 61.
 
-Las relaciones de trabajo entre el Centro de Conciliación y su personal se regirán por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+Queda estrictamente prohibido proporcionar el nombre de menores, así como datos sobre sus conductas, a cualquier persona que presumible o realmente pretenda hacerlos públicos en cualquier medio de difusión. Consecuentemente, los medios de difusión se abstendrán de publicar los nombres de menores y las conductas realizadas por los mismos, así como que se encuentren sujetos a tratamiento de conformidad con esta Ley.
 
-El Centro de Conciliación contará con un Sistema de Servicio Profesional de Carrera, en términos de las disposiciones aplicables.
+## TITULO CUARTO. DE LA READAPTACION DE LOS SENTENCIADOS
 
-### CAPÍTULO XI. Ausencias y Suplencias
+### CAPITULO I. DE LOS ORGANISMOS EJECUTORES DE SANCIONES PENALES SU INTEGRACION Y FUNCIONES
 
-###### Artículo 36.
+###### ARTICULO 62.
 
-Las ausencias temporales o definitivas, así como las suplencias respectivas de los servidores públicos del Centro de Conciliación se regularán en el Reglamento Interior, con la observancia a lo previsto en otras disposiciones legales aplicables según sea el caso.
+La Dirección General, por conducto de su titular o del Director de Readaptación Social, tendrá las siguientes atribuciones:
 
-T R A N S I T O R I O S
+I.- Organizar, supervisar y vigilar los Centros de Readaptación Social del Estado, con la finalidad de procurar el debido y estricto cumplimiento del sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente, ejecutando las sanciones a que se refiere el Artículo 113 del Código Penal del Estado;
 
-#### Sección Segunda. Unidad Investigadora
+II.- Organizar, supervisar y vigilar las labores de los Consejos Técnicos Interdisciplinarios adscritos a los Centros de Readaptación Social;
 
-#### Sección Tercera. Unidad Substanciadora y Resolutora
+III.- Previo acuerdo con el Secretario General de Gobierno, nombrar y remover a los Directores de los Centros de Readaptación Social e integrantes de los Consejos Técnicos Interdisciplinarios;
 
-### CAPÍTULO IX. Órgano Interno de Control
+IV.- Expedir los reglamentos internos por los que deba regirse el funcionamiento de los Centros de Readaptación Social y Consejos Técnicos Interdisciplinarios;
 
-### CAPÍTULO X. Régimen Laboral
+V.- Vigilar el cumplimiento de la presente Ley, su Reglamento y disposiciones interiores que rijan en los centros de internamiento;
 
-### CAPÍTULO XI. Ausencias y Suplencias
+VI.- Intervenir en la administración de los Centros de Readaptación Social, vigilando que se encuentren en las mejores condiciones de higiene y seguridad;
 
-LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES
+VII.- Señalar los establecimientos donde deban cumplirse las resoluciones restrictivas o privativas de libertad dictadas por las autoridades judiciales y, en los casos de existir dos o más penas privativas de libertad en contra del mismo reo, establecer a partir de cuándo empezará a computarse cada una de ellas en forma sucesiva y no simultánea, tomando como fundamento la fecha en que causen ejecutoria las sentencias de la más antigua a la más reciente.
 
-### CAPÍTULO I. Disposiciones Generales
+VIII.- Llevar un registro y expedientes de las personas que sean internadas por restricción o privación de su libertad en los Centros de Readaptación Social, exigiendo a sus responsables los informes oportunos y copias de las resoluciones judiciales que hubieren decretado el internamiento en el Centro, incluyendo las dictadas en primera y segunda instancias y, en su caso, en el Juicio de Garantías; asimismo, el expediente de cada interno se complementará con los informes relativos a su comportamiento, incluyendo las correcciones disciplinarias que se le hubieren impuesto en los términos del reglamento respectivo;
 
-### CAPÍTULO II. Objeto y Atribuciones
+IX.- Exigir a los Directores de los Centros de Readaptación Social, que mensualmente remitan el cómputo de los días laborados, expresando el trabajo desarrollado por los internos;
 
-### CAPÍTULO III. Patrimonio
+X.- Conocer, investigar y resolver las quejas de los internos sobre el trato de que sean, objeto y sus inconformidades respecto al tratamiento y medidas impuestas por los Directores y Consejos Técnicos Interdisciplinarios de los Centros de Readaptación Social;
 
-### CAPÍTULO IV. Estructura Orgánica
+XI.- Resolver los casos de condenados por sentencia firme a que se refieren los Artículos 9o,10,11 y 12 del Código Penal del Estado;
 
-###### ARTÍCULO PRIMERO.
+XII.- Proveer a la ejecución de las medidas que dicte el Juez a procesados que enloquezcan durante el procedimiento, en los términos del Artículo 71 del Código Penal;
 
-El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+XIII.- Vigilar que los Consejos Técnicos Interdisciplinarios adscritos en los Centros de Readaptación Social, apliquen las medidas de seguridad ordenadas por la autoridad judicial correspondiente y a que se refieren los Artículos 66 a 68,101 a 107 del Código Penal;
 
-###### ARTÍCULO SEGUNDO.
+XIV.- Determinar los lugares en que deban estar recluidos los locos, oligofrénicos, sordomudos, toxicómanos, alcohólicos y degenerados;
 
-El Centro de Conciliación Laboral del Estado de Aguascalientes entrará en funciones en términos de lo dispuesto por el Artículo Cuarto Transitorio del Decreto Número 446, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 8 de febrero de 2021.
+XV.- Establecer la vigilancia de los reos sujetos a confinamiento;
 
-###### ARTÍCULO TERCERO.
+XVI.- Proponer al Ejecutivo del Estado las resoluciones de conmutación de sanciones a que se refiere el Artículo 110 del Código Penal del Estado;
 
-La persona titular del Poder Ejecutivo del Estado designará, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Aguascalientes.
+XVII.- Proceder a la vigilancia del sentenciado al que se hubiere concedido el beneficio de la condena condicional a que se refiere la fracción V del Artículo 112 del Código Penal;
 
-###### ARTÍCULO CUARTO.
+XVIII.- Declarar la extinción de las sanciones pecuniaria o corporal que refieren los Artículos 114,138 al 142 del Código Penal del Estado;
 
-La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes deberá instalarse en un plazo no mayor a quince días hábiles, contados a partir del día de la designación de la persona titular de la Dirección General del referido Centro de Conciliación.
+XIX.- Proponer al Ejecutivo del Estado los casos de amnistía y reconocimiento de inocencia en los términos de los Artículos 115 y 117 del Código Penal;
 
-###### ARTÍCULO ÚNICO.
+XX.- Trasladar a los internos a los distintos establecimientos del Estado, de la Federación o entidades de ésta, por razones administrativas de seguridad, a petición justificada del Consejo Técnico Interdisciplinario o del propio interno que invoque motivo de cercanía familiar; los requisitos del traslado se fijarán en el reglamento respectivo;
 
-Se expide la Ley del Centro de Conciliación Laboral del Estado de Aguascalientes, para quedar como sigue:
+XXI.- Otorgar los beneficios de remisión parcial de la pena y libertad preparatoria en los términos de Ley;
 
-LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES
+XXII.- Revocar las libertades preparatorias que hubiere otorgado, así como conceder una segunda oportunidad al beneficiado en los términos de esta Ley;
 
-INDICE
+XXIII.- Fomentar patronatos para los internos y liberados;
+
+XXIV.- Expedir a los interesados constancias de haber extinguido la sanción impuesta por la autoridad judicial, para que obtengan la rehabilitación en los términos que fija la Ley Procesal Penal y conceder, en definitiva, lo que fuere conveniente respecto a la rehabilitación, ordenando su publicación en el Periódico Oficial;
+
+XXV.- Las demás que resulten de esta Ley, de las leyes penales sustantiva y adjetiva, de los reglamentos, convenios y acuerdos del Ejecutivo del Estado y las disposiciones de Secretario General de Gobierno.
+
+###### ARTICULO 63.
+
+LA Dirección de Readaptación Social se integrará por:
+
+I.- Un Director;
+
+II.- Un Subdirector;
+
+III.- Una Sección Penológica;
+
+IV.- Una Sección Coordinadora de Consejos Técnicos Interdisciplinarios;
+
+V.- Una Sección de Sistemas Penitenciarios;
+
+VI.- Establecimiento de internamiento de procesados y los de sentenciados; y
+
+VII.- El personal técnico, administrativo y de custodia que señalen las disposiciones internas y el Presupuesto de Egresos.
+
+#### SECCION I. DE LOS ESTABLECIMIENTOS
+
+###### ARTICULO 64.
+
+Los establecimientos de Readaptación Social son instituciones públicas destinadas a la internación de los sentenciados a penas privativas de la libertad impuestas por los Tribunales Judiciales; estarán situadas en diferentes partes del Estado y se denominarán CENTROS DE READAPTACION SOCIAL, los que serán en número suficiente de acuerdo con la población penitenciaria, siendo piloto el ubicado en Ciudad Victoria, Tamaulipas.
+
+###### ARTICULO 65.
+
+Los establecimientos distritales estarán situados en la cabecera de cada distrito judicial y se destinarán al internamiento de procesados, de los que sean objeto de una detención y de los que deban cumplir un arresto.
+
+También podrán destinarse para los sentenciados que determine la Dirección General.
+
+###### ARTICULO 66.
+
+Los establecimientos estarán divididos en tres secciones: La de procesados, la de detenidos o indiciados y la de sentenciados. La sección de detenidos por faltas o contravenciones será administrada por cada municipio y deberá estar separada de las demás.
+
+###### ARTICULO 67.
+
+El sitio destinado a prisión preventiva deberá ser distinto del señalado para la extinción de penas. Las mujeres compurgarán las sanciones en lugares separados de los hombres y se designará personal de custodia exclusivamente femenino. Los menores de 18 años de edad y los mayores de ésta pero menores de 25 deberán estar separados de los demás internos.
+
+###### ARTICULO 68.
+
+Al frente de los establecimientos de Readaptación Social estará un Director que presidirá el Consejo Técnico Interdisciplinario; contará con el personal técnico, administrativo y de vigilancia que se estime necesario y estarán subordinados a la Dirección General.
+
+El Director tendrá a su cargo el gobierno, la vigilancia y administración del establecimiento, proveerá y cuidará la aplicación del reglamento interior y adoptará todas las medidas necesarias para el cumplimiento de esta Ley.
+
+Los Directores de los establecimientos de Readaptación Social deberán ser, preferentemente, licenciados en Derecho, especializados en la ciencia penitenciaria.
+
+###### ARTICULO 69.
+
+El personal de custodia o vigilancia quedará organizado conforme a las reglas de la disciplina penitenciaria, a fin de mantener la jerarquía y el orden requeridos para el correcto funcionamiento del sistema.
+
+###### ARTICULO 70.
+
+El personal de tratamiento y readaptación formará el Consejo Técnico Interdisciplinario y se integrará por los especialistas que sean necesarios para el cumplimiento de los fines de esta Ley, tales como psiquiatras, psicólogos, trabajadores sociales, maestros, médicos e instructores técnicos. Al Consejo podrá llamarse a los Consejeros Penitenciarios cuando se juzgue necesario por el Director.
+
+###### ARTICULO 71.
+
+Al personal de tratamiento y readaptación se le instruirá acerca de los fines de la materia penitenciaria.
+
+#### SECCION II. DE LOS CONSEJOS TECNICOS INTERDISCIPLINARIOS
+
+###### ARTICULO 72.
+
+En cada establecimiento de Readaptación Social existirá un Consejo Técnico Interdisciplinario y se regirá por el reglamento de la materia.
+
+###### ARTICULO 73.
+
+El Consejo ejercerá las funciones consultivas necesarias para la aplicación a los casos individuales del sistema progresivo, la ejecución de medidas preliberacionales, la concesión de la remisión parcial de la pena y de la libertad preparatoria y, en general, el cumplimiento de esta Ley. Además, el Consejo Técnico podrá sugerir a las autoridades del Centro de Internamiento medidas de carácter general para la correcta marcha del mismo.
+
+###### ARTICULO 74.
+
+El Consejo será presidido por el Director del establecimiento o por el servidor público que lo substituya en sus faltas, y se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia, pero nunca podrán faltar el médico y el maestro. Cuando no haya médico ni maestro adscritos al reclusorio, la Dirección General los designará de los que ejerzan dichas profesiones en la localidad.
+
+### CAPITULO II. DEL TRATAMIENTO Y DE LOS PROCEDIMIENTOS Y RESOLUCIONES DE LOS CONSEJOS TECNICOS INTERDISCIPLINARIOS
+
+###### ARTICULO 75.
+
+La privación de la libertad de los internos no tiene por objeto infligirles sufrimientos físicos, ni humillarlos en su dignidad personal. El tratamiento que se aplique estará exento de toda violencia o maltrato corporal.
+
+###### ARTICULO 76.
+
+En los establecimientos de reclusión para sentenciados se implantará un régimen individualizado sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para su readaptación.
+
+###### ARTICULO 77.
+
+La finalidad inmediata de dicho tratamiento será la de modificar las tendencias, inclinaciones y predisposiciones morbosas y antisociales de los sentenciados y facilitarles la adquisición de conocimientos que puedan serles útiles en su vida libre.
+
+###### ARTICULO 78.
+
+El régimen tendrá carácter progresivo técnico; constará de períodos de estudio, diagnóstico, clasificación y tratamiento básico, preliberacional y de reintegración. El tratamiento se fundará en los resultados de los estudios de personalidad que se practiquen al interno, los que deberán ser actualizados periódicamente.
+
+###### ARTICULO 79.
+
+Desde la fecha del internamiento de una persona que haya sido restringida o privada de su libertad por resolución pronunciada de acuerdo a las leyes penales, quedará sujeto al régimen penitenciario en su primer período consistente en el estudio de la personalidad del sujeto, del hecho o hechos que motivaron la privación de su libertad con las circunstancias personales del sujeto pasivo, tiempo, lugar, forma, modo y ocasión; los antecedentes del interno en cuanto a la educación familiar, su desarrollo en la misma y en la sociedad y demás datos que sirvan para establecer los diagnósticos de los Consejeros y cuyo período no podrá exceder el término de dos meses.
+
+###### ARTICULO 80.
+
+Concluida la fase de estudio, el Director del Consejo Técnico Interdisciplinario procederá a convocar a la Sesión de Pleno, para que sus integrantes emitan los diagnósticos por escrito, con base en los cuales se emitirá resolución que determine el tratamiento individualizado, tomando en cuenta las condiciones del Centro de Internamiento y sus posibilidades presupuestales.
+
+Toda resolución del Consejo Técnico Interdisciplinario establecerá la clasificación del interno para determinar el separo donde deberá quedar recluido, la expresión del trabajo que podrá y deberá desempeñar, en función no sólo de terapia ocupacional, sino que tienda a la capacitación para el mismo; y, además, por su capacidad intelectual y antecedentes en los grados de enseñanza cursados, el estudio que podrá y deberá realizar.
+
+###### ARTICULO 81.
+
+Durante el período de tratamiento los integrantes del Consejo, cuantas veces lo juzguen necesario, deberán someter a nuevos estudios al interno para que se determinen las modificaciones que se hayan operado en su personalidad y conducta, los cuales nunca habrán de ser en períodos mayores de seis meses para los privados de la libertad por menos de tres años y, cuando excediera la condena a dicho tiempo, los estudios se realizarán cuando menos una vez al año.
+
+###### ARTICULO 82.
+
+La primera de las resoluciones pronunciadas por el Consejo Técnico Interdisciplinario deberá ser remitida en copia a la autoridad que haya ordenado el internamiento del sujeto; igualmente se remitirá copia de la resolución que se pronuncie con motivo de haberse ordenado un nuevo estudio, que tuviese como causa el no haberse sometido al interno al tratamiento o por su mala conducta.
+
+### CAPITULO III. DE LA EJECUCION DE LAS SANCIONES MODIFICACION Y BENEFICIOS
+
+###### ARTICULO 83.
+
+Para los efectos de computación de penas y su remisión parcial, se contarán los años por trescientos sesenta y cinco días. En los casos en que existan dos o más penas privativas de la libertad en contra de un mismo reo, por ningún motivo su cumplimiento podrá correr simultáneamente, debiendo compurgarse cada una en forma independiente.
+
+#### SECCION I. DE LAS MEDIDAS DE SEGURIDAD
+
+###### ARTICULO 84.
+
+La Dirección General procederá a la ejecución de las medidas de seguridad que considere convenientes, y las decretadas por el Juez en procesos penales, en los términos del Código Penal y Procesal Penal. Asimismo, podrá substituir una medida de seguridad por otra más adecuada, de acuerdo con la personalidad del sujeto y la eficacia de la nueva medida, siempre que así lo sugiera el Consejo Técnico Interdisciplinario.
+
+En los casos de sentenciados que enloquezcan, serán internados en los lugares donde se encuentren los procesados que enloquezcan, pudiendo ser entregados a sus familiares en los mismos términos que dispone el Artículo 102 del Código Penal, pero detectándose el estado de remisión deberá compurgar el resto de la sanción, computándose el tiempo en que hubiere permanecido en custodia institucional o familiar como tiempo efectivo para extinguir la sanción.
+
+#### SECCION II. RECONOCIMIENTO DE INOCENCIA E INDULTO
+
+###### ARTICULO 85.
+
+Con base a las diligencias originales practicadas por el Supremo Tribunal de Justicia del Estado a solicitud de la persona que se crea con derecho para pedir el reconocimiento de inocencia, la Dirección General formulará el proyecto de resolución en que el Ejecutivo deberá otorgar dicho reconocimiento. Al respecto se observará el Código Procesal Penal y se estará a lo dispuesto en el Artículo 55 del Código Penal.
+
+###### ARTICULO 86.
+
+El indulto por gracia sólo se concederá en los términos de los Artículos 119 y 120 del Código Penal. El solicitante ocurrirá a la Dirección General con su instancia y los comprobantes respectivos.
+
+###### ARTICULO 87.
+
+La Dirección General someterá la solicitud al Ejecutivo y éste, en vista de los comprobantes a que se refiere el artículo anterior, o si así conviniere a la tranquilidad o seguridad públicas, concederá o no el indulto.
+
+#### SECCION III. CONDENA CONDICIONAL
+
+###### ARTICULO 88.
+
+La vigilancia y supervisión de la conducta de los sentenciados, a quienes se les haya suspendido condicionalmente la condena impuesta por sentencia definitiva, estará a cargo de la Dirección General.
+
+###### ARTICULO 89.
+
+Para efectuar la vigilancia a que se refiere el artículo anterior, la Dirección General podrá auxiliarse del Ayuntamiento en que radique el sentenciado.
+
+###### ARTICULO 90.
+
+La vigilancia será ejercida discretamente y los informes que se obtengan en caso de ser desfavorables se comunicarán a los tribunales competentes.
+
+#### SECCION IV. CONMUTACION DE SANCIONES
+
+###### ARTICULO 91.
+
+Tratándose de delitos contra la seguridad del Estado, la Dirección General propondrá al Ejecutivo del Estado la conmutación de las sanciones, después de la sentencia firme, en los siguientes términos:
+
+I.- Cuando la sanción impuesta sea la de prisión, se conmutará por confinamiento, por el término igual de los dos tercios de lo que debiera durar la de prisión;
+
+II.- Cuando la sanción impuesta sea la de confinamiento se conmutará en multa conforme al Artículo 108 del Código Penal.
+
+###### ARTICULO 92.
+
+Para que pueda operar la conmutación, es indispensable cubrir o garantizar la reparación del daño.
+
+#### SECCION V. DEL REGIMEN PRELIBERACIONAL
+
+###### ARTICULO 93.
+
+El Ejecutivo promoverá la creación de establecimientos abiertos, en los cuales el régimen de tratamiento se fundará en la confianza y la responsabilidad del interno respecto a la comunidad en que viva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 1993)</small>
+
+###### ARTICULO 94.
+
+El régimen de establecimiento abierto consiste en un sistema de internamiento en Granjas, Campamentos y Colonias de Readaptación Social, así como en permisos de salida diaria o de fin de semana con reclusión nocturna, salida con reclusión de fin de semana, salida diaria con reclusión nocturna y de fin de semana, que constituye el tratamiento preliberacional que se concederá cuando técnicamente sea recomendable, valorando en su conjunto la personalidad y grado de readaptación del interno, para tal efecto la Dirección General se apoyará en la opinión del Consejo Técnico y el Organismo Técnico-Criminológico de la Institución que corresponda.
+
+Cuando sea procedente la preliberación de salida y reclusión en cualquiera de sus modalidades, el beneficiado será internado en un sector totalmente separado de los sentenciados o procesados.
+
+La preliberación no será procedente si el solicitante tiene pendiente de cumplir alguna o varias sanciones corporales derivadas de sentencias distintas a la que motiva la solicitud, ya sea del orden común o federal.
+
+###### ARTICULO 95.
+
+El sistema de vida y las condiciones a las que estarán sujetos los internos asignados a los regímenes que se mencionan en el artículo anterior, serán fijados por los acuerdos que dicte la Dirección General, previa consulta con el Consejo Técnico Interdisciplinario correspondiente.
+
+###### ARTICULO 96.
+
+Los internos que gocen del régimen preliberacional y que desempeñen algún trabajo fuera del establecimiento de Readaptación Social, lo harán siempre bajo el control de personal especializado del Centro Penitenciario.
+
+###### ARTICULO 97.
+
+Durante el período de tratamiento preliberacional podrá autorizarse al interno para que asista a escuelas situadas fuera del establecimiento.
+
+#### SECCION VI. REMISION DE SANCIONES
+
+###### ARTICULO 98.
+
+Por cada dos días de trabajo hecho en beneficio del Centro de Internamiento o en beneficio personal, se hará remisión de uno de prisión, siempre que el interno observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y revele, por otros datos, una efectiva readaptación social. Este último será en todo caso el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en el cumplimiento de los demás requisitos.
+
+###### ARTICULO 99.
+
+Bajo ningún concepto la remisión parcial de la pena se entenderá como mero cómputo aritmético; estará siempre basado en los lineamientos del artículo anterior, especialmente en la readaptación de la personalidad del interno.
+
+###### ARTICULO 100.
+
+Para los efectos de la remisión parcial de la pena, el cómputo de los días laborados lo llevará estrictamente el personal administrativo del Centro de Readaptación Social en coordinación con el Consejo Técnico Interdisciplinario del mismo.
+
+Los domingos serán días de descanso obligatorio pero se computarán como días laborados para los efectos de la remisión parcial de la pena. Las madres internas que trabajen tendrán derecho a que se computen, para efecto de la remisión parcial de la pena, los períodos pre y post natales.
+
+Todo interno está obligado a seguir un régimen de trabajo; pero los que padezcan alguna enfermedad que los imposibilite para el trabajo, estarán exentos de esa obligación y su internamiento se les computará como días laborados para el efecto de la remisión parcial de la pena si por otros datos revelan efectiva readaptación social.
+
+###### ARTICULO 101.
+
+La remisión de la pena se entiende sin perjuicio del derecho a la libertad preparatoria, por lo que para computar la procedencia de ésta última se tomará en cuenta el tiempo de remisión.
+
+#### SECCION VII. LIBERTAD PREPARATORIA
+
+ARTICUL0 102.- La libertad preparatoria es potestad del Ejecutivo del Estado, y se concederá por conducto de la Dirección General al condenado que hubiere cumplido las tres quintas partes de su condena si se trata de delitos dolosos o preterintencionales, o de la mitad de la misma en caso de delitos culposos cuando se reúnan los siguientes requisitos:
+
+I.- Que durante el cumplimiento de su sentencia haya observado buena conducta, sin limitarse a la simple observancia de los reglamentos, sino también a su mejoramiento cultural y superación en el trabajo. No se entenderá como buena conducta toda evasión o tentativa de evasión y serán impedimento para que se conceda los beneficios de libertad preparatoria y remisión parcial de la pena, durante un año después de que éste en tiempo para la concesión de dichos beneficios.
+
+II.- Que del examen de su personalidad resulte socialmente readaptado y en condiciones de no volver a delinquir.
+
+III.- Que haya reparado el daño causado a que fue condenado, sujetándose a la forma y términos que fije la Tesorería General del Estado.
+
+Cubiertos los requisitos anteriores se podrá conceder la libertad preparatoria, sujeta a las siguientes condiciones:
+
+a).- Residir en lugar determinado, no pudiendo cambiar de domicilio sin autorización de la Dirección General. La designación del lugar se hará considerando la circunstancia de que el beneficiado pueda obtener trabajo en la localidad que se le fije, además del hecho de que su permanencia en ella no sea un obstáculo para su enmienda;
+
+b).- Desempeñar, en el plazo que la resolución determine, oficio, arte, industria o profesión lícitos o continuar su preparación para tal fin;
+
+c).- Observar buen comportamiento en la sociedad, abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes o substancias de efectos análogos;
+
+d).- Sujetarse a las medidas de orientación, vigilancia y supervisión que se le dicten y la vigilancia de una persona honrada y de arraigo que se obligue a informar de su conducta, presentándolo siempre que para ello fuere requerido y a depositar en efectivo en la Tesorería General del Estado la cantidad que se hubiere fijado como garantía, misma que se adjudicará al Estado en los casos de revocación del beneficio concedido. La Dirección General recibirá información, sobre la solvencia e idoneidad del fiador propuesto y en vista de ello resolverá si es de admitirse.
+
+###### ARTICULO 103.
+
+La libertad preparatoria no se concederá al reincidente, entendiéndose por tal, para los efectos de esta ley, el que después de haber sido condenado por delito doloso o preterintencional en sentencia firme, comete nuevos hechos delictuosos también de carácter doloso o preterintencional, sin necesidad de que en la nueva sentencia se haga declaración de reincidencia o habitualidad.
+
+La libertad preparatoria no será procedente si el solicitante tiene pendiente de cumplir una o varias sanciones corporales derivadas de sentencias distintas a la que motiva la solicitud, ya sean del orden común o federal; lo anterior es sin perjuicio del otorgamiento de la remisión parcial de las sanciones que deben cumplirse primero, en los términos del Artículo 83 de esta Ley.
+
+En los casos en que haya sido concedido el beneficio de libertad preparatoria y por diversas causas no se haga efectivo, y permaneciendo recluido el interno observare mala conducta, dicho beneficio quedará sin efecto alguno, debiéndose reevaluar su conducta en un término que no exceda de un año y resolver lo conducente respecto a la concesión de los beneficios aludidos.
+
+###### ARTICULO 104.
+
+La solicitud del interno que tenga derecho a la libertad preparatoria se remitirá a la Dirección General, con copia para la Dirección del establecimiento correspondiente.
+
+###### ARTICULO 105.
+
+Recibida la solicitud, la Dirección General recabará informes del Director del establecimiento en que se encuentre internado el solicitante, debiendo ser rendidos en un término de tres días.
+
+###### ARTICULO 106.
+
+La resolución que se pronuncie contendrá las observaciones y antecedentes relacionados con la conducta del interno durante su reclusión, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social.
+
+Dicha resolución será comunicada a la Procuraduría General de Justicia, al Director del establecimiento y a la autoridad municipal respectiva.
+
+###### ARTICULO 107.
+
+La libertad preparatoria podrá ser revocada:
+
+I.- Si el liberado viola las condiciones establecidas en el Artículo 102 de esta Ley. La Secretaría General de Gobierno, en coordinación con la Dirección General, podrán darle otra oportunidad, después de revocado el beneficio, debiéndose elevar la fianza fijada y apercibiéndolo de que si vuelve a faltar a las condiciones fijadas se hará efectiva en su totalidad la pena por compurgar;
+
+II.- Si el liberado es condenado por nuevo delito doloso o preterintencional una vez que cause ejecutoria la sentencia, en cuyo caso la revocación se hará de oficio. Si el nuevo delito es culposo se podrá revocar la libertad preparatoria de acuerdo a la peligrosidad del sujeto y a la gravedad del daño causado. Asimismo, en los casos en que la libertad preparatoria revocada contenga el beneficio de la remisión parcial de la pena, se tendrá como revocado también este beneficio.
+
+El condenado cuya libertad preparatoria haya sido revocada, deberá cumplir el resto de la sanción. Los hechos que originen los nuevos procesos interrumpen los plazos para extinguir la sanción, desde el momento de la consumación de aquellos.
+
+###### ARTICULO 108.
+
+Si durante un término igual al que le falte por extinguir desde la fecha en que se le haya concedido el beneficio, el liberado no diere lugar a nuevo proceso que concluya con sentencia condenatoria firme, se considerará extinguida la sanción.
+
+###### ARTICULO 109.
+
+Los beneficiados con la libertad preparatoria quedarán sujetos a la vigilancia de la Dirección General, por el tiempo que les faltare para extinguir su sanción corporal.
+
+### CAPITULO IV. LIBERACIONES DEFINITIVAS
+
+###### ARTICULO 110.
+
+Serán inmediatamente puestos en libertad los sentenciados que cumplan la sanción que les fuere impuesta o que hayan sido beneficiados con amnistía, reconocimiento de inocencia o indulto. Los servidores que demoren, sin causa justificada, el cumplimiento de lo antes dispuesto, incurrirán en las responsabilidades que señalen las leyes y reglamentos respectivos.
+
+###### ARTICULO 111.
+
+Al quedar el interno en libertad preparatoria o definitiva, se le entregará la cantidad que le corresponda de su fondo de ahorro, así como una constancia de que ha salido legalmente, de la conducta que haya observado, de su aptitud para el trabajo y un certificado en el que conste el grado educacional adquirido.
+
+El depósito a que se refiere el inciso d) del Artículo 102, le será devuelto al cumplir en su totalidad la sentencia que motivó su libertad preparatoria.
+
+###### ARTICULO 112.
+
+Cumplida la sentencia de un interno, la Dirección del establecimiento lo comunicará de inmediato al patronato de liberados, para su intervención.
+
+### CAPITULO V. REHABILITACION
+
+###### ARTICULO 113.
+
+La rehabilitación de los derechos civiles o políticos, no procederá mientras el reo se encuentre extinguiendo la sanción privativa de libertad.
+
+###### ARTICULO 114.
+
+En los términos de la ley adjetiva penal, el interesado ocurrirá al tribunal que haya dictado la sentencia firme, solicitando se le rehabilite en los derechos que se le privó o en cuyo ejercicio estuviese suspenso.
+
+En caso de que el tribunal decida que es fundada la solicitud, remitirá las actuaciones originales, con su informe, a la Dirección General, y ésta resolverá en definitiva lo que fuere conveniente, que en caso de concederse favorablemente la rehabilitación se publicará en el Periódico Oficial a costa del interesado y comunicará la resolución al tribunal correspondiente.
+
+###### ARTICULO 115.
+
+Al que una vez se le hubiere concedido la rehabilitación, no se le podrá conceder otra.
+
+## TITULO QUINTO. DISPOSICIONES COMUNES
+
+### CAPITULO I. DE LOS PATRONATOS
+
+###### ARTICULO 116.
+
+Son auxiliares de la Dirección General las Instituciones Oficiales, Patronatos o Asociaciones y los particulares que apoyen o se especialicen en lo relativo a la prevención de conductas antisociales, auxilio a sus víctimas, tutela de menores y readaptación de delincuentes.
+
+###### ARTICULO 117.
+
+Sólo podrá participar como Auxiliar un Patronato o Asociación por cada uno de los Consejos Tutelares existentes en el Estado y de los Centros de Internamiento de adultos.
+
+###### ARTICULO 118.
+
+Los Patronatos o Asociaciones a que se refiere este capítulo, se integrarán con la concurrencia de los diversos sectores y organizaciones privadas o en su caso por particulares, que tengan por objeto el bienestar y progreso de la comunidad o cualesquier otros fines análogos.
+
+###### ARTICULO 119.
+
+Los Patronatos o Asociaciones serán administrados en su individualidad por una Junta Directiva integrada por un Patrono Presidente y el número de vocales representativos de cada uno de los sectores y organizaciones que lo integren. Cada Patronato contará con un Secretario Ejecutivo.
+
+###### ARTICULO 120.
+
+El Patrono Presidente y el Secretario Ejecutivo serán nombrados por la reunión en pleno de los vocales representantes de las distintas organizaciones participantes en cada Patronato o Asociación, por mayoría de votos.
+
+###### ARTICULO 121.
+
+El Patrono Presidente o en su caso el Secretario Ejecutivo serán los representantes ante los órganos directivos de los Centros de Readaptación Social, Consejos Tutelares y sus Centros de Observación y Tratamiento, para la coordinación de acciones de apoyo.
+
+###### ARTICULO 122.
+
+Los Patronatos o Asociaciones no tendrán facultades ejecutivas en los Consejos Tutelares y Centros de Internamiento de menores o adultos, entendiéndose por apoyo la realización de las siguientes actividades:
+
+1.- Actos o eventos que fomenten en menores y adultos inclinaciones educativas, deportivas, artísticas o culturales.
+
+> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+
+2.- Formación y mantenimiento de talleres de artes y oficios en donde se capaciten tanto los que se encuentran en los Centros de Internamiento como aquéllos que hayan salido de éstos al término de su tratamiento.
+
+3.- Recaudación de fondos para el mantenimiento, conservación y mejoramiento de los Consejos Tutelares y Centros de Internamiento de Menores y Adultos y la infraestructura de apoyo de éstos.
+
+4.- Constituir bolsas de trabajo exclusivamente para la ocupación de los internos liberados.
+
+5.- Todas las demás en beneficio de los privados de su libertad que no interfieran con las que competan exclusivamente a las Autoridades Tutelares y Readaptadoras.
+
+###### ARTICULO 123.
+
+Los fondos recaudados por cualquier actividad, con el propósito de apoyo, deberán ser administrados por el Patrono Presidente o por el Secretario Ejecutivo, en coordinación con el Presidente del Consejo Tutelar Distrital o el Director del Centro de Readaptación Social y deberán ser destinados a un objetivo específico.
+
+###### ARTICULO 124.
+
+Las actividades que realice el Patronato o Asociación con el propósito de recabar fondos, así como la ejecución de los mismos en algún objetivo específico de apoyo, deberán ser autorizados por la Dirección General.
+
+###### ARTICULO 125.
+
+Cada Patronato o Asociación deberá rendir informe de sus actividades a la Dirección General, con una periodicidad que en ningún caso excederá a los seis meses.
+
+###### ARTICULO 126.
+
+La admisión o separación de los miembros de los Patronatos o Asociaciones será autorizada por el Presidente de dichos organismo, previa la aprobación de la Dirección General.
+
+### CAPITULO II. DE LOS MEDIOS DE IMPUGNACION
+
+###### ARTICULO 127.
+
+Sólo pueden ser objeto de impugnación, mediante el recurso de revisión, las resoluciones que:
+
+a).- Nieguen al menor o al adulto su traslado a diversa Institución Regional Tutelar o Centro de Readaptación Social en el Estado;
+
+b).- Impongan una sanción disciplinaria al menor, o al adulto, y que tendrá como único efecto, que de ser revocada la resolución, no sea tomada en cuenta al resolverse sobre la adaptación del propio menor a su familia y a la sociedad o, en su caso, sobre la concesión de beneficios a los adultos;
+
+c).- Impongan medida diversa a la amonestación, tratándose de menores; y
+
+d).- Nieguen, revoquen o concedan parcialmente los beneficios que la Ley otorga a los internos adultos.
+
+De estos recursos conocerá, en única instancia, la Dirección General.
+
+###### ARTICULO 128.
+
+Los recursos a que hace referencia esta Ley, deberán ser presentados dentro de los cinco días siguientes a la notificación personal de la resolución impugnada.
+
+###### ARTICULO 129.
+
+Deberá formularse por escrito en el que se mencionen la resolución que se impugna y los argumentos que a juicio del recurrente apoyan la revocación de la misma.
+
+###### ARTICULO 130.
+
+El recurso se interpondrá por conducto de la autoridad que emitió la resolución impugnada, y lo hará llegar a la Dirección General en un término que no exceda de cinco días, acompañado de un informe justificado.
+
+###### ARTICULO 131.
+
+La Dirección General resolverá lo que sea procedente en un término que no exceda de diez días hábiles.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1º. de enero de 1987, previa su publicación en el Periódico Oficial del Estado
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan, con sus reformas y adiciones, los Decretos números 169 y 24 de la Cuadragésima Novena y Quincuagésima Legislatura del Estado de Tamaulipas, de fechas 27 de abril de 1976 y 26 de abril 1978, respectivamente
+
+###### ARTICULO TERCERO.
+
+La Ley que crea los Consejos Tutelares Estatales en el Estado, que por la presente se abroga, continuará aplicándose para las infracciones ejecutadas durante su vigencia, en la inteligencia de que los infractores de 16 años de edad o más continuarán su tratamiento hasta su adaptación, sin que su internamiento pueda exceder del máximo señalado en el Artículo 46 de esta Ley.
+
+###### ARTICULO CUARTO.
+
+La Ley de Ejecución de Sanciones que Privan y Restringen la libertad en el Estado, que por la presente se abroga, continuará aplicándose para los internos a quienes se le haya dictado sentencia firme antes de la entrada en vigor de la presente Ley, por lo que se refiere a la concesión de beneficios.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
+
+Cd. Victoria, Tam., a 3 de diciembre de 1986.- Diputado Presidente, LIC. MERCEDES DEL CARMEN GUILLEN VICENTE.- Diputado Secretario, LIC. RIGOBERTO GARCIA GARCIA.- Diputado Secretario, JOSE GUADALUPE PUGA GARCIA.- Rúbrica.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintiséis días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno.- LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE MAYO DE 1993
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 16 DE JUNIO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 212.- SE EXPIDE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-SEGUNDO. Con la entrada en vigor del presente Decreto se abrogan la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, publicadas (sic) 07 de noviembre de 2016 y 03 de julio de 2017, respectivamente, en el Periódico. Oficial del Estado de Aguascalientes, así como las reformas subsecuentes a dicha Ley.
-
-TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia del Estado de Aguascalientes, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones en las Leyes que se expiden en el Artículo Primero y Artículo Segundo del presente Decreto, según corresponda.
-
-CUARTO. Las autoridades garantes, descritas en la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes, y en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes, que se expiden en los Artículos Primero y Segundo del presente Decreto, deberán llevar a cabo las actualizaciones que correspondan a su normatividad, dentro de los treinta días siguientes, a la entrada en vigor del presente Decreto.
-
-Para efectos de lo previsto en este Transitorio, se suspenden por un plazo de treinta días naturales, a la entra (sic) en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación establecidos en este instrumento y normativa aplicable, así como para el cumplimiento de las obligaciones en la Plataforma Nacional de Transparencia, con excepción de la recepción y atención a las solicitudes de información que se tramiten a través de la Plataforma Nacional de Transparencia.
-
-Los sujetos obligados que determinan la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes y (sic) Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes, deberán llevar a cabo la instalación de los Comités de Transparencia y Unidades de Transparencia, según corresponda, en un término a treinta días naturales siguientes, a la entrada en vigor del presente Decreto.
-
-QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia del Estado de Aguascalientes, en materia de transparencia, acceso a la información pública y datos personales o cualquier otra distinta a la mencionada en el Transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades garantes correspondientes.
-
-SEXTO. Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 359.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez se encuentren vigentes las reformas constitucionales en la materia
 
 ###### ARTÍCULO PRIMERO.
 
@@ -689,64 +1101,6 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 
 P.O. 1 DE ABRIL DE 2024.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 616.- SE REFORMA LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE AGUASCALIENTES".]
-
 ###### ARTÍCULO QUINTO.
 
 La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes deberá expedir el Reglamento Interior del Centro de Conciliación Laboral del Estado de Aguascalientes dentro de los noventa días naturales siguientes a su instalación.
-
-###### ARTÍCULO SEXTO.
-
-La implementación del Servicio Profesional de Carrera será conforme a los lineamientos y manuales que para tal efecto expida la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes.
-
-###### ARTÍCULO SÉPTIMO.
-
-Las convocatorias a concurso para la selección de las personas conciliadoras del Centro de Conciliación Laboral del Estado de Aguascalientes serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades.
-
-###### ARTÍCULO OCTAVO.
-
-La persona titular del Poder Ejecutivo del Estado o la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Aguascalientes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar la operación del Centro de Conciliación Laboral del Estado de Aguascalientes.
-
-###### ARTÍCULO NOVENO.
-
-Los Poderes Ejecutivo y Legislativo del Estado de Aguascalientes realizarán las asignaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
-
-###### ARTÍCULO DÉCIMO.
-
-Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Inscríbase el presente Decreto en el Registro Público de Entidades Paraestatales a cargo de la Dirección General del Registro Público de la Propiedad y del Comercio del Estado.
-
-Al Ejecutivo para su promulgación y publicación.
-
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los quince días del mes de abril del año dos mil veintiuno.
-
-Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
-
-Aguascalientes, Ags., a 15 de abril del año 2021
-
-ATENTAMENTE.
-
-LA MESA DIRECTIVA
-
-JORGE SAUCEDO GAYTÁN
-
-DIPUTADO PRESIDENTE.
-
-PALOMA CECILIA AMÉZQUITA CARREÓN
-
-DIPUTADA PRIMERA SECRETARIA.
-
-SALVADOR PÉREZ SÁNCHEZ
-
-DIPUTADO PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO.
-
-En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 16 de abril de 2021.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 8 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
