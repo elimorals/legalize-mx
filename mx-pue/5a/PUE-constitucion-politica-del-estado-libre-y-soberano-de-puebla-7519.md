@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1995-02-17"
+last_updated: "1997-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -61,27 +61,35 @@ El Estado adopta para su régimen interior la forma de gobierno republicano, rep
 
 El Pueblo ejerce su soberanía por medio de los Poderes del Estado, en la forma y términos que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos, se verificará por medio de elecciones directas, cuya organización es una función Estatal encomendada a un Organismo de carácter público, permanente, autónomo, dotado de personalidad jurídica y patrimonio propio. En el ejercicio de esa función, la certeza, legalidad, imparcialidad y objetividad, serán principios rectores.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
-El Código Electoral del Estado de Puebla, regulará el ejercicio de los derechos y obligaciones de los ciudadanos y partidos políticos; determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará la composición, requisitos de sus integrantes, elección de los mismos y atribuciones de los Organismos Electorales; establecerá un sistema simplificado de medios de impugnación de los que conocerá el Organismo superior y un Tribunal Estatal Electoral. Dicho sistema de medios de impugnación dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones de los Organismos Electorales, se sujeten invariablemente al respeto y cumplimiento de las garantías de audiencia y legalidad.
+La renovación de los Poderes Legislativo y Ejecutivo de los Ayuntamientos, se verificará por medio de elecciones, mediante sufragio universal, libre, secreto y directo, cuya organización es una función Estatal encomendada a un organismo de carácter público, permanente, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio denominado Comisión Estatal Electoral. En el ejercicio de esa función, la legalidad, imparcialidad, objetividad, certeza e independencia serán principios rectores.
 
-El Organo Superior de Dirección se integrará por Consejeros Ciudadanos, designados por el Poder Legislativo; por dos Diputados representantes del Poder Legislativo, uno de mayoría y otro designado por la minoría y por representantes nombrados por los partidos políticos, en los términos que establezca el Código de la materia.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
-Los Consejeros Ciudadanos del Organo Estatal de Dirección deberán satisfacer los requisitos que señala la Ley y serán nombrados por el Congreso del Estado, mediante el procedimiento de consenso, mayoría calificada o insaculación, según sea necesario, de entre los ciudadanos que propongan los partidos políticos. En ningún caso tal designación podrá recaer en más de tres ciudadanos propietarios propuestos por un mismo partido. La Ley señalará las reglas y el procedimiento correspondiente.
+El Código Electoral del Estado de Puebla, regulará el ejercicio de los derechos y obligaciones de los ciudadanos y Partidos Políticos; determinará las prerrogativas que tendrán estos últimos, debiendo recibir en forma equitativa, financiamiento público para el sostenimiento de sus actividades ordinarias, además de contar con apoyos para sus actividades tendientes a la obtención del sufragio universal; de igual manera dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará la composición, requisitos de sus integrantes, elección de los mismos y atribuciones de los organismos electorales; establecerá un sistema simplificado de medios de impugnación de los que conocerá el organismo superior denominado Comisión Estatal Electoral y un Tribunal Estatal Electoral. Dicho Sistema de medios de impugnación dará definitividad a las distintas etapas de los procesos electorales, debiendo ser resueltos en lo plazos que para tal efecto señale la Ley Electoral de la materia y garantizará que los actos y resoluciones de los organismos electorales, se sujeten invariablemente al respeto y cumplimiento de las garantías de audiencia y de legalidad.
 
-El Tribunal Estatal Electoral será Organo autónomo y máxima autoridad jurisdiccional electoral. Tendrá la organización y competencia que la Ley determine para resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, en los términos de esta Constitución y de la Ley de la materia.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
+La Comisión Estatal Electoral se integrará por siete Consejeros Ciudadanos, y concurrirán con voz pero sin voto, los Comisionados del Poder Legislativo, los representantes de los Partidos Políticos y el Secretario Técnico, en los términos que establezca el Código Electoral del Estado.
 
-###### Artículo 4o.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
-Los Partidos Políticos son entidades de interés público que tienen como finalidad promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos hacer posible el acceso de éstos al ejercicio del Poder Público, de conformidad con sus programas de acción, declaración de principios y estatutos, mediante el sufragio universal, libre, secreto, personal e intransferible.
+Los Consejeros Ciudadanos y el Secretario Técnico deberán satisfacer los requisitos que señala el Código Electoral del Estado. Los Consejeros Ciudadanos serán nombrados por el Congreso del Estado, mediante el procedimiento de consenso, mayoría calificada o insaculación, según sea necesario, de entre los ciudadanos que propongan los Partidos Políticos, conforme al mismo procedimiento se elegirán siete Consejeros Ciudadanos Suplentes. Los Consejeros Ciudadanos durarán en cargo siete años.
 
-Los Partidos Políticos participarán en las elecciones Estatales y Municipales, con todos los derechos, obligaciones y prerrogativas que la Ley les señale.
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
-En los procesos electorales estatales y municipales, los partidos políticos estatales y nacionales contarán en forma equitativa y proporcional con un mínimo de elementos para sus actividades tendentes a la obtención del sufragio popular; al efecto la Ley establecerá las reglas a que se sujetará el financiamiento de los Partidos Políticos y las Campañas electorales.
+El Secretario Técnico será nombrado por la Comisión Estatal Electoral a propuesta en terna de su Presidente. El Código Electoral del Estado señalará las reglas y los procedimientos correspondientes.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1997)</small>
+
+Los Comisionados del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en la Cámara de Diputados, sólo habrá un Comisionado por cada grupo parlamentario.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
+
+El Tribunal Estatal Electoral será órgano autónomo e independiente, máxima autoridad jurisdiccional electoral. Tendrá la organización y competencia que el Código Electoral del Estado determine para resolver en forma definitiva y firme las impugnaciones que se presenten en materia electoral, en los términos de esta Constitución y del Código Electoral del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 2°.
 
@@ -91,9 +99,17 @@ Por el término de diez años no podrán ser electos para el desempeño de ning�
 
 La XXIV Legislatura del Estado, comenzará a funcionar el día 1°. de enero de 1919.
 
-###### Artículo 4°.
+###### Artículo 4.
 
-Los contratos que hayan celebrado los Gobiernos pasados, autorizados o nó por el Congreso del Estado, serán revisados nuevamente y estipuladas nuevas bases, conforme lo dispongan las leyes respectivas, o lo acordare el Departamento a quien corresponda.
+Los Partidos Políticos son entidades de interés público que tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los Partidos Políticos.
+
+El Código Electoral del Estado determinará las formas específicas de su participación en los procesos electorales, sus derechos, prerrogativas y reglas de financiamiento. Los Partidos Políticos deberán rendir informes financieros, mismos que serán públicos.
+
+De acuerdo con las disponibilidades presupuestales, los Partidos Políticos recibirán, en forma equitativa financiamiento público para su sostenimiento y para que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal; para efecto del financiamiento público el 30% de la cantidad total se entregará entre los Partidos Políticos e forma igualitaria y el 70 % restante se distribuirá entre los mismos de acuerdo con el procentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior. El Código Electoral del Estado fijará los criterios para determinar los límites a las erogaciones de sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten. El Código Electoral del Estado establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+
+El Código Electoral del Estado propiciará condiciones de equidad para el acceso de los Partidos Políticos a los medios de comunicación social.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ### CAPITULO II. DEL TERRITORIO
 
@@ -195,7 +211,9 @@ En función del progreso social, el Estado promoverá y fomentará la producció
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO IV. DE LOS POBLANOS
+### CAPITULO IV
+
+DE LOS POBLANOS.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -479,7 +497,9 @@ El Congreso se renovará en su totalidad cada tres años y comenzará a funciona
 
 La Comisiones Distritales Electorales respectivas, de conformidad con lo que disponga la Ley, dictaminarán y declararán la validez de las elecciones de los Diputados en cada uno de los Distritos Electorales Uninominales y otorgarán las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. La Comisión Estatal Electoral hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional, de conformidad con lo dispuesto por el artículo 35 de este Ordenamiento y lo que determine la Ley de la materia.
 
-La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos que señale la Ley; el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo e inatacable.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1997)</small>
+
+La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados, podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos que señale el Código Electoral del Estado, el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo y firme.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
@@ -1081,7 +1101,7 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO SEXTO. Del Ministerio Público
+## TITULO SEXTO. DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1812,3 +1832,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 17 DE FEBRERO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
