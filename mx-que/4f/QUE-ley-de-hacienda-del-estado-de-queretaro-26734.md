@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2004-01-06"
+last_updated: "2004-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -53,17 +53,25 @@ Para los casos no contemplados en las disposiciones de esta Ley se aplicará sup
 
 Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas de conformidad con el Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 5.
 
-Para los efectos de esta Ley, las siglas VSMGZ se entenderán como Veces Salario Mínimo General Vigente de la Zona.
+Para los efectos de esta Ley, las siglas VSMGZ se entenderán como Veces Salario Mínimo General Diario Vigente de la Zona.
 
 ###### Artículo 6.
 
 Es ingreso aquel recurso financiero o material que perciba el Estado por cualquiera de los conceptos contenidos en la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 7.
 
-Los obligados a presentar avisos, declaraciones y pagos, lo realizarán en las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales que establezca la Secretaría de Planeación y Finanzas del Gobierno del Estado de Querétaro quienes llevarán a cabo la recaudación y registro de los ingresos.
+Los obligados a presentar avisos, declaraciones y pagos los realizarán en las Administraciones Tributarias Regionales, Oficinas Recaudadoras Locales, medios electrónicos o cualquier otra opción que al efecto establezca la Secretaría de Planeación y Finanzas.
+
+Quien haga el pago de contribuciones deberá obtener la forma oficial, el recibo oficial o la forma valorada que determine para tal efecto la Secretaría de Planeación y Finanzas, o los comprobantes que las disposiciones respectivas establezcan.
+
+Para la determinación y pago de las contribuciones y sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cincuenta centavos más próximo, inferior o superior, según corresponda.
 
 En lo conducente los Poderes Legislativo y Judicial en sus Dependencias encargadas de sus Finanzas.
 
@@ -111,43 +119,45 @@ Las personas afiliadas al Instituto Nacional de Adultos en Plenitud INAPLEN o qu
 
 Obligaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 13.
 
-Las personas físicas que enajenen vehículos de motor o remolques, en calidad de propietario o representante legal de aquél, tienen obligación de realizar el endoso de la factura al comprador, señalando la fecha en que esto suceda, debiendo presentar aviso en la oficina recaudadora correspondiente a su domicilio sobre el acto realizado dentro de los quince días siguientes a la fecha de la enajenación, en caso de no hacerlo, incurrirán en responsabilidad solidaria, en el pago del (sic) este impuesto sobre tenencia o uso de vehículos y de los derechos por control vehicular.
+Las personas físicas o morales que enajenen vehículos de motor o remolques, en calidad de propietario ó representante legal de aquél, tienen obligación de realizar el endoso de la factura al comprador, señalando la fecha en que esto suceda, debiendo realizar la baja o cambio de propietario, ante las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales, dentro de los quince días siguientes a la fecha de la enajenación, en caso de no hacerlo, incurrirán en responsabilidad solidaria en el pago de este impuesto, del impuesto sobre tenencia o uso de vehículos y de los derechos por control vehicular.
 
 Los comisionistas que intervengan en la enajenación de vehículos o remolques, tendrán la misma obligación que el propietario o representante legal, estando facultada la autoridad a cobrar indistintamente el impuesto correspondiente.
 
-Base
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 14.
 
-Es base de este impuesto el valor que determine la Asociación Mexicana de Distribuidores de Automotores, A.C., mediante boletín, durante los meses de enero, abril, julio y octubre de cada año, para ser aplicadas en el primero, segundo, tercero y cuarto trimestre, respectivamente.
+Es base de este impuesto:
 
-Para los remolques es base de este impuesto la capacidad de carga establecida en la factura.
+I.- Para automóviles y camiones de hasta 3,500 Kg. el valor que determine mediante boletín, la Asociación Mexicana de Distribuidores de Automotores, A. C. En el caso de que el boletín más reciente no indique el valor de un tipo de unidad, se tomará el último valor publicado.
 
-Tasa
+II.- Para motocicletas los centímetros cúbicos.
+
+III.- Para remolques, autobuses y camiones de más de 3,500 Kg. la capacidad de carga establecida en la factura.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 15.
 
-La tasa del impuesto por la adquisición de vehículos de motor, excepto motocicletas, que no sean nuevos será del 0.80% del valor del vehículo como lo establece el artículo anterior. Cuando la cantidad que resulte sea inferior a seis VSMGZ, se cobrará esta cantidad en vez de la tasa del 0.080%.
+La tasa del impuesto por la adquisición de automóviles y camiones de hasta 3,500 Kg. que no sean nuevos, será el 0.80 por ciento del valor del vehículo como lo establece el artículo anterior. Cuando la cantidad que resulte, sea inferior a seis VSMGZ, se cobrará esta cantidad en vez de la tasa del 0.80 por ciento.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 16.
 
-La tasa del impuesto por la adquisición de Motocicletas estarán sujetas a la siguiente:
+La tasa del impuesto por la adquisición de motocicletas estará sujeta a la siguiente:
 
 Motocicletas VSMGZ
 
-De 1 a 100 cc 3
+De 1 a 200 cc. 4
 
-De 101 a 200 cc. 4
+De 201 a 500 cc. 7
 
-De 201 a 350 cc 5
-
-De 351 a 750 cc 7
-
-De 751 cc. en adelante 15
-
-Más de 10 años de uso 2
+De 501 cc. en adelante 15
 
 La tasa del impuesto por la adquisición de remolques estará sujeta a la siguiente:
 
@@ -164,6 +174,36 @@ De 5001 a 8000 Kg. 12
 De 8001 a 10,000 Kg. 14
 
 De mas de 10,000 Kg. 16
+
+La tasa del impuesto por la adquisición de camiones con capacidad de carga de más de 3,500 Kg. estará sujeta a la siguiente:
+
+Capacidad de carga VSMGZ
+
+De 3501 a 10,000 Kg. 40
+
+De 10,001 a 15,000 Kg. 45
+
+De 15,001 a 20,000 Kg. 50
+
+De 20,001 a 30, 000 Kg. 55
+
+De 30,001 Kg. En adelante 60
+
+Por la adquisición de vehículos de motor y remolques a que se refieren esta Ley, cuya antigüedad sea de más de 10 años de uso, se pagaran:
+
+Vehículo de motor VSMGZ
+
+Automóviles y Camiones
+
+de más de 3,501 Kg. 10
+
+Automóviles y Camiones
+
+de menos de 3,500 Kg. 6
+
+Motocicletas 3
+
+Remolques 3
 
 Forma de Pago
 
@@ -263,13 +303,13 @@ Tractores no Agrícolas 5.7
 
 Otros 6.2
 
-Forma de Pago
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 25.
 
-El Impuesto Sobre Tenencia o Uso de Vehículos se pagará mediante declaración anual que deberá enterarse dentro del mismo periodo en que se efectúe el pago del Impuesto Sobre Tenencia o Uso de Vehículos federal, o al momento de registrar la unidad en esta Entidad, en su caso.
+El Impuesto a que se refiere este capítulo, deberá enterarse de manera anual dentro del mismo período en que se efectúe el pago del Impuesto Sobre Tenencia o Uso de Vehículos Federal o, en su caso, al momento de registrar la unidad en esta Entidad.
 
-El pago de este impuesto se realizará de manera simultánea con los derechos por los Servicios de Control Vehicular establecidos en esta Ley, cuando exista dicha obligación de pago.
+Dicho pago se realizará de manera simultánea con los Derechos por los Servicios de Control Vehicular establecidos en esta Ley, cuando exista dicha obligación de pago.
 
 ### CAPÍTULO TERCERO. IMPUESTO POR LA PRESTACIÓN DE SERVICIO
 
@@ -319,7 +359,9 @@ La recaudación y control del impuesto, se regulará por las siguientes disposic
 
 I. Del empadronamiento:
 
-a) Los contribuyentes de este impuesto están obligados a empadronarse en la Dirección de Ingresos, dependiente de la Secretaría de Planeación y Finanzas, o en las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales que les corresponda.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+a) Los contribuyentes de este Impuesto, están obligados a empadronarse en la Dirección de Ingresos, dependiente de la Secretaría de Planeación y Finanzas, o en las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales que les corresponda, dentro de los 30 días siguientes a la fecha de inicio de operaciones.
 
 b) Cuando una misma persona, física o moral, sea propietaria o poseedora de varios establecimientos que deban ser empadronados de acuerdo con lo dispuesto en este capítulo, presentará por separado, una solicitud de empadronamiento para cada uno de dichos establecimientos.
 
@@ -361,7 +403,9 @@ c) En los casos de cambio de objeto, de giro, de nombre o razón social, y en lo
 
 d) Por el servicio de empadronamiento o por el de canje se pagarán los derechos correspondientes establecidos en el artículo 143 de esta Ley; y
 
-e) A partir del día 23 del mes de enero de cada año, la Dirección de Ingresos procederá a sancionar a quienes no hubiesen pagado totalmente los impuestos conforme a este Capítulo y los derechos anuales de refrendo de la cédula de empadronamiento correspondiente al año anterior.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+e) A partir del día 23 de cada mes, la Dirección de Ingresos procederá a sancionar a quienes no hubieren presentado la declaración mensual y en su caso, el pago del impuesto correspondiente.
 
 Forma de pago
 
@@ -449,11 +493,11 @@ El pago de este impuesto se hará en el momento en que se realicen los pagos de 
 
 ### CAPÍTULO QUINTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
-Objeto
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 38.
 
-Es objeto de este impuesto el ingreso que se obtenga por la explotación de las siguientes actividades: salas de teatro, circos, arenas de lucha libre y box, plaza de toros, espectáculos deportivos, audiciones y espectáculos musicales o de cualquier otro tipo con cuota de admisión; la explotación de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas.
+Es objeto de este impuesto el ingreso que se obtenga por la realización de funciones de teatro, circo, lucha libre y boxeo, corridas de toros, espectáculos deportivos, audiciones y espectáculos musicales o de cualquier otro tipo con cuota de admisión; la explotación de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas.
 
 Sujeto
 
@@ -474,6 +518,10 @@ Tasa
 ###### Artículo 41.
 
 La tasa aplicable para el cálculo del Impuesto Sobre Diversiones y Espectáculos Públicos será del 6.4%, con excepción de los espectáculos de teatro y circo a los cuales se aplicará la tasa del 3.2%.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 BIS.- En los casos de espectáculos públicos que no sean eventuales, la Secretaría de Planeación y Finanzas podrá celebrar los convenios ó acuerdos que estime convenientes, para determinar una cuota mensual fija, cuyas reglas de aplicación se publicarán en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
 
 Forma de Pago
 
@@ -499,11 +547,9 @@ II. Llevar los libros de contabilidad, los registros y demás documentos exigido
 
 III. Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Secretaría de Planeación y Finanzas y a sus dependencias, suministrándole los informes y datos que soliciten en relación con la aplicación de este impuesto.
 
-### CAPÍTULO SEXTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-IMPUESTO SOBRE LOTERÍAS, RIFAS,
-
-SORTEOS, CONCURSOS Y CARRERAS
+### CAPÍTULO SEXTO. IMPUESTO POR LA OBTENCIÓN DE INGRESOS DERIVADOS DE LA ORGANIZACIÓN DE LOTERÍAS, RIFAS, SORTEOS, CONCURSOS Y CARRERAS
 
 Objeto
 
@@ -549,6 +595,90 @@ II. Las declaraciones se presentarán en las formas oficialmente aprobadas por l
 
 III. No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto declarado, y en su caso, los accesorios correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO SÉPTIMO. IMPUESTO SOBRE NÓMINAS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+OBJETO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 49-A.
+
+Es objeto de este impuesto la realización de los pagos, en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado; los pagos realizados a administradores, directores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de cualquier especie o tipo de sociedades o asociaciones; y los pagos a personas físicas por concepto de honorarios, por la prestación de servicios personales independientes o por actividades empresariales, cuando no causen el Impuesto al Valor Agregado por estar asimilados a las remuneraciones por salarios, de conformidad con la Ley del Impuesto Sobre la Renta.
+
+Para los efectos de este gravamen, se consideran erogaciones por remuneraciones al trabajo personal, las siguientes: los sueldos y salarios; las cantidades pagadas por tiempo extraordinario, bonos, premios, primas de antigüedad o por cualquier otro concepto; las comisiones; las ayudas para despensa o transporte; así como cualquier otra cantidad o bien que se entregue como remuneración por un servicio personal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+SUJETOS OBLIGADOS
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 49-B.
+
+Están obligados al pago de este impuesto las personas físicas o morales que efectúen los pagos a que se refiere el artículo anterior, así como las unidades económicas cuando por su conducto se realicen los pagos referidos, cuando su domicilio o, el de sus locales, establecimientos, agencias o sucursales, se ubique en el territorio del estado, o cuando el servicio se preste dentro del territorio del propio estado.
+
+Quienes obtengan por conducto de otras personas físicas o morales, o unidades económicas, que funjan como intermediarias en términos de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio del estado, la prestación de un servicio personal, siempre que el mismo se preste dentro del territorio del estado, estarán obligados a retener y enterar el impuesto, determinado en los términos de esta ley sobre el importe total que por concepto de remuneraciones hubieren pagado o se hubiere pactado, entregando a la correspondiente persona física o moral, o unidad económica, la constancia de retención correspondiente.
+
+La Federación, el Estado y los Municipios, así como sus organismos descentralizados, estarán obligados al pago de este Impuesto por las remuneraciones que efectúen con motivo de las actividades que realice su personal dentro del territorio del Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+BASE Y TASA DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 49-C.
+
+El impuesto a pagar será la cantidad que resulte de aplicar la tasa del 1.6 por ciento a la base del mismo, la cual se integrará por la totalidad de las erogaciones efectuadas en el mes de calendario de que se trate, por los conceptos a que se refiere el artículo 49-A. Los contribuyentes de este impuesto gozarán de una deducción a la base equivalente a ocho veces el salario mínimo general vigente en el estado elevado al mes.
+
+No se causará el impuesto sobre nóminas por las erogaciones que se realicen por concepto de:
+
+I.- Los instrumentos y herramientas de trabajo.
+
+II.- Las cuotas por concepto de aportaciones de seguridad social efectuadas a cualquier institución pública, de carácter federal o local.
+
+III.- Los vales de despensa, canjeables por artículos de primera necesidad, en cantidad que no exceda del 40 por ciento del salario mínimo general vigente en el estado. El excedente se sumará para los efectos de la determinación y pago del impuesto.
+
+IV.- Las aportaciones al sistema de ahorro para el retiro, así como las aportaciones adicionales que el patrón convenga en otorgar a favor de sus trabajadores por este concepto.
+
+V.- Las indemnizaciones por riesgos y enfermedades profesionales, que se concedan conforme a las leyes o contratos respectivos.
+
+VI.- Las jubilaciones o pensiones, en casos de invalidez, cesantía, vejez o muerte, otorgadas a favor de quienes hubieran tenido el carácter de trabajadores.
+
+VII.- Los viáticos, cuando la documentación comprobatoria se encuentre otorgada a favor de quien haga los pagos.
+
+VIII.- Las indemnizaciones por despido o terminación de la relación laboral.
+
+IX.- La participación de los trabajadores en las utilidades de la empresa.
+
+X.- Las primas de seguro para gastos médicos o de vida.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 49-D.
+
+Los sujetos a que se refiere el artículo 49-B, tendrán las siguientes obligaciones:
+
+I.- Empadronarse, para los efectos del presente impuesto, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del estado que corresponda a su domicilio, mediante aviso que será presentado en las formas que apruebe la Secretaría de Planeación y Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del estado.
+
+II.- Presentar un aviso, dentro de los diez días siguientes al en que ocurra, cuando se abra o cierre un local, establecimiento, agencia o sucursal dentro de los cuales se presten servicios personales.
+
+III.- Llevar un registro pormenorizado, por cada local, establecimiento, agencia o sucursal, de las erogaciones que efectúe por concepto de remuneraciones al trabajo personal, separando debidamente las que formen parte de la base de las que están excluidas, de conformidad con lo que dispone el artículo 49-C.
+
+IV.- Pagar el impuesto determinado a su cargo o el retenido, mediante declaración que será presentada por cada local, establecimiento, agencia o sucursal, ante la oficina que autorice la Secretaría de Planeación y Finanzas del Estado, a más tardar el día 22 del mes siguiente al que corresponda el impuesto. El pago podrá ser efectuado mediante una sola declaración, siempre que se haga la debida separación del impuesto, cuando las erogaciones correspondan a varios locales, establecimientos, agencias o sucursales.
+
+V.- Presentar anualmente una declaración informativa a más tardar en el mes de febrero de cada año, con los datos sobre el monto de las erogaciones que se señalan en el artículo 49 C, efectuadas en el año inmediato anterior. Esta declaración deberá presentarse en todos los casos incluyendo aquellos en que no se estuvo obligado a efectuar el pago de este impuesto.
+
+VI.- Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
+
 ### CAPÍTULO PRIMERO
 
 POR LA LICENCIA PARA EL ALMACENAJE,
@@ -559,17 +689,13 @@ BEBIDAS ALCOHÓLICAS
 
 Objeto
 
+## TÍTULO CUARTO. DE LOS DERECHOS
+
 ### CAPÍTULO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR EL REGISTRO
 
 PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-## TÍTULO CUARTO. DE LOS DERECHOS
-
-### CAPÍTULO TERCERO. POR LOS SERVICIOS PRESTADOS POR
-
-EL ARCHIVO GENERAL DE NOTARIAS
-
-Objeto
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 50.
 
@@ -587,75 +713,81 @@ Base
 
 Los derechos previstos en este Capítulo se causarán atendiendo a la categoría y tipo de la licencia, aplicando al efecto la cantidad de VSMGZ que corresponda, por expedición o refrendo de la misma, en los términos previstos en el siguiente artículo.
 
-Tasa
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 53.
 
-Este derecho se causará y pagará a razón de los siguientes tipos, categorías, especificaciones y tasas:
+Este derecho se causará y pagará a razón de las siguientes categorías, especificaciones tipos y tasas:
 
-Las categorías A, B y C corresponderán a la Zona Urbana, en la cual quedan comprendidas ciudades, poblaciones o comunidades con más de 2,500 habitantes y, D y E corresponderán a la Zona Rural, con menos de 2,500 habitantes.
+Las categorías A, B y C corresponderán a la Zona Urbana, considerando como tal aquellos centros de población con más de 2,500 habitantes; así como las D y E corresponderán a la Zona Rural, considerando como tal aquellos centros de población con 2,500 habitantes ó menos.
 
 Determinándose la clasificación conforme a lo siguiente:
 
 (VEASE ARCHIVO ANEXO)
 
-Las tarifas están dadas en VSMGZ.
+Corresponden al Tipo I: las pulquerías, cervecerías y cantinas.
 
-I. Corresponden al Tipo 1: las pulquerías, cervecerías y cantinas.
+Corresponden al Tipo II:
+
+a).- Con consumo de alimentos: restaurante, fonda, cenaduría, lonchería, ostionería, marisquería, taquería, café cantante, peña, centro turístico y balneario.
+
+b).- Con oferta de alimentos: club social y otros similares, discoteca, bar y salón de fiestas.
+
+c).- Con oferta de alimentos: centro nocturno.
+
+Corresponden al Tipo III: depósito de cerveza, vinatería, bodega o almacén de cerveza, vinos y licores, tienda de autoservicio, abarrotes, miscelánea y similares.
+
+a).- Las contenidas en esta fracción excepto bodega o almacén de cerveza, vinos y Licores.
+
+b).- Bodega o almacén de cerveza, vinos y licores.
+
+Las tasas están dadas en VSMGZ.
+
+(VEASE ARCHIVO ANEXA)
+
+La expedición de licencia nueva correspondiente a los tipos I, II y III causará derechos por un monto equivalente a tres veces la cantidad que corresponda pagar por concepto de refrendo anual de conformidad con la tasa señalada en la tabla que antecede.
+
+Corresponden al Tipo IV: Lugares públicos o privados en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales y cuenten con servicio temporal para la venta y consumo de bebidas alcohólicas, debiendo esta efectuarse al menudeo y bajo las condiciones que la Secretaría de Gobierno señale al efecto, los derechos correspondientes se causarán por día en razón de la siguiente clasificación:
 
 (VEASE ARCHIVO ANEXO)
 
-II. Corresponden al Tipo 2:
+Por la expedición de licencia para el porteo se causara y pagará a razón de 4 VSMGZ por cada unidad de transporte, los derechos por el refrendo anual será a razón de 3 VSMGZ.
 
-a) Con consumo de alimentos: restaurante, fonda, cenaduría, lonchería, ostionería, marisquería, taquería, café cantante, peña, centro turístico y balneario.
-
-(VEASE ARCHIVO ANEXO)
-
-b) Con oferta de alimentos: club social y otros similares, discoteca, bar, centro nocturno y centro social o salón de fiestas.
-
-(VEASE ARCHIVO ANEXO)
-
-III. Corresponden al Tipo 3: depósito de cerveza, vinatería, bodega o almacén de cerveza, vinos y licores, tienda de autoservicio, abarrotes, miscelánea y similares.
-
-Las contenidas en esta fracción excepto bodega o almacén de cerveza, vinos y Licores
-
-(VEASE ARCHIVO ANEXO)
-
-Bodega o almacén de cerveza, vinos y licores.
-
-(VEASE ARCHIVO ANEXO)
-
-IV. Corresponden al Tipo 4: Lugares públicos o privados en los que se presenten eventos artísticos y deportivos, se celebren festividades cívicas o tradicionales, o se realicen eventos especiales, y cuenten con servicio temporal para la venta y consumo de bebidas alcohólicas, debiendo aquella efectuarse al menudeo, los derechos correspondientes se causarán a razón del 15% sobre la venta total de bebidas alcohólicas.
-
-V. Por la expedición de licencia para el porteo se causará y pagará a razón de 10 VSMGZ por cada unidad de transporte, los derechos por el refrendo anual será a razón del 50% de los derechos por la expedición.
-
-Forma de Pago
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 54.
 
-Los derechos por el refrendo de la licencia para el almacenaje, venta, porteo y consumo de bebidas alcohólicas se cubrirán en forma anual durante los meses de mayo, junio y julio, y cuando se trate de expedición de licencia los derechos se cubrirán dentro de los cinco días siguientes a la fecha de entrega de la orden de pago correspondiente, conforme a la clasificación y categoría a que se refiere la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro.
+Los derechos por expedición de licencia y refrendos se cubrirán dentro de los cinco días siguientes a la fecha de entrega de la orden de pago correspondiente, en caso de incumplimiento de este plazo quedará sin efectos la autorización de que se trate.
+
+Los derechos por el refrendo de la licencia para el almacenaje, venta, porteo y consumo de bebidas alcohólicas se cubrirán en forma anual durante los meses de Abril, Mayo y Junio. Por el incumplimiento de lo señalado se estará a lo establecido por los Capítulos Quinto y Décimo de la Ley que Regula el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas en el Estado de Querétaro.
 
 ###### Artículo 55.
 
-El pago de los derechos correspondientes a que se refiere la fracción IV del artículo 53 de esta Ley, se realizará en el lugar y hora del evento, a través de la retención que al efecto lleve a cabo el personal asignado por la Dirección de Ingresos de la Secretaría de Planeación y Finanzas.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2004)
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 56.
 
-El pago de los derechos correspondientes por la regularización de la licencia respectiva será equivalente al 50% de los derechos cubiertos por el refrendo de ésta, conforme a la tarifa anteriormente establecida para los diversos tipos.
+Por la regularización de las licencias para el almacenaje, venta, porteo y consumo de bebidas alcohólicas se pagarán derechos cuyo monto será el equivalente al 20 por ciento de los derechos que le correspondan por el refrendo de esta, con excepción de los cambios en datos informativos del establecimiento o del titular de la licencia que no implique la sustitución de éste.
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR
+Para el caso de que la regularización autorice la ampliación de giro, además de los derechos previstos en el párrafo que antecede, deberá cubrirse un monto equivalente a la diferencia existente entre el costo de la licencia actual y la que se autorice.
 
-AUTORIDADES CATASTRALES
+### CAPÍTULO TERCERO. POR LOS SERVICIOS PRESTADOS POR
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 2002)</small>
+EL ARCHIVO GENERAL DE NOTARIAS
+
+Objeto
 
 ###### Artículo 57.
 
-Por la inscripción de compraventa de inmuebles; compraventa de inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; cancelación de reserva de dominio; usufructo, uso, nuda propiedad; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios; se causará el derecho a razón del 6 al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 65.
+Por la inscripción de compraventa de inmuebles; compraventa de inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; usufructo, uso, nuda propiedad; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios; se causará el derecho a razón del 6 al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 65.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 58.
 
-Por la inscripción de reconocimiento de adeudo; contrato de hipoteca; créditos de habilitación o avío con garantía hipotecaria; mutuo; se causará el derecho a razón de 6 al millar sobre el monto de la operación.
+Por la inscripción o cancelación de reconocimiento de adeudo, contrato de hipoteca, crédito de habilitación o avío con garantía hipotecaria, mutuo, se causará el derecho a razón de 6 al millar sobre el monto de la operación.
 
 ###### Artículo 59.
 
@@ -667,41 +799,49 @@ Se considera vivienda popular aquella cuyo valor, al término de su edificación
 
 Por la constitución de régimen de propiedad en condominio, se causará el derecho a razón del 3 al millar sobre el valor del avalúo y por modificación se causará a razón de 30 VSMGZ.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 61.
 
-Por inscripción de constitución de prenda; embargos; arrendamiento de bienes muebles e inmuebles; constitución de sociedades mercantiles; resolución de convenios judiciales, se causa y pagará el derecho a razón del 3.5 al millar, sobre el monto de la operación.
+Por inscripción de constitución de prenda, embargos, arrendamiento de bienes muebles e inmuebles; constitución de sociedades mercantiles, resolución de convenios judiciales, constitución de sociedad cooperativa, se causará y pagará el derecho a razón del 3.5 al millar, sobre el monto de la operación.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 62.
 
-Por inscripción de: ratificación de gestión de negocios; servidumbres; autorizaciones para venta de bienes de menores; providencias precautorias, diligencias de apeo y deslinde; resoluciones judiciales; convenios judiciales de plazo, intereses, garantías que no impliquen novación de contrato; capitulaciones matrimoniales; constitución o disolución de sociedades conyugales; constitución o disolución de patrimonio familiar; constitución, disolución y liquidación de sociedades y asociaciones civiles; cumplimiento de condición; inscripción de acta de régimen patrimonial; testamento público abierto, cerrado u ológrafo; reconocimiento de herederos, nombramiento de albacea, aceptación del cargo y discernimiento; actas de asambleas de condóminios; protocolización de planos; modificación de plazo, interés y garantías que no impliquen novación del contrato; rectificación de inscripciones; se causará el derecho a razón de doce VSMGZ.
+Por la inscripción de ratificación de gestión de negocios, servidumbres, autorizaciones para venta de bienes de menores, providencias precautorias, diligencias de apeo y deslinde, resoluciones judiciales, convenios judiciales de plazo, intereses, garantías que no impliquen novación de contrato, capitulaciones matrimoniales, constitución o disolución de sociedades conyugales, constitución o disolución de patrimonio familiar, constitución, disolución y liquidación de sociedades y asociaciones civiles, cumplimiento de condición, inscripción de acta de régimen patrimonial, testamento público abierto, cerrado u ológrafo; reconocimiento de herederos, nombramiento de albacea, aceptación del cargo y discernimiento, actas de asambleas de condóminos, protocolización de planos, modificación de plazo, interés y garantías que no impliquen novación del contrato, rectificación de inscripciones, sustitución de deudor o acreedor, prórroga de gravamen, constitución de asociación religiosa, embargo definitivo sobre pensión alimenticia, embargo precautorio sobre pensión alimenticia, protocolización de acuerdos, entrega recepción de fraccionamientos, lotificación, relotificación, autorización de fraccionamientos, nomenclatura de calles, anotación preventiva de demanda, anotación por orden judicial, convenio modificatorio, rectificación de documento, se causará el derecho a razón de doce VSMGZ.
 
 ###### Artículo 63.
 
 Por avisos preventivos se pagarán tres VSMGZ y por avisos definitivos se pagará un VSMGZ.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 64.
 
-Por la inscripción de actas de asambleas o administrativas que no impliquen aumento de capital; modificación de sociedades o asociaciones sin aumento de capital; otorgamiento, sustitución, suspensión o revocación de poderes generales o especiales; quiebras, concurso o suspensión de pagos; se pagará la cantidad de doce VSMGZ.
+Por la inscripción de actas de asambleas o administrativas que no impliquen aumento de capital, modificación de sociedades o asociaciones sin aumento de capital, otorgamiento, sustitución, suspensión o revocación de poderes generales o especiales, quiebras, concurso, suspensión de pagos, protocolización de estatutos, resolución administrativa, liquidación de sociedad mercantil, se pagará la cantidad de doce VSMGZ.
 
 ###### Artículo 65.
 
 Por la inscripción de cualquiera de los actos o contratos precisados en los artículos que anteceden, se pagará el derecho conforme al valor mayor que resulte entre el de la operación consignada o el avalúo comercial que se practique; si no se hubiere practicado el avalúo en razón a la naturaleza del acto, servirá de base para el pago el valor catastral, tratándose de inmuebles.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 66.
 
-Por inscripción de cualquier acto, contrato o documento cuyo valor no pueda ser determinado se pagará por concepto de derechos el equivalente a tres VSMGZ.
+Por la inscripción de cancelación de aviso definitivo o preventivo, cancelación de embargo, cancelación de inscripción, cancelación de fideicomiso, cancelación de fideicomiso de garantía, comisión mercantil, comodato, radicación de juicio sucesorio ante notario, ratificación de firmas, registro de firma y sello de corredor público, registro de título de corredor público, anotación de litigio de la sociedad, cancelación de embargo o litigio de la sociedad por autoridad judicial o administrativa, cancelación de anotación preventiva por autoridad judicial o administrativa, cancelación de suspensión de pagos, modificación de fideicomiso con garantía, cancelación o extinción del fideicomiso de garantía, emisión de certificados digitales, informe de testamento, contrato mercantil; así como otra inscripción de cualquier acto, contrato o documento cuyo valor no pueda ser determinado se pagará por concepto de derechos el equivalente a tres VSMGZ.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 67.
 
-Por inscripción de fianzas, obligaciones solidarias; compraventa con reserva de dominio de bienes muebles; constitución de garantías reales sobre muebles e hipotecas industriales; disolución de copropiedad, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
+Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre muebles e hipotecas industriales, disolución de copropiedad, compraventa de bienes muebles, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
 
-Para la cancelación de los gravámenes a que se refiere el párrafo anterior, se causará un derecho del uno al millar sobre el valor registrado.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 68.
 
-Por inscripción en la que intervengan las instituciones de crédito por operaciones de: mutuo; reconocimiento de adeudo; sustitución de deudor o acreedor; crédito de habilitación ó avío y refaccionarios; reconocimiento de adeudo con garantía inmobiliaria; constitución de fideicomisos de garantía; arrendamiento financiero; crédito con garantía hipotecaria industrial; contrato de hipoteca; se cobrarán por concepto de derechos el 2.5 al millar sobre el importe de la operación.
-
-Por la cancelación de gravamenes que hagan las instituciones de crédito en operaciones a que se refiere el párrafo anterior, pagarán uno al millar sobre el valor registrado.
+Por la inscripción o cancelación de reconocimiento de adeudo con garantía inmobiliaria; constitución de fideicomisos de garantía; arrendamiento financiero, crédito con garantía hipotecaria industrial; se cobrarán por concepto de derechos el 2.5 al millar sobre el importe de la operación.
 
 ###### Artículo 69.
 
@@ -737,51 +877,87 @@ La constitución de créditos agrícolas causará por concepto de derechos 2.5 a
 
 Por las anotaciones marginales que no modifiquen el derecho inscrito que se hagan a solicitud de los interesados, de los Notarios Públicos o de autoridad competente, por cada una se causará y pagará por concepto de derechos tres VSMGZ.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 77.
 
-Por expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
+Por la expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
 
 Concepto Años VSMGZ
 
-Expedición de Hasta 10 4
+Hasta 10 4
 
-certificados de
+De más de 10 y hasta 20 7
 
-Inscripción y de no De más de 10 7
+Expedición de certificados de inscripción
 
-inscripción, así como y hasta 20
+y de no inscripción, así como de certificados
 
-certificados de gravamen
+de gravamen De más de 20 10
+
+Hasta 10 4
+
+De más de 10 y hasta 20 7
+
+Certificado de decreto
+
+expropiatorio De más de 20 10
+
+Certificado de anotaciones Hasta 10 4
+
+Marginales De más de 10 y hasta 20 7
 
 De más de 20 10
+
+Hasta 10 4
+
+De más de 10 y hasta 20 7
+
+Certificado de Historial
+
+Registral De más de 20 10
+
+Hasta 10 4
+
+De más de 10 y hasta 20 7
+
+Certificado de libertad de
+
+Gravamen De más de 20 10
+
+Hasta 10 4
+
+De más de 10 y hasta 20 7
+
+Búsqueda de antecedentes
+
+sin expedición de certificados De más de 20 10
 
 Certificados de propiedad 5
 
 Certificados de no propiedad 3
 
-Expedición de certificado de
+Expedición de certificado de libertad de gravamen,
 
-libertad de gravamen, única propiedad,
+única propiedad, certificados de no afectación
 
-certificados de no afectación o cláusula
+o cláusula agraria, de usos y reservas 4
 
-agraria, de usos y reservas: 4
+Por la expedición de cada 5 hojas de copias
 
-Por la expedición de cada 5 hojas
+certificadas o simples 2
 
-de copias certificadas o simples 2
+Por la Búsqueda de antecedentes sin la expedición de certificados 2
 
-Por la búsqueda de antecedentes
+Por la trascripción de documento 4
 
-sin la expedición de certificados 2
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 78.
 
-Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad, entendiéndose por tal servicio aquél que se presta a los usuarios mediante consulta a una base de datos que se efectúa a través de un enlace de comunicaciones entre equipos de cómputo, se causarán y pagarán: 144 VSMGZ por cada año.
+Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad, entendiéndose por tal servicio aquél que se presta a los usuarios mediante consulta a una base de datos que se efectúa a través de un enlace de comunicaciones entre equipos de cómputo, se causarán y pagarán cien VSMGZ por cada año.
 
-El pago de los derechos correspondientes deberá de efectuarse durante el mes de enero de cada ejercicio fiscal y la habilitación en el sistema se efectuará dentro de los tres días siguientes al que se haya realizado el pago.
-
-Cuando la solicitud del servicio se efectúe después del primer mes del año calendario, el derecho se pagará en proporción de doce VSMGZ por cada mes restante del ejercicio fiscal, debiendo cubrir el mes completo y nunca por fracción de mes.
+Cuando la solicitud del servicio se efectúe después del primer mes del año calendario, el derecho se pagará en proporción de nueve VSMGZ por cada mes restante del ejercicio fiscal, debiendo cubrir el mes completo y nunca por fracción de mes.
 
 ###### Artículo 79.
 
@@ -791,9 +967,11 @@ Tratándose de instituciones de crédito, de auxiliares de crédito, de seguros 
 
 Cuando los derechos indicados en este capítulo se establezcan al millar y la cantidad que resulte a pagar sea inferior a tres VSMGZ, se cobrará esta última cantidad.
 
-### CAPÍTULO QUINTO. POR LOS SERVICIOS PRESTADOS POR
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR
 
-AUTORIDADES DEL TRABAJADO Y PREVISIÓN SOCIAL
+AUTORIDADES CATASTRALES
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 80.
 
@@ -805,7 +983,7 @@ Sujeto
 
 Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General Notarías.
 
-Tasa
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 82.
 
@@ -813,25 +991,21 @@ Por los servicios prestados del Archivo General de Notarías se causan derechos 
 
 Concepto VSMGZ
 
-Por la expedición De 3 a 5 hojas 8
-
-de testimonios
+Por la expedición de testimonio De 3 a 5 hojas 8
 
 De 6 a 9 hojas 12
 
-De 10 hojas en
+De 10 hojas en adelante 16
 
-Adelante 16
+Por los avisos de testamentos, búsqueda de
 
-Por los avisos de testamentos,
+documentos, copias certificadas
 
-búsqueda de documentos,
-
-copias certificadas (por cada diez hojas) 3
+(por cada diez hojas) 3
 
 Por la certificación de escrituras 3
 
-Por la autorización de cada folio para notarías 0.05
+Por la autorización de cada folio por notarías 0.05
 
 Por cada tomo de cierre de protocolo 2
 
@@ -839,25 +1013,35 @@ Por la inscripción en el libro de Registro de Notarías 8
 
 Por cada diez hojas de expedición de copias simples 1
 
-### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR
+Por el aviso de testamento sobre la vivienda de interés
 
-LAS AUTORIDADES DE EDUCACIÓN
+social o popular. 0
+
+### CAPÍTULO QUINTO. POR LOS SERVICIOS PRESTADOS POR
+
+AUTORIDADES DEL TRABAJADO Y PREVISIÓN SOCIAL
 
 ###### Artículo 83.
 
 Son objeto de los derechos contenidos en este capítulo, la prestación de servicios a contribuyentes que ofrecen las autoridades catastrales.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 84.
 
-Por la expedición de copias fotostáticas o heliograficas de planos catastrales se causaran:
+Por la expedición de copias fotostáticas o heliográficas de planos catastrales se causaran:
 
-I. Copia simple de planos catastrales en tamaño carta u oficio, sin ampliación o reducción: 3 VSMGZ por plano.
+I.- Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción: 3 VSMGZ por plano.
 
-II. Copia certificada de planos catastrales en tamaño carta u oficio sin ampliación o reducción: 5 VSMGZ por plano.
+II.- Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción: 5 VSMGZ por plano.
 
-III. Copia simple del plano de levantamiento topográfico o deslinde catastral en medidas de 60X90 cm. mayores, sin ampliación o reducción 5 VSMGZ por plano.
+III.- Copia simple de plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 5 VSMGZ por plano.
 
-IV. Copia certificada de plano de levantamiento topográfico o deslinde catastral en medidas de 60X90 cm. o mayores, sin ampliación o reducción 6 VSMGZ por plano.
+IV.- Copia certificada de plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por plano.
+
+V.- Copia simple de plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 5 VSMGZ por metro cuadrado.
+
+VI.- Copia certificada de plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por metro cuadrado.
 
 ###### Artículo 85.
 
@@ -900,6 +1084,10 @@ llegar a 100 Has.
 De más de 100 655 Sumar 3 VSMGZ por cada hectárea
 
 excedente.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+III.- Cuando el contribuyente presente adjunto a su solicitud de deslinde catastral, el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro y efectuado por topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se pagará el 30 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta realice la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad y el Comercio. El topógrafo geodesta a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro de acuerdo al resultado del procedimiento administrativo de deslinde catastral.
 
 ###### Artículo 86.
 
@@ -999,61 +1187,59 @@ Cuando el contribuyente solicite copia simple de planos catastrales en material 
 
 Los derechos por la adquisición de planos en medios magnéticos no incluyen la actualización posterior de la información.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 89.
 
-Por la expedición de copias heliográficas de planos generales de cabeceras de los Municipios se causaran y pagarán:
+Por la expedición de copias simples de planos generales de cabeceras de los Municipios se causaran y pagarán:
 
 Municipio VSMGZ
 
-AMEALCO 3
+AMEALCO DE BONFIL 5
 
-PINAL DE AMOLES 3
+PINAL DE AMOLES 5
 
-ARROYO SECO 3
+ARROYO SECO 5
 
-CADEREYTA DE MONTES 10
+CADEREYTA DE MONTES 5
 
-COLON 3
+COLON 5
 
-CORREGIDORA 20
+CORREGIDORA 5
 
-EZEQUIEL MONTES 10
+EZEQUIEL MONTES 5
 
-HUIMILPAN 3
+HUIMILPAN 5
 
-JALPAN 14
+JALPAN 5
 
-LANDA DE MATAMOROS 3
+LANDA DE MATAMOROS 5
 
-EL MARQUES 10
+EL MARQUÉS 5
 
-PEDRO ESCOBEDO 3
+PEDRO ESCOBEDO 5
 
-PEÑAMILLER 3
+PEÑAMILLER 5
 
-QUERETARO
+QUERÉTARO 10
 
-Escala: 1:10,000 17
+SAN JOAQUÍN 5
 
-Escala: 1:20,000 25
+SAN JUAN DEL RÍO 5
 
-Escala: 1:25,000 8
+TEQUISQUIAPAN 5
 
-SAN JOAQUIN 3
-
-SAN JUAN DEL RIO 17
-
-TEQUISQUIAPAN 14
-
-TOLIMAN 3
+TOLIMÁN 5
 
 PLANO GENERAL
 
 DEL ESTADO 10
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 90.
 
-Por la expedición copias de aerofotografías de 23x23 cm. en papel se causara 15 VSMGZ por fotografía. Por ampliaciones se causara 15 VSMGZ por cada 529 cm2.
+Por la expedición copias de aerofotografías de 23x23 cm. impresas en papel fotográfico se causará 15 VSMGZ por fotografía. Por ampliaciones se causara 5 VSMGZ por cada 529 cm2 adicionales.
 
 ###### Artículo 91.
 
@@ -1095,29 +1281,51 @@ Más de 921 240 1.00
 
 Los avalúos que practique la Dirección de Catastro tendrán una vigencia de seis meses a partir de la fecha de su elaboración.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 93.
 
-Por proporcionar información y ubicar en gabinete vértices geodésicos en coordenadas UTM se causarán y pagarán 25 VSMGZ por vértice geodésico.
+Por proporcionar información de vértices geodésicos en coordenadas UTM se causarán y pagarán:
+
+I.- Copia fotostática de información de vértice geodésico, 1 VSMGZ por vértice.
+
+II.- Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 7 VSMGZ por vértice.
+
+III.- Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, incluye monumentación, 40 VSMGZ por vértice.
+
+IV.- Observaciones de la Estación Fija de la Dirección de Catastro:
+
+Tiempo aire VSMGZ
+
+Primera hora 0.50
+
+Horas subsecuentes hasta 10 horas 0.25
+
+Más de 10 horas hasta 24 horas 6.00
 
 ###### Artículo 94.
 
-Por el servicio de consulta remota al sistema de información de la Dirección de Catastro, entendiéndose por tal servicio aquél que se presta a los usuarios mediante consulta a una base de datos que se efectúa a través de un enlace de comunicaciones entre equipos de cómputo, se causarán y pagarán: 144 VSMGZ por cada año.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2004)
 
-El pago de estos derechos deberá efectuarse durante el mes de enero de cada ejercicio fiscal y la habilitación en el sistema se efectuará dentro de los 3 tres días hábiles siguientes al en que se haya presentado el recibo oficial de pago. Cuando la solicitud del servicio se efectué después del primer mes del año calendario, el derecho se pagará en proporción de 12 VSMGZ por cada mes restante del ejercicio fiscal, debiendo cubrir el mes completo y nunca fracción de mes.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 95.
 
 Por los siguientes servicios que presta la Dirección de Catastro, se pagarán los siguientes derechos:
 
-I. Notificaciones catastrales que sean solicitadas por los contribuyentes o usuarios, excepto cuando la emisión de la notificación sea dentro de la tramitación de los avisos de traslado de dominio presentados por los fedatarios públicos: 3 VSMGZ.
+I.- Notificación de registro catastral que sea solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación sea dentro de la tramitación de los avisos de traslado de dominio presentados por los fedatarios públicos, 3 VSMGZ.
 
-II. Proporcionar información catastral de un inmueble a solicitud del interesado que demuestre su interés jurídico, excepto cuando se trate del propietario del inmueble para conocer la exactitud de dicha información: 3 VSMGZ
+II.- Proporcionar información catastral de un inmueble a solicitud del interesado que demuestre su interés jurídico, excepto cuando se trate del propietario del inmueble para conocer la exactitud de dicha información, 3 VSMGZ.
 
-III. La expedición de constancias de información catastral disponible: 3 VSMGZ.
+III.- La expedición de constancias de información catastral disponible con fojas de una hasta cinco: 3 VSMGZ, y por cada foja excedente, el 0.06 VSMGZ.
 
-IV. Certificaciones de documentos catastrales con fojas de una hasta cinco, causarán y pagarán 3 VSMGZ, y por cada foja excedente el 0.10 VSMGZ.
+IV.- Certificaciones de documentos catastrales con fojas de una hasta cinco, causarán y pagarán 5 VSMGZ, y por cada foja excedente, el 0.10 VSMGZ.
 
-V. Proporcionar a los peritos valuadores con registro ante la Dirección de Catastro, papelería para la elaboración de avalúos fiscales, un 0.10 VSMGZ por foja.
+V.- Proporcionar a los peritos valuadores con registro ante la Dirección de Catastro, papelería para la elaboración de avalúos fiscales, 0.10 VSMGZ por foja.
+
+VI.- Expedición de copias simples de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo: 5 VSMGZ por metro cuadrado.
+
+VII.- Expedición de copias certificadas de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo, 7 VSMGZ por metro cuadrado.
 
 ###### Artículo 96.
 
@@ -1125,11 +1333,9 @@ Por los documentos que expida o los servicios que preste la Dirección de Catast
 
 A las personas que tengan el carácter de ejidatarios o comuneros, así como a las que tengan el carácter de jubilados o pensionados, dueños o poseedores de predios rústicos o urbanos cuyo ingreso sea inferior a dos VSMGZ mensuales, se les concederá una deducción del 50% sobre el monto de los derechos respecto de los servicios que presta la Dirección de Catastro.
 
-### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PRESTADOS POR LAS
+### CAPÍTULO SEXTO. POR LOS SERVICIOS PRESTADOS POR
 
-AUTORIDADES DE LA SECRETARÍA DE
-
-DESARROLLO URBANO Y OBRAS PÚBLICAS
+LAS AUTORIDADES DE EDUCACIÓN
 
 ###### Artículo 97.
 
@@ -1139,9 +1345,11 @@ I. Por la expedición de copias certificadas de constancias cuando el solicitant
 
 II. Por certificaciones de copias fotostáticas y su cotejo de originales de documentación solicitada por la parte patronal, por página: 3 VSMGZ.
 
-### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR
+### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PRESTADOS POR LAS
 
-LAS AUTORIDADES DE LA SECRETARIA DE GOBIERNO
+AUTORIDADES DE LA SECRETARÍA DE
+
+DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 ###### Artículo 98.
 
@@ -1167,111 +1375,201 @@ que no figuren en el
 
 registro original 0.5
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 100.
 
-En relación a títulos profesionales, de diploma de especialidad o de grado académico:
+Por los trámites que realice la Dirección Estatal de Profesiones ante la Instancia Federal correspondiente de la Secretaría de Educación Pública se causarán y pagarán los siguientes:
+
+I.- En relación a títulos profesionales,
+
+de diploma de especialidad o de grado académico:
 
 Concepto VSMGZ
 
-Por registro de un establecimiento
+Por trámite de registro de un
 
-educativo legalmente autorizado
+establecimiento educativo
 
-para expedirlos 120
+legalmente autorizado para
 
-Por enmiendas al registro de un
+Expedirlos 35
 
-establecimiento educativo 12
+Por trámite de enmiendas
 
-Por revalidación 25
+al registro de un
 
-Por registro 12
+establecimiento educativo 10
 
-Por enmiendas al registro 3
+Por trámite de registro de
 
-Por registro de cedula profesional
+Título y Expedición de cédula
 
-de licenciatura y grado 16
+profesional de licenciatura y grado
 
-Por Registro de Título o Cédula
+Académico 6
 
-Profesional de Técnico Superior
+Por trámite de Registro de
 
-Universitario o profesional Asociado
+Título y Expedición de cédula
 
-de Institución Pública 8
+profesional de Técnico Superior
 
-Por Registro de Título o cédula
+Universitario, Profesional
 
-profesional de Técnico 5
+Asociado de Institución
 
-Por expedición de títulos profesionales
+Pública y de Niveles Técnicos. 3
 
-o diplomas en el caso de reposición por
+II.- Otros conceptos:
 
-extravío o destrucción total o parcial 1
+> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-Por exámenes profesionales 1
+Concepto VSMGZ
+
+Por trámite de registro de Diploma
+
+y Expedición de Cédula
+
+Profesional para el ejercicio de una
+
+especialidad 8
+
+Por trámite de duplicado de cédula
+
+profesional 2
+
+Por trámite de expedición de
+
+autorización provisional para ejercer
+
+por estar el título profesional en trámite
+
+o para ejercer como pasante. 2
+
+Por trámite de consultas de archivo. 1
+
+Por trámite de constancias de
+
+antecedentes profesionales 5
+
+Por trámite de devolución de
+
+documentos originales 1
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 101.
 
-Por los siguientes conceptos:
+Los servicios prestados por la Dirección de Educación se causarán y pagarán los siguientes:
 
 Concepto VSMGZ
 
-Expedición de autorización
+Por solicitud, estudio y resolución
 
-para el ejercicio de una
+del trámite de reconocimiento de validez oficial de
 
-especialidad 12
+Estudios de tipo superior. 136
 
-Expedición de cédula
+Por solicitud, estudio y resolución del
 
-profesional con efectos
+trámite de cambio a planes y programas de estudio
 
-de patente o de cédula
+de tipo superior con reconocimiento de validez oficial. 59
 
-de grado académico 5
+Cambio o ampliación de domicilio o
 
-Expedición de duplicado
+establecimiento de un plantel adicional
 
-de cédula o de autorización
+respecto de cada plan de estudios con
 
-para el ejercicio de una
+reconocimiento de validez oficial 51
 
-especialidad 5
+Por solicitud, estudio y resolución del
 
-Expedición de autorización
+trámite de autorización para impartir educación
 
-provisional para ejercer por
+Preescolar, Primaria, Secundaria, Normal
 
-estar el título profesional en
+y demás para la formación de maestros,
 
-trámite o para ejercer como pasante 5
+sea cual fuere la modalidad. 15
 
-Consultas de archivo 2
+Por solicitud, estudio y resolución del
 
-Constancias de antecedentes
+trámite de reconocimiento de validez oficial de
 
-profesionales 5
+estudios de los niveles de educación inicial
 
-Reposición de certificados de
+y medio superior o equivalente y de
 
-estudios realizados en escuelas
+formación para el trabajo, sea cual fuere la modalidad. 15
 
-estatales, por extravío o
+Por solicitud, de equivalencia y revalidación de estudios:
 
-destrucción parcial o total 3
+a) De Educación Media Superior 5
 
-Exámenes profesionales
+b) De Educación Superior 14
 
-para estudiantes de
+Por duplicado de equivalencia o revalidación de estudios 2
 
-escuelas oficiales o incorporadas 1
+Por registro de alumnos (por semestre y por institución):
 
-### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR
+a) Capacitación para el Trabajo 1
 
-LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+b) Bachillerato 1
+
+c) Educación Normal 1
+
+d) Licenciatura 1
+
+e) Especialidad 1
+
+f) Maestría 1
+
+g) Doctorado 1
+
+Examen de regularización (por materia por alumno):
+
+a) Capacitación para el Trabajo 1
+
+b) Bachillerato 1
+
+c) Educación Normal 1
+
+d) Licenciatura 1
+
+e) Especialidad 1
+
+f) Maestría 1
+
+g) Doctorado 1
+
+Duplicado de certificado todos los niveles 2
+
+Examen a título de suficiencia, por materia 1
+
+Validación de Certificado de Estudios
+
+Parciales, por asignatura 1
+
+Exámenes profesionales o de grado 3
+
+Otorgamiento de Títulos de Educación Normal 1
+
+Autenticación de Títulos de Educación Superior 2
+
+Dictamen y cambio de carrera (Educación Superior) 2
+
+Para cualquier otra certificación o expedición
+
+de constancias distintas de las señaladas 2
+
+### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR
+
+LAS AUTORIDADES DE LA SECRETARIA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 102.
 
@@ -1581,7 +1879,11 @@ III. Por informes generales respecto de fraccionamientos emitidos por la Secreta
 
 IV. Por dictamen técnico por una vigencia determinada para la autorización provisional para inicio de obra de urbanización: 50 VSMGZ
 
-### CAPÍTULO DÉCIMO. SERVICIOS PRESTADOS POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
+### CAPÍTULO NOVENO. POR LOS SERVICIOS PRESTADOS POR
+
+LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 122.
 
@@ -1589,17 +1891,19 @@ Por los servicios prestados por autoridades de la Secretaría de Gobierno, se pa
 
 Concepto VSMGZ
 
-Por la legalización de firmas de funcionarios 2
+Por la legalización de firmas de funcionarios. 1.5
 
-Por la expedición de la Apostilla de documentos
+Por la expedición de la Apostilla de
 
-públicos que surtan efectos jurídicos en el extranjero 6.72
+documentos públicos que surtan efectos jurídicos
 
-Por búsqueda en archivo y expedición
+en el extranjero. 4.0
 
-de copias certificadas de documentos por primera hoja 1
+Por primera hoja. 0.5 Por la búsqueda en archivo
 
-por hoja adicional 0.5
+y expedición de copias certificadas de documentos.
+
+Por hoja adicional 0.2
 
 ###### Artículo 123.
 
@@ -1617,19 +1921,25 @@ Cuando la inserción a publicar contenga cantidades en número, cada tres signos
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 124.
 
-Por la constancia de empadronamiento expedida a las empresas que prestan el servicio de seguridad privada en el Estado de Querétaro, se cobrará el derecho a razón de 100 VSMGZ.
+Por los servicios prestados por la Dirección Estatal del Registro Civil, se pagarán los siguientes derechos:
 
-Los derechos por el refrendo de la constancia de empadronamiento se cubrirá en forma anual en términos del artículo 11 del reglamento para la prestación de servicios de seguridad privada en el Estado de Querétaro y causarán derechos a razón de 75 VSMGZ.
+Concepto VSMGZ
 
-Los derechos anteriores se cubrirán dentro de los cinco días siguientes a la fecha de entrega de la orden de pago correspondiente.
+Certificaciones de actas 1.0
 
-Para el caso de no cubrir el pago de los derechos correspondientes en el plazo señalado en el párrafo anterior se cancelará la autorización, regularización o refrendo solicitado.
+Anotaciones marginales 1.0
 
-### CAPÍTULO DÉCIMO PRIMERO. SERVICIOS PRESTADOS POR LAS
+Asentamiento de actas, excepto las de nacimiento 1.0
 
-AUTORIDADES DE TRÁNSITO Y TRANSPORTE
+Certificaciones tramitada por autoridad habilitada mediante convenio 0.5
+
+### CAPÍTULO DÉCIMO. SERVICIOS PRESTADOS POR LAS AUTORIDADES DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 125.
 
@@ -1637,69 +1947,125 @@ Por los servicios prestados por la Procuraduría General de Justicia del Estado 
 
 Concepto VSMGZ
 
-Por la expedición de Por la primera hoja 1
+Por la expedición de Certificado Por la primera hoja 2
 
-Certificado de antecedentes
+de antecedentes procesales o Por cada hoja excedente a la primera 1
 
-procesales o penales
+penales
 
-Por cada hoja excedente
+Por práctica de peritaje a solicitud Por trabajo pericial para cuyo dictamen se exija
 
-a la primera 0.5
+de particulares sin incluir aquellos que el perito acredite contar con estudios de
 
-Por práctica de peritaje a Por trabajo pericial para
+que la propia autoridad tenga licenciatura 12
 
-solicitud de particulares sin cuyo dictamen se exija
+obligación a realizar derivado
 
-incluir aquellos que la propia que el perito acredite
+de sus funciones.
 
-autoridad tenga obligación a contar con estudios de
+Por trabajo pericial para cuyo dictamen no se
 
-realizar derivado de sus funciones licenciatura 10
+exija que el perito acredite contar con estudios de
 
-Por trabajo pericial para
+licenciatura 6
 
-cuyo dictamen no se
+Por la expedición del documento que acredite la verificación alfanumérica de automotor
 
-exija que el perito
+que determine la existencia o no de irregularidad en sus datos de identificación vehicular 5
 
-acredite contar con
+Por expedición de certificado sobre la existencia o no de reporte de robo de vehículo
 
-estudios de licenciatura 5
+automotor conforme a las bases de datos de la Procuraduría General de Justicia 2
 
-Por la expedición del documento que acredite la verificación
+Por la expedición de copias de documentos en poder de la Procuraduría consultables
 
-alfanumérica de automotor que determine la existencia o no de
+conforme a la Ley, contenidas en:
 
-irregularidad en sus datos de identificación vehicular 4
+Medio electrónico o magnético, el interesado deberá proveer los discos o Sin costo
 
-Por expedición de certificado sobre la existencia o no de reporte
+cintos que se requieran;
 
-de robo de vehículo automotor conforme a las bases de datos
+0.01
 
-de la Procuraduría General de Justicia 2
+Fotocopia: por cada hoja
 
-### CAPÍTULO DÉCIMO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES FISCALES
+Por cada trabajo pericial, el particular, adicionalmente, cubrirá el importe de los insumos o elementos consumidos en la realización del dictamen, conforme a los costos vigentes en el mercado al momento de la solicitud respectiva.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE
+
+SEGURIDAD CIUDADANA
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 126.
 
-Por los servicios prestados por los diversos cuerpos policíacos que operan en el Estado, y atendiendo al grado del personal que se ocupe, los derechos serán variables conforme a los tabuladores que tengan establecido cada uno de dichos cuerpos de vigilancia, causándose y pagándose a razón de lo establecido en el presente capítulo.
+Por los servicios prestados por la Secretaría de la Contraloría se causarán y pagarán:
 
-### CAPÍTULO DÉCIMO TERCERO. POR LOS SERVICIOS PRESTADOS POR LA LEGISLATURA
+I.- El importe de la suscripción en el Padrón de Contratistas de la Administración Pública Estatal, que será la cantidad de:
+
+a) Personas Físicas, 4 VSMGZ
+
+b) Personas Morales, 10 VSMGZ
+
+(REUBICADO, REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2004)
+
+### CAPÍTULO DÉCIMO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES FISCALES
 
 ###### Artículo 127.
 
-Por el servicio de traslado y custodia de valores a solicitud de los interesados, se causarán y pagarán los derechos determinados en las tarifas que contengan las disposiciones relativas.
+Por los servicios prestados por las autoridades del Colegio de Policía, se causarán derechos por los siguientes conceptos:
+
+Concepto VSMGZ
+
+Por asesoría o capacitación que se imparta a instituciones públicas o privadas, se causará
+
+y pagará por cada hora por grupo de hasta 20 personas. 3
+
+Por cada persona adicional se incrementará. 0.15
+
+Por la aplicación de estudios psicológicos al personal de instituciones públicas o privadas,
+
+se causará y pagará por estudio 7
+
+Por la atención psicológica al personal operativo de las corporaciones policiales, se
+
+causará y pagará por hora por persona. 1
+
+Por evaluación del nivel de conocimientos y habilidades del personal operativo de las
+
+corporaciones de policía y demás instituciones de seguridad y atención de emergencias
+
+en el Estado, causará y pagará por estudio por persona. 10
+
+Por los cursos básicos de formación policial a los Municipios del Estado de Querétaro 0
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 128.
 
-Por el servicio de instalación y mantenimiento de sistemas de alarmas a solicitud de los interesados, se causarán y pagarán los derechos determinados en las tarifas que contengan las disposiciones relativas.
+Por la constancia de empadronamiento expedida a las empresas
+
+que prestan el servicio de seguridad privada en el Estado de Querétaro, se cobrara
+
+el derecho a razón de 100 VSMGZ.
+
+Los derechos por el refrendo de la constancia de empadronamiento se cubrirán en forma anual en términos del artículo 11 del reglamento para la prestación de servicios de seguridad privada en el Estado de Querétaro y causaran derechos a razón de 75 VSMGZ.
+
+Los derechos anteriores se cubrirán dentro de los cinco días siguientes a la fecha de entrega de la orden de pago correspondiente.
+
+Para el caso de no cubrir el pago de los derechos correspondientes en el plazo señalado en el párrafo anterior se cancelará la autorización, regularización o refrendo solicitado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 129.
 
-Por los servicios prestados por las autoridades de Tránsito y Transporte, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, se causarán y pagarán los siguientes derechos:
 
-I. Por expedición de licencias para manejar, con vigencia anual, se causarán y pagarán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+I.- Por el trámite y en su caso expedición de licencias para manejar, con vigencia anual, se causarán y pagarán:
 
 Tipo VSMGZ
 
@@ -1711,11 +2077,33 @@ Motocicleta 1
 
 Las licencias podrán extenderse hasta por un período de cinco años, debiendo cubrir los derechos correspondientes por cada año.
 
-II. Por la expedición de reposición de licencias para manejar a que se refiere la fracción anterior del presente artículo se causara y pagará el 50% de los derechos que correspondan.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-III. Por expedición de permiso provisional para manejar, por cada diez días, así como por la expedición de permiso para automovilista a personas con edad de 16 y menores de 18 años, con vigencia de un año: 2 VSMGZ.
+II.- Por la reposición de licencias para manejar a que se refiere la fracción anterior del presente artículo, se causará y pagará dos VSMGZ;
 
-IV. Por la expedición de autorización para la circulación de vehículos sin placas ni documentación correspondiente, causarán y pagarán mensualmente dos VSMGZ.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+III.- Por el trámite y en su caso expedición de permiso para automovilista a personas con edad de 16 y menores de 18 años, con vigencia de un año, se causarán y pagarán dos VSMGZ;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+IV.- Por el trámite y en su caso expedición de permiso provisional para manejar, por cada diez días se causarán y pagarán dos VSMGZ;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+V.- Por la expedición de autorización para la circulación de vehículos sin placas ni documentación correspondiente, causarán y pagarán mensualmente dos VSMGZ;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VI.- Por la expedición de constancias de antecedentes de licencias de manejo y accidentes, se causará y pagará así como de constancia de no infracción una VSMGZ;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VII.- Por la expedición de permiso de traslado de vehículos que no serán emplacados en el Estado, se expedirá hasta por diez días sin costo alguno; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Por la expedición de tarjetón de identificación para las personas con discapacidad, se causará y pagará una VSMGZ, por un año.
 
 ###### Artículo 130.
 
@@ -1739,31 +2127,49 @@ Por la revisión física y mecánica de los vehículos destinados al servicio p�
 
 (VEASE TABLA ANEXA)
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 132.
 
-Por la expedición de permisos provisionales para el servicio público de carga o de pasajeros, por seis meses, se causarán:
+Por la expedición de autorizaciones diversas para la prestación del servicio público causarán y pagarán:
 
-VSMGZ
+I.- Para los permisos provisionales para el servicio público de carga o de pasajeros por seis meses:
 
-De transporte colectivo 44
+CONCEPTO VSMGZ
 
-De especializado 44
+De transporte colectivo 22
 
-Escolar 44
+De especializado 15
 
-Mixto 44
+Escolar 15
 
-Complementario al transporte
+Mixto 22
 
-permisionado por las autoridades federales 44
+Complementario al transporte permisionario
+
+por las autoridades federales 15
 
 De carga peligrosa o de paso 5
 
-Por la expedición de tarjetón de identificación para operadores del servicio público se pagará un VSMGZ.
+II.- Por la expedición de tarjetón de identificación para operadores del servicio público una VSMGZ por un año; y
 
-### CAPÍTULO DÉCIMO CUARTO. POR LOS SERVICIOS PRESTADOS POR EL
+III.- Por la expedición de autorización para instalar publicidad en vehículos de transporte público, por cada año:
 
-TRIBUNAL SUPERIOR DE JUSTICIA
+VSMGZ
+
+Para instalar publicidad en partes
+
+laterales de autobuses 20
+
+Para instalar publicidad en parte
+
+posterior de autobuses 15
+
+Para instalar publicidad integral en autobuses 44
+
+Para instalar publicidad en taxis 15
+
+### CAPÍTULO DÉCIMO TERCERO. POR LOS SERVICIOS PRESTADOS POR LA LEGISLATURA
 
 ###### Artículo 133.
 
@@ -1791,87 +2197,151 @@ b) Hora supervisor 3 VSMGZ
 
 Por los servicios de control vehicular se pagarán anualmente los siguientes derechos:
 
-I. Por la expedición de placas, tarjeta de circulación y engomados se cobrará las siguientes:
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-(VEASE TABLA ANEXA)
+I.- Por la expedición de placas, tarjeta de circulación y engomados se cobrará las siguientes VSMGZ:
 
-II. Por el refrendo del control vehicular, se aplicarán las cantidades establecidas por concepto de documentos y engomado a que se refiere la fracción anterior de este artículo.
+Transporte Tipo Documentos
 
-III. La documentación a que se refiere este artículo deberán obtenerla los interesados dentro de los tres primeros meses de cada año.
+y Engomados Placas Total
 
-IV. Para el caso de adquisición de vehículos nuevos y unidades usadas fuera del plazo previsto en la fracción anterior, los adquirentes deberán obtener la documentación a que se refiere la fracción I de este artículo dentro de los quince días hábiles siguientes a la fecha en que se realice la operación.
+Privado Automóvil 2.68 5.32 8.00
 
-V. Por los avisos de enajenación de vehículos y de baja al padrón vehicular, se pagarán dos VSMGZ.
+Camión 2.68 5.32 8.00
 
-VI. Por la expedición de duplicado de tarjeta de circulación causara y pagará el 50% que correspondan a la prestación del servicio a que se refiere la fracción I de este artículo. Para este caso será necesario que la unidad se encuentre al corriente del pago de tenencia o uso de vehículo por concepto de control vehicular. Si la solicitud de reposición de tarjeta de circulación es por causa de extravío o destrucción el contribuyente deberá presentar constancia de no infracción emitida por la Dirección de Tránsito y Transporte de Gobierno del Estado, por Tránsito Municipal y Federal, así como manifestar su dicho ante la autoridad fiscal mediante declaración rendida bajo protesta de decir verdad. Si el motivo de la solicitud de duplicado es por robo de la tarjeta de circulación adicionalmente deberá presentar copia simple de la averiguación previa en donde se denuncie dicho ilícito, en el caso de extravío o destrucción de una o ambas placas de circulación será necesario que el contribuyente promueva la baja y la vez solicite la expedición de nuevas placas de circulación debiendo cumplir con los requisitos establecidos en el artículo 136 de la presente Ley.
+Autobús 2.68 5.32 8.00
 
-VII. Para los efectos del presente artículo, los vehículos de transporte funerario y los camiones cisterna dedicados al suministro de agua al público, se equiparan a los camiones de carga del servicio público.
+Demostración 2.68 5.32 8.00
+
+Remolque 2.68 5.32 8.00
+
+Motocicleta 1.06 2.24 3.30
+
+Público Automóvil 3.66 7.40 11.06
+
+Camión 3.66 7.40 11.06
+
+Autobús 3.66 7.40 11.06
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+II.- Por la expedición de placas, tarjeta de circulación y engomados de Auto Antiguo, para Discapacitado y Policía, se cobrará con relación al Transporte y Tipo a que se refiere la fracción anterior de este artículo.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+III.- Por el refrendo de control vehicular, se aplicaran las cantidades establecidas por concepto de documentos y engomado a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+IV.- La documentación a que se refiere la fracción I deberán obtenerla los interesados dentro del mismo periodo en que se efectúe el pago del Impuesto sobre Tenencia o Uso de Vehículos, cumpliendo los requisitos que al efecto determine la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+V.- En la adquisición de vehículos nuevos y usados que no se encuentren registrados en el Padrón Vehicular Estatal, los adquirentes deberán registrar el vehículo y obtener la documentación a que se refiere la fracción I de este artículo, dentro de los quince días hábiles siguientes a la fecha en que se realice la operación.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VI.- Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán dos VSMGZ.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VII.- Por la reposición de la tarjeta de circulación se causará y pagará el 50 por ciento que correspondan a la prestación del servicio a que se refiere la fracción I de este artículo. Para este caso, será necesario que la unidad se encuentre al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos y de los derechos por control vehicular. Si la solicitud de reposición de la tarjeta de circulación es por causa de extravío o destrucción, el contribuyente deberá presentar constancia de no infracción emitida por la Secretaría de Seguridad Ciudadana, del Gobierno del Estado de Querétaro y por la Secretaría de Comunicaciones y Transportes, Delegación Querétaro; así como manifestar su dicho ante la autoridad fiscal mediante declaración rendida bajo protesta de decir verdad.
+
+Si el motivo de la solicitud de reposición es por robo, adicionalmente deberá presentar copia simple de la averiguación previa en donde se denuncie dicho ilícito. En el caso de extravío o destrucción de una o ambas placas de circulación, será necesario que el contribuyente promueva la baja de las placas y a la vez solicite la expedición de unas nuevas y tarjeta de circulación, debiendo cubrir los requisitos establecidos en la fracción V del artículo 136 de la presente Ley y pagar los derechos correspondientes.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VIII. Para los efectos del presente artículo, los vehículos de transporte funerario y los camiones con características especiales dedicados a prestar servicios públicos, se equiparan al Transporte Público, Tipo Camión.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 136.
 
-Las personas físicas o morales que sean propietarias de unidades automotrices y pretendan inscribirlas en el registro estatal vehicular deberán presentar en original y copia la siguiente documentación:
+Las personas físicas o morales que sean propietarias ó arrendatarias de unidades automotrices nuevas o usadas y pretendan inscribirlas en el Padrón Vehicular Estatal deberán presentar en original y copia la siguiente documentación:
 
-I. Factura original y a falta de ésta, carta factura original expedida por la empresa automotriz correspondiente, dentro de los 90 días anteriores al registro de la unidad ante esta dependencia y copia de la factura de origen.
+I.- Factura original y a falta de ésta, carta factura original expedida dentro de los noventa días anteriores al registro del vehículo en el Padrón Vehicular Estatal y copia de la factura de origen o refactura original.
 
-II. Identificación oficial vigente con fotografía y firma del propietario de la unidad. Si el propietario de la unidad es persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e Identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el trámite, el promovente deberá presentar adicionalmente, carta poder firmada por el propietario de la unidad o representante legal de la sociedad e identificación oficial con fotografía y firma de quien tramita.
+En caso de no contar con la factura de origen o copia, para los vehículos modelos 1995 y posteriores, la Dirección de Ingresos podrá asignar el valor promedio de acuerdo a los valores publicados en los boletines de la Asociación Mexicana de Distribuidores de Automotores, A. C. que corresponda al año modelo del vehículo.
 
-III. Comprobante de domicilio a nombre del propietario de la unidad. Si el comprobante de domicilio se encuentra a nombre de un tercero, el contribuyente deberá presentar por lo menos tres comprobantes diferentes de domicilio vigentes o del mes inmediato anterior.
+Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por Armadoras, el utilizado para determinar el primer pago del Impuesto Sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la Armadora. En caso de que no se cuente con ese pago o este se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior.
 
-IV. Acreditar el pago del Impuesto Sobre Tenencia o Uso de Vehículos por los últimos cinco ejercicios fiscales, o en su caso, comprobar que se encuentra libre del pago de dicho impuesto.
+II.- Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario.
 
-V. Placas y tarjeta de circulación o en su caso, presentar la baja correspondiente. Si dicha documentación no es presentada por extravío o destrucción de una o ambas placas y/o de la tarjeta de circulación, el contribuyente deberá presentar constancia de no infracción emitida por la Dirección de Tránsito y Transporte del Estado y por la Secretaría de Comunicaciones y Transportes, así como manifestar su dicho bajo protesta de decir verdad, ante la autoridad fiscal. Si el motivo por el cual no se presenta dicha documentación es por Robo de una o ambas placas y/o tarjeta de circulación, el contribuyente deberá presentar adicionalmente, copia certificada del acta de averiguación previa, en donde el propietario de la unidad, manifieste los hechos relacionados con el ílicito
+Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal.
 
-VI. Si la unidad que se pretende registrar es de procedencia extranjera, el propietario deberá presentar los documentos originales que acreditan la legal estadía de la unidad en el país. No se autorizará el registro de la unidad, cuando el contribuyente presente copia certificada ante notario público de dichos documentos.
+En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el trámite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad e identificación oficial con fotografía y firma de quien tramita.
 
-Tratándose de vehículos nuevos, el contribuyente solo deberá presentar la documentación señalada en las fracciones I, II y III de este artículo.
+III.- Comprobante de domicilio a nombre del propietario o arrendatario del vehículo. Si el comprobante de domicilio se encuentra a nombre de un tercero, el contribuyente deberá presentar por lo menos tres diferentes comprobantes de domicilio vigentes o del mes inmediato anterior. Para los efectos de esta fracción, el contribuyente podrá utilizar la credencial emitida por el Instituto Federal Electoral como comprobante de domicilio.
 
-En todos los casos, el contribuyente o su representante legal deberá presentar la unidad a inscribir ante la autoridad correspondiente, a fin de que se cotejen los datos insertos en la documentación que se presente, con el vehículo respectivo.
+IV.- Presentar los últimos cinco comprobantes de pago del Impuesto Sobre Tenencia o Uso de Vehículos, los cuales estarán sujetos a validación por parte de la autoridad emisora; o en su caso, comprobar que se encuentra libre del pago de dicho impuesto.
+
+V.- Entregar placas y tarjeta de circulación o, en su caso, presentar la baja correspondiente. Si dicha documentación no es presentada por extravío o destrucción de una o ambas placas y/o de la tarjeta de circulación, el contribuyente deberá presentar constancia de no infracción emitida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro y por la Secretaría de Comunicaciones y Transportes, Delegación Querétaro, así como manifestar su dicho en el formato establecido para tal tramite. Si el motivo por el cual no se presenta dicha documentación es por robo de una o ambas placas y/o tarjeta de circulación, el contribuyente deberá presentar adicionalmente, copia simple del acta de averiguación previa, en donde el propietario de la unidad, manifieste los hechos relacionados con el ilícito.
+
+VI.- Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acreditan la legal estancia del vehículo en el país, o en su caso, copia certificada emitida por la Secretaría de Hacienda y Crédito Público.
+
+VII.- Las personas físicas o morales que pretendan realizar el cambio de propietario de vehículos nuevos o usados registrados en el Padrón Vehicular Estatal deberán presentar además de lo señalado en las fracciones I, II, III y IV del presente artículo, la factura debidamente endosada a su nombre y la tarjeta de circulación.
+
+VIII.- Cuando derivado de un error en un movimiento al Padrón Vehicular Estatal por causas no imputables al contribuyente se deba realizar la baja y alta del vehículo, no se causarán los derechos a que hacen referencia las fracciones I y VI del artículo 135 de la presente Ley.
+
+Tratándose de vehículos nuevos, el contribuyente solo deberá presentar la documentación señalada en las fracciones I, II, y III de este artículo.
+
+El contribuyente o su representante legal deberán presentar el vehículo cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+Artículo 136 BIS.- Si el vehículo que se pretende registrar, cuenta con placas de circulación expedidas por la Secretaría de Comunicaciones y Transportes, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 136 de está Ley, la tarjeta de circulación expedida por dicha Secretaría.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 137.
 
-Se podrá otorgar placas de circulación para vehículo antiguo, cuando el propietario de la unidad presente la siguiente documentación:
+Si el vehículo que se pretende registrar es para otorgarle placas de auto antiguo, se deberá cumplir con los siguientes requisitos:
 
 A) Comprobar que la unidad cuente con una antigüedad mínima de 30 años;
 
 B) Documento expedido por el fabricante de la unidad u organismo de certificación, laboratorio de prueba o unidad de verificación, debidamente acreditado, en donde se certifique que las partes, componentes y la carrocería de la unidad, conservan sus características originales.
 
-C) Requisitos señalados en el artículo anterior.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+C) Los señalados en el artículo 136 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+Para el otorgamiento de placas de vehículos para discapacitados, se deberá cumplir con los siguientes requisitos:
+
+a) Entregar constancia de discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+b) Los señalados en el artículo 136 de esta Ley.
 
 Una vez presentada dicha documentación, el contribuyente deberá presentar la unidad para su revisión y cotejo del número de serie con la documentación que ampara la propiedad de la misma y en su caso, con los documentos que acredite la legal estadía del vehículo en el país.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 138.
 
-Si la unidad que se pretende registrar se encuentra en arrendamiento, el contribuyente deberá presentar la siguiente documentación:
+Si el vehículo que se pretende registrar se encuentra en arrendamiento, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 136 de está Ley, contrato donde se especifique claramente los nombres del arrendador y arrendatario, y el objeto del mismo, así como documento expedido por el arrendador en donde autorice específicamente a registrar el vehículo a nombre del arrendatario.
 
-I. Factura original y a falta de ésta, carta factura original expedida dentro de los 90 días anteriores al registro de la unidad ante esta dependencia y copia de la factura original, ambas emitidas por la agencia automotriz y a nombre del arrendatario.
-
-II. Contrato de Arrendamiento de la unidad en donde se especifique claramente los nombres del Arrendador y Arrendatario, y el objeto del mismo. Así como, documento expedido por el Arrendador en donde autorice específicamente a registrar la unidad a nombre del arrendatario.
-
-III. Identificación oficial vigente con fotografía y firma del Arrendatario de la unidad. En caso de que el Arrendatario sea persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e Identificación oficial con fotografía y firma del representante legal. Si el arrendatario no realiza personalmente el trámite o a través de su representante legal en el caso de personas morales, el promovente deberá presentar adicionalmente, carta poder firmada por el arrendatario o representante legal la sociedad e identificación oficial con fotografía y firma de quien tramita.
-
-IV. Comprobante de domicilio a nombre del Arrendatario de la Unidad. Si el comprobante de domicilio se encuentra a nombre de un tercero, el contribuyente deberá presentar por lo menos tres comprobantes diferentes del domicilio vigentes o del mes inmediato anterior.
-
-V. Si se trata de unidades usadas, acreditar el pago del Impuesto Sobre Tenencia o Uso de Vehículos hasta por los últimos cinco ejercicios fiscales anteriores, o en su caso, comprobar que se encuentran libre del pago de dicho impuesto.
-
-VI. Si la unidad es usada, entregar placas y tarjeta de circulación o en su caso, comprobar la baja de las mismas. En el caso de no presentar las placas y tarjetas de circulación, se estará a lo señalado en el artículo 135 fracción VI de la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 139.
 
-Para el caso de registro de vehículos nuevos o usados que se encuentren a crédito, deberán presentar adicionalmente a la carta factura y copia simple de la factura, documento emitido por la institución bancaria o el contrato de crédito en donde se acredite que el crédito se encuentra vigente y que la factura original esta en garantía.
+Para el caso de registro de vehículos nuevos o usados que se encuentren a crédito, por alguna Institución Bancaria, de Ahorro y Préstamo o Crediticia, deberán presentar adicionalmente a la carta factura y copia simple de la factura, documento emitido por la institución o el contrato de crédito en donde se acredite que el crédito se encuentra vigente y que la factura original está en garantía.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 140.
 
-Para proceder a tramitar la baja del vehículo del registro estatal de vehículos, es necesario cumplir los siguientes requisitos:
+Para proceder a tramitar la baja del vehículo del Padrón Vehicular Estatal, es necesario cumplir los siguientes requisitos:
 
-I. Identificación oficial con fotografía y firma del propietario de la unidad. En este caso deberá seguirse lo establecido por las fracciones II del artículo 136 de este ordenamiento.
+I.- Presentar la documentación señalada en el artículo 136 fracción II y V.
 
-II. Entregar placas y tarjeta de circulación. Cuando no sea posible entregar las placas o tarjeta de circulación, será necesario cumplir con lo establecido en el Artículo 135 fracción VI de la presente Ley.
+II.- Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y Derechos por los servicios de control o, en su caso, comprobar que se encuentra libre del pago de dicho impuesto.
 
-III. Acreditar el pago del Impuesto Sobre Tenencia o Uso de Vehículos y Derechos por los servicios de control vehicular por los últimos cinco ejercicios fiscales, o en su caso, comprobar que se encuentra libre del pago de dicho impuesto.
+III.- Cuando la baja del vehículo es a consecuencia de la falta de documentos que acrediten su legal estancia en el país, se autorizará la baja sin que el contribuyente esté obligado a pagar el adeudo que existiera por concepto de Impuesto Sobre Tenencia o Uso de Vehículos y Derechos por Control vehicular, a que hace referencia la fracción II del presente artículo, ni causará los derechos por la baja a que hace referencia la fracción VI del artículo 135 de la presente Ley.
 
-Cuando la baja de la unidad es a consecuencia de la falta de documentos que acrediten la legal estadía de la unidad en el país, se autorizará la baja sin que el contribuyente este obligado a pagar el adeudo existe por concepto de Impuesto Sobre Tenencia o Uso de Vehículos y Derechos por Control vehicular, a que hace referencia la fracción III del presente artículo, ni causará los derechos por la baja a que hace referencia la fracción V del artículo 135, de la presente Ley.
+IV.- En el caso de vehículos que cuenten con placas de circulación de Servicio Público Federal y que presenten su baja ante la Secretaría de Comunicaciones y Transportes, deberán presentar ante la Dirección de Ingresos de la Secretaría de Planeación y Finanzas, solicitud de baja del Padrón Vehicular Estatal, dentro de los 15 días siguientes a la fecha de baja. En el caso de no presentar la solicitud y la baja de la unidad del padrón vehicular dentro del término señalado, el contribuyente será responsable solidario de las contribuciones que se generen hasta la fecha en que se tramite la baja, dicha solicitud no causará los derechos a que hace referencia la fracción VI del artículo 135 de la presente Ley.
 
-En el Caso de vehículos que cuenten con placas de circulación de Servicio Público Federal y que presenten su baja ante la Secretaría de Comunicaciones y Transportes, deberán presentar ante la Dirección de Ingresos de la Secretaría de Planeación y Finanzas, solicitud de baja del padrón vehicular del Estado, dentro de los 15 días siguientes a la fecha de baja. En el caso de no presentar la baja de la unidad del padrón vehicular dentro del término señalado, el contribuyente será responsable solidario de las contribuciones que se generen hasta la fecha en que se trámite la baja.
+V.- La Autoridad Fiscal podrá dar de baja del padrón vehicular sin que se realice el pago de los derechos a que hace referencia la fracción VI del artículo 135, cuando el contribuyente demuestre que el vehículo fue registrado en otra entidad federativa, y esta confirme dicho registro.
 
 ###### Artículo 141.
 
@@ -1885,7 +2355,9 @@ Las personas afiliadas al Instituto Nacional de Adultos en Plenitud INAPLEN ó q
 
 Por los servicios de empadronamiento a que se refieren el punto 3 del inciso "h" de la fracción I e inciso "d" de la fracción II del Artículo 30 de esta Ley se pagarán 5 VSMGZ.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO DÉCIMO CUARTO. POR LOS SERVICIOS PRESTADOS POR EL
+
+TRIBUNAL SUPERIOR DE JUSTICIA
 
 ###### Artículo 144.
 
@@ -1919,7 +2391,19 @@ en medio magnético 2
 
 Por la expedición de copia de una Legislación en medio impreso 2
 
-### CAPÍTULO PRIMERO. DE LOS APROVECHAMIENTOS
+### CAPÍTULO DÉCIMO QUINTO. POR LOS SERVICIOS PRESTADOS POR LA OFICIALÍA MAYOR
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 145 Bis.
+
+Por los servicios prestados por la Oficialía Mayor se causarán y pagarán:
+
+I.- El importe de la suscripción al Padrón de Proveedores de la Administración Pública Estatal, que será la cantidad de:
+
+a) Personas Físicas, 4 VSMGZ
+
+b) Personas Morales, 10 VSMGZ
 
 ###### Artículo 145.
 
@@ -1943,11 +2427,13 @@ expedición de copias Por cada hoja excedente
 
 certificadas: a la primera 0.5
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO ÚNICO
+
+### CAPÍTULO PRIMERO. DE LOS APROVECHAMIENTOS
+
 ### CAPÍTULO SEGUNDO. DE LAS CONTRIBUCIONES ESPECIALES
-
-### CAPÍTULO ÚNICO
-
-### CAPÍTULO ÚNICO
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
@@ -1973,31 +2459,31 @@ VII. Asesoría Técnica sobre los ingresos inmobiliarios de los Municipios Desco
 
 VIII. Por la venta de hologramas de Verificación Vehicular.
 
-IX. El costo por la suscripción al Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" se causará y pagará conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+IX. El costo por la suscripción al Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga" se causará y pagará conforme a lo siguiente:
 
 Concepto VSMGZ
 
-Suscripción anual 10
+Suscripción anual 14
 
-Suscripción Semestral 7
+Suscripción Semestral 10
 
 Número del día 0.5
 
-Número atrasado, del año en curso 1
+Número atrasado, del año en
 
-Número de años anteriores 1
+curso o anteriores 1.5
 
 Por anexos:
 
-1. De una a trescientas páginas 1
+1. De una a trescientas páginas 2
 
 2. Por cada 100 páginas
 
-adicionales al número
+adicionales al número referido
 
-referido en el punto anterior
-
-se incrementará 0.5
+en el punto anterior se incrementará 1
 
 X. Productos diversos.
 
@@ -2010,6 +2496,8 @@ La explotación y aprovechamiento de bienes propiedad del Estado, realizados por
 ## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS Y CONTRIBUCIONES
 
 ESPECIALES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 148.
 
@@ -2031,6 +2519,8 @@ Los recargos deben considerarse en todo caso como indemnización al Erario del E
 
 Son otros aprovechamientos aquellos no considerados específicamente en los artículos anteriores y que no sean impuestos, derechos o productos.
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 153.
 
 Son contribuciones especiales, las aportaciones de mejoras constituidas por los ingresos que obtengan el Estado, derivados del incremento de valor en predios comprendidos dentro de la zona de influencia, por la ejecución de obras de utilidad pública.
@@ -2038,6 +2528,10 @@ Son contribuciones especiales, las aportaciones de mejoras constituidas por los 
 Las aportaciones de mejoras deberán determinarse de la misma forma en que se calcula el impuesto por obras de utilidad pública urbana previsto en el Código Urbano para el Estado de Querétaro.
 
 ## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES FEDERALES
+
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 154.
 
@@ -2072,6 +2566,80 @@ IV. Expropiaciones;
 V. Aportaciones extraordinarias de los entes públicos;
 
 VI. Aportaciones extraordinarias de mejoras.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+## TITULO DÉCIMO. DE LAS DISPOSICIONES DE VIGENCIA ANUAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 158.
+
+Se establecen las disposiciones de vigencia anual de la Ley de Hacienda del Estado para el ejercicio fiscal 2005, quedando en los siguientes términos:
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2005 serán las siguientes:
+
+I. Los servicios prestados por el Registro Público de la Propiedad y del Comercio a que se refieren los artículos 57 al 79 de esta Ley, a favor del primer adquirente de vivienda de interés social o popular, causarán un 50 por ciento del derecho establecido en esas disposiciones.
+
+II. Los servicios prestados por el Registro Público de la Propiedad, relativos a la inscripción de compraventa de inmuebles y constitución de hipoteca a favor del primer adquirente de vivienda de interés social o popular, causarán un derecho a razón de 4 VSMGZ, por ambos actos registrables, en lugar de la tasa establecida en los artículos 57 al 59 de esta Ley.
+
+III. La inscripción en el Registro Público de la Propiedad y del Comercio, de la compraventa de inmuebles destinados a la construcción de desarrollos habitacionales de tipo interés social o popular, se causará y pagará el 25 por ciento de los derechos establecidos en los artículos 57 al 59 de esta Ley.
+
+IV. La inscripción en el Registro Público de la Propiedad y del Comercio, de la constitución de régimen de propiedad en condominio de viviendas de interés social o popular, se causará y pagará el 50 por ciento de los derechos previstos en el artículo 60 de esta Ley.
+
+V. La inscripción en el Registro Público de la Propiedad y del Comercio, de los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de tipo de interés social o popular, se causará y pagará el 25 por ciento de los derechos establecidos en el artículo 63 de esta Ley.
+
+VI. La inscripción en el Registro Público de la Propiedad y del Comercio del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos destinados a desarrollos habitacionales de tipo interés social o popular, se causará y pagará el 50 por ciento de los derechos previstos en el artículo 64 de esta Ley.
+
+VII. La inscripción en el Registro Público de la Propiedad y del Comercio del contrato de hipoteca relacionado con la compraventa del inmueble destinado a la construcción de desarrollos habitacionales de tipo interés social o popular, se causará y pagará el 25 por ciento de los derechos establecidos en el artículo 68 de esta Ley.
+
+VIII. Por la reestructuración de créditos señalados en el artículo 68 de esta Ley, no causará derechos por la Inscripción en el Registro Público de la Propiedad y del Comercio, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial.
+
+IX. Las empresas de nueva creación que inicien la construcción o adquieran instalaciones en operación y propicien con ello el mantenimiento o generación de empleos, no causarán derechos por la inscripción en el Registro Público de la Propiedad y de Comercio, del testimonio en el que conste la adquisición del inmueble de que se trate.
+
+X. Las empresas que se encuentren establecidas en el Estado, que adquieran inmuebles como parte de su patrimonio y propicien con ello el mantenimiento o generación de empleos, causarán el 50 por ciento de los derechos que correspondan por la inscripción en el Registro Público de la Propiedad y del Comercio del testimonio en el que conste la adquisición del inmueble de que se trate.
+
+XI. Las empresas que adquieran créditos, hipotequen bienes o fusionen predios con el objeto de generar empleos, causarán y pagarán el 50 por ciento de los derechos que se originen por la inscripción en el Registro Público de la Propiedad y del Comercio, de la escritura pública en que conste la operación de que se trate.
+
+XII. Por los aumentos de capital de sociedades mercantiles señalados en el artículo 73 de esta Ley, causarán por concepto de derechos de registro en el Registro Público de la Propiedad y del Comercio, el 50 por ciento de los derechos establecidos en esa disposición como cuota fija.
+
+XIII. Para los efectos del artículo 77 de esta Ley, la expedición de certificados de no propiedad para adquisición de viviendas de interés social o popular causarán el 50% de los derechos establecidos
+
+en esa disposición.
+
+XIV. Para los efectos de las fracciones III y IV del artículo 95 de esta Ley, los derechos por la expedición de constancias relativas a vivienda de interés social o popular que expida la Dirección de Catastro, causarán el derecho equivalente a 1 VSMGZ.
+
+XV. Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos en el artículo 103 de esta Ley, cuando la solicitud no implique cambio de uso de suelo respecto del Plan de Desarrollo Urbano vigente, causarán y pagarán 6 VSMGZ, en lugar de la tasa establecida por dicho numeral.
+
+XVI. Para los efectos del artículo 104 de esta Ley, la validación de licencias para obras de construcción, tratándose de zonas, colonias o fraccionamientos populares que se consideren como tales en los planos reguladores, causarán y pagarán el 50 por ciento de los derechos establecidos en esa disposición.
+
+XVII. Tratándose de desarrollos habitacionales de tipo interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos por el artículo 104 de esta Ley, causarán y pagarán 2 VSMGZ por cada vivienda, en lugar de la tasa establecida en dicho artículo.
+
+XVIII. Tratándose de desarrollos habitacionales de tipo interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos por el artículo 105 de esta Ley, causarán y pagarán 0.90 VSMGZ por cada vivienda, en lugar de la tasa establecida en dicho artículo.
+
+XIX. Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos en el artículo 111 de esta Ley, causarán y pagarán 25 VSMGZ, por cada prototipo de vivienda social o popular con que cuente el desarrollo, sin importar el número total de ellas en el mismo, en lugar de la tasa establecida en dicha disposición.
+
+XX. Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previsto en los artículos 109, 112, 113 y 119 de esta Ley, causarán y pagarán 50 por ciento de los derechos establecidos en dichas disposiciones.
+
+XXI. Tratándose de desarrollos habitacionales de tipo de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas previstos por el artículo 114 de esta Ley, causarán y pagarán el 25 por ciento del derecho establecido en esa disposición.
+
+XXII. Durante los meses de mayo, junio y julio del ejercicio fiscal del año 2005, los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana establecidos en el artículo 129 fracción I de esta Ley, causarán y pagarán el 50 por ciento de los derechos señalados en el mismo.
+
+XXIII. Cuando la revisión mecánica a que se refiere el Artículo 131 se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno, se causará un 50 por ciento de los derechos correspondientes.
+
+XXIV. Cuando los avisos de testamentos a los que se refiere el Artículo 82 se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+XXV. Las dependencias del Poder Ejecutivo estarán liberadas de presentar la documentación que se menciona en el párrafo segundo del artículo 26 del Código Fiscal del Estado, cuando se trate de lo señalado en el Título Cuarto, Capítulos Segundo, Tercero, Cuarto y Octavo de la presente Ley.
+
+XXVI. Para el ejercicio fiscal del año 2005, los contribuyentes que realicen el pago de los derechos por refrendo de licencias para Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
 
 T R A N S I T O R I O S
 
@@ -2324,3 +2892,17 @@ P.O. 6 DE ENERO DE 2004.
 Artículo Primero.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 9 DE DICIEMBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor el día primero de enero de 2005.
+
+Artículo Segundo. - El aviso de empadronamiento a que se refiere el artículo 49-D de la Ley de Hacienda del Estado de Querétaro, deberá presentarse, por primera vez, a más tardar el día 22 de febrero de 2005, junto con la declaración de pago del impuesto correspondiente al mes de enero.
+
+Artículo Tercero. - La Secretaría de Planeación y Finanzas deberá aprobar y publicar las formas correspondientes para la presentación de los avisos y declaraciones, a más tardar el día 30 de enero de 2005; asimismo, deberá establecer las oficinas correspondientes, autorizadas para recibirlos.
+
+Artículo Cuarto.- La recaudación por el impuesto que se establece en los artículos 49-A a 49-D de la Ley de Hacienda del Estado de Querétaro, serán destinados exclusivamente a inversión en infraestructura, obra pública y social, quedando prohibida su afectación a gasto corriente de cualquier tipo.
+
+Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
