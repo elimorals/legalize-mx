@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2001-05-18"
+last_updated: "2001-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DEL 2001.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -601,7 +601,9 @@ IV.- Administración de Justicia;
 
 V.- Hacienda;
 
-VI.- Desarrollo Económico;
+> <small>(REFORMADA, P. O. 20 DE JULIO DEL 2001)</small>
+
+VI.- Desarrollo Económico y Sustentable;
 
 VII.- Educación y Cultura;
 
@@ -1352,3 +1354,7 @@ Se derogan todas las disposiciones que se opongan a la presente ley
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigencia a partir de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE JULIO DEL 2001
+
+UNICO .- La presente Ley entrará en vigor a partir de su aprobación.
