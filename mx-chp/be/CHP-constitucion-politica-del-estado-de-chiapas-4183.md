@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1970-06-17"
+last_updated: "1972-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1972.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -43,7 +43,7 @@ CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
 El Estado de Chiapas es parte integrante de la República Mexicana, es libre y soberano en su régimen interior sin más limitaciones que las expresamente establecidas por el Pacto Federal, la soberanía reside esencial y originariamente en el pueblo de Chiapas, en cuyo nombre lo ejerce el poder público, en la forma y términos que las leyes lo establecen.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1959)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1972)</small>
 
 ###### ARTICULO 2.
 
@@ -112,8 +112,6 @@ ESCUINTLA, con sus Agencias Municipales de Tizapa, El Triunfo y Doña María.
 EL PORVENIR, con sus Agencias Municipales de Chimalapa, El Zapotillo y Malé.
 
 EL BOSQUE, con sus Agencias Municipales de Nishtalucum, Plátanos y Chavajaval.
-
-EL ZAPOTAL.
 
 FRONTERA COMALALA, con sus Agencias Municipales de El Portal, Paso Hondo, Ibarra y Zapotal.
 
@@ -226,6 +224,8 @@ SUCHIAPA, con sus Agencias Municipales de Riberas de la Furia, Pacú y Plan de M
 SUNUAPA.
 
 SAN FERNANDO.
+
+SAN LUCAS.
 
 SITALA.
 
@@ -1548,3 +1548,7 @@ P.O. 17 DE JUNIO DE 1970.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1972.
+
+UNICO.- Este decreto comenzará a regir desde la fecha de su publicasión (sic) en el Periódico Oficial del Estado.
