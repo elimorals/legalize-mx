@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1994-07-25"
+last_updated: "1995-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -565,11 +565,11 @@ Los Diputados deberán cumplir puntualmente sus deberes legislativos, de gestor�
 
 Las oficinas públicas deberán facilitar el cumplimiento de estas obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 44.
 
-El Congreso del Estado, o la Comisión Permanente en su caso, determinará la fecha en que dentro de los quince primeros días del mes de Diciembre, se celebrará la Sesión Extraordinaria, Pública y Solemne en la que el Titular del Poder Ejecutivo deberá rendir informe sobre la situación general que guarden los diversos Ramos de la Administración Pública Estatal. El Presidente del Congreso contestará el informe en términos generales.
+Dentro de los primeros quince días del mes de diciembre, el Titular del Poder Ejecutivo, enviará por escrito al Congreso del Estado, el informe sobre la situación general que guardan los diversos ramos de la Administración Pública Estatal.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -967,7 +967,9 @@ V.- Pedir a la Comisión Permanente que convoque al Congreso a Sesiones Extraord
 
 VI.- Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa que él mismo haya presentado o enviar un representante para tales efectos.
 
-VII.- Rendir el informe sobre el estado general que guarda la Administración Pública, a que se refiere el artículo 44.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 1995)</small>
+
+VII.- Enviar por escrito al Congreso del Estado, el informe sobre la situación general que guarda la Administración Pública, en términos de lo establecido por el Artículo 44 de este mismo ordenamiento.
 
 VIII.- Presentar al Congreso en los primeros quince días del mes de noviembre de cada año, los proyectos de Ley de Ingresos y Presupuesto de Egresos que hayan de regir en el año siguiente.
 
@@ -1762,3 +1764,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE ENERO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
