@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2001-12-20"
+last_updated: "2002-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE AGOSTO DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -139,67 +139,71 @@ Dependencias del Ejecutivo
 
 Para el estudio, planeación y despacho de los asuntos, en los diversos ramos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo, las siguientes dependencias:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 I. Secretaría General de Gobierno;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 II. Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 III. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+(REFORMADA, P.O. 2 DE AGOSTO DE 2002) (F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)
 
-IV. Secretaría del Trabajo y Previsión Social;
+IV. Secretaría del Trabajo y de la Previsión Social;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 V. Secretaría de Educación, Cultura y Bienestar Social;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 VI. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 VII. Secretaría de Desarrollo Urbano y Obras Públicas;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 VIII. Secretaría de Desarrollo Agropecuario;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
 IX. Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-X. Secretaría de Administración;
+X. Secretaría de Desarrollo Metropolitano;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-XI. Secretaría de la Contraloría;
+XI. Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-XII. Secretaría de Comunicaciones y Transportes;
+XII. Secretaría de la Contraloría;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-XIII. Secretaría de Ecología.
+XIII. Secretaría de Comunicaciones.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-XIV. Secretaría de Desarrollo Metropolitano
+XIV. Secretaría de Transporte
+
+> <small>(ADICIONADA P.O. 2 DE AGOSTO DE 2002)</small>
+
+XV. Secretaría de Ecología
 
 El Procurador General de Justicia depende del Gobernador y ejercerá las funciones que la Constitución Política del Estado y demás Leyes le confieran. Este funcionario será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
-Las secretarías a que se refieren las fracciones II a XIV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
+Las Secretarías a que se refieren las fracciones II a XV de este artículo, tendrán igual rango y entre ellas, no habrá preeminencia alguna.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1992)</small>
 
@@ -299,7 +303,7 @@ III. Dirigir los programas y acciones de desarrollo social instrumentados por el
 
 IV. Concertar programas prioritarios para la atención de grupos indígenas y habitantes de zonas rurales y urbanas marginadas;
 
-V.Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
+V. Coordinar los programas y acciones de combate a la pobreza que se ejecuten en la Entidad;
 
 VI. Proponer e impulsar acciones y obras para el desarrollo regional en la Entidad, en coordinación con las dependencias y organismos auxiliares del Ejecutivo Estatal y los municipios;
 
@@ -651,45 +655,55 @@ XVII. Impulsar y promover los trabajos de introducción de energía eléctrica e
 
 XVIII. Las demás que le señalen las leyes y reglamentos vigentes.
 
-> <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Comunicaciones y Transportes es el Organo encargado del desarrollo y la administración de la red carretera, y de la regulación del transporte y las comunicaciones de jurisdicción local.
+La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y ejecutar los programas carreteros, de comunicaciones, de transportes y de vialidad del Estado.
+I. Formular y ejecutar los programas de infraestructura vial primaria;
 
-II. Establecer las normas técnicas a que debe sujetarse la construcción y operación de los programas a que se refiere la fracción anterior.
+II. Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local;
 
-III. Vigilar el cumplimiento de las disposiciones legales en materia de comunicaciones y transporte público local, con la intervención que corresponda a otras autoridades.
+III. Emitir el dictamen de incorporación e impacto vial tratándose de las autorizaciones de impacto regional;
 
-IV. Coordinar la ejecución de planes y proyectos de obras de construcción, ampliación, rehabilitación y mantenimiento de la red carretera y de la infraestructura de comunicaciones del Estado.
+IV. Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
 
-V. Construir, mantener y conservar en su caso, directamente o por adjudicación a particulares en términos de Ley, las obras de vialidad, de carreteras libres y de cuota y demás infraestructura de comunicaciones, de jurisdicción local y las que se le asignen.
+V. Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
 
-VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance de las obras a que se refieren las fracciones anteriores, sin perjuicio de las facultades que en dichas materias correspondan a otras Dependencias.
+VI. Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria de su competencia directamente o a través de particulares mediante el otorgamiento de concesiones y contratos;
 
-VII. Establecer conforme a la Ley, las normas técnicas y administrativas para la prestación del servicio público de transporte local.
+VII. Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
 
-VIII. Otorgar, revocar, modificar y declarar la caducidad de concesiones, permisos y autorizaciones para la prestación del servicio público de transporte en vías de jurisdicción local y ejercer el derecho de reversión.
+VIII. Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota, ejerciendo los derechos de rescate y reversión;
 
-IX. Fijar las tarifas de transporte público del Estado, con base en los estudios técnicos que realice.
+IX. Administrar las vías de cuota a cargo del Estado de México;
 
-X. Prevenir y sancionar el incumplimiento por los concesionarios a las obligaciones establecidas en las autorizaciones, permisos y concesiones respectivas, para asegurar la prestación del servicio.
+X. Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria;
 
-XI. Realizar las tareas relativas a la Ingeniería del Transporte y al Señalamiento de la vialidad del Estado, en coordinación con otras Autoridades.
+XI. Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
 
-XII. Ejecutar y promover acciones, cuando así se requiera, para el mejoramiento del transporte público en la Entidad, en coordinación en su caso, con Autoridades Federales, Locales y de otras Entidades y Municipales, que correspondan.
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
-XIII. Concesionar la construcción, administración, operación y conservación de caminos y vialidades de cuota de competencia local.
+XII. Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
 
-XIV. Administrar las vías de cuota a cargo del Gobierno del Estado de México.
+XIII. Realizar las tareas relativas a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
 
-XV. Expedir en coordinación con las Dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre.
+XIV. Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
 
-XVI. Las demás que le señalen las Leyes y Reglamentos vigentes.
+XV. Expedir las bases a que deben sujetarse los concursos públicos para el otorgamiento de concesiones en materia de infraestructura vial primaria, adjudicarlas, vigilar su ejecución y cumplimiento;
+
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+
+XVI. Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
+
+XVII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de telecomunicaciones;
+
+XVIII. Inscribir y anotar la información en materia de infraestructura vial en el Registro Público Estatal de Transporte e Infraestructura Vial;
+
+XIX. Las demás que señalen otras leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 24 DICIEMBRE DE 1991)</small>
 
@@ -741,53 +755,99 @@ XX. Aplicar las sanciones previstas en las disposiciones legales de la materia y
 
 XXI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Desarrollo Agropecuario es el órgano encargado de promover y regular el desarrollo agrícola, ganadero, forestal, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+La Secretaría de Transporte es la dependencia encargada de planear, formular, dirigir, coordinar, evaluar, ejecutar y supervisar las políticas y programas para el desarrollo integral del servicio público de transporte de jurisdicción estatal y de sus servicios conexos.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
+A esta Secretaría le corresponde el despacho de los siguientes asuntos:
+
+I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
+
+II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, de alta capacidad o masivo, individual y mixto y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento. El proceso de otorgamiento será inscrito en el Registro Público Estatal de Transporte e Infraestructura Vial y publicado en la Gaceta del Gobierno, mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+
+III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros especializado y el de carga; de servicios auxiliares de arrastre, de arrastre y salvamento, y depósito de vehículos; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos;
+
+IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
+
+V. Vigilar el cumplimiento de las disposiciones legales en materia de transporte público dictando al respecto, las medidas administrativas que sean necesarias para el mejoramiento de la prestación del servicio.
+
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+
+VI. Ejecutar las acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras o de la prestación de los servicios en materia de transporte, sin perjuicio de la intervención que corresponda a otras autoridades;
+
+VII. Autorizar y modificar las tarifas a que se sujete el servicio público de transporte;
+
+VIII. Prevenir y sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de transporte público.
+
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+
+IX. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
+
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+
+X. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria.
+
+XI. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
+
+XII. Inscribir y anotar en el Registro Público Estatal de Transporte e Infraestructura Vial, los actos relativos al transporte público;
+
+XIII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte;
+
+XIV. Emitir las disposiciones administrativas necesarias para la desconcentración por región de la Secretaría, así como las facultades de las unidades desconcentradas;
+
+XV. Aplicar las medidas de seguridad en términos de la legislación vigente;
+
+XVI. Las demás que señalen otras leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 34.
 
+La Secretaría de Desarrollo Agropecuario es la dependencia encargada de promover y regular el desarrollo agrícola, ganadero, forestal, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+
 A la Secretaría de Desarrollo Agropecuario corresponde el despacho de los siguientes asuntos:
 
-I.- Rectoría, normatividad y programación de la producción agrícola, ganadera, forestal, pesquera, hidráulico y agroindustrial, así como la atención y solución de los problemas rurales en el Estado.
+I. Rectoría, normatividad y programación de la producción agrícola, ganadera, forestal, pesquera, hidráulico y agroindustrial, así como la atención y solución de los problemas rurales en el Estado.
 
-II.- Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a las ramas agrícolas, ganadera, forestal y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares.
+II. Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a las ramas agrícolas, ganadera, forestal y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares;
 
-III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial de la Entidad.
+III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial de la entidad;
 
 IV. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico y agroindustrial, para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
 
-V. Establecer los programas estatales prioritarios de desarrollo desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos.
+V. Establecer los programas estatales prioritarios de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos;
 
-VI.- Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal y pesquera en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado.
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
-VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, agrícola, ganadera, forestal y pesquera en la Entidad.
+VI. Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal y pesquera en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado;
+
+> <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
+
+VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, agrícola, ganadera, forestal y pesquera en la Entidad;
 
 VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad agrícola, ganadera, forestal, pesquera y agroindustrial en el Estado.
 
 IX. Promover el establecimiento y vigilar el funcionamiento de las estaciones que conforman el sistema meteorológico del Estado.
 
-X. Promover y organizar congresos, ferias, exposiciones y concursos agrícolas, ganaderos, forestales y pesqueros en el Estado, así como participar en eventos de carácter Nacional e Internacional.
+X. Promover y organizar Congresos, ferias, exposiciones y concursos agrícolas, ganaderos, forestales y pesqueros en el Estado, así como participar en eventos de carácter nacional e internacional;
 
-XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas.
+XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas;
 
-XII. Promover la constitución de organizaciones de productores agrícolas, ganaderas, forestales, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social.
+XII. Promover la constitución de organizaciones de productores agrícolas, ganaderas, forestales, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social;
 
-XIII. Intervenir en los convenios de Coordinación que celebren el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, forestal, pesquero, hidráulico y agroindustrial, o con los municipios, así como con otras Entidades Públicas.
+XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, forestal, pesquero, hidráulico y agroindustrial, o con los municipios, así como con otras entidades públicas;
 
-XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal.
+XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal;
 
 XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
 
-XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales.
+XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales;
 
-XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado.
+XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado;
 
-XVIII. Coordinar las actividades operativas de las coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica se establezcan en la Entidad.
+XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica se establezcan en la entidad;
 
 XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
 
@@ -1198,6 +1258,22 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en
 TERCERO.- Los recursos humanos, materiales y financieros a cargo de la Coordinación General de Asuntos metropolitanos, pasarán a formar parte de la Secretaría de Desarrollo Metropolitano.
 
 CUARTO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2002
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno"
+
+TERCERO.- Las secretarías de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento de la Secretaría de Comunicaciones y la Secretaría de Transporte.
+
+CUARTO.- El Gobernador Constitucional del Estado deberá expedir los reglamentos internos de las Secretarías de Comunicaciones y de Transporte, dentro de los 120 días hábiles siguientes al de la fecha de publicación del presente decreto.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Comunicaciones y Transportes en materia de transporte, se entenderá que las mismas se encuentran reservadas a la Secretaría de Transporte del Estado de México.
+
+SEPTIMO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de la Secretaría de Comunicaciones y Transportes en materia de comunicaciones, se entenderá que las mismas se encuentran reservadas a la Secretaría de Comunicaciones del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
