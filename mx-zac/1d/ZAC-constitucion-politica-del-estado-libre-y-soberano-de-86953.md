@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2002-12-28"
+last_updated: "2003-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2003.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -257,7 +259,23 @@ I. Los nacidos dentro del territorio del Estado; y
 
 II. Los mexicanos nacidos fuera del territorio del Estado, siempre que sean hijos de padres zacatecanos, o de padre o madre zacatecano.
 
-Las personas que reúnan cualquiera de los requisitos previstos en las dos fracciones anteriores, para gozar de todos los derechos y prerrogativas establecidos en favor de los zacatecanos por la presente Constitución, deberán avecindarse en el territorio del Estado con el ánimo de permanecer en él.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Las personas que reúnan cualquiera de los requisitos previstos en las dos fracciones anteriores, para gozar de todos los derechos y prerrogativas establecidos a favor de los zacatecanos por la presente Constitución, deberán residir en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Para el ejercicio de los derechos y prerrogativas en materia electoral, se entenderá que los zacatecanos tienen residencia binacional y simultánea en el extranjero y en territorio del Estado, cuando sin perjuicio de que tengan residencia en otro país, acrediten que por lo menos seis meses antes del día de la elección, poseen:
+
+a). Domicilio propio, no convencional, en territorio del Estado;
+
+b). Registro Federal de Contribuyentes;
+
+c). Clave Única de Registro de Población; y
+
+d) Credencial para Votar con Fotografía.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 Los zacatecanos serán preferidos frente a quienes no lo sean, para toda clase de concesiones que deban otorgar los gobiernos del Estado o de sus Municipios, y en la asignación de empleos, cargos o comisiones, remunerados u honoríficos, que corresponda discernir a dichos gobiernos.
 
@@ -269,7 +287,9 @@ Son ciudadanos del Estado:
 
 I. Los zacatecanos que han cumplido dieciocho años y tienen un modo honesto de vivir;
 
-II. Los mexicanos vecinos del Estado, con residencia efectiva de por lo menos cinco años, que soliciten y obtengan de la Legislatura el reconocimiento de la calidad de zacatecanos; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+II. Los mexicanos vecinos del Estado, con residencia de por lo menos seis meses, incluyendo la residencia binacional y simultánea, en los términos y con los requisitos que establezca la ley.
 
 III. Los mexicanos a quienes la Legislatura del Estado, con pleno conocimiento de causa, declare zacatecanos en virtud de haber prestado servicios de alta significación para el desarrollo material y cultural de la Entidad.
 
@@ -281,7 +301,9 @@ I. Votar en las elecciones populares;
 
 II. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias;
 
-III. Ser votados para todos los cargos de elección popular y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE OCTUBRE DE 2003)</small>
+
+III. Ser votados para todos los cargos de elección popular y nombrados para cualquier otro empleo o comisión, siempre que reúnan las calidades que establece la ley. Para ocupar los cargos de diputado local o integrante de algún Ayuntamiento, no se requiere ser mexicano por nacimiento; y
 
 IV. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio
 
@@ -323,15 +345,21 @@ La calidad de ciudadano zacatecano se pierde:
 
 I. Por dejar de ser ciudadano mexicano; y
 
-II. Por residir más de tres años consecutivos fuera del territorio del Estado en el caso de que la ciudadanía se haya adquirido por reconocimiento de la Legislatura, salvo en los casos señalados por la ley, o por la adquisición de ciudadanía diversa en otra entidad federativa.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+II. Por residir más de tres años consecutivos fuera del territorio del Estado en el caso de que la ciudadanía se haya adquirido por vecindad.
 
 ###### Artículo 18.
 
 Los derechos de ciudadanía zacatecana se restituyen:
 
-I. Por recobrar la ciudadanía mexicana y establecer su residencia en el Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-II. Por restablecer su residencia efectiva en el Estado por lo menos durante tres años; y
+I. Por recobrar la ciudadanía mexicana y establecer o tener establecida su residencia en el Estado de Zacatecas;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+II. Por restablecer su residencia en el Estado por lo menos durante seis meses; y
 
 III. Por extinción de la pena, concluir el término o cesar las causas de la suspensión.
 
@@ -635,9 +663,11 @@ Es obligación de los distintos órganos del poder público instituir relaciones
 
 El Poder Legislativo se deposita en una asamblea que se nombrará "Legislatura del Estado", integrada por representantes del Pueblo denominados Diputados, los que serán electos en su totalidad cada tres años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 51.
 
-La Legislatura del Estado se integra con dieciocho Diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce Diputados electos según el principio de representación proporcional, conforme al sistema de listas plurinominales votadas en una sola circunscripción electoral.
+La Legislatura del Estado se integra con dieciocho diputados electos por el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, y por doce diputados electos según el principio de representación proporcional, conforme al sistema de listas plurinominales votadas en una sola circunscripción electoral. De éstos últimos, dos deberán tener al momento de la elección, la calidad de migrantes o binacionales, en los términos que establezca la ley.
 
 Las elecciones de Diputados por ambos sistemas se sujetarán a las bases establecidas en esta Constitución y a las disposiciones de la ley electoral. Los Diputados de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
@@ -649,25 +679,45 @@ La demarcación territorial de los dieciocho distritos electorales uninominales 
 
 La facultad de asignar Diputados de representación proporcional corresponderá al Consejo General del Instituto Electoral del Estado, el que deberá ejercerla en la sesión de cómputo estatal que para el efecto prevenga la ley electoral, de conformidad con la convocatoria emitida por el Consejo para esa elección.
 
-Para la asignación de Diputados de representación proporcional se seguirá el orden que tuvieren los candidatos en la lista correspondiente. Al efecto, se aplicará una fórmula de proporcionalidad pura, integrada por los siguientes elementos: cociente natural y resto mayor. Ningún partido podrá tener más de dieciocho Diputados en la Legislatura, por ambos principios.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
 
-Para que un partido tenga derecho a participar en la asignación de Diputados por el principio de representación proporcional, deberá de acreditar:
+Para la asignación de diputados de representación proporcional se seguirá el orden que tuvieren los candidatos en la lista correspondiente, a excepción de los dos que tengan la calidad de migrantes o binacionales, los que serán asignados a los dos partidos políticos que obtengan el mayor porcentaje en la votación. Al efecto, se aplicará una fórmula de proporcionalidad pura, integrada por los siguientes elementos: cociente natural y resto mayor. Ningún partido podrá tener más de dieciocho diputados en la Legislatura, por ambos principios.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Los partidos políticos podrán coligarse conforme a la ley, y bajo un convenio que contenga fundamentalmente las bases siguientes: emblema único, representación única y financiamiento único.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Para que un partido o coalición tenga derecho a participar en la asignación de diputados por el principio de representación proporcional, deberá de acreditar:
 
 I. Que participa con candidatos cuando menos en trece distritos electorales uninominales así como en la totalidad de las fórmulas por lista plurinominal; y
 
-II. Que obtuvo por lo menos dos por ciento de la votación total efectiva en el Estado.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-Al partido político que hubiere alcanzado la mayoría de la votación estatal efectiva y cumplido con las bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, se le asignarán Diputados por el principio de representación proporcional, en un número que, en ningún caso podrá exceder de dieciocho Diputados por ambos principios, o un porcentaje de integración de la Legislatura superior a once por ciento respecto de su votación efectiva.
+II. Que obtuvo por lo menos el dos punto cinco por ciento de la votación total efectiva en el Estado.
 
-Esta regla no se aplicará al partido político que obtenga, por el principio de mayoría relativa, el triunfo en los dieciocho distritos uninominales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
 
-Las diputaciones de representación proporcional que resten, después de asignar las que correspondan en los términos de los dos párrafos precedentes, se asignarán a los demás partidos, una vez que se ajuste la votación estatal efectiva, en proporción a sus respectivas votaciones estatales. La ley establecerá las reglas y fórmulas aplicables para tales efectos.
+Al partido político o coalición que hubiere alcanzado la mayoría de la votación estatal efectiva y cumplido con las bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, se le asignarán diputados por el principio de representación proporcional, en un número que, en ningún caso podrá exceder de dieciocho diputados por ambos principios, o un porcentaje de integración de la Legislatura superior a ocho por ciento respecto de su votación efectiva. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Esta regla no se aplicará al partido político o coalición que obtenga, por el principio de mayoría relativa, el triunfo en los dieciocho distritos uninominales. En este caso, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minoría.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
+
+Las diputaciones por el principio de representación proporcional que resten, después de asignar las que correspondan al partido que se encuentre en el supuesto de los dos párrafos precedentes, y una vez que se ajuste la votación estatal efectiva, se asignarán a los demás partidos o coaliciones, con derecho a ello, en proporción directa con sus respectivas votaciones estatales. La ley desarrollará las reglas y fórmulas para tales efectos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 53.
 
-Para ser Diputado se requiere:
+Para ser diputado se requiere:
 
-I. Ser ciudadano zacatecano en pleno ejercicio de sus derechos, con residencia efectiva en el Estado no menor a un año inmediato anterior al día de la elección;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+I. Ser ciudadano zacatecano en pleno ejercicio de sus derechos, con residencia efectiva o binacional en el Estado, por un periodo no menor a seis meses inmediato anterior al día de la elección.
 
 II. Tener veintiún años cumplidos al día de la elección;
 
@@ -681,9 +731,11 @@ VI. No ser titular de unidad administrativa ni oficina recaudadora de la Secreta
 
 VII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 54.
 
-El Diputado en ejercicio no puede desempeñar otro cargo de elección popular, y para cumplir alguna comisión de la Federación, de éste u otro Estado o Municipio necesita permiso previo de la Legislatura o de la Comisión Permanente; si infringe esta disposición, perderá su condición de Diputado previo el trámite correspondiente.
+El diputado en ejercicio no puede desempeñar otro cargo de elección popular, y para cumplir alguna comisión de la Federación, de éste u otro Estado o Municipio, o de gobierno extranjero, necesita permiso previo de la Legislatura o de la Comisión Permanente; si infringe esta disposición, perderá su condición de diputado previo el trámite correspondiente.
 
 Ningún ciudadano podrá, sin motivo justificado, excusarse de desempeñar el cargo de Diputado. Sólo la Legislatura tiene la facultad de resolver si es de admitirse la excusa y, en caso de renuncia, si es de aceptarse.
 
@@ -1663,6 +1715,8 @@ Las modificaciones a los nombres de los Municipios se realizarán a iniciativa d
 
 Los límites de los Municipios quedan determinados en la forma que se encuentran al promulgarse la presente Constitución, y sólo podrán modificarse en los términos ordenados por esta Ley Fundamental.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2003 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 118.
 
 El Estado tiene al Municipio Libre como base de su división territorial y de su organización política y administrativa, conforme a las siguientes bases:
@@ -1689,7 +1743,9 @@ III. Son requisitos para ser Presidente Municipal, Síndico o Regidor de los Ayu
 
 a) Ser ciudadano zacatecano, en los términos previstos por la presente Constitución, y estar en pleno goce de sus derechos políticos;
 
-b) Ser vecino del Municipio respectivo, con residencia efectiva e ininterrumpida durante el año inmediato anterior a la fecha de la elección;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+b) Ser vecino del Municipio respectivo, con residencia efectiva e ininterrumpida durante los seis meses inmediatos anteriores a la fecha de la elección, o bien, en el caso de los migrantes y binacionales, tener por el mismo lapso la residencia binacional y simultánea.
 
 c) Ser de reconocida probidad, tener modo honesto de vivir, estar inscrito en el Registro Federal de Electores y tener la correspondiente credencial para votar;
 
@@ -1705,7 +1761,9 @@ h) No ser Magistrado del Tribunal Superior de Justicia, Juez de primera instanci
 
 i) No ser miembro de los órganos electorales, del Tribunal Estatal Electoral, ni prestar servicios de carácter profesional en alguno de ellos, salvo que hubiese renunciado ciento ochenta días antes de la elección. Se exceptúan de tal prohibición los consejeros representantes del Poder Legislativo y los representantes de los partidos políticos;
 
-IV. Los partidos políticos tendrán derecho a Regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos dos por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
+
+II (SIC). Los partidos políticos o coaliciones tendrán derecho a regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el dos punto cinco por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
 
 La ley establecerá las fórmulas y los procedimientos para la asignación de los Regidores por el principio de representación proporcional de los Ayuntamientos.
 
@@ -2498,3 +2556,7 @@ P.O. 28 DE DICIEMBRE DE 2002.
 DECRETO No. 157, POR EL QUE SE ADICIONA EL PRIMER PÁRRAFO DEL ARTÍCULO 90 Y SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE ZACATECAS.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
