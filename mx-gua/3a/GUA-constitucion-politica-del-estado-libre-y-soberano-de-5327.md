@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1922-05-28"
+last_updated: "1922-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1922.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -353,7 +353,11 @@ XXVI. Mandar llevar en la Sría. del Despacho, un libro reservado en donde const
 
 XXVII. Mandar formar causa a los mismos funcionarios y empleados, cuando a su juicio lo merecieren.
 
-XXVIII. Las demás que le concedan esta Constitución y las leyes locales.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1922)</small>
+
+XXVIII. Enajenar, traspasar, hipotecar, gravar y ejercer cualquier otro acto de riguroso dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, previa autorización del Congreso en cada caso especial, ateniéndose a las condiciones que el mismo Congreso determine, al que deberá dar cuenta en todo caso del uso que hiciere de la autorización.
+
+XXIX. Las demás que le concedan esta Constitución y las leyes locales.
 
 ###### Art. 57.
 
@@ -689,7 +693,9 @@ XXXIV. Interpretar las leyes y decretos del Estado, cuando la necesidad lo exija
 
 XXXV. Reformar, de acuerdo con esta Constitución y con la Federal, las leyes secundarias del Estado, haciendo consecutivamente su codificación.
 
-XXXVI. Y las demás facultades que de un modo especial, se indiquen en cualquiera de los capítulos de esta Constitución.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1922)</small>
+
+XXXVI. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando en cada caso especial las condiciones a que deba sujetarse, o dejándolas a juicio del mismo Gobierno, quien en todo caso dará cuenta al Congreso del uso que hiciere de la autorización.
 
 #### SECCION CUARTA.
 
@@ -1028,5 +1034,9 @@ P.O. 24 DE NOVIEMBRE DE 1921.
 Artículo segundo:- Las reformas a que se refiere la presente Ley, comenzarán a surtir sus efectos desde el día de su publicación.
 
 P.O. 28 DE MAYO DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 31 DE DICIEMBRE DE 1922.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
