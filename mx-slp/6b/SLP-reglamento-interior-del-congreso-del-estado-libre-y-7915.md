@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-congreso-del-estado-libre-y-7915"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-28"
-last_updated: "1997-09-13"
+last_updated: "2004-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 28 de diciembre de 1993.
 
@@ -725,6 +725,28 @@ Corresponderá al Pleno del Congreso nombrar o remover al Oficial Mayor a petici
 
 Para el manejo de documentos legislativos y de correspondencia, el Oficial Mayor actuará bajo la dirección de la Mesa Directiva del Congreso o de la Diputación Permanente.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 78 Bis.
+
+Del Oficial Mayor dependerá la Unidad de Notificaciones; que tendrá a su cargo el desahogo de las notificaciones, emplazamientos, citaciones, requerimientos y demás diligencias análogas con motivo de los procedimientos que en ejercicio de sus atribuciones instaure el Congreso del Estado, directamente, o por el conducto de alguno de sus órganos.
+
+La Unidad de Notificaciones estará integrada por funcionarios públicos que desempeñarán el cargo de notificador, y que estarán Investidos de fe pública en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 78 Ter.
+
+Las notificaciones relativas a los procedimientos legales que se deriven de la actualización de los órganos del Congreso del Estado, se practicarán con arreglo a la ley de la materia de que se trate, y en su defecto a la ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+
+En lo que toca a la Contaduría Mayor de Hacienda, se aplicarán los procedimientos de notificación previstos en el Título Cuarto, Capítulos I y II del Código Fiscal del Estado, a fin de realizar las diligencias previstas en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 78 Quater.
+
+Los nombramientos de notificador serán expedidos por la Gran Comisión del Honorable Congreso del Estado, y deberán recaer en personas de reconocida honorabilidad, que posean título y cédula profesional de abogado, expedidos por autoridades legalmente facultadas, con por lo menos dos años de experiencia en el ejercicio profesional.
+
 ###### ARTICULO 79.
 
 El Oficial Mayor dependerá de la Gran Comisión en cuanto a la administración de los bienes y a la suministración de elementos y servicios del Congreso.
@@ -1304,3 +1326,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 P.O. 13 DE SEPTIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2004.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
